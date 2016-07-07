@@ -1,0 +1,638 @@
+etcsl_no,text_name,version,l_no,text
+c.1.8.2.3,Enmerkar and the lord of Aratta,,1,sux:iri[city]N sux:gud[ox]N sux:huš[reddish]V/i sux:teš[vigor]N sux:ni[fear]N sux:gal[big]V/i sux:gur[lift]V/t
+c.1.8.2.3,Enmerkar and the lord of Aratta,,2,sux:Kulaba[1]SN sux:kešed[bind]V/t
+c.1.8.2.3,Enmerkar and the lord of Aratta,,3,sux:gaba[chest]N sux:ud[storm]N sux:ki[place]N sux:nam[fate]N sux:tar[cut]V/t
+c.1.8.2.3,Enmerkar and the lord of Aratta,,4,sux:Unug[1]SN sux:kur[mountain]N sux:gal[big]V/i sux:šag[heart]N
+c.1.8.2.3,Enmerkar and the lord of Aratta,,5,sux:kiŋsig[meal]N sux:unu[dwelling]N sux:gal[big]V/i sux:An[1]DN
+c.1.8.2.3,Enmerkar and the lord of Aratta,,6,sux:ud[sun]N sux:re[that]DP sux:nam[fate]N sux:tar[cut]V/t
+c.1.8.2.3,Enmerkar and the lord of Aratta,,7,sux:Unug[1]SN sux:Kulaba[1]SN sux:Eanak[1]TN
+c.1.8.2.3,Enmerkar and the lord of Aratta,,8,sux:saŋ[head]N sux:il[raise]V/t sux:Nungalene[1]DN
+c.1.8.2.3,Enmerkar and the lord of Aratta,,9,sux:heŋal[plenty]N sux:aʾeštub[flooding]N sux:ŋal[be]V/i
+c.1.8.2.3,Enmerkar and the lord of Aratta,,10,sux:šeŋ[rain]V/i sux:še[barley]N sux:gunu[flax]N sux:ŋal[be]V/i
+c.1.8.2.3,Enmerkar and the lord of Aratta,,11,sux:Unug[1]SN sux:Kulaba[1]SN sux:tab[double]V/t
+c.1.8.2.3,Enmerkar and the lord of Aratta,,11A,sux:zal[pass]V/t
+c.1.8.2.3,Enmerkar and the lord of Aratta,,12,sux:kur[mountain]N sux:Dilmun[1]GN sux:me[be]V/i
+c.1.8.2.3,Enmerkar and the lord of Aratta,,13,sux:Eanak[1]TN sux:Unug[1]SN sux:Kulaba[1]SN sux:ki[place]N sux:us[follow]V/t
+c.1.8.2.3,Enmerkar and the lord of Aratta,,14,sux:ŋipar[cloister]N sux:kug[pure]V/i sux:Inanak[1]DN
+c.1.8.2.3,Enmerkar and the lord of Aratta,,15,sux:šeg[brick]N sux:Kulaba[1]SN sux:kug[metal]N sux:kindar[hole]N sux:pa[branch]N sux:e[leave]V/i sux:ak[do]V/t
+c.1.8.2.3,Enmerkar and the lord of Aratta,,16,sux:il[raise]V/t sux:bala[turn]V/t sux:ak[do]V/t
+c.1.8.2.3,Enmerkar and the lord of Aratta,,17,sux:il[raise]V/t sux:namgaʾeš[trade]N sux:ak[do]V/t
+c.1.8.2.3,Enmerkar and the lord of Aratta,,18,sux:kugsig[gold]N sux:kugbabbar[silver]N sux:urud[copper]N sux:anna[metal]N sux:lagab[block]N sux:zagin[lapis]N
+c.1.8.2.3,Enmerkar and the lord of Aratta,,19,sux:na[stone]N sux:hursaŋ[mountain]N sux:kur[mountain]N sux:teš[unity]N sux:ed[ascend]V/i
+c.1.8.2.3,Enmerkar and the lord of Aratta,,20,sux:ezem[festival]N sux:a[water]N sux:tu[cvve]V/t
+c.1.8.2.3,Enmerkar and the lord of Aratta,,21,sux:tuš[sit]V/i
+c.1.8.2.3,Enmerkar and the lord of Aratta,,22,sux:ud[sun]N sux:zal[pass]V/t
+c.1.8.2.3,Enmerkar and the lord of Aratta,,23,
+c.1.8.2.3,Enmerkar and the lord of Aratta,,24,
+c.1.8.2.3,Enmerkar and the lord of Aratta,,25,sux:gunu[speckled]V/i
+c.1.8.2.3,Enmerkar and the lord of Aratta,,26,sux:ki[place]N sux:kug[pure]V/i sux:zagin[lapis]N sux:duru[wet]V/i
+c.1.8.2.3,Enmerkar and the lord of Aratta,,27,sux:šag[heart]N sux:mes[tree]N sux:babbar[white]V/i sux:gurun[fruit]N sux:il[raise]V/t sux:sissig[green]V/i
+c.1.8.2.3,Enmerkar and the lord of Aratta,,28,sux:Inanak[1]DN sux:en[lord]N sux:Aratta[1]SN
+c.1.8.2.3,Enmerkar and the lord of Aratta,,29,sux:saŋmen[crown]N sux:kugsig[gold]N sux:ŋal[be]V/i
+c.1.8.2.3,Enmerkar and the lord of Aratta,,30,sux:en[lord]N sux:Kulaba[1]SN sux:sag[good]V/i
+c.1.8.2.3,Enmerkar and the lord of Aratta,,31,sux:Aratta[1]SN sux:eš[shrine]N sux:Eanak[1]TN sux:ŋipar[cloister]N sux:ki[place]N sux:kug[pure]V/i
+c.1.8.2.3,Enmerkar and the lord of Aratta,,32,sux:kug[pure]V/i sux:Inanak[1]DN sux:šeg[brick]N sux:Kulaba[1]SN sux:du[build]V/t
+c.1.8.2.3,Enmerkar and the lord of Aratta,,33,sux:ud[sun]N sux:en[lord]N sux:šag[heart]N sux:pad[find]V/t sux:Inanak[1]DN
+c.1.8.2.3,Enmerkar and the lord of Aratta,,34,sux:kur[mountain]N sux:šuba[multicoloured]V/i sux:šag[heart]N sux:kug[pure]V/i sux:pad[find]V/t sux:Inanak[1]DN
+c.1.8.2.3,Enmerkar and the lord of Aratta,,35,sux:Enmerkar[1]RN sux:dumu[child]N sux:Utu[1]DN
+c.1.8.2.3,Enmerkar and the lord of Aratta,,36,sux:nin[sister]N sux:nin[lady]N sux:kurku[wish]N sux:dug[good]V/i
+c.1.8.2.3,Enmerkar and the lord of Aratta,,37,sux:kug[pure]V/i sux:Inanak[1]DN sux:ugul[cvne]N sux:ŋar[place]V/t
+c.1.8.2.3,Enmerkar and the lord of Aratta,,38,sux:nin[sister]N sux:Aratta[1]SN sux:Unug[1]SN
+c.1.8.2.3,Enmerkar and the lord of Aratta,,39,sux:kugsig[gold]N sux:kugbabbar[silver]N sux:galam[skilful]V/i
+c.1.8.2.3,Enmerkar and the lord of Aratta,,40,sux:zagin[lapis]N sux:duru[wet]V/i sux:lagab[block]N
+c.1.8.2.3,Enmerkar and the lord of Aratta,,41,sux:sudaŋ[metal]N sux:zagin[lapis]N sux:duru[wet]V/i
+c.1.8.2.3,Enmerkar and the lord of Aratta,,42,sux:Unug[1]SN sux:kur[mountain]N sux:kug[pure]V/i sux:du[build]V/t
+c.1.8.2.3,Enmerkar and the lord of Aratta,,43,sux:e[house]N sux:an[sky]N sux:ed[ascend]V/i sux:kigub[station]N
+c.1.8.2.3,Enmerkar and the lord of Aratta,,44,sux:Aratta[1]SN sux:eš[shrine]N sux:Eanak[1]TN sux:du[build]V/t
+c.1.8.2.3,Enmerkar and the lord of Aratta,,45,sux:ŋipar[cloister]N sux:kug[pure]V/i sux:dur[buttocks]N sux:ŋar[place]V/t
+c.1.8.2.3,Enmerkar and the lord of Aratta,,46,sux:šag[heart]N sux:Aratta[1]SN sux:galam[skilful]V/i
+c.1.8.2.3,Enmerkar and the lord of Aratta,,47,sux:ŋaʾe[I]IP sux:šag[heart]N sux:amar[young]N sux:zagin[lapis]N sux:gu[neck]N sux:la[hang]V/t
+c.1.8.2.3,Enmerkar and the lord of Aratta,,48,sux:Aratta[1]SN sux:Unug[1]SN sux:gu[neck]N sux:ŋeš[tree]N sux:ŋar[place]V/t
+c.1.8.2.3,Enmerkar and the lord of Aratta,,49,sux:namlulu[humanity]N sux:Aratta[1]SN
+c.1.8.2.3,Enmerkar and the lord of Aratta,,50,sux:na[stone]N sux:hursaŋ[mountain]N sux:kur[mountain]N sux:ed[ascend]V/i
+c.1.8.2.3,Enmerkar and the lord of Aratta,,51,sux:eš[shrine]N sux:gal[big]V/i sux:du[build]V/t sux:unu[dwelling]N sux:gal[big]V/i sux:ŋar[place]V/t
+c.1.8.2.3,Enmerkar and the lord of Aratta,,52,sux:unu[dwelling]N sux:gal[big]V/i sux:unu[dwelling]N sux:diŋir[deity]N sux:pa[branch]N sux:e[leave]V/i sux:ak[do]V/t
+c.1.8.2.3,Enmerkar and the lord of Aratta,,53,sux:me[Being]N sux:Kulaba[1]SN sux:si[horn]N sux:sa[equal]V/t
+c.1.8.2.3,Enmerkar and the lord of Aratta,,54,sux:abzu[water]N sux:kur[mountain]N sux:kug[pure]V/i sux:mu[grow]V/t
+c.1.8.2.3,Enmerkar and the lord of Aratta,,55,sux:Eridug[1]SN sux:hursaŋ[mountain]N sux:sikil[pure]V/i
+c.1.8.2.3,Enmerkar and the lord of Aratta,,56,sux:eš[shrine]N sux:Abzu[1]TN sux:kug[pure]V/i sux:kindar[hole]N sux:pa[branch]N sux:e[leave]V/i sux:ak[do]V/t
+c.1.8.2.3,Enmerkar and the lord of Aratta,,57,sux:ŋaʾe[I]IP sux:abzu[water]N sux:zamin[lyre]N sux:dug[speak]V/t
+c.1.8.2.3,Enmerkar and the lord of Aratta,,58,sux:Eridug[1]SN sux:me[Being]N sux:de[bring]V/t
+c.1.8.2.3,Enmerkar and the lord of Aratta,,59,sux:namen[priesthood]N sux:men[tiara]N sux:eš[shrine]N sux:bar[outside]V/t sux:sissig[green]V/i
+c.1.8.2.3,Enmerkar and the lord of Aratta,,60,sux:Unug[1]SN sux:Kulaba[1]SN sux:saŋmen[crown]N sux:kug[pure]V/i sux:ŋal[be]V/i
+c.1.8.2.3,Enmerkar and the lord of Aratta,,61,sux:PA.A[unmng]N sux:eš[shrine]N sux:gal[big]V/i sux:ŋipar[cloister]N sux:de[bring]V/t
+c.1.8.2.3,Enmerkar and the lord of Aratta,,62,sux:PA.A[unmng]N sux:ŋipar[cloister]N sux:eš[shrine]N sux:gal[big]V/i sux:de[bring]V/t
+c.1.8.2.3,Enmerkar and the lord of Aratta,,63,sux:namlulu[humanity]N sux:u[admiration]N sux:dug[good]V/i sux:dug[speak]V/t
+c.1.8.2.3,Enmerkar and the lord of Aratta,,64,sux:Utu[1]DN sux:igi[eye]N sux:hul[rejoice]V/i sux:bar[outside]V/t
+c.1.8.2.3,Enmerkar and the lord of Aratta,,65,sux:ud[sun]N sux:kirizal[joy]N sux:An[1]DN sux:kug[pure]V/i sux:nin[lady]N sux:kur[mountain]N sux:igiŋal[wise]AJ
+c.1.8.2.3,Enmerkar and the lord of Aratta,,66,sux:innin[lady]N sux:Amaušumgalanak[1]DN sux:šembizida[kohl]N
+c.1.8.2.3,Enmerkar and the lord of Aratta,,67,sux:Inanak[1]DN sux:nin[lady]N sux:kur[mountain]N
+c.1.8.2.3,Enmerkar and the lord of Aratta,,68,sux:Enmerkar[1]RN sux:dumu[child]N sux:Utu[1]DN sux:gu[voice]N sux:de[pour]V/t
+c.1.8.2.3,Enmerkar and the lord of Aratta,,69,sux:Enmerkar[1]RN sux:ŋen[go]V/i sux:nadeg[advice]N sux:deg[collect]V/t sux:nadeg[advice]N sux:deg[collect]V/t sux:dab[seize]V/t
+c.1.8.2.3,Enmerkar and the lord of Aratta,,70,sux:inim[word]N sux:dug[speak]V/t sux:ŋizzal[ear]N sux:ak[do]V/t
+c.1.8.2.3,Enmerkar and the lord of Aratta,,71,sux:kiŋgia[messenger]N sux:inim[word]N sux:zu[know]V/t sux:zagše[shoulder]N sux:tuku[acquire]V/t sux:erin[people]N sux:pad[find]V/t
+c.1.8.2.3,Enmerkar and the lord of Aratta,,72,sux:inim[word]N sux:gal[big]V/i sux:Inanak[1]DN sux:galanzu[wise]AJ sux:inim[word]N sux:mea[where?]QP sux:de[bring]V/t
+c.1.8.2.3,Enmerkar and the lord of Aratta,,73,sux:hursaŋ[mountain]N sux:Zubi[1]GN sux:ed[ascend]V/i
+c.1.8.2.3,Enmerkar and the lord of Aratta,,74,sux:hursaŋ[mountain]N sux:Zubi[1]GN sux:ed[ascend]V/i
+c.1.8.2.3,Enmerkar and the lord of Aratta,,75,sux:Susa[1]GN sux:kur[mountain]N sux:Anšan[1]GN
+c.1.8.2.3,Enmerkar and the lord of Aratta,,76,sux:peš[mouse]N sux:tur[small]V/i sux:kiri[nose]N sux:šu[hand]N sux:ŋal[be]V/i
+c.1.8.2.3,Enmerkar and the lord of Aratta,,77,sux:hursaŋ[mountain]N sux:gal[big]V/i sux:ni[self]RP sux:lu[abundant]V/i
+c.1.8.2.3,Enmerkar and the lord of Aratta,,78,sux:sahar[soil]N sux:gur[thick]V/i
+c.1.8.2.3,Enmerkar and the lord of Aratta,,79,sux:Aratta[1]SN sux:Unug[1]SN sux:gu[neck]N sux:ŋeš[tree]N sux:ŋar[place]V/t
+c.1.8.2.3,Enmerkar and the lord of Aratta,,80,sux:namlulu[humanity]N sux:Aratta[1]SN
+c.1.8.2.3,Enmerkar and the lord of Aratta,,81,sux:na[stone]N sux:hursaŋ[mountain]N sux:kur[mountain]N sux:ed[ascend]V/i
+c.1.8.2.3,Enmerkar and the lord of Aratta,,82,sux:eš[shrine]N sux:gal[big]V/i sux:du[build]V/t sux:unu[dwelling]N sux:gal[big]V/i sux:ŋar[place]V/t
+c.1.8.2.3,Enmerkar and the lord of Aratta,,83,sux:unu[dwelling]N sux:gal[big]V/i sux:unu[dwelling]N sux:diŋir[deity]N sux:pa[branch]N sux:e[leave]V/i sux:ak[do]V/t
+c.1.8.2.3,Enmerkar and the lord of Aratta,,84,sux:me[Being]N sux:Kulaba[1]SN sux:si[horn]N sux:sa[equal]V/t
+c.1.8.2.3,Enmerkar and the lord of Aratta,,85,sux:abzu[water]N sux:kur[mountain]N sux:kug[pure]V/i sux:mu[grow]V/t
+c.1.8.2.3,Enmerkar and the lord of Aratta,,86,sux:Eridug[1]SN sux:hursaŋ[mountain]N sux:sikil[pure]V/i
+c.1.8.2.3,Enmerkar and the lord of Aratta,,87,sux:eš[shrine]N sux:Abzu[1]TN sux:kug[pure]V/i sux:kindar[hole]N sux:pa[branch]N sux:e[leave]V/i sux:ak[do]V/t
+c.1.8.2.3,Enmerkar and the lord of Aratta,,88,sux:zaʾe[you]IP sux:abzu[water]N sux:zamin[lyre]N sux:dug[speak]V/t
+c.1.8.2.3,Enmerkar and the lord of Aratta,,89,sux:Eridug[1]SN sux:me[Being]N sux:de[bring]V/t
+c.1.8.2.3,Enmerkar and the lord of Aratta,,90,sux:namen[priesthood]N sux:men[tiara]N sux:eš[shrine]N sux:bar[outside]V/t sux:sissig[green]V/i
+c.1.8.2.3,Enmerkar and the lord of Aratta,,91,sux:Unug[1]SN sux:Kulaba[1]SN sux:saŋmen[crown]N sux:kug[pure]V/i sux:ŋal[be]V/i
+c.1.8.2.3,Enmerkar and the lord of Aratta,,92,sux:PA.A[unmng]N sux:eš[shrine]N sux:gal[big]V/i sux:ŋipar[cloister]N sux:de[bring]V/t
+c.1.8.2.3,Enmerkar and the lord of Aratta,,93,sux:PA.A[unmng]N sux:ŋipar[cloister]N sux:eš[shrine]N sux:gal[big]V/i sux:de[bring]V/t
+c.1.8.2.3,Enmerkar and the lord of Aratta,,94,sux:namlulu[humanity]N sux:u[admiration]N sux:dug[good]V/i sux:dug[speak]V/t
+c.1.8.2.3,Enmerkar and the lord of Aratta,,95,sux:Utu[1]DN sux:igi[eye]N sux:hul[rejoice]V/i sux:bar[outside]V/t
+c.1.8.2.3,Enmerkar and the lord of Aratta,,96,sux:namlulu[humanity]N sux:Aratta[1]SN
+c.1.8.2.3,Enmerkar and the lord of Aratta,,97,sux:ud[sun]N sux:šuš[cover]V/t sux:il[raise]V/t
+c.1.8.2.3,Enmerkar and the lord of Aratta,,98,sux:ud[sun]N sux:ten[extinguish]V/t sux:teŋ[approach]V/i
+c.1.8.2.3,Enmerkar and the lord of Aratta,,99,sux:ki[place]N sux:Dumuzid[1]DN sux:u[ewe]N sux:maš[goat]N sux:sila[lamb]N sux:lu[abundant]V/i
+c.1.8.2.3,Enmerkar and the lord of Aratta,,100,sux:a[water]N sux:kalag[strong]V/i sux:ašag[field]N sux:Dumuzid[1]DN
+c.1.8.2.3,Enmerkar and the lord of Aratta,,101,sux:udu[sheep]N sux:kur[mountain]N sux:dub[knee]N sux:ŋar[place]V/t
+c.1.8.2.3,Enmerkar and the lord of Aratta,,102,sux:gaba[chest]N sux:kug[pure]V/i sux:ud[sun]N sux:e[leave]V/i
+c.1.8.2.3,Enmerkar and the lord of Aratta,,103,sux:zipaŋ[breath]N sux:niŋsuh[jewel]N sux:me[be]V/i
+c.1.8.2.3,Enmerkar and the lord of Aratta,,104,sux:zaʾe[you]IP sux:Enmerkar[1]RN sux:dumu[child]N sux:Utu[1]DN sux:zamin[lyre]N
+c.1.8.2.3,Enmerkar and the lord of Aratta,,105,sux:en[lord]N sux:inim[word]N sux:kug[pure]V/i sux:Inanak[1]DN sux:saŋ[head]N sux:kešed[bind]V/t sux:ak[do]V/t
+c.1.8.2.3,Enmerkar and the lord of Aratta,,106,sux:kiŋgia[messenger]N sux:inim[word]N sux:zu[know]V/t sux:zagše[shoulder]N sux:tuku[acquire]V/t sux:erin[people]N sux:pad[find]V/t
+c.1.8.2.3,Enmerkar and the lord of Aratta,,106A,sux:kiŋgia[messenger]N
+c.1.8.2.3,Enmerkar and the lord of Aratta,,107,sux:inim[word]N sux:gal[big]V/i sux:Inanak[1]DN sux:galanzu[wise]AJ sux:inim[word]N sux:mea[where?]QP sux:de[bring]V/t
+c.1.8.2.3,Enmerkar and the lord of Aratta,,108,sux:hursaŋ[mountain]N sux:Zubi[1]GN sux:ed[ascend]V/i
+c.1.8.2.3,Enmerkar and the lord of Aratta,,109,sux:hursaŋ[mountain]N sux:Zubi[1]GN sux:ed[ascend]V/i
+c.1.8.2.3,Enmerkar and the lord of Aratta,,110,sux:Susa[1]GN sux:kur[mountain]N sux:Anšan[1]GN
+c.1.8.2.3,Enmerkar and the lord of Aratta,,111,sux:peš[mouse]N sux:tur[small]V/i sux:kiri[nose]N sux:šu[hand]N sux:ŋal[be]V/i
+c.1.8.2.3,Enmerkar and the lord of Aratta,,112,sux:hursaŋ[mountain]N sux:gal[big]V/i sux:ni[self]RP sux:lu[abundant]V/i
+c.1.8.2.3,Enmerkar and the lord of Aratta,,113,sux:sahar[soil]N sux:gur[thick]V/i
+c.1.8.2.3,Enmerkar and the lord of Aratta,,114,sux:kiŋgia[messenger]N sux:en[lord]N sux:Aratta[1]SN sux:dug[speak]V/t sux:tah[add]V/t
+c.1.8.2.3,Enmerkar and the lord of Aratta,,115,sux:iri[city]N sux:irsaŋ[pigeon]N sux:ŋeš[tree]N sux:dal[fly]V/t
+c.1.8.2.3,Enmerkar and the lord of Aratta,,116,sux:mušen[bird]N sux:gud[nest]N sux:us[follow]V/t sux:dal[fly]V/t
+c.1.8.2.3,Enmerkar and the lord of Aratta,,117,sux:ganba[price]N sux:ŋal[be]V/i sux:sig[put]V/t
+c.1.8.2.3,Enmerkar and the lord of Aratta,,118,sux:iri[city]N sux:gul[destroy]V/t sux:sahar[soil]N sux:haza[hold]V/t
+c.1.8.2.3,Enmerkar and the lord of Aratta,,119,sux:Aratta[1]SN sux:adam[habitation]N sux:Enki[1]DN sux:nam[fate]N sux:kud[cut]V/t
+c.1.8.2.3,Enmerkar and the lord of Aratta,,120,sux:ki[place]N sux:gul[destroy]V/t sux:ki[place]N sux:gul[destroy]V/t
+c.1.8.2.3,Enmerkar and the lord of Aratta,,121,sux:egir[back]N sux:Inanak[1]DN sux:zig[rise]V/t
+c.1.8.2.3,Enmerkar and the lord of Aratta,,122,sux:gu[voice]N sux:rah[beat]V/t sux:šeg-gi[make-noise]V/t sux:gi[turn]V/i
+c.1.8.2.3,Enmerkar and the lord of Aratta,,123,sux:kuš[devastation]N sux:su[sink]V/t sux:kuš[devastation]N sux:su[sink]V/t
+c.1.8.2.3,Enmerkar and the lord of Aratta,,124,sux:kugsig[gold]N sux:utud[bear]V/t sux:lubšir[bag]N sux:ak[do]V/t
+c.1.8.2.3,Enmerkar and the lord of Aratta,,125,sux:kugmea[metal]N sux:sahar[soil]N sux:zag[side]N sux:us[follow]V/t
+c.1.8.2.3,Enmerkar and the lord of Aratta,,126,sux:kug[metal]N sux:saŋ.PA[pouch]N sux:dim[create]V/t
+c.1.8.2.3,Enmerkar and the lord of Aratta,,127,sux:anše[equid]N sux:kur[mountain]N sux:barag[sack]N sux:la[hang]V/t
+c.1.8.2.3,Enmerkar and the lord of Aratta,,128,sux:ŋaʾe[I]IP sux:Enlil[1]DN sux:banda[junior]V/i sux:Kiengir[1]GN
+c.1.8.2.3,Enmerkar and the lord of Aratta,,129,sux:en[lord]N sux:Nudimmud[1]DN sux:šag[heart]N sux:kug[pure]V/i sux:pad[find]V/t
+c.1.8.2.3,Enmerkar and the lord of Aratta,,130,sux:kur[mountain]N sux:me[Being]N sux:sikil[pure]V/i sux:du[build]V/t
+c.1.8.2.3,Enmerkar and the lord of Aratta,,131,sux:taškarin[boxwood]N sux:hili[attractiveness]N sux:ak[do]V/t
+c.1.8.2.3,Enmerkar and the lord of Aratta,,132,sux:Utu[1]DN sux:agrun[cella]N sux:e[leave]V/i sux:simuš[brilliance]N sux:gunu[speckled]V/i
+c.1.8.2.3,Enmerkar and the lord of Aratta,,133,sux:zadu[jamb]N sux:urin[pure]V/i sux:mul[star]N
+c.1.8.2.3,Enmerkar and the lord of Aratta,,134,sux:enun[room]N sux:šir[song]N sux:kug[pure]V/i sux:namšub[incantation]N sux:du[play]V/t
+c.1.8.2.3,Enmerkar and the lord of Aratta,,135,sux:namšub[incantation]N sux:Nudimmud[1]DN sux:ane[he]IP sux:dug[speak]V/t
+c.1.8.2.3,Enmerkar and the lord of Aratta,,136,sux:ud[sun]N sux:muš[snake]N sux:ŋal[be]V/i sux:ŋiri[dagger]N sux:ŋal[be]V/i
+c.1.8.2.3,Enmerkar and the lord of Aratta,,137,sux:kir[hyena]N sux:ŋal[be]V/i sux:urmah[lion]N sux:ŋal[be]V/i
+c.1.8.2.3,Enmerkar and the lord of Aratta,,138,sux:urgir[dog]N sux:urbara[wolf]N sux:ŋal[be]V/i
+c.1.8.2.3,Enmerkar and the lord of Aratta,,139,sux:ni[fear]N sux:teŋ[approach]V/i sux:su[flesh]N sux:zig[rise]V/t sux:ŋal[be]V/i
+c.1.8.2.3,Enmerkar and the lord of Aratta,,140,sux:lulu[man]N sux:gabašuŋar[rival]N sux:tuku[acquire]V/t
+c.1.8.2.3,Enmerkar and the lord of Aratta,,141,sux:ud[sun]N sux:kur[mountain]N sux:Šubur[1]SN sux:Hamazi[1]SN
+c.1.8.2.3,Enmerkar and the lord of Aratta,,142,sux:eme[tongue]N sux:hamun[harmony]N sux:Kiengir[1]GN sux:kur[mountain]N sux:gal[big]V/i sux:me[Being]N sux:namnun[magnificence]N
+c.1.8.2.3,Enmerkar and the lord of Aratta,,143,sux:Akkad[1]GN sux:kur[mountain]N sux:meteŋal[seemly]AJ
+c.1.8.2.3,Enmerkar and the lord of Aratta,,144,sux:kur[mountain]N sux:Martu[1]EN sux:usal[meadow]N sux:nud[lie]V/i
+c.1.8.2.3,Enmerkar and the lord of Aratta,,145,sux:an[sky]N sux:ki[place]N sux:niŋin[encircle]V/t sux:uŋ[people]N sux:saŋ[head]N sux:sig[put]V/t
+c.1.8.2.3,Enmerkar and the lord of Aratta,,146,sux:Enlil[1]DN sux:eme[tongue]N sux:1[1]NU sux:dug[speak]V/t
+c.1.8.2.3,Enmerkar and the lord of Aratta,,147,sux:ud[sun]N sux:ada[contest?]N sux:en[lord]N sux:ada[contest?]N sux:nun[prince]N sux:ada[contest?]N sux:lugal[king]N
+c.1.8.2.3,Enmerkar and the lord of Aratta,,148,sux:Enki[1]DN sux:ada[contest?]N sux:en[lord]N sux:ada[contest?]N sux:nun[prince]N sux:ada[contest?]N sux:lugal[king]N
+c.1.8.2.3,Enmerkar and the lord of Aratta,,149,sux:ada[contest?]N sux:en[lord]N sux:ada[contest?]N sux:nun[prince]N sux:ada[contest?]N sux:lugal[king]N
+c.1.8.2.3,Enmerkar and the lord of Aratta,,150,sux:Enki[1]DN sux:en[lord]N sux:heŋal[plenty]N sux:en[lord]N sux:dug[speak]V/t sux:zid[right]V/i
+c.1.8.2.3,Enmerkar and the lord of Aratta,,151,sux:en[lord]N sux:ŋeštug[ear]N sux:igiŋal[wise]AJ sux:kalam[land]N
+c.1.8.2.3,Enmerkar and the lord of Aratta,,152,sux:massu[leader]N sux:diŋir[deity]N
+c.1.8.2.3,Enmerkar and the lord of Aratta,,153,sux:ŋeštug[ear]N sux:pad[find]V/t sux:en[lord]N sux:Eridug[1]SN
+c.1.8.2.3,Enmerkar and the lord of Aratta,,154,sux:kag[mouth]N sux:eme[tongue]N sux:kur[different]V/i sux:enna[until]CNJ sux:ŋar[place]V/t
+c.1.8.2.3,Enmerkar and the lord of Aratta,,155,sux:eme[tongue]N sux:namlulu[humanity]N sux:1[1]NU sux:me[be]V/i
+c.1.8.2.3,Enmerkar and the lord of Aratta,,156,sux:2-kam-ma[2nd]NU sux:en[lord]N sux:kiŋgia[messenger]N sux:kur[mountain]N sux:ŋen[go]V/i
+c.1.8.2.3,Enmerkar and the lord of Aratta,,157,sux:Aratta[1]SN sux:inim[word]N sux:tah[add]V/t
+c.1.8.2.3,Enmerkar and the lord of Aratta,,158,sux:kiŋgia[messenger]N sux:ŋi[night]N sux:ŋiʾunak[night]N sux:im[rain]N sux:1[1]NU sux:šeŋ[rain]V/i
+c.1.8.2.3,Enmerkar and the lord of Aratta,,159,sux:anbarkar[mid-day]N sux:imdu[dew]N sux:zig[rise]V/t
+c.1.8.2.3,Enmerkar and the lord of Aratta,,160,sux:kiŋgia[messenger]N sux:inim[word]N sux:lugal[king]N sux:saŋ[head]N sux:kešed[bind]V/t sux:ak[do]V/t
+c.1.8.2.3,Enmerkar and the lord of Aratta,,161,sux:ŋi[night]N sux:ŋiʾunak[night]N sux:mul[star]N sux:ŋen[go]V/i
+c.1.8.2.3,Enmerkar and the lord of Aratta,,162,sux:anbarkar[mid-day]N sux:Utu[1]DN sux:an[sky]N sux:ŋen[go]V/i
+c.1.8.2.3,Enmerkar and the lord of Aratta,,163,sux:inim[word]N sux:gal[big]V/i sux:Inanak[1]DN sux:gizulumma[nettle?]N sux:mea[where?]QP sux:de[bring]V/t
+c.1.8.2.3,Enmerkar and the lord of Aratta,,164,sux:hursaŋ[mountain]N sux:Zubi[1]GN sux:ed[ascend]V/i
+c.1.8.2.3,Enmerkar and the lord of Aratta,,165,sux:hursaŋ[mountain]N sux:Zubi[1]GN sux:ed[ascend]V/i
+c.1.8.2.3,Enmerkar and the lord of Aratta,,166,sux:Susa[1]GN sux:kur[mountain]N sux:Anšan[1]GN
+c.1.8.2.3,Enmerkar and the lord of Aratta,,167,sux:peš[mouse]N sux:tur[small]V/i sux:kiri[nose]N sux:šu[hand]N sux:ŋal[be]V/i
+c.1.8.2.3,Enmerkar and the lord of Aratta,,168,sux:hursaŋ[mountain]N sux:gal[big]V/i sux:ni[self]RP sux:lu[abundant]V/i
+c.1.8.2.3,Enmerkar and the lord of Aratta,,169,sux:sahar[soil]N sux:gur[thick]V/i
+c.1.8.2.3,Enmerkar and the lord of Aratta,,170,sux:hursaŋ[mountain]N sux:5[5]NU sux:hursaŋ[mountain]N sux:6[6]NU sux:hursaŋ[mountain]N sux:7[7]NU sux:bala[turn]V/t
+c.1.8.2.3,Enmerkar and the lord of Aratta,,171,sux:igi[eye]N sux:il[raise]V/t sux:Aratta[1]SN sux:teŋ[approach]V/i
+c.1.8.2.3,Enmerkar and the lord of Aratta,,172,sux:kisal[courtyard]N sux:Aratta[1]SN sux:ŋiri[foot]N sux:hul[rejoice]V/i sux:gub[stand]V/i
+c.1.8.2.3,Enmerkar and the lord of Aratta,,173,sux:namnirŋal[authority]N sux:lugal[king]N sux:zu[know]V/t
+c.1.8.2.3,Enmerkar and the lord of Aratta,,174,sux:bur[spread]V/t sux:inim[word]N sux:šag[heart]N sux:dug[speak]V/t
+c.1.8.2.3,Enmerkar and the lord of Aratta,,175,sux:kiŋgia[messenger]N sux:en[lord]N sux:Aratta[1]SN sux:bala[turn]V/t
+c.1.8.2.3,Enmerkar and the lord of Aratta,,176,sux:aya[father]N sux:lugal[king]N sux:gi[turn]V/i
+c.1.8.2.3,Enmerkar and the lord of Aratta,,177,sux:en[lord]N sux:Unug[1]SN sux:en[lord]N sux:Kulaba[1]SN sux:gi[turn]V/i
+c.1.8.2.3,Enmerkar and the lord of Aratta,,178,sux:lugal[king]N sux:dug[speak]V/t sux:nam[fate]N sux:tah[add]V/t sux:nam[fate]N
+c.1.8.2.3,Enmerkar and the lord of Aratta,,179,sux:lugal[king]N sux:ana[what?]QP sux:dug[speak]V/t sux:ana[what?]QP sux:tah[add]V/t
+c.1.8.2.3,Enmerkar and the lord of Aratta,,180,sux:lugal[king]N sux:utud[bear]V/t sux:namen[priesthood]N sux:tum[suitable]V/i
+c.1.8.2.3,Enmerkar and the lord of Aratta,,181,sux:en[lord]N sux:Unug[1]SN sux:mušsaŋkal[snake]N sux:Kiengir[1]GN sux:til[live]V/i sux:kur[mountain]N sux:zid[flour]N sux:mu[crush]V/t
+c.1.8.2.3,Enmerkar and the lord of Aratta,,182,sux:durahmaš[ram]N sux:kurbad[mountain-top]N sux:anunŋal[strong]AJ
+c.1.8.2.3,Enmerkar and the lord of Aratta,,183,sux:šilamza[bull?]N sux:maš[goat]N sux:naŋa[potash]N sux:kug[pure]V/i sux:umbin[nail]N sux:sudsud[grind]V/t
+c.1.8.2.3,Enmerkar and the lord of Aratta,,184,sux:ab[cow]N sux:zid[right]V/i sux:kuršag[~mountain]N sux:utud[bear]V/t
+c.1.8.2.3,Enmerkar and the lord of Aratta,,185,sux:Enmerkar[1]RN sux:dumu[child]N sux:Utu[1]DN sux:gi[turn]V/i
+c.1.8.2.3,Enmerkar and the lord of Aratta,,185A,sux:lugal[king]N sux:dug[speak]V/t sux:nam[fate]N sux:tah[add]V/t sux:nam[fate]N
+c.1.8.2.3,Enmerkar and the lord of Aratta,,185B,sux:lugal[king]N sux:ana[what?]QP sux:dug[speak]V/t sux:ana[what?]QP sux:tah[add]V/t
+c.1.8.2.3,Enmerkar and the lord of Aratta,,186,sux:lugal[king]N sux:dug[speak]V/t
+c.1.8.2.3,Enmerkar and the lord of Aratta,,187,sux:iri[city]N sux:irsaŋ[pigeon]N sux:ŋeš[tree]N sux:šu-dag[roam-around]V/t
+c.1.8.2.3,Enmerkar and the lord of Aratta,,188,sux:mušen[bird]N sux:gud[nest]N sux:us[follow]V/t sux:huluh[frightened]V/i
+c.1.8.2.3,Enmerkar and the lord of Aratta,,189,sux:ganba[price]N sux:ŋal[be]V/i sux:sig[put]V/t
+c.1.8.2.3,Enmerkar and the lord of Aratta,,190,sux:iri[city]N sux:gul[destroy]V/t sux:sahar[soil]N sux:haza[hold]V/t
+c.1.8.2.3,Enmerkar and the lord of Aratta,,191,sux:Aratta[1]SN sux:adam[habitation]N sux:Enki[1]DN sux:nam[fate]N sux:kud[cut]V/t
+c.1.8.2.3,Enmerkar and the lord of Aratta,,192,sux:ki[place]N sux:gul[destroy]V/t sux:ki[place]N sux:gul[destroy]V/t
+c.1.8.2.3,Enmerkar and the lord of Aratta,,193,sux:egir[back]N sux:Inanak[1]DN sux:zig[rise]V/t
+c.1.8.2.3,Enmerkar and the lord of Aratta,,194,sux:gu[voice]N sux:rah[beat]V/t sux:šeg-gi[make-noise]V/t sux:gi[turn]V/i
+c.1.8.2.3,Enmerkar and the lord of Aratta,,195,sux:kuš[devastation]N sux:su[sink]V/t sux:kuš[devastation]N sux:su[sink]V/t
+c.1.8.2.3,Enmerkar and the lord of Aratta,,196,sux:kugsig[gold]N sux:utud[bear]V/t sux:lubšir[bag]N sux:ak[do]V/t
+c.1.8.2.3,Enmerkar and the lord of Aratta,,197,sux:kugmea[metal]N sux:sahar[soil]N sux:zag[side]N sux:us[follow]V/t
+c.1.8.2.3,Enmerkar and the lord of Aratta,,198,sux:kug[metal]N sux:saŋ.PA[pouch]N sux:dim[create]V/t
+c.1.8.2.3,Enmerkar and the lord of Aratta,,199,sux:anše[equid]N sux:kur[mountain]N sux:barag[sack]N sux:la[hang]V/t
+c.1.8.2.3,Enmerkar and the lord of Aratta,,200,sux:ŋaʾe[I]IP sux:Enlil[1]DN sux:banda[junior]V/i sux:Kiengir[1]GN
+c.1.8.2.3,Enmerkar and the lord of Aratta,,201,sux:en[lord]N sux:Nudimmud[1]DN sux:šag[heart]N sux:kug[pure]V/i sux:pad[find]V/t
+c.1.8.2.3,Enmerkar and the lord of Aratta,,202,sux:kur[mountain]N sux:me[Being]N sux:sikil[pure]V/i sux:du[build]V/t
+c.1.8.2.3,Enmerkar and the lord of Aratta,,203,sux:taškarin[boxwood]N sux:hili[attractiveness]N sux:ak[do]V/t
+c.1.8.2.3,Enmerkar and the lord of Aratta,,204,sux:Utu[1]DN sux:agrun[cella]N sux:e[leave]V/i sux:simuš[brilliance]N sux:gunu[speckled]V/i
+c.1.8.2.3,Enmerkar and the lord of Aratta,,205,sux:zadu[jamb]N sux:urin[pure]V/i sux:mul[star]N
+c.1.8.2.3,Enmerkar and the lord of Aratta,,206,sux:enun[room]N sux:šir[song]N sux:kug[pure]V/i sux:namšub[incantation]N sux:du[play]V/t
+c.1.8.2.3,Enmerkar and the lord of Aratta,,207,sux:namšub[incantation]N sux:Nudimmud[1]DN sux:ŋaʾe[I]IP sux:dug[speak]V/t
+c.1.8.2.3,Enmerkar and the lord of Aratta,,208,sux:ana[what?]QP sux:dug[speak]V/t sux:dug[speak]V/t
+c.1.8.2.3,Enmerkar and the lord of Aratta,,209,sux:a[water]N sux:ri[impose]V/t sux:sum[beard]N sux:zagin[lapis]N sux:kešed[bind]V/t
+c.1.8.2.3,Enmerkar and the lord of Aratta,,210,sux:ab[cow]N sux:kalag[strong]V/i sux:kur[mountain]N sux:me[Being]N sux:sikil[pure]V/i sux:utud[bear]V/t
+c.1.8.2.3,Enmerkar and the lord of Aratta,,211,sux:sahar[soil]N sux:Aratta[1]SN sux:a[arm]N sux:e[leave]V/i
+c.1.8.2.3,Enmerkar and the lord of Aratta,,212,sux:ubur[breast]N sux:ab[cow]N sux:zid[right]V/i sux:ga[milk]N sux:gu[eat]V/t
+c.1.8.2.3,Enmerkar and the lord of Aratta,,213,sux:Kulaba[1]SN sux:kur[mountain]N sux:me[Being]N sux:gal[big]V/i sux:namnun[magnificence]N sux:tum[suitable]V/i
+c.1.8.2.3,Enmerkar and the lord of Aratta,,214,sux:Enmerkar[1]RN sux:dumu[child]N sux:Utu[1]DN
+c.1.8.2.3,Enmerkar and the lord of Aratta,,215,sux:inim[word]N sux:eš[shrine]N sux:Eanak[1]TN sux:inim[word]N sux:dug[good]V/i sux:dug[speak]V/t
+c.1.8.2.3,Enmerkar and the lord of Aratta,,216,sux:ŋipar[cloister]N sux:mes[tree]N sux:gibil[new]V/i sux:gurun[fruit]N sux:il[raise]V/t
+c.1.8.2.3,Enmerkar and the lord of Aratta,,217,sux:lugal[king]N sux:en[lord]N sux:Kulaba[1]SN sux:šu[hand]N sux:gi[turn]V/i
+c.1.8.2.3,Enmerkar and the lord of Aratta,,218,sux:ur[he]IP sux:dug[speak]V/t
+c.1.8.2.3,Enmerkar and the lord of Aratta,,219,sux:kiŋgia[messenger]N sux:lugal[king]N sux:en[lord]N sux:Kulaba[1]SN sux:dug[speak]V/t sux:tah[add]V/t
+c.1.8.2.3,Enmerkar and the lord of Aratta,,220,sux:ŋaʾe[I]IP sux:en[lord]N sux:šu[hand]N sux:sikil[pure]V/i sux:tum[suitable]V/i
+c.1.8.2.3,Enmerkar and the lord of Aratta,,221,sux:raba[clamp]N sux:mah[great]V/i sux:an[sky]N sux:nin[lady]N sux:an[sky]N sux:ki[place]N
+c.1.8.2.3,Enmerkar and the lord of Aratta,,222,sux:innin[lady]N sux:me[Being]N sux:šar[3600]NU sux:kug[pure]V/i sux:Inanak[1]DN
+c.1.8.2.3,Enmerkar and the lord of Aratta,,223,sux:Aratta[1]SN sux:kur[mountain]N sux:me[Being]N sux:sikil[pure]V/i sux:de[bring]V/t
+c.1.8.2.3,Enmerkar and the lord of Aratta,,224,sux:kur[mountain]N sux:ig[door]N sux:gal[big]V/i sux:igi[eye]N sux:tab[double]V/t
+c.1.8.2.3,Enmerkar and the lord of Aratta,,225,sux:Aratta[1]SN sux:Unug[1]SN sux:gu[neck]N sux:agin[thus]N sux:ŋar[place]V/t
+c.1.8.2.3,Enmerkar and the lord of Aratta,,226,sux:Aratta[1]SN sux:Unug[1]SN sux:gu[neck]N sux:ŋar[place]V/t sux:ŋal[be]V/i sux:ane[he]IP sux:dug[speak]V/t
+c.1.8.2.3,Enmerkar and the lord of Aratta,,227,sux:ur[he]IP sux:dug[speak]V/t
+c.1.8.2.3,Enmerkar and the lord of Aratta,,228,sux:kiŋgia[messenger]N sux:en[lord]N sux:Aratta[1]SN sux:gi[turn]V/i
+c.1.8.2.3,Enmerkar and the lord of Aratta,,229,sux:nin[lady]N sux:gal[big]V/i sux:an[sky]N sux:me[Being]N sux:huš[reddish]V/i sux:u[ride]V/t
+c.1.8.2.3,Enmerkar and the lord of Aratta,,230,sux:hursaŋ[mountain]N sux:kur[mountain]N sux:šuba[multicoloured]V/i sux:dur[buttocks]N sux:ŋar[place]V/t
+c.1.8.2.3,Enmerkar and the lord of Aratta,,231,sux:barag[sanctum]N sux:kur[mountain]N sux:šuba[multicoloured]V/i sux:šerkan[ornament]N sux:dug[speak]V/t
+c.1.8.2.3,Enmerkar and the lord of Aratta,,232,sux:en[lord]N sux:lugal[king]N sux:subur[slave]N
+c.1.8.2.3,Enmerkar and the lord of Aratta,,233,sux:diŋir[deity]N sux:nin[lady]N sux:Eanak[1]TN sux:kur[enter]V/i
+c.1.8.2.3,Enmerkar and the lord of Aratta,,234,sux:en[lord]N sux:Aratta[1]SN sux:gu[neck]N sux:ki[place]N sux:ŋal[be]V/i
+c.1.8.2.3,Enmerkar and the lord of Aratta,,235,sux:šeg[brick]N sux:Kulaba[1]SN sux:ur[he]IP sux:dug[speak]V/t
+c.1.8.2.3,Enmerkar and the lord of Aratta,,236,sux:ud[sun]N sux:en[lord]N sux:šag[heart]N sux:sag[beat]V/t sux:zi[life]N sux:ir[cvve]V/t
+c.1.8.2.3,Enmerkar and the lord of Aratta,,237,sux:gabari[copy]N sux:ŋal[be]V/i sux:gabari[copy]N sux:kiŋ[seek]V/t
+c.1.8.2.3,Enmerkar and the lord of Aratta,,238,sux:ŋiri[foot]N sux:ni[self]RP sux:igi[eye]N sux:lib[daze]N sux:du[spread]V/t sux:gabari[copy]N sux:pad[find]V/t
+c.1.8.2.3,Enmerkar and the lord of Aratta,,239,sux:gabari[copy]N sux:pad[find]V/t sux:gu[voice]N sux:e[leave]V/i
+c.1.8.2.3,Enmerkar and the lord of Aratta,,240,sux:kiŋgia[messenger]N sux:inim[word]N sux:gaba[chest]N sux:ri[impose]V/t
+c.1.8.2.3,Enmerkar and the lord of Aratta,,241,sux:gud[ox]N sux:gu[voice]N sux:nun[prince]N sux:dug[speak]V/t
+c.1.8.2.3,Enmerkar and the lord of Aratta,,242,sux:kiŋgia[messenger]N sux:lugal[king]N sux:en[lord]N sux:Kulaba[1]SN sux:dug[speak]V/t sux:tah[add]V/t
+c.1.8.2.3,Enmerkar and the lord of Aratta,,243,sux:hursaŋ[mountain]N sux:gal[big]V/i sux:mes[tree]N sux:an[sky]N sux:mu[grow]V/t
+c.1.8.2.3,Enmerkar and the lord of Aratta,,244,sux:ur[root]N sux:sabar[net]N sux:pa[branch]N sux:ŋešpar[trap]N
+c.1.8.2.3,Enmerkar and the lord of Aratta,,245,sux:buru[sparrow]N sux:umbin[nail]N sux:Anzud[1]DN sux:hurin[eagle]N
+c.1.8.2.3,Enmerkar and the lord of Aratta,,246,sux:kešed[bind]V/t sux:Inanak[1]DN sux:šar[perfect?]V/i sux:dug[speak]V/t sux:gilim[cross]V/t
+c.1.8.2.3,Enmerkar and the lord of Aratta,,247,sux:umbin[nail]N sux:hurin[eagle]N sux:umun[blood]N sux:kur[mountain]N sux:kur[mountain]N sux:šuba[multicoloured]V/i sux:ed[ascend]V/i
+c.1.8.2.3,Enmerkar and the lord of Aratta,,248,sux:Aratta[1]SN sux:er[tears]N sux:šeš[weep]V/t
+c.1.8.2.3,Enmerkar and the lord of Aratta,,249,sux:a[water]N sux:bala[turn]V/t sux:zid[flour]N sux:dub[heap]V/t
+c.1.8.2.3,Enmerkar and the lord of Aratta,,250,sux:kur[mountain]N sux:siškur[prayer]N sux:arazu[supplication]N sux:kiri[nose]N sux:šu[hand]N sux:ŋal[be]V/i
+c.1.8.2.3,Enmerkar and the lord of Aratta,,251,sux:lu[person]N sux:5[5]NU sux:me[be]V/i sux:lu[person]N sux:10[10]NU sux:me[be]V/i
+c.1.8.2.3,Enmerkar and the lord of Aratta,,252,sux:Unug[1]SN sux:zig[rise]V/t sux:hursaŋ[mountain]N sux:Zubi[1]GN sux:saŋ[head]N sux:agin[thus]N sux:ŋar[place]V/t
+c.1.8.2.3,Enmerkar and the lord of Aratta,,253,sux:lugal[king]N sux:tukul[weapon]N sux:saŋ[head]N sux:šum[give]V/t
+c.1.8.2.3,Enmerkar and the lord of Aratta,,254,sux:ŋaʾe[I]IP sux:adamin[contest]N sux:saŋ[head]N sux:šum[give]V/t
+c.1.8.2.3,Enmerkar and the lord of Aratta,,255,sux:adamin[contest]N sux:zu[know]V/t sux:teš[unity]N sux:gu[eat]V/t
+c.1.8.2.3,Enmerkar and the lord of Aratta,,256,sux:gud[ox]N sux:gud[ox]N sux:aŋal[strong]AJ sux:zu[know]V/t
+c.1.8.2.3,Enmerkar and the lord of Aratta,,257,sux:adamin[contest]N sux:zu[know]V/t sux:teš[unity]N sux:gu[eat]V/t
+c.1.8.2.3,Enmerkar and the lord of Aratta,,258,sux:gud[ox]N sux:gud[ox]N sux:aŋal[strong]AJ sux:zu[know]V/t
+c.1.8.2.3,Enmerkar and the lord of Aratta,,259,sux:ane[he]IP sux:adamin[contest]N sux:taka[abandon]V/t
+c.1.8.2.3,Enmerkar and the lord of Aratta,,260,sux:niŋ[thing]N sux:lu[person]N sux:sig[put]V/t
+c.1.8.2.3,Enmerkar and the lord of Aratta,,261,sux:ane[he]IP sux:taka[abandon]V/t
+c.1.8.2.3,Enmerkar and the lord of Aratta,,262,sux:2-kam-ma[2nd]NU sux:kiŋgia[messenger]N sux:inim[word]N sux:dug[speak]V/t
+c.1.8.2.3,Enmerkar and the lord of Aratta,,263,sux:de[pour]V/t sux:galam[skilful]V/i sux:DU[DU]V sux:dib[pass]V/t
+c.1.8.2.3,Enmerkar and the lord of Aratta,,264,sux:Eanak[1]TN sux:piriŋ[lion]N sux:šu[hand]N sux:nud[lie]V/i
+c.1.8.2.3,Enmerkar and the lord of Aratta,,265,sux:šag[heart]N sux:gud[ox]N sux:gu[voice]N sux:nun[prince]N sux:dug[speak]V/t
+c.1.8.2.3,Enmerkar and the lord of Aratta,,266,sux:ŋipar[cloister]N sux:mes[tree]N sux:gibil[new]V/i sux:gurun[fruit]N sux:il[raise]V/t
+c.1.8.2.3,Enmerkar and the lord of Aratta,,267,sux:lugal[king]N sux:en[lord]N sux:Kulaba[1]SN sux:šu[hand]N sux:gi[turn]V/i
+c.1.8.2.3,Enmerkar and the lord of Aratta,,268,sux:hursaŋ[mountain]N sux:ursaŋ[hero]N sux:sukud[height]N sux:sig[put]V/t
+c.1.8.2.3,Enmerkar and the lord of Aratta,,269,sux:usan[evening]N sux:Utu[1]DN sux:e[house]N sux:ŋen[go]V/i
+c.1.8.2.3,Enmerkar and the lord of Aratta,,270,sux:igi[eye]N sux:uš[blood]N sux:la[hang]V/t
+c.1.8.2.3,Enmerkar and the lord of Aratta,,271,sux:Nanna[1]DN sux:siʾuna[zenith]N sux:mah[great]V/i
+c.1.8.2.3,Enmerkar and the lord of Aratta,,272,sux:saŋki[forehead]N sux:melim[splendor]N sux:ŋal[be]V/i
+c.1.8.2.3,Enmerkar and the lord of Aratta,,273,sux:ŋeš[tree]N sux:kur[mountain]N sux:gilim[cross]V/t
+c.1.8.2.3,Enmerkar and the lord of Aratta,,274,sux:saŋ[head]N sux:muš[space]N sux:Aratta[1]SN
+c.1.8.2.3,Enmerkar and the lord of Aratta,,275,sux:lammar[deity]N sux:sag[good]V/i sux:kur[mountain]N sux:me[Being]N sux:sikil[pure]V/i
+c.1.8.2.3,Enmerkar and the lord of Aratta,,276,sux:ud[sun]N sux:Aratta[1]SN sux:aga[tiara]N sux:kug[pure]V/i sux:an[sky]N sux:si[horn]N sux:sa[equal]V/t
+c.1.8.2.3,Enmerkar and the lord of Aratta,,277,sux:ŋaʾe[I]IP sux:ud[sun]N sux:nammah[greatness]N sux:zu[know]V/t
+c.1.8.2.3,Enmerkar and the lord of Aratta,,278,sux:še[barley]N sux:barag[sack]N sux:sig[put]V/t sux:mar[smear]V/t sux:dug[speak]V/t
+c.1.8.2.3,Enmerkar and the lord of Aratta,,279,sux:še[barley]N sux:kur[mountain]N sux:il[raise]V/t
+c.1.8.2.3,Enmerkar and the lord of Aratta,,280,sux:erin[people]N sux:kud[cut]V/t sux:ŋar[place]V/t
+c.1.8.2.3,Enmerkar and the lord of Aratta,,281,sux:še[barley]N sux:salkad[net]N sux:si[fill]V/t
+c.1.8.2.3,Enmerkar and the lord of Aratta,,282,sux:anše[equid]N sux:barag[sack]N sux:la[hang]V/t sux:la[hang]V/t
+c.1.8.2.3,Enmerkar and the lord of Aratta,,283,sux:anšebala[donkey]N sux:dag[side]N sux:sig[put]V/t
+c.1.8.2.3,Enmerkar and the lord of Aratta,,284,sux:tukumbi[if]CNJ sux:kisal[courtyard]N sux:Aratta[1]SN sux:guru[store]N sux:dub[heap]V/t
+c.1.8.2.3,Enmerkar and the lord of Aratta,,285,sux:igen[but-no]MA sux:dub[heap]V/t sux:guru[store]N sux:hili[attractiveness]N
+c.1.8.2.3,Enmerkar and the lord of Aratta,,286,sux:kur[mountain]N sux:izi[fire]N sux:ŋar[place]V/t sux:adam[habitation]N sux:mete[appropriate-thing]N
+c.1.8.2.3,Enmerkar and the lord of Aratta,,287,sux:bad[wall]N sux:7[7]NU sux:šerkan[ornament]N sux:dug[speak]V/t
+c.1.8.2.3,Enmerkar and the lord of Aratta,,288,sux:nin[lady]N sux:ursaŋ[hero]N sux:me[battle]N sux:tum[suitable]V/i
+c.1.8.2.3,Enmerkar and the lord of Aratta,,289,sux:Inanak[1]DN sux:ursaŋ[hero]N sux:me[battle]N sux:sahar[soil]N sux:saŋ[head]N sux:ešemen[rope]N sux:Inanak[1]DN sux:dug[speak]V/t
+c.1.8.2.3,Enmerkar and the lord of Aratta,,290,sux:igen[but-no]MA sux:Aratta[1]SN sux:ur[dog]N sux:adda[corpse]N sux:sar[run]V/i sux:šu[hand]N sux:ri[impose]V/t
+c.1.8.2.3,Enmerkar and the lord of Aratta,,291,sux:ŋaʾe[I]IP sux:ud[sun]N sux:gurum[bend]V/t
+c.1.8.2.3,Enmerkar and the lord of Aratta,,292,sux:ane[he]IP sux:nammah[greatness]N sux:zu[know]V/t
+c.1.8.2.3,Enmerkar and the lord of Aratta,,293,sux:iri[city]N sux:namtur[smallness]N sux:gu[neck]N sux:ŋar[place]V/t sux:ane[he]IP sux:dug[speak]V/t
+c.1.8.2.3,Enmerkar and the lord of Aratta,,294,sux:ur[he]IP sux:dug[speak]V/t
+c.1.8.2.3,Enmerkar and the lord of Aratta,,295,sux:kiŋgia[messenger]N sux:en[lord]N sux:Aratta[1]SN
+c.1.8.2.3,Enmerkar and the lord of Aratta,,296,sux:kag[mouth]N sux:inim[word]N sux:kag[mouth]N sux:sig[put]V/t
+c.1.8.2.3,Enmerkar and the lord of Aratta,,297,sux:sumun[cow]N sux:haš[thigh]N sux:gur[turn]V/i
+c.1.8.2.3,Enmerkar and the lord of Aratta,,298,sux:nimsahara[fly]N sux:tir[forest]N sux:ud[sun]N sux:zal[pass]V/t sux:ŋen[go]V/i
+c.1.8.2.3,Enmerkar and the lord of Aratta,,299,sux:šeg[brick]N sux:Kulaba[1]SN sux:ŋiri[foot]N sux:hul[rejoice]V/i sux:gub[stand]V/i
+c.1.8.2.3,Enmerkar and the lord of Aratta,,300,sux:kisal[courtyard]N sux:mah[great]V/i sux:kisal[courtyard]N sux:guʾen[throne-room]N sux:kiŋgia[messenger]N sux:bur[spread]V/t
+c.1.8.2.3,Enmerkar and the lord of Aratta,,301,sux:lugal[king]N sux:en[lord]N sux:Kulaba[1]SN
+c.1.8.2.3,Enmerkar and the lord of Aratta,,302,sux:kag[mouth]N sux:šu[hand]N sux:gi[turn]V/i
+c.1.8.2.3,Enmerkar and the lord of Aratta,,303,sux:gud[ox]N sux:gu[voice]N sux:sig[put]V/t
+c.1.8.2.3,Enmerkar and the lord of Aratta,,304,sux:gud[ox]N sux:ri[impose]V/t sux:ŋeštug[ear]N sux:ŋar[place]V/t
+c.1.8.2.3,Enmerkar and the lord of Aratta,,305,sux:lugal[king]N sux:zag[side]N sux:zid[right]V/i sux:tuš[sit]V/i
+c.1.8.2.3,Enmerkar and the lord of Aratta,,306,sux:zag[side]N sux:gab[left]N sux:gi[turn]V/i
+c.1.8.2.3,Enmerkar and the lord of Aratta,,307,sux:igen[but-no]MA sux:Aratta[1]SN sux:ŋalga[forethought]N sux:šum[give]V/t sux:zu[know]V/t sux:dug[speak]V/t
+c.1.8.2.3,Enmerkar and the lord of Aratta,,308,sux:ud[sun]N sux:zal[pass]V/t sux:Utu[1]DN sux:e[leave]V/i
+c.1.8.2.3,Enmerkar and the lord of Aratta,,309,sux:Utu[1]DN sux:kalam[land]N sux:saŋ[head]N sux:il[raise]V/t
+c.1.8.2.3,Enmerkar and the lord of Aratta,,310,sux:lugal[king]N sux:Idigna[1]WN sux:Buranun[1]WN sux:tab[double]V/t
+c.1.8.2.3,Enmerkar and the lord of Aratta,,311,sux:Buranun[1]WN sux:Idigna[1]WN sux:tab[double]V/t
+c.1.8.2.3,Enmerkar and the lord of Aratta,,312,sux:bur[bowl]N sux:gal[big]V/i sux:an[sky]N sux:gub[stand]V/i
+c.1.8.2.3,Enmerkar and the lord of Aratta,,313,sux:bur[bowl]N sux:tur[small]V/i sux:sila[lamb]N sux:ušim[greenery]N sux:dur[buttocks]N sux:zag[side]N sux:us[follow]V/t
+c.1.8.2.3,Enmerkar and the lord of Aratta,,314,sux:bur[bowl]N sux:igi[quality]N sux:an[sky]N sux:dag[side]N sux:gub[stand]V/i
+c.1.8.2.3,Enmerkar and the lord of Aratta,,315,sux:lugal[king]N sux:ešda[vessel]N sux:kugsig[gold]N
+c.1.8.2.3,Enmerkar and the lord of Aratta,,316,sux:Enmerkar[1]RN sux:dumu[child]N sux:Utu[1]DN sux:dub[knee]N sux:bad[open]V/t
+c.1.8.2.3,Enmerkar and the lord of Aratta,,317,sux:ud[sun]N sux:dub[tablet]N sux:igi[quality]N sux:im[clay]N sux:me[be]V/i sux:gigag[reed]N sux:unkin[assembly]N
+c.1.8.2.3,Enmerkar and the lord of Aratta,,318,sux:alan[statue]N sux:kugsig[gold]N sux:ud[sun]N sux:dug[good]V/i sux:utud[bear]V/t
+c.1.8.2.3,Enmerkar and the lord of Aratta,,319,sux:Nanibgal[1]DN sux:sissig[green]V/i sux:sikil[pure]V/i sux:mu[grow]V/t
+c.1.8.2.3,Enmerkar and the lord of Aratta,,320,sux:Nisabak[1]DN sux:nin[lady]N sux:ŋeštug[ear]N sux:daŋal[wide]V/i
+c.1.8.2.3,Enmerkar and the lord of Aratta,,321,sux:E.ŊEŠTUG.NISABA[1]TN sux:kug[pure]V/i sux:ŋal[open]V/t sux:taka[abandon]V/t
+c.1.8.2.3,Enmerkar and the lord of Aratta,,322,sux:egal[palace]N sux:an[sky]N sux:kur[enter]V/i sux:ŋeštug[ear]N sux:ŋar[place]V/t
+c.1.8.2.3,Enmerkar and the lord of Aratta,,323,sux:en[lord]N sux:enun[room]N sux:mah[great]V/i sux:ŋal[open]V/t sux:taka[abandon]V/t
+c.1.8.2.3,Enmerkar and the lord of Aratta,,324,sux:lidga[vessel]N sux:mah[great]V/i sux:ki[place]N sux:us[follow]V/t
+c.1.8.2.3,Enmerkar and the lord of Aratta,,325,sux:lugal[king]N sux:še[barley]N sux:še[barley]N sux:libir[old]V/i sux:šu[hand]N sux:bala[turn]V/t
+c.1.8.2.3,Enmerkar and the lord of Aratta,,326,sux:munu[malt]N sux:kišar[earth]N sux:a[water]N sux:si[fill]V/t
+c.1.8.2.3,Enmerkar and the lord of Aratta,,327,sux:nundum[lip]N sux:hirim[grass]N sux:sug[empty]V/i
+c.1.8.2.3,Enmerkar and the lord of Aratta,,328,sux:salkad[net]N sux:igi[eye]N sux:tur[small]V/i
+c.1.8.2.3,Enmerkar and the lord of Aratta,,329,sux:še[barley]N sux:guru[store]N sux:kag[mouth]N sux:si[fill]V/t sux:zu[tooth]N sux:bir[locust]N sux:tah[add]V/t
+c.1.8.2.3,Enmerkar and the lord of Aratta,,330,sux:anše[equid]N sux:barag[sack]N sux:la[hang]V/t sux:la[hang]V/t
+c.1.8.2.3,Enmerkar and the lord of Aratta,,331,sux:anšebala[donkey]N sux:dag[side]N sux:sig[put]V/t
+c.1.8.2.3,Enmerkar and the lord of Aratta,,332,sux:lugal[king]N sux:en[lord]N sux:ŋeštug[ear]N sux:daŋal[wide]V/i
+c.1.8.2.3,Enmerkar and the lord of Aratta,,333,sux:en[lord]N sux:Unug[1]SN sux:en[lord]N sux:Kulaba[1]SN
+c.1.8.2.3,Enmerkar and the lord of Aratta,,334,sux:harran[route]N sux:Aratta[1]SN sux:si[horn]N sux:sa[equal]V/t
+c.1.8.2.3,Enmerkar and the lord of Aratta,,335,sux:namlulu[humanity]N sux:kiši[ant]N sux:kindar[hole]N
+c.1.8.2.3,Enmerkar and the lord of Aratta,,336,sux:Aratta[1]SN sux:ni[self]RP sux:ŋen[go]V/i
+c.1.8.2.3,Enmerkar and the lord of Aratta,,337,sux:en[lord]N sux:kiŋgia[messenger]N sux:kur[mountain]N sux:ŋen[go]V/i
+c.1.8.2.3,Enmerkar and the lord of Aratta,,338,sux:Aratta[1]SN sux:inim[word]N sux:tah[add]V/t
+c.1.8.2.3,Enmerkar and the lord of Aratta,,339,sux:kiŋgia[messenger]N sux:en[lord]N sux:Aratta[1]SN sux:dug[speak]V/t sux:tah[add]V/t
+c.1.8.2.3,Enmerkar and the lord of Aratta,,340,sux:ŋidru[scepter]N sux:ur[root]N sux:me[Being]N sux:namnun[magnificence]N
+c.1.8.2.3,Enmerkar and the lord of Aratta,,341,sux:pa[branch]N sux:Kulaba[1]SN sux:andul[shade]N sux:ak[do]V/t
+c.1.8.2.3,Enmerkar and the lord of Aratta,,342,sux:pa[branch]N sux:mul[star]N sux:eš[shrine]N sux:Eanak[1]TN
+c.1.8.2.3,Enmerkar and the lord of Aratta,,343,sux:kug[pure]V/i sux:Inanak[1]DN sux:ni[self]RP sux:ten[extinguish]V/t
+c.1.8.2.3,Enmerkar and the lord of Aratta,,344,sux:ŋidru[scepter]N sux:kid[cut]V/t sux:ŋal[be]V/i
+c.1.8.2.3,Enmerkar and the lord of Aratta,,345,sux:gugŋešdili[beads]N sux:zaginŋešdili[beads]N sux:šu[hand]N sux:ŋal[be]V/i
+c.1.8.2.3,Enmerkar and the lord of Aratta,,346,sux:en[lord]N sux:Aratta[1]SN sux:igi[eye]N sux:de[bring]V/t sux:ane[he]IP sux:dug[speak]V/t
+c.1.8.2.3,Enmerkar and the lord of Aratta,,347,sux:ur[he]IP sux:dug[speak]V/t
+c.1.8.2.3,Enmerkar and the lord of Aratta,,348,sux:kiŋgia[messenger]N sux:Aratta[1]SN sux:ŋen[go]V/i
+c.1.8.2.3,Enmerkar and the lord of Aratta,,349,sux:sahar[soil]N sux:kaskal[way]N sux:ŋiri[foot]N sux:si[fill]V/t
+c.1.8.2.3,Enmerkar and the lord of Aratta,,350,sux:na[stone]N sux:tur[small]V/i sux:hursaŋ[mountain]N sux:suh₃-sah₄[rumbling-noise]N sux:za[cvve]V/t
+c.1.8.2.3,Enmerkar and the lord of Aratta,,351,sux:ušumgal[dragon]N sux:eden[back]N sux:kiŋ[seek]V/t sux:gabari[copy]N sux:tuku[acquire]V/t
+c.1.8.2.3,Enmerkar and the lord of Aratta,,352,sux:kiŋgia[messenger]N sux:Aratta[1]SN sux:teŋ[approach]V/i
+c.1.8.2.3,Enmerkar and the lord of Aratta,,353,sux:namlulu[humanity]N sux:Aratta[1]SN
+c.1.8.2.3,Enmerkar and the lord of Aratta,,354,sux:anše[equid]N sux:barag[sack]N sux:la[hang]V/t sux:u[admiration]N sux:dug[speak]V/t sux:gub[stand]V/i
+c.1.8.2.3,Enmerkar and the lord of Aratta,,355,sux:kiŋgia[messenger]N sux:kisal[courtyard]N sux:Aratta[1]SN
+c.1.8.2.3,Enmerkar and the lord of Aratta,,356,sux:še[barley]N sux:guru[store]N sux:kag[mouth]N sux:si[fill]V/t sux:zu[tooth]N sux:bir[locust]N sux:tah[add]V/t
+c.1.8.2.3,Enmerkar and the lord of Aratta,,357,sux:šeŋ[rain]V/i sux:an[sky]N sux:ud[sun]N sux:ŋal[be]V/i
+c.1.8.2.3,Enmerkar and the lord of Aratta,,358,sux:Aratta[1]SN sux:heŋal[plenty]N sux:du[build]V/t
+c.1.8.2.3,Enmerkar and the lord of Aratta,,359,sux:diŋir[deity]N sux:dur[buttocks]N sux:gi[turn]V/i
+c.1.8.2.3,Enmerkar and the lord of Aratta,,360,sux:Aratta[1]SN sux:šaŋar[starvation]N sux:la[hang]V/t
+c.1.8.2.3,Enmerkar and the lord of Aratta,,361,sux:namlulu[humanity]N sux:Aratta[1]SN
+c.1.8.2.3,Enmerkar and the lord of Aratta,,362,sux:munu[malt]N sux:a[water]N sux:sig[put]V/t sux:ašag[field]N
+c.1.8.2.3,Enmerkar and the lord of Aratta,,363,sux:egir[back]N sux:ragaba[rider]N sux:šatam[official]N
+c.1.8.2.3,Enmerkar and the lord of Aratta,,364,sux:taka[abandon]V/t
+c.1.8.2.3,Enmerkar and the lord of Aratta,,365,
+c.1.8.2.3,Enmerkar and the lord of Aratta,,365B,
+c.1.8.2.3,Enmerkar and the lord of Aratta,,366,sux:dumu[child]N sux:Aratta[1]SN sux:ŋeštug[ear]N
+c.1.8.2.3,Enmerkar and the lord of Aratta,,367,sux:Aratta[1]SN sux:inim[word]N sux:bur[spread]V/t
+c.1.8.2.3,Enmerkar and the lord of Aratta,,368,sux:ur[he]IP sux:Aratta[1]SN sux:šu[hand]N
+c.1.8.2.3,Enmerkar and the lord of Aratta,,370,sux:en[lord]N sux:Unug[1]SN sux:šu[hand]N
+c.1.8.2.3,Enmerkar and the lord of Aratta,,371,sux:menden[we]IP sux:sug[empty]V/i sux:lul[false]V/i
+c.1.8.2.3,Enmerkar and the lord of Aratta,,372,sux:en[lord]N sux:Kulaba[1]SN sux:gugkal[famine]N sux:lul[false]V/i sux:tuš[sit]V/i
+c.1.8.2.3,Enmerkar and the lord of Aratta,,373,sux:abba[father]N sux:inim[word]N sux:zu[know]V/t
+c.1.8.2.3,Enmerkar and the lord of Aratta,,374,sux:šu[hand]N sux:teš[unity]N sux:ri[impose]V/t sux:zag[side]N sux:egar[wall]N sux:us[follow]V/t
+c.1.8.2.3,Enmerkar and the lord of Aratta,,375,sux:en[lord]N sux:e[house]N sux:sikil[pure]V/i sux:ŋar[place]V/t
+c.1.8.2.3,Enmerkar and the lord of Aratta,,376,sux:ŋidru[scepter]N sux:šag[heart]N sux:egal[palace]N
+c.1.8.2.3,Enmerkar and the lord of Aratta,,377,sux:bur[spread]V/t sux:inim[word]N sux:šag[heart]N sux:dug[speak]V/t
+c.1.8.2.3,Enmerkar and the lord of Aratta,,378,sux:aya[father]N sux:lugal[king]N sux:gi[turn]V/i
+c.1.8.2.3,Enmerkar and the lord of Aratta,,379,sux:Enmerkar[1]RN sux:dumu[child]N sux:Utu[1]DN sux:gi[turn]V/i
+c.1.8.2.3,Enmerkar and the lord of Aratta,,380,sux:lugal[king]N sux:dug[speak]V/t sux:nam[fate]N sux:tah[add]V/t sux:nam[fate]N
+c.1.8.2.3,Enmerkar and the lord of Aratta,,381,sux:lugal[king]N sux:ana[what?]QP sux:dug[speak]V/t sux:ana[what?]QP sux:tah[add]V/t
+c.1.8.2.3,Enmerkar and the lord of Aratta,,382,sux:ŋidru[scepter]N sux:ur[root]N sux:me[Being]N sux:namnun[magnificence]N
+c.1.8.2.3,Enmerkar and the lord of Aratta,,383,sux:pa[branch]N sux:Kulaba[1]SN sux:andul[shade]N sux:ak[do]V/t
+c.1.8.2.3,Enmerkar and the lord of Aratta,,384,sux:pa[branch]N sux:mul[star]N sux:eš[shrine]N sux:Eanak[1]TN
+c.1.8.2.3,Enmerkar and the lord of Aratta,,385,sux:kug[pure]V/i sux:Inanak[1]DN sux:ni[self]RP sux:ten[extinguish]V/t
+c.1.8.2.3,Enmerkar and the lord of Aratta,,386,sux:ŋidru[scepter]N sux:kid[cut]V/t sux:ŋal[be]V/i
+c.1.8.2.3,Enmerkar and the lord of Aratta,,387,sux:gugŋešdili[beads]N sux:zaginŋešdili[beads]N sux:šu[hand]N sux:ŋal[be]V/i
+c.1.8.2.3,Enmerkar and the lord of Aratta,,388,sux:en[lord]N sux:Aratta[1]SN sux:igi[eye]N sux:de[bring]V/t sux:ŋaʾe[I]IP sux:dug[speak]V/t
+c.1.8.2.3,Enmerkar and the lord of Aratta,,389,sux:ur[he]IP sux:dug[speak]V/t
+c.1.8.2.3,Enmerkar and the lord of Aratta,,390,sux:nam[fate]N sux:itima[shrine]N sux:kur[enter]V/i sux:šakatab[fasting]N sux:nud[lie]V/i
+c.1.8.2.3,Enmerkar and the lord of Aratta,,391,sux:ud[sun]N sux:zal[pass]V/t sux:inim[word]N sux:šar[3600]NU
+c.1.8.2.3,Enmerkar and the lord of Aratta,,392,sux:inim[word]N sux:kag[mouth]N sux:ŋar[place]V/t sux:dug[speak]V/t
+c.1.8.2.3,Enmerkar and the lord of Aratta,,393,sux:inim[word]N sux:še[barley]N sux:anše[equid]N sux:gu[eat]V/t sux:ŋiri[foot]N sux:niŋin[encircle]V/t
+c.1.8.2.3,Enmerkar and the lord of Aratta,,394,sux:ineš[now]MA sux:lu[person]N sux:lu[person]N sux:ana[what?]QP sux:dug[speak]V/t
+c.1.8.2.3,Enmerkar and the lord of Aratta,,395,sux:lu[person]N sux:lu[person]N sux:dili[single]V/i sux:ana[what?]QP sux:tah[add]V/t
+c.1.8.2.3,Enmerkar and the lord of Aratta,,396,sux:lu[person]N sux:lu[person]N sux:dug[speak]V/t sux:ur[he]IP sux:me[be]V/i
+c.1.8.2.3,Enmerkar and the lord of Aratta,,397,sux:kiŋgia[messenger]N sux:lugal[king]N sux:en[lord]N sux:Kulaba[1]SN sux:dug[speak]V/t sux:tah[add]V/t
+c.1.8.2.3,Enmerkar and the lord of Aratta,,398,sux:ŋidru[scepter]N sux:ŋeš[tree]N sux:me[be]V/i sux:mu[name]N sux:ŋeš[tree]N sux:še[call]V/t
+c.1.8.2.3,Enmerkar and the lord of Aratta,,399,sux:šu[hand]N sux:ŋar[place]V/t sux:igi[eye]N sux:bar[outside]V/t
+c.1.8.2.3,Enmerkar and the lord of Aratta,,400,sux:ildag[poplar]N sux:me[be]V/i sux:šimgig[tree]N sux:me[be]V/i
+c.1.8.2.3,Enmerkar and the lord of Aratta,,401,sux:eren[cedar]N sux:me[be]V/i sux:šurmen[cypress]N sux:me[be]V/i
+c.1.8.2.3,Enmerkar and the lord of Aratta,,402,sux:hašur[tree]N sux:me[be]V/i sux:ŋešnimbar[palm]N sux:me[be]V/i
+c.1.8.2.3,Enmerkar and the lord of Aratta,,403,sux:esi[tree]N sux:me[be]V/i sux:zabalum[juniper]N sux:me[be]V/i
+c.1.8.2.3,Enmerkar and the lord of Aratta,,404,sux:asal[poplar]N sux:lam[flourish]V/i sux:gigir[chariot]N sux:me[be]V/i
+c.1.8.2.3,Enmerkar and the lord of Aratta,,405,sux:kida[mat]N sux:ŋešusan[~whip]N sux:me[be]V/i
+c.1.8.2.3,Enmerkar and the lord of Aratta,,406,sux:kugsig[gold]N sux:me[be]V/i sux:urud[copper]N sux:me[be]V/i
+c.1.8.2.3,Enmerkar and the lord of Aratta,,407,sux:kugmea[metal]N sux:zid[right]V/i sux:kugbabbar[silver]N sux:me[be]V/i
+c.1.8.2.3,Enmerkar and the lord of Aratta,,408,sux:gug[carnelian]N sux:me[be]V/i sux:zagin[lapis]N sux:me[be]V/i
+c.1.8.2.3,Enmerkar and the lord of Aratta,,409,sux:ŋidru[scepter]N sux:kid[cut]V/t sux:ŋal[be]V/i
+c.1.8.2.3,Enmerkar and the lord of Aratta,,410,sux:gugŋešdili[beads]N sux:zaginŋešdili[beads]N sux:šu[hand]N sux:ŋal[be]V/i
+c.1.8.2.3,Enmerkar and the lord of Aratta,,411,sux:en[lord]N sux:Kulaba[1]SN sux:igi[eye]N sux:de[bring]V/t sux:ane[he]IP sux:dug[speak]V/t
+c.1.8.2.3,Enmerkar and the lord of Aratta,,412,sux:ur[he]IP sux:dug[speak]V/t
+c.1.8.2.3,Enmerkar and the lord of Aratta,,413,sux:kiŋgia[messenger]N sux:dur[donkey]N sux:sigigir[harness]N sux:kud[cut]V/t sux:kag[mouth]N sux:sil[split]V/i sux:ŋen[go]V/i
+c.1.8.2.3,Enmerkar and the lord of Aratta,,414,sux:anše[equid]N sux:eden[back]N sux:barim[land]N sux:kaš[runner]N sux:dug[speak]V/t sux:kušum[cvne]N sux:tag[touch]V/t
+c.1.8.2.3,Enmerkar and the lord of Aratta,,415,sux:kag[mouth]N sux:tumu[wind]N sux:zig[rise]V/t
+c.1.8.2.3,Enmerkar and the lord of Aratta,,416,sux:udu[sheep]N sux:zulumhi[sheep]N sux:udu[sheep]N sux:sumur[angry]V/i sux:du[push]V/t sux:dus[path]N sux:dili[single]V/i sux:dab[seize]V/t
+c.1.8.2.3,Enmerkar and the lord of Aratta,,417,sux:šeg[brick]N sux:Kulaba[1]SN sux:ŋiri[foot]N sux:hul[rejoice]V/i sux:gub[stand]V/i
+c.1.8.2.3,Enmerkar and the lord of Aratta,,418,sux:lugal[king]N sux:en[lord]N sux:Kulaba[1]SN
+c.1.8.2.3,Enmerkar and the lord of Aratta,,419,sux:inim[word]N sux:si[fill]V/t
+c.1.8.2.3,Enmerkar and the lord of Aratta,,420,sux:Enmerkar[1]RN sux:Enki[1]DN sux:ŋeštug[ear]N sux:šum[give]V/t
+c.1.8.2.3,Enmerkar and the lord of Aratta,,421,sux:en[lord]N sux:agrig[steward]N sux:mah[great]V/i sux:a[arm]N sux:aŋ[measure]V/t
+c.1.8.2.3,Enmerkar and the lord of Aratta,,422,sux:e[house]N
+c.1.8.2.3,Enmerkar and the lord of Aratta,,423,sux:lugal[king]N sux:asumur[canopy]N sux:šu[hand]N sux:teŋ[approach]V/i
+c.1.8.2.3,Enmerkar and the lord of Aratta,,424,sux:dul[cover]V/t sux:šu[hand]N sux:gur[turn]V/i sux:igi[eye]N sux:ŋar[place]V/t
+c.1.8.2.3,Enmerkar and the lord of Aratta,,425,sux:na[stone]N sux:šim[aromatics]N sux:zu[tooth]N sux:rah[beat]V/t
+c.1.8.2.3,Enmerkar and the lord of Aratta,,426,sux:gi[reed]N sux:sulim[radiance]N sux:i[oil]N sux:de[pour]V/t
+c.1.8.2.3,Enmerkar and the lord of Aratta,,427,sux:ud[sun]N sux:ŋissu[shade]N sux:e[leave]V/i
+c.1.8.2.3,Enmerkar and the lord of Aratta,,428,sux:ŋissu[shade]N sux:ud[sun]N sux:e[leave]V/i
+c.1.8.2.3,Enmerkar and the lord of Aratta,,429,sux:mu[year]N sux:5[5]NU sux:mu[year]N sux:10[10]NU sux:zal[pass]V/t
+c.1.8.2.3,Enmerkar and the lord of Aratta,,430,sux:gi[reed]N sux:sulim[radiance]N sux:giŋ[ax]N sux:gaz[kill]V/t
+c.1.8.2.3,Enmerkar and the lord of Aratta,,431,sux:en[lord]N sux:igi[eye]N sux:hul[rejoice]V/i sux:bar[outside]V/t
+c.1.8.2.3,Enmerkar and the lord of Aratta,,432,sux:i[oil]N sux:li[rich]V/i sux:i[oil]N sux:li[press]V/t sux:kur[mountain]N sux:šuba[multicoloured]V/i sux:sag[beat]V/t sux:de[pour]V/t
+c.1.8.2.3,Enmerkar and the lord of Aratta,,433,sux:en[lord]N sux:kiŋgia[messenger]N sux:kur[mountain]N sux:ŋen[go]V/i
+c.1.8.2.3,Enmerkar and the lord of Aratta,,434,sux:ŋidru[scepter]N sux:šu[hand]N sux:ŋar[place]V/t
+c.1.8.2.3,Enmerkar and the lord of Aratta,,435,sux:kiŋgia[messenger]N sux:Aratta[1]SN sux:ŋen[go]V/i
+c.1.8.2.3,Enmerkar and the lord of Aratta,,436,sux:u[goose]N sux:hursaŋ[mountain]N sux:nim[fly]N sux:sahar[soil]N sux:niŋin[encircle]V/t
+c.1.8.2.3,Enmerkar and the lord of Aratta,,437,sux:HI.SUHUR[fish]N sux:kur[mountain]N sux:ur[drag]V/t sux:Aratta[1]SN sux:teŋ[approach]V/i
+c.1.8.2.3,Enmerkar and the lord of Aratta,,438,sux:kisal[courtyard]N sux:Aratta[1]SN sux:ŋiri[foot]N sux:hul[rejoice]V/i sux:gub[stand]V/i
+c.1.8.2.3,Enmerkar and the lord of Aratta,,439,sux:ŋidru[scepter]N sux:gub[stand]V/i
+c.1.8.2.3,Enmerkar and the lord of Aratta,,440,sux:šu[hand]N sux:kiŋ[seek]V/t sux:si[horn]N sux:sa[equal]V/t sux:a[water]N sux:kiŋ[seek]V/t sux:ak[do]V/t
+c.1.8.2.3,Enmerkar and the lord of Aratta,,441,sux:en[lord]N sux:Aratta[1]SN sux:ŋidru[scepter]N sux:igi[eye]N sux:tab[double]V/t
+c.1.8.2.3,Enmerkar and the lord of Aratta,,442,sux:itima[shrine]N sux:kituš[dwelling]N sux:kug[pure]V/i sux:ni[fear]N sux:kar[blow]V/t
+c.1.8.2.3,Enmerkar and the lord of Aratta,,443,sux:en[lord]N sux:šatam[official]N sux:gu[voice]N sux:de[pour]V/t
+c.1.8.2.3,Enmerkar and the lord of Aratta,,444,sux:Aratta[1]SN sux:u[ewe]N sux:sag[scatter]V/t sux:me[be]V/i sux:kaskal[way]N sux:kur[mountain]N sux:kibala[rebel-land]N sux:me[be]V/i
+c.1.8.2.3,Enmerkar and the lord of Aratta,,445,sux:mah[great]V/i sux:Aratta[1]SN sux:kug[pure]V/i sux:Inanak[1]DN
+c.1.8.2.3,Enmerkar and the lord of Aratta,,446,sux:en[lord]N sux:Kulaba[1]SN sux:šum[give]V/t
+c.1.8.2.3,Enmerkar and the lord of Aratta,,447,sux:kiŋgia[messenger]N sux:gi[turn]V/i
+c.1.8.2.3,Enmerkar and the lord of Aratta,,448,sux:Utu[1]DN sux:e[leave]V/i sux:inim[word]N sux:dugud[heavy]V/i sux:pa[branch]N sux:e[leave]V/i
+c.1.8.2.3,Enmerkar and the lord of Aratta,,449,sux:adal[exclamation]MA sux:kug[pure]V/i sux:Inanak[1]DN sux:igi[eye]N sux:kar[blow]V/t
+c.1.8.2.3,Enmerkar and the lord of Aratta,,450,sux:Aratta[1]SN sux:lul[false]V/i sux:mea[where?]QP sux:dib[pass]V/t
+c.1.8.2.3,Enmerkar and the lord of Aratta,,451,sux:al[hoe]N sux:meta[whence?]QP sux:šu[hand]N sux:zil[good]V/i
+c.1.8.2.3,Enmerkar and the lord of Aratta,,452,sux:menden[we]IP sux:sug[empty]V/i sux:lul[false]V/i
+c.1.8.2.3,Enmerkar and the lord of Aratta,,453,sux:en[lord]N sux:Kulaba[1]SN sux:gugkal[famine]N sux:lul[false]V/i sux:tuš[sit]V/i
+c.1.8.2.3,Enmerkar and the lord of Aratta,,454,sux:en[lord]N sux:Aratta[1]SN sux:kiŋgia[messenger]N
+c.1.8.2.3,Enmerkar and the lord of Aratta,,455,sux:inim[word]N sux:dub[tablet]N sux:mah[great]V/i sux:šu[hand]N sux:sig[put]V/t
+c.1.8.2.3,Enmerkar and the lord of Aratta,,456,sux:kiŋgia[messenger]N sux:lugal[king]N sux:en[lord]N sux:Kulaba[1]SN sux:dug[speak]V/t sux:tah[add]V/t
+c.1.8.2.3,Enmerkar and the lord of Aratta,,457,sux:ur[man]N sux:giggi[black]V/i sux:ur[man]N sux:babbar[white]V/i
+c.1.8.2.3,Enmerkar and the lord of Aratta,,458,sux:ur[man]N sux:su[red]V/i sux:ur[man]N sux:dara[red]V/i
+c.1.8.2.3,Enmerkar and the lord of Aratta,,459,sux:ur[man]N sux:sissig[green]V/i sux:ur[man]N sux:gunu[speckled]V/i sux:ur[man]N sux:šum[give]V/t
+c.1.8.2.3,Enmerkar and the lord of Aratta,,460,sux:ur[man]N sux:ur[man]N sux:adamin[contest]N sux:dug[speak]V/t
+c.1.8.2.3,Enmerkar and the lord of Aratta,,461,sux:aŋal[strong]AJ sux:zu[know]V/t sux:ane[he]IP sux:dug[speak]V/t
+c.1.8.2.3,Enmerkar and the lord of Aratta,,462,sux:ur[he]IP sux:dug[speak]V/t
+c.1.8.2.3,Enmerkar and the lord of Aratta,,463,sux:kiŋgia[messenger]N sux:ulum[exclamation]N sux:alam[exclamation]N sux:ŋen[go]V/i
+c.1.8.2.3,Enmerkar and the lord of Aratta,,464,sux:šeg[brick]N sux:Kulaba[1]SN sux:egir[back]N sux:sig[put]V/t sux:inim[word]N sux:gi[turn]V/i
+c.1.8.2.3,Enmerkar and the lord of Aratta,,465,sux:uzud[goat]N sux:kag[mouth]N sux:gaba[chest]N sux:kur[mountain]N sux:igi[eye]N sux:il[raise]V/t
+c.1.8.2.3,Enmerkar and the lord of Aratta,,466,sux:mir[snake]N sux:mah[great]V/i sux:kišig[acacia]N sux:zig[rise]V/t sux:e[house]N sux:me[Being]N sux:la[hang]V/t
+c.1.8.2.3,Enmerkar and the lord of Aratta,,467,sux:saŋ[head]N sux:il[raise]V/t
+c.1.8.2.3,Enmerkar and the lord of Aratta,,468,sux:Aratta[1]SN
+c.1.8.2.3,Enmerkar and the lord of Aratta,,469,sux:kituš[dwelling]N sux:a[water]N sux:mah[great]V/i sux:e[leave]V/i sux:dug[speak]V/t
+c.1.8.2.3,Enmerkar and the lord of Aratta,,470,sux:kiŋgia[messenger]N sux:en[lord]N sux:Aratta[1]SN sux:dug[speak]V/t sux:tah[add]V/t
+c.1.8.2.3,Enmerkar and the lord of Aratta,,471,sux:tug[textile]N sux:giggi[black]V/i sux:tug[textile]N sux:babbar[white]V/i
+c.1.8.2.3,Enmerkar and the lord of Aratta,,472,sux:tug[textile]N sux:su[red]V/i sux:tug[textile]N sux:dara[red]V/i
+c.1.8.2.3,Enmerkar and the lord of Aratta,,473,sux:tug[textile]N sux:sissig[green]V/i sux:tug[textile]N sux:gunu[speckled]V/i sux:tug[textile]N sux:šum[give]V/t
+c.1.8.2.3,Enmerkar and the lord of Aratta,,474,sux:ur[man]N sux:gu[neck]N sux:ŋal[be]V/i sux:Enlil[1]DN sux:ur[man]N sux:šu[hand]N sux:taka[abandon]V/t
+c.1.8.2.3,Enmerkar and the lord of Aratta,,475,sux:ur[man]N sux:ur[man]N sux:adamin[contest]N sux:dug[speak]V/t
+c.1.8.2.3,Enmerkar and the lord of Aratta,,476,sux:aŋal[strong]AJ sux:zu[know]V/t sux:ane[he]IP sux:dug[speak]V/t
+c.1.8.2.3,Enmerkar and the lord of Aratta,,477,sux:2-kam-ma[2nd]NU sux:dug[speak]V/t sux:tah[add]V/t
+c.1.8.2.3,Enmerkar and the lord of Aratta,,478,sux:entukumše[as-long-as]MA sux:lul[false]V/i sux:dib[pass]V/t
+c.1.8.2.3,Enmerkar and the lord of Aratta,,479,sux:iri[city]N sux:udu[sheep]N sux:igi[eye]N sux:ŋen[go]V/i
+c.1.8.2.3,Enmerkar and the lord of Aratta,,480,sux:ane[he]IP sux:sipad[shepherd]N sux:egir[back]N sux:us[follow]V/t
+c.1.8.2.3,Enmerkar and the lord of Aratta,,481,sux:ŋen[go]V/i sux:kur[mountain]N sux:kug[pure]V/i sux:zagin[lapis]N
+c.1.8.2.3,Enmerkar and the lord of Aratta,,482,sux:gi[reed]N sux:niŋ[thing]N sux:dub[heap]V/t sux:gu[neck]N sux:ŋar[place]V/t
+c.1.8.2.3,Enmerkar and the lord of Aratta,,483,sux:kugsig[gold]N sux:kugbabbar[silver]N sux:sudaŋ[metal]N
+c.1.8.2.3,Enmerkar and the lord of Aratta,,484,sux:Inanak[1]DN sux:nin[lady]N sux:Eanak[1]TN
+c.1.8.2.3,Enmerkar and the lord of Aratta,,485,sux:kisal[courtyard]N sux:Aratta[1]SN sux:guru[store]N sux:dub[heap]V/t
+c.1.8.2.3,Enmerkar and the lord of Aratta,,486,sux:3-kam-ma[3rd]NU sux:dug[speak]V/t sux:tah[add]V/t
+c.1.8.2.3,Enmerkar and the lord of Aratta,,487,sux:iri[city]N sux:irsaŋ[pigeon]N sux:ŋeš[tree]N sux:tar[cut]V/t
+c.1.8.2.3,Enmerkar and the lord of Aratta,,488,sux:dub[tremble]V/t
+c.1.8.2.3,Enmerkar and the lord of Aratta,,489,sux:ganba[price]N sux:ŋal[be]V/i sux:sig[put]V/t
+c.1.8.2.3,Enmerkar and the lord of Aratta,,490,sux:lil[ghost]N sux:dib[pass]V/t
+c.1.8.2.3,Enmerkar and the lord of Aratta,,491,sux:ŋen[go]V/i sux:na[stone]N sux:hursaŋ[mountain]N sux:šu[hand]N sux:teŋ[approach]V/i
+c.1.8.2.3,Enmerkar and the lord of Aratta,,492,sux:eš[shrine]N sux:gal[big]V/i sux:Eridug[1]SN sux:Abzu[1]TN sux:Enun[1]TN sux:du[build]V/t
+c.1.8.2.3,Enmerkar and the lord of Aratta,,493,sux:asalbar[~architecture]N sux:šuš[cover]V/t sux:šu[hand]N sux:tag[touch]V/t
+c.1.8.2.3,Enmerkar and the lord of Aratta,,494,sux:ŋissu[shade]N sux:kalam[land]N sux:la[hang]V/t
+c.1.8.2.3,Enmerkar and the lord of Aratta,,495,sux:inim[word]N sux:dug[speak]V/t sux:šar[3600]NU
+c.1.8.2.3,Enmerkar and the lord of Aratta,,496,sux:ŋeškim[sign]N sux:ane[he]IP sux:dug[speak]V/t
+c.1.8.2.3,Enmerkar and the lord of Aratta,,497,sux:ud[sun]N sux:en[lord]N
+c.1.8.2.3,Enmerkar and the lord of Aratta,,498,sux:barag[sanctum]N sux:dur[buttocks]N sux:ŋar[place]V/t sux:numun[seed]N sux:nun[prince]N
+c.1.8.2.3,Enmerkar and the lord of Aratta,,499,sux:1[1]NU sux:mu[grow]V/t
+c.1.8.2.3,Enmerkar and the lord of Aratta,,500,sux:dug[speak]V/t sux:mah[great]V/i sux:šag[heart]N sux:sud[distant]V/i
+c.1.8.2.3,Enmerkar and the lord of Aratta,,501,sux:kiŋgia[messenger]N sux:kag[mouth]N sux:dugud[heavy]V/i sux:šu[hand]N sux:gi[turn]V/i
+c.1.8.2.3,Enmerkar and the lord of Aratta,,502,sux:bar[outside]V/t sux:kiŋgia[messenger]N sux:kag[mouth]N sux:dugud[heavy]V/i sux:šu[hand]N sux:gi[turn]V/i
+c.1.8.2.3,Enmerkar and the lord of Aratta,,503,sux:en[lord]N sux:Kulaba[1]SN sux:im[clay]N sux:šu[hand]N sux:rah[beat]V/t sux:inim[word]N sux:dub[tablet]N sux:gub[stand]V/i
+c.1.8.2.3,Enmerkar and the lord of Aratta,,504,sux:ud[sun]N sux:inim[word]N sux:im[clay]N sux:gub[stand]V/i sux:ŋal[be]V/i
+c.1.8.2.3,Enmerkar and the lord of Aratta,,505,sux:ineš[now]MA sux:Utu[1]DN sux:ud[sun]N sux:nen[this]DP sux:ur[he]IP sux:me[be]V/i
+c.1.8.2.3,Enmerkar and the lord of Aratta,,506,sux:en[lord]N sux:Kulaba[1]SN sux:inim[word]N sux:dub[tablet]N sux:gub[stand]V/i sux:ur[he]IP sux:me[be]V/i
+c.1.8.2.3,Enmerkar and the lord of Aratta,,507,sux:kiŋgia[messenger]N sux:mušen[bird]N sux:a[arm]N sux:dub[tremble]V/t sux:ak[do]V/t
+c.1.8.2.3,Enmerkar and the lord of Aratta,,508,sux:urbara[wolf]N sux:maš[goat]N sux:us[follow]V/t sux:guruš[cut]V/t sux:bur[spread]V/t
+c.1.8.2.3,Enmerkar and the lord of Aratta,,509,sux:hursaŋ[mountain]N sux:5[5]NU sux:hursaŋ[mountain]N sux:6[6]NU sux:hursaŋ[mountain]N sux:7[7]NU sux:bala[turn]V/t
+c.1.8.2.3,Enmerkar and the lord of Aratta,,510,sux:igi[eye]N sux:il[raise]V/t sux:Aratta[1]SN sux:teŋ[approach]V/i
+c.1.8.2.3,Enmerkar and the lord of Aratta,,511,sux:kisal[courtyard]N sux:Aratta[1]SN sux:ŋiri[foot]N sux:hul[rejoice]V/i sux:gub[stand]V/i
+c.1.8.2.3,Enmerkar and the lord of Aratta,,512,sux:namnirŋal[authority]N sux:lugal[king]N sux:zu[know]V/t
+c.1.8.2.3,Enmerkar and the lord of Aratta,,513,sux:bur[spread]V/t sux:inim[word]N sux:šag[heart]N sux:dug[speak]V/t
+c.1.8.2.3,Enmerkar and the lord of Aratta,,514,sux:kiŋgia[messenger]N sux:en[lord]N sux:Aratta[1]SN sux:bala[turn]V/t
+c.1.8.2.3,Enmerkar and the lord of Aratta,,515,sux:aya[father]N sux:lugal[king]N sux:gi[turn]V/i
+c.1.8.2.3,Enmerkar and the lord of Aratta,,516,sux:en[lord]N sux:Unug[1]SN sux:en[lord]N sux:Kulaba[1]SN sux:gi[turn]V/i
+c.1.8.2.3,Enmerkar and the lord of Aratta,,517,sux:lugal[king]N sux:dug[speak]V/t sux:nam[fate]N sux:tah[add]V/t sux:nam[fate]N
+c.1.8.2.3,Enmerkar and the lord of Aratta,,518,sux:lugal[king]N sux:ana[what?]QP sux:dug[speak]V/t sux:ana[what?]QP sux:tah[add]V/t
+c.1.8.2.3,Enmerkar and the lord of Aratta,,519,sux:lugal[king]N sux:mes[tree]N sux:gal[big]V/i sux:dumu[child]N sux:Enlil[1]DN
+c.1.8.2.3,Enmerkar and the lord of Aratta,,520,sux:ŋeš[tree]N sux:an[sky]N sux:ki[place]N sux:mu[grow]V/t
+c.1.8.2.3,Enmerkar and the lord of Aratta,,521,sux:pa[branch]N sux:an[sky]N sux:us[follow]V/t
+c.1.8.2.3,Enmerkar and the lord of Aratta,,522,sux:ur[root]N sux:ki[place]N sux:gub[stand]V/i
+c.1.8.2.3,Enmerkar and the lord of Aratta,,523,sux:namen[priesthood]N sux:namlugal[kingship]N sux:pa[branch]N sux:e[leave]V/i sux:ak[do]V/t
+c.1.8.2.3,Enmerkar and the lord of Aratta,,524,sux:Enmerkar[1]RN sux:dumu[child]N sux:Utu[1]DN sux:im[clay]N sux:šum[give]V/t
+c.1.8.2.3,Enmerkar and the lord of Aratta,,525,sux:en[lord]N sux:Aratta[1]SN sux:im[clay]N sux:igi[eye]N sux:bar[outside]V/t sux:šag[heart]N sux:inim[word]N sux:zu[know]V/t
+c.1.8.2.3,Enmerkar and the lord of Aratta,,526,sux:ana[what?]QP sux:dug[speak]V/t sux:dug[speak]V/t
+c.1.8.2.3,Enmerkar and the lord of Aratta,,527,sux:a[water]N sux:ri[impose]V/t sux:sum[beard]N sux:zagin[lapis]N sux:kešed[bind]V/t
+c.1.8.2.3,Enmerkar and the lord of Aratta,,528,sux:ab[cow]N sux:kalag[strong]V/i sux:kur[mountain]N sux:me[Being]N sux:sikil[pure]V/i sux:utud[bear]V/t
+c.1.8.2.3,Enmerkar and the lord of Aratta,,529,sux:sahar[soil]N sux:Aratta[1]SN sux:a[arm]N sux:e[leave]V/i
+c.1.8.2.3,Enmerkar and the lord of Aratta,,530,sux:ubur[breast]N sux:ab[cow]N sux:zid[right]V/i sux:ga[milk]N sux:gu[eat]V/t
+c.1.8.2.3,Enmerkar and the lord of Aratta,,531,sux:Kulaba[1]SN sux:kur[mountain]N sux:me[Being]N sux:gal[big]V/i sux:namen[priesthood]N sux:tum[suitable]V/i
+c.1.8.2.3,Enmerkar and the lord of Aratta,,532,sux:Enmerkar[1]RN sux:dumu[child]N sux:Utu[1]DN
+c.1.8.2.3,Enmerkar and the lord of Aratta,,533,sux:inim[word]N sux:eš[shrine]N sux:Eanak[1]TN sux:inim[word]N sux:dug[good]V/i sux:dug[speak]V/t
+c.1.8.2.3,Enmerkar and the lord of Aratta,,534,sux:ŋipar[cloister]N sux:mes[tree]N sux:gibil[new]V/i sux:gurun[fruit]N sux:il[raise]V/t
+c.1.8.2.3,Enmerkar and the lord of Aratta,,535,sux:lugal[king]N sux:en[lord]N sux:Kulaba[1]SN sux:šu[hand]N sux:gi[turn]V/i
+c.1.8.2.3,Enmerkar and the lord of Aratta,,536,sux:ur[he]IP sux:dug[speak]V/t
+c.1.8.2.3,Enmerkar and the lord of Aratta,,537,sux:en[lord]N sux:Aratta[1]SN sux:kiŋgia[messenger]N
+c.1.8.2.3,Enmerkar and the lord of Aratta,,538,sux:im[clay]N sux:šurin[oven]N sux:šu[hand]N sux:teŋ[approach]V/i
+c.1.8.2.3,Enmerkar and the lord of Aratta,,539,sux:en[lord]N sux:Aratta[1]SN sux:im[clay]N sux:igi[eye]N sux:bar[outside]V/t
+c.1.8.2.3,Enmerkar and the lord of Aratta,,540,sux:inim[word]N sux:dug[speak]V/t sux:gag[nail]N sux:saŋki[forehead]N sux:mir[angry]V/i
+c.1.8.2.3,Enmerkar and the lord of Aratta,,541,sux:en[lord]N sux:Aratta[1]SN sux:im[clay]N sux:šurin[oven]N sux:igi[eye]N sux:bar[outside]V/t
+c.1.8.2.3,Enmerkar and the lord of Aratta,,542,sux:ud[sun]N sux:en[lord]N sux:men[tiara]N sux:namen[priesthood]N sux:tum[suitable]V/i sux:dumu[child]N sux:Enlil[1]DN
+c.1.8.2.3,Enmerkar and the lord of Aratta,,543,sux:Iškur[1]DN sux:an[sky]N sux:ki[place]N sux:gu[voice]N sux:nun[prince]N sux:dug[speak]V/t
+c.1.8.2.3,Enmerkar and the lord of Aratta,,544,sux:ud[storm]N sux:du[push]V/t sux:ug[lion]N sux:gal[big]V/i sux:ki[place]N sux:gub[stand]V/i
+c.1.8.2.3,Enmerkar and the lord of Aratta,,545,sux:kur[mountain]N sux:tuku[rock]V/t
+c.1.8.2.3,Enmerkar and the lord of Aratta,,546,sux:hursaŋ[mountain]N sux:peš[thick]V/i
+c.1.8.2.3,Enmerkar and the lord of Aratta,,547,sux:ni[fear]N sux:melim[splendor]N sux:gaba[chest]N sux:ŋal[be]V/i
+c.1.8.2.3,Enmerkar and the lord of Aratta,,548,sux:hursaŋ[mountain]N sux:kirizal[joy]N sux:gu[voice]N sux:il[raise]V/t
+c.1.8.2.3,Enmerkar and the lord of Aratta,,549,sux:Aratta[1]SN sux:bar[outside]V/t sux:ud[sun]N sux:šag[heart]N sux:hursaŋ[mountain]N
+c.1.8.2.3,Enmerkar and the lord of Aratta,,550,sux:kib[wheat]N sux:ni[self]RP sux:mu[grow]V/t sux:gu[pulse]N sux:ni[self]RP sux:mu[grow]V/t
+c.1.8.2.3,Enmerkar and the lord of Aratta,,551,sux:kib[wheat]N sux:ni[self]RP sux:mu[grow]V/t sux:guru[store]N
+c.1.8.2.3,Enmerkar and the lord of Aratta,,552,sux:en[lord]N sux:Aratta[1]SN sux:kur[enter]V/i
+c.1.8.2.3,Enmerkar and the lord of Aratta,,553,sux:kisal[courtyard]N sux:Aratta[1]SN sux:igi[eye]N sux:dub[heap]V/t
+c.1.8.2.3,Enmerkar and the lord of Aratta,,554,sux:en[lord]N sux:Aratta[1]SN sux:kib[wheat]N sux:igi[eye]N sux:du[spread]V/t
+c.1.8.2.3,Enmerkar and the lord of Aratta,,555,sux:kiŋgia[messenger]N sux:igi[eye]N sux:sag[beat]V/t sux:UR₂×KID₂.UR₂×KID₂[unmng]N
+c.1.8.2.3,Enmerkar and the lord of Aratta,,556,sux:en[lord]N sux:Aratta[1]SN sux:kiŋgia[messenger]N sux:gu[voice]N sux:de[pour]V/t
+c.1.8.2.3,Enmerkar and the lord of Aratta,,557,sux:mah[great]V/i sux:Inanak[1]DN sux:nin[lady]N sux:kur[mountain]N
+c.1.8.2.3,Enmerkar and the lord of Aratta,,558,sux:iri[city]N sux:Aratta[1]SN sux:šu[hand]N sux:šu-dag[roam-around]V/t sux:Unug[1]SN sux:KA[KA]V
+c.1.8.2.3,Enmerkar and the lord of Aratta,,559,sux:Ezagin[1]TN sux:šu[hand]N sux:šu-dag[roam-around]V/t sux:eš[shrine]N sux:Eanak[1]TN sux:KA[KA]V
+c.1.8.2.3,Enmerkar and the lord of Aratta,,560,sux:kur[mountain]N sux:me[Being]N sux:sikil[pure]V/i sux:šu[hand]N sux:šu-dag[roam-around]V/t sux:šeg[brick]N sux:Kulaba[1]SN sux:KA[KA]V
+c.1.8.2.3,Enmerkar and the lord of Aratta,,561,sux:ŋešnud[bed]N sux:šerkan[ornament]N sux:dug[speak]V/t sux:šu[hand]N sux:šu-dag[roam-around]V/t sux:ŋešnud[bed]N sux:girim[flower]N sux:KA[KA]V
+c.1.8.2.3,Enmerkar and the lord of Aratta,,562,sux:en[lord]N sux:šu[hand]N sux:sikil[pure]V/i sux:šu[hand]N sux:šu-dag[roam-around]V/t sux:en[lord]N sux:Unug[1]SN sux:en[lord]N sux:Kulaba[1]SN sux:KA[KA]V
+c.1.8.2.3,Enmerkar and the lord of Aratta,,563,sux:Aratta[1]SN sux:zid[right]V/i sux:gab[left]N
+c.1.8.2.3,Enmerkar and the lord of Aratta,,564,sux:Inanak[1]DN sux:nin[lady]N sux:kur[mountain]N
+c.1.8.2.3,Enmerkar and the lord of Aratta,,565,sux:a[water]N sux:mah[great]V/i sux:e[leave]V/i sux:niŋin[encircle]V/t
+c.1.8.2.3,Enmerkar and the lord of Aratta,,566,sux:lu[person]N sux:lu[person]N sux:dar[split]V/t
+c.1.8.2.3,Enmerkar and the lord of Aratta,,567,sux:lu[person]N sux:Dumuzid[1]DN sux:lu[person]N sux:e[leave]V/i
+c.1.8.2.3,Enmerkar and the lord of Aratta,,568,sux:inim[word]N sux:kug[pure]V/i sux:Inanak[1]DN sux:ki[place]N sux:ŋar[place]V/t
+c.1.8.2.3,Enmerkar and the lord of Aratta,,569,sux:ur[man]N sux:igiŋal[wise]AJ sux:DA.A.SAR[unmng]N sux:Dumuzid[1]DN sux:niŋin[encircle]V/t
+c.1.8.2.3,Enmerkar and the lord of Aratta,,570,sux:ul[hasten]V/i sux:ŋen[go]V/i sux:dumu[child]N sux:ur[pluck]V/t
+c.1.8.2.3,Enmerkar and the lord of Aratta,,571,sux:igi[eye]N sux:amaru[flood]N sux:gub[stand]V/i
+c.1.8.2.3,Enmerkar and the lord of Aratta,,572,sux:egir[back]N sux:amaru[flood]N sux:ur[drag]V/t
+c.1.8.2.3,Enmerkar and the lord of Aratta,,573,sux:Inanak[1]DN sux:nin[lady]N sux:kur[mountain]N
+c.1.8.2.3,Enmerkar and the lord of Aratta,,574,sux:nam[fate]N sux:gal[big]V/i sux:ki[place]N sux:aŋ[measure]V/t sux:Dumuzid[1]DN
+c.1.8.2.3,Enmerkar and the lord of Aratta,,575,sux:a[water]N sux:namtil[life]N sux:sud[distant]V/i
+c.1.8.2.3,Enmerkar and the lord of Aratta,,576,sux:gu[neck]N sux:kalam[land]N sux:ŋeš[tree]N sux:ŋal[be]V/i
+c.1.8.2.3,Enmerkar and the lord of Aratta,,577,sux:ur[man]N sux:igiŋal[wise]AJ sux:ŋen[go]V/i
+c.1.8.2.3,Enmerkar and the lord of Aratta,,578,sux:saŋšu[turban]N sux:gunu[speckled]V/i sux:ugu[skull]N sux:šuš[cover]V/t
+c.1.8.2.3,Enmerkar and the lord of Aratta,,579,sux:piriŋ[lion]N sux:zag[side]N sux:kešed[bind]V/t
+c.1.8.2.3,Enmerkar and the lord of Aratta,,580,sux:il[raise]V/t sux:šu[hand]N sux:du[spread]V/t
+c.1.8.2.3,Enmerkar and the lord of Aratta,,581,sux:dug[speak]V/t
+c.1.8.2.3,Enmerkar and the lord of Aratta,,582,sux:nin[lady]N sux:PA[PA]V
+c.1.8.2.3,Enmerkar and the lord of Aratta,,583,
+c.1.8.2.3,Enmerkar and the lord of Aratta,,584,sux:Inanak[1]DN
+c.1.8.2.3,Enmerkar and the lord of Aratta,,585,sux:endu[song]N sux:Amaušumgalanak[1]DN sux:ŋidlam[spouse]N sux:dug[good]V/i
+c.1.8.2.3,Enmerkar and the lord of Aratta,,586,sux:ud[sun]N sux:ŋeštug[ear]N sux:kug[pure]V/i sux:ŋeštug[ear]N sux:kug[pure]V/i sux:Dumuzid[1]DN
+c.1.8.2.3,Enmerkar and the lord of Aratta,,587,sux:šu[hand]N sux:šu-du[complete]V/t sux:šir[song]N sux:dug[speak]V/t sux:inim[word]N sux:zu[know]V/t
+c.1.8.2.3,Enmerkar and the lord of Aratta,,588,sux:umma[old-woman]N sux:kur[mountain]N sux:me[Being]N sux:sikil[pure]V/i sux:ŋen[go]V/i
+c.1.8.2.3,Enmerkar and the lord of Aratta,,589,sux:kisikil[woman]N sux:ud[sun]N sux:til[complete]V/i sux:e[leave]V/i
+c.1.8.2.3,Enmerkar and the lord of Aratta,,590,sux:šembizida[kohl]N sux:igi[eye]N sux:gunu[speckled]V/i
+c.1.8.2.3,Enmerkar and the lord of Aratta,,591,sux:tug[textile]N sux:babbar[white]V/i sux:zag[side]N sux:kešed[bind]V/t
+c.1.8.2.3,Enmerkar and the lord of Aratta,,592,sux:aga[tiara]N sux:zid[right]V/i sux:itud[moon]N sux:e[leave]V/i
+c.1.8.2.3,Enmerkar and the lord of Aratta,,593,sux:saŋ[head]N sux:si[horn]N sux:sa[equal]V/t
+c.1.8.2.3,Enmerkar and the lord of Aratta,,594,sux:ŋidlam[spouse]N sux:Enmerkar[1]RN sux:barag[sanctum]N sux:si[fill]V/t
+c.1.8.2.3,Enmerkar and the lord of Aratta,,595,sux:zig[rise]V/t
+c.1.8.2.3,Enmerkar and the lord of Aratta,,596,sux:ganam[moreover]MA sux:lu[abundant]V/i sux:Aratta[1]SN sux:u[ewe]N sux:sila[lamb]N
+c.1.8.2.3,Enmerkar and the lord of Aratta,,597,sux:ganam[moreover]MA sux:lu[abundant]V/i sux:Aratta[1]SN sux:uzud[goat]N sux:maš[goat]N
+c.1.8.2.3,Enmerkar and the lord of Aratta,,598,sux:ganam[moreover]MA sux:lu[abundant]V/i sux:Aratta[1]SN sux:ab[cow]N sux:amar[young]N
+c.1.8.2.3,Enmerkar and the lord of Aratta,,599,sux:ganam[moreover]MA sux:lu[abundant]V/i sux:Aratta[1]SN sux:eme[donkey]N sux:dur[donkey]N sux:kaš[runner]N sux:giggi[black]V/i
+c.1.8.2.3,Enmerkar and the lord of Aratta,,600,sux:Aratta[1]SN sux:dug[speak]V/t
+c.1.8.2.3,Enmerkar and the lord of Aratta,,601,sux:guru[store]N sux:dub[heap]V/t sux:gu[neck]N sux:ŋar[place]V/t
+c.1.8.2.3,Enmerkar and the lord of Aratta,,602,sux:heŋal[plenty]N sux:zaʾe[you]IP sux:heŋal[plenty]N
+c.1.8.2.3,Enmerkar and the lord of Aratta,,603,sux:en[lord]N sux:Aratta[1]SN sux:ak[do]V/t
+c.1.8.2.3,Enmerkar and the lord of Aratta,,604,
+c.1.8.2.3,Enmerkar and the lord of Aratta,,605,
+c.1.8.2.3,Enmerkar and the lord of Aratta,,606,sux:e[leave]V/i
+c.1.8.2.3,Enmerkar and the lord of Aratta,,607,sux:si[horn]N sux:sa[equal]V/t
+c.1.8.2.3,Enmerkar and the lord of Aratta,,611,sux:mete[appropriate-thing]N sux:ŋal[be]V/i
+c.1.8.2.3,Enmerkar and the lord of Aratta,,612,sux:ilu[song]N sux:šag[heart]N
+c.1.8.2.3,Enmerkar and the lord of Aratta,,613,sux:heŋal[plenty]N
+c.1.8.2.3,Enmerkar and the lord of Aratta,,614,sux:Enlil[1]DN sux:saŋ[head]N sux:rig[donate]V/t sux:zu[know]V/t
+c.1.8.2.3,Enmerkar and the lord of Aratta,,615,sux:kar[blow]V/t sux:aya[father]N sux:lam[flourish]V/i sux:a[water]N sux:de[pour]V/t
+c.1.8.2.3,Enmerkar and the lord of Aratta,,616,sux:Enlil[1]DN sux:lugal[king]N sux:kur[mountain]N sux:kar[blow]V/t sux:ni[self]RP
+c.1.8.2.3,Enmerkar and the lord of Aratta,,617,sux:ešgar[assignment]N sux:du[build]V/t
+c.1.8.2.3,Enmerkar and the lord of Aratta,,618,sux:namlulu[humanity]N sux:Aratta[1]SN
+c.1.8.2.3,Enmerkar and the lord of Aratta,,619,sux:kugsig[gold]N sux:kug[metal]N sux:zagin[lapis]N sux:bala[turn]V/t sux:ak[do]V/t sux:ešgar[assignment]N
+c.1.8.2.3,Enmerkar and the lord of Aratta,,620,sux:lu[person]N sux:gurun[fruit]N sux:kugsig[gold]N sux:gurun[fruit]N sux:ŋeš[tree]N sux:gub[stand]V/i
+c.1.8.2.3,Enmerkar and the lord of Aratta,,621,sux:peš[fig]N sux:ŋeštin[vine]N sux:niŋ[thing]N sux:ub[cavity]N sux:guru[store]N sux:gal[big]V/i sux:dub[heap]V/t
+c.1.8.2.3,Enmerkar and the lord of Aratta,,622,sux:zagin[lapis]N sux:duru[wet]V/i sux:ur[root]N sux:bur[spread]V/t
+c.1.8.2.3,Enmerkar and the lord of Aratta,,623,sux:ušub[~reed]N sux:pa[branch]N sux:bala[turn]V/t
+c.1.8.2.3,Enmerkar and the lord of Aratta,,624,sux:Inanak[1]DN sux:nin[lady]N sux:Eanak[1]TN
+c.1.8.2.3,Enmerkar and the lord of Aratta,,625,sux:kisal[courtyard]N sux:Eanak[1]TN sux:guru[store]N sux:dub[heap]V/t
+c.1.8.2.3,Enmerkar and the lord of Aratta,,626,sux:lugal[king]N sux:ŋen[go]V/i sux:nadeg[advice]N sux:deg[collect]V/t sux:nadeg[advice]N sux:deg[collect]V/t sux:dab[seize]V/t
+c.1.8.2.3,Enmerkar and the lord of Aratta,,627,sux:inim[word]N sux:dug[speak]V/t sux:ŋizzal[ear]N sux:ak[do]V/t
+c.1.8.2.3,Enmerkar and the lord of Aratta,,628,sux:lu[person]N sux:kur[mountain]N sux:uŋ[people]N sux:pad[find]V/t
+c.1.8.2.3,Enmerkar and the lord of Aratta,,629,sux:namlulu[humanity]N sux:Aratta[1]SN
+c.1.8.2.3,Enmerkar and the lord of Aratta,,630,sux:e[leave]V/i sux:dug[speak]V/t
+c.1.8.2.3,Enmerkar and the lord of Aratta,,631,sux:ŋaʾe[I]IP sux:guʾe[this-side]O sux:ŋen[go]V/i
+c.1.8.2.3,Enmerkar and the lord of Aratta,,632,sux:namlugal[kingship]N sux:nin[lady]N sux:mul[star]N sux:šum[give]V/t
+c.1.8.2.3,Enmerkar and the lord of Aratta,,633,sux:Ŋeštinanak[1]DN
+c.1.8.2.3,Enmerkar and the lord of Aratta,,634,sux:iri[city]N sux:lil[ghost]N
+c.1.8.2.3,Enmerkar and the lord of Aratta,,635,sux:ezem[festival]N
+c.1.8.2.3,Enmerkar and the lord of Aratta,,636,sux:ud[sun]N sux:šuš[cover]V/t

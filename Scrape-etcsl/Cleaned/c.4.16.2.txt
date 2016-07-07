@@ -1,0 +1,35 @@
+etcsl_no,text_name,version,l_no,text
+c.4.16.2,A šir-namšub to Nisaba (Nisaba B),,1,sux:gul[destroy]V/t
+c.4.16.2,A šir-namšub to Nisaba (Nisaba B),,2,sux:gul[destroy]V/t sux:gul[destroy]V/t
+c.4.16.2,A šir-namšub to Nisaba (Nisaba B),,3,sux:Nisabak[1]DN sux:gul[destroy]V/t
+c.4.16.2,A šir-namšub to Nisaba (Nisaba B),,4,sux:e[house]N sux:Nisabak[1]DN sux-x-emesal:mulu[person]N sux:dub[tablet]N sux:gul[destroy]V/t
+c.4.16.2,A šir-namšub to Nisaba (Nisaba B),,5,sux:e[house]N sux:ŠE.TIR.ma[1]DN sux:gul[destroy]V/t
+c.4.16.2,A šir-namšub to Nisaba (Nisaba B),,6,sux:e[house]N sux:Nunbaršegunu[1]DN sux:gul[destroy]V/t
+c.4.16.2,A šir-namšub to Nisaba (Nisaba B),,7,sux:Ehamun[1]TN sux:gul[destroy]V/t
+c.4.16.2,A šir-namšub to Nisaba (Nisaba B),,8,sux:anir[grass]N sux:mu[grow]V/t sux-x-emesal:šumun[grass]N sux:mu[grow]V/t
+c.4.16.2,A šir-namšub to Nisaba (Nisaba B),,9,sux:bad[wall]N sux:u[grass]N sux:gid[long]V/i sux:mu[grow]V/t
+c.4.16.2,A šir-namšub to Nisaba (Nisaba B),,10,sux:šag[heart]N sux:u[grass]N sux-x-emesal:ŋen[willow]N sux:šu[hand]N sux:niŋin[encircle]V/t
+c.4.16.2,A šir-namšub to Nisaba (Nisaba B),,11,sux-x-emesal:eneŋ[word]N sux:An[1]DN sux-x-emesal:eneŋ[word]N sux-x-emesal:Enlil[1]DN sux:re[that]DP
+c.4.16.2,A šir-namšub to Nisaba (Nisaba B),,12,sux:šag[heart]N sux:ib[angry]V/i sux:An[1]DN sux:gal[big]V/i sux:šu[hand]N sux:niŋin[encircle]V/t
+c.4.16.2,A šir-namšub to Nisaba (Nisaba B),,13,sux-x-emesal:šab[heart]N sux:huluŋal[evil]AJ sux-x-emesal:Enlil[1]DN sux:šu[hand]N sux:niŋin[encircle]V/t
+c.4.16.2,A šir-namšub to Nisaba (Nisaba B),,14,sux-x-emesal:ma[house]N sux:itud[moon]N sux-x-emesal:ma[house]N
+c.4.16.2,A šir-namšub to Nisaba (Nisaba B),,15,sux:itud[moon]N sux-x-emesal:aŋ[sky]N sux:kirizal[joy]N sux-x-emesal:ma[house]N
+c.4.16.2,A šir-namšub to Nisaba (Nisaba B),,16,sux:itud[moon]N sux:ŋi[night]N sux:kirizal[joy]N sux-x-emesal:ma[house]N
+c.4.16.2,A šir-namšub to Nisaba (Nisaba B),,17,sux-x-emesal:aŋ[sky]N sux:kirizal[joy]N sux:ŋi[night]N sux:kirizal[joy]N sux-x-emesal:ma[house]N sux:e[leave]V/i
+c.4.16.2,A šir-namšub to Nisaba (Nisaba B),,18,sux-x-emesal:mulu[person]N sux:itud[moon]N sux-x-emesal:mulu[person]N sux:bad[wall]N sux:la[hang]V/t
+c.4.16.2,A šir-namšub to Nisaba (Nisaba B),,19,sux:itud[moon]N sux-x-emesal:aŋ[sky]N sux:kirizal[joy]N sux-x-emesal:mulu[person]N
+c.4.16.2,A šir-namšub to Nisaba (Nisaba B),,20,sux:itud[moon]N sux:ŋi[night]N sux:kirizal[joy]N sux-x-emesal:mulu[person]N
+c.4.16.2,A šir-namšub to Nisaba (Nisaba B),,21,sux-x-emesal:aŋ[sky]N sux:kirizal[joy]N sux:ŋi[night]N sux:kirizal[joy]N sux-x-emesal:mulu[person]N sux:bad[wall]N sux:la[hang]V/t
+c.4.16.2,A šir-namšub to Nisaba (Nisaba B),,22,sux:itud[moon]N sux:ki[place]N sux:sikil[pure]V/i sux:itud[moon]N sux:1[1]NU sux:nud[lie]V/i
+c.4.16.2,A šir-namšub to Nisaba (Nisaba B),,23,sux:itud[moon]N sux:hursaŋ[mountain]N sux:ki[place]N sux:sikil[pure]V/i sux:si[fill]V/t sux:1[1]NU sux:nud[lie]V/i
+c.4.16.2,A šir-namšub to Nisaba (Nisaba B),,24,sux:kur[mountain]N sux:eren[cedar]N sux-x-emesal:Enlil[1]DN sux:nud[lie]V/i sux:1[1]NU sux:nud[lie]V/i
+c.4.16.2,A šir-namšub to Nisaba (Nisaba B),,25,sux:er[tears]N sux:gig[sick]V/i sux:šeš[weep]V/t
+c.4.16.2,A šir-namšub to Nisaba (Nisaba B),,26,sux:itud[moon]N sux:nud[lie]V/i sux:er[tears]N sux:gig[sick]V/i sux:šeš[weep]V/t
+c.4.16.2,A šir-namšub to Nisaba (Nisaba B),,27,sux:zalag[shine]V/i sux:e[leave]V/i sux-x-emesal:me[I]IP sux:giggi[black]V/i
+c.4.16.2,A šir-namšub to Nisaba (Nisaba B),,28,sux:itud[moon]N sux-x-emesal:aŋ[sky]N sux:kirizal[joy]N sux:zalag[shine]V/i sux:e[leave]V/i sux-x-emesal:me[I]IP sux:giggi[black]V/i
+c.4.16.2,A šir-namšub to Nisaba (Nisaba B),,29,sux:itud[moon]N sux:ŋi[night]N sux:kirizal[joy]N sux:zalag[shine]V/i sux:e[leave]V/i sux-x-emesal:me[I]IP sux:giggi[black]V/i
+c.4.16.2,A šir-namšub to Nisaba (Nisaba B),,30,sux-x-emesal:aŋ[sky]N sux:kirizal[joy]N sux:ŋi[night]N sux:kirizal[joy]N sux:zalag[shine]V/i sux:e[leave]V/i sux-x-emesal:me[I]IP sux:giggi[black]V/i
+c.4.16.2,A šir-namšub to Nisaba (Nisaba B),,31,sux:ki[place]N sux:sikil[pure]V/i sux:ud[sun]N sux:zu[know]V/t sux:ni[fear]N sux:melim[splendor]N sux:er[tears]N sux:šeš[weep]V/t
+c.4.16.2,A šir-namšub to Nisaba (Nisaba B),,32,sux:ama[mother]N sux:Ezinakusu[1]DN sux:ni[fear]N sux:melim[splendor]N sux:er[tears]N sux:šeš[weep]V/t
+c.4.16.2,A šir-namšub to Nisaba (Nisaba B),,33,sux:namtar[fate]N sux-x-emesal:muššub[lot]N sux:ni[fear]N sux:melim[splendor]N sux:er[tears]N sux:šeš[weep]V/t
+c.4.16.2,A šir-namšub to Nisaba (Nisaba B),,34,sux:širnamšubak[subscript]N sux:Nisabak[1]DN

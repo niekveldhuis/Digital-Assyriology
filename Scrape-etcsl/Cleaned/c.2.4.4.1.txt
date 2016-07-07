@@ -1,0 +1,29 @@
+etcsl_no,text_name,version,l_no,text
+c.2.4.4.1,A balbale to Bau for Šu-Suen (Šu-Suen A),,1,sux:kug[pure]V/i sux:utud[bear]V/t sux:kug[pure]V/i sux:utud[bear]V/t
+c.2.4.4.1,A balbale to Bau for Šu-Suen (Šu-Suen A),,2,sux:nin[lady]N sux:kug[pure]V/i sux:utud[bear]V/t
+c.2.4.4.1,A balbale to Bau for Šu-Suen (Šu-Suen A),,3,sux:Abisimti[1]PN sux:kug[pure]V/i sux:utud[bear]V/t
+c.2.4.4.1,A balbale to Bau for Šu-Suen (Šu-Suen A),,4,sux:nin[lady]N sux:kug[pure]V/i sux:utud[bear]V/t
+c.2.4.4.1,A balbale to Bau for Šu-Suen (Šu-Suen A),,5,sux:ŋešgen[limbs]N sux:tug[textile]N sux:namsag[pleasure]N sux:Abisimti[1]PN
+c.2.4.4.1,A balbale to Bau for Šu-Suen (Šu-Suen A),,6,sux:saŋdu[beam]N sux:tug[textile]N sux:dun[warp]V/t sux:ŋal[be]V/i sux:nin[lady]N sux:Kubatum[1]PN
+c.2.4.4.1,A balbale to Bau for Šu-Suen (Šu-Suen A),,7,sux:suhur[tuft]N sux:šu-du[complete]V/t sux:u[admiration]N sux:dug[speak]V/t sux:gub[stand]V/i sux-x-emesal:umun[lord]N sux:Šusuen[1]RN
+c.2.4.4.1,A balbale to Bau for Šu-Suen (Šu-Suen A),,8,sux:inim[word]N sux-x-emesal:dumu[child]N sux:Šulgir[1]RN
+c.2.4.4.1,A balbale to Bau for Šu-Suen (Šu-Suen A),,9,sux:dug[speak]V/t sux:dug[speak]V/t sux-x-emesal:umun[lord]N sux-x-emesal:aŋ[thing]N sux:ba[allot]V/t
+c.2.4.4.1,A balbale to Bau for Šu-Suen (Šu-Suen A),,10,sux-x-emesal:me[I]IP sux:aʾallari[exclamation]N sux:dug[speak]V/t sux-x-emesal:umun[lord]N sux-x-emesal:aŋ[thing]N sux:ba[allot]V/t
+c.2.4.4.1,A balbale to Bau for Šu-Suen (Šu-Suen A),,11,sux:bulug[needle]N sux:kugsig[gold]N sux:kišib[seal]N sux:zagin[lapis]N sux-x-emesal:umun[lord]N sux-x-emesal:aŋ[thing]N sux:ba[allot]V/t
+c.2.4.4.1,A balbale to Bau for Šu-Suen (Šu-Suen A),,12,sux:har[ring]N sux:kugsig[gold]N sux:har[ring]N sux:kugbabbar[silver]N sux-x-emesal:umun[lord]N sux-x-emesal:aŋ[thing]N sux:ba[allot]V/t
+c.2.4.4.1,A balbale to Bau for Šu-Suen (Šu-Suen A),,13,sux-x-emesal:umun[lord]N sux-x-emesal:aŋba[gift]N sux:X[X]N sux:si[fill]V/t sux:igi[eye]N sux:il[raise]V/t
+c.2.4.4.1,A balbale to Bau for Šu-Suen (Šu-Suen A),,14,sux:Šusuen[1]RN sux-x-emesal:aŋba[gift]N sux:nam-X[nam-X]N sux:si[fill]V/t sux:igi[eye]N sux:il[raise]V/t
+c.2.4.4.1,A balbale to Bau for Šu-Suen (Šu-Suen A),,15,sux-x-emesal:umun[lord]N sux-x-emesal:umun[lord]N
+c.2.4.4.1,A balbale to Bau for Šu-Suen (Šu-Suen A),,16,sux:sag[good]V/i
+c.2.4.4.1,A balbale to Bau for Šu-Suen (Šu-Suen A),,17,sux-x-emesal:uru[city]N sux:kušu[creature]N sux:šu[hand]N sux:mu[grow]V/t sux-x-emesal:umun[lord]N sux:Šusuen[1]RN
+c.2.4.4.1,A balbale to Bau for Šu-Suen (Šu-Suen A),,18,sux:urnim[lion]N sux:ŋiri[foot]N sux:nud[lie]V/i sux-x-emesal:dumu[child]N sux:Šulgir[1]RN
+c.2.4.4.1,A balbale to Bau for Šu-Suen (Šu-Suen A),,19,sux:zabitum[innkeeper]N sux:kaš[beer]N sux-x-emesal:zeb[good]V/i
+c.2.4.4.1,A balbale to Bau for Šu-Suen (Šu-Suen A),,20,sux:kaš[beer]N sux:gala[vulva]N sux-x-emesal:zeb[good]V/i sux:kaš[beer]N sux-x-emesal:zeb[good]V/i
+c.2.4.4.1,A balbale to Bau for Šu-Suen (Šu-Suen A),,21,sux:kag[mouth]N sux:gala[vulva]N sux-x-emesal:zeb[good]V/i sux:kaš[beer]N sux-x-emesal:zeb[good]V/i
+c.2.4.4.1,A balbale to Bau for Šu-Suen (Šu-Suen A),,22,sux:kašbir[beer]N sux:kaš[beer]N sux-x-emesal:zeb[good]V/i
+c.2.4.4.1,A balbale to Bau for Šu-Suen (Šu-Suen A),,23,sux:Šusuen[1]RN sux:sag[good]V/i
+c.2.4.4.1,A balbale to Bau for Šu-Suen (Šu-Suen A),,24,sux:sag[good]V/i sux:zil[good]V/i
+c.2.4.4.1,A balbale to Bau for Šu-Suen (Šu-Suen A),,25,sux:Šusuen[1]RN sux:sag[good]V/i
+c.2.4.4.1,A balbale to Bau for Šu-Suen (Šu-Suen A),,26,sux:ki[place]N sux:aŋ[measure]V/t sux:Enlil[1]DN sux:Šusuen[1]RN
+c.2.4.4.1,A balbale to Bau for Šu-Suen (Šu-Suen A),,27,sux:lugal[king]N sux:diŋir[deity]N sux:kalam[land]N
+c.2.4.4.1,A balbale to Bau for Šu-Suen (Šu-Suen A),,28,sux:balbale[subscript]N sux:Bau[1]DN

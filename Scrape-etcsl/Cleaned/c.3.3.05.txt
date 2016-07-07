@@ -1,0 +1,30 @@
+etcsl_no,text_name,version,l_no,text
+c.3.3.05,Letter from a governor and temple administrator to a king,Nibru,1,sux:lugal[king]N sux:dug[speak]V/t
+c.3.3.05,Letter from a governor and temple administrator to a king,Nibru,2,sux:ensik[ruler]N sux:saŋŋa[official]N sux:dug[speak]V/t
+c.3.3.05,Letter from a governor and temple administrator to a king,Nibru,3,sux:ašag[field]N sux:Dabta[1]ON sux:šar[3600]NU
+c.3.3.05,Letter from a governor and temple administrator to a king,Nibru,4,sux:ešgar[assignment]N sux:Enlil[1]DN sux:Ninlil[1]DN sux:u[and]CNJ sux:Ninurtak[1]DN
+c.3.3.05,Letter from a governor and temple administrator to a king,Nibru,5,sux:šag[heart]N sux:bur[unit]N sux:U@g[unit]N sux:šukur[ration]N sux:lu[person]N sux:niŋdab[requisitions]N
+c.3.3.05,Letter from a governor and temple administrator to a king,Nibru,6,sux:bur[unit]N sux:sadur[bottom]N sux:ašag[field]N
+c.3.3.05,Letter from a governor and temple administrator to a king,Nibru,7,sux:Iqbisum[1]PN sux:u[and]CNJ sux:Abiqati[1]PN sux:inim[word]N sux:ŋar[place]V/t
+c.3.3.05,Letter from a governor and temple administrator to a king,Nibru,8,sux:tukumbi[if]CNJ sux:lugal[king]N sux:anna[approval]N
+c.3.3.05,Letter from a governor and temple administrator to a king,Nibru,9,sux:ragaba[rider]N sux:gi[turn]V/i
+c.3.3.05,Letter from a governor and temple administrator to a king,Nibru,10,sux:kiŋ[work]N sux:ak[do]V/t sux:bulug[needle]N sux:ašag[field]N sux:inim[word]N sux:dug[speak]V/t sux:X[X]V
+c.3.3.05,Letter from a governor and temple administrator to a king,Nibru,11,sux:2[2]NU sux:iku[unit]N sux:bur[unit]N sux:eše[unit]N sux:gaba[chest]N sux:ašag[field]N
+c.3.3.05,Letter from a governor and temple administrator to a king,Nibru,12,sux:al[hoe]N sux:dub[tremble]V/t sux:kiŋ[work]N sux:ak[do]V/t
+c.3.3.05,Letter from a governor and temple administrator to a king,Nibru,13,sux:erin[people]N sux:tahhum[replacement]N sux:engar[farmer]N sux:šagud[drover]N sux:lu[person]N sux:apin[plow]N sux:me[be]V/i
+c.3.3.05,Letter from a governor and temple administrator to a king,Nibru,14,sux:gud[ox]N sux:dili[single]V/i sux:ašag[field]N sux:ŋeš[tree]N sux:ur[drag]V/t
+c.3.3.05,Letter from a governor and temple administrator to a king,Nibru,15,sux:al[hoe]N sux:ak[do]V/t sux:lugal[king]N sux:zu[know]V/t
+c.3.3.05,Letter from a governor and temple administrator to a king,Urim,1,sux:ašag[field]N sux:Meam[1]ON sux:šar[3600]NU
+c.3.3.05,Letter from a governor and temple administrator to a king,Urim,2,sux:ešgar[assignment]N sux:Enlil[1]DN sux:u[and]CNJ sux:Ninurtak[1]DN
+c.3.3.05,Letter from a governor and temple administrator to a king,Urim,3,sux:šag[heart]N sux:U@g[unit]N
+c.3.3.05,Letter from a governor and temple administrator to a king,Urim,4,sux:šukur[ration]N sux:lu[person]N sux:niŋdab[requisitions]N
+c.3.3.05,Letter from a governor and temple administrator to a king,Urim,5,sux:sahar[soil]N sux:2[2]NU sux:iku[unit]N sux:me[be]V/i
+c.3.3.05,Letter from a governor and temple administrator to a king,Urim,6,sux:al[hoe]N sux:dub[tremble]V/t sux:erin[people]N sux:X[X]V
+c.3.3.05,Letter from a governor and temple administrator to a king,Urim,7,sux:kiŋ[work]N sux:sar[garden]N sux:ašag[field]N sux:lu[person]N sux:apin[plow]N sux:me[be]V/i
+c.3.3.05,Letter from a governor and temple administrator to a king,Urim,8,sux:Iqbisum[1]PN sux:u[and]CNJ sux:Abiqati[1]PN
+c.3.3.05,Letter from a governor and temple administrator to a king,Urim,9,sux:inim[word]N sux:ŋar[place]V/t
+c.3.3.05,Letter from a governor and temple administrator to a king,Urim,10,sux:tukumbi[if]CNJ sux:lugal[king]N
+c.3.3.05,Letter from a governor and temple administrator to a king,Urim,11,sux:anna[approval]N
+c.3.3.05,Letter from a governor and temple administrator to a king,Urim,12,sux:ragaba[rider]N sux:gi[turn]V/i
+c.3.3.05,Letter from a governor and temple administrator to a king,Urim,13,sux:kiŋ[work]N sux:ak[do]V/t sux:bulug[needle]N sux:ašag[field]N
+c.3.3.05,Letter from a governor and temple administrator to a king,Urim,14,sux:inim[word]N sux:dug[speak]V/t sux:X[X]V

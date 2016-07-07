@@ -1,0 +1,63 @@
+etcsl_no,text_name,version,l_no,text
+c.6.1.21,Proverbs: collection 21,,A1,
+c.6.1.21,Proverbs: collection 21,,A2,
+c.6.1.21,Proverbs: collection 21,,A3,
+c.6.1.21,Proverbs: collection 21,,A6,sux:e[leave]V/i
+c.6.1.21,Proverbs: collection 21,,A7,sux:tag[touch]V/t
+c.6.1.21,Proverbs: collection 21,,A8,
+c.6.1.21,Proverbs: collection 21,,A9,
+c.6.1.21,Proverbs: collection 21,,A10,
+c.6.1.21,Proverbs: collection 21,,B1,
+c.6.1.21,Proverbs: collection 21,,B2,
+c.6.1.21,Proverbs: collection 21,,B3,
+c.6.1.21,Proverbs: collection 21,,B4,sux:zu[know]V/t
+c.6.1.21,Proverbs: collection 21,,B5,sux:lugal[king]N sux:en[cvne]N sux:tar[cut]V/t
+c.6.1.21,Proverbs: collection 21,,B6,sux:šah[pig]N sux:niga[fattened]V/i sux:šum[slaughter]V/t
+c.6.1.21,Proverbs: collection 21,,B7,sux:niŋ[thing]N sux:gu[eat]V/t sux:sug[replace]V/t
+c.6.1.21,Proverbs: collection 21,,B8,sux:zahda[piglet]N sux:tur[small]V/i sux:šu[hand]N sux:gud[jump]V/t
+c.6.1.21,Proverbs: collection 21,,C1,sux:egia[bride]N sux:gala[vulva]N sux:lu[person]N
+c.6.1.21,Proverbs: collection 21,,C2,sux:mussatur[in-law]N
+c.6.1.21,Proverbs: collection 21,,C3,sux:ŋaʾe[I]IP sux:e[house]N
+c.6.1.21,Proverbs: collection 21,,C4,
+c.6.1.21,Proverbs: collection 21,,C5,sux:dur[buttocks]N sux:šah[pig]N sux:gu[eat]V/t
+c.6.1.21,Proverbs: collection 21,,C6,sux:šah[pig]N
+c.6.1.21,Proverbs: collection 21,,C7,sux:kaš[beer]N sux-x-emesal:zeb[good]V/i sux:usar[neighbor]N sux:kal[rare]V/i
+c.6.1.21,Proverbs: collection 21,,Cx,
+c.6.1.21,Proverbs: collection 21,,C21,sux-x-emesal:gin[female-worker]N sux:ud[sun]N sux:šuš[cover]V/t sux:ŋi[night]N sux:1/2[1/2]NU sux-x-emesal:di[go]V/i
+c.6.1.21,Proverbs: collection 21,,C22,sux-x-emesal:gin[female-worker]N sux:anba[litter]N sux:pa[branch]N sux:e[leave]V/i sux-x-emesal:gašan[lady]N
+c.6.1.21,Proverbs: collection 21,,C23,sux:ud[sun]N sux:šuš[cover]V/t sux:šag[heart]N sux:hul[rejoice]V/i sux:egia[bride]N
+c.6.1.21,Proverbs: collection 21,,C24,sux:kal[rare]V/i sux:geme[worker]N
+c.6.1.21,Proverbs: collection 21,,C25,sux-x-emesal:gin[female-worker]N sux:balaŋ[instrument]N sux:e[leave]V/i
+c.6.1.21,Proverbs: collection 21,,C26,sux-x-emesal:Inanak[1]DN sux:eduru[village]N
+c.6.1.21,Proverbs: collection 21,,C27,sux:geme[worker]N sux:egal[palace]N sux:zara[concern]N sux:dug[speak]V/t
+c.6.1.21,Proverbs: collection 21,,C28,sux:arad[slave]N sux:egal[palace]N sux:gatil[vow]N sux:gu[eat]V/t
+c.6.1.21,Proverbs: collection 21,,C29,sux:gala[vulva]N sux-x-emesal:naŋgin[~worker]N sux-x-emesal:ga[bring]V/t
+c.6.1.21,Proverbs: collection 21,,C30,sux:gala[vulva]N sux:lu[person]N sux:tuku[acquire]V/t
+c.6.1.21,Proverbs: collection 21,,C31,sux:um[bird]N sux:zah[disappear]V/i sux:gudu[buttocks]N sux:kar[flee]V/t
+c.6.1.21,Proverbs: collection 21,,C32,sux:kud[cut]V/t sux:dug[speak]V/t sux:ŋaʾe[I]IP sux:LAGAB[LAGAB]V
+c.6.1.21,Proverbs: collection 21,,C33,sux:egir[princess]N sux-x-emesal:gin[female-worker]N
+c.6.1.21,Proverbs: collection 21,,Cx,
+c.6.1.21,Proverbs: collection 21,,D1,sux:sipad[shepherd]N
+c.6.1.21,Proverbs: collection 21,,D2,sux:gala[singer]N sux:magur[barge]N sux:še[barley]N sux:gur[unit]N
+c.6.1.21,Proverbs: collection 21,,D3,sux:gala[singer]N sux:ašag[field]N sux:lu[person]N sux:še[barley]N sux:zuh[steal]V/t sux:ŋen[go]V/i
+c.6.1.21,Proverbs: collection 21,,D4,sux:lugal[king]N sux:ašag[field]N sux:dab[seize]V/t
+c.6.1.21,Proverbs: collection 21,,D5,sux:saŋ[head]N sux:sag[good]V/i sux:suh[extract]V/t sux:bir[scatter]V/t
+c.6.1.21,Proverbs: collection 21,,D6,sux:si[horn]N sux:sa[equal]V/t sux:umuš[planning]N
+c.6.1.21,Proverbs: collection 21,,D7,sux:ŋen[go]V/i
+c.6.1.21,Proverbs: collection 21,,D8,sux:ašag[field]N sux-x-emesal:umun[lord]N sux:guli[friend]N sux:gala[singer]N
+c.6.1.21,Proverbs: collection 21,,D9,sux:kiŋ[seek]V/t sux:X[X]V
+c.6.1.21,Proverbs: collection 21,,E1,sux:dug[speak]V/t
+c.6.1.21,Proverbs: collection 21,,E2,sux:MU[MU]V
+c.6.1.21,Proverbs: collection 21,,E3,
+c.6.1.21,Proverbs: collection 21,,E4,
+c.6.1.21,Proverbs: collection 21,,E5,sux:gi[turn]V/i
+c.6.1.21,Proverbs: collection 21,,E6,sux:nud[lie]V/i
+c.6.1.21,Proverbs: collection 21,,E7,sux:ŋiri[foot]N
+c.6.1.21,Proverbs: collection 21,,E8,sux:še[barley]N
+c.6.1.21,Proverbs: collection 21,,E9,
+c.6.1.21,Proverbs: collection 21,,E10,
+c.6.1.21,Proverbs: collection 21,,E11,
+c.6.1.21,Proverbs: collection 21,,F1,
+c.6.1.21,Proverbs: collection 21,,F2,
+c.6.1.21,Proverbs: collection 21,,F3,
+c.6.1.21,Proverbs: collection 21,,F4,

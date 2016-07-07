@@ -1,0 +1,129 @@
+etcsl_no,text_name,version,l_no,text
+c.5.9.1,The home of the fish,,A1,sux:kud[fish]N sux:e[house]N sux:du[build]V/t sux:kud[fish]N sux:du[build]V/t
+c.5.9.1,The home of the fish,,A2,sux:kud[fish]N sux:e[house]N sux:du[build]V/t sux:arah[storehouse]N sux:du[build]V/t
+c.5.9.1,The home of the fish,,A3,sux:e[house]N sux:e[house]N sux:dirig[float]V/i sux:amaš[sheepfold]N sux:gid[long]V/i sux:du[build]V/t
+c.5.9.1,The home of the fish,,A4,sux:šag[heart]N sux:nadeg[incense]N sux:tug[textile]N sux:mur[dress]V/t sux:ki[place]N sux:šag[heart]N sux:hul[rejoice]V/i sux:a[water]N sux:asilala[joy]N
+c.5.9.1,The home of the fish,,A5,sux:e[house]N sux:gu[cord]N sux:hal[divide]V/t sux:te[pierce]V/t sux:kuš[channel]N
+c.5.9.1,The home of the fish,,A6,sux:e[house]N sux:niŋgu[food]N sux:ŋal[be]V/i sux:niŋgu[food]N sux:saŋ[head]N
+c.5.9.1,The home of the fish,,A7,sux:e[house]N sux:niŋgu[food]N sux:ŋal[be]V/i sux:niŋgu[food]N sux:silim[healthy]V/i
+c.5.9.1,The home of the fish,,A8,sux:e[house]N sux:ki[place]N sux:kaš[beer]N sux:de[pour]V/t sux:nim[fly]N sux:bu[howl]V/i
+c.5.9.1,The home of the fish,,A9,sux:mu[name]N sux:dud[mound]N sux:ŋiri[foot]N sux:kur[different]V/i sux:ŋal[be]V/i
+c.5.9.1,The home of the fish,,A10,sux:zadu[jamb]N sux:siŋar[bolt]N sux:zid[flour]N sux:dub[heap]V/t sux:niŋna[incense]N sux:ŋar[place]V/t
+c.5.9.1,The home of the fish,,A11,sux:e[house]N sux:ir[scent]N sux:tir[forest]N sux:šim[aromatics]N sux:eren[cedar]N sux:irsim[fragrance]N sux:ur[smell]V/t
+c.5.9.1,The home of the fish,,A12,sux:e[house]N sux:kaš[beer]N sux:ŋal[be]V/i sux:kaš[beer]N sux:sag[rare]V/i sux:ŋal[be]V/i
+c.5.9.1,The home of the fish,,A13,sux:dida[wort]N sux:imŋaŋa[emmer]N sux:ninda[bread]N sux:kud[sweet]V/i sux:gi[reed]N sux:ŋar[place]V/t sux:ŋal[be]V/i
+c.5.9.1,The home of the fish,,A14,sux:zu[know]V/t sux:ŋen[go]V/i
+c.5.9.1,The home of the fish,,A15,sux:kal[rare]V/i sux:ŋen[go]V/i
+c.5.9.1,The home of the fish,,A16,sux:adda[father]N sux:pabilga[~kinship]N sux:ŋen[go]V/i
+c.5.9.1,The home of the fish,,A17,sux:dumu[child]N sux:šešgal[relation]N sux:dumu[child]N sux:šešbanda[relation]N sux:ŋen[go]V/i
+c.5.9.1,The home of the fish,,A18,sux:didila[smaller]V/i sux:gal[big]V/i sux:ŋen[go]V/i
+c.5.9.1,The home of the fish,,A19,sux:dam[spouse]N sux:dumu[child]N sux:ŋen[go]V/i
+c.5.9.1,The home of the fish,,A20,sux:guli[friend]N sux:dusa[friend]N sux:ŋen[go]V/i
+c.5.9.1,The home of the fish,,A21,sux:murum[in-law]N sux:ušbar[in-law]N sux:ŋen[go]V/i
+c.5.9.1,The home of the fish,,A22,sux:ildum[band]N sux:bar[outside]V/t sux:namgakura[entrance]N sux:ŋen[go]V/i
+c.5.9.1,The home of the fish,,A23,sux:dumu[child]N sux:guli[friend]N sux:taka[abandon]V/t
+c.5.9.1,The home of the fish,,A24,sux:zu[know]V/t sux:dug[speak]V/t sux:taka[abandon]V/t
+c.5.9.1,The home of the fish,,A25,sux:kur[enter]V/i sux:dumu[child]N sux:ki[place]N sux:aŋ[measure]V/t
+c.5.9.1,The home of the fish,,A26,sux:kur[enter]V/i sux:dumu[child]N sux:sag[good]V/i
+c.5.9.1,The home of the fish,,A27,sux:ud[sun]N sux:zal[pass]V/t sux:ŋi[night]N sux:sa[equal]V/t
+c.5.9.1,The home of the fish,,A28,sux:itud[moon]N sux:e[house]N sux:kur[enter]V/i
+c.5.9.1,The home of the fish,,A29,sux:ud[sun]N sux:zal[pass]V/t sux:ŋi[night]N sux:sa[equal]V/t
+c.5.9.1,The home of the fish,,A30,sux:kur[enter]V/i sux:huŋ[hire]V/t sux:kiŋar[area]N sux:šu-du[complete]V/t
+c.5.9.1,The home of the fish,,A31,sux:šag[heart]N sux:dur[buttocks]N sux:ŋar[place]V/t sux:si[horn]N sux:sa[equal]V/t
+c.5.9.1,The home of the fish,,A32,sux:kud[fish]N sux:lu[person]N sux:nud[lie]V/i sux:zig[rise]V/t
+c.5.9.1,The home of the fish,,A33,sux:lu[person]N sux:tuš[sit]V/i sux:dud[combat]N sux:mu[grow]V/t
+c.5.9.1,The home of the fish,,A34,sux:kur[enter]V/i sux:dumu[child]N sux:ki[place]N sux:aŋ[measure]V/t
+c.5.9.1,The home of the fish,,A35,sux:kur[enter]V/i sux:dumu[child]N sux:sag[good]V/i
+c.5.9.1,The home of the fish,,A36,sux:id[river]N sux:mun[salt]V/i sux:par[canal]N sux:zu[know]V/t
+c.5.9.1,The home of the fish,,A37,sux:saharŋar[silt]N sux:id[river]N sux:zig[rise]V/t sux:zu[know]V/t
+c.5.9.1,The home of the fish,,A38,sux:a[water]N sux:zal[pass]V/t sux:nud[lie]V/i sux:la[hang]V/t
+c.5.9.1,The home of the fish,,A39,sux:itud[moon]N sux:e[house]N sux:kur[enter]V/i
+c.5.9.1,The home of the fish,,A40,sux:ŋen[go]V/i sux:igi[eye]N sux:ki[place]N
+c.5.9.1,The home of the fish,,A41,sux:ki[place]N sux:mur[fodder]N sux:gu[eat]V/t sux:ŋen[go]V/i sux:igi[eye]N sux:ki[place]N
+c.5.9.1,The home of the fish,,A42,sux:ur[dog]N sux:ki[place]N sux:sim[smell]V/t sux:ak[do]V/t sux:ŋen[go]V/i sux:igi[eye]N sux:ki[place]N
+c.5.9.1,The home of the fish,,A43,sux:tum[dove]N sux:ki[place]N sux:ab.TU[unmng]N sux:ŋen[go]V/i sux:ŋen[go]V/i sux:igi[eye]N sux:ki[place]N
+c.5.9.1,The home of the fish,,A44,sux:gud[ox]N sux:tur[stall]N sux:udu[sheep]N sux:amaš[sheepfold]N sux:ŋen[go]V/i sux:igi[eye]N sux:ki[place]N
+c.5.9.1,The home of the fish,,A45,sux:aše[now]N sux:gud[ox]N sux:tur[stall]N
+c.5.9.1,The home of the fish,,A46,sux:kur[enter]V/i sux:Suen[1]DN sux:hul[rejoice]V/i
+c.5.9.1,The home of the fish,,A47,sux:aše[now]N sux:udu[sheep]N sux:amaš[sheepfold]N
+c.5.9.1,The home of the fish,,A48,sux:kur[enter]V/i sux:Dumuzid[1]DN sux:hul[rejoice]V/i
+c.5.9.1,The home of the fish,,A49,sux:gud[ox]N sux:tur[stall]N sux:saŋ[head]N sux:il[raise]V/t
+c.5.9.1,The home of the fish,,A50,sux:en[lord]N sux:Dilimbabbar[1]DN sux:Suen[1]DN sux:hul[rejoice]V/i
+c.5.9.1,The home of the fish,,A51,sux:udu[sheep]N sux:amaš[sheepfold]N sux:saŋ[head]N sux:il[raise]V/t
+c.5.9.1,The home of the fish,,A52,sux:Dumuzid[1]DN sux:sipad[shepherd]N sux:hul[rejoice]V/i
+c.5.9.1,The home of the fish,,A53,
+c.5.9.1,The home of the fish,,A68,sux:kud[fish]N sux:ba[allot]V/t sux:zag[side]N sux:nam[fate]N
+c.5.9.1,The home of the fish,,A69,sux:kud[fish]N sux:kud[fish]N sux:hi[mix]V/t sux:kur[enter]V/i
+c.5.9.1,The home of the fish,,A70,sux:sum[beard]N sux:sag[good]V/i sux:ulal[plant]N sux:gu[eat]V/t
+c.5.9.1,The home of the fish,,A71,sux:kud[fish]N sux:suhurgal[carp]N sux:kur[enter]V/i
+c.5.9.1,The home of the fish,,A72,sux:ubzal[reeds]N sux:gu[eat]V/t
+c.5.9.1,The home of the fish,,A73,sux:kud[fish]N sux:suhurtur[carp]N sux:kur[enter]V/i
+c.5.9.1,The home of the fish,,A74,sux:nundum[lip]N sux:gal[big]V/i sux:gizi[reed]N sux:naŋ[drink]V/t
+c.5.9.1,The home of the fish,,A75,sux:hala[share]N
+c.5.9.1,The home of the fish,,A76,sux:gu[eat]V/t
+c.5.9.1,The home of the fish,,A77,sux:kud[fish]N sux:eštub[carp]N sux:kur[enter]V/i
+c.5.9.1,The home of the fish,,A78,sux:gimuš[pole]N sux:giggi[black]V/i sux:ašag[field]N sux:ri[impose]V/t
+c.5.9.1,The home of the fish,,A79,sux:šah[pig]N sux:ama[mother]N sux:gan[bear]V/t sux:gu[neck]N sux:id[river]N sux:niŋsilaŋ[dough]N sux:kar[flee]V/t
+c.5.9.1,The home of the fish,,A80,sux:kud[fish]N sux:gubi[eel?]N sux:kur[enter]V/i
+c.5.9.1,The home of the fish,,A81,sux:kun[tail]N sux:si[horn]N sux:gam[crook]N sux:si[horn]N sux:kud[fish]N sux:kurušda[fattener]N
+c.5.9.1,The home of the fish,,A82,sux:kud[fish]N sux:ŠE.SUHUR.gal[unmng]N sux:kur[enter]V/i
+c.5.9.1,The home of the fish,,A83,sux:kud[fish]N sux:šud[prayer]N sux:dumu[child]N sux:er[tears]N sux:pad[find]V/t
+c.5.9.1,The home of the fish,,A84,sux:kud[fish]N sux:ŠE.SUHUR.sig₁₀[fish]N sux:kur[enter]V/i
+c.5.9.1,The home of the fish,,A85,sux:saŋdu[head]N sux:al[hoe]N sux:zu[tooth]N sux:garig[comb]N sux:zu[know]V/t
+c.5.9.1,The home of the fish,,A86,sux:ŋiripadra[bone]N sux:usuh[tree]N sux:an[sky]N
+c.5.9.1,The home of the fish,,A87,sux:mutuna[stomach?]N sux:ummud[waterskin]N sux:Dumuzid[1]DN
+c.5.9.1,The home of the fish,,A88,sux:kuš[skin]N sux:niŋgu[food]N sux:kiŋ[work]N sux:ŋar[place]V/t
+c.5.9.1,The home of the fish,,A89,sux:kun[tail]N sux:sal[thin]V/i sux:asi[strap]N sux:šukud[fisherman]N
+c.5.9.1,The home of the fish,,A90,sux:kud[fish]N sux:šu[hand]N sux:tub[strike]V/t sux:kuš[skin]N sux:ni[self]RP sux:gu[eat]V/t
+c.5.9.1,The home of the fish,,A91,sux:šag[heart]N sux:kiri[nose]N sux:ŋal[be]V/i
+c.5.9.1,The home of the fish,,A92,sux:kud[fish]N sux:gabari[copy]N sux:aʾur[armpit]N sux:dab[seize]V/t
+c.5.9.1,The home of the fish,,A93,sux:dala[thorn]N sux:gag[nail]N sux:bala[turn]V/t
+c.5.9.1,The home of the fish,,A94,sux:niŋgig[bad-thing]N sux:eš[shrine]N sux:iri[city]N sux:sadug[offerings]N sux:ŋar[place]V/t
+c.5.9.1,The home of the fish,,A95,sux:kud[fish]N sux:mur[fish]N sux:kur[enter]V/i
+c.5.9.1,The home of the fish,,A96,sux:ŋiri[foot]N sux:kud[fish]N sux:a[water]N sux:lu[mix]V/t sux:gur[turn]V/i
+c.5.9.1,The home of the fish,,A97,sux:kud[fish]N sux:guru[grind]V/t sux:igi[eye]N sux:du[spread]V/t sux:dab[seize]V/t
+c.5.9.1,The home of the fish,,A98,sux:kud[fish]N sux:kiŋ[fish]N sux:kur[enter]V/i
+c.5.9.1,The home of the fish,,A99,sux:saŋdu[head]N sux:kinkinšu[grindstone]N sux:šu[hand]N sux:saŋ[head]N sux:urgir[dog]N
+c.5.9.1,The home of the fish,,A100,sux:bar[outside]V/t sux:šir[testicle]N sux:du[build]V/t
+c.5.9.1,The home of the fish,,A101,sux:kud[fish]N sux:X[plant]N sux:gu[eat]V/t sux:HAR[HAR]V
+c.5.9.1,The home of the fish,,A102,sux:kud[fish]N sux:ŋirgid[fish]N sux:kur[enter]V/i
+c.5.9.1,The home of the fish,,A103,sux:šagniŋin[intestines]N sux:zipaŋ[breath]N sux:gu[neck]N sux:bala[turn]V/t
+c.5.9.1,The home of the fish,,A104,sux:kud[fish]N sux:gir[fish]N sux:kur[enter]V/i
+c.5.9.1,The home of the fish,,A105,sux:kud[fish]N sux:sig[put]V/t sux:kud[fish]N sux:šertab[fence]N sux:e[leave]V/i sux:zu[know]V/t
+c.5.9.1,The home of the fish,,A106,sux:kud[fish]N sux:dug[good]V/i sux:ŋal[be]V/i sux:niŋgig[bad-thing]N
+c.5.9.1,The home of the fish,,A107,sux:kud[fish]N sux:absuhur[carp]N sux:kur[enter]V/i
+c.5.9.1,The home of the fish,,A108,sux:kud[fish]N sux:ahaš[channel]N sux:du[build]V/t sux:ze[gall-bladder]N sux:meze[jaw]N sux:ŋar[place]V/t
+c.5.9.1,The home of the fish,,A109,sux:kud[fish]N sux:agargara[droppings]N sux:kur[enter]V/i
+c.5.9.1,The home of the fish,,A110,sux:dumu[child]N sux:damgar[merchant]N
+c.5.9.1,The home of the fish,,A111,sux:kud[fish]N sux:gamar[fish]N sux:kur[enter]V/i
+c.5.9.1,The home of the fish,,A112,sux:dumu[child]N sux:Martu[1]EN sux:bar[outside]V/t sux:de[bring]V/t
+c.5.9.1,The home of the fish,,A113,sux:kud[fish]N sux:NUN.BAR.gid₂[fish]N sux:kur[enter]V/i
+c.5.9.1,The home of the fish,,A114,sux:kud[fish]N sux:ugu[food]N sux:gu[eat]V/t sux:a[water]N sux:pu[well]N
+c.5.9.1,The home of the fish,,A115,sux:kud[fish]N sux:azaggur[fish]N sux:kur[enter]V/i
+c.5.9.1,The home of the fish,,A116,sux:kuš[skin]N sux:dugud[heavy]V/i sux:gar[unmng]V/t sux:šu[hand]N
+c.5.9.1,The home of the fish,,A117,sux:kud[fish]N sux:muš[fish]N sux:kur[enter]V/i
+c.5.9.1,The home of the fish,,A118,
+c.5.9.1,The home of the fish,,B1,sux:ama[mother]N sux:pendu[spot]N
+c.5.9.1,The home of the fish,,B2,sux:kud[fish]N sux:GIR₂.U₂[fish]N sux:kur[enter]V/i
+c.5.9.1,The home of the fish,,B3,sux:tur[small]V/i sux:a[water]N sux:bar[outside]V/t sux:de[bring]V/t
+c.5.9.1,The home of the fish,,B4,sux:kud[fish]N sux:SAL.SAL[fish]N sux:kur[enter]V/i
+c.5.9.1,The home of the fish,,B5,sux:igi[eye]N sux:muš[snake]N sux:kag[mouth]N sux:peš[mouse]N sux:piš[bank]N
+c.5.9.1,The home of the fish,,B6,sux:zid[right]V/i sux:šag[heart]N sux:nud[lie]V/i
+c.5.9.1,The home of the fish,,B7,sux:sig[put]V/t
+c.5.9.1,The home of the fish,,C1,sux:ambar[reed-bed]N sux:id[river]N sux:gu[voice]N sux:hulu[bad]V/i sux:de[pour]V/t
+c.5.9.1,The home of the fish,,C2,sux:kud[fish]N sux:akanni[bird]N sux:šu[hand]N sux:la[hang]V/t
+c.5.9.1,The home of the fish,,C3,sux:a[water]N sux:sa[net]N sux:la[hang]V/t sux:sabar[net]N sux:niŋin[encircle]V/t
+c.5.9.1,The home of the fish,,C4,sux:kud[fish]N sux:uburri[bird]N sux:šu[hand]N sux:la[hang]V/t
+c.5.9.1,The home of the fish,,C5,sux:ŋiri[foot]N sux:niŋ[thing]N sux:zig[rise]V/t sux:zu[tooth]N
+c.5.9.1,The home of the fish,,C6,sux:a[water]N sux:bar[outside]V/t sux:sar[run]V/i
+c.5.9.1,The home of the fish,,C7,sux:kud[fish]N sux:kišibar[bird]N sux:šu[hand]N sux:la[hang]V/t
+c.5.9.1,The home of the fish,,C8,sux:a[water]N sux:šu[hand]N sux:tag[touch]V/t
+c.5.9.1,The home of the fish,,C9,sux:mušen[bird]N sux:ŋiri[foot]N sux:kud[fish]N
+c.5.9.1,The home of the fish,,C10,sux:kud[fish]N sux:kib[bird]N sux:šu[hand]N sux:la[hang]V/t
+c.5.9.1,The home of the fish,,C11,sux:niŋurlimmu[creature]N sux:ambar[reed-bed]N sux:gir[slip]V/i sux:dab[seize]V/t
+c.5.9.1,The home of the fish,,C12,sux:kud[fish]N sux:kušu[creature]N sux:šu[hand]N sux:la[hang]V/t
+c.5.9.1,The home of the fish,,C13,sux:šu[hand]N sux:la[hang]V/t sux:ŋiri[foot]N sux:il[raise]V/t
+c.5.9.1,The home of the fish,,C14,sux:kud[fish]N sux:ud[sun]N sux:zal[pass]V/t sux:zaʾe[you]IP sux:ugu[skull]N sux:ŋen[go]V/i
+c.5.9.1,The home of the fish,,C15,sux:ud[sun]N sux:zal[pass]V/t sux:zaʾe[you]IP sux:ugu[skull]N sux:ŋen[go]V/i
+c.5.9.1,The home of the fish,,C16,sux-x-emesal:gašan[lady]N sux:šukud[fisherman]N
+c.5.9.1,The home of the fish,,C17,sux:Nanše[1]DN sux:zaʾe[you]IP sux:hul[rejoice]V/i
