@@ -1,5 +1,6 @@
 # Digital-Assyriology
-Tools and Examples for Computational Text Analysis for Assyriologists.
+##Tools and Examples for Computational Text Analysis for Assyriologists.
+
 Niek Veldhuis, UC Berkeley
 
 This repository offers Jupyter Notebooks for scraping data from the [Open Richly Annotated Cuneiform Corpus](http://oracc.org) and the [Electronic Text Corpus of Sumerian Literature](http://etcsl.orinst.ox.ac.uk/), as well as Notebooks that provide examples for the kinds of analyses that may be performed on these data. You may download the entire fileset as a ZIP file with the green button (Clone or download). You may adjust the Notebooks or re-use the code for other purposes without restriction.
