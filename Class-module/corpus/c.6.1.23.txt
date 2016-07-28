@@ -1,0 +1,57 @@
+etcsl_no,text_name,version,l_no,text
+c.6.1.23,Proverbs: collection 23,,A1,sux:id[river]N
+c.6.1.23,Proverbs: collection 23,,A2,
+c.6.1.23,Proverbs: collection 23,,A3,sux:apap[pipe]N sux:lu[person]N
+c.6.1.23,Proverbs: collection 23,,A4,sux:sikil[pure]V/i sux:apap[pipe]N sux:andul[shade]N sux:lu[abundant]V/i
+c.6.1.23,Proverbs: collection 23,,A5,sux:diŋir[deity]N sux:dumuŋir[citizen]N sux:me[Being]N
+c.6.1.23,Proverbs: collection 23,,A6,sux:e[house]N sux:umma[old-woman]N sux:e[leave]V/i
+c.6.1.23,Proverbs: collection 23,,A7,sux:e[house]N sux:DU[DU]V
+c.6.1.23,Proverbs: collection 23,,A8,sux-x-emesal:mudna[spouse]N sux:kud[fish]N sux:ŋiripadra[bone]N sux:deg[collect]V/t
+c.6.1.23,Proverbs: collection 23,,A9,sux:eden[back]N sux:me[be]V/i
+c.6.1.23,Proverbs: collection 23,,A10,sux:hili[attractiveness]N
+c.6.1.23,Proverbs: collection 23,,A11,sux:dug[good]V/i
+c.6.1.23,Proverbs: collection 23,,A12,sux:inu[straw]N
+c.6.1.23,Proverbs: collection 23,,A13,sux:dug[good]V/i
+c.6.1.23,Proverbs: collection 23,,A14,sux:kigub[station]N
+c.6.1.23,Proverbs: collection 23,,A15,
+c.6.1.23,Proverbs: collection 23,,B1,
+c.6.1.23,Proverbs: collection 23,,B2,sux:u[and]CNJ sux:dug[speak]V/t
+c.6.1.23,Proverbs: collection 23,,B3,sux:hili[attractiveness]N sux:sipad[shepherd]N sux:šir[testicle]N
+c.6.1.23,Proverbs: collection 23,,B4,sux:nukirik[gardener]N sux:suhur[tuft]N
+c.6.1.23,Proverbs: collection 23,,B5,sux:aŋala[sack]N sux:šu[hand]N sux:il[raise]V/t
+c.6.1.23,Proverbs: collection 23,,B6,sux:dam[spouse]N sux:il[raise]V/t sux:dumu[child]N sux:il[raise]V/t
+c.6.1.23,Proverbs: collection 23,,B7,sux:lulul[liar]N sux:e[house]N sux:du[build]V/t
+c.6.1.23,Proverbs: collection 23,,B8,sux:e[house]N sux:guli[friend]N sux:altar[work]N sux:gub[stand]V/i
+c.6.1.23,Proverbs: collection 23,,B9,sux:lulul[liar]N sux:gala[vulva]N sux:us[follow]V/t
+c.6.1.23,Proverbs: collection 23,,B10,sux:lu[person]N sux:niŋnuŋara[malice]N sux:kin[sickle]N sux:2[2]NU
+c.6.1.23,Proverbs: collection 23,,B11,sux:e[house]N sux:lu[person]N sux:zid[right]V/i sux:du[build]V/t
+c.6.1.23,Proverbs: collection 23,,B12,sux:lulul[liar]N sux:gul[destroy]V/t
+c.6.1.23,Proverbs: collection 23,,B13,sux:ŋen[go]V/i sux:ŋiri[foot]N sux:ŋar[place]V/t
+c.6.1.23,Proverbs: collection 23,,B14,sux:namtil[life]N sux:a[water]N sux:dib[pass]V/t
+c.6.1.23,Proverbs: collection 23,,B15,sux:lu[person]N sux:zid[right]V/i sux:kal[rare]V/i sux:namuš[death]N sux:dirig[float]V/i
+c.6.1.23,Proverbs: collection 23,,B16,sux:kug[metal]N sux:TI[TI]V sux:tar[cut]V/t
+c.6.1.23,Proverbs: collection 23,,B17,sux:tug[textile]N sux:mur[dress]V/t
+c.6.1.23,Proverbs: collection 23,,B18,sux:namtaga[sin]N sux:dugud[heavy]V/i sux:ŋar[place]V/t
+c.6.1.23,Proverbs: collection 23,,B19,sux:aba[who?]QP sux:mu[name]N sux:lu[person]N sux:dam[spouse]N sux:lu[person]N sux:nud[lie]V/i
+c.6.1.23,Proverbs: collection 23,,B20,sux:an[sky]N sux:uga[raven]N sux:ki[place]N sux:ninkilim[mongoose]N
+c.6.1.23,Proverbs: collection 23,,B21,sux:eden[back]N sux:urmah[lion]N sux:kituš[dwelling]N sux:ŋidlam[spouse]N sux:mea[where?]QP sux:ŋen[go]V/i
+c.6.1.23,Proverbs: collection 23,,C1,
+c.6.1.23,Proverbs: collection 23,,C2,sux:ŋar[place]V/t
+c.6.1.23,Proverbs: collection 23,,C3,sux:me[be]V/i
+c.6.1.23,Proverbs: collection 23,,C4,sux:GA[GA]V
+c.6.1.23,Proverbs: collection 23,,C5,sux:niŋ[thing]N sux:e[leave]V/i sux:niŋ[thing]N sux:e[leave]V/i
+c.6.1.23,Proverbs: collection 23,,C6,sux:kunu[approach]V/t
+c.6.1.23,Proverbs: collection 23,,C7,sux:kur[enter]V/i
+c.6.1.23,Proverbs: collection 23,,C8,sux:bappir[~beer]N sux:šu[hand]N sux:kar[blow]V/t
+c.6.1.23,Proverbs: collection 23,,C9,sux:de[bring]V/t sux:ba[allot]V/t sux:kur[enter]V/i
+c.6.1.23,Proverbs: collection 23,,C10,sux:me[Being]N sux:šul[youth]V/i sux:diŋir[deity]N sux:du[spread]V/t
+c.6.1.23,Proverbs: collection 23,,C11,
+c.6.1.23,Proverbs: collection 23,,C12,
+c.6.1.23,Proverbs: collection 23,,C13,sux:ummud[waterskin]N sux:zi[life]N sux:lu[person]N
+c.6.1.23,Proverbs: collection 23,,C14,sux:esir[shoe]N sux:igi[eye]N sux:lu[person]N
+c.6.1.23,Proverbs: collection 23,,C15,sux:dam[spouse]N sux:dim[check]V/t sux:lu[person]N
+c.6.1.23,Proverbs: collection 23,,C16,sux:dumunita[son]N sux:ŋissu[shade]N sux:lu[person]N
+c.6.1.23,Proverbs: collection 23,,C17,sux:dumumunus[daughter]N sux:saŋ[head]N sux:šum[give]V/t sux:lu[person]N
+c.6.1.23,Proverbs: collection 23,,C18,sux:egia[bride]N sux-x-emesal:mula[policeman]N sux:lu[person]N
+c.6.1.23,Proverbs: collection 23,,C19,
+c.6.1.23,Proverbs: collection 23,,C20,

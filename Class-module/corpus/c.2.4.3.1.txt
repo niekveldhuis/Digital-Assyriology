@@ -1,0 +1,52 @@
+etcsl_no,text_name,version,l_no,text
+c.2.4.3.1,Amar-Suena and Enki's temple (Amar-Suena A),,A1,sux:alad[spirit]N
+c.2.4.3.1,Amar-Suena and Enki's temple (Amar-Suena A),,A2,sux:Amarsuenak[1]RN sux:šag[heart]N
+c.2.4.3.1,Amar-Suena and Enki's temple (Amar-Suena A),,A3,sux:lu[person]N sux:hazin[ax]N sux:e[house]N
+c.2.4.3.1,Amar-Suena and Enki's temple (Amar-Suena A),,A4,sux:Amarsuenak[1]RN sux:eš[shrine]N sux:Abzu[1]TN
+c.2.4.3.1,Amar-Suena and Enki's temple (Amar-Suena A),,A5,sux:kugsig[gold]N sux:du[build]V/t sux:zagin[lapis]N sux:šu[hand]N sux:tag[touch]V/t
+c.2.4.3.1,Amar-Suena and Enki's temple (Amar-Suena A),,A6,sux:e[house]N sux:du[build]V/t sux:šu[hand]N sux:ŋar[place]V/t
+c.2.4.3.1,Amar-Suena and Enki's temple (Amar-Suena A),,A7,sux:Amarsuenak[1]RN sux:lugal[king]N sux:e[house]N sux:du[build]V/t sux:šu[hand]N sux:ŋar[place]V/t
+c.2.4.3.1,Amar-Suena and Enki's temple (Amar-Suena A),,A8,sux:lugal[king]N sux:uŋ[people]N sux:bala[turn]V/t sux:kur[mountain]N
+c.2.4.3.1,Amar-Suena and Enki's temple (Amar-Suena A),,A9,sux:e[house]N sux:mu[year]N sux:1-kam-ma[1st]NU sux:šub[fall]V/t sux:ki[place]N sux:gi[turn]V/i
+c.2.4.3.1,Amar-Suena and Enki's temple (Amar-Suena A),,A10,sux:Amarsuenak[1]RN sux:me[Being]N sux:namlugal[kingship]N
+c.2.4.3.1,Amar-Suena and Enki's temple (Amar-Suena A),,A11,sux:mu[year]N sux:2-kam-ma[2nd]NU sux:šub[fall]V/t sux:ki[place]N sux:gi[turn]V/i
+c.2.4.3.1,Amar-Suena and Enki's temple (Amar-Suena A),,A12,sux:Amarsuenak[1]RN sux:lubuštum[clothing]N sux:namlugal[kingship]N sux:tugmudura[mourning-garment]N
+c.2.4.3.1,Amar-Suena and Enki's temple (Amar-Suena A),,A13,sux:mu[year]N sux:3-kam-ma[3rd]NU sux:šub[fall]V/t sux:ki[place]N sux:gi[turn]V/i
+c.2.4.3.1,Amar-Suena and Enki's temple (Amar-Suena A),,A14,sux:Amarsuenak[1]RN sux:ŋešgana[tree]N sux:ŋeškim[sign]N sux:bur[spread]V/t
+c.2.4.3.1,Amar-Suena and Enki's temple (Amar-Suena A),,A15,sux:mu[year]N sux:4-kam-ma[4th]NU sux:šub[fall]V/t sux:ki[place]N sux:gi[turn]V/i
+c.2.4.3.1,Amar-Suena and Enki's temple (Amar-Suena A),,A16,sux:abgal[sage]N sux:dug[speak]V/t sux:dug[speak]V/t sux:ŋešhur[plan]N sux:e[house]N sux:pa[branch]N sux:e[leave]V/i sux:ak[do]V/t
+c.2.4.3.1,Amar-Suena and Enki's temple (Amar-Suena A),,A17,sux:mu[year]N sux:5-kam-ma[5th]NU sux:šub[fall]V/t sux:ki[place]N sux:gi[turn]V/i
+c.2.4.3.1,Amar-Suena and Enki's temple (Amar-Suena A),,A18,sux:eš[shrine]N sux:Abzu[1]TN sux:kalag[strong]V/i sux:šu[hand]N sux:rah[beat]V/t
+c.2.4.3.1,Amar-Suena and Enki's temple (Amar-Suena A),,A19,sux:mu[year]N sux:6-kam-ma[6th]NU sux:šub[fall]V/t sux:ki[place]N sux:gi[turn]V/i
+c.2.4.3.1,Amar-Suena and Enki's temple (Amar-Suena A),,A20,sux:ŋešhur[plan]N sux:e[house]N sux:kiŋ[seek]V/t sux:pad[find]V/t
+c.2.4.3.1,Amar-Suena and Enki's temple (Amar-Suena A),,A21,sux:mu[year]N sux:7-kam-ma[7th]NU sux:šub[fall]V/t sux:ki[place]N sux:gi[turn]V/i
+c.2.4.3.1,Amar-Suena and Enki's temple (Amar-Suena A),,A22,sux:Enki[1]DN sux:e[house]N sux:e[house]N sux:me[be]V/i sux:dug[speak]V/t
+c.2.4.3.1,Amar-Suena and Enki's temple (Amar-Suena A),,A23,sux:mu[year]N sux:8-kam-ma[8th]NU sux:e[house]N sux:du[build]V/t sux:šu[hand]N sux:ŋar[place]V/t
+c.2.4.3.1,Amar-Suena and Enki's temple (Amar-Suena A),,A24,sux:mu[year]N sux:9-kam-ma[9th]NU sux:Amarsuenak[1]RN sux:lugal[king]N
+c.2.4.3.1,Amar-Suena and Enki's temple (Amar-Suena A),,A25,sux:Euduna[1]TN sux:en[lord]N sux:galanzu[wise]AJ sux:du[build]V/t
+c.2.4.3.1,Amar-Suena and Enki's temple (Amar-Suena A),,A26,sux:ud[sun]N sux:en[lord]N sux:e[house]N sux:ni[self]RP
+c.2.4.3.1,Amar-Suena and Enki's temple (Amar-Suena A),,A27,sux:en[lord]N sux:gal[big]V/i sux:Enki[1]DN sux:ki[place]N sux:hulu[bad]V/i
+c.2.4.3.1,Amar-Suena and Enki's temple (Amar-Suena A),,A28,sux:DU[DU]V
+c.2.4.3.1,Amar-Suena and Enki's temple (Amar-Suena A),,A29,sux:kušu[tired]V/i sux:ki[place]N sux:gaba[chest]N
+c.2.4.3.1,Amar-Suena and Enki's temple (Amar-Suena A),,A30,sux:aya[father]N sux:Enki[1]DN sux:Eridug[1]SN sux:dim[create]V/t
+c.2.4.3.1,Amar-Suena and Enki's temple (Amar-Suena A),,A31,sux:sukkal[secretary]N sux:gal[big]V/i sux:kušu[tired]V/i
+c.2.4.3.1,Amar-Suena and Enki's temple (Amar-Suena A),,A32,
+c.2.4.3.1,Amar-Suena and Enki's temple (Amar-Suena A),,B1,sux:sud[distant]V/i
+c.2.4.3.1,Amar-Suena and Enki's temple (Amar-Suena A),,B2,sux:saŋ[head]N sux:kešed[bind]V/t sux:ki[place]N sux:daŋal[wide]V/i
+c.2.4.3.1,Amar-Suena and Enki's temple (Amar-Suena A),,B3,sux:Enki[1]DN sux:igi[eye]N sux:il[raise]V/t
+c.2.4.3.1,Amar-Suena and Enki's temple (Amar-Suena A),,B4,sux:e[house]N sux:e[leave]V/i sux:abzu[water]N
+c.2.4.3.1,Amar-Suena and Enki's temple (Amar-Suena A),,B5,sux:ud[sun]N sux:namlulu[humanity]N sux:šu[hand]N sux:sag[good]V/i sux:nam[fate]N
+c.2.4.3.1,Amar-Suena and Enki's temple (Amar-Suena A),,B6,sux:ŋizzal[ear]N sux:sud[distant]V/i sux:inim[word]N sux:ŋeštug[ear]N sux:dug[speak]V/t
+c.2.4.3.1,Amar-Suena and Enki's temple (Amar-Suena A),,B7,sux:DUN-DUN[DUN-DUN]V sux:umbin[nail]N sux:rugu[withstand]V/t sux:du[spread]V/t
+c.2.4.3.1,Amar-Suena and Enki's temple (Amar-Suena A),,B8,sux:šag[heart]N sux:hulu[bad]V/i sux:dim[create]V/t sux:niŋerim[evil]N sux:ak[do]V/t sux:sag[good]V/i
+c.2.4.3.1,Amar-Suena and Enki's temple (Amar-Suena A),,B9,sux:Amarsuenak[1]RN sux:e[house]N sux:Enlil[1]DN sux:du[build]V/t
+c.2.4.3.1,Amar-Suena and Enki's temple (Amar-Suena A),,C1,sux:en[lord]N
+c.2.4.3.1,Amar-Suena and Enki's temple (Amar-Suena A),,C2,sux:e[house]N sux:Enki[1]DN sux:du[build]V/t sux:maš[goat]N sux:šu[hand]N sux:gid[long]V/i
+c.2.4.3.1,Amar-Suena and Enki's temple (Amar-Suena A),,C3,sux:maš[goat]N sux:e[house]N sux:du[build]V/t sux:dug[speak]V/t sux:šu[hand]N sux:ŋar[place]V/t
+c.2.4.3.1,Amar-Suena and Enki's temple (Amar-Suena A),,C4,sux:lugal[king]N sux:mu[name]N sux:ud[sun]N sux:sud[distant]V/i sux:ŋar[place]V/t
+c.2.4.3.1,Amar-Suena and Enki's temple (Amar-Suena A),,C5,sux:Amarsuenak[1]RN sux:mu[name]N sux:ud[sun]N sux:sud[distant]V/i sux:ŋar[place]V/t
+c.2.4.3.1,Amar-Suena and Enki's temple (Amar-Suena A),,C6,sux:mu[name]N sux:e[house]N sux:Enki[1]DN
+c.2.4.3.1,Amar-Suena and Enki's temple (Amar-Suena A),,D1,sux:en[lord]N sux:nun[prince]N sux:galanzu[wise]AJ
+c.2.4.3.1,Amar-Suena and Enki's temple (Amar-Suena A),,D2,
+c.2.4.3.1,Amar-Suena and Enki's temple (Amar-Suena A),,E1,sux:lu[person]N sux:šag[heart]N
+c.2.4.3.1,Amar-Suena and Enki's temple (Amar-Suena A),,E2,sux:Amarsuenak[1]RN sux:lugal[king]N sux:namtar[fate]N sux:šag[heart]N sux:ba[allot]V/t

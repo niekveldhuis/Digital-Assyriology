@@ -1,0 +1,65 @@
+etcsl_no,text_name,version,l_no,text
+c.3.1.08,Letter from Šulgi to Puzur-Šulgi about the fortress Igi-hursaŋa,A,A1,sux:Puzuršulgi[1]PN sux:šakkanak[general]N
+c.3.1.08,Letter from Šulgi to Puzur-Šulgi about the fortress Igi-hursaŋa,A,A2,sux:dug[speak]V/t
+c.3.1.08,Letter from Šulgi to Puzur-Šulgi about the fortress Igi-hursaŋa,A,A3,sux:Šulgir[1]RN sux:lugal[king]N sux:dug[speak]V/t
+c.3.1.08,Letter from Šulgi to Puzur-Šulgi about the fortress Igi-hursaŋa,A,A4,sux:ud[sun]N sux:bad[wall]N sux:Igihursaŋa[1]GN
+c.3.1.08,Letter from Šulgi to Puzur-Šulgi about the fortress Igi-hursaŋa,A,A5,sux:kur[mountain]N sux:uŋ[people]N sux:daŋal[wide]V/i sux:An[1]DN sux:Enlil[1]DN
+c.3.1.08,Letter from Šulgi to Puzur-Šulgi about the fortress Igi-hursaŋa,A,A6,sux:namen[priesthood]N
+c.3.1.08,Letter from Šulgi to Puzur-Šulgi about the fortress Igi-hursaŋa,A,A7,sux:iri[city]N sux:kalam[land]N
+c.3.1.08,Letter from Šulgi to Puzur-Šulgi about the fortress Igi-hursaŋa,A,A8,sux:uŋ[people]N sux:kalam[land]N sux:daŋal[wide]V/i sux:nud[lie]V/i
+c.3.1.08,Letter from Šulgi to Puzur-Šulgi about the fortress Igi-hursaŋa,A,B1,sux:iri[city]N sux:zig[rise]V/t
+c.3.1.08,Letter from Šulgi to Puzur-Šulgi about the fortress Igi-hursaŋa,A,B2,sux:lusaŋkiŋ[builder?]N sux:dab[seize]V/t
+c.3.1.08,Letter from Šulgi to Puzur-Šulgi about the fortress Igi-hursaŋa,A,B3,sux:ki[place]N sux:bad[wall]N sux:šub[fall]V/t sux:ki[place]N sux:ŋar[place]V/t
+c.3.1.08,Letter from Šulgi to Puzur-Šulgi about the fortress Igi-hursaŋa,A,B4,sux:kalag[strong]V/i sux:u[and]CNJ sux:du[build]V/t
+c.3.1.08,Letter from Šulgi to Puzur-Šulgi about the fortress Igi-hursaŋa,A,B5,sux:šag[heart]N sux:itud[moon]N sux:1-kam-ma[1st]NU sux:a[arm]N sux:šub[fall]V/t sux:til[complete]V/i
+c.3.1.08,Letter from Šulgi to Puzur-Šulgi about the fortress Igi-hursaŋa,A,B6,sux:kiŋ[work]N sux:en[cvne]N sux:tar[cut]V/t
+c.3.1.08,Letter from Šulgi to Puzur-Šulgi about the fortress Igi-hursaŋa,A,B7,sux:Tidnum[1]EN sux:kur[mountain]N sux:gur[turn]V/i
+c.3.1.08,Letter from Šulgi to Puzur-Šulgi about the fortress Igi-hursaŋa,A,B8,sux:Lunanna[1]PN sux:ensik[ruler]N sux:mada[land]N sux:Zimudar[1]GN
+c.3.1.08,Letter from Šulgi to Puzur-Šulgi about the fortress Igi-hursaŋa,A,B9,sux:erin[people]N sux:ri[impose]V/t
+c.3.1.08,Letter from Šulgi to Puzur-Šulgi about the fortress Igi-hursaŋa,A,B10,sux:ŋal[be]V/i
+c.3.1.08,Letter from Šulgi to Puzur-Šulgi about the fortress Igi-hursaŋa,A,B11,sux:ŋal[be]V/i
+c.3.1.08,Letter from Šulgi to Puzur-Šulgi about the fortress Igi-hursaŋa,A,B13,sux:gi[turn]V/i
+c.3.1.08,Letter from Šulgi to Puzur-Šulgi about the fortress Igi-hursaŋa,A,B14,sux:til[complete]V/i
+c.3.1.08,Letter from Šulgi to Puzur-Šulgi about the fortress Igi-hursaŋa,A,B15,sux:Lunanna[1]PN sux:ensik[ruler]N sux:mada[land]N sux:Zimudar[1]GN
+c.3.1.08,Letter from Šulgi to Puzur-Šulgi about the fortress Igi-hursaŋa,A,B16,sux:erin[people]N sux:šub[fall]V/t
+c.3.1.08,Letter from Šulgi to Puzur-Šulgi about the fortress Igi-hursaŋa,A,B17,sux:zaʾe[you]IP sux:Aradŋu[1]PN sux:bala[turn]V/t
+c.3.1.08,Letter from Šulgi to Puzur-Šulgi about the fortress Igi-hursaŋa,A,B18,sux:a[arm]N sux:aŋ[measure]V/t sux:kalag[strong]V/i sux:a[arm]N sux:šeba[negligent]V/i
+c.3.1.08,Letter from Šulgi to Puzur-Šulgi about the fortress Igi-hursaŋa,A,B19,sux:ŋi[night]N sux:anbar[mid-day]N sux:kiŋ[work]N sux:du[build]V/t
+c.3.1.08,Letter from Šulgi to Puzur-Šulgi about the fortress Igi-hursaŋa,A,B20,sux:ŋi[night]N sux:anbar[mid-day]N sux:u[sleep]N sux:ku[place]V/t sux:zu[know]V/t
+c.3.1.08,Letter from Šulgi to Puzur-Šulgi about the fortress Igi-hursaŋa,A,B21,sux:amaru[flood]N
+c.3.1.08,Letter from Šulgi to Puzur-Šulgi about the fortress Igi-hursaŋa,Susa,1,sux:Puzurnumušda[1]PN sux:dug[speak]V/t
+c.3.1.08,Letter from Šulgi to Puzur-Šulgi about the fortress Igi-hursaŋa,Susa,2,sux:Šulgir[1]RN sux:lugal[king]N sux:dug[speak]V/t
+c.3.1.08,Letter from Šulgi to Puzur-Šulgi about the fortress Igi-hursaŋa,Susa,3,sux:ud[sun]N sux:bad[wall]N sux:gal[big]V/i sux:Igihursaŋa[1]GN sux:du[build]V/t
+c.3.1.08,Letter from Šulgi to Puzur-Šulgi about the fortress Igi-hursaŋa,Susa,4,sux:kur[mountain]N sux:uŋ[people]N sux:daŋal[wide]V/i sux:An[1]DN sux:Enlil[1]DN sux:mu[name]N sux:šum[give]V/t
+c.3.1.08,Letter from Šulgi to Puzur-Šulgi about the fortress Igi-hursaŋa,Susa,5,sux:iri[city]N sux:dili[single]V/i sux:mada[land]N
+c.3.1.08,Letter from Šulgi to Puzur-Šulgi about the fortress Igi-hursaŋa,Susa,6,sux:uŋ[people]N sux:kalam[land]N sux:daŋal[wide]V/i sux:usal[meadow]N sux:nud[lie]V/i
+c.3.1.08,Letter from Šulgi to Puzur-Šulgi about the fortress Igi-hursaŋa,Susa,7,sux:ki[place]N sux:niŋdaŋala[vastness]N sux:kituš[dwelling]N sux:neha[calm]N sux:šub[fall]V/t
+c.3.1.08,Letter from Šulgi to Puzur-Šulgi about the fortress Igi-hursaŋa,Susa,8,sux:nita[male]N sux:munus[woman]N
+c.3.1.08,Letter from Šulgi to Puzur-Šulgi about the fortress Igi-hursaŋa,Susa,9,sux:nita[male]N sux:ki[place]N sux:šag[heart]N sux:ŋen[go]V/i
+c.3.1.08,Letter from Šulgi to Puzur-Šulgi about the fortress Igi-hursaŋa,Susa,10,sux:munus[woman]N sux:balak[spindle]N sux:kirid[clasp]N sux:šag[heart]N
+c.3.1.08,Letter from Šulgi to Puzur-Šulgi about the fortress Igi-hursaŋa,Susa,11,sux:eden[back]N sux:niŋdaŋala[vastness]N sux:ŋarig[pen]N sux:ŋar[place]V/t
+c.3.1.08,Letter from Šulgi to Puzur-Šulgi about the fortress Igi-hursaŋa,Susa,12,sux:zalamŋar[tent]N sux:mašgana[settlement]N sux:ki[place]N sux:ŋar[place]V/t
+c.3.1.08,Letter from Šulgi to Puzur-Šulgi about the fortress Igi-hursaŋa,Susa,13,sux:lu[person]N sux:kiŋ[work]N sux:ak[do]V/t sux:lu[person]N sux:apin[plow]N sux:la[hang]V/t sux:ašag[field]N sux:ud[sun]N sux:zal[pass]V/t
+c.3.1.08,Letter from Šulgi to Puzur-Šulgi about the fortress Igi-hursaŋa,Susa,14,sux:ensik[ruler]N sux:šabra[administrator]N sux:niŋ[thing]N sux:bad[wall]N sux:du[build]V/t
+c.3.1.08,Letter from Šulgi to Puzur-Šulgi about the fortress Igi-hursaŋa,Susa,15,sux:kiŋ[work]N sux:bad[wall]N sux:ak[do]V/t sux:bad[wall]N sux:nirŋal[authoritative]AJ sux:tur[small]V/i
+c.3.1.08,Letter from Šulgi to Puzur-Šulgi about the fortress Igi-hursaŋa,Susa,16,sux:zi[life]N sux:ugnim[army]N sux:u[and]CNJ sux:mada[land]N sux:silim[healthy]V/i
+c.3.1.08,Letter from Šulgi to Puzur-Šulgi about the fortress Igi-hursaŋa,Susa,17,sux:šag[heart]N sux:kušu[tired]V/i sux:šag[heart]N sux:ŋal[be]V/i sux:dug[speak]V/t
+c.3.1.08,Letter from Šulgi to Puzur-Šulgi about the fortress Igi-hursaŋa,Susa,18,sux:ineš[now]MA sux:ugnim[army]N sux:ŋen[go]V/i
+c.3.1.08,Letter from Šulgi to Puzur-Šulgi about the fortress Igi-hursaŋa,Susa,19,sux:kiŋ[work]N sux:bad[wall]N sux:lu[person]N sux:kiŋ[work]N sux:du[build]V/t
+c.3.1.08,Letter from Šulgi to Puzur-Šulgi about the fortress Igi-hursaŋa,Susa,20,sux:ineš[now]MA sux:Aradŋu[1]PN sux:gi[turn]V/i
+c.3.1.08,Letter from Šulgi to Puzur-Šulgi about the fortress Igi-hursaŋa,Susa,21,sux:ensik[ruler]N sux:šabra[administrator]N sux:lu[person]N sux:de[bring]V/t
+c.3.1.08,Letter from Šulgi to Puzur-Šulgi about the fortress Igi-hursaŋa,Susa,22,sux:iri[city]N sux:zig[rise]V/t
+c.3.1.08,Letter from Šulgi to Puzur-Šulgi about the fortress Igi-hursaŋa,Susa,23,sux:lusaŋkiŋ[builder?]N sux:dab[seize]V/t
+c.3.1.08,Letter from Šulgi to Puzur-Šulgi about the fortress Igi-hursaŋa,Susa,24,sux:kiŋ[work]N sux:gal[big]V/i sux:šub[fall]V/t sux:ki[place]N sux:gi[turn]V/i
+c.3.1.08,Letter from Šulgi to Puzur-Šulgi about the fortress Igi-hursaŋa,Susa,25,sux:kalag[strong]V/i sux:u[and]CNJ sux:du[build]V/t
+c.3.1.08,Letter from Šulgi to Puzur-Šulgi about the fortress Igi-hursaŋa,Susa,26,sux:šag[heart]N sux:itud[moon]N sux:1[1]NU sux:bad[wall]N sux:til[complete]V/i
+c.3.1.08,Letter from Šulgi to Puzur-Šulgi about the fortress Igi-hursaŋa,Susa,27,sux:kiŋ[work]N sux:en[cvne]N sux:tar[cut]V/t
+c.3.1.08,Letter from Šulgi to Puzur-Šulgi about the fortress Igi-hursaŋa,Susa,28,sux:Lunanna[1]PN sux:ensik[ruler]N sux:mada[land]N sux:Zimudar[1]GN sux:erin[people]N sux:ŋen[go]V/i
+c.3.1.08,Letter from Šulgi to Puzur-Šulgi about the fortress Igi-hursaŋa,Susa,29,sux:zidše[provisions]N sux:tuku[acquire]V/t
+c.3.1.08,Letter from Šulgi to Puzur-Šulgi about the fortress Igi-hursaŋa,Susa,30,sux:niŋ[thing]N sux:kalag[strong]V/i sux:taka[abandon]V/t
+c.3.1.08,Letter from Šulgi to Puzur-Šulgi about the fortress Igi-hursaŋa,Susa,31,sux:ud[sun]N sux:bad[wall]N sux:til[complete]V/i sux:dub[tablet]N sux:ŋen[go]V/i
+c.3.1.08,Letter from Šulgi to Puzur-Šulgi about the fortress Igi-hursaŋa,Susa,32,sux:ud[sun]N sux:igi[eye]N sux:du[spread]V/t
+c.3.1.08,Letter from Šulgi to Puzur-Šulgi about the fortress Igi-hursaŋa,Susa,33,sux:Lunanna[1]PN sux:ensik[ruler]N sux:mada[land]N sux:Zimudar[1]GN sux:erin[people]N sux:ŋen[go]V/i
+c.3.1.08,Letter from Šulgi to Puzur-Šulgi about the fortress Igi-hursaŋa,Susa,34,sux:zaʾe[you]IP sux:Aradŋu[1]PN sux:bala[turn]V/t
+c.3.1.08,Letter from Šulgi to Puzur-Šulgi about the fortress Igi-hursaŋa,Susa,35,sux:ŋi[night]N sux:anbar[mid-day]N sux:kiŋ[work]N sux:du[build]V/t
+c.3.1.08,Letter from Šulgi to Puzur-Šulgi about the fortress Igi-hursaŋa,Susa,36,sux:a[arm]N sux:aŋ[measure]V/t sux:kalag[strong]V/i sux:a[arm]N sux:šub[fall]V/t sux:amaru[flood]N

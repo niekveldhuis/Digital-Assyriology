@@ -1,0 +1,197 @@
+etcsl_no,text_name,version,l_no,text
+c.5.9.2,The heron and the turtle,,A1,sux:gi[thicket]N sux:ana[what?]QP sux:gu[voice]N sux:de[pour]V/t sux:mu[grow]V/t sux:dug[good]V/i
+c.5.9.2,The heron and the turtle,,A2,sux:gi[thicket]N sux:daŋal[wide]V/i sux:Tutub[1]SN sux:mu[grow]V/t sux:dug[good]V/i
+c.5.9.2,The heron and the turtle,,A3,sux:ambar[reed-bed]N sux:Kiritaba[1]SN sux:mu[grow]V/t sux:dug[good]V/i
+c.5.9.2,The heron and the turtle,,A4,sux:adar[plant]N sux:Akšak[1]SN sux:mu[grow]V/t sux:dug[good]V/i
+c.5.9.2,The heron and the turtle,,A5,sux:sug[marsh]N sux:zu[tooth]N sux:kešed[bind]V/t sux:Enki[1]DN sux:mu[grow]V/t sux:dug[good]V/i
+c.5.9.2,The heron and the turtle,,A6,sux:sug[marsh]N sux:banda[junior]V/i sux:sug[marsh]N sux:Enki[1]DN sux:mu[grow]V/t sux:dug[good]V/i
+c.5.9.2,The heron and the turtle,,A7,sux:barbar[reed]N sux:Enki[1]DN sux:mu[grow]V/t sux:dug[good]V/i
+c.5.9.2,The heron and the turtle,,A8,sux:Urim[1]SN sux:gizi[reed]N sux:didila[smaller]V/i sux:mu[grow]V/t sux:dug[good]V/i
+c.5.9.2,The heron and the turtle,,A9,sux:Urim[1]SN sux:ab[cow]N sux:lu[abundant]V/i sux:amar[young]N sux:lu[abundant]V/i sux:re[that]DP sux:mu[grow]V/t sux:dug[good]V/i
+c.5.9.2,The heron and the turtle,,A10,sux:ud[sun]N sux:a[water]N sux:gi[reed]N sux:kud[cut]V/t sux:amaš[sheepfold]N sux:pa[branch]N sux:e[leave]V/i
+c.5.9.2,The heron and the turtle,,A11,sux:aštaltal[plant]N sux:gi[thicket]N sux:numun[seed]N sux:sal[thin]V/i
+c.5.9.2,The heron and the turtle,,A12,sux:kumul[cumin]N sux:tur[small]V/i sux:ki[place]N sux:e[leave]V/i sux:namdidila[smallness]N sux:dug[good]V/i
+c.5.9.2,The heron and the turtle,,A13,sux:enbar[reed]N sux:tur[small]V/i sux:suh[crown]N sux:dub[heap]V/t sux:namkisikil[~woman]N sux:dug[good]V/i
+c.5.9.2,The heron and the turtle,,A14,sux:ubzal[reeds]N sux:iri[city]N sux:DI[DI]V sux:namŋuruš[manliness]N sux:dug[good]V/i
+c.5.9.2,The heron and the turtle,,A15,sux:pela[reed]N sux:ur[root]N sux:saŋ[head]N sux:dul[cover]V/t sux:egia[bride]N sux:dug[good]V/i
+c.5.9.2,The heron and the turtle,,A16,sux:pela[reed]N sux:ur[root]N sux:saŋ[head]N sux:gi[turn]V/i sux:dumu[child]N sux:banda[junior]V/i sux:dug[good]V/i
+c.5.9.2,The heron and the turtle,,A17,sux:gašam[reed]N sux:ki[place]N sux:burud[perforate]V/t sux:namabba[age]N sux:dug[good]V/i
+c.5.9.2,The heron and the turtle,,A18,sux:gizi[reed]N sux:ni[self]RP sux:šuš[cover]V/t sux:namumma[agedness]N sux:dug[good]V/i
+c.5.9.2,The heron and the turtle,,A19,sux:gi[thicket]N sux:sissig[green]V/i sux:saŋ[head]N sux:il[raise]V/t sux:Gudea[1]RN sux:dug[good]V/i
+c.5.9.2,The heron and the turtle,,A20,sux:ildag[poplar]N sux:šitan[water-channel]N sux:saŋ[head]N sux:il[raise]V/t sux:namlugal[kingship]N sux:dug[good]V/i
+c.5.9.2,The heron and the turtle,,A21,sux:pa[branch]N sux:mul[star]N sux:dumu[child]N sux:lugal[king]N sux:dug[good]V/i
+c.5.9.2,The heron and the turtle,,A22,sux:ud[sun]N sux:zag[side]N sux:gi[thicket]N sux:ki[place]N sux:tuš[sit]V/i sux:ugul[cvne]N sux:ŋar[place]V/t
+c.5.9.2,The heron and the turtle,,A23,sux:igira[heron]N sux:nunuz[egg]N sux:bur[tear]V/t sux:de[bring]V/t sux:ab[sea]N
+c.5.9.2,The heron and the turtle,,A24,sux:mušen[bird]N sux:lu[person]N sux:kadra[gift]N sux:kadra[gift]N sux:ak[do]V/t
+c.5.9.2,The heron and the turtle,,A25,sux:igira[heron]N sux:lu[person]N sux:kadra[gift]N sux:kadra[gift]N sux:ak[do]V/t
+c.5.9.2,The heron and the turtle,,A26,sux:kud[fish]N sux:dab[seize]V/t sux:nunuz[egg]N sux:deg[collect]V/t sux:zag[side]N sux:tag[touch]V/t
+c.5.9.2,The heron and the turtle,,A27,sux:ulal[plant]N sux:suhur[carp]N sux:zag[side]N sux:tag[touch]V/t
+c.5.9.2,The heron and the turtle,,A28,sux:eštub[carp]N sux:gizi[reed]N sux:didila[smaller]V/i sux:zag[side]N sux:tag[touch]V/t
+c.5.9.2,The heron and the turtle,,A29,sux:kiŋtur[toad]N sux:ligiligi[grass]N sux:zag[side]N sux:tag[touch]V/t
+c.5.9.2,The heron and the turtle,,A30,sux:agargara[droppings]N sux:niŋ[thing]N sux:zig[rise]V/t sux:zagbar[unmng]N sux:zag[side]N sux:tag[touch]V/t
+c.5.9.2,The heron and the turtle,,A31,sux:igira[heron]N sux:nunuz[egg]N sux:šum[slaughter]V/t sux:ab[sea]N sux:gaz[kill]V/t
+c.5.9.2,The heron and the turtle,,A32,sux:mušen[bird]N sux:lu[person]N sux:kadra[gift]N sux:ugul[cvne]N sux:ŋar[place]V/t
+c.5.9.2,The heron and the turtle,,A33,sux:igira[heron]N sux:lugal[king]N sux:Enki[1]DN sux:e[house]N sux:kur[enter]V/i sux:gu[voice]N sux:de[pour]V/t
+c.5.9.2,The heron and the turtle,,A34,sux:ki[place]N sux:daŋal[wide]V/i sux:šum[give]V/t sux:nunuz[egg]N sux:ki[place]N sux:tag[touch]V/t
+c.5.9.2,The heron and the turtle,,A35,sux:šum[give]V/t
+c.5.9.2,The heron and the turtle,,A36,sux:ŋar[place]V/t
+c.5.9.2,The heron and the turtle,,A37,sux:ab[sea]N sux:me[be]V/i
+c.5.9.2,The heron and the turtle,,A38,sux:gi[reed]N sux:mušen[bird]N
+c.5.9.2,The heron and the turtle,,A39,sux:nunuz[egg]N sux:ki[place]N sux:tag[touch]V/t
+c.5.9.2,The heron and the turtle,,A40,sux:gi[thicket]N sux:daŋal[wide]V/i sux:Tutub[1]SN sux:nunuz[egg]N sux:ki[place]N sux:tag[touch]V/t
+c.5.9.2,The heron and the turtle,,A41,sux:ambar[reed-bed]N sux:Kiritaba[1]SN sux:nunuz[egg]N sux:ki[place]N sux:tag[touch]V/t
+c.5.9.2,The heron and the turtle,,A42,sux:adar[plant]N sux:Akšak[1]SN sux:nunuz[egg]N sux:ki[place]N sux:tag[touch]V/t
+c.5.9.2,The heron and the turtle,,A43,sux:sug[marsh]N sux:zu[tooth]N sux:kešed[bind]V/t sux:Enki[1]DN sux:nunuz[egg]N sux:ki[place]N sux:tag[touch]V/t
+c.5.9.2,The heron and the turtle,,A44,sux:sug[marsh]N sux:banda[junior]V/i sux:sug[marsh]N sux:Eridug[1]SN sux:nunuz[egg]N sux:ki[place]N sux:tag[touch]V/t
+c.5.9.2,The heron and the turtle,,A45,sux:barbar[reed]N sux:Enki[1]DN sux:nunuz[egg]N sux:ki[place]N sux:tag[touch]V/t
+c.5.9.2,The heron and the turtle,,A46,sux:Urim[1]SN sux:gizi[reed]N sux:didila[smaller]V/i sux:nunuz[egg]N sux:ki[place]N sux:tag[touch]V/t
+c.5.9.2,The heron and the turtle,,A47,sux:Urim[1]SN sux:ab[cow]N sux:lu[abundant]V/i sux:amar[young]N sux:lu[abundant]V/i sux:re[that]DP sux:nunuz[egg]N sux:ki[place]N sux:tag[touch]V/t
+c.5.9.2,The heron and the turtle,,A48,sux:ud[sun]N sux:niŋbuna[turtle]N sux:lu[person]N sux:dud[combat]N sux:mu[grow]V/t sux:lu[person]N sux:harran[route]N sux:gig[sick]V/i
+c.5.9.2,The heron and the turtle,,A49,sux:igira[heron]N sux:igira[heron]N sux:dud[combat]N sux:ganam[moreover]MA sux:mu[grow]V/t
+c.5.9.2,The heron and the turtle,,A50,sux:niŋbuna[turtle]N sux:igira[heron]N sux:dud[combat]N sux:ganam[moreover]MA sux:mu[grow]V/t
+c.5.9.2,The heron and the turtle,,A51,sux:lu[person]N sux:igi[eye]N sux:igi[eye]N sux:muš[snake]N sux:dud[combat]N sux:ganam[moreover]MA sux:mu[grow]V/t
+c.5.9.2,The heron and the turtle,,A52,sux:kag[mouth]N sux:kag[mouth]N sux:muš[snake]N sux:dud[combat]N sux:ganam[moreover]MA sux:mu[grow]V/t
+c.5.9.2,The heron and the turtle,,A53,sux:eme[tongue]N sux:eme[tongue]N sux:muš[snake]N sux:dud[combat]N sux:ganam[moreover]MA sux:mu[grow]V/t
+c.5.9.2,The heron and the turtle,,A54,sux:gug[tooth]N sux:gug[tooth]N sux:ur[dog]N sux:tur[small]V/i sux:dud[combat]N sux:ganam[moreover]MA sux:mu[grow]V/t
+c.5.9.2,The heron and the turtle,,A55,sux:šu[hand]N sux:sal[thin]V/i sux-x-emesal:meri[foot]N sux:sal[thin]V/i sux:dud[combat]N sux:ganam[moreover]MA sux:mu[grow]V/t
+c.5.9.2,The heron and the turtle,,A56,sux:niŋbuna[turtle]N sux:šeg[brick]N sux:udun[kiln]N sux:dud[combat]N sux:ganam[moreover]MA sux:mu[grow]V/t
+c.5.9.2,The heron and the turtle,,A57,sux:šag[heart]N sux:musar[garden]N sux:dud[combat]N sux:ganam[moreover]MA sux:mu[grow]V/t
+c.5.9.2,The heron and the turtle,,A58,sux:al[hoe]N sux:im[clay]N sux:ud[sun]N sux:zal[pass]V/t sux:re[that]DP sux:dud[combat]N sux:ganam[moreover]MA sux:mu[grow]V/t
+c.5.9.2,The heron and the turtle,,A59,sux:dupsik[basket]N sux:sahar[soil]N sux:luh[clean]V/t sux:dud[combat]N sux:ganam[moreover]MA sux:mu[grow]V/t
+c.5.9.2,The heron and the turtle,,A60,sux:niŋbuna[turtle]N sux:luharmušenak[bird-trapper]N sux:ludubŋara[hunter]N
+c.5.9.2,The heron and the turtle,,A61,sux:igira[heron]N sux:gi[reed]N sux:du[build]V/t sux:bur[tear]V/t
+c.5.9.2,The heron and the turtle,,A62,sux:gud[nest]N sux:us[follow]V/t sux:suh[confuse]V/t
+c.5.9.2,The heron and the turtle,,A63,sux:dumu[child]N sux:a[water]N sux:rah[beat]V/t
+c.5.9.2,The heron and the turtle,,A64,sux:mušen[bird]N sux:lu[person]N sux:igi[eye]N sux:kukkug[dark]V/i
+c.5.9.2,The heron and the turtle,,A65,sux:niŋbuna[turtle]N sux:saŋki[forehead]N sux:umbin[nail]N sux:la[hang]V/t
+c.5.9.2,The heron and the turtle,,A66,sux:uš[blood]N sux:gaba[chest]N sux:šuš[cover]V/t
+c.5.9.2,The heron and the turtle,,A66A,sux:sahar[soil]N sux:a[water]N sux:šag[heart]N
+c.5.9.2,The heron and the turtle,,A67,sux:igira[heron]N sux:er[tears]N sux:pad[find]V/t sux:šeš[weep]V/t sux:ŋar[place]V/t
+c.5.9.2,The heron and the turtle,,A68,sux:mušen[bird]N sux:gud[nest]N sux:sug[empty]V/i sux:DU[DU]V
+c.5.9.2,The heron and the turtle,,A68A,sux:igira[heron]N
+c.5.9.2,The heron and the turtle,,A68B,sux:lugal[king]N sux:did[lawsuit]N sux:ed[ascend]V/i sux:kag[mouth]N
+c.5.9.2,The heron and the turtle,,A69,sux:lugal[king]N sux:did[lawsuit]N sux:kud[cut]V/t sux:kaš[decision]N sux:bar[outside]V/t
+c.5.9.2,The heron and the turtle,,A70,sux:Enki[1]DN sux:did[lawsuit]N sux:kud[cut]V/t sux:kaš[decision]N sux:bar[outside]V/t
+c.5.9.2,The heron and the turtle,,A71,sux:inim[word]N sux:en[lord]N sux:Eridug[1]SN
+c.5.9.2,The heron and the turtle,,A72,sux:2-kam-ma[2nd]NU sux:mušen[bird]N sux:lu[person]N sux:kadra[gift]N sux:kadra[gift]N sux:ak[do]V/t
+c.5.9.2,The heron and the turtle,,A73,sux:igira[heron]N sux:lu[person]N sux:kadra[gift]N sux:kadra[gift]N sux:ak[do]V/t
+c.5.9.2,The heron and the turtle,,A74,sux:kud[fish]N sux:dab[seize]V/t sux:nunuz[egg]N sux:deg[collect]V/t sux:zag[side]N sux:tag[touch]V/t
+c.5.9.2,The heron and the turtle,,A75,sux:ulal[plant]N sux:suhur[carp]N sux:ulal[plant]N sux:zag[side]N sux:tag[touch]V/t
+c.5.9.2,The heron and the turtle,,A76,sux:eštub[carp]N sux:gizi[reed]N sux:didila[smaller]V/i sux:zag[side]N sux:tag[touch]V/t
+c.5.9.2,The heron and the turtle,,A77,sux:kiŋtur[toad]N sux:ligiligi[grass]N sux:zag[side]N sux:tag[touch]V/t
+c.5.9.2,The heron and the turtle,,A78,sux:agargara[droppings]N sux:niŋ[thing]N sux:zig[rise]V/t sux:zagbar[unmng]N sux:zag[side]N sux:tag[touch]V/t
+c.5.9.2,The heron and the turtle,,A79,sux:burud[perforate]V/t sux:ki[place]N sux:saŋ[head]N sux:an[sky]N
+c.5.9.2,The heron and the turtle,,A80,sux:lugal[king]N sux:Enki[1]DN sux:e[house]N sux:kur[enter]V/i sux:gu[voice]N sux:de[pour]V/t
+c.5.9.2,The heron and the turtle,,A81,sux:lugal[king]N sux:gi[thicket]N sux:daŋal[wide]V/i sux:šum[give]V/t sux:nunuz[egg]N sux:ki[place]N sux:tag[touch]V/t
+c.5.9.2,The heron and the turtle,,A82,sux:gi[thicket]N sux:daŋal[wide]V/i sux:Tutub[1]SN sux:nunuz[egg]N sux:ki[place]N sux:tag[touch]V/t
+c.5.9.2,The heron and the turtle,,A83,sux:ambar[reed-bed]N sux:Kiritaba[1]SN sux:nunuz[egg]N sux:ki[place]N sux:tag[touch]V/t
+c.5.9.2,The heron and the turtle,,A84,sux:adar[plant]N sux:Akšak[1]SN sux:nunuz[egg]N sux:ki[place]N sux:tag[touch]V/t
+c.5.9.2,The heron and the turtle,,A85,sux:sug[marsh]N sux:zu[tooth]N sux:kešed[bind]V/t sux:Enki[1]DN sux:nunuz[egg]N sux:ki[place]N sux:tag[touch]V/t
+c.5.9.2,The heron and the turtle,,A86,sux:sug[marsh]N sux:banda[junior]V/i sux:sug[marsh]N sux:Eridug[1]SN sux:nunuz[egg]N sux:ki[place]N sux:tag[touch]V/t
+c.5.9.2,The heron and the turtle,,A87,sux:barbar[reed]N sux:Enki[1]DN sux:nunuz[egg]N sux:ki[place]N sux:tag[touch]V/t
+c.5.9.2,The heron and the turtle,,A88,sux:Urim[1]SN sux:gizi[reed]N sux:didila[smaller]V/i sux:nunuz[egg]N sux:ki[place]N sux:tag[touch]V/t
+c.5.9.2,The heron and the turtle,,A89,sux:Urim[1]SN sux:ab[cow]N sux:lu[abundant]V/i sux:amar[young]N sux:lu[abundant]V/i sux:re[that]DP sux:nunuz[egg]N sux:ki[place]N sux:tag[touch]V/t
+c.5.9.2,The heron and the turtle,,A90,sux:ud[sun]N sux:niŋbuna[turtle]N sux:lu[person]N sux:dud[combat]N sux:mu[grow]V/t sux:lu[person]N sux:harran[route]N sux:gig[sick]V/i
+c.5.9.2,The heron and the turtle,,A91,sux:lu[person]N sux:igi[eye]N sux:igi[eye]N sux:muš[snake]N sux:lu[person]N sux:harran[route]N sux:gig[sick]V/i
+c.5.9.2,The heron and the turtle,,A92,sux:kag[mouth]N sux:kag[mouth]N sux:muš[snake]N sux:lu[person]N sux:harran[route]N sux:gig[sick]V/i
+c.5.9.2,The heron and the turtle,,A93,sux:eme[tongue]N sux:eme[tongue]N sux:muš[snake]N sux:lu[person]N sux:harran[route]N sux:gig[sick]V/i
+c.5.9.2,The heron and the turtle,,A94,sux:gug[tooth]N sux:gug[tooth]N sux:ur[dog]N sux:tur[small]V/i sux:lu[person]N sux:harran[route]N sux:gig[sick]V/i
+c.5.9.2,The heron and the turtle,,A95,sux:šu[hand]N sux:sal[thin]V/i sux-x-emesal:meri[foot]N sux:sal[thin]V/i sux:lu[person]N sux:harran[route]N sux:gig[sick]V/i
+c.5.9.2,The heron and the turtle,,A96,sux:niŋbuna[turtle]N sux:šeg[brick]N sux:udun[kiln]N sux:lu[person]N sux:harran[route]N sux:gig[sick]V/i
+c.5.9.2,The heron and the turtle,,A97,sux:šag[heart]N sux:musar[garden]N sux:lu[person]N sux:harran[route]N sux:gig[sick]V/i
+c.5.9.2,The heron and the turtle,,A98,sux:al[hoe]N sux:im[clay]N sux:ud[sun]N sux:zal[pass]V/t sux:re[that]DP sux:lu[person]N sux:harran[route]N sux:gig[sick]V/i
+c.5.9.2,The heron and the turtle,,A99,sux:dupsik[basket]N sux:sahar[soil]N sux:luh[clean]V/t sux:lu[person]N sux:harran[route]N sux:gig[sick]V/i
+c.5.9.2,The heron and the turtle,,A100,sux:niŋbuna[turtle]N sux:luharmušenak[bird-trapper]N sux:ludubŋara[hunter]N
+c.5.9.2,The heron and the turtle,,A101,sux:igira[heron]N sux:gi[reed]N sux:du[build]V/t sux:bur[tear]V/t
+c.5.9.2,The heron and the turtle,,A102,sux:gud[nest]N sux:us[follow]V/t sux:suh[confuse]V/t
+c.5.9.2,The heron and the turtle,,A103,sux:dumu[child]N sux:a[water]N sux:rah[beat]V/t
+c.5.9.2,The heron and the turtle,,A104,sux:mušen[bird]N sux:lu[person]N sux:igi[eye]N sux:kukkug[dark]V/i
+c.5.9.2,The heron and the turtle,,A105,sux:niŋbuna[turtle]N sux:saŋki[forehead]N sux:umbin[nail]N sux:la[hang]V/t
+c.5.9.2,The heron and the turtle,,A106,sux:uš[blood]N sux:gaba[chest]N sux:a[water]N sux:šuš[cover]V/t
+c.5.9.2,The heron and the turtle,,A107,sux:nun[prince]N sux:sukkal[secretary]N sux:Isimud[1]DN sux:gu[voice]N sux:de[pour]V/t
+c.5.9.2,The heron and the turtle,,A108,sux:sukkal[secretary]N sux:Isimud[1]DN sux:mu[name]N sux:dug[good]V/i sux:an[sky]N
+c.5.9.2,The heron and the turtle,,A109,sux:Enki[1]DN sux:gub[stand]V/i sux:uʾul[consent]N sux:arazu[supplication]N
+c.5.9.2,The heron and the turtle,,A110,sux:zipatum[cord]N sux:a[arm]N sux:gab[left]N sux:sur[press]V/t
+c.5.9.2,The heron and the turtle,,A111,sux:bisaŋ[basket]N sux:zabar[bronze]N sux:dim[create]V/t
+c.5.9.2,The heron and the turtle,,A112,sux:gi[reed]N sux:šu[hand]N sux:ak[do]V/t sux:gu[cord]N sux:šuš[cover]V/t
+c.5.9.2,The heron and the turtle,,A113,sux:la[hang]V/t
+c.5.9.2,The heron and the turtle,,A114,sux:saŋ[head]N sux:gu[cord]N sux:gu[cord]N sux:la[hang]V/t
+c.5.9.2,The heron and the turtle,,A115,sux:deg[collect]V/t sux:niŋsilaŋ[dough]N sux:kal[rare]V/i
+c.5.9.2,The heron and the turtle,,A116,sux:usar[neighbor]N sux:bar[outside]V/t sux:a[water]N sux:de[bring]V/t
+c.5.9.2,The heron and the turtle,,A117,sux:sug[marsh]N sux:zu[tooth]N sux:kešed[bind]V/t sux:Enki[1]DN sux:ŋar[place]V/t
+c.5.9.2,The heron and the turtle,,A118,sux:ud[sun]N sux:niŋ[thing]N sux:šugur[ring]N sux:tuš[sit]V/i
+c.5.9.2,The heron and the turtle,,A120,
+c.5.9.2,The heron and the turtle,,A121,sux:Isimud[1]DN sux:ŋizzal[ear]N sux:ak[do]V/t
+c.5.9.2,The heron and the turtle,,A122,sux:zipatum[cord]N sux:a[arm]N sux:gab[left]N sux:sur[press]V/t
+c.5.9.2,The heron and the turtle,,A123,sux:bisaŋ[basket]N sux:zabar[bronze]N sux:dim[create]V/t
+c.5.9.2,The heron and the turtle,,A124,sux:gi[reed]N sux:šu[hand]N sux:šuš[cover]V/t
+c.5.9.2,The heron and the turtle,,A125,sux:saŋ[head]N sux:gu[cord]N sux:gu[cord]N sux:la[hang]V/t
+c.5.9.2,The heron and the turtle,,A126,sux:deg[collect]V/t sux:niŋsilaŋ[dough]N sux:kal[rare]V/i
+c.5.9.2,The heron and the turtle,,A127,sux:usar[neighbor]N sux:bar[outside]V/t sux:a[water]N sux:de[bring]V/t
+c.5.9.2,The heron and the turtle,,A128,sux:sug[marsh]N sux:zu[tooth]N sux:kešed[bind]V/t sux:Enki[1]DN sux:a[water]N sux:rah[beat]V/t
+c.5.9.2,The heron and the turtle,,A129,sux:ud[sun]N sux:niŋ[thing]N sux:ŋaʾe[I]IP sux:nun[prince]N sux:gub[stand]V/i
+c.5.9.2,The heron and the turtle,,A130,sux:niŋbuna[turtle]N sux:nun[prince]N sux:gu[voice]N sux:de[pour]V/t
+c.5.9.2,The heron and the turtle,,A131,sux:nun[prince]N sux:me[be]V/i sux:ane[he]IP
+c.5.9.2,The heron and the turtle,,A132,sux:izi[fire]N sux:gur[turn]V/i
+c.5.9.2,The heron and the turtle,,A133,sux:diŋir[deity]N sux:me[be]V/i
+c.5.9.2,The heron and the turtle,,A134,
+c.5.9.2,The heron and the turtle,,A135,sux:lugal[king]N sux:Enki[1]DN
+c.5.9.2,The heron and the turtle,,A136,sux:nun[prince]N sux:me[be]V/i sux:ane[he]IP
+c.5.9.2,The heron and the turtle,,A137,sux:šag[heart]N
+c.5.9.2,The heron and the turtle,,A138,sux:nun[prince]N sux:me[be]V/i sux:inim[word]N sux:ane[he]IP
+c.5.9.2,The heron and the turtle,,A139,sux:tur[small]V/i sux:egar[wall]N sux:gul[destroy]V/t
+c.5.9.2,The heron and the turtle,,A140,sux:nun[prince]N sux:me[be]V/i sux:bar[outside]V/t sux:ana[what?]QP sux:dug[speak]V/t
+c.5.9.2,The heron and the turtle,,A141,sux:šu[hand]N sux:lu[person]N sux:me[be]V/i sux:nam[fate]N
+c.5.9.2,The heron and the turtle,,A142,sux:šeg[brick]N
+c.5.9.2,The heron and the turtle,,A159,sux:gu[cord]N sux:1[1]NU
+c.5.9.2,The heron and the turtle,,A160,sux:gud[ox]N sux:šu-du[complete]V/t
+c.5.9.2,The heron and the turtle,,A161,sux:1[1]NU sux:šen[cauldron]N sux:mah[great]V/i
+c.5.9.2,The heron and the turtle,,A162,sux:an[sky]N sux:ursaŋ[hero]N sux:an[sky]N sux:en[lord]N sux:aše[now]N sux:kešed[bind]V/t
+c.5.9.2,The heron and the turtle,,A163,sux:numun[seed]N sux:1[1]NU
+c.5.9.2,The heron and the turtle,,A164,sux:ŋeš[tree]N sux:mah[great]V/i
+c.5.9.2,The heron and the turtle,,A165,sux:urud[copper]N sux:niŋ[thing]N sux:kalag[strong]V/i
+c.5.9.2,The heron and the turtle,,A166,sux:a[water]N sux:dug[good]V/i sux:adda[father]N
+c.5.9.2,The heron and the turtle,,A167,sux:ud[sun]N sux:unir[ziggurat]N sux:igi[eye]N
+c.5.9.2,The heron and the turtle,,A168,sux:lugal[king]N sux:Enki[1]DN sux:unir[ziggurat]N sux:gana[come-on!]J sux:ŋal[be]V/i
+c.5.9.2,The heron and the turtle,,A169,sux:šeg[brick]N sux:unir[ziggurat]N sux:gal[big]V/i sux:abzu[water]N sux:igi[eye]N
+c.5.9.2,The heron and the turtle,,A170,sux:šeg[brick]N sux:abzu[water]N sux:an[sky]N sux:bar[outside]V/t
+c.5.9.2,The heron and the turtle,,A171,sux:umbinsi[nail]N sux:mudur[dirt]N sux:de[bring]V/t sux:dimgi[plant]N sux:du[build]V/t
+c.5.9.2,The heron and the turtle,,A172,sux:dimgi[plant]N sux:ki[place]N sux:sir[unmng]V/t
+c.5.9.2,The heron and the turtle,,A173,sux:gu[cord]N sux:ki[place]N sux:e[leave]V/i
+c.5.9.2,The heron and the turtle,,A174,sux:tur[small]V/i sux:a[water]N sux:šu[hand]N sux:de[pour]V/t
+c.5.9.2,The heron and the turtle,,A175,sux:gal[big]V/i sux:a[water]N sux:ŋiri[foot]N sux:de[pour]V/t
+c.5.9.2,The heron and the turtle,,A176,sux:gu[cord]N sux:buluŋ[grow]V/t sux:gu[cord]N sux:sukud[height]N
+c.5.9.2,The heron and the turtle,,A177,sux:kešed[bind]V/t
+c.5.9.2,The heron and the turtle,,A178,
+c.5.9.2,The heron and the turtle,,A185,sux:lugal[king]N
+c.5.9.2,The heron and the turtle,,A186,
+c.5.9.2,The heron and the turtle,,A188,sux:ak[do]V/t
+c.5.9.2,The heron and the turtle,,A189,sux:kal[rare]V/i
+c.5.9.2,The heron and the turtle,,A190,sux:šen[cauldron]N sux:gi[turn]V/i
+c.5.9.2,The heron and the turtle,,A191,sux:dab[seize]V/t
+c.5.9.2,The heron and the turtle,,A192,sux:KA[KA]V
+c.5.9.2,The heron and the turtle,,A193,sux:eden[back]N sux:rugu[withstand]V/t
+c.5.9.2,The heron and the turtle,,A194,sux:ŋeš[tree]N sux:la[hang]V/t
+c.5.9.2,The heron and the turtle,,A195,sux:sabar[net]N sux:sal[thin]V/i
+c.5.9.2,The heron and the turtle,,A196,sux:dab[seize]V/t sux:sabar[net]N sux:dab[seize]V/t
+c.5.9.2,The heron and the turtle,,A197,sux:dab[seize]V/t sux:sabar[net]N sux:barag[spread]V/t
+c.5.9.2,The heron and the turtle,,A198,sux:namtaga[sin]N sux:dili[single]V/i sux:si[horn]N sux:sa[equal]V/t
+c.5.9.2,The heron and the turtle,,A199,sux:rah[beat]V/t
+c.5.9.2,The heron and the turtle,,A200,sux:rah[beat]V/t
+c.5.9.2,The heron and the turtle,,A201,
+c.5.9.2,The heron and the turtle,,A202,
+c.5.9.2,The heron and the turtle,,A203,sux:Enki[1]DN
+c.5.9.2,The heron and the turtle,,A204,sux:tar[cut]V/t
+c.5.9.2,The heron and the turtle,,A205,sux:me[be]V/i
+c.5.9.2,The heron and the turtle,,A206,sux:me[be]V/i
+c.5.9.2,The heron and the turtle,,A207,sux:me[be]V/i
+c.5.9.2,The heron and the turtle,,A208,sux:me[be]V/i
+c.5.9.2,The heron and the turtle,,B1,sux:dab[seize]V/t
+c.5.9.2,The heron and the turtle,,B2,sux:la[hang]V/t
+c.5.9.2,The heron and the turtle,,B3,sux:Enki[1]DN
+c.5.9.2,The heron and the turtle,,B4,sux:dab[seize]V/t sux:sabar[net]N
+c.5.9.2,The heron and the turtle,,B5,sux:niŋbuna[turtle]N sux:niŋ[thing]N sux:nun[prince]N
+c.5.9.2,The heron and the turtle,,B6,sux:Enki[1]DN sux:niŋ[thing]N sux:umbin[nail]N sux:nam[fate]N sux:si[horn]N sux:sa[equal]V/t
+c.5.9.2,The heron and the turtle,,B7,sux:šag[heart]N sux:5[5]NU
+c.5.9.2,The heron and the turtle,,B8,sux:bar[outside]V/t sux:10[10]NU
+c.5.9.2,The heron and the turtle,,B9,sux:kindar[hole]N

@@ -1,0 +1,65 @@
+etcsl_no,text_name,version,l_no,text
+c.0.2.08,OB catalogue from Nibru (N4),,A1,
+c.0.2.08,OB catalogue from Nibru (N4),,A2,sux:gub[stand]V/i
+c.0.2.08,OB catalogue from Nibru (N4),,A3,
+c.0.2.08,OB catalogue from Nibru (N4),,A4,sux-x-emesal:ašer[lament]N
+c.0.2.08,OB catalogue from Nibru (N4),,A5,
+c.0.2.08,OB catalogue from Nibru (N4),,A6,sux:il[raise]V/t
+c.0.2.08,OB catalogue from Nibru (N4),,A7,
+c.0.2.08,OB catalogue from Nibru (N4),,B1,
+c.0.2.08,OB catalogue from Nibru (N4),,B2,
+c.0.2.08,OB catalogue from Nibru (N4),,B3,sux:nir[trust]N sux:atuku[powerful]N
+c.0.2.08,OB catalogue from Nibru (N4),,B4,sux-x-emesal:gelleŋ[forsake]V/i
+c.0.2.08,OB catalogue from Nibru (N4),,B5,
+c.0.2.08,OB catalogue from Nibru (N4),,B6,sux:mah[great]V/i
+c.0.2.08,OB catalogue from Nibru (N4),,B7,sux:uma[triumph]N sux:gig[sick]V/i
+c.0.2.08,OB catalogue from Nibru (N4),,B8,
+c.0.2.08,OB catalogue from Nibru (N4),,B9,sux:uma[triumph]N sux:zig[rise]V/t
+c.0.2.08,OB catalogue from Nibru (N4),,B10,sux-x-emesal:gašan[lady]N sux:gur[turn]V/i
+c.0.2.08,OB catalogue from Nibru (N4),,B11,sux:Utu[1]DN sux:gud[ox]N sux:huš[reddish]V/i
+c.0.2.08,OB catalogue from Nibru (N4),,B12,sux:Utu[1]DN sux:ursaŋ[hero]N
+c.0.2.08,OB catalogue from Nibru (N4),,B13,sux:Utu[1]DN sux:e[leave]V/i
+c.0.2.08,OB catalogue from Nibru (N4),,B14,sux:egia[bride]N sux:e[house]N sux:e[leave]V/i
+c.0.2.08,OB catalogue from Nibru (N4),,C1,
+c.0.2.08,OB catalogue from Nibru (N4),,C2,
+c.0.2.08,OB catalogue from Nibru (N4),,C3,
+c.0.2.08,OB catalogue from Nibru (N4),,C4,
+c.0.2.08,OB catalogue from Nibru (N4),,C5,
+c.0.2.08,OB catalogue from Nibru (N4),,C6,
+c.0.2.08,OB catalogue from Nibru (N4),,C7,
+c.0.2.08,OB catalogue from Nibru (N4),,C8,
+c.0.2.08,OB catalogue from Nibru (N4),,D1,sux:dumu[child]N sux:lugal[king]N
+c.0.2.08,OB catalogue from Nibru (N4),,D2,sux:An[1]DN sux:namnirŋal[authority]N
+c.0.2.08,OB catalogue from Nibru (N4),,D3,sux:aba[who?]QP sux:bal[dig]V/t
+c.0.2.08,OB catalogue from Nibru (N4),,D4,sux:mea[where?]QP sux:lu[abundant]V/i
+c.0.2.08,OB catalogue from Nibru (N4),,D5,sux:meʾam[dear]J
+c.0.2.08,OB catalogue from Nibru (N4),,D6,sux:lugal[king]N sux:heŋal[plenty]N
+c.0.2.08,OB catalogue from Nibru (N4),,D7,sux:šembizida[kohl]N sux:dar[split]V/t
+c.0.2.08,OB catalogue from Nibru (N4),,D8,
+c.0.2.08,OB catalogue from Nibru (N4),,D9,sux:pad[find]V/t sux:Enlil[1]DN
+c.0.2.08,OB catalogue from Nibru (N4),,D10,sux:Hendursaŋak[1]DN sux:šul[youth]V/i sux:ŋi[night]N sux:ŋen[go]V/i
+c.0.2.08,OB catalogue from Nibru (N4),,D11,sux:gud[ox]N
+c.0.2.08,OB catalogue from Nibru (N4),,D12,sux:bur[tear]V/t
+c.0.2.08,OB catalogue from Nibru (N4),,D13,sux:lu[person]N
+c.0.2.08,OB catalogue from Nibru (N4),,D14,
+c.0.2.08,OB catalogue from Nibru (N4),,E1,sux:heŋal[plenty]N
+c.0.2.08,OB catalogue from Nibru (N4),,E2,
+c.0.2.08,OB catalogue from Nibru (N4),,E3,
+c.0.2.08,OB catalogue from Nibru (N4),,E4,sux:me[be]V/i
+c.0.2.08,OB catalogue from Nibru (N4),,E5,
+c.0.2.08,OB catalogue from Nibru (N4),,E6,sux:Bau[1]DN
+c.0.2.08,OB catalogue from Nibru (N4),,E7,
+c.0.2.08,OB catalogue from Nibru (N4),,E8,
+c.0.2.08,OB catalogue from Nibru (N4),,F1,
+c.0.2.08,OB catalogue from Nibru (N4),,F2,sux-x-emesal:ašer[lament]N
+c.0.2.08,OB catalogue from Nibru (N4),,F3,sux:dugud[heavy]V/i sux:me[be]V/i
+c.0.2.08,OB catalogue from Nibru (N4),,F4,sux-x-emesal:naŋ[fate]N
+c.0.2.08,OB catalogue from Nibru (N4),,F5,sux:ud[sun]N sux:zal[pass]V/t
+c.0.2.08,OB catalogue from Nibru (N4),,F6,sux:zig[rise]V/t
+c.0.2.08,OB catalogue from Nibru (N4),,F7,sux:hulu[bad]V/i
+c.0.2.08,OB catalogue from Nibru (N4),,G1,
+c.0.2.08,OB catalogue from Nibru (N4),,G2,
+c.0.2.08,OB catalogue from Nibru (N4),,G3,sux:e[house]N
+c.0.2.08,OB catalogue from Nibru (N4),,G4,sux:nin[lady]N
+c.0.2.08,OB catalogue from Nibru (N4),,G5,
+c.0.2.08,OB catalogue from Nibru (N4),,G6,

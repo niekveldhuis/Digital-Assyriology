@@ -1,0 +1,236 @@
+etcsl_no,text_name,version,l_no,text
+c.6.1.05,Proverbs: collection 5,,A1,sux:amsi[elephant]N sux:ni[self]RP sux:mašanše[animals]N sux:Šakkan[1]DN
+c.6.1.05,Proverbs: collection 5,,A2,sux:niŋ[thing]N sux:ŋaʾe[I]IP sux:ŋal[be]V/i sux:dug[speak]V/t
+c.6.1.05,Proverbs: collection 5,,A3,sux:altirigu[wren]N sux:gi[turn]V/i
+c.6.1.05,Proverbs: collection 5,,A4,sux:u[and]CNJ sux:ŋaʾe[I]IP sux:igiten[fraction]N
+c.6.1.05,Proverbs: collection 5,,A5,sux:zaʾe[you]IP sux:dim[create]V/t
+c.6.1.05,Proverbs: collection 5,,A6,sux:amsi[elephant]N sux:ma[ship]N sux:su[sink]V/t sux:ed[ascend]V/i sux:ŋen[go]V/i
+c.6.1.05,Proverbs: collection 5,,A7,sux:am[bull]N sux:niŋgig[bad-thing]N sux:apin[plow]N
+c.6.1.05,Proverbs: collection 5,,A8,sux:am[bull]N sux:namsag[pleasure]N sux:ni[self]RP sux:sag[good]V/i
+c.6.1.05,Proverbs: collection 5,,A9,sux:am[bull]N sux:numun[grass]N sux:niŋin[encircle]V/t
+c.6.1.05,Proverbs: collection 5,,A10,sux:am[bull]N sux:apin[plow]N sux:du[spread]V/t
+c.6.1.05,Proverbs: collection 5,,A11,sux:am[bull]N sux:gi[reed]N sux:tug[textile]N sux:ur[drag]V/t
+c.6.1.05,Proverbs: collection 5,,A11A,sux:am[bull]N sux:gu[neck]N sux:e[leave]V/i sux:gu[neck]N
+c.6.1.05,Proverbs: collection 5,,A11B,sux:an[sky]N
+c.6.1.05,Proverbs: collection 5,,A11C,sux:am[bull]N sux:a[arm]N sux:kalag[strong]V/i sux:du[push]V/t
+c.6.1.05,Proverbs: collection 5,,A11D,sux:am[bull]N sux:una[wild]AJ
+c.6.1.05,Proverbs: collection 5,,A11E,sux:am[bull]N sux:ni[fear]N sux:ir[mighty]AJ
+c.6.1.05,Proverbs: collection 5,,A12,sux:gud[ox]N sux:ŋiri[foot]N sux:dab[seize]V/t
+c.6.1.05,Proverbs: collection 5,,A13,sux:gud[ox]N sux:aga[rear]N sux:gur[turn]V/i sux:zu[know]V/t
+c.6.1.05,Proverbs: collection 5,,A14,sux:gud[ox]N sux:naŋa[potash]N sux:dub[tremble]V/t sux:urgir[dog]N sux:kag[mouth]N sux:du[spread]V/t
+c.6.1.05,Proverbs: collection 5,,A15,sux:gud[ox]N sux:a[arm]N sux:la[hang]V/t sux:lu[person]N sux:a[arm]N sux:la[hang]V/t sux:gal[big]V/i
+c.6.1.05,Proverbs: collection 5,,A16,sux:gud[ox]N sux:il[raise]V/t
+c.6.1.05,Proverbs: collection 5,,A17,sux:gud[ox]N sux:sur[locus]N sux:absin[furrow]N sux:sag[good]V/i
+c.6.1.05,Proverbs: collection 5,,A18,sux:gud[ox]N
+c.6.1.05,Proverbs: collection 5,,A19,
+c.6.1.05,Proverbs: collection 5,,B1,sux:gud[ox]N
+c.6.1.05,Proverbs: collection 5,,B2,
+c.6.1.05,Proverbs: collection 5,,B3,sux:gud[ox]N sux:šar[3600]NU sux:šurum[litter]N sux:ŋal[be]V/i
+c.6.1.05,Proverbs: collection 5,,B4,sux:gud[ox]N sux:lu[abundant]V/i sux:šurum[litter]N sux:deg[collect]V/t
+c.6.1.05,Proverbs: collection 5,,B5,sux:gud[ox]N sux:šabra[administrator]N sux:sila[street]N sux:niŋin[encircle]V/t
+c.6.1.05,Proverbs: collection 5,,B6,sux:gud[ox]N sux:lugal[king]N sux:hul[rejoice]V/i sux:sukkal[secretary]N sux:abula[gate]N
+c.6.1.05,Proverbs: collection 5,,B7,sux:ab[cow]N sux:šag[heart]N sux:gin[firm]V/i sux:gud[jump]V/t sux:si[horn]N sux:tub[strike]V/t
+c.6.1.05,Proverbs: collection 5,,B8,sux:ab[cow]N sux:sua[cat]N sux:egir[back]N sux:lu[person]N sux:gigur[container]N sux:ŋen[go]V/i
+c.6.1.05,Proverbs: collection 5,,B9,sux:ab[cow]N sux:šagsuga[waste]N sux:lu[person]N sux:name[any]AJ sux:šu[hand]N sux:bar[outside]V/t
+c.6.1.05,Proverbs: collection 5,,B10,
+c.6.1.05,Proverbs: collection 5,,B11,sux:ab[cow]N sux:utud[bear]V/t sux:amar[young]N sux:me[be]V/i sux:kiŋ[seek]V/t
+c.6.1.05,Proverbs: collection 5,,B12,sux:ab[cow]N sux:ambar[reed-bed]N sux:amar[young]N sux:barim[land]N sux:dib[pass]V/t
+c.6.1.05,Proverbs: collection 5,,B13,sux:amar[young]N sux:šag[heart]N sux:kur[enter]V/i
+c.6.1.05,Proverbs: collection 5,,B14,sux:e[leave]V/i sux:zu[know]V/t sux:sipad[shepherd]N sux:saŋ[head]N sux:en[cvne]N sux:tar[cut]V/t
+c.6.1.05,Proverbs: collection 5,,B15,sux:šakir[churn]N sux:šub[fall]V/t sux:šakir[churn]N sux:gaz[kill]V/t
+c.6.1.05,Proverbs: collection 5,,B16,sux:ud[sun]N sux:amar[young]N sux:e[leave]V/i sux:amar[young]N sux:gurum[bend]V/t
+c.6.1.05,Proverbs: collection 5,,B17,sux:u[and]CNJ sux:šakir[churn]N sux:gaz[kill]V/t
+c.6.1.05,Proverbs: collection 5,,B18,sux:sisi[horse]N sux:hur[scratch]V/t sux:naŋ[drink]V/t
+c.6.1.05,Proverbs: collection 5,,B19,sux:sisi[horse]N sux:lu[person]N sux:u[ride]V/t sux:šub[fall]V/t
+c.6.1.05,Proverbs: collection 5,,B20,sux:tukumbi[if]CNJ sux:gun[load]N sux:dari[eternal]V/i
+c.6.1.05,Proverbs: collection 5,,B21,sux:nen[this]DP sux:sig[weak]V/i
+c.6.1.05,Proverbs: collection 5,,B22,sux:anše[equid]N sux:barag[sack]N sux:la[hang]V/t sux:šub[fall]V/t
+c.6.1.05,Proverbs: collection 5,,B23,sux:dulum[toil]N sux:udbita[former]AJ sux:ŋeštug[ear]N sux:ŋeštug-ulu[forget]V/t
+c.6.1.05,Proverbs: collection 5,,B24,sux:anše[equid]N
+c.6.1.05,Proverbs: collection 5,,C1,sux:anše[equid]N sux:šub[fall]V/t sux:urgir[dog]N
+c.6.1.05,Proverbs: collection 5,,C2,sux:anše[equid]N sux:id[river]N sux:dirig[float]V/i sux:urgir[dog]N sux:šu[hand]N sux:deg[collect]V/t
+c.6.1.05,Proverbs: collection 5,,C3,sux:menam[when?]N sux:ed[ascend]V/i sux:gu[eat]V/t
+c.6.1.05,Proverbs: collection 5,,C4,sux:anše[equid]N sux:mu[year]N sux:du[build]V/t sux:a[arm]N sux:bala[turn]V/t
+c.6.1.05,Proverbs: collection 5,,C5,sux:itud[moon]N sux:izi[fire]N sux:sag[beat]V/t
+c.6.1.05,Proverbs: collection 5,,C6,sux:anše[equid]N sux:ineš[now]MA sux:tuš[sit]V/i sux:ŋeš[penis]N sux:birig[sneer]V/t sux:il[raise]V/t
+c.6.1.05,Proverbs: collection 5,,C7,sux:anše[equid]N sux:kug[metal]N sux:1[1]NU sux:giŋ[unit]N sux:bala[turn]V/t sux:ak[do]V/t
+c.6.1.05,Proverbs: collection 5,,C8,sux:anše[equid]N sux:bar[outside]V/t sux:udu[sheep]N sux:hi[mix]V/t sux:ŋeškim[sign]N sux:tuku[acquire]V/t
+c.6.1.05,Proverbs: collection 5,,C9,sux:anše[equid]N sux:kalag[strong]V/i
+c.6.1.05,Proverbs: collection 5,,C10,sux:e[house]N sux:murum[in-law]N sux:tuš[sit]V/i
+c.6.1.05,Proverbs: collection 5,,C11,sux:il[raise]V/t sux:saŋ[head]N sux:kal[rare]V/i
+c.6.1.05,Proverbs: collection 5,,C12,sux:anše[equid]N sux:murgu[shoulder]N sux:rah[beat]V/t
+c.6.1.05,Proverbs: collection 5,,C13,sux:ana[what?]QP sux:eme[tongue]N
+c.6.1.05,Proverbs: collection 5,,C14,sux:anše[equid]N sux:eden[back]N sux:dib[pass]V/t sux:teŋ[approach]V/i
+c.6.1.05,Proverbs: collection 5,,C15,sux:dur[buttocks]N sux:zig[rise]V/t
+c.6.1.05,Proverbs: collection 5,,C16,sux:anše[equid]N sux:zana[unmng]N sux:tar[cut]V/t sux:lu[person]N sux:zana[unmng]N sux:tar[cut]V/t sux:pad[find]V/t
+c.6.1.05,Proverbs: collection 5,,C17,sux:ak[do]V/t sux:u[and]CNJ sux:ŋen[go]V/i
+c.6.1.05,Proverbs: collection 5,,C18,sux:anše[equid]N sux:tur[ill]N sux:ed[ascend]V/i
+c.6.1.05,Proverbs: collection 5,,C19,sux:en[lord]N sux:su[flesh]N sux:sag[good]V/i
+c.6.1.05,Proverbs: collection 5,,C20,sux:tukumbi[if]CNJ sux:en[lord]N sux:su[flesh]N sux:sag[good]V/i
+c.6.1.05,Proverbs: collection 5,,C21,sux:zu[know]V/t sux:gugal[inspector]N sux:ŋal[be]V/i sux:DU[DU]V
+c.6.1.05,Proverbs: collection 5,,C22,sux:u[and]CNJ sux:ŋiripadra[bone]N sux:sag[good]V/i
+c.6.1.05,Proverbs: collection 5,,D1,sux:anše[equid]N sux:kaš[urine]N sux:lu[abundant]V/i
+c.6.1.05,Proverbs: collection 5,,D2,sux:anše[equid]N sux:nam[fate]N
+c.6.1.05,Proverbs: collection 5,,D3,sux:urmah[lion]N sux:uzud[goat]N sux:hunu[weak]V/i sux:dab[seize]V/t
+c.6.1.05,Proverbs: collection 5,,D4,sux:šu[hand]N sux:ba[allot]V/t sux:u[ewe]N sux:tab[double]V/t sux:gur[turn]V/i sux:šum[give]V/t
+c.6.1.05,Proverbs: collection 5,,D5,sux:tukumbi[if]CNJ sux:šu[hand]N sux:bar[outside]V/t sux:mu[name]N sux:dug[speak]V/t
+c.6.1.05,Proverbs: collection 5,,D6,sux:uzud[goat]N sux:urmah[lion]N sux:gi[turn]V/i sux:zaʾe[you]IP sux:mu[name]N sux:zu[know]V/t
+c.6.1.05,Proverbs: collection 5,,D7,sux:umun[knowledge]N sux:ak[do]V/t sux:mu[name]N
+c.6.1.05,Proverbs: collection 5,,D8,sux:ud[sun]N sux:urmah[lion]N sux:tur[stall]N sux:ŋen[go]V/i
+c.6.1.05,Proverbs: collection 5,,D9,sux:urmah[lion]N sux:bur[spread]V/t sux:gu[voice]N sux:de[pour]V/t
+c.6.1.05,Proverbs: collection 5,,D10,sux:ane[he]IP sux:gure[that-side]N sux:gi[turn]V/i
+c.6.1.05,Proverbs: collection 5,,D11,sux:bur[spread]V/t sux:umun[knowledge]N sux:ak[do]V/t sux:bar[outside]V/t sux:udu[sheep]N sux:hi[mix]V/t sux:tuš[sit]V/i
+c.6.1.05,Proverbs: collection 5,,D12,sux:ud[sun]N sux:urmah[lion]N sux:tur[stall]N sux:urgir[dog]N sux:eš[rope]N sux:siki[hair]N sux:sur[press]V/t sux:mur[dress]V/t
+c.6.1.05,Proverbs: collection 5,,D13,sux:urmah[lion]N sux:šah[pig]N sux:gi[thicket]N sux:dab[seize]V/t
+c.6.1.05,Proverbs: collection 5,,D14,sux:ane[he]IP sux:gu[voice]N sux:rah[beat]V/t
+c.6.1.05,Proverbs: collection 5,,D15,sux:en[lord]N sux:uzu[flesh]N sux:kag[mouth]N sux:si[fill]V/t
+c.6.1.05,Proverbs: collection 5,,D16,sux:zipaŋ[breath]N sux:ŋeštug[ear]N sux:u[cvne]N sux:hub[cvve]V/t
+c.6.1.05,Proverbs: collection 5,,D17,sux:urmah[lion]N sux:pu[well]N sux:niŋ[thing]N sux:ŋiri[foot]N sux:šub[fall]V/t
+c.6.1.05,Proverbs: collection 5,,D18,sux:kaʾa[fox]N sux:ugu[skull]N sux:ŋen[go]V/i sux:esir[shoe]N
+c.6.1.05,Proverbs: collection 5,,D19,sux:gu[neck]N sux:e[house]N sux:de[bring]V/t
+c.6.1.05,Proverbs: collection 5,,D20,sux:urmah[lion]N sux:atah[helper]N sux:gi[thicket]N sux:lu[abundant]V/i
+c.6.1.05,Proverbs: collection 5,,D21,sux:urmah[lion]N sux:gi[thicket]N sux:lu[person]N sux:zu[know]V/t sux:gu[eat]V/t
+c.6.1.05,Proverbs: collection 5,,D22,sux:urmah[lion]N sux:lu[person]N sux:kišib[seal]N sux:sag[beat]V/t sux:sig[put]V/t
+c.6.1.05,Proverbs: collection 5,,D23,sux:e[house]N sux:tukul[weapon]N sux:me[be]V/i sux:sig[put]V/t
+c.6.1.05,Proverbs: collection 5,,D24,sux:urmah[lion]N sux:šaneša[supplication]N sux:til[live]V/i sux:šu[hand]N sux:teŋ[approach]V/i
+c.6.1.05,Proverbs: collection 5,,D25,sux:urmah[lion]N sux:gu[voice]N sux:rah[beat]V/t
+c.6.1.05,Proverbs: collection 5,,D26,sux:niŋgu[food]N sux:šub[fall]V/t
+c.6.1.05,Proverbs: collection 5,,D27,sux:urmah[lion]N sux:niŋara[groats]N sux:gu[eat]V/t
+c.6.1.05,Proverbs: collection 5,,D28,sux:urmah[lion]N sux:namlukurunak[~brewer]N sux:ak[do]V/t
+c.6.1.05,Proverbs: collection 5,,D29,sux:urmah[lion]N sux:tu[soup]N sux:kum[hot]V/i
+c.6.1.05,Proverbs: collection 5,,D30,sux:aba[who?]QP sux:dug[good]V/i sux:dug[speak]V/t
+c.6.1.05,Proverbs: collection 5,,D31,sux:ki[place]N sux:urmah[lion]N sux:lu[person]N sux:gu[eat]V/t
+c.6.1.05,Proverbs: collection 5,,D32,sux:2-kam-ma[2nd]NU sux:lu[person]N sux:name[any]AJ sux:dib[pass]V/t
+c.6.1.05,Proverbs: collection 5,,D33,sux:igi[eye]N sux:urmah[lion]N sux:uzu[flesh]N sux:gu[eat]V/t
+c.6.1.05,Proverbs: collection 5,,D34,
+c.6.1.05,Proverbs: collection 5,,D35,sux:a[water]N sux:naŋ[drink]V/t sux:zig[rise]V/t
+c.6.1.05,Proverbs: collection 5,,D36,sux:urmah[lion]N sux:ane[he]IP sux:teŋ[approach]V/i
+c.6.1.05,Proverbs: collection 5,,D37,sux:urbara[wolf]N sux:sar[run]V/i
+c.6.1.05,Proverbs: collection 5,,D38,sux:uzu[flesh]N sux:urbara[wolf]N sux:gu[eat]V/t
+c.6.1.05,Proverbs: collection 5,,D38A,sux:mah[great]V/i sux:gurum[bend]V/t
+c.6.1.05,Proverbs: collection 5,,D39,sux:kud[fish]N sux:urmah[lion]N sux:ki[place]N sux:aŋ[measure]V/t sux:kud[cut]V/t sux:zu[know]V/t
+c.6.1.05,Proverbs: collection 5,,D40,sux:urbara[wolf]N sux:9[9]NU sux:10[10]NU sux:udu[sheep]N sux:hi[mix]V/t sux:dab[seize]V/t
+c.6.1.05,Proverbs: collection 5,,D41,sux:1[1]NU sux:si[fill]V/t sux:hala[share]N sux:hal[divide]V/t
+c.6.1.05,Proverbs: collection 5,,D42,sux:kaʾa[fox]N sux:ugu[skull]N sux:ŋen[go]V/i
+c.6.1.05,Proverbs: collection 5,,D43,sux:ŋaʾe[I]IP sux:hal[divide]V/t
+c.6.1.05,Proverbs: collection 5,,D44,sux:9[9]NU sux:menzen[you]IP sux:1[1]NU sux:šu[hand]N sux:teŋ[approach]V/i
+c.6.1.05,Proverbs: collection 5,,D45,sux:ŋaʾe[I]IP sux:dili[single]V/i sux:9[9]NU sux:šu[hand]N sux:teŋ[approach]V/i
+c.6.1.05,Proverbs: collection 5,,D46,sux:nen[this]DP sux:hala[share]N sux:šag[heart]N
+c.6.1.05,Proverbs: collection 5,,D47,sux:urbara[wolf]N sux:gu[eat]V/t sux:Utu[1]DN sux:igi[eye]N sux:du[spread]V/t
+c.6.1.05,Proverbs: collection 5,,D48,sux:enna[until]CNJ sux:meteš[praise]N sux:e[leave]V/i
+c.6.1.05,Proverbs: collection 5,,D49,sux:buluŋ[grow]V/t
+c.6.1.05,Proverbs: collection 5,,D50,sux:urbara[wolf]N sux:alal[tube]N sux:ur[roof]N sux:e[house]N
+c.6.1.05,Proverbs: collection 5,,D51,sux:muʾimma[last-year]N sux:zeda[stench]N sux:SAR[nauseated?]V/i
+c.6.1.05,Proverbs: collection 5,,D52,sux:menden[we]IP sux:mu[year]N sux:SAR[nauseated?]V/i
+c.6.1.05,Proverbs: collection 5,,D53,sux:menam[when?]N sux:zeda[stench]N sux:aš[curse]N sux:bala[turn]V/t
+c.6.1.05,Proverbs: collection 5,,D54,sux:ŋaʾe[I]IP sux:šaŋar[starvation]N sux:tuku[acquire]V/t sux:ana[what?]QP sux:gu[eat]V/t
+c.6.1.05,Proverbs: collection 5,,D55,
+c.6.1.05,Proverbs: collection 5,,D56,sux:urbara[wolf]N
+c.6.1.05,Proverbs: collection 5,,D57,sux:sila[lamb]N sux:tuš[sit]V/i
+c.6.1.05,Proverbs: collection 5,,D58,sux:urbara[wolf]N sux:esad[trap]N sux:tuš[sit]V/i
+c.6.1.05,Proverbs: collection 5,,D59,sux:Utu[1]DN sux:dug[speak]V/t sux:e[leave]V/i
+c.6.1.05,Proverbs: collection 5,,D60,sux:adal[exclamation]MA sux:sila[lamb]N sux:gu[eat]V/t
+c.6.1.05,Proverbs: collection 5,,D61,sux:ud[sun]N sux:šaŋar[starvation]N sux:tuku[acquire]V/t sux:sila[lamb]N sux:šu[hand]N sux:teŋ[approach]V/i
+c.6.1.05,Proverbs: collection 5,,D62,sux:niŋ[thing]N sux:dug[speak]V/t sux:ana[what?]QP sux:me[be]V/i
+c.6.1.05,Proverbs: collection 5,,D63,sux:mu[name]N sux:zid[right]V/i sux:dug[speak]V/t
+c.6.1.05,Proverbs: collection 5,,D64,sux:ŋaʾe[I]IP sux:ana[what?]QP sux:gu[eat]V/t
+c.6.1.05,Proverbs: collection 5,,D65,sux:urbara[wolf]N sux:Utu[1]DN sux:er[tears]N sux:šeš[weep]V/t sux:mašanše[animals]N sux:du[push]V/t
+c.6.1.05,Proverbs: collection 5,,D66,sux:ŋaʾe[I]IP sux:dili[single]V/i
+c.6.1.05,Proverbs: collection 5,,D67,sux:urgir[dog]N sux:lukeškešda[tetherer]N
+c.6.1.05,Proverbs: collection 5,,D68,sux:zu[tooth]N sux:kud[cut]V/t
+c.6.1.05,Proverbs: collection 5,,D69,sux:ki[place]N sux:urbara[wolf]N sux:sila[lamb]N sux:kar[flee]V/t
+c.6.1.05,Proverbs: collection 5,,D70,sux:sipad[shepherd]N sux:udu[sheep]N sux:lu[abundant]V/i
+c.6.1.05,Proverbs: collection 5,,D71,sux:urgir[dog]N sux:ŋiripadra[bone]N sux:sig[put]V/t
+c.6.1.05,Proverbs: collection 5,,D72,sux:urgir[dog]N sux:mašŋik[vision]N sux:mud[joy]N
+c.6.1.05,Proverbs: collection 5,,D73,sux:urgir[dog]N sux:ešdam[tavern]N sux:kur[enter]V/i
+c.6.1.05,Proverbs: collection 5,,D74,sux:niŋ[thing]N sux:name[any]AJ sux:igi[eye]N sux:du[spread]V/t
+c.6.1.05,Proverbs: collection 5,,D75,sux:nen[this]DP sux:ŋal[open]V/t sux:taka[abandon]V/t
+c.6.1.05,Proverbs: collection 5,,D76,sux:urgir[dog]N sux:lugal[king]N sux:dug[speak]V/t
+c.6.1.05,Proverbs: collection 5,,D77,sux:tukumbi[if]CNJ sux:namsag[pleasure]N sux:ŋal[be]V/i
+c.6.1.05,Proverbs: collection 5,,D78,sux:ibiza[loss]N sux:ŋal[be]V/i
+c.6.1.05,Proverbs: collection 5,,D79,sux:urgir[dog]N sux:e[house]N sux:lugal[king]N sux:tuš[sit]V/i
+c.6.1.05,Proverbs: collection 5,,D80,sux:ur[dog]N sux:mu[grow]V/t sux:bar[outside]V/t sux:hul[ring]N sux:hulu[bad]V/i sux:gig[sick]V/i
+c.6.1.05,Proverbs: collection 5,,D81,sux:urgir[dog]N sux:šu[hand]N sux:teŋ[approach]V/i sux:zu[know]V/t
+c.6.1.05,Proverbs: collection 5,,D82,sux:ŋar[place]V/t sux:zu[know]V/t
+c.6.1.05,Proverbs: collection 5,,D83,sux:urgir[dog]N sux:kinkinšu[grindstone]N sux:eme[tongue]N sux:ak[do]V/t
+c.6.1.05,Proverbs: collection 5,,D84,sux:taba[companion]N sux:dug[speak]V/t sux:kiŋgia[messenger]N sux:an[sky]N sux:tug[textile]N sux:ban[unit]N sux:mur[dress]V/t
+c.6.1.05,Proverbs: collection 5,,D85,sux:urgir[dog]N sux:lu[person]N sux:ki[place]N sux:aŋ[measure]V/t sux:zu[know]V/t
+c.6.1.05,Proverbs: collection 5,,D86,sux:ur[dog]N sux:dikud[judge]N sux:kun[tail]N sux:maškim[administrator]N sux:ak[do]V/t
+c.6.1.05,Proverbs: collection 5,,D87,sux:ur[dog]N sux:ŋiripadra[bone]N sux:tukur[chew]V/t
+c.6.1.05,Proverbs: collection 5,,D88,sux:gudu[buttocks]N sux:dug[speak]V/t
+c.6.1.05,Proverbs: collection 5,,D89,sux:gig[sick]V/i
+c.6.1.05,Proverbs: collection 5,,D90,sux:urgir[dog]N sux:lib[fat]N
+c.6.1.05,Proverbs: collection 5,,D91,sux:urgir[dog]N sux:mu[name]N
+c.6.1.05,Proverbs: collection 5,,D92,sux:urgir[dog]N sux:maʾaddir[ferryboat]N sux:gub[stand]V/i
+c.6.1.05,Proverbs: collection 5,,D93,sux:urgir[dog]N sux:NI[NI]V
+c.6.1.05,Proverbs: collection 5,,D94,sux:la[hang]V/t sux:ki[place]N sux:KU-DU[KU-DU]V
+c.6.1.05,Proverbs: collection 5,,D95,sux:urgir[dog]N sux:nam[fate]N sux:zulum[date]N sux:kiri[orchard]N sux:e[leave]V/i
+c.6.1.05,Proverbs: collection 5,,D96,sux:lugal[king]N sux:kiri[orchard]N sux:sar[run]V/i
+c.6.1.05,Proverbs: collection 5,,D97,sux:luzuha[thief]N sux:nen[this]DP sux:nen[this]DP
+c.6.1.05,Proverbs: collection 5,,D98,sux:e[leave]V/i sux:zulum[date]N sux:kal[rare]V/i
+c.6.1.05,Proverbs: collection 5,,D99,sux:en[lord]N
+c.6.1.05,Proverbs: collection 5,,D100,sux:urgir[dog]N sux:lu[person]N
+c.6.1.05,Proverbs: collection 5,,D101,sux:u[and]CNJ sux:tuku[acquire]V/t sux:du[spread]V/t sux:en[lord]N sux:zu[know]V/t
+c.6.1.05,Proverbs: collection 5,,D102,sux:urgir[dog]N
+c.6.1.05,Proverbs: collection 5,,D103,sux:urgir[dog]N sux:saŋdu[head]N
+c.6.1.05,Proverbs: collection 5,,D104,sux:tuku[acquire]V/t
+c.6.1.05,Proverbs: collection 5,,D105,sux:urgir[dog]N sux:ki[place]N sux:zaza[bow]V/i sux:hulu[bad]V/i sux:gig[sick]V/i
+c.6.1.05,Proverbs: collection 5,,D106,sux:urgir[dog]N sux:ellag[ball]N sux:rah[beat]V/t sux:dum-dam[rumbling-noise]N sux:za[cvve]V/t
+c.6.1.05,Proverbs: collection 5,,D107,sux:urgir[dog]N sux:gu[neck]N sux:gid[long]V/i sux:urtur[puppy]N sux:ki[place]N sux:aŋ[measure]V/t
+c.6.1.05,Proverbs: collection 5,,D108,sux:ur[dog]N sux:šag[heart]N sux:dab[seize]V/t sux:igi[eye]N sux:zalag[shine]V/i
+c.6.1.05,Proverbs: collection 5,,D109,sux:ur[dog]N sux:sam[price]N sux:igi[eye]N sux:ŋal[be]V/i sux:gigir[chariot]N sux:sam[price]N sux:hulu[bad]V/i
+c.6.1.05,Proverbs: collection 5,,D110,sux:ur[dog]N sux:sag[good]V/i sux:urtur[puppy]N sux:kur[enter]V/i
+c.6.1.05,Proverbs: collection 5,,D111,sux:ur[dog]N sux:mu[grow]V/t sux:gu[voice]N sux:de[pour]V/t
+c.6.1.05,Proverbs: collection 5,,D112,sux:kug[pure]V/i sux:kuš[skin]N sux:du[build]V/t sux:gi[turn]V/i
+c.6.1.05,Proverbs: collection 5,,D113,sux:ur[dog]N sux:mu[grow]V/t sux:itud[moon]N sux:šu[hand]N
+c.6.1.05,Proverbs: collection 5,,D114,sux:ur[dog]N sux:mu[grow]V/t sux:a[water]N sux:lugal[king]N sux:mah[great]V/i sux:DU[DU]V
+c.6.1.05,Proverbs: collection 5,,D115,sux:ur[dog]N sux:mu[grow]V/t sux:id[river]N sux:gid[long]V/i sux:ak[do]V/t
+c.6.1.05,Proverbs: collection 5,,D116,sux:urgir[dog]N sux:e[house]N sux:ganba[price]N
+c.6.1.05,Proverbs: collection 5,,D117,sux:šaŋanla[trader]N sux:suhub[bolt]N sux:ib[hips]N sux:haš[break]V/t
+c.6.1.05,Proverbs: collection 5,,D118,sux:e[leave]V/i sux:kun[tail]N sux:en[cvne]N sux:tar[cut]V/t
+c.6.1.05,Proverbs: collection 5,,D119,sux:egir[back]N sux:niŋ[thing]N sux:name[any]AJ sux:gub[stand]V/i
+c.6.1.05,Proverbs: collection 5,,D120,sux:niŋ[thing]N sux:sag[good]V/i sux:dug[speak]V/t
+c.6.1.05,Proverbs: collection 5,,D121,sux:ŋi[night]N sux:gur[turn]V/i sux:niŋ[thing]N sux:name[any]AJ sux:šu[hand]N sux:teŋ[approach]V/i
+c.6.1.05,Proverbs: collection 5,,D122,sux:angam[consequently]MA sux:gur[turn]V/i sux:ib[hips]N sux:haš[break]V/t
+c.6.1.05,Proverbs: collection 5,,D123,sux:kun[tail]N sux:ur[drag]V/t sux:sila[street]N sux:tuš[sit]V/i
+c.6.1.05,Proverbs: collection 5,,D124,sux:gibil[new]V/i sux:kun[tail]N sux:en[cvne]N sux:tar[cut]V/t
+c.6.1.05,Proverbs: collection 5,,D125,sux:niŋ[thing]N sux:udbita[former]AJ sux:igi[eye]N sux:e[leave]V/i
+c.6.1.05,Proverbs: collection 5,,D126,sux:urgir[dog]N sux:enten[winter]N sux:BU[BU]V
+c.6.1.05,Proverbs: collection 5,,D127,sux:Eridug[1]SN sux:eš[shrine]N sux:igi[eye]N sux:du[spread]V/t
+c.6.1.05,Proverbs: collection 5,,D128,sux:zag[side]N sux:emeš[summer]N sux:kiri[nose]N sux:attar[derision]N sux:ak[do]V/t
+c.6.1.05,Proverbs: collection 5,,D129,sux:urgir[dog]N sux:šudul[yoke]N sux:niŋ[thing]N sux:name[any]AJ sux:šu[hand]N sux:gunu[speckled]V/i
+c.6.1.05,Proverbs: collection 5,,D130,sux:aga[rear]N sux:gud[ox]N sux:niga[fattened]V/i sux:šum[slaughter]V/t
+c.6.1.05,Proverbs: collection 5,,D131,sux:urgir[dog]N sux:sipad[shepherd]N sux:zi[life]N
+c.6.1.05,Proverbs: collection 5,,D132,sux:urgir[dog]N sux:ŋeššu[manacles]N sux:dab[seize]V/t sux:gabal[fight]N sux:du[build]V/t
+c.6.1.05,Proverbs: collection 5,,D133,sux:urgir[dog]N sux:gu[voice]N sux:rah[beat]V/t
+c.6.1.05,Proverbs: collection 5,,D134,sux:urgir[dog]N sux:zu[tooth]N sux:rah[beat]V/t
+c.6.1.05,Proverbs: collection 5,,D135,sux:ninda[bread]N sux:pad[break]V/t sux:kag[mouth]N
+c.6.1.05,Proverbs: collection 5,,D136,sux:urgir[dog]N sux:ŋeš[tree]N sux:tuku[acquire]V/t sux:zu[know]V/t
+c.6.1.05,Proverbs: collection 5,,D137,sux:enna[until]CNJ sux:ŋeštug[ear]N sux:zu[know]V/t sux:har[ring]N sux:šu[hand]N sux:kar[flee]V/t
+c.6.1.05,Proverbs: collection 5,,D138,sux:urgir[dog]N sux:ur[roof]N sux:ed[ascend]V/i
+c.6.1.05,Proverbs: collection 5,,D139,sux:urgir[dog]N sux:udu[sheep]N sux:hi[mix]V/t sux:šid[count]V/t
+c.6.1.05,Proverbs: collection 5,,D140,sux:ur[dog]N sux:kinud[bedroom]N sux:tuku[acquire]V/t
+c.6.1.05,Proverbs: collection 5,,D141,sux:ur[dog]N sux:kun[tail]N sux:tuku[acquire]V/t
+c.6.1.05,Proverbs: collection 5,,D142,sux:urgir[dog]N sux:gu[voice]N sux:rah[beat]V/t
+c.6.1.05,Proverbs: collection 5,,D143,sux:gu[voice]N sux:de[pour]V/t
+c.6.1.05,Proverbs: collection 5,,D144,sux:urgir[dog]N sux:ŋiri[foot]N sux:deg[collect]V/t
+c.6.1.05,Proverbs: collection 5,,D145,sux:urgir[dog]N sux:kašdea[banquet]N sux:ŋen[go]V/i
+c.6.1.05,Proverbs: collection 5,,D146,sux:ŋiripadra[bone]N sux:igi[eye]N sux:du[spread]V/t sux:ŋen[go]V/i
+c.6.1.05,Proverbs: collection 5,,D147,sux:ki[place]N sux:ŋen[go]V/i sux:dirig[float]V/i sux:nen[this]DP sux:gu[eat]V/t
+c.6.1.05,Proverbs: collection 5,,D148,sux:nig[dog]N sux:še[barley]N sux:u[grass]N sux:a[water]N sux:gu[eat]V/t sux:urtur[puppy]N sux:zu[tooth]N sux:tuku[acquire]V/t
+c.6.1.05,Proverbs: collection 5,,D149,sux:nig[dog]N sux:enna[until]CNJ sux:hunu[weak]V/i sux:urtur[puppy]N sux:igi[eye]N sux:bad[open]V/t
+c.6.1.05,Proverbs: collection 5,,D150,sux:nig[dog]N sux:dumu[child]N sux:saŋ[head]N sux:kešed[bind]V/t sux:ak[do]V/t
+c.6.1.05,Proverbs: collection 5,,D151,sux:ninda[bread]N sux:kisiga[offerings]N sux:gu[eat]V/t
+c.6.1.05,Proverbs: collection 5,,D152,sux:ane[he]IP sux:de[bring]V/t sux:lu[person]N sux:gu[eat]V/t
+c.6.1.05,Proverbs: collection 5,,D153,sux:nig[dog]N sux:utud[bear]V/t sux:erin[people]N sux:zu[tooth]N sux:kud[cut]V/t
+c.6.1.05,Proverbs: collection 5,,D154,sux:nig[dog]N sux:lu[person]N sux:egir[back]N sux:saŋ[head]N sux:sar[run]V/i sux:ŋen[go]V/i
+c.6.1.05,Proverbs: collection 5,,D155,sux:nig[dog]N sux:dubsar[scribe]N sux:ašag[field]N sux:namsaŋ[eminence]N sux:ak[do]V/t
+c.6.1.05,Proverbs: collection 5,,D156,sux:nig[dog]N sux:maš[goat]N sux:dug[speak]V/t sux:sissig[green]V/i
+c.6.1.05,Proverbs: collection 5,,D157,sux:gunu[speckled]V/i sux:dumu[child]N sux:ki[place]N sux:aŋ[measure]V/t
+c.6.1.05,Proverbs: collection 5,,D158,sux:nig[dog]N sux:uddatuš[jester]N sux:ninda[bread]N sux:šukur[ration]N sux:kag[mouth]N
+c.6.1.05,Proverbs: collection 5,,D159,sux:kul[handle]N sux:dikud[judge]N sux:gudu[buttocks]N
+c.6.1.05,Proverbs: collection 5,,D160,sux:nig[dog]N sux:tuku[acquire]V/t sux:sa[equal]V/t sux:dug[speak]V/t
+c.6.1.05,Proverbs: collection 5,,D161,sux:mu[name]N sux:še[call]V/t
+c.6.1.05,Proverbs: collection 5,,E1,
+c.6.1.05,Proverbs: collection 5,,E2,
+c.6.1.05,Proverbs: collection 5,,E3,

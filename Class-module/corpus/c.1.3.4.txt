@@ -1,0 +1,49 @@
+etcsl_no,text_name,version,l_no,text
+c.1.3.4,Inana and Gudam,,A1,sux:Gudam[1]PN sux:iri[city]N
+c.1.3.4,Inana and Gudam,,B1,sux:Gudam[1]PN
+c.1.3.4,Inana and Gudam,,B2,sux:Gudam[1]PN
+c.1.3.4,Inana and Gudam,,B3,sux:Inanak[1]DN
+c.1.3.4,Inana and Gudam,,B4,sux:Gudam[1]PN sux:šag[heart]N sux:Unug[1]SN
+c.1.3.4,Inana and Gudam,,B5,sux:šutum[storehouse]N
+c.1.3.4,Inana and Gudam,,B6,sux:Gudam[1]PN sux:kaš[beer]N sux:kurun[beer]N
+c.1.3.4,Inana and Gudam,,B7,sux:aga[vessel]N sux:aga[vessel]N
+c.1.3.4,Inana and Gudam,,C1,sux:aga[vessel]N sux:gur[thick]V/i
+c.1.3.4,Inana and Gudam,,C2,sux:tilimda[vessel]N sux:magur[barge]N sux:kug[pure]V/i sux:babbar[white]V/i
+c.1.3.4,Inana and Gudam,,C3,sux:zidgu[flour]N sux:sag[rare]V/i sux:suhursumla[fish]N
+c.1.3.4,Inana and Gudam,,C4,sux:kud[fish]N sux:šum[give]V/t sux:kud[fish]N sux:zulum[date]N
+c.1.3.4,Inana and Gudam,,C5,sux:Gudam[1]PN sux:esir[street]N sux:Unug[1]SN sux:šar[3600]NU sux:us[follow]V/t
+c.1.3.4,Inana and Gudam,,C6,sux:šar[3600]NU sux:tukul[weapon]N sux:tuš[sit]V/i
+c.1.3.4,Inana and Gudam,,C7,sux:nar[musician]N sux:Lugalgabaŋal[1]PN sux:gub[stand]V/i sux:e[leave]V/i
+c.1.3.4,Inana and Gudam,,C8,sux:ugnim[army]N sux:igi[eye]N sux:sig[put]V/t
+c.1.3.4,Inana and Gudam,,C9,sux:nar[musician]N sux:endu[song]N sux:šu[hand]N sux:gi[turn]V/i sux:sa[sinew]N sux:šu[hand]N sux:RU[RU]V
+c.1.3.4,Inana and Gudam,,C10,sux:gu[eat]V/t sux:gu[eat]V/t
+c.1.3.4,Inana and Gudam,,C11,sux:ninda[bread]N sux:gu[eat]V/t sux:uzu[flesh]N sux:gu[eat]V/t
+c.1.3.4,Inana and Gudam,,C12,sux:naŋ[drink]V/t sux:naŋ[drink]V/t
+c.1.3.4,Inana and Gudam,,C13,sux:kaš[beer]N sux:naŋ[drink]V/t sux:uš[blood]N sux:naŋ[drink]V/t
+c.1.3.4,Inana and Gudam,,C14,sux:Gudam[1]PN sux:esir[street]N sux:Unug[1]SN sux:šar[3600]NU sux:us[follow]V/t
+c.1.3.4,Inana and Gudam,,C15,sux:šar[3600]NU sux:tukul[weapon]N sux:tuš[sit]V/i
+c.1.3.4,Inana and Gudam,,C16,sux:ak[do]V/t sux:munus[woman]N sux:ŋaʾe[I]IP sux:dug[speak]V/t sux:DU[DU]V
+c.1.3.4,Inana and Gudam,,C17,sux:Gudam[1]PN sux:haš[thigh]N sux:tibir[hand]N sux:rah[beat]V/t sux:ni[fear]N sux:su[flesh]N sux:us[follow]V/t
+c.1.3.4,Inana and Gudam,,C18,sux:Šarur[1]DN sux:a[arm]N sux:namursaŋ[heroism]N sux:šu[hand]N sux:teŋ[approach]V/i
+c.1.3.4,Inana and Gudam,,C19,sux:e[house]N sux:Zabalam[1]SN sux:ŋaʾe[I]IP sux:ki[place]N sux:dal[fly]V/t sux:gi[turn]V/i
+c.1.3.4,Inana and Gudam,,C20,sux:ŋešdal[crossbar]N sux:Eanak[1]TN sux:pa[branch]N sux:kud[cut]V/t
+c.1.3.4,Inana and Gudam,,C21,sux:Gudam[1]PN sux:sila[street]N sux:e[leave]V/i
+c.1.3.4,Inana and Gudam,,C22,sux:Gudam[1]PN sux:esir[street]N sux:Unug[1]SN sux:šar[3600]NU sux:gaz[kill]V/t
+c.1.3.4,Inana and Gudam,,C23,sux:šar[3600]NU sux:tukul[weapon]N sux:uš[die]V/i
+c.1.3.4,Inana and Gudam,,C24,sux:ig[door]N sux:abula[gate]N sux:guru[grind]V/t
+c.1.3.4,Inana and Gudam,,C25,sux:a[water]N sux:gaba[chest]N sux:e[leave]V/i
+c.1.3.4,Inana and Gudam,,C26,sux:šukud[fisherman]N sux:tur[small]V/i sux:šukud[fisherman]N sux:Inanak[1]DN
+c.1.3.4,Inana and Gudam,,C27,sux:durtaba[ax]N sux:bar[outside]V/t
+c.1.3.4,Inana and Gudam,,C28,sux:Gudam[1]PN sux:rah[beat]V/t
+c.1.3.4,Inana and Gudam,,C29,sux:Gudam[1]PN sux:er[tears]N sux:pad[find]V/t sux:šeš[weep]V/t sux:ŋar[place]V/t
+c.1.3.4,Inana and Gudam,,C30,sux:Inanak[1]DN sux:zi[life]N sux:šum[give]V/t
+c.1.3.4,Inana and Gudam,,C31,sux:gud[ox]N sux:kur[mountain]N sux:šum[give]V/t sux:tur[stall]N sux:lu[abundant]V/i
+c.1.3.4,Inana and Gudam,,C32,sux:udu[sheep]N sux:kur[mountain]N sux:šum[give]V/t sux:amaš[sheepfold]N sux:lu[abundant]V/i
+c.1.3.4,Inana and Gudam,,C33,sux:kug[pure]V/i sux:Inanak[1]DN sux:gi[turn]V/i
+c.1.3.4,Inana and Gudam,,C33A,sux:gud[ox]N sux:kur[mountain]N sux:ŋaʾe[I]IP
+c.1.3.4,Inana and Gudam,,C33B,sux:udu[sheep]N sux:kur[mountain]N sux:ŋaʾe[I]IP
+c.1.3.4,Inana and Gudam,,C33C,sux:tukul[weapon]N
+c.1.3.4,Inana and Gudam,,C34,sux:ašag[field]N sux:Zabalam[1]SN sux:dur[buttocks]N sux:ŋar[place]V/t sux:ŋar[place]V/t sux:eduru[village]N sux:kinud[bedroom]N
+c.1.3.4,Inana and Gudam,,C35,sux:daŋal[wide]V/i sux:anše[equid]N sux:huŋ[hire]V/t sux:al-dug[desire]V/t sux:dug[speak]V/t
+c.1.3.4,Inana and Gudam,,C36,sux:Inanak[1]DN sux:namursaŋ[heroism]N sux:dug[speak]V/t
+c.1.3.4,Inana and Gudam,,C37,sux:zamin[lyre]N sux:dug[good]V/i

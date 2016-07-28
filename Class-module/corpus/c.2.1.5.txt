@@ -1,0 +1,322 @@
+etcsl_no,text_name,version,l_no,text
+c.2.1.5,The cursing of Agade,Old Babylonian,1,sux:saŋki[forehead]N sux:gid[long]V/i sux:Enlil[1]DN
+c.2.1.5,The cursing of Agade,Old Babylonian,2,sux:Kiš[1]SN sux:gud[ox]N sux:an[sky]N sux:uš[die]V/i
+c.2.1.5,The cursing of Agade,Old Babylonian,3,sux:e[house]N sux:ki[place]N sux:Unug[1]SN sux:gud[ox]N sux:mah[great]V/i sux:sahar[soil]N sux:gaz[kill]V/t
+c.2.1.5,The cursing of Agade,Old Babylonian,4,sux:ki[place]N sux:ud[sun]N sux:Sargon[1]RN sux:lugal[king]N sux:Agade[1]SN
+c.2.1.5,The cursing of Agade,Old Babylonian,5,sux:sig[weak]V/i sux:iginim[land]N sux:Enlil[1]DN
+c.2.1.5,The cursing of Agade,Old Babylonian,6,sux:namen[priesthood]N sux:namlugal[kingship]N sux:šum[give]V/t
+c.2.1.5,The cursing of Agade,Old Babylonian,7,sux:ud[sun]N sux:eš[shrine]N sux:Agade[1]SN sux:kug[pure]V/i sux:Inanak[1]DN
+c.2.1.5,The cursing of Agade,Old Babylonian,8,sux:emi[household]N sux:mah[great]V/i sux:du[build]V/t
+c.2.1.5,The cursing of Agade,Old Babylonian,9,sux:Ulmaš[1]SN sux:guza[chair]N sux:gub[stand]V/i
+c.2.1.5,The cursing of Agade,Old Babylonian,10,sux:lutur[child]N sux:gibil[new]V/i sux:e[house]N sux:du[build]V/t
+c.2.1.5,The cursing of Agade,Old Babylonian,11,sux:dumu[child]N sux:banda[junior]V/i sux:emi[household]N sux:ŋar[place]V/t
+c.2.1.5,The cursing of Agade,Old Babylonian,12,sux:e[house]N sux:niŋgur[property]N sux:niŋ[thing]N sux:sa[equal]V/t sux:dug[speak]V/t
+c.2.1.5,The cursing of Agade,Old Babylonian,13,sux:iri[city]N sux:dur[buttocks]N sux:ki[place]N sux:ŋar[place]V/t sux:šum[give]V/t
+c.2.1.5,The cursing of Agade,Old Babylonian,14,sux:uŋ[people]N sux:u[grass]N sux:nirŋal[authoritative]AJ sux:gu[eat]V/t
+c.2.1.5,The cursing of Agade,Old Babylonian,15,sux:uŋ[people]N sux:a[water]N sux:nirŋal[authoritative]AJ sux:naŋ[drink]V/t
+c.2.1.5,The cursing of Agade,Old Babylonian,16,sux:saŋ[head]N sux:a[water]N sux:tu[cvve]V/t sux:kisal[courtyard]N sux:hul[rejoice]V/i
+c.2.1.5,The cursing of Agade,Old Babylonian,17,sux:ki[place]N sux:ezem[festival]N sux:uŋ[people]N sux:sissig[green]V/i
+c.2.1.5,The cursing of Agade,Old Babylonian,18,sux:lu[person]N sux:zu[know]V/t sux:teš[unity]N sux:gu[eat]V/t
+c.2.1.5,The cursing of Agade,Old Babylonian,19,sux:lu[person]N sux:bar[outside]V/t sux:mušen[bird]N sux:zu[know]V/t sux:an[sky]N sux:niŋin[encircle]V/t
+c.2.1.5,The cursing of Agade,Old Babylonian,20,sux:Marhaši[1]GN sux:leʾum[board]N sux:gur[turn]V/i
+c.2.1.5,The cursing of Agade,Old Babylonian,21,sux:ugubi[monkey]N sux:amsi[elephant]N sux:mah[great]V/i sux:abzaza[zebu]N sux:umamu[beasts]N sux:ki[place]N sux:bad[open]V/t
+c.2.1.5,The cursing of Agade,Old Babylonian,22,sux:šag[heart]N sux:sila[street]N sux:daŋal[wide]V/i sux:teš[unity]N sux:tag[touch]V/t
+c.2.1.5,The cursing of Agade,Old Babylonian,23,sux:urgir[dog]N sux:urnim[lion]N sux:durah[goat]N sux:kur[mountain]N sux:aslum[sheep]N sux:zulumhi[sheep]N sux:si[fill]V/t
+c.2.1.5,The cursing of Agade,Old Babylonian,24,sux:kug[pure]V/i sux:Inanak[1]DN sux:u[sleep]N sux:ku[place]V/t
+c.2.1.5,The cursing of Agade,Old Babylonian,25,sux:ud[sun]N sux:Agade[1]SN sux:e[house]N sux:ziz[emmer]N sux:kugsig[gold]N sux:si[fill]V/t
+c.2.1.5,The cursing of Agade,Old Babylonian,26,sux:e[house]N sux:ziz[emmer]N sux:babbar[white]V/i sux:kugbabbar[silver]N sux:si[fill]V/t
+c.2.1.5,The cursing of Agade,Old Babylonian,27,sux:arah[storehouse]N sux:še[barley]N sux:urud[copper]N sux:anna[metal]N sux:lagab[block]N sux:zagin[lapis]N sux:sa[equal]V/t sux:dug[speak]V/t
+c.2.1.5,The cursing of Agade,Old Babylonian,28,sux:guru[store]N sux:bar[outside]V/t sux:im[clay]N sux:ur[drag]V/t
+c.2.1.5,The cursing of Agade,Old Babylonian,29,sux:umma[old-woman]N sux:ad[voice]N sux:gi[turn]V/i sux:šum[give]V/t
+c.2.1.5,The cursing of Agade,Old Babylonian,30,sux:abba[father]N sux:kaʾinima[formula]N sux:šum[give]V/t
+c.2.1.5,The cursing of Agade,Old Babylonian,31,sux:kisikil[woman]N sux:kiʾenedi[locus]N sux:šum[give]V/t
+c.2.1.5,The cursing of Agade,Old Babylonian,32,sux:ŋuruš[male]N sux:a[arm]N sux:tukul[weapon]N sux:šum[give]V/t
+c.2.1.5,The cursing of Agade,Old Babylonian,33,sux:didila[smaller]V/i sux:šag[heart]N sux:hul[rejoice]V/i sux:šum[give]V/t
+c.2.1.5,The cursing of Agade,Old Babylonian,34,sux:emegala[nurse]N sux:šu[hand]N sux:gid[long]V/i sux:dumu[child]N sux:šakkanak[general]N
+c.2.1.5,The cursing of Agade,Old Babylonian,35,sux:alŋarsur[drumstick]N sux:enedi[game]N sux:dug[speak]V/t
+c.2.1.5,The cursing of Agade,Old Babylonian,36,sux:iri[city]N sux:šag[heart]N sux:tigi[instrument]N sux:bar[outside]V/t sux:gigid[reed]N sux:zamzam[instrument]N
+c.2.1.5,The cursing of Agade,Old Babylonian,37,sux:kar[harbor]N sux:ma[ship]N sux:us[follow]V/t sux:mudmeŋar[joy]N
+c.2.1.5,The cursing of Agade,Old Babylonian,38,sux:kur[mountain]N sux:usal[meadow]N sux:nud[lie]V/i
+c.2.1.5,The cursing of Agade,Old Babylonian,39,sux:uŋ[people]N sux:ki[place]N sux:sag[good]V/i sux:igi[eye]N sux:du[spread]V/t
+c.2.1.5,The cursing of Agade,Old Babylonian,40,sux:lugal[king]N sux:sipad[shepherd]N sux:Naramsuen[1]RN
+c.2.1.5,The cursing of Agade,Old Babylonian,41,sux:barag[sanctum]N sux:kug[pure]V/i sux:Agade[1]SN sux:ud[sun]N sux:e[leave]V/i
+c.2.1.5,The cursing of Agade,Old Babylonian,42,sux:bad[wall]N sux:hursaŋ[mountain]N sux:an[sky]N sux:us[follow]V/t
+c.2.1.5,The cursing of Agade,Old Babylonian,43,sux:abula[gate]N sux:Idigna[1]WN sux:aʾabak[sea]N sux:ŋen[go]V/i
+c.2.1.5,The cursing of Agade,Old Babylonian,44,sux:kug[pure]V/i sux:Inanak[1]DN sux:kag[mouth]N sux:ŋal[open]V/t sux:taka[abandon]V/t
+c.2.1.5,The cursing of Agade,Old Babylonian,45,sux:Kiengir[1]GN sux:niŋgur[property]N sux:ni[self]RP sux:ma[ship]N sux:gid[long]V/i
+c.2.1.5,The cursing of Agade,Old Babylonian,46,sux:Martu[1]EN sux:kur[mountain]N sux:lu[person]N sux:še[barley]N sux:zu[know]V/t
+c.2.1.5,The cursing of Agade,Old Babylonian,47,sux:gud[ox]N sux:du[push]V/t sux:maš[goat]N sux:du[push]V/t sux:kur[enter]V/i
+c.2.1.5,The cursing of Agade,Old Babylonian,48,sux:Meluha[1]GN sux:lu[person]N sux:kur[mountain]N sux:giggi[black]V/i
+c.2.1.5,The cursing of Agade,Old Babylonian,49,sux:niŋšu[goods]N sux:kur[different]V/i sux:ed[ascend]V/i
+c.2.1.5,The cursing of Agade,Old Babylonian,50,sux:Elam[1]GN sux:Subir[1]GN sux:anše[equid]N sux:barag[sack]N sux:la[hang]V/t sux:niŋ[thing]N sux:la[hang]V/t
+c.2.1.5,The cursing of Agade,Old Babylonian,51,sux:ensik[ruler]N sux:saŋŋa[official]N
+c.2.1.5,The cursing of Agade,Old Babylonian,52,sux:saŋ.DUN₃[recorder]N sux:Guedinak[1]GN
+c.2.1.5,The cursing of Agade,Old Babylonian,53,sux:nindaba[offering]N sux:itud[moon]N sux:zagmuk[new-year]N sux:si[horn]N sux:sa[equal]V/t
+c.2.1.5,The cursing of Agade,Old Babylonian,54,sux:abula[gate]N sux:Agade[1]SN sux:agin[thus]N sux:kušu[tired]V/i sux:ŋal[be]V/i
+c.2.1.5,The cursing of Agade,Old Babylonian,55,sux:nindaba[offering]N sux:kug[pure]V/i sux:Inanak[1]DN sux:šu[hand]N sux:teŋ[approach]V/i sux:zu[know]V/t
+c.2.1.5,The cursing of Agade,Old Babylonian,56,sux:dumuŋir[citizen]N sux:e[house]N sux:ki[place]N sux:ŋar[place]V/t sux:dug[speak]V/t sux:lala[plenty]N sux:gi[turn]V/i
+c.2.1.5,The cursing of Agade,Old Babylonian,57,sux:inim[word]N sux:Ekur[1]TN sux:me[Being]N sux:ŋar[place]V/t
+c.2.1.5,The cursing of Agade,Old Babylonian,58,sux:Agade[1]SN sux:tuku[rock]V/t sux:la[hang]V/t
+c.2.1.5,The cursing of Agade,Old Babylonian,59,sux:Ulmaš[1]SN sux:ni[fear]N sux:teŋ[approach]V/i
+c.2.1.5,The cursing of Agade,Old Babylonian,60,sux:iri[city]N sux:dur[buttocks]N sux:ŋen[go]V/i
+c.2.1.5,The cursing of Agade,Old Babylonian,61,sux:kisikil[woman]N sux:emi[household]N sux:šub[fall]V/t
+c.2.1.5,The cursing of Agade,Old Babylonian,62,sux:kug[pure]V/i sux:Inanak[1]DN sux:eš[shrine]N sux:Agade[1]SN sux:šub[fall]V/t
+c.2.1.5,The cursing of Agade,Old Babylonian,63,sux:ursaŋ[hero]N sux:tukul[weapon]N sux:saŋ[head]N sux:ŋar[place]V/t
+c.2.1.5,The cursing of Agade,Old Babylonian,64,sux:iri[city]N sux:me[battle]N sux:šen[battle]N sux:e[leave]V/i
+c.2.1.5,The cursing of Agade,Old Babylonian,65,sux:lukur[stranger]N sux:gaba[chest]N sux:ri[impose]V/t
+c.2.1.5,The cursing of Agade,Old Babylonian,66,sux:ud[sun]N sux:5[5]NU sux:ud[sun]N sux:10[10]NU
+c.2.1.5,The cursing of Agade,Old Babylonian,67,sux:gilsa[treasure]N sux:namen[priesthood]N sux:aga[tiara]N sux:namlugal[kingship]N
+c.2.1.5,The cursing of Agade,Old Babylonian,68,sux:mansium[emblem]N sux:guza[chair]N sux:namlugal[kingship]N sux:šum[give]V/t
+c.2.1.5,The cursing of Agade,Old Babylonian,69,sux:Ninurtak[1]DN sux:Ešumeša[1]TN sux:kur[enter]V/i
+c.2.1.5,The cursing of Agade,Old Babylonian,70,sux:iri[city]N sux:kaʾinima[formula]N sux:Utu[1]DN sux:de[bring]V/t
+c.2.1.5,The cursing of Agade,Old Babylonian,71,sux:ŋeštug[ear]N sux:Enki[1]DN sux:de[bring]V/t
+c.2.1.5,The cursing of Agade,Old Babylonian,72,sux:melim[splendor]N sux:an[sky]N sux:us[follow]V/t
+c.2.1.5,The cursing of Agade,Old Babylonian,73,sux:An[1]DN sux:anšag[~heaven]N sux:ed[ascend]V/i
+c.2.1.5,The cursing of Agade,Old Babylonian,74,sux:dimgal[pole]N sux:kug[pure]V/i sux:du[build]V/t
+c.2.1.5,The cursing of Agade,Old Babylonian,75,sux:Enki[1]DN sux:abzu[water]N sux:bur[tear]V/t
+c.2.1.5,The cursing of Agade,Old Babylonian,76,sux:tukul[weapon]N sux:Inanak[1]DN sux:de[bring]V/t
+c.2.1.5,The cursing of Agade,Old Babylonian,77,sux:eš[shrine]N sux:Agade[1]SN sux:zi[life]N sux:suhur[carp]N sux:tur[small]V/i sux:engur[waters]N sux:til[complete]V/i
+c.2.1.5,The cursing of Agade,Old Babylonian,78,sux:iri[city]N sux:teš[unity]N sux:igi[eye]N sux:ŋal[be]V/i
+c.2.1.5,The cursing of Agade,Old Babylonian,79,sux:amsi[elephant]N sux:mah[great]V/i sux:gu[neck]N sux:ki[place]N sux:ŋar[place]V/t
+c.2.1.5,The cursing of Agade,Old Babylonian,80,sux:gud[ox]N sux:mah[great]V/i sux:si[horn]N sux:il[raise]V/t
+c.2.1.5,The cursing of Agade,Old Babylonian,81,sux:ušumgal[dragon]N sux:uš[die]V/i sux:saŋ[head]N sux:zir[break]V/t
+c.2.1.5,The cursing of Agade,Old Babylonian,82,sux:me[battle]N sux:dugud[heavy]V/i sux:de[bring]V/t
+c.2.1.5,The cursing of Agade,Old Babylonian,83,sux:namlugal[kingship]N sux:Agade[1]SN sux:kituš[dwelling]N sux:gin[firm]V/i sux:dug[good]V/i sux:tuš[sit]V/i
+c.2.1.5,The cursing of Agade,Old Babylonian,84,sux:egir[back]N sux:niŋ[thing]N sux:name[any]AJ sux:sag[good]V/i
+c.2.1.5,The cursing of Agade,Old Babylonian,85,sux:e[house]N sux:tuku[rock]V/t sux:erim[storeroom]N sux:sag[scatter]V/t sux:dug[speak]V/t
+c.2.1.5,The cursing of Agade,Old Babylonian,86,sux:Naramsuen[1]RN sux:mašŋik[vision]N sux:igi[eye]N sux:du[spread]V/t
+c.2.1.5,The cursing of Agade,Old Babylonian,87,sux:šag[heart]N sux:zu[know]V/t sux:eme[tongue]N sux:ŋar[place]V/t sux:lu[person]N sux:dug[speak]V/t
+c.2.1.5,The cursing of Agade,Old Babylonian,87A,sux:e[house]N sux:tuku[rock]V/t
+c.2.1.5,The cursing of Agade,Old Babylonian,87B,sux:e[house]N sux:maš[goat]N
+c.2.1.5,The cursing of Agade,Old Babylonian,88,sux:nam[fate]N sux:Ekur[1]TN sux:tugmudura[mourning-garment]N sux:mur[dress]V/t
+c.2.1.5,The cursing of Agade,Old Babylonian,89,sux:gigir[chariot]N sux:kidmašagak[mat]N sux:šuš[cover]V/t
+c.2.1.5,The cursing of Agade,Old Babylonian,90,sux:magur[barge]N sux:asumur[canopy]N sux:sig[put]V/t
+c.2.1.5,The cursing of Agade,Old Babylonian,91,sux:ašita[equipment]N sux:namlugal[kingship]N sux:ba[allot]V/t
+c.2.1.5,The cursing of Agade,Old Babylonian,92,sux:Naramsuen[1]RN sux:mu[year]N sux:7[7]NU sux:gin[firm]V/i
+c.2.1.5,The cursing of Agade,Old Babylonian,93,sux:lugal[king]N sux:mu[year]N sux:7[7]NU sux:šu[hand]N sux:saŋ[head]N sux:dug[speak]V/t sux:aba[who?]QP sux:igi[eye]N sux:du[spread]V/t
+c.2.1.5,The cursing of Agade,Old Babylonian,93A,sux:šag[heart]N sux:zu[know]V/t sux:eme[tongue]N sux:ŋar[place]V/t sux:lu[person]N sux:dug[speak]V/t
+c.2.1.5,The cursing of Agade,Old Babylonian,94,sux:e[house]N sux:maš[goat]N sux:gid[long]V/i
+c.2.1.5,The cursing of Agade,Old Babylonian,95,sux:e[house]N sux:du[build]V/t sux:maš[goat]N sux:ŋal[be]V/i
+c.2.1.5,The cursing of Agade,Old Babylonian,96,sux:2-kam-ma[2nd]NU sux:e[house]N sux:maš[goat]N sux:gid[long]V/i
+c.2.1.5,The cursing of Agade,Old Babylonian,97,sux:e[house]N sux:du[build]V/t sux:maš[goat]N sux:ŋal[be]V/i
+c.2.1.5,The cursing of Agade,Old Babylonian,98,sux:sig[put]V/t sux:šu[hand]N sux:bala[turn]V/t
+c.2.1.5,The cursing of Agade,Old Babylonian,99,sux:Enlil[1]DN sux:niŋduga[speech]N sux:kur[different]V/i
+c.2.1.5,The cursing of Agade,Old Babylonian,100,sux:gu[neck]N sux:ŋar[place]V/t sux:sag[scatter]V/t sux:dug[speak]V/t
+c.2.1.5,The cursing of Agade,Old Babylonian,101,sux:erin[people]N sux:zig[rise]V/t sux:ŋar[place]V/t
+c.2.1.5,The cursing of Agade,Old Babylonian,102,sux:atuku[powerful]N sux:kisal[courtyard]N sux:mah[great]V/i sux:kur[enter]V/i
+c.2.1.5,The cursing of Agade,Old Babylonian,103,sux:Ekur[1]TN sux:šu[hand]N sux:kešed[bind]V/t sux:ak[do]V/t
+c.2.1.5,The cursing of Agade,Old Babylonian,104,sux:dubtuku[runner]N sux:lirum[strength]N sux:gurum[bend]V/t
+c.2.1.5,The cursing of Agade,Old Babylonian,105,sux:giguna[terrace]N sux:30[30]NU sux:giŋ[unit]N sux:ak[do]V/t
+c.2.1.5,The cursing of Agade,Old Babylonian,106,sux:nita[male]N sux:lu[person]N sux:lulaga[thief]N sux:iri[city]N sux:de[bring]V/t
+c.2.1.5,The cursing of Agade,Old Babylonian,107,sux:e[house]N sux:kuŋ[stair]N sux:gal[big]V/i sux:ri[impose]V/t
+c.2.1.5,The cursing of Agade,Old Babylonian,108,sux:Ekur[1]TN sux:ma[ship]N sux:mah[great]V/i sux:gul[destroy]V/t
+c.2.1.5,The cursing of Agade,Old Babylonian,109,sux:kur[mountain]N sux:kug[metal]N sux:bal[dig]V/t sux:sahar[soil]N sux:du[spread]V/t
+c.2.1.5,The cursing of Agade,Old Babylonian,110,sux:hursaŋ[mountain]N sux:zagin[lapis]N sux:kud[cut]V/t
+c.2.1.5,The cursing of Agade,Old Babylonian,111,sux:iri[city]N sux:Iškur[1]DN sux:de[pour]V/t sux:gu[neck]N sux:ki[place]N sux:ŋar[place]V/t
+c.2.1.5,The cursing of Agade,Old Babylonian,112,sux:e[house]N sux:Kurerinkud[1]GN sux:me[be]V/i
+c.2.1.5,The cursing of Agade,Old Babylonian,113,sux:hazin[ax]N sux:gal[big]V/i sux:de[pour]V/t
+c.2.1.5,The cursing of Agade,Old Babylonian,114,sux:agasilig[ax]N sux:a[arm]N sux:2[2]NU sux:usar-ak[sharpen]V/t sux:ak[do]V/t
+c.2.1.5,The cursing of Agade,Old Babylonian,115,sux:ur[root]N sux:gidim[fork]N sux:ŋar[place]V/t
+c.2.1.5,The cursing of Agade,Old Babylonian,116,sux:suhuš[foundation]N sux:kalam[land]N sux:ki[place]N sux:la[hang]V/t
+c.2.1.5,The cursing of Agade,Old Babylonian,117,sux:pa[branch]N sux:hazin[ax]N sux:ŋar[place]V/t
+c.2.1.5,The cursing of Agade,Old Babylonian,118,sux:e[house]N sux:ŋuruš[male]N sux:uš[die]V/i sux:gu[neck]N sux:ki[place]N sux:la[hang]V/t
+c.2.1.5,The cursing of Agade,Old Babylonian,119,sux:gu[neck]N sux:kur[mountain]N sux:ki[place]N sux:la[hang]V/t
+c.2.1.5,The cursing of Agade,Old Babylonian,120,sux:alal[tube]N sux:sil[split]V/i
+c.2.1.5,The cursing of Agade,Old Babylonian,121,sux:im[rain]N sux:šeŋ[rain]V/i sux:an[sky]N sux:ed[ascend]V/i
+c.2.1.5,The cursing of Agade,Old Babylonian,122,sux:ŋeškanak[jamb]N sux:sig[put]V/t sux:teš[vigor]N sux:kalam[land]N sux:kur[different]V/i
+c.2.1.5,The cursing of Agade,Old Babylonian,123,sux:kan[gate]N sux:še[barley]N sux:kud[cut]V/t sux:še[barley]N sux:kud[cut]V/t
+c.2.1.5,The cursing of Agade,Old Babylonian,124,sux:šu[hand]N sux:kalam[land]N sux:še[barley]N sux:kud[cut]V/t
+c.2.1.5,The cursing of Agade,Old Babylonian,125,sux:kan[gate]N sux:silim[healthy]V/i sux:al[hoe]N sux:rah[beat]V/t
+c.2.1.5,The cursing of Agade,Old Babylonian,126,sux:kur[mountain]N sux:silim[healthy]V/i sux:kur[different]V/i
+c.2.1.5,The cursing of Agade,Old Babylonian,127,sux:ašag[field]N sux:agar[meadow]N sux:mah[great]V/i sux:aʾeštub[flooding]N sux:daŋal[wide]V/i
+c.2.1.5,The cursing of Agade,Old Babylonian,128,sux:Ekur[1]TN sux:gidim[fork]N sux:gal[big]V/i sux:kuš[channel]N sux:sig[put]V/t
+c.2.1.5,The cursing of Agade,Old Babylonian,129,sux:itima[shrine]N sux:e[house]N sux:ud[sun]N sux:zu[know]V/t sux:uŋ[people]N sux:igi[eye]N sux:bar[outside]V/t
+c.2.1.5,The cursing of Agade,Old Babylonian,130,sux:dubšen[chest]N sux:kug[pure]V/i sux:diŋir[deity]N sux:Akkad[1]GN sux:igi[eye]N sux:bar[outside]V/t
+c.2.1.5,The cursing of Agade,Old Babylonian,131,sux:lahama[being]N sux:dubla[tower]N sux:gal[big]V/i sux:e[house]N sux:gub[stand]V/i
+c.2.1.5,The cursing of Agade,Old Babylonian,132,sux:lu[person]N sux:anzil[abomination]N sux:gu[eat]V/t sux:dug[speak]V/t
+c.2.1.5,The cursing of Agade,Old Babylonian,133,sux:Naramsuen[1]RN sux:šag[heart]N sux:izi[fire]N sux:sag[beat]V/t
+c.2.1.5,The cursing of Agade,Old Babylonian,134,sux:eren[cedar]N sux:šurmen[cypress]N sux:zabalum[juniper]N sux:taškarin[boxwood]N
+c.2.1.5,The cursing of Agade,Old Babylonian,135,sux:ŋeš[tree]N sux:giguna[terrace]N sux:sur[press]V/t
+c.2.1.5,The cursing of Agade,Old Babylonian,136,sux:kugsig[gold]N sux:mi.si.IŠ[chest]N sux:ak[do]V/t
+c.2.1.5,The cursing of Agade,Old Babylonian,137,sux:kugbabbar[silver]N sux:lubšir[bag]N sux:ak[do]V/t
+c.2.1.5,The cursing of Agade,Old Babylonian,138,sux:urud[copper]N sux:še[barley]N sux:mah[great]V/i sux:de[bring]V/t sux:kar[harbor]N sux:si[fill]V/t
+c.2.1.5,The cursing of Agade,Old Babylonian,139,sux:kug[metal]N sux:kugdim[smith]N sux:dim[create]V/t
+c.2.1.5,The cursing of Agade,Old Babylonian,140,sux:za[bead]N sux:zadim[stone-cutter]N sux:dim[create]V/t
+c.2.1.5,The cursing of Agade,Old Babylonian,141,sux:urud[copper]N sux:simug[smith]N sux:tub[strike]V/t
+c.2.1.5,The cursing of Agade,Old Babylonian,142,sux:niŋgur[property]N sux:iri[city]N sux:hulu[bad]V/i sux:me[be]V/i
+c.2.1.5,The cursing of Agade,Old Babylonian,143,sux:e[house]N sux:ma[ship]N sux:gal[big]V/i sux:kar[harbor]N sux:us[follow]V/t
+c.2.1.5,The cursing of Agade,Old Babylonian,144,sux:e[house]N sux:Enlil[1]DN sux:ma[ship]N sux:gal[big]V/i sux:kar[harbor]N sux:us[follow]V/t
+c.2.1.5,The cursing of Agade,Old Babylonian,145,sux:niŋgur[property]N sux:iri[city]N sux:e[leave]V/i
+c.2.1.5,The cursing of Agade,Old Babylonian,146,sux:niŋgur[property]N sux:iri[city]N sux:e[leave]V/i
+c.2.1.5,The cursing of Agade,Old Babylonian,147,sux:Agade[1]SN sux:dimma[thought]N sux:e[leave]V/i
+c.2.1.5,The cursing of Agade,Old Babylonian,148,sux:ma[ship]N sux:kar[harbor]N sux:kur[different]V/i sux:umuš[planning]N sux:Agade[1]SN sux:kur[different]V/i
+c.2.1.5,The cursing of Agade,Old Babylonian,149,sux:ud[storm]N sux:teš[voice]N sux:dug[speak]V/t sux:kalam[land]N sux:teš[unity]N sux:ŋar[place]V/t
+c.2.1.5,The cursing of Agade,Old Babylonian,150,sux:amaru[flood]N sux:zig[rise]V/t sux:gabašuŋar[rival]N sux:tuku[acquire]V/t
+c.2.1.5,The cursing of Agade,Old Babylonian,151,sux:Enlil[1]DN sux:nam[fate]N sux:Ekur[1]TN sux:ki[place]N sux:aŋ[measure]V/t sux:hulu[bad]V/i sux:ana[what?]QP sux:gul[destroy]V/t
+c.2.1.5,The cursing of Agade,Old Babylonian,152,sux:kur[mountain]N sux:Gubin[1]GN sux:igi[eye]N sux:il[raise]V/t
+c.2.1.5,The cursing of Agade,Old Babylonian,153,sux:hursaŋ[mountain]N sux:daŋal[wide]V/i sux:teš[unity]N sux:sig[put]V/t
+c.2.1.5,The cursing of Agade,Old Babylonian,154,sux:uŋ[people]N sux:sig[put]V/t sux:kalam[land]N sux:šid[count]V/t
+c.2.1.5,The cursing of Agade,Old Babylonian,155,sux:Gutium[1]GN sux:uŋ[people]N sux:kešed[bind]V/t sux:zu[know]V/t
+c.2.1.5,The cursing of Agade,Old Babylonian,156,sux:dimma[thought]N sux:lulu[man]N sux:ŋalga[forethought]N sux:ur[dog]N sux:uludin[form]N sux:ugubi[monkey]N
+c.2.1.5,The cursing of Agade,Old Babylonian,157,sux:Enlil[1]DN sux:kur[mountain]N sux:e[leave]V/i
+c.2.1.5,The cursing of Agade,Old Babylonian,158,sux:buru[sparrow]N sux:ki[place]N sux:us[follow]V/t
+c.2.1.5,The cursing of Agade,Old Babylonian,159,sux:a[arm]N sux:gu[cord]N sux:mašanše[animals]N sux:eden[back]N sux:la[hang]V/t
+c.2.1.5,The cursing of Agade,Old Babylonian,160,sux:niŋ[thing]N sux:name[any]AJ sux:a[arm]N sux:e[leave]V/i
+c.2.1.5,The cursing of Agade,Old Babylonian,161,sux:lu[person]N sux:name[any]AJ sux:a[arm]N sux:taka[abandon]V/t
+c.2.1.5,The cursing of Agade,Old Babylonian,162,sux:kiŋgia[messenger]N sux:harran[route]N sux:ŋen[go]V/i
+c.2.1.5,The cursing of Agade,Old Babylonian,163,sux:ma[ship]N sux:ragaba[rider]N sux:id[river]N sux:dib[pass]V/t
+c.2.1.5,The cursing of Agade,Old Babylonian,164,sux:uzud[goat]N sux:gin[firm]V/i sux:Enlil[1]DN sux:amaš[sheepfold]N sux:rah[beat]V/t sux:nagada[herdsman]N sux:us[follow]V/t
+c.2.1.5,The cursing of Agade,Old Babylonian,165,sux:šilam[cow]N sux:tur[stall]N sux:rah[beat]V/t sux:unud[cowherd]N sux:us[follow]V/t
+c.2.1.5,The cursing of Agade,Old Babylonian,166,sux:ŋešgu[stock]N sux:ennuŋ[imprisonment]N sux:du[build]V/t
+c.2.1.5,The cursing of Agade,Old Babylonian,167,sux:harran[route]N sux:sagaz[robber]N sux:tuš[sit]V/i
+c.2.1.5,The cursing of Agade,Old Babylonian,168,sux:abula[gate]N sux:kalam[land]N sux:ig[door]N sux:im[clay]N sux:gub[stand]V/i
+c.2.1.5,The cursing of Agade,Old Babylonian,169,sux:kur[mountain]N sux:bad[wall]N sux:iri[city]N sux:gu[voice]N sux:gig[sick]V/i sux:dug[speak]V/t
+c.2.1.5,The cursing of Agade,Old Babylonian,170,sux:iri[city]N sux:šag[heart]N sux:eden[back]N sux:bar[outside]V/t sux:daŋal[wide]V/i sux:me[be]V/i sux:musar[garden]N sux:ŋal[be]V/i
+c.2.1.5,The cursing of Agade,Old Babylonian,171,sux:ud[sun]N sux:iri[city]N sux:dim[create]V/t sux:sig[put]V/t
+c.2.1.5,The cursing of Agade,Old Babylonian,172,sux:ašag[field]N sux:agar[meadow]N sux:gal[big]V/i sux:še[barley]N sux:de[bring]V/t
+c.2.1.5,The cursing of Agade,Old Babylonian,173,sux:ašag[field]N sux:agar[meadow]N sux:sug[empty]V/i sux:kud[fish]N sux:de[bring]V/t
+c.2.1.5,The cursing of Agade,Old Babylonian,174,sux:pukiri[orchard]N sux:lal[syrup]N sux:ŋeštin[vine]N sux:de[bring]V/t
+c.2.1.5,The cursing of Agade,Old Babylonian,175,sux:IM.UD[cloud?]N sux:sir[dense]V/i sux:šeŋ[rain]V/i sux:mašgurum[plant]N sux:mu[grow]V/t
+c.2.1.5,The cursing of Agade,Old Babylonian,176,sux:ud[sun]N sux:i[oil]N sux:1[1]NU sux:giŋ[unit]N sux:1/2[1/2]NU sux:sila[unit]N
+c.2.1.5,The cursing of Agade,Old Babylonian,177,sux:še[barley]N sux:1[1]NU sux:giŋ[unit]N sux:1/2[1/2]NU sux:sila[unit]N
+c.2.1.5,The cursing of Agade,Old Babylonian,178,sux:siki[hair]N sux:1[1]NU sux:giŋ[unit]N sux:1/2[1/2]NU sux:mana[unit]N
+c.2.1.5,The cursing of Agade,Old Babylonian,179,sux:kud[fish]N sux:1[1]NU sux:giŋ[unit]N sux:ban[unit]N sux:si[fill]V/t
+c.2.1.5,The cursing of Agade,Old Babylonian,180,sux:ganba[price]N sux:iri[city]N sux:ur[he]IP sux:sam[price]N
+c.2.1.5,The cursing of Agade,Old Babylonian,181,sux:ur[roof]N sux:nud[lie]V/i sux:ur[roof]N sux:uš[die]V/i
+c.2.1.5,The cursing of Agade,Old Babylonian,182,sux:e[house]N sux:nud[lie]V/i sux:ki[place]N sux:de[bring]V/t
+c.2.1.5,The cursing of Agade,Old Babylonian,183,sux:uŋ[people]N sux:šaŋar[starvation]N sux:ni[self]RP sux:šu[hand]N sux:dub[tremble]V/t
+c.2.1.5,The cursing of Agade,Old Babylonian,184,sux:Kiur[1]TN sux:ki[place]N sux:gal[big]V/i sux:Enlil[1]DN
+c.2.1.5,The cursing of Agade,Old Babylonian,185,sux:ur[dog]N sux:sila[street]N sux:sig[silent]N sux:zu[tooth]N sux:kešed[bind]V/t
+c.2.1.5,The cursing of Agade,Old Babylonian,186,sux:šag[heart]N sux:lu[person]N sux:2[2]NU sux:ŋen[go]V/i sux:teš[unity]N sux:gu[eat]V/t
+c.2.1.5,The cursing of Agade,Old Babylonian,187,sux:lu[person]N sux:3[3]NU sux:ŋen[go]V/i sux:teš[unity]N sux:gu[eat]V/t
+c.2.1.5,The cursing of Agade,Old Babylonian,188,sux:kiri[nose]N sux:dub[heap]V/t sux:saŋ[head]N sux:dab[seize]V/t
+c.2.1.5,The cursing of Agade,Old Babylonian,189,sux:kiri[nose]N sux:dub[heap]V/t sux:saŋ[head]N sux:numun[seed]N sux:ŋar[place]V/t
+c.2.1.5,The cursing of Agade,Old Babylonian,190,sux:saŋ[head]N sux:zid[right]V/i sux:saŋ[head]N sux:lul[false]V/i sux:šu[hand]N sux:bala[turn]V/t sux:ak[do]V/t
+c.2.1.5,The cursing of Agade,Old Babylonian,191,sux:mes[hero]N sux:mes[hero]N sux:an[sky]N sux:nud[lie]V/i
+c.2.1.5,The cursing of Agade,Old Babylonian,192,sux:uš[blood]N sux:lulul[liar]N sux:uš[blood]N sux:lu[person]N sux:zid[right]V/i sux:an[sky]N sux:DU[DU]V
+c.2.1.5,The cursing of Agade,Old Babylonian,193,sux:ud[sun]N sux:Enlil[1]DN sux:eš[shrine]N sux:gal[big]V/i
+c.2.1.5,The cursing of Agade,Old Babylonian,194,sux:eš[shrine]N sux:gi[reed]N sux:tur[small]V/i sux:du[build]V/t
+c.2.1.5,The cursing of Agade,Old Babylonian,195,sux:ud[sun]N sux:e[leave]V/i sux:ud[sun]N sux:šuš[cover]V/t sux:erim[storeroom]N sux:tur[small]V/i
+c.2.1.5,The cursing of Agade,Old Babylonian,196,sux:umma[old-woman]N sux:ud[sun]N sux:taka[abandon]V/t
+c.2.1.5,The cursing of Agade,Old Babylonian,197,sux:abba[father]N sux:ud[sun]N sux:taka[abandon]V/t
+c.2.1.5,The cursing of Agade,Old Babylonian,198,sux:galamah[singer]N sux:mu[year]N sux:taka[abandon]V/t
+c.2.1.5,The cursing of Agade,Old Babylonian,199,sux:ud[sun]N sux:7[7]NU sux:ŋi[night]N sux:7[7]NU
+c.2.1.5,The cursing of Agade,Old Babylonian,200,sux:balaŋ[instrument]N sux:7[7]NU sux:anur[horizon]N sux:gub[stand]V/i sux:ki[place]N sux:us[follow]V/t
+c.2.1.5,The cursing of Agade,Old Babylonian,201,sux:ub[drum]N sux:meze[drum]N sux:lilis[instrument]N sux:Iškur[1]DN sux:šag[heart]N sux:du[play]V/t
+c.2.1.5,The cursing of Agade,Old Babylonian,202,sux:umma[old-woman]N sux:aya[cry]N sux-x-emesal:uru[city]N sux:ŋar[place]V/t
+c.2.1.5,The cursing of Agade,Old Babylonian,203,sux:abba[father]N sux:aya[cry]N sux:lu[person]N sux:ŋar[place]V/t
+c.2.1.5,The cursing of Agade,Old Babylonian,204,sux:gala[singer]N sux:aya[cry]N sux:Ekur[1]TN sux:ŋar[place]V/t
+c.2.1.5,The cursing of Agade,Old Babylonian,205,sux:kisikil[woman]N sux:siki[hair]N sux:šab[cut]V/t sux:ŋar[place]V/t
+c.2.1.5,The cursing of Agade,Old Babylonian,206,sux:ŋuruš[male]N sux:ŋiri[dagger]N sux:sag[beat]V/t sux:ŋar[place]V/t
+c.2.1.5,The cursing of Agade,Old Babylonian,207,sux:er[tears]N sux:er[tears]N sux:ama[mother]N sux:aya[father]N sux:Enlil[1]DN
+c.2.1.5,The cursing of Agade,Old Babylonian,208,sux:dud[mound]N sux:kug[pure]V/i sux:su[flesh]N sux:zig[rise]V/t sux:gur[lift]V/t sux:dub[knee]N sux:kug[pure]V/i sux:Enlil[1]DN sux:ŋar[place]V/t
+c.2.1.5,The cursing of Agade,Old Babylonian,209,sux:nam[fate]N sux:Enlil[1]DN sux:itima[shrine]N sux:kug[pure]V/i sux:kur[enter]V/i sux:šakatab[fasting]N sux:nud[lie]V/i
+c.2.1.5,The cursing of Agade,Old Babylonian,210,sux:ud[sun]N sux:Suen[1]DN sux:Enki[1]DN sux:Inanak[1]DN sux:Ninurtak[1]DN sux:Iškur[1]DN sux:Utu[1]DN sux:Nuska[1]DN sux:Nisabak[1]DN sux:diŋir[deity]N sux:gal[big]V/i
+c.2.1.5,The cursing of Agade,Old Babylonian,211,sux:šag[heart]N sux:Enlil[1]DN sux:a[water]N sux:sed[cold]V/i sux:sed[cold]V/i sux:arazu[supplication]N sux:dug[speak]V/t
+c.2.1.5,The cursing of Agade,Old Babylonian,212,sux:Enlil[1]DN sux:iri[city]N sux:iri[city]N sux:imhul[wind]N sux:iri[city]N sux:du[build]V/t
+c.2.1.5,The cursing of Agade,Old Babylonian,213,sux:giguna[terrace]N sux:šu[hand]N sux:la[hang]V/t sux:Nibru[1]SN sux:du[build]V/t
+c.2.1.5,The cursing of Agade,Old Babylonian,214,sux:iri[city]N sux:saŋ[head]N sux:tul[fountain]N sux:si[fill]V/t
+c.2.1.5,The cursing of Agade,Old Babylonian,215,sux:lu[person]N sux:lu[person]N sux:zu[know]V/t sux:pad[find]V/t
+c.2.1.5,The cursing of Agade,Old Babylonian,216,sux:šeš[brother]N sux:šeš[brother]N sux:ŋeškim[sign]N sux:e[leave]V/i
+c.2.1.5,The cursing of Agade,Old Babylonian,217,sux:kisikil[woman]N sux:emi[household]N sux:ŋeš[tree]N sux:hulu[bad]V/i sux:rah[beat]V/t
+c.2.1.5,The cursing of Agade,Old Babylonian,218,sux:adda[father]N sux:e[house]N sux:dam[spouse]N sux:uš[die]V/i sux:gu[voice]N sux:gig[sick]V/i sux:dug[speak]V/t
+c.2.1.5,The cursing of Agade,Old Babylonian,219,sux:tum[dove]N sux:ablal[nest]N sux:še[barley]N sux:ša[cvve]V/t
+c.2.1.5,The cursing of Agade,Old Babylonian,220,sux:buru[sparrow]N sux:abbur[nook]N sux:niŋ[thing]N sux:rah[beat]V/t
+c.2.1.5,The cursing of Agade,Old Babylonian,221,sux:tum[dove]N sux:ni[fear]N sux:teŋ[approach]V/i sux:ur[liver]N sux:ak[do]V/t
+c.2.1.5,The cursing of Agade,Old Babylonian,222,sux:2-kam-ma[2nd]NU sux:Suen[1]DN sux:Enki[1]DN sux:Inanak[1]DN sux:Ninurtak[1]DN sux:Iškur[1]DN sux:Utu[1]DN sux:Nuska[1]DN sux:Nisabak[1]DN sux:diŋir[deity]N sux:dug[speak]V/t
+c.2.1.5,The cursing of Agade,Old Babylonian,223,sux:iri[city]N sux:igi[eye]N sux:ŋar[place]V/t
+c.2.1.5,The cursing of Agade,Old Babylonian,224,sux:Agade[1]SN sux:aš[curse]N sux:hulu[bad]V/i sux:bala[turn]V/t
+c.2.1.5,The cursing of Agade,Old Babylonian,225,sux:iri[city]N sux:Ekur[1]TN sux:ul[hasten]V/i sux:Enlil[1]DN sux:me[be]V/i
+c.2.1.5,The cursing of Agade,Old Babylonian,226,sux:Agade[1]SN sux:Ekur[1]TN sux:ul[hasten]V/i sux:Enlil[1]DN sux:me[be]V/i
+c.2.1.5,The cursing of Agade,Old Babylonian,227,sux:bad[wall]N sux:kug[pure]V/i sux:enna[until]CNJ sux:sukud[height]N sux:anir[lament]N sux:sa[equal]V/t
+c.2.1.5,The cursing of Agade,Old Babylonian,228,sux:giguna[terrace]N sux:sahar[soil]N sux:dub[heap]V/t
+c.2.1.5,The cursing of Agade,Old Babylonian,229,sux:dubla[tower]N sux:lahama[being]N sux:gub[stand]V/i
+c.2.1.5,The cursing of Agade,Old Babylonian,230,sux:ŋuruš[male]N sux:mah[great]V/i sux:ŋeštin[vine]N sux:naŋ[drink]V/t sux:ki[place]N sux:ŋar[place]V/t
+c.2.1.5,The cursing of Agade,Old Babylonian,231,sux:im[clay]N sux:abzu[water]N sux:gi[turn]V/i
+c.2.1.5,The cursing of Agade,Old Babylonian,232,sux:im[clay]N sux:Enki[1]DN sux:nam[fate]N sux:kud[cut]V/t sux:me[be]V/i
+c.2.1.5,The cursing of Agade,Old Babylonian,233,sux:še[barley]N sux:absin[furrow]N sux:gi[turn]V/i
+c.2.1.5,The cursing of Agade,Old Babylonian,234,sux:še[barley]N sux:Ezina[1]DN sux:nam[fate]N sux:kud[cut]V/t sux:me[be]V/i
+c.2.1.5,The cursing of Agade,Old Babylonian,235,sux:ŋeš[tree]N sux:tir[forest]N sux:gi[turn]V/i
+c.2.1.5,The cursing of Agade,Old Babylonian,236,sux:ŋeš[tree]N sux:Ninildumak[1]DN sux:nam[fate]N sux:kud[cut]V/t sux:me[be]V/i
+c.2.1.5,The cursing of Agade,Old Babylonian,237,sux:gud[ox]N sux:gaz[kill]V/t sux:dam[spouse]N sux:gaz[kill]V/t
+c.2.1.5,The cursing of Agade,Old Babylonian,238,sux:udu[sheep]N sux:šum[slaughter]V/t sux:dumu[child]N sux:šum[slaughter]V/t
+c.2.1.5,The cursing of Agade,Old Babylonian,239,sux:ukur[poor]V/i sux:dumu[child]N sux:kug[pure]V/i sux:pad[find]V/t sux:a[water]N sux:rah[beat]V/t
+c.2.1.5,The cursing of Agade,Old Babylonian,240,sux:karkid[prostitute]N sux:kan[gate]N sux:ešdam[tavern]N sux:ni[self]RP sux:la[hang]V/t
+c.2.1.5,The cursing of Agade,Old Babylonian,241,sux:ama[mother]N sux:nugig[priestess]N sux:ama[mother]N sux:nubar[profession]N sux:dumu[child]N sux:gi[turn]V/i
+c.2.1.5,The cursing of Agade,Old Babylonian,242,sux:kugsig[gold]N sux:kug[metal]N sux:sam[price]N
+c.2.1.5,The cursing of Agade,Old Babylonian,243,sux:kugbabbar[silver]N sux:niŋ[thing]N sux:zaham[shine?]V/i sux:sam[price]N
+c.2.1.5,The cursing of Agade,Old Babylonian,244,sux:urud[copper]N sux:agar[lead]N sux:sam[price]N
+c.2.1.5,The cursing of Agade,Old Babylonian,245,sux:Agade[1]SN sux:atuku[powerful]N sux:a[arm]N sux:kud[cut]V/t
+c.2.1.5,The cursing of Agade,Old Babylonian,246,sux:lub[bag]N sux:dagsi[hook]N sux:il[raise]V/t
+c.2.1.5,The cursing of Agade,Old Babylonian,247,sux:nisku[~equid]N sux:a[arm]N sux:hul[rejoice]V/i sux:ud[sun]N sux:šuš[cover]V/t sux:nud[lie]V/i
+c.2.1.5,The cursing of Agade,Old Babylonian,248,sux:iri[city]N sux:šaŋar[starvation]N sux:uš[die]V/i
+c.2.1.5,The cursing of Agade,Old Babylonian,249,sux:dumuŋir[citizen]N sux:ninda[bread]N sux:sag[good]V/i sux:gu[eat]V/t sux:išim[hunger]N sux:nud[lie]V/i
+c.2.1.5,The cursing of Agade,Old Babylonian,250,sux:lu[person]N sux:saŋ[choose]V/t sux:zig[rise]V/t
+c.2.1.5,The cursing of Agade,Old Babylonian,251,sux:ŋušur[beam]N sux:gu[eat]V/t
+c.2.1.5,The cursing of Agade,Old Babylonian,252,sux:ig[door]N sux:gal[big]V/i sux:guru[shield]N sux:e[house]N sux:adda[father]N
+c.2.1.5,The cursing of Agade,Old Babylonian,253,sux:guru[shield]N sux:zu[tooth]N sux:ur[cvve]V/t
+c.2.1.5,The cursing of Agade,Old Babylonian,254,sux:egal[palace]N sux:šag[heart]N sux:hul[rejoice]V/i sux:du[build]V/t sux:šag[heart]N sux:sag[beat]V/t sux:šub[fall]V/t
+c.2.1.5,The cursing of Agade,Old Babylonian,255,sux:lu[person]N sux:hulu[bad]V/i sux:eden[back]N sux:ki[place]N sux:sig[silent]N sux:gu[voice]N sux:rah[beat]V/t
+c.2.1.5,The cursing of Agade,Old Babylonian,256,sux:ki[place]N sux:uzga[treasure]N sux:šuluh[cleansing]N sux:ŋar[place]V/t
+c.2.1.5,The cursing of Agade,Old Babylonian,257,sux:kaʾa[fox]N sux:dud[mound]N sux:gul[destroy]V/t sux:kun[tail]N sux:ur[drag]V/t
+c.2.1.5,The cursing of Agade,Old Babylonian,258,sux:abula[gate]N sux:kalam[land]N sux:ŋar[place]V/t
+c.2.1.5,The cursing of Agade,Old Babylonian,259,sux:ukuku[bird]N sux:mušen[bird]N sux:šag[heart]N sux:sag[beat]V/t sux:gud[nest]N sux:us[follow]V/t
+c.2.1.5,The cursing of Agade,Old Babylonian,260,sux:iri[city]N sux:tigi[instrument]N sux:u[sleep]N sux:ku[place]V/t
+c.2.1.5,The cursing of Agade,Old Babylonian,261,sux:šag[heart]N sux:hul[rejoice]V/i sux:nud[lie]V/i
+c.2.1.5,The cursing of Agade,Old Babylonian,262,sux:tur[stall]N sux:si[fill]V/t sux:gud[ox]N sux:Nanna[1]DN
+c.2.1.5,The cursing of Agade,Old Babylonian,263,sux:eden[back]N sux:ki[place]N sux:sig[silent]N sux:niŋin[encircle]V/t sux:šeg-gi[make-noise]V/t sux:gi[turn]V/i
+c.2.1.5,The cursing of Agade,Old Babylonian,264,sux:gu[neck]N sux:ma[ship]N sux:gid[long]V/i sux:id[river]N sux:u[grass]N sux:gid[long]V/i sux:mu[grow]V/t
+c.2.1.5,The cursing of Agade,Old Babylonian,265,sux:harran[route]N sux:gigir[chariot]N sux:ŋar[place]V/t sux:anir[grass]N sux:mu[grow]V/t
+c.2.1.5,The cursing of Agade,Old Babylonian,266,sux:2-kam-ma[2nd]NU sux:gu[neck]N sux:ma[ship]N sux:gid[long]V/i sux:ki[place]N sux:ala[silt]N sux:id[river]N
+c.2.1.5,The cursing of Agade,Old Babylonian,267,sux:šeŋbar[animal]N sux:mul[star]N sux:muš[snake]N sux:ul[hasten]V/i sux:kur[mountain]N sux:lu[person]N sux:dib[pass]V/t
+c.2.1.5,The cursing of Agade,Old Babylonian,268,sux:eden[back]N sux:šag[heart]N sux:u[grass]N sux:sag[good]V/i sux:mu[grow]V/t sux:gi[reed]N sux:er[tears]N sux:mu[grow]V/t
+c.2.1.5,The cursing of Agade,Old Babylonian,269,sux:Agade[1]SN sux:a[water]N sux:dug[good]V/i sux:de[pour]V/t sux:a[water]N sux:mun[salt]V/i sux:de[pour]V/t
+c.2.1.5,The cursing of Agade,Old Babylonian,270,sux:iri[city]N sux:tuš[sit]V/i sux:dug[speak]V/t sux:kituš[dwelling]N sux:dug[good]V/i
+c.2.1.5,The cursing of Agade,Old Babylonian,271,sux:Agade[1]SN sux:nud[lie]V/i sux:dug[speak]V/t sux:kinud[bedroom]N sux:dug[good]V/i
+c.2.1.5,The cursing of Agade,Old Babylonian,272,sux:ineš[now]MA sux:Utu[1]DN sux:ud[sun]N sux:nen[this]DP sux:ur[he]IP sux:me[be]V/i
+c.2.1.5,The cursing of Agade,Old Babylonian,273,sux:gu[neck]N sux:ma[ship]N sux:gid[long]V/i sux:id[river]N sux:u[grass]N sux:gid[long]V/i sux:mu[grow]V/t
+c.2.1.5,The cursing of Agade,Old Babylonian,274,sux:harran[route]N sux:gigir[chariot]N sux:ŋar[place]V/t sux:anir[grass]N sux:mu[grow]V/t
+c.2.1.5,The cursing of Agade,Old Babylonian,275,sux:2-kam-ma[2nd]NU sux:gu[neck]N sux:ma[ship]N sux:gid[long]V/i sux:ki[place]N sux:ala[silt]N sux:id[river]N
+c.2.1.5,The cursing of Agade,Old Babylonian,276,sux:šeŋbar[animal]N sux:mul[star]N sux:muš[snake]N sux:ul[hasten]V/i sux:kur[mountain]N sux:lu[person]N sux:dib[pass]V/t
+c.2.1.5,The cursing of Agade,Old Babylonian,277,sux:eden[back]N sux:šag[heart]N sux:u[grass]N sux:sag[good]V/i sux:mu[grow]V/t sux:gi[reed]N sux:er[tears]N sux:mu[grow]V/t
+c.2.1.5,The cursing of Agade,Old Babylonian,278,sux:Agade[1]SN sux:a[water]N sux:dug[good]V/i sux:de[pour]V/t sux:a[water]N sux:mun[salt]V/i sux:de[pour]V/t
+c.2.1.5,The cursing of Agade,Old Babylonian,279,sux:iri[city]N sux:tuš[sit]V/i sux:dug[speak]V/t sux:kituš[dwelling]N sux:dug[good]V/i
+c.2.1.5,The cursing of Agade,Old Babylonian,280,sux:Agade[1]SN sux:nud[lie]V/i sux:dug[speak]V/t sux:kinud[bedroom]N sux:dug[good]V/i
+c.2.1.5,The cursing of Agade,Old Babylonian,281,sux:Agade[1]SN sux:hulu[bad]V/i sux:Inanak[1]DN sux:zamin[lyre]N
+c.2.1.5,The cursing of Agade,Ur III,A1,sux:ŋeštug[ear]N sux:Enki[1]DN sux:de[bring]V/t
+c.2.1.5,The cursing of Agade,Ur III,A2,sux:melim[splendor]N sux:an[sky]N sux:us[follow]V/t
+c.2.1.5,The cursing of Agade,Ur III,A3,sux:an[sky]N sux:anšag[~heaven]N sux:ed[ascend]V/i
+c.2.1.5,The cursing of Agade,Ur III,A4,sux:tar₂.KAK[pole]N sux:kug[pure]V/i sux:du[build]V/t
+c.2.1.5,The cursing of Agade,Ur III,A5,sux:Enki[1]DN sux:abzu[water]N sux:bur[tear]V/t
+c.2.1.5,The cursing of Agade,Ur III,B1,sux:egir[back]N sux:niŋ[thing]N sux:name[any]AJ sux:sag[good]V/i
+c.2.1.5,The cursing of Agade,Ur III,B2,sux:e[house]N sux:tuku[rock]V/t sux:erim[storeroom]N sux:sag[scatter]V/t sux:dug[speak]V/t
+c.2.1.5,The cursing of Agade,Ur III,B3,sux:Naramsuen[1]RN sux:mašŋik[vision]N sux:igi[eye]N sux:du[spread]V/t
+c.2.1.5,The cursing of Agade,Ur III,C1,sux:sig[put]V/t sux:šu[hand]N sux:bala[turn]V/t
+c.2.1.5,The cursing of Agade,Ur III,C2,sux:gu[neck]N sux:ŋar[place]V/t sux:sag[scatter]V/t sux:dug[speak]V/t
+c.2.1.5,The cursing of Agade,Ur III,C3,sux:erin[people]N sux:zig[rise]V/t sux:ŋar[place]V/t
+c.2.1.5,The cursing of Agade,Ur III,C4,sux:atuku[powerful]N sux:kisal[courtyard]N sux:mah[great]V/i sux:kur[enter]V/i
+c.2.1.5,The cursing of Agade,Ur III,C5,sux:Ekur[1]TN sux:šu[hand]N sux:kešed[bind]V/t sux:ak[do]V/t
+c.2.1.5,The cursing of Agade,Ur III,C6,sux:dubtuku[runner]N sux:lirum[strength]N sux:gurum[bend]V/t
+c.2.1.5,The cursing of Agade,Ur III,C7,sux:giguna[terrace]N sux:30[30]NU sux:giŋ[unit]N sux:ak[do]V/t
+c.2.1.5,The cursing of Agade,Ur III,C8,sux:nita[male]N sux:lu₂.KID₂[robber]N sux:iri[city]N sux:ri[impose]V/t
+c.2.1.5,The cursing of Agade,Ur III,C9,sux:e[house]N sux:kuŋ[stair]N sux:gal[big]V/i sux:de[bring]V/t
+c.2.1.5,The cursing of Agade,Ur III,C10,sux:e[house]N sux:kur[mountain]N sux:eren[cedar]N sux:me[be]V/i
+c.2.1.5,The cursing of Agade,Ur III,C11,sux:hazin[ax]N sux:gal[big]V/i sux:de[pour]V/t
+c.2.1.5,The cursing of Agade,Ur III,C11A,sux:agasilig[ax]N sux:a[arm]N sux:2[2]NU sux:usar-ak[sharpen]V/t sux:ak[do]V/t
+c.2.1.5,The cursing of Agade,Ur III,C12,sux:agar[meadow]N sux:mah[great]V/i sux:aʾeštub[flooding]N sux:dugud[heavy]V/i
+c.2.1.5,The cursing of Agade,Ur III,C13,sux:gidim[fork]N sux:gal[big]V/i sux:kuš[channel]N sux:sig[put]V/t
+c.2.1.5,The cursing of Agade,Ur III,C14,sux:ur[root]N sux:gidim[fork]N sux:ŋar[place]V/t
+c.2.1.5,The cursing of Agade,Ur III,D1,sux:šu[hand]N sux:kalam[land]N sux:še[barley]N sux:kud[cut]V/t
+c.2.1.5,The cursing of Agade,Ur III,D2,sux:kan[gate]N sux:silim[healthy]V/i sux:dug[speak]V/t sux:šub[fall]V/t
+c.2.1.5,The cursing of Agade,Ur III,D3,sux:kur[mountain]N sux:silim[healthy]V/i sux:gul[destroy]V/t
+c.2.1.5,The cursing of Agade,Ur III,E1,
+c.2.1.5,The cursing of Agade,Ur III,E2,
+c.2.1.5,The cursing of Agade,Ur III,E3,
+c.2.1.5,The cursing of Agade,Ur III,E4,
+c.2.1.5,The cursing of Agade,Ur III,F1,sux:kiri[nose]N sux:dub[heap]V/t sux:saŋ[head]N sux:tub[strike]V/t
+c.2.1.5,The cursing of Agade,Ur III,F2,sux:kiri[nose]N sux:dub[heap]V/t sux:saŋ[head]N sux:numun[seed]N sux:ŋar[place]V/t
+c.2.1.5,The cursing of Agade,Ur III,F3,sux:mes[hero]N sux:mes[hero]N sux:an[sky]N
+c.2.1.5,The cursing of Agade,Ur III,F4,sux:urin[blood]N sux:lulul[liar]N sux:lu[person]N sux:zid[right]V/i sux:an[sky]N
+c.2.1.5,The cursing of Agade,Ur III,F5,sux:Enlil[1]DN sux:e[house]N sux:gal[big]V/i
+c.2.1.5,The cursing of Agade,Ur III,F6,sux:eš[shrine]N sux:gi[reed]N sux:tur[small]V/i sux:du[build]V/t
+c.2.1.5,The cursing of Agade,Ur III,F7,sux:sig[weak]V/i sux:iginim[land]N

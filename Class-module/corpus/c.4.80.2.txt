@@ -1,0 +1,166 @@
+etcsl_no,text_name,version,l_no,text
+c.4.80.2,The Keš temple hymn,,1,sux:nam[lord]N sux:nun[prince]N sux:nam[lord]N sux:nun[prince]N sux:e[house]N sux:e[leave]V/i
+c.4.80.2,The Keš temple hymn,,2,sux:Enlil[1]DN sux:nam[lord]N sux:nun[prince]N sux:e[house]N sux:e[leave]V/i
+c.4.80.2,The Keš temple hymn,,3,sux:nam[lord]N sux:nun[prince]N sux:namlugal[kingship]N sux:e[house]N sux:e[leave]V/i
+c.4.80.2,The Keš temple hymn,,4,sux:Enlil[1]DN sux:kur[mountain]N sux:igi[eye]N sux:il[raise]V/t
+c.4.80.2,The Keš temple hymn,,5,sux:Enlil[1]DN sux:kur[mountain]N sux:ni[self]RP sux:il[raise]V/t
+c.4.80.2,The Keš temple hymn,,6,sux:an[sky]N sux:ub[corner]N sux:4[4]NU sux:Enlil[1]DN sux:kiri[orchard]N sux:sissig[green]V/i
+c.4.80.2,The Keš temple hymn,,7,sux:Keš[1]SN sux:saŋ[head]N sux:il[raise]V/t sux:ŋal[be]V/i
+c.4.80.2,The Keš temple hymn,,8,sux:Keš[1]SN sux:kur[mountain]N sux:saŋ[head]N sux:il[raise]V/t
+c.4.80.2,The Keš temple hymn,,9,sux:Enlil[1]DN sux:Keš[1]SN sux:zamin[lyre]N sux:dug[speak]V/t
+c.4.80.2,The Keš temple hymn,,10,sux:Nisabak[1]DN sux:nukaš[decision]N
+c.4.80.2,The Keš temple hymn,,11,sux:inim[word]N sux:sa[net]N sux:sur[press]V/t
+c.4.80.2,The Keš temple hymn,,12,sux:dub[tablet]N sux:sar[write]V/t sux:šu[hand]N sux:ŋar[place]V/t
+c.4.80.2,The Keš temple hymn,,13,sux:e[house]N sux:muš[space]N sux:kalam[land]N sux:gud[ox]N sux:huš[reddish]V/i sux:Aratta[1]SN
+c.4.80.2,The Keš temple hymn,,14,sux:e[house]N sux:Keš[1]SN sux:muš[space]N sux:kalam[land]N sux:gud[ox]N sux:huš[reddish]V/i sux:Aratta[1]SN
+c.4.80.2,The Keš temple hymn,,15,sux:hursaŋ[mountain]N sux:mu[grow]V/t sux:an[sky]N sux:gu[neck]N sux:la[hang]V/t
+c.4.80.2,The Keš temple hymn,,16,sux:Ekur[1]TN sux:mu[grow]V/t sux:kur[mountain]N sux:saŋ[head]N sux:il[raise]V/t
+c.4.80.2,The Keš temple hymn,,17,sux:abzu[water]N sux:ri[impose]V/t sux:hursaŋ[mountain]N sux:sissig[green]V/i
+c.4.80.2,The Keš temple hymn,,18,sux:Keš[1]SN sux:rib[surpassing]V/i sux:lu[person]N sux:de[bring]V/t
+c.4.80.2,The Keš temple hymn,,19,sux:ursaŋ[hero]N sux:Ašgi[1]DN sux:rib[surpassing]V/i sux:ama[mother]N sux:utud[bear]V/t
+c.4.80.2,The Keš temple hymn,,20,sux:nin[lady]N sux:Nintur[1]DN sux:rib[surpassing]V/i sux:aba[who?]QP sux:igi[eye]N sux:du[spread]V/t
+c.4.80.2,The Keš temple hymn,,21,sux:e[house]N sux:1-kam-ma[1st]NU
+c.4.80.2,The Keš temple hymn,,22,sux:e[house]N sux:dug[good]V/i sux:ki[place]N sux:dug[good]V/i sux:du[build]V/t
+c.4.80.2,The Keš temple hymn,,23,sux:e[house]N sux:Keš[1]SN sux:e[house]N sux:dug[good]V/i sux:ki[place]N sux:dug[good]V/i sux:du[build]V/t
+c.4.80.2,The Keš temple hymn,,24,sux:magur[barge]N sux:nun[prince]N sux:an[sky]N sux:dirig[float]V/i
+c.4.80.2,The Keš temple hymn,,25,sux:magur[barge]N sux:kug[pure]V/i sux:kan[gate]N sux:si[horn]N sux:ri[impose]V/t
+c.4.80.2,The Keš temple hymn,,26,sux:ma[ship]N sux:an[sky]N sux:muš[space]N sux:kur[mountain]N
+c.4.80.2,The Keš temple hymn,,27,sux:u[ride]V/t sux:ma[ship]N sux:banda[junior]V/i sux:piš[bank]N sux:sur[press]V/t
+c.4.80.2,The Keš temple hymn,,28,sux:e[house]N sux:gud[ox]N sux:murmara[noise]N sux:ša[cvve]V/t sux:ninda[bull]N sux:gu[voice]N sux:nun[prince]N sux:dug[speak]V/t
+c.4.80.2,The Keš temple hymn,,29,sux:e[house]N sux:šag[heart]N sux:lipiš[innards]N sux:kalam[land]N
+c.4.80.2,The Keš temple hymn,,30,sux:aga[rear]N sux:zi[life]N sux:Kiengir[1]GN
+c.4.80.2,The Keš temple hymn,,31,sux:e[house]N sux:ebgal[oval]N sux:an[sky]N sux:us[follow]V/t
+c.4.80.2,The Keš temple hymn,,32,sux:e[house]N sux:zid[right]V/i sux:gal[big]V/i sux:an[sky]N sux:us[follow]V/t
+c.4.80.2,The Keš temple hymn,,33,sux:e[house]N sux:men[tiara]N sux:gal[big]V/i sux:an[sky]N sux:us[follow]V/t
+c.4.80.2,The Keš temple hymn,,34,sux:e[house]N sux:tirana[rainbow]N sux:an[sky]N sux:us[follow]V/t
+c.4.80.2,The Keš temple hymn,,35,sux:e[house]N sux:suh[crown]N sux:anšag[~heaven]N sux:la[hang]V/t
+c.4.80.2,The Keš temple hymn,,36,sux:temen[foundation]N sux:abzu[water]N sux:sig[put]V/t
+c.4.80.2,The Keš temple hymn,,37,sux:ŋissu[shade]N sux:kur[mountain]N sux:dul[cover]V/t
+c.4.80.2,The Keš temple hymn,,38,sux:e[house]N sux:An[1]DN sux:ki[place]N sux:ŋar[place]V/t sux:Enlil[1]DN sux:zamin[lyre]N sux:dug[speak]V/t
+c.4.80.2,The Keš temple hymn,,39,sux:ama[mother]N sux:Nintur[1]DN sux:ešbar[decision]N sux:kiŋ[seek]V/t sux:dug[speak]V/t
+c.4.80.2,The Keš temple hymn,,40,sux:e[house]N sux:Keš[1]SN sux:gurun[fruit]N sux:sissig[green]V/i
+c.4.80.2,The Keš temple hymn,,41,sux:Keš[1]SN sux:rib[surpassing]V/i sux:lu[person]N sux:de[bring]V/t
+c.4.80.2,The Keš temple hymn,,42,sux:ursaŋ[hero]N sux:Ašgi[1]DN sux:rib[surpassing]V/i sux:ama[mother]N sux:utud[bear]V/t
+c.4.80.2,The Keš temple hymn,,43,sux:nin[lady]N sux:Nintur[1]DN sux:rib[surpassing]V/i sux:aba[who?]QP sux:igi[eye]N sux:du[spread]V/t
+c.4.80.2,The Keš temple hymn,,44,sux:e[house]N sux:2-kam-ma[2nd]NU
+c.4.80.2,The Keš temple hymn,,45,sux:e[house]N sux:an[sky]N sux:10[10]NU sux:šar[3600]NU sux:ki[place]N sux:5[5]NU sux:šar[3600]NU
+c.4.80.2,The Keš temple hymn,,46,sux:e[house]N sux:an[sky]N sux:10[10]NU sux:bur[unit]N sux:ki[place]N sux:5[5]NU sux:bur[unit]N
+c.4.80.2,The Keš temple hymn,,47,sux:e[house]N sux:an[sky]N sux:alim[bison]N sux:ki[place]N sux:lulim[stag]N
+c.4.80.2,The Keš temple hymn,,48,sux:e[house]N sux:an[sky]N sux:šeŋbar[animal]N sux:ki[place]N sux:durahmaš[ram]N
+c.4.80.2,The Keš temple hymn,,49,sux:e[house]N sux:an[sky]N sux:šeŋbar[animal]N sux:gunu[speckled]V/i sux:ki[place]N sux:durahmaš[ram]N sux:sissig[green]V/i
+c.4.80.2,The Keš temple hymn,,50,sux:e[house]N sux:an[sky]N sux:mušgu[bird]N sux:sissig[green]V/i sux:ki[place]N sux:u[goose]N sux:a[water]N sux:šuš[cover]V/t
+c.4.80.2,The Keš temple hymn,,51,sux:e[house]N sux:an[sky]N sux:ud[sun]N sux:e[leave]V/i sux:ki[place]N sux:itud[moon]N sux:barag[spread]V/t
+c.4.80.2,The Keš temple hymn,,52,sux:e[house]N sux:an[sky]N sux:šita[weapon]N sux:šul[youth]V/i sux:ki[place]N sux:tun[ax]N
+c.4.80.2,The Keš temple hymn,,53,sux:e[house]N sux:an[sky]N sux:kur[mountain]N sux:ki[place]N sux:idim[spring]N
+c.4.80.2,The Keš temple hymn,,54,sux:e[house]N sux:an[sky]N sux:3-kam-ma[3rd]NU sux:me[be]V/i
+c.4.80.2,The Keš temple hymn,,55,sux:Keš[1]SN sux:rib[surpassing]V/i sux:lu[person]N sux:de[bring]V/t
+c.4.80.2,The Keš temple hymn,,56,sux:ursaŋ[hero]N sux:Ašgi[1]DN sux:rib[surpassing]V/i sux:ama[mother]N sux:utud[bear]V/t
+c.4.80.2,The Keš temple hymn,,57,sux:nin[lady]N sux:Nintur[1]DN sux:rib[surpassing]V/i sux:aba[who?]QP sux:igi[eye]N sux:du[spread]V/t
+c.4.80.2,The Keš temple hymn,,58,sux:e[house]N sux:3-kam-ma[3rd]NU
+c.4.80.2,The Keš temple hymn,,58A,sux:e[house]N sux:ni[fear]N sux:gal[big]V/i sux:ri[impose]V/t sux:An[1]DN sux:mu[name]N sux:mah[great]V/i sux:še[call]V/t
+c.4.80.2,The Keš temple hymn,,58B,sux:e[house]N sux:kur[mountain]N sux:gal[big]V/i sux:Enlil[1]DN sux:nam[fate]N sux:gal[big]V/i sux:tar[cut]V/t
+c.4.80.2,The Keš temple hymn,,58C,sux:e[house]N sux:anunŋal[strong]AJ sux:Anunak[1]DN sux:uŋ[people]N sux:ŋalga[forethought]N sux:šum[give]V/t
+c.4.80.2,The Keš temple hymn,,58D,sux:e[house]N sux:kituš[dwelling]N sux:ni[self]RP sux:dub[tremble]V/t sux:diŋir[deity]N sux:gal[big]V/i
+c.4.80.2,The Keš temple hymn,,58E,sux:e[house]N sux:an[sky]N sux:ki[place]N sux:ŋešhur[plan]N sux:hur[scratch]V/t sux:me[Being]N sux:sikil[pure]V/i sux:šu[hand]N
+c.4.80.2,The Keš temple hymn,,58F,sux:e[house]N sux:kalam[land]N sux:ki[place]N sux:ŋar[place]V/t sux:zagŋara[shrine]N sux:us[follow]V/t
+c.4.80.2,The Keš temple hymn,,58G,sux:e[house]N sux:kur[mountain]N sux:heŋal[plenty]N sux:kirizal[joy]N sux:ud[sun]N sux:zal[pass]V/t
+c.4.80.2,The Keš temple hymn,,58H,sux:e[house]N sux:Ninhursaŋak[1]DN sux:zi[life]N sux:kalam[land]N sux:ki[place]N sux:ŋar[place]V/t
+c.4.80.2,The Keš temple hymn,,58I,sux:e[house]N sux:hursaŋ[mountain]N sux:gal[big]V/i sux:šuluh[cleansing]N sux:tum[suitable]V/i sux:niŋnam[anything]N sux:kur[different]V/i
+c.4.80.2,The Keš temple hymn,,58J,sux:e[house]N sux:ane[he]IP sux:nu[not]V/i sux:kaš[decision]N sux:bar[outside]V/t sux:ŋar[place]V/t
+c.4.80.2,The Keš temple hymn,,58K,sux:e[house]N sux:dug[good]V/i sux:kalam[land]N sux:daŋal[wide]V/i sux:šu[hand]N sux:la[hang]V/t
+c.4.80.2,The Keš temple hymn,,58L,sux:e[house]N sux:uŋ[people]N sux:šar[3600]NU sux:utud[bear]V/t sux:numun[seed]N sux:isimu[sprout]N sux:tuku[acquire]V/t
+c.4.80.2,The Keš temple hymn,,58M,sux:e[house]N sux:lugal[king]N sux:utud[bear]V/t sux:nam[fate]N sux:kalam[land]N sux:tar[cut]V/t
+c.4.80.2,The Keš temple hymn,,58N,sux:e[house]N sux:barag[sanctum]N sux:šukin-dab[prostrate]V/t sux:dab[seize]V/t sux:ak[do]V/t
+c.4.80.2,The Keš temple hymn,,58O,sux:Keš[1]SN sux:rib[surpassing]V/i sux:lu[person]N sux:de[bring]V/t
+c.4.80.2,The Keš temple hymn,,58P,sux:ursaŋ[hero]N sux:Ašgi[1]DN sux:rib[surpassing]V/i sux:ama[mother]N sux:utud[bear]V/t
+c.4.80.2,The Keš temple hymn,,58Q,sux:nin[lady]N sux:Nintur[1]DN sux:rib[surpassing]V/i sux:aba[who?]QP sux:igi[eye]N sux:du[spread]V/t
+c.4.80.2,The Keš temple hymn,,58R,
+c.4.80.2,The Keš temple hymn,,59,sux:iri[city]N sux:me[be]V/i sux:iri[city]N sux:me[be]V/i sux:šag[heart]N sux:aba[who?]QP sux:zu[know]V/t
+c.4.80.2,The Keš temple hymn,,60,sux:e[house]N sux:Keš[1]SN sux:iri[city]N sux:me[be]V/i sux:šag[heart]N sux:aba[who?]QP sux:zu[know]V/t
+c.4.80.2,The Keš temple hymn,,61,sux:šag[heart]N sux:ursaŋ[hero]N sux:si[horn]N sux:si-sa[straighten]V/t
+c.4.80.2,The Keš temple hymn,,62,sux:ešbar[decision]N sux:kiŋ[seek]V/t sux:dug[speak]V/t sux:šu[hand]N sux:gal[big]V/i sux:šu-du[complete]V/t
+c.4.80.2,The Keš temple hymn,,63,sux:e[house]N sux:gud[ox]N sux:du[push]V/t sux:gu[neck]N sux:gur[turn]V/i
+c.4.80.2,The Keš temple hymn,,64,sux:e[house]N sux:gud[ox]N sux:šar[3600]NU sux:gu[eat]V/t
+c.4.80.2,The Keš temple hymn,,65,sux:e[house]N sux:udu[sheep]N sux:šar[3600]NU sux:gu[eat]V/t
+c.4.80.2,The Keš temple hymn,,66,sux:gu[neck]N sux:luh[clean]V/t
+c.4.80.2,The Keš temple hymn,,67,sux:barag[sanctum]N sux:gu[neck]N sux:ŋal[be]V/i
+c.4.80.2,The Keš temple hymn,,68,sux:taškarin[boxwood]N sux:men[tiara]N sux:gur[lift]V/t
+c.4.80.2,The Keš temple hymn,,69,sux:asal[poplar]N sux:tal[broad]V/i sux:sal[thin]V/i
+c.4.80.2,The Keš temple hymn,,70,sux:hursaŋ[mountain]N sux:mu[grow]V/t sux:sissig[green]V/i
+c.4.80.2,The Keš temple hymn,,71,sux:Keš[1]SN sux:rib[surpassing]V/i sux:lu[person]N sux:de[bring]V/t
+c.4.80.2,The Keš temple hymn,,72,sux:ursaŋ[hero]N sux:Ašgi[1]DN sux:rib[surpassing]V/i sux:ama[mother]N sux:utud[bear]V/t
+c.4.80.2,The Keš temple hymn,,73,sux:nin[lady]N sux:Nintur[1]DN sux:rib[surpassing]V/i sux:aba[who?]QP sux:igi[eye]N sux:du[spread]V/t
+c.4.80.2,The Keš temple hymn,,74,sux:e[house]N sux:4-kam-ma[4th]NU
+c.4.80.2,The Keš temple hymn,,75,sux:e[house]N sux:piriŋ[lion]N sux:utud[bear]V/t sux:šag[heart]N sux:ursaŋ[hero]N sux:sud[distant]V/i
+c.4.80.2,The Keš temple hymn,,76,sux:e[house]N sux:Keš[1]SN sux:piriŋ[lion]N sux:utud[bear]V/t sux:šag[heart]N sux:ursaŋ[hero]N sux:sud[distant]V/i
+c.4.80.2,The Keš temple hymn,,77,sux:šag[heart]N sux:ursaŋ[hero]N sux:si[horn]N sux:si-sa[straighten]V/t
+c.4.80.2,The Keš temple hymn,,78,sux:Ninhursaŋak[1]DN sux:ušumgal[dragon]N sux:šag[heart]N sux:tuš[sit]V/i
+c.4.80.2,The Keš temple hymn,,79,sux:Nintur[1]DN sux:ama[mother]N sux:gal[big]V/i sux:utud[bear]V/t sux:ŋar[place]V/t
+c.4.80.2,The Keš temple hymn,,80,sux:Šulpae[1]DN sux:ensik[ruler]N sux:namen[priesthood]N sux:ak[do]V/t
+c.4.80.2,The Keš temple hymn,,81,sux:Ašgi[1]DN sux:ursaŋ[hero]N sux:bisaŋ[basket]N sux:gu[eat]V/t
+c.4.80.2,The Keš temple hymn,,82,sux:Urumaš[1]DN sux:niŋir[herald]N sux:gal[big]V/i sux:eden[back]N sux:til[live]V/i
+c.4.80.2,The Keš temple hymn,,83,sux:e[house]N sux:lulim[stag]N sux:gu[neck]N sux:gur[turn]V/i
+c.4.80.2,The Keš temple hymn,,84,sux:Keš[1]SN sux:rib[surpassing]V/i sux:lu[person]N sux:de[bring]V/t
+c.4.80.2,The Keš temple hymn,,85,sux:ursaŋ[hero]N sux:Ašgi[1]DN sux:rib[surpassing]V/i sux:ama[mother]N sux:utud[bear]V/t
+c.4.80.2,The Keš temple hymn,,86,sux:nin[lady]N sux:Nintur[1]DN sux:rib[surpassing]V/i sux:aba[who?]QP sux:igi[eye]N sux:du[spread]V/t
+c.4.80.2,The Keš temple hymn,,87,sux:e[house]N sux:5-kam-ma[5th]NU
+c.4.80.2,The Keš temple hymn,,88,sux:e[house]N sux:ud[storm]N sux:kigal[platform]N sux:gub[stand]V/i
+c.4.80.2,The Keš temple hymn,,89,sux:am[bull]N sux:babbar[white]V/i sux:eden[back]N sux:gub[stand]V/i
+c.4.80.2,The Keš temple hymn,,90,sux:e[house]N sux:nun[prince]N sux:ki[place]N sux:ŋar[place]V/t sux:tigi[instrument]N sux:ar[praise]N
+c.4.80.2,The Keš temple hymn,,91,sux:e[house]N sux:šag[heart]N sux:lipiš[innards]N sux:kalam[land]N
+c.4.80.2,The Keš temple hymn,,92,sux:aga[rear]N sux:zi[life]N sux:Kiengir[1]GN
+c.4.80.2,The Keš temple hymn,,93,sux:kan[gate]N sux:piriŋ[lion]N sux:šu[hand]N sux:nud[lie]V/i
+c.4.80.2,The Keš temple hymn,,94,sux:kan[gate]N sux:UN.gal[ruler]N sux:inim[word]N sux:ŋar[place]V/t
+c.4.80.2,The Keš temple hymn,,95,sux:e[house]N sux:ig[door]N sux:kur[mountain]N sux:gal[big]V/i sux:gaba[chest]N sux:gi[turn]V/i
+c.4.80.2,The Keš temple hymn,,96,sux:saŋkul[bolt]N sux:am[bull]N sux:gal[big]V/i sux:du[push]V/t
+c.4.80.2,The Keš temple hymn,,96A,sux:saŋkul[bolt]N sux:ur[dog]N sux:lu[person]N
+c.4.80.2,The Keš temple hymn,,97,sux:ŋanun[storehouse]N sux:ŋar[place]V/t sux:anubda[quarter]N sux:kiʾub[corner]N
+c.4.80.2,The Keš temple hymn,,98,sux:giguna[terrace]N sux:lahama[being]N sux:ki[place]N sux:us[follow]V/t
+c.4.80.2,The Keš temple hymn,,99,sux:bad[wall]N sux:gal[big]V/i sux:nun[prince]N sux:eš[shrine]N sux:Urim[1]SN sux:zu[tooth]N sux:kešed[bind]V/t
+c.4.80.2,The Keš temple hymn,,100,sux:Keš[1]SN sux:rib[surpassing]V/i sux:lu[person]N sux:de[bring]V/t
+c.4.80.2,The Keš temple hymn,,101,sux:ursaŋ[hero]N sux:Ašgi[1]DN sux:rib[surpassing]V/i sux:ama[mother]N sux:utud[bear]V/t
+c.4.80.2,The Keš temple hymn,,102,sux:nin[lady]N sux:Nintur[1]DN sux:rib[surpassing]V/i sux:aba[who?]QP sux:igi[eye]N sux:du[spread]V/t
+c.4.80.2,The Keš temple hymn,,103,sux:e[house]N sux:6-kam-ma[6th]NU
+c.4.80.2,The Keš temple hymn,,103A,sux:e[house]N sux:sulim[radiance]N sux:gur[lift]V/t sux:zag[side]N sux:dib[pass]V/t sux:šu[hand]N
+c.4.80.2,The Keš temple hymn,,103B,sux:e[house]N sux:igi[eye]N sux:tab[double]V/t sux:an[sky]N sux:šag[heart]N
+c.4.80.2,The Keš temple hymn,,103C,sux:en[lord]N sux:Nudimmud[1]DN sux:an[sky]N sux:ki[place]N
+c.4.80.2,The Keš temple hymn,,103D,sux:an[sky]N sux:nin[lady]N sux:lu[person]N sux:šeg[brick]N sux:kalam[land]N sux:dug[good]V/i
+c.4.80.2,The Keš temple hymn,,103E,sux:šeg[brick]N sux:abzu[water]N sux:kiŋ[work]N sux:gal[big]V/i
+c.4.80.2,The Keš temple hymn,,103F,sux:giguna[terrace]N sux:kituš[dwelling]N sux:ni[self]RP sux:dub[tremble]V/t
+c.4.80.2,The Keš temple hymn,,103G,sux:simuš[brilliance]N sux:kug[pure]V/i sux:šag[heart]N sux:uŋ[people]N sux:saŋ[head]N sux:zig[rise]V/t
+c.4.80.2,The Keš temple hymn,,103H,sux:e[house]N sux:kur[mountain]N sux:meteŋal[seemly]AJ
+c.4.80.2,The Keš temple hymn,,103I,sux:Keš[1]SN sux:rib[surpassing]V/i sux:lu[person]N sux:de[bring]V/t
+c.4.80.2,The Keš temple hymn,,103J,sux:ursaŋ[hero]N sux:Ašgi[1]DN sux:rib[surpassing]V/i sux:ama[mother]N sux:utud[bear]V/t
+c.4.80.2,The Keš temple hymn,,103K,sux:nin[lady]N sux:Nintur[1]DN sux:rib[surpassing]V/i sux:aba[who?]QP sux:igi[eye]N sux:du[spread]V/t
+c.4.80.2,The Keš temple hymn,,103L,sux:e[house]N sux:8-kam-ma[8th]NU
+c.4.80.2,The Keš temple hymn,,104,sux:e[house]N sux:kug[pure]V/i sux:agrun[cella]N
+c.4.80.2,The Keš temple hymn,,105,sux:e[house]N sux:Keš[1]SN sux:kug[pure]V/i sux:agrun[cella]N
+c.4.80.2,The Keš temple hymn,,106,sux:e[house]N sux:en[lord]N sux:Anunak[1]DN
+c.4.80.2,The Keš temple hymn,,107,sux:nuʾešak[priest]N sux:ŋiri[dagger]N sux:la[hang]V/t sux:Eanak[1]TN
+c.4.80.2,The Keš temple hymn,,108,sux:e[house]N sux:lugal[king]N sux:bur[bowl]N sux:gub[stand]V/i
+c.4.80.2,The Keš temple hymn,,109,sux:en[priest]N sux:dug[good]V/i sux:šag[heart]N sux:eš[rope]N sux:la[hang]V/t sux:la[hang]V/t
+c.4.80.2,The Keš temple hymn,,110,sux:atu[doorkeeper?]N sux:ešgiri[staff]N sux:šu[hand]N sux:du[spread]V/t
+c.4.80.2,The Keš temple hymn,,111,sux:TU[priest]N sux:a[water]N sux:ur[pluck]V/t sux:de[bring]V/t
+c.4.80.2,The Keš temple hymn,,112,sux:lal[priest]N sux:ki[place]N sux:kug[pure]V/i sux:tuš[sit]V/i
+c.4.80.2,The Keš temple hymn,,113,sux:enkum[treasurer]N sux:šeg-gi[make-noise]V/t sux:ki[place]N sux:ŋal[be]V/i
+c.4.80.2,The Keš temple hymn,,114,sux:pašeš[priest]N sux:kuš[skin]N sux:sag[beat]V/t
+c.4.80.2,The Keš temple hymn,,115,sux:urun[exalted]V/i sux:urun[exalted]V/i sux:dug[speak]V/t
+c.4.80.2,The Keš temple hymn,,116,sux:si[horn]N sux:am[bull]N sux:gum₂-ga-am₃[animal-noise]N sux:za[cvve]V/t
+c.4.80.2,The Keš temple hymn,,117,sux:alŋarsur[drumstick]N sux:suh₃-sah₄[rumbling-noise]N sux:za[cvve]V/t
+c.4.80.2,The Keš temple hymn,,118,sux:nar[musician]N sux:ala[drum]N sux:šeg-gi[make-noise]V/t sux:gi[turn]V/i
+c.4.80.2,The Keš temple hymn,,119,sux:tigi[instrument]N sux:nun[prince]N sux:dug[good]V/i sux:du[play]V/t
+c.4.80.2,The Keš temple hymn,,120,sux:e[house]N sux:du[build]V/t sux:kirizal[joy]N sux:dug[good]V/i
+c.4.80.2,The Keš temple hymn,,121,sux:e[house]N sux:Keš[1]SN sux:du[build]V/t sux:kirizal[joy]N sux:dug[good]V/i
+c.4.80.2,The Keš temple hymn,,122,sux:nin[lady]N sux:tuš[sit]V/i
+c.4.80.2,The Keš temple hymn,,123,sux:Ninhursaŋak[1]DN sux:nin[lady]N sux:tuš[sit]V/i
+c.4.80.2,The Keš temple hymn,,124,sux:Keš[1]SN sux:rib[surpassing]V/i sux:lu[person]N sux:de[bring]V/t
+c.4.80.2,The Keš temple hymn,,125,sux:ursaŋ[hero]N sux:Ašgi[1]DN sux:rib[surpassing]V/i sux:ama[mother]N sux:utud[bear]V/t
+c.4.80.2,The Keš temple hymn,,126,sux:nin[lady]N sux:Nintur[1]DN sux:rib[surpassing]V/i sux:aba[who?]QP sux:igi[eye]N sux:du[spread]V/t
+c.4.80.2,The Keš temple hymn,,127,sux:e[house]N sux:7-kam-ma[7th]NU
+c.4.80.2,The Keš temple hymn,,128,sux:iri[city]N sux:iri[city]N sux:lu[person]N sux:teŋ[approach]V/i sux:teŋ[approach]V/i
+c.4.80.2,The Keš temple hymn,,129,sux:e[house]N sux:Keš[1]SN sux:iri[city]N sux:lu[person]N sux:teŋ[approach]V/i sux:teŋ[approach]V/i
+c.4.80.2,The Keš temple hymn,,130,sux:ursaŋ[hero]N sux:Ašgi[1]DN sux:lu[person]N sux:teŋ[approach]V/i sux:teŋ[approach]V/i
+c.4.80.2,The Keš temple hymn,,131,sux:nin[lady]N sux:Nintur[1]DN sux:lu[person]N sux:teŋ[approach]V/i sux:teŋ[approach]V/i
+c.4.80.2,The Keš temple hymn,,132,sux:Keš[1]SN sux:du[build]V/t sux:Ašgi[1]DN sux:zamin[lyre]N
+c.4.80.2,The Keš temple hymn,,133,sux:Keš[1]SN sux:mi[cvne]N sux:dug[speak]V/t sux:Nintur[1]DN sux:zamin[lyre]N
+c.4.80.2,The Keš temple hymn,,134,sux:e[house]N sux:8-kam-ma[8th]NU
