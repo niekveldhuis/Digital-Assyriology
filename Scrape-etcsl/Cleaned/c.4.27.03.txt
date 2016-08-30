@@ -32,19 +32,19 @@ c.4.27.03,A hymn to Ninurta (Ninurta C),,54,sux:mušen[bird]N sux:šub[fall]V/t
 c.4.27.03,A hymn to Ninurta (Ninurta C),,55,sux:aya[father]N sux:Enlil[1]DN sux:lu[person]N sux:šag[heart]N
 c.4.27.03,A hymn to Ninurta (Ninurta C),,56,sux:ursaŋ[hero]N sux:ama[mother]N sux:Ninlil[1]DN sux:ki[place]N sux:aŋ[measure]V/t sux:ŋaʾe[I]IP
 c.4.27.03,A hymn to Ninurta (Ninurta C),,57,sux:kur[mountain]N sux:utud[bear]V/t sux:kur[mountain]N sux:aŋal[strong]AJ
-c.4.27.03,A hymn to Ninurta (Ninurta C),,58,sux:Ninurtak[1]DN sux:šeg-gi[make-noise]V/t sux:zu[know]V/t sux:kur[mountain]N sux:tuku[rock]V/t
-c.4.27.03,A hymn to Ninurta (Ninurta C),,59,sux:amaru[flood]N sux:ulu[wind]N sux:nim-ŋir[flash]V/t sux:ŋir[flash]V/i
+c.4.27.03,A hymn to Ninurta (Ninurta C),,58,sux:Ninurtak[1]DN sux:šeg[voice]N sux:zu[know]V/t sux:kur[mountain]N sux:tuku[rock]V/t
+c.4.27.03,A hymn to Ninurta (Ninurta C),,59,sux:amaru[flood]N sux:ulu[wind]N sux:nim[fly]N sux:ŋir[flash]V/i
 c.4.27.03,A hymn to Ninurta (Ninurta C),,60,sux:Enlil[1]DN sux:Ninurtak[1]DN sux:bar[outside]V/t
 c.4.27.03,A hymn to Ninurta (Ninurta C),,61,sux:Ninurtak[1]DN sux:iri[city]N sux:eš[shrine]N sux:Nibru[1]SN sux:bar[outside]V/t
 c.4.27.03,A hymn to Ninurta (Ninurta C),,62,sux:ki[place]N sux:aŋ[measure]V/t sux:me[be]V/i sux:ki[place]N sux:aŋ[measure]V/t sux:me[be]V/i
 c.4.27.03,A hymn to Ninurta (Ninurta C),,63,sux:en[lord]N sux:Ekur[1]TN sux:ki[place]N sux:aŋ[measure]V/t sux:me[be]V/i
-c.4.27.03,A hymn to Ninurta (Ninurta C),,64,sux:niŋnam[anything]N sux:šag[heart]N sux:al-dug[desire]V/t sux:dug[speak]V/t
+c.4.27.03,A hymn to Ninurta (Ninurta C),,64,sux:niŋnam[anything]N sux:šag[heart]N sux:al[hoe]N sux:dug[speak]V/t
 c.4.27.03,A hymn to Ninurta (Ninurta C),,65,sux:niŋ[thing]N sux:kal[rare]V/i sux:šag[heart]N sux:guru[store]N
 c.4.27.03,A hymn to Ninurta (Ninurta C),,66,sux:ursaŋ[hero]N sux:a[arm]N sux:zid[right]V/i sux:Enlil[1]DN sux:šul[youth]V/i sux:gabari[copy]N sux:tuku[acquire]V/t
 c.4.27.03,A hymn to Ninurta (Ninurta C),,67,sux:Ninurtak[1]DN sux:a[arm]N sux:zid[right]V/i sux:Enlil[1]DN sux:šul[youth]V/i sux:gabari[copy]N sux:tuku[acquire]V/t
 c.4.27.03,A hymn to Ninurta (Ninurta C),,68,sux:saŋ[head]N sux:50[50]NU sux:nirŋal[authoritative]AJ sux:tub[strike]V/t sux:kur[mountain]N sux:guʾerim[hostile]N sux:šub[fall]V/t
-c.4.27.03,A hymn to Ninurta (Ninurta C),,69,sux:piriŋ[lion]N sux:sumur[angry]V/i sux:huš[reddish]V/i sux:erim[enemy]N sux:kag[mouth]N sux:šu-šanšaša[search]V/t
-c.4.27.03,A hymn to Ninurta (Ninurta C),,70,sux:Ninurtak[1]DN sux:piriŋ[lion]N sux:sumur[angry]V/i sux:huš[reddish]V/i sux:erim[enemy]N sux:kag[mouth]N sux:šu-šanšaša[search]V/t
+c.4.27.03,A hymn to Ninurta (Ninurta C),,69,sux:piriŋ[lion]N sux:sumur[angry]V/i sux:huš[reddish]V/i sux:erim[enemy]N sux:kag[mouth]N sux:šanšaša[cvve]V/t
+c.4.27.03,A hymn to Ninurta (Ninurta C),,70,sux:Ninurtak[1]DN sux:piriŋ[lion]N sux:sumur[angry]V/i sux:huš[reddish]V/i sux:erim[enemy]N sux:kag[mouth]N sux:šanšaša[cvve]V/t
 c.4.27.03,A hymn to Ninurta (Ninurta C),,71,sux:ud[storm]N sux:huluŋal[evil]AJ sux:ŋen[go]V/i sux:kibala[rebel-land]N sux:mada[land]N
 c.4.27.03,A hymn to Ninurta (Ninurta C),,72,sux:ursaŋ[hero]N sux:pašeš[foremost]AJ sux:aya[father]N
 c.4.27.03,A hymn to Ninurta (Ninurta C),,73,sux:en[lord]N sux:Ninurtak[1]DN sux:pašeš[foremost]AJ sux:aya[father]N

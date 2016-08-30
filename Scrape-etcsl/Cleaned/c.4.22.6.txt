@@ -1,7 +1,7 @@
 etcsl_no,text_name,version,l_no,text
 c.4.22.6,Ninisina and the gods (Ninisina F),,A1,sux:gub[stand]V/i
 c.4.22.6,Ninisina and the gods (Ninisina F),,A2,sux:Ninisinak[1]DN sux:nin[lady]N sux:me[Being]N sux:gal[big]V/i
-c.4.22.6,Ninisina and the gods (Ninisina F),,A3,sux:me[Being]N sux:kug[pure]V/i sux:me[Being]N sux:sikil[pure]V/i sux:šu[hand]N sux:šu-du[complete]V/t
+c.4.22.6,Ninisina and the gods (Ninisina F),,A3,sux:me[Being]N sux:kug[pure]V/i sux:me[Being]N sux:sikil[pure]V/i sux:šu[hand]N sux:du[push]V/t
 c.4.22.6,Ninisina and the gods (Ninisina F),,A4,sux:me[Being]N sux:me[Being]N sux:An[1]DN sux:saŋ[head]N sux:rig[donate]V/t
 c.4.22.6,Ninisina and the gods (Ninisina F),,A5,sux:kur[mountain]N sux:gal[big]V/i sux:Enlil[1]DN sux:nam[fate]N sux:tar[cut]V/t
 c.4.22.6,Ninisina and the gods (Ninisina F),,A6,sux:e[house]N sux:Enlil[1]DN sux:e[leave]V/i
@@ -20,7 +20,7 @@ c.4.22.6,Ninisina and the gods (Ninisina F),,B3,sux:šag[heart]N sux:pad[find]V/
 c.4.22.6,Ninisina and the gods (Ninisina F),,B4,sux:ŋidlam[spouse]N sux:ki[place]N sux:aŋ[measure]V/t sux:en[lord]N sux:Pabilsaŋ[1]DN
 c.4.22.6,Ninisina and the gods (Ninisina F),,B5,sux:dug[speak]V/t sux:dug[speak]V/t
 c.4.22.6,Ninisina and the gods (Ninisina F),,B6,sux:me[Being]N sux:gal[big]V/i sux:me[Being]N sux:50[50]NU sux:hedu[ornament]N
-c.4.22.6,Ninisina and the gods (Ninisina F),,B7,sux:šu[hand]N sux:šu-du[complete]V/t sux:unu[adornment]N sux:šuba[stone]N sux:sud[distant]V/i
+c.4.22.6,Ninisina and the gods (Ninisina F),,B7,sux:šu[hand]N sux:du[push]V/t sux:unu[adornment]N sux:šuba[stone]N sux:sud[distant]V/i
 c.4.22.6,Ninisina and the gods (Ninisina F),,B8,sux:nin[lady]N sux:mu[name]N sux:gal[big]V/i
 c.4.22.6,Ninisina and the gods (Ninisina F),,B9,sux:kur[mountain]N sux:gal[big]V/i sux:Enlil[1]DN sux:nam[fate]N sux:tar[cut]V/t
 c.4.22.6,Ninisina and the gods (Ninisina F),,B10,sux:eš[shrine]N sux:Nibru[1]SN sux:Durankik[1]TN

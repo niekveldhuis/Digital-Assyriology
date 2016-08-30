@@ -43,10 +43,10 @@ c.1.8.2.4,Enmerkar and En-suhgir-ana,,A41,sux:ud[sun]N sux:e[leave]V/i sux:usan[
 c.1.8.2.4,Enmerkar and En-suhgir-ana,,A42,sux:buru[sparrow]N sux:ud[sun]N sux:zal[pass]V/t sux:gaba[chest]N sux:ki[place]N sux:zag[side]N sux:gub[stand]V/i
 c.1.8.2.4,Enmerkar and En-suhgir-ana,,A43,sux:buru[sparrow]N sux:ŋi[night]N sux:1/2[1/2]NU sux:kuršag[~mountain]N sux:si[fill]V/t
 c.1.8.2.4,Enmerkar and En-suhgir-ana,,A44,sux:illar[weapon]N sux:zag[side]N sux:gub[stand]V/i
-c.1.8.2.4,Enmerkar and En-suhgir-ana,,A45,sux:dur[donkey]N sux:dili[single]V/i sux:ŋen[go]V/i sux:Šakkan[1]DN sux:hursaŋ[mountain]N sux:šu-dag[roam-around]V/t
+c.1.8.2.4,Enmerkar and En-suhgir-ana,,A45,sux:dur[donkey]N sux:dili[single]V/i sux:ŋen[go]V/i sux:Šakkan[1]DN sux:hursaŋ[mountain]N sux:dag[demolish]V/t
 c.1.8.2.4,Enmerkar and En-suhgir-ana,,A46,sux:dur[donkey]N sux:urun[exalted]V/i sux:gal[big]V/i sux:kušum[cvne]N sux:tag[touch]V/t
 c.1.8.2.4,Enmerkar and En-suhgir-ana,,A47,sux:dur[donkey]N sux:sal[thin]V/i sux:kaš[runner]N sux:kiŋ[seek]V/t sux:dub[knee]N sux:bur[spread]V/t
-c.1.8.2.4,Enmerkar and En-suhgir-ana,,A48,sux:urmah[lion]N sux:ašag[field]N sux:ud[sun]N sux:zal[pass]V/t sux:mur-ma-ra[animal-noise]N sux:ša[cvve]V/t
+c.1.8.2.4,Enmerkar and En-suhgir-ana,,A48,sux:urmah[lion]N sux:ašag[field]N sux:ud[sun]N sux:zal[pass]V/t sux:murmara[noise]N sux:ša[cvve]V/t
 c.1.8.2.4,Enmerkar and En-suhgir-ana,,A49,sux:urbara[wolf]N sux:sila[lamb]N sux:šu[hand]N sux:teŋ[approach]V/i sux:ul[hasten]V/i sux:ŋen[go]V/i
 c.1.8.2.4,Enmerkar and En-suhgir-ana,,A50,sux:ki[place]N sux:tur[small]V/i sux:ŋen[go]V/i sux:si[fill]V/t
 c.1.8.2.4,Enmerkar and En-suhgir-ana,,A51,sux:ki[place]N sux:gal[big]V/i sux:ŋen[go]V/i sux:bulug[needle]N sux:dug[speak]V/t
@@ -102,7 +102,7 @@ c.1.8.2.4,Enmerkar and En-suhgir-ana,,A95,sux:ubur[breast]N sux:zid[right]V/i su
 c.1.8.2.4,Enmerkar and En-suhgir-ana,,A96,sux:eš[shrine]N sux:gal[big]V/i sux:ed[ascend]V/i
 c.1.8.2.4,Enmerkar and En-suhgir-ana,,A97,sux:nugig[priestess]N sux:Anzud[1]DN sux:amar[young]N sux:murmara[noise]N sux:ša[cvve]V/t
 c.1.8.2.4,Enmerkar and En-suhgir-ana,,A98,sux:2-kam-ma[2nd]NU sux:ed[ascend]V/i
-c.1.8.2.4,Enmerkar and En-suhgir-ana,,A99,sux:uz[duck]N sux:amar[young]N sux:dug[speak]V/t sux:šeg-gi[make-noise]V/t sux:gi[turn]V/i
+c.1.8.2.4,Enmerkar and En-suhgir-ana,,A99,sux:uz[duck]N sux:amar[young]N sux:dug[speak]V/t sux:šeg[voice]N sux:gi[turn]V/i
 c.1.8.2.4,Enmerkar and En-suhgir-ana,,A100,sux:iri[city]N sux:utud[bear]V/t
 c.1.8.2.4,Enmerkar and En-suhgir-ana,,A101,sux:iri[city]N sux:du[build]V/t sux:iri[city]N sux:name[any]AJ sux:dim[create]V/t
 c.1.8.2.4,Enmerkar and En-suhgir-ana,,A102,sux:Inanak[1]DN sux:Unug[1]SN sux:til[live]V/i sux:Aratta[1]SN sux:ana[what?]QP sux:me[be]V/i

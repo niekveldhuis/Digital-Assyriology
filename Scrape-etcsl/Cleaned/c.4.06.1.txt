@@ -2,14 +2,14 @@ etcsl_no,text_name,version,l_no,text
 c.4.06.1,A hymn to Hendursaŋa (Hendursaŋa A),,A4,
 c.4.06.1,A hymn to Hendursaŋa (Hendursaŋa A),,A5,
 c.4.06.1,A hymn to Hendursaŋa (Hendursaŋa A),,A6,sux:igiŋal[wise]AJ
-c.4.06.1,A hymn to Hendursaŋa (Hendursaŋa A),,A7,sux:Hendursaŋak[1]DN sux:me[Being]N sux:mah[great]V/i sux:lu[person]N sux:al-dug[desire]V/t sux:dug[speak]V/t
+c.4.06.1,A hymn to Hendursaŋa (Hendursaŋa A),,A7,sux:Hendursaŋak[1]DN sux:me[Being]N sux:mah[great]V/i sux:lu[person]N sux:al[hoe]N sux:dug[speak]V/t
 c.4.06.1,A hymn to Hendursaŋa (Hendursaŋa A),,A8,sux:urbad[rooftop]N sux:nadeg[advice]N sux:deg[collect]V/t
 c.4.06.1,A hymn to Hendursaŋa (Hendursaŋa A),,A9,sux:saŋ[head]N sux:šu[hand]N sux:du[build]V/t sux:en[lord]N sux:urun[exalted]V/i
 c.4.06.1,A hymn to Hendursaŋa (Hendursaŋa A),,A10,sux:ešgiri[staff]N sux:šu[hand]N sux:du[spread]V/t sux:barag[sanctum]N
 c.4.06.1,A hymn to Hendursaŋa (Hendursaŋa A),,A11,sux:unud[cowherd]N sux:uŋ[people]N sux:lu[abundant]V/i sux:igi[eye]N sux:il[raise]V/t
 c.4.06.1,A hymn to Hendursaŋa (Hendursaŋa A),,A12,sux:niŋna[incense]N sux:deg[collect]V/t sux:ŋi[night]N sux:ennuŋ[imprisonment]N sux:1/2[1/2]NU sux:sila[street]N sux:daŋal[wide]V/i sux:peš[thick]V/i
 c.4.06.1,A hymn to Hendursaŋa (Hendursaŋa A),,A13,sux:kan[gate]N sux:ud[sun]N sux:e[leave]V/i sux:ŋal[open]V/t sux:taka[abandon]V/t sux:ig[door]N sux:sila[street]N sux:gub[stand]V/i
-c.4.06.1,A hymn to Hendursaŋa (Hendursaŋa A),,A14,sux:Hendursaŋak[1]DN sux:me[Being]N sux:mah[great]V/i sux:lu[person]N sux:al-dug[desire]V/t sux:dug[speak]V/t
+c.4.06.1,A hymn to Hendursaŋa (Hendursaŋa A),,A14,sux:Hendursaŋak[1]DN sux:me[Being]N sux:mah[great]V/i sux:lu[person]N sux:al[hoe]N sux:dug[speak]V/t
 c.4.06.1,A hymn to Hendursaŋa (Hendursaŋa A),,A15,sux:Nindara[1]DN sux:lugal[king]N sux:Niŋin[1]SN sux:ki[place]N sux:niŋdaŋala[vastness]N sux:šitadu[accountant]N sux:zaʾe[you]IP
 c.4.06.1,A hymn to Hendursaŋa (Hendursaŋa A),,A16,sux:Hendursaŋak[1]DN sux:ŋeškim[sign]N sux:mah[great]V/i sux:Nanše[1]DN sux:šu[hand]N sux:gub[stand]V/i
 c.4.06.1,A hymn to Hendursaŋa (Hendursaŋa A),,A17,sux:innin[lady]N sux:ama[mother]N sux:Nanše[1]DN sux:šag[heart]N sux:kušu[tired]V/i
@@ -36,7 +36,7 @@ c.4.06.1,A hymn to Hendursaŋa (Hendursaŋa A),,A37,sux:nita[male]N sux:lu[perso
 c.4.06.1,A hymn to Hendursaŋa (Hendursaŋa A),,A38,sux:sila[street]N sux:sig[put]V/t sux:saŋ[head]N sux:šu[hand]N sux:du[build]V/t
 c.4.06.1,A hymn to Hendursaŋa (Hendursaŋa A),,A39,sux:kiʾenedi[locus]N sux:lul[false]V/i sux:dug[speak]V/t
 c.4.06.1,A hymn to Hendursaŋa (Hendursaŋa A),,A40,sux:saŋ[head]N sux:uš[die]V/i sux:kur[mountain]N sux:DU[DU]V sux:galla[policeman]N sux:gal[big]V/i
-c.4.06.1,A hymn to Hendursaŋa (Hendursaŋa A),,A41,sux:Hendursaŋak[1]DN sux:me[Being]N sux:mah[great]V/i sux:lu[person]N sux:al-dug[desire]V/t sux:dug[speak]V/t
+c.4.06.1,A hymn to Hendursaŋa (Hendursaŋa A),,A41,sux:Hendursaŋak[1]DN sux:me[Being]N sux:mah[great]V/i sux:lu[person]N sux:al[hoe]N sux:dug[speak]V/t
 c.4.06.1,A hymn to Hendursaŋa (Hendursaŋa A),,A42,sux:diŋir[deity]N sux:lulu[man]N sux:gu[eat]V/t sux:naŋ[drink]V/t sux:gub[stand]V/i
 c.4.06.1,A hymn to Hendursaŋa (Hendursaŋa A),,A43,sux:lulu[man]N sux:kidašrin[mat]N sux:dab[seize]V/t sux:šu[hand]N
 c.4.06.1,A hymn to Hendursaŋa (Hendursaŋa A),,A44,sux:mu[name]N sux:Hendursaŋak[1]DN sux:pad[find]V/t
@@ -65,7 +65,7 @@ c.4.06.1,A hymn to Hendursaŋa (Hendursaŋa A),,A77,sux:ud[sun]N sux:nen[this]DP
 c.4.06.1,A hymn to Hendursaŋa (Hendursaŋa A),,A78,sux:7[7]NU sux:1[1]NU sux:kaʾa[fox]N sux:kun[tail]N sux:ur[drag]V/t
 c.4.06.1,A hymn to Hendursaŋa (Hendursaŋa A),,A79,sux:2-kam-ma[2nd]NU sux:urgir[dog]N sux:sim[smell]V/t sux:ak[do]V/t
 c.4.06.1,A hymn to Hendursaŋa (Hendursaŋa A),,A80,sux:3-kam-ma[3rd]NU sux:uga[raven]N sux:zana[larva]N sux:gug[tooth]N sux:kul[collect]V/t
-c.4.06.1,A hymn to Hendursaŋa (Hendursaŋa A),,A81,sux:4-kam-ma[4th]NU sux:ti[bird]N sux:mah[great]V/i sux:adda[corpse]N sux:gu[eat]V/t sux:kag[mouth]N sux:šu-šanšaša[search]V/t
+c.4.06.1,A hymn to Hendursaŋa (Hendursaŋa A),,A81,sux:4-kam-ma[4th]NU sux:ti[bird]N sux:mah[great]V/i sux:adda[corpse]N sux:gu[eat]V/t sux:kag[mouth]N sux:šanšaša[cvve]V/t
 c.4.06.1,A hymn to Hendursaŋa (Hendursaŋa A),,A82,sux:5-kam-ma[5th]NU sux:urbara[wolf]N sux:me[be]V/i sux:sila[lamb]N sux:giggi[black]V/i sux:šub[fall]V/t
 c.4.06.1,A hymn to Hendursaŋa (Hendursaŋa A),,A83,sux:6-kam-ma[6th]NU sux:ninninnata[bird]N sux:tuš[sit]V/i sux:gu[voice]N sux:rah[beat]V/t
 c.4.06.1,A hymn to Hendursaŋa (Hendursaŋa A),,A84,sux:7-kam-ma[7th]NU sux:kušu[creature]N sux:aŋi[wave]N sux:bu[howl]V/i
@@ -73,8 +73,8 @@ c.4.06.1,A hymn to Hendursaŋa (Hendursaŋa A),,A85,sux:7[7]NU sux:diŋir[deity]
 c.4.06.1,A hymn to Hendursaŋa (Hendursaŋa A),,A86,sux:nita[male]N sux:šu[hand]N sux:du[build]V/t sux:munus[woman]N sux:a[arm]N sux:la[hang]V/t
 c.4.06.1,A hymn to Hendursaŋa (Hendursaŋa A),,A87,sux:munus[woman]N sux:tukul[weapon]N sux:dag[side]N sux:ŋar[place]V/t
 c.4.06.1,A hymn to Hendursaŋa (Hendursaŋa A),,A88,sux:irsim[fragrance]N sux:kalam[land]N sux:ŋar[place]V/t
-c.4.06.1,A hymn to Hendursaŋa (Hendursaŋa A),,A89,sux:me[Being]N sux:diŋir[deity]N sux:šu[hand]N sux:šu-du[complete]V/t
-c.4.06.1,A hymn to Hendursaŋa (Hendursaŋa A),,A90,sux:Hendursaŋak[1]DN sux:me[Being]N sux:mah[great]V/i sux:lu[person]N sux:al-dug[desire]V/t sux:dug[speak]V/t
+c.4.06.1,A hymn to Hendursaŋa (Hendursaŋa A),,A89,sux:me[Being]N sux:diŋir[deity]N sux:šu[hand]N sux:du[push]V/t
+c.4.06.1,A hymn to Hendursaŋa (Hendursaŋa A),,A90,sux:Hendursaŋak[1]DN sux:me[Being]N sux:mah[great]V/i sux:lu[person]N sux:al[hoe]N sux:dug[speak]V/t
 c.4.06.1,A hymn to Hendursaŋa (Hendursaŋa A),,A91,sux:gu₂.NE[place]N sux:ki[place]N sux:kug[pure]V/i sux:ŋar[place]V/t
 c.4.06.1,A hymn to Hendursaŋa (Hendursaŋa A),,A92,sux:Ekur[1]TN sux:Gibil[1]DN sux:lu[person]N sux:sikil[pure]V/i sux:igi[eye]N sux:ŋal[be]V/i
 c.4.06.1,A hymn to Hendursaŋa (Hendursaŋa A),,A93,sux:nin[lady]N sux:Ninmug[1]DN sux:gub[stand]V/i

@@ -12,10 +12,10 @@ c.6.1.08,Proverbs: collection 8,,A10,sux:šah[pig]N sux:ninda[bread]N sux:pad[br
 c.6.1.08,Proverbs: collection 8,,A11,
 c.6.1.08,Proverbs: collection 8,,B1,sux:gun[load]N
 c.6.1.08,Proverbs: collection 8,,B2,sux:dirig[float]V/i sux:šag[heart]N sux:zalag[shine]V/i
-c.6.1.08,Proverbs: collection 8,,B3,sux:megida[sow]N sux:ugu-de[disappear]V/t sux:de[pour]V/t sux:tuš[sit]V/i
+c.6.1.08,Proverbs: collection 8,,B3,sux:megida[sow]N sux:ugu[cvne]N sux:de[pour]V/t sux:tuš[sit]V/i
 c.6.1.08,Proverbs: collection 8,,B4,sux:eʾirda[pigsty]N sux:kalag[strong]V/i
 c.6.1.08,Proverbs: collection 8,,B5,sux:megida[sow]N sux:hili[attractiveness]N sux:ak[do]V/t
-c.6.1.08,Proverbs: collection 8,,B6,sux:ŋi[night]N sux:1/2[1/2]NU sux:še[barley]N sux:al-dug[desire]V/t sux:dug[speak]V/t
+c.6.1.08,Proverbs: collection 8,,B6,sux:ŋi[night]N sux:1/2[1/2]NU sux:še[barley]N sux:al[hoe]N sux:dug[speak]V/t
 c.6.1.08,Proverbs: collection 8,,B7,sux:maš[goat]N sux:sum[beard]N sux:la[hang]V/t
 c.6.1.08,Proverbs: collection 8,,B8,sux:uzud[goat]N sux:saŋ[head]N sux:rig[donate]V/t sux:maš[goat]N sux:gal[big]V/i
 c.6.1.08,Proverbs: collection 8,,B9,sux:uzud[goat]N sux:uzud[goat]N sux:dug[speak]V/t
@@ -24,7 +24,7 @@ c.6.1.08,Proverbs: collection 8,,B11,sux:uzud[goat]N sux:ŋen[go]V/i sux:eria[wa
 c.6.1.08,Proverbs: collection 8,,B12,sux:uzud[goat]N sux:urbara[wolf]N sux:us[follow]V/t
 c.6.1.08,Proverbs: collection 8,,B13,sux:bala[turn]V/t sux:ŋiri[foot]N sux:ŋiri[foot]N sux:rah[beat]V/t
 c.6.1.08,Proverbs: collection 8,,B14,sux:dimšah[bear?]N sux:bed[defecate]V/t sux:kag[mouth]N sux:sag[beat]V/t
-c.6.1.08,Proverbs: collection 8,,B15,sux:lulim[stag]N sux:bar[outside]V/t sux:šu-dag[roam-around]V/t
+c.6.1.08,Proverbs: collection 8,,B15,sux:lulim[stag]N sux:bar[outside]V/t sux:dag[demolish]V/t
 c.6.1.08,Proverbs: collection 8,,B16,sux:mašda[gazelle]N sux:igi[eye]N sux:la[hang]V/t sux:ur[dog]N sux:igi[eye]N sux:ŋal[be]V/i sux:lu[person]N sux:šu[hand]N sux:zig[rise]V/t sux:igi[eye]N sux:du[spread]V/t
 c.6.1.08,Proverbs: collection 8,,B17,sux:mašda[gazelle]N sux:a[water]N sux:ud[sun]N sux:15-kam-ma[15th]NU sux:naŋ[drink]V/t
 c.6.1.08,Proverbs: collection 8,,B18,sux:az[bear]N sux:daŋal[wide]V/i sux:tag[touch]V/t sux:hursaŋ[mountain]N sux:ŋen[go]V/i
@@ -37,7 +37,7 @@ c.6.1.08,Proverbs: collection 8,,B24,sux:sua[cat]N sux:kuš[skin]N sux:du[build]
 c.6.1.08,Proverbs: collection 8,,B25,sux:sua[cat]N sux:kindar[hole]N sux:pad[find]V/t
 c.6.1.08,Proverbs: collection 8,,B26,sux:kaʾa[fox]N sux:ur[root]N sux:amsi[elephant]N sux:ŋiri[foot]N sux:gub[stand]V/i
 c.6.1.08,Proverbs: collection 8,,B27,sux:si[fill]V/t sux:dirig[float]V/i
-c.6.1.08,Proverbs: collection 8,,B28,sux:kaʾa[fox]N sux:Enlil[1]DN sux:siam[horns]N sux:al-dug[desire]V/t sux:dug[speak]V/t
+c.6.1.08,Proverbs: collection 8,,B28,sux:kaʾa[fox]N sux:Enlil[1]DN sux:siam[horns]N sux:al[hoe]N sux:dug[speak]V/t
 c.6.1.08,Proverbs: collection 8,,B29,sux:siam[horns]N sux:la[hang]V/t sux:im[rain]N sux:šeŋ[rain]V/i sux:zig[rise]V/t
 c.6.1.08,Proverbs: collection 8,,B30,sux:habruda[hole]N sux:kur[enter]V/i
 c.6.1.08,Proverbs: collection 8,,B31,sux:ŋi[night]N sux:1/2[1/2]NU sux:mir[wind]N sux:mir[angry]V/i

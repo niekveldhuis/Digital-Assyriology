@@ -1,5 +1,5 @@
 etcsl_no,text_name,version,l_no,text
-c.2.4.2.20,A tigi to Ninurta for Šulgi (Šulgi T),,1,sux:en[lord]N sux:namursaŋ[heroism]N sux:šu[hand]N sux:šu-du[complete]V/t sux:ki[place]N sux:aŋ[measure]V/t
+c.2.4.2.20,A tigi to Ninurta for Šulgi (Šulgi T),,1,sux:en[lord]N sux:namursaŋ[heroism]N sux:šu[hand]N sux:du[push]V/t sux:ki[place]N sux:aŋ[measure]V/t
 c.2.4.2.20,A tigi to Ninurta for Šulgi (Šulgi T),,2,sux:Ninurtak[1]DN sux:mes[tree]N sux:pa[branch]N sux:mul[star]N sux:daŋal[wide]V/i
 c.2.4.2.20,A tigi to Ninurta for Šulgi (Šulgi T),,3,sux:tukul[weapon]N sux:me[battle]N sux:ak[do]V/t sux:kušum[cvne]N sux:tag[touch]V/t sux:kur[mountain]N
 c.2.4.2.20,A tigi to Ninurta for Šulgi (Šulgi T),,4,sux:ušum[snake]N sux:igi[eye]N sux:huš[reddish]V/i sux:muššagtur[snake]N sux:kibala[rebel-land]N sux:uš[poison]N
@@ -7,7 +7,7 @@ c.2.4.2.20,A tigi to Ninurta for Šulgi (Šulgi T),,5,sux:gaba[chest]N sux:zig[r
 c.2.4.2.20,A tigi to Ninurta for Šulgi (Šulgi T),,6,sux:Ninurtak[1]DN sux:nun[prince]N sux:gal[big]V/i sux:Enki[1]DN
 c.2.4.2.20,A tigi to Ninurta for Šulgi (Šulgi T),,7,sux:lugal[king]N sux:iri[city]N sux:eš[shrine]N sux:Nibru[1]SN sux:tir[forest]N
 c.2.4.2.20,A tigi to Ninurta for Šulgi (Šulgi T),,8,sux:Ešumeša[1]TN sux:ki[place]N sux:šu[hand]N
-c.2.4.2.20,A tigi to Ninurta for Šulgi (Šulgi T),,9,sux:en[lord]N sux:namlugal[kingship]N sux:šu[hand]N sux:šu-du[complete]V/t
+c.2.4.2.20,A tigi to Ninurta for Šulgi (Šulgi T),,9,sux:en[lord]N sux:namlugal[kingship]N sux:šu[hand]N sux:du[push]V/t
 c.2.4.2.20,A tigi to Ninurta for Šulgi (Šulgi T),,10,sux:ad[voice]N sux:gi[turn]V/i sux:ušumgal[dragon]N sux:kalam[land]N
 c.2.4.2.20,A tigi to Ninurta for Šulgi (Šulgi T),,11,sux:Ninurtak[1]DN sux:bad[wall]N sux:gal[big]V/i sux:Nibru[1]SN
 c.2.4.2.20,A tigi to Ninurta for Šulgi (Šulgi T),,12,sux:lugal[king]N sux:me[Being]N sux:sag[scatter]V/t sux:dug[speak]V/t sux:ursaŋ[hero]N

@@ -2,7 +2,7 @@ etcsl_no,text_name,version,l_no,text
 c.2.4.2.07,An adab to Enlil for Šulgi (Šulgi G),,1,sux:Enlil[1]DN sux:galdi[exalted]AJ sux:en[lord]N sux:mete[appropriate-thing]N sux:niŋduga[speech]N sux:zid[right]V/i
 c.2.4.2.07,An adab to Enlil for Šulgi (Šulgi G),,2,sux:Nunamnir[1]DN sux:sipad[shepherd]N sux:dari[eternal]V/i sux:kalam[land]N sux:kur[mountain]N sux:gal[big]V/i sux:e[leave]V/i
 c.2.4.2.07,An adab to Enlil for Šulgi (Šulgi G),,3,sux:sa[advice]N sux:gal[big]V/i sux:pad[find]V/t sux:gugal[foremost]AJ sux:an[sky]N sux:ki[place]N sux:me[Being]N sux:šar[3600]NU sux:u[ride]V/t
-c.2.4.2.07,An adab to Enlil for Šulgi (Šulgi G),,4,sux:en[lord]N sux:namnun[magnificence]N sux:ni[fear]N sux:gal[big]V/i sux:gur[lift]V/t sux:mulan[star]N sux:šu[hand]N sux:šu-du[complete]V/t
+c.2.4.2.07,An adab to Enlil for Šulgi (Šulgi G),,4,sux:en[lord]N sux:namnun[magnificence]N sux:ni[fear]N sux:gal[big]V/i sux:gur[lift]V/t sux:mulan[star]N sux:šu[hand]N sux:du[push]V/t
 c.2.4.2.07,An adab to Enlil for Šulgi (Šulgi G),,5,sux:me[Being]N sux:ul[distant]V/i sux:me[Being]N sux:saŋ[choose]V/t sux:gal[big]V/i sux:kiŋ[seek]V/t sux:dili[single]V/i sux:diŋir[deity]N sux:mah[great]V/i
 c.2.4.2.07,An adab to Enlil for Šulgi (Šulgi G),,6,sux:en[lord]N sux:ud[sun]N sux:til[live]V/i sux:kurzag[~mountain]N sux:til[complete]V/i sux:uŋ[people]N sux:dus[path]N sux:dili[single]V/i sux:de[bring]V/t
 c.2.4.2.07,An adab to Enlil for Šulgi (Šulgi G),,7,sux:sabar[net]N sux:mah[great]V/i sux:an[sky]N sux:ki[place]N sux:šuš[cover]V/t sux:eš[rope]N sux:kur[mountain]N sux:la[hang]V/t
@@ -15,7 +15,7 @@ c.2.4.2.07,An adab to Enlil for Šulgi (Šulgi G),,13,sux:Ekur[1]TN sux:lu[perso
 c.2.4.2.07,An adab to Enlil for Šulgi (Šulgi G),,14,sux:dumu[child]N sux:lu[person]N sux:zid[right]V/i sux:ŋidru[scepter]N sux:sud[distant]V/i sux:guza[chair]N sux:kur[different]V/i
 c.2.4.2.07,An adab to Enlil for Šulgi (Šulgi G),,15,sux:nam[fate]N sux:Ekur[1]TN sux:sissig[green]V/i sux:ŋar[place]V/t sux:Dilimbabbar[1]DN
 c.2.4.2.07,An adab to Enlil for Šulgi (Šulgi G),,16,sux:aya[father]N sux:Enlil[1]DN sux:inim[word]N sux:sig[put]V/t sux:ama[mother]N sux:utud[bear]V/t sux:de[bring]V/t
-c.2.4.2.07,An adab to Enlil for Šulgi (Šulgi G),,17,sux:Eduga[1]TN sux:Nanna[1]DN sux:dumu[child]N sux:nun[prince]N sux:niŋ[thing]N sux:al-dug[desire]V/t sux:dug[speak]V/t
+c.2.4.2.07,An adab to Enlil for Šulgi (Šulgi G),,17,sux:Eduga[1]TN sux:Nanna[1]DN sux:dumu[child]N sux:nun[prince]N sux:niŋ[thing]N sux:al[hoe]N sux:dug[speak]V/t
 c.2.4.2.07,An adab to Enlil for Šulgi (Šulgi G),,18,sux:en[priest]N sux:a[water]N sux:šagtur[womb]N sux:ŋal[be]V/i sux:lu[person]N sux:zid[right]V/i sux:utud[bear]V/t
 c.2.4.2.07,An adab to Enlil for Šulgi (Šulgi G),,19,sux:Enlil[1]DN sux:sipad[shepherd]N sux:a[arm]N sux:kalag[strong]V/i sux:mes[hero]N sux:pa[branch]N sux:e[leave]V/i
 c.2.4.2.07,An adab to Enlil for Šulgi (Šulgi G),,20,sux:dumu[child]N sux:namlugal[kingship]N sux:barag[sanctum]N sux:hedu[ornament]N sux:Šulgir[1]RN sux:lugal[king]N
@@ -56,7 +56,7 @@ c.2.4.2.07,An adab to Enlil for Šulgi (Šulgi G),,54,sux:an[sky]N sux:sissig[gr
 c.2.4.2.07,An adab to Enlil for Šulgi (Šulgi G),,55,sux:Nanna[1]DN sux:lugal[king]N
 c.2.4.2.07,An adab to Enlil for Šulgi (Šulgi G),,56,sux:Kiur[1]TN sux:ki[place]N sux:gal[big]V/i sux:dug[good]V/i sux:šum[give]V/t
 c.2.4.2.07,An adab to Enlil for Šulgi (Šulgi G),,57,sux:Enlil[1]DN sux:daŋal[wide]V/i
-c.2.4.2.07,An adab to Enlil for Šulgi (Šulgi G),,58,sux:kur[mountain]N sux:a[arm]N sux:nun[prince]N sux:gi[turn]V/i sux:gu₂-un-gu₂-un[animal-noise]N sux:za[cvve]V/t
+c.2.4.2.07,An adab to Enlil for Šulgi (Šulgi G),,58,sux:kur[mountain]N sux:a[arm]N sux:nun[prince]N sux:gi[turn]V/i sux:gungugu[noise]N sux:za[cvve]V/t
 c.2.4.2.07,An adab to Enlil for Šulgi (Šulgi G),,59,sux:mada[land]N sux:gin[firm]V/i sux:uŋ[people]N sux:ŋiri[foot]N sux:nud[lie]V/i
 c.2.4.2.07,An adab to Enlil for Šulgi (Šulgi G),,60,sux:Šulgir[1]RN sux:sipad[shepherd]N sux:lulal[dear]N sux:Nibru[1]SN sux:ki[place]N sux:aŋ[measure]V/t
 c.2.4.2.07,An adab to Enlil for Šulgi (Šulgi G),,61,sux:šeg[brick]N sux:Enlil[1]DN sux:ŋissu[shade]N sux:dug[good]V/i

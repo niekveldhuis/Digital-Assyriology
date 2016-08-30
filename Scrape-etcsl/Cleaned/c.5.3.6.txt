@@ -62,8 +62,8 @@ c.5.3.6,The debate between Copper and Silver,,A99,sux:ibila[heir]N sux:kalag[str
 c.5.3.6,The debate between Copper and Silver,,A100,sux:urud[copper]N sux:niŋ[thing]N sux:kalag[strong]V/i sux:in[abuse]N sux:lulaga[thief]N sux:dub[tremble]V/t sux:aš[curse]N sux:lulaga[thief]N sux:DU[DU]V
 c.5.3.6,The debate between Copper and Silver,,A101,sux:uŋgaga[porter]N sux:kiŋ[work]N sux:a[arm]N sux:zag[side]N sux:dug[speak]V/t
 c.5.3.6,The debate between Copper and Silver,,A102,sux:al[hoe]N sux:ki[place]N sux:bal[dig]V/t sux:bahargal[potter]N sux:ud[sun]N sux:10[10]NU sux:im[clay]N sux:šu[hand]N sux:e[leave]V/i
-c.5.3.6,The debate between Copper and Silver,,A103,sux:hedab[worker]N sux:ud[sun]N sux:zal[pass]V/t sux:pusaŋ[pit]N sux:luh[clean]V/t sux:a[water]N sux:tu[cvve]V/t sux:šu-du[complete]V/t
-c.5.3.6,The debate between Copper and Silver,,A104,sux:ma₂.GIN₂[boat-builder]N sux:ma[ship]N sux:du[spread]V/t sux:i[oil]N sux:kud[fish]N sux:kum[hot]V/i sux:tug[textile]N sux:dan[pure]V/i sux:šu-du[complete]V/t
+c.5.3.6,The debate between Copper and Silver,,A103,sux:hedab[worker]N sux:ud[sun]N sux:zal[pass]V/t sux:pusaŋ[pit]N sux:luh[clean]V/t sux:a[water]N sux:tu[cvve]V/t sux:du[push]V/t
+c.5.3.6,The debate between Copper and Silver,,A104,sux:ma₂.GIN₂[boat-builder]N sux:ma[ship]N sux:du[spread]V/t sux:i[oil]N sux:kud[fish]N sux:kum[hot]V/i sux:tug[textile]N sux:dan[pure]V/i sux:du[push]V/t
 c.5.3.6,The debate between Copper and Silver,,A105,sux:muhaldim[cook]N sux:i[oil]N sux:kum[hot]V/i sux:a[water]N sux:saŋ[head]N sux:il[raise]V/t sux:ki[place]N sux:inim[word]N sux:gub[stand]V/i
 c.5.3.6,The debate between Copper and Silver,,A106,sux:lungak[brewer]N sux:ud[sun]N sux:ibla[belt]N sux:du[spread]V/t sux:šu[hand]N sux:im[clay]N sux:šarag[dry]V/t
 c.5.3.6,The debate between Copper and Silver,,A107,sux:munumud[maltster]N sux:enten[winter]N sux:ni[self]RP sux:ten[extinguish]V/t sux:uzu[flesh]N sux:niŋ[thing]N
@@ -73,7 +73,7 @@ c.5.3.6,The debate between Copper and Silver,,A110,sux:gud[ox]N sux:mar[wagon]N 
 c.5.3.6,The debate between Copper and Silver,,A111,sux:anše[equid]N sux:ki[place]N sux:šudul[yoke]N sux:gu[neck]N sux:u[grass]N sux:il[raise]V/t
 c.5.3.6,The debate between Copper and Silver,,A112,sux:saŋ[head]N sux:ur[harness]N sux:X[X]V
 c.5.3.6,The debate between Copper and Silver,,A113,sux:mar[smear]V/t sux:še[barley]N sux:ur[drag]V/t sux:lili[plant]N
-c.5.3.6,The debate between Copper and Silver,,A114,sux:ŋala-dag[cease]V/t sux:šu-dag[roam-around]V/t
+c.5.3.6,The debate between Copper and Silver,,A114,sux:ŋala[cvne]N sux:dag[demolish]V/t
 c.5.3.6,The debate between Copper and Silver,,A115,sux:sas[grass]N
 c.5.3.6,The debate between Copper and Silver,,A116,
 c.5.3.6,The debate between Copper and Silver,,A117,sux:nagar[carpenter]N
@@ -91,7 +91,7 @@ c.5.3.6,The debate between Copper and Silver,,B7,
 c.5.3.6,The debate between Copper and Silver,,B8,sux:tuku[acquire]V/t
 c.5.3.6,The debate between Copper and Silver,,B9,sux:urmah[lion]N sux:BAD[BAD]V sux:SAR[SAR]V
 c.5.3.6,The debate between Copper and Silver,,B10,sux:uš[foundation]N sux:u[and]CNJ sux:gisig[fence]N sux:du[build]V/t
-c.5.3.6,The debate between Copper and Silver,,B11,sux:e[leave]V/i sux:šu[hand]N sux:šu-dag[roam-around]V/t
+c.5.3.6,The debate between Copper and Silver,,B11,sux:e[leave]V/i sux:šu[hand]N sux:dag[demolish]V/t
 c.5.3.6,The debate between Copper and Silver,,B12,sux:e[house]N sux:e[house]N sux:ŋešbun[meal]N sux:ešgar[assignment]N
 c.5.3.6,The debate between Copper and Silver,,B13,sux:kug[metal]N sux:sig[put]V/t sux:dub[tremble]V/t
 c.5.3.6,The debate between Copper and Silver,,B14,sux:namkalag[strength]N sux:ur[he]IP sux:dug[speak]V/t
@@ -148,7 +148,7 @@ c.5.3.6,The debate between Copper and Silver,,D9,sux:e[house]N sux:ŋiri[foot]N 
 c.5.3.6,The debate between Copper and Silver,,D10,sux:a[arm]N sux:sa[sinew]N sux:gi[turn]V/i sux:zir[break]V/t sux:gar[unmng]V/t
 c.5.3.6,The debate between Copper and Silver,,D11,sux:heŋal[plenty]N sux:uŋ[people]N sux:šum[give]V/t sux:du[spread]V/t
 c.5.3.6,The debate between Copper and Silver,,D12,sux:kug[metal]N sux:egal[palace]N sux:igi[eye]N sux:bar[outside]V/t
-c.5.3.6,The debate between Copper and Silver,,D13,sux:an[sky]N sux:mul[star]N sux:gur[turn]V/i sux:šu[hand]N sux:šu-du[complete]V/t
+c.5.3.6,The debate between Copper and Silver,,D13,sux:an[sky]N sux:mul[star]N sux:gur[turn]V/i sux:šu[hand]N sux:du[push]V/t
 c.5.3.6,The debate between Copper and Silver,,D14,sux:gana[come-on!]J sux:kiŋ[work]N sux:a[arm]N sux:ak[do]V/t sux:Enlil[1]DN sux:tah[add]V/t
 c.5.3.6,The debate between Copper and Silver,,D15,sux:mašuzudak[goat]N sux:eme[tongue]N sux:sud[distant]V/i sux:igi[eye]N sux:du[spread]V/t
 c.5.3.6,The debate between Copper and Silver,,D16,sux:šag[heart]N sux:egal[palace]N sux:kigub[station]N sux:ŋešbun[meal]N sux:ešgar[assignment]N
@@ -173,7 +173,7 @@ c.5.3.6,The debate between Copper and Silver,,D34,sux:kin[sickle]N sux:še[barle
 c.5.3.6,The debate between Copper and Silver,,D35,sux:ur[he]IP sux:en[cvne]N sux:lu[person]N sux:tar[cut]V/t
 c.5.3.6,The debate between Copper and Silver,,D36,sux:buru[harvest]N sux:enten[winter]N sux:giŋ[ax]N sux:bulug[needle]N sux:niŋ[thing]N sux:e[house]N sux:du[build]V/t sux:u[and]CNJ sux:kir[lamb]N sux:zaʾe[you]IP sux:ŋal[be]V/i
 c.5.3.6,The debate between Copper and Silver,,D37,sux:ur[he]IP sux:en[cvne]N sux:lu[person]N sux:tar[cut]V/t
-c.5.3.6,The debate between Copper and Silver,,D38,sux:kug[metal]N sux:sahar[soil]N sux:e[house]N sux:šag[heart]N sux:ŋeštug[ear]N sux:ŋeštug-ulu[forget]V/t
+c.5.3.6,The debate between Copper and Silver,,D38,sux:kug[metal]N sux:sahar[soil]N sux:e[house]N sux:šag[heart]N sux:ŋeštug[ear]N sux:ulu[cvve]V/t
 c.5.3.6,The debate between Copper and Silver,,D39,sux:peš[mouse]N sux:kurku[wish]N sux:e[house]N sux:sig[silent]N sux:eme[tongue]N sux:sag[beat]V/t
 c.5.3.6,The debate between Copper and Silver,,D40,sux:kug[metal]N sux:egal[palace]N sux:nu[not]V/i sux:kigub[station]N
 c.5.3.6,The debate between Copper and Silver,,D41,sux:ki[place]N sux:zah[disappear]V/i sux:kitum[burial]N sux:ur[he]IP sux:kigub[station]N

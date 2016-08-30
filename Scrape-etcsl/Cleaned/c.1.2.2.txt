@@ -13,7 +13,7 @@ c.1.2.2,Enlil and Sud,A,A11,sux:zag[side]N sux:an[sky]N sux:ki[place]N sux:Kieng
 c.1.2.2,Enlil and Sud,A,A12,sux:kur[mountain]N sux:gal[big]V/i sux:Enlil[1]DN sux:kalam[land]N sux:kiŋ[seek]V/t sux:Ereš[1]SN sux:gub[stand]V/i
 c.1.2.2,Enlil and Sud,A,A13,sux:igi[eye]N sux:bar[outside]V/t sux:munus[woman]N sux:šag[heart]N sux:pad[find]V/t
 c.1.2.2,Enlil and Sud,A,A14,sux:teŋ[approach]V/i sux:šag[heart]N sux:hul[rejoice]V/i sux:dirig[float]V/i sux:inim[word]N sux:bala[turn]V/t
-c.1.2.2,Enlil and Sud,A,A15,sux:pala[garment]N sux:namnin[ladyship]N sux:šu-du[complete]V/t sux:esir[street]N sux:gub[stand]V/i
+c.1.2.2,Enlil and Sud,A,A15,sux:pala[garment]N sux:namnin[ladyship]N sux:du[push]V/t sux:esir[street]N sux:gub[stand]V/i
 c.1.2.2,Enlil and Sud,A,A16,sux:namzilzil[pleasantness]N sux:aše[now]N sux:nir[trust]N sux:ŋal[be]V/i sux:lu[person]N sux:teš[vigor]N sux:tuku[acquire]V/t
 c.1.2.2,Enlil and Sud,A,A17,sux:Sud[1]DN sux:Enlil[1]DN sux:a[arm]N sux:namtur[smallness]N sux:inim[word]N sux:gi[turn]V/i
 c.1.2.2,Enlil and Sud,A,A18,sux-x-emesal:me[I]IP sux:kan[gate]N sux-x-emesal:šerŋal[authoritative]AJ sux:gub[stand]V/i sux:aba[who?]QP sux:šu[hand]N sux:kar[blow]V/t
@@ -25,7 +25,7 @@ c.1.2.2,Enlil and Sud,A,A23,sux:gub[stand]V/i
 c.1.2.2,Enlil and Sud,A,A24,sux:ŋen[go]V/i sux:dug[speak]V/t sux:inim[word]N sux:bala[turn]V/t sux:ŋidlam[spouse]N sux:me[be]V/i
 c.1.2.2,Enlil and Sud,A,A25,sux:ne[cvne]N sux:sub[rub]V/t sux:nin[sister]N sux:igi[eye]N sux:sag[good]V/i sux:ur[he]IP sux:šu[hand]N sux:me[be]V/i
 c.1.2.2,Enlil and Sud,A,A26,sux:inim[word]N sux:kag[mouth]N sux:e[leave]V/i sux:igi[eye]N sux:e[house]N sux:kur[enter]V/i
-c.1.2.2,Enlil and Sud,A,A27,sux:en[lord]N sux:galanzu[wise]AJ sux:šag[heart]N sux:ni[self]RP sux:dum-dam[rumbling-noise]N sux:za[cvve]V/t
+c.1.2.2,Enlil and Sud,A,A27,sux:en[lord]N sux:galanzu[wise]AJ sux:šag[heart]N sux:ni[self]RP sux:dumdam[sound]N sux:za[cvve]V/t
 c.1.2.2,Enlil and Sud,A,A28,sux:gu[voice]N sux:de[pour]V/t sux:uʾul[consent]N sux:arazu[supplication]N sux:Nuska[1]DN sux:a[arm]N sux:aŋ[measure]V/t
 c.1.2.2,Enlil and Sud,A,A29,sux:gi[turn]V/i sux:Ereš[1]SN sux:iri[city]N sux:Nisabak[1]DN sux:iri[city]N sux:kiʾur[foundation]N sux:mah[great]V/i
 c.1.2.2,Enlil and Sud,A,A30,sux:gi[turn]V/i sux:niŋ[thing]N sux:dug[speak]V/t sux:ane[he]IP sux:tah[add]V/t
@@ -157,7 +157,7 @@ c.1.2.2,Enlil and Sud,A,A164,sux:buru[harvest]N sux:ezem[festival]N sux:gal[big]
 c.1.2.2,Enlil and Sud,A,A165,sux:namdubsar[the-scribal-arts]N sux:dub[tablet]N sux:mul[star]N sux:gunu[speckled]V/i sux:gidubak[stylus]N sux:ŋešdubdim[tool]N
 c.1.2.2,Enlil and Sud,A,A166,sux:niŋ₂.ŠID[account]N sux:šudum[reckoning]N sux:zig[rise]V/t sux:ŋar[place]V/t sux:eš[rope]N sux:zagin[lapis]N
 c.1.2.2,Enlil and Sud,A,A167,sux:saŋ[head]N sux:gag[nail]N sux:ginindan[rod]N sux:bulug[needle]N sux:sig[put]V/t
-c.1.2.2,Enlil and Sud,A,A168,sux:šu[hand]N sux:šu-du[complete]V/t sux:ensik[ruler]N
+c.1.2.2,Enlil and Sud,A,A168,sux:šu[hand]N sux:du[push]V/t sux:ensik[ruler]N
 c.1.2.2,Enlil and Sud,A,A169,sux:munus[woman]N sux:saŋ[head]N sux:il[raise]V/t sux:Nungalene[1]DN
 c.1.2.2,Enlil and Sud,A,A170,sux:udata[hereafter]MA sux:Sud[1]DN sux:Ninlil[1]DN
 c.1.2.2,Enlil and Sud,A,B1,sux:šir[song]N sux:kug[pure]V/i sux:mi[cvne]N sux:dug[speak]V/t sux:Enlil[1]DN sux:Ninlil[1]DN
@@ -184,7 +184,7 @@ c.1.2.2,Enlil and Sud,B,20,sux:še[barley]N sux:saŋ[head]N sux:mu[grow]V/t sux:
 c.1.2.2,Enlil and Sud,B,21,sux:dug[speak]V/t sux:luʾerim[evildoer]N sux:me[be]V/i sux:usu[strength]N sux:uŋ[people]N sux:dul[cover]V/t
 c.1.2.2,Enlil and Sud,B,22,sux:buru[harvest]N sux:ezem[festival]N sux:gal[big]V/i sux:Enlil[1]DN sux:uŋ[people]N sux:sig[put]V/t sux:me[be]V/i
 c.1.2.2,Enlil and Sud,B,23,sux:ginindan[rod]N sux:bulug[needle]N sux:sig[put]V/t sux:eg[levee]N sux:par[canal]N sux:dab[seize]V/t
-c.1.2.2,Enlil and Sud,B,24,sux:šu[hand]N sux:šu-du[complete]V/t sux:ensik[ruler]N sux:ulul[cultivation]N sux:šu[hand]N sux:gin[firm]V/i
+c.1.2.2,Enlil and Sud,B,24,sux:šu[hand]N sux:du[push]V/t sux:ensik[ruler]N sux:ulul[cultivation]N sux:šu[hand]N sux:gin[firm]V/i
 c.1.2.2,Enlil and Sud,B,25,sux:munus[woman]N sux:saŋ[head]N sux:il[raise]V/t sux:kur[mountain]N sux:zag[side]N sux:dib[pass]V/t sux:igi[eye]N sux:il[raise]V/t sux:pad[find]V/t
 c.1.2.2,Enlil and Sud,B,26,sux:ud[sun]N sux:Sud[1]DN sux:Enlil[1]DN sux:lugal[king]N sux:Ninlil[1]DN sux:nin[lady]N sux:me[be]V/i
 c.1.2.2,Enlil and Sud,B,27,sux:diŋir[deity]N sux:mu[name]N sux:tuku[acquire]V/t sux:mu[name]N sux:gal[big]V/i sux:tuku[acquire]V/t sux:ugu[food]N sux:rig[donate]V/t

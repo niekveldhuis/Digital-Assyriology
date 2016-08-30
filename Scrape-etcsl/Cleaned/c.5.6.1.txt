@@ -27,7 +27,7 @@ c.5.6.1,The instructions of Šuruppag,,25,sux:dud[combat]N sux:ak[do]V/t
 c.5.6.1,The instructions of Šuruppag,,26,sux:kan[gate]N sux:egal[palace]N sux:sig[put]V/t
 c.5.6.1,The instructions of Šuruppag,,27,sux:dud[combat]N sux:bar[outside]V/t sux:gub[stand]V/i sux:inu[straw]N sux:sila[street]N sux:kur[different]V/i sux:ŋen[go]V/i
 c.5.6.1,The instructions of Šuruppag,,28,sux:niŋ[thing]N sux:zuh[steal]V/t sux:ni[self]RP sux:BAD[BAD]V
-c.5.6.1,The instructions of Šuruppag,,29,sux:e[house]N sux:burud[perforate]V/t sux:mi.si.IŠ[chest]N sux:al-dug[desire]V/t sux:dug[speak]V/t
+c.5.6.1,The instructions of Šuruppag,,29,sux:e[house]N sux:burud[perforate]V/t sux:mi.si.IŠ[chest]N sux:al[hoe]N sux:dug[speak]V/t
 c.5.6.1,The instructions of Šuruppag,,30,sux:ni[self]RP sux:piriŋ[lion]N sux:me[be]V/i sux:dab[seize]V/t sux:saŋ[head]N sux:me[be]V/i
 c.5.6.1,The instructions of Šuruppag,,31,sux:dumu[child]N sux:sa[sinew]N sux:gaz[kill]V/t sux:ak[do]V/t sux:ni[self]RP sux:tun[ax]N sux:bar[outside]V/t
 c.5.6.1,The instructions of Šuruppag,,32,sux:nita[male]N sux:niŋirsi[friend]N sux:ak[do]V/t sux:ni[self]RP
@@ -110,8 +110,8 @@ c.5.6.1,The instructions of Šuruppag,,107,sux:gal[big]V/i sux:dug[speak]V/t sux
 c.5.6.1,The instructions of Šuruppag,,108,sux:silim[healthy]V/i sux:dug[speak]V/t sux:kag[mouth]N sux:sug[empty]V/i sux:ŋar[place]V/t
 c.5.6.1,The instructions of Šuruppag,,109,sux:kuš[skin]N sux:du[build]V/t sux:kuš[skin]N sux:du[build]V/t
 c.5.6.1,The instructions of Šuruppag,,110,sux:usutuku[strong]AJ sux:šu[hand]N sux:lu[person]N sux:de[bring]V/t
-c.5.6.1,The instructions of Šuruppag,,111,sux:lil[fool]N sux:niŋ[thing]N sux:ugu-de[disappear]V/t sux:de[pour]V/t
-c.5.6.1,The instructions of Šuruppag,,112,sux:usag[sleep]N sux:lil[fool]N sux:niŋ[thing]N sux:ugu-de[disappear]V/t sux:de[pour]V/t
+c.5.6.1,The instructions of Šuruppag,,111,sux:lil[fool]N sux:niŋ[thing]N sux:ugu[cvne]N sux:de[pour]V/t
+c.5.6.1,The instructions of Šuruppag,,112,sux:usag[sleep]N sux:lil[fool]N sux:niŋ[thing]N sux:ugu[cvne]N sux:de[pour]V/t
 c.5.6.1,The instructions of Šuruppag,,113,sux:kešed[bind]V/t sux:kiri[nose]N sux:šu[hand]N sux:ŋal[be]V/i
 c.5.6.1,The instructions of Šuruppag,,114,sux:til[live]V/i sux:kiri[nose]N sux:šu[hand]N sux:ŋal[be]V/i
 c.5.6.1,The instructions of Šuruppag,,115,sux:saŋdu[head]N sux:tuku[acquire]V/t sux:nam[fate]N sux:tar[cut]V/t
@@ -121,7 +121,7 @@ c.5.6.1,The instructions of Šuruppag,,118,sux:dam[spouse]N sux:dim[helpless]V/i
 c.5.6.1,The instructions of Šuruppag,,119,sux:lu[person]N sux:huŋ[hire]V/t sux:lub[bag]N sux:ba[allot]V/t
 c.5.6.1,The instructions of Šuruppag,,120,sux:lub[bag]N sux:gu[eat]V/t
 c.5.6.1,The instructions of Šuruppag,,121,sux:lub[bag]N sux:til[complete]V/i
-c.5.6.1,The instructions of Šuruppag,,122,sux:ŋala-dag[cease]V/t sux:šu-dag[roam-around]V/t
+c.5.6.1,The instructions of Šuruppag,,122,sux:ŋala[cvne]N sux:dag[demolish]V/t
 c.5.6.1,The instructions of Šuruppag,,123,sux:gu[eat]V/t sux:egal[palace]N sux:gub[stand]V/i
 c.5.6.1,The instructions of Šuruppag,,124,sux:dumunita[son]N sux:e[house]N sux:dug[speak]V/t
 c.5.6.1,The instructions of Šuruppag,,125,sux:dumumunus[daughter]N sux:emi[household]N sux:dug[speak]V/t
@@ -135,7 +135,7 @@ c.5.6.1,The instructions of Šuruppag,,132,sux:geme[worker]N sux:deg[collect]V/t
 c.5.6.1,The instructions of Šuruppag,,133,sux:dumu[child]N sux:geme[worker]N sux:ri[impose]V/t sux:egir[princess]N sux:gu[eat]V/t sux:ur[he]IP sux:me[be]V/i
 c.5.6.1,The instructions of Šuruppag,,134,sux:aš[curse]N sux:dug[speak]V/t sux:bar[outside]V/t sux:dar[split]V/t
 c.5.6.1,The instructions of Šuruppag,,135,sux:igitumla[spy?]N sux:la[hang]V/t sux:saŋ[head]N sux:ŋeš[tree]N sux:rah[beat]V/t
-c.5.6.1,The instructions of Šuruppag,,136,sux:gu[voice]N sux:murmara-ša[roar]V/t sux:lulul[liar]N sux:tug[textile]N sux:bir[shred]V/t
+c.5.6.1,The instructions of Šuruppag,,136,sux:gu[voice]N sux:mur[noise]N sux:lulul[liar]N sux:tug[textile]N sux:bir[shred]V/t
 c.5.6.1,The instructions of Šuruppag,,137,sux:aš[curse]N sux:dug[speak]V/t sux:niŋerim[evil]N sux:nadeg[advice]N sux:deg[collect]V/t sux:il[raise]V/t
 c.5.6.1,The instructions of Šuruppag,,138,sux:inim[word]N sux:dirig[float]V/i sux:ububul[pustule]N sux:u[grass]N sux:lipiš[innards]N sux:gig[sick]V/i
 c.5.6.1,The instructions of Šuruppag,,139,sux:dar[split]V/t sux:zalag[shine]V/i
@@ -154,7 +154,7 @@ c.5.6.1,The instructions of Šuruppag,,151,sux:nadeg[advice]N sux:deg[collect]V/
 c.5.6.1,The instructions of Šuruppag,,152,sux:inim[word]N sux:dug[speak]V/t sux:bala[turn]V/t
 c.5.6.1,The instructions of Šuruppag,,152A,sux:nadeg[advice]N sux:deg[collect]V/t sux:abba[father]N sux:niŋ[thing]N sux:kal[rare]V/i sux:gu[neck]N sux:ak[do]V/t
 c.5.6.1,The instructions of Šuruppag,,153,sux:dumu[child]N sux:engar[farmer]N sux:niŋ[thing]N sux:rah[beat]V/t sux:eg[levee]N sux:par[canal]N sux:rah[beat]V/t
-c.5.6.1,The instructions of Šuruppag,,154,sux:karkid[prostitute]N sux:sam[price]N sux:kag[mouth]N sux:usar-ak[sharpen]V/t
+c.5.6.1,The instructions of Šuruppag,,154,sux:karkid[prostitute]N sux:sam[price]N sux:kag[mouth]N sux:usar[cvne]N
 c.5.6.1,The instructions of Šuruppag,,155,sux:amaʾatud[slave]N sux:sam[price]N sux:u[grass]N sux:lipiš[innards]N sux:gig[sick]V/i
 c.5.6.1,The instructions of Šuruppag,,156,sux:dumuŋir[citizen]N sux:sam[price]N sux:zag[side]N sux:egar[wall]N sux:us[follow]V/t
 c.5.6.1,The instructions of Šuruppag,,157,sux:geme[worker]N sux:egal[palace]N sux:sam[price]N sux:ŋiri[foot]N sux:dur[buttocks]N sux:e[house]N sux:ŋal[be]V/i
@@ -179,15 +179,15 @@ c.5.6.1,The instructions of Šuruppag,,173,sux:šešgal[relation]N sux:ŋizzal[e
 c.5.6.1,The instructions of Šuruppag,,174,sux:nin[sister]N sux:gal[big]V/i sux:ama[mother]N sux:gu[neck]N sux:ŋal[be]V/i
 c.5.6.1,The instructions of Šuruppag,,175,sux:zaʾe[you]IP sux:igi[eye]N sux:kiŋ[work]N sux:ak[do]V/t
 c.5.6.1,The instructions of Šuruppag,,176,sux:kag[mouth]N sux:niŋnam[anything]N sux:lu[abundant]V/i
-c.5.6.1,The instructions of Šuruppag,,177,sux:ŋala-dag[cease]V/t sux:šu-dag[roam-around]V/t sux:e[house]N sux:dur[buttocks]N sux:ŋen[go]V/i
+c.5.6.1,The instructions of Šuruppag,,177,sux:ŋala[cvne]N sux:dag[demolish]V/t sux:e[house]N sux:dur[buttocks]N sux:ŋen[go]V/i
 c.5.6.1,The instructions of Šuruppag,,178,sux:ninda[bread]N sux:lu[person]N sux:kur[mountain]N sux:ed[ascend]V/i
 c.5.6.1,The instructions of Šuruppag,,179,sux:lulul[liar]N sux:lu[person]N sux:bar[outside]V/t sux:de[bring]V/t
 c.5.6.1,The instructions of Šuruppag,,180,sux:ninda[bread]N sux:lu[person]N sux:kur[mountain]N sux:ed[ascend]V/i
 c.5.6.1,The instructions of Šuruppag,,181,sux-x-emesal:uru[city]N sux:tur[small]V/i sux:lugal[king]N sux:amar[young]N sux:utud[bear]V/t
 c.5.6.1,The instructions of Šuruppag,,182,sux-x-emesal:uru[city]N sux:mah[great]V/i sux:e[house]N sux:du[build]V/t sux:hur[scratch]V/t
-c.5.6.1,The instructions of Šuruppag,,183,sux:a[arm]N sux:šu[hand]N sux:šu-du[complete]V/t
+c.5.6.1,The instructions of Šuruppag,,183,sux:a[arm]N sux:šu[hand]N sux:du[push]V/t
 c.5.6.1,The instructions of Šuruppag,,184,sux:lu[person]N sux:niŋtuku[rich]AJ sux:lu[person]N sux:niŋ[thing]N sux:tuku[acquire]V/t sux:gig[sick]V/i sux:ŋar[place]V/t
-c.5.6.1,The instructions of Šuruppag,,185,sux:lu[person]N sux:dam[spouse]N sux:tuku[acquire]V/t sux:a[arm]N sux:šu[hand]N sux:šu-du[complete]V/t
+c.5.6.1,The instructions of Šuruppag,,185,sux:lu[person]N sux:dam[spouse]N sux:tuku[acquire]V/t sux:a[arm]N sux:šu[hand]N sux:du[push]V/t
 c.5.6.1,The instructions of Šuruppag,,186,sux:dam[spouse]N sux:tuku[acquire]V/t sux:šertab[fence]N sux:nud[lie]V/i
 c.5.6.1,The instructions of Šuruppag,,187,sux:e[house]N sux:gul[destroy]V/t sux:e[house]N sux:gul[destroy]V/t
 c.5.6.1,The instructions of Šuruppag,,188,sux:lu[person]N sux:zig[rise]V/t sux:lu[person]N sux:zig[rise]V/t
@@ -230,7 +230,7 @@ c.5.6.1,The instructions of Šuruppag,,222,sux:šu.KU₆[burglar?]N sux:kuŋ[sta
 c.5.6.1,The instructions of Šuruppag,,223,sux:e[house]N sux:nim[fly]N sux:dal[fly]V/t
 c.5.6.1,The instructions of Šuruppag,,224,sux:eme[donkey]N sux:sila[street]N sux:inim[word]N sux:šid[count]V/t
 c.5.6.1,The instructions of Šuruppag,,225,sux:SAL.ŠAH[sow]N sux:sila[street]N sux:dumu[child]N sux:ga[milk]N sux:gu[eat]V/t
-c.5.6.1,The instructions of Šuruppag,,226,sux:munus[woman]N sux:kiri[nose]N sux:hur[scratch]V/t sux:ak[do]V/t sux:šeg-gi[make-noise]V/t sux:gi[turn]V/i
+c.5.6.1,The instructions of Šuruppag,,226,sux:munus[woman]N sux:kiri[nose]N sux:hur[scratch]V/t sux:ak[do]V/t sux:šeg[voice]N sux:gi[turn]V/i
 c.5.6.1,The instructions of Šuruppag,,227,sux:balak[spindle]N sux:hur[scratch]V/t sux:šu[hand]N sux:ŋal[be]V/i
 c.5.6.1,The instructions of Šuruppag,,228,sux:e[house]N sux:kur[enter]V/i
 c.5.6.1,The instructions of Šuruppag,,229,sux:esir[street]N sux:gu[neck]N sux:gi[turn]V/i
@@ -240,7 +240,7 @@ c.5.6.1,The instructions of Šuruppag,,232,sux:ki[place]N sux:dud[combat]N sux:�
 c.5.6.1,The instructions of Šuruppag,,233,sux:ki[place]N sux:šub[fall]V/t sux:a[arm]N
 c.5.6.1,The instructions of Šuruppag,,234,sux:gi[turn]V/i sux:pad[find]V/t sux:dug[speak]V/t
 c.5.6.1,The instructions of Šuruppag,,235,sux:šag[heart]N sux:hulu[bad]V/i sux:gig[sick]V/i sux:tuku[acquire]V/t
-c.5.6.1,The instructions of Šuruppag,,236,sux:dumu[child]N sux:gum₂-ga-am₃[animal-noise]N sux:za[cvve]V/t
+c.5.6.1,The instructions of Šuruppag,,236,sux:dumu[child]N sux:gumgam[sound]N sux:za[cvve]V/t
 c.5.6.1,The instructions of Šuruppag,,237,
 c.5.6.1,The instructions of Šuruppag,,238,sux:de[bring]V/t
 c.5.6.1,The instructions of Šuruppag,,239,sux:nud[lie]V/i
@@ -268,7 +268,7 @@ c.5.6.1,The instructions of Šuruppag,,260,sux:nadeg[advice]N sux:deg[collect]V/
 c.5.6.1,The instructions of Šuruppag,,261,sux:e[house]N sux:iri[city]N sux:bar[outside]V/t sux:iri[city]N sux:šag[heart]N sux:du[build]V/t
 c.5.6.1,The instructions of Šuruppag,,262,sux:dumu[child]N sux:gana[field]N sux:eg[levee]N sux:dur[buttocks]N sux:ŋal[be]V/i
 c.5.6.1,The instructions of Šuruppag,,263,sux:duru[wet]V/i sux:šukur[ration]N sux:ah[dry]V/i sux:šukur[ration]N
-c.5.6.1,The instructions of Šuruppag,,264,sux:niŋ[thing]N sux:ugu-de[disappear]V/t sux:de[pour]V/t sux:niŋmeŋar[silence]N
+c.5.6.1,The instructions of Šuruppag,,264,sux:niŋ[thing]N sux:ugu[cvne]N sux:de[pour]V/t sux:niŋmeŋar[silence]N
 c.5.6.1,The instructions of Šuruppag,,265,sux:giŋ[ax]N sux:Dilmun[1]GN sux:sam[price]N
 c.5.6.1,The instructions of Šuruppag,,266,sux:ur[dog]N sux:zu[know]V/t sux:hulu[bad]V/i sux:lu[person]N sux:zu[know]V/t sux:huš[reddish]V/i
 c.5.6.1,The instructions of Šuruppag,,267,sux:kaskal[way]N sux:zu[know]V/t sux:gaba[chest]N sux:kur[mountain]N
@@ -283,5 +283,5 @@ c.5.6.1,The instructions of Šuruppag,,275,sux:egal[palace]N sux:kur[enter]V/i s
 c.5.6.1,The instructions of Šuruppag,,276,sux:kadra[gift]N sux:inim[word]N sux:mul[star]N
 c.5.6.1,The instructions of Šuruppag,,277,sux:nadeg[advice]N sux:deg[collect]V/t sux:Šuruppag[1]RN sux:dumu[child]N sux:Ubaratutu[1]RN sux:nadeg[advice]N sux:deg[collect]V/t
 c.5.6.1,The instructions of Šuruppag,,278,sux:Šuruppag[1]RN sux:dumu[child]N sux:Ubaratutu[1]RN sux:nadeg[advice]N sux:deg[collect]V/t
-c.5.6.1,The instructions of Šuruppag,,279,sux:nin[lady]N sux:dub[tablet]N sux:gal[big]V/i sux:šu[hand]N sux:šu-du[complete]V/t
+c.5.6.1,The instructions of Šuruppag,,279,sux:nin[lady]N sux:dub[tablet]N sux:gal[big]V/i sux:šu[hand]N sux:du[push]V/t
 c.5.6.1,The instructions of Šuruppag,,280,sux:kisikil[woman]N sux:Nisabak[1]DN sux:zamin[lyre]N

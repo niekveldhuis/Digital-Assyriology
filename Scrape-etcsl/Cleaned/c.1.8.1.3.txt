@@ -5,7 +5,7 @@ c.1.8.1.3,The death of Gilgameš,Nibru,A3,sux:aʾur[limbs]N sux:sag[good]V/i sux
 c.1.8.1.3,The death of Gilgameš,Nibru,A4,sux:nud[lie]V/i sux:hur[ever]N sux:zig[rise]V/t
 c.1.8.1.3,The death of Gilgameš,Nibru,A5,sux:niŋerim[evil]N sux:nud[lie]V/i sux:hur[ever]N sux:zig[rise]V/t
 c.1.8.1.3,The death of Gilgameš,Nibru,A6,sux:nita[male]N sux:nud[lie]V/i sux:hur[ever]N sux:zig[rise]V/t
-c.1.8.1.3,The death of Gilgameš,Nibru,A7,sux:ŋešpu[rim]N sux:lirum[strength]N sux:šu[hand]N sux:šu-du[complete]V/t sux:nud[lie]V/i sux:hur[ever]N sux:zig[rise]V/t
+c.1.8.1.3,The death of Gilgameš,Nibru,A7,sux:ŋešpu[rim]N sux:lirum[strength]N sux:šu[hand]N sux:du[push]V/t sux:nud[lie]V/i sux:hur[ever]N sux:zig[rise]V/t
 c.1.8.1.3,The death of Gilgameš,Nibru,A8,sux:lu[person]N sux:ŋal[be]V/i sux:nud[lie]V/i sux:hur[ever]N sux:zig[rise]V/t
 c.1.8.1.3,The death of Gilgameš,Nibru,A9,sux:en[lord]N sux:Kulaba[1]SN sux:nud[lie]V/i sux:hur[ever]N sux:zig[rise]V/t
 c.1.8.1.3,The death of Gilgameš,Nibru,A10,sux:igi[eye]N sux:kugzu[wise]AJ sux:dug[speak]V/t sux:nud[lie]V/i sux:hur[ever]N sux:zig[rise]V/t
@@ -280,7 +280,7 @@ c.1.8.1.3,The death of Gilgameš,Me-Turan,F14,sux:e[house]N sux:diŋir[deity]N s
 c.1.8.1.3,The death of Gilgameš,Me-Turan,F15,sux:Ziudsura[1]RN sux:kituš[dwelling]N sux:saŋ[head]N sux:teŋ[approach]V/i
 c.1.8.1.3,The death of Gilgameš,Me-Turan,F16,sux:me[Being]N sux:Kiengir[1]GN sux:ki[place]N sux:ud[sun]N sux:halam[forsake]V/i sux:ud[sun]N sux:ul[distant]V/i
 c.1.8.1.3,The death of Gilgameš,Me-Turan,F17,sux:a[arm]N sux:aŋ[measure]V/t sux:biluda[rituals]N sux:kalam[land]N sux:ed[ascend]V/i
-c.1.8.1.3,The death of Gilgameš,Me-Turan,F18,sux:šuluh[cleansing]N sux:kaluh[cleansing]N sux:si[horn]N sux:si-sa[straighten]V/t
+c.1.8.1.3,The death of Gilgameš,Me-Turan,F18,sux:šuluh[cleansing]N sux:kaluh[cleansing]N sux:si[horn]N sux:sisa[straighten]V/t
 c.1.8.1.3,The death of Gilgameš,Me-Turan,F19,sux:a[water]N
 c.1.8.1.3,The death of Gilgameš,Me-Turan,F23,
 c.1.8.1.3,The death of Gilgameš,Me-Turan,F24,sux:rah[beat]V/t sux:de[bring]V/t
@@ -352,7 +352,7 @@ c.1.8.1.3,The death of Gilgameš,Me-Turan,F108,sux:e[house]N sux:diŋir[deity]N 
 c.1.8.1.3,The death of Gilgameš,Me-Turan,F109,
 c.1.8.1.3,The death of Gilgameš,Me-Turan,F110,sux:me[Being]N sux:Kiengir[1]GN sux:ki[place]N sux:ud[sun]N sux:halam[forsake]V/i sux:ud[sun]N sux:ul[distant]V/i
 c.1.8.1.3,The death of Gilgameš,Me-Turan,F111,sux:a[arm]N sux:aŋ[measure]V/t sux:biluda[rituals]N sux:kalam[land]N sux:ed[ascend]V/i
-c.1.8.1.3,The death of Gilgameš,Me-Turan,F112,sux:šuluh[cleansing]N sux:kaluh[cleansing]N sux:si[horn]N sux:si-sa[straighten]V/t
+c.1.8.1.3,The death of Gilgameš,Me-Turan,F112,sux:šuluh[cleansing]N sux:kaluh[cleansing]N sux:si[horn]N sux:sisa[straighten]V/t
 c.1.8.1.3,The death of Gilgameš,Me-Turan,F113,sux:a[water]N sux:gukin[totality]N sux:kur[mountain]N
 c.1.8.1.3,The death of Gilgameš,Me-Turan,F114,
 c.1.8.1.3,The death of Gilgameš,Me-Turan,F115,sux:de[bring]V/t

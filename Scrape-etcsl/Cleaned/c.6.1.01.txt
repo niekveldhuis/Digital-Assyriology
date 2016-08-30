@@ -12,7 +12,7 @@ c.6.1.01,Proverbs: collection 1,,A10,sux:ninda[bread]N sux:heŋal[plenty]N sux:n
 c.6.1.01,Proverbs: collection 1,,A11,sux:ninda[bread]N sux:ŋal[be]V/i sux:lukur[stranger]N sux:gu[eat]V/t
 c.6.1.01,Proverbs: collection 1,,A12,sux:niŋ[thing]N sux:niŋ[thing]N sux:kur[different]V/i
 c.6.1.01,Proverbs: collection 1,,A13,sux:niŋ[thing]N sux:pad[find]V/t sux:dug[speak]V/t
-c.6.1.01,Proverbs: collection 1,,A14,sux:niŋ[thing]N sux:ugu-de[disappear]V/t sux:de[pour]V/t sux:dug[speak]V/t
+c.6.1.01,Proverbs: collection 1,,A14,sux:niŋ[thing]N sux:ugu[cvne]N sux:de[pour]V/t sux:dug[speak]V/t
 c.6.1.01,Proverbs: collection 1,,A15,sux:niŋ[thing]N sux:ud[sun]N sux:ŋal[be]V/i
 c.6.1.01,Proverbs: collection 1,,A16,sux:kisikil[woman]N sux:tur[small]V/i sux:ur[root]N sux:dam[spouse]N sux:šed[defecate]V/t sux:tuš[sit]V/i
 c.6.1.01,Proverbs: collection 1,,A17,sux:niŋ[thing]N sux:ud[sun]N sux:tur[small]V/i
@@ -28,7 +28,7 @@ c.6.1.01,Proverbs: collection 1,,A26,sux:niŋ[thing]N sux:ud[sun]N sux:gu[eat]V/
 c.6.1.01,Proverbs: collection 1,,A27,sux:niŋ[thing]N sux:ur[dog]N sux:gu[eat]V/t sux:ud[sun]N sux:ŋar[place]V/t
 c.6.1.01,Proverbs: collection 1,,A28,sux:ninda[bread]N sux:hulu[bad]V/i sux:ŋal[be]V/i sux:gu[neck]N sux:šub[fall]V/t
 c.6.1.01,Proverbs: collection 1,,A29,sux:ninda[bread]N sux:1/2[1/2]NU sux:šag[heart]N sux:zig[rise]V/t
-c.6.1.01,Proverbs: collection 1,,A30,sux:niŋtuku[rich]AJ sux:al-dug[desire]V/t sux:dug[speak]V/t sux:kešed[bind]V/t sux:niŋgig[bad-thing]N
+c.6.1.01,Proverbs: collection 1,,A30,sux:niŋtuku[rich]AJ sux:al[hoe]N sux:dug[speak]V/t sux:kešed[bind]V/t sux:niŋgig[bad-thing]N
 c.6.1.01,Proverbs: collection 1,,A31,sux:ŋeštug[ear]N
 c.6.1.01,Proverbs: collection 1,,A32,sux:niŋhulu[evil]N sux:kušu[tired]V/i sux:nindaba[offering]N sux:tag[touch]V/t
 c.6.1.01,Proverbs: collection 1,,A33,sux:niŋ[thing]N sux:ak[do]V/t sux:gu[eat]V/t sux:nam[fate]N sux:tar[cut]V/t
@@ -61,7 +61,7 @@ c.6.1.01,Proverbs: collection 1,,A59,sux:ninda[bread]N sux:tunpad[piece]N sux:da
 c.6.1.01,Proverbs: collection 1,,A60,sux:zidgu[flour]N sux:amaʾatud[slave]N sux:lal[syrup]N sux:inun[ghee]N sux:hi[mix]V/t sux:anir[lament]N sux:gul[destroy]V/t
 c.6.1.01,Proverbs: collection 1,,A61,sux:dabin[semolina]N sux:ašag[field]N sux:suš[grease]N
 c.6.1.01,Proverbs: collection 1,,A62,sux:ašag[field]N sux:ninda[bread]N sux:ŋal[be]V/i sux:dili[single]V/i sux:gu[eat]V/t
-c.6.1.01,Proverbs: collection 1,,A63,sux:zidgu[flour]N sux:munus[woman]N sux:egal[palace]N sux:šu-du[complete]V/t
+c.6.1.01,Proverbs: collection 1,,A63,sux:zidgu[flour]N sux:munus[woman]N sux:egal[palace]N sux:du[push]V/t
 c.6.1.01,Proverbs: collection 1,,A64,sux:ninda[bread]N sux:til[complete]V/i
 c.6.1.01,Proverbs: collection 1,,A65,sux:gug[cake]N sux:du[spread]V/t sux:šag[heart]N sux:niŋsilaŋ[dough]N sux:me[be]V/i
 c.6.1.01,Proverbs: collection 1,,A66,sux:ninda[bread]N sux:2[2]NU sux:1/2[1/2]NU sux:du[spread]V/t sux:šag[heart]N sux:de[bring]V/t

@@ -169,7 +169,7 @@ c.6.2.5,Proverbs: of unknown provenance,YBC 7351,3,sux:niŋgig[bad-thing]N sux:N
 c.6.2.5,Proverbs: of unknown provenance,YBC 7352,1,sux:lu[person]N sux:inim[word]N sux:gin[firm]V/i sux:bala[turn]V/t
 c.6.2.5,Proverbs: of unknown provenance,YBC 7352,2,sux:inim[word]N sux:diŋir[deity]N sux:namtar[fate]N sux:sag[good]V/i
 c.6.2.5,Proverbs: of unknown provenance,YBC 7352,3,sux:ud[sun]N sux:šuš[cover]V/t sux:ŋal[be]V/i
-c.6.2.5,Proverbs: of unknown provenance,Emory 106,1,sux:lugal[king]N sux:en[lord]N sux:an[sky]N sux:šu[hand]N sux:šu-du[complete]V/t
+c.6.2.5,Proverbs: of unknown provenance,Emory 106,1,sux:lugal[king]N sux:en[lord]N sux:an[sky]N sux:šu[hand]N sux:du[push]V/t
 c.6.2.5,Proverbs: of unknown provenance,Emory 106,2,sux:ambar[reed-bed]N sux:eria[wasteland]N sux:e[house]N sux:du[build]V/t
 c.6.2.5,Proverbs: of unknown provenance,NBC 8070,1,sux:ur[roof]N sux:lugal[king]N sux:gub[stand]V/i
 c.6.2.5,Proverbs: of unknown provenance,NBC 8070,2,sux:alal[tube]N sux:a[water]N sux:de[pour]V/t
@@ -188,7 +188,7 @@ c.6.2.5,Proverbs: of unknown provenance,YBC 7348,2,sux:ildum[band]N sux:50[50]NU
 c.6.2.5,Proverbs: of unknown provenance,YBC 7693,1,sux:ŋešgu[stock]N sux:KU[KU]V
 c.6.2.5,Proverbs: of unknown provenance,YBC 7693,2,sux:engar[farmer]N sux:gud[ox]N sux:addir[hire]N sux:sag[beat]V/t
 c.6.2.5,Proverbs: of unknown provenance,YBC 9908,1,sux:niŋgur[property]N sux:niŋgur[property]N sux:lugal[king]N
-c.6.2.5,Proverbs: of unknown provenance,YBC 9908,2,sux:kur[enter]V/i sux:si-sa[straighten]V/t sux:e[leave]V/i sux:silig[cease]V/t
+c.6.2.5,Proverbs: of unknown provenance,YBC 9908,2,sux:kur[enter]V/i sux:sisa[straighten]V/t sux:e[leave]V/i sux:silig[cease]V/t
 c.6.2.5,Proverbs: of unknown provenance,YBC 9916,1,sux:lu[person]N sux:aŋala[sack]N sux:kešed[bind]V/t sux:guli[friend]N
 c.6.2.5,Proverbs: of unknown provenance,YBC 9916,2,sux:šag[heart]N sux:dab[seize]V/t
 c.6.2.5,Proverbs: of unknown provenance,Homsy 21,1,sux:mu[name]N sux:še[call]V/t sux:ur[dog]N sux:inim[word]N sux:Šakkan[1]DN

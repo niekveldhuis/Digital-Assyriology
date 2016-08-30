@@ -6,10 +6,10 @@ c.2.3.1,An adab to Bau for Luma (Luma A),,4,sux:šag[heart]N sux:kug[pure]V/i su
 c.2.3.1,An adab to Bau for Luma (Luma A),,5,sux:namnin[ladyship]N sux:kalam[land]N sux:tum[suitable]V/i
 c.2.3.1,An adab to Bau for Luma (Luma A),,6,sux:Enlil[1]DN sux:Ekur[1]TN sux:zagin[lapis]N
 c.2.3.1,An adab to Bau for Luma (Luma A),,7,sux:kisikil[woman]N sux:ama[mother]N sux:Bau[1]DN sux:igi[eye]N sux:zid[right]V/i sux:bar[outside]V/t
-c.2.3.1,An adab to Bau for Luma (Luma A),,8,sux:en[lord]N sux:Ninŋirsuk[1]DN sux:gal[big]V/i sux:šu-du[complete]V/t
+c.2.3.1,An adab to Bau for Luma (Luma A),,8,sux:en[lord]N sux:Ninŋirsuk[1]DN sux:gal[big]V/i sux:du[push]V/t
 c.2.3.1,An adab to Bau for Luma (Luma A),,9,sux:kur[mountain]N sux:gal[big]V/i sux:Enlil[1]DN sux:Ekur[1]TN sux:zagin[lapis]N
 c.2.3.1,An adab to Bau for Luma (Luma A),,10,sux:kisikil[woman]N sux:ama[mother]N sux:Bau[1]DN sux:igi[eye]N sux:zid[right]V/i sux:bar[outside]V/t
-c.2.3.1,An adab to Bau for Luma (Luma A),,11,sux:en[lord]N sux:Ninŋirsuk[1]DN sux:gal[big]V/i sux:šu-du[complete]V/t
+c.2.3.1,An adab to Bau for Luma (Luma A),,11,sux:en[lord]N sux:Ninŋirsuk[1]DN sux:gal[big]V/i sux:du[push]V/t
 c.2.3.1,An adab to Bau for Luma (Luma A),,12,sux:Etarsirsir[1]TN sux:An[1]DN sux:ŋar[place]V/t
 c.2.3.1,An adab to Bau for Luma (Luma A),,13,sux:nam[fate]N sux:kur[mountain]N sux:tar[cut]V/t
 c.2.3.1,An adab to Bau for Luma (Luma A),,14,sux:nin[lady]N sux:kaš[decision]N sux:bar[outside]V/t sux:did[lawsuit]N sux:kud[cut]V/t
@@ -30,7 +30,7 @@ c.2.3.1,An adab to Bau for Luma (Luma A),,28,sux:lugal[king]N sux:hul[rejoice]V/
 c.2.3.1,An adab to Bau for Luma (Luma A),,29,sux:Bau[1]DN sux:Luma[1]RN sux:ŋal[be]V/i
 c.2.3.1,An adab to Bau for Luma (Luma A),,30,sux:inim[word]N sux:kug[pure]V/i sux:kiri[nose]N sux:šu[hand]N sux:ŋal[be]V/i
 c.2.3.1,An adab to Bau for Luma (Luma A),,31,sux:sagida[notation]N
-c.2.3.1,An adab to Bau for Luma (Luma A),,32,sux:nin[lady]N sux:si[horn]N sux:šu-du[complete]V/t sux:Bau[1]DN sux:niŋ[thing]N sux:lu[person]N sux:zu[know]V/t
+c.2.3.1,An adab to Bau for Luma (Luma A),,32,sux:nin[lady]N sux:si[horn]N sux:du[push]V/t sux:Bau[1]DN sux:niŋ[thing]N sux:lu[person]N sux:zu[know]V/t
 c.2.3.1,An adab to Bau for Luma (Luma A),,33,sux:dumu[child]N sux:An[1]DN sux:An[1]DN sux:teš[unity]N sux:ŋal[be]V/i sux:mahdi[exalted]AJ
 c.2.3.1,An adab to Bau for Luma (Luma A),,34,sux:ŋešgiŋal[notation]N
 c.2.3.1,An adab to Bau for Luma (Luma A),,35,sux:nin[lady]N sux:dug[speak]V/t sux:zid[right]V/i

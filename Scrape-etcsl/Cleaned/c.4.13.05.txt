@@ -6,7 +6,7 @@ c.4.13.05,A hymn to Nanna (Nanna E),,4,sux:ambar[reed-bed]N sux:melim[splendor]N
 c.4.13.05,A hymn to Nanna (Nanna E),,5,sux:namdug[goodness]N sux:namgal[greatness]N sux:nammah[greatness]N sux:saŋ[head]N sux:il[raise]V/t
 c.4.13.05,A hymn to Nanna (Nanna E),,6,sux:nam[fate]N sux:tar[cut]V/t sux:a[arm]N sux:mah[great]V/i sux:sud[distant]V/i
 c.4.13.05,A hymn to Nanna (Nanna E),,7,sux:namlugal[kingship]N sux:an[sky]N sux:ki[place]N sux:An[1]DN sux:gal[big]V/i sux:šu[hand]N sux:daŋal[wide]V/i sux:dug[speak]V/t
-c.4.13.05,A hymn to Nanna (Nanna E),,8,sux:namburšuma[~official]N sux:nun[prince]N sux:gal[big]V/i sux:Enlil[1]DN sux:nammen[lordship]N sux:šu[hand]N sux:šu-du[complete]V/t
+c.4.13.05,A hymn to Nanna (Nanna E),,8,sux:namburšuma[~official]N sux:nun[prince]N sux:gal[big]V/i sux:Enlil[1]DN sux:nammen[lordship]N sux:šu[hand]N sux:du[push]V/t
 c.4.13.05,A hymn to Nanna (Nanna E),,9,sux:namdiŋir[divinity]N sux:mah[great]V/i sux:Enlil[1]DN sux:pa[branch]N sux:e[leave]V/i sux:e[leave]V/i
 c.4.13.05,A hymn to Nanna (Nanna E),,10,sux:a[water]N sux:DU[DU]V sux:a[water]N sux:sig[weak]V/i sux:mah[great]V/i sux:nam[fate]N sux:tar[cut]V/t sux:ki[place]N sux:dug[good]V/i sux:ama[mother]N sux:dug[good]V/i
 c.4.13.05,A hymn to Nanna (Nanna E),,11,sux:Enki[1]DN sux:AB×A.šag₄[~chamber]N sux:kug[pure]V/i sux:ŋiri[foot]N sux:ŋar[place]V/t
@@ -42,7 +42,7 @@ c.4.13.05,A hymn to Nanna (Nanna E),,40,sux:AB×A.šag₄[~chamber]N sux:bar[out
 c.4.13.05,A hymn to Nanna (Nanna E),,41,sux:e[house]N sux:i[oil]N sux:sikil[pure]V/i sux:saŋ[head]N sux:haza[hold]V/t sux:ašuŋiri[limbs]N sux:KU[KU]V
 c.4.13.05,A hymn to Nanna (Nanna E),,42,sux:šuluh[cleansing]N sux:kug[pure]V/i sux:šub[fall]V/t sux:ambar[reed-bed]N sux:mah[great]V/i
 c.4.13.05,A hymn to Nanna (Nanna E),,43,sux:AB×A[chamber]N sux:daŋal[wide]V/i sux:kug[pure]V/i sux:nam[fate]N sux:e[leave]V/i
-c.4.13.05,A hymn to Nanna (Nanna E),,44,sux:Ekišnuŋal[1]TN sux:barag[sanctum]N sux:mah[great]V/i sux:kug[pure]V/i sux:me[Being]N sux:gal[big]V/i sux:mah[great]V/i sux:an[sky]N sux:ki[place]N sux:šu[hand]N sux:šu-du[complete]V/t
+c.4.13.05,A hymn to Nanna (Nanna E),,44,sux:Ekišnuŋal[1]TN sux:barag[sanctum]N sux:mah[great]V/i sux:kug[pure]V/i sux:me[Being]N sux:gal[big]V/i sux:mah[great]V/i sux:an[sky]N sux:ki[place]N sux:šu[hand]N sux:du[push]V/t
 c.4.13.05,A hymn to Nanna (Nanna E),,45,sux:AB×A[chamber]N sux:kug[pure]V/i sux:piš[bank]N sux:mah[great]V/i sux:a[water]N sux:tu[cvve]V/t
 c.4.13.05,A hymn to Nanna (Nanna E),,46,sux:i[oil]N sux:hursaŋ[mountain]N sux:su[flesh]N sux:kug[pure]V/i sux:ŋal[be]V/i
 c.4.13.05,A hymn to Nanna (Nanna E),,47,sux:Nanna[1]DN sux:barag[sanctum]N sux:mah[great]V/i sux:ŋar[place]V/t
@@ -64,7 +64,7 @@ c.4.13.05,A hymn to Nanna (Nanna E),,62,sux:melim[splendor]N sux:huš[reddish]V/
 c.4.13.05,A hymn to Nanna (Nanna E),,63,sux:an[sky]N sux:kug[metal]N sux:ki[place]N sux:šen[cauldron]N
 c.4.13.05,A hymn to Nanna (Nanna E),,64,sux:šag[heart]N sux:an[sky]N sux:dadag[bright]V/i
 c.4.13.05,A hymn to Nanna (Nanna E),,65,sux:aga[tiara]N sux:an[sky]N sux:ki[place]N sux:aga[tiara]N sux:kug[pure]V/i sux:saŋ[head]N sux:il[raise]V/t
-c.4.13.05,A hymn to Nanna (Nanna E),,66,sux:Suen[1]DN sux:en[lord]N sux:zu[know]V/t sux:mah[great]V/i sux:an[sky]N sux:ki[place]N sux:barag[sanctum]N sux:sikil[pure]V/i sux:šu[hand]N sux:šu-du[complete]V/t
+c.4.13.05,A hymn to Nanna (Nanna E),,66,sux:Suen[1]DN sux:en[lord]N sux:zu[know]V/t sux:mah[great]V/i sux:an[sky]N sux:ki[place]N sux:barag[sanctum]N sux:sikil[pure]V/i sux:šu[hand]N sux:du[push]V/t
 c.4.13.05,A hymn to Nanna (Nanna E),,67,sux:Dilimbabbar[1]DN sux:saŋmen[crown]N sux:aga[tiara]N sux:zid[right]V/i sux:si[horn]N sux:mul[star]N sux:mah[great]V/i
 c.4.13.05,A hymn to Nanna (Nanna E),,68,sux:saŋ[head]N sux:il[raise]V/t
 c.4.13.05,A hymn to Nanna (Nanna E),,69,sux:i[oil]N sux:kug[pure]V/i sux:i[oil]N sux:sikil[pure]V/i sux:i[oil]N sux:dadag[bright]V/i
