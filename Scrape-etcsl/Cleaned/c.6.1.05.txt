@@ -45,7 +45,7 @@ c.6.1.05,Proverbs: collection 5,,B19,sux:sisi[horse]N sux:lu[person]N sux:u[ride
 c.6.1.05,Proverbs: collection 5,,B20,sux:tukumbi[if]CNJ sux:gun[load]N sux:dari[eternal]V/i
 c.6.1.05,Proverbs: collection 5,,B21,sux:nen[this]DP sux:sig[weak]V/i
 c.6.1.05,Proverbs: collection 5,,B22,sux:anše[equid]N sux:barag[sack]N sux:la[hang]V/t sux:šub[fall]V/t
-c.6.1.05,Proverbs: collection 5,,B23,sux:dulum[toil]N sux:udbita[former]AJ sux:ŋeštug[ear]N sux:ŋeštug-ulu[forget]V/t
+c.6.1.05,Proverbs: collection 5,,B23,sux:dulum[toil]N sux:udbita[former]AJ sux:ŋeštug[ear]N sux:ulu[cvve]V/t
 c.6.1.05,Proverbs: collection 5,,B24,sux:anše[equid]N
 c.6.1.05,Proverbs: collection 5,,C1,sux:anše[equid]N sux:šub[fall]V/t sux:urgir[dog]N
 c.6.1.05,Proverbs: collection 5,,C2,sux:anše[equid]N sux:id[river]N sux:dirig[float]V/i sux:urgir[dog]N sux:šu[hand]N sux:deg[collect]V/t
@@ -175,7 +175,7 @@ c.6.1.05,Proverbs: collection 5,,D102,sux:urgir[dog]N
 c.6.1.05,Proverbs: collection 5,,D103,sux:urgir[dog]N sux:saŋdu[head]N
 c.6.1.05,Proverbs: collection 5,,D104,sux:tuku[acquire]V/t
 c.6.1.05,Proverbs: collection 5,,D105,sux:urgir[dog]N sux:ki[place]N sux:zaza[bow]V/i sux:hulu[bad]V/i sux:gig[sick]V/i
-c.6.1.05,Proverbs: collection 5,,D106,sux:urgir[dog]N sux:ellag[ball]N sux:rah[beat]V/t sux:dum-dam[rumbling-noise]N sux:za[cvve]V/t
+c.6.1.05,Proverbs: collection 5,,D106,sux:urgir[dog]N sux:ellag[ball]N sux:rah[beat]V/t sux:dumdam[sound]N sux:za[cvve]V/t
 c.6.1.05,Proverbs: collection 5,,D107,sux:urgir[dog]N sux:gu[neck]N sux:gid[long]V/i sux:urtur[puppy]N sux:ki[place]N sux:aŋ[measure]V/t
 c.6.1.05,Proverbs: collection 5,,D108,sux:ur[dog]N sux:šag[heart]N sux:dab[seize]V/t sux:igi[eye]N sux:zalag[shine]V/i
 c.6.1.05,Proverbs: collection 5,,D109,sux:ur[dog]N sux:sam[price]N sux:igi[eye]N sux:ŋal[be]V/i sux:gigir[chariot]N sux:sam[price]N sux:hulu[bad]V/i

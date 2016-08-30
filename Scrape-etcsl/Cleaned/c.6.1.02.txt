@@ -10,7 +10,7 @@ c.6.1.02,Proverbs: collection 2 + 6,,A8,sux:dirga[bond]N sux:ki[place]N sux:gul[
 c.6.1.02,Proverbs: collection 2 + 6,,A9,sux:me[Being]N sux:halam[forsake]V/i
 c.6.1.02,Proverbs: collection 2 + 6,,A10,sux:gud[ox]N sux:kigub[station]N sux:kur[different]V/i
 c.6.1.02,Proverbs: collection 2 + 6,,A11,sux:namtar[fate]N sux:dug[speak]V/t sux:in[abuse]N
-c.6.1.02,Proverbs: collection 2 + 6,,A12,sux:pa[branch]N sux:e[leave]V/i sux:sulum-mar[slander]V/t sux:mar[smear]V/t
+c.6.1.02,Proverbs: collection 2 + 6,,A12,sux:pa[branch]N sux:e[leave]V/i sux:sulum[contempt]N sux:mar[smear]V/t
 c.6.1.02,Proverbs: collection 2 + 6,,A13,sux:namtar[fate]N sux:usar[neighbor]N sux:dug[speak]V/t
 c.6.1.02,Proverbs: collection 2 + 6,,A14,sux:in[abuse]N sux:ŋar[place]V/t
 c.6.1.02,Proverbs: collection 2 + 6,,A15,sux:a[water]N sux:igi[eye]N sux:bar[outside]V/t sux:namtar[fate]N sux:dib[pass]V/t
@@ -49,7 +49,7 @@ c.6.1.02,Proverbs: collection 2 + 6,,A47,sux:lu[person]N sux:ŋen[go]V/i sux:zu[
 c.6.1.02,Proverbs: collection 2 + 6,,A48,sux:ukur[poor]V/i sux:ana[what?]QP sux:tur[small]V/i
 c.6.1.02,Proverbs: collection 2 + 6,,A49,sux:eʾara[mill]N sux:gu[neck]N sux:šurin[oven]N
 c.6.1.02,Proverbs: collection 2 + 6,,A50,sux:tug[textile]N sux:bir[shred]V/t sux:kalag[strong]V/i
-c.6.1.02,Proverbs: collection 2 + 6,,A51,sux:niŋ[thing]N sux:ugu-de[disappear]V/t sux:de[pour]V/t sux:kiŋ[seek]V/t
+c.6.1.02,Proverbs: collection 2 + 6,,A51,sux:niŋ[thing]N sux:ugu[cvne]N sux:de[pour]V/t sux:kiŋ[seek]V/t
 c.6.1.02,Proverbs: collection 2 + 6,,A52,sux:ukur[poor]V/i sux:urra[loan]N sux:tur[small]V/i
 c.6.1.02,Proverbs: collection 2 + 6,,A53,sux:kag[mouth]N sux:kar[flee]V/t sux:urra[loan]N sux:sug[replace]V/t
 c.6.1.02,Proverbs: collection 2 + 6,,A54,sux:ukur[poor]V/i sux:kug[metal]N sux:tukur[chew]V/t
@@ -121,11 +121,11 @@ c.6.1.02,Proverbs: collection 2 + 6,,A119,sux:kaʾa[fox]N sux:dam[spouse]N sux:d
 c.6.1.02,Proverbs: collection 2 + 6,,A120,sux:ŋen[go]V/i sux:Unug[1]SN sux:garaš[leek]N sux:zu[tooth]N sux:gaz[kill]V/t
 c.6.1.02,Proverbs: collection 2 + 6,,A121,sux:Kulaba[1]SN sux:esir[shoe]N sux:ŋiri[foot]N sux:sig[put]V/t
 c.6.1.02,Proverbs: collection 2 + 6,,A122,sux:iri[city]N sux:600[600]NU sux:uš[unit]N sux:teŋ[approach]V/i
-c.6.1.02,Proverbs: collection 2 + 6,,A123,sux:iri[city]N sux:ur[dog]N sux:šeg-gi[make-noise]V/t sux:gi[turn]V/i
+c.6.1.02,Proverbs: collection 2 + 6,,A123,sux:iri[city]N sux:ur[dog]N sux:šeg[voice]N sux:gi[turn]V/i
 c.6.1.02,Proverbs: collection 2 + 6,,A124,sux:Gemetummal[1]PN sux:Gemetummal[1]PN
 c.6.1.02,Proverbs: collection 2 + 6,,A125,sux:dur[buttocks]N sux:ŋen[go]V/i
-c.6.1.02,Proverbs: collection 2 + 6,,A126,sux:iri[city]N sux:niŋhulu[evil]N sux:šeg-gi[make-noise]V/t sux:gi[turn]V/i
-c.6.1.02,Proverbs: collection 2 + 6,,A127,sux:kugzu[wise]AJ sux:kaʾa[fox]N sux:šulu[bird]N sux:šeg-gi[make-noise]V/t sux:gi[turn]V/i
+c.6.1.02,Proverbs: collection 2 + 6,,A126,sux:iri[city]N sux:niŋhulu[evil]N sux:šeg[voice]N sux:gi[turn]V/i
+c.6.1.02,Proverbs: collection 2 + 6,,A127,sux:kugzu[wise]AJ sux:kaʾa[fox]N sux:šulu[bird]N sux:šeg[voice]N sux:gi[turn]V/i
 c.6.1.02,Proverbs: collection 2 + 6,,A128,sux:lul[false]V/i sux:dug[speak]V/t sux:zid[right]V/i sux:dug[speak]V/t sux:lul[false]V/i sux:sig[put]V/t
 c.6.1.02,Proverbs: collection 2 + 6,,A129,sux:lul[false]V/i sux:dug[speak]V/t sux:ragaba[rider]N sux:ki[place]N sux:bad[open]V/t
 c.6.1.02,Proverbs: collection 2 + 6,,A130,sux:anše[equid]N sux:dug[speak]V/t sux:barag[sack]N sux:huŋ[hire]V/t
@@ -133,14 +133,14 @@ c.6.1.02,Proverbs: collection 2 + 6,,A131,sux:anše[equid]N sux:hunu[weak]V/i su
 c.6.1.02,Proverbs: collection 2 + 6,,A132,sux:Enlil[1]DN sux:lu[person]N sux:hunu[weak]V/i sux:lirum[strength]N sux:e[leave]V/i
 c.6.1.02,Proverbs: collection 2 + 6,,A133,sux:anše[equid]N sux:kaš[runner]N sux:kar[flee]V/t sux:tum[suitable]V/i
 c.6.1.02,Proverbs: collection 2 + 6,,A134,sux:eme[tongue]N sux:ak[do]V/t sux:tum[suitable]V/i
-c.6.1.02,Proverbs: collection 2 + 6,,A135,sux:anše[equid]N sux:gu[voice]N sux:murmara-ša[roar]V/t sux:lugal[king]N sux:anše[equid]N sux:paŋ[breathe]N sux:zir[break]V/t
+c.6.1.02,Proverbs: collection 2 + 6,,A135,sux:anše[equid]N sux:gu[voice]N sux:mur[noise]N sux:lugal[king]N sux:anše[equid]N sux:paŋ[breathe]N sux:zir[break]V/t
 c.6.1.02,Proverbs: collection 2 + 6,,A136,sux:ed[ascend]V/i sux:kaš[runner]N sux:ŋen[go]V/i
 c.6.1.02,Proverbs: collection 2 + 6,,A137,sux:anše[equid]N sux:kinud[bedroom]N sux:ni[self]RP sux:gu[eat]V/t
 c.6.1.02,Proverbs: collection 2 + 6,,A138,sux:anše[equid]N sux:ŋeš[penis]N sux:šag[heart]N sux:rah[beat]V/t
 c.6.1.02,Proverbs: collection 2 + 6,,A139,sux:anše[equid]N sux:zeda[stench]N sux:me[be]V/i sux:anše[equid]N sux:naŋa[potash]N sux:dub[tremble]V/t sux:me[be]V/i
 c.6.1.02,Proverbs: collection 2 + 6,,A140,sux:anše[equid]N sux:numunkuš[widow]N sux:šed[defecate]V/t sux:dur[buttocks]N sux:pad[find]V/t
 c.6.1.02,Proverbs: collection 2 + 6,,A141,sux:anše[equid]N sux:dam[spouse]N sux:mu[year]N sux:3[3]NU sux:tuku[acquire]V/t
-c.6.1.02,Proverbs: collection 2 + 6,,A142,sux:anše[equid]N sux:lu[person]N sux:Agade[1]SN sux:2[2]NU sux:ugu-de[disappear]V/t sux:de[pour]V/t
+c.6.1.02,Proverbs: collection 2 + 6,,A142,sux:anše[equid]N sux:lu[person]N sux:Agade[1]SN sux:2[2]NU sux:ugu[cvne]N sux:de[pour]V/t
 c.6.1.02,Proverbs: collection 2 + 6,,A143,sux:ŋen[go]V/i sux:ud[sun]N sux:uzahal[disappearance]N sux:ak[do]V/t sux:tuš[sit]V/i sux:šerda[crime]N
 c.6.1.02,Proverbs: collection 2 + 6,,A144,sux:gud[ox]N sux:DU[DU]V sux:tukul[weapon]N sux:aʾabak[sea]N
 c.6.1.02,Proverbs: collection 2 + 6,,A145,sux:gazinbu[pole]N sux:saŋ[head]N sux:us[follow]V/t sux:nud[lie]V/i
@@ -176,7 +176,7 @@ c.6.1.02,Proverbs: collection 2 + 6,,A174,sux:gala[singer]N sux:ma[ship]N sux:š
 c.6.1.02,Proverbs: collection 2 + 6,,A175,sux:barim[land]N sux:ŋen[go]V/i
 c.6.1.02,Proverbs: collection 2 + 6,,A176,
 c.6.1.02,Proverbs: collection 2 + 6,,A177,sux:ninda[bread]N sux:gala[singer]N sux:lag[clod]N sux:gal[big]V/i sux:kila[weight]N sux:tur[small]V/i
-c.6.1.02,Proverbs: collection 2 + 6,,A178,sux:arad[slave]N sux:gala[singer]N sux:tilla[street]N sux:šeg-gi[make-noise]V/t sux:gi[turn]V/i
+c.6.1.02,Proverbs: collection 2 + 6,,A178,sux:arad[slave]N sux:gala[singer]N sux:tilla[street]N sux:šeg[voice]N sux:gi[turn]V/i
 c.6.1.02,Proverbs: collection 2 + 6,,A179,sux:kurum[ration]N sux:lag[clod]N sux:gal[big]V/i sux:kila[weight]N sux:tur[small]V/i
 c.6.1.02,Proverbs: collection 2 + 6,,A180,sux:lag[clod]N sux:kurum[ration]N sux:dug[speak]V/t
 c.6.1.02,Proverbs: collection 2 + 6,,A181,sux:daggi[quarter]N sux:šukur[lance]N sux:te[pierce]V/t
@@ -197,9 +197,9 @@ c.6.1.02,Proverbs: collection 2 + 6,,A195,sux:urgir[dog]N sux:ŋeš[penis]N sux:
 c.6.1.02,Proverbs: collection 2 + 6,,A196,sux:iri[city]N sux:nu[not]V/i sux:urgir[dog]N sux:kaʾa[fox]N sux:nubanda[overseer]N
 c.6.1.02,Proverbs: collection 2 + 6,,A197,sux:iri[city]N sux:ad[crippled]V/i sux:baza[dwarf]N sux:kaš[runner]N
 c.6.1.02,Proverbs: collection 2 + 6,,A198,sux:baza[dwarf]N sux:ana[what?]QP sux:gub[stand]V/i
-c.6.1.02,Proverbs: collection 2 + 6,,A199,sux:sag[good]V/i sux:pad[find]V/t sux:hulu[bad]V/i sux:ugu-de[disappear]V/t sux:de[pour]V/t
+c.6.1.02,Proverbs: collection 2 + 6,,A199,sux:sag[good]V/i sux:pad[find]V/t sux:hulu[bad]V/i sux:ugu[cvne]N sux:de[pour]V/t
 c.6.1.02,Proverbs: collection 2 + 6,,A200,sux:pad[find]V/t sux:hul[rejoice]V/i
-c.6.1.02,Proverbs: collection 2 + 6,,A201,sux:ugu-de[disappear]V/t sux:de[pour]V/t sux:šag[heart]N sux:gig[sick]V/i
+c.6.1.02,Proverbs: collection 2 + 6,,A201,sux:ugu[cvne]N sux:de[pour]V/t sux:šag[heart]N sux:gig[sick]V/i
 c.6.1.02,Proverbs: collection 2 + 6,,A202,sux:namsag[pleasure]N sux:kaš[beer]N sux:namhulu[evil]N sux:kaskal[way]N
 c.6.1.02,Proverbs: collection 2 + 6,,A203,sux:sag[good]V/i sux:tuku[acquire]V/t sux:ŋalga[forethought]N sux:taka[abandon]V/t
 c.6.1.02,Proverbs: collection 2 + 6,,A204,sux:sag[good]V/i sux:hulu[bad]V/i

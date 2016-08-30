@@ -46,7 +46,7 @@ c.1.8.1.4,Gilgameš Enkidu and the nether world,A,44,sux:šab[hips]N sux:kisikil
 c.1.8.1.4,Gilgameš Enkidu and the nether world,A,45,sux:kisikil[woman]N sux:zu[tooth]N sux:bir[cvve]V/t sux:šag[heart]N sux:hul[rejoice]V/i
 c.1.8.1.4,Gilgameš Enkidu and the nether world,A,46,sux:kug[pure]V/i sux:Inanak[1]DN sux:er[tears]N sux:ane[he]IP sux:šeš[weep]V/t
 c.1.8.1.4,Gilgameš Enkidu and the nether world,A,47,sux:ud[sun]N sux:zal[pass]V/t sux:anur[horizon]N sux:zalag[shine]V/i
-c.1.8.1.4,Gilgameš Enkidu and the nether world,A,48,sux:buru[sparrow]N sux:ud[sun]N sux:zal[pass]V/t sux:šeg-gi[make-noise]V/t sux:gi[turn]V/i
+c.1.8.1.4,Gilgameš Enkidu and the nether world,A,48,sux:buru[sparrow]N sux:ud[sun]N sux:zal[pass]V/t sux:šeg[voice]N sux:gi[turn]V/i
 c.1.8.1.4,Gilgameš Enkidu and the nether world,A,49,sux:Utu[1]DN sux:agrun[cella]N sux:e[leave]V/i
 c.1.8.1.4,Gilgameš Enkidu and the nether world,A,50,sux:nin[sister]N sux:kug[pure]V/i sux:Inanak[1]DN
 c.1.8.1.4,Gilgameš Enkidu and the nether world,A,51,sux:ursaŋ[hero]N sux:šul[youth]V/i sux:Utu[1]DN sux:gu[voice]N sux:de[pour]V/t
@@ -90,7 +90,7 @@ c.1.8.1.4,Gilgameš Enkidu and the nether world,A,88,sux:kisikil[woman]N sux:zu[
 c.1.8.1.4,Gilgameš Enkidu and the nether world,A,89,sux:kug[pure]V/i sux:Inanak[1]DN sux:er[tears]N sux:ane[he]IP sux:šeš[weep]V/t
 c.1.8.1.4,Gilgameš Enkidu and the nether world,A,90,sux:šeš[brother]N sux:ursaŋ[hero]N sux:šul[youth]V/i sux:Utu[1]DN sux:inim[word]N sux:gub[stand]V/i
 c.1.8.1.4,Gilgameš Enkidu and the nether world,A,91,sux:ud[sun]N sux:zal[pass]V/t sux:anur[horizon]N sux:zalag[shine]V/i
-c.1.8.1.4,Gilgameš Enkidu and the nether world,A,92,sux:mušen[bird]N sux:buru[sparrow]N sux:ud[sun]N sux:zal[pass]V/t sux:šeg-gi[make-noise]V/t sux:gi[turn]V/i
+c.1.8.1.4,Gilgameš Enkidu and the nether world,A,92,sux:mušen[bird]N sux:buru[sparrow]N sux:ud[sun]N sux:zal[pass]V/t sux:šeg[voice]N sux:gi[turn]V/i
 c.1.8.1.4,Gilgameš Enkidu and the nether world,A,93,sux:Utu[1]DN sux:agrun[cella]N sux:e[leave]V/i
 c.1.8.1.4,Gilgameš Enkidu and the nether world,A,94,sux:nin[sister]N sux:kug[pure]V/i sux:Inanak[1]DN
 c.1.8.1.4,Gilgameš Enkidu and the nether world,A,95,sux:ursaŋ[hero]N sux:Gilgameš[1]DN sux:gu[voice]N sux:de[pour]V/t
@@ -149,9 +149,9 @@ c.1.8.1.4,Gilgameš Enkidu and the nether world,A,147,sux:nin[sister]N sux:kug[p
 c.1.8.1.4,Gilgameš Enkidu and the nether world,A,148,sux:ŋešnud[bed]N sux:šum[give]V/t
 c.1.8.1.4,Gilgameš Enkidu and the nether world,A,149,sux:ane[he]IP sux:ur[root]N sux:ellag[ball]N sux:dim[create]V/t
 c.1.8.1.4,Gilgameš Enkidu and the nether world,A,150,sux:pa[branch]N sux:ekema[mallet]N sux:dim[create]V/t
-c.1.8.1.4,Gilgameš Enkidu and the nether world,A,151,sux:ellag[ball]N sux:al-dug[desire]V/t sux:dug[speak]V/t sux:sila[street]N sux:ur[roof]N sux:ellag[ball]N sux:dug[speak]V/t
+c.1.8.1.4,Gilgameš Enkidu and the nether world,A,151,sux:ellag[ball]N sux:al[hoe]N sux:dug[speak]V/t sux:sila[street]N sux:ur[roof]N sux:ellag[ball]N sux:dug[speak]V/t
 c.1.8.1.4,Gilgameš Enkidu and the nether world,A,152,sux:ni[self]RP sux:silim[healthy]V/i sux:dug[speak]V/t sux:sila[street]N sux:ur[roof]N sux:ni[self]RP sux:silim[healthy]V/i sux:dug[speak]V/t
-c.1.8.1.4,Gilgameš Enkidu and the nether world,A,152A,sux:ŋuruš[male]N sux:iri[city]N sux:ellag[ball]N sux:al-dug[desire]V/t sux:dug[speak]V/t
+c.1.8.1.4,Gilgameš Enkidu and the nether world,A,152A,sux:ŋuruš[male]N sux:iri[city]N sux:ellag[ball]N sux:al[hoe]N sux:dug[speak]V/t
 c.1.8.1.4,Gilgameš Enkidu and the nether world,A,153,sux:ane[he]IP sux:erin[people]N sux:dumu[child]N sux:numunkuš[widow]N sux:u[ride]V/t
 c.1.8.1.4,Gilgameš Enkidu and the nether world,A,154,sux:aya[cry]N sux:gu[neck]N sux:aya[cry]N sux:ib[hips]N sux:anir[lament]N sux:ŋar[place]V/t
 c.1.8.1.4,Gilgameš Enkidu and the nether world,A,155,sux:ama[mother]N sux:tuku[acquire]V/t sux:dumu[child]N sux:ninda[bread]N sux:de[bring]V/t
@@ -227,7 +227,7 @@ c.1.8.1.4,Gilgameš Enkidu and the nether world,A,223,sux:igi[eye]N sux:Enlil[1]
 c.1.8.1.4,Gilgameš Enkidu and the nether world,A,224,sux:aya[father]N sux:Enlil[1]DN sux:ellag[ball]N sux:kur[mountain]N sux:šub[fall]V/t sux:ekema[mallet]N sux:Ganzer[1]GN sux:šub[fall]V/t
 c.1.8.1.4,Gilgameš Enkidu and the nether world,A,225,sux:Enkidu[1]PN sux:ed[ascend]V/i sux:gi[turn]V/i sux:kur[mountain]N sux:dab[seize]V/t
 c.1.8.1.4,Gilgameš Enkidu and the nether world,A,226,sux:Namtar[1]DN sux:dab[seize]V/t sux:Asag[1]DN sux:dab[seize]V/t sux:kur[mountain]N sux:dab[seize]V/t
-c.1.8.1.4,Gilgameš Enkidu and the nether world,A,227,sux:udug[demon]N sux:Nergal[1]DN sux:saŋ[head]N sux:šu[hand]N sux:šu-du[complete]V/t sux:dab[seize]V/t sux:kur[mountain]N sux:dab[seize]V/t
+c.1.8.1.4,Gilgameš Enkidu and the nether world,A,227,sux:udug[demon]N sux:Nergal[1]DN sux:saŋ[head]N sux:šu[hand]N sux:du[push]V/t sux:dab[seize]V/t sux:kur[mountain]N sux:dab[seize]V/t
 c.1.8.1.4,Gilgameš Enkidu and the nether world,A,228,sux:ki[place]N sux:namnita[manhood]N sux:me[battle]N sux:šub[fall]V/t sux:kur[mountain]N sux:dab[seize]V/t
 c.1.8.1.4,Gilgameš Enkidu and the nether world,A,229,sux:aya[father]N sux:Enlil[1]DN sux:inim[word]N sux:gub[stand]V/i sux:Eridug[1]SN sux:ŋen[go]V/i
 c.1.8.1.4,Gilgameš Enkidu and the nether world,A,230,sux:Eridug[1]SN sux:e[house]N sux:Enki[1]DN sux:ŋiri[foot]N sux:dili[single]V/i sux:gub[stand]V/i
@@ -235,7 +235,7 @@ c.1.8.1.4,Gilgameš Enkidu and the nether world,A,231,sux:igi[eye]N sux:Enki[1]D
 c.1.8.1.4,Gilgameš Enkidu and the nether world,A,232,sux:aya[father]N sux:Enki[1]DN sux:ellag[ball]N sux:kur[mountain]N sux:šub[fall]V/t sux:ekema[mallet]N sux:Ganzer[1]GN sux:šub[fall]V/t
 c.1.8.1.4,Gilgameš Enkidu and the nether world,A,233,sux:Enkidu[1]PN sux:ed[ascend]V/i sux:gi[turn]V/i sux:kur[mountain]N sux:dab[seize]V/t
 c.1.8.1.4,Gilgameš Enkidu and the nether world,A,234,sux:Namtar[1]DN sux:dab[seize]V/t sux:Asag[1]DN sux:dab[seize]V/t sux:kur[mountain]N sux:dab[seize]V/t
-c.1.8.1.4,Gilgameš Enkidu and the nether world,A,235,sux:udug[demon]N sux:Nergal[1]DN sux:saŋ[head]N sux:šu[hand]N sux:šu-du[complete]V/t sux:dab[seize]V/t sux:kur[mountain]N sux:dab[seize]V/t
+c.1.8.1.4,Gilgameš Enkidu and the nether world,A,235,sux:udug[demon]N sux:Nergal[1]DN sux:saŋ[head]N sux:šu[hand]N sux:du[push]V/t sux:dab[seize]V/t sux:kur[mountain]N sux:dab[seize]V/t
 c.1.8.1.4,Gilgameš Enkidu and the nether world,A,236,sux:ki[place]N sux:namnita[manhood]N sux:me[battle]N sux:šub[fall]V/t sux:kur[mountain]N sux:dab[seize]V/t
 c.1.8.1.4,Gilgameš Enkidu and the nether world,A,237,sux:aya[father]N sux:Enki[1]DN sux:inim[word]N sux:gub[stand]V/i
 c.1.8.1.4,Gilgameš Enkidu and the nether world,A,238,sux:ursaŋ[hero]N sux:šul[youth]V/i sux:Utu[1]DN sux:dumu[child]N sux:Ningal[1]DN sux:utud[bear]V/t sux:gu[voice]N sux:de[pour]V/t
@@ -273,9 +273,9 @@ c.1.8.1.4,Gilgameš Enkidu and the nether world,A,269,sux:pa[branch]N sux:alala[
 c.1.8.1.4,Gilgameš Enkidu and the nether world,A,270,sux:munus[woman]N sux:utud[bear]V/t sux:igi[eye]N sux:du[spread]V/t sux:igi[eye]N sux:du[spread]V/t sux:anagin[how?]QP sux:ak[do]V/t
 c.1.8.1.4,Gilgameš Enkidu and the nether world,A,271,sux:zallilda[pot]N sux:gurud[throw]V/t sux:lu[person]N sux:hul[rejoice]V/i
 c.1.8.1.4,Gilgameš Enkidu and the nether world,A,272,sux:ŋuruš[male]N sux:tur[small]V/i sux:ur[root]N sux:dam[spouse]N sux:tug[textile]N sux:sig[put]V/t sux:igi[eye]N sux:du[spread]V/t sux:igi[eye]N sux:du[spread]V/t sux:anagin[how?]QP sux:ak[do]V/t
-c.1.8.1.4,Gilgameš Enkidu and the nether world,A,273,sux:eššuak[rope]N sux:šu[hand]N sux:šu-du[complete]V/t sux:eššuak[rope]N sux:er[tears]N sux:šeš[weep]V/t
+c.1.8.1.4,Gilgameš Enkidu and the nether world,A,273,sux:eššuak[rope]N sux:šu[hand]N sux:du[push]V/t sux:eššuak[rope]N sux:er[tears]N sux:šeš[weep]V/t
 c.1.8.1.4,Gilgameš Enkidu and the nether world,A,274,sux:kisikil[woman]N sux:ur[root]N sux:dam[spouse]N sux:tug[textile]N sux:sig[put]V/t sux:igi[eye]N sux:du[spread]V/t sux:igi[eye]N sux:du[spread]V/t sux:anagin[how?]QP sux:ak[do]V/t
-c.1.8.1.4,Gilgameš Enkidu and the nether world,A,275,sux:gišuak[mat]N sux:šu[hand]N sux:šu-du[complete]V/t sux:gišuak[mat]N sux:er[tears]N sux:šeš[weep]V/t
+c.1.8.1.4,Gilgameš Enkidu and the nether world,A,275,sux:gišuak[mat]N sux:šu[hand]N sux:du[push]V/t sux:gišuak[mat]N sux:er[tears]N sux:šeš[weep]V/t
 c.1.8.1.4,Gilgameš Enkidu and the nether world,A,276,sux:lu[person]N sux:ibila[heir]N sux:tuku[acquire]V/t sux:igi[eye]N sux:du[spread]V/t sux:igi[eye]N sux:du[spread]V/t sux:anagin[how?]QP sux:ak[do]V/t
 c.1.8.1.4,Gilgameš Enkidu and the nether world,A,277,sux:šeg[brick]N sux:KID[unmng]N sux:ninda[bread]N sux:gu[eat]V/t
 c.1.8.1.4,Gilgameš Enkidu and the nether world,A,278,sux:igi[eye]N sux:du[spread]V/t sux:anagin[how?]QP sux:ak[do]V/t
@@ -312,9 +312,9 @@ c.1.8.1.4,Gilgameš Enkidu and the nether world,UET 6 58,5,sux:lusaharšuba[lepe
 c.1.8.1.4,Gilgameš Enkidu and the nether world,UET 6 58,6,sux:u[grass]N sux:bar[outside]V/t sux:a[water]N sux:bar[outside]V/t sux:u[grass]N sux:gid[long]V/i sux:gu[eat]V/t sux:a[water]N sux:gid[long]V/i sux:naŋ[drink]V/t
 c.1.8.1.4,Gilgameš Enkidu and the nether world,UET 6 58,7,sux:iri[city]N sux:bar[outside]V/t sux:tuš[sit]V/i
 c.1.8.1.4,Gilgameš Enkidu and the nether world,UET 6 58,8,sux:lu[person]N sux:inim[word]N sux:ama[mother]N sux:aya[father]N sux:ni[fear]N sux:teŋ[approach]V/i sux:igi[eye]N sux:du[spread]V/t sux:igi[eye]N sux:du[spread]V/t sux:anagin[how?]QP sux:ak[do]V/t
-c.1.8.1.4,Gilgameš Enkidu and the nether world,UET 6 58,9,sux:aya[cry]N sux:ni[self]RP sux:aya[cry]N sux:ŋešgen[limbs]N sux:šeg-gi[make-noise]V/t sux:gi[turn]V/i sux:gul[destroy]V/t
+c.1.8.1.4,Gilgameš Enkidu and the nether world,UET 6 58,9,sux:aya[cry]N sux:ni[self]RP sux:aya[cry]N sux:ŋešgen[limbs]N sux:šeg[voice]N sux:gi[turn]V/i sux:gul[destroy]V/t
 c.1.8.1.4,Gilgameš Enkidu and the nether world,UET 6 58,10,sux:lu[person]N sux:aš[curse]N sux:ama[mother]N sux:aya[father]N sux:sa[equal]V/t sux:dug[speak]V/t sux:igi[eye]N sux:du[spread]V/t sux:igi[eye]N sux:du[spread]V/t sux:anagin[how?]QP sux:ak[do]V/t
-c.1.8.1.4,Gilgameš Enkidu and the nether world,UET 6 58,11,sux:ibila[heir]N sux:kar[flee]V/t sux:gidim[ghost]N sux:šu[hand]N sux:šu-dag[roam-around]V/t
+c.1.8.1.4,Gilgameš Enkidu and the nether world,UET 6 58,11,sux:ibila[heir]N sux:kar[flee]V/t sux:gidim[ghost]N sux:šu[hand]N sux:dag[demolish]V/t
 c.1.8.1.4,Gilgameš Enkidu and the nether world,UET 6 58,12,sux:lu[person]N sux:mu[name]N sux:diŋir[deity]N sux:saŋ[head]N sux:igi[eye]N sux:du[spread]V/t sux:igi[eye]N sux:du[spread]V/t sux:anagin[how?]QP sux:ak[do]V/t
 c.1.8.1.4,Gilgameš Enkidu and the nether world,UET 6 58,13,sux:gidim[ghost]N
 c.1.8.1.4,Gilgameš Enkidu and the nether world,UET 6 58,14,sux:gidim[ghost]N sux:lu[person]N sux:ninda[bread]N sux:sig[put]V/t sux:tuku[acquire]V/t sux:igi[eye]N sux:du[spread]V/t sux:igi[eye]N sux:du[spread]V/t sux:anagin[how?]QP sux:ak[do]V/t

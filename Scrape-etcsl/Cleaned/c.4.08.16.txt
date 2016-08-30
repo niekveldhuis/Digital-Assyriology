@@ -2,7 +2,7 @@ etcsl_no,text_name,version,l_no,text
 c.4.08.16,A balbale (?) to Inana (Dumuzid-Inana P),,A1,sux:kug[pure]V/i
 c.4.08.16,A balbale (?) to Inana (Dumuzid-Inana P),,A2,sux:si[horn]N sux:sa[equal]V/t sux-x-emesal:me[I]IP
 c.4.08.16,A balbale (?) to Inana (Dumuzid-Inana P),,A3,sux:gala[vulva]N sux:ki[place]N
-c.4.08.16,A balbale (?) to Inana (Dumuzid-Inana P),,A4,sux:du[push]V/t sux:namnun[magnificence]N sux:šu-du[complete]V/t
+c.4.08.16,A balbale (?) to Inana (Dumuzid-Inana P),,A4,sux:du[push]V/t sux:namnun[magnificence]N sux:du[push]V/t
 c.4.08.16,A balbale (?) to Inana (Dumuzid-Inana P),,A5,
 c.4.08.16,A balbale (?) to Inana (Dumuzid-Inana P),,A6,sux:igi[eye]N sux:ŋar[place]V/t
 c.4.08.16,A balbale (?) to Inana (Dumuzid-Inana P),,A7,sux:si[horn]N sux:sa[equal]V/t sux-x-emesal:me[I]IP
@@ -10,7 +10,7 @@ c.4.08.16,A balbale (?) to Inana (Dumuzid-Inana P),,A8,sux:šu[hand]N
 c.4.08.16,A balbale (?) to Inana (Dumuzid-Inana P),,A9,
 c.4.08.16,A balbale (?) to Inana (Dumuzid-Inana P),,A10,
 c.4.08.16,A balbale (?) to Inana (Dumuzid-Inana P),,A11,sux:gala[vulva]N
-c.4.08.16,A balbale (?) to Inana (Dumuzid-Inana P),,A12,sux:diŋir[deity]N sux:šu-du[complete]V/t
+c.4.08.16,A balbale (?) to Inana (Dumuzid-Inana P),,A12,sux:diŋir[deity]N sux:du[push]V/t
 c.4.08.16,A balbale (?) to Inana (Dumuzid-Inana P),,A13,sux:dur[buttocks]N
 c.4.08.16,A balbale (?) to Inana (Dumuzid-Inana P),,A14,sux:gunu[speckled]V/i
 c.4.08.16,A balbale (?) to Inana (Dumuzid-Inana P),,A15,sux:il[raise]V/t sux:dur[buttocks]N

@@ -54,20 +54,20 @@ c.2.4.2.24,A praise poem of Šulgi (Šulgi X),,52,sux:harran[route]N sux:zišag�
 c.2.4.2.24,A praise poem of Šulgi (Šulgi X),,53,sux:sipad[shepherd]N sux:šag[heart]N sux:pad[find]V/t sux:kug[pure]V/i
 c.2.4.2.24,A praise poem of Šulgi (Šulgi X),,54,sux:lugal[king]N sux:ua[provisioner]N sux:zid[right]V/i sux:Eanak[1]TN
 c.2.4.2.24,A praise poem of Šulgi (Šulgi X),,55,sux:šuba[multicoloured]V/i sux:Irigal[1]TN sux:An[1]DN
-c.2.4.2.24,A praise poem of Šulgi (Šulgi X),,56,sux:DU[DU]V sux:šu-du[complete]V/t
-c.2.4.2.24,A praise poem of Šulgi (Šulgi X),,57,sux:barag[sanctum]N sux:mah[great]V/i sux:saŋ[head]N sux:il[raise]V/t sux:šu-du[complete]V/t
-c.2.4.2.24,A praise poem of Šulgi (Šulgi X),,58,sux:guza[chair]N sux:zagin[lapis]N sux:dur[buttocks]N sux:ŋar[place]V/t sux:šu-du[complete]V/t
-c.2.4.2.24,A praise poem of Šulgi (Šulgi X),,59,sux:saŋ[head]N sux:men[tiara]N sux:gunu[speckled]V/i sux:šu-du[complete]V/t
-c.2.4.2.24,A praise poem of Šulgi (Šulgi X),,60,sux:bar[outside]V/t sux:zulumhi[sheep]N sux:sud[distant]V/i sux:šu-du[complete]V/t
-c.2.4.2.24,A praise poem of Šulgi (Šulgi X),,61,sux:tug[textile]N sux:namlugal[kingship]N sux:šag[heart]N sux:la[hang]V/t sux:šu-du[complete]V/t
-c.2.4.2.24,A praise poem of Šulgi (Šulgi X),,62,sux:mitum[weapon]N sux:a[arm]N sux:il[raise]V/t sux:šu-du[complete]V/t
-c.2.4.2.24,A praise poem of Šulgi (Šulgi X),,63,sux:tukul[weapon]N sux:dub[knee]N sux:bad[open]V/t sux:šu-du[complete]V/t
-c.2.4.2.24,A praise poem of Šulgi (Šulgi X),,64,sux:ti[arrow]N sux:sud[distant]V/i sux:pana[bow]N sux:si[horn]N sux:sa[equal]V/t sux:šu-du[complete]V/t
-c.2.4.2.24,A praise poem of Šulgi (Šulgi X),,65,sux:illar[weapon]N sux:guru[shield]N sux:zag[side]N sux:kešed[bind]V/t sux:šu-du[complete]V/t
-c.2.4.2.24,A praise poem of Šulgi (Šulgi X),,66,sux:šu[hand]N sux:ŋidru[scepter]N sux:kug[pure]V/i sux:šu-du[complete]V/t
-c.2.4.2.24,A praise poem of Šulgi (Šulgi X),,67,sux:ŋiri[foot]N sux:esir[shoe]N sux:kug[pure]V/i sux:šu-du[complete]V/t
-c.2.4.2.24,A praise poem of Šulgi (Šulgi X),,68,sux:dubtuku[runner]N sux:harran[route]N sux:kaš[runner]N sux:dug[speak]V/t sux:šu-du[complete]V/t
-c.2.4.2.24,A praise poem of Šulgi (Šulgi X),,69,sux:amar[young]N sux:zagin[lapis]N sux:gaba[chest]N sux:kug[pure]V/i sux:enedi[game]N sux:dug[speak]V/t sux:šu-du[complete]V/t
+c.2.4.2.24,A praise poem of Šulgi (Šulgi X),,56,sux:DU[DU]V sux:du[push]V/t
+c.2.4.2.24,A praise poem of Šulgi (Šulgi X),,57,sux:barag[sanctum]N sux:mah[great]V/i sux:saŋ[head]N sux:il[raise]V/t sux:du[push]V/t
+c.2.4.2.24,A praise poem of Šulgi (Šulgi X),,58,sux:guza[chair]N sux:zagin[lapis]N sux:dur[buttocks]N sux:ŋar[place]V/t sux:du[push]V/t
+c.2.4.2.24,A praise poem of Šulgi (Šulgi X),,59,sux:saŋ[head]N sux:men[tiara]N sux:gunu[speckled]V/i sux:du[push]V/t
+c.2.4.2.24,A praise poem of Šulgi (Šulgi X),,60,sux:bar[outside]V/t sux:zulumhi[sheep]N sux:sud[distant]V/i sux:du[push]V/t
+c.2.4.2.24,A praise poem of Šulgi (Šulgi X),,61,sux:tug[textile]N sux:namlugal[kingship]N sux:šag[heart]N sux:la[hang]V/t sux:du[push]V/t
+c.2.4.2.24,A praise poem of Šulgi (Šulgi X),,62,sux:mitum[weapon]N sux:a[arm]N sux:il[raise]V/t sux:du[push]V/t
+c.2.4.2.24,A praise poem of Šulgi (Šulgi X),,63,sux:tukul[weapon]N sux:dub[knee]N sux:bad[open]V/t sux:du[push]V/t
+c.2.4.2.24,A praise poem of Šulgi (Šulgi X),,64,sux:ti[arrow]N sux:sud[distant]V/i sux:pana[bow]N sux:si[horn]N sux:sa[equal]V/t sux:du[push]V/t
+c.2.4.2.24,A praise poem of Šulgi (Šulgi X),,65,sux:illar[weapon]N sux:guru[shield]N sux:zag[side]N sux:kešed[bind]V/t sux:du[push]V/t
+c.2.4.2.24,A praise poem of Šulgi (Šulgi X),,66,sux:šu[hand]N sux:ŋidru[scepter]N sux:kug[pure]V/i sux:du[push]V/t
+c.2.4.2.24,A praise poem of Šulgi (Šulgi X),,67,sux:ŋiri[foot]N sux:esir[shoe]N sux:kug[pure]V/i sux:du[push]V/t
+c.2.4.2.24,A praise poem of Šulgi (Šulgi X),,68,sux:dubtuku[runner]N sux:harran[route]N sux:kaš[runner]N sux:dug[speak]V/t sux:du[push]V/t
+c.2.4.2.24,A praise poem of Šulgi (Šulgi X),,69,sux:amar[young]N sux:zagin[lapis]N sux:gaba[chest]N sux:kug[pure]V/i sux:enedi[game]N sux:dug[speak]V/t sux:du[push]V/t
 c.2.4.2.24,A praise poem of Šulgi (Šulgi X),,70,sux:šag[heart]N sux:ki[place]N sux:aŋ[measure]V/t sux:ud[sun]N sux:sud[distant]V/i
 c.2.4.2.24,A praise poem of Šulgi (Šulgi X),,71,sux:An[1]DN sux:ak[do]V/t sux:kur[different]V/i
 c.2.4.2.24,A praise poem of Šulgi (Šulgi X),,72,sux:Enlil[1]DN sux:lu[person]N sux:nam[fate]N sux:tar[cut]V/t sux:šu[hand]N sux:bala[turn]V/t
@@ -103,11 +103,11 @@ c.2.4.2.24,A praise poem of Šulgi (Šulgi X),,106,sux:sipad[shepherd]N sux:Šul
 c.2.4.2.24,A praise poem of Šulgi (Šulgi X),,107,sux:lugal[king]N sux:Enlil[1]DN sux:a[arm]N sux:šum[give]V/t sux:aba[who?]QP sux:ŋar[place]V/t
 c.2.4.2.24,A praise poem of Šulgi (Šulgi X),,108,sux:aba[who?]QP sux:kur[enter]V/i
 c.2.4.2.24,A praise poem of Šulgi (Šulgi X),,109,sux:aba[who?]QP sux:e[leave]V/i
-c.2.4.2.24,A praise poem of Šulgi (Šulgi X),,110,sux:lu[person]N sux:šag[heart]N sux:zu[know]V/t sux:a[arm]N sux:al-dug[desire]V/t sux:dug[speak]V/t
-c.2.4.2.24,A praise poem of Šulgi (Šulgi X),,111,sux:me[battle]N sux:al-dug[desire]V/t sux:dug[speak]V/t
+c.2.4.2.24,A praise poem of Šulgi (Šulgi X),,110,sux:lu[person]N sux:šag[heart]N sux:zu[know]V/t sux:a[arm]N sux:al[hoe]N sux:dug[speak]V/t
+c.2.4.2.24,A praise poem of Šulgi (Šulgi X),,111,sux:me[battle]N sux:al[hoe]N sux:dug[speak]V/t
 c.2.4.2.24,A praise poem of Šulgi (Šulgi X),,112,sux:a[arm]N sux:sud[distant]V/i sux:ana[what?]QP sux:e[leave]V/i
 c.2.4.2.24,A praise poem of Šulgi (Šulgi X),,113,sux:Anzud[1]DN sux:gu[voice]N sux:dub[tremble]V/t sux:igi[eye]N sux:aba[who?]QP sux:gub[stand]V/i
-c.2.4.2.24,A praise poem of Šulgi (Šulgi X),,114,sux:ud[storm]N sux:šeg-gi[make-noise]V/t sux:gi[turn]V/i
+c.2.4.2.24,A praise poem of Šulgi (Šulgi X),,114,sux:ud[storm]N sux:šeg[voice]N sux:gi[turn]V/i
 c.2.4.2.24,A praise poem of Šulgi (Šulgi X),,115,sux:kur[mountain]N sux:bad[open]V/t sux:hursaŋ[mountain]N sux:gi[reed]N sux:saŋ[head]N sux:sag[beat]V/t
 c.2.4.2.24,A praise poem of Šulgi (Šulgi X),,116,sux:kur[mountain]N sux:e[house]N sux:igi[eye]N sux:bar[outside]V/t
 c.2.4.2.24,A praise poem of Šulgi (Šulgi X),,117,sux:Tidnum[1]EN sux:u[admiration]N sux:dug[good]V/i sux:dug[speak]V/t
@@ -130,7 +130,7 @@ c.2.4.2.24,A praise poem of Šulgi (Šulgi X),,133,sux:Šulgir[1]RN sux:sipad[sh
 c.2.4.2.24,A praise poem of Šulgi (Šulgi X),,134,sux:ursaŋ[hero]N sux:en[lord]N sux:gabaŋal[forceful]AJ sux:kur[mountain]N sux:a[arm]N sux:zid[right]V/i sux:kalam[land]N
 c.2.4.2.24,A praise poem of Šulgi (Šulgi X),,135,sux:uma[triumph]N sux:gub[stand]V/i sux:sa[equal]V/t sux:dug[speak]V/t sux:inim[word]N sux:dug[speak]V/t sux:ŋar[place]V/t
 c.2.4.2.24,A praise poem of Šulgi (Šulgi X),,136,sux:kibala[rebel-land]N sux:nam[fate]N sux:kud[cut]V/t sux:e[house]N sux:dud[mound]N sux:ŋar[place]V/t
-c.2.4.2.24,A praise poem of Šulgi (Šulgi X),,137,sux:itud[moon]N sux:usakar[moon]N sux:me[Being]N sux:šu[hand]N sux:šu-du[complete]V/t sux:kušu[tired]V/i
+c.2.4.2.24,A praise poem of Šulgi (Šulgi X),,137,sux:itud[moon]N sux:usakar[moon]N sux:me[Being]N sux:šu[hand]N sux:du[push]V/t sux:kušu[tired]V/i
 c.2.4.2.24,A praise poem of Šulgi (Šulgi X),,138,sux:Ezina[1]DN sux:mu[name]N sux:kag[mouth]N sux:kalam[land]N sux:kag[mouth]N sux:kur[mountain]N sux:dug[good]V/i sux:ŋal[be]V/i
 c.2.4.2.24,A praise poem of Šulgi (Šulgi X),,139,sux:kug[pure]V/i sux:Ningal[1]DN sux:nin[lady]N sux:agrun[cella]N sux:ŋeš[tree]N sux:ummud[waterskin]N sux:ur[root]N sux:tal[broad]V/i
 c.2.4.2.24,A praise poem of Šulgi (Šulgi X),,140,sux:Suen[1]DN sux:nam[fate]N sux:dug[good]V/i sux:tar[cut]V/t

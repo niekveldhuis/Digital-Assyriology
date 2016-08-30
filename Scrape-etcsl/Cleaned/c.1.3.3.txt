@@ -9,8 +9,8 @@ c.1.3.3,Inana and Šu-kale-tuda,,7,sux:šag[heart]N sux:kalam[land]N sux:igi[eye
 c.1.3.3,Inana and Šu-kale-tuda,,8,sux:lul[false]V/i sux:zid[right]V/i sux:pad[find]V/t sux:kur[mountain]N sux:il[raise]V/t
 c.1.3.3,Inana and Šu-kale-tuda,,9,sux:ineš[now]MA sux:lu[person]N sux:lu[person]N sux:ana[what?]QP sux:dug[speak]V/t
 c.1.3.3,Inana and Šu-kale-tuda,,10,sux:lu[person]N sux:lu[person]N sux:dili[single]V/i sux:ana[what?]QP sux:tah[add]V/t
-c.1.3.3,Inana and Šu-kale-tuda,,11,sux:nin[lady]N sux:am[bull]N sux:kurur[~mountain]N sux:gub[stand]V/i sux:me[Being]N sux:šu[hand]N sux:šu-du[complete]V/t
-c.1.3.3,Inana and Šu-kale-tuda,,12,sux:Inanak[1]DN sux:durahmaš[ram]N sux:kurbad[mountain-top]N sux:gub[stand]V/i sux:me[Being]N sux:šu[hand]N sux:šu-du[complete]V/t
+c.1.3.3,Inana and Šu-kale-tuda,,11,sux:nin[lady]N sux:am[bull]N sux:kurur[~mountain]N sux:gub[stand]V/i sux:me[Being]N sux:šu[hand]N sux:du[push]V/t
+c.1.3.3,Inana and Šu-kale-tuda,,12,sux:Inanak[1]DN sux:durahmaš[ram]N sux:kurbad[mountain-top]N sux:gub[stand]V/i sux:me[Being]N sux:šu[hand]N sux:du[push]V/t
 c.1.3.3,Inana and Šu-kale-tuda,,13,sux:ineš[now]MA sux:lu[person]N sux:lu[person]N sux:ana[what?]QP sux:dug[speak]V/t
 c.1.3.3,Inana and Šu-kale-tuda,,14,sux:lulu[man]N sux:lulu[man]N sux:dili[single]V/i sux:ana[what?]QP sux:tah[add]V/t
 c.1.3.3,Inana and Šu-kale-tuda,,15,sux:ud[sun]N sux:an[sky]N sux:šub[fall]V/t sux:ki[place]N sux:šub[fall]V/t sux:kur[mountain]N sux:il[raise]V/t
@@ -93,7 +93,7 @@ c.1.3.3,Inana and Šu-kale-tuda,,101,sux:sig[weak]V/i sux:igi[eye]N sux:il[raise
 c.1.3.3,Inana and Šu-kale-tuda,,102,sux:iginim[land]N sux:igi[eye]N sux:il[raise]V/t sux:diŋir[deity]N sux:un[high]V/i sux:kur[mountain]N sux:ud[sun]N sux:šuš[cover]V/t sux:igi[eye]N sux:du[spread]V/t
 c.1.3.3,Inana and Šu-kale-tuda,,103,sux:gidim[ghost]N sux:dili[single]V/i sux:ŋen[go]V/i sux:igi[eye]N sux:du[spread]V/t
 c.1.3.3,Inana and Šu-kale-tuda,,104,sux:diŋir[deity]N sux:dili[single]V/i sux:ŋen[go]V/i sux:ŋeškim[sign]N sux:zu[know]V/t
-c.1.3.3,Inana and Šu-kale-tuda,,105,sux:me[Being]N sux:šu[hand]N sux:šu-du[complete]V/t sux:igi[eye]N sux:du[spread]V/t
+c.1.3.3,Inana and Šu-kale-tuda,,105,sux:me[Being]N sux:šu[hand]N sux:du[push]V/t sux:igi[eye]N sux:du[spread]V/t
 c.1.3.3,Inana and Šu-kale-tuda,,106,sux:nam[fate]N sux:tar[cut]V/t sux:diŋir[deity]N sux:igi[eye]N sux:ŋal[be]V/i
 c.1.3.3,Inana and Šu-kale-tuda,,107,sux:sar[garden]N sux:ki[place]N sux:5[5]NU sux:10[10]NU sux:teŋ[approach]V/i
 c.1.3.3,Inana and Šu-kale-tuda,,108,sux:ki[place]N sux:ŋešandul[shade]N sux:1[1]NU sux:gub[stand]V/i
@@ -141,7 +141,7 @@ c.1.3.3,Inana and Šu-kale-tuda,,149,sux:sig[weak]V/i sux:igi[eye]N sux:il[raise
 c.1.3.3,Inana and Šu-kale-tuda,,150,sux:iginim[land]N sux:igi[eye]N sux:il[raise]V/t sux:diŋir[deity]N sux:un[high]V/i sux:kur[mountain]N sux:ud[sun]N sux:šuš[cover]V/t sux:igi[eye]N sux:du[spread]V/t
 c.1.3.3,Inana and Šu-kale-tuda,,151,sux:gidim[ghost]N sux:dili[single]V/i sux:ŋen[go]V/i sux:igi[eye]N sux:du[spread]V/t
 c.1.3.3,Inana and Šu-kale-tuda,,152,sux:diŋir[deity]N sux:dili[single]V/i sux:ŋen[go]V/i sux:ŋeškim[sign]N sux:zu[know]V/t
-c.1.3.3,Inana and Šu-kale-tuda,,153,sux:me[Being]N sux:šu[hand]N sux:šu-du[complete]V/t sux:igi[eye]N sux:du[spread]V/t
+c.1.3.3,Inana and Šu-kale-tuda,,153,sux:me[Being]N sux:šu[hand]N sux:du[push]V/t sux:igi[eye]N sux:du[spread]V/t
 c.1.3.3,Inana and Šu-kale-tuda,,154,sux:nam[fate]N sux:tar[cut]V/t sux:diŋir[deity]N sux:igi[eye]N sux:ŋal[be]V/i
 c.1.3.3,Inana and Šu-kale-tuda,,155,sux:sar[garden]N sux:ki[place]N sux:5[5]NU sux:10[10]NU sux:teŋ[approach]V/i
 c.1.3.3,Inana and Šu-kale-tuda,,156,sux:ki[place]N sux:ŋešandul[shade]N sux:1[1]NU sux:gub[stand]V/i
@@ -262,7 +262,7 @@ c.1.3.3,Inana and Šu-kale-tuda,,271,sux:sig[weak]V/i sux:igi[eye]N sux:il[raise
 c.1.3.3,Inana and Šu-kale-tuda,,272,sux:iginim[land]N sux:igi[eye]N sux:il[raise]V/t sux:diŋir[deity]N sux:un[high]V/i sux:kur[mountain]N sux:ud[sun]N sux:šuš[cover]V/t sux:igi[eye]N sux:du[spread]V/t
 c.1.3.3,Inana and Šu-kale-tuda,,273,sux:gidim[ghost]N sux:dili[single]V/i sux:ŋen[go]V/i sux:igi[eye]N sux:du[spread]V/t
 c.1.3.3,Inana and Šu-kale-tuda,,274,sux:diŋir[deity]N sux:dili[single]V/i sux:ŋen[go]V/i sux:igi[eye]N sux:ŋar[place]V/t
-c.1.3.3,Inana and Šu-kale-tuda,,275,sux:me[Being]N sux:šu[hand]N sux:šu-du[complete]V/t sux:igi[eye]N sux:du[spread]V/t
+c.1.3.3,Inana and Šu-kale-tuda,,275,sux:me[Being]N sux:šu[hand]N sux:du[push]V/t sux:igi[eye]N sux:du[spread]V/t
 c.1.3.3,Inana and Šu-kale-tuda,,276,sux:nam[fate]N sux:tar[cut]V/t sux:diŋir[deity]N sux:igi[eye]N sux:ŋal[be]V/i
 c.1.3.3,Inana and Šu-kale-tuda,,277,sux:sar[garden]N sux:ki[place]N sux:300[300]NU sux:600[600]NU sux:teŋ[approach]V/i
 c.1.3.3,Inana and Šu-kale-tuda,,278,sux:ki[place]N sux:ŋešandul[shade]N sux:1[1]NU sux:gub[stand]V/i

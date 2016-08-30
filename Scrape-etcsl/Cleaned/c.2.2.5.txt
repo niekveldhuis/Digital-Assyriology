@@ -12,7 +12,7 @@ c.2.2.5,The lament for Unug,,A10,sux:Ninlil[1]DN sux:mušme[face]N sux:šum[give
 c.2.2.5,The lament for Unug,,A11,sux:Aruru[1]DN sux:Suen[1]DN sux:Enki[1]DN sux:medim[limbs]N sux:ak[do]V/t
 c.2.2.5,The lament for Unug,,A12,sux:ane[he]IP sux:heši[darken]V/i sux:ŋi[night]N sux:ennuŋ[imprisonment]N sux:1/2[1/2]NU sux:ŋar[place]V/t
 c.2.2.5,The lament for Unug,,A13,sux:diŋir[deity]N sux:gal[big]V/i sux:kuš[unit]N sux:sissig[green]V/i sux:ŋal[be]V/i
-c.2.2.5,The lament for Unug,,A14,sux:am[bull]N sux:gal[big]V/i sux:gu[voice]N sux:mah[great]V/i sux:dug[speak]V/t sux:šeg-gi[make-noise]V/t sux:ane[he]IP sux:si[fill]V/t
+c.2.2.5,The lament for Unug,,A14,sux:am[bull]N sux:gal[big]V/i sux:gu[voice]N sux:mah[great]V/i sux:dug[speak]V/t sux:šeg[voice]N sux:ane[he]IP sux:si[fill]V/t
 c.2.2.5,The lament for Unug,,A15,sux:si[horn]N sux:gal[big]V/i sux:an[sky]N sux:us[follow]V/t sux:ni[self]RP sux:aba[who?]QP sux:dub[tremble]V/t
 c.2.2.5,The lament for Unug,,A16,sux:sabar[net]N sux:kur[mountain]N sux:dub[heap]V/t sux:aba[who?]QP sux:gur[turn]V/i
 c.2.2.5,The lament for Unug,,A17,sux:sila[street]N sux:er[tears]N sux:anir[lament]N sux:aba[who?]QP sux:ŋar[place]V/t
@@ -70,7 +70,7 @@ c.2.2.5,The lament for Unug,,D24,sux:maškim[administrator]N sux:luʾerim[evildo
 c.2.2.5,The lament for Unug,,D25,sux:diŋir[deity]N sux:gal[big]V/i sux:ur[he]IP sux:zir[break]V/t sux:bar[outside]V/t sux:gub[stand]V/i
 c.2.2.5,The lament for Unug,,D26,sux:hursaŋ[mountain]N sux:bar[outside]V/t sux:dab[seize]V/t sux:edenlil[desert]N
 c.2.2.5,The lament for Unug,,D27,sux:iri[city]N sux:silim[healthy]V/i sux:du[build]V/t sux:gu[eat]V/t sux:naŋ[drink]V/t sux:šaŋan[flask]N sux:šub[fall]V/t
-c.2.2.5,The lament for Unug,,D28,sux:šagtum[land]N sux:dum-dam[rumbling-noise]N sux:za[cvve]V/t sux:anše[equid]N sux:udu[sheep]N sux:e[leave]V/i
+c.2.2.5,The lament for Unug,,D28,sux:šagtum[land]N sux:dumdam[sound]N sux:za[cvve]V/t sux:anše[equid]N sux:udu[sheep]N sux:e[leave]V/i
 c.2.2.5,The lament for Unug,,D29,sux:abba[father]N sux:banda[child]N sux:šag[heart]N sux:kušu[tired]V/i sux:igi[eye]N
 c.2.2.5,The lament for Unug,,D30,sux:igi[eye]N sux:bar[outside]V/t sux:šar[slaughter]V/t
 c.2.2.5,The lament for Unug,,D31,sux:BU[BU]V
@@ -92,7 +92,7 @@ c.2.2.5,The lament for Unug,,E13,sux:amaru[flood]N sux:ki[place]N sux:al[hoe]N s
 c.2.2.5,The lament for Unug,,E14,sux:me[battle]N sux:ugu[skull]N sux:durgag[ax]N sux:egir[back]N sux:PA.HAR[weapon]N sux:1[1]NU
 c.2.2.5,The lament for Unug,,E15,sux:siki[hair]N sux:lum[fruit]V/i sux:ŋušur[harrow]N sux:murgu[shoulder]N sux:izi[fire]N
 c.2.2.5,The lament for Unug,,E16,sux:saŋki[forehead]N sux:ud[storm]N sux:huldu[wicked]AJ sux:ki[place]N sux:an[sky]N sux:dul[cover]V/t
-c.2.2.5,The lament for Unug,,E17,sux:ŋešnu[light]N sux:nim-ŋir[flash]V/t sux:ŋir[flash]V/i sux:Anzud[1]DN sux:igi[eye]N sux:sud[distant]V/i sux:bar[outside]V/t
+c.2.2.5,The lament for Unug,,E17,sux:ŋešnu[light]N sux:nim[fly]N sux:ŋir[flash]V/i sux:Anzud[1]DN sux:igi[eye]N sux:sud[distant]V/i sux:bar[outside]V/t
 c.2.2.5,The lament for Unug,,E18,sux:gu[voice]N sux:mir[angry]V/i sux:izi[fire]N sux:bar[burn]V/t sux:kur[mountain]N sux:sud[distant]V/i
 c.2.2.5,The lament for Unug,,E19,sux:eme[tongue]N sux:ganzer[flame]N sux:udub[coal]N sux:šeŋ[rain]V/i sux:kalam[land]N sux:dar[split]V/t
 c.2.2.5,The lament for Unug,,E20,sux:a[arm]N sux:Anzud[1]DN sux:mah[great]V/i sux:dub[knee]N sux:bad[open]V/t sux:niŋnam[anything]N sux:e[leave]V/i
@@ -101,7 +101,7 @@ c.2.2.5,The lament for Unug,,E22,sux:šab[hips]N sux:asig[slingstone]N sux-x-eme
 c.2.2.5,The lament for Unug,,E23,sux:haš[thigh]N sux:gal[big]V/i sux:ŋiri[dagger]N sux:sur[press]V/t sux:uš[blood]N sux:dul[cover]V/t sux:umun[blood]N sux:bala[turn]V/t
 c.2.2.5,The lament for Unug,,E24,sux:sa[sinew]N sux:šumme[saw]N sux:šab[cut]V/t sux:ŋiri[foot]N sux:hurin[eagle]N
 c.2.2.5,The lament for Unug,,E25,sux:Idigna[1]WN sux:Buranun[1]WN sux:ni[fear]N sux:teŋ[approach]V/i sux:kur[mountain]N sux:gu[voice]N sux:rah[beat]V/t
-c.2.2.5,The lament for Unug,,E26,sux:šeg-gi[make-noise]V/t sux:gi[turn]V/i sux:hursaŋ[mountain]N sux:bur[tear]V/t sux:uŋ[people]N sux:zar[sheaf]N sux:sal[thin]V/i
+c.2.2.5,The lament for Unug,,E26,sux:šeg[voice]N sux:gi[turn]V/i sux:hursaŋ[mountain]N sux:bur[tear]V/t sux:uŋ[people]N sux:zar[sheaf]N sux:sal[thin]V/i
 c.2.2.5,The lament for Unug,,E27,sux:Kiengir[1]GN sux:Akkad[1]GN sux:su[flesh]N sux:sag[beat]V/t sux:buru[harvest]N sux:su[sink]V/t
 c.2.2.5,The lament for Unug,,E28,sux:zu[know]V/t sux:hul[rejoice]V/i sux:sig[silent]N sux:tar[cut]V/t
 c.2.2.5,The lament for Unug,,E29,sux:ŋen[go]V/i sux:me[battle]N sux:ŋešla[battle]N sux:iri[city]N sux:igi[eye]N sux:du[spread]V/t
@@ -126,7 +126,7 @@ c.2.2.5,The lament for Unug,,E47,sux:amaru[flood]N sux:ki[place]N sux:al[hoe]N s
 c.2.2.5,The lament for Unug,,E48,sux:huš[reddish]V/i sux:gal[big]V/i sux:en[lord]N sux:Nergal[1]DN
 c.2.2.5,The lament for Unug,,E49,sux:Gibil[1]DN sux:Nergal[1]DN
 c.2.2.5,The lament for Unug,,E50,sux:de[bring]V/t
-c.2.2.5,The lament for Unug,,E51,sux:me[battle]N sux:kibala[rebel-land]N sux:šeg-gi[make-noise]V/t sux:gi[turn]V/i
+c.2.2.5,The lament for Unug,,E51,sux:me[battle]N sux:kibala[rebel-land]N sux:šeg[voice]N sux:gi[turn]V/i
 c.2.2.5,The lament for Unug,,E52,sux:ti[arrow]N sux:emarru[quiver]N sux:til[complete]V/i
 c.2.2.5,The lament for Unug,,E53,sux:Kiengir[1]GN sux:luʾerim[evildoer]N
 c.2.2.5,The lament for Unug,,E54,sux:Gutium[1]GN sux:ur[dog]N sux:bala[turn]V/t
@@ -154,7 +154,7 @@ c.2.2.5,The lament for Unug,,E75,sux:kirugu[notation]N sux:4-kam-ma[4th]NU
 c.2.2.5,The lament for Unug,,E76,sux:aya[cry]N sux:Kiengir[1]GN sux:aya[cry]N sux:namlulu[humanity]N
 c.2.2.5,The lament for Unug,,E77,sux:ŋešgiŋal[notation]N
 c.2.2.5,The lament for Unug,,E78,sux:Unug[1]SN sux:kar[harbor]N sux:zag[side]N sux:dab[seize]V/t
-c.2.2.5,The lament for Unug,,E79,sux:Unug[1]SN sux:gu[voice]N sux:rah[beat]V/t sux:šeg-gi[make-noise]V/t sux:gi[turn]V/i sux:lu[person]N sux:šu[hand]N sux:dab[seize]V/t
+c.2.2.5,The lament for Unug,,E79,sux:Unug[1]SN sux:gu[voice]N sux:rah[beat]V/t sux:šeg[voice]N sux:gi[turn]V/i sux:lu[person]N sux:šu[hand]N sux:dab[seize]V/t
 c.2.2.5,The lament for Unug,,E80,sux:sig[weak]V/i sux:zipaŋ[breath]N sux:ŋar[place]V/t sux:sig[weak]V/i sux:gul[destroy]V/t sux:a[arm]N
 c.2.2.5,The lament for Unug,,E81,sux:iginim[land]N sux:šu[hand]N sux:zig[rise]V/t sux:iginim[land]N sux:sig[put]V/t sux:tab[double]V/t
 c.2.2.5,The lament for Unug,,E82,sux:zid[right]V/i sux:gab[left]N sux:uŋ[people]N sux:dug[speak]V/t sux:adam[habitation]N sux:du[build]V/t
@@ -225,7 +225,7 @@ c.2.2.5,The lament for Unug,,H3,sux:aya[father]N sux:ŋi[night]N sux:šeŋ[cook]
 c.2.2.5,The lament for Unug,,H4,sux:Utu[1]DN sux:namšul[manhood]N sux:zag[side]N sux:dib[pass]V/t
 c.2.2.5,The lament for Unug,,H5,sux:ub[corner]N sux:4[4]NU sux:dili[single]V/i sux:mah[great]V/i
 c.2.2.5,The lament for Unug,,H6,sux:ni[self]RP sux:dub[tremble]V/t sux:e[house]N sux:hul[rejoice]V/i
-c.2.2.5,The lament for Unug,,H7,sux:e[house]N sux:mul-ma-al[type-of-noise]N sux:za[cvve]V/t
+c.2.2.5,The lament for Unug,,H7,sux:e[house]N sux:mulmal[sound]N sux:za[cvve]V/t
 c.2.2.5,The lament for Unug,,H8,sux:Eanak[1]TN sux:saŋ[head]N sux:il[raise]V/t
 c.2.2.5,The lament for Unug,,H9,sux:Išmedagan[1]RN sux:ua[provisioner]N sux:gub[stand]V/i
 c.2.2.5,The lament for Unug,,H10,sux:gud[ox]N sux:gal[big]V/i sux:si[horn]N sux:sa[equal]V/t
@@ -254,7 +254,7 @@ c.2.2.5,The lament for Unug,,H32,sux:iri[city]N sux:du[build]V/t sux:ki[place]N 
 c.2.2.5,The lament for Unug,,H33,sux:lu[person]N sux:iri[city]N sux:namtil[life]N sux:niŋ[thing]N sux:dug[good]V/i
 c.2.2.5,The lament for Unug,,H34,sux:gu[voice]N sux:zig[rise]V/t sux:meteš[praise]N sux:e[leave]V/i
 c.2.2.5,The lament for Unug,,H35,sux:zid[right]V/i sux:gab[left]N sux:dirig[float]V/i
-c.2.2.5,The lament for Unug,,H36,sux:lammar[deity]N sux:ŋala-dag[cease]V/t sux:šu-dag[roam-around]V/t sux:saŋ[head]N sux:tuku[acquire]V/t
+c.2.2.5,The lament for Unug,,H36,sux:lammar[deity]N sux:ŋala[cvne]N sux:dag[demolish]V/t sux:saŋ[head]N sux:tuku[acquire]V/t
 c.2.2.5,The lament for Unug,,H37,sux:namtar[fate]N sux:inim[word]N sux:zid[right]V/i sux:dug[speak]V/t
 c.2.2.5,The lament for Unug,,H38,sux:inim[word]N sux:An[1]DN sux:Enlil[1]DN sux:sud[distant]V/i sux:kur[different]V/i
 c.2.2.5,The lament for Unug,,H39,sux:kirugu[notation]N sux:12-kam-ma[12th]NU

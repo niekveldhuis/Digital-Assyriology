@@ -3,7 +3,7 @@ c.4.16.1,A hymn to Nisaba (Nisaba A),Old Babylonian,1,sux:nin[lady]N sux:mulan[s
 c.4.16.1,A hymn to Nisaba (Nisaba A),Old Babylonian,2,sux:Nisabak[1]DN sux:immal[cow]N sux:gal[big]V/i sux:Uraš[1]DN sux:utud[bear]V/t
 c.4.16.1,A hymn to Nisaba (Nisaba A),Old Babylonian,3,sux:šeŋbar[animal]N sux:naŋa[potash]N sux:kug[pure]V/i sux:ga[milk]N sux:zid[right]V/i sux:gu[eat]V/t
 c.4.16.1,A hymn to Nisaba (Nisaba A),Old Babylonian,4,sux:gi[reed]N sux:7[7]NU sux:kag[mouth]N sux:ba[allot]V/t
-c.4.16.1,A hymn to Nisaba (Nisaba A),Old Babylonian,5,sux:me[Being]N sux:gal[big]V/i sux:50[50]NU sux:šu[hand]N sux:šu-du[complete]V/t
+c.4.16.1,A hymn to Nisaba (Nisaba A),Old Babylonian,5,sux:me[Being]N sux:gal[big]V/i sux:50[50]NU sux:šu[hand]N sux:du[push]V/t
 c.4.16.1,A hymn to Nisaba (Nisaba A),Old Babylonian,6,sux:nin[lady]N sux:anunŋal[strong]AJ sux:Ekur[1]TN
 c.4.16.1,A hymn to Nisaba (Nisaba A),Old Babylonian,7,sux:ušumgal[dragon]N sux:ezem[festival]N sux:dalla[bright]V/i sux:e[leave]V/i
 c.4.16.1,A hymn to Nisaba (Nisaba A),Old Babylonian,8,sux:Aruru[1]DN sux:kalam[land]N sux:im[clay]N sux:dug[speak]V/t
@@ -61,7 +61,7 @@ c.4.16.1,A hymn to Nisaba (Nisaba A),Ur III,2,sux:dub[tablet]N sux:zagin[lapis]N
 c.4.16.1,A hymn to Nisaba (Nisaba A),Ur III,3,sux:Nisabak[1]DN sux:gal[big]V/i sux:immal[cow]N sux:Uraš[1]DN sux:utud[bear]V/t
 c.4.16.1,A hymn to Nisaba (Nisaba A),Ur III,4,sux:naŋa[potash]N sux:kug[pure]V/i sux:ga[milk]N sux:zid[right]V/i sux:gu[eat]V/t
 c.4.16.1,A hymn to Nisaba (Nisaba A),Ur III,5,sux:gi[reed]N sux:7[7]NU sux:kag[mouth]N sux:ba[allot]V/t
-c.4.16.1,A hymn to Nisaba (Nisaba A),Ur III,6,sux:me[Being]N sux:gal[big]V/i sux:50[50]NU sux:šu[hand]N sux:šu-du[complete]V/t
+c.4.16.1,A hymn to Nisaba (Nisaba A),Ur III,6,sux:me[Being]N sux:gal[big]V/i sux:50[50]NU sux:šu[hand]N sux:du[push]V/t
 c.4.16.1,A hymn to Nisaba (Nisaba A),Ur III,7,sux:nin[lady]N sux:anunŋal[strong]AJ sux:Ekur[1]TN
 c.4.16.1,A hymn to Nisaba (Nisaba A),Ur III,8,sux:Aruru[1]DN sux:kalam[land]N
 c.4.16.1,A hymn to Nisaba (Nisaba A),Ur III,9,sux:im[clay]N sux:dug[speak]V/t

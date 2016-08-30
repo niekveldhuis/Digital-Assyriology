@@ -9,7 +9,7 @@ c.2.6.6.5,Sîn-iddinam and Iškur (Sîn-iddinam E),,7,sux:mir[wind]N sux:kaš[ru
 c.2.6.6.5,Sîn-iddinam and Iškur (Sîn-iddinam E),,8,sux:ki[place]N sux:tuku[rock]V/t
 c.2.6.6.5,Sîn-iddinam and Iškur (Sîn-iddinam E),,9,sux:an[sky]N sux:daŋal[wide]V/i sux:tumu[wind]N sux:mah[great]V/i sux:gu[voice]N sux:rugu[withstand]V/t
 c.2.6.6.5,Sîn-iddinam and Iškur (Sîn-iddinam E),,10,sux:zipaŋ[breath]N sux:heŋal[plenty]N
-c.2.6.6.5,Sîn-iddinam and Iškur (Sîn-iddinam E),,11,sux:šeg-gi[make-noise]V/t sux:gi[turn]V/i sux:kalam[land]N sux:hursaŋ[mountain]N sux:gal[big]V/i
+c.2.6.6.5,Sîn-iddinam and Iškur (Sîn-iddinam E),,11,sux:šeg[voice]N sux:gi[turn]V/i sux:kalam[land]N sux:hursaŋ[mountain]N sux:gal[big]V/i
 c.2.6.6.5,Sîn-iddinam and Iškur (Sîn-iddinam E),,12,sux:ni[fear]N sux:gi[turn]V/i
 c.2.6.6.5,Sîn-iddinam and Iškur (Sîn-iddinam E),,13,sux:ursaŋ[hero]N sux:gal[big]V/i sux:šibir[staff]N sux:šu[hand]N sux:dab[seize]V/t
 c.2.6.6.5,Sîn-iddinam and Iškur (Sîn-iddinam E),,14,sux:namnirŋal[authority]N sux:zag[side]N sux:kešed[bind]V/t
@@ -44,7 +44,7 @@ c.2.6.6.5,Sîn-iddinam and Iškur (Sîn-iddinam E),,44,sux:Iškur[1]DN sux:diŋi
 c.2.6.6.5,Sîn-iddinam and Iškur (Sîn-iddinam E),,45,sux:saŋ[head]N sux:rig[donate]V/t
 c.2.6.6.5,Sîn-iddinam and Iškur (Sîn-iddinam E),,46,sux:ŋešhur[plan]N sux:Eridug[1]SN sux:si[horn]N sux:sa[equal]V/t
 c.2.6.6.5,Sîn-iddinam and Iškur (Sîn-iddinam E),,47,sux:nindaba[offering]N
-c.2.6.6.5,Sîn-iddinam and Iškur (Sîn-iddinam E),,48,sux:diŋir[deity]N sux:šu[hand]N sux:šu-du[complete]V/t
+c.2.6.6.5,Sîn-iddinam and Iškur (Sîn-iddinam E),,48,sux:diŋir[deity]N sux:šu[hand]N sux:du[push]V/t
 c.2.6.6.5,Sîn-iddinam and Iškur (Sîn-iddinam E),,49,sux:galanzu[wise]AJ sux:me[Being]N sux:libir[old]V/i
 c.2.6.6.5,Sîn-iddinam and Iškur (Sîn-iddinam E),,50,sux:ki[place]N sux:gi[turn]V/i
 c.2.6.6.5,Sîn-iddinam and Iškur (Sîn-iddinam E),,51,sux:uŋ[people]N sux:šar[3600]NU
@@ -57,7 +57,7 @@ c.2.6.6.5,Sîn-iddinam and Iškur (Sîn-iddinam E),,57,sux:kug[metal]N sux:luh[c
 c.2.6.6.5,Sîn-iddinam and Iškur (Sîn-iddinam E),,58,sux:gal[big]V/i sux:ak[do]V/t
 c.2.6.6.5,Sîn-iddinam and Iškur (Sîn-iddinam E),,59,sux:an[sky]N sux:sissig[green]V/i
 c.2.6.6.5,Sîn-iddinam and Iškur (Sîn-iddinam E),,64,sux:mete[appropriate-thing]N sux:namurun[exaltedness]N
-c.2.6.6.5,Sîn-iddinam and Iškur (Sîn-iddinam E),,65,sux:dub[knee]N sux:ŋal[be]V/i sux:šu-du[complete]V/t
+c.2.6.6.5,Sîn-iddinam and Iškur (Sîn-iddinam E),,65,sux:dub[knee]N sux:ŋal[be]V/i sux:du[push]V/t
 c.2.6.6.5,Sîn-iddinam and Iškur (Sîn-iddinam E),,66,sux:šag[heart]N sux:lalaŋal[charming]AJ
 c.2.6.6.5,Sîn-iddinam and Iškur (Sîn-iddinam E),,67,sux:kiŋ[work]N sux:til[complete]V/i
 c.2.6.6.5,Sîn-iddinam and Iškur (Sîn-iddinam E),,68,sux:ud[storm]N sux:Iškur[1]DN sux:diŋir[deity]N

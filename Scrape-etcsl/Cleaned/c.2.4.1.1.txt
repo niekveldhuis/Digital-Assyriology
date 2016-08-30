@@ -25,7 +25,7 @@ c.2.4.1.1,The death of Ur-Namma (Ur-Namma A),Nibru,23,sux:še[barley]N sux:gunu[
 c.2.4.1.1,The death of Ur-Namma (Ur-Namma A),Nibru,24,sux:engar[farmer]N sux:gana[field]N sux:zid[right]V/i sux:gub[stand]V/i sux:tur[small]V/i
 c.2.4.1.1,The death of Ur-Namma (Ur-Namma A),Nibru,25,sux:Enkimdu[1]DN sux:lugal[king]N sux:eg[levee]N sux:par[canal]N sux:Urim[1]SN sux:eg[levee]N sux:par[canal]N sux:kar[flee]V/t
 c.2.4.1.1,The death of Ur-Namma (Ur-Namma A),Nibru,26,sux:ki[place]N sux:tag[touch]V/t
-c.2.4.1.1,The death of Ur-Namma (Ur-Namma A),Nibru,27,sux:umuš[planning]N sux:kalam[land]N sux:ugu-de[disappear]V/t sux:de[pour]V/t sux:u[grass]N sux:nirŋal[authoritative]AJ sux:sug[empty]V/i
+c.2.4.1.1,The death of Ur-Namma (Ur-Namma A),Nibru,27,sux:umuš[planning]N sux:kalam[land]N sux:ugu[cvne]N sux:de[pour]V/t sux:u[grass]N sux:nirŋal[authoritative]AJ sux:sug[empty]V/i
 c.2.4.1.1,The death of Ur-Namma (Ur-Namma A),Nibru,28,sux:eden[back]N sux:u[grass]N sux:sag[good]V/i sux:mu[grow]V/t sux:anir[grass]N sux:mu[grow]V/t
 c.2.4.1.1,The death of Ur-Namma (Ur-Namma A),Nibru,29,sux:ab[cow]N sux:tur[stall]N sux:gul[destroy]V/t
 c.2.4.1.1,The death of Ur-Namma (Ur-Namma A),Nibru,30,sux:amar[young]N sux:abšilam[cow]N sux:murmara[noise]N sux:gig[sick]V/i sux:ša[cvve]V/t
@@ -85,7 +85,7 @@ c.2.4.1.1,The death of Ur-Namma (Ur-Namma A),Nibru,83,sux:u[grass]N sux:kur[moun
 c.2.4.1.1,The death of Ur-Namma (Ur-Namma A),Nibru,84,sux:sipad[shepherd]N sux:zid[right]V/i sux:ŋarza[rites]N sux:kur[mountain]N sux:šag[heart]N sux:zu[know]V/t
 c.2.4.1.1,The death of Ur-Namma (Ur-Namma A),Nibru,85,sux:lugal[king]N sux:nindaba[offering]N sux:kur[mountain]N sux:ŋeš[tree]N sux:tag[touch]V/t
 c.2.4.1.1,The death of Ur-Namma (Ur-Namma A),Nibru,86,sux:Urnamma[1]RN sux:nindaba[offering]N sux:kur[mountain]N sux:ŋeš[tree]N sux:tag[touch]V/t
-c.2.4.1.1,The death of Ur-Namma (Ur-Namma A),Nibru,87,sux:gud[ox]N sux:šu-du[complete]V/t sux:maš[goat]N sux:šu-du[complete]V/t sux:udu[sheep]N sux:niga[fattened]V/i sux:enna[until]CNJ sux:de[bring]V/t
+c.2.4.1.1,The death of Ur-Namma (Ur-Namma A),Nibru,87,sux:gud[ox]N sux:du[push]V/t sux:maš[goat]N sux:du[push]V/t sux:udu[sheep]N sux:niga[fattened]V/i sux:enna[until]CNJ sux:de[bring]V/t
 c.2.4.1.1,The death of Ur-Namma (Ur-Namma A),Nibru,88,sux:mitum[weapon]N sux:pana[bow]N sux:gal[big]V/i sux:emarru[quiver]N sux:kakpana[arrow]N sux:ŋiri[dagger]N sux:zu[tooth]N sux:galam[skilful]V/i
 c.2.4.1.1,The death of Ur-Namma (Ur-Namma A),Nibru,89,sux:lub[bag]N sux:gunu[speckled]V/i sux:ib[hips]N sux:ŋal[be]V/i
 c.2.4.1.1,The death of Ur-Namma (Ur-Namma A),Nibru,90,sux:Nergal[1]DN sux:Enlil[1]DN sux:kur[mountain]N
@@ -95,7 +95,7 @@ c.2.4.1.1,The death of Ur-Namma (Ur-Namma A),Nibru,93,sux:guru[shield]N sux:ki[p
 c.2.4.1.1,The death of Ur-Namma (Ur-Namma A),Nibru,94,sux:zahada[ax]N sux:niŋ[thing]N sux:ki[place]N sux:aŋ[measure]V/t sux:Ereškigalak[1]DN
 c.2.4.1.1,The death of Ur-Namma (Ur-Namma A),Nibru,95,sux:Gilgameš[1]DN sux:lugal[king]N sux:kur[mountain]N
 c.2.4.1.1,The death of Ur-Namma (Ur-Namma A),Nibru,96,sux:sipad[shepherd]N sux:Urnamma[1]RN sux:egal[palace]N sux:ŋeš[tree]N sux:tag[touch]V/t
-c.2.4.1.1,The death of Ur-Namma (Ur-Namma A),Nibru,97,sux:kešed[bind]V/t sux:i[oil]N sux:de[pour]V/t sux:bur[bowl]N sux:šaŋan[flask]N sux:šu[hand]N sux:šu-du[complete]V/t
+c.2.4.1.1,The death of Ur-Namma (Ur-Namma A),Nibru,97,sux:kešed[bind]V/t sux:i[oil]N sux:de[pour]V/t sux:bur[bowl]N sux:šaŋan[flask]N sux:šu[hand]N sux:du[push]V/t
 c.2.4.1.1,The death of Ur-Namma (Ur-Namma A),Nibru,98,sux:tug[textile]N sux:dugud[heavy]V/i sux:zulumhi[sheep]N sux:pala[garment]N sux:namnin[ladyship]N
 c.2.4.1.1,The death of Ur-Namma (Ur-Namma A),Nibru,99,sux:dalla[bright]V/i sux:me[Being]N sux:kur[mountain]N
 c.2.4.1.1,The death of Ur-Namma (Ur-Namma A),Nibru,100,sux:Ereškigalak[1]DN sux:ama[mother]N sux:Ninazu[1]DN
@@ -107,7 +107,7 @@ c.2.4.1.1,The death of Ur-Namma (Ur-Namma A),Nibru,105,sux:sipad[shepherd]N sux:
 c.2.4.1.1,The death of Ur-Namma (Ur-Namma A),Nibru,105A,sux:tuditum[toggle-pin]N sux:kugsig[gold]N sux:kugbabbar[silver]N
 c.2.4.1.1,The death of Ur-Namma (Ur-Namma A),Nibru,105B,sux:zagin[lapis]N sux:badara[dagger]N
 c.2.4.1.1,The death of Ur-Namma (Ur-Namma A),Nibru,105C,sux:Dimpikug[1]DN
-c.2.4.1.1,The death of Ur-Namma (Ur-Namma A),Nibru,106,sux:gilsa[treasure]N sux:šu[hand]N sux:šu-du[complete]V/t sux:har[ring]N sux:kugsig[gold]N sux:magur[barge]N sux:sig[put]V/t
+c.2.4.1.1,The death of Ur-Namma (Ur-Namma A),Nibru,106,sux:gilsa[treasure]N sux:šu[hand]N sux:du[push]V/t sux:har[ring]N sux:kugsig[gold]N sux:magur[barge]N sux:sig[put]V/t
 c.2.4.1.1,The death of Ur-Namma (Ur-Namma A),Nibru,107,sux:gug[carnelian]N sux:kug[pure]V/i sux:niŋ[thing]N sux:gaba[chest]N sux:diŋir[deity]N
 c.2.4.1.1,The death of Ur-Namma (Ur-Namma A),Nibru,108,sux:Namtar[1]DN sux:lu[person]N sux:nam[fate]N sux:tar[cut]V/t
 c.2.4.1.1,The death of Ur-Namma (Ur-Namma A),Nibru,109,sux:sipad[shepherd]N sux:Urnamma[1]RN sux:egal[palace]N sux:ŋeš[tree]N sux:tag[touch]V/t
@@ -313,7 +313,7 @@ c.2.4.1.1,The death of Ur-Namma (Ur-Namma A),Susa,C25,sux:ŋešgida[length]N sux
 c.2.4.1.1,The death of Ur-Namma (Ur-Namma A),Susa,C26,sux:guru[shield]N sux:ki[place]N sux:us[follow]V/t sux:zahada[ax]N sux:niŋ[thing]N sux:ki[place]N sux:aŋ[measure]V/t sux:Ereškigalak[1]DN
 c.2.4.1.1,The death of Ur-Namma (Ur-Namma A),Susa,C27,sux:Gilgameš[1]DN sux:lugal[king]N sux:kur[mountain]N
 c.2.4.1.1,The death of Ur-Namma (Ur-Namma A),Susa,C28,sux:sipad[shepherd]N sux:Urnamma[1]RN sux:egal[palace]N sux:ŋeš[tree]N sux:tag[touch]V/t
-c.2.4.1.1,The death of Ur-Namma (Ur-Namma A),Susa,C29,sux:ŋeškešda[dam]N sux:i[oil]N sux:SAR[SAR]V sux:bur[bowl]N sux:šaŋan[flask]N sux:šu[hand]N sux:šu-du[complete]V/t
+c.2.4.1.1,The death of Ur-Namma (Ur-Namma A),Susa,C29,sux:ŋeškešda[dam]N sux:i[oil]N sux:SAR[SAR]V sux:bur[bowl]N sux:šaŋan[flask]N sux:šu[hand]N sux:du[push]V/t
 c.2.4.1.1,The death of Ur-Namma (Ur-Namma A),Susa,C30,sux:lugal[king]N sux:sig[weak]V/i sux:me[Being]N sux:kur[mountain]N
 c.2.4.1.1,The death of Ur-Namma (Ur-Namma A),Susa,C31,sux:Ereškigalak[1]DN sux:ama[mother]N sux:Ninazu[1]DN
 c.2.4.1.1,The death of Ur-Namma (Ur-Namma A),Susa,C32,sux:sipad[shepherd]N sux:Urnamma[1]RN sux:egal[palace]N sux:ŋeš[tree]N sux:tag[touch]V/t
@@ -322,7 +322,7 @@ c.2.4.1.1,The death of Ur-Namma (Ur-Namma A),Susa,C34,sux:GIŠ.ŠIR[unmng]N sux:
 c.2.4.1.1,The death of Ur-Namma (Ur-Namma A),Susa,C35,sux:ešgiri[staff]N sux:šibir[staff]N sux:manu[wood]N sux:namsipad[shepherdship]N sux:namen[priesthood]N sux:tum[suitable]V/i
 c.2.4.1.1,The death of Ur-Namma (Ur-Namma A),Susa,C36,sux:Dumuzid[1]DN sux:dam[spouse]N sux:ki[place]N sux:aŋ[measure]V/t sux:Inanak[1]DN
 c.2.4.1.1,The death of Ur-Namma (Ur-Namma A),Susa,C37,sux:sipad[shepherd]N sux:Urnamma[1]RN sux:egal[palace]N sux:ŋeš[tree]N sux:tag[touch]V/t
-c.2.4.1.1,The death of Ur-Namma (Ur-Namma A),Susa,C38,sux:gilsa[treasure]N sux:šu[hand]N sux:šu-du[complete]V/t sux:har[ring]N sux:kugsig[gold]N sux:magur[barge]N sux:sissig[green]V/i
+c.2.4.1.1,The death of Ur-Namma (Ur-Namma A),Susa,C38,sux:gilsa[treasure]N sux:šu[hand]N sux:du[push]V/t sux:har[ring]N sux:kugsig[gold]N sux:magur[barge]N sux:sissig[green]V/i
 c.2.4.1.1,The death of Ur-Namma (Ur-Namma A),Susa,C39,sux:gug[carnelian]N sux:kug[pure]V/i sux:diŋir[deity]N
 c.2.4.1.1,The death of Ur-Namma (Ur-Namma A),Susa,C40,sux:Namtar[1]DN sux:lu[person]N sux:nam[fate]N sux:tar[cut]V/t
 c.2.4.1.1,The death of Ur-Namma (Ur-Namma A),Susa,C41,sux:sipad[shepherd]N sux:Urnamma[1]RN sux:egal[palace]N sux:ŋeš[tree]N sux:tag[touch]V/t

@@ -60,8 +60,8 @@ c.1.1.2,Enki and Ninmah,,58,sux:Ninmah[1]DN sux:im[clay]N sux:ugu[skull]N sux:ab
 c.1.1.2,Enki and Ninmah,,59,sux:lu[person]N sux:gi[1st]NU sux:šu[hand]N sux:šuš[cover]V/t sux:sa[equal]V/t sux:gurum[bend]V/t sux:lu[person]N sux:dim[create]V/t
 c.1.1.2,Enki and Ninmah,,60,sux:Enki[1]DN sux:lu[person]N sux:gi[1st]NU sux:šu[hand]N sux:šuš[cover]V/t sux:sa[equal]V/t sux:gurum[bend]V/t sux:igi[eye]N sux:du[spread]V/t
 c.1.1.2,Enki and Ninmah,,61,sux:nam[fate]N sux:tar[cut]V/t sux:saŋ[head]N sux:lugal[king]N sux:gub[stand]V/i
-c.1.1.2,Enki and Ninmah,,62,sux:gibi[2nd]NU sux:ŋešnu[light]N sux:gi[turn]V/i sux:lu[person]N sux:u-dug[admire]V/t sux:dim[create]V/t
-c.1.1.2,Enki and Ninmah,,63,sux:Enki[1]DN sux:ŋešnu[light]N sux:gi[turn]V/i sux:lu[person]N sux:u-dug[admire]V/t sux:igi[eye]N sux:du[spread]V/t
+c.1.1.2,Enki and Ninmah,,62,sux:gibi[2nd]NU sux:ŋešnu[light]N sux:gi[turn]V/i sux:lu[person]N sux:u[stare]V/i sux:dim[create]V/t
+c.1.1.2,Enki and Ninmah,,63,sux:Enki[1]DN sux:ŋešnu[light]N sux:gi[turn]V/i sux:lu[person]N sux:u[stare]V/i sux:igi[eye]N sux:du[spread]V/t
 c.1.1.2,Enki and Ninmah,,64,sux:nam[fate]N sux:tar[cut]V/t sux:namnar[musicianship]N sux:ba[allot]V/t
 c.1.1.2,Enki and Ninmah,,65,sux:gal[big]V/i sux:ušumgal[dragon]N sux:igi[eye]N sux:lugal[king]N sux:gub[stand]V/i
 c.1.1.2,Enki and Ninmah,,66,sux:pešbi[3rd]NU sux:ŋiri[foot]N sux:2[2]NU sux:hum[snap]V/t sux:ŋiri[foot]N sux:dab[seize]V/t sux:dim[create]V/t
@@ -131,7 +131,7 @@ c.1.1.2,Enki and Ninmah,,128,sux:ud[sun]N sux-x-emesal:me[I]IP sux:niŋ[thing]N 
 c.1.1.2,Enki and Ninmah,,129,sux:Enki[1]DN sux:Ninmah[1]DN sux:gi[turn]V/i
 c.1.1.2,Enki and Ninmah,,130,sux:inim[word]N sux:kag[mouth]N sux:e[leave]V/i sux:aba[who?]QP sux:kur[different]V/i
 c.1.1.2,Enki and Ninmah,,131,sux:umul[creature]N sux:dab[seize]V/t sux:ur[root]N sux:šu[hand]N sux:ŋal[be]V/i
-c.1.1.2,Enki and Ninmah,,132,sux:Ninmah[1]DN sux:kiŋ[work]N sux:la[hang]V/t sux:šu[hand]N sux:šu-du[complete]V/t sux:dab[seize]V/t sux:aba[who?]QP sux:saŋ[head]N sux:ŋar[place]V/t
+c.1.1.2,Enki and Ninmah,,132,sux:Ninmah[1]DN sux:kiŋ[work]N sux:la[hang]V/t sux:šu[hand]N sux:du[push]V/t sux:dab[seize]V/t sux:aba[who?]QP sux:saŋ[head]N sux:ŋar[place]V/t
 c.1.1.2,Enki and Ninmah,,133,sux:lu[person]N sux:medim[limbs]N sux:egir[back]N sux:tuku[acquire]V/t sux:kag[mouth]N sux:šu[hand]N sux:ŋal[be]V/i
 c.1.1.2,Enki and Ninmah,,134,sux:ud[sun]N sux:ŋeš[penis]N sux:meteš[praise]N sux:e[leave]V/i sux:ŋeštug[ear]N sux:deg[collect]V/t sux:heŋal[plenty]N
 c.1.1.2,Enki and Ninmah,,135,sux:enkum[treasurer]N sux:nenkum[official]N

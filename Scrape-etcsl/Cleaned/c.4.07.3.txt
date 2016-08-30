@@ -6,12 +6,12 @@ c.4.07.3,A hymn to Inana (Inana C),,4,sux:diŋir[deity]N sux:gal[big]V/i sux:aŋ
 c.4.07.3,A hymn to Inana (Inana C),,5,sux:inim[word]N sux:mah[great]V/i sux:Anunak[1]DN sux:kušum[cvne]N sux:ki[place]N sux:tag[touch]V/t
 c.4.07.3,A hymn to Inana (Inana C),,6,sux:inti[way]N sux:An[1]DN sux:zu[know]V/t sux:a[arm]N sux:aŋ[measure]V/t sux:la[hang]V/t
 c.4.07.3,A hymn to Inana (Inana C),,7,sux:niŋ[thing]N sux:ak[do]V/t sux:kur[different]V/i sux:ŋar[place]V/t sux:niŋ[thing]N sux:zu[know]V/t
-c.4.07.3,A hymn to Inana (Inana C),,8,sux:me[Being]N sux:gal[big]V/i sux:šu[hand]N sux:šu-du[complete]V/t sux:šibir[staff]N sux:dab[seize]V/t sux:saŋkal[foremost]AJ sux:mah[great]V/i
+c.4.07.3,A hymn to Inana (Inana C),,8,sux:me[Being]N sux:gal[big]V/i sux:šu[hand]N sux:du[push]V/t sux:šibir[staff]N sux:dab[seize]V/t sux:saŋkal[foremost]AJ sux:mah[great]V/i
 c.4.07.3,A hymn to Inana (Inana C),,9,sux:diŋir[deity]N sux:kalam[land]N sux:raba[clamp]N sux:gal[big]V/i sux:šu[hand]N sux:ri[impose]V/t
 c.4.07.3,A hymn to Inana (Inana C),,10,sux:ni[fear]N sux:gal[big]V/i sux:hursaŋ[mountain]N sux:gal[big]V/i sux:dul[cover]V/t sux:kaskal[way]N sux:sig[put]V/t
 c.4.07.3,A hymn to Inana (Inana C),,11,sux:zipaŋ[breath]N sux:dugud[heavy]V/i sux:diŋir[deity]N sux:kalam[land]N sux:ni[self]RP sux:ur[convulsed]V/i
 c.4.07.3,A hymn to Inana (Inana C),,12,sux:murmara[noise]N sux:ša[cvve]V/t sux:Anunak[1]DN sux:gi[reed]N sux:dili[single]V/i sux:saŋ[head]N sux:sag[beat]V/t
-c.4.07.3,A hymn to Inana (Inana C),,13,sux:dum-dam[rumbling-noise]N sux:za[cvve]V/t sux:kilib[total]N sux:aʾur[armpit]N sux:dab[seize]V/t
+c.4.07.3,A hymn to Inana (Inana C),,13,sux:dumdam[sound]N sux:za[cvve]V/t sux:kilib[total]N sux:aʾur[armpit]N sux:dab[seize]V/t
 c.4.07.3,A hymn to Inana (Inana C),,14,sux:Inanak[1]DN sux:ane[he]IP sux:me[be]V/i sux:An[1]DN sux:gal[big]V/i sux:kaš[decision]N sux:bar[outside]V/t sux:Enlil[1]DN sux:nam[fate]N sux:tar[cut]V/t
 c.4.07.3,A hymn to Inana (Inana C),,15,sux:innin[lady]N sux:saŋ[head]N sux:il[raise]V/t sux:kur[mountain]N sux:dirig[float]V/i sux:aba[who?]QP sux:saŋ[head]N sux:ŋar[place]V/t
 c.4.07.3,A hymn to Inana (Inana C),,16,sux:ki[place]N sux:iri[city]N sux:dud[mound]N sux:e[house]N sux:lil[ghost]N sux:uzga[treasure]N sux:eria[wasteland]N sux:ŋal[be]V/i
@@ -50,7 +50,7 @@ c.4.07.3,A hymn to Inana (Inana C),,48,sux:nesaŋ[offering]N sux:uš[blood]N sux
 c.4.07.3,A hymn to Inana (Inana C),,49,sux:eden[back]N sux:daŋal[wide]V/i sux:sig[weak]V/i sux:ud[sun]N sux:zalag[shine]V/i sux:kukkug[dark]V/i sux:anbar[mid-day]N sux:mulsig[darkness]N sux:du[build]V/t
 c.4.07.3,A hymn to Inana (Inana C),,50,sux:lu[person]N sux:lu[person]N sux:igi[eye]N sux:suh[extract]V/t sux:inbir[conflict]N sux:igi[eye]N sux:du[spread]V/t
 c.4.07.3,A hymn to Inana (Inana C),,51,sux:gu[voice]N sux:ri[impose]V/t sux:eden[back]N sux:lu[mix]V/t sux:šagtum[land]N sux:šagsiga[wasteland?]N sux:ŋar[place]V/t
-c.4.07.3,A hymn to Inana (Inana C),,52,sux:šeg-gi[make-noise]V/t sux:gi[turn]V/i sux:Iškur[1]DN sux:su[flesh]N sux:kur[mountain]N sux:dub[tremble]V/t
+c.4.07.3,A hymn to Inana (Inana C),,52,sux:šeg[voice]N sux:gi[turn]V/i sux:Iškur[1]DN sux:su[flesh]N sux:kur[mountain]N sux:dub[tremble]V/t
 c.4.07.3,A hymn to Inana (Inana C),,53,sux:me[battle]N sux:ir[mighty]AJ sux:rah[beat]V/t sux:šu[hand]N sux:rugu[withstand]V/t sux:aba[who?]QP sux:sig[put]V/t
 c.4.07.3,A hymn to Inana (Inana C),,54,sux:šen[battle]N sux:ir[mighty]AJ sux:igi[eye]N sux:bar[outside]V/t sux:ŋešla[battle]N sux:sul[hasten]V/i
 c.4.07.3,A hymn to Inana (Inana C),,55,sux:a[water]N sux:ur[pluck]V/t sux:sumur[angry]V/i sux:ki[place]N sux:ur[pluck]V/t sux:niŋnam[anything]N sux:taka[abandon]V/t
@@ -76,7 +76,7 @@ c.4.07.3,A hymn to Inana (Inana C),,74,sux:inbir[conflict]N sux:tuku[acquire]V/t
 c.4.07.3,A hymn to Inana (Inana C),,75,sux:kisikil[woman]N sux:tur[small]V/i sux:emi[household]N sux:šu[hand]N sux:teŋ[approach]V/i sux:šag[heart]N sux:lala[plenty]N
 c.4.07.3,A hymn to Inana (Inana C),,76,sux:munus[woman]N sux:zag[side]N sux:tag[touch]V/t sux:hulu[bad]V/i sux:KA[KA]V
 c.4.07.3,A hymn to Inana (Inana C),,77,sux:kalam[land]N sux:gal[big]V/i sux:RU[RU]V
-c.4.07.3,A hymn to Inana (Inana C),,78,sux:tilla[street]N sux:šu[hand]N sux:šu-dag[roam-around]V/t
+c.4.07.3,A hymn to Inana (Inana C),,78,sux:tilla[street]N sux:šu[hand]N sux:dag[demolish]V/t
 c.4.07.3,A hymn to Inana (Inana C),,79,sux:zi.in.BU[unmng]N sux:e[house]N sux:dam[spouse]N sux:dumu[child]N sux:igi[eye]N sux:du[spread]V/t
 c.4.07.3,A hymn to Inana (Inana C),,80,sux:šerda[crime]N sux:gal[big]V/i sux:su[flesh]N sux:ŋar[place]V/t
 c.4.07.3,A hymn to Inana (Inana C),,81,sux:ugu[skull]N sux:kiri[nose]N sux:šu[hand]N sux:ŋal[be]V/i sux:ak[do]V/t sux:pilipili[performer]N sux:še[call]V/t
@@ -107,7 +107,7 @@ c.4.07.3,A hymn to Inana (Inana C),,105,sux:ur[dog]N sux:gal[big]V/i sux:7[7]NU 
 c.4.07.3,A hymn to Inana (Inana C),,106,sux:An[1]DN sux:gal[big]V/i sux:muš[space]N sux:ni[fear]N sux:teŋ[approach]V/i sux:kituš[dwelling]N sux:huluh[frightened]V/i
 c.4.07.3,A hymn to Inana (Inana C),,107,sux:kituš[dwelling]N sux:An[1]DN sux:gal[big]V/i sux:dur[buttocks]N sux:ŋar[place]V/t sux:su[flesh]N sux:zig[rise]V/t
 c.4.07.3,A hymn to Inana (Inana C),,108,sux:ŋarza[rites]N sux:mah[great]V/i sux:ŋarza[rites]N sux:gal[big]V/i sux:šu[hand]N sux:si[fill]V/t
-c.4.07.3,A hymn to Inana (Inana C),,109,sux:diŋir[deity]N sux:gal[big]V/i sux:kiri[nose]N sux:ki[place]N sux:sub[rub]V/t sux:šukin-dab[prostrate]V/t sux:dab[seize]V/t
+c.4.07.3,A hymn to Inana (Inana C),,109,sux:diŋir[deity]N sux:gal[big]V/i sux:kiri[nose]N sux:ki[place]N sux:sub[rub]V/t sux:šukin[prostration]N sux:dab[seize]V/t
 c.4.07.3,A hymn to Inana (Inana C),,110,sux:kur[mountain]N sux:un[high]V/i sux:kur[mountain]N sux:gug[carnelian]N sux:zagin[lapis]N sux:kiri[nose]N sux:ki[place]N sux:teŋ[approach]V/i
 c.4.07.3,A hymn to Inana (Inana C),,111,sux:Ebih[1]GN sux:kiri[nose]N sux:ki[place]N sux:teŋ[approach]V/i sux:šu[hand]N sux:mu[grow]V/t
 c.4.07.3,A hymn to Inana (Inana C),,112,sux:kurku[thunder]N sux:ib[angry]V/i sux:sil[split]V/i sux:ud[storm]N sux:rah[beat]V/t

@@ -1,6 +1,6 @@
 etcsl_no,text_name,version,l_no,text
 c.2.5.4.15,A tigi (?) to Ninurta for Išme-Dagan (Išme-Dagan O),A,A1,sux:ursaŋ[hero]N sux:gal[big]V/i sux:a[arm]N sux:gal[big]V/i sux:an[sky]N sux:ki[place]N
-c.2.5.4.15,A tigi (?) to Ninurta for Išme-Dagan (Išme-Dagan O),A,A2,sux:Ninurtak[1]DN sux:Ekur[1]TN sux:me[Being]N sux:50[50]NU sux:šu[hand]N sux:šu-du[complete]V/t
+c.2.5.4.15,A tigi (?) to Ninurta for Išme-Dagan (Išme-Dagan O),A,A2,sux:Ninurtak[1]DN sux:Ekur[1]TN sux:me[Being]N sux:50[50]NU sux:šu[hand]N sux:du[push]V/t
 c.2.5.4.15,A tigi (?) to Ninurta for Išme-Dagan (Išme-Dagan O),A,A3,sux:ensik[ruler]N sux:aya[father]N sux:ulu[wind]N sux:sumur[angry]V/i sux:zig[rise]V/t
 c.2.5.4.15,A tigi (?) to Ninurta for Išme-Dagan (Išme-Dagan O),A,A4,sux:kur[mountain]N sux:ni[self]RP sux:gid[long]V/i
 c.2.5.4.15,A tigi (?) to Ninurta for Išme-Dagan (Išme-Dagan O),A,A5,sux:gu[voice]N sux:nun[prince]N sux:dug[speak]V/t
@@ -18,13 +18,13 @@ c.2.5.4.15,A tigi (?) to Ninurta for Išme-Dagan (Išme-Dagan O),A,A16,sux:anun�
 c.2.5.4.15,A tigi (?) to Ninurta for Išme-Dagan (Išme-Dagan O),A,A17,sux:en[lord]N sux:dumu[child]N sux:Enlil[1]DN
 c.2.5.4.15,A tigi (?) to Ninurta for Išme-Dagan (Išme-Dagan O),A,A18,sux:hursaŋ[mountain]N sux:e[leave]V/i sux:me[Being]N sux:šar[3600]NU sux:u[ride]V/t
 c.2.5.4.15,A tigi (?) to Ninurta for Išme-Dagan (Išme-Dagan O),A,A19,sux:ursaŋ[hero]N sux:gal[big]V/i sux:ušum[snake]N sux:zag[side]N sux:dib[pass]V/t
-c.2.5.4.15,A tigi (?) to Ninurta for Išme-Dagan (Išme-Dagan O),A,A20,sux:namen[priesthood]N sux:šu[hand]N sux:šu-du[complete]V/t sux:ane[he]IP sux:sa[equal]V/t
+c.2.5.4.15,A tigi (?) to Ninurta for Išme-Dagan (Išme-Dagan O),A,A20,sux:namen[priesthood]N sux:šu[hand]N sux:du[push]V/t sux:ane[he]IP sux:sa[equal]V/t
 c.2.5.4.15,A tigi (?) to Ninurta for Išme-Dagan (Išme-Dagan O),A,A21,sux:ursaŋ[hero]N sux:gal[big]V/i sux:ne[strength]N sux:nirŋal[authoritative]AJ
 c.2.5.4.15,A tigi (?) to Ninurta for Išme-Dagan (Išme-Dagan O),A,A22,sux:iri[city]N
 c.2.5.4.15,A tigi (?) to Ninurta for Išme-Dagan (Išme-Dagan O),A,A23,sux:ešbar[decision]N sux:kam[alter]V/t
 c.2.5.4.15,A tigi (?) to Ninurta for Išme-Dagan (Išme-Dagan O),A,A24,sux:dug[speak]V/t sux:ki[place]N sux:ŋar[place]V/t
 c.2.5.4.15,A tigi (?) to Ninurta for Išme-Dagan (Išme-Dagan O),A,A25,sux:dumu[child]N sux:mah[great]V/i sux:Enlil[1]DN
-c.2.5.4.15,A tigi (?) to Ninurta for Išme-Dagan (Išme-Dagan O),A,A26,sux:kur[mountain]N sux:šu[hand]N sux:šu-šanšaša[search]V/t
+c.2.5.4.15,A tigi (?) to Ninurta for Išme-Dagan (Išme-Dagan O),A,A26,sux:kur[mountain]N sux:šu[hand]N sux:šanšaša[cvve]V/t
 c.2.5.4.15,A tigi (?) to Ninurta for Išme-Dagan (Išme-Dagan O),A,A27,sux:kur[mountain]N sux:gal[big]V/i sux:Enlil[1]DN sux:Ekur[1]TN sux:an[sky]N sux:ki[place]N sux:niŋdaŋala[vastness]N
 c.2.5.4.15,A tigi (?) to Ninurta for Išme-Dagan (Išme-Dagan O),A,A28,sux:mah[great]V/i sux:dul[cover]V/t
 c.2.5.4.15,A tigi (?) to Ninurta for Išme-Dagan (Išme-Dagan O),A,A29,sux:sumur[angry]V/i
@@ -39,7 +39,7 @@ c.2.5.4.15,A tigi (?) to Ninurta for Išme-Dagan (Išme-Dagan O),A,B7,sux:igi[ey
 c.2.5.4.15,A tigi (?) to Ninurta for Išme-Dagan (Išme-Dagan O),A,B8,sux:ŋešgiŋal[notation]N sux:sagida[notation]N
 c.2.5.4.15,A tigi (?) to Ninurta for Išme-Dagan (Išme-Dagan O),A,B9,sux:Utaulu[1]DN sux:ilim[radiance]N sux:u[ride]V/t
 c.2.5.4.15,A tigi (?) to Ninurta for Išme-Dagan (Išme-Dagan O),A,B10,sux:en[lord]N sux:gal[big]V/i sux:dirig[float]V/i
-c.2.5.4.15,A tigi (?) to Ninurta for Išme-Dagan (Išme-Dagan O),A,B11,sux:Ninurtak[1]DN sux:namnirŋal[authority]N sux:šu[hand]N sux:šu-du[complete]V/t
+c.2.5.4.15,A tigi (?) to Ninurta for Išme-Dagan (Išme-Dagan O),A,B11,sux:Ninurtak[1]DN sux:namnirŋal[authority]N sux:šu[hand]N sux:du[push]V/t
 c.2.5.4.15,A tigi (?) to Ninurta for Išme-Dagan (Išme-Dagan O),A,B12,sux:saŋ[head]N sux:en[cvne]N sux:tar[cut]V/t sux:an[sky]N sux:ki[place]N
 c.2.5.4.15,A tigi (?) to Ninurta for Išme-Dagan (Išme-Dagan O),A,B13,sux:en[lord]N sux:a[arm]N sux:šum[give]V/t sux:Nunamnir[1]DN
 c.2.5.4.15,A tigi (?) to Ninurta for Išme-Dagan (Išme-Dagan O),A,B14,sux:ne[strength]N sux:nirŋal[authoritative]AJ
@@ -102,13 +102,13 @@ c.2.5.4.15,A tigi (?) to Ninurta for Išme-Dagan (Išme-Dagan O),B,13,sux:en[lor
 c.2.5.4.15,A tigi (?) to Ninurta for Išme-Dagan (Išme-Dagan O),B,14,sux:Utaulu[1]DN sux:a[arm]N sux:mah[great]V/i
 c.2.5.4.15,A tigi (?) to Ninurta for Išme-Dagan (Išme-Dagan O),B,15,sux:hursaŋ[mountain]N sux:e[leave]V/i sux:me[Being]N sux:šar[3600]NU
 c.2.5.4.15,A tigi (?) to Ninurta for Išme-Dagan (Išme-Dagan O),B,16,sux:Ninurtak[1]DN
-c.2.5.4.15,A tigi (?) to Ninurta for Išme-Dagan (Išme-Dagan O),B,17,sux:namen[priesthood]N sux:šu[hand]N sux:šu-du[complete]V/t
+c.2.5.4.15,A tigi (?) to Ninurta for Išme-Dagan (Išme-Dagan O),B,17,sux:namen[priesthood]N sux:šu[hand]N sux:du[push]V/t
 c.2.5.4.15,A tigi (?) to Ninurta for Išme-Dagan (Išme-Dagan O),B,18,sux:ursaŋ[hero]N sux:gal[big]V/i sux:kur[mountain]N
-c.2.5.4.15,A tigi (?) to Ninurta for Išme-Dagan (Išme-Dagan O),B,19,sux:na[stone]N sux:sugzag-gu[destroy]V/t sux:teš[unity]N sux:gu[eat]V/t
+c.2.5.4.15,A tigi (?) to Ninurta for Išme-Dagan (Išme-Dagan O),B,19,sux:na[stone]N sux:sugzag[~marsh]N sux:teš[unity]N sux:gu[eat]V/t
 c.2.5.4.15,A tigi (?) to Ninurta for Išme-Dagan (Išme-Dagan O),B,20,sux:sa[advice]N sux:pad[find]V/t sux:ešbar[decision]N sux:kam[alter]V/t
 c.2.5.4.15,A tigi (?) to Ninurta for Išme-Dagan (Išme-Dagan O),B,21,sux:Ninurtak[1]DN sux:dug[speak]V/t sux:ki[place]N sux:ŋar[place]V/t
 c.2.5.4.15,A tigi (?) to Ninurta for Išme-Dagan (Išme-Dagan O),B,22,sux:ursaŋ[hero]N sux:en[lord]N sux:dumu[child]N sux:mah[great]V/i sux:Enlil[1]DN
-c.2.5.4.15,A tigi (?) to Ninurta for Išme-Dagan (Išme-Dagan O),B,23,sux:kur[mountain]N sux:šu[hand]N sux:šu-šanšaša[search]V/t
+c.2.5.4.15,A tigi (?) to Ninurta for Išme-Dagan (Išme-Dagan O),B,23,sux:kur[mountain]N sux:šu[hand]N sux:šanšaša[cvve]V/t
 c.2.5.4.15,A tigi (?) to Ninurta for Išme-Dagan (Išme-Dagan O),B,24,sux:Ninurtak[1]DN sux:mahdi[exalted]AJ sux:Ekur[1]TN
 c.2.5.4.15,A tigi (?) to Ninurta for Išme-Dagan (Išme-Dagan O),B,25,sux:ulu[wind]N sux:mah[great]V/i
 c.2.5.4.15,A tigi (?) to Ninurta for Išme-Dagan (Išme-Dagan O),B,26,sux:sumur[angry]V/i sux:kibala[rebel-land]N

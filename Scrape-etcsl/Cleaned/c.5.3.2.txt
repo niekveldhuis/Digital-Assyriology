@@ -85,7 +85,7 @@ c.5.3.2,The debate between Grain and Sheep,,83,sux:namusar[neighborliness]N sux:
 c.5.3.2,The debate between Grain and Sheep,,84,sux:usar[neighbor]N sux:dud[combat]N sux:mu[grow]V/t sux:bur[spread]V/t
 c.5.3.2,The debate between Grain and Sheep,,85,sux:ŋuruš[male]N sux:dab[seize]V/t sux:teŋ[approach]V/i
 c.5.3.2,The debate between Grain and Sheep,,86,sux:nam[fate]N sux:tar[cut]V/t sux:ba[allot]V/t
-c.5.3.2,The debate between Grain and Sheep,,87,sux:šag[heart]N sux:sag[beat]V/t sux:ŋeštug[ear]N sux:ŋeštug-ulu[forget]V/t
+c.5.3.2,The debate between Grain and Sheep,,87,sux:šag[heart]N sux:sag[beat]V/t sux:ŋeštug[ear]N sux:ulu[cvve]V/t
 c.5.3.2,The debate between Grain and Sheep,,88,sux:ŋeššu[manacles]N sux:ŋešgu[stock]N sux:du[spread]V/t
 c.5.3.2,The debate between Grain and Sheep,,89,sux:Ezinakusu[1]DN sux:dumu[child]N sux:Enlil[1]DN
 c.5.3.2,The debate between Grain and Sheep,,90,sux:ŋa[house]N sux:udu[sheep]N sux:eʾuburak[animal-pen]N sux:aneden[steppe]N sux:la[hang]V/t
@@ -107,12 +107,12 @@ c.5.3.2,The debate between Grain and Sheep,,105,sux:i[oil]N sux:dug[good]V/i sux
 c.5.3.2,The debate between Grain and Sheep,,106,sux:i[oil]N sux:ara[~oil]N sux:i[oil]N sux:dub[tremble]V/t sux:i[oil]N sux:šim[aromatics]N sux:i[oil]N sux:eren[cedar]N sux:sadug[offerings]N sux:ŋaʾe[I]IP
 c.5.3.2,The debate between Grain and Sheep,,107,sux:zulumhi[sheep]N sux:tug[textile]N sux:siki[hair]N sux:babbar[white]V/i
 c.5.3.2,The debate between Grain and Sheep,,108,sux:lugal[king]N sux:barag[sanctum]N sux:hul[rejoice]V/i
-c.5.3.2,The debate between Grain and Sheep,,109,sux:bar[outside]V/t sux:su[flesh]N sux:diŋir[deity]N sux:gal[big]V/i sux:mul-ma-al[type-of-noise]N sux:za[cvve]V/t
+c.5.3.2,The debate between Grain and Sheep,,109,sux:bar[outside]V/t sux:su[flesh]N sux:diŋir[deity]N sux:gal[big]V/i sux:mulmal[sound]N sux:za[cvve]V/t
 c.5.3.2,The debate between Grain and Sheep,,110,sux:gudug[priest]N sux:pašeš[priest]N sux:lu[person]N sux:a[water]N sux:tu[cvve]V/t
 c.5.3.2,The debate between Grain and Sheep,,111,sux:šuluh[cleansing]N sux:kug[pure]V/i sux:mur[dress]V/t
 c.5.3.2,The debate between Grain and Sheep,,112,sux:šukur[ration]N sux:kug[pure]V/i sux:ŋiri[foot]N sux:gub[stand]V/i
 c.5.3.2,The debate between Grain and Sheep,,113,sux:ŋušur[harrow]N sux:emeʾapinak[plowshare]N sux:dur[bond]N sux:absaŋ[strap]N
-c.5.3.2,The debate between Grain and Sheep,,114,sux:šukara[tool]N sux:sugzag-gu[destroy]V/t sux:gu[eat]V/t
+c.5.3.2,The debate between Grain and Sheep,,114,sux:šukara[tool]N sux:sugzag[~marsh]N sux:gu[eat]V/t
 c.5.3.2,The debate between Grain and Sheep,,115,sux:ana[what?]QP sux:ŋal[be]V/i sux:ana[what?]QP sux:dug[speak]V/t sux:gi[turn]V/i
 c.5.3.2,The debate between Grain and Sheep,,116,sux:2-kam-ma[2nd]NU sux:Ezina[1]DN sux:u[ewe]N sux:gi[turn]V/i
 c.5.3.2,The debate between Grain and Sheep,,117,sux:bappir[~beer]N sux:udun[kiln]N sux:mi[cvne]N sux:dug[speak]V/t
@@ -138,7 +138,7 @@ c.5.3.2,The debate between Grain and Sheep,,136,sux:zaʾe[you]IP sux:eʾuburak[a
 c.5.3.2,The debate between Grain and Sheep,,137,sux:tumu[wind]N sux:tur[small]V/i sux:iri[city]N sux:ŋen[go]V/i
 c.5.3.2,The debate between Grain and Sheep,,138,sux:tumu[wind]N sux:gal[big]V/i sux:sag[scatter]V/t sux:dug[speak]V/t
 c.5.3.2,The debate between Grain and Sheep,,139,sux:Iškur[1]DN sux:gaba[chest]N sux:ri[impose]V/t sux:gub[stand]V/i
-c.5.3.2,The debate between Grain and Sheep,,140,sux:Ezina[1]DN sux:ursaŋ[hero]N sux:utud[bear]V/t sux:ŋala-dag[cease]V/t sux:šu-dag[roam-around]V/t
+c.5.3.2,The debate between Grain and Sheep,,140,sux:Ezina[1]DN sux:ursaŋ[hero]N sux:utud[bear]V/t sux:ŋala[cvne]N sux:dag[demolish]V/t
 c.5.3.2,The debate between Grain and Sheep,,141,sux:šakir[churn]N sux:ŋiri₃.GA[vessel]N sux:gilsa[treasure]N sux:namsipad[shepherdship]N sux:niŋgur[property]N sux:gub[stand]V/i
 c.5.3.2,The debate between Grain and Sheep,,142,sux:ana[what?]QP sux:ŋal[be]V/i sux:ana[what?]QP sux:dug[speak]V/t sux:gi[turn]V/i
 c.5.3.2,The debate between Grain and Sheep,,143,sux:2-kam-ma[2nd]NU sux:u[ewe]N sux:Ezina[1]DN sux:gi[turn]V/i
@@ -181,7 +181,7 @@ c.5.3.2,The debate between Grain and Sheep,,179,sux:u[ewe]N sux:še[barley]N sux
 c.5.3.2,The debate between Grain and Sheep,,180,sux:ud[sun]N sux:Enki[1]DN sux:Enlil[1]DN sux:gu[voice]N sux:de[pour]V/t
 c.5.3.2,The debate between Grain and Sheep,,181,sux:aya[father]N sux:Enlil[1]DN sux:U[1]DN sux:Ezina[1]DN sux:nin[sister]N sux:me[be]V/i
 c.5.3.2,The debate between Grain and Sheep,,182,sux:teš[unity]N sux:gub[stand]V/i
-c.5.3.2,The debate between Grain and Sheep,,183,sux:kug[metal]N sux:3-kam-ma[3rd]NU sux:ŋala-dag[cease]V/t sux:šu-dag[roam-around]V/t
+c.5.3.2,The debate between Grain and Sheep,,183,sux:kug[metal]N sux:3-kam-ma[3rd]NU sux:ŋala[cvne]N sux:dag[demolish]V/t
 c.5.3.2,The debate between Grain and Sheep,,184,sux:2[2]NU sux:Ezina[1]DN sux:gal[big]V/i
 c.5.3.2,The debate between Grain and Sheep,,185,sux:Ezina[1]DN sux:dub[knee]N sux:ki[place]N sux:zaza[bow]V/i
 c.5.3.2,The debate between Grain and Sheep,,186,sux:ŋiri[foot]N sux:ne[cvne]N sux:sub[rub]V/t
