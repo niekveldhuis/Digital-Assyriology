@@ -1,4 +1,4 @@
-etcsl_no,text_name,version,l_no,text
+id_text,text_name,version,l_no,text
 c.4.14.1,A hymn to Nanše (Nanše A),,1,sux:iri[city]N sux:me[be]V/i sux:iri[city]N sux:me[be]V/i sux:me[Being]N sux:pad[find]V/t
 c.4.14.1,A hymn to Nanše (Nanše A),,2,sux:Niŋin[1]SN sux:iri[city]N sux:me[be]V/i sux:me[Being]N sux:pad[find]V/t
 c.4.14.1,A hymn to Nanše (Nanše A),,3,sux:iri[city]N sux:kug[pure]V/i sux:iri[city]N sux:me[be]V/i sux:me[Being]N sux:pad[find]V/t

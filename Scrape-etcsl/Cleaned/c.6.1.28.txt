@@ -1,4 +1,4 @@
-etcsl_no,text_name,version,l_no,text
+id_text,text_name,version,l_no,text
 c.6.1.28,Proverbs: collection 28,,A1,sux:tukul[weapon]N sux:mu[name]N sux:pad[find]V/t sux:su[flesh]N sux:pad[find]V/t
 c.6.1.28,Proverbs: collection 28,,A2,sux:iri[city]N sux:mu[name]N sux:kur[different]V/i sux:mu[name]N sux:gin[firm]V/i
 c.6.1.28,Proverbs: collection 28,,A3,sux:ninkilim[mongoose]N sux:ni[fear]N sux:diŋir[deity]N sux:zu[know]V/t

@@ -1,4 +1,4 @@
-etcsl_no,text_name,version,l_no,text
+id_text,text_name,version,l_no,text
 c.5.9.1,The home of the fish,,A1,sux:kud[fish]N sux:e[house]N sux:du[build]V/t sux:kud[fish]N sux:du[build]V/t
 c.5.9.1,The home of the fish,,A2,sux:kud[fish]N sux:e[house]N sux:du[build]V/t sux:arah[storehouse]N sux:du[build]V/t
 c.5.9.1,The home of the fish,,A3,sux:e[house]N sux:e[house]N sux:dirig[float]V/i sux:amaš[sheepfold]N sux:gid[long]V/i sux:du[build]V/t

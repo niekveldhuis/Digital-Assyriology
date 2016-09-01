@@ -1,0 +1,76 @@
+id_text,text_name,version,l_no,text
+c.4.07.a,A hymn to Inana,,1,sux:in-nin[mistress]N
+c.4.07.a,A hymn to Inana,,2,sux:šul[young-man]N sux:meš₃[hero]N sux:gi₄[to-return]V sux:Inana[1]DN sux:nin[lady]N
+c.4.07.a,A hymn to Inana,,3,sux:eš₃[shrine]N sux:Nibru[1]SN sux:E-du-kug[1]TN sux:dug₄[to-say]V sux:An[1]DN
+c.4.07.a,A hymn to Inana,,4,sux:men[diadem]N sux:kug[shining]AJ sux:An[1]DN sux:saŋ[head]N sux:ŋal₂[to-be-(located)]V
+c.4.07.a,A hymn to Inana,,5,sux:tug₂-ba₁₃[type-of-garment]N sux:kug[shining]AJ sux:An[1]DN sux:šag₄[heart]N sux:la₂[to-hang]V
+c.4.07.a,A hymn to Inana,,6,sux:ŋidru[sceptre]N sux:kug[shining]AJ sux:An[1]DN sux:šu[hand]N sux:ŋal₂[to-be-(located)]V
+c.4.07.a,A hymn to Inana,,7,sux:unken[assembly]N sux:tuš[to-sit]V sux:dur₂[rump]N sux:ŋar[to-place]V
+c.4.07.a,A hymn to Inana,,8,sux:di[(law)suit]N sux:gal[to-be-big]V sux:kur[(mountain)-land]N sux:kud[to-cut]V
+c.4.07.a,A hymn to Inana,,9,sux:ka-aš[decision]N sux:mah[to-be-majestic]V sux:kur[(mountain)-land]N sux:bad[to-open]V
+c.4.07.a,A hymn to Inana,,10,sux:nu₁₁[light]N sux:an[heaven]N sux:kar₂[to-blow]V sux:kug[shining]AJ sux:Inana[1]DN sux:igi[eye]N sux:ŋal₂[to-be-(located)]V
+c.4.07.a,A hymn to Inana,,11,sux:Urim[1]SN sux:E-kiš-nu-ŋal[1]TN
+c.4.07.a,A hymn to Inana,,12,sux:nu-u₈-gig[high-status-woman]N sux:a-a[father]N sux:Suen[1]DN
+c.4.07.a,A hymn to Inana,,13,sux:inim[word]N sux:dug₄[to-say]V
+c.4.07.a,A hymn to Inana,,14,sux:he₂-ŋal₂[plenty]N sux:kur[(mountain)-land]N sux:šu[hand]N sux:la₂[to-hang]V
+c.4.07.a,A hymn to Inana,,15,sux:nin₉[sister]N sux:gi-ri₂-in[cornelian]N sux:sikil[to-be-pure]V
+c.4.07.a,A hymn to Inana,,16,sux:kug[shining]AJ sux:Inana[1]DN sux:ki[place]N sux:kur₂[to-be-different]V
+c.4.07.a,A hymn to Inana,,17,sux:e₂[house(hold)]N sux-x-emesal:ga-ša-an[lady]N sux:šum₂[to-give]V sux:hi-li[attractiveness]N sux:du₈[to-spread]V
+c.4.07.a,A hymn to Inana,,18,sux:alan[statue]N sux:ki[place]N sux:gub[to-stand]V
+c.4.07.a,A hymn to Inana,,19,sux:a-ŋi₆[flooding]N sux:me[essence]N
+c.4.07.a,A hymn to Inana,,20,
+c.4.07.a,A hymn to Inana,,21,sux:a-ŋi₆[flooding]N sux:ur₃[roof]N
+c.4.07.a,A hymn to Inana,,22,sux:šu[hand]N sux:du₈[to-spread]V sux:hi-li[attractiveness]N sux:gal[to-be-big]V
+c.4.07.a,A hymn to Inana,,23,sux:gen₆[to-be-firm]V sux:šudu₃[prayer]N sux:zig₃[to-rise]V
+c.4.07.a,A hymn to Inana,,24,sux:gi-ri₂-in[cornelian]N sux:duru₅[to-be-wet]V sux:hur-saŋ[mountain-(range)]N sux:u₆[wonder]N sux:dug₄[to-say]V sux:gub[to-stand]V
+c.4.07.a,A hymn to Inana,,25,sux:za-gin₃[lapis-lazuli]N sux:duru₅[to-be-wet]V sux:kur[(mountain)-land]N sux:šuba[shining]AJ sux:gi-dirig[type-of-raft]N sux:igi[eye]N sux:saŋ₅[to-choose]V sux:la₂[to-hang]V
+c.4.07.a,A hymn to Inana,,26,sux:kug-sig₁₇[gold]N sux:Harali[1]GN sux:izi[fire]N sux:tab₂[to-burn]V
+c.4.07.a,A hymn to Inana,,27,sux:hašhur[apple-(tree)]N sux:gal[to-be-big]V sux:ŋal₂[to-be-(located)]V
+c.4.07.a,A hymn to Inana,,28,sux:al[desire]N sux:dug₄[to-say]V
+c.4.07.a,A hymn to Inana,,29,sux:zu₂-lum[date]N sux:a₂-an-sur[spadix]N sux:hi-li[attractiveness]N sux:guru₃[to-bear]V
+c.4.07.a,A hymn to Inana,,30,sux:dag[residence]N sux:til₃[to-live]V
+c.4.07.a,A hymn to Inana,,31,sux:dag[residence]N sux:An[1]DN sux:til₃[to-live]V
+c.4.07.a,A hymn to Inana,,32,sux-x-emesal:mu-ud-na[spouse]N sux:Ušumgal-ana[1]DN
+c.4.07.a,A hymn to Inana,,33,sux-x-emesal:me[I]PD sux:nam-dam[matrimony]N sux:pad₃[to-find]V
+c.4.07.a,A hymn to Inana,,34,sux:Bad-tibira[1]SN sux:E-muš-kalama[1]TN
+c.4.07.a,A hymn to Inana,,35,sux:aga[crown]N
+c.4.07.a,A hymn to Inana,,39,sux:pa₅[canal]N sux:ŋal₂[to-open]V sux:taka₄[to-leave-behind]V
+c.4.07.a,A hymn to Inana,,40,sux:a₂[arm]N sux:zig₃[to-rise]V sux:nin₉[sister]N sux-x-emesal:ga[to-carry]V
+c.4.07.a,A hymn to Inana,,41,sux:a-a[father]N sux:gu₂[neck]N sux:gal[to-be-big]V sux:ur₄[to-collect]V
+c.4.07.a,A hymn to Inana,,42,sux:unken[assembly]N sux:nun[prince]N
+c.4.07.a,A hymn to Inana,,43,sux:šeš[brother]N sux:Ušumgal-ana[1]DN
+c.4.07.a,A hymn to Inana,,44,sux:eš₃[shrine]N sux:kug[shining]AJ sux-x-emesal:ga[to-carry]V
+c.4.07.a,A hymn to Inana,,45,sux:gub[to-stand]V
+c.4.07.a,A hymn to Inana,,46,sux:hi-li[attractiveness]N sux:Dumuzid[1]DN sux:ildag₂[poplar]N sux:gub[to-stand]V
+c.4.07.a,A hymn to Inana,,47,sux:šag₄[heart]N sux:hi-li[attractiveness]N sux:si[to-fill]V
+c.4.07.a,A hymn to Inana,,48,sux:u₂[plant]N sux:lu[to-be-abundant]V sux:Du-šuba[1]GN
+c.4.07.a,A hymn to Inana,,49,sux:šag₄[heart]N sux:hi-li[attractiveness]N sux:si[to-fill]V sux:an[heaven]N sux:ki[place]N
+c.4.07.a,A hymn to Inana,,50,sux:e₂[house(hold)]N sux:Arali[1]GN
+c.4.07.a,A hymn to Inana,,51,sux:šag₄[heart]N sux:zal[to-pass]V
+c.4.07.a,A hymn to Inana,,52,sux:ur₃-bad₃[rooftop]N sux:še[to-agree]V sux:gu-u₂-gu-u₂[meaning-unknown]V
+c.4.07.a,A hymn to Inana,,53,sux:sila[street]N sux:ŋi₆[night]N sux:bur₂[to-release]V sux:dub[to-heap-up]V
+c.4.07.a,A hymn to Inana,,54,sux:e₂[house(hold)]N sux:sila[street]N sux:daŋal[to-be-wide]V sux:tur[to-be-small]V
+c.4.07.a,A hymn to Inana,,55,sux:en[lord]N sux:saŋ[head]N sux:dug₄[to-say]V
+c.4.07.a,A hymn to Inana,,66,sux:kur[(mountain)-land]N sux:šuba[shining]AJ
+c.4.07.a,A hymn to Inana,,67,sux:sun₄[beard]N sux:mušen[bird]N
+c.4.07.a,A hymn to Inana,,68,sux:tir[forest]N sux:meš₃[type-of-tree]N sux:kalam[the-Land]N sux:meš₃[type-of-tree]N sux:kur[(mountain)-land]N
+c.4.07.a,A hymn to Inana,,72,sux:gub[to-stand]V sux:e₂[house(hold)]N
+c.4.07.a,A hymn to Inana,,74,sux:Anuna[1]DN
+c.4.07.a,A hymn to Inana,,75,sux:saŋ-ur-saŋ[type-of-cult-performer]N sux:galam[to-be-skilful]V
+c.4.07.a,A hymn to Inana,,76,sux:gu[(flax)-thread]N
+c.4.07.a,A hymn to Inana,,78,sux:Iri-gal[1]TN sux:hul₂[to-be-happy]V
+c.4.07.a,A hymn to Inana,,79,sux:a-ra₂[way]N sux:ŋiš[tree]N sux:ŋišnimbar[date-palm]N
+c.4.07.a,A hymn to Inana,,80,sux:ur₂[root]N sux:šem-bi[kohl]N sux:DU[DU]V
+c.4.07.a,A hymn to Inana,,81,sux:me[essence]N sux:abzu[underground-water]N
+c.4.07.a,A hymn to Inana,,107,sux:dug₄[to-say]V
+c.4.07.a,A hymn to Inana,,111,sux:ŋar[to-place]V sux:tag[to-touch]V
+c.4.07.a,A hymn to Inana,,112,sux:DU[DU]V
+c.4.07.a,A hymn to Inana,,113,sux:nun[prince]N
+c.4.07.a,A hymn to Inana,,114,sux:a₂[arm]N
+c.4.07.a,A hymn to Inana,,115,
+c.4.07.a,A hymn to Inana,,117,sux:saŋ[head]N sux:kur₉[to-enter]V
+c.4.07.a,A hymn to Inana,,118,sux:igi[eye]N sux:bar[to-set-aside]V sux:dug₄[to-say]V
+c.4.07.a,A hymn to Inana,,119,sux:bar[outside]N
+c.4.07.a,A hymn to Inana,,120,
+c.4.07.a,A hymn to Inana,,122,sux:kug[shining]AJ sux:Inana[1]DN sux:mah[to-be-majestic]V
+c.4.07.a,A hymn to Inana,,123,sux:Inana[1]DN sux:za₃-mi₂[praise]N

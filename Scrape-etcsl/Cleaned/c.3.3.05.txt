@@ -1,4 +1,4 @@
-etcsl_no,text_name,version,l_no,text
+id_text,text_name,version,l_no,text
 c.3.3.05,Letter from a governor and temple administrator to a king,Nibru,1,sux:lugal[king]N sux:dug[speak]V/t
 c.3.3.05,Letter from a governor and temple administrator to a king,Nibru,2,sux:ensik[ruler]N sux:saŋŋa[official]N sux:dug[speak]V/t
 c.3.3.05,Letter from a governor and temple administrator to a king,Nibru,3,sux:ašag[field]N sux:Dabta[1]ON sux:šar[3600]NU

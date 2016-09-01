@@ -1,4 +1,4 @@
-etcsl_no,text_name,version,l_no,text
+id_text,text_name,version,l_no,text
 c.5.7.3,An axe for Nergal,,1,sux:Nibrutalu[1]PN
 c.5.7.3,An axe for Nergal,,2,sux:dumu[child]N sux:Lugalšuba[1]PN sux:damgar[merchant]N
 c.5.7.3,An axe for Nergal,,3,sux:Nergal[1]DN

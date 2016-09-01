@@ -1,4 +1,4 @@
-etcsl_no,text_name,version,l_no,text
+id_text,text_name,version,l_no,text
 c.1.1.1,Enki and Ninhursaŋa,,1,sux:iri[city]N sux:kug[pure]V/i sux:ane[he]IP sux:ba[allot]V/t sux:kur[mountain]N sux:Dilmun[1]GN sux:kug[pure]V/i
 c.1.1.1,Enki and Ninhursaŋa,,2,sux:Kiengir[1]GN sux:kug[pure]V/i sux:ane[he]IP sux:ba[allot]V/t sux:kur[mountain]N sux:Dilmun[1]GN sux:kug[pure]V/i
 c.1.1.1,Enki and Ninhursaŋa,,3,sux:kur[mountain]N sux:Dilmun[1]GN sux:kug[pure]V/i sux:kur[mountain]N sux:Dilmun[1]GN sux:sikil[pure]V/i

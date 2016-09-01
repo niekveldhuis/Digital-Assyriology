@@ -1,4 +1,4 @@
-etcsl_no,text_name,version,l_no,text
+id_text,text_name,version,l_no,text
 c.0.1.1,Ur III catalogue from Nibru (N1),,1,sux:dubsaŋ[first]AJ
 c.0.1.1,Ur III catalogue from Nibru (N1),,2,sux:Enki[1]DN sux:unu[dwelling]N sux:gal[big]V/i sux:ed[ascend]V/i
 c.0.1.1,Ur III catalogue from Nibru (N1),,3,sux:anzag[horizon]N

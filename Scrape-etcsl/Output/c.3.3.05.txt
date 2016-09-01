@@ -1,0 +1,30 @@
+id_text,text_name,version,l_no,text
+c.3.3.05,Letter from a governor and temple administrator to a king,Nibru,1,sux:lugal[king]N sux:dug₄[to-say]V
+c.3.3.05,Letter from a governor and temple administrator to a king,Nibru,2,sux:ensi₂[(city)-ruler]N sux:saŋŋa[temple-administrator]N sux:dug₄[to-say]V
+c.3.3.05,Letter from a governor and temple administrator to a king,Nibru,3,sux:a-šag₄[field]N sux:Dabta[1]ON sux:šar₂[area-measure]N
+c.3.3.05,Letter from a governor and temple administrator to a king,Nibru,4,sux:eš₂-gar₃[work-assignment]N sux:Enlil[1]DN sux:Ninlil[1]DN sux:u₃[and]C sux:Ninurta[1]DN
+c.3.3.05,Letter from a governor and temple administrator to a king,Nibru,5,sux:šag₄[heart]N sux:bur₃[area-measure]N sux:BUR₃gunû[area-measure]N sux:šukur₂[ration]N sux:lu₂[person]N sux:niŋ₂-dab₅[requisitioned-item]N
+c.3.3.05,Letter from a governor and temple administrator to a king,Nibru,6,sux:bur₃[area-measure]N sux:sa-dur₂[bottom]N sux:a-šag₄[field]N
+c.3.3.05,Letter from a governor and temple administrator to a king,Nibru,7,sux:Iqbisum[1]PN sux:u₃[and]C sux:Abī-qātī[1]PN sux:inim[word]N sux:ŋar[to-place]V
+c.3.3.05,Letter from a governor and temple administrator to a king,Nibru,8,sux:tukum-bi[if]C sux:lugal[king]N sux:an-na[approval]N
+c.3.3.05,Letter from a governor and temple administrator to a king,Nibru,9,sux:ra-gaba[rider]N sux:gi₄[to-return]V
+c.3.3.05,Letter from a governor and temple administrator to a king,Nibru,10,sux:kiŋ₂[work]N sux:ak[to-do]V sux:bulug[sharp-object]N sux:a-šag₄[field]N sux:inim[word]N sux:dug₄[to-say]V sux:X[X]V
+c.3.3.05,Letter from a governor and temple administrator to a king,Nibru,11,sux:2[2]NU sux:iku[area-measure]N sux:bur₃[area-measure]N sux:eše₃[area-measure]N sux:gaba[chest]N sux:a-šag₄[field]N
+c.3.3.05,Letter from a governor and temple administrator to a king,Nibru,12,sux:al[hoe]N sux:dub₂[to-tremble]V sux:kiŋ₂[work]N sux:ak[to-do]V
+c.3.3.05,Letter from a governor and temple administrator to a king,Nibru,13,sux:erin₂[group-of-people]N sux:tah-hu-um[addition]N sux:engar[farmer]N sux:šag₄-gud[ox-driver]N sux:lu₂[person]N sux:apin[plough]N sux:me[to-be]V
+c.3.3.05,Letter from a governor and temple administrator to a king,Nibru,14,sux:gud[bull]N sux:dili[single]AJ sux:a-šag₄[field]N sux:ŋiš[tree]N sux:ur₃[to-drag]V
+c.3.3.05,Letter from a governor and temple administrator to a king,Nibru,15,sux:al[hoe]N sux:ak[to-do]V sux:lugal[king]N sux:zu[to-know]V
+c.3.3.05,Letter from a governor and temple administrator to a king,Urim,1,sux:a-šag₄[field]N sux:Meam[1]ON sux:šar₂[area-measure]N
+c.3.3.05,Letter from a governor and temple administrator to a king,Urim,2,sux:eš₂-gar₃[work-assignment]N sux:Enlil[1]DN sux:u₃[and]C sux:Ninurta[1]DN
+c.3.3.05,Letter from a governor and temple administrator to a king,Urim,3,sux:šag₄[heart]N sux:BUR₃gunû[area-measure]N
+c.3.3.05,Letter from a governor and temple administrator to a king,Urim,4,sux:šukur₂[ration]N sux:lu₂[person]N sux:niŋ₂-dab₅[requisitioned-item]N
+c.3.3.05,Letter from a governor and temple administrator to a king,Urim,5,sux:sahar[earth]N sux:2[2]NU sux:iku[area-measure]N sux:me[to-be]V
+c.3.3.05,Letter from a governor and temple administrator to a king,Urim,6,sux:al[hoe]N sux:dub₂[to-tremble]V sux:erin₂[group-of-people]N sux:X[X]V
+c.3.3.05,Letter from a governor and temple administrator to a king,Urim,7,sux:kiŋ₂[work]N sux:sar[area-measure]N sux:a-šag₄[field]N sux:lu₂[person]N sux:apin[plough]N sux:me[to-be]V
+c.3.3.05,Letter from a governor and temple administrator to a king,Urim,8,sux:Iqbisum[1]PN sux:u₃[and]C sux:Abī-qātī[1]PN
+c.3.3.05,Letter from a governor and temple administrator to a king,Urim,9,sux:inim[word]N sux:ŋar[to-place]V
+c.3.3.05,Letter from a governor and temple administrator to a king,Urim,10,sux:tukum-bi[if]C sux:lugal[king]N
+c.3.3.05,Letter from a governor and temple administrator to a king,Urim,11,sux:an-na[approval]N
+c.3.3.05,Letter from a governor and temple administrator to a king,Urim,12,sux:ra-gaba[rider]N sux:gi₄[to-return]V
+c.3.3.05,Letter from a governor and temple administrator to a king,Urim,13,sux:kiŋ₂[work]N sux:ak[to-do]V sux:bulug[sharp-object]N sux:a-šag₄[field]N
+c.3.3.05,Letter from a governor and temple administrator to a king,Urim,14,sux:inim[word]N sux:dug₄[to-say]V sux:X[X]V

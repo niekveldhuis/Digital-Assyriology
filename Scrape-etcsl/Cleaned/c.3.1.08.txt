@@ -1,4 +1,4 @@
-etcsl_no,text_name,version,l_no,text
+id_text,text_name,version,l_no,text
 c.3.1.08,Letter from Šulgi to Puzur-Šulgi about the fortress Igi-hursaŋa,A,A1,sux:Puzuršulgi[1]PN sux:šakkanak[general]N
 c.3.1.08,Letter from Šulgi to Puzur-Šulgi about the fortress Igi-hursaŋa,A,A2,sux:dug[speak]V/t
 c.3.1.08,Letter from Šulgi to Puzur-Šulgi about the fortress Igi-hursaŋa,A,A3,sux:Šulgir[1]RN sux:lugal[king]N sux:dug[speak]V/t

@@ -1,0 +1,62 @@
+id_text,text_name,version,l_no,text
+c.1.7.7,The šumunda grass,,1,sux:ab-ba[father]N sux:na[advice]N sux:de₅[to-collect]V sux:ab-ba[father]N sux:na[advice]N sux:de₅[to-collect]V
+c.1.7.7,The šumunda grass,,2,sux:im[rain(storm)]N sux:šeŋ₃[to-rain]V sux:e₂-ŋar₈[wall]N sux:gul[to-destroy]V
+c.1.7.7,The šumunda grass,,3,sux:šika[(pot)sherd]N sux:bar₇[to-burn]V sux:šeŋ₃[to-rain]V
+c.1.7.7,The šumunda grass,,4,sux:lu₂[person]N sux:lu₂[person]N sux:gi₄[to-return]V sux:gaba[chest]N sux:ri[to-direct]V
+c.1.7.7,The šumunda grass,,5,sux-x-emesal:mu[penis]N sux:dug₄[to-say]V sux:dug₄[to-say]V
+c.1.7.7,The šumunda grass,,6,sux-x-emesal:še[noun-part-of-multiword-verb]N sux:su-ub[to-rub]V sux:su-ub[to-rub]V
+c.1.7.7,The šumunda grass,,7,sux:ud[day(light)]N sux:im[rain(storm)]N sux:ŋe₂₆[I]PD sux:šeŋ₃[to-rain]V sux:dug₄[to-say]V
+c.1.7.7,The šumunda grass,,8,sux:ud[day(light)]N sux:e₂-ŋar₈[wall]N sux:ŋe₂₆[I]PD sux:gul[to-destroy]V sux:dug₄[to-say]V
+c.1.7.7,The šumunda grass,,9,sux:ud[day(light)]N sux:a-ma-ru[flood]N sux:ŋe₂₆[I]PD sux:ur₃[to-drag]V sux:dug₄[to-say]V
+c.1.7.7,The šumunda grass,,10,sux:an[heaven]N sux:dug₄[to-say]V sux:ki[place]N sux:tud[to-give-birth]V
+c.1.7.7,The šumunda grass,,11,sux:šumunda[type-of-plant]N sux:tud[to-give-birth]V
+c.1.7.7,The šumunda grass,,12,sux:ki[place]N sux:tud[to-give-birth]V sux:an[heaven]N sux:dug₄[to-say]V
+c.1.7.7,The šumunda grass,,13,sux:šumunda[type-of-plant]N sux:tud[to-give-birth]V
+c.1.7.7,The šumunda grass,,14,sux:gi[reed]N sux:lum[to-thrive]V sux:izi[fire]N sux:la₂[to-hang]V
+c.1.7.7,The šumunda grass,,15,sux:ri[to-direct]V sux:gaba[chest]N sux:ri[to-direct]V
+c.1.7.7,The šumunda grass,,16,sux:um-ma[experienced-woman]N sux:ud[day(light)]N sux:taka₄[to-leave-behind]V
+c.1.7.7,The šumunda grass,,17,sux:ab-ba[father]N sux:ud[day(light)]N sux:taka₄[to-leave-behind]V
+c.1.7.7,The šumunda grass,,18,sux:gala-mah[chief-lament-singer]N sux:mu[year]N sux:taka₄[to-leave-behind]V
+c.1.7.7,The šumunda grass,,19,sux-x-emesal:mu-lu[person]N sux:a-ma-ru[flood]N sux:taka₄[to-leave-behind]V
+c.1.7.7,The šumunda grass,,20,sux:šumunda[type-of-plant]N sux:kiŋ₂-gi₄-a[messenger]N sux:gaz[to-strike-(dead)]V
+c.1.7.7,The šumunda grass,,21,sux:kiŋ₂-gi₄-a[messenger]N sux:gaz[to-strike-(dead)]V sux:sahar-tu₁₁[debris]N sux:tuš[to-sit]V
+c.1.7.7,The šumunda grass,,22,sux:šumunda[type-of-plant]N sux:izi[fire]N sux:la₂[to-hang]V sux:dug₄[to-say]V sux:u₂-du₃[bundle]N sux:dug₄[to-say]V
+c.1.7.7,The šumunda grass,,23,sux:u₂[plant]N sux:dub₂[to-tremble]V sux:u₂[plant]N sux:bur₂[to-release]V
+c.1.7.7,The šumunda grass,,24,sux:u₂[plant]N sux:bur₂[to-release]V sux-x-emesal:ma[house(hold)]N sux:du₃[to-erect]V
+c.1.7.7,The šumunda grass,,25,sux:tukum[soon?]AV sux:gub[to-stand]V sux:tukum[soon?]AV sux:nu₂[to-lie-down]V
+c.1.7.7,The šumunda grass,,26,sux:izi[fire]N sux:šum₂[to-give]V sux:daŋal[to-be-wide]V sux:ŋen[to-go]V
+c.1.7.7,The šumunda grass,,27,sux:šumunda[type-of-plant]N sux:ki-gub[location]N sux:a[water]N sux:sis[to-be-bitter]V
+c.1.7.7,The šumunda grass,,28,sux:izi[fire]N sux:ŋar[to-place]V sux:ŋar[to-place]V sux:du₇[to-push]V
+c.1.7.7,The šumunda grass,,29,sux:ur₂[root]N sux:E-ana[1]TN sux:izi[fire]N sux:ri[to-direct]V
+c.1.7.7,The šumunda grass,,30,sux:šu[hand]N sux:du₃[to-erect]V sux:šu[hand]N sux:la₂[to-hang]V
+c.1.7.7,The šumunda grass,,31,sux:inim[word]N sux:ka[mouth]N sux:ŋal₂[to-be-(located)]V
+c.1.7.7,The šumunda grass,,32,sux-x-emesal:Inana[1]DN sux:uga[raven]N sux:dab₅[to-seize]V sux:ugu[skull]N sux:gub[to-stand]V
+c.1.7.7,The šumunda grass,,33,sux:sipad[shepherd]N sux-x-emesal:e-ze₂[sheep]N sux-x-emesal:ma[house(hold)]N sux:šub[to-fall]V
+c.1.7.7,The šumunda grass,,34,sux-x-emesal:Inana[1]DN sux:uga[raven]N sux:dab₅[to-seize]V
+c.1.7.7,The šumunda grass,,35,sux:im[rain(storm)]N sux:šeŋ₃[to-rain]V sux:e₂-ŋar₈[wall]N sux:gul[to-destroy]V
+c.1.7.7,The šumunda grass,,36,sux:šika[(pot)sherd]N sux:bar₇[to-burn]V sux:šeŋ₃[to-rain]V
+c.1.7.7,The šumunda grass,,37,sux:Dumuzid[1]DN sux:gaba[chest]N sux:ri[to-direct]V
+c.1.7.7,The šumunda grass,,38,sux:im[rain(storm)]N sux:šeŋ₃[to-rain]V sux:e₂-ŋar₈[wall]N sux:gul[to-destroy]V
+c.1.7.7,The šumunda grass,,39,sux:tur₃[animal-stall]N sux:gul[to-destroy]V sux:amaš[sheepfold]N sux:bur₁₂[to-tear-out]V
+c.1.7.7,The šumunda grass,,40,sux:id₂[watercourse]N sux:a-ŋi₆[flooding]N sux:hul[to-be-bad]V sux:šub[to-fall]V
+c.1.7.7,The šumunda grass,,41,sux:ambar[marsh]N sux:im-hul[destructive-storm]N sux:šub[to-fall]V
+c.1.7.7,The šumunda grass,,42,sux-x-emesal:na-aŋ₂[destiny]N sux:Tigris[1]WN sux:Euphrates[1]WN
+c.1.7.7,The šumunda grass,,43,sux:Tigris[1]WN sux:Euphrates[1]WN sux:u₂[plant]N sux:gid₂[to-be-long]V sux:mu₂[to-grow]V
+c.1.7.7,The šumunda grass,,44,sux:u₂[plant]N sux:gid₂[to-be-long]V sux:aŋ₂[to-measure]V sux:zu[to-know]V
+c.1.7.7,The šumunda grass,,50,sux:u₂-du₃[bundle]N sux:dug₄[to-say]V sux:u₂[plant]N sux:dub₂[to-tremble]V
+c.1.7.7,The šumunda grass,,51,sux:šumunda[type-of-plant]N sux:izi[fire]N sux:la₂[to-hang]V
+c.1.7.7,The šumunda grass,,52,sux:šumunda[type-of-plant]N sux:izi[fire]N sux:la₂[to-hang]V sux:du₃[to-erect]V
+c.1.7.7,The šumunda grass,,53,sux:izi[fire]N sux:la₂[to-hang]V sux:du₃[to-erect]V sux:en₃[noun-part-of-multiword-verb]N sux:tar[to-cut]V
+c.1.7.7,The šumunda grass,,54,sux-x-emesal:Inana[1]DN sux:azlag₂[fuller]N sux:tug₂[garment]N sux:dan₃[to-be-clean]V
+c.1.7.7,The šumunda grass,,55,sux-x-emesal:Inana[1]DN sux:nagar[carpenter]N sux:bal[spindle]N sux:šu[hand]N sux:dab₅[to-seize]V
+c.1.7.7,The šumunda grass,,56,sux-x-emesal:Inana[1]DN sux:bahar₂[potter]N sux:sila₃[capacity-measure-(container)]N sux:kir₃-kir₃[to-nip-off]V
+c.1.7.7,The šumunda grass,,57,sux:bahar₂[potter]N sux:utul₂[tureen]N sux:kug[shining]AJ sux:šum₂[to-give]V sux:sipad[shepherd]N sux-x-emesal:e-ze₂[sheep]N sux-x-emesal:ga[to-carry]V
+c.1.7.7,The šumunda grass,,58,sux:sipad[shepherd]N sux-x-emesal:e-ze₂[sheep]N sux-x-emesal:ga[to-carry]V sux:en₃[noun-part-of-multiword-verb]N sux:tar[to-cut]V
+c.1.7.7,The šumunda grass,,59,sux:u₂[plant]N sux:giri₁₇-zal[joy]N sux:u₂[plant]N sux:giri₁₇-zal[joy]N sux:buru₁₄[harvest-(time)]N sux-x-emesal:ga[to-carry]V
+c.1.7.7,The šumunda grass,,60,sux:gu₃[voice]N sux:an[heaven]N sux:te[to-approach]V sux:gu₃[voice]N sux:ki[place]N sux:te[to-approach]V
+c.1.7.7,The šumunda grass,,61,sux:gu₃[voice]N sux:šu[hand]N sux:niŋin₂[to-go-around]V sux:an-ur₂[horizon]N sux:tug₂[garment]N sux:dul[to-cover-(together)]V sux:gada[linen-(fibre)]N sux:bur₂[to-release]V
+c.1.7.7,The šumunda grass,,62,sux:saŋ-du[head]N sux:šumunda[type-of-plant]N sux:ulu₃[south-wind-(storm)]N sux:šub[to-fall]V
+c.1.7.7,The šumunda grass,,63,sux:šumunda[type-of-plant]N sux:mu[name]N
+c.1.7.7,The šumunda grass,,64,sux:u₂[plant]N sux:me[to-be]V
+c.1.7.7,The šumunda grass,,65,sux:u₂[plant]N sux:hul[to-be-bad]V sux:gig[to-be-ill]V sux:me[to-be]V
+c.1.7.7,The šumunda grass,,66,sux:mu[name]N

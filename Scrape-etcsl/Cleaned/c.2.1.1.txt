@@ -1,4 +1,4 @@
-etcsl_no,text_name,version,l_no,text
+id_text,text_name,version,l_no,text
 c.2.1.1,The Sumerian king list,,1,sux:namlugal[kingship]N sux:an[sky]N sux:ed[ascend]V/i
 c.2.1.1,The Sumerian king list,,2,sux:Eridug[1]SN sux:namlugal[kingship]N
 c.2.1.1,The Sumerian king list,,3,sux:Eridug[1]SN sux:Alulim[1]RN sux:lugal[king]N

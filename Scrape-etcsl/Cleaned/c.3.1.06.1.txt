@@ -1,4 +1,4 @@
-etcsl_no,text_name,version,l_no,text
+id_text,text_name,version,l_no,text
 c.3.1.06.1,Letter from Šulgi to Aradŋu about Aba-indasa's letter,A,1,sux:Aradŋu[1]PN sux:dug[speak]V/t
 c.3.1.06.1,Letter from Šulgi to Aradŋu about Aba-indasa's letter,A,2,sux:Šulgir[1]RN sux:lugal[king]N sux:dug[speak]V/t
 c.3.1.06.1,Letter from Šulgi to Aradŋu about Aba-indasa's letter,A,3,sux:ud[sun]N sux:Abaindasa[1]PN sux:ugula[overseer]N sux:erin[people]N sux:zu[tooth]N sux:kešed[bind]V/t

@@ -1,4 +1,4 @@
-etcsl_no,text_name,version,l_no,text
+id_text,text_name,version,l_no,text
 c.3.1.20,Letter from Ibbi-Suen to Puzur-Šulgi hoping for Išbi-Erra's downfall,A,1,sux:Puzuršulgi[1]PN sux:ensik[ruler]N sux:Kazallu[1]SN
 c.3.1.20,Letter from Ibbi-Suen to Puzur-Šulgi hoping for Išbi-Erra's downfall,A,2,sux:dug[speak]V/t
 c.3.1.20,Letter from Ibbi-Suen to Puzur-Šulgi hoping for Išbi-Erra's downfall,A,3,sux:Ibbisuen[1]RN sux:lugal[king]N sux:dug[speak]V/t

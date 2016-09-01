@@ -1,4 +1,4 @@
-etcsl_no,text_name,version,l_no,text
+id_text,text_name,version,l_no,text
 c.3.3.11,Letter from Inim-Inana to Enlil-massu,,1,sux:Enlilmassu[1]PN sux:dug[speak]V/t
 c.3.3.11,Letter from Inim-Inana to Enlil-massu,,2,sux:Iniminana[1]PN sux:dug[speak]V/t
 c.3.3.11,Letter from Inim-Inana to Enlil-massu,,3,sux:inim[word]N sux:name[any]AJ sux:dug[speak]V/t sux:lul[false]V/i sux:hul[rejoice]V/i

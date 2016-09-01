@@ -1,4 +1,4 @@
-etcsl_no,text_name,version,l_no,text
+id_text,text_name,version,l_no,text
 c.1.2.1,Enlil and Ninlil,,1,sux:iri[city]N sux:me[be]V/i sux:iri[city]N sux:me[be]V/i sux:tuš[sit]V/i
 c.1.2.1,Enlil and Ninlil,,2,sux:Nibru[1]SN sux:iri[city]N sux:me[be]V/i sux:tuš[sit]V/i
 c.1.2.1,Enlil and Ninlil,,3,sux:Durŋišnimbar[1]SN sux:iri[city]N sux:me[be]V/i sux:tuš[sit]V/i

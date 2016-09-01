@@ -1,4 +1,4 @@
-etcsl_no,text_name,version,l_no,text
+id_text,text_name,version,l_no,text
 c.1.3.4,Inana and Gudam,,A1,sux:Gudam[1]PN sux:iri[city]N
 c.1.3.4,Inana and Gudam,,B1,sux:Gudam[1]PN
 c.1.3.4,Inana and Gudam,,B2,sux:Gudam[1]PN

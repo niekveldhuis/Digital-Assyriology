@@ -1,0 +1,33 @@
+id_text,text_name,version,l_no,text
+c.4.27.06,A balbale to Ninurta (Ninurta F),,1,sux:a[water]N sux:zid[right]AJ sux:numun[seed]N sux:zid[right]AJ
+c.4.27.06,A balbale to Ninurta (Ninurta F),,2,sux:lugal[king]N sux:Enlil[1]DN sux:mu[name]N sux:pad₃[to-find]V
+c.4.27.06,A balbale to Ninurta (Ninurta F),,3,sux:a[water]N sux:zid[right]AJ sux:numun[seed]N sux:zid[right]AJ
+c.4.27.06,A balbale to Ninurta (Ninurta F),,4,sux:Ninurta[1]DN sux:Enlil[1]DN sux:mu[name]N sux:pad₃[to-find]V
+c.4.27.06,A balbale to Ninurta (Ninurta F),,5,sux:lugal[king]N sux:mu[name]N sux:pad₃[to-find]V
+c.4.27.06,A balbale to Ninurta (Ninurta F),,6,sux:Ninurta[1]DN sux:ŋe₂₆[I]PD sux:lu₂[person]N sux:lu₂[person]N
+c.4.27.06,A balbale to Ninurta (Ninurta F),,7,sux:ŋe₂₆[I]PD sux:mu[name]N sux:pad₃[to-find]V
+c.4.27.06,A balbale to Ninurta (Ninurta F),,8,sux:lugal[king]N sux:u₈[ewe]N sux:sila₄[lamb]N sux:tud[to-give-birth]V
+c.4.27.06,A balbale to Ninurta (Ninurta F),,9,sux:u₈[ewe]N sux:sila₄[lamb]N sux:tud[to-give-birth]V sux:u₈[ewe]N sux:udu-utua₂[breeding-ram]N sux:tud[to-give-birth]V
+c.4.27.06,A balbale to Ninurta (Ninurta F),,10,sux:ŋe₂₆[I]PD sux:mu[name]N sux:pad₃[to-find]V
+c.4.27.06,A balbale to Ninurta (Ninurta F),,11,sux:lugal[king]N sux:ud₅[(nanny)-goat]N sux:maš₂[(kid)-goat]N sux:tud[to-give-birth]V
+c.4.27.06,A balbale to Ninurta (Ninurta F),,12,sux:ud₅[(nanny)-goat]N sux:maš₂[(kid)-goat]N sux:tud[to-give-birth]V sux:maš₂-ud₅-da[breeding-goat]N sux:tud[to-give-birth]V
+c.4.27.06,A balbale to Ninurta (Ninurta F),,13,sux:ŋe₂₆[I]PD sux:mu[name]N sux:pad₃[to-find]V
+c.4.27.06,A balbale to Ninurta (Ninurta F),,14,sux:lugal[king]N sux:ab₂[cow]N sux:amar[calf]N sux:tud[to-give-birth]V
+c.4.27.06,A balbale to Ninurta (Ninurta F),,15,sux:ab₂[cow]N sux:amar[calf]N sux:tud[to-give-birth]V sux:ab₂[cow]N sux:gud-ab₂-ba[breeding-bull]N sux:tud[to-give-birth]V
+c.4.27.06,A balbale to Ninurta (Ninurta F),,16,sux:ŋe₂₆[I]PD sux:mu[name]N sux:pad₃[to-find]V
+c.4.27.06,A balbale to Ninurta (Ninurta F),,17,sux:lugal[king]N sux:eme₃[female-donkey]N sux:amar[calf]N sux:tud[to-give-birth]V
+c.4.27.06,A balbale to Ninurta (Ninurta F),,18,sux:eme₃[female-donkey]N sux:amar[calf]N sux:tud[to-give-birth]V sux:anše[donkey]N sux:tud[to-give-birth]V
+c.4.27.06,A balbale to Ninurta (Ninurta F),,19,sux:ŋe₂₆[I]PD sux:mu[name]N sux:pad₃[to-find]V
+c.4.27.06,A balbale to Ninurta (Ninurta F),,20,sux:lugal[king]N sux:lu₂-ulu₃[person]N sux:dumu[child]N sux:tud[to-give-birth]V
+c.4.27.06,A balbale to Ninurta (Ninurta F),,21,sux:lu₂-ulu₃[person]N sux:dumu[child]N sux:tud[to-give-birth]V sux:Ninurta[1]DN sux:lugal[king]N
+c.4.27.06,A balbale to Ninurta (Ninurta F),,22,sux:lugal[king]N sux:gu[(flax)-thread]N sux:tud[to-give-birth]V
+c.4.27.06,A balbale to Ninurta (Ninurta F),,23,sux:lugal[king]N sux:še[barley]N sux:tud[to-give-birth]V
+c.4.27.06,A balbale to Ninurta (Ninurta F),,24,sux:id₂[watercourse]N sux:a-eštub[carp(-filled)-water]N sux:si[to-fill]V
+c.4.27.06,A balbale to Ninurta (Ninurta F),,25,sux:a-šag₄[field]N sux:še[barley]N sux:gu-nu[flax]N sux:mu₂[to-grow]V
+c.4.27.06,A balbale to Ninurta (Ninurta F),,26,sux:ambar[marsh]N sux:HI.SUHUR[type-of-carp]N sux:suhur[type-of-carp]N sux:si[to-fill]V
+c.4.27.06,A balbale to Ninurta (Ninurta F),,27,sux:ŋiš-gi[reedbed]N sux:gi[reed]N sux:sumun[to-be-old]V sux:gi[reed]N sux:henbur[shoot]N sux:mu₂[to-grow]V
+c.4.27.06,A balbale to Ninurta (Ninurta F),,28,sux:tir[forest]N sux:šeg₉[wild-sheep?]N sux:šeg₉-bar[fallow-deer?]N sux:si[to-fill]V
+c.4.27.06,A balbale to Ninurta (Ninurta F),,29,sux:an-edin[high-plain]N sux:maš-gurum[type-of-tree]N sux:mu₂[to-grow]V
+c.4.27.06,A balbale to Ninurta (Ninurta F),,30,sux:pu₂-kiri₆[orchard]N sux:lal₃[syrup]N sux:ŋeštin[grape-(wine)]N sux:si[to-fill]V
+c.4.27.06,A balbale to Ninurta (Ninurta F),,31,sux:e₂-gal[palace]N sux:zi[life-(breath)]N sux:su₃-ud-ŋal₂[long-lasting]AJ sux:mu₂[to-grow]V
+c.4.27.06,A balbale to Ninurta (Ninurta F),,32,sux:bal-bal-e[type-of-composition]N sux:Ninurta[1]DN

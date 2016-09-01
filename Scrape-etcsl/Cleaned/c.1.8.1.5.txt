@@ -1,4 +1,4 @@
-etcsl_no,text_name,version,l_no,text
+id_text,text_name,version,l_no,text
 c.1.8.1.5,Gilgameš and Huwawa (Version A),,1,sux:en[lord]N sux:kur[mountain]N sux:lu[person]N sux:til[live]V/i sux:ŋeštug[ear]N sux:gub[stand]V/i
 c.1.8.1.5,Gilgameš and Huwawa (Version A),,2,sux:en[lord]N sux:Gilgameš[1]DN sux:kur[mountain]N sux:lu[person]N sux:til[live]V/i sux:ŋeštug[ear]N sux:gub[stand]V/i
 c.1.8.1.5,Gilgameš and Huwawa (Version A),,3,sux:arad[slave]N sux:Enkidu[1]PN sux:gu[voice]N sux:de[pour]V/t

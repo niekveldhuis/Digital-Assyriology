@@ -1,0 +1,35 @@
+id_text,text_name,version,l_no,text
+c.4.16.2,A šir-namšub to Nisaba (Nisaba B),,1,sux:gul[to-destroy]V
+c.4.16.2,A šir-namšub to Nisaba (Nisaba B),,2,sux:gul[to-destroy]V sux:gul[to-destroy]V
+c.4.16.2,A šir-namšub to Nisaba (Nisaba B),,3,sux:Nisaba[1]DN sux:gul[to-destroy]V
+c.4.16.2,A šir-namšub to Nisaba (Nisaba B),,4,sux:e₂[house(hold)]N sux:Nisaba[1]DN sux-x-emesal:mu-lu[person]N sux:dub[tablet]N sux:gul[to-destroy]V
+c.4.16.2,A šir-namšub to Nisaba (Nisaba B),,5,sux:e₂[house(hold)]N sux:ŠE.TIR-ma[1]DN sux:gul[to-destroy]V
+c.4.16.2,A šir-namšub to Nisaba (Nisaba B),,6,sux:e₂[house(hold)]N sux:Nun-bar-še-gunu[1]DN sux:gul[to-destroy]V
+c.4.16.2,A šir-namšub to Nisaba (Nisaba B),,7,sux:E-hamun[1]TN sux:gul[to-destroy]V
+c.4.16.2,A šir-namšub to Nisaba (Nisaba B),,8,sux:u₂-a-nir[mourning-plant]N sux:mu₂[to-grow]V sux-x-emesal:šu-mu-un[alfalfa]N sux:mu₂[to-grow]V
+c.4.16.2,A šir-namšub to Nisaba (Nisaba B),,9,sux:bad₃[wall]N sux:u₂[plant]N sux:gid₂[to-be-long]V sux:mu₂[to-grow]V
+c.4.16.2,A šir-namšub to Nisaba (Nisaba B),,10,sux:šag₄[heart]N sux:u₂[plant]N sux-x-emesal:ŋen[willow]N sux:šu[hand]N sux:niŋin₂[to-go-around]V
+c.4.16.2,A šir-namšub to Nisaba (Nisaba B),,11,sux-x-emesal:e-ne-eŋ₃[word]N sux:An[1]DN sux-x-emesal:e-ne-eŋ₃[word]N sux-x-emesal:Enlil[1]DN sux:re[that]PD
+c.4.16.2,A šir-namšub to Nisaba (Nisaba B),,12,sux:šag₄[heart]N sux:ib₂[to-be-furious]V sux:An[1]DN sux:gal[to-be-big]V sux:šu[hand]N sux:niŋin₂[to-go-around]V
+c.4.16.2,A šir-namšub to Nisaba (Nisaba B),,13,sux-x-emesal:ša₃-ab[heart]N sux:hul-ŋal₂[evil]AJ sux-x-emesal:Enlil[1]DN sux:šu[hand]N sux:niŋin₂[to-go-around]V
+c.4.16.2,A šir-namšub to Nisaba (Nisaba B),,14,sux-x-emesal:ma[house(hold)]N sux:itid[moon(light)]N sux-x-emesal:ma[house(hold)]N
+c.4.16.2,A šir-namšub to Nisaba (Nisaba B),,15,sux:itid[moon(light)]N sux-x-emesal:aŋ₂[heaven]N sux:giri₁₇-zal[joy]N sux-x-emesal:ma[house(hold)]N
+c.4.16.2,A šir-namšub to Nisaba (Nisaba B),,16,sux:itid[moon(light)]N sux:ŋi₆[night]N sux:giri₁₇-zal[joy]N sux-x-emesal:ma[house(hold)]N
+c.4.16.2,A šir-namšub to Nisaba (Nisaba B),,17,sux-x-emesal:aŋ₂[heaven]N sux:giri₁₇-zal[joy]N sux:ŋi₆[night]N sux:giri₁₇-zal[joy]N sux-x-emesal:ma[house(hold)]N sux:e₃[to-go-out-or-in]V
+c.4.16.2,A šir-namšub to Nisaba (Nisaba B),,18,sux-x-emesal:mu-lu[person]N sux:itid[moon(light)]N sux-x-emesal:mu-lu[person]N sux:bad₃[wall]N sux:la₂[to-hang]V
+c.4.16.2,A šir-namšub to Nisaba (Nisaba B),,19,sux:itid[moon(light)]N sux-x-emesal:aŋ₂[heaven]N sux:giri₁₇-zal[joy]N sux-x-emesal:mu-lu[person]N
+c.4.16.2,A šir-namšub to Nisaba (Nisaba B),,20,sux:itid[moon(light)]N sux:ŋi₆[night]N sux:giri₁₇-zal[joy]N sux-x-emesal:mu-lu[person]N
+c.4.16.2,A šir-namšub to Nisaba (Nisaba B),,21,sux-x-emesal:aŋ₂[heaven]N sux:giri₁₇-zal[joy]N sux:ŋi₆[night]N sux:giri₁₇-zal[joy]N sux-x-emesal:mu-lu[person]N sux:bad₃[wall]N sux:la₂[to-hang]V
+c.4.16.2,A šir-namšub to Nisaba (Nisaba B),,22,sux:itid[moon(light)]N sux:ki[place]N sux:sikil[to-be-pure]V sux:itid[moon(light)]N sux:1[1]NU sux:nu₂[to-lie-down]V
+c.4.16.2,A šir-namšub to Nisaba (Nisaba B),,23,sux:itid[moon(light)]N sux:hur-saŋ[mountain-(range)]N sux:ki[place]N sux:sikil[to-be-pure]V sux:si[to-fill]V sux:1[1]NU sux:nu₂[to-lie-down]V
+c.4.16.2,A šir-namšub to Nisaba (Nisaba B),,24,sux:kur[(mountain)-land]N sux:erin[cedar]N sux-x-emesal:Enlil[1]DN sux:nu₂[to-lie-down]V sux:1[1]NU sux:nu₂[to-lie-down]V
+c.4.16.2,A šir-namšub to Nisaba (Nisaba B),,25,sux:er₂[tear]N sux:gig[to-be-ill]V sux:šeš₂[to-weep]V
+c.4.16.2,A šir-namšub to Nisaba (Nisaba B),,26,sux:itid[moon(light)]N sux:nu₂[to-lie-down]V sux:er₂[tear]N sux:gig[to-be-ill]V sux:šeš₂[to-weep]V
+c.4.16.2,A šir-namšub to Nisaba (Nisaba B),,27,sux:zalag[to-be-shining]V sux:e₃[to-go-out-or-in]V sux-x-emesal:me[I]PD sux:gig₂[to-be-black]V
+c.4.16.2,A šir-namšub to Nisaba (Nisaba B),,28,sux:itid[moon(light)]N sux-x-emesal:aŋ₂[heaven]N sux:giri₁₇-zal[joy]N sux:zalag[to-be-shining]V sux:e₃[to-go-out-or-in]V sux-x-emesal:me[I]PD sux:gig₂[to-be-black]V
+c.4.16.2,A šir-namšub to Nisaba (Nisaba B),,29,sux:itid[moon(light)]N sux:ŋi₆[night]N sux:giri₁₇-zal[joy]N sux:zalag[to-be-shining]V sux:e₃[to-go-out-or-in]V sux-x-emesal:me[I]PD sux:gig₂[to-be-black]V
+c.4.16.2,A šir-namšub to Nisaba (Nisaba B),,30,sux-x-emesal:aŋ₂[heaven]N sux:giri₁₇-zal[joy]N sux:ŋi₆[night]N sux:giri₁₇-zal[joy]N sux:zalag[to-be-shining]V sux:e₃[to-go-out-or-in]V sux-x-emesal:me[I]PD sux:gig₂[to-be-black]V
+c.4.16.2,A šir-namšub to Nisaba (Nisaba B),,31,sux:ki[place]N sux:sikil[to-be-pure]V sux:ud[day(light)]N sux:zu[to-know]V sux:ni₂[fear(someness)]N sux:me-lem₄[(awesome)-radiance]N sux:er₂[tear]N sux:šeš₂[to-weep]V
+c.4.16.2,A šir-namšub to Nisaba (Nisaba B),,32,sux:ama[mother]N sux:Ezina-Kusu[1]DN sux:ni₂[fear(someness)]N sux:me-lem₄[(awesome)-radiance]N sux:er₂[tear]N sux:šeš₂[to-weep]V
+c.4.16.2,A šir-namšub to Nisaba (Nisaba B),,33,sux:nam-tar[destiny]N sux-x-emesal:mu-šub-ba[lot]N sux:ni₂[fear(someness)]N sux:me-lem₄[(awesome)-radiance]N sux:er₂[tear]N sux:šeš₂[to-weep]V
+c.4.16.2,A šir-namšub to Nisaba (Nisaba B),,34,sux:šir₃-nam-šub[type-of-composition]N sux:Nisaba[1]DN

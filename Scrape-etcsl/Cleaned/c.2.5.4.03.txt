@@ -1,4 +1,4 @@
-etcsl_no,text_name,version,l_no,text
+id_text,text_name,version,l_no,text
 c.2.5.4.03,A hymn to Nibru and Išme-Dagan (Išme-Dagan C),,1,sux:eš[shrine]N sux:Nibru[1]SN sux:eš[shrine]N sux:Abzu[1]TN sux:dirig[float]V/i sux:Ekur[1]TN sux:zagin[lapis]N
 c.2.5.4.03,A hymn to Nibru and Išme-Dagan (Išme-Dagan C),,2,sux:nun[prince]N sux:nun[prince]N sux:dirig[float]V/i sux:kur[mountain]N sux:gal[big]V/i sux:aya[father]N sux:Enlil[1]DN
 c.2.5.4.03,A hymn to Nibru and Išme-Dagan (Išme-Dagan C),,3,sux:nin[lady]N sux:gal[big]V/i sux:munus[woman]N sux:zid[right]V/i sux:ama[mother]N sux:Ninlil[1]DN sux:namnin[ladyship]N sux:dib[pass]V/t

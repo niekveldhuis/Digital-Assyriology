@@ -1,0 +1,62 @@
+id_text,text_name,version,l_no,text
+c.4.13.01,A balbale to Suen (Nanna A),,1,sux:me-a[where]AV sux:lu[to-be-abundant]V sux:ab₂[cow]N sux:me-a[where]AV sux:lu[to-be-abundant]V
+c.4.13.01,A balbale to Suen (Nanna A),,2,sux:šilam[cow]N sux:Suen[1]DN sux:me-a[where]AV sux:lu[to-be-abundant]V
+c.4.13.01,A balbale to Suen (Nanna A),,3,sux:gig₂[to-be-black]V sux:za-gin₃[lapis-lazuli]N sux:duru₅[to-be-wet]V
+c.4.13.01,A balbale to Suen (Nanna A),,4,sux:ab₂[cow]N sux:babbar[white]AJ sux:itid[moon(light)]N sux:e₃[to-go-out-or-in]V
+c.4.13.01,A balbale to Suen (Nanna A),,5,sux:tur[to-be-small]V sux:še[barley]N sux:sur[to-drip]V
+c.4.13.01,A balbale to Suen (Nanna A),,6,sux:gal[to-be-big]V sux:am[wild-bull]N sux:lu[to-be-abundant]V
+c.4.13.01,A balbale to Suen (Nanna A),,7,sux:ab₂[cow]N sux:lu[to-be-abundant]V sux:tur₃[animal-stall]N sux:lu[to-be-abundant]V
+c.4.13.01,A balbale to Suen (Nanna A),,8,sux:giri₁₇-zal[joy]N sux:an[heaven]N sux:saman[tethering-rope]N sux:du₈[to-spread]V
+c.4.13.01,A balbale to Suen (Nanna A),,9,sux:ga[milk]N sux:ab₂[cow]N sux:sig₇[to-be-green]V sux:banšur[(offering)-table]N sux:de₂[to-pour]V
+c.4.13.01,A balbale to Suen (Nanna A),,10,sux:šu[hand]N sux:dadag[to-be-bright]V sux:ga[milk]N sux:de₆[to-carry]V
+c.4.13.01,A balbale to Suen (Nanna A),,11,sux:lugal[king]N sux:kiŋ₂[work]N sux:til[to-complete]V
+c.4.13.01,A balbale to Suen (Nanna A),,12,sux:Suen[1]DN sux:saman[tethering-rope]N sux:za-gin₃[lapis-lazuli]N sux:ab₂[cow]N sux:ak[to-do]V
+c.4.13.01,A balbale to Suen (Nanna A),,13,sux:ab₂[cow]N sux:ra[to-beat]V sux:ab₂[cow]N sux:KU[KU]V
+c.4.13.01,A balbale to Suen (Nanna A),,14,sux:e-ne[he;-she]PD sux:ab₂[cow]N sux:nam-sipad[shepherd's-craft]N sux:ak[to-do]V
+c.4.13.01,A balbale to Suen (Nanna A),,15,sux:ama[mother]N sux:ugu[to-give-birth]V sux:nin[lady]N sux:Nibru[1]SN
+c.4.13.01,A balbale to Suen (Nanna A),,16,sux:en[lord]N sux:edin[open-country]N sux:a-ra-zu[supplication]N sux:dug₄[to-say]V
+c.4.13.01,A balbale to Suen (Nanna A),,17,sux:a-ra-zu[supplication]N sux:unud[herdsman]N sux:a-ra-zu[supplication]N
+c.4.13.01,A balbale to Suen (Nanna A),,18,sux:edin[open-country]N sux:dug₃[to-be-good]V sux:ab₂[cow]N sux:lu[to-be-abundant]V
+c.4.13.01,A balbale to Suen (Nanna A),,19,sux:ŋi₆[night]N sux:u₃-na[designation-of-night]N sux:te[to-approach]V
+c.4.13.01,A balbale to Suen (Nanna A),,20,sux:E-kur[1]TN sux:eš₃[shrine]N sux:kal[to-be-rare]V sux:za[you-(sg.)]PD sux:tud[to-give-birth]V
+c.4.13.01,A balbale to Suen (Nanna A),,21,sux:ki[place]N sux:aŋ₂[to-measure]V sux:me[to-be]V sux:ki[place]N sux:aŋ₂[to-measure]V sux:me[to-be]V
+c.4.13.01,A balbale to Suen (Nanna A),,22,sux:en[lord]N sux:E-kur[1]TN sux:ki[place]N sux:aŋ₂[to-measure]V sux:me[to-be]V
+c.4.13.01,A balbale to Suen (Nanna A),,23,sux:Enlil[1]DN sux:lu₂[person]N sux:la[plenty]N sux:me[to-be]V
+c.4.13.01,A balbale to Suen (Nanna A),,24,sux:Suen[1]DN sux:ama[mother]N sux:ugu[to-give-birth]V sux:i-lu[(sad)-song]N sux:me[to-be]V
+c.4.13.01,A balbale to Suen (Nanna A),,25,sux:ama[mother]N sux:ugu[to-give-birth]V sux:šag₄[heart]N sux:ki[place]N sux:aŋ₂[to-measure]V
+c.4.13.01,A balbale to Suen (Nanna A),,26,sux:Suen[1]DN sux:mi₂[(loving)-care]N sux:dug₄[to-say]V
+c.4.13.01,A balbale to Suen (Nanna A),,27,sux:ki[place]N sux:aŋ₂[to-measure]V sux:šag₄[heart]N sux:niŋ₂[thing]N sux:šag₄[heart]N sux:ten[to-extinguish]V
+c.4.13.01,A balbale to Suen (Nanna A),,28,sux:Suen[1]DN sux:amar[calf]N sux:za-gin₃[lapis-lazuli]N sux:dub₃[knee]N sux:kug[shining]AJ sux:peš[to-be-thick]V
+c.4.13.01,A balbale to Suen (Nanna A),,29,sux:niŋ₂-nam[anything]PD sux:šag₄[heart]N sux:al[desire]N sux:dug₄[to-say]V
+c.4.13.01,A balbale to Suen (Nanna A),,30,sux:niŋ₂[thing]N sux:kal[to-be-rare]V sux:šag₄[heart]N sux:guru₇[to-heap-up]V
+c.4.13.01,A balbale to Suen (Nanna A),,31,sux:zig₃[to-rise]V sux:he₂-du₇[(fitting)-ornament]N sux:E-kur[1]TN
+c.4.13.01,A balbale to Suen (Nanna A),,32,sux:dug₃[to-be-good]V sux:Enlil[1]DN sux:za[you-(sg.)]PD sux:al[desire]N sux:dug₄[to-say]V
+c.4.13.01,A balbale to Suen (Nanna A),,33,sux:giri₁₇-zal[joy]N sux:an[heaven]N sux:za[you-(sg.)]PD sux:tud[to-give-birth]V
+c.4.13.01,A balbale to Suen (Nanna A),,34,sux:i-lu[(sad)-song]N sux:E-kur[1]TN sux:dug₄[to-say]V
+c.4.13.01,A balbale to Suen (Nanna A),,35,sux:zi[life-(breath)]N sux:uŋ₃[people]N sux:aŋ₂[to-measure]V
+c.4.13.01,A balbale to Suen (Nanna A),,36,sux:Suen[1]DN sux:an[heaven]N sux:ki[place]N sux:dirig[to-be-superior]V
+c.4.13.01,A balbale to Suen (Nanna A),,37,sux:ab₂[cow]N sux:ŊAR.NE[designation-of-cow]N sux:ga[milk]N sux:banšur[(offering)-table]N sux:de₂[to-pour]V
+c.4.13.01,A balbale to Suen (Nanna A),,38,sux:Suen[1]DN sux:šu-luh[ritual-cleansing]N sux:si[horn]N sux:sa₂[to-equal]V
+c.4.13.01,A balbale to Suen (Nanna A),,39,sux:niŋ₂[thing]N sux:šu[hand]N sux:dug₄[to-say]V sux:dadag[to-be-bright]V
+c.4.13.01,A balbale to Suen (Nanna A),,40,sux:a-a[father]N sux:Enlil[1]DN sux:dug₃[to-be-good]V sux:gu₇[to-eat]V
+c.4.13.01,A balbale to Suen (Nanna A),,41,sux:lugal[king]N sux:ma₂-gur₈[processional-boat]N sux:kug[shining]AJ sux:an[heaven]N sux:dirig[to-be-superior]V
+c.4.13.01,A balbale to Suen (Nanna A),,42,sux:ama[mother]N sux:ul[to-swell-(with-joy)]V sux:mi₂[(loving)-care]N sux:dug₄[to-say]V
+c.4.13.01,A balbale to Suen (Nanna A),,43,sux:am[wild-bull]N sux:An[1]DN sux:zid[right]AJ sux:pad₃[to-find]V
+c.4.13.01,A balbale to Suen (Nanna A),,44,sux:mu[name]N sux:kur[(mountain)-land]N sux-x-emesal:ze₂-eb[to-be-good]V sux-x-emesal:ma-al[to-be-(located)]V
+c.4.13.01,A balbale to Suen (Nanna A),,45,sux:en[lord]N sux:tur₃[animal-stall]N sux:kug[shining]AJ sux:šu-luh[ritual-cleansing]N sux:dadag[to-be-bright]V
+c.4.13.01,A balbale to Suen (Nanna A),,46,sux:a[water]N sux:ri[to-direct]V sux:eš₃[shrine]N sux:kug[shining]AJ sux:saman[tethering-rope]N sux:za-gin₃[lapis-lazuli]N
+c.4.13.01,A balbale to Suen (Nanna A),,47,sux:dumu[child]N sux:ur-saŋ[hero]N sux:Ninlil[1]DN sux:tud[to-give-birth]V
+c.4.13.01,A balbale to Suen (Nanna A),,48,sux:Nanna[1]DN sux:a-gar₃[meadow]N sux:a[water]N sux:ri[to-direct]V sux:ki[place]N sux:aŋ₂[to-measure]V sux:An[1]DN sux:kug[shining]AJ
+c.4.13.01,A balbale to Suen (Nanna A),,49,sux:nam-sipad[shepherd's-craft]N sux:kalam[the-Land]N sux:An[1]DN sux:šum₂[to-give]V
+c.4.13.01,A balbale to Suen (Nanna A),,50,sux:Enlil[1]DN sux:mu[name]N sux:dug₃[to-be-good]V sux:sa₄[to-call]V
+c.4.13.01,A balbale to Suen (Nanna A),,51,sux:dug₄[to-say]V sux:zid[right]AJ sux:dumu[child]N sux:Enlil[1]DN
+c.4.13.01,A balbale to Suen (Nanna A),,52,sux:An[1]DN sux:šag₄[heart]N sux:mah[to-be-majestic]V sux:nam-lugal[kingship]N sux:šum₂[to-give]V
+c.4.13.01,A balbale to Suen (Nanna A),,53,sux:iri[town]N sux:Urim[1]SN sux:šag₄[heart]N sux:pad₃[to-find]V
+c.4.13.01,A balbale to Suen (Nanna A),,54,sux:id₂[watercourse]N sux:nun[prince]N sux:ku₆[fish]N sux:mušen[bird]N sux:de₆[to-carry]V
+c.4.13.01,A balbale to Suen (Nanna A),,55,sux:dumu-saŋ[first-born-(child)]N sux:Enlil[1]DN sux:nam-en[high-(priestly)-office]N
+c.4.13.01,A balbale to Suen (Nanna A),,56,sux:nam-lugal[kingship]N sux:an[heaven]N sux:za[you-(sg.)]PD sux:šum₂[to-give]V
+c.4.13.01,A balbale to Suen (Nanna A),,57,sux:diŋir[deity]N sux:an[heaven]N sux:hi-li[attractiveness]N sux:guru₃[to-bear]V
+c.4.13.01,A balbale to Suen (Nanna A),,58,sux:itid[moon(light)]N sux:kug[shining]AJ sux:dadag[to-be-bright]V
+c.4.13.01,A balbale to Suen (Nanna A),,59,sux:Utu[1]DN sux-x-emesal:su₈-ba[shepherd]N sux:kalam[the-Land]N
+c.4.13.01,A balbale to Suen (Nanna A),,60,sux:Nanna[1]DN sux:lugal[king]N sux:ud[day(light)]N sux:e₃[to-go-out-or-in]V
+c.4.13.01,A balbale to Suen (Nanna A),,61,sux:bal-bal-e[type-of-composition]N sux:Suen[1]DN

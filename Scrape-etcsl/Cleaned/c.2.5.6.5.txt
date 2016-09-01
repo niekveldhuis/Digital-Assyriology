@@ -1,4 +1,4 @@
-etcsl_no,text_name,version,l_no,text
+id_text,text_name,version,l_no,text
 c.2.5.6.5,An adab to An for Ur-Ninurta (Ur-Ninurta E),,1,sux:An[1]DN sux:urun[exalted]V/i sux:gal[big]V/i sux:diŋir[deity]N
 c.2.5.6.5,An adab to An for Ur-Ninurta (Ur-Ninurta E),,2,sux:An[1]DN sux:nirŋal[authoritative]AJ sux:diŋir[deity]N sux:pa[branch]N sux:e[leave]V/i
 c.2.5.6.5,An adab to An for Ur-Ninurta (Ur-Ninurta E),,3,sux:An[1]DN sux:lugal[king]N sux:nam[fate]N sux:gal[big]V/i sux:tar[cut]V/t

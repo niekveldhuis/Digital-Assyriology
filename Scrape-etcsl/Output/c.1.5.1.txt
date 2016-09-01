@@ -1,0 +1,329 @@
+id_text,text_name,version,l_no,text
+c.1.5.1,Nanna-Suen's journey to Nibru,,1,sux:ur-saŋ[hero]N sux:iri[town]N sux:ama[mother]N
+c.1.5.1,Nanna-Suen's journey to Nibru,,2,sux:Nanna-Suen[1]DN sux:ŋeštug₂[ear]N sux:gub[to-stand]V
+c.1.5.1,Nanna-Suen's journey to Nibru,,3,sux:Suen[1]DN sux:iri[town]N sux:ama[mother]N
+c.1.5.1,Nanna-Suen's journey to Nibru,,4,sux:Ašimbabbar[1]DN sux:ŋeštug₂[ear]N sux:gub[to-stand]V
+c.1.5.1,Nanna-Suen's journey to Nibru,,5,sux:iri[town]N sux:ama[mother]N sux:a-a[father]N
+c.1.5.1,Nanna-Suen's journey to Nibru,,6,sux:Nanna-Suen[1]DN sux:ŋeštug₂[ear]N sux:gub[to-stand]V
+c.1.5.1,Nanna-Suen's journey to Nibru,,7,sux:Enlil[1]DN sux:Ninlil[1]DN
+c.1.5.1,Nanna-Suen's journey to Nibru,,8,sux:Ašimbabbar[1]DN sux:ŋeštug₂[ear]N sux:gub[to-stand]V
+c.1.5.1,Nanna-Suen's journey to Nibru,,9,sux:ur-saŋ[hero]N sux:ŋe₂₆[I]PD sux:iri[town]N sux:ŋen[to-go]V
+c.1.5.1,Nanna-Suen's journey to Nibru,,10,sux:ŋe₂₆[I]PD sux:iri[town]N sux:ŋen[to-go]V sux:a-a[father]N sux:ŋen[to-go]V
+c.1.5.1,Nanna-Suen's journey to Nibru,,11,sux:Suen[1]DN sux:ŋe₂₆[I]PD sux:iri[town]N sux:ŋen[to-go]V
+c.1.5.1,Nanna-Suen's journey to Nibru,,12,sux:ŋe₂₆[I]PD sux:iri[town]N sux:ŋen[to-go]V sux:a-a[father]N sux:ŋen[to-go]V
+c.1.5.1,Nanna-Suen's journey to Nibru,,13,sux:a-a[father]N sux:Enlil[1]DN sux:ŋen[to-go]V
+c.1.5.1,Nanna-Suen's journey to Nibru,,14,sux:ŋe₂₆[I]PD sux:iri[town]N sux:ŋen[to-go]V sux:ama[mother]N sux:ŋen[to-go]V
+c.1.5.1,Nanna-Suen's journey to Nibru,,15,sux:ama[mother]N sux:Ninlil[1]DN sux:ŋen[to-go]V
+c.1.5.1,Nanna-Suen's journey to Nibru,,16,sux:a-a[father]N sux:ŋen[to-go]V
+c.1.5.1,Nanna-Suen's journey to Nibru,,17,sux:iri[town]N sux:šen[to-be-pure]V sux:ki[place]N sux:sikil[to-be-pure]V
+c.1.5.1,Nanna-Suen's journey to Nibru,,24,sux:e₃[to-go-out-or-in]V sux:gal[to-be-big]V
+c.1.5.1,Nanna-Suen's journey to Nibru,,25,sux:e₃[to-go-out-or-in]V sux:gal[to-be-big]V
+c.1.5.1,Nanna-Suen's journey to Nibru,,26,sux:e₃[to-go-out-or-in]V sux:gal[to-be-big]V
+c.1.5.1,Nanna-Suen's journey to Nibru,,27,sux:e₃[to-go-out-or-in]V sux:gal[to-be-big]V
+c.1.5.1,Nanna-Suen's journey to Nibru,,28,sux:Nibru[1]SN sux:ŋiš-gana₂[birch?]N sux:ŋiš[tree]N sux:gig₂[to-be-black]V sux:ki[place]N sux:dug₃[to-be-good]V sux:mu₂[to-grow]V
+c.1.5.1,Nanna-Suen's journey to Nibru,,29,sux:eš₃[shrine]N sux:Nibru[1]SN sux:ŋiš-gana₂[birch?]N sux:ŋiš[tree]N sux:babbar[white]AJ sux:ki[place]N sux:sikil[to-be-pure]V sux:mu₂[to-grow]V
+c.1.5.1,Nanna-Suen's journey to Nibru,,30,sux:Nibru[1]SN sux:ki[place]N sux:dug₃[to-be-good]V sux:barag[dais]N sux:du₃[to-erect]V
+c.1.5.1,Nanna-Suen's journey to Nibru,,31,sux:eš₃[shrine]N sux:Nibru[1]SN sux:mu[name]N sux:mu[name]N sux:dug₃[to-be-good]V
+c.1.5.1,Nanna-Suen's journey to Nibru,,32,sux:Nibru[1]SN sux:ki[place]N sux:dug₃[to-be-good]V sux:barag[dais]N sux:du₃[to-erect]V
+c.1.5.1,Nanna-Suen's journey to Nibru,,33,sux:eš₃[shrine]N sux:Nibru[1]SN sux:mu[name]N sux:mu[name]N sux:dug₃[to-be-good]V
+c.1.5.1,Nanna-Suen's journey to Nibru,,34,sux:iri[town]N sux:Dilmun[1]GN sux:me[to-be]V sux:ŋišnimbar[date-palm]N sux:mu₂[to-grow]V
+c.1.5.1,Nanna-Suen's journey to Nibru,,35,sux:Nibru[1]SN sux:Dilmun[1]GN sux:me[to-be]V sux:ŋišnimbar[date-palm]N sux:mu₂[to-grow]V
+c.1.5.1,Nanna-Suen's journey to Nibru,,36,sux:ama[mother]N sux:gal[to-be-big]V sux:Ninlil[1]DN sux:šag₄[heart]N sux:gada[linen-(fibre)]N sux:la₂[to-hang]V
+c.1.5.1,Nanna-Suen's journey to Nibru,,37,sux:Suen[1]DN sux:ma₂-gur₈[processional-boat]N sux:nu₂[to-lie-down]V
+c.1.5.1,Nanna-Suen's journey to Nibru,,38,sux:ma₂-gur₈[processional-boat]N sux:nu₂[to-lie-down]V sux:kid-bur₂[type-of-mat]N sux:gi₄[to-return]V
+c.1.5.1,Nanna-Suen's journey to Nibru,,39,sux:ma₂-gur₈[processional-boat]N sux:gi[reed]N sux:Tummal[1]SN
+c.1.5.1,Nanna-Suen's journey to Nibru,,40,sux:Nanna-Suen[1]DN sux:lu₂[person]N sux:gi₄[to-return]V
+c.1.5.1,Nanna-Suen's journey to Nibru,,41,sux:ma₂-gur₈[processional-boat]N sux:esir₂[bitumen]N sux:abzu[underground-water]N
+c.1.5.1,Nanna-Suen's journey to Nibru,,42,sux:Ašimbabbar[1]DN sux:lu₂[person]N sux:gi₄[to-return]V
+c.1.5.1,Nanna-Suen's journey to Nibru,,43,sux:A.NUMUN₂[esparto-grass]N sux:Du-ašaga[1]SN
+c.1.5.1,Nanna-Suen's journey to Nibru,,44,sux:Nanna-Suen[1]DN sux:lu₂[person]N sux:gi₄[to-return]V
+c.1.5.1,Nanna-Suen's journey to Nibru,,45,sux:mi-ri₂-za[boat-pole]N sux:tir[forest]N sux:ha-šu-ur₂[type-of-cypress]N
+c.1.5.1,Nanna-Suen's journey to Nibru,,46,sux:Ašimbabbar[1]DN sux:lu₂[person]N sux:gi₄[to-return]V
+c.1.5.1,Nanna-Suen's journey to Nibru,,47,sux:eme-sig[(ship's)-floor-plank]N sux:tir[forest]N sux:Kug-nuna[1]SN
+c.1.5.1,Nanna-Suen's journey to Nibru,,48,sux:Nanna-Suen[1]DN sux:lu₂[person]N sux:gi₄[to-return]V
+c.1.5.1,Nanna-Suen's journey to Nibru,,48A,sux:a-da-ma₂[wooden-object]N sux:kur[(mountain)-land]N sux:šim[aromatic-(fragrance)]N sux:erin[cedar]N
+c.1.5.1,Nanna-Suen's journey to Nibru,,48B,sux:Ašimbabbar[1]DN sux:lu₂[person]N sux:gi₄[to-return]V
+c.1.5.1,Nanna-Suen's journey to Nibru,,49,sux:u₃[planking]N sux:tir[forest]N sux:Ebla[1]SN
+c.1.5.1,Nanna-Suen's journey to Nibru,,50,sux:Ašimbabbar[1]DN sux:lu₂[person]N sux:gi₄[to-return]V
+c.1.5.1,Nanna-Suen's journey to Nibru,,51,sux:u₃-suh₅[type-of-conifer]N sux:tir[forest]N sux:šim[aromatic-(fragrance)]N sux:erin[cedar]N
+c.1.5.1,Nanna-Suen's journey to Nibru,,52,sux:Nanna-Suen[1]DN sux:lu₂[person]N sux:gi₄[to-return]V
+c.1.5.1,Nanna-Suen's journey to Nibru,,53,sux:u₂[plant]N sux:li[juniper]N sux:Langi[1]SN
+c.1.5.1,Nanna-Suen's journey to Nibru,,54,sux:Ašimbabbar[1]DN sux:lu₂[person]N sux:gi₄[to-return]V
+c.1.5.1,Nanna-Suen's journey to Nibru,,55,
+c.1.5.1,Nanna-Suen's journey to Nibru,,56,sux:Ašimbabbar[1]DN sux:lu₂[person]N sux:gi₄[to-return]V
+c.1.5.1,Nanna-Suen's journey to Nibru,,57,sux:u₂[plant]N
+c.1.5.1,Nanna-Suen's journey to Nibru,,58,sux:Nanna-Suen[1]DN sux:lu₂[person]N sux:gi₄[to-return]V
+c.1.5.1,Nanna-Suen's journey to Nibru,,59,sux:ma₂-gur₈[processional-boat]N sux:gi[reed]N sux:Tummal[1]SN
+c.1.5.1,Nanna-Suen's journey to Nibru,,60,sux:Nanna-Suen[1]DN sux:ri[to-direct]V
+c.1.5.1,Nanna-Suen's journey to Nibru,,61,sux:ma₂-gur₈[processional-boat]N sux:esir₂[bitumen]N sux:abzu[underground-water]N
+c.1.5.1,Nanna-Suen's journey to Nibru,,62,sux:Ašimbabbar[1]DN sux:ri[to-direct]V
+c.1.5.1,Nanna-Suen's journey to Nibru,,63,sux:A.NUMUN₂[esparto-grass]N sux:Du-ašaga[1]SN
+c.1.5.1,Nanna-Suen's journey to Nibru,,64,sux:Nanna-Suen[1]DN sux:ri[to-direct]V
+c.1.5.1,Nanna-Suen's journey to Nibru,,65,sux:mi-ri₂-za[boat-pole]N sux:tir[forest]N sux:ha-šu-ur₂[type-of-cypress]N
+c.1.5.1,Nanna-Suen's journey to Nibru,,66,sux:Ašimbabbar[1]DN sux:ri[to-direct]V
+c.1.5.1,Nanna-Suen's journey to Nibru,,67,sux:eme-sig[(ship's)-floor-plank]N sux:tir[forest]N sux:Kug-nuna[1]SN
+c.1.5.1,Nanna-Suen's journey to Nibru,,68,sux:Nanna-Suen[1]DN sux:ri[to-direct]V
+c.1.5.1,Nanna-Suen's journey to Nibru,,68A,sux:a-da-ma₂[wooden-object]N sux:kur[(mountain)-land]N sux:šim[aromatic-(fragrance)]N sux:erin[cedar]N
+c.1.5.1,Nanna-Suen's journey to Nibru,,68B,sux:Ašimbabbar[1]DN sux:ri[to-direct]V
+c.1.5.1,Nanna-Suen's journey to Nibru,,69,sux:u₃[planking]N sux:tir[forest]N sux:Ebla[1]SN
+c.1.5.1,Nanna-Suen's journey to Nibru,,70,sux:Ašimbabbar[1]DN sux:ri[to-direct]V
+c.1.5.1,Nanna-Suen's journey to Nibru,,71,sux:u₃-suh₅[type-of-conifer]N sux:tir[forest]N sux:šim[aromatic-(fragrance)]N sux:erin[cedar]N
+c.1.5.1,Nanna-Suen's journey to Nibru,,72,sux:Nanna-Suen[1]DN sux:ri[to-direct]V
+c.1.5.1,Nanna-Suen's journey to Nibru,,73,sux:u₂[plant]N sux:li[juniper]N sux:Langi[1]SN
+c.1.5.1,Nanna-Suen's journey to Nibru,,74,sux:Ašimbabbar[1]DN sux:ri[to-direct]V
+c.1.5.1,Nanna-Suen's journey to Nibru,,75,
+c.1.5.1,Nanna-Suen's journey to Nibru,,76,sux:Ašimbabbar[1]DN sux:ri[to-direct]V
+c.1.5.1,Nanna-Suen's journey to Nibru,,77,sux:u₂[plant]N
+c.1.5.1,Nanna-Suen's journey to Nibru,,78,sux:Nanna-Suen[1]DN sux:ri[to-direct]V
+c.1.5.1,Nanna-Suen's journey to Nibru,,79,sux:ri[to-direct]V
+c.1.5.1,Nanna-Suen's journey to Nibru,,80,sux:Utu[1]DN sux:hul₂[to-be-happy]V
+c.1.5.1,Nanna-Suen's journey to Nibru,,81,sux:ŋar[to-place]V
+c.1.5.1,Nanna-Suen's journey to Nibru,,82,sux:Gibil[1]DN sux:hul₂[to-be-happy]V
+c.1.5.1,Nanna-Suen's journey to Nibru,,83,sux:dug₄[to-say]V
+c.1.5.1,Nanna-Suen's journey to Nibru,,84,sux:dug₄[to-say]V
+c.1.5.1,Nanna-Suen's journey to Nibru,,85,sux:nu₂[to-lie-down]V
+c.1.5.1,Nanna-Suen's journey to Nibru,,86,sux:du₈[to-spread]V
+c.1.5.1,Nanna-Suen's journey to Nibru,,87,sux:hul₂[to-be-happy]V
+c.1.5.1,Nanna-Suen's journey to Nibru,,88,
+c.1.5.1,Nanna-Suen's journey to Nibru,,89,sux:hul₂[to-be-happy]V
+c.1.5.1,Nanna-Suen's journey to Nibru,,90,
+c.1.5.1,Nanna-Suen's journey to Nibru,,91,
+c.1.5.1,Nanna-Suen's journey to Nibru,,97,
+c.1.5.1,Nanna-Suen's journey to Nibru,,98,sux:Suen[1]DN
+c.1.5.1,Nanna-Suen's journey to Nibru,,99,sux:aškud₂[wedge]N
+c.1.5.1,Nanna-Suen's journey to Nibru,,100,sux:Suen[1]DN sux:ma₂[boat]N
+c.1.5.1,Nanna-Suen's journey to Nibru,,101,sux:Suen[1]DN sux:ma₂[boat]N sux:a-a[father]N
+c.1.5.1,Nanna-Suen's journey to Nibru,,102,sux:Suen[1]DN sux:ma₂-gur₈[processional-boat]N
+c.1.5.1,Nanna-Suen's journey to Nibru,,103,sux:Suen[1]DN sux:a-u₃-a[type-of-priest]N
+c.1.5.1,Nanna-Suen's journey to Nibru,,104,sux:Suen[1]DN sux:a-u₃-a[type-of-priest]N
+c.1.5.1,Nanna-Suen's journey to Nibru,,110,sux:a-u₃-a[type-of-priest]N
+c.1.5.1,Nanna-Suen's journey to Nibru,,111,sux:a-u₃-a[type-of-priest]N
+c.1.5.1,Nanna-Suen's journey to Nibru,,112,sux:a-u₃-a[type-of-priest]N
+c.1.5.1,Nanna-Suen's journey to Nibru,,113,sux:a-u₃-a[type-of-priest]N sux:Ašimbabbar[1]DN
+c.1.5.1,Nanna-Suen's journey to Nibru,,114,sux:a-u₃-a[type-of-priest]N sux:ur₂[root]N
+c.1.5.1,Nanna-Suen's journey to Nibru,,115,sux:a-u₃-a[type-of-priest]N sux:Nanna-Suen[1]DN
+c.1.5.1,Nanna-Suen's journey to Nibru,,116,sux:a-u₃-a[type-of-priest]N sux:dumu[child]N sux:Enlil[1]DN
+c.1.5.1,Nanna-Suen's journey to Nibru,,122,sux:a-u₃-a[type-of-priest]N
+c.1.5.1,Nanna-Suen's journey to Nibru,,123,sux:a-u₃-a[type-of-priest]N
+c.1.5.1,Nanna-Suen's journey to Nibru,,124,sux:a-u₃-a[type-of-priest]N
+c.1.5.1,Nanna-Suen's journey to Nibru,,125,sux:a-u₃-a[type-of-priest]N sux:Nanna-Suen[1]DN
+c.1.5.1,Nanna-Suen's journey to Nibru,,126,sux:lugal[king]N sux:a-a[father]N
+c.1.5.1,Nanna-Suen's journey to Nibru,,127,sux:Nanna[1]DN sux:šul[young-man]N sux:Suen[1]DN
+c.1.5.1,Nanna-Suen's journey to Nibru,,128,sux:Suen[1]DN sux:a-a[father]N
+c.1.5.1,Nanna-Suen's journey to Nibru,,129,sux:Ašimbabbar[1]DN
+c.1.5.1,Nanna-Suen's journey to Nibru,,130,sux:Suen[1]DN
+c.1.5.1,Nanna-Suen's journey to Nibru,,136,sux:a-u₃-a[type-of-priest]N
+c.1.5.1,Nanna-Suen's journey to Nibru,,137,sux:a-u₃-a[type-of-priest]N
+c.1.5.1,Nanna-Suen's journey to Nibru,,138,sux:a-u₃-a[type-of-priest]N sux:a-u₃-a[type-of-priest]N sux:unclear[1]DN
+c.1.5.1,Nanna-Suen's journey to Nibru,,139,sux:a-u₃-a[type-of-priest]N
+c.1.5.1,Nanna-Suen's journey to Nibru,,140,sux:lugal[king]N sux:a-a[father]N sux:Enlil[1]DN
+c.1.5.1,Nanna-Suen's journey to Nibru,,141,sux:nesaŋ[(first-fruit)-offering]N sux:de₆[to-carry]V
+c.1.5.1,Nanna-Suen's journey to Nibru,,142,sux:saŋ[head]N sux:us₂[to-be-adjacent]V sux:tuš[to-sit]V
+c.1.5.1,Nanna-Suen's journey to Nibru,,143,sux:a-u₃-a[type-of-priest]N sux:dumu[child]N sux:Nanna[1]DN sux:gi₄[to-return]V
+c.1.5.1,Nanna-Suen's journey to Nibru,,144,sux:tuš[to-sit]V
+c.1.5.1,Nanna-Suen's journey to Nibru,,147,sux:Nanna-Suen[1]DN
+c.1.5.1,Nanna-Suen's journey to Nibru,,148,sux:e₂[house(hold)]N sux:Enlil[1]DN sux:zag[side]N sux:la₂[to-hang]V
+c.1.5.1,Nanna-Suen's journey to Nibru,,149,sux:Ašimbabbar[1]DN sux:e₂[house(hold)]N sux:Enlil[1]DN
+c.1.5.1,Nanna-Suen's journey to Nibru,,150,sux:zag[side]N sux:la₂[to-hang]V
+c.1.5.1,Nanna-Suen's journey to Nibru,,157,sux:gud[bull]N sux:tur₃[animal-stall]N sux:gu₂[neck]N sux:gur[to-turn]V
+c.1.5.1,Nanna-Suen's journey to Nibru,,158,sux:Nanna-Suen[1]DN sux:e₂[house(hold)]N sux:Enlil[1]DN
+c.1.5.1,Nanna-Suen's journey to Nibru,,159,sux:udu[sheep]N sux:niga[fattened]AJ sux:šag₄[heart]N sux:la₂[to-hang]V
+c.1.5.1,Nanna-Suen's journey to Nibru,,160,sux:Ašimbabbar[1]DN sux:e₂[house(hold)]N sux:Enlil[1]DN
+c.1.5.1,Nanna-Suen's journey to Nibru,,161,sux:tur₃[animal-stall]N sux:luh[to-clean]V
+c.1.5.1,Nanna-Suen's journey to Nibru,,162,sux:Nanna-Suen[1]DN sux:e₂[house(hold)]N sux:Enlil[1]DN
+c.1.5.1,Nanna-Suen's journey to Nibru,,163,sux:ud₅[(nanny)-goat]N sux:niŋ₂-ar₃-ra[groats]N sux:gu₇[to-eat]V
+c.1.5.1,Nanna-Suen's journey to Nibru,,164,sux:Ašimbabbar[1]DN sux:e₂[house(hold)]N sux:Enlil[1]DN
+c.1.5.1,Nanna-Suen's journey to Nibru,,165,sux:ze₂-da-niŋ₂-bar-bar-sur-ra[porcupine?]N
+c.1.5.1,Nanna-Suen's journey to Nibru,,166,sux:Nanna-Suen[1]DN sux:e₂[house(hold)]N sux:Enlil[1]DN
+c.1.5.1,Nanna-Suen's journey to Nibru,,167,sux:peš₂-ŋiš-gi[marsh-rat]N sux:niŋ₂[thing]N sux:kun[tail]N sux:sud[to-be-distant]V sux:kun[tail]N sux:sud[to-be-distant]V
+c.1.5.1,Nanna-Suen's journey to Nibru,,168,sux:šag₄[heart]N sux:gul[to-destroy]V
+c.1.5.1,Nanna-Suen's journey to Nibru,,169,sux:Ašimbabbar[1]DN sux:e₂[house(hold)]N sux:Enlil[1]DN
+c.1.5.1,Nanna-Suen's journey to Nibru,,170,sux:kušu₂[type-of-sea-creature]N sux:mušen[bird]N sux:tur[to-be-small]V sux:šu[hand]N sux:zu[to-know]V
+c.1.5.1,Nanna-Suen's journey to Nibru,,171,sux:Nanna-Suen[1]DN sux:e₂[house(hold)]N sux:Enlil[1]DN
+c.1.5.1,Nanna-Suen's journey to Nibru,,172,sux:u₅-bi₂[swan?]N sux:tur[to-be-small]V sux:tul₂[well]N sux:de₆[to-carry]V
+c.1.5.1,Nanna-Suen's journey to Nibru,,173,sux:Ašimbabbar[1]DN sux:e₂[house(hold)]N sux:Enlil[1]DN
+c.1.5.1,Nanna-Suen's journey to Nibru,,174,sux:a-zag-gun₃[type-of-bird]N sux:tur[to-be-small]V sux:de₆[to-carry]V
+c.1.5.1,Nanna-Suen's journey to Nibru,,175,sux:Nanna-Suen[1]DN sux:e₂[house(hold)]N sux:Enlil[1]DN
+c.1.5.1,Nanna-Suen's journey to Nibru,,176,sux:suhur[type-of-carp]N sux:šag₄[heart]N sux:sur[to-drip]V
+c.1.5.1,Nanna-Suen's journey to Nibru,,177,sux:Ašimbabbar[1]DN sux:e₂[house(hold)]N sux:Enlil[1]DN
+c.1.5.1,Nanna-Suen's journey to Nibru,,178,sux:eštub[type-of-carp]N sux:zag[side]N sux:la₂[to-hang]V
+c.1.5.1,Nanna-Suen's journey to Nibru,,179,sux:Nanna-Suen[1]DN sux:e₂[house(hold)]N sux:Enlil[1]DN
+c.1.5.1,Nanna-Suen's journey to Nibru,,180,sux:i₃[fatty-substance]N sux:A.NUMUN₂[esparto-grass]N sux:a[water]N sux:de₂[to-pour]V
+c.1.5.1,Nanna-Suen's journey to Nibru,,181,sux:Ašimbabbar[1]DN sux:e₂[house(hold)]N sux:Enlil[1]DN
+c.1.5.1,Nanna-Suen's journey to Nibru,,182,sux:nunuz[egg]N sux:ŋir₃-lam[basket]N sux:sig₉[to-put]V
+c.1.5.1,Nanna-Suen's journey to Nibru,,183,sux:Nanna-Suen[1]DN sux:e₂[house(hold)]N sux:Enlil[1]DN
+c.1.5.1,Nanna-Suen's journey to Nibru,,184,sux:gi[reed]N sux:sumun[to-be-old]V sux:gi[reed]N sux:henbur[shoot]N sux:mud[to-create]V sux:ŋal₂[to-be-(located)]V sux:dug₄[to-say]V
+c.1.5.1,Nanna-Suen's journey to Nibru,,185,sux:Ašimbabbar[1]DN sux:e₂[house(hold)]N sux:Enlil[1]DN
+c.1.5.1,Nanna-Suen's journey to Nibru,,186,sux:u₈[ewe]N sux:600[600]NU sux:sila₄[lamb]N sux:tud[to-give-birth]V
+c.1.5.1,Nanna-Suen's journey to Nibru,,187,sux:udu-utua₂[breeding-ram]N sux:šag₄[heart]N sux:šu[hand]N sux:ba[to-allot]V
+c.1.5.1,Nanna-Suen's journey to Nibru,,188,sux:gu₂[neck]N sux:Surungal[1]WN sux:ba[to-allot]V
+c.1.5.1,Nanna-Suen's journey to Nibru,,189,sux:Nanna-Suen[1]DN sux:e₂[house(hold)]N sux:Enlil[1]DN
+c.1.5.1,Nanna-Suen's journey to Nibru,,190,sux:ud₅[(nanny)-goat]N sux:600[600]NU sux:maš₂[(kid)-goat]N sux:tud[to-give-birth]V
+c.1.5.1,Nanna-Suen's journey to Nibru,,191,sux:maš₂-ud₅-da[breeding-goat]N sux:šag₄[heart]N sux:šu[hand]N sux:ba[to-allot]V
+c.1.5.1,Nanna-Suen's journey to Nibru,,192,sux:gu₂[neck]N sux:Surungal[1]WN sux:ba[to-allot]V
+c.1.5.1,Nanna-Suen's journey to Nibru,,193,sux:Ašimbabbar[1]DN sux:e₂[house(hold)]N sux:Enlil[1]DN
+c.1.5.1,Nanna-Suen's journey to Nibru,,194,sux:ab₂[cow]N sux:600[600]NU sux:amar[calf]N sux:tud[to-give-birth]V
+c.1.5.1,Nanna-Suen's journey to Nibru,,195,sux:gud-ab₂-ba[breeding-bull]N sux:šag₄[heart]N sux:šu[hand]N sux:ba[to-allot]V
+c.1.5.1,Nanna-Suen's journey to Nibru,,196,sux:gu₂[neck]N sux:Surungal[1]WN sux:ba[to-allot]V
+c.1.5.1,Nanna-Suen's journey to Nibru,,197,sux:Nanna-Suen[1]DN sux:e₂[house(hold)]N sux:Enlil[1]DN
+c.1.5.1,Nanna-Suen's journey to Nibru,,198,sux:nidba[(food)-offering]N sux:saŋ[head]N sux:Enegir[1]SN sux:eŋer[back]N sux:Urim[1]SN
+c.1.5.1,Nanna-Suen's journey to Nibru,,199,sux:e₂[house(hold)]N sux:e₃[to-go-out-or-in]V sux:e₂[house(hold)]N sux:e₃[to-go-out-or-in]V sux:e₂[house(hold)]N sux:e₃[to-go-out-or-in]V
+c.1.5.1,Nanna-Suen's journey to Nibru,,200,sux:Ningirida[1]DN sux:e₂[house(hold)]N sux:e₃[to-go-out-or-in]V sux:e₂[house(hold)]N sux:e₃[to-go-out-or-in]V
+c.1.5.1,Nanna-Suen's journey to Nibru,,201,sux:silim[to-be-healthy]V sux:me[to-be]V sux:silim[to-be-healthy]V sux:me[to-be]V sux:ma₂[boat]N sux:silim[to-be-healthy]V sux:me[to-be]V
+c.1.5.1,Nanna-Suen's journey to Nibru,,202,sux:ma₂[boat]N sux:Suen[1]DN sux:silim[to-be-healthy]V sux:me[to-be]V sux:ma₂[boat]N sux:silim[to-be-healthy]V sux:me[to-be]V
+c.1.5.1,Nanna-Suen's journey to Nibru,,203,sux:ma₂-gur₈[processional-boat]N sux:zid₂[flour]N sux:gub[to-stand]V sux:duh[bran-mash]N sux:sal[to-be-thin]V
+c.1.5.1,Nanna-Suen's journey to Nibru,,204,sux:ŋiri₃[foot]N sux:gakkul[fermenting-vat]N sux:zabar[bronze]N sux:šu₂[to-cover]V
+c.1.5.1,Nanna-Suen's journey to Nibru,,204A,sux:šu-si[finger]N sux:bulug[sharp-object]N sux:taškarin[box-tree]N sux:bur₁₂[to-tear-out]V
+c.1.5.1,Nanna-Suen's journey to Nibru,,205,sux:aškud₂[wedge]N sux:i₃-he-nun-na[type-of-oil]N sux:šu[hand]N sux:ur₃[to-drag]V
+c.1.5.1,Nanna-Suen's journey to Nibru,,206,sux:šag₄[heart]N sux:i₃-nun[clarified-butter]N sux:lal₃[syrup]N sux:ŋeštin[grape-(wine)]N sux:niŋ₂[thing]N sux:gal[to-be-big]V
+c.1.5.1,Nanna-Suen's journey to Nibru,,207,sux:si[horn]N sux:ma₂-saŋ-ŋa₂[boat's-prow]N sux:suhur[type-of-carp]N sux:eštub[type-of-carp]N sux:ul[to-swell-(with-joy)]V sux:dug₄[to-say]V
+c.1.5.1,Nanna-Suen's journey to Nibru,,208,sux:ma₂[boat]N sux:gu₂[neck]N sux:šum₂[to-give]V sux:Nibru[1]SN sux:ŋen[to-go]V
+c.1.5.1,Nanna-Suen's journey to Nibru,,209,sux:nidba[(food)-offering]N sux:saŋ[head]N sux:Larsam[1]SN sux:eŋer[back]N sux:Enegir[1]SN
+c.1.5.1,Nanna-Suen's journey to Nibru,,210,sux:e₂[house(hold)]N sux:e₃[to-go-out-or-in]V sux:e₂[house(hold)]N sux:e₃[to-go-out-or-in]V sux:e₂[house(hold)]N sux:e₃[to-go-out-or-in]V
+c.1.5.1,Nanna-Suen's journey to Nibru,,211,sux:Šerida[1]DN sux:sag₉[to-be-good]V sux:e₂[house(hold)]N sux:e₃[to-go-out-or-in]V sux:e₂[house(hold)]N sux:e₃[to-go-out-or-in]V
+c.1.5.1,Nanna-Suen's journey to Nibru,,212,sux:silim[to-be-healthy]V sux:me[to-be]V sux:silim[to-be-healthy]V sux:me[to-be]V sux:ma₂[boat]N sux:silim[to-be-healthy]V sux:me[to-be]V
+c.1.5.1,Nanna-Suen's journey to Nibru,,213,sux:ma₂[boat]N sux:a-a[father]N sux:silim[to-be-healthy]V sux:me[to-be]V sux:ma₂[boat]N sux:silim[to-be-healthy]V sux:me[to-be]V
+c.1.5.1,Nanna-Suen's journey to Nibru,,214,sux:ma₂-gur₈[processional-boat]N sux:zid₂[flour]N sux:gub[to-stand]V sux:duh[bran-mash]N sux:sal[to-be-thin]V
+c.1.5.1,Nanna-Suen's journey to Nibru,,215,sux:ŋiri₃[foot]N sux:gakkul[fermenting-vat]N sux:zabar[bronze]N sux:šu₂[to-cover]V
+c.1.5.1,Nanna-Suen's journey to Nibru,,215A,sux:šu-si[finger]N sux:bulug[sharp-object]N sux:taškarin[box-tree]N sux:bur₁₂[to-tear-out]V
+c.1.5.1,Nanna-Suen's journey to Nibru,,216,sux:aškud₂[wedge]N sux:i₃-he-nun-na[type-of-oil]N sux:šu[hand]N sux:ur₃[to-drag]V
+c.1.5.1,Nanna-Suen's journey to Nibru,,217,sux:šag₄[heart]N sux:i₃-nun[clarified-butter]N sux:lal₃[syrup]N sux:ŋeštin[grape-(wine)]N sux:niŋ₂[thing]N sux:gal[to-be-big]V
+c.1.5.1,Nanna-Suen's journey to Nibru,,218,sux:si[horn]N sux:ma₂-saŋ-ŋa₂[boat's-prow]N sux:suhur[type-of-carp]N sux:eštub[type-of-carp]N sux:ul[to-swell-(with-joy)]V sux:dug₄[to-say]V
+c.1.5.1,Nanna-Suen's journey to Nibru,,219,sux:ma₂[boat]N sux:gu₂[neck]N sux:šum₂[to-give]V sux:Nibru[1]SN sux:ŋen[to-go]V
+c.1.5.1,Nanna-Suen's journey to Nibru,,220,sux:nidba[(food)-offering]N sux:saŋ[head]N sux:ki[place]N sux:Unug[1]SN sux:eŋer[back]N sux:Larsam[1]SN
+c.1.5.1,Nanna-Suen's journey to Nibru,,221,sux:e₂[house(hold)]N sux:e₃[to-go-out-or-in]V sux:e₂[house(hold)]N sux:e₃[to-go-out-or-in]V sux:e₂[house(hold)]N sux:e₃[to-go-out-or-in]V
+c.1.5.1,Nanna-Suen's journey to Nibru,,222,sux:kug[shining]AJ sux:Inana[1]DN sux:e₂[house(hold)]N sux:e₃[to-go-out-or-in]V sux:e₂[house(hold)]N sux:e₃[to-go-out-or-in]V
+c.1.5.1,Nanna-Suen's journey to Nibru,,223,sux:silim[to-be-healthy]V sux:me[to-be]V sux:silim[to-be-healthy]V sux:me[to-be]V sux:ma₂[boat]N sux:silim[to-be-healthy]V sux:me[to-be]V
+c.1.5.1,Nanna-Suen's journey to Nibru,,224,sux:ma₂[boat]N sux:a-a[father]N sux:silim[to-be-healthy]V sux:me[to-be]V sux:ma₂[boat]N sux:silim[to-be-healthy]V sux:me[to-be]V
+c.1.5.1,Nanna-Suen's journey to Nibru,,224A,sux:ma₂[boat]N sux:Suen[1]DN sux:silim[to-be-healthy]V sux:me[to-be]V sux:ma₂[boat]N sux:silim[to-be-healthy]V sux:me[to-be]V
+c.1.5.1,Nanna-Suen's journey to Nibru,,225,sux:ma₂-gur₈[processional-boat]N sux:zid₂[flour]N sux:gub[to-stand]V sux:duh[bran-mash]N sux:sal[to-be-thin]V
+c.1.5.1,Nanna-Suen's journey to Nibru,,226,sux:ŋiri₃[foot]N sux:gakkul[fermenting-vat]N sux:zabar[bronze]N sux:šu₂[to-cover]V
+c.1.5.1,Nanna-Suen's journey to Nibru,,226A,sux:šu-si[finger]N sux:bulug[sharp-object]N sux:taškarin[box-tree]N sux:bur₁₂[to-tear-out]V
+c.1.5.1,Nanna-Suen's journey to Nibru,,227,sux:aškud₂[wedge]N sux:i₃-he-nun-na[type-of-oil]N sux:šu[hand]N sux:ur₃[to-drag]V
+c.1.5.1,Nanna-Suen's journey to Nibru,,228,sux:šag₄[heart]N sux:i₃-nun[clarified-butter]N sux:lal₃[syrup]N sux:ŋeštin[grape-(wine)]N sux:niŋ₂[thing]N sux:gal[to-be-big]V
+c.1.5.1,Nanna-Suen's journey to Nibru,,229,sux:si[horn]N sux:ma₂-saŋ-ŋa₂[boat's-prow]N sux:suhur[type-of-carp]N sux:eštub[type-of-carp]N sux:ul[to-swell-(with-joy)]V sux:dug₄[to-say]V
+c.1.5.1,Nanna-Suen's journey to Nibru,,230,sux:ma₂[boat]N sux:gu₂[neck]N sux:šum₂[to-give]V sux:Nibru[1]SN sux:ŋen[to-go]V
+c.1.5.1,Nanna-Suen's journey to Nibru,,231,sux:nidba[(food)-offering]N sux:saŋ[head]N sux:Šuruppag[1]SN sux:eŋer[back]N sux:Unug[1]SN
+c.1.5.1,Nanna-Suen's journey to Nibru,,232,sux:e₂[house(hold)]N sux:e₃[to-go-out-or-in]V sux:e₂[house(hold)]N sux:e₃[to-go-out-or-in]V sux:e₂[house(hold)]N sux:e₃[to-go-out-or-in]V
+c.1.5.1,Nanna-Suen's journey to Nibru,,233,sux:Ninunuga[1]DN sux:e₂[house(hold)]N sux:e₃[to-go-out-or-in]V sux:e₂[house(hold)]N sux:e₃[to-go-out-or-in]V
+c.1.5.1,Nanna-Suen's journey to Nibru,,234,sux:silim[to-be-healthy]V sux:me[to-be]V sux:silim[to-be-healthy]V sux:me[to-be]V sux:ma₂[boat]N sux:silim[to-be-healthy]V sux:me[to-be]V
+c.1.5.1,Nanna-Suen's journey to Nibru,,235,sux:ma₂[boat]N sux:Suen[1]DN sux:silim[to-be-healthy]V sux:me[to-be]V sux:ma₂[boat]N sux:silim[to-be-healthy]V sux:me[to-be]V
+c.1.5.1,Nanna-Suen's journey to Nibru,,236,sux:ma₂-gur₈[processional-boat]N sux:zid₂[flour]N sux:gub[to-stand]V sux:duh[bran-mash]N sux:sal[to-be-thin]V
+c.1.5.1,Nanna-Suen's journey to Nibru,,237,sux:ŋiri₃[foot]N sux:gakkul[fermenting-vat]N sux:zabar[bronze]N sux:šu₂[to-cover]V
+c.1.5.1,Nanna-Suen's journey to Nibru,,237A,sux:šu-si[finger]N sux:bulug[sharp-object]N sux:taškarin[box-tree]N sux:bur₁₂[to-tear-out]V
+c.1.5.1,Nanna-Suen's journey to Nibru,,238,sux:aškud₂[wedge]N sux:i₃-he-nun-na[type-of-oil]N sux:šu[hand]N sux:ur₃[to-drag]V
+c.1.5.1,Nanna-Suen's journey to Nibru,,239,sux:šag₄[heart]N sux:i₃-nun[clarified-butter]N sux:lal₃[syrup]N sux:ŋeštin[grape-(wine)]N sux:niŋ₂[thing]N sux:gal[to-be-big]V
+c.1.5.1,Nanna-Suen's journey to Nibru,,240,sux:si[horn]N sux:ma₂-saŋ-ŋa₂[boat's-prow]N sux:suhur[type-of-carp]N sux:eštub[type-of-carp]N sux:ul[to-swell-(with-joy)]V sux:dug₄[to-say]V
+c.1.5.1,Nanna-Suen's journey to Nibru,,241,sux:ma₂[boat]N sux:gu₂[neck]N sux:šum₂[to-give]V sux:Nibru[1]SN sux:ŋen[to-go]V
+c.1.5.1,Nanna-Suen's journey to Nibru,,242,sux:nidba[(food)-offering]N sux:saŋ[head]N sux:Tummal[1]SN sux:eŋer[back]N sux:Šuruppag[1]SN
+c.1.5.1,Nanna-Suen's journey to Nibru,,243,sux:e₂[house(hold)]N sux:e₃[to-go-out-or-in]V sux:e₂[house(hold)]N sux:e₃[to-go-out-or-in]V sux:e₂[house(hold)]N sux:e₃[to-go-out-or-in]V
+c.1.5.1,Nanna-Suen's journey to Nibru,,244,sux:Ninlil[1]DN sux:sag₉[to-be-good]V sux:e₂[house(hold)]N sux:e₃[to-go-out-or-in]V sux:e₂[house(hold)]N sux:e₃[to-go-out-or-in]V
+c.1.5.1,Nanna-Suen's journey to Nibru,,245,sux:silim[to-be-healthy]V sux:me[to-be]V sux:silim[to-be-healthy]V sux:me[to-be]V sux:ma₂[boat]N sux:silim[to-be-healthy]V sux:me[to-be]V
+c.1.5.1,Nanna-Suen's journey to Nibru,,246,sux:ma₂[boat]N sux:dumu[child]N sux:nun[prince]N sux:silim[to-be-healthy]V sux:me[to-be]V sux:ma₂[boat]N sux:silim[to-be-healthy]V sux:me[to-be]V
+c.1.5.1,Nanna-Suen's journey to Nibru,,247,sux:ma₂-gur₈[processional-boat]N sux:zid₂[flour]N sux:gub[to-stand]V sux:duh[bran-mash]N sux:sal[to-be-thin]V
+c.1.5.1,Nanna-Suen's journey to Nibru,,248,sux:ŋiri₃[foot]N sux:gakkul[fermenting-vat]N sux:zabar[bronze]N sux:šu₂[to-cover]V
+c.1.5.1,Nanna-Suen's journey to Nibru,,248A,sux:šu-si[finger]N sux:bulug[sharp-object]N sux:taškarin[box-tree]N sux:bur₁₂[to-tear-out]V
+c.1.5.1,Nanna-Suen's journey to Nibru,,249,sux:aškud₂[wedge]N sux:i₃-he-nun-na[type-of-oil]N sux:šu[hand]N sux:ur₃[to-drag]V
+c.1.5.1,Nanna-Suen's journey to Nibru,,250,sux:šag₄[heart]N sux:i₃-nun[clarified-butter]N sux:lal₃[syrup]N sux:ŋeštin[grape-(wine)]N sux:niŋ₂[thing]N sux:gal[to-be-big]V
+c.1.5.1,Nanna-Suen's journey to Nibru,,251,sux:si[horn]N sux:ma₂-saŋ-ŋa₂[boat's-prow]N sux:suhur[type-of-carp]N sux:eštub[type-of-carp]N sux:ul[to-swell-(with-joy)]V sux:dug₄[to-say]V
+c.1.5.1,Nanna-Suen's journey to Nibru,,252,sux:ma₂[boat]N sux:gu₂[neck]N sux:šum₂[to-give]V sux:Nibru[1]SN sux:ŋen[to-go]V
+c.1.5.1,Nanna-Suen's journey to Nibru,,253,sux:nidba[(food)-offering]N sux:saŋ[head]N sux:Nibru[1]SN sux:eŋer[back]N sux:Tummal[1]SN
+c.1.5.1,Nanna-Suen's journey to Nibru,,254,sux:kar[quay]N sux:za-gin₃[lapis-lazuli]N sux:kar[quay]N sux:Enlil[1]DN
+c.1.5.1,Nanna-Suen's journey to Nibru,,255,sux:Nanna-Suen[1]DN sux:ma₂[boat]N sux:us₂[to-be-adjacent]V
+c.1.5.1,Nanna-Suen's journey to Nibru,,256,sux:kar[quay]N sux:babbar[white]AJ sux:kar[quay]N sux:Enlil[1]DN
+c.1.5.1,Nanna-Suen's journey to Nibru,,257,sux:Ašimbabbar[1]DN sux:ma₂[boat]N sux:us₂[to-be-adjacent]V
+c.1.5.1,Nanna-Suen's journey to Nibru,,258,sux:kun-saŋ[monumental-stairway]N sux:a-a[father]N sux:ugu[to-give-birth]V sux:gub[to-stand]V
+c.1.5.1,Nanna-Suen's journey to Nibru,,259,sux:i₃-du₈[doorkeeper]N sux:a-a[father]N sux:ugu[to-give-birth]V sux:gu₃[voice]N sux:de₂[to-pour]V
+c.1.5.1,Nanna-Suen's journey to Nibru,,260,sux:e₂[house(hold)]N sux:ŋal₂[to-open]V sux:i₃-du₈[doorkeeper]N sux:e₂[house(hold)]N sux:ŋal₂[to-open]V
+c.1.5.1,Nanna-Suen's journey to Nibru,,261,sux:e₂[house(hold)]N sux:ŋal₂[to-open]V sux:Kalkal[1]DN sux:e₂[house(hold)]N sux:ŋal₂[to-open]V
+c.1.5.1,Nanna-Suen's journey to Nibru,,262,sux:Kalkal[1]DN sux:lu₂-ŋiš-e₃[doorman]N sux:e₂[house(hold)]N sux:ŋal₂[to-open]V
+c.1.5.1,Nanna-Suen's journey to Nibru,,263,sux:lu₂-ŋiš-ed₃[doorkeeper]N sux:ŋiš-e₃[doorman]N sux:e₂[house(hold)]N sux:ŋal₂[to-open]V
+c.1.5.1,Nanna-Suen's journey to Nibru,,264,sux:i₃-du₈[doorkeeper]N sux:e₂[house(hold)]N sux:ŋal₂[to-open]V sux:Kalkal[1]DN sux:e₂[house(hold)]N sux:ŋal₂[to-open]V
+c.1.5.1,Nanna-Suen's journey to Nibru,,265,sux:gud[bull]N sux:tur₃[animal-stall]N sux:gu₂[neck]N sux:gur[to-turn]V
+c.1.5.1,Nanna-Suen's journey to Nibru,,266,sux:Nanna-Suen[1]DN sux:e₂[house(hold)]N sux:Enlil[1]DN sux:i₃-du₈[doorkeeper]N sux:e₂[house(hold)]N sux:ŋal₂[to-open]V
+c.1.5.1,Nanna-Suen's journey to Nibru,,267,sux:udu[sheep]N sux:niga[fattened]AJ sux:šag₄[heart]N sux:la₂[to-hang]V
+c.1.5.1,Nanna-Suen's journey to Nibru,,268,sux:Ašimbabbar[1]DN sux:e₂[house(hold)]N sux:Enlil[1]DN sux:i₃-du₈[doorkeeper]N sux:e₂[house(hold)]N sux:ŋal₂[to-open]V
+c.1.5.1,Nanna-Suen's journey to Nibru,,269,sux:tur₃[animal-stall]N sux:luh[to-clean]V
+c.1.5.1,Nanna-Suen's journey to Nibru,,270,sux:Nanna-Suen[1]DN sux:e₂[house(hold)]N sux:Enlil[1]DN sux:i₃-du₈[doorkeeper]N sux:e₂[house(hold)]N sux:ŋal₂[to-open]V
+c.1.5.1,Nanna-Suen's journey to Nibru,,271,sux:ud₅[(nanny)-goat]N sux:niŋ₂-ar₃-ra[groats]N sux:gu₇[to-eat]V
+c.1.5.1,Nanna-Suen's journey to Nibru,,272,sux:Ašimbabbar[1]DN sux:e₂[house(hold)]N sux:Enlil[1]DN sux:i₃-du₈[doorkeeper]N sux:e₂[house(hold)]N sux:ŋal₂[to-open]V
+c.1.5.1,Nanna-Suen's journey to Nibru,,273,sux:ze₂-da-niŋ₂-bar-bar-sur-ra[porcupine?]N
+c.1.5.1,Nanna-Suen's journey to Nibru,,274,sux:Nanna-Suen[1]DN sux:e₂[house(hold)]N sux:Enlil[1]DN sux:i₃-du₈[doorkeeper]N sux:e₂[house(hold)]N sux:ŋal₂[to-open]V
+c.1.5.1,Nanna-Suen's journey to Nibru,,275,sux:peš₂-ŋiš-gi[marsh-rat]N sux:niŋ₂[thing]N sux:kun[tail]N sux:sud[to-be-distant]V sux:kun[tail]N sux:sud[to-be-distant]V
+c.1.5.1,Nanna-Suen's journey to Nibru,,276,sux:Ašimbabbar[1]DN sux:šag₄[heart]N sux:gul[to-destroy]V
+c.1.5.1,Nanna-Suen's journey to Nibru,,277,sux:Ašimbabbar[1]DN sux:e₂[house(hold)]N sux:Enlil[1]DN sux:i₃-du₈[doorkeeper]N sux:e₂[house(hold)]N sux:ŋal₂[to-open]V
+c.1.5.1,Nanna-Suen's journey to Nibru,,278,sux:kušu₂[type-of-sea-creature]N sux:mušen[bird]N sux:tur[to-be-small]V sux:šu[hand]N sux:zu[to-know]V
+c.1.5.1,Nanna-Suen's journey to Nibru,,279,sux:Nanna-Suen[1]DN sux:e₂[house(hold)]N sux:Enlil[1]DN sux:i₃-du₈[doorkeeper]N sux:e₂[house(hold)]N sux:ŋal₂[to-open]V
+c.1.5.1,Nanna-Suen's journey to Nibru,,280,sux:u₅-bi₂[swan?]N sux:tur[to-be-small]V sux:tul₂[well]N sux:de₆[to-carry]V
+c.1.5.1,Nanna-Suen's journey to Nibru,,281,sux:Ašimbabbar[1]DN sux:e₂[house(hold)]N sux:Enlil[1]DN sux:i₃-du₈[doorkeeper]N sux:e₂[house(hold)]N sux:ŋal₂[to-open]V
+c.1.5.1,Nanna-Suen's journey to Nibru,,282,sux:a-zag-gun₃[type-of-bird]N sux:tur[to-be-small]V sux:tul₂[well]N sux:de₆[to-carry]V
+c.1.5.1,Nanna-Suen's journey to Nibru,,283,sux:Nanna-Suen[1]DN sux:e₂[house(hold)]N sux:Enlil[1]DN sux:i₃-du₈[doorkeeper]N sux:e₂[house(hold)]N sux:ŋal₂[to-open]V
+c.1.5.1,Nanna-Suen's journey to Nibru,,284,sux:suhur[type-of-carp]N sux:šag₄[heart]N sux:sur[to-drip]V
+c.1.5.1,Nanna-Suen's journey to Nibru,,285,sux:Ašimbabbar[1]DN sux:e₂[house(hold)]N sux:Enlil[1]DN sux:i₃-du₈[doorkeeper]N sux:e₂[house(hold)]N sux:ŋal₂[to-open]V
+c.1.5.1,Nanna-Suen's journey to Nibru,,286,sux:eštub[type-of-carp]N sux:zag[side]N sux:la₂[to-hang]V
+c.1.5.1,Nanna-Suen's journey to Nibru,,287,sux:Nanna-Suen[1]DN sux:e₂[house(hold)]N sux:Enlil[1]DN sux:i₃-du₈[doorkeeper]N sux:e₂[house(hold)]N sux:ŋal₂[to-open]V
+c.1.5.1,Nanna-Suen's journey to Nibru,,288,sux:i₃[fatty-substance]N sux:A.NUMUN₂[esparto-grass]N sux:a[water]N sux:de₂[to-pour]V
+c.1.5.1,Nanna-Suen's journey to Nibru,,289,sux:Ašimbabbar[1]DN sux:e₂[house(hold)]N sux:Enlil[1]DN sux:i₃-du₈[doorkeeper]N sux:e₂[house(hold)]N sux:ŋal₂[to-open]V
+c.1.5.1,Nanna-Suen's journey to Nibru,,290,sux:nunuz[egg]N sux:ŋir₃-lam[basket]N sux:sig₉[to-put]V
+c.1.5.1,Nanna-Suen's journey to Nibru,,291,sux:Nanna-Suen[1]DN sux:e₂[house(hold)]N sux:Enlil[1]DN sux:i₃-du₈[doorkeeper]N sux:e₂[house(hold)]N sux:ŋal₂[to-open]V
+c.1.5.1,Nanna-Suen's journey to Nibru,,292,sux:gi[reed]N sux:sumun[to-be-old]V sux:gi[reed]N sux:henbur[shoot]N sux:mud[to-create]V sux:ŋal₂[to-be-(located)]V sux:dug₄[to-say]V
+c.1.5.1,Nanna-Suen's journey to Nibru,,293,sux:Ašimbabbar[1]DN sux:e₂[house(hold)]N sux:Enlil[1]DN sux:i₃-du₈[doorkeeper]N sux:e₂[house(hold)]N sux:ŋal₂[to-open]V
+c.1.5.1,Nanna-Suen's journey to Nibru,,294,sux:u₈[ewe]N sux:600[600]NU sux:sila₄[lamb]N sux:tud[to-give-birth]V
+c.1.5.1,Nanna-Suen's journey to Nibru,,295,sux:udu-utua₂[breeding-ram]N sux:šag₄[heart]N sux:šu[hand]N sux:ba[to-allot]V
+c.1.5.1,Nanna-Suen's journey to Nibru,,296,sux:gu₂[neck]N sux:Surungal[1]WN sux:ba[to-allot]V
+c.1.5.1,Nanna-Suen's journey to Nibru,,297,sux:Nanna-Suen[1]DN sux:e₂[house(hold)]N sux:Enlil[1]DN sux:i₃-du₈[doorkeeper]N sux:e₂[house(hold)]N sux:ŋal₂[to-open]V
+c.1.5.1,Nanna-Suen's journey to Nibru,,298,sux:ud₅[(nanny)-goat]N sux:600[600]NU sux:maš₂[(kid)-goat]N sux:tud[to-give-birth]V
+c.1.5.1,Nanna-Suen's journey to Nibru,,299,sux:maš₂-ud₅-da[breeding-goat]N sux:šag₄[heart]N sux:šu[hand]N sux:ba[to-allot]V
+c.1.5.1,Nanna-Suen's journey to Nibru,,300,sux:gu₂[neck]N sux:Surungal[1]WN sux:ba[to-allot]V
+c.1.5.1,Nanna-Suen's journey to Nibru,,301,sux:Ašimbabbar[1]DN sux:e₂[house(hold)]N sux:Enlil[1]DN sux:i₃-du₈[doorkeeper]N sux:e₂[house(hold)]N sux:ŋal₂[to-open]V
+c.1.5.1,Nanna-Suen's journey to Nibru,,302,sux:ab₂[cow]N sux:600[600]NU sux:amar[calf]N sux:tud[to-give-birth]V
+c.1.5.1,Nanna-Suen's journey to Nibru,,303,sux:gud-ab₂-ba[breeding-bull]N sux:šag₄[heart]N sux:šu[hand]N sux:ba[to-allot]V
+c.1.5.1,Nanna-Suen's journey to Nibru,,304,sux:gu₂[neck]N sux:Surungal[1]WN sux:ba[to-allot]V
+c.1.5.1,Nanna-Suen's journey to Nibru,,305,sux:Nanna-Suen[1]DN sux:e₂[house(hold)]N sux:Enlil[1]DN sux:i₃-du₈[doorkeeper]N sux:e₂[house(hold)]N sux:ŋal₂[to-open]V
+c.1.5.1,Nanna-Suen's journey to Nibru,,306,sux:i₃-du₈[doorkeeper]N sux:e₂[house(hold)]N sux:ŋal₂[to-open]V sux:Kalkal[1]DN sux:e₂[house(hold)]N sux:ŋal₂[to-open]V
+c.1.5.1,Nanna-Suen's journey to Nibru,,307,sux:niŋ₂[thing]N sux:saŋ[head]N sux:ma₂[boat]N sux:nesaŋ[(first-fruit)-offering]N sux:šum₂[to-give]V
+c.1.5.1,Nanna-Suen's journey to Nibru,,308,sux:niŋ₂[thing]N sux:eŋer[back]N sux:ma₂[boat]N sux:niŋ₂[thing]N sux:eŋer[back]N sux:šum₂[to-give]V
+c.1.5.1,Nanna-Suen's journey to Nibru,,309,sux:hul₂[to-be-happy]V sux:i₃-du₈[doorkeeper]N sux:hul₂[to-be-happy]V
+c.1.5.1,Nanna-Suen's journey to Nibru,,310,sux:i₃-du₈[doorkeeper]N sux:hul₂[to-be-happy]V sux:e₂[house(hold)]N sux:taka₄[to-leave-behind]V sux:la₂[to-hang]V
+c.1.5.1,Nanna-Suen's journey to Nibru,,311,sux:Kalkal[1]DN sux:lu₂-ŋiš-e₃[doorman]N sux:hul₂[to-be-happy]V
+c.1.5.1,Nanna-Suen's journey to Nibru,,312,sux:i₃-du₈[doorkeeper]N sux:hul₂[to-be-happy]V sux:e₂[house(hold)]N sux:taka₄[to-leave-behind]V sux:la₂[to-hang]V
+c.1.5.1,Nanna-Suen's journey to Nibru,,313,sux:Kalkal[1]DN sux:lu₂-mud[bolt-handler]N sux:hul₂[to-be-happy]V
+c.1.5.1,Nanna-Suen's journey to Nibru,,314,sux:i₃-du₈[doorkeeper]N sux:hul₂[to-be-happy]V sux:e₂[house(hold)]N sux:taka₄[to-leave-behind]V sux:la₂[to-hang]V
+c.1.5.1,Nanna-Suen's journey to Nibru,,315,sux:kur[(mountain)-land]N sux:igi[eye]N sux:ŋal₂[to-be-(located)]V sux:e₂[house(hold)]N sux:Enlil[1]DN
+c.1.5.1,Nanna-Suen's journey to Nibru,,316,sux:Nanna-Suen[1]DN sux:nidba[(food)-offering]N sux:si[horn]N sux:sa₂[to-equal]V
+c.1.5.1,Nanna-Suen's journey to Nibru,,317,sux:Enlil[1]DN sux:nidba[(food)-offering]N sux:hul₂[to-be-happy]V
+c.1.5.1,Nanna-Suen's journey to Nibru,,318,sux:dumu[child]N sux:Suen[1]DN sux:ninda[bread]N sux:ba[to-allot]V
+c.1.5.1,Nanna-Suen's journey to Nibru,,319,sux:Suen[1]DN sux:Enlil[1]DN sux:hul₂[to-be-happy]V sux:mi₂[(loving)-care]N sux:zid[right]AJ sux:dug₄[to-say]V
+c.1.5.1,Nanna-Suen's journey to Nibru,,320,sux:lu₂-tur[child]N sux:lu₂[person]N sux:gug₂[cake]N sux:gu₇[to-eat]V sux:gug₂[cake]N sux:šum₂[to-give]V
+c.1.5.1,Nanna-Suen's journey to Nibru,,321,sux:Nanna[1]DN sux:gug₂[cake]N sux:gu₇[to-eat]V sux:ki[place]N sux:aŋ₂[to-measure]V sux:gug₂[cake]N sux:šum₂[to-give]V
+c.1.5.1,Nanna-Suen's journey to Nibru,,322,sux:ninda-ba[bread-allotment]N sux:u₃[and]C sux:ninda[bread]N sux:mah[to-be-majestic]V sux:E-kur[1]TN sux:e₃[to-go-out-or-in]V
+c.1.5.1,Nanna-Suen's journey to Nibru,,323,sux:kaš[beer]N sux:sig₅[to-be-fine]V sux:a₂[arm]N sux:sikil[to-be-pure]V sux:de₂[to-pour]V
+c.1.5.1,Nanna-Suen's journey to Nibru,,324,sux:ti-lim-da[type-of-vessel]N sux:uru₁₆[to-be-towering]V sux:ki[place]N sux:us₂[to-be-adjacent]V sux:mu[name]N
+c.1.5.1,Nanna-Suen's journey to Nibru,,325,sux:gug₂[cake]N sux:gi-rin[to-be-clear]V sux:lal₃[syrup]N sux:si-gug₂[crescent-shaped-cake]N sux:a[water]N sux:sikil[to-be-pure]V sux:dug₄[to-say]V
+c.1.5.1,Nanna-Suen's journey to Nibru,,326,sux:Suen[1]DN sux:a-a[father]N sux:ugu[to-give-birth]V sux:gi₄[to-return]V
+c.1.5.1,Nanna-Suen's journey to Nibru,,327,sux:a-a[father]N sux:ugu[to-give-birth]V sux:gu₇[to-eat]V sux:si[to-fill]V
+c.1.5.1,Nanna-Suen's journey to Nibru,,328,sux:kur[(mountain)-land]N sux:gal[to-be-big]V sux:a-a[father]N sux:ugu[to-give-birth]V sux:naŋ[to-drink]V sux:si[to-fill]V
+c.1.5.1,Nanna-Suen's journey to Nibru,,329,sux:igi[eye]N sux:il₂[to-raise]V sux:nam-lugal[kingship]N
+c.1.5.1,Nanna-Suen's journey to Nibru,,330,sux:Enlil[1]DN sux:he₂-ŋal₂[plenty]N sux:gub[to-stand]V
+c.1.5.1,Nanna-Suen's journey to Nibru,,331,sux:šum₂[to-give]V sux:Enlil[1]DN sux:šum₂[to-give]V sux:Urim[1]SN sux:ŋen[to-go]V
+c.1.5.1,Nanna-Suen's journey to Nibru,,332,sux:id₂[watercourse]N sux:a-eštub[carp(-filled)-water]N sux:šum₂[to-give]V sux:Urim[1]SN sux:ŋen[to-go]V
+c.1.5.1,Nanna-Suen's journey to Nibru,,333,sux:a-šag₄[field]N sux:še[barley]N sux:gu-nu[flax]N sux:šum₂[to-give]V sux:Urim[1]SN sux:ŋen[to-go]V
+c.1.5.1,Nanna-Suen's journey to Nibru,,334,sux:ambar[marsh]N sux:ku₆-da[type-of-carp]N sux:suhur[type-of-carp]N sux:šum₂[to-give]V sux:Urim[1]SN sux:ŋen[to-go]V
+c.1.5.1,Nanna-Suen's journey to Nibru,,335,sux:ŋiš-gi[reedbed]N sux:gi[reed]N sux:sumun[to-be-old]V sux:gi[reed]N sux:henbur[shoot]N sux:šum₂[to-give]V sux:Urim[1]SN sux:ŋen[to-go]V
+c.1.5.1,Nanna-Suen's journey to Nibru,,336,sux:tir[forest]N sux:šeg₉[wild-sheep?]N sux:šeg₉-bar[fallow-deer?]N sux:šum₂[to-give]V sux:Urim[1]SN sux:ŋen[to-go]V
+c.1.5.1,Nanna-Suen's journey to Nibru,,337,sux:an-edin[high-plain]N sux:maš-gurum[type-of-tree]N sux:šum₂[to-give]V sux:Urim[1]SN sux:ŋen[to-go]V
+c.1.5.1,Nanna-Suen's journey to Nibru,,338,sux:pu₂-kiri₆[orchard]N sux:lal₃[syrup]N sux:ŋeštin[grape-(wine)]N sux:šum₂[to-give]V sux:Urim[1]SN sux:ŋen[to-go]V
+c.1.5.1,Nanna-Suen's journey to Nibru,,339,sux:e₂-gal[palace]N sux:zi[life-(breath)]N sux:su₃-ud-ŋal₂[long-lasting]AJ sux:šum₂[to-give]V sux:Urim[1]SN sux:ŋen[to-go]V
+c.1.5.1,Nanna-Suen's journey to Nibru,,340,sux:šum₂[to-give]V sux:Enlil[1]DN sux:šum₂[to-give]V sux:Urim[1]SN sux:ŋen[to-go]V
+c.1.5.1,Nanna-Suen's journey to Nibru,,341,sux:id₂[watercourse]N sux:a-eštub[carp(-filled)-water]N sux:šum₂[to-give]V sux:Urim[1]SN sux:ŋen[to-go]V
+c.1.5.1,Nanna-Suen's journey to Nibru,,342,sux:a-šag₄[field]N sux:še[barley]N sux:gu-nu[flax]N sux:šum₂[to-give]V sux:Urim[1]SN sux:ŋen[to-go]V
+c.1.5.1,Nanna-Suen's journey to Nibru,,343,sux:ambar[marsh]N sux:ku₆-da[type-of-carp]N sux:suhur[type-of-carp]N sux:šum₂[to-give]V sux:Urim[1]SN sux:ŋen[to-go]V
+c.1.5.1,Nanna-Suen's journey to Nibru,,344,sux:ŋiš-gi[reedbed]N sux:gi[reed]N sux:sumun[to-be-old]V sux:gi[reed]N sux:henbur[shoot]N sux:šum₂[to-give]V sux:Urim[1]SN sux:ŋen[to-go]V
+c.1.5.1,Nanna-Suen's journey to Nibru,,345,sux:tir[forest]N sux:šeg₉[wild-sheep?]N sux:šeg₉-bar[fallow-deer?]N sux:šum₂[to-give]V sux:Urim[1]SN sux:ŋen[to-go]V
+c.1.5.1,Nanna-Suen's journey to Nibru,,346,sux:an-edin[high-plain]N sux:maš-gurum[type-of-tree]N sux:šum₂[to-give]V sux:Urim[1]SN sux:ŋen[to-go]V
+c.1.5.1,Nanna-Suen's journey to Nibru,,347,sux:pu₂-kiri₆[orchard]N sux:lal₃[syrup]N sux:ŋeštin[grape-(wine)]N sux:šum₂[to-give]V sux:Urim[1]SN sux:ŋen[to-go]V
+c.1.5.1,Nanna-Suen's journey to Nibru,,348,sux:e₂-gal[palace]N sux:zi[life-(breath)]N sux:su₃-ud-ŋal₂[long-lasting]AJ sux:šum₂[to-give]V sux:Urim[1]SN sux:ŋen[to-go]V
+c.1.5.1,Nanna-Suen's journey to Nibru,,349,sux:lugal[king]N sux:barag[dais]N sux:Enlil[1]DN
+c.1.5.1,Nanna-Suen's journey to Nibru,,350,sux:Nanna-Suen[1]DN sux:ud[day(light)]N sux:7[7]NU sux:tud[to-give-birth]V
+c.1.5.1,Nanna-Suen's journey to Nibru,,351,sux:barag[dais]N sux:kug[shining]AJ sux:ama[mother]N sux:gal[to-be-big]V sux:Ninlil[1]DN
+c.1.5.1,Nanna-Suen's journey to Nibru,,352,sux:en[lord]N sux:Ašimbabbar[1]DN sux:ud[day(light)]N sux:7[7]NU sux:tud[to-give-birth]V

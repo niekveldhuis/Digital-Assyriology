@@ -1,4 +1,4 @@
-etcsl_no,text_name,version,l_no,text
+id_text,text_name,version,l_no,text
 c.2.6.9.1,A prayer to Enlil for Rīm-Sîn (Rīm-Sîn A),,1,sux:Enlil[1]DN sux:lugal[king]N sux:an[sky]N sux:ki[place]N sux:niŋduga[speech]N sux:zid[right]V/i sux:inim[word]N
 c.2.6.9.1,A prayer to Enlil for Rīm-Sîn (Rīm-Sîn A),,2,sux:Rimsin[1]RN sux:sipad[shepherd]N sux:ud[storm]N sux:gi[turn]V/i sux:lugal[king]N
 c.2.6.9.1,A prayer to Enlil for Rīm-Sîn (Rīm-Sîn A),,3,sux:niŋgu[food]N sux:zi[life]N sux:til[live]V/i sux:Nibru[1]SN sux:du[build]V/t sux:šum[give]V/t sux:šud[prayer]N sux:ša[cvve]V/t

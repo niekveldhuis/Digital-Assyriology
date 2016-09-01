@@ -1,4 +1,4 @@
-etcsl_no,text_name,version,l_no,text
+id_text,text_name,version,l_no,text
 c.6.1.23,Proverbs: collection 23,,A1,sux:id[river]N
 c.6.1.23,Proverbs: collection 23,,A2,
 c.6.1.23,Proverbs: collection 23,,A3,sux:apap[pipe]N sux:lu[person]N

@@ -1,4 +1,4 @@
-etcsl_no,text_name,version,l_no,text
+id_text,text_name,version,l_no,text
 c.2.6.9.3,A prayer to An for Rīm-Sîn (Rīm-Sîn C),,1,sux:sipad[shepherd]N sux:mu[name]N sux:pad[find]V/t sux:An[1]DN sux:kug[pure]V/i sux:nam[fate]N sux:gal[big]V/i sux:an[sky]N sux:tar[cut]V/t
 c.2.6.9.3,A prayer to An for Rīm-Sîn (Rīm-Sîn C),,2,sux:Rimsin[1]RN sux:mu[name]N sux:pad[find]V/t sux:An[1]DN sux:kug[pure]V/i sux:nam[fate]N sux:gal[big]V/i sux:an[sky]N sux:tar[cut]V/t
 c.2.6.9.3,A prayer to An for Rīm-Sîn (Rīm-Sîn C),,3,sux:nun[prince]N sux:šag[heart]N sux:zid[right]V/i sux:namlugal[kingship]N sux:sa[equal]V/t

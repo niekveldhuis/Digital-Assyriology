@@ -1,4 +1,4 @@
-etcsl_no,text_name,version,l_no,text
+id_text,text_name,version,l_no,text
 c.2.5.5.5,A šir-namgala to Ninisina for Lipit-Eštar (Lipit-Eštar E),,1,sux:Ninisinak[1]DN sux:dumu[child]N sux:gal[big]V/i sux:An[1]DN sux:egia[bride]N sux:gal[big]V/i sux:nir[trust]N sux:gub[stand]V/i
 c.2.5.5.5,A šir-namgala to Ninisina for Lipit-Eštar (Lipit-Eštar E),,2,sux:Lipiteštar[1]RN sux:ua[provisioner]N sux:me[be]V/i sux:ane[he]IP sux:dug[speak]V/t
 c.2.5.5.5,A šir-namgala to Ninisina for Lipit-Eštar (Lipit-Eštar E),,3,sux:šagbatuku[notation]N

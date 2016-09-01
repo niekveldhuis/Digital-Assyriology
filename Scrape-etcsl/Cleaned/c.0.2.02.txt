@@ -1,4 +1,4 @@
-etcsl_no,text_name,version,l_no,text
+id_text,text_name,version,l_no,text
 c.0.2.02,OB catalogue in the Louvre (L),,5,sux:Enlil[1]DN sux:sud[distant]V/i
 c.0.2.02,OB catalogue in the Louvre (L),,6,sux:nam[lord]N sux:nun[prince]N
 c.0.2.02,OB catalogue in the Louvre (L),,7,sux:ud[sun]N sux:re[that]DP
