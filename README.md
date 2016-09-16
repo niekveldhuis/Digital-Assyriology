@@ -13,7 +13,7 @@ Currently, three Notebooks are available, plus a set of scraped data files.
 
 The process of scraping data from ORACC works in two steps: 1. downloading the HTML files to your local computer and 2. scraping the data from the downloaded HTML files.
 
-The Notebook `Save Oracc HTML files.ipynb` needs a list of identification numbers of the texts that you wish to download. This list should be placed in the directory `Input`, which already contains a few example lists. The list of text IDs should be made with a text editor such as TextEdit (or, if you prefer to use a Word Processor, use the Save As function to create a Plain Text file). The list of text IDs gives the [ORACC](http://oracc.org/projectlists.html) project abbreviation plus the text's P, Q, or X number (consisting of a capital P, Q, or X plus six digits). You find these numbers in the left pane of any ORACC text page (see this [example](http://oracc.museum.upenn.edu/dcclt/Q000001)):
+The Notebook `Save Oracc HTML files.ipynb` needs a list of identification numbers of the texts that you wish to download. This list should be placed in the directory `Input`, which already contains a few example lists. The list of text IDs should be made with a text editor such as TextEdit (or, if you prefer to use a Word Processor, use the Save As function to create a Plain Text file). The list of text IDs gives the [ORACC](http://oracc.org/projectlist.html) project abbreviation plus the text's P, Q, or X number (consisting of a capital P, Q, or X plus six digits). You find these numbers in the left pane of any ORACC text page (see this [example](http://oracc.museum.upenn.edu/dcclt/Q000001)):
 
 dcclt/Q000039
 
