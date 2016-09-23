@@ -1,15 +1,15 @@
 id_text,text_name,l_no,text
-aemw/amarna/P271138,EA 265. A gift acknowledged [vassal letter],001,
-aemw/amarna/P271138,EA 265. A gift acknowledged [vassal letter],002,Taku[2]PN
-aemw/amarna/P271138,EA 265. A gift acknowledged [vassal letter],003,
-aemw/amarna/P271138,EA 265. A gift acknowledged [vassal letter],004,
-aemw/amarna/P271138,EA 265. A gift acknowledged [vassal letter],005,
-aemw/amarna/P271138,EA 265. A gift acknowledged [vassal letter],006,
-aemw/amarna/P271138,EA 265. A gift acknowledged [vassal letter],007,
-aemw/amarna/P271138,EA 265. A gift acknowledged [vassal letter],008,
-aemw/amarna/P271138,EA 265. A gift acknowledged [vassal letter],009,Tahmaya[1]PN
-aemw/amarna/P271138,EA 265. A gift acknowledged [vassal letter],010,
-aemw/amarna/P271138,EA 265. A gift acknowledged [vassal letter],011,Tahmaya[1]PN
-aemw/amarna/P271138,EA 265. A gift acknowledged [vassal letter],012,
-aemw/amarna/P271138,EA 265. A gift acknowledged [vassal letter],013,
-aemw/amarna/P271138,EA 265. A gift acknowledged [vassal letter],014,
+aemw/amarna/P271138,EA 265. A gift acknowledged [vassal letter],001,akk-x-mbperi:ana[to]PRP akk-x-mbperi:šarru[king]N akk-x-mbperi:bēlu[lord]N
+aemw/amarna/P271138,EA 265. A gift acknowledged [vassal letter],002,akk-x-mbperi:umma[saying]PRP akk-x-mbperi:Taku[2]PN akk-x-mbperi:wardu[slave]N
+aemw/amarna/P271138,EA 265. A gift acknowledged [vassal letter],003,akk-x-mbperi:ana[to]PRP akk-x-mbperi:šēpu[foot]N akk-x-mbperi:šarru[king]N akk-x-mbperi:bēlu[lord]N
+aemw/amarna/P271138,EA 265. A gift acknowledged [vassal letter],004,akk-x-mbperi:maqātu[fall]V akk-x-mbperi:awīlu[man]N akk-x-mbperi:wuššuru[exempt]AJ
+aemw/amarna/P271138,EA 265. A gift acknowledged [vassal letter],005,akk-x-mbperi:qadu[together-with]PRP akk-x-mbperi:awīlu[man]N akk-x-mbperi:ana[to]PRP akk-x-mbperi:dagālu[see]V
+aemw/amarna/P271138,EA 265. A gift acknowledged [vassal letter],006,akk-x-mbperi:pānu[front]N akk-x-mbperi:šarru[king]N akk-x-mbperi:bēlu[lord]N
+aemw/amarna/P271138,EA 265. A gift acknowledged [vassal letter],007,akk-x-mbperi:u[and]CNJ akk-x-mbperi:wuššuru[exempt]AJ akk-x-mbperi:šarru[king]N
+aemw/amarna/P271138,EA 265. A gift acknowledged [vassal letter],008,akk-x-mbperi:bēlu[lord]N akk-x-mbperi:šuluhtu[despatch]N
+aemw/amarna/P271138,EA 265. A gift acknowledged [vassal letter],009,akk-x-mbperi:ina[in]PRP akk-x-mbperi:qātu[hand]N akk-x-mbperi:Tahmaya[1]PN
+aemw/amarna/P271138,EA 265. A gift acknowledged [vassal letter],010,akk-x-mbperi:ana[to]PRP akk-x-mbperi:yâšim[to-me]IP akk-x-mbperi:u[and]CNJ akk-x-mbperi:nadnu[given]AJ
+aemw/amarna/P271138,EA 265. A gift acknowledged [vassal letter],011,akk-x-mbperi:Tahmaya[1]PN
+aemw/amarna/P271138,EA 265. A gift acknowledged [vassal letter],012,akk-x-mbperi:kāsu[cup]N akk-x-mbperi:hurāṣu[gold]N
+aemw/amarna/P271138,EA 265. A gift acknowledged [vassal letter],013,akk-x-mbperi:u[and]CNJ akk-x-mbperi:tāpalu[pair-(of-objects)]N akk-x-mbperi:kitû[flax]N
+aemw/amarna/P271138,EA 265. A gift acknowledged [vassal letter],014,akk-x-mbperi:u[and]CNJ akk-x-mbperi:ana[to]PRP akk-x-mbperi:lamādu[learn]V

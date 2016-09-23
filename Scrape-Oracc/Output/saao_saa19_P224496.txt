@@ -1,0 +1,44 @@
+id_text,text_name,l_no,text
+saao/saa19/P224496,SAA 19 193. Tribute of Horses and Mules (CTN 5 p. 93),o 1,ana[to]PRP šarru[king]N bēlu[lord]N
+saao/saa19/P224496,SAA 19 193. Tribute of Horses and Mules (CTN 5 p. 93),o 2,ardu[slave]N Nabu-belu-kaʾʾin[1]PN
+saao/saa19/P224496,SAA 19 193. Tribute of Horses and Mules (CTN 5 p. 93),o 3,lū[may]MOD šulmu[completeness]N ana[to]PRP šarru[king]N bēlu[lord]N
+saao/saa19/P224496,SAA 19 193. Tribute of Horses and Mules (CTN 5 p. 93),o 4,adanniš[very-much]AV adanniš[very-much]AV
+saao/saa19/P224496,SAA 19 193. Tribute of Horses and Mules (CTN 5 p. 93),o 5,annûri[now]AV ṣīru[envoy]N ša[of]DET
+saao/saa19/P224496,SAA 19 193. Tribute of Horses and Mules (CTN 5 p. 93),o 6,išti[with]PRP Marduk-iddina[1]PN alāku[go]V
+saao/saa19/P224496,SAA 19 193. Tribute of Horses and Mules (CTN 5 p. 93),o 7,urû[team]N ša[of]DET sisû[horse]N
+saao/saa19/P224496,SAA 19 193. Tribute of Horses and Mules (CTN 5 p. 93),o 8,ištēn[one]NU urû[team]N ša[of]DET kūdanu[mule]N
+saao/saa19/P224496,SAA 19 193. Tribute of Horses and Mules (CTN 5 p. 93),o 9,gabbu[totality]N ša[that]REL šunu[they]IP ina[in]PRP muhhu[skull]N našû[lifted]AJ
+saao/saa19/P224496,SAA 19 193. Tribute of Horses and Mules (CTN 5 p. 93),o 10,ina[in]PRP muhhu[skull]N ardu[slave]N ēkallu[palace]N anāku[I]IP kī[like]PRP annû[this]DP
+saao/saa19/P224496,SAA 19 193. Tribute of Horses and Mules (CTN 5 p. 93),o 11,qabû[say]V muk[saying]PRP eqlu[field]N
+saao/saa19/P224496,SAA 19 193. Tribute of Horses and Mules (CTN 5 p. 93),o 12,bēlu[lord]N tahūmu[boundary]N muk[saying]PRP
+saao/saa19/P224496,SAA 19 193. Tribute of Horses and Mules (CTN 5 p. 93),o 13,ša[that]REL battubattu[all-round]PRP
+saao/saa19/P224496,SAA 19 193. Tribute of Horses and Mules (CTN 5 p. 93),o 14,muk[saying]PRP akī[as]PRP ša-rēši[eunuch]N
+saao/saa19/P224496,SAA 19 193. Tribute of Horses and Mules (CTN 5 p. 93),o 15,išti[with]PRP lā[not]MOD kīnu[permanent]AJ mâtu[die]V
+saao/saa19/P224496,SAA 19 193. Tribute of Horses and Mules (CTN 5 p. 93),o 16,muk[saying]PRP šumma[if]MOD amāru[see]V lā[not]MOD qabû[say]V mâtu[die]V
+saao/saa19/P224496,SAA 19 193. Tribute of Horses and Mules (CTN 5 p. 93),o 17,muk[saying]PRP anāku[I]IP šemû[hear]V mā[saying]PRP bašû[exist]V
+saao/saa19/P224496,SAA 19 193. Tribute of Horses and Mules (CTN 5 p. 93),o 18,ardu[slave]N ēkallu[palace]N ina[in]PRP bītu[house]N ilu[god]N alpu[ox]N
+saao/saa19/P224496,SAA 19 193. Tribute of Horses and Mules (CTN 5 p. 93),o 19,muk[saying]PRP issurri[perhaps]AV šunu[they]IP
+saao/saa19/P224496,SAA 19 193. Tribute of Horses and Mules (CTN 5 p. 93),o 20,lā[not]MOD
+saao/saa19/P224496,SAA 19 193. Tribute of Horses and Mules (CTN 5 p. 93),r 2',ālu[city]N
+saao/saa19/P224496,SAA 19 193. Tribute of Horses and Mules (CTN 5 p. 93),r 3',annû[this]DP
+saao/saa19/P224496,SAA 19 193. Tribute of Horses and Mules (CTN 5 p. 93),r 4',lā[not]MOD aṣû[go-out]V ilku[(state)-service]N lā[not]MOD alāku[go]V
+saao/saa19/P224496,SAA 19 193. Tribute of Horses and Mules (CTN 5 p. 93),r 5',sisû[horse]N ištu[from]PRP libbu[interior]N ālu[city]N ša[of]DET mātu[land]N lā[not]MOD našû[lifted]AJ
+saao/saa19/P224496,SAA 19 193. Tribute of Horses and Mules (CTN 5 p. 93),r 6',ištu[from]PRP libbu[interior]N karmu[heap]N ahāmiš[one-another]RP
+saao/saa19/P224496,SAA 19 193. Tribute of Horses and Mules (CTN 5 p. 93),r 7',šarru[king]N bēlu[lord]N wadû[know]V batqu[cut-(off)]AJ
+saao/saa19/P224496,SAA 19 193. Tribute of Horses and Mules (CTN 5 p. 93),r 8',gabbu[totality]N hepû[broken]AJ annû[this]DP ālu[city]N ša[of]DET šadû[mountain]N
+saao/saa19/P224496,SAA 19 193. Tribute of Horses and Mules (CTN 5 p. 93),r 9',ammar[as-much-as]REL šalmu[intact]AJ annû[this]DP lā[not]MOD amāru[see]V
+saao/saa19/P224496,SAA 19 193. Tribute of Horses and Mules (CTN 5 p. 93),r 10',anāku[I]IP ilku[state-service]N ina[in]PRP udī-[alone]AV alāku[go]V
+saao/saa19/P224496,SAA 19 193. Tribute of Horses and Mules (CTN 5 p. 93),r 11',maddattu[payment]N gabbu[totality]N
+saao/saa19/P224496,SAA 19 193. Tribute of Horses and Mules (CTN 5 p. 93),r 12',sisû[horse]N ina[in]PRP muhhu[skull]N karāru[put-(down)]V
+saao/saa19/P224496,SAA 19 193. Tribute of Horses and Mules (CTN 5 p. 93),r 13',ūma[today]AV annû[this]DP ālu[city]N ilku[(state)-service]N
+saao/saa19/P224496,SAA 19 193. Tribute of Horses and Mules (CTN 5 p. 93),r 14',našû[lift]V anāku[I]IP sisû[horse]N kūdanu[mule]N
+saao/saa19/P224496,SAA 19 193. Tribute of Horses and Mules (CTN 5 p. 93),r 15',leqû[take]V šumma[if]MOD ālu[city]N ilku[(state)-service]N našû[lifted]AJ
+saao/saa19/P224496,SAA 19 193. Tribute of Horses and Mules (CTN 5 p. 93),r 16',sisû[horse]N ištu[from]PRP muhhu[skull]N našû[lift]V
+saao/saa19/P224496,SAA 19 193. Tribute of Horses and Mules (CTN 5 p. 93),r 17',šunu[they]IP leqû[take]V pīhātu[responsibility]N bīt[where]SBJ sisû[horse]N
+saao/saa19/P224496,SAA 19 193. Tribute of Horses and Mules (CTN 5 p. 93),r 18',ana[to]PRP šarru[king]N bēlu[lord]N qerēbu[approach]V
+saao/saa19/P224496,SAA 19 193. Tribute of Horses and Mules (CTN 5 p. 93),r 19',šaknu[appointee]N kī[like]PRP libbu[interior]N
+saao/saa19/P224496,SAA 19 193. Tribute of Horses and Mules (CTN 5 p. 93),r 20',našû[lift]V šarru[king]N bēlu[lord]N
+saao/saa19/P224496,SAA 19 193. Tribute of Horses and Mules (CTN 5 p. 93),r.e. 21,šarru[king]N bēlu[lord]N wadû[know]V
+saao/saa19/P224496,SAA 19 193. Tribute of Horses and Mules (CTN 5 p. 93),r.e. 22,Bit-Hamban[1]GN
+saao/saa19/P224496,SAA 19 193. Tribute of Horses and Mules (CTN 5 p. 93),e. 1,ša[that]REL habtu[robbed]AJ
+saao/saa19/P224496,SAA 19 193. Tribute of Horses and Mules (CTN 5 p. 93),e. 2,ša-rēši[eunuch]N ša[of]DET šarru[king]N alāku[go]V ālu[city]N amāru[see]V

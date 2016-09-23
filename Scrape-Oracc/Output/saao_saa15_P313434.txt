@@ -1,0 +1,25 @@
+id_text,text_name,l_no,text
+saao/saa15/P313434,SAA 15 025. Attending to an Expedition of 3000 Men in Zabban (CT 53 019),o 1,ana[to]PRP šarru[king]N bēlu[lord]N
+saao/saa15/P313434,SAA 15 025. Attending to an Expedition of 3000 Men in Zabban (CT 53 019),o 2,ardu[slave]N Nabu-belu-kaʾʾin[1]PN
+saao/saa15/P313434,SAA 15 025. Attending to an Expedition of 3000 Men in Zabban (CT 53 019),o 3,lū[may]MOD šulmu[completeness]N ana[to]PRP šarru[king]N bēlu[lord]N
+saao/saa15/P313434,SAA 15 025. Attending to an Expedition of 3000 Men in Zabban (CT 53 019),o 4,māru[son]N šipru[sending]N ša[of]DET Il-yadaʾ[1]PN
+saao/saa15/P313434,SAA 15 025. Attending to an Expedition of 3000 Men in Zabban (CT 53 019),o 5,ṭēmu[(fore)thought]N šū[he]IP
+saao/saa15/P313434,SAA 15 025. Attending to an Expedition of 3000 Men in Zabban (CT 53 019),o 6,qabû[say]V mā[saying]PRP harrānu[way]N
+saao/saa15/P313434,SAA 15 025. Attending to an Expedition of 3000 Men in Zabban (CT 53 019),o 7,ša[of]DET līm[thousand]NU ṣābu[people]N elû[go-up]V
+saao/saa15/P313434,SAA 15 025. Attending to an Expedition of 3000 Men in Zabban (CT 53 019),o 8,ṣābu[people]N sisû[horse]N gabbu[totality]N
+saao/saa15/P313434,SAA 15 025. Attending to an Expedition of 3000 Men in Zabban (CT 53 019),o 9,ina[in]PRP šadû[mountain]N šunu[they]IP anāku[I]IP zukkû[purified]AJ
+saao/saa15/P313434,SAA 15 025. Attending to an Expedition of 3000 Men in Zabban (CT 53 019),o 10,adi[until]PRP muhhu[skull]N ana[to]PRP Zabban[1]GN
+saao/saa15/P313434,SAA 15 025. Attending to an Expedition of 3000 Men in Zabban (CT 53 019),o 11,adi[until]PRP Dadunu[1]GN alāku[go]V
+saao/saa15/P313434,SAA 15 025. Attending to an Expedition of 3000 Men in Zabban (CT 53 019),o 12,etāku[be-on-guard]V maṣṣartu[observation]N
+saao/saa15/P313434,SAA 15 025. Attending to an Expedition of 3000 Men in Zabban (CT 53 019),o 13,elû[go-up]V ištu[from]PRP ammaka[there]AV
+saao/saa15/P313434,SAA 15 025. Attending to an Expedition of 3000 Men in Zabban (CT 53 019),o 14,sahāru[go-around]V ina[in]PRP šēpu[foot]N šadû[mountain]N
+saao/saa15/P313434,SAA 15 025. Attending to an Expedition of 3000 Men in Zabban (CT 53 019),o 15,alāku[go]V pīqat[perhaps]AV
+saao/saa15/P313434,SAA 15 025. Attending to an Expedition of 3000 Men in Zabban (CT 53 019),o 16,ṣābu[people]N annû[this]DP
+saao/saa15/P313434,SAA 15 025. Attending to an Expedition of 3000 Men in Zabban (CT 53 019),r 1,ina[in]PRP muhhu[skull]N ša[that]REL
+saao/saa15/P313434,SAA 15 025. Attending to an Expedition of 3000 Men in Zabban (CT 53 019),r 4,issurri[perhaps]AV
+saao/saa15/P313434,SAA 15 025. Attending to an Expedition of 3000 Men in Zabban (CT 53 019),r 5,šarru[king]N bēlu[lord]N qabû[say]V
+saao/saa15/P313434,SAA 15 025. Attending to an Expedition of 3000 Men in Zabban (CT 53 019),r 6,mā[saying]PRP ṣābu[people]N
+saao/saa15/P313434,SAA 15 025. Attending to an Expedition of 3000 Men in Zabban (CT 53 019),r 7,gabbu[totality]N
+saao/saa15/P313434,SAA 15 025. Attending to an Expedition of 3000 Men in Zabban (CT 53 019),r 8,ša[that]REL adi[until]PRP
+saao/saa15/P313434,SAA 15 025. Attending to an Expedition of 3000 Men in Zabban (CT 53 019),r 10,sisû[horse]N
+saao/saa15/P313434,SAA 15 025. Attending to an Expedition of 3000 Men in Zabban (CT 53 019),r 11,ṣābu[people]N bašû[exist]V

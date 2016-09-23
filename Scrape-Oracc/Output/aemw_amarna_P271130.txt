@@ -1,30 +1,30 @@
 id_text,text_name,l_no,text
-aemw/amarna/P271130,EA 263. Robbed of everything [vassal letter],001,
-aemw/amarna/P271130,EA 263. Robbed of everything [vassal letter],002,
-aemw/amarna/P271130,EA 263. Robbed of everything [vassal letter],003,
-aemw/amarna/P271130,EA 263. Robbed of everything [vassal letter],004,
-aemw/amarna/P271130,EA 263. Robbed of everything [vassal letter],005,
-aemw/amarna/P271130,EA 263. Robbed of everything [vassal letter],006,
-aemw/amarna/P271130,EA 263. Robbed of everything [vassal letter],007,
-aemw/amarna/P271130,EA 263. Robbed of everything [vassal letter],008,
-aemw/amarna/P271130,EA 263. Robbed of everything [vassal letter],009,
-aemw/amarna/P271130,EA 263. Robbed of everything [vassal letter],010,
-aemw/amarna/P271130,EA 263. Robbed of everything [vassal letter],011,
-aemw/amarna/P271130,EA 263. Robbed of everything [vassal letter],012,
-aemw/amarna/P271130,EA 263. Robbed of everything [vassal letter],013,
-aemw/amarna/P271130,EA 263. Robbed of everything [vassal letter],014,
-aemw/amarna/P271130,EA 263. Robbed of everything [vassal letter],015,
-aemw/amarna/P271130,EA 263. Robbed of everything [vassal letter],016,
-aemw/amarna/P271130,EA 263. Robbed of everything [vassal letter],017,
-aemw/amarna/P271130,EA 263. Robbed of everything [vassal letter],018,
-aemw/amarna/P271130,EA 263. Robbed of everything [vassal letter],019,
-aemw/amarna/P271130,EA 263. Robbed of everything [vassal letter],020,
-aemw/amarna/P271130,EA 263. Robbed of everything [vassal letter],021,Puwuru[1]PN
-aemw/amarna/P271130,EA 263. Robbed of everything [vassal letter],022,
-aemw/amarna/P271130,EA 263. Robbed of everything [vassal letter],023,
-aemw/amarna/P271130,EA 263. Robbed of everything [vassal letter],024,
-aemw/amarna/P271130,EA 263. Robbed of everything [vassal letter],025,
-aemw/amarna/P271130,EA 263. Robbed of everything [vassal letter],026,
-aemw/amarna/P271130,EA 263. Robbed of everything [vassal letter],027,
-aemw/amarna/P271130,EA 263. Robbed of everything [vassal letter],028,
-aemw/amarna/P271130,EA 263. Robbed of everything [vassal letter],033,Taku[2]PN
+aemw/amarna/P271130,EA 263. Robbed of everything [vassal letter],001,akk-x-mbperi:ana[to]PRP akk-x-mbperi:šarru[king]N akk-x-mbperi:bēlu[lord]N
+aemw/amarna/P271130,EA 263. Robbed of everything [vassal letter],002,akk-x-mbperi:qabû[say]V
+aemw/amarna/P271130,EA 263. Robbed of everything [vassal letter],003,akk-x-mbperi:umma[saying]PRP akk-x-mbperi:wardu[slave]N
+aemw/amarna/P271130,EA 263. Robbed of everything [vassal letter],004,akk-x-mbperi:ana[to]PRP akk-x-mbperi:šēpu[foot]N akk-x-mbperi:bēlu[lord]N
+aemw/amarna/P271130,EA 263. Robbed of everything [vassal letter],005,akk-x-mbperi:maqātu[fall]V akk-x-mbperi:u[and]CNJ
+aemw/amarna/P271130,EA 263. Robbed of everything [vassal letter],006,akk-x-mbperi:šemû[hear]V akk-x-mbperi:bēlu[lord]N
+aemw/amarna/P271130,EA 263. Robbed of everything [vassal letter],007,akk-x-mbperi:awātu[word]N akk-x-mbperi:wardu[slave]N akk-x-mbperi:inūma[when]SBJ
+aemw/amarna/P271130,EA 263. Robbed of everything [vassal letter],008,akk-x-mbperi:erbu[entered]AJ akk-x-mbperi:ana[to]PRP akk-x-mbperi:bītu[house]N
+aemw/amarna/P271130,EA 263. Robbed of everything [vassal letter],009,akk-x-mbperi:bēlu[lord]N akk-x-mbperi:leqû[taken]AJ
+aemw/amarna/P271130,EA 263. Robbed of everything [vassal letter],010,akk-x-mbperi:gabbu[totality]N akk-x-mbperi:ištu[from]PRP akk-x-mbperi:bītu[house]N akk-x-mbperi:wardu[slave]N
+aemw/amarna/P271130,EA 263. Robbed of everything [vassal letter],011,akk-x-mbperi:leqû[taken]AJ akk-x-mbperi:kaspu[silver]N akk-x-mbperi:leqû[taken]AJ
+aemw/amarna/P271130,EA 263. Robbed of everything [vassal letter],012,akk-x-mbperi:awīlu[man]N akk-x-mbperi:leqû[taken]AJ akk-x-mbperi:immeru[sheep]N qca:ṣuʾnu[sheep]N
+aemw/amarna/P271130,EA 263. Robbed of everything [vassal letter],013,qca:hasalu[be(come)-consumed]V akk-x-mbperi:ālu[city]N akk-x-mbperi:bēlu[lord]N
+aemw/amarna/P271130,EA 263. Robbed of everything [vassal letter],014,akk-x-mbperi:u[and]CNJ akk-x-mbperi:mimma[anything]XP akk-x-mbperi:ša[that]REL akk-x-mbperi:nadnu[given]AJ
+aemw/amarna/P271130,EA 263. Robbed of everything [vassal letter],015,akk-x-mbperi:bēlu[lord]N akk-x-mbperi:ana[to]PRP
+aemw/amarna/P271130,EA 263. Robbed of everything [vassal letter],016,akk-x-mbperi:wardu[slave]N akk-x-mbperi:u[and]CNJ akk-x-mbperi:šūt[he]IP
+aemw/amarna/P271130,EA 263. Robbed of everything [vassal letter],017,akk-x-mbperi:leqû[taken]AJ akk-x-mbperi:u[and]CNJ
+aemw/amarna/P271130,EA 263. Robbed of everything [vassal letter],018,akk-x-mbperi:malāku[discuss]V
+aemw/amarna/P271130,EA 263. Robbed of everything [vassal letter],019,akk-x-mbperi:bēlu[lord]N akk-x-mbperi:ana[to]PRP
+aemw/amarna/P271130,EA 263. Robbed of everything [vassal letter],020,akk-x-mbperi:wardu[slave]N akk-x-mbperi:u[and]CNJ akk-x-mbperi:qabû[said]AJ
+aemw/amarna/P271130,EA 263. Robbed of everything [vassal letter],021,akk-x-mbperi:ina[in]PRP akk-x-mbperi:qātu[hand]N akk-x-mbperi:Puwuru[1]PN
+aemw/amarna/P271130,EA 263. Robbed of everything [vassal letter],022,akk-x-mbperi:awātu[word]N akk-x-mbperi:annû[this]DP akk-x-mbperi:u[and]CNJ
+aemw/amarna/P271130,EA 263. Robbed of everything [vassal letter],023,akk-x-mbperi:wašāru[sink-down]V akk-x-mbperi:bēlu[lord]N
+aemw/amarna/P271130,EA 263. Robbed of everything [vassal letter],024,akk-x-mbperi:awīlu[man]N akk-x-mbperi:maṣṣartu[observation]N
+aemw/amarna/P271130,EA 263. Robbed of everything [vassal letter],025,akk-x-mbperi:u[and]CNJ akk-x-mbperi:sisû[horse]N qca:sūsu[horse]N
+aemw/amarna/P271130,EA 263. Robbed of everything [vassal letter],026,akk-x-mbperi:qabû[said]AJ akk-x-mbperi:bēlu[lord]N
+aemw/amarna/P271130,EA 263. Robbed of everything [vassal letter],027,akk-x-mbperi:ana[to]PRP akk-x-mbperi:wardu[slave]N akk-x-mbperi:ana[to]PRP akk-x-mbperi:sisû[horse]N
+aemw/amarna/P271130,EA 263. Robbed of everything [vassal letter],028,qca:sūsu[horse]N
+aemw/amarna/P271130,EA 263. Robbed of everything [vassal letter],033,akk-x-mbperi:Taku[2]PN

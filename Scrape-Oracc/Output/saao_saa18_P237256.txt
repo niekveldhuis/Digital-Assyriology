@@ -1,0 +1,33 @@
+id_text,text_name,l_no,text
+saao/saa18/P237256,SAA 18 147. Emissaries of the Nabayatean King at Babylon (ABL 1117),o 1,ana[to]PRP šarru[king]N mātu[land]N bēlu[lord]N
+saao/saa18/P237256,SAA 18 147. Emissaries of the Nabayatean King at Babylon (ABL 1117),o 2,ardu[slave]N Nabu-šumu-lišir[1]PN Nabu[1]DN u[and]CNJ Marduk[1]DN
+saao/saa18/P237256,SAA 18 147. Emissaries of the Nabayatean King at Babylon (ABL 1117),o 3,ūmu[day]N arku[long]AJ šattu[year]N dārû[lasting]AJ
+saao/saa18/P237256,SAA 18 147. Emissaries of the Nabayatean King at Babylon (ABL 1117),o 4,haṭṭu[stick]N išaru[straight]AJ kussû[chair]N dārû[lasting]AJ
+saao/saa18/P237256,SAA 18 147. Emissaries of the Nabayatean King at Babylon (ABL 1117),o 5,ana[to]PRP šarru[king]N mātu[land]N bēlu[lord]N nadānu[give]V
+saao/saa18/P237256,SAA 18 147. Emissaries of the Nabayatean King at Babylon (ABL 1117),o 6,ṣīru[envoy]N ša[of]DET Natnu[1]PN
+saao/saa18/P237256,SAA 18 147. Emissaries of the Nabayatean King at Babylon (ABL 1117),o 7,Nabayataya[Nabayatean]EN ana[to]PRP pānu[front]N šarru[king]N Babili[Babylon]GN
+saao/saa18/P237256,SAA 18 147. Emissaries of the Nabayatean King at Babylon (ABL 1117),o 8,kī[like]PRP alāku[go]V Birataya[from-Birati]EN
+saao/saa18/P237256,SAA 18 147. Emissaries of the Nabayatean King at Babylon (ABL 1117),o 9,u[and]CNJ Mat-Aššur[Assyria]GN ša[that]REL ina[in]PRP Kute[Cutha]GN
+saao/saa18/P237256,SAA 18 147. Emissaries of the Nabayatean King at Babylon (ABL 1117),o 10,ṣabtu[seized]AJ ardu[slave]N ša[of]DET šarru[king]N bēlu[lord]N
+saao/saa18/P237256,SAA 18 147. Emissaries of the Nabayatean King at Babylon (ABL 1117),o 11,ana[to]PRP nūptu[(supplementary)-gift]N šarru[king]N Babili[Babylon]GN
+saao/saa18/P237256,SAA 18 147. Emissaries of the Nabayatean King at Babylon (ABL 1117),o 12,ana[to]PRP Natnu[1]PN wabālu[bring]V
+saao/saa18/P237256,SAA 18 147. Emissaries of the Nabayatean King at Babylon (ABL 1117),o 13,ištēn[one]NU Birataya[from-Birati]EN ardu[slave]N ša[of]DET šarru[king]N bēlu[lord]N
+saao/saa18/P237256,SAA 18 147. Emissaries of the Nabayatean King at Babylon (ABL 1117),o 14,ištu[from]PRP Babili[Babylon]GN kī[like]PRP halāqu[be(come)-lost]V
+saao/saa18/P237256,SAA 18 147. Emissaries of the Nabayatean King at Babylon (ABL 1117),o 15,kī[like]PRP
+saao/saa18/P237256,SAA 18 147. Emissaries of the Nabayatean King at Babylon (ABL 1117),o 17,Birataya[from-Birati]EN ardu[slave]N šarru[king]N bēlu[lord]N
+saao/saa18/P237256,SAA 18 147. Emissaries of the Nabayatean King at Babylon (ABL 1117),r 1',ša[of]DET šarru[king]N
+saao/saa18/P237256,SAA 18 147. Emissaries of the Nabayatean King at Babylon (ABL 1117),r 2',ša[of]DET šarru[king]N Babili[Babylon]GN
+saao/saa18/P237256,SAA 18 147. Emissaries of the Nabayatean King at Babylon (ABL 1117),r 3',kī[like]PRP ṣabātu[seize]V ana[to]PRP šarru[king]N bēlu[lord]N
+saao/saa18/P237256,SAA 18 147. Emissaries of the Nabayatean King at Babylon (ABL 1117),r 4',šapāru[send]V zâzu[divide]V yānu[(there)-is-not]V
+saao/saa18/P237256,SAA 18 147. Emissaries of the Nabayatean King at Babylon (ABL 1117),r 5',ana[to]PRP pānu[front]N šarru[king]N bēlu[lord]N
+saao/saa18/P237256,SAA 18 147. Emissaries of the Nabayatean King at Babylon (ABL 1117),r 6',šapāru[send]V hubtu[robbery]N
+saao/saa18/P237256,SAA 18 147. Emissaries of the Nabayatean King at Babylon (ABL 1117),r 7',u[and]CNJ ṣīru[envoy]N ana[to]PRP pānu[front]N rabû[big-one]N
+saao/saa18/P237256,SAA 18 147. Emissaries of the Nabayatean King at Babylon (ABL 1117),r 8',ana[to]PRP muhhu[skull]N Sippar[1]GN šapāru[send]V
+saao/saa18/P237256,SAA 18 147. Emissaries of the Nabayatean King at Babylon (ABL 1117),r 9',adû[now]AV ilu[god]N ana[to]PRP balāṭu[live]V napištu[throat]N
+saao/saa18/P237256,SAA 18 147. Emissaries of the Nabayatean King at Babylon (ABL 1117),r 10',ša[of]DET šarru[king]N bēlu[lord]N ṣullû[beseech]V
+saao/saa18/P237256,SAA 18 147. Emissaries of the Nabayatean King at Babylon (ABL 1117),r 11',Ahu-ṭab[1]PN Birataya[from-Birati]EN
+saao/saa18/P237256,SAA 18 147. Emissaries of the Nabayatean King at Babylon (ABL 1117),r 12',ša[that]REL ana[to]PRP Bit-Amukani[1]GN
+saao/saa18/P237256,SAA 18 147. Emissaries of the Nabayatean King at Babylon (ABL 1117),r 13',šarru[king]N bēlu[lord]N šapāru[send]V
+saao/saa18/P237256,SAA 18 147. Emissaries of the Nabayatean King at Babylon (ABL 1117),r 14',šipirtu[message]N ša[of]DET šarru[king]N ana[to]PRP Bit-Amukani[1]GN
+saao/saa18/P237256,SAA 18 147. Emissaries of the Nabayatean King at Babylon (ABL 1117),r 15',nadānu[give]V enna[now]AV ina[in]PRP pānu[front]N šarru[king]N bēlu[lord]N
+saao/saa18/P237256,SAA 18 147. Emissaries of the Nabayatean King at Babylon (ABL 1117),r 16',wabālu[bring]V yānu[(there)-is-not]V kī[like]PRP ša[that]REL šarru[king]N bēlu[lord]N

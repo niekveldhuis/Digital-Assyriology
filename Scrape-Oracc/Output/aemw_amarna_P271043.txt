@@ -1,39 +1,39 @@
 id_text,text_name,l_no,text
-aemw/amarna/P271043,EA 143. Egyptian ships in Beirut [vassal letter],001,
-aemw/amarna/P271043,EA 143. Egyptian ships in Beirut [vassal letter],002,
-aemw/amarna/P271043,EA 143. Egyptian ships in Beirut [vassal letter],003,ʾAmmunira[1]PN
-aemw/amarna/P271043,EA 143. Egyptian ships in Beirut [vassal letter],004,
-aemw/amarna/P271043,EA 143. Egyptian ships in Beirut [vassal letter],005,
-aemw/amarna/P271043,EA 143. Egyptian ships in Beirut [vassal letter],006,
-aemw/amarna/P271043,EA 143. Egyptian ships in Beirut [vassal letter],009,
-aemw/amarna/P271043,EA 143. Egyptian ships in Beirut [vassal letter],010,
-aemw/amarna/P271043,EA 143. Egyptian ships in Beirut [vassal letter],011,
-aemw/amarna/P271043,EA 143. Egyptian ships in Beirut [vassal letter],012,
-aemw/amarna/P271043,EA 143. Egyptian ships in Beirut [vassal letter],013,
-aemw/amarna/P271043,EA 143. Egyptian ships in Beirut [vassal letter],014,
-aemw/amarna/P271043,EA 143. Egyptian ships in Beirut [vassal letter],015,
-aemw/amarna/P271043,EA 143. Egyptian ships in Beirut [vassal letter],016,
-aemw/amarna/P271043,EA 143. Egyptian ships in Beirut [vassal letter],017,
-aemw/amarna/P271043,EA 143. Egyptian ships in Beirut [vassal letter],018,
-aemw/amarna/P271043,EA 143. Egyptian ships in Beirut [vassal letter],019,
-aemw/amarna/P271043,EA 143. Egyptian ships in Beirut [vassal letter],020,
-aemw/amarna/P271043,EA 143. Egyptian ships in Beirut [vassal letter],021,Biʾruta[Beirut]GN
-aemw/amarna/P271043,EA 143. Egyptian ships in Beirut [vassal letter],022,
-aemw/amarna/P271043,EA 143. Egyptian ships in Beirut [vassal letter],023,
-aemw/amarna/P271043,EA 143. Egyptian ships in Beirut [vassal letter],024,
-aemw/amarna/P271043,EA 143. Egyptian ships in Beirut [vassal letter],025,Biʾruta[Beirut]GN
-aemw/amarna/P271043,EA 143. Egyptian ships in Beirut [vassal letter],026,
-aemw/amarna/P271043,EA 143. Egyptian ships in Beirut [vassal letter],027,
-aemw/amarna/P271043,EA 143. Egyptian ships in Beirut [vassal letter],028,
-aemw/amarna/P271043,EA 143. Egyptian ships in Beirut [vassal letter],029,
-aemw/amarna/P271043,EA 143. Egyptian ships in Beirut [vassal letter],030,
-aemw/amarna/P271043,EA 143. Egyptian ships in Beirut [vassal letter],031,
-aemw/amarna/P271043,EA 143. Egyptian ships in Beirut [vassal letter],032,
-aemw/amarna/P271043,EA 143. Egyptian ships in Beirut [vassal letter],033,
-aemw/amarna/P271043,EA 143. Egyptian ships in Beirut [vassal letter],034,
-aemw/amarna/P271043,EA 143. Egyptian ships in Beirut [vassal letter],035,
-aemw/amarna/P271043,EA 143. Egyptian ships in Beirut [vassal letter],036,
-aemw/amarna/P271043,EA 143. Egyptian ships in Beirut [vassal letter],037,
-aemw/amarna/P271043,EA 143. Egyptian ships in Beirut [vassal letter],038,
-aemw/amarna/P271043,EA 143. Egyptian ships in Beirut [vassal letter],039,
-aemw/amarna/P271043,EA 143. Egyptian ships in Beirut [vassal letter],040,
+aemw/amarna/P271043,EA 143. Egyptian ships in Beirut [vassal letter],001,akk-x-mbperi:ana[to]PRP akk-x-mbperi:šarru[king]N akk-x-mbperi:bēlu[lord]N akk-x-mbperi:šāru[wind]N
+aemw/amarna/P271043,EA 143. Egyptian ships in Beirut [vassal letter],002,akk-x-mbperi:balāṭu[life]N akk-x-mbperi:qabû[say]V
+aemw/amarna/P271043,EA 143. Egyptian ships in Beirut [vassal letter],003,akk-x-mbperi:umma[saying]PRP akk-x-mbperi:ʾAmmunira[1]PN akk-x-mbperi:wardu[slave]N
+aemw/amarna/P271043,EA 143. Egyptian ships in Beirut [vassal letter],004,akk-x-mbperi:u[and]CNJ akk-x-mbperi:eperu[earth]N akk-x-mbperi:ša[of]DET akk-x-mbperi:šēpu[foot]N
+aemw/amarna/P271043,EA 143. Egyptian ships in Beirut [vassal letter],005,akk-x-mbperi:ana[to]PRP akk-x-mbperi:šēpu[foot]N akk-x-mbperi:šarru[king]N akk-x-mbperi:bēlu[lord]N
+aemw/amarna/P271043,EA 143. Egyptian ships in Beirut [vassal letter],006,akk-x-mbperi:u[and]CNJ akk-x-mbperi:maqātu[fall]V
+aemw/amarna/P271043,EA 143. Egyptian ships in Beirut [vassal letter],009,akk-x-mbperi:šarru[king]N akk-x-mbperi:bēlu[lord]N akk-x-mbperi:šāru[wind]N akk-x-mbperi:balāṭu[life]N
+aemw/amarna/P271043,EA 143. Egyptian ships in Beirut [vassal letter],010,akk-x-mbperi:šapāru[send]V akk-x-mbperi:šarru[king]N akk-x-mbperi:bēlu[lord]N
+aemw/amarna/P271043,EA 143. Egyptian ships in Beirut [vassal letter],011,akk-x-mbperi:ana[to]PRP akk-x-mbperi:wardu[slave]N akk-x-mbperi:u[and]CNJ akk-x-mbperi:ana[to]PRP akk-x-mbperi:eperu[earth]N qca:ʾaparu[dust]N
+aemw/amarna/P271043,EA 143. Egyptian ships in Beirut [vassal letter],012,akk-x-mbperi:ša[of]DET akk-x-mbperi:šēpu[foot]N akk-x-mbperi:ana[to]PRP akk-x-mbperi:šipirtu[message]N
+aemw/amarna/P271043,EA 143. Egyptian ships in Beirut [vassal letter],013,akk-x-mbperi:ašru[place]N akk-x-mbperi:bašû[be(come)-at-hand]V
+aemw/amarna/P271043,EA 143. Egyptian ships in Beirut [vassal letter],014,akk-x-mbperi:šipirtu[message]N akk-x-mbperi:šarru[king]N akk-x-mbperi:bēlu[lord]N
+aemw/amarna/P271043,EA 143. Egyptian ships in Beirut [vassal letter],015,akk-x-mbperi:šāru[wind]N akk-x-mbperi:balāṭu[life]N akk-x-mbperi:u[and]CNJ akk-x-mbperi:buʾʾû[look-for]V
+aemw/amarna/P271043,EA 143. Egyptian ships in Beirut [vassal letter],016,akk-x-mbperi:u[and]CNJ akk-x-mbperi:wuššuru[exempt]AJ
+aemw/amarna/P271043,EA 143. Egyptian ships in Beirut [vassal letter],017,akk-x-mbperi:ana[to]PRP akk-x-mbperi:šarru[king]N akk-x-mbperi:bēlu[lord]N akk-x-mbperi:šāru[wind]N akk-x-mbperi:balāṭu[life]N
+aemw/amarna/P271043,EA 143. Egyptian ships in Beirut [vassal letter],018,akk-x-mbperi:šanītu[something-other]N akk-x-mbperi:anumma[now]AV akk-x-mbperi:ina[in]PRP akk-x-mbperi:erēbu[enter]V
+aemw/amarna/P271043,EA 143. Egyptian ships in Beirut [vassal letter],019,akk-x-mbperi:eleppu[ship]N akk-x-mbperi:ša[of]DET akk-x-mbperi:šarru[king]N akk-x-mbperi:bēlu[lord]N
+aemw/amarna/P271043,EA 143. Egyptian ships in Beirut [vassal letter],020,akk-x-mbperi:ša[that]REL akk-x-mbperi:sakpu[pushed-away]AJ
+aemw/amarna/P271043,EA 143. Egyptian ships in Beirut [vassal letter],021,akk-x-mbperi:ina[in]PRP akk-x-mbperi:Biʾruta[Beirut]GN akk-x-mbperi:wuššuru[exempt]AJ
+aemw/amarna/P271043,EA 143. Egyptian ships in Beirut [vassal letter],022,akk-x-mbperi:amtu[maid]N akk-x-mbperi:ša[of]DET akk-x-mbperi:šarru[king]N akk-x-mbperi:bēlu[lord]N
+aemw/amarna/P271043,EA 143. Egyptian ships in Beirut [vassal letter],023,akk-x-mbperi:kīma[like]PRP
+aemw/amarna/P271043,EA 143. Egyptian ships in Beirut [vassal letter],024,akk-x-mbperi:ištu[from]PRP
+aemw/amarna/P271043,EA 143. Egyptian ships in Beirut [vassal letter],025,akk-x-mbperi:kīnanna[so]AV akk-x-mbperi:Biʾruta[Beirut]GN
+aemw/amarna/P271043,EA 143. Egyptian ships in Beirut [vassal letter],026,akk-x-mbperi:ana[to]PRP akk-x-mbperi:šarru[king]N akk-x-mbperi:bēlu[lord]N
+aemw/amarna/P271043,EA 143. Egyptian ships in Beirut [vassal letter],027,akk-x-mbperi:u[and]CNJ akk-x-mbperi:anāku[I]IP akk-x-mbperi:kīma[like]PRP akk-x-mbperi:taṣrahu[(a-horse-groomer)]N
+aemw/amarna/P271043,EA 143. Egyptian ships in Beirut [vassal letter],028,akk-x-mbperi:sisû[horse]N akk-x-mbperi:ša[of]DET
+aemw/amarna/P271043,EA 143. Egyptian ships in Beirut [vassal letter],029,akk-x-mbperi:šarru[king]N akk-x-mbperi:bēlu[lord]N akk-x-mbperi:bašû[be(come)-at-hand]V
+aemw/amarna/P271043,EA 143. Egyptian ships in Beirut [vassal letter],030,akk-x-mbperi:ana[to]PRP akk-x-mbperi:šarru[king]N akk-x-mbperi:bēlu[lord]N akk-x-mbperi:u[and]CNJ
+aemw/amarna/P271043,EA 143. Egyptian ships in Beirut [vassal letter],031,akk-x-mbperi:kī[like]PRP akk-x-mbperi:ana[to]PRP akk-x-mbperi:šarru[king]N akk-x-mbperi:bēlu[lord]N
+aemw/amarna/P271043,EA 143. Egyptian ships in Beirut [vassal letter],032,akk-x-mbperi:šarru[king]N akk-x-mbperi:bēlu[lord]N
+aemw/amarna/P271043,EA 143. Egyptian ships in Beirut [vassal letter],033,akk-x-mbperi:šāru[wind]N akk-x-mbperi:balāṭu[life]N
+aemw/amarna/P271043,EA 143. Egyptian ships in Beirut [vassal letter],034,akk-x-mbperi:ina[in]PRP akk-x-mbperi:libbu[interior]N akk-x-mbperi:eleppu[ship]N akk-x-mbperi:ša[of]DET
+aemw/amarna/P271043,EA 143. Egyptian ships in Beirut [vassal letter],035,akk-x-mbperi:šarru[king]N akk-x-mbperi:bēlu[lord]N akk-x-mbperi:wuššuru[exempt]AJ
+aemw/amarna/P271043,EA 143. Egyptian ships in Beirut [vassal letter],036,akk-x-mbperi:šanītu[something-other]N akk-x-mbperi:lamādu[learn]V akk-x-mbperi:šarru[king]N akk-x-mbperi:bēlu[lord]N
+aemw/amarna/P271043,EA 143. Egyptian ships in Beirut [vassal letter],037,akk-x-mbperi:inūma[when]SBJ akk-x-mbperi:gamru[complete]AJ
+aemw/amarna/P271043,EA 143. Egyptian ships in Beirut [vassal letter],038,akk-x-mbperi:ša[of]DET akk-x-mbperi:šarru[king]N akk-x-mbperi:bēlu[lord]N
+aemw/amarna/P271043,EA 143. Egyptian ships in Beirut [vassal letter],039,akk-x-mbperi:šanītu[something-other]N akk-x-mbperi:lamādu[learn]V akk-x-mbperi:šarru[king]N akk-x-mbperi:bēlu[lord]N
+aemw/amarna/P271043,EA 143. Egyptian ships in Beirut [vassal letter],040,akk-x-mbperi:inūma[when]SBJ akk-x-mbperi:diʾatu[knowledge]N

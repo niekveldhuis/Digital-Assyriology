@@ -1,0 +1,39 @@
+id_text,text_name,l_no,text
+saao/saa10/P333957,SAA 10 196. A King may not Stay in the Dark! (ABL 0005) [from exorcists],o 1,ana[to]PRP šarru[king]N bēlu[lord]N
+saao/saa10/P333957,SAA 10 196. A King may not Stay in the Dark! (ABL 0005) [from exorcists],o 2,ardu[slave]N Adad-šumu-uṣur[1]PN
+saao/saa10/P333957,SAA 10 196. A King may not Stay in the Dark! (ABL 0005) [from exorcists],o 3,lū[may]MOD šulmu[completeness]N ana[to]PRP šarru[king]N bēlu[lord]N
+saao/saa10/P333957,SAA 10 196. A King may not Stay in the Dark! (ABL 0005) [from exorcists],o 4,Nabu[1]DN Marduk[1]DN ilu[god]N
+saao/saa10/P333957,SAA 10 196. A King may not Stay in the Dark! (ABL 0005) [from exorcists],o 5,rabû[big]AJ ša[of]DET šamû[sky]N u[and]CNJ qaqqaru[ground]N
+saao/saa10/P333957,SAA 10 196. A King may not Stay in the Dark! (ABL 0005) [from exorcists],o 6,ana[to]PRP šarru[king]N bēlu[lord]N karābu[pray]V
+saao/saa10/P333957,SAA 10 196. A King may not Stay in the Dark! (ABL 0005) [from exorcists],o 7,ṭūbu[goodness]N libbu[interior]N ṭūbu[goodness]N šīru[flesh]N
+saao/saa10/P333957,SAA 10 196. A King may not Stay in the Dark! (ABL 0005) [from exorcists],o 8,ana[to]PRP šarru[king]N bēlu[lord]N
+saao/saa10/P333957,SAA 10 196. A King may not Stay in the Dark! (ABL 0005) [from exorcists],o 9,tadānu[give]V
+saao/saa10/P333957,SAA 10 196. A King may not Stay in the Dark! (ABL 0005) [from exorcists],o 10,ana[to]PRP piqittu[allocation]N ša[of]DET Belet-parṣi[(Lady-of-Cults)]DN
+saao/saa10/P333957,SAA 10 196. A King may not Stay in the Dark! (ABL 0005) [from exorcists],o 11,šulmu[completeness]N adanniš[very-much]AV
+saao/saa10/P333957,SAA 10 196. A King may not Stay in the Dark! (ABL 0005) [from exorcists],o 12,libbu[interior]N ša[of]DET šarru[king]N bēlu[lord]N
+saao/saa10/P333957,SAA 10 196. A King may not Stay in the Dark! (ABL 0005) [from exorcists],o 13,adanniš[very-much]AV lū[may]MOD ṭābu[good]AJ
+saao/saa10/P333957,SAA 10 196. A King may not Stay in the Dark! (ABL 0005) [from exorcists],o 14,atā[why?]QP šanû[second]NU ina[in]PRP ūmu[day]N
+saao/saa10/P333957,SAA 10 196. A King may not Stay in the Dark! (ABL 0005) [from exorcists],o 15,annû[this]DP paššuru[table]N ina[in]PRP pānu[front]N
+saao/saa10/P333957,SAA 10 196. A King may not Stay in the Dark! (ABL 0005) [from exorcists],o 16,šarru[king]N bēlu[lord]N lā[not]MOD erēbu[enter]V
+saao/saa10/P333957,SAA 10 196. A King may not Stay in the Dark! (ABL 0005) [from exorcists],b.e. 17,ana[to]PRP Šamaš[1]DN
+saao/saa10/P333957,SAA 10 196. A King may not Stay in the Dark! (ABL 0005) [from exorcists],b.e. 18,šarru[king]N ilu[god]N
+saao/saa10/P333957,SAA 10 196. A King may not Stay in the Dark! (ABL 0005) [from exorcists],b.e. 19,mannu[who?]QP adāru[be(come)-dark]V
+saao/saa10/P333957,SAA 10 196. A King may not Stay in the Dark! (ABL 0005) [from exorcists],r 1,ūmu[day]N kalû[totality]N mūšu[night]N
+saao/saa10/P333957,SAA 10 196. A King may not Stay in the Dark! (ABL 0005) [from exorcists],r 2,adāru[be(come)-dark]V tūra[again]AV
+saao/saa10/P333957,SAA 10 196. A King may not Stay in the Dark! (ABL 0005) [from exorcists],r 3,šina[two]NU ūmu[day]N
+saao/saa10/P333957,SAA 10 196. A King may not Stay in the Dark! (ABL 0005) [from exorcists],r 4,šarru[king]N bēlu[lord]N mātu[land]N ṣalmu[effigy]N
+saao/saa10/P333957,SAA 10 196. A King may not Stay in the Dark! (ABL 0005) [from exorcists],r 5,ša[of]DET Šamaš[1]DN šū[he]IP mišlu[half]NU
+saao/saa10/P333957,SAA 10 196. A King may not Stay in the Dark! (ABL 0005) [from exorcists],r 6,ūmu[day]N adāru[be(come)-dark]V
+saao/saa10/P333957,SAA 10 196. A King may not Stay in the Dark! (ABL 0005) [from exorcists],r 7,atāru[be(come)-outsize]V lā[not]MOD ṭābu[good]AJ
+saao/saa10/P333957,SAA 10 196. A King may not Stay in the Dark! (ABL 0005) [from exorcists],r 8,šulmu[completeness]N ša[of]DET mātu[land]N
+saao/saa10/P333957,SAA 10 196. A King may not Stay in the Dark! (ABL 0005) [from exorcists],r 9,ikku[mood]N muṭû[deficit]N
+saao/saa10/P333957,SAA 10 196. A King may not Stay in the Dark! (ABL 0005) [from exorcists],r 10,akālu[eat]V ša[of]DET kusāpu[bread]N
+saao/saa10/P333957,SAA 10 196. A King may not Stay in the Dark! (ABL 0005) [from exorcists],r 11,šatû[drink]V ša[of]DET karānu[vine]N
+saao/saa10/P333957,SAA 10 196. A King may not Stay in the Dark! (ABL 0005) [from exorcists],r 12,basi[soon]AV murṣu[illness]N
+saao/saa10/P333957,SAA 10 196. A King may not Stay in the Dark! (ABL 0005) [from exorcists],r 13,ištu[from]PRP pānu[front]N šarru[king]N našāru[deduct]V
+saao/saa10/P333957,SAA 10 196. A King may not Stay in the Dark! (ABL 0005) [from exorcists],r 14,milku[advice]N damqu[good]AJ hasāsu[be(come)-conscious]V
+saao/saa10/P333957,SAA 10 196. A King may not Stay in the Dark! (ABL 0005) [from exorcists],r 15,karû[be(come)-short]V ikku[mood]N
+saao/saa10/P333957,SAA 10 196. A King may not Stay in the Dark! (ABL 0005) [from exorcists],r 16,lā[not]MOD akālu[eat]V lā[not]MOD šatû[drink]V
+saao/saa10/P333957,SAA 10 196. A King may not Stay in the Dark! (ABL 0005) [from exorcists],r 17,ṭēmu[(fore)thought]N ašāšu[be(come)-distressed]V
+saao/saa10/P333957,SAA 10 196. A King may not Stay in the Dark! (ABL 0005) [from exorcists],r.e. 18,murṣu[illness]N arādu[go-down]V
+saao/saa10/P333957,SAA 10 196. A King may not Stay in the Dark! (ABL 0005) [from exorcists],r.e. 19,annû[this]DP

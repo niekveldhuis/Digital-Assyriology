@@ -1,30 +1,30 @@
 id_text,text_name,l_no,text
-aemw/amarna/P271039,EA 038. A brotherly quarrel [royal letter],o 001,Miṣru[Egypt]GN
-aemw/amarna/P271039,EA 038. A brotherly quarrel [royal letter],o 002,Alašiya[Cyprus]GN
-aemw/amarna/P271039,EA 038. A brotherly quarrel [royal letter],o 003,
-aemw/amarna/P271039,EA 038. A brotherly quarrel [royal letter],o 004,
-aemw/amarna/P271039,EA 038. A brotherly quarrel [royal letter],o 005,
-aemw/amarna/P271039,EA 038. A brotherly quarrel [royal letter],o 006,
-aemw/amarna/P271039,EA 038. A brotherly quarrel [royal letter],o 007,
-aemw/amarna/P271039,EA 038. A brotherly quarrel [royal letter],o 008,
-aemw/amarna/P271039,EA 038. A brotherly quarrel [royal letter],o 009,
-aemw/amarna/P271039,EA 038. A brotherly quarrel [royal letter],o 010,Lukku[1]GN
-aemw/amarna/P271039,EA 038. A brotherly quarrel [royal letter],o 011,
-aemw/amarna/P271039,EA 038. A brotherly quarrel [royal letter],o 012,
-aemw/amarna/P271039,EA 038. A brotherly quarrel [royal letter],o 013,
-aemw/amarna/P271039,EA 038. A brotherly quarrel [royal letter],o 014,
-aemw/amarna/P271039,EA 038. A brotherly quarrel [royal letter],o 015,
-aemw/amarna/P271039,EA 038. A brotherly quarrel [royal letter],o 016,
-aemw/amarna/P271039,EA 038. A brotherly quarrel [royal letter],o 017,
-aemw/amarna/P271039,EA 038. A brotherly quarrel [royal letter],o 018,
-aemw/amarna/P271039,EA 038. A brotherly quarrel [royal letter],o 019,
-aemw/amarna/P271039,EA 038. A brotherly quarrel [royal letter],o 020,
-aemw/amarna/P271039,EA 038. A brotherly quarrel [royal letter],o 021,
-aemw/amarna/P271039,EA 038. A brotherly quarrel [royal letter],o 022,
-aemw/amarna/P271039,EA 038. A brotherly quarrel [royal letter],o 023,
-aemw/amarna/P271039,EA 038. A brotherly quarrel [royal letter],o 024,
-aemw/amarna/P271039,EA 038. A brotherly quarrel [royal letter],o 025,
-aemw/amarna/P271039,EA 038. A brotherly quarrel [royal letter],o 026,
-aemw/amarna/P271039,EA 038. A brotherly quarrel [royal letter],o 027,
-aemw/amarna/P271039,EA 038. A brotherly quarrel [royal letter],o 028,
-aemw/amarna/P271039,EA 038. A brotherly quarrel [royal letter],o 029,
+aemw/amarna/P271039,EA 038. A brotherly quarrel [royal letter],o 001,akk-x-mbperi:ana[to]PRP akk-x-mbperi:šarru[king]N akk-x-mbperi:mātu[land]N akk-x-mbperi:Miṣru[Egypt]GN akk-x-mbperi:ahu[brother]N akk-x-mbperi:qabû[say]V
+aemw/amarna/P271039,EA 038. A brotherly quarrel [royal letter],o 002,akk-x-mbperi:umma[saying]PRP akk-x-mbperi:šarru[king]N akk-x-mbperi:mātu[land]N akk-x-mbperi:Alašiya[Cyprus]GN akk-x-mbperi:ahu[brother]N
+aemw/amarna/P271039,EA 038. A brotherly quarrel [royal letter],o 003,akk-x-mbperi:ana[to]PRP akk-x-mbperi:yâšim[to-me]IP akk-x-mbperi:šulmu[completeness]N akk-x-mbperi:u[and]CNJ akk-x-mbperi:ana[to]PRP akk-x-mbperi:kâšim[to-you]IP akk-x-mbperi:lū[let-it-be]MOD akk-x-mbperi:šulmu[completeness]N
+aemw/amarna/P271039,EA 038. A brotherly quarrel [royal letter],o 004,akk-x-mbperi:ana[to]PRP akk-x-mbperi:bītu[house]N akk-x-mbperi:hīrtu[(equal-ranking)-wife]N akk-x-mbperi:māru[son]N akk-x-mbperi:sisû[horse]N
+aemw/amarna/P271039,EA 038. A brotherly quarrel [royal letter],o 005,akk-x-mbperi:narkabtu[chariot]N akk-x-mbperi:u[and]CNJ akk-x-mbperi:ina[in]PRP akk-x-mbperi:mādu[many-ones]AJ akk-x-mbperi:ṣābu[people]N
+aemw/amarna/P271039,EA 038. A brotherly quarrel [royal letter],o 006,akk-x-mbperi:mātu[land]N akk-x-mbperi:awīlu[man]N akk-x-mbperi:rabû[big-one]N akk-x-mbperi:danniš[very]AV akk-x-mbperi:lū[let-it-be]MOD akk-x-mbperi:šulmu[completeness]N
+aemw/amarna/P271039,EA 038. A brotherly quarrel [royal letter],o 007,akk-x-mbperi:ammīni[why?]AV akk-x-mbperi:ahu[brother]N akk-x-mbperi:awātu[word]N akk-x-mbperi:annû[this]DP
+aemw/amarna/P271039,EA 038. A brotherly quarrel [royal letter],o 008,akk-x-mbperi:ana[to]PRP akk-x-mbperi:yâšim[to-me]IP akk-x-mbperi:qabû[say]V akk-x-mbperi:šū[he]IP akk-x-mbperi:ahu[brother]N
+aemw/amarna/P271039,EA 038. A brotherly quarrel [royal letter],o 009,akk-x-mbperi:lā[not]MOD akk-x-mbperi:edû[know]V akk-x-mbperi:awātu[word]N akk-x-mbperi:annû[this]DP akk-x-mbperi:lā[not]MOD akk-x-mbperi:epēšu[do]V
+aemw/amarna/P271039,EA 038. A brotherly quarrel [royal letter],o 010,akk-x-mbperi:anāku[I]IP akk-x-mbperi:anumma[now]AV akk-x-mbperi:awīlu[man]N akk-x-mbperi:ša[of]DET akk-x-mbperi:mātu[land]N akk-x-mbperi:Lukku[1]GN
+aemw/amarna/P271039,EA 038. A brotherly quarrel [royal letter],o 011,akk-x-mbperi:šattu[year]N akk-x-mbperi:šattu[year]N akk-x-mbperi:ina[in]PRP akk-x-mbperi:mātu[land]N akk-x-mbperi:ālu[city]N akk-x-mbperi:ṣehru[small]AJ
+aemw/amarna/P271039,EA 038. A brotherly quarrel [royal letter],o 012,akk-x-mbperi:leqû[take]V
+aemw/amarna/P271039,EA 038. A brotherly quarrel [royal letter],o 013,akk-x-mbperi:ahu[brother]N akk-x-mbperi:attā[you]IP akk-x-mbperi:qabû[say]V akk-x-mbperi:ana[to]PRP akk-x-mbperi:yâšim[to-me]IP
+aemw/amarna/P271039,EA 038. A brotherly quarrel [royal letter],o 014,akk-x-mbperi:awīlu[man]N akk-x-mbperi:ša[of]DET akk-x-mbperi:mātu[land]N akk-x-mbperi:itti[with]PRP akk-x-mbperi:bašû[be(come)-at-hand]V
+aemw/amarna/P271039,EA 038. A brotherly quarrel [royal letter],o 015,akk-x-mbperi:u[and]CNJ akk-x-mbperi:anāku[I]IP akk-x-mbperi:ahu[brother]N akk-x-mbperi:lā[not]MOD akk-x-mbperi:edû[know]V akk-x-mbperi:kī[like]PRP akk-x-mbperi:itti[with]PRP
+aemw/amarna/P271039,EA 038. A brotherly quarrel [royal letter],o 016,akk-x-mbperi:bašû[be(come)-at-hand]V akk-x-mbperi:šumma[if]MOD akk-x-mbperi:bašû[be(come)-at-hand]V akk-x-mbperi:awīlu[man]N akk-x-mbperi:ša[of]DET akk-x-mbperi:mātu[land]N
+aemw/amarna/P271039,EA 038. A brotherly quarrel [royal letter],o 017,akk-x-mbperi:u[and]CNJ akk-x-mbperi:attā[you]IP akk-x-mbperi:ana[to]PRP akk-x-mbperi:yâšim[to-me]IP akk-x-mbperi:šapāru[send]V akk-x-mbperi:u[and]CNJ akk-x-mbperi:anāku[I]IP
+aemw/amarna/P271039,EA 038. A brotherly quarrel [royal letter],o 018,akk-x-mbperi:kī[like]PRP akk-x-mbperi:libbu[interior]N akk-x-mbperi:epēšu[do]V
+aemw/amarna/P271039,EA 038. A brotherly quarrel [royal letter],o 019,akk-x-mbperi:attā[you]IP akk-x-mbperi:lā[not]MOD akk-x-mbperi:edû[know]V akk-x-mbperi:awīlu[man]N akk-x-mbperi:ša[of]DET akk-x-mbperi:mātu[land]N
+aemw/amarna/P271039,EA 038. A brotherly quarrel [royal letter],o 020,akk-x-mbperi:lā[not]MOD akk-x-mbperi:epēšu[do]V akk-x-mbperi:awātu[word]N akk-x-mbperi:annû[this]DP akk-x-mbperi:šumma[if]MOD
+aemw/amarna/P271039,EA 038. A brotherly quarrel [royal letter],o 021,akk-x-mbperi:epēšu[do]V akk-x-mbperi:awīlu[man]N akk-x-mbperi:ša[of]DET akk-x-mbperi:mātu[land]N akk-x-mbperi:u[and]CNJ akk-x-mbperi:attā[you]IP akk-x-mbperi:kī[like]PRP akk-x-mbperi:libbu[interior]N
+aemw/amarna/P271039,EA 038. A brotherly quarrel [royal letter],o 022,akk-x-mbperi:epēšu[do]V
+aemw/amarna/P271039,EA 038. A brotherly quarrel [royal letter],o 023,akk-x-mbperi:anumma[now]AV akk-x-mbperi:ahu[brother]N akk-x-mbperi:kī[like]PRP akk-x-mbperi:māru[son]N akk-x-mbperi:šipru[sending]N
+aemw/amarna/P271039,EA 038. A brotherly quarrel [royal letter],o 024,akk-x-mbperi:lā[not]MOD akk-x-mbperi:šapāru[send]V akk-x-mbperi:ṭuppu[(clay)-tablet]N akk-x-mbperi:annû[this]DP akk-x-mbperi:ahu[brother]N akk-x-mbperi:ša[of]DET akk-x-mbperi:šarru[king]N
+aemw/amarna/P271039,EA 038. A brotherly quarrel [royal letter],o 025,akk-x-mbperi:šapāru[send]V akk-x-mbperi:ša[that]REL akk-x-mbperi:epēšu[do]V akk-x-mbperi:māru[son]N akk-x-mbperi:šipru[sending]N
+aemw/amarna/P271039,EA 038. A brotherly quarrel [royal letter],o 026,akk-x-mbperi:qabû[say]V
+aemw/amarna/P271039,EA 038. A brotherly quarrel [royal letter],o 027,akk-x-mbperi:šanītu[something-other]N akk-x-mbperi:ayyu[which-one?]XP akk-x-mbperi:abu[father]N akk-x-mbperi:ana[to]PRP
+aemw/amarna/P271039,EA 038. A brotherly quarrel [royal letter],o 028,akk-x-mbperi:abu[father]N akk-x-mbperi:ina[in]PRP akk-x-mbperi:pānānu[previously]AV akk-x-mbperi:epēšu[do]V
+aemw/amarna/P271039,EA 038. A brotherly quarrel [royal letter],o 029,akk-x-mbperi:awātu[word]N akk-x-mbperi:annû[this]DP akk-x-mbperi:u[and]CNJ akk-x-mbperi:inanna[now]AV akk-x-mbperi:ahu[brother]N

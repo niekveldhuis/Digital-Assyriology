@@ -1,0 +1,23 @@
+id_text,text_name,l_no,text
+saao/saa19/P224419,SAA 19 109. Barley from Babylonian Cities (CTN 5 p. 33),o 1,ana[to]PRP šarru[king]N bēlu[lord]N
+saao/saa19/P224419,SAA 19 109. Barley from Babylonian Cities (CTN 5 p. 33),o 2,ardu[slave]N Ašipa[1]PN
+saao/saa19/P224419,SAA 19 109. Barley from Babylonian Cities (CTN 5 p. 33),o 3,līm[thousand]NU kurummatu[ration]N
+saao/saa19/P224419,SAA 19 109. Barley from Babylonian Cities (CTN 5 p. 33),o 4,ša[of]DET Ṣil-Bel[1]PN
+saao/saa19/P224419,SAA 19 109. Barley from Babylonian Cities (CTN 5 p. 33),o 5,rabû[big-one]N ālu[city]N
+saao/saa19/P224419,SAA 19 109. Barley from Babylonian Cities (CTN 5 p. 33),o 6,qurbu[near]AJ rēhtu[remainder]N
+saao/saa19/P224419,SAA 19 109. Barley from Babylonian Cities (CTN 5 p. 33),o 7,kurummatu[ration]N lā[not]MOD tabāku[pour-(out)]V
+saao/saa19/P224419,SAA 19 109. Barley from Babylonian Cities (CTN 5 p. 33),o 8,līm[thousand]NU Nergal-eṭir[1]PN
+saao/saa19/P224419,SAA 19 109. Barley from Babylonian Cities (CTN 5 p. 33),o 9,līm[thousand]NU kurummatu[ration]N ina[in]PRP Sippar[1]GN
+saao/saa19/P224419,SAA 19 109. Barley from Babylonian Cities (CTN 5 p. 33),o 10,kurummatu[ration]N ištu[from]PRP muhhu[skull]N nāru[river]N
+saao/saa19/P224419,SAA 19 109. Barley from Babylonian Cities (CTN 5 p. 33),o 11,patiu[distant]AJ
+saao/saa19/P224419,SAA 19 109. Barley from Babylonian Cities (CTN 5 p. 33),r 1,kurummatu[ration]N karru[put-down]AJ
+saao/saa19/P224419,SAA 19 109. Barley from Babylonian Cities (CTN 5 p. 33),r 2,ana[to]PRP Sippar[1]GN
+saao/saa19/P224419,SAA 19 109. Barley from Babylonian Cities (CTN 5 p. 33),r 3,lā[not]MOD alāku[go]V
+saao/saa19/P224419,SAA 19 109. Barley from Babylonian Cities (CTN 5 p. 33),r 4,kurummatu[ration]N ištu[from]PRP pānu[front]N nāru[river]N
+saao/saa19/P224419,SAA 19 109. Barley from Babylonian Cities (CTN 5 p. 33),r 5,patiu[distant]AJ
+saao/saa19/P224419,SAA 19 109. Barley from Babylonian Cities (CTN 5 p. 33),r 6,šumma[if]MOD šarru[king]N qabû[say]V
+saao/saa19/P224419,SAA 19 109. Barley from Babylonian Cities (CTN 5 p. 33),r 7,mā[saying]PRP alāku[go]V
+saao/saa19/P224419,SAA 19 109. Barley from Babylonian Cities (CTN 5 p. 33),r 8,dullu[trouble]N kâšu[delay]V
+saao/saa19/P224419,SAA 19 109. Barley from Babylonian Cities (CTN 5 p. 33),r 9,šūtu[he]IP
+saao/saa19/P224419,SAA 19 109. Barley from Babylonian Cities (CTN 5 p. 33),r 10,dabābu[speak]V
+saao/saa19/P224419,SAA 19 109. Barley from Babylonian Cities (CTN 5 p. 33),r 11,mā[saying]PRP ištu[from]PRP Kute[Cutha]GN

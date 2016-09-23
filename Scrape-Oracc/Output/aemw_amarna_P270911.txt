@@ -1,48 +1,48 @@
 id_text,text_name,l_no,text
-aemw/amarna/P270911,EA 141. Ammunira of Beirut [vassal letter],001,Šamaš[1]DN
-aemw/amarna/P270911,EA 141. Ammunira of Beirut [vassal letter],002,
-aemw/amarna/P270911,EA 141. Ammunira of Beirut [vassal letter],003,ʾAmmunira[1]PN
-aemw/amarna/P270911,EA 141. Ammunira of Beirut [vassal letter],004,Biʾruta[Beirut]GN
-aemw/amarna/P270911,EA 141. Ammunira of Beirut [vassal letter],005,
-aemw/amarna/P270911,EA 141. Ammunira of Beirut [vassal letter],006,Šamaš[1]DN
-aemw/amarna/P270911,EA 141. Ammunira of Beirut [vassal letter],007,
-aemw/amarna/P270911,EA 141. Ammunira of Beirut [vassal letter],008,
-aemw/amarna/P270911,EA 141. Ammunira of Beirut [vassal letter],009,
-aemw/amarna/P270911,EA 141. Ammunira of Beirut [vassal letter],010,Šamaš[1]DN
-aemw/amarna/P270911,EA 141. Ammunira of Beirut [vassal letter],011,
-aemw/amarna/P270911,EA 141. Ammunira of Beirut [vassal letter],012,
-aemw/amarna/P270911,EA 141. Ammunira of Beirut [vassal letter],013,Šamaš[1]DN
-aemw/amarna/P270911,EA 141. Ammunira of Beirut [vassal letter],014,
-aemw/amarna/P270911,EA 141. Ammunira of Beirut [vassal letter],015,
-aemw/amarna/P270911,EA 141. Ammunira of Beirut [vassal letter],016,Šamaš[1]DN
-aemw/amarna/P270911,EA 141. Ammunira of Beirut [vassal letter],017,
-aemw/amarna/P270911,EA 141. Ammunira of Beirut [vassal letter],018,
-aemw/amarna/P270911,EA 141. Ammunira of Beirut [vassal letter],019,Šamaš[1]DN
-aemw/amarna/P270911,EA 141. Ammunira of Beirut [vassal letter],020,
-aemw/amarna/P270911,EA 141. Ammunira of Beirut [vassal letter],021,
-aemw/amarna/P270911,EA 141. Ammunira of Beirut [vassal letter],022,
-aemw/amarna/P270911,EA 141. Ammunira of Beirut [vassal letter],023,
-aemw/amarna/P270911,EA 141. Ammunira of Beirut [vassal letter],024,
-aemw/amarna/P270911,EA 141. Ammunira of Beirut [vassal letter],025,
-aemw/amarna/P270911,EA 141. Ammunira of Beirut [vassal letter],026,
-aemw/amarna/P270911,EA 141. Ammunira of Beirut [vassal letter],027,
-aemw/amarna/P270911,EA 141. Ammunira of Beirut [vassal letter],028,
-aemw/amarna/P270911,EA 141. Ammunira of Beirut [vassal letter],029,
-aemw/amarna/P270911,EA 141. Ammunira of Beirut [vassal letter],030,
-aemw/amarna/P270911,EA 141. Ammunira of Beirut [vassal letter],031,
-aemw/amarna/P270911,EA 141. Ammunira of Beirut [vassal letter],032,Šamaš[1]DN
-aemw/amarna/P270911,EA 141. Ammunira of Beirut [vassal letter],033,
-aemw/amarna/P270911,EA 141. Ammunira of Beirut [vassal letter],034,
-aemw/amarna/P270911,EA 141. Ammunira of Beirut [vassal letter],035,
-aemw/amarna/P270911,EA 141. Ammunira of Beirut [vassal letter],036,
-aemw/amarna/P270911,EA 141. Ammunira of Beirut [vassal letter],037,Šamaš[1]DN
-aemw/amarna/P270911,EA 141. Ammunira of Beirut [vassal letter],038,
-aemw/amarna/P270911,EA 141. Ammunira of Beirut [vassal letter],039,
-aemw/amarna/P270911,EA 141. Ammunira of Beirut [vassal letter],040,
-aemw/amarna/P270911,EA 141. Ammunira of Beirut [vassal letter],041,
-aemw/amarna/P270911,EA 141. Ammunira of Beirut [vassal letter],042,Šamaš[1]DN
-aemw/amarna/P270911,EA 141. Ammunira of Beirut [vassal letter],043,
-aemw/amarna/P270911,EA 141. Ammunira of Beirut [vassal letter],044,
-aemw/amarna/P270911,EA 141. Ammunira of Beirut [vassal letter],045,
-aemw/amarna/P270911,EA 141. Ammunira of Beirut [vassal letter],046,
-aemw/amarna/P270911,EA 141. Ammunira of Beirut [vassal letter],047,
+aemw/amarna/P270911,EA 141. Ammunira of Beirut [vassal letter],001,akk-x-mbperi:ana[to]PRP akk-x-mbperi:ša[that]REL akk-x-mbperi:šarru[king]N akk-x-mbperi:bēlu[lord]N akk-x-mbperi:Šamaš[1]DN
+aemw/amarna/P270911,EA 141. Ammunira of Beirut [vassal letter],002,akk-x-mbperi:ilu[god]N akk-x-mbperi:šāru[wind]N akk-x-mbperi:balāṭu[life]N
+aemw/amarna/P270911,EA 141. Ammunira of Beirut [vassal letter],003,akk-x-mbperi:qabû[say]V akk-x-mbperi:umma[saying]PRP akk-x-mbperi:ʾAmmunira[1]PN
+aemw/amarna/P270911,EA 141. Ammunira of Beirut [vassal letter],004,akk-x-mbperi:awīlu[man]N akk-x-mbperi:Biʾruta[Beirut]GN akk-x-mbperi:wardu[slave]N akk-x-mbperi:u[and]CNJ akk-x-mbperi:eperu[earth]N qca:ʾaparu[dust]N
+aemw/amarna/P270911,EA 141. Ammunira of Beirut [vassal letter],005,akk-x-mbperi:ša[of]DET akk-x-mbperi:šēpu[foot]N
+aemw/amarna/P270911,EA 141. Ammunira of Beirut [vassal letter],006,akk-x-mbperi:ana[to]PRP akk-x-mbperi:šēpu[foot]N akk-x-mbperi:šarru[king]N akk-x-mbperi:bēlu[lord]N akk-x-mbperi:Šamaš[1]DN akk-x-mbperi:ilu[god]N
+aemw/amarna/P270911,EA 141. Ammunira of Beirut [vassal letter],007,akk-x-mbperi:šāru[wind]N akk-x-mbperi:balāṭu[life]N akk-x-mbperi:u[and]CNJ
+aemw/amarna/P270911,EA 141. Ammunira of Beirut [vassal letter],008,akk-x-mbperi:maqātu[fall]V akk-x-mbperi:šanītu[something-other]N akk-x-mbperi:šemû[hear]V
+aemw/amarna/P270911,EA 141. Ammunira of Beirut [vassal letter],009,akk-x-mbperi:awātu[word]N akk-x-mbperi:ṭuppu[(clay)-tablet]N akk-x-mbperi:ša[of]DET akk-x-mbperi:šarru[king]N akk-x-mbperi:bēlu[lord]N
+aemw/amarna/P270911,EA 141. Ammunira of Beirut [vassal letter],010,akk-x-mbperi:Šamaš[1]DN akk-x-mbperi:ilu[god]N akk-x-mbperi:šāru[wind]N akk-x-mbperi:balāṭu[life]N
+aemw/amarna/P270911,EA 141. Ammunira of Beirut [vassal letter],011,akk-x-mbperi:u[and]CNJ akk-x-mbperi:hadû[joyful]AJ akk-x-mbperi:libbu[interior]N akk-x-mbperi:wardu[slave]N akk-x-mbperi:u[and]CNJ
+aemw/amarna/P270911,EA 141. Ammunira of Beirut [vassal letter],012,akk-x-mbperi:eperu[earth]N akk-x-mbperi:ša[of]DET akk-x-mbperi:šēpu[foot]N akk-x-mbperi:šarru[king]N akk-x-mbperi:bēlu[lord]N
+aemw/amarna/P270911,EA 141. Ammunira of Beirut [vassal letter],013,akk-x-mbperi:Šamaš[1]DN akk-x-mbperi:u[and]CNJ akk-x-mbperi:ilu[god]N akk-x-mbperi:šāru[wind]N akk-x-mbperi:balāṭu[life]N
+aemw/amarna/P270911,EA 141. Ammunira of Beirut [vassal letter],014,akk-x-mbperi:magal[very-(much)]AV akk-x-mbperi:magal[very-(much)]AV akk-x-mbperi:inūma[when]SBJ akk-x-mbperi:waṣû[gone-out]AJ
+aemw/amarna/P270911,EA 141. Ammunira of Beirut [vassal letter],015,akk-x-mbperi:šāru[breath]N akk-x-mbperi:ša[of]DET akk-x-mbperi:šarru[king]N akk-x-mbperi:bēlu[lord]N
+aemw/amarna/P270911,EA 141. Ammunira of Beirut [vassal letter],016,akk-x-mbperi:Šamaš[1]DN akk-x-mbperi:ilu[god]N
+aemw/amarna/P270911,EA 141. Ammunira of Beirut [vassal letter],017,akk-x-mbperi:ana[to]PRP akk-x-mbperi:wardu[slave]N akk-x-mbperi:u[and]CNJ akk-x-mbperi:eperu[earth]N akk-x-mbperi:ša[of]DET akk-x-mbperi:šēpu[foot]N
+aemw/amarna/P270911,EA 141. Ammunira of Beirut [vassal letter],018,akk-x-mbperi:šanītu[something-other]N akk-x-mbperi:inūma[when]SBJ akk-x-mbperi:šapru[sent]AJ akk-x-mbperi:šarru[king]N
+aemw/amarna/P270911,EA 141. Ammunira of Beirut [vassal letter],019,akk-x-mbperi:bēlu[lord]N akk-x-mbperi:Šamaš[1]DN akk-x-mbperi:ana[to]PRP akk-x-mbperi:wardu[slave]N
+aemw/amarna/P270911,EA 141. Ammunira of Beirut [vassal letter],020,akk-x-mbperi:u[and]CNJ akk-x-mbperi:eperu[earth]N akk-x-mbperi:ša[of]DET akk-x-mbperi:šēpu[foot]N
+aemw/amarna/P270911,EA 141. Ammunira of Beirut [vassal letter],021,akk-x-mbperi:ešēru[be(come)-well]V akk-x-mbperi:ana[to]PRP akk-x-mbperi:pānu[front]N
+aemw/amarna/P270911,EA 141. Ammunira of Beirut [vassal letter],022,akk-x-mbperi:ṣābu[people]N akk-x-mbperi:piṭṭātu[archers]N akk-x-mbperi:ša[of]DET akk-x-mbperi:šarru[king]N akk-x-mbperi:bēlu[lord]N
+aemw/amarna/P270911,EA 141. Ammunira of Beirut [vassal letter],023,akk-x-mbperi:šemû[hear]V akk-x-mbperi:magal[very-(much)]AV akk-x-mbperi:magal[very-(much)]AV
+aemw/amarna/P270911,EA 141. Ammunira of Beirut [vassal letter],024,akk-x-mbperi:u[and]CNJ akk-x-mbperi:anumma[now]AV akk-x-mbperi:šūšuru[in-order]AJ
+aemw/amarna/P270911,EA 141. Ammunira of Beirut [vassal letter],025,akk-x-mbperi:qadu[together-with]PRP akk-x-mbperi:sisû[horse]N akk-x-mbperi:u[and]CNJ
+aemw/amarna/P270911,EA 141. Ammunira of Beirut [vassal letter],026,akk-x-mbperi:qadu[together-with]PRP akk-x-mbperi:narkabtu[chariot]N akk-x-mbperi:u[and]CNJ akk-x-mbperi:qadu[together-with]PRP
+aemw/amarna/P270911,EA 141. Ammunira of Beirut [vassal letter],027,akk-x-mbperi:gabbu[totality]N akk-x-mbperi:mimmû[all]N
+aemw/amarna/P270911,EA 141. Ammunira of Beirut [vassal letter],028,akk-x-mbperi:ša[that]REL akk-x-mbperi:bašû[be(come)-at-hand]V akk-x-mbperi:itti[with]PRP
+aemw/amarna/P270911,EA 141. Ammunira of Beirut [vassal letter],029,akk-x-mbperi:wardu[slave]N akk-x-mbperi:ša[of]DET akk-x-mbperi:šarru[king]N akk-x-mbperi:bēlu[lord]N akk-x-mbperi:ana[to]PRP
+aemw/amarna/P270911,EA 141. Ammunira of Beirut [vassal letter],030,akk-x-mbperi:pānu[front]N akk-x-mbperi:ṣābu[people]N akk-x-mbperi:piṭṭātu[archers]N akk-x-mbperi:ša[of]DET akk-x-mbperi:šarru[king]N akk-x-mbperi:bēlu[lord]N
+aemw/amarna/P270911,EA 141. Ammunira of Beirut [vassal letter],031,akk-x-mbperi:u[and]CNJ akk-x-mbperi:lū[let-it-be]MOD qca:raʿaṣu[crush]V akk-x-mbperi:ṣābu[people]N akk-x-mbperi:piṭṭātu[archers]N
+aemw/amarna/P270911,EA 141. Ammunira of Beirut [vassal letter],032,akk-x-mbperi:ša[of]DET akk-x-mbperi:šarru[king]N akk-x-mbperi:bēlu[lord]N akk-x-mbperi:Šamaš[1]DN akk-x-mbperi:ilu[god]N
+aemw/amarna/P270911,EA 141. Ammunira of Beirut [vassal letter],033,akk-x-mbperi:rēšu[head]N akk-x-mbperi:awīlu[man]N akk-x-mbperi:ayyābu[enemy]N
+aemw/amarna/P270911,EA 141. Ammunira of Beirut [vassal letter],034,akk-x-mbperi:u[and]CNJ akk-x-mbperi:lū[let-it-be]MOD akk-x-mbperi:amāru[see]V akk-x-mbperi:īnu[eye]N akk-x-mbperi:wardu[slave]N
+aemw/amarna/P270911,EA 141. Ammunira of Beirut [vassal letter],035,akk-x-mbperi:ina[in]PRP akk-x-mbperi:balāṭu[life]N akk-x-mbperi:ša[of]DET akk-x-mbperi:šarru[king]N akk-x-mbperi:bēlu[lord]N
+aemw/amarna/P270911,EA 141. Ammunira of Beirut [vassal letter],036,akk-x-mbperi:šanītu[something-other]N akk-x-mbperi:u[and]CNJ akk-x-mbperi:amāru[see]V akk-x-mbperi:ṣābu[people]N akk-x-mbperi:piṭṭātu[archers]N akk-x-mbperi:ša[of]DET akk-x-mbperi:šarru[king]N akk-x-mbperi:bēlu[lord]N
+aemw/amarna/P270911,EA 141. Ammunira of Beirut [vassal letter],037,akk-x-mbperi:Šamaš[1]DN akk-x-mbperi:ilu[god]N akk-x-mbperi:šāru[wind]N akk-x-mbperi:balāṭu[life]N
+aemw/amarna/P270911,EA 141. Ammunira of Beirut [vassal letter],038,akk-x-mbperi:târu[turn]V akk-x-mbperi:gimillu[requital]N akk-x-mbperi:wardu[slave]N
+aemw/amarna/P270911,EA 141. Ammunira of Beirut [vassal letter],039,akk-x-mbperi:anumma[now]AV akk-x-mbperi:anāku[I]IP akk-x-mbperi:wardu[slave]N akk-x-mbperi:ša[of]DET akk-x-mbperi:šarru[king]N akk-x-mbperi:bēlu[lord]N
+aemw/amarna/P270911,EA 141. Ammunira of Beirut [vassal letter],040,akk-x-mbperi:u[and]CNJ akk-x-mbperi:gištappu[footstool]N akk-x-mbperi:ša[of]DET akk-x-mbperi:šēpu[foot]N
+aemw/amarna/P270911,EA 141. Ammunira of Beirut [vassal letter],041,akk-x-mbperi:anumma[now]AV akk-x-mbperi:naṣāru[guard]V
+aemw/amarna/P270911,EA 141. Ammunira of Beirut [vassal letter],042,akk-x-mbperi:ālu[city]N akk-x-mbperi:ša[of]DET akk-x-mbperi:šarru[king]N akk-x-mbperi:bēlu[lord]N akk-x-mbperi:Šamaš[1]DN
+aemw/amarna/P270911,EA 141. Ammunira of Beirut [vassal letter],043,akk-x-mbperi:šāru[wind]N akk-x-mbperi:balāṭu[life]N
+aemw/amarna/P270911,EA 141. Ammunira of Beirut [vassal letter],044,akk-x-mbperi:u[and]CNJ akk-x-mbperi:dūru[(city)-wall]N qca:humitu[(city)-wall]N
+aemw/amarna/P270911,EA 141. Ammunira of Beirut [vassal letter],045,akk-x-mbperi:adi[until]PRP akk-x-mbperi:amāru[see]V akk-x-mbperi:īnu[eye]N
+aemw/amarna/P270911,EA 141. Ammunira of Beirut [vassal letter],046,akk-x-mbperi:ṣābu[people]N akk-x-mbperi:piṭṭātu[archers]N akk-x-mbperi:ša[of]DET akk-x-mbperi:šarru[king]N akk-x-mbperi:bēlu[lord]N
+aemw/amarna/P270911,EA 141. Ammunira of Beirut [vassal letter],047,akk-x-mbperi:u[and]CNJ akk-x-mbperi:anumma[now]AV akk-x-mbperi:anāku[I]IP akk-x-mbperi:wardu[slave]N akk-x-mbperi:ša[of]DET akk-x-mbperi:šarru[king]N

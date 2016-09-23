@@ -1,0 +1,44 @@
+id_text,text_name,l_no,text
+saao/saa19/P393618,SAA 19 039. Problems in Exacting Corn Taxes (CTN 5 p. 132 and p. 285),o 1,ana[to]PRP šarru[king]N bēlu[lord]N
+saao/saa19/P393618,SAA 19 039. Problems in Exacting Corn Taxes (CTN 5 p. 132 and p. 285),o 2,ardu[slave]N Šarru-emuranni[1]PN
+saao/saa19/P393618,SAA 19 039. Problems in Exacting Corn Taxes (CTN 5 p. 132 and p. 285),o 3,šanû[second]NU ša[of]DET Isana[1]GN
+saao/saa19/P393618,SAA 19 039. Problems in Exacting Corn Taxes (CTN 5 p. 132 and p. 285),o 4,nusāhu[(a-grain-tax)]N ša[that]REL ina[in]PRP timāli[yesterday]AV
+saao/saa19/P393618,SAA 19 039. Problems in Exacting Corn Taxes (CTN 5 p. 132 and p. 285),o 5,ina[in]PRP šalšūmi[the-day-before-yesterday]AV ša[of]DET Barruqu[1]PN
+saao/saa19/P393618,SAA 19 039. Problems in Exacting Corn Taxes (CTN 5 p. 132 and p. 285),o 6,ša[of]DET Nergal-ašared[1]PN ša[that]REL nasāhu[tear-out]V
+saao/saa19/P393618,SAA 19 039. Problems in Exacting Corn Taxes (CTN 5 p. 132 and p. 285),o 7,ūma[today]AV Bel-aplu-iddina[1]PN qīpu[representative]N
+saao/saa19/P393618,SAA 19 039. Problems in Exacting Corn Taxes (CTN 5 p. 132 and p. 285),o 8,kašādu[reach]V
+saao/saa19/P393618,SAA 19 039. Problems in Exacting Corn Taxes (CTN 5 p. 132 and p. 285),o 9,šarru[king]N bēlu[lord]N qabû[say]V mā[saying]PRP ša-qurbūti[close-follower]N
+saao/saa19/P393618,SAA 19 039. Problems in Exacting Corn Taxes (CTN 5 p. 132 and p. 285),o 10,lā[not]MOD zakû[pure]AJ ša[that]REL ina[in]PRP libbu[interior]N unqu[ring]N šarru[king]N
+saao/saa19/P393618,SAA 19 039. Problems in Exacting Corn Taxes (CTN 5 p. 132 and p. 285),o 11,zakû[pure]AJ ša[that]REL eqlu[field]N kânu[be(come)-permanent]V
+saao/saa19/P393618,SAA 19 039. Problems in Exacting Corn Taxes (CTN 5 p. 132 and p. 285),o 12,ša[of]DET leqû[take]V nusāhu[(a-grain-tax)]N šunu[they]IP
+saao/saa19/P393618,SAA 19 039. Problems in Exacting Corn Taxes (CTN 5 p. 132 and p. 285),o 13,lā[not]MOD magāru[consent]V ana[to]PRP tadānu[given]V
+saao/saa19/P393618,SAA 19 039. Problems in Exacting Corn Taxes (CTN 5 p. 132 and p. 285),o 14,qīpu[representative]N ša[that]REL nusāhu[(a-grain-tax)]N nasāhu[tear-out]V
+saao/saa19/P393618,SAA 19 039. Problems in Exacting Corn Taxes (CTN 5 p. 132 and p. 285),o 15,balṭu[living]AJ šarru[king]N bēlu[lord]N šâlu[ask]V
+saao/saa19/P393618,SAA 19 039. Problems in Exacting Corn Taxes (CTN 5 p. 132 and p. 285),o 16,rabû[big-one]N nuhatimmu[cook]N šapāru[send]V
+saao/saa19/P393618,SAA 19 039. Problems in Exacting Corn Taxes (CTN 5 p. 132 and p. 285),o 17,ana[to]PRP muhhu[skull]N ālu[city]N
+saao/saa19/P393618,SAA 19 039. Problems in Exacting Corn Taxes (CTN 5 p. 132 and p. 285),o 18,mā[saying]PRP qīpu[representative]N
+saao/saa19/P393618,SAA 19 039. Problems in Exacting Corn Taxes (CTN 5 p. 132 and p. 285),o 19,kašādu[reach]V
+saao/saa19/P393618,SAA 19 039. Problems in Exacting Corn Taxes (CTN 5 p. 132 and p. 285),b.e. 21,ša[that]REL qannu[fringe]N
+saao/saa19/P393618,SAA 19 039. Problems in Exacting Corn Taxes (CTN 5 p. 132 and p. 285),r 1,ša[of]DET
+saao/saa19/P393618,SAA 19 039. Problems in Exacting Corn Taxes (CTN 5 p. 132 and p. 285),r 2,ištu[from]PRP bītu[house]N pīhātu[responsibility]N Isana[1]GN
+saao/saa19/P393618,SAA 19 039. Problems in Exacting Corn Taxes (CTN 5 p. 132 and p. 285),r 3,ṣabtu[seized]AJ nusāhu[(a-grain-tax)]N nasāhu[tear-out]V
+saao/saa19/P393618,SAA 19 039. Problems in Exacting Corn Taxes (CTN 5 p. 132 and p. 285),r 4,ūma[today]AV
+saao/saa19/P393618,SAA 19 039. Problems in Exacting Corn Taxes (CTN 5 p. 132 and p. 285),r 5,alāku[go]V qīpu[representative]N kašādu[reach]V
+saao/saa19/P393618,SAA 19 039. Problems in Exacting Corn Taxes (CTN 5 p. 132 and p. 285),r 6,ištu[from]PRP libbu[interior]N qīpu[representative]N
+saao/saa19/P393618,SAA 19 039. Problems in Exacting Corn Taxes (CTN 5 p. 132 and p. 285),r 7,ina[in]PRP muhhu[skull]N alāku[go]V mā[saying]PRP
+saao/saa19/P393618,SAA 19 039. Problems in Exacting Corn Taxes (CTN 5 p. 132 and p. 285),r 8,bītu[house]N imēru[unit]N zēru[seed(s)]N
+saao/saa19/P393618,SAA 19 039. Problems in Exacting Corn Taxes (CTN 5 p. 132 and p. 285),r 9,mašennu[(an-administrator)]N ša[of]DET bītu[house]N māru[son]N šarru[king]N
+saao/saa19/P393618,SAA 19 039. Problems in Exacting Corn Taxes (CTN 5 p. 132 and p. 285),r 10,puāgu[take-away-forcibly-from]V
+saao/saa19/P393618,SAA 19 039. Problems in Exacting Corn Taxes (CTN 5 p. 132 and p. 285),r 11,ištu[from]PRP libbu[interior]N līm[thousand]NU zēru[seed(s)]N
+saao/saa19/P393618,SAA 19 039. Problems in Exacting Corn Taxes (CTN 5 p. 132 and p. 285),r 12,ša[that]REL pīhātu[responsibility]N Isana[1]GN
+saao/saa19/P393618,SAA 19 039. Problems in Exacting Corn Taxes (CTN 5 p. 132 and p. 285),r 13,eršu[cultivated]AJ meʾatu[(one)-hundred]NU mû[water]N akālu[eat]V
+saao/saa19/P393618,SAA 19 039. Problems in Exacting Corn Taxes (CTN 5 p. 132 and p. 285),r 14,aṣappu[pack-animal]N ana[to]PRP muhhu[skull]N
+saao/saa19/P393618,SAA 19 039. Problems in Exacting Corn Taxes (CTN 5 p. 132 and p. 285),r 15,erēbu[enter]V mīnu[what?]QP anāku[I]IP
+saao/saa19/P393618,SAA 19 039. Problems in Exacting Corn Taxes (CTN 5 p. 132 and p. 285),r 16,tadānu[give]V māru[son]N šipru[sending]N
+saao/saa19/P393618,SAA 19 039. Problems in Exacting Corn Taxes (CTN 5 p. 132 and p. 285),r 17,ša[of]DET šarru[king]N alāku[go]V
+saao/saa19/P393618,SAA 19 039. Problems in Exacting Corn Taxes (CTN 5 p. 132 and p. 285),r 18,ammar[as-much-as]REL nusāhu[(grain-tax)]N našû[lift]V
+saao/saa19/P393618,SAA 19 039. Problems in Exacting Corn Taxes (CTN 5 p. 132 and p. 285),r 19,ša[of]DET Baqar[1]GN
+saao/saa19/P393618,SAA 19 039. Problems in Exacting Corn Taxes (CTN 5 p. 132 and p. 285),r.e. 20,awātu[word]N šarru[king]N zakāru[speak]V
+saao/saa19/P393618,SAA 19 039. Problems in Exacting Corn Taxes (CTN 5 p. 132 and p. 285),r.e. 21,mā[saying]PRP zakû[pure]AJ
+saao/saa19/P393618,SAA 19 039. Problems in Exacting Corn Taxes (CTN 5 p. 132 and p. 285),r.e. 22,qīpu[representative]N erēbu[enter]V
+saao/saa19/P393618,SAA 19 039. Problems in Exacting Corn Taxes (CTN 5 p. 132 and p. 285),e. 1,ālu[city]N ša[of]DET Šep-Aššur[1]PN nusāhu[(a-grain-tax)]N šunu[they]IP

@@ -1,10 +1,10 @@
 id_text,text_name,l_no,text
-aemw/amarna/P271126,EA 177. A broken message [vassal letter],001,Šamaš[1]DN
-aemw/amarna/P271126,EA 177. A broken message [vassal letter],002,Yamiʾuta[1]PN Guddašuna[1]GN
-aemw/amarna/P271126,EA 177. A broken message [vassal letter],003,
-aemw/amarna/P271126,EA 177. A broken message [vassal letter],004,
-aemw/amarna/P271126,EA 177. A broken message [vassal letter],005,
-aemw/amarna/P271126,EA 177. A broken message [vassal letter],006,
-aemw/amarna/P271126,EA 177. A broken message [vassal letter],007,
-aemw/amarna/P271126,EA 177. A broken message [vassal letter],008,
-aemw/amarna/P271126,EA 177. A broken message [vassal letter],009,
+aemw/amarna/P271126,EA 177. A broken message [vassal letter],001,akk-x-mbperi:ana[to]PRP akk-x-mbperi:šarru[king]N akk-x-mbperi:bēlu[lord]N akk-x-mbperi:ilu[god]N akk-x-mbperi:Šamaš[1]DN
+aemw/amarna/P271126,EA 177. A broken message [vassal letter],002,akk-x-mbperi:umma[saying]PRP akk-x-mbperi:Yamiʾuta[1]PN akk-x-mbperi:awīlu[man]N akk-x-mbperi:Guddašuna[1]GN
+aemw/amarna/P271126,EA 177. A broken message [vassal letter],003,akk-x-mbperi:wardu[slave]N akk-x-mbperi:šarru[king]N akk-x-mbperi:bēlu[lord]N
+aemw/amarna/P271126,EA 177. A broken message [vassal letter],004,akk-x-mbperi:ana[to]PRP akk-x-mbperi:upru[dust]N akk-x-mbperi:šēpu[foot]N akk-x-mbperi:šarru[king]N akk-x-mbperi:bēlu[lord]N
+aemw/amarna/P271126,EA 177. A broken message [vassal letter],005,akk-x-mbperi:u[and]CNJ akk-x-mbperi:maqātu[fall]V
+aemw/amarna/P271126,EA 177. A broken message [vassal letter],006,akk-x-mbperi:edû[know]V akk-x-mbperi:šarru[king]N akk-x-mbperi:bēlu[lord]N
+aemw/amarna/P271126,EA 177. A broken message [vassal letter],007,akk-x-mbperi:ana[to]PRP akk-x-mbperi:mātu[land]N
+aemw/amarna/P271126,EA 177. A broken message [vassal letter],008,akk-x-mbperi:u[and]CNJ akk-x-mbperi:awīlu[man]N
+aemw/amarna/P271126,EA 177. A broken message [vassal letter],009,akk-x-mbperi:u[and]CNJ

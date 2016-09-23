@@ -1,0 +1,39 @@
+id_text,text_name,l_no,text
+saao/saa17/P238057,SAA 17 117. The Son of Yakin in Babylon; May the King’s Messenger Come Quickly (CT 54 023),o 1,ana[to]PRP šarru[king]N bēlu[lord]N
+saao/saa17/P238057,SAA 17 117. The Son of Yakin in Babylon; May the King’s Messenger Come Quickly (CT 54 023),o 2,ardu[slave]N Nabu-šumu-lešir[1]PN
+saao/saa17/P238057,SAA 17 117. The Son of Yakin in Babylon; May the King’s Messenger Come Quickly (CT 54 023),o 3,u[and]CNJ Aqar-Bel-lumur[1]PN
+saao/saa17/P238057,SAA 17 117. The Son of Yakin in Babylon; May the King’s Messenger Come Quickly (CT 54 023),o 4,lū[may]MOD šulmu[completeness]N ana[to]PRP šarru[king]N bēlu[lord]N umma[saying]PRP
+saao/saa17/P238057,SAA 17 117. The Son of Yakin in Babylon; May the King’s Messenger Come Quickly (CT 54 023),o 5,ana[to]PRP šarru[king]N bēlu[lord]N
+saao/saa17/P238057,SAA 17 117. The Son of Yakin in Babylon; May the King’s Messenger Come Quickly (CT 54 023),o 6,šulmu[completeness]N ana[to]PRP birtu[fort]N
+saao/saa17/P238057,SAA 17 117. The Son of Yakin in Babylon; May the King’s Messenger Come Quickly (CT 54 023),o 7,u[and]CNJ emūqu[strength]N ša[of]DET šarru[king]N
+saao/saa17/P238057,SAA 17 117. The Son of Yakin in Babylon; May the King’s Messenger Come Quickly (CT 54 023),o 8,ṭēmu[(fore)thought]N ša[of]DET nišu[people]N mātu[land]N šulmu[completeness]N
+saao/saa17/P238057,SAA 17 117. The Son of Yakin in Babylon; May the King’s Messenger Come Quickly (CT 54 023),o 9,libbu[interior]N ša[of]DET šarru[king]N bēlu[lord]N lū[may]MOD ṭābu[good]AJ
+saao/saa17/P238057,SAA 17 117. The Son of Yakin in Babylon; May the King’s Messenger Come Quickly (CT 54 023),o 10,ša[of]DET šarru[king]N aššu[because-(of)]SBJ ṭēmu[(fore)thought]N
+saao/saa17/P238057,SAA 17 117. The Son of Yakin in Babylon; May the King’s Messenger Come Quickly (CT 54 023),o 11,ša[of]DET šulmu[completeness]N
+saao/saa17/P238057,SAA 17 117. The Son of Yakin in Babylon; May the King’s Messenger Come Quickly (CT 54 023),o 12,kâdu[watch]V aššu[because-(of)]SBJ ṭēmu[(fore)thought]N
+saao/saa17/P238057,SAA 17 117. The Son of Yakin in Babylon; May the King’s Messenger Come Quickly (CT 54 023),o 13,ša[of]DET Bit-Yakin[1]GN ina[in]PRP Babili[Babylon]GN šū[he]IP
+saao/saa17/P238057,SAA 17 117. The Son of Yakin in Babylon; May the King’s Messenger Come Quickly (CT 54 023),o 14,ina[in]PRP būnu[goodness]N ištu[from]PRP
+saao/saa17/P238057,SAA 17 117. The Son of Yakin in Babylon; May the King’s Messenger Come Quickly (CT 54 023),o 15,ša[of]DET šarru[king]N
+saao/saa17/P238057,SAA 17 117. The Son of Yakin in Babylon; May the King’s Messenger Come Quickly (CT 54 023),o 16,balṭu[living]AJ ša[that]REL ina[in]PRP mātu[land]N nakru[enemy]N ištu[from]PRP
+saao/saa17/P238057,SAA 17 117. The Son of Yakin in Babylon; May the King’s Messenger Come Quickly (CT 54 023),o 17,mātu[land]N nakru[enemy]N pānu[front]N šakānu[put]V
+saao/saa17/P238057,SAA 17 117. The Son of Yakin in Babylon; May the King’s Messenger Come Quickly (CT 54 023),r 1,alāku[go]V u[and]CNJ ana[to]PRP
+saao/saa17/P238057,SAA 17 117. The Son of Yakin in Babylon; May the King’s Messenger Come Quickly (CT 54 023),r 2,mātu[land]N Aššur[1]DN nahāsu[(re)cede]V
+saao/saa17/P238057,SAA 17 117. The Son of Yakin in Babylon; May the King’s Messenger Come Quickly (CT 54 023),r 3,māru[son]N šipru[sending]N ša[of]DET šarru[king]N ana[to]PRP pānu[front]N ardu[slave]N
+saao/saa17/P238057,SAA 17 117. The Son of Yakin in Babylon; May the King’s Messenger Come Quickly (CT 54 023),r 4,ištu[from]PRP mātu[land]N nakru[enemy]N
+saao/saa17/P238057,SAA 17 117. The Son of Yakin in Babylon; May the King’s Messenger Come Quickly (CT 54 023),r 5,harāpu[be(come)-early]V alāku[go]V
+saao/saa17/P238057,SAA 17 117. The Son of Yakin in Babylon; May the King’s Messenger Come Quickly (CT 54 023),r 6,šū[he]IP šulmu[completeness]N ša[of]DET šarru[king]N bēlu[lord]N
+saao/saa17/P238057,SAA 17 117. The Son of Yakin in Babylon; May the King’s Messenger Come Quickly (CT 54 023),r 7,šemû[hear]V libbu[interior]N
+saao/saa17/P238057,SAA 17 117. The Son of Yakin in Babylon; May the King’s Messenger Come Quickly (CT 54 023),r 8,ina[in]PRP ṣillu[shade]N šarru[king]N bēlu[lord]N balāṭu[live]V
+saao/saa17/P238057,SAA 17 117. The Son of Yakin in Babylon; May the King’s Messenger Come Quickly (CT 54 023),r 9,enna[now]AV ana[to]PRP mīnu[what?]QP šarru[king]N bēlu[lord]N
+saao/saa17/P238057,SAA 17 117. The Son of Yakin in Babylon; May the King’s Messenger Come Quickly (CT 54 023),r 10,ina[in]PRP šulmu[completeness]N ana[to]PRP bītu[house]N
+saao/saa17/P238057,SAA 17 117. The Son of Yakin in Babylon; May the King’s Messenger Come Quickly (CT 54 023),r 11,erēbu[enter]V māru[son]N šipru[sending]N ša[of]DET šarru[king]N
+saao/saa17/P238057,SAA 17 117. The Son of Yakin in Babylon; May the King’s Messenger Come Quickly (CT 54 023),r 12,ana[to]PRP pānu[front]N kalbu[dog]N annû[this]DP
+saao/saa17/P238057,SAA 17 117. The Son of Yakin in Babylon; May the King’s Messenger Come Quickly (CT 54 023),r 13,lā[not]MOD alāku[go]V libbu[interior]N
+saao/saa17/P238057,SAA 17 117. The Son of Yakin in Babylon; May the King’s Messenger Come Quickly (CT 54 023),r 14,palāhu[fear]V marāṣu[be(come)-ill]V
+saao/saa17/P238057,SAA 17 117. The Son of Yakin in Babylon; May the King’s Messenger Come Quickly (CT 54 023),r 15,u[and]CNJ lemēnu[be(come)-bad]V
+saao/saa17/P238057,SAA 17 117. The Son of Yakin in Babylon; May the King’s Messenger Come Quickly (CT 54 023),r 16,ana[to]PRP šēṭūtu[scorn]N târu[turn]V
+saao/saa17/P238057,SAA 17 117. The Son of Yakin in Babylon; May the King’s Messenger Come Quickly (CT 54 023),r 17,imittu[right-side]N u[and]CNJ šumēlu[left-side]N
+saao/saa17/P238057,SAA 17 117. The Son of Yakin in Babylon; May the King’s Messenger Come Quickly (CT 54 023),r 18,ul[not]MOD qabû[say]V umma[saying]PRP
+saao/saa17/P238057,SAA 17 117. The Son of Yakin in Babylon; May the King’s Messenger Come Quickly (CT 54 023),r 19,kalbu[dog]N annû[this]DP
+saao/saa17/P238057,SAA 17 117. The Son of Yakin in Babylon; May the King’s Messenger Come Quickly (CT 54 023),r.e. 20,bēlu[lord]N ul[not]MOD
+saao/saa17/P238057,SAA 17 117. The Son of Yakin in Babylon; May the King’s Messenger Come Quickly (CT 54 023),e. 1,hamṭiš[quickly]AV māru[son]N šipru[sending]N ša[of]DET šarru[king]N bēlu[lord]N amāru[see]V

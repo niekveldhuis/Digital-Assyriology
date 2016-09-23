@@ -1,0 +1,28 @@
+id_text,text_name,l_no,text
+saao/saa05/P334355,SAA 05 164. King of Urarṭu Facing Battle with Sargon (ABL 0515),o 1,ana[to]PRP šarru[king]N bēlu[lord]N
+saao/saa05/P334355,SAA 05 164. King of Urarṭu Facing Battle with Sargon (ABL 0515),o 2,ardu[slave]N Bel-iddina[1]PN
+saao/saa05/P334355,SAA 05 164. King of Urarṭu Facing Battle with Sargon (ABL 0515),o 3,ina[in]PRP muhhu[skull]N ṭēmu[(fore)thought]N
+saao/saa05/P334355,SAA 05 164. King of Urarṭu Facing Battle with Sargon (ABL 0515),o 4,ša[of]DET Urarṭaya[Urarṭian]EN
+saao/saa05/P334355,SAA 05 164. King of Urarṭu Facing Battle with Sargon (ABL 0515),o 5,māru[son]N šipru[sending]N ša[of]DET Andiaya[Andian]EN
+saao/saa05/P334355,SAA 05 164. King of Urarṭu Facing Battle with Sargon (ABL 0515),o 6,māru[son]N šipru[sending]N ša[of]DET Zikirtaya[Zikirtean]EN
+saao/saa05/P334355,SAA 05 164. King of Urarṭu Facing Battle with Sargon (ABL 0515),o 7,ina[in]PRP libbu[interior]N Waisi[1]GN
+saao/saa05/P334355,SAA 05 164. King of Urarṭu Facing Battle with Sargon (ABL 0515),o 8,alāku[go]V
+saao/saa05/P334355,SAA 05 164. King of Urarṭu Facing Battle with Sargon (ABL 0515),o 9,qabû[say]V
+saao/saa05/P334355,SAA 05 164. King of Urarṭu Facing Battle with Sargon (ABL 0515),o 10,mā[saying]PRP šarru[king]N mātu[land]N Aššur[1]DN
+saao/saa05/P334355,SAA 05 164. King of Urarṭu Facing Battle with Sargon (ABL 0515),o 11,ina[in]PRP muhhu[skull]N
+saao/saa05/P334355,SAA 05 164. King of Urarṭu Facing Battle with Sargon (ABL 0515),o 12,ūmu[day]N ša[that]REL māru[son]N šipru[sending]N
+saao/saa05/P334355,SAA 05 164. King of Urarṭu Facing Battle with Sargon (ABL 0515),o 13,amāru[see]V
+saao/saa05/P334355,SAA 05 164. King of Urarṭu Facing Battle with Sargon (ABL 0515),o 14,namāšu[set-(o.s.)-in-motion]V
+saao/saa05/P334355,SAA 05 164. King of Urarṭu Facing Battle with Sargon (ABL 0515),o 15,ina[in]PRP Zikirtu[1]GN
+saao/saa05/P334355,SAA 05 164. King of Urarṭu Facing Battle with Sargon (ABL 0515),r 1,šūtu[he]IP adi[until]PRP
+saao/saa05/P334355,SAA 05 164. King of Urarṭu Facing Battle with Sargon (ABL 0515),r 2,emūqu[strength]N
+saao/saa05/P334355,SAA 05 164. King of Urarṭu Facing Battle with Sargon (ABL 0515),r 3,u[and]CNJ Hubuškaya[Hubuškian]EN
+saao/saa05/P334355,SAA 05 164. King of Urarṭu Facing Battle with Sargon (ABL 0515),r 4,mardītu[stage]N
+saao/saa05/P334355,SAA 05 164. King of Urarṭu Facing Battle with Sargon (ABL 0515),r 5,išti[with]PRP alāku[go]V
+saao/saa05/P334355,SAA 05 164. King of Urarṭu Facing Battle with Sargon (ABL 0515),r 6,sahāru[go-around]V
+saao/saa05/P334355,SAA 05 164. King of Urarṭu Facing Battle with Sargon (ABL 0515),r 7,ina[in]PRP rabiu[big-one]N qabû[say]V
+saao/saa05/P334355,SAA 05 164. King of Urarṭu Facing Battle with Sargon (ABL 0515),r 8,emūqu[strength]N kaṣāru[tie]V
+saao/saa05/P334355,SAA 05 164. King of Urarṭu Facing Battle with Sargon (ABL 0515),r 9,mā[saying]PRP ina[in]PRP irtu[breast]N šarru[king]N mātu[land]N Aššur[1]DN
+saao/saa05/P334355,SAA 05 164. King of Urarṭu Facing Battle with Sargon (ABL 0515),r 10,sadāru[place-in-order]V
+saao/saa05/P334355,SAA 05 164. King of Urarṭu Facing Battle with Sargon (ABL 0515),r 11,bātiqu[informer]N šī[she]IP
+saao/saa05/P334355,SAA 05 164. King of Urarṭu Facing Battle with Sargon (ABL 0515),r 12,ina[in]PRP muhhu[skull]N sadāru[place-in-order]V

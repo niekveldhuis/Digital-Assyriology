@@ -1,0 +1,31 @@
+id_text,text_name,l_no,text
+saao/saa10/P334267,SAA 10 319. Curing an Abscess (ABL 0392) [from physicians],o 1,ana[to]PRP šarru[king]N bēlu[lord]N
+saao/saa10/P334267,SAA 10 319. Curing an Abscess (ABL 0392) [from physicians],o 2,ardu[slave]N Urdu-Nanaya[1]PN
+saao/saa10/P334267,SAA 10 319. Curing an Abscess (ABL 0392) [from physicians],o 3,lū[may]MOD šulmu[completeness]N adanniš[very-much]AV adanniš[very-much]AV
+saao/saa10/P334267,SAA 10 319. Curing an Abscess (ABL 0392) [from physicians],o 4,ana[to]PRP šarru[king]N bēlu[lord]N
+saao/saa10/P334267,SAA 10 319. Curing an Abscess (ABL 0392) [from physicians],o 5,Inurta[1]DN u[and]CNJ Gula[1]DN
+saao/saa10/P334267,SAA 10 319. Curing an Abscess (ABL 0392) [from physicians],o 6,ṭūbu[goodness]N libbu[interior]N ṭūbu[goodness]N šīru[flesh]N
+saao/saa10/P334267,SAA 10 319. Curing an Abscess (ABL 0392) [from physicians],o 7,ana[to]PRP šarru[king]N bēlu[lord]N tadānu[give]V
+saao/saa10/P334267,SAA 10 319. Curing an Abscess (ABL 0392) [from physicians],o 8,šulmu[completeness]N adanniš[very-much]AV
+saao/saa10/P334267,SAA 10 319. Curing an Abscess (ABL 0392) [from physicians],o 9,ana[to]PRP lakû[weak-(person)]N
+saao/saa10/P334267,SAA 10 319. Curing an Abscess (ABL 0392) [from physicians],o 10,sikru[scab]N annû[this]DP
+saao/saa10/P334267,SAA 10 319. Curing an Abscess (ABL 0392) [from physicians],o 11,ša[of]DET kutallu[back]N uznu[ear]N
+saao/saa10/P334267,SAA 10 319. Curing an Abscess (ABL 0392) [from physicians],o 12,talʾītu[ointment-dressing]N ina[in]PRP muhhu[skull]N
+saao/saa10/P334267,SAA 10 319. Curing an Abscess (ABL 0392) [from physicians],o 13,rakāsu[bind]V ina[in]PRP appu[nose]N
+saao/saa10/P334267,SAA 10 319. Curing an Abscess (ABL 0392) [from physicians],b.e. 14,ramû[slacken]V
+saao/saa10/P334267,SAA 10 319. Curing an Abscess (ABL 0392) [from physicians],b.e. 15,ina[in]PRP timāli[yesterday]AV
+saao/saa10/P334267,SAA 10 319. Curing an Abscess (ABL 0392) [from physicians],r 1,kī[like]PRP bādu[evening]N
+saao/saa10/P334267,SAA 10 319. Curing an Abscess (ABL 0392) [from physicians],r 2,šērṭu[cloth-strip]N ša[that]REL ina[in]PRP libbu[interior]N
+saao/saa10/P334267,SAA 10 319. Curing an Abscess (ABL 0392) [from physicians],r 3,ṣabtu[seized]AJ paṭāru[loosen]V
+saao/saa10/P334267,SAA 10 319. Curing an Abscess (ABL 0392) [from physicians],r 4,talʾītu[ointment-dressing]N ša[that]REL ina[in]PRP muhhu[skull]N
+saao/saa10/P334267,SAA 10 319. Curing an Abscess (ABL 0392) [from physicians],r 5,elû[go-up]V šarku[pus]N
+saao/saa10/P334267,SAA 10 319. Curing an Abscess (ABL 0392) [from physicians],r 6,ina[in]PRP muhhu[skull]N talʾītu[ointment-dressing]N
+saao/saa10/P334267,SAA 10 319. Curing an Abscess (ABL 0392) [from physicians],r 7,bašû[exist]V ammar[as-much-as]REL qaqqadu[head]N
+saao/saa10/P334267,SAA 10 319. Curing an Abscess (ABL 0392) [from physicians],r 8,ubānu[finger]N ṣehru[small]AJ
+saao/saa10/P334267,SAA 10 319. Curing an Abscess (ABL 0392) [from physicians],r 9,ilu[god]N šumma[if]MOD memēni[somebody]XP
+saao/saa10/P334267,SAA 10 319. Curing an Abscess (ABL 0392) [from physicians],r 10,ahu[arm]N ina[in]PRP muhhu[skull]N
+saao/saa10/P334267,SAA 10 319. Curing an Abscess (ABL 0392) [from physicians],r 11,emēdu[lean-on]V šūtu[he]IP
+saao/saa10/P334267,SAA 10 319. Curing an Abscess (ABL 0392) [from physicians],r 12,pû[mouth]N tadānu[give]V
+saao/saa10/P334267,SAA 10 319. Curing an Abscess (ABL 0392) [from physicians],r 13,šulmu[completeness]N adanniš[very-much]AV
+saao/saa10/P334267,SAA 10 319. Curing an Abscess (ABL 0392) [from physicians],r.e. 14,libbu[interior]N ša[of]DET šarru[king]N bēlu[lord]N
+saao/saa10/P334267,SAA 10 319. Curing an Abscess (ABL 0392) [from physicians],r.e. 15,lū[may]MOD ṭābu[good]AJ

@@ -1,0 +1,34 @@
+id_text,text_name,l_no,text
+saao/saa13/P334746,SAA 13 066. Plea to the King to Cure Sickness (ABL 1133),o 1,ana[to]PRP šarru[king]N bēlu[lord]N
+saao/saa13/P334746,SAA 13 066. Plea to the King to Cure Sickness (ABL 1133),o 2,ardu[slave]N Urdu-Nabu[1]PN
+saao/saa13/P334746,SAA 13 066. Plea to the King to Cure Sickness (ABL 1133),o 3,lū[may]MOD šulmu[completeness]N ana[to]PRP šarru[king]N bēlu[lord]N
+saao/saa13/P334746,SAA 13 066. Plea to the King to Cure Sickness (ABL 1133),o 4,Aššur[1]DN Sin[1]DN Šamaš[1]DN Marduk[1]DN
+saao/saa13/P334746,SAA 13 066. Plea to the King to Cure Sickness (ABL 1133),o 5,Zarpanitu[1]DN Nabu[1]DN Tašmetu[1]DN
+saao/saa13/P334746,SAA 13 066. Plea to the King to Cure Sickness (ABL 1133),o 6,Ištar[1]DN ša[of]DET Ninua[Nineveh]GN Ištar[1]DN ša[of]DET Arbail[Arbela]GN
+saao/saa13/P334746,SAA 13 066. Plea to the King to Cure Sickness (ABL 1133),o 7,ilu[god]N annû[this]DP rabû[big]AJ
+saao/saa13/P334746,SAA 13 066. Plea to the King to Cure Sickness (ABL 1133),o 8,rāʾimu[one-who-loves]N šarrūtu[kingship]N
+saao/saa13/P334746,SAA 13 066. Plea to the King to Cure Sickness (ABL 1133),o 9,meʾatu[(one)-hundred]NU šattu[year]N ana[to]PRP šarru[king]N bēlu[lord]N
+saao/saa13/P334746,SAA 13 066. Plea to the King to Cure Sickness (ABL 1133),o 10,balāṭu[live]V šībūtu[old-age]N littūtu[(extreme)-old-age]N
+saao/saa13/P334746,SAA 13 066. Plea to the King to Cure Sickness (ABL 1133),o 11,ana[to]PRP šarru[king]N bēlu[lord]N šebû[be(come)-full]V
+saao/saa13/P334746,SAA 13 066. Plea to the King to Cure Sickness (ABL 1133),o 12,maṣṣaru[guard]N šulmu[completeness]N balāṭu[live]V
+saao/saa13/P334746,SAA 13 066. Plea to the King to Cure Sickness (ABL 1133),o 13,išti[with]PRP šarru[king]N bēlu[lord]N paqādu[entrust]V
+saao/saa13/P334746,SAA 13 066. Plea to the King to Cure Sickness (ABL 1133),o 14,šēdu[protective-deity]N dumqu[goodness]N lamassu[(female)-tutelary-deity]N dumqu[goodness]N
+saao/saa13/P334746,SAA 13 066. Plea to the King to Cure Sickness (ABL 1133),o 15,kânu[be(come)-permanent]V
+saao/saa13/P334746,SAA 13 066. Plea to the King to Cure Sickness (ABL 1133),o 16,ina[in]PRP muhhu[skull]N ša[that]REL šarru[king]N bēlu[lord]N šapāru[send]V
+saao/saa13/P334746,SAA 13 066. Plea to the King to Cure Sickness (ABL 1133),o 17,mā[saying]PRP atā[why?]QP ana[to]PRP Libbi-ali[Inner-City-(Assur)]GN lā[not]MOD alāku[go]V
+saao/saa13/P334746,SAA 13 066. Plea to the King to Cure Sickness (ABL 1133),o 18,târu[turn]V lā[not]MOD alāku[go]V marṣu[sick]AJ
+saao/saa13/P334746,SAA 13 066. Plea to the King to Cure Sickness (ABL 1133),o 19,muk[saying]PRP alāku[go]V ina[in]PRP šiddu[length]N hūlu[way]N mâtu[die]V
+saao/saa13/P334746,SAA 13 066. Plea to the King to Cure Sickness (ABL 1133),o 20,šarru[king]N qabû[say]V mā[saying]PRP mannu[who?]QP atta[you]IP
+saao/saa13/P334746,SAA 13 066. Plea to the King to Cure Sickness (ABL 1133),o 21,ša[that]REL lā[not]MOD dagālu[see]V
+saao/saa13/P334746,SAA 13 066. Plea to the King to Cure Sickness (ABL 1133),o 22,Aššur[1]DN ilu[god]N lū[may]MOD wadû[know]V
+saao/saa13/P334746,SAA 13 066. Plea to the King to Cure Sickness (ABL 1133),r 4',šarru[king]N bēlu[lord]N šâlu[ask]V
+saao/saa13/P334746,SAA 13 066. Plea to the King to Cure Sickness (ABL 1133),r 5',kī[like]PRP ša[that]REL awātu[word]N ana[to]PRP šarru[king]N bēlu[lord]N qabû[say]V
+saao/saa13/P334746,SAA 13 066. Plea to the King to Cure Sickness (ABL 1133),r 6',ardu[slave]N ša[of]DET šarru[king]N qabû[say]V
+saao/saa13/P334746,SAA 13 066. Plea to the King to Cure Sickness (ABL 1133),r 7',mā[saying]PRP šarru[king]N mahāru[face]V alāku[go]V ramānu[self]N balāṭu[live]V
+saao/saa13/P334746,SAA 13 066. Plea to the King to Cure Sickness (ABL 1133),r 8',muk[saying]PRP pānu[front]N ša[of]DET šarru[king]N bēlu[lord]N
+saao/saa13/P334746,SAA 13 066. Plea to the King to Cure Sickness (ABL 1133),r 9',kē[how?]QP epšu[made]AJ tūra[again]AV anāku[I]IP mahāru[face]V
+saao/saa13/P334746,SAA 13 066. Plea to the King to Cure Sickness (ABL 1133),r 10',ūma[today]AV ištu[from]PRP qātu[hand]N bēlu[lord]N lū[may]MOD lā[not]MOD elû[go-up]V
+saao/saa13/P334746,SAA 13 066. Plea to the King to Cure Sickness (ABL 1133),r 11',ištēn[one]NU ištēn[one]NU asû[physician]N
+saao/saa13/P334746,SAA 13 066. Plea to the King to Cure Sickness (ABL 1133),r 12',ina[in]PRP pānu[front]N paqādu[entrust]V kī[like]PRP ahāmiš[one-another]PRP
+saao/saa13/P334746,SAA 13 066. Plea to the King to Cure Sickness (ABL 1133),r 13',dullu[trouble]N epēšu[do]V
+saao/saa13/P334746,SAA 13 066. Plea to the King to Cure Sickness (ABL 1133),r 14',balāṭu[live]V

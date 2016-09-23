@@ -1,28 +1,28 @@
 id_text,text_name,l_no,text
-aemw/amarna/P270932,EA 227. The happy king of Hazor [vassal letter],001,
-aemw/amarna/P270932,EA 227. The happy king of Hazor [vassal letter],002,
-aemw/amarna/P270932,EA 227. The happy king of Hazor [vassal letter],003,Haṣura[Hazor]GN
-aemw/amarna/P270932,EA 227. The happy king of Hazor [vassal letter],004,
-aemw/amarna/P270932,EA 227. The happy king of Hazor [vassal letter],005,
-aemw/amarna/P270932,EA 227. The happy king of Hazor [vassal letter],006,
-aemw/amarna/P270932,EA 227. The happy king of Hazor [vassal letter],007,
-aemw/amarna/P270932,EA 227. The happy king of Hazor [vassal letter],008,
-aemw/amarna/P270932,EA 227. The happy king of Hazor [vassal letter],009,Šamaš[1]DN
-aemw/amarna/P270932,EA 227. The happy king of Hazor [vassal letter],010,
-aemw/amarna/P270932,EA 227. The happy king of Hazor [vassal letter],011,
-aemw/amarna/P270932,EA 227. The happy king of Hazor [vassal letter],012,
-aemw/amarna/P270932,EA 227. The happy king of Hazor [vassal letter],013,
-aemw/amarna/P270932,EA 227. The happy king of Hazor [vassal letter],014,
-aemw/amarna/P270932,EA 227. The happy king of Hazor [vassal letter],015,
-aemw/amarna/P270932,EA 227. The happy king of Hazor [vassal letter],016,Hanʾi[1]PN
-aemw/amarna/P270932,EA 227. The happy king of Hazor [vassal letter],017,
-aemw/amarna/P270932,EA 227. The happy king of Hazor [vassal letter],018,
-aemw/amarna/P270932,EA 227. The happy king of Hazor [vassal letter],019,
-aemw/amarna/P270932,EA 227. The happy king of Hazor [vassal letter],020,
-aemw/amarna/P270932,EA 227. The happy king of Hazor [vassal letter],021,Haṣura[Hazor]GN
-aemw/amarna/P270932,EA 227. The happy king of Hazor [vassal letter],022,
-aemw/amarna/P270932,EA 227. The happy king of Hazor [vassal letter],023,
-aemw/amarna/P270932,EA 227. The happy king of Hazor [vassal letter],024,
-aemw/amarna/P270932,EA 227. The happy king of Hazor [vassal letter],025,
-aemw/amarna/P270932,EA 227. The happy king of Hazor [vassal letter],026,
-aemw/amarna/P270932,EA 227. The happy king of Hazor [vassal letter],027,
+aemw/amarna/P270932,EA 227. The happy king of Hazor [vassal letter],001,akk-x-mbperi:ana[to]PRP akk-x-mbperi:šarru[king]N akk-x-mbperi:bēlu[lord]N
+aemw/amarna/P270932,EA 227. The happy king of Hazor [vassal letter],002,akk-x-mbperi:qabû[say]V
+aemw/amarna/P270932,EA 227. The happy king of Hazor [vassal letter],003,akk-x-mbperi:umma[saying]PRP akk-x-mbperi:šarru[king]N akk-x-mbperi:Haṣura[Hazor]GN
+aemw/amarna/P270932,EA 227. The happy king of Hazor [vassal letter],004,akk-x-mbperi:ana[to]PRP akk-x-mbperi:šēpu[foot]N akk-x-mbperi:bēlu[lord]N akk-x-mbperi:maqātu[fall]V
+aemw/amarna/P270932,EA 227. The happy king of Hazor [vassal letter],005,akk-x-mbperi:amāru[see]V akk-x-mbperi:anāku[I]IP akk-x-mbperi:naṣru[guarded]AJ akk-x-mbperi:ālu[city]N
+aemw/amarna/P270932,EA 227. The happy king of Hazor [vassal letter],006,akk-x-mbperi:šarru[king]N akk-x-mbperi:bēlu[lord]N
+aemw/amarna/P270932,EA 227. The happy king of Hazor [vassal letter],007,akk-x-mbperi:adi[until]PRP akk-x-mbperi:kašādu[reach]V akk-x-mbperi:bēlu[lord]N akk-x-mbperi:ana[to]PRP akk-x-mbperi:yâšim[to-me]IP
+aemw/amarna/P270932,EA 227. The happy king of Hazor [vassal letter],008,akk-x-mbperi:u[and]CNJ akk-x-mbperi:inūma[when]SBJ akk-x-mbperi:šemû[hear]V akk-x-mbperi:awātu[word]N
+aemw/amarna/P270932,EA 227. The happy king of Hazor [vassal letter],009,akk-x-mbperi:annû[this]DP akk-x-mbperi:u[and]CNJ akk-x-mbperi:waṣû[gone-out]AJ akk-x-mbperi:balāṭu[life]N akk-x-mbperi:Šamaš[1]DN akk-x-mbperi:bēlu[lord]N akk-x-mbperi:ana[to]PRP akk-x-mbperi:yâšim[to-me]IP
+aemw/amarna/P270932,EA 227. The happy king of Hazor [vassal letter],010,akk-x-mbperi:u[and]CNJ akk-x-mbperi:kī[like]PRP akk-x-mbperi:šemû[hear]V akk-x-mbperi:hadû[be(come)-joyful]V akk-x-mbperi:malāku[discuss]V
+aemw/amarna/P270932,EA 227. The happy king of Hazor [vassal letter],011,akk-x-mbperi:u[and]CNJ akk-x-mbperi:illatu[rejoicing]N akk-x-mbperi:waṣû[go-out]V akk-x-mbperi:salmu[peaceful]AJ
+aemw/amarna/P270932,EA 227. The happy king of Hazor [vassal letter],012,akk-x-mbperi:u[and]CNJ akk-x-mbperi:ilu[god]N akk-x-mbperi:palāsu[look-(at)]V
+aemw/amarna/P270932,EA 227. The happy king of Hazor [vassal letter],013,akk-x-mbperi:ana[to]PRP akk-x-mbperi:yâšim[to-me]IP akk-x-mbperi:u[and]CNJ akk-x-mbperi:anumma[now]AV akk-x-mbperi:šūšuru[in-order]AJ
+aemw/amarna/P270932,EA 227. The happy king of Hazor [vassal letter],014,akk-x-mbperi:gabbu[totality]N akk-x-mbperi:adi[until]PRP akk-x-mbperi:kašādu[reach]V akk-x-mbperi:šarru[king]N akk-x-mbperi:bēlu[lord]N
+aemw/amarna/P270932,EA 227. The happy king of Hazor [vassal letter],015,akk-x-mbperi:amāru[see]V akk-x-mbperi:inūma[when]SBJ akk-x-mbperi:kašādu[reach]V
+aemw/amarna/P270932,EA 227. The happy king of Hazor [vassal letter],016,akk-x-mbperi:Hanʾi[1]PN akk-x-mbperi:māru[son]N akk-x-mbperi:šipru[sending]N
+aemw/amarna/P270932,EA 227. The happy king of Hazor [vassal letter],017,akk-x-mbperi:u[and]CNJ akk-x-mbperi:hadû[be(come)-joyful]V akk-x-mbperi:libbu[interior]N akk-x-mbperi:magal[very-(much)]AV
+aemw/amarna/P270932,EA 227. The happy king of Hazor [vassal letter],018,akk-x-mbperi:illatu[rejoicing]N akk-x-mbperi:rīštu[rejoicing]N
+aemw/amarna/P270932,EA 227. The happy king of Hazor [vassal letter],019,akk-x-mbperi:waṣû[go-out]V akk-x-mbperi:inūma[when]SBJ akk-x-mbperi:lā[not]MOD
+aemw/amarna/P270932,EA 227. The happy king of Hazor [vassal letter],020,akk-x-mbperi:annû[this]DP
+aemw/amarna/P270932,EA 227. The happy king of Hazor [vassal letter],021,akk-x-mbperi:Haṣura[Hazor]GN
+aemw/amarna/P270932,EA 227. The happy king of Hazor [vassal letter],022,akk-x-mbperi:u[and]CNJ akk-x-mbperi:nīnu[we]IP
+aemw/amarna/P270932,EA 227. The happy king of Hazor [vassal letter],023,akk-x-mbperi:aššu[because-(of)]PRP akk-x-mbperi:mātu[land]N
+aemw/amarna/P270932,EA 227. The happy king of Hazor [vassal letter],024,akk-x-mbperi:u[and]CNJ akk-x-mbperi:gabbu[totality]N
+aemw/amarna/P270932,EA 227. The happy king of Hazor [vassal letter],025,akk-x-mbperi:inūma[when]SBJ akk-x-mbperi:kašdu[achieved]AJ
+aemw/amarna/P270932,EA 227. The happy king of Hazor [vassal letter],026,akk-x-mbperi:šanītu[something-other]N akk-x-mbperi:amāru[see]V
+aemw/amarna/P270932,EA 227. The happy king of Hazor [vassal letter],027,akk-x-mbperi:u[and]CNJ akk-x-mbperi:kīam[so]AV

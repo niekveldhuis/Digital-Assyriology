@@ -1,0 +1,38 @@
+id_text,text_name,l_no,text
+saao/saa13/P334068,SAA 13 162. Restoration Work in the Esaggil (ABL 0120),o 1,ana[to]PRP šarru[king]N bēlu[lord]N
+saao/saa13/P334068,SAA 13 162. Restoration Work in the Esaggil (ABL 0120),o 2,ardu[slave]N Urdu-ahhešu[1]PN
+saao/saa13/P334068,SAA 13 162. Restoration Work in the Esaggil (ABL 0120),o 3,lū[may]MOD šulmu[completeness]N ana[to]PRP šarru[king]N bēlu[lord]N
+saao/saa13/P334068,SAA 13 162. Restoration Work in the Esaggil (ABL 0120),o 4,Aššur[1]DN Ešarra[1]TN ana[to]PRP šarru[king]N
+saao/saa13/P334068,SAA 13 162. Restoration Work in the Esaggil (ABL 0120),o 5,bēlu[lord]N karābu[pray]V Marduk[1]DN Zarpanitu[1]DN
+saao/saa13/P334068,SAA 13 162. Restoration Work in the Esaggil (ABL 0120),o 6,Nabu[1]DN Tašmetu[1]DN Nanaya[1]DN
+saao/saa13/P334068,SAA 13 162. Restoration Work in the Esaggil (ABL 0120),o 7,u[and]CNJ ilu[god]N ammar[as-much-as]REL ina[in]PRP Esaggil[1]TN
+saao/saa13/P334068,SAA 13 162. Restoration Work in the Esaggil (ABL 0120),o 8,kamsu[squatting]AJ ūmu[day]N ša[of]DET šarru[king]N
+saao/saa13/P334068,SAA 13 162. Restoration Work in the Esaggil (ABL 0120),o 9,bēlu[lord]N arāku[be(come)-long]V kussû[chair]N
+saao/saa13/P334068,SAA 13 162. Restoration Work in the Esaggil (ABL 0120),o 10,ša[of]DET šarru[king]N bēlu[lord]N kânu[be(come)-permanent]V
+saao/saa13/P334068,SAA 13 162. Restoration Work in the Esaggil (ABL 0120),o 11,ṭūbu[goodness]N libbu[interior]N ṭūbu[goodness]N šīru[flesh]N
+saao/saa13/P334068,SAA 13 162. Restoration Work in the Esaggil (ABL 0120),o 12,ana[to]PRP šarru[king]N bēlu[lord]N tadānu[give]V
+saao/saa13/P334068,SAA 13 162. Restoration Work in the Esaggil (ABL 0120),o 13,erēnu[cedar]N šattu[year]N
+saao/saa13/P334068,SAA 13 162. Restoration Work in the Esaggil (ABL 0120),o 14,annû[this]DP ištu[from]PRP libbu[interior]N ursūtu[(a-storeroom;-deposit)?]N
+saao/saa13/P334068,SAA 13 162. Restoration Work in the Esaggil (ABL 0120),o 15,ša[of]DET Gargamis[Carchemish]GN našû[lifted]AJ
+saao/saa13/P334068,SAA 13 162. Restoration Work in the Esaggil (ABL 0120),o 16,ištu[from]PRP libbu[interior]N erēnu[cedar]N dannu[strong]AJ
+saao/saa13/P334068,SAA 13 162. Restoration Work in the Esaggil (ABL 0120),o 17,ana[to]PRP papāhu[cella]N Bel[1]DN bābānû[outer]AJ
+saao/saa13/P334068,SAA 13 162. Restoration Work in the Esaggil (ABL 0120),o 18,erēnu[cedar]N ina[in]PRP muhhu[skull]N
+saao/saa13/P334068,SAA 13 162. Restoration Work in the Esaggil (ABL 0120),o 19,ṣabātu[seize]V
+saao/saa13/P334068,SAA 13 162. Restoration Work in the Esaggil (ABL 0120),o 20,muhhu[skull]N abullu[(city)-gate]N
+saao/saa13/P334068,SAA 13 162. Restoration Work in the Esaggil (ABL 0120),r 2,ṣabātu[seize]V
+saao/saa13/P334068,SAA 13 162. Restoration Work in the Esaggil (ABL 0120),r 3,ina[in]PRP muhhu[skull]N
+saao/saa13/P334068,SAA 13 162. Restoration Work in the Esaggil (ABL 0120),r 4,ṣabātu[seize]V
+saao/saa13/P334068,SAA 13 162. Restoration Work in the Esaggil (ABL 0120),r 5,ina[in]PRP muhhu[skull]N
+saao/saa13/P334068,SAA 13 162. Restoration Work in the Esaggil (ABL 0120),r 6,dullu[trouble]N ša[of]DET libittu[mudbrick]N
+saao/saa13/P334068,SAA 13 162. Restoration Work in the Esaggil (ABL 0120),r 7,lā[not]MOD rēhu[remaining]AJ
+saao/saa13/P334068,SAA 13 162. Restoration Work in the Esaggil (ABL 0120),r 8,bīʾu[outlet]N
+saao/saa13/P334068,SAA 13 162. Restoration Work in the Esaggil (ABL 0120),r 9,igāru[wall]N
+saao/saa13/P334068,SAA 13 162. Restoration Work in the Esaggil (ABL 0120),r 10,tarbāṣu[courtyard]N dullu[trouble]N
+saao/saa13/P334068,SAA 13 162. Restoration Work in the Esaggil (ABL 0120),r 11,ša[of]DET agurru[baked-brick]N šū[he]IP
+saao/saa13/P334068,SAA 13 162. Restoration Work in the Esaggil (ABL 0120),r 12,epēšu[do]V
+saao/saa13/P334068,SAA 13 162. Restoration Work in the Esaggil (ABL 0120),r 13,šarru[king]N bēlu[lord]N lū[may]MOD wadû[know]V labbūnu[(a-stand-or-pedestal)?]N
+saao/saa13/P334068,SAA 13 162. Restoration Work in the Esaggil (ABL 0120),r 14,gabbu[totality]N labiānu[neck(‑tendons)]N gabbu[totality]N
+saao/saa13/P334068,SAA 13 162. Restoration Work in the Esaggil (ABL 0120),r 15,ša[of]DET ṣalmu[effigy]N šumu[name]N ša[of]DET šarru[king]N bēlu[lord]N
+saao/saa13/P334068,SAA 13 162. Restoration Work in the Esaggil (ABL 0120),r 16,ina[in]PRP muhhu[skull]N šaṭāru[write]V ilu[god]N
+saao/saa13/P334068,SAA 13 162. Restoration Work in the Esaggil (ABL 0120),r 17,epēšu[do]V
+saao/saa13/P334068,SAA 13 162. Restoration Work in the Esaggil (ABL 0120),r 18,eperu[earth]N

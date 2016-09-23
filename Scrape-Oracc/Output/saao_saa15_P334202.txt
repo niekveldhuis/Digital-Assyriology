@@ -1,0 +1,24 @@
+id_text,text_name,l_no,text
+saao/saa15/P334202,SAA 15 219. The Son of Zeri in Uruk (ABL 0314),o 1,ana[to]PRP šarru[king]N bēlu[lord]N
+saao/saa15/P334202,SAA 15 219. The Son of Zeri in Uruk (ABL 0314),o 2,ardu[slave]N Šarru-emuranni[1]PN
+saao/saa15/P334202,SAA 15 219. The Son of Zeri in Uruk (ABL 0314),o 3,lū[may]MOD šulmu[completeness]N ana[to]PRP šarru[king]N bēlu[lord]N
+saao/saa15/P334202,SAA 15 219. The Son of Zeri in Uruk (ABL 0314),o 4,šulmu[completeness]N ana[to]PRP birtu[fort]N
+saao/saa15/P334202,SAA 15 219. The Son of Zeri in Uruk (ABL 0314),o 5,issurri[perhaps]AV šarru[king]N bēlu[lord]N qabû[say]V
+saao/saa15/P334202,SAA 15 219. The Son of Zeri in Uruk (ABL 0314),o 6,mā[saying]PRP mīnu[what?]QP ṭēmu[(fore)thought]N ša[of]DET Mar-Zeri[1]PN
+saao/saa15/P334202,SAA 15 219. The Son of Zeri in Uruk (ABL 0314),o 7,pānītu[earlier-time]N qabû[say]V mā[saying]PRP ina[in]PRP Puqudu[1]GN
+saao/saa15/P334202,SAA 15 219. The Son of Zeri in Uruk (ABL 0314),o 8,alāku[go]V ūma[today]AV šanû[do-twice]V
+saao/saa15/P334202,SAA 15 219. The Son of Zeri in Uruk (ABL 0314),o 9,qabû[say]V mā[saying]PRP ina[in]PRP Uruk[1]GN
+saao/saa15/P334202,SAA 15 219. The Son of Zeri in Uruk (ABL 0314),o 10,šū[he]IP māru[son]N šipru[sending]N ina[in]PRP Sapia[1]GN
+saao/saa15/P334202,SAA 15 219. The Son of Zeri in Uruk (ABL 0314),o 11,alāku[go]V kīma[like]PRP alāku[go]V
+saao/saa15/P334202,SAA 15 219. The Son of Zeri in Uruk (ABL 0314),o 12,mīnu[what?]QP ša[that]REL ṭēmu[(fore)thought]N batqu[cut-(off)]AJ
+saao/saa15/P334202,SAA 15 219. The Son of Zeri in Uruk (ABL 0314),o 13,ana[to]PRP šarru[king]N bēlu[lord]N šapāru[send]V
+saao/saa15/P334202,SAA 15 219. The Son of Zeri in Uruk (ABL 0314),o 14,libbu[interior]N ša[of]DET šarru[king]N bēlu[lord]N adanniš[very-much]AV
+saao/saa15/P334202,SAA 15 219. The Son of Zeri in Uruk (ABL 0314),o 15,lū[may]MOD ṭābu[good]AJ māru[son]N šipru[sending]N
+saao/saa15/P334202,SAA 15 219. The Son of Zeri in Uruk (ABL 0314),r 2',biltu[load]N
+saao/saa15/P334202,SAA 15 219. The Son of Zeri in Uruk (ABL 0314),r 3',Adinni[1]GN
+saao/saa15/P334202,SAA 15 219. The Son of Zeri in Uruk (ABL 0314),r 4',bašû[exist]V
+saao/saa15/P334202,SAA 15 219. The Son of Zeri in Uruk (ABL 0314),r 5',ša[that]REL alāku[go]V
+saao/saa15/P334202,SAA 15 219. The Son of Zeri in Uruk (ABL 0314),r 6',bītu[house]N raṣāpu[build]V
+saao/saa15/P334202,SAA 15 219. The Son of Zeri in Uruk (ABL 0314),r 7',qabû[say]V muk[saying]PRP yamattu[each]XP
+saao/saa15/P334202,SAA 15 219. The Son of Zeri in Uruk (ABL 0314),r 8',bītu[house]N raṣāpu[build]V
+saao/saa15/P334202,SAA 15 219. The Son of Zeri in Uruk (ABL 0314),r 9',erēbu[enter]V ina[in]PRP bītu[house]N

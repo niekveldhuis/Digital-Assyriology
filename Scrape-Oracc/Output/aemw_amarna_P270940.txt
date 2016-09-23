@@ -1,25 +1,25 @@
 id_text,text_name,l_no,text
-aemw/amarna/P270940,EA 316. Postscript to the royal scribe [vassal letter],001,
-aemw/amarna/P270940,EA 316. Postscript to the royal scribe [vassal letter],002,Šamaš[1]DN
-aemw/amarna/P270940,EA 316. Postscript to the royal scribe [vassal letter],003,Pu-Baʾlu[1]PN
-aemw/amarna/P270940,EA 316. Postscript to the royal scribe [vassal letter],004,
-aemw/amarna/P270940,EA 316. Postscript to the royal scribe [vassal letter],005,
-aemw/amarna/P270940,EA 316. Postscript to the royal scribe [vassal letter],006,
-aemw/amarna/P270940,EA 316. Postscript to the royal scribe [vassal letter],007,Šamaš[1]DN
-aemw/amarna/P270940,EA 316. Postscript to the royal scribe [vassal letter],008,
-aemw/amarna/P270940,EA 316. Postscript to the royal scribe [vassal letter],009,
-aemw/amarna/P270940,EA 316. Postscript to the royal scribe [vassal letter],010,
-aemw/amarna/P270940,EA 316. Postscript to the royal scribe [vassal letter],011,
-aemw/amarna/P270940,EA 316. Postscript to the royal scribe [vassal letter],012,
-aemw/amarna/P270940,EA 316. Postscript to the royal scribe [vassal letter],013,
-aemw/amarna/P270940,EA 316. Postscript to the royal scribe [vassal letter],014,
-aemw/amarna/P270940,EA 316. Postscript to the royal scribe [vassal letter],015,Tahmaya[1]PN
-aemw/amarna/P270940,EA 316. Postscript to the royal scribe [vassal letter],016,
-aemw/amarna/P270940,EA 316. Postscript to the royal scribe [vassal letter],017,Pu-Baʾlu[1]PN
-aemw/amarna/P270940,EA 316. Postscript to the royal scribe [vassal letter],018,
-aemw/amarna/P270940,EA 316. Postscript to the royal scribe [vassal letter],019,
-aemw/amarna/P270940,EA 316. Postscript to the royal scribe [vassal letter],020,
-aemw/amarna/P270940,EA 316. Postscript to the royal scribe [vassal letter],021,
-aemw/amarna/P270940,EA 316. Postscript to the royal scribe [vassal letter],022,
-aemw/amarna/P270940,EA 316. Postscript to the royal scribe [vassal letter],023,
-aemw/amarna/P270940,EA 316. Postscript to the royal scribe [vassal letter],024,
+aemw/amarna/P270940,EA 316. Postscript to the royal scribe [vassal letter],001,akk-x-mbperi:ana[to]PRP akk-x-mbperi:šarru[king]N akk-x-mbperi:bēlu[lord]N akk-x-mbperi:ilu[god]N
+aemw/amarna/P270940,EA 316. Postscript to the royal scribe [vassal letter],002,akk-x-mbperi:Šamaš[1]DN akk-x-mbperi:ištu[from]PRP akk-x-mbperi:šamû[sky]N akk-x-mbperi:šamû[sky]N
+aemw/amarna/P270940,EA 316. Postscript to the royal scribe [vassal letter],003,akk-x-mbperi:umma[saying]PRP akk-x-mbperi:Pu-Baʾlu[1]PN akk-x-mbperi:wardu[slave]N
+aemw/amarna/P270940,EA 316. Postscript to the royal scribe [vassal letter],004,akk-x-mbperi:u[and]CNJ akk-x-mbperi:eperu[earth]N akk-x-mbperi:eperu[earth]N akk-x-mbperi:ša[of]DET akk-x-mbperi:šēpu[foot]N
+aemw/amarna/P270940,EA 316. Postscript to the royal scribe [vassal letter],005,akk-x-mbperi:ša[of]DET akk-x-mbperi:sisû[horse]N
+aemw/amarna/P270940,EA 316. Postscript to the royal scribe [vassal letter],006,akk-x-mbperi:ana[to]PRP akk-x-mbperi:šēpu[foot]N akk-x-mbperi:šarru[king]N akk-x-mbperi:bēlu[lord]N akk-x-mbperi:ilu[god]N
+aemw/amarna/P270940,EA 316. Postscript to the royal scribe [vassal letter],007,akk-x-mbperi:Šamaš[1]DN akk-x-mbperi:ištu[from]PRP akk-x-mbperi:šamû[sky]N akk-x-mbperi:šamû[sky]N
+aemw/amarna/P270940,EA 316. Postscript to the royal scribe [vassal letter],008,akk-x-mbperi:u[and]CNJ akk-x-mbperi:maqātu[fall]V
+aemw/amarna/P270940,EA 316. Postscript to the royal scribe [vassal letter],009,akk-x-mbperi:ṣēru[back]N akk-x-mbperi:u[and]CNJ akk-x-mbperi:kabattu[liver]N
+aemw/amarna/P270940,EA 316. Postscript to the royal scribe [vassal letter],010,akk-x-mbperi:anumma[now]AV akk-x-mbperi:naṣāru[guard]V akk-x-mbperi:ašru[place]N
+aemw/amarna/P270940,EA 316. Postscript to the royal scribe [vassal letter],011,akk-x-mbperi:šarru[king]N akk-x-mbperi:magal[very-(much)]AV akk-x-mbperi:u[and]CNJ akk-x-mbperi:mīya[who?]QP
+aemw/amarna/P270940,EA 316. Postscript to the royal scribe [vassal letter],012,akk-x-mbperi:kalbu[dog]N akk-x-mbperi:ša[that]REL akk-x-mbperi:mekû[neglect]V
+aemw/amarna/P270940,EA 316. Postscript to the royal scribe [vassal letter],013,akk-x-mbperi:egerrû[utterance]N akk-x-mbperi:šarru[king]N akk-x-mbperi:anumma[now]AV
+aemw/amarna/P270940,EA 316. Postscript to the royal scribe [vassal letter],014,akk-x-mbperi:šemû[hear]V akk-x-mbperi:awātu[word]N
+aemw/amarna/P270940,EA 316. Postscript to the royal scribe [vassal letter],015,akk-x-mbperi:Tahmaya[1]PN akk-x-mbperi:rābiṣu[bailiff]N akk-x-mbperi:ša[of]DET akk-x-mbperi:šarru[king]N
+aemw/amarna/P270940,EA 316. Postscript to the royal scribe [vassal letter],016,akk-x-mbperi:ana[to]PRP akk-x-mbperi:bēlu[lord]N
+aemw/amarna/P270940,EA 316. Postscript to the royal scribe [vassal letter],017,akk-x-mbperi:umma[saying]PRP akk-x-mbperi:Pu-Baʾlu[1]PN akk-x-mbperi:ana[to]PRP akk-x-mbperi:šēpu[foot]N akk-x-mbperi:maqātu[fall]V
+aemw/amarna/P270940,EA 316. Postscript to the royal scribe [vassal letter],018,akk-x-mbperi:yānu[(there)-is-not]V akk-x-mbperi:mimma[anything]XP
+aemw/amarna/P270940,EA 316. Postscript to the royal scribe [vassal letter],019,akk-x-mbperi:ina[in]PRP akk-x-mbperi:bītu[house]N akk-x-mbperi:ina[in]PRP
+aemw/amarna/P270940,EA 316. Postscript to the royal scribe [vassal letter],020,akk-x-mbperi:erēbu[enter]V akk-x-mbperi:ana[to]PRP akk-x-mbperi:šâšu[to-him]IP
+aemw/amarna/P270940,EA 316. Postscript to the royal scribe [vassal letter],021,akk-x-mbperi:u[and]CNJ akk-x-mbperi:kīnanna[so]AV akk-x-mbperi:lā[not]MOD akk-x-mbperi:wuššuru[exempt]AJ
+aemw/amarna/P270940,EA 316. Postscript to the royal scribe [vassal letter],022,akk-x-mbperi:harrānu[way]N akk-x-mbperi:ana[to]PRP akk-x-mbperi:kâti[you]IP
+aemw/amarna/P270940,EA 316. Postscript to the royal scribe [vassal letter],023,akk-x-mbperi:anumma[now]AV akk-x-mbperi:ešēru[be(come)-well]V
+aemw/amarna/P270940,EA 316. Postscript to the royal scribe [vassal letter],024,akk-x-mbperi:harrānu[way]N akk-x-mbperi:damqu[good]AJ

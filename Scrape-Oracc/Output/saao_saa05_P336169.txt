@@ -1,0 +1,16 @@
+id_text,text_name,l_no,text
+saao/saa05/P336169,SAA 05 292. Building the City Wall of Dur-Šarruken (GPA 242),o 1,ana[to]PRP šarru[king]N bēlu[lord]N
+saao/saa05/P336169,SAA 05 292. Building the City Wall of Dur-Šarruken (GPA 242),o 2,ardu[slave]N Šarru-emuranni[1]PN
+saao/saa05/P336169,SAA 05 292. Building the City Wall of Dur-Šarruken (GPA 242),o 3,lū[may]MOD šulmu[completeness]N ana[to]PRP šarru[king]N bēlu[lord]N
+saao/saa05/P336169,SAA 05 292. Building the City Wall of Dur-Šarruken (GPA 242),o 4,ša[that]REL šarru[king]N bēlu[lord]N šapāru[send]V
+saao/saa05/P336169,SAA 05 292. Building the City Wall of Dur-Šarruken (GPA 242),o 5,mā[saying]PRP mādu[many]AJ Šarru-emuranni[1]PN
+saao/saa05/P336169,SAA 05 292. Building the City Wall of Dur-Šarruken (GPA 242),o 6,alāku[go]V qabû[say]V
+saao/saa05/P336169,SAA 05 292. Building the City Wall of Dur-Šarruken (GPA 242),o 7,mā[saying]PRP dūru[(city)-wall]N ša[of]DET Dur-Šarruken[1]GN
+saao/saa05/P336169,SAA 05 292. Building the City Wall of Dur-Šarruken (GPA 242),r 2',Marduk-remanni[1]PN
+saao/saa05/P336169,SAA 05 292. Building the City Wall of Dur-Šarruken (GPA 242),r 3',anāku[I]IP ina[in]PRP libbu[interior]N anāku[I]IP maṣṣartu[observation]N
+saao/saa05/P336169,SAA 05 292. Building the City Wall of Dur-Šarruken (GPA 242),r 4',ša[of]DET Iqiša-Marduk[1]PN u[and]CNJ
+saao/saa05/P336169,SAA 05 292. Building the City Wall of Dur-Šarruken (GPA 242),r 5',ša[that]REL išti[with]PRP naṣāru[guard]V
+saao/saa05/P336169,SAA 05 292. Building the City Wall of Dur-Šarruken (GPA 242),r 6',adi[until]PRP mīnu[what?]QP ša[that]REL šarru[king]N šapāru[send]V
+saao/saa05/P336169,SAA 05 292. Building the City Wall of Dur-Šarruken (GPA 242),r 7',šemû[hear]V mā[saying]PRP Šarru-emuranni[1]PN
+saao/saa05/P336169,SAA 05 292. Building the City Wall of Dur-Šarruken (GPA 242),r 8',alāku[go]V mā[saying]PRP ina[in]PRP
+saao/saa05/P336169,SAA 05 292. Building the City Wall of Dur-Šarruken (GPA 242),r.e. 9,mā[saying]PRP dullu[trouble]N

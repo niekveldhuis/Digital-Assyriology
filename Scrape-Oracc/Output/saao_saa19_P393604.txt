@@ -1,0 +1,33 @@
+id_text,text_name,l_no,text
+saao/saa19/P393604,SAA 19 001. Soothing Babylon (CTN 5 p. 13),o 1,awātu[word]N šarru[king]N
+saao/saa19/P393604,SAA 19 001. Soothing Babylon (CTN 5 p. 13),o 2,ana[to]PRP ēribu[enterer]N bītu[house]N
+saao/saa19/P393604,SAA 19 001. Soothing Babylon (CTN 5 p. 13),o 3,kiništu[priesthood]N
+saao/saa19/P393604,SAA 19 001. Soothing Babylon (CTN 5 p. 13),o 4,ašarēdu[first-and-foremost]AJ ša[of]DET Babili[Babylon]GN
+saao/saa19/P393604,SAA 19 001. Soothing Babylon (CTN 5 p. 13),o 5,ana[to]PRP Babilaya[Babylonian]EN
+saao/saa19/P393604,SAA 19 001. Soothing Babylon (CTN 5 p. 13),o 6,šulmu[completeness]N yâšim[to-me]IP
+saao/saa19/P393604,SAA 19 001. Soothing Babylon (CTN 5 p. 13),o 7,šulmu[completeness]N ana[to]PRP mātu[land]N Aššur[1]DN
+saao/saa19/P393604,SAA 19 001. Soothing Babylon (CTN 5 p. 13),o 8,libbu[interior]N lū[may]MOD ṭābu[good]AJ
+saao/saa19/P393604,SAA 19 001. Soothing Babylon (CTN 5 p. 13),o 9,ina[in]PRP muhhu[skull]N ṭēmu[(fore)thought]N annû[this]DP
+saao/saa19/P393604,SAA 19 001. Soothing Babylon (CTN 5 p. 13),o 10,ša[that]REL šemû[hear]V
+saao/saa19/P393604,SAA 19 001. Soothing Babylon (CTN 5 p. 13),o 11,lā[not]MOD palhu[fearful]AJ
+saao/saa19/P393604,SAA 19 001. Soothing Babylon (CTN 5 p. 13),o 12,ālu[city]N harādu[be(come)-awake]V sūqāqû[street]N
+saao/saa19/P393604,SAA 19 001. Soothing Babylon (CTN 5 p. 13),o 13,ṣabātu[seize]V maṣṣartu[observation]N ša[of]DET ramānu[self]N
+saao/saa19/P393604,SAA 19 001. Soothing Babylon (CTN 5 p. 13),o 14,naṣāru[guard]V annûri[now]AV
+saao/saa19/P393604,SAA 19 001. Soothing Babylon (CTN 5 p. 13),o 15,anāku[I]IP qerēbu[approach]V
+saao/saa19/P393604,SAA 19 001. Soothing Babylon (CTN 5 p. 13),o 16,Naʾdi-ilu[1]PN ša-qurbūti[close-follower]N
+saao/saa19/P393604,SAA 19 001. Soothing Babylon (CTN 5 p. 13),o 17,qabû[say]V mā[saying]PRP palhu[fearful]AJ
+saao/saa19/P393604,SAA 19 001. Soothing Babylon (CTN 5 p. 13),b.e. 18,qarāru[writhe]V
+saao/saa19/P393604,SAA 19 001. Soothing Babylon (CTN 5 p. 13),r 1,Bel[1]DN u[and]CNJ Nabu[1]DN lū[may]MOD wadû[know]V
+saao/saa19/P393604,SAA 19 001. Soothing Babylon (CTN 5 p. 13),r 2,u[and]CNJ ilu[god]N rabû[big]AJ šūtu[he]IP
+saao/saa19/P393604,SAA 19 001. Soothing Babylon (CTN 5 p. 13),r 3,lū[may]MOD wadû[know]V šumma[if]MOD akī[as]PRP
+saao/saa19/P393604,SAA 19 001. Soothing Babylon (CTN 5 p. 13),r 4,ina[in]PRP pānītu[earlier-time]N šemû[hear]V
+saao/saa19/P393604,SAA 19 001. Soothing Babylon (CTN 5 p. 13),r 5,ša[that]REL ahu[brother]N dīku[killed]AJ
+saao/saa19/P393604,SAA 19 001. Soothing Babylon (CTN 5 p. 13),r 6,šumma[if]MOD ūmu[day]N memēni[somebody]XP ina[in]PRP pānu[front]N
+saao/saa19/P393604,SAA 19 001. Soothing Babylon (CTN 5 p. 13),r 7,erēbu[enter]V libbu[interior]N ṭiābu[be(come)-good]V
+saao/saa19/P393604,SAA 19 001. Soothing Babylon (CTN 5 p. 13),r 8,tūra[again]AV ūma[today]AV palhu[fearful]AJ
+saao/saa19/P393604,SAA 19 001. Soothing Babylon (CTN 5 p. 13),r 9,Bel[1]DN u[and]CNJ Nabu[1]DN lū[may]MOD wadû[know]V
+saao/saa19/P393604,SAA 19 001. Soothing Babylon (CTN 5 p. 13),r 10,šumma[if]MOD hīṭu[error]N bašû[exist]V
+saao/saa19/P393604,SAA 19 001. Soothing Babylon (CTN 5 p. 13),r 11,libbu[interior]N adanniš[very-much]AV lū[may]MOD ṭābu[good]AJ
+saao/saa19/P393604,SAA 19 001. Soothing Babylon (CTN 5 p. 13),r 12,maṣṣartu[observation]N lū[may]MOD dannu[strong]AJ
+saao/saa19/P393604,SAA 19 001. Soothing Babylon (CTN 5 p. 13),r 13,adi[until]PRP bīt[where]SBJ anāku[I]IP qerēbu[approach]V
+saao/saa19/P393604,SAA 19 001. Soothing Babylon (CTN 5 p. 13),r 14,Naʾdi-ilu[1]PN ša-qurbūti[close-follower]N

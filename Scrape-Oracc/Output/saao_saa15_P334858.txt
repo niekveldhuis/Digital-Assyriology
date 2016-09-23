@@ -1,0 +1,22 @@
+id_text,text_name,l_no,text
+saao/saa15/P334858,SAA 15 117. The King is Coming and has Crossed the River (ABL 1349),o 1,ana[to]PRP šarru[king]N bēlu[lord]N
+saao/saa15/P334858,SAA 15 117. The King is Coming and has Crossed the River (ABL 1349),o 2,ardu[slave]N Šamaš-belu-uṣur[1]PN lū[may]MOD šulmu[completeness]N ana[to]PRP šarru[king]N bēlu[lord]N
+saao/saa15/P334858,SAA 15 117. The King is Coming and has Crossed the River (ABL 1349),o 3,šulmu[completeness]N ana[to]PRP Deru[Der]GN šulmu[completeness]N ana[to]PRP birtu[fort]N
+saao/saa15/P334858,SAA 15 117. The King is Coming and has Crossed the River (ABL 1349),o 4,ina[in]PRP muhhu[skull]N āšibu[sitting]AJ ālu[city]N ša[of]DET Deru[Der]GN
+saao/saa15/P334858,SAA 15 117. The King is Coming and has Crossed the River (ABL 1349),o 5,ša[that]REL šarru[king]N bēlu[lord]N šapāru[send]V mā[saying]PRP ištu[from]PRP libbu[interior]N alāku[go]V
+saao/saa15/P334858,SAA 15 117. The King is Coming and has Crossed the River (ABL 1349),o 6,ina[in]PRP pānu[front]N erēbu[enter]V annûri[now]AV Nabu-ušabši[1]PN
+saao/saa15/P334858,SAA 15 117. The King is Coming and has Crossed the River (ABL 1349),o 7,ina[in]PRP pānu[front]N alāku[go]V annû[this]DP šū[he]IP
+saao/saa15/P334858,SAA 15 117. The King is Coming and has Crossed the River (ABL 1349),o 8,ina[in]PRP Kalhu[1]GN šarru[king]N bēlu[lord]N
+saao/saa15/P334858,SAA 15 117. The King is Coming and has Crossed the River (ABL 1349),o 9,šakānu[put]V mā[saying]PRP ina[in]PRP muhhu[skull]N
+saao/saa15/P334858,SAA 15 117. The King is Coming and has Crossed the River (ABL 1349),r 1',ṣābu[people]N ištu[from]PRP libbu[interior]N
+saao/saa15/P334858,SAA 15 117. The King is Coming and has Crossed the River (ABL 1349),r 2',ina[in]PRP pānu[front]N alāku[go]V mā[saying]PRP ana[to]PRP šarru[king]N
+saao/saa15/P334858,SAA 15 117. The King is Coming and has Crossed the River (ABL 1349),r 4',muk[saying]PRP
+saao/saa15/P334858,SAA 15 117. The King is Coming and has Crossed the River (ABL 1349),r 5',kī[like]PRP ina[in]PRP Meturna[1]GN
+saao/saa15/P334858,SAA 15 117. The King is Coming and has Crossed the River (ABL 1349),r 6',muk[saying]PRP atā[why?]QP ana[to]PRP šulmu[completeness]N šarru[king]N lā[not]MOD alāku[go]V
+saao/saa15/P334858,SAA 15 117. The King is Coming and has Crossed the River (ABL 1349),r 7',muk[saying]PRP ūma[today]AV šarru[king]N nāru[river]N ebēru[cross-over]V muk[saying]PRP
+saao/saa15/P334858,SAA 15 117. The King is Coming and has Crossed the River (ABL 1349),r 8',šumma[if]MOD ana[to]PRP šulmu[completeness]N šarru[king]N alāku[go]V muk[saying]PRP šarru[king]N
+saao/saa15/P334858,SAA 15 117. The King is Coming and has Crossed the River (ABL 1349),r 9',rēšu[head]N matāhu[lift]V amāru[see]V
+saao/saa15/P334858,SAA 15 117. The King is Coming and has Crossed the River (ABL 1349),r 10',mā[saying]PRP kibsu[track]N annû[this]DP mādu[many]AJ
+saao/saa15/P334858,SAA 15 117. The King is Coming and has Crossed the River (ABL 1349),r.e. 11,māru[son]N Babili[Babylon]GN ina[in]PRP dāt[behind]PRP
+saao/saa15/P334858,SAA 15 117. The King is Coming and has Crossed the River (ABL 1349),r.e. 12,dâlu[move]V ištu[from]PRP pānu[front]N palāhu[fear]V
+saao/saa15/P334858,SAA 15 117. The King is Coming and has Crossed the River (ABL 1349),r.e. 13,dâku[kill]V ūma[today]AV annûri[now]AV

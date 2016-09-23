@@ -1,0 +1,36 @@
+id_text,text_name,l_no,text
+saao/saa15/P334708,SAA 15 118. Elamite Troops Besiege and Take Malaku (ABL 1063),o 2',alāku[go]V Malak[1]GN
+saao/saa15/P334708,SAA 15 118. Elamite Troops Besiege and Take Malaku (ABL 1063),o 3',lawû[surround]V akī[as]PRP ūmu[day]N
+saao/saa15/P334708,SAA 15 118. Elamite Troops Besiege and Take Malaku (ABL 1063),o 4',nawāru[be(come)-bright]V ina[in]PRP muhhu[skull]N
+saao/saa15/P334708,SAA 15 118. Elamite Troops Besiege and Take Malaku (ABL 1063),o 5',ālu[city]N rammû[released]AJ
+saao/saa15/P334708,SAA 15 118. Elamite Troops Besiege and Take Malaku (ABL 1063),o 6',ramû[slacken]V nišu[people]N alpu[ox]N gabbu[totality]N
+saao/saa15/P334708,SAA 15 118. Elamite Troops Besiege and Take Malaku (ABL 1063),o 7',habātu[rob]V ammar[as-much-as]REL ezēbu[leave]V
+saao/saa15/P334708,SAA 15 118. Elamite Troops Besiege and Take Malaku (ABL 1063),o 8',qarāru[writhe]V ina[in]PRP Deru[Der]GN
+saao/saa15/P334708,SAA 15 118. Elamite Troops Besiege and Take Malaku (ABL 1063),o 9',erēbu[enter]V ūmu[day]N Kislimu[Kislev]MN
+saao/saa15/P334708,SAA 15 118. Elamite Troops Besiege and Take Malaku (ABL 1063),o 10',ša-pēthalli[rider]N ana[to]PRP
+saao/saa15/P334708,SAA 15 118. Elamite Troops Besiege and Take Malaku (ABL 1063),o 11',Malak[1]GN šapāru[send]V
+saao/saa15/P334708,SAA 15 118. Elamite Troops Besiege and Take Malaku (ABL 1063),o 12',alāku[go]V qabû[say]V
+saao/saa15/P334708,SAA 15 118. Elamite Troops Besiege and Take Malaku (ABL 1063),o 13',mā[saying]PRP nāgiru[herald]N bītu[house]N Zeru-iddina[1]PN
+saao/saa15/P334708,SAA 15 118. Elamite Troops Besiege and Take Malaku (ABL 1063),o 14',erēbu[enter]V nišu[people]N mātu[land]N Malakaya[1]EN
+saao/saa15/P334708,SAA 15 118. Elamite Troops Besiege and Take Malaku (ABL 1063),o 15',pahāru[gather]V ina[in]PRP bītu[house]N ilu[god]N
+saao/saa15/P334708,SAA 15 118. Elamite Troops Besiege and Take Malaku (ABL 1063),o 16',erēbu[enter]V maṣṣartu[observation]N
+saao/saa15/P334708,SAA 15 118. Elamite Troops Besiege and Take Malaku (ABL 1063),o 17',naṣāru[guard]V
+saao/saa15/P334708,SAA 15 118. Elamite Troops Besiege and Take Malaku (ABL 1063),o 18',ša[of]DET Zeru-iddina[1]PN
+saao/saa15/P334708,SAA 15 118. Elamite Troops Besiege and Take Malaku (ABL 1063),b.e. 20',māru[son]N šipru[sending]N ištu[from]PRP
+saao/saa15/P334708,SAA 15 118. Elamite Troops Besiege and Take Malaku (ABL 1063),b.e. 21',ūmu[day]N sahāru[go-around]V
+saao/saa15/P334708,SAA 15 118. Elamite Troops Besiege and Take Malaku (ABL 1063),b.e. 22',ana[to]PRP šarru[king]N bēlu[lord]N
+saao/saa15/P334708,SAA 15 118. Elamite Troops Besiege and Take Malaku (ABL 1063),r 1,šapāru[send]V issurri[perhaps]AV
+saao/saa15/P334708,SAA 15 118. Elamite Troops Besiege and Take Malaku (ABL 1063),r 2,šarru[king]N bēlu[lord]N qabû[say]V
+saao/saa15/P334708,SAA 15 118. Elamite Troops Besiege and Take Malaku (ABL 1063),r 3,mā[saying]PRP šarru[king]N Elamtu[Elam]GN
+saao/saa15/P334708,SAA 15 118. Elamite Troops Besiege and Take Malaku (ABL 1063),r 4,ayyaka[where?]QP Bit-Imbi[1]GN šū[he]IP
+saao/saa15/P334708,SAA 15 118. Elamite Troops Besiege and Take Malaku (ABL 1063),r 5,emūqu[strength]N annû[this]DP
+saao/saa15/P334708,SAA 15 118. Elamite Troops Besiege and Take Malaku (ABL 1063),r 6,ša[that]REL Malaku[1]GN alāku[go]V
+saao/saa15/P334708,SAA 15 118. Elamite Troops Besiege and Take Malaku (ABL 1063),r 7,šumma[if]MOD ana[to]PRP Deru[Der]GN
+saao/saa15/P334708,SAA 15 118. Elamite Troops Besiege and Take Malaku (ABL 1063),r 8,alāku[go]V šumma[if]MOD
+saao/saa15/P334708,SAA 15 118. Elamite Troops Besiege and Take Malaku (ABL 1063),r 9,ana[to]PRP kutallu[back]N sahāru[go-around]V
+saao/saa15/P334708,SAA 15 118. Elamite Troops Besiege and Take Malaku (ABL 1063),r 10,udīni[up-till-now]AV ṭēmu[(fore)thought]N
+saao/saa15/P334708,SAA 15 118. Elamite Troops Besiege and Take Malaku (ABL 1063),r 11,lā[not]MOD harāṣu[break-off]V ana[to]PRP kīma[like]PRP
+saao/saa15/P334708,SAA 15 118. Elamite Troops Besiege and Take Malaku (ABL 1063),r 12,ṭēmu[(fore)thought]N harāṣu[break-off]V
+saao/saa15/P334708,SAA 15 118. Elamite Troops Besiege and Take Malaku (ABL 1063),r 13,bīt[where]SBJ pānu[front]N
+saao/saa15/P334708,SAA 15 118. Elamite Troops Besiege and Take Malaku (ABL 1063),r 14,ana[to]PRP šarru[king]N bēlu[lord]N šapāru[send]V
+saao/saa15/P334708,SAA 15 118. Elamite Troops Besiege and Take Malaku (ABL 1063),r 15,Zeru-iddina[1]PN adi[until]PRP

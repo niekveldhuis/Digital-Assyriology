@@ -1,0 +1,42 @@
+id_text,text_name,l_no,text
+saao/saa10/P334254,SAA 10 233. Funerary Rituals (ABL 0378) [from exorcists],o 1,ana[to]PRP šarru[king]N bēlu[lord]N
+saao/saa10/P334254,SAA 10 233. Funerary Rituals (ABL 0378) [from exorcists],o 2,ardu[slave]N Marduk-šakin-šumi[1]PN
+saao/saa10/P334254,SAA 10 233. Funerary Rituals (ABL 0378) [from exorcists],o 3,lū[may]MOD šulmu[completeness]N adanniš[very-much]AV ana[to]PRP šarru[king]N bēlu[lord]N
+saao/saa10/P334254,SAA 10 233. Funerary Rituals (ABL 0378) [from exorcists],o 4,Nabu[1]DN u[and]CNJ Marduk[1]DN ana[to]PRP šarru[king]N bēlu[lord]N
+saao/saa10/P334254,SAA 10 233. Funerary Rituals (ABL 0378) [from exorcists],o 5,karābu[pray]V Ištar[1]DN ša[of]DET Arbail[Arbela]GN
+saao/saa10/P334254,SAA 10 233. Funerary Rituals (ABL 0378) [from exorcists],o 6,ṭūbu[goodness]N libbu[interior]N ṭūbu[goodness]N šīru[flesh]N
+saao/saa10/P334254,SAA 10 233. Funerary Rituals (ABL 0378) [from exorcists],o 7,ana[to]PRP šarru[king]N bēlu[lord]N lū[may]MOD tadānu[give]V
+saao/saa10/P334254,SAA 10 233. Funerary Rituals (ABL 0378) [from exorcists],o 8,šībūtu[old-age]N littūtu[(extreme)-old-age]N ana[to]PRP šarru[king]N bēlu[lord]N
+saao/saa10/P334254,SAA 10 233. Funerary Rituals (ABL 0378) [from exorcists],o 9,lū[may]MOD šebû[be(come)-full]V ūmu[day]N arku[long]AJ
+saao/saa10/P334254,SAA 10 233. Funerary Rituals (ABL 0378) [from exorcists],o 10,ana[to]PRP šarru[king]N bēlu[lord]N lū[may]MOD qiāšu[give]V
+saao/saa10/P334254,SAA 10 233. Funerary Rituals (ABL 0378) [from exorcists],o 11,annûri[now]AV kayyamānu[permanent]AJ
+saao/saa10/P334254,SAA 10 233. Funerary Rituals (ABL 0378) [from exorcists],o 12,dullu[trouble]N epēšu[do]V
+saao/saa10/P334254,SAA 10 233. Funerary Rituals (ABL 0378) [from exorcists],o 13,u[and]CNJ šuruptu[burning]N ša[of]DET šarru[king]N
+saao/saa10/P334254,SAA 10 233. Funerary Rituals (ABL 0378) [from exorcists],o 14,ina[in]PRP libbu[interior]N ištēn[one]NU bītu[house]N qātu[hand]N ša[of]DET Libbi-ali[Inner-City-(Assur)]GN
+saao/saa10/P334254,SAA 10 233. Funerary Rituals (ABL 0378) [from exorcists],o 15,pahru[gathered]AJ
+saao/saa10/P334254,SAA 10 233. Funerary Rituals (ABL 0378) [from exorcists],o 16,sinništu[woman]N ammiu[that]DP
+saao/saa10/P334254,SAA 10 233. Funerary Rituals (ABL 0378) [from exorcists],o 17,ša[that]REL šarru[king]N bēlu[lord]N qabû[say]V
+saao/saa10/P334254,SAA 10 233. Funerary Rituals (ABL 0378) [from exorcists],o 18,ina[in]PRP bītu[house]N kamsu[squatting]AJ
+saao/saa10/P334254,SAA 10 233. Funerary Rituals (ABL 0378) [from exorcists],o 19,ana[to]PRP akālu[eat]V šatû[drink]V
+saao/saa10/P334254,SAA 10 233. Funerary Rituals (ABL 0378) [from exorcists],b.e. 20,u[and]CNJ tabāku[pour-(out)]V
+saao/saa10/P334254,SAA 10 233. Funerary Rituals (ABL 0378) [from exorcists],b.e. 21,ša[of]DET qaqqadu[head]N ina[in]PRP libbu[interior]N
+saao/saa10/P334254,SAA 10 233. Funerary Rituals (ABL 0378) [from exorcists],b.e. 22,lā[not]MOD ṭābu[good]AJ
+saao/saa10/P334254,SAA 10 233. Funerary Rituals (ABL 0378) [from exorcists],r 1,nēmel[because]SBJ mādu[many]AJ
+saao/saa10/P334254,SAA 10 233. Funerary Rituals (ABL 0378) [from exorcists],r 2,šina[they-(f.)]IP issahîš[together]AV
+saao/saa10/P334254,SAA 10 233. Funerary Rituals (ABL 0378) [from exorcists],r 3,ina[in]PRP libbu[interior]N kamsu[squatting]AJ
+saao/saa10/P334254,SAA 10 233. Funerary Rituals (ABL 0378) [from exorcists],r 4,šumma[if]MOD ina[in]PRP pānu[front]N šarru[king]N mahru[received]AJ
+saao/saa10/P334254,SAA 10 233. Funerary Rituals (ABL 0378) [from exorcists],r 5,ina[in]PRP battu[side]N ištēn[one]NU ašābu[sit-(down)]V
+saao/saa10/P334254,SAA 10 233. Funerary Rituals (ABL 0378) [from exorcists],r 6,ūla[or]AV kīma[like]PRP adi[until]PRP libbu[interior]N ūmu[day]N
+saao/saa10/P334254,SAA 10 233. Funerary Rituals (ABL 0378) [from exorcists],r 7,epēšu[do]V ina[in]PRP muhhu[skull]N nāru[river]N
+saao/saa10/P334254,SAA 10 233. Funerary Rituals (ABL 0378) [from exorcists],r 8,aṣû[go-out]V kī[like]PRP ša[that]REL dullu[trouble]N epēšu[do]V
+saao/saa10/P334254,SAA 10 233. Funerary Rituals (ABL 0378) [from exorcists],r 9,kī[like]PRP ša[that]REL šina[they-(f.)]IP ina[in]PRP bīt[where]SBJ alāku[go]V
+saao/saa10/P334254,SAA 10 233. Funerary Rituals (ABL 0378) [from exorcists],r 10,alāku[go]V kī[like]PRP ša[that]REL tarṣu[correct]AJ
+saao/saa10/P334254,SAA 10 233. Funerary Rituals (ABL 0378) [from exorcists],r 11,šarru[king]N bēlu[lord]N ana[to]PRP ardu[slave]N šapāru[send]V
+saao/saa10/P334254,SAA 10 233. Funerary Rituals (ABL 0378) [from exorcists],r 12,ina[in]PRP pūtu[forehead]N epēšu[do]V
+saao/saa10/P334254,SAA 10 233. Funerary Rituals (ABL 0378) [from exorcists],r 13,u[and]CNJ ina[in]PRP muhhu[skull]N amtu[maid]N ammiu[that]DP
+saao/saa10/P334254,SAA 10 233. Funerary Rituals (ABL 0378) [from exorcists],r 14,ša[that]REL išti[with]PRP mīnu[what?]QP
+saao/saa10/P334254,SAA 10 233. Funerary Rituals (ABL 0378) [from exorcists],r 15,ša[that]REL šarru[king]N bēlu[lord]N qabû[say]V
+saao/saa10/P334254,SAA 10 233. Funerary Rituals (ABL 0378) [from exorcists],r 16,išti[with]PRP dullu[trouble]N
+saao/saa10/P334254,SAA 10 233. Funerary Rituals (ABL 0378) [from exorcists],r 17,ina[in]PRP muhhu[skull]N epēšu[do]V
+saao/saa10/P334254,SAA 10 233. Funerary Rituals (ABL 0378) [from exorcists],r 18,ūla[or]AV lā[not]MOD
+saao/saa10/P334254,SAA 10 233. Funerary Rituals (ABL 0378) [from exorcists],r.e. 19,adi[until]PRP šarru[king]N

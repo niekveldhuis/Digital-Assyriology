@@ -1,44 +1,44 @@
 id_text,text_name,l_no,text
-aemw/amarna/P271022,EA 160. Ships and lumber [vassal letter],001,Šamaš[1]DN
-aemw/amarna/P271022,EA 160. Ships and lumber [vassal letter],002,Aziru[1]PN
-aemw/amarna/P271022,EA 160. Ships and lumber [vassal letter],003,
-aemw/amarna/P271022,EA 160. Ships and lumber [vassal letter],004,Šamaš[1]DN
-aemw/amarna/P271022,EA 160. Ships and lumber [vassal letter],005,Šamaš[1]DN
-aemw/amarna/P271022,EA 160. Ships and lumber [vassal letter],006,
-aemw/amarna/P271022,EA 160. Ships and lumber [vassal letter],007,
-aemw/amarna/P271022,EA 160. Ships and lumber [vassal letter],008,
-aemw/amarna/P271022,EA 160. Ships and lumber [vassal letter],009,
-aemw/amarna/P271022,EA 160. Ships and lumber [vassal letter],010,
-aemw/amarna/P271022,EA 160. Ships and lumber [vassal letter],011,
-aemw/amarna/P271022,EA 160. Ships and lumber [vassal letter],012,
-aemw/amarna/P271022,EA 160. Ships and lumber [vassal letter],013,
-aemw/amarna/P271022,EA 160. Ships and lumber [vassal letter],014,
-aemw/amarna/P271022,EA 160. Ships and lumber [vassal letter],015,
-aemw/amarna/P271022,EA 160. Ships and lumber [vassal letter],016,
-aemw/amarna/P271022,EA 160. Ships and lumber [vassal letter],017,
-aemw/amarna/P271022,EA 160. Ships and lumber [vassal letter],018,Šamaš[1]DN
-aemw/amarna/P271022,EA 160. Ships and lumber [vassal letter],019,
-aemw/amarna/P271022,EA 160. Ships and lumber [vassal letter],020,Ṣumur[1]GN
-aemw/amarna/P271022,EA 160. Ships and lumber [vassal letter],021,
-aemw/amarna/P271022,EA 160. Ships and lumber [vassal letter],022,
-aemw/amarna/P271022,EA 160. Ships and lumber [vassal letter],023,
-aemw/amarna/P271022,EA 160. Ships and lumber [vassal letter],024,Nuhašše[1]GN
-aemw/amarna/P271022,EA 160. Ships and lumber [vassal letter],025,
-aemw/amarna/P271022,EA 160. Ships and lumber [vassal letter],026,
-aemw/amarna/P271022,EA 160. Ships and lumber [vassal letter],027,Ṣumur[1]GN
-aemw/amarna/P271022,EA 160. Ships and lumber [vassal letter],028,Ṣumur[1]GN
-aemw/amarna/P271022,EA 160. Ships and lumber [vassal letter],029,
-aemw/amarna/P271022,EA 160. Ships and lumber [vassal letter],030,
-aemw/amarna/P271022,EA 160. Ships and lumber [vassal letter],031,
-aemw/amarna/P271022,EA 160. Ships and lumber [vassal letter],032,
-aemw/amarna/P271022,EA 160. Ships and lumber [vassal letter],033,Šamaš[1]DN
-aemw/amarna/P271022,EA 160. Ships and lumber [vassal letter],034,
-aemw/amarna/P271022,EA 160. Ships and lumber [vassal letter],035,
-aemw/amarna/P271022,EA 160. Ships and lumber [vassal letter],036,
-aemw/amarna/P271022,EA 160. Ships and lumber [vassal letter],037,
-aemw/amarna/P271022,EA 160. Ships and lumber [vassal letter],038,
-aemw/amarna/P271022,EA 160. Ships and lumber [vassal letter],039,
-aemw/amarna/P271022,EA 160. Ships and lumber [vassal letter],040,Šamaš[1]DN
-aemw/amarna/P271022,EA 160. Ships and lumber [vassal letter],041,
-aemw/amarna/P271022,EA 160. Ships and lumber [vassal letter],042,
-aemw/amarna/P271022,EA 160. Ships and lumber [vassal letter],043,
+aemw/amarna/P271022,EA 160. Ships and lumber [vassal letter],001,akk-x-mbperi:ana[to]PRP akk-x-mbperi:šarru[king]N akk-x-mbperi:rabû[big]AJ akk-x-mbperi:bēlu[lord]N akk-x-mbperi:ilu[god]N akk-x-mbperi:Šamaš[1]DN
+aemw/amarna/P271022,EA 160. Ships and lumber [vassal letter],002,akk-x-mbperi:umma[saying]PRP akk-x-mbperi:Aziru[1]PN akk-x-mbperi:wardu[slave]N
+aemw/amarna/P271022,EA 160. Ships and lumber [vassal letter],003,akk-x-mbperi:u[and]CNJ akk-x-mbperi:ana[to]PRP akk-x-mbperi:šēpu[foot]N akk-x-mbperi:bēlu[lord]N
+aemw/amarna/P271022,EA 160. Ships and lumber [vassal letter],004,akk-x-mbperi:ilu[god]N akk-x-mbperi:u[and]CNJ akk-x-mbperi:Šamaš[1]DN akk-x-mbperi:maqātu[fall]V
+aemw/amarna/P271022,EA 160. Ships and lumber [vassal letter],005,akk-x-mbperi:bēlu[lord]N akk-x-mbperi:ilu[god]N akk-x-mbperi:Šamaš[1]DN
+aemw/amarna/P271022,EA 160. Ships and lumber [vassal letter],006,akk-x-mbperi:anāku[I]IP akk-x-mbperi:wardu[slave]N akk-x-mbperi:u[and]CNJ akk-x-mbperi:māru[son]N
+aemw/amarna/P271022,EA 160. Ships and lumber [vassal letter],007,akk-x-mbperi:u[and]CNJ akk-x-mbperi:ahu[brother]N akk-x-mbperi:awīlu[man]N akk-x-mbperi:wardūtu[slavery]N
+aemw/amarna/P271022,EA 160. Ships and lumber [vassal letter],008,akk-x-mbperi:ša[of]DET akk-x-mbperi:šarru[king]N akk-x-mbperi:bēlu[lord]N akk-x-mbperi:adi[until]PRP akk-x-mbperi:dārītu[perpetuity]N
+aemw/amarna/P271022,EA 160. Ships and lumber [vassal letter],009,akk-x-mbperi:anumma[now]AV akk-x-mbperi:gabbu[totality]N akk-x-mbperi:mēreštu[wish]N
+aemw/amarna/P271022,EA 160. Ships and lumber [vassal letter],010,akk-x-mbperi:ša[of]DET akk-x-mbperi:šarru[king]N akk-x-mbperi:bēlu[lord]N akk-x-mbperi:ešēru[be(come)-well]V
+aemw/amarna/P271022,EA 160. Ships and lumber [vassal letter],011,akk-x-mbperi:u[and]CNJ akk-x-mbperi:ša[that]REL akk-x-mbperi:waṣû[go-out]V
+aemw/amarna/P271022,EA 160. Ships and lumber [vassal letter],012,akk-x-mbperi:ištu[from]PRP akk-x-mbperi:pû[mouth]N akk-x-mbperi:pû[mouth]N
+aemw/amarna/P271022,EA 160. Ships and lumber [vassal letter],013,akk-x-mbperi:šarru[king]N akk-x-mbperi:bēlu[lord]N akk-x-mbperi:ešēru[be(come)-well]V
+aemw/amarna/P271022,EA 160. Ships and lumber [vassal letter],014,akk-x-mbperi:anumma[now]AV akk-x-mbperi:eleppu[ship]N akk-x-mbperi:u[and]CNJ akk-x-mbperi:taskarinnu[box-tree]N
+aemw/amarna/P271022,EA 160. Ships and lumber [vassal letter],015,akk-x-mbperi:u[and]CNJ akk-x-mbperi:iṣu[tree]N akk-x-mbperi:rabû[big]AJ
+aemw/amarna/P271022,EA 160. Ships and lumber [vassal letter],016,akk-x-mbperi:gabbu[totality]N akk-x-mbperi:ša[that]REL akk-x-mbperi:waṣû[go-out]V
+aemw/amarna/P271022,EA 160. Ships and lumber [vassal letter],017,akk-x-mbperi:ištu[from]PRP akk-x-mbperi:pû[mouth]N akk-x-mbperi:pû[mouth]N
+aemw/amarna/P271022,EA 160. Ships and lumber [vassal letter],018,akk-x-mbperi:šarru[king]N akk-x-mbperi:bēlu[lord]N akk-x-mbperi:ilu[god]N akk-x-mbperi:u[and]CNJ akk-x-mbperi:Šamaš[1]DN
+aemw/amarna/P271022,EA 160. Ships and lumber [vassal letter],019,akk-x-mbperi:anāku[I]IP akk-x-mbperi:lū[indeed]MOD akk-x-mbperi:ešēru[be(come)-well]V
+aemw/amarna/P271022,EA 160. Ships and lumber [vassal letter],020,akk-x-mbperi:u[and]CNJ akk-x-mbperi:šarru[king]N akk-x-mbperi:bēlu[lord]N akk-x-mbperi:aššu[because-(of)]PRP akk-x-mbperi:Ṣumur[1]GN
+aemw/amarna/P271022,EA 160. Ships and lumber [vassal letter],021,akk-x-mbperi:ša[that]REL akk-x-mbperi:qabû[say]V akk-x-mbperi:ana[to]PRP akk-x-mbperi:muhhu[skull]N
+aemw/amarna/P271022,EA 160. Ships and lumber [vassal letter],022,akk-x-mbperi:mati[when?]QP akk-x-mbperi:banû[create]V akk-x-mbperi:ālu[city]N akk-x-mbperi:mūšu[night]N akk-x-mbperi:u[and]CNJ
+aemw/amarna/P271022,EA 160. Ships and lumber [vassal letter],023,akk-x-mbperi:urru[daytime]N akk-x-mbperi:ša[that]REL akk-x-mbperi:bēlu[lord]N akk-x-mbperi:qabû[say]V akk-x-mbperi:šemû[hear]V
+aemw/amarna/P271022,EA 160. Ships and lumber [vassal letter],024,akk-x-mbperi:u[and]CNJ akk-x-mbperi:šarru[king]N akk-x-mbperi:Nuhašše[1]GN
+aemw/amarna/P271022,EA 160. Ships and lumber [vassal letter],025,akk-x-mbperi:nakru[strange]AJ akk-x-mbperi:itti[with]PRP
+aemw/amarna/P271022,EA 160. Ships and lumber [vassal letter],026,akk-x-mbperi:u[and]CNJ akk-x-mbperi:lā[not]MOD akk-x-mbperi:banû[create]V
+aemw/amarna/P271022,EA 160. Ships and lumber [vassal letter],027,akk-x-mbperi:Ṣumur[1]GN akk-x-mbperi:ina[in]PRP akk-x-mbperi:šattu[year]N
+aemw/amarna/P271022,EA 160. Ships and lumber [vassal letter],028,akk-x-mbperi:banû[create]V akk-x-mbperi:Ṣumur[1]GN
+aemw/amarna/P271022,EA 160. Ships and lumber [vassal letter],029,akk-x-mbperi:bēlu[lord]N akk-x-mbperi:anāku[I]IP akk-x-mbperi:wardu[slave]N akk-x-mbperi:adi[until]PRP akk-x-mbperi:dārītu[perpetuity]N
+aemw/amarna/P271022,EA 160. Ships and lumber [vassal letter],030,akk-x-mbperi:u[and]CNJ akk-x-mbperi:šarru[king]N akk-x-mbperi:ana[to]PRP akk-x-mbperi:awīlu[man]N akk-x-mbperi:sarru[false]AJ
+aemw/amarna/P271022,EA 160. Ships and lumber [vassal letter],031,akk-x-mbperi:ša[that]REL akk-x-mbperi:akālu[eat]V akk-x-mbperi:karṣu[slander]N
+aemw/amarna/P271022,EA 160. Ships and lumber [vassal letter],032,akk-x-mbperi:ana[to]PRP akk-x-mbperi:pānu[front]N akk-x-mbperi:bēlu[lord]N akk-x-mbperi:lā[not]MOD akk-x-mbperi:šemû[hear]V
+aemw/amarna/P271022,EA 160. Ships and lumber [vassal letter],033,akk-x-mbperi:u[and]CNJ akk-x-mbperi:šarru[king]N akk-x-mbperi:bēlu[lord]N akk-x-mbperi:ilu[god]N akk-x-mbperi:u[and]CNJ akk-x-mbperi:Šamaš[1]DN
+aemw/amarna/P271022,EA 160. Ships and lumber [vassal letter],034,akk-x-mbperi:māru[son]N akk-x-mbperi:šipru[sending]N akk-x-mbperi:šapāru[send]V
+aemw/amarna/P271022,EA 160. Ships and lumber [vassal letter],035,akk-x-mbperi:itti[with]PRP akk-x-mbperi:māru[son]N akk-x-mbperi:šipru[sending]N
+aemw/amarna/P271022,EA 160. Ships and lumber [vassal letter],036,akk-x-mbperi:u[and]CNJ akk-x-mbperi:leqû[take]V akk-x-mbperi:gabbu[totality]N
+aemw/amarna/P271022,EA 160. Ships and lumber [vassal letter],037,akk-x-mbperi:ša[that]REL akk-x-mbperi:qabû[say]V akk-x-mbperi:šarru[king]N akk-x-mbperi:bēlu[lord]N
+aemw/amarna/P271022,EA 160. Ships and lumber [vassal letter],038,akk-x-mbperi:bēlu[lord]N akk-x-mbperi:inanna[now]AV akk-x-mbperi:ina[in]PRP akk-x-mbperi:šattu[year]N
+aemw/amarna/P271022,EA 160. Ships and lumber [vassal letter],039,akk-x-mbperi:kīmê[like]PRP akk-x-mbperi:banû[create]V akk-x-mbperi:ālu[city]N akk-x-mbperi:ša[of]DET
+aemw/amarna/P271022,EA 160. Ships and lumber [vassal letter],040,akk-x-mbperi:šarru[king]N akk-x-mbperi:bēlu[lord]N akk-x-mbperi:ilu[god]N akk-x-mbperi:u[and]CNJ akk-x-mbperi:Šamaš[1]DN
+aemw/amarna/P271022,EA 160. Ships and lumber [vassal letter],041,akk-x-mbperi:u[and]CNJ akk-x-mbperi:šarru[king]N akk-x-mbperi:bēlu[lord]N akk-x-mbperi:māru[son]N akk-x-mbperi:šipru[sending]N
+aemw/amarna/P271022,EA 160. Ships and lumber [vassal letter],042,akk-x-mbperi:itti[with]PRP akk-x-mbperi:māru[son]N akk-x-mbperi:šipru[sending]N
+aemw/amarna/P271022,EA 160. Ships and lumber [vassal letter],043,akk-x-mbperi:ina[in]PRP akk-x-mbperi:hamuttu[haste]N akk-x-mbperi:wašāru[sink-down]V

@@ -1,21 +1,21 @@
 id_text,text_name,l_no,text
-aemw/amarna/P270879,EA 135. Message lost [vassal letter],002,
-aemw/amarna/P270879,EA 135. Message lost [vassal letter],003,Ṣumur[1]GN
-aemw/amarna/P270879,EA 135. Message lost [vassal letter],004,
-aemw/amarna/P270879,EA 135. Message lost [vassal letter],005,
-aemw/amarna/P270879,EA 135. Message lost [vassal letter],006,
-aemw/amarna/P270879,EA 135. Message lost [vassal letter],007,
-aemw/amarna/P270879,EA 135. Message lost [vassal letter],011,
-aemw/amarna/P270879,EA 135. Message lost [vassal letter],012,
-aemw/amarna/P270879,EA 135. Message lost [vassal letter],013,
-aemw/amarna/P270879,EA 135. Message lost [vassal letter],014,
-aemw/amarna/P270879,EA 135. Message lost [vassal letter],015,
-aemw/amarna/P270879,EA 135. Message lost [vassal letter],016,
-aemw/amarna/P270879,EA 135. Message lost [vassal letter],017,
-aemw/amarna/P270879,EA 135. Message lost [vassal letter],018,Miṣru[Egypt]GN
-aemw/amarna/P270879,EA 135. Message lost [vassal letter],019,
-aemw/amarna/P270879,EA 135. Message lost [vassal letter],020,
-aemw/amarna/P270879,EA 135. Message lost [vassal letter],021,
-aemw/amarna/P270879,EA 135. Message lost [vassal letter],022,
-aemw/amarna/P270879,EA 135. Message lost [vassal letter],023,
-aemw/amarna/P270879,EA 135. Message lost [vassal letter],024,
+aemw/amarna/P270879,EA 135. Message lost [vassal letter],002,akk-x-mbperi:ana[to]PRP
+aemw/amarna/P270879,EA 135. Message lost [vassal letter],003,akk-x-mbperi:Ṣumur[1]GN
+aemw/amarna/P270879,EA 135. Message lost [vassal letter],004,akk-x-mbperi:u[and]CNJ akk-x-mbperi:awīlu[man]N akk-x-mbperi:rābiṣu[bailiff]N
+aemw/amarna/P270879,EA 135. Message lost [vassal letter],005,akk-x-mbperi:u[and]CNJ akk-x-mbperi:wāṣītu[that-which-goes-out]N
+aemw/amarna/P270879,EA 135. Message lost [vassal letter],006,akk-x-mbperi:u[and]CNJ akk-x-mbperi:meʾatu[(one)-hundred]N akk-x-mbperi:narkabtu[chariot]N
+aemw/amarna/P270879,EA 135. Message lost [vassal letter],007,akk-x-mbperi:u[and]CNJ
+aemw/amarna/P270879,EA 135. Message lost [vassal letter],011,akk-x-mbperi:leqû[taken]AJ
+aemw/amarna/P270879,EA 135. Message lost [vassal letter],012,akk-x-mbperi:u[and]CNJ akk-x-mbperi:malāku[discuss]V akk-x-mbperi:šarru[king]N akk-x-mbperi:bēlu[lord]N
+aemw/amarna/P270879,EA 135. Message lost [vassal letter],013,akk-x-mbperi:ana[to]PRP akk-x-mbperi:wardu[slave]N akk-x-mbperi:kittu[steadiness]N akk-x-mbperi:u[and]CNJ akk-x-mbperi:ana[to]PRP akk-x-mbperi:ālu[city]N
+aemw/amarna/P270879,EA 135. Message lost [vassal letter],014,akk-x-mbperi:kittu[steadiness]N akk-x-mbperi:ša[of]DET akk-x-mbperi:šarru[king]N akk-x-mbperi:bēlu[lord]N akk-x-mbperi:lā[not]MOD
+aemw/amarna/P270879,EA 135. Message lost [vassal letter],015,akk-x-mbperi:leqû[take]V akk-x-mbperi:ālu[city]N akk-x-mbperi:kittu[steadiness]N
+aemw/amarna/P270879,EA 135. Message lost [vassal letter],016,akk-x-mbperi:u[and]CNJ akk-x-mbperi:qabû[say]V
+aemw/amarna/P270879,EA 135. Message lost [vassal letter],017,akk-x-mbperi:râmu[love]V akk-x-mbperi:eli[on]PRP
+aemw/amarna/P270879,EA 135. Message lost [vassal letter],018,akk-x-mbperi:awīlu[man]N akk-x-mbperi:Miṣru[Egypt]GN
+aemw/amarna/P270879,EA 135. Message lost [vassal letter],019,akk-x-mbperi:u[and]CNJ akk-x-mbperi:qabû[say]V
+aemw/amarna/P270879,EA 135. Message lost [vassal letter],020,akk-x-mbperi:u[and]CNJ
+aemw/amarna/P270879,EA 135. Message lost [vassal letter],021,akk-x-mbperi:ālu[city]N
+aemw/amarna/P270879,EA 135. Message lost [vassal letter],022,akk-x-mbperi:ana[to]PRP akk-x-mbperi:rābiṣu[bailiff]N
+aemw/amarna/P270879,EA 135. Message lost [vassal letter],023,akk-x-mbperi:šarru[king]N akk-x-mbperi:bēlu[lord]N
+aemw/amarna/P270879,EA 135. Message lost [vassal letter],024,akk-x-mbperi:nukurtu[enmity]N akk-x-mbperi:ana[to]PRP akk-x-mbperi:bēlu[lord]N

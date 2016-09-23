@@ -1,43 +1,43 @@
 id_text,text_name,l_no,text
-aemw/amarna/P270906,EA 123. An enormity: another version [vassal letter],001,Rib-Haddi[1]PN
-aemw/amarna/P270906,EA 123. An enormity: another version [vassal letter],002,
-aemw/amarna/P270906,EA 123. An enormity: another version [vassal letter],003,
-aemw/amarna/P270906,EA 123. An enormity: another version [vassal letter],004,
-aemw/amarna/P270906,EA 123. An enormity: another version [vassal letter],005,Gublu[Byblos]GN
-aemw/amarna/P270906,EA 123. An enormity: another version [vassal letter],006,
-aemw/amarna/P270906,EA 123. An enormity: another version [vassal letter],007,
-aemw/amarna/P270906,EA 123. An enormity: another version [vassal letter],008,Šamaš[1]DN
-aemw/amarna/P270906,EA 123. An enormity: another version [vassal letter],009,
-aemw/amarna/P270906,EA 123. An enormity: another version [vassal letter],010,
-aemw/amarna/P270906,EA 123. An enormity: another version [vassal letter],011,
-aemw/amarna/P270906,EA 123. An enormity: another version [vassal letter],012,Gublu[Byblos]GN
-aemw/amarna/P270906,EA 123. An enormity: another version [vassal letter],013,Puhuru[1]PN
-aemw/amarna/P270906,EA 123. An enormity: another version [vassal letter],014,Ṣutu[1]GN
-aemw/amarna/P270906,EA 123. An enormity: another version [vassal letter],015,
-aemw/amarna/P270906,EA 123. An enormity: another version [vassal letter],016,
-aemw/amarna/P270906,EA 123. An enormity: another version [vassal letter],017,
-aemw/amarna/P270906,EA 123. An enormity: another version [vassal letter],018,Miṣru[Egypt]GN
-aemw/amarna/P270906,EA 123. An enormity: another version [vassal letter],019,
-aemw/amarna/P270906,EA 123. An enormity: another version [vassal letter],020,
-aemw/amarna/P270906,EA 123. An enormity: another version [vassal letter],021,
-aemw/amarna/P270906,EA 123. An enormity: another version [vassal letter],022,
-aemw/amarna/P270906,EA 123. An enormity: another version [vassal letter],023,
-aemw/amarna/P270906,EA 123. An enormity: another version [vassal letter],024,
-aemw/amarna/P270906,EA 123. An enormity: another version [vassal letter],025,
-aemw/amarna/P270906,EA 123. An enormity: another version [vassal letter],026,
-aemw/amarna/P270906,EA 123. An enormity: another version [vassal letter],027,
-aemw/amarna/P270906,EA 123. An enormity: another version [vassal letter],028,
-aemw/amarna/P270906,EA 123. An enormity: another version [vassal letter],029,
-aemw/amarna/P270906,EA 123. An enormity: another version [vassal letter],030,
-aemw/amarna/P270906,EA 123. An enormity: another version [vassal letter],031,
-aemw/amarna/P270906,EA 123. An enormity: another version [vassal letter],032,
-aemw/amarna/P270906,EA 123. An enormity: another version [vassal letter],033,
-aemw/amarna/P270906,EA 123. An enormity: another version [vassal letter],034,Puhuru[1]PN
-aemw/amarna/P270906,EA 123. An enormity: another version [vassal letter],035,
-aemw/amarna/P270906,EA 123. An enormity: another version [vassal letter],036,Abdi-ra-ma[1]PN
-aemw/amarna/P270906,EA 123. An enormity: another version [vassal letter],037,Yattin-Haddi[1]PN Abdi-Milki[1]PN
-aemw/amarna/P270906,EA 123. An enormity: another version [vassal letter],038,Abdi-Aširte[1]PN
-aemw/amarna/P270906,EA 123. An enormity: another version [vassal letter],039,
-aemw/amarna/P270906,EA 123. An enormity: another version [vassal letter],040,
-aemw/amarna/P270906,EA 123. An enormity: another version [vassal letter],041,
-aemw/amarna/P270906,EA 123. An enormity: another version [vassal letter],042,
+aemw/amarna/P270906,EA 123. An enormity: another version [vassal letter],001,akk-x-mbperi:Rib-Haddi[1]PN akk-x-mbperi:šapāru[send]V
+aemw/amarna/P270906,EA 123. An enormity: another version [vassal letter],002,akk-x-mbperi:ana[to]PRP akk-x-mbperi:bēlu[lord]N akk-x-mbperi:šarru[king]N akk-x-mbperi:rabû[big]AJ
+aemw/amarna/P270906,EA 123. An enormity: another version [vassal letter],003,akk-x-mbperi:šarru[king]N akk-x-mbperi:mātu[land]N akk-x-mbperi:šarru[king]N
+aemw/amarna/P270906,EA 123. An enormity: another version [vassal letter],004,akk-x-mbperi:tamhāru[battle]N akk-x-mbperi:bēltu[lady]N
+aemw/amarna/P270906,EA 123. An enormity: another version [vassal letter],005,akk-x-mbperi:ša[of]DET akk-x-mbperi:Gublu[Byblos]GN akk-x-mbperi:nadānu[give]V
+aemw/amarna/P270906,EA 123. An enormity: another version [vassal letter],006,akk-x-mbperi:dunnu[power]N akk-x-mbperi:ana[to]PRP akk-x-mbperi:šarru[king]N
+aemw/amarna/P270906,EA 123. An enormity: another version [vassal letter],007,akk-x-mbperi:bēlu[lord]N akk-x-mbperi:ana[to]PRP akk-x-mbperi:šēpu[foot]N
+aemw/amarna/P270906,EA 123. An enormity: another version [vassal letter],008,akk-x-mbperi:bēlu[lord]N akk-x-mbperi:Šamaš[1]DN
+aemw/amarna/P270906,EA 123. An enormity: another version [vassal letter],009,akk-x-mbperi:maqātu[fall]V akk-x-mbperi:ipšu[deed]N
+aemw/amarna/P270906,EA 123. An enormity: another version [vassal letter],010,akk-x-mbperi:ša[that]REL akk-x-mbperi:lā[not]MOD akk-x-mbperi:epšu[made]AJ
+aemw/amarna/P270906,EA 123. An enormity: another version [vassal letter],011,akk-x-mbperi:ištu[from]PRP akk-x-mbperi:dārītu[perpetuity]N
+aemw/amarna/P270906,EA 123. An enormity: another version [vassal letter],012,akk-x-mbperi:epšu[made]AJ akk-x-mbperi:ana[to]PRP akk-x-mbperi:Gublu[Byblos]GN
+aemw/amarna/P270906,EA 123. An enormity: another version [vassal letter],013,akk-x-mbperi:wuššuru[exempt]AJ akk-x-mbperi:Puhuru[1]PN
+aemw/amarna/P270906,EA 123. An enormity: another version [vassal letter],014,akk-x-mbperi:awīlu[man]N akk-x-mbperi:Ṣutu[1]GN akk-x-mbperi:dīku[killed]AJ
+aemw/amarna/P270906,EA 123. An enormity: another version [vassal letter],015,akk-x-mbperi:šerdannu[(type-of-person)]N akk-x-mbperi:u[and]CNJ
+aemw/amarna/P270906,EA 123. An enormity: another version [vassal letter],016,akk-x-mbperi:leqû[taken]AJ akk-x-mbperi:awīlu[man]N akk-x-mbperi:u[and]CNJ
+aemw/amarna/P270906,EA 123. An enormity: another version [vassal letter],017,akk-x-mbperi:šūrubu[brought-in]AJ akk-x-mbperi:wardu[slave]N akk-x-mbperi:ana[to]PRP
+aemw/amarna/P270906,EA 123. An enormity: another version [vassal letter],018,akk-x-mbperi:Miṣru[Egypt]GN akk-x-mbperi:šumma[if]MOD
+aemw/amarna/P270906,EA 123. An enormity: another version [vassal letter],019,akk-x-mbperi:lā[not]MOD akk-x-mbperi:wašāru[sink-down]V
+aemw/amarna/P270906,EA 123. An enormity: another version [vassal letter],020,akk-x-mbperi:šarru[king]N akk-x-mbperi:bēlu[lord]N
+aemw/amarna/P270906,EA 123. An enormity: another version [vassal letter],021,akk-x-mbperi:adi[until]PRP akk-x-mbperi:epēšu[do]V akk-x-mbperi:ālu[city]N
+aemw/amarna/P270906,EA 123. An enormity: another version [vassal letter],022,akk-x-mbperi:arnu[guilt]N akk-x-mbperi:eli[on]PRP
+aemw/amarna/P270906,EA 123. An enormity: another version [vassal letter],023,akk-x-mbperi:šumma[if]MOD akk-x-mbperi:râmu[love]V akk-x-mbperi:šarru[king]N
+aemw/amarna/P270906,EA 123. An enormity: another version [vassal letter],024,akk-x-mbperi:bēlu[lord]N akk-x-mbperi:wardu[slave]N akk-x-mbperi:kittu[steadiness]N
+aemw/amarna/P270906,EA 123. An enormity: another version [vassal letter],025,akk-x-mbperi:u[and]CNJ akk-x-mbperi:wašāru[sink-down]V
+aemw/amarna/P270906,EA 123. An enormity: another version [vassal letter],026,akk-x-mbperi:awīlu[man]N akk-x-mbperi:u[and]CNJ akk-x-mbperi:balāṭu[live]V
+aemw/amarna/P270906,EA 123. An enormity: another version [vassal letter],027,akk-x-mbperi:u[and]CNJ akk-x-mbperi:naṣāru[guard]V
+aemw/amarna/P270906,EA 123. An enormity: another version [vassal letter],028,akk-x-mbperi:ālu[city]N akk-x-mbperi:ana[to]PRP akk-x-mbperi:šarru[king]N
+aemw/amarna/P270906,EA 123. An enormity: another version [vassal letter],029,akk-x-mbperi:inūma[when]SBJ akk-x-mbperi:šapāru[send]V
+aemw/amarna/P270906,EA 123. An enormity: another version [vassal letter],030,akk-x-mbperi:šarru[king]N akk-x-mbperi:naṣāru[guard]V
+aemw/amarna/P270906,EA 123. An enormity: another version [vassal letter],031,akk-x-mbperi:ramānu[self]RP akk-x-mbperi:ištu[from]PRP akk-x-mbperi:mannu[who?]QP
+aemw/amarna/P270906,EA 123. An enormity: another version [vassal letter],032,akk-x-mbperi:naṣāru[guard]V
+aemw/amarna/P270906,EA 123. An enormity: another version [vassal letter],033,akk-x-mbperi:awīlu[man]N akk-x-mbperi:ša[that]REL akk-x-mbperi:šūrubu[brought-in]AJ
+aemw/amarna/P270906,EA 123. An enormity: another version [vassal letter],034,akk-x-mbperi:Puhuru[1]PN akk-x-mbperi:wašāru[sink-down]V
+aemw/amarna/P270906,EA 123. An enormity: another version [vassal letter],035,akk-x-mbperi:u[and]CNJ akk-x-mbperi:balṭu[living]AJ
+aemw/amarna/P270906,EA 123. An enormity: another version [vassal letter],036,akk-x-mbperi:Abdi-ra-ma[1]PN
+aemw/amarna/P270906,EA 123. An enormity: another version [vassal letter],037,akk-x-mbperi:Yattin-Haddi[1]PN akk-x-mbperi:Abdi-Milki[1]PN
+aemw/amarna/P270906,EA 123. An enormity: another version [vassal letter],038,akk-x-mbperi:mīnu[what?]QP akk-x-mbperi:māru[son]N akk-x-mbperi:Abdi-Aširte[1]PN
+aemw/amarna/P270906,EA 123. An enormity: another version [vassal letter],039,akk-x-mbperi:u[and]CNJ akk-x-mbperi:leqû[taken]AJ akk-x-mbperi:mātu[land]N
+aemw/amarna/P270906,EA 123. An enormity: another version [vassal letter],040,akk-x-mbperi:šarru[king]N akk-x-mbperi:ana[to]PRP akk-x-mbperi:šâšunu[(to/of)-them]IP
+aemw/amarna/P270906,EA 123. An enormity: another version [vassal letter],041,akk-x-mbperi:wašāru[sink-down]V akk-x-mbperi:šarru[king]N akk-x-mbperi:ṣābu[people]N
+aemw/amarna/P270906,EA 123. An enormity: another version [vassal letter],042,akk-x-mbperi:piṭṭātu[archers]N akk-x-mbperi:u[and]CNJ akk-x-mbperi:leqû[take]V

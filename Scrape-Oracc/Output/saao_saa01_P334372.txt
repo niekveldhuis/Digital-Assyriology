@@ -1,0 +1,39 @@
+id_text,text_name,l_no,text
+saao/saa01/P334372,SAA 01 082. The Problem of Hungry Arabs (ABL 0547),o 1,ana[to]PRP šarru[king]N bēlu[lord]N
+saao/saa01/P334372,SAA 01 082. The Problem of Hungry Arabs (ABL 0547),o 2,ardu[slave]N Ṭab-ṣil-Ešarra[1]PN
+saao/saa01/P334372,SAA 01 082. The Problem of Hungry Arabs (ABL 0547),o 3,lū[may]MOD šulmu[completeness]N ana[to]PRP šarru[king]N bēlu[lord]N
+saao/saa01/P334372,SAA 01 082. The Problem of Hungry Arabs (ABL 0547),o 4,Aššur[1]DN Mullissu[1]DN ana[to]PRP šarru[king]N bēlu[lord]N karābu[pray]V
+saao/saa01/P334372,SAA 01 082. The Problem of Hungry Arabs (ABL 0547),o 5,ina[in]PRP muhhu[skull]N Arbaya[Arab]EN ša[that]REL šarru[king]N bēlu[lord]N
+saao/saa01/P334372,SAA 01 082. The Problem of Hungry Arabs (ABL 0547),o 6,šapāru[send]V mā[saying]PRP atā[why?]QP immeru[sheep]N
+saao/saa01/P334372,SAA 01 082. The Problem of Hungry Arabs (ABL 0547),o 7,gammalu[camel]N ina[in]PRP madbaru[steppe]N
+saao/saa01/P334372,SAA 01 082. The Problem of Hungry Arabs (ABL 0547),o 8,reʾû[pasture]V
+saao/saa01/P334372,SAA 01 082. The Problem of Hungry Arabs (ABL 0547),o 9,ina[in]PRP bubūtu[hunger]N habātu[rob]V šattu[year]N
+saao/saa01/P334372,SAA 01 082. The Problem of Hungry Arabs (ABL 0547),o 10,annû[this]DP zunnu[rain]N īṣu[few]AJ
+saao/saa01/P334372,SAA 01 082. The Problem of Hungry Arabs (ABL 0547),o 12,ina[in]PRP libbu[interior]N šaknu[placed]AJ
+saao/saa01/P334372,SAA 01 082. The Problem of Hungry Arabs (ABL 0547),o 13,ša[that]REL šarru[king]N bēlu[lord]N šapāru[send]V
+saao/saa01/P334372,SAA 01 082. The Problem of Hungry Arabs (ABL 0547),o 14,mā[saying]PRP annûri[now]AV ana[to]PRP Hindanu[1]GN
+saao/saa01/P334372,SAA 01 082. The Problem of Hungry Arabs (ABL 0547),o 15,alāku[go]V mā[saying]PRP išti[with]PRP
+saao/saa01/P334372,SAA 01 082. The Problem of Hungry Arabs (ABL 0547),o 16,alāku[go]V reʾû[pasture]V
+saao/saa01/P334372,SAA 01 082. The Problem of Hungry Arabs (ABL 0547),o 17,ištu[from]PRP muhhu[skull]N Tartara[1]WN
+saao/saa01/P334372,SAA 01 082. The Problem of Hungry Arabs (ABL 0547),b.e. 18,adi[until]PRP Suhu[1]GN
+saao/saa01/P334372,SAA 01 082. The Problem of Hungry Arabs (ABL 0547),b.e. 19,memēni[somebody]XP lā[not]MOD parāku[lie-across]V
+saao/saa01/P334372,SAA 01 082. The Problem of Hungry Arabs (ABL 0547),r 1,annûri[now]AV anāku[I]IP
+saao/saa01/P334372,SAA 01 082. The Problem of Hungry Arabs (ABL 0547),r 2,ana[to]PRP Hindanu[1]GN alāku[go]V
+saao/saa01/P334372,SAA 01 082. The Problem of Hungry Arabs (ABL 0547),r 3,tahūmu[boundary]N ša[that]REL kullumu[show]V
+saao/saa01/P334372,SAA 01 082. The Problem of Hungry Arabs (ABL 0547),r 4,ramû[slacken]V etēqu[proceed]V
+saao/saa01/P334372,SAA 01 082. The Problem of Hungry Arabs (ABL 0547),r 5,šapālu[be(come)-deep]V habātu[rob]V
+saao/saa01/P334372,SAA 01 082. The Problem of Hungry Arabs (ABL 0547),r 6,ana[to]PRP rabû[big-one]N dayyālu[scout]N
+saao/saa01/P334372,SAA 01 082. The Problem of Hungry Arabs (ABL 0547),r 7,ša[that]REL paqādu[entrust]V laššu[(there)-is-not]V
+saao/saa01/P334372,SAA 01 082. The Problem of Hungry Arabs (ABL 0547),r 8,lā[not]MOD šemû[hear]V ana[to]PRP pīhātu[responsibility]N
+saao/saa01/P334372,SAA 01 082. The Problem of Hungry Arabs (ABL 0547),r 9,ša[of]DET Kalhu[1]GN qabû[say]V
+saao/saa01/P334372,SAA 01 082. The Problem of Hungry Arabs (ABL 0547),r 10,ša-rēši[eunuch]N ina[in]PRP pānu[front]N Arbaya[Arab]EN
+saao/saa01/P334372,SAA 01 082. The Problem of Hungry Arabs (ABL 0547),r 11,ša[of]DET qātu[hand]N paqādu[entrust]V
+saao/saa01/P334372,SAA 01 082. The Problem of Hungry Arabs (ABL 0547),r 12,tahūmu[boundary]N šâlu[ask]V
+saao/saa01/P334372,SAA 01 082. The Problem of Hungry Arabs (ABL 0547),r 13,ina[in]PRP libbu[interior]N reʾû[pasture]V
+saao/saa01/P334372,SAA 01 082. The Problem of Hungry Arabs (ABL 0547),r 14,ištēniš[together]AV maškanu[tent]N
+saao/saa01/P334372,SAA 01 082. The Problem of Hungry Arabs (ABL 0547),r 15,ina[in]PRP muhhu[skull]N tahūmu[boundary]N ša[of]DET pīhātu[responsibility]N
+saao/saa01/P334372,SAA 01 082. The Problem of Hungry Arabs (ABL 0547),r 16,ša[of]DET Kalhu[1]GN lū[may]MOD šaknu[placed]AJ
+saao/saa01/P334372,SAA 01 082. The Problem of Hungry Arabs (ABL 0547),r 17,šunu[they]IP ina[in]PRP libbu[interior]N
+saao/saa01/P334372,SAA 01 082. The Problem of Hungry Arabs (ABL 0547),r.e. 18,reʾû[pasture]V
+saao/saa01/P334372,SAA 01 082. The Problem of Hungry Arabs (ABL 0547),r.e. 19,bašû[exist]V
+saao/saa01/P334372,SAA 01 082. The Problem of Hungry Arabs (ABL 0547),e. 1,ālu[city]N habātu[rob]V laššu[(there)-is-not]V immeru[sheep]N gammalu[camel]N

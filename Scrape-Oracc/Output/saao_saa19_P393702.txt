@@ -1,0 +1,22 @@
+id_text,text_name,l_no,text
+saao/saa19/P393702,SAA 19 225. Seed Stored Grain and Barley Given to the People (CTN 5 p. 280),o 1,ana[to]PRP šarru[king]N bēlu[lord]N
+saao/saa19/P393702,SAA 19 225. Seed Stored Grain and Barley Given to the People (CTN 5 p. 280),o 2,ardu[slave]N
+saao/saa19/P393702,SAA 19 225. Seed Stored Grain and Barley Given to the People (CTN 5 p. 280),o 3,lū[may]MOD šulmu[completeness]N ana[to]PRP šarru[king]N bēlu[lord]N
+saao/saa19/P393702,SAA 19 225. Seed Stored Grain and Barley Given to the People (CTN 5 p. 280),o 4,ina[in]PRP muhhu[skull]N
+saao/saa19/P393702,SAA 19 225. Seed Stored Grain and Barley Given to the People (CTN 5 p. 280),o 5,ša[that]REL šarru[king]N bēlu[lord]N šapāru[send]V
+saao/saa19/P393702,SAA 19 225. Seed Stored Grain and Barley Given to the People (CTN 5 p. 280),o 6,mā[saying]PRP
+saao/saa19/P393702,SAA 19 225. Seed Stored Grain and Barley Given to the People (CTN 5 p. 280),o 7,kusāpu[bread]N šaknu[placed]AJ
+saao/saa19/P393702,SAA 19 225. Seed Stored Grain and Barley Given to the People (CTN 5 p. 280),o 8,pānu[front]N šarru[king]N bēlu[lord]N qabû[say]V
+saao/saa19/P393702,SAA 19 225. Seed Stored Grain and Barley Given to the People (CTN 5 p. 280),o 9,ana[to]PRP
+saao/saa19/P393702,SAA 19 225. Seed Stored Grain and Barley Given to the People (CTN 5 p. 280),o 10,anāku[I]IP
+saao/saa19/P393702,SAA 19 225. Seed Stored Grain and Barley Given to the People (CTN 5 p. 280),o 11,aṣû[go-out]V zēru[seed(s)]N
+saao/saa19/P393702,SAA 19 225. Seed Stored Grain and Barley Given to the People (CTN 5 p. 280),o 12,ana[to]PRP meʾatu[(one)-hundred]NU napištu[throat]N zēru[seed(s)]N
+saao/saa19/P393702,SAA 19 225. Seed Stored Grain and Barley Given to the People (CTN 5 p. 280),o 13,tabku[(grain)-store]N zēru[seed(s)]N
+saao/saa19/P393702,SAA 19 225. Seed Stored Grain and Barley Given to the People (CTN 5 p. 280),o 14,šalāmu[be(come)-healthy]V tadānu[give]V
+saao/saa19/P393702,SAA 19 225. Seed Stored Grain and Barley Given to the People (CTN 5 p. 280),r 1,kurummatu[ration]N tadānu[give]V
+saao/saa19/P393702,SAA 19 225. Seed Stored Grain and Barley Given to the People (CTN 5 p. 280),r 2,tabku[(grain)-store]N
+saao/saa19/P393702,SAA 19 225. Seed Stored Grain and Barley Given to the People (CTN 5 p. 280),r 3,ina[in]PRP muhhu[skull]N
+saao/saa19/P393702,SAA 19 225. Seed Stored Grain and Barley Given to the People (CTN 5 p. 280),r 4,sahāru[go-around]V
+saao/saa19/P393702,SAA 19 225. Seed Stored Grain and Barley Given to the People (CTN 5 p. 280),r 5,rabû[big-one]N kiṣru[knot]N
+saao/saa19/P393702,SAA 19 225. Seed Stored Grain and Barley Given to the People (CTN 5 p. 280),r 6,šarru[king]N bēlu[lord]N ana[to]PRP
+saao/saa19/P393702,SAA 19 225. Seed Stored Grain and Barley Given to the People (CTN 5 p. 280),r 7,šâlu[ask]V

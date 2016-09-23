@@ -1,34 +1,34 @@
 id_text,text_name,l_no,text
-aemw/amarna/P270958,EA 069. Report to an official [vassal letter],001,
-aemw/amarna/P270958,EA 069. Report to an official [vassal letter],002,
-aemw/amarna/P270958,EA 069. Report to an official [vassal letter],003,Rib-Haddi[1]PN
-aemw/amarna/P270958,EA 069. Report to an official [vassal letter],004,
-aemw/amarna/P270958,EA 069. Report to an official [vassal letter],005,Gublu[Byblos]GN
-aemw/amarna/P270958,EA 069. Report to an official [vassal letter],006,
-aemw/amarna/P270958,EA 069. Report to an official [vassal letter],007,
-aemw/amarna/P270958,EA 069. Report to an official [vassal letter],008,Šamaš[1]DN
-aemw/amarna/P270958,EA 069. Report to an official [vassal letter],009,Bīt-x[1]GN
-aemw/amarna/P270958,EA 069. Report to an official [vassal letter],010,
-aemw/amarna/P270958,EA 069. Report to an official [vassal letter],011,
-aemw/amarna/P270958,EA 069. Report to an official [vassal letter],012,
-aemw/amarna/P270958,EA 069. Report to an official [vassal letter],013,
-aemw/amarna/P270958,EA 069. Report to an official [vassal letter],014,
-aemw/amarna/P270958,EA 069. Report to an official [vassal letter],015,
-aemw/amarna/P270958,EA 069. Report to an official [vassal letter],016,
-aemw/amarna/P270958,EA 069. Report to an official [vassal letter],017,
-aemw/amarna/P270958,EA 069. Report to an official [vassal letter],018,
-aemw/amarna/P270958,EA 069. Report to an official [vassal letter],019,
-aemw/amarna/P270958,EA 069. Report to an official [vassal letter],020,Magdalu[3]GN
-aemw/amarna/P270958,EA 069. Report to an official [vassal letter],021,Maṣpat[1]GN
-aemw/amarna/P270958,EA 069. Report to an official [vassal letter],022,
-aemw/amarna/P270958,EA 069. Report to an official [vassal letter],023,
-aemw/amarna/P270958,EA 069. Report to an official [vassal letter],024,
-aemw/amarna/P270958,EA 069. Report to an official [vassal letter],025,Appiha[1]PN
-aemw/amarna/P270958,EA 069. Report to an official [vassal letter],026,
-aemw/amarna/P270958,EA 069. Report to an official [vassal letter],027,
-aemw/amarna/P270958,EA 069. Report to an official [vassal letter],028,
-aemw/amarna/P270958,EA 069. Report to an official [vassal letter],029,Appiha[1]PN
-aemw/amarna/P270958,EA 069. Report to an official [vassal letter],030,
-aemw/amarna/P270958,EA 069. Report to an official [vassal letter],031,
-aemw/amarna/P270958,EA 069. Report to an official [vassal letter],032,
-aemw/amarna/P270958,EA 069. Report to an official [vassal letter],038,
+aemw/amarna/P270958,EA 069. Report to an official [vassal letter],001,akk-x-mbperi:ana[to]PRP akk-x-mbperi:abu[father]N
+aemw/amarna/P270958,EA 069. Report to an official [vassal letter],002,akk-x-mbperi:qabû[say]V
+aemw/amarna/P270958,EA 069. Report to an official [vassal letter],003,akk-x-mbperi:umma[saying]PRP akk-x-mbperi:Rib-Haddi[1]PN akk-x-mbperi:māru[son]N
+aemw/amarna/P270958,EA 069. Report to an official [vassal letter],004,akk-x-mbperi:ana[to]PRP akk-x-mbperi:šēpu[foot]N akk-x-mbperi:maqātu[fall]V
+aemw/amarna/P270958,EA 069. Report to an official [vassal letter],005,akk-x-mbperi:bēltu[lady]N akk-x-mbperi:ša[of]DET akk-x-mbperi:Gublu[Byblos]GN akk-x-mbperi:iltu[goddess]N akk-x-mbperi:šarru[king]N
+aemw/amarna/P270958,EA 069. Report to an official [vassal letter],006,akk-x-mbperi:bēlu[lord]N akk-x-mbperi:nadānu[give]V akk-x-mbperi:bāštu[dignity]N
+aemw/amarna/P270958,EA 069. Report to an official [vassal letter],007,akk-x-mbperi:ana[to]PRP akk-x-mbperi:pānu[front]N akk-x-mbperi:šarru[king]N akk-x-mbperi:bēlu[lord]N akk-x-mbperi:ilu[god]N
+aemw/amarna/P270958,EA 069. Report to an official [vassal letter],008,akk-x-mbperi:Šamaš[1]DN
+aemw/amarna/P270958,EA 069. Report to an official [vassal letter],009,akk-x-mbperi:u[and]CNJ akk-x-mbperi:bītu[house]N akk-x-mbperi:Bīt-x[1]GN akk-x-mbperi:u[and]CNJ
+aemw/amarna/P270958,EA 069. Report to an official [vassal letter],010,akk-x-mbperi:qabû[say]V akk-x-mbperi:leqû[take]V akk-x-mbperi:gabbu[totality]N akk-x-mbperi:awātu[word]N
+aemw/amarna/P270958,EA 069. Report to an official [vassal letter],011,akk-x-mbperi:ina[in]PRP akk-x-mbperi:biri[among]PRP akk-x-mbperi:eli[on]PRP
+aemw/amarna/P270958,EA 069. Report to an official [vassal letter],012,akk-x-mbperi:šanītu[something-other]N akk-x-mbperi:anumma[now]AV akk-x-mbperi:inanna[now]AV
+aemw/amarna/P270958,EA 069. Report to an official [vassal letter],013,akk-x-mbperi:namāšu[set-(oneself)-in-motion]V akk-x-mbperi:urru[daytime]N akk-x-mbperi:mūšu[night]N
+aemw/amarna/P270958,EA 069. Report to an official [vassal letter],014,akk-x-mbperi:ina[in]PRP akk-x-mbperi:nukurtu[enmity]N akk-x-mbperi:ša[that]REL akk-x-mbperi:eli[on]PRP
+aemw/amarna/P270958,EA 069. Report to an official [vassal letter],015,akk-x-mbperi:šanītu[something-other]N akk-x-mbperi:attā[you]IP akk-x-mbperi:edû[know]V
+aemw/amarna/P270958,EA 069. Report to an official [vassal letter],016,akk-x-mbperi:ālu[city]N akk-x-mbperi:dannu[strong]AJ akk-x-mbperi:eli[on]PRP
+aemw/amarna/P270958,EA 069. Report to an official [vassal letter],017,akk-x-mbperi:u[and]CNJ akk-x-mbperi:ul[not]MOD akk-x-mbperi:leʾû[be(come)-able]V akk-x-mbperi:epēšu[do]V
+aemw/amarna/P270958,EA 069. Report to an official [vassal letter],018,akk-x-mbperi:dumqu[goodness]N akk-x-mbperi:itti[with]PRP akk-x-mbperi:šanītu[something-other]N
+aemw/amarna/P270958,EA 069. Report to an official [vassal letter],019,akk-x-mbperi:ṣābu[people]N akk-x-mbperi:nukurtu[enmity]N akk-x-mbperi:dannu[strong]AJ
+aemw/amarna/P270958,EA 069. Report to an official [vassal letter],020,akk-x-mbperi:ša[of]DET akk-x-mbperi:Magdalu[3]GN
+aemw/amarna/P270958,EA 069. Report to an official [vassal letter],021,akk-x-mbperi:u[and]CNJ akk-x-mbperi:ṣābu[people]N akk-x-mbperi:Maṣpat[1]GN
+aemw/amarna/P270958,EA 069. Report to an official [vassal letter],022,akk-x-mbperi:nukurtu[enmity]N akk-x-mbperi:eli[on]PRP akk-x-mbperi:u[and]CNJ akk-x-mbperi:anumma[now]AV
+aemw/amarna/P270958,EA 069. Report to an official [vassal letter],023,akk-x-mbperi:yānu[(there)-is-not]V akk-x-mbperi:awīlu[man]N akk-x-mbperi:ša[that]REL akk-x-mbperi:rêṣu[help]V
+aemw/amarna/P270958,EA 069. Report to an official [vassal letter],024,akk-x-mbperi:ištu[from]PRP akk-x-mbperi:qātu[hand]N akk-x-mbperi:šanītu[something-other]N
+aemw/amarna/P270958,EA 069. Report to an official [vassal letter],025,akk-x-mbperi:ina[in]PRP akk-x-mbperi:kašādu[reach]V akk-x-mbperi:Appiha[1]PN akk-x-mbperi:ana[to]PRP akk-x-mbperi:mahru[front]N
+aemw/amarna/P270958,EA 069. Report to an official [vassal letter],026,akk-x-mbperi:šisītu[cry]N akk-x-mbperi:eli[on]PRP akk-x-mbperi:u[and]CNJ akk-x-mbperi:gabbu[totality]N
+aemw/amarna/P270958,EA 069. Report to an official [vassal letter],027,akk-x-mbperi:abullu[gate-(of-city-or-large-building)]N akk-x-mbperi:leqû[take]V akk-x-mbperi:werû[copper]N
+aemw/amarna/P270958,EA 069. Report to an official [vassal letter],028,qca:nuhuštu[copper]N akk-x-mbperi:šâlu[ask]V
+aemw/amarna/P270958,EA 069. Report to an official [vassal letter],029,akk-x-mbperi:Appiha[1]PN akk-x-mbperi:awīlu[man]N akk-x-mbperi:kī[like]PRP akk-x-mbperi:gabbu[totality]N
+aemw/amarna/P270958,EA 069. Report to an official [vassal letter],030,akk-x-mbperi:awātu[word]N akk-x-mbperi:šanītu[something-other]N akk-x-mbperi:qarādu[be(come)-warlike]V
+aemw/amarna/P270958,EA 069. Report to an official [vassal letter],031,akk-x-mbperi:ana[to]PRP akk-x-mbperi:šarru[king]N akk-x-mbperi:bēlu[lord]N akk-x-mbperi:u[and]CNJ akk-x-mbperi:hamāṭu[hasten]V
+aemw/amarna/P270958,EA 069. Report to an official [vassal letter],032,akk-x-mbperi:waṣû[go-out]V akk-x-mbperi:ṣābu[people]N akk-x-mbperi:piṭṭātu[archers]N
+aemw/amarna/P270958,EA 069. Report to an official [vassal letter],038,akk-x-mbperi:gabbu[totality]N

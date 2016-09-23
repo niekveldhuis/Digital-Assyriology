@@ -1,12 +1,12 @@
 id_text,text_name,l_no,text
-aemw/amarna/P271070,EA 181. A broken message [vassal letter],005,Šamaš[1]DN
-aemw/amarna/P271070,EA 181. A broken message [vassal letter],006,
-aemw/amarna/P271070,EA 181. A broken message [vassal letter],007,
-aemw/amarna/P271070,EA 181. A broken message [vassal letter],008,Šamaš[1]DN
-aemw/amarna/P271070,EA 181. A broken message [vassal letter],009,
-aemw/amarna/P271070,EA 181. A broken message [vassal letter],010,Šamaš[1]DN
-aemw/amarna/P271070,EA 181. A broken message [vassal letter],011,Šamaš[1]DN
-aemw/amarna/P271070,EA 181. A broken message [vassal letter],013,Šamaš[1]DN
-aemw/amarna/P271070,EA 181. A broken message [vassal letter],022,Šamaš[1]DN
-aemw/amarna/P271070,EA 181. A broken message [vassal letter],024,Šamaš[1]DN
-aemw/amarna/P271070,EA 181. A broken message [vassal letter],025,
+aemw/amarna/P271070,EA 181. A broken message [vassal letter],005,akk-x-mbperi:šarru[king]N akk-x-mbperi:bēlu[lord]N akk-x-mbperi:ilu[god]N akk-x-mbperi:Šamaš[1]DN
+aemw/amarna/P271070,EA 181. A broken message [vassal letter],006,akk-x-mbperi:awīlu[man]N
+aemw/amarna/P271070,EA 181. A broken message [vassal letter],007,akk-x-mbperi:wašāru[sink-down]V
+aemw/amarna/P271070,EA 181. A broken message [vassal letter],008,akk-x-mbperi:šarru[king]N akk-x-mbperi:bēlu[lord]N akk-x-mbperi:ilu[god]N akk-x-mbperi:Šamaš[1]DN
+aemw/amarna/P271070,EA 181. A broken message [vassal letter],009,akk-x-mbperi:u[and]CNJ akk-x-mbperi:naṣāru[guard]V
+aemw/amarna/P271070,EA 181. A broken message [vassal letter],010,akk-x-mbperi:ālu[city]N akk-x-mbperi:šarru[king]N akk-x-mbperi:bēlu[lord]N akk-x-mbperi:ilu[god]N akk-x-mbperi:Šamaš[1]DN
+aemw/amarna/P271070,EA 181. A broken message [vassal letter],011,akk-x-mbperi:ana[to]PRP akk-x-mbperi:šarru[king]N akk-x-mbperi:bēlu[lord]N akk-x-mbperi:ilu[god]N akk-x-mbperi:Šamaš[1]DN
+aemw/amarna/P271070,EA 181. A broken message [vassal letter],013,akk-x-mbperi:šarru[king]N akk-x-mbperi:bēlu[lord]N akk-x-mbperi:ilu[god]N akk-x-mbperi:Šamaš[1]DN
+aemw/amarna/P271070,EA 181. A broken message [vassal letter],022,akk-x-mbperi:šarru[king]N akk-x-mbperi:bēlu[lord]N akk-x-mbperi:ilu[god]N akk-x-mbperi:Šamaš[1]DN
+aemw/amarna/P271070,EA 181. A broken message [vassal letter],024,akk-x-mbperi:šarru[king]N akk-x-mbperi:bēlu[lord]N akk-x-mbperi:ilu[god]N akk-x-mbperi:Šamaš[1]DN
+aemw/amarna/P271070,EA 181. A broken message [vassal letter],025,akk-x-mbperi:wašāru[sink-down]V

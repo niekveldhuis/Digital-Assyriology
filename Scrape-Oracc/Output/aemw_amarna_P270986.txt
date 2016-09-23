@@ -1,38 +1,38 @@
 id_text,text_name,l_no,text
-aemw/amarna/P270986,EA 094. Treachery everywhere [vassal letter],001,Rib-Haddi[1]PN
-aemw/amarna/P270986,EA 094. Treachery everywhere [vassal letter],002,
-aemw/amarna/P270986,EA 094. Treachery everywhere [vassal letter],003,
-aemw/amarna/P270986,EA 094. Treachery everywhere [vassal letter],004,
-aemw/amarna/P270986,EA 094. Treachery everywhere [vassal letter],005,
-aemw/amarna/P270986,EA 094. Treachery everywhere [vassal letter],006,
-aemw/amarna/P270986,EA 094. Treachery everywhere [vassal letter],007,
-aemw/amarna/P270986,EA 094. Treachery everywhere [vassal letter],008,
-aemw/amarna/P270986,EA 094. Treachery everywhere [vassal letter],009,
-aemw/amarna/P270986,EA 094. Treachery everywhere [vassal letter],010,
-aemw/amarna/P270986,EA 094. Treachery everywhere [vassal letter],011,Abdi-Aširte[1]PN
-aemw/amarna/P270986,EA 094. Treachery everywhere [vassal letter],012,
-aemw/amarna/P270986,EA 094. Treachery everywhere [vassal letter],013,
-aemw/amarna/P270986,EA 094. Treachery everywhere [vassal letter],014,
-aemw/amarna/P270986,EA 094. Treachery everywhere [vassal letter],015,
-aemw/amarna/P270986,EA 094. Treachery everywhere [vassal letter],016,
-aemw/amarna/P270986,EA 094. Treachery everywhere [vassal letter],017,
-aemw/amarna/P270986,EA 094. Treachery everywhere [vassal letter],018,
-aemw/amarna/P270986,EA 094. Treachery everywhere [vassal letter],059,
-aemw/amarna/P270986,EA 094. Treachery everywhere [vassal letter],060,
-aemw/amarna/P270986,EA 094. Treachery everywhere [vassal letter],061,
-aemw/amarna/P270986,EA 094. Treachery everywhere [vassal letter],062,
-aemw/amarna/P270986,EA 094. Treachery everywhere [vassal letter],063,
-aemw/amarna/P270986,EA 094. Treachery everywhere [vassal letter],064,
-aemw/amarna/P270986,EA 094. Treachery everywhere [vassal letter],065,
-aemw/amarna/P270986,EA 094. Treachery everywhere [vassal letter],066,
-aemw/amarna/P270986,EA 094. Treachery everywhere [vassal letter],067,
-aemw/amarna/P270986,EA 094. Treachery everywhere [vassal letter],068,
-aemw/amarna/P270986,EA 094. Treachery everywhere [vassal letter],069,
-aemw/amarna/P270986,EA 094. Treachery everywhere [vassal letter],070,
-aemw/amarna/P270986,EA 094. Treachery everywhere [vassal letter],071,
-aemw/amarna/P270986,EA 094. Treachery everywhere [vassal letter],072,
-aemw/amarna/P270986,EA 094. Treachery everywhere [vassal letter],073,
-aemw/amarna/P270986,EA 094. Treachery everywhere [vassal letter],074,
-aemw/amarna/P270986,EA 094. Treachery everywhere [vassal letter],075,
-aemw/amarna/P270986,EA 094. Treachery everywhere [vassal letter],076,
-aemw/amarna/P270986,EA 094. Treachery everywhere [vassal letter],077,
+aemw/amarna/P270986,EA 094. Treachery everywhere [vassal letter],001,akk-x-mbperi:Rib-Haddi[1]PN akk-x-mbperi:šapāru[send]V akk-x-mbperi:ana[to]PRP akk-x-mbperi:šarru[king]N
+aemw/amarna/P270986,EA 094. Treachery everywhere [vassal letter],002,akk-x-mbperi:šarru[king]N akk-x-mbperi:mātu[land]N akk-x-mbperi:šarru[king]N akk-x-mbperi:bēlu[lord]N akk-x-mbperi:ilu[god]N
+aemw/amarna/P270986,EA 094. Treachery everywhere [vassal letter],003,akk-x-mbperi:ana[to]PRP akk-x-mbperi:šēpu[foot]N akk-x-mbperi:bēlu[lord]N akk-x-mbperi:u[and]CNJ akk-x-mbperi:maqātu[fall]V
+aemw/amarna/P270986,EA 094. Treachery everywhere [vassal letter],004,akk-x-mbperi:ana[to]PRP akk-x-mbperi:mīnu[what?]QP akk-x-mbperi:lā[not]MOD akk-x-mbperi:šemû[hear]V akk-x-mbperi:bēlu[lord]N
+aemw/amarna/P270986,EA 094. Treachery everywhere [vassal letter],005,akk-x-mbperi:awātu[word]N akk-x-mbperi:wardu[slave]N akk-x-mbperi:edû[know]V akk-x-mbperi:bēlu[lord]N akk-x-mbperi:inūma[when]SBJ
+aemw/amarna/P270986,EA 094. Treachery everywhere [vassal letter],006,akk-x-mbperi:yānu[(there)-is-not]V akk-x-mbperi:lemnu[bad]AJ akk-x-mbperi:ina[in]PRP akk-x-mbperi:awātu[word]N akk-x-mbperi:wardu[slave]N
+aemw/amarna/P270986,EA 094. Treachery everywhere [vassal letter],007,akk-x-mbperi:ul[not]MOD akk-x-mbperi:qabû[say]V akk-x-mbperi:awātu[word]N akk-x-mbperi:šāru[hostile]AJ akk-x-mbperi:mimma[anything]XP
+aemw/amarna/P270986,EA 094. Treachery everywhere [vassal letter],008,akk-x-mbperi:ana[to]PRP akk-x-mbperi:šarru[king]N akk-x-mbperi:bēlu[lord]N akk-x-mbperi:awātu[word]N akk-x-mbperi:dagālu[see]V
+aemw/amarna/P270986,EA 094. Treachery everywhere [vassal letter],009,akk-x-mbperi:u[and]CNJ akk-x-mbperi:awātu[word]N akk-x-mbperi:damqu[good]AJ akk-x-mbperi:šarru[king]N akk-x-mbperi:bēlu[lord]N
+aemw/amarna/P270986,EA 094. Treachery everywhere [vassal letter],010,akk-x-mbperi:qabû[said]AJ akk-x-mbperi:ana[to]PRP akk-x-mbperi:šarru[king]N akk-x-mbperi:bēlu[lord]N akk-x-mbperi:wašāru[sink-down]V
+aemw/amarna/P270986,EA 094. Treachery everywhere [vassal letter],011,akk-x-mbperi:ṣābu[people]N akk-x-mbperi:piṭṭātu[archers]N akk-x-mbperi:u[and]CNJ akk-x-mbperi:leqû[take]V akk-x-mbperi:Abdi-Aširte[1]PN
+aemw/amarna/P270986,EA 094. Treachery everywhere [vassal letter],012,akk-x-mbperi:mīya[who?]QP akk-x-mbperi:malāku[discuss]V akk-x-mbperi:izuzzu[stand]V akk-x-mbperi:ina[in]PRP akk-x-mbperi:pānu[front]N
+aemw/amarna/P270986,EA 094. Treachery everywhere [vassal letter],013,akk-x-mbperi:ṣābu[people]N akk-x-mbperi:piṭṭātu[archers]N akk-x-mbperi:šarru[king]N akk-x-mbperi:bēlu[lord]N
+aemw/amarna/P270986,EA 094. Treachery everywhere [vassal letter],014,akk-x-mbperi:šanītu[something-other]N akk-x-mbperi:qabû[say]V akk-x-mbperi:awīlu[man]N akk-x-mbperi:šāru[hostile]AJ
+aemw/amarna/P270986,EA 094. Treachery everywhere [vassal letter],015,akk-x-mbperi:awātu[word]N akk-x-mbperi:šāru[hostile]AJ akk-x-mbperi:ana[to]PRP akk-x-mbperi:šarru[king]N akk-x-mbperi:bēlu[lord]N
+aemw/amarna/P270986,EA 094. Treachery everywhere [vassal letter],016,akk-x-mbperi:ṣābu[people]N akk-x-mbperi:piṭṭātu[archers]N
+aemw/amarna/P270986,EA 094. Treachery everywhere [vassal letter],017,akk-x-mbperi:ṣābu[people]N akk-x-mbperi:piṭṭātu[archers]N
+aemw/amarna/P270986,EA 094. Treachery everywhere [vassal letter],018,akk-x-mbperi:šarru[king]N akk-x-mbperi:bēlu[lord]N
+aemw/amarna/P270986,EA 094. Treachery everywhere [vassal letter],059,akk-x-mbperi:šanītu[something-other]N
+aemw/amarna/P270986,EA 094. Treachery everywhere [vassal letter],060,akk-x-mbperi:nāʾiru[killer]N
+aemw/amarna/P270986,EA 094. Treachery everywhere [vassal letter],061,akk-x-mbperi:šaknu[placed]AJ akk-x-mbperi:eli[on]PRP
+aemw/amarna/P270986,EA 094. Treachery everywhere [vassal letter],062,akk-x-mbperi:u[and]CNJ akk-x-mbperi:allû[certainly]MOD
+aemw/amarna/P270986,EA 094. Treachery everywhere [vassal letter],063,akk-x-mbperi:u[and]CNJ akk-x-mbperi:allû[certainly]MOD akk-x-mbperi:ālu[city]N akk-x-mbperi:nāʾiru[killer]N
+aemw/amarna/P270986,EA 094. Treachery everywhere [vassal letter],064,akk-x-mbperi:šūt[he]IP akk-x-mbperi:edû[know]V akk-x-mbperi:šarru[king]N akk-x-mbperi:bēlu[lord]N akk-x-mbperi:šanû[(an)other]AJ
+aemw/amarna/P270986,EA 094. Treachery everywhere [vassal letter],065,akk-x-mbperi:u[and]CNJ akk-x-mbperi:mû[water]N akk-x-mbperi:mû[water]N akk-x-mbperi:našû[lift]V
+aemw/amarna/P270986,EA 094. Treachery everywhere [vassal letter],066,akk-x-mbperi:šūt[he]IP akk-x-mbperi:balāṭu[live]V
+aemw/amarna/P270986,EA 094. Treachery everywhere [vassal letter],067,akk-x-mbperi:inūma[when]SBJ akk-x-mbperi:kašāšu[gain-control-of]V akk-x-mbperi:anāku[I]IP
+aemw/amarna/P270986,EA 094. Treachery everywhere [vassal letter],068,akk-x-mbperi:awīlu[man]N akk-x-mbperi:hāpiru[(class-of)-vagrant]N akk-x-mbperi:nukurtu[enmity]N akk-x-mbperi:ina[in]PRP akk-x-mbperi:yâšim[to-me]IP
+aemw/amarna/P270986,EA 094. Treachery everywhere [vassal letter],069,akk-x-mbperi:u[and]CNJ akk-x-mbperi:šūt[he]IP akk-x-mbperi:balāṭu[live]V
+aemw/amarna/P270986,EA 094. Treachery everywhere [vassal letter],070,akk-x-mbperi:u[and]CNJ akk-x-mbperi:malāku[discuss]V akk-x-mbperi:šarru[king]N akk-x-mbperi:ana[to]PRP akk-x-mbperi:wardu[slave]N
+aemw/amarna/P270986,EA 094. Treachery everywhere [vassal letter],071,akk-x-mbperi:wašāru[sink-down]V akk-x-mbperi:šarru[king]N akk-x-mbperi:rābiṣu[bailiff]N
+aemw/amarna/P270986,EA 094. Treachery everywhere [vassal letter],072,akk-x-mbperi:malāku[discuss]V akk-x-mbperi:ina[in]PRP akk-x-mbperi:ašru[place]N akk-x-mbperi:šūt[he]IP
+aemw/amarna/P270986,EA 094. Treachery everywhere [vassal letter],073,akk-x-mbperi:lā[not]MOD akk-x-mbperi:šahāṭu[jump-(on)]V
+aemw/amarna/P270986,EA 094. Treachery everywhere [vassal letter],074,akk-x-mbperi:pānānu[previously]AV akk-x-mbperi:ina[in]PRP akk-x-mbperi:imēru[donkey]N akk-x-mbperi:qabû[say]V
+aemw/amarna/P270986,EA 094. Treachery everywhere [vassal letter],075,akk-x-mbperi:šarru[king]N akk-x-mbperi:ana[to]PRP akk-x-mbperi:nadānu[give]V akk-x-mbperi:ana[to]PRP akk-x-mbperi:wardu[slave]N
+aemw/amarna/P270986,EA 094. Treachery everywhere [vassal letter],076,akk-x-mbperi:kittu[steadiness]N akk-x-mbperi:u[and]CNJ akk-x-mbperi:anumma[now]AV akk-x-mbperi:inanna[now]AV akk-x-mbperi:yānu[(there)-is-not]V akk-x-mbperi:mimma[anything]XP akk-x-mbperi:ana[to]PRP akk-x-mbperi:šūt[he]IP
+aemw/amarna/P270986,EA 094. Treachery everywhere [vassal letter],077,akk-x-mbperi:ina[in]PRP akk-x-mbperi:našû[lift]V akk-x-mbperi:ana[to]PRP

@@ -1,19 +1,19 @@
 id_text,text_name,l_no,text
-aemw/amarna/P271152,EA 058. Of the king of Mittani [vassal letter],001,
-aemw/amarna/P271152,EA 058. Of the king of Mittani [vassal letter],002,Tehu-Tešup[1]PN
-aemw/amarna/P271152,EA 058. Of the king of Mittani [vassal letter],003,
-aemw/amarna/P271152,EA 058. Of the king of Mittani [vassal letter],004,
-aemw/amarna/P271152,EA 058. Of the king of Mittani [vassal letter],005,Mittani[1]GN
-aemw/amarna/P271152,EA 058. Of the king of Mittani [vassal letter],006,
-aemw/amarna/P271152,EA 058. Of the king of Mittani [vassal letter],007,
-aemw/amarna/P271152,EA 058. Of the king of Mittani [vassal letter],008,
-aemw/amarna/P271152,EA 058. Of the king of Mittani [vassal letter],009,
-aemw/amarna/P271152,EA 058. Of the king of Mittani [vassal letter],r 02,
-aemw/amarna/P271152,EA 058. Of the king of Mittani [vassal letter],r 03,Abdi-Aširte[1]PN
-aemw/amarna/P271152,EA 058. Of the king of Mittani [vassal letter],r 04,
-aemw/amarna/P271152,EA 058. Of the king of Mittani [vassal letter],r 05,
-aemw/amarna/P271152,EA 058. Of the king of Mittani [vassal letter],r 06,Haya[1]PN
-aemw/amarna/P271152,EA 058. Of the king of Mittani [vassal letter],r 07,Rib-Haddi[1]PN
-aemw/amarna/P271152,EA 058. Of the king of Mittani [vassal letter],r 08,
-aemw/amarna/P271152,EA 058. Of the king of Mittani [vassal letter],r 09,
-aemw/amarna/P271152,EA 058. Of the king of Mittani [vassal letter],r 10,Šamaš[1]DN
+aemw/amarna/P271152,EA 058. Of the king of Mittani [vassal letter],001,akk-x-mbperi:ana[to]PRP akk-x-mbperi:šarru[king]N akk-x-mbperi:rabû[big]AJ akk-x-mbperi:bēlu[lord]N akk-x-mbperi:qabû[say]V
+aemw/amarna/P271152,EA 058. Of the king of Mittani [vassal letter],002,akk-x-mbperi:umma[saying]PRP akk-x-mbperi:Tehu-Tešup[1]PN akk-x-mbperi:wardu[slave]N
+aemw/amarna/P271152,EA 058. Of the king of Mittani [vassal letter],003,akk-x-mbperi:ana[to]PRP akk-x-mbperi:šēpu[foot]N akk-x-mbperi:bēlu[lord]N akk-x-mbperi:maqātu[fall]V
+aemw/amarna/P271152,EA 058. Of the king of Mittani [vassal letter],004,akk-x-mbperi:šanītu[something-other]N akk-x-mbperi:lamādu[learn]V akk-x-mbperi:inūma[when]SBJ
+aemw/amarna/P271152,EA 058. Of the king of Mittani [vassal letter],005,akk-x-mbperi:šarru[king]N akk-x-mbperi:Mittani[1]GN akk-x-mbperi:waṣû[gone-out]AJ akk-x-mbperi:qadu[together-with]PRP akk-x-mbperi:narkabtu[chariot]N
+aemw/amarna/P271152,EA 058. Of the king of Mittani [vassal letter],006,akk-x-mbperi:u[and]CNJ akk-x-mbperi:qadu[together-with]PRP akk-x-mbperi:ṣābu[people]N akk-x-mbperi:karāšu[military-camp]N
+aemw/amarna/P271152,EA 058. Of the king of Mittani [vassal letter],007,akk-x-mbperi:šemû[hear]V akk-x-mbperi:ana[to]PRP akk-x-mbperi:mimmû[all]N akk-x-mbperi:šumu[name]N
+aemw/amarna/P271152,EA 058. Of the king of Mittani [vassal letter],008,akk-x-mbperi:ula[not]MOD akk-x-mbperi:u[and]CNJ akk-x-mbperi:palhu[fearful]AJ
+aemw/amarna/P271152,EA 058. Of the king of Mittani [vassal letter],009,akk-x-mbperi:ištu[from]PRP akk-x-mbperi:šâšu[to-him]IP
+aemw/amarna/P271152,EA 058. Of the king of Mittani [vassal letter],r 02,akk-x-mbperi:marāru[be(come)-bitter]V akk-x-mbperi:u[and]CNJ
+aemw/amarna/P271152,EA 058. Of the king of Mittani [vassal letter],r 03,akk-x-mbperi:u[and]CNJ akk-x-mbperi:Abdi-Aširte[1]PN akk-x-mbperi:leqû[take]V
+aemw/amarna/P271152,EA 058. Of the king of Mittani [vassal letter],r 04,akk-x-mbperi:u[and]CNJ akk-x-mbperi:anumma[now]AV akk-x-mbperi:epēšu[do]V akk-x-mbperi:annû[this]DP akk-x-mbperi:u[and]CNJ
+aemw/amarna/P271152,EA 058. Of the king of Mittani [vassal letter],r 05,akk-x-mbperi:leqû[take]V akk-x-mbperi:ana[to]PRP akk-x-mbperi:mahru[front]N akk-x-mbperi:šarru[king]N akk-x-mbperi:bēlu[lord]N
+aemw/amarna/P271152,EA 058. Of the king of Mittani [vassal letter],r 06,akk-x-mbperi:šanītu[something-other]N akk-x-mbperi:Haya[1]PN
+aemw/amarna/P271152,EA 058. Of the king of Mittani [vassal letter],r 07,akk-x-mbperi:Rib-Haddi[1]PN akk-x-mbperi:u[and]CNJ
+aemw/amarna/P271152,EA 058. Of the king of Mittani [vassal letter],r 08,akk-x-mbperi:ana[to]PRP akk-x-mbperi:šarru[king]N akk-x-mbperi:bēlu[lord]N
+aemw/amarna/P271152,EA 058. Of the king of Mittani [vassal letter],r 09,akk-x-mbperi:ālu[city]N
+aemw/amarna/P271152,EA 058. Of the king of Mittani [vassal letter],r 10,akk-x-mbperi:Šamaš[1]DN akk-x-mbperi:ilu[god]N

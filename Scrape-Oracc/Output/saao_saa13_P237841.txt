@@ -1,0 +1,41 @@
+id_text,text_name,l_no,text
+saao/saa13/P237841,SAA 13 174. Let Me Have the Gems So I Can Finish My Work (ABL 0498),o 1,ana[to]PRP šarru[king]N bēlu[lord]N ardu[slave]N Raši-ili[1]PN
+saao/saa13/P237841,SAA 13 174. Let Me Have the Gems So I Can Finish My Work (ABL 0498),o 2,lū[may]MOD šulmu[completeness]N ana[to]PRP šarru[king]N bēlu[lord]N
+saao/saa13/P237841,SAA 13 174. Let Me Have the Gems So I Can Finish My Work (ABL 0498),o 3,Marduk[1]DN u[and]CNJ Zarpanitu[1]DN
+saao/saa13/P237841,SAA 13 174. Let Me Have the Gems So I Can Finish My Work (ABL 0498),o 4,ana[to]PRP šarru[king]N bēlu[lord]N karābu[pray]V
+saao/saa13/P237841,SAA 13 174. Let Me Have the Gems So I Can Finish My Work (ABL 0498),o 5,šulmu[completeness]N ana[to]PRP bītu[house]N ilu[god]N
+saao/saa13/P237841,SAA 13 174. Let Me Have the Gems So I Can Finish My Work (ABL 0498),o 6,ṣalmu[effigy]N ša[that]REL šarru[king]N bēlu[lord]N qabû[say]V epēšu[do]V
+saao/saa13/P237841,SAA 13 174. Let Me Have the Gems So I Can Finish My Work (ABL 0498),o 7,agû[tiara]N Anu[1]DN ša[that]REL šarru[king]N bēlu[lord]N qabû[say]V epēšu[do]V
+saao/saa13/P237841,SAA 13 174. Let Me Have the Gems So I Can Finish My Work (ABL 0498),o 8,šamšatu[(sun-)disc]N ša[that]REL ana[to]PRP šarru[king]N qabû[say]V
+saao/saa13/P237841,SAA 13 174. Let Me Have the Gems So I Can Finish My Work (ABL 0498),o 9,u[and]CNJ ašannu[(an-emblem)]N epšu[made]AJ ša[that]REL ana[to]PRP šarru[king]N bēlu[lord]N
+saao/saa13/P237841,SAA 13 174. Let Me Have the Gems So I Can Finish My Work (ABL 0498),o 10,qabû[say]V umma[saying]PRP manû[unit]N hurāṣu[gold]N
+saao/saa13/P237841,SAA 13 174. Let Me Have the Gems So I Can Finish My Work (ABL 0498),o 11,ša[that]REL ana[to]PRP šulmānu[greeting-gift]N ana[to]PRP Bel[1]DN
+saao/saa13/P237841,SAA 13 174. Let Me Have the Gems So I Can Finish My Work (ABL 0498),o 12,erēbu[enter]V ina[in]PRP pānu[front]N ana[to]PRP ayyaru[rosette]N
+saao/saa13/P237841,SAA 13 174. Let Me Have the Gems So I Can Finish My Work (ABL 0498),o 13,u[and]CNJ tenšû[(precious-metal-dress-ornament)]N ša[of]DET Zarpanitu[1]DN
+saao/saa13/P237841,SAA 13 174. Let Me Have the Gems So I Can Finish My Work (ABL 0498),o 14,epēšu[do]V kunukku[seal]N ša[that]REL šarru[king]N bēlu[lord]N
+saao/saa13/P237841,SAA 13 174. Let Me Have the Gems So I Can Finish My Work (ABL 0498),o 15,nadānu[give]V adû[now]AV epēšu[do]V
+saao/saa13/P237841,SAA 13 174. Let Me Have the Gems So I Can Finish My Work (ABL 0498),o 16,ana[to]PRP libbu[interior]N agû[tiara]N Anu[1]DN diglu[vision]N
+saao/saa13/P237841,SAA 13 174. Let Me Have the Gems So I Can Finish My Work (ABL 0498),o 17,alāku[go]V u[and]CNJ ana[to]PRP libbu[interior]N šamšatu[(sun-)disc]N
+saao/saa13/P237841,SAA 13 174. Let Me Have the Gems So I Can Finish My Work (ABL 0498),o 18,diglu[vision]N alāku[go]V
+saao/saa13/P237841,SAA 13 174. Let Me Have the Gems So I Can Finish My Work (ABL 0498),o 19,ina[in]PRP ša[of]DET šaknu[placed]AJ
+saao/saa13/P237841,SAA 13 174. Let Me Have the Gems So I Can Finish My Work (ABL 0498),o 20,ša[of]DET lā[not]MOD šangû[priest]N u[and]CNJ Nabu-eṭir-napšati[1]PN
+saao/saa13/P237841,SAA 13 174. Let Me Have the Gems So I Can Finish My Work (ABL 0498),o 21,mamman[somebody]XP ul[not]MOD petû[open]V
+saao/saa13/P237841,SAA 13 174. Let Me Have the Gems So I Can Finish My Work (ABL 0498),o 22,enna[now]AV ana[to]PRP šarru[king]N bēlu[lord]N šapāru[send]V
+saao/saa13/P237841,SAA 13 174. Let Me Have the Gems So I Can Finish My Work (ABL 0498),o 23,mamman[somebody]XP ša[that]REL pānu[front]N šarru[king]N bēlu[lord]N mahru[received]AJ
+saao/saa13/P237841,SAA 13 174. Let Me Have the Gems So I Can Finish My Work (ABL 0498),o 24,šarru[king]N šapāru[send]V petû[open]V
+saao/saa13/P237841,SAA 13 174. Let Me Have the Gems So I Can Finish My Work (ABL 0498),o 25,qatû[come-to-an-end]V ana[to]PRP šarru[king]N bēlu[lord]N nadānu[give]V
+saao/saa13/P237841,SAA 13 174. Let Me Have the Gems So I Can Finish My Work (ABL 0498),r 1,kāribu[one-who-blesses]N ša[of]DET šarru[king]N bēlu[lord]N anāku[I]IP
+saao/saa13/P237841,SAA 13 174. Let Me Have the Gems So I Can Finish My Work (ABL 0498),r 2,ana[to]PRP muhhu[skull]N šarru[king]N bēlu[lord]N rahṣu[confident]AJ
+saao/saa13/P237841,SAA 13 174. Let Me Have the Gems So I Can Finish My Work (ABL 0498),r 3,Marduk[1]DN u[and]CNJ Zarpanitu[1]DN ana[to]PRP balāṭu[live]V napištu[throat]N
+saao/saa13/P237841,SAA 13 174. Let Me Have the Gems So I Can Finish My Work (ABL 0498),r 4,ṭūbu[goodness]N libbu[interior]N ṭūbu[goodness]N šīru[flesh]N u[and]CNJ labāru[be(come)-old]V ūmu[day]N
+saao/saa13/P237841,SAA 13 174. Let Me Have the Gems So I Can Finish My Work (ABL 0498),r 5,ša[of]DET šarru[king]N bēlu[lord]N ṣullû[beseech]V
+saao/saa13/P237841,SAA 13 174. Let Me Have the Gems So I Can Finish My Work (ABL 0498),r 6,lā[not]MOD libbu[interior]N šarru[king]N bēlu[lord]N lā[not]MOD elû[go-up]V
+saao/saa13/P237841,SAA 13 174. Let Me Have the Gems So I Can Finish My Work (ABL 0498),r 7,Marduk-zeru-ibni[1]PN ana[to]PRP muhhu[skull]N Urdu-Nabu[1]PN
+saao/saa13/P237841,SAA 13 174. Let Me Have the Gems So I Can Finish My Work (ABL 0498),r 8,u[and]CNJ Nadinu[1]PN kī[like]PRP takālu[trust]V dibbu[words]N
+saao/saa13/P237841,SAA 13 174. Let Me Have the Gems So I Can Finish My Work (ABL 0498),r 9,bīšu[bad]AJ dabābu[speak]V u[and]CNJ anāku[I]IP
+saao/saa13/P237841,SAA 13 174. Let Me Have the Gems So I Can Finish My Work (ABL 0498),r 10,ana[to]PRP muhhu[skull]N šarru[king]N bēlu[lord]N taklu[reliable]AJ
+saao/saa13/P237841,SAA 13 174. Let Me Have the Gems So I Can Finish My Work (ABL 0498),r 11,īnu[eye]N ša[of]DET šarru[king]N lū[may]MOD ana[to]PRP muhhu[skull]N
+saao/saa13/P237841,SAA 13 174. Let Me Have the Gems So I Can Finish My Work (ABL 0498),r 12,Marduk-zeru-ibni[1]PN šaddu[(a-chest-or-container)]N
+saao/saa13/P237841,SAA 13 174. Let Me Have the Gems So I Can Finish My Work (ABL 0498),r 13,kunukku[seal]N ša[of]DET Šumu-iddina[1]PN
+saao/saa13/P237841,SAA 13 174. Let Me Have the Gems So I Can Finish My Work (ABL 0498),r 14,petû[open]V abnu[stone]N
+saao/saa13/P237841,SAA 13 174. Let Me Have the Gems So I Can Finish My Work (ABL 0498),r 15,ištu[from]PRP libbu[interior]N našû[lift]V

@@ -1,0 +1,34 @@
+id_text,text_name,l_no,text
+saao/saa01/P313427,SAA 01 152. The Affair of Gidgidanu and His Brothers (CT 53 012),o 1,ana[to]PRP šarru[king]N bēlu[lord]N
+saao/saa01/P313427,SAA 01 152. The Affair of Gidgidanu and His Brothers (CT 53 012),o 2,ardu[slave]N Nabu-zer-ketti-lešir[1]PN
+saao/saa01/P313427,SAA 01 152. The Affair of Gidgidanu and His Brothers (CT 53 012),o 3,lū[may]MOD šulmu[completeness]N ana[to]PRP šarru[king]N bēlu[lord]N
+saao/saa01/P313427,SAA 01 152. The Affair of Gidgidanu and His Brothers (CT 53 012),o 4,Nabu[1]DN u[and]CNJ Marduk[1]DN
+saao/saa01/P313427,SAA 01 152. The Affair of Gidgidanu and His Brothers (CT 53 012),o 5,ana[to]PRP šarru[king]N bēlu[lord]N karābu[pray]V
+saao/saa01/P313427,SAA 01 152. The Affair of Gidgidanu and His Brothers (CT 53 012),o 6,ina[in]PRP muhhu[skull]N Gidgiddanu[1]PN
+saao/saa01/P313427,SAA 01 152. The Affair of Gidgidanu and His Brothers (CT 53 012),o 7,u[and]CNJ ahu[brother]N
+saao/saa01/P313427,SAA 01 152. The Affair of Gidgidanu and His Brothers (CT 53 012),o 8,ša[that]REL šarru[king]N bēlu[lord]N šapāru[send]V
+saao/saa01/P313427,SAA 01 152. The Affair of Gidgidanu and His Brothers (CT 53 012),o 9,bītu[house]N ilu[god]N
+saao/saa01/P313427,SAA 01 152. The Affair of Gidgidanu and His Brothers (CT 53 012),o 10,pû[mouth]N
+saao/saa01/P313427,SAA 01 152. The Affair of Gidgidanu and His Brothers (CT 53 012),o 11,ša[of]DET šarru[king]N bēlu[lord]N
+saao/saa01/P313427,SAA 01 152. The Affair of Gidgidanu and His Brothers (CT 53 012),o 12,išti[with]PRP īnu[eye]N
+saao/saa01/P313427,SAA 01 152. The Affair of Gidgidanu and His Brothers (CT 53 012),o 13,ša[of]DET šarru[king]N bēlu[lord]N
+saao/saa01/P313427,SAA 01 152. The Affair of Gidgidanu and His Brothers (CT 53 012),o 14,lā[not]MOD maṣû[correspond]V
+saao/saa01/P313427,SAA 01 152. The Affair of Gidgidanu and His Brothers (CT 53 012),o 15,lā[not]MOD
+saao/saa01/P313427,SAA 01 152. The Affair of Gidgidanu and His Brothers (CT 53 012),o 16,pānātu[front]N šarru[king]N
+saao/saa01/P313427,SAA 01 152. The Affair of Gidgidanu and His Brothers (CT 53 012),r 4,ša[that]REL šarru[king]N bēlu[lord]N šapāru[send]V
+saao/saa01/P313427,SAA 01 152. The Affair of Gidgidanu and His Brothers (CT 53 012),r 5,mā[saying]PRP atā[why?]QP ahu[brother]N
+saao/saa01/P313427,SAA 01 152. The Affair of Gidgidanu and His Brothers (CT 53 012),r 6,ša[of]DET Gidgiddanu[1]PN
+saao/saa01/P313427,SAA 01 152. The Affair of Gidgidanu and His Brothers (CT 53 012),r 7,dullu[trouble]N ramû[slacken]V
+saao/saa01/P313427,SAA 01 152. The Affair of Gidgidanu and His Brothers (CT 53 012),r 8,tebû[arise]V alāku[go]V
+saao/saa01/P313427,SAA 01 152. The Affair of Gidgidanu and His Brothers (CT 53 012),r 9,šumma[if]MOD ahu[brother]N ša[of]DET Gidgiddanu[1]PN
+saao/saa01/P313427,SAA 01 152. The Affair of Gidgidanu and His Brothers (CT 53 012),r 10,ša[that]REL ina[in]PRP pānu[front]N dullu[trouble]N epēšu[do]V
+saao/saa01/P313427,SAA 01 152. The Affair of Gidgidanu and His Brothers (CT 53 012),r 11,šumma[if]MOD ištēn[one]NU ištu[from]PRP libbu[interior]N
+saao/saa01/P313427,SAA 01 152. The Affair of Gidgidanu and His Brothers (CT 53 012),r 12,abullu[(city)-gate]N ša[of]DET Dur-Šarruken[1]GN aṣû[go-out]V
+saao/saa01/P313427,SAA 01 152. The Affair of Gidgidanu and His Brothers (CT 53 012),r 13,ana[to]PRP imittu[right-side]N šumēlu[left-side]N alāku[go]V
+saao/saa01/P313427,SAA 01 152. The Affair of Gidgidanu and His Brothers (CT 53 012),r 14,šarru[king]N bēlu[lord]N lū[may]MOD lā[not]MOD balāṭu[live]V
+saao/saa01/P313427,SAA 01 152. The Affair of Gidgidanu and His Brothers (CT 53 012),r 15,bīt[where]SBJ šarru[king]N bēlu[lord]N ina[in]PRP muhhu[skull]N māru[son]N šarru[king]N šapāru[send]V
+saao/saa01/P313427,SAA 01 152. The Affair of Gidgidanu and His Brothers (CT 53 012),r 16,māru[son]N šarru[king]N hīṭu[error]N emēdu[lean-on]V
+saao/saa01/P313427,SAA 01 152. The Affair of Gidgidanu and His Brothers (CT 53 012),r 17,dibbu[words]N annû[this]DP
+saao/saa01/P313427,SAA 01 152. The Affair of Gidgidanu and His Brothers (CT 53 012),r 19,šumma[if]MOD ištēn[one]NU ištu[from]PRP libbu[interior]N ahu[brother]N
+saao/saa01/P313427,SAA 01 152. The Affair of Gidgidanu and His Brothers (CT 53 012),r.e. 20,ša[of]DET Gidgiddanu[1]PN
+saao/saa01/P313427,SAA 01 152. The Affair of Gidgidanu and His Brothers (CT 53 012),r.e. 21,abullu[(city)-gate]N ša[of]DET Dur-Šarruken[1]GN

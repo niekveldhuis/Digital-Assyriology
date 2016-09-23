@@ -1,0 +1,20 @@
+id_text,text_name,l_no,text
+saao/saa05/P314283,SAA 05 143. Merchants Killed and Detained (CT 53 874),o 1,ana[to]PRP šarru[king]N bēlu[lord]N
+saao/saa05/P314283,SAA 05 143. Merchants Killed and Detained (CT 53 874),o 2,ardu[slave]N Šulmu-beli[1]PN
+saao/saa05/P314283,SAA 05 143. Merchants Killed and Detained (CT 53 874),o 3,lū[may]MOD šulmu[completeness]N ana[to]PRP šarru[king]N bēlu[lord]N
+saao/saa05/P314283,SAA 05 143. Merchants Killed and Detained (CT 53 874),o 4,māru[son]N šipru[sending]N ša[of]DET
+saao/saa05/P314283,SAA 05 143. Merchants Killed and Detained (CT 53 874),o 5,ina[in]PRP mātu[land]N
+saao/saa05/P314283,SAA 05 143. Merchants Killed and Detained (CT 53 874),o 6,šulmu[completeness]N
+saao/saa05/P314283,SAA 05 143. Merchants Killed and Detained (CT 53 874),o 7,ina[in]PRP muhhu[skull]N tamkāru[merchant]N
+saao/saa05/P314283,SAA 05 143. Merchants Killed and Detained (CT 53 874),o 8,ša[that]REL šarru[king]N bēlu[lord]N šapāru[send]V
+saao/saa05/P314283,SAA 05 143. Merchants Killed and Detained (CT 53 874),o 9,tamkāru[merchant]N
+saao/saa05/P314283,SAA 05 143. Merchants Killed and Detained (CT 53 874),o 10,ša[that]REL dâku[kill]V akī[as]PRP
+saao/saa05/P314283,SAA 05 143. Merchants Killed and Detained (CT 53 874),o 11,ištēn[one]NU ša[of]DET šarru[king]N bēlu[lord]N
+saao/saa05/P314283,SAA 05 143. Merchants Killed and Detained (CT 53 874),r 1',ša[that]REL ina[in]PRP
+saao/saa05/P314283,SAA 05 143. Merchants Killed and Detained (CT 53 874),r 2',ina[in]PRP muhhu[skull]N mātu[land]N
+saao/saa05/P314283,SAA 05 143. Merchants Killed and Detained (CT 53 874),r 3',ana[to]PRP šulmu[completeness]N šarru[king]N
+saao/saa05/P314283,SAA 05 143. Merchants Killed and Detained (CT 53 874),r 4',tamkāru[merchant]N kalû[hold-(back)]V
+saao/saa05/P314283,SAA 05 143. Merchants Killed and Detained (CT 53 874),r 5',anāku[I]IP tamkāru[merchant]N lā[not]MOD
+saao/saa05/P314283,SAA 05 143. Merchants Killed and Detained (CT 53 874),r 6',mīnu[what?]QP ša[that]REL šarru[king]N bēlu[lord]N qabû[say]V
+saao/saa05/P314283,SAA 05 143. Merchants Killed and Detained (CT 53 874),r 7',abu[father]N abu[father]N abu[father]N
+saao/saa05/P314283,SAA 05 143. Merchants Killed and Detained (CT 53 874),r 8',rabû[big-one]N danību[victualler]N

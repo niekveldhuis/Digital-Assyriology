@@ -1,0 +1,20 @@
+id_text,text_name,l_no,text
+saao/saa19/P393621,SAA 19 045. Building Works in Damascus (CTN 5 p. 181),o 2',udīni[up-till-now]AV lā[not]MOD
+saao/saa19/P393621,SAA 19 045. Building Works in Damascus (CTN 5 p. 181),o 3',līm[thousand]NU
+saao/saa19/P393621,SAA 19 045. Building Works in Damascus (CTN 5 p. 181),o 5',raṣāpu[build]V dūru[(city)-wall]N
+saao/saa19/P393621,SAA 19 045. Building Works in Damascus (CTN 5 p. 181),o 6',gamāru[complete]V harīṣu[(city)-ditch]N
+saao/saa19/P393621,SAA 19 045. Building Works in Damascus (CTN 5 p. 181),o 7',harāṣu[break-off]V muhhu[skull]NN ṭēmu[(fore)thought]N
+saao/saa19/P393621,SAA 19 045. Building Works in Damascus (CTN 5 p. 181),o 8',ša[of]DET Dimašqa[Damascus]GN
+saao/saa19/P393621,SAA 19 045. Building Works in Damascus (CTN 5 p. 181),o 9',rabû[big-one]N hamšā[fifty]NU ša[of]DET
+saao/saa19/P393621,SAA 19 045. Building Works in Damascus (CTN 5 p. 181),o 10',ina[in]PRP muhhu[skull]N halāqu[be(come)-lost]V
+saao/saa19/P393621,SAA 19 045. Building Works in Damascus (CTN 5 p. 181),o 11',ina[in]PRP muhhu[skull]N šarru[king]N bēlu[lord]N
+saao/saa19/P393621,SAA 19 045. Building Works in Damascus (CTN 5 p. 181),o 12',wabālu[bring]V
+saao/saa19/P393621,SAA 19 045. Building Works in Damascus (CTN 5 p. 181),r 2',mā[saying]PRP
+saao/saa19/P393621,SAA 19 045. Building Works in Damascus (CTN 5 p. 181),r 3',ištu[from]PRP elû[go-up]V pitti[just-as]AV
+saao/saa19/P393621,SAA 19 045. Building Works in Damascus (CTN 5 p. 181),r 4',elû[go-up]V kurummatu[ration]N
+saao/saa19/P393621,SAA 19 045. Building Works in Damascus (CTN 5 p. 181),r 5',ištu[from]PRP pānu[front]N mannu[who?]QP anāku[I]IP
+saao/saa19/P393621,SAA 19 045. Building Works in Damascus (CTN 5 p. 181),r 6',tadānu[give]V šarru[king]N bēlu[lord]N
+saao/saa19/P393621,SAA 19 045. Building Works in Damascus (CTN 5 p. 181),r 7',šapāru[send]V kī[like]PRP maṣû[correspond]V kurummatu[ration]N
+saao/saa19/P393621,SAA 19 045. Building Works in Damascus (CTN 5 p. 181),r 8',rēhu[remaining]AJ šarru[king]N
+saao/saa19/P393621,SAA 19 045. Building Works in Damascus (CTN 5 p. 181),r 9',ša[that]REL ina[in]PRP ālu[city]N
+saao/saa19/P393621,SAA 19 045. Building Works in Damascus (CTN 5 p. 181),r 10',šarru[king]N bēlu[lord]N

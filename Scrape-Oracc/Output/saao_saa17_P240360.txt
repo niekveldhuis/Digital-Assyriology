@@ -1,0 +1,18 @@
+id_text,text_name,l_no,text
+saao/saa17/P240360,SAA 17 123. A Royal Eunuch Should Come (CT 54 410),o 1,ana[to]PRP šarru[king]N bēlu[lord]N
+saao/saa17/P240360,SAA 17 123. A Royal Eunuch Should Come (CT 54 410),o 2,ardu[slave]N Nabu-šumu-lešir[1]PN
+saao/saa17/P240360,SAA 17 123. A Royal Eunuch Should Come (CT 54 410),o 3,lū[may]MOD šulmu[completeness]N ana[to]PRP šarru[king]N bēlu[lord]N
+saao/saa17/P240360,SAA 17 123. A Royal Eunuch Should Come (CT 54 410),o 4,umma[saying]PRP ana[to]PRP šarru[king]N bēlu[lord]N
+saao/saa17/P240360,SAA 17 123. A Royal Eunuch Should Come (CT 54 410),r 2',ša[of]DET
+saao/saa17/P240360,SAA 17 123. A Royal Eunuch Should Come (CT 54 410),r 3',šapāru[send]V
+saao/saa17/P240360,SAA 17 123. A Royal Eunuch Should Come (CT 54 410),r 4',alāku[go]V
+saao/saa17/P240360,SAA 17 123. A Royal Eunuch Should Come (CT 54 410),r 6',u[and]CNJ ina[in]PRP muhhu[skull]N
+saao/saa17/P240360,SAA 17 123. A Royal Eunuch Should Come (CT 54 410),r 7',šakānu[put]V adi[until]PRP
+saao/saa17/P240360,SAA 17 123. A Royal Eunuch Should Come (CT 54 410),r 8',šapāru[send]V
+saao/saa17/P240360,SAA 17 123. A Royal Eunuch Should Come (CT 54 410),r 9',bēlu[lord]N mahru[received]AJ
+saao/saa17/P240360,SAA 17 123. A Royal Eunuch Should Come (CT 54 410),r 10',ša[that]REL ina[in]PRP qātu[hand]N
+saao/saa17/P240360,SAA 17 123. A Royal Eunuch Should Come (CT 54 410),r 11',šarru[king]N bēlu[lord]N
+saao/saa17/P240360,SAA 17 123. A Royal Eunuch Should Come (CT 54 410),r 12',u[and]CNJ kī[like]PRP pānu[front]N šarru[king]N bēlu[lord]N mahru[received]AJ
+saao/saa17/P240360,SAA 17 123. A Royal Eunuch Should Come (CT 54 410),r 13',ištēn[one]NU ša-rēši[eunuch]N ša[of]DET šarru[king]N
+saao/saa17/P240360,SAA 17 123. A Royal Eunuch Should Come (CT 54 410),r 14',kašādu[reach]V
+saao/saa17/P240360,SAA 17 123. A Royal Eunuch Should Come (CT 54 410),r.e. 15,akī[as;-like]PRP ša[that]REL šarru[king]N bēlu[lord]N leʾû[be-able]V

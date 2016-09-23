@@ -1,0 +1,11 @@
+id_text,text_name,l_no,text
+saao/saa10/P313534,SAA 10 268. (no title) (CT 53 119) [from exorcists],o 1,ana[to]PRP šarru[king]N bēlu[lord]N
+saao/saa10/P313534,SAA 10 268. (no title) (CT 53 119) [from exorcists],o 2,ardu[slave]N Marduk-šakin-šumi[1]PN
+saao/saa10/P313534,SAA 10 268. (no title) (CT 53 119) [from exorcists],o 3,lū[may]MOD šulmu[completeness]N ana[to]PRP šarru[king]N bēlu[lord]N
+saao/saa10/P313534,SAA 10 268. (no title) (CT 53 119) [from exorcists],o 4,Nabu[1]DN u[and]CNJ Marduk[1]DN ana[to]PRP šarru[king]N bēlu[lord]N
+saao/saa10/P313534,SAA 10 268. (no title) (CT 53 119) [from exorcists],o 5,karābu[pray]V
+saao/saa10/P313534,SAA 10 268. (no title) (CT 53 119) [from exorcists],r 3',lū[may]MOD epšu[made]AJ
+saao/saa10/P313534,SAA 10 268. (no title) (CT 53 119) [from exorcists],r 4',šarru[king]N išti[with]PRP ardu[slave]N
+saao/saa10/P313534,SAA 10 268. (no title) (CT 53 119) [from exorcists],r 5',dabābu[speak]V
+saao/saa10/P313534,SAA 10 268. (no title) (CT 53 119) [from exorcists],r.e. 6,ana[to]PRP šarru[king]N
+saao/saa10/P313534,SAA 10 268. (no title) (CT 53 119) [from exorcists],r.e. 7,bēlu[lord]N

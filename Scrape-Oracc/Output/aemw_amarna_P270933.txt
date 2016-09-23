@@ -1,25 +1,25 @@
 id_text,text_name,l_no,text
-aemw/amarna/P270933,EA 228. An invitation to recall the past [vassal letter],001,
-aemw/amarna/P270933,EA 228. An invitation to recall the past [vassal letter],002,
-aemw/amarna/P270933,EA 228. An invitation to recall the past [vassal letter],003,Abdi-Šullim[1]PN
-aemw/amarna/P270933,EA 228. An invitation to recall the past [vassal letter],004,Haṣura[Hazor]GN
-aemw/amarna/P270933,EA 228. An invitation to recall the past [vassal letter],005,
-aemw/amarna/P270933,EA 228. An invitation to recall the past [vassal letter],006,
-aemw/amarna/P270933,EA 228. An invitation to recall the past [vassal letter],007,
-aemw/amarna/P270933,EA 228. An invitation to recall the past [vassal letter],008,
-aemw/amarna/P270933,EA 228. An invitation to recall the past [vassal letter],009,
-aemw/amarna/P270933,EA 228. An invitation to recall the past [vassal letter],010,
-aemw/amarna/P270933,EA 228. An invitation to recall the past [vassal letter],011,
-aemw/amarna/P270933,EA 228. An invitation to recall the past [vassal letter],012,
-aemw/amarna/P270933,EA 228. An invitation to recall the past [vassal letter],013,
-aemw/amarna/P270933,EA 228. An invitation to recall the past [vassal letter],014,
-aemw/amarna/P270933,EA 228. An invitation to recall the past [vassal letter],015,Haṣura[Hazor]GN
-aemw/amarna/P270933,EA 228. An invitation to recall the past [vassal letter],016,
-aemw/amarna/P270933,EA 228. An invitation to recall the past [vassal letter],017,
-aemw/amarna/P270933,EA 228. An invitation to recall the past [vassal letter],018,
-aemw/amarna/P270933,EA 228. An invitation to recall the past [vassal letter],019,
-aemw/amarna/P270933,EA 228. An invitation to recall the past [vassal letter],020,
-aemw/amarna/P270933,EA 228. An invitation to recall the past [vassal letter],021,
-aemw/amarna/P270933,EA 228. An invitation to recall the past [vassal letter],022,
-aemw/amarna/P270933,EA 228. An invitation to recall the past [vassal letter],023,Haṣura[Hazor]GN
-aemw/amarna/P270933,EA 228. An invitation to recall the past [vassal letter],024,
+aemw/amarna/P270933,EA 228. An invitation to recall the past [vassal letter],001,akk-x-mbperi:ana[to]PRP akk-x-mbperi:šarru[king]N akk-x-mbperi:bēlu[lord]N
+aemw/amarna/P270933,EA 228. An invitation to recall the past [vassal letter],002,akk-x-mbperi:qabû[say]V
+aemw/amarna/P270933,EA 228. An invitation to recall the past [vassal letter],003,akk-x-mbperi:umma[saying]PRP akk-x-mbperi:Abdi-Šullim[1]PN
+aemw/amarna/P270933,EA 228. An invitation to recall the past [vassal letter],004,akk-x-mbperi:awīlu[man]N akk-x-mbperi:Haṣura[Hazor]GN akk-x-mbperi:wardu[slave]N
+aemw/amarna/P270933,EA 228. An invitation to recall the past [vassal letter],005,akk-x-mbperi:ana[to]PRP akk-x-mbperi:šēpu[foot]N
+aemw/amarna/P270933,EA 228. An invitation to recall the past [vassal letter],006,akk-x-mbperi:šarru[king]N akk-x-mbperi:bēlu[lord]N
+aemw/amarna/P270933,EA 228. An invitation to recall the past [vassal letter],007,akk-x-mbperi:u[and]CNJ
+aemw/amarna/P270933,EA 228. An invitation to recall the past [vassal letter],008,akk-x-mbperi:ana[to]PRP akk-x-mbperi:šēpu[foot]N akk-x-mbperi:šarru[king]N akk-x-mbperi:bēlu[lord]N
+aemw/amarna/P270933,EA 228. An invitation to recall the past [vassal letter],009,akk-x-mbperi:maqātu[fall]V
+aemw/amarna/P270933,EA 228. An invitation to recall the past [vassal letter],010,akk-x-mbperi:amāru[see]V akk-x-mbperi:anāku[I]IP akk-x-mbperi:wardu[slave]N
+aemw/amarna/P270933,EA 228. An invitation to recall the past [vassal letter],011,akk-x-mbperi:ša[of]DET akk-x-mbperi:kittu[steadiness]N
+aemw/amarna/P270933,EA 228. An invitation to recall the past [vassal letter],012,akk-x-mbperi:šarru[king]N akk-x-mbperi:bēlu[lord]N akk-x-mbperi:u[and]CNJ
+aemw/amarna/P270933,EA 228. An invitation to recall the past [vassal letter],013,akk-x-mbperi:anumma[now]AV
+aemw/amarna/P270933,EA 228. An invitation to recall the past [vassal letter],014,akk-x-mbperi:naṣāru[guard]V
+aemw/amarna/P270933,EA 228. An invitation to recall the past [vassal letter],015,akk-x-mbperi:Haṣura[Hazor]GN
+aemw/amarna/P270933,EA 228. An invitation to recall the past [vassal letter],016,akk-x-mbperi:qadu[together-with]PRP akk-x-mbperi:ālu[city]N
+aemw/amarna/P270933,EA 228. An invitation to recall the past [vassal letter],017,akk-x-mbperi:ana[to]PRP akk-x-mbperi:šarru[king]N akk-x-mbperi:bēlu[lord]N
+aemw/amarna/P270933,EA 228. An invitation to recall the past [vassal letter],018,akk-x-mbperi:u[and]CNJ akk-x-mbperi:hasāsu[be(come)-conscious]V
+aemw/amarna/P270933,EA 228. An invitation to recall the past [vassal letter],019,qca:zakaru[remember]V
+aemw/amarna/P270933,EA 228. An invitation to recall the past [vassal letter],020,akk-x-mbperi:šarru[king]N akk-x-mbperi:bēlu[lord]N
+aemw/amarna/P270933,EA 228. An invitation to recall the past [vassal letter],021,akk-x-mbperi:mimma[anything]XP akk-x-mbperi:ša[that]REL
+aemw/amarna/P270933,EA 228. An invitation to recall the past [vassal letter],022,akk-x-mbperi:epēšu[do]V
+aemw/amarna/P270933,EA 228. An invitation to recall the past [vassal letter],023,akk-x-mbperi:eli[on]PRP akk-x-mbperi:Haṣura[Hazor]GN
+aemw/amarna/P270933,EA 228. An invitation to recall the past [vassal letter],024,akk-x-mbperi:ālu[city]N akk-x-mbperi:u[and]CNJ

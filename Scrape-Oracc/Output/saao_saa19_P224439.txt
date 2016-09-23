@@ -1,0 +1,29 @@
+id_text,text_name,l_no,text
+saao/saa19/P224439,SAA 19 189. The Troops of Mazamua (CTN 5 p. 128; SAA 05 215),o 1,ana[to]PRP šarru[king]N bēlu[lord]N
+saao/saa19/P224439,SAA 19 189. The Troops of Mazamua (CTN 5 p. 128; SAA 05 215),o 2,ardu[slave]N Adad-isseʾa[1]PN
+saao/saa19/P224439,SAA 19 189. The Troops of Mazamua (CTN 5 p. 128; SAA 05 215),o 3,lū[may]MOD šulmu[completeness]N ana[to]PRP šarru[king]N bēlu[lord]N
+saao/saa19/P224439,SAA 19 189. The Troops of Mazamua (CTN 5 p. 128; SAA 05 215),o 4,ša[that]REL šarru[king]N bēlu[lord]N ṭēmu[(fore)thought]N šakānu[put]V
+saao/saa19/P224439,SAA 19 189. The Troops of Mazamua (CTN 5 p. 128; SAA 05 215),o 5,mā[saying]PRP emūqu[strength]N ša[of]DET Mazamua[1]GN
+saao/saa19/P224439,SAA 19 189. The Troops of Mazamua (CTN 5 p. 128; SAA 05 215),o 6,ašāru[muster]V šapāru[send]V mugerru[chariot]N
+saao/saa19/P224439,SAA 19 189. The Troops of Mazamua (CTN 5 p. 128; SAA 05 215),o 7,attartu[(military)-cart]N ša[of]DET sisû[horse]N
+saao/saa19/P224439,SAA 19 189. The Troops of Mazamua (CTN 5 p. 128; SAA 05 215),o 8,ša[of]DET kūdanu[mule]N gimru[totality]N urû[team]N
+saao/saa19/P224439,SAA 19 189. The Troops of Mazamua (CTN 5 p. 128; SAA 05 215),o 9,pēthallu[riding-horse]N mukillu[holder]N appatu[bridle]N
+saao/saa19/P224439,SAA 19 189. The Troops of Mazamua (CTN 5 p. 128; SAA 05 215),o 10,tašlīšu[third-man-on-chariot]N māru[son]N damqu[good]AJ
+saao/saa19/P224439,SAA 19 189. The Troops of Mazamua (CTN 5 p. 128; SAA 05 215),o 11,šušānu[horse-trainer]N urû[team]N
+saao/saa19/P224439,SAA 19 189. The Troops of Mazamua (CTN 5 p. 128; SAA 05 215),o 12,gimru[totality]N meʾatu[(one)-hundred]NU ṣābu[people]N mugerru[chariot]N
+saao/saa19/P224439,SAA 19 189. The Troops of Mazamua (CTN 5 p. 128; SAA 05 215),o 13,meʾatu[(one)-hundred]NU ša-pēthalli[rider]N meʾatu[(one)-hundred]NU šušānu[horse-trainer]N
+saao/saa19/P224439,SAA 19 189. The Troops of Mazamua (CTN 5 p. 128; SAA 05 215),o 14,zunzurahhu[(a-military-groom)?]N gimru[totality]N meʾatu[(one)-hundred]NU
+saao/saa19/P224439,SAA 19 189. The Troops of Mazamua (CTN 5 p. 128; SAA 05 215),o 15,šušānu[horse-trainer]N ša-bēti-šanie[domestic-servant]N
+saao/saa19/P224439,SAA 19 189. The Troops of Mazamua (CTN 5 p. 128; SAA 05 215),o 16,kāṣiru[tailor]N šāqû[butler]N
+saao/saa19/P224439,SAA 19 189. The Troops of Mazamua (CTN 5 p. 128; SAA 05 215),o 17,kakardinnu[victualler]N ēpû[baker]N
+saao/saa19/P224439,SAA 19 189. The Troops of Mazamua (CTN 5 p. 128; SAA 05 215),o 18,nuhatimmu[cook]N gimru[totality]N nišu[people]N bītu[house]N
+saao/saa19/P224439,SAA 19 189. The Troops of Mazamua (CTN 5 p. 128; SAA 05 215),o 19,ummiānu[scholar]N rādiu[(caravan)-guide]N imēru[donkey]N
+saao/saa19/P224439,SAA 19 189. The Troops of Mazamua (CTN 5 p. 128; SAA 05 215),o 20,muterru[(re)turner]N muterru[(re)turner]N kallāpu[outrider]N
+saao/saa19/P224439,SAA 19 189. The Troops of Mazamua (CTN 5 p. 128; SAA 05 215),o 21,gimru[totality]N meʾatu[(one)-hundred]NU Aššuraya[Assyrian]EN
+saao/saa19/P224439,SAA 19 189. The Troops of Mazamua (CTN 5 p. 128; SAA 05 215),o 22,meʾatu[(one)-hundred]NU Gurraya[Gurrean]EN meʾatu[(one)-hundred]NU Ituʾaya[Itu´ean]EN
+saao/saa19/P224439,SAA 19 189. The Troops of Mazamua (CTN 5 p. 128; SAA 05 215),b.e. 23,gimru[totality]N līm[thousand]NU meʾatu[(one)-hundred]NU ṣābu[people]N šarru[king]N
+saao/saa19/P224439,SAA 19 189. The Troops of Mazamua (CTN 5 p. 128; SAA 05 215),r 1,adi[until]PRP pānû[previous]AJ ša[that]REL annaka[here]AV
+saao/saa19/P224439,SAA 19 189. The Troops of Mazamua (CTN 5 p. 128; SAA 05 215),r 2,adi[until]PRP ša[that]REL ša-qurbūti[close-follower]N našû[lifted]AJ
+saao/saa19/P224439,SAA 19 189. The Troops of Mazamua (CTN 5 p. 128; SAA 05 215),r 3,issurri[perhaps]AV šarru[king]N bēlu[lord]N qabû[say]V
+saao/saa19/P224439,SAA 19 189. The Troops of Mazamua (CTN 5 p. 128; SAA 05 215),r 4,mā[saying]PRP rēhtu[remainder]N emūqu[strength]N ali[where?]QP
+saao/saa19/P224439,SAA 19 189. The Troops of Mazamua (CTN 5 p. 128; SAA 05 215),r 5,rabû[big-one]N bītu[house]N namarkû[late]AJ rēhtu[remainder]N

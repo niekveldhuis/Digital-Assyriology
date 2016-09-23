@@ -1,0 +1,45 @@
+id_text,text_name,l_no,text
+saao/saa17/P238347,SAA 17 023. Let the King Come and Restore the Privileges of Babylon (CT 54 066),o 3',Babili[Babylon]GN
+saao/saa17/P238347,SAA 17 023. Let the King Come and Restore the Privileges of Babylon (CT 54 066),o 4',u[and]CNJ
+saao/saa17/P238347,SAA 17 023. Let the King Come and Restore the Privileges of Babylon (CT 54 066),o 5',nasāhu[tear-out]V
+saao/saa17/P238347,SAA 17 023. Let the King Come and Restore the Privileges of Babylon (CT 54 066),o 6',pānu[front]N ša[of]DET šarru[king]N
+saao/saa17/P238347,SAA 17 023. Let the King Come and Restore the Privileges of Babylon (CT 54 066),o 7',šarru[king]N ana[to]PRP bītu[house]N
+saao/saa17/P238347,SAA 17 023. Let the King Come and Restore the Privileges of Babylon (CT 54 066),o 8',sisû[horse]N
+saao/saa17/P238347,SAA 17 023. Let the King Come and Restore the Privileges of Babylon (CT 54 066),o 9',rabû[big-one]N
+saao/saa17/P238347,SAA 17 023. Let the King Come and Restore the Privileges of Babylon (CT 54 066),o 10',ana[to]PRP pû[mouth]N
+saao/saa17/P238347,SAA 17 023. Let the King Come and Restore the Privileges of Babylon (CT 54 066),o 12',ahu[arm]N ana[to]PRP
+saao/saa17/P238347,SAA 17 023. Let the King Come and Restore the Privileges of Babylon (CT 54 066),o 13',ana[to]PRP kutallu[back]N nahāsu[(re)cede]V
+saao/saa17/P238347,SAA 17 023. Let the King Come and Restore the Privileges of Babylon (CT 54 066),o 14',ittu[sign]N mātu[land]N ūmu[day]N agâ[this]DP
+saao/saa17/P238347,SAA 17 023. Let the King Come and Restore the Privileges of Babylon (CT 54 066),o 15',Babili[Babylon]GN gabbu[totality]N
+saao/saa17/P238347,SAA 17 023. Let the King Come and Restore the Privileges of Babylon (CT 54 066),o 16',agâ[this]DP ša[that]REL šakānu[put]V
+saao/saa17/P238347,SAA 17 023. Let the King Come and Restore the Privileges of Babylon (CT 54 066),o 17',lemnu[bad]AJ
+saao/saa17/P238347,SAA 17 023. Let the King Come and Restore the Privileges of Babylon (CT 54 066),o 18',umma[saying]PRP ana[to]PRP šarru[king]N bēlu[lord]N wabālu[bring]V
+saao/saa17/P238347,SAA 17 023. Let the King Come and Restore the Privileges of Babylon (CT 54 066),o 19',kī[like]PRP ṭēmu[(fore)thought]N pānu[front]N šarru[king]N ul[not]MOD mahāru[face]V
+saao/saa17/P238347,SAA 17 023. Let the King Come and Restore the Privileges of Babylon (CT 54 066),o 20',akī[as;-like]PRP ša[that]REL pānu[front]N šarru[king]N mahru[received]AJ wabālu[bring]V
+saao/saa17/P238347,SAA 17 023. Let the King Come and Restore the Privileges of Babylon (CT 54 066),o 21',akī[as;-like]PRP šemû[hear]V rabû[big-one]N ša[of]DET šarru[king]N ana[to]PRP šarru[king]N bēlu[lord]N
+saao/saa17/P238347,SAA 17 023. Let the King Come and Restore the Privileges of Babylon (CT 54 066),o 22',qabû[say]V umma[saying]PRP ana[to]PRP Babili[Babylon]GN
+saao/saa17/P238347,SAA 17 023. Let the King Come and Restore the Privileges of Babylon (CT 54 066),b.e. 23',lā[not]MOD alāku[go]V
+saao/saa17/P238347,SAA 17 023. Let the King Come and Restore the Privileges of Babylon (CT 54 066),b.e. 24',Tukulti-apil-Ešarra[Tiglath-pileser-III]PN
+saao/saa17/P238347,SAA 17 023. Let the King Come and Restore the Privileges of Babylon (CT 54 066),b.e. 25',u[and]CNJ Salmanu-ašared[Shalmaneser-V]PN ša[that]REL alāku[go]V
+saao/saa17/P238347,SAA 17 023. Let the King Come and Restore the Privileges of Babylon (CT 54 066),b.e. 26',našû[lift]V
+saao/saa17/P238347,SAA 17 023. Let the King Come and Restore the Privileges of Babylon (CT 54 066),r 1,ana[to]PRP mīnu[what?]QP kī[like]PRP alāku[go]V
+saao/saa17/P238347,SAA 17 023. Let the King Come and Restore the Privileges of Babylon (CT 54 066),r 2,ana[to]PRP šarru[king]N ša[that]REL šittu[remnant]N išû[have]V
+saao/saa17/P238347,SAA 17 023. Let the King Come and Restore the Privileges of Babylon (CT 54 066),r 3,Esaggil[1]TN Babili[Babylon]GN ša[of]DET salāmu[be(come)-at-peace]V
+saao/saa17/P238347,SAA 17 023. Let the King Come and Restore the Privileges of Babylon (CT 54 066),r 4,epēšu[do]V kidinnu[protection]N kaṣāru[tie]V
+saao/saa17/P238347,SAA 17 023. Let the King Come and Restore the Privileges of Babylon (CT 54 066),r 5,u[and]CNJ itti[with]PRP māru[son]N Babili[Babylon]GN šalāmu[be(come)-healthy]V
+saao/saa17/P238347,SAA 17 023. Let the King Come and Restore the Privileges of Babylon (CT 54 066),r 6,u[and]CNJ makkūru[property]N Esaggil[1]TN u[and]CNJ Ezida[Temple-of-Nabu]TN
+saao/saa17/P238347,SAA 17 023. Let the King Come and Restore the Privileges of Babylon (CT 54 066),r 7,kaṣāru[tie]V Bel[1]DN u[and]CNJ Nabu[1]DN ūmu[day]N arku[long]AJ
+saao/saa17/P238347,SAA 17 023. Let the King Come and Restore the Privileges of Babylon (CT 54 066),r 8,ṭūbu[goodness]N šīru[flesh]N ṭūbu[goodness]N libbu[interior]N šarāku[present]V
+saao/saa17/P238347,SAA 17 023. Let the King Come and Restore the Privileges of Babylon (CT 54 066),r 9,u[and]CNJ Marduk-apla-iddina[Merodach-Baladan]PN šarru[king]N u[and]CNJ Zakiru[1]PN māru[son]N
+saao/saa17/P238347,SAA 17 023. Let the King Come and Restore the Privileges of Babylon (CT 54 066),r 10,ištēn[one]NU šattu[year]N u[and]CNJ šanû[(an)other]AJ šattu[year]N
+saao/saa17/P238347,SAA 17 023. Let the King Come and Restore the Privileges of Babylon (CT 54 066),r 11,Babili[Babylon]GN
+saao/saa17/P238347,SAA 17 023. Let the King Come and Restore the Privileges of Babylon (CT 54 066),r 12,mimma[anything]XP ina[in]PRP ilu[god]N ša[of]DET
+saao/saa17/P238347,SAA 17 023. Let the King Come and Restore the Privileges of Babylon (CT 54 066),r 13,šarru[king]N bēlu[lord]N lū[may]MOD wadû[know]V kī[like]PRP
+saao/saa17/P238347,SAA 17 023. Let the King Come and Restore the Privileges of Babylon (CT 54 066),r 14,šarru[king]N mahrû[first]AJ
+saao/saa17/P238347,SAA 17 023. Let the King Come and Restore the Privileges of Babylon (CT 54 066),r 15,kidinnūtu[exempt-status]N lā[not]MOD
+saao/saa17/P238347,SAA 17 023. Let the King Come and Restore the Privileges of Babylon (CT 54 066),r 16,Bel[1]DN u[and]CNJ Nabu[1]DN šattu[year]N
+saao/saa17/P238347,SAA 17 023. Let the King Come and Restore the Privileges of Babylon (CT 54 066),r 17,šattu[year]N kiššūtu[exercise-of-power]N
+saao/saa17/P238347,SAA 17 023. Let the King Come and Restore the Privileges of Babylon (CT 54 066),r 18,ana[to]PRP pû[mouth]N ilūtu[godhead]N palhu[fearful]AJ
+saao/saa17/P238347,SAA 17 023. Let the King Come and Restore the Privileges of Babylon (CT 54 066),r 19,ana[to]PRP Lanše[1]PN
+saao/saa17/P238347,SAA 17 023. Let the King Come and Restore the Privileges of Babylon (CT 54 066),r 20,ul[not]MOD našû[lift]V u[and]CNJ
+saao/saa17/P238347,SAA 17 023. Let the King Come and Restore the Privileges of Babylon (CT 54 066),r 21,enna[now]AV

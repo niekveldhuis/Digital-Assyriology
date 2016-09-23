@@ -1,37 +1,37 @@
 id_text,text_name,l_no,text
-aemw/amarna/P271082,EA 077. A rebellious peasantry [vassal letter],001,Aman-appa[1]PN
-aemw/amarna/P271082,EA 077. A rebellious peasantry [vassal letter],002,Rib-Haddi[1]PN
-aemw/amarna/P271082,EA 077. A rebellious peasantry [vassal letter],003,Amana[Amon]DN
-aemw/amarna/P271082,EA 077. A rebellious peasantry [vassal letter],004,Gublu[Byblos]GN
-aemw/amarna/P271082,EA 077. A rebellious peasantry [vassal letter],005,
-aemw/amarna/P271082,EA 077. A rebellious peasantry [vassal letter],006,
-aemw/amarna/P271082,EA 077. A rebellious peasantry [vassal letter],007,
-aemw/amarna/P271082,EA 077. A rebellious peasantry [vassal letter],008,
-aemw/amarna/P271082,EA 077. A rebellious peasantry [vassal letter],009,Gublu[Byblos]GN
-aemw/amarna/P271082,EA 077. A rebellious peasantry [vassal letter],010,
-aemw/amarna/P271082,EA 077. A rebellious peasantry [vassal letter],011,
-aemw/amarna/P271082,EA 077. A rebellious peasantry [vassal letter],012,Milkayu[1]PN
-aemw/amarna/P271082,EA 077. A rebellious peasantry [vassal letter],013,
-aemw/amarna/P271082,EA 077. A rebellious peasantry [vassal letter],014,
-aemw/amarna/P271082,EA 077. A rebellious peasantry [vassal letter],015,Ṣurru[Tyre]GN
-aemw/amarna/P271082,EA 077. A rebellious peasantry [vassal letter],016,
-aemw/amarna/P271082,EA 077. A rebellious peasantry [vassal letter],017,
-aemw/amarna/P271082,EA 077. A rebellious peasantry [vassal letter],018,
-aemw/amarna/P271082,EA 077. A rebellious peasantry [vassal letter],019,
-aemw/amarna/P271082,EA 077. A rebellious peasantry [vassal letter],020,
-aemw/amarna/P271082,EA 077. A rebellious peasantry [vassal letter],021,
-aemw/amarna/P271082,EA 077. A rebellious peasantry [vassal letter],022,
-aemw/amarna/P271082,EA 077. A rebellious peasantry [vassal letter],023,
-aemw/amarna/P271082,EA 077. A rebellious peasantry [vassal letter],024,
-aemw/amarna/P271082,EA 077. A rebellious peasantry [vassal letter],025,
-aemw/amarna/P271082,EA 077. A rebellious peasantry [vassal letter],026,
-aemw/amarna/P271082,EA 077. A rebellious peasantry [vassal letter],027,
-aemw/amarna/P271082,EA 077. A rebellious peasantry [vassal letter],028,
-aemw/amarna/P271082,EA 077. A rebellious peasantry [vassal letter],029,
-aemw/amarna/P271082,EA 077. A rebellious peasantry [vassal letter],030,
-aemw/amarna/P271082,EA 077. A rebellious peasantry [vassal letter],031,
-aemw/amarna/P271082,EA 077. A rebellious peasantry [vassal letter],032,Gublu[Byblos]GN
-aemw/amarna/P271082,EA 077. A rebellious peasantry [vassal letter],033,
-aemw/amarna/P271082,EA 077. A rebellious peasantry [vassal letter],034,
-aemw/amarna/P271082,EA 077. A rebellious peasantry [vassal letter],035,Gublu[Byblos]GN
-aemw/amarna/P271082,EA 077. A rebellious peasantry [vassal letter],036,
+aemw/amarna/P271082,EA 077. A rebellious peasantry [vassal letter],001,akk-x-mbperi:ana[to]PRP akk-x-mbperi:Aman-appa[1]PN akk-x-mbperi:qabû[say]V
+aemw/amarna/P271082,EA 077. A rebellious peasantry [vassal letter],002,akk-x-mbperi:umma[saying]PRP akk-x-mbperi:Rib-Haddi[1]PN akk-x-mbperi:ana[to]PRP akk-x-mbperi:šēpu[foot]N
+aemw/amarna/P271082,EA 077. A rebellious peasantry [vassal letter],003,akk-x-mbperi:maqātu[fall]V akk-x-mbperi:Amana[Amon]DN akk-x-mbperi:ilu[god]N akk-x-mbperi:šarru[king]N
+aemw/amarna/P271082,EA 077. A rebellious peasantry [vassal letter],004,akk-x-mbperi:bēlu[lord]N akk-x-mbperi:u[and]CNJ akk-x-mbperi:bēltu[lady]N akk-x-mbperi:ša[of]DET akk-x-mbperi:Gublu[Byblos]GN
+aemw/amarna/P271082,EA 077. A rebellious peasantry [vassal letter],005,akk-x-mbperi:nadānu[give]V akk-x-mbperi:bāštu[dignity]N akk-x-mbperi:ina[in]PRP
+aemw/amarna/P271082,EA 077. A rebellious peasantry [vassal letter],006,akk-x-mbperi:pānu[front]N akk-x-mbperi:šarru[king]N akk-x-mbperi:bēlu[lord]N akk-x-mbperi:inūma[when]SBJ
+aemw/amarna/P271082,EA 077. A rebellious peasantry [vassal letter],007,akk-x-mbperi:šapāru[send]V akk-x-mbperi:ana[to]PRP akk-x-mbperi:werû[copper]N akk-x-mbperi:u[and]CNJ akk-x-mbperi:ana[to]PRP
+aemw/amarna/P271082,EA 077. A rebellious peasantry [vassal letter],008,akk-x-mbperi:šinnu[tooth]N akk-x-mbperi:edû[know]V akk-x-mbperi:bēltu[lady]N
+aemw/amarna/P271082,EA 077. A rebellious peasantry [vassal letter],009,akk-x-mbperi:ša[of]DET akk-x-mbperi:Gublu[Byblos]GN akk-x-mbperi:šumma[if]MOD akk-x-mbperi:išû[have]V
+aemw/amarna/P271082,EA 077. A rebellious peasantry [vassal letter],010,akk-x-mbperi:werû[copper]N akk-x-mbperi:ū[or]CNJ akk-x-mbperi:šinnu[tooth]N akk-x-mbperi:pīru[elephant]N
+aemw/amarna/P271082,EA 077. A rebellious peasantry [vassal letter],011,akk-x-mbperi:ana[to]PRP akk-x-mbperi:yâšim[to-me]IP akk-x-mbperi:ū[or]CNJ akk-x-mbperi:ālu[city]N
+aemw/amarna/P271082,EA 077. A rebellious peasantry [vassal letter],012,akk-x-mbperi:Milkayu[1]PN akk-x-mbperi:eršu[bed]N akk-x-mbperi:mahṣu[beaten]AJ
+aemw/amarna/P271082,EA 077. A rebellious peasantry [vassal letter],013,akk-x-mbperi:u[and]CNJ akk-x-mbperi:nadnu[given]AJ akk-x-mbperi:šinnu[tooth]N
+aemw/amarna/P271082,EA 077. A rebellious peasantry [vassal letter],014,akk-x-mbperi:ana[to]PRP akk-x-mbperi:balāṭu[life]N akk-x-mbperi:ana[to]PRP
+aemw/amarna/P271082,EA 077. A rebellious peasantry [vassal letter],015,akk-x-mbperi:šarru[king]N akk-x-mbperi:Ṣurru[Tyre]GN akk-x-mbperi:attā[you]IP
+aemw/amarna/P271082,EA 077. A rebellious peasantry [vassal letter],016,akk-x-mbperi:ul[not]MOD akk-x-mbperi:edû[know]V akk-x-mbperi:pušqu[narrowness]N
+aemw/amarna/P271082,EA 077. A rebellious peasantry [vassal letter],017,akk-x-mbperi:qālu[attentive]AJ akk-x-mbperi:ana[to]PRP akk-x-mbperi:yâšim[to-me]IP
+aemw/amarna/P271082,EA 077. A rebellious peasantry [vassal letter],018,akk-x-mbperi:anumma[now]AV akk-x-mbperi:ana[to]PRP akk-x-mbperi:mīnu[what?]QP akk-x-mbperi:qālu[attentive]AJ
+aemw/amarna/P271082,EA 077. A rebellious peasantry [vassal letter],019,akk-x-mbperi:ana[to]PRP akk-x-mbperi:wabrum[stranger]N akk-x-mbperi:kalbu[dog]N akk-x-mbperi:ša[that]REL
+aemw/amarna/P271082,EA 077. A rebellious peasantry [vassal letter],020,akk-x-mbperi:namāšu[set-(oneself)-in-motion]V akk-x-mbperi:ana[to]PRP akk-x-mbperi:mātu[land]N
+aemw/amarna/P271082,EA 077. A rebellious peasantry [vassal letter],021,akk-x-mbperi:ul[not]MOD akk-x-mbperi:qabû[say]V akk-x-mbperi:ana[to]PRP akk-x-mbperi:bēlu[lord]N akk-x-mbperi:u[and]CNJ
+aemw/amarna/P271082,EA 077. A rebellious peasantry [vassal letter],022,akk-x-mbperi:wašāru[sink-down]V akk-x-mbperi:ina[in]PRP
+aemw/amarna/P271082,EA 077. A rebellious peasantry [vassal letter],023,akk-x-mbperi:pānu[front]N akk-x-mbperi:ṣābu[people]N akk-x-mbperi:piṭṭātu[archers]N akk-x-mbperi:u[and]CNJ
+aemw/amarna/P271082,EA 077. A rebellious peasantry [vassal letter],024,akk-x-mbperi:marāru[go-away]V akk-x-mbperi:awīlu[man]N akk-x-mbperi:hāpiru[(class-of)-vagrant]N
+aemw/amarna/P271082,EA 077. A rebellious peasantry [vassal letter],025,akk-x-mbperi:ištu[from]PRP akk-x-mbperi:awīlu[man]N akk-x-mbperi:hazannu[mayor]N
+aemw/amarna/P271082,EA 077. A rebellious peasantry [vassal letter],026,akk-x-mbperi:šumma[if]MOD akk-x-mbperi:šattu[year]N akk-x-mbperi:annû[this]DP akk-x-mbperi:ul[not]MOD
+aemw/amarna/P271082,EA 077. A rebellious peasantry [vassal letter],027,akk-x-mbperi:waṣû[go-out]V akk-x-mbperi:ṣābu[people]N akk-x-mbperi:piṭṭātu[archers]N
+aemw/amarna/P271082,EA 077. A rebellious peasantry [vassal letter],028,akk-x-mbperi:u[and]CNJ akk-x-mbperi:epēšu[do]V akk-x-mbperi:kalû[all]N
+aemw/amarna/P271082,EA 077. A rebellious peasantry [vassal letter],029,akk-x-mbperi:mātu[land]N akk-x-mbperi:ana[to]PRP akk-x-mbperi:awīlu[man]N akk-x-mbperi:hāpiru[(class-of)-vagrant]N
+aemw/amarna/P271082,EA 077. A rebellious peasantry [vassal letter],030,akk-x-mbperi:šumma[if]MOD akk-x-mbperi:qālu[attentive]AJ akk-x-mbperi:šarru[king]N akk-x-mbperi:bēlu[lord]N
+aemw/amarna/P271082,EA 077. A rebellious peasantry [vassal letter],031,akk-x-mbperi:u[and]CNJ akk-x-mbperi:yānu[(there)-is-not]V akk-x-mbperi:ṣābu[people]N akk-x-mbperi:piṭṭātu[archers]N akk-x-mbperi:u[and]CNJ
+aemw/amarna/P271082,EA 077. A rebellious peasantry [vassal letter],032,akk-x-mbperi:eleppu[ship]N akk-x-mbperi:awīlu[man]N akk-x-mbperi:Gublu[Byblos]GN
+aemw/amarna/P271082,EA 077. A rebellious peasantry [vassal letter],033,akk-x-mbperi:awīlu[man]N akk-x-mbperi:ilu[god]N akk-x-mbperi:leqû[take]V
+aemw/amarna/P271082,EA 077. A rebellious peasantry [vassal letter],034,akk-x-mbperi:adi[until]PRP akk-x-mbperi:muhhu[skull]N akk-x-mbperi:u[and]CNJ akk-x-mbperi:ezēbu[leave]V
+aemw/amarna/P271082,EA 077. A rebellious peasantry [vassal letter],035,akk-x-mbperi:Gublu[Byblos]GN akk-x-mbperi:amāru[see]V
+aemw/amarna/P271082,EA 077. A rebellious peasantry [vassal letter],036,akk-x-mbperi:palhu[fearful]AJ akk-x-mbperi:awīlu[man]N akk-x-mbperi:hupšu[(member-of)-lower-class]N

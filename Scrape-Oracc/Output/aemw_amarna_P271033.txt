@@ -1,58 +1,58 @@
 id_text,text_name,l_no,text
-aemw/amarna/P271033,EA 081. An attempted assassination [vassal letter],001,Rib-Haddi[1]PN
-aemw/amarna/P271033,EA 081. An attempted assassination [vassal letter],002,
-aemw/amarna/P271033,EA 081. An attempted assassination [vassal letter],003,Gublu[Byblos]GN
-aemw/amarna/P271033,EA 081. An attempted assassination [vassal letter],004,
-aemw/amarna/P271033,EA 081. An attempted assassination [vassal letter],005,Šamaš[1]DN
-aemw/amarna/P271033,EA 081. An attempted assassination [vassal letter],006,
-aemw/amarna/P271033,EA 081. An attempted assassination [vassal letter],007,Abdi-Aširte[1]PN
-aemw/amarna/P271033,EA 081. An attempted assassination [vassal letter],008,
-aemw/amarna/P271033,EA 081. An attempted assassination [vassal letter],009,Gublu[Byblos]GN Baṭruna[1]GN
-aemw/amarna/P271033,EA 081. An attempted assassination [vassal letter],010,
-aemw/amarna/P271033,EA 081. An attempted assassination [vassal letter],011,Gublu[Byblos]GN
-aemw/amarna/P271033,EA 081. An attempted assassination [vassal letter],012,
-aemw/amarna/P271033,EA 081. An attempted assassination [vassal letter],013,Ammiya[1]GN
-aemw/amarna/P271033,EA 081. An attempted assassination [vassal letter],014,
-aemw/amarna/P271033,EA 081. An attempted assassination [vassal letter],015,
-aemw/amarna/P271033,EA 081. An attempted assassination [vassal letter],016,
-aemw/amarna/P271033,EA 081. An attempted assassination [vassal letter],017,
-aemw/amarna/P271033,EA 081. An attempted assassination [vassal letter],018,Abdi-Aširte[1]PN
-aemw/amarna/P271033,EA 081. An attempted assassination [vassal letter],019,
-aemw/amarna/P271033,EA 081. An attempted assassination [vassal letter],020,
-aemw/amarna/P271033,EA 081. An attempted assassination [vassal letter],021,
-aemw/amarna/P271033,EA 081. An attempted assassination [vassal letter],022,
-aemw/amarna/P271033,EA 081. An attempted assassination [vassal letter],023,
-aemw/amarna/P271033,EA 081. An attempted assassination [vassal letter],024,
-aemw/amarna/P271033,EA 081. An attempted assassination [vassal letter],025,
-aemw/amarna/P271033,EA 081. An attempted assassination [vassal letter],026,
-aemw/amarna/P271033,EA 081. An attempted assassination [vassal letter],027,
-aemw/amarna/P271033,EA 081. An attempted assassination [vassal letter],028,
-aemw/amarna/P271033,EA 081. An attempted assassination [vassal letter],029,
-aemw/amarna/P271033,EA 081. An attempted assassination [vassal letter],030,
-aemw/amarna/P271033,EA 081. An attempted assassination [vassal letter],031,
-aemw/amarna/P271033,EA 081. An attempted assassination [vassal letter],032,
-aemw/amarna/P271033,EA 081. An attempted assassination [vassal letter],033,
-aemw/amarna/P271033,EA 081. An attempted assassination [vassal letter],034,
-aemw/amarna/P271033,EA 081. An attempted assassination [vassal letter],035,
-aemw/amarna/P271033,EA 081. An attempted assassination [vassal letter],036,Gublu[Byblos]GN
-aemw/amarna/P271033,EA 081. An attempted assassination [vassal letter],037,
-aemw/amarna/P271033,EA 081. An attempted assassination [vassal letter],038,
-aemw/amarna/P271033,EA 081. An attempted assassination [vassal letter],039,
-aemw/amarna/P271033,EA 081. An attempted assassination [vassal letter],040,Yarimuta[1]GN
-aemw/amarna/P271033,EA 081. An attempted assassination [vassal letter],041,
-aemw/amarna/P271033,EA 081. An attempted assassination [vassal letter],042,
-aemw/amarna/P271033,EA 081. An attempted assassination [vassal letter],043,
-aemw/amarna/P271033,EA 081. An attempted assassination [vassal letter],044,
-aemw/amarna/P271033,EA 081. An attempted assassination [vassal letter],045,
-aemw/amarna/P271033,EA 081. An attempted assassination [vassal letter],046,
-aemw/amarna/P271033,EA 081. An attempted assassination [vassal letter],047,Abdi-Aširte[1]PN
-aemw/amarna/P271033,EA 081. An attempted assassination [vassal letter],048,Ṣumur[1]GN
-aemw/amarna/P271033,EA 081. An attempted assassination [vassal letter],049,
-aemw/amarna/P271033,EA 081. An attempted assassination [vassal letter],050,
-aemw/amarna/P271033,EA 081. An attempted assassination [vassal letter],051,
-aemw/amarna/P271033,EA 081. An attempted assassination [vassal letter],052,
-aemw/amarna/P271033,EA 081. An attempted assassination [vassal letter],053,
-aemw/amarna/P271033,EA 081. An attempted assassination [vassal letter],054,Baṭruna[1]GN
-aemw/amarna/P271033,EA 081. An attempted assassination [vassal letter],056,
-aemw/amarna/P271033,EA 081. An attempted assassination [vassal letter],057,
-aemw/amarna/P271033,EA 081. An attempted assassination [vassal letter],058,Abdi-Aširte[1]PN
+aemw/amarna/P271033,EA 081. An attempted assassination [vassal letter],001,akk-x-mbperi:Rib-Haddi[1]PN akk-x-mbperi:qabû[say]V akk-x-mbperi:ana[to]PRP akk-x-mbperi:bēlu[lord]N
+aemw/amarna/P271033,EA 081. An attempted assassination [vassal letter],002,akk-x-mbperi:šarru[king]N akk-x-mbperi:mātu[land]N akk-x-mbperi:šarru[king]N akk-x-mbperi:rabû[big]AJ akk-x-mbperi:šarru[king]N akk-x-mbperi:tamhāru[battle]N
+aemw/amarna/P271033,EA 081. An attempted assassination [vassal letter],003,akk-x-mbperi:bēltu[lady]N akk-x-mbperi:ša[of]DET akk-x-mbperi:Gublu[Byblos]GN akk-x-mbperi:nadānu[give]V akk-x-mbperi:dunnu[power]N
+aemw/amarna/P271033,EA 081. An attempted assassination [vassal letter],004,akk-x-mbperi:ana[to]PRP akk-x-mbperi:šarru[king]N akk-x-mbperi:bēlu[lord]N akk-x-mbperi:ana[to]PRP akk-x-mbperi:šēpu[foot]N akk-x-mbperi:bēlu[lord]N
+aemw/amarna/P271033,EA 081. An attempted assassination [vassal letter],005,akk-x-mbperi:Šamaš[1]DN akk-x-mbperi:maqātu[fall]V
+aemw/amarna/P271033,EA 081. An attempted assassination [vassal letter],006,akk-x-mbperi:lū[let-it-be]MOD akk-x-mbperi:edû[know]V akk-x-mbperi:šarru[king]N akk-x-mbperi:bēlu[lord]N akk-x-mbperi:inūma[when]SBJ
+aemw/amarna/P271033,EA 081. An attempted assassination [vassal letter],007,akk-x-mbperi:dannu[strong]AJ akk-x-mbperi:nukurtu[enmity]N akk-x-mbperi:ša[of]DET akk-x-mbperi:Abdi-Aširte[1]PN
+aemw/amarna/P271033,EA 081. An attempted assassination [vassal letter],008,akk-x-mbperi:u[and]CNJ akk-x-mbperi:leqû[take]V akk-x-mbperi:kalû[all]N akk-x-mbperi:ālu[city]N
+aemw/amarna/P271033,EA 081. An attempted assassination [vassal letter],009,akk-x-mbperi:ana[to]PRP akk-x-mbperi:šâšu[to-him]IP akk-x-mbperi:Gublu[Byblos]GN akk-x-mbperi:u[and]CNJ akk-x-mbperi:Baṭruna[1]GN
+aemw/amarna/P271033,EA 081. An attempted assassination [vassal letter],010,akk-x-mbperi:riāhu[remain]V akk-x-mbperi:ana[to]PRP akk-x-mbperi:yâšim[to-me]IP akk-x-mbperi:u[and]CNJ akk-x-mbperi:ālu[city]N akk-x-mbperi:buʾʾû[look-for]V
+aemw/amarna/P271033,EA 081. An attempted assassination [vassal letter],011,akk-x-mbperi:leqû[take]V akk-x-mbperi:u[and]CNJ akk-x-mbperi:qabû[say]V akk-x-mbperi:ana[to]PRP akk-x-mbperi:awīlu[man]N akk-x-mbperi:Gublu[Byblos]GN
+aemw/amarna/P271033,EA 081. An attempted assassination [vassal letter],012,akk-x-mbperi:dâku[kill]V akk-x-mbperi:bēlu[lord]N akk-x-mbperi:u[and]CNJ akk-x-mbperi:epēšu[do]V
+aemw/amarna/P271033,EA 081. An attempted assassination [vassal letter],013,akk-x-mbperi:ana[to]PRP akk-x-mbperi:awīlu[man]N akk-x-mbperi:hāpiru[(class-of)-vagrant]N akk-x-mbperi:kīma[like]PRP akk-x-mbperi:Ammiya[1]GN
+aemw/amarna/P271033,EA 081. An attempted assassination [vassal letter],014,akk-x-mbperi:u[and]CNJ akk-x-mbperi:epēšu[do]V akk-x-mbperi:mahrû[first]AJ akk-x-mbperi:ana[to]PRP akk-x-mbperi:awīlu[man]N akk-x-mbperi:hāpiru[(class-of)-vagrant]N
+aemw/amarna/P271033,EA 081. An attempted assassination [vassal letter],015,akk-x-mbperi:izuzzu[stand]V akk-x-mbperi:amīlu[man]N akk-x-mbperi:siparru[bronze]N akk-x-mbperi:patru[sword]N akk-x-mbperi:patru[sword]N akk-x-mbperi:eli[on]PRP
+aemw/amarna/P271033,EA 081. An attempted assassination [vassal letter],016,akk-x-mbperi:u[and]CNJ akk-x-mbperi:dīku[killed]AJ akk-x-mbperi:u[and]CNJ akk-x-mbperi:šerdannu[(type-of-person)]N
+aemw/amarna/P271033,EA 081. An attempted assassination [vassal letter],017,akk-x-mbperi:ša[that]REL akk-x-mbperi:edû[know]V akk-x-mbperi:paṭru[released]AJ akk-x-mbperi:ana[to]PRP akk-x-mbperi:mahru[front]N
+aemw/amarna/P271033,EA 081. An attempted assassination [vassal letter],018,akk-x-mbperi:Abdi-Aširte[1]PN akk-x-mbperi:ina[in]PRP akk-x-mbperi:pû[mouth]N akk-x-mbperi:epšu[made]AJ
+aemw/amarna/P271033,EA 081. An attempted assassination [vassal letter],019,akk-x-mbperi:ipšu[deed]N akk-x-mbperi:annû[this]DP akk-x-mbperi:ana[to]PRP akk-x-mbperi:yâšim[to-me]IP akk-x-mbperi:anumma[now]AV
+aemw/amarna/P271033,EA 081. An attempted assassination [vassal letter],020,akk-x-mbperi:kīam[so]AV akk-x-mbperi:wašbu[inhabited]AJ akk-x-mbperi:u[and]CNJ akk-x-mbperi:qālu[attentive]AJ akk-x-mbperi:ina[in]PRP
+aemw/amarna/P271033,EA 081. An attempted assassination [vassal letter],021,akk-x-mbperi:libbu[interior]N akk-x-mbperi:ālu[city]N akk-x-mbperi:lā[not]MOD akk-x-mbperi:leʾû[be(come)-able]V akk-x-mbperi:waṣû[go-out]V
+aemw/amarna/P271033,EA 081. An attempted assassination [vassal letter],022,akk-x-mbperi:ana[to]PRP akk-x-mbperi:ṣēru[back]N akk-x-mbperi:u[and]CNJ akk-x-mbperi:šapāru[send]V akk-x-mbperi:ana[to]PRP akk-x-mbperi:ēkallu[palace]N
+aemw/amarna/P271033,EA 081. An attempted assassination [vassal letter],023,akk-x-mbperi:u[and]CNJ akk-x-mbperi:lā[not]MOD akk-x-mbperi:târu[turn]V akk-x-mbperi:awātu[word]N
+aemw/amarna/P271033,EA 081. An attempted assassination [vassal letter],024,akk-x-mbperi:ana[to]PRP akk-x-mbperi:yâšim[to-me]IP akk-x-mbperi:mahāṣu[beat]V
+aemw/amarna/P271033,EA 081. An attempted assassination [vassal letter],025,akk-x-mbperi:kīnanna[so]AV akk-x-mbperi:balāṭu[life]N akk-x-mbperi:palhu[fearful]AJ
+aemw/amarna/P271033,EA 081. An attempted assassination [vassal letter],026,akk-x-mbperi:u[and]CNJ akk-x-mbperi:šapāru[send]V akk-x-mbperi:u[and]CNJ akk-x-mbperi:šanû[do-twice]V
+aemw/amarna/P271033,EA 081. An attempted assassination [vassal letter],027,akk-x-mbperi:ana[to]PRP akk-x-mbperi:ēkallu[palace]N akk-x-mbperi:ul[not]MOD akk-x-mbperi:qâlu[pay-attention]V
+aemw/amarna/P271033,EA 081. An attempted assassination [vassal letter],028,akk-x-mbperi:ana[to]PRP akk-x-mbperi:mīnu[what?]QP akk-x-mbperi:qālu[attentive]AJ akk-x-mbperi:aššu[because-(of)]PRP akk-x-mbperi:pušqu[narrowness]N
+aemw/amarna/P271033,EA 081. An attempted assassination [vassal letter],029,akk-x-mbperi:eli[on]PRP akk-x-mbperi:šumma[if]MOD akk-x-mbperi:warhu[moon]N akk-x-mbperi:annû[this]DP
+aemw/amarna/P271033,EA 081. An attempted assassination [vassal letter],030,akk-x-mbperi:yānu[(there)-is-not]V akk-x-mbperi:ṣābu[people]N akk-x-mbperi:piṭṭātu[archers]N akk-x-mbperi:u[and]CNJ akk-x-mbperi:leqû[take]V
+aemw/amarna/P271033,EA 081. An attempted assassination [vassal letter],031,akk-x-mbperi:ālu[city]N akk-x-mbperi:ul[not]MOD akk-x-mbperi:maqātu[fall]V akk-x-mbperi:eli[on]PRP
+aemw/amarna/P271033,EA 081. An attempted assassination [vassal letter],032,akk-x-mbperi:ālu[city]N akk-x-mbperi:u[and]CNJ akk-x-mbperi:leqû[take]V akk-x-mbperi:šapāru[send]V akk-x-mbperi:ana[to]PRP
+aemw/amarna/P271033,EA 081. An attempted assassination [vassal letter],033,akk-x-mbperi:ēkallu[palace]N akk-x-mbperi:u[and]CNJ akk-x-mbperi:mīnu[what?]QP akk-x-mbperi:qabû[say]V akk-x-mbperi:ana[to]PRP akk-x-mbperi:awīlu[man]N akk-x-mbperi:hupšu[(member-of)-lower-class]N
+aemw/amarna/P271033,EA 081. An attempted assassination [vassal letter],034,akk-x-mbperi:anumma[now]AV akk-x-mbperi:kīma[like]PRP akk-x-mbperi:iṣṣūru[bird]N akk-x-mbperi:ša[that]REL akk-x-mbperi:ina[in]PRP akk-x-mbperi:libbu[interior]N
+aemw/amarna/P271033,EA 081. An attempted assassination [vassal letter],035,akk-x-mbperi:huhāru[bird-snare]N qca:kilūbu[(bird)-cage]N akk-x-mbperi:šaknu[placed]AJ
+aemw/amarna/P271033,EA 081. An attempted assassination [vassal letter],036,akk-x-mbperi:kišūma[so]AV akk-x-mbperi:šunu[they]IP akk-x-mbperi:ina[in]PRP akk-x-mbperi:libbu[interior]N akk-x-mbperi:Gublu[Byblos]GN
+aemw/amarna/P271033,EA 081. An attempted assassination [vassal letter],037,akk-x-mbperi:eqlu[field]N akk-x-mbperi:aššatu[wife]N akk-x-mbperi:ša[that]REL akk-x-mbperi:lā[not]MOD akk-x-mbperi:mutu[husband]N akk-x-mbperi:mašlu[half]AJ
+aemw/amarna/P271033,EA 081. An attempted assassination [vassal letter],038,akk-x-mbperi:aššu[because-(of)]PRP akk-x-mbperi:balu[without]PRP akk-x-mbperi:erēšu[sow]V akk-x-mbperi:gamru[complete]AJ
+aemw/amarna/P271033,EA 081. An attempted assassination [vassal letter],039,akk-x-mbperi:māru[son]N akk-x-mbperi:mārtu[daughter]N akk-x-mbperi:iṣu[tree]N akk-x-mbperi:bītu[house]N
+aemw/amarna/P271033,EA 081. An attempted assassination [vassal letter],040,akk-x-mbperi:ina[in]PRP akk-x-mbperi:nadānu[give]V akk-x-mbperi:ina[in]PRP akk-x-mbperi:Yarimuta[1]GN
+aemw/amarna/P271033,EA 081. An attempted assassination [vassal letter],041,akk-x-mbperi:ina[in]PRP akk-x-mbperi:balāṭu[live]V akk-x-mbperi:napištu[throat]N akk-x-mbperi:anumma[now]AV
+aemw/amarna/P271033,EA 081. An attempted assassination [vassal letter],042,akk-x-mbperi:kīam[so]AV akk-x-mbperi:qabû[say]V akk-x-mbperi:ana[to]PRP akk-x-mbperi:šâšunu[(to/of)-them]IP akk-x-mbperi:ilu[god]N
+aemw/amarna/P271033,EA 081. An attempted assassination [vassal letter],043,akk-x-mbperi:balāṭu[live]V akk-x-mbperi:ṣābu[people]N akk-x-mbperi:piṭṭātu[archers]N akk-x-mbperi:inūma[when]SBJ akk-x-mbperi:edû[know]V
+aemw/amarna/P271033,EA 081. An attempted assassination [vassal letter],044,akk-x-mbperi:u[and]CNJ akk-x-mbperi:yānu[(there)-is-not]V akk-x-mbperi:u[and]CNJ akk-x-mbperi:annû[look!]J akk-x-mbperi:nadnu[given]AJ akk-x-mbperi:pānu[front]N
+aemw/amarna/P271033,EA 081. An attempted assassination [vassal letter],045,akk-x-mbperi:ana[to]PRP akk-x-mbperi:yâšinu[to-us]IP akk-x-mbperi:šumma[if]MOD akk-x-mbperi:warhu[moon]N akk-x-mbperi:lā[not]MOD akk-x-mbperi:waṣû[go-out]V
+aemw/amarna/P271033,EA 081. An attempted assassination [vassal letter],046,akk-x-mbperi:ṣābu[people]N akk-x-mbperi:piṭṭātu[archers]N akk-x-mbperi:u[and]CNJ akk-x-mbperi:elû[go-up]V
+aemw/amarna/P271033,EA 081. An attempted assassination [vassal letter],047,akk-x-mbperi:Abdi-Aširte[1]PN akk-x-mbperi:u[and]CNJ akk-x-mbperi:leqû[take]V akk-x-mbperi:ālu[city]N
+aemw/amarna/P271033,EA 081. An attempted assassination [vassal letter],048,akk-x-mbperi:pānānu[previously]AV akk-x-mbperi:Ṣumur[1]GN akk-x-mbperi:u[and]CNJ akk-x-mbperi:awīlu[man]N akk-x-mbperi:rābiṣu[bailiff]N
+aemw/amarna/P271033,EA 081. An attempted assassination [vassal letter],049,akk-x-mbperi:dannu[strong]AJ akk-x-mbperi:bašû[be(come)-at-hand]V akk-x-mbperi:u[and]CNJ akk-x-mbperi:awīlu[man]N
+aemw/amarna/P271033,EA 081. An attempted assassination [vassal letter],050,akk-x-mbperi:maṣṣartu[observation]N akk-x-mbperi:itti[with]PRP akk-x-mbperi:mīnu[what?]QP
+aemw/amarna/P271033,EA 081. An attempted assassination [vassal letter],051,akk-x-mbperi:epēšu[do]V akk-x-mbperi:anāku[I]IP akk-x-mbperi:ina[in]PRP akk-x-mbperi:ēdēnu[alone]AV
+aemw/amarna/P271033,EA 081. An attempted assassination [vassal letter],052,akk-x-mbperi:u[and]CNJ akk-x-mbperi:dagālu[see]V akk-x-mbperi:waṣû[go-out]V
+aemw/amarna/P271033,EA 081. An attempted assassination [vassal letter],053,akk-x-mbperi:ana[to]PRP akk-x-mbperi:yâšinu[to-us]IP akk-x-mbperi:u[and]CNJ akk-x-mbperi:leqû[take]V
+aemw/amarna/P271033,EA 081. An attempted assassination [vassal letter],054,akk-x-mbperi:Baṭruna[1]GN akk-x-mbperi:ana[to]PRP akk-x-mbperi:šâšu[to-him]IP
+aemw/amarna/P271033,EA 081. An attempted assassination [vassal letter],056,akk-x-mbperi:u[and]CNJ
+aemw/amarna/P271033,EA 081. An attempted assassination [vassal letter],057,akk-x-mbperi:u[and]CNJ akk-x-mbperi:kīnanna[so]AV
+aemw/amarna/P271033,EA 081. An attempted assassination [vassal letter],058,akk-x-mbperi:Abdi-Aširte[1]PN akk-x-mbperi:leqû[take]V

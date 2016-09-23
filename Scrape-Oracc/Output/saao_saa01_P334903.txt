@@ -1,0 +1,37 @@
+id_text,text_name,l_no,text
+saao/saa01/P334903,SAA 01 235. The Case of Ilu-pija-uṣur the Cohort Commander (ABL 1432),o 1,ana[to]PRP šarru[king]N bēlu[lord]N
+saao/saa01/P334903,SAA 01 235. The Case of Ilu-pija-uṣur the Cohort Commander (ABL 1432),o 2,ardu[slave]N Taklak-ana-Bel[1]PN
+saao/saa01/P334903,SAA 01 235. The Case of Ilu-pija-uṣur the Cohort Commander (ABL 1432),o 3,lū[may]MOD šulmu[completeness]N ana[to]PRP šarru[king]N bēlu[lord]N
+saao/saa01/P334903,SAA 01 235. The Case of Ilu-pija-uṣur the Cohort Commander (ABL 1432),o 4,ina[in]PRP muhhu[skull]N Ilu-piya-uṣur[1]PN rēʾû[shepherd]N
+saao/saa01/P334903,SAA 01 235. The Case of Ilu-pija-uṣur the Cohort Commander (ABL 1432),o 5,ša[that]REL šarru[king]N bēlu[lord]N šapāru[send]V
+saao/saa01/P334903,SAA 01 235. The Case of Ilu-pija-uṣur the Cohort Commander (ABL 1432),o 6,mā[saying]PRP ištu[from]PRP muhhu[skull]N rabû[big-one]N kiṣrūtu[of-the-cohort]N
+saao/saa01/P334903,SAA 01 235. The Case of Ilu-pija-uṣur the Cohort Commander (ABL 1432),o 7,petû[open]V mā[saying]PRP atā[why?]QP qabû[say]V
+saao/saa01/P334903,SAA 01 235. The Case of Ilu-pija-uṣur the Cohort Commander (ABL 1432),o 8,mā[saying]PRP biltu[load]N ṣarpu[silver]N nasāhu[tear-out]V laššu[(there)-is-not]V
+saao/saa01/P334903,SAA 01 235. The Case of Ilu-pija-uṣur the Cohort Commander (ABL 1432),o 9,lā[not]MOD petû[open]V rabû[big-one]N kiṣru[knot]N šū[he]IP
+saao/saa01/P334903,SAA 01 235. The Case of Ilu-pija-uṣur the Cohort Commander (ABL 1432),o 10,Dugul-pan-ili[1]PN ina[in]PRP pānu[front]N šarru[king]N bēlu[lord]N šarru[king]N bēlu[lord]N
+saao/saa01/P334903,SAA 01 235. The Case of Ilu-pija-uṣur the Cohort Commander (ABL 1432),o 11,šâlu[ask]V šumma[if]MOD lā[not]MOD rabû[big-one]N kiṣru[knot]N šūtu[he]IP
+saao/saa01/P334903,SAA 01 235. The Case of Ilu-pija-uṣur the Cohort Commander (ABL 1432),o 12,kī[like]PRP Dugul-pan-ili[1]PN ana[to]PRP gizzu[shearing]N alāku[go]V
+saao/saa01/P334903,SAA 01 235. The Case of Ilu-pija-uṣur the Cohort Commander (ABL 1432),o 13,šūtu[he]IP iškāru[work-assignment]N paʾāṣu[break-up]V
+saao/saa01/P334903,SAA 01 235. The Case of Ilu-pija-uṣur the Cohort Commander (ABL 1432),o 14,ana[to]PRP gizzu[shearing]N lā[not]MOD erēbu[enter]V halāqu[be(come)-lost]V ina[in]PRP libbu[interior]N
+saao/saa01/P334903,SAA 01 235. The Case of Ilu-pija-uṣur the Cohort Commander (ABL 1432),o 15,ina[in]PRP libbu[interior]N ēkurru[temple]N izuzzu[stand]V šapāru[send]V
+saao/saa01/P334903,SAA 01 235. The Case of Ilu-pija-uṣur the Cohort Commander (ABL 1432),o 16,arādu[go-down]V nuk[saying]PRP iškāru[work-assignment]N
+saao/saa01/P334903,SAA 01 235. The Case of Ilu-pija-uṣur the Cohort Commander (ABL 1432),o 17,râmu[present-to]V nuk[saying]PRP ṣābu[people]N našû[lift]V alāku[go]V
+saao/saa01/P334903,SAA 01 235. The Case of Ilu-pija-uṣur the Cohort Commander (ABL 1432),o 18,dullu[trouble]N ina[in]PRP Dur-Šarruken[1]GN epēšu[do]V
+saao/saa01/P334903,SAA 01 235. The Case of Ilu-pija-uṣur the Cohort Commander (ABL 1432),o 19,mišlu[half]NU ṣābu[people]N našû[lifted]AJ mišlu[half]NU lā[not]MOD našû[lifted]AJ
+saao/saa01/P334903,SAA 01 235. The Case of Ilu-pija-uṣur the Cohort Commander (ABL 1432),o 20,pilku[demarcated-zone]N namarkû[late]AJ qabû[say]V
+saao/saa01/P334903,SAA 01 235. The Case of Ilu-pija-uṣur the Cohort Commander (ABL 1432),o 21,nuk[saying]PRP atā[why?]QP pilku[demarcated-zone]N namarkû[late]AJ
+saao/saa01/P334903,SAA 01 235. The Case of Ilu-pija-uṣur the Cohort Commander (ABL 1432),o 22,u[and]CNJ tibnu[straw]N appāru[reed-bed]N ša[of]DET dullu[trouble]N
+saao/saa01/P334903,SAA 01 235. The Case of Ilu-pija-uṣur the Cohort Commander (ABL 1432),o 23,lā[not]MOD tadānu[give]V
+saao/saa01/P334903,SAA 01 235. The Case of Ilu-pija-uṣur the Cohort Commander (ABL 1432),o 24,mā[saying]PRP mannu[who?]QP
+saao/saa01/P334903,SAA 01 235. The Case of Ilu-pija-uṣur the Cohort Commander (ABL 1432),r 1',ūma[today]AV annûri[now]AV ana[to]PRP šarru[king]N bēlu[lord]N
+saao/saa01/P334903,SAA 01 235. The Case of Ilu-pija-uṣur the Cohort Commander (ABL 1432),r 2',šapāru[send]V šumma[if]MOD ana[to]PRP hurri[ever-(after)]AV memēni[somebody]XP
+saao/saa01/P334903,SAA 01 235. The Case of Ilu-pija-uṣur the Cohort Commander (ABL 1432),r 3',dullu[trouble]N ramû[slacken]V šarru[king]N bēlu[lord]N raʾābu[shake]V
+saao/saa01/P334903,SAA 01 235. The Case of Ilu-pija-uṣur the Cohort Commander (ABL 1432),r 4',dullu[trouble]N epēšu[do]V kīma[like]PRP dullu[trouble]N epēšu[do]V
+saao/saa01/P334903,SAA 01 235. The Case of Ilu-pija-uṣur the Cohort Commander (ABL 1432),r 5',išti[with]PRP kânu[be(come)-permanent]V
+saao/saa01/P334903,SAA 01 235. The Case of Ilu-pija-uṣur the Cohort Commander (ABL 1432),r 6',ištu[from]PRP pānu[front]N našû[lift]V
+saao/saa01/P334903,SAA 01 235. The Case of Ilu-pija-uṣur the Cohort Commander (ABL 1432),r.e. 7,rabû[big-one]N kiṣru[knot]N ša[of]DET raksu[recruit]N mugerru[chariot]N
+saao/saa01/P334903,SAA 01 235. The Case of Ilu-pija-uṣur the Cohort Commander (ABL 1432),r.e. 8,dullu[trouble]N ramû[slacken]V
+saao/saa01/P334903,SAA 01 235. The Case of Ilu-pija-uṣur the Cohort Commander (ABL 1432),r.e. 9,hardu[watchful]AJ ina[in]PRP Ninua[Nineveh]GN
+saao/saa01/P334903,SAA 01 235. The Case of Ilu-pija-uṣur the Cohort Commander (ABL 1432),r.e. 10,kamsu[squatting]AJ
+saao/saa01/P334903,SAA 01 235. The Case of Ilu-pija-uṣur the Cohort Commander (ABL 1432),e. 1,nuk[saying]PRP karāru[put-(down)]V
+saao/saa01/P334903,SAA 01 235. The Case of Ilu-pija-uṣur the Cohort Commander (ABL 1432),e. 2,kīma[like]PRP ina[in]PRP pānu[front]N šarru[king]N bēlu[lord]N alāku[go]V

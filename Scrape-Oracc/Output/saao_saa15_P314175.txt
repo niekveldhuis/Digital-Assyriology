@@ -1,0 +1,14 @@
+id_text,text_name,l_no,text
+saao/saa15/P314175,SAA 15 264. Fragment Mentioning Nippur and Borsippa (CT 53 765),o 1',ina[in]PRP pānu[front]N
+saao/saa15/P314175,SAA 15 264. Fragment Mentioning Nippur and Borsippa (CT 53 765),o 2',šušānu[horse-trainer]N
+saao/saa15/P314175,SAA 15 264. Fragment Mentioning Nippur and Borsippa (CT 53 765),o 3',ana[to]PRP
+saao/saa15/P314175,SAA 15 264. Fragment Mentioning Nippur and Borsippa (CT 53 765),o 4',Kissikaya[1]EN
+saao/saa15/P314175,SAA 15 264. Fragment Mentioning Nippur and Borsippa (CT 53 765),o 5',u[and]CNJ
+saao/saa15/P314175,SAA 15 264. Fragment Mentioning Nippur and Borsippa (CT 53 765),o 6',kīma[like]PRP
+saao/saa15/P314175,SAA 15 264. Fragment Mentioning Nippur and Borsippa (CT 53 765),o 7',ana[to]PRP
+saao/saa15/P314175,SAA 15 264. Fragment Mentioning Nippur and Borsippa (CT 53 765),r 1,šarru[king]N bēlu[lord]N
+saao/saa15/P314175,SAA 15 264. Fragment Mentioning Nippur and Borsippa (CT 53 765),r 2,ina[in]PRP Nippur[1]GN
+saao/saa15/P314175,SAA 15 264. Fragment Mentioning Nippur and Borsippa (CT 53 765),r 3,ana[to]PRP Barsip[Borsippa]GN
+saao/saa15/P314175,SAA 15 264. Fragment Mentioning Nippur and Borsippa (CT 53 765),r 4,šarru[king]N
+saao/saa15/P314175,SAA 15 264. Fragment Mentioning Nippur and Borsippa (CT 53 765),r 5,Nippur[1]GN
+saao/saa15/P314175,SAA 15 264. Fragment Mentioning Nippur and Borsippa (CT 53 765),r 6,gabbu[totality]N

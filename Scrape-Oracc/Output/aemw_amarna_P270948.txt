@@ -1,17 +1,17 @@
 id_text,text_name,l_no,text
-aemw/amarna/P270948,EA 269. Archers and myrrh [vassal letter],001,
-aemw/amarna/P270948,EA 269. Archers and myrrh [vassal letter],002,Šamaš[1]DN
-aemw/amarna/P270948,EA 269. Archers and myrrh [vassal letter],003,
-aemw/amarna/P270948,EA 269. Archers and myrrh [vassal letter],004,Milk-ilu[1]PN
-aemw/amarna/P270948,EA 269. Archers and myrrh [vassal letter],005,
-aemw/amarna/P270948,EA 269. Archers and myrrh [vassal letter],006,
-aemw/amarna/P270948,EA 269. Archers and myrrh [vassal letter],007,Šamaš[1]DN
-aemw/amarna/P270948,EA 269. Archers and myrrh [vassal letter],008,
-aemw/amarna/P270948,EA 269. Archers and myrrh [vassal letter],009,
-aemw/amarna/P270948,EA 269. Archers and myrrh [vassal letter],010,
-aemw/amarna/P270948,EA 269. Archers and myrrh [vassal letter],011,
-aemw/amarna/P270948,EA 269. Archers and myrrh [vassal letter],012,
-aemw/amarna/P270948,EA 269. Archers and myrrh [vassal letter],013,
-aemw/amarna/P270948,EA 269. Archers and myrrh [vassal letter],014,
-aemw/amarna/P270948,EA 269. Archers and myrrh [vassal letter],015,
-aemw/amarna/P270948,EA 269. Archers and myrrh [vassal letter],016,
+aemw/amarna/P270948,EA 269. Archers and myrrh [vassal letter],001,akk-x-mbperi:ana[to]PRP akk-x-mbperi:šarru[king]N akk-x-mbperi:bēlu[lord]N
+aemw/amarna/P270948,EA 269. Archers and myrrh [vassal letter],002,akk-x-mbperi:ilu[god]N akk-x-mbperi:Šamaš[1]DN
+aemw/amarna/P270948,EA 269. Archers and myrrh [vassal letter],003,akk-x-mbperi:qabû[say]V
+aemw/amarna/P270948,EA 269. Archers and myrrh [vassal letter],004,akk-x-mbperi:umma[saying]PRP akk-x-mbperi:Milk-ilu[1]PN akk-x-mbperi:wardu[slave]N
+aemw/amarna/P270948,EA 269. Archers and myrrh [vassal letter],005,akk-x-mbperi:eperu[earth]N akk-x-mbperi:ša[of]DET akk-x-mbperi:šēpu[foot]N
+aemw/amarna/P270948,EA 269. Archers and myrrh [vassal letter],006,akk-x-mbperi:ana[to]PRP akk-x-mbperi:šēpu[foot]N akk-x-mbperi:šarru[king]N akk-x-mbperi:bēlu[lord]N
+aemw/amarna/P270948,EA 269. Archers and myrrh [vassal letter],007,akk-x-mbperi:ilu[god]N akk-x-mbperi:Šamaš[1]DN
+aemw/amarna/P270948,EA 269. Archers and myrrh [vassal letter],008,akk-x-mbperi:maqātu[fall]V
+aemw/amarna/P270948,EA 269. Archers and myrrh [vassal letter],009,akk-x-mbperi:šemû[hear]V akk-x-mbperi:šapru[sent]AJ
+aemw/amarna/P270948,EA 269. Archers and myrrh [vassal letter],010,akk-x-mbperi:šarru[king]N akk-x-mbperi:bēlu[lord]N akk-x-mbperi:ana[to]PRP akk-x-mbperi:yâšim[to-me]IP
+aemw/amarna/P270948,EA 269. Archers and myrrh [vassal letter],011,akk-x-mbperi:u[and]CNJ akk-x-mbperi:wašāru[sink-down]V
+aemw/amarna/P270948,EA 269. Archers and myrrh [vassal letter],012,akk-x-mbperi:šarru[king]N akk-x-mbperi:bēlu[lord]N akk-x-mbperi:ṣābu[people]N akk-x-mbperi:piṭṭātu[archers]N
+aemw/amarna/P270948,EA 269. Archers and myrrh [vassal letter],013,akk-x-mbperi:ana[to]PRP akk-x-mbperi:wardu[slave]N akk-x-mbperi:u[and]CNJ
+aemw/amarna/P270948,EA 269. Archers and myrrh [vassal letter],014,akk-x-mbperi:wašāru[sink-down]V
+aemw/amarna/P270948,EA 269. Archers and myrrh [vassal letter],015,akk-x-mbperi:šarru[king]N akk-x-mbperi:bēlu[lord]N
+aemw/amarna/P270948,EA 269. Archers and myrrh [vassal letter],016,akk-x-mbperi:murru[bitterness]N akk-x-mbperi:murru[bitterness]N

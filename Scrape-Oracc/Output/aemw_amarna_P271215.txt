@@ -1,28 +1,28 @@
 id_text,text_name,l_no,text
-aemw/amarna/P271215,EA 051. Loyalty tempted and preserved [vassal letter],o 01,Šamaš[1]DN Miṣru[Egypt]GN
-aemw/amarna/P271215,EA 051. Loyalty tempted and preserved [vassal letter],o 02,Addu-nirari[1]PN
-aemw/amarna/P271215,EA 051. Loyalty tempted and preserved [vassal letter],o 03,
-aemw/amarna/P271215,EA 051. Loyalty tempted and preserved [vassal letter],o 04,Manahpiya[1]PN Miṣru[Egypt]GN
-aemw/amarna/P271215,EA 051. Loyalty tempted and preserved [vassal letter],o 05,Taku[1]PN Nuhašše[1]GN
-aemw/amarna/P271215,EA 051. Loyalty tempted and preserved [vassal letter],o 06,
-aemw/amarna/P271215,EA 051. Loyalty tempted and preserved [vassal letter],o 07,Miṣru[Egypt]GN
-aemw/amarna/P271215,EA 051. Loyalty tempted and preserved [vassal letter],o 08,
-aemw/amarna/P271215,EA 051. Loyalty tempted and preserved [vassal letter],o 09,
-aemw/amarna/P271215,EA 051. Loyalty tempted and preserved [vassal letter],o 10,
-aemw/amarna/P271215,EA 051. Loyalty tempted and preserved [vassal letter],o 11,
-aemw/amarna/P271215,EA 051. Loyalty tempted and preserved [vassal letter],r 01,
-aemw/amarna/P271215,EA 051. Loyalty tempted and preserved [vassal letter],r 02,Taku[1]PN
-aemw/amarna/P271215,EA 051. Loyalty tempted and preserved [vassal letter],r 03,
-aemw/amarna/P271215,EA 051. Loyalty tempted and preserved [vassal letter],r 04,Hatti[1]GN
-aemw/amarna/P271215,EA 051. Loyalty tempted and preserved [vassal letter],r 05,
-aemw/amarna/P271215,EA 051. Loyalty tempted and preserved [vassal letter],r 06,Miṣru[Egypt]GN
-aemw/amarna/P271215,EA 051. Loyalty tempted and preserved [vassal letter],r 07,
-aemw/amarna/P271215,EA 051. Loyalty tempted and preserved [vassal letter],r 08,
-aemw/amarna/P271215,EA 051. Loyalty tempted and preserved [vassal letter],r 09,
-aemw/amarna/P271215,EA 051. Loyalty tempted and preserved [vassal letter],r 10,
-aemw/amarna/P271215,EA 051. Loyalty tempted and preserved [vassal letter],r 11,
-aemw/amarna/P271215,EA 051. Loyalty tempted and preserved [vassal letter],r 12,
-aemw/amarna/P271215,EA 051. Loyalty tempted and preserved [vassal letter],r 13,
-aemw/amarna/P271215,EA 051. Loyalty tempted and preserved [vassal letter],r 14,
-aemw/amarna/P271215,EA 051. Loyalty tempted and preserved [vassal letter],r 15,
-aemw/amarna/P271215,EA 051. Loyalty tempted and preserved [vassal letter],r 16,
+aemw/amarna/P271215,EA 051. Loyalty tempted and preserved [vassal letter],o 01,akk-x-mbperi:ana[to]PRP akk-x-mbperi:Šamaš[1]DN akk-x-mbperi:šarru[king]N akk-x-mbperi:bēlu[lord]N akk-x-mbperi:šarru[king]N akk-x-mbperi:Miṣru[Egypt]GN
+aemw/amarna/P271215,EA 051. Loyalty tempted and preserved [vassal letter],o 02,akk-x-mbperi:umma[saying]PRP akk-x-mbperi:Addu-nirari[1]PN akk-x-mbperi:wardu[slave]N
+aemw/amarna/P271215,EA 051. Loyalty tempted and preserved [vassal letter],o 03,akk-x-mbperi:ana[to]PRP akk-x-mbperi:šēpu[foot]N akk-x-mbperi:bēlu[lord]N akk-x-mbperi:maqātu[fall]V
+aemw/amarna/P271215,EA 051. Loyalty tempted and preserved [vassal letter],o 04,akk-x-mbperi:amāru[see]V akk-x-mbperi:inūma[when]SBJ akk-x-mbperi:Manahpiya[1]PN akk-x-mbperi:šarru[king]N akk-x-mbperi:Miṣru[Egypt]GN akk-x-mbperi:abu[father]N akk-x-mbperi:abu[father]N
+aemw/amarna/P271215,EA 051. Loyalty tempted and preserved [vassal letter],o 05,akk-x-mbperi:Taku[1]PN akk-x-mbperi:abu[father]N akk-x-mbperi:abu[father]N akk-x-mbperi:ina[in]PRP akk-x-mbperi:Nuhašše[1]GN
+aemw/amarna/P271215,EA 051. Loyalty tempted and preserved [vassal letter],o 06,akk-x-mbperi:ana[to]PRP akk-x-mbperi:šarrūtu[kingship]N akk-x-mbperi:epēšu[do]V akk-x-mbperi:u[and]CNJ akk-x-mbperi:šamnu[oil]N akk-x-mbperi:ana[to]PRP akk-x-mbperi:rēšu[head]N
+aemw/amarna/P271215,EA 051. Loyalty tempted and preserved [vassal letter],o 07,akk-x-mbperi:šakānu[put]V akk-x-mbperi:u[and]CNJ akk-x-mbperi:kīam[so]AV akk-x-mbperi:qabû[say]V akk-x-mbperi:ša[that]REL akk-x-mbperi:šarru[king]N akk-x-mbperi:Miṣru[Egypt]GN
+aemw/amarna/P271215,EA 051. Loyalty tempted and preserved [vassal letter],o 08,akk-x-mbperi:ana[to]PRP akk-x-mbperi:šarrūtu[kingship]N akk-x-mbperi:ša[that]REL akk-x-mbperi:epēšu[do]V akk-x-mbperi:u[and]CNJ akk-x-mbperi:šamnu[oil]N akk-x-mbperi:ana[to]PRP akk-x-mbperi:rēšu[head]N
+aemw/amarna/P271215,EA 051. Loyalty tempted and preserved [vassal letter],o 09,akk-x-mbperi:ša[of]DET akk-x-mbperi:šakānu[put]V akk-x-mbperi:mamman[someone]XP akk-x-mbperi:lā[not]MOD
+aemw/amarna/P271215,EA 051. Loyalty tempted and preserved [vassal letter],o 10,akk-x-mbperi:nadānu[give]V akk-x-mbperi:qadu[together-with]PRP
+aemw/amarna/P271215,EA 051. Loyalty tempted and preserved [vassal letter],o 11,akk-x-mbperi:anumma[now]AV
+aemw/amarna/P271215,EA 051. Loyalty tempted and preserved [vassal letter],r 01,akk-x-mbperi:u[and]CNJ
+aemw/amarna/P271215,EA 051. Loyalty tempted and preserved [vassal letter],r 02,akk-x-mbperi:Taku[1]PN akk-x-mbperi:abu[father]N akk-x-mbperi:abu[father]N
+aemw/amarna/P271215,EA 051. Loyalty tempted and preserved [vassal letter],r 03,akk-x-mbperi:u[and]CNJ akk-x-mbperi:inanna[now]AV akk-x-mbperi:bēlu[lord]N akk-x-mbperi:ṭuppu[(clay)-tablet]N akk-x-mbperi:u[and]CNJ akk-x-mbperi:riksu[binding]N
+aemw/amarna/P271215,EA 051. Loyalty tempted and preserved [vassal letter],r 04,akk-x-mbperi:u[and]CNJ akk-x-mbperi:šarru[king]N akk-x-mbperi:Hatti[1]GN akk-x-mbperi:ana[to]PRP akk-x-mbperi:muhhu[skull]N
+aemw/amarna/P271215,EA 051. Loyalty tempted and preserved [vassal letter],r 05,akk-x-mbperi:bēlu[lord]N akk-x-mbperi:ṭuppu[(clay)-tablet]N akk-x-mbperi:u[and]CNJ akk-x-mbperi:riksu[binding]N
+aemw/amarna/P271215,EA 051. Loyalty tempted and preserved [vassal letter],r 06,akk-x-mbperi:u[and]CNJ akk-x-mbperi:ana[to]PRP akk-x-mbperi:ša[of]DET akk-x-mbperi:šarru[king]N akk-x-mbperi:Miṣru[Egypt]GN akk-x-mbperi:wardu[slave]N akk-x-mbperi:kittu[steadiness]N akk-x-mbperi:anāku[I]IP
+aemw/amarna/P271215,EA 051. Loyalty tempted and preserved [vassal letter],r 07,akk-x-mbperi:u[and]CNJ akk-x-mbperi:inanna[now]AV akk-x-mbperi:bēlu[lord]N akk-x-mbperi:ana[to]PRP akk-x-mbperi:muhhu[skull]N akk-x-mbperi:waṣû[go-out]V
+aemw/amarna/P271215,EA 051. Loyalty tempted and preserved [vassal letter],r 08,akk-x-mbperi:u[and]CNJ akk-x-mbperi:ana[to]PRP akk-x-mbperi:qātu[hand]N akk-x-mbperi:lū[indeed]MOD akk-x-mbperi:ṣabātu[seize]V akk-x-mbperi:mātu[land]N
+aemw/amarna/P271215,EA 051. Loyalty tempted and preserved [vassal letter],r 09,akk-x-mbperi:u[and]CNJ akk-x-mbperi:lū[indeed]MOD akk-x-mbperi:târu[turn]V akk-x-mbperi:ana[to]PRP akk-x-mbperi:bēlu[lord]N
+aemw/amarna/P271215,EA 051. Loyalty tempted and preserved [vassal letter],r 10,akk-x-mbperi:u[and]CNJ akk-x-mbperi:bēlu[lord]N akk-x-mbperi:ina[in]PRP akk-x-mbperi:šattu[year]N akk-x-mbperi:izuzzu[stand]V
+aemw/amarna/P271215,EA 051. Loyalty tempted and preserved [vassal letter],r 11,akk-x-mbperi:lū[let-it-be]MOD akk-x-mbperi:lā[not]MOD akk-x-mbperi:mekû[neglect]V akk-x-mbperi:kīmê[like]PRP akk-x-mbperi:ana[to]PRP akk-x-mbperi:wardūtu[slavery]N
+aemw/amarna/P271215,EA 051. Loyalty tempted and preserved [vassal letter],r 12,akk-x-mbperi:ana[to]PRP akk-x-mbperi:ša[of]DET akk-x-mbperi:bēlu[lord]N akk-x-mbperi:lū[indeed]MOD akk-x-mbperi:kittu[steadiness]N akk-x-mbperi:amāru[see]V
+aemw/amarna/P271215,EA 051. Loyalty tempted and preserved [vassal letter],r 13,akk-x-mbperi:u[and]CNJ akk-x-mbperi:šumma[if]MOD akk-x-mbperi:bēlu[lord]N akk-x-mbperi:ana[to]PRP akk-x-mbperi:waṣû[go-out]V akk-x-mbperi:lā[not]MOD akk-x-mbperi:magāru[consent]V
+aemw/amarna/P271215,EA 051. Loyalty tempted and preserved [vassal letter],r 14,akk-x-mbperi:u[and]CNJ akk-x-mbperi:bēlu[lord]N akk-x-mbperi:awīlu[man]N akk-x-mbperi:milku[advice]N
+aemw/amarna/P271215,EA 051. Loyalty tempted and preserved [vassal letter],r 15,akk-x-mbperi:qadu[together-with]PRP akk-x-mbperi:ṣābu[people]N akk-x-mbperi:u[and]CNJ akk-x-mbperi:qadu[together-with]PRP akk-x-mbperi:narkabtu[chariot]N akk-x-mbperi:šapāru[send]V
+aemw/amarna/P271215,EA 051. Loyalty tempted and preserved [vassal letter],r 16,akk-x-mbperi:ša[of]DET akk-x-mbperi:bēlu[lord]N

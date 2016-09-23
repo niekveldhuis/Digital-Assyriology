@@ -1,16 +1,16 @@
 id_text,text_name,l_no,text
-aemw/amarna/P271168,EA 309. Servants and shekels [vassal letter],001,
-aemw/amarna/P271168,EA 309. Servants and shekels [vassal letter],002,Šamaš[1]DN
-aemw/amarna/P271168,EA 309. Servants and shekels [vassal letter],003,Šamaš[1]DN
-aemw/amarna/P271168,EA 309. Servants and shekels [vassal letter],004,
-aemw/amarna/P271168,EA 309. Servants and shekels [vassal letter],005,
-aemw/amarna/P271168,EA 309. Servants and shekels [vassal letter],018,
-aemw/amarna/P271168,EA 309. Servants and shekels [vassal letter],019,
-aemw/amarna/P271168,EA 309. Servants and shekels [vassal letter],020,
-aemw/amarna/P271168,EA 309. Servants and shekels [vassal letter],021,
-aemw/amarna/P271168,EA 309. Servants and shekels [vassal letter],022,
-aemw/amarna/P271168,EA 309. Servants and shekels [vassal letter],023,
-aemw/amarna/P271168,EA 309. Servants and shekels [vassal letter],024,
-aemw/amarna/P271168,EA 309. Servants and shekels [vassal letter],025,
-aemw/amarna/P271168,EA 309. Servants and shekels [vassal letter],026,
-aemw/amarna/P271168,EA 309. Servants and shekels [vassal letter],027,Šamaš[1]DN
+aemw/amarna/P271168,EA 309. Servants and shekels [vassal letter],001,akk-x-mbperi:ana[to]PRP akk-x-mbperi:šarru[king]N akk-x-mbperi:bēlu[lord]N
+aemw/amarna/P271168,EA 309. Servants and shekels [vassal letter],002,akk-x-mbperi:ilu[god]N akk-x-mbperi:Šamaš[1]DN
+aemw/amarna/P271168,EA 309. Servants and shekels [vassal letter],003,akk-x-mbperi:Šamaš[1]DN akk-x-mbperi:ša[that]REL akk-x-mbperi:ištu[from]PRP akk-x-mbperi:šamû[sky]N akk-x-mbperi:šamû[sky]N
+aemw/amarna/P271168,EA 309. Servants and shekels [vassal letter],004,akk-x-mbperi:umma[saying]PRP
+aemw/amarna/P271168,EA 309. Servants and shekels [vassal letter],005,akk-x-mbperi:ša[of]DET
+aemw/amarna/P271168,EA 309. Servants and shekels [vassal letter],018,akk-x-mbperi:bēlu[lord]N
+aemw/amarna/P271168,EA 309. Servants and shekels [vassal letter],019,akk-x-mbperi:ša[that]REL
+aemw/amarna/P271168,EA 309. Servants and shekels [vassal letter],020,akk-x-mbperi:ana[to]PRP akk-x-mbperi:wardu[slave]N akk-x-mbperi:ṣuhāru[boy]N
+aemw/amarna/P271168,EA 309. Servants and shekels [vassal letter],021,akk-x-mbperi:u[and]CNJ akk-x-mbperi:meʾatu[(one)-hundred]N akk-x-mbperi:kaspu[silver]N
+aemw/amarna/P271168,EA 309. Servants and shekels [vassal letter],022,akk-x-mbperi:ana[to]PRP akk-x-mbperi:šarru[king]N akk-x-mbperi:bēlu[lord]N
+aemw/amarna/P271168,EA 309. Servants and shekels [vassal letter],023,akk-x-mbperi:wardu[slave]N akk-x-mbperi:u[and]CNJ
+aemw/amarna/P271168,EA 309. Servants and shekels [vassal letter],024,akk-x-mbperi:amtu[maid]N
+aemw/amarna/P271168,EA 309. Servants and shekels [vassal letter],025,akk-x-mbperi:u[and]CNJ akk-x-mbperi:aššu[because-(of)]PRP
+aemw/amarna/P271168,EA 309. Servants and shekels [vassal letter],026,akk-x-mbperi:lamādu[learn]V akk-x-mbperi:šarru[king]N
+aemw/amarna/P271168,EA 309. Servants and shekels [vassal letter],027,akk-x-mbperi:bēlu[lord]N akk-x-mbperi:Šamaš[1]DN akk-x-mbperi:ša[that]REL

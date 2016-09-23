@@ -1,0 +1,17 @@
+id_text,text_name,l_no,text
+saao/saa10/P313572,SAA 10 317. (no title) (CT 53 157) [from physicians],o 1,ina[in]PRP libbu[interior]N
+saao/saa10/P313572,SAA 10 317. (no title) (CT 53 157) [from physicians],o 2,ina[in]PRP ina[in]PRP
+saao/saa10/P313572,SAA 10 317. (no title) (CT 53 157) [from physicians],o 3,balāṭu[live]V šulmu[completeness]N libbu[interior]N ša[of]DET šarru[king]N bēlu[lord]N
+saao/saa10/P313572,SAA 10 317. (no title) (CT 53 157) [from physicians],o 4,lū[may]MOD ṭābu[good]AJ ana[to]PRP šarru[king]N bēlu[lord]N
+saao/saa10/P313572,SAA 10 317. (no title) (CT 53 157) [from physicians],o 5,ardu[slave]N Urdu-Nanaya[1]PN lū[may]MOD šulmu[completeness]N
+saao/saa10/P313572,SAA 10 317. (no title) (CT 53 157) [from physicians],o 6,ana[to]PRP šarru[king]N bēlu[lord]N Inurta[1]DN u[and]CNJ Gula[1]DN
+saao/saa10/P313572,SAA 10 317. (no title) (CT 53 157) [from physicians],o 7,ṭūbu[goodness]N libbu[interior]N ṭūbu[goodness]N šīru[flesh]N
+saao/saa10/P313572,SAA 10 317. (no title) (CT 53 157) [from physicians],o 8,ana[to]PRP šarru[king]N bēlu[lord]N tadānu[give]V
+saao/saa10/P313572,SAA 10 317. (no title) (CT 53 157) [from physicians],o 9,ana[to]PRP šarru[king]N
+saao/saa10/P313572,SAA 10 317. (no title) (CT 53 157) [from physicians],r 2',Inurta[1]DN
+saao/saa10/P313572,SAA 10 317. (no title) (CT 53 157) [from physicians],r 3',šarru[king]N bēlu[lord]N šarru[king]N
+saao/saa10/P313572,SAA 10 317. (no title) (CT 53 157) [from physicians],r 5',hīṭu[error]N laššu[(there)-is-not]V
+saao/saa10/P313572,SAA 10 317. (no title) (CT 53 157) [from physicians],r 6',mīnu[what?]QP ša[that]REL hīṭu[error]N
+saao/saa10/P313572,SAA 10 317. (no title) (CT 53 157) [from physicians],r 7',ana[to]PRP
+saao/saa10/P313572,SAA 10 317. (no title) (CT 53 157) [from physicians],e. 1,ša[that]REL šarru[king]N
+saao/saa10/P313572,SAA 10 317. (no title) (CT 53 157) [from physicians],e. 2,mā[saying]PRP

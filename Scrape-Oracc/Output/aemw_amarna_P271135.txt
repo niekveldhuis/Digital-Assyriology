@@ -1,28 +1,28 @@
 id_text,text_name,l_no,text
-aemw/amarna/P271135,EA 046. Ongoing loyalty [vassal letter],001,
-aemw/amarna/P271135,EA 046. Ongoing loyalty [vassal letter],002,Šamaš[1]DN
-aemw/amarna/P271135,EA 046. Ongoing loyalty [vassal letter],003,
-aemw/amarna/P271135,EA 046. Ongoing loyalty [vassal letter],004,
-aemw/amarna/P271135,EA 046. Ongoing loyalty [vassal letter],005,
-aemw/amarna/P271135,EA 046. Ongoing loyalty [vassal letter],006,Šamaš[1]DN
-aemw/amarna/P271135,EA 046. Ongoing loyalty [vassal letter],007,
-aemw/amarna/P271135,EA 046. Ongoing loyalty [vassal letter],008,
-aemw/amarna/P271135,EA 046. Ongoing loyalty [vassal letter],009,
-aemw/amarna/P271135,EA 046. Ongoing loyalty [vassal letter],010,
-aemw/amarna/P271135,EA 046. Ongoing loyalty [vassal letter],011,
-aemw/amarna/P271135,EA 046. Ongoing loyalty [vassal letter],012,
-aemw/amarna/P271135,EA 046. Ongoing loyalty [vassal letter],013,
-aemw/amarna/P271135,EA 046. Ongoing loyalty [vassal letter],015,
-aemw/amarna/P271135,EA 046. Ongoing loyalty [vassal letter],016,
-aemw/amarna/P271135,EA 046. Ongoing loyalty [vassal letter],017,
-aemw/amarna/P271135,EA 046. Ongoing loyalty [vassal letter],018,
-aemw/amarna/P271135,EA 046. Ongoing loyalty [vassal letter],019,
-aemw/amarna/P271135,EA 046. Ongoing loyalty [vassal letter],020,
-aemw/amarna/P271135,EA 046. Ongoing loyalty [vassal letter],021,Šamaš[1]DN
-aemw/amarna/P271135,EA 046. Ongoing loyalty [vassal letter],022,Šamaš[1]DN
-aemw/amarna/P271135,EA 046. Ongoing loyalty [vassal letter],023,
-aemw/amarna/P271135,EA 046. Ongoing loyalty [vassal letter],024,Šamaš[1]DN
-aemw/amarna/P271135,EA 046. Ongoing loyalty [vassal letter],025,Šamaš[1]DN
-aemw/amarna/P271135,EA 046. Ongoing loyalty [vassal letter],026,Šamaš[1]DN
-aemw/amarna/P271135,EA 046. Ongoing loyalty [vassal letter],027,Šamaš[1]DN
-aemw/amarna/P271135,EA 046. Ongoing loyalty [vassal letter],028,
+aemw/amarna/P271135,EA 046. Ongoing loyalty [vassal letter],001,akk-x-mbperi:abu[father]N
+aemw/amarna/P271135,EA 046. Ongoing loyalty [vassal letter],002,akk-x-mbperi:u[and]CNJ akk-x-mbperi:Šamaš[1]DN akk-x-mbperi:bēlu[lord]N
+aemw/amarna/P271135,EA 046. Ongoing loyalty [vassal letter],003,akk-x-mbperi:lā[not]MOD
+aemw/amarna/P271135,EA 046. Ongoing loyalty [vassal letter],004,akk-x-mbperi:ša[that]REL akk-x-mbperi:ana[to]PRP akk-x-mbperi:pānu[front]N
+aemw/amarna/P271135,EA 046. Ongoing loyalty [vassal letter],005,akk-x-mbperi:akannama[similarly]AV
+aemw/amarna/P271135,EA 046. Ongoing loyalty [vassal letter],006,akk-x-mbperi:ša[of]DET akk-x-mbperi:Šamaš[1]DN
+aemw/amarna/P271135,EA 046. Ongoing loyalty [vassal letter],007,akk-x-mbperi:ana[to]PRP akk-x-mbperi:mīnu[what]QP akk-x-mbperi:pānu[front]N
+aemw/amarna/P271135,EA 046. Ongoing loyalty [vassal letter],008,akk-x-mbperi:ištu[from]PRP akk-x-mbperi:muhhu[skull]N
+aemw/amarna/P271135,EA 046. Ongoing loyalty [vassal letter],009,akk-x-mbperi:abu[father]N
+aemw/amarna/P271135,EA 046. Ongoing loyalty [vassal letter],010,akk-x-mbperi:u[and]CNJ akk-x-mbperi:pānu[front]N akk-x-mbperi:ša[that]REL
+aemw/amarna/P271135,EA 046. Ongoing loyalty [vassal letter],011,akk-x-mbperi:ana[to]PRP akk-x-mbperi:muhhu[skull]N akk-x-mbperi:māru[son]N akk-x-mbperi:šipru[sending]N
+aemw/amarna/P271135,EA 046. Ongoing loyalty [vassal letter],012,akk-x-mbperi:u[and]CNJ akk-x-mbperi:unūtu[tools]N
+aemw/amarna/P271135,EA 046. Ongoing loyalty [vassal letter],013,akk-x-mbperi:wabālu[carry]V
+aemw/amarna/P271135,EA 046. Ongoing loyalty [vassal letter],015,akk-x-mbperi:qaqqadu[head]N
+aemw/amarna/P271135,EA 046. Ongoing loyalty [vassal letter],016,akk-x-mbperi:bēlu[lord]N
+aemw/amarna/P271135,EA 046. Ongoing loyalty [vassal letter],017,akk-x-mbperi:u[and]CNJ akk-x-mbperi:mātu[land]N
+aemw/amarna/P271135,EA 046. Ongoing loyalty [vassal letter],018,akk-x-mbperi:ana[to]PRP akk-x-mbperi:māru[son]N akk-x-mbperi:šipru[sending]N
+aemw/amarna/P271135,EA 046. Ongoing loyalty [vassal letter],019,akk-x-mbperi:ša[that]REL akk-x-mbperi:riāhu[remain]V
+aemw/amarna/P271135,EA 046. Ongoing loyalty [vassal letter],020,akk-x-mbperi:u[and]CNJ akk-x-mbperi:ana[to]PRP akk-x-mbperi:pānu[front]N
+aemw/amarna/P271135,EA 046. Ongoing loyalty [vassal letter],021,akk-x-mbperi:u[and]CNJ akk-x-mbperi:Šamaš[1]DN akk-x-mbperi:bēlu[lord]N
+aemw/amarna/P271135,EA 046. Ongoing loyalty [vassal letter],022,akk-x-mbperi:Šamaš[1]DN akk-x-mbperi:bēlu[lord]N akk-x-mbperi:kīma[like]PRP akk-x-mbperi:pānānu[previously]AV
+aemw/amarna/P271135,EA 046. Ongoing loyalty [vassal letter],023,akk-x-mbperi:abu[father]N
+aemw/amarna/P271135,EA 046. Ongoing loyalty [vassal letter],024,akk-x-mbperi:u[and]CNJ akk-x-mbperi:Šamaš[1]DN akk-x-mbperi:bēlu[lord]N akk-x-mbperi:u[and]CNJ akk-x-mbperi:inanna[now]AV
+aemw/amarna/P271135,EA 046. Ongoing loyalty [vassal letter],025,akk-x-mbperi:anāku[I]IP akk-x-mbperi:wardu[slave]N akk-x-mbperi:Šamaš[1]DN akk-x-mbperi:bēlu[lord]N akk-x-mbperi:u[and]CNJ
+aemw/amarna/P271135,EA 046. Ongoing loyalty [vassal letter],026,akk-x-mbperi:ana[to]PRP akk-x-mbperi:Šamaš[1]DN akk-x-mbperi:bēlu[lord]N
+aemw/amarna/P271135,EA 046. Ongoing loyalty [vassal letter],027,akk-x-mbperi:u[and]CNJ akk-x-mbperi:Šamaš[1]DN akk-x-mbperi:bēlu[lord]N
+aemw/amarna/P271135,EA 046. Ongoing loyalty [vassal letter],028,akk-x-mbperi:wabālu[carry]V

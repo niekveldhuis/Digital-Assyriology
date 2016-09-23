@@ -1,31 +1,31 @@
 id_text,text_name,l_no,text
-aemw/amarna/P271162,EA 281. Rebellion [vassal letter],001,
-aemw/amarna/P271162,EA 281. Rebellion [vassal letter],002,Šamaš[1]DN
-aemw/amarna/P271162,EA 281. Rebellion [vassal letter],003,
-aemw/amarna/P271162,EA 281. Rebellion [vassal letter],004,
-aemw/amarna/P271162,EA 281. Rebellion [vassal letter],005,Šuwardata[1]PN
-aemw/amarna/P271162,EA 281. Rebellion [vassal letter],006,
-aemw/amarna/P271162,EA 281. Rebellion [vassal letter],007,
-aemw/amarna/P271162,EA 281. Rebellion [vassal letter],008,
-aemw/amarna/P271162,EA 281. Rebellion [vassal letter],009,
-aemw/amarna/P271162,EA 281. Rebellion [vassal letter],010,
-aemw/amarna/P271162,EA 281. Rebellion [vassal letter],011,
-aemw/amarna/P271162,EA 281. Rebellion [vassal letter],012,
-aemw/amarna/P271162,EA 281. Rebellion [vassal letter],013,
-aemw/amarna/P271162,EA 281. Rebellion [vassal letter],014,
-aemw/amarna/P271162,EA 281. Rebellion [vassal letter],015,
-aemw/amarna/P271162,EA 281. Rebellion [vassal letter],016,
-aemw/amarna/P271162,EA 281. Rebellion [vassal letter],017,
-aemw/amarna/P271162,EA 281. Rebellion [vassal letter],018,
-aemw/amarna/P271162,EA 281. Rebellion [vassal letter],019,
-aemw/amarna/P271162,EA 281. Rebellion [vassal letter],020,
-aemw/amarna/P271162,EA 281. Rebellion [vassal letter],021,
-aemw/amarna/P271162,EA 281. Rebellion [vassal letter],022,
-aemw/amarna/P271162,EA 281. Rebellion [vassal letter],023,
-aemw/amarna/P271162,EA 281. Rebellion [vassal letter],024,
-aemw/amarna/P271162,EA 281. Rebellion [vassal letter],025,
-aemw/amarna/P271162,EA 281. Rebellion [vassal letter],026,
-aemw/amarna/P271162,EA 281. Rebellion [vassal letter],027,
-aemw/amarna/P271162,EA 281. Rebellion [vassal letter],028,
-aemw/amarna/P271162,EA 281. Rebellion [vassal letter],029,
-aemw/amarna/P271162,EA 281. Rebellion [vassal letter],030,
+aemw/amarna/P271162,EA 281. Rebellion [vassal letter],001,akk-x-mbperi:ana[to]PRP akk-x-mbperi:šarru[king]N akk-x-mbperi:bēlu[lord]N
+aemw/amarna/P271162,EA 281. Rebellion [vassal letter],002,akk-x-mbperi:ilu[god]N akk-x-mbperi:u[and]CNJ akk-x-mbperi:Šamaš[1]DN
+aemw/amarna/P271162,EA 281. Rebellion [vassal letter],003,akk-x-mbperi:u[and]CNJ akk-x-mbperi:šāru[wind]N
+aemw/amarna/P271162,EA 281. Rebellion [vassal letter],004,akk-x-mbperi:qabû[say]V
+aemw/amarna/P271162,EA 281. Rebellion [vassal letter],005,akk-x-mbperi:umma[saying]PRP akk-x-mbperi:Šuwardata[1]PN akk-x-mbperi:wardu[slave]N
+aemw/amarna/P271162,EA 281. Rebellion [vassal letter],006,akk-x-mbperi:ana[to]PRP akk-x-mbperi:šēpu[foot]N akk-x-mbperi:bēlu[lord]N akk-x-mbperi:u[and]CNJ akk-x-mbperi:maqātu[fall]V
+aemw/amarna/P271162,EA 281. Rebellion [vassal letter],007,akk-x-mbperi:u[and]CNJ akk-x-mbperi:kabattu[liver]N akk-x-mbperi:u[and]CNJ akk-x-mbperi:ṣēru[back]N
+aemw/amarna/P271162,EA 281. Rebellion [vassal letter],008,akk-x-mbperi:u[and]CNJ akk-x-mbperi:lamādu[learn]V akk-x-mbperi:šarru[king]N
+aemw/amarna/P271162,EA 281. Rebellion [vassal letter],009,akk-x-mbperi:bēlu[lord]N akk-x-mbperi:inūma[when]SBJ akk-x-mbperi:gabbu[totality]N
+aemw/amarna/P271162,EA 281. Rebellion [vassal letter],010,akk-x-mbperi:ālu[city]N akk-x-mbperi:nukurtu[enmity]N
+aemw/amarna/P271162,EA 281. Rebellion [vassal letter],011,akk-x-mbperi:ana[to]PRP akk-x-mbperi:yâšim[to-me]IP akk-x-mbperi:u[and]CNJ akk-x-mbperi:wašāru[sink-down]V
+aemw/amarna/P271162,EA 281. Rebellion [vassal letter],012,akk-x-mbperi:šarru[king]N akk-x-mbperi:bēlu[lord]N akk-x-mbperi:ṣābu[people]N akk-x-mbperi:piṭṭātu[archers]N
+aemw/amarna/P271162,EA 281. Rebellion [vassal letter],013,akk-x-mbperi:u[and]CNJ akk-x-mbperi:leqû[take]V akk-x-mbperi:kīma[like]PRP akk-x-mbperi:pû[mouth]N akk-x-mbperi:rabû[big-one]N
+aemw/amarna/P271162,EA 281. Rebellion [vassal letter],014,akk-x-mbperi:ana[to]PRP akk-x-mbperi:šâšunu[(to/of)-them]IP akk-x-mbperi:u[and]CNJ akk-x-mbperi:leqû[take]V
+aemw/amarna/P271162,EA 281. Rebellion [vassal letter],015,akk-x-mbperi:šarru[king]N akk-x-mbperi:bēlu[lord]N akk-x-mbperi:awīlu[man]N akk-x-mbperi:rēdû[soldier]N
+aemw/amarna/P271162,EA 281. Rebellion [vassal letter],016,akk-x-mbperi:naṣāru[guard]V akk-x-mbperi:u[and]CNJ
+aemw/amarna/P271162,EA 281. Rebellion [vassal letter],017,akk-x-mbperi:leqû[take]V akk-x-mbperi:annû[this]DP
+aemw/amarna/P271162,EA 281. Rebellion [vassal letter],018,akk-x-mbperi:u[and]CNJ akk-x-mbperi:hiālu[be(come)-in-labour]V akk-x-mbperi:ana[to]PRP akk-x-mbperi:pānu[front]N
+aemw/amarna/P271162,EA 281. Rebellion [vassal letter],019,akk-x-mbperi:šarru[king]N akk-x-mbperi:bēlu[lord]N
+aemw/amarna/P271162,EA 281. Rebellion [vassal letter],020,akk-x-mbperi:u[and]CNJ akk-x-mbperi:pānu[front]N akk-x-mbperi:itti[with]PRP
+aemw/amarna/P271162,EA 281. Rebellion [vassal letter],021,akk-x-mbperi:šarru[king]N akk-x-mbperi:bēlu[lord]N akk-x-mbperi:u[and]CNJ
+aemw/amarna/P271162,EA 281. Rebellion [vassal letter],022,akk-x-mbperi:šarru[king]N akk-x-mbperi:edû[know]V akk-x-mbperi:nukurtu[enmity]N
+aemw/amarna/P271162,EA 281. Rebellion [vassal letter],023,akk-x-mbperi:eli[on]PRP akk-x-mbperi:mīya[who?]QP
+aemw/amarna/P271162,EA 281. Rebellion [vassal letter],024,akk-x-mbperi:epēšu[do]V akk-x-mbperi:arnu[guilt]N akk-x-mbperi:ana[to]PRP akk-x-mbperi:šarru[king]N
+aemw/amarna/P271162,EA 281. Rebellion [vassal letter],025,akk-x-mbperi:u[and]CNJ akk-x-mbperi:kalbu[dog]N akk-x-mbperi:annû[this]DP
+aemw/amarna/P271162,EA 281. Rebellion [vassal letter],026,akk-x-mbperi:u[and]CNJ akk-x-mbperi:epēšu[do]V akk-x-mbperi:arnu[guilt]N akk-x-mbperi:ana[to]PRP akk-x-mbperi:šarru[king]N
+aemw/amarna/P271162,EA 281. Rebellion [vassal letter],027,akk-x-mbperi:u[and]CNJ akk-x-mbperi:wašāru[sink-down]V akk-x-mbperi:šarru[king]N
+aemw/amarna/P271162,EA 281. Rebellion [vassal letter],028,akk-x-mbperi:ṣābu[people]N akk-x-mbperi:piṭṭātu[archers]N
+aemw/amarna/P271162,EA 281. Rebellion [vassal letter],029,akk-x-mbperi:u[and]CNJ akk-x-mbperi:leqû[take]V
+aemw/amarna/P271162,EA 281. Rebellion [vassal letter],030,akk-x-mbperi:u[and]CNJ akk-x-mbperi:lamādu[learn]V

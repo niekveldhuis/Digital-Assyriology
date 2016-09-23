@@ -1,0 +1,27 @@
+id_text,text_name,l_no,text
+saao/saa17/P237911,SAA 17 049. News of Elam and Dur-Yakin (ABL 0899),o 1,ardu[slave]N Amel-Nabu[1]PN ana[to]PRP
+saao/saa17/P237911,SAA 17 049. News of Elam and Dur-Yakin (ABL 0899),o 2,dinānu[substitution]N šarru[king]N bēlu[lord]N
+saao/saa17/P237911,SAA 17 049. News of Elam and Dur-Yakin (ABL 0899),o 3,alāku[go]V Nabu[1]DN u[and]CNJ Marduk[1]DN
+saao/saa17/P237911,SAA 17 049. News of Elam and Dur-Yakin (ABL 0899),o 4,ana[to]PRP šarru[king]N bēlu[lord]N karābu[pray]V
+saao/saa17/P237911,SAA 17 049. News of Elam and Dur-Yakin (ABL 0899),o 5,umma[saying]PRP ana[to]PRP šarru[king]N bēlu[lord]N
+saao/saa17/P237911,SAA 17 049. News of Elam and Dur-Yakin (ABL 0899),o 6,libbu[interior]N šarru[king]N bēlu[lord]N
+saao/saa17/P237911,SAA 17 049. News of Elam and Dur-Yakin (ABL 0899),o 7,lū[may]MOD ṭābu[good]AJ šulmu[completeness]N
+saao/saa17/P237911,SAA 17 049. News of Elam and Dur-Yakin (ABL 0899),o 8,ana[to]PRP ēkallu[palace]N
+saao/saa17/P237911,SAA 17 049. News of Elam and Dur-Yakin (ABL 0899),o 9,ana[to]PRP
+saao/saa17/P237911,SAA 17 049. News of Elam and Dur-Yakin (ABL 0899),o 10,ana[to]PRP maṣṣartu[observation]N
+saao/saa17/P237911,SAA 17 049. News of Elam and Dur-Yakin (ABL 0899),o 11,ṭēmu[(fore)thought]N
+saao/saa17/P237911,SAA 17 049. News of Elam and Dur-Yakin (ABL 0899),o 12,ša[of]DET Elamtu[Elam]GN
+saao/saa17/P237911,SAA 17 049. News of Elam and Dur-Yakin (ABL 0899),r 1,yānu[(there)-is-not]V
+saao/saa17/P237911,SAA 17 049. News of Elam and Dur-Yakin (ABL 0899),r 2,ittu[sign]N
+saao/saa17/P237911,SAA 17 049. News of Elam and Dur-Yakin (ABL 0899),r 3,mala[as-much-as]REL ayyu[which?]QP
+saao/saa17/P237911,SAA 17 049. News of Elam and Dur-Yakin (ABL 0899),r 4,ina[in]PRP Qibi-Bel[1]GN
+saao/saa17/P237911,SAA 17 049. News of Elam and Dur-Yakin (ABL 0899),r 5,alāku[go]V
+saao/saa17/P237911,SAA 17 049. News of Elam and Dur-Yakin (ABL 0899),r 6,šemû[hear]V umma[saying]PRP
+saao/saa17/P237911,SAA 17 049. News of Elam and Dur-Yakin (ABL 0899),r 7,adû[now]AV Qibi-Bel[1]GN
+saao/saa17/P237911,SAA 17 049. News of Elam and Dur-Yakin (ABL 0899),r 8,ana[to]PRP napālu[dig-out]V
+saao/saa17/P237911,SAA 17 049. News of Elam and Dur-Yakin (ABL 0899),r 9,u[and]CNJ šū[he]IP ana[to]PRP dūru[(city)-wall]N
+saao/saa17/P237911,SAA 17 049. News of Elam and Dur-Yakin (ABL 0899),r 10,ša[of]DET Yakinu[1]PN ana[to]PRP
+saao/saa17/P237911,SAA 17 049. News of Elam and Dur-Yakin (ABL 0899),r 11,alāku[go]V ālu[city]N
+saao/saa17/P237911,SAA 17 049. News of Elam and Dur-Yakin (ABL 0899),r 12,mala[as-much-as]REL bašû[exist]V
+saao/saa17/P237911,SAA 17 049. News of Elam and Dur-Yakin (ABL 0899),r 13,Qibi-Bel[1]GN
+saao/saa17/P237911,SAA 17 049. News of Elam and Dur-Yakin (ABL 0899),r.e. 14,dūru[(city)-wall]N šupālû[lower]AJ

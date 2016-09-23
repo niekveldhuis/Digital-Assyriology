@@ -1,55 +1,55 @@
 id_text,text_name,l_no,text
-aemw/amarna/P270976,EA 016. The profit motive [royal letter],o 001,Naphuriya[Akhenaten]PN
-aemw/amarna/P270976,EA 016. The profit motive [royal letter],o 002,Miṣru[Egypt]GN
-aemw/amarna/P270976,EA 016. The profit motive [royal letter],o 003,Aššur-uballiṭ[Aššur-uballiṭ-I]PN Aššur[1]GN
-aemw/amarna/P270976,EA 016. The profit motive [royal letter],o 004,
-aemw/amarna/P270976,EA 016. The profit motive [royal letter],o 005,
-aemw/amarna/P270976,EA 016. The profit motive [royal letter],o 006,
-aemw/amarna/P270976,EA 016. The profit motive [royal letter],o 007,
-aemw/amarna/P270976,EA 016. The profit motive [royal letter],o 008,
-aemw/amarna/P270976,EA 016. The profit motive [royal letter],o 009,
-aemw/amarna/P270976,EA 016. The profit motive [royal letter],o 010,
-aemw/amarna/P270976,EA 016. The profit motive [royal letter],o 011,
-aemw/amarna/P270976,EA 016. The profit motive [royal letter],o 012,
-aemw/amarna/P270976,EA 016. The profit motive [royal letter],o 013,
-aemw/amarna/P270976,EA 016. The profit motive [royal letter],o 014,
-aemw/amarna/P270976,EA 016. The profit motive [royal letter],o 015,
-aemw/amarna/P270976,EA 016. The profit motive [royal letter],o 016,
-aemw/amarna/P270976,EA 016. The profit motive [royal letter],o 017,
-aemw/amarna/P270976,EA 016. The profit motive [royal letter],o 018,
-aemw/amarna/P270976,EA 016. The profit motive [royal letter],o 019,Aššur-nadin-ahhe[1]PN
-aemw/amarna/P270976,EA 016. The profit motive [royal letter],o 020,Miṣru[Egypt]GN
-aemw/amarna/P270976,EA 016. The profit motive [royal letter],o 021,
-aemw/amarna/P270976,EA 016. The profit motive [royal letter],o 022,Hanigalbatî[Hurrian]EN
-aemw/amarna/P270976,EA 016. The profit motive [royal letter],o 023,Miṣru[Egypt]GN
-aemw/amarna/P270976,EA 016. The profit motive [royal letter],o 024,
-aemw/amarna/P270976,EA 016. The profit motive [royal letter],o 025,
-aemw/amarna/P270976,EA 016. The profit motive [royal letter],r 026,Hanigalbatî[Hurrian]EN
-aemw/amarna/P270976,EA 016. The profit motive [royal letter],r 027,
-aemw/amarna/P270976,EA 016. The profit motive [royal letter],r 028,
-aemw/amarna/P270976,EA 016. The profit motive [royal letter],r 029,
-aemw/amarna/P270976,EA 016. The profit motive [royal letter],r 030,
-aemw/amarna/P270976,EA 016. The profit motive [royal letter],r 031,
-aemw/amarna/P270976,EA 016. The profit motive [royal letter],r 032,
-aemw/amarna/P270976,EA 016. The profit motive [royal letter],r 033,
-aemw/amarna/P270976,EA 016. The profit motive [royal letter],r 034,
-aemw/amarna/P270976,EA 016. The profit motive [royal letter],r 035,
-aemw/amarna/P270976,EA 016. The profit motive [royal letter],r 036,
-aemw/amarna/P270976,EA 016. The profit motive [royal letter],r 037,
-aemw/amarna/P270976,EA 016. The profit motive [royal letter],r 038,Sutu[1]EN
-aemw/amarna/P270976,EA 016. The profit motive [royal letter],r 039,
-aemw/amarna/P270976,EA 016. The profit motive [royal letter],r 040,Sutu[1]EN
-aemw/amarna/P270976,EA 016. The profit motive [royal letter],r 041,
-aemw/amarna/P270976,EA 016. The profit motive [royal letter],r 042,
-aemw/amarna/P270976,EA 016. The profit motive [royal letter],r 043,
-aemw/amarna/P270976,EA 016. The profit motive [royal letter],r 044,
-aemw/amarna/P270976,EA 016. The profit motive [royal letter],r 045,
-aemw/amarna/P270976,EA 016. The profit motive [royal letter],r 046,
-aemw/amarna/P270976,EA 016. The profit motive [royal letter],r 047,
-aemw/amarna/P270976,EA 016. The profit motive [royal letter],r 048,
-aemw/amarna/P270976,EA 016. The profit motive [royal letter],r 049,
-aemw/amarna/P270976,EA 016. The profit motive [royal letter],r 050,
-aemw/amarna/P270976,EA 016. The profit motive [royal letter],r 051,
-aemw/amarna/P270976,EA 016. The profit motive [royal letter],r 052,
-aemw/amarna/P270976,EA 016. The profit motive [royal letter],r 053,
-aemw/amarna/P270976,EA 016. The profit motive [royal letter],r 054,
+aemw/amarna/P270976,EA 016. The profit motive [royal letter],o 001,akk-x-midass:ana[to]PRP akk-x-midass:Naphuriya[Akhenaten]PN akk-x-midass:šarru[king]N akk-x-midass:rabû[big]AJ
+aemw/amarna/P270976,EA 016. The profit motive [royal letter],o 002,akk-x-midass:šarru[king]N akk-x-midass:mātu[land]N akk-x-midass:Miṣru[Egypt]GN akk-x-midass:ahu[brother]N akk-x-midass:qabû[say]V
+aemw/amarna/P270976,EA 016. The profit motive [royal letter],o 003,akk-x-midass:umma[saying]PRP akk-x-midass:Aššur-uballiṭ[Aššur-uballiṭ-I]PN akk-x-midass:šarru[king]N akk-x-midass:mātu[land]N akk-x-midass:Aššur[1]GN
+aemw/amarna/P270976,EA 016. The profit motive [royal letter],o 004,akk-x-midass:šarru[king]N akk-x-midass:rabû[big]AJ akk-x-midass:ahu[brother]N
+aemw/amarna/P270976,EA 016. The profit motive [royal letter],o 005,akk-x-midass:ana[to]PRP akk-x-midass:kâšim[to-you]IP akk-x-midass:ana[to]PRP akk-x-midass:bītu[house]N akk-x-midass:u[and]CNJ akk-x-midass:mātu[land]N akk-x-midass:lū[let-it-be]MOD akk-x-midass:šulmu[completeness]N
+aemw/amarna/P270976,EA 016. The profit motive [royal letter],o 006,akk-x-midass:māru[son]N akk-x-midass:šipru[sending]N akk-x-midass:kī[like]PRP akk-x-midass:amāru[see]V
+aemw/amarna/P270976,EA 016. The profit motive [royal letter],o 007,akk-x-midass:hadû[joyful]AJ akk-x-midass:danniš[very]AV akk-x-midass:māru[son]N akk-x-midass:šipru[sending]N
+aemw/amarna/P270976,EA 016. The profit motive [royal letter],o 008,akk-x-midass:ana[to]PRP akk-x-midass:teknû[loving-care]N akk-x-midass:ina[in]PRP akk-x-midass:mahru[front]N akk-x-midass:lū[indeed]MOD akk-x-midass:wašbu[inhabited]AJ
+aemw/amarna/P270976,EA 016. The profit motive [royal letter],o 009,akk-x-midass:narkabtu[chariot]N akk-x-midass:banû[good]AJ akk-x-midass:ša[of]DET akk-x-midass:šarrūtu[kingship]N akk-x-midass:ša[of]DET akk-x-midass:ṣamādu[tie-up]V
+aemw/amarna/P270976,EA 016. The profit motive [royal letter],o 010,akk-x-midass:u[and]CNJ akk-x-midass:sisû[horse]N akk-x-midass:peṣû[white]AJ akk-x-midass:ša[of]DET akk-x-midass:ṣamādu[tie-up]V
+aemw/amarna/P270976,EA 016. The profit motive [royal letter],o 011,akk-x-midass:narkabtu[chariot]N akk-x-midass:lā[not]MOD akk-x-midass:ṣummudu[equipped]AJ akk-x-midass:u[and]CNJ akk-x-midass:kunukku[(cylinder)-seal]N akk-x-midass:uqnû[lapis-lazuli]N akk-x-midass:šadû[mountain(s)]N
+aemw/amarna/P270976,EA 016. The profit motive [royal letter],o 012,akk-x-midass:ana[to]PRP akk-x-midass:šulmānu[greeting-gift]N akk-x-midass:wabālu[carry]V
+aemw/amarna/P270976,EA 016. The profit motive [royal letter],o 013,akk-x-midass:ša[of]DET akk-x-midass:šarru[king]N akk-x-midass:rabû[big]AJ akk-x-midass:šūbultu[consignment]N akk-x-midass:akanna[so]AV
+aemw/amarna/P270976,EA 016. The profit motive [royal letter],o 014,akk-x-midass:hurāṣu[gold]N akk-x-midass:ina[in]PRP akk-x-midass:mātu[land]N akk-x-midass:eperu[earth]N akk-x-midass:šū[he]IP
+aemw/amarna/P270976,EA 016. The profit motive [royal letter],o 015,akk-x-midass:esēpu[gather-together]V akk-x-midass:ammīni[why?]AV akk-x-midass:ina[in]PRP akk-x-midass:īnu[eye]N
+aemw/amarna/P270976,EA 016. The profit motive [royal letter],o 016,akk-x-midass:sahāru[go-around]V akk-x-midass:ēkallu[palace]N akk-x-midass:eššu[new]AJ akk-x-midass:kullu[hold]V akk-x-midass:epēšu[do]V
+aemw/amarna/P270976,EA 016. The profit motive [royal letter],o 017,akk-x-midass:hurāṣu[gold]N akk-x-midass:mala[as-much-as]PRP akk-x-midass:ahāzu[take]V
+aemw/amarna/P270976,EA 016. The profit motive [royal letter],o 018,akk-x-midass:u[and]CNJ akk-x-midass:hišihtu[requirement]N akk-x-midass:wabālu[carry]V
+aemw/amarna/P270976,EA 016. The profit motive [royal letter],o 019,akk-x-midass:undu[when]SBJ akk-x-midass:Aššur-nadin-ahhe[1]PN akk-x-midass:abu[father]N
+aemw/amarna/P270976,EA 016. The profit motive [royal letter],o 020,akk-x-midass:ana[to]PRP akk-x-midass:mātu[land]N akk-x-midass:Miṣru[Egypt]GN akk-x-midass:šapāru[send]V
+aemw/amarna/P270976,EA 016. The profit motive [royal letter],o 021,akk-x-midass:biltu[load]N akk-x-midass:hurāṣu[gold]N akk-x-midass:wabālu[carry]V
+aemw/amarna/P270976,EA 016. The profit motive [royal letter],o 022,akk-x-midass:undu[when]SBJ akk-x-midass:šarru[king]N akk-x-midass:Hanigalbatî[Hurrian]EN
+aemw/amarna/P270976,EA 016. The profit motive [royal letter],o 023,akk-x-midass:ana[to]PRP akk-x-midass:muhhu[skull]N akk-x-midass:abu[father]N akk-x-midass:ana[to]PRP akk-x-midass:mātu[land]N akk-x-midass:Miṣru[Egypt]GN
+aemw/amarna/P270976,EA 016. The profit motive [royal letter],o 024,akk-x-midass:šapāru[send]V akk-x-midass:biltu[load]N akk-x-midass:hurāṣu[gold]N
+aemw/amarna/P270976,EA 016. The profit motive [royal letter],o 025,akk-x-midass:wabālu[carry]V
+aemw/amarna/P270976,EA 016. The profit motive [royal letter],r 026,akk-x-midass:anāku[I]IP akk-x-midass:ana[to]PRP akk-x-midass:šarru[king]N akk-x-midass:Hanigalbatî[Hurrian]EN
+aemw/amarna/P270976,EA 016. The profit motive [royal letter],r 027,akk-x-midass:mehru[copy]N akk-x-midass:u[and]CNJ akk-x-midass:ana[to]PRP akk-x-midass:muhhu[skull]N
+aemw/amarna/P270976,EA 016. The profit motive [royal letter],r 028,akk-x-midass:manû[mina]N akk-x-midass:hurāṣu[gold]N akk-x-midass:wabālu[carry]V
+aemw/amarna/P270976,EA 016. The profit motive [royal letter],r 029,akk-x-midass:hurāṣu[gold]N akk-x-midass:ana[to]PRP akk-x-midass:alāku[go]V akk-x-midass:u[and]CNJ akk-x-midass:târu[turn]V
+aemw/amarna/P270976,EA 016. The profit motive [royal letter],r 030,akk-x-midass:ana[to]PRP akk-x-midass:idu[arm]N akk-x-midass:ša[of]DET akk-x-midass:māru[son]N akk-x-midass:šipru[sending]N
+aemw/amarna/P270976,EA 016. The profit motive [royal letter],r 031,akk-x-midass:ul[not]MOD akk-x-midass:maṣû[correspond]V
+aemw/amarna/P270976,EA 016. The profit motive [royal letter],r 032,akk-x-midass:šumma[if]MOD akk-x-midass:ṭābūtu[friendship]N akk-x-midass:pānu[front]N akk-x-midass:damqiš[well]AV
+aemw/amarna/P270976,EA 016. The profit motive [royal letter],r 033,akk-x-midass:hurāṣu[gold]N akk-x-midass:mādu[many]AJ akk-x-midass:wabālu[carry]V akk-x-midass:u[and]CNJ akk-x-midass:bītu[house]N akk-x-midass:šū[he]IP
+aemw/amarna/P270976,EA 016. The profit motive [royal letter],r 034,akk-x-midass:šapāru[send]V akk-x-midass:ša[that]REL akk-x-midass:hašhu[one-who-needs]AJ akk-x-midass:leqû[take]V
+aemw/amarna/P270976,EA 016. The profit motive [royal letter],r 035,akk-x-midass:mātu[land]N akk-x-midass:rūqu[distant]AJ akk-x-midass:nīnu[we]IP
+aemw/amarna/P270976,EA 016. The profit motive [royal letter],r 036,akk-x-midass:māru[son]N akk-x-midass:šipru[sending]N akk-x-midass:kâmma[so]AV akk-x-midass:alāku[go]V
+aemw/amarna/P270976,EA 016. The profit motive [royal letter],r 037,akk-x-midass:ša[of]DET akk-x-midass:māru[son]N akk-x-midass:šipru[sending]N
+aemw/amarna/P270976,EA 016. The profit motive [royal letter],r 038,akk-x-midass:ahāru[be(come)-behind]V akk-x-midass:Sutu[1]EN
+aemw/amarna/P270976,EA 016. The profit motive [royal letter],r 039,akk-x-midass:rādû[soldier]N akk-x-midass:mītu[dead]AJ akk-x-midass:adi[until]PRP akk-x-midass:šapāru[send]V
+aemw/amarna/P270976,EA 016. The profit motive [royal letter],r 040,akk-x-midass:Sutu[1]EN akk-x-midass:rādû[soldier]N akk-x-midass:leqû[take]V
+aemw/amarna/P270976,EA 016. The profit motive [royal letter],r 041,akk-x-midass:kalû[hold-(back)]V akk-x-midass:māru[son]N akk-x-midass:šipru[sending]N
+aemw/amarna/P270976,EA 016. The profit motive [royal letter],r 042,akk-x-midass:lū[let-it-be]MOD akk-x-midass:lā[not]MOD akk-x-midass:ahāru[be(come)-behind]V
+aemw/amarna/P270976,EA 016. The profit motive [royal letter],r 043,akk-x-midass:māru[son]N akk-x-midass:šipru[sending]N akk-x-midass:ina[in]PRP akk-x-midass:ṣētu[bright-light]N
+aemw/amarna/P270976,EA 016. The profit motive [royal letter],r 044,akk-x-midass:ammīni[why?]AV akk-x-midass:izuzzu[stand]V
+aemw/amarna/P270976,EA 016. The profit motive [royal letter],r 045,akk-x-midass:ina[in]PRP akk-x-midass:ṣētu[bright-light]N akk-x-midass:mâtu[die]V
+aemw/amarna/P270976,EA 016. The profit motive [royal letter],r 046,akk-x-midass:šumma[if]MOD akk-x-midass:ina[in]PRP akk-x-midass:ṣētu[bright-light]N akk-x-midass:izuzzu[stand]V
+aemw/amarna/P270976,EA 016. The profit motive [royal letter],r 047,akk-x-midass:ana[to]PRP akk-x-midass:šarru[king]N akk-x-midass:nēmelu[profit]N akk-x-midass:bašû[be(come)-at-hand]V
+aemw/amarna/P270976,EA 016. The profit motive [royal letter],r 048,akk-x-midass:u[and]CNJ akk-x-midass:izuzzu[stand]V akk-x-midass:ina[in]PRP akk-x-midass:ṣētu[bright-light]N
+aemw/amarna/P270976,EA 016. The profit motive [royal letter],r 049,akk-x-midass:mâtu[die]V akk-x-midass:ana[to]PRP akk-x-midass:šarru[king]N akk-x-midass:lū[let-it-be]MOD akk-x-midass:nēmelu[profit]N
+aemw/amarna/P270976,EA 016. The profit motive [royal letter],r 050,akk-x-midass:u[and]CNJ akk-x-midass:yānu[(there)-is-not]V akk-x-midass:ammīni[why?]AV
+aemw/amarna/P270976,EA 016. The profit motive [royal letter],r 051,akk-x-midass:ina[in]PRP akk-x-midass:ṣētu[bright-light]N akk-x-midass:mâtu[die]V
+aemw/amarna/P270976,EA 016. The profit motive [royal letter],r 052,akk-x-midass:māru[son]N akk-x-midass:šipru[sending]N akk-x-midass:ša[that]REL akk-x-midass:šapāru[send]V
+aemw/amarna/P270976,EA 016. The profit motive [royal letter],r 053,akk-x-midass:u[and]CNJ akk-x-midass:māru[son]N akk-x-midass:šipru[sending]N
+aemw/amarna/P270976,EA 016. The profit motive [royal letter],r 054,akk-x-midass:balāṭu[live]V akk-x-midass:ina[in]PRP akk-x-midass:ṣētu[bright-light]N

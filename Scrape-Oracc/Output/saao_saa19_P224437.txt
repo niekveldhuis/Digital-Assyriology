@@ -1,0 +1,38 @@
+id_text,text_name,l_no,text
+saao/saa19/P224437,SAA 19 176. Crimes by Itu’eans (CTN 5 p. 225),o 1,ana[to]PRP šarru[king]N bēlu[lord]N
+saao/saa19/P224437,SAA 19 176. Crimes by Itu’eans (CTN 5 p. 225),o 2,ardu[slave]N Bel-lešir[1]PN
+saao/saa19/P224437,SAA 19 176. Crimes by Itu’eans (CTN 5 p. 225),o 3,lū[may]MOD šulmu[completeness]N ana[to]PRP šarru[king]N bēlu[lord]N
+saao/saa19/P224437,SAA 19 176. Crimes by Itu’eans (CTN 5 p. 225),o 4,ina[in]PRP ēkallu[palace]N ana[to]PRP šulmu[completeness]N
+saao/saa19/P224437,SAA 19 176. Crimes by Itu’eans (CTN 5 p. 225),o 5,alāku[go]V ina[in]PRP dāt[behind]PRP
+saao/saa19/P224437,SAA 19 176. Crimes by Itu’eans (CTN 5 p. 225),o 6,Ituʾaya[Itu´ean]EN ša[that]REL ina[in]PRP pīhātu[responsibility]N
+saao/saa19/P224437,SAA 19 176. Crimes by Itu’eans (CTN 5 p. 225),o 7,kullu[hold]V
+saao/saa19/P224437,SAA 19 176. Crimes by Itu’eans (CTN 5 p. 225),o 8,ahu[arm]N ina[in]PRP nagû[region]N
+saao/saa19/P224437,SAA 19 176. Crimes by Itu’eans (CTN 5 p. 225),o 9,wabālu[bring]V immeru[sheep]N
+saao/saa19/P224437,SAA 19 176. Crimes by Itu’eans (CTN 5 p. 225),o 10,ša[that]REL ina[in]PRP nagû[region]N reʾû[pasture]V
+saao/saa19/P224437,SAA 19 176. Crimes by Itu’eans (CTN 5 p. 225),o 11,ina[in]PRP kūm[instead-of]PRP sartu[falsehood]N habātu[rob]V
+saao/saa19/P224437,SAA 19 176. Crimes by Itu’eans (CTN 5 p. 225),o 12,kullu[hold]V
+saao/saa19/P224437,SAA 19 176. Crimes by Itu’eans (CTN 5 p. 225),o 13,šarru[king]N bēlu[lord]N ṭēmu[(fore)thought]N
+saao/saa19/P224437,SAA 19 176. Crimes by Itu’eans (CTN 5 p. 225),o 14,šakānu[put]V
+saao/saa19/P224437,SAA 19 176. Crimes by Itu’eans (CTN 5 p. 225),o 15,ša[of]DET mātu[land]N
+saao/saa19/P224437,SAA 19 176. Crimes by Itu’eans (CTN 5 p. 225),o 16,ša[that]REL šarru[king]N
+saao/saa19/P224437,SAA 19 176. Crimes by Itu’eans (CTN 5 p. 225),o 17,bēlu[lord]N šapāru[send]V
+saao/saa19/P224437,SAA 19 176. Crimes by Itu’eans (CTN 5 p. 225),r 3',Ituʾaya[Itu´ean]EN
+saao/saa19/P224437,SAA 19 176. Crimes by Itu’eans (CTN 5 p. 225),r 4',šarru[king]N bēlu[lord]N wadû[know]V akī[as]PRP
+saao/saa19/P224437,SAA 19 176. Crimes by Itu’eans (CTN 5 p. 225),r 5',nagû[region]N ša[of]DET pīhātu[responsibility]N Kurbail[1]GN
+saao/saa19/P224437,SAA 19 176. Crimes by Itu’eans (CTN 5 p. 225),r 6',Ituʾaya[Itu´ean]EN
+saao/saa19/P224437,SAA 19 176. Crimes by Itu’eans (CTN 5 p. 225),r 7',gabbu[totality]N kullu[hold]V
+saao/saa19/P224437,SAA 19 176. Crimes by Itu’eans (CTN 5 p. 225),r 8',ūma[today]AV nasīku[sheikh]N
+saao/saa19/P224437,SAA 19 176. Crimes by Itu’eans (CTN 5 p. 225),r 9',ina[in]PRP ēkallu[palace]N alāku[go]V
+saao/saa19/P224437,SAA 19 176. Crimes by Itu’eans (CTN 5 p. 225),r 10',šarru[king]N bēlu[lord]N šâlu[ask]V
+saao/saa19/P224437,SAA 19 176. Crimes by Itu’eans (CTN 5 p. 225),r 11',adi[until]PRP nišu[people]N kabāsu[tread]V
+saao/saa19/P224437,SAA 19 176. Crimes by Itu’eans (CTN 5 p. 225),r 12',libbu[interior]N ša[of]DET mātu[land]N kabāsu[tread]V
+saao/saa19/P224437,SAA 19 176. Crimes by Itu’eans (CTN 5 p. 225),r 13',haramma[later]AV šapāru[send]V
+saao/saa19/P224437,SAA 19 176. Crimes by Itu’eans (CTN 5 p. 225),r 14',ālu[city]N ša[of]DET Ituʾaya[Itu´ean]EN
+saao/saa19/P224437,SAA 19 176. Crimes by Itu’eans (CTN 5 p. 225),r 15',gabbu[totality]N haṭû[do-wrong]V
+saao/saa19/P224437,SAA 19 176. Crimes by Itu’eans (CTN 5 p. 225),r 16',ina[in]PRP libbu[interior]N immeru[sheep]N sinništu[woman]N ēkallu[palace]N
+saao/saa19/P224437,SAA 19 176. Crimes by Itu’eans (CTN 5 p. 225),r 17',ša[of]DET pīhātu[responsibility]N ša[of]DET rabiu[big-one]N
+saao/saa19/P224437,SAA 19 176. Crimes by Itu’eans (CTN 5 p. 225),r 18',ša[that]REL ina[in]PRP pīhātu[responsibility]N reʾû[pasture]V
+saao/saa19/P224437,SAA 19 176. Crimes by Itu’eans (CTN 5 p. 225),r 19',naqû[sacrifice]V
+saao/saa19/P224437,SAA 19 176. Crimes by Itu’eans (CTN 5 p. 225),r.e. 20,akī[as]PRP ša[that]REL šarru[king]N bēlu[lord]N leʾû[be-able]V
+saao/saa19/P224437,SAA 19 176. Crimes by Itu’eans (CTN 5 p. 225),r.e. 21,epēšu[do]V
+saao/saa19/P224437,SAA 19 176. Crimes by Itu’eans (CTN 5 p. 225),e. 1,ša[of]DET

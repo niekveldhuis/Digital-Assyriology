@@ -1,8 +1,8 @@
 id_text,text_name,l_no,text
-aemw/amarna/P271177,EA 339. Message lost [vassal letter],001,
-aemw/amarna/P271177,EA 339. Message lost [vassal letter],002,Šamaš[1]DN
-aemw/amarna/P271177,EA 339. Message lost [vassal letter],003,
-aemw/amarna/P271177,EA 339. Message lost [vassal letter],004,
-aemw/amarna/P271177,EA 339. Message lost [vassal letter],005,
-aemw/amarna/P271177,EA 339. Message lost [vassal letter],006,
-aemw/amarna/P271177,EA 339. Message lost [vassal letter],007,
+aemw/amarna/P271177,EA 339. Message lost [vassal letter],001,akk-x-mbperi:ana[to]PRP akk-x-mbperi:šarru[king]N akk-x-mbperi:bēlu[lord]N
+aemw/amarna/P271177,EA 339. Message lost [vassal letter],002,akk-x-mbperi:ilu[god]N akk-x-mbperi:Šamaš[1]DN
+aemw/amarna/P271177,EA 339. Message lost [vassal letter],003,akk-x-mbperi:qabû[say]V
+aemw/amarna/P271177,EA 339. Message lost [vassal letter],004,akk-x-mbperi:umma[saying]PRP
+aemw/amarna/P271177,EA 339. Message lost [vassal letter],005,akk-x-mbperi:awīlu[man]N akk-x-mbperi:ālu[city]N
+aemw/amarna/P271177,EA 339. Message lost [vassal letter],006,akk-x-mbperi:šanītu[something-other]N akk-x-mbperi:lū[let-it-be]MOD akk-x-mbperi:edû[know]V akk-x-mbperi:inūma[when]SBJ
+aemw/amarna/P271177,EA 339. Message lost [vassal letter],007,akk-x-mbperi:ilu[god]N

@@ -1,16 +1,16 @@
 id_text,text_name,l_no,text
-aemw/amarna/P271027,EA 260. A plea for royal concern [vassal letter],001,
-aemw/amarna/P271027,EA 260. A plea for royal concern [vassal letter],002,Baʾlu-meher[1]PN
-aemw/amarna/P271027,EA 260. A plea for royal concern [vassal letter],003,
-aemw/amarna/P271027,EA 260. A plea for royal concern [vassal letter],004,
-aemw/amarna/P271027,EA 260. A plea for royal concern [vassal letter],005,Šamaš[1]DN
-aemw/amarna/P271027,EA 260. A plea for royal concern [vassal letter],006,
-aemw/amarna/P271027,EA 260. A plea for royal concern [vassal letter],007,
-aemw/amarna/P271027,EA 260. A plea for royal concern [vassal letter],008,
-aemw/amarna/P271027,EA 260. A plea for royal concern [vassal letter],009,
-aemw/amarna/P271027,EA 260. A plea for royal concern [vassal letter],010,Šamaš[1]DN
-aemw/amarna/P271027,EA 260. A plea for royal concern [vassal letter],011,
-aemw/amarna/P271027,EA 260. A plea for royal concern [vassal letter],012,
-aemw/amarna/P271027,EA 260. A plea for royal concern [vassal letter],013,
-aemw/amarna/P271027,EA 260. A plea for royal concern [vassal letter],014,Tinni[1]GN
-aemw/amarna/P271027,EA 260. A plea for royal concern [vassal letter],015,
+aemw/amarna/P271027,EA 260. A plea for royal concern [vassal letter],001,akk-x-mbperi:ana[to]PRP akk-x-mbperi:šarru[king]N akk-x-mbperi:rabû[big]AJ akk-x-mbperi:bēlu[lord]N
+aemw/amarna/P271027,EA 260. A plea for royal concern [vassal letter],002,akk-x-mbperi:Baʾlu-meher[1]PN akk-x-mbperi:qabû[say]V
+aemw/amarna/P271027,EA 260. A plea for royal concern [vassal letter],003,akk-x-mbperi:u[and]CNJ
+aemw/amarna/P271027,EA 260. A plea for royal concern [vassal letter],004,akk-x-mbperi:ana[to]PRP akk-x-mbperi:šēpu[foot]N akk-x-mbperi:šarru[king]N akk-x-mbperi:rabû[big]AJ
+aemw/amarna/P271027,EA 260. A plea for royal concern [vassal letter],005,akk-x-mbperi:Šamaš[1]DN akk-x-mbperi:ana[to]PRP akk-x-mbperi:šamû[sky]N akk-x-mbperi:maqātu[fall]V
+aemw/amarna/P271027,EA 260. A plea for royal concern [vassal letter],006,akk-x-mbperi:anāku[I]IP akk-x-mbperi:kī[like]PRP akk-x-mbperi:qabû[say]V
+aemw/amarna/P271027,EA 260. A plea for royal concern [vassal letter],007,akk-x-mbperi:šarru[king]N akk-x-mbperi:rabû[big]AJ akk-x-mbperi:bēlu[lord]N
+aemw/amarna/P271027,EA 260. A plea for royal concern [vassal letter],008,akk-x-mbperi:anāku[I]IP akk-x-mbperi:šemû[hear]V akk-x-mbperi:awātu[word]N
+aemw/amarna/P271027,EA 260. A plea for royal concern [vassal letter],009,akk-x-mbperi:ša[of]DET akk-x-mbperi:šarru[king]N akk-x-mbperi:rabû[big]AJ akk-x-mbperi:bēlu[lord]N
+aemw/amarna/P271027,EA 260. A plea for royal concern [vassal letter],010,akk-x-mbperi:Šamaš[1]DN akk-x-mbperi:ana[to]PRP akk-x-mbperi:šamû[sky]N
+aemw/amarna/P271027,EA 260. A plea for royal concern [vassal letter],011,akk-x-mbperi:šarru[king]N akk-x-mbperi:rabû[big]AJ akk-x-mbperi:edû[know]V
+aemw/amarna/P271027,EA 260. A plea for royal concern [vassal letter],012,akk-x-mbperi:ana[to]PRP akk-x-mbperi:wardu[slave]N
+aemw/amarna/P271027,EA 260. A plea for royal concern [vassal letter],013,akk-x-mbperi:u[and]CNJ akk-x-mbperi:anāku[I]IP akk-x-mbperi:ana[to]PRP akk-x-mbperi:ālu[city]N
+aemw/amarna/P271027,EA 260. A plea for royal concern [vassal letter],014,akk-x-mbperi:Tinni[1]GN akk-x-mbperi:wašābu[sit-(down)]V
+aemw/amarna/P271027,EA 260. A plea for royal concern [vassal letter],015,akk-x-mbperi:u[and]CNJ akk-x-mbperi:šarru[king]N akk-x-mbperi:rabû[big]AJ akk-x-mbperi:bēlu[lord]N

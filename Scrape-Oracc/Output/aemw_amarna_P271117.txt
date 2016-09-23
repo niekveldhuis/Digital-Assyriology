@@ -1,17 +1,17 @@
 id_text,text_name,l_no,text
-aemw/amarna/P271117,EA 192. Message received [vassal letter],001,
-aemw/amarna/P271117,EA 192. Message received [vassal letter],002,Šamaš[1]DN
-aemw/amarna/P271117,EA 192. Message received [vassal letter],003,
-aemw/amarna/P271117,EA 192. Message received [vassal letter],004,Arsawuya[1]PN
-aemw/amarna/P271117,EA 192. Message received [vassal letter],005,
-aemw/amarna/P271117,EA 192. Message received [vassal letter],006,
-aemw/amarna/P271117,EA 192. Message received [vassal letter],007,
-aemw/amarna/P271117,EA 192. Message received [vassal letter],008,Šamaš[1]DN
-aemw/amarna/P271117,EA 192. Message received [vassal letter],009,
-aemw/amarna/P271117,EA 192. Message received [vassal letter],010,
-aemw/amarna/P271117,EA 192. Message received [vassal letter],011,
-aemw/amarna/P271117,EA 192. Message received [vassal letter],012,
-aemw/amarna/P271117,EA 192. Message received [vassal letter],013,
-aemw/amarna/P271117,EA 192. Message received [vassal letter],014,
-aemw/amarna/P271117,EA 192. Message received [vassal letter],015,
-aemw/amarna/P271117,EA 192. Message received [vassal letter],016,
+aemw/amarna/P271117,EA 192. Message received [vassal letter],001,akk-x-mbperi:ana[to]PRP akk-x-mbperi:šarru[king]N akk-x-mbperi:bēlu[lord]N
+aemw/amarna/P271117,EA 192. Message received [vassal letter],002,akk-x-mbperi:u[and]CNJ akk-x-mbperi:Šamaš[1]DN akk-x-mbperi:u[and]CNJ akk-x-mbperi:ilu[god]N
+aemw/amarna/P271117,EA 192. Message received [vassal letter],003,akk-x-mbperi:qabû[say]V akk-x-mbperi:umma[saying]PRP
+aemw/amarna/P271117,EA 192. Message received [vassal letter],004,akk-x-mbperi:Arsawuya[1]PN akk-x-mbperi:wardu[slave]N akk-x-mbperi:kittu[steadiness]N
+aemw/amarna/P271117,EA 192. Message received [vassal letter],005,akk-x-mbperi:ša[of]DET akk-x-mbperi:šarru[king]N akk-x-mbperi:bēlu[lord]N
+aemw/amarna/P271117,EA 192. Message received [vassal letter],006,akk-x-mbperi:eperu[earth]N akk-x-mbperi:šēpu[foot]N akk-x-mbperi:šarru[king]N akk-x-mbperi:bēlu[lord]N
+aemw/amarna/P271117,EA 192. Message received [vassal letter],007,akk-x-mbperi:ana[to]PRP akk-x-mbperi:šēpu[foot]N akk-x-mbperi:šarru[king]N akk-x-mbperi:bēlu[lord]N
+aemw/amarna/P271117,EA 192. Message received [vassal letter],008,akk-x-mbperi:u[and]CNJ akk-x-mbperi:Šamaš[1]DN akk-x-mbperi:u[and]CNJ akk-x-mbperi:ilu[god]N
+aemw/amarna/P271117,EA 192. Message received [vassal letter],009,akk-x-mbperi:u[and]CNJ akk-x-mbperi:maqātu[fall]V
+aemw/amarna/P271117,EA 192. Message received [vassal letter],010,akk-x-mbperi:šemû[hear]V akk-x-mbperi:awātu[word]N
+aemw/amarna/P271117,EA 192. Message received [vassal letter],011,akk-x-mbperi:šarru[king]N akk-x-mbperi:bēlu[lord]N akk-x-mbperi:u[and]CNJ akk-x-mbperi:ilu[god]N
+aemw/amarna/P271117,EA 192. Message received [vassal letter],012,akk-x-mbperi:u[and]CNJ akk-x-mbperi:anumma[now]AV
+aemw/amarna/P271117,EA 192. Message received [vassal letter],013,akk-x-mbperi:inanna[now]AV akk-x-mbperi:šemû[hear]V
+aemw/amarna/P271117,EA 192. Message received [vassal letter],014,akk-x-mbperi:awātu[word]N
+aemw/amarna/P271117,EA 192. Message received [vassal letter],015,akk-x-mbperi:šarru[king]N akk-x-mbperi:bēlu[lord]N akk-x-mbperi:u[and]CNJ akk-x-mbperi:lā[not]MOD
+aemw/amarna/P271117,EA 192. Message received [vassal letter],016,akk-x-mbperi:mekû[neglect]V akk-x-mbperi:šarru[king]N akk-x-mbperi:bēlu[lord]N

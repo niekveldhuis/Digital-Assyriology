@@ -1,0 +1,40 @@
+id_text,text_name,l_no,text
+saao/saa19/P393639,SAA 19 119. Wounded in a Campaign (CTN 5 p. 246),o 1,ana[to]PRP šarru[king]N bēlu[lord]N
+saao/saa19/P393639,SAA 19 119. Wounded in a Campaign (CTN 5 p. 246),o 2,ardu[slave]N Mušezib-ilu[1]PN
+saao/saa19/P393639,SAA 19 119. Wounded in a Campaign (CTN 5 p. 246),o 3,lū[may]MOD šulmu[completeness]N ana[to]PRP šarru[king]N bēlu[lord]N ūmu[day]N
+saao/saa19/P393639,SAA 19 119. Wounded in a Campaign (CTN 5 p. 246),o 4,Gambulaya[1]EN ana[to]PRP Arrapha[1]GN
+saao/saa19/P393639,SAA 19 119. Wounded in a Campaign (CTN 5 p. 246),o 5,anāku[I]IP ina[in]PRP hūlu[way]N mahāṣu[beat]V
+saao/saa19/P393639,SAA 19 119. Wounded in a Campaign (CTN 5 p. 246),o 6,adanniš[very-much]AV marṣu[sick]AJ lā[not]MOD alāku[go]V
+saao/saa19/P393639,SAA 19 119. Wounded in a Campaign (CTN 5 p. 246),o 7,adi[until]PRP pānu[front]N šarru[king]N bēlu[lord]N lā[not]MOD alāku[go]V
+saao/saa19/P393639,SAA 19 119. Wounded in a Campaign (CTN 5 p. 246),o 8,annûri[now]AV ina[in]PRP libbu[interior]N Ša-Turmiš[1]GN
+saao/saa19/P393639,SAA 19 119. Wounded in a Campaign (CTN 5 p. 246),o 9,ina[in]PRP muhhu[skull]N Zaba[Zab]WN karru[put-down]AJ
+saao/saa19/P393639,SAA 19 119. Wounded in a Campaign (CTN 5 p. 246),o 10,Šarru-iqbi[1]PN Ša-Turmišaya[1]EN
+saao/saa19/P393639,SAA 19 119. Wounded in a Campaign (CTN 5 p. 246),o 11,adi[until]PRP nāgiru[herald]N šarru[king]N bēlu[lord]N wadû[know]V
+saao/saa19/P393639,SAA 19 119. Wounded in a Campaign (CTN 5 p. 246),o 12,mīnu[what?]QP ša[that]REL našû[lifted]AJ
+saao/saa19/P393639,SAA 19 119. Wounded in a Campaign (CTN 5 p. 246),o 13,šumma[if]MOD šaṭāru[write]V
+saao/saa19/P393639,SAA 19 119. Wounded in a Campaign (CTN 5 p. 246),o 14,issurri[perhaps]AV šarru[king]N bēlu[lord]N qabû[say]V mā[saying]PRP
+saao/saa19/P393639,SAA 19 119. Wounded in a Campaign (CTN 5 p. 246),o 15,šī[she]IP ša[that]REL ana[to]PRP
+saao/saa19/P393639,SAA 19 119. Wounded in a Campaign (CTN 5 p. 246),o 16,šapāru[send]V šarru[king]N bēlu[lord]N ina[in]PRP muhhu[skull]N
+saao/saa19/P393639,SAA 19 119. Wounded in a Campaign (CTN 5 p. 246),o 17,libbu[interior]N lū[may]MOD lā[not]MOD šakānu[put]V
+saao/saa19/P393639,SAA 19 119. Wounded in a Campaign (CTN 5 p. 246),o 18,šakānu[put]V
+saao/saa19/P393639,SAA 19 119. Wounded in a Campaign (CTN 5 p. 246),o 19,Marduk-emuranni[1]PN
+saao/saa19/P393639,SAA 19 119. Wounded in a Campaign (CTN 5 p. 246),o 20,šarru[king]N bēlu[lord]N
+saao/saa19/P393639,SAA 19 119. Wounded in a Campaign (CTN 5 p. 246),r 3',ina[in]PRP gamāru[complete]V
+saao/saa19/P393639,SAA 19 119. Wounded in a Campaign (CTN 5 p. 246),r 4',ina[in]PRP libbu[interior]N
+saao/saa19/P393639,SAA 19 119. Wounded in a Campaign (CTN 5 p. 246),r 5',Bani-Ani[1]PN kī[like]PRP sēhû[dissenter]N
+saao/saa19/P393639,SAA 19 119. Wounded in a Campaign (CTN 5 p. 246),r 6',epēšu[do]V šapāru[send]V
+saao/saa19/P393639,SAA 19 119. Wounded in a Campaign (CTN 5 p. 246),r 7',mā[saying]PRP Mušezib-ilu[1]PN
+saao/saa19/P393639,SAA 19 119. Wounded in a Campaign (CTN 5 p. 246),r 8',ana[to]PRP Dur-Kurigalzu[1]GN lā[not]MOD alāku[go]V
+saao/saa19/P393639,SAA 19 119. Wounded in a Campaign (CTN 5 p. 246),r 9',šumma[if]MOD
+saao/saa19/P393639,SAA 19 119. Wounded in a Campaign (CTN 5 p. 246),r 11',mā[saying]PRP karṣu[slander]N
+saao/saa19/P393639,SAA 19 119. Wounded in a Campaign (CTN 5 p. 246),r 12',akī[as;-like]PRP ša[of]DET hīṭu[error]N
+saao/saa19/P393639,SAA 19 119. Wounded in a Campaign (CTN 5 p. 246),r 13',wabālu[bring]V šarru[king]N bēlu[lord]N šâlu[ask]V kīma[like]PRP
+saao/saa19/P393639,SAA 19 119. Wounded in a Campaign (CTN 5 p. 246),r 14',alāku[go]V qabû[say]V mā[saying]PRP ištu[from]PRP pānu[front]N
+saao/saa19/P393639,SAA 19 119. Wounded in a Campaign (CTN 5 p. 246),r 15',Dur-Kurigalzu[1]GN lū[may]MOD patiu[distant]AJ
+saao/saa19/P393639,SAA 19 119. Wounded in a Campaign (CTN 5 p. 246),r 16',mā[saying]PRP šumma[if]MOD alāku[go]V dâku[kill]V
+saao/saa19/P393639,SAA 19 119. Wounded in a Campaign (CTN 5 p. 246),r 17',awātu[word]N ša[that]REL šemû[hear]V ša[that]REL amāru[see]V
+saao/saa19/P393639,SAA 19 119. Wounded in a Campaign (CTN 5 p. 246),r 18',qabû[say]V šarru[king]N māru[son]N šipru[sending]N ina[in]PRP dāt[behind]PRP ana[to]PRP hūlu[way]N
+saao/saa19/P393639,SAA 19 119. Wounded in a Campaign (CTN 5 p. 246),r 19',Lahiru[1]GN šapāru[send]V mā[saying]PRP alāku[go]V
+saao/saa19/P393639,SAA 19 119. Wounded in a Campaign (CTN 5 p. 246),r 20',ina[in]PRP Dur-Kurigalzu[1]GN erēbu[enter]V
+saao/saa19/P393639,SAA 19 119. Wounded in a Campaign (CTN 5 p. 246),r.e. 21,marṣu[sick]AJ lā[not]MOD magāru[consent]V lā[not]MOD alāku[go]V
+saao/saa19/P393639,SAA 19 119. Wounded in a Campaign (CTN 5 p. 246),r.e. 22,ša[that]REL maṣṣartu[observation]N ina[in]PRP birtu[fort]N naṣāru[guard]V

@@ -1,0 +1,12 @@
+id_text,text_name,l_no,text
+saao/saa15/P313894,SAA 15 010. Distributing Barley Rations (CT 53 481),o 2',ina[in]PRP pitti[just-as]AV
+saao/saa15/P313894,SAA 15 010. Distributing Barley Rations (CT 53 481),o 3',ina[in]PRP libbu[interior]N
+saao/saa15/P313894,SAA 15 010. Distributing Barley Rations (CT 53 481),o 4',lēʾu[board]N
+saao/saa15/P313894,SAA 15 010. Distributing Barley Rations (CT 53 481),o 5',ana[to]PRP ēkallu[palace]N
+saao/saa15/P313894,SAA 15 010. Distributing Barley Rations (CT 53 481),o 6',ina[in]PRP bītu[house]N šanû[second]NU
+saao/saa15/P313894,SAA 15 010. Distributing Barley Rations (CT 53 481),b.e. 7',ina[in]PRP pitti[just-as]AV lēʾu[board]N
+saao/saa15/P313894,SAA 15 010. Distributing Barley Rations (CT 53 481),b.e. 8',wabālu[bring]V
+saao/saa15/P313894,SAA 15 010. Distributing Barley Rations (CT 53 481),r 1,kurummatu[ration]N bīt[where]SBJ šīti[she]IP
+saao/saa15/P313894,SAA 15 010. Distributing Barley Rations (CT 53 481),r 2,ina[in]PRP pitti[just-as]AV lū[may]MOD tadānu[give]V
+saao/saa15/P313894,SAA 15 010. Distributing Barley Rations (CT 53 481),r 3,kurummatu[ration]N ša[that]REL ina[in]PRP Šabbu[1]GN
+saao/saa15/P313894,SAA 15 010. Distributing Barley Rations (CT 53 481),r 4,rēhtu[remainder]N ša[that]REL ina[in]PRP libbu[interior]N

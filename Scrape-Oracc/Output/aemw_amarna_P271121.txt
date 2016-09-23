@@ -1,19 +1,19 @@
 id_text,text_name,l_no,text
-aemw/amarna/P271121,EA 241. A servant from ancient times [vassal letter],001,
-aemw/amarna/P271121,EA 241. A servant from ancient times [vassal letter],002,Šamaš[1]DN
-aemw/amarna/P271121,EA 241. A servant from ancient times [vassal letter],003,Ruṣmanya[1]PN
-aemw/amarna/P271121,EA 241. A servant from ancient times [vassal letter],004,Šaruna[1]GN
-aemw/amarna/P271121,EA 241. A servant from ancient times [vassal letter],005,
-aemw/amarna/P271121,EA 241. A servant from ancient times [vassal letter],006,
-aemw/amarna/P271121,EA 241. A servant from ancient times [vassal letter],007,
-aemw/amarna/P271121,EA 241. A servant from ancient times [vassal letter],008,
-aemw/amarna/P271121,EA 241. A servant from ancient times [vassal letter],009,
-aemw/amarna/P271121,EA 241. A servant from ancient times [vassal letter],010,
-aemw/amarna/P271121,EA 241. A servant from ancient times [vassal letter],011,
-aemw/amarna/P271121,EA 241. A servant from ancient times [vassal letter],012,
-aemw/amarna/P271121,EA 241. A servant from ancient times [vassal letter],013,
-aemw/amarna/P271121,EA 241. A servant from ancient times [vassal letter],014,
-aemw/amarna/P271121,EA 241. A servant from ancient times [vassal letter],016,
-aemw/amarna/P271121,EA 241. A servant from ancient times [vassal letter],017,
-aemw/amarna/P271121,EA 241. A servant from ancient times [vassal letter],018,
-aemw/amarna/P271121,EA 241. A servant from ancient times [vassal letter],019,
+aemw/amarna/P271121,EA 241. A servant from ancient times [vassal letter],001,akk-x-mbperi:ana[to]PRP akk-x-mbperi:šarru[king]N akk-x-mbperi:bēlu[lord]N
+aemw/amarna/P271121,EA 241. A servant from ancient times [vassal letter],002,akk-x-mbperi:ilu[god]N akk-x-mbperi:Šamaš[1]DN akk-x-mbperi:qabû[say]V
+aemw/amarna/P271121,EA 241. A servant from ancient times [vassal letter],003,akk-x-mbperi:umma[saying]PRP akk-x-mbperi:Ruṣmanya[1]PN akk-x-mbperi:wardu[slave]N
+aemw/amarna/P271121,EA 241. A servant from ancient times [vassal letter],004,akk-x-mbperi:awīlu[man]N akk-x-mbperi:Šaruna[1]GN akk-x-mbperi:wardu[slave]N
+aemw/amarna/P271121,EA 241. A servant from ancient times [vassal letter],005,akk-x-mbperi:eperu[earth]N akk-x-mbperi:ša[of]DET akk-x-mbperi:šēpu[foot]N
+aemw/amarna/P271121,EA 241. A servant from ancient times [vassal letter],006,akk-x-mbperi:ṭīdu[clay]N akk-x-mbperi:ša[of]DET akk-x-mbperi:kabāsu[tread]V
+aemw/amarna/P271121,EA 241. A servant from ancient times [vassal letter],007,akk-x-mbperi:gištappu[footstool]N akk-x-mbperi:ša[of]DET akk-x-mbperi:šēpu[foot]N akk-x-mbperi:bēlu[lord]N akk-x-mbperi:ana[to]PRP akk-x-mbperi:šēpu[foot]N akk-x-mbperi:bēlu[lord]N
+aemw/amarna/P271121,EA 241. A servant from ancient times [vassal letter],008,akk-x-mbperi:maqātu[fall]V
+aemw/amarna/P271121,EA 241. A servant from ancient times [vassal letter],009,akk-x-mbperi:amāru[see]V akk-x-mbperi:anāku[I]IP akk-x-mbperi:wardu[slave]N akk-x-mbperi:šarru[king]N
+aemw/amarna/P271121,EA 241. A servant from ancient times [vassal letter],010,akk-x-mbperi:ištu[from]PRP akk-x-mbperi:dārītu[perpetuity]N
+aemw/amarna/P271121,EA 241. A servant from ancient times [vassal letter],011,akk-x-mbperi:šarru[king]N akk-x-mbperi:bēlu[lord]N akk-x-mbperi:urrudu[served]AJ
+aemw/amarna/P271121,EA 241. A servant from ancient times [vassal letter],012,akk-x-mbperi:u[and]CNJ akk-x-mbperi:anumma[now]AV akk-x-mbperi:inanna[now]AV
+aemw/amarna/P271121,EA 241. A servant from ancient times [vassal letter],013,akk-x-mbperi:šarru[king]N akk-x-mbperi:bēlu[lord]N
+aemw/amarna/P271121,EA 241. A servant from ancient times [vassal letter],014,akk-x-mbperi:ilu[god]N
+aemw/amarna/P271121,EA 241. A servant from ancient times [vassal letter],016,akk-x-mbperi:ša[of]DET akk-x-mbperi:šarru[king]N akk-x-mbperi:bēlu[lord]N
+aemw/amarna/P271121,EA 241. A servant from ancient times [vassal letter],017,akk-x-mbperi:šanû[(an)other]AJ akk-x-mbperi:dekû[raised]AJ
+aemw/amarna/P271121,EA 241. A servant from ancient times [vassal letter],018,akk-x-mbperi:ina[in]PRP akk-x-mbperi:qātu[hand]N
+aemw/amarna/P271121,EA 241. A servant from ancient times [vassal letter],019,akk-x-mbperi:u[and]CNJ akk-x-mbperi:anāku[I]IP akk-x-mbperi:wardu[slave]N akk-x-mbperi:kittu[steadiness]N

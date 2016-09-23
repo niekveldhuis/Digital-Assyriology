@@ -1,27 +1,27 @@
 id_text,text_name,l_no,text
-aemw/amarna/P271196,EA 239. Evil talk [vassal letter],001,
-aemw/amarna/P271196,EA 239. Evil talk [vassal letter],002,
-aemw/amarna/P271196,EA 239. Evil talk [vassal letter],003,Baduzana[1]PN
-aemw/amarna/P271196,EA 239. Evil talk [vassal letter],004,
-aemw/amarna/P271196,EA 239. Evil talk [vassal letter],005,
-aemw/amarna/P271196,EA 239. Evil talk [vassal letter],006,
-aemw/amarna/P271196,EA 239. Evil talk [vassal letter],007,
-aemw/amarna/P271196,EA 239. Evil talk [vassal letter],008,
-aemw/amarna/P271196,EA 239. Evil talk [vassal letter],009,
-aemw/amarna/P271196,EA 239. Evil talk [vassal letter],010,
-aemw/amarna/P271196,EA 239. Evil talk [vassal letter],011,
-aemw/amarna/P271196,EA 239. Evil talk [vassal letter],012,
-aemw/amarna/P271196,EA 239. Evil talk [vassal letter],013,
-aemw/amarna/P271196,EA 239. Evil talk [vassal letter],014,
-aemw/amarna/P271196,EA 239. Evil talk [vassal letter],015,
-aemw/amarna/P271196,EA 239. Evil talk [vassal letter],016,
-aemw/amarna/P271196,EA 239. Evil talk [vassal letter],017,
-aemw/amarna/P271196,EA 239. Evil talk [vassal letter],018,
-aemw/amarna/P271196,EA 239. Evil talk [vassal letter],019,
-aemw/amarna/P271196,EA 239. Evil talk [vassal letter],020,
-aemw/amarna/P271196,EA 239. Evil talk [vassal letter],021,
-aemw/amarna/P271196,EA 239. Evil talk [vassal letter],022,
-aemw/amarna/P271196,EA 239. Evil talk [vassal letter],023,
-aemw/amarna/P271196,EA 239. Evil talk [vassal letter],024,
-aemw/amarna/P271196,EA 239. Evil talk [vassal letter],025,
-aemw/amarna/P271196,EA 239. Evil talk [vassal letter],026,
+aemw/amarna/P271196,EA 239. Evil talk [vassal letter],001,akk-x-mbperi:ana[to]PRP akk-x-mbperi:šarru[king]N
+aemw/amarna/P271196,EA 239. Evil talk [vassal letter],002,akk-x-mbperi:bēlu[lord]N akk-x-mbperi:qabû[say]V
+aemw/amarna/P271196,EA 239. Evil talk [vassal letter],003,akk-x-mbperi:umma[saying]PRP akk-x-mbperi:Baduzana[1]PN akk-x-mbperi:wardu[slave]N
+aemw/amarna/P271196,EA 239. Evil talk [vassal letter],004,akk-x-mbperi:ana[to]PRP akk-x-mbperi:šēpu[foot]N
+aemw/amarna/P271196,EA 239. Evil talk [vassal letter],005,akk-x-mbperi:šarru[king]N akk-x-mbperi:bēlu[lord]N
+aemw/amarna/P271196,EA 239. Evil talk [vassal letter],006,akk-x-mbperi:u[and]CNJ
+aemw/amarna/P271196,EA 239. Evil talk [vassal letter],007,akk-x-mbperi:maqātu[fall]V
+aemw/amarna/P271196,EA 239. Evil talk [vassal letter],008,akk-x-mbperi:gabbu[totality]N akk-x-mbperi:awātu[word]N
+aemw/amarna/P271196,EA 239. Evil talk [vassal letter],009,akk-x-mbperi:šarru[king]N akk-x-mbperi:bēlu[lord]N
+aemw/amarna/P271196,EA 239. Evil talk [vassal letter],010,akk-x-mbperi:bašû[be(come)-at-hand]V
+aemw/amarna/P271196,EA 239. Evil talk [vassal letter],011,akk-x-mbperi:adi[until]PRP akk-x-mbperi:waṣû[go-out]V
+aemw/amarna/P271196,EA 239. Evil talk [vassal letter],012,akk-x-mbperi:rabû[big-one]N akk-x-mbperi:u[and]CNJ
+aemw/amarna/P271196,EA 239. Evil talk [vassal letter],013,akk-x-mbperi:leqû[take]V
+aemw/amarna/P271196,EA 239. Evil talk [vassal letter],014,akk-x-mbperi:mimma[anything]XP
+aemw/amarna/P271196,EA 239. Evil talk [vassal letter],015,akk-x-mbperi:ša[that]REL akk-x-mbperi:qabû[say]V
+aemw/amarna/P271196,EA 239. Evil talk [vassal letter],016,akk-x-mbperi:šarru[king]N
+aemw/amarna/P271196,EA 239. Evil talk [vassal letter],017,akk-x-mbperi:bēlu[lord]N
+aemw/amarna/P271196,EA 239. Evil talk [vassal letter],018,akk-x-mbperi:amāru[see]V akk-x-mbperi:nīnu[we]IP
+aemw/amarna/P271196,EA 239. Evil talk [vassal letter],019,akk-x-mbperi:wardu[slave]N akk-x-mbperi:šarru[king]N
+aemw/amarna/P271196,EA 239. Evil talk [vassal letter],020,akk-x-mbperi:u[and]CNJ akk-x-mbperi:waṣû[go-out]V
+aemw/amarna/P271196,EA 239. Evil talk [vassal letter],021,akk-x-mbperi:rabû[big-one]N akk-x-mbperi:u[and]CNJ
+aemw/amarna/P271196,EA 239. Evil talk [vassal letter],022,akk-x-mbperi:edû[know]V
+aemw/amarna/P271196,EA 239. Evil talk [vassal letter],023,akk-x-mbperi:arnu[guilt]N akk-x-mbperi:inūma[when]SBJ
+aemw/amarna/P271196,EA 239. Evil talk [vassal letter],024,akk-x-mbperi:lemnu[bad-thing]N
+aemw/amarna/P271196,EA 239. Evil talk [vassal letter],025,akk-x-mbperi:wardu[slave]N
+aemw/amarna/P271196,EA 239. Evil talk [vassal letter],026,akk-x-mbperi:ina[in]PRP akk-x-mbperi:pānu[front]N

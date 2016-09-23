@@ -1,0 +1,27 @@
+id_text,text_name,l_no,text
+saao/saa15/P334111,SAA 15 053. Horses from Parsua (ABL 0165),o 1,ana[to]PRP šarru[king]N bēlu[lord]N
+saao/saa15/P334111,SAA 15 053. Horses from Parsua (ABL 0165),o 2,ardu[slave]N Nabu-remanni[1]PN
+saao/saa15/P334111,SAA 15 053. Horses from Parsua (ABL 0165),o 3,lū[may]MOD šulmu[completeness]N ana[to]PRP šarru[king]N bēlu[lord]N
+saao/saa15/P334111,SAA 15 053. Horses from Parsua (ABL 0165),o 4,māru[son]N šipru[sending]N ištu[from]PRP Parsua[1]GN
+saao/saa15/P334111,SAA 15 053. Horses from Parsua (ABL 0165),o 5,ina[in]PRP irtu[breast]N alāku[go]V
+saao/saa15/P334111,SAA 15 053. Horses from Parsua (ABL 0165),o 6,mā[saying]PRP Zalipaya[Zalipaean]EN
+saao/saa15/P334111,SAA 15 053. Horses from Parsua (ABL 0165),o 7,aṣû[go-out]V
+saao/saa15/P334111,SAA 15 053. Horses from Parsua (ABL 0165),o 8,mā[saying]PRP meʾatu[(one)-hundred]NU sisû[horse]N
+saao/saa15/P334111,SAA 15 053. Horses from Parsua (ABL 0165),o 9,ina[in]PRP qātu[hand]N aṣû[go-out]V
+saao/saa15/P334111,SAA 15 053. Horses from Parsua (ABL 0165),o 10,mā[saying]PRP ṣābu[people]N
+saao/saa15/P334111,SAA 15 053. Horses from Parsua (ABL 0165),o 11,ištu[from]PRP libbu[interior]N
+saao/saa15/P334111,SAA 15 053. Horses from Parsua (ABL 0165),b.e. 12,ana[to]PRP madbaru[steppe]N
+saao/saa15/P334111,SAA 15 053. Horses from Parsua (ABL 0165),b.e. 13,halāqu[be(come)-lost]V
+saao/saa15/P334111,SAA 15 053. Horses from Parsua (ABL 0165),r 1,alāku[go]V
+saao/saa15/P334111,SAA 15 053. Horses from Parsua (ABL 0165),r 2,ina[in]PRP Nikkur[1]GN qabû[say]V
+saao/saa15/P334111,SAA 15 053. Horses from Parsua (ABL 0165),r 3,mā[saying]PRP sisû[horse]N ištu[from]PRP mātu[land]N
+saao/saa15/P334111,SAA 15 053. Horses from Parsua (ABL 0165),r 4,aṣû[go-out]V mā[saying]PRP Mannaya[Mannean]EN
+saao/saa15/P334111,SAA 15 053. Horses from Parsua (ABL 0165),r 5,ina[in]PRP qabaltu[middle]N mātu[land]N kalû[hold-(back)]V
+saao/saa15/P334111,SAA 15 053. Horses from Parsua (ABL 0165),r 6,annûri[now]AV ana[to]PRP šarru[king]N bēlu[lord]N
+saao/saa15/P334111,SAA 15 053. Horses from Parsua (ABL 0165),r 7,šapāru[send]V
+saao/saa15/P334111,SAA 15 053. Horses from Parsua (ABL 0165),r 8,šarru[king]N bēlu[lord]N ša-qurbūti[close-follower]N
+saao/saa15/P334111,SAA 15 053. Horses from Parsua (ABL 0165),r 9,šapāru[send]V ša[that]REL pû[mouth]N
+saao/saa15/P334111,SAA 15 053. Horses from Parsua (ABL 0165),r 10,ša[of]DET Zalipaya[Zalipaean]EN
+saao/saa15/P334111,SAA 15 053. Horses from Parsua (ABL 0165),r 11,šemû[hear]V issurri[perhaps]AV sisû[horse]N
+saao/saa15/P334111,SAA 15 053. Horses from Parsua (ABL 0165),r 12,aṣû[go-out]V anāku[I]IP
+saao/saa15/P334111,SAA 15 053. Horses from Parsua (ABL 0165),r.e. 13,batqu[cut-(off)]AJ ša[of]DET šarru[king]N bēlu[lord]N

@@ -1,0 +1,33 @@
+id_text,text_name,l_no,text
+saao/saa10/P313705,SAA 10 327. List of Remedies (ABL 1157+) [from physicians],o 1,napšaštu[ointment]V ša[of]DET saharšubbû[leprosy]N
+saao/saa10/P313705,SAA 10 327. List of Remedies (ABL 1157+) [from physicians],o 2,uznu[ear]N marṣu[sick]AJ
+saao/saa10/P313705,SAA 10 327. List of Remedies (ABL 1157+) [from physicians],o 3,šimmatu[paralysis]N
+saao/saa10/P313705,SAA 10 327. List of Remedies (ABL 1157+) [from physicians],o 4,ša[of]DET uznu[ear]N
+saao/saa10/P313705,SAA 10 327. List of Remedies (ABL 1157+) [from physicians],o 5,qalītu[parched-grain]N
+saao/saa10/P313705,SAA 10 327. List of Remedies (ABL 1157+) [from physicians],o 6,epēšu[do]V
+saao/saa10/P313705,SAA 10 327. List of Remedies (ABL 1157+) [from physicians],o 2',rašû[acquire]V
+saao/saa10/P313705,SAA 10 327. List of Remedies (ABL 1157+) [from physicians],o 3',bulṭu[life]N
+saao/saa10/P313705,SAA 10 327. List of Remedies (ABL 1157+) [from physicians],o 7',napšaštu[ointment]V
+saao/saa10/P313705,SAA 10 327. List of Remedies (ABL 1157+) [from physicians],o 8',u[and]CNJ nēpešu[activity]N
+saao/saa10/P313705,SAA 10 327. List of Remedies (ABL 1157+) [from physicians],o 9',bulṭu[life]N ša[of]DET
+saao/saa10/P313705,SAA 10 327. List of Remedies (ABL 1157+) [from physicians],o 10',napšaštu[ointment]V
+saao/saa10/P313705,SAA 10 327. List of Remedies (ABL 1157+) [from physicians],o 11',u[and]CNJ nēpešu[activity]N
+saao/saa10/P313705,SAA 10 327. List of Remedies (ABL 1157+) [from physicians],o 12',bulṭu[life]N ša[of]DET
+saao/saa10/P313705,SAA 10 327. List of Remedies (ABL 1157+) [from physicians],o 13',napšaštu[ointment]V
+saao/saa10/P313705,SAA 10 327. List of Remedies (ABL 1157+) [from physicians],o 14',u[and]CNJ nēpešu[activity]N
+saao/saa10/P313705,SAA 10 327. List of Remedies (ABL 1157+) [from physicians],b.e. 15',napšaštu[ointment]V ša[of]DET saharšubbû[leprosy]N
+saao/saa10/P313705,SAA 10 327. List of Remedies (ABL 1157+) [from physicians],r 1,ša[of]DET šaplu[underside]N šēpu[foot]N
+saao/saa10/P313705,SAA 10 327. List of Remedies (ABL 1157+) [from physicians],r 2,u[and]CNJ īnu[eye]N
+saao/saa10/P313705,SAA 10 327. List of Remedies (ABL 1157+) [from physicians],r 3,bulṭu[life]N ša[of]DET kalītu[kidney]N
+saao/saa10/P313705,SAA 10 327. List of Remedies (ABL 1157+) [from physicians],r 4,awīlu[man]N ahu[arm]N ša[of]DET imittu[right-side]N
+saao/saa10/P313705,SAA 10 327. List of Remedies (ABL 1157+) [from physicians],r 5,awīlu[man]N ahu[arm]N ša[of]DET šumēlu[left-side]N
+saao/saa10/P313705,SAA 10 327. List of Remedies (ABL 1157+) [from physicians],r 6,ša[of]DET kalû[totality]N šīru[flesh]N
+saao/saa10/P313705,SAA 10 327. List of Remedies (ABL 1157+) [from physicians],r 7,nēpešu[activity]N
+saao/saa10/P313705,SAA 10 327. List of Remedies (ABL 1157+) [from physicians],r 13,mâtu[die]V napšaštu[ointment]N
+saao/saa10/P313705,SAA 10 327. List of Remedies (ABL 1157+) [from physicians],r 14,qutāru[incense]N mašqītu[watering-place]N
+saao/saa10/P313705,SAA 10 327. List of Remedies (ABL 1157+) [from physicians],r 15,ša[of]DET šugummû[buzzing]N uznu[ear]N
+saao/saa10/P313705,SAA 10 327. List of Remedies (ABL 1157+) [from physicians],r 16,qutāru[incense]N ša[of]DET šiptu[incantation]N
+saao/saa10/P313705,SAA 10 327. List of Remedies (ABL 1157+) [from physicians],r 17,qutāru[incense]N dannu[strong]AJ
+saao/saa10/P313705,SAA 10 327. List of Remedies (ABL 1157+) [from physicians],r 18,šiltāhu[arrow]N hurāṣu[gold]N
+saao/saa10/P313705,SAA 10 327. List of Remedies (ABL 1157+) [from physicians],r 19,hurāṣu[gold]N
+saao/saa10/P313705,SAA 10 327. List of Remedies (ABL 1157+) [from physicians],e. 1,kapāru[wipe-(clean)]V pû[mouth]N napšaštu[ointment]V ša[of]DET kadabbedû[aphasia]N u[and]CNJ nēpešu[activity]N

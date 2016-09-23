@@ -1,16 +1,16 @@
 id_text,text_name,l_no,text
-aemw/amarna/P271147,EA 080. A lost message [vassal letter],012,
-aemw/amarna/P271147,EA 080. A lost message [vassal letter],013,
-aemw/amarna/P271147,EA 080. A lost message [vassal letter],014,
-aemw/amarna/P271147,EA 080. A lost message [vassal letter],015,
-aemw/amarna/P271147,EA 080. A lost message [vassal letter],016,
-aemw/amarna/P271147,EA 080. A lost message [vassal letter],017,
-aemw/amarna/P271147,EA 080. A lost message [vassal letter],018,
-aemw/amarna/P271147,EA 080. A lost message [vassal letter],019,Abdi-Aširte[1]PN
-aemw/amarna/P271147,EA 080. A lost message [vassal letter],020,
-aemw/amarna/P271147,EA 080. A lost message [vassal letter],021,
-aemw/amarna/P271147,EA 080. A lost message [vassal letter],029,
-aemw/amarna/P271147,EA 080. A lost message [vassal letter],030,
-aemw/amarna/P271147,EA 080. A lost message [vassal letter],031,Šamaš[1]DN
-aemw/amarna/P271147,EA 080. A lost message [vassal letter],032,
-aemw/amarna/P271147,EA 080. A lost message [vassal letter],033,
+aemw/amarna/P271147,EA 080. A lost message [vassal letter],012,akk-x-mbperi:yâšim[to-me]IP
+aemw/amarna/P271147,EA 080. A lost message [vassal letter],013,akk-x-mbperi:u[and]CNJ
+aemw/amarna/P271147,EA 080. A lost message [vassal letter],014,akk-x-mbperi:ina[in]PRP akk-x-mbperi:ṭuppu[(clay)-tablet]N
+aemw/amarna/P271147,EA 080. A lost message [vassal letter],015,akk-x-mbperi:šapru[sent]AJ akk-x-mbperi:ana[to]PRP akk-x-mbperi:kâti[you]IP
+aemw/amarna/P271147,EA 080. A lost message [vassal letter],016,akk-x-mbperi:šapāru[send]V
+aemw/amarna/P271147,EA 080. A lost message [vassal letter],017,akk-x-mbperi:wardu[slave]N akk-x-mbperi:kittu[steadiness]N
+aemw/amarna/P271147,EA 080. A lost message [vassal letter],018,akk-x-mbperi:u[and]CNJ akk-x-mbperi:leqû[take]V
+aemw/amarna/P271147,EA 080. A lost message [vassal letter],019,akk-x-mbperi:Abdi-Aširte[1]PN akk-x-mbperi:u[and]CNJ akk-x-mbperi:šapru[sent]AJ
+aemw/amarna/P271147,EA 080. A lost message [vassal letter],020,akk-x-mbperi:ana[to]PRP akk-x-mbperi:kâti[you]IP akk-x-mbperi:wašāru[sink-down]V akk-x-mbperi:meʾatu[(one)-hundred]N
+aemw/amarna/P271147,EA 080. A lost message [vassal letter],021,akk-x-mbperi:awīlu[man]N akk-x-mbperi:ana[to]PRP akk-x-mbperi:yâšim[to-me]IP akk-x-mbperi:šanītu[something-other]N
+aemw/amarna/P271147,EA 080. A lost message [vassal letter],029,akk-x-mbperi:u[and]CNJ
+aemw/amarna/P271147,EA 080. A lost message [vassal letter],030,akk-x-mbperi:leqû[take]V akk-x-mbperi:ana[to]PRP akk-x-mbperi:pānu[front]N
+aemw/amarna/P271147,EA 080. A lost message [vassal letter],031,akk-x-mbperi:attā[you]IP akk-x-mbperi:šarru[king]N akk-x-mbperi:Šamaš[1]DN akk-x-mbperi:bēlu[lord]N
+aemw/amarna/P271147,EA 080. A lost message [vassal letter],032,akk-x-mbperi:u[and]CNJ akk-x-mbperi:attā[you]IP akk-x-mbperi:balāṭu[live]V akk-x-mbperi:ana[to]PRP
+aemw/amarna/P271147,EA 080. A lost message [vassal letter],033,akk-x-mbperi:wardu[slave]N akk-x-mbperi:kittu[steadiness]N akk-x-mbperi:u[and]CNJ akk-x-mbperi:ṣābu[people]N

@@ -1,24 +1,24 @@
 id_text,text_name,l_no,text
-aemw/amarna/P271004,EA 322. Listening carefully (3) [vassal letter],001,
-aemw/amarna/P271004,EA 322. Listening carefully (3) [vassal letter],002,Šamaš[1]DN Šamaš[1]DN
-aemw/amarna/P271004,EA 322. Listening carefully (3) [vassal letter],003,
-aemw/amarna/P271004,EA 322. Listening carefully (3) [vassal letter],004,Yidya[1]PN
-aemw/amarna/P271004,EA 322. Listening carefully (3) [vassal letter],005,Ašqaluna[Ashkelon]GN
-aemw/amarna/P271004,EA 322. Listening carefully (3) [vassal letter],006,
-aemw/amarna/P271004,EA 322. Listening carefully (3) [vassal letter],007,
-aemw/amarna/P271004,EA 322. Listening carefully (3) [vassal letter],008,
-aemw/amarna/P271004,EA 322. Listening carefully (3) [vassal letter],009,
-aemw/amarna/P271004,EA 322. Listening carefully (3) [vassal letter],010,Šamaš[1]DN
-aemw/amarna/P271004,EA 322. Listening carefully (3) [vassal letter],011,
-aemw/amarna/P271004,EA 322. Listening carefully (3) [vassal letter],012,
-aemw/amarna/P271004,EA 322. Listening carefully (3) [vassal letter],013,
-aemw/amarna/P271004,EA 322. Listening carefully (3) [vassal letter],014,
-aemw/amarna/P271004,EA 322. Listening carefully (3) [vassal letter],015,
-aemw/amarna/P271004,EA 322. Listening carefully (3) [vassal letter],016,
-aemw/amarna/P271004,EA 322. Listening carefully (3) [vassal letter],017,
-aemw/amarna/P271004,EA 322. Listening carefully (3) [vassal letter],018,
-aemw/amarna/P271004,EA 322. Listening carefully (3) [vassal letter],019,
-aemw/amarna/P271004,EA 322. Listening carefully (3) [vassal letter],020,
-aemw/amarna/P271004,EA 322. Listening carefully (3) [vassal letter],021,
-aemw/amarna/P271004,EA 322. Listening carefully (3) [vassal letter],022,
-aemw/amarna/P271004,EA 322. Listening carefully (3) [vassal letter],023,Šamaš[1]DN
+aemw/amarna/P271004,EA 322. Listening carefully (3) [vassal letter],001,akk-x-mbperi:ana[to]PRP akk-x-mbperi:šarru[king]N akk-x-mbperi:bēlu[lord]N akk-x-mbperi:ilu[god]N
+aemw/amarna/P271004,EA 322. Listening carefully (3) [vassal letter],002,akk-x-mbperi:Šamaš[1]DN akk-x-mbperi:Šamaš[1]DN akk-x-mbperi:ša[that]REL
+aemw/amarna/P271004,EA 322. Listening carefully (3) [vassal letter],003,akk-x-mbperi:ištu[from]PRP akk-x-mbperi:šamû[sky]N akk-x-mbperi:šamû[sky]N
+aemw/amarna/P271004,EA 322. Listening carefully (3) [vassal letter],004,akk-x-mbperi:umma[saying]PRP akk-x-mbperi:Yidya[1]PN akk-x-mbperi:awīlu[man]N
+aemw/amarna/P271004,EA 322. Listening carefully (3) [vassal letter],005,akk-x-mbperi:ša[of]DET akk-x-mbperi:Ašqaluna[Ashkelon]GN
+aemw/amarna/P271004,EA 322. Listening carefully (3) [vassal letter],006,akk-x-mbperi:wardu[slave]N akk-x-mbperi:eperu[earth]N akk-x-mbperi:ša[of]DET
+aemw/amarna/P271004,EA 322. Listening carefully (3) [vassal letter],007,akk-x-mbperi:šēpu[foot]N
+aemw/amarna/P271004,EA 322. Listening carefully (3) [vassal letter],008,akk-x-mbperi:kartappu[(animal)-driver]N akk-x-mbperi:ša[of]DET akk-x-mbperi:sisû[horse]N
+aemw/amarna/P271004,EA 322. Listening carefully (3) [vassal letter],009,akk-x-mbperi:ana[to]PRP akk-x-mbperi:šēpu[foot]N akk-x-mbperi:šarru[king]N akk-x-mbperi:bēlu[lord]N
+aemw/amarna/P271004,EA 322. Listening carefully (3) [vassal letter],010,akk-x-mbperi:Šamaš[1]DN akk-x-mbperi:ša[that]REL akk-x-mbperi:ištu[from]PRP akk-x-mbperi:šamû[sky]N akk-x-mbperi:šamû[sky]N
+aemw/amarna/P271004,EA 322. Listening carefully (3) [vassal letter],011,akk-x-mbperi:u[and]CNJ
+aemw/amarna/P271004,EA 322. Listening carefully (3) [vassal letter],012,akk-x-mbperi:lū[indeed]MOD akk-x-mbperi:šukênu[prostrate-oneself]V
+aemw/amarna/P271004,EA 322. Listening carefully (3) [vassal letter],013,akk-x-mbperi:kabattu[liver]N
+aemw/amarna/P271004,EA 322. Listening carefully (3) [vassal letter],014,akk-x-mbperi:u[and]CNJ akk-x-mbperi:ṣēru[back]N
+aemw/amarna/P271004,EA 322. Listening carefully (3) [vassal letter],015,akk-x-mbperi:anumma[now]AV akk-x-mbperi:naṣāru[guard]V
+aemw/amarna/P271004,EA 322. Listening carefully (3) [vassal letter],016,akk-x-mbperi:ašru[place]N akk-x-mbperi:šarru[king]N akk-x-mbperi:ša[that]REL akk-x-mbperi:itti[with]PRP
+aemw/amarna/P271004,EA 322. Listening carefully (3) [vassal letter],017,akk-x-mbperi:u[and]CNJ akk-x-mbperi:mannu[who?]QP akk-x-mbperi:kalbu[dog]N
+aemw/amarna/P271004,EA 322. Listening carefully (3) [vassal letter],018,akk-x-mbperi:ša[that]REL akk-x-mbperi:lā[not]MOD akk-x-mbperi:šemû[hear]V
+aemw/amarna/P271004,EA 322. Listening carefully (3) [vassal letter],019,akk-x-mbperi:ana[to]PRP akk-x-mbperi:rābiṣu[bailiff]N akk-x-mbperi:šarru[king]N
+aemw/amarna/P271004,EA 322. Listening carefully (3) [vassal letter],020,akk-x-mbperi:anumma[now]AV akk-x-mbperi:šemû[hear]V
+aemw/amarna/P271004,EA 322. Listening carefully (3) [vassal letter],021,akk-x-mbperi:magal[very-(much)]AV akk-x-mbperi:magal[very-(much)]AV
+aemw/amarna/P271004,EA 322. Listening carefully (3) [vassal letter],022,akk-x-mbperi:ana[to]PRP akk-x-mbperi:rābiṣu[bailiff]N akk-x-mbperi:ša[of]DET akk-x-mbperi:šarru[king]N
+aemw/amarna/P271004,EA 322. Listening carefully (3) [vassal letter],023,akk-x-mbperi:bēlu[lord]N akk-x-mbperi:māru[son]N akk-x-mbperi:Šamaš[1]DN

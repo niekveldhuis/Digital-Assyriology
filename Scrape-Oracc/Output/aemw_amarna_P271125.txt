@@ -1,10 +1,10 @@
 id_text,text_name,l_no,text
-aemw/amarna/P271125,EA 222. Giving all [vassal letter],001,
-aemw/amarna/P271125,EA 222. Giving all [vassal letter],002,
-aemw/amarna/P271125,EA 222. Giving all [vassal letter],003,Yiqdasu[1]PN
-aemw/amarna/P271125,EA 222. Giving all [vassal letter],004,
-aemw/amarna/P271125,EA 222. Giving all [vassal letter],006,
-aemw/amarna/P271125,EA 222. Giving all [vassal letter],007,
-aemw/amarna/P271125,EA 222. Giving all [vassal letter],008,
-aemw/amarna/P271125,EA 222. Giving all [vassal letter],009,
-aemw/amarna/P271125,EA 222. Giving all [vassal letter],010,
+aemw/amarna/P271125,EA 222. Giving all [vassal letter],001,akk-x-mbperi:ana[to]PRP akk-x-mbperi:šarru[king]N akk-x-mbperi:bēlu[lord]N
+aemw/amarna/P271125,EA 222. Giving all [vassal letter],002,akk-x-mbperi:qabû[say]V
+aemw/amarna/P271125,EA 222. Giving all [vassal letter],003,akk-x-mbperi:umma[saying]PRP akk-x-mbperi:Yiqdasu[1]PN
+aemw/amarna/P271125,EA 222. Giving all [vassal letter],004,akk-x-mbperi:ana[to]PRP akk-x-mbperi:šēpu[foot]N akk-x-mbperi:šarru[king]N akk-x-mbperi:bēlu[lord]N
+aemw/amarna/P271125,EA 222. Giving all [vassal letter],006,akk-x-mbperi:šukênu[prostrate-oneself]V akk-x-mbperi:inūma[when]SBJ
+aemw/amarna/P271125,EA 222. Giving all [vassal letter],007,akk-x-mbperi:šapru[sent]AJ akk-x-mbperi:šarru[king]N akk-x-mbperi:bēlu[lord]N
+aemw/amarna/P271125,EA 222. Giving all [vassal letter],008,akk-x-mbperi:ana[to]PRP akk-x-mbperi:yâšim[to-me]IP akk-x-mbperi:anumma[now]AV
+aemw/amarna/P271125,EA 222. Giving all [vassal letter],009,akk-x-mbperi:ša[that]REL akk-x-mbperi:bašû[be(come)-at-hand]V akk-x-mbperi:itti[with]PRP
+aemw/amarna/P271125,EA 222. Giving all [vassal letter],010,akk-x-mbperi:nadnu[given]AJ

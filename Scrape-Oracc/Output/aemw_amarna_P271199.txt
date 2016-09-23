@@ -1,14 +1,14 @@
 id_text,text_name,l_no,text
-aemw/amarna/P271199,EA 156. Aziru of Amurru [vassal letter],001,Šamaš[1]DN
-aemw/amarna/P271199,EA 156. Aziru of Amurru [vassal letter],002,Aziru[1]PN
-aemw/amarna/P271199,EA 156. Aziru of Amurru [vassal letter],003,
-aemw/amarna/P271199,EA 156. Aziru of Amurru [vassal letter],004,
-aemw/amarna/P271199,EA 156. Aziru of Amurru [vassal letter],005,
-aemw/amarna/P271199,EA 156. Aziru of Amurru [vassal letter],006,Šamaš[1]DN
-aemw/amarna/P271199,EA 156. Aziru of Amurru [vassal letter],007,
-aemw/amarna/P271199,EA 156. Aziru of Amurru [vassal letter],008,
-aemw/amarna/P271199,EA 156. Aziru of Amurru [vassal letter],009,
-aemw/amarna/P271199,EA 156. Aziru of Amurru [vassal letter],010,
-aemw/amarna/P271199,EA 156. Aziru of Amurru [vassal letter],011,
-aemw/amarna/P271199,EA 156. Aziru of Amurru [vassal letter],012,
-aemw/amarna/P271199,EA 156. Aziru of Amurru [vassal letter],013,
+aemw/amarna/P271199,EA 156. Aziru of Amurru [vassal letter],001,akk-x-mbperi:ana[to]PRP akk-x-mbperi:šarru[king]N akk-x-mbperi:bēlu[lord]N akk-x-mbperi:ilu[god]N akk-x-mbperi:Šamaš[1]DN
+aemw/amarna/P271199,EA 156. Aziru of Amurru [vassal letter],002,akk-x-mbperi:umma[saying]PRP akk-x-mbperi:Aziru[1]PN akk-x-mbperi:wardu[slave]N
+aemw/amarna/P271199,EA 156. Aziru of Amurru [vassal letter],003,akk-x-mbperi:u[and]CNJ akk-x-mbperi:ana[to]PRP akk-x-mbperi:šēpu[foot]N akk-x-mbperi:bēlu[lord]N akk-x-mbperi:maqātu[fall]V
+aemw/amarna/P271199,EA 156. Aziru of Amurru [vassal letter],004,akk-x-mbperi:anumma[now]AV akk-x-mbperi:mēreštu[wish]N
+aemw/amarna/P271199,EA 156. Aziru of Amurru [vassal letter],005,akk-x-mbperi:ša[that]REL akk-x-mbperi:erēšu[request]V
+aemw/amarna/P271199,EA 156. Aziru of Amurru [vassal letter],006,akk-x-mbperi:Šamaš[1]DN akk-x-mbperi:bēlu[lord]N akk-x-mbperi:anāku[I]IP akk-x-mbperi:wardu[slave]N
+aemw/amarna/P271199,EA 156. Aziru of Amurru [vassal letter],007,akk-x-mbperi:adi[until]PRP akk-x-mbperi:dārītu[perpetuity]N
+aemw/amarna/P271199,EA 156. Aziru of Amurru [vassal letter],008,akk-x-mbperi:u[and]CNJ akk-x-mbperi:māru[son]N akk-x-mbperi:wardu[slave]N
+aemw/amarna/P271199,EA 156. Aziru of Amurru [vassal letter],009,akk-x-mbperi:anumma[now]AV akk-x-mbperi:ṣehru[small-one]N
+aemw/amarna/P271199,EA 156. Aziru of Amurru [vassal letter],010,akk-x-mbperi:nadānu[give]V akk-x-mbperi:māru[son]N
+aemw/amarna/P271199,EA 156. Aziru of Amurru [vassal letter],011,akk-x-mbperi:u[and]CNJ akk-x-mbperi:epēšu[do]V akk-x-mbperi:gabbu[totality]N
+aemw/amarna/P271199,EA 156. Aziru of Amurru [vassal letter],012,akk-x-mbperi:ša[that]REL akk-x-mbperi:qabû[say]V akk-x-mbperi:bēlu[lord]N
+aemw/amarna/P271199,EA 156. Aziru of Amurru [vassal letter],013,akk-x-mbperi:u[and]CNJ akk-x-mbperi:wašāru[sink-down]V akk-x-mbperi:bēlu[lord]N

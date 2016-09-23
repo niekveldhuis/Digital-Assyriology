@@ -1,0 +1,46 @@
+id_text,text_name,l_no,text
+saao/saa19/P224436,SAA 19 147. Sedition in Dilbat (CTN 5 p. 70 and p. 276),o 1,ṭuppu[tablet]N ana[to]PRP šarru[king]N bēlu[lord]N
+saao/saa19/P224436,SAA 19 147. Sedition in Dilbat (CTN 5 p. 70 and p. 276),o 2,šarru[king]N bēlu[lord]N kalû[hold-(back)]V
+saao/saa19/P224436,SAA 19 147. Sedition in Dilbat (CTN 5 p. 70 and p. 276),o 3,ultu[from]PRP ina[in]PRP pānu[front]N paqdu[entrusted]AJ
+saao/saa19/P224436,SAA 19 147. Sedition in Dilbat (CTN 5 p. 70 and p. 276),o 4,mimma[anything]XP mala[as-much-as]REL amāru[see]V
+saao/saa19/P224436,SAA 19 147. Sedition in Dilbat (CTN 5 p. 70 and p. 276),o 5,šemû[hear]V ana[to]PRP yāši[to-me]IP qabû[say]V
+saao/saa19/P224436,SAA 19 147. Sedition in Dilbat (CTN 5 p. 70 and p. 276),o 6,enna[now]AV ša[that]REL ana[to]PRP liwītu[packaging]N ašbu[inhabited]AJ
+saao/saa19/P224436,SAA 19 147. Sedition in Dilbat (CTN 5 p. 70 and p. 276),o 7,qabû[say]V umma[saying]PRP sīhu[rebellion]N epēšu[do]V
+saao/saa19/P224436,SAA 19 147. Sedition in Dilbat (CTN 5 p. 70 and p. 276),o 8,akī[as;-like]PRP ša[that]REL īnu[eye]N
+saao/saa19/P224436,SAA 19 147. Sedition in Dilbat (CTN 5 p. 70 and p. 276),o 9,šarru[king]N bēlu[lord]N ana[to]PRP šarru[king]N qabû[say]V
+saao/saa19/P224436,SAA 19 147. Sedition in Dilbat (CTN 5 p. 70 and p. 276),o 10,wadû[know]V ana[to]PRP muhhu[skull]N annû[this]DP kī[like]PRP zêru[hate]V
+saao/saa19/P224436,SAA 19 147. Sedition in Dilbat (CTN 5 p. 70 and p. 276),o 11,umma[saying]PRP šemû[hear]V umma[saying]PRP atta[you]IP
+saao/saa19/P224436,SAA 19 147. Sedition in Dilbat (CTN 5 p. 70 and p. 276),o 12,akkāʾi[how?]QP šēpītu[foot]N šarru[king]N ša[that]REL ṣabātu[seize]V
+saao/saa19/P224436,SAA 19 147. Sedition in Dilbat (CTN 5 p. 70 and p. 276),o 13,ašāru[sink-down]V šēpītu[foot]N ṣabātu[seize]V
+saao/saa19/P224436,SAA 19 147. Sedition in Dilbat (CTN 5 p. 70 and p. 276),o 14,kittu[truth]N ša[that]REL mala[as-much-as]REL nuhatimmu[cook]N
+saao/saa19/P224436,SAA 19 147. Sedition in Dilbat (CTN 5 p. 70 and p. 276),o 15,ša[of]DET šarru[king]N bēlu[lord]N maṣû[corresponding]AJ ana[to]PRP muhhu[skull]N šarrūtu[kingship]N
+saao/saa19/P224436,SAA 19 147. Sedition in Dilbat (CTN 5 p. 70 and p. 276),o 16,dabābu[speak]V mātu[land]N ša[of]DET šarru[king]N la-qāt[from-the-hand]N šarru[king]N
+saao/saa19/P224436,SAA 19 147. Sedition in Dilbat (CTN 5 p. 70 and p. 276),o 17,elû[go-up]V u[and]CNJ lū[may]MOD awīlu[man]N sukkuku[deaf]AJ
+saao/saa19/P224436,SAA 19 147. Sedition in Dilbat (CTN 5 p. 70 and p. 276),o 18,enna[now]AV ana[to]PRP šarru[king]N bēlu[lord]N šapāru[send]V
+saao/saa19/P224436,SAA 19 147. Sedition in Dilbat (CTN 5 p. 70 and p. 276),o 19,šarru[king]N lā[not]MOD ašāru[sink-down]V napištu[throat]N šarru[king]N qabû[say]V
+saao/saa19/P224436,SAA 19 147. Sedition in Dilbat (CTN 5 p. 70 and p. 276),o 20,arratu[curse]N šarru[king]N qabû[say]V umma[saying]PRP ša[that]REL ana[to]PRP šarru[king]N
+saao/saa19/P224436,SAA 19 147. Sedition in Dilbat (CTN 5 p. 70 and p. 276),o 21,bēlu[lord]N haṭû[do-wrong]V kī[like]PRP ašāru[sink-down]V mītu[dead]AJ
+saao/saa19/P224436,SAA 19 147. Sedition in Dilbat (CTN 5 p. 70 and p. 276),o 22,ana[to]PRP mīnu[what?]QP māru[son]N šipru[sending]N ana[to]PRP šarru[king]N bēlu[lord]N šapāru[send]V
+saao/saa19/P224436,SAA 19 147. Sedition in Dilbat (CTN 5 p. 70 and p. 276),o 23,māru[son]N šipru[sending]N ša[of]DET šarru[king]N bēlu[lord]N ul[not]MOD amāru[see]V
+saao/saa19/P224436,SAA 19 147. Sedition in Dilbat (CTN 5 p. 70 and p. 276),r 1',bēlu[lord]N
+saao/saa19/P224436,SAA 19 147. Sedition in Dilbat (CTN 5 p. 70 and p. 276),r 2',ṣabātu[seize]V
+saao/saa19/P224436,SAA 19 147. Sedition in Dilbat (CTN 5 p. 70 and p. 276),r 3',ul[not]MOD
+saao/saa19/P224436,SAA 19 147. Sedition in Dilbat (CTN 5 p. 70 and p. 276),r 5',ṣābu[people]N ana[to]PRP
+saao/saa19/P224436,SAA 19 147. Sedition in Dilbat (CTN 5 p. 70 and p. 276),r 6',u[and]CNJ
+saao/saa19/P224436,SAA 19 147. Sedition in Dilbat (CTN 5 p. 70 and p. 276),r 7',alāku[go]V ištu[from]PRP adi[until]PRP muhhu[skull]N enna[now]AV
+saao/saa19/P224436,SAA 19 147. Sedition in Dilbat (CTN 5 p. 70 and p. 276),r 8',kī[like]PRP šapāru[send]V Dilbat[1]GN ṣēru[back]N habātu[rob]V
+saao/saa19/P224436,SAA 19 147. Sedition in Dilbat (CTN 5 p. 70 and p. 276),r 9',u[and]CNJ ištēn[one]NU habbātu[plunderer]N ša[of]DET šarru[king]N akī[as;-like]PRP nakru[enemy]N
+saao/saa19/P224436,SAA 19 147. Sedition in Dilbat (CTN 5 p. 70 and p. 276),r 10',ša[that]REL ana[to]PRP ṣēru[back]N
+saao/saa19/P224436,SAA 19 147. Sedition in Dilbat (CTN 5 p. 70 and p. 276),r 11',aṣû[go-out]V ištēn[one]NU
+saao/saa19/P224436,SAA 19 147. Sedition in Dilbat (CTN 5 p. 70 and p. 276),r 12',ana[to]PRP bītu[house]N epinnu[(seed)-plough]N palāšu[perforate]V meʾatu[(one)-hundred]NU Dilbataya[Dilbatean]EN
+saao/saa19/P224436,SAA 19 147. Sedition in Dilbat (CTN 5 p. 70 and p. 276),r 13',kurummatu[ration]N ša[of]DET šattu[year]N ištu[from]PRP muhhu[skull]N ebūru[harvest]N
+saao/saa19/P224436,SAA 19 147. Sedition in Dilbat (CTN 5 p. 70 and p. 276),r 14',u[and]CNJ manû[unit]N kaspu[silver]N habātu[rob]V adû[now]AV
+saao/saa19/P224436,SAA 19 147. Sedition in Dilbat (CTN 5 p. 70 and p. 276),r 15',erēšu[sow]V ul[not]MOD ana[to]PRP ṣēru[back]N ul[not]MOD aṣû[go-out]V
+saao/saa19/P224436,SAA 19 147. Sedition in Dilbat (CTN 5 p. 70 and p. 276),r 16',šū[he]IP akalu[bread]N ša[of]DET šattu[year]N annû[this]DP našû[lift]V
+saao/saa19/P224436,SAA 19 147. Sedition in Dilbat (CTN 5 p. 70 and p. 276),r 17',u[and]CNJ ina[in]PRP muhhu[skull]N ul[not]MOD ašāru[sink-down]V
+saao/saa19/P224436,SAA 19 147. Sedition in Dilbat (CTN 5 p. 70 and p. 276),r 18',zēru[seed(s)]N ul[not]MOD erēšu[sow]V
+saao/saa19/P224436,SAA 19 147. Sedition in Dilbat (CTN 5 p. 70 and p. 276),r 19',ša[that]REL sīhu[rebellion]N ana[to]PRP muhhu[skull]N šarru[king]N bēlu[lord]N epēšu[do]V
+saao/saa19/P224436,SAA 19 147. Sedition in Dilbat (CTN 5 p. 70 and p. 276),r 20',ana[to]PRP muhhu[skull]N šarrūtu[kingship]N dabābu[speak]V
+saao/saa19/P224436,SAA 19 147. Sedition in Dilbat (CTN 5 p. 70 and p. 276),r 21',akalu[bread]N ṭūbu[goodness]N libbu[interior]N
+saao/saa19/P224436,SAA 19 147. Sedition in Dilbat (CTN 5 p. 70 and p. 276),r 22',akkāʾi[how?]QP akālu[eat]V
+saao/saa19/P224436,SAA 19 147. Sedition in Dilbat (CTN 5 p. 70 and p. 276),r 23',enna[now]AV ana[to]PRP šarru[king]N bēlu[lord]N

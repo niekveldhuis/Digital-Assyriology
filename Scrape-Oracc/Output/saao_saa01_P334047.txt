@@ -1,0 +1,25 @@
+id_text,text_name,l_no,text
+saao/saa01/P334047,SAA 01 090. A Messenger Kidnapped by a Tribe (ABL 0098),o 1,ana[to]PRP šarru[king]N bēlu[lord]N
+saao/saa01/P334047,SAA 01 090. A Messenger Kidnapped by a Tribe (ABL 0098),o 2,ardu[slave]N Ṭab-ṣil-Ešarra[1]PN
+saao/saa01/P334047,SAA 01 090. A Messenger Kidnapped by a Tribe (ABL 0098),o 3,lū[may]MOD šulmu[completeness]N ana[to]PRP šarru[king]N bēlu[lord]N
+saao/saa01/P334047,SAA 01 090. A Messenger Kidnapped by a Tribe (ABL 0098),o 4,Aššur[1]DN Mullissu[1]DN ana[to]PRP šarru[king]N
+saao/saa01/P334047,SAA 01 090. A Messenger Kidnapped by a Tribe (ABL 0098),o 5,bēlu[lord]N karābu[pray]V
+saao/saa01/P334047,SAA 01 090. A Messenger Kidnapped by a Tribe (ABL 0098),o 6,ša[that]REL šarru[king]N bēlu[lord]N šapāru[send]V
+saao/saa01/P334047,SAA 01 090. A Messenger Kidnapped by a Tribe (ABL 0098),o 7,mā[saying]PRP māru[son]N šipru[sending]N
+saao/saa01/P334047,SAA 01 090. A Messenger Kidnapped by a Tribe (ABL 0098),o 8,ša[that]REL ana[to]PRP Birate[1]GN
+saao/saa01/P334047,SAA 01 090. A Messenger Kidnapped by a Tribe (ABL 0098),o 9,šapāru[send]V mā[saying]PRP šū[he]IP
+saao/saa01/P334047,SAA 01 090. A Messenger Kidnapped by a Tribe (ABL 0098),o 10,adi[until]PRP pēthallu[riding-horse]N
+saao/saa01/P334047,SAA 01 090. A Messenger Kidnapped by a Tribe (ABL 0098),o 11,išti[with]PRP Hamranaya[1]EN
+saao/saa01/P334047,SAA 01 090. A Messenger Kidnapped by a Tribe (ABL 0098),o 12,māru[son]N šipru[sending]N
+saao/saa01/P334047,SAA 01 090. A Messenger Kidnapped by a Tribe (ABL 0098),r 2',ištu[from]PRP libbu[interior]N
+saao/saa01/P334047,SAA 01 090. A Messenger Kidnapped by a Tribe (ABL 0098),r 3',ša[of]DET Munuʾ[1]GN
+saao/saa01/P334047,SAA 01 090. A Messenger Kidnapped by a Tribe (ABL 0098),r 4',ūmu[day]N ša[of]DET
+saao/saa01/P334047,SAA 01 090. A Messenger Kidnapped by a Tribe (ABL 0098),r 5',ina[in]PRP muhhu[skull]N ṣahittu[wish]N
+saao/saa01/P334047,SAA 01 090. A Messenger Kidnapped by a Tribe (ABL 0098),r 6',ūmu[day]N ša[that]REL erēbu[enter]V
+saao/saa01/P334047,SAA 01 090. A Messenger Kidnapped by a Tribe (ABL 0098),r 7',māru[son]N šipru[sending]N
+saao/saa01/P334047,SAA 01 090. A Messenger Kidnapped by a Tribe (ABL 0098),r 8',habtu[robbed]AJ ša[of]DET
+saao/saa01/P334047,SAA 01 090. A Messenger Kidnapped by a Tribe (ABL 0098),r 9',ša[that]REL ina[in]PRP libbu[interior]N išti[with]PRP
+saao/saa01/P334047,SAA 01 090. A Messenger Kidnapped by a Tribe (ABL 0098),r 10',ina[in]PRP Munuʾ[1]GN
+saao/saa01/P334047,SAA 01 090. A Messenger Kidnapped by a Tribe (ABL 0098),r.e. 11,paṭāru[loosen]V šaṭāru[write]V
+saao/saa01/P334047,SAA 01 090. A Messenger Kidnapped by a Tribe (ABL 0098),r.e. 12,mā[saying]PRP ṣarpu[silver]N wabālu[bring]V
+saao/saa01/P334047,SAA 01 090. A Messenger Kidnapped by a Tribe (ABL 0098),r.e. 13,ina[in]PRP Munuʾ[1]GN šū[he]IP

@@ -1,0 +1,24 @@
+id_text,text_name,l_no,text
+saao/saa05/P314207,SAA 05 251. Reviewing Cavalry and Chariot Troops (ABL 0567+),o 1,ana[to]PRP šarru[king]N bēlu[lord]N
+saao/saa05/P314207,SAA 05 251. Reviewing Cavalry and Chariot Troops (ABL 0567+),o 2,ardu[slave]N
+saao/saa05/P314207,SAA 05 251. Reviewing Cavalry and Chariot Troops (ABL 0567+),o 3,lū[may]MOD šulmu[completeness]N ana[to]PRP šarru[king]N bēlu[lord]N
+saao/saa05/P314207,SAA 05 251. Reviewing Cavalry and Chariot Troops (ABL 0567+),o 4,ina[in]PRP muhhu[skull]N ša-pēthalli[rider]N
+saao/saa05/P314207,SAA 05 251. Reviewing Cavalry and Chariot Troops (ABL 0567+),o 5,ša[that]REL šarru[king]N bēlu[lord]N
+saao/saa05/P314207,SAA 05 251. Reviewing Cavalry and Chariot Troops (ABL 0567+),o 6,ṭēmu[(fore)thought]N
+saao/saa05/P314207,SAA 05 251. Reviewing Cavalry and Chariot Troops (ABL 0567+),o 7,šakānu[put]V
+saao/saa05/P314207,SAA 05 251. Reviewing Cavalry and Chariot Troops (ABL 0567+),o 8,ašāru[muster]V
+saao/saa05/P314207,SAA 05 251. Reviewing Cavalry and Chariot Troops (ABL 0567+),o 9,meʾatu[(one)-hundred]NU ša-pēthalli[rider]N
+saao/saa05/P314207,SAA 05 251. Reviewing Cavalry and Chariot Troops (ABL 0567+),o 10,amru[seen]AJ muṭû[deficit]N
+saao/saa05/P314207,SAA 05 251. Reviewing Cavalry and Chariot Troops (ABL 0567+),o 11,ša[that]REL qātu[hand]N
+saao/saa05/P314207,SAA 05 251. Reviewing Cavalry and Chariot Troops (ABL 0567+),o 12,šaknu[appointee]N ina[in]PRP muhhu[skull]N
+saao/saa05/P314207,SAA 05 251. Reviewing Cavalry and Chariot Troops (ABL 0567+),o 13,bēlu[lord]N mugerru[chariot]N šarru[king]N bēlu[lord]N
+saao/saa05/P314207,SAA 05 251. Reviewing Cavalry and Chariot Troops (ABL 0567+),o 14,ṭēmu[(fore)thought]N lā[not]MOD šakānu[put]V
+saao/saa05/P314207,SAA 05 251. Reviewing Cavalry and Chariot Troops (ABL 0567+),o 15,išti[with]PRP ša-pēthalli[rider]N
+saao/saa05/P314207,SAA 05 251. Reviewing Cavalry and Chariot Troops (ABL 0567+),o 16,ašāru[muster]V
+saao/saa05/P314207,SAA 05 251. Reviewing Cavalry and Chariot Troops (ABL 0567+),r 1,bēlu[lord]N mugerru[chariot]N
+saao/saa05/P314207,SAA 05 251. Reviewing Cavalry and Chariot Troops (ABL 0567+),r 2,ṣābu[people]N šarru[king]N
+saao/saa05/P314207,SAA 05 251. Reviewing Cavalry and Chariot Troops (ABL 0567+),r 3,gimru[totality]N bēlu[lord]N mugerru[chariot]N
+saao/saa05/P314207,SAA 05 251. Reviewing Cavalry and Chariot Troops (ABL 0567+),r 4,amru[seen]AJ muṭû[deficit]N
+saao/saa05/P314207,SAA 05 251. Reviewing Cavalry and Chariot Troops (ABL 0567+),r 5,ša[that]REL qātu[hand]N Tuti[1]PN mušarkisu[(military)-procurement-officer]N
+saao/saa05/P314207,SAA 05 251. Reviewing Cavalry and Chariot Troops (ABL 0567+),r 6,meʾatu[(one)-hundred]NU sisû[horse]N
+saao/saa05/P314207,SAA 05 251. Reviewing Cavalry and Chariot Troops (ABL 0567+),r 7,esēhu[assign]V

@@ -1,0 +1,35 @@
+id_text,text_name,l_no,text
+saao/saa01/P334298,SAA 01 054. Transporting Cultic Objects to Assur (ABL 0433),o 1,ana[to]PRP šarru[king]N bēlu[lord]N
+saao/saa01/P334298,SAA 01 054. Transporting Cultic Objects to Assur (ABL 0433),o 2,ardu[slave]N Ṭab-šar-Aššur[1]PN
+saao/saa01/P334298,SAA 01 054. Transporting Cultic Objects to Assur (ABL 0433),o 3,lū[may]MOD šulmu[completeness]N ana[to]PRP šarru[king]N bēlu[lord]N
+saao/saa01/P334298,SAA 01 054. Transporting Cultic Objects to Assur (ABL 0433),o 4,ūmu[day]N ša[that]REL ištu[from]PRP ēkallu[palace]N aṣû[go-out]V
+saao/saa01/P334298,SAA 01 054. Transporting Cultic Objects to Assur (ABL 0433),o 5,ina[in]PRP Ubase[1]GN bēdu[spending-the-night]AJ
+saao/saa01/P334298,SAA 01 054. Transporting Cultic Objects to Assur (ABL 0433),o 6,eleppu[ship]N šulmu[completeness]N ūmu[day]N
+saao/saa01/P334298,SAA 01 054. Transporting Cultic Objects to Assur (ABL 0433),o 7,ilu[god]N ša[of]DET šarru[king]N naṣāru[guard]V ina[in]PRP šalimtu[well-being]N
+saao/saa01/P334298,SAA 01 054. Transporting Cultic Objects to Assur (ABL 0433),o 8,ina[in]PRP Libbi-ali[Inner-City-(Assur)]GN qerēbu[approach]V
+saao/saa01/P334298,SAA 01 054. Transporting Cultic Objects to Assur (ABL 0433),o 9,qarbāte[(meaning-unknown)]AV umāmu[animal]N hurāṣu[gold]N
+saao/saa01/P334298,SAA 01 054. Transporting Cultic Objects to Assur (ABL 0433),o 10,ina[in]PRP bītu[house]N Aššur[1]DN erēbu[enter]V
+saao/saa01/P334298,SAA 01 054. Transporting Cultic Objects to Assur (ABL 0433),o 14,u[and]CNJ dullu[trouble]N ša[of]DET eršu[bed]N
+saao/saa01/P334298,SAA 01 054. Transporting Cultic Objects to Assur (ABL 0433),o 15,bašû[exist]V ša[of]DET eršu[bed]N
+saao/saa01/P334298,SAA 01 054. Transporting Cultic Objects to Assur (ABL 0433),o 16,ana[to]PRP damāqu[be(come)-good]V
+saao/saa01/P334298,SAA 01 054. Transporting Cultic Objects to Assur (ABL 0433),b.e. 17,ana[to]PRP mesû[wash]V
+saao/saa01/P334298,SAA 01 054. Transporting Cultic Objects to Assur (ABL 0433),b.e. 18,karāku[roll-up]V
+saao/saa01/P334298,SAA 01 054. Transporting Cultic Objects to Assur (ABL 0433),r 1,šumma[if]MOD šarru[king]N bēlu[lord]N qabû[say]V
+saao/saa01/P334298,SAA 01 054. Transporting Cultic Objects to Assur (ABL 0433),r 2,ina[in]PRP bītu[house]N Aššur[1]DN erēbu[enter]V
+saao/saa01/P334298,SAA 01 054. Transporting Cultic Objects to Assur (ABL 0433),r 3,dullu[trouble]N kī[like]PRP ahāmiš[one-another]PRP
+saao/saa01/P334298,SAA 01 054. Transporting Cultic Objects to Assur (ABL 0433),r 4,karāku[roll-up]V epēšu[do]V
+saao/saa01/P334298,SAA 01 054. Transporting Cultic Objects to Assur (ABL 0433),r 5,qaqqaru[ground]N bašû[exist]V
+saao/saa01/P334298,SAA 01 054. Transporting Cultic Objects to Assur (ABL 0433),r 6,u[and]CNJ ana[to]PRP maṣṣartu[observation]N damqu[good]AJ
+saao/saa01/P334298,SAA 01 054. Transporting Cultic Objects to Assur (ABL 0433),r 7,issurri[perhaps]AV šarru[king]N bēlu[lord]N qabû[say]V
+saao/saa01/P334298,SAA 01 054. Transporting Cultic Objects to Assur (ABL 0433),r 8,mā[saying]PRP ayyaka[where?]QP eršu[bed]N erēbu[enter]V
+saao/saa01/P334298,SAA 01 054. Transporting Cultic Objects to Assur (ABL 0433),r 9,ina[in]PRP bītu[house]N mašennu[(an-administrator)]N ša[that]REL bītu[house]N Aššur[1]DN ša[of]DET ilu[god]N
+saao/saa01/P334298,SAA 01 054. Transporting Cultic Objects to Assur (ABL 0433),r 10,ša[of]DET Dur-Šarruken[1]GN ina[in]PRP libbu[interior]N kamsu[squatting]AJ
+saao/saa01/P334298,SAA 01 054. Transporting Cultic Objects to Assur (ABL 0433),r 11,annûri[now]AV qarbāte[(meaning-unknown)]AV umāmu[animal]N
+saao/saa01/P334298,SAA 01 054. Transporting Cultic Objects to Assur (ABL 0433),r 12,erēbu[enter]V u[and]CNJ eršu[bed]N ina[in]PRP muhhu[skull]N nāru[river]N
+saao/saa01/P334298,SAA 01 054. Transporting Cultic Objects to Assur (ABL 0433),r 13,mūšu[night]N annû[this]DP ina[in]PRP libbu[interior]N eleppu[ship]N biātu[spend-the-night]V
+saao/saa01/P334298,SAA 01 054. Transporting Cultic Objects to Assur (ABL 0433),r 14,anīnu[we]IP ina[in]PRP muhhu[skull]N nāru[river]N biātu[spend-the-night]V
+saao/saa01/P334298,SAA 01 054. Transporting Cultic Objects to Assur (ABL 0433),r 15,maṣṣartu[observation]N naṣāru[guard]V adi[until]PRP mīnu[what?]QP
+saao/saa01/P334298,SAA 01 054. Transporting Cultic Objects to Assur (ABL 0433),r 16,ša[that]REL šarru[king]N bēlu[lord]N šapāru[send]V
+saao/saa01/P334298,SAA 01 054. Transporting Cultic Objects to Assur (ABL 0433),r 17,ṭēmu[(fore)thought]N ana[to]PRP māru[son]N šipru[sending]N šakānu[put]V
+saao/saa01/P334298,SAA 01 054. Transporting Cultic Objects to Assur (ABL 0433),r 18,etēqu[proceed]V alāku[go]V
+saao/saa01/P334298,SAA 01 054. Transporting Cultic Objects to Assur (ABL 0433),r.e. 19,ina[in]PRP pānu[front]N dagālu[see]V

@@ -1,15 +1,15 @@
 id_text,text_name,l_no,text
-aemw/amarna/P271058,EA 308. A request for horses [vassal letter],001,
-aemw/amarna/P271058,EA 308. A request for horses [vassal letter],002,
-aemw/amarna/P271058,EA 308. A request for horses [vassal letter],003,
-aemw/amarna/P271058,EA 308. A request for horses [vassal letter],004,Šamaš[1]DN Šamaš[1]DN
-aemw/amarna/P271058,EA 308. A request for horses [vassal letter],005,
-aemw/amarna/P271058,EA 308. A request for horses [vassal letter],006,
-aemw/amarna/P271058,EA 308. A request for horses [vassal letter],007,
-aemw/amarna/P271058,EA 308. A request for horses [vassal letter],r 02,
-aemw/amarna/P271058,EA 308. A request for horses [vassal letter],r 03,Šamaš[1]DN
-aemw/amarna/P271058,EA 308. A request for horses [vassal letter],r 04,
-aemw/amarna/P271058,EA 308. A request for horses [vassal letter],r 05,
-aemw/amarna/P271058,EA 308. A request for horses [vassal letter],r 06,
-aemw/amarna/P271058,EA 308. A request for horses [vassal letter],r 07,Šamaš[1]DN
-aemw/amarna/P271058,EA 308. A request for horses [vassal letter],r 08,
+aemw/amarna/P271058,EA 308. A request for horses [vassal letter],001,akk-x-mbperi:eperu[earth]N akk-x-mbperi:ša[of]DET akk-x-mbperi:šēpu[foot]N
+aemw/amarna/P271058,EA 308. A request for horses [vassal letter],002,akk-x-mbperi:kartappu[(animal)-driver]N akk-x-mbperi:ša[of]DET akk-x-mbperi:sisû[horse]N
+aemw/amarna/P271058,EA 308. A request for horses [vassal letter],003,akk-x-mbperi:ana[to]PRP akk-x-mbperi:šēpu[foot]N akk-x-mbperi:šarru[king]N akk-x-mbperi:bēlu[lord]N
+aemw/amarna/P271058,EA 308. A request for horses [vassal letter],004,akk-x-mbperi:ilu[god]N akk-x-mbperi:Šamaš[1]DN akk-x-mbperi:Šamaš[1]DN
+aemw/amarna/P271058,EA 308. A request for horses [vassal letter],005,akk-x-mbperi:ša[that]REL akk-x-mbperi:ištu[from]PRP akk-x-mbperi:šamû[sky]N akk-x-mbperi:šamû[sky]N
+aemw/amarna/P271058,EA 308. A request for horses [vassal letter],006,akk-x-mbperi:u[and]CNJ
+aemw/amarna/P271058,EA 308. A request for horses [vassal letter],007,akk-x-mbperi:lū[indeed]MOD akk-x-mbperi:šukênu[prostrate-oneself]V
+aemw/amarna/P271058,EA 308. A request for horses [vassal letter],r 02,akk-x-mbperi:u[and]CNJ akk-x-mbperi:aššu[because-(of)]PRP akk-x-mbperi:lamādu[learn]V
+aemw/amarna/P271058,EA 308. A request for horses [vassal letter],r 03,akk-x-mbperi:šarru[king]N akk-x-mbperi:bēlu[lord]N akk-x-mbperi:Šamaš[1]DN
+aemw/amarna/P271058,EA 308. A request for horses [vassal letter],r 04,akk-x-mbperi:aššu[because-(of)]PRP akk-x-mbperi:nadānu[give]V
+aemw/amarna/P271058,EA 308. A request for horses [vassal letter],r 05,akk-x-mbperi:sisû[horse]N akk-x-mbperi:ana[to]PRP akk-x-mbperi:wardu[slave]N
+aemw/amarna/P271058,EA 308. A request for horses [vassal letter],r 06,akk-x-mbperi:ana[to]PRP akk-x-mbperi:naṣāru[guard]V akk-x-mbperi:maṣṣartu[observation]N
+aemw/amarna/P271058,EA 308. A request for horses [vassal letter],r 07,akk-x-mbperi:šarru[king]N akk-x-mbperi:bēlu[lord]N akk-x-mbperi:Šamaš[1]DN
+aemw/amarna/P271058,EA 308. A request for horses [vassal letter],r 08,akk-x-mbperi:ša[that]REL akk-x-mbperi:ištu[from]PRP akk-x-mbperi:šamû[sky]N akk-x-mbperi:šamû[sky]N

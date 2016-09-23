@@ -1,14 +1,14 @@
 id_text,text_name,l_no,text
-aemw/amarna/P271127,EA 065. Preparations for Egyptian troops [vassal letter],001,
-aemw/amarna/P271127,EA 065. Preparations for Egyptian troops [vassal letter],002,
-aemw/amarna/P271127,EA 065. Preparations for Egyptian troops [vassal letter],003,Abdi-Aštarti[1]PN
-aemw/amarna/P271127,EA 065. Preparations for Egyptian troops [vassal letter],004,
-aemw/amarna/P271127,EA 065. Preparations for Egyptian troops [vassal letter],005,
-aemw/amarna/P271127,EA 065. Preparations for Egyptian troops [vassal letter],006,
-aemw/amarna/P271127,EA 065. Preparations for Egyptian troops [vassal letter],007,
-aemw/amarna/P271127,EA 065. Preparations for Egyptian troops [vassal letter],008,
-aemw/amarna/P271127,EA 065. Preparations for Egyptian troops [vassal letter],009,
-aemw/amarna/P271127,EA 065. Preparations for Egyptian troops [vassal letter],010,
-aemw/amarna/P271127,EA 065. Preparations for Egyptian troops [vassal letter],011,
-aemw/amarna/P271127,EA 065. Preparations for Egyptian troops [vassal letter],012,
-aemw/amarna/P271127,EA 065. Preparations for Egyptian troops [vassal letter],013,
+aemw/amarna/P271127,EA 065. Preparations for Egyptian troops [vassal letter],001,akk-x-mbperi:ana[to]PRP akk-x-mbperi:šarru[king]N akk-x-mbperi:bēlu[lord]N
+aemw/amarna/P271127,EA 065. Preparations for Egyptian troops [vassal letter],002,akk-x-mbperi:qabû[say]V
+aemw/amarna/P271127,EA 065. Preparations for Egyptian troops [vassal letter],003,akk-x-mbperi:umma[saying]PRP akk-x-mbperi:Abdi-Aštarti[1]PN akk-x-mbperi:wardu[slave]N
+aemw/amarna/P271127,EA 065. Preparations for Egyptian troops [vassal letter],004,akk-x-mbperi:ana[to]PRP akk-x-mbperi:šēpu[foot]N akk-x-mbperi:bēlu[lord]N akk-x-mbperi:u[and]CNJ akk-x-mbperi:mila[times]N
+aemw/amarna/P271127,EA 065. Preparations for Egyptian troops [vassal letter],005,akk-x-mbperi:maqtu[fallen]AJ akk-x-mbperi:u[and]CNJ akk-x-mbperi:kabattu[liver]N akk-x-mbperi:u[and]CNJ akk-x-mbperi:ṣuʾru[back]N
+aemw/amarna/P271127,EA 065. Preparations for Egyptian troops [vassal letter],006,akk-x-mbperi:ana[to]PRP akk-x-mbperi:šēpu[foot]N akk-x-mbperi:šarru[king]N akk-x-mbperi:bēlu[lord]N
+aemw/amarna/P271127,EA 065. Preparations for Egyptian troops [vassal letter],007,akk-x-mbperi:u[and]CNJ akk-x-mbperi:kīma[like]PRP akk-x-mbperi:awātu[word]N akk-x-mbperi:šapru[sent]AJ akk-x-mbperi:šarru[king]N akk-x-mbperi:bēlu[lord]N
+aemw/amarna/P271127,EA 065. Preparations for Egyptian troops [vassal letter],008,akk-x-mbperi:ana[to]PRP akk-x-mbperi:yâšim[to-me]IP akk-x-mbperi:šemû[hear]V akk-x-mbperi:gabbu[totality]N akk-x-mbperi:awātu[word]N akk-x-mbperi:šarru[king]N akk-x-mbperi:bēlu[lord]N akk-x-mbperi:šemû[hear]V
+aemw/amarna/P271127,EA 065. Preparations for Egyptian troops [vassal letter],009,akk-x-mbperi:u[and]CNJ akk-x-mbperi:ālu[city]N akk-x-mbperi:šarru[king]N akk-x-mbperi:itti[with]PRP
+aemw/amarna/P271127,EA 065. Preparations for Egyptian troops [vassal letter],010,akk-x-mbperi:u[and]CNJ akk-x-mbperi:naṣāru[guard]V
+aemw/amarna/P271127,EA 065. Preparations for Egyptian troops [vassal letter],011,akk-x-mbperi:u[and]CNJ akk-x-mbperi:ešēru[be(come)-well]V
+aemw/amarna/P271127,EA 065. Preparations for Egyptian troops [vassal letter],012,akk-x-mbperi:ana[to]PRP akk-x-mbperi:pānu[front]N akk-x-mbperi:ṣābu[people]N akk-x-mbperi:piṭṭātu[archers]N
+aemw/amarna/P271127,EA 065. Preparations for Egyptian troops [vassal letter],013,akk-x-mbperi:šarru[king]N akk-x-mbperi:bēlu[lord]N

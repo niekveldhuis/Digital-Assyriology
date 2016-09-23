@@ -1,0 +1,23 @@
+id_text,text_name,l_no,text
+saao/saa15/P334916,SAA 15 032. Merodach-Baladan’s Envoys Meet the Elamite King’s Brother-in-Law (ABL 1453+),o 1,ana[to]PRP šarru[king]N bēlu[lord]N
+saao/saa15/P334916,SAA 15 032. Merodach-Baladan’s Envoys Meet the Elamite King’s Brother-in-Law (ABL 1453+),o 2,ardu[slave]N Nabu-belu-kaʾʾin[1]PN
+saao/saa15/P334916,SAA 15 032. Merodach-Baladan’s Envoys Meet the Elamite King’s Brother-in-Law (ABL 1453+),o 3,lū[may]MOD šulmu[completeness]N ana[to]PRP šarru[king]N bēlu[lord]N
+saao/saa15/P334916,SAA 15 032. Merodach-Baladan’s Envoys Meet the Elamite King’s Brother-in-Law (ABL 1453+),o 4,ṭēmu[(fore)thought]N ša[of]DET Elamtu[Elam]GN Nabu-iqiša[1]PN
+saao/saa15/P334916,SAA 15 032. Merodach-Baladan’s Envoys Meet the Elamite King’s Brother-in-Law (ABL 1453+),o 5,šapāru[send]V mā[saying]PRP māru[son]N šipru[sending]N
+saao/saa15/P334916,SAA 15 032. Merodach-Baladan’s Envoys Meet the Elamite King’s Brother-in-Law (ABL 1453+),o 6,ša[of]DET Mar-Yakin[1]PN ina[in]PRP irtu[breast]N
+saao/saa15/P334916,SAA 15 032. Merodach-Baladan’s Envoys Meet the Elamite King’s Brother-in-Law (ABL 1453+),o 7,hatanu[in-law]N šarru[king]N alāku[go]V
+saao/saa15/P334916,SAA 15 032. Merodach-Baladan’s Envoys Meet the Elamite King’s Brother-in-Law (ABL 1453+),o 8,mā[saying]PRP ina[in]PRP HAR[1]GN alāku[go]V mā[saying]PRP hatanu[in-law]N šarru[king]N
+saao/saa15/P334916,SAA 15 032. Merodach-Baladan’s Envoys Meet the Elamite King’s Brother-in-Law (ABL 1453+),o 9,lā[not]MOD magāru[consent]V lā[not]MOD sahāru[go-around]V mā[saying]PRP ina[in]PRP tahūmu[boundary]N
+saao/saa15/P334916,SAA 15 032. Merodach-Baladan’s Envoys Meet the Elamite King’s Brother-in-Law (ABL 1453+),o 10,kašādu[reach]V mā[saying]PRP kē[how?]QP ištu[from]PRP libbu[interior]N
+saao/saa15/P334916,SAA 15 032. Merodach-Baladan’s Envoys Meet the Elamite King’s Brother-in-Law (ABL 1453+),o 11,qaqqaru[ground]N gamru[complete]AJ lā[not]MOD mahru[received]AJ
+saao/saa15/P334916,SAA 15 032. Merodach-Baladan’s Envoys Meet the Elamite King’s Brother-in-Law (ABL 1453+),o 12,mā[saying]PRP ša[of]DET lā[not]MOD pû[mouth]N šarru[king]N sahāru[go-around]V
+saao/saa15/P334916,SAA 15 032. Merodach-Baladan’s Envoys Meet the Elamite King’s Brother-in-Law (ABL 1453+),o 13,mā[saying]PRP ištēn[one]NU māru[son]N šipru[sending]N ištu[from]PRP māru[son]N šipru[sending]N
+saao/saa15/P334916,SAA 15 032. Merodach-Baladan’s Envoys Meet the Elamite King’s Brother-in-Law (ABL 1453+),o 14,ina[in]PRP pānu[front]N šarru[king]N Elamtu[Elam]GN šapāru[send]V
+saao/saa15/P334916,SAA 15 032. Merodach-Baladan’s Envoys Meet the Elamite King’s Brother-in-Law (ABL 1453+),o 15,mā[saying]PRP ištēn[one]NU
+saao/saa15/P334916,SAA 15 032. Merodach-Baladan’s Envoys Meet the Elamite King’s Brother-in-Law (ABL 1453+),r 3',hatanu[in-law]N šarru[king]N šapāru[send]V mā[saying]PRP
+saao/saa15/P334916,SAA 15 032. Merodach-Baladan’s Envoys Meet the Elamite King’s Brother-in-Law (ABL 1453+),r 4',wabālu[bring]V ṣābu[people]N
+saao/saa15/P334916,SAA 15 032. Merodach-Baladan’s Envoys Meet the Elamite King’s Brother-in-Law (ABL 1453+),r 5',tadānu[give]V ṭēmu[(fore)thought]N annû[this]DP
+saao/saa15/P334916,SAA 15 032. Merodach-Baladan’s Envoys Meet the Elamite King’s Brother-in-Law (ABL 1453+),r 6',lā[not]MOD kē[how?]QP ša[of]DET pû[mouth]N ṭupšarru[scribe]N ēkallu[palace]N
+saao/saa15/P334916,SAA 15 032. Merodach-Baladan’s Envoys Meet the Elamite King’s Brother-in-Law (ABL 1453+),r 7',šūtu[he]IP šumma[if]MOD šarru[king]N bēlu[lord]N qabû[say]V
+saao/saa15/P334916,SAA 15 032. Merodach-Baladan’s Envoys Meet the Elamite King’s Brother-in-Law (ABL 1453+),r 8',šanû[do-twice]V šapāru[send]V
+saao/saa15/P334916,SAA 15 032. Merodach-Baladan’s Envoys Meet the Elamite King’s Brother-in-Law (ABL 1453+),r 9',ūmu[day]N zinnu[rain]N mādu[many]AJ alāku[go]V

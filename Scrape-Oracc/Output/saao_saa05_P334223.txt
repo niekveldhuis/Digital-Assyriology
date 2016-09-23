@@ -1,0 +1,20 @@
+id_text,text_name,l_no,text
+saao/saa05/P334223,SAA 05 245. Flooded by Refugees (ABL 0343),o 1,ana[to]PRP šarru[king]N bēlu[lord]N
+saao/saa05/P334223,SAA 05 245. Flooded by Refugees (ABL 0343),o 2,ardu[slave]N Zabaya[1]PN
+saao/saa05/P334223,SAA 05 245. Flooded by Refugees (ABL 0343),o 3,rabû[big-one]N birtu[fort]N
+saao/saa05/P334223,SAA 05 245. Flooded by Refugees (ABL 0343),o 4,ša[of]DET Appina[1]GN
+saao/saa05/P334223,SAA 05 245. Flooded by Refugees (ABL 0343),o 5,lū[may]MOD šulmu[completeness]N ana[to]PRP šarru[king]N bēlu[lord]N
+saao/saa05/P334223,SAA 05 245. Flooded by Refugees (ABL 0343),o 6,šulmu[completeness]N ana[to]PRP birtu[fort]N
+saao/saa05/P334223,SAA 05 245. Flooded by Refugees (ABL 0343),o 7,šulmu[completeness]N ana[to]PRP ardu[slave]N
+saao/saa05/P334223,SAA 05 245. Flooded by Refugees (ABL 0343),o 8,ša[of]DET šarru[king]N bēlu[lord]N
+saao/saa05/P334223,SAA 05 245. Flooded by Refugees (ABL 0343),o 9,ša-rēši[eunuch]N ša-muhhi-bēti[overseer-of-the-household]N
+saao/saa05/P334223,SAA 05 245. Flooded by Refugees (ABL 0343),o 10,ša[of]DET Suitka[1]PN
+saao/saa05/P334223,SAA 05 245. Flooded by Refugees (ABL 0343),o 11,bēlu[lord]N ālu[city]N halāqu[be(come)-lost]V
+saao/saa05/P334223,SAA 05 245. Flooded by Refugees (ABL 0343),o 12,ana[to]PRP Appina[1]GN
+saao/saa05/P334223,SAA 05 245. Flooded by Refugees (ABL 0343),o 13,alāku[go]V maqtu[fallen]AJ
+saao/saa05/P334223,SAA 05 245. Flooded by Refugees (ABL 0343),r 1',ina[in]PRP rēšu[head]N arhu[month]N ša[of]DET Arahsamnu[Marchesvan]MN
+saao/saa05/P334223,SAA 05 245. Flooded by Refugees (ABL 0343),r 2',ana[to]PRP ēkallu[palace]N šapāru[send]V
+saao/saa05/P334223,SAA 05 245. Flooded by Refugees (ABL 0343),r 3',maqtu[fallen]AJ ina[in]PRP qātu[hand]N
+saao/saa05/P334223,SAA 05 245. Flooded by Refugees (ABL 0343),r 4',māru[son]N šipru[sending]N
+saao/saa05/P334223,SAA 05 245. Flooded by Refugees (ABL 0343),r 5',ša[that]REL išti[with]PRP alāku[go]V
+saao/saa05/P334223,SAA 05 245. Flooded by Refugees (ABL 0343),r 6',šū[he]IP adakanni[until-now]AV

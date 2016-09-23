@@ -1,8 +1,8 @@
 id_text,text_name,l_no,text
-aemw/amarna/P271052,EA 050. Maidservant to her mistress [vassal letter],001,
-aemw/amarna/P271052,EA 050. Maidservant to her mistress [vassal letter],002,
-aemw/amarna/P271052,EA 050. Maidservant to her mistress [vassal letter],003,
-aemw/amarna/P271052,EA 050. Maidservant to her mistress [vassal letter],004,
-aemw/amarna/P271052,EA 050. Maidservant to her mistress [vassal letter],005,
-aemw/amarna/P271052,EA 050. Maidservant to her mistress [vassal letter],007,
-aemw/amarna/P271052,EA 050. Maidservant to her mistress [vassal letter],011,
+aemw/amarna/P271052,EA 050. Maidservant to her mistress [vassal letter],001,akk-x-mbperi:ana[to]PRP akk-x-mbperi:tahamunšu[royal-wife]N
+aemw/amarna/P271052,EA 050. Maidservant to her mistress [vassal letter],002,akk-x-mbperi:bēltu[lady]N akk-x-mbperi:qabû[say]V
+aemw/amarna/P271052,EA 050. Maidservant to her mistress [vassal letter],003,akk-x-mbperi:umma[saying]PRP akk-x-mbperi:mārtu[daughter]N akk-x-mbperi:šarru[king]N
+aemw/amarna/P271052,EA 050. Maidservant to her mistress [vassal letter],004,akk-x-mbperi:amtu[maid]N akk-x-mbperi:amtu[maid]N
+aemw/amarna/P271052,EA 050. Maidservant to her mistress [vassal letter],005,akk-x-mbperi:ana[to]PRP akk-x-mbperi:šēpu[foot]N akk-x-mbperi:ša[of]DET akk-x-mbperi:bēltu[lady]N
+aemw/amarna/P271052,EA 050. Maidservant to her mistress [vassal letter],007,akk-x-mbperi:maqātu[fall]V akk-x-mbperi:allû[certainly]MOD
+aemw/amarna/P271052,EA 050. Maidservant to her mistress [vassal letter],011,akk-x-mbperi:zukkatu[(a-physical-disability)?]N

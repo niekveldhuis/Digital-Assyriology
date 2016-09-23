@@ -1,17 +1,17 @@
 id_text,text_name,l_no,text
-aemw/amarna/P271167,EA 128. Message lost [vassal letter],008,
-aemw/amarna/P271167,EA 128. Message lost [vassal letter],009,
-aemw/amarna/P271167,EA 128. Message lost [vassal letter],010,Aziru[1]PN
-aemw/amarna/P271167,EA 128. Message lost [vassal letter],011,
-aemw/amarna/P271167,EA 128. Message lost [vassal letter],019,
-aemw/amarna/P271167,EA 128. Message lost [vassal letter],020,Gublu[Byblos]GN
-aemw/amarna/P271167,EA 128. Message lost [vassal letter],021,ʾIlu-rapiʾ[1]PN
-aemw/amarna/P271167,EA 128. Message lost [vassal letter],022,
-aemw/amarna/P271167,EA 128. Message lost [vassal letter],023,Šamaš[1]DN
-aemw/amarna/P271167,EA 128. Message lost [vassal letter],024,
-aemw/amarna/P271167,EA 128. Message lost [vassal letter],025,
-aemw/amarna/P271167,EA 128. Message lost [vassal letter],026,
-aemw/amarna/P271167,EA 128. Message lost [vassal letter],027,
-aemw/amarna/P271167,EA 128. Message lost [vassal letter],028,
-aemw/amarna/P271167,EA 128. Message lost [vassal letter],029,
-aemw/amarna/P271167,EA 128. Message lost [vassal letter],030,
+aemw/amarna/P271167,EA 128. Message lost [vassal letter],008,akk-x-mbperi:rābiṣu[bailiff]N
+aemw/amarna/P271167,EA 128. Message lost [vassal letter],009,akk-x-mbperi:šarru[king]N
+aemw/amarna/P271167,EA 128. Message lost [vassal letter],010,akk-x-mbperi:Aziru[1]PN
+aemw/amarna/P271167,EA 128. Message lost [vassal letter],011,akk-x-mbperi:gabbu[totality]N
+aemw/amarna/P271167,EA 128. Message lost [vassal letter],019,akk-x-mbperi:gabbu[totality]N
+aemw/amarna/P271167,EA 128. Message lost [vassal letter],020,akk-x-mbperi:Gublu[Byblos]GN
+aemw/amarna/P271167,EA 128. Message lost [vassal letter],021,akk-x-mbperi:ʾIlu-rapiʾ[1]PN
+aemw/amarna/P271167,EA 128. Message lost [vassal letter],022,akk-x-mbperi:ana[to]PRP akk-x-mbperi:šupālu[depression]N akk-x-mbperi:šēpu[foot]N akk-x-mbperi:šarru[king]N akk-x-mbperi:bēlu[lord]N
+aemw/amarna/P271167,EA 128. Message lost [vassal letter],023,akk-x-mbperi:Šamaš[1]DN akk-x-mbperi:maqātu[fall]V
+aemw/amarna/P271167,EA 128. Message lost [vassal letter],024,akk-x-mbperi:u[and]CNJ akk-x-mbperi:šemû[hear]V akk-x-mbperi:šarru[king]N akk-x-mbperi:bēlu[lord]N
+aemw/amarna/P271167,EA 128. Message lost [vassal letter],025,akk-x-mbperi:ipšu[deed]N akk-x-mbperi:arnu[guilt]N
+aemw/amarna/P271167,EA 128. Message lost [vassal letter],026,akk-x-mbperi:amāru[see]V akk-x-mbperi:šūt[he]IP
+aemw/amarna/P271167,EA 128. Message lost [vassal letter],027,akk-x-mbperi:qabû[say]V
+aemw/amarna/P271167,EA 128. Message lost [vassal letter],028,akk-x-mbperi:mimma[anything]XP
+aemw/amarna/P271167,EA 128. Message lost [vassal letter],029,akk-x-mbperi:amāru[see]V
+aemw/amarna/P271167,EA 128. Message lost [vassal letter],030,akk-x-mbperi:ana[to]PRP akk-x-mbperi:awīlu[man]N

@@ -1,0 +1,13 @@
+id_text,text_name,l_no,text
+saao/saa01/P334160,SAA 01 155. Philistine Troops in Arbela (ABL 0218),o 1,ana[to]PRP šarru[king]N bēlu[lord]N
+saao/saa01/P334160,SAA 01 155. Philistine Troops in Arbela (ABL 0218),o 2,ardu[slave]N Nergal-balliṭ[1]PN
+saao/saa01/P334160,SAA 01 155. Philistine Troops in Arbela (ABL 0218),o 3,lū[may]MOD šulmu[completeness]N ana[to]PRP šarru[king]N bēlu[lord]N
+saao/saa01/P334160,SAA 01 155. Philistine Troops in Arbela (ABL 0218),o 4,Pilistaya[Philistine]EN
+saao/saa01/P334160,SAA 01 155. Philistine Troops in Arbela (ABL 0218),o 5,ša[that]REL šarru[king]N bēlu[lord]N
+saao/saa01/P334160,SAA 01 155. Philistine Troops in Arbela (ABL 0218),o 6,kiṣru[knot]N kaṣāru[tie]V
+saao/saa01/P334160,SAA 01 155. Philistine Troops in Arbela (ABL 0218),o 7,tadānu[give]V
+saao/saa01/P334160,SAA 01 155. Philistine Troops in Arbela (ABL 0218),o 8,lā[not]MOD magāru[consent]V ina[in]PRP pānu[front]N
+saao/saa01/P334160,SAA 01 155. Philistine Troops in Arbela (ABL 0218),o 9,lā[not]MOD izuzzu[stand]V ina[in]PRP Luqaše[1]GN
+saao/saa01/P334160,SAA 01 155. Philistine Troops in Arbela (ABL 0218),o 10,ša[that]REL qannu[fringe]N Arbail[Arbela]GN
+saao/saa01/P334160,SAA 01 155. Philistine Troops in Arbela (ABL 0218),r 1',kamsu[squatting]AJ
+saao/saa01/P334160,SAA 01 155. Philistine Troops in Arbela (ABL 0218),r 2',ūma[today]AV

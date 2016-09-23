@@ -1,15 +1,15 @@
 id_text,text_name,l_no,text
-aemw/amarna/P270961,EA 213. Preparations under way [vassal letter],001,Šamaš[1]DN
-aemw/amarna/P270961,EA 213. Preparations under way [vassal letter],002,
-aemw/amarna/P270961,EA 213. Preparations under way [vassal letter],003,Zitriyara[1]PN
-aemw/amarna/P270961,EA 213. Preparations under way [vassal letter],004,
-aemw/amarna/P270961,EA 213. Preparations under way [vassal letter],005,
-aemw/amarna/P270961,EA 213. Preparations under way [vassal letter],006,
-aemw/amarna/P270961,EA 213. Preparations under way [vassal letter],007,Šamaš[1]DN
-aemw/amarna/P270961,EA 213. Preparations under way [vassal letter],008,
-aemw/amarna/P270961,EA 213. Preparations under way [vassal letter],009,
-aemw/amarna/P270961,EA 213. Preparations under way [vassal letter],010,
-aemw/amarna/P270961,EA 213. Preparations under way [vassal letter],011,Šamaš[1]DN
-aemw/amarna/P270961,EA 213. Preparations under way [vassal letter],012,
-aemw/amarna/P270961,EA 213. Preparations under way [vassal letter],013,
-aemw/amarna/P270961,EA 213. Preparations under way [vassal letter],014,
+aemw/amarna/P270961,EA 213. Preparations under way [vassal letter],001,akk-x-mbperi:ana[to]PRP akk-x-mbperi:šarru[king]N akk-x-mbperi:bēlu[lord]N akk-x-mbperi:Šamaš[1]DN
+aemw/amarna/P270961,EA 213. Preparations under way [vassal letter],002,akk-x-mbperi:ilu[god]N akk-x-mbperi:qabû[say]V
+aemw/amarna/P270961,EA 213. Preparations under way [vassal letter],003,akk-x-mbperi:umma[saying]PRP akk-x-mbperi:Zitriyara[1]PN
+aemw/amarna/P270961,EA 213. Preparations under way [vassal letter],004,akk-x-mbperi:wardu[slave]N akk-x-mbperi:eperu[earth]N akk-x-mbperi:ša[of]DET akk-x-mbperi:šēpu[foot]N
+aemw/amarna/P270961,EA 213. Preparations under way [vassal letter],005,akk-x-mbperi:u[and]CNJ akk-x-mbperi:ṭīdu[clay]N akk-x-mbperi:ša[of]DET akk-x-mbperi:kabāsu[tread]V
+aemw/amarna/P270961,EA 213. Preparations under way [vassal letter],006,akk-x-mbperi:ana[to]PRP akk-x-mbperi:šēpu[foot]N akk-x-mbperi:šarru[king]N akk-x-mbperi:bēlu[lord]N
+aemw/amarna/P270961,EA 213. Preparations under way [vassal letter],007,akk-x-mbperi:Šamaš[1]DN akk-x-mbperi:ilu[god]N
+aemw/amarna/P270961,EA 213. Preparations under way [vassal letter],008,akk-x-mbperi:u[and]CNJ akk-x-mbperi:maqātu[fall]V
+aemw/amarna/P270961,EA 213. Preparations under way [vassal letter],009,akk-x-mbperi:u[and]CNJ akk-x-mbperi:kabattu[liver]N akk-x-mbperi:u[and]CNJ akk-x-mbperi:ṣēru[back]N
+aemw/amarna/P270961,EA 213. Preparations under way [vassal letter],010,akk-x-mbperi:šemû[hear]V akk-x-mbperi:šapāru[send]V akk-x-mbperi:šarru[king]N
+aemw/amarna/P270961,EA 213. Preparations under way [vassal letter],011,akk-x-mbperi:bēlu[lord]N akk-x-mbperi:Šamaš[1]DN akk-x-mbperi:ilu[god]N
+aemw/amarna/P270961,EA 213. Preparations under way [vassal letter],012,akk-x-mbperi:ana[to]PRP akk-x-mbperi:wardu[slave]N akk-x-mbperi:anumma[now]AV
+aemw/amarna/P270961,EA 213. Preparations under way [vassal letter],013,akk-x-mbperi:šūšuru[in-order]AJ akk-x-mbperi:kīma[like]PRP
+aemw/amarna/P270961,EA 213. Preparations under way [vassal letter],014,akk-x-mbperi:ša[that]REL akk-x-mbperi:qabû[said]AJ akk-x-mbperi:šarru[king]N
