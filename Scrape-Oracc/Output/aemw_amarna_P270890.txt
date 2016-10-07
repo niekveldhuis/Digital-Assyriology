@@ -1,32 +1,32 @@
 id_text,text_name,l_no,text
-aemw/amarna/P270890,EA 005. Gifts of Egyptian furniture for the Babylonian palace [royal letter],001,akk-x-mbperi:umma[saying]PRP akk-x-mbperi:Nibmuareya[Amenhotep-III]PN akk-x-mbperi:šarru[king]N akk-x-mbperi:rabû[big]AJ
-aemw/amarna/P270890,EA 005. Gifts of Egyptian furniture for the Babylonian palace [royal letter],002,akk-x-mbperi:šarru[king]N akk-x-mbperi:mātu[land]N akk-x-mbperi:Miṣru[Egypt]GN akk-x-mbperi:ana[to]PRP akk-x-mbperi:Kadašman-Enlil[Kadašma-Enlil-I]PN
-aemw/amarna/P270890,EA 005. Gifts of Egyptian furniture for the Babylonian palace [royal letter],003,akk-x-mbperi:šarru[king]N akk-x-mbperi:rabû[big]AJ akk-x-mbperi:šarru[king]N akk-x-mbperi:mātu[land]N akk-x-mbperi:Karduniaš[Babylonia]GN akk-x-mbperi:ahu[brother]N
-aemw/amarna/P270890,EA 005. Gifts of Egyptian furniture for the Babylonian palace [royal letter],004,akk-x-mbperi:qabû[say]V akk-x-mbperi:ana[to]PRP akk-x-mbperi:mahru[front]N akk-x-mbperi:šulmu[completeness]N akk-x-mbperi:ana[to]PRP akk-x-mbperi:mahru[front]N
-aemw/amarna/P270890,EA 005. Gifts of Egyptian furniture for the Babylonian palace [royal letter],005,akk-x-mbperi:lū[let-it-be]MOD akk-x-mbperi:šulmu[completeness]N akk-x-mbperi:ana[to]PRP akk-x-mbperi:bītu[house]N akk-x-mbperi:aššatu[wife]N
-aemw/amarna/P270890,EA 005. Gifts of Egyptian furniture for the Babylonian palace [royal letter],006,akk-x-mbperi:māru[son]N akk-x-mbperi:awīlu[man]N akk-x-mbperi:rabû[big-one]N akk-x-mbperi:ṣābu[people]N
-aemw/amarna/P270890,EA 005. Gifts of Egyptian furniture for the Babylonian palace [royal letter],007,akk-x-mbperi:sisû[horse]N akk-x-mbperi:narkabtu[chariot]N akk-x-mbperi:u[and]CNJ akk-x-mbperi:ina[in]PRP akk-x-mbperi:libbu[interior]N
-aemw/amarna/P270890,EA 005. Gifts of Egyptian furniture for the Babylonian palace [royal letter],008,akk-x-mbperi:mātu[land]N akk-x-mbperi:lū[let-it-be]MOD akk-x-mbperi:šulmu[completeness]N
-aemw/amarna/P270890,EA 005. Gifts of Egyptian furniture for the Babylonian palace [royal letter],009,akk-x-mbperi:ana[to]PRP akk-x-mbperi:yâšim[to-me]IP akk-x-mbperi:šulmu[completeness]N akk-x-mbperi:ana[to]PRP akk-x-mbperi:bītu[house]N akk-x-mbperi:aššatu[wife]N
-aemw/amarna/P270890,EA 005. Gifts of Egyptian furniture for the Babylonian palace [royal letter],010,akk-x-mbperi:māru[son]N akk-x-mbperi:awīlu[man]N akk-x-mbperi:rabû[big-one]N akk-x-mbperi:ṣābu[people]N akk-x-mbperi:mādu[many-ones]N
-aemw/amarna/P270890,EA 005. Gifts of Egyptian furniture for the Babylonian palace [royal letter],011,akk-x-mbperi:sisû[horse]N akk-x-mbperi:narkabtu[chariot]N akk-x-mbperi:u[and]CNJ akk-x-mbperi:ina[in]PRP akk-x-mbperi:libbu[interior]N
-aemw/amarna/P270890,EA 005. Gifts of Egyptian furniture for the Babylonian palace [royal letter],012,akk-x-mbperi:mātu[land]N akk-x-mbperi:magal[very-(much)]AV akk-x-mbperi:magal[very-(much)]AV akk-x-mbperi:lū[let-it-be]MOD akk-x-mbperi:šulmu[completeness]N
-aemw/amarna/P270890,EA 005. Gifts of Egyptian furniture for the Babylonian palace [royal letter],013,akk-x-mbperi:anumma[now]AV akk-x-mbperi:šemû[hear]V akk-x-mbperi:umma[saying]PRP akk-x-mbperi:epēšu[do]V akk-x-mbperi:bītu[house]N akk-x-mbperi:eššu[new]AJ
-aemw/amarna/P270890,EA 005. Gifts of Egyptian furniture for the Babylonian palace [royal letter],014,akk-x-mbperi:anumma[now]AV akk-x-mbperi:mimma[anything]XP akk-x-mbperi:wabālu[carry]V
-aemw/amarna/P270890,EA 005. Gifts of Egyptian furniture for the Babylonian palace [royal letter],015,akk-x-mbperi:tērsītu[preparation]N akk-x-mbperi:ša[of]DET akk-x-mbperi:bītu[house]N akk-x-mbperi:u[and]CNJ akk-x-mbperi:anumma[now]AV
-aemw/amarna/P270890,EA 005. Gifts of Egyptian furniture for the Babylonian palace [royal letter],016,akk-x-mbperi:ešēru[be(come)-well]V akk-x-mbperi:mimma[anything]XP akk-x-mbperi:mādu[many-things]N akk-x-mbperi:ana[to]PRP akk-x-mbperi:pānu[front]N
-aemw/amarna/P270890,EA 005. Gifts of Egyptian furniture for the Babylonian palace [royal letter],017,akk-x-mbperi:māru[son]N akk-x-mbperi:šipru[sending]N akk-x-mbperi:ša[of]DET akk-x-mbperi:leqû[take]V akk-x-mbperi:mārtu[daughter]N akk-x-mbperi:u[and]CNJ akk-x-mbperi:šumma[if]MOD akk-x-mbperi:māru[son]N akk-x-mbperi:šipru[sending]N akk-x-mbperi:sahāru[go-around]V akk-x-mbperi:u[and]CNJ akk-x-mbperi:wabālu[carry]V
-aemw/amarna/P270890,EA 005. Gifts of Egyptian furniture for the Babylonian palace [royal letter],018,akk-x-mbperi:anumma[now]AV akk-x-mbperi:wabālu[carry]V akk-x-mbperi:šulmānu[greeting-gift]N
-aemw/amarna/P270890,EA 005. Gifts of Egyptian furniture for the Babylonian palace [royal letter],019,akk-x-mbperi:ša[of]DET akk-x-mbperi:bītu[house]N akk-x-mbperi:eššu[new]AJ akk-x-mbperi:ana[to]PRP akk-x-mbperi:qātu[hand]N akk-x-mbperi:Šutti[1]PN
-aemw/amarna/P270890,EA 005. Gifts of Egyptian furniture for the Babylonian palace [royal letter],020,akk-x-mbperi:eršu[bed]N akk-x-mbperi:ša[of]DET akk-x-mbperi:ušû[(a-hard-stone;-phps.)-diorite]N akk-x-mbperi:šinnu[tooth]N akk-x-mbperi:pīru[elephant]N akk-x-mbperi:hurāṣu[gold]N akk-x-mbperi:uhhuzu[plated-with]AJ
-aemw/amarna/P270890,EA 005. Gifts of Egyptian furniture for the Babylonian palace [royal letter],021,akk-x-mbperi:eršu[bed]N akk-x-mbperi:ša[of]DET akk-x-mbperi:ušû[(a-hard-stone;-phps.)-diorite]N akk-x-mbperi:hurāṣu[gold]N akk-x-mbperi:uhhuzu[plated-with]AJ
-aemw/amarna/P270890,EA 005. Gifts of Egyptian furniture for the Babylonian palace [royal letter],022,akk-x-mbperi:uruššu[(a-wooden-object)]N akk-x-mbperi:ša[of]DET akk-x-mbperi:ušû[(a-hard-stone;-phps.)-diorite]N akk-x-mbperi:hurāṣu[gold]N akk-x-mbperi:uhhuzu[plated-with]AJ
-aemw/amarna/P270890,EA 005. Gifts of Egyptian furniture for the Babylonian palace [royal letter],023,akk-x-mbperi:kussû[chair]N akk-x-mbperi:rabû[big]AJ akk-x-mbperi:ša[of]DET akk-x-mbperi:ušû[(a-hard-stone;-phps.)-diorite]N akk-x-mbperi:hurāṣu[gold]N akk-x-mbperi:uhhuzu[plated-with]AJ
-aemw/amarna/P270890,EA 005. Gifts of Egyptian furniture for the Babylonian palace [royal letter],024,akk-x-mbperi:kussû[chair]N akk-x-mbperi:ša[of]DET akk-x-mbperi:ušû[(a-hard-stone;-phps.)-diorite]N akk-x-mbperi:hurāṣu[gold]N akk-x-mbperi:uhhuzu[plated-with]AJ
-aemw/amarna/P270890,EA 005. Gifts of Egyptian furniture for the Babylonian palace [royal letter],025,akk-x-mbperi:kussû[chair]N akk-x-mbperi:ša[of]DET akk-x-mbperi:ušû[(a-hard-stone;-phps.)-diorite]N akk-x-mbperi:hurāṣu[gold]N akk-x-mbperi:uhhuzu[plated-with]AJ
-aemw/amarna/P270890,EA 005. Gifts of Egyptian furniture for the Babylonian palace [royal letter],026,akk-x-mbperi:annû[this]DP akk-x-mbperi:gabbu[totality]N akk-x-mbperi:hurāṣu[gold]N akk-x-mbperi:šuqultu[weight]N akk-x-mbperi:manû[mina]N akk-x-mbperi:šiqlu[shekel]N akk-x-mbperi:hurāṣu[gold]N
-aemw/amarna/P270890,EA 005. Gifts of Egyptian furniture for the Babylonian palace [royal letter],027,akk-x-mbperi:šuqultu[weight]N akk-x-mbperi:ša[of]DET akk-x-mbperi:kaspu[silver]N akk-x-mbperi:manû[mina]N akk-x-mbperi:šiqlu[shekel]N akk-x-mbperi:kaspu[silver]N
-aemw/amarna/P270890,EA 005. Gifts of Egyptian furniture for the Babylonian palace [royal letter],028,akk-x-mbperi:u[and]CNJ akk-x-mbperi:šiqlu[shekel]N akk-x-mbperi:kaspu[silver]N akk-x-mbperi:gištappu[footstool]N akk-x-mbperi:ša[of]DET akk-x-mbperi:ušû[(a-hard-stone;-phps.)-diorite]N
-aemw/amarna/P270890,EA 005. Gifts of Egyptian furniture for the Babylonian palace [royal letter],029,akk-x-mbperi:qablu[hips]N akk-x-mbperi:ša[of]DET akk-x-mbperi:ušû[(a-hard-stone;-phps.)-diorite]N akk-x-mbperi:hurāṣu[gold]N akk-x-mbperi:uhhuzu[plated-with]AJ
-aemw/amarna/P270890,EA 005. Gifts of Egyptian furniture for the Babylonian palace [royal letter],030,akk-x-mbperi:gištappu[footstool]N akk-x-mbperi:ša[of]DET akk-x-mbperi:ušû[(a-hard-stone;-phps.)-diorite]N akk-x-mbperi:hurāṣu[gold]N akk-x-mbperi:uhhuzu[plated-with]AJ
-aemw/amarna/P270890,EA 005. Gifts of Egyptian furniture for the Babylonian palace [royal letter],r 032,akk-x-mbperi:annû[this]DP akk-x-mbperi:ša[of]DET akk-x-mbperi:ṭuppu[(clay)-tablet]N akk-x-mbperi:ša[of]DET akk-x-mbperi:hurāṣu[gold]N
+aemw/amarna/P270890,EA 005. Gifts of Egyptian furniture for the Babylonian palace [royal letter],001,
+aemw/amarna/P270890,EA 005. Gifts of Egyptian furniture for the Babylonian palace [royal letter],002,
+aemw/amarna/P270890,EA 005. Gifts of Egyptian furniture for the Babylonian palace [royal letter],003,
+aemw/amarna/P270890,EA 005. Gifts of Egyptian furniture for the Babylonian palace [royal letter],004,
+aemw/amarna/P270890,EA 005. Gifts of Egyptian furniture for the Babylonian palace [royal letter],005,
+aemw/amarna/P270890,EA 005. Gifts of Egyptian furniture for the Babylonian palace [royal letter],006,
+aemw/amarna/P270890,EA 005. Gifts of Egyptian furniture for the Babylonian palace [royal letter],007,
+aemw/amarna/P270890,EA 005. Gifts of Egyptian furniture for the Babylonian palace [royal letter],008,
+aemw/amarna/P270890,EA 005. Gifts of Egyptian furniture for the Babylonian palace [royal letter],009,
+aemw/amarna/P270890,EA 005. Gifts of Egyptian furniture for the Babylonian palace [royal letter],010,
+aemw/amarna/P270890,EA 005. Gifts of Egyptian furniture for the Babylonian palace [royal letter],011,
+aemw/amarna/P270890,EA 005. Gifts of Egyptian furniture for the Babylonian palace [royal letter],012,
+aemw/amarna/P270890,EA 005. Gifts of Egyptian furniture for the Babylonian palace [royal letter],013,
+aemw/amarna/P270890,EA 005. Gifts of Egyptian furniture for the Babylonian palace [royal letter],014,
+aemw/amarna/P270890,EA 005. Gifts of Egyptian furniture for the Babylonian palace [royal letter],015,
+aemw/amarna/P270890,EA 005. Gifts of Egyptian furniture for the Babylonian palace [royal letter],016,
+aemw/amarna/P270890,EA 005. Gifts of Egyptian furniture for the Babylonian palace [royal letter],017,
+aemw/amarna/P270890,EA 005. Gifts of Egyptian furniture for the Babylonian palace [royal letter],018,
+aemw/amarna/P270890,EA 005. Gifts of Egyptian furniture for the Babylonian palace [royal letter],019,
+aemw/amarna/P270890,EA 005. Gifts of Egyptian furniture for the Babylonian palace [royal letter],020,
+aemw/amarna/P270890,EA 005. Gifts of Egyptian furniture for the Babylonian palace [royal letter],021,
+aemw/amarna/P270890,EA 005. Gifts of Egyptian furniture for the Babylonian palace [royal letter],022,
+aemw/amarna/P270890,EA 005. Gifts of Egyptian furniture for the Babylonian palace [royal letter],023,
+aemw/amarna/P270890,EA 005. Gifts of Egyptian furniture for the Babylonian palace [royal letter],024,
+aemw/amarna/P270890,EA 005. Gifts of Egyptian furniture for the Babylonian palace [royal letter],025,
+aemw/amarna/P270890,EA 005. Gifts of Egyptian furniture for the Babylonian palace [royal letter],026,
+aemw/amarna/P270890,EA 005. Gifts of Egyptian furniture for the Babylonian palace [royal letter],027,
+aemw/amarna/P270890,EA 005. Gifts of Egyptian furniture for the Babylonian palace [royal letter],028,
+aemw/amarna/P270890,EA 005. Gifts of Egyptian furniture for the Babylonian palace [royal letter],029,
+aemw/amarna/P270890,EA 005. Gifts of Egyptian furniture for the Babylonian palace [royal letter],030,
+aemw/amarna/P270890,EA 005. Gifts of Egyptian furniture for the Babylonian palace [royal letter],r 032,

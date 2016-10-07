@@ -1,22 +1,22 @@
 id_text,text_name,l_no,text
-aemw/amarna/P271068,EA 335. All alone [vassal letter],000,akk-x-mbperi:ana[to]PRP akk-x-mbperi:šarru[king]N akk-x-mbperi:bēlu[lord]N akk-x-mbperi:qabû[say]V
-aemw/amarna/P271068,EA 335. All alone [vassal letter],001,akk-x-mbperi:umma[saying]PRP akk-x-mbperi:Abdi-Aštarti[1]PN akk-x-mbperi:wardu[slave]N
-aemw/amarna/P271068,EA 335. All alone [vassal letter],002,akk-x-mbperi:ana[to]PRP akk-x-mbperi:šēpu[foot]N akk-x-mbperi:bēlu[lord]N akk-x-mbperi:u[and]CNJ akk-x-mbperi:mila[times]N
-aemw/amarna/P271068,EA 335. All alone [vassal letter],003,akk-x-mbperi:maqtu[fallen]AJ akk-x-mbperi:u[and]CNJ akk-x-mbperi:kabattu[liver]N akk-x-mbperi:u[and]CNJ akk-x-mbperi:šuʾru[back]N
-aemw/amarna/P271068,EA 335. All alone [vassal letter],004,akk-x-mbperi:ana[to]PRP akk-x-mbperi:šēpu[foot]N akk-x-mbperi:šarru[king]N akk-x-mbperi:bēlu[lord]N
-aemw/amarna/P271068,EA 335. All alone [vassal letter],005,akk-x-mbperi:lamādu[learn]V akk-x-mbperi:šarru[king]N akk-x-mbperi:bēlu[lord]N
-aemw/amarna/P271068,EA 335. All alone [vassal letter],006,akk-x-mbperi:kīma[like]PRP akk-x-mbperi:bašû[be(come)-at-hand]V
-aemw/amarna/P271068,EA 335. All alone [vassal letter],007,akk-x-mbperi:lamādu[learn]V akk-x-mbperi:šarru[king]N akk-x-mbperi:bēlu[lord]N
-aemw/amarna/P271068,EA 335. All alone [vassal letter],008,akk-x-mbperi:kīma[like]PRP akk-x-mbperi:dīku[killed]AJ akk-x-mbperi:mahṣu[beaten]AJ
-aemw/amarna/P271068,EA 335. All alone [vassal letter],009,akk-x-mbperi:Turbaṣu[1]PN akk-x-mbperi:u[and]CNJ akk-x-mbperi:Yaptih-Haddi[1]PN
-aemw/amarna/P271068,EA 335. All alone [vassal letter],010,akk-x-mbperi:u[and]CNJ akk-x-mbperi:nukurtu[enmity]N akk-x-mbperi:Lakišu[Lachish]GN
-aemw/amarna/P271068,EA 335. All alone [vassal letter],011,akk-x-mbperi:lamādu[learn]V akk-x-mbperi:šarru[king]N akk-x-mbperi:bēlu[lord]N
-aemw/amarna/P271068,EA 335. All alone [vassal letter],012,akk-x-mbperi:u[and]CNJ akk-x-mbperi:leqû[take]V akk-x-mbperi:awīlu[man]N akk-x-mbperi:arnu[guilt]N
-aemw/amarna/P271068,EA 335. All alone [vassal letter],013,akk-x-mbperi:gabbu[totality]N akk-x-mbperi:ahu[brother]N akk-x-mbperi:damqu[good]AJ
-aemw/amarna/P271068,EA 335. All alone [vassal letter],014,akk-x-mbperi:lamādu[learn]V
-aemw/amarna/P271068,EA 335. All alone [vassal letter],015,akk-x-mbperi:šarru[king]N akk-x-mbperi:bēlu[lord]N akk-x-mbperi:kīma[like]PRP
-aemw/amarna/P271068,EA 335. All alone [vassal letter],016,akk-x-mbperi:nakru[strange]AJ akk-x-mbperi:Lakišu[Lachish]GN
-aemw/amarna/P271068,EA 335. All alone [vassal letter],017,akk-x-mbperi:u[and]CNJ akk-x-mbperi:ṣabtu[captured]AJ akk-x-mbperi:Muhraštu[Moreset-Gat]GN
-aemw/amarna/P271068,EA 335. All alone [vassal letter],018,akk-x-mbperi:u[and]CNJ akk-x-mbperi:nakru[strange]AJ
-aemw/amarna/P271068,EA 335. All alone [vassal letter],019,akk-x-mbperi:Urušalim[Jerusalem]GN
-aemw/amarna/P271068,EA 335. All alone [vassal letter],020,akk-x-mbperi:u[and]CNJ akk-x-mbperi:wašāru[sink-down]V akk-x-mbperi:šarru[king]N
+aemw/amarna/P271068,EA 335. All alone [vassal letter],000,akk-x-mbperi:šarru[king]N akk-x-mbperi:bēlu[lord]N
+aemw/amarna/P271068,EA 335. All alone [vassal letter],001,akk-x-mbperi:wardu[slave]N
+aemw/amarna/P271068,EA 335. All alone [vassal letter],002,akk-x-mbperi:šēpu[foot]N akk-x-mbperi:bēlu[lord]N akk-x-mbperi:mila[times]N
+aemw/amarna/P271068,EA 335. All alone [vassal letter],003,akk-x-mbperi:kabattu[liver]N akk-x-mbperi:šuʾru[back]N
+aemw/amarna/P271068,EA 335. All alone [vassal letter],004,akk-x-mbperi:šēpu[foot]N akk-x-mbperi:šarru[king]N akk-x-mbperi:bēlu[lord]N
+aemw/amarna/P271068,EA 335. All alone [vassal letter],005,akk-x-mbperi:šarru[king]N akk-x-mbperi:bēlu[lord]N
+aemw/amarna/P271068,EA 335. All alone [vassal letter],006,
+aemw/amarna/P271068,EA 335. All alone [vassal letter],007,akk-x-mbperi:šarru[king]N akk-x-mbperi:bēlu[lord]N
+aemw/amarna/P271068,EA 335. All alone [vassal letter],008,
+aemw/amarna/P271068,EA 335. All alone [vassal letter],009,
+aemw/amarna/P271068,EA 335. All alone [vassal letter],010,akk-x-mbperi:nukurtu[enmity]N
+aemw/amarna/P271068,EA 335. All alone [vassal letter],011,akk-x-mbperi:šarru[king]N akk-x-mbperi:bēlu[lord]N
+aemw/amarna/P271068,EA 335. All alone [vassal letter],012,akk-x-mbperi:awīlu[man]N akk-x-mbperi:arnu[guilt]N
+aemw/amarna/P271068,EA 335. All alone [vassal letter],013,akk-x-mbperi:gabbu[totality]N akk-x-mbperi:ahu[brother]N
+aemw/amarna/P271068,EA 335. All alone [vassal letter],014,
+aemw/amarna/P271068,EA 335. All alone [vassal letter],015,akk-x-mbperi:šarru[king]N akk-x-mbperi:bēlu[lord]N
+aemw/amarna/P271068,EA 335. All alone [vassal letter],016,
+aemw/amarna/P271068,EA 335. All alone [vassal letter],017,
+aemw/amarna/P271068,EA 335. All alone [vassal letter],018,
+aemw/amarna/P271068,EA 335. All alone [vassal letter],019,
+aemw/amarna/P271068,EA 335. All alone [vassal letter],020,akk-x-mbperi:šarru[king]N

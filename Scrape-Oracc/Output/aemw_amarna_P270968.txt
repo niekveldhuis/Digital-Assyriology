@@ -1,22 +1,22 @@
 id_text,text_name,l_no,text
-aemw/amarna/P270968,EA 230. An unusual message [vassal letter],001,akk-x-mbperi:ana[to]PRP akk-x-mbperi:šarru[king]N akk-x-mbperi:bēlu[lord]N akk-x-mbperi:qabû[say]V
-aemw/amarna/P270968,EA 230. An unusual message [vassal letter],002,akk-x-mbperi:umma[saying]PRP akk-x-mbperi:Maya[1]PN akk-x-mbperi:wardu[slave]N
-aemw/amarna/P270968,EA 230. An unusual message [vassal letter],003,akk-x-mbperi:ana[to]PRP akk-x-mbperi:šēpu[foot]N akk-x-mbperi:maqātu[fall]V
-aemw/amarna/P270968,EA 230. An unusual message [vassal letter],004,akk-x-mbperi:amāru[see]V akk-x-mbperi:anāku[I]IP akk-x-mbperi:wardu[slave]N
-aemw/amarna/P270968,EA 230. An unusual message [vassal letter],005,akk-x-mbperi:ina[in]PRP akk-x-mbperi:ašru[place]N akk-x-mbperi:ša[of]DET akk-x-mbperi:bašû[be(come)-at-hand]V
-aemw/amarna/P270968,EA 230. An unusual message [vassal letter],006,akk-x-mbperi:amāru[see]V akk-x-mbperi:ašru[place]N akk-x-mbperi:ša[of]DET akk-x-mbperi:bašû[be(come)-at-hand]V
+aemw/amarna/P270968,EA 230. An unusual message [vassal letter],001,akk-x-mbperi:šarru[king]N akk-x-mbperi:bēlu[lord]N
+aemw/amarna/P270968,EA 230. An unusual message [vassal letter],002,akk-x-mbperi:wardu[slave]N
+aemw/amarna/P270968,EA 230. An unusual message [vassal letter],003,akk-x-mbperi:šēpu[foot]N
+aemw/amarna/P270968,EA 230. An unusual message [vassal letter],004,akk-x-mbperi:wardu[slave]N
+aemw/amarna/P270968,EA 230. An unusual message [vassal letter],005,akk-x-mbperi:ašru[place]N
+aemw/amarna/P270968,EA 230. An unusual message [vassal letter],006,akk-x-mbperi:ašru[place]N
 aemw/amarna/P270968,EA 230. An unusual message [vassal letter],007,akk-x-mbperi:ālu[city]N akk-x-mbperi:gabbu[totality]N
-aemw/amarna/P270968,EA 230. An unusual message [vassal letter],008,akk-x-mbperi:anāku[I]IP akk-x-mbperi:wardu[slave]N akk-x-mbperi:kittu[steadiness]N
+aemw/amarna/P270968,EA 230. An unusual message [vassal letter],008,akk-x-mbperi:wardu[slave]N akk-x-mbperi:kittu[steadiness]N
 aemw/amarna/P270968,EA 230. An unusual message [vassal letter],009,akk-x-mbperi:awīlu[man]N akk-x-mbperi:hazannu[mayor]N
-aemw/amarna/P270968,EA 230. An unusual message [vassal letter],010,akk-x-mbperi:lū[indeed]MOD akk-x-mbperi:naṣru[guarded]AJ
-aemw/amarna/P270968,EA 230. An unusual message [vassal letter],011,akk-x-mbperi:šumma[if]MOD akk-x-mbperi:weʾu[(a-military-officer)]N
-aemw/amarna/P270968,EA 230. An unusual message [vassal letter],012,akk-x-mbperi:alāku[go]V akk-x-mbperi:ana[to]PRP akk-x-mbperi:muhhu[skull]N
-aemw/amarna/P270968,EA 230. An unusual message [vassal letter],013,akk-x-mbperi:u[and]CNJ akk-x-mbperi:naṣāru[guard]V
-aemw/amarna/P270968,EA 230. An unusual message [vassal letter],014,akk-x-mbperi:u[and]CNJ akk-x-mbperi:ālu[city]N akk-x-mbperi:ša[of]DET akk-x-mbperi:bašû[be(come)-at-hand]V
-aemw/amarna/P270968,EA 230. An unusual message [vassal letter],015,akk-x-mbperi:lū[indeed]MOD akk-x-mbperi:naṣru[guarded]AJ
-aemw/amarna/P270968,EA 230. An unusual message [vassal letter],016,akk-x-mbperi:gabbu[totality]N akk-x-mbperi:ana[to]PRP akk-x-mbperi:kâti[you]IP
-aemw/amarna/P270968,EA 230. An unusual message [vassal letter],017,akk-x-mbperi:u[and]CNJ akk-x-mbperi:awīlu[man]N akk-x-mbperi:hazannu[mayor]N
-aemw/amarna/P270968,EA 230. An unusual message [vassal letter],018,akk-x-mbperi:šâlu[ask]V
-aemw/amarna/P270968,EA 230. An unusual message [vassal letter],019,akk-x-mbperi:šumma[if]MOD akk-x-mbperi:lū[indeed]MOD akk-x-mbperi:naṣru[guarded]AJ
-aemw/amarna/P270968,EA 230. An unusual message [vassal letter],020,akk-x-mbperi:u[and]CNJ akk-x-mbperi:lū[let-it-be]MOD akk-x-mbperi:edû[know]V
-aemw/amarna/P270968,EA 230. An unusual message [vassal letter],021,akk-x-mbperi:inūma[when]SBJ akk-x-mbperi:šalmu[peace]N
+aemw/amarna/P270968,EA 230. An unusual message [vassal letter],010,
+aemw/amarna/P270968,EA 230. An unusual message [vassal letter],011,akk-x-mbperi:weʾu[(a-military-officer)]N
+aemw/amarna/P270968,EA 230. An unusual message [vassal letter],012,akk-x-mbperi:muhhu[skull]N
+aemw/amarna/P270968,EA 230. An unusual message [vassal letter],013,
+aemw/amarna/P270968,EA 230. An unusual message [vassal letter],014,akk-x-mbperi:ālu[city]N
+aemw/amarna/P270968,EA 230. An unusual message [vassal letter],015,
+aemw/amarna/P270968,EA 230. An unusual message [vassal letter],016,akk-x-mbperi:gabbu[totality]N
+aemw/amarna/P270968,EA 230. An unusual message [vassal letter],017,akk-x-mbperi:awīlu[man]N akk-x-mbperi:hazannu[mayor]N
+aemw/amarna/P270968,EA 230. An unusual message [vassal letter],018,
+aemw/amarna/P270968,EA 230. An unusual message [vassal letter],019,
+aemw/amarna/P270968,EA 230. An unusual message [vassal letter],020,
+aemw/amarna/P270968,EA 230. An unusual message [vassal letter],021,akk-x-mbperi:šalmu[peace]N

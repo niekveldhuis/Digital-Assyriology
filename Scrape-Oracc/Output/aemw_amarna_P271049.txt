@@ -1,25 +1,25 @@
 id_text,text_name,l_no,text
-aemw/amarna/P271049,EA 067. A plea for a reckoning [vassal letter],001,akk-x-mbperi:ana[to]PRP akk-x-mbperi:šarru[king]N akk-x-mbperi:Šamaš[1]DN akk-x-mbperi:bēlu[lord]N akk-x-mbperi:qabû[say]V akk-x-mbperi:umma[saying]PRP
-aemw/amarna/P271049,EA 067. A plea for a reckoning [vassal letter],002,akk-x-mbperi:wardu[slave]N akk-x-mbperi:ana[to]PRP akk-x-mbperi:šēpu[foot]N akk-x-mbperi:šarru[king]N akk-x-mbperi:Šamaš[1]DN akk-x-mbperi:bēlu[lord]N
-aemw/amarna/P271049,EA 067. A plea for a reckoning [vassal letter],003,akk-x-mbperi:u[and]CNJ akk-x-mbperi:maqātu[fall]V
-aemw/amarna/P271049,EA 067. A plea for a reckoning [vassal letter],004,akk-x-mbperi:anumma[now]AV akk-x-mbperi:edû[know]V akk-x-mbperi:Šamaš[1]DN akk-x-mbperi:bēlu[lord]N akk-x-mbperi:ana[to]PRP
-aemw/amarna/P271049,EA 067. A plea for a reckoning [vassal letter],005,akk-x-mbperi:ālu[city]N akk-x-mbperi:Šamaš[1]DN akk-x-mbperi:bēlu[lord]N akk-x-mbperi:Ṣumur[1]GN
-aemw/amarna/P271049,EA 067. A plea for a reckoning [vassal letter],006,akk-x-mbperi:anumma[now]AV akk-x-mbperi:inanna[now]AV akk-x-mbperi:Aziru[1]PN akk-x-mbperi:wašbu[inhabited]AJ akk-x-mbperi:ina[in]PRP
-aemw/amarna/P271049,EA 067. A plea for a reckoning [vassal letter],007,akk-x-mbperi:Ṣumur[1]GN akk-x-mbperi:qadu[together-with]PRP akk-x-mbperi:ṣābu[people]N akk-x-mbperi:qadu[together-with]PRP akk-x-mbperi:narkabtu[chariot]N
-aemw/amarna/P271049,EA 067. A plea for a reckoning [vassal letter],008,akk-x-mbperi:u[and]CNJ akk-x-mbperi:šarru[king]N akk-x-mbperi:Šamaš[1]DN akk-x-mbperi:bēlu[lord]N akk-x-mbperi:šâlu[ask]V
-aemw/amarna/P271049,EA 067. A plea for a reckoning [vassal letter],009,akk-x-mbperi:ana[to]PRP akk-x-mbperi:Ṣumur[1]GN akk-x-mbperi:ālu[city]N akk-x-mbperi:Šamaš[1]DN akk-x-mbperi:bēlu[lord]N
-aemw/amarna/P271049,EA 067. A plea for a reckoning [vassal letter],010,akk-x-mbperi:u[and]CNJ akk-x-mbperi:Šamaš[1]DN akk-x-mbperi:lū[let-it-be]MOD akk-x-mbperi:edû[know]V akk-x-mbperi:damqu[good]AJ akk-x-mbperi:gabbu[totality]N akk-x-mbperi:awīlu[man]N akk-x-mbperi:Miṣru[Egypt]GN
-aemw/amarna/P271049,EA 067. A plea for a reckoning [vassal letter],011,akk-x-mbperi:ša[that]REL akk-x-mbperi:wašbu[inhabited]AJ akk-x-mbperi:ina[in]PRP akk-x-mbperi:Ṣumur[1]GN akk-x-mbperi:ālu[city]N akk-x-mbperi:Šamaš[1]DN akk-x-mbperi:bēlu[lord]N
-aemw/amarna/P271049,EA 067. A plea for a reckoning [vassal letter],012,akk-x-mbperi:waṣû[go-out]V akk-x-mbperi:u[and]CNJ akk-x-mbperi:ina[in]PRP akk-x-mbperi:mātu[land]N akk-x-mbperi:wašbu[inhabited]AJ
-aemw/amarna/P271049,EA 067. A plea for a reckoning [vassal letter],013,akk-x-mbperi:bēlu[lord]N akk-x-mbperi:u[and]CNJ akk-x-mbperi:epēšu[do]V akk-x-mbperi:māmītu[oath]N
-aemw/amarna/P271049,EA 067. A plea for a reckoning [vassal letter],014,akk-x-mbperi:itti[with]PRP akk-x-mbperi:awīlu[man]N akk-x-mbperi:ša[of]DET akk-x-mbperi:Gublu[Byblos]GN akk-x-mbperi:u[and]CNJ akk-x-mbperi:itti[with]PRP akk-x-mbperi:awīlu[man]N akk-x-mbperi:ša[of]DET akk-x-mbperi:ālu[city]N
-aemw/amarna/P271049,EA 067. A plea for a reckoning [vassal letter],015,akk-x-mbperi:u[and]CNJ akk-x-mbperi:gabbu[totality]N akk-x-mbperi:awīlu[man]N akk-x-mbperi:halzuhlu[district-governor]N akk-x-mbperi:ša[of]DET akk-x-mbperi:mātu[land]N akk-x-mbperi:u[and]CNJ
-aemw/amarna/P271049,EA 067. A plea for a reckoning [vassal letter],016,akk-x-mbperi:itti[with]PRP akk-x-mbperi:ṭābu[good]AJ akk-x-mbperi:bēlu[lord]N akk-x-mbperi:inanna[now]AV akk-x-mbperi:šūt[he]IP akk-x-mbperi:kīma[like]PRP
-aemw/amarna/P271049,EA 067. A plea for a reckoning [vassal letter],017,akk-x-mbperi:hāpiru[(class-of)-vagrant]N akk-x-mbperi:kalbu[dog]N akk-x-mbperi:halqu[lost]AJ akk-x-mbperi:u[and]CNJ akk-x-mbperi:ṣabātu[seize]V
-aemw/amarna/P271049,EA 067. A plea for a reckoning [vassal letter],018,akk-x-mbperi:Ṣumur[1]GN akk-x-mbperi:ālu[city]N akk-x-mbperi:Šamaš[1]DN akk-x-mbperi:bēlu[lord]N
-aemw/amarna/P271049,EA 067. A plea for a reckoning [vassal letter],019,akk-x-mbperi:ilu[god]N
-aemw/amarna/P271049,EA 067. A plea for a reckoning [vassal letter],020,akk-x-mbperi:Šamaš[1]DN akk-x-mbperi:bēlu[lord]N
-aemw/amarna/P271049,EA 067. A plea for a reckoning [vassal letter],021,akk-x-mbperi:wabālu[carry]V
-aemw/amarna/P271049,EA 067. A plea for a reckoning [vassal letter],r 07,akk-x-mbperi:ša[of]DET
-aemw/amarna/P271049,EA 067. A plea for a reckoning [vassal letter],r 10,akk-x-mbperi:u[and]CNJ
-aemw/amarna/P271049,EA 067. A plea for a reckoning [vassal letter],r 11,akk-x-mbperi:ša[of]DET
+aemw/amarna/P271049,EA 067. A plea for a reckoning [vassal letter],001,
+aemw/amarna/P271049,EA 067. A plea for a reckoning [vassal letter],002,
+aemw/amarna/P271049,EA 067. A plea for a reckoning [vassal letter],003,
+aemw/amarna/P271049,EA 067. A plea for a reckoning [vassal letter],004,
+aemw/amarna/P271049,EA 067. A plea for a reckoning [vassal letter],005,
+aemw/amarna/P271049,EA 067. A plea for a reckoning [vassal letter],006,
+aemw/amarna/P271049,EA 067. A plea for a reckoning [vassal letter],007,
+aemw/amarna/P271049,EA 067. A plea for a reckoning [vassal letter],008,
+aemw/amarna/P271049,EA 067. A plea for a reckoning [vassal letter],009,
+aemw/amarna/P271049,EA 067. A plea for a reckoning [vassal letter],010,
+aemw/amarna/P271049,EA 067. A plea for a reckoning [vassal letter],011,
+aemw/amarna/P271049,EA 067. A plea for a reckoning [vassal letter],012,
+aemw/amarna/P271049,EA 067. A plea for a reckoning [vassal letter],013,
+aemw/amarna/P271049,EA 067. A plea for a reckoning [vassal letter],014,
+aemw/amarna/P271049,EA 067. A plea for a reckoning [vassal letter],015,
+aemw/amarna/P271049,EA 067. A plea for a reckoning [vassal letter],016,
+aemw/amarna/P271049,EA 067. A plea for a reckoning [vassal letter],017,
+aemw/amarna/P271049,EA 067. A plea for a reckoning [vassal letter],018,
+aemw/amarna/P271049,EA 067. A plea for a reckoning [vassal letter],019,
+aemw/amarna/P271049,EA 067. A plea for a reckoning [vassal letter],020,
+aemw/amarna/P271049,EA 067. A plea for a reckoning [vassal letter],021,
+aemw/amarna/P271049,EA 067. A plea for a reckoning [vassal letter],r 07,
+aemw/amarna/P271049,EA 067. A plea for a reckoning [vassal letter],r 10,
+aemw/amarna/P271049,EA 067. A plea for a reckoning [vassal letter],r 11,

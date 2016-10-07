@@ -1,29 +1,29 @@
 id_text,text_name,l_no,text
-aemw/amarna/P270893,EA 037. More about silver [royal letter],o 001,akk-x-mbperi:ana[to]PRP akk-x-mbperi:šarru[king]N akk-x-mbperi:mātu[land]N akk-x-mbperi:Miṣru[Egypt]GN akk-x-mbperi:ahu[brother]N
-aemw/amarna/P270893,EA 037. More about silver [royal letter],o 002,akk-x-mbperi:qabû[say]V akk-x-mbperi:umma[saying]PRP akk-x-mbperi:šarru[king]N akk-x-mbperi:mātu[land]N akk-x-mbperi:Alašiya[Cyprus]GN
-aemw/amarna/P270893,EA 037. More about silver [royal letter],o 003,akk-x-mbperi:ahu[brother]N akk-x-mbperi:ana[to]PRP akk-x-mbperi:yâšim[to-me]IP akk-x-mbperi:šulmu[completeness]N
-aemw/amarna/P270893,EA 037. More about silver [royal letter],o 004,akk-x-mbperi:ana[to]PRP akk-x-mbperi:ahu[brother]N akk-x-mbperi:lū[indeed]MOD akk-x-mbperi:šulmu[completeness]N
-aemw/amarna/P270893,EA 037. More about silver [royal letter],o 005,akk-x-mbperi:ana[to]PRP akk-x-mbperi:bītu[house]N akk-x-mbperi:ana[to]PRP akk-x-mbperi:aššatu[wife]N
-aemw/amarna/P270893,EA 037. More about silver [royal letter],o 006,akk-x-mbperi:ana[to]PRP akk-x-mbperi:māru[son]N akk-x-mbperi:ana[to]PRP akk-x-mbperi:sisû[horse]N akk-x-mbperi:narkabtu[chariot]N
-aemw/amarna/P270893,EA 037. More about silver [royal letter],o 007,akk-x-mbperi:u[and]CNJ akk-x-mbperi:ana[to]PRP akk-x-mbperi:libbu[interior]N akk-x-mbperi:mātu[land]N akk-x-mbperi:danniš[very]AV akk-x-mbperi:lū[let-it-be]MOD akk-x-mbperi:šulmu[completeness]N
-aemw/amarna/P270893,EA 037. More about silver [royal letter],o 008,akk-x-mbperi:šulmānu[greeting-gift]N akk-x-mbperi:ša[of]DET akk-x-mbperi:ahu[brother]N
-aemw/amarna/P270893,EA 037. More about silver [royal letter],o 009,akk-x-mbperi:mekku[(type-of-glass)]N akk-x-mbperi:biltu[load]N akk-x-mbperi:ṣimittu[binding]N akk-x-mbperi:sisû[horse]N
-aemw/amarna/P270893,EA 037. More about silver [royal letter],o 010,akk-x-mbperi:šulmānu[greeting-gift]N akk-x-mbperi:ša[of]DET akk-x-mbperi:ahu[brother]N
-aemw/amarna/P270893,EA 037. More about silver [royal letter],o 011,akk-x-mbperi:māru[son]N akk-x-mbperi:šipru[sending]N akk-x-mbperi:ša[of]DET akk-x-mbperi:ahu[brother]N
-aemw/amarna/P270893,EA 037. More about silver [royal letter],o 012,akk-x-mbperi:hamutta[at-once]AV akk-x-mbperi:šapāru[send]V
-aemw/amarna/P270893,EA 037. More about silver [royal letter],o 013,akk-x-mbperi:u[and]CNJ akk-x-mbperi:inanna[now]AV akk-x-mbperi:ahu[brother]N akk-x-mbperi:māru[son]N akk-x-mbperi:šipru[sending]N
-aemw/amarna/P270893,EA 037. More about silver [royal letter],o 014,akk-x-mbperi:hamutta[at-once]AV akk-x-mbperi:ešēru[be(come)-well]V
-aemw/amarna/P270893,EA 037. More about silver [royal letter],o 015,akk-x-mbperi:šulmānu[greeting-gift]N akk-x-mbperi:ša[of]DET akk-x-mbperi:ahu[brother]N
-aemw/amarna/P270893,EA 037. More about silver [royal letter],o 016,akk-x-mbperi:šâlu[ask]V akk-x-mbperi:u[and]CNJ akk-x-mbperi:ša[that]REL akk-x-mbperi:hašhu[one-who-needs]AJ
-aemw/amarna/P270893,EA 037. More about silver [royal letter],o 017,akk-x-mbperi:ina[in]PRP akk-x-mbperi:ṭuppu[(clay)-tablet]N akk-x-mbperi:šakānu[put]V akk-x-mbperi:wabālu[carry]V
-aemw/amarna/P270893,EA 037. More about silver [royal letter],o 018,akk-x-mbperi:kaspu[silver]N akk-x-mbperi:ṣarpu[burnt]AJ akk-x-mbperi:wabālu[carry]V
-aemw/amarna/P270893,EA 037. More about silver [royal letter],o 019,akk-x-mbperi:ahu[brother]N akk-x-mbperi:māru[son]N akk-x-mbperi:šipru[sending]N
-aemw/amarna/P270893,EA 037. More about silver [royal letter],o 020,akk-x-mbperi:lā[not]MOD akk-x-mbperi:kalû[hold-(back)]V akk-x-mbperi:šapāru[send]V
-aemw/amarna/P270893,EA 037. More about silver [royal letter],r 021,akk-x-mbperi:Baštumme[1]PN
-aemw/amarna/P270893,EA 037. More about silver [royal letter],r 022,akk-x-mbperi:Kunneya[1]PN
-aemw/amarna/P270893,EA 037. More about silver [royal letter],r 023,akk-x-mbperi:Etilluna[1]PN
-aemw/amarna/P270893,EA 037. More about silver [royal letter],r 024,akk-x-mbperi:X-ruma[1]PN
-aemw/amarna/P270893,EA 037. More about silver [royal letter],r 025,akk-x-mbperi:Ušbarra[1]PN
-aemw/amarna/P270893,EA 037. More about silver [royal letter],r 026,akk-x-mbperi:Bel-šamma[1]PN
-aemw/amarna/P270893,EA 037. More about silver [royal letter],r 027,akk-x-mbperi:ahu[brother]N akk-x-mbperi:wašāru[sink-down]V
-aemw/amarna/P270893,EA 037. More about silver [royal letter],r 028,akk-x-mbperi:ša[that]REL akk-x-mbperi:itti[with]PRP
+aemw/amarna/P270893,EA 037. More about silver [royal letter],o 001,
+aemw/amarna/P270893,EA 037. More about silver [royal letter],o 002,
+aemw/amarna/P270893,EA 037. More about silver [royal letter],o 003,
+aemw/amarna/P270893,EA 037. More about silver [royal letter],o 004,
+aemw/amarna/P270893,EA 037. More about silver [royal letter],o 005,
+aemw/amarna/P270893,EA 037. More about silver [royal letter],o 006,
+aemw/amarna/P270893,EA 037. More about silver [royal letter],o 007,
+aemw/amarna/P270893,EA 037. More about silver [royal letter],o 008,
+aemw/amarna/P270893,EA 037. More about silver [royal letter],o 009,
+aemw/amarna/P270893,EA 037. More about silver [royal letter],o 010,
+aemw/amarna/P270893,EA 037. More about silver [royal letter],o 011,
+aemw/amarna/P270893,EA 037. More about silver [royal letter],o 012,
+aemw/amarna/P270893,EA 037. More about silver [royal letter],o 013,
+aemw/amarna/P270893,EA 037. More about silver [royal letter],o 014,
+aemw/amarna/P270893,EA 037. More about silver [royal letter],o 015,
+aemw/amarna/P270893,EA 037. More about silver [royal letter],o 016,
+aemw/amarna/P270893,EA 037. More about silver [royal letter],o 017,
+aemw/amarna/P270893,EA 037. More about silver [royal letter],o 018,
+aemw/amarna/P270893,EA 037. More about silver [royal letter],o 019,
+aemw/amarna/P270893,EA 037. More about silver [royal letter],o 020,
+aemw/amarna/P270893,EA 037. More about silver [royal letter],r 021,
+aemw/amarna/P270893,EA 037. More about silver [royal letter],r 022,
+aemw/amarna/P270893,EA 037. More about silver [royal letter],r 023,
+aemw/amarna/P270893,EA 037. More about silver [royal letter],r 024,
+aemw/amarna/P270893,EA 037. More about silver [royal letter],r 025,
+aemw/amarna/P270893,EA 037. More about silver [royal letter],r 026,
+aemw/amarna/P270893,EA 037. More about silver [royal letter],r 027,
+aemw/amarna/P270893,EA 037. More about silver [royal letter],r 028,

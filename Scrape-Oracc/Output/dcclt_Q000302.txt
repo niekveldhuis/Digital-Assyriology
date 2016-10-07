@@ -5,18 +5,18 @@ dcclt/Q000302,OB Lu₂-azlag₂ B-C,Seg.1; 3,
 dcclt/Q000302,OB Lu₂-azlag₂ B-C,Seg.1; 4,
 dcclt/Q000302,OB Lu₂-azlag₂ B-C,Seg.1; 5,
 dcclt/Q000302,OB Lu₂-azlag₂ B-C,Seg.1; 6,
-dcclt/Q000302,OB Lu₂-azlag₂ B-C,Seg.1; 7,sux:lu[person]N sux:tug[textile]N sux:bala[turn]V/t
-dcclt/Q000302,OB Lu₂-azlag₂ B-C,Seg.1; 8,sux:lu[person]N sux:tug[textile]N sux:tun[lip]N sux:bur[spread]V/t
-dcclt/Q000302,OB Lu₂-azlag₂ B-C,Seg.1; 9,sux:lu[person]N sux:tug[textile]N sux:tun[lip]N sux:sur[spin]V/t
-dcclt/Q000302,OB Lu₂-azlag₂ B-C,Seg.1; 10,sux:lu[person]N sux:tug[textile]N sux:šu[hand]N sux:ur[drag]V/t
-dcclt/Q000302,OB Lu₂-azlag₂ B-C,Seg.1; 11,sux:lu[person]N sux:tug[textile]N sux:dub[tremble]V/t
-dcclt/Q000302,OB Lu₂-azlag₂ B-C,Seg.1; 12,sux:lu[person]N sux:tug[textile]N sux:pa[branch]N sux:kud[cut]V/t
+dcclt/Q000302,OB Lu₂-azlag₂ B-C,Seg.1; 7,sux:lu[person]N sux:tug[textile]N
+dcclt/Q000302,OB Lu₂-azlag₂ B-C,Seg.1; 8,sux:lu[person]N sux:tug[textile]N sux:tun[lip]N
+dcclt/Q000302,OB Lu₂-azlag₂ B-C,Seg.1; 9,sux:lu[person]N sux:tug[textile]N sux:tun[lip]N
+dcclt/Q000302,OB Lu₂-azlag₂ B-C,Seg.1; 10,sux:lu[person]N sux:tug[textile]N sux:šu[hand]N
+dcclt/Q000302,OB Lu₂-azlag₂ B-C,Seg.1; 11,sux:lu[person]N sux:tug[textile]N
+dcclt/Q000302,OB Lu₂-azlag₂ B-C,Seg.1; 12,sux:lu[person]N sux:tug[textile]N sux:pa[branch]N
 dcclt/Q000302,OB Lu₂-azlag₂ B-C,Seg.1; 13,sux:lu[person]N sux:tuggilima[profession]N
 dcclt/Q000302,OB Lu₂-azlag₂ B-C,Seg.1; 14,sux:lu[person]N
 dcclt/Q000302,OB Lu₂-azlag₂ B-C,Seg.1; 15,sux:lu[person]N sux:tugšukura[profession]N
 dcclt/Q000302,OB Lu₂-azlag₂ B-C,Seg.1; 16,sux:lu[person]N sux:tugšukurura[profession]N
-dcclt/Q000302,OB Lu₂-azlag₂ B-C,Seg.1; 17,sux:lu[person]N sux:tug[textile]N sux:sa[sinew]N sux:gi[turn]V/i
-dcclt/Q000302,OB Lu₂-azlag₂ B-C,Seg.1; 18,sux:lu[person]N sux:tug[textile]N sux:a[water]N sux:gi[turn]V/i
+dcclt/Q000302,OB Lu₂-azlag₂ B-C,Seg.1; 17,sux:lu[person]N sux:tug[textile]N sux:sa[sinew]N
+dcclt/Q000302,OB Lu₂-azlag₂ B-C,Seg.1; 18,sux:lu[person]N sux:tug[textile]N sux:a[water]N
 dcclt/Q000302,OB Lu₂-azlag₂ B-C,Seg.1; 19,sux:lu[person]N sux:tug[textile]N sux:mudur[dirt]N
 dcclt/Q000302,OB Lu₂-azlag₂ B-C,Seg.1; 20,sux:luʾurak[profession]N
 dcclt/Q000302,OB Lu₂-azlag₂ B-C,Seg.1; 21,sux:lungak[brewer]N
@@ -33,124 +33,124 @@ dcclt/Q000302,OB Lu₂-azlag₂ B-C,Seg.1; 31,sux:munus[woman]N sux:lunisub[ecs
 dcclt/Q000302,OB Lu₂-azlag₂ B-C,Seg.1; 34,
 dcclt/Q000302,OB Lu₂-azlag₂ B-C,Seg.1; 35,sux:lu[person]N sux:lu₂.IM[criminal]N
 dcclt/Q000302,OB Lu₂-azlag₂ B-C,Seg.1; 36,sux:lulul[liar]N
-dcclt/Q000302,OB Lu₂-azlag₂ B-C,Seg.1; 37,sux:lu[person]N sux:halam[forsake]V/i
-dcclt/Q000302,OB Lu₂-azlag₂ B-C,Seg.1; 38,sux:lu[person]N sux:hulu[bad]V/i
-dcclt/Q000302,OB Lu₂-azlag₂ B-C,Seg.1; 39,sux:lu[person]N sux:hulu[bad]V/i
-dcclt/Q000302,OB Lu₂-azlag₂ B-C,Seg.1; 40,sux:lu[person]N sux:huldim[rotten]AJ
-dcclt/Q000302,OB Lu₂-azlag₂ B-C,Seg.1; 41,sux:lu[person]N sux:huldim[rotten]AJ
-dcclt/Q000302,OB Lu₂-azlag₂ B-C,Seg.1; 42,sux:lu[person]N sux:hulu[bad]V/i sux:gig[sick]V/i
-dcclt/Q000302,OB Lu₂-azlag₂ B-C,Seg.1; 43,sux:lu[person]N sux:šag[heart]N sux:hulu[bad]V/i sux:gig[sick]V/i sux:šeš[anoint]V/t
-dcclt/Q000302,OB Lu₂-azlag₂ B-C,Seg.1; 44,sux:lu[person]N sux:šag[heart]N sux:hulu[bad]V/i sux:ak[do]V/t
+dcclt/Q000302,OB Lu₂-azlag₂ B-C,Seg.1; 37,sux:lu[person]N
+dcclt/Q000302,OB Lu₂-azlag₂ B-C,Seg.1; 38,sux:lu[person]N
+dcclt/Q000302,OB Lu₂-azlag₂ B-C,Seg.1; 39,sux:lu[person]N
+dcclt/Q000302,OB Lu₂-azlag₂ B-C,Seg.1; 40,sux:lu[person]N
+dcclt/Q000302,OB Lu₂-azlag₂ B-C,Seg.1; 41,sux:lu[person]N
+dcclt/Q000302,OB Lu₂-azlag₂ B-C,Seg.1; 42,sux:lu[person]N
+dcclt/Q000302,OB Lu₂-azlag₂ B-C,Seg.1; 43,sux:lu[person]N sux:šag[heart]N
+dcclt/Q000302,OB Lu₂-azlag₂ B-C,Seg.1; 44,sux:lu[person]N sux:šag[heart]N
 dcclt/Q000302,OB Lu₂-azlag₂ B-C,Seg.1; 45,sux:luniŋerim[evildoer]N
 dcclt/Q000302,OB Lu₂-azlag₂ B-C,Seg.1; 46,sux:lu[person]N sux:erimdu[hostile]N
 dcclt/Q000302,OB Lu₂-azlag₂ B-C,Seg.1; 47,sux:lu[person]N sux:kaš[runner]N
-dcclt/Q000302,OB Lu₂-azlag₂ B-C,Seg.1; 48,sux:lu[person]N sux:im[run]V/i
+dcclt/Q000302,OB Lu₂-azlag₂ B-C,Seg.1; 48,sux:lu[person]N
 dcclt/Q000302,OB Lu₂-azlag₂ B-C,Seg.1; 49,sux:lu[person]N sux:dubtuku[runner]N
-dcclt/Q000302,OB Lu₂-azlag₂ B-C,Seg.1; 50,sux:lu[person]N sux:usutuku[strong]AJ
+dcclt/Q000302,OB Lu₂-azlag₂ B-C,Seg.1; 50,sux:lu[person]N
 dcclt/Q000302,OB Lu₂-azlag₂ B-C,Seg.1; 51,sux:luniŋtuku[rich]N
 dcclt/Q000302,OB Lu₂-azlag₂ B-C,Seg.1; 52,sux:luniŋnutuku[poor]N
-dcclt/Q000302,OB Lu₂-azlag₂ B-C,Seg.1; 53,sux:lu[person]N sux:niŋtukutuku[rich]AJ
-dcclt/Q000302,OB Lu₂-azlag₂ B-C,Seg.1; 54,sux:lu[person]N sux:nituku[pious]AJ
-dcclt/Q000302,OB Lu₂-azlag₂ B-C,Seg.1; 55,sux:lu[person]N sux:ug[furious]V/i sux:tuku[acquire]V/t
+dcclt/Q000302,OB Lu₂-azlag₂ B-C,Seg.1; 53,sux:lu[person]N
+dcclt/Q000302,OB Lu₂-azlag₂ B-C,Seg.1; 54,sux:lu[person]N
+dcclt/Q000302,OB Lu₂-azlag₂ B-C,Seg.1; 55,sux:lu[person]N
 dcclt/Q000302,OB Lu₂-azlag₂ B-C,Seg.1; 56,sux:lu[person]N sux:kugtuku[rich-person]N
-dcclt/Q000302,OB Lu₂-azlag₂ B-C,Seg.1; 57,sux:lu[person]N sux:še[barley]N sux:tuku[acquire]V/t
-dcclt/Q000302,OB Lu₂-azlag₂ B-C,Seg.1; 58,sux:lu[person]N sux:niŋgur[property]N sux:tuku[acquire]V/t
-dcclt/Q000302,OB Lu₂-azlag₂ B-C,Seg.1; 59,sux:lu[person]N sux:ŋeš[tree]N sux:tuku[acquire]V/t
-dcclt/Q000302,OB Lu₂-azlag₂ B-C,Seg.1; 60,sux:lu[person]N sux:ŋeš[tree]N sux:tuku[acquire]V/t
-dcclt/Q000302,OB Lu₂-azlag₂ B-C,Seg.1; 61,sux:lu[person]N sux:ŋeštug[ear]N sux:šuš[cover]V/t sux:tuku[acquire]V/t
-dcclt/Q000302,OB Lu₂-azlag₂ B-C,Seg.1; 62,sux:lu[person]N sux:diŋir[deity]N sux:tuku[acquire]V/t
-dcclt/Q000302,OB Lu₂-azlag₂ B-C,Seg.1; 63,sux:lu[person]N sux:šedu[spirit]N sux:tuku[acquire]V/t
-dcclt/Q000302,OB Lu₂-azlag₂ B-C,Seg.1; 64,sux:lu[person]N sux:lammar[deity]N sux:tuku[acquire]V/t
-dcclt/Q000302,OB Lu₂-azlag₂ B-C,Seg.1; 65,sux:lu[person]N sux:diŋir[deity]N sux:tuku[acquire]V/t
+dcclt/Q000302,OB Lu₂-azlag₂ B-C,Seg.1; 57,sux:lu[person]N sux:še[barley]N
+dcclt/Q000302,OB Lu₂-azlag₂ B-C,Seg.1; 58,sux:lu[person]N sux:niŋgur[property]N
+dcclt/Q000302,OB Lu₂-azlag₂ B-C,Seg.1; 59,sux:lu[person]N sux:ŋeš[tree]N
+dcclt/Q000302,OB Lu₂-azlag₂ B-C,Seg.1; 60,sux:lu[person]N sux:ŋeš[tree]N
+dcclt/Q000302,OB Lu₂-azlag₂ B-C,Seg.1; 61,sux:lu[person]N sux:ŋeštug[ear]N
+dcclt/Q000302,OB Lu₂-azlag₂ B-C,Seg.1; 62,sux:lu[person]N sux:diŋir[deity]N
+dcclt/Q000302,OB Lu₂-azlag₂ B-C,Seg.1; 63,sux:lu[person]N sux:šedu[spirit]N
+dcclt/Q000302,OB Lu₂-azlag₂ B-C,Seg.1; 64,sux:lu[person]N sux:lammar[deity]N
+dcclt/Q000302,OB Lu₂-azlag₂ B-C,Seg.1; 65,sux:lu[person]N sux:diŋir[deity]N
 dcclt/Q000302,OB Lu₂-azlag₂ B-C,Seg.1; 66,sux:lu[person]N sux:kitila[deity]N
-dcclt/Q000302,OB Lu₂-azlag₂ B-C,Seg.1; 67,sux:lu[person]N sux:teš[vigor]N sux:tuku[acquire]V/t
-dcclt/Q000302,OB Lu₂-azlag₂ B-C,Seg.1; 68,sux:lu[person]N sux:teš[vigor]N sux:tuku[acquire]V/t
-dcclt/Q000302,OB Lu₂-azlag₂ B-C,Seg.1; 69,sux:lu[person]N sux:teš[vigor]N sux:tuku[acquire]V/t
-dcclt/Q000302,OB Lu₂-azlag₂ B-C,Seg.1; 70,sux:lu[person]N sux:teš[vigor]N sux:zu[know]V/t
-dcclt/Q000302,OB Lu₂-azlag₂ B-C,Seg.1; 71,sux:lu[person]N sux:hulu[bad]V/i sux:tuku[acquire]V/t
+dcclt/Q000302,OB Lu₂-azlag₂ B-C,Seg.1; 67,sux:lu[person]N sux:teš[vigor]N
+dcclt/Q000302,OB Lu₂-azlag₂ B-C,Seg.1; 68,sux:lu[person]N sux:teš[vigor]N
+dcclt/Q000302,OB Lu₂-azlag₂ B-C,Seg.1; 69,sux:lu[person]N sux:teš[vigor]N
+dcclt/Q000302,OB Lu₂-azlag₂ B-C,Seg.1; 70,sux:lu[person]N sux:teš[vigor]N
+dcclt/Q000302,OB Lu₂-azlag₂ B-C,Seg.1; 71,sux:lu[person]N
 dcclt/Q000302,OB Lu₂-azlag₂ B-C,Seg.1; 72,sux:lu[person]N sux:teš[vigor]N sux:šu[hand]N
-dcclt/Q000302,OB Lu₂-azlag₂ B-C,Seg.1; 73,sux:lu[person]N sux:dub[knee]N sux:gurum[bend]V/t
-dcclt/Q000302,OB Lu₂-azlag₂ B-C,Seg.1; 74,sux:lu[person]N sux:dub[knee]N sux:gurum[bend]V/t
-dcclt/Q000302,OB Lu₂-azlag₂ B-C,Seg.1; 75,sux:lu[person]N sux:dub[knee]N sux:lah[bring]V/t
-dcclt/Q000302,OB Lu₂-azlag₂ B-C,Seg.1; 76,sux:lu[person]N sux:dub[knee]N sux:a[water]N sux:ak[do]V/t
+dcclt/Q000302,OB Lu₂-azlag₂ B-C,Seg.1; 73,sux:lu[person]N sux:dub[knee]N
+dcclt/Q000302,OB Lu₂-azlag₂ B-C,Seg.1; 74,sux:lu[person]N sux:dub[knee]N
+dcclt/Q000302,OB Lu₂-azlag₂ B-C,Seg.1; 75,sux:lu[person]N sux:dub[knee]N
+dcclt/Q000302,OB Lu₂-azlag₂ B-C,Seg.1; 76,sux:lu[person]N sux:dub[knee]N sux:a[water]N
 dcclt/Q000302,OB Lu₂-azlag₂ B-C,Seg.1; 77,sux:lu[person]N
-dcclt/Q000302,OB Lu₂-azlag₂ B-C,Seg.1; 78,sux:lu[person]N sux:ŋeš[penis]N sux:birig[sneer]V/t sux:kud[cut]V/t
-dcclt/Q000302,OB Lu₂-azlag₂ B-C,Seg.1; 79,sux:lu[person]N sux:ŋeš[penis]N sux:birig[sneer]V/t
+dcclt/Q000302,OB Lu₂-azlag₂ B-C,Seg.1; 78,sux:lu[person]N sux:ŋeš[penis]N
+dcclt/Q000302,OB Lu₂-azlag₂ B-C,Seg.1; 79,sux:lu[person]N sux:ŋeš[penis]N
 dcclt/Q000302,OB Lu₂-azlag₂ B-C,Seg.1; 80,sux:lu[person]N sux:dubsadara[lame]N
 dcclt/Q000302,OB Lu₂-azlag₂ B-C,Seg.1; 81,sux:lu[person]N sux:manzila[foot]N
 dcclt/Q000302,OB Lu₂-azlag₂ B-C,Seg.1; 82,sux:lu[person]N sux:dihi[illness]N
 dcclt/Q000302,OB Lu₂-azlag₂ B-C,Seg.1; 83,sux:lu[person]N
-dcclt/Q000302,OB Lu₂-azlag₂ B-C,Seg.1; 84,sux:lu[person]N sux:buluŋ[grow]V/t
-dcclt/Q000302,OB Lu₂-azlag₂ B-C,Seg.1; 85,sux:lu[person]N sux:buluŋ[grow]V/t
+dcclt/Q000302,OB Lu₂-azlag₂ B-C,Seg.1; 84,sux:lu[person]N
+dcclt/Q000302,OB Lu₂-azlag₂ B-C,Seg.1; 85,sux:lu[person]N
 dcclt/Q000302,OB Lu₂-azlag₂ B-C,Seg.1; 86,sux:lu[person]N
-dcclt/Q000302,OB Lu₂-azlag₂ B-C,Seg.1; 87,sux:lu[person]N sux:mud[scared]V/i
+dcclt/Q000302,OB Lu₂-azlag₂ B-C,Seg.1; 87,sux:lu[person]N
 dcclt/Q000302,OB Lu₂-azlag₂ B-C,Seg.1; 88,sux:lu[person]N sux:hili[attractiveness]N
 dcclt/Q000302,OB Lu₂-azlag₂ B-C,Seg.1; 89,sux:lu[person]N
 dcclt/Q000302,OB Lu₂-azlag₂ B-C,Seg.1; 90,sux:lu[person]N sux:alsadugdug[proud]N
 dcclt/Q000302,OB Lu₂-azlag₂ B-C,Seg.1; 91,sux:lu[person]N
-dcclt/Q000302,OB Lu₂-azlag₂ B-C,Seg.1; 92,sux:lu[person]N sux:kud[cut]V/t
+dcclt/Q000302,OB Lu₂-azlag₂ B-C,Seg.1; 92,sux:lu[person]N
 dcclt/Q000302,OB Lu₂-azlag₂ B-C,Seg.1; 93,sux:lu[person]N sux:aʾaš[wish]N
 dcclt/Q000302,OB Lu₂-azlag₂ B-C,Seg.1; 94,sux:lu[person]N sux:aʾaš[wish]N
 dcclt/Q000302,OB Lu₂-azlag₂ B-C,Seg.2; 4,sux:lu[person]N
 dcclt/Q000302,OB Lu₂-azlag₂ B-C,Seg.2; 5,sux:lu[person]N
 dcclt/Q000302,OB Lu₂-azlag₂ B-C,Seg.2; 6,sux:lu[person]N
-dcclt/Q000302,OB Lu₂-azlag₂ B-C,Seg.2; 8,sux:lu[person]N sux:sig[weak]V/i
+dcclt/Q000302,OB Lu₂-azlag₂ B-C,Seg.2; 8,sux:lu[person]N
 dcclt/Q000302,OB Lu₂-azlag₂ B-C,Seg.2; 9,sux:lu[person]N
-dcclt/Q000302,OB Lu₂-azlag₂ B-C,Seg.2; 10,sux:lu[person]N sux:sul[spoil]V/t
+dcclt/Q000302,OB Lu₂-azlag₂ B-C,Seg.2; 10,sux:lu[person]N
 dcclt/Q000302,OB Lu₂-azlag₂ B-C,Seg.2; 11,sux:lu[person]N
-dcclt/Q000302,OB Lu₂-azlag₂ B-C,Seg.2; 12,sux:lu[person]N sux:hunu[weak]V/i
-dcclt/Q000302,OB Lu₂-azlag₂ B-C,Seg.2; 13,sux:lu[person]N sux:hunu[weak]V/i
-dcclt/Q000302,OB Lu₂-azlag₂ B-C,Seg.2; 14,sux:lu[person]N sux:hunu[weak]V/i
+dcclt/Q000302,OB Lu₂-azlag₂ B-C,Seg.2; 12,sux:lu[person]N
+dcclt/Q000302,OB Lu₂-azlag₂ B-C,Seg.2; 13,sux:lu[person]N
+dcclt/Q000302,OB Lu₂-azlag₂ B-C,Seg.2; 14,sux:lu[person]N
 dcclt/Q000302,OB Lu₂-azlag₂ B-C,Seg.2; 15,sux:lu[person]N
-dcclt/Q000302,OB Lu₂-azlag₂ B-C,Seg.2; 16,sux:lu[person]N sux:mah[great]V/i
-dcclt/Q000302,OB Lu₂-azlag₂ B-C,Seg.2; 17,sux:lu[person]N sux:mah[great]V/i
-dcclt/Q000302,OB Lu₂-azlag₂ B-C,Seg.2; 18,sux:lu[person]N sux:mah[great]V/i
-dcclt/Q000302,OB Lu₂-azlag₂ B-C,Seg.2; 19,sux:lu[person]N sux:mah[great]V/i
-dcclt/Q000302,OB Lu₂-azlag₂ B-C,Seg.2; 20,sux:lu[person]N sux:sun[haughty]V/i
-dcclt/Q000302,OB Lu₂-azlag₂ B-C,Seg.2; 21,sux:lu[person]N sux:sun[humble]V/i
-dcclt/Q000302,OB Lu₂-azlag₂ B-C,Seg.2; 22,sux:lu[person]N sux:bur[spread]V/t
-dcclt/Q000302,OB Lu₂-azlag₂ B-C,Seg.2; 23,sux:lu[person]N sux:lib[absent]V/i
-dcclt/Q000302,OB Lu₂-azlag₂ B-C,Seg.2; 24,sux:lu[person]N sux:bu[howl]V/i
-dcclt/Q000302,OB Lu₂-azlag₂ B-C,Seg.2; 25,sux:lu[person]N sux:bu[howl]V/i
-dcclt/Q000302,OB Lu₂-azlag₂ B-C,Seg.2; 26,sux:lu[person]N sux:bu[howl]V/i
-dcclt/Q000302,OB Lu₂-azlag₂ B-C,Seg.2; 27,sux:lu[person]N sux:gur[thick]V/i
-dcclt/Q000302,OB Lu₂-azlag₂ B-C,Seg.2; 28,sux:lu[person]N sux:gal[big]V/i
-dcclt/Q000302,OB Lu₂-azlag₂ B-C,Seg.2; 29,sux:lu[person]N sux:henzer[block]V/t
-dcclt/Q000302,OB Lu₂-azlag₂ B-C,Seg.2; 30,sux:lu[person]N sux:kiŋ[pointed]V/i
+dcclt/Q000302,OB Lu₂-azlag₂ B-C,Seg.2; 16,sux:lu[person]N
+dcclt/Q000302,OB Lu₂-azlag₂ B-C,Seg.2; 17,sux:lu[person]N
+dcclt/Q000302,OB Lu₂-azlag₂ B-C,Seg.2; 18,sux:lu[person]N
+dcclt/Q000302,OB Lu₂-azlag₂ B-C,Seg.2; 19,sux:lu[person]N
+dcclt/Q000302,OB Lu₂-azlag₂ B-C,Seg.2; 20,sux:lu[person]N
+dcclt/Q000302,OB Lu₂-azlag₂ B-C,Seg.2; 21,sux:lu[person]N
+dcclt/Q000302,OB Lu₂-azlag₂ B-C,Seg.2; 22,sux:lu[person]N
+dcclt/Q000302,OB Lu₂-azlag₂ B-C,Seg.2; 23,sux:lu[person]N
+dcclt/Q000302,OB Lu₂-azlag₂ B-C,Seg.2; 24,sux:lu[person]N
+dcclt/Q000302,OB Lu₂-azlag₂ B-C,Seg.2; 25,sux:lu[person]N
+dcclt/Q000302,OB Lu₂-azlag₂ B-C,Seg.2; 26,sux:lu[person]N
+dcclt/Q000302,OB Lu₂-azlag₂ B-C,Seg.2; 27,sux:lu[person]N
+dcclt/Q000302,OB Lu₂-azlag₂ B-C,Seg.2; 28,sux:lu[person]N
+dcclt/Q000302,OB Lu₂-azlag₂ B-C,Seg.2; 29,sux:lu[person]N
+dcclt/Q000302,OB Lu₂-azlag₂ B-C,Seg.2; 30,sux:lu[person]N
 dcclt/Q000302,OB Lu₂-azlag₂ B-C,Seg.2; 31,sux:lu[person]N
-dcclt/Q000302,OB Lu₂-azlag₂ B-C,Seg.2; 32,sux:lu[person]N sux:ud[sun]N sux:tab[burn]V/t
-dcclt/Q000302,OB Lu₂-azlag₂ B-C,Seg.2; 33,sux:lu[person]N sux:ud[sun]N sux:tab[burn]V/t
+dcclt/Q000302,OB Lu₂-azlag₂ B-C,Seg.2; 32,sux:lu[person]N sux:ud[sun]N
+dcclt/Q000302,OB Lu₂-azlag₂ B-C,Seg.2; 33,sux:lu[person]N sux:ud[sun]N
 dcclt/Q000302,OB Lu₂-azlag₂ B-C,Seg.2; 34,sux:lu[person]N
-dcclt/Q000302,OB Lu₂-azlag₂ B-C,Seg.2; 35,sux:lu[person]N sux:til[live]V/i
-dcclt/Q000302,OB Lu₂-azlag₂ B-C,Seg.2; 36,sux:lu[person]N sux:gaba[chest]N sux:us[follow]V/t
-dcclt/Q000302,OB Lu₂-azlag₂ B-C,Seg.2; 37,sux:lu[person]N sux:gaba[chest]N sux:ŋal[be]V/i
-dcclt/Q000302,OB Lu₂-azlag₂ B-C,Seg.2; 38,sux:lu[person]N sux:gaba[chest]N sux:ŋal[be]V/i
-dcclt/Q000302,OB Lu₂-azlag₂ B-C,Seg.2; 39,sux:lu[person]N sux:diŋir[deity]N sux:ni[fear]N sux:tuku[acquire]V/t
-dcclt/Q000302,OB Lu₂-azlag₂ B-C,Seg.2; 40,sux:lu[person]N sux:aya[father]N sux:ni[fear]N sux:teŋ[approach]V/i
-dcclt/Q000302,OB Lu₂-azlag₂ B-C,Seg.2; 41,sux:lu[person]N sux:ama[mother]N sux:zig[rise]V/t
-dcclt/Q000302,OB Lu₂-azlag₂ B-C,Seg.2; 42,sux:lu[person]N sux:irʾusa[absent]V/i
-dcclt/Q000302,OB Lu₂-azlag₂ B-C,Seg.2; 43,sux:lu[person]N sux:irʾusa[absent]V/i
-dcclt/Q000302,OB Lu₂-azlag₂ B-C,Seg.2; 44,sux:lu[person]N sux:ir[scent]N sux:gig[sick]V/i
+dcclt/Q000302,OB Lu₂-azlag₂ B-C,Seg.2; 35,sux:lu[person]N
+dcclt/Q000302,OB Lu₂-azlag₂ B-C,Seg.2; 36,sux:lu[person]N sux:gaba[chest]N
+dcclt/Q000302,OB Lu₂-azlag₂ B-C,Seg.2; 37,sux:lu[person]N sux:gaba[chest]N
+dcclt/Q000302,OB Lu₂-azlag₂ B-C,Seg.2; 38,sux:lu[person]N sux:gaba[chest]N
+dcclt/Q000302,OB Lu₂-azlag₂ B-C,Seg.2; 39,sux:lu[person]N sux:diŋir[deity]N sux:ni[fear]N
+dcclt/Q000302,OB Lu₂-azlag₂ B-C,Seg.2; 40,sux:lu[person]N sux:aya[father]N sux:ni[fear]N
+dcclt/Q000302,OB Lu₂-azlag₂ B-C,Seg.2; 41,sux:lu[person]N sux:ama[mother]N
+dcclt/Q000302,OB Lu₂-azlag₂ B-C,Seg.2; 42,sux:lu[person]N
+dcclt/Q000302,OB Lu₂-azlag₂ B-C,Seg.2; 43,sux:lu[person]N
+dcclt/Q000302,OB Lu₂-azlag₂ B-C,Seg.2; 44,sux:lu[person]N sux:ir[scent]N
 dcclt/Q000302,OB Lu₂-azlag₂ B-C,Seg.2; 45,sux:lu[person]N
 dcclt/Q000302,OB Lu₂-azlag₂ B-C,Seg.2; 46,sux:lu[person]N
-dcclt/Q000302,OB Lu₂-azlag₂ B-C,Seg.2; 47,sux:lu[person]N sux:saŋ[head]N sux:ŋar[place]V/t
-dcclt/Q000302,OB Lu₂-azlag₂ B-C,Seg.2; 48,sux:lu[person]N sux:saŋ[head]N sux:gid[long]V/i
-dcclt/Q000302,OB Lu₂-azlag₂ B-C,Seg.2; 49,sux:lu[person]N sux:ula[feeble]V/i
-dcclt/Q000302,OB Lu₂-azlag₂ B-C,Seg.2; 50,sux:lu[person]N sux:kiri[nose]N sux:ur[smell]V/t
+dcclt/Q000302,OB Lu₂-azlag₂ B-C,Seg.2; 47,sux:lu[person]N sux:saŋ[head]N
+dcclt/Q000302,OB Lu₂-azlag₂ B-C,Seg.2; 48,sux:lu[person]N sux:saŋ[head]N
+dcclt/Q000302,OB Lu₂-azlag₂ B-C,Seg.2; 49,sux:lu[person]N
+dcclt/Q000302,OB Lu₂-azlag₂ B-C,Seg.2; 50,sux:lu[person]N sux:kiri[nose]N
 dcclt/Q000302,OB Lu₂-azlag₂ B-C,Seg.2; 51,sux:lu[person]N sux:imtaga[sneering]N
-dcclt/Q000302,OB Lu₂-azlag₂ B-C,Seg.2; 52,sux:lu[person]N sux:šub[fall]V/t
-dcclt/Q000302,OB Lu₂-azlag₂ B-C,Seg.2; 53,sux:lu[person]N sux:šub[fall]V/t
-dcclt/Q000302,OB Lu₂-azlag₂ B-C,Seg.2; 54,sux:lu[person]N sux:gurud[throw]V/t
-dcclt/Q000302,OB Lu₂-azlag₂ B-C,Seg.2; 55,sux:lu[person]N sux:šub[fall]V/t
+dcclt/Q000302,OB Lu₂-azlag₂ B-C,Seg.2; 52,sux:lu[person]N
+dcclt/Q000302,OB Lu₂-azlag₂ B-C,Seg.2; 53,sux:lu[person]N
+dcclt/Q000302,OB Lu₂-azlag₂ B-C,Seg.2; 54,sux:lu[person]N
+dcclt/Q000302,OB Lu₂-azlag₂ B-C,Seg.2; 55,sux:lu[person]N
 dcclt/Q000302,OB Lu₂-azlag₂ B-C,Seg.2; 56,sux:lu[person]N sux:niŋgina[truth]N
 dcclt/Q000302,OB Lu₂-azlag₂ B-C,Seg.2; 57,sux:lu[person]N sux:niŋgalgal[greatness]N
 dcclt/Q000302,OB Lu₂-azlag₂ B-C,Seg.2; 58,sux:lu[person]N sux:niŋgalgal[greatness]N
-dcclt/Q000302,OB Lu₂-azlag₂ B-C,Seg.2; 59,sux:lu[person]N sux:niŋazig[violence]AJ
+dcclt/Q000302,OB Lu₂-azlag₂ B-C,Seg.2; 59,sux:lu[person]N
 dcclt/Q000302,OB Lu₂-azlag₂ B-C,Seg.2; 60,sux:luniŋazig[murderer]N
 dcclt/Q000302,OB Lu₂-azlag₂ B-C,Seg.2; 61,sux:lu[person]N sux:niŋdimdima[magic]N
 dcclt/Q000302,OB Lu₂-azlag₂ B-C,Seg.2; 62,sux:lu[person]N sux:niŋkur[hostility]N
-dcclt/Q000302,OB Lu₂-azlag₂ B-C,Seg.2; 63,sux:lu[person]N sux:niŋkur[hostility]N sux:di[speak]V/t
-dcclt/Q000302,OB Lu₂-azlag₂ B-C,Seg.2; 64,sux:lu[person]N sux:niŋkur[hostility]N sux:dug[speak]V/t
+dcclt/Q000302,OB Lu₂-azlag₂ B-C,Seg.2; 63,sux:lu[person]N sux:niŋkur[hostility]N
+dcclt/Q000302,OB Lu₂-azlag₂ B-C,Seg.2; 64,sux:lu[person]N sux:niŋkur[hostility]N
 dcclt/Q000302,OB Lu₂-azlag₂ B-C,Seg.2; 65,sux:lu[person]N sux:niŋnuŋara[malice]N
 dcclt/Q000302,OB Lu₂-azlag₂ B-C,Seg.2; 66,sux:lu[person]N sux:niŋnuŋara[malice]N
 dcclt/Q000302,OB Lu₂-azlag₂ B-C,Seg.2; 67,
@@ -159,127 +159,127 @@ dcclt/Q000302,OB Lu₂-azlag₂ B-C,Seg.2; 69,
 dcclt/Q000302,OB Lu₂-azlag₂ B-C,Seg.2; 70,
 dcclt/Q000302,OB Lu₂-azlag₂ B-C,Seg.2; 71,sux:lu[person]N sux:niŋgula[greatness]N
 dcclt/Q000302,OB Lu₂-azlag₂ B-C,Seg.2; 72,sux:lu[person]N sux:niŋgula[greatness]N
-dcclt/Q000302,OB Lu₂-azlag₂ B-C,Seg.2; 73,sux:lu[person]N sux:šu[hand]N sux:dugdugurhi[dead]V/i
-dcclt/Q000302,OB Lu₂-azlag₂ B-C,Seg.2; 74,sux:lu[person]N sux:tur[ill]V/i
+dcclt/Q000302,OB Lu₂-azlag₂ B-C,Seg.2; 73,sux:lu[person]N sux:šu[hand]N
+dcclt/Q000302,OB Lu₂-azlag₂ B-C,Seg.2; 74,sux:lu[person]N
 dcclt/Q000302,OB Lu₂-azlag₂ B-C,Seg.2; 75,sux:lu[person]N sux:er[tears]N
 dcclt/Q000302,OB Lu₂-azlag₂ B-C,Seg.2; 76,sux:lu[person]N sux:anir[profession]N
-dcclt/Q000302,OB Lu₂-azlag₂ B-C,Seg.2; 77,sux:lu[person]N sux:er[tears]N sux:dug[speak]V/t
-dcclt/Q000302,OB Lu₂-azlag₂ B-C,Seg.2; 78,sux:lu[person]N sux:tirida[runaway]N sux:tehi[approach]V/t
-dcclt/Q000302,OB Lu₂-azlag₂ B-C,Seg.2; 79,sux:lu[person]N sux:kišer[limit]N sux:tuku[acquire]V/t
-dcclt/Q000302,OB Lu₂-azlag₂ B-C,Seg.2; 80,sux:lu[person]N sux:kug[metal]N sux:kalag[~silver]N sux:ak[do]V/t
+dcclt/Q000302,OB Lu₂-azlag₂ B-C,Seg.2; 77,sux:lu[person]N sux:er[tears]N
+dcclt/Q000302,OB Lu₂-azlag₂ B-C,Seg.2; 78,sux:lu[person]N sux:tirida[runaway]N
+dcclt/Q000302,OB Lu₂-azlag₂ B-C,Seg.2; 79,sux:lu[person]N sux:kišer[limit]N
+dcclt/Q000302,OB Lu₂-azlag₂ B-C,Seg.2; 80,sux:lu[person]N sux:kug[metal]N sux:kalag[~silver]N
 dcclt/Q000302,OB Lu₂-azlag₂ B-C,Seg.2; 81,sux:lu[person]N
-dcclt/Q000302,OB Lu₂-azlag₂ B-C,Seg.2; 82,sux:lu[person]N sux:gu[voice]N sux:rah[beat]V/t
+dcclt/Q000302,OB Lu₂-azlag₂ B-C,Seg.2; 82,sux:lu[person]N sux:gu[voice]N
 dcclt/Q000302,OB Lu₂-azlag₂ B-C,Seg.2; 83,sux:lu[person]N sux:sagaz[robber]N
 dcclt/Q000302,OB Lu₂-azlag₂ B-C,Seg.2; 84,
 dcclt/Q000302,OB Lu₂-azlag₂ B-C,Seg.2; 85,sux:luzuha[thief]N
-dcclt/Q000302,OB Lu₂-azlag₂ B-C,Seg.2; 87,sux:lu[person]N sux:e[house]N sux:burud[perforate]V/t
-dcclt/Q000302,OB Lu₂-azlag₂ B-C,Seg.2; 88,sux:lu[person]N sux:saŋbur[priest]N sux:kar[flee]V/t
-dcclt/Q000302,OB Lu₂-azlag₂ B-C,Seg.2; 89,sux:lu[person]N sux:šunir[emblem]N sux:ak[do]V/t
-dcclt/Q000302,OB Lu₂-azlag₂ B-C,Seg.2; 90,sux:lu[person]N sux:anzil[abomination]N sux:gu[eat]V/t
-dcclt/Q000302,OB Lu₂-azlag₂ B-C,Seg.2; 91,sux:lu[person]N sux:azag[taboo]N sux:gu[eat]V/t
-dcclt/Q000302,OB Lu₂-azlag₂ B-C,Seg.2; 92,sux:lu[person]N sux:izi[fire]N sux:tag[touch]V/t
-dcclt/Q000302,OB Lu₂-azlag₂ B-C,Seg.2; 93,sux:lu[person]N sux:izi[fire]N sux:gu[eat]V/t
-dcclt/Q000302,OB Lu₂-azlag₂ B-C,Seg.2; 94,sux:lu[person]N sux:izi[fire]N sux:kur[burn]V/t
-dcclt/Q000302,OB Lu₂-azlag₂ B-C,Seg.2; 95,sux:lu[person]N sux:dam[spouse]N sux:ŋuruš[male]N sux:nud[lie]V/t
-dcclt/Q000302,OB Lu₂-azlag₂ B-C,Seg.2; 96,sux:lu[person]N sux:igi[eye]N sux:zi[cut]V/t
+dcclt/Q000302,OB Lu₂-azlag₂ B-C,Seg.2; 87,sux:lu[person]N sux:e[house]N
+dcclt/Q000302,OB Lu₂-azlag₂ B-C,Seg.2; 88,sux:lu[person]N sux:saŋbur[priest]N
+dcclt/Q000302,OB Lu₂-azlag₂ B-C,Seg.2; 89,sux:lu[person]N sux:šunir[emblem]N
+dcclt/Q000302,OB Lu₂-azlag₂ B-C,Seg.2; 90,sux:lu[person]N sux:anzil[abomination]N
+dcclt/Q000302,OB Lu₂-azlag₂ B-C,Seg.2; 91,sux:lu[person]N sux:azag[taboo]N
+dcclt/Q000302,OB Lu₂-azlag₂ B-C,Seg.2; 92,sux:lu[person]N sux:izi[fire]N
+dcclt/Q000302,OB Lu₂-azlag₂ B-C,Seg.2; 93,sux:lu[person]N sux:izi[fire]N
+dcclt/Q000302,OB Lu₂-azlag₂ B-C,Seg.2; 94,sux:lu[person]N sux:izi[fire]N
+dcclt/Q000302,OB Lu₂-azlag₂ B-C,Seg.2; 95,sux:lu[person]N sux:dam[spouse]N sux:ŋuruš[male]N
+dcclt/Q000302,OB Lu₂-azlag₂ B-C,Seg.2; 96,sux:lu[person]N sux:igi[eye]N
 dcclt/Q000302,OB Lu₂-azlag₂ B-C,Seg.2; 97,sux:lu[person]N sux:siga[eye-disease]N
-dcclt/Q000302,OB Lu₂-azlag₂ B-C,Seg.2; 98,sux:lu[person]N sux:igi[eye]N sux:siga[eye-disease]N sux:bala[turn]V/t
+dcclt/Q000302,OB Lu₂-azlag₂ B-C,Seg.2; 98,sux:lu[person]N sux:igi[eye]N sux:siga[eye-disease]N
 dcclt/Q000302,OB Lu₂-azlag₂ B-C,Seg.2; 99,sux:lu[person]N sux:igi[eye]N sux:šiši[defect]N
 dcclt/Q000302,OB Lu₂-azlag₂ B-C,Seg.2; 100,sux:lu[person]N sux:igi[eye]N sux:nimbarhuz[disease]N
 dcclt/Q000302,OB Lu₂-azlag₂ B-C,Seg.2; 101,sux:lu[person]N sux:igi[eye]N sux:gula[disease]N
-dcclt/Q000302,OB Lu₂-azlag₂ B-C,Seg.2; 102,sux:lu[person]N sux:igi[eye]N sux:šag[heart]N sux:tikil[pointed]V/i
-dcclt/Q000302,OB Lu₂-azlag₂ B-C,Seg.2; 103,sux:lu[person]N sux:igi[eye]N sux:du[hold]V/t
+dcclt/Q000302,OB Lu₂-azlag₂ B-C,Seg.2; 102,sux:lu[person]N sux:igi[eye]N sux:šag[heart]N
+dcclt/Q000302,OB Lu₂-azlag₂ B-C,Seg.2; 103,sux:lu[person]N sux:igi[eye]N
 dcclt/Q000302,OB Lu₂-azlag₂ B-C,Seg.2; 104,sux:lu[person]N sux:igi[eye]N
-dcclt/Q000302,OB Lu₂-azlag₂ B-C,Seg.2; 105,sux:lu[person]N sux:igi[eye]N sux:bala[turn]V/t
-dcclt/Q000302,OB Lu₂-azlag₂ B-C,Seg.2; 106,sux:lu[person]N sux:igi[eye]N sux:tal[broad]V/i
-dcclt/Q000302,OB Lu₂-azlag₂ B-C,Seg.2; 107,sux:lu[person]N sux:igi[eye]N sux:tal[broad]V/i
-dcclt/Q000302,OB Lu₂-azlag₂ B-C,Seg.2; 108,sux:lu[person]N sux:igi[eye]N sux:ŋissu[shade]N sux:la[hang]V/t
-dcclt/Q000302,OB Lu₂-azlag₂ B-C,Seg.2; 109,sux:lu[person]N sux:igi[eye]N sux:uš[blood]N sux:ba[allot]V/t
-dcclt/Q000302,OB Lu₂-azlag₂ B-C,Seg.2; 110,sux:lu[person]N sux:igi[eye]N sux:ŋal[be]V/i
-dcclt/Q000302,OB Lu₂-azlag₂ B-C,Seg.2; 111,sux:lu[person]N sux:igi[eye]N sux:suh[extract]V/t
-dcclt/Q000302,OB Lu₂-azlag₂ B-C,Seg.2; 112,sux:lu[person]N sux:igi[eye]N sux:saŋ[choose]V/t
+dcclt/Q000302,OB Lu₂-azlag₂ B-C,Seg.2; 105,sux:lu[person]N sux:igi[eye]N
+dcclt/Q000302,OB Lu₂-azlag₂ B-C,Seg.2; 106,sux:lu[person]N sux:igi[eye]N
+dcclt/Q000302,OB Lu₂-azlag₂ B-C,Seg.2; 107,sux:lu[person]N sux:igi[eye]N
+dcclt/Q000302,OB Lu₂-azlag₂ B-C,Seg.2; 108,sux:lu[person]N sux:igi[eye]N sux:ŋissu[shade]N
+dcclt/Q000302,OB Lu₂-azlag₂ B-C,Seg.2; 109,sux:lu[person]N sux:igi[eye]N sux:uš[blood]N
+dcclt/Q000302,OB Lu₂-azlag₂ B-C,Seg.2; 110,sux:lu[person]N sux:igi[eye]N
+dcclt/Q000302,OB Lu₂-azlag₂ B-C,Seg.2; 111,sux:lu[person]N sux:igi[eye]N
+dcclt/Q000302,OB Lu₂-azlag₂ B-C,Seg.2; 112,sux:lu[person]N sux:igi[eye]N
 dcclt/Q000302,OB Lu₂-azlag₂ B-C,Seg.2; 113,sux:lu[person]N sux:igi[eye]N
-dcclt/Q000302,OB Lu₂-azlag₂ B-C,Seg.2; 114,sux:lu[person]N sux:igi[eye]N sux:duh[loosen]V/t sux:lal[small]V/i
-dcclt/Q000302,OB Lu₂-azlag₂ B-C,Seg.2; 115,sux:lu[person]N sux:igi[eye]N sux:su[red]V/i
+dcclt/Q000302,OB Lu₂-azlag₂ B-C,Seg.2; 114,sux:lu[person]N sux:igi[eye]N
+dcclt/Q000302,OB Lu₂-azlag₂ B-C,Seg.2; 115,sux:lu[person]N sux:igi[eye]N
 dcclt/Q000302,OB Lu₂-azlag₂ B-C,Seg.2; 116,sux:lu[person]N sux:zeza[croaker]N
-dcclt/Q000302,OB Lu₂-azlag₂ B-C,Seg.2; 117,sux:lu[person]N sux:gu[voice]N sux:de[pour]V/t
-dcclt/Q000302,OB Lu₂-azlag₂ B-C,Seg.2; 118,sux:lu[person]N sux:gu[voice]N sux:de[pour]V/t
+dcclt/Q000302,OB Lu₂-azlag₂ B-C,Seg.2; 117,sux:lu[person]N sux:gu[voice]N
+dcclt/Q000302,OB Lu₂-azlag₂ B-C,Seg.2; 118,sux:lu[person]N sux:gu[voice]N
 dcclt/Q000302,OB Lu₂-azlag₂ B-C,Seg.2; 119,sux:lu[person]N sux:gukiri[cry]N
-dcclt/Q000302,OB Lu₂-azlag₂ B-C,Seg.2; 120,sux:lu[person]N sux:gukiri[cry]N sux:dug[speak]V/t
-dcclt/Q000302,OB Lu₂-azlag₂ B-C,Seg.2; 121,sux:lu[person]N sux:saŋkal[foremost]AJ
-dcclt/Q000302,OB Lu₂-azlag₂ B-C,Seg.2; 122,sux:lu[person]N sux:igištu[foremost]AJ
+dcclt/Q000302,OB Lu₂-azlag₂ B-C,Seg.2; 120,sux:lu[person]N sux:gukiri[cry]N
+dcclt/Q000302,OB Lu₂-azlag₂ B-C,Seg.2; 121,sux:lu[person]N
+dcclt/Q000302,OB Lu₂-azlag₂ B-C,Seg.2; 122,sux:lu[person]N
 dcclt/Q000302,OB Lu₂-azlag₂ B-C,Seg.2; 123,sux:luʾigidu[leader]N
 dcclt/Q000302,OB Lu₂-azlag₂ B-C,Seg.2; 124,sux:luʾigidu[leader]N
 dcclt/Q000302,OB Lu₂-azlag₂ B-C,Seg.2; 125,sux:lu[person]N sux:ursaŋ[hero]N
 dcclt/Q000302,OB Lu₂-azlag₂ B-C,Seg.2; 126,sux:lu[person]N sux:anta[companion]N
 dcclt/Q000302,OB Lu₂-azlag₂ B-C,Seg.2; 127,sux:lu[person]N sux:taba[companion]N
-dcclt/Q000302,OB Lu₂-azlag₂ B-C,Seg.2; 128,sux:lu[person]N sux:zu[know]V/t
-dcclt/Q000302,OB Lu₂-azlag₂ B-C,Seg.2; 129,sux:lu[person]N sux:kal[rare]V/i
+dcclt/Q000302,OB Lu₂-azlag₂ B-C,Seg.2; 128,sux:lu[person]N
+dcclt/Q000302,OB Lu₂-azlag₂ B-C,Seg.2; 129,sux:lu[person]N
 dcclt/Q000302,OB Lu₂-azlag₂ B-C,Seg.2; 130,sux:lu[person]N sux:madala[bundle]N
-dcclt/Q000302,OB Lu₂-azlag₂ B-C,Seg.2; 131,sux:lu[person]N sux:gal[big]V/i
-dcclt/Q000302,OB Lu₂-azlag₂ B-C,Seg.2; 132,sux:lu[person]N sux:gur[thick]V/i
-dcclt/Q000302,OB Lu₂-azlag₂ B-C,Seg.2; 133,sux:lu[person]N sux:dugud[heavy]V/i
-dcclt/Q000302,OB Lu₂-azlag₂ B-C,Seg.2; 134,sux:lu[person]N sux:igi[eye]N sux:duh[loosen]V/t sux:lugal[king]N
+dcclt/Q000302,OB Lu₂-azlag₂ B-C,Seg.2; 131,sux:lu[person]N
+dcclt/Q000302,OB Lu₂-azlag₂ B-C,Seg.2; 132,sux:lu[person]N
+dcclt/Q000302,OB Lu₂-azlag₂ B-C,Seg.2; 133,sux:lu[person]N
+dcclt/Q000302,OB Lu₂-azlag₂ B-C,Seg.2; 134,sux:lu[person]N sux:igi[eye]N sux:lugal[king]N
 dcclt/Q000302,OB Lu₂-azlag₂ B-C,Seg.2; 135,sux:lu[person]N sux:šukin[prostration]N sux:lugal[king]N
-dcclt/Q000302,OB Lu₂-azlag₂ B-C,Seg.2; 136,sux:lu[person]N sux:ak[do]V/t sux:uru[guard]V/t sux:lugal[king]N
-dcclt/Q000302,OB Lu₂-azlag₂ B-C,Seg.2; 137,sux:lu[person]N sux:gin[firm]V/i
+dcclt/Q000302,OB Lu₂-azlag₂ B-C,Seg.2; 136,sux:lu[person]N sux:lugal[king]N
+dcclt/Q000302,OB Lu₂-azlag₂ B-C,Seg.2; 137,sux:lu[person]N
 dcclt/Q000302,OB Lu₂-azlag₂ B-C,Seg.2; 138,sux:lu[person]N
 dcclt/Q000302,OB Lu₂-azlag₂ B-C,Seg.2; 139,sux:lu[person]N
 dcclt/Q000302,OB Lu₂-azlag₂ B-C,Seg.2; 140,sux:lu[person]N sux:šatam[official]N
-dcclt/Q000302,OB Lu₂-azlag₂ B-C,Seg.2; 141,sux:lu[person]N sux:šag[heart]N sux:tam[clean]V/i
-dcclt/Q000302,OB Lu₂-azlag₂ B-C,Seg.2; 142,sux:lu[person]N sux:šag[heart]N sux:gin[firm]V/i
-dcclt/Q000302,OB Lu₂-azlag₂ B-C,Seg.2; 143,sux:lu[person]N sux:igi[eye]N sux:hulu[bad]V/i
+dcclt/Q000302,OB Lu₂-azlag₂ B-C,Seg.2; 141,sux:lu[person]N sux:šag[heart]N
+dcclt/Q000302,OB Lu₂-azlag₂ B-C,Seg.2; 142,sux:lu[person]N sux:šag[heart]N
+dcclt/Q000302,OB Lu₂-azlag₂ B-C,Seg.2; 143,sux:lu[person]N sux:igi[eye]N
 dcclt/Q000302,OB Lu₂-azlag₂ B-C,Seg.2; 145,
-dcclt/Q000302,OB Lu₂-azlag₂ B-C,Seg.2; 146,sux:nituku[pious]AJ
+dcclt/Q000302,OB Lu₂-azlag₂ B-C,Seg.2; 146,
 dcclt/Q000302,OB Lu₂-azlag₂ B-C,Seg.2; 147,
-dcclt/Q000302,OB Lu₂-azlag₂ B-C,Seg.2; 148,sux:lu[person]N sux:šeba[negligent]V/i
-dcclt/Q000302,OB Lu₂-azlag₂ B-C,Seg.2; 149,sux:lu[person]N sux:daranšub[negligent]AJ
+dcclt/Q000302,OB Lu₂-azlag₂ B-C,Seg.2; 148,sux:lu[person]N
+dcclt/Q000302,OB Lu₂-azlag₂ B-C,Seg.2; 149,sux:lu[person]N
 dcclt/Q000302,OB Lu₂-azlag₂ B-C,Seg.2; 150,sux:lu[person]N sux:ugubi[monkey]N
-dcclt/Q000302,OB Lu₂-azlag₂ B-C,Seg.2; 151,sux:lu[person]N sux:sisa[fair]AJ
-dcclt/Q000302,OB Lu₂-azlag₂ B-C,Seg.2; 152,sux:lu[person]N sux:sisa[fair]AJ
-dcclt/Q000302,OB Lu₂-azlag₂ B-C,Seg.2; 153,sux:lu[person]N sux:niŋhulu[evil]N sux:zu[know]V/t
-dcclt/Q000302,OB Lu₂-azlag₂ B-C,Seg.2; 154,sux:lu[person]N sux:ni[fear]N sux:teŋ[approach]V/i
-dcclt/Q000302,OB Lu₂-azlag₂ B-C,Seg.2; 155,sux:lu[person]N sux:ni[fear]N sux:teŋ[approach]V/i
-dcclt/Q000302,OB Lu₂-azlag₂ B-C,Seg.2; 156,sux:lu[person]N sux:ni[fear]N sux:teŋ[approach]V/i
-dcclt/Q000302,OB Lu₂-azlag₂ B-C,Seg.2; 157,sux:lu[person]N sux:šag[heart]N sux:dar[split]V/t
-dcclt/Q000302,OB Lu₂-azlag₂ B-C,Seg.2; 158,sux:lu[person]N sux:šag[heart]N sux:tikil[pointed]V/i
-dcclt/Q000302,OB Lu₂-azlag₂ B-C,Seg.2; 159,sux:lu[person]N sux:šag[heart]N sux:tahar[distend]V/i
-dcclt/Q000302,OB Lu₂-azlag₂ B-C,Seg.2; 160,sux:lu[person]N sux:šag[heart]N sux:uš[blood]N sux:lugud[pus]N sux:de[pour]V/t
+dcclt/Q000302,OB Lu₂-azlag₂ B-C,Seg.2; 151,sux:lu[person]N
+dcclt/Q000302,OB Lu₂-azlag₂ B-C,Seg.2; 152,sux:lu[person]N
+dcclt/Q000302,OB Lu₂-azlag₂ B-C,Seg.2; 153,sux:lu[person]N sux:niŋhulu[evil]N
+dcclt/Q000302,OB Lu₂-azlag₂ B-C,Seg.2; 154,sux:lu[person]N sux:ni[fear]N
+dcclt/Q000302,OB Lu₂-azlag₂ B-C,Seg.2; 155,sux:lu[person]N sux:ni[fear]N
+dcclt/Q000302,OB Lu₂-azlag₂ B-C,Seg.2; 156,sux:lu[person]N sux:ni[fear]N
+dcclt/Q000302,OB Lu₂-azlag₂ B-C,Seg.2; 157,sux:lu[person]N sux:šag[heart]N
+dcclt/Q000302,OB Lu₂-azlag₂ B-C,Seg.2; 158,sux:lu[person]N sux:šag[heart]N
+dcclt/Q000302,OB Lu₂-azlag₂ B-C,Seg.2; 159,sux:lu[person]N sux:šag[heart]N
+dcclt/Q000302,OB Lu₂-azlag₂ B-C,Seg.2; 160,sux:lu[person]N sux:šag[heart]N sux:uš[blood]N sux:lugud[pus]N
 dcclt/Q000302,OB Lu₂-azlag₂ B-C,Seg.2; 161,sux:lu[person]N sux:šagburšunaʾa[disease]N
 dcclt/Q000302,OB Lu₂-azlag₂ B-C,Seg.2; 162,sux:lu[person]N sux:šag[heart]N
 dcclt/Q000302,OB Lu₂-azlag₂ B-C,Seg.2; 163,sux:lu[person]N sux:šag[heart]N sux:zarah[wailing]N
-dcclt/Q000302,OB Lu₂-azlag₂ B-C,Seg.2; 164,sux:lu[person]N sux:šag[heart]N sux:kalag[strong]V/i
-dcclt/Q000302,OB Lu₂-azlag₂ B-C,Seg.2; 165,sux:lu[person]N sux:šag[heart]N sux:sig[weak]V/i
-dcclt/Q000302,OB Lu₂-azlag₂ B-C,Seg.2; 166,sux:lu[person]N sux:šag[heart]N sux:šu[hand]N sux:gul[destroy]V/t sux:ak[do]V/t
-dcclt/Q000302,OB Lu₂-azlag₂ B-C,Seg.2; 167,sux:lu[person]N sux:šag[heart]N sux:gar[heroic]V/i sux:ak[do]V/t
-dcclt/Q000302,OB Lu₂-azlag₂ B-C,Seg.2; 168,sux:lu[person]N sux:šag[heart]N sux:la[hang]V/t
-dcclt/Q000302,OB Lu₂-azlag₂ B-C,Seg.2; 169,sux:lu[person]N sux:šag[heart]N sux:sikil[pure]V/i
-dcclt/Q000302,OB Lu₂-azlag₂ B-C,Seg.2; 170,sux:lu[person]N sux:šag[heart]N sux:bar[outside]V/t
+dcclt/Q000302,OB Lu₂-azlag₂ B-C,Seg.2; 164,sux:lu[person]N sux:šag[heart]N
+dcclt/Q000302,OB Lu₂-azlag₂ B-C,Seg.2; 165,sux:lu[person]N sux:šag[heart]N
+dcclt/Q000302,OB Lu₂-azlag₂ B-C,Seg.2; 166,sux:lu[person]N sux:šag[heart]N sux:šu[hand]N
+dcclt/Q000302,OB Lu₂-azlag₂ B-C,Seg.2; 167,sux:lu[person]N sux:šag[heart]N
+dcclt/Q000302,OB Lu₂-azlag₂ B-C,Seg.2; 168,sux:lu[person]N sux:šag[heart]N
+dcclt/Q000302,OB Lu₂-azlag₂ B-C,Seg.2; 169,sux:lu[person]N sux:šag[heart]N
+dcclt/Q000302,OB Lu₂-azlag₂ B-C,Seg.2; 170,sux:lu[person]N sux:šag[heart]N
 dcclt/Q000302,OB Lu₂-azlag₂ B-C,Seg.2; 171,sux:lu[person]N sux:šag[heart]N sux:dirig[excess]N
-dcclt/Q000302,OB Lu₂-azlag₂ B-C,Seg.2; 172,sux:lu[person]N sux:šag[heart]N sux:sig[burn]V/t
-dcclt/Q000302,OB Lu₂-azlag₂ B-C,Seg.2; 173,sux:lu[person]N sux:šag[heart]N sux:gig[sick]V/i
+dcclt/Q000302,OB Lu₂-azlag₂ B-C,Seg.2; 172,sux:lu[person]N sux:šag[heart]N
+dcclt/Q000302,OB Lu₂-azlag₂ B-C,Seg.2; 173,sux:lu[person]N sux:šag[heart]N
 dcclt/Q000302,OB Lu₂-azlag₂ B-C,Seg.2; 174,sux:lu[person]N sux:šagšuʾane[illness]N
 dcclt/Q000302,OB Lu₂-azlag₂ B-C,Seg.2; 175,sux:lu[person]N sux:šag[heart]N
-dcclt/Q000302,OB Lu₂-azlag₂ B-C,Seg.2; 176,sux:lu[person]N sux:šag[heart]N sux:hul[rejoice]V/i sux:šuš[cover]V/t
-dcclt/Q000302,OB Lu₂-azlag₂ B-C,Seg.2; 177,sux:lu[person]N sux:šag[heart]N sux:gu[voice]N sux:de[pour]V/t
+dcclt/Q000302,OB Lu₂-azlag₂ B-C,Seg.2; 176,sux:lu[person]N sux:šag[heart]N
+dcclt/Q000302,OB Lu₂-azlag₂ B-C,Seg.2; 177,sux:lu[person]N sux:šag[heart]N sux:gu[voice]N
 dcclt/Q000302,OB Lu₂-azlag₂ B-C,Seg.2; 178,sux:lu[person]N sux:šag[heart]N
-dcclt/Q000302,OB Lu₂-azlag₂ B-C,Seg.2; 179,sux:lu[person]N sux:šag[heart]N sux:si[fill]V/t
-dcclt/Q000302,OB Lu₂-azlag₂ B-C,Seg.2; 180,sux:lu[person]N sux:šaŋar[starvation]N sux:tuku[acquire]V/t
-dcclt/Q000302,OB Lu₂-azlag₂ B-C,Seg.2; 181,sux:lu[person]N sux:šag[heart]N sux:sug[empty]V/i
+dcclt/Q000302,OB Lu₂-azlag₂ B-C,Seg.2; 179,sux:lu[person]N sux:šag[heart]N
+dcclt/Q000302,OB Lu₂-azlag₂ B-C,Seg.2; 180,sux:lu[person]N sux:šaŋar[starvation]N
+dcclt/Q000302,OB Lu₂-azlag₂ B-C,Seg.2; 181,sux:lu[person]N sux:šag[heart]N
 dcclt/Q000302,OB Lu₂-azlag₂ B-C,Seg.2; 182,sux:lu[person]N sux:šag[heart]N
 dcclt/Q000302,OB Lu₂-azlag₂ B-C,Seg.2; 183,sux:lu[person]N sux:šag[heart]N
-dcclt/Q000302,OB Lu₂-azlag₂ B-C,Seg.2; 184,sux:lu[person]N sux:zah[disappear]V/i
-dcclt/Q000302,OB Lu₂-azlag₂ B-C,Seg.2; 185,sux:lu[person]N sux:zah[disappear]V/i
-dcclt/Q000302,OB Lu₂-azlag₂ B-C,Seg.2; 186,sux:lu[person]N sux:zah[disappear]V/i
-dcclt/Q000302,OB Lu₂-azlag₂ B-C,Seg.2; 187,sux:lu[person]N sux:ugu[cvne]N sux:de[pour]V/t
+dcclt/Q000302,OB Lu₂-azlag₂ B-C,Seg.2; 184,sux:lu[person]N
+dcclt/Q000302,OB Lu₂-azlag₂ B-C,Seg.2; 185,sux:lu[person]N
+dcclt/Q000302,OB Lu₂-azlag₂ B-C,Seg.2; 186,sux:lu[person]N
+dcclt/Q000302,OB Lu₂-azlag₂ B-C,Seg.2; 187,sux:lu[person]N sux:ugu[cvne]N
 dcclt/Q000302,OB Lu₂-azlag₂ B-C,Seg.2; 188,sux:lu[person]N sux:lil[ghost]N
 dcclt/Q000302,OB Lu₂-azlag₂ B-C,Seg.2; 189,sux:lu[person]N sux:lil[ghost]N
 dcclt/Q000302,OB Lu₂-azlag₂ B-C,Seg.2; 190,sux:lu[person]N sux:zalamŋar[tent]N
 dcclt/Q000302,OB Lu₂-azlag₂ B-C,Seg.2; 191,sux:lu[person]N sux:MAR.TU[westerner]N
-dcclt/Q000302,OB Lu₂-azlag₂ B-C,Seg.2; 192,sux:lu[person]N sux:inim[word]N sux:bala[turn]V/t
-dcclt/Q000302,OB Lu₂-azlag₂ B-C,Seg.2; 193,sux:lu[person]N sux:Subir[1]GN
+dcclt/Q000302,OB Lu₂-azlag₂ B-C,Seg.2; 192,sux:lu[person]N sux:inim[word]N
+dcclt/Q000302,OB Lu₂-azlag₂ B-C,Seg.2; 193,sux:lu[person]N
 dcclt/Q000302,OB Lu₂-azlag₂ B-C,Seg.2; 194,sux:lu[person]N sux:hursaŋ[mountain]N
-dcclt/Q000302,OB Lu₂-azlag₂ B-C,Seg.2; 195,sux:lu[person]N sux:Elam[1]GN
+dcclt/Q000302,OB Lu₂-azlag₂ B-C,Seg.2; 195,sux:lu[person]N
 dcclt/Q000302,OB Lu₂-azlag₂ B-C,Seg.2; 196,sux:lu[person]N sux:kiŋgia[messenger]N
 dcclt/Q000302,OB Lu₂-azlag₂ B-C,Seg.2; 197,sux:lu[person]N sux:aʾaš[wish]N
 dcclt/Q000302,OB Lu₂-azlag₂ B-C,Seg.2; 198,sux:lu[person]N sux:niŋgu[food]N
@@ -288,49 +288,49 @@ dcclt/Q000302,OB Lu₂-azlag₂ B-C,Seg.2; 200,
 dcclt/Q000302,OB Lu₂-azlag₂ B-C,Seg.2; 201,sux:lu[person]N
 dcclt/Q000302,OB Lu₂-azlag₂ B-C,Seg.2; 202,sux:lu[person]N
 dcclt/Q000302,OB Lu₂-azlag₂ B-C,Seg.2; 203,sux:lu[person]N
-dcclt/Q000302,OB Lu₂-azlag₂ B-C,Seg.2; 204,sux:lu[person]N sux:kaš[beer]N sux:sig[put]V/t
-dcclt/Q000302,OB Lu₂-azlag₂ B-C,Seg.2; 205,sux:lu[person]N sux:kaš[beer]N sux:naŋ[drink]V/t
-dcclt/Q000302,OB Lu₂-azlag₂ B-C,Seg.2; 206,sux:lu[person]N sux:kaš[beer]N sux:sa[pay-for]V/t
+dcclt/Q000302,OB Lu₂-azlag₂ B-C,Seg.2; 204,sux:lu[person]N sux:kaš[beer]N
+dcclt/Q000302,OB Lu₂-azlag₂ B-C,Seg.2; 205,sux:lu[person]N sux:kaš[beer]N
+dcclt/Q000302,OB Lu₂-azlag₂ B-C,Seg.2; 206,sux:lu[person]N sux:kaš[beer]N
 dcclt/Q000302,OB Lu₂-azlag₂ B-C,Seg.2; 207,sux:lu[person]N sux:niŋkud[due]N
-dcclt/Q000302,OB Lu₂-azlag₂ B-C,Seg.2; 208,sux:lu[person]N sux:kug[metal]N sux:sa[pay-for]V/t
-dcclt/Q000302,OB Lu₂-azlag₂ B-C,Seg.2; 209,sux:lu[person]N sux:kug[metal]N sux:gub[stand]V/i
+dcclt/Q000302,OB Lu₂-azlag₂ B-C,Seg.2; 208,sux:lu[person]N sux:kug[metal]N
+dcclt/Q000302,OB Lu₂-azlag₂ B-C,Seg.2; 209,sux:lu[person]N sux:kug[metal]N
 dcclt/Q000302,OB Lu₂-azlag₂ B-C,Seg.2; 210,sux:lu[person]N
-dcclt/Q000302,OB Lu₂-azlag₂ B-C,Seg.2; 211,sux:lu[person]N sux:kug[metal]N sux:la[hang]V/t
+dcclt/Q000302,OB Lu₂-azlag₂ B-C,Seg.2; 211,sux:lu[person]N sux:kug[metal]N
 dcclt/Q000302,OB Lu₂-azlag₂ B-C,Seg.2; 212,sux:lu[person]N
-dcclt/Q000302,OB Lu₂-azlag₂ B-C,Seg.3; 1,sux:lu[person]N sux:še[barley]N sux:bad[open]V/t
+dcclt/Q000302,OB Lu₂-azlag₂ B-C,Seg.3; 1,sux:lu[person]N sux:še[barley]N
 dcclt/Q000302,OB Lu₂-azlag₂ B-C,Seg.3; 2,sux:lu[person]N sux:šeŋešrah[tool]N
-dcclt/Q000302,OB Lu₂-azlag₂ B-C,Seg.3; 3,sux:lu[person]N sux:še[barley]N sux:bir[scatter]V/t sux:ak[do]V/t
-dcclt/Q000302,OB Lu₂-azlag₂ B-C,Seg.3; 4,sux:lu[person]N sux:še[barley]N sux:sa[roast]V/t
+dcclt/Q000302,OB Lu₂-azlag₂ B-C,Seg.3; 3,sux:lu[person]N sux:še[barley]N
+dcclt/Q000302,OB Lu₂-azlag₂ B-C,Seg.3; 4,sux:lu[person]N sux:še[barley]N
 dcclt/Q000302,OB Lu₂-azlag₂ B-C,Seg.3; 5,sux:lu[person]N sux:še[barley]N
 dcclt/Q000302,OB Lu₂-azlag₂ B-C,Seg.3; 6,sux:lu[person]N sux:abahšin[grain]N
 dcclt/Q000302,OB Lu₂-azlag₂ B-C,Seg.3; 7,sux:lu[person]N
 dcclt/Q000302,OB Lu₂-azlag₂ B-C,Seg.4; 5,sux:lu[person]N sux:aʾigidu[worker]N
 dcclt/Q000302,OB Lu₂-azlag₂ B-C,Seg.4; 9,
 dcclt/Q000302,OB Lu₂-azlag₂ B-C,Seg.5; 1,
-dcclt/Q000302,OB Lu₂-azlag₂ B-C,Seg.5; 2,sux:lu[person]N sux:ŋešba[fist]N sux:bad[open]V/t
-dcclt/Q000302,OB Lu₂-azlag₂ B-C,Seg.5; 3,sux:lu[person]N sux:ŋešba[fist]N sux:bad[open]V/t
+dcclt/Q000302,OB Lu₂-azlag₂ B-C,Seg.5; 2,sux:lu[person]N sux:ŋešba[fist]N
+dcclt/Q000302,OB Lu₂-azlag₂ B-C,Seg.5; 3,sux:lu[person]N sux:ŋešba[fist]N
 dcclt/Q000302,OB Lu₂-azlag₂ B-C,Seg.5; 4,sux:lu[person]N sux:lirum[strength]N
 dcclt/Q000302,OB Lu₂-azlag₂ B-C,Seg.5; 5,sux:lulirumak[wrestler]N
 dcclt/Q000302,OB Lu₂-azlag₂ B-C,Seg.5; 6,sux:lu[person]N sux:zipah[unit]N
 dcclt/Q000302,OB Lu₂-azlag₂ B-C,Seg.5; 7,sux:lu[person]N sux:kar[harbor]N
-dcclt/Q000302,OB Lu₂-azlag₂ B-C,Seg.5; 8,sux:lu[person]N sux:šu[hand]N sux:kar[flee]V/t
+dcclt/Q000302,OB Lu₂-azlag₂ B-C,Seg.5; 8,sux:lu[person]N sux:šu[hand]N
 dcclt/Q000302,OB Lu₂-azlag₂ B-C,Seg.5; 9,sux:lu[person]N sux:gabkar[thief]N
-dcclt/Q000302,OB Lu₂-azlag₂ B-C,Seg.5; 10,sux:lu[person]N sux:sikildua[insulting]AJ
+dcclt/Q000302,OB Lu₂-azlag₂ B-C,Seg.5; 10,sux:lu[person]N
 dcclt/Q000302,OB Lu₂-azlag₂ B-C,Seg.5; 11,sux:lu[person]N sux:ishab[rogue]N
 dcclt/Q000302,OB Lu₂-azlag₂ B-C,Seg.5; 12,sux:lu[person]N sux:naŋah[fool]N
-dcclt/Q000302,OB Lu₂-azlag₂ B-C,Seg.5; 13,sux:lu[person]N sux:mud[rabid]AJ
-dcclt/Q000302,OB Lu₂-azlag₂ B-C,Seg.5; 14,sux:lu[person]N sux:mud[rabid]AJ
-dcclt/Q000302,OB Lu₂-azlag₂ B-C,Seg.5; 15,sux:lu[person]N sux:kar[insult]V/t
-dcclt/Q000302,OB Lu₂-azlag₂ B-C,Seg.5; 16,sux:lu[person]N sux:šu[hand]N sux:kar[insult]V/t
-dcclt/Q000302,OB Lu₂-azlag₂ B-C,Seg.5; 17,sux:lu[person]N sux:šu[hand]N sux:ur[drag]V/t
-dcclt/Q000302,OB Lu₂-azlag₂ B-C,Seg.6; 1,sux:lu[person]N sux:nam[fate]N sux:e[leave]V/i
-dcclt/Q000302,OB Lu₂-azlag₂ B-C,Seg.6; 2,sux:lu[person]N sux:ze[gall-bladder]N sux:rah[beat]V/t
+dcclt/Q000302,OB Lu₂-azlag₂ B-C,Seg.5; 13,sux:lu[person]N
+dcclt/Q000302,OB Lu₂-azlag₂ B-C,Seg.5; 14,sux:lu[person]N
+dcclt/Q000302,OB Lu₂-azlag₂ B-C,Seg.5; 15,sux:lu[person]N
+dcclt/Q000302,OB Lu₂-azlag₂ B-C,Seg.5; 16,sux:lu[person]N sux:šu[hand]N
+dcclt/Q000302,OB Lu₂-azlag₂ B-C,Seg.5; 17,sux:lu[person]N sux:šu[hand]N
+dcclt/Q000302,OB Lu₂-azlag₂ B-C,Seg.6; 1,sux:lu[person]N sux:nam[fate]N
+dcclt/Q000302,OB Lu₂-azlag₂ B-C,Seg.6; 2,sux:lu[person]N sux:ze[gall-bladder]N
 dcclt/Q000302,OB Lu₂-azlag₂ B-C,Seg.6; 3,sux:lu[person]N sux:gidim[ghost]N
 dcclt/Q000302,OB Lu₂-azlag₂ B-C,Seg.6; 4,sux:lusaŋbuluga[necromancer]N
 dcclt/Q000302,OB Lu₂-azlag₂ B-C,Seg.6; 5,sux:lusaŋšenua[interpreter]N
-dcclt/Q000302,OB Lu₂-azlag₂ B-C,Seg.6; 6,sux:lu[person]N sux:ŋissu[shade]N sux:e[leave]V/i
+dcclt/Q000302,OB Lu₂-azlag₂ B-C,Seg.6; 6,sux:lu[person]N sux:ŋissu[shade]N
 dcclt/Q000302,OB Lu₂-azlag₂ B-C,Seg.6; 7,sux:lu[person]N sux:inim[word]N
-dcclt/Q000302,OB Lu₂-azlag₂ B-C,Seg.6; 8,sux:lu[person]N sux:inim[word]N sux:dug[speak]V/t
+dcclt/Q000302,OB Lu₂-azlag₂ B-C,Seg.6; 8,sux:lu[person]N sux:inim[word]N
 dcclt/Q000302,OB Lu₂-azlag₂ B-C,Seg.6; 9,sux:lu[person]N sux:kiʾinimak[witness]N
 dcclt/Q000302,OB Lu₂-azlag₂ B-C,Seg.6; 10,sux:lu[person]N sux:abba[father]N
 dcclt/Q000302,OB Lu₂-azlag₂ B-C,Seg.6; 11,sux:lu[person]N sux:saŋ.DU[smitten-person]N
@@ -338,53 +338,53 @@ dcclt/Q000302,OB Lu₂-azlag₂ B-C,Seg.6; 12,sux:lu[person]N sux:saŋ.DU[smitt
 dcclt/Q000302,OB Lu₂-azlag₂ B-C,Seg.6; 13,sux:lu[person]N sux:saŋ[head]N sux:giri[cry]N
 dcclt/Q000302,OB Lu₂-azlag₂ B-C,Seg.7; 1,sux:lu[person]N sux:mašsaŋ[leader]N
 dcclt/Q000302,OB Lu₂-azlag₂ B-C,Seg.7; 2,sux:lu[person]N sux:uzga[priest]N
-dcclt/Q000302,OB Lu₂-azlag₂ B-C,Seg.7; 3,sux:lu[person]N sux:gudug[priest]N sux:zi[life]N sux:kur[enter]V/i
+dcclt/Q000302,OB Lu₂-azlag₂ B-C,Seg.7; 3,sux:lu[person]N sux:gudug[priest]N sux:zi[life]N
 dcclt/Q000302,OB Lu₂-azlag₂ B-C,Seg.7; 4,sux:lu[person]N sux:ŋarza[rites]N
 dcclt/Q000302,OB Lu₂-azlag₂ B-C,Seg.7; 5,sux:lu[person]N sux:ŋarza[rites]N
-dcclt/Q000302,OB Lu₂-azlag₂ B-C,Seg.7; 6,sux:lu[person]N sux:dab[seize]V/t
-dcclt/Q000302,OB Lu₂-azlag₂ B-C,Seg.7; 7,sux:lu[person]N sux:dab[seize]V/t
-dcclt/Q000302,OB Lu₂-azlag₂ B-C,Seg.7; 8,sux:lu[person]N sux:diŋir[deity]N sux:gur[turn]V/i
-dcclt/Q000302,OB Lu₂-azlag₂ B-C,Seg.7; 9,sux:lu[person]N sux:zag[side]N sux:tag[touch]V/t
-dcclt/Q000302,OB Lu₂-azlag₂ B-C,Seg.7; 10,sux:lu[person]N sux:zag[side]N sux:saga[press?]V/t
-dcclt/Q000302,OB Lu₂-azlag₂ B-C,Seg.7; 11,sux:lu[person]N sux:inim[word]N sux:dirig[excess]N sux:dug[speak]V/t
-dcclt/Q000302,OB Lu₂-azlag₂ B-C,Seg.7; 12,sux:lu[person]N sux:halhala[destroyed]AJ
-dcclt/Q000302,OB Lu₂-azlag₂ B-C,Seg.7; 13,sux:lu[person]N sux:gašam[wise]V/i
+dcclt/Q000302,OB Lu₂-azlag₂ B-C,Seg.7; 6,sux:lu[person]N
+dcclt/Q000302,OB Lu₂-azlag₂ B-C,Seg.7; 7,sux:lu[person]N
+dcclt/Q000302,OB Lu₂-azlag₂ B-C,Seg.7; 8,sux:lu[person]N sux:diŋir[deity]N
+dcclt/Q000302,OB Lu₂-azlag₂ B-C,Seg.7; 9,sux:lu[person]N sux:zag[side]N
+dcclt/Q000302,OB Lu₂-azlag₂ B-C,Seg.7; 10,sux:lu[person]N sux:zag[side]N
+dcclt/Q000302,OB Lu₂-azlag₂ B-C,Seg.7; 11,sux:lu[person]N sux:inim[word]N sux:dirig[excess]N
+dcclt/Q000302,OB Lu₂-azlag₂ B-C,Seg.7; 12,sux:lu[person]N
+dcclt/Q000302,OB Lu₂-azlag₂ B-C,Seg.7; 13,sux:lu[person]N
 dcclt/Q000302,OB Lu₂-azlag₂ B-C,Seg.7; 14,sux:lu[person]N sux:gabzuzu[expert]N
-dcclt/Q000302,OB Lu₂-azlag₂ B-C,Seg.7; 15,sux:lu[person]N sux:a[arm]N sux:zid[right]V/i
+dcclt/Q000302,OB Lu₂-azlag₂ B-C,Seg.7; 15,sux:lu[person]N sux:a[arm]N
 dcclt/Q000302,OB Lu₂-azlag₂ B-C,Seg.7; 16,sux:lu[person]N sux:a[arm]N sux:gab[left]N
-dcclt/Q000302,OB Lu₂-azlag₂ B-C,Seg.7; 17,sux:lu[person]N sux:a[arm]N sux:gab[left]N sux:zid[right]V/i sux:sig[put]V/t
-dcclt/Q000302,OB Lu₂-azlag₂ B-C,Seg.7; 18,sux:lu[person]N sux:a[arm]N sux:kud[cut]V/t
+dcclt/Q000302,OB Lu₂-azlag₂ B-C,Seg.7; 17,sux:lu[person]N sux:a[arm]N sux:gab[left]N
+dcclt/Q000302,OB Lu₂-azlag₂ B-C,Seg.7; 18,sux:lu[person]N sux:a[arm]N
 dcclt/Q000302,OB Lu₂-azlag₂ B-C,Seg.7; 19,sux:lu[person]N sux:suhur[tuft]N
 dcclt/Q000302,OB Lu₂-azlag₂ B-C,Seg.7; 20,sux:lu[person]N sux:suhurla[hairstyle]N
-dcclt/Q000302,OB Lu₂-azlag₂ B-C,Seg.7; 21,sux:lu[person]N sux:kezer[hairstyle]N sux:ak[do]V/t
-dcclt/Q000302,OB Lu₂-azlag₂ B-C,Seg.7; 22,sux:lu[person]N sux:siki[hair]N sux:guz[tufted]V/i
-dcclt/Q000302,OB Lu₂-azlag₂ B-C,Seg.7; 23,sux:lu[person]N sux:šu[hand]N sux:dug[speak]V/t
-dcclt/Q000302,OB Lu₂-azlag₂ B-C,Seg.7; 24,sux:lu[person]N sux:mudur[dirt]N sux:dug[speak]V/t
-dcclt/Q000302,OB Lu₂-azlag₂ B-C,Seg.7; 25,sux:lu[person]N sux:šu[hand]N sux:zig[rise]V/t sux:dug[speak]V/t
-dcclt/Q000302,OB Lu₂-azlag₂ B-C,Seg.7; 26,sux:lu[person]N sux:zi[cut]V/t
-dcclt/Q000302,OB Lu₂-azlag₂ B-C,Seg.7; 27,sux:lu[person]N sux:bar[outside]V/t sux:ŋar[place]V/t
-dcclt/Q000302,OB Lu₂-azlag₂ B-C,Seg.7; 28,sux:lu[person]N sux:ugu[skull]N sux:zi[cut]V/t
+dcclt/Q000302,OB Lu₂-azlag₂ B-C,Seg.7; 21,sux:lu[person]N sux:kezer[hairstyle]N
+dcclt/Q000302,OB Lu₂-azlag₂ B-C,Seg.7; 22,sux:lu[person]N sux:siki[hair]N
+dcclt/Q000302,OB Lu₂-azlag₂ B-C,Seg.7; 23,sux:lu[person]N sux:šu[hand]N
+dcclt/Q000302,OB Lu₂-azlag₂ B-C,Seg.7; 24,sux:lu[person]N sux:mudur[dirt]N
+dcclt/Q000302,OB Lu₂-azlag₂ B-C,Seg.7; 25,sux:lu[person]N sux:šu[hand]N
+dcclt/Q000302,OB Lu₂-azlag₂ B-C,Seg.7; 26,sux:lu[person]N
+dcclt/Q000302,OB Lu₂-azlag₂ B-C,Seg.7; 27,sux:lu[person]N
+dcclt/Q000302,OB Lu₂-azlag₂ B-C,Seg.7; 28,sux:lu[person]N sux:ugu[skull]N
 dcclt/Q000302,OB Lu₂-azlag₂ B-C,Seg.7; 29,sux:lu[person]N sux:atua[lustration]N
 dcclt/Q000302,OB Lu₂-azlag₂ B-C,Seg.7; 30,sux:lu[person]N sux:susbu[priest]N
-dcclt/Q000302,OB Lu₂-azlag₂ B-C,Seg.7; 31,sux:lu[person]N sux:bala[turn]V/t
-dcclt/Q000302,OB Lu₂-azlag₂ B-C,Seg.7; 32,sux:lu[person]N sux:bala[turn]V/t
+dcclt/Q000302,OB Lu₂-azlag₂ B-C,Seg.7; 31,sux:lu[person]N
+dcclt/Q000302,OB Lu₂-azlag₂ B-C,Seg.7; 32,sux:lu[person]N
 dcclt/Q000302,OB Lu₂-azlag₂ B-C,Seg.7; 33,sux:lu[person]N sux:balak[spindle]N
-dcclt/Q000302,OB Lu₂-azlag₂ B-C,Seg.7; 34,sux:lu[person]N sux:bala[turn]V/t
+dcclt/Q000302,OB Lu₂-azlag₂ B-C,Seg.7; 34,sux:lu[person]N
 dcclt/Q000302,OB Lu₂-azlag₂ B-C,Seg.8; 1,sux:lu[person]N
 dcclt/Q000302,OB Lu₂-azlag₂ B-C,Seg.8; 2,sux:lu[person]N
 dcclt/Q000302,OB Lu₂-azlag₂ B-C,Seg.8; 3,sux:lu[person]N
 dcclt/Q000302,OB Lu₂-azlag₂ B-C,Seg.8; 4,sux:lu[person]N
 dcclt/Q000302,OB Lu₂-azlag₂ B-C,Seg.8; 5,sux:lu[person]N sux:imria[clan]N
 dcclt/Q000302,OB Lu₂-azlag₂ B-C,Seg.8; 6,sux:lu[person]N sux:erin[people]N
-dcclt/Q000302,OB Lu₂-azlag₂ B-C,Seg.8; 7,sux:lu[person]N sux:zu[tooth]N sux:kešed[bind]V/t
+dcclt/Q000302,OB Lu₂-azlag₂ B-C,Seg.8; 7,sux:lu[person]N sux:zu[tooth]N
 dcclt/Q000302,OB Lu₂-azlag₂ B-C,Seg.8; 8,sux:lu[person]N sux:sa[net]N
-dcclt/Q000302,OB Lu₂-azlag₂ B-C,Seg.8; 9,sux:lu[person]N sux:sa[net]N sux:gal[big]V/i
-dcclt/Q000302,OB Lu₂-azlag₂ B-C,Seg.8; 10,sux:lu[person]N sux:sa[net]N sux:sig[weak]V/i
+dcclt/Q000302,OB Lu₂-azlag₂ B-C,Seg.8; 9,sux:lu[person]N sux:sa[net]N
+dcclt/Q000302,OB Lu₂-azlag₂ B-C,Seg.8; 10,sux:lu[person]N sux:sa[net]N
 dcclt/Q000302,OB Lu₂-azlag₂ B-C,Seg.8; 11,sux:lu[person]N sux:sašušgal[net]N
-dcclt/Q000302,OB Lu₂-azlag₂ B-C,Seg.8; 12,sux:lu[person]N sux:sa[net]N sux:ur[drag]V/t
+dcclt/Q000302,OB Lu₂-azlag₂ B-C,Seg.8; 12,sux:lu[person]N sux:sa[net]N
 dcclt/Q000302,OB Lu₂-azlag₂ B-C,Seg.8; 13,sux:lu[person]N sux:salhub[net]N
 dcclt/Q000302,OB Lu₂-azlag₂ B-C,Seg.8; 14,sux:lu[person]N sux:sa[net]N sux:gi[thicket]N
-dcclt/Q000302,OB Lu₂-azlag₂ B-C,Seg.8; 15,sux:lu[person]N sux:sa[net]N sux:dubul[paralyze?]V/t
+dcclt/Q000302,OB Lu₂-azlag₂ B-C,Seg.8; 15,sux:lu[person]N sux:sa[net]N
 dcclt/Q000302,OB Lu₂-azlag₂ B-C,Seg.8; 16,sux:lu[person]N sux:gilim[rope]N
 dcclt/Q000302,OB Lu₂-azlag₂ B-C,Seg.8; 17,sux:lu[person]N sux:sadu[net]N
 dcclt/Q000302,OB Lu₂-azlag₂ B-C,Seg.8; 18,sux:lu[person]N sux:sa.NI[net]N
@@ -401,64 +401,64 @@ dcclt/Q000302,OB Lu₂-azlag₂ B-C,Seg.9; 2,sux:lu[person]N sux:lubšir[bag]N
 dcclt/Q000302,OB Lu₂-azlag₂ B-C,Seg.9; 3,sux:lu[person]N sux:namra[booty]N
 dcclt/Q000302,OB Lu₂-azlag₂ B-C,Seg.9; 4,sux:lu[person]N
 dcclt/Q000302,OB Lu₂-azlag₂ B-C,Seg.9; 5,sux:lu[person]N sux:namerim[oath]N
-dcclt/Q000302,OB Lu₂-azlag₂ B-C,Seg.9; 6,sux:lu[person]N sux:namerim[oath]N sux:kud[cut]V/t
+dcclt/Q000302,OB Lu₂-azlag₂ B-C,Seg.9; 6,sux:lu[person]N sux:namerim[oath]N
 dcclt/Q000302,OB Lu₂-azlag₂ B-C,Seg.9; 7,sux:lu[person]N sux:namtaga[sin]N
 dcclt/Q000302,OB Lu₂-azlag₂ B-C,Seg.9; 8,sux:lu[person]N sux:namtaga[sin]N
 dcclt/Q000302,OB Lu₂-azlag₂ B-C,Seg.9; 9,sux:lu[person]N sux:šerda[crime]N
 dcclt/Q000302,OB Lu₂-azlag₂ B-C,Seg.9; 10,sux:lu[person]N sux:namraʾak[booty]N
 dcclt/Q000302,OB Lu₂-azlag₂ B-C,Seg.9; 11,sux:lu[person]N sux:namtar[fate]N
 dcclt/Q000302,OB Lu₂-azlag₂ B-C,Seg.9; 12,sux:lu[person]N sux:namtar[fate]N
-dcclt/Q000302,OB Lu₂-azlag₂ B-C,Seg.9; 13,sux:lu[person]N sux:namtar[fate]N sux:gig[sick]V/i
-dcclt/Q000302,OB Lu₂-azlag₂ B-C,Seg.9; 14,sux:lu[person]N sux:namtar[fate]N sux:du[suitable]V/i
-dcclt/Q000302,OB Lu₂-azlag₂ B-C,Seg.9; 15,sux:lu[person]N sux:nam[fate]N sux:kud[cut]V/t
-dcclt/Q000302,OB Lu₂-azlag₂ B-C,Seg.9; 16,sux:lu[person]N sux:nam[fate]N sux:kud[cut]V/t
+dcclt/Q000302,OB Lu₂-azlag₂ B-C,Seg.9; 13,sux:lu[person]N sux:namtar[fate]N
+dcclt/Q000302,OB Lu₂-azlag₂ B-C,Seg.9; 14,sux:lu[person]N sux:namtar[fate]N
+dcclt/Q000302,OB Lu₂-azlag₂ B-C,Seg.9; 15,sux:lu[person]N sux:nam[fate]N
+dcclt/Q000302,OB Lu₂-azlag₂ B-C,Seg.9; 16,sux:lu[person]N sux:nam[fate]N
 dcclt/Q000302,OB Lu₂-azlag₂ B-C,Seg.9; 17,sux:lu[person]N sux:kurku[wish]N
 dcclt/Q000302,OB Lu₂-azlag₂ B-C,Seg.9; 18,sux:lu[person]N sux:kamudŋal[advocate]N
-dcclt/Q000302,OB Lu₂-azlag₂ B-C,Seg.9; 19,sux:lu[person]N sux:aš[curse]N sux:bala[turn]V/t
-dcclt/Q000302,OB Lu₂-azlag₂ B-C,Seg.9; 20,sux:lu[person]N sux:hulu[bad]V/i
-dcclt/Q000302,OB Lu₂-azlag₂ B-C,Seg.9; 21,sux:lu[person]N sux:til[live]V/i
-dcclt/Q000302,OB Lu₂-azlag₂ B-C,Seg.9; 22,sux:lu[person]N sux:šu[hand]N sux:ak[do]V/t
-dcclt/Q000302,OB Lu₂-azlag₂ B-C,Seg.9; 23,sux:lu[person]N sux:bar[outside]V/t
+dcclt/Q000302,OB Lu₂-azlag₂ B-C,Seg.9; 19,sux:lu[person]N sux:aš[curse]N
+dcclt/Q000302,OB Lu₂-azlag₂ B-C,Seg.9; 20,sux:lu[person]N
+dcclt/Q000302,OB Lu₂-azlag₂ B-C,Seg.9; 21,sux:lu[person]N
+dcclt/Q000302,OB Lu₂-azlag₂ B-C,Seg.9; 22,sux:lu[person]N sux:šu[hand]N
+dcclt/Q000302,OB Lu₂-azlag₂ B-C,Seg.9; 23,sux:lu[person]N
 dcclt/Q000302,OB Lu₂-azlag₂ B-C,Seg.9; 24,sux:lu[person]N
 dcclt/Q000302,OB Lu₂-azlag₂ B-C,Seg.10; 1,sux:lu[person]N
 dcclt/Q000302,OB Lu₂-azlag₂ B-C,Seg.10; 2,sux:lu[person]N
 dcclt/Q000302,OB Lu₂-azlag₂ B-C,Seg.10; 3,sux:lu[person]N sux:humhum[destitute]N
-dcclt/Q000302,OB Lu₂-azlag₂ B-C,Seg.10; 4,sux:lu[person]N sux:egar[wall]N sux:šub[fall]V/t
-dcclt/Q000302,OB Lu₂-azlag₂ B-C,Seg.10; 5,sux:lu[person]N sux:murgu[excrement]N sux:nud[lie]V/t
-dcclt/Q000302,OB Lu₂-azlag₂ B-C,Seg.10; 6,sux:lu[person]N sux:šu[hand]N sux:la[hang]V/t
+dcclt/Q000302,OB Lu₂-azlag₂ B-C,Seg.10; 4,sux:lu[person]N sux:egar[wall]N
+dcclt/Q000302,OB Lu₂-azlag₂ B-C,Seg.10; 5,sux:lu[person]N sux:murgu[excrement]N
+dcclt/Q000302,OB Lu₂-azlag₂ B-C,Seg.10; 6,sux:lu[person]N sux:šu[hand]N
 dcclt/Q000302,OB Lu₂-azlag₂ B-C,Seg.10; 7,sux:lu[person]N sux:šu[hand]N sux:kudkudra[disabled]N
-dcclt/Q000302,OB Lu₂-azlag₂ B-C,Seg.10; 8,sux:lu[person]N sux:šu[hand]N sux:rah[beat]V/t
+dcclt/Q000302,OB Lu₂-azlag₂ B-C,Seg.10; 8,sux:lu[person]N sux:šu[hand]N
 dcclt/Q000302,OB Lu₂-azlag₂ B-C,Seg.10; 9,sux:lu[person]N sux:kudkudra[disabled]N
-dcclt/Q000302,OB Lu₂-azlag₂ B-C,Seg.10; 10,sux:lu[person]N sux:ad[crippled]V/i
+dcclt/Q000302,OB Lu₂-azlag₂ B-C,Seg.10; 10,sux:lu[person]N
 dcclt/Q000302,OB Lu₂-azlag₂ B-C,Seg.10; 11,sux:lu[person]N sux:kudkudra[disabled]N
-dcclt/Q000302,OB Lu₂-azlag₂ B-C,Seg.10; 12,sux:lu[person]N sux:dugla[lame]AJ
-dcclt/Q000302,OB Lu₂-azlag₂ B-C,Seg.10; 13,sux:lu[person]N sux:dub[knee]N sux:dab[seize]V/t
+dcclt/Q000302,OB Lu₂-azlag₂ B-C,Seg.10; 12,sux:lu[person]N
+dcclt/Q000302,OB Lu₂-azlag₂ B-C,Seg.10; 13,sux:lu[person]N sux:dub[knee]N
 dcclt/Q000302,OB Lu₂-azlag₂ B-C,Seg.10; 14,sux:lil[fool]N
 dcclt/Q000302,OB Lu₂-azlag₂ B-C,Seg.10; 15,sux:lu[person]N sux:emezagabarbar[driveling]N
-dcclt/Q000302,OB Lu₂-azlag₂ B-C,Seg.10; 16,sux:lu[person]N sux:uš[poison]N sux:sur[press]V/t
-dcclt/Q000302,OB Lu₂-azlag₂ B-C,Seg.10; 17,sux:lu[person]N sux:bun[bellows]N sux:dug[speak]V/t
-dcclt/Q000302,OB Lu₂-azlag₂ B-C,Seg.10; 18,sux:lu[person]N sux:lul[false]V/i sux:sig[put]V/t
-dcclt/Q000302,OB Lu₂-azlag₂ B-C,Seg.10; 19,sux:lu[person]N sux:inim[word]N sux:šu[hand]N sux:du[build]V/t
+dcclt/Q000302,OB Lu₂-azlag₂ B-C,Seg.10; 16,sux:lu[person]N sux:uš[poison]N
+dcclt/Q000302,OB Lu₂-azlag₂ B-C,Seg.10; 17,sux:lu[person]N sux:bun[bellows]N
+dcclt/Q000302,OB Lu₂-azlag₂ B-C,Seg.10; 18,sux:lu[person]N
+dcclt/Q000302,OB Lu₂-azlag₂ B-C,Seg.10; 19,sux:lu[person]N sux:inim[word]N sux:šu[hand]N
 dcclt/Q000302,OB Lu₂-azlag₂ B-C,Seg.10; 20,sux:lu[person]N
 dcclt/Q000302,OB Lu₂-azlag₂ B-C,Seg.11; 1,sux:lu[person]N
-dcclt/Q000302,OB Lu₂-azlag₂ B-C,Seg.11; 2,sux:lu[person]N sux:rib[surpassing]V/i
-dcclt/Q000302,OB Lu₂-azlag₂ B-C,Seg.11; 3,sux:lu[person]N sux:rib[surpassing]V/i
+dcclt/Q000302,OB Lu₂-azlag₂ B-C,Seg.11; 2,sux:lu[person]N
+dcclt/Q000302,OB Lu₂-azlag₂ B-C,Seg.11; 3,sux:lu[person]N
 dcclt/Q000302,OB Lu₂-azlag₂ B-C,Seg.11; 4,sux:lu[person]N
-dcclt/Q000302,OB Lu₂-azlag₂ B-C,Seg.11; 5,sux:lu[person]N sux:dub[knee]N sux:ak[do]V/t
+dcclt/Q000302,OB Lu₂-azlag₂ B-C,Seg.11; 5,sux:lu[person]N sux:dub[knee]N
 dcclt/Q000302,OB Lu₂-azlag₂ B-C,Seg.11; 6,sux:lu[person]N
-dcclt/Q000302,OB Lu₂-azlag₂ B-C,Seg.11; 7,sux:lu[person]N sux:ak[do]V/t
+dcclt/Q000302,OB Lu₂-azlag₂ B-C,Seg.11; 7,sux:lu[person]N
 dcclt/Q000302,OB Lu₂-azlag₂ B-C,Seg.11; 8,sux:lu[person]N sux:uddatuš[jester]N
 dcclt/Q000302,OB Lu₂-azlag₂ B-C,Seg.11; 9,sux:lu[person]N
 dcclt/Q000302,OB Lu₂-azlag₂ B-C,Seg.11; 10,sux:lu[person]N
 dcclt/Q000302,OB Lu₂-azlag₂ B-C,Seg.11; 11,sux:lu[person]N
 dcclt/Q000302,OB Lu₂-azlag₂ B-C,Seg.11; 12,sux:lu[person]N
 dcclt/Q000302,OB Lu₂-azlag₂ B-C,Seg.12; 1,sux:lu[person]N
-dcclt/Q000302,OB Lu₂-azlag₂ B-C,Seg.12; 2,sux:lu[person]N sux:lugud[short]V/i
+dcclt/Q000302,OB Lu₂-azlag₂ B-C,Seg.12; 2,sux:lu[person]N
 dcclt/Q000302,OB Lu₂-azlag₂ B-C,Seg.12; 3,sux:lu[person]N
 dcclt/Q000302,OB Lu₂-azlag₂ B-C,Seg.12; 4,sux:lu[person]N sux:šita[weapon]N
 dcclt/Q000302,OB Lu₂-azlag₂ B-C,Seg.13; 1,sux:lu[person]N sux:šudum[reckoning]N
 dcclt/Q000302,OB Lu₂-azlag₂ B-C,Seg.13; 2,sux:luŋiadudu[night-watchman]N
-dcclt/Q000302,OB Lu₂-azlag₂ B-C,Seg.13; 3,sux:lu[person]N sux:eme[tongue]N sux:sig[weak]V/i
+dcclt/Q000302,OB Lu₂-azlag₂ B-C,Seg.13; 3,sux:lu[person]N sux:eme[tongue]N
 dcclt/Q000302,OB Lu₂-azlag₂ B-C,Seg.13; 4,sux:lu[person]N sux:dun[profit]N
 dcclt/Q000302,OB Lu₂-azlag₂ B-C,Seg.13; 5,sux:lu[person]N sux:šitadu[accountant]N
 dcclt/Q000302,OB Lu₂-azlag₂ B-C,Seg.13; 6,sux:lu[person]N

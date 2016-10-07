@@ -1,51 +1,51 @@
 id_text,text_name,l_no,text
-aemw/amarna/P271091,EA 289. A reckoning damned [vassal letter],001,akk-x-mbperi:ana[to]PRP akk-x-mbperi:šarru[king]N akk-x-mbperi:bēlu[lord]N akk-x-mbperi:qabû[say]V
-aemw/amarna/P271091,EA 289. A reckoning damned [vassal letter],002,akk-x-mbperi:umma[saying]PRP akk-x-mbperi:IR₃-Heba[1]PN akk-x-mbperi:wardu[slave]N
-aemw/amarna/P271091,EA 289. A reckoning damned [vassal letter],003,akk-x-mbperi:ana[to]PRP akk-x-mbperi:šēpu[foot]N akk-x-mbperi:bēlu[lord]N akk-x-mbperi:šarru[king]N
-aemw/amarna/P271091,EA 289. A reckoning damned [vassal letter],004,akk-x-mbperi:u[and]CNJ akk-x-mbperi:maqātu[fall]V
-aemw/amarna/P271091,EA 289. A reckoning damned [vassal letter],005,akk-x-mbperi:amāru[see]V akk-x-mbperi:Milk-ilu[1]PN akk-x-mbperi:lā[not]MOD akk-x-mbperi:paṭāru[loosen]V
-aemw/amarna/P271091,EA 289. A reckoning damned [vassal letter],006,akk-x-mbperi:ištu[from]PRP akk-x-mbperi:māru[son]N akk-x-mbperi:Labʾaya[1]PN akk-x-mbperi:u[and]CNJ
-aemw/amarna/P271091,EA 289. A reckoning damned [vassal letter],007,akk-x-mbperi:māru[son]N akk-x-mbperi:Arṣayu[1]PN akk-x-mbperi:ana[to]PRP akk-x-mbperi:erēšu[request]V
-aemw/amarna/P271091,EA 289. A reckoning damned [vassal letter],008,akk-x-mbperi:mātu[land]N akk-x-mbperi:šarru[king]N akk-x-mbperi:ana[to]PRP akk-x-mbperi:šâšunu[(to/of)-them]IP
-aemw/amarna/P271091,EA 289. A reckoning damned [vassal letter],009,akk-x-mbperi:hazannu[mayor]N akk-x-mbperi:ša[that]REL akk-x-mbperi:epšu[made]AJ akk-x-mbperi:ipšu[deed]N akk-x-mbperi:annû[this]DP
-aemw/amarna/P271091,EA 289. A reckoning damned [vassal letter],010,akk-x-mbperi:ammīni[why?]AV akk-x-mbperi:šarru[king]N akk-x-mbperi:lā[not]MOD akk-x-mbperi:šālu[asked]AJ
-aemw/amarna/P271091,EA 289. A reckoning damned [vassal letter],011,akk-x-mbperi:amāru[see]V akk-x-mbperi:Milk-ilu[1]PN akk-x-mbperi:u[and]CNJ akk-x-mbperi:Taku[2]PN
-aemw/amarna/P271091,EA 289. A reckoning damned [vassal letter],012,akk-x-mbperi:ipšu[deed]N akk-x-mbperi:ša[that]REL akk-x-mbperi:epēšu[do]V akk-x-mbperi:annû[this]DP
-aemw/amarna/P271091,EA 289. A reckoning damned [vassal letter],013,akk-x-mbperi:inūma[when]SBJ akk-x-mbperi:leqû[take]V akk-x-mbperi:Rubbutu[1]GN
-aemw/amarna/P271091,EA 289. A reckoning damned [vassal letter],014,akk-x-mbperi:u[and]CNJ akk-x-mbperi:inanna[now]AV akk-x-mbperi:Urušalim[Jerusalem]GN
-aemw/amarna/P271091,EA 289. A reckoning damned [vassal letter],015,akk-x-mbperi:šumma[if]MOD akk-x-mbperi:bašû[be(come)-at-hand]V akk-x-mbperi:mātu[land]N akk-x-mbperi:annû[this]DP
-aemw/amarna/P271091,EA 289. A reckoning damned [vassal letter],016,akk-x-mbperi:ana[to]PRP akk-x-mbperi:šarru[king]N akk-x-mbperi:ammīni[why?]AV akk-x-mbperi:inūma[when]SBJ
-aemw/amarna/P271091,EA 289. A reckoning damned [vassal letter],017,akk-x-mbperi:Hazzatu[Gaza]GN akk-x-mbperi:ana[to]PRP akk-x-mbperi:šarru[king]N akk-x-mbperi:lā[not]MOD akk-x-mbperi:šaknu[placed]AJ
-aemw/amarna/P271091,EA 289. A reckoning damned [vassal letter],018,akk-x-mbperi:amāru[see]V akk-x-mbperi:mātu[land]N akk-x-mbperi:Gintu-kirmil[Gath-Carmel]GN
-aemw/amarna/P271091,EA 289. A reckoning damned [vassal letter],019,akk-x-mbperi:ana[to]PRP akk-x-mbperi:Taku[2]PN akk-x-mbperi:u[and]CNJ akk-x-mbperi:awīlu[man]N akk-x-mbperi:Gintu-kirmil[Gath-Carmel]GN
-aemw/amarna/P271091,EA 289. A reckoning damned [vassal letter],020,akk-x-mbperi:maṣṣartu[observation]N akk-x-mbperi:ina[in]PRP akk-x-mbperi:Bit-sani[Beth-Shean]GN akk-x-mbperi:bašû[be(come)-at-hand]V
-aemw/amarna/P271091,EA 289. A reckoning damned [vassal letter],021,akk-x-mbperi:u[and]CNJ akk-x-mbperi:lū[let-it-be]MOD akk-x-mbperi:epēšu[do]V akk-x-mbperi:inūma[when]SBJ
-aemw/amarna/P271091,EA 289. A reckoning damned [vassal letter],022,akk-x-mbperi:Labʾaya[1]PN
-aemw/amarna/P271091,EA 289. A reckoning damned [vassal letter],023,akk-x-mbperi:u[and]CNJ akk-x-mbperi:mātu[land]N akk-x-mbperi:Šakmu[Shechem]GN akk-x-mbperi:nadānu[give]V
-aemw/amarna/P271091,EA 289. A reckoning damned [vassal letter],024,akk-x-mbperi:ana[to]PRP akk-x-mbperi:awīlu[man]N akk-x-mbperi:hāpiru[(class-of)-vagrant]N
-aemw/amarna/P271091,EA 289. A reckoning damned [vassal letter],025,akk-x-mbperi:Milk-ilu[1]PN akk-x-mbperi:šapru[sent]AJ akk-x-mbperi:ana[to]PRP akk-x-mbperi:Taku[2]PN
-aemw/amarna/P271091,EA 289. A reckoning damned [vassal letter],026,akk-x-mbperi:u[and]CNJ akk-x-mbperi:māru[son]N akk-x-mbperi:lū[let-it-be]MOD akk-x-mbperi:awīlu[man]N
-aemw/amarna/P271091,EA 289. A reckoning damned [vassal letter],027,akk-x-mbperi:nadānu[give]V akk-x-mbperi:gabbu[totality]N akk-x-mbperi:erištu[demand]N
-aemw/amarna/P271091,EA 289. A reckoning damned [vassal letter],028,akk-x-mbperi:ana[to]PRP akk-x-mbperi:awīlu[man]N akk-x-mbperi:Qiltu[Kegila]GN
-aemw/amarna/P271091,EA 289. A reckoning damned [vassal letter],029,akk-x-mbperi:u[and]CNJ akk-x-mbperi:lū[let-it-be]MOD akk-x-mbperi:paṭāru[loosen]V akk-x-mbperi:Urušalim[Jerusalem]GN
-aemw/amarna/P271091,EA 289. A reckoning damned [vassal letter],030,akk-x-mbperi:awīlu[man]N akk-x-mbperi:maṣṣartu[observation]N akk-x-mbperi:ša[that]REL akk-x-mbperi:wašāru[sink-down]V
-aemw/amarna/P271091,EA 289. A reckoning damned [vassal letter],031,akk-x-mbperi:ina[in]PRP akk-x-mbperi:qātu[hand]N akk-x-mbperi:Haya[1]PN akk-x-mbperi:māru[son]N akk-x-mbperi:Miyare[1]PN
-aemw/amarna/P271091,EA 289. A reckoning damned [vassal letter],032,akk-x-mbperi:leqû[taken]AJ akk-x-mbperi:Addaya[1]PN akk-x-mbperi:šaknu[placed]AJ
-aemw/amarna/P271091,EA 289. A reckoning damned [vassal letter],033,akk-x-mbperi:ina[in]PRP akk-x-mbperi:bītu[house]N akk-x-mbperi:ina[in]PRP akk-x-mbperi:Hazzatu[Gaza]GN
-aemw/amarna/P271091,EA 289. A reckoning damned [vassal letter],034,akk-x-mbperi:u[and]CNJ akk-x-mbperi:awīlu[man]N akk-x-mbperi:ana[to]PRP akk-x-mbperi:Miṣru[Egypt]GN
-aemw/amarna/P271091,EA 289. A reckoning damned [vassal letter],035,akk-x-mbperi:wašāru[sink-down]V akk-x-mbperi:lū[let-it-be]MOD akk-x-mbperi:edû[know]V akk-x-mbperi:šarru[king]N
-aemw/amarna/P271091,EA 289. A reckoning damned [vassal letter],036,akk-x-mbperi:yānu[(there)-is-not]V akk-x-mbperi:awīlu[man]N akk-x-mbperi:maṣṣartu[observation]N akk-x-mbperi:šarru[king]N akk-x-mbperi:itti[with]PRP
-aemw/amarna/P271091,EA 289. A reckoning damned [vassal letter],037,akk-x-mbperi:kīnanna[so]AV akk-x-mbperi:balāṭu[live]V akk-x-mbperi:šarru[king]N
-aemw/amarna/P271091,EA 289. A reckoning damned [vassal letter],038,akk-x-mbperi:lū[indeed]MOD akk-x-mbperi:irpi[(an-Egyptian-official)]N akk-x-mbperi:Puwuru[1]PN
-aemw/amarna/P271091,EA 289. A reckoning damned [vassal letter],039,akk-x-mbperi:paṭru[released]AJ akk-x-mbperi:ina[in]PRP akk-x-mbperi:mahru[front]N
-aemw/amarna/P271091,EA 289. A reckoning damned [vassal letter],040,akk-x-mbperi:ina[in]PRP akk-x-mbperi:Hazzatu[Gaza]GN akk-x-mbperi:bašû[be(come)-at-hand]V
-aemw/amarna/P271091,EA 289. A reckoning damned [vassal letter],041,akk-x-mbperi:u[and]CNJ qca:zakaru[remember]V akk-x-mbperi:šarru[king]N akk-x-mbperi:ina[in]PRP akk-x-mbperi:pānu[front]N
-aemw/amarna/P271091,EA 289. A reckoning damned [vassal letter],042,akk-x-mbperi:u[and]CNJ akk-x-mbperi:wašāru[sink-down]V akk-x-mbperi:šarru[king]N akk-x-mbperi:awīlu[man]N
-aemw/amarna/P271091,EA 289. A reckoning damned [vassal letter],043,akk-x-mbperi:maṣṣartu[observation]N akk-x-mbperi:ana[to]PRP akk-x-mbperi:naṣāru[guard]V akk-x-mbperi:mātu[land]N
-aemw/amarna/P271091,EA 289. A reckoning damned [vassal letter],044,akk-x-mbperi:gabbu[totality]N akk-x-mbperi:mātu[land]N akk-x-mbperi:šarru[king]N akk-x-mbperi:paṭru[released]AJ
-aemw/amarna/P271091,EA 289. A reckoning damned [vassal letter],045,akk-x-mbperi:wašāru[sink-down]V akk-x-mbperi:Yanhamu[1]PN
-aemw/amarna/P271091,EA 289. A reckoning damned [vassal letter],046,akk-x-mbperi:u[and]CNJ akk-x-mbperi:edû[know]V akk-x-mbperi:mātu[land]N akk-x-mbperi:šarru[king]N
-aemw/amarna/P271091,EA 289. A reckoning damned [vassal letter],047,akk-x-mbperi:ana[to]PRP akk-x-mbperi:ṭupšarru[scribe]N akk-x-mbperi:šarru[king]N akk-x-mbperi:bēlu[lord]N
-aemw/amarna/P271091,EA 289. A reckoning damned [vassal letter],048,akk-x-mbperi:umma[saying]PRP akk-x-mbperi:IR₃-Heba[1]PN akk-x-mbperi:wardu[slave]N
-aemw/amarna/P271091,EA 289. A reckoning damned [vassal letter],049,akk-x-mbperi:awātu[word]N akk-x-mbperi:banû[good]AJ
-aemw/amarna/P271091,EA 289. A reckoning damned [vassal letter],050,akk-x-mbperi:nadānu[give]V akk-x-mbperi:ana[to]PRP akk-x-mbperi:šarru[king]N akk-x-mbperi:mītu[dead]AJ akk-x-mbperi:magal[very-(much)]AV
+aemw/amarna/P271091,EA 289. A reckoning damned [vassal letter],001,akk-x-mbperi:šarru[king]N akk-x-mbperi:bēlu[lord]N
+aemw/amarna/P271091,EA 289. A reckoning damned [vassal letter],002,akk-x-mbperi:wardu[slave]N
+aemw/amarna/P271091,EA 289. A reckoning damned [vassal letter],003,akk-x-mbperi:šēpu[foot]N akk-x-mbperi:bēlu[lord]N akk-x-mbperi:šarru[king]N
+aemw/amarna/P271091,EA 289. A reckoning damned [vassal letter],004,
+aemw/amarna/P271091,EA 289. A reckoning damned [vassal letter],005,
+aemw/amarna/P271091,EA 289. A reckoning damned [vassal letter],006,akk-x-mbperi:māru[son]N
+aemw/amarna/P271091,EA 289. A reckoning damned [vassal letter],007,akk-x-mbperi:māru[son]N
+aemw/amarna/P271091,EA 289. A reckoning damned [vassal letter],008,akk-x-mbperi:mātu[land]N akk-x-mbperi:šarru[king]N
+aemw/amarna/P271091,EA 289. A reckoning damned [vassal letter],009,akk-x-mbperi:hazannu[mayor]N akk-x-mbperi:ipšu[deed]N
+aemw/amarna/P271091,EA 289. A reckoning damned [vassal letter],010,akk-x-mbperi:šarru[king]N
+aemw/amarna/P271091,EA 289. A reckoning damned [vassal letter],011,
+aemw/amarna/P271091,EA 289. A reckoning damned [vassal letter],012,akk-x-mbperi:ipšu[deed]N
+aemw/amarna/P271091,EA 289. A reckoning damned [vassal letter],013,
+aemw/amarna/P271091,EA 289. A reckoning damned [vassal letter],014,
+aemw/amarna/P271091,EA 289. A reckoning damned [vassal letter],015,akk-x-mbperi:mātu[land]N
+aemw/amarna/P271091,EA 289. A reckoning damned [vassal letter],016,akk-x-mbperi:šarru[king]N
+aemw/amarna/P271091,EA 289. A reckoning damned [vassal letter],017,akk-x-mbperi:šarru[king]N
+aemw/amarna/P271091,EA 289. A reckoning damned [vassal letter],018,akk-x-mbperi:mātu[land]N
+aemw/amarna/P271091,EA 289. A reckoning damned [vassal letter],019,akk-x-mbperi:awīlu[man]N
+aemw/amarna/P271091,EA 289. A reckoning damned [vassal letter],020,akk-x-mbperi:maṣṣartu[observation]N
+aemw/amarna/P271091,EA 289. A reckoning damned [vassal letter],021,
+aemw/amarna/P271091,EA 289. A reckoning damned [vassal letter],022,
+aemw/amarna/P271091,EA 289. A reckoning damned [vassal letter],023,akk-x-mbperi:mātu[land]N
+aemw/amarna/P271091,EA 289. A reckoning damned [vassal letter],024,akk-x-mbperi:awīlu[man]N akk-x-mbperi:hāpiru[(class-of)-vagrant]N
+aemw/amarna/P271091,EA 289. A reckoning damned [vassal letter],025,
+aemw/amarna/P271091,EA 289. A reckoning damned [vassal letter],026,akk-x-mbperi:māru[son]N akk-x-mbperi:awīlu[man]N
+aemw/amarna/P271091,EA 289. A reckoning damned [vassal letter],027,akk-x-mbperi:gabbu[totality]N akk-x-mbperi:erištu[demand]N
+aemw/amarna/P271091,EA 289. A reckoning damned [vassal letter],028,akk-x-mbperi:awīlu[man]N
+aemw/amarna/P271091,EA 289. A reckoning damned [vassal letter],029,
+aemw/amarna/P271091,EA 289. A reckoning damned [vassal letter],030,akk-x-mbperi:awīlu[man]N akk-x-mbperi:maṣṣartu[observation]N
+aemw/amarna/P271091,EA 289. A reckoning damned [vassal letter],031,akk-x-mbperi:qātu[hand]N akk-x-mbperi:māru[son]N
+aemw/amarna/P271091,EA 289. A reckoning damned [vassal letter],032,
+aemw/amarna/P271091,EA 289. A reckoning damned [vassal letter],033,akk-x-mbperi:bītu[house]N
+aemw/amarna/P271091,EA 289. A reckoning damned [vassal letter],034,akk-x-mbperi:awīlu[man]N
+aemw/amarna/P271091,EA 289. A reckoning damned [vassal letter],035,akk-x-mbperi:šarru[king]N
+aemw/amarna/P271091,EA 289. A reckoning damned [vassal letter],036,akk-x-mbperi:awīlu[man]N akk-x-mbperi:maṣṣartu[observation]N akk-x-mbperi:šarru[king]N
+aemw/amarna/P271091,EA 289. A reckoning damned [vassal letter],037,akk-x-mbperi:šarru[king]N
+aemw/amarna/P271091,EA 289. A reckoning damned [vassal letter],038,akk-x-mbperi:irpi[(an-Egyptian-official)]N
+aemw/amarna/P271091,EA 289. A reckoning damned [vassal letter],039,akk-x-mbperi:mahru[front]N
+aemw/amarna/P271091,EA 289. A reckoning damned [vassal letter],040,
+aemw/amarna/P271091,EA 289. A reckoning damned [vassal letter],041,akk-x-mbperi:šarru[king]N akk-x-mbperi:pānu[front]N
+aemw/amarna/P271091,EA 289. A reckoning damned [vassal letter],042,akk-x-mbperi:šarru[king]N akk-x-mbperi:awīlu[man]N
+aemw/amarna/P271091,EA 289. A reckoning damned [vassal letter],043,akk-x-mbperi:maṣṣartu[observation]N akk-x-mbperi:mātu[land]N
+aemw/amarna/P271091,EA 289. A reckoning damned [vassal letter],044,akk-x-mbperi:gabbu[totality]N akk-x-mbperi:mātu[land]N akk-x-mbperi:šarru[king]N
+aemw/amarna/P271091,EA 289. A reckoning damned [vassal letter],045,
+aemw/amarna/P271091,EA 289. A reckoning damned [vassal letter],046,akk-x-mbperi:mātu[land]N akk-x-mbperi:šarru[king]N
+aemw/amarna/P271091,EA 289. A reckoning damned [vassal letter],047,akk-x-mbperi:ṭupšarru[scribe]N akk-x-mbperi:šarru[king]N akk-x-mbperi:bēlu[lord]N
+aemw/amarna/P271091,EA 289. A reckoning damned [vassal letter],048,akk-x-mbperi:wardu[slave]N
+aemw/amarna/P271091,EA 289. A reckoning damned [vassal letter],049,akk-x-mbperi:awātu[word]N
+aemw/amarna/P271091,EA 289. A reckoning damned [vassal letter],050,akk-x-mbperi:šarru[king]N
