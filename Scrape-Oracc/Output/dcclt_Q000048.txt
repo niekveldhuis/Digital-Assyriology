@@ -23,10 +23,10 @@ dcclt/Q000048,OB Nippur Kagal,21,sux:hudadu[crevice]N
 dcclt/Q000048,OB Nippur Kagal,22,sux:kisal[courtyard]N
 dcclt/Q000048,OB Nippur Kagal,23,sux:kisal[courtyard]N
 dcclt/Q000048,OB Nippur Kagal,24,sux:kisal[courtyard]N
-dcclt/Q000048,OB Nippur Kagal,25,sux:kan[gate]N
-dcclt/Q000048,OB Nippur Kagal,26,sux:kan[gate]N
-dcclt/Q000048,OB Nippur Kagal,27,sux:kan[gate]N
-dcclt/Q000048,OB Nippur Kagal,28,sux:kan[gate]N
+dcclt/Q000048,OB Nippur Kagal,25,sux:kan[gate]N akk-x-oldbab:bābu[gate]N
+dcclt/Q000048,OB Nippur Kagal,26,sux:kan[gate]N akk-x-oldbab:bābu[gate]N
+dcclt/Q000048,OB Nippur Kagal,27,sux:kan[gate]N akk-x-oldbab:pītu[opening]N
+dcclt/Q000048,OB Nippur Kagal,28,sux:kan[gate]N akk-x-oldbab:nērebu[entrance]N
 dcclt/Q000048,OB Nippur Kagal,29,sux:kan[gate]N
 dcclt/Q000048,OB Nippur Kagal,30,sux:kan[gate]N sux:tilla[street]N
 dcclt/Q000048,OB Nippur Kagal,31,sux:kan[gate]N sux:egal[palace]N
@@ -251,11 +251,11 @@ dcclt/Q000048,OB Nippur Kagal,240,sux:e[house]N
 dcclt/Q000048,OB Nippur Kagal,240a,
 dcclt/Q000048,OB Nippur Kagal,240b,
 dcclt/Q000048,OB Nippur Kagal,240c,
-dcclt/Q000048,OB Nippur Kagal,241,sux:a[water]N
-dcclt/Q000048,OB Nippur Kagal,242,sux:a[water]N
-dcclt/Q000048,OB Nippur Kagal,243,sux:a[water]N
-dcclt/Q000048,OB Nippur Kagal,244,sux:a[water]N
-dcclt/Q000048,OB Nippur Kagal,245,sux:a[water]N
+dcclt/Q000048,OB Nippur Kagal,241,sux:a[water]N akk-x-oldbab:mû[water]N
+dcclt/Q000048,OB Nippur Kagal,242,sux:a[water]N akk-x-oldbab:mīlu[high-water]N
+dcclt/Q000048,OB Nippur Kagal,243,sux:a[water]N akk-x-oldbab:ruṭibtu[dampness]N
+dcclt/Q000048,OB Nippur Kagal,244,sux:a[water]N akk-x-oldbab:riṭibtu[wetness]N
+dcclt/Q000048,OB Nippur Kagal,245,sux:a[water]N akk-x-oldbab:rihûtu[progeny]N
 dcclt/Q000048,OB Nippur Kagal,246,sux:azu[doctor]N
 dcclt/Q000048,OB Nippur Kagal,247,sux:azu[doctor]N
 dcclt/Q000048,OB Nippur Kagal,248,sux:azu[doctor]N sux:gud[ox]N
@@ -280,7 +280,7 @@ dcclt/Q000048,OB Nippur Kagal,267,sux:a[water]N sux:gu[neck]N
 dcclt/Q000048,OB Nippur Kagal,268,sux:a[water]N
 dcclt/Q000048,OB Nippur Kagal,269,sux:a[water]N
 dcclt/Q000048,OB Nippur Kagal,272,
-dcclt/Q000048,OB Nippur Kagal,273,sux:a[water]N
+dcclt/Q000048,OB Nippur Kagal,273,sux:a[water]N akk-x-oldbab:sahsahhātu[meaning-unknown]N
 dcclt/Q000048,OB Nippur Kagal,274,sux:a[water]N
 dcclt/Q000048,OB Nippur Kagal,275,sux:abara[sweat]N
 dcclt/Q000048,OB Nippur Kagal,277,sux:a[water]N sux:niŋhuša[pitfall]N
@@ -434,7 +434,7 @@ dcclt/Q000048,OB Nippur Kagal,433,sux:aʾuʾa[ferryman]N
 dcclt/Q000048,OB Nippur Kagal,433a,sux:addir[hire]N
 dcclt/Q000048,OB Nippur Kagal,434,sux:addir[ford]N
 dcclt/Q000048,OB Nippur Kagal,435,sux:apap[pipe]N
-dcclt/Q000048,OB Nippur Kagal,436,sux:apap[pipe]N
+dcclt/Q000048,OB Nippur Kagal,436,sux:apap[pipe]N akk-x-oldbab:arūtu[(clay)-pipe]N
 dcclt/Q000048,OB Nippur Kagal,437,sux:apap[pipe]N sux:an[sky]N
 dcclt/Q000048,OB Nippur Kagal,438,sux:asig[vessel]N
 dcclt/Q000048,OB Nippur Kagal,439,sux:adamdun[animal]N
@@ -479,11 +479,11 @@ dcclt/Q000048,OB Nippur Kagal,481,
 dcclt/Q000048,OB Nippur Kagal,482,
 dcclt/Q000048,OB Nippur Kagal,483,
 dcclt/Q000048,OB Nippur Kagal,484,
-dcclt/Q000048,OB Nippur Kagal,485,sux:illu[water]N
-dcclt/Q000048,OB Nippur Kagal,486,sux:illu[water]N
-dcclt/Q000048,OB Nippur Kagal,487,sux:illu[water]N
-dcclt/Q000048,OB Nippur Kagal,488,
-dcclt/Q000048,OB Nippur Kagal,489,sux:anir[lament]N
+dcclt/Q000048,OB Nippur Kagal,485,sux:illu[water]N akk-x-oldbab:illu[high-water]N
+dcclt/Q000048,OB Nippur Kagal,486,sux:illu[water]N akk-x-oldbab:hīlu[exudation]N
+dcclt/Q000048,OB Nippur Kagal,487,sux:illu[water]N akk-x-oldbab:šehlu[high-water]N
+dcclt/Q000048,OB Nippur Kagal,488,sux-x-emesal:ašer[lament]N akk-x-oldbab:tānēhu[moaning]N
+dcclt/Q000048,OB Nippur Kagal,489,sux:anir[lament]N akk-x-oldbab:tānēhu[moaning]N
 dcclt/Q000048,OB Nippur Kagal,490,sux:a[water]N sux:še[barley]N
 dcclt/Q000048,OB Nippur Kagal,491,sux:adanu[fixed-date]N
 dcclt/Q000048,OB Nippur Kagal,492,sux:dima[object]N sux:marru[stormwind]N

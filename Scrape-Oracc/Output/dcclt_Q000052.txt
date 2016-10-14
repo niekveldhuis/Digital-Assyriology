@@ -10,10 +10,10 @@ dcclt/Q000052,Nippur Nigga,8,sux:niŋšutakaʾa[gift]N
 dcclt/Q000052,Nippur Nigga,9,sux:niŋgig[bad-thing]N
 dcclt/Q000052,Nippur Nigga,10,sux:niŋaldi[request]N
 dcclt/Q000052,Nippur Nigga,11,sux:niŋšire[restrained]N
-dcclt/Q000052,Nippur Nigga,12,sux:niŋkešed[band]N
-dcclt/Q000052,Nippur Nigga,13,sux:niŋkešed[band]N
-dcclt/Q000052,Nippur Nigga,14,sux:niŋkešed[band]N
-dcclt/Q000052,Nippur Nigga,15,sux:niŋkešed[band]N
+dcclt/Q000052,Nippur Nigga,12,sux:niŋkešed[band]N akk-x-oldbab:ṣimdu[binding]N
+dcclt/Q000052,Nippur Nigga,13,sux:niŋkešed[band]N akk-x-oldbab:riksu[binding]N
+dcclt/Q000052,Nippur Nigga,14,sux:niŋkešed[band]N akk-x-oldbab:ṣumurtu[meaning-unknown]N
+dcclt/Q000052,Nippur Nigga,15,sux:niŋkešed[band]N akk-x-oldbab:maksû[(medical)-bandage]N
 dcclt/Q000052,Nippur Nigga,16,sux:niŋkešed[band]N
 dcclt/Q000052,Nippur Nigga,17,sux:niŋdara[rag]N
 dcclt/Q000052,Nippur Nigga,18,sux:niŋna[incense]N
@@ -21,9 +21,9 @@ dcclt/Q000052,Nippur Nigga,19,sux:niŋus[shin]N
 dcclt/Q000052,Nippur Nigga,20,sux:niŋgur[bandage]N
 dcclt/Q000052,Nippur Nigga,21,sux:niŋ[thing]N sux:gaba[chest]N
 dcclt/Q000052,Nippur Nigga,22,sux:niŋba[gift]N
-dcclt/Q000052,Nippur Nigga,23,sux:niŋ[thing]N
-dcclt/Q000052,Nippur Nigga,24,sux:niŋla[clothing]N
-dcclt/Q000052,Nippur Nigga,25,sux:niŋla[clothing]N
+dcclt/Q000052,Nippur Nigga,23,sux:niŋ[thing]N akk-x-oldbab:šuqultu[weight]N
+dcclt/Q000052,Nippur Nigga,24,sux:niŋla[clothing]N akk-x-oldbab:riksu[binding]N
+dcclt/Q000052,Nippur Nigga,25,sux:niŋla[clothing]N akk-x-oldbab:ṣimdu[binding]N
 dcclt/Q000052,Nippur Nigga,26,sux:niŋ[thing]N
 dcclt/Q000052,Nippur Nigga,27,sux:niŋ[thing]N
 dcclt/Q000052,Nippur Nigga,28,sux:niŋ[thing]N

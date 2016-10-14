@@ -309,13 +309,13 @@ dcclt/Q000001,OB Nippur Ura 03,307,sux:lulim[stag]N
 dcclt/Q000001,OB Nippur Ura 03,308,sux:udutil[sheep]N
 dcclt/Q000001,OB Nippur Ura 03,309,sux:mašda[gazelle]N
 dcclt/Q000001,OB Nippur Ura 03,310,sux:amar[young]N sux:mašda[gazelle]N
-dcclt/Q000001,OB Nippur Ura 03,311,sux:šeg[animal]N
+dcclt/Q000001,OB Nippur Ura 03,311,sux:šeg[animal]N akk-x-oldbab:atūdu[wild-sheep]N
 dcclt/Q000001,OB Nippur Ura 03,312,sux:šeŋbar[animal]N
-dcclt/Q000001,OB Nippur Ura 03,313,sux:durah[goat]N
+dcclt/Q000001,OB Nippur Ura 03,313,sux:durah[goat]N akk-x-oldbab:turāhu[wild-goat]N
 dcclt/Q000001,OB Nippur Ura 03,314,sux:durahmaš[ram]N
 dcclt/Q000001,OB Nippur Ura 03,316,sux:ban₂.HU[animal]N
 dcclt/Q000001,OB Nippur Ura 03,317,sux:dimšah[hippopotamus]N
-dcclt/Q000001,OB Nippur Ura 03,318,sux:am[bull]N
+dcclt/Q000001,OB Nippur Ura 03,318,sux:am[bull]N akk-x-oldbab:rīmu[wild-bull]N
 dcclt/Q000001,OB Nippur Ura 03,319,sux:amsi[elephant]N
 dcclt/Q000001,OB Nippur Ura 03,320,sux:amsi[elephant]N sux:kur[mountain]N
 dcclt/Q000001,OB Nippur Ura 03,321,sux:sumun[cow]N
@@ -329,9 +329,9 @@ dcclt/Q000001,OB Nippur Ura 03,328,sux:niŋziŋal[living-creature]N sux:eden[bac
 dcclt/Q000001,OB Nippur Ura 03,329,sux:eh[insect]N
 dcclt/Q000001,OB Nippur Ura 03,330,sux:eh[insect]N
 dcclt/Q000001,OB Nippur Ura 03,331,sux:eh[insect]N
-dcclt/Q000001,OB Nippur Ura 03,332,sux:eh[insect]N
+dcclt/Q000001,OB Nippur Ura 03,332,sux:eh[insect]N akk-x-oldbab:sāsu[moth]N
 dcclt/Q000001,OB Nippur Ura 03,333,sux:saŋtasa[insect]N
-dcclt/Q000001,OB Nippur Ura 03,334,sux:zu[tooth]N sux:uman[insect]N
+dcclt/Q000001,OB Nippur Ura 03,334,sux:zu[tooth]N sux:uman[insect]N akk-x-oldbab:kalmatu[insect(s)]N
 dcclt/Q000001,OB Nippur Ura 03,335,sux:uman[insect]N
 dcclt/Q000001,OB Nippur Ura 03,336,sux:uman[insect]N sux:a[water]N
 dcclt/Q000001,OB Nippur Ura 03,337,sux:uman[insect]N sux:saŋdu[head]N
@@ -395,11 +395,11 @@ dcclt/Q000001,OB Nippur Ura 03,394,sux:ŋirtab[scorpion]N
 dcclt/Q000001,OB Nippur Ura 03,395,sux:ŋirtab[scorpion]N
 dcclt/Q000001,OB Nippur Ura 03,396,sux:bizaza[frog]N
 dcclt/Q000001,OB Nippur Ura 03,397,sux:bizaza[frog]N sux:gu[voice]N
-dcclt/Q000001,OB Nippur Ura 03,398,sux:kisim[insect]N
-dcclt/Q000001,OB Nippur Ura 03,399,sux:šurun[cricket]N
-dcclt/Q000001,OB Nippur Ura 03,400,sux:zibin[caterpillar]N
-dcclt/Q000001,OB Nippur Ura 03,401,sux:šaran[pestle-bottom]N
-dcclt/Q000001,OB Nippur Ura 03,402,sux:uzu[flesh]N
+dcclt/Q000001,OB Nippur Ura 03,398,sux:kisim[insect]N akk-x-oldbab:šīhu[(an-insect)]N
+dcclt/Q000001,OB Nippur Ura 03,399,sux:šurun[cricket]N akk-x-oldbab:ṣāṣiru[cricket]N
+dcclt/Q000001,OB Nippur Ura 03,400,sux:zibin[caterpillar]N akk-x-oldbab:nappillu[caterpillar]N
+dcclt/Q000001,OB Nippur Ura 03,401,sux:šaran[pestle-bottom]N akk-x-oldbab:išdu[base]N akk-x-oldbab:bukānu[(wooden)-pestle]N
+dcclt/Q000001,OB Nippur Ura 03,402,sux:uzu[flesh]N akk-x-oldbab:šīru[flesh]N
 dcclt/Q000001,OB Nippur Ura 03,403,sux:uzu[flesh]N sux:saŋdu[head]N
 dcclt/Q000001,OB Nippur Ura 03,404,sux:uzu[flesh]N
 dcclt/Q000001,OB Nippur Ura 03,405,sux:uzu[flesh]N sux:meze[jaw]N

@@ -1,9 +1,9 @@
 id_text,text_name,l_no,text
-dcclt/Q000050,OB Nippur Izi,Tab.I; 1,sux:izi[fire]N
-dcclt/Q000050,OB Nippur Izi,Tab.I; 2,sux:ne[brazier]N
-dcclt/Q000050,OB Nippur Izi,Tab.I; 3,sux:didal[ashes]N
-dcclt/Q000050,OB Nippur Izi,Tab.I; 4,sux:didal[ashes]N
-dcclt/Q000050,OB Nippur Izi,Tab.I; 5,sux:didal[ashes]N
+dcclt/Q000050,OB Nippur Izi,Tab.I; 1,akk-x-oldbab:išātu[fire]N sux:izi[fire]N
+dcclt/Q000050,OB Nippur Izi,Tab.I; 2,akk-x-oldbab:kinūnu[brazier]N sux:ne[brazier]N
+dcclt/Q000050,OB Nippur Izi,Tab.I; 3,akk-x-oldbab:laʾmu[glowing-ashes]N sux:didal[ashes]N
+dcclt/Q000050,OB Nippur Izi,Tab.I; 4,akk-x-oldbab:nablu[flash-of-fire]N sux:didal[ashes]N
+dcclt/Q000050,OB Nippur Izi,Tab.I; 5,akk-x-oldbab:ṭikmēnu[ashes]N sux:didal[ashes]N
 dcclt/Q000050,OB Nippur Izi,Tab.I; 6,sux:iziŋar[torch]N
 dcclt/Q000050,OB Nippur Izi,Tab.I; 7,sux:ibi[smoke]N
 dcclt/Q000050,OB Nippur Izi,Tab.I; 8,sux:nimur[ashes]N
@@ -99,18 +99,18 @@ dcclt/Q000050,OB Nippur Izi,Tab.I; 97,sux:dub[knee]N
 dcclt/Q000050,OB Nippur Izi,Tab.I; 98,sux:dub[knee]N
 dcclt/Q000050,OB Nippur Izi,Tab.I; 99,sux:dub[knee]N
 dcclt/Q000050,OB Nippur Izi,Tab.I; 100,sux:dublahlah[acrobat]N
-dcclt/Q000050,OB Nippur Izi,Tab.I; 101,sux:kinkin[millstone]N
-dcclt/Q000050,OB Nippur Izi,Tab.I; 102,sux:mur[fodder]N
-dcclt/Q000050,OB Nippur Izi,Tab.I; 103,sux:urra[loan]N
-dcclt/Q000050,OB Nippur Izi,Tab.I; 104,sux:ur[liver]N
+dcclt/Q000050,OB Nippur Izi,Tab.I; 101,akk-x-oldbab:erû[grindstone]N sux:kinkin[millstone]N
+dcclt/Q000050,OB Nippur Izi,Tab.I; 102,akk-x-oldbab:imrû[fodder]N sux:mur[fodder]N
+dcclt/Q000050,OB Nippur Izi,Tab.I; 103,akk-x-oldbab:hubullu[debt]N sux:urra[loan]N
+dcclt/Q000050,OB Nippur Izi,Tab.I; 104,akk-x-oldbab:kabattu[liver]N sux:ur[liver]N
 dcclt/Q000050,OB Nippur Izi,Tab.I; 105,sux:ur[direction]N
-dcclt/Q000050,OB Nippur Izi,Tab.I; 106,sux:mur[lung]N
-dcclt/Q000050,OB Nippur Izi,Tab.I; 107,
+dcclt/Q000050,OB Nippur Izi,Tab.I; 106,akk-x-oldbab:hašūtu[lung]N sux:mur[lung]N
+dcclt/Q000050,OB Nippur Izi,Tab.I; 107,akk-x-oldbab:ummatu[main-body]N
 dcclt/Q000050,OB Nippur Izi,Tab.I; 108,
 dcclt/Q000050,OB Nippur Izi,Tab.I; 109,
 dcclt/Q000050,OB Nippur Izi,Tab.I; 110a,
-dcclt/Q000050,OB Nippur Izi,Tab.I; 110b,sux:murmara[noise]N
-dcclt/Q000050,OB Nippur Izi,Tab.I; 110c,
+dcclt/Q000050,OB Nippur Izi,Tab.I; 110b,akk-x-oldbab:ramīmu[roar]N sux:murmara[noise]N
+dcclt/Q000050,OB Nippur Izi,Tab.I; 110c,akk-x-oldbab:kalītu[kidney]N
 dcclt/Q000050,OB Nippur Izi,Tab.I; 111,sux:murmara[noise]N
 dcclt/Q000050,OB Nippur Izi,Tab.I; 112,
 dcclt/Q000050,OB Nippur Izi,Tab.I; 113,
@@ -129,14 +129,14 @@ dcclt/Q000050,OB Nippur Izi,Tab.I; 125,
 dcclt/Q000050,OB Nippur Izi,Tab.I; 126,
 dcclt/Q000050,OB Nippur Izi,Tab.I; 127,
 dcclt/Q000050,OB Nippur Izi,Tab.I; 128,
-dcclt/Q000050,OB Nippur Izi,Tab.I; 129,
-dcclt/Q000050,OB Nippur Izi,Tab.I; 130,sux:alim[bison]N
+dcclt/Q000050,OB Nippur Izi,Tab.I; 129,akk-x-oldbab:rūšu[redness]N
+dcclt/Q000050,OB Nippur Izi,Tab.I; 130,akk-x-oldbab:kabtu[heavy-one]N sux:alim[bison]N
 dcclt/Q000050,OB Nippur Izi,Tab.I; 131,
-dcclt/Q000050,OB Nippur Izi,Tab.I; 132,sux:anše[equid]N
-dcclt/Q000050,OB Nippur Izi,Tab.I; 133,sux:ŋiri[foot]N
-dcclt/Q000050,OB Nippur Izi,Tab.I; 134,sux:kiš[totality]N
-dcclt/Q000050,OB Nippur Izi,Tab.I; 135,
-dcclt/Q000050,OB Nippur Izi,Tab.I; 136,sux:gir[jar]N
+dcclt/Q000050,OB Nippur Izi,Tab.I; 132,akk-x-oldbab:imēru[donkey]N sux:anše[equid]N
+dcclt/Q000050,OB Nippur Izi,Tab.I; 133,akk-x-oldbab:šēpu[foot]N sux:ŋiri[foot]N
+dcclt/Q000050,OB Nippur Izi,Tab.I; 134,akk-x-oldbab:kiššatu[totality]N sux:kiš[totality]N
+dcclt/Q000050,OB Nippur Izi,Tab.I; 135,akk-x-oldbab:gašrūtu[great-strength]N
+dcclt/Q000050,OB Nippur Izi,Tab.I; 136,akk-x-oldbab:kirru[(a-big-jar)]N sux:gir[jar]N
 dcclt/Q000050,OB Nippur Izi,Tab.I; 137,
 dcclt/Q000050,OB Nippur Izi,Tab.I; 138,
 dcclt/Q000050,OB Nippur Izi,Tab.I; 139,sux:surdu[falcon]N
@@ -149,41 +149,41 @@ dcclt/Q000050,OB Nippur Izi,Tab.I; 145,sux:barag[sanctum]N
 dcclt/Q000050,OB Nippur Izi,Tab.I; 146,sux:barag[sanctum]N
 dcclt/Q000050,OB Nippur Izi,Tab.I; 147,sux:barag[sanctum]N sux:durŋar[chair]N
 dcclt/Q000050,OB Nippur Izi,Tab.I; 148,sux:barag[sanctum]N sux:durŋar[chair]N
-dcclt/Q000050,OB Nippur Izi,Tab.I; 149,sux:iri[city]N
+dcclt/Q000050,OB Nippur Izi,Tab.I; 149,akk-x-oldbab:bītu[house]N sux:iri[city]N
 dcclt/Q000050,OB Nippur Izi,Tab.I; 150,sux:iri[city]N
-dcclt/Q000050,OB Nippur Izi,Tab.I; 151,sux:dag[dwelling]N
+dcclt/Q000050,OB Nippur Izi,Tab.I; 151,akk-x-oldbab:šubtu[seat]N sux:dag[dwelling]N
 dcclt/Q000050,OB Nippur Izi,Tab.I; 152,
 dcclt/Q000050,OB Nippur Izi,Tab.I; 153,sux:dag[dwelling]N
 dcclt/Q000050,OB Nippur Izi,Tab.I; 154,
 dcclt/Q000050,OB Nippur Izi,Tab.I; 155,
 dcclt/Q000050,OB Nippur Izi,Tab.I; 156,sux:ilu[song]N
 dcclt/Q000050,OB Nippur Izi,Tab.I; 157,sux:kuŋ[stair]N
-dcclt/Q000050,OB Nippur Izi,Tab.I; 158,sux:uš[blood]N
+dcclt/Q000050,OB Nippur Izi,Tab.I; 158,akk-x-oldbab:dāmu[blood]N sux:uš[blood]N
 dcclt/Q000050,OB Nippur Izi,Tab.I; 159,sux:lugud[pus]N
 dcclt/Q000050,OB Nippur Izi,Tab.I; 160,
 dcclt/Q000050,OB Nippur Izi,Tab.I; 160a,sux:lugud[pus]N
 dcclt/Q000050,OB Nippur Izi,Tab.I; 161,
 dcclt/Q000050,OB Nippur Izi,Tab.I; 162,
-dcclt/Q000050,OB Nippur Izi,Tab.I; 162a,
+dcclt/Q000050,OB Nippur Izi,Tab.I; 162a,akk-x-oldbab:mūtu[death]N
 dcclt/Q000050,OB Nippur Izi,Tab.I; 163,
 dcclt/Q000050,OB Nippur Izi,Tab.I; 164,
 dcclt/Q000050,OB Nippur Izi,Tab.I; 165,
 dcclt/Q000050,OB Nippur Izi,Tab.I; 166,
 dcclt/Q000050,OB Nippur Izi,Tab.I; 167,
-dcclt/Q000050,OB Nippur Izi,Tab.I; 168,
-dcclt/Q000050,OB Nippur Izi,Tab.I; 168a,sux:ziz[insect]N
+dcclt/Q000050,OB Nippur Izi,Tab.I; 168,akk-x-oldbab:sumkīnu[rot]N
+dcclt/Q000050,OB Nippur Izi,Tab.I; 168a,akk-x-oldbab:sāsu[moth]N sux:ziz[insect]N
 dcclt/Q000050,OB Nippur Izi,Tab.I; 169,
 dcclt/Q000050,OB Nippur Izi,Tab.I; 169a,
 dcclt/Q000050,OB Nippur Izi,Tab.I; 170,
 dcclt/Q000050,OB Nippur Izi,Tab.I; 171,
-dcclt/Q000050,OB Nippur Izi,Tab.I; 172,
+dcclt/Q000050,OB Nippur Izi,Tab.I; 172,akk-x-oldbab:saklu[simple]N
 dcclt/Q000050,OB Nippur Izi,Tab.I; 173,
 dcclt/Q000050,OB Nippur Izi,Tab.I; 174,
 dcclt/Q000050,OB Nippur Izi,Tab.I; 175,sux:idim[spring]N
-dcclt/Q000050,OB Nippur Izi,Tab.I; 176,sux:idim[darkness]N
-dcclt/Q000050,OB Nippur Izi,Tab.I; 177,
-dcclt/Q000050,OB Nippur Izi,Tab.I; 178,sux:aš[boil]N
-dcclt/Q000050,OB Nippur Izi,Tab.I; 179,
+dcclt/Q000050,OB Nippur Izi,Tab.I; 176,akk-x-oldbab:ekletu[darkness]N sux:idim[darkness]N
+dcclt/Q000050,OB Nippur Izi,Tab.I; 177,akk-x-oldbab:ettūtu[spider]N
+dcclt/Q000050,OB Nippur Izi,Tab.I; 178,akk-x-oldbab:ṣernettu[(a-skin-disease)]N sux:aš[boil]N
+dcclt/Q000050,OB Nippur Izi,Tab.I; 179,akk-x-oldbab:upumtu[(a-type-of)-flour]N
 dcclt/Q000050,OB Nippur Izi,Tab.I; 180,
 dcclt/Q000050,OB Nippur Izi,Tab.I; 181,
 dcclt/Q000050,OB Nippur Izi,Tab.I; 182,
@@ -191,10 +191,10 @@ dcclt/Q000050,OB Nippur Izi,Tab.I; 182a,
 dcclt/Q000050,OB Nippur Izi,Tab.I; 182b,
 dcclt/Q000050,OB Nippur Izi,Tab.I; 183,
 dcclt/Q000050,OB Nippur Izi,Tab.I; 184,
-dcclt/Q000050,OB Nippur Izi,Tab.I; 185,sux:atah[helper]N
-dcclt/Q000050,OB Nippur Izi,Tab.I; 186,
+dcclt/Q000050,OB Nippur Izi,Tab.I; 185,akk-x-oldbab:rēṣūtu[help]N sux:atah[helper]N
+dcclt/Q000050,OB Nippur Izi,Tab.I; 186,akk-x-oldbab:arratu[curse]N
 dcclt/Q000050,OB Nippur Izi,Tab.I; 187,
-dcclt/Q000050,OB Nippur Izi,Tab.I; 188,sux:numun[seed]N
+dcclt/Q000050,OB Nippur Izi,Tab.I; 188,akk-x-oldbab:zēru[seed(s)]N sux:numun[seed]N
 dcclt/Q000050,OB Nippur Izi,Tab.I; 189,sux:ukul[weed]N
 dcclt/Q000050,OB Nippur Izi,Tab.I; 190,sux:lilia[offspring]N
 dcclt/Q000050,OB Nippur Izi,Tab.I; 192,
@@ -220,11 +220,11 @@ dcclt/Q000050,OB Nippur Izi,Tab.I; 213,
 dcclt/Q000050,OB Nippur Izi,Tab.I; 216,sux:buru[harvest]N
 dcclt/Q000050,OB Nippur Izi,Tab.I; 217,sux:emeš[summer]N
 dcclt/Q000050,OB Nippur Izi,Tab.I; 218,sux:enten[winter]N
-dcclt/Q000050,OB Nippur Izi,Tab.I; 219,sux:ud[sun]N
-dcclt/Q000050,OB Nippur Izi,Tab.I; 220,sux:ud[sun]N
-dcclt/Q000050,OB Nippur Izi,Tab.I; 221,
-dcclt/Q000050,OB Nippur Izi,Tab.I; 222,sux:ud[sun]N
-dcclt/Q000050,OB Nippur Izi,Tab.I; 223,
+dcclt/Q000050,OB Nippur Izi,Tab.I; 219,akk-x-oldbab:ūmu[day]N sux:ud[sun]N
+dcclt/Q000050,OB Nippur Izi,Tab.I; 220,akk-x-oldbab:ṣētu[light]N sux:ud[sun]N
+dcclt/Q000050,OB Nippur Izi,Tab.I; 221,akk-x-oldbab:šamšu[sun]N
+dcclt/Q000050,OB Nippur Izi,Tab.I; 222,akk-x-oldbab:imēru[donkey]N sux:ud[sun]N
+dcclt/Q000050,OB Nippur Izi,Tab.I; 223,akk-x-oldbab:ummedu[(a-fever)?]N
 dcclt/Q000050,OB Nippur Izi,Tab.I; 224,sux:ud[sun]N
 dcclt/Q000050,OB Nippur Izi,Tab.I; 225,sux:ud[sun]N
 dcclt/Q000050,OB Nippur Izi,Tab.I; 226,sux:ud[sun]N
@@ -235,9 +235,9 @@ dcclt/Q000050,OB Nippur Izi,Tab.I; 232,sux:unkin[assembly]N
 dcclt/Q000050,OB Nippur Izi,Tab.I; 233,sux:murub[assembly]N
 dcclt/Q000050,OB Nippur Izi,Tab.I; 234,sux:kisal[courtyard]N
 dcclt/Q000050,OB Nippur Izi,Tab.I; 235,sux:puhrum[assembly]N
-dcclt/Q000050,OB Nippur Izi,Tab.I; 236,sux:kur[mountain]N
-dcclt/Q000050,OB Nippur Izi,Tab.I; 237,sux:kur[mountain]N
-dcclt/Q000050,OB Nippur Izi,Tab.I; 238,sux:kur[mountain]N
+dcclt/Q000050,OB Nippur Izi,Tab.I; 236,akk-x-oldbab:mātu[land]N sux:kur[mountain]N
+dcclt/Q000050,OB Nippur Izi,Tab.I; 237,akk-x-oldbab:šadû[mountain]N sux:kur[mountain]N
+dcclt/Q000050,OB Nippur Izi,Tab.I; 238,akk-x-oldbab:erṣetu[earth]N sux:kur[mountain]N
 dcclt/Q000050,OB Nippur Izi,Tab.I; 239,sux:kur[mountain]N
 dcclt/Q000050,OB Nippur Izi,Tab.I; 240,sux:kur[mountain]N sux:usal[meadow]N
 dcclt/Q000050,OB Nippur Izi,Tab.I; 241,sux:kalam[land]N
@@ -256,35 +256,35 @@ dcclt/Q000050,OB Nippur Izi,Tab.I; 253,sux:šubtum[dwelling]N
 dcclt/Q000050,OB Nippur Izi,Tab.I; 254,sux:emesig[plank]N
 dcclt/Q000050,OB Nippur Izi,Tab.I; 255,sux:kiŋiri[road]N
 dcclt/Q000050,OB Nippur Izi,Tab.I; 256,sux:gudkalamak[path]N
-dcclt/Q000050,OB Nippur Izi,Tab.I; 257,sux:lag[clod]N
+dcclt/Q000050,OB Nippur Izi,Tab.I; 257,akk-x-oldbab:kirbānu[lump]N sux:lag[clod]N
 dcclt/Q000050,OB Nippur Izi,Tab.I; 257a,sux:lag[clod]N
-dcclt/Q000050,OB Nippur Izi,Tab.I; 258,sux:tuba[unmng]N
-dcclt/Q000050,OB Nippur Izi,Tab.I; 259,sux:zandara[object]N
+dcclt/Q000050,OB Nippur Izi,Tab.I; 258,akk-x-oldbab:pirsānu[meaning-unknown]N sux:tuba[unmng]N
+dcclt/Q000050,OB Nippur Izi,Tab.I; 259,akk-x-oldbab:mišlānu[half]N sux:zandara[object]N
 dcclt/Q000050,OB Nippur Izi,Tab.I; 260,sux:zadru[object]N
-dcclt/Q000050,OB Nippur Izi,Tab.I; 261,sux:saŋŋa[official]N
+dcclt/Q000050,OB Nippur Izi,Tab.I; 261,akk-x-oldbab:šangû[priest]N sux:saŋŋa[official]N
 dcclt/Q000050,OB Nippur Izi,Tab.I; 262,
 dcclt/Q000050,OB Nippur Izi,Tab.I; 263,
-dcclt/Q000050,OB Nippur Izi,Tab.I; 264,sux:šudum[warp]N
-dcclt/Q000050,OB Nippur Izi,Tab.I; 265,
-dcclt/Q000050,OB Nippur Izi,Tab.I; 266,sux:niŋ₂.ŠID[account]N
-dcclt/Q000050,OB Nippur Izi,Tab.I; 267,sux:aka[fleece]N
+dcclt/Q000050,OB Nippur Izi,Tab.I; 264,akk-x-oldbab:šutû[woven-material]N sux:šudum[warp]N
+dcclt/Q000050,OB Nippur Izi,Tab.I; 265,akk-x-oldbab:minûtu[count(ing)]N
+dcclt/Q000050,OB Nippur Izi,Tab.I; 266,akk-x-oldbab:nikkassu[account(s)]N sux:niŋ₂.ŠID[account]N
+dcclt/Q000050,OB Nippur Izi,Tab.I; 267,akk-x-oldbab:itqu[fleece]N sux:aka[fleece]N
 dcclt/Q000050,OB Nippur Izi,Tab.I; 269,
-dcclt/Q000050,OB Nippur Izi,Tab.I; 270,sux:umbisaŋ[scribe]N
-dcclt/Q000050,OB Nippur Izi,Tab.I; 271,sux:umbisaŋ[scribe]N
+dcclt/Q000050,OB Nippur Izi,Tab.I; 270,akk-x-oldbab:māru[son]N akk-x-oldbab:ummiānu[expert]N sux:umbisaŋ[scribe]N
+dcclt/Q000050,OB Nippur Izi,Tab.I; 271,akk-x-oldbab:ṭupšarru[scribe]N sux:umbisaŋ[scribe]N
 dcclt/Q000050,OB Nippur Izi,Tab.I; 272,
 dcclt/Q000050,OB Nippur Izi,Tab.I; 272a,sux:zusiga[~sheep]N
-dcclt/Q000050,OB Nippur Izi,Tab.I; 272b,sux:niŋsilaŋ[dough]N
+dcclt/Q000050,OB Nippur Izi,Tab.I; 272b,akk-x-oldbab:līšu[dough]N sux:niŋsilaŋ[dough]N
 dcclt/Q000050,OB Nippur Izi,Tab.I; 273,sux:umbisaŋ[scribe]N
-dcclt/Q000050,OB Nippur Izi,Tab.I; 273a,sux:dilib[hair]N
+dcclt/Q000050,OB Nippur Izi,Tab.I; 273a,akk-x-oldbab:uruhhu[hair-(of-head)]N sux:dilib[hair]N
 dcclt/Q000050,OB Nippur Izi,Tab.I; 274,sux:šeg[brick]N
 dcclt/Q000050,OB Nippur Izi,Tab.I; 275,sux:šeg[brick]N
 dcclt/Q000050,OB Nippur Izi,Tab.I; 276,sux:šeg[brick]N sux:izi[fire]N
-dcclt/Q000050,OB Nippur Izi,Tab.I; 278,sux:šeganše[pile-of-bricks]N
+dcclt/Q000050,OB Nippur Izi,Tab.I; 278,akk-x-oldbab:amaru[pile-of-bricks]N sux:šeganše[pile-of-bricks]N
 dcclt/Q000050,OB Nippur Izi,Tab.I; 279,sux:šeg[brick]N
 dcclt/Q000050,OB Nippur Izi,Tab.I; 280,sux:šeg[brick]N
 dcclt/Q000050,OB Nippur Izi,Tab.I; 281,sux:uru[support]N
-dcclt/Q000050,OB Nippur Izi,Tab.I; 282,sux:uru[support]N
-dcclt/Q000050,OB Nippur Izi,Tab.I; 283,sux:banda[stanchion]N
+dcclt/Q000050,OB Nippur Izi,Tab.I; 282,akk-x-oldbab:imdu[support]N sux:uru[support]N
+dcclt/Q000050,OB Nippur Izi,Tab.I; 283,akk-x-oldbab:takšīru[repair]N sux:banda[stanchion]N
 dcclt/Q000050,OB Nippur Izi,Tab.I; 283a,sux:šeganše[pile-of-bricks]N
 dcclt/Q000050,OB Nippur Izi,Tab.I; 284,sux:šeg[brick]N
 dcclt/Q000050,OB Nippur Izi,Tab.I; 285,sux:šeg[brick]N sux:bad[wall]N
@@ -297,10 +297,10 @@ dcclt/Q000050,OB Nippur Izi,Tab.I; 289b,sux:šeg[brick]N sux:dal[line]N
 dcclt/Q000050,OB Nippur Izi,Tab.I; 289c,sux:šeg[brick]N
 dcclt/Q000050,OB Nippur Izi,Tab.I; 290,sux:šeg[brick]N sux:erimdu[hostile]N
 dcclt/Q000050,OB Nippur Izi,Tab.I; 291,sux:bisaŋ[basket]N sux:ušub[brick-mold]N
-dcclt/Q000050,OB Nippur Izi,Tab.I; 292,sux:murgu[shoulder]N
-dcclt/Q000050,OB Nippur Izi,Tab.I; 293,sux:murgu[shoulder]N
-dcclt/Q000050,OB Nippur Izi,Tab.I; 294,sux:murgu[shoulder]N
-dcclt/Q000050,OB Nippur Izi,Tab.I; 295,sux:murgu[shoulder]N
+dcclt/Q000050,OB Nippur Izi,Tab.I; 292,akk-x-oldbab:būdu[shoulder]N sux:murgu[shoulder]N
+dcclt/Q000050,OB Nippur Izi,Tab.I; 293,akk-x-oldbab:emūqu[strength]N sux:murgu[shoulder]N
+dcclt/Q000050,OB Nippur Izi,Tab.I; 294,akk-x-oldbab:eṣemṣēru[backbone]N sux:murgu[shoulder]N
+dcclt/Q000050,OB Nippur Izi,Tab.I; 295,akk-x-oldbab:warkatu[rear]N sux:murgu[shoulder]N
 dcclt/Q000050,OB Nippur Izi,Tab.I; 296,sux:egar[wall]N
 dcclt/Q000050,OB Nippur Izi,Tab.I; 297,sux:egar[wall]N sux:dalbana[space]N
 dcclt/Q000050,OB Nippur Izi,Tab.I; 298,sux:izzi[wall]N
@@ -308,20 +308,20 @@ dcclt/Q000050,OB Nippur Izi,Tab.I; 299,sux:izzi[wall]N sux:dalbana[space]N
 dcclt/Q000050,OB Nippur Izi,Tab.I; 300,sux:ŋissu[shade]N
 dcclt/Q000050,OB Nippur Izi,Tab.I; 301,sux:ŋissu[shade]N
 dcclt/Q000050,OB Nippur Izi,Tab.I; 302,sux:ŋissu[shade]N
-dcclt/Q000050,OB Nippur Izi,Tab.I; 303,sux:ŋissu[shade]N
-dcclt/Q000050,OB Nippur Izi,Tab.I; 304,sux:ŋissu[shade]N
+dcclt/Q000050,OB Nippur Izi,Tab.I; 303,akk-x-oldbab:tarānu[roof]N sux:ŋissu[shade]N
+dcclt/Q000050,OB Nippur Izi,Tab.I; 304,akk-x-oldbab:tarānu[roof]N sux:ŋissu[shade]N
 dcclt/Q000050,OB Nippur Izi,Tab.I; 305,sux:andul[shade]N
 dcclt/Q000050,OB Nippur Izi,Tab.I; 306,sux:andul[shade]N
 dcclt/Q000050,OB Nippur Izi,Tab.I; 307,sux:andul[shade]N
 dcclt/Q000050,OB Nippur Izi,Tab.I; 308,sux:antadul[cloak]N
 dcclt/Q000050,OB Nippur Izi,Tab.I; 308a,
-dcclt/Q000050,OB Nippur Izi,Tab.I; 309,sux:sahar[dust]N
-dcclt/Q000050,OB Nippur Izi,Tab.I; 310,sux:sahar[dust]N
-dcclt/Q000050,OB Nippur Izi,Tab.I; 311,sux:ukum[storm]N
-dcclt/Q000050,OB Nippur Izi,Tab.I; 312,sux:mel[malt-flour]N
-dcclt/Q000050,OB Nippur Izi,Tab.I; 313,sux:kuš[official]N
-dcclt/Q000050,OB Nippur Izi,Tab.I; 313a,sux:ukum[storm]N
-dcclt/Q000050,OB Nippur Izi,Tab.I; 314,sux:kuš[devastation]N
+dcclt/Q000050,OB Nippur Izi,Tab.I; 309,akk-x-oldbab:bāṣu[sand]N sux:sahar[dust]N
+dcclt/Q000050,OB Nippur Izi,Tab.I; 310,akk-x-oldbab:eperu[earth]N sux:sahar[dust]N
+dcclt/Q000050,OB Nippur Izi,Tab.I; 311,akk-x-oldbab:tarbuʾtu[dust-(storm)]N sux:ukum[storm]N
+dcclt/Q000050,OB Nippur Izi,Tab.I; 312,akk-x-oldbab:kukkušu[(a-low-quality-flour)]N sux:mel[malt-flour]N
+dcclt/Q000050,OB Nippur Izi,Tab.I; 313,akk-x-oldbab:kizû[animal-trainer]N sux:kuš[official]N
+dcclt/Q000050,OB Nippur Izi,Tab.I; 313a,akk-x-oldbab:šabīhu[layer]N sux:ukum[storm]N
+dcclt/Q000050,OB Nippur Izi,Tab.I; 314,akk-x-oldbab:naspantu[devastation]N sux:kuš[devastation]N
 dcclt/Q000050,OB Nippur Izi,Tab.I; 317,sux:saharŋar[silt]N sux:id[river]N
 dcclt/Q000050,OB Nippur Izi,Tab.I; 318,sux:saharŋar[silt]N
 dcclt/Q000050,OB Nippur Izi,Tab.I; 319,sux:saharduba[rubbish]N
@@ -375,11 +375,11 @@ dcclt/Q000050,OB Nippur Izi,Tab.I; 361,sux:aʾabak[sea]N
 dcclt/Q000050,OB Nippur Izi,Tab.I; 362,sux:aʾabak[sea]N
 dcclt/Q000050,OB Nippur Izi,Tab.I; 363,sux:aʾabak[sea]N
 dcclt/Q000050,OB Nippur Izi,Tab.I; 364,sux:aʾabak[sea]N sux:iginim[land]N
-dcclt/Q000050,OB Nippur Izi,Tab.I; 365,sux:ambar[reed-bed]N
+dcclt/Q000050,OB Nippur Izi,Tab.I; 365,akk-x-oldbab:appāru[reed-bed]N sux:ambar[reed-bed]N
 dcclt/Q000050,OB Nippur Izi,Tab.I; 365a,sux:ambar[reed-bed]N
 dcclt/Q000050,OB Nippur Izi,Tab.I; 365b,sux:ambar[reed-bed]N
-dcclt/Q000050,OB Nippur Izi,Tab.I; 365c,sux:umah[blow]N
-dcclt/Q000050,OB Nippur Izi,Tab.I; 366,sux:sug[marsh]N
+dcclt/Q000050,OB Nippur Izi,Tab.I; 365c,akk-x-oldbab:mehṣu[blow]N sux:umah[blow]N
+dcclt/Q000050,OB Nippur Izi,Tab.I; 366,akk-x-oldbab:ṣuṣû[reed-thicket]N sux:sug[marsh]N
 dcclt/Q000050,OB Nippur Izi,Tab.I; 367,sux:sugmuš[marsh]N
 dcclt/Q000050,OB Nippur Izi,Tab.I; 368,sux:sug[marsh]N
 dcclt/Q000050,OB Nippur Izi,Tab.I; 369,sux:sug[marsh]N
@@ -391,8 +391,8 @@ dcclt/Q000050,OB Nippur Izi,Tab.I; 374,sux:abzu[water]N
 dcclt/Q000050,OB Nippur Izi,Tab.I; 375,sux:a[water]N
 dcclt/Q000050,OB Nippur Izi,Tab.I; 376,sux:aʾea[breach]N
 dcclt/Q000050,OB Nippur Izi,Tab.I; 377,sux:naŋkud[reservoir]N
-dcclt/Q000050,OB Nippur Izi,Tab.I; 378,sux:izzi[wall]N
-dcclt/Q000050,OB Nippur Izi,Tab.I; 379,sux:izzi[wall]N
+dcclt/Q000050,OB Nippur Izi,Tab.I; 378,akk-x-oldbab:agû[wave]N sux:izzi[wall]N
+dcclt/Q000050,OB Nippur Izi,Tab.I; 379,akk-x-oldbab:penzurru[meaning-unknown]N sux:izzi[wall]N
 dcclt/Q000050,OB Nippur Izi,Tab.I; 380,sux:izi[unmng]N
 dcclt/Q000050,OB Nippur Izi,Tab.I; 381,sux:izzi[wall]N
 dcclt/Q000050,OB Nippur Izi,Tab.I; 382,sux:aŋi[wave]N
@@ -404,9 +404,9 @@ dcclt/Q000050,OB Nippur Izi,Tab.I; 387,sux:uhpu[foam]N
 dcclt/Q000050,OB Nippur Izi,Tab.I; 389,sux:ub[cavity]N
 dcclt/Q000050,OB Nippur Izi,Tab.I; 390,sux:ub[cavity]N sux:niŋhuša[pitfall]N
 dcclt/Q000050,OB Nippur Izi,Tab.I; 390a,sux:uzahal[disappearance]N
-dcclt/Q000050,OB Nippur Izi,Tab.I; 390b,sux:sidug[cavity]N
-dcclt/Q000050,OB Nippur Izi,Tab.I; 392,sux:irigal[underworld]N
-dcclt/Q000050,OB Nippur Izi,Tab.I; 393,sux:irigal[underworld]N
+dcclt/Q000050,OB Nippur Izi,Tab.I; 390b,akk-x-oldbab:huballu[pit]N sux:sidug[cavity]N
+dcclt/Q000050,OB Nippur Izi,Tab.I; 392,akk-x-oldbab:qabru[grave]N sux:irigal[underworld]N
+dcclt/Q000050,OB Nippur Izi,Tab.I; 393,akk-x-oldbab:erṣetu[earth]N sux:irigal[underworld]N
 dcclt/Q000050,OB Nippur Izi,Tab.I; 394,sux:arali[earth]N
 dcclt/Q000050,OB Nippur Izi,Tab.I; 395,sux:kurnugi[netherworld]N
 dcclt/Q000050,OB Nippur Izi,Tab.I; 395a,sux:uhpu[foam]N
@@ -431,10 +431,10 @@ dcclt/Q000050,OB Nippur Izi,Tab.I; 412,sux:gardar[destroyer]N
 dcclt/Q000050,OB Nippur Izi,Tab.I; 413,sux:gar[knob]N
 dcclt/Q000050,OB Nippur Izi,Tab.I; 414,sux:gar₃.UŠ[unmng]N
 dcclt/Q000050,OB Nippur Izi,Tab.I; 414a,sux:kug[metal]N
-dcclt/Q000050,OB Nippur Izi,Tab.I; 418,
-dcclt/Q000050,OB Nippur Izi,Tab.I; 419,
-dcclt/Q000050,OB Nippur Izi,Tab.I; 420,sux:ubi[fish]N
-dcclt/Q000050,OB Nippur Izi,Tab.I; 421,sux:galam[staircase]N
+dcclt/Q000050,OB Nippur Izi,Tab.I; 418,akk-x-oldbab:kakku[weapon]N
+dcclt/Q000050,OB Nippur Izi,Tab.I; 419,akk-x-oldbab:irtu[breast]N
+dcclt/Q000050,OB Nippur Izi,Tab.I; 420,akk-x-oldbab:abūtu[(a-fish)]N sux:ubi[fish]N
+dcclt/Q000050,OB Nippur Izi,Tab.I; 421,akk-x-oldbab:simmiltu[stair(case)]N sux:galam[staircase]N
 dcclt/Q000050,OB Nippur Izi,Tab.I; 422,
 dcclt/Q000050,OB Nippur Izi,Tab.I; 423,sux:nimŋir[lightning]N
 dcclt/Q000050,OB Nippur Izi,Tab.I; 424,sux:nim[fly]N
@@ -449,16 +449,16 @@ dcclt/Q000050,OB Nippur Izi,Tab.I; 432,
 dcclt/Q000050,OB Nippur Izi,Tab.I; 433,
 dcclt/Q000050,OB Nippur Izi,Tab.I; 434,
 dcclt/Q000050,OB Nippur Izi,Tab.I; 435,sux:kaš[runner]N
-dcclt/Q000050,OB Nippur Izi,Tab.I; 436,sux:gir[stranger]N
+dcclt/Q000050,OB Nippur Izi,Tab.I; 436,akk-x-oldbab:ubāru[(resident)-alien]N sux:gir[stranger]N
 dcclt/Q000050,OB Nippur Izi,Tab.I; 437,sux:suhuš[foundation]N
 dcclt/Q000050,OB Nippur Izi,Tab.I; 437a,
 dcclt/Q000050,OB Nippur Izi,Tab.I; 437b,
 dcclt/Q000050,OB Nippur Izi,Tab.I; 437c,
 dcclt/Q000050,OB Nippur Izi,Tab.I; 438,
 dcclt/Q000050,OB Nippur Izi,Tab.I; 439,
-dcclt/Q000050,OB Nippur Izi,Tab.I; 440,sux:in[abuse]N
-dcclt/Q000050,OB Nippur Izi,Tab.I; 441,sux:in[sector]N
-dcclt/Q000050,OB Nippur Izi,Tab.I; 442a,sux:in[sector]N
+dcclt/Q000050,OB Nippur Izi,Tab.I; 440,akk-x-oldbab:pištu[abuse]N sux:in[abuse]N
+dcclt/Q000050,OB Nippur Izi,Tab.I; 441,akk-x-oldbab:miṣru[border]N sux:in[sector]N
+dcclt/Q000050,OB Nippur Izi,Tab.I; 442a,akk-x-oldbab:pilku[demarcated-zone]N sux:in[sector]N
 dcclt/Q000050,OB Nippur Izi,Tab.I; 443,sux:in[sector]N
 dcclt/Q000050,OB Nippur Izi,Tab.I; 444,sux:innu[straw]N
 dcclt/Q000050,OB Nippur Izi,Tab.I; 445,sux:inŋar[colon]N
@@ -546,15 +546,15 @@ dcclt/Q000050,OB Nippur Izi,Tab.I; 507,sux:ennuŋ[imprisonment]N
 dcclt/Q000050,OB Nippur Izi,Tab.I; 507a,sux:ennuŋ[imprisonment]N sux:iri[city]N
 dcclt/Q000050,OB Nippur Izi,Tab.I; 508,sux:iri[city]N
 dcclt/Q000050,OB Nippur Izi,Tab.I; 509,sux:iri[city]N
-dcclt/Q000050,OB Nippur Izi,Tab.I; 510,sux:ba[half]N
+dcclt/Q000050,OB Nippur Izi,Tab.I; 510,akk-x-oldbab:bāmtu[half]N sux:ba[half]N
 dcclt/Q000050,OB Nippur Izi,Tab.I; 510a,sux:ba[half]N
-dcclt/Q000050,OB Nippur Izi,Tab.I; 510b,sux:ba[half]N
-dcclt/Q000050,OB Nippur Izi,Tab.I; 511,sux:sa[half]N
+dcclt/Q000050,OB Nippur Izi,Tab.I; 510b,akk-x-oldbab:mišlu[half]N sux:ba[half]N
+dcclt/Q000050,OB Nippur Izi,Tab.I; 511,akk-x-oldbab:bāmtu[half]N sux:sa[half]N
 dcclt/Q000050,OB Nippur Izi,Tab.I; 511a,sux:sa[half]N
-dcclt/Q000050,OB Nippur Izi,Tab.I; 511b,sux:sa[half]N
+dcclt/Q000050,OB Nippur Izi,Tab.I; 511b,akk-x-oldbab:mišlu[half]N sux:sa[half]N
 dcclt/Q000050,OB Nippur Izi,Tab.I; 512,sux:zipah[unit]N
-dcclt/Q000050,OB Nippur Izi,Tab.I; 512a,sux:zipah[unit]N
-dcclt/Q000050,OB Nippur Izi,Tab.I; 512b,sux:mašda[gazelle]N
+dcclt/Q000050,OB Nippur Izi,Tab.I; 512a,akk-x-oldbab:ūṭānu[half-cubiter]N sux:zipah[unit]N
+dcclt/Q000050,OB Nippur Izi,Tab.I; 512b,akk-x-oldbab:ṣabītu[gazelle]N sux:mašda[gazelle]N
 dcclt/Q000050,OB Nippur Izi,Tab.I; 513,sux:mašmaš[sorcerer]N
 dcclt/Q000050,OB Nippur Izi,Tab.I; 514,sux:mašmaš[sorcerer]N
 dcclt/Q000050,OB Nippur Izi,Tab.I; 515,sux:mašgaʾen[status]N
@@ -564,9 +564,9 @@ dcclt/Q000050,OB Nippur Izi,Tab.I; 518,sux:si[horn]N
 dcclt/Q000050,OB Nippur Izi,Tab.I; 519,sux:sipar[implement]N
 dcclt/Q000050,OB Nippur Izi,Tab.I; 520,sux:sipar[implement]N
 dcclt/Q000050,OB Nippur Izi,Tab.I; 521,sux:sipar[implement]N
-dcclt/Q000050,OB Nippur Izi,Tab.II; 1,sux:a[arm]N
-dcclt/Q000050,OB Nippur Izi,Tab.II; 2,sux:a[arm]N
-dcclt/Q000050,OB Nippur Izi,Tab.II; 3,sux:a[arm]N
+dcclt/Q000050,OB Nippur Izi,Tab.II; 1,akk-x-oldbab:idu[arm]N sux:a[arm]N
+dcclt/Q000050,OB Nippur Izi,Tab.II; 2,akk-x-oldbab:ahu[arm]N sux:a[arm]N
+dcclt/Q000050,OB Nippur Izi,Tab.II; 3,akk-x-oldbab:emūqu[strength]N sux:a[arm]N
 dcclt/Q000050,OB Nippur Izi,Tab.II; 4,sux:a[arm]N
 dcclt/Q000050,OB Nippur Izi,Tab.II; 5,sux:atuku[powerful]N
 dcclt/Q000050,OB Nippur Izi,Tab.II; 6,sux:atuku[powerful]N
@@ -641,7 +641,7 @@ dcclt/Q000050,OB Nippur Izi,Tab.II; 75,sux:a[arm]N
 dcclt/Q000050,OB Nippur Izi,Tab.II; 76,sux:a[arm]N
 dcclt/Q000050,OB Nippur Izi,Tab.II; 77,sux:a[arm]N
 dcclt/Q000050,OB Nippur Izi,Tab.II; 77a,sux:a[arm]N
-dcclt/Q000050,OB Nippur Izi,Tab.II; 77b,sux:a[arm]N
+dcclt/Q000050,OB Nippur Izi,Tab.II; 77b,akk-x-oldbab:akû[cripple]N sux:a[arm]N
 dcclt/Q000050,OB Nippur Izi,Tab.II; 78,sux:ankar[weapon]N
 dcclt/Q000050,OB Nippur Izi,Tab.II; 79,sux:ame[weapon]N
 dcclt/Q000050,OB Nippur Izi,Tab.II; 80,sux:a[arm]N
@@ -654,10 +654,10 @@ dcclt/Q000050,OB Nippur Izi,Tab.II; 83a,sux:a[arm]N
 dcclt/Q000050,OB Nippur Izi,Tab.II; 84,sux:a[arm]N
 dcclt/Q000050,OB Nippur Izi,Tab.II; 85,sux:a[arm]N
 dcclt/Q000050,OB Nippur Izi,Tab.II; 86,sux:agul[(an-administrative-term)]N
-dcclt/Q000050,OB Nippur Izi,Tab.II; 87,sux:da[line]N
-dcclt/Q000050,OB Nippur Izi,Tab.II; 88,sux:da[line]N
-dcclt/Q000050,OB Nippur Izi,Tab.II; 89,sux:da[line]N
-dcclt/Q000050,OB Nippur Izi,Tab.II; 90,sux:da[line]N
+dcclt/Q000050,OB Nippur Izi,Tab.II; 87,akk-x-oldbab:itû[boundary]N sux:da[line]N
+dcclt/Q000050,OB Nippur Izi,Tab.II; 88,akk-x-oldbab:imdu[support]N sux:da[line]N
+dcclt/Q000050,OB Nippur Izi,Tab.II; 89,akk-x-oldbab:puzru[concealment]N sux:da[line]N
+dcclt/Q000050,OB Nippur Izi,Tab.II; 90,akk-x-oldbab:šahātu[armpit]N sux:da[line]N
 dcclt/Q000050,OB Nippur Izi,Tab.II; 91,sux:da[line]N
 dcclt/Q000050,OB Nippur Izi,Tab.II; 92,sux:dagum[unmng]N
 dcclt/Q000050,OB Nippur Izi,Tab.II; 92a,sux:dagum[unmng]N
@@ -689,26 +689,26 @@ dcclt/Q000050,OB Nippur Izi,Tab.II; 116,sux:siškur[prayer]N
 dcclt/Q000050,OB Nippur Izi,Tab.II; 117,sux:siškur[prayer]N
 dcclt/Q000050,OB Nippur Izi,Tab.II; 118,
 dcclt/Q000050,OB Nippur Izi,Tab.II; 118a,
-dcclt/Q000050,OB Nippur Izi,Tab.II; 119,sux:te[cheek]N
-dcclt/Q000050,OB Nippur Izi,Tab.II; 120,sux:mete[appropriate-thing]N
-dcclt/Q000050,OB Nippur Izi,Tab.II; 120a,sux:te[membrane]N
-dcclt/Q000050,OB Nippur Izi,Tab.II; 121,
+dcclt/Q000050,OB Nippur Izi,Tab.II; 119,akk-x-oldbab:lētu[cheek]N sux:te[cheek]N
+dcclt/Q000050,OB Nippur Izi,Tab.II; 120,akk-x-oldbab:simtu[appropriate-thing]N sux:mete[appropriate-thing]N
+dcclt/Q000050,OB Nippur Izi,Tab.II; 120a,akk-x-oldbab:šišītu[skin]N sux:te[membrane]N
+dcclt/Q000050,OB Nippur Izi,Tab.II; 121,akk-x-oldbab:ṭehûtu[clientele]N
 dcclt/Q000050,OB Nippur Izi,Tab.II; 122,
 dcclt/Q000050,OB Nippur Izi,Tab.II; 123,
 dcclt/Q000050,OB Nippur Izi,Tab.II; 124,sux:mete[appropriate-thing]N
-dcclt/Q000050,OB Nippur Izi,Tab.II; 124a,sux:temen[foundation]N
-dcclt/Q000050,OB Nippur Izi,Tab.II; 124b,sux:kar[harbor]N
-dcclt/Q000050,OB Nippur Izi,Tab.II; 125,sux:me[Being]N
+dcclt/Q000050,OB Nippur Izi,Tab.II; 124a,akk-x-oldbab:temmēnu[foundation]N sux:temen[foundation]N
+dcclt/Q000050,OB Nippur Izi,Tab.II; 124b,akk-x-oldbab:kāru[quay]N sux:kar[harbor]N
+dcclt/Q000050,OB Nippur Izi,Tab.II; 125,akk-x-oldbab:parṣu[office]N sux:me[Being]N
 dcclt/Q000050,OB Nippur Izi,Tab.II; 125a,
-dcclt/Q000050,OB Nippur Izi,Tab.II; 125b,sux:meze[drum]N
-dcclt/Q000050,OB Nippur Izi,Tab.II; 126,sux:me[stiffness]N
-dcclt/Q000050,OB Nippur Izi,Tab.II; 127,
-dcclt/Q000050,OB Nippur Izi,Tab.II; 127a,sux:me[battle]N
-dcclt/Q000050,OB Nippur Izi,Tab.II; 128,sux:me[desire]N
-dcclt/Q000050,OB Nippur Izi,Tab.II; 129,sux:me[Being]N
-dcclt/Q000050,OB Nippur Izi,Tab.II; 130,sux:melim[splendor]N
-dcclt/Q000050,OB Nippur Izi,Tab.II; 131,
-dcclt/Q000050,OB Nippur Izi,Tab.II; 132,sux:melim[splendor]N
+dcclt/Q000050,OB Nippur Izi,Tab.II; 125b,akk-x-oldbab:manzû[(a-type-of-drum)]N sux:meze[drum]N
+dcclt/Q000050,OB Nippur Izi,Tab.II; 126,akk-x-oldbab:lūtu[debility]N sux:me[stiffness]N
+dcclt/Q000050,OB Nippur Izi,Tab.II; 127,akk-x-oldbab:puhru[assembly]N
+dcclt/Q000050,OB Nippur Izi,Tab.II; 127a,akk-x-oldbab:tēbû[arising]N sux:me[battle]N
+dcclt/Q000050,OB Nippur Izi,Tab.II; 128,akk-x-oldbab:lalû[plenty]N sux:me[desire]N
+dcclt/Q000050,OB Nippur Izi,Tab.II; 129,akk-x-oldbab:ikribu[prayer]N sux:me[Being]N
+dcclt/Q000050,OB Nippur Izi,Tab.II; 130,akk-x-oldbab:melemmu[fearsome-radiance]N sux:melim[splendor]N
+dcclt/Q000050,OB Nippur Izi,Tab.II; 131,akk-x-oldbab:puhru[assembly]N
+dcclt/Q000050,OB Nippur Izi,Tab.II; 132,akk-x-oldbab:puluhtu[fear(someness)]N sux:melim[splendor]N
 dcclt/Q000050,OB Nippur Izi,Tab.II; 133,
 dcclt/Q000050,OB Nippur Izi,Tab.II; 134,
 dcclt/Q000050,OB Nippur Izi,Tab.II; 136,sux:musar[garden]N
