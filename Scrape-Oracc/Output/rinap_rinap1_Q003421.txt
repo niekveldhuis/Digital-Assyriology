@@ -1,12 +1,12 @@
 id_text,text_name,l_no,text
-rinap/rinap1/Q003421,Tiglath-pileser III 08,1,
-rinap/rinap1/Q003421,Tiglath-pileser III 08,2,
-rinap/rinap1/Q003421,Tiglath-pileser III 08,3,
-rinap/rinap1/Q003421,Tiglath-pileser III 08,4,
-rinap/rinap1/Q003421,Tiglath-pileser III 08,5,
-rinap/rinap1/Q003421,Tiglath-pileser III 08,6,
-rinap/rinap1/Q003421,Tiglath-pileser III 08,7,
-rinap/rinap1/Q003421,Tiglath-pileser III 08,8,
-rinap/rinap1/Q003421,Tiglath-pileser III 08,9,
-rinap/rinap1/Q003421,Tiglath-pileser III 08,10,
-rinap/rinap1/Q003421,Tiglath-pileser III 08,11,
+rinap/rinap1/Q003421,Tiglath-pileser III 08,1,akk:šal-la-su=šallatu[plundered-thing(s)//booty]N'N$šallassu akk:aš₂-lu-la=šalālu[carry-off//carry-off]V'V$ašlula
+rinap/rinap1/Q003421,Tiglath-pileser III 08,2,akk:ip-par-ši-id-ma=naparšudu[flee//flee]V'V$ipparšidma akk:e-mu-ru=amāru[see//see]V'V$ēmuru akk:a-šar-šu=ašru[place//place]N'N$ašaršu
+rinap/rinap1/Q003421,Tiglath-pileser III 08,3,akk:ANŠE.KUR.RA.MEŠ=sisû[horse//horse]N'N$sisê akk:GU₄.MEŠ=alpu[ox//ox]N'N$alpī akk:ṣe-e-ni=ṣēnu[flock//sheep-and-goats]N'N$ṣēnī akk:{NA₄}ZA.GIN₃=uqnû[lapis-lazuli//lapis-lazuli]N'N$uqnî akk:hi-ip=hīpu[break(age)//break(age)]N'N$hīp akk:KUR-i-šu₂=šadû[mountain//mountain]N'N$šadîšu akk:DINGIR.MEŠ=ilu[god//god]N'N$ilāni
+rinap/rinap1/Q003421,Tiglath-pileser III 08,4,akk:EN.MEŠ-ia=bēlu[lord//lord]N'N$bēlīya akk:aq-qi₂=naqû[pour-(a-libation)//make-(an-offering)]V'V$aqqi
+rinap/rinap1/Q003421,Tiglath-pileser III 08,5,akk:ak-šud=kašādu[reach//conquer]V'V$akšud akk:{LU₂}mun-dah-ṣe-šu₂=mundahṣu[fighting-one//fighter]N'N$mundahṣēšu akk:{GIŠ}za-qi-pa-ni=zaqīpu[stake//stake]N'N$zaqīpāni akk:u₂-še-li=elû[go-up//impale]V'V$ušēli
+rinap/rinap1/Q003421,Tiglath-pileser III 08,6,akk:mi-ṣir=miṣru[border//border]N'N$miṣir akk:KUR=mātu[land//land]N'N$māt akk:u₂-ter-ra=târu[turn//return]V'V$uterra akk:UN.MEŠ=nišu[people//people]N'N$nišī akk:KUR.KUR=mātu[land//land]N'N$mātāti akk:ki-šit-ti=kišittu[achievement//conquest]N'N$kišitti akk:ŠU.II-ia=qātu[hand//hand]N'N$qātīya akk:lib₃-bi=libbu[interior//interior]N'N$libbi
+rinap/rinap1/Q003421,Tiglath-pileser III 08,7,akk:u₂-še-šib=wašābu[sit-(down)//settle]V'V$ušēšib akk:SAG-ia=rēšu[head//head]N'N$rēšiya akk:{LU₂}EN.NAM=bēlu[lord//lord]N'N$bēl akk:{LU₂}EN.NAM=pīhātu[post//province]N'N$pīhāti akk:aš₂-kun=šakānu[put//place]V'V$aškun
+rinap/rinap1/Q003421,Tiglath-pileser III 08,8,akk:EN-ia=bēlu[lord//lord]N'N$bēliya akk:ar-ku-us=rakāsu[tie//provide-offerings]V'V$arkus
+rinap/rinap1/Q003421,Tiglath-pileser III 08,9,akk:ap-pul₂=napālu[dig-out//demolish]V'V$appul akk:aq-qur=naqāru[demolish//demolish]V'V$aqqur akk:IZI=išātu[fire//fire]N'N$išāti akk:aš₂-ru-up=šarāpu[burn//burn]V'V$ašrup akk:EN.URU.MEŠ-ni=bēlu[lord//lord]N'N$bēl akk:EN.URU.MEŠ-ni=ālu[city//city]N'N$ālāni
+rinap/rinap1/Q003421,Tiglath-pileser III 08,10,akk:GUN=biltu[load//talent]N'N$bilat akk:{NA₄}ZA.GIN₃=uqnû[lapis-lazuli//lapis-lazuli]N'N$uqnî akk:GUN=biltu[load//talent]N'N$bilat akk:ZABAR=siparru[bronze//bronze]N'N$siparri
+rinap/rinap1/Q003421,Tiglath-pileser III 08,11,akk:ma-da-at-tu=maddattu[payment//payment]N'N$maddattu akk:DUMU=māru[son//son]N'N$mār
