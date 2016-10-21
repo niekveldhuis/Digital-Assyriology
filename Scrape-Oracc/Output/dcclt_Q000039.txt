@@ -1,751 +1,751 @@
 id_text,text_name,l_no,text
-dcclt/Q000039,OB Nippur Ura 01,1,sux:{ŋeš}taškarin=taškarin[boxwood//box-tree;-boxwood]N'N$taškarin/{ŋeš}taškarin
-dcclt/Q000039,OB Nippur Ura 01,2,sux:{ŋeš}esi=esi[tree//ebony]N'N$esi/{ŋeš}esi
-dcclt/Q000039,OB Nippur Ura 01,3,sux:{ŋeš}nu₁₁=ŋešnu[tree//a-tree]N'N$ŋešnu/ŋeš-nu₁₁
-dcclt/Q000039,OB Nippur Ura 01,4,sux:{ŋeš}ha-lu-ub₂=halub[tree//a-tree]N'N$halub/{ŋeš}ha-lu-ub₂
-dcclt/Q000039,OB Nippur Ura 01,5,sux:{ŋeš}šag₄-kal=šagkal[tree//a-tree;-a-type-of-willow]N'N$šagkal/{ŋeš}šag₄-kal
-dcclt/Q000039,OB Nippur Ura 01,6,sux:ŋeš-kin₂=ŋešgana[tree//tree]N'N$ŋešgana/ŋeš-kin₂
-dcclt/Q000039,OB Nippur Ura 01,6a,sux:ŋeš-kin₂=ŋešgana[tree//tree]N'N$ŋešgana/ŋeš-kin₂
-dcclt/Q000039,OB Nippur Ura 01,6b,sux:ŋeš-kin₂=ŋešgana[tree//tree]N'N$ŋešgana/ŋeš-kin₂
-dcclt/Q000039,OB Nippur Ura 01,7,sux:ŋeš=ŋeš[tree//tree]N'N$ŋeš/ŋeš
-dcclt/Q000039,OB Nippur Ura 01,8,sux:{ŋeš}ŋeštin=ŋeštin[vine//vine]N'N$ŋeštin/{ŋeš}ŋeštin
-dcclt/Q000039,OB Nippur Ura 01,9,sux:{ŋeš}ŋeštin-kir₄=ŋeštinkira[berry//a-berry]N'N$ŋeštinkira/{ŋeš}ŋeštin-kir₄
-dcclt/Q000039,OB Nippur Ura 01,10,sux:{ŋeš}ŋeštin-ka₅-a=ŋeštinkaʾa[grape//a-grape]N'N$ŋeštinkaʾa/{ŋeš}ŋeštin-ka₅-a
-dcclt/Q000039,OB Nippur Ura 01,11,sux:{ŋeš}ŋeštin-GAM-ma=ŋeštinguruma[~vine//stock-of-the-vine]N'N$ŋeštinguruma/{ŋeš}ŋeštin-gurum-ma
-dcclt/Q000039,OB Nippur Ura 01,12,sux:{ŋeš}peš₃=peš[fig//fig]N'N$peš/{ŋeš}peš₃
-dcclt/Q000039,OB Nippur Ura 01,13,sux:{ŋeš}hašhur=hašhur[apple//apple-(tree)]N'N$hašhur/{ŋeš}hašhur
-dcclt/Q000039,OB Nippur Ura 01,14,sux:{ŋeš}hašhur=hašhur[apple//apple-(tree)]N'N$hašhur/{ŋeš}hašhur sux:kur-ra=kur[mountain//mountain]N'N$kur;ak/kur±-ra=r.a
-dcclt/Q000039,OB Nippur Ura 01,15,sux:{ŋeš}še-dug₃=šedug[tree//a-tree]N'N$šedug/{ŋeš}še-dug₃
-dcclt/Q000039,OB Nippur Ura 01,16,sux:{ŋeš}še-nu=šenu[tree//a-tree]N'N$šenu/{ŋeš}še-nu
-dcclt/Q000039,OB Nippur Ura 01,17,sux:{ŋeš}še-še=še[cone//(conifer)-cone]N'N$še/{ŋeš}še-še
-dcclt/Q000039,OB Nippur Ura 01,18,sux:{ŋeš}šinig=šinig[tamarisk//tamarisk]N'N$šinig/{ŋeš}šinig
-dcclt/Q000039,OB Nippur Ura 01,19,sux:{ŋeš}šinig=šinig[tamarisk//tamarisk]N'N$šinig/{ŋeš}šinig
-dcclt/Q000039,OB Nippur Ura 01,20,sux:{ŋeš}šinig=šinig[tamarisk//tamarisk]N'N$šinig/{ŋeš}šinig sux:kur-ra=kur[mountain//mountain]N'N$kur;ak/kur±-ra=r.a
-dcclt/Q000039,OB Nippur Ura 01,21,sux:{ŋeš}šarₓ(NE)-ša₄-bid₃=šaršabid[tree//a-tree]N'N$šaršabid/{ŋeš}šarₓ(NE)-ša₄-bid₃
-dcclt/Q000039,OB Nippur Ura 01,22,sux:{ŋeš}mes=mes[tree//a-tree]N'N$mes/{ŋeš}mes sux:šarₓ(NE)-ša₄-bid₃=šaršabid[tree//a-tree]N'N$šaršabid/šarₓ(NE)-ša₄-bid₃
-dcclt/Q000039,OB Nippur Ura 01,23,sux:{ŋeš}lam=lam[tree//a-nut-bearing-tree]N'N$lam/{ŋeš}lam
-dcclt/Q000039,OB Nippur Ura 01,24,sux:{ŋeš}eš₂₂=eš[tree//tree]N'N$eš/{ŋeš}eš₂₂
-dcclt/Q000039,OB Nippur Ura 01,25,sux:{ŋeš}u₃-suh₅=usuh[tree//a-tree]N'N$usuh/{ŋeš}u₃-suh₅
-dcclt/Q000039,OB Nippur Ura 01,25a,sux:{ŋeš}u₃-suh₅=usuh[tree//a-tree]N'N$usuh/{ŋeš}u₃-suh₅
-dcclt/Q000039,OB Nippur Ura 01,25b,sux:{ŋeš}u₃-suh₅=usuh[tree//a-tree]N'N$usuh/{ŋeš}u₃-suh₅ sux:pa=pa[branch//branch]N'N$pa/pa
-dcclt/Q000039,OB Nippur Ura 01,25c,sux:{ŋeš}u₃-suh₅=usuh[tree//a-tree]N'N$usuh/{ŋeš}u₃-suh₅ sux:a=a[water//water]N'N$a/a
-dcclt/Q000039,OB Nippur Ura 01,26,sux:{ŋeš}še=še[cone//(conifer)-cone]N'N$še/{ŋeš}še sux:u₃-suh₅=usuh[tree//a-tree]N'N$usuh/u₃-suh₅
-dcclt/Q000039,OB Nippur Ura 01,27,sux:{ŋeš}pa=pa[branch//branch]N'N$pa/{ŋeš}pa sux:u₃-suh₅=usuh[tree//a-tree]N'N$usuh/u₃-suh₅
-dcclt/Q000039,OB Nippur Ura 01,27a,sux:{ŋeš}an=an[sky//sky;-heaven]N'N$an/{ŋeš}an sux:u₃-suh₅=usuh[tree//a-tree]N'N$usuh/u₃-suh₅
-dcclt/Q000039,OB Nippur Ura 01,28,sux:{ŋeš}bir-GAM-mes-E=bir.GAM.la.e[tree//a-tree]N'N$bir.GAM.la.e/{ŋeš}bir-GAM-mes-E
-dcclt/Q000039,OB Nippur Ura 01,29,sux:{ŋeš}šim-gig=šimgig[tree//an-aromatic-tree]N'N$šimgig/{ŋeš}šim-gig
-dcclt/Q000039,OB Nippur Ura 01,30,sux:{ŋeš}šennur=šennur[plum//plum]N'N$šennur/{ŋeš}šennur
-dcclt/Q000039,OB Nippur Ura 01,30a,sux:{ŋeš}šennur=šennur[plum//plum]N'N$šennur/{ŋeš}šennur sux:kur-ra=kur[mountain//mountain]N'N$kur;ak/kur±-ra=r.a
-dcclt/Q000039,OB Nippur Ura 01,31,sux:{ŋeš}lam-gal=lamgal[nut//a-nut]N'N$lamgal/{ŋeš}lam-gal
-dcclt/Q000039,OB Nippur Ura 01,32,sux:{ŋeš}lam-tur=lamtur[nut//nut]N'N$lamtur/{ŋeš}lam-tur
-dcclt/Q000039,OB Nippur Ura 01,33,sux:{ŋeš}al-la-nu-um=allanum[oak//oak]N'N$allanum/{ŋeš}al-la-nu-um
-dcclt/Q000039,OB Nippur Ura 01,34,sux:{ŋeš}ildag₂=ildag[poplar//a-black-poplar]N'N$ildag/{ŋeš}ildag₂
-dcclt/Q000039,OB Nippur Ura 01,35,sux:{ŋeš}ildag₂=ildag[poplar//a-black-poplar]N'N$ildag/{ŋeš}ildag₂ sux:kur=kur[mountain//mountain]N'N$kur/kur
-dcclt/Q000039,OB Nippur Ura 01,36,sux:{ŋeš}ildag₂=ildag[poplar//a-black-poplar]N'N$ildag/{ŋeš}ildag₂
-dcclt/Q000039,OB Nippur Ura 01,37,sux:{ŋeš}ildag₂=ildag[poplar//a-black-poplar]N'N$ildag/{ŋeš}ildag₂ sux:šita₃-na=šitan[water-channel//water-channel]N'N$šitan;ak/šita₃±-na=n.a
-dcclt/Q000039,OB Nippur Ura 01,38,sux:{ŋeš}kur-ra=kur[wood//log?]N'N$kur;ak/{ŋeš}kur±-ra=r.a
-dcclt/Q000039,OB Nippur Ura 01,39,sux:ŋeš-ab-ba=ŋešaʾabak[tree//a-tree]N'N$ŋešaʾabak/ŋeš-ab-ba
-dcclt/Q000039,OB Nippur Ura 01,40,sux:ŋeš-ab-ba=ŋešaʾabak[tree//a-tree]N'N$ŋešaʾabak/ŋeš-ab-ba
-dcclt/Q000039,OB Nippur Ura 01,41,sux:{ŋeš}ŋi₆-par₄=ŋipar[tree//a-fruit-tree]N'N$ŋipar/{ŋeš}ŋi₆-par₄
-dcclt/Q000039,OB Nippur Ura 01,42,sux:{ŋeš}ma-nu=manu[wood//a-wood;-perhaps-willow]N'N$manu/{ŋeš}ma-nu
-dcclt/Q000039,OB Nippur Ura 01,43,sux:{ŋeš}ma-nu=manu[wood//a-wood;-perhaps-willow]N'N$manu/{ŋeš}ma-nu sux:šu=šu[hand//hand]N'N$šu/šu
-dcclt/Q000039,OB Nippur Ura 01,44,sux:{ŋeš}ma-nu=manu[wood//a-wood;-perhaps-willow]N'N$manu/{ŋeš}ma-nu sux:gibil₂=gibil[firewood//firewood-tinder;-taper;-kindling]N'N$gibil/gibil₂
-dcclt/Q000039,OB Nippur Ura 01,44a,sux:{ŋeš}ma-nu=manu[wood//a-wood;-perhaps-willow]N'N$manu/{ŋeš}ma-nu
-dcclt/Q000039,OB Nippur Ura 01,45,sux:{ŋeš}nu-ur₂-ma=nurma[pomegranate//pomegranate]N'N$nurma/{ŋeš}nu-ur₂-ma
-dcclt/Q000039,OB Nippur Ura 01,46,sux:{ŋeš}KID-da=KID.da[twig//twig]N'N$KID.da/{ŋeš}KID-da
-dcclt/Q000039,OB Nippur Ura 01,47,sux:{ŋeš}KID-da=KID.da[twig//twig]N'N$KID.da/{ŋeš}KID-da
-dcclt/Q000039,OB Nippur Ura 01,48,sux:{ŋeš}KID-da=KID.da[twig//twig]N'N$KID.da/{ŋeš}KID-da
-dcclt/Q000039,OB Nippur Ura 01,49,sux:{ŋeš}mes=mes[tree//a-tree]N'N$mes/{ŋeš}mes
-dcclt/Q000039,OB Nippur Ura 01,50,sux:{ŋeš}mes=mes[tree//a-tree]N'N$mes/{ŋeš}mes
-dcclt/Q000039,OB Nippur Ura 01,51,sux:{ŋeš}mes=mes[tree//a-tree]N'N$mes/{ŋeš}mes
-dcclt/Q000039,OB Nippur Ura 01,51a,sux:{ŋeš}mes=mes[tree//a-tree]N'N$mes/{ŋeš}mes
-dcclt/Q000039,OB Nippur Ura 01,51b,sux:{ŋeš}mes-TU=mes.TU[tree//a-tree]N'N$mes.TU/{ŋeš}mes-TU
-dcclt/Q000039,OB Nippur Ura 01,51c,sux:{ŋeš}mes=mes[tree//a-tree]N'N$mes/{ŋeš}mes sux:ki=ki[place//place]N'N$ki/ki
-dcclt/Q000039,OB Nippur Ura 01,51d,sux:{ŋeš}mes=mes[tree//a-tree]N'N$mes/{ŋeš}mes sux:ha-lu-ub₂=halub[tree//a-tree]N'N$halub/ha-lu-ub₂ sux:har-ra-an-na=harran[route//route;-passage]N'N$harran;ak/har-ra-an±-na=n.a
-dcclt/Q000039,OB Nippur Ura 01,51e,sux:{ŋeš}mes=mes[tree//a-tree]N'N$mes/{ŋeš}mes
-dcclt/Q000039,OB Nippur Ura 01,52,sux:{ŋeš}eren=eren[cedar//cedar]N'N$eren/{ŋeš}eren
-dcclt/Q000039,OB Nippur Ura 01,52a,sux:{ŋeš}mud₂=mud[blood//blood]N'N$mud/{ŋeš}mud₂ sux:eren=eren[cedar//cedar]N'N$eren/eren
-dcclt/Q000039,OB Nippur Ura 01,52b,sux:{ŋeš}pa=pa[branch//branch]N'N$pa/{ŋeš}pa sux:eren=eren[cedar//cedar]N'N$eren/eren
-dcclt/Q000039,OB Nippur Ura 01,52d,sux:{ŋeš}asalₓ(|A.TU.GABA.SIG.GAR|)=asal[poplar//poplar]N'N$asal/{ŋeš}asalₓ(|A.TU.GABA.SIG.GAR|)
-dcclt/Q000039,OB Nippur Ura 01,53,sux:{ŋeš}šu-ur₂-min₃=šurmen[cypress//cypress]N'N$šurmen/{ŋeš}šu-ur₂-min₃
-dcclt/Q000039,OB Nippur Ura 01,54,sux:{ŋeš}za-ba-lum=zabalum[juniper//juniper]N'N$zabalum/{ŋeš}za-ba-lum
-dcclt/Q000039,OB Nippur Ura 01,55,sux:{ŋeš}e-la-ma-kum=elammakum[tree//tree]N'N$elammakum/{ŋeš}e-la-ma-kum
-dcclt/Q000039,OB Nippur Ura 01,56,sux:{ŋeš}gi-ri₂-num₂=girim[flower//flower]N'N$girim/{ŋeš}gi-ri₂-num₂
-dcclt/Q000039,OB Nippur Ura 01,57,sux:{ŋeš}gi-rim=girim[flower//flower]N'N$girim/{ŋeš}gi-rim
-dcclt/Q000039,OB Nippur Ura 01,58,sux:{ŋeš}zi-ir-dum=zirdum[olive//olive]N'N$zirdum/{ŋeš}zi-ir-dum
-dcclt/Q000039,OB Nippur Ura 01,59,sux:{ŋeš}ur-nu-um=urnum[cedar//a-cedar]N'N$urnum/{ŋeš}ur-nu-um
-dcclt/Q000039,OB Nippur Ura 01,60,sux:{ŋeš}ti-a-ru-um=tiʾarum[tree//a-tree]N'N$tiʾarum/{ŋeš}ti-a-ru-um
-dcclt/Q000039,OB Nippur Ura 01,61,sux:{ŋeš}ri₂-a-num₂=ilianum[tree//a-tree]N'N$ilianum/{ŋeš}ri₂-a-num₂
-dcclt/Q000039,OB Nippur Ura 01,62,sux:{ŋeš}ur-zi-num₂=urzinum[tree//sycamore?]N'N$urzinum/{ŋeš}ur-zi-num₂
-dcclt/Q000039,OB Nippur Ura 01,63,sux:{ŋeš}mi-ri₂-iš-ŋar-ra=mirišŋara[tree//a-tree]N'N$mirišŋara/{ŋeš}mi-ri₂-iš-ŋar-ra
-dcclt/Q000039,OB Nippur Ura 01,64,sux:{ŋeš}isimu₃{±mu₂}=isimu[sprout//stalk;-sprout;-shoot]N'N$isimu/{ŋeš}isimu₃{±mu₂}
-dcclt/Q000039,OB Nippur Ura 01,64a,sux:ŋeš=ŋeš[tree//tree]N'N$ŋeš/ŋeš sux:gibil=gibil[sprout//sprout;-offshoot]N'N$gibil/gibil
-dcclt/Q000039,OB Nippur Ura 01,65,sux:{ŋeš}nimbar=ŋešnimbar[palm//date-palm]N'N$ŋešnimbar/{ŋeš}ŋešnimbar
-dcclt/Q000039,OB Nippur Ura 01,66,sux:{ŋeš}nimbar=ŋešnimbar[palm//date-palm]N'N$ŋešnimbar/{ŋeš}ŋešnimbar sux:suhušₓ(TUR)=suhuš[offshoot//offshoot]N'N$suhuš/suhušₓ(TUR)
-dcclt/Q000039,OB Nippur Ura 01,67,sux:{ŋeš}nimbar=ŋešnimbar[palm//date-palm]N'N$ŋešnimbar/{ŋeš}ŋešnimbar sux:kur-ra=kur[mountain//mountain]N'N$kur;ak/kur±-ra=r.a
-dcclt/Q000039,OB Nippur Ura 01,68,sux:{ŋeš}nimbar=ŋešnimbar[palm//date-palm]N'N$ŋešnimbar/{ŋeš}ŋešnimbar
-dcclt/Q000039,OB Nippur Ura 01,69,sux:{ŋeš}nimbar=ŋešnimbar[palm//date-palm]N'N$ŋešnimbar/{ŋeš}ŋešnimbar
-dcclt/Q000039,OB Nippur Ura 01,70,sux:{ŋeš}nimbar=ŋešnimbar[palm//date-palm]N'N$ŋešnimbar/{ŋeš}ŋešnimbar
-dcclt/Q000039,OB Nippur Ura 01,71,sux:{ŋeš}nimbar=ŋešnimbar[palm//date-palm]N'N$ŋešnimbar/{ŋeš}ŋešnimbar
-dcclt/Q000039,OB Nippur Ura 01,72,sux:{ŋeš}nimbar=ŋešnimbar[palm//date-palm]N'N$ŋešnimbar/{ŋeš}ŋešnimbar sux:gun₂-na=gun[load//load]N'N$gun;ak/gun₂±-na=n.a
-dcclt/Q000039,OB Nippur Ura 01,73,sux:{ŋeš}nimbar=ŋešnimbar[palm//date-palm]N'N$ŋešnimbar/{ŋeš}ŋešnimbar sux:lu₂-IM=lu₂.IM[criminal//criminal]N'N$lu₂.IM/lu₂-IM
-dcclt/Q000039,OB Nippur Ura 01,74,sux:{ŋeš}nimbar=ŋešnimbar[palm//date-palm]N'N$ŋešnimbar/{ŋeš}ŋešnimbar sux:lipiš=lipiš[innards//inner-body]N'N$lipiš/lipiš
-dcclt/Q000039,OB Nippur Ura 01,75,sux:{ŋeš}nimbar=ŋešnimbar[palm//date-palm]N'N$ŋešnimbar/{ŋeš}ŋešnimbar
-dcclt/Q000039,OB Nippur Ura 01,75a,sux:{ŋeš}nimbar=ŋešnimbar[palm//date-palm]N'N$ŋešnimbar/{ŋeš}ŋešnimbar
-dcclt/Q000039,OB Nippur Ura 01,76,sux:{ŋeš}nimbar=ŋešnimbar[palm//date-palm]N'N$ŋešnimbar/{ŋeš}ŋešnimbar sux:izi=izi[fire//fire]N'N$izi/izi
-dcclt/Q000039,OB Nippur Ura 01,77,sux:{ŋeš}nimbar=ŋešnimbar[palm//date-palm]N'N$ŋešnimbar/{ŋeš}ŋešnimbar sux:eh=eh[insect//insect]N'N$eh/eh
-dcclt/Q000039,OB Nippur Ura 01,77a,sux:{ŋeš}nimbar=ŋešnimbar[palm//date-palm]N'N$ŋešnimbar/{ŋeš}ŋešnimbar
-dcclt/Q000039,OB Nippur Ura 01,78,sux:{ŋeš}nimbar=ŋešnimbar[palm//date-palm]N'N$ŋešnimbar/{ŋeš}ŋešnimbar
-dcclt/Q000039,OB Nippur Ura 01,78a,sux:{ŋeš}nimbar=ŋešnimbar[palm//date-palm]N'N$ŋešnimbar/{ŋeš}ŋešnimbar
-dcclt/Q000039,OB Nippur Ura 01,79,sux:{ŋeš}nimbar=ŋešnimbar[palm//date-palm]N'N$ŋešnimbar/{ŋeš}ŋešnimbar
-dcclt/Q000039,OB Nippur Ura 01,80,sux:{ŋeš}nimbar=ŋešnimbar[palm//date-palm]N'N$ŋešnimbar/{ŋeš}ŋešnimbar
-dcclt/Q000039,OB Nippur Ura 01,81,sux:{ŋeš}šag₄=šag[heart//heart]N'N$šag/{ŋeš}šag₄ sux:nimbar=ŋešnimbar[palm//date-palm]N'N$ŋešnimbar/ŋešnimbar
-dcclt/Q000039,OB Nippur Ura 01,82,sux:{ŋeš}suhur=suhur[tuft//tuft;-plume]N'N$suhur/{ŋeš}suhur sux:nimbar=ŋešnimbar[palm//date-palm]N'N$ŋešnimbar/ŋešnimbar
-dcclt/Q000039,OB Nippur Ura 01,83,sux:{ŋeš}ama=ama[mother//mother]N'N$ama/{ŋeš}ama sux:nimbar=ŋešnimbar[palm//date-palm]N'N$ŋešnimbar/ŋešnimbar
-dcclt/Q000039,OB Nippur Ura 01,84,sux:{ŋeš}kiri₆=kiri[orchard//(fruit)-plantation;-orchard]N'N$kiri/{ŋeš}kiri₆ sux:nimbar=ŋešnimbar[palm//date-palm]N'N$ŋešnimbar/ŋešnimbar
-dcclt/Q000039,OB Nippur Ura 01,85,sux:{ŋeš}kiri₆=kiri[orchard//(fruit)-plantation;-orchard]N'N$kiri/{ŋeš}kiri₆ sux:nimbar=ŋešnimbar[palm//date-palm]N'N$ŋešnimbar/ŋešnimbar
-dcclt/Q000039,OB Nippur Ura 01,85a,sux:{ŋeš}an-na=aʾan[spadix//date-spadix]N'N$aʾan/{ŋeš}an-na sux:zag=zag[side//side]N'N$zag/zag sux:nimbar=ŋešnimbar[palm//date-palm]N'N$ŋešnimbar/ŋešnimbar
-dcclt/Q000039,OB Nippur Ura 01,86,sux:{ŋeš}pa=pa[branch//branch]N'N$pa/{ŋeš}pa sux:nimbar=ŋešnimbar[palm//date-palm]N'N$ŋešnimbar/ŋešnimbar
-dcclt/Q000039,OB Nippur Ura 01,87,sux:{ŋeš}pa=pa[branch//branch]N'N$pa/{ŋeš}pa sux:nimbar=ŋešnimbar[palm//date-palm]N'N$ŋešnimbar/ŋešnimbar
-dcclt/Q000039,OB Nippur Ura 01,88,sux:{ŋeš}dala₂=dala[thorn//thorn;-pin;-needle]N'N$dala/{ŋeš}dala₂ sux:nimbar=ŋešnimbar[palm//date-palm]N'N$ŋešnimbar/ŋešnimbar
-dcclt/Q000039,OB Nippur Ura 01,89,sux:{ŋeš}mud=mud[stump//stump]N'N$mud/{ŋeš}mud sux:nimbar=ŋešnimbar[palm//date-palm]N'N$ŋešnimbar/ŋešnimbar
-dcclt/Q000039,OB Nippur Ura 01,90,sux:{ŋeš}ze₂-na=zena[midrib//midrib-of-datepalm-frond]N'N$zena/{ŋeš}ze₂-na sux:nimbar=ŋešnimbar[palm//date-palm]N'N$ŋešnimbar/ŋešnimbar
-dcclt/Q000039,OB Nippur Ura 01,91,sux:{ŋeš}su₁₁=su[fibers//fibers]N'N$su/{ŋeš}su₁₁ sux:nimbar=ŋešnimbar[palm//date-palm]N'N$ŋešnimbar/ŋešnimbar
-dcclt/Q000039,OB Nippur Ura 01,92,sux:{ŋeš}su₁₁=su[fibers//fibers]N'N$su/{ŋeš}su₁₁ sux:nimbar=ŋešnimbar[palm//date-palm]N'N$ŋešnimbar/ŋešnimbar
-dcclt/Q000039,OB Nippur Ura 01,93,sux:{ŋeš}su₁₁=su[fibers//fibers]N'N$su/{ŋeš}su₁₁ sux:nimbar=ŋešnimbar[palm//date-palm]N'N$ŋešnimbar/ŋešnimbar
-dcclt/Q000039,OB Nippur Ura 01,94,sux:{ŋeš}tubaₓ(TUG₂)=tubala[harness//harness-(for-climbing)]N'N$tubala/{ŋeš}tubaₓ(TUG₂) sux:nimbar=ŋešnimbar[palm//date-palm]N'N$ŋešnimbar/ŋešnimbar
-dcclt/Q000039,OB Nippur Ura 01,95,sux:nimbar=ŋešnimbar[palm//date-palm]N'N$ŋešnimbar/ŋešnimbar
-dcclt/Q000039,OB Nippur Ura 01,96,sux:{ŋeš}u₃-luh=uluh[sapling//sapling]N'N$uluh/{ŋeš}u₃-luh sux:nimbar=ŋešnimbar[palm//date-palm]N'N$ŋešnimbar/ŋešnimbar
-dcclt/Q000039,OB Nippur Ura 01,97,sux:nimbar=ŋešnimbar[palm//date-palm]N'N$ŋešnimbar/ŋešnimbar
-dcclt/Q000039,OB Nippur Ura 01,98,sux:{ŋeš}an-na=aʾan[spadix//date-spadix]N'N$aʾan/{ŋeš}an-na sux:nimbar=ŋešnimbar[palm//date-palm]N'N$ŋešnimbar/ŋešnimbar
-dcclt/Q000039,OB Nippur Ura 01,99,sux:{ŋeš}ki-ta=kita[basket//basket]N'N$kita/{ŋeš}ki-ta sux:nimbar=ŋešnimbar[palm//date-palm]N'N$ŋešnimbar/ŋešnimbar
-dcclt/Q000039,OB Nippur Ura 01,99a,sux:{ŋeš}ki-ta=kita[basket//basket]N'N$kita/{ŋeš}ki-ta sux:zu₂-lum=zulum[date//date]N'N$zulum/zu₂-lum sux:nimbar=ŋešnimbar[palm//date-palm]N'N$ŋešnimbar/ŋešnimbar
-dcclt/Q000039,OB Nippur Ura 01,100,sux:{ŋeš}niŋ₂-ki-luh-ha=niŋkiluh[broom//broom]N'N$niŋkiluh;ak/{ŋeš}niŋ₂-ki-luh±-ha=h.a sux:nimbar=ŋešnimbar[palm//date-palm]N'N$ŋešnimbar/ŋešnimbar
-dcclt/Q000039,OB Nippur Ura 01,101,sux:nimbar=ŋešnimbar[palm//date-palm]N'N$ŋešnimbar/ŋešnimbar
-dcclt/Q000039,OB Nippur Ura 01,102,sux:{ŋeš}peš=peš[frond//frond]N'N$peš/{ŋeš}peš sux:nimbar=ŋešnimbar[palm//date-palm]N'N$ŋešnimbar/ŋešnimbar
-dcclt/Q000039,OB Nippur Ura 01,103,sux:{ŋeš}peš-mur₇=pešmur[~palm//date-palm-spine]N'N$pešmur/{ŋeš}peš-mur₇ sux:nimbar=ŋešnimbar[palm//date-palm]N'N$ŋešnimbar/ŋešnimbar
-dcclt/Q000039,OB Nippur Ura 01,104,sux:{ŋeš}peš-banda₃-zi=pešbandazi[offshoot//offshoot]N'N$pešbandazi/{ŋeš}peš-banda₃-zi sux:nimbar=ŋešnimbar[palm//date-palm]N'N$ŋešnimbar/ŋešnimbar
-dcclt/Q000039,OB Nippur Ura 01,105,sux:{ŋeš}asal₂=asal[poplar//poplar]N'N$asal/{ŋeš}asal₂
-dcclt/Q000039,OB Nippur Ura 01,106,sux:{ŋeš}asal₂=asal[poplar//poplar]N'N$asal/{ŋeš}asal₂ sux:kur=kur[mountain//mountain]N'N$kur/kur
-dcclt/Q000039,OB Nippur Ura 01,107,sux:{ŋeš}asal₂=asal[poplar//poplar]N'N$asal/{ŋeš}asal₂
-dcclt/Q000039,OB Nippur Ura 01,108,sux:asal₂=asal[poplar//poplar]N'N$asal/asal₂
-dcclt/Q000039,OB Nippur Ura 01,109,sux:{ŋeš}numun=numun[seed//seed]N'N$numun/{ŋeš}numun sux:asal₂=asal[poplar//poplar]N'N$asal/asal₂
-dcclt/Q000039,OB Nippur Ura 01,110,sux:{ŋeš}il-ur₂=ilur[tree//a-tree]N'N$ilur/{ŋeš}il-ur₂
-dcclt/Q000039,OB Nippur Ura 01,111,sux:{ŋeš}ad₂=ad[bush//a-thorn-bush]N'N$ad/{ŋeš}ad₂
-dcclt/Q000039,OB Nippur Ura 01,112,sux:{ŋeš}kišig=kišig[acacia//an-acacia]N'N$kišig/{ŋeš}kišig
-dcclt/Q000039,OB Nippur Ura 01,113,sux:{ŋeš}kišig-har=kišighar[tree//a-tree]N'N$kišighar/{ŋeš}kišig-har
-dcclt/Q000039,OB Nippur Ura 01,114,sux:{ŋeš}kišig-har=kišighar[tree//a-tree]N'N$kišighar/{ŋeš}kišig-har sux:kur-ra=kur[mountain//mountain]N'N$kur;ak/kur±-ra=r.a
-dcclt/Q000039,OB Nippur Ura 01,115,sux:{ŋeš}sa-ma-na₂=samana[tree//a-tree]N'N$samana/{ŋeš}sa-ma-na₂
-dcclt/Q000039,OB Nippur Ura 01,116,sux:{ŋeš}sa-ma-zum=samazum[tree//a-tree]N'N$samazum/{ŋeš}sa-ma-zum
-dcclt/Q000039,OB Nippur Ura 01,117,sux:{ŋeš}peš₇-kal=peškal[tree//a-tree]N'N$peškal/{ŋeš}peš₇-kal
-dcclt/Q000039,OB Nippur Ura 01,118,sux:{ŋeš}|ŠU.KAL|=ŠU.KAL[tree//a-tree]N'N$ŠU.KAL/{ŋeš}|ŠU.KAL|
-dcclt/Q000039,OB Nippur Ura 01,119,sux:{ŋeš}šu-dib-ba=šudiba[tree//a-tree]N'N$šudiba/{ŋeš}šu-dib-ba
-dcclt/Q000039,OB Nippur Ura 01,120,sux:{ŋeš}|ŠU.KAL|=ŠU.KAL[tree//a-tree]N'N$ŠU.KAL/{ŋeš}|ŠU.KAL|
-dcclt/Q000039,OB Nippur Ura 01,121,sux:{ŋeš}šušin=šušum[licorice//licorice]N'N$šušum/{ŋeš}šušin
-dcclt/Q000039,OB Nippur Ura 01,122,sux:{ŋeš}ši-iq-dum=šiqdum[almond//almond]N'N$šiqdum/{ŋeš}ši-iq-dum
-dcclt/Q000039,OB Nippur Ura 01,123,sux:{ŋeš}zar-si=zarsi[plant//a-plant]N'N$zarsi/{ŋeš}zar-si
-dcclt/Q000039,OB Nippur Ura 01,124a,sux:{ŋeš}zi₂-ir-dum=zirdum[olive//olive]N'N$zirdum/{ŋeš}zi₂-ir-dum
-dcclt/Q000039,OB Nippur Ura 01,125,sux:{ŋeš}gi-zu₂-lum-ma=gizulumma[nettle?//nettle?]N'N$gizulumma/{ŋeš}gi-zu₂-lum-ma
-dcclt/Q000039,OB Nippur Ura 01,126,sux:{ŋeš}bu-zu₂-num₂-ma=buzunuma[plant//a-plant]N'N$buzunuma;ak/{ŋeš}bu-zu₂-num₂-ma
-dcclt/Q000039,OB Nippur Ura 01,127,sux:{ŋeš}dili-bu-um=tulubum[tree//Oriental-plane-tree]N'N$tulubum/{ŋeš}dili-bu-um
-dcclt/Q000039,OB Nippur Ura 01,128,sux:{ŋeš}an-ta=anta[tree//a-tree-(wormwood?)]N'N$anta/{ŋeš}an-ta
-dcclt/Q000039,OB Nippur Ura 01,129,sux:{ŋeš}huš=huš[plant//a-plant]N'N$huš/{ŋeš}huš
-dcclt/Q000039,OB Nippur Ura 01,130,sux:{ŋeš}maš=maš[plant//a-plant]N'N$maš/{ŋeš}maš
-dcclt/Q000039,OB Nippur Ura 01,131,sux:{ŋeš}maš-gurum=mašgurum[plant//a-plant]N'N$mašgurum/{ŋeš}maš-gurum
-dcclt/Q000039,OB Nippur Ura 01,132,sux:{ŋeš}guru₅-uš=guruʾuš[tree-trunk//tree-trunk]N'N$guruʾuš/{ŋeš}guru₅-uš
-dcclt/Q000039,OB Nippur Ura 01,135,sux:{ŋeš}i-ri₉-na=arina[madder//madder]N'N$arina/{ŋeš}i-ri₉-na
-dcclt/Q000039,OB Nippur Ura 01,136,sux:{ŋeš}a-ri₉-na=arina[madder//madder]N'N$arina/{ŋeš}a-ri₉-na
-dcclt/Q000039,OB Nippur Ura 01,137,sux:{ŋeš}gilim=gilim[foliage//foliage]N'N$gilim/{ŋeš}gilim sux:an-na=an[sky//sky;-heaven]N'N$an;ak/an±-na=n.a
-dcclt/Q000039,OB Nippur Ura 01,138,sux:{ŋeš}gilim=gilim[foliage//foliage]N'N$gilim/{ŋeš}gilim sux:abzu=abzu[water//water]N'N$abzu/abzu
-dcclt/Q000039,OB Nippur Ura 01,139,sux:{ŋeš}u₃-luh=uluh[sapling//sapling]N'N$uluh/{ŋeš}u₃-luh
-dcclt/Q000039,OB Nippur Ura 01,140,sux:{ŋeš}pa=pa[branch//branch]N'N$pa/{ŋeš}pa
-dcclt/Q000039,OB Nippur Ura 01,141,sux:{ŋeš}pa=pa[branch//branch]N'N$pa/{ŋeš}pa
-dcclt/Q000039,OB Nippur Ura 01,141a,sux:{ŋeš}buniŋ=buniŋ[trough//trough]N'N$buniŋ/{ŋeš}buniŋ
-dcclt/Q000039,OB Nippur Ura 01,142,sux:{ŋeš}as₄-lum=aslum[rod//rod]N'N$aslum/{ŋeš}as₄-lum
-dcclt/Q000039,OB Nippur Ura 01,144,sux:{ŋeš}dib-dib=dibdib[waterclock//waterclock]N'N$dibdib/{ŋeš}dib-dib
-dcclt/Q000039,OB Nippur Ura 01,145a,sux:ŋeš-gan=ŋešgana[pestle//pestle]N'N$ŋešgana/ŋeš-gana
-dcclt/Q000039,OB Nippur Ura 01,147,sux:{ŋeš}dub-dim₂=ŋešdubdim[tool//a-potter´s-tool]N'N$ŋešdubdim/ŋeš-dub-dim₂
-dcclt/Q000039,OB Nippur Ura 01,148,sux:{ŋeš}šumun-gi₄=sumungi[tool//tool]N'N$sumungi/{ŋeš}sumun-gi₄
-dcclt/Q000039,OB Nippur Ura 01,149,sux:{ŋeš}ti-bala=tibala[sign//sign]N'N$tibala/{ŋeš}ti-bala
-dcclt/Q000039,OB Nippur Ura 01,150,sux:{ŋeš}šudum-ma=ŋeššudumak[tally//tally]N'N$ŋeššudumak/ŋeš-šudum-ma
-dcclt/Q000039,OB Nippur Ura 01,151,sux:{ŋeš}tun₃=tun[container//container]N'N$tun/{ŋeš}tun₃
-dcclt/Q000039,OB Nippur Ura 01,152,sux:{ŋeš}ba=ba[tool//a-cutting-tool]N'N$ba/{ŋeš}ba
-dcclt/Q000039,OB Nippur Ura 01,152a,sux:{ŋeš}ba=ba[tool//a-cutting-tool]N'N$ba/{ŋeš}ba sux:zu₂=zu[stone//a-hard-stone;-flint?;-obsidian?]N'N$zu/zu₂
-dcclt/Q000039,OB Nippur Ura 01,153,sux:{ŋeš}ba=ba[tool//a-cutting-tool]N'N$ba/{ŋeš}ba sux:amar=amar[young//young;-youngster;-chick]N'N$amar/amar
-dcclt/Q000039,OB Nippur Ura 01,154,sux:{ŋeš}ba=ba[tool//a-cutting-tool]N'N$ba/{ŋeš}ba sux:še=še[barley//barley]N'N$še/še
-dcclt/Q000039,OB Nippur Ura 01,155,sux:{ŋeš}ba=ba[tool//a-cutting-tool]N'N$ba/{ŋeš}ba
-dcclt/Q000039,OB Nippur Ura 01,155a,sux:{ŋeš}ba=ba[tool//a-cutting-tool]N'N$ba/{ŋeš}ba sux:gur=gur[unit//unit]N'N$gur/gur
-dcclt/Q000039,OB Nippur Ura 01,155b,sux:{ŋeš}ba=ba[tool//a-cutting-tool]N'N$ba/{ŋeš}ba sux:pa=pa[branch//branch]N'N$pa/pa
-dcclt/Q000039,OB Nippur Ura 01,157,sux:{ŋeš}na-ru₂-a=ŋešnaruak[~stele//a-wooden-stele?]N'N$ŋešnaruak/ŋeš-na-ru₂-a
-dcclt/Q000039,OB Nippur Ura 01,158,sux:{ŋeš}šibir=šibir[staff//shepherd´s-staff]N'N$šibir/{ŋeš}šibir
-dcclt/Q000039,OB Nippur Ura 01,159,sux:{ŋeš}niŋ₂-na=niŋna[incense//incense-(burner)]N'N$niŋna/{ŋeš}niŋ₂-na
-dcclt/Q000039,OB Nippur Ura 01,160,sux:{ŋeš}gu-za=guza[chair//chair]N'N$guza/{ŋeš}gu-za
-dcclt/Q000039,OB Nippur Ura 01,161,sux:{ŋeš}gu-za=guza[chair//chair]N'N$guza/{ŋeš}gu-za
-dcclt/Q000039,OB Nippur Ura 01,162,sux:{ŋeš}gu-za=guza[chair//chair]N'N$guza/{ŋeš}gu-za
-dcclt/Q000039,OB Nippur Ura 01,163,sux:{ŋeš}gu-za=guza[chair//chair]N'N$guza/{ŋeš}gu-za sux:sir₃-da=sirda[cnne//(compound-noun-nominal-element)]N'N$sirda/sir₃-da
-dcclt/Q000039,OB Nippur Ura 01,163a,sux:{ŋeš}gu-za=guza[chair//chair]N'N$guza/{ŋeš}gu-za sux:munus-e-ne=munus[woman//woman]N'N$munus;ene/munus
-dcclt/Q000039,OB Nippur Ura 01,164,sux:{ŋeš}gu-za=guza[chair//chair]N'N$guza/{ŋeš}gu-za sux:ma₂-lah₅=malah[sailor//sailor]N'N$malah/ma₂-lah₅
-dcclt/Q000039,OB Nippur Ura 01,165,sux:{ŋeš}gu-za=guza[chair//chair]N'N$guza/{ŋeš}gu-za sux:ŋeš-kiŋ₂-ti=ŋeškiŋti[workshop//craft-workshop]N'N$ŋeškiŋti/ŋeš-kiŋ₂-ti
-dcclt/Q000039,OB Nippur Ura 01,166,sux:{ŋeš}gu-za=guza[chair//chair]N'N$guza/{ŋeš}gu-za sux:niŋ₂-ba=niŋba[gift//gift]N'N$niŋba/niŋ₂-ba
-dcclt/Q000039,OB Nippur Ura 01,167,sux:{ŋeš}gu-za=guza[chair//chair]N'N$guza/{ŋeš}gu-za sux:niŋ₂-šu=niŋšu[goods//goods]N'N$niŋšu/niŋ₂-šu
-dcclt/Q000039,OB Nippur Ura 01,168,sux:{ŋeš}gu-za=guza[chair//chair]N'N$guza/{ŋeš}gu-za sux:{ŋeš}gigir=gigir[chariot//chariot]N'N$gigir/{ŋeš}gigir
-dcclt/Q000039,OB Nippur Ura 01,169,sux:{ŋeš}gu-za=guza[chair//chair]N'N$guza/{ŋeš}gu-za sux:anše=anše[equid//equid;-donkey]N'N$anše/anše
-dcclt/Q000039,OB Nippur Ura 01,170,sux:{ŋeš}gu-za=guza[chair//chair]N'N$guza/{ŋeš}gu-za sux:kaskal=kaskal[way//way;-road]N'N$kaskal/kaskal
-dcclt/Q000039,OB Nippur Ura 01,171,sux:{ŋeš}gu-za=guza[chair//chair]N'N$guza/{ŋeš}gu-za sux:ŋarza₂=ŋarza[rites//rites]N'N$ŋarza/ŋarza₂
-dcclt/Q000039,OB Nippur Ura 01,172,sux:{ŋeš}gu-za=guza[chair//chair]N'N$guza/{ŋeš}gu-za sux:nam-lugal-la=namlugal[kingship//kingship]N'N$namlugal;ak/nam-lugal±-la=l.a
-dcclt/Q000039,OB Nippur Ura 01,173,sux:{ŋeš}gu-za=guza[chair//chair]N'N$guza/{ŋeš}gu-za sux:nam-en-na=namen[priesthood//lordship]N'N$namen;ak/nam-en±-na=n.a
-dcclt/Q000039,OB Nippur Ura 01,174,sux:{ŋeš}gu-za=guza[chair//chair]N'N$guza/{ŋeš}gu-za sux:nam-nin-a=namnin[ladyship//ladyship]N'N$namnin;ak/nam-nin
-dcclt/Q000039,OB Nippur Ura 01,175,sux:{ŋeš}gu-za=guza[chair//chair]N'N$guza/{ŋeš}gu-za sux:šag₄=šag[heart//heart]N'N$šag/šag₄
-dcclt/Q000039,OB Nippur Ura 01,176,sux:{ŋeš}gu-za=guza[chair//chair]N'N$guza/{ŋeš}gu-za sux:šu-SAR-e=šusar[string//string;-cord;-wire]N'N$šusar/šu-SAR-e
-dcclt/Q000039,OB Nippur Ura 01,177,sux:{ŋeš}gu-za=guza[chair//chair]N'N$guza/{ŋeš}gu-za
-dcclt/Q000039,OB Nippur Ura 01,178,sux:{ŋeš}gu-za=guza[chair//chair]N'N$guza/{ŋeš}gu-za sux:šah=šah[pig//pig]N'N$šah/šah
-dcclt/Q000039,OB Nippur Ura 01,179,sux:{ŋeš}gu-za=guza[chair//chair]N'N$guza/{ŋeš}gu-za
-dcclt/Q000039,OB Nippur Ura 01,180,sux:{ŋeš}gu-za=guza[chair//chair]N'N$guza/{ŋeš}gu-za
-dcclt/Q000039,OB Nippur Ura 01,181,sux:{ŋeš}gu-za=guza[chair//chair]N'N$guza/{ŋeš}gu-za sux:ma₂-lah₄=malah[sailor//sailor]N'N$malah/ma₂-lah₄
-dcclt/Q000039,OB Nippur Ura 01,182,sux:{ŋeš}gu-za=guza[chair//chair]N'N$guza/{ŋeš}gu-za
-dcclt/Q000039,OB Nippur Ura 01,183,sux:{ŋeš}gu-za=guza[chair//chair]N'N$guza/{ŋeš}gu-za sux:nita=nita[male//male]N'N$nita/nita
-dcclt/Q000039,OB Nippur Ura 01,184,sux:{ŋeš}gu-za=guza[chair//chair]N'N$guza/{ŋeš}gu-za sux:munus=munus[woman//woman]N'N$munus/munus
-dcclt/Q000039,OB Nippur Ura 01,185,sux:{ŋeš}gu-za=guza[chair//chair]N'N$guza/{ŋeš}gu-za sux:ukkin-na=unkin[assembly//assembly]N'N$unkin;ak/unkin±-na=n.a
-dcclt/Q000039,OB Nippur Ura 01,186,sux:{ŋeš}gu-za=guza[chair//chair]N'N$guza/{ŋeš}gu-za sux:lukur=lukur[priestess//a-priestess]N'N$lukur/lukur
-dcclt/Q000039,OB Nippur Ura 01,186a,sux:{ŋeš}gu-za=guza[chair//chair]N'N$guza/{ŋeš}gu-za sux:gidim=gidim[ghost//ghost]N'N$gidim/gidim
-dcclt/Q000039,OB Nippur Ura 01,187,sux:{ŋeš}gu-za=guza[chair//chair]N'N$guza/{ŋeš}gu-za sux:ki=ki[place//place]N'N$ki/ki
-dcclt/Q000039,OB Nippur Ura 01,188,sux:{ŋeš}gu-za=guza[chair//chair]N'N$guza/{ŋeš}gu-za
-dcclt/Q000039,OB Nippur Ura 01,189,sux:{ŋeš}gu-za=guza[chair//chair]N'N$guza/{ŋeš}gu-za sux:{ŋeš}taškarin=taškarin[boxwood//box-tree;-boxwood]N'N$taškarin/{ŋeš}taškarin
-dcclt/Q000039,OB Nippur Ura 01,190,sux:{ŋeš}gu-za=guza[chair//chair]N'N$guza/{ŋeš}gu-za sux:{ŋeš}esi=esi[tree//a-tree]N'N$esi/{ŋeš}esi
-dcclt/Q000039,OB Nippur Ura 01,191,sux:{ŋeš}gu-za=guza[chair//chair]N'N$guza/{ŋeš}gu-za sux:{ŋeš}šag₄-kal=šagkal[tree//a-tree;-a-type-of-willow]N'N$šagkal/{ŋeš}šag₄-kal
-dcclt/Q000039,OB Nippur Ura 01,192,sux:{ŋeš}gu-za=guza[chair//chair]N'N$guza/{ŋeš}gu-za sux:{ŋeš}mes=mes[tree//a-tree]N'N$mes/{ŋeš}mes
-dcclt/Q000039,OB Nippur Ura 01,193,sux:{ŋeš}gu-za=guza[chair//chair]N'N$guza/{ŋeš}gu-za sux:{ŋeš}mes=mes[tree//a-tree]N'N$mes/{ŋeš}mes
-dcclt/Q000039,OB Nippur Ura 01,194,sux:{ŋeš}gu-za=guza[chair//chair]N'N$guza/{ŋeš}gu-za sux:{ŋeš}mes=mes[tree//a-tree]N'N$mes/{ŋeš}mes
-dcclt/Q000039,OB Nippur Ura 01,195,sux:{ŋeš}gu-za=guza[chair//chair]N'N$guza/{ŋeš}gu-za sux:gar₃-ba=gar[knob//knob]N'N$gar;bi.ak/gar₃
-dcclt/Q000039,OB Nippur Ura 01,196,sux:{ŋeš}gu-za=guza[chair//chair]N'N$guza/{ŋeš}gu-za sux:gar₃-ba=gar[knob//knob]N'N$gar;bi.ak/gar₃ sux:kug-babbar=kugbabbar[silver//silver]N'N$kugbabbar/kug-babbar
-dcclt/Q000039,OB Nippur Ura 01,196a,sux:{ŋeš}gu-za=guza[chair//chair]N'N$guza/{ŋeš}gu-za sux:gar₃-ba=gar[knob//knob]N'N$gar;bi.ak/gar₃ sux:kug-sig₁₇=kugsig[gold//gold]N'N$kugsig/kug-sig₁₇
-dcclt/Q000039,OB Nippur Ura 01,197,sux:{ŋeš}gu-za=guza[chair//chair]N'N$guza/{ŋeš}gu-za sux:gar₃-ba=gar[knob//knob]N'N$gar;bi.ak/gar₃ sux:zabar=zabar[bronze//bronze]N'N$zabar/zabar
-dcclt/Q000039,OB Nippur Ura 01,198,sux:{ŋeš}gu-za=guza[chair//chair]N'N$guza/{ŋeš}gu-za sux:gar₃-ba=gar[knob//knob]N'N$gar;bi.ak/gar₃ sux:kuš=kuš[skin//leather]N'N$kuš/kuš
-dcclt/Q000039,OB Nippur Ura 01,199,sux:{ŋeš}BAD=bad[leg//leg-or-foot-of-a-piece-of-furniture]N'N$bad/{ŋeš}bad sux:gu-za=guza[chair//chair]N'N$guza/gu-za
-dcclt/Q000039,OB Nippur Ura 01,200,sux:{ŋeš}saŋ=saŋ[head//front]N'N$saŋ/{ŋeš}saŋ sux:gu-za=guza[chair//chair]N'N$guza/gu-za
-dcclt/Q000039,OB Nippur Ura 01,201,sux:ŋeš-di₅=ŋešdi[rung//rung]N'N$ŋešdi/ŋeš-di₅ sux:gu-za=guza[chair//chair]N'N$guza/gu-za
-dcclt/Q000039,OB Nippur Ura 01,202,sux:{ŋeš}i-zi=izzi[wall//wall]N'N$izzi/{ŋeš}i-zi sux:gu-za=guza[chair//chair]N'N$guza/gu-za
-dcclt/Q000039,OB Nippur Ura 01,203,sux:{ŋeš}umbin=umbin[base//base-of-a-table]N'N$umbin/{ŋeš}umbin sux:gu-za=guza[chair//chair]N'N$guza/gu-za
-dcclt/Q000039,OB Nippur Ura 01,204,sux:{ŋeš}šu₂-a=šuʾa[stool//stool]N'N$šuʾa/{ŋeš}šu₂-a
-dcclt/Q000039,OB Nippur Ura 01,205,sux:{ŋeš}šu₂-a=šuʾa[stool//stool]N'N$šuʾa/{ŋeš}šu₂-a sux:du₁₀-sa=dus[bathroom//bathroom]N'N$dus/du₁₀-sa
-dcclt/Q000039,OB Nippur Ura 01,206,sux:{ŋeš}šu₂-a=šuʾa[stool//stool]N'N$šuʾa/{ŋeš}šu₂-a sux:nagar=nagar[carpenter//carpenter]N'N$nagar/nagar
-dcclt/Q000039,OB Nippur Ura 01,207,sux:{ŋeš}šu₂-a=šuʾa[stool//stool]N'N$šuʾa/{ŋeš}šu₂-a sux:bur-gul=burgul[stone-cutter//stone-cutter]N'N$burgul/bur-gul
-dcclt/Q000039,OB Nippur Ura 01,208,sux:{ŋeš}šu₂-a=šuʾa[stool//stool]N'N$šuʾa/{ŋeš}šu₂-a sux:tibira=tibira[sculptor//sculptor]N'N$tibira/tibira
-dcclt/Q000039,OB Nippur Ura 01,209,sux:{ŋeš}šu₂-a=šuʾa[stool//stool]N'N$šuʾa/{ŋeš}šu₂-a sux:kaskal-la=kaskal[way//way;-road]N'N$kaskal;ak/kaskal±-la=l.a
-dcclt/Q000039,OB Nippur Ura 01,210,sux:{ŋeš}šu₂-a=šuʾa[stool//stool]N'N$šuʾa/{ŋeš}šu₂-a sux:niŋ₂-gu-la=niŋgula[greatness//greatness]N'N$niŋgula/niŋ₂-gu-la
-dcclt/Q000039,OB Nippur Ura 01,211,sux:{ŋeš}ŋir₃-gub=ŋirigub[footstool//footstool]N'N$ŋirigub/{ŋeš}ŋiri₃-gub
-dcclt/Q000039,OB Nippur Ura 01,212,sux:{ŋeš}ŋir₃-gub=ŋirigub[footstool//footstool]N'N$ŋirigub/{ŋeš}ŋiri₃-gub
-dcclt/Q000039,OB Nippur Ura 01,213,sux:{ŋeš}ŋir₃-gub=ŋirigub[footstool//footstool]N'N$ŋirigub/{ŋeš}ŋiri₃-gub sux:zu₂=zu[tooth//tooth]N'N$zu/zu₂ sux:am-si=amsi[elephant//elephant]N'N$amsi/am-si
-dcclt/Q000039,OB Nippur Ura 01,214,sux:ŋeš-nud=ŋešnud[bed//bed]N'N$ŋešnud/ŋeš-nud
-dcclt/Q000039,OB Nippur Ura 01,215,sux:ŋeš-nud-AŠ-nud=ŋeš.nud.AŠ.nud[bed//a-bed]N'N$ŋeš.nud.AŠ.nud/ŋeš-nud-AŠ-nud
-dcclt/Q000039,OB Nippur Ura 01,216,sux:ŋeš-nud=ŋešnud[bed//bed]N'N$ŋešnud/ŋeš-nud sux:ki-nud=kinud[bedroom//sleeping-quarter;-bed]N'N$kinud/ki-nud
-dcclt/Q000039,OB Nippur Ura 01,217,sux:ŋeš-nud=ŋešnud[bed//bed]N'N$ŋešnud/ŋeš-nud sux:gu₂=gu[neck//neck]N'N$gu/gu₂
-dcclt/Q000039,OB Nippur Ura 01,218,sux:ŋeš-nud=ŋešnud[bed//bed]N'N$ŋešnud/ŋeš-nud sux:umbin=umbin[nail//(finger/toe-)nail]N'N$umbin/umbin
-dcclt/Q000039,OB Nippur Ura 01,219,sux:ŋeš-nud=ŋešnud[bed//bed]N'N$ŋešnud/ŋeš-nud sux:umbin=umbin[nail//(finger/toe-)nail]N'N$umbin/umbin sux:gud=gud[ox//bull;-ox]N'N$gud/gud
-dcclt/Q000039,OB Nippur Ura 01,220,sux:ŋeš-nud=ŋešnud[bed//bed]N'N$ŋešnud/ŋeš-nud sux:šag₄-tuku=šatuku[mattress//mattress]N'N$šatuku/šag₄-tuku
-dcclt/Q000039,OB Nippur Ura 01,221,sux:ŋeš-nud=ŋešnud[bed//bed]N'N$ŋešnud/ŋeš-nud sux:šag₄-tuku=šatuku[mattress//mattress]N'N$šatuku/šag₄-tuku sux:siki=siki[hair//hair]N'N$siki/siki sux:ga-rig₂=garig[comb//comb]N'N$garig/ga-rig₂
-dcclt/Q000039,OB Nippur Ura 01,222,sux:ŋeš-nud=ŋešnud[bed//bed]N'N$ŋešnud/ŋeš-nud
-dcclt/Q000039,OB Nippur Ura 01,223,sux:{ŋeš}zag=zag[side//side]N'N$zag/{ŋeš}zag sux:an-dul₃=andul[shade//shade]N'N$andul/an-dul₃ sux:nud=ŋešnud[bed//bed]N'N$ŋešnud/nud
-dcclt/Q000039,OB Nippur Ura 01,224,sux:{ŋeš}bar-si=barsig[garment//a-garment]N'N$barsig/{ŋeš}bar-si sux:nud=ŋešnud[bed//bed]N'N$ŋešnud/nud
-dcclt/Q000039,OB Nippur Ura 01,225,sux:{ŋeš}BAD=bad[leg//leg-or-foot-of-a-piece-of-furniture]N'N$bad/{ŋeš}bad sux:nud=ŋešnud[bed//bed]N'N$ŋešnud/nud
-dcclt/Q000039,OB Nippur Ura 01,226,sux:{ŋeš}saŋ=saŋ[head//front]N'N$saŋ/{ŋeš}saŋ sux:nud=ŋešnud[bed//bed]N'N$ŋešnud/nud
-dcclt/Q000039,OB Nippur Ura 01,227,sux:ŋeš-di₅=ŋešdi[rung//rung]N'N$ŋešdi/ŋeš-di₅ sux:nud=ŋešnud[bed//bed]N'N$ŋešnud/nud
-dcclt/Q000039,OB Nippur Ura 01,228,sux:{ŋeš}i-zi=izzi[wall//wall]N'N$izzi/{ŋeš}i-zi sux:nud=ŋešnud[bed//bed]N'N$ŋešnud/nud
-dcclt/Q000039,OB Nippur Ura 01,229,sux:{ŋeš}umbin=umbin[base//base-of-a-table]N'N$umbin/{ŋeš}umbin sux:nud=ŋešnud[bed//bed]N'N$ŋešnud/nud
-dcclt/Q000039,OB Nippur Ura 01,230,sux:{ŋeš}dilim₂-gal=dilimgal[dish//dish;-shallow-bowl]N'N$dilimgal/{ŋeš}dilim₂-gal
-dcclt/Q000039,OB Nippur Ura 01,231,sux:{ŋeš}dilim₂=dilim[spoon//spoon]N'N$dilim/{ŋeš}dilim₂
-dcclt/Q000039,OB Nippur Ura 01,232,sux:{ŋeš}dilim₂-ban₃-da=dilimbanda[bowl//bowl]N'N$dilimbanda/{ŋeš}dilim₂-banda₃{da}
-dcclt/Q000039,OB Nippur Ura 01,233,sux:{ŋeš}ma-al-tum=maltum[bowl//a-bowl]N'N$maltum/{ŋeš}ma-al-tum
-dcclt/Q000039,OB Nippur Ura 01,234,sux:{ŋeš}banšur=banšur[table//table]N'N$banšur/{ŋeš}banšur
-dcclt/Q000039,OB Nippur Ura 01,235,sux:{ŋeš}dilim₂=dilim[spoon//spoon]N'N$dilim/{ŋeš}dilim₂ sux:banšur=banšur[table//table]N'N$banšur/banšur
-dcclt/Q000039,OB Nippur Ura 01,236,sux:{ŋeš}umbin=umbin[base//base-of-a-table]N'N$umbin/{ŋeš}umbin sux:banšur=banšur[table//table]N'N$banšur/banšur
-dcclt/Q000039,OB Nippur Ura 01,237,sux:{ŋeš}banšur-zag-gu-la=banšurzaggula[table//a-cultic-table]N'N$banšurzaggula/{ŋeš}banšur-zag-gu-la
-dcclt/Q000039,OB Nippur Ura 01,238,sux:{ŋeš}banšur=banšur[table//table]N'N$banšur/{ŋeš}banšur sux:zag-ŋar-ra=zagŋara[shrine//shrine]N'N$zagŋara/zag-ŋar-ra
-dcclt/Q000039,OB Nippur Ura 01,239,sux:{ŋeš}ka-kara₄(KAD₄)=kaŋeškarak[table//a-table]N'N$kaŋeškarak/{ŋeš}ka-kara₄(KAD₄)
-dcclt/Q000039,OB Nippur Ura 01,240,sux:{ŋeš}ka-kara₄=kaŋeškarak[table//a-table]N'N$kaŋeškarak/{ŋeš}ka-kara₄ sux:zu₂=zu[tooth//tooth]N'N$zu/zu₂ sux:am-si=amsi[elephant//elephant]N'N$amsi/am-si
-dcclt/Q000039,OB Nippur Ura 01,241,sux:{ŋeš}maš-tak-da=maštakda[wooden-object//a-wooden-object]N'N$maštakda/{ŋeš}maš-tak-da
-dcclt/Q000039,OB Nippur Ura 01,242,sux:{ŋeš}emerah=emerah[jug//jug;-can]N'N$emerah/{ŋeš}emerah
-dcclt/Q000039,OB Nippur Ura 01,243,sux:{ŋeš}emerah=emerah[jug//jug;-can]N'N$emerah/{ŋeš}emerah sux:ga=ga[milk//milk]N'N$ga/ga
-dcclt/Q000039,OB Nippur Ura 01,244,sux:{ŋeš}emerah=emerah[jug//jug;-can]N'N$emerah/{ŋeš}emerah
-dcclt/Q000039,OB Nippur Ura 01,245,sux:{ŋeš}muru₅-za-nu-um=murzanum[wooden-object//wooden-object]N'N$murzanum/{ŋeš}muru₅-za-nu-um
-dcclt/Q000039,OB Nippur Ura 01,246,sux:{ŋeš}kun₄=kuŋ[stair//stair(case)]N'N$kuŋ/{ŋeš}kuŋ₄
-dcclt/Q000039,OB Nippur Ura 01,247,sux:{ŋeš}kun₄=kuŋ[stair//stair(case)]N'N$kuŋ/{ŋeš}kuŋ₄ sux:bad₃-da=bad[wall//wall]N'N$bad;ak/bad₃±-da=d.a
-dcclt/Q000039,OB Nippur Ura 01,248,sux:{ŋeš}kun₄=kuŋ[stair//stair(case)]N'N$kuŋ/{ŋeš}kuŋ₄ sux:galam=galam[staircase//staircase;-ladder]N'N$galam/galam
-dcclt/Q000039,OB Nippur Ura 01,250,sux:{ŋeš}u₃=u[planking//planking]N'N$u/{ŋeš}u₃ sux:kun₄=kuŋ[stair//stair(case)]N'N$kuŋ/kun₄
-dcclt/Q000039,OB Nippur Ura 01,251,sux:{ŋeš}suku₅=suku[pole//pole]N'N$suku/{ŋeš}suku₅ sux:kun₄=kuŋ[stair//stair(case)]N'N$kuŋ/kun₄
-dcclt/Q000039,OB Nippur Ura 01,252,sux:{ŋeš}bugin=buniŋ[trough//trough]N'N$buniŋ/{ŋeš}buniŋ
-dcclt/Q000039,OB Nippur Ura 01,253,sux:{ŋeš}bugin=buniŋ[trough//trough]N'N$buniŋ/{ŋeš}buniŋ
-dcclt/Q000039,OB Nippur Ura 01,254,sux:{ŋeš}bugin=buniŋ[trough//trough]N'N$buniŋ/{ŋeš}buniŋ
-dcclt/Q000039,OB Nippur Ura 01,255,sux:{ŋeš}naŋa₃=naŋa[mortar//mortar]N'N$naŋa/{ŋeš}naŋa₃
-dcclt/Q000039,OB Nippur Ura 01,256,sux:{ŋeš}naŋa₃=naŋa[mortar//mortar]N'N$naŋa/{ŋeš}naŋa₃ sux:še=še[barley//barley]N'N$še/še
-dcclt/Q000039,OB Nippur Ura 01,257,sux:{ŋeš}naŋa₃=naŋa[mortar//mortar]N'N$naŋa/{ŋeš}naŋa₃ sux:{še}ŋeš-i₃=ŋeši[sesame//sesame]N'N$ŋeši/{še}ŋeš-i₃
-dcclt/Q000039,OB Nippur Ura 01,258,sux:{ŋeš}naŋa₃=naŋa[mortar//mortar]N'N$naŋa/{ŋeš}naŋa₃ sux:esir=esir[bitumen//bitumen]N'N$esir/esir sux:e₃-a=ea[~bitumen//a-qualification-of-bitumen]N'N$ea/e₃-a
-dcclt/Q000039,OB Nippur Ura 01,259,sux:{ŋeš}tukul=tukul[weapon//weapon]N'N$tukul/{ŋeš}tukul sux:naŋa₃-si₃-gaz=naŋasikaz[pestle//pestle]N'N$naŋasikaz/naŋa₃-si₃-gaz
-dcclt/Q000039,OB Nippur Ura 01,260,sux:ŋeš-gan-na=ŋešgana[pestle//pestle]N'N$ŋešgana/ŋeš-gan-na
-dcclt/Q000039,OB Nippur Ura 01,261,sux:{ŋeš}girah(|ŠU.DIM₂|)=girah[tool//boat-part]N'N$girah/{ŋeš}girah(|ŠU.DIM₂|)
-dcclt/Q000039,OB Nippur Ura 01,261a,sux:{ŋeš}me-te=mete[appropriate-thing//appropriate-thing;-ornament]N'N$mete/{ŋeš}me-te sux:šidim=šidim[builder//builder]N'N$šidim/šidim
-dcclt/Q000039,OB Nippur Ura 01,262,sux:{ŋeš}eme-sig=emesig[plank//plank]N'N$emesig/{ŋeš}eme-sig
-dcclt/Q000039,OB Nippur Ura 01,263,sux:{ŋeš}mi-ri₂-za=miriza[plank//plank;-board]N'N$miriza/{ŋeš}mi-ri₂-za
-dcclt/Q000039,OB Nippur Ura 01,264,sux:{ŋeš}mi-ri₂-za=miriza[plank//plank;-board]N'N$miriza/{ŋeš}mi-ri₂-za sux:zag=zag[side//side]N'N$zag/zag
-dcclt/Q000039,OB Nippur Ura 01,265,sux:{ŋeš}ma₂=ma[ship//ship;-boat]N'N$ma/{ŋeš}ma₂
-dcclt/Q000039,OB Nippur Ura 01,266,sux:{ŋeš}ma₂-gur=magur[barge//barge]N'N$magur/{ŋeš}ma₂-gur
-dcclt/Q000039,OB Nippur Ura 01,267,sux:{ŋeš}ma₂=ma[ship//ship;-boat]N'N$ma/{ŋeš}ma₂
-dcclt/Q000039,OB Nippur Ura 01,268,sux:{ŋeš}ma₂=ma[ship//ship;-boat]N'N$ma/{ŋeš}ma₂
-dcclt/Q000039,OB Nippur Ura 01,269,sux:{ŋeš}ma₂-u₅=maʾu[barge//barge]N'N$maʾu/{ŋeš}ma₂-u₅
-dcclt/Q000039,OB Nippur Ura 01,270,sux:{ŋeš}ma₂-da-la₂=madala[bundle//bundle-of-reeds]N'N$madala/{ŋeš}ma₂-da-la₂
-dcclt/Q000039,OB Nippur Ura 01,271,sux:{ŋeš}ma₂=ma[ship//ship;-boat]N'N$ma/{ŋeš}ma₂ sux:šu-HA@g=šukud[fisherman//fisherman]N'N$šukud/šu-HA@g
-dcclt/Q000039,OB Nippur Ura 01,272,sux:{ŋeš}ma₂=ma[ship//ship;-boat]N'N$ma/{ŋeš}ma₂
-dcclt/Q000039,OB Nippur Ura 01,273,sux:{ŋeš}ma₂=ma[ship//ship;-boat]N'N$ma/{ŋeš}ma₂ sux:šu=šu[hand//hand]N'N$šu/šu
-dcclt/Q000039,OB Nippur Ura 01,273a,sux:{ŋeš}ma₂=ma[ship//ship;-boat]N'N$ma/{ŋeš}ma₂
-dcclt/Q000039,OB Nippur Ura 01,274,sux:{ŋeš}ma₂=ma[ship//ship;-boat]N'N$ma/{ŋeš}ma₂
-dcclt/Q000039,OB Nippur Ura 01,275,sux:{ŋeš}ma₂=ma[ship//ship;-boat]N'N$ma/{ŋeš}ma₂
-dcclt/Q000039,OB Nippur Ura 01,276,sux:{ŋeš}ma₂=ma[ship//ship;-boat]N'N$ma/{ŋeš}ma₂ sux:dim=dim[post//post]N'N$dim/dim
-dcclt/Q000039,OB Nippur Ura 01,277,sux:{ŋeš}ma₂=ma[ship//ship;-boat]N'N$ma/{ŋeš}ma₂
-dcclt/Q000039,OB Nippur Ura 01,278,sux:{ŋeš}ma₂=ma[ship//ship;-boat]N'N$ma/{ŋeš}ma₂
-dcclt/Q000039,OB Nippur Ura 01,279,sux:{ŋeš}ma₂=ma[ship//ship;-boat]N'N$ma/{ŋeš}ma₂ sux:gur=gur[unit//unit]N'N$gur/gur
-dcclt/Q000039,OB Nippur Ura 01,280,sux:{ŋeš}ma₂=ma[ship//ship;-boat]N'N$ma/{ŋeš}ma₂ sux:gur=gur[unit//unit]N'N$gur/gur
-dcclt/Q000039,OB Nippur Ura 01,281,sux:{ŋeš}ma₂=ma[ship//ship;-boat]N'N$ma/{ŋeš}ma₂ sux:gur=gur[unit//unit]N'N$gur/gur
-dcclt/Q000039,OB Nippur Ura 01,282,sux:{ŋeš}ma₂=ma[ship//ship;-boat]N'N$ma/{ŋeš}ma₂ sux:gur=gur[unit//unit]N'N$gur/gur
-dcclt/Q000039,OB Nippur Ura 01,283,sux:{ŋeš}ma₂=ma[ship//ship;-boat]N'N$ma/{ŋeš}ma₂ sux:gur=gur[unit//unit]N'N$gur/gur
-dcclt/Q000039,OB Nippur Ura 01,284,sux:{ŋeš}ma₂=ma[ship//ship;-boat]N'N$ma/{ŋeš}ma₂ sux:gur=gur[unit//unit]N'N$gur/gur
-dcclt/Q000039,OB Nippur Ura 01,285,sux:{ŋeš}ma₂=ma[ship//ship;-boat]N'N$ma/{ŋeš}ma₂ sux:gur=gur[unit//unit]N'N$gur/gur
-dcclt/Q000039,OB Nippur Ura 01,286,sux:{ŋeš}ma₂=ma[ship//ship;-boat]N'N$ma/{ŋeš}ma₂ sux:gur=gur[unit//unit]N'N$gur/gur
-dcclt/Q000039,OB Nippur Ura 01,287,sux:{ŋeš}ma₂=ma[ship//ship;-boat]N'N$ma/{ŋeš}ma₂
+dcclt/Q000039,OB Nippur Ura 01,1,sux:taškarin[boxwood]N
+dcclt/Q000039,OB Nippur Ura 01,2,sux:esi[tree]N
+dcclt/Q000039,OB Nippur Ura 01,3,sux:ŋešnu[tree]N
+dcclt/Q000039,OB Nippur Ura 01,4,sux:halub[tree]N
+dcclt/Q000039,OB Nippur Ura 01,5,sux:šagkal[tree]N
+dcclt/Q000039,OB Nippur Ura 01,6,sux:ŋešgana[tree]N
+dcclt/Q000039,OB Nippur Ura 01,6a,sux:ŋešgana[tree]N sux:babbar[white]V/i
+dcclt/Q000039,OB Nippur Ura 01,6b,sux:ŋešgana[tree]N sux:giggi[black]V/i
+dcclt/Q000039,OB Nippur Ura 01,7,sux:ŋeš[tree]N sux:giggi[black]V/i
+dcclt/Q000039,OB Nippur Ura 01,8,sux:ŋeštin[vine]N
+dcclt/Q000039,OB Nippur Ura 01,9,sux:ŋeštinkira[berry]N
+dcclt/Q000039,OB Nippur Ura 01,10,sux:ŋeštinkaʾa[grape]N
+dcclt/Q000039,OB Nippur Ura 01,11,sux:ŋeštinguruma[~vine]N
+dcclt/Q000039,OB Nippur Ura 01,12,sux:peš[fig]N
+dcclt/Q000039,OB Nippur Ura 01,13,sux:hašhur[apple]N
+dcclt/Q000039,OB Nippur Ura 01,14,sux:hašhur[apple]N sux:kur[mountain]N
+dcclt/Q000039,OB Nippur Ura 01,15,sux:šedug[tree]N
+dcclt/Q000039,OB Nippur Ura 01,16,sux:šenu[tree]N
+dcclt/Q000039,OB Nippur Ura 01,17,sux:še[cone]N
+dcclt/Q000039,OB Nippur Ura 01,18,sux:šinig[tamarisk]N
+dcclt/Q000039,OB Nippur Ura 01,19,sux:šinig[tamarisk]N sux:dili[single]V/i
+dcclt/Q000039,OB Nippur Ura 01,20,sux:šinig[tamarisk]N sux:kur[mountain]N
+dcclt/Q000039,OB Nippur Ura 01,21,sux:šaršabid[tree]N
+dcclt/Q000039,OB Nippur Ura 01,22,sux:mes[tree]N sux:šaršabid[tree]N
+dcclt/Q000039,OB Nippur Ura 01,23,sux:lam[tree]N
+dcclt/Q000039,OB Nippur Ura 01,24,sux:eš[tree]N
+dcclt/Q000039,OB Nippur Ura 01,25,sux:usuh[tree]N
+dcclt/Q000039,OB Nippur Ura 01,25a,sux:usuh[tree]N sux:tur[small]V/i
+dcclt/Q000039,OB Nippur Ura 01,25b,sux:usuh[tree]N sux:pa[branch]N sux:kud[cut]V/t
+dcclt/Q000039,OB Nippur Ura 01,25c,sux:usuh[tree]N sux:a[water]N sux:de[pour]V/t
+dcclt/Q000039,OB Nippur Ura 01,26,sux:še[cone]N sux:usuh[tree]N
+dcclt/Q000039,OB Nippur Ura 01,27,sux:pa[branch]N sux:usuh[tree]N
+dcclt/Q000039,OB Nippur Ura 01,27a,sux:an[sky]N sux:usuh[tree]N
+dcclt/Q000039,OB Nippur Ura 01,28,sux:bir.GAM.la.e[tree]N
+dcclt/Q000039,OB Nippur Ura 01,29,sux:šimgig[tree]N
+dcclt/Q000039,OB Nippur Ura 01,30,sux:šennur[plum]N
+dcclt/Q000039,OB Nippur Ura 01,30a,sux:šennur[plum]N sux:kur[mountain]N
+dcclt/Q000039,OB Nippur Ura 01,31,sux:lamgal[nut]N
+dcclt/Q000039,OB Nippur Ura 01,32,sux:lamtur[nut]N
+dcclt/Q000039,OB Nippur Ura 01,33,sux:allanum[oak]N
+dcclt/Q000039,OB Nippur Ura 01,34,sux:ildag[poplar]N
+dcclt/Q000039,OB Nippur Ura 01,35,sux:ildag[poplar]N sux:kur[mountain]N
+dcclt/Q000039,OB Nippur Ura 01,36,sux:ildag[poplar]N sux:bur[spread]V/t
+dcclt/Q000039,OB Nippur Ura 01,37,sux:ildag[poplar]N sux:šitan[water-channel]N
+dcclt/Q000039,OB Nippur Ura 01,38,sux:kur[wood]N
+dcclt/Q000039,OB Nippur Ura 01,39,sux:ŋešaʾabak[tree]N
+dcclt/Q000039,OB Nippur Ura 01,40,sux:ŋešaʾabak[tree]N
+dcclt/Q000039,OB Nippur Ura 01,41,sux:ŋipar[tree]N
+dcclt/Q000039,OB Nippur Ura 01,42,sux:manu[wood]N
+dcclt/Q000039,OB Nippur Ura 01,43,sux:manu[wood]N sux:šu[hand]N sux:ak[do]V/t
+dcclt/Q000039,OB Nippur Ura 01,44,sux:manu[wood]N sux:gibil[firewood]N sux:ak[do]V/t
+dcclt/Q000039,OB Nippur Ura 01,44a,sux:manu[wood]N sux:kal[rare]V/i
+dcclt/Q000039,OB Nippur Ura 01,45,sux:nurma[pomegranate]N
+dcclt/Q000039,OB Nippur Ura 01,46,sux:KID.da[twig]N
+dcclt/Q000039,OB Nippur Ura 01,47,sux:KID.da[twig]N
+dcclt/Q000039,OB Nippur Ura 01,48,sux:KID.da[twig]N sux:sil[split]V/i
+dcclt/Q000039,OB Nippur Ura 01,49,sux:mes[tree]N
+dcclt/Q000039,OB Nippur Ura 01,50,sux:mes[tree]N
+dcclt/Q000039,OB Nippur Ura 01,51,sux:mes[tree]N
+dcclt/Q000039,OB Nippur Ura 01,51a,sux:mes[tree]N
+dcclt/Q000039,OB Nippur Ura 01,51b,sux:mes.TU[tree]N
+dcclt/Q000039,OB Nippur Ura 01,51c,sux:mes[tree]N sux:ki[place]N sux:ŋar[place]V/t
+dcclt/Q000039,OB Nippur Ura 01,51d,sux:mes[tree]N sux:halub[tree]N sux:harran[route]N
+dcclt/Q000039,OB Nippur Ura 01,51e,sux:mes[tree]N sux:giggi[black]V/i
+dcclt/Q000039,OB Nippur Ura 01,52,sux:eren[cedar]N
+dcclt/Q000039,OB Nippur Ura 01,52a,sux:mud[blood]N sux:eren[cedar]N
+dcclt/Q000039,OB Nippur Ura 01,52b,sux:pa[branch]N sux:eren[cedar]N
+dcclt/Q000039,OB Nippur Ura 01,52d,sux:asal[poplar]N
+dcclt/Q000039,OB Nippur Ura 01,53,sux:šurmen[cypress]N
+dcclt/Q000039,OB Nippur Ura 01,54,sux:zabalum[juniper]N
+dcclt/Q000039,OB Nippur Ura 01,55,sux:elammakum[tree]N
+dcclt/Q000039,OB Nippur Ura 01,56,sux:girim[flower]N
+dcclt/Q000039,OB Nippur Ura 01,57,sux:girim[flower]N
+dcclt/Q000039,OB Nippur Ura 01,58,sux:zirdum[olive]N
+dcclt/Q000039,OB Nippur Ura 01,59,sux:urnum[cedar]N
+dcclt/Q000039,OB Nippur Ura 01,60,sux:tiʾarum[tree]N
+dcclt/Q000039,OB Nippur Ura 01,61,sux:ilianum[tree]N
+dcclt/Q000039,OB Nippur Ura 01,62,sux:urzinum[tree]N
+dcclt/Q000039,OB Nippur Ura 01,63,sux:mirišŋara[tree]N
+dcclt/Q000039,OB Nippur Ura 01,64,sux:isimu[sprout]N
+dcclt/Q000039,OB Nippur Ura 01,64a,sux:ŋeš[tree]N sux:gibil[sprout]N
+dcclt/Q000039,OB Nippur Ura 01,65,sux:ŋešnimbar[palm]N
+dcclt/Q000039,OB Nippur Ura 01,66,sux:ŋešnimbar[palm]N sux:suhuš[offshoot]N
+dcclt/Q000039,OB Nippur Ura 01,67,sux:ŋešnimbar[palm]N sux:kur[mountain]N
+dcclt/Q000039,OB Nippur Ura 01,68,sux:ŋešnimbar[palm]N
+dcclt/Q000039,OB Nippur Ura 01,69,sux:ŋešnimbar[palm]N sux:dar[split]V/t
+dcclt/Q000039,OB Nippur Ura 01,70,sux:ŋešnimbar[palm]N sux:kud[cut]V/t
+dcclt/Q000039,OB Nippur Ura 01,71,sux:ŋešnimbar[palm]N sux:šab[cut]V/t
+dcclt/Q000039,OB Nippur Ura 01,72,sux:ŋešnimbar[palm]N sux:gun[load]N
+dcclt/Q000039,OB Nippur Ura 01,73,sux:ŋešnimbar[palm]N sux:lu₂.IM[criminal]N
+dcclt/Q000039,OB Nippur Ura 01,74,sux:ŋešnimbar[palm]N sux:lipiš[innards]N sux:bur[tear]V/t
+dcclt/Q000039,OB Nippur Ura 01,75,sux:ŋešnimbar[palm]N sux:guz[crush]V/i
+dcclt/Q000039,OB Nippur Ura 01,75a,sux:ŋešnimbar[palm]N sux:kum[hot]V/i
+dcclt/Q000039,OB Nippur Ura 01,76,sux:ŋešnimbar[palm]N sux:izi[fire]N sux:gu[eat]V/t
+dcclt/Q000039,OB Nippur Ura 01,77,sux:ŋešnimbar[palm]N sux:eh[insect]N sux:gu[eat]V/t
+dcclt/Q000039,OB Nippur Ura 01,77a,sux:ŋešnimbar[palm]N sux:gig[sick]V/i sux:hab[malodorous]V/i
+dcclt/Q000039,OB Nippur Ura 01,78,sux:ŋešnimbar[palm]N sux:ug[die]V/t
+dcclt/Q000039,OB Nippur Ura 01,78a,sux:ŋešnimbar[palm]N sux:gaz[kill]V/t
+dcclt/Q000039,OB Nippur Ura 01,79,sux:ŋešnimbar[palm]N sux:uš[die]V/i
+dcclt/Q000039,OB Nippur Ura 01,80,sux:ŋešnimbar[palm]N sux:sissig[green]V/i sux:šeŋ[cook]V/t
+dcclt/Q000039,OB Nippur Ura 01,81,sux:šag[heart]N sux:ŋešnimbar[palm]N
+dcclt/Q000039,OB Nippur Ura 01,82,sux:suhur[tuft]N sux:ŋešnimbar[palm]N
+dcclt/Q000039,OB Nippur Ura 01,83,sux:ama[mother]N sux:ŋešnimbar[palm]N
+dcclt/Q000039,OB Nippur Ura 01,84,sux:kiri[orchard]N sux:ŋešnimbar[palm]N
+dcclt/Q000039,OB Nippur Ura 01,85,sux:kiri[orchard]N sux:ŋešnimbar[palm]N
+dcclt/Q000039,OB Nippur Ura 01,85a,sux:aʾan[spadix]N sux:zag[side]N sux:ŋešnimbar[palm]N
+dcclt/Q000039,OB Nippur Ura 01,86,sux:pa[branch]N sux:ŋešnimbar[palm]N
+dcclt/Q000039,OB Nippur Ura 01,87,sux:pa[branch]N sux:kud[cut]V/t sux:ŋešnimbar[palm]N
+dcclt/Q000039,OB Nippur Ura 01,88,sux:dala[thorn]N sux:ŋešnimbar[palm]N
+dcclt/Q000039,OB Nippur Ura 01,89,sux:mud[stump]N sux:ŋešnimbar[palm]N
+dcclt/Q000039,OB Nippur Ura 01,90,sux:zena[midrib]N sux:ŋešnimbar[palm]N
+dcclt/Q000039,OB Nippur Ura 01,91,sux:su[fibers]N sux:ŋešnimbar[palm]N
+dcclt/Q000039,OB Nippur Ura 01,92,sux:su[fibers]N sux:ŋešnimbar[palm]N
+dcclt/Q000039,OB Nippur Ura 01,93,sux:su[fibers]N sux:gal[big]V/i sux:ŋešnimbar[palm]N
+dcclt/Q000039,OB Nippur Ura 01,94,sux:tubala[harness]N sux:ŋešnimbar[palm]N
+dcclt/Q000039,OB Nippur Ura 01,95,sux:pel[defile]V/t sux:ŋešnimbar[palm]N
+dcclt/Q000039,OB Nippur Ura 01,96,sux:uluh[sapling]N sux:ŋešnimbar[palm]N
+dcclt/Q000039,OB Nippur Ura 01,97,sux:ŋešnimbar[palm]N
+dcclt/Q000039,OB Nippur Ura 01,98,sux:aʾan[spadix]N sux:ŋešnimbar[palm]N
+dcclt/Q000039,OB Nippur Ura 01,99,sux:kita[basket]N sux:ŋešnimbar[palm]N
+dcclt/Q000039,OB Nippur Ura 01,99a,sux:kita[basket]N sux:zulum[date]N sux:deg[collect]V/t sux:ŋešnimbar[palm]N
+dcclt/Q000039,OB Nippur Ura 01,100,sux:niŋkiluh[broom]N sux:ŋešnimbar[palm]N
+dcclt/Q000039,OB Nippur Ura 01,101,sux:ŋešnimbar[palm]N
+dcclt/Q000039,OB Nippur Ura 01,102,sux:peš[frond]N sux:ŋešnimbar[palm]N
+dcclt/Q000039,OB Nippur Ura 01,103,sux:pešmur[~palm]N sux:ŋešnimbar[palm]N
+dcclt/Q000039,OB Nippur Ura 01,104,sux:pešbandazi[offshoot]N sux:ŋešnimbar[palm]N
+dcclt/Q000039,OB Nippur Ura 01,105,sux:asal[poplar]N
+dcclt/Q000039,OB Nippur Ura 01,106,sux:asal[poplar]N sux:kur[mountain]N
+dcclt/Q000039,OB Nippur Ura 01,107,sux:asal[poplar]N sux:dug[good]V/i
+dcclt/Q000039,OB Nippur Ura 01,108,sux:asal[poplar]N
+dcclt/Q000039,OB Nippur Ura 01,109,sux:numun[seed]N sux:asal[poplar]N
+dcclt/Q000039,OB Nippur Ura 01,110,sux:ilur[tree]N
+dcclt/Q000039,OB Nippur Ura 01,111,sux:ad[bush]N
+dcclt/Q000039,OB Nippur Ura 01,112,sux:kišig[acacia]N
+dcclt/Q000039,OB Nippur Ura 01,113,sux:kišighar[tree]N
+dcclt/Q000039,OB Nippur Ura 01,114,sux:kišighar[tree]N sux:kur[mountain]N
+dcclt/Q000039,OB Nippur Ura 01,115,sux:samana[tree]N
+dcclt/Q000039,OB Nippur Ura 01,116,sux:samazum[tree]N
+dcclt/Q000039,OB Nippur Ura 01,117,sux:peškal[tree]N
+dcclt/Q000039,OB Nippur Ura 01,118,sux:ŠU.KAL[tree]N
+dcclt/Q000039,OB Nippur Ura 01,119,sux:šudiba[tree]N
+dcclt/Q000039,OB Nippur Ura 01,120,sux:ŠU.KAL[tree]N
+dcclt/Q000039,OB Nippur Ura 01,121,sux:šušum[licorice]N
+dcclt/Q000039,OB Nippur Ura 01,122,sux:šiqdum[almond]N
+dcclt/Q000039,OB Nippur Ura 01,123,sux:zarsi[plant]N
+dcclt/Q000039,OB Nippur Ura 01,124a,sux:zirdum[olive]N
+dcclt/Q000039,OB Nippur Ura 01,125,sux:gizulumma[nettle?]N
+dcclt/Q000039,OB Nippur Ura 01,126,sux:buzunuma[plant]N
+dcclt/Q000039,OB Nippur Ura 01,127,sux:tulubum[tree]N
+dcclt/Q000039,OB Nippur Ura 01,128,sux:anta[tree]N
+dcclt/Q000039,OB Nippur Ura 01,129,sux:huš[plant]N
+dcclt/Q000039,OB Nippur Ura 01,130,sux:maš[plant]N
+dcclt/Q000039,OB Nippur Ura 01,131,sux:mašgurum[plant]N
+dcclt/Q000039,OB Nippur Ura 01,132,sux:guruʾuš[tree-trunk]N
+dcclt/Q000039,OB Nippur Ura 01,135,sux:arina[madder]N
+dcclt/Q000039,OB Nippur Ura 01,136,sux:arina[madder]N
+dcclt/Q000039,OB Nippur Ura 01,137,sux:gilim[foliage]N sux:an[sky]N
+dcclt/Q000039,OB Nippur Ura 01,138,sux:gilim[foliage]N sux:abzu[water]N
+dcclt/Q000039,OB Nippur Ura 01,139,sux:uluh[sapling]N
+dcclt/Q000039,OB Nippur Ura 01,140,sux:pa[branch]N
+dcclt/Q000039,OB Nippur Ura 01,141,sux:pa[branch]N sux:kud[cut]V/t
+dcclt/Q000039,OB Nippur Ura 01,141a,sux:buniŋ[trough]N
+dcclt/Q000039,OB Nippur Ura 01,142,sux:aslum[rod]N
+dcclt/Q000039,OB Nippur Ura 01,144,sux:dibdib[waterclock]N
+dcclt/Q000039,OB Nippur Ura 01,145a,sux:ŋešgana[pestle]N
+dcclt/Q000039,OB Nippur Ura 01,147,sux:ŋešdubdim[tool]N
+dcclt/Q000039,OB Nippur Ura 01,148,sux:sumungi[tool]N
+dcclt/Q000039,OB Nippur Ura 01,149,sux:tibala[sign]N
+dcclt/Q000039,OB Nippur Ura 01,150,sux:ŋeššudumak[tally]N
+dcclt/Q000039,OB Nippur Ura 01,151,sux:tun[container]N
+dcclt/Q000039,OB Nippur Ura 01,152,sux:ba[tool]N
+dcclt/Q000039,OB Nippur Ura 01,152a,sux:ba[tool]N sux:zu[stone]N
+dcclt/Q000039,OB Nippur Ura 01,153,sux:ba[tool]N sux:amar[young]N
+dcclt/Q000039,OB Nippur Ura 01,154,sux:ba[tool]N sux:še[barley]N
+dcclt/Q000039,OB Nippur Ura 01,155,sux:ba[tool]N sux:šab[cut]V/t
+dcclt/Q000039,OB Nippur Ura 01,155a,sux:ba[tool]N sux:gur[unit]N
+dcclt/Q000039,OB Nippur Ura 01,155b,sux:ba[tool]N sux:pa[branch]N
+dcclt/Q000039,OB Nippur Ura 01,157,sux:ŋešnaruak[~stele]N
+dcclt/Q000039,OB Nippur Ura 01,158,sux:šibir[staff]N sux:šudu[equipped]AJ
+dcclt/Q000039,OB Nippur Ura 01,159,sux:niŋna[incense]N
+dcclt/Q000039,OB Nippur Ura 01,160,sux:guza[chair]N
+dcclt/Q000039,OB Nippur Ura 01,161,sux:guza[chair]N sux:sag[rare]V/i
+dcclt/Q000039,OB Nippur Ura 01,162,sux:guza[chair]N sux:gid[long]V/i
+dcclt/Q000039,OB Nippur Ura 01,163,sux:guza[chair]N sux:sirda[cnne]N
+dcclt/Q000039,OB Nippur Ura 01,163a,sux:guza[chair]N sux:munus[woman]N
+dcclt/Q000039,OB Nippur Ura 01,164,sux:guza[chair]N sux:malah[sailor]N
+dcclt/Q000039,OB Nippur Ura 01,165,sux:guza[chair]N sux:ŋeškiŋti[workshop]N
+dcclt/Q000039,OB Nippur Ura 01,166,sux:guza[chair]N sux:niŋba[gift]N
+dcclt/Q000039,OB Nippur Ura 01,167,sux:guza[chair]N sux:niŋšu[goods]N
+dcclt/Q000039,OB Nippur Ura 01,168,sux:guza[chair]N sux:gigir[chariot]N
+dcclt/Q000039,OB Nippur Ura 01,169,sux:guza[chair]N sux:anše[equid]N
+dcclt/Q000039,OB Nippur Ura 01,170,sux:guza[chair]N sux:kaskal[way]N
+dcclt/Q000039,OB Nippur Ura 01,171,sux:guza[chair]N sux:ŋarza[rites]N
+dcclt/Q000039,OB Nippur Ura 01,172,sux:guza[chair]N sux:namlugal[kingship]N
+dcclt/Q000039,OB Nippur Ura 01,173,sux:guza[chair]N sux:namen[priesthood]N
+dcclt/Q000039,OB Nippur Ura 01,174,sux:guza[chair]N sux:namnin[ladyship]N
+dcclt/Q000039,OB Nippur Ura 01,175,sux:guza[chair]N sux:šag[heart]N sux:hul[rejoice]V/i
+dcclt/Q000039,OB Nippur Ura 01,176,sux:guza[chair]N sux:šusar[string]N sux:du[build]V/t
+dcclt/Q000039,OB Nippur Ura 01,177,sux:guza[chair]N sux:du[build]V/t
+dcclt/Q000039,OB Nippur Ura 01,178,sux:guza[chair]N sux:šah[pig]N sux:šum[slaughter]V/t
+dcclt/Q000039,OB Nippur Ura 01,179,sux:guza[chair]N
+dcclt/Q000039,OB Nippur Ura 01,180,sux:guza[chair]N
+dcclt/Q000039,OB Nippur Ura 01,181,sux:guza[chair]N sux:malah[sailor]N
+dcclt/Q000039,OB Nippur Ura 01,182,sux:guza[chair]N
+dcclt/Q000039,OB Nippur Ura 01,183,sux:guza[chair]N sux:nita[male]N
+dcclt/Q000039,OB Nippur Ura 01,184,sux:guza[chair]N sux:munus[woman]N
+dcclt/Q000039,OB Nippur Ura 01,185,sux:guza[chair]N sux:unkin[assembly]N
+dcclt/Q000039,OB Nippur Ura 01,186,sux:guza[chair]N sux:lukur[priestess]N
+dcclt/Q000039,OB Nippur Ura 01,186a,sux:guza[chair]N sux:gidim[ghost]N
+dcclt/Q000039,OB Nippur Ura 01,187,sux:guza[chair]N sux:ki[place]N sux:uš[die]V/i
+dcclt/Q000039,OB Nippur Ura 01,188,sux:guza[chair]N sux:silim[healthy]V/i
+dcclt/Q000039,OB Nippur Ura 01,189,sux:guza[chair]N sux:taškarin[boxwood]N
+dcclt/Q000039,OB Nippur Ura 01,190,sux:guza[chair]N sux:esi[tree]N
+dcclt/Q000039,OB Nippur Ura 01,191,sux:guza[chair]N sux:šagkal[tree]N
+dcclt/Q000039,OB Nippur Ura 01,192,sux:guza[chair]N sux:mes[tree]N
+dcclt/Q000039,OB Nippur Ura 01,193,sux:guza[chair]N sux:mes[tree]N
+dcclt/Q000039,OB Nippur Ura 01,194,sux:guza[chair]N sux:mes[tree]N
+dcclt/Q000039,OB Nippur Ura 01,195,sux:guza[chair]N sux:gar[knob]N
+dcclt/Q000039,OB Nippur Ura 01,196,sux:guza[chair]N sux:gar[knob]N sux:kugbabbar[silver]N sux:ŋar[place]V/t
+dcclt/Q000039,OB Nippur Ura 01,196a,sux:guza[chair]N sux:gar[knob]N sux:kugsig[gold]N sux:ŋar[place]V/t
+dcclt/Q000039,OB Nippur Ura 01,197,sux:guza[chair]N sux:gar[knob]N sux:zabar[bronze]N sux:ŋar[place]V/t
+dcclt/Q000039,OB Nippur Ura 01,198,sux:guza[chair]N sux:gar[knob]N sux:kuš[skin]N sux:ŋar[place]V/t
+dcclt/Q000039,OB Nippur Ura 01,199,sux:bad[leg]N sux:guza[chair]N
+dcclt/Q000039,OB Nippur Ura 01,200,sux:saŋ[head]N sux:guza[chair]N
+dcclt/Q000039,OB Nippur Ura 01,201,sux:ŋešdi[rung]N sux:guza[chair]N
+dcclt/Q000039,OB Nippur Ura 01,202,sux:izzi[wall]N sux:guza[chair]N
+dcclt/Q000039,OB Nippur Ura 01,203,sux:umbin[base]N sux:guza[chair]N
+dcclt/Q000039,OB Nippur Ura 01,204,sux:šuʾa[stool]N
+dcclt/Q000039,OB Nippur Ura 01,205,sux:šuʾa[stool]N sux:dus[bathroom]N
+dcclt/Q000039,OB Nippur Ura 01,206,sux:šuʾa[stool]N sux:nagar[carpenter]N
+dcclt/Q000039,OB Nippur Ura 01,207,sux:šuʾa[stool]N sux:burgul[stone-cutter]N
+dcclt/Q000039,OB Nippur Ura 01,208,sux:šuʾa[stool]N sux:tibira[sculptor]N
+dcclt/Q000039,OB Nippur Ura 01,209,sux:šuʾa[stool]N sux:kaskal[way]N
+dcclt/Q000039,OB Nippur Ura 01,210,sux:šuʾa[stool]N sux:niŋgula[greatness]N
+dcclt/Q000039,OB Nippur Ura 01,211,sux:ŋirigub[footstool]N
+dcclt/Q000039,OB Nippur Ura 01,212,sux:ŋirigub[footstool]N
+dcclt/Q000039,OB Nippur Ura 01,213,sux:ŋirigub[footstool]N sux:zu[tooth]N sux:amsi[elephant]N
+dcclt/Q000039,OB Nippur Ura 01,214,sux:ŋešnud[bed]N
+dcclt/Q000039,OB Nippur Ura 01,215,sux:ŋeš.nud.AŠ.nud[bed]N
+dcclt/Q000039,OB Nippur Ura 01,216,sux:ŋešnud[bed]N sux:kinud[bedroom]N
+dcclt/Q000039,OB Nippur Ura 01,217,sux:ŋešnud[bed]N sux:gu[neck]N sux:zig[rise]V/t
+dcclt/Q000039,OB Nippur Ura 01,218,sux:ŋešnud[bed]N sux:umbin[nail]N
+dcclt/Q000039,OB Nippur Ura 01,219,sux:ŋešnud[bed]N sux:umbin[nail]N sux:gud[ox]N
+dcclt/Q000039,OB Nippur Ura 01,220,sux:ŋešnud[bed]N sux:šatuku[mattress]N
+dcclt/Q000039,OB Nippur Ura 01,221,sux:ŋešnud[bed]N sux:šatuku[mattress]N sux:siki[hair]N sux:garig[comb]N sux:ak[do]V/t
+dcclt/Q000039,OB Nippur Ura 01,222,sux:ŋešnud[bed]N
+dcclt/Q000039,OB Nippur Ura 01,223,sux:zag[side]N sux:andul[shade]N sux:ŋešnud[bed]N
+dcclt/Q000039,OB Nippur Ura 01,224,sux:barsig[garment]N sux:ŋešnud[bed]N
+dcclt/Q000039,OB Nippur Ura 01,225,sux:bad[leg]N sux:ŋešnud[bed]N
+dcclt/Q000039,OB Nippur Ura 01,226,sux:saŋ[head]N sux:ŋešnud[bed]N
+dcclt/Q000039,OB Nippur Ura 01,227,sux:ŋešdi[rung]N sux:ŋešnud[bed]N
+dcclt/Q000039,OB Nippur Ura 01,228,sux:izzi[wall]N sux:ŋešnud[bed]N
+dcclt/Q000039,OB Nippur Ura 01,229,sux:umbin[base]N sux:ŋešnud[bed]N
+dcclt/Q000039,OB Nippur Ura 01,230,sux:dilimgal[dish]N
+dcclt/Q000039,OB Nippur Ura 01,231,sux:dilim[spoon]N
+dcclt/Q000039,OB Nippur Ura 01,232,sux:dilimbanda[bowl]N
+dcclt/Q000039,OB Nippur Ura 01,233,sux:maltum[bowl]N
+dcclt/Q000039,OB Nippur Ura 01,234,sux:banšur[table]N
+dcclt/Q000039,OB Nippur Ura 01,235,sux:dilim[spoon]N sux:banšur[table]N
+dcclt/Q000039,OB Nippur Ura 01,236,sux:umbin[base]N sux:banšur[table]N
+dcclt/Q000039,OB Nippur Ura 01,237,sux:banšurzaggula[table]N
+dcclt/Q000039,OB Nippur Ura 01,238,sux:banšur[table]N sux:zagŋara[shrine]N
+dcclt/Q000039,OB Nippur Ura 01,239,sux:kaŋeškarak[table]N
+dcclt/Q000039,OB Nippur Ura 01,240,sux:kaŋeškarak[table]N sux:zu[tooth]N sux:amsi[elephant]N sux:sig[put]V/t
+dcclt/Q000039,OB Nippur Ura 01,241,sux:maštakda[wooden-object]N
+dcclt/Q000039,OB Nippur Ura 01,242,sux:emerah[jug]N
+dcclt/Q000039,OB Nippur Ura 01,243,sux:emerah[jug]N sux:ga[milk]N
+dcclt/Q000039,OB Nippur Ura 01,244,sux:emerah[jug]N
+dcclt/Q000039,OB Nippur Ura 01,245,sux:murzanum[wooden-object]N
+dcclt/Q000039,OB Nippur Ura 01,246,sux:kuŋ[stair]N
+dcclt/Q000039,OB Nippur Ura 01,247,sux:kuŋ[stair]N sux:bad[wall]N
+dcclt/Q000039,OB Nippur Ura 01,248,sux:kuŋ[stair]N sux:galam[staircase]N sux:si[fill]V/t
+dcclt/Q000039,OB Nippur Ura 01,250,sux:u[planking]N sux:kuŋ[stair]N
+dcclt/Q000039,OB Nippur Ura 01,251,sux:suku[pole]N sux:kuŋ[stair]N
+dcclt/Q000039,OB Nippur Ura 01,252,sux:buniŋ[trough]N
+dcclt/Q000039,OB Nippur Ura 01,253,sux:buniŋ[trough]N sux:tur[small]V/i
+dcclt/Q000039,OB Nippur Ura 01,254,sux:buniŋ[trough]N
+dcclt/Q000039,OB Nippur Ura 01,255,sux:naŋa[mortar]N
+dcclt/Q000039,OB Nippur Ura 01,256,sux:naŋa[mortar]N sux:še[barley]N
+dcclt/Q000039,OB Nippur Ura 01,257,sux:naŋa[mortar]N sux:ŋeši[sesame]N
+dcclt/Q000039,OB Nippur Ura 01,258,sux:naŋa[mortar]N sux:esir[bitumen]N sux:ea[~bitumen]N
+dcclt/Q000039,OB Nippur Ura 01,259,sux:tukul[weapon]N sux:naŋasikaz[pestle]N
+dcclt/Q000039,OB Nippur Ura 01,260,sux:ŋešgana[pestle]N
+dcclt/Q000039,OB Nippur Ura 01,261,sux:girah[tool]N
+dcclt/Q000039,OB Nippur Ura 01,261a,sux:mete[appropriate-thing]N sux:šidim[builder]N
+dcclt/Q000039,OB Nippur Ura 01,262,sux:emesig[plank]N
+dcclt/Q000039,OB Nippur Ura 01,263,sux:miriza[plank]N
+dcclt/Q000039,OB Nippur Ura 01,264,sux:miriza[plank]N sux:zag[side]N sux:gi[turn]V/i
+dcclt/Q000039,OB Nippur Ura 01,265,sux:ma[ship]N
+dcclt/Q000039,OB Nippur Ura 01,266,sux:magur[barge]N
+dcclt/Q000039,OB Nippur Ura 01,267,sux:ma[ship]N
+dcclt/Q000039,OB Nippur Ura 01,268,sux:ma[ship]N
+dcclt/Q000039,OB Nippur Ura 01,269,sux:maʾu[barge]N
+dcclt/Q000039,OB Nippur Ura 01,270,sux:madala[bundle]N
+dcclt/Q000039,OB Nippur Ura 01,271,sux:ma[ship]N sux:šukud[fisherman]N
+dcclt/Q000039,OB Nippur Ura 01,272,sux:ma[ship]N sux:peš[thick]V/i
+dcclt/Q000039,OB Nippur Ura 01,273,sux:ma[ship]N sux:šu[hand]N sux:gi[turn]V/i
+dcclt/Q000039,OB Nippur Ura 01,273a,sux:ma[ship]N
+dcclt/Q000039,OB Nippur Ura 01,274,sux:ma[ship]N
+dcclt/Q000039,OB Nippur Ura 01,275,sux:ma[ship]N sux:su[sink]V/t
+dcclt/Q000039,OB Nippur Ura 01,276,sux:ma[ship]N sux:dim[post]N sux:dug[speak]V/t
+dcclt/Q000039,OB Nippur Ura 01,277,sux:ma[ship]N
+dcclt/Q000039,OB Nippur Ura 01,278,sux:ma[ship]N sux:du[spread]V/t
+dcclt/Q000039,OB Nippur Ura 01,279,sux:ma[ship]N sux:ŋeš[sixty]NU sux:gur[unit]N
+dcclt/Q000039,OB Nippur Ura 01,280,sux:ma[ship]N sux:ninnu[fifty]NU sux:gur[unit]N
+dcclt/Q000039,OB Nippur Ura 01,281,sux:ma[ship]N sux:nimin[forty]NU sux:gur[unit]N
+dcclt/Q000039,OB Nippur Ura 01,282,sux:ma[ship]N sux:ušu[thirty]NU sux:gur[unit]N
+dcclt/Q000039,OB Nippur Ura 01,283,sux:ma[ship]N sux:niš[twenty]NU sux:gur[unit]N
+dcclt/Q000039,OB Nippur Ura 01,284,sux:ma[ship]N sux:gur[unit]N
+dcclt/Q000039,OB Nippur Ura 01,285,sux:ma[ship]N sux:u[ten]NU sux:gur[unit]N
+dcclt/Q000039,OB Nippur Ura 01,286,sux:ma[ship]N sux:ya[five]NU sux:gur[unit]N
+dcclt/Q000039,OB Nippur Ura 01,287,sux:ma[ship]N sux:tur[small]V/i
 dcclt/Q000039,OB Nippur Ura 01,288,
 dcclt/Q000039,OB Nippur Ura 01,289,
-dcclt/Q000039,OB Nippur Ura 01,290,sux:{ŋeš}ma₂-gur₈=magur[barge//barge]N'N$magur/{ŋeš}ma₂-gur₈
-dcclt/Q000039,OB Nippur Ura 01,291,sux:{ŋeš}ma₂-gur₈=magur[barge//barge]N'N$magur/{ŋeš}ma₂-gur₈
+dcclt/Q000039,OB Nippur Ura 01,290,sux:magur[barge]N
+dcclt/Q000039,OB Nippur Ura 01,291,sux:magur[barge]N
 dcclt/Q000039,OB Nippur Ura 01,292,
 dcclt/Q000039,OB Nippur Ura 01,293,
 dcclt/Q000039,OB Nippur Ura 01,294,
-dcclt/Q000039,OB Nippur Ura 01,294a,
-dcclt/Q000039,OB Nippur Ura 01,294b,sux:{ŋeš}ma₂=ma[ship//ship;-boat]N'N$ma/{ŋeš}ma₂ sux:nu-ri=nurum[light//light]N'N$nurum/nu-ri
+dcclt/Q000039,OB Nippur Ura 01,294a,sux:banda[junior]V/i
+dcclt/Q000039,OB Nippur Ura 01,294b,sux:ma[ship]N sux:nurum[light]N
 dcclt/Q000039,OB Nippur Ura 01,295,
-dcclt/Q000039,OB Nippur Ura 01,296,sux:{ŋeš}ma₂=ma[ship//ship;-boat]N'N$ma/{ŋeš}ma₂
-dcclt/Q000039,OB Nippur Ura 01,297,sux:{ŋeš}u₃=u[planking//planking]N'N$u/{ŋeš}u₃ sux:ma₂=ma[ship//ship;-boat]N'N$ma/ma₂
-dcclt/Q000039,OB Nippur Ura 01,298,sux:{ŋeš}e₂-ma₂=ema[cabin//boat-cabin]N'N$ema/{ŋeš}e₂-ma₂
-dcclt/Q000039,OB Nippur Ura 01,299,sux:{ŋeš}si=si[horn//horn]N'N$si/{ŋeš}si sux:ma₂=ma[ship//ship;-boat]N'N$ma/ma₂
-dcclt/Q000039,OB Nippur Ura 01,300,sux:{ŋeš}anše=anše[equid//equid;-donkey]N'N$anše/{ŋeš}anše sux:ma₂=ma[ship//ship;-boat]N'N$ma/ma₂
-dcclt/Q000039,OB Nippur Ura 01,301,sux:{ŋeš}dim=dim[post//post]N'N$dim/{ŋeš}dim sux:ma₂=ma[ship//ship;-boat]N'N$ma/ma₂
-dcclt/Q000039,OB Nippur Ura 01,302,sux:{ŋeš}dib=dib[board//board]N'N$dib/{ŋeš}dib sux:ma₂=ma[ship//ship;-boat]N'N$ma/ma₂
-dcclt/Q000039,OB Nippur Ura 01,303,sux:{ŋeš}saŋ=saŋ[head//head]N'N$saŋ/{ŋeš}saŋ sux:ma₂=ma[ship//ship;-boat]N'N$ma/ma₂
-dcclt/Q000039,OB Nippur Ura 01,304,sux:zi-pa-ah=zipah[unit//unit]N'N$zipah/zi-pa-ah sux:ma₂=ma[ship//ship;-boat]N'N$ma/ma₂
-dcclt/Q000039,OB Nippur Ura 01,305,sux:{ŋeš}egir=egir[back//back;-rear]N'N$egir/{ŋeš}egir sux:ma₂=ma[ship//ship;-boat]N'N$ma/ma₂
-dcclt/Q000039,OB Nippur Ura 01,306,sux:ma₂=ma[ship//ship;-boat]N'N$ma/ma₂
-dcclt/Q000039,OB Nippur Ura 01,307,sux:{ŋeš}ma₂-addir=maʾaddir[ferryboat//ferryboat]N'N$maʾaddir/{ŋeš}ma₂-addir
-dcclt/Q000039,OB Nippur Ura 01,307a,sux:{ŋeš}ma₂=ma[ship//ship;-boat]N'N$ma/{ŋeš}ma₂ sux:lugal=lugal[king//king]N'N$lugal/lugal
-dcclt/Q000039,OB Nippur Ura 01,308,sux:{ŋeš}ma₂-du₃=madu[~boat//a-part-of-a-boat]N'N$madu/{ŋeš}ma₂-du₃
-dcclt/Q000039,OB Nippur Ura 01,309,sux:{ŋeš}zag=zag[side//side]N'N$zag/{ŋeš}zag sux:ma₂-du₃=madu[~boat//a-part-of-a-boat]N'N$madu/ma₂-du₃
-dcclt/Q000039,OB Nippur Ura 01,310,sux:ma₂-du₃=madu[~boat//a-part-of-a-boat]N'N$madu/ma₂-du₃
-dcclt/Q000039,OB Nippur Ura 01,310a,sux:ma₂-du₃=madu[~boat//a-part-of-a-boat]N'N$madu/ma₂-du₃
-dcclt/Q000039,OB Nippur Ura 01,311,sux:ma₂-du₃=madu[~boat//a-part-of-a-boat]N'N$madu/ma₂-du₃
-dcclt/Q000039,OB Nippur Ura 01,312,sux:{ŋeš}targul=targul[pole//mooring-pole]N'N$targul/{ŋeš}targul
-dcclt/Q000039,OB Nippur Ura 01,313,sux:targul=targul[pole//mooring-pole]N'N$targul/targul
-dcclt/Q000039,OB Nippur Ura 01,314,sux:{ŋeš}zi-gan=zigan[rudder//rudder]N'N$zigan/{ŋeš}zi-gan
-dcclt/Q000039,OB Nippur Ura 01,315,sux:{ŋeš}dilim₂=dilim[spoon//spoon]N'N$dilim/{ŋeš}dilim₂ sux:zi-gan=zigan[rudder//rudder]N'N$zigan/zi-gan
-dcclt/Q000039,OB Nippur Ura 01,316,sux:zi-gan=zigan[rudder//rudder]N'N$zigan/zi-gan
-dcclt/Q000039,OB Nippur Ura 01,317,sux:{ŋeš}an-ti-bal=antibal[sign//sign]N'N$antibal/{ŋeš}an-ti-bal
-dcclt/Q000039,OB Nippur Ura 01,318,sux:{ŋeš}zi-in-hur=zinhur[~ship//a-designation-of-ships]N'N$zinhur/{ŋeš}zi-in-hur
-dcclt/Q000039,OB Nippur Ura 01,319,sux:{ŋeš}gag=gag[nail//peg;-nail]N'N$gag/{ŋeš}gag
-dcclt/Q000039,OB Nippur Ura 01,320,sux:{ŋeš}ir=ir[peg//peg]N'N$ir/{ŋeš}ir
-dcclt/Q000039,OB Nippur Ura 01,321,sux:{ŋeš}eškiri₂=eškiri[rope//nose-rope;-tether]N'N$eškiri/{ŋeš}eškiri₂
-dcclt/Q000039,OB Nippur Ura 01,322,sux:{ŋeš}gag=gag[nail//peg;-nail]N'N$gag/{ŋeš}gag sux:eškiri₂=eškiri[rope//nose-rope;-tether]N'N$eškiri/eškiri₂
-dcclt/Q000039,OB Nippur Ura 01,323,sux:{ŋeš}šibir=šibir[staff//shepherd´s-staff]N'N$šibir/{ŋeš}šibir
-dcclt/Q000039,OB Nippur Ura 01,324,sux:{ŋeš}gag=gag[nail//peg;-nail]N'N$gag/{ŋeš}gag sux:šibir=šibir[staff//shepherd´s-staff]N'N$šibir/šibir
-dcclt/Q000039,OB Nippur Ura 01,325,sux:{ŋeš}kab-bar=gabar[herder//herder;-shepherd-boy]N'N$gabar/{ŋeš}kab-bar
-dcclt/Q000039,OB Nippur Ura 01,326,sux:{ŋeš}gigir=gigir[chariot//chariot]N'N$gigir/{ŋeš}gigir
-dcclt/Q000039,OB Nippur Ura 01,327,sux:{ŋeš}e₂=e[house//house]N'N$e/{ŋeš}e₂ sux:gigir=gigir[chariot//chariot]N'N$gigir/gigir
-dcclt/Q000039,OB Nippur Ura 01,328,sux:{ŋeš}e₂=e[house//house]N'N$e/{ŋeš}e₂ sux:usan₃=usan[whip//whip]N'N$usan/usan₃ sux:gigir=gigir[chariot//chariot]N'N$gigir/gigir
-dcclt/Q000039,OB Nippur Ura 01,329,sux:gigir=gigir[chariot//chariot]N'N$gigir/gigir
-dcclt/Q000039,OB Nippur Ura 01,330,sux:{ŋeš}kun=kun[tail//tail]N'N$kun/{ŋeš}kun sux:gigir=gigir[chariot//chariot]N'N$gigir/gigir
-dcclt/Q000039,OB Nippur Ura 01,331,sux:{ŋeš}GUL=GUL[~chariot//a-designation-of-chariots]N'N$GUL/{ŋeš}GUL sux:gigir=gigir[chariot//chariot]N'N$gigir/gigir
-dcclt/Q000039,OB Nippur Ura 01,331a,sux:ki-en-du=kindu[earth//earth]N'N$kindu/ki-en-du sux:gigir=gigir[chariot//chariot]N'N$gigir/gigir
-dcclt/Q000039,OB Nippur Ura 01,332,sux:{ŋeš}sahar-gi₄=sahargi[dust-guard//dust-guard]N'N$sahargi/{ŋeš}sahar-gi₄ sux:gigir=gigir[chariot//chariot]N'N$gigir/gigir
-dcclt/Q000039,OB Nippur Ura 01,333,sux:{ŋeš}su-din=sudin[~chariot//a-part-of-a-chariot]N'N$sudin/{ŋeš}su-din sux:gigir=gigir[chariot//chariot]N'N$gigir/gigir
-dcclt/Q000039,OB Nippur Ura 01,334,sux:{ŋeš}su-lum-mar=sulummar[rope//rope]N'N$sulummar/{ŋeš}su-lum-mar sux:gigir=gigir[chariot//chariot]N'N$gigir/gigir
-dcclt/Q000039,OB Nippur Ura 01,335,sux:{ŋeš}saŋ-kul=saŋkul[bolt//bolt]N'N$saŋkul/{ŋeš}saŋ-kul sux:gigir=gigir[chariot//chariot]N'N$gigir/gigir
-dcclt/Q000039,OB Nippur Ura 01,336,sux:{ŋeš}saŋ-dur₂=saŋdur[seat//seat]N'N$saŋdur/{ŋeš}saŋ-dur₂ sux:gigir=gigir[chariot//chariot]N'N$gigir/gigir
-dcclt/Q000039,OB Nippur Ura 01,337,sux:{ŋeš}ŋir₃-gub=ŋirigub[footstool//footstool]N'N$ŋirigub/{ŋeš}ŋiri₃-gub sux:gigir=gigir[chariot//chariot]N'N$gigir/gigir
-dcclt/Q000039,OB Nippur Ura 01,338,sux:{ŋeš}mud=mud[tube//tube;-socket]N'N$mud/{ŋeš}mud sux:gigir=gigir[chariot//chariot]N'N$gigir/gigir
-dcclt/Q000039,OB Nippur Ura 01,339,sux:{ŋeš}gag=gag[nail//peg;-nail]N'N$gag/{ŋeš}gag sux:mud=mud[tube//tube;-socket]N'N$mud/mud sux:gigir=gigir[chariot//chariot]N'N$gigir/gigir
-dcclt/Q000039,OB Nippur Ura 01,340,sux:{ŋeš}šudul=šudul[yoke//yoke]N'N$šudul/{ŋeš}šu₂-dul₄ sux:gigir=gigir[chariot//chariot]N'N$gigir/gigir
-dcclt/Q000039,OB Nippur Ura 01,341,sux:{ŋeš}gag=gag[nail//peg;-nail]N'N$gag/{ŋeš}gag sux:šudul=šudul[yoke//yoke]N'N$šudul/šudul sux:gigir=gigir[chariot//chariot]N'N$gigir/gigir
-dcclt/Q000039,OB Nippur Ura 01,342,sux:{ŋeš}umbin=umbin[wheel//wheel]N'N$umbin/{ŋeš}umbin sux:gigir=gigir[chariot//chariot]N'N$gigir/gigir
-dcclt/Q000039,OB Nippur Ura 01,343,sux:{ŋeš}gag=gag[nail//peg;-nail]N'N$gag/{ŋeš}gag sux:umbin=umbin[wheel//wheel]N'N$umbin/umbin sux:gigir=gigir[chariot//chariot]N'N$gigir/gigir
-dcclt/Q000039,OB Nippur Ura 01,344,sux:{ŋeš}si=si[horn//horn]N'N$si/{ŋeš}si sux:gigir=gigir[chariot//chariot]N'N$gigir/gigir
-dcclt/Q000039,OB Nippur Ura 01,345,sux:{ŋeš}gaba=gaba[chest//chest]N'N$gaba/{ŋeš}gaba sux:gigir=gigir[chariot//chariot]N'N$gigir/gigir
-dcclt/Q000039,OB Nippur Ura 01,346,sux:{ŋeš}gaba-ŋal₂=gabaŋal[guard//front-guard-of-a-chariot]N'N$gabaŋal/{ŋeš}gaba-ŋal₂ sux:gigir=gigir[chariot//chariot]N'N$gigir/gigir
-dcclt/Q000039,OB Nippur Ura 01,347,sux:{ŋeš}usan₃=usan[whip//whip]N'N$usan/{ŋeš}usan₃
-dcclt/Q000039,OB Nippur Ura 01,348,sux:{ŋeš}usan₃=usan[whip//whip]N'N$usan/{ŋeš}usan₃
-dcclt/Q000039,OB Nippur Ura 01,349,sux:{ŋeš}eme=eme[tongue//tongue]N'N$eme/{ŋeš}eme sux:usan₃=usan[whip//whip]N'N$usan/usan₃
-dcclt/Q000039,OB Nippur Ura 01,350,sux:usan₃=usan[whip//whip]N'N$usan/usan₃
-dcclt/Q000039,OB Nippur Ura 01,351,sux:{ŋeš}gag-sal₄=gagsila[harness//harness]N'N$gagsila/{ŋeš}gag-sila₃
-dcclt/Q000039,OB Nippur Ura 01,352,sux:{ŋeš}za-ra=zara[pivot//pivot]N'N$zara/{ŋeš}za-ra sux:gag-sal₄=gagsila[harness//harness]N'N$gagsila/gag-sal₄
-dcclt/Q000039,OB Nippur Ura 01,353,sux:{ŋeš}umbin=umbin[wheel//wheel]N'N$umbin/{ŋeš}umbin sux:gag-sal₄=gagsila[harness//harness]N'N$gagsila/gag-sal₄
-dcclt/Q000039,OB Nippur Ura 01,353a,sux:gag-sal₄=gagsila[harness//harness]N'N$gagsila/gag-sal₄
-dcclt/Q000039,OB Nippur Ura 01,354,sux:{ŋeš}kišib₃-du₃=DUB.du₃[~vehicle//a-part-of-a-vehicle]N'N$DUB.du₃/{ŋeš}kišib₃-du₃
-dcclt/Q000039,OB Nippur Ura 01,355,sux:{ŋeš}kišib₃-du₃=DUB.du₃[~vehicle//a-part-of-a-vehicle]N'N$DUB.du₃/{ŋeš}kišib₃-du₃
-dcclt/Q000039,OB Nippur Ura 01,356,sux:{ŋeš}kišib₃-du₃=DUB.du₃[~vehicle//a-part-of-a-vehicle]N'N$DUB.du₃/{ŋeš}kišib₃-du₃ sux:šag₄-ga=šag[heart//in;-inside]N'N$šag;ak/šag₄±-ga=g.a
-dcclt/Q000039,OB Nippur Ura 01,357,sux:{ŋeš}mar-gid₂-da=margida[cart//cart;-wagon]N'N$margida/{ŋeš}mar-gid₂-da
-dcclt/Q000039,OB Nippur Ura 01,357a,sux:{ŋeš}mar-gid₂-da-x=margida[cart//cart;-wagon]N'N$margida;x/{ŋeš}mar-gid₂-da
-dcclt/Q000039,OB Nippur Ura 01,358,sux:{ŋeš}gu-za=guza[chair//chair]N'N$guza/{ŋeš}gu-za sux:mar-gid₂-da=margida[cart//cart;-wagon]N'N$margida/mar-gid₂-da
-dcclt/Q000039,OB Nippur Ura 01,359,sux:{ŋeš}za-ra=zara[pivot//pivot]N'N$zara/{ŋeš}za-ra sux:mar-gid₂-da=margida[cart//cart;-wagon]N'N$margida/mar-gid₂-da
-dcclt/Q000039,OB Nippur Ura 01,360,sux:{ŋeš}gag=gag[nail//peg;-nail]N'N$gag/{ŋeš}gag sux:za-ra=zara[pivot//pivot]N'N$zara/za-ra sux:mar-gid₂-da=margida[cart//cart;-wagon]N'N$margida/mar-gid₂-da
-dcclt/Q000039,OB Nippur Ura 01,361,sux:{ŋeš}saŋ-kul=saŋkul[bolt//bolt]N'N$saŋkul/{ŋeš}saŋ-kul sux:mar-gid₂-da=margida[cart//cart;-wagon]N'N$margida/mar-gid₂-da
-dcclt/Q000039,OB Nippur Ura 01,362,sux:{ŋeš}saŋ-dur₂=saŋdur[seat//seat]N'N$saŋdur/{ŋeš}saŋ-dur₂ sux:mar-gid₂-da=margida[cart//cart;-wagon]N'N$margida/mar-gid₂-da
-dcclt/Q000039,OB Nippur Ura 01,363,sux:{ŋeš}ŋir₃-gub=ŋirigub[footstool//footstool]N'N$ŋirigub/{ŋeš}ŋiri₃-gub sux:mar-gid₂-da=margida[cart//cart;-wagon]N'N$margida/mar-gid₂-da
-dcclt/Q000039,OB Nippur Ura 01,364,sux:{ŋeš}mud=mud[stump//stump]N'N$mud/{ŋeš}mud sux:mar-gid₂-da=margida[cart//cart;-wagon]N'N$margida/mar-gid₂-da
-dcclt/Q000039,OB Nippur Ura 01,365,sux:{ŋeš}gag=gag[nail//peg;-nail]N'N$gag/{ŋeš}gag sux:mud=mud[tube//tube;-socket]N'N$mud/mud sux:mar-gid₂-da=margida[cart//cart;-wagon]N'N$margida/mar-gid₂-da
-dcclt/Q000039,OB Nippur Ura 01,366,sux:{ŋeš}šudul₄=šudul[yoke//yoke]N'N$šudul/{ŋeš}šudul₄ sux:mar-gid₂-da=margida[cart//cart;-wagon]N'N$margida/mar-gid₂-da
-dcclt/Q000039,OB Nippur Ura 01,367,sux:{ŋeš}gag=gag[nail//peg;-nail]N'N$gag/{ŋeš}gag sux:šudul₄=šudul[yoke//yoke]N'N$šudul/šudul₄ sux:mar-gid₂-da=margida[cart//cart;-wagon]N'N$margida/mar-gid₂-da
-dcclt/Q000039,OB Nippur Ura 01,368,sux:{ŋeš}umbin=umbin[wheel//wheel]N'N$umbin/{ŋeš}umbin sux:mar-gid₂-da=margida[cart//cart;-wagon]N'N$margida/mar-gid₂-da
-dcclt/Q000039,OB Nippur Ura 01,369,sux:{ŋeš}gag=gag[nail//peg;-nail]N'N$gag/{ŋeš}gag sux:umbin=umbin[wheel//wheel]N'N$umbin/umbin sux:mar-gid₂-da=margida[cart//cart;-wagon]N'N$margida/mar-gid₂-da
-dcclt/Q000039,OB Nippur Ura 01,370,sux:{ŋeš}u₄-sakar=usakar[moon//moon]N'N$usakar/{ŋeš}u₄-sakar sux:mar-gid₂-da=margida[cart//cart;-wagon]N'N$margida/mar-gid₂-da
-dcclt/Q000039,OB Nippur Ura 01,371,sux:{ŋeš}gag=gag[nail//peg;-nail]N'N$gag/{ŋeš}gag sux:u₄-sakar=usakar[moon//moon]N'N$usakar/u₄-sakar sux:mar-gid₂-da=margida[cart//cart;-wagon]N'N$margida/mar-gid₂-da
-dcclt/Q000039,OB Nippur Ura 01,372,sux:{ŋeš}nam-ha-ru-um=manhara[vessel//vessel]N'N$manhara/{ŋeš}nam-ha-ru-um sux:mar-gid₂-da=margida[cart//cart;-wagon]N'N$margida/mar-gid₂-da
-dcclt/Q000039,OB Nippur Ura 01,373,sux:{ŋeš}en₃-dur=endur[navel?//center]N'N$endur/{ŋeš}en₃-dur sux:mar-gid₂-da=margida[cart//cart;-wagon]N'N$margida/mar-gid₂-da
-dcclt/Q000039,OB Nippur Ura 01,374,sux:{ŋeš}ig=ig[door//door]N'N$ig/{ŋeš}ig
-dcclt/Q000039,OB Nippur Ura 01,375,sux:{ŋeš}ig=ig[door//door]N'N$ig/{ŋeš}ig
-dcclt/Q000039,OB Nippur Ura 01,376,sux:{ŋeš}ig=ig[door//door]N'N$ig/{ŋeš}ig sux:i₃=i[oil//oil]N'N$i/i₃
-dcclt/Q000039,OB Nippur Ura 01,377,sux:{ŋeš}ig=ig[door//door]N'N$ig/{ŋeš}ig sux:i₃=i[oil//oil]N'N$i/i₃
-dcclt/Q000039,OB Nippur Ura 01,378,sux:{ŋeš}ig=ig[door//door]N'N$ig/{ŋeš}ig sux:li=leʾum[board//writing-board]N'N$leʾum/li
-dcclt/Q000039,OB Nippur Ura 01,379,sux:{ŋeš}ig=ig[door//door]N'N$ig/{ŋeš}ig sux:dib=dib[board//board]N'N$dib/dib
-dcclt/Q000039,OB Nippur Ura 01,380,sux:{ŋeš}ig=ig[door//door]N'N$ig/{ŋeš}ig sux:suh₄=sah[mat//mat]N'N$sah/sah
-dcclt/Q000039,OB Nippur Ura 01,380a,sux:{ŋeš}ig=ig[door//door]N'N$ig/{ŋeš}ig sux:pa-pah=papah[cella//cella]N'N$papah/pa-pah
-dcclt/Q000039,OB Nippur Ura 01,380b,sux:{ŋeš}ig=ig[door//door]N'N$ig/{ŋeš}ig
-dcclt/Q000039,OB Nippur Ura 01,381,sux:{ŋeš}ig=ig[door//door]N'N$ig/{ŋeš}ig sux:maš-tab-ba=maštab[twin//twin]N'N$maštab;bi.ak/maš-tab
-dcclt/Q000039,OB Nippur Ura 01,382,sux:{ŋeš}ig=ig[door//door]N'N$ig/{ŋeš}ig sux:u₃-ma=uma[triumph//triumph;-victory]N'N$uma/u₃-ma
-dcclt/Q000039,OB Nippur Ura 01,383,sux:{ŋeš}ig=ig[door//door]N'N$ig/{ŋeš}ig sux:ul-la=ul[fruit//fruit]N'N$ul;a/ul±-la=l.a
-dcclt/Q000039,OB Nippur Ura 01,384,sux:{ŋeš}ig=ig[door//door]N'N$ig/{ŋeš}ig sux:ze₂-na=zena[midrib//midrib-of-datepalm-frond]N'N$zena/ze₂-na
-dcclt/Q000039,OB Nippur Ura 01,385,sux:{ŋeš}ig=ig[door//door]N'N$ig/{ŋeš}ig sux:mi-ri₂-za=miriza[plank//plank;-board]N'N$miriza/mi-ri₂-za
-dcclt/Q000039,OB Nippur Ura 01,386,sux:{ŋeš}ig=ig[door//door]N'N$ig/{ŋeš}ig sux:kan₄=kan[gate//gate]N'N$kan/kan₄ sux:tilla₂=tilla[street//street]N'N$tilla/tilla₂
-dcclt/Q000039,OB Nippur Ura 01,387,sux:{ŋeš}ig=ig[door//door]N'N$ig/{ŋeš}ig sux:kan₄=kan[gate//gate]N'N$kan/kan₄ sux:e₂-gal-la=egal[palace//palace]N'N$egal;ak/e₂-gal±-la=l.a
-dcclt/Q000039,OB Nippur Ura 01,388,sux:{ŋeš}suku₅=suku[pole//pole]N'N$suku/{ŋeš}suku₅ sux:ig=ig[door//door]N'N$ig/ig
-dcclt/Q000039,OB Nippur Ura 01,389,sux:{ŋeš}u₃=u[planking//planking]N'N$u/{ŋeš}u₃ sux:ig=ig[door//door]N'N$ig/ig
-dcclt/Q000039,OB Nippur Ura 01,390,sux:{ŋeš}u₄-sakar=usakar[moon//moon]N'N$usakar/{ŋeš}u₄-sakar sux:ig=ig[door//door]N'N$ig/ig
-dcclt/Q000039,OB Nippur Ura 01,391,sux:{ŋeš}bar-da₃=barda[crossbar//crossbar]N'N$barda/{ŋeš}bar-da₃ sux:ig=ig[door//door]N'N$ig/ig
-dcclt/Q000039,OB Nippur Ura 01,392,sux:{ŋeš}dun₃-la₂=dula[depth//depth]N'N$dula/{ŋeš}dun₃-la₂ sux:ig=ig[door//door]N'N$ig/ig
-dcclt/Q000039,OB Nippur Ura 01,393,sux:{ŋeš}ir=ir[peg//peg]N'N$ir/{ŋeš}ir sux:ig=ig[door//door]N'N$ig/ig
-dcclt/Q000039,OB Nippur Ura 01,394,sux:{ŋeš}suhub₄=suhub[bolt//door-bolt;-bar]N'N$suhub/{ŋeš}suhub₄ sux:ig=ig[door//door]N'N$ig/ig
-dcclt/Q000039,OB Nippur Ura 01,394a,sux:{ŋeš}|ŠU.DI|=suhub[bolt//door-bolt;-bar]N'N$suhub/{ŋeš}|ŠU.DI|
-dcclt/Q000039,OB Nippur Ura 01,394b,sux:{ŋeš}šu-ga=šugi[bolt//bolt]N'N$šugi/{ŋeš}šu-ga
-dcclt/Q000039,OB Nippur Ura 01,395,sux:{ŋeš}nu-kuš₂-u₃=nukušu[~door//a-door-fitting]N'N$nukušu/{ŋeš}nu-kuš₂-u₃
-dcclt/Q000039,OB Nippur Ura 01,396,sux:{ŋeš}nu-kuš₂-u₃=nukušu[~door//a-door-fitting]N'N$nukušu/{ŋeš}nu-kuš₂-u₃
-dcclt/Q000039,OB Nippur Ura 01,397,sux:{ŋeš}nu-kuš₂-u₃=nukušu[~door//a-door-fitting]N'N$nukušu/{ŋeš}nu-kuš₂-u₃
-dcclt/Q000039,OB Nippur Ura 01,398,sux:{ŋeš}saŋ-kul=saŋkul[bolt//bolt]N'N$saŋkul/{ŋeš}saŋ-kul
-dcclt/Q000039,OB Nippur Ura 01,399,sux:{ŋeš}saŋ-kul=saŋkul[bolt//bolt]N'N$saŋkul/{ŋeš}saŋ-kul
-dcclt/Q000039,OB Nippur Ura 01,400,sux:{ŋeš}eš₂=eš[rope//rope]N'N$eš/{ŋeš}eš₂ sux:saŋ-kul=saŋkul[bolt//bolt]N'N$saŋkul/saŋ-kul
-dcclt/Q000039,OB Nippur Ura 01,401,sux:{ŋeš}saŋ-kul=saŋkul[bolt//bolt]N'N$saŋkul/{ŋeš}saŋ-kul
-dcclt/Q000039,OB Nippur Ura 01,402,sux:{ŋeš}si-ŋar=siŋar[bolt//bolt]N'N$siŋar/{ŋeš}si-ŋar
-dcclt/Q000039,OB Nippur Ura 01,403,sux:{ŋeš}gag=gag[nail//peg;-nail]N'N$gag/{ŋeš}gag sux:si-ŋar=siŋar[bolt//bolt]N'N$siŋar/si-ŋar
-dcclt/Q000039,OB Nippur Ura 01,404,sux:{ŋeš}si-ŋar=siŋar[bolt//bolt]N'N$siŋar/{ŋeš}si-ŋar sux:gu₂-e₃-a=guʾe[textile//textile]N'N$guʾe;ak/gu₂-e₃
-dcclt/Q000039,OB Nippur Ura 01,405,sux:{ŋeš}mud=mud[tube//tube;-socket]N'N$mud/{ŋeš}mud
-dcclt/Q000039,OB Nippur Ura 01,406,sux:{ŋeš}gag=gag[nail//peg;-nail]N'N$gag/{ŋeš}gag sux:mud=mud[tube//tube;-socket]N'N$mud/mud
-dcclt/Q000039,OB Nippur Ura 01,407,sux:{ŋeš}šerim(TAG)=šerim[~loom//a-part-of-the-loom]N'N$šerim/{ŋeš}šerim(TAG)
-dcclt/Q000039,OB Nippur Ura 01,408,sux:{ŋeš}|TAG.TUG₂|=šerim[~loom//a-part-of-the-loom]N'N$šerim/{ŋeš}|TAG.TUG₂|
-dcclt/Q000039,OB Nippur Ura 01,409,sux:{ŋeš}kur-ra=kura[~loom//a-designation-of-looms]N'N$kura/{ŋeš}kur-ra
-dcclt/Q000039,OB Nippur Ura 01,410,sux:{ŋeš}nu-ra=nura[~loom//a-part-of-a-loom]N'N$nura/{ŋeš}nu-ra
-dcclt/Q000039,OB Nippur Ura 01,411,sux:{ŋeš}il₂-il₂=ilila[lever//lever]N'N$ilila/{ŋeš}il₂-il₂
-dcclt/Q000039,OB Nippur Ura 01,412,sux:{ŋeš}bar-bar=barbar[shuttle//shuttle]N'N$barbar/{ŋeš}bar-bar
-dcclt/Q000039,OB Nippur Ura 01,413,sux:{ŋeš}tug₂-tug₂=tugtug[~loom//a-designation-of-looms]N'N$tugtug/{ŋeš}tug₂-tug₂
-dcclt/Q000039,OB Nippur Ura 01,414,sux:{ŋeš}niŋ₂-zu=niŋzu[~loom//a-designation-of-looms]N'N$niŋzu/{ŋeš}niŋ₂-zu
-dcclt/Q000039,OB Nippur Ura 01,415,sux:{ŋeš}niŋ₂-gi-na=ŋešgina[~loom//a-part-of-the-loom]N'N$ŋešgina/{ŋeš}niŋ₂-gi-na
-dcclt/Q000039,OB Nippur Ura 01,416,sux:{ŋeš}niŋ₂-menbulug₂(|BULUG&BULUG|)=niŋmenbulug[~loom//a-designation-of-looms]N'N$niŋmenbulug/{ŋeš}niŋ₂-menbulug₂(|BULUG&BULUG|)
-dcclt/Q000039,OB Nippur Ura 01,417,sux:{ŋeš}a₂-šu-du₇=ašita[equipment//equipment]N'N$ašita/{ŋeš}a₂-šu-du₇ sux:tug₂-ga=tug[textile//textile;-garment]N'N$tug;ak/tug₂±-ga=g.a
-dcclt/Q000039,OB Nippur Ura 01,418,sux:{ŋeš}ga-rig₂=garig[comb//comb]N'N$garig/{ŋeš}ga-rig₂
-dcclt/Q000039,OB Nippur Ura 01,419,sux:{ŋeš}ga-rig₂=garig[comb//comb]N'N$garig/{ŋeš}ga-rig₂ sux:siki=siki[hair//hair]N'N$siki/siki
-dcclt/Q000039,OB Nippur Ura 01,420,sux:{ŋeš}ga-rig₂=garig[comb//comb]N'N$garig/{ŋeš}ga-rig₂ sux:saŋ-du=saŋdu[head//head]N'N$saŋdu/saŋ-du
-dcclt/Q000039,OB Nippur Ura 01,421,sux:{ŋeš}ga-rig₂=garig[comb//comb]N'N$garig/{ŋeš}ga-rig₂ sux:pa=pa[branch//branch]N'N$pa/pa sux:mušen=mušen[bird//bird]N'N$mušen/mušen
-dcclt/Q000039,OB Nippur Ura 01,421a,sux:{ŋeš}ga-rig₂=garig[comb//comb]N'N$garig/{ŋeš}ga-rig₂ sux:e₂-pa-na=eban[pair//pair]N'N$eban/e₂-pa-na
-dcclt/Q000039,OB Nippur Ura 01,422,sux:{ŋeš}balak=balak[spindle//spindle]N'N$balak/{ŋeš}balak
-dcclt/Q000039,OB Nippur Ura 01,423,sux:{ŋeš}e₂=e[house//house]N'N$e/{ŋeš}e₂ sux:balak=balak[spindle//spindle]N'N$balak/balak
-dcclt/Q000039,OB Nippur Ura 01,424,sux:{ŋeš}saŋ=saŋ[head//head]N'N$saŋ/{ŋeš}saŋ sux:balak=balak[spindle//spindle]N'N$balak/balak
-dcclt/Q000039,OB Nippur Ura 01,424a,sux:balak=balak[spindle//spindle]N'N$balak/balak
-dcclt/Q000039,OB Nippur Ura 01,425,sux:{ŋeš}me-te=mete[appropriate-thing//appropriate-thing;-ornament]N'N$mete/{ŋeš}me-te sux:balak=balak[spindle//spindle]N'N$balak/balak
-dcclt/Q000039,OB Nippur Ura 01,426,sux:{ŋeš}ellag=ellag[ball//ball]N'N$ellag/{ŋeš}ellag
-dcclt/Q000039,OB Nippur Ura 01,427,sux:ŋeš-ellag=ŋešellag[tool//a-tool]N'N$ŋešellag/ŋeš-ellag
-dcclt/Q000039,OB Nippur Ura 01,428,sux:{ŋeš}ellag=ellag[ball//ball]N'N$ellag/{ŋeš}ellag
-dcclt/Q000039,OB Nippur Ura 01,429,sux:{ŋeš}mudla(BU)=madal[pole//a-pole]N'N$madal/{ŋeš}mudla(BU)
-dcclt/Q000039,OB Nippur Ura 01,430,sux:{ŋeš}madla(BU)=madal[pole//a-pole]N'N$madal/{ŋeš}madla(BU)
-dcclt/Q000039,OB Nippur Ura 01,431,sux:{ŋeš}malla(BU)=malalum[container//a-container]N'N$malalum/{ŋeš}malla(BU)
-dcclt/Q000039,OB Nippur Ura 01,432,sux:{ŋeš}gazinbu(BU)=gazinbu[pole//a-pole;-post]N'N$gazinbu/{ŋeš}gazinbu(BU)
-dcclt/Q000039,OB Nippur Ura 01,433,sux:{ŋeš}sahar-gid₂=sahargid[roller//roller]N'N$sahargid/{ŋeš}sahar-gid₂
-dcclt/Q000039,OB Nippur Ura 01,434,sux:ŋeš-bu=ŋešpu[rim//(circular)-rim]N'N$ŋešpu/ŋeš-bu
-dcclt/Q000039,OB Nippur Ura 01,435,sux:ŋeš-bu=ŋešpu[rim//(circular)-rim]N'N$ŋešpu/ŋeš-bu sux:{gi}ma-an-sim=mansim[sieve//sieve]N'N$mansim/{gi}ma-an-sim
-dcclt/Q000039,OB Nippur Ura 01,435a,sux:{ŋeš}kim₃=kim[willow//willow]N'N$kim/{ŋeš}kim₃ sux:mes=mes[blackness//blackness;-black-spot]N'N$mes/mes
-dcclt/Q000039,OB Nippur Ura 01,436,sux:ŋeš-rin₂=ŋešrin[scales//scales]N'N$ŋešrin/ŋeš-rin₂
-dcclt/Q000039,OB Nippur Ura 01,437,sux:ŋeš-rin₂=ŋešrin[scales//scales]N'N$ŋešrin/ŋeš-rin₂
-dcclt/Q000039,OB Nippur Ura 01,438,sux:ŋeš-rin₂=ŋešrin[scales//scales]N'N$ŋešrin/ŋeš-rin₂ sux:gun=gun[load//load]N'N$gun/gun
-dcclt/Q000039,OB Nippur Ura 01,439,sux:ŋeš-rin₂=ŋešrin[scales//scales]N'N$ŋešrin/ŋeš-rin₂ sux:ma-na=mana[unit//a-unit-of-weight]N'N$mana/ma-na
-dcclt/Q000039,OB Nippur Ura 01,440,sux:{ŋeš}e₂=e[house//house]N'N$e/{ŋeš}e₂ sux:rin₂=ŋešrin[scales//scales]N'N$ŋešrin/rin₂
-dcclt/Q000039,OB Nippur Ura 01,441,sux:{ŋeš}dilim₂=dilim[spoon//spoon]N'N$dilim/{ŋeš}dilim₂ sux:rin₂=ŋešrin[scales//scales]N'N$ŋešrin/rin₂
-dcclt/Q000039,OB Nippur Ura 01,442,sux:{ŋeš}apin=apin[plow//(seed)-plow]N'N$apin/{ŋeš}apin
-dcclt/Q000039,OB Nippur Ura 01,443,sux:{ŋeš}apin=apin[plow//(seed)-plow]N'N$apin/{ŋeš}apin sux:šu=šu[hand//hand]N'N$šu/šu
-dcclt/Q000039,OB Nippur Ura 01,444,sux:{ŋeš}apin=apin[plow//(seed)-plow]N'N$apin/{ŋeš}apin
-dcclt/Q000039,OB Nippur Ura 01,445,sux:{ŋeš}apin=apin[plow//(seed)-plow]N'N$apin/{ŋeš}apin
-dcclt/Q000039,OB Nippur Ura 01,446,sux:{ŋeš}apin=apin[plow//(seed)-plow]N'N$apin/{ŋeš}apin sux:tug₂-sig₁₈=tugsaga[plow//a-plow]N'N$tugsaga/tug₂-saga₁₁
-dcclt/Q000039,OB Nippur Ura 01,447,sux:{ŋeš}apin=apin[plow//(seed)-plow]N'N$apin/{ŋeš}apin sux:saŋ=saŋ[head//front]N'N$saŋ/saŋ
-dcclt/Q000039,OB Nippur Ura 01,448,sux:{ŋeš}apin=apin[plow//(seed)-plow]N'N$apin/{ŋeš}apin sux:gud=gud[ox//bull;-ox]N'N$gud/gud
-dcclt/Q000039,OB Nippur Ura 01,449,sux:{ŋeš}saŋ=saŋ[head//front]N'N$saŋ/{ŋeš}saŋ sux:apin=apin[plow//(seed)-plow]N'N$apin/apin
-dcclt/Q000039,OB Nippur Ura 01,450,sux:{ŋeš}eme=eme[tongue//tongue]N'N$eme/{ŋeš}eme sux:apin=apin[plow//(seed)-plow]N'N$apin/apin
-dcclt/Q000039,OB Nippur Ura 01,451,sux:{ŋeš}ka-šu₂=kašu[~plow//a-part-of-plow]N'N$kašu/{ŋeš}ka-šu₂ sux:apin=apin[plow//(seed)-plow]N'N$apin/apin
-dcclt/Q000039,OB Nippur Ura 01,452,sux:{ŋeš}šu-saŋ=šusaŋ[compressor//compressor]N'N$šusaŋ/{ŋeš}šu-saŋ sux:apin=apin[plow//(seed)-plow]N'N$apin/apin
-dcclt/Q000039,OB Nippur Ura 01,452a,sux:{ŋeš}igi-ŋal₂=igiŋal[~plow//a-designation-of-plows]N'N$igiŋal/{ŋeš}igi-ŋal₂ sux:apin=apin[plow//(seed)-plow]N'N$apin/apin
-dcclt/Q000039,OB Nippur Ura 01,453,sux:{ŋeš}niŋ₂-kud=niŋkud[~plowshare//a-part-of-a-plowshare]N'N$niŋkud/{ŋeš}niŋ₂-kud sux:apin=apin[plow//(seed)-plow]N'N$apin/apin
-dcclt/Q000039,OB Nippur Ura 01,454,sux:{ŋeš}niŋ₂-ŋeštug=niŋŋeštug[~plow//a-designation-of-plows]N'N$niŋŋeštug/{ŋeš}niŋ₂-ŋeštug sux:apin=apin[plow//(seed)-plow]N'N$apin/apin
-dcclt/Q000039,OB Nippur Ura 01,455,sux:{ŋeš}sal-la=sala[~plow//a-designation-of-plows]N'N$sala/{ŋeš}sal-la sux:apin=apin[plow//(seed)-plow]N'N$apin/apin
-dcclt/Q000039,OB Nippur Ura 01,456,sux:{ŋeš}gag=gag[nail//peg;-nail]N'N$gag/{ŋeš}gag sux:sal-la=sala[~plow//a-designation-of-plows]N'N$sala/sal-la sux:apin=apin[plow//(seed)-plow]N'N$apin/apin
-dcclt/Q000039,OB Nippur Ura 01,457,sux:{ŋeš}nig=nig[~plow//a-part-of-a-plow]N'N$nig/{ŋeš}nig sux:apin=apin[plow//(seed)-plow]N'N$apin/apin
-dcclt/Q000039,OB Nippur Ura 01,458,sux:{ŋeš}gag=gag[nail//peg;-nail]N'N$gag/{ŋeš}gag sux:nig=nig[~plow//a-part-of-a-plow]N'N$nig/nig sux:apin=apin[plow//(seed)-plow]N'N$apin/apin
-dcclt/Q000039,OB Nippur Ura 01,459,sux:{ŋeš}šudul=šudul[yoke//yoke]N'N$šudul/{ŋeš}šu₂-dul₄ sux:apin=apin[plow//(seed)-plow]N'N$apin/apin
-dcclt/Q000039,OB Nippur Ura 01,460,sux:{ŋeš}gag=gag[nail//peg;-nail]N'N$gag/{ŋeš}gag sux:šudul=šudul[yoke//yoke]N'N$šudul/šudul sux:apin=apin[plow//(seed)-plow]N'N$apin/apin
-dcclt/Q000039,OB Nippur Ura 01,460a,sux:apin=apin[plow//(seed)-plow]N'N$apin/apin
-dcclt/Q000039,OB Nippur Ura 01,460b,sux:{ŋeš}gag=gag[nail//peg;-nail]N'N$gag/{ŋeš}gag sux:apin=apin[plow//(seed)-plow]N'N$apin/apin
-dcclt/Q000039,OB Nippur Ura 01,461,sux:{ŋeš}da=da[side-board//side-board-(of-a-chariot)]N'N$da/{ŋeš}da sux:apin=apin[plow//(seed)-plow]N'N$apin/apin
-dcclt/Q000039,OB Nippur Ura 01,461a,sux:{ŋeš}a₂=a[arm//arm]N'N$a/{ŋeš}a₂ sux:apin=apin[plow//(seed)-plow]N'N$apin/apin
-dcclt/Q000039,OB Nippur Ura 01,462,sux:apin=apin[plow//(seed)-plow]N'N$apin/apin
-dcclt/Q000039,OB Nippur Ura 01,463,sux:{ŋeš}li=leʾum[board//board-(of-a-plow)]N'N$leʾum/{ŋeš}le sux:apin=apin[plow//(seed)-plow]N'N$apin/apin
-dcclt/Q000039,OB Nippur Ura 01,464,sux:{ŋeš}ninda₂=ninda[seed-funnel//seed-funnel]N'N$ninda/{ŋeš}ninda₂ sux:apin=apin[plow//(seed)-plow]N'N$apin/apin
-dcclt/Q000039,OB Nippur Ura 01,465,sux:{ŋeš}a₂=a[arm//arm]N'N$a/{ŋeš}a₂ sux:gud=gud[ox//bull;-ox]N'N$gud/gud sux:apin=apin[plow//(seed)-plow]N'N$apin/apin
-dcclt/Q000039,OB Nippur Ura 01,466,sux:{ŋeš}an-za-am=anzam[vessel//a-drinking-vessel]N'N$anzam/{ŋeš}an-za-am sux:apin=apin[plow//(seed)-plow]N'N$apin/apin
-dcclt/Q000039,OB Nippur Ura 01,467,sux:{ŋeš}gag=gag[nail//peg;-nail]N'N$gag/{ŋeš}gag sux:sa=sa[sinew//sinew;-tendon]N'N$sa/sa
-dcclt/Q000039,OB Nippur Ura 01,468,sux:{ŋeš}gana₂-ur₃=ŋušur[harrow//harrow]N'N$ŋušur/{ŋeš}gana₂-ur₃
-dcclt/Q000039,OB Nippur Ura 01,469,sux:{ŋeš}gana₂-ur₃=ŋušur[harrow//harrow]N'N$ŋušur/{ŋeš}gana₂-ur₃ sux:sar-ra=sar[garden//garden]N'N$sar;ak/sar±-ra=r.a
-dcclt/Q000039,OB Nippur Ura 01,470,sux:{ŋeš}gana₂-ur₃=ŋušur[harrow//harrow]N'N$ŋušur/{ŋeš}gana₂-ur₃ sux:zu₂=zu[tooth//tooth]N'N$zu/zu₂
-dcclt/Q000039,OB Nippur Ura 01,471,sux:{ŋeš}sa=sa[sinew//sinew;-tendon]N'N$sa/{ŋeš}sa sux:gana₂-ur₃=ŋušur[harrow//harrow]N'N$ŋušur/gana₂-ur₃
-dcclt/Q000039,OB Nippur Ura 01,472,sux:gana₂-ur₃=ŋušur[harrow//harrow]N'N$ŋušur/gana₂-ur₃
-dcclt/Q000039,OB Nippur Ura 01,473,sux:{ŋeš}saŋ=saŋ[head//front]N'N$saŋ/{ŋeš}saŋ sux:gana₂-ur₃=ŋušur[harrow//harrow]N'N$ŋušur/gana₂-ur₃
-dcclt/Q000039,OB Nippur Ura 01,474,sux:{ŋeš}da-an-ga=damga[~plow//a-part-of-a-plow]N'N$damga/{ŋeš}da-an-ga
-dcclt/Q000039,OB Nippur Ura 01,475,sux:{ŋeš}suhur=suhur[tool//a-tool]N'N$suhur/{ŋeš}suhur
-dcclt/Q000039,OB Nippur Ura 01,476,sux:{ŋeš}suhur=suhur[tool//a-tool]N'N$suhur/{ŋeš}suhur sux:gud=gud[ox//bull;-ox]N'N$gud/gud
-dcclt/Q000039,OB Nippur Ura 01,477,sux:{ŋeš}al=al[hoe//hoe;-pickax]N'N$al/{ŋeš}al
-dcclt/Q000039,OB Nippur Ura 01,478,sux:{ŋeš}al=al[hoe//hoe;-pickax]N'N$al/{ŋeš}al sux:zu₂=zu[tooth//tooth]N'N$zu/zu₂
-dcclt/Q000039,OB Nippur Ura 01,479,sux:{ŋeš}al-šub=alšub[tool//tool]N'N$alšub/{ŋeš}al-šub
-dcclt/Q000039,OB Nippur Ura 01,480,sux:{ŋeš}al=al[hoe//hoe;-pickax]N'N$al/{ŋeš}al sux:zu₂=zu[tooth//tooth]N'N$zu/zu₂
-dcclt/Q000039,OB Nippur Ura 01,481,sux:{ŋeš}al=al[hoe//hoe;-pickax]N'N$al/{ŋeš}al sux:zu₂=zu[tooth//tooth]N'N$zu/zu₂
-dcclt/Q000039,OB Nippur Ura 01,482,sux:{ŋeš}al=al[hoe//hoe;-pickax]N'N$al/{ŋeš}al sux:zu₂=zu[tooth//tooth]N'N$zu/zu₂
-dcclt/Q000039,OB Nippur Ura 01,483,sux:{ŋeš}u₃-šub=ušub[brick-mold//brick-mold]N'N$ušub/{ŋeš}u₃-šub
-dcclt/Q000039,OB Nippur Ura 01,484,sux:{ŋeš}u₃-šub=ušub[brick-mold//brick-mold]N'N$ušub/{ŋeš}u₃-šub sux:ab-ba=ab[window//window;-window-opening]N'N$ab;bi.ak/ab
-dcclt/Q000039,OB Nippur Ura 01,485,sux:{ŋeš}u₃-šub=ušub[brick-mold//brick-mold]N'N$ušub/{ŋeš}u₃-šub sux:šeg₁₂=šeg[brick//brick]N'N$šeg/šeg₁₂
-dcclt/Q000039,OB Nippur Ura 01,486,sux:{ŋeš}u₃-šub=ušub[brick-mold//brick-mold]N'N$ušub/{ŋeš}u₃-šub sux:šeg₁₂=šeg[brick//brick]N'N$šeg/šeg₁₂
-dcclt/Q000039,OB Nippur Ura 01,487,sux:{ŋeš}gag=gag[nail//peg;-nail]N'N$gag/{ŋeš}gag sux:du₆=dud[mound//(ruin)-mound]N'N$dud/du₆
-dcclt/Q000039,OB Nippur Ura 01,488,sux:{ŋeš}gag=gag[nail//peg;-nail]N'N$gag/{ŋeš}gag sux:šum₂=šum[garlic//garlic]N'N$šum/šum₂
-dcclt/Q000039,OB Nippur Ura 01,489,sux:{ŋeš}gag=gag[nail//peg;-nail]N'N$gag/{ŋeš}gag sux:šum₂=šum[garlic//garlic]N'N$šum/šum₂
-dcclt/Q000039,OB Nippur Ura 01,490,sux:{ŋeš}gag=gag[nail//peg;-nail]N'N$gag/{ŋeš}gag sux:šum₂=šum[garlic//garlic]N'N$šum/šum₂ sux:šir-dili=širdili[~garlic//a-qualifier-of-garlic]N'N$širdili/šir-dili
-dcclt/Q000039,OB Nippur Ura 01,491,sux:{ŋeš}zi-ri₂-qum=zirigum[irrigation-device//an-irrigation-device]N'N$zirigum/{ŋeš}zi-ri₂-qum
-dcclt/Q000039,OB Nippur Ura 01,492,sux:{ŋeš}gu₂=gu[neck//neck]N'N$gu/{ŋeš}gu₂ sux:zi-ri₂-qum=zirigum[irrigation-device//an-irrigation-device]N'N$zirigum/zi-ri₂-gum
-dcclt/Q000039,OB Nippur Ura 01,493,sux:{ŋeš}nam-nu-tar-re=namnutare[~irrigation//an-irrigation-device]N'N$namnutare/{ŋeš}nam-nu-tar-re
-dcclt/Q000039,OB Nippur Ura 01,494,sux:{ŋeš}|I.LU|=I.LU[~irrigation//an-irrigation-device]N'N$I.LU/{ŋeš}|I.LU|
-dcclt/Q000039,OB Nippur Ura 01,495,sux:{ŋeš}|I.DIB|=I.DIB[~irrigation//an-irrigation-device]N'N$I.DIB/{ŋeš}|I.DIB|
-dcclt/Q000039,OB Nippur Ura 01,496,sux:{ŋeš}tukul=tukul[weapon//weapon]N'N$tukul/{ŋeš}tukul
-dcclt/Q000039,OB Nippur Ura 01,497,sux:{ŋeš}tukul=tukul[weapon//weapon]N'N$tukul/{ŋeš}tukul sux:šu=šu[hand//hand]N'N$šu/šu
-dcclt/Q000039,OB Nippur Ura 01,498,sux:{ŋeš}tukul=tukul[weapon//weapon]N'N$tukul/{ŋeš}tukul sux:ur₂-ra=ur[root//root]N'N$ur;ak/ur₂±-ra=r.a
-dcclt/Q000039,OB Nippur Ura 01,499,sux:{ŋeš}tukul=tukul[weapon//weapon]N'N$tukul/{ŋeš}tukul sux:kun=kun[tail//lizard]N'N$kun/kun
-dcclt/Q000039,OB Nippur Ura 01,500,sux:{ŋeš}mitum=mitum[weapon//weapon]N'N$mitum/{ŋeš}mitum
-dcclt/Q000039,OB Nippur Ura 01,501,sux:{ŋeš}tukul=tukul[weapon//weapon]N'N$tukul/{ŋeš}tukul
-dcclt/Q000039,OB Nippur Ura 01,501a,sux:{ŋeš}tukul=tukul[weapon//weapon]N'N$tukul/{ŋeš}tukul
-dcclt/Q000039,OB Nippur Ura 01,502,sux:{ŋeš}saŋ=saŋ[head//front]N'N$saŋ/{ŋeš}saŋ sux:tukul=tukul[weapon//weapon]N'N$tukul/tukul
-dcclt/Q000039,OB Nippur Ura 01,503,sux:{ŋeš}a-ga=aga[rear//rear]N'N$aga/{ŋeš}a-ga sux:tukul=tukul[weapon//weapon]N'N$tukul/tukul
-dcclt/Q000039,OB Nippur Ura 01,504,sux:{ŋeš}mi-tum=mitum[weapon//weapon]N'N$mitum/{ŋeš}mi-tum
-dcclt/Q000039,OB Nippur Ura 01,505,sux:{ŋeš}mi-tum=mitum[weapon//weapon]N'N$mitum/{ŋeš}mi-tum sux:saŋ=saŋ[head//head]N'N$saŋ/saŋ
-dcclt/Q000039,OB Nippur Ura 01,506,sux:{ŋeš}udug₂=udug[weapon//a-weapon]N'N$udug/{ŋeš}udug₂
-dcclt/Q000039,OB Nippur Ura 01,507,sux:{ŋeš}udug₂=udug[weapon//a-weapon]N'N$udug/{ŋeš}udug₂ sux:saŋ=saŋ[head//head]N'N$saŋ/saŋ
-dcclt/Q000039,OB Nippur Ura 01,508,sux:{ŋeš}dur₂=dur[board//board]N'N$dur/{ŋeš}dur₂
-dcclt/Q000039,OB Nippur Ura 01,509,sux:{ŋeš}dur₂=dur[board//board]N'N$dur/{ŋeš}dur₂ sux:pisaŋ=bisaŋ[basket//basket]N'N$bisaŋ/bisaŋ
-dcclt/Q000039,OB Nippur Ura 01,510,sux:{ŋeš}dur₂=dur[board//board]N'N$dur/{ŋeš}dur₂ sux:ab-ba=ab[window//window;-window-opening]N'N$ab;bi.ak/ab
-dcclt/Q000039,OB Nippur Ura 01,511,sux:{ŋeš}dur₂=dur[board//board]N'N$dur/{ŋeš}dur₂ sux:šeg₁₂=šeg[brick//brick]N'N$šeg/šeg₁₂
-dcclt/Q000039,OB Nippur Ura 01,512,sux:{ŋeš}dur₂=dur[board//board]N'N$dur/{ŋeš}dur₂ sux:šeg₁₂=šeg[brick//brick]N'N$šeg/šeg₁₂
-dcclt/Q000039,OB Nippur Ura 01,513,sux:{ŋeš}dur₂-bi=dur[board//board]N'N$dur;bi/{ŋeš}dur₂ sux:eš-ŋar=ešŋar[part-of-a-loom//part-of-a-loom]N'N$ešŋar/eš-ŋar
-dcclt/Q000039,OB Nippur Ura 01,514,sux:eš-ŋar=ešŋar[part-of-a-loom//part-of-a-loom]N'N$ešŋar/eš-ŋar
-dcclt/Q000039,OB Nippur Ura 01,515,sux:{ŋeš}lid₂-ga=lidga[vessel//a-measuring-vessel]N'N$lidga/{ŋeš}lid₂-ga
-dcclt/Q000039,OB Nippur Ura 01,516,sux:{ŋeš}ba-ri₂-ga=bariga[unit//unit]N'N$bariga/{ŋeš}ba-ri₂-ga
-dcclt/Q000039,OB Nippur Ura 01,517,sux:{ŋeš}ba-an=ban[unit//unit]N'N$ban/{ŋeš}ba-an
-dcclt/Q000039,OB Nippur Ura 01,518,sux:{ŋeš}ba-an=ban[unit//unit]N'N$ban/{ŋeš}ba-an sux:sila₃=sila[unit//unit]N'N$sila/sila₃
-dcclt/Q000039,OB Nippur Ura 01,519,sux:{ŋeš}niŋ₂=niŋ[thing//thing]N'N$niŋ/{ŋeš}niŋ₂ sux:sila₃=sila[unit//unit]N'N$sila/sila₃
-dcclt/Q000039,OB Nippur Ura 01,520,sux:ŋeš=ŋeš[tree//wood]N'N$ŋeš/ŋeš sux:sila₃=sila[unit//unit]N'N$sila/sila₃
-dcclt/Q000039,OB Nippur Ura 01,521,sux:ŋeš=ŋeš[tree//wood]N'N$ŋeš/ŋeš sux:sila₃=sila[unit//unit]N'N$sila/sila₃
-dcclt/Q000039,OB Nippur Ura 01,522,sux:ŋeš=ŋeš[tree//wood]N'N$ŋeš/ŋeš sux:šušana=šušana[fraction//one-third]N'N$šušana/šušana sux:sila₃=sila[unit//unit]N'N$sila/sila₃
-dcclt/Q000039,OB Nippur Ura 01,523,sux:ŋeš=ŋeš[tree//wood]N'N$ŋeš/ŋeš sux:šanabi=šanabi[two-thirds//two-thirds]N'N$šanabi/šanabi sux:sila₃=sila[unit//unit]N'N$sila/sila₃
-dcclt/Q000039,OB Nippur Ura 01,524,sux:ŋeš=ŋeš[tree//wood]N'N$ŋeš/ŋeš sux:giŋ₄=giŋ[unit//a-unit-of-volume]N'N$giŋ/giŋ₄
-dcclt/Q000039,OB Nippur Ura 01,525,sux:ŋeš=ŋeš[tree//wood]N'N$ŋeš/ŋeš sux:giŋ₄=giŋ[unit//a-unit-of-volume]N'N$giŋ/giŋ₄
-dcclt/Q000039,OB Nippur Ura 01,525a,sux:ŋeš=ŋeš[tree//wood]N'N$ŋeš/ŋeš sux:giŋ₄=giŋ[unit//a-unit-of-volume]N'N$giŋ/giŋ₄
-dcclt/Q000039,OB Nippur Ura 01,525b,sux:ŋeš=ŋeš[tree//wood]N'N$ŋeš/ŋeš sux:giŋ₄=giŋ[unit//a-unit-of-volume]N'N$giŋ/giŋ₄
-dcclt/Q000039,OB Nippur Ura 01,526,sux:ŋeš=ŋeš[tree//wood]N'N$ŋeš/ŋeš sux:giŋ₄=giŋ[unit//a-unit-of-volume]N'N$giŋ/giŋ₄
-dcclt/Q000039,OB Nippur Ura 01,527,sux:{ŋeš}sa=sa[net//net]N'N$sa/{ŋeš}sa
-dcclt/Q000039,OB Nippur Ura 01,528,sux:{ŋeš}sa=sa[net//net]N'N$sa/{ŋeš}sa
-dcclt/Q000039,OB Nippur Ura 01,529,sux:{ŋeš}sa=sa[net//net]N'N$sa/{ŋeš}sa
-dcclt/Q000039,OB Nippur Ura 01,530,sux:{ŋeš}sa-ur₃-ra=saʾur[net//a-net]N'N$saʾur;ak/{ŋeš}sa-ur₃±-ra=r.a
-dcclt/Q000039,OB Nippur Ura 01,531,sux:{ŋeš}sa=sa[net//net]N'N$sa/{ŋeš}sa sux:{ŋeš}gi=gi[thicket//reed-thicket]N'N$gi/{ŋeš}gi
-dcclt/Q000039,OB Nippur Ura 01,532,sux:{ŋeš}sa-šu-uš-gal=sašušgal[net//net]N'N$sašušgal/{ŋeš}sa-šu-uš-gal
-dcclt/Q000039,OB Nippur Ura 01,533,sux:{ŋeš}sa-hir=sahir[net//a-net]N'N$sahir/{ŋeš}sa-hir
-dcclt/Q000039,OB Nippur Ura 01,534,sux:{ŋeš}sa-du₃=sadu[net//a-net]N'N$sadu/{ŋeš}sa-du₃
-dcclt/Q000039,OB Nippur Ura 01,535,sux:{ŋeš}sa=sa[net//net]N'N$sa/{ŋeš}sa
-dcclt/Q000039,OB Nippur Ura 01,536,sux:{ŋeš}har-mušen-na=harmušen[snare//bird-snare]N'N$harmušen;ak/{ŋeš}har-mušen±-na=n.a
-dcclt/Q000039,OB Nippur Ura 01,537,sux:{ŋeš}ŋidru=ŋidru[scepter//scepter]N'N$ŋidru/{ŋeš}ŋidru sux:har-mušen-na=harmušen[snare//bird-snare]N'N$harmušen/har-mušen-na
-dcclt/Q000039,OB Nippur Ura 01,538,sux:{ŋeš}gur₂=gur[rim//(circular)-rim]N'N$gur/{ŋeš}gur₂ sux:har-mušen-na=harmušen[snare//bird-snare]N'N$harmušen/har-mušen-na
-dcclt/Q000039,OB Nippur Ura 01,539,sux:{ŋeš}ellaŋ₂-du=ellaŋdu[trap//a-trap]N'N$ellaŋdu/{ŋeš}ellaŋ₂-du
-dcclt/Q000039,OB Nippur Ura 01,540,sux:{ŋeš}ellaŋ₂-du=ellaŋdu[trap//a-trap]N'N$ellaŋdu/{ŋeš}ellaŋ₂-du
-dcclt/Q000039,OB Nippur Ura 01,541,sux:ka-tar-ra=katar[praise//praise]N'N$katar;ak/ka-tar±-ra=r.a
-dcclt/Q000039,OB Nippur Ura 01,541a,
-dcclt/Q000039,OB Nippur Ura 01,543,sux:{ŋeš}igi-ŋal₂=igiŋal[sign//sign;-signal]N'N$igiŋal/{ŋeš}igi-ŋal₂
-dcclt/Q000039,OB Nippur Ura 01,544,sux:{ŋeš}ligima(|IGI.TUR.TUR|)=ligima[shoot//shoot;-sapling]N'N$ligima/{ŋeš}ligima(|IGI.TUR.TUR|)
-dcclt/Q000039,OB Nippur Ura 01,545,sux:{ŋeš}ligima(|IGI.TUR.TUR|)=ligima[shoot//shoot;-sapling]N'N$ligima/{ŋeš}ligima(|IGI.TUR.TUR|)
-dcclt/Q000039,OB Nippur Ura 01,546,sux:{ŋeš}ligima(|IGI.TUR.TUR|)=ligima[shoot//shoot;-sapling]N'N$ligima/{ŋeš}ligima(|IGI.TUR.TUR|)
-dcclt/Q000039,OB Nippur Ura 01,547,sux:{ŋeš}dala₂(|IGI.NI|)=dala[thorn//thorn;-pin;-needle]N'N$dala/{ŋeš}dala₂(|IGI.NI|)
-dcclt/Q000039,OB Nippur Ura 01,547a,sux:{ŋeš}dala₂(|IGI.NI|)=dala[thorn//thorn;-pin;-needle]N'N$dala/{ŋeš}dala₂(|IGI.NI|)
-dcclt/Q000039,OB Nippur Ura 01,548,sux:{ŋeš}šukur=šukur[lance//lance;-spear]N'N$šukur/{ŋeš}šukur
-dcclt/Q000039,OB Nippur Ura 01,549,sux:{ŋeš}za-am-ru-tum=zamrutum[lance//a-lance]N'N$zamrutum/{ŋeš}za-am-ru-tum
-dcclt/Q000039,OB Nippur Ura 01,550,sux:{ŋeš}šu-nir=šunir[emblem//emblem]N'N$šunir/{ŋeš}šu-nir
-dcclt/Q000039,OB Nippur Ura 01,551,sux:{ŋeš}gid₂-da=gida[spear//lance;-spear]N'N$gida/{ŋeš}gid₂-da
-dcclt/Q000039,OB Nippur Ura 01,551a,sux:{ŋeš}lugud₂-da=luguda[object//a-wooden-object]N'N$luguda/{ŋeš}lugud₂-da
-dcclt/Q000039,OB Nippur Ura 01,552,sux:{ŋeš}illar=illar[weapon//a-weapon:-bow?-throwstick?-javelin?]N'N$illar/{ŋeš}illar
-dcclt/Q000039,OB Nippur Ura 01,552a,sux:{ŋeš}illar=illar[weapon//a-weapon:-bow?-throwstick?-javelin?]N'N$illar/{ŋeš}illar sux:šu=šu[hand//hand]N'N$šu/šu sux:lugal=lugal[king//king]N'N$lugal/lugal
-dcclt/Q000039,OB Nippur Ura 01,553,sux:{ŋeš}illar=illar[weapon//a-weapon:-bow?-throwstick?-javelin?]N'N$illar/{ŋeš}illar
-dcclt/Q000039,OB Nippur Ura 01,554,sux:{ŋeš}illar=illar[weapon//a-weapon:-bow?-throwstick?-javelin?]N'N$illar/{ŋeš}illar sux:e-ba-an=eban[pair//pair]N'N$eban/e-ba-an
-dcclt/Q000039,OB Nippur Ura 01,554a,sux:{ŋeš}illar=illar[weapon//a-weapon:-bow?-throwstick?-javelin?]N'N$illar/{ŋeš}illar
-dcclt/Q000039,OB Nippur Ura 01,554b,sux:{ŋeš}illar=illar[weapon//a-weapon:-bow?-throwstick?-javelin?]N'N$illar/{ŋeš}illar
-dcclt/Q000039,OB Nippur Ura 01,554c,sux:illar=illar[weapon//a-weapon:-bow?-throwstick?-javelin?]N'N$illar/illar
-dcclt/Q000039,OB Nippur Ura 01,555,sux:{ŋeš}pana=pana[bow//bow]N'N$pana/{ŋeš}pana
-dcclt/Q000039,OB Nippur Ura 01,556,sux:{ŋeš}e₂-pana=epana[quiver//quiver]N'N$epana/{ŋeš}e₂-pana
-dcclt/Q000039,OB Nippur Ura 01,557,sux:{ŋeš}gag-pan=kakpana[arrow//arrow]N'N$kakpana/{ŋeš}kak-pana
-dcclt/Q000039,OB Nippur Ura 01,558,sux:{ŋeš}gag-si-sa₂=gagsisa[arrow//arrow]N'N$gagsisa/{ŋeš}gag-si-sa₂
-dcclt/Q000039,OB Nippur Ura 01,559,sux:{ŋeš}gag=gag[nail//peg;-nail]N'N$gag/{ŋeš}gag sux:si=si[horn//horn]N'N$si/si
-dcclt/Q000039,OB Nippur Ura 01,560,sux:{ŋeš}eš-ad=esad[trap//trap]N'N$esad/{ŋeš}es₂-ad
-dcclt/Q000039,OB Nippur Ura 01,561,sux:{ŋeš}sa-ad=saʾad[trap?//a-trap?]N'N$saʾad/{ŋeš}sa-ad
-dcclt/Q000039,OB Nippur Ura 01,562,sux:{ŋeš}lib-bi-da=lubi[ax//an-ax]N'N$lubi/{ŋeš}lib-bi-da
-dcclt/Q000039,OB Nippur Ura 01,563,sux:{ŋeš}ha-bu-da=habuda[hoe//hoe;-ax]N'N$habuda/{ŋeš}ha-bu-da
-dcclt/Q000039,OB Nippur Ura 01,564,sux:{ŋeš}igi-ŋal₂=igiŋal[weapon//a-weapon]N'N$igiŋal/{ŋeš}igi-ŋal₂
-dcclt/Q000039,OB Nippur Ura 01,565,sux:{ŋeš}giŋ₄=giŋ[ax//ax;-adze]N'N$giŋ/{ŋeš}giŋ₄
-dcclt/Q000039,OB Nippur Ura 01,566,sux:{ŋeš}giŋ₄-sal=giŋsal[hoe//a-hoe]N'N$giŋsal/{ŋeš}giŋ₄-sal
-dcclt/Q000039,OB Nippur Ura 01,567,sux:{ŋeš}aga=aga[ax//an-ax]N'N$aga/{ŋeš}aga
-dcclt/Q000039,OB Nippur Ura 01,568,sux:{ŋeš}aga-DUN₃@g-ma=aga.DUN₃@g.ma[ax//an-ax]N'N$aga.DUN₃@g.ma/{ŋeš}aga-DUN₃@g-ma
-dcclt/Q000039,OB Nippur Ura 01,569,sux:{ŋeš}aga-silig-ga=agasilig[ax//an-ax]N'N$agasilig;ak/{ŋeš}aga-silig±-ga=g.a
-dcclt/Q000039,OB Nippur Ura 01,570,sux:{ŋeš}aga=aga[ax//an-ax]N'N$aga/{ŋeš}aga sux:a₂-aš-ŋar=aʾašŋar[ax//an-ax]N'N$aʾašŋar/a₂-aš-ŋar
-dcclt/Q000039,OB Nippur Ura 01,571,sux:{ŋeš}kuš₃-e-dim₂=kušedim[tool//a-type-of-tool]N'N$kušedim/{ŋeš}kuš₃-e-dim₂
-dcclt/Q000039,OB Nippur Ura 01,572,sux:a₂-ŋar=aʾašŋar[ax//an-ax]N'N$aʾašŋar/a₂-ŋar
-dcclt/Q000039,OB Nippur Ura 01,573,sux:tukul=tukul[weapon//weapon]N'N$tukul/tukul
-dcclt/Q000039,OB Nippur Ura 01,574,sux:{ŋeš}gi₂-dim=gidim[fork//hay-fork]N'N$gidim/{ŋeš}gi₂-dim
-dcclt/Q000039,OB Nippur Ura 01,575,sux:{ŋeš}gi₂-dim=gidim[fork//hay-fork]N'N$gidim/{ŋeš}gi₂-dim
-dcclt/Q000039,OB Nippur Ura 01,576,sux:{ŋeš}u₄-sakar=usakar[moon//moon]N'N$usakar/{ŋeš}u₄-sakar
-dcclt/Q000039,OB Nippur Ura 01,577,sux:{ŋeš}gag=gag[nail//peg;-nail]N'N$gag/{ŋeš}gag sux:u₄-sakar=usakar[moon//moon]N'N$usakar/u₄-sakar
-dcclt/Q000039,OB Nippur Ura 01,578,sux:{ŋeš}ni₃-sakar=nisakar[agricultural-tool//agricultural-tool]N'N$nisakar/{ŋeš}ni₃-sakar
-dcclt/Q000039,OB Nippur Ura 01,579,sux:{ŋeš}ni₃-sakar=nisakar[agricultural-tool//agricultural-tool]N'N$nisakar/{ŋeš}ni₃-sakar
-dcclt/Q000039,OB Nippur Ura 01,580,sux:{ŋeš}mar=mar[shovel//shovel]N'N$mar/{ŋeš}mar
-dcclt/Q000039,OB Nippur Ura 01,581,sux:{ŋeš}mar-šu=maršu[spade//a-spade]N'N$maršu/{ŋeš}mar-šu
-dcclt/Q000039,OB Nippur Ura 01,582,sux:{ŋeš}mar=mar[shovel//shovel]N'N$mar/{ŋeš}mar sux:ninda=ninda[bread//bread]N'N$ninda/ninda
-dcclt/Q000039,OB Nippur Ura 01,583,sux:{ŋeš}mar=mar[shovel//shovel]N'N$mar/{ŋeš}mar sux:ninda=ninda[bread//bread]N'N$ninda/ninda
-dcclt/Q000039,OB Nippur Ura 01,584,sux:{ŋeš}mar=mar[shovel//shovel]N'N$mar/{ŋeš}mar sux:niŋ₂-sur-ra=niŋsur[beer//filtered-beer?]N'N$niŋsur;ak/niŋ₂-sur±-ra=r.a
-dcclt/Q000039,OB Nippur Ura 01,585,sux:{ŋeš}mar=mar[shovel//shovel]N'N$mar/{ŋeš}mar sux:im-ma=im[clay//clay]N'N$im;ak/im±-ma=m.a
-dcclt/Q000039,OB Nippur Ura 01,586,sux:{ŋeš}mar-še-bad=maršebad[winnowing-shovel//winnowing-shovel]N'N$maršebad/{ŋeš}mar-še-bad
-dcclt/Q000039,OB Nippur Ura 01,587,sux:{ŋeš}mar=mar[shovel//shovel]N'N$mar/{ŋeš}mar sux:še=še[barley//barley]N'N$še/še
-dcclt/Q000039,OB Nippur Ura 01,588,sux:{ŋeš}mar=mar[shovel//shovel]N'N$mar/{ŋeš}mar sux:zabar=zabar[bronze//bronze]N'N$zabar/zabar
-dcclt/Q000039,OB Nippur Ura 01,589,sux:mar=mar[shovel//shovel]N'N$mar/mar
-dcclt/Q000039,OB Nippur Ura 01,590,sux:{ŋeš}eme=eme[tongue//tongue]N'N$eme/{ŋeš}eme sux:mar=mar[shovel//shovel]N'N$mar/mar
-dcclt/Q000039,OB Nippur Ura 01,591,sux:{ŋeš}kul=kul[handle//handle]N'N$kul/{ŋeš}kul sux:mar=mar[shovel//shovel]N'N$mar/mar
-dcclt/Q000039,OB Nippur Ura 01,592,sux:{ŋeš}sugin(BAD)=sugin[rot//rot]N'N$sugin/{ŋeš}sugin(BAD)
-dcclt/Q000039,OB Nippur Ura 01,593,sux:{ŋeš}sugin(BAD)=sugin[rot//rot]N'N$sugin/{ŋeš}sugin(BAD)
-dcclt/Q000039,OB Nippur Ura 01,594,sux:{ŋeš}sugin(BAD)=sugin[rot//rot]N'N$sugin/{ŋeš}sugin(BAD)
-dcclt/Q000039,OB Nippur Ura 01,595,sux:{ŋeš}dag-si=dagsi[hook//saddle-hook]N'N$dagsi/{ŋeš}dag-si
-dcclt/Q000039,OB Nippur Ura 01,596,sux:{ŋeš}dag-si=dagsi[hook//saddle-hook]N'N$dagsi/{ŋeš}dag-si sux:e-ba-na=eban[pair//pair]N'N$eban/e-ba-na
-dcclt/Q000039,OB Nippur Ura 01,597,sux:{ŋeš}balaŋ=balaŋ[instrument//a-large-drum-or-harp]N'N$balaŋ/{ŋeš}balaŋ
-dcclt/Q000039,OB Nippur Ura 01,598,sux:{ŋeš}balaŋ-di=balaŋdi[instrument//a-musical-instrument]N'N$balaŋdi/{ŋeš}balaŋ-di
-dcclt/Q000039,OB Nippur Ura 01,600,sux:{ŋeš}a₂-la₂=ala[drum//a-wooden-drum]N'N$ala/{ŋeš}a₂-la₂
-dcclt/Q000039,OB Nippur Ura 01,601,sux:{ŋeš}al-ŋar=alŋar[instrument//a-musical-instrument]N'N$alŋar/{ŋeš}al-ŋar
-dcclt/Q000039,OB Nippur Ura 01,602,sux:{ŋeš}al-ŋar-sur₉=alŋarsur[drumstick//drumstick]N'N$alŋarsur/{ŋeš}al-ŋar-sur₉
-dcclt/Q000039,OB Nippur Ura 01,603,sux:{ŋeš}sa-bi₂-tum=sabitum[instrument//a-musical-instrument]N'N$sabitum/{ŋeš}sa-bi₂-tum
-dcclt/Q000039,OB Nippur Ura 01,604,sux:{ŋeš}mi-ri₂-tum=miritum[instrument//a-musical-instrument]N'N$miritum/{ŋeš}mi-ri₂-tum
-dcclt/Q000039,OB Nippur Ura 01,605,sux:{ŋeš}ur-za-ba-bi₂-tum=urzababitum[instrument//a-musical-instrument]N'N$urzababitum/{ŋeš}ur-za-ba-bi₂-tum
-dcclt/Q000039,OB Nippur Ura 01,606,sux:{ŋeš}ur-gu-la=urgula[instrument//an-instrument]N'N$urgula/{ŋeš}ur-gu-la
-dcclt/Q000039,OB Nippur Ura 01,607,sux:{ŋeš}har-har=harhar[instrument//a-musical-instrument]N'N$harhar/{ŋeš}har-har
-dcclt/Q000039,OB Nippur Ura 01,609a,sux:{ŋeš}dim₃=dim[post//post]N'N$dim/{ŋeš}dim₃
-dcclt/Q000039,OB Nippur Ura 01,609b,sux:{ŋeš}dim₃-{lu₂}ma₂-gur₈=dimlumagurak[instrument//an-instrument]N'N$dimlumagurak/{ŋeš}dim₃-{lu₂}ma₂-gur₈
-dcclt/Q000039,OB Nippur Ura 01,610,sux:{ŋeš}za₃-mi₂=zamin[lyre//lyre]N'N$zamin/{ŋeš}za₃-mi₂
-dcclt/Q000039,OB Nippur Ura 01,611,sux:{ŋeš}kul=kul[handle//handle]N'N$kul/{ŋeš}kul sux:za₃-mi₂=zamin[lyre//lyre]N'N$zamin/za₃-mi₂
-dcclt/Q000039,OB Nippur Ura 01,612,sux:{ŋeš}dub=dub[tablet//tablet]N'N$dub/{ŋeš}dub sux:za₃-mi₂=zamin[lyre//lyre]N'N$zamin/za₃-mi₂
-dcclt/Q000039,OB Nippur Ura 01,613,sux:{ŋeš}tigidla=tigidlu[instrument//a-musical-instrument]N'N$tigidlu/{ŋeš}tigidla
-dcclt/Q000039,OB Nippur Ura 01,614,sux:{ŋeš}tigidla=tigidlu[instrument//a-musical-instrument]N'N$tigidlu/{ŋeš}tigidla sux:kaskal-la=kaskal[way//way;-road]N'N$kaskal;ak/kaskal±-la=l.a
-dcclt/Q000039,OB Nippur Ura 01,615,sux:{ŋeš}tigidla=tigidlu[instrument//a-musical-instrument]N'N$tigidlu/{ŋeš}tigidla sux:sa=sa[sinew//sinew;-tendon]N'N$sa/sa
-dcclt/Q000039,OB Nippur Ura 01,616,sux:{ŋeš}tigidla=tigidlu[instrument//a-musical-instrument]N'N$tigidlu/{ŋeš}tigidla
-dcclt/Q000039,OB Nippur Ura 01,617,sux:ŋeš-gu₃-di=ŋešgudi[instrument//a-musical-instrument]N'N$ŋešgudi/ŋeš-gu₃-di
-dcclt/Q000039,OB Nippur Ura 01,618,sux:{ŋeš}du₃-a=dua[instrument//an-instrument]N'N$dua/{ŋeš}du₃-a
-dcclt/Q000039,OB Nippur Ura 01,619,sux:{ŋeš}šu-kar₂=šukarak[instrument//a-musical-instrument]N'N$šukarak/{ŋeš}šu-kara₂
-dcclt/Q000039,OB Nippur Ura 01,620,sux:{ŋeš}šu=šu[handle//handle]N'N$šu/{ŋeš}šu
-dcclt/Q000039,OB Nippur Ura 01,621,sux:{ŋeš}ebir=ebir[vessel-stand//(vessel-)stand]N'N$ebir/{ŋeš}ebir
-dcclt/Q000039,OB Nippur Ura 01,622,sux:{ŋeš}ebir=ebir[vessel-stand//(vessel-)stand]N'N$ebir/{ŋeš}ebir sux:a=a[water//water]N'N$a/a
-dcclt/Q000039,OB Nippur Ura 01,623,sux:{ŋeš}ebir=ebir[vessel-stand//(vessel-)stand]N'N$ebir/{ŋeš}ebir sux:kaš=kaš[beer//beer]N'N$kaš/kaš
-dcclt/Q000039,OB Nippur Ura 01,624,sux:{ŋeš}ga-an-nu-um=ganum[stand//(vessel-)stand]N'N$ganum;am/{ŋeš}ga-an-nu
-dcclt/Q000039,OB Nippur Ura 01,625,sux:{ŋeš}ga-an-nu-um=ganum[stand//(vessel-)stand]N'N$ganum;am/{ŋeš}ga-an-nu sux:a=a[water//water]N'N$a/a
-dcclt/Q000039,OB Nippur Ura 01,626,sux:{ŋeš}ga-an-nu-um=ganum[stand//(vessel-)stand]N'N$ganum;am/{ŋeš}ga-an-nu sux:ga=ga[milk//milk]N'N$ga/ga
-dcclt/Q000039,OB Nippur Ura 01,627,sux:{ŋeš}ga-an-nu-um=ganum[stand//(vessel-)stand]N'N$ganum;am/{ŋeš}ga-an-nu sux:kaš=kaš[beer//beer]N'N$kaš/kaš
-dcclt/Q000039,OB Nippur Ura 01,627a,sux:{ŋeš}ebir=ebir[vessel-stand//(vessel-)stand]N'N$ebir/{ŋeš}ebir sux:dug=dug[pot//(clay)-pot]N'N$dug/dug
-dcclt/Q000039,OB Nippur Ura 01,628,sux:{ŋeš}ebir=ebir[vessel-stand//(vessel-)stand]N'N$ebir/{ŋeš}ebir
-dcclt/Q000039,OB Nippur Ura 01,629,sux:{ŋeš}zabar=zabar[bronze//bronze]N'N$zabar/{ŋeš}zabar
-dcclt/Q000039,OB Nippur Ura 01,630,sux:{ŋeš}ma₂-gaz=magaz[bench//slaughtering-bench]N'N$magaz/{ŋeš}ma₂-gaz
-dcclt/Q000039,OB Nippur Ura 01,631,sux:{ŋeš}ma₂-gaz=magaz[bench//slaughtering-bench]N'N$magaz/{ŋeš}ma₂-gaz
-dcclt/Q000039,OB Nippur Ura 01,632,sux:{ŋeš}in-nu-šu-gur₁₀-a=innušugura[chopper//straw-chopper]N'N$innušugura/{ŋeš}in-nu-šu-gur₁₀-a
-dcclt/Q000039,OB Nippur Ura 01,633,sux:ŋeš-pap-hal-la=ŋešpaphalla[trap?//trap?]N'N$ŋešpaphalla/ŋeš-pap-hal-la
-dcclt/Q000039,OB Nippur Ura 01,634,sux:{ŋeš}gud-si-dili=gud.si.AŠ[ram//battering-ram]N'N$gud.si.AŠ/{ŋeš}gud-si-dili
-dcclt/Q000039,OB Nippur Ura 01,635,sux:{ŋeš}zu₂=zu[tooth//tooth]N'N$zu/{ŋeš}zu₂ sux:gud-si-dili=gud.si.AŠ[ram//battering-ram]N'N$gud.si.AŠ/gud-si-AŠ
-dcclt/Q000039,OB Nippur Ura 01,636,sux:{ŋeš}eme=eme[tongue//tongue]N'N$eme/{ŋeš}eme sux:gud-si-dili=gud.si.AŠ[ram//battering-ram]N'N$gud.si.AŠ/gud-si-AŠ
-dcclt/Q000039,OB Nippur Ura 01,637,sux:{ŋeš}murgu=murgu[shoulder//shoulder]N'N$murgu/{ŋeš}murgu sux:gud-si-dili=gud.si.AŠ[ram//battering-ram]N'N$gud.si.AŠ/gud-si-AŠ
-dcclt/Q000039,OB Nippur Ura 01,638,sux:{ŋeš}ŋešpu₂=ŋešpu[rim//(circular)-rim]N'N$ŋešpu/{ŋeš}ŋešpu₂ sux:gud-si-dili=gud.si.AŠ[ram//battering-ram]N'N$gud.si.AŠ/gud-si-AŠ
-dcclt/Q000039,OB Nippur Ura 01,639,sux:{ŋeš}ze₂-na=zena[weapon//a-siege-weapon]N'N$zena/{ŋeš}ze₂-na
-dcclt/Q000039,OB Nippur Ura 01,640,sux:{ŋeš}ze₂-na=zena[weapon//a-siege-weapon]N'N$zena/{ŋeš}ze₂-na
-dcclt/Q000039,OB Nippur Ura 01,641,sux:{ŋeš}ur₂=ŋušur[beam//beam]N'N$ŋušur/{ŋeš}ur₂
-dcclt/Q000039,OB Nippur Ura 01,642,sux:ŋeš-ur₂=ŋušur[beam//beam]N'N$ŋušur/ŋeš-ur₂
-dcclt/Q000039,OB Nippur Ura 01,643,sux:ŋeš-ur₂=ŋušur[beam//beam]N'N$ŋušur/ŋeš-ur₂
-dcclt/Q000039,OB Nippur Ura 01,644,sux:ŋeš-ur₂=ŋušur[beam//beam]N'N$ŋušur/ŋeš-ur₂
-dcclt/Q000039,OB Nippur Ura 01,645,sux:{ŋeš}ŋisal=ŋisal[rudder//rudder;-oar]N'N$ŋisal/{ŋeš}ŋisal
-dcclt/Q000039,OB Nippur Ura 01,646,sux:{ŋeš}ŋisal=ŋisal[rudder//rudder;-oar]N'N$ŋisal/{ŋeš}ŋisal sux:šu=šu[hand//hand]N'N$šu/šu
-dcclt/Q000039,OB Nippur Ura 01,647,sux:{ŋeš}ŋisal=ŋisal[rudder//rudder;-oar]N'N$ŋisal/{ŋeš}ŋisal sux:ŋir₃=ŋiri[foot//foot]N'N$ŋiri/ŋiri₃
-dcclt/Q000039,OB Nippur Ura 01,648,sux:{ŋeš}kab=gam[crook//shepherd´s-crook;-bent-stick]N'N$gam/{ŋeš}kab
-dcclt/Q000039,OB Nippur Ura 01,649,sux:{ŋeš}kab=gam[crook//shepherd´s-crook;-bent-stick]N'N$gam/{ŋeš}kab sux:ŋir₂=ŋiri[dagger//dagger]N'N$ŋiri/ŋiri₂
-dcclt/Q000039,OB Nippur Ura 01,649a,sux:{ŋeš}kab=gam[crook//shepherd´s-crook;-bent-stick]N'N$gam/{ŋeš}kab sux:ŋir₂=ŋiri[dagger//dagger]N'N$ŋiri/ŋiri₂ sux:šu-i=šuʾi[barber//barber]N'N$šuʾi/šu-i
-dcclt/Q000039,OB Nippur Ura 01,649b,sux:{ŋeš}kab=gam[crook//shepherd´s-crook;-bent-stick]N'N$gam/{ŋeš}kab sux:ŋir₂=ŋiri[dagger//dagger]N'N$ŋiri/ŋiri₂ sux:ad-KID=ad.KID[weaver//basket-weaver]N'N$ad.KID/ad-KID
-dcclt/Q000039,OB Nippur Ura 01,650,sux:{ŋeš}kab=gam[crook//shepherd´s-crook;-bent-stick]N'N$gam/{ŋeš}kab sux:KIN-gur₄=bulug.KIN.gur₄[lancet//lancet]N'N$bulug.KIN.gur₄/KIN-gur₄
-dcclt/Q000039,OB Nippur Ura 01,651,sux:{ŋeš}kab=gam[crook//shepherd´s-crook;-bent-stick]N'N$gam/{ŋeš}kab
-dcclt/Q000039,OB Nippur Ura 01,651a,sux:{ŋeš}kab=gam[crook//shepherd´s-crook;-bent-stick]N'N$gam/{ŋeš}kab sux:ŋir₂=ŋiri[dagger//dagger]N'N$ŋiri/ŋiri₂ sux:muhaldim=muhaldim[cook//cook]N'N$muhaldim/muhaldim
-dcclt/Q000039,OB Nippur Ura 01,652,sux:{ŋeš}ŋišgal=ŋišgal[station//station]N'N$ŋišgal/{ŋeš}ŋišgal
-dcclt/Q000039,OB Nippur Ura 01,653,sux:{ŋeš}halba₅=halba[bucket//bucket]N'N$halba/{ŋeš}halba₅
-dcclt/Q000039,OB Nippur Ura 01,654,sux:{ŋeš}tir=tir[forest//forest]N'N$tir/{ŋeš}tir
-dcclt/Q000039,OB Nippur Ura 01,655,sux:{ŋeš}pa=pa[branch//branch]N'N$pa/{ŋeš}pa
-dcclt/Q000039,OB Nippur Ura 01,655a,sux:{ŋeš}pa=pa[branch//branch]N'N$pa/{ŋeš}pa
-dcclt/Q000039,OB Nippur Ura 01,656,sux:{ŋeš}ninda₂=ninda[seed-funnel//seed-funnel]N'N$ninda/{ŋeš}ninda₂
-dcclt/Q000039,OB Nippur Ura 01,657,sux:{ŋeš}ninda₂=ninda[vessel//a-measuring-vessel]N'N$ninda/{ŋeš}ninda₂
-dcclt/Q000039,OB Nippur Ura 01,658,sux:ninda₂=ninda[vessel//a-measuring-vessel]N'N$ninda/ninda₂
-dcclt/Q000039,OB Nippur Ura 01,663,sux:{ŋeš}kur=kur[wood//log?]N'N$kur/{ŋeš}kur
-dcclt/Q000039,OB Nippur Ura 01,664,sux:ŋeš-kur=ŋeškur[tree//a-tree]N'N$ŋeškur/ŋeš-kur
-dcclt/Q000039,OB Nippur Ura 01,665,sux:{ŋeš}kur=kur[wood//log?]N'N$kur/{ŋeš}kur
-dcclt/Q000039,OB Nippur Ura 01,666,sux:{ŋeš}esi=esi[tree//a-tree]N'N$esi/{ŋeš}esi
-dcclt/Q000039,OB Nippur Ura 01,673,sux:{ŋeš}gi-dub=gidubak[stylus//stylus]N'N$gidubak/{ŋeš}gi-dub
-dcclt/Q000039,OB Nippur Ura 01,674,sux:gud=gud[ox//bull;-ox]N'N$gud/gud
-dcclt/Q000039,OB Nippur Ura 01,675,sux:anše=anše[equid//equid;-donkey]N'N$anše/anše
-dcclt/Q000039,OB Nippur Ura 01,676,sux:{ŋeš}dehi₃=dih[weed//a-weed-with-thorns]N'N$dih/{ŋeš}dih₃
-dcclt/Q000039,OB Nippur Ura 01,677,sux:{ŋeš}dehi₃=dih[weed//a-weed-with-thorns]N'N$dih/{ŋeš}dih₃
-dcclt/Q000039,OB Nippur Ura 01,678,sux:{ŋeš}dehi₃=dih[weed//a-weed-with-thorns]N'N$dih/{ŋeš}dih₃
-dcclt/Q000039,OB Nippur Ura 01,679,sux:{ŋeš}dehi₃=dih[weed//a-weed-with-thorns]N'N$dih/{ŋeš}dih₃ sux:kur=kur[mountain//mountain]N'N$kur/kur
-dcclt/Q000039,OB Nippur Ura 01,680,sux:{ŋeš}raba=raba[clamp//clamp]N'N$raba/{ŋeš}raba
-dcclt/Q000039,OB Nippur Ura 01,681,sux:ŋeš-giri₁₉=ešgiri[staff//staff]N'N$ešgiri/ŋeš-giri₁₉
-dcclt/Q000039,OB Nippur Ura 01,682,sux:{ŋeš}kun-sigₓ(UMBIN)=kunsig[bristle//bristle]N'N$kunsig/{ŋeš}kun-sigₓ(UMBIN)
-dcclt/Q000039,OB Nippur Ura 01,683,sux:{ŋeš}niŋ₂-sigₓ(UMBIN)=nisiki[comb//comb]N'N$nisiki/{ŋeš}niŋ₂-sigₓ(UMBIN)
-dcclt/Q000039,OB Nippur Ura 01,684,sux:{ŋeš}šaŋan-la₂=šaŋanla[trader//a-trader]N'N$šaŋanla/{ŋeš}šaŋan-la₂
-dcclt/Q000039,OB Nippur Ura 01,685,sux:{ŋeš}u₃=u[sleep//sleep]N'N$u/{ŋeš}u₃
-dcclt/Q000039,OB Nippur Ura 01,688,sux:{ŋeš}ur₂=ŋušur[beam//beam]N'N$ŋušur/{ŋeš}ur₂
-dcclt/Q000039,OB Nippur Ura 01,689,sux:ŋeš-dub=ŋešdubak[board//tablet-board]N'N$ŋešdubak/ŋeš-dub
-dcclt/Q000039,OB Nippur Ura 01,690,sux:ŋeš-šu=ŋeššu[manacles//manacles]N'N$ŋeššu/ŋeš-šu
-dcclt/Q000039,OB Nippur Ura 01,691,sux:ŋeš-gu₂=ŋešgu[stock//neck-stock]N'N$ŋešgu/ŋeš-gu₂
-dcclt/Q000039,OB Nippur Ura 01,692,sux:{ŋeš}an-ti-bal=antibal[sign//sign]N'N$antibal/{ŋeš}an-ti-bal
-dcclt/Q000039,OB Nippur Ura 01,693,sux:{ŋeš}dur=dur[balk//balk?]N'N$dur/{ŋeš}dur
-dcclt/Q000039,OB Nippur Ura 01,694,sux:{ŋeš}dur=dur[balk//balk?]N'N$dur/{ŋeš}dur sux:si=si[horn//horn]N'N$si/si
-dcclt/Q000039,OB Nippur Ura 01,695,sux:{ŋeš}dur=dur[balk//balk?]N'N$dur/{ŋeš}dur
-dcclt/Q000039,OB Nippur Ura 01,696,sux:{ŋeš}alam=alan[statue//statue]N'N$alan/{ŋeš}alam
-dcclt/Q000039,OB Nippur Ura 01,697,sux:{ŋeš}az=az[bear//~-figurine]N'N$az/{ŋeš}az
-dcclt/Q000039,OB Nippur Ura 01,698,sux:{ŋeš}piriŋ=piriŋ[lion//~-figurine]N'N$piriŋ/{ŋeš}piriŋ
-dcclt/Q000039,OB Nippur Ura 01,699,sux:{ŋeš}nemur=nemur[leopard//leopard]N'N$nemur/{ŋeš}nemur
-dcclt/Q000039,OB Nippur Ura 01,700,sux:{ŋeš}ur=ur[dog//~-figurine;-toy-~]N'N$ur/{ŋeš}ur
-dcclt/Q000039,OB Nippur Ura 01,701,sux:{ŋeš}za-na=zana[doll//doll]N'N$zana/{ŋeš}za-na
-dcclt/Q000039,OB Nippur Ura 01,702,sux:{ŋeš}e₂=e[house//house]N'N$e/{ŋeš}e₂ sux:za-na=zana[doll//doll]N'N$zana/za-na
-dcclt/Q000039,OB Nippur Ura 01,703,sux:{ŋeš}nam-ra=namra[booty//booty]N'N$namra/{ŋeš}nam-ra
-dcclt/Q000039,OB Nippur Ura 01,704,sux:{ŋeš}ša-u₁₈-ša=šaʾuša[lance//lance]N'N$šaʾuša/{ŋeš}ša-u₁₈-ša
-dcclt/Q000039,OB Nippur Ura 01,705,sux:{ŋeš}ar-gibil₂=argibil[structure//half-door]N'N$argibil/{ŋeš}ar-gibil₂
-dcclt/Q000039,OB Nippur Ura 01,706,sux:ŋeš=ŋeš[tree//tree]N'N$ŋeš/ŋeš sux:šu-niŋin₂-na=šuniŋin[total//total;-sum]N'N$šuniŋin;ak/šu-niŋin₂±-na=n.a
+dcclt/Q000039,OB Nippur Ura 01,296,sux:ma[ship]N
+dcclt/Q000039,OB Nippur Ura 01,297,sux:u[planking]N sux:ma[ship]N
+dcclt/Q000039,OB Nippur Ura 01,298,sux:ema[cabin]N
+dcclt/Q000039,OB Nippur Ura 01,299,sux:si[horn]N sux:ma[ship]N
+dcclt/Q000039,OB Nippur Ura 01,300,sux:anše[equid]N sux:ma[ship]N
+dcclt/Q000039,OB Nippur Ura 01,301,sux:dim[post]N sux:ma[ship]N
+dcclt/Q000039,OB Nippur Ura 01,302,sux:dib[board]N sux:ma[ship]N
+dcclt/Q000039,OB Nippur Ura 01,303,sux:saŋ[head]N sux:ma[ship]N
+dcclt/Q000039,OB Nippur Ura 01,304,sux:u[ride]V/t sux:zipah[unit]N sux:ma[ship]N
+dcclt/Q000039,OB Nippur Ura 01,305,sux:egir[back]N sux:ma[ship]N
+dcclt/Q000039,OB Nippur Ura 01,306,sux:ma[ship]N
+dcclt/Q000039,OB Nippur Ura 01,307,sux:maʾaddir[ferryboat]N
+dcclt/Q000039,OB Nippur Ura 01,307a,sux:ma[ship]N sux:lugal[king]N
+dcclt/Q000039,OB Nippur Ura 01,308,sux:madu[~boat]N
+dcclt/Q000039,OB Nippur Ura 01,309,sux:zag[side]N sux:madu[~boat]N
+dcclt/Q000039,OB Nippur Ura 01,310,sux:madu[~boat]N
+dcclt/Q000039,OB Nippur Ura 01,310a,sux:madu[~boat]N
+dcclt/Q000039,OB Nippur Ura 01,311,sux:madu[~boat]N
+dcclt/Q000039,OB Nippur Ura 01,312,sux:targul[pole]N
+dcclt/Q000039,OB Nippur Ura 01,313,sux:anta[upper]V/t sux:targul[pole]N
+dcclt/Q000039,OB Nippur Ura 01,314,sux:zigan[rudder]N
+dcclt/Q000039,OB Nippur Ura 01,315,sux:dilim[spoon]N sux:zigan[rudder]N
+dcclt/Q000039,OB Nippur Ura 01,316,sux:zigan[rudder]N
+dcclt/Q000039,OB Nippur Ura 01,317,sux:antibal[sign]N
+dcclt/Q000039,OB Nippur Ura 01,318,sux:zinhur[~ship]N
+dcclt/Q000039,OB Nippur Ura 01,319,sux:gag[nail]N
+dcclt/Q000039,OB Nippur Ura 01,320,sux:ir[peg]N
+dcclt/Q000039,OB Nippur Ura 01,321,sux:eškiri[rope]N
+dcclt/Q000039,OB Nippur Ura 01,322,sux:gag[nail]N sux:eškiri[rope]N
+dcclt/Q000039,OB Nippur Ura 01,323,sux:šibir[staff]N
+dcclt/Q000039,OB Nippur Ura 01,324,sux:gag[nail]N sux:šibir[staff]N
+dcclt/Q000039,OB Nippur Ura 01,325,sux:gabar[herder]N
+dcclt/Q000039,OB Nippur Ura 01,326,sux:gigir[chariot]N
+dcclt/Q000039,OB Nippur Ura 01,327,sux:e[house]N sux:gigir[chariot]N
+dcclt/Q000039,OB Nippur Ura 01,328,sux:e[house]N sux:usan[whip]N sux:gigir[chariot]N
+dcclt/Q000039,OB Nippur Ura 01,329,sux:gigir[chariot]N
+dcclt/Q000039,OB Nippur Ura 01,330,sux:kun[tail]N sux:gigir[chariot]N
+dcclt/Q000039,OB Nippur Ura 01,331,sux:GUL[~chariot]N sux:gigir[chariot]N
+dcclt/Q000039,OB Nippur Ura 01,331a,sux:kindu[earth]N sux:gigir[chariot]N
+dcclt/Q000039,OB Nippur Ura 01,332,sux:sahargi[dust-guard]N sux:gigir[chariot]N
+dcclt/Q000039,OB Nippur Ura 01,333,sux:sudin[~chariot]N sux:gigir[chariot]N
+dcclt/Q000039,OB Nippur Ura 01,334,sux:sulummar[rope]N sux:gigir[chariot]N
+dcclt/Q000039,OB Nippur Ura 01,335,sux:saŋkul[bolt]N sux:gigir[chariot]N
+dcclt/Q000039,OB Nippur Ura 01,336,sux:saŋdur[seat]N sux:gigir[chariot]N
+dcclt/Q000039,OB Nippur Ura 01,337,sux:ŋirigub[footstool]N sux:gigir[chariot]N
+dcclt/Q000039,OB Nippur Ura 01,338,sux:mud[tube]N sux:gigir[chariot]N
+dcclt/Q000039,OB Nippur Ura 01,339,sux:gag[nail]N sux:mud[tube]N sux:gigir[chariot]N
+dcclt/Q000039,OB Nippur Ura 01,340,sux:šudul[yoke]N sux:gigir[chariot]N
+dcclt/Q000039,OB Nippur Ura 01,341,sux:gag[nail]N sux:šudul[yoke]N sux:gigir[chariot]N
+dcclt/Q000039,OB Nippur Ura 01,342,sux:umbin[wheel]N sux:gigir[chariot]N
+dcclt/Q000039,OB Nippur Ura 01,343,sux:gag[nail]N sux:umbin[wheel]N sux:gigir[chariot]N
+dcclt/Q000039,OB Nippur Ura 01,344,sux:si[horn]N sux:gigir[chariot]N
+dcclt/Q000039,OB Nippur Ura 01,345,sux:gaba[chest]N sux:gigir[chariot]N
+dcclt/Q000039,OB Nippur Ura 01,346,sux:gabaŋal[guard]N sux:gigir[chariot]N
+dcclt/Q000039,OB Nippur Ura 01,347,sux:usan[whip]N
+dcclt/Q000039,OB Nippur Ura 01,348,sux:usan[whip]N
+dcclt/Q000039,OB Nippur Ura 01,349,sux:eme[tongue]N sux:usan[whip]N
+dcclt/Q000039,OB Nippur Ura 01,350,sux:usan[whip]N
+dcclt/Q000039,OB Nippur Ura 01,351,sux:gagsila[harness]N
+dcclt/Q000039,OB Nippur Ura 01,352,sux:zara[pivot]N sux:gagsila[harness]N
+dcclt/Q000039,OB Nippur Ura 01,353,sux:umbin[wheel]N sux:gagsila[harness]N
+dcclt/Q000039,OB Nippur Ura 01,353a,sux:gagsila[harness]N
+dcclt/Q000039,OB Nippur Ura 01,354,sux:DUB.du₃[~vehicle]N sux:ŋar[place]V/t
+dcclt/Q000039,OB Nippur Ura 01,355,sux:DUB.du₃[~vehicle]N sux:bar[outside]V/t
+dcclt/Q000039,OB Nippur Ura 01,356,sux:DUB.du₃[~vehicle]N sux:šag[heart]N
+dcclt/Q000039,OB Nippur Ura 01,357,sux:margida[cart]N
+dcclt/Q000039,OB Nippur Ura 01,357a,sux:margida[cart]N
+dcclt/Q000039,OB Nippur Ura 01,358,sux:guza[chair]N sux:margida[cart]N
+dcclt/Q000039,OB Nippur Ura 01,359,sux:zara[pivot]N sux:margida[cart]N
+dcclt/Q000039,OB Nippur Ura 01,360,sux:gag[nail]N sux:zara[pivot]N sux:margida[cart]N
+dcclt/Q000039,OB Nippur Ura 01,361,sux:saŋkul[bolt]N sux:margida[cart]N
+dcclt/Q000039,OB Nippur Ura 01,362,sux:saŋdur[seat]N sux:margida[cart]N
+dcclt/Q000039,OB Nippur Ura 01,363,sux:ŋirigub[footstool]N sux:margida[cart]N
+dcclt/Q000039,OB Nippur Ura 01,364,sux:mud[stump]N sux:margida[cart]N
+dcclt/Q000039,OB Nippur Ura 01,365,sux:gag[nail]N sux:mud[tube]N sux:margida[cart]N
+dcclt/Q000039,OB Nippur Ura 01,366,sux:šudul[yoke]N sux:margida[cart]N
+dcclt/Q000039,OB Nippur Ura 01,367,sux:gag[nail]N sux:šudul[yoke]N sux:margida[cart]N
+dcclt/Q000039,OB Nippur Ura 01,368,sux:umbin[wheel]N sux:margida[cart]N
+dcclt/Q000039,OB Nippur Ura 01,369,sux:gag[nail]N sux:umbin[wheel]N sux:margida[cart]N
+dcclt/Q000039,OB Nippur Ura 01,370,sux:usakar[moon]N sux:margida[cart]N
+dcclt/Q000039,OB Nippur Ura 01,371,sux:gag[nail]N sux:usakar[moon]N sux:margida[cart]N
+dcclt/Q000039,OB Nippur Ura 01,372,sux:manhara[vessel]N sux:margida[cart]N
+dcclt/Q000039,OB Nippur Ura 01,373,sux:endur[navel?]N sux:margida[cart]N
+dcclt/Q000039,OB Nippur Ura 01,374,sux:ig[door]N
+dcclt/Q000039,OB Nippur Ura 01,375,sux:ig[door]N sux:gal[big]V/i
+dcclt/Q000039,OB Nippur Ura 01,376,sux:ig[door]N sux:i[oil]N
+dcclt/Q000039,OB Nippur Ura 01,377,sux:ig[door]N sux:i[oil]N sux:šeš[anoint]V/t
+dcclt/Q000039,OB Nippur Ura 01,378,sux:ig[door]N sux:leʾum[board]N
+dcclt/Q000039,OB Nippur Ura 01,379,sux:ig[door]N sux:dib[board]N
+dcclt/Q000039,OB Nippur Ura 01,380,sux:ig[door]N sux:sah[mat]N
+dcclt/Q000039,OB Nippur Ura 01,380a,sux:ig[door]N sux:papah[cella]N
+dcclt/Q000039,OB Nippur Ura 01,380b,sux:ig[door]N
+dcclt/Q000039,OB Nippur Ura 01,381,sux:ig[door]N sux:maštab[twin]N
+dcclt/Q000039,OB Nippur Ura 01,382,sux:ig[door]N sux:uma[triumph]N
+dcclt/Q000039,OB Nippur Ura 01,383,sux:ig[door]N sux:ul[fruit]N
+dcclt/Q000039,OB Nippur Ura 01,384,sux:ig[door]N sux:zena[midrib]N
+dcclt/Q000039,OB Nippur Ura 01,385,sux:ig[door]N sux:miriza[plank]N
+dcclt/Q000039,OB Nippur Ura 01,386,sux:ig[door]N sux:kan[gate]N sux:tilla[street]N
+dcclt/Q000039,OB Nippur Ura 01,387,sux:ig[door]N sux:kan[gate]N sux:egal[palace]N
+dcclt/Q000039,OB Nippur Ura 01,388,sux:suku[pole]N sux:ig[door]N
+dcclt/Q000039,OB Nippur Ura 01,389,sux:u[planking]N sux:ig[door]N
+dcclt/Q000039,OB Nippur Ura 01,390,sux:usakar[moon]N sux:ig[door]N
+dcclt/Q000039,OB Nippur Ura 01,391,sux:barda[crossbar]N sux:ig[door]N
+dcclt/Q000039,OB Nippur Ura 01,392,sux:dula[depth]N sux:ig[door]N
+dcclt/Q000039,OB Nippur Ura 01,393,sux:ir[peg]N sux:ig[door]N
+dcclt/Q000039,OB Nippur Ura 01,394,sux:suhub[bolt]N sux:ig[door]N
+dcclt/Q000039,OB Nippur Ura 01,394a,sux:suhub[bolt]N
+dcclt/Q000039,OB Nippur Ura 01,394b,sux:šugi[bolt]N
+dcclt/Q000039,OB Nippur Ura 01,395,sux:nukušu[~door]N
+dcclt/Q000039,OB Nippur Ura 01,396,sux:nukušu[~door]N sux:ana[upper]AJ
+dcclt/Q000039,OB Nippur Ura 01,397,sux:nukušu[~door]N sux:kita[lower]AJ
+dcclt/Q000039,OB Nippur Ura 01,398,sux:saŋkul[bolt]N
+dcclt/Q000039,OB Nippur Ura 01,399,sux:saŋkul[bolt]N sux:nim[high]V/i
+dcclt/Q000039,OB Nippur Ura 01,400,sux:eš[rope]N sux:saŋkul[bolt]N
+dcclt/Q000039,OB Nippur Ura 01,401,sux:saŋkul[bolt]N sux:la[hang]V/t
+dcclt/Q000039,OB Nippur Ura 01,402,sux:siŋar[bolt]N
+dcclt/Q000039,OB Nippur Ura 01,403,sux:gag[nail]N sux:siŋar[bolt]N
+dcclt/Q000039,OB Nippur Ura 01,404,sux:siŋar[bolt]N sux:guʾe[textile]N
+dcclt/Q000039,OB Nippur Ura 01,405,sux:mud[tube]N
+dcclt/Q000039,OB Nippur Ura 01,406,sux:gag[nail]N sux:mud[tube]N
+dcclt/Q000039,OB Nippur Ura 01,407,sux:šerim[~loom]N
+dcclt/Q000039,OB Nippur Ura 01,408,sux:šerim[~loom]N
+dcclt/Q000039,OB Nippur Ura 01,409,sux:kura[~loom]N
+dcclt/Q000039,OB Nippur Ura 01,410,sux:nura[~loom]N
+dcclt/Q000039,OB Nippur Ura 01,411,sux:ilila[lever]N
+dcclt/Q000039,OB Nippur Ura 01,412,sux:barbar[shuttle]N
+dcclt/Q000039,OB Nippur Ura 01,413,sux:tugtug[~loom]N
+dcclt/Q000039,OB Nippur Ura 01,414,sux:niŋzu[~loom]N
+dcclt/Q000039,OB Nippur Ura 01,415,sux:ŋešgina[~loom]N
+dcclt/Q000039,OB Nippur Ura 01,416,sux:niŋmenbulug[~loom]N
+dcclt/Q000039,OB Nippur Ura 01,417,sux:ašita[equipment]N sux:tug[textile]N
+dcclt/Q000039,OB Nippur Ura 01,418,sux:garig[comb]N
+dcclt/Q000039,OB Nippur Ura 01,419,sux:garig[comb]N sux:siki[hair]N
+dcclt/Q000039,OB Nippur Ura 01,420,sux:garig[comb]N sux:saŋdu[head]N
+dcclt/Q000039,OB Nippur Ura 01,421,sux:garig[comb]N sux:pa[branch]N sux:mušen[bird]N
+dcclt/Q000039,OB Nippur Ura 01,421a,sux:garig[comb]N sux:eban[pair]N
+dcclt/Q000039,OB Nippur Ura 01,422,sux:balak[spindle]N
+dcclt/Q000039,OB Nippur Ura 01,423,sux:e[house]N sux:balak[spindle]N
+dcclt/Q000039,OB Nippur Ura 01,424,sux:saŋ[head]N sux:balak[spindle]N
+dcclt/Q000039,OB Nippur Ura 01,424a,sux:balak[spindle]N
+dcclt/Q000039,OB Nippur Ura 01,425,sux:mete[appropriate-thing]N sux:balak[spindle]N
+dcclt/Q000039,OB Nippur Ura 01,426,sux:ellag[ball]N
+dcclt/Q000039,OB Nippur Ura 01,427,sux:ŋešellag[tool]N
+dcclt/Q000039,OB Nippur Ura 01,428,sux:ellag[ball]N
+dcclt/Q000039,OB Nippur Ura 01,429,sux:madal[pole]N
+dcclt/Q000039,OB Nippur Ura 01,430,sux:madal[pole]N
+dcclt/Q000039,OB Nippur Ura 01,431,sux:malalum[container]N
+dcclt/Q000039,OB Nippur Ura 01,432,sux:gazinbu[pole]N
+dcclt/Q000039,OB Nippur Ura 01,433,sux:sahargid[roller]N
+dcclt/Q000039,OB Nippur Ura 01,434,sux:ŋešpu[rim]N
+dcclt/Q000039,OB Nippur Ura 01,435,sux:ŋešpu[rim]N sux:mansim[sieve]N
+dcclt/Q000039,OB Nippur Ura 01,435a,sux:kim[willow]N sux:mes[blackness]N
+dcclt/Q000039,OB Nippur Ura 01,436,sux:ŋešrin[scales]N
+dcclt/Q000039,OB Nippur Ura 01,437,sux:ŋešrin[scales]N
+dcclt/Q000039,OB Nippur Ura 01,438,sux:ŋešrin[scales]N sux:aš[one]NU sux:gun[load]N
+dcclt/Q000039,OB Nippur Ura 01,439,sux:ŋešrin[scales]N sux:mana[unit]N
+dcclt/Q000039,OB Nippur Ura 01,440,sux:e[house]N sux:ŋešrin[scales]N
+dcclt/Q000039,OB Nippur Ura 01,441,sux:dilim[spoon]N sux:ŋešrin[scales]N
+dcclt/Q000039,OB Nippur Ura 01,442,sux:apin[plow]N
+dcclt/Q000039,OB Nippur Ura 01,443,sux:apin[plow]N sux:šu[hand]N
+dcclt/Q000039,OB Nippur Ura 01,444,sux:apin[plow]N sux:šudu[equipped]AJ
+dcclt/Q000039,OB Nippur Ura 01,445,sux:apin[plow]N sux:šudu[equipped]AJ
+dcclt/Q000039,OB Nippur Ura 01,446,sux:apin[plow]N sux:tugsaga[plow]N
+dcclt/Q000039,OB Nippur Ura 01,447,sux:apin[plow]N sux:saŋ[head]N sux:e[leave]V/i
+dcclt/Q000039,OB Nippur Ura 01,448,sux:apin[plow]N sux:gud[ox]N sux:limmu[four]NU sux:la[hang]V/t
+dcclt/Q000039,OB Nippur Ura 01,449,sux:saŋ[head]N sux:apin[plow]N
+dcclt/Q000039,OB Nippur Ura 01,450,sux:eme[tongue]N sux:apin[plow]N
+dcclt/Q000039,OB Nippur Ura 01,451,sux:kašu[~plow]N sux:apin[plow]N
+dcclt/Q000039,OB Nippur Ura 01,452,sux:šusaŋ[compressor]N sux:apin[plow]N
+dcclt/Q000039,OB Nippur Ura 01,452a,sux:igiŋal[~plow]N sux:apin[plow]N
+dcclt/Q000039,OB Nippur Ura 01,453,sux:niŋkud[~plowshare]N sux:apin[plow]N
+dcclt/Q000039,OB Nippur Ura 01,454,sux:niŋŋeštug[~plow]N sux:apin[plow]N
+dcclt/Q000039,OB Nippur Ura 01,455,sux:sala[~plow]N sux:apin[plow]N
+dcclt/Q000039,OB Nippur Ura 01,456,sux:gag[nail]N sux:sala[~plow]N sux:apin[plow]N
+dcclt/Q000039,OB Nippur Ura 01,457,sux:nig[~plow]N sux:apin[plow]N
+dcclt/Q000039,OB Nippur Ura 01,458,sux:gag[nail]N sux:nig[~plow]N sux:apin[plow]N
+dcclt/Q000039,OB Nippur Ura 01,459,sux:šudul[yoke]N sux:apin[plow]N
+dcclt/Q000039,OB Nippur Ura 01,460,sux:gag[nail]N sux:šudul[yoke]N sux:apin[plow]N
+dcclt/Q000039,OB Nippur Ura 01,460a,sux:apin[plow]N
+dcclt/Q000039,OB Nippur Ura 01,460b,sux:gag[nail]N sux:apin[plow]N
+dcclt/Q000039,OB Nippur Ura 01,461,sux:da[side-board]N sux:apin[plow]N
+dcclt/Q000039,OB Nippur Ura 01,461a,sux:a[arm]N sux:apin[plow]N
+dcclt/Q000039,OB Nippur Ura 01,462,sux:apin[plow]N
+dcclt/Q000039,OB Nippur Ura 01,463,sux:leʾum[board]N sux:apin[plow]N
+dcclt/Q000039,OB Nippur Ura 01,464,sux:ninda[seed-funnel]N sux:apin[plow]N
+dcclt/Q000039,OB Nippur Ura 01,465,sux:a[arm]N sux:gud[ox]N sux:apin[plow]N
+dcclt/Q000039,OB Nippur Ura 01,466,sux:anzam[vessel]N sux:apin[plow]N
+dcclt/Q000039,OB Nippur Ura 01,467,sux:gag[nail]N sux:sa[sinew]N sux:la[hang]V/t
+dcclt/Q000039,OB Nippur Ura 01,468,sux:ŋušur[harrow]N
+dcclt/Q000039,OB Nippur Ura 01,469,sux:ŋušur[harrow]N sux:sar[garden]N
+dcclt/Q000039,OB Nippur Ura 01,470,sux:ŋušur[harrow]N sux:zu[tooth]N sux:gal[big]V/i
+dcclt/Q000039,OB Nippur Ura 01,471,sux:sa[sinew]N sux:ŋušur[harrow]N
+dcclt/Q000039,OB Nippur Ura 01,472,sux:u[ride]V/t sux:ŋušur[harrow]N
+dcclt/Q000039,OB Nippur Ura 01,473,sux:saŋ[head]N sux:ŋušur[harrow]N
+dcclt/Q000039,OB Nippur Ura 01,474,sux:damga[~plow]N
+dcclt/Q000039,OB Nippur Ura 01,475,sux:suhur[tool]N
+dcclt/Q000039,OB Nippur Ura 01,476,sux:suhur[tool]N sux:gud[ox]N
+dcclt/Q000039,OB Nippur Ura 01,477,sux:al[hoe]N
+dcclt/Q000039,OB Nippur Ura 01,478,sux:al[hoe]N sux:zu[tooth]N
+dcclt/Q000039,OB Nippur Ura 01,479,sux:alšub[tool]N
+dcclt/Q000039,OB Nippur Ura 01,480,sux:al[hoe]N sux:zu[tooth]N sux:min[two]NU
+dcclt/Q000039,OB Nippur Ura 01,481,sux:al[hoe]N sux:zu[tooth]N sux:eš[three]NU
+dcclt/Q000039,OB Nippur Ura 01,482,sux:al[hoe]N sux:zu[tooth]N sux:limmu[four]NU
+dcclt/Q000039,OB Nippur Ura 01,483,sux:ušub[brick-mold]N
+dcclt/Q000039,OB Nippur Ura 01,484,sux:ušub[brick-mold]N sux:ab[window]N
+dcclt/Q000039,OB Nippur Ura 01,485,sux:ušub[brick-mold]N sux:šeg[brick]N
+dcclt/Q000039,OB Nippur Ura 01,486,sux:ušub[brick-mold]N sux:šeg[brick]N sux:alura[baked]AJ
+dcclt/Q000039,OB Nippur Ura 01,487,sux:gag[nail]N sux:dud[mound]N sux:bal[dig]V/t
+dcclt/Q000039,OB Nippur Ura 01,488,sux:gag[nail]N sux:šum[garlic]N sux:bal[dig]V/t
+dcclt/Q000039,OB Nippur Ura 01,489,sux:gag[nail]N sux:šum[garlic]N sux:sal[thin]V/i
+dcclt/Q000039,OB Nippur Ura 01,490,sux:gag[nail]N sux:šum[garlic]N sux:širdili[~garlic]N
+dcclt/Q000039,OB Nippur Ura 01,491,sux:zirigum[irrigation-device]N
+dcclt/Q000039,OB Nippur Ura 01,492,sux:gu[neck]N sux:zirigum[irrigation-device]N
+dcclt/Q000039,OB Nippur Ura 01,493,sux:namnutare[~irrigation]N
+dcclt/Q000039,OB Nippur Ura 01,494,sux:I.LU[~irrigation]N
+dcclt/Q000039,OB Nippur Ura 01,495,sux:I.DIB[~irrigation]N
+dcclt/Q000039,OB Nippur Ura 01,496,sux:tukul[weapon]N
+dcclt/Q000039,OB Nippur Ura 01,497,sux:tukul[weapon]N sux:šu[hand]N
+dcclt/Q000039,OB Nippur Ura 01,498,sux:tukul[weapon]N sux:ur[root]N
+dcclt/Q000039,OB Nippur Ura 01,499,sux:tukul[weapon]N sux:kun[tail]N
+dcclt/Q000039,OB Nippur Ura 01,500,sux:mitum[weapon]N
+dcclt/Q000039,OB Nippur Ura 01,501,sux:tukul[weapon]N sux:gaz[kill]V/t
+dcclt/Q000039,OB Nippur Ura 01,501a,sux:tukul[weapon]N sux:mah[great]V/i
+dcclt/Q000039,OB Nippur Ura 01,502,sux:saŋ[head]N sux:tukul[weapon]N
+dcclt/Q000039,OB Nippur Ura 01,503,sux:aga[rear]N sux:tukul[weapon]N
+dcclt/Q000039,OB Nippur Ura 01,504,sux:mitum[weapon]N
+dcclt/Q000039,OB Nippur Ura 01,505,sux:mitum[weapon]N sux:saŋ[head]N sux:ninnu[fifty]NU
+dcclt/Q000039,OB Nippur Ura 01,506,sux:udug[weapon]N
+dcclt/Q000039,OB Nippur Ura 01,507,sux:udug[weapon]N sux:saŋ[head]N sux:ninnu[fifty]NU
+dcclt/Q000039,OB Nippur Ura 01,508,sux:dur[board]N
+dcclt/Q000039,OB Nippur Ura 01,509,sux:dur[board]N sux:bisaŋ[basket]N
+dcclt/Q000039,OB Nippur Ura 01,510,sux:dur[board]N sux:ab[window]N
+dcclt/Q000039,OB Nippur Ura 01,511,sux:dur[board]N sux:šeg[brick]N
+dcclt/Q000039,OB Nippur Ura 01,512,sux:dur[board]N sux:šeg[brick]N sux:alura[baked]AJ
+dcclt/Q000039,OB Nippur Ura 01,513,sux:dur[board]N sux:ešŋar[part-of-a-loom]N
+dcclt/Q000039,OB Nippur Ura 01,514,sux:bar[outside]V/t sux:ešŋar[part-of-a-loom]N
+dcclt/Q000039,OB Nippur Ura 01,515,sux:lidga[vessel]N
+dcclt/Q000039,OB Nippur Ura 01,516,sux:bariga[unit]N
+dcclt/Q000039,OB Nippur Ura 01,517,sux:ban[unit]N
+dcclt/Q000039,OB Nippur Ura 01,518,sux:ban[unit]N sux:ya[five]NU sux:sila[unit]N
+dcclt/Q000039,OB Nippur Ura 01,519,sux:niŋ[thing]N sux:min[two]NU sux:sila[unit]N
+dcclt/Q000039,OB Nippur Ura 01,520,sux:ŋeš[tree]N sux:diš[one]NU sux:sila[unit]N
+dcclt/Q000039,OB Nippur Ura 01,521,sux:ŋeš[tree]N sux:sila[unit]N
+dcclt/Q000039,OB Nippur Ura 01,522,sux:ŋeš[tree]N sux:šušana[fraction]N sux:sila[unit]N
+dcclt/Q000039,OB Nippur Ura 01,523,sux:ŋeš[tree]N sux:šanabi[two-thirds]N sux:sila[unit]N
+dcclt/Q000039,OB Nippur Ura 01,524,sux:ŋeš[tree]N sux:u[ten]NU sux:giŋ[unit]N
+dcclt/Q000039,OB Nippur Ura 01,525,sux:ŋeš[tree]N sux:ya[five]NU sux:giŋ[unit]N
+dcclt/Q000039,OB Nippur Ura 01,525a,sux:ŋeš[tree]N sux:eš[three]NU sux:giŋ[unit]N
+dcclt/Q000039,OB Nippur Ura 01,525b,sux:ŋeš[tree]N sux:min[two]NU sux:giŋ[unit]N
+dcclt/Q000039,OB Nippur Ura 01,526,sux:ŋeš[tree]N sux:diš[one]NU sux:giŋ[unit]N
+dcclt/Q000039,OB Nippur Ura 01,527,sux:sa[net]N
+dcclt/Q000039,OB Nippur Ura 01,528,sux:sa[net]N sux:gal[big]V/i
+dcclt/Q000039,OB Nippur Ura 01,529,sux:sa[net]N sux:sig[weak]V/i
+dcclt/Q000039,OB Nippur Ura 01,530,sux:saʾur[net]N
+dcclt/Q000039,OB Nippur Ura 01,531,sux:sa[net]N sux:gi[thicket]N
+dcclt/Q000039,OB Nippur Ura 01,532,sux:sašušgal[net]N
+dcclt/Q000039,OB Nippur Ura 01,533,sux:sahir[net]N
+dcclt/Q000039,OB Nippur Ura 01,534,sux:sadu[net]N
+dcclt/Q000039,OB Nippur Ura 01,535,sux:sa[net]N
+dcclt/Q000039,OB Nippur Ura 01,536,sux:harmušen[snare]N
+dcclt/Q000039,OB Nippur Ura 01,537,sux:ŋidru[scepter]N sux:harmušen[snare]N
+dcclt/Q000039,OB Nippur Ura 01,538,sux:gur[rim]N sux:harmušen[snare]N
+dcclt/Q000039,OB Nippur Ura 01,539,sux:ellaŋdu[trap]N
+dcclt/Q000039,OB Nippur Ura 01,540,sux:ellaŋdu[trap]N sux:tur[small]V/i
+dcclt/Q000039,OB Nippur Ura 01,541,sux:šul[youth]V/i sux:katar[praise]N
+dcclt/Q000039,OB Nippur Ura 01,541a,sux:šul[youth]V/i sux:tur[small]V/i
+dcclt/Q000039,OB Nippur Ura 01,543,sux:igiŋal[sign]N
+dcclt/Q000039,OB Nippur Ura 01,544,sux:ligima[shoot]N
+dcclt/Q000039,OB Nippur Ura 01,545,sux:ligima[shoot]N
+dcclt/Q000039,OB Nippur Ura 01,546,sux:ligima[shoot]N
+dcclt/Q000039,OB Nippur Ura 01,547,sux:dala[thorn]N
+dcclt/Q000039,OB Nippur Ura 01,547a,sux:dala[thorn]N
+dcclt/Q000039,OB Nippur Ura 01,548,sux:šukur[lance]N
+dcclt/Q000039,OB Nippur Ura 01,549,sux:zamrutum[lance]N
+dcclt/Q000039,OB Nippur Ura 01,550,sux:šunir[emblem]N
+dcclt/Q000039,OB Nippur Ura 01,551,sux:gida[spear]N
+dcclt/Q000039,OB Nippur Ura 01,551a,sux:luguda[object]N
+dcclt/Q000039,OB Nippur Ura 01,552,sux:illar[weapon]N
+dcclt/Q000039,OB Nippur Ura 01,552a,sux:illar[weapon]N sux:šu[hand]N sux:lugal[king]N
+dcclt/Q000039,OB Nippur Ura 01,553,sux:illar[weapon]N sux:šub[fall]V/t
+dcclt/Q000039,OB Nippur Ura 01,554,sux:illar[weapon]N sux:eban[pair]N
+dcclt/Q000039,OB Nippur Ura 01,554a,sux:illar[weapon]N sux:dili[single]V/i
+dcclt/Q000039,OB Nippur Ura 01,554b,sux:illar[weapon]N
+dcclt/Q000039,OB Nippur Ura 01,554c,sux:illar[weapon]N
+dcclt/Q000039,OB Nippur Ura 01,555,sux:pana[bow]N
+dcclt/Q000039,OB Nippur Ura 01,556,sux:epana[quiver]N
+dcclt/Q000039,OB Nippur Ura 01,557,sux:kakpana[arrow]N
+dcclt/Q000039,OB Nippur Ura 01,558,sux:gagsisa[arrow]N
+dcclt/Q000039,OB Nippur Ura 01,559,sux:gag[nail]N sux:si[horn]N sux:eš[three]NU
+dcclt/Q000039,OB Nippur Ura 01,560,sux:esad[trap]N
+dcclt/Q000039,OB Nippur Ura 01,561,sux:saʾad[trap?]N
+dcclt/Q000039,OB Nippur Ura 01,562,sux:lubi[ax]N
+dcclt/Q000039,OB Nippur Ura 01,563,sux:habuda[hoe]N
+dcclt/Q000039,OB Nippur Ura 01,564,sux:igiŋal[weapon]N
+dcclt/Q000039,OB Nippur Ura 01,565,sux:giŋ[ax]N
+dcclt/Q000039,OB Nippur Ura 01,566,sux:giŋsal[hoe]N
+dcclt/Q000039,OB Nippur Ura 01,567,sux:aga[ax]N
+dcclt/Q000039,OB Nippur Ura 01,568,sux:aga.DUN₃@g.ma[ax]N
+dcclt/Q000039,OB Nippur Ura 01,569,sux:agasilig[ax]N
+dcclt/Q000039,OB Nippur Ura 01,570,sux:aga[ax]N sux:aʾašŋar[ax]N
+dcclt/Q000039,OB Nippur Ura 01,571,sux:kušedim[tool]N
+dcclt/Q000039,OB Nippur Ura 01,572,sux:aʾašŋar[ax]N
+dcclt/Q000039,OB Nippur Ura 01,573,sux:tukul[weapon]N sux:mah[great]V/i
+dcclt/Q000039,OB Nippur Ura 01,574,sux:gidim[fork]N
+dcclt/Q000039,OB Nippur Ura 01,575,sux:gidim[fork]N sux:tur[small]V/i
+dcclt/Q000039,OB Nippur Ura 01,576,sux:usakar[moon]N
+dcclt/Q000039,OB Nippur Ura 01,577,sux:gag[nail]N sux:usakar[moon]N
+dcclt/Q000039,OB Nippur Ura 01,578,sux:nisakar[agricultural-tool]N
+dcclt/Q000039,OB Nippur Ura 01,579,sux:nisakar[agricultural-tool]N sux:burud[perforate]V/t
+dcclt/Q000039,OB Nippur Ura 01,580,sux:mar[shovel]N
+dcclt/Q000039,OB Nippur Ura 01,581,sux:maršu[spade]N
+dcclt/Q000039,OB Nippur Ura 01,582,sux:mar[shovel]N sux:ninda[bread]N
+dcclt/Q000039,OB Nippur Ura 01,583,sux:mar[shovel]N sux:ninda[bread]N sux:sag[rare]V/i
+dcclt/Q000039,OB Nippur Ura 01,584,sux:mar[shovel]N sux:niŋsur[beer]N
+dcclt/Q000039,OB Nippur Ura 01,585,sux:mar[shovel]N sux:im[clay]N
+dcclt/Q000039,OB Nippur Ura 01,586,sux:maršebad[winnowing-shovel]N
+dcclt/Q000039,OB Nippur Ura 01,587,sux:mar[shovel]N sux:še[barley]N
+dcclt/Q000039,OB Nippur Ura 01,588,sux:mar[shovel]N sux:zabar[bronze]N
+dcclt/Q000039,OB Nippur Ura 01,589,sux:mar[shovel]N
+dcclt/Q000039,OB Nippur Ura 01,590,sux:eme[tongue]N sux:mar[shovel]N
+dcclt/Q000039,OB Nippur Ura 01,591,sux:kul[handle]N sux:mar[shovel]N
+dcclt/Q000039,OB Nippur Ura 01,592,sux:sugin[rot]N
+dcclt/Q000039,OB Nippur Ura 01,593,sux:sugin[rot]N
+dcclt/Q000039,OB Nippur Ura 01,594,sux:sugin[rot]N
+dcclt/Q000039,OB Nippur Ura 01,595,sux:dagsi[hook]N
+dcclt/Q000039,OB Nippur Ura 01,596,sux:dagsi[hook]N sux:eban[pair]N
+dcclt/Q000039,OB Nippur Ura 01,597,sux:balaŋ[instrument]N
+dcclt/Q000039,OB Nippur Ura 01,598,sux:balaŋdi[instrument]N
+dcclt/Q000039,OB Nippur Ura 01,600,sux:ala[drum]N
+dcclt/Q000039,OB Nippur Ura 01,601,sux:alŋar[instrument]N
+dcclt/Q000039,OB Nippur Ura 01,602,sux:alŋarsur[drumstick]N
+dcclt/Q000039,OB Nippur Ura 01,603,sux:sabitum[instrument]N
+dcclt/Q000039,OB Nippur Ura 01,604,sux:miritum[instrument]N
+dcclt/Q000039,OB Nippur Ura 01,605,sux:urzababitum[instrument]N
+dcclt/Q000039,OB Nippur Ura 01,606,sux:urgula[instrument]N
+dcclt/Q000039,OB Nippur Ura 01,607,sux:harhar[instrument]N
+dcclt/Q000039,OB Nippur Ura 01,609a,sux:dim[post]N
+dcclt/Q000039,OB Nippur Ura 01,609b,sux:dimlumagurak[instrument]N
+dcclt/Q000039,OB Nippur Ura 01,610,sux:zamin[lyre]N
+dcclt/Q000039,OB Nippur Ura 01,611,sux:kul[handle]N sux:zamin[lyre]N
+dcclt/Q000039,OB Nippur Ura 01,612,sux:dub[tablet]N sux:zamin[lyre]N
+dcclt/Q000039,OB Nippur Ura 01,613,sux:tigidlu[instrument]N
+dcclt/Q000039,OB Nippur Ura 01,614,sux:tigidlu[instrument]N sux:kaskal[way]N
+dcclt/Q000039,OB Nippur Ura 01,615,sux:tigidlu[instrument]N sux:sa[sinew]N sux:eš[three]NU
+dcclt/Q000039,OB Nippur Ura 01,616,sux:tigidlu[instrument]N
+dcclt/Q000039,OB Nippur Ura 01,617,sux:ŋešgudi[instrument]N
+dcclt/Q000039,OB Nippur Ura 01,618,sux:dua[instrument]N
+dcclt/Q000039,OB Nippur Ura 01,619,sux:šukarak[instrument]N
+dcclt/Q000039,OB Nippur Ura 01,620,sux:šu[handle]N
+dcclt/Q000039,OB Nippur Ura 01,621,sux:ebir[vessel-stand]N
+dcclt/Q000039,OB Nippur Ura 01,622,sux:ebir[vessel-stand]N sux:a[water]N
+dcclt/Q000039,OB Nippur Ura 01,623,sux:ebir[vessel-stand]N sux:kaš[beer]N
+dcclt/Q000039,OB Nippur Ura 01,624,sux:ganum[stand]N
+dcclt/Q000039,OB Nippur Ura 01,625,sux:ganum[stand]N sux:a[water]N
+dcclt/Q000039,OB Nippur Ura 01,626,sux:ganum[stand]N sux:ga[milk]N
+dcclt/Q000039,OB Nippur Ura 01,627,sux:ganum[stand]N sux:kaš[beer]N
+dcclt/Q000039,OB Nippur Ura 01,627a,sux:ebir[vessel-stand]N sux:dug[pot]N sux:imin[seven]NU
+dcclt/Q000039,OB Nippur Ura 01,628,sux:ebir[vessel-stand]N sux:gub[stand]V/i
+dcclt/Q000039,OB Nippur Ura 01,629,sux:zabar[bronze]N sux:gub[stand]V/i
+dcclt/Q000039,OB Nippur Ura 01,630,sux:magaz[bench]N
+dcclt/Q000039,OB Nippur Ura 01,631,sux:magaz[bench]N sux:burud[perforate]V/t
+dcclt/Q000039,OB Nippur Ura 01,632,sux:innušugura[chopper]N
+dcclt/Q000039,OB Nippur Ura 01,633,sux:ŋešpaphalla[trap?]N
+dcclt/Q000039,OB Nippur Ura 01,634,sux:gud.si.AŠ[ram]N
+dcclt/Q000039,OB Nippur Ura 01,635,sux:zu[tooth]N sux:gud.si.AŠ[ram]N
+dcclt/Q000039,OB Nippur Ura 01,636,sux:eme[tongue]N sux:gud.si.AŠ[ram]N
+dcclt/Q000039,OB Nippur Ura 01,637,sux:murgu[shoulder]N sux:gud.si.AŠ[ram]N
+dcclt/Q000039,OB Nippur Ura 01,638,sux:ŋešpu[rim]N sux:gud.si.AŠ[ram]N
+dcclt/Q000039,OB Nippur Ura 01,639,sux:zena[weapon]N
+dcclt/Q000039,OB Nippur Ura 01,640,sux:zena[weapon]N sux:mah[great]V/i
+dcclt/Q000039,OB Nippur Ura 01,641,sux:ŋušur[beam]N
+dcclt/Q000039,OB Nippur Ura 01,642,sux:ŋušur[beam]N sux:eš[three]NU
+dcclt/Q000039,OB Nippur Ura 01,643,sux:ŋušur[beam]N sux:limmu[four]NU
+dcclt/Q000039,OB Nippur Ura 01,644,sux:ŋušur[beam]N sux:tal[broad]V/i
+dcclt/Q000039,OB Nippur Ura 01,645,sux:ŋisal[rudder]N
+dcclt/Q000039,OB Nippur Ura 01,646,sux:ŋisal[rudder]N sux:šu[hand]N
+dcclt/Q000039,OB Nippur Ura 01,647,sux:ŋisal[rudder]N sux:ŋiri[foot]N
+dcclt/Q000039,OB Nippur Ura 01,648,sux:gam[crook]N
+dcclt/Q000039,OB Nippur Ura 01,649,sux:gam[crook]N sux:ŋiri[dagger]N
+dcclt/Q000039,OB Nippur Ura 01,649a,sux:gam[crook]N sux:ŋiri[dagger]N sux:šuʾi[barber]N
+dcclt/Q000039,OB Nippur Ura 01,649b,sux:gam[crook]N sux:ŋiri[dagger]N sux:ad.KID[weaver]N
+dcclt/Q000039,OB Nippur Ura 01,650,sux:gam[crook]N sux:bulug.KIN.gur₄[lancet]N
+dcclt/Q000039,OB Nippur Ura 01,651,sux:gam[crook]N
+dcclt/Q000039,OB Nippur Ura 01,651a,sux:gam[crook]N sux:ŋiri[dagger]N sux:muhaldim[cook]N
+dcclt/Q000039,OB Nippur Ura 01,652,sux:ŋišgal[station]N
+dcclt/Q000039,OB Nippur Ura 01,653,sux:halba[bucket]N
+dcclt/Q000039,OB Nippur Ura 01,654,sux:tir[forest]N sux:ug[die]V/t
+dcclt/Q000039,OB Nippur Ura 01,655,sux:pa[branch]N sux:gibil[new]V/i sux:ug[die]V/t
+dcclt/Q000039,OB Nippur Ura 01,655a,sux:pa[branch]N sux:kud[cut]V/t sux:ug[die]V/t
+dcclt/Q000039,OB Nippur Ura 01,656,sux:ninda[seed-funnel]N
+dcclt/Q000039,OB Nippur Ura 01,657,sux:ninda[vessel]N
+dcclt/Q000039,OB Nippur Ura 01,658,sux:ninda[vessel]N
+dcclt/Q000039,OB Nippur Ura 01,663,sux:kur[wood]N
+dcclt/Q000039,OB Nippur Ura 01,664,sux:ŋeškur[tree]N
+dcclt/Q000039,OB Nippur Ura 01,665,sux:kur[wood]N
+dcclt/Q000039,OB Nippur Ura 01,666,sux:esi[tree]N
+dcclt/Q000039,OB Nippur Ura 01,673,sux:gidubak[stylus]N
+dcclt/Q000039,OB Nippur Ura 01,674,sux:gud[ox]N
+dcclt/Q000039,OB Nippur Ura 01,675,sux:anše[equid]N
+dcclt/Q000039,OB Nippur Ura 01,676,sux:dih[weed]N
+dcclt/Q000039,OB Nippur Ura 01,677,sux:dih[weed]N
+dcclt/Q000039,OB Nippur Ura 01,678,sux:dih[weed]N
+dcclt/Q000039,OB Nippur Ura 01,679,sux:dih[weed]N sux:kur[mountain]N
+dcclt/Q000039,OB Nippur Ura 01,680,sux:raba[clamp]N
+dcclt/Q000039,OB Nippur Ura 01,681,sux:ešgiri[staff]N
+dcclt/Q000039,OB Nippur Ura 01,682,sux:kunsig[bristle]N
+dcclt/Q000039,OB Nippur Ura 01,683,sux:nisiki[comb]N
+dcclt/Q000039,OB Nippur Ura 01,684,sux:šaŋanla[trader]N
+dcclt/Q000039,OB Nippur Ura 01,685,sux:u[sleep]N sux:ku[place]V/t
+dcclt/Q000039,OB Nippur Ura 01,688,sux:ŋušur[beam]N
+dcclt/Q000039,OB Nippur Ura 01,689,sux:ŋešdubak[board]N
+dcclt/Q000039,OB Nippur Ura 01,690,sux:ŋeššu[manacles]N
+dcclt/Q000039,OB Nippur Ura 01,691,sux:ŋešgu[stock]N
+dcclt/Q000039,OB Nippur Ura 01,692,sux:antibal[sign]N sux:gu[eat]V/t
+dcclt/Q000039,OB Nippur Ura 01,693,sux:dur[balk]N
+dcclt/Q000039,OB Nippur Ura 01,694,sux:dur[balk]N sux:si[horn]N
+dcclt/Q000039,OB Nippur Ura 01,695,sux:dur[balk]N
+dcclt/Q000039,OB Nippur Ura 01,696,sux:alan[statue]N
+dcclt/Q000039,OB Nippur Ura 01,697,sux:az[bear]N
+dcclt/Q000039,OB Nippur Ura 01,698,sux:piriŋ[lion]N
+dcclt/Q000039,OB Nippur Ura 01,699,sux:nemur[leopard]N
+dcclt/Q000039,OB Nippur Ura 01,700,sux:ur[dog]N
+dcclt/Q000039,OB Nippur Ura 01,701,sux:zana[doll]N
+dcclt/Q000039,OB Nippur Ura 01,702,sux:e[house]N sux:zana[doll]N
+dcclt/Q000039,OB Nippur Ura 01,703,sux:namra[booty]N
+dcclt/Q000039,OB Nippur Ura 01,704,sux:šaʾuša[lance]N
+dcclt/Q000039,OB Nippur Ura 01,705,sux:argibil[structure]N
+dcclt/Q000039,OB Nippur Ura 01,706,sux:ŋeš[tree]N sux:šuniŋin[total]N
