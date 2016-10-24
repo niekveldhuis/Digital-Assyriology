@@ -1,45 +1,45 @@
 id_text,text_name,l_no,text
-aemw/amarna/P270905,EA 125. A study in contrasts [vassal letter],001,akk-x-mbperi:ana[to]PRP akk-x-mbperi:šarru[king]N akk-x-mbperi:bēlu[lord]N
-aemw/amarna/P270905,EA 125. A study in contrasts [vassal letter],002,akk-x-mbperi:umma[saying]PRP akk-x-mbperi:Rib-Haddi[1]PN akk-x-mbperi:wardu[slave]N
-aemw/amarna/P270905,EA 125. A study in contrasts [vassal letter],003,akk-x-mbperi:ana[to]PRP akk-x-mbperi:šēpu[foot]N akk-x-mbperi:bēlu[lord]N akk-x-mbperi:Šamaš[1]DN
-aemw/amarna/P270905,EA 125. A study in contrasts [vassal letter],004,akk-x-mbperi:maqātu[fall]V
-aemw/amarna/P270905,EA 125. A study in contrasts [vassal letter],005,akk-x-mbperi:bēltu[lady]N akk-x-mbperi:ša[of]DET akk-x-mbperi:Gublu[Byblos]GN
-aemw/amarna/P270905,EA 125. A study in contrasts [vassal letter],006,akk-x-mbperi:nadānu[give]V akk-x-mbperi:dunnu[power]N akk-x-mbperi:ana[to]PRP
-aemw/amarna/P270905,EA 125. A study in contrasts [vassal letter],007,akk-x-mbperi:šarru[king]N akk-x-mbperi:bēlu[lord]N akk-x-mbperi:inūma[when]SBJ
-aemw/amarna/P270905,EA 125. A study in contrasts [vassal letter],008,akk-x-mbperi:qabû[say]V akk-x-mbperi:šarru[king]N akk-x-mbperi:bēlu[lord]N
-aemw/amarna/P270905,EA 125. A study in contrasts [vassal letter],009,akk-x-mbperi:naṣāru[guard]V akk-x-mbperi:ramānu[self]RP
-aemw/amarna/P270905,EA 125. A study in contrasts [vassal letter],010,akk-x-mbperi:u[and]CNJ akk-x-mbperi:naṣāru[guard]V akk-x-mbperi:ālu[city]N akk-x-mbperi:šarru[king]N
-aemw/amarna/P270905,EA 125. A study in contrasts [vassal letter],011,akk-x-mbperi:ša[that]REL akk-x-mbperi:itti[with]PRP akk-x-mbperi:ištu[from]PRP
-aemw/amarna/P270905,EA 125. A study in contrasts [vassal letter],012,akk-x-mbperi:mannu[who?]QP akk-x-mbperi:naṣāru[guard]V
-aemw/amarna/P270905,EA 125. A study in contrasts [vassal letter],013,akk-x-mbperi:ramānu[self]RP akk-x-mbperi:u[and]CNJ akk-x-mbperi:ālu[city]N akk-x-mbperi:šarru[king]N
-aemw/amarna/P270905,EA 125. A study in contrasts [vassal letter],014,akk-x-mbperi:pānānu[previously]AV akk-x-mbperi:awīlu[man]N akk-x-mbperi:maṣṣartu[observation]N
-aemw/amarna/P270905,EA 125. A study in contrasts [vassal letter],015,akk-x-mbperi:šarru[king]N akk-x-mbperi:itti[with]PRP akk-x-mbperi:u[and]CNJ
-aemw/amarna/P270905,EA 125. A study in contrasts [vassal letter],016,akk-x-mbperi:šarru[king]N akk-x-mbperi:nadānu[give]V akk-x-mbperi:šeʾu[barley]N
-aemw/amarna/P270905,EA 125. A study in contrasts [vassal letter],017,akk-x-mbperi:ištu[from]PRP akk-x-mbperi:Yarimuta[1]GN
-aemw/amarna/P270905,EA 125. A study in contrasts [vassal letter],018,akk-x-mbperi:ana[to]PRP akk-x-mbperi:akālu[eat]V akk-x-mbperi:u[and]CNJ
-aemw/amarna/P270905,EA 125. A study in contrasts [vassal letter],019,akk-x-mbperi:annû[look!]J akk-x-mbperi:inanna[now]AV
-aemw/amarna/P270905,EA 125. A study in contrasts [vassal letter],020,akk-x-mbperi:šahāṭu[jump-(on)]V akk-x-mbperi:Aziru[1]PN
-aemw/amarna/P270905,EA 125. A study in contrasts [vassal letter],021,akk-x-mbperi:u[and]CNJ akk-x-mbperi:šanû[do-twice]V akk-x-mbperi:ul[not]MOD
-aemw/amarna/P270905,EA 125. A study in contrasts [vassal letter],022,akk-x-mbperi:alpu[bull]N akk-x-mbperi:u[and]CNJ akk-x-mbperi:lā[not]MOD akk-x-mbperi:enzu[goat]N
-aemw/amarna/P270905,EA 125. A study in contrasts [vassal letter],023,akk-x-mbperi:ana[to]PRP akk-x-mbperi:yâšim[to-me]IP akk-x-mbperi:leqû[taken]AJ
-aemw/amarna/P270905,EA 125. A study in contrasts [vassal letter],024,akk-x-mbperi:Aziru[1]PN akk-x-mbperi:gabbu[totality]N
-aemw/amarna/P270905,EA 125. A study in contrasts [vassal letter],025,akk-x-mbperi:u[and]CNJ akk-x-mbperi:yānu[(there)-is-not]V akk-x-mbperi:šeʾu[barley]N
-aemw/amarna/P270905,EA 125. A study in contrasts [vassal letter],026,akk-x-mbperi:ana[to]PRP akk-x-mbperi:akālu[eat]V
-aemw/amarna/P270905,EA 125. A study in contrasts [vassal letter],027,akk-x-mbperi:u[and]CNJ akk-x-mbperi:awīlu[man]N akk-x-mbperi:hupšu[(member-of)-lower-class]N
-aemw/amarna/P270905,EA 125. A study in contrasts [vassal letter],028,akk-x-mbperi:paṭru[released]AJ akk-x-mbperi:ana[to]PRP akk-x-mbperi:ālu[city]N
-aemw/amarna/P270905,EA 125. A study in contrasts [vassal letter],029,akk-x-mbperi:ašru[place]N akk-x-mbperi:bašû[be(come)-at-hand]V akk-x-mbperi:šeʾu[barley]N
-aemw/amarna/P270905,EA 125. A study in contrasts [vassal letter],030,akk-x-mbperi:ana[to]PRP akk-x-mbperi:akālu[eat]V
-aemw/amarna/P270905,EA 125. A study in contrasts [vassal letter],031,akk-x-mbperi:šanītu[something-other]N akk-x-mbperi:ammīni[why?]AV akk-x-mbperi:šakānu[put]V
-aemw/amarna/P270905,EA 125. A study in contrasts [vassal letter],032,akk-x-mbperi:šarru[king]N akk-x-mbperi:kīma[like]PRP akk-x-mbperi:awīlu[man]N akk-x-mbperi:hazannu[mayor]N
-aemw/amarna/P270905,EA 125. A study in contrasts [vassal letter],033,akk-x-mbperi:awīlu[man]N akk-x-mbperi:hazannu[mayor]N akk-x-mbperi:ālu[city]N
-aemw/amarna/P270905,EA 125. A study in contrasts [vassal letter],034,akk-x-mbperi:ana[to]PRP akk-x-mbperi:šâšunu[(to/of)-them]IP akk-x-mbperi:awīlu[man]N
-aemw/amarna/P270905,EA 125. A study in contrasts [vassal letter],035,akk-x-mbperi:hupšu[(member-of)-lower-class]N akk-x-mbperi:ina[in]PRP
-aemw/amarna/P270905,EA 125. A study in contrasts [vassal letter],036,akk-x-mbperi:šaplu[underside]N akk-x-mbperi:u[and]CNJ
-aemw/amarna/P270905,EA 125. A study in contrasts [vassal letter],037,akk-x-mbperi:anāku[I]IP akk-x-mbperi:ālu[city]N akk-x-mbperi:ana[to]PRP akk-x-mbperi:Aziru[1]PN
-aemw/amarna/P270905,EA 125. A study in contrasts [vassal letter],038,akk-x-mbperi:u[and]CNJ akk-x-mbperi:yâti[me]IP akk-x-mbperi:buʾʾû[look-for]V
-aemw/amarna/P270905,EA 125. A study in contrasts [vassal letter],039,akk-x-mbperi:ana[to]PRP akk-x-mbperi:mannu[what?]QP akk-x-mbperi:epēšu[do]V akk-x-mbperi:kittu[steadiness]N
-aemw/amarna/P270905,EA 125. A study in contrasts [vassal letter],040,akk-x-mbperi:itti[with]PRP akk-x-mbperi:mīnu[what?]QP akk-x-mbperi:kalbu[dog]N
-aemw/amarna/P270905,EA 125. A study in contrasts [vassal letter],041,akk-x-mbperi:māru[son]N akk-x-mbperi:Abdi-Aširte[1]PN
-aemw/amarna/P270905,EA 125. A study in contrasts [vassal letter],042,akk-x-mbperi:u[and]CNJ akk-x-mbperi:epēšu[do]V
-aemw/amarna/P270905,EA 125. A study in contrasts [vassal letter],043,akk-x-mbperi:kīma[like]PRP akk-x-mbperi:libbu[interior]N akk-x-mbperi:u[and]CNJ
-aemw/amarna/P270905,EA 125. A study in contrasts [vassal letter],044,akk-x-mbperi:wašāru[sink-down]V akk-x-mbperi:ālu[city]N
+aemw/amarna/P270905,EA 125. A study in contrasts [vassal letter],001,
+aemw/amarna/P270905,EA 125. A study in contrasts [vassal letter],002,
+aemw/amarna/P270905,EA 125. A study in contrasts [vassal letter],003,
+aemw/amarna/P270905,EA 125. A study in contrasts [vassal letter],004,
+aemw/amarna/P270905,EA 125. A study in contrasts [vassal letter],005,
+aemw/amarna/P270905,EA 125. A study in contrasts [vassal letter],006,
+aemw/amarna/P270905,EA 125. A study in contrasts [vassal letter],007,
+aemw/amarna/P270905,EA 125. A study in contrasts [vassal letter],008,
+aemw/amarna/P270905,EA 125. A study in contrasts [vassal letter],009,
+aemw/amarna/P270905,EA 125. A study in contrasts [vassal letter],010,
+aemw/amarna/P270905,EA 125. A study in contrasts [vassal letter],011,
+aemw/amarna/P270905,EA 125. A study in contrasts [vassal letter],012,
+aemw/amarna/P270905,EA 125. A study in contrasts [vassal letter],013,
+aemw/amarna/P270905,EA 125. A study in contrasts [vassal letter],014,
+aemw/amarna/P270905,EA 125. A study in contrasts [vassal letter],015,
+aemw/amarna/P270905,EA 125. A study in contrasts [vassal letter],016,
+aemw/amarna/P270905,EA 125. A study in contrasts [vassal letter],017,
+aemw/amarna/P270905,EA 125. A study in contrasts [vassal letter],018,
+aemw/amarna/P270905,EA 125. A study in contrasts [vassal letter],019,
+aemw/amarna/P270905,EA 125. A study in contrasts [vassal letter],020,
+aemw/amarna/P270905,EA 125. A study in contrasts [vassal letter],021,
+aemw/amarna/P270905,EA 125. A study in contrasts [vassal letter],022,
+aemw/amarna/P270905,EA 125. A study in contrasts [vassal letter],023,
+aemw/amarna/P270905,EA 125. A study in contrasts [vassal letter],024,
+aemw/amarna/P270905,EA 125. A study in contrasts [vassal letter],025,
+aemw/amarna/P270905,EA 125. A study in contrasts [vassal letter],026,
+aemw/amarna/P270905,EA 125. A study in contrasts [vassal letter],027,
+aemw/amarna/P270905,EA 125. A study in contrasts [vassal letter],028,
+aemw/amarna/P270905,EA 125. A study in contrasts [vassal letter],029,
+aemw/amarna/P270905,EA 125. A study in contrasts [vassal letter],030,
+aemw/amarna/P270905,EA 125. A study in contrasts [vassal letter],031,
+aemw/amarna/P270905,EA 125. A study in contrasts [vassal letter],032,
+aemw/amarna/P270905,EA 125. A study in contrasts [vassal letter],033,
+aemw/amarna/P270905,EA 125. A study in contrasts [vassal letter],034,
+aemw/amarna/P270905,EA 125. A study in contrasts [vassal letter],035,
+aemw/amarna/P270905,EA 125. A study in contrasts [vassal letter],036,
+aemw/amarna/P270905,EA 125. A study in contrasts [vassal letter],037,
+aemw/amarna/P270905,EA 125. A study in contrasts [vassal letter],038,
+aemw/amarna/P270905,EA 125. A study in contrasts [vassal letter],039,
+aemw/amarna/P270905,EA 125. A study in contrasts [vassal letter],040,
+aemw/amarna/P270905,EA 125. A study in contrasts [vassal letter],041,
+aemw/amarna/P270905,EA 125. A study in contrasts [vassal letter],042,
+aemw/amarna/P270905,EA 125. A study in contrasts [vassal letter],043,
+aemw/amarna/P270905,EA 125. A study in contrasts [vassal letter],044,

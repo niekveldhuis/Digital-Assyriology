@@ -1,47 +1,47 @@
 id_text,text_name,l_no,text
-aemw/amarna/P270994,EA 148. The need for mainland Tyre [vassal letter],001,akk-x-mbperi:ana[to]PRP akk-x-mbperi:šarru[king]N akk-x-mbperi:bēlu[lord]N akk-x-mbperi:ilu[god]N akk-x-mbperi:Šamaš[1]DN
-aemw/amarna/P270994,EA 148. The need for mainland Tyre [vassal letter],002,akk-x-mbperi:umma[saying]PRP akk-x-mbperi:Abi-milku[1]PN akk-x-mbperi:wardu[slave]N
-aemw/amarna/P270994,EA 148. The need for mainland Tyre [vassal letter],003,akk-x-mbperi:u[and]CNJ akk-x-mbperi:ana[to]PRP akk-x-mbperi:šēpu[foot]N akk-x-mbperi:šarru[king]N akk-x-mbperi:bēlu[lord]N akk-x-mbperi:maqātu[fall]V
-aemw/amarna/P270994,EA 148. The need for mainland Tyre [vassal letter],004,akk-x-mbperi:šarru[king]N akk-x-mbperi:bēlu[lord]N akk-x-mbperi:šapāru[send]V
-aemw/amarna/P270994,EA 148. The need for mainland Tyre [vassal letter],005,akk-x-mbperi:aššu[because-(of)]PRP akk-x-mbperi:mekku[(type-of-glass)]N akk-x-mbperi:ša[that]REL akk-x-mbperi:bašû[be(come)-at-hand]V
-aemw/amarna/P270994,EA 148. The need for mainland Tyre [vassal letter],006,akk-x-mbperi:itti[with]PRP akk-x-mbperi:nadānu[give]V
-aemw/amarna/P270994,EA 148. The need for mainland Tyre [vassal letter],007,akk-x-mbperi:ana[to]PRP akk-x-mbperi:šarru[king]N akk-x-mbperi:bēlu[lord]N
-aemw/amarna/P270994,EA 148. The need for mainland Tyre [vassal letter],008,akk-x-mbperi:meʾatu[(one)-hundred]N akk-x-mbperi:šuqultu[weight]N akk-x-mbperi:u[and]CNJ
-aemw/amarna/P270994,EA 148. The need for mainland Tyre [vassal letter],009,akk-x-mbperi:nadānu[give]V akk-x-mbperi:šarru[king]N akk-x-mbperi:bēlu[lord]N
-aemw/amarna/P270994,EA 148. The need for mainland Tyre [vassal letter],010,akk-x-mbperi:pānu[front]N akk-x-mbperi:ana[to]PRP akk-x-mbperi:wardu[slave]N
-aemw/amarna/P270994,EA 148. The need for mainland Tyre [vassal letter],011,akk-x-mbperi:u[and]CNJ akk-x-mbperi:nadānu[give]V akk-x-mbperi:Usu[1]GN
-aemw/amarna/P270994,EA 148. The need for mainland Tyre [vassal letter],012,akk-x-mbperi:ana[to]PRP akk-x-mbperi:wardu[slave]N akk-x-mbperi:akūnu[(a-vessel-for-liquids)]N akk-x-mbperi:akūnu[(a-vessel-for-liquids)]N qca:maymu[water]N
-aemw/amarna/P270994,EA 148. The need for mainland Tyre [vassal letter],013,akk-x-mbperi:ana[to]PRP akk-x-mbperi:šitû[drinking]N akk-x-mbperi:nadānu[give]V
+aemw/amarna/P270994,EA 148. The need for mainland Tyre [vassal letter],001,akk-x-mbperi:šarru[king]N akk-x-mbperi:bēlu[lord]N akk-x-mbperi:ilu[god]N
+aemw/amarna/P270994,EA 148. The need for mainland Tyre [vassal letter],002,akk-x-mbperi:wardu[slave]N
+aemw/amarna/P270994,EA 148. The need for mainland Tyre [vassal letter],003,akk-x-mbperi:šēpu[foot]N akk-x-mbperi:šarru[king]N akk-x-mbperi:bēlu[lord]N
+aemw/amarna/P270994,EA 148. The need for mainland Tyre [vassal letter],004,akk-x-mbperi:šarru[king]N akk-x-mbperi:bēlu[lord]N
+aemw/amarna/P270994,EA 148. The need for mainland Tyre [vassal letter],005,akk-x-mbperi:mekku[(type-of-glass)]N
+aemw/amarna/P270994,EA 148. The need for mainland Tyre [vassal letter],006,
+aemw/amarna/P270994,EA 148. The need for mainland Tyre [vassal letter],007,akk-x-mbperi:šarru[king]N akk-x-mbperi:bēlu[lord]N
+aemw/amarna/P270994,EA 148. The need for mainland Tyre [vassal letter],008,akk-x-mbperi:meʾatu[(one)-hundred]N akk-x-mbperi:šuqultu[weight]N
+aemw/amarna/P270994,EA 148. The need for mainland Tyre [vassal letter],009,akk-x-mbperi:šarru[king]N akk-x-mbperi:bēlu[lord]N
+aemw/amarna/P270994,EA 148. The need for mainland Tyre [vassal letter],010,akk-x-mbperi:pānu[front]N akk-x-mbperi:wardu[slave]N
+aemw/amarna/P270994,EA 148. The need for mainland Tyre [vassal letter],011,
+aemw/amarna/P270994,EA 148. The need for mainland Tyre [vassal letter],012,akk-x-mbperi:wardu[slave]N akk-x-mbperi:akūnu[(a-vessel-for-liquids)]N akk-x-mbperi:akūnu[(a-vessel-for-liquids)]N qca:maymu[water]N
+aemw/amarna/P270994,EA 148. The need for mainland Tyre [vassal letter],013,akk-x-mbperi:šitû[drinking]N
 aemw/amarna/P270994,EA 148. The need for mainland Tyre [vassal letter],014,akk-x-mbperi:šarru[king]N akk-x-mbperi:bēlu[lord]N akk-x-mbperi:šēpu[foot]N
-aemw/amarna/P270994,EA 148. The need for mainland Tyre [vassal letter],015,akk-x-mbperi:ana[to]PRP akk-x-mbperi:naṣāru[guard]V
-aemw/amarna/P270994,EA 148. The need for mainland Tyre [vassal letter],016,akk-x-mbperi:ālu[city]N akk-x-mbperi:u[and]CNJ akk-x-mbperi:erēbu[enter]V
-aemw/amarna/P270994,EA 148. The need for mainland Tyre [vassal letter],017,akk-x-mbperi:u[and]CNJ akk-x-mbperi:amāru[see]V akk-x-mbperi:pānu[front]N akk-x-mbperi:šarru[king]N akk-x-mbperi:bēlu[lord]N
-aemw/amarna/P270994,EA 148. The need for mainland Tyre [vassal letter],018,akk-x-mbperi:damqu[good]AJ akk-x-mbperi:pānu[front]N akk-x-mbperi:ana[to]PRP
+aemw/amarna/P270994,EA 148. The need for mainland Tyre [vassal letter],015,
+aemw/amarna/P270994,EA 148. The need for mainland Tyre [vassal letter],016,akk-x-mbperi:ālu[city]N
+aemw/amarna/P270994,EA 148. The need for mainland Tyre [vassal letter],017,akk-x-mbperi:pānu[front]N akk-x-mbperi:šarru[king]N akk-x-mbperi:bēlu[lord]N
+aemw/amarna/P270994,EA 148. The need for mainland Tyre [vassal letter],018,akk-x-mbperi:pānu[front]N
 aemw/amarna/P270994,EA 148. The need for mainland Tyre [vassal letter],019,akk-x-mbperi:muhhu[skull]N akk-x-mbperi:šarru[king]N akk-x-mbperi:bēlu[lord]N
-aemw/amarna/P270994,EA 148. The need for mainland Tyre [vassal letter],020,akk-x-mbperi:kīmê[like]PRP akk-x-mbperi:inūma[when]SBJ
-aemw/amarna/P270994,EA 148. The need for mainland Tyre [vassal letter],021,akk-x-mbperi:paqādu[entrust]V akk-x-mbperi:šarru[king]N akk-x-mbperi:bēlu[lord]N
-aemw/amarna/P270994,EA 148. The need for mainland Tyre [vassal letter],022,akk-x-mbperi:ana[to]PRP akk-x-mbperi:naṣāru[guard]V akk-x-mbperi:ālu[city]N
-aemw/amarna/P270994,EA 148. The need for mainland Tyre [vassal letter],023,akk-x-mbperi:u[and]CNJ akk-x-mbperi:šapāru[send]V akk-x-mbperi:ana[to]PRP akk-x-mbperi:šarru[king]N akk-x-mbperi:bēlu[lord]N
-aemw/amarna/P270994,EA 148. The need for mainland Tyre [vassal letter],024,akk-x-mbperi:inūma[when]SBJ akk-x-mbperi:ūmišam[daily]AV
-aemw/amarna/P270994,EA 148. The need for mainland Tyre [vassal letter],025,akk-x-mbperi:leqû[take]V akk-x-mbperi:šarru[king]N akk-x-mbperi:Ṣiduna[Sidon]GN
-aemw/amarna/P270994,EA 148. The need for mainland Tyre [vassal letter],026,akk-x-mbperi:šēpu[foot]N akk-x-mbperi:nadānu[give]V
-aemw/amarna/P270994,EA 148. The need for mainland Tyre [vassal letter],027,akk-x-mbperi:pānu[front]N akk-x-mbperi:šarru[king]N akk-x-mbperi:ana[to]PRP akk-x-mbperi:wardu[slave]N
-aemw/amarna/P270994,EA 148. The need for mainland Tyre [vassal letter],028,akk-x-mbperi:u[and]CNJ akk-x-mbperi:paqādu[entrust]V
-aemw/amarna/P270994,EA 148. The need for mainland Tyre [vassal letter],029,akk-x-mbperi:ana[to]PRP akk-x-mbperi:rābiṣu[bailiff]N akk-x-mbperi:u[and]CNJ
-aemw/amarna/P270994,EA 148. The need for mainland Tyre [vassal letter],030,akk-x-mbperi:nadānu[give]V akk-x-mbperi:Usu[1]GN
-aemw/amarna/P270994,EA 148. The need for mainland Tyre [vassal letter],031,akk-x-mbperi:ana[to]PRP akk-x-mbperi:mû[water]N qca:maymu[water]N
-aemw/amarna/P270994,EA 148. The need for mainland Tyre [vassal letter],032,akk-x-mbperi:ana[to]PRP akk-x-mbperi:wardu[slave]N akk-x-mbperi:ana[to]PRP akk-x-mbperi:leqû[take]V
-aemw/amarna/P270994,EA 148. The need for mainland Tyre [vassal letter],033,akk-x-mbperi:iṣu[tree]N akk-x-mbperi:ana[to]PRP akk-x-mbperi:tibnu[straw]N akk-x-mbperi:tibnu[straw]N
-aemw/amarna/P270994,EA 148. The need for mainland Tyre [vassal letter],034,akk-x-mbperi:ana[to]PRP akk-x-mbperi:ṭīdu[clay]N akk-x-mbperi:inūma[when]SBJ
-aemw/amarna/P270994,EA 148. The need for mainland Tyre [vassal letter],035,akk-x-mbperi:epēšu[do]V akk-x-mbperi:nukurtu[enmity]N
-aemw/amarna/P270994,EA 148. The need for mainland Tyre [vassal letter],036,akk-x-mbperi:lā[not]MOD akk-x-mbperi:târu[turn]V
+aemw/amarna/P270994,EA 148. The need for mainland Tyre [vassal letter],020,
+aemw/amarna/P270994,EA 148. The need for mainland Tyre [vassal letter],021,akk-x-mbperi:šarru[king]N akk-x-mbperi:bēlu[lord]N
+aemw/amarna/P270994,EA 148. The need for mainland Tyre [vassal letter],022,akk-x-mbperi:ālu[city]N
+aemw/amarna/P270994,EA 148. The need for mainland Tyre [vassal letter],023,akk-x-mbperi:šarru[king]N akk-x-mbperi:bēlu[lord]N
+aemw/amarna/P270994,EA 148. The need for mainland Tyre [vassal letter],024,
+aemw/amarna/P270994,EA 148. The need for mainland Tyre [vassal letter],025,akk-x-mbperi:šarru[king]N
+aemw/amarna/P270994,EA 148. The need for mainland Tyre [vassal letter],026,akk-x-mbperi:šēpu[foot]N
+aemw/amarna/P270994,EA 148. The need for mainland Tyre [vassal letter],027,akk-x-mbperi:pānu[front]N akk-x-mbperi:šarru[king]N akk-x-mbperi:wardu[slave]N
+aemw/amarna/P270994,EA 148. The need for mainland Tyre [vassal letter],028,
+aemw/amarna/P270994,EA 148. The need for mainland Tyre [vassal letter],029,akk-x-mbperi:rābiṣu[bailiff]N
+aemw/amarna/P270994,EA 148. The need for mainland Tyre [vassal letter],030,
+aemw/amarna/P270994,EA 148. The need for mainland Tyre [vassal letter],031,akk-x-mbperi:mû[water]N qca:maymu[water]N
+aemw/amarna/P270994,EA 148. The need for mainland Tyre [vassal letter],032,akk-x-mbperi:wardu[slave]N
+aemw/amarna/P270994,EA 148. The need for mainland Tyre [vassal letter],033,akk-x-mbperi:iṣu[tree]N akk-x-mbperi:tibnu[straw]N akk-x-mbperi:tibnu[straw]N
+aemw/amarna/P270994,EA 148. The need for mainland Tyre [vassal letter],034,akk-x-mbperi:ṭīdu[clay]N
+aemw/amarna/P270994,EA 148. The need for mainland Tyre [vassal letter],035,akk-x-mbperi:nukurtu[enmity]N
+aemw/amarna/P270994,EA 148. The need for mainland Tyre [vassal letter],036,
 aemw/amarna/P270994,EA 148. The need for mainland Tyre [vassal letter],037,akk-x-mbperi:māmītu[oath]N
-aemw/amarna/P270994,EA 148. The need for mainland Tyre [vassal letter],038,akk-x-mbperi:yānu[(there)-is-not]V akk-x-mbperi:šēpu[foot]N akk-x-mbperi:šanû[(an)other]AJ
-aemw/amarna/P270994,EA 148. The need for mainland Tyre [vassal letter],039,akk-x-mbperi:ša[that]REL akk-x-mbperi:šahāṭu[jump-(on)]V akk-x-mbperi:mātu[land]N akk-x-mbperi:šarru[king]N
-aemw/amarna/P270994,EA 148. The need for mainland Tyre [vassal letter],040,akk-x-mbperi:šarru[king]N akk-x-mbperi:Ṣiduna[Sidon]GN
-aemw/amarna/P270994,EA 148. The need for mainland Tyre [vassal letter],041,akk-x-mbperi:šarru[king]N akk-x-mbperi:Haṣura[Hazor]GN
-aemw/amarna/P270994,EA 148. The need for mainland Tyre [vassal letter],042,akk-x-mbperi:ezēbu[leave]V akk-x-mbperi:bītu[house]N akk-x-mbperi:u[and]CNJ akk-x-mbperi:naṣābu[place]V
-aemw/amarna/P270994,EA 148. The need for mainland Tyre [vassal letter],043,akk-x-mbperi:itti[with]PRP akk-x-mbperi:hāpiru[(class-of)-vagrant]N akk-x-mbperi:edû[know]V
-aemw/amarna/P270994,EA 148. The need for mainland Tyre [vassal letter],044,akk-x-mbperi:šarru[king]N akk-x-mbperi:ana[to]PRP akk-x-mbperi:šēpu[foot]N akk-x-mbperi:šāru[hostile]AJ akk-x-mbperi:šanû[(an)other]AJ akk-x-mbperi:u[and]CNJ
-aemw/amarna/P270994,EA 148. The need for mainland Tyre [vassal letter],045,akk-x-mbperi:epēšu[do]V akk-x-mbperi:mātu[land]N akk-x-mbperi:šarru[king]N akk-x-mbperi:ana[to]PRP akk-x-mbperi:hāpiru[(class-of)-vagrant]N
-aemw/amarna/P270994,EA 148. The need for mainland Tyre [vassal letter],046,akk-x-mbperi:šâlu[ask]V akk-x-mbperi:šarru[king]N akk-x-mbperi:rābiṣu[bailiff]N akk-x-mbperi:ša[that]REL akk-x-mbperi:edû[know]V
+aemw/amarna/P270994,EA 148. The need for mainland Tyre [vassal letter],038,akk-x-mbperi:šēpu[foot]N
+aemw/amarna/P270994,EA 148. The need for mainland Tyre [vassal letter],039,akk-x-mbperi:mātu[land]N akk-x-mbperi:šarru[king]N
+aemw/amarna/P270994,EA 148. The need for mainland Tyre [vassal letter],040,akk-x-mbperi:šarru[king]N
+aemw/amarna/P270994,EA 148. The need for mainland Tyre [vassal letter],041,akk-x-mbperi:šarru[king]N
+aemw/amarna/P270994,EA 148. The need for mainland Tyre [vassal letter],042,akk-x-mbperi:bītu[house]N
+aemw/amarna/P270994,EA 148. The need for mainland Tyre [vassal letter],043,akk-x-mbperi:hāpiru[(class-of)-vagrant]N
+aemw/amarna/P270994,EA 148. The need for mainland Tyre [vassal letter],044,akk-x-mbperi:šarru[king]N akk-x-mbperi:šēpu[foot]N
+aemw/amarna/P270994,EA 148. The need for mainland Tyre [vassal letter],045,akk-x-mbperi:mātu[land]N akk-x-mbperi:šarru[king]N akk-x-mbperi:hāpiru[(class-of)-vagrant]N
+aemw/amarna/P270994,EA 148. The need for mainland Tyre [vassal letter],046,akk-x-mbperi:šarru[king]N akk-x-mbperi:rābiṣu[bailiff]N

@@ -1,71 +1,71 @@
 id_text,text_name,l_no,text
-aemw/amarna/P270914,EA 147. A hymn to the Pharaoh [vassal letter],001,akk-x-mbperi:ana[to]PRP akk-x-mbperi:šarru[king]N akk-x-mbperi:bēlu[lord]N akk-x-mbperi:ilu[god]N akk-x-mbperi:Šamaš[1]DN
-aemw/amarna/P270914,EA 147. A hymn to the Pharaoh [vassal letter],002,akk-x-mbperi:umma[saying]PRP akk-x-mbperi:Abi-milku[1]PN akk-x-mbperi:wardu[slave]N
-aemw/amarna/P270914,EA 147. A hymn to the Pharaoh [vassal letter],003,akk-x-mbperi:u[and]CNJ akk-x-mbperi:ana[to]PRP akk-x-mbperi:šēpu[foot]N akk-x-mbperi:šarru[king]N akk-x-mbperi:bēlu[lord]N akk-x-mbperi:maqātu[fall]V
-aemw/amarna/P270914,EA 147. A hymn to the Pharaoh [vassal letter],004,akk-x-mbperi:anāku[I]IP akk-x-mbperi:eperu[earth]N akk-x-mbperi:ištu[from]PRP akk-x-mbperi:šupālu[depression]N
+aemw/amarna/P270914,EA 147. A hymn to the Pharaoh [vassal letter],001,akk-x-mbperi:šarru[king]N akk-x-mbperi:bēlu[lord]N akk-x-mbperi:ilu[god]N
+aemw/amarna/P270914,EA 147. A hymn to the Pharaoh [vassal letter],002,akk-x-mbperi:wardu[slave]N
+aemw/amarna/P270914,EA 147. A hymn to the Pharaoh [vassal letter],003,akk-x-mbperi:šēpu[foot]N akk-x-mbperi:šarru[king]N akk-x-mbperi:bēlu[lord]N
+aemw/amarna/P270914,EA 147. A hymn to the Pharaoh [vassal letter],004,akk-x-mbperi:eperu[earth]N akk-x-mbperi:šupālu[depression]N
 aemw/amarna/P270914,EA 147. A hymn to the Pharaoh [vassal letter],005,akk-x-mbperi:šēnu[sandal(s)]N akk-x-mbperi:šarru[king]N akk-x-mbperi:bēlu[lord]N akk-x-mbperi:bēlu[lord]N
-aemw/amarna/P270914,EA 147. A hymn to the Pharaoh [vassal letter],006,akk-x-mbperi:Šamaš[1]DN akk-x-mbperi:ša[that]REL akk-x-mbperi:waṣû[go-out]V akk-x-mbperi:ina[in]PRP akk-x-mbperi:muhhu[skull]N
-aemw/amarna/P270914,EA 147. A hymn to the Pharaoh [vassal letter],007,akk-x-mbperi:mātu[land]N akk-x-mbperi:mātu[land]N akk-x-mbperi:ina[in]PRP akk-x-mbperi:ūmu[day]N akk-x-mbperi:u[and]CNJ akk-x-mbperi:ūmu[day]N
-aemw/amarna/P270914,EA 147. A hymn to the Pharaoh [vassal letter],008,akk-x-mbperi:kīma[like]PRP akk-x-mbperi:šīmtu[what-is-fixed]N akk-x-mbperi:Šamaš[1]DN akk-x-mbperi:abu[father]N akk-x-mbperi:damqu[good]AJ
-aemw/amarna/P270914,EA 147. A hymn to the Pharaoh [vassal letter],009,akk-x-mbperi:ša[that]REL akk-x-mbperi:balāṭu[live]V akk-x-mbperi:ina[in]PRP akk-x-mbperi:šēhu[wind]N akk-x-mbperi:ṭābu[good]AJ
-aemw/amarna/P270914,EA 147. A hymn to the Pharaoh [vassal letter],010,akk-x-mbperi:u[and]CNJ akk-x-mbperi:sahāru[go-around]V akk-x-mbperi:ina[in]PRP qca:ṣapānu[north-(wind)]N
-aemw/amarna/P270914,EA 147. A hymn to the Pharaoh [vassal letter],011,akk-x-mbperi:ša[that]REL akk-x-mbperi:naṣābu[place]V akk-x-mbperi:gabbu[totality]N akk-x-mbperi:mātu[land]N
-aemw/amarna/P270914,EA 147. A hymn to the Pharaoh [vassal letter],012,akk-x-mbperi:ina[in]PRP akk-x-mbperi:pašāhu[cool-down]V akk-x-mbperi:ina[in]PRP akk-x-mbperi:dunnu[power]N akk-x-mbperi:imittu[right-side]N qca:hapšu[force]N
-aemw/amarna/P270914,EA 147. A hymn to the Pharaoh [vassal letter],013,akk-x-mbperi:ša[that]REL akk-x-mbperi:nadānu[give]V akk-x-mbperi:rigmu[voice]N akk-x-mbperi:ina[in]PRP akk-x-mbperi:šamû[sky]N
-aemw/amarna/P270914,EA 147. A hymn to the Pharaoh [vassal letter],014,akk-x-mbperi:kīma[like]PRP akk-x-mbperi:Addu[1]DN akk-x-mbperi:u[and]CNJ akk-x-mbperi:ragābu[be(come)-afraid]V akk-x-mbperi:gabbu[totality]N
-aemw/amarna/P270914,EA 147. A hymn to the Pharaoh [vassal letter],015,akk-x-mbperi:mātu[land]N akk-x-mbperi:ištu[from]PRP akk-x-mbperi:rigmu[voice]N
-aemw/amarna/P270914,EA 147. A hymn to the Pharaoh [vassal letter],016,akk-x-mbperi:annû[look!]J akk-x-mbperi:šapāru[send]V akk-x-mbperi:wardu[slave]N akk-x-mbperi:ana[to]PRP akk-x-mbperi:bēlu[lord]N
-aemw/amarna/P270914,EA 147. A hymn to the Pharaoh [vassal letter],017,akk-x-mbperi:inūma[when]SBJ akk-x-mbperi:šemû[hear]V akk-x-mbperi:māru[son]N akk-x-mbperi:šipru[sending]N akk-x-mbperi:damqu[good]AJ
-aemw/amarna/P270914,EA 147. A hymn to the Pharaoh [vassal letter],018,akk-x-mbperi:ša[of]DET akk-x-mbperi:šarru[king]N akk-x-mbperi:ša[that]REL akk-x-mbperi:kašādu[reach]V akk-x-mbperi:ana[to]PRP akk-x-mbperi:wardu[slave]N
-aemw/amarna/P270914,EA 147. A hymn to the Pharaoh [vassal letter],019,akk-x-mbperi:u[and]CNJ akk-x-mbperi:šēhu[wind]N akk-x-mbperi:ṭābu[good]AJ akk-x-mbperi:ša[that]REL akk-x-mbperi:waṣû[go-out]V
-aemw/amarna/P270914,EA 147. A hymn to the Pharaoh [vassal letter],020,akk-x-mbperi:ištu[from]PRP akk-x-mbperi:pû[mouth]N akk-x-mbperi:šarru[king]N akk-x-mbperi:bēlu[lord]N
-aemw/amarna/P270914,EA 147. A hymn to the Pharaoh [vassal letter],021,akk-x-mbperi:ana[to]PRP akk-x-mbperi:wardu[slave]N akk-x-mbperi:u[and]CNJ akk-x-mbperi:sahāru[go-around]V akk-x-mbperi:šēhu[wind]N
-aemw/amarna/P270914,EA 147. A hymn to the Pharaoh [vassal letter],022,akk-x-mbperi:lāma[before-(in-time)]PRP akk-x-mbperi:kašādu[reach]V akk-x-mbperi:šipru[sending]N akk-x-mbperi:šarru[king]N akk-x-mbperi:bēlu[lord]N
-aemw/amarna/P270914,EA 147. A hymn to the Pharaoh [vassal letter],023,akk-x-mbperi:lā[not]MOD akk-x-mbperi:sahāru[go-around]V akk-x-mbperi:šēhu[wind]N akk-x-mbperi:sekēru[shut-off]V
-aemw/amarna/P270914,EA 147. A hymn to the Pharaoh [vassal letter],024,akk-x-mbperi:pû[mouth]N akk-x-mbperi:appu[nose]N akk-x-mbperi:amāru[see]V akk-x-mbperi:inanna[now]AV
-aemw/amarna/P270914,EA 147. A hymn to the Pharaoh [vassal letter],025,akk-x-mbperi:inūma[when]SBJ akk-x-mbperi:waṣû[go-out]V
-aemw/amarna/P270914,EA 147. A hymn to the Pharaoh [vassal letter],026,akk-x-mbperi:šēhu[wind]N akk-x-mbperi:šarru[king]N akk-x-mbperi:ana[to]PRP akk-x-mbperi:muhhu[skull]N
-aemw/amarna/P270914,EA 147. A hymn to the Pharaoh [vassal letter],027,akk-x-mbperi:u[and]CNJ akk-x-mbperi:hadû[joyful]AJ akk-x-mbperi:magal[very-(much)]AV
-aemw/amarna/P270914,EA 147. A hymn to the Pharaoh [vassal letter],028,akk-x-mbperi:u[and]CNJ akk-x-mbperi:ina[in]PRP akk-x-mbperi:ūmu[day]N akk-x-mbperi:u[and]CNJ akk-x-mbperi:ūmu[day]N
-aemw/amarna/P270914,EA 147. A hymn to the Pharaoh [vassal letter],029,akk-x-mbperi:aššu[because-(of)]PRP akk-x-mbperi:hadû[joyful]AJ akk-x-mbperi:lā[not]MOD akk-x-mbperi:ešēru[be(come)-well]V
-aemw/amarna/P270914,EA 147. A hymn to the Pharaoh [vassal letter],030,akk-x-mbperi:erṣetu[earth]N akk-x-mbperi:inūma[when]SBJ akk-x-mbperi:šemû[hear]V
-aemw/amarna/P270914,EA 147. A hymn to the Pharaoh [vassal letter],031,akk-x-mbperi:māru[son]N akk-x-mbperi:šipru[sending]N akk-x-mbperi:damqu[good]AJ akk-x-mbperi:ša[that]REL akk-x-mbperi:ištu[from]PRP akk-x-mbperi:bēlu[lord]N
-aemw/amarna/P270914,EA 147. A hymn to the Pharaoh [vassal letter],032,akk-x-mbperi:u[and]CNJ akk-x-mbperi:gabbu[totality]N akk-x-mbperi:mātu[land]N akk-x-mbperi:palhu[fearful]AJ
-aemw/amarna/P270914,EA 147. A hymn to the Pharaoh [vassal letter],033,akk-x-mbperi:ištu[from]PRP akk-x-mbperi:pānu[front]N akk-x-mbperi:bēlu[lord]N akk-x-mbperi:inūma[when]SBJ
-aemw/amarna/P270914,EA 147. A hymn to the Pharaoh [vassal letter],034,akk-x-mbperi:šemû[hear]V akk-x-mbperi:šēhu[wind]N akk-x-mbperi:ṭābu[good]AJ akk-x-mbperi:u[and]CNJ akk-x-mbperi:māru[son]N akk-x-mbperi:šipru[sending]N akk-x-mbperi:damqu[good]AJ
-aemw/amarna/P270914,EA 147. A hymn to the Pharaoh [vassal letter],035,akk-x-mbperi:ša[that]REL akk-x-mbperi:kašādu[reach]V akk-x-mbperi:inūma[when]SBJ
-aemw/amarna/P270914,EA 147. A hymn to the Pharaoh [vassal letter],036,akk-x-mbperi:qabû[say]V akk-x-mbperi:šarru[king]N akk-x-mbperi:bēlu[lord]N qca:kûn[be(come)-prepared]V
-aemw/amarna/P270914,EA 147. A hymn to the Pharaoh [vassal letter],037,akk-x-mbperi:ana[to]PRP akk-x-mbperi:pānu[front]N akk-x-mbperi:ṣābu[people]N akk-x-mbperi:rabû[big]AJ akk-x-mbperi:u[and]CNJ akk-x-mbperi:qabû[say]V
-aemw/amarna/P270914,EA 147. A hymn to the Pharaoh [vassal letter],038,akk-x-mbperi:wardu[slave]N akk-x-mbperi:ana[to]PRP akk-x-mbperi:bēlu[lord]N
-aemw/amarna/P270914,EA 147. A hymn to the Pharaoh [vassal letter],039,akk-x-mbperi:ana[to]PRP akk-x-mbperi:muhhu[skull]N akk-x-mbperi:gabīdu[liver]N akk-x-mbperi:muhhu[skull]N akk-x-mbperi:ṣuʾru[back]N
-aemw/amarna/P270914,EA 147. A hymn to the Pharaoh [vassal letter],040,akk-x-mbperi:wabālu[carry]V akk-x-mbperi:awātu[word]N akk-x-mbperi:šarru[king]N akk-x-mbperi:bēlu[lord]N
-aemw/amarna/P270914,EA 147. A hymn to the Pharaoh [vassal letter],041,akk-x-mbperi:ša[that]REL akk-x-mbperi:šemû[hear]V akk-x-mbperi:ana[to]PRP akk-x-mbperi:šarru[king]N akk-x-mbperi:bēlu[lord]N akk-x-mbperi:u[and]CNJ
-aemw/amarna/P270914,EA 147. A hymn to the Pharaoh [vassal letter],042,akk-x-mbperi:arādu[serve]V akk-x-mbperi:ina[in]PRP akk-x-mbperi:ašru[place]N
-aemw/amarna/P270914,EA 147. A hymn to the Pharaoh [vassal letter],043,akk-x-mbperi:u[and]CNJ akk-x-mbperi:waṣû[go-out]V akk-x-mbperi:Šamaš[1]DN akk-x-mbperi:ina[in]PRP akk-x-mbperi:muhhu[skull]N
-aemw/amarna/P270914,EA 147. A hymn to the Pharaoh [vassal letter],044,akk-x-mbperi:u[and]CNJ akk-x-mbperi:sahāru[go-around]V akk-x-mbperi:šēhu[wind]N akk-x-mbperi:ṭābu[good]AJ akk-x-mbperi:ištu[from]PRP akk-x-mbperi:pû[mouth]N akk-x-mbperi:bēlu[lord]N
-aemw/amarna/P270914,EA 147. A hymn to the Pharaoh [vassal letter],045,akk-x-mbperi:u[and]CNJ akk-x-mbperi:lā[not]MOD akk-x-mbperi:šemû[hear]V akk-x-mbperi:awātu[word]N akk-x-mbperi:šarru[king]N akk-x-mbperi:bēlu[lord]N
-aemw/amarna/P270914,EA 147. A hymn to the Pharaoh [vassal letter],046,akk-x-mbperi:halqu[lost]AJ akk-x-mbperi:ālu[city]N akk-x-mbperi:halqu[lost]AJ akk-x-mbperi:bītu[house]N
-aemw/amarna/P270914,EA 147. A hymn to the Pharaoh [vassal letter],047,akk-x-mbperi:yānu[(there)-is-not]V akk-x-mbperi:šumu[name]N akk-x-mbperi:ina[in]PRP akk-x-mbperi:gabbu[totality]N
-aemw/amarna/P270914,EA 147. A hymn to the Pharaoh [vassal letter],048,akk-x-mbperi:mātu[land]N akk-x-mbperi:ina[in]PRP akk-x-mbperi:dārītu[perpetuity]N akk-x-mbperi:amāru[see]V
-aemw/amarna/P270914,EA 147. A hymn to the Pharaoh [vassal letter],049,akk-x-mbperi:wardu[slave]N akk-x-mbperi:ša[that]REL akk-x-mbperi:šemû[hear]V akk-x-mbperi:ana[to]PRP akk-x-mbperi:bēlu[lord]N
+aemw/amarna/P270914,EA 147. A hymn to the Pharaoh [vassal letter],006,akk-x-mbperi:muhhu[skull]N
+aemw/amarna/P270914,EA 147. A hymn to the Pharaoh [vassal letter],007,akk-x-mbperi:mātu[land]N akk-x-mbperi:mātu[land]N akk-x-mbperi:ūmu[day]N akk-x-mbperi:ūmu[day]N
+aemw/amarna/P270914,EA 147. A hymn to the Pharaoh [vassal letter],008,akk-x-mbperi:šīmtu[what-is-fixed]N akk-x-mbperi:abu[father]N
+aemw/amarna/P270914,EA 147. A hymn to the Pharaoh [vassal letter],009,akk-x-mbperi:šēhu[wind]N
+aemw/amarna/P270914,EA 147. A hymn to the Pharaoh [vassal letter],010,qca:ṣapānu[north-(wind)]N
+aemw/amarna/P270914,EA 147. A hymn to the Pharaoh [vassal letter],011,akk-x-mbperi:gabbu[totality]N akk-x-mbperi:mātu[land]N
+aemw/amarna/P270914,EA 147. A hymn to the Pharaoh [vassal letter],012,akk-x-mbperi:dunnu[power]N akk-x-mbperi:imittu[right-side]N qca:hapšu[force]N
+aemw/amarna/P270914,EA 147. A hymn to the Pharaoh [vassal letter],013,akk-x-mbperi:rigmu[voice]N akk-x-mbperi:šamû[sky]N
+aemw/amarna/P270914,EA 147. A hymn to the Pharaoh [vassal letter],014,akk-x-mbperi:gabbu[totality]N
+aemw/amarna/P270914,EA 147. A hymn to the Pharaoh [vassal letter],015,akk-x-mbperi:mātu[land]N akk-x-mbperi:rigmu[voice]N
+aemw/amarna/P270914,EA 147. A hymn to the Pharaoh [vassal letter],016,akk-x-mbperi:wardu[slave]N akk-x-mbperi:bēlu[lord]N
+aemw/amarna/P270914,EA 147. A hymn to the Pharaoh [vassal letter],017,akk-x-mbperi:māru[son]N akk-x-mbperi:šipru[sending]N
+aemw/amarna/P270914,EA 147. A hymn to the Pharaoh [vassal letter],018,akk-x-mbperi:šarru[king]N akk-x-mbperi:wardu[slave]N
+aemw/amarna/P270914,EA 147. A hymn to the Pharaoh [vassal letter],019,akk-x-mbperi:šēhu[wind]N
+aemw/amarna/P270914,EA 147. A hymn to the Pharaoh [vassal letter],020,akk-x-mbperi:pû[mouth]N akk-x-mbperi:šarru[king]N akk-x-mbperi:bēlu[lord]N
+aemw/amarna/P270914,EA 147. A hymn to the Pharaoh [vassal letter],021,akk-x-mbperi:wardu[slave]N akk-x-mbperi:šēhu[wind]N
+aemw/amarna/P270914,EA 147. A hymn to the Pharaoh [vassal letter],022,akk-x-mbperi:šipru[sending]N akk-x-mbperi:šarru[king]N akk-x-mbperi:bēlu[lord]N
+aemw/amarna/P270914,EA 147. A hymn to the Pharaoh [vassal letter],023,akk-x-mbperi:šēhu[wind]N
+aemw/amarna/P270914,EA 147. A hymn to the Pharaoh [vassal letter],024,akk-x-mbperi:pû[mouth]N akk-x-mbperi:appu[nose]N
+aemw/amarna/P270914,EA 147. A hymn to the Pharaoh [vassal letter],025,
+aemw/amarna/P270914,EA 147. A hymn to the Pharaoh [vassal letter],026,akk-x-mbperi:šēhu[wind]N akk-x-mbperi:šarru[king]N akk-x-mbperi:muhhu[skull]N
+aemw/amarna/P270914,EA 147. A hymn to the Pharaoh [vassal letter],027,
+aemw/amarna/P270914,EA 147. A hymn to the Pharaoh [vassal letter],028,akk-x-mbperi:ūmu[day]N akk-x-mbperi:ūmu[day]N
+aemw/amarna/P270914,EA 147. A hymn to the Pharaoh [vassal letter],029,
+aemw/amarna/P270914,EA 147. A hymn to the Pharaoh [vassal letter],030,akk-x-mbperi:erṣetu[earth]N
+aemw/amarna/P270914,EA 147. A hymn to the Pharaoh [vassal letter],031,akk-x-mbperi:māru[son]N akk-x-mbperi:šipru[sending]N akk-x-mbperi:bēlu[lord]N
+aemw/amarna/P270914,EA 147. A hymn to the Pharaoh [vassal letter],032,akk-x-mbperi:gabbu[totality]N akk-x-mbperi:mātu[land]N
+aemw/amarna/P270914,EA 147. A hymn to the Pharaoh [vassal letter],033,akk-x-mbperi:pānu[front]N akk-x-mbperi:bēlu[lord]N
+aemw/amarna/P270914,EA 147. A hymn to the Pharaoh [vassal letter],034,akk-x-mbperi:šēhu[wind]N akk-x-mbperi:māru[son]N akk-x-mbperi:šipru[sending]N
+aemw/amarna/P270914,EA 147. A hymn to the Pharaoh [vassal letter],035,
+aemw/amarna/P270914,EA 147. A hymn to the Pharaoh [vassal letter],036,akk-x-mbperi:šarru[king]N akk-x-mbperi:bēlu[lord]N
+aemw/amarna/P270914,EA 147. A hymn to the Pharaoh [vassal letter],037,akk-x-mbperi:pānu[front]N akk-x-mbperi:ṣābu[people]N
+aemw/amarna/P270914,EA 147. A hymn to the Pharaoh [vassal letter],038,akk-x-mbperi:wardu[slave]N akk-x-mbperi:bēlu[lord]N
+aemw/amarna/P270914,EA 147. A hymn to the Pharaoh [vassal letter],039,akk-x-mbperi:muhhu[skull]N akk-x-mbperi:gabīdu[liver]N akk-x-mbperi:muhhu[skull]N akk-x-mbperi:ṣuʾru[back]N
+aemw/amarna/P270914,EA 147. A hymn to the Pharaoh [vassal letter],040,akk-x-mbperi:awātu[word]N akk-x-mbperi:šarru[king]N akk-x-mbperi:bēlu[lord]N
+aemw/amarna/P270914,EA 147. A hymn to the Pharaoh [vassal letter],041,akk-x-mbperi:šarru[king]N akk-x-mbperi:bēlu[lord]N
+aemw/amarna/P270914,EA 147. A hymn to the Pharaoh [vassal letter],042,akk-x-mbperi:ašru[place]N
+aemw/amarna/P270914,EA 147. A hymn to the Pharaoh [vassal letter],043,akk-x-mbperi:muhhu[skull]N
+aemw/amarna/P270914,EA 147. A hymn to the Pharaoh [vassal letter],044,akk-x-mbperi:šēhu[wind]N akk-x-mbperi:pû[mouth]N akk-x-mbperi:bēlu[lord]N
+aemw/amarna/P270914,EA 147. A hymn to the Pharaoh [vassal letter],045,akk-x-mbperi:awātu[word]N akk-x-mbperi:šarru[king]N akk-x-mbperi:bēlu[lord]N
+aemw/amarna/P270914,EA 147. A hymn to the Pharaoh [vassal letter],046,akk-x-mbperi:ālu[city]N akk-x-mbperi:bītu[house]N
+aemw/amarna/P270914,EA 147. A hymn to the Pharaoh [vassal letter],047,akk-x-mbperi:šumu[name]N akk-x-mbperi:gabbu[totality]N
+aemw/amarna/P270914,EA 147. A hymn to the Pharaoh [vassal letter],048,akk-x-mbperi:mātu[land]N akk-x-mbperi:dārītu[perpetuity]N
+aemw/amarna/P270914,EA 147. A hymn to the Pharaoh [vassal letter],049,akk-x-mbperi:wardu[slave]N akk-x-mbperi:bēlu[lord]N
 aemw/amarna/P270914,EA 147. A hymn to the Pharaoh [vassal letter],050,akk-x-mbperi:šulmu[completeness]N akk-x-mbperi:ālu[city]N akk-x-mbperi:šulmu[completeness]N akk-x-mbperi:bītu[house]N
-aemw/amarna/P270914,EA 147. A hymn to the Pharaoh [vassal letter],051,akk-x-mbperi:šumu[name]N akk-x-mbperi:ana[to]PRP akk-x-mbperi:dārītu[perpetuity]N
-aemw/amarna/P270914,EA 147. A hymn to the Pharaoh [vassal letter],052,akk-x-mbperi:attā[you]IP akk-x-mbperi:Šamaš[1]DN akk-x-mbperi:ša[that]REL akk-x-mbperi:waṣû[go-out]V akk-x-mbperi:ina[in]PRP akk-x-mbperi:muhhu[skull]N
-aemw/amarna/P270914,EA 147. A hymn to the Pharaoh [vassal letter],053,akk-x-mbperi:u[and]CNJ akk-x-mbperi:dūru[(city)-wall]N akk-x-mbperi:siparru[bronze]N akk-x-mbperi:ša[that]REL akk-x-mbperi:zaqāpu[fix-upright]V
-aemw/amarna/P270914,EA 147. A hymn to the Pharaoh [vassal letter],054,akk-x-mbperi:ana[to]PRP akk-x-mbperi:šâšu[to-him]IP akk-x-mbperi:u[and]CNJ akk-x-mbperi:aššu[because-(of)]PRP akk-x-mbperi:imittu[right-side]N akk-x-mbperi:šarru[king]N
-aemw/amarna/P270914,EA 147. A hymn to the Pharaoh [vassal letter],055,akk-x-mbperi:bēlu[lord]N akk-x-mbperi:dannu[strong]AJ
-aemw/amarna/P270914,EA 147. A hymn to the Pharaoh [vassal letter],056,akk-x-mbperi:nēhu[calm]AJ qca:baṭahu[trust]V
-aemw/amarna/P270914,EA 147. A hymn to the Pharaoh [vassal letter],057,akk-x-mbperi:annû[look!]J akk-x-mbperi:qabû[say]V
-aemw/amarna/P270914,EA 147. A hymn to the Pharaoh [vassal letter],058,akk-x-mbperi:ana[to]PRP akk-x-mbperi:Šamaš[1]DN akk-x-mbperi:abu[father]N akk-x-mbperi:šarru[king]N akk-x-mbperi:bēlu[lord]N
-aemw/amarna/P270914,EA 147. A hymn to the Pharaoh [vassal letter],059,akk-x-mbperi:mati[when?]QP akk-x-mbperi:amāru[see]V
+aemw/amarna/P270914,EA 147. A hymn to the Pharaoh [vassal letter],051,akk-x-mbperi:šumu[name]N akk-x-mbperi:dārītu[perpetuity]N
+aemw/amarna/P270914,EA 147. A hymn to the Pharaoh [vassal letter],052,akk-x-mbperi:muhhu[skull]N
+aemw/amarna/P270914,EA 147. A hymn to the Pharaoh [vassal letter],053,akk-x-mbperi:dūru[(city)-wall]N akk-x-mbperi:siparru[bronze]N
+aemw/amarna/P270914,EA 147. A hymn to the Pharaoh [vassal letter],054,akk-x-mbperi:imittu[right-side]N akk-x-mbperi:šarru[king]N
+aemw/amarna/P270914,EA 147. A hymn to the Pharaoh [vassal letter],055,akk-x-mbperi:bēlu[lord]N
+aemw/amarna/P270914,EA 147. A hymn to the Pharaoh [vassal letter],056,
+aemw/amarna/P270914,EA 147. A hymn to the Pharaoh [vassal letter],057,
+aemw/amarna/P270914,EA 147. A hymn to the Pharaoh [vassal letter],058,akk-x-mbperi:abu[father]N akk-x-mbperi:šarru[king]N akk-x-mbperi:bēlu[lord]N
+aemw/amarna/P270914,EA 147. A hymn to the Pharaoh [vassal letter],059,
 aemw/amarna/P270914,EA 147. A hymn to the Pharaoh [vassal letter],060,akk-x-mbperi:pānu[front]N akk-x-mbperi:šarru[king]N akk-x-mbperi:bēlu[lord]N
-aemw/amarna/P270914,EA 147. A hymn to the Pharaoh [vassal letter],061,akk-x-mbperi:u[and]CNJ akk-x-mbperi:anumma[now]AV akk-x-mbperi:naṣāru[guard]V
-aemw/amarna/P270914,EA 147. A hymn to the Pharaoh [vassal letter],062,akk-x-mbperi:Ṣurru[Tyre]GN akk-x-mbperi:ālu[city]N akk-x-mbperi:rabû[big]AJ
-aemw/amarna/P270914,EA 147. A hymn to the Pharaoh [vassal letter],063,akk-x-mbperi:ana[to]PRP akk-x-mbperi:šarru[king]N akk-x-mbperi:bēlu[lord]N akk-x-mbperi:adi[until]PRP
-aemw/amarna/P270914,EA 147. A hymn to the Pharaoh [vassal letter],064,akk-x-mbperi:waṣû[go-out]V akk-x-mbperi:imittu[right-side]N akk-x-mbperi:šarru[king]N akk-x-mbperi:dannu[strong]AJ akk-x-mbperi:ina[in]PRP akk-x-mbperi:muhhu[skull]N
-aemw/amarna/P270914,EA 147. A hymn to the Pharaoh [vassal letter],065,akk-x-mbperi:ana[to]PRP akk-x-mbperi:nadānu[give]V akk-x-mbperi:mû[water]N akk-x-mbperi:ana[to]PRP akk-x-mbperi:šutû[drinking]N
-aemw/amarna/P270914,EA 147. A hymn to the Pharaoh [vassal letter],066,akk-x-mbperi:u[and]CNJ akk-x-mbperi:iṣu[tree]N akk-x-mbperi:ana[to]PRP akk-x-mbperi:šahānu[be(come)-hot]V akk-x-mbperi:šanītu[something-other]N akk-x-mbperi:Zimri-Yidda[1]PN
-aemw/amarna/P270914,EA 147. A hymn to the Pharaoh [vassal letter],067,akk-x-mbperi:šarru[king]N akk-x-mbperi:Ṣiduna[Sidon]GN akk-x-mbperi:šapāru[send]V akk-x-mbperi:ina[in]PRP akk-x-mbperi:ūmu[day]N akk-x-mbperi:u[and]CNJ akk-x-mbperi:ūmu[day]N
-aemw/amarna/P270914,EA 147. A hymn to the Pharaoh [vassal letter],068,akk-x-mbperi:ana[to]PRP akk-x-mbperi:arnu[guilt]N akk-x-mbperi:Aziru[1]PN akk-x-mbperi:māru[son]N akk-x-mbperi:Abdi-Aširte[1]PN
-aemw/amarna/P270914,EA 147. A hymn to the Pharaoh [vassal letter],069,akk-x-mbperi:aššu[because-(of)]PRP akk-x-mbperi:gabbu[totality]N akk-x-mbperi:awātu[word]N akk-x-mbperi:ša[that]REL akk-x-mbperi:šemû[hear]V akk-x-mbperi:ištu[from]PRP akk-x-mbperi:Miṣru[Egypt]GN
-aemw/amarna/P270914,EA 147. A hymn to the Pharaoh [vassal letter],070,akk-x-mbperi:anumma[now]AV akk-x-mbperi:šapāru[send]V akk-x-mbperi:ana[to]PRP akk-x-mbperi:bēlu[lord]N akk-x-mbperi:u[and]CNJ akk-x-mbperi:damqu[good]AJ
+aemw/amarna/P270914,EA 147. A hymn to the Pharaoh [vassal letter],061,
+aemw/amarna/P270914,EA 147. A hymn to the Pharaoh [vassal letter],062,akk-x-mbperi:ālu[city]N
+aemw/amarna/P270914,EA 147. A hymn to the Pharaoh [vassal letter],063,akk-x-mbperi:šarru[king]N akk-x-mbperi:bēlu[lord]N
+aemw/amarna/P270914,EA 147. A hymn to the Pharaoh [vassal letter],064,akk-x-mbperi:imittu[right-side]N akk-x-mbperi:šarru[king]N akk-x-mbperi:muhhu[skull]N
+aemw/amarna/P270914,EA 147. A hymn to the Pharaoh [vassal letter],065,akk-x-mbperi:mû[water]N akk-x-mbperi:šutû[drinking]N
+aemw/amarna/P270914,EA 147. A hymn to the Pharaoh [vassal letter],066,akk-x-mbperi:iṣu[tree]N akk-x-mbperi:šanītu[something-other]N
+aemw/amarna/P270914,EA 147. A hymn to the Pharaoh [vassal letter],067,akk-x-mbperi:šarru[king]N akk-x-mbperi:ūmu[day]N akk-x-mbperi:ūmu[day]N
+aemw/amarna/P270914,EA 147. A hymn to the Pharaoh [vassal letter],068,akk-x-mbperi:arnu[guilt]N akk-x-mbperi:māru[son]N
+aemw/amarna/P270914,EA 147. A hymn to the Pharaoh [vassal letter],069,akk-x-mbperi:gabbu[totality]N akk-x-mbperi:awātu[word]N
+aemw/amarna/P270914,EA 147. A hymn to the Pharaoh [vassal letter],070,akk-x-mbperi:bēlu[lord]N

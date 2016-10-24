@@ -1,43 +1,43 @@
 id_text,text_name,l_no,text
-aemw/amarna/P271164,EA 054. More about Aitukama [vassal letter],001,akk-x-mbperi:ana[to]PRP akk-x-mbperi:šarru[king]N akk-x-mbperi:bēlu[lord]N
-aemw/amarna/P271164,EA 054. More about Aitukama [vassal letter],002,akk-x-mbperi:umma[saying]PRP akk-x-mbperi:Akizzi[1]PN akk-x-mbperi:wardu[slave]N
-aemw/amarna/P271164,EA 054. More about Aitukama [vassal letter],003,akk-x-mbperi:ana[to]PRP akk-x-mbperi:šēpu[foot]N akk-x-mbperi:bēlu[lord]N akk-x-mbperi:maqātu[fall]V
-aemw/amarna/P271164,EA 054. More about Aitukama [vassal letter],004,akk-x-mbperi:bēlu[lord]N
-aemw/amarna/P271164,EA 054. More about Aitukama [vassal letter],005,akk-x-mbperi:u[and]CNJ akk-x-mbperi:šapāru[send]V
-aemw/amarna/P271164,EA 054. More about Aitukama [vassal letter],006,akk-x-mbperi:inanna[now]AV
-aemw/amarna/P271164,EA 054. More about Aitukama [vassal letter],007,akk-x-mbperi:u[and]CNJ
-aemw/amarna/P271164,EA 054. More about Aitukama [vassal letter],008,akk-x-mbperi:u[and]CNJ
-aemw/amarna/P271164,EA 054. More about Aitukama [vassal letter],018,akk-x-mbperi:šapāru[send]V
-aemw/amarna/P271164,EA 054. More about Aitukama [vassal letter],020,akk-x-mbperi:dannu[strong]AJ
-aemw/amarna/P271164,EA 054. More about Aitukama [vassal letter],022,akk-x-mbperi:Aiṭukama[1]PN akk-x-mbperi:awīlu[ruler]N akk-x-mbperi:Qidšu[Qadesh]GN
-aemw/amarna/P271164,EA 054. More about Aitukama [vassal letter],023,akk-x-mbperi:wašbu[inhabited]AJ
-aemw/amarna/P271164,EA 054. More about Aitukama [vassal letter],024,akk-x-mbperi:u[and]CNJ akk-x-mbperi:ana[to]PRP
-aemw/amarna/P271164,EA 054. More about Aitukama [vassal letter],025,akk-x-mbperi:kašādu[reach]V
-aemw/amarna/P271164,EA 054. More about Aitukama [vassal letter],026,akk-x-mbperi:nadānu[give]V akk-x-mbperi:Arsawuya[1]PN akk-x-mbperi:awīlu[man]N akk-x-mbperi:ša[of]DET akk-x-mbperi:Ruhizu[1]GN
-aemw/amarna/P271164,EA 054. More about Aitukama [vassal letter],027,akk-x-mbperi:u[and]CNJ akk-x-mbperi:Teuwatti[1]PN akk-x-mbperi:awīlu[man]N akk-x-mbperi:ša[of]DET akk-x-mbperi:Labana[1]GN
-aemw/amarna/P271164,EA 054. More about Aitukama [vassal letter],028,akk-x-mbperi:itti[with]PRP akk-x-mbperi:Aiṭukama[1]PN akk-x-mbperi:awīlu[man]N akk-x-mbperi:ša[of]DET akk-x-mbperi:Qidšu[Qadesh]GN
-aemw/amarna/P271164,EA 054. More about Aitukama [vassal letter],029,akk-x-mbperi:u[and]CNJ akk-x-mbperi:itti[with]PRP akk-x-mbperi:šarru[king]N akk-x-mbperi:Hatti[1]GN akk-x-mbperi:ahāzu[take]V
-aemw/amarna/P271164,EA 054. More about Aitukama [vassal letter],030,akk-x-mbperi:ammīni[why?]AV
-aemw/amarna/P271164,EA 054. More about Aitukama [vassal letter],031,akk-x-mbperi:Arsawuya[1]PN akk-x-mbperi:awīlu[man]N akk-x-mbperi:ša[of]DET akk-x-mbperi:Ruhizu[1]GN
-aemw/amarna/P271164,EA 054. More about Aitukama [vassal letter],032,akk-x-mbperi:u[and]CNJ akk-x-mbperi:Teuwatti[1]PN akk-x-mbperi:awīlu[man]N akk-x-mbperi:ša[of]DET akk-x-mbperi:Labana[1]GN
-aemw/amarna/P271164,EA 054. More about Aitukama [vassal letter],033,akk-x-mbperi:u[and]CNJ akk-x-mbperi:šarru[king]N akk-x-mbperi:Hatti[1]GN
-aemw/amarna/P271164,EA 054. More about Aitukama [vassal letter],034,akk-x-mbperi:itti[with]PRP akk-x-mbperi:ahāmiš[each-other]AV akk-x-mbperi:ana[to]PRP akk-x-mbperi:ša[of]DET akk-x-mbperi:šarru[king]N akk-x-mbperi:bēlu[lord]N
-aemw/amarna/P271164,EA 054. More about Aitukama [vassal letter],035,akk-x-mbperi:alāku[go]V
-aemw/amarna/P271164,EA 054. More about Aitukama [vassal letter],036,akk-x-mbperi:kašādu[reach]V
-aemw/amarna/P271164,EA 054. More about Aitukama [vassal letter],037,akk-x-mbperi:u[and]CNJ akk-x-mbperi:itti[with]PRP akk-x-mbperi:alāku[go]V
-aemw/amarna/P271164,EA 054. More about Aitukama [vassal letter],038,akk-x-mbperi:u[and]CNJ akk-x-mbperi:māru[son]N akk-x-mbperi:šipru[sending]N akk-x-mbperi:ša[of]DET akk-x-mbperi:bēlu[lord]N akk-x-mbperi:ana[to]PRP akk-x-mbperi:eli[on]PRP
-aemw/amarna/P271164,EA 054. More about Aitukama [vassal letter],039,akk-x-mbperi:alāku[go]V akk-x-mbperi:u[and]CNJ akk-x-mbperi:kīam[so]AV akk-x-mbperi:qabû[say]V
-aemw/amarna/P271164,EA 054. More about Aitukama [vassal letter],040,akk-x-mbperi:ina[in]PRP akk-x-mbperi:mātu[land]N akk-x-mbperi:Mittani[1]GN akk-x-mbperi:alāku[go]V
-aemw/amarna/P271164,EA 054. More about Aitukama [vassal letter],041,akk-x-mbperi:u[and]CNJ akk-x-mbperi:šarru[king]N akk-x-mbperi:nakru[strange]AJ
-aemw/amarna/P271164,EA 054. More about Aitukama [vassal letter],042,akk-x-mbperi:ana[to]PRP akk-x-mbperi:ša[of]DET akk-x-mbperi:šarru[king]N akk-x-mbperi:Hatti[1]GN akk-x-mbperi:ša[of]DET akk-x-mbperi:gabbu[totality]N
-aemw/amarna/P271164,EA 054. More about Aitukama [vassal letter],043,akk-x-mbperi:ina[in]PRP akk-x-mbperi:pānu[front]N akk-x-mbperi:šaknu[placed]AJ
-aemw/amarna/P271164,EA 054. More about Aitukama [vassal letter],044,akk-x-mbperi:ṣābu[people]N akk-x-mbperi:u[and]CNJ akk-x-mbperi:narkabtu[chariot]N
-aemw/amarna/P271164,EA 054. More about Aitukama [vassal letter],045,akk-x-mbperi:u[and]CNJ akk-x-mbperi:māru[son]N akk-x-mbperi:šipru[sending]N
-aemw/amarna/P271164,EA 054. More about Aitukama [vassal letter],046,akk-x-mbperi:ana[to]PRP akk-x-mbperi:waṣû[go-out]V akk-x-mbperi:lā[not]MOD akk-x-mbperi:leʾû[be(come)-able]V
-aemw/amarna/P271164,EA 054. More about Aitukama [vassal letter],047,akk-x-mbperi:lā[not]MOD akk-x-mbperi:nahāsu[(re)cede]V
-aemw/amarna/P271164,EA 054. More about Aitukama [vassal letter],048,akk-x-mbperi:epištu[deed]N
-aemw/amarna/P271164,EA 054. More about Aitukama [vassal letter],051,akk-x-mbperi:Kargamiš[Carchemish]GN
-aemw/amarna/P271164,EA 054. More about Aitukama [vassal letter],052,akk-x-mbperi:ša[of]DET akk-x-mbperi:attū[belonging-to]PP
-aemw/amarna/P271164,EA 054. More about Aitukama [vassal letter],053,akk-x-mbperi:kašādu[reach]V
-aemw/amarna/P271164,EA 054. More about Aitukama [vassal letter],054,akk-x-mbperi:šunu[they]IP
-aemw/amarna/P271164,EA 054. More about Aitukama [vassal letter],055,akk-x-mbperi:kašādu[reach]V
+aemw/amarna/P271164,EA 054. More about Aitukama [vassal letter],001,
+aemw/amarna/P271164,EA 054. More about Aitukama [vassal letter],002,
+aemw/amarna/P271164,EA 054. More about Aitukama [vassal letter],003,
+aemw/amarna/P271164,EA 054. More about Aitukama [vassal letter],004,
+aemw/amarna/P271164,EA 054. More about Aitukama [vassal letter],005,
+aemw/amarna/P271164,EA 054. More about Aitukama [vassal letter],006,
+aemw/amarna/P271164,EA 054. More about Aitukama [vassal letter],007,
+aemw/amarna/P271164,EA 054. More about Aitukama [vassal letter],008,
+aemw/amarna/P271164,EA 054. More about Aitukama [vassal letter],018,
+aemw/amarna/P271164,EA 054. More about Aitukama [vassal letter],020,
+aemw/amarna/P271164,EA 054. More about Aitukama [vassal letter],022,
+aemw/amarna/P271164,EA 054. More about Aitukama [vassal letter],023,
+aemw/amarna/P271164,EA 054. More about Aitukama [vassal letter],024,
+aemw/amarna/P271164,EA 054. More about Aitukama [vassal letter],025,
+aemw/amarna/P271164,EA 054. More about Aitukama [vassal letter],026,
+aemw/amarna/P271164,EA 054. More about Aitukama [vassal letter],027,
+aemw/amarna/P271164,EA 054. More about Aitukama [vassal letter],028,
+aemw/amarna/P271164,EA 054. More about Aitukama [vassal letter],029,
+aemw/amarna/P271164,EA 054. More about Aitukama [vassal letter],030,
+aemw/amarna/P271164,EA 054. More about Aitukama [vassal letter],031,
+aemw/amarna/P271164,EA 054. More about Aitukama [vassal letter],032,
+aemw/amarna/P271164,EA 054. More about Aitukama [vassal letter],033,
+aemw/amarna/P271164,EA 054. More about Aitukama [vassal letter],034,
+aemw/amarna/P271164,EA 054. More about Aitukama [vassal letter],035,
+aemw/amarna/P271164,EA 054. More about Aitukama [vassal letter],036,
+aemw/amarna/P271164,EA 054. More about Aitukama [vassal letter],037,
+aemw/amarna/P271164,EA 054. More about Aitukama [vassal letter],038,
+aemw/amarna/P271164,EA 054. More about Aitukama [vassal letter],039,
+aemw/amarna/P271164,EA 054. More about Aitukama [vassal letter],040,
+aemw/amarna/P271164,EA 054. More about Aitukama [vassal letter],041,
+aemw/amarna/P271164,EA 054. More about Aitukama [vassal letter],042,
+aemw/amarna/P271164,EA 054. More about Aitukama [vassal letter],043,
+aemw/amarna/P271164,EA 054. More about Aitukama [vassal letter],044,
+aemw/amarna/P271164,EA 054. More about Aitukama [vassal letter],045,
+aemw/amarna/P271164,EA 054. More about Aitukama [vassal letter],046,
+aemw/amarna/P271164,EA 054. More about Aitukama [vassal letter],047,
+aemw/amarna/P271164,EA 054. More about Aitukama [vassal letter],048,
+aemw/amarna/P271164,EA 054. More about Aitukama [vassal letter],051,
+aemw/amarna/P271164,EA 054. More about Aitukama [vassal letter],052,
+aemw/amarna/P271164,EA 054. More about Aitukama [vassal letter],053,
+aemw/amarna/P271164,EA 054. More about Aitukama [vassal letter],054,
+aemw/amarna/P271164,EA 054. More about Aitukama [vassal letter],055,

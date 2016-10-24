@@ -1,13 +1,13 @@
 id_text,text_name,l_no,text
-aemw/amarna/P271014,EA 225. Perfect obedience [vassal letter],001,akk-x-mbperi:ana[to]PRP akk-x-mbperi:šarru[king]N akk-x-mbperi:bēlu[lord]N
-aemw/amarna/P271014,EA 225. Perfect obedience [vassal letter],002,akk-x-mbperi:qabû[say]V akk-x-mbperi:umma[saying]PRP
-aemw/amarna/P271014,EA 225. Perfect obedience [vassal letter],003,akk-x-mbperi:Šum-Addu[1]PN akk-x-mbperi:awīlu[man]N
-aemw/amarna/P271014,EA 225. Perfect obedience [vassal letter],004,akk-x-mbperi:Šamhuna[Šimron]GN
-aemw/amarna/P271014,EA 225. Perfect obedience [vassal letter],005,akk-x-mbperi:ana[to]PRP akk-x-mbperi:šēpu[foot]N akk-x-mbperi:šarru[king]N
-aemw/amarna/P271014,EA 225. Perfect obedience [vassal letter],006,akk-x-mbperi:u[and]CNJ
-aemw/amarna/P271014,EA 225. Perfect obedience [vassal letter],007,akk-x-mbperi:maqātu[fall]V akk-x-mbperi:gabbu[totality]N
+aemw/amarna/P271014,EA 225. Perfect obedience [vassal letter],001,akk-x-mbperi:šarru[king]N akk-x-mbperi:bēlu[lord]N
+aemw/amarna/P271014,EA 225. Perfect obedience [vassal letter],002,
+aemw/amarna/P271014,EA 225. Perfect obedience [vassal letter],003,akk-x-mbperi:awīlu[man]N
+aemw/amarna/P271014,EA 225. Perfect obedience [vassal letter],004,
+aemw/amarna/P271014,EA 225. Perfect obedience [vassal letter],005,akk-x-mbperi:šēpu[foot]N akk-x-mbperi:šarru[king]N
+aemw/amarna/P271014,EA 225. Perfect obedience [vassal letter],006,
+aemw/amarna/P271014,EA 225. Perfect obedience [vassal letter],007,akk-x-mbperi:gabbu[totality]N
 aemw/amarna/P271014,EA 225. Perfect obedience [vassal letter],008,akk-x-mbperi:awātu[word]N akk-x-mbperi:šarru[king]N
-aemw/amarna/P271014,EA 225. Perfect obedience [vassal letter],009,akk-x-mbperi:šemû[hear]V akk-x-mbperi:u[and]CNJ
-aemw/amarna/P271014,EA 225. Perfect obedience [vassal letter],010,akk-x-mbperi:rābiṣu[bailiff]N akk-x-mbperi:nadānu[give]V
+aemw/amarna/P271014,EA 225. Perfect obedience [vassal letter],009,
+aemw/amarna/P271014,EA 225. Perfect obedience [vassal letter],010,akk-x-mbperi:rābiṣu[bailiff]N
 aemw/amarna/P271014,EA 225. Perfect obedience [vassal letter],011,akk-x-mbperi:šarru[king]N
-aemw/amarna/P271014,EA 225. Perfect obedience [vassal letter],012,akk-x-mbperi:eli[on]PRP akk-x-mbperi:šemû[hear]V
+aemw/amarna/P271014,EA 225. Perfect obedience [vassal letter],012,

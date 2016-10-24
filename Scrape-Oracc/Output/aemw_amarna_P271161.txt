@@ -1,14 +1,14 @@
 id_text,text_name,l_no,text
-aemw/amarna/P271161,EA 057. Of kings and Tunip [vassal letter],001,akk-x-mbperi:Puhuru[1]PN
-aemw/amarna/P271161,EA 057. Of kings and Tunip [vassal letter],002,akk-x-mbperi:alāku[go]V akk-x-mbperi:Akizzi[1]PN akk-x-mbperi:šarru[king]N akk-x-mbperi:Qaṭna[1]GN
-aemw/amarna/P271161,EA 057. Of kings and Tunip [vassal letter],003,akk-x-mbperi:šarru[king]N akk-x-mbperi:Barga[1]GN
-aemw/amarna/P271161,EA 057. Of kings and Tunip [vassal letter],004,akk-x-mbperi:u[and]CNJ akk-x-mbperi:alāku[go]V
-aemw/amarna/P271161,EA 057. Of kings and Tunip [vassal letter],005,akk-x-mbperi:ṣābu[people]N akk-x-mbperi:hurādu[soldier]N akk-x-mbperi:ša[of]DET akk-x-mbperi:bēlu[lord]N
-aemw/amarna/P271161,EA 057. Of kings and Tunip [vassal letter],006,akk-x-mbperi:ana[to]PRP akk-x-mbperi:muhhu[skull]N akk-x-mbperi:Puhuru[1]PN
-aemw/amarna/P271161,EA 057. Of kings and Tunip [vassal letter],008,akk-x-mbperi:našû[lift]V
-aemw/amarna/P271161,EA 057. Of kings and Tunip [vassal letter],010,akk-x-mbperi:ana[to]PRP akk-x-mbperi:muhhu[skull]N akk-x-mbperi:Puhuru[1]PN
-aemw/amarna/P271161,EA 057. Of kings and Tunip [vassal letter],011,akk-x-mbperi:dabābu[speak]V akk-x-mbperi:šarru[king]N
-aemw/amarna/P271161,EA 057. Of kings and Tunip [vassal letter],012,akk-x-mbperi:Tunip[1]GN
-aemw/amarna/P271161,EA 057. Of kings and Tunip [vassal letter],013,akk-x-mbperi:Shumitta[1]PN
-aemw/amarna/P271161,EA 057. Of kings and Tunip [vassal letter],r 01,akk-x-mbperi:Tunip[1]GN
-aemw/amarna/P271161,EA 057. Of kings and Tunip [vassal letter],r 05,akk-x-mbperi:wašāru[sink-down]V
+aemw/amarna/P271161,EA 057. Of kings and Tunip [vassal letter],001,
+aemw/amarna/P271161,EA 057. Of kings and Tunip [vassal letter],002,
+aemw/amarna/P271161,EA 057. Of kings and Tunip [vassal letter],003,
+aemw/amarna/P271161,EA 057. Of kings and Tunip [vassal letter],004,
+aemw/amarna/P271161,EA 057. Of kings and Tunip [vassal letter],005,
+aemw/amarna/P271161,EA 057. Of kings and Tunip [vassal letter],006,
+aemw/amarna/P271161,EA 057. Of kings and Tunip [vassal letter],008,
+aemw/amarna/P271161,EA 057. Of kings and Tunip [vassal letter],010,
+aemw/amarna/P271161,EA 057. Of kings and Tunip [vassal letter],011,
+aemw/amarna/P271161,EA 057. Of kings and Tunip [vassal letter],012,
+aemw/amarna/P271161,EA 057. Of kings and Tunip [vassal letter],013,
+aemw/amarna/P271161,EA 057. Of kings and Tunip [vassal letter],r 01,
+aemw/amarna/P271161,EA 057. Of kings and Tunip [vassal letter],r 05,

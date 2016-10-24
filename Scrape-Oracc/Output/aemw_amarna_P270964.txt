@@ -1,16 +1,16 @@
 id_text,text_name,l_no,text
-aemw/amarna/P270964,EA 251. A reckoning requested [vassal letter],001,akk-x-mbperi:šâlu[ask]V
-aemw/amarna/P270964,EA 251. A reckoning requested [vassal letter],002,akk-x-mbperi:šarru[king]N akk-x-mbperi:šumma[if]MOD akk-x-mbperi:lā[not]MOD akk-x-mbperi:kittu[steadiness]N
-aemw/amarna/P270964,EA 251. A reckoning requested [vassal letter],003,akk-x-mbperi:mimma[anything]XP akk-x-mbperi:aššu[because-(of)]PRP akk-x-mbperi:hazannu[mayor]N
-aemw/amarna/P270964,EA 251. A reckoning requested [vassal letter],004,akk-x-mbperi:u[and]CNJ akk-x-mbperi:qabû[say]V
-aemw/amarna/P270964,EA 251. A reckoning requested [vassal letter],005,akk-x-mbperi:ina[in]PRP akk-x-mbperi:pānu[front]N akk-x-mbperi:šarru[king]N akk-x-mbperi:u[and]CNJ
-aemw/amarna/P270964,EA 251. A reckoning requested [vassal letter],006,akk-x-mbperi:šarru[king]N akk-x-mbperi:bēlu[lord]N akk-x-mbperi:šâlu[ask]V
-aemw/amarna/P270964,EA 251. A reckoning requested [vassal letter],007,akk-x-mbperi:anumma[now]AV akk-x-mbperi:kīam[so]AV
-aemw/amarna/P270964,EA 251. A reckoning requested [vassal letter],008,akk-x-mbperi:qālu[attentive]AJ akk-x-mbperi:adi[until]PRP
-aemw/amarna/P270964,EA 251. A reckoning requested [vassal letter],009,akk-x-mbperi:lamādu[learn]V akk-x-mbperi:šarru[king]N
+aemw/amarna/P270964,EA 251. A reckoning requested [vassal letter],001,
+aemw/amarna/P270964,EA 251. A reckoning requested [vassal letter],002,akk-x-mbperi:šarru[king]N akk-x-mbperi:kittu[steadiness]N
+aemw/amarna/P270964,EA 251. A reckoning requested [vassal letter],003,akk-x-mbperi:hazannu[mayor]N
+aemw/amarna/P270964,EA 251. A reckoning requested [vassal letter],004,
+aemw/amarna/P270964,EA 251. A reckoning requested [vassal letter],005,akk-x-mbperi:pānu[front]N akk-x-mbperi:šarru[king]N
+aemw/amarna/P270964,EA 251. A reckoning requested [vassal letter],006,akk-x-mbperi:šarru[king]N akk-x-mbperi:bēlu[lord]N
+aemw/amarna/P270964,EA 251. A reckoning requested [vassal letter],007,
+aemw/amarna/P270964,EA 251. A reckoning requested [vassal letter],008,
+aemw/amarna/P270964,EA 251. A reckoning requested [vassal letter],009,akk-x-mbperi:šarru[king]N
 aemw/amarna/P270964,EA 251. A reckoning requested [vassal letter],010,akk-x-mbperi:bēlu[lord]N akk-x-mbperi:awātu[word]N
-aemw/amarna/P270964,EA 251. A reckoning requested [vassal letter],011-012,akk-x-mbperi:annû[this]DP akk-x-mbperi:u[and]CNJ akk-x-mbperi:târu[turn]V akk-x-mbperi:šarru[king]N akk-x-mbperi:bēlu[lord]N
-aemw/amarna/P270964,EA 251. A reckoning requested [vassal letter],013,akk-x-mbperi:awātu[word]N akk-x-mbperi:târu[turn]V
-aemw/amarna/P270964,EA 251. A reckoning requested [vassal letter],014,akk-x-mbperi:u[and]CNJ akk-x-mbperi:ana[to]PRP akk-x-mbperi:awātu[word]N
-aemw/amarna/P270964,EA 251. A reckoning requested [vassal letter],015,akk-x-mbperi:šarru[king]N akk-x-mbperi:šemû[hear]V
-aemw/amarna/P270964,EA 251. A reckoning requested [vassal letter],016,akk-x-mbperi:u[and]CNJ akk-x-mbperi:magāru[consent]V akk-x-mbperi:ina[in]PRP
+aemw/amarna/P270964,EA 251. A reckoning requested [vassal letter],011-012,akk-x-mbperi:šarru[king]N akk-x-mbperi:bēlu[lord]N
+aemw/amarna/P270964,EA 251. A reckoning requested [vassal letter],013,akk-x-mbperi:awātu[word]N
+aemw/amarna/P270964,EA 251. A reckoning requested [vassal letter],014,akk-x-mbperi:awātu[word]N
+aemw/amarna/P270964,EA 251. A reckoning requested [vassal letter],015,akk-x-mbperi:šarru[king]N
+aemw/amarna/P270964,EA 251. A reckoning requested [vassal letter],016,
