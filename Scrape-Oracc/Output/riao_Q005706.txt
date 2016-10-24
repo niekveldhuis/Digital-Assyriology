@@ -1,0 +1,15 @@
+id_text,text_name,l_no,text
+riao/Q005706,Aššur-bel-nišešu 1,1,Aššur-bel-nišešu[son-fo-Aššur-narari-II;-vice-regent-of-Aššur]RN
+riao/Q005706,Aššur-bel-nišešu 1,2,iššiakku[city-ruler]N Aššur[1]DN
+riao/Q005706,Aššur-bel-nišešu 1,3,māru[son]N Aššur-narari_II[successor-of-Enlil-naṣir-II;-vice-regent-of-the-god-Aššur]RN iššiakku[city-ruler]N
+riao/Q005706,Aššur-bel-nišešu 1,4,Aššur[1]DN ana[to]PRP balāṭu[life]N u[and]CNJ šalāmu[be(come)-healthy]V
+riao/Q005706,Aššur-bel-nišešu 1,5,ālu[city]N dūru[(city)-wall]N rabû[great]AJ ša[of]DET Alu-eššu[New-City;-district-of-Aššur]SN
+riao/Q005706,Aššur-bel-nišešu 1,6,ša[that]REL Puzur-Aššur_II[vice-regent-of-god-Aššur;-son-of-Sargon-I]RN rubû[ruler]N abu[father]N epēšu[do]V
+riao/Q005706,Aššur-bel-nišešu 1,7,ana[to]PRP pittu[side]N dūru[(city)-wall]N šuāti[him]IP dūru[(city)-wall]N eššu[new]AJ epēšu[do]V
+riao/Q005706,Aššur-bel-nišešu 1,8,ištu[from]PRP dūru[(city)-wall]N rabû[great]AJ ša[of]DET Libbi-ali[Inner-City;-Ashur]SN qadu[together-with]PRP nāru[river]N
+riao/Q005706,Aššur-bel-nišešu 1,9,ana[to]PRP sihirtu[circumference]N labāšu[clothe-oneself]V
+riao/Q005706,Aššur-bel-nišešu 1,10,ištu[from]PRP uššu[foundation]N qadu[together-with]PRP šaptu[lip]N epēšu[do]V
+riao/Q005706,Aššur-bel-nišešu 1,11,u[and]CNJ sikkatu[peg]N šakānu[put]V rubû[ruler]N warkû[rear]AJ
+riao/Q005706,Aššur-bel-nišešu 1,12,inūma[when]SBJ dūru[(city)-wall]N šūt[he]DP anāhu[be(come)-tired]V epēšu[do]V
+riao/Q005706,Aššur-bel-nišešu 1,13,Aššur[1]DN u[and]CNJ Adad[1]DN ikribu[prayer]N
+riao/Q005706,Aššur-bel-nišešu 1,14,šemû[hear]V u[and]CNJ sikkatu[peg]N

@@ -1,0 +1,190 @@
+id_text,text_name,l_no,text
+rinap/rinap4/Q003232,Esarhaddon 003,i 3',qabû[say]V
+rinap/rinap4/Q003232,Esarhaddon 003,i 4',alāku[go]V
+rinap/rinap4/Q003232,Esarhaddon 003,i 8',mahāṣu[beat]V
+rinap/rinap4/Q003232,Esarhaddon 003,i 16',Nabu-zer-kitti-lišer[governor-of-the-Sealand]RN
+rinap/rinap4/Q003232,Esarhaddon 003,i 18',gerru[way]N šemû[hear]V
+rinap/rinap4/Q003232,Esarhaddon 003,i 19',ana[to]PRP Elamtu[Elam]GN šēlabiš[like-a-fox]AV abātu[run-away]V
+rinap/rinap4/Q003232,Esarhaddon 003,i 20',aššu[because-(of)]PRP māmītu[oath]N ilu[god]N rabû[great]AJ ša[that]REL etēqu[go-past]V
+rinap/rinap4/Q003232,Esarhaddon 003,i 21',Aššur[1]DN Sin[1]DN Šamaš[1]DN Bel[1]DN u[and]CNJ Nabu[1]DN
+rinap/rinap4/Q003232,Esarhaddon 003,i 22',arnu[guilt]N kabtu[heavy]AJ emēdu[lean-on]V
+rinap/rinap4/Q003232,Esarhaddon 003,i 23',qerbu[centre]N Elamtu[Elam]GN nêru[strike]V ina[in]PRP kakku[stick]N
+rinap/rinap4/Q003232,Esarhaddon 003,i 24',Naʾid-Marduk[governor-of-the-Sealand]PN ahu[brother]N
+rinap/rinap4/Q003232,Esarhaddon 003,i 25',epištu[deed]N Elamtu[Elam]GN ša[that]REL ana[to]PRP ahu[brother]N epēšu[do]V
+rinap/rinap4/Q003232,Esarhaddon 003,i 26',amāru[see]V ištu[from]PRP Elamtu[Elam]GN abātu[run-away]V
+rinap/rinap4/Q003232,Esarhaddon 003,i 27',ana[to]PRP epēšu[do]V wardūtu[slavery]N
+rinap/rinap4/Q003232,Esarhaddon 003,i 28',ana[to]PRP Ninua[Nineveh]SN alāku[go]V ṣullû[beseech]V bēlūtu[rule]N
+rinap/rinap4/Q003232,Esarhaddon 003,ii 1',u[and]CNJ Abdi-milkuti[king-of-Sidon]RN šarru[king]N Ṣidunu[Sidon]SN
+rinap/rinap4/Q003232,Esarhaddon 003,ii 2',ana[to]PRP rēṣūtu[help]N šakānu[put]V nīšu[(oath-on-the)-life]N ilu[god]N rabû[great]AJ
+rinap/rinap4/Q003232,Esarhaddon 003,ii 3',ana[to]PRP ahāmiš[one-another]RP zakāru[speak]V ana[to]PRP emūqu[strength]N takālu[trust]V
+rinap/rinap4/Q003232,Esarhaddon 003,ii 4',anāku[I]IP ana[to]PRP Aššur[1]DN bēlu[lord]N takālu[trust]V
+rinap/rinap4/Q003232,Esarhaddon 003,ii 5',kīma[like]PRP iṣṣūru[bird]N ištu[from]PRP qerbu[centre]N šadû[mountain]N bâru[catch]V nakāsu[cut]V qaqqadu[head]N
+rinap/rinap4/Q003232,Esarhaddon 003,ii 6',aššu[because-(of)]PRP danānu[power]N Aššur[1]DN bēlu[lord]N nišu[people]N kullumu[show]V
+rinap/rinap4/Q003232,Esarhaddon 003,ii 7',qaqqadu[head]N Sanda-uarri[ruler-of-Kundi-and-Sissu]RN u[and]CNJ Abdi-milkuti[king-of-Sidon]RN
+rinap/rinap4/Q003232,Esarhaddon 003,ii 8',ina[in]PRP kišādu[neck]N rabû[great-one]N alālu[hang-up]V itti[with]PRP nāru[musician]N
+rinap/rinap4/Q003232,Esarhaddon 003,ii 9',u[and]CNJ sammû[lyre]N ina[in]PRP rebītu[street]N Ninua[Nineveh]SN etēqu[go-past]V
+rinap/rinap4/Q003232,Esarhaddon 003,ii 10',šālilu[plunderer]N Arza[1]SN ša[that]REL pāṭu[edge]N nahallu[stream]N Muṣur[Egypt]GN
+rinap/rinap4/Q003232,Esarhaddon 003,ii 11',ša[that]REL Asuhili[king-of-Arza]RN šarru[king]N adi[until]PRP māliku[adviser]N
+rinap/rinap4/Q003232,Esarhaddon 003,ii 12',birītu[fetter]N nadû[throw-(down)]V ana[to]PRP mātu[land]N Aššur[Assyria]GN warû[lead]V
+rinap/rinap4/Q003232,Esarhaddon 003,ii 13',ina[in]PRP ṭēhu[proximity]N abullu[gate]N qablu[hips]N ālu[city]N ša[of]DET Ninua[Nineveh]SN itti[with]PRP asu[bear]N kalbu[dog]N
+rinap/rinap4/Q003232,Esarhaddon 003,ii 14',u[and]CNJ šahû[pig]N wašābu[sit-(down)]V kamîš[in-a-bound-state]AV
+rinap/rinap4/Q003232,Esarhaddon 003,ii 15',u[and]CNJ Teušpa[Cimmerian-ruler]RN Gimirayu[Cimmerian]EN ummān-manda[barbarian-horde]N
+rinap/rinap4/Q003232,Esarhaddon 003,ii 16',ša[that]REL ašru[place]N rūqu[distant]AJ ina[in]PRP erṣetu[earth]N Hubušna[1]GN
+rinap/rinap4/Q003232,Esarhaddon 003,ii 17',adi[until]PRP gimru[totality]N ummānu[military-force]N rasābu[smite]V ina[in]PRP kakku[stick]N
+rinap/rinap4/Q003232,Esarhaddon 003,ii 18',kābisu[one-who-treads-on]N kišādu[neck]N nišu[people]N Hilakku[1]GN
+rinap/rinap4/Q003232,Esarhaddon 003,ii 19',šaddûʾa[mountain-dweller]N wāšibu[sitting]AJ huršānu[mountain(s)]N ša[that]REL ṭēhu[proximity]N Tabalu[Tabal]GN
+rinap/rinap4/Q003232,Esarhaddon 003,ii 20',ša[that]REL eli[on]PRP mātu[land]N takālu[trust]V ištu[from]PRP ūmu[day]N pānu[front]N
+rinap/rinap4/Q003232,Esarhaddon 003,ii 21',lā[not]MOD kanāšu[bow-down]V ana[to]PRP nīru[yoke]N ālu[city]N dannu[strong]AJ
+rinap/rinap4/Q003232,Esarhaddon 003,ii 22',adi[until]PRP ālu[city]N ṣehru[small]AJ ša[that]REL liwītu[packaging]N lawû[surround]V
+rinap/rinap4/Q003232,Esarhaddon 003,ii 23',kašādu[reach]V šalālu[carry-off]V šallatu[plundered-thing(s)]N napālu[dig-out]V naqāru[demolish]V
+rinap/rinap4/Q003232,Esarhaddon 003,ii 24',ina[in]PRP gīru[fire(-god)]N qamû[burn-(up)]V sittūtu[those-remaining]N ša[that]REL hīṭu[error]N
+rinap/rinap4/Q003232,Esarhaddon 003,ii 25',u[and]CNJ gullultu[sin]N lā[not]MOD išû[have]V kabtu[heavy]AJ nīru[yoke]N
+rinap/rinap4/Q003232,Esarhaddon 003,ii 26',bēlūtu[rule]N emēdu[lean-on]V
+rinap/rinap4/Q003232,Esarhaddon 003,ii 27',dāʾišu[thresher]N Barnaki[1]EN nakru[enemy]N akṣu[brazen]AJ wāšibu[sitting]AJ
+rinap/rinap4/Q003232,Esarhaddon 003,ii 28',Til-Ašurri[1]GN ša[that]REL ina[in]PRP pû[mouth]N nišu[people]N Mihranu[1]GN
+rinap/rinap4/Q003232,Esarhaddon 003,ii 29',Pitanu[1]GN nabû[name]V zikru[utterance]N
+rinap/rinap4/Q003232,Esarhaddon 003,ii 30',musappihu[scatterer]N nišu[people]N Mannayu[Mannean]EN Gutu[Gutian]EN lā[not]MOD sanqu[checked]AJ
+rinap/rinap4/Q003232,Esarhaddon 003,ii 31',ša[that]REL ummānu[military-force]N Išpakaia[chieftain-of-the-Scythians]RN Asguzayu[Scythian]EN
+rinap/rinap4/Q003232,Esarhaddon 003,iii 1',danānu[power]N Aššur[1]DN bēlu[lord]N u[and]CNJ šiṭru[(piece-of)-writing]N šumu[name]N
+rinap/rinap4/Q003232,Esarhaddon 003,iii 2',eli[on]PRP šaṭāru[write]V târu[turn]V nadānu[give]V
+rinap/rinap4/Q003232,Esarhaddon 003,iii 3',Tabua[queen-of-the-Arabs]RN tarbītu[child-rearing]N ēkallu[palace]N
+rinap/rinap4/Q003232,Esarhaddon 003,iii 4',ana[to]PRP šarrūtu[kingship]N eli[on]PRP šakānu[put]V
+rinap/rinap4/Q003232,Esarhaddon 003,iii 5',itti[with]PRP ilu[god]N ana[to]PRP mātu[land]N târu[turn]V
+rinap/rinap4/Q003232,Esarhaddon 003,iii 6',gammalu[camel]N eli[on]PRP maddattu[payment]N abu[father]N
+rinap/rinap4/Q003232,Esarhaddon 003,iii 7',mahrû[first]AJ redû[accompany]V kânu[be(come)-permanent]V ṣēru[back]N
+rinap/rinap4/Q003232,Esarhaddon 003,iii 8',warka[afterwards]AV Haza-il[Hazael;-king-of-the-Arabs]RN šīmtu[what-is-fixed]N wabālu[carry]V
+rinap/rinap4/Q003232,Esarhaddon 003,iii 9',Iaʾlu[king-of-the-Arabs]RN māru[son]N ina[in]PRP kussû[chair]N wašābu[sit-(down)]V
+rinap/rinap4/Q003232,Esarhaddon 003,iii 10',manû[unit]N hurāṣu[gold]N līm[thousand]NU abnu[stone]N bēru[selected]AJ
+rinap/rinap4/Q003232,Esarhaddon 003,iii 11',gammalu[camel]N līm[thousand]NU kunzu[(a-leather-bag)]N rīqu[aromatic-substance]N
+rinap/rinap4/Q003232,Esarhaddon 003,iii 12',eli[on]PRP maddattu[payment]N abu[father]N redû[accompany]V emēdu[lean-on]V
+rinap/rinap4/Q003232,Esarhaddon 003,iii 13',Bazu[1]GN nagû[region]N ša[that]REL ašru[place]N rūqu[distant]AJ
+rinap/rinap4/Q003232,Esarhaddon 003,iii 14',mišītu[oblivion]N nābalu[dry-land]N qaqqaru[ground]N ṭabtu[salt]N ašru[place]N ṣūmu[thirst]N
+rinap/rinap4/Q003232,Esarhaddon 003,iii 15',meʾatu[(one)-hundred]NU bēru[double-hour]N qaqqaru[ground]N bāṣu[sand]N puquttu[thorn]N u[and]CNJ šinnu[tooth]N ṣabītu[gazelle]N
+rinap/rinap4/Q003232,Esarhaddon 003,iii 16',bēru[double-hour]N qaqqaru[ground]N ṣerru[snake]N u[and]CNJ zuqiqīpu[scorpion]N kīma[like]PRP kulbābu[ant]N
+rinap/rinap4/Q003232,Esarhaddon 003,iii 17',malû[full]AJ ugāru[grassland]N
+rinap/rinap4/Q003232,Esarhaddon 003,iii 18',bēru[double-hour]N Hazu[1]GN šadû[mountain]N sangilimud[(a-bluish-stone)]N
+rinap/rinap4/Q003232,Esarhaddon 003,iii 19',ana[to]PRP warki[after]PRP wašāru[sink-down]V etēqu[go-past]V
+rinap/rinap4/Q003232,Esarhaddon 003,iii 20',ša[that]REL ištu[from]PRP ūmu[day]N ullû[that]DP lā[not]MOD alāku[go]V šarru[king]N pānu[front]N mahru[front]N
+rinap/rinap4/Q003232,Esarhaddon 003,iii 21',ina[in]PRP qibītu[speech]N Aššur[1]DN bēlu[lord]N ina[in]PRP qerbu[centre]N šalṭāniš[in-triumph]AV alāku[go]V
+rinap/rinap4/Q003232,Esarhaddon 003,iii 22',šarru[king]N ša[of]DET qerbu[centre]N nagû[region]N šuāti[him]IP dâku[kill]V
+rinap/rinap4/Q003232,Esarhaddon 003,iii 23',ilu[god]N būšu[goods]N makkūru[property]N nišu[people]N
+rinap/rinap4/Q003232,Esarhaddon 003,iii 24',šalālu[carry-off]V ana[to]PRP qerbu[centre]N mātu[land]N Aššur[Assyria]GN
+rinap/rinap4/Q003232,Esarhaddon 003,iii 25',Laiale[ruler-of-Iadiʾ]RN šarru[king]N Iadiʾ[1]SN
+rinap/rinap4/Q003232,Esarhaddon 003,iii 26',ša[that]REL ištu[from]PRP lapāni[in-front-of]PRP kakku[stick]N naparšudu[flee]V
+rinap/rinap4/Q003232,Esarhaddon 003,iii 27',šallatu[plundered-thing(s)]N ilu[god]N šemû[hear]V ana[to]PRP Ninua[Nineveh]SN ālu[city]N bēlūtu[rule]N
+rinap/rinap4/Q003232,Esarhaddon 003,iii 28',adi[until]PRP mahru[front]N alāku[go]V našāqu[kiss]V
+rinap/rinap4/Q003232,Esarhaddon 003,iii 29',šēpu[foot]N rēmu[womb]N rašû[acquire]V qabû[say]V
+rinap/rinap4/Q003232,Esarhaddon 003,iii 30',ahulap[(an-exclamation-used-to-express-or-to-seek-compassion)]J nagû[region]N Bazu[1]GN šuāti[him]IP
+rinap/rinap4/Q003232,Esarhaddon 003,iii 31',dagālu[see]V pānu[front]N
+rinap/rinap4/Q003232,Esarhaddon 003,iii 32',biltu[load]N maddattu[payment]N bēlūtu[rule]N kânu[be(come)-permanent]V ṣēru[back]N
+rinap/rinap4/Q003232,Esarhaddon 003,iii 33',Bel-iqiša[leader-of-the-Gambulu]RN māru[son]N Bunnannu[leader-of-the-Gambulu]RN Gambulayu[of-Gambulu]EN
+rinap/rinap4/Q003232,Esarhaddon 003,iv 1',sisû[horse]N rukūbu[vehicle]N alpu[ox]N ṣēnu[flock]N imēru[donkey]N
+rinap/rinap4/Q003232,Esarhaddon 003,iv 2',udru[Bactrian-camel]N šallatu[plundered-thing(s)]N kabtu[heavy]AJ šalālu[carry-off]V ana[to]PRP mātu[land]N Aššur[Assyria]GN
+rinap/rinap4/Q003232,Esarhaddon 003,iv 3',Uppis[city-ruler-of-Partakka]PN bēlu[lord]N ālu[city]N ša[of]DET Partakka[1]SN
+rinap/rinap4/Q003232,Esarhaddon 003,iv 4',Zanasana[city-ruler-of-Partukka]PN bēlu[lord]N ālu[city]N ša[of]DET Partukka[1]SN
+rinap/rinap4/Q003232,Esarhaddon 003,iv 5',Ramateia[city-ruler-of-Urakazabarna]PN bēlu[lord]N ālu[city]N ša[of]DET Urakazabarna[1]SN
+rinap/rinap4/Q003232,Esarhaddon 003,iv 6',Madayu[Median]EN ša[that]REL ašru[place]N rūqu[distant]AJ
+rinap/rinap4/Q003232,Esarhaddon 003,iv 7',ša[that]REL ina[in]PRP tarṣu[before]N šarru[king]N abu[father]N erṣetu[earth]N mātu[land]N Aššur[Assyria]GN
+rinap/rinap4/Q003232,Esarhaddon 003,iv 8',lā[not]MOD nabalkutu[cross-over]V lā[not]MOD kabāsu[tread]V qaqqaru[ground]N
+rinap/rinap4/Q003232,Esarhaddon 003,iv 9',puluhtu[awesomeness]N rašubbatu[awesomeness]N Aššur[1]DN bēlu[lord]N sahāpu[envelop]V
+rinap/rinap4/Q003232,Esarhaddon 003,iv 10',mūrnisqu[select-young-animal]N rabû[great]AJ uqnû[lapis-lazuli]N hīpu[break(age)]N šadû[mountain]N
+rinap/rinap4/Q003232,Esarhaddon 003,iv 11',ana[to]PRP Ninua[Nineveh]SN ālu[city]N bēlūtu[rule]N našû[lift]V
+rinap/rinap4/Q003232,Esarhaddon 003,iv 12',našāqu[kiss]V šēpu[foot]N aššu[because-(of)]PRP bēlu[lord]N ālu[city]N
+rinap/rinap4/Q003232,Esarhaddon 003,iv 13',ša[that]REL qātu[hand]N dekû[raise]V bēlūtu[rule]N ṣullû[beseech]V
+rinap/rinap4/Q003232,Esarhaddon 003,iv 14',erēšu[request]V kitru[help]N šūt[who(m)]DET rēšu[head]N
+rinap/rinap4/Q003232,Esarhaddon 003,iv 15',pīhātu[post]N ša[of]DET pāṭu[edge]N mātu[land]N itti[with]PRP wâru[go-(up-to)]V
+rinap/rinap4/Q003232,Esarhaddon 003,iv 16',nišu[people]N wāšibu[sitting]AJ ālu[city]N šâtunu[those]IP
+rinap/rinap4/Q003232,Esarhaddon 003,iv 17',kabāsu[tread]V kanāšu[bow-down]V šēpu[foot]N
+rinap/rinap4/Q003232,Esarhaddon 003,iv 18',biltu[load]N maddattu[payment]N
+rinap/rinap4/Q003232,Esarhaddon 003,iv 19',bēlūtu[rule]N šattišamma[year-by-year]AV kânu[be(come)-permanent]V ṣēru[back]N
+rinap/rinap4/Q003232,Esarhaddon 003,iv 20',ištu[from]PRP Aššur[1]DN Šamaš[1]DN Bel[1]DN Nabu[1]DN
+rinap/rinap4/Q003232,Esarhaddon 003,iv 21',Ištar[1]DN ša[of]DET Ninua[Nineveh]SN Ištar[1]DN ša[of]DET Arba-il[Arbela]SN
+rinap/rinap4/Q003232,Esarhaddon 003,iv 22',eli[on]PRP nakru[enemy]N ina[in]PRP lītu[victory]N izuzzu[stand]V
+rinap/rinap4/Q003232,Esarhaddon 003,iv 23',maṣû[correspond-with]V mala[as-much-as]PRP libbu[interior]N
+rinap/rinap4/Q003232,Esarhaddon 003,iv 24',ina[in]PRP kišittu[achievement]N nakru[enemy]N šadlu[broad]AJ
+rinap/rinap4/Q003232,Esarhaddon 003,iv 25',ša[that]REL ina[in]PRP tukultu[trust]N ilu[god]N rabû[great]AJ bēlu[lord]N
+rinap/rinap4/Q003232,Esarhaddon 003,iv 26',kašādu[reach]V qātu[hand]N
+rinap/rinap4/Q003232,Esarhaddon 003,iv 27',ešertu[chapel]N māhāzu[shrine]N ša[of]DET mātu[land]N Aššur[Assyria]GN u[and]CNJ mātu[land]N Akkad[1]GN
+rinap/rinap4/Q003232,Esarhaddon 003,iv 28',epēšu[do]V kaspu[silver]N hurāṣu[gold]N zaʾānu[be(come)-adorned]V
+rinap/rinap4/Q003232,Esarhaddon 003,iv 29',nawāru[be(come)-bright]V kīma[like]PRP ūmu[day]N
+rinap/rinap4/Q003232,Esarhaddon 003,iv 30',ina[in]PRP ūmu[day]N ēkallu[palace]N māšartu[inspection]N
+rinap/rinap4/Q003232,Esarhaddon 003,iv 31',ša[that]REL qerbu[centre]N Ninua[Nineveh]SN
+rinap/rinap4/Q003232,Esarhaddon 003,iv 32',ša[that]REL šarru[king]N āliku[goer]N mahru[front]N abu[father]N epēšu[do]V
+rinap/rinap4/Q003232,Esarhaddon 003,iv 33',ana[to]PRP ešēru[go-well]V karāšu[military-camp]N paqādu[entrust]V mūrnisqu[select-young-animal]N
+rinap/rinap4/Q003232,Esarhaddon 003,iv 34',parû[mule]N narkabtu[chariot]N tillu[(military)-equipment]N unūtu[merchandise]N tāhāzu[battle]N
+rinap/rinap4/Q003232,Esarhaddon 003,iv 35',u[and]CNJ šallatu[plundered-thing(s)]N nakru[enemy]N gimru[totality]N mimma[anything]XP šumu[name]N
+rinap/rinap4/Q003232,Esarhaddon 003,iv 36',ša[that]REL Aššur[1]DN šarru[king]N ilu[god]N ana[to]PRP isqu[lot]N šarrūtu[kingship]N šarāku[present]V
+rinap/rinap4/Q003232,Esarhaddon 003,iv 37',ana[to]PRP šamāru[rage]V sisû[horse]N šadāhu[walk-forward]V narkabtu[chariot]N
+rinap/rinap4/Q003232,Esarhaddon 003,v 1',girimmu[(a-kind-of-fruit)]N hilibû[the-underworld]N ištu[from]PRP qerbu[centre]N huršānu[mountain(s)]N
+rinap/rinap4/Q003232,Esarhaddon 003,v 2',ašru[place]N nabnītu[creation]N ana[to]PRP hišihtu[requirement]N ēkallu[palace]N
+rinap/rinap4/Q003232,Esarhaddon 003,v 3',marṣiš[bitterly]AV pašqiš[with-great-effort]AV
+rinap/rinap4/Q003232,Esarhaddon 003,v 4',ana[to]PRP Ninua[Nineveh]SN šadādu[drag]V
+rinap/rinap4/Q003232,Esarhaddon 003,v 5',ina[in]PRP warhu[month]N šemû[hearing]AJ ūmu[day]N mitgāru[favourable]AJ
+rinap/rinap4/Q003232,Esarhaddon 003,v 6',eli[on]PRP tamlīu[fill]N šuāti[him]IP
+rinap/rinap4/Q003232,Esarhaddon 003,v 7',ēkallu[palace]N rabbû[very-big]AJ ana[to]PRP mūšabu[dwelling]N bēlūtu[rule]N
+rinap/rinap4/Q003232,Esarhaddon 003,v 8',banû[create]V ṣēru[back]N bītu[house]N dannu[strong]AJ ša[that]REL ina[in]PRP ammatu[unit]N rabû[great]AJ
+rinap/rinap4/Q003232,Esarhaddon 003,v 9',mūraku[length]N ina[in]PRP ammatu[unit]N rabû[great]AJ rupšu[width]N
+rinap/rinap4/Q003232,Esarhaddon 003,v 10',ša[that]REL ina[in]PRP šarru[king]N āliku[goer]N mahru[front]N abu[father]N
+rinap/rinap4/Q003232,Esarhaddon 003,v 11',mamman[somebody]XP lā[not]MOD epēšu[do]V anāku[I]IP epēšu[do]V
+rinap/rinap4/Q003232,Esarhaddon 003,v 12',gušūru[tree-trunk]N erēnu[cedar]N ṣīru[exalted]AJ
+rinap/rinap4/Q003232,Esarhaddon 003,v 13',tarāṣu[stretch-a-(measuring)-cord]V eli[on]PRP
+rinap/rinap4/Q003232,Esarhaddon 003,v 14',daltu[door]N šurmēnu[cypress]N ša[that]REL erīšu[scent]N ṭābu[good]AJ
+rinap/rinap4/Q003232,Esarhaddon 003,v 15',misarru[belt]N kaspu[silver]N u[and]CNJ siparru[bronze]N rakāsu[tie]V
+rinap/rinap4/Q003232,Esarhaddon 003,v 16',retû[drive-in]V bābu[gate]N
+rinap/rinap4/Q003232,Esarhaddon 003,v 17',šēdu[protective-deity]N u[and]CNJ lamassu[(female)-tutelary-deity]N
+rinap/rinap4/Q003232,Esarhaddon 003,v 18',ša[of]DET abnu[stone]N ša[that]REL kī[like]PRP pû[mouth]N šiknu[act-of-putting]N irtu[breast]N lemnu[bad-one]N târu[turn]V
+rinap/rinap4/Q003232,Esarhaddon 003,v 19',nāṣiru[guard]N kibsu[track]N mušallimu[that-delivers-safely]N tallaktu[walkway]N šarru[king]N
+rinap/rinap4/Q003232,Esarhaddon 003,v 20',bānû[creator]N imna[on-the-right]AV u[and]CNJ šumēla[on-the-left]AV ṣabātu[seize]V šigaru[(wooden)-clamp]N
+rinap/rinap4/Q003232,Esarhaddon 003,v 21',ēkallu[palace]N pīlu[limestone]N u[and]CNJ erēnu[cedar]N šutēmudu[superimposed-(on-one-another)]AJ
+rinap/rinap4/Q003232,Esarhaddon 003,v 22',ana[to]PRP muštaʾʾûtu[leisure]N bēlūtu[rule]N
+rinap/rinap4/Q003232,Esarhaddon 003,v 23',nakliš[artistically]AV epēšu[do]V lamassu[(female)-tutelary-deity]N werû[copper]N māšu[twin]AJ
+rinap/rinap4/Q003232,Esarhaddon 003,v 24',ša[that]REL ahennâ[each-by-it/himself]AV pānu[front]N u[and]CNJ warka[afterwards]AV
+rinap/rinap4/Q003232,Esarhaddon 003,v 25',naṭālu[look]V kilallān[both]IP qerbu[centre]N izuzzu[stand]V
+rinap/rinap4/Q003232,Esarhaddon 003,v 26',timmu[pole]N erēnu[cedar]N ṣīru[exalted]AJ adappu[horizontal-crossbeam]N
+rinap/rinap4/Q003232,Esarhaddon 003,v 27',kulūlu[crown]N bābu[gate]N emēdu[lean-on]V
+rinap/rinap4/Q003232,Esarhaddon 003,v 28',sihirtu[circumference]N ēkallu[palace]N šâtu[him]IP
+rinap/rinap4/Q003232,Esarhaddon 003,v 29',nēbehu[band]N pasqu[coping-(of-a-wall)]N ša[of]DET ṣurru[obsidian]N uqnû[lapis-lazuli]N
+rinap/rinap4/Q003232,Esarhaddon 003,v 30',epēšu[do]V lawû[surround]V kilīliš[as-with-a-wreath]AV
+rinap/rinap4/Q003232,Esarhaddon 003,v 31',sellu[basket]N matgiqu[(part-of-a-building)]N kīma[like]PRP manziat[rainbow]N
+rinap/rinap4/Q003232,Esarhaddon 003,v 32',sahāru[go-around]V gimru[totality]N bābu[gate]N
+rinap/rinap4/Q003232,Esarhaddon 003,v 33',sikkatu[peg]N kaspu[silver]N ebbu[bright]AJ u[and]CNJ siparru[bronze]N nawru[bright]AJ
+rinap/rinap4/Q003232,Esarhaddon 003,v 34',retû[drive-in]V qerbu[centre]N
+rinap/rinap4/Q003232,Esarhaddon 003,v 35',danānu[power]N Aššur[1]DN bēlu[lord]N ša[that]REL ina[in]PRP mātu[land]N nakru[strange]AJ epēšu[do]V
+rinap/rinap4/Q003232,Esarhaddon 003,v 36',ina[in]PRP šipru[sending]N urrākūtu[sculptor´s-craft]N esēqu[incise]V qerbu[centre]N
+rinap/rinap4/Q003232,Esarhaddon 003,v 37',kirimahhu[park]N tamšīlu[likeness]N Hamanu[Amanus]GN
+rinap/rinap4/Q003232,Esarhaddon 003,v 38',ša[that]REL kalû[totality]N rīqu[aromatic-substance]N u[and]CNJ iṣu[tree]N hurrušu[bound]AJ itû[boundary]N emēdu[lean-on]V
+rinap/rinap4/Q003232,Esarhaddon 003,vi 2',elēṣu[swell]V nupāru[heart]N
+rinap/rinap4/Q003232,Esarhaddon 003,vi 3',karānu[vine]N kurunnu[(a-kind-of-beer)]N makāru[irrigate]V ṣurru[interior]N
+rinap/rinap4/Q003232,Esarhaddon 003,vi 4',rūštu[(a-fine-quality-of-oil)]N igulû[fine-ointment]N muhhu[skull]N šaqû[give-to-drink]V
+rinap/rinap4/Q003232,Esarhaddon 003,vi 5',ina[in]PRP qibītu[speech]N Aššur[1]DN šarru[king]N ilu[god]N
+rinap/rinap4/Q003232,Esarhaddon 003,vi 6',u[and]CNJ ilu[god]N mātu[land]N Aššur[Assyria]GN kalû[totality]N
+rinap/rinap4/Q003232,Esarhaddon 003,vi 7',ina[in]PRP ṭūbu[goodness]N šīru[flesh]N hūdu[happiness]N libbu[interior]N
+rinap/rinap4/Q003232,Esarhaddon 003,vi 8',nawāru[be(come)-bright]V kabattu[liver]N šebû[be(come)-full]V littūtu[(extreme)-old-age]N
+rinap/rinap4/Q003232,Esarhaddon 003,vi 9',qerbu[centre]N dāriš[for-ever]AV ramû[set-in-place]V
+rinap/rinap4/Q003232,Esarhaddon 003,vi 10',šebû[be(come)-full]V lalû[plenty]N
+rinap/rinap4/Q003232,Esarhaddon 003,vi 11',ina[in]PRP zagmukku[New-Year-(festival)]N warhu[month]N rēštû[first]AJ
+rinap/rinap4/Q003232,Esarhaddon 003,vi 12',kullatu[totality]N mūrnisqu[select-young-animal]N parû[mule]N
+rinap/rinap4/Q003232,Esarhaddon 003,vi 13',imēru[donkey]N gammalu[camel]N tillu[(military)-equipment]N unūtu[merchandise]N tāhāzu[battle]N
+rinap/rinap4/Q003232,Esarhaddon 003,vi 14',gimru[totality]N ummānu[military-force]N šallatu[plundered-thing(s)]N nakru[enemy]N
+rinap/rinap4/Q003232,Esarhaddon 003,vi 15',šattišamma[year-by-year]AV lā[not]MOD naparkû[ceasing]AJ
+rinap/rinap4/Q003232,Esarhaddon 003,vi 16',paqādu[entrust]V qerbu[centre]N
+rinap/rinap4/Q003232,Esarhaddon 003,vi 17',qerbu[centre]N ēkallu[palace]N šâtu[him]IP
+rinap/rinap4/Q003232,Esarhaddon 003,vi 18',lamassu[(female)-tutelary-deity]N dumqu[goodness]N šēdu[protective-deity]N dumqu[goodness]N
+rinap/rinap4/Q003232,Esarhaddon 003,vi 19',nāṣiru[guard]N kibsu[track]N šarrūtu[kingship]N
+rinap/rinap4/Q003232,Esarhaddon 003,vi 20',muhaddû[who-gives-delight]N kabattu[liver]N
+rinap/rinap4/Q003232,Esarhaddon 003,vi 21',dāriš[for-ever]AV bitrû[be(come)-continuous]V
+rinap/rinap4/Q003232,Esarhaddon 003,vi 22',ai[not]MOD naparkû[cease]V idu[arm]N
+rinap/rinap4/Q003232,Esarhaddon 003,vi 23',ana[to]PRP warkītu[posterity]N ūmu[day]N ina[in]PRP šarru[king]N māru[son]N
+rinap/rinap4/Q003232,Esarhaddon 003,vi 24',ša[that]REL Aššur[1]DN u[and]CNJ Ištar[1]DN ana[to]PRP bēlūtu[rule]N mātu[land]N u[and]CNJ nišu[people]N
+rinap/rinap4/Q003232,Esarhaddon 003,vi 25',nabû[name]V zikru[utterance]N
+rinap/rinap4/Q003232,Esarhaddon 003,vi 26',inūma[when]SBJ ēkallu[palace]N šâtu[him]IP
+rinap/rinap4/Q003232,Esarhaddon 003,vi 27',labāru[be(come)-old]V anāhu[be(come)-tired]V
+rinap/rinap4/Q003232,Esarhaddon 003,vi 28',anhūtu[tiredness]N edēšu[be(come)-new]V
+rinap/rinap4/Q003232,Esarhaddon 003,vi 29',kī[like]PRP ša[of]DET anāku[I]IP mušarû[(royal)-inscription]N šiṭru[(piece-of)-writing]N šumu[name]N šarru[king]N
+rinap/rinap4/Q003232,Esarhaddon 003,vi 30',abu[father]N bānû[creator]N itti[with]PRP mušarû[(royal)-inscription]N šiṭru[(piece-of)-writing]N šumu[name]N
+rinap/rinap4/Q003232,Esarhaddon 003,vi 31',šakānu[put]V attā[you]IP kīma[like]PRP yâti[me]IP
+rinap/rinap4/Q003232,Esarhaddon 003,vi 32',mušarû[(royal)-inscription]N šiṭru[(piece-of)-writing]N šumu[name]N amāru[see]V
+rinap/rinap4/Q003232,Esarhaddon 003,vi 33',šamnu[oil]N pašāšu[anoint]V nīqu[offering]N naqû[pour-(a-libation)]V
+rinap/rinap4/Q003232,Esarhaddon 003,vi 34',itti[with]PRP mušarû[(royal)-inscription]N šiṭru[(piece-of)-writing]N šumu[name]N šakānu[put]V
+rinap/rinap4/Q003232,Esarhaddon 003,vi 35',Aššur[1]DN u[and]CNJ Ištar[1]DN
+rinap/rinap4/Q003232,Esarhaddon 003,vi 36',ikribu[prayer]N šemû[hear]V

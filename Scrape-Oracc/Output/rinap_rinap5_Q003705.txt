@@ -1,0 +1,920 @@
+id_text,text_name,l_no,text
+rinap/rinap5/Q003705,Ashurbanipal 006,i 1',kullatu[totality]N ṭupšarrūtu[status-or-employment-of-scribe]N ahāzu[take]V karšu[stomach]N
+rinap/rinap5/Q003705,Ashurbanipal 006,i 2',eli[on]PRP šarru[king]N wāšibu[sitting]AJ parakku[dais]N
+rinap/rinap5/Q003705,Ashurbanipal 006,i 3',zikru[utterance]N šumu[name]N šarāhu[take-pride-in]V
+rinap/rinap5/Q003705,Ashurbanipal 006,i 4',rabû[be(come)-big]V bēlūtu[rule]N
+rinap/rinap5/Q003705,Ashurbanipal 006,i 5',ešertu[chapel]N mātu[land]N Aššur[Assyria]GN mātu[land]N Akkad[1]GN
+rinap/rinap5/Q003705,Ashurbanipal 006,i 6',ša[that]REL Aššur-ahu-iddina[Esarhaddon;-king-of-Assyria]RN šarru[king]N mātu[land]N Aššur[Assyria]GN abu[father]N bānû[creator]N
+rinap/rinap5/Q003705,Ashurbanipal 006,i 7',temmēnu[foundation]N nadû[throw-(down)]V
+rinap/rinap5/Q003705,Ashurbanipal 006,i 8',lā[not]MOD gamāru[bring-to-conclusion]V šipru[sending]N
+rinap/rinap5/Q003705,Ashurbanipal 006,i 9',enenna[now]AV anāku[I]IP ina[in]PRP qibītu[speech]N ilu[god]N rabû[great]AJ bēlu[lord]N
+rinap/rinap5/Q003705,Ashurbanipal 006,i 10',gamāru[bring-to-conclusion]V šipru[sending]N
+rinap/rinap5/Q003705,Ashurbanipal 006,i 11',Ehursaggalkurkurra[1]TN bītu[house]N Aššur[1]DN
+rinap/rinap5/Q003705,Ashurbanipal 006,i 12',bēlu[lord]N šuklulu[complete]V
+rinap/rinap5/Q003705,Ashurbanipal 006,i 13',igāru[wall]N labāšu[clothe-oneself]V hurāṣu[gold]N kaspu[silver]N
+rinap/rinap5/Q003705,Ashurbanipal 006,i 14',timmu[pole]N ṣīru[exalted]AJ misarru[belt]N kaspu[silver]N rakāsu[tie]V
+rinap/rinap5/Q003705,Ashurbanipal 006,i 15',ina[in]PRP bābu[gate]N hiṣbu[luxuriance]N mātu[land]N zaqāpu[fix-upright]V
+rinap/rinap5/Q003705,Ashurbanipal 006,i 16',Aššur[1]DN ina[in]PRP Ehursaggula[1]TN erēbu[enter]V
+rinap/rinap5/Q003705,Ashurbanipal 006,i 17',ramû[set-in-place]V parakku[dais]N dārītu[perpetuity]N
+rinap/rinap5/Q003705,Ashurbanipal 006,i 18',Esagil[1]TN ēkallu[palace]N ilu[god]N epēšu[do]V
+rinap/rinap5/Q003705,Ashurbanipal 006,i 19',šuklulu[complete]V gišhurru[plan]N
+rinap/rinap5/Q003705,Ashurbanipal 006,i 20',Bel[1]DN Beltiya[1]DN Belet-Babili[1]DN
+rinap/rinap5/Q003705,Ashurbanipal 006,i 21',Ea[1]DN Mandanu[1]DN
+rinap/rinap5/Q003705,Ashurbanipal 006,i 22',ištu[from]PRP qerbu[centre]N Ešarra[1]TN wabālu[carry]V
+rinap/rinap5/Q003705,Ashurbanipal 006,i 23',erēbu[enter]V qerbu[centre]N Šuanna[Babylon]QN
+rinap/rinap5/Q003705,Ashurbanipal 006,i 24',paramāhu[high-throne-dais]N šubtu[seat]N ilūtu[godhead]N ṣīru[exalted]AJ
+rinap/rinap5/Q003705,Ashurbanipal 006,i 25',biltu[load]N zahalû[silver-alloy]N ebbu[bright]AJ ana[to]PRP agurru[baked-brick]N patāqu[make-brick-structures]V
+rinap/rinap5/Q003705,Ashurbanipal 006,i 26',rabû[be(come)-big]V ṣēru[back]N
+rinap/rinap5/Q003705,Ashurbanipal 006,i 27',epēšu[do]V ermu[cover(ing)]N musukkannu[Magan-tree]N
+rinap/rinap5/Q003705,Ashurbanipal 006,i 28',iṣu[tree]N dārû[lasting]AJ ša[that]REL šitnunu[raised-up-to]AJ šamāmiš[to-heaven]AV
+rinap/rinap5/Q003705,Ashurbanipal 006,i 29',biltu[load]N manû[unit]N hurāṣu[gold]N ruššû[red]AJ
+rinap/rinap5/Q003705,Ashurbanipal 006,i 30',kippatu[circle]N labāšu[clothe-oneself]V danānu[be(come)-strong]V riksu[band]N
+rinap/rinap5/Q003705,Ashurbanipal 006,i 31',eli[on]PRP Marduk[1]DN bēlu[lord]N rabû[great]AJ ṣulūlu[roof]N
+rinap/rinap5/Q003705,Ashurbanipal 006,i 32',tarāṣu[stretch-a-(measuring)-cord]V kânu[be(come)-permanent]V tarānu[roof]N
+rinap/rinap5/Q003705,Ashurbanipal 006,i 33',narkabtu[chariot]N ṣīru[exalted]AJ rukūbu[vehicle]N Marduk[1]DN
+rinap/rinap5/Q003705,Ashurbanipal 006,i 34',etellu[pre-eminent]N ilu[god]N bēlu[lord]N bēlu[lord]N
+rinap/rinap5/Q003705,Ashurbanipal 006,i 35',ina[in]PRP hurāṣu[gold]N kaspu[silver]N abnu[stone]N nisiqtu[selection]N gamāru[bring-to-conclusion]V nabnītu[creation]N
+rinap/rinap5/Q003705,Ashurbanipal 006,i 36',ana[to]PRP Marduk[1]DN šarru[king]N kiššatu[totality]N šamû[heaven]N u[and]CNJ erṣetu[earth]N
+rinap/rinap5/Q003705,Ashurbanipal 006,i 37',sāpinu[flattener]N nakru[enemy]N ana[to]PRP šeriktu[present]N šarāku[present]V
+rinap/rinap5/Q003705,Ashurbanipal 006,i 38',eršu[bed]N musukkannu[Magan-tree]N iṣu[tree]N dārû[lasting]AJ
+rinap/rinap5/Q003705,Ashurbanipal 006,i 39',ša[that]REL pašallu[(an-alloy-of-gold)]N litbušu[clothed]AJ abnu[stone]N nisiqtu[selection]N zaʾnu[adorned]AJ
+rinap/rinap5/Q003705,Ashurbanipal 006,i 40',ana[to]PRP mayyālu[bed]N teknû[praise]N Bel[1]DN u[and]CNJ Beltiya[1]DN
+rinap/rinap5/Q003705,Ashurbanipal 006,i 41',šakānu[put]V hašādu[wedding]N epēšu[do]V ruʾāmu[charm]N nakliš[artistically]AV epēšu[do]V
+rinap/rinap5/Q003705,Ashurbanipal 006,i 42',ina[in]PRP Kahilisu[1]TN maštaku[chamber]N Zarpanitu[1]DN
+rinap/rinap5/Q003705,Ashurbanipal 006,i 43',ša[that]REL kuzbu[attractiveness]N salhu[sprinkled]AJ nadû[throw-(down)]V
+rinap/rinap5/Q003705,Ashurbanipal 006,i 44',rīmu[wild-bull]N kaspu[silver]N ekdu[wild]AJ
+rinap/rinap5/Q003705,Ashurbanipal 006,i 45',nāṣiru[guard]N kibsu[track]N šarrūtu[kingship]N
+rinap/rinap5/Q003705,Ashurbanipal 006,i 46',ina[in]PRP bābu[gate]N ṣītu[exit]N šamšu[sun]N u[and]CNJ bābu[gate]N Lamma-RA.BI[1]DN
+rinap/rinap5/Q003705,Ashurbanipal 006,i 47',ina[in]PRP bābu[gate]N Ezida[1]TN ša[that]REL qerbu[centre]N Barsipa[Borsippa]SN izuzzu[stand]V
+rinap/rinap5/Q003705,Ashurbanipal 006,i 48',Emašmaš[1]TN Egašankalama[1]TN kaspu[silver]N hurāṣu[gold]N zaʾānu[be(come)-adorned]V
+rinap/rinap5/Q003705,Ashurbanipal 006,i 49',lulû[plenty]N malû[be(come)-full]V
+rinap/rinap5/Q003705,Ashurbanipal 006,i 50',Šarrat-kidmuri[1]DN ša[that]REL ina[in]PRP uggatu[anger]N libbu[interior]N
+rinap/rinap5/Q003705,Ashurbanipal 006,i 51',watmanu[cella]N ezēbu[leave]V wašābu[sit-(down)]V ašru[place]N lā[not]MOD simtu[appropriate-symbol]N
+rinap/rinap5/Q003705,Ashurbanipal 006,i 52',ina[in]PRP palû[reign-(of-a-king)]N damqu[good]AJ
+rinap/rinap5/Q003705,Ashurbanipal 006,i 53',ša[that]REL Aššur[1]DN šarāku[present]V rašû[acquire]V salīmu[peace]N
+rinap/rinap5/Q003705,Ashurbanipal 006,i 54',ana[to]PRP šuklulu[complete]V ilūtu[godhead]N ṣīru[exalted]AJ
+rinap/rinap5/Q003705,Ashurbanipal 006,i 55',šurruhu[very-proud]AJ mēsū[cult]N šūquru[very-valuable]AJ
+rinap/rinap5/Q003705,Ashurbanipal 006,i 56',ina[in]PRP šuttu[dream]N šipru[sending]N mahhû[ecstatic]N šapāru[send]V kayyānu[constant]AJ
+rinap/rinap5/Q003705,Ashurbanipal 006,i 57',Šamaš[1]DN u[and]CNJ Adad[1]DN šâlu[ask]V apālu[pay]V annu[(word-of)-consent]N kīnu[permanent]AJ
+rinap/rinap5/Q003705,Ashurbanipal 006,i 58',simtu[appropriate-symbol]N ilūtu[godhead]N rabû[great]AJ šarāhu[take-pride-in]V
+rinap/rinap5/Q003705,Ashurbanipal 006,i 59',wašābu[sit-(down)]V ina[in]PRP paramāhu[high-throne-dais]N šubtu[seat]N dārītu[perpetuity]N
+rinap/rinap5/Q003705,Ashurbanipal 006,i 60',parṣu[rite]N šūquru[very-valuable]AJ kânu[be(come)-permanent]V
+rinap/rinap5/Q003705,Ashurbanipal 006,i 61',šalāmu[be(come)-healthy]V mēsū[cult]N
+rinap/rinap5/Q003705,Ashurbanipal 006,i 62',anzû[lion-headed-eagle]N šurīnu[(divine)-emblem]N
+rinap/rinap5/Q003705,Ashurbanipal 006,i 63',ana[to]PRP balāṭu[live]V napištu[throat]N
+rinap/rinap5/Q003705,Ashurbanipal 006,i 64',ina[in]PRP bābu[gate]N Egallammes[1]TN bītu[house]N Nergal[1]DN ša[of]DET Tarbiṣu[1]SN zaqāpu[fix-upright]V
+rinap/rinap5/Q003705,Ashurbanipal 006,i 65',adi[until]PRP adīni[hitherto]AV abu[father]N lā[not]MOD walādu[give-birth-(to)]V
+rinap/rinap5/Q003705,Ashurbanipal 006,i 66',ummu[mother]N wālittu[one-who-gives-birth]N lā[not]MOD banû[created]AJ ina[in]PRP libbu[interior]N ummu[mother]N
+rinap/rinap5/Q003705,Ashurbanipal 006,i 67',ana[to]PRP epēšu[do]V Ehulhul[1]TN zakāru[speak]V nibītu[naming]N šumu[name]N
+rinap/rinap5/Q003705,Ashurbanipal 006,i 68',Sin[1]DN ša[that]REL banû[create]V ana[to]PRP šarrūtu[kingship]N
+rinap/rinap5/Q003705,Ashurbanipal 006,i 69',umma[saying]PRP Aššur-bani-apli[Ashurbanipal;-king-of-Assyria]RN ēkurru[temple]N šuāti[him]IP epēšu[do]V
+rinap/rinap5/Q003705,Ashurbanipal 006,i 70',qerbu[centre]N ramû[set-in-place]V parakku[dais]N dārītu[perpetuity]N
+rinap/rinap5/Q003705,Ashurbanipal 006,i 71',awātu[word]N Sin[1]DN ša[that]REL ištu[from]PRP ūmu[day]N rūqu[distant]AJ qabû[say]V
+rinap/rinap5/Q003705,Ashurbanipal 006,i 72',enenna[now]AV kullumu[show]V nišu[people]N warkû[rear]AJ
+rinap/rinap5/Q003705,Ashurbanipal 006,i 73',bītu[house]N Sin[1]DN ša[that]REL Salmanu-ašared[Shalmaneser-III;-son-of-Ashurnasirpal-II;-king-of-Assyria]RN māru[son]N Aššur-naṣir-apli[Ashurnasirpal-II;-king-of-Assyria]RN
+rinap/rinap5/Q003705,Ashurbanipal 006,i 74',šarru[king]N pānu[front]N mahru[front]N epēšu[do]V
+rinap/rinap5/Q003705,Ashurbanipal 006,i 75',labāriš[to-become-old]AV alāku[go]V dagālu[see]V pānu[front]N
+rinap/rinap5/Q003705,Ashurbanipal 006,i 76',ēkurru[temple]N šuāti[him]IP ša[that]REL labāriš[to-become-old]AV alāku[go]V
+rinap/rinap5/Q003705,Ashurbanipal 006,i 77',ina[in]PRP awātu[word]N Sin[1]DN Nusku[1]DN anhūtu[tiredness]N dekû[raise]V
+rinap/rinap5/Q003705,Ashurbanipal 006,i 78',eli[on]PRP ša[of]DET ūmu[day]N pānu[front]N šubtu[seat]N rapāšu[be(come)-broad]V
+rinap/rinap5/Q003705,Ashurbanipal 006,i 79',ištu[from]PRP uššu[foundation]N adi[until]PRP gabadibbu[parapet]N raṣāpu[erect]V šuklulu[complete]V
+rinap/rinap5/Q003705,Ashurbanipal 006,i 80',Emelamana[1]TN bītu[house]N Nusku[1]DN šukkallu[(a-court-official)]N ṣīru[exalted]AJ
+rinap/rinap5/Q003705,Ashurbanipal 006,i 81',ša[that]REL šarru[king]N pānu[front]N mahru[front]N epēšu[do]V
+rinap/rinap5/Q003705,Ashurbanipal 006,i 82',banû[create]V qerbu[centre]N
+rinap/rinap5/Q003705,Ashurbanipal 006,i 83',gušūru[tree-trunk]N erēnu[cedar]N ṣīru[exalted]AJ tarāṣu[stretch-a-(measuring)-cord]V eli[on]PRP
+rinap/rinap5/Q003705,Ashurbanipal 006,i 84',daltu[door]N tiālu[white-cedar]N misarru[belt]N kaspu[silver]N
+rinap/rinap5/Q003705,Ashurbanipal 006,i 85',rakāsu[tie]V retû[drive-in]V bābu[gate]N
+rinap/rinap5/Q003705,Ashurbanipal 006,i 86',rīmu[wild-bull]N kaspu[silver]N munakkipu[one-who-gores]N gērû[opponent]N
+rinap/rinap5/Q003705,Ashurbanipal 006,i 87',ina[in]PRP watmanu[cella]N Sin[1]DN bēlu[lord]N izuzzu[stand]V
+rinap/rinap5/Q003705,Ashurbanipal 006,i 88',lahmu[hairy]N ešmarû[(a-silver-alloy)]N ša[that]REL tiṣbutu[linked]AJ šurīnu[(divine)-emblem]N
+rinap/rinap5/Q003705,Ashurbanipal 006,i 89',mušallimu[that-delivers-safely]N kibsu[track]N šarrūtu[kingship]N
+rinap/rinap5/Q003705,Ashurbanipal 006,i 90',mušēribu[one-who-brings-in]N hiṣbu[luxuriance]N šadû[mountain]N u[and]CNJ tiāmtu[sea]N
+rinap/rinap5/Q003705,Ashurbanipal 006,i 91',ina[in]PRP bābu[gate]N Ehulhul[1]TN izuzzu[stand]V
+rinap/rinap5/Q003705,Ashurbanipal 006,i 92',qātu[hand]N Sin[1]DN Nusku[1]DN ṣabātu[seize]V erēbu[enter]V wašābu[sit-(down)]V
+rinap/rinap5/Q003705,Ashurbanipal 006,i 93',ina[in]PRP parakku[dais]N dārītu[perpetuity]N
+rinap/rinap5/Q003705,Ashurbanipal 006,i 94',ešertu[chapel]N mātu[land]N Aššur[Assyria]GN u[and]CNJ mātu[land]N Akkad[1]GN
+rinap/rinap5/Q003705,Ashurbanipal 006,i 95',ana[to]PRP sihirtišu[circumference]N šuklulu[complete]V
+rinap/rinap5/Q003705,Ashurbanipal 006,i 96',mimma[anything]XP simtu[appropriate-symbol]N ēkurru[temple]N mala[as-much-as]PRP bašû[existing]AJ ša[of]DET kaspu[silver]N hurāṣu[gold]N epēšu[do]V
+rinap/rinap5/Q003705,Ashurbanipal 006,i 97',eli[on]PRP ša[of]DET šarru[king]N abu[father]N redû[accompany]V
+rinap/rinap5/Q003705,Ashurbanipal 006,i 98',ilu[god]N rabû[great]AJ tiklu[help]N
+rinap/rinap5/Q003705,Ashurbanipal 006,i 1'',ešēru[go-well]V ebūru[harvest]N napāšu[breathe]V Nisaba[1]DN
+rinap/rinap5/Q003705,Ashurbanipal 006,i 2'',kayyānu[constant]AJ hanābu[sprout]V gipāru[residence-of-en(t)u-in-temple]N
+rinap/rinap5/Q003705,Ashurbanipal 006,i 3'',ṣippatu[fruit-orchard]N šummuhu[very-luxuriant]AJ inbu[fruit]N būlu[animals]N ešēru[go-well]V ina[in]PRP tālittu[offspring]N
+rinap/rinap5/Q003705,Ashurbanipal 006,i 4'',ina[in]PRP palû[reign-(of-a-king)]N nuhšu[abundance]N ṭuhdu[abundance]N ina[in]PRP šattu[year]N kummuru[piled-up]AJ hengallu[plenty]N
+rinap/rinap5/Q003705,Ashurbanipal 006,i 5'',imēru[unit]N û[grain]N imēru[unit]N karānu[vine]N šamnu[oil]N biltu[load]N šīpātu[wool]N
+rinap/rinap5/Q003705,Ashurbanipal 006,i 6'',ina[in]PRP napharu[total]N mātu[land]N mahīru[exchange-rate]N napšu[wide]AJ šâmu[buy]V ina[in]PRP šiqlu[shekel]N kaspu[silver]N
+rinap/rinap5/Q003705,Ashurbanipal 006,i 7'',šattišamma[year-by-year]AV ina[in]PRP ṭuhdu[abundance]N u[and]CNJ mīšaru[justice]N
+rinap/rinap5/Q003705,Ashurbanipal 006,i 8'',reʾû[pasture]V baʾūlātu[people]N Enlil[1]DN
+rinap/rinap5/Q003705,Ashurbanipal 006,i 9'',ilu[god]N rabû[great]AJ ša[that]REL palāhu[be(come)-afraid]V ilūtu[godhead]N
+rinap/rinap5/Q003705,Ashurbanipal 006,ii 2',malku[prince]N rabû[great]AJ ša[of]DET ṣītān[at-sunrise]AV u[and]CNJ šīlān[in-the-sunset]AV
+rinap/rinap5/Q003705,Ashurbanipal 006,ii 3',ana[to]PRP kitru[help]N puqqu[heed]V
+rinap/rinap5/Q003705,Ashurbanipal 006,ii 4',ina[in]PRP mahrû[first]AJ gerru[way]N
+rinap/rinap5/Q003705,Ashurbanipal 006,ii 5',ana[to]PRP Makan[Egypt]GN u[and]CNJ Meluhha[1]GN lū[may]MOD alāku[go]V
+rinap/rinap5/Q003705,Ashurbanipal 006,ii 6',Tarqu[Taharqa;-pharaoh-of-Egypt]RN šarru[king]N Muṣur[Egypt]GN u[and]CNJ Kusu[Kush]GN
+rinap/rinap5/Q003705,Ashurbanipal 006,ii 7',ša[that]REL Aššur-ahu-iddina[Esarhaddon;-king-of-Assyria]RN šarru[king]N mātu[land]N Aššur[Assyria]GN abu[father]N bānû[creator]N
+rinap/rinap5/Q003705,Ashurbanipal 006,ii 8',dabdû[defeat]N šakānu[put]V bêlu[rule-(over)]V mātu[land]N
+rinap/rinap5/Q003705,Ashurbanipal 006,ii 9',danānu[power]N Aššur[1]DN u[and]CNJ Ištar[1]DN ilu[god]N rabû[great]AJ bēlu[lord]N mašû[forget]V
+rinap/rinap5/Q003705,Ashurbanipal 006,ii 10',takālu[trust]V ana[to]PRP emūqu[strength]N ramānu[self]N
+rinap/rinap5/Q003705,Ashurbanipal 006,ii 11',eli[on]PRP šarru[king]N qīpu[believable-one]N
+rinap/rinap5/Q003705,Ashurbanipal 006,ii 12',ša[that]REL qerbu[centre]N Muṣur[Egypt]GN paqādu[entrust]V abu[father]N bānû[creator]N
+rinap/rinap5/Q003705,Ashurbanipal 006,ii 13',ana[to]PRP dâku[kill]V habātu[rob]V u[and]CNJ ekēmu[take-away]V Muṣur[Egypt]GN
+rinap/rinap5/Q003705,Ashurbanipal 006,ii 14',alāku[go]V ṣēru[back]N
+rinap/rinap5/Q003705,Ashurbanipal 006,ii 15',erēbu[enter]V wašābu[sit-(down)]V qerbu[centre]N Mempi[Memphis]SN
+rinap/rinap5/Q003705,Ashurbanipal 006,ii 16',ālu[city]N ša[that]REL abu[father]N bānû[creator]N kašādu[reach]V
+rinap/rinap5/Q003705,Ashurbanipal 006,ii 17',ana[to]PRP miṣru[border]N mātu[land]N târu[turn]V
+rinap/rinap5/Q003705,Ashurbanipal 006,ii 18',allāku[traveller]N hamṭu[quick]AJ qerbu[centre]N Ninua[Nineveh]SN alāku[go]V
+rinap/rinap5/Q003705,Ashurbanipal 006,ii 19',šanû[do-twice]V yâti[me]IP
+rinap/rinap5/Q003705,Ashurbanipal 006,ii 20',eli[on]PRP epištu[deed]N annû[this]DP
+rinap/rinap5/Q003705,Ashurbanipal 006,ii 21',libbu[interior]N agāgu[be(come)-furious]V ṣarāhu[heat-up]V kabattu[liver]N
+rinap/rinap5/Q003705,Ashurbanipal 006,ii 22',dekû[raise]V emūqu[strength]N ṣīru[exalted]AJ
+rinap/rinap5/Q003705,Ashurbanipal 006,ii 23',ša[that]REL Aššur[1]DN u[and]CNJ Ištar[1]DN malû[be(come)-full]V qātu[hand]N
+rinap/rinap5/Q003705,Ashurbanipal 006,ii 24',ana[to]PRP Muṣur[Egypt]GN u[and]CNJ Kusu[Kush]GN ešēru[go-well]V harrānu[way]N
+rinap/rinap5/Q003705,Ashurbanipal 006,ii 25',ina[in]PRP mētequ[route]N gerru[way]N
+rinap/rinap5/Q003705,Ashurbanipal 006,ii 26',Baʾalu[king-of-Tyre]RN šarru[king]N Ṣurru[Tyre]SN
+rinap/rinap5/Q003705,Ashurbanipal 006,ii 27',Menasse[Manasseh;-king-of-Judah]RN šarru[king]N Yaudu[Judah]GN
+rinap/rinap5/Q003705,Ashurbanipal 006,ii 28',Qaʾuš-gabri[king-of-Edom]RN šarru[king]N Udumu[Edom]GN
+rinap/rinap5/Q003705,Ashurbanipal 006,ii 29',Muṣuri[king-of-Moab]RN šarru[king]N Maʾab[Moab]GN
+rinap/rinap5/Q003705,Ashurbanipal 006,ii 30',Ṣilli-Bel[king-of-Gaza]RN šarru[king]N Hazzat[Gaza]SN
+rinap/rinap5/Q003705,Ashurbanipal 006,ii 31',Mitinti[Mitinti-II;-king-of-Ashkelon]RN šarru[king]N Isqaluna[Ashkelon]SN
+rinap/rinap5/Q003705,Ashurbanipal 006,ii 32',Ikausu[king-of-Ekron]RN šarru[king]N Amqarruna[Ekron]SN
+rinap/rinap5/Q003705,Ashurbanipal 006,ii 33',Milki-ašapa[king-of-Byblos]RN šarru[king]N Gubla[Byblos]SN
+rinap/rinap5/Q003705,Ashurbanipal 006,ii 34',Yakin-Lu[king-of-Arwad]RN šarru[king]N Arwada[Arwad]SN
+rinap/rinap5/Q003705,Ashurbanipal 006,ii 35',Abi-Baʾal[king-of-Samsimuruna]PN šarru[king]N Samsimuruna[1]SN
+rinap/rinap5/Q003705,Ashurbanipal 006,ii 36',Ammi-nabdi[king-of-Bit-Ammon]RN šarru[king]N Bit-Ammana[Bit-Ammon]SN
+rinap/rinap5/Q003705,Ashurbanipal 006,ii 37',Ahi-Milki[king-of-Ashdod]RN šarru[king]N Asdudu[Ashdod]SN
+rinap/rinap5/Q003705,Ashurbanipal 006,ii 38',Ekištura[king-of-Idalion]RN šarru[king]N Ediʾil[Idalion]SN
+rinap/rinap5/Q003705,Ashurbanipal 006,ii 39',Pilagura[king-of-Kitrusi]RN šarru[king]N Kitrusi[1]SN
+rinap/rinap5/Q003705,Ashurbanipal 006,ii 40',Kisu[king-of-Salamis]RN šarru[king]N Sillua[Salamis]SN
+rinap/rinap5/Q003705,Ashurbanipal 006,ii 41',Ituandar[king-of-Pappa]RN šarru[king]N Pappa[Paphos]SN
+rinap/rinap5/Q003705,Ashurbanipal 006,ii 42',Eresu[king-of-Soloi]RN šarru[king]N Sillu[Soloi]SN
+rinap/rinap5/Q003705,Ashurbanipal 006,ii 43',Damasu[king-of-Curium]RN šarru[king]N Kuri[Curium]SN
+rinap/rinap5/Q003705,Ashurbanipal 006,ii 44',Admesu[king-of-Tamassos]RN šarru[king]N Tamessu[Tamassos]SN
+rinap/rinap5/Q003705,Ashurbanipal 006,ii 45',Damasi[king-of-Qarti-hadasti]RN šarru[king]N Qarti-hadasti[1]SN
+rinap/rinap5/Q003705,Ashurbanipal 006,ii 46',Unasagusu[king-of-Lidir]RN šarru[king]N Lidir[1]SN
+rinap/rinap5/Q003705,Ashurbanipal 006,ii 47',Buṣusu[king-of-Nuria]RN šarru[king]N Nuria[1]SN
+rinap/rinap5/Q003705,Ashurbanipal 006,ii 48',napharu[total]N šarru[king]N ša[of]DET ahu[arm]N tiāmtu[sea]N
+rinap/rinap5/Q003705,Ashurbanipal 006,ii 49',qablu[hips]N tiāmtu[sea]N u[and]CNJ nābalu[dry-land]N
+rinap/rinap5/Q003705,Ashurbanipal 006,ii 50',wardu[slave]N dāgilu[one-who-sees]N pānu[front]N
+rinap/rinap5/Q003705,Ashurbanipal 006,ii 51',tāmartu[spectacle]N kabtu[heavy]AJ
+rinap/rinap5/Q003705,Ashurbanipal 006,ii 52',ina[in]PRP mahru[front]N našû[lift]V našāqu[kiss]V šēpu[foot]N
+rinap/rinap5/Q003705,Ashurbanipal 006,ii 53',šarru[king]N šâtunu[those]IP adi[until]PRP emūqu[strength]N
+rinap/rinap5/Q003705,Ashurbanipal 006,ii 54',eleppu[ship]N ina[in]PRP tiāmtu[sea]N u[and]CNJ nābalu[dry-land]N
+rinap/rinap5/Q003705,Ashurbanipal 006,ii 55',itti[with]PRP ummānu[military-force]N urhu[road]N padānu[path]N ṣabātu[seize]V
+rinap/rinap5/Q003705,Ashurbanipal 006,ii 56',ana[to]PRP nērārūtu[aid]N hamâtu[help]N ša[of]DET šarru[king]N qīpu[believable-one]N
+rinap/rinap5/Q003705,Ashurbanipal 006,ii 57',ša[that]REL qerbu[centre]N Muṣur[Egypt]GN wardu[slave]N dāgilu[one-who-sees]N pānu[front]N
+rinap/rinap5/Q003705,Ashurbanipal 006,ii 58',urruhiš[speedily]AV redû[accompany]V
+rinap/rinap5/Q003705,Ashurbanipal 006,ii 59',alāku[go]V adi[until]PRP Kar-banitu[1]SN
+rinap/rinap5/Q003705,Ashurbanipal 006,ii 60',Tarqu[Taharqa;-pharaoh-of-Egypt]RN šarru[king]N Muṣur[Egypt]GN u[and]CNJ Kusu[Kush]GN
+rinap/rinap5/Q003705,Ashurbanipal 006,ii 61',qerbu[centre]N Mempi[Memphis]SN alāku[go]V gerru[way]N šemû[hear]V
+rinap/rinap5/Q003705,Ashurbanipal 006,ii 62',ana[to]PRP epēšu[do]V qablu[battle]N kakku[stick]N u[and]CNJ tāhāzu[battle]N
+rinap/rinap5/Q003705,Ashurbanipal 006,ii 63',ana[to]PRP mahru[front]N dekû[raise]V ṣābu[people]N tāhāzu[battle]N
+rinap/rinap5/Q003705,Ashurbanipal 006,ii 64',ina[in]PRP tukultu[trust]N Aššur[1]DN Bel[1]DN u[and]CNJ Nabu[1]DN ilu[god]N rabû[great]AJ bēlu[lord]N
+rinap/rinap5/Q003705,Ashurbanipal 006,ii 65',āliku[goer]N idu[arm]N
+rinap/rinap5/Q003705,Ashurbanipal 006,ii 66',ina[in]PRP tāhāzu[battle]N ṣēru[back]N rapšu[wide]AJ šakānu[put]V dabdû[defeat]N ummānu[military-force]N
+rinap/rinap5/Q003705,Ashurbanipal 006,ii 67',Tarqu[Taharqa;-pharaoh-of-Egypt]RN ina[in]PRP qerbu[centre]N Mempi[Memphis]SN
+rinap/rinap5/Q003705,Ashurbanipal 006,ii 68',šemû[hear]V tahtû[defeat]N ummānu[military-force]N
+rinap/rinap5/Q003705,Ashurbanipal 006,ii 69',namrīru[awe-inspiring-radiance]N Aššur[1]DN u[and]CNJ Ištar[1]DN
+rinap/rinap5/Q003705,Ashurbanipal 006,ii 70',sahāpu[envelop]V alāku[go]V mahhūtiš[like-a-female-ecstatic]AV
+rinap/rinap5/Q003705,Ashurbanipal 006,ii 71',melemmu[fearsome-radiance]N šarrūtu[kingship]N katāmu[cover]V
+rinap/rinap5/Q003705,Ashurbanipal 006,ii 72',ša[of]DET zaʾānu[be(come)-adorned]V ilu[god]N šūt[who(m)]DET šamû[heaven]N erṣetu[earth]N
+rinap/rinap5/Q003705,Ashurbanipal 006,ii 73',Mempi[Memphis]SN wašāru[sink-down]V
+rinap/rinap5/Q003705,Ashurbanipal 006,ii 74',ana[to]PRP ezēbu[leave]V napištu[throat]N abātu[run-away]V ana[to]PRP qerbu[centre]N Niʾ[Thebes]SN
+rinap/rinap5/Q003705,Ashurbanipal 006,ii 75',ālu[city]N šuāti[him]IP ṣabātu[seize]V ummānu[military-force]N erēbu[enter]V wašābu[sit-(down)]V ina[in]PRP libbu[interior]N
+rinap/rinap5/Q003705,Ashurbanipal 006,ii 76',Nikku[Necho;-pharaoh-of-Egypt]RN šarru[king]N Mempi[Memphis]SN u[and]CNJ Saya[Sais]SN
+rinap/rinap5/Q003705,Ashurbanipal 006,ii 77',Šarru-lu-dari[ruler-of-Pelusium]PN šarru[king]N Ṣiʾnu[Pelusium]SN
+rinap/rinap5/Q003705,Ashurbanipal 006,ii 78',Pišanhuru[ruler-of-Natho]PN šarru[king]N Nathu[Natho]SN
+rinap/rinap5/Q003705,Ashurbanipal 006,ii 79',Paqruru[ruler-of-Pišaptu]PN šarru[king]N Pišaptu[1]SN
+rinap/rinap5/Q003705,Ashurbanipal 006,ii 80',x-x-EZEN-au[ruler-of-Athribis]RN šarru[king]N Hathariba[Athribis]SN
+rinap/rinap5/Q003705,Ashurbanipal 006,ii 81',Nahke[ruler-of-Heracleopolis]PN šarru[king]N Hininši[Heracleopolis]SN
+rinap/rinap5/Q003705,Ashurbanipal 006,ii 82',šarru[king]N annû[this]DP pīhātu[post]N qīpu[believable-one]N
+rinap/rinap5/Q003705,Ashurbanipal 006,ii 83',ša[that]REL qerbu[centre]N Muṣur[Egypt]GN paqādu[entrust]V abu[father]N bānû[creator]N
+rinap/rinap5/Q003705,Ashurbanipal 006,ii 84',ša[that]REL lapāni[in-front-of]PRP tibûtu[levy]N Tarqu[Taharqa;-pharaoh-of-Egypt]RN
+rinap/rinap5/Q003705,Ashurbanipal 006,ii 85',piqittu[provisioning]N wašāru[sink-down]V malû[be(come)-full]V ṣēru[back]N
+rinap/rinap5/Q003705,Ashurbanipal 006,ii 1'',pānu[front]N nīru[yoke]N târu[turn]V
+rinap/rinap5/Q003705,Ashurbanipal 006,ii 2'',šalmiš[well]AV târu[turn]V ana[to]PRP mātu[land]N Aššur[Assyria]GN
+rinap/rinap5/Q003705,Ashurbanipal 006,ii 3'',warkānu[later]AV Nikku[Necho;-pharaoh-of-Egypt]RN Šarru-lu-dari[ruler-of-Pelusium]PN Paqruru[ruler-of-Pišaptu]PN
+rinap/rinap5/Q003705,Ashurbanipal 006,ii 4'',ina[in]PRP adû[(treaty-)oath]N haṭû[do-wrong]V lā[not]MOD naṣāru[guard]V māmītu[oath]N ilu[god]N rabû[great]AJ
+rinap/rinap5/Q003705,Ashurbanipal 006,ii 5'',ṭābtu[goodness]N mašû[forget]V libbu[interior]N kapādu[plan]V lemuttu[evil]N
+rinap/rinap5/Q003705,Ashurbanipal 006,ii 6'',dabābu[talk]N surrātu[lies]N dabābu[speak]V
+rinap/rinap5/Q003705,Ashurbanipal 006,ii 7'',milku[advice]N lā[not]MOD kušīru[success]N malāku[discuss]V ramānu[self]N
+rinap/rinap5/Q003705,Ashurbanipal 006,ii 8'',umma[saying]PRP Tarqu[Taharqa;-pharaoh-of-Egypt]RN ištu[from]PRP qerbu[centre]N Muṣur[Egypt]GN
+rinap/rinap5/Q003705,Ashurbanipal 006,ii 9'',nasāhu[tear-out]V attū-[belonging-to]IP wašābu[sit-(down)]V mīnu[what?]QP
+rinap/rinap5/Q003705,Ashurbanipal 006,ii 10'',eli[on]PRP Tarqu[Taharqa;-pharaoh-of-Egypt]RN šarru[king]N Kusu[Kush]GN
+rinap/rinap5/Q003705,Ashurbanipal 006,ii 11'',ana[to]PRP šakānu[put]V adû[(treaty-)oath]N u[and]CNJ salīmu[peace]N
+rinap/rinap5/Q003705,Ashurbanipal 006,ii 12'',wâru[go-(up-to)]V rakbû[mounted-messenger]N
+rinap/rinap5/Q003705,Ashurbanipal 006,ii 13'',umma[saying]PRP sulummû[peace-making]N ina[in]PRP biri-[among]PRP šakānu[put]V
+rinap/rinap5/Q003705,Ashurbanipal 006,ii 14'',magāru[consent]V ahāmiš[one-another]RP
+rinap/rinap5/Q003705,Ashurbanipal 006,ii 15'',mātu[land]N ahennâ[each-by-it/himself]AV zâzu[divide]V
+rinap/rinap5/Q003705,Ashurbanipal 006,ii 16'',ai[not]MOD bašû[be]V ina[in]PRP biri-[among]PRP šanû[(an)other]AJ bēlu[lord]N
+rinap/rinap5/Q003705,Ashurbanipal 006,ii 17'',ana[to]PRP ummānu[military-force]N mātu[land]N Aššur[Assyria]GN emūqu[strength]N bēlūtu[rule]N
+rinap/rinap5/Q003705,Ashurbanipal 006,ii 18'',ša[of]DET nakāsu[cut]V napištu[throat]N šeʾû[seek-(out)]V
+rinap/rinap5/Q003705,Ashurbanipal 006,ii 19'',awātu[word]N lemuttu[evil]N šūt[who(m)]DET rēšu[head]N awātu[word]N
+rinap/rinap5/Q003705,Ashurbanipal 006,iii 1',allu[hoe]N hurāṣu[gold]N simtu[appropriate-symbol]N šarrūtu[kingship]N šakānu[put]V
+rinap/rinap5/Q003705,Ashurbanipal 006,iii 2',šawiru[ring]N hurāṣu[gold]N rakāsu[tie]V rittu[hand]N
+rinap/rinap5/Q003705,Ashurbanipal 006,iii 3',patru[knife]N parzillu[iron]N šibbu[belt]N ša[of]DET ihzu[learning]N hurāṣu[gold]N
+rinap/rinap5/Q003705,Ashurbanipal 006,iii 4',nibītu[naming]N šumu[name]N ina[in]PRP muhhu[skull]N šaṭāru[write]V nadānu[give]V
+rinap/rinap5/Q003705,Ashurbanipal 006,iii 5',narkabtu[chariot]N sisû[horse]N parû[mule]N
+rinap/rinap5/Q003705,Ashurbanipal 006,iii 6',ana[to]PRP rukūbu[vehicle]N bēlūtu[rule]N qiāšu[give]V
+rinap/rinap5/Q003705,Ashurbanipal 006,iii 7',šūt[who(m)]DET rēšu[head]N pīhātu[post]N
+rinap/rinap5/Q003705,Ashurbanipal 006,iii 8',ana[to]PRP kitru[help]N itti[with]PRP šapāru[send]V
+rinap/rinap5/Q003705,Ashurbanipal 006,iii 9',ašru[place]N abu[father]N bānû[creator]N ina[in]PRP Saya[Sais]SN
+rinap/rinap5/Q003705,Ashurbanipal 006,iii 10',ana[to]PRP šarrūtu[kingship]N paqādu[entrust]V
+rinap/rinap5/Q003705,Ashurbanipal 006,iii 11',ana[to]PRP maškanu[place-of-putting]N târu[turn]V
+rinap/rinap5/Q003705,Ashurbanipal 006,iii 12',u[and]CNJ Nabu-šezibanni[Psammetichus-of-Sais;-son-of-Necho]RN māru[son]N
+rinap/rinap5/Q003705,Ashurbanipal 006,iii 13',ina[in]PRP Hathariba[Athribis]SN paqādu[entrust]V
+rinap/rinap5/Q003705,Ashurbanipal 006,iii 14',ṭābtu[goodness]N damqu[good-one]N eli[on]PRP ša[of]DET abu[father]N bānû[creator]N
+rinap/rinap5/Q003705,Ashurbanipal 006,iii 15',watāru[be(come)-outsize]V epēšu[do]V
+rinap/rinap5/Q003705,Ashurbanipal 006,iii 16',Tarqu[Taharqa;-pharaoh-of-Egypt]RN ašru[place]N abātu[run-away]V
+rinap/rinap5/Q003705,Ashurbanipal 006,iii 17',rašubbatu[awesomeness]N kakku[stick]N Aššur[1]DN bēlu[lord]N sahāpu[envelop]V
+rinap/rinap5/Q003705,Ashurbanipal 006,iii 18',alāku[go]V nammušīšu[mobile-one]N warkānu[later]AV URdammaniʾ[Tanutamon;-pharaoh-of-Egypt]RN māru[son]N ahātu[sister]N
+rinap/rinap5/Q003705,Ashurbanipal 006,iii 19',wašābu[sit-(down)]V ina[in]PRP kussû[chair]N šarrūtu[kingship]N
+rinap/rinap5/Q003705,Ashurbanipal 006,iii 20',Niʾ[Thebes]SN Unu[Heliopolis]SN ana[to]PRP dannūtu[strength]N šakānu[put]V
+rinap/rinap5/Q003705,Ashurbanipal 006,iii 21',pahāru[gather]V illatu[band]N
+rinap/rinap5/Q003705,Ashurbanipal 006,iii 22',ana[to]PRP mahāṣu[beat]V ummānu[military-force]N māru[son]N mātu[land]N Aššur[Assyria]GN
+rinap/rinap5/Q003705,Ashurbanipal 006,iii 23',ša[that]REL qerbu[centre]N Mempi[Memphis]SN dekû[raise]V qablu[battle]N
+rinap/rinap5/Q003705,Ashurbanipal 006,iii 24',nišu[people]N šâtunu[those]IP esēru[enclose]V
+rinap/rinap5/Q003705,Ashurbanipal 006,iii 25',ṣabātu[seize]V mūṣû[exit]N
+rinap/rinap5/Q003705,Ashurbanipal 006,iii 26',māru[son]N šipru[sending]N hamṭu[quick]AJ ana[to]PRP Ninua[Nineveh]SN
+rinap/rinap5/Q003705,Ashurbanipal 006,iii 27',alāku[go]V qabû[say]V yâti[me]IP
+rinap/rinap5/Q003705,Ashurbanipal 006,iii 28',šanû[do-twice]V ana[to]PRP Muṣur[Egypt]GN u[and]CNJ Kusu[Kush]GN
+rinap/rinap5/Q003705,Ashurbanipal 006,iii 29',ešēru[go-well]V harrānu[way]N
+rinap/rinap5/Q003705,Ashurbanipal 006,iii 30',URdammaniʾ[Tanutamon;-pharaoh-of-Egypt]RN alāku[go]V gerru[way]N šemû[hear]V
+rinap/rinap5/Q003705,Ashurbanipal 006,iii 31',ša[of]DET kabāsu[tread]V miṣru[border]N Muṣur[Egypt]GN
+rinap/rinap5/Q003705,Ashurbanipal 006,iii 32',Mempi[Memphis]SN wašāru[sink-down]V ana[to]PRP ezēbu[leave]V napištu[throat]N
+rinap/rinap5/Q003705,Ashurbanipal 006,iii 33',abātu[run-away]V ana[to]PRP qerbu[centre]N Niʾ[Thebes]SN
+rinap/rinap5/Q003705,Ashurbanipal 006,iii 34',šarru[king]N pīhātu[post]N qīpu[believable-one]N
+rinap/rinap5/Q003705,Ashurbanipal 006,iii 35',ša[that]REL qerbu[centre]N Muṣur[Egypt]GN šakānu[put]V
+rinap/rinap5/Q003705,Ashurbanipal 006,iii 36',ina[in]PRP irtu[breast]N alāku[go]V našāqu[kiss]V šēpu[foot]N
+rinap/rinap5/Q003705,Ashurbanipal 006,iii 37',warki[after]PRP URdammaniʾ[Tanutamon;-pharaoh-of-Egypt]RN harrānu[way]N ṣabātu[seize]V
+rinap/rinap5/Q003705,Ashurbanipal 006,iii 38',alāku[go]V adi[until]PRP Niʾ[Thebes]SN ālu[city]N dannūtu[strength]N
+rinap/rinap5/Q003705,Ashurbanipal 006,iii 39',tību[attack]N tāhāzu[battle]N amāru[see]V Niʾ[Thebes]SN wašāru[sink-down]V
+rinap/rinap5/Q003705,Ashurbanipal 006,iii 40',abātu[run-away]V ana[to]PRP Kipkipi[1]SN
+rinap/rinap5/Q003705,Ashurbanipal 006,iii 41',ālu[city]N šuāti[him]IP ana[to]PRP sihirtu[circumference]N
+rinap/rinap5/Q003705,Ashurbanipal 006,iii 42',ina[in]PRP tukultu[trust]N Aššur[1]DN u[and]CNJ Ištar[1]DN kašādu[reach]V qātu[hand]N
+rinap/rinap5/Q003705,Ashurbanipal 006,iii 43',kaspu[silver]N hurāṣu[gold]N nisiqtu[selection]N abnu[stone]N
+rinap/rinap5/Q003705,Ashurbanipal 006,iii 44',būšu[goods]N ēkallu[palace]N mala[as-much-as]PRP bašû[existing]AJ
+rinap/rinap5/Q003705,Ashurbanipal 006,iii 45',lubuštu[clothing]N birmu[multicoloured-cloth]N kitû[flax]N sisû[horse]N rabû[great]AJ
+rinap/rinap5/Q003705,Ashurbanipal 006,iii 46',nišu[people]N ziru[male]AJ u[and]CNJ sinništu[woman]N
+rinap/rinap5/Q003705,Ashurbanipal 006,iii 47',timmu[pole]N ṣīru[exalted]AJ pitqu[brickwork]N zahalû[silver-alloy]N ebbu[bright]AJ
+rinap/rinap5/Q003705,Ashurbanipal 006,iii 48',ša[of]DET līm[thousand]NU meʾatu[(one)-hundred]NU biltu[load]N šuqultu[weight]N
+rinap/rinap5/Q003705,Ashurbanipal 006,iii 49',mazzāzu[position]N bābu[gate]N ēkurru[temple]N
+rinap/rinap5/Q003705,Ashurbanipal 006,iii 50',ištu[from]PRP mazzaztu[position]N nasāhu[tear-out]V
+rinap/rinap5/Q003705,Ashurbanipal 006,iii 51',leqû[take]V ana[to]PRP mātu[land]N Aššur[Assyria]GN
+rinap/rinap5/Q003705,Ashurbanipal 006,iii 52',šallatu[plundered-thing(s)]N kabtu[heavy]AJ ina[in]PRP lā[not]MOD mīnu[number]N šalālu[carry-off]V
+rinap/rinap5/Q003705,Ashurbanipal 006,iii 53',ištu[from]PRP qerbu[centre]N Niʾ[Thebes]SN
+rinap/rinap5/Q003705,Ashurbanipal 006,iii 54',eli[on]PRP Muṣur[Egypt]GN u[and]CNJ Kusu[Kush]GN
+rinap/rinap5/Q003705,Ashurbanipal 006,iii 55',kakku[stick]N marāru[be(come)-bitter]V šakānu[put]V lītu[victory]N
+rinap/rinap5/Q003705,Ashurbanipal 006,iii 56',itti[with]PRP qātu[hand]N malû[full]AJ šalmiš[well]AV târu[turn]V
+rinap/rinap5/Q003705,Ashurbanipal 006,iii 57',ana[to]PRP Ninua[Nineveh]SN ālu[city]N bēlūtu[rule]N
+rinap/rinap5/Q003705,Ashurbanipal 006,iii 58',ina[in]PRP šalšu[third]AJ gerru[way]N
+rinap/rinap5/Q003705,Ashurbanipal 006,iii 59',eli[on]PRP Baʾalu[king-of-Tyre]RN šarru[king]N Ṣurru[Tyre]SN
+rinap/rinap5/Q003705,Ashurbanipal 006,iii 60',wāšibu[sitting]AJ qablu[hips]N tiāmtu[sea]N lū[may]MOD alāku[go]V
+rinap/rinap5/Q003705,Ashurbanipal 006,iii 61',aššu[because-(of)]PRP awātu[word]N šarrūtu[kingship]N lā[not]MOD naṣāru[guard]V
+rinap/rinap5/Q003705,Ashurbanipal 006,iii 62',lā[not]MOD šemû[hear]V zikru[utterance]N šaptu[lip]N
+rinap/rinap5/Q003705,Ashurbanipal 006,iii 63',birtu[fort]N eli[on]PRP rakāsu[tie]V
+rinap/rinap5/Q003705,Ashurbanipal 006,iii 64',ana[to]PRP lā[not]MOD waṣû[go-out]V nišu[people]N danānu[be(come)-strong]V maṣṣartu[observation]N
+rinap/rinap5/Q003705,Ashurbanipal 006,iii 65',ina[in]PRP tiāmtu[sea]N u[and]CNJ nābalu[dry-land]N gerru[way]N ṣabātu[seize]V
+rinap/rinap5/Q003705,Ashurbanipal 006,iii 66',alaktu[way]N parāsu[stop]V
+rinap/rinap5/Q003705,Ashurbanipal 006,iii 67',mû[water]N u[and]CNJ tiʾûtu[food]N balāṭu[life]N napištu[throat]N
+rinap/rinap5/Q003705,Ashurbanipal 006,iii 68',ana[to]PRP pû[mouth]N waqāru[be(come)-rare]V
+rinap/rinap5/Q003705,Ashurbanipal 006,iii 69',ina[in]PRP mēseru[confinement]N dannu[strong]AJ
+rinap/rinap5/Q003705,Ashurbanipal 006,iii 70',ša[of]DET lā[not]MOD naparšudu[flee]V esēru[enclose]V
+rinap/rinap5/Q003705,Ashurbanipal 006,iii 71',napištu[throat]N siāqu[be(come)-narrow]V karû[be(come)-short]V
+rinap/rinap5/Q003705,Ashurbanipal 006,iii 72',ana[to]PRP nīru[yoke]N kanāšu[bow-down]V
+rinap/rinap5/Q003705,Ashurbanipal 006,iii 73',mārtu[daughter]N ṣītu[exit]N libbu[interior]N u[and]CNJ mārtu[daughter]N ahu[brother]N
+rinap/rinap5/Q003705,Ashurbanipal 006,iii 74',ana[to]PRP epēšu[do]V abarakkūtu[function-of-stewardess]N
+rinap/rinap5/Q003705,Ashurbanipal 006,iii 75',wabālu[carry]V adi[until]PRP mahru[front]N
+rinap/rinap5/Q003705,Ashurbanipal 006,iii 76',māru[son]N ša[that]REL matīma[ever]AV tiāmtu[sea]N lā[not]MOD ebēru[cross-over]V
+rinap/rinap5/Q003705,Ashurbanipal 006,iii 77',našû[lift]V ana[to]PRP epēšu[do]V wardūtu[slavery]N
+rinap/rinap5/Q003705,Ashurbanipal 006,iii 78',mārtu[daughter]N u[and]CNJ mārtu[daughter]N ahu[brother]N
+rinap/rinap5/Q003705,Ashurbanipal 006,iii 79',itti[with]PRP terhatu[bridewealth]N mādu[many]AJ mahāru[face]V
+rinap/rinap5/Q003705,Ashurbanipal 006,iii 80',rēmu[womb]N rašû[acquire]V
+rinap/rinap5/Q003705,Ashurbanipal 006,iii 81',māru[son]N ṣītu[exit]N libbu[interior]N târu[turn]V nadānu[give]V
+rinap/rinap5/Q003705,Ashurbanipal 006,iii 82',birtu[fort]N ša[that]REL eli[on]PRP Baʾalu[king-of-Tyre]RN
+rinap/rinap5/Q003705,Ashurbanipal 006,iii 83',šarru[king]N Ṣurru[Tyre]SN rakāsu[tie]V paṭāru[untie]V
+rinap/rinap5/Q003705,Ashurbanipal 006,iii 84',ina[in]PRP tiāmtu[sea]N u[and]CNJ nābalu[dry-land]N gerru[way]N
+rinap/rinap5/Q003705,Ashurbanipal 006,iii 85',mala[as-much-as]PRP ṣabātu[seize]V petû[open]V
+rinap/rinap5/Q003705,Ashurbanipal 006,iii 86',maddattu[payment]N kabtu[heavy]AJ mahāru[face]V
+rinap/rinap5/Q003705,Ashurbanipal 006,iii 87',pānu[front]N nīru[yoke]N târu[turn]V
+rinap/rinap5/Q003705,Ashurbanipal 006,iii 88',šalmiš[well]AV târu[turn]V ana[to]PRP Ninua[Nineveh]SN ālu[city]N bēlūtu[rule]N
+rinap/rinap5/Q003705,Ashurbanipal 006,iii 89',malku[ruler]N qablu[hips]N tiāmtu[sea]N u[and]CNJ šarru[king]N
+rinap/rinap5/Q003705,Ashurbanipal 006,iii 90',wāšibu[sitting]AJ šadû[mountain]N šaqû[high]AJ
+rinap/rinap5/Q003705,Ashurbanipal 006,iii 91',danānu[power]N epištu[deed]N annû[this]DP
+rinap/rinap5/Q003705,Ashurbanipal 006,iii 92',amāru[see]V palāhu[be(come)-afraid]V bēlūtu[rule]N
+rinap/rinap5/Q003705,Ashurbanipal 006,iii 93',Yakin-Lu[king-of-Arwad]RN šarru[king]N Arwada[Arwad]SN
+rinap/rinap5/Q003705,Ashurbanipal 006,iii 94',Mugallu[king-of-Tabal]RN šarru[king]N Tabalu[Tabal]GN
+rinap/rinap5/Q003705,Ashurbanipal 006,iii 95',Sandišarme[king-of-Cilicia]RN Hilakkayu[of-Cilicia]EN
+rinap/rinap5/Q003705,Ashurbanipal 006,iii 96',ša[that]REL ana[to]PRP šarru[king]N abu[father]N lā[not]MOD kanšu[submissive]AJ
+rinap/rinap5/Q003705,Ashurbanipal 006,iii 97',kanāšu[bow-down]V ana[to]PRP nīru[yoke]N
+rinap/rinap5/Q003705,Ashurbanipal 006,iii 98',mārtu[daughter]N ṣītu[exit]N libbu[interior]N
+rinap/rinap5/Q003705,Ashurbanipal 006,iii 99',itti[with]PRP nudunnû[mariage-gift]N mādu[many]AJ
+rinap/rinap5/Q003705,Ashurbanipal 006,iii 100',u[and]CNJ terhatu[bridewealth]N mādu[many]AJ
+rinap/rinap5/Q003705,Ashurbanipal 006,iii 101',ana[to]PRP epēšu[do]V abarakkūtu[function-of-stewardess]N
+rinap/rinap5/Q003705,Ashurbanipal 006,iii 102',ana[to]PRP Ninua[Nineveh]SN wabālu[carry]V
+rinap/rinap5/Q003705,Ashurbanipal 006,iii 103',našāqu[kiss]V šēpu[foot]N
+rinap/rinap5/Q003705,Ashurbanipal 006,iii 104',eli[on]PRP Mugallu[king-of-Tabal]RN sisû[horse]N rabû[great]AJ
+rinap/rinap5/Q003705,Ashurbanipal 006,iii 105',maddattu[payment]N šattišamma[year-by-year]AV kânu[be(come)-permanent]V ṣēru[back]N
+rinap/rinap5/Q003705,Ashurbanipal 006,iii 106',ištu[from]PRP Yakin-Lu[king-of-Arwad]RN šarru[king]N Arwada[Arwad]SN
+rinap/rinap5/Q003705,Ashurbanipal 006,iii 107',alāku[go]V ana[to]PRP šīmtu[what-is-fixed]N Azi-Baʾal[son-of-Yakin-Lu]RN
+rinap/rinap5/Q003705,Ashurbanipal 006,iii 108',Abi-Baʾal[son-of-Yakin-Lu]RN Aduni-Baʾal[son-of-Yakin-Lu]RN
+rinap/rinap5/Q003705,Ashurbanipal 006,iii 109',māru[son]N Yakin-Lu[king-of-Arwad]RN wāšibu[sitting]AJ qablu[hips]N tiāmtu[sea]N
+rinap/rinap5/Q003705,Ashurbanipal 006,iii 110',ištu[from]PRP qablu[hips]N tiāmtu[sea]N elû[go-up]V
+rinap/rinap5/Q003705,Ashurbanipal 006,iii 111',itti[with]PRP tāmartu[spectacle]N kabtu[heavy]AJ
+rinap/rinap5/Q003705,Ashurbanipal 006,iii 112',alāku[go]V našāqu[kiss]V šēpu[foot]N
+rinap/rinap5/Q003705,Ashurbanipal 006,iii 113',Azi-Baʾal[son-of-Yakin-Lu]RN hadîš[happily]AV palāsu[look-at]V
+rinap/rinap5/Q003705,Ashurbanipal 006,iii 114',ana[to]PRP šarrūtu[kingship]N Arwada[Arwad]SN šakānu[put]V
+rinap/rinap5/Q003705,Ashurbanipal 006,iii 115',Abi-Baʾal[son-of-Yakin-Lu]RN Aduni-Baʾal[son-of-Yakin-Lu]RN
+rinap/rinap5/Q003705,Ashurbanipal 006,iv 1',Gimirayu[Cimmerian]EN nakru[enemy]N akṣu[brazen]AJ
+rinap/rinap5/Q003705,Ashurbanipal 006,iv 2',ša[that]REL lā[not]MOD palāhu[be(come)-afraid]V abu[father]N
+rinap/rinap5/Q003705,Ashurbanipal 006,iv 3',u[and]CNJ yâti[me]IP lā[not]MOD ṣabātu[seize]V šēpu[foot]N šarrūtu[kingship]N
+rinap/rinap5/Q003705,Ashurbanipal 006,iv 4',ina[in]PRP tukultu[trust]N Aššur[1]DN Ištar[1]DN bēlu[lord]N
+rinap/rinap5/Q003705,Ashurbanipal 006,iv 5',ina[in]PRP ṣiṣṣu[(a-wooden-bar?)]N šāt[who(m)]DET qātu[hand]N šigaru[(wooden)-clamp]N
+rinap/rinap5/Q003705,Ashurbanipal 006,iv 6',tamāhu[grasp]V itti[with]PRP tāmartu[spectacle]N kabtu[heavy]AJ
+rinap/rinap5/Q003705,Ashurbanipal 006,iv 7',wabālu[carry]V adi[until]PRP mahru[front]N
+rinap/rinap5/Q003705,Ashurbanipal 006,iv 8',ina[in]PRP rebû[fourth]AJ gerru[way]N ana[to]PRP Qirbit[1]SN
+rinap/rinap5/Q003705,Ashurbanipal 006,iv 9',ša[that]REL qerbu[centre]N Hale-hasta[1]GN lū[may]MOD alāku[go]V
+rinap/rinap5/Q003705,Ashurbanipal 006,iv 10',ša[that]REL Tandaya[city-ruler-of-Qirbit]PN bēlu[lord]N ālu[city]N
+rinap/rinap5/Q003705,Ashurbanipal 006,iv 11',ana[to]PRP šarru[king]N abu[father]N lā[not]MOD kanāšu[bow-down]V ana[to]PRP nīru[yoke]N
+rinap/rinap5/Q003705,Ashurbanipal 006,iv 12',u[and]CNJ nišu[people]N wāšibu[sitting]AJ Qirbit[1]SN
+rinap/rinap5/Q003705,Ashurbanipal 006,iv 13',kayyānu[constant]AJ habātu[rob]V
+rinap/rinap5/Q003705,Ashurbanipal 006,iv 14',hubtu[robbery]N Yamutbal[1]GN
+rinap/rinap5/Q003705,Ashurbanipal 006,iv 15',ālu[city]N šuāti[him]IP ina[in]PRP tukultu[trust]N Aššur[1]DN Sin[1]DN Šamaš[1]DN
+rinap/rinap5/Q003705,Ashurbanipal 006,iv 16',Bel[1]DN Nabu[1]DN Ištar[1]DN ša[of]DET Ninua[Nineveh]SN Ištar[1]DN ša[of]DET Arba-il[Arbela]SN
+rinap/rinap5/Q003705,Ashurbanipal 006,iv 17',kašādu[reach]V šalālu[carry-off]V šallatu[plundered-thing(s)]N
+rinap/rinap5/Q003705,Ashurbanipal 006,iv 18',Tandaya[city-ruler-of-Qirbit]PN bēlu[lord]N ālu[city]N
+rinap/rinap5/Q003705,Ashurbanipal 006,iv 1'',Ah-šeri[ruler-of-Mannea]RN alāku[go]V gerru[way]N šemû[hear]V
+rinap/rinap5/Q003705,Ashurbanipal 006,iv 2'',wâru[go-(up-to)]V ummānu[military-force]N
+rinap/rinap5/Q003705,Ashurbanipal 006,iv 3'',ina[in]PRP šāt[who(m)]DET mūšu[night]N ina[in]PRP šipru[sending]N nikiltu[skill]N
+rinap/rinap5/Q003705,Ashurbanipal 006,iv 4'',ana[to]PRP epēšu[do]V tāhāzu[battle]N tebû[get-up]V
+rinap/rinap5/Q003705,Ashurbanipal 006,iv 5'',ana[to]PRP mahāṣu[beat]V ummānu[military-force]N
+rinap/rinap5/Q003705,Ashurbanipal 006,iv 6'',ṣābu[people]N tāhāzu[battle]N itti[with]PRP mahāṣu[beat]V
+rinap/rinap5/Q003705,Ashurbanipal 006,iv 7'',šakānu[put]V dabdû[defeat]N
+rinap/rinap5/Q003705,Ashurbanipal 006,iv 8'',mālaku[walk]N bēru[double-hour]N eqlu[field]N šalamtu[corpse]N
+rinap/rinap5/Q003705,Ashurbanipal 006,iv 9'',malû[be(come)-full]V ṣēru[back]N rapšu[wide]AJ
+rinap/rinap5/Q003705,Ashurbanipal 006,iv 10'',ina[in]PRP qibītu[speech]N Aššur[1]DN Sin[1]DN Šamaš[1]DN ilu[god]N rabû[great]AJ
+rinap/rinap5/Q003705,Ashurbanipal 006,iv 11'',bēlu[lord]N ša[that]REL takālu[trust]V
+rinap/rinap5/Q003705,Ashurbanipal 006,iv 12'',qerbu[centre]N Mannayu[Mannean]EN erēbu[enter]V alāku[go]V šalṭiš[imperiously]AV
+rinap/rinap5/Q003705,Ashurbanipal 006,iv 13'',ina[in]PRP mētequ[route]N gerru[way]N
+rinap/rinap5/Q003705,Ashurbanipal 006,iv 14'',Ayausiaš[1]SN birtu[fort]N Aššaš[1]SN dannatu[fortified-(place)]N
+rinap/rinap5/Q003705,Ashurbanipal 006,iv 15'',BusuD[1]SN Ašdiaš[1]SN Urkiyamun[1]SN
+rinap/rinap5/Q003705,Ashurbanipal 006,iv 16'',Uppiš[1]SN Sihua[1]SN Naziniri[1]SN
+rinap/rinap5/Q003705,Ashurbanipal 006,iv 17'',ālu[city]N dannu[strong]AJ adi[until]PRP ṣehru[small]AJ
+rinap/rinap5/Q003705,Ashurbanipal 006,iv 18'',ša[that]REL nību[naming]N lā[not]MOD išû[have]V
+rinap/rinap5/Q003705,Ashurbanipal 006,iv 19'',adi[until]PRP qerbu[centre]N Izirtu[1]SN kašādu[reach]V
+rinap/rinap5/Q003705,Ashurbanipal 006,iv 20'',napālu[dig-out]V naqāru[demolish]V ina[in]PRP gīru[fire(-god)]N qamû[burn-(up)]V
+rinap/rinap5/Q003705,Ashurbanipal 006,iv 21'',nišu[people]N sisû[horse]N imēru[donkey]N alpu[ox]N ṣēnu[flock]N
+rinap/rinap5/Q003705,Ashurbanipal 006,iv 22'',ištu[from]PRP qerbu[centre]N ālu[city]N šâtunu[those]IP
+rinap/rinap5/Q003705,Ashurbanipal 006,iv 23'',waṣû[go-out]V šallatiš[as-booty]AV manû[count]V
+rinap/rinap5/Q003705,Ashurbanipal 006,iv 24'',Ah-šeri[ruler-of-Mannea]RN alāku[go]V gerru[way]N šemû[hear]V
+rinap/rinap5/Q003705,Ashurbanipal 006,iv 25'',wašāru[sink-down]V Izirtu[1]SN ālu[city]N šarrūtu[kingship]N
+rinap/rinap5/Q003705,Ashurbanipal 006,iv 26'',ana[to]PRP Atrana[1]SN ālu[city]N tukultu[trust]N
+rinap/rinap5/Q003705,Ashurbanipal 006,iv 27'',abātu[run-away]V ahāzu[take]V marqītu[refuge]N
+rinap/rinap5/Q003705,Ashurbanipal 006,iv 28'',Izirtu[1]SN Urmete[1]SN Uzbia[1]SN
+rinap/rinap5/Q003705,Ashurbanipal 006,iv 29'',ālu[city]N dannūtu[strength]N lawû[surround]V
+rinap/rinap5/Q003705,Ashurbanipal 006,iv 30'',nišu[people]N wāšibu[sitting]AJ ālu[city]N šâtunu[those]IP
+rinap/rinap5/Q003705,Ashurbanipal 006,iv 31'',esēru[enclose]V napištu[throat]N siāqu[be(come)-narrow]V karû[be(come)-short]V
+rinap/rinap5/Q003705,Ashurbanipal 006,iv 32'',nagû[region]N šuāti[him]IP kašādu[reach]V
+rinap/rinap5/Q003705,Ashurbanipal 006,iv 33'',napālu[dig-out]V naqāru[demolish]V ina[in]PRP gīru[fire(-god)]N qamû[burn-(up)]V
+rinap/rinap5/Q003705,Ashurbanipal 006,iv 34'',mālaku[walk]N ūmu[day]N ūmu[day]N harābu[be(come)-deserted]V
+rinap/rinap5/Q003705,Ashurbanipal 006,iv 35'',šaqummatu[(deathly)-hush]N tabāku[heap-up]V
+rinap/rinap5/Q003705,Ashurbanipal 006,iv 36'',ina[in]PRP mētequ[route]N gerru[way]N
+rinap/rinap5/Q003705,Ashurbanipal 006,iv 37'',ālu[city]N ša[of]DET liwītu[packaging]N Paddiri[1]SN
+rinap/rinap5/Q003705,Ashurbanipal 006,iv 38'',ša[that]REL ina[in]PRP terṣu[pointing]N šarru[king]N abu[father]N Mannayu[Mannean]EN ekēmu[take-away]V
+rinap/rinap5/Q003705,Ashurbanipal 006,iv 39'',ana[to]PRP ramānu[self]N târu[turn]V
+rinap/rinap5/Q003705,Ashurbanipal 006,iv 40'',kašādu[reach]V ina[in]PRP gīru[fire(-god)]N qamû[burn-(up)]V šalālu[carry-off]V šallatu[plundered-thing(s)]N
+rinap/rinap5/Q003705,Ashurbanipal 006,iv 41'',ālu[city]N šâtunu[those]IP ana[to]PRP miṣru[border]N mātu[land]N Aššur[Assyria]GN târu[turn]V
+rinap/rinap5/Q003705,Ashurbanipal 006,iv 42'',nagû[region]N ša[of]DET Arsiyaniš[1]SN
+rinap/rinap5/Q003705,Ashurbanipal 006,iv 43'',ša[that]REL birīt[between]PRP Azaqayani[1]SN
+rinap/rinap5/Q003705,Ashurbanipal 006,iv 44'',ša[of]DET Harsi[1]GN šadû[mountain]N
+rinap/rinap5/Q003705,Ashurbanipal 006,iv 45'',ša[that]REL rēšu[head]N Kumurdaya[1]GN
+rinap/rinap5/Q003705,Ashurbanipal 006,iv 46'',ša[that]REL qerbu[centre]N Mannayu[Mannean]EN
+rinap/rinap5/Q003705,Ashurbanipal 006,iv 47'',sapānu[flatten]V ina[in]PRP gīru[fire(-god)]N qamû[burn-(up)]V
+rinap/rinap5/Q003705,Ashurbanipal 006,iv 48'',Rayyadišade[Mannean-fortress-commander]PN rabû[great-one]N birtu[fort]N
+rinap/rinap5/Q003705,Ashurbanipal 006,iv 49'',dâku[kill]V šalālu[carry-off]V šallatu[plundered-thing(s)]N
+rinap/rinap5/Q003705,Ashurbanipal 006,iv 50'',nagû[region]N ša[of]DET Eristeyana[1]SN
+rinap/rinap5/Q003705,Ashurbanipal 006,iv 51'',kašādu[reach]V ālu[city]N sapānu[flatten]V
+rinap/rinap5/Q003705,Ashurbanipal 006,iv 52'',ina[in]PRP gīru[fire(-god)]N qamû[burn-(up)]V šalālu[carry-off]V šallatu[plundered-thing(s)]N
+rinap/rinap5/Q003705,Ashurbanipal 006,iv 53'',ina[in]PRP tību[attack]N tāhāzu[battle]N nagû[region]N harābu[be(come)-deserted]V
+rinap/rinap5/Q003705,Ashurbanipal 006,iv 54'',ṣehēru[be(come)-small]V napharu[total]N mātu[land]N
+rinap/rinap5/Q003705,Ashurbanipal 006,iv 55'',itti[with]PRP hubtu[robbery]N mādu[many]AJ
+rinap/rinap5/Q003705,Ashurbanipal 006,iv 56'',šallatu[plundered-thing(s)]N kabtu[heavy]AJ šalmiš[well]AV târu[turn]V
+rinap/rinap5/Q003705,Ashurbanipal 006,iv 57'',kabāsu[tread]V miṣru[border]N mātu[land]N Aššur[Assyria]GN
+rinap/rinap5/Q003705,Ashurbanipal 006,iv 58'',Birrua[1]SN Šarru-iqbi[1]SN
+rinap/rinap5/Q003705,Ashurbanipal 006,iv 59'',Gusine[1]SN ālu[city]N mahrû[first]AJ
+rinap/rinap5/Q003705,Ashurbanipal 006,iv 60'',ša[of]DET miṣru[border]N mātu[land]N Aššur[Assyria]GN
+rinap/rinap5/Q003705,Ashurbanipal 006,iv 61'',ša[that]REL ina[in]PRP terṣu[pointing]N šarru[king]N abu[father]N
+rinap/rinap5/Q003705,Ashurbanipal 006,iv 62'',ekēmu[take-away]V Mannayu[Mannean]EN
+rinap/rinap5/Q003705,Ashurbanipal 006,iv 63'',dadmū[villages]N šâtunu[those]IP kašādu[reach]V
+rinap/rinap5/Q003705,Ashurbanipal 006,iv 64'',Mannayu[Mannean]EN ištu[from]PRP libbu[interior]N nasāhu[tear-out]V
+rinap/rinap5/Q003705,Ashurbanipal 006,iv 65'',sisû[horse]N tillu[(military)-equipment]N unūtu[merchandise]N tāhāzu[battle]N
+rinap/rinap5/Q003705,Ashurbanipal 006,iv 66'',šalālu[carry-off]V ana[to]PRP mātu[land]N Aššur[Assyria]GN
+rinap/rinap5/Q003705,Ashurbanipal 006,iv 67'',ālu[city]N šâtunu[those]IP ana[to]PRP eššūtu[newness]N ṣabātu[seize]V
+rinap/rinap5/Q003705,Ashurbanipal 006,iv 68'',târu[turn]V ana[to]PRP miṣru[border]N mātu[land]N Aššur[Assyria]GN
+rinap/rinap5/Q003705,Ashurbanipal 006,iv 69'',Ah-šeri[ruler-of-Mannea]RN lā[not]MOD pālihu[one-who-reveres]N bēlūtu[rule]N
+rinap/rinap5/Q003705,Ashurbanipal 006,iv 70'',Aššur[1]DN u[and]CNJ Ištar[1]DN manû[count]V ina[in]PRP qātu[hand]N wardu[slave]N
+rinap/rinap5/Q003705,Ashurbanipal 006,iv 71'',nišu[people]N mātu[land]N sīhu[rebellion]N eli[on]PRP bašû[be]V
+rinap/rinap5/Q003705,Ashurbanipal 006,iv 72'',ina[in]PRP sūqu[street]N ālu[city]N nadû[throw-(down)]V pagru[body]N
+rinap/rinap5/Q003705,Ashurbanipal 006,iv 73'',warkānu[later]AV Ualli[ruler-of-Mannea]RN māru[son]N
+rinap/rinap5/Q003705,Ashurbanipal 006,iv 74'',wašābu[sit-(down)]V ina[in]PRP kussû[chair]N
+rinap/rinap5/Q003705,Ashurbanipal 006,iv 75'',danānu[power]N Aššur[1]DN Sin[1]DN Šamaš[1]DN Bel[1]DN u[and]CNJ Nabu[1]DN
+rinap/rinap5/Q003705,Ashurbanipal 006,iv 76'',Ištar[1]DN ša[of]DET Ninua[Nineveh]SN Ištar[1]DN ša[of]DET Arba-il[Arbela]SN Ninurta[1]DN Nusku[1]DN Nergal[1]DN
+rinap/rinap5/Q003705,Ashurbanipal 006,iv 77'',ilu[god]N rabû[great]AJ bēlu[lord]N amāru[see]V
+rinap/rinap5/Q003705,Ashurbanipal 006,iv 78'',kanāšu[bow-down]V ana[to]PRP nīru[yoke]N
+rinap/rinap5/Q003705,Ashurbanipal 006,iv 79'',aššu[because-(of)]PRP balāṭu[live]V napištu[throat]N upnu[(cupped)-hand]N petû[open]V
+rinap/rinap5/Q003705,Ashurbanipal 006,iv 80'',ṣullû[beseech]V bēlūtu[rule]N
+rinap/rinap5/Q003705,Ashurbanipal 006,iv 81'',Erisinni[Mannean-crown-prince]RN māru[son]N ridûtu[appropriation]N
+rinap/rinap5/Q003705,Ashurbanipal 006,iv 82'',ana[to]PRP Ninua[Nineveh]SN šapāru[send]V
+rinap/rinap5/Q003705,Ashurbanipal 006,iv 83'',našāqu[kiss]V šēpu[foot]N
+rinap/rinap5/Q003705,Ashurbanipal 006,iv 84'',rēmu[womb]N rašû[acquire]V māru[son]N šipru[sending]N ša[of]DET šulmu[completeness]N wâru[go-(up-to)]V ṣēru[back]N
+rinap/rinap5/Q003705,Ashurbanipal 006,v 1,mārtu[daughter]N ṣītu[exit]N libbu[interior]N wabālu[carry]V ana[to]PRP epēšu[do]V abarakkūtu[function-of-stewardess]N
+rinap/rinap5/Q003705,Ashurbanipal 006,v 2,maddattu[payment]N mahrû[first]AJ ša[that]REL ina[in]PRP tarṣu[before]N šarru[king]N abu[father]N
+rinap/rinap5/Q003705,Ashurbanipal 006,v 3,baṭālu[cease]V našû[lift]V adi[until]PRP mahru[front]N
+rinap/rinap5/Q003705,Ashurbanipal 006,v 4,sisû[horse]N eli[on]PRP maddattu[payment]N
+rinap/rinap5/Q003705,Ashurbanipal 006,v 5,mahrû[first]AJ redû[accompany]V emēdu[lean-on]V
+rinap/rinap5/Q003705,Ashurbanipal 006,v 6,ina[in]PRP ūmu[day]N Birishatri[Median-city-ruler]PN bēlu[lord]N ālu[city]N ša[of]DET Madayu[Median]EN
+rinap/rinap5/Q003705,Ashurbanipal 006,v 7,Sarati[son-of-Gagi]PN Parihi[son-of-Gagi]PN māru[son]N Gagi[city-ruler-of-Sahi]PN bēlu[lord]N ālu[city]N Sahi[1]GN
+rinap/rinap5/Q003705,Ashurbanipal 006,v 8,ša[that]REL ṣalāʾu[throw-(down)]V nīru[yoke]N bēlūtu[rule]N
+rinap/rinap5/Q003705,Ashurbanipal 006,v 9,ālu[city]N dannu[strong]AJ kašādu[reach]V
+rinap/rinap5/Q003705,Ashurbanipal 006,v 10,šalālu[carry-off]V šallatu[plundered-thing(s)]N
+rinap/rinap5/Q003705,Ashurbanipal 006,v 11,šâšunu[(to/of)-them]IP balṭūtu[state-of-being-alive]N ina[in]PRP qātu[hand]N ṣabātu[seize]V
+rinap/rinap5/Q003705,Ashurbanipal 006,v 12,wabālu[carry]V ana[to]PRP Ninua[Nineveh]SN ālu[city]N bēlūtu[rule]N
+rinap/rinap5/Q003705,Ashurbanipal 006,v 13,Andaria[Urarṭian-governor]PN tartānu[(a-high-military-official)]N Urarṭu[1]GN
+rinap/rinap5/Q003705,Ashurbanipal 006,v 14,ša[that]REL ana[to]PRP kašādu[reach]V Uppumme[1]SN
+rinap/rinap5/Q003705,Ashurbanipal 006,v 15,u[and]CNJ Kullimmeri[1]SN
+rinap/rinap5/Q003705,Ashurbanipal 006,v 16,redû[accompany]V alāku[go]V qerbu[centre]N mušītu[night(-time)]N
+rinap/rinap5/Q003705,Ashurbanipal 006,v 17,nišu[people]N wāšibu[sitting]AJ Kullimmeri[1]SN
+rinap/rinap5/Q003705,Ashurbanipal 006,v 18,wardu[slave]N dāgilu[one-who-sees]N pānu[front]N
+rinap/rinap5/Q003705,Ashurbanipal 006,v 19,ina[in]PRP šāt[who(m)]DET mūšu[night]N dīktu[fighting]N
+rinap/rinap5/Q003705,Ashurbanipal 006,v 20,mādu[many]AJ dâku[kill]V
+rinap/rinap5/Q003705,Ashurbanipal 006,v 21,lā[not]MOD ezēbu[leave]V ayyumma[any]XP
+rinap/rinap5/Q003705,Ashurbanipal 006,v 22,qaqqadu[head]N Andaria[Urarṭian-governor]PN nakāsu[cut]V
+rinap/rinap5/Q003705,Ashurbanipal 006,v 23,ana[to]PRP Ninua[Nineveh]SN ina[in]PRP mahru[front]N wabālu[carry]V
+rinap/rinap5/Q003705,Ashurbanipal 006,v 24,ina[in]PRP šešsu[sixth]AJ gerru[way]N eli[on]PRP Urtaku[king-of-Elam]RN šarru[king]N Elamtu[Elam]GN lū[may]MOD alāku[go]V
+rinap/rinap5/Q003705,Ashurbanipal 006,v 25,ša[that]REL ṭābtu[goodness]N abu[father]N bānû[creator]N lā[not]MOD hassu[clever]AJ lā[not]MOD naṣāru[guard]V ibrūtu[friendship]N
+rinap/rinap5/Q003705,Ashurbanipal 006,v 26,ištu[from]PRP ina[in]PRP Elamtu[Elam]GN sunqu[famine]N šakānu[put]V
+rinap/rinap5/Q003705,Ashurbanipal 006,v 27,bašû[be]V nebrītu[hunger(-ration)]N
+rinap/rinap5/Q003705,Ashurbanipal 006,v 28,Nisaba[1]DN balāṭu[life]N napištu[throat]N nišu[people]N
+rinap/rinap5/Q003705,Ashurbanipal 006,v 29,wabālu[carry]V ṣabātu[seize]V qātu[hand]N
+rinap/rinap5/Q003705,Ashurbanipal 006,v 30,nišu[people]N ša[that]REL lapāni[in-front-of]PRP sunqu[famine]N
+rinap/rinap5/Q003705,Ashurbanipal 006,v 31,abātu[run-away]V wašābu[sit-(down)]V qerbu[centre]N mātu[land]N Aššur[Assyria]GN
+rinap/rinap5/Q003705,Ashurbanipal 006,v 32,adi[until]PRP zunnu[rain]N ina[in]PRP mātu[land]N zanānu[rain]V
+rinap/rinap5/Q003705,Ashurbanipal 006,v 33,bašû[be]V ebūru[harvest]N
+rinap/rinap5/Q003705,Ashurbanipal 006,v 34,nišu[people]N šâtunu[those]IP ša[that]REL ina[in]PRP mātu[land]N balāṭu[live]V wabālu[carry]V
+rinap/rinap5/Q003705,Ashurbanipal 006,v 35,Elamu[Elamite]EN ša[that]REL tibûtu[levy]N
+rinap/rinap5/Q003705,Ashurbanipal 006,v 36,itti[with]PRP libbu[interior]N lā[not]MOD dabbu[speaking]AJ
+rinap/rinap5/Q003705,Ashurbanipal 006,v 37,lā[not]MOD hassu[clever]AJ ṣāltu[combat]N
+rinap/rinap5/Q003705,Ashurbanipal 006,v 38,Bel-iqiša[leader-of-the-Gambulu]RN Gambulayu[of-Gambulu]EN
+rinap/rinap5/Q003705,Ashurbanipal 006,v 39,Nabu-šumu-ereš[šandabakku-of-Nippur]PN šandabakku[chief-accountant]N
+rinap/rinap5/Q003705,Ashurbanipal 006,v 40,wardu[slave]N dāgilu[one-who-sees]N pānu[front]N
+rinap/rinap5/Q003705,Ashurbanipal 006,v 41,Marduk-šumu-ibni[eunuch-of-Urtaku]PN šūt[who(m)]DET rēšu[head]N ša[of]DET Urtaku[king-of-Elam]RN
+rinap/rinap5/Q003705,Ashurbanipal 006,v 42,ša[that]REL itti[with]PRP šakānu[put]V pû[mouth]N
+rinap/rinap5/Q003705,Ashurbanipal 006,v 43,ana[to]PRP mahāṣu[beat]V mātu[land]N Šumeru[Sumer]GN u[and]CNJ Akkad[1]GN
+rinap/rinap5/Q003705,Ashurbanipal 006,v 44,ina[in]PRP pirsatu[lies]N dekû[raise]V
+rinap/rinap5/Q003705,Ashurbanipal 006,v 45,Urtaku[king-of-Elam]RN šarru[king]N Elamtu[Elam]GN
+rinap/rinap5/Q003705,Ashurbanipal 006,v 46,Urtaku[king-of-Elam]RN ša[that]REL lā[not]MOD gerû[be(come)-hostile]N
+rinap/rinap5/Q003705,Ashurbanipal 006,v 47,qablu[battle]N dekû[raise]V
+rinap/rinap5/Q003705,Ashurbanipal 006,v 48,ana[to]PRP Karduniaš[Babylonia]GN arāhu[hasten]V tāhāzu[battle]N
+rinap/rinap5/Q003705,Ashurbanipal 006,v 49,aššu[because-(of)]PRP tibûtu[levy]N Elamu[Elamite]EN
+rinap/rinap5/Q003705,Ashurbanipal 006,v 50,māru[son]N šipru[sending]N ana[to]PRP Ninua[Nineveh]SN alāku[go]V
+rinap/rinap5/Q003705,Ashurbanipal 006,v 51,qabû[say]V yâti[me]IP
+rinap/rinap5/Q003705,Ashurbanipal 006,v 52,awātu[word]N šâtina[those]IP
+rinap/rinap5/Q003705,Ashurbanipal 006,v 53,ša[of]DET tibûtu[levy]N Urtaku[king-of-Elam]RN
+rinap/rinap5/Q003705,Ashurbanipal 006,v 54,ul[not]MOD šadādu[drag]V ina[in]PRP libbu[interior]N
+rinap/rinap5/Q003705,Ashurbanipal 006,v 55,šūt[because-(of)]PRP ṣīru[exalted-one]N ša[of]DET sulummû[peace-making]N
+rinap/rinap5/Q003705,Ashurbanipal 006,v 56,šapāru[send]V ina[in]PRP mahru[front]N
+rinap/rinap5/Q003705,Ashurbanipal 006,v 57,ana[to]PRP amāru[see]V šarru[king]N Elamtu[Elam]GN
+rinap/rinap5/Q003705,Ashurbanipal 006,v 58,māru[son]N šipru[sending]N wâru[go-(up-to)]V hamṭiš[quickly]AV
+rinap/rinap5/Q003705,Ashurbanipal 006,v 59,alāku[go]V târu[turn]V
+rinap/rinap5/Q003705,Ashurbanipal 006,v 60,awātu[word]N kayyamānû[reliable]AJ
+rinap/rinap5/Q003705,Ashurbanipal 006,v 61,šanû[do-twice]V yâti[me]IP
+rinap/rinap5/Q003705,Ashurbanipal 006,v 62,umma[saying]PRP Elamu[Elamite]EN
+rinap/rinap5/Q003705,Ashurbanipal 006,v 63,kīma[like]PRP tibûtu[levy]N erbû[locust]N
+rinap/rinap5/Q003705,Ashurbanipal 006,v 64,katmu[covered]AJ mātu[land]N Akkad[1]GN kalû[totality]N
+rinap/rinap5/Q003705,Ashurbanipal 006,v 65,ṣēru[back]N Babili[Babylon]SN ušmannu[camp]N šaknu[placed]AJ nadû[placed]AJ madaktu[(military)-camp]N
+rinap/rinap5/Q003705,Ashurbanipal 006,v 66,ana[to]PRP nērārūtu[aid]N Bel[1]DN u[and]CNJ Nabu[1]DN bēlu[lord]N
+rinap/rinap5/Q003705,Ashurbanipal 006,v 67,ša[that]REL palāhu[be(come)-afraid]V ilūtu[godhead]N
+rinap/rinap5/Q003705,Ashurbanipal 006,v 68,ṣābu[people]N tāhāzu[battle]N dekû[raise]V ṣabātu[seize]V harrānu[way]N
+rinap/rinap5/Q003705,Ashurbanipal 006,v 69,alāku[go]V gerru[way]N šemû[hear]V
+rinap/rinap5/Q003705,Ashurbanipal 006,v 70,hātu[terror]N sahāpu[envelop]V târu[turn]V ana[to]PRP mātu[land]N
+rinap/rinap5/Q003705,Ashurbanipal 006,v 71,warki[after]PRP ṣabātu[seize]V abiktu[defeat]N šakānu[put]V
+rinap/rinap5/Q003705,Ashurbanipal 006,v 72,ṭarādu[send]V adi[until]PRP miṣru[border]N mātu[land]N
+rinap/rinap5/Q003705,Ashurbanipal 006,v 73,Urtaku[king-of-Elam]RN šarru[king]N Elamtu[Elam]GN
+rinap/rinap5/Q003705,Ashurbanipal 006,v 74,ša[that]REL lā[not]MOD naṣāru[guard]V ibrūtu[friendship]N
+rinap/rinap5/Q003705,Ashurbanipal 006,v 75,ina[in]PRP ūmu[day]N lā[not]MOD šīmtu[what-is-fixed]N mūtu[death]N gerû[be(come)-hostile]V
+rinap/rinap5/Q003705,Ashurbanipal 006,v 76,ina[in]PRP tānēhu[wailing]N qatû[finish]V zâbu[dissolve]V
+rinap/rinap5/Q003705,Ashurbanipal 006,v 77,ina[in]PRP qaqqaru[ground]N balāṭu[life]N šēpu[foot]N ul[not]MOD šakānu[put]V
+rinap/rinap5/Q003705,Ashurbanipal 006,v 78,ina[in]PRP šattu[year]N napištu[throat]N qatû[finish]V alāku[go]V nammušīšu[mobile-one]N
+rinap/rinap5/Q003705,Ashurbanipal 006,v 79,Bel-iqiša[leader-of-the-Gambulu]RN Gambulayu[of-Gambulu]EN
+rinap/rinap5/Q003705,Ashurbanipal 006,v 80,ša[that]REL ṣalāʾu[throw-(down)]V nīru[yoke]N bēlūtu[rule]N
+rinap/rinap5/Q003705,Ashurbanipal 006,v 81,ina[in]PRP nišku[bite]N humṣīru[(large)-mouse]N šakānu[put]V napištu[throat]N
+rinap/rinap5/Q003705,Ashurbanipal 006,v 82,Nabu-šumu-ereš[šandabakku-of-Nippur]PN šandabakku[chief-accountant]N lā[not]MOD nāṣiru[guard]N adû[(treaty-)oath]N
+rinap/rinap5/Q003705,Ashurbanipal 006,v 83,našû[lift]V aganutillû[dropsy]N mû[water]N malû[full]AJ
+rinap/rinap5/Q003705,Ashurbanipal 006,v 84,Marduk-šumu-ibni[eunuch-of-Urtaku]PN šūt[who(m)]DET rēšu[head]N mušadbibu[that-causes-someone-to-litigate]N
+rinap/rinap5/Q003705,Ashurbanipal 006,v 85,ša[that]REL lemuttu[evil]N kapādu[plan]V ana[to]PRP Urtaku[king-of-Elam]RN
+rinap/rinap5/Q003705,Ashurbanipal 006,v 86,emēdu[lean-on]V Marduk[1]DN šarru[king]N ilu[god]N
+rinap/rinap5/Q003705,Ashurbanipal 006,v 87,šērtu[guilt]N rabû[great]AJ
+rinap/rinap5/Q003705,Ashurbanipal 006,v 88,ina[in]PRP šattu[year]N mehretu[opposite-side]N ahāmiš[one-another]RP
+rinap/rinap5/Q003705,Ashurbanipal 006,v 89,šakānu[put]V napištu[throat]N
+rinap/rinap5/Q003705,Ashurbanipal 006,v 90,libbu[interior]N Aššur[1]DN aggu[furious]AJ ul[not]MOD nâhu[rest]V
+rinap/rinap5/Q003705,Ashurbanipal 006,v 91,ul[not]MOD pašāhu[be(come)-at-rest]V kabattu[liver]N Ištar[1]DN ša[that]REL takālu[trust]V
+rinap/rinap5/Q003705,Ashurbanipal 006,v 92,palû[reign-(of-a-king)]N šarrūtu[kingship]N sakāpu[push-down]V
+rinap/rinap5/Q003705,Ashurbanipal 006,v 93,bēlūtu[rule]N Elamtu[Elam]GN leqû[take]V šanû[(an)other-one]N
+rinap/rinap5/Q003705,Ashurbanipal 006,v 94,warki[after]PRP Teumman[king-of-Elam]RN tamšīlu[likeness]N gallû[(a-demon)]N
+rinap/rinap5/Q003705,Ashurbanipal 006,v 95,wašābu[sit-(down)]V ina[in]PRP kussû[chair]N Urtaku[king-of-Elam]RN
+rinap/rinap5/Q003705,Ashurbanipal 006,v 96,ana[to]PRP dâku[kill]V māru[son]N Urtaku[king-of-Elam]RN
+rinap/rinap5/Q003705,Ashurbanipal 006,v 97,u[and]CNJ māru[son]N Ummanaldašu[king-of-Elam-and-brother-of-Urtaku;-Humban-haltaš-II]RN
+rinap/rinap5/Q003705,Ashurbanipal 006,v 98,ahu[brother]N Urtaku[king-of-Elam]RN šeʾû[seek-(out)]V lemuttu[evil]N
+rinap/rinap5/Q003705,Ashurbanipal 006,v 99,Ummanigaš[Humban-nikas-II;-king-of-Elam]RN Ummanappa[son-of-Urtaku]RN Tammaritu[son-of-Urtaku-and-king-of-Hidalu;-Tammaritu-I]RN
+rinap/rinap5/Q003705,Ashurbanipal 006,v 100,māru[son]N Urtaku[king-of-Elam]RN šarru[king]N Elamtu[Elam]GN
+rinap/rinap5/Q003705,Ashurbanipal 006,v 101,Kudurru[son-of-Ummanaldašu-II]RN Parru[son-of-Ummanaldašu-II]RN
+rinap/rinap5/Q003705,Ashurbanipal 006,v 102,māru[son]N Ummanaldašu[king-of-Elam-and-brother-of-Urtaku;-Humban-haltaš-II]RN
+rinap/rinap5/Q003705,Ashurbanipal 006,v 103,šarru[king]N āliku[goer]N pānu[front]N Urtaku[king-of-Elam]RN
+rinap/rinap5/Q003705,Ashurbanipal 006,v 104,u[and]CNJ zēru[seed(s)]N šarru[king]N ina[in]PRP lā[not]MOD mīnu[number]N ṣābu[people]N qaštu[bow]N
+rinap/rinap5/Q003705,Ashurbanipal 006,v 105,māru[son]N banû[good-one]N ša[of]DET Elamtu[Elam]GN
+rinap/rinap5/Q003705,Ashurbanipal 006,v 106,ša[that]REL lapāni[in-front-of]PRP dâku[kill]V Teumman[king-of-Elam]RN
+rinap/rinap5/Q003705,Ashurbanipal 006,v 107,abātu[run-away]V ṣabātu[seize]V šēpu[foot]N šarrūtu[kingship]N
+rinap/rinap5/Q003705,Ashurbanipal 006,v 1',nišu[people]N šâtunu[those]IP ša[that]REL abātu[run-away]V
+rinap/rinap5/Q003705,Ashurbanipal 006,vi 1',ilūtu[godhead]N suppû[pray]V alāku[go]V dimtu[tear]N
+rinap/rinap5/Q003705,Ashurbanipal 006,vi 2',umma[saying]PRP bēltu[lady]N Arba-il[Arbela]SN
+rinap/rinap5/Q003705,Ashurbanipal 006,vi 3',anāku[I]IP Aššur-bani-apli[Ashurbanipal;-king-of-Assyria]RN šarru[king]N mātu[land]N Aššur[Assyria]GN
+rinap/rinap5/Q003705,Ashurbanipal 006,vi 4',binûtu[creation]N qātu[hand]N ša[that]REL hašāhu[need]V Aššur[1]DN abu[father]N bānû[creator]N
+rinap/rinap5/Q003705,Ashurbanipal 006,vi 5',ana[to]PRP edēšu[be(come)-new]V ešertu[chapel]N
+rinap/rinap5/Q003705,Ashurbanipal 006,vi 6',šalāmu[be(come)-healthy]V parṣu[rite]N naṣāru[guard]V pirištu[secret-plot]N
+rinap/rinap5/Q003705,Ashurbanipal 006,vi 7',ṭiābu[be(come)-good]V libbu[interior]N nabû[name]V zikru[utterance]N
+rinap/rinap5/Q003705,Ashurbanipal 006,vi 8',anāku[I]IP ašru[place]N šeʾû[seek-(out)]V
+rinap/rinap5/Q003705,Ashurbanipal 006,vi 9',alāku[go]V ana[to]PRP palāhu[be(come)-afraid]V ilūtu[godhead]N
+rinap/rinap5/Q003705,Ashurbanipal 006,vi 10',u[and]CNJ šalāmu[be(come)-healthy]V parṣu[rite]N
+rinap/rinap5/Q003705,Ashurbanipal 006,vi 11',u[and]CNJ šū[he]IP Teumman[king-of-Elam]RN
+rinap/rinap5/Q003705,Ashurbanipal 006,vi 12',šarru[king]N Elamtu[Elam]GN lā[not]MOD mušāqiru[one-who-respects]N ilu[god]N
+rinap/rinap5/Q003705,Ashurbanipal 006,vi 13',kuṣṣuru[thoroughly-knotted]AJ kalû[totality]N ana[to]PRP mahāṣu[beat]V ummānu[military-force]N
+rinap/rinap5/Q003705,Ashurbanipal 006,vi 14',umma[saying]PRP attī[you]IP bēltu[lady]N bēltu[lady]N
+rinap/rinap5/Q003705,Ashurbanipal 006,vi 15',iltu[goddess]N qablu[battle]N bēltu[lady]N tāhāzu[battle]N māliktu[adviser]N ilu[god]N abu[father]N
+rinap/rinap5/Q003705,Ashurbanipal 006,vi 16',ša[that]REL ina[in]PRP mahru[front]N Aššur[1]DN abu[father]N bānû[creator]N
+rinap/rinap5/Q003705,Ashurbanipal 006,vi 17',damqu[good-one]N qabû[say]V ina[in]PRP nīšu[lifting]N īnu[eye]N ellu[pure]AJ
+rinap/rinap5/Q003705,Ashurbanipal 006,vi 18',hašāhu[need]V ana[to]PRP šarrūtu[kingship]N
+rinap/rinap5/Q003705,Ashurbanipal 006,vi 19',aššu[because-(of)]PRP Teumman[king-of-Elam]RN šarru[king]N Elamtu[Elam]GN
+rinap/rinap5/Q003705,Ashurbanipal 006,vi 20',ša[that]REL ana[to]PRP Aššur[1]DN šarru[king]N ilu[god]N abu[father]N bānû[creator]N hatû[(meaning-unclear)]V biltu[load]N
+rinap/rinap5/Q003705,Ashurbanipal 006,vi 21',dekû[raise]V ummānu[military-force]N kaṣāru[tie]V tāhāzu[battle]N
+rinap/rinap5/Q003705,Ashurbanipal 006,vi 22',šêlu[sharpen]V kakku[stick]N ana[to]PRP alāku[go]V mātu[land]N Aššur[Assyria]GN
+rinap/rinap5/Q003705,Ashurbanipal 006,vi 23',umma[saying]PRP attī[you]IP qardu[valiant-one]N ilu[god]N
+rinap/rinap5/Q003705,Ashurbanipal 006,vi 24',kīma[like]PRP biltu[load]N ina[in]PRP qablu[hips]N tamhāru[battle]N paṭāru[untie]V
+rinap/rinap5/Q003705,Ashurbanipal 006,vi 25',dekû[raise]V mehû[storm]N šāru[wind]N lemnu[bad]AJ
+rinap/rinap5/Q003705,Ashurbanipal 006,vi 26',inhu[hardship]N šūnuhu[much-troubled]AJ Ištar[1]DN šemû[hear]V
+rinap/rinap5/Q003705,Ashurbanipal 006,vi 27',lā[not]MOD palāhu[be(come)-afraid]V qabû[say]V rahāṣu[trust]V libbu[interior]N
+rinap/rinap5/Q003705,Ashurbanipal 006,vi 28',ana[to]PRP nīšu[lifting]N qātu[hand]N ša[that]REL našû[lift]V
+rinap/rinap5/Q003705,Ashurbanipal 006,vi 29',īnū[eye]N malû[be(come)-full]V dimtu[tear]N rašû[acquire]V rēmu[womb]N
+rinap/rinap5/Q003705,Ashurbanipal 006,vi 30',ina[in]PRP šāt[who(m)]DET mūšu[night]N šuāti[him]IP ša[that]REL mahāru[face]V
+rinap/rinap5/Q003705,Ashurbanipal 006,vi 31',ištēn[one]NU šabrû[interpreter-of-dreams]N itūlu[lie-down]V naṭālu[look]V šuttu[dream]N
+rinap/rinap5/Q003705,Ashurbanipal 006,vi 32',nagaltû[awake]V tabrītu[(nocturnal)-vision]N mūšu[night]N
+rinap/rinap5/Q003705,Ashurbanipal 006,vi 33',ša[that]REL Ištar[1]DN barû[see]V šanû[do-twice]V yâti[me]IP
+rinap/rinap5/Q003705,Ashurbanipal 006,vi 34',umma[saying]PRP Ištar[1]DN wāšibu[sitting]AJ Arba-il[Arbela]SN erēbu[enter]V
+rinap/rinap5/Q003705,Ashurbanipal 006,vi 35',imna[on-the-right]AV u[and]CNJ šumēla[on-the-left]AV tullû[bedecked]AJ išpatu[quiver]N
+rinap/rinap5/Q003705,Ashurbanipal 006,vi 36',tamhu[holding]AJ qaštu[bow]N ina[in]PRP idu[arm]N
+rinap/rinap5/Q003705,Ashurbanipal 006,vi 37',šalpu[unsheathed]AJ namṣāru[sword]N zaqtu[pointed]AJ ša[of]DET epēšu[do]V tāhāzu[battle]N
+rinap/rinap5/Q003705,Ashurbanipal 006,vi 1'',nigûtu[joyful-song]N šakānu[put]V naʾādu[be(come)-attentive]V ilūtu[godhead]N
+rinap/rinap5/Q003705,Ashurbanipal 006,vi 2'',adi[until]PRP alāku[go]V šipru[sending]N šuāti[him]IP epēšu[do]V
+rinap/rinap5/Q003705,Ashurbanipal 006,vi 3'',kašādu[reach]V ṣummirātu[desires]N libbu[interior]N
+rinap/rinap5/Q003705,Ashurbanipal 006,vi 4'',pānu[front]N ul[not]MOD warāqu[be(come)-green-yellow]V ul[not]MOD narāṭu[sway]V šēpu[foot]N
+rinap/rinap5/Q003705,Ashurbanipal 006,vi 5'',ul[not]MOD šamāṭu[tear-away]V zūtu[sweat]N ina[in]PRP qablu[hips]N tamhāru[battle]N
+rinap/rinap5/Q003705,Ashurbanipal 006,vi 6'',ina[in]PRP kirimmu[(crook-of)-arm]N ṭābu[good]AJ haṣānu[hug]V
+rinap/rinap5/Q003705,Ashurbanipal 006,vi 7'',hatānu[protect]V gimru[totality]N lānu[form]N
+rinap/rinap5/Q003705,Ashurbanipal 006,vi 8'',pānu[front]N gīru[fire(-god)]N napāhu[blow]V
+rinap/rinap5/Q003705,Ashurbanipal 006,vi 9'',ezziš[furiously]AV namrīriš[like-an-awe-inspiring-radiance]AV waṣû[go-out]V
+rinap/rinap5/Q003705,Ashurbanipal 006,vi 10'',ana[to]PRP kašādu[reach]V nakru[enemy]N alāku[go]V
+rinap/rinap5/Q003705,Ashurbanipal 006,vi 11'',eli[on]PRP Teumman[king-of-Elam]RN šarru[king]N Elamtu[Elam]GN
+rinap/rinap5/Q003705,Ashurbanipal 006,vi 12'',ša[of]DET uggugu[angry]AJ pānu[front]N šakānu[put]V
+rinap/rinap5/Q003705,Ashurbanipal 006,vi 13'',ina[in]PRP Elunu[1]MN šipru[sending]N ištaru[goddess]N isinnu[festival]N Aššur[1]DN ṣīru[exalted]AJ
+rinap/rinap5/Q003705,Ashurbanipal 006,vi 14'',warhu[month]N Sin[1]DN nannaru[light-of-the-sky]N šamû[heaven]N u[and]CNJ erṣetu[earth]N
+rinap/rinap5/Q003705,Ashurbanipal 006,vi 15'',takālu[trust]V ana[to]PRP purussû[(legal)-decision]N Nannaru[1]DN nawru[bright]AJ
+rinap/rinap5/Q003705,Ashurbanipal 006,vi 16'',u[and]CNJ šipru[sending]N Ištar[1]DN bēltu[lady]N ša[that]REL lā[not]MOD enû[change]V
+rinap/rinap5/Q003705,Ashurbanipal 006,vi 17'',dekû[raise]V ṣābu[people]N tāhāzu[battle]N mundahṣu[fighting-one]N
+rinap/rinap5/Q003705,Ashurbanipal 006,vi 18'',ša[that]REL ina[in]PRP qibītu[speech]N Aššur[1]DN Sin[1]DN u[and]CNJ Ištar[1]DN
+rinap/rinap5/Q003705,Ashurbanipal 006,vi 19'',našarbuṭu[flit]V qablu[hips]N tamhāru[battle]N
+rinap/rinap5/Q003705,Ashurbanipal 006,vi 20'',eli[on]PRP Teumman[king-of-Elam]RN šarru[king]N Elamtu[Elam]GN
+rinap/rinap5/Q003705,Ashurbanipal 006,vi 21'',urhu[road]N ṣabātu[seize]V ešēru[go-well]V harrānu[way]N
+rinap/rinap5/Q003705,Ashurbanipal 006,vi 22'',ellāmu-[before]PRP Teumman[king-of-Elam]RN šarru[king]N Elamtu[Elam]GN
+rinap/rinap5/Q003705,Ashurbanipal 006,vi 23'',ina[in]PRP Bit-Imbi[1]SN nadû[placed]AJ madaktu[(military)-camp]N
+rinap/rinap5/Q003705,Ashurbanipal 006,vi 24'',erēbu[enter]V šarrūtu[kingship]N ša[that]REL qerbu[centre]N Der[1]SN
+rinap/rinap5/Q003705,Ashurbanipal 006,vi 25'',šemû[hear]V ṣabātu[seize]V hātu[terror]N
+rinap/rinap5/Q003705,Ashurbanipal 006,vi 26'',Teumman[king-of-Elam]RN palāhu[be(come)-afraid]V ana[to]PRP warkû[rear-one]N târu[turn]V
+rinap/rinap5/Q003705,Ashurbanipal 006,vi 27'',erēbu[enter]V qerbu[centre]N Šušan[Susa]SN
+rinap/rinap5/Q003705,Ashurbanipal 006,vi 28'',kaspu[silver]N hurāṣu[gold]N ana[to]PRP ezēbu[leave]V napištu[throat]N
+rinap/rinap5/Q003705,Ashurbanipal 006,vi 29'',zâzu[divide]V ana[to]PRP nišu[people]N mātu[land]N
+rinap/rinap5/Q003705,Ashurbanipal 006,vi 30'',rēṣu[helper]N āliku[goer]N idu[arm]N pānu[front]N târu[turn]V
+rinap/rinap5/Q003705,Ashurbanipal 006,vi 31'',gapāšu[rise-up]V ana[to]PRP mahru[front]N
+rinap/rinap5/Q003705,Ashurbanipal 006,vi 32'',Ulaya[1]WN ana[to]PRP dannūtu[strength]N šakānu[put]V
+rinap/rinap5/Q003705,Ashurbanipal 006,vi 33'',ṣabātu[seize]V pānu[front]N mašqû[watering-place]N
+rinap/rinap5/Q003705,Ashurbanipal 006,vi 34'',ina[in]PRP qibītu[speech]N Aššur[1]DN Marduk[1]DN ilu[god]N rabû[great]AJ bēlu[lord]N
+rinap/rinap5/Q003705,Ashurbanipal 006,vi 35'',ša[that]REL takālu[trust]V
+rinap/rinap5/Q003705,Ashurbanipal 006,vi 36'',ina[in]PRP ittu[sign]N damqu[good]AJ šuttu[dream]N egerrû[utterance]N šipru[sending]N mahhû[ecstatic]N
+rinap/rinap5/Q003705,Ashurbanipal 006,vi 37'',qerbu[centre]N Til-Tuba[1]SN dabdû[defeat]N šakānu[put]V
+rinap/rinap5/Q003705,Ashurbanipal 006,vi 38'',ina[in]PRP pagru[body]N Ulaya[1]WN sekēru[shut-off]V
+rinap/rinap5/Q003705,Ashurbanipal 006,vi 39'',šalamtu[corpse]N kīma[like]PRP baltu[(a-spiny-plant)]N u[and]CNJ ašāgu[(a-common-spiny-plant)]N
+rinap/rinap5/Q003705,Ashurbanipal 006,vii 1,ina[in]PRP kussû[chair]N wašābu[sit-(down)]V
+rinap/rinap5/Q003705,Ashurbanipal 006,vii 2,Tammaritu[son-of-Urtaku-and-king-of-Hidalu;-Tammaritu-I]RN ahu[brother]N šalšāya[third-brother]N
+rinap/rinap5/Q003705,Ashurbanipal 006,vii 3,ina[in]PRP Hidalu[1]SN ana[to]PRP šarrūtu[kingship]N šakānu[put]V
+rinap/rinap5/Q003705,Ashurbanipal 006,vii 4,narkabtu[chariot]N ṣumbu[wheel]N sisû[horse]N parû[mule]N
+rinap/rinap5/Q003705,Ashurbanipal 006,vii 5,ṣimittu[binding]N nīru[yoke]N tillu[(military)-equipment]N simtu[appropriate-symbol]N tāhāzu[battle]N
+rinap/rinap5/Q003705,Ashurbanipal 006,vii 6,ša[that]REL ina[in]PRP tukultu[trust]N Aššur[1]DN u[and]CNJ Ištar[1]DN ilu[god]N rabû[great]AJ
+rinap/rinap5/Q003705,Ashurbanipal 006,vii 7,birīt[between]PRP Šušan[Susa]SN u[and]CNJ Ulaya[1]WN kašādu[reach]V qātu[hand]N
+rinap/rinap5/Q003705,Ashurbanipal 006,vii 8,ina[in]PRP qibītu[speech]N Aššur[1]DN u[and]CNJ Marduk[1]DN ilu[god]N rabû[great]AJ bēlu[lord]N
+rinap/rinap5/Q003705,Ashurbanipal 006,vii 9,ištu[from]PRP qerbu[centre]N Elamtu[Elam]GN hadîš[happily]AV waṣû[go-out]V
+rinap/rinap5/Q003705,Ashurbanipal 006,vii 10,ana[to]PRP gimru[totality]N ummānu[military-force]N šalmu[intact]AJ šaknu[placed]AJ
+rinap/rinap5/Q003705,Ashurbanipal 006,vii 11,ina[in]PRP samānû[eighth]AJ gerru[way]N
+rinap/rinap5/Q003705,Ashurbanipal 006,vii 12,eli[on]PRP Dunanu[leader-of-the-Gambulu]RN māru[son]N Bel-iqiša[leader-of-the-Gambulu]RN
+rinap/rinap5/Q003705,Ashurbanipal 006,vii 13,ana[to]PRP Gambulu[1]GN lū[may]MOD alāku[go]V
+rinap/rinap5/Q003705,Ashurbanipal 006,vii 14,ša[that]REL ana[to]PRP šarru[king]N Elamtu[Elam]GN takālu[trust]V
+rinap/rinap5/Q003705,Ashurbanipal 006,vii 15,lā[not]MOD kanāšu[bow-down]V ana[to]PRP nīru[yoke]N
+rinap/rinap5/Q003705,Ashurbanipal 006,vii 16,tāhāzu[battle]N dannu[strong]AJ
+rinap/rinap5/Q003705,Ashurbanipal 006,vii 17,Gambulu[1]GN ana[to]PRP sihirtu[circumference]N
+rinap/rinap5/Q003705,Ashurbanipal 006,vii 18,kīma[like]PRP imbaru[fog]N katāmu[cover]V
+rinap/rinap5/Q003705,Ashurbanipal 006,vii 19,Ša-pi-Bel[1]SN ālu[city]N dannūtu[strength]N
+rinap/rinap5/Q003705,Ashurbanipal 006,vii 20,ša[that]REL qerbu[centre]N nāru[river]N nadû[placed]AJ šubtu[seat]N kašādu[reach]V
+rinap/rinap5/Q003705,Ashurbanipal 006,vii 21,Dunanu[leader-of-the-Gambulu]RN ahu[brother]N ištu[from]PRP qerbu[centre]N ālu[city]N šuāti[him]IP
+rinap/rinap5/Q003705,Ashurbanipal 006,vii 22,balṭūtu[state-of-being-alive]N waṣû[go-out]V
+rinap/rinap5/Q003705,Ashurbanipal 006,vii 23,aššatu[wife]N māru[son]N mārtu[daughter]N sekretu[enclosed-(woman)]N
+rinap/rinap5/Q003705,Ashurbanipal 006,vii 24,nāru[musician]N nārtu[female-musician]N waṣû[go-out]V šallatiš[as-booty]AV manû[count]V
+rinap/rinap5/Q003705,Ashurbanipal 006,vii 25,kaspu[silver]N hurāṣu[gold]N būšu[goods]N nakkamtu[treasure]N ēkallu[palace]N
+rinap/rinap5/Q003705,Ashurbanipal 006,vii 26,waṣû[go-out]V šallatiš[as-booty]AV manû[count]V
+rinap/rinap5/Q003705,Ashurbanipal 006,vii 27,šūt[who(m)]DET rēšu[head]N mazzāzu[position]N pānu[front]N kiškattû[craftsman]N
+rinap/rinap5/Q003705,Ashurbanipal 006,vii 28,mušākilu[that-lets-eat]N waṣû[go-out]V šallatiš[as-booty]AV manû[count]V
+rinap/rinap5/Q003705,Ashurbanipal 006,vii 29,gimru[totality]N ummiānu[investor]N mala[as-much-as]PRP bašû[existing]AJ
+rinap/rinap5/Q003705,Ashurbanipal 006,vii 30,markasu[bond]N ālu[city]N u[and]CNJ ṣēru[back]N waṣû[go-out]V šallatiš[as-booty]AV manû[count]V
+rinap/rinap5/Q003705,Ashurbanipal 006,vii 31,alpu[ox]N ṣēnu[flock]N sisû[horse]N parû[mule]N
+rinap/rinap5/Q003705,Ashurbanipal 006,vii 32,ša[that]REL nību[naming]N lā[not]MOD išû[have]V waṣû[go-out]V šallatiš[as-booty]AV manû[count]V
+rinap/rinap5/Q003705,Ashurbanipal 006,vii 33,nišu[people]N mātu[land]N zikaru[male]AJ u[and]CNJ sinništu[woman]N ṣehru[small]AJ u[and]CNJ rabû[great]AJ
+rinap/rinap5/Q003705,Ashurbanipal 006,vii 34,wēdu[single]N ul[not]MOD ezēbu[leave]V waṣû[go-out]V šallatiš[as-booty]AV manû[count]V
+rinap/rinap5/Q003705,Ashurbanipal 006,vii 35,Massira[chief-bowman-of-Teumman]PN rabû[great-one]N qaštu[bow]N ša[of]DET Teumman[king-of-Elam]RN
+rinap/rinap5/Q003705,Ashurbanipal 006,vii 36,šarru[king]N Elamtu[Elam]GN ša[that]REL ana[to]PRP kitru[help]N Gambulu[1]GN
+rinap/rinap5/Q003705,Ashurbanipal 006,vii 37,maṣṣartu[observation]N Dunanu[leader-of-the-Gambulu]RN wašbu[inhabited]AJ qerbu[centre]N Ša-pi-Bel[1]SN
+rinap/rinap5/Q003705,Ashurbanipal 006,vii 38,balṭūtu[state-of-being-alive]N ina[in]PRP qātu[hand]N ṣabātu[seize]V
+rinap/rinap5/Q003705,Ashurbanipal 006,vii 39,qaqqadu[head]N nakāsu[cut]V itti[with]PRP pānu[front]N Dunanu[leader-of-the-Gambulu]RN
+rinap/rinap5/Q003705,Ashurbanipal 006,vii 40,kitru[help]N lā[not]MOD mušēzibu[who-saves-oneself]N rapāqu[rivet]V
+rinap/rinap5/Q003705,Ashurbanipal 006,vii 41,ālu[city]N šuāti[him]IP napālu[dig-out]V naqāru[demolish]V
+rinap/rinap5/Q003705,Ashurbanipal 006,vii 42,ina[in]PRP mû[water]N naharmuṭu[dissolve]V adi[until]PRP lā[not]MOD bašû[be]V alāku[go]V
+rinap/rinap5/Q003705,Ashurbanipal 006,vii 43,nagû[region]N šuāti[him]IP harābu[be(come)-deserted]V
+rinap/rinap5/Q003705,Ashurbanipal 006,vii 44,rigmu[voice]N awīlūtu[humanity]N parāsu[stop]V ṣēru[back]N
+rinap/rinap5/Q003705,Ashurbanipal 006,vii 45,ina[in]PRP tukultu[trust]N ilu[god]N rabû[great]AJ nakru[enemy]N nêru[strike]V
+rinap/rinap5/Q003705,Ashurbanipal 006,vii 46,šalmiš[well]AV târu[turn]V ana[to]PRP Ninua[Nineveh]SN
+rinap/rinap5/Q003705,Ashurbanipal 006,vii 47,qaqqadu[head]N Teumman[king-of-Elam]RN šarru[king]N Elamtu[Elam]GN
+rinap/rinap5/Q003705,Ashurbanipal 006,vii 48,ina[in]PRP kišādu[neck]N Dunanu[leader-of-the-Gambulu]RN alālu[hang-up]V
+rinap/rinap5/Q003705,Ashurbanipal 006,vii 49,qaqqadu[head]N Ištar-nandi[Šutur-Nahundi;-ruler-of-Hidalu]PN ina[in]PRP kišādu[neck]N Samgunu[son-of-Bel-iqiša-and-brother-of-Dunanu]RN
+rinap/rinap5/Q003705,Ashurbanipal 006,vii 50,ahu[brother]N Dunanu[leader-of-the-Gambulu]RN tardennu[second]AJ alālu[hang-up]V
+rinap/rinap5/Q003705,Ashurbanipal 006,vii 51,itti[with]PRP kišittu[achievement]N Elamtu[Elam]GN šallatu[plundered-thing(s)]N Gambulu[1]GN
+rinap/rinap5/Q003705,Ashurbanipal 006,vii 52,ša[that]REL ina[in]PRP qibītu[speech]N Aššur[1]DN kašādu[reach]V qātu[hand]N
+rinap/rinap5/Q003705,Ashurbanipal 006,vii 53,itti[with]PRP nāru[musician]N ēpišu[doer]N nigûtu[joyful-song]N
+rinap/rinap5/Q003705,Ashurbanipal 006,vii 1',Nabu-damiq[envoy-of-Teumman]PN ina[in]PRP patru[knife]N parzillu[iron]N šibbu[belt]N sahālu[prick]V karšu[stomach]N
+rinap/rinap5/Q003705,Ashurbanipal 006,vii 2',niksu[cutting-(off)]N qaqqadu[head]N Teumman[king-of-Elam]RN
+rinap/rinap5/Q003705,Ashurbanipal 006,vii 3',ina[in]PRP irtu[breast]N abullu[gate]N qablu[hips]N ālu[city]N ša[of]DET Ninua[Nineveh]SN
+rinap/rinap5/Q003705,Ashurbanipal 006,vii 4',mahāru[face]V muhhuriš[as-an-offering]AV
+rinap/rinap5/Q003705,Ashurbanipal 006,vii 5',aššu[because-(of)]PRP danānu[power]N Aššur[1]DN u[and]CNJ Ištar[1]DN bēlu[lord]N nišu[people]N kullumu[show]V
+rinap/rinap5/Q003705,Ashurbanipal 006,vii 6',niksu[cutting-(off)]N qaqqadu[head]N Teumman[king-of-Elam]RN šarru[king]N Elamtu[Elam]GN
+rinap/rinap5/Q003705,Ashurbanipal 006,vii 7',Aplaya[son-of-Nabu-šalim]RN māru[son]N Nabu-salim[son-of-Merodach-baladan]RN
+rinap/rinap5/Q003705,Ashurbanipal 006,vii 8',māru[son]N māru[son]N Marduk-apla-iddina[Merodach-baladan-II;-king-of-Babylon]RN
+rinap/rinap5/Q003705,Ashurbanipal 006,vii 9',ša[that]REL lapāni[in-front-of]PRP abu[father]N abu[father]N bānû[creator]N
+rinap/rinap5/Q003705,Ashurbanipal 006,vii 10',abu[father]N abātu[run-away]V ana[to]PRP Elamtu[Elam]GN
+rinap/rinap5/Q003705,Ashurbanipal 006,vii 11',ištu[from]PRP Ummanigaš[Humban-nikas-II;-king-of-Elam]RN qerbu[centre]N Elamtu[Elam]GN šakānu[put]V ana[to]PRP šarrūtu[kingship]N
+rinap/rinap5/Q003705,Ashurbanipal 006,vii 12',Aplaya[son-of-Nabu-šalim]RN māru[son]N Nabu-salim[son-of-Merodach-baladan]RN
+rinap/rinap5/Q003705,Ashurbanipal 006,vii 13',ṣabātu[seize]V wabālu[carry]V adi[until]PRP mahru[front]N
+rinap/rinap5/Q003705,Ashurbanipal 006,vii 14',Dunanu[leader-of-the-Gambulu]RN Samgunu[son-of-Bel-iqiša-and-brother-of-Dunanu]RN
+rinap/rinap5/Q003705,Ashurbanipal 006,vii 15',māru[son]N Bel-iqiša[leader-of-the-Gambulu]RN Gambulayu[of-Gambulu]EN
+rinap/rinap5/Q003705,Ashurbanipal 006,vii 16',ša[that]REL abu[father]N ana[to]PRP šarru[king]N abu[father]N dalāpu[stir-up]V
+rinap/rinap5/Q003705,Ashurbanipal 006,vii 17',u[and]CNJ šunu[they]IP narāṭu[sway]V epēšu[do]V šarrūtu[kingship]N
+rinap/rinap5/Q003705,Ashurbanipal 006,vii 18',qerbu[centre]N Baltil[Aššur]QN u[and]CNJ Arba-il[Arbela]SN
+rinap/rinap5/Q003705,Ashurbanipal 006,vii 19',ana[to]PRP dalālu[praise]V ahrītu[later-time]N wabālu[carry]V
+rinap/rinap5/Q003705,Ashurbanipal 006,vii 20',Ursa[Rusa-II;-king-of-Urarṭu]RN šarru[king]N Urarṭu[1]GN
+rinap/rinap5/Q003705,Ashurbanipal 006,vii 21',danānu[power]N Aššur[1]DN u[and]CNJ Ištar[1]DN bēlu[lord]N šemû[hear]V
+rinap/rinap5/Q003705,Ashurbanipal 006,vii 22',puluhtu[awesomeness]N šarrūtu[kingship]N sahāpu[envelop]V
+rinap/rinap5/Q003705,Ashurbanipal 006,vii 23',ṣīru[exalted-one]N ana[to]PRP šâlu[ask]V šulmu[completeness]N šapāru[send]V ana[to]PRP qerbu[centre]N Arba-il[Arbela]SN
+rinap/rinap5/Q003705,Ashurbanipal 006,vii 24',sisû[horse]N parû[mule]N
+rinap/rinap5/Q003705,Ashurbanipal 006,vii 25',qarnu[horn]N haṭṭu[stick]N
+rinap/rinap5/Q003705,Ashurbanipal 006,vii 26',purdû[(a-weapon)]N tāmartu[spectacle]N
+rinap/rinap5/Q003705,Ashurbanipal 006,vii 27',Nabu-damiq[envoy-of-Teumman]PN Umbadara[envoy-of-Teumman]PN ṣīru[exalted-one]N ša[of]DET Elamtu[Elam]GN
+rinap/rinap5/Q003705,Ashurbanipal 006,vii 28',itti[with]PRP lēʾu[board]N šipru[sending]N mērehtu[aggressiveness]N izuzzu[stand]V ina[in]PRP mahru[front]N
+rinap/rinap5/Q003705,Ashurbanipal 006,vii 29',ša[of]DET Mannu-ki-ahhe[deputy-of-Dunanu]PN šanû[(an)other-one]N ša[of]DET Dunanu[leader-of-the-Gambulu]RN
+rinap/rinap5/Q003705,Ashurbanipal 006,vii 30',u[and]CNJ Nabu-uṣalli[Gambulian-city-overseer]PN ša[that]REL muhhu[skull]N ālu[city]N Gambulu[1]GN
+rinap/rinap5/Q003705,Ashurbanipal 006,vii 31',ša[that]REL eli[on]PRP ilu[god]N qabû[say]V šillatu[impudence]N rabû[great]AJ
+rinap/rinap5/Q003705,Ashurbanipal 006,vii 32',qerbu[centre]N Arba-il[Arbela]SN lišānu[tongue]N šalāpu[pull-out]V
+rinap/rinap5/Q003705,Ashurbanipal 006,vii 33',šahāṭu[tear-away]V mašku[skin]N Dunanu[leader-of-the-Gambulu]RN qerbu[centre]N Ninua[Nineveh]SN
+rinap/rinap5/Q003705,Ashurbanipal 006,vii 34',eli[on]PRP makāṣu[slaughtering-block]N nadû[throw-(down)]V
+rinap/rinap5/Q003705,Ashurbanipal 006,vii 35',ṭabāhu[slaughter]V asliš[like-a-sheep]AV
+rinap/rinap5/Q003705,Ashurbanipal 006,vii 36',šittu[remnant]N ahu[brother]N ša[of]DET Dunanu[leader-of-the-Gambulu]RN
+rinap/rinap5/Q003705,Ashurbanipal 006,vii 37',u[and]CNJ Aplaya[son-of-Nabu-šalim]RN nêru[strike]V šīru[flesh]N nakāsu[cut]V
+rinap/rinap5/Q003705,Ashurbanipal 006,vii 38',wabālu[carry]V ana[to]PRP tāmartu[spectacle]N mātitān[all-countries]N
+rinap/rinap5/Q003705,Ashurbanipal 006,vii 39',Nabu-naʾid[son-of-Nabu-šumu-ereš]PN Bel-eṭir[son-of-Nabu-šumu-ereš]PN
+rinap/rinap5/Q003705,Ashurbanipal 006,vii 40',māru[son]N Nabu-šumu-ereš[šandabakku-of-Nippur]PN šandabakku[chief-accountant]N
+rinap/rinap5/Q003705,Ashurbanipal 006,vii 41',ša[that]REL abu[father]N bānû[creator]N Urtaku[king-of-Elam]RN dekû[raise]V
+rinap/rinap5/Q003705,Ashurbanipal 006,vii 42',ana[to]PRP mahāṣu[beat]V mātu[land]N Akkad[1]GN
+rinap/rinap5/Q003705,Ashurbanipal 006,vii 43',eṣemtu[bone]N Nabu-šumu-ereš[šandabakku-of-Nippur]PN ša[that]REL ištu[from]PRP qerbu[centre]N Gambulu[1]GN
+rinap/rinap5/Q003705,Ashurbanipal 006,vii 44',leqû[take]V ana[to]PRP mātu[land]N Aššur[Assyria]GN
+rinap/rinap5/Q003705,Ashurbanipal 006,vii 45',eṣemtu[bone]N šâtina[those]IP
+rinap/rinap5/Q003705,Ashurbanipal 006,vii 46',mehretu[opposite-side]N abullu[gate]N qablu[hips]N ālu[city]N Ninua[Nineveh]SN
+rinap/rinap5/Q003705,Ashurbanipal 006,vii 47',hašālu[crush]V māru[son]N
+rinap/rinap5/Q003705,Ashurbanipal 006,vii 48',Šamaš-šuma-ukin[king-of-Babylon]RN
+rinap/rinap5/Q003705,Ashurbanipal 006,viii 1',kabāsu[tread]V Kaldu[Chaldea]GN ina[in]PRP lā[not]MOD edû[know]V ṣēru[back]N
+rinap/rinap5/Q003705,Ashurbanipal 006,viii 2',Undasu[son-of-Teumman]RN māru[son]N Teumman[king-of-Elam]RN šarru[king]N Elamtu[Elam]GN
+rinap/rinap5/Q003705,Ashurbanipal 006,viii 3',Zazaz[city-ruler-of-Pillatu]PN bēlu[lord]N ālu[city]N Pillatu[1]SN
+rinap/rinap5/Q003705,Ashurbanipal 006,viii 4',Parru[city-ruler-of-Hilmu]PN bēlu[lord]N ālu[city]N Hilmu[1]GN
+rinap/rinap5/Q003705,Ashurbanipal 006,viii 5',Atta-metu[commander-of-archers-of-Ummanigaš-II]PN rabû[great-one]N qaštu[bow]N
+rinap/rinap5/Q003705,Ashurbanipal 006,viii 6',Nešu[Elamite-commander]PN āliku[goer]N pānu[front]N ummānu[military-force]N ša[of]DET Elamtu[Elam]GN
+rinap/rinap5/Q003705,Ashurbanipal 006,viii 7',ana[to]PRP rēṣūtu[help]N Šamaš-šuma-ukin[king-of-Babylon]RN
+rinap/rinap5/Q003705,Ashurbanipal 006,viii 8',ana[to]PRP mahāṣu[beat]V ummānu[military-force]N mātu[land]N Aššur[Assyria]GN
+rinap/rinap5/Q003705,Ashurbanipal 006,viii 9',Ummanigaš[Humban-nikas-II;-king-of-Elam]RN wâru[go-(up-to)]V
+rinap/rinap5/Q003705,Ashurbanipal 006,viii 10',šakānu[put]V ṭēmu[report]N
+rinap/rinap5/Q003705,Ashurbanipal 006,viii 11',Ummanigaš[Humban-nikas-II;-king-of-Elam]RN kīam[thus]AV qabû[say]V
+rinap/rinap5/Q003705,Ashurbanipal 006,viii 12',umma[saying]PRP alāku[go]V ištu[from]PRP mātu[land]N Aššur[Assyria]GN
+rinap/rinap5/Q003705,Ashurbanipal 006,viii 13',târu[turn]V tuktû[revenge]N abu[father]N bānû[creator]N
+rinap/rinap5/Q003705,Ashurbanipal 006,viii 14',Undasu[son-of-Teumman]RN Zazaz[city-ruler-of-Pillatu]PN Parru[city-ruler-of-Hilmu]PN
+rinap/rinap5/Q003705,Ashurbanipal 006,viii 15',Atta-metu[commander-of-archers-of-Ummanigaš-II]PN Nešu[Elamite-commander]PN
+rinap/rinap5/Q003705,Ashurbanipal 006,viii 16',itti[with]PRP māru[son]N šipru[sending]N ša[of]DET Šamaš-šuma-ukin[king-of-Babylon]RN
+rinap/rinap5/Q003705,Ashurbanipal 006,viii 17',ahu[brother]N nakru[strange]AJ urhu[road]N ṣabātu[seize]V
+rinap/rinap5/Q003705,Ashurbanipal 006,viii 18',ešēru[go-well]V harrānu[way]N
+rinap/rinap5/Q003705,Ashurbanipal 006,viii 19',ṣābu[people]N tāhāzu[battle]N ša[that]REL ina[in]PRP Mangisu[1]SN ša[that]REL qerbu[centre]N Sumandir[1]SN
+rinap/rinap5/Q003705,Ashurbanipal 006,viii 1'',ilu[god]N tiklu[help]N
+rinap/rinap5/Q003705,Ashurbanipal 006,viii 2'',dīnu[legal-decision]N kittu[steadiness]N itti[with]PRP Ummanigaš[Humban-nikas-II;-king-of-Elam]RN diānu[judge]V
+rinap/rinap5/Q003705,Ashurbanipal 006,viii 3'',Tammaritu[Tammaritu-II;-king-of-Elam]RN ṣēru[back]N nabalkutu[cross-over]V
+rinap/rinap5/Q003705,Ashurbanipal 006,viii 4'',šâšu[him]IP adi[until]PRP kimtu[family]N rasābu[smite]V ina[in]PRP kakku[stick]N
+rinap/rinap5/Q003705,Ashurbanipal 006,viii 5'',Tammaritu[Tammaritu-II;-king-of-Elam]RN ša[that]REL ela[apart-from]PRP Ummanigaš[Humban-nikas-II;-king-of-Elam]RN akṣu[brazen]AJ
+rinap/rinap5/Q003705,Ashurbanipal 006,viii 6'',wašābu[sit-(down)]V ina[in]PRP kussû[chair]N Elamtu[Elam]GN
+rinap/rinap5/Q003705,Ashurbanipal 006,viii 7'',kīma[like]PRP šâšu[him]IP ištu[from]PRP qātu[hand]N Šamaš-šuma-ukin[king-of-Babylon]RN
+rinap/rinap5/Q003705,Ashurbanipal 006,viii 8'',ṭātu[gift]N mahāru[face]V ul[not]MOD šâlu[ask]V šulmu[completeness]N šarrūtu[kingship]N
+rinap/rinap5/Q003705,Ashurbanipal 006,viii 9'',ana[to]PRP kitru[help]N Šamaš-šuma-ukin[king-of-Babylon]RN
+rinap/rinap5/Q003705,Ashurbanipal 006,viii 10'',ahu[brother]N lā[not]MOD kīnu[permanent]AJ alāku[go]V
+rinap/rinap5/Q003705,Ashurbanipal 006,viii 11'',ana[to]PRP mahāṣu[beat]V ummānu[military-force]N
+rinap/rinap5/Q003705,Ashurbanipal 006,viii 12'',ina[in]PRP supû[prayer]N ša[that]REL Aššur[1]DN u[and]CNJ Ištar[1]DN suppû[pray]V
+rinap/rinap5/Q003705,Ashurbanipal 006,viii 13'',unnīnu[supplication]N leqû[take]V šemû[hear]V zikru[utterance]N šaptu[lip]N
+rinap/rinap5/Q003705,Ashurbanipal 006,viii 14'',wardu[slave]N ṣēru[back]N nabalkutu[cross-over]V
+rinap/rinap5/Q003705,Ashurbanipal 006,viii 15'',ahāmiš[one-another]RP rasābu[smite]V bēlu[lord]N lemuttu[evil]N
+rinap/rinap5/Q003705,Ashurbanipal 006,viii 16'',Indabibi[king-of-Elam]RN wardu[slave]N ša[that]REL sīhu[rebellion]N
+rinap/rinap5/Q003705,Ashurbanipal 006,viii 17'',eli[on]PRP bašû[be]V wašābu[sit-(down)]V ina[in]PRP kussû[chair]N
+rinap/rinap5/Q003705,Ashurbanipal 006,viii 18'',Tammaritu[Tammaritu-II;-king-of-Elam]RN šarru[king]N Elamtu[Elam]GN
+rinap/rinap5/Q003705,Ashurbanipal 006,viii 19'',ša[that]REL mērehtu[aggressiveness]N qabû[say]V
+rinap/rinap5/Q003705,Ashurbanipal 006,viii 20'',eli[on]PRP niksu[cutting-(off)]N qaqqadu[head]N Teumman[king-of-Elam]RN
+rinap/rinap5/Q003705,Ashurbanipal 006,viii 21'',ša[that]REL nakāsu[cut]V ahurrû[junior]N ummānu[military-force]N
+rinap/rinap5/Q003705,Ashurbanipal 006,viii 22'',u[and]CNJ ahu[brother]N qinnu[nest]N zēru[seed(s)]N abu[father]N
+rinap/rinap5/Q003705,Ashurbanipal 006,viii 23'',itti[with]PRP rubû[ruler]N ša[of]DET Elamtu[Elam]GN āliku[goer]N idu[arm]N
+rinap/rinap5/Q003705,Ashurbanipal 006,viii 24'',ša[that]REL lapāni[in-front-of]PRP kakku[stick]N Aššur[1]DN u[and]CNJ Ištar[1]DN naprušu[fly]V
+rinap/rinap5/Q003705,Ashurbanipal 006,viii 2''',qaštu[bow]N ša[of]DET Tammaritu[Tammaritu-II;-king-of-Elam]RN šarru[king]N Elamtu[Elam]GN qerbu[centre]N Elamtu[Elam]GN
+rinap/rinap5/Q003705,Ashurbanipal 006,viii 3''',šarāhu[take-pride-in]V ina[in]PRP libbu[interior]N ana[to]PRP mahāṣu[beat]V ummānu[military-force]N mātu[land]N Aššur[Assyria]GN
+rinap/rinap5/Q003705,Ashurbanipal 006,viii 4''',enenna[now]AV qerbu[centre]N mātu[land]N Aššur[Assyria]GN qaštu[bow]N šâtina[those]IP
+rinap/rinap5/Q003705,Ashurbanipal 006,viii 5''',qerēbu[be(come)-close]V ana[to]PRP
+rinap/rinap5/Q003705,Ashurbanipal 006,viii 6''',Aššur[1]DN Sin[1]DN Šamaš[1]DN Bel[1]DN Nabu[1]DN Ištar[1]DN ša[of]DET Ninua[Nineveh]SN Šarrat-kidmuri[1]DN Ištar[1]DN ša[of]DET Arba-il[Arbela]SN
+rinap/rinap5/Q003705,Ashurbanipal 006,viii 7''',Ninurta[1]DN Nusku[1]DN Nergal[1]DN ša[of]DET
+rinap/rinap5/Q003705,Ashurbanipal 006,viii 8''',u[and]CNJ sittūtu[those-remaining]N
+rinap/rinap5/Q003705,Ashurbanipal 006,viii 9''',Šamaš-šuma-ukin[king-of-Babylon]RN
+rinap/rinap5/Q003705,Ashurbanipal 006,viii 10''',u[and]CNJ nišu[people]N mātu[land]N Akkad[1]GN mala[as-much-as]PRP
+rinap/rinap5/Q003705,Ashurbanipal 006,viii 11''',ša[of]DET yâti[me]IP wašāru[sink-down]V
+rinap/rinap5/Q003705,Ashurbanipal 006,viii 12''',itti[with]PRP Ummanigaš[Humban-nikas-II;-king-of-Elam]RN
+rinap/rinap5/Q003705,Ashurbanipal 006,viii 13''',Indabibi[king-of-Elam]RN šakānu[put]V
+rinap/rinap5/Q003705,Ashurbanipal 006,viii 14''',agāgu[be(come)-furious]V Aššur[1]DN
+rinap/rinap5/Q003705,Ashurbanipal 006,viii 15''',qabû[say]V sapāhu[scatter]V
+rinap/rinap5/Q003705,Ashurbanipal 006,viii 16''',aššu[because-(of)]PRP danānu[power]N Aššur[1]DN
+rinap/rinap5/Q003705,Ashurbanipal 006,viii 17''',u[and]CNJ puluhtu[awesomeness]N mātu[land]N
+rinap/rinap5/Q003705,Ashurbanipal 006,viii 18''',emēdu[lean-on]V šērtu[guilt]N
+rinap/rinap5/Q003705,Ashurbanipal 006,viii 19''',nišu[people]N mātu[land]N Akkad[1]GN ša[of]DET
+rinap/rinap5/Q003705,Ashurbanipal 006,viii 20''',akalu[bread]N šīru[flesh]N u[and]CNJ mimma[anything]XP
+rinap/rinap5/Q003705,Ashurbanipal 006,viii 21''',waqāru[be(come)-rare]V
+rinap/rinap5/Q003705,Ashurbanipal 006,ix 1',ul[not]MOD rašû[acquire]V rēmu[womb]N
+rinap/rinap5/Q003705,Ashurbanipal 006,ix 2',eṭlu[manly-one]N hīrtu[(equal-ranking)-wife]N wašāru[sink-down]V
+rinap/rinap5/Q003705,Ashurbanipal 006,ix 3',abu[father]N ezēbu[leave]V māru[son]N narāmu[loved-one]N libbu[interior]N
+rinap/rinap5/Q003705,Ashurbanipal 006,ix 4',šūt[who(m)]DET mītūtu[(state-of)-death]N ahāmiš[one-another]RP lā[not]MOD naṭālu[look]V
+rinap/rinap5/Q003705,Ashurbanipal 006,ix 5',ana[to]PRP nakru[enemy]N dâku[kill]V
+rinap/rinap5/Q003705,Ashurbanipal 006,ix 6',nadānu[give]V pû[mouth]N
+rinap/rinap5/Q003705,Ashurbanipal 006,ix 7',šibṭu[blow]N mūtānū[epidemic]N murṣu[illness]N šuruppû[frost]N
+rinap/rinap5/Q003705,Ashurbanipal 006,ix 8',ṣehēru[be(come)-small]V nišu[people]N mātu[land]N Akkad[1]GN kalû[totality]N
+rinap/rinap5/Q003705,Ashurbanipal 006,ix 9',birīt[between]PRP ālu[city]N u[and]CNJ ṣēru[back]N gamāru[bring-to-conclusion]V
+rinap/rinap5/Q003705,Ashurbanipal 006,ix 10',patru[knife]N parzillu[iron]N hamṭu[quick]AJ
+rinap/rinap5/Q003705,Ashurbanipal 006,ix 11',šakkanakku[(military)-governor]N rēʾû[shepherd]N ina[in]PRP libbu[interior]N ezēzu[be(come)-angry]V
+rinap/rinap5/Q003705,Ashurbanipal 006,ix 12',maqātu[fall]V šittu[remnant]N
+rinap/rinap5/Q003705,Ashurbanipal 006,ix 13',pagru[body]N nišu[people]N sūqu[street]N šulû[street]N purruku[blocked]AJ
+rinap/rinap5/Q003705,Ashurbanipal 006,ix 14',puhhû[blocked-up]AJ bābu[gate]N
+rinap/rinap5/Q003705,Ashurbanipal 006,ix 15',eli[on]PRP ālu[city]N u[and]CNJ rubû[ruler]N šaqummatu[(deathly)-hush]N nadû[placed]AJ
+rinap/rinap5/Q003705,Ashurbanipal 006,ix 16',šahurratu[deathly-hush]N tabku[poured]AJ
+rinap/rinap5/Q003705,Ashurbanipal 006,ix 17',ganūnu[storerrom]N šuhrubu[devastated]AJ
+rinap/rinap5/Q003705,Ashurbanipal 006,ix 18',ugāru[grassland]N bakû[weeping]AJ sapdu[mourning]AJ
+rinap/rinap5/Q003705,Ashurbanipal 006,ix 19',nāru[river]N ša[of]DET habābu[murmur]V mû[water]N nuhšu[abundance]N
+rinap/rinap5/Q003705,Ashurbanipal 006,ix 20',malû[be(come)-full]V sakīku[(mud)-deposits]N
+rinap/rinap5/Q003705,Ashurbanipal 006,ix 21',Šamaš-šuma-ukin[king-of-Babylon]RN ahu[brother]N nakru[strange]AJ
+rinap/rinap5/Q003705,Ashurbanipal 006,ix 22',ša[that]REL ana[to]PRP mātu[land]N Aššur[Assyria]GN kapādu[plan]V nērtu[murder]N
+rinap/rinap5/Q003705,Ashurbanipal 006,ix 23',u[and]CNJ eli[on]PRP Aššur[1]DN ilu[god]N bānû[creator]N qabû[say]V šillatu[impudence]N rabû[great]AJ
+rinap/rinap5/Q003705,Ashurbanipal 006,ix 24',mūtu[death]N lemnu[bad]AJ šiāmu[fix]V ina[in]PRP miqtu[collapse]N gīru[fire(-god)]N nadû[throw-(down)]V
+rinap/rinap5/Q003705,Ashurbanipal 006,ix 1'',narkabtu[chariot]N ša[that]REL šadādu[drag]V rukūbu[vehicle]N bēlūtu[rule]N
+rinap/rinap5/Q003705,Ashurbanipal 006,ix 2'',sisû[horse]N ṣimittu[binding]N nīru[yoke]N
+rinap/rinap5/Q003705,Ashurbanipal 006,ix 3'',nišu[people]N zikaru[male]AJ u[and]CNJ sinništu[woman]N ṣehru[small]AJ u[and]CNJ rabû[great]AJ
+rinap/rinap5/Q003705,Ashurbanipal 006,ix 4'',ša[that]REL lapāni[in-front-of]PRP mahāṣu[beat]V kakku[stick]N
+rinap/rinap5/Q003705,Ashurbanipal 006,ix 5'',diʾu[(a-disease-affercting-the-head)]N šibṭu[blow]N mūtānū[epidemic]N
+rinap/rinap5/Q003705,Ashurbanipal 006,ix 6'',u[and]CNJ nebrītu[hunger(-ration)]N šêtu[be-remaining]V
+rinap/rinap5/Q003705,Ashurbanipal 006,ix 7'',kašādu[reach]V qātu[hand]N šalālu[carry-off]V ana[to]PRP mātu[land]N Aššur[Assyria]GN
+rinap/rinap5/Q003705,Ashurbanipal 006,ix 8'',nišu[people]N bēlu[lord]N hīṭu[error]N arnu[guilt]N kabtu[heavy]AJ emēdu[lean-on]V
+rinap/rinap5/Q003705,Ashurbanipal 006,ix 9'',bunnannû[physiognomy]N tabālu[take-away]V mašku[skin]N šahāṭu[tear-away]V
+rinap/rinap5/Q003705,Ashurbanipal 006,ix 10'',nakāsu[cut]V šīru[flesh]N
+rinap/rinap5/Q003705,Ashurbanipal 006,ix 11'',Indabibi[king-of-Elam]RN ša[that]REL warki[after]PRP Tammaritu[Tammaritu-II;-king-of-Elam]RN
+rinap/rinap5/Q003705,Ashurbanipal 006,ix 12'',wašābu[sit-(down)]V ina[in]PRP kussû[chair]N Elamtu[Elam]GN
+rinap/rinap5/Q003705,Ashurbanipal 006,ix 13'',danānu[power]N kakku[stick]N amāru[see]V
+rinap/rinap5/Q003705,Ashurbanipal 006,ix 14'',ša[that]REL ištu[from]PRP rēšu[head]N marāru[be(come)-bitter]V eli[on]PRP Elamtu[Elam]GN
+rinap/rinap5/Q003705,Ashurbanipal 006,ix 15'',māru[son]N mātu[land]N Aššur[Assyria]GN ša[that]REL šapāru[send]V ana[to]PRP kitru[help]N
+rinap/rinap5/Q003705,Ashurbanipal 006,ix 16'',Nabu-bel-šumati[governor-of-the-Sealand;-grandson-of-Merodach-baladan]RN māru[son]N Marduk-apla-iddina[Merodach-baladan-II;-king-of-Babylon]RN
+rinap/rinap5/Q003705,Ashurbanipal 006,ix 17'',ša[that]REL kīma[like]PRP ibru[friend]N u[and]CNJ tappû[partner]N naṣāru[guard]V mātu[land]N alāku[go]V itti[with]PRP
+rinap/rinap5/Q003705,Ashurbanipal 006,ix 18'',ša[that]REL Nabu-bel-šumati[governor-of-the-Sealand;-grandson-of-Merodach-baladan]RN ina[in]PRP pirsatu[lies]N
+rinap/rinap5/Q003705,Ashurbanipal 006,ix 19'',ina[in]PRP šāt[who(m)]DET mūšu[night]N ṣabātu[seize]V kalû[hold-(back)]V ina[in]PRP kīlu[enclosure]N
+rinap/rinap5/Q003705,Ashurbanipal 006,ix 20'',Indabibi[king-of-Elam]RN šarru[king]N Elamtu[Elam]GN
+rinap/rinap5/Q003705,Ashurbanipal 006,ix 21'',ištu[from]PRP bītu[house]N ṣibittu[captivity]N waṣû[go-out]V
+rinap/rinap5/Q003705,Ashurbanipal 006,ix 22'',kī[like]PRP ṣabātu[seize]V abbuttu[(a-hair-style)]N qabû[say]V damqu[good-one]N
+rinap/rinap5/Q003705,Ashurbanipal 006,ix 23'',lā[not]MOD haṭû[do-wrong]V miṣru[border]N mātu[land]N
+rinap/rinap5/Q003705,Ashurbanipal 006,ix 24'',ina[in]PRP qātu[hand]N māru[son]N šipru[sending]N wabālu[carry]V adi[until]PRP mahru[front]N
+rinap/rinap5/Q003705,Ashurbanipal 006,ix 25'',eli[on]PRP Nabu-bel-šumati[governor-of-the-Sealand;-grandson-of-Merodach-baladan]RN māru[son]N Marduk-apla-iddina[Merodach-baladan-II;-king-of-Babylon]RN
+rinap/rinap5/Q003705,Ashurbanipal 006,ix 26'',wardu[slave]N dāgilu[one-who-sees]N pānu[front]N
+rinap/rinap5/Q003705,Ashurbanipal 006,ix 27'',ša[that]REL abātu[run-away]V alāku[go]V ana[to]PRP Elamtu[Elam]GN
+rinap/rinap5/Q003705,Ashurbanipal 006,ix 28'',u[and]CNJ šittu[remnant]N māru[son]N mātu[land]N Aššur[Assyria]GN
+rinap/rinap5/Q003705,Ashurbanipal 006,ix 29'',ša[that]REL Nabu-bel-šumati[governor-of-the-Sealand;-grandson-of-Merodach-baladan]RN ina[in]PRP pirsatu[lies]N
+rinap/rinap5/Q003705,Ashurbanipal 006,ix 30'',ṣabātu[seize]V wabālu[carry]V itti[with]PRP
+rinap/rinap5/Q003705,Ashurbanipal 006,ix 31'',ina[in]PRP qātu[hand]N māru[son]N šipru[sending]N ana[to]PRP Indabibi[king-of-Elam]RN
+rinap/rinap5/Q003705,Ashurbanipal 006,ix 32'',kīam[thus]AV šapāru[send]V
+rinap/rinap5/Q003705,Ashurbanipal 006,ix 33'',aššu[because-(of)]PRP nišu[people]N annû[this]DP lā[not]MOD wabālu[carry]V
+rinap/rinap5/Q003705,Ashurbanipal 006,ix 34'',umma[saying]PRP alāku[go]V ālu[city]N naqāru[demolish]V
+rinap/rinap5/Q003705,Ashurbanipal 006,ix 35'',nišu[people]N Šušan[Susa]SN Madaktu[1]SN Hidalu[1]SN šalālu[carry-off]V
+rinap/rinap5/Q003705,Ashurbanipal 006,ix 36'',ištu[from]PRP kussû[chair]N šarrūtu[kingship]N dekû[raise]V
+rinap/rinap5/Q003705,Ashurbanipal 006,ix 37'',šanû[(an)other-one]N ina[in]PRP kussû[chair]V wašābu[sit-(down)]V
+rinap/rinap5/Q003705,Ashurbanipal 006,ix 38'',epištu[deed]N ina[in]PRP pānu[front]N Teumman[king-of-Elam]RN parāku[place-athwart]V
+rinap/rinap5/Q003705,Ashurbanipal 006,ix 39'',mahāru[face]V kâti[you]IP
+rinap/rinap5/Q003705,Ashurbanipal 006,ix 40'',adi[until]PRP māru[son]N šipru[sending]N mahru[front]N lā[not]MOD kašādu[reach]V
+rinap/rinap5/Q003705,Ashurbanipal 006,ix 41'',lā[not]MOD šanû[do-twice]V šiknu[act-of-putting]N ṭēmu[report]N
+rinap/rinap5/Q003705,Ashurbanipal 006,ix 42'',ina[in]PRP tukultu[trust]N Aššur[1]DN Sin[1]DN Šamaš[1]DN Bel[1]DN Nabu[1]DN
+rinap/rinap5/Q003705,Ashurbanipal 006,ix 43'',Ištar[1]DN ša[of]DET Ninua[Nineveh]SN Ištar[1]DN ša[of]DET Arba-il[Arbela]SN Ninurta[1]DN Nusku[1]DN Nergal[1]DN
+rinap/rinap5/Q003705,Ashurbanipal 006,ix 44'',ša[that]REL alāku[go]V idu[arm]N nêru[strike]V gērû[opponent]N
+rinap/rinap5/Q003705,Ashurbanipal 006,ix 45'',alāku[go]V māru[son]N šipru[sending]N ša[that]REL ana[to]PRP Der[1]SN šapāru[send]V
+rinap/rinap5/Q003705,Ashurbanipal 006,ix 46'',šemû[hear]V qerbu[centre]N Elamtu[Elam]GN puluhtu[awesomeness]N šarrūtu[kingship]N
+rinap/rinap5/Q003705,Ashurbanipal 006,ix 47'',ša[that]REL zaʾānu[be(come)-adorned]V ilu[god]N rabû[great]AJ
+rinap/rinap5/Q003705,Ashurbanipal 006,ix 48'',Elamtu[Elam]GN sahāpu[envelop]V
+rinap/rinap5/Q003705,Ashurbanipal 006,ix 49'',nišu[people]N Elamtu[Elam]GN ṣēru[back]N Indabibi[king-of-Elam]RN nabalkutu[cross-over]V
+rinap/rinap5/Q003705,Ashurbanipal 006,ix 50'',nêru[strike]V ina[in]PRP kakku[stick]N
+rinap/rinap5/Q003705,Ashurbanipal 006,ix 51'',Ummanaldašu[son-of-Atta-metu-and-king-of-Elam;-Humban-haltaš-III]RN māru[son]N Atta-metu[father-of-Ummanaldašu-III]PN
+rinap/rinap5/Q003705,Ashurbanipal 006,ix 52'',wašābu[sit-(down)]V ina[in]PRP kussû[chair]N
+rinap/rinap5/Q003705,Ashurbanipal 006,x 1',Aššur[1]DN Sin[1]DN Šamaš[1]DN Bel[1]DN u[and]CNJ Nabu[1]DN
+rinap/rinap5/Q003705,Ashurbanipal 006,x 2',Ištar[1]DN ša[of]DET Ninua[Nineveh]SN Ištar[1]DN ša[of]DET Arba-il[Arbela]SN
+rinap/rinap5/Q003705,Ashurbanipal 006,x 3',ilu[god]N rabû[great]AJ bēlu[lord]N
+rinap/rinap5/Q003705,Ashurbanipal 006,x 4',Iautaʾ[king-of-the-Arabs]RN maruṣtu[evil]N mahāru[face]V
+rinap/rinap5/Q003705,Ashurbanipal 006,x 5',wēdiššī-[he/you-(etc.)-alone]AV abātu[run-away]V ana[to]PRP Nabayatu[Nabatean]EN
+rinap/rinap5/Q003705,Ashurbanipal 006,x 6',Abi-Yateʾ[king-of-Qedar]RN māru[son]N Teʾri[king-of-Qedar]RN
+rinap/rinap5/Q003705,Ashurbanipal 006,x 7',ana[to]PRP Ninua[Nineveh]SN alāku[go]V našāqu[kiss]V šēpu[foot]N
+rinap/rinap5/Q003705,Ashurbanipal 006,x 8',adû[(treaty-)oath]N ana[to]PRP epēšu[do]V wardūtu[slavery]N itti[with]PRP šakānu[put]V
+rinap/rinap5/Q003705,Ashurbanipal 006,x 9',kūm[instead-of]PRP Iautaʾ[king-of-the-Arabs]RN šakānu[put]V ana[to]PRP šarrūtu[kingship]N
+rinap/rinap5/Q003705,Ashurbanipal 006,x 10',hurāṣu[gold]N īnu[eye]N pappardaliu[(a-whitish-semiprecious-stone)]N guhlu[kohl]N
+rinap/rinap5/Q003705,Ashurbanipal 006,x 11',gammalu[camel]N imēru[donkey]N bitrû[enormous]AJ
+rinap/rinap5/Q003705,Ashurbanipal 006,x 12',maddattu[payment]N šattišamma[year-by-year]AV kânu[be(come)-permanent]V ṣēru[back]N
+rinap/rinap5/Q003705,Ashurbanipal 006,x 13',Ammu-ladin[king-of-Qedar]RN šarru[king]N Qidru[Qedar]GN
+rinap/rinap5/Q003705,Ashurbanipal 006,x 14',ša[that]REL itti[with]PRP mātu[land]N Aššur[Assyria]GN nākuru[be(come)-different]V
+rinap/rinap5/Q003705,Ashurbanipal 006,x 15',habātu[rob]V hubtu[robbery]N mātu[land]N Amurru[1]GN
+rinap/rinap5/Q003705,Ashurbanipal 006,x 16',ina[in]PRP zikru[utterance]N šumu[name]N ša[that]REL Aššur[1]DN Sin[1]DN Šamaš[1]DN Bel[1]DN Nabu[1]DN
+rinap/rinap5/Q003705,Ashurbanipal 006,x 17',Ištar[1]DN ša[of]DET Ninua[Nineveh]SN Šarrat-kidmuri[1]DN
+rinap/rinap5/Q003705,Ashurbanipal 006,x 18',Ištar[1]DN ša[of]DET Arba-il[Arbela]SN Ninurta[1]DN gīru[fire(-god)]N
+rinap/rinap5/Q003705,Ashurbanipal 006,x 19',Nergal[1]DN rabû[be(come)-big]V
+rinap/rinap5/Q003705,Ashurbanipal 006,x 20',Kamas-halta[king-of-Moab]RN šarru[king]N Maʾab[Moab]GN
+rinap/rinap5/Q003705,Ashurbanipal 006,x 1'',lā[not]MOD šâlu[ask]V šulmu[completeness]N šarrūtu[kingship]N
+rinap/rinap5/Q003705,Ashurbanipal 006,x 2'',ištu[from]PRP Iautaʾ[king-of-the-Arabs]RN šarru[king]N Aribi[Arabia]GN
+rinap/rinap5/Q003705,Ashurbanipal 006,x 3'',wardu[slave]N dāgilu[one-who-sees]N pānu[front]N ana[to]PRP Nabayatu[Nabatean]EN
+rinap/rinap5/Q003705,Ashurbanipal 006,x 4'',abātu[run-away]V alāku[go]V mahru[front]N Natnu[king-of-the-Nabatians]RN
+rinap/rinap5/Q003705,Ashurbanipal 006,x 5'',Natnu[king-of-the-Nabatians]RN ana[to]PRP Iautaʾ[king-of-the-Arabs]RN
+rinap/rinap5/Q003705,Ashurbanipal 006,x 6'',kīam[thus]AV qabû[say]V
+rinap/rinap5/Q003705,Ashurbanipal 006,x 7'',umma[saying]PRP anāku[I]IP la[from]PRP qātu[hand]N mātu[land]N Aššur[Assyria]GN ezēbu[leave]V
+rinap/rinap5/Q003705,Ashurbanipal 006,x 8'',u[and]CNJ attā[you]IP šakānu[put]V ana[to]PRP dannūtu[strength]N
+rinap/rinap5/Q003705,Ashurbanipal 006,x 9'',Natnu[king-of-the-Nabatians]RN palāhu[be(come)-afraid]V rašû[acquire]V naquttu[critical-situation]N
+rinap/rinap5/Q003705,Ashurbanipal 006,x 10'',māru[son]N šipru[sending]N ana[to]PRP šâlu[ask]V šulmu[completeness]N
+rinap/rinap5/Q003705,Ashurbanipal 006,x 11'',šapāru[send]V našāqu[kiss]V šēpu[foot]N
+rinap/rinap5/Q003705,Ashurbanipal 006,x 12'',ana[to]PRP šakānu[put]V adû[(treaty-)oath]N sulummû[peace-making]N
+rinap/rinap5/Q003705,Ashurbanipal 006,x 13'',epēšu[do]V wardūtu[slavery]N
+rinap/rinap5/Q003705,Ashurbanipal 006,x 14'',ṣullû[beseech]V bēlūtu[rule]N
+rinap/rinap5/Q003705,Ashurbanipal 006,x 15'',anāku[I]IP hadîš[happily]AV palāsu[look-at]V
+rinap/rinap5/Q003705,Ashurbanipal 006,x 16'',pānu[front]N damqu[good]AJ eli[on]PRP šakānu[put]V
+rinap/rinap5/Q003705,Ashurbanipal 006,x 17'',biltu[load]N maddattu[payment]N šattišamma[year-by-year]AV
+rinap/rinap5/Q003705,Ashurbanipal 006,x 18'',kânu[be(come)-permanent]V ṣēru[back]N
+rinap/rinap5/Q003705,Ashurbanipal 006,x 19'',ina[in]PRP ūmu[day]N
+rinap/rinap5/Q003705,Ashurbanipal 006,x 20'',ša[that]REL Aššur-ahu-iddina[Esarhaddon;-king-of-Assyria]RN
+rinap/rinap5/Q003705,Ashurbanipal 006,x 21'',alāku[go]V
+rinap/rinap5/Q003705,Ashurbanipal 006,x 1''',adi[until]PRP gabadibbu[parapet]N raṣāpu[erect]V šuklulu[complete]V
+rinap/rinap5/Q003705,Ashurbanipal 006,x 2''',eli[on]PRP ša[of]DET ūmu[day]N pānu[front]N danānu[be(come)-strong]V temmēnu[foundation]N
+rinap/rinap5/Q003705,Ashurbanipal 006,x 3''',mušarû[(royal)-inscription]N šiṭru[(piece-of)-writing]N šumu[name]N
+rinap/rinap5/Q003705,Ashurbanipal 006,x 4''',u[and]CNJ tanittu[praise]N qarrādūtu[heroism]N
+rinap/rinap5/Q003705,Ashurbanipal 006,x 5''',ša[that]REL ina[in]PRP tukultu[trust]N Aššur[1]DN Sin[1]DN Šamaš[1]DN Bel[1]DN Nabu[1]DN
+rinap/rinap5/Q003705,Ashurbanipal 006,x 6''',Ištar[1]DN ša[of]DET Ninua[Nineveh]SN Ištar[1]DN ša[of]DET Arba-il[Arbela]SN Ninurta[1]DN Nergal[1]DN
+rinap/rinap5/Q003705,Ashurbanipal 006,x 7''',ina[in]PRP mātu[land]N alāku[go]V šakānu[put]V danānu[power]N lītu[victory]N
+rinap/rinap5/Q003705,Ashurbanipal 006,x 8''',šaṭāru[write]V ana[to]PRP ahrītu[later-time]N ūmu[day]N ezēbu[leave]V
+rinap/rinap5/Q003705,Ashurbanipal 006,x 9''',ana[to]PRP warkītu[posterity]N ūmu[day]N ina[in]PRP šarru[king]N māru[son]N
+rinap/rinap5/Q003705,Ashurbanipal 006,x 10''',ša[that]REL Aššur[1]DN u[and]CNJ Ištar[1]DN ana[to]PRP bēlūtu[rule]N mātu[land]N u[and]CNJ nišu[people]N
+rinap/rinap5/Q003705,Ashurbanipal 006,x 11''',nabû[name]V zikru[utterance]N
+rinap/rinap5/Q003705,Ashurbanipal 006,x 12''',inūma[when]SBJ ēkallu[palace]N šuāti[him]IP
+rinap/rinap5/Q003705,Ashurbanipal 006,x 13''',labāru[be(come)-old]V anāhu[be(come)-tired]V
+rinap/rinap5/Q003705,Ashurbanipal 006,x 14''',anhūtu[tiredness]N edēšu[be(come)-new]V
+rinap/rinap5/Q003705,Ashurbanipal 006,x 15''',mušarû[(royal)-inscription]N šiṭru[(piece-of)-writing]N šumu[name]N
+rinap/rinap5/Q003705,Ashurbanipal 006,x 16''',šumu[name]N Aššur-ahu-iddina[Esarhaddon;-king-of-Assyria]RN abu[father]N amāru[see]V
+rinap/rinap5/Q003705,Ashurbanipal 006,x 17''',šamnu[oil]N pašāšu[anoint]V nīqu[offering]N naqû[pour-(a-libation)]V
+rinap/rinap5/Q003705,Ashurbanipal 006,x 18''',itti[with]PRP mušarû[(royal)-inscription]N šiṭru[(piece-of)-writing]N šumu[name]N šakānu[put]V
+rinap/rinap5/Q003705,Ashurbanipal 006,x 19''',ilu[god]N rabû[great]AJ mala[as-much-as]PRP ina[in]PRP mušarû[(royal)-inscription]N annû[this]DP šaṭru[written]AJ
+rinap/rinap5/Q003705,Ashurbanipal 006,x 20''',kīma[like]PRP yâti[me]IP šarāku[present]V
+rinap/rinap5/Q003705,Ashurbanipal 006,x 21''',danānu[power]N u[and]CNJ lītu[victory]N
+rinap/rinap5/Q003705,Ashurbanipal 006,x 22''',ša[that]REL mušarû[(royal)-inscription]N šiṭru[(piece-of)-writing]N šumu[name]N
+rinap/rinap5/Q003705,Ashurbanipal 006,x 23''',šumu[name]N Aššur-ahu-iddina[Esarhaddon;-king-of-Assyria]RN abu[father]N abātu[destroy]V
+rinap/rinap5/Q003705,Ashurbanipal 006,x 24''',itti[with]PRP mušarû[(royal)-inscription]N lā[not]MOD šakānu[put]V
+rinap/rinap5/Q003705,Ashurbanipal 006,x 25''',ilu[god]N wāšibu[sitting]AJ šamû[heaven]N u[and]CNJ erṣetu[earth]N
+rinap/rinap5/Q003705,Ashurbanipal 006,x 26''',aggiš[furiously]AV arāru[curse]V
+rinap/rinap5/Q003705,Ashurbanipal 006,x 27''',šarrūtu[kingship]N sakāpu[push-down]V

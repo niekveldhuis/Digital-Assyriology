@@ -1,0 +1,65 @@
+id_text,text_name,l_no,text
+riao/Q005620,Ilu-šumma 2,1,Ilu-šuma[vice-regent-of-Aššur]RN
+riao/Q005620,Ilu-šumma 2,2,iššiakku[city-ruler]N
+riao/Q005620,Ilu-šumma 2,3,Aššur[1]DN
+riao/Q005620,Ilu-šumma 2,4,narāmu[loved-one]N
+riao/Q005620,Ilu-šumma 2,5,Aššur[1]DN
+riao/Q005620,Ilu-šumma 2,6,u[and]CNJ Ištar[1]DN
+riao/Q005620,Ilu-šumma 2,7,māru[son]N Šalim-ahum[vice-regent-of-Aššur]RN
+riao/Q005620,Ilu-šumma 2,8,iššiakku[city-ruler]N
+riao/Q005620,Ilu-šumma 2,9,Aššur[1]DN
+riao/Q005620,Ilu-šumma 2,10,Šalim-ahum[vice-regent-of-Aššur]RN
+riao/Q005620,Ilu-šumma 2,11,iššiakku[city-ruler]N
+riao/Q005620,Ilu-šumma 2,12,Aššur[1]DN
+riao/Q005620,Ilu-šumma 2,13,māru[son]N Puzur-Aššur_I[vice-regent-of-Aššur;-son-of-Akiya]RN
+riao/Q005620,Ilu-šumma 2,14,iššiakku[city-ruler]N
+riao/Q005620,Ilu-šumma 2,15,Aššur[1]DN
+riao/Q005620,Ilu-šumma 2,16,Ilu-šuma[vice-regent-of-Aššur]RN
+riao/Q005620,Ilu-šumma 2,17,iššiakku[city-ruler]N
+riao/Q005620,Ilu-šumma 2,18,Aššur[1]DN
+riao/Q005620,Ilu-šumma 2,19,ana[to]PRP Ištar[1]DN
+riao/Q005620,Ilu-šumma 2,20,bēltu[lady]N
+riao/Q005620,Ilu-šumma 2,21,ana[to]PRP balāṭu[life]N
+riao/Q005620,Ilu-šumma 2,22,bītu[house]N epēšu[do]V
+riao/Q005620,Ilu-šumma 2,23,u[and]CNJ pirāku[(a-structure)]N
+riao/Q005620,Ilu-šumma 2,24,dūru[(city)-wall]N
+riao/Q005620,Ilu-šumma 2,25,eššu[new]AJ
+riao/Q005620,Ilu-šumma 2,26,eṣēru[draw]V
+riao/Q005620,Ilu-šumma 2,27,ana[to]PRP ālu[city]N
+riao/Q005620,Ilu-šumma 2,28,bītu[house]N
+riao/Q005620,Ilu-šumma 2,29,zâzu[divide]V
+riao/Q005620,Ilu-šumma 2,30,īnu[eye]N
+riao/Q005620,Ilu-šumma 2,31,ina[in]PRP Ebih[Mount-Ebih]GN
+riao/Q005620,Ilu-šumma 2,32,šadû[mountain]N
+riao/Q005620,Ilu-šumma 2,33,Aššur[1]DN
+riao/Q005620,Ilu-šumma 2,34,petû[open]V
+riao/Q005620,Ilu-šumma 2,35,ina[in]PRP īnu[eye]N
+riao/Q005620,Ilu-šumma 2,36,šunīti[them-two]IP
+riao/Q005620,Ilu-šumma 2,37,libittu[mudbrick]N dūru[(city)-wall]N
+riao/Q005620,Ilu-šumma 2,38,labānu[spread]V
+riao/Q005620,Ilu-šumma 2,39,īnu[eye]N
+riao/Q005620,Ilu-šumma 2,40,mû[water]N
+riao/Q005620,Ilu-šumma 2,41,ana[to]PRP Bab-Aušim[Aušum-Gate]ON
+riao/Q005620,Ilu-šumma 2,42,Bab-Aušim[Aušum-Gate]ON
+riao/Q005620,Ilu-šumma 2,43,maqātu[fall]V
+riao/Q005620,Ilu-šumma 2,44,īnu[eye]N
+riao/Q005620,Ilu-šumma 2,45,šanītu[something-other]AV mû[water]N
+riao/Q005620,Ilu-šumma 2,46,ana[to]PRP Bab-Wertim[Wertum-Gate]ON
+riao/Q005620,Ilu-šumma 2,47,Bab-Wertim[Wertum-Gate]ON
+riao/Q005620,Ilu-šumma 2,48,maqātu[fall]V
+riao/Q005620,Ilu-šumma 2,49,andurāru[freedom]N
+riao/Q005620,Ilu-šumma 2,50,Akkadu[Akkadian]EN
+riao/Q005620,Ilu-šumma 2,51,u[and]CNJ māru[son]N
+riao/Q005620,Ilu-šumma 2,52,šakānu[put]V
+riao/Q005620,Ilu-šumma 2,53,werû[copper]N
+riao/Q005620,Ilu-šumma 2,54,mesû[wash]V
+riao/Q005620,Ilu-šumma 2,55,ištu[from]PRP pānu[front]N
+riao/Q005620,Ilu-šumma 2,56,midru[(a-type-of-land)]N
+riao/Q005620,Ilu-šumma 2,57,u[and]CNJ Uru[Ur]SN
+riao/Q005620,Ilu-šumma 2,58,u[and]CNJ Nippur[1]SN
+riao/Q005620,Ilu-šumma 2,59,Awal[1]SN
+riao/Q005620,Ilu-šumma 2,60,u[and]CNJ Kismar[1]SN
+riao/Q005620,Ilu-šumma 2,61,Deru[Der]SN
+riao/Q005620,Ilu-šumma 2,62,ša[of]DET Ištaran[1]DN
+riao/Q005620,Ilu-šumma 2,63,adi[until]PRP ālu[city]N
+riao/Q005620,Ilu-šumma 2,64,andurāru[freedom]N

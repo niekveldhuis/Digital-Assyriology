@@ -1,0 +1,57 @@
+id_text,text_name,l_no,text
+riao/Q005792,Shalmaneser I 04,1,Salmanu-ašared_I[Shalmaneser-I;-son-of-Adad-narari-I;-king-of-Assyria]RN šaknu[appointee]N Enlil[1]DN iššiakku[city-ruler]N Aššur[1]DN
+riao/Q005792,Shalmaneser I 04,2,šarru[king]N dannu[strong]AJ šarru[king]N kiššatu[totality]N nišu[people]N
+riao/Q005792,Shalmaneser I 04,3,utullu[herdsman]N abru[strong-one]N pāqidu[carer]N Ekur[1]TN
+riao/Q005792,Shalmaneser I 04,4,baʾʾītu[thing-sought]N ilu[god]N šadû[mountain]N Nunnamnir[1]DN
+riao/Q005792,Shalmaneser I 04,5,qāmû[one-who-burns]N targīgu[evildoer]N lā[not]MOD pādû[forgiving]AJ
+riao/Q005792,Shalmaneser I 04,6,ušumgallu[lion-dragon]N qablu[battle]N
+riao/Q005792,Shalmaneser I 04,7,āriru[one-who-curses]N zayyāru[foe]N kašūšu[(divine-weapon)]N lā[not]MOD māgiru[submissive-one]N
+riao/Q005792,Shalmaneser I 04,8,mulakku[one-who-...]N wašṭu[stiff-one]N
+riao/Q005792,Shalmaneser I 04,9,dāʾišu[thresher]N muštarhu[presumptuous-one]N mušaknišu[one-that-makes-someone-bow-down]N
+riao/Q005792,Shalmaneser I 04,10,nagbu[underground-water]N huršānu[mountain(s)]N
+riao/Q005792,Shalmaneser I 04,11,ša[that]REL ana[to]PRP šiddu[side]N nasku[thrown-down]AJ
+riao/Q005792,Shalmaneser I 04,12,rapšu[wide]AJ ummānu[military-force]N Qutu[Gutians]EN
+riao/Q005792,Shalmaneser I 04,13,nâlu[lie-down-(to-sleep)]V kī[like]PRP šūbu[rush]N
+riao/Q005792,Shalmaneser I 04,14,kāšidu[conqueror]N Lullumu[1]GN u[and]CNJ Šubaru[1]EN
+riao/Q005792,Shalmaneser I 04,15,šālilu[plunderer]N gērû[enemy]N zāwiānu[enemy]N
+riao/Q005792,Shalmaneser I 04,16,eliš[above]AV u[and]CNJ šapliš[below]AV
+riao/Q005792,Shalmaneser I 04,17,māru[son]N Adad-narari_I[king-of-Assyria]RN šaknu[appointee]N Enlil[1]DN iššiakku[city-ruler]N Aššur[1]DN
+riao/Q005792,Shalmaneser I 04,18,māru[son]N Arik-din-ili[king-of-Assyria]RN šaknu[appointee]N Enlil[1]DN iššiakku[city-ruler]N Aššur[1]DN
+riao/Q005792,Shalmaneser I 04,19,inūma[when]SBJ ina[in]PRP Ehursagkurkurra[1]TN
+riao/Q005792,Shalmaneser I 04,20,bītu[house]N Aššur[1]DN bēlu[lord]N
+riao/Q005792,Shalmaneser I 04,21,ina[in]PRP bābu[gate]N ellu[pure]AJ ša[of]DET Kalkal[Kalkal-Gate]ON
+riao/Q005792,Shalmaneser I 04,22,nāmaru[mirror]N šaqû[high]AJ lū[may]MOD epēšu[do]V
+riao/Q005792,Shalmaneser I 04,23,nērebu[entrance]N siparru[bronze]N mēlû[height]N rabû[great]AJ
+riao/Q005792,Shalmaneser I 04,24,lū[may]MOD izuzzu[stand]V
+riao/Q005792,Shalmaneser I 04,25,hittu[lintel]N niphu[(act-of)-lighting]N šurīnu[(divine)-emblem]N
+riao/Q005792,Shalmaneser I 04,26,u[and]CNJ daltu[door]N siparru[bronze]N lū[may]MOD kânu[be(come)-permanent]V
+riao/Q005792,Shalmaneser I 04,27,ina[in]PRP ūmu[day]N bītu[house]N hiburnu[(a-grain-container)]N labīru[old]AJ
+riao/Q005792,Shalmaneser I 04,28,ša[that]REL šarru[king]N abu[father]N
+riao/Q005792,Shalmaneser I 04,29,ina[in]PRP pāna[formerly]AV epēšu[do]V
+riao/Q005792,Shalmaneser I 04,30,dūru[(city)-wall]N ana[to]PRP watāru[be(come)-outsize]V tarpašû[area]N ana[to]PRP rabû[be(come)-big]V
+riao/Q005792,Shalmaneser I 04,31,bītu[house]N hiburnu[(a-grain-container)]N šâtunu[those]IP naqāru[demolish]V
+riao/Q005792,Shalmaneser I 04,32,napharu[total]N nakāru[be(come)-different]V
+riao/Q005792,Shalmaneser I 04,33,ina[in]PRP ammatu[unit]N tarpašû[area]N rabû[be(come)-big]V
+riao/Q005792,Shalmaneser I 04,34,libittu[mudbrick]N dūru[(city)-wall]N bītānû[inner]AJ libittu[mudbrick]N dūru[(city)-wall]N kīdānû[external]AJ
+riao/Q005792,Shalmaneser I 04,35,kabāru[be(come)-thick]V erinakku[(part-of-a-building)]N epēšu[do]V
+riao/Q005792,Shalmaneser I 04,36,hiburnu[(a-grain-container)]N u[and]CNJ rāṭu[channel]N ana[to]PRP ašru[place]N târu[turn]V
+riao/Q005792,Shalmaneser I 04,37,eli[on]PRP ša[of]DET pāna[formerly]AV watāru[be(come)-outsize]V ištu[from]PRP ussu[foundation]N
+riao/Q005792,Shalmaneser I 04,38,adi[until]PRP gabadibbu[parapet]N epēšu[do]V
+riao/Q005792,Shalmaneser I 04,39,šuklulu[complete]V u[and]CNJ narû[stele]N šakānu[put]V
+riao/Q005792,Shalmaneser I 04,40,narû[stele]N ša[of]DET abu[father]N šamnu[oil]N pašāšu[anoint]V
+riao/Q005792,Shalmaneser I 04,41,nīqu[offering]N naqû[pour-(a-libation)]V itti[with]PRP abnu[stone]N kaspu[silver]N u[and]CNJ hurāṣu[gold]N
+riao/Q005792,Shalmaneser I 04,42,ana[to]PRP ašru[place]N târu[turn]V
+riao/Q005792,Shalmaneser I 04,43,ana[to]PRP warkītu[posterity]N ūmu[day]N rubû[ruler]N warkû[rear]AJ
+riao/Q005792,Shalmaneser I 04,44,inūma[when]SBJ šipru[sending]N šū[he]IP labāru[be(come)-old]V
+riao/Q005792,Shalmaneser I 04,45,anāhu[be(come)-tired]V anhūtu[tiredness]N edēšu[be(come)-new]V
+riao/Q005792,Shalmaneser I 04,46,kīma[like]PRP anāku[I]IP narû[stele]N ša[of]DET abu[father]N
+riao/Q005792,Shalmaneser I 04,47,lā[not]MOD nakāru[be(come)-different]V ana[to]PRP ašru[place]N târu[turn]V
+riao/Q005792,Shalmaneser I 04,48,narû[stele]N ana[to]PRP ašru[place]N târu[turn]V
+riao/Q005792,Shalmaneser I 04,49,Aššur[1]DN ikribu[prayer]N šemû[hear]V
+riao/Q005792,Shalmaneser I 04,50,munakkiru[one-who-alters-something]N šiṭru[(piece-of)-writing]N u[and]CNJ šumu[name]N
+riao/Q005792,Shalmaneser I 04,51,Aššur[1]DN bēlu[lord]N šarrūtu[kingship]N sakāpu[push-down]V
+riao/Q005792,Shalmaneser I 04,52,šumu[name]N zēru[seed(s)]N ina[in]PRP mātu[land]N halāqu[be(come)-lost]V
+riao/Q005792,Shalmaneser I 04,53,šarru[king]N bēlu[lord]N lemuttu[evil]N kussû[chair]N
+riao/Q005792,Shalmaneser I 04,54,eṭēru[take-away]V ana[to]PRP niṭlu[look]N īnu[eye]N
+riao/Q005792,Shalmaneser I 04,55,mātu[land]N šapāru[send]V
+riao/Q005792,Shalmaneser I 04,56,Ša-sarrate[1]MN līmu[eponym-(of-year)]N

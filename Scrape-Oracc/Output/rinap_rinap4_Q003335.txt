@@ -1,0 +1,283 @@
+id_text,text_name,l_no,text
+rinap/rinap4/Q003335,Esarhaddon 106,i 1,Aššur-ahu-iddina[Esarhaddon;-king-of-Assyria]RN
+rinap/rinap4/Q003335,Esarhaddon 106,i 2,šarru[king]N kiššatu[totality]N
+rinap/rinap4/Q003335,Esarhaddon 106,i 3,šarru[king]N mātu[land]N Aššur[Assyria]GN
+rinap/rinap4/Q003335,Esarhaddon 106,i 4,šakkanakku[(military)-governor]N
+rinap/rinap4/Q003335,Esarhaddon 106,i 5,Babili[Babylon]SN
+rinap/rinap4/Q003335,Esarhaddon 106,i 6,šarru[king]N mātu[land]N Šumeru[Sumer]GN
+rinap/rinap4/Q003335,Esarhaddon 106,i 7,u[and]CNJ Akkad[1]GN
+rinap/rinap4/Q003335,Esarhaddon 106,i 8,rubû[ruler]N naʾdu[attentive]AJ
+rinap/rinap4/Q003335,Esarhaddon 106,i 9,pālihu[one-who-reveres]N Nabu[1]DN u[and]CNJ Marduk[1]DN
+rinap/rinap4/Q003335,Esarhaddon 106,i 10,ullânu[there]AV
+rinap/rinap4/Q003335,Esarhaddon 106,i 11,bēlu[lord]N rabû[great]AJ Marduk[1]DN
+rinap/rinap4/Q003335,Esarhaddon 106,i 12,agāgu[be(come)-furious]V
+rinap/rinap4/Q003335,Esarhaddon 106,i 13,râbu[tremble]V
+rinap/rinap4/Q003335,Esarhaddon 106,i 14,itti[with]PRP Esagil[1]TN
+rinap/rinap4/Q003335,Esarhaddon 106,i 15,u[and]CNJ Babili[Babylon]SN
+rinap/rinap4/Q003335,Esarhaddon 106,i 16,ezēzu[be(come)-angry]V libbu[interior]N
+rinap/rinap4/Q003335,Esarhaddon 106,i 17,zenûtu[anger]N rašû[acquire]V
+rinap/rinap4/Q003335,Esarhaddon 106,i 18,ina[in]PRP uggatu[anger]N libbu[interior]N
+rinap/rinap4/Q003335,Esarhaddon 106,i 19,u[and]CNJ ṣarāhu[heat-up]V
+rinap/rinap4/Q003335,Esarhaddon 106,i 20,kabattu[liver]N
+rinap/rinap4/Q003335,Esarhaddon 106,i 21,Esagil[1]TN
+rinap/rinap4/Q003335,Esarhaddon 106,i 22,u[and]CNJ Babili[Babylon]SN
+rinap/rinap4/Q003335,Esarhaddon 106,i 23,namûtu[desolation]N
+rinap/rinap4/Q003335,Esarhaddon 106,i 24,alāku[go]V
+rinap/rinap4/Q003335,Esarhaddon 106,i 25,ewû[changed]AJ
+rinap/rinap4/Q003335,Esarhaddon 106,i 26,kišubbāniš[into-a-waste]AV
+rinap/rinap4/Q003335,Esarhaddon 106,i 27,ilu[god]N u[and]CNJ ištaru[goddess]N
+rinap/rinap4/Q003335,Esarhaddon 106,i 28,parādu[be(come)-fearful]V
+rinap/rinap4/Q003335,Esarhaddon 106,i 29,kiṣṣu[shrine]N
+rinap/rinap4/Q003335,Esarhaddon 106,i 30,ezēbu[leave]V
+rinap/rinap4/Q003335,Esarhaddon 106,i 31,elû[go-up]V šamāmiš[to-heaven]AV
+rinap/rinap4/Q003335,Esarhaddon 106,i 32,nišu[people]N wāšibu[sitting]AJ
+rinap/rinap4/Q003335,Esarhaddon 106,i 33,qerbu[centre]N
+rinap/rinap4/Q003335,Esarhaddon 106,i 34,ana[to]PRP ṣiddu[proletariat]N
+rinap/rinap4/Q003335,Esarhaddon 106,i 35,u[and]CNJ birtu[riffraff]N
+rinap/rinap4/Q003335,Esarhaddon 106,ii 1,zuʾʾuzu[divided]AJ
+rinap/rinap4/Q003335,Esarhaddon 106,ii 2,alāku[go]V
+rinap/rinap4/Q003335,Esarhaddon 106,ii 3,rēšūtu[slavery]N
+rinap/rinap4/Q003335,Esarhaddon 106,ii 4,ina[in]PRP rēšu[head]N šarrūtu[kingship]N
+rinap/rinap4/Q003335,Esarhaddon 106,ii 5,ina[in]PRP mahrû[first]AJ
+rinap/rinap4/Q003335,Esarhaddon 106,ii 6,palû[reign-(of-a-king)]N ša[that]REL ina[in]PRP kussû[chair]N
+rinap/rinap4/Q003335,Esarhaddon 106,ii 7,šarrūtu[kingship]N
+rinap/rinap4/Q003335,Esarhaddon 106,ii 8,rabîš[magnificently]AV wašābu[sit-(down)]V
+rinap/rinap4/Q003335,Esarhaddon 106,ii 9,bēlūtu[rule]N mātu[land]N
+rinap/rinap4/Q003335,Esarhaddon 106,ii 10,malû[be(come)-full]V
+rinap/rinap4/Q003335,Esarhaddon 106,ii 11,qātu[hand]N
+rinap/rinap4/Q003335,Esarhaddon 106,ii 12,libbu[interior]N bēlu[lord]N rabû[great]AJ
+rinap/rinap4/Q003335,Esarhaddon 106,ii 13,Marduk[1]DN
+rinap/rinap4/Q003335,Esarhaddon 106,ii 14,nâhu[rest]V
+rinap/rinap4/Q003335,Esarhaddon 106,ii 15,pašāhu[be(come)-at-rest]V
+rinap/rinap4/Q003335,Esarhaddon 106,ii 16,kabattu[liver]N
+rinap/rinap4/Q003335,Esarhaddon 106,ii 17,ana[to]PRP Esagil[1]TN
+rinap/rinap4/Q003335,Esarhaddon 106,ii 18,u[and]CNJ Babili[Babylon]SN
+rinap/rinap4/Q003335,Esarhaddon 106,ii 19,ša[that]REL enēnu[punish]V
+rinap/rinap4/Q003335,Esarhaddon 106,ii 20,rašû[acquire]V
+rinap/rinap4/Q003335,Esarhaddon 106,ii 21,salīmu[peace]N
+rinap/rinap4/Q003335,Esarhaddon 106,ii 22,yâti[me]IP
+rinap/rinap4/Q003335,Esarhaddon 106,ii 23,Aššur-ahu-iddina[Esarhaddon;-king-of-Assyria]RN
+rinap/rinap4/Q003335,Esarhaddon 106,ii 24,wardu[slave]N pālihu[one-who-reveres]N
+rinap/rinap4/Q003335,Esarhaddon 106,ii 25,ilūtu[godhead]N rabû[great]AJ
+rinap/rinap4/Q003335,Esarhaddon 106,ii 26,ana[to]PRP epēšu[do]V
+rinap/rinap4/Q003335,Esarhaddon 106,ii 27,Esagil[1]TN
+rinap/rinap4/Q003335,Esarhaddon 106,ii 28,u[and]CNJ Babili[Babylon]SN
+rinap/rinap4/Q003335,Esarhaddon 106,ii 29,edēšu[be(come)-new]V ilu[god]N
+rinap/rinap4/Q003335,Esarhaddon 106,ii 30,u[and]CNJ ištaru[goddess]N
+rinap/rinap4/Q003335,Esarhaddon 106,ii 31,šuklulu[complete]V ešertu[chapel]N
+rinap/rinap4/Q003335,Esarhaddon 106,ii 32,mukinnu[witness]N
+rinap/rinap4/Q003335,Esarhaddon 106,ii 33,sattukku[regular-delivery]N
+rinap/rinap4/Q003335,Esarhaddon 106,iii 1,ina[in]PRP karšu[stomach]N
+rinap/rinap4/Q003335,Esarhaddon 106,iii 2,bašû[be]V
+rinap/rinap4/Q003335,Esarhaddon 106,iii 3,wabālu[carry]V
+rinap/rinap4/Q003335,Esarhaddon 106,iii 4,kabattu[liver]N
+rinap/rinap4/Q003335,Esarhaddon 106,iii 5,libbu[interior]N rahāṣu[trust]V
+rinap/rinap4/Q003335,Esarhaddon 106,iii 6,epēšu[do]V qabû[say]V
+rinap/rinap4/Q003335,Esarhaddon 106,iii 7,nišu[people]N mātu[land]N
+rinap/rinap4/Q003335,Esarhaddon 106,iii 8,kišittu[achievement]N qātu[hand]N
+rinap/rinap4/Q003335,Esarhaddon 106,iii 9,pahāru[gather]V
+rinap/rinap4/Q003335,Esarhaddon 106,iii 10,allu[hoe]N
+rinap/rinap4/Q003335,Esarhaddon 106,iii 11,tupšikku[hod-(for-carrying-bricks)]N
+rinap/rinap4/Q003335,Esarhaddon 106,iii 12,našû[lift]V
+rinap/rinap4/Q003335,Esarhaddon 106,iii 13,ina[in]PRP šamnu[oil]N ṭābu[good]AJ dišpu[honey]N
+rinap/rinap4/Q003335,Esarhaddon 106,iii 14,himētu[butter]N
+rinap/rinap4/Q003335,Esarhaddon 106,iii 15,kurunnu[(a-kind-of-beer)]N
+rinap/rinap4/Q003335,Esarhaddon 106,iii 16,muttinnu[choice-wine]N šikaru[beer]N
+rinap/rinap4/Q003335,Esarhaddon 106,iii 17,šadû[mountain]N ellu[pure]AJ
+rinap/rinap4/Q003335,Esarhaddon 106,iii 18,balālu[mix-(up)]V
+rinap/rinap4/Q003335,Esarhaddon 106,iii 19,tarahhu[bank]N
+rinap/rinap4/Q003335,Esarhaddon 106,iii 20,aššu[because-(of)]PRP ilūtu[godhead]N
+rinap/rinap4/Q003335,Esarhaddon 106,iii 21,rabû[great]AJ nišu[people]N
+rinap/rinap4/Q003335,Esarhaddon 106,iii 22,kullumu[show]V
+rinap/rinap4/Q003335,Esarhaddon 106,iii 23,palāhu[be(come)-afraid]V
+rinap/rinap4/Q003335,Esarhaddon 106,iii 24,bēlūtu[rule]N
+rinap/rinap4/Q003335,Esarhaddon 106,iii 25,kudurru[carrying-frame]N ina[in]PRP qaqqadu[head]N
+rinap/rinap4/Q003335,Esarhaddon 106,iii 26,našû[lift]V
+rinap/rinap4/Q003335,Esarhaddon 106,iii 27,zabālu[carry]V
+rinap/rinap4/Q003335,Esarhaddon 106,iii 28,ramānu[self]N
+rinap/rinap4/Q003335,Esarhaddon 106,iii 29,ina[in]PRP nalbanu[brick-mould]N
+rinap/rinap4/Q003335,Esarhaddon 106,iii 30,šinnu[tooth]N pīru[elephant]N
+rinap/rinap4/Q003335,Esarhaddon 106,iii 31,ušû[diorite]N taskarinnu[box-tree]N
+rinap/rinap4/Q003335,Esarhaddon 106,iii 32,musukkannu[Magan-tree]N
+rinap/rinap4/Q003335,Esarhaddon 106,iii 33,šattu[year]N
+rinap/rinap4/Q003335,Esarhaddon 106,iii 34,ana[to]PRP nēr[600]NU
+rinap/rinap4/Q003335,Esarhaddon 106,iii 35,labānu[spread]V
+rinap/rinap4/Q003335,Esarhaddon 106,iii 36,libittu[mudbrick]N
+rinap/rinap4/Q003335,Esarhaddon 106,iii 37,Esagil[1]TN
+rinap/rinap4/Q003335,Esarhaddon 106,iii 38,ēkallu[palace]N ilu[god]N
+rinap/rinap4/Q003335,Esarhaddon 106,iii 39,adi[until]PRP ešertu[chapel]N
+rinap/rinap4/Q003335,Esarhaddon 106,iii 40,ištu[from]PRP uššu[foundation]N
+rinap/rinap4/Q003335,Esarhaddon 106,iii 41,adi[until]PRP naburru[battlement(s)]N
+rinap/rinap4/Q003335,Esarhaddon 106,iii 42,eššiš[anew]AV raṣāpu[erect]V
+rinap/rinap4/Q003335,Esarhaddon 106,iii 43,šuklulu[complete]V
+rinap/rinap4/Q003335,Esarhaddon 106,iii 44,eli[on]PRP ša[of]DET ūmu[day]N pānu[front]N
+rinap/rinap4/Q003335,Esarhaddon 106,iii 45,rabû[be(come)-big]V šaqû[be(come)-high]V
+rinap/rinap4/Q003335,Esarhaddon 106,iii 46,šarāhu[take-pride-in]V
+rinap/rinap4/Q003335,Esarhaddon 106,iii 47,kīma[like]PRP šiṭru[(piece-of)-writing]N burūmû[heaven]N
+rinap/rinap4/Q003335,Esarhaddon 106,iii 48,banû[be(come)-good]V
+rinap/rinap4/Q003335,Esarhaddon 106,iii 49,ana[to]PRP tabrītu[(nocturnal)-vision]N
+rinap/rinap4/Q003335,Esarhaddon 106,iii 50,kiššatu[totality]N nišu[people]N
+rinap/rinap4/Q003335,Esarhaddon 106,iii 51,lalû[plenty]N
+rinap/rinap4/Q003335,Esarhaddon 106,iii 52,malû[be(come)-full]V
+rinap/rinap4/Q003335,Esarhaddon 106,iii 53,ilu[god]N u[and]CNJ ištaru[goddess]N
+rinap/rinap4/Q003335,Esarhaddon 106,iii 54,wāšibu[sitting]AJ qerbu[centre]N edēšu[be(come)-new]V
+rinap/rinap4/Q003335,Esarhaddon 106,iii 55,ina[in]PRP parakku[dais]N
+rinap/rinap4/Q003335,Esarhaddon 106,iv 1,ramû[set-in-place]V
+rinap/rinap4/Q003335,Esarhaddon 106,iv 2,šubtu[seat]N
+rinap/rinap4/Q003335,Esarhaddon 106,iv 3,dārītu[perpetuity]N
+rinap/rinap4/Q003335,Esarhaddon 106,iv 4,sattukku[regular-delivery]N
+rinap/rinap4/Q003335,Esarhaddon 106,iv 5,baṭlu[ceased]AJ
+rinap/rinap4/Q003335,Esarhaddon 106,iv 6,kânu[be(come)-permanent]V
+rinap/rinap4/Q003335,Esarhaddon 106,iv 7,mimma[anything]XP
+rinap/rinap4/Q003335,Esarhaddon 106,iv 8,šumu[name]N
+rinap/rinap4/Q003335,Esarhaddon 106,iv 9,unūtu[merchandise]N
+rinap/rinap4/Q003335,Esarhaddon 106,iv 10,hišihtu[requirement]N
+rinap/rinap4/Q003335,Esarhaddon 106,iv 11,Esagil[1]TN
+rinap/rinap4/Q003335,Esarhaddon 106,iv 12,u[and]CNJ ešertu[chapel]N
+rinap/rinap4/Q003335,Esarhaddon 106,iv 13,ša[of]DET hurāṣu[gold]N kaspu[silver]N
+rinap/rinap4/Q003335,Esarhaddon 106,iv 14,u[and]CNJ siparru[bronze]N
+rinap/rinap4/Q003335,Esarhaddon 106,iv 15,epēšu[do]V
+rinap/rinap4/Q003335,Esarhaddon 106,iv 16,nadû[throw-(down)]V
+rinap/rinap4/Q003335,Esarhaddon 106,iv 17,qerbu[centre]N
+rinap/rinap4/Q003335,Esarhaddon 106,iv 18,Babili[Babylon]SN
+rinap/rinap4/Q003335,Esarhaddon 106,iv 19,aslu[unit]N
+rinap/rinap4/Q003335,Esarhaddon 106,iv 20,masnaqtu[inspection]N
+rinap/rinap4/Q003335,Esarhaddon 106,iv 21,ilu[god]N
+rinap/rinap4/Q003335,Esarhaddon 106,iv 22,Imgur-Enlil[1]ON
+rinap/rinap4/Q003335,Esarhaddon 106,iv 23,dūru[(city)-wall]N
+rinap/rinap4/Q003335,Esarhaddon 106,iv 24,Nemed-Enlil[1]ON
+rinap/rinap4/Q003335,Esarhaddon 106,iv 25,šalhû[outer-wall]N
+rinap/rinap4/Q003335,Esarhaddon 106,iv 26,ina[in]PRP
+rinap/rinap4/Q003335,Esarhaddon 106,iv 27,šipru[sending]N
+rinap/rinap4/Q003335,Esarhaddon 106,iv 28,Kulla[1]DN
+rinap/rinap4/Q003335,Esarhaddon 106,iv 29,eššiš[anew]AV
+rinap/rinap4/Q003335,Esarhaddon 106,iv 30,epēšu[do]V
+rinap/rinap4/Q003335,Esarhaddon 106,iv 31,zaqāru[project]V
+rinap/rinap4/Q003335,Esarhaddon 106,iv 32,huršāniš[like-a-mountain]AV
+rinap/rinap4/Q003335,Esarhaddon 106,iv 33,ēpišu[doer]N
+rinap/rinap4/Q003335,Esarhaddon 106,iv 34,Babili[Babylon]SN
+rinap/rinap4/Q003335,Esarhaddon 106,iv 35,bānû[creator]N
+rinap/rinap4/Q003335,Esarhaddon 106,iv 36,Esagil[1]TN
+rinap/rinap4/Q003335,Esarhaddon 106,iv 37,muddišu[restorer]N
+rinap/rinap4/Q003335,Esarhaddon 106,iv 38,ilu[god]N
+rinap/rinap4/Q003335,Esarhaddon 106,iv 39,u[and]CNJ ištaru[goddess]N
+rinap/rinap4/Q003335,Esarhaddon 106,iv 40,šuklulu[complete]V
+rinap/rinap4/Q003335,Esarhaddon 106,iv 41,ešertu[chapel]N
+rinap/rinap4/Q003335,Esarhaddon 106,iv 42,mukinnu[witness]N
+rinap/rinap4/Q003335,Esarhaddon 106,iv 43,sattukku[regular-delivery]N
+rinap/rinap4/Q003335,Esarhaddon 106,iv 44,mupahhiru[who-gathers]N
+rinap/rinap4/Q003335,Esarhaddon 106,iv 45,nišu[people]N
+rinap/rinap4/Q003335,Esarhaddon 106,iv 46,saphu[scattered]AJ
+rinap/rinap4/Q003335,Esarhaddon 106,iv 47,anāku[I]IP
+rinap/rinap4/Q003335,Esarhaddon 106,iv 48,šipru[sending]N
+rinap/rinap4/Q003335,Esarhaddon 106,v 1,epištu[deed]N
+rinap/rinap4/Q003335,Esarhaddon 106,v 2,damqu[good]AJ
+rinap/rinap4/Q003335,Esarhaddon 106,v 3,Enlil[1]DN ilu[god]N
+rinap/rinap4/Q003335,Esarhaddon 106,v 4,Marduk[1]DN
+rinap/rinap4/Q003335,Esarhaddon 106,v 5,u[and]CNJ Zarpanitu[1]DN
+rinap/rinap4/Q003335,Esarhaddon 106,v 6,šarratu[queen]N
+rinap/rinap4/Q003335,Esarhaddon 106,v 7,hadîš[happily]AV
+rinap/rinap4/Q003335,Esarhaddon 106,v 8,palāsu[look-at]V
+rinap/rinap4/Q003335,Esarhaddon 106,v 9,arāku[be(come)-long]V ūmu[day]N
+rinap/rinap4/Q003335,Esarhaddon 106,v 10,qabû[say]V
+rinap/rinap4/Q003335,Esarhaddon 106,v 11,mâdu[be(come)-many]V šattu[year]N
+rinap/rinap4/Q003335,Esarhaddon 106,v 12,zakāru[speak]V
+rinap/rinap4/Q003335,Esarhaddon 106,v 13,naṣāru[guard]V zēru[seed(s)]N
+rinap/rinap4/Q003335,Esarhaddon 106,v 14,šadālu[be(come)-wide]V
+rinap/rinap4/Q003335,Esarhaddon 106,v 15,nannābu[offspring]N
+rinap/rinap4/Q003335,Esarhaddon 106,v 16,rapāšu[be(come)-broad]V
+rinap/rinap4/Q003335,Esarhaddon 106,v 17,kimtu[family]N
+rinap/rinap4/Q003335,Esarhaddon 106,v 18,ṣarāšu[spread-out]V papallu[young-shoot]N
+rinap/rinap4/Q003335,Esarhaddon 106,v 19,šiāmu[fix]V šīmtu[what-is-fixed]N
+rinap/rinap4/Q003335,Esarhaddon 106,v 20,ina[in]PRP qablu[battle]N u[and]CNJ tāhāzu[battle]N
+rinap/rinap4/Q003335,Esarhaddon 106,v 21,kīma[like]PRP abu[father]N u[and]CNJ ummu[mother]N
+rinap/rinap4/Q003335,Esarhaddon 106,v 22,idu[arm]N sahāru[go-around]V
+rinap/rinap4/Q003335,Esarhaddon 106,v 23,alāku[go]V
+rinap/rinap4/Q003335,Esarhaddon 106,v 24,rēṣūtu[help]N
+rinap/rinap4/Q003335,Esarhaddon 106,v 25,kakku[stick]N tebû[get-up]V
+rinap/rinap4/Q003335,Esarhaddon 106,v 26,nêru[strike]V ayyābu[enemy]N
+rinap/rinap4/Q003335,Esarhaddon 106,v 27,ēm[wherever]PRP libbu[interior]N qabû[say]V
+rinap/rinap4/Q003335,Esarhaddon 106,v 28,kašādu[reach]V qātu[hand]N
+rinap/rinap4/Q003335,Esarhaddon 106,v 29,ina[in]PRP lītu[victory]N
+rinap/rinap4/Q003335,Esarhaddon 106,v 30,kišittu[achievement]N qātu[hand]N
+rinap/rinap4/Q003335,Esarhaddon 106,v 31,ṣēriš[towards]AV nakru[enemy]N
+rinap/rinap4/Q003335,Esarhaddon 106,v 32,izuzzu[stand]V
+rinap/rinap4/Q003335,Esarhaddon 106,v 33,gimru[totality]N zāwiānu[enemy]N
+rinap/rinap4/Q003335,Esarhaddon 106,v 34,mêsu[hurl-down]V
+rinap/rinap4/Q003335,Esarhaddon 106,v 35,kulbābāniš[like-ants]AV
+rinap/rinap4/Q003335,Esarhaddon 106,v 36,išdu[foundation]N kussû[chair]N
+rinap/rinap4/Q003335,Esarhaddon 106,v 37,šangûtu[priesthood]N
+rinap/rinap4/Q003335,Esarhaddon 106,v 38,uhummiš[like-a-cliff]AV
+rinap/rinap4/Q003335,Esarhaddon 106,v 39,rašādu[found]V
+rinap/rinap4/Q003335,Esarhaddon 106,v 40,itti[with]PRP temmēnu[foundation]N
+rinap/rinap4/Q003335,Esarhaddon 106,v 41,Esagil[1]TN u[and]CNJ Babili[Babylon]SN
+rinap/rinap4/Q003335,Esarhaddon 106,v 42,kânu[be(come)-permanent]V palû[reign-(of-a-king)]N
+rinap/rinap4/Q003335,Esarhaddon 106,v 43,ilu[god]N rabû[great]AJ
+rinap/rinap4/Q003335,Esarhaddon 106,v 44,mala[as-much-as]PRP
+rinap/rinap4/Q003335,Esarhaddon 106,v 45,ina[in]PRP Babili[Babylon]SN
+rinap/rinap4/Q003335,Esarhaddon 106,v 46,ramû[set-in-place]V
+rinap/rinap4/Q003335,Esarhaddon 106,v 47,parakku[dais]N
+rinap/rinap4/Q003335,Esarhaddon 106,v 48,ana[to]PRP ūmu[day]N rūqu[distant]AJ
+rinap/rinap4/Q003335,Esarhaddon 106,v 49,karābu[pray]V
+rinap/rinap4/Q003335,Esarhaddon 106,v 50,šarrūtu[kingship]N
+rinap/rinap4/Q003335,Esarhaddon 106,v 51,kânu[be(come)-permanent]V palû[reign-(of-a-king)]N
+rinap/rinap4/Q003335,Esarhaddon 106,v 52,qabû[say]V ana[to]PRP dūru[permanence]N dāru[era]N
+rinap/rinap4/Q003335,Esarhaddon 106,vi 1,epēšu[do]V
+rinap/rinap4/Q003335,Esarhaddon 106,vi 2,narû[stele]N
+rinap/rinap4/Q003335,Esarhaddon 106,vi 3,kaspu[silver]N
+rinap/rinap4/Q003335,Esarhaddon 106,vi 4,hurāṣu[gold]N
+rinap/rinap4/Q003335,Esarhaddon 106,vi 5,uqnû[lapis-lazuli]N
+rinap/rinap4/Q003335,Esarhaddon 106,vi 6,ašnugallu[alabaster]N
+rinap/rinap4/Q003335,Esarhaddon 106,vi 7,ṣallamtu[black-thing]N
+rinap/rinap4/Q003335,Esarhaddon 106,vi 8,pendû[(a-red-mole)]N
+rinap/rinap4/Q003335,Esarhaddon 106,vi 9,alallu[(a-stone)]N
+rinap/rinap4/Q003335,Esarhaddon 106,vi 10,pīlu[limestone]N
+rinap/rinap4/Q003335,Esarhaddon 106,vi 11,peṣû[white]AJ
+rinap/rinap4/Q003335,Esarhaddon 106,vi 12,mušarû[(royal)-inscription]N
+rinap/rinap4/Q003335,Esarhaddon 106,vi 13,ṭīdu[mud]N
+rinap/rinap4/Q003335,Esarhaddon 106,vi 14,ṣarpu[burnt]AJ
+rinap/rinap4/Q003335,Esarhaddon 106,vi 15,danānu[power]N qarrādu[warlike]N
+rinap/rinap4/Q003335,Esarhaddon 106,vi 16,rabû[great]AJ Marduk[1]DN
+rinap/rinap4/Q003335,Esarhaddon 106,vi 17,epištu[deed]N epēšu[do]V
+rinap/rinap4/Q003335,Esarhaddon 106,vi 18,liptu[undertaking]N qātu[hand]N
+rinap/rinap4/Q003335,Esarhaddon 106,vi 19,qerbu[centre]N šaṭāru[write]V
+rinap/rinap4/Q003335,Esarhaddon 106,vi 20,ina[in]PRP uššu[foundation]N šakānu[put]V
+rinap/rinap4/Q003335,Esarhaddon 106,vi 21,ana[to]PRP ṣiātu[distant-time]N ūmu[day]N ezēbu[leave]V
+rinap/rinap4/Q003335,Esarhaddon 106,vi 22,ana[to]PRP warkītu[posterity]N ūmu[day]N
+rinap/rinap4/Q003335,Esarhaddon 106,vi 23,ana[to]PRP ūmu[day]N ṣiātu[distant-time]N
+rinap/rinap4/Q003335,Esarhaddon 106,vi 24,ina[in]PRP šarru[king]N māru[son]N
+rinap/rinap4/Q003335,Esarhaddon 106,vi 25,ša[that]REL šarru[king]N ilu[god]N Marduk[1]DN
+rinap/rinap4/Q003335,Esarhaddon 106,vi 26,ana[to]PRP bēlūtu[rule]N mātu[land]N
+rinap/rinap4/Q003335,Esarhaddon 106,vi 27,u[and]CNJ nišu[people]N
+rinap/rinap4/Q003335,Esarhaddon 106,vi 28,nabû[name]V
+rinap/rinap4/Q003335,Esarhaddon 106,vi 29,zikru[utterance]N
+rinap/rinap4/Q003335,Esarhaddon 106,vi 30,mušarû[(royal)-inscription]N šiṭru[(piece-of)-writing]N šumu[name]N
+rinap/rinap4/Q003335,Esarhaddon 106,vi 31,amāru[see]V
+rinap/rinap4/Q003335,Esarhaddon 106,vi 32,šamnu[oil]N pašāšu[anoint]V
+rinap/rinap4/Q003335,Esarhaddon 106,vi 33,nīqu[offering]N naqû[pour-(a-libation)]V
+rinap/rinap4/Q003335,Esarhaddon 106,vi 34,ana[to]PRP ašru[place]N
+rinap/rinap4/Q003335,Esarhaddon 106,vi 35,târu[turn]V
+rinap/rinap4/Q003335,Esarhaddon 106,vi 36,Marduk[1]DN
+rinap/rinap4/Q003335,Esarhaddon 106,vi 37,šarru[king]N ilu[god]N
+rinap/rinap4/Q003335,Esarhaddon 106,vi 38,ikribu[prayer]N
+rinap/rinap4/Q003335,Esarhaddon 106,vi 39,šemû[hear]V
+rinap/rinap4/Q003335,Esarhaddon 106,vi 40,munakkiru[one-who-alters-something]N
+rinap/rinap4/Q003335,Esarhaddon 106,vi 41,šiṭru[(piece-of)-writing]N šumu[name]N
+rinap/rinap4/Q003335,Esarhaddon 106,vi 42,musahhû[one-who-destroys]N
+rinap/rinap4/Q003335,Esarhaddon 106,vi 43,simtu[appropriate-symbol]N
+rinap/rinap4/Q003335,Esarhaddon 106,vi 44,pāsisu[who-erases]N
+rinap/rinap4/Q003335,Esarhaddon 106,vi 45,epištu[deed]N
+rinap/rinap4/Q003335,Esarhaddon 106,vi 46,bēlu[lord]N rabû[great]AJ
+rinap/rinap4/Q003335,Esarhaddon 106,vi 47,Marduk[1]DN
+rinap/rinap4/Q003335,Esarhaddon 106,vi 48,ina[in]PRP napharu[total]N
+rinap/rinap4/Q003335,Esarhaddon 106,vi 49,malku[prince]N
+rinap/rinap4/Q003335,Esarhaddon 106,vi 50,nekelmû[frown-at]V
+rinap/rinap4/Q003335,Esarhaddon 106,vi 51,šumu[name]N zēru[seed(s)]N ina[in]PRP mātu[land]N
+rinap/rinap4/Q003335,Esarhaddon 106,vi 52,halāqu[be(come)-lost]V
+rinap/rinap4/Q003335,Esarhaddon 106,vi 53,ana[to]PRP ūmu[day]N ṣiātu[distant-time]N
+rinap/rinap4/Q003335,Esarhaddon 106,vi 54,ai[not]MOD rašû[acquire]V
+rinap/rinap4/Q003335,Esarhaddon 106,vi 55,rēmu[womb]N
+rinap/rinap4/Q003335,Esarhaddon 106,vi 56,šattu[year]N rēšu[head]N
+rinap/rinap4/Q003335,Esarhaddon 106,vi 57,šarrūtu[kingship]N
+rinap/rinap4/Q003335,Esarhaddon 106,vi 58,Aššur-ahu-iddina[Esarhaddon;-king-of-Assyria]RN
+rinap/rinap4/Q003335,Esarhaddon 106,vi 59,šarru[king]N mātu[land]N

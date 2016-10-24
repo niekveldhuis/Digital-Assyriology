@@ -1,0 +1,28 @@
+id_text,text_name,l_no,text
+riao/Q005797,Shalmaneser I 09,1,Salmanu-ašared_I[Shalmaneser-I;-son-of-Adad-narari-I;-king-of-Assyria]RN šaknu[appointee]N Enlil[1]DN
+riao/Q005797,Shalmaneser I 09,2,iššiakku[city-ruler]N Aššur[1]DN
+riao/Q005797,Shalmaneser I 09,3,māru[son]N Adad-narari_I[king-of-Assyria]RN iššiakku[city-ruler]N Aššur[1]DN
+riao/Q005797,Shalmaneser I 09,4,māru[son]N Arik-din-ili[king-of-Assyria]RN iššiakku[city-ruler]N Aššur[1]DN
+riao/Q005797,Shalmaneser I 09,5,inūma[when]SBJ Abul-libur-šalhi[Libur-šalhi-Gate]ON
+riao/Q005797,Shalmaneser I 09,6,ša[of]DET ṭēhu[proximity]N bītu[house]N ṣalmu[effigy]N
+riao/Q005797,Shalmaneser I 09,7,ša[of]DET bābu[gate]N Aššur[1]DN bēlu[lord]N
+riao/Q005797,Shalmaneser I 09,8,ša[that]REL ina[in]PRP pāna[formerly]AV epšu[made]AJ
+riao/Q005797,Shalmaneser I 09,9,anāhu[be(come)-tired]V
+riao/Q005797,Shalmaneser I 09,10,anhūtu[tiredness]N
+riao/Q005797,Shalmaneser I 09,11,nakāru[be(come)-different]V
+riao/Q005797,Shalmaneser I 09,12,enšu[weak-one]N kašāru[restore]V
+riao/Q005797,Shalmaneser I 09,13,u[and]CNJ maqtu[fallen-one]N ištu[from]PRP uššu[foundation]N
+riao/Q005797,Shalmaneser I 09,14,adi[until]PRP gabadibbu[parapet]N
+riao/Q005797,Shalmaneser I 09,15,epēšu[do]V
+riao/Q005797,Shalmaneser I 09,16,u[and]CNJ narû[stele]N
+riao/Q005797,Shalmaneser I 09,17,šakānu[put]V
+riao/Q005797,Shalmaneser I 09,18,rubû[ruler]N warkû[rear]AJ
+riao/Q005797,Shalmaneser I 09,19,anhūtu[tiredness]N
+riao/Q005797,Shalmaneser I 09,20,edēšu[be(come)-new]V
+riao/Q005797,Shalmaneser I 09,21,šumu[name]N šaṭru[written]AJ
+riao/Q005797,Shalmaneser I 09,22,ana[to]PRP ašru[place]N târu[turn]V
+riao/Q005797,Shalmaneser I 09,23,Aššur[1]DN ikribu[prayer]N šemû[hear]V
+riao/Q005797,Shalmaneser I 09,24,munakkiru[one-who-alters-something]N šiṭru[(piece-of)-writing]N u[and]CNJ šumu[name]N
+riao/Q005797,Shalmaneser I 09,25,Aššur[1]DN bēlu[lord]N šarrūtu[kingship]N sakāpu[push-down]V
+riao/Q005797,Shalmaneser I 09,26,ana[to]PRP mātu[land]N hušahhu[need]N nadû[throw-(down)]V
+riao/Q005797,Shalmaneser I 09,27,Hibur[1]MN līmu[eponym-(of-year)]N

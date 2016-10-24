@@ -1,0 +1,6 @@
+id_text,text_name,l_no,text
+riao/Q005786,Adad-narari I 49,1,Adad-narari_I[king-of-Assyria]RN
+riao/Q005786,Adad-narari I 49,2,māru[son]N Arik-din-ili[king-of-Assyria]RN
+riao/Q005786,Adad-narari I 49,3,māru[son]N Enlil-narari[vice-regent-of-Aššur]RN
+riao/Q005786,Adad-narari I 49,5,ša[of]DET
+riao/Q005786,Adad-narari I 49,6,ša[that]REL Arik-din-ili[king-of-Assyria]RN epēšu[do]V

@@ -1,0 +1,15 @@
+id_text,text_name,l_no,text
+riao/Q005696,Puzur-Aššur III 1,1,Puzur-Aššur_III[son-of-Aššur-narari-I;-vice-regent-of-Aššur]RN
+riao/Q005696,Puzur-Aššur III 1,2,iššiakku[city-ruler]N Aššur[1]DN
+riao/Q005696,Puzur-Aššur III 1,3,māru[son]N Aššur-narari_I[son-of-Išme-Dagan-II;-vice-regent-of-Aššur]RN
+riao/Q005696,Puzur-Aššur III 1,4,iššiakku[city-ruler]N Aššur[1]DN
+riao/Q005696,Puzur-Aššur III 1,5,ana[to]PRP balāṭu[life]N
+riao/Q005696,Puzur-Aššur III 1,6,u[and]CNJ šalāmu[be(come)-healty]V ālu[city]N
+riao/Q005696,Puzur-Aššur III 1,7,dūru[(city)-wall]N ša[of]DET Mušlalu[Step-Gate]ON
+riao/Q005696,Puzur-Aššur III 1,8,anāhu[be(come)-tired]V
+riao/Q005696,Puzur-Aššur III 1,9,edēšu[be(come)-new]V
+riao/Q005696,Puzur-Aššur III 1,10,u[and]CNJ sikkatu[peg]N šakānu[put]V
+riao/Q005696,Puzur-Aššur III 1,11,rubû[ruler]N warkû[rear]AJ inūma[when]SBJ
+riao/Q005696,Puzur-Aššur III 1,12,dūru[(city)-wall]N šū[he]IP anāhu[be(come)-tired]V epēšu[do]V
+riao/Q005696,Puzur-Aššur III 1,13,Aššur[1]DN u[and]CNJ Adad[1]DN ikribu[prayer]N
+riao/Q005696,Puzur-Aššur III 1,14,šemû[hear]V sikkatu[peg]N

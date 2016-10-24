@@ -1,0 +1,65 @@
+id_text,text_name,l_no,text
+riao/Q005849,Tukulti-Ninurta I 13,1,Tukulti-Ninurta_I[king-of-Assyria]RN
+riao/Q005849,Tukulti-Ninurta I 13,2,šarru[king]N kiššatu[totality]N šarru[king]N dannu[strong]AJ šarru[king]N mātu[land]N Aššur[Assyria]GN
+riao/Q005849,Tukulti-Ninurta I 13,3,šarru[king]N šarru[king]N bēlu[lord]N bēlu[lord]N
+riao/Q005849,Tukulti-Ninurta I 13,4,malku[prince]N malku[prince]N
+riao/Q005849,Tukulti-Ninurta I 13,5,rubû[ruler]N bēlu[lord]N gimru[totality]N
+riao/Q005849,Tukulti-Ninurta I 13,6,kāšidu[conqueror]N muštarhu[presumptuous-one]N
+riao/Q005849,Tukulti-Ninurta I 13,7,lā[not]MOD māgiru[submissive-one]N
+riao/Q005849,Tukulti-Ninurta I 13,8,zāʾeru[enemy]N Aššur[1]DN
+riao/Q005849,Tukulti-Ninurta I 13,9,nêru[killer]N malku[prince]N
+riao/Q005849,Tukulti-Ninurta I 13,10,ša[of]DET Qutu[Gutians]EN
+riao/Q005849,Tukulti-Ninurta I 13,11,adi[until]PRP Mehru[1]GN
+riao/Q005849,Tukulti-Ninurta I 13,12,musappihu[scatterer]N
+riao/Q005849,Tukulti-Ninurta I 13,13,illatu[band]N Šubaru[1]EN
+riao/Q005849,Tukulti-Ninurta I 13,14,u[and]CNJ mātu[land]N Nairi[1]GN
+riao/Q005849,Tukulti-Ninurta I 13,15,nesûtu[distance]N padānu[path]N
+riao/Q005849,Tukulti-Ninurta I 13,16,adi[until]PRP pāṭu[edge]N Makan[1]GN
+riao/Q005849,Tukulti-Ninurta I 13,17,šarru[king]N dannu[strong]AJ lēʾû[powerful-one]N qablu[battle]N
+riao/Q005849,Tukulti-Ninurta I 13,18,ša[that]REL kibru[bank]N warki[after]PRP Šamaš[1]DN
+riao/Q005849,Tukulti-Ninurta I 13,19,reʾû[pasture]V anāku[I]IP
+riao/Q005849,Tukulti-Ninurta I 13,20,māru[son]N Salmanu-ašared_I[Shalmaneser-I;-son-of-Adad-narari-I;-king-of-Assyria]RN
+riao/Q005849,Tukulti-Ninurta I 13,21,šarru[king]N kiššatu[totality]N šarru[king]N mātu[land]N Aššur[Assyria]GN
+riao/Q005849,Tukulti-Ninurta I 13,22,māru[son]N Adad-narari_I[king-of-Assyria]RN šarru[king]N kiššatu[totality]N
+riao/Q005849,Tukulti-Ninurta I 13,23,šarru[king]N mātu[land]N Aššur[Assyria]GN
+riao/Q005849,Tukulti-Ninurta I 13,24,ina[in]PRP ūmu[day]N
+riao/Q005849,Tukulti-Ninurta I 13,25,bītu[house]N Ištar[1]DN Aššuru[Assyrian]EN bēltu[lady]N
+riao/Q005849,Tukulti-Ninurta I 13,26,ša[that]REL Ilu-šuma[vice-regent-of-Aššur]RN abu[father]N
+riao/Q005849,Tukulti-Ninurta I 13,27,rubû[ruler]N
+riao/Q005849,Tukulti-Ninurta I 13,28,ina[in]PRP pāna[formerly]AV epēšu[do]V
+riao/Q005849,Tukulti-Ninurta I 13,29,bītu[house]N šū[he]IP anāhu[be(come)-tired]V
+riao/Q005849,Tukulti-Ninurta I 13,30,anhūtu[tiredness]N nakāru[be(come)-different]V
+riao/Q005849,Tukulti-Ninurta I 13,31,qaqqaru[ground]N
+riao/Q005849,Tukulti-Ninurta I 13,32,šanû[be(come)-changed]V
+riao/Q005849,Tukulti-Ninurta I 13,33,ina[in]PRP ašru[place]N
+riao/Q005849,Tukulti-Ninurta I 13,34,šanû[(an)other]AJ nadû[throw-(down)]V
+riao/Q005849,Tukulti-Ninurta I 13,35,mādiš[greatly]AV eli[on]PRP mahrû[first-one]N
+riao/Q005849,Tukulti-Ninurta I 13,36,watāru[be(come)-outsize]V
+riao/Q005849,Tukulti-Ninurta I 13,37,bītu[house]N šahūru[cultic-´summit-building´]N
+riao/Q005849,Tukulti-Ninurta I 13,38,u[and]CNJ nāmaru[mirror]N ṣīru[exalted]AJ
+riao/Q005849,Tukulti-Ninurta I 13,39,kīma[like]PRP watartu[excess]N
+riao/Q005849,Tukulti-Ninurta I 13,40,epēšu[do]V
+riao/Q005849,Tukulti-Ninurta I 13,41,bītu[house]N šâtu[him]IP
+riao/Q005849,Tukulti-Ninurta I 13,42,ištu[from]PRP uššu[foundation]N
+riao/Q005849,Tukulti-Ninurta I 13,43,adi[until]PRP gabadibbu[parapet]N
+riao/Q005849,Tukulti-Ninurta I 13,44,šuklulu[complete]V
+riao/Q005849,Tukulti-Ninurta I 13,45,ina[in]PRP libbu[interior]N
+riao/Q005849,Tukulti-Ninurta I 13,46,parakku[dais]N ṣīru[exalted]AJ watmanu[cella]N
+riao/Q005849,Tukulti-Ninurta I 13,47,rašubbu[awesome]AJ ana[to]PRP rimītu[residence]N
+riao/Q005849,Tukulti-Ninurta I 13,48,Ištar[1]DN bēltu[lady]N
+riao/Q005849,Tukulti-Ninurta I 13,49,epēšu[do]V
+riao/Q005849,Tukulti-Ninurta I 13,50,u[and]CNJ narû[stele]N šakānu[put]V
+riao/Q005849,Tukulti-Ninurta I 13,51,rubû[ruler]N warkû[rear]AJ
+riao/Q005849,Tukulti-Ninurta I 13,52,anhūtu[tiredness]N edēšu[be(come)-new]V
+riao/Q005849,Tukulti-Ninurta I 13,53,šumu[name]N šaṭru[written]AJ ana[to]PRP ašru[place]N târu[turn]V
+riao/Q005849,Tukulti-Ninurta I 13,54,Ištar[1]DN ikribu[prayer]N
+riao/Q005849,Tukulti-Ninurta I 13,55,šemû[hear]V
+riao/Q005849,Tukulti-Ninurta I 13,56,munakkiru[one-who-alters-something]N
+riao/Q005849,Tukulti-Ninurta I 13,57,šiṭru[(piece-of)-writing]N
+riao/Q005849,Tukulti-Ninurta I 13,58,u[and]CNJ šumu[name]N
+riao/Q005849,Tukulti-Ninurta I 13,59,Ištar[1]DN bēltu[lady]N
+riao/Q005849,Tukulti-Ninurta I 13,60,šarrūtu[kingship]N šagāšu[kill]V
+riao/Q005849,Tukulti-Ninurta I 13,61,kakku[stick]N šebēru[break]V
+riao/Q005849,Tukulti-Ninurta I 13,62,mutūtu[status-of-husband]N ana[to]PRP rihûtu[semen]N
+riao/Q005849,Tukulti-Ninurta I 13,63,šakānu[put]V
+riao/Q005849,Tukulti-Ninurta I 13,64,ana[to]PRP qātu[hand]N nakru[enemy]N

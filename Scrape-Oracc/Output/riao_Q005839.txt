@@ -1,0 +1,36 @@
+id_text,text_name,l_no,text
+riao/Q005839,Tukulti-Ninurta I 03,1,Tukulti-Ninurta_I[king-of-Assyria]RN šarru[king]N kiššatu[totality]N
+riao/Q005839,Tukulti-Ninurta I 03,2,šarru[king]N dannu[strong]AJ šarru[king]N mātu[land]N Aššur[Assyria]GN
+riao/Q005839,Tukulti-Ninurta I 03,3,šarru[king]N šarru[king]N bēlu[lord]N bēlu[lord]N
+riao/Q005839,Tukulti-Ninurta I 03,4,šarru[king]N kibru[bank]N kāšidu[conqueror]N
+riao/Q005839,Tukulti-Ninurta I 03,5,muštarhu[presumptuous-one]N lā[not]MOD māgiru[submissive-one]N
+riao/Q005839,Tukulti-Ninurta I 03,6,zāʾeru[enemy]N Aššur[1]DN dāʾišu[thresher]N
+riao/Q005839,Tukulti-Ninurta I 03,7,Uqumanu[1]GN
+riao/Q005839,Tukulti-Ninurta I 03,8,u[and]CNJ Paphu[1]GN pušqu[distress]N huršānu[mountain(s)]N
+riao/Q005839,Tukulti-Ninurta I 03,9,nêru[killer]N malku[prince]N ša[of]DET Qutu[Gutians]EN
+riao/Q005839,Tukulti-Ninurta I 03,10,adi[until]PRP Mehru[1]GN musappihu[scatterer]N
+riao/Q005839,Tukulti-Ninurta I 03,11,illatu[band]N Šubaru[1]EN
+riao/Q005839,Tukulti-Ninurta I 03,12,adi[until]PRP pāṭu[edge]N gimru[totality]N itti[with]PRP
+riao/Q005839,Tukulti-Ninurta I 03,13,mātu[land]N Nairi[1]GN nesûtu[distance]N
+riao/Q005839,Tukulti-Ninurta I 03,14,padānu[path]N adi[until]PRP pāṭu[edge]N Makan[1]GN
+riao/Q005839,Tukulti-Ninurta I 03,15,ṣābitu[recipient]N kibru[bank]N eliš[above]AV
+riao/Q005839,Tukulti-Ninurta I 03,16,u[and]CNJ šapliš[below]AV māru[son]N Salmanu-ašared_I[Shalmaneser-I;-son-of-Adad-narari-I;-king-of-Assyria]RN
+riao/Q005839,Tukulti-Ninurta I 03,17,šarru[king]N mātu[land]N Aššur[Assyria]GN māru[son]N Adad-narari_I[king-of-Assyria]RN
+riao/Q005839,Tukulti-Ninurta I 03,18,šarru[king]N mātu[land]N Aššur[Assyria]GN ina[in]PRP ūmu[day]N
+riao/Q005839,Tukulti-Ninurta I 03,19,ina[in]PRP qabaltu[middle]N ālu[city]N Aššur[Ashur]SN
+riao/Q005839,Tukulti-Ninurta I 03,20,ištu[from]PRP ziqqurratu[ziggurrat]N ša[of]DET Adad[1]DN
+riao/Q005839,Tukulti-Ninurta I 03,21,bēlu[lord]N adi[until]PRP Abul-tabira[Craftsman´s-Gate]ON
+riao/Q005839,Tukulti-Ninurta I 03,22,ana[to]PRP muhhurtu[opposite-(side)]N ištānu[north]N bītu[house]N
+riao/Q005839,Tukulti-Ninurta I 03,23,rapšu[wide]AJ šiddu[side]N rūqu[distant]AJ
+riao/Q005839,Tukulti-Ninurta I 03,24,mādu[many]AJ
+riao/Q005839,Tukulti-Ninurta I 03,25,lū[may]MOD wussû[identify]V mūšaru[garden(-plot)]N dannatu[fortified-(place)]N
+riao/Q005839,Tukulti-Ninurta I 03,26,ina[in]PRP kiṣru[knot]N šadû[mountain]N ana[to]PRP šupālu[depression]N lū[may]MOD kašādu[reach]V
+riao/Q005839,Tukulti-Ninurta I 03,27,ešertu[chapel]N ina[in]PRP pīlu[limestone]N
+riao/Q005839,Tukulti-Ninurta I 03,28,u[and]CNJ libittu[mudbrick]N lū[may]MOD balāṭu[live]V išdu[foundation]N
+riao/Q005839,Tukulti-Ninurta I 03,29,kīma[like]PRP šupku[foundation]N šadû[mountain]N
+riao/Q005839,Tukulti-Ninurta I 03,30,lū[may]MOD danānu[be(come)-strong]V Elugalumunkurkurra[1]TN
+riao/Q005839,Tukulti-Ninurta I 03,31,ēkallu[palace]N šubtu[seat]N šarrūtu[kingship]N
+riao/Q005839,Tukulti-Ninurta I 03,32,u[and]CNJ bītu[house]N puhru[assembly]N ilu[god]N
+riao/Q005839,Tukulti-Ninurta I 03,33,rabû[great]AJ ana[to]PRP bēlūtu[rule]N
+riao/Q005839,Tukulti-Ninurta I 03,34,banû[create]V ištu[from]PRP uššu[foundation]N
+riao/Q005839,Tukulti-Ninurta I 03,35,adi[until]PRP gabadibbu[parapet]N epēšu[do]V

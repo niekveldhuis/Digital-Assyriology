@@ -1,0 +1,64 @@
+id_text,text_name,l_no,text
+riao/Q005621,Erišum I 01,1,Erišum_I[vice-regent-of-Aššur]RN waklu[overseer]N Aššur[1]DN
+riao/Q005621,Erišum I 01,2,māru[son]N Ilu-šuma[vice-regent-of-Aššur]RN waklu[overseer]N Aššur[1]DN Ilu-šuma[vice-regent-of-Aššur]RN māru[son]N Šalim-ahum[vice-regent-of-Aššur]RN
+riao/Q005621,Erišum I 01,3,waklu[overseer]N Aššur[1]DN Šalim-ahum[vice-regent-of-Aššur]RN māru[son]N Puzur-Aššur_I[vice-regent-of-Aššur;-son-of-Akiya]RN
+riao/Q005621,Erišum I 01,4,waklu[overseer]N Aššur[1]DN Erišum_I[vice-regent-of-Aššur]RN iššiakku[city-ruler]N Aššur[1]DN
+riao/Q005621,Erišum I 01,5,Mušlalu[Step-Gate]ON qaššu[holy-one]N watmanu[cella]N
+riao/Q005621,Erišum I 01,6,ana[to]PRP bēlu[lord]N epēšu[do]V kussû[chair]N
+riao/Q005621,Erišum I 01,7,epēšu[do]V pānu[front]N hušāru[haematite?]N
+riao/Q005621,Erišum I 01,8,ahāzu[take]V daltu[door]N šakānu[put]V Aššur[1]DN bēlu[lord]N
+riao/Q005621,Erišum I 01,9,izuzzu[stand]V ištu[from]PRP Abul-ṣenim[Sheep-Gate]ON
+riao/Q005621,Erišum I 01,10,adi[until]PRP Abul-niši[People´s-Gate]ON
+riao/Q005621,Erišum I 01,11,ana[to]PRP Aššur[1]DN bēlu[lord]N ezēbu[leave]V gimirtu[totality]N
+riao/Q005621,Erišum I 01,12,isāru[annexe]N epēšu[do]V hubūru[(a-beer-jar)]N tūʾamu[twin]N
+riao/Q005621,Erišum I 01,13,epēšu[do]V ūsu[goose]N ša[of]DET biltu[talent]N
+riao/Q005621,Erišum I 01,14,ina[in]PRP qerbu[centre]N adi[until]PRP suʾēn[moon]N siparru[bronze]N
+riao/Q005621,Erišum I 01,15,ahāzu[take]V u[and]CNJ arkabu[(a-type-of-decoration)]N ša[of]DET biltu[talent]N ina[in]PRP ṣēru[back]N
+riao/Q005621,Erišum I 01,16,izuzzu[stand]V bītu[house]N Rimum[Wild-Bull]TN šumu[name]N
+riao/Q005621,Erišum I 01,17,daltu[door]N Lamassu[Protective-Goddess]ON šumu[name]N sigaru[(wooden)-clamp]N
+riao/Q005621,Erišum I 01,18,Lu-dannat[Be-Strong!]ON šumu[name]N askuppu[(threshold)-slab]N
+riao/Q005621,Erišum I 01,19,Lu-erat[Be-Alert!]ON šumu[name]N šumu[name]N bītu[house]N anāhu[be(come)-tired]V
+riao/Q005621,Erišum I 01,20,šarru[king]N šumu[name]N ša[that]REL kīma[like]PRP yâti[me]IP bītu[house]N
+riao/Q005621,Erišum I 01,21,epēšu[do]V sikkatu[peg]N ša[of]DET mahāṣu[beat]V
+riao/Q005621,Erišum I 01,22,lā[not]MOD riābu[replace]V ana[to]PRP ašru[place]N
+riao/Q005621,Erišum I 01,23,târu[turn]V ša[that]REL ina[in]PRP bītu[house]N tūʾamu[twin]N
+riao/Q005621,Erišum I 01,24,sikaru[beer]N mazāʾu[press]V Aššur[1]DN u[and]CNJ Adad[1]DN
+riao/Q005621,Erišum I 01,25,u[and]CNJ Bel[1]DN ilu[god]N zēru[seed(s)]N kasû[bind]V
+riao/Q005621,Erišum I 01,26,Mešarum[Judge-of-the-Step-Gate]PN Išme-karab[Judge-of-the-Step-Gate]PN Ṣe-raggu[Judge-of-the-Step-Gate]PN
+riao/Q005621,Erišum I 01,27,Ṣe-raggu[Judge-of-the-Step-Gate]PN Ulli-mešaram[Judge-of-the-Step-Gate]PN Aššur-hablam[Judge-of-the-Step-Gate]PN
+riao/Q005621,Erišum I 01,28,Aššur-hablam[Judge-of-the-Step-Gate]PN Pušuken[Judge-of-the-Step-Gate]PN u[and]CNJ Išmelum[Judge-of-the-Step-Gate]PN
+riao/Q005621,Erišum I 01,29,napharu[total]N dayyānu[judge]N
+riao/Q005621,Erišum I 01,30,ša[of]DET Mušlalu[Step-Gate]ON Erišum_I[vice-regent-of-Aššur]RN iššiakku[city-ruler]N Aššur[1]DN
+riao/Q005621,Erišum I 01,31,Aššur[1]DN u[and]CNJ Adad[1]DN
+riao/Q005621,Erišum I 01,32,u[and]CNJ Bel[1]DN ilu[god]N ālu[city]N
+riao/Q005621,Erišum I 01,33,Mešarum[Judge-of-the-Step-Gate]PN ina[in]PRP ālu[city]N
+riao/Q005621,Erišum I 01,34,lū[may]MOD šaknu[appointee]N
+riao/Q005621,Erišum I 01,35,Aššur[1]DN šarru[king]N
+riao/Q005621,Erišum I 01,36,Erišum_I[vice-regent-of-Aššur]RN waklu[overseer]N Aššur[1]DN appāru[reed-bed]N
+riao/Q005621,Erišum I 01,37,lā[not]MOD habāru[(meaning-uncertain)]V qaqqaru[ground]N lā[not]MOD
+riao/Q005621,Erišum I 01,38,kabāsu[tread]V palgu[canal]N lā[not]MOD etēqu[go-past]V
+riao/Q005621,Erišum I 01,39,qabû[spoken]AJ watāru[be(come)-outsize]V ina[in]PRP Mušlalu[Step-Gate]ON
+riao/Q005621,Erišum I 01,40,ša[of]DET harību[ruination?]N pû[mouth]N
+riao/Q005621,Erišum I 01,41,u[and]CNJ qinnatu[buttoks]N ṣabātu[seize]V kīma[like]PRP karpatu[(clay)-pot]N
+riao/Q005621,Erišum I 01,42,hepû[broken]AJ qaqqadu[head]N hapāpu[break-up]V kīma[like]PRP
+riao/Q005621,Erišum I 01,43,qanû[reed]N qīlu[fallen?]AJ qiālu[fall]V u[and]CNJ mû[water]N
+riao/Q005621,Erišum I 01,44,pû[mouth]N alāku[go]V qabû[spoken]AJ watāru[be(come)-outsize]V
+riao/Q005621,Erišum I 01,45,ina[in]PRP Mušlalu[Step-Gate]ON kīma[like]PRP bītu[house]N
+riao/Q005621,Erišum I 01,46,harību[ruination?]N bītu[house]N ewû[become]V ša[of]DET ana[to]PRP
+riao/Q005621,Erišum I 01,47,šībūtu[old-age]N sarru[false]AJ elû[upper]AJ
+riao/Q005621,Erišum I 01,48,dayyānu[judge]N ša[of]DET dīnu[legal-decision]N ina[in]PRP
+riao/Q005621,Erišum I 01,49,Mušlalu[Step-Gate]ON diānu[judge]V dīnu[legal-decision]N sarru[false]AJ
+riao/Q005621,Erišum I 01,50,diānu[judge]V Aššur[1]DN u[and]CNJ Adad[1]DN u[and]CNJ Bel[1]DN ilu[god]N
+riao/Q005621,Erišum I 01,51,zēru[seed(s)]N laqātu[gather-up]V ašru[place]N
+riao/Q005621,Erišum I 01,52,u[and]CNJ ai[not]MOD nadānu[give]V
+riao/Q005621,Erišum I 01,53,ša[of]DET Anu[1]DN magāru[consent]V
+riao/Q005621,Erišum I 01,54,ana[to]PRP Mušlalu[Step-Gate]ON
+riao/Q005621,Erišum I 01,55,rābiṣu[bailiff]N ša[of]DET ēkallu[palace]N
+riao/Q005621,Erišum I 01,56,ahāzu[take]V šību[old-one]N u[and]CNJ bēlu[lord]N awātu[word]N
+riao/Q005621,Erišum I 01,57,u[and]CNJ dayyānu[judge]N
+riao/Q005621,Erišum I 01,58,wašābu[sit]V dīnu[legal-decision]N ina[in]PRP kīnu[permanent]AJ
+riao/Q005621,Erišum I 01,59,pānu[front]N Aššur[1]DN diānu[judge]V ašru[place]N sikkatu[peg]N
+riao/Q005621,Erišum I 01,69,ina[in]PRP bari-[between]PRP terdû[second]AJ
+riao/Q005621,Erišum I 01,70,ilu[god]N ula[not]MOD parû[speak-insultingly-to]V
+riao/Q005621,Erišum I 01,72,šaknu[appointee]N
+riao/Q005621,Erišum I 01,73,ina[in]PRP lamassu[(female)-tutelary-deity]N Aššur[1]DN u[and]CNJ Adad[1]DN u[and]CNJ

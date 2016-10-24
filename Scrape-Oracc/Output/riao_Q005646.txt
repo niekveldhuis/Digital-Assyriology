@@ -1,0 +1,101 @@
+id_text,text_name,l_no,text
+riao/Q005646,Šamši-Adad I 02,t.e. 2,anāku[I]IP
+riao/Q005646,Šamši-Adad I 02,t.e. 3,Šamši-Adad_I[son-of-Ila-kabkabu;-vice-regent-of-Aššur]RN
+riao/Q005646,Šamši-Adad I 02,t.e. 4,šarru[king]N kiššatu[totality]N
+riao/Q005646,Šamši-Adad I 02,t.e. 5,nasāku[throw-(down)]V
+riao/Q005646,Šamši-Adad I 02,t.e. 7,u[and]CNJ ziqqurratu[ziggurrat]N
+riao/Q005646,Šamši-Adad I 02,t.e. i 1,Šamši-Adad_I[son-of-Ila-kabkabu;-vice-regent-of-Aššur]RN
+riao/Q005646,Šamši-Adad I 02,t.e. i 2,dannu[strong]AJ
+riao/Q005646,Šamši-Adad I 02,t.e. i 3,šarru[king]N kiššatu[totality]N
+riao/Q005646,Šamši-Adad I 02,t.e. i 4,šaknu[appointee]N Enlil[1]DN
+riao/Q005646,Šamši-Adad I 02,t.e. i 5,iššiakku[city-ruler]N Aššur[1]DN
+riao/Q005646,Šamši-Adad I 02,t.e. i 6,narāmu[loved-one]N Ištar[1]DN
+riao/Q005646,Šamši-Adad I 02,t.e. i 7,bītu[house]N Emenue[1]TN
+riao/Q005646,Šamši-Adad I 02,t.e. i 8,ša[that]REL ina[in]PRP Emašmaš[1]GN
+riao/Q005646,Šamši-Adad I 02,t.e. i 9,bītu[house]N labīru[old]AJ
+riao/Q005646,Šamši-Adad I 02,t.e. i 10,ša[of]DET Man-ištušu[king-of-Agade]RN
+riao/Q005646,Šamši-Adad I 02,t.e. i 11,māru[son]N Šarru-ukin[Sargon-of-Agade]RN
+riao/Q005646,Šamši-Adad I 02,t.e. i 12,šarru[king]N Akkad[1]SN
+riao/Q005646,Šamši-Adad I 02,t.e. i 13,epēšu[do]V anāhu[be(come)-tired]V
+riao/Q005646,Šamši-Adad I 02,t.e. i 14,bītu[house]N ša[that]REL ištu[from]PRP
+riao/Q005646,Šamši-Adad I 02,t.e. i 15,šulmu[completeness]N Akkad[1]SN
+riao/Q005646,Šamši-Adad I 02,t.e. i 16,adi[until]PRP šarrūtu[kingship]N
+riao/Q005646,Šamši-Adad I 02,t.e. i 17,adi[until]PRP ṣabātu[seize]V Nurrugu[1]SN
+riao/Q005646,Šamši-Adad I 02,t.e. i 18,dāru[lifetime]N etēqu[go-past]V
+riao/Q005646,Šamši-Adad I 02,t.e. i 19,ina[in]PRP šarru[king]N
+riao/Q005646,Šamši-Adad I 02,t.e. i 20,āliku[goer]N pānu[front]N
+riao/Q005646,Šamši-Adad I 02,t.e. i 21,šarru[king]N manāma[somebody]XP
+riao/Q005646,Šamši-Adad I 02,t.e. i 22,lā[not]MOD epēšu[do]V
+riao/Q005646,Šamši-Adad I 02,t.e. ii 2,u[and]CNJ ziqqurratu[ziggurrat]N
+riao/Q005646,Šamši-Adad I 02,t.e. ii 3,qātu[hand]N eššiš[anew]AV rabû[great]AJ
+riao/Q005646,Šamši-Adad I 02,t.e. ii 4,ša[of]DET elû[go-up]V pānu[front]N qadmu[former-time]N erṣetu[earth]N
+riao/Q005646,Šamši-Adad I 02,t.e. ii 5,nēpešu[activity]N rabû[great]AJ
+riao/Q005646,Šamši-Adad I 02,t.e. ii 6,naklu[skilful]AJ lū[may]MOD epēšu[do]V
+riao/Q005646,Šamši-Adad I 02,t.e. ii 7,bītu[house]N ša[of]DET kīam[thus]AV
+riao/Q005646,Šamši-Adad I 02,t.e. ii 8,mimma[anything]XP šuklulu[complete]AJ
+riao/Q005646,Šamši-Adad I 02,t.e. ii 9,šarru[king]N mannu[who?]QP
+riao/Q005646,Šamši-Adad I 02,t.e. ii 10,ana[to]PRP Ištar[1]DN
+riao/Q005646,Šamši-Adad I 02,t.e. ii 11,ina[in]PRP Ninua[Nineveh]SN
+riao/Q005646,Šamši-Adad I 02,t.e. ii 12,lā[not]MOD epēšu[do]V bītu[house]N šâti[him]IP
+riao/Q005646,Šamši-Adad I 02,t.e. ii 13,sippu[(door-)jamb]N izuzzu[stand]V
+riao/Q005646,Šamši-Adad I 02,t.e. ii 14,ziqqurratu[ziggurrat]N
+riao/Q005646,Šamši-Adad I 02,t.e. ii 15,ullû[that]DP
+riao/Q005646,Šamši-Adad I 02,t.e. ii 16,rabîš[magnificently]AV
+riao/Q005646,Šamši-Adad I 02,t.e. ii 17,šuklulu[complete]V
+riao/Q005646,Šamši-Adad I 02,t.e. ii 18,Ekituškuga[Her-Treasure-House]TN
+riao/Q005646,Šamši-Adad I 02,t.e. ii 19,huršu[storeroom]N niṣirtu[treasure]N
+riao/Q005646,Šamši-Adad I 02,t.e. ii 20,šumu[name]N nabû[name]V
+riao/Q005646,Šamši-Adad I 02,t.e. ii 21,narû[stele]N Man-ištušu[king-of-Agade]RN
+riao/Q005646,Šamši-Adad I 02,t.e. ii 22,u[and]CNJ temmēnu[foundation]N
+riao/Q005646,Šamši-Adad I 02,t.e. ii 23,nakāru[be(come)-different]V
+riao/Q005646,Šamši-Adad I 02,t.e. ii 24,ana[to]PRP maškanu[place-of-putting]N
+riao/Q005646,Šamši-Adad I 02,t.e. ii 25,lā[not]MOD târu[turn]V
+riao/Q005646,Šamši-Adad I 02,t.e. ii 26,narû[stele]N
+riao/Q005646,Šamši-Adad I 02,t.e. iii 1,u[and]CNJ temmēnu[foundation]N
+riao/Q005646,Šamši-Adad I 02,t.e. iii 3,ana[to]PRP idu[arm]N narû[stele]N
+riao/Q005646,Šamši-Adad I 02,t.e. iii 4,u[and]CNJ temmēnu[foundation]N
+riao/Q005646,Šamši-Adad I 02,t.e. iii 5,lū[may]MOD šakānu[put]V
+riao/Q005646,Šamši-Adad I 02,t.e. iii 6,ana[to]PRP šâti[him]IP
+riao/Q005646,Šamši-Adad I 02,t.e. iii 7,Ištar[1]DN bēltu[lady]N
+riao/Q005646,Šamši-Adad I 02,t.e. iii 8,palû[reign-(of-a-king)]N eddēšû[constantly-self-renewing]AJ
+riao/Q005646,Šamši-Adad I 02,t.e. iii 9,lū[may]MOD šarāku[present]V
+riao/Q005646,Šamši-Adad I 02,t.e. iii 11,ahrītiš[for-the-future]AV ūmu[day]N
+riao/Q005646,Šamši-Adad I 02,t.e. iii 12,labāriš[to-become-old]AV bītu[house]N
+riao/Q005646,Šamši-Adad I 02,t.e. iii 13,šarru[king]N ša[that]REL Enlil[1]DN
+riao/Q005646,Šamši-Adad I 02,t.e. iii 14,nabû[name]V
+riao/Q005646,Šamši-Adad I 02,t.e. iii 15,inūma[when]SBJ Ekituškuga[Her-Treasure-House]TN
+riao/Q005646,Šamši-Adad I 02,t.e. iii 16,ša[of]DET anāku[I]IP epēšu[do]V
+riao/Q005646,Šamši-Adad I 02,t.e. iii 17,anāhu[be(come)-tired]V
+riao/Q005646,Šamši-Adad I 02,t.e. iii 18,edēšu[be(come)-new]V
+riao/Q005646,Šamši-Adad I 02,t.e. iii 19,kīma[like]PRP anāku[I]IP narû[stele]N
+riao/Q005646,Šamši-Adad I 02,t.e. iii 20,u[and]CNJ temmēnu[foundation]N
+riao/Q005646,Šamši-Adad I 02,t.e. iii 21,ša[of]DET Man-ištušu[king-of-Agade]RN
+riao/Q005646,Šamši-Adad I 02,t.e. iii 22,lā[not]MOD nakāru[be(come)-different]V
+riao/Q005646,Šamši-Adad I 02,t.e. iii 23,narû[stele]N
+riao/Q005646,Šamši-Adad I 02,t.e. iii 24,u[and]CNJ temmēnu[foundation]N
+riao/Q005646,Šamši-Adad I 02,t.e. iii 25,ai[not]MOD nakāru[be(come)-different]V
+riao/Q005646,Šamši-Adad I 02,t.e. iii 26,ana[to]PRP maškanu[place-of-putting]N
+riao/Q005646,Šamši-Adad I 02,t.e. iv 1,târu[turn]V
+riao/Q005646,Šamši-Adad I 02,t.e. iv 2,šumma[if]CNJ šarru[king]N šū[he]IP
+riao/Q005646,Šamši-Adad I 02,t.e. iv 3,kašāṭu[cut-off]V
+riao/Q005646,Šamši-Adad I 02,t.e. iv 4,narû[stele]N
+riao/Q005646,Šamši-Adad I 02,t.e. iv 5,u[and]CNJ temmēnu[foundation]N
+riao/Q005646,Šamši-Adad I 02,t.e. iv 6,nasāku[throw-(down)]V
+riao/Q005646,Šamši-Adad I 02,t.e. iv 7,ana[to]PRP ašru[place]N
+riao/Q005646,Šamši-Adad I 02,t.e. iv 8,lā[not]MOD târu[turn]V
+riao/Q005646,Šamši-Adad I 02,t.e. iv 9,narû[stele]N
+riao/Q005646,Šamši-Adad I 02,t.e. iv 10,u[and]CNJ temmēnu[foundation]N
+riao/Q005646,Šamši-Adad I 02,t.e. iv 11,šakānu[put]V šarru[king]N šū[he]IP
+riao/Q005646,Šamši-Adad I 02,t.e. iv 12,ša[of]DET elû[go-up]V ilu[god]N
+riao/Q005646,Šamši-Adad I 02,t.e. iv 13,u[and]CNJ šarru[king]N marṣu[sick]AJ
+riao/Q005646,Šamši-Adad I 02,t.e. iv 14,epēšu[do]V
+riao/Q005646,Šamši-Adad I 02,t.e. iv 15,Šamaš[1]DN dayyānu[judge]N
+riao/Q005646,Šamši-Adad I 02,t.e. iv 16,rabû[great]AJ ša[that]REL šamû[heaven]N u[and]CNJ erṣetu[earth]N
+riao/Q005646,Šamši-Adad I 02,t.e. iv 17,kīma[like]PRP šāriku[who-presents-(gifts)]N bēlu[lord]N dāmu[blood]N
+riao/Q005646,Šamši-Adad I 02,t.e. iv 18,ana[to]PRP qātu[hand]N šarru[king]N
+riao/Q005646,Šamši-Adad I 02,t.e. iv 19,bēlu[lord]N lemuttu[evil]N
+riao/Q005646,Šamši-Adad I 02,t.e. iv 20,malû[be(come)-full]V
+riao/Q005646,Šamši-Adad I 02,t.e. iv 21,Ištar[1]DN bēltu[lady]N Ninua[Nineveh]SN
+riao/Q005646,Šamši-Adad I 02,t.e. iv 22,šarrūtu[kingship]N u[and]CNJ palû[reign-(of-a-king)]N
+riao/Q005646,Šamši-Adad I 02,t.e. iv 23,eṭēru[take-away]V
+riao/Q005646,Šamši-Adad I 02,t.e. iv 24,ana[to]PRP šanû[(an)other]AJ

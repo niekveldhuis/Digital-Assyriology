@@ -1,0 +1,12 @@
+id_text,text_name,l_no,text
+riao/Q005799,Shalmaneser I 11,1,Salmanu-ašared_I[Shalmaneser-I;-son-of-Adad-narari-I;-king-of-Assyria]RN šaknu[appointee]N Enlil[1]DN
+riao/Q005799,Shalmaneser I 11,2,iššiakku[city-ruler]N Aššur[1]DN
+riao/Q005799,Shalmaneser I 11,3,māru[son]N Adad-narari_I[king-of-Assyria]RN šaknu[appointee]N Enlil[1]DN
+riao/Q005799,Shalmaneser I 11,4,iššiakku[city-ruler]N Aššur[1]DN māru[son]N Arik-din-ili[king-of-Assyria]RN
+riao/Q005799,Shalmaneser I 11,5,šaknu[appointee]N Enlil[1]DN iššiakku[city-ruler]N Aššur[1]DN
+riao/Q005799,Shalmaneser I 11,6,mukinnu[witness]N māhāzu[shrine]N
+riao/Q005799,Shalmaneser I 11,7,bānû[creator]N Ekur[1]TN kiṣṣu[shrine]N ilu[god]N
+riao/Q005799,Shalmaneser I 11,8,šubtu[seat]N Nunnamnir[1]DN
+riao/Q005799,Shalmaneser I 11,9,inūma[when]SBJ Ekallu-eššetu[New-Palace;-palace-in-Aššur]ON ša[that]REL
+riao/Q005799,Shalmaneser I 11,10,Adad-narari_I[king-of-Assyria]RN šaknu[appointee]N Enlil[1]DN
+riao/Q005799,Shalmaneser I 11,11,māru[son]N Arik-din-ili[king-of-Assyria]RN šaknu[appointee]N Enlil[1]DN

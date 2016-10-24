@@ -1,0 +1,5 @@
+id_text,text_name,l_no,text
+rinap/rinap5/Q003744,Ashurbanipal 045,1,anāku[I]IP Aššur-bani-apli[Ashurbanipal;-king-of-Assyria]RN šarru[king]N kiššatu[totality]N šarru[king]N mātu[land]N Aššur[Assyria]GN
+rinap/rinap5/Q003744,Ashurbanipal 045,2,ša[that]REL ina[in]PRP tukultu[trust]N Aššur[1]DN u[and]CNJ Ištar[1]DN
+rinap/rinap5/Q003744,Ashurbanipal 045,3,nakru[enemy]N kašādu[reach]V
+rinap/rinap5/Q003744,Ashurbanipal 045,4,ša[of]DET

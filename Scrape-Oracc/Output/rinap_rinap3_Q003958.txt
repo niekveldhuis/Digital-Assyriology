@@ -1,0 +1,35 @@
+id_text,text_name,l_no,text
+rinap/rinap3/Q003958,Sennacherib 153,o 1,inu[when]SBJ Aššur[1]DN šarru[king]N ilu[god]N ša[of]DET šamû[heaven]N u[and]CNJ erṣetu[earth]N
+rinap/rinap3/Q003958,Sennacherib 153,o 2,abu[father]N kalû[totality]N ilu[god]N ašarēdu[first-and-foremost-one]N
+rinap/rinap3/Q003958,Sennacherib 153,o 3,mumtalku[deliberate]AJ ṣīru[exalted]AJ ša[that]REL ana[to]PRP milku[advice]N šūturu[very-great]AJ
+rinap/rinap3/Q003958,Sennacherib 153,o 4,nādinu[giver]N haṭṭu[stick]N kussû[chair]N palû[reign-(of-a-king)]N
+rinap/rinap3/Q003958,Sennacherib 153,o 5,Mullissu[1]DN hīrtu[(equal-ranking)-wife]N Aššur[1]DN malkatu[ruler]N kalû[totality]N ilu[god]N
+rinap/rinap3/Q003958,Sennacherib 153,o 6,ša[that]REL ina[in]PRP qibītu[speech]N pû[mouth]N
+rinap/rinap3/Q003958,Sennacherib 153,o 7,Sin[1]DN bēlu[lord]N purussû[(legal)-decision]N nāšû[bearing]N qarnu[horn]N gašru[very-strong]AJ
+rinap/rinap3/Q003958,Sennacherib 153,o 8,ša[that]REL ana[to]PRP nadānu[give]V wuʾʾurtu[commission]N
+rinap/rinap3/Q003958,Sennacherib 153,o 9,Šamaš[1]DN dikuggallu[chief-justice]N ilu[god]N mušēṣû[drain]N nūru[light]N
+rinap/rinap3/Q003958,Sennacherib 153,o 10,ša[that]REL ana[to]PRP nūru[light]N nawru[bright]AJ
+rinap/rinap3/Q003958,Sennacherib 153,o 11,Anu[1]DN bēlu[lord]N šurbû[very-great]AJ ilittu[birth]N Aššur[1]DN abu[father]N ilu[god]N
+rinap/rinap3/Q003958,Sennacherib 153,o 12,Adad[1]DN gugallu[irrigation-controller]N šamû[heaven]N u[and]CNJ erṣetu[earth]N bēlu[lord]N šāru[wind]N u[and]CNJ berqu[lightning]N
+rinap/rinap3/Q003958,Sennacherib 153,o 13,nādinu[giver]N tiʾûtu[food]N ana[to]PRP būlu[animals]N Sumuqan[1]DN
+rinap/rinap3/Q003958,Sennacherib 153,o 14,Ištar[1]DN šarratu[queen]N šamāmū[heavens]N u[and]CNJ kakkabu[star]N ša[that]REL
+rinap/rinap3/Q003958,Sennacherib 153,o 15,Marduk[1]DN apkallu[wise-man]N ilu[god]N mašmaššu[incantation-priest]N Igigi[1]DN u[and]CNJ Anunnaku[1]DN
+rinap/rinap3/Q003958,Sennacherib 153,o 16,Ninurta[1]DN māru[son]N Enlil[1]DN gitmālu[perfect]AJ ašarēdu[first-and-foremost-one]N
+rinap/rinap3/Q003958,Sennacherib 153,o 17,izuzzu[stand]V
+rinap/rinap3/Q003958,Sennacherib 153,o 18,Nabu[1]DN šukkallu[(a-court-official)]N Aššur[1]DN
+rinap/rinap3/Q003958,Sennacherib 153,o 19,Nergal[1]DN bēlu[lord]N abāru[(a-kind-of-clamp)]N u[and]CNJ dunnu[power]N ša[that]REL
+rinap/rinap3/Q003958,Sennacherib 153,o 20,Palil[1]DN āliku[goer]N mahru[front]N ašarēdu[first-and-foremost-one]N
+rinap/rinap3/Q003958,Sennacherib 153,o 21,Sebetti[1]DN ilu[god]N qardu[valiant]AJ
+rinap/rinap3/Q003958,Sennacherib 153,o 22,ilu[god]N rabû[great]AJ bēlu[lord]N
+rinap/rinap3/Q003958,Sennacherib 153,o 23,barû[see]V kullatu[totality]N
+rinap/rinap3/Q003958,Sennacherib 153,o 24,palāsu[look-at]V
+rinap/rinap3/Q003958,Sennacherib 153,o 25,Sin[1]DN Ningal[1]DN
+rinap/rinap3/Q003958,Sennacherib 153,r 1',ēkallu[palace]N narû[stele]N epēšu[do]V
+rinap/rinap3/Q003958,Sennacherib 153,r 2',ṣalmu[effigy]N ilu[god]N rabû[great]AJ bēlu[lord]N banû[create]V qerbu[centre]N u[and]CNJ ṣalmu[effigy]N šarrūtu[kingship]N lābinu[brick-maker]N appu[nose]N mahru[front]N izuzzu[stand]V
+rinap/rinap3/Q003958,Sennacherib 153,r 3',mimma[anything]XP liptu[undertaking]N qātu[hand]N ša[that]REL qerbu[centre]N Ninua[Nineveh]SN epēšu[do]V ṣēru[back]N šaṭāru[write]V
+rinap/rinap3/Q003958,Sennacherib 153,r 4',ana[to]PRP šarru[king]N māru[son]N ezēbu[leave]V ṣiātiš[for-ever]AV matīma[ever]AV rubû[ruler]N warkû[rear]AJ ina[in]PRP šarru[king]N māru[son]N
+rinap/rinap3/Q003958,Sennacherib 153,r 5',ša[that]REL epištu[deed]N epēšu[do]V sehû[rise-up]V riksu[band]N rakāsu[tie]V paṭāru[untie]V
+rinap/rinap3/Q003958,Sennacherib 153,r 6',mû[water]N pattu[canal]N šâtina[those]IP ištu[from]PRP tawwertu[(a-type-of-agricultural-land)]N Ninua[Nineveh]SN parāsu[stop]V mālaku[walk]N
+rinap/rinap3/Q003958,Sennacherib 153,r 7',ilu[god]N rabû[great]AJ mala[as-much-as]PRP ina[in]PRP libbu[interior]N narû[stele]N annû[this]DP šumu[name]N nabû[called]AJ
+rinap/rinap3/Q003958,Sennacherib 153,r 8',ina[in]PRP ṣītu[exit]N pû[mouth]N ellu[pure]AJ ša[that]REL lā[not]MOD nakāru[be(come)-different]V arratu[curse]N marṣu[sick]AJ arāru[curse]V sakāpu[push-down]V palû[reign-(of-a-king)]N
+rinap/rinap3/Q003958,Sennacherib 153,r 9',šâšu[him]IP u[and]CNJ māliku[adviser]N šumu[name]N zēru[seed(s)]N perʾu[bud]N u[and]CNJ nannābu[offspring]N halāqu[be(come)-lost]V

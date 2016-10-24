@@ -1,0 +1,23 @@
+id_text,text_name,l_no,text
+riao/Q005623,Erišum I 03,1,Erišum_I[vice-regent-of-Aššur]RN
+riao/Q005623,Erišum I 03,2,iššiakku[city-ruler]N
+riao/Q005623,Erišum I 03,3,Aššur[1]DN
+riao/Q005623,Erišum I 03,4,māru[son]N Ilu-šuma[vice-regent-of-Aššur]RN
+riao/Q005623,Erišum I 03,5,iššiakku[city-ruler]N
+riao/Q005623,Erišum I 03,6,Aššur[1]DN
+riao/Q005623,Erišum I 03,7,ana[to]PRP Aššur[1]DN
+riao/Q005623,Erišum I 03,8,bēlu[lord]N
+riao/Q005623,Erišum I 03,9,ana[to]PRP balāṭu[life]N
+riao/Q005623,Erišum I 03,10,u[and]CNJ balāṭu[life]N
+riao/Q005623,Erišum I 03,11,ālu[city]N
+riao/Q005623,Erišum I 03,12,bītu[house]N
+riao/Q005623,Erišum I 03,13,gimirtu[totality]N
+riao/Q005623,Erišum I 03,14,isāru[annexe]N
+riao/Q005623,Erišum I 03,15,ana[to]PRP Aššur[1]DN
+riao/Q005623,Erišum I 03,16,epēšu[do]V
+riao/Q005623,Erišum I 03,17,hubūru[(a-beer-jar)]N
+riao/Q005623,Erišum I 03,18,walādu[give-birth-(to)]V
+riao/Q005623,Erišum I 03,19,ūsu[goose]N
+riao/Q005623,Erišum I 03,20,ša[of]DET biltu[talent]N
+riao/Q005623,Erišum I 03,21,siparru[bronze]N
+riao/Q005623,Erišum I 03,22,ina[in]PRP išdu[foundation]N

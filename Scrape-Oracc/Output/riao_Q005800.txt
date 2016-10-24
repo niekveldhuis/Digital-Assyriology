@@ -1,0 +1,10 @@
+id_text,text_name,l_no,text
+riao/Q005800,Shalmaneser I 12,o 1,Salmanu-ašared_I[Shalmaneser-I;-son-of-Adad-narari-I;-king-of-Assyria]RN šaknu[appointee]N Enlil[1]DN
+riao/Q005800,Shalmaneser I 12,o 2,iššiakku[city-ruler]N Aššur[1]DN šarru[king]N dannu[strong]AJ
+riao/Q005800,Shalmaneser I 12,o 3,šarru[king]N mātu[land]N Aššur[Assyria]GN māru[son]N Adad-narari_I[king-of-Assyria]RN
+riao/Q005800,Shalmaneser I 12,o 4,iššiakku[city-ruler]N Aššur[1]DN māru[son]N Arik-din-ili[king-of-Assyria]RN
+riao/Q005800,Shalmaneser I 12,o 5,iššiakku[city-ruler]N Aššur[1]DN inūma[when]SBJ
+riao/Q005800,Shalmaneser I 12,o 6,Aššur[1]DN
+riao/Q005800,Shalmaneser I 12,o 7,ša[of]DET māru[son]N šarru[king]N
+riao/Q005800,Shalmaneser I 12,o 8,sippu[(door-)jamb]N
+riao/Q005800,Shalmaneser I 12,r 1',ana[to]PRP mātu[land]N hušahhu[need]N

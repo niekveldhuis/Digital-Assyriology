@@ -1,0 +1,37 @@
+id_text,text_name,l_no,text
+riao/Q005793,Shalmaneser I 05,1,Salmanu-ašared_I[Shalmaneser-I;-son-of-Adad-narari-I;-king-of-Assyria]RN šaknu[appointee]N Enlil[1]DN
+riao/Q005793,Shalmaneser I 05,2,iššiakku[city-ruler]N Aššur[1]DN māru[son]N Adad-narari_I[king-of-Assyria]RN šaknu[appointee]N Enlil[1]DN
+riao/Q005793,Shalmaneser I 05,3,iššiakku[city-ruler]N Aššur[1]DN māru[son]N Arik-din-ili[king-of-Assyria]RN šaknu[appointee]N Enlil[1]DN
+riao/Q005793,Shalmaneser I 05,4,iššiakku[city-ruler]N Aššur[1]DN mukinnu[witness]N māhāzu[shrine]N ellu[pure]AJ
+riao/Q005793,Shalmaneser I 05,5,bānû[creator]N Ekur[1]TN kiṣṣu[shrine]N ilu[god]N
+riao/Q005793,Shalmaneser I 05,6,šubtu[seat]N Nunnamnir[1]DN inūma[when]SBJ
+riao/Q005793,Shalmaneser I 05,7,Ehursagkurkurra[1]TN bītu[house]N Aššur[1]DN bēlu[lord]N
+riao/Q005793,Shalmaneser I 05,8,ša[that]REL ištu[from]PRP ulla[distant-time]AV šarru[king]N
+riao/Q005793,Shalmaneser I 05,9,abu[father]N epēšu[do]V bītu[house]N šū[he]IP
+riao/Q005793,Shalmaneser I 05,10,ina[in]PRP qimītu[burning]N gīru[fire(-god)]N
+riao/Q005793,Shalmaneser I 05,11,lū[may]MOD lapātu[touch]V bītu[house]N Aššur[1]DN bēlu[lord]N
+riao/Q005793,Shalmaneser I 05,12,ana[to]PRP sihirtu[circumference]N nakāru[be(come)-different]V
+riao/Q005793,Shalmaneser I 05,13,qaqqaru[ground]N nasāku[throw-(down)]V dannatu[fortified-(place)]N
+riao/Q005793,Shalmaneser I 05,14,kašādu[reach]V išdu[foundation]N ina[in]PRP pīlu[limestone]N dannu[strong]AJ
+riao/Q005793,Shalmaneser I 05,15,kīma[like]PRP kiṣru[knot]N šadû[mountain]N lū[may]MOD ramû[set-in-place]V
+riao/Q005793,Shalmaneser I 05,16,ina[in]PRP qerbu[centre]N bītu[house]N dayyānu[judge]N
+riao/Q005793,Shalmaneser I 05,17,bēlu[lord]N lū[may]MOD epēšu[do]V
+riao/Q005793,Shalmaneser I 05,18,ana[to]PRP ašru[place]N lū[may]MOD târu[turn]V
+riao/Q005793,Shalmaneser I 05,19,Ehursagkurkurra[1]TN bītu[house]N Aššur[1]DN bēlu[lord]N
+riao/Q005793,Shalmaneser I 05,20,eli[on]PRP mahrû[first-one]N mādiš[greatly]AV watāru[be(come)-outsize]V
+riao/Q005793,Shalmaneser I 05,21,u[and]CNJ rabû[be(come)-big]V ištu[from]PRP uššu[foundation]N
+riao/Q005793,Shalmaneser I 05,22,adi[until]PRP gabadibbu[parapet]N epēšu[do]V
+riao/Q005793,Shalmaneser I 05,23,kullatu[totality]N ilu[god]N šūt[he]DP Ekur[1]TN
+riao/Q005793,Shalmaneser I 05,24,ina[in]PRP qerbu[centre]N kânu[be(come)-permanent]V
+riao/Q005793,Shalmaneser I 05,25,narû[stele]N šakānu[put]V
+riao/Q005793,Shalmaneser I 05,26,narû[stele]N ša[of]DET Aššur-uballiṭ_I[vice-regent-of-Aššur;-son-of-Eriba-Adad-I]RN
+riao/Q005793,Shalmaneser I 05,27,abu[father]N itti[with]PRP narû[stele]N
+riao/Q005793,Shalmaneser I 05,28,šakānu[put]V rubû[ruler]N warkû[rear]AJ inūma[when]SBJ
+riao/Q005793,Shalmaneser I 05,29,bītu[house]N šū[he]IP anāhu[be(come)-tired]V
+riao/Q005793,Shalmaneser I 05,30,epēšu[do]V kīma[like]PRP anāku[I]IP narû[stele]N
+riao/Q005793,Shalmaneser I 05,31,ša[of]DET Aššur-uballiṭ_I[vice-regent-of-Aššur;-son-of-Eriba-Adad-I]RN abu[father]N
+riao/Q005793,Shalmaneser I 05,32,lā[not]MOD nakāru[be(come)-different]V ana[to]PRP ašru[place]N
+riao/Q005793,Shalmaneser I 05,33,târu[turn]V narû[stele]N ana[to]PRP ašru[place]N
+riao/Q005793,Shalmaneser I 05,34,târu[turn]V Aššur[1]DN u[and]CNJ dayyānu[judge]N
+riao/Q005793,Shalmaneser I 05,35,ikribu[prayer]N šemû[hear]V
+riao/Q005793,Shalmaneser I 05,36,Ša-sarrate[1]MN

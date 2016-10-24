@@ -1,0 +1,27 @@
+id_text,text_name,l_no,text
+rinap/rinap3/Q003511,Sennacherib 037,o 1,ēkallu[palace]N Sin-ahhe-eriba[Sennacherib;-king-of-Assyria]RN
+rinap/rinap3/Q003511,Sennacherib 037,o 2,šarru[king]N rabû[great]AJ šarru[king]N dannu[strong]AJ šarru[king]N kiššatu[totality]N šarru[king]N mātu[land]N Aššur[Assyria]GN
+rinap/rinap3/Q003511,Sennacherib 037,o 3,šarru[king]N kibru[bank]N erbe[four]NU migru[consent]N ilu[god]N
+rinap/rinap3/Q003511,Sennacherib 037,o 4,rabû[great]AJ Aššur[1]DN abu[father]N ilu[god]N ina[in]PRP kullatu[totality]N
+rinap/rinap3/Q003511,Sennacherib 037,o 5,malku[prince]N kīniš[reliably]AV palāsu[look-at]V
+rinap/rinap3/Q003511,Sennacherib 037,o 6,eli[on]PRP gimru[totality]N wāšibu[sitting]AJ parakku[dais]N rabû[be(come)-big]V
+rinap/rinap3/Q003511,Sennacherib 037,o 7,kakku[stick]N nadānu[give]V haṭṭu[stick]N išaru[straight]AJ
+rinap/rinap3/Q003511,Sennacherib 037,o 8,murappišu[one-who-makes-wide]N miṣru[border]N šibirru[shepherd´s-staff]N
+rinap/rinap3/Q003511,Sennacherib 037,o 9,lā[not]MOD pādû[forgiving]AJ ana[to]PRP maqātu[fall]V zāʾeru[enemy]N
+rinap/rinap3/Q003511,Sennacherib 037,o 10,tamāhu[grasp]V rittu[hand]N malku[prince]N
+rinap/rinap3/Q003511,Sennacherib 037,o 11,ša[of]DET kibru[bank]N arbaʾu[four]NU ištu[from]PRP ṣītān[at-sunrise]AV
+rinap/rinap3/Q003511,Sennacherib 037,o 12,adi[until]PRP šīlān[in-the-sunset]AV šēpu[foot]N
+rinap/rinap3/Q003511,Sennacherib 037,o 13,kanāšu[bow-down]V šâṭu[pull]V abšānu[yoke]N
+rinap/rinap3/Q003511,Sennacherib 037,o 14,ištu[from]PRP ūmu[day]N pānu[front]N mādiš[greatly]AV
+rinap/rinap3/Q003511,Sennacherib 037,o 15,īnu[eye]N
+rinap/rinap3/Q003511,Sennacherib 037,r 1',ai[not]MOD u[and]CNJ
+rinap/rinap3/Q003511,Sennacherib 037,r 2',abullu[gate]N Nergal[1]DN ša[that]REL mehretu[opposite-side]N
+rinap/rinap3/Q003511,Sennacherib 037,r 3',mīšaru[justice]N petû[open]AJ bābu[gate]N
+rinap/rinap3/Q003511,Sennacherib 037,r 4',Ešahulezenzagmukam[1]TN
+rinap/rinap3/Q003511,Sennacherib 037,r 5',bītu[house]N hūdu[happiness]N libbu[interior]N u[and]CNJ rīštu[exultation]N
+rinap/rinap3/Q003511,Sennacherib 037,r 6',ša[of]DET isinnu[festival]N rēšu[head]N šattu[year]N lū[may]MOD banû[create]V
+rinap/rinap3/Q003511,Sennacherib 037,r 7',ina[in]PRP ūmu[day]N isinnu[festival]N bītu[house]N akītu[(a-cultic-festival)]N
+rinap/rinap3/Q003511,Sennacherib 037,r 8',ana[to]PRP ṣulû[supplication]N u[and]CNJ labānu[spread]V appu[nose]N
+rinap/rinap3/Q003511,Sennacherib 037,r 9',mahru[front]N ilu[god]N u[and]CNJ iltu[goddess]N u[and]CNJ muštaʾʾûtu[leisure]N
+rinap/rinap3/Q003511,Sennacherib 037,r 10',bēlūtu[rule]N šattišamma[year-by-year]AV
+rinap/rinap3/Q003511,Sennacherib 037,r 11',ina[in]PRP qerbu[centre]N epēšu[do]V nigûtu[joyful-song]N

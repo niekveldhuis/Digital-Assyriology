@@ -1,0 +1,17 @@
+id_text,text_name,l_no,text
+riao/Q005708,Aššur-rem-nišešu 1,1,Aššur-rem-nišešu[vice-regent-of-Aššur]RN
+riao/Q005708,Aššur-rem-nišešu 1,2,iššiakku[city-ruler]N Aššur[1]DN
+riao/Q005708,Aššur-rem-nišešu 1,3,māru[son]N Aššur-narari_II[successor-of-Enlil-naṣir-II;-vice-regent-of-the-god-Aššur]RN
+riao/Q005708,Aššur-rem-nišešu 1,4,iššiakku[city-ruler]N Aššur[1]DN māru[son]N Aššur-rabi_I[son-of-Enlil-naṣir;-vice-regent-of-Aššur]RN
+riao/Q005708,Aššur-rem-nišešu 1,5,iššiakku[city-ruler]N dūru[(city)-wall]N ša[of]DET Kikkia[vice-regent-of-Aššur]RN Ikunum[vice-regent-of-Aššur]RN
+riao/Q005708,Aššur-rem-nišešu 1,6,Šarru-ukin_I[Sargon-I;-son-of-Ikunum;-vice-regent-of-Aššur]RN Puzur-Aššur_II[vice-regent-of-god-Aššur;-son-of-Sargon-I]RN
+riao/Q005708,Aššur-rem-nišešu 1,7,Aššur-narari_I[son-of-Išme-Dagan-II;-vice-regent-of-Aššur]RN māru[son]N Išme-Dagan_II[vice-regent-of-god-Aššur;-successor-of-Šamši-Adad-II]RN
+riao/Q005708,Aššur-rem-nišešu 1,8,abu[father]N epēšu[do]V anāhu[be(come)-tired]V
+riao/Q005708,Aššur-rem-nišešu 1,9,ana[to]PRP balāṭu[life]N u[and]CNJ šalāmu[be(come)-healty]V ālu[city]N
+riao/Q005708,Aššur-rem-nišešu 1,10,ištu[from]PRP uššu[foundation]N adi[until]PRP šaptu[lip]N
+riao/Q005708,Aššur-rem-nišešu 1,11,epēšu[do]V u[and]CNJ sikkatu[peg]N ana[to]PRP ašru[place]N
+riao/Q005708,Aššur-rem-nišešu 1,12,târu[turn]V rubû[ruler]N warkû[rear]AJ
+riao/Q005708,Aššur-rem-nišešu 1,13,inūma[when]SBJ dūru[(city)-wall]N šūt[he]DP anāhu[be(come)-tired]V
+riao/Q005708,Aššur-rem-nišešu 1,14,epēšu[do]V Aššur[1]DN u[and]CNJ Adad[1]DN
+riao/Q005708,Aššur-rem-nišešu 1,15,ikribu[prayer]N šemû[hear]V
+riao/Q005708,Aššur-rem-nišešu 1,16,sikkatu[peg]N ana[to]PRP ašru[place]N

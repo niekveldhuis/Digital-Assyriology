@@ -1,0 +1,21 @@
+id_text,text_name,l_no,text
+riao/Q005804,Shalmaneser I 16,iii 2',ina[in]PRP
+riao/Q005804,Shalmaneser I 16,iii 3',u[and]CNJ dūru[(city)-wall]N
+riao/Q005804,Shalmaneser I 16,iii 4',Nergal[1]DN bēlu[lord]N
+riao/Q005804,Shalmaneser I 16,iii 5',lū[may]MOD
+riao/Q005804,Shalmaneser I 16,iii 6',bītu[house]N Ištar[1]DN bēltu[lady]N
+riao/Q005804,Shalmaneser I 16,iii 7',edēšu[be(come)-new]V ziqqurratu[ziggurrat]N
+riao/Q005804,Shalmaneser I 16,iii 8',bītu[house]N ellu[pure]AJ šubtu[seat]N nēhtu[calm]N
+riao/Q005804,Shalmaneser I 16,iii 9',ana[to]PRP Ištar[1]DN bēltu[lady]N Talmuššu[1]SN
+riao/Q005804,Shalmaneser I 16,iii 10',ina[in]PRP qerbu[centre]N Talmuššu[1]SN lū[may]MOD
+riao/Q005804,Shalmaneser I 16,iii 11',Egašankalamma[1]TN bītu[house]N Ištar[1]DN bēltu[lady]N Arbail[Arbela]SN
+riao/Q005804,Shalmaneser I 16,iii 12',bēltu[lady]N u[and]CNJ ziqqurratu[ziggurrat]N epēšu[do]V
+riao/Q005804,Shalmaneser I 16,iii 13',ziqqurratu[ziggurrat]N rabû[great]AJ ana[to]PRP Aššur[1]DN
+riao/Q005804,Shalmaneser I 16,iii 14',bēlu[lord]N ina[in]PRP qerbu[centre]N ālu[city]N Aššur[Ashur]SN
+riao/Q005804,Shalmaneser I 16,iii 15',epēšu[do]V bītu[house]N Adad[1]DN ša[of]DET Kahat[1]SN
+riao/Q005804,Shalmaneser I 16,iii 16',u[and]CNJ Adad[1]DN ša[of]DET Isani[1]SN bēlu[lord]N
+riao/Q005804,Shalmaneser I 16,iii 17',lū[may]MOD epēšu[do]V māhāzu[shrine]N
+riao/Q005804,Shalmaneser I 16,iii 18',ēkurru[temple]N šâtunu[those]IP eli[on]PRP ša[of]DET pāna[formerly]AV
+riao/Q005804,Shalmaneser I 16,iii 19',watāru[be(come)-outsize]V ištu[from]PRP ussu[foundation]N
+riao/Q005804,Shalmaneser I 16,iii 20',adi[until]PRP gabadibbu[parapet]N banû[create]V
+riao/Q005804,Shalmaneser I 16,iii 21',tašīltu[joy]N epēšu[do]V
