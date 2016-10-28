@@ -1,166 +1,5 @@
 id_text,text_name,version,l_no,text
-c.6.2.1,Proverbs: from Nibru,Ni 4166,A1,
-c.6.2.1,Proverbs: from Nibru,Ni 4166,A2,sux:kur[(mountain)-land]N
-c.6.2.1,Proverbs: from Nibru,Ni 4166,A3,sux:šu[hand]N
-c.6.2.1,Proverbs: from Nibru,Ni 4166,A4,sux:ki[place]N sux:sug₆[to-replace]V
-c.6.2.1,Proverbs: from Nibru,Ni 4166,A5,
-c.6.2.1,Proverbs: from Nibru,Ni 4166,A6,sux:ŋiri₃[foot]N sux:niŋ₂-ŋiri₃[go-between's-fee]N
-c.6.2.1,Proverbs: from Nibru,Ni 4166,A7,sux:ur-mah[lion]N
-c.6.2.1,Proverbs: from Nibru,Ni 4166,A8,
-c.6.2.1,Proverbs: from Nibru,Ni 4166,A9,
-c.6.2.1,Proverbs: from Nibru,Ni 4166,A10,sux:dam[spouse]N
-c.6.2.1,Proverbs: from Nibru,Ni 4166,A11,
-c.6.2.1,Proverbs: from Nibru,Ni 4166,B1,
-c.6.2.1,Proverbs: from Nibru,Ni 4166,B2,sux:al-tar[construction-work]N sux:gub[to-stand]V
-c.6.2.1,Proverbs: from Nibru,Ni 4166,B3,sux:e₂[house(hold)]N sux:dirig[to-be-superior]V sux:a-šag₄[field]N
-c.6.2.1,Proverbs: from Nibru,Ni 4166,B4,sux:ušumgal[type-of-serpent]N sux:gaba[chest]N sux:gi₄[to-return]V sux:BAD[BAD]V sux:ah₆[spittle]N
-c.6.2.1,Proverbs: from Nibru,Ni 4166,B5,sux:e₂[house(hold)]N sux:du₃[to-erect]V
-c.6.2.1,Proverbs: from Nibru,Ni 4166,B6,
-c.6.2.1,Proverbs: from Nibru,Ni 4166,B7,sux:banšur[(offering)-table]N sux:kalag[to-be-strong]V
-c.6.2.1,Proverbs: from Nibru,Ni 4166,B8,sux:za-pa-aŋ₂[noise]N
-c.6.2.1,Proverbs: from Nibru,Ni 4166,B9,sux:ur-mah[lion]N sux:til[to-complete]V sux:mu₂[to-grow]V
-c.6.2.1,Proverbs: from Nibru,Ni 4166,B10,sux:gu₂[neck]N sux:kaš₄[to-run]V
-c.6.2.1,Proverbs: from Nibru,Ni 4166,B11,sux:du₃[to-erect]V
-c.6.2.1,Proverbs: from Nibru,Ni 4166,B12,sux:e₃[to-go-out-or-in]V
-c.6.2.1,Proverbs: from Nibru,Ni 4166,B13,sux:dam-gara₃[merchant]N sux:us₂[to-be-adjacent]V
-c.6.2.1,Proverbs: from Nibru,Ni 4166,B14,sux:a[water]N sux:e₂-gal[palace]N sux:e₃[to-go-out-or-in]V
-c.6.2.1,Proverbs: from Nibru,Ni 4166,B15,
-c.6.2.1,Proverbs: from Nibru,Ni 4166,B16,
-c.6.2.1,Proverbs: from Nibru,Ni 4166,B17,
-c.6.2.1,Proverbs: from Nibru,Ni 4166,C1,sux:e₂[house(hold)]N
-c.6.2.1,Proverbs: from Nibru,Ni 4166,C2,sux:iri[town]N sux:ŋar[to-place]V
-c.6.2.1,Proverbs: from Nibru,Ni 4166,C3,sux:sas[type-of-grass]N sux:ga[milk]N sux:hi-iz[lettuce]N
-c.6.2.1,Proverbs: from Nibru,Ni 4166,C4,sux:hi[to-mix-up]V
-c.6.2.1,Proverbs: from Nibru,Ni 4166,C5,sux:ad-KID[basket-weaver]N sux:gaba[chest]N sux:ud[storm]N sux:šar₂[to-be-numerous]V
-c.6.2.1,Proverbs: from Nibru,Ni 4166,C6,sux:šar₂[to-be-numerous]V
-c.6.2.1,Proverbs: from Nibru,Ni 4166,C7,sux:a₂[arm]N sux:du₇[to-push]V
-c.6.2.1,Proverbs: from Nibru,Ni 4166,C8,sux:niŋ₂-u₂-rum[property]N
-c.6.2.1,Proverbs: from Nibru,Ni 4166,C9,
-c.6.2.1,Proverbs: from Nibru,Ni 4166,C10,
-c.6.2.1,Proverbs: from Nibru,Ni 4166,C11,
-c.6.2.1,Proverbs: from Nibru,Ni 4166,C12,
-c.6.2.1,Proverbs: from Nibru,Ni 4166,C13,
-c.6.2.1,Proverbs: from Nibru,N 4248,A1,
-c.6.2.1,Proverbs: from Nibru,N 4248,A2,
-c.6.2.1,Proverbs: from Nibru,N 4248,A3,
-c.6.2.1,Proverbs: from Nibru,N 4248,A4,sux:BAD[BAD]V
-c.6.2.1,Proverbs: from Nibru,N 4248,A5,sux:hal[to-divide-out]V
-c.6.2.1,Proverbs: from Nibru,N 4248,A6,sux:la₂[to-hang]V
-c.6.2.1,Proverbs: from Nibru,N 4248,A7,sux:pad₃[to-find]V
-c.6.2.1,Proverbs: from Nibru,N 4248,A8,
-c.6.2.1,Proverbs: from Nibru,N 4248,A9,sux:kug[precious-metal]N
-c.6.2.1,Proverbs: from Nibru,N 4248,A10,sux:kug-sig₁₇[gold]N
-c.6.2.1,Proverbs: from Nibru,N 4248,A11,sux:dub-šen[treasure-chest]N
-c.6.2.1,Proverbs: from Nibru,N 4248,A12,sux:dub-šen-dilim₂[type-of-chest]N
-c.6.2.1,Proverbs: from Nibru,N 4248,A13,sux:ŋe₂₆[I]PD sux:til[to-complete]V
-c.6.2.1,Proverbs: from Nibru,N 4248,A14,sux:dug₃[to-be-good]V
-c.6.2.1,Proverbs: from Nibru,N 4248,A15,sux:gu₇[to-eat]V
-c.6.2.1,Proverbs: from Nibru,N 4248,B1,
-c.6.2.1,Proverbs: from Nibru,N 4248,B2,
-c.6.2.1,Proverbs: from Nibru,N 4248,B3,
-c.6.2.1,Proverbs: from Nibru,N 4248,B4,
-c.6.2.1,Proverbs: from Nibru,N 4248,B5,sux:hur[to-scratch]V
-c.6.2.1,Proverbs: from Nibru,N 4248,B6,sux:an[heaven]N
-c.6.2.1,Proverbs: from Nibru,N 4248,B7,sux:nin[lady]N
-c.6.2.1,Proverbs: from Nibru,N 4248,B8,
-c.6.2.1,Proverbs: from Nibru,N 4248,B9,
-c.6.2.1,Proverbs: from Nibru,N 3395,A1,
-c.6.2.1,Proverbs: from Nibru,N 3395,A2,sux:du₈[to-spread]V sux:šukur₂[ration]N sux:ŋar[to-place]V
-c.6.2.1,Proverbs: from Nibru,N 3395,A3,sux:e-ri-in[meaning-unknown]N
-c.6.2.1,Proverbs: from Nibru,N 3395,A4,sux:di-bi-da[donkey]N sux:Anšan[1]GN
-c.6.2.1,Proverbs: from Nibru,N 3395,A5,sux:dim₃-šah₂[bear?]N sux:Marhaši[1]GN
-c.6.2.1,Proverbs: from Nibru,N 3395,A6,sux:gul-lum[cat]N sux:Meluha[1]GN
-c.6.2.1,Proverbs: from Nibru,N 3395,A7,sux:til-lu-ug[elephant]N sux:Eastern mountains[1]GN
-c.6.2.1,Proverbs: from Nibru,N 3395,A8,sux:asal₂[poplar]N sux:ga-raš[leek]N sux:šab[to-slash]V
-c.6.2.1,Proverbs: from Nibru,N 3395,A9,sux:al[hoe]N sux:im-NI-sahar[type-of-clay]N sux:ŋar[to-place]V sux:nin-kilim[mongoose]N sux:iri[town]N
-c.6.2.1,Proverbs: from Nibru,N 3395,B1,sux:inim[word]N sux:ŋar[to-place]V sux:1/2[1/2]NU sux:gur[capacity-measure]N sux:šag₄[heart]N sux:edin[open-country]N
-c.6.2.1,Proverbs: from Nibru,N 3395,B2,sux:en[lord]N sux:dab₅[to-seize]V
-c.6.2.1,Proverbs: from Nibru,N 3395,B3,sux:šu[hand]N sux:us₂[to-be-adjacent]V
-c.6.2.1,Proverbs: from Nibru,N 3395,B4,sux:ki[place]N sux:la₂[to-hang]V
-c.6.2.1,Proverbs: from Nibru,N 3395,B5,sux:ki-in-du[(stretch-of)-earth]N sux:hur[to-scratch]V
-c.6.2.1,Proverbs: from Nibru,N 3395,B6,sux:kar-ke₄[prostitute]N sux:gi-dub-ba[stylus]N sux:sila[street]N sux:šub[to-fall]V
-c.6.2.1,Proverbs: from Nibru,N 3395,B7,sux:lu₂[person]N sux:šub[to-fall]V sux:ŋar[to-place]V
-c.6.2.1,Proverbs: from Nibru,N 3395,B8,sux:anše[donkey]N sux:edin[open-country]N sux:lul[to-be-false]V sux:ŋar[to-place]V
-c.6.2.1,Proverbs: from Nibru,N 3395,B9,sux:NIM[NIM]V
-c.6.2.1,Proverbs: from Nibru,N 3395,B10,sux:lahtan[vat]N sux:ud[day(light)]N sux:šu₂[to-cover]V
-c.6.2.1,Proverbs: from Nibru,N 3395,B11,sux:ki-umun₂[place-of-learning]N sux:giri₁₇[nose]N sux:šu[hand]N sux:du₈[to-spread]V
-c.6.2.1,Proverbs: from Nibru,N 3395,B12,sux:gi-ru[meaning-unknown]V
-c.6.2.1,Proverbs: from Nibru,N 3395,B13,
-c.6.2.1,Proverbs: from Nibru,Ni 4469,A1,sux:me[to-be]V
-c.6.2.1,Proverbs: from Nibru,Ni 4469,A2,sux:ninda[bread]N sux:niŋ₂-u₂-zug₄[polluted-item]N
-c.6.2.1,Proverbs: from Nibru,Ni 4469,A3,sux:me[to-be]V
-c.6.2.1,Proverbs: from Nibru,Ni 4469,A4,sux:lu₂[person]N sux:šu₂[to-cover]V
-c.6.2.1,Proverbs: from Nibru,Ni 4469,A5,sux:dub[tablet]N
-c.6.2.1,Proverbs: from Nibru,Ni 4469,A6,
-c.6.2.1,Proverbs: from Nibru,Ni 4469,A7,
-c.6.2.1,Proverbs: from Nibru,Ni 4469,A8,
-c.6.2.1,Proverbs: from Nibru,Ni 4469,A9,sux:Simurrum[1]SN sux:dab₅[to-seize]V sux:bad₃[wall]N sux:gul[to-destroy]V
-c.6.2.1,Proverbs: from Nibru,Ni 4469,A10,sux:E-ana[1]TN sux:du₃[to-erect]V sux:šub[to-fall]V
-c.6.2.1,Proverbs: from Nibru,Ni 4469,A11,sux:nam-lugal[kingship]N sux:kalag[to-be-strong]V sux:igi[eye]N sux:du₈[to-spread]V
-c.6.2.1,Proverbs: from Nibru,Ni 4469,A12,sux:ur₅[that]PD sux:Nanni[1]RN sux:šag₄[heart]N sux:sig[to-be-low]V sux:kur[(mountain)-land]N sux:de₆[to-carry]V
-c.6.2.1,Proverbs: from Nibru,Ni 4469,B1,
-c.6.2.1,Proverbs: from Nibru,Ni 4469,B2,
-c.6.2.1,Proverbs: from Nibru,Ni 4469,B3,
-c.6.2.1,Proverbs: from Nibru,Ni 4469,B4,
-c.6.2.1,Proverbs: from Nibru,Ni 4469,B5,sux:gabu₂[left-(side)]N
-c.6.2.1,Proverbs: from Nibru,Ni 4469,B6,sux:ar₂[ruin-(mound)]N sux:lu₂[person]N
-c.6.2.1,Proverbs: from Nibru,Ni 4469,B7,sux:a-na-aš[why]AV sux:saŋ[head]N
-c.6.2.1,Proverbs: from Nibru,Ni 4469,C1,
-c.6.2.1,Proverbs: from Nibru,Ni 4469,C2,sux:SU[SU]V
-c.6.2.1,Proverbs: from Nibru,Ni 4469,C3,
-c.6.2.1,Proverbs: from Nibru,Ni 13186,A1,
-c.6.2.1,Proverbs: from Nibru,Ni 13186,A2,
-c.6.2.1,Proverbs: from Nibru,Ni 13186,A3,
-c.6.2.1,Proverbs: from Nibru,Ni 13186,A4,
-c.6.2.1,Proverbs: from Nibru,Ni 13186,A5,sux:maš₂[(kid)-goat]N sux:šu[hand]N
-c.6.2.1,Proverbs: from Nibru,Ni 13186,A6,
-c.6.2.1,Proverbs: from Nibru,Ni 13186,A7,sux:šu[hand]N sux:gid₂[to-be-long]V
-c.6.2.1,Proverbs: from Nibru,Ni 13186,A8,sux:1/3[1/3]NU
-c.6.2.1,Proverbs: from Nibru,Ni 13186,A9,
-c.6.2.1,Proverbs: from Nibru,Ni 13186,B1,sux:lu₂[person]N
-c.6.2.1,Proverbs: from Nibru,Ni 13186,B2,sux:lu₂[person]N sux:me[to-be]V
-c.6.2.1,Proverbs: from Nibru,Ni 13186,B3,
-c.6.2.1,Proverbs: from Nibru,Ni 13186,B4,
-c.6.2.1,Proverbs: from Nibru,Ni 13186,B5,
-c.6.2.1,Proverbs: from Nibru,Ni 13186,B6,
-c.6.2.1,Proverbs: from Nibru,Ni 9697,A1,
-c.6.2.1,Proverbs: from Nibru,Ni 9697,A2,
-c.6.2.1,Proverbs: from Nibru,Ni 9697,A3,sux:kiŋ₂[to-seek]V
-c.6.2.1,Proverbs: from Nibru,Ni 9697,A4,sux:gi₄[to-return]V
-c.6.2.1,Proverbs: from Nibru,Ni 9697,A5,sux:e₂[house(hold)]N sux:gi₄[to-return]V
-c.6.2.1,Proverbs: from Nibru,Ni 9697,A6,sux:lu₂[person]N sux:gaba-ŋal₂[forceful]AJ
-c.6.2.1,Proverbs: from Nibru,Ni 9697,A7,sux:šu[hand]N sux:gur[to-turn]V
-c.6.2.1,Proverbs: from Nibru,Ni 9697,B1,sux:kud[to-cut]V
-c.6.2.1,Proverbs: from Nibru,Ni 9697,B2,sux:tur₅[to-be-ill]V
-c.6.2.1,Proverbs: from Nibru,Ni 9697,B3,sux:sam₂[to-barter]V
-c.6.2.1,Proverbs: from Nibru,Ni 9697,B4,sux:uš₂[to-die]V
-c.6.2.1,Proverbs: from Nibru,Ni 9697,B5,sux:du₈[to-spread]V
-c.6.2.1,Proverbs: from Nibru,Ni 9697,B6,
-c.6.2.1,Proverbs: from Nibru,Ni 9824,A1,sux:me[essence]N sux:ha-lam[to-be-lost]V
-c.6.2.1,Proverbs: from Nibru,Ni 9824,A2,sux:gud[bull]N sux:ki-gub[location]N sux:kur₂[to-be-different]V
-c.6.2.1,Proverbs: from Nibru,Ni 9824,A3,sux:gud[bull]N sux:DU[DU]V sux:tukul[weapon]N sux:a-ab-ba[sea(water)]N
-c.6.2.1,Proverbs: from Nibru,Ni 9824,A4,sux:a[water]N sux:igi[eye]N sux:bar[to-set-aside]V sux:nam-tar[destiny]N sux:dib[to-pass]V
-c.6.2.1,Proverbs: from Nibru,Ni 9824,A5,
-c.6.2.1,Proverbs: from Nibru,Ni 9824,B1,
-c.6.2.1,Proverbs: from Nibru,Ni 9824,B2,
-c.6.2.1,Proverbs: from Nibru,Ni 9824,B3,
-c.6.2.1,Proverbs: from Nibru,Ni 9824,B4,
-c.6.2.1,Proverbs: from Nibru,Ni 9824,B5,sux:ŋe₂₆[I]PD sux:til[to-complete]V
-c.6.2.1,Proverbs: from Nibru,Ni 9824,C1,sux:e₂-kinkin[mill]N sux:du₁₄[discord]N sux:ŋal₂[to-be-(located)]V
-c.6.2.1,Proverbs: from Nibru,Ni 9824,C2,sux:geme₂[female-slave]N sux:niŋ₂[thing]N sux:zuh[to-steal]V
-c.6.2.1,Proverbs: from Nibru,Ni 9824,C3,sux:ed₃[to-go-down-or-up]V
-c.6.2.1,Proverbs: from Nibru,Ni 9832,A1,
-c.6.2.1,Proverbs: from Nibru,Ni 9832,A2,sux:me[to-be]V
-c.6.2.1,Proverbs: from Nibru,Ni 9832,A3,sux:šag₄[heart]N
-c.6.2.1,Proverbs: from Nibru,Ni 9832,A4,
-c.6.2.1,Proverbs: from Nibru,Ni 9832,B1,
-c.6.2.1,Proverbs: from Nibru,Ni 9832,B2,sux:ŋiri₃[foot]N
-c.6.2.1,Proverbs: from Nibru,Ni 9832,B3,sux:pad₃[to-find]V
-c.6.2.1,Proverbs: from Nibru,Ni 9832,B4,
-c.6.2.1,Proverbs: from Nibru,Ni 9832,B5,sux:šu-si[finger]N
-c.6.2.1,Proverbs: from Nibru,Ni 9832,B6,sux:kinkin[grindstone]N sux:bur₁₂[to-tear-out]V
-c.6.2.1,Proverbs: from Nibru,Ni 9832,B7,sux:du₇[to-push]V
-c.6.2.1,Proverbs: from Nibru,N 6119 and N 4047,1,sux:gu₇[to-eat]V
+c.6.2.1,Proverbs: from Nibru,Ni 4166,A1,c.6.2.1,Proverbs: from Nibru,Ni 4166,A2,sux:kur[(mountain)-land]Nc.6.2.1,Proverbs: from Nibru,Ni 4166,A3,sux:šu[hand]Nc.6.2.1,Proverbs: from Nibru,Ni 4166,A4,sux:ki[place]N sux:sug₆[to-replace]Vc.6.2.1,Proverbs: from Nibru,Ni 4166,A5,c.6.2.1,Proverbs: from Nibru,Ni 4166,A6,sux:ŋiri₃[foot]N sux:niŋ₂-ŋiri₃[go-between's-fee]Nc.6.2.1,Proverbs: from Nibru,Ni 4166,A7,sux:ur-mah[lion]Nc.6.2.1,Proverbs: from Nibru,Ni 4166,A8,c.6.2.1,Proverbs: from Nibru,Ni 4166,A9,c.6.2.1,Proverbs: from Nibru,Ni 4166,A10,sux:dam[spouse]Nc.6.2.1,Proverbs: from Nibru,Ni 4166,A11,c.6.2.1,Proverbs: from Nibru,Ni 4166,B1,c.6.2.1,Proverbs: from Nibru,Ni 4166,B2,sux:al-tar[construction-work]N sux:gub[to-stand]Vc.6.2.1,Proverbs: from Nibru,Ni 4166,B3,sux:e₂[house(hold)]N sux:dirig[to-be-superior]V sux:a-šag₄[field]Nc.6.2.1,Proverbs: from Nibru,Ni 4166,B4,sux:ušumgal[type-of-serpent]N sux:gaba[chest]N sux:gi₄[to-return]V sux:BAD[BAD]V sux:ah₆[spittle]Nc.6.2.1,Proverbs: from Nibru,Ni 4166,B5,sux:e₂[house(hold)]N sux:du₃[to-erect]Vc.6.2.1,Proverbs: from Nibru,Ni 4166,B6,c.6.2.1,Proverbs: from Nibru,Ni 4166,B7,sux:banšur[(offering)-table]N sux:kalag[to-be-strong]Vc.6.2.1,Proverbs: from Nibru,Ni 4166,B8,sux:za-pa-aŋ₂[noise]Nc.6.2.1,Proverbs: from Nibru,Ni 4166,B9,sux:ur-mah[lion]N sux:til[to-complete]V sux:mu₂[to-grow]Vc.6.2.1,Proverbs: from Nibru,Ni 4166,B10,sux:gu₂[neck]N sux:kaš₄[to-run]Vc.6.2.1,Proverbs: from Nibru,Ni 4166,B11,sux:du₃[to-erect]Vc.6.2.1,Proverbs: from Nibru,Ni 4166,B12,sux:e₃[to-go-out-or-in]Vc.6.2.1,Proverbs: from Nibru,Ni 4166,B13,sux:dam-gara₃[merchant]N sux:us₂[to-be-adjacent]Vc.6.2.1,Proverbs: from Nibru,Ni 4166,B14,sux:a[water]N sux:e₂-gal[palace]N sux:e₃[to-go-out-or-in]Vc.6.2.1,Proverbs: from Nibru,Ni 4166,B15,c.6.2.1,Proverbs: from Nibru,Ni 4166,B16,c.6.2.1,Proverbs: from Nibru,Ni 4166,B17,c.6.2.1,Proverbs: from Nibru,Ni 4166,C1,sux:e₂[house(hold)]Nc.6.2.1,Proverbs: from Nibru,Ni 4166,C2,sux:iri[town]N sux:ŋar[to-place]Vc.6.2.1,Proverbs: from Nibru,Ni 4166,C3,sux:sas[type-of-grass]N sux:ga[milk]N sux:hi-iz[lettuce]Nc.6.2.1,Proverbs: from Nibru,Ni 4166,C4,sux:hi[to-mix-up]Vc.6.2.1,Proverbs: from Nibru,Ni 4166,C5,sux:ad-KID[basket-weaver]N sux:gaba[chest]N sux:ud[storm]N sux:šar₂[to-be-numerous]Vc.6.2.1,Proverbs: from Nibru,Ni 4166,C6,sux:šar₂[to-be-numerous]Vc.6.2.1,Proverbs: from Nibru,Ni 4166,C7,sux:a₂[arm]N sux:du₇[to-push]Vc.6.2.1,Proverbs: from Nibru,Ni 4166,C8,sux:niŋ₂-u₂-rum[property]Nc.6.2.1,Proverbs: from Nibru,Ni 4166,C9,c.6.2.1,Proverbs: from Nibru,Ni 4166,C10,c.6.2.1,Proverbs: from Nibru,Ni 4166,C11,c.6.2.1,Proverbs: from Nibru,Ni 4166,C12,c.6.2.1,Proverbs: from Nibru,Ni 4166,C13,c.6.2.1,Proverbs: from Nibru,N 4248,A1,c.6.2.1,Proverbs: from Nibru,N 4248,A2,c.6.2.1,Proverbs: from Nibru,N 4248,A3,c.6.2.1,Proverbs: from Nibru,N 4248,A4,sux:BAD[BAD]Vc.6.2.1,Proverbs: from Nibru,N 4248,A5,sux:hal[to-divide-out]Vc.6.2.1,Proverbs: from Nibru,N 4248,A6,sux:la₂[to-hang]Vc.6.2.1,Proverbs: from Nibru,N 4248,A7,sux:pad₃[to-find]Vc.6.2.1,Proverbs: from Nibru,N 4248,A8,c.6.2.1,Proverbs: from Nibru,N 4248,A9,sux:kug[precious-metal]Nc.6.2.1,Proverbs: from Nibru,N 4248,A10,sux:kug-sig₁₇[gold]Nc.6.2.1,Proverbs: from Nibru,N 4248,A11,sux:dub-šen[treasure-chest]Nc.6.2.1,Proverbs: from Nibru,N 4248,A12,sux:dub-šen-dilim₂[type-of-chest]Nc.6.2.1,Proverbs: from Nibru,N 4248,A13,sux:ŋe₂₆[I]PD sux:til[to-complete]Vc.6.2.1,Proverbs: from Nibru,N 4248,A14,sux:dug₃[to-be-good]Vc.6.2.1,Proverbs: from Nibru,N 4248,A15,sux:gu₇[to-eat]Vc.6.2.1,Proverbs: from Nibru,N 4248,B1,c.6.2.1,Proverbs: from Nibru,N 4248,B2,c.6.2.1,Proverbs: from Nibru,N 4248,B3,c.6.2.1,Proverbs: from Nibru,N 4248,B4,c.6.2.1,Proverbs: from Nibru,N 4248,B5,sux:hur[to-scratch]Vc.6.2.1,Proverbs: from Nibru,N 4248,B6,sux:an[heaven]Nc.6.2.1,Proverbs: from Nibru,N 4248,B7,sux:nin[lady]Nc.6.2.1,Proverbs: from Nibru,N 4248,B8,c.6.2.1,Proverbs: from Nibru,N 4248,B9,c.6.2.1,Proverbs: from Nibru,N 3395,A1,c.6.2.1,Proverbs: from Nibru,N 3395,A2,sux:du₈[to-spread]V sux:šukur₂[ration]N sux:ŋar[to-place]Vc.6.2.1,Proverbs: from Nibru,N 3395,A3,sux:e-ri-in[meaning-unknown]Nc.6.2.1,Proverbs: from Nibru,N 3395,A4,sux:di-bi-da[donkey]N sux:Anšan[1]GNc.6.2.1,Proverbs: from Nibru,N 3395,A5,sux:dim₃-šah₂[bear?]N sux:Marhaši[1]GNc.6.2.1,Proverbs: from Nibru,N 3395,A6,sux:gul-lum[cat]N sux:Meluha[1]GNc.6.2.1,Proverbs: from Nibru,N 3395,A7,sux:til-lu-ug[elephant]N sux:Eastern mountains[1]GNc.6.2.1,Proverbs: from Nibru,N 3395,A8,sux:asal₂[poplar]N sux:ga-raš[leek]N sux:šab[to-slash]Vc.6.2.1,Proverbs: from Nibru,N 3395,A9,sux:al[hoe]N sux:im-NI-sahar[type-of-clay]N sux:ŋar[to-place]V sux:nin-kilim[mongoose]N sux:iri[town]Nc.6.2.1,Proverbs: from Nibru,N 3395,B1,sux:inim[word]N sux:ŋar[to-place]V sux:1/2[1/2]NU sux:gur[capacity-measure]N sux:šag₄[heart]N sux:edin[open-country]Nc.6.2.1,Proverbs: from Nibru,N 3395,B2,sux:en[lord]N sux:dab₅[to-seize]Vc.6.2.1,Proverbs: from Nibru,N 3395,B3,sux:šu[hand]N sux:us₂[to-be-adjacent]Vc.6.2.1,Proverbs: from Nibru,N 3395,B4,sux:ki[place]N sux:la₂[to-hang]Vc.6.2.1,Proverbs: from Nibru,N 3395,B5,sux:ki-in-du[(stretch-of)-earth]N sux:hur[to-scratch]Vc.6.2.1,Proverbs: from Nibru,N 3395,B6,sux:kar-ke₄[prostitute]N sux:gi-dub-ba[stylus]N sux:sila[street]N sux:šub[to-fall]Vc.6.2.1,Proverbs: from Nibru,N 3395,B7,sux:lu₂[person]N sux:šub[to-fall]V sux:ŋar[to-place]Vc.6.2.1,Proverbs: from Nibru,N 3395,B8,sux:anše[donkey]N sux:edin[open-country]N sux:lul[to-be-false]V sux:ŋar[to-place]Vc.6.2.1,Proverbs: from Nibru,N 3395,B9,sux:NIM[NIM]Vc.6.2.1,Proverbs: from Nibru,N 3395,B10,sux:lahtan[vat]N sux:ud[day(light)]N sux:šu₂[to-cover]Vc.6.2.1,Proverbs: from Nibru,N 3395,B11,sux:ki-umun₂[place-of-learning]N sux:giri₁₇[nose]N sux:šu[hand]N sux:du₈[to-spread]Vc.6.2.1,Proverbs: from Nibru,N 3395,B12,sux:gi-ru[meaning-unknown]Vc.6.2.1,Proverbs: from Nibru,N 3395,B13,c.6.2.1,Proverbs: from Nibru,Ni 4469,A1,sux:me[to-be]Vc.6.2.1,Proverbs: from Nibru,Ni 4469,A2,sux:ninda[bread]N sux:niŋ₂-u₂-zug₄[polluted-item]Nc.6.2.1,Proverbs: from Nibru,Ni 4469,A3,sux:me[to-be]Vc.6.2.1,Proverbs: from Nibru,Ni 4469,A4,sux:lu₂[person]N sux:šu₂[to-cover]Vc.6.2.1,Proverbs: from Nibru,Ni 4469,A5,sux:dub[tablet]Nc.6.2.1,Proverbs: from Nibru,Ni 4469,A6,c.6.2.1,Proverbs: from Nibru,Ni 4469,A7,c.6.2.1,Proverbs: from Nibru,Ni 4469,A8,c.6.2.1,Proverbs: from Nibru,Ni 4469,A9,sux:Simurrum[1]SN sux:dab₅[to-seize]V sux:bad₃[wall]N sux:gul[to-destroy]Vc.6.2.1,Proverbs: from Nibru,Ni 4469,A10,sux:E-ana[1]TN sux:du₃[to-erect]V sux:šub[to-fall]Vc.6.2.1,Proverbs: from Nibru,Ni 4469,A11,sux:nam-lugal[kingship]N sux:kalag[to-be-strong]V sux:igi[eye]N sux:du₈[to-spread]Vc.6.2.1,Proverbs: from Nibru,Ni 4469,A12,sux:ur₅[that]PD sux:Nanni[1]RN sux:šag₄[heart]N sux:sig[to-be-low]V sux:kur[(mountain)-land]N sux:de₆[to-carry]Vc.6.2.1,Proverbs: from Nibru,Ni 4469,B1,c.6.2.1,Proverbs: from Nibru,Ni 4469,B2,c.6.2.1,Proverbs: from Nibru,Ni 4469,B3,c.6.2.1,Proverbs: from Nibru,Ni 4469,B4,c.6.2.1,Proverbs: from Nibru,Ni 4469,B5,sux:gabu₂[left-(side)]Nc.6.2.1,Proverbs: from Nibru,Ni 4469,B6,sux:ar₂[ruin-(mound)]N sux:lu₂[person]Nc.6.2.1,Proverbs: from Nibru,Ni 4469,B7,sux:a-na-aš[why]AV sux:saŋ[head]Nc.6.2.1,Proverbs: from Nibru,Ni 4469,C1,c.6.2.1,Proverbs: from Nibru,Ni 4469,C2,sux:SU[SU]Vc.6.2.1,Proverbs: from Nibru,Ni 4469,C3,c.6.2.1,Proverbs: from Nibru,Ni 13186,A1,c.6.2.1,Proverbs: from Nibru,Ni 13186,A2,c.6.2.1,Proverbs: from Nibru,Ni 13186,A3,c.6.2.1,Proverbs: from Nibru,Ni 13186,A4,c.6.2.1,Proverbs: from Nibru,Ni 13186,A5,sux:maš₂[(kid)-goat]N sux:šu[hand]Nc.6.2.1,Proverbs: from Nibru,Ni 13186,A6,c.6.2.1,Proverbs: from Nibru,Ni 13186,A7,sux:šu[hand]N sux:gid₂[to-be-long]Vc.6.2.1,Proverbs: from Nibru,Ni 13186,A8,sux:1/3[1/3]NUc.6.2.1,Proverbs: from Nibru,Ni 13186,A9,c.6.2.1,Proverbs: from Nibru,Ni 13186,B1,sux:lu₂[person]Nc.6.2.1,Proverbs: from Nibru,Ni 13186,B2,sux:lu₂[person]N sux:me[to-be]Vc.6.2.1,Proverbs: from Nibru,Ni 13186,B3,c.6.2.1,Proverbs: from Nibru,Ni 13186,B4,c.6.2.1,Proverbs: from Nibru,Ni 13186,B5,c.6.2.1,Proverbs: from Nibru,Ni 13186,B6,c.6.2.1,Proverbs: from Nibru,Ni 9697,A1,c.6.2.1,Proverbs: from Nibru,Ni 9697,A2,c.6.2.1,Proverbs: from Nibru,Ni 9697,A3,sux:kiŋ₂[to-seek]Vc.6.2.1,Proverbs: from Nibru,Ni 9697,A4,sux:gi₄[to-return]Vc.6.2.1,Proverbs: from Nibru,Ni 9697,A5,sux:e₂[house(hold)]N sux:gi₄[to-return]Vc.6.2.1,Proverbs: from Nibru,Ni 9697,A6,sux:lu₂[person]N sux:gaba-ŋal₂[forceful]AJc.6.2.1,Proverbs: from Nibru,Ni 9697,A7,sux:šu[hand]N sux:gur[to-turn]Vc.6.2.1,Proverbs: from Nibru,Ni 9697,B1,sux:kud[to-cut]Vc.6.2.1,Proverbs: from Nibru,Ni 9697,B2,sux:tur₅[to-be-ill]Vc.6.2.1,Proverbs: from Nibru,Ni 9697,B3,sux:sam₂[to-barter]Vc.6.2.1,Proverbs: from Nibru,Ni 9697,B4,sux:uš₂[to-die]Vc.6.2.1,Proverbs: from Nibru,Ni 9697,B5,sux:du₈[to-spread]Vc.6.2.1,Proverbs: from Nibru,Ni 9697,B6,c.6.2.1,Proverbs: from Nibru,Ni 9824,A1,sux:me[essence]N sux:ha-lam[to-be-lost]Vc.6.2.1,Proverbs: from Nibru,Ni 9824,A2,sux:gud[bull]N sux:ki-gub[location]N sux:kur₂[to-be-different]Vc.6.2.1,Proverbs: from Nibru,Ni 9824,A3,sux:gud[bull]N sux:DU[DU]V sux:tukul[weapon]N sux:a-ab-ba[sea(water)]Nc.6.2.1,Proverbs: from Nibru,Ni 9824,A4,sux:a[water]N sux:igi[eye]N sux:bar[to-set-aside]V sux:nam-tar[destiny]N sux:dib[to-pass]Vc.6.2.1,Proverbs: from Nibru,Ni 9824,A5,c.6.2.1,Proverbs: from Nibru,Ni 9824,B1,c.6.2.1,Proverbs: from Nibru,Ni 9824,B2,c.6.2.1,Proverbs: from Nibru,Ni 9824,B3,c.6.2.1,Proverbs: from Nibru,Ni 9824,B4,c.6.2.1,Proverbs: from Nibru,Ni 9824,B5,sux:ŋe₂₆[I]PD sux:til[to-complete]Vc.6.2.1,Proverbs: from Nibru,Ni 9824,C1,sux:e₂-kinkin[mill]N sux:du₁₄[discord]N sux:ŋal₂[to-be-(located)]Vc.6.2.1,Proverbs: from Nibru,Ni 9824,C2,sux:geme₂[female-slave]N sux:niŋ₂[thing]N sux:zuh[to-steal]Vc.6.2.1,Proverbs: from Nibru,Ni 9824,C3,sux:ed₃[to-go-down-or-up]Vc.6.2.1,Proverbs: from Nibru,Ni 9832,A1,c.6.2.1,Proverbs: from Nibru,Ni 9832,A2,sux:me[to-be]Vc.6.2.1,Proverbs: from Nibru,Ni 9832,A3,sux:šag₄[heart]Nc.6.2.1,Proverbs: from Nibru,Ni 9832,A4,c.6.2.1,Proverbs: from Nibru,Ni 9832,B1,c.6.2.1,Proverbs: from Nibru,Ni 9832,B2,sux:ŋiri₃[foot]Nc.6.2.1,Proverbs: from Nibru,Ni 9832,B3,sux:pad₃[to-find]Vc.6.2.1,Proverbs: from Nibru,Ni 9832,B4,c.6.2.1,Proverbs: from Nibru,Ni 9832,B5,sux:šu-si[finger]Nc.6.2.1,Proverbs: from Nibru,Ni 9832,B6,sux:kinkin[grindstone]N sux:bur₁₂[to-tear-out]Vc.6.2.1,Proverbs: from Nibru,Ni 9832,B7,sux:du₇[to-push]Vc.6.2.1,Proverbs: from Nibru,N 6119 and N 4047,1,sux:gu₇[to-eat]V
 c.6.2.1,Proverbs: from Nibru,N 6119 and N 4047,2,sux:saŋ[head]N sux:a-tar[mockery]N sux:nam-ŋu₁₀[what-is-it-to-me]PD
 c.6.2.1,Proverbs: from Nibru,N 6119 and N 4047,3,sux:niŋ₂-kas₇[account]N
 c.6.2.1,Proverbs: from Nibru,N 6119 and N 4047,4,sux:ak[to-do]V
@@ -170,17 +9,7 @@ c.6.2.1,Proverbs: from Nibru,N 6119 and N 4047,7,sux:50[50]NU sux:ma-na[weight-m
 c.6.2.1,Proverbs: from Nibru,N 6119 and N 4047,8,sux:ud-da-tuš[buffoon]N sux:ugu[skull]N sux:iri[town]N sux:a-tar[mockery]N sux:ak[to-do]V
 c.6.2.1,Proverbs: from Nibru,N 6119 and N 4047,9,sux:ugu[skull]N sux:a-tar[mockery]N sux:ak[to-do]V
 c.6.2.1,Proverbs: from Nibru,N 6119 and N 4047,10,sux:er₂[tear]N sux:šeš₂[to-weep]V
-c.6.2.1,Proverbs: from Nibru,Ni 3318,A1,
-c.6.2.1,Proverbs: from Nibru,Ni 3318,A2,sux:ka₅-a[fox]N sux:šag₄[heart]N sux:sud[to-be-distant]V
-c.6.2.1,Proverbs: from Nibru,Ni 3318,A3,sux:ubur[breast]N sux:ama[mother]N sux:had₂[to-be-dry]V
-c.6.2.1,Proverbs: from Nibru,Ni 3318,A4,sux:ka₅-a[fox]N sux:ama[mother]N
-c.6.2.1,Proverbs: from Nibru,Ni 3318,A5,sux:dirig[to-be-superior]V
-c.6.2.1,Proverbs: from Nibru,Ni 3318,A6,sux:ka₅-a[fox]N sux:ŋeštug₂[ear]N
-c.6.2.1,Proverbs: from Nibru,Ni 3318,B1,
-c.6.2.1,Proverbs: from Nibru,Ni 3318,B2,
-c.6.2.1,Proverbs: from Nibru,Ni 3318,B3,sux:šag₄[heart]N
-c.6.2.1,Proverbs: from Nibru,Ni 3318,B4,
-c.6.2.1,Proverbs: from Nibru,Ni 4338 + 4340,1,
+c.6.2.1,Proverbs: from Nibru,Ni 3318,A1,c.6.2.1,Proverbs: from Nibru,Ni 3318,A2,sux:ka₅-a[fox]N sux:šag₄[heart]N sux:sud[to-be-distant]Vc.6.2.1,Proverbs: from Nibru,Ni 3318,A3,sux:ubur[breast]N sux:ama[mother]N sux:had₂[to-be-dry]Vc.6.2.1,Proverbs: from Nibru,Ni 3318,A4,sux:ka₅-a[fox]N sux:ama[mother]Nc.6.2.1,Proverbs: from Nibru,Ni 3318,A5,sux:dirig[to-be-superior]Vc.6.2.1,Proverbs: from Nibru,Ni 3318,A6,sux:ka₅-a[fox]N sux:ŋeštug₂[ear]Nc.6.2.1,Proverbs: from Nibru,Ni 3318,B1,c.6.2.1,Proverbs: from Nibru,Ni 3318,B2,c.6.2.1,Proverbs: from Nibru,Ni 3318,B3,sux:šag₄[heart]Nc.6.2.1,Proverbs: from Nibru,Ni 3318,B4,c.6.2.1,Proverbs: from Nibru,Ni 4338 + 4340,1,
 c.6.2.1,Proverbs: from Nibru,Ni 4338 + 4340,2,sux:igi[eye]N sux:du₈[to-spread]V
 c.6.2.1,Proverbs: from Nibru,Ni 4338 + 4340,3,sux:genna[child]N sux:a-ba[who]PD
 c.6.2.1,Proverbs: from Nibru,Ni 4338 + 4340,4,sux:me[to-be]V
@@ -199,16 +28,7 @@ c.6.2.1,Proverbs: from Nibru,Ni 4122,6,
 c.6.2.1,Proverbs: from Nibru,Ni 4122,7,
 c.6.2.1,Proverbs: from Nibru,Ni 4122,8,
 c.6.2.1,Proverbs: from Nibru,Ni 4122,9,
-c.6.2.1,Proverbs: from Nibru,Ni 4300,A1,
-c.6.2.1,Proverbs: from Nibru,Ni 4300,A2,
-c.6.2.1,Proverbs: from Nibru,Ni 4300,A3,
-c.6.2.1,Proverbs: from Nibru,Ni 4300,A4,sux:nam-tar[destiny]N sux:gu₃[voice]N sux:ama[mother]N sux:kur₂[to-be-different]V
-c.6.2.1,Proverbs: from Nibru,Ni 4300,A5,
-c.6.2.1,Proverbs: from Nibru,Ni 4300,A6,
-c.6.2.1,Proverbs: from Nibru,Ni 4300,A7,
-c.6.2.1,Proverbs: from Nibru,Ni 4300,A8,
-c.6.2.1,Proverbs: from Nibru,Ni 4300,B1,
-c.6.2.1,Proverbs: from Nibru,Ni 5327,1,sux:ha-mun[type-of-bird]N
+c.6.2.1,Proverbs: from Nibru,Ni 4300,A1,c.6.2.1,Proverbs: from Nibru,Ni 4300,A2,c.6.2.1,Proverbs: from Nibru,Ni 4300,A3,c.6.2.1,Proverbs: from Nibru,Ni 4300,A4,sux:nam-tar[destiny]N sux:gu₃[voice]N sux:ama[mother]N sux:kur₂[to-be-different]Vc.6.2.1,Proverbs: from Nibru,Ni 4300,A5,c.6.2.1,Proverbs: from Nibru,Ni 4300,A6,c.6.2.1,Proverbs: from Nibru,Ni 4300,A7,c.6.2.1,Proverbs: from Nibru,Ni 4300,A8,c.6.2.1,Proverbs: from Nibru,Ni 4300,B1,c.6.2.1,Proverbs: from Nibru,Ni 5327,1,sux:ha-mun[type-of-bird]N
 c.6.2.1,Proverbs: from Nibru,Ni 5327,2,sux:tilla₂[town-square]N
 c.6.2.1,Proverbs: from Nibru,Ni 5327,3,sux:ha-mun[type-of-bird]N
 c.6.2.1,Proverbs: from Nibru,Ni 5327,4,

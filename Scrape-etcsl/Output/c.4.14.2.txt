@@ -1,26 +1,2 @@
 id_text,text_name,version,l_no,text
-c.4.14.2,A balbale to Nanše (Nanše B),,A1,sux:šu[hand]N sux:du₇[to-be-perfect]V
-c.4.14.2,A balbale to Nanše (Nanše B),,A2,
-c.4.14.2,A balbale to Nanše (Nanše B),,B1,sux:ku₆[fish]N sux:ŋidru[sceptre]N sux:šu[hand]N sux:ŋal₂[to-be-(located)]V sux:me[essence]N
-c.4.14.2,A balbale to Nanše (Nanše B),,B2,sux:ku₆[fish]N sux:e-sir₂[sandal]N sux:ŋiri₃[foot]N sux:sig₉[to-put]V sux:me[essence]N
-c.4.14.2,A balbale to Nanše (Nanše B),,B3,sux:ku₆[fish]N sux:izi[fire]N sux:ab-šag₄[centre-of-sea]N sux:zalag[to-be-shining]V sux:me[essence]N
-c.4.14.2,A balbale to Nanše (Nanše B),,B4,sux:ku₆[fish]N sux:sur₉[type-of-priest]N sux:du₁₂[to-perform-(music)]V
-c.4.14.2,A balbale to Nanše (Nanše B),,B5,sux:ku₆[fish]N sux:gud[bull]N sux:gu₃[voice]N sux:nun[prince]N sux:dug₄[to-say]V
-c.4.14.2,A balbale to Nanše (Nanše B),,B6,sux:ku₆[fish]N sux:tug₂-ba₁₃[type-of-garment]N sux:šag₄[heart]N sux:la₂[to-hang]V
-c.4.14.2,A balbale to Nanše (Nanše B),,B7,sux:kaš₄-kaš₄[type-of-fish]N sux:kaš₄[to-run]V sux:kar[to-flee]V
-c.4.14.2,A balbale to Nanše (Nanše B),,B8,sux:gur₄-gur₄[type-of-fish]N sux:ab[sea]N sux:gur₄[to-be-thick]V
-c.4.14.2,A balbale to Nanše (Nanše B),,B9,sux:ŋir₂[type-of-fish]N sux:ab[sea]N sux:ŋir₂[to-flash]V
-c.4.14.2,A balbale to Nanše (Nanše B),,B10,sux:agargara[fish-spawn]N sux:zar[sheaf]N sux:du₈[to-spread]V
-c.4.14.2,A balbale to Nanše (Nanše B),,B11,sux:ku₆[fish]N sux:ab[sea]N sux:mu₂[to-grow]V
-c.4.14.2,A balbale to Nanše (Nanše B),,B12,sux:ku₆[fish]N sux:sim[swallow]N sux:dal[to-fly]V
-c.4.14.2,A balbale to Nanše (Nanše B),,B13,sux-x-emesal:ga-ša-an[lady]N sux:ma₂-gur₈[processional-boat]N sux:u₅[to-ride]V sux-x-emesal:me[I]PD sux:e₂[house(hold)]N sux:u₅[to-ride]V
-c.4.14.2,A balbale to Nanše (Nanše B),,B14,sux:ma₂[boat]N sux:si[horn]N sux:u₅[to-ride]V sux-x-emesal:me[I]PD sux:e₂[house(hold)]N sux:u₅[to-ride]V
-c.4.14.2,A balbale to Nanše (Nanše B),,B15,sux:a₂-sumur₂[canopy]N sux:kug-sig₁₇[gold]N sux:šim[aromatic-(fragrance)]N sux:erin[cedar]N
-c.4.14.2,A balbale to Nanše (Nanše B),,B16,sux:ab[sea]N sux:ŋir₂[to-flash]V
-c.4.14.2,A balbale to Nanše (Nanše B),,B17,sux:ŋiš-hum[bench]N sux:itid[moon(light)]N sux:giri₁₇-zal[joy]N
-c.4.14.2,A balbale to Nanše (Nanše B),,B18,sux:ab[sea]N sux:dadag[to-be-bright]V
-c.4.14.2,A balbale to Nanše (Nanše B),,B19,sux-x-emesal:mu-ud-na[spouse]N sux-x-emesal:mu-un-kud[fisheries-inspector]N sux:ab[sea]N
-c.4.14.2,A balbale to Nanše (Nanše B),,B20,sux-x-emesal:Nindara[1]DN sux-x-emesal:mu-un-kud[fisheries-inspector]N sux:ab[sea]N
-c.4.14.2,A balbale to Nanše (Nanše B),,B21,sux:e₂[house(hold)]N sux:ud[day(light)]N
-c.4.14.2,A balbale to Nanše (Nanše B),,B22,sux:a-a[father]N
-c.4.14.2,A balbale to Nanše (Nanše B),,B23,sux:bal-bal-e[type-of-composition]N sux:Nanše[1]DN
+c.4.14.2,A balbale to Nanše (Nanše B),,A1,sux:šu[hand]N sux:du₇[to-be-perfect]Vc.4.14.2,A balbale to Nanše (Nanše B),,A2,c.4.14.2,A balbale to Nanše (Nanše B),,B1,sux:ku₆[fish]N sux:ŋidru[sceptre]N sux:šu[hand]N sux:ŋal₂[to-be-(located)]V sux:me[essence]Nc.4.14.2,A balbale to Nanše (Nanše B),,B2,sux:ku₆[fish]N sux:e-sir₂[sandal]N sux:ŋiri₃[foot]N sux:sig₉[to-put]V sux:me[essence]Nc.4.14.2,A balbale to Nanše (Nanše B),,B3,sux:ku₆[fish]N sux:izi[fire]N sux:ab-šag₄[centre-of-sea]N sux:zalag[to-be-shining]V sux:me[essence]Nc.4.14.2,A balbale to Nanše (Nanše B),,B4,sux:ku₆[fish]N sux:sur₉[type-of-priest]N sux:du₁₂[to-perform-(music)]Vc.4.14.2,A balbale to Nanše (Nanše B),,B5,sux:ku₆[fish]N sux:gud[bull]N sux:gu₃[voice]N sux:nun[prince]N sux:dug₄[to-say]Vc.4.14.2,A balbale to Nanše (Nanše B),,B6,sux:ku₆[fish]N sux:tug₂-ba₁₃[type-of-garment]N sux:šag₄[heart]N sux:la₂[to-hang]Vc.4.14.2,A balbale to Nanše (Nanše B),,B7,sux:kaš₄-kaš₄[type-of-fish]N sux:kaš₄[to-run]V sux:kar[to-flee]Vc.4.14.2,A balbale to Nanše (Nanše B),,B8,sux:gur₄-gur₄[type-of-fish]N sux:ab[sea]N sux:gur₄[to-be-thick]Vc.4.14.2,A balbale to Nanše (Nanše B),,B9,sux:ŋir₂[type-of-fish]N sux:ab[sea]N sux:ŋir₂[to-flash]Vc.4.14.2,A balbale to Nanše (Nanše B),,B10,sux:agargara[fish-spawn]N sux:zar[sheaf]N sux:du₈[to-spread]Vc.4.14.2,A balbale to Nanše (Nanše B),,B11,sux:ku₆[fish]N sux:ab[sea]N sux:mu₂[to-grow]Vc.4.14.2,A balbale to Nanše (Nanše B),,B12,sux:ku₆[fish]N sux:sim[swallow]N sux:dal[to-fly]Vc.4.14.2,A balbale to Nanše (Nanše B),,B13,sux-x-emesal:ga-ša-an[lady]N sux:ma₂-gur₈[processional-boat]N sux:u₅[to-ride]V sux-x-emesal:me[I]PD sux:e₂[house(hold)]N sux:u₅[to-ride]Vc.4.14.2,A balbale to Nanše (Nanše B),,B14,sux:ma₂[boat]N sux:si[horn]N sux:u₅[to-ride]V sux-x-emesal:me[I]PD sux:e₂[house(hold)]N sux:u₅[to-ride]Vc.4.14.2,A balbale to Nanše (Nanše B),,B15,sux:a₂-sumur₂[canopy]N sux:kug-sig₁₇[gold]N sux:šim[aromatic-(fragrance)]N sux:erin[cedar]Nc.4.14.2,A balbale to Nanše (Nanše B),,B16,sux:ab[sea]N sux:ŋir₂[to-flash]Vc.4.14.2,A balbale to Nanše (Nanše B),,B17,sux:ŋiš-hum[bench]N sux:itid[moon(light)]N sux:giri₁₇-zal[joy]Nc.4.14.2,A balbale to Nanše (Nanše B),,B18,sux:ab[sea]N sux:dadag[to-be-bright]Vc.4.14.2,A balbale to Nanše (Nanše B),,B19,sux-x-emesal:mu-ud-na[spouse]N sux-x-emesal:mu-un-kud[fisheries-inspector]N sux:ab[sea]Nc.4.14.2,A balbale to Nanše (Nanše B),,B20,sux-x-emesal:Nindara[1]DN sux-x-emesal:mu-un-kud[fisheries-inspector]N sux:ab[sea]Nc.4.14.2,A balbale to Nanše (Nanše B),,B21,sux:e₂[house(hold)]N sux:ud[day(light)]Nc.4.14.2,A balbale to Nanše (Nanše B),,B22,sux:a-a[father]Nc.4.14.2,A balbale to Nanše (Nanše B),,B23,sux:bal-bal-e[type-of-composition]N sux:Nanše[1]DN
