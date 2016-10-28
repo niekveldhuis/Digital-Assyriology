@@ -1,0 +1,43 @@
+id_text,text_name,l_no,text
+riao/Q005842,Tukulti-Ninurta I 06,1,Tukulti-Ninurta_I[king-of-Assyria]RN šarru[king]N kiššatu[totality]N šarru[king]N dannu[strong]AJ
+riao/Q005842,Tukulti-Ninurta I 06,2,šarru[king]N mātu[land]N Aššur[Assyria]GN kāšidu[conqueror]N muštarhu[presumptuous-one]N
+riao/Q005842,Tukulti-Ninurta I 06,3,lā[not]MOD māgiru[submissive-one]N zāʾeru[enemy]N Aššur[1]DN
+riao/Q005842,Tukulti-Ninurta I 06,4,nêru[killer]N Uqumanu[1]GN
+riao/Q005842,Tukulti-Ninurta I 06,5,u[and]CNJ Paphu[1]GN lā[not]MOD kanšu[submissive-one]N puhru[assembly]N
+riao/Q005842,Tukulti-Ninurta I 06,6,targīgu[evildoer]N dāʾišu[thresher]N Katmuhu[1]GN
+riao/Q005842,Tukulti-Ninurta I 06,7,ummānu[military-force]N Qutu[Gutians]EN pušqu[distress]N
+riao/Q005842,Tukulti-Ninurta I 06,8,huršānu[mountain(s)]N musappihu[scatterer]N illatu[band]N
+riao/Q005842,Tukulti-Ninurta I 06,9,Šubaru[1]EN adi[until]PRP pāṭu[edge]N gimru[totality]N
+riao/Q005842,Tukulti-Ninurta I 06,10,sāpinu[flattener]N Alzu[1]GN Purulumzu[1]GN
+riao/Q005842,Tukulti-Ninurta I 06,11,sehru[bend]N lā[not]MOD kanšu[submissive-one]N rubû[ruler]N kīnu[permanent]AJ
+riao/Q005842,Tukulti-Ninurta I 06,12,ša[that]REL ina[in]PRP tukultu[trust]N Aššur[1]DN u[and]CNJ ilu[god]N
+riao/Q005842,Tukulti-Ninurta I 06,13,rabû[great]AJ ina[in]PRP kibru[bank]N alāku[go]V
+riao/Q005842,Tukulti-Ninurta I 06,14,munehhu[who-repulses]N u[and]CNJ gabarû[copy]N lā[not]MOD išû[have]V
+riao/Q005842,Tukulti-Ninurta I 06,15,ṣābitu[recipient]N miṣru[border]N nakru[enemy]N eliš[above]AV
+riao/Q005842,Tukulti-Ninurta I 06,16,u[and]CNJ šapliš[below]AV šarru[king]N dannu[strong]AJ lēʾû[powerful-one]N qablu[battle]N
+riao/Q005842,Tukulti-Ninurta I 06,17,ša[that]REL kullatu[totality]N mātu[land]N Nairi[1]GN bêlu[rule-(over)]V
+riao/Q005842,Tukulti-Ninurta I 06,18,šarru[king]N šāpiru[giver-of-instructions]N ana[to]PRP šēpu[foot]N
+riao/Q005842,Tukulti-Ninurta I 06,19,kanāšu[bow-down]V Azalzi[1]GN Šepardi[1]GN
+riao/Q005842,Tukulti-Ninurta I 06,20,ana[to]PRP miṣru[border]N mātu[land]N šakānu[put]V
+riao/Q005842,Tukulti-Ninurta I 06,21,dabdû[defeat]N mātu[land]N Šumeru[Sumer]GN u[and]CNJ Akkad[1]GN
+riao/Q005842,Tukulti-Ninurta I 06,22,lītu[victory]N ana[to]PRP ahrītu[later-time]N
+riao/Q005842,Tukulti-Ninurta I 06,23,wapû[be(come)-visible]V Kaštiliašu[foreign-ruler]RN
+riao/Q005842,Tukulti-Ninurta I 06,24,šarru[king]N Kaššu[Kassite]EN qātu[hand]N kašādu[reach]V
+riao/Q005842,Tukulti-Ninurta I 06,25,māru[son]N Salmanu-ašared_I[Shalmaneser-I;-son-of-Adad-narari-I;-king-of-Assyria]RN šarru[king]N mātu[land]N Aššur[Assyria]GN
+riao/Q005842,Tukulti-Ninurta I 06,26,māru[son]N Adad-narari_I[king-of-Assyria]RN šarru[king]N mātu[land]N Aššur[Assyria]GN
+riao/Q005842,Tukulti-Ninurta I 06,27,inūma[when]SBJ bītu[house]N ēkallu[palace]N
+riao/Q005842,Tukulti-Ninurta I 06,28,rabû[great]AJ ša[of]DET ālu[city]N Aššur[Ashur]SN
+riao/Q005842,Tukulti-Ninurta I 06,29,ša[that]REL pānu[front]N šadû[mountain]N ina[in]PRP mahru[front]N ziqqurratu[ziggurrat]N
+riao/Q005842,Tukulti-Ninurta I 06,30,rabû[great]AJ ša[of]DET Aššur[1]DN bēlu[lord]N ša[that]REL ina[in]PRP pāna[formerly]AV
+riao/Q005842,Tukulti-Ninurta I 06,31,Šulmanu-ašared_II[Shalmaneser-II;-king-of-Assyria]RN šaknu[appointee]N Enlil[1]DN iššiakku[city-ruler]N Aššur[1]DN
+riao/Q005842,Tukulti-Ninurta I 06,32,abu[father]N epēšu[do]V anāhu[be(come)-tired]V
+riao/Q005842,Tukulti-Ninurta I 06,33,anhūtu[tiredness]N nakāru[be(come)-different]V dannatu[fortified-(place)]N
+riao/Q005842,Tukulti-Ninurta I 06,34,kašādu[reach]V ištu[from]PRP uššu[foundation]N
+riao/Q005842,Tukulti-Ninurta I 06,35,adi[until]PRP gabadibbu[parapet]N šuklulu[complete]V
+riao/Q005842,Tukulti-Ninurta I 06,36,u[and]CNJ narû[stele]N šakānu[put]V rubû[ruler]N warkû[rear]AJ
+riao/Q005842,Tukulti-Ninurta I 06,37,anhūtu[tiredness]N edēšu[be(come)-new]V šumu[name]N šaṭru[written]AJ ana[to]PRP ašru[place]N
+riao/Q005842,Tukulti-Ninurta I 06,38,târu[turn]V Aššur[1]DN ikribu[prayer]N
+riao/Q005842,Tukulti-Ninurta I 06,39,šemû[hear]V munakkiru[one-who-alters-something]N
+riao/Q005842,Tukulti-Ninurta I 06,40,šiṭru[(piece-of)-writing]N u[and]CNJ šumu[name]N Aššur[1]DN
+riao/Q005842,Tukulti-Ninurta I 06,41,bēlu[lord]N šarrūtu[kingship]N sakāpu[push-down]V šumu[name]N zēru[seed(s)]N
+riao/Q005842,Tukulti-Ninurta I 06,42,ina[in]PRP mātu[land]N halāqu[be(come)-lost]V

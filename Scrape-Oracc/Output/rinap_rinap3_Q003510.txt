@@ -1,0 +1,38 @@
+id_text,text_name,l_no,text
+rinap/rinap3/Q003510,Sennacherib 036,o 1,Aššur[1]DN šadû[mountain]N rabû[great]AJ abu[father]N ilu[god]N mušimmu[one-who-determines]N šīmtu[what-is-fixed]N
+rinap/rinap3/Q003510,Sennacherib 036,o 2,malku[prince]N ramānu[self]N Anu[1]DN Enlil[1]DN Ea[1]DN
+rinap/rinap3/Q003510,Sennacherib 036,o 3,uṣurtu[drawing]N šamû[heaven]N u[and]CNJ erṣetu[earth]N muʾaddû[one-who-designates]N Sin[1]DN
+rinap/rinap3/Q003510,Sennacherib 036,o 4,eddēšû[constantly-self-renewing]AJ ilu[god]N ellu[pure]AJ ša[that]REL ittu[sign]N lā[not]MOD lamādu[learn]V
+rinap/rinap3/Q003510,Sennacherib 036,o 5,pārisu[one-who-decides]N purussû[(legal)-decision]N mušaklimu[one-who-reveals]N ṣaddu[(wooden)-signal]N Šamaš[1]DN
+rinap/rinap3/Q003510,Sennacherib 036,o 6,dikuggallu[chief-justice]N ilu[god]N rabû[great]AJ ša[that]REL namrīru[awe-inspiring-radiance]N bēlūtu[rule]N
+rinap/rinap3/Q003510,Sennacherib 036,o 7,mātu[land]N mātitān[all-countries]N Adad[1]DN gugallu[irrigation-controller]N šamû[heaven]N erṣetu[earth]N
+rinap/rinap3/Q003510,Sennacherib 036,o 8,mušabšû[one-who-calls-into-existence]N û[grain]N u[and]CNJ qû[flax]N mušparzihu[one-who-makes-abundant]N sattukku[regular-delivery]N
+rinap/rinap3/Q003510,Sennacherib 036,o 9,Šamaš[1]DN ittu[sign]N ša[that]REL ina[in]PRP balu[without]PRP
+rinap/rinap3/Q003510,Sennacherib 036,o 10,lā[not]MOD nabû[name]V malku[prince]N Nabu[1]DN šamû[heaven]N u[and]CNJ
+rinap/rinap3/Q003510,Sennacherib 036,o 11,erṣetu[earth]N sāniqu[controller]N mithurtu[convergence]N
+rinap/rinap3/Q003510,Sennacherib 036,o 12,Ninurta[1]DN aplu[heir]N Enlil[1]DN
+rinap/rinap3/Q003510,Sennacherib 036,o 13,mušattiru[one-who-demolishes]N šadû[mountain]N Ištar[1]DN
+rinap/rinap3/Q003510,Sennacherib 036,o 14,ana[to]PRP ilūtu[godhead]N rabû[great]AJ Sebetti[1]DN
+rinap/rinap3/Q003510,Sennacherib 036,o 15,ilu[god]N šurbûtu[greatness]N ša[that]REL idu[arm]N šarru[king]N pālihu[one-who-reveres]N
+rinap/rinap3/Q003510,Sennacherib 036,o 16,izuzzu[stand]V eli[on]PRP kullatu[totality]N nakru[enemy]N marāru[be(come)-bitter]V kakku[stick]N
+rinap/rinap3/Q003510,Sennacherib 036,o 17,Sin-ahhe-eriba[Sennacherib;-king-of-Assyria]RN
+rinap/rinap3/Q003510,Sennacherib 036,r 1',šarru[king]N abu[father]N mamman[somebody]XP lā[not]MOD šemû[hear]V zikru[utterance]N mātu[land]N
+rinap/rinap3/Q003510,Sennacherib 036,r 2',maddattu[payment]N kabtu[heavy]AJ mahāru[face]V ana[to]PRP nīru[yoke]N bēlūtu[rule]N kanāšu[bow-down]V
+rinap/rinap3/Q003510,Sennacherib 036,r 3',inūma[when]SBJ bītu[house]N
+rinap/rinap3/Q003510,Sennacherib 036,r 4',bītu[house]N Sin[1]DN bītu[house]N Ningal[1]DN bītu[house]N Šamaš[1]DN bītu[house]N Aya[1]DN
+rinap/rinap3/Q003510,Sennacherib 036,r 5',bītu[house]N Belet-Ninua[Lady-of-Nineveh]DN bēltu[lady]N rabû[great]AJ ša[that]REL Aššur-naṣir-apli[Ashurnasirpal-II;-king-of-Assyria]RN šarru[king]N mātu[land]N Aššur[Assyria]GN
+rinap/rinap3/Q003510,Sennacherib 036,r 6',māru[son]N Tukulti-Ninurta[Tukulti-Ninurta-II;-king-of-Assyria]RN šarru[king]N mātu[land]N Aššur[Assyria]GN epēšu[do]V bītu[house]N
+rinap/rinap3/Q003510,Sennacherib 036,r 7',šâtina[those]IP labāriš[to-become-old]AV ūmu[day]N
+rinap/rinap3/Q003510,Sennacherib 036,r 8',naqāru[demolish]V dannatu[fortified-(place)]N kašādu[reach]V uššu[foundation]N itti[with]PRP kiṣru[knot]N
+rinap/rinap3/Q003510,Sennacherib 036,r 9',šadû[mountain]N dannu[strong]AJ retû[drive-in]V ištu[from]PRP uššu[foundation]N adi[until]PRP gabadibbu[parapet]N raṣāpu[erect]V
+rinap/rinap3/Q003510,Sennacherib 036,r 10',šuklulu[complete]V ilu[god]N rabû[great]AJ
+rinap/rinap3/Q003510,Sennacherib 036,r 11',bēlu[lord]N ina[in]PRP qerbu[centre]N kiṣṣu[shrine]N
+rinap/rinap3/Q003510,Sennacherib 036,r 12',ṭābiš[well]AV ramû[set-in-place]V parakku[dais]N
+rinap/rinap3/Q003510,Sennacherib 036,r 13',līʾu[bull]N marû[fattened]AJ šû[sheep]N marû[fattened]AJ nīqu[offering]N
+rinap/rinap3/Q003510,Sennacherib 036,r 14',kadrû[present]N mahāru[face]V mahru[front]N
+rinap/rinap3/Q003510,Sennacherib 036,r 15',lītu[victory]N kišittu[achievement]N qātu[hand]N ša[that]REL ina[in]PRP tukultu[trust]N ilu[god]N rabû[great]AJ
+rinap/rinap3/Q003510,Sennacherib 036,r 16',bēlu[lord]N eli[on]PRP kullatu[totality]N nakru[enemy]N šakānu[put]V
+rinap/rinap3/Q003510,Sennacherib 036,r 17',ina[in]PRP mušarû[(royal)-inscription]N šaṭāru[write]V ana[to]PRP šarru[king]N
+rinap/rinap3/Q003510,Sennacherib 036,r 18',māru[son]N ezēbu[leave]V ahrâtaš[for-ever-after]AV
+rinap/rinap3/Q003510,Sennacherib 036,r 19',ana[to]PRP warkītu[posterity]N ūmu[day]N rubû[ruler]N warkû[rear]AJ inūma[when]SBJ bītu[house]N šâtina[those]IP
+rinap/rinap3/Q003510,Sennacherib 036,r 20',labāru[be(come)-old]V anāhu[be(come)-tired]V mušarû[(royal)-inscription]N amāru[see]V šamnu[oil]N pašāšu[anoint]V nīqu[offering]N

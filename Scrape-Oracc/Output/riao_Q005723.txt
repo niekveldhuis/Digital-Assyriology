@@ -1,0 +1,17 @@
+id_text,text_name,l_no,text
+riao/Q005723,Aššur-uballiṭ I 5,1,Aššur-uballiṭ_I[vice-regent-of-Aššur;-son-of-Eriba-Adad-I]RN iššiakku[city-ruler]N Aššur[1]DN
+riao/Q005723,Aššur-uballiṭ I 5,2,māru[son]N Eriba-Adad_I[vice-regent-of-Aššur;-son-of-Aššur-bel-nišešu]RN
+riao/Q005723,Aššur-uballiṭ I 5,3,Eriba-Adad_I[vice-regent-of-Aššur;-son-of-Aššur-bel-nišešu]RN iššiakku[city-ruler]N Aššur[1]DN
+riao/Q005723,Aššur-uballiṭ I 5,4,māru[son]N Aššur-bel-nišešu[son-fo-Aššur-narari-II;-vice-regent-of-Aššur]RN
+riao/Q005723,Aššur-uballiṭ I 5,5,Aššur-bel-nišešu[son-fo-Aššur-narari-II;-vice-regent-of-Aššur]RN iššiakku[city-ruler]N Aššur[1]DN
+riao/Q005723,Aššur-uballiṭ I 5,6,māru[son]N Aššur-narari_II[successor-of-Enlil-naṣir-II;-vice-regent-of-the-god-Aššur]RN iššiakku[city-ruler]N Aššur[1]DN
+riao/Q005723,Aššur-uballiṭ I 5,7,Aššur-narari_II[successor-of-Enlil-naṣir-II;-vice-regent-of-the-god-Aššur]RN iššiakku[city-ruler]N Aššur[1]DN
+riao/Q005723,Aššur-uballiṭ I 5,8,māru[son]N Aššur-rabi_I[son-of-Enlil-naṣir;-vice-regent-of-Aššur]RN
+riao/Q005723,Aššur-uballiṭ I 5,9,Aššur-rabi_I[son-of-Enlil-naṣir;-vice-regent-of-Aššur]RN iššiakku[city-ruler]N Aššur[1]DN
+riao/Q005723,Aššur-uballiṭ I 5,10,māru[son]N Enlil-naṣir_I[son-of-Puzur-Aššur-III;-vice-regent-of-Aššur]RN
+riao/Q005723,Aššur-uballiṭ I 5,11,Enlil-naṣir_I[son-of-Puzur-Aššur-III;-vice-regent-of-Aššur]RN iššiakku[city-ruler]N Aššur[1]DN
+riao/Q005723,Aššur-uballiṭ I 5,12,māru[son]N Puzur-Aššur_III[son-of-Aššur-narari-I;-vice-regent-of-Aššur]RN iššiakku[city-ruler]N Aššur[1]DN
+riao/Q005723,Aššur-uballiṭ I 5,13,Aššur-uballiṭ_I[vice-regent-of-Aššur;-son-of-Eriba-Adad-I]RN šaknu[appointee]N Enlil[1]DN iššiakku[city-ruler]N Aššur[1]DN
+riao/Q005723,Aššur-uballiṭ I 5,14,ana[to]PRP balāṭu[life]N u[and]CNJ šalāmu[be(come)-healthy]V ālu[city]N
+riao/Q005723,Aššur-uballiṭ I 5,15,ša[that]REL
+riao/Q005723,Aššur-uballiṭ I 5,16,kisallu[forecourt]N bītu[house]N ayyakku[(a-type-of-sanctuary)]N

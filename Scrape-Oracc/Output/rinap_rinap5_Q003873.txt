@@ -1,0 +1,16 @@
+id_text,text_name,l_no,text
+rinap/rinap5/Q003873,Sîn-šarru-iškun 12,1,anāku[I]IP Sin-šarra-iškun[king-of-Assyria]RN
+rinap/rinap5/Q003873,Sîn-šarru-iškun 12,2,šarru[king]N rabû[great]AJ šarru[king]N dannu[strong]AJ šarru[king]N kiššatu[totality]N šarru[king]N mātu[land]N Aššur[Assyria]GN
+rinap/rinap5/Q003873,Sîn-šarru-iškun 12,3,māru[son]N Aššur-bani-apli[Ashurbanipal;-king-of-Assyria]RN šarru[king]N kiššatu[totality]N šarru[king]N mātu[land]N Aššur[Assyria]GN
+rinap/rinap5/Q003873,Sîn-šarru-iškun 12,4,māru[son]N Aššur-ahu-iddina[Esarhaddon;-king-of-Assyria]RN šarru[king]N kiššatu[totality]N šarru[king]N mātu[land]N Aššur[Assyria]GN
+rinap/rinap5/Q003873,Sîn-šarru-iškun 12,5,māru[son]N Sin-ahhe-eriba[Sennacherib;-king-of-Assyria]RN šarru[king]N kiššatu[totality]N šarru[king]N mātu[land]N Aššur[Assyria]GN
+rinap/rinap5/Q003873,Sîn-šarru-iškun 12,6,līpu[descendant]N Šarru-ukin[Sargon-II;-king-of-Assyria]RN šarru[king]N kiššatu[totality]N šarru[king]N mātu[land]N Aššur[Assyria]GN
+rinap/rinap5/Q003873,Sîn-šarru-iškun 12,7,šakkanakku[(military)-governor]N Babili[Babylon]SN šarru[king]N mātu[land]N Šumeru[Sumer]GN u[and]CNJ Akkad[1]GN
+rinap/rinap5/Q003873,Sîn-šarru-iškun 12,8,ina[in]PRP rēšu[head]N šarrūtu[kingship]N ša[that]REL Aššur[1]DN Bel[1]DN Nabu[1]DN
+rinap/rinap5/Q003873,Sîn-šarru-iškun 12,9,Ištar[1]DN ṭābiš[well]AV wašābu[sit-(down)]V
+rinap/rinap5/Q003873,Sîn-šarru-iškun 12,10,ina[in]PRP kussû[chair]N abu[father]N bānû[creator]N bītu[house]N Nabu[1]DN ša[that]REL
+rinap/rinap5/Q003873,Sîn-šarru-iškun 12,11,qerbu[centre]N Baltil[Aššur]QN ša[that]REL ištu[from]PRP ūmu[day]N rūqu[distant]AJ
+rinap/rinap5/Q003873,Sîn-šarru-iškun 12,12,lā[not]MOD waldu[born]AJ kīmū[instead-of]PRP nidûtu[abandonment]N
+rinap/rinap5/Q003873,Sîn-šarru-iškun 12,13,ištu[from]PRP uššu[foundation]N adi[until]PRP gabadibbu[parapet]N raṣāpu[erect]V
+rinap/rinap5/Q003873,Sîn-šarru-iškun 12,14,šuklulu[complete]V Nabu[1]DN Tašmetu[1]DN qerbu[centre]N
+rinap/rinap5/Q003873,Sîn-šarru-iškun 12,15,erēbu[enter]V ramû[set-in-place]V

@@ -1,0 +1,5 @@
+id_text,text_name,l_no,text
+riao/Q006001,Šamši-Adad IV 1,1,Šamši-Adad_IV[king-of-Assyria]RN Aššur[Assyria]GN
+riao/Q006001,Šamši-Adad IV 1,2,Tukulti-apil-Ešarra_I[Tiglath-pileser-I;-king-of-Assyria]RN Aššur[Assyria]GN
+riao/Q006001,Šamši-Adad IV 1,3,Aššur-reša-iši_I[king-of-Assyria]RN Aššur[Assyria]GN
+riao/Q006001,Šamši-Adad IV 1,4,Ištar[1]DN Aššuru[1]EN

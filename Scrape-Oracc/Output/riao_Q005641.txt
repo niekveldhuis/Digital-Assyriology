@@ -1,0 +1,12 @@
+id_text,text_name,l_no,text
+riao/Q005641,Ikunum 3,1,Ikunum[vice-regent-of-Aššur]RN iššiakku[city-ruler]N
+riao/Q005641,Ikunum 3,2,Aššur[1]DN māru[son]N Erišum_I[vice-regent-of-Aššur]RN
+riao/Q005641,Ikunum 3,3,iššiakku[city-ruler]N Aššur[1]DN Erišum_I[vice-regent-of-Aššur]RN
+riao/Q005641,Ikunum 3,4,māru[son]N Ilu-šuma[vice-regent-of-Aššur]RN iššiakku[city-ruler]N Aššur[1]DN
+riao/Q005641,Ikunum 3,5,Ilu-šuma[vice-regent-of-Aššur]RN māru[son]N Šalim-ahum[vice-regent-of-Aššur]RN
+riao/Q005641,Ikunum 3,6,iššiakku[city-ruler]N Aššur[1]DN Šalim-ahum[vice-regent-of-Aššur]RN
+riao/Q005641,Ikunum 3,7,māru[son]N Puzur-Aššur_I[vice-regent-of-Aššur;-son-of-Akiya]RN iššiakku[city-ruler]N Aššur[1]DN
+riao/Q005641,Ikunum 3,8,Ikunum[vice-regent-of-Aššur]RN iššiakku[city-ruler]N Aššur[1]DN
+riao/Q005641,Ikunum 3,9,ana[to]PRP balāṭu[life]N u[and]CNJ balāṭu[life]N
+riao/Q005641,Ikunum 3,10,ālu[city]N
+riao/Q005641,Ikunum 3,12,ana[to]PRP

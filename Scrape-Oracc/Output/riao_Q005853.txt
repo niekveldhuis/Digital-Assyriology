@@ -1,0 +1,35 @@
+id_text,text_name,l_no,text
+riao/Q005853,Tukulti-Ninurta I 17,1,Tukulti-Ninurta_I[king-of-Assyria]RN
+riao/Q005853,Tukulti-Ninurta I 17,2,šaknu[appointee]N Enlil[1]DN iššiakku[city-ruler]N Aššur[1]DN
+riao/Q005853,Tukulti-Ninurta I 17,3,māru[son]N Salmanu-ašared_I[Shalmaneser-I;-son-of-Adad-narari-I;-king-of-Assyria]RN iššiakku[city-ruler]N Aššur[1]DN
+riao/Q005853,Tukulti-Ninurta I 17,4,māru[son]N Adad-narari_I[king-of-Assyria]RN iššiakku[city-ruler]N Aššur[1]DN
+riao/Q005853,Tukulti-Ninurta I 17,5,inūma[when]SBJ bītu[house]N Nunaittu[1]DN
+riao/Q005853,Tukulti-Ninurta I 17,6,bēltu[lady]N ša[that]REL ina[in]PRP pāna[formerly]AV
+riao/Q005853,Tukulti-Ninurta I 17,7,šarru[king]N āliku[goer]N pānu[front]N
+riao/Q005853,Tukulti-Ninurta I 17,8,epēšu[do]V bītu[house]N šū[he]IP
+riao/Q005853,Tukulti-Ninurta I 17,9,anāhu[be(come)-tired]V labīrūtu[old-age]N
+riao/Q005853,Tukulti-Ninurta I 17,10,alāku[go]V
+riao/Q005853,Tukulti-Ninurta I 17,11,Šulmanu-ašared_II[Shalmaneser-II;-king-of-Assyria]RN abu[father]N
+riao/Q005853,Tukulti-Ninurta I 17,12,iššiakku[city-ruler]N Aššur[1]DN anhūtu[tiredness]N
+riao/Q005853,Tukulti-Ninurta I 17,13,nakāru[be(come)-different]V dannatu[fortified-(place)]N
+riao/Q005853,Tukulti-Ninurta I 17,14,kašādu[reach]V uššu[foundation]N ramû[set-in-place]V
+riao/Q005853,Tukulti-Ninurta I 17,15,bītu[house]N šâtu[him]IP epēšu[do]V
+riao/Q005853,Tukulti-Ninurta I 17,16,tibku[course-of-bricks]N elû[go-up]V
+riao/Q005853,Tukulti-Ninurta I 17,17,ina[in]PRP ūmu[day]N
+riao/Q005853,Tukulti-Ninurta I 17,18,Tukulti-Ninurta_I[king-of-Assyria]RN
+riao/Q005853,Tukulti-Ninurta I 17,19,šaknu[appointee]N Enlil[1]DN iššiakku[city-ruler]N Aššur[1]DN
+riao/Q005853,Tukulti-Ninurta I 17,20,tibku[course-of-bricks]N eli[on]PRP
+riao/Q005853,Tukulti-Ninurta I 17,21,redû[accompany]V gušūru[tree-trunk]N
+riao/Q005853,Tukulti-Ninurta I 17,22,u[and]CNJ daltu[door]N kânu[be(come)-permanent]V
+riao/Q005853,Tukulti-Ninurta I 17,23,bītu[house]N epēšu[do]V
+riao/Q005853,Tukulti-Ninurta I 17,24,šuklulu[complete]V
+riao/Q005853,Tukulti-Ninurta I 17,25,parakku[dais]N ramû[set-in-place]V Nunaittu[1]DN
+riao/Q005853,Tukulti-Ninurta I 17,26,bēltu[lady]N ina[in]PRP hidiātu[joy]N
+riao/Q005853,Tukulti-Ninurta I 17,27,u[and]CNJ rīštu[exultation]N
+riao/Q005853,Tukulti-Ninurta I 17,28,ina[in]PRP parakku[dais]N wašābu[sit-(down)]V
+riao/Q005853,Tukulti-Ninurta I 17,29,u[and]CNJ narû[stele]N šakānu[put]V
+riao/Q005853,Tukulti-Ninurta I 17,30,rubû[ruler]N warkû[rear]AJ
+riao/Q005853,Tukulti-Ninurta I 17,31,anhūtu[tiredness]N edēšu[be(come)-new]V
+riao/Q005853,Tukulti-Ninurta I 17,32,šumu[name]N šaṭru[written]AJ ana[to]PRP ašru[place]N
+riao/Q005853,Tukulti-Ninurta I 17,33,târu[turn]V Nunaittu[1]DN
+riao/Q005853,Tukulti-Ninurta I 17,34,ikribu[prayer]N

@@ -1,0 +1,17 @@
+id_text,text_name,l_no,text
+rinap/rinap3/Q004036,Sennacherib 231,o 1,ēkallu[palace]N Sin-ahhe-eriba[Sennacherib;-king-of-Assyria]RN šarru[king]N rabû[great]AJ šarru[king]N dannu[strong]AJ šarru[king]N kiššatu[totality]N šarru[king]N mātu[land]N Aššur[Assyria]GN
+rinap/rinap3/Q004036,Sennacherib 231,o 2,šarru[king]N kibru[bank]N erbe[four]NU migru[consent]N ilu[god]N rabû[great]AJ lulīmu[red-deer]N eršu[wise]AJ malku[prince]N
+rinap/rinap3/Q004036,Sennacherib 231,o 3,pitqudu[prudent]AJ rēʾû[shepherd]N bahūlātu[men]N muttarrû[guide]N nišu[people]N rapšu[wide]AJ anāku[I]IP
+rinap/rinap3/Q004036,Sennacherib 231,o 4,Aššur[1]DN abu[father]N ilu[god]N ina[in]PRP kullatu[totality]N malku[prince]N kīniš[reliably]AV palāsu[look-at]V eli[on]PRP gimru[totality]N
+rinap/rinap3/Q004036,Sennacherib 231,o 5,wāšibu[sitting]AJ parakku[dais]N rabû[be(come)-big]V kakku[stick]N nadānu[give]V haṭṭu[stick]N išaru[straight]AJ
+rinap/rinap3/Q004036,Sennacherib 231,o 6,murappišu[one-who-makes-wide]N miṣru[border]N šibirru[shepherd´s-staff]N lā[not]MOD pādû[forgiving]AJ ana[to]PRP maqātu[fall]V zāʾeru[enemy]N
+rinap/rinap3/Q004036,Sennacherib 231,o 7,tamāhu[grasp]V rittu[hand]N ina[in]PRP tāhāzu[battle]N ṣēru[back]N Marduk-apla-iddina[Merodach-baladan-II;-king-of-Babylon]RN
+rinap/rinap3/Q004036,Sennacherib 231,o 8,šarru[king]N Karduniaš[Babylonia]GN nagbu[underground-water]N Kaldayu[Chaldean]EN u[and]CNJ
+rinap/rinap3/Q004036,Sennacherib 231,o 9,Aramu[Aramean]EN adi[until]PRP ummānu[military-force]N Elamtu[Elam]GN rēṣu[helper]N abūbāniš[like-a-flood]AV sapānu[flatten]V šū[he]IP ana[to]PRP mātu[land]N
+rinap/rinap3/Q004036,Sennacherib 231,o 10,tiāmtu[sea]N ēdiš[alone]AV naparšudu[flee]V ilu[god]N māraku[length]N mātu[land]N itti[with]PRP eṣemtu[bone]N abu[father]N mahrû[first]AJ
+rinap/rinap3/Q004036,Sennacherib 231,o 11,ištu[from]PRP qerbu[centre]N kimahhu[grave]N hepēru[dig]V
+rinap/rinap3/Q004036,Sennacherib 231,r 1',eli[on]PRP nakru[enemy]N šakānu[put]V ṣēru[back]N šaṭāru[write]V
+rinap/rinap3/Q004036,Sennacherib 231,r 2',ina[in]PRP uššu[foundation]N ezēbu[leave]V ahrâtaš[for-ever-after]AV matīma[ever]AV ina[in]PRP šarru[king]N māru[son]N
+rinap/rinap3/Q004036,Sennacherib 231,r 3',ša[that]REL Aššur[1]DN ana[to]PRP rēʾûtu[shepherdship]N mātu[land]N u[and]CNJ nišu[people]N nabû[name]V zikru[utterance]N
+rinap/rinap3/Q004036,Sennacherib 231,r 4',inūma[when]SBJ šâtu[him]IP labāru[be(come)-old]V anāhu[be(come)-tired]V
+rinap/rinap3/Q004036,Sennacherib 231,r 5',anhūtu[tiredness]N edēšu[be(come)-new]V mušarû[(royal)-inscription]N šiṭru[(piece-of)-writing]N šumu[name]N amāru[see]V

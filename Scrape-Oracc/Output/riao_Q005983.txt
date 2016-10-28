@@ -1,0 +1,29 @@
+id_text,text_name,l_no,text
+riao/Q005983,Aššur-bel-kala 02,i 2',Aššur-reša-iši_I[king-of-Assyria]RN Aššur[Assyria]GN
+riao/Q005983,Aššur-bel-kala 02,i 4',Mutakkil-Nusku[king-of-Assyria]RN Aššur[Assyria]GN
+riao/Q005983,Aššur-bel-kala 02,i 9',Aššur[1]DN Ninurta[1]DN
+riao/Q005983,Aššur-bel-kala 02,i 10',Adad[1]DN
+riao/Q005983,Aššur-bel-kala 02,i 15',Hini-x[1]GN Iatkun[1]GN
+riao/Q005983,Aššur-bel-kala 02,i 18',x-ubdu[1]WN Samanunu[1]WN Uruaṭri[1]GN
+riao/Q005983,Aššur-bel-kala 02,i 19',Quqiaba[1]SN Amuraška[1]SN Dunaša-x[1]SN
+riao/Q005983,Aššur-bel-kala 02,i 20',Eridun[1]SN Ištaiun[1]SN Ikkia[1]SN
+riao/Q005983,Aššur-bel-kala 02,i 21',Susuku[1]SN Šallagidu[1]SN Tarraba[1]SN Zurzura[1]SN
+riao/Q005983,Aššur-bel-kala 02,i 22',Ligunu[1]SN Iškutunu[1]SN Elida[1]SN Ištamnia[1]SN Ara-x[1]SN
+riao/Q005983,Aššur-bel-kala 02,i 23',Arinun[1]SN Sasalhia[1]SN Haruru[1]SN
+riao/Q005983,Aššur-bel-kala 02,i 24',x-siuru[1]SN Panirasu[1]SN Pani-x[1]SN
+riao/Q005983,Aššur-bel-kala 02,i 25',Hirištu[1]SN Ulmiš[1]SN Nabala[1]SN
+riao/Q005983,Aššur-bel-kala 02,i 26',Hippu[1]SN Hararia[1]SN Aparunu[1]SN
+riao/Q005983,Aššur-bel-kala 02,i 27',Ziqunu[1]SN Hardia[1]SN Elaquš[1]SN
+riao/Q005983,Aššur-bel-kala 02,i 28',x-alu[1]SN Iabliunu[1]SN
+riao/Q005983,Aššur-bel-kala 02,i 29',x-iltu[1]SN Mašgun[or-Bargun?]SN
+riao/Q005983,Aššur-bel-kala 02,i 30',Iabliunu[1]SN
+riao/Q005983,Aššur-bel-kala 02,i 36',Hariya[1]WN
+riao/Q005983,Aššur-bel-kala 02,ii 3',Aššur-etellu[foreign-ruler]RN Sa-x[father-of-Aššur-etellu]PN
+riao/Q005983,Aššur-bel-kala 02,ii 5',Mari[1]GN
+riao/Q005983,Aššur-bel-kala 02,ii 6',Qatnu[1]EN
+riao/Q005983,Aššur-bel-kala 02,iii 5',Aššur[1]DN
+riao/Q005983,Aššur-bel-kala 02,iii 15',Himme[1]GN
+riao/Q005983,Aššur-bel-kala 02,iii 16',Mašgun[or-Bargun?]GN
+riao/Q005983,Aššur-bel-kala 02,iii 17',Hirua[1]GN Uruniaš[1]SN Himme[1]GN
+riao/Q005983,Aššur-bel-kala 02,iii 27',Aramu[Arameans]EN Aššur[1]DN
+riao/Q005983,Aššur-bel-kala 02,iii 29',Ninurta[1]DN Nergal[1]DN

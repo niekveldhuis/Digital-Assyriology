@@ -283,40 +283,4 @@ c.2.1.5,The cursing of Agade,Old Babylonian,278,sux:Agade[1]SN sux:a[water]N sux
 c.2.1.5,The cursing of Agade,Old Babylonian,279,sux:iri[town]N sux:tuš[to-sit]V sux:dug₄[to-say]V sux:ki-tuš[dwelling-place]N sux:dug₃[to-be-good]V
 c.2.1.5,The cursing of Agade,Old Babylonian,280,sux:Agade[1]SN sux:nu₂[to-lie-down]V sux:dug₄[to-say]V sux:ki-nu₂[sleeping-quarter]N sux:dug₃[to-be-good]V
 c.2.1.5,The cursing of Agade,Old Babylonian,281,sux:Agade[1]SN sux:hul[to-be-bad]V sux:Inana[1]DN sux:za₃-mi₂[praise]N
-c.2.1.5,The cursing of Agade,Ur III,A1,sux:ŋeštug₂[ear]N sux:Enki[1]DN sux:de₆[to-carry]V
-c.2.1.5,The cursing of Agade,Ur III,A2,sux:me-lem₄[(awesome)-radiance]N sux:an[heaven]N sux:us₂[to-be-adjacent]V
-c.2.1.5,The cursing of Agade,Ur III,A3,sux:an[heaven]N sux:an-šag₄[interior-of-heaven]N sux:ed₃[to-go-down-or-up]V
-c.2.1.5,The cursing of Agade,Ur III,A4,sux:tar₂-GAG[mooring-pole]N sux:kug[shining]AJ sux:du₃[to-erect]V
-c.2.1.5,The cursing of Agade,Ur III,A5,sux:Enki[1]DN sux:abzu[underground-water]N sux:bur₁₂[to-tear-out]V
-c.2.1.5,The cursing of Agade,Ur III,B1,sux:eŋer[back]N sux:niŋ₂[thing]N sux:na-me[any]PD sux:sag₉[to-be-good]V
-c.2.1.5,The cursing of Agade,Ur III,B2,sux:e₂[house(hold)]N sux:tuku₄[to-shake]V sux:erim₃[storehouse]N sux:sag₂[to-scatter]V sux:dug₄[to-say]V
-c.2.1.5,The cursing of Agade,Ur III,B3,sux:Naram-Suen[1]RN sux:maš₂-ŋi₆[nocturnal-vision]N sux:igi[eye]N sux:du₈[to-spread]V
-c.2.1.5,The cursing of Agade,Ur III,C1,sux:sig₁₀[to-place]V sux:šu[hand]N sux:bal[to-turn-over]V
-c.2.1.5,The cursing of Agade,Ur III,C2,sux:gu₂[neck]N sux:ŋar[to-place]V sux:sag₂[to-scatter]V sux:dug₄[to-say]V
-c.2.1.5,The cursing of Agade,Ur III,C3,sux:erin₂[group-of-people]N sux:zig₃[to-rise]V sux:ŋar[to-place]V
-c.2.1.5,The cursing of Agade,Ur III,C4,sux:a₂-tuku[powerful]AJ sux:kisal[courtyard]N sux:mah[to-be-majestic]V sux:kur₉[to-enter]V
-c.2.1.5,The cursing of Agade,Ur III,C5,sux:E-kur[1]TN sux:šu[hand]N sux:keše₂[to-bind]V sux:ak[to-do]V
-c.2.1.5,The cursing of Agade,Ur III,C6,sux:dub₃-tuku[runner]N sux:lirum[clutching]N sux:gam[to-bow-down]V
-c.2.1.5,The cursing of Agade,Ur III,C7,sux:gi-gun₄-na[temple-terrace]N sux:30[30]NU sux:giŋ₄[weight-measure]N sux:ak[to-do]V
-c.2.1.5,The cursing of Agade,Ur III,C8,sux:nitah[male]N sux:lu₂-KID₂[robber]N sux:iri[town]N sux:ri[to-direct]V
-c.2.1.5,The cursing of Agade,Ur III,C9,sux:e₂[house(hold)]N sux:kun₄[stair(way)]N sux:gal[to-be-big]V sux:de₆[to-carry]V
-c.2.1.5,The cursing of Agade,Ur III,C10,sux:e₂[house(hold)]N sux:kur[(mountain)-land]N sux:erin[cedar]N sux:me[to-be]V
-c.2.1.5,The cursing of Agade,Ur III,C11,sux:ha-zi-in[type-of-axe]N sux:gal[to-be-big]V sux:de₂[to-pour]V
-c.2.1.5,The cursing of Agade,Ur III,C11A,sux:aga-silig[type-of-axe]N sux:a₂[arm]N sux:2[2]NU sux:u₃-sar[to-sharpen]V sux:ak[to-do]V
-c.2.1.5,The cursing of Agade,Ur III,C12,sux:a-gar₃[meadow]N sux:mah[to-be-majestic]V sux:a-eštub[carp(-filled)-water]N sux:dugud[to-be-heavy]V
-c.2.1.5,The cursing of Agade,Ur III,C13,sux:gi₂-dim[hay-fork]N sux:gal[to-be-big]V sux:kuš₃[runnel]N sux:sig₁₀[to-place]V
-c.2.1.5,The cursing of Agade,Ur III,C14,sux:ur₂[root]N sux:gi₂-dim[hay-fork]N sux:ŋar[to-place]V
-c.2.1.5,The cursing of Agade,Ur III,D1,sux:šu[hand]N sux:kalam[the-Land]N sux:še[barley]N sux:kud[to-cut]V
-c.2.1.5,The cursing of Agade,Ur III,D2,sux:kan₄[gate]N sux:silim[to-be-healthy]V sux:dug₄[to-say]V sux:šub[to-fall]V
-c.2.1.5,The cursing of Agade,Ur III,D3,sux:kur[(mountain)-land]N sux:silim[to-be-healthy]V sux:gul[to-destroy]V
-c.2.1.5,The cursing of Agade,Ur III,E1,
-c.2.1.5,The cursing of Agade,Ur III,E2,
-c.2.1.5,The cursing of Agade,Ur III,E3,
-c.2.1.5,The cursing of Agade,Ur III,E4,
-c.2.1.5,The cursing of Agade,Ur III,F1,sux:giri₁₇[nose]N sux:dub[to-heap-up]V sux:saŋ[head]N sux:tu₁₁[to-strike-down]V
-c.2.1.5,The cursing of Agade,Ur III,F2,sux:giri₁₇[nose]N sux:dub[to-heap-up]V sux:saŋ[head]N sux:numun[seed]N sux:ŋar[to-place]V
-c.2.1.5,The cursing of Agade,Ur III,F3,sux:meš₃[hero]N sux:meš₃[hero]N sux:an[heaven]N
-c.2.1.5,The cursing of Agade,Ur III,F4,sux:u₃-ri₂-in[blood]N sux:lu₂-lul-la[liar]N sux:lu₂[person]N sux:zid[right]AJ sux:an[heaven]N
-c.2.1.5,The cursing of Agade,Ur III,F5,sux:Enlil[1]DN sux:e₂[house(hold)]N sux:gal[to-be-big]V
-c.2.1.5,The cursing of Agade,Ur III,F6,sux:eš₃[shrine]N sux:gi[reed]N sux:tur[to-be-small]V sux:du₃[to-erect]V
-c.2.1.5,The cursing of Agade,Ur III,F7,sux:sig[to-be-low]V sux:igi-nim[upper-land]N
+c.2.1.5,The cursing of Agade,Ur III,A1,sux:ŋeštug₂[ear]N sux:Enki[1]DN sux:de₆[to-carry]Vc.2.1.5,The cursing of Agade,Ur III,A2,sux:me-lem₄[(awesome)-radiance]N sux:an[heaven]N sux:us₂[to-be-adjacent]Vc.2.1.5,The cursing of Agade,Ur III,A3,sux:an[heaven]N sux:an-šag₄[interior-of-heaven]N sux:ed₃[to-go-down-or-up]Vc.2.1.5,The cursing of Agade,Ur III,A4,sux:tar₂-GAG[mooring-pole]N sux:kug[shining]AJ sux:du₃[to-erect]Vc.2.1.5,The cursing of Agade,Ur III,A5,sux:Enki[1]DN sux:abzu[underground-water]N sux:bur₁₂[to-tear-out]Vc.2.1.5,The cursing of Agade,Ur III,B1,sux:eŋer[back]N sux:niŋ₂[thing]N sux:na-me[any]PD sux:sag₉[to-be-good]Vc.2.1.5,The cursing of Agade,Ur III,B2,sux:e₂[house(hold)]N sux:tuku₄[to-shake]V sux:erim₃[storehouse]N sux:sag₂[to-scatter]V sux:dug₄[to-say]Vc.2.1.5,The cursing of Agade,Ur III,B3,sux:Naram-Suen[1]RN sux:maš₂-ŋi₆[nocturnal-vision]N sux:igi[eye]N sux:du₈[to-spread]Vc.2.1.5,The cursing of Agade,Ur III,C1,sux:sig₁₀[to-place]V sux:šu[hand]N sux:bal[to-turn-over]Vc.2.1.5,The cursing of Agade,Ur III,C2,sux:gu₂[neck]N sux:ŋar[to-place]V sux:sag₂[to-scatter]V sux:dug₄[to-say]Vc.2.1.5,The cursing of Agade,Ur III,C3,sux:erin₂[group-of-people]N sux:zig₃[to-rise]V sux:ŋar[to-place]Vc.2.1.5,The cursing of Agade,Ur III,C4,sux:a₂-tuku[powerful]AJ sux:kisal[courtyard]N sux:mah[to-be-majestic]V sux:kur₉[to-enter]Vc.2.1.5,The cursing of Agade,Ur III,C5,sux:E-kur[1]TN sux:šu[hand]N sux:keše₂[to-bind]V sux:ak[to-do]Vc.2.1.5,The cursing of Agade,Ur III,C6,sux:dub₃-tuku[runner]N sux:lirum[clutching]N sux:gam[to-bow-down]Vc.2.1.5,The cursing of Agade,Ur III,C7,sux:gi-gun₄-na[temple-terrace]N sux:30[30]NU sux:giŋ₄[weight-measure]N sux:ak[to-do]Vc.2.1.5,The cursing of Agade,Ur III,C8,sux:nitah[male]N sux:lu₂-KID₂[robber]N sux:iri[town]N sux:ri[to-direct]Vc.2.1.5,The cursing of Agade,Ur III,C9,sux:e₂[house(hold)]N sux:kun₄[stair(way)]N sux:gal[to-be-big]V sux:de₆[to-carry]Vc.2.1.5,The cursing of Agade,Ur III,C10,sux:e₂[house(hold)]N sux:kur[(mountain)-land]N sux:erin[cedar]N sux:me[to-be]Vc.2.1.5,The cursing of Agade,Ur III,C11,sux:ha-zi-in[type-of-axe]N sux:gal[to-be-big]V sux:de₂[to-pour]Vc.2.1.5,The cursing of Agade,Ur III,C11A,sux:aga-silig[type-of-axe]N sux:a₂[arm]N sux:2[2]NU sux:u₃-sar[to-sharpen]V sux:ak[to-do]Vc.2.1.5,The cursing of Agade,Ur III,C12,sux:a-gar₃[meadow]N sux:mah[to-be-majestic]V sux:a-eštub[carp(-filled)-water]N sux:dugud[to-be-heavy]Vc.2.1.5,The cursing of Agade,Ur III,C13,sux:gi₂-dim[hay-fork]N sux:gal[to-be-big]V sux:kuš₃[runnel]N sux:sig₁₀[to-place]Vc.2.1.5,The cursing of Agade,Ur III,C14,sux:ur₂[root]N sux:gi₂-dim[hay-fork]N sux:ŋar[to-place]Vc.2.1.5,The cursing of Agade,Ur III,D1,sux:šu[hand]N sux:kalam[the-Land]N sux:še[barley]N sux:kud[to-cut]Vc.2.1.5,The cursing of Agade,Ur III,D2,sux:kan₄[gate]N sux:silim[to-be-healthy]V sux:dug₄[to-say]V sux:šub[to-fall]Vc.2.1.5,The cursing of Agade,Ur III,D3,sux:kur[(mountain)-land]N sux:silim[to-be-healthy]V sux:gul[to-destroy]Vc.2.1.5,The cursing of Agade,Ur III,E1,c.2.1.5,The cursing of Agade,Ur III,E2,c.2.1.5,The cursing of Agade,Ur III,E3,c.2.1.5,The cursing of Agade,Ur III,E4,c.2.1.5,The cursing of Agade,Ur III,F1,sux:giri₁₇[nose]N sux:dub[to-heap-up]V sux:saŋ[head]N sux:tu₁₁[to-strike-down]Vc.2.1.5,The cursing of Agade,Ur III,F2,sux:giri₁₇[nose]N sux:dub[to-heap-up]V sux:saŋ[head]N sux:numun[seed]N sux:ŋar[to-place]Vc.2.1.5,The cursing of Agade,Ur III,F3,sux:meš₃[hero]N sux:meš₃[hero]N sux:an[heaven]Nc.2.1.5,The cursing of Agade,Ur III,F4,sux:u₃-ri₂-in[blood]N sux:lu₂-lul-la[liar]N sux:lu₂[person]N sux:zid[right]AJ sux:an[heaven]Nc.2.1.5,The cursing of Agade,Ur III,F5,sux:Enlil[1]DN sux:e₂[house(hold)]N sux:gal[to-be-big]Vc.2.1.5,The cursing of Agade,Ur III,F6,sux:eš₃[shrine]N sux:gi[reed]N sux:tur[to-be-small]V sux:du₃[to-erect]Vc.2.1.5,The cursing of Agade,Ur III,F7,sux:sig[to-be-low]V sux:igi-nim[upper-land]N

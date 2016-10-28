@@ -1,0 +1,26 @@
+id_text,text_name,l_no,text
+rinap/rinap3/Q003484,Sennacherib 010,1,Sin-ahhe-eriba[Sennacherib;-king-of-Assyria]RN šarru[king]N rabû[great]AJ šarru[king]N dannu[strong]AJ šarru[king]N kiššatu[totality]N šarru[king]N mātu[land]N Aššur[Assyria]GN
+rinap/rinap3/Q003484,Sennacherib 010,2,šarru[king]N kibru[bank]N erbe[four]NU muttarrû[guide]N nišu[people]N rapšu[wide]AJ
+rinap/rinap3/Q003484,Sennacherib 010,3,ēpišu[doer]N ṣalmu[effigy]N Aššur[1]DN Anu[1]DN Sin[1]DN Šamaš[1]DN Adad[1]DN Nergal[1]DN Ištar[1]DN
+rinap/rinap3/Q003484,Sennacherib 010,4,ša[of]DET Bit-Kidmuri[1]TN
+rinap/rinap3/Q003484,Sennacherib 010,8,ša[that]REL eli[on]PRP šarru[king]N wāšibu[sitting]AJ parakku[dais]N nuʾʾudu[very-praiseworthy]AJ bēlūtu[rule]N
+rinap/rinap3/Q003484,Sennacherib 010,9,tukultu[trust]N mātu[land]N nāʾidu[one-who-is-attentive]N qablu[battle]N u[and]CNJ tāhāzu[battle]N ṣulūlu[roof]N ummānu[military-force]N anāku[I]IP
+rinap/rinap3/Q003484,Sennacherib 010,10,šandabakku[chief-accountant]N ša[that]REL minûtu[count(ing)]N nikkassu[account(s)]N
+rinap/rinap3/Q003484,Sennacherib 010,11,Haya[1]DN ilu[god]N
+rinap/rinap3/Q003484,Sennacherib 010,12,ilu[god]N rabû[great]AJ
+rinap/rinap3/Q003484,Sennacherib 010,13,ina[in]PRP qibītu[speech]N ilu[god]N ana[to]PRP temmēnu[foundation]N
+rinap/rinap3/Q003484,Sennacherib 010,14,ina[in]PRP mahru[front]N
+rinap/rinap3/Q003484,Sennacherib 010,15,bītu[house]N
+rinap/rinap3/Q003484,Sennacherib 010,16,ēpišu[doer]N Haya[1]DN
+rinap/rinap3/Q003484,Sennacherib 010,17,ēpišu[doer]N mēsū[cult]N
+rinap/rinap3/Q003484,Sennacherib 010,18,ištu[from]PRP uššu[foundation]N adi[until]PRP gabadibbu[parapet]N raṣāpu[erect]V šuklulu[complete]V
+rinap/rinap3/Q003484,Sennacherib 010,19,Haya[1]DN ilu[god]N ša[of]DET ṭupšarru[scribe]N ramû[set-in-place]V qerbu[centre]N
+rinap/rinap3/Q003484,Sennacherib 010,20,temmēnu[foundation]N attā[you]IP ša[of]DET Sin-ahhe-eriba[Sennacherib;-king-of-Assyria]RN šarru[king]N mātu[land]N Aššur[Assyria]GN rāʾimu[one-who-loves]N kittu[steadiness]N
+rinap/rinap3/Q003484,Sennacherib 010,21,ēpišu[doer]N ṣalmu[effigy]N Aššur[1]DN u[and]CNJ ilu[god]N rabû[great]AJ bānû[creator]N bītu[house]N damqu[good-one]N ana[to]PRP Aššur[1]DN qabû[say]V
+rinap/rinap3/Q003484,Sennacherib 010,22,māru[son]N māru[son]N māru[son]N itti[with]PRP ṣalmu[black]AJ qaqqadu[head]N kânu[be(come)-permanent]V ana[to]PRP dūru[permanence]N dāru[era]N
+rinap/rinap3/Q003484,Sennacherib 010,23,ayyumma[any]XP rubû[ruler]N warkû[rear]AJ ša[that]REL Aššur[1]DN ana[to]PRP rēʾûtu[shepherdship]N mātu[land]N u[and]CNJ nišu[people]N
+rinap/rinap3/Q003484,Sennacherib 010,24,nabû[name]V šumu[name]N ša[that]REL ina[in]PRP palû[reign-(of-a-king)]N bītu[house]N šuāti[him]IP anāhu[be(come)-tired]V
+rinap/rinap3/Q003484,Sennacherib 010,25,anhūtu[tiredness]N edēšu[be(come)-new]V mušarû[(royal)-inscription]N amāru[see]V šamnu[oil]N pašāšu[anoint]V
+rinap/rinap3/Q003484,Sennacherib 010,26,nīqu[offering]N naqû[pour-(a-libation)]V ina[in]PRP ašru[place]N šakānu[put]V Aššur[1]DN u[and]CNJ Ištar[1]DN ikribu[prayer]N šemû[hear]V
+rinap/rinap3/Q003484,Sennacherib 010,27,munakkiru[one-who-alters-something]N mušarû[(royal)-inscription]N dayyiṣu[one-who-disrespects]N awātu[word]N Aššur[1]DN šarru[king]N ilu[god]N u[and]CNJ ilu[god]N rabû[great]AJ
+rinap/rinap3/Q003484,Sennacherib 010,28,ša[of]DET šamû[heaven]N u[and]CNJ erṣetu[earth]N arratu[curse]N lā[not]MOD napšuru[appeasement]N marṣu[sick]AJ arāru[curse]V

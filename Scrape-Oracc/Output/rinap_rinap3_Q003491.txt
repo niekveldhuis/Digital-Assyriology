@@ -1,0 +1,740 @@
+id_text,text_name,l_no,text
+rinap/rinap3/Q003491,Sennacherib 017,i 1,Sin-ahhe-eriba[Sennacherib;-king-of-Assyria]RN šarru[king]N rabû[great]AJ
+rinap/rinap3/Q003491,Sennacherib 017,i 2,šarru[king]N dannu[strong]AJ šarru[king]N kiššatu[totality]N
+rinap/rinap3/Q003491,Sennacherib 017,i 3,šarru[king]N mātu[land]N Aššur[Assyria]GN šarru[king]N kibru[bank]N erbe[four]NU
+rinap/rinap3/Q003491,Sennacherib 017,i 4,rēʾû[shepherd]N itpēšu[expert]AJ migru[consent]N ilu[god]N rabû[great]AJ
+rinap/rinap3/Q003491,Sennacherib 017,i 5,nāṣiru[guard]N kittu[steadiness]N rāʾimu[one-who-loves]N mīšaru[justice]N
+rinap/rinap3/Q003491,Sennacherib 017,i 6,ēpišu[doer]N ūsu[straight-path]N āliku[goer]N tappûtu[common-cause]N
+rinap/rinap3/Q003491,Sennacherib 017,i 7,akû[weak-one]N sāhiru[turning]N damqu[good-one]N
+rinap/rinap3/Q003491,Sennacherib 017,i 8,eṭlu[manly-one]N gitmālu[perfect]AJ zikaru[male]AJ qardu[valiant]AJ
+rinap/rinap3/Q003491,Sennacherib 017,i 9,ašarēdu[first-and-foremost-one]N kalû[totality]N malku[prince]N rappu[(neck)-stock]N lāʾiṭu[one-who-wraps-itself-around]N
+rinap/rinap3/Q003491,Sennacherib 017,i 10,lā[not]MOD māgiru[submissive-one]N mušabriqu[one-who-strikes]N zāwiānu[enemy]N
+rinap/rinap3/Q003491,Sennacherib 017,i 11,Aššur[1]DN šadû[mountain]N rabû[great]AJ šarrūtu[kingship]N lā[not]MOD šanānu[equal]V
+rinap/rinap3/Q003491,Sennacherib 017,i 12,šutlumu[grant]V eli[on]PRP gimru[totality]N
+rinap/rinap3/Q003491,Sennacherib 017,i 13,wāšibu[sitting]AJ parakku[dais]N rabû[be(come)-big]V kakku[stick]N
+rinap/rinap3/Q003491,Sennacherib 017,i 14,ištu[from]PRP tiāmtu[sea]N elēnû[upper]AJ
+rinap/rinap3/Q003491,Sennacherib 017,i 15,ša[of]DET šulmu[completeness]N šamšu[sun]N adi[until]PRP tiāmtu[sea]N šaplû[lower]AJ
+rinap/rinap3/Q003491,Sennacherib 017,i 16,ša[of]DET ṣītu[exit]N šamšu[sun]N
+rinap/rinap3/Q003491,Sennacherib 017,i 17,gimru[totality]N ṣalmu[black]AJ qaqqadu[head]N kanāšu[bow-down]V šēpu[foot]N
+rinap/rinap3/Q003491,Sennacherib 017,i 18,u[and]CNJ malku[prince]N šapṣu[recalcitrant]AJ adāru[be(come)-afraid]V tāhāzu[battle]N
+rinap/rinap3/Q003491,Sennacherib 017,i 19,dadmū[villages]N ezēbu[leave]V
+rinap/rinap3/Q003491,Sennacherib 017,i 20,kīma[like]PRP šuttinnu[bat]N nigiṣṣu[crack]N
+rinap/rinap3/Q003491,Sennacherib 017,i 21,ēdiš[alone]AV naprušu[fly]V ašru[place]N lā[not]MOD wâru[go-(up-to)]V
+rinap/rinap3/Q003491,Sennacherib 017,i 22,ina[in]PRP mahrû[first]AJ gerru[way]N
+rinap/rinap3/Q003491,Sennacherib 017,i 23,ša[that]REL Marduk-apla-iddina[Merodach-baladan-II;-king-of-Babylon]RN šarru[king]N Karduniaš[Babylonia]GN
+rinap/rinap3/Q003491,Sennacherib 017,i 24,adi[until]PRP ummānu[military-force]N Elamtu[Elam]GN rēṣu[helper]N
+rinap/rinap3/Q003491,Sennacherib 017,i 25,ina[in]PRP tawwertu[(a-type-of-agricultural-land)]N Kiš[Kish]SN šakānu[put]V dabdû[defeat]N
+rinap/rinap3/Q003491,Sennacherib 017,i 26,ina[in]PRP qablu[hips]N tamhāru[battle]N šuāti[him]IP
+rinap/rinap3/Q003491,Sennacherib 017,i 27,ezēbu[leave]V karāšu[military-camp]N ēdiš[alone]AV naparšudu[flee]V
+rinap/rinap3/Q003491,Sennacherib 017,i 28,napištu[throat]N eṭēru[take-away]V narkabtu[chariot]N sisû[horse]N
+rinap/rinap3/Q003491,Sennacherib 017,i 29,ṣumbu[wheel]N parû[mule]N
+rinap/rinap3/Q003491,Sennacherib 017,i 30,ša[that]REL ina[in]PRP qerēbu[be(come)-close]V tāhāzu[battle]N
+rinap/rinap3/Q003491,Sennacherib 017,i 31,wašāru[sink-down]V kašādu[reach]V qātu[hand]N
+rinap/rinap3/Q003491,Sennacherib 017,i 32,ana[to]PRP ēkallu[palace]N ša[that]REL qerbu[centre]N Babili[Babylon]SN
+rinap/rinap3/Q003491,Sennacherib 017,i 33,hadîš[happily]AV erēbu[enter]V petû[open]V bītu[house]N niṣirtu[treasure]N
+rinap/rinap3/Q003491,Sennacherib 017,i 34,hurāṣu[gold]N kaspu[silver]N unūtu[merchandise]N hurāṣu[gold]N kaspu[silver]N abnu[stone]N waqru[rare]AJ
+rinap/rinap3/Q003491,Sennacherib 017,i 35,mimma[anything]XP šumu[name]N būšu[goods]N makkūru[property]N lā[not]MOD nību[naming]N kabtu[heavy]AJ biltu[load]N
+rinap/rinap3/Q003491,Sennacherib 017,i 36,sekretu[enclosed-(woman)]N ēkallu[palace]N tīru[courtier]N mazzāzu[position]N pānu[front]N
+rinap/rinap3/Q003491,Sennacherib 017,i 37,nāru[musician]N nārtu[female-musician]N
+rinap/rinap3/Q003491,Sennacherib 017,i 38,sihirtu[circumference]N ummiānu[investor]N mala[as-much-as]PRP bašû[existing]AJ
+rinap/rinap3/Q003491,Sennacherib 017,i 39,muttabbilu[servant]N ēkallu[palace]N
+rinap/rinap3/Q003491,Sennacherib 017,i 40,waṣû[go-out]V šallatiš[as-booty]AV manû[count]V
+rinap/rinap3/Q003491,Sennacherib 017,i 41,ina[in]PRP emūqu[strength]N Aššur[1]DN bēlu[lord]N ālu[city]N dannu[strong]AJ
+rinap/rinap3/Q003491,Sennacherib 017,i 42,bītu[house]N dūru[(city)-wall]N ša[of]DET Kaldu[Chaldea]GN
+rinap/rinap3/Q003491,Sennacherib 017,i 43,u[and]CNJ meʾatu[(one)-hundred]NU ālu[city]N ṣehru[small]AJ ša[that]REL liwītu[packaging]N
+rinap/rinap3/Q003491,Sennacherib 017,i 44,lawû[surround]V kašādu[reach]V šalālu[carry-off]V šallatu[plundered-thing(s)]N
+rinap/rinap3/Q003491,Sennacherib 017,i 45,urbu[(a-work-gang)]N Aramu[Aramean]EN Kaldayu[Chaldean]EN
+rinap/rinap3/Q003491,Sennacherib 017,i 46,ša[that]REL qerbu[centre]N Uruk[1]SN Nippur[1]SN Kiš[Kish]SN
+rinap/rinap3/Q003491,Sennacherib 017,i 47,Hursagkalama[1]SN Kute[Cutha]SN Sippar[1]SN
+rinap/rinap3/Q003491,Sennacherib 017,i 48,adi[until]PRP māru[son]N ālu[city]N bēlu[lord]N hīṭu[error]N waṣû[go-out]V
+rinap/rinap3/Q003491,Sennacherib 017,i 49,šallatiš[as-booty]AV manû[count]V
+rinap/rinap3/Q003491,Sennacherib 017,i 50,ina[in]PRP tayyartu[return]N
+rinap/rinap3/Q003491,Sennacherib 017,i 51,Tuʾumuna[1]EN Rihihu[1]EN
+rinap/rinap3/Q003491,Sennacherib 017,i 52,Yadaqqu[1]EN Ubudu[1]EN
+rinap/rinap3/Q003491,Sennacherib 017,i 53,Gibre[1]EN Malahu[1]EN
+rinap/rinap3/Q003491,Sennacherib 017,i 54,Gurumu[1]EN Ubulu[1]EN
+rinap/rinap3/Q003491,Sennacherib 017,i 55,Damunu[1]EN Gambulayu[of-Gambulu]EN
+rinap/rinap3/Q003491,Sennacherib 017,i 56,Hindaru[1]EN Ruʾuʾa[1]EN
+rinap/rinap3/Q003491,Sennacherib 017,i 57,Puqudu[1]EN Hamranu[1]EN
+rinap/rinap3/Q003491,Sennacherib 017,i 58,Hagaranu[1]EN Nabatu[1]EN
+rinap/rinap3/Q003491,Sennacherib 017,i 59,Liʾtaʾu[1]EN Aramu[Aramean]EN
+rinap/rinap3/Q003491,Sennacherib 017,i 60,lā[not]MOD kanšu[submissive]AJ mithāriš[in-the-same-manner]AV kašādu[reach]V
+rinap/rinap3/Q003491,Sennacherib 017,i 61,meʾatu[(one)-hundred]NU līm[thousand]NU nišu[people]N ṣehru[small]AJ rabû[great]AJ zikaru[male]AJ u[and]CNJ sinništu[woman]N sisû[horse]N
+rinap/rinap3/Q003491,Sennacherib 017,i 62,parû[mule]N imēru[donkey]N gammalu[camel]N alpu[ox]N
+rinap/rinap3/Q003491,Sennacherib 017,i 63,u[and]CNJ ṣēnu[flock]N ša[that]REL lā[not]MOD nību[naming]N šallatu[plundered-thing(s)]N
+rinap/rinap3/Q003491,Sennacherib 017,i 64,kabtu[heavy]AJ šalālu[carry-off]V ana[to]PRP qerbu[centre]N mātu[land]N Aššur[Assyria]GN
+rinap/rinap3/Q003491,Sennacherib 017,i 65,ina[in]PRP mētequ[route]N gerru[way]N ša[of]DET Nabu-bel-šumati[delegate-of-Hararatu]PN
+rinap/rinap3/Q003491,Sennacherib 017,i 66,qīpu[believable-one]N Hararate[1]SN
+rinap/rinap3/Q003491,Sennacherib 017,i 67,hurāṣu[gold]N kaspu[silver]N musukkannu[Magan-tree]N rabû[great]AJ imēru[donkey]N
+rinap/rinap3/Q003491,Sennacherib 017,i 68,gammalu[camel]N alpu[ox]N u[and]CNJ ṣēnu[flock]N
+rinap/rinap3/Q003491,Sennacherib 017,i 69,tāmartu[spectacle]N kabtu[heavy]AJ mahāru[face]V
+rinap/rinap3/Q003491,Sennacherib 017,i 70,bahūlātu[men]N Hirimmu[1]SN nakru[enemy]N akṣu[brazen]AJ
+rinap/rinap3/Q003491,Sennacherib 017,i 71,ina[in]PRP kakku[stick]N maqātu[fall]V wēdu[single]N ul[not]MOD ezēbu[leave]V
+rinap/rinap3/Q003491,Sennacherib 017,i 72,pagru[body]N ina[in]PRP gašīšu[stake]N alālu[hang-up]V
+rinap/rinap3/Q003491,Sennacherib 017,i 73,sihirtu[circumference]N ālu[city]N lawû[surround]V
+rinap/rinap3/Q003491,Sennacherib 017,i 74,nagû[region]N šuāti[him]IP ana[to]PRP eššūtu[newness]N ṣabātu[seize]V
+rinap/rinap3/Q003491,Sennacherib 017,i 75,ištēn[one]NU alpu[ox]N immeru[sheep]N imēru[unit]N karānu[vine]N imēru[unit]N suluppu[date]N
+rinap/rinap3/Q003491,Sennacherib 017,i 76,rēštu[beginning]N ana[to]PRP ilu[god]N mātu[land]N Aššur[Assyria]GN
+rinap/rinap3/Q003491,Sennacherib 017,i 77,bēlu[lord]N kânu[be(come)-permanent]V dārišam[for-ever]AV
+rinap/rinap3/Q003491,Sennacherib 017,i 78,ina[in]PRP šanû[second]AJ gerru[way]N Aššur[1]DN bēlu[lord]N takālu[trust]V
+rinap/rinap3/Q003491,Sennacherib 017,i 79,ana[to]PRP mātu[land]N Kaššu[Kassite]EN u[and]CNJ mātu[land]N Yasubigallayu[Yasubigallian]EN
+rinap/rinap3/Q003491,Sennacherib 017,i 80,ša[that]REL ištu[from]PRP ulla[distant-time]AV ana[to]PRP šarru[king]N abu[father]N
+rinap/rinap3/Q003491,Sennacherib 017,i 81,lā[not]MOD kitnušu[submissive]AJ lū[may]MOD alāku[go]V
+rinap/rinap3/Q003491,Sennacherib 017,i 82,qerbu[centre]N huršānu[mountain(s)]N zaqru[high]AJ eqlu[field]N namrāṣu[hardship]N
+rinap/rinap3/Q003491,Sennacherib 017,i 83,ina[in]PRP sisû[horse]N rakābu[ride]V narkabtu[chariot]N šēpu[foot]N
+rinap/rinap3/Q003491,Sennacherib 017,i 84,ina[in]PRP tikku[nape-of-the-neck]N našû[lift]V
+rinap/rinap3/Q003491,Sennacherib 017,i 85,ašru[place]N šupšuqu[very-laborious]AJ ina[in]PRP šēpu[foot]N rīmāniš[like-a-wild-bull]AV nagāšu[go-to(wards)]V
+rinap/rinap3/Q003491,Sennacherib 017,i 86,Bit-Kilamzah[1]SN Hardišpi[1]SN
+rinap/rinap3/Q003491,Sennacherib 017,i 87,Bit-Kubatti[1]SN ālu[city]N
+rinap/rinap3/Q003491,Sennacherib 017,i 88,bītu[house]N dūru[(city)-wall]N dannu[strong]AJ lawû[surround]V kašādu[reach]V
+rinap/rinap3/Q003491,Sennacherib 017,i 89,nišu[people]N sisû[horse]N parû[mule]N
+rinap/rinap3/Q003491,Sennacherib 017,i 90,imēru[donkey]N alpu[ox]N u[and]CNJ ṣēnu[flock]N
+rinap/rinap3/Q003491,Sennacherib 017,ii 1,ištu[from]PRP qerbu[centre]N waṣû[go-out]V šallatiš[as-booty]AV manû[count]V
+rinap/rinap3/Q003491,Sennacherib 017,ii 2,u[and]CNJ ālu[city]N ṣehru[small]AJ ša[that]REL nību[naming]N lā[not]MOD išû[have]V
+rinap/rinap3/Q003491,Sennacherib 017,ii 3,napālu[dig-out]V naqāru[demolish]V ewû[become]V karmiš[into-a-ruin]AV
+rinap/rinap3/Q003491,Sennacherib 017,ii 4,bītu[house]N ṣēru[back]N kuštāru[tent]N mūšabu[dwelling]N
+rinap/rinap3/Q003491,Sennacherib 017,ii 5,ina[in]PRP gīru[fire(-god)]N qamû[burn-(up)]V ditalliš[into-ashes]AV ewû[become]V
+rinap/rinap3/Q003491,Sennacherib 017,ii 6,târu[turn]V Bit-Kilamzah[1]SN šuāti[him]IP
+rinap/rinap3/Q003491,Sennacherib 017,ii 7,ana[to]PRP birtūtu[function-as-fort]N ṣabātu[seize]V eli[on]PRP ša[of]DET ūmu[day]N pānu[front]N
+rinap/rinap3/Q003491,Sennacherib 017,ii 8,dūru[(city)-wall]N danānu[be(come)-strong]V
+rinap/rinap3/Q003491,Sennacherib 017,ii 9,nišu[people]N mātu[land]N kišittu[achievement]N qātu[hand]N
+rinap/rinap3/Q003491,Sennacherib 017,ii 10,ina[in]PRP libbu[interior]N wašābu[sit-(down)]V
+rinap/rinap3/Q003491,Sennacherib 017,ii 11,nišu[people]N mātu[land]N Kaššu[Kassite]EN
+rinap/rinap3/Q003491,Sennacherib 017,ii 12,u[and]CNJ mātu[land]N Yasubigallayu[Yasubigallian]EN
+rinap/rinap3/Q003491,Sennacherib 017,ii 13,ša[that]REL lapāni[in-front-of]PRP kakku[stick]N naparšudu[flee]V
+rinap/rinap3/Q003491,Sennacherib 017,ii 14,ištu[from]PRP qerbu[centre]N šadû[mountain]N warādu[go-down]V
+rinap/rinap3/Q003491,Sennacherib 017,ii 15,ina[in]PRP Hardišpi[1]SN Bit-Kubatti[1]SN ramû[set-in-place]V
+rinap/rinap3/Q003491,Sennacherib 017,ii 16,ina[in]PRP qātu[hand]N šūt[who(m)]DET rēšu[head]N
+rinap/rinap3/Q003491,Sennacherib 017,ii 17,bēlu[lord]N pīhātu[post]N Arrapha[1]SN manû[count]V
+rinap/rinap3/Q003491,Sennacherib 017,ii 18,narû[stele]N epēšu[do]V
+rinap/rinap3/Q003491,Sennacherib 017,ii 19,lītu[victory]N kišittu[achievement]N qātu[hand]N ša[that]REL eli[on]PRP šakānu[put]V
+rinap/rinap3/Q003491,Sennacherib 017,ii 20,ṣēru[back]N šaṭāru[write]V ina[in]PRP qerbu[centre]N ālu[city]N izuzzu[stand]V
+rinap/rinap3/Q003491,Sennacherib 017,ii 21,pānu[front]N nīru[yoke]N târu[turn]V
+rinap/rinap3/Q003491,Sennacherib 017,ii 22,ana[to]PRP Ellipi[1]GN ṣabātu[seize]V harrānu[way]N
+rinap/rinap3/Q003491,Sennacherib 017,ii 23,ellāmu-[before]PRP Ispabara[king-of-Ellipi]RN šarru[king]N
+rinap/rinap3/Q003491,Sennacherib 017,ii 24,ālu[city]N dannu[strong]AJ bītu[house]N niṣirtu[treasure]N
+rinap/rinap3/Q003491,Sennacherib 017,ii 25,wašāru[sink-down]V ana[to]PRP rūqu[distant-one]N abātu[run-away]V
+rinap/rinap3/Q003491,Sennacherib 017,ii 26,gimru[totality]N mātu[land]N rapšu[wide]AJ kīma[like]PRP imbaru[fog]N sahāpu[envelop]V
+rinap/rinap3/Q003491,Sennacherib 017,ii 27,Marʾubišti[1]SN Akkuddu[1]SN
+rinap/rinap3/Q003491,Sennacherib 017,ii 28,ālu[city]N bītu[house]N šarrūtu[kingship]N adi[until]PRP ālu[city]N ṣehru[small]AJ
+rinap/rinap3/Q003491,Sennacherib 017,ii 29,ša[that]REL liwītu[packaging]N lawû[surround]V kašādu[reach]V
+rinap/rinap3/Q003491,Sennacherib 017,ii 30,napālu[dig-out]V naqāru[demolish]V ina[in]PRP gīru[fire(-god)]N qamû[burn-(up)]V
+rinap/rinap3/Q003491,Sennacherib 017,ii 31,nišu[people]N ṣehru[small]AJ rabû[great]AJ zikaru[male]AJ u[and]CNJ sinništu[woman]N sisû[horse]N
+rinap/rinap3/Q003491,Sennacherib 017,ii 32,parû[mule]N imēru[donkey]N gammalu[camel]N alpu[ox]N
+rinap/rinap3/Q003491,Sennacherib 017,ii 33,u[and]CNJ ṣēnu[flock]N ana[to]PRP lā[not]MOD mīnu[number]N šalālu[carry-off]V
+rinap/rinap3/Q003491,Sennacherib 017,ii 34,adi[until]PRP lā[not]MOD bašû[be]V alāku[go]V
+rinap/rinap3/Q003491,Sennacherib 017,ii 35,ṣehēru[be(come)-small]V mātu[land]N
+rinap/rinap3/Q003491,Sennacherib 017,ii 36,Ṣiṣṣirtu[1]SN Kummahlum[1]SN
+rinap/rinap3/Q003491,Sennacherib 017,ii 37,ālu[city]N dannu[strong]AJ adi[until]PRP ālu[city]N ṣehru[small]AJ
+rinap/rinap3/Q003491,Sennacherib 017,ii 38,ša[that]REL liwītu[packaging]N Bit-Barru[1]SN
+rinap/rinap3/Q003491,Sennacherib 017,ii 39,nagû[region]N ana[to]PRP gimirtu[totality]N
+rinap/rinap3/Q003491,Sennacherib 017,ii 40,ištu[from]PRP qerbu[centre]N mātu[land]N batāqu[cut-off]V
+rinap/rinap3/Q003491,Sennacherib 017,ii 41,eli[on]PRP miṣru[border]N mātu[land]N Aššur[Assyria]GN redû[accompany]V
+rinap/rinap3/Q003491,Sennacherib 017,ii 42,Elenzaš[1]SN ana[to]PRP ālu[city]N šarrūtu[kingship]N
+rinap/rinap3/Q003491,Sennacherib 017,ii 43,u[and]CNJ dannatu[fortified-(place)]N nagû[region]N šuāti[him]IP ṣabātu[seize]V
+rinap/rinap3/Q003491,Sennacherib 017,ii 44,šumu[name]N mahrû[first]AJ nakāru[be(come)-different]V
+rinap/rinap3/Q003491,Sennacherib 017,ii 45,Kar-Sin-ahhe-eriba[Kar-Sennacherib]SN
+rinap/rinap3/Q003491,Sennacherib 017,ii 46,nabû[name]V nibītu[naming]N
+rinap/rinap3/Q003491,Sennacherib 017,ii 47,nišu[people]N mātu[land]N kišittu[achievement]N qātu[hand]N ina[in]PRP libbu[interior]N wašābu[sit-(down)]V
+rinap/rinap3/Q003491,Sennacherib 017,ii 48,ina[in]PRP qātu[hand]N šūt[who(m)]DET rēšu[head]N
+rinap/rinap3/Q003491,Sennacherib 017,ii 49,bēlu[lord]N pīhātu[post]N Harhar[1]SN manû[count]V
+rinap/rinap3/Q003491,Sennacherib 017,ii 50,rapāšu[be(come)-broad]V mātu[land]N
+rinap/rinap3/Q003491,Sennacherib 017,ii 51,ina[in]PRP tayyartu[return]N
+rinap/rinap3/Q003491,Sennacherib 017,ii 52,ša[of]DET Madayu[Median]EN rūqu[distant]AJ
+rinap/rinap3/Q003491,Sennacherib 017,ii 53,ša[that]REL ina[in]PRP šarru[king]N abu[father]N
+rinap/rinap3/Q003491,Sennacherib 017,ii 54,mamman[somebody]XP lā[not]MOD šemû[hear]V zikru[utterance]N mātu[land]N
+rinap/rinap3/Q003491,Sennacherib 017,ii 55,maddattu[payment]N kabtu[heavy]AJ mahāru[face]V
+rinap/rinap3/Q003491,Sennacherib 017,ii 56,ana[to]PRP nīru[yoke]N bēlūtu[rule]N
+rinap/rinap3/Q003491,Sennacherib 017,ii 57,kanāšu[bow-down]V
+rinap/rinap3/Q003491,Sennacherib 017,ii 58,ina[in]PRP šalšu[third]AJ gerru[way]N ana[to]PRP Hatti[Syria-Palestine]GN lū[may]MOD alāku[go]V
+rinap/rinap3/Q003491,Sennacherib 017,ii 59,Luli[king-of-Sidon]RN šarru[king]N Ṣidunu[Sidon]SN
+rinap/rinap3/Q003491,Sennacherib 017,ii 60,pulhu[terror]N melemmu[fearsome-radiance]N bēlūtu[rule]N sahāpu[envelop]V
+rinap/rinap3/Q003491,Sennacherib 017,ii 61,ana[to]PRP rūqu[distant-one]N qablu[hips]N tiāmtu[sea]N abātu[run-away]V šadû[mountain]N emēdu[lean-on]V
+rinap/rinap3/Q003491,Sennacherib 017,ii 62,Ṣidunu[Sidon]SN rabû[great]AJ Ṣidunu[Sidon]SN ṣehru[small]AJ
+rinap/rinap3/Q003491,Sennacherib 017,ii 63,Bit-Zitti[1]SN Ṣariptu[Ṣarepta]SN
+rinap/rinap3/Q003491,Sennacherib 017,ii 64,Mahalliba[1]SN Ušu[1]SN
+rinap/rinap3/Q003491,Sennacherib 017,ii 65,Akzibi[1]SN Akku[Acco]SN
+rinap/rinap3/Q003491,Sennacherib 017,ii 66,ālu[city]N dannu[strong]AJ bītu[house]N dūru[(city)-wall]N ašru[place]N rîtu[pasture]N
+rinap/rinap3/Q003491,Sennacherib 017,ii 67,u[and]CNJ mašqītu[watering-place]N bītu[house]N tukultu[trust]N
+rinap/rinap3/Q003491,Sennacherib 017,ii 68,rašubbatu[awesomeness]N kakku[stick]N Aššur[1]DN bēlu[lord]N
+rinap/rinap3/Q003491,Sennacherib 017,ii 69,sahāpu[envelop]V kanāšu[bow-down]V šēpu[foot]N
+rinap/rinap3/Q003491,Sennacherib 017,ii 70,Tu-Baʾlu[king-of-Tyre]RN ina[in]PRP kussû[chair]N šarrūtu[kingship]N
+rinap/rinap3/Q003491,Sennacherib 017,ii 71,eli[on]PRP wašābu[sit-(down)]V
+rinap/rinap3/Q003491,Sennacherib 017,ii 72,biltu[load]N maddattu[payment]N bēlūtu[rule]N
+rinap/rinap3/Q003491,Sennacherib 017,ii 73,šattišamma[year-by-year]AV lā[not]MOD baṭlu[ceased]AJ
+rinap/rinap3/Q003491,Sennacherib 017,ii 74,kânu[be(come)-permanent]V ṣēru[back]N
+rinap/rinap3/Q003491,Sennacherib 017,ii 75,ša[of]DET Menaheme[Menahem;-king-of-Samsimuruna]RN Samsimurunayu[of-Samsimuruna]EN
+rinap/rinap3/Q003491,Sennacherib 017,ii 76,Tu-Baʾlu[king-of-Tyre]RN Ṣidunayu[of-Sidon]EN
+rinap/rinap3/Q003491,Sennacherib 017,ii 77,Abdi-Liʾti[king-of-Arwad]RN Arwadayu[of-Arwad]EN
+rinap/rinap3/Q003491,Sennacherib 017,ii 78,Uru-Milki[king-of-Byblos]RN Gublayu[of-Byblos]EN
+rinap/rinap3/Q003491,Sennacherib 017,ii 79,Mitinti[king-of-Ashdod]RN Asdudayu[of-Ashdod]EN
+rinap/rinap3/Q003491,Sennacherib 017,ii 80,Budi-il[king-of-Bit-Ammon]RN Bit-Ammanayu[of-Ammon]EN
+rinap/rinap3/Q003491,Sennacherib 017,ii 81,Kammusu-nadbi[king-of-Moab]RN Maʾabayu[of-Moab]EN
+rinap/rinap3/Q003491,Sennacherib 017,ii 82,Aya-rammu[king-of-Edom]RN Udumayu[of-Edom]EN
+rinap/rinap3/Q003491,Sennacherib 017,ii 83,šarru[king]N mātu[land]N Amurru[1]GN kalû[totality]N
+rinap/rinap3/Q003491,Sennacherib 017,ii 84,igisû[contribution]N šadlu[broad]AJ tāmartu[spectacle]N kabtu[heavy]AJ
+rinap/rinap3/Q003491,Sennacherib 017,ii 85,adi[until]PRP erbêšu[four-times]AV ana[to]PRP mahru[front]N našû[lift]V
+rinap/rinap3/Q003491,Sennacherib 017,ii 86,našāqu[kiss]V šēpu[foot]N
+rinap/rinap3/Q003491,Sennacherib 017,ii 87,u[and]CNJ Ṣidqa[king-of-Ashkelon]RN šarru[king]N Isqaluna[Ashkelon]SN
+rinap/rinap3/Q003491,Sennacherib 017,ii 88,ša[that]REL lā[not]MOD kanāšu[bow-down]V ana[to]PRP nīru[yoke]N
+rinap/rinap3/Q003491,Sennacherib 017,ii 89,ilu[god]N bītu[house]N abu[father]N šâšu[him]IP aššatu[wife]N māru[son]N
+rinap/rinap3/Q003491,Sennacherib 017,ii 90,mārtu[daughter]N ahu[brother]N zēru[seed(s)]N bītu[house]N abu[father]N
+rinap/rinap3/Q003491,Sennacherib 017,ii 91,nasāhu[tear-out]V ana[to]PRP mātu[land]N Aššur[Assyria]GN warû[lead]V
+rinap/rinap3/Q003491,Sennacherib 017,ii 92,Šarru-lu-dari[king-of-Ashkelon]RN māru[son]N Rukibtu[king-of-Ashkelon]RN šarru[king]N mahrû[first]AJ
+rinap/rinap3/Q003491,Sennacherib 017,ii 93,eli[on]PRP nišu[people]N Isqaluna[Ashkelon]SN šakānu[put]V
+rinap/rinap3/Q003491,Sennacherib 017,ii 94,nadānu[give]V biltu[load]N kadrû[present]N bēlūtu[rule]N
+rinap/rinap3/Q003491,Sennacherib 017,ii 95,emēdu[lean-on]V šâṭu[pull]V abšānu[yoke]N
+rinap/rinap3/Q003491,Sennacherib 017,ii 96,ina[in]PRP mētequ[route]N gerru[way]N Bit-Daganna[1]SN
+rinap/rinap3/Q003491,Sennacherib 017,iii 1,Iappu[Joppa]SN Banayabarqa[1]SN
+rinap/rinap3/Q003491,Sennacherib 017,iii 2,Azuru[1]SN ālu[city]N ša[of]DET Ṣidqa[king-of-Ashkelon]RN
+rinap/rinap3/Q003491,Sennacherib 017,iii 3,ša[that]REL ana[to]PRP šēpu[foot]N arhiš[quickly]AV lā[not]MOD kanāšu[bow-down]V
+rinap/rinap3/Q003491,Sennacherib 017,iii 4,lawû[surround]V kašādu[reach]V šalālu[carry-off]V šallatu[plundered-thing(s)]N
+rinap/rinap3/Q003491,Sennacherib 017,iii 5,šakkanakku[(military)-governor]N rubû[ruler]N u[and]CNJ nišu[people]N
+rinap/rinap3/Q003491,Sennacherib 017,iii 6,Amqarruna[Ekron]SN ša[that]REL Padi[king-of-Ekron]RN šarru[king]N
+rinap/rinap3/Q003491,Sennacherib 017,iii 7,bēlu[lord]N adû[(treaty-)oath]N u[and]CNJ māmītu[oath]N ša[of]DET mātu[land]N Aššur[Assyria]GN
+rinap/rinap3/Q003491,Sennacherib 017,iii 8,birītu[fetter]N parzillu[iron]N nadû[throw-(down)]V ana[to]PRP Hazaqi-Yau[Hezekiah;-king-of-Judah]RN
+rinap/rinap3/Q003491,Sennacherib 017,iii 9,Yaudayu[of-Judah]EN nadānu[give]V nakriš[like-an-enemy]AV
+rinap/rinap3/Q003491,Sennacherib 017,iii 10,ana[to]PRP anzillu[taboo]N epēšu[do]V palāhu[be(come)-afraid]V libbu[interior]N
+rinap/rinap3/Q003491,Sennacherib 017,iii 11,šarru[king]N Muṣur[Egypt]GN ṣābu[people]N qaštu[bow]N narkabtu[chariot]N
+rinap/rinap3/Q003491,Sennacherib 017,iii 12,sisû[horse]N ša[of]DET šarru[king]N Meluhha[1]GN emūqu[strength]N lā[not]MOD nību[naming]N
+rinap/rinap3/Q003491,Sennacherib 017,iii 13,katāru[get-(as)-help]V alāku[go]V rēṣūtu[help]N
+rinap/rinap3/Q003491,Sennacherib 017,iii 14,ina[in]PRP tawwertu[(a-type-of-agricultural-land)]N Altaqu[Eltekeh]SN ellāmu-[before]PRP
+rinap/rinap3/Q003491,Sennacherib 017,iii 15,sidru[row]N šitkunu[situated]AJ šêlu[sharpen]V kakku[stick]N
+rinap/rinap3/Q003491,Sennacherib 017,iii 16,ina[in]PRP tukultu[trust]N Aššur[1]DN bēlu[lord]N
+rinap/rinap3/Q003491,Sennacherib 017,iii 17,itti[with]PRP mahāṣu[beat]V šakānu[put]V dabdû[defeat]N
+rinap/rinap3/Q003491,Sennacherib 017,iii 18,bēlu[lord]N narkabtu[chariot]N u[and]CNJ māru[son]N šarru[king]N Muṣurayu[of-Egypt]EN
+rinap/rinap3/Q003491,Sennacherib 017,iii 19,adi[until]PRP bēlu[lord]N narkabtu[chariot]N ša[of]DET šarru[king]N Meluhha[1]GN
+rinap/rinap3/Q003491,Sennacherib 017,iii 20,balṭūtu[state-of-being-alive]N ina[in]PRP qablu[hips]N tamhāru[battle]N
+rinap/rinap3/Q003491,Sennacherib 017,iii 21,kašādu[reach]V qātu[hand]N Altaqu[Eltekeh]SN Tamna[1]SN
+rinap/rinap3/Q003491,Sennacherib 017,iii 22,lawû[surround]V kašādu[reach]V šalālu[carry-off]V šallatu[plundered-thing(s)]N
+rinap/rinap3/Q003491,Sennacherib 017,iii 23,ana[to]PRP Amqarruna[Ekron]SN qerēbu[be(come)-close]V
+rinap/rinap3/Q003491,Sennacherib 017,iii 24,šakkanakku[(military)-governor]N rubû[ruler]N ša[that]REL hīṭu[error]N bašû[be]V
+rinap/rinap3/Q003491,Sennacherib 017,iii 25,dâku[kill]V ina[in]PRP dimtu[tower]N
+rinap/rinap3/Q003491,Sennacherib 017,iii 26,sihirtu[circumference]N ālu[city]N alālu[hang-up]V pagru[body]N
+rinap/rinap3/Q003491,Sennacherib 017,iii 27,māru[son]N ālu[city]N ēpišu[doer]N arnu[guilt]N u[and]CNJ gillatu[sin]N
+rinap/rinap3/Q003491,Sennacherib 017,iii 28,ana[to]PRP šallatu[plundered-thing(s)]N manû[count]V
+rinap/rinap3/Q003491,Sennacherib 017,iii 29,sittūtu[those-remaining]N lā[not]MOD babbilu[bearer]N hiṭītu[shortfall]N
+rinap/rinap3/Q003491,Sennacherib 017,iii 30,u[and]CNJ gullultu[sin]N
+rinap/rinap3/Q003491,Sennacherib 017,iii 31,ša[that]REL arnu[guilt]N lā[not]MOD bašû[be]V
+rinap/rinap3/Q003491,Sennacherib 017,iii 32,wašāru[sink-down]V qabû[say]V
+rinap/rinap3/Q003491,Sennacherib 017,iii 33,Padi[king-of-Ekron]RN šarru[king]N
+rinap/rinap3/Q003491,Sennacherib 017,iii 34,ištu[from]PRP qerbu[centre]N Ursalimmu[Jerusalem]SN
+rinap/rinap3/Q003491,Sennacherib 017,iii 35,waṣû[go-out]V ina[in]PRP kussû[chair]N bēlūtu[rule]N
+rinap/rinap3/Q003491,Sennacherib 017,iii 36,eli[on]PRP wašābu[sit-(down)]V maddattu[payment]N
+rinap/rinap3/Q003491,Sennacherib 017,iii 37,bēlūtu[rule]N kânu[be(come)-permanent]V ṣēru[back]N
+rinap/rinap3/Q003491,Sennacherib 017,iii 38,u[and]CNJ Hazaqi-Yau[Hezekiah;-king-of-Judah]RN Yaudayu[of-Judah]EN
+rinap/rinap3/Q003491,Sennacherib 017,iii 39,ša[that]REL lā[not]MOD kanāšu[bow-down]V ana[to]PRP nīru[yoke]N
+rinap/rinap3/Q003491,Sennacherib 017,iii 40,ālu[city]N bītu[house]N dūru[(city)-wall]N dannu[strong]AJ
+rinap/rinap3/Q003491,Sennacherib 017,iii 41,u[and]CNJ ālu[city]N ṣehru[small]AJ ša[that]REL liwītu[packaging]N
+rinap/rinap3/Q003491,Sennacherib 017,iii 42,ša[that]REL nību[naming]N lā[not]MOD išû[have]V
+rinap/rinap3/Q003491,Sennacherib 017,iii 43,ina[in]PRP kabāsu[tread]V arammu[causeway]N
+rinap/rinap3/Q003491,Sennacherib 017,iii 44,u[and]CNJ qerēbu[be(come)-close]V yašibu[battering-ram]N
+rinap/rinap3/Q003491,Sennacherib 017,iii 45,mahāṣu[beat]V zūku[infantry]N šēpu[foot]N pilšu[breach]N niksu[cutting-(off)]N
+rinap/rinap3/Q003491,Sennacherib 017,iii 46,u[and]CNJ kalbānātu[(a-siege-instrument)]N lawû[surround]V kašādu[reach]V
+rinap/rinap3/Q003491,Sennacherib 017,iii 47,meʾatu[(one)-hundred]NU līm[thousand]NU meʾatu[(one)-hundred]NU nišu[people]N ṣehru[small]AJ rabû[great]AJ
+rinap/rinap3/Q003491,Sennacherib 017,iii 48,zikaru[male]AJ u[and]CNJ sinništu[woman]N sisû[horse]N parû[mule]N
+rinap/rinap3/Q003491,Sennacherib 017,iii 49,imēru[donkey]N gammalu[camel]N alpu[ox]N
+rinap/rinap3/Q003491,Sennacherib 017,iii 50,u[and]CNJ ṣēnu[flock]N ša[that]REL lā[not]MOD nību[naming]N ištu[from]PRP qerbu[centre]N
+rinap/rinap3/Q003491,Sennacherib 017,iii 51,waṣû[go-out]V šallatiš[as-booty]AV manû[count]V
+rinap/rinap3/Q003491,Sennacherib 017,iii 52,šâšu[him]IP kīma[like]PRP iṣṣūru[bird]N quppu[box]N qerbu[centre]N
+rinap/rinap3/Q003491,Sennacherib 017,iii 53,Ursalimmu[Jerusalem]SN ālu[city]N šarrūtu[kingship]N esēru[enclose]V
+rinap/rinap3/Q003491,Sennacherib 017,iii 54,birtu[fort]N eli[on]PRP rakāsu[tie]V
+rinap/rinap3/Q003491,Sennacherib 017,iii 55,waṣû[go-out]V abullu[gate]N ālu[city]N
+rinap/rinap3/Q003491,Sennacherib 017,iii 56,târu[turn]V ikkibu[taboo]N
+rinap/rinap3/Q003491,Sennacherib 017,iii 57,ālu[city]N ša[that]REL šalālu[carry-off]V
+rinap/rinap3/Q003491,Sennacherib 017,iii 58,ištu[from]PRP qerbu[centre]N mātu[land]N batāqu[cut-off]V
+rinap/rinap3/Q003491,Sennacherib 017,iii 59,ana[to]PRP Mitinti[king-of-Ashdod]RN šarru[king]N Asdudu[Ashdod]SN
+rinap/rinap3/Q003491,Sennacherib 017,iii 60,Padi[king-of-Ekron]RN šarru[king]N Amqarruna[Ekron]SN
+rinap/rinap3/Q003491,Sennacherib 017,iii 61,u[and]CNJ Ṣilli-Bel[king-of-Gaza]RN šarru[king]N Hazzat[Gaza]SN
+rinap/rinap3/Q003491,Sennacherib 017,iii 62,nadānu[give]V ṣehēru[be(come)-small]V mātu[land]N
+rinap/rinap3/Q003491,Sennacherib 017,iii 63,eli[on]PRP biltu[load]N mahrû[first]AJ nadānu[give]V šattu[year]N
+rinap/rinap3/Q003491,Sennacherib 017,iii 64,maddattu[payment]N kadrû[present]N bēlūtu[rule]N
+rinap/rinap3/Q003491,Sennacherib 017,iii 65,redû[accompany]V kânu[be(come)-permanent]V ṣēru[back]N
+rinap/rinap3/Q003491,Sennacherib 017,iii 66,šū[he]IP Hazaqi-Yau[Hezekiah;-king-of-Judah]RN pulhu[terror]N melemmu[fearsome-radiance]N
+rinap/rinap3/Q003491,Sennacherib 017,iii 67,bēlūtu[rule]N sahāpu[envelop]V
+rinap/rinap3/Q003491,Sennacherib 017,iii 68,urbu[(a-work-gang)]N u[and]CNJ ṣābu[people]N damqu[good]AJ
+rinap/rinap3/Q003491,Sennacherib 017,iii 69,ša[that]REL ana[to]PRP danānu[be(come)-strong]V Ursalimmu[Jerusalem]SN
+rinap/rinap3/Q003491,Sennacherib 017,iii 70,ālu[city]N šarrūtu[kingship]N erēbu[enter]V rašû[acquire]V tillatu[auxiliaries]N
+rinap/rinap3/Q003491,Sennacherib 017,iii 71,itti[with]PRP biltu[load]N hurāṣu[gold]N meʾatu[(one)-hundred]NU biltu[load]N kaspu[silver]N
+rinap/rinap3/Q003491,Sennacherib 017,iii 72,nisiqtu[selection]N guhlu[kohl]N takkassu[unworked-block]N rabû[great]AJ
+rinap/rinap3/Q003491,Sennacherib 017,iii 73,eršu[bed]N šinnu[tooth]N kussû[chair]N nēmedu[that-on-which-one-leans]N šinnu[tooth]N
+rinap/rinap3/Q003491,Sennacherib 017,iii 74,mašku[skin]N pīru[elephant]N šinnu[tooth]N pīru[elephant]N ušû[diorite]N taskarinnu[box-tree]N
+rinap/rinap3/Q003491,Sennacherib 017,iii 75,mimma[anything]XP šumu[name]N niṣirtu[treasure]N kabtu[heavy]AJ
+rinap/rinap3/Q003491,Sennacherib 017,iii 76,u[and]CNJ mārtu[daughter]N sekretu[enclosed-(woman)]N ēkallu[palace]N
+rinap/rinap3/Q003491,Sennacherib 017,iii 77,nāru[musician]N nārtu[female-musician]N
+rinap/rinap3/Q003491,Sennacherib 017,iii 78,ana[to]PRP qerbu[centre]N Ninua[Nineveh]SN ālu[city]N bēlūtu[rule]N
+rinap/rinap3/Q003491,Sennacherib 017,iii 79,warki[after]PRP wabālu[carry]V
+rinap/rinap3/Q003491,Sennacherib 017,iii 80,ana[to]PRP nadānu[give]V maddattu[payment]N
+rinap/rinap3/Q003491,Sennacherib 017,iii 81,u[and]CNJ epēšu[do]V wardūtu[slavery]N šapāru[send]V rakbû[mounted-messenger]N
+rinap/rinap3/Q003491,Sennacherib 017,iii 82,ina[in]PRP rebû[fourth]AJ gerru[way]N Aššur[1]DN bēlu[lord]N takālu[trust]V
+rinap/rinap3/Q003491,Sennacherib 017,iii 83,ummānu[military-force]N gapšu[arisen]AJ dekû[raise]V
+rinap/rinap3/Q003491,Sennacherib 017,iii 84,ana[to]PRP Bit-Yakin[1]GN alāku[go]V qabû[say]V
+rinap/rinap3/Q003491,Sennacherib 017,iii 85,ina[in]PRP mētequ[route]N gerru[way]N
+rinap/rinap3/Q003491,Sennacherib 017,iii 86,ša[of]DET Šuzubu[Mušezib-Marduk;-king-of-Babylon]RN Kaldayu[Chaldean]EN
+rinap/rinap3/Q003491,Sennacherib 017,iii 87,wāšibu[sitting]AJ qerbu[centre]N agammu[marsh(es)]N
+rinap/rinap3/Q003491,Sennacherib 017,iii 88,ina[in]PRP Bittutu[1]SN šakānu[put]V dabdû[defeat]N
+rinap/rinap3/Q003491,Sennacherib 017,iii 89,šū[he]IP hurbāšu[frost]N tāhāzu[battle]N eli[on]PRP maqātu[fall]V
+rinap/rinap3/Q003491,Sennacherib 017,iii 90,tarāku[switch-a-whip]V libbu[interior]N kīma[like]PRP azaru[lynx]N ēdiš[alone]AV naparšudu[flee]V
+rinap/rinap3/Q003491,Sennacherib 017,iii 91,ul[not]MOD amāru[see]V ašru[place]N
+rinap/rinap3/Q003491,Sennacherib 017,iii 92,pānu[front]N nīru[yoke]N târu[turn]V
+rinap/rinap3/Q003491,Sennacherib 017,iii 93,ana[to]PRP Bit-Yakin[1]GN ṣabātu[seize]V harrānu[way]N
+rinap/rinap3/Q003491,Sennacherib 017,iii 94,šū[he]IP Marduk-apla-iddina[Merodach-baladan-II;-king-of-Babylon]RN
+rinap/rinap3/Q003491,Sennacherib 017,iii 95,ša[that]REL ina[in]PRP alāku[go]V gerru[way]N mahrû[first]AJ
+rinap/rinap3/Q003491,Sennacherib 017,iv 1,dabdû[defeat]N šakānu[put]V parāru[break-up]V illatu[band]N
+rinap/rinap3/Q003491,Sennacherib 017,iv 2,rigmu[voice]N kakku[stick]N dannu[strong]AJ
+rinap/rinap3/Q003491,Sennacherib 017,iv 3,u[and]CNJ tību[attack]N tāhāzu[battle]N ezzu[furious]AJ adāru[be(come)-afraid]V
+rinap/rinap3/Q003491,Sennacherib 017,iv 4,ana[to]PRP Nagite-raqqi[1]SN
+rinap/rinap3/Q003491,Sennacherib 017,iv 5,ša[that]REL qablu[hips]N tiāmtu[sea]N iṣṣūriš[like-a-bird]AV naprušu[fly]V
+rinap/rinap3/Q003491,Sennacherib 017,iv 6,ahu[brother]N zēru[seed(s)]N bītu[house]N abu[father]N ša[that]REL wašāru[sink-down]V ahu[arm]N tiāmtu[sea]N
+rinap/rinap3/Q003491,Sennacherib 017,iv 7,adi[until]PRP šittu[remnant]N nišu[people]N mātu[land]N
+rinap/rinap3/Q003491,Sennacherib 017,iv 8,ištu[from]PRP Bit-Yakin[1]GN qerbu[centre]N agammu[marsh(es)]N
+rinap/rinap3/Q003491,Sennacherib 017,iv 9,appāru[reed-bed]N waṣû[go-out]V šallatiš[as-booty]AV manû[count]V
+rinap/rinap3/Q003491,Sennacherib 017,iv 10,târu[turn]V ālu[city]N napālu[dig-out]V naqāru[demolish]V ewû[become]V karmiš[into-a-ruin]AV
+rinap/rinap3/Q003491,Sennacherib 017,iv 11,eli[on]PRP bēlu[lord]N salīmu[peace]N šarru[king]N Elamtu[Elam]GN
+rinap/rinap3/Q003491,Sennacherib 017,iv 12,namurratu[awe-inspiring-radiance]N tabāku[heap-up]V
+rinap/rinap3/Q003491,Sennacherib 017,iv 13,ina[in]PRP tayyartu[return]N Aššur-nadin-šumi[son-of-Sennacherib-and-king-of-Babylon]RN
+rinap/rinap3/Q003491,Sennacherib 017,iv 14,māru[son]N rēštû[first]AJ tarbītu[child-rearing]N birku[knee]N
+rinap/rinap3/Q003491,Sennacherib 017,iv 15,ina[in]PRP kussû[chair]N bēlūtu[rule]N wašābu[sit-(down)]V
+rinap/rinap3/Q003491,Sennacherib 017,iv 16,rapšu[wide]AJ mātu[land]N Šumeru[Sumer]GN u[and]CNJ Akkad[1]GN
+rinap/rinap3/Q003491,Sennacherib 017,iv 17,dagālu[see]V pānu[front]N
+rinap/rinap3/Q003491,Sennacherib 017,iv 18,ina[in]PRP hamšu[fifth]AJ gerru[way]N bahūlātu[men]N Tumurru[1]SN
+rinap/rinap3/Q003491,Sennacherib 017,iv 19,Šarum[1]SN Ezama[1]SN Kibšu[1]SN
+rinap/rinap3/Q003491,Sennacherib 017,iv 20,Halbuda[1]SN Qua[1]SN Qana[1]SN
+rinap/rinap3/Q003491,Sennacherib 017,iv 21,ša[that]REL kīma[like]PRP qinnu[nest]N erû[eagle]N ašarēdu[first-and-foremost-one]N iṣṣūru[bird]N
+rinap/rinap3/Q003491,Sennacherib 017,iv 22,ṣēru[back]N zuqtu[mountain-peak]N Nipur[1]GN šadû[mountain]N marṣu[sick]AJ
+rinap/rinap3/Q003491,Sennacherib 017,iv 23,šubtu[seat]N šitkunu[situated]AJ lā[not]MOD kitnušu[submissive]AJ
+rinap/rinap3/Q003491,Sennacherib 017,iv 24,ana[to]PRP nīru[yoke]N ina[in]PRP šēpu[foot]N Nipur[1]GN karāšu[military-camp]N šakānu[put]V
+rinap/rinap3/Q003491,Sennacherib 017,iv 25,itti[with]PRP qurbūtu[closeness]N šēpu[foot]N nasqu[chosen]AJ
+rinap/rinap3/Q003491,Sennacherib 017,iv 26,u[and]CNJ ṣābu[people]N tāhāzu[battle]N lā[not]MOD gāmilu[merciful]AJ
+rinap/rinap3/Q003491,Sennacherib 017,iv 27,anāku[I]IP kīma[like]PRP rīmu[wild-bull]N ekdu[wild]AJ pānu[front]N ṣabātu[seize]V
+rinap/rinap3/Q003491,Sennacherib 017,iv 28,hurru[hole]N nahallu[stream]N natbāku[pouring]N šadû[mountain]N mēlû[height]N
+rinap/rinap3/Q003491,Sennacherib 017,iv 29,marṣu[sick]AJ ina[in]PRP kussû[chair]N šadāhu[walk-forward]V
+rinap/rinap3/Q003491,Sennacherib 017,iv 30,ašru[place]N ana[to]PRP kussû[chair]N šupšuqu[very-laborious]AJ
+rinap/rinap3/Q003491,Sennacherib 017,iv 31,ina[in]PRP šēpu[foot]N šahāṭu[jump-(on)]V kīma[like]PRP armu[mountain-goat]N
+rinap/rinap3/Q003491,Sennacherib 017,iv 32,ana[to]PRP zuqtu[mountain-peak]N šaqû[high]AJ ṣēru[back]N elû[go-up]V
+rinap/rinap3/Q003491,Sennacherib 017,iv 33,ašru[place]N birku[knee]N mānahtu[weariness]N išû[have]V
+rinap/rinap3/Q003491,Sennacherib 017,iv 34,ṣēru[back]N abnu[stone]N šadû[mountain]N wašābu[sit-(down)]V mû[water]N nādu[(water-)skin]N
+rinap/rinap3/Q003491,Sennacherib 017,iv 35,kaṣû[cold]N ana[to]PRP ṣūmu[thirst]N lū[may]MOD šatû[drink]V
+rinap/rinap3/Q003491,Sennacherib 017,iv 36,ina[in]PRP ubānu[finger]N huršānu[mountain(s)]N redû[accompany]V
+rinap/rinap3/Q003491,Sennacherib 017,iv 37,šakānu[put]V tahtû[defeat]N ālu[city]N kašādu[reach]V
+rinap/rinap3/Q003491,Sennacherib 017,iv 38,šalālu[carry-off]V šallatu[plundered-thing(s)]N napālu[dig-out]V naqāru[demolish]V ina[in]PRP gīru[fire(-god)]N qamû[burn-(up)]V
+rinap/rinap3/Q003491,Sennacherib 017,iv 39,pānu[front]N nīru[yoke]N târu[turn]V ṣēru[back]N Maniye[king-of-Ukku]RN
+rinap/rinap3/Q003491,Sennacherib 017,iv 40,šarru[king]N Ukku[1]SN šaddûʾa[mountain-dweller]N lā[not]MOD kanšu[submissive]AJ ṣabātu[seize]V harrānu[way]N
+rinap/rinap3/Q003491,Sennacherib 017,iv 41,urhu[road]N lā[not]MOD petû[open]AJ ṭūdu[path]N pašqu[narrow]AJ
+rinap/rinap3/Q003491,Sennacherib 017,iv 42,ša[that]REL lapāni[in-front-of]PRP šadû[mountain]N marṣu[sick]AJ
+rinap/rinap3/Q003491,Sennacherib 017,iv 43,ullânu[there]AV qerbu[centre]N mamman[somebody]XP
+rinap/rinap3/Q003491,Sennacherib 017,iv 44,lā[not]MOD alāku[go]V šarru[king]N pānu[front]N mahrû[first]AJ
+rinap/rinap3/Q003491,Sennacherib 017,iv 45,ina[in]PRP šēpu[foot]N Anara[1]GN u[and]CNJ Uppa[1]GN šadû[mountain]N
+rinap/rinap3/Q003491,Sennacherib 017,iv 46,dannu[strong]AJ karāšu[military-camp]N šakānu[put]V
+rinap/rinap3/Q003491,Sennacherib 017,iv 47,anāku[I]IP ina[in]PRP kussû[chair]N nēmedu[that-on-which-one-leans]N itti[with]PRP ṣābu[people]N
+rinap/rinap3/Q003491,Sennacherib 017,iv 48,tāhāzu[battle]N gitmālu[perfect]AJ
+rinap/rinap3/Q003491,Sennacherib 017,iv 49,ina[in]PRP nērebu[entrance]N pīqu[narrow]AJ
+rinap/rinap3/Q003491,Sennacherib 017,iv 50,šūnuhiš[with-much-trouble]AV erēbu[enter]V marṣiš[bitterly]AV elû[go-up]V
+rinap/rinap3/Q003491,Sennacherib 017,iv 51,ubānu[finger]N šadû[mountain]N pašqu[narrow]AJ
+rinap/rinap3/Q003491,Sennacherib 017,iv 52,šū[he]IP Maniye[king-of-Ukku]RN tarbuʾtu[dust]N
+rinap/rinap3/Q003491,Sennacherib 017,iv 53,šēpu[foot]N ummānu[military-force]N amāru[see]V Ukku[1]SN ālu[city]N šarrūtu[kingship]N
+rinap/rinap3/Q003491,Sennacherib 017,iv 54,ezēbu[leave]V ana[to]PRP rūqu[distant-one]N abātu[run-away]V
+rinap/rinap3/Q003491,Sennacherib 017,iv 55,Ukku[1]SN lawû[surround]V kašādu[reach]V šalālu[carry-off]V šallatu[plundered-thing(s)]N
+rinap/rinap3/Q003491,Sennacherib 017,iv 56,mimma[anything]XP šumu[name]N būšu[goods]N makkūru[property]N niṣirtu[treasure]N ēkallu[palace]N
+rinap/rinap3/Q003491,Sennacherib 017,iv 57,ištu[from]PRP qerbu[centre]N waṣû[go-out]V šallatiš[as-booty]AV manû[count]V
+rinap/rinap3/Q003491,Sennacherib 017,iv 58,u[and]CNJ ālu[city]N ša[that]REL pāṭu[edge]N liwītu[packaging]N
+rinap/rinap3/Q003491,Sennacherib 017,iv 59,kašādu[reach]V nišu[people]N alpu[ox]N u[and]CNJ ṣēnu[flock]N
+rinap/rinap3/Q003491,Sennacherib 017,iv 60,imēru[donkey]N šalālu[carry-off]V napālu[dig-out]V naqāru[demolish]V ina[in]PRP gīru[fire(-god)]N qamû[burn-(up)]V
+rinap/rinap3/Q003491,Sennacherib 017,iv 61,ina[in]PRP līmu[eponym-(of-year)]N Šulmu-Bel[governor-of-Talmusu]PN šaknu[appointee]N mātu[land]N Talmusu[1]SN
+rinap/rinap3/Q003491,Sennacherib 017,iv 62,Kirua[city-ruler-of-Illubru]PN bēlu[lord]N ālu[city]N ša[of]DET Illubri[1]SN
+rinap/rinap3/Q003491,Sennacherib 017,iv 63,wardu[slave]N dāgilu[one-who-sees]N pānu[front]N ša[that]REL ezēbu[leave]V ilu[god]N
+rinap/rinap3/Q003491,Sennacherib 017,iv 64,bahūlātu[men]N Hilakku[1]GN
+rinap/rinap3/Q003491,Sennacherib 017,iv 65,nabalkutu[cross-over]V kaṣāru[tie]V tāhāzu[battle]N
+rinap/rinap3/Q003491,Sennacherib 017,iv 66,nišu[people]N wāšibu[sitting]AJ Ingira[1]SN u[and]CNJ Tarzi[Tarsus]SN
+rinap/rinap3/Q003491,Sennacherib 017,iv 67,idu[arm]N sahāru[go-around]V gerru[way]N Que[1]GN
+rinap/rinap3/Q003491,Sennacherib 017,iv 68,ṣabātu[seize]V parāsu[stop]V alaktu[way]N
+rinap/rinap3/Q003491,Sennacherib 017,iv 69,ṣābu[people]N qaštu[bow]N nāšû[bearing]N tukšu[shield]N u[and]CNJ azmarû[lance]N
+rinap/rinap3/Q003491,Sennacherib 017,iv 70,narkabtu[chariot]N sisû[horse]N kiṣru[knot]N šarrūtu[kingship]N
+rinap/rinap3/Q003491,Sennacherib 017,iv 71,wâru[go-(up-to)]V ṣēru[back]N
+rinap/rinap3/Q003491,Sennacherib 017,iv 72,ša[of]DET bahūlātu[men]N Hilakku[1]GN
+rinap/rinap3/Q003491,Sennacherib 017,iv 73,ša[that]REL idu[arm]N sahāru[go-around]V
+rinap/rinap3/Q003491,Sennacherib 017,iv 74,ina[in]PRP qerbu[centre]N šadû[mountain]N marṣu[sick]AJ šakānu[put]V tahtû[defeat]N
+rinap/rinap3/Q003491,Sennacherib 017,iv 75,Ingira[1]SN Tarzi[Tarsus]SN kašādu[reach]V
+rinap/rinap3/Q003491,Sennacherib 017,iv 76,šalālu[carry-off]V šallatu[plundered-thing(s)]N
+rinap/rinap3/Q003491,Sennacherib 017,iv 77,šâšu[him]IP qerbu[centre]N Illubri[1]SN ālu[city]N dannūtu[strength]N
+rinap/rinap3/Q003491,Sennacherib 017,iv 78,nītu[encirclement]N lawû[surround]V ṣabātu[seize]V mūṣû[exit]N
+rinap/rinap3/Q003491,Sennacherib 017,iv 79,ina[in]PRP qerēbu[be(come)-close]V yašibu[battering-ram]N nimgallu[big-fly]N dūru[(city)-wall]N
+rinap/rinap3/Q003491,Sennacherib 017,iv 80,u[and]CNJ kalbānātu[(a-siege-instrument)]N mahāṣu[beat]V zūku[infantry]N šēpu[foot]N
+rinap/rinap3/Q003491,Sennacherib 017,iv 81,dabdû[defeat]N šakānu[put]V ṣabātu[seize]V ālu[city]N
+rinap/rinap3/Q003491,Sennacherib 017,iv 82,Kirua[city-ruler-of-Illubru]PN bēlu[lord]N ālu[city]N adi[until]PRP šallatu[plundered-thing(s)]N ālu[city]N
+rinap/rinap3/Q003491,Sennacherib 017,iv 83,u[and]CNJ nišu[people]N Hilakku[1]GN ša[that]REL idu[arm]N
+rinap/rinap3/Q003491,Sennacherib 017,iv 84,sahāru[go-around]V adi[until]PRP imēru[donkey]N alpu[ox]N u[and]CNJ ṣēnu[flock]N
+rinap/rinap3/Q003491,Sennacherib 017,iv 85,ana[to]PRP Ninua[Nineveh]SN adi[until]PRP mahru[front]N wabālu[carry]V
+rinap/rinap3/Q003491,Sennacherib 017,iv 86,ša[of]DET Kirua[city-ruler-of-Illubru]PN mašku[skin]N kâṣu[skin]V
+rinap/rinap3/Q003491,Sennacherib 017,iv 87,târu[turn]V Illubri[1]SN ana[to]PRP eššūtu[newness]N ṣabātu[seize]V
+rinap/rinap3/Q003491,Sennacherib 017,iv 88,nišu[people]N mātu[land]N kišittu[achievement]N qātu[hand]N ina[in]PRP libbu[interior]N wašābu[sit-(down)]V
+rinap/rinap3/Q003491,Sennacherib 017,iv 89,kakku[stick]N Aššur[1]DN bēlu[lord]N qerbu[centre]N ramû[set-in-place]V
+rinap/rinap3/Q003491,Sennacherib 017,iv 90,narû[stele]N ša[of]DET ašnugallu[alabaster]N epēšu[do]V
+rinap/rinap3/Q003491,Sennacherib 017,iv 91,mahru[front]N izuzzu[stand]V
+rinap/rinap3/Q003491,Sennacherib 017,v 1,ina[in]PRP līmu[eponym-(of-year)]N Aššur-belu-uṣur[governor-of-Katmuhu]PN šaknu[appointee]N mātu[land]N Katmuhu[1]GN
+rinap/rinap3/Q003491,Sennacherib 017,v 2,ana[to]PRP Til-Garimmu[1]SN
+rinap/rinap3/Q003491,Sennacherib 017,v 3,ālu[city]N ša[that]REL pāṭu[edge]N Tabalu[Tabal]GN
+rinap/rinap3/Q003491,Sennacherib 017,v 4,ša[of]DET Gurdi[ruler-of-Kulummu]RN šarru[king]N Urdutu[1]SN
+rinap/rinap3/Q003491,Sennacherib 017,v 5,rakāsu[tie]V kakku[stick]N
+rinap/rinap3/Q003491,Sennacherib 017,v 6,nasāku[throw-(down)]V ṣābu[people]N qaštu[bow]N nāšû[bearing]N tukšu[shield]N
+rinap/rinap3/Q003491,Sennacherib 017,v 7,u[and]CNJ azmarû[lance]N narkabtu[chariot]N sisû[horse]N
+rinap/rinap3/Q003491,Sennacherib 017,v 8,kiṣru[knot]N šarrūtu[kingship]N wâru[go-(up-to)]V ṣēru[back]N
+rinap/rinap3/Q003491,Sennacherib 017,v 9,ālu[city]N šuāti[him]IP nītu[encirclement]N lawû[surround]V
+rinap/rinap3/Q003491,Sennacherib 017,v 10,ina[in]PRP šipku[heaping-up]N eperu[earth]N u[and]CNJ qerēbu[be(come)-close]V yašibu[battering-ram]N
+rinap/rinap3/Q003491,Sennacherib 017,v 11,mahāṣu[beat]V zūku[infantry]N šēpu[foot]N ṣabātu[seize]V ālu[city]N
+rinap/rinap3/Q003491,Sennacherib 017,v 12,nišu[people]N adi[until]PRP ilu[god]N wāšibu[sitting]AJ libbu[interior]N manû[count]V šallatiš[as-booty]AV
+rinap/rinap3/Q003491,Sennacherib 017,v 13,ālu[city]N šuāti[him]IP napālu[dig-out]V naqāru[demolish]V
+rinap/rinap3/Q003491,Sennacherib 017,v 14,ana[to]PRP tīlu[(ruin)-mound]N u[and]CNJ karmu[heap]N târu[turn]V
+rinap/rinap3/Q003491,Sennacherib 017,v 15,ina[in]PRP šallatu[plundered-thing(s)]N mātu[land]N šâtina[those]IP ša[that]REL šalālu[carry-off]V
+rinap/rinap3/Q003491,Sennacherib 017,v 16,līm[thousand]NU qaštu[bow]N līm[thousand]NU arītu[shield]N
+rinap/rinap3/Q003491,Sennacherib 017,v 17,ina[in]PRP libbu[interior]N kaṣāru[tie]V
+rinap/rinap3/Q003491,Sennacherib 017,v 18,eli[on]PRP kiṣru[knot]N šarrūtu[kingship]N redû[accompany]V
+rinap/rinap3/Q003491,Sennacherib 017,v 19,šittu[remnant]N šallatu[plundered-thing(s)]N nakru[enemy]N kabtu[heavy]AJ
+rinap/rinap3/Q003491,Sennacherib 017,v 20,ana[to]PRP gimru[totality]N karāšu[military-camp]N u[and]CNJ bēlu[lord]N pīhātu[post]N
+rinap/rinap3/Q003491,Sennacherib 017,v 21,nišu[people]N māhāzu[shrine]N rabû[great]AJ
+rinap/rinap3/Q003491,Sennacherib 017,v 22,kīma[like]PRP ṣēnu[flock]N lū[may]MOD zâzu[divide]V
+rinap/rinap3/Q003491,Sennacherib 017,v 23,ina[in]PRP ūmu[day]N Ninua[Nineveh]SN māhāzu[shrine]N ṣīru[exalted]AJ
+rinap/rinap3/Q003491,Sennacherib 017,v 24,ālu[city]N narāmu[loved-one]N Ištar[1]DN
+rinap/rinap3/Q003491,Sennacherib 017,v 25,ša[that]REL napharu[total]N kidudû[rites]N ilu[god]N
+rinap/rinap3/Q003491,Sennacherib 017,v 26,u[and]CNJ ištaru[goddess]N bašû[existing]AJ qerbu[centre]N
+rinap/rinap3/Q003491,Sennacherib 017,v 27,temmēnu[foundation]N dārû[lasting]AJ duruššu[foundation-(platform)]N ṣiātu[distant-time]N
+rinap/rinap3/Q003491,Sennacherib 017,v 28,ša[that]REL ištu[from]PRP ulla[distant-time]AV itti[with]PRP šiṭru[(piece-of)-writing]N burūmû[heaven]N
+rinap/rinap3/Q003491,Sennacherib 017,v 29,iṣratu[plan]N eṣru[drawn]AJ šūpû[made-apparent]AJ ṣimdu[binding]N
+rinap/rinap3/Q003491,Sennacherib 017,v 30,ašru[place]N naklu[skilful]AJ šubtu[seat]N pirištu[secret-plot]N
+rinap/rinap3/Q003491,Sennacherib 017,v 31,ša[that]REL mimma[anything]XP šumu[name]N šipru[sending]N nikiltu[skill]N
+rinap/rinap3/Q003491,Sennacherib 017,v 32,gimru[totality]N pelludû[ritual]N niṣirtu[treasure]N lalgar[cosmic-(underground)-water]N
+rinap/rinap3/Q003491,Sennacherib 017,v 33,šutābulu[mixed]AJ qerbu[centre]N
+rinap/rinap3/Q003491,Sennacherib 017,v 34,ša[that]REL ištu[from]PRP ulla[distant-time]AV šarru[king]N
+rinap/rinap3/Q003491,Sennacherib 017,v 35,āliku[goer]N mahru[front]N abu[father]N
+rinap/rinap3/Q003491,Sennacherib 017,v 36,ullânu[there]AV bēlūtu[rule]N mātu[land]N Aššur[Assyria]GN epēšu[do]V
+rinap/rinap3/Q003491,Sennacherib 017,v 37,wâru[go-(up-to)]V baʾūlātu[people]N Enlil[1]DN
+rinap/rinap3/Q003491,Sennacherib 017,v 38,ayyumma[any]XP ina[in]PRP libbu[interior]N ana[to]PRP šadālu[be(come)-wide]V šubtu[seat]N ālu[city]N
+rinap/rinap3/Q003491,Sennacherib 017,v 39,epēšu[do]V dūru[(city)-wall]N ešēru[go-well]V sūqu[street]N
+rinap/rinap3/Q003491,Sennacherib 017,v 40,u[and]CNJ herû[dig]V nāru[river]N zaqāpu[fix-upright]V ṣippatu[fruit-orchard]N
+rinap/rinap3/Q003491,Sennacherib 017,v 41,uznu[ear]N ul[not]MOD bašû[be]V
+rinap/rinap3/Q003491,Sennacherib 017,v 42,ul[not]MOD wabālu[carry]V karšu[stomach]N
+rinap/rinap3/Q003491,Sennacherib 017,v 43,ana[to]PRP ēkallu[palace]N qerbu[centre]N kummu[cella]N rimītu[residence]N bēlūtu[rule]N
+rinap/rinap3/Q003491,Sennacherib 017,v 44,ša[that]REL ṣuhhuru[very-small]AJ šubtu[seat]N
+rinap/rinap3/Q003491,Sennacherib 017,v 45,epištu[deed]N lā[not]MOD naklu[skilful]AJ
+rinap/rinap3/Q003491,Sennacherib 017,v 46,lētu[cheek]N ul[not]MOD nadû[throw-(down)]V
+rinap/rinap3/Q003491,Sennacherib 017,v 47,libbu[interior]N ul[not]MOD hasāsu[be(come)-conscious]V
+rinap/rinap3/Q003491,Sennacherib 017,v 48,yâti[me]IP Sin-ahhe-eriba[Sennacherib;-king-of-Assyria]RN
+rinap/rinap3/Q003491,Sennacherib 017,v 49,šarru[king]N kiššatu[totality]N šarru[king]N mātu[land]N Aššur[Assyria]GN
+rinap/rinap3/Q003491,Sennacherib 017,v 50,epēšu[do]V šipru[sending]N šuāti[him]IP kī[like]PRP ṭēmu[report]N ilu[god]N
+rinap/rinap3/Q003491,Sennacherib 017,v 51,ina[in]PRP uznu[ear]N bašû[be]V kabattu[liver]N wabālu[carry]V
+rinap/rinap3/Q003491,Sennacherib 017,v 52,tenēštu[people]N Kaldu[Chaldea]GN Aramu[Aramean]EN Mannayu[Mannean]EN
+rinap/rinap3/Q003491,Sennacherib 017,v 53,Que[1]GN u[and]CNJ Hilakku[1]GN Pilištu[Philistia]GN u[and]CNJ Ṣurru[Tyre]SN
+rinap/rinap3/Q003491,Sennacherib 017,v 54,ša[that]REL ana[to]PRP nīru[yoke]N lā[not]MOD kanāšu[bow-down]V
+rinap/rinap3/Q003491,Sennacherib 017,v 55,nasāhu[tear-out]V tupšikku[hod-(for-carrying-bricks)]N našû[lift]V
+rinap/rinap3/Q003491,Sennacherib 017,v 56,labānu[spread]V libittu[mudbrick]N ēkallu[palace]N mahrû[first]AJ
+rinap/rinap3/Q003491,Sennacherib 017,v 57,ša[that]REL meʾatu[(one)-hundred]NU ina[in]PRP ammatu[unit]N šiddu[side]N
+rinap/rinap3/Q003491,Sennacherib 017,v 58,ina[in]PRP ammatu[unit]N pūtu[forehead]N
+rinap/rinap3/Q003491,Sennacherib 017,v 59,māraku[length]N šitkunu[situated]AJ
+rinap/rinap3/Q003491,Sennacherib 017,v 60,ṣuhhuru[very-small]AJ šubtu[seat]N
+rinap/rinap3/Q003491,Sennacherib 017,v 61,ša[that]REL šarru[king]N āliku[goer]N mahru[front]N abu[father]N
+rinap/rinap3/Q003491,Sennacherib 017,v 62,ana[to]PRP rimītu[residence]N bēlūtu[rule]N epēšu[do]V
+rinap/rinap3/Q003491,Sennacherib 017,v 63,lā[not]MOD nakālu[be(come)-skilful]V šipru[sending]N
+rinap/rinap3/Q003491,Sennacherib 017,v 64,aladlammû[human-headed-bull-colossus]N ša[of]DET pīlu[limestone]N peṣû[white]AJ
+rinap/rinap3/Q003491,Sennacherib 017,v 65,ina[in]PRP Tastiate[1]SN ša[that]REL ebertān[on-the-opposite-bank]AV Idiqlat[Tigris]WN
+rinap/rinap3/Q003491,Sennacherib 017,v 66,batāqu[cut-off]V ana[to]PRP mukillu[holder]N bābu[gate]N
+rinap/rinap3/Q003491,Sennacherib 017,v 67,ana[to]PRP epēšu[do]V eleppu[ship]N
+rinap/rinap3/Q003491,Sennacherib 017,v 68,qerbu[centre]N qištu[forest]N iṣu[tree]N rabû[great]AJ
+rinap/rinap3/Q003491,Sennacherib 017,v 69,waqāru[be(come)-rare]V ina[in]PRP napharu[total]N mātu[land]N
+rinap/rinap3/Q003491,Sennacherib 017,v 70,ina[in]PRP Ayyaru[1]MN ūmu[day]N adānu[fixed-date]N edû[flood]N pānu[front]N šattu[year]N
+rinap/rinap3/Q003491,Sennacherib 017,v 71,ina[in]PRP eleppu[ship]N ṣīru[exalted]AJ
+rinap/rinap3/Q003491,Sennacherib 017,v 72,ana[to]PRP ahannâ[on-this-bank]AV ebēru[cross-over]V marṣiš[bitterly]AV
+rinap/rinap3/Q003491,Sennacherib 017,v 73,ina[in]PRP nēberu[crossing]N kāru[quay]N magulû[(a-big-raft)]N
+rinap/rinap3/Q003491,Sennacherib 017,v 74,ṭebû[sink]V bahūlātu[men]N
+rinap/rinap3/Q003491,Sennacherib 017,v 75,anāhu[be(come)-tired]V lemēnu[be(come)-bad]V karšu[stomach]N
+rinap/rinap3/Q003491,Sennacherib 017,v 76,ina[in]PRP danānu[power]N u[and]CNJ pašāqu[be(come)-narrow]V
+rinap/rinap3/Q003491,Sennacherib 017,v 77,marṣiš[bitterly]AV wabālu[carry]V
+rinap/rinap3/Q003491,Sennacherib 017,v 78,ṣabātu[seize]V bābu[gate]N
+rinap/rinap3/Q003491,Sennacherib 017,v 79,Tebilti[1]WN agû[wave]N šitmuru[very-wild]AJ
+rinap/rinap3/Q003491,Sennacherib 017,v 80,ša[that]REL ištu[from]PRP ūmu[day]N rūqu[distant]AJ
+rinap/rinap3/Q003491,Sennacherib 017,v 81,ṭēhu[proximity]N ēkallu[palace]N bâʾu[go-along]V
+rinap/rinap3/Q003491,Sennacherib 017,v 82,ina[in]PRP mīlu[high-water]N gapšu[arisen]AJ ina[in]PRP uššu[foundation]N
+rinap/rinap3/Q003491,Sennacherib 017,v 83,abbu[swamp]N bašû[be]V râbu[tremble]V temmēnu[foundation]N
+rinap/rinap3/Q003491,Sennacherib 017,v 84,egalturrû[little-palace]N šâtu[him]IP ana[to]PRP sihirtu[circumference]N naqāru[demolish]V
+rinap/rinap3/Q003491,Sennacherib 017,v 85,ša[of]DET Tebilti[1]WN mālaku[walk]N
+rinap/rinap3/Q003491,Sennacherib 017,v 86,ištu[from]PRP qabaltu[middle]N ālu[city]N parāsu[stop]V
+rinap/rinap3/Q003491,Sennacherib 017,v 87,ina[in]PRP tawwertu[(a-type-of-agricultural-land)]N kutallu[back]N ālu[city]N ešēru[go-well]V mūṣû[exit]N
+rinap/rinap3/Q003491,Sennacherib 017,v 88,ina[in]PRP ikû[field]N mālaku[walk]N mû[water]N pīlu[limestone]N rabû[great]AJ
+rinap/rinap3/Q003491,Sennacherib 017,v 89,itti[with]PRP kupru[bitumen]N kasû[bind]V qanû[reed]N apu[reed-bed]N
+rinap/rinap3/Q003491,Sennacherib 017,v 90,u[and]CNJ kupû[reed-thicket]N tarāṣu[stretch-a-(measuring)-cord]V eli[on]PRP
+rinap/rinap3/Q003491,Sennacherib 017,v 91,meʾatu[(one)-hundred]NU ina[in]PRP ammatu[unit]N šiddu[side]N
+rinap/rinap3/Q003491,Sennacherib 017,vi 1,meʾatu[(one)-hundred]NU ina[in]PRP ammatu[unit]N pūtu[forehead]N
+rinap/rinap3/Q003491,Sennacherib 017,vi 2,qaqqaru[ground]N ištu[from]PRP qerbu[centre]N Husur[Khosr]WN
+rinap/rinap3/Q003491,Sennacherib 017,vi 3,u[and]CNJ tawwertu[(a-type-of-agricultural-land)]N ālu[city]N
+rinap/rinap3/Q003491,Sennacherib 017,vi 4,kīma[like]PRP watartu[excess]N lū[may]MOD ṣabātu[seize]V ṣēru[back]N mišihtu[measurement]N
+rinap/rinap3/Q003491,Sennacherib 017,vi 5,tamlīu[fill]N mahrû[first]AJ lū[may]MOD redû[accompany]V
+rinap/rinap3/Q003491,Sennacherib 017,vi 6,ana[to]PRP sihirtu[circumference]N ina[in]PRP meʾatu[(one)-hundred]NU tibku[course-of-bricks]N elû[go-up]V rēšu[head]N
+rinap/rinap3/Q003491,Sennacherib 017,vi 7,labāriš[to-become-old]AV ūmu[day]N ina[in]PRP mīlu[high-water]N kiššatu[totality]N
+rinap/rinap3/Q003491,Sennacherib 017,vi 8,temmēnu[foundation]N tamlīu[fill]N lā[not]MOD enēšu[be(come)-weak]V
+rinap/rinap3/Q003491,Sennacherib 017,vi 9,pīlu[limestone]N rabû[great]AJ kisû[footing]N
+rinap/rinap3/Q003491,Sennacherib 017,vi 10,sahāru[go-around]V danānu[be(come)-strong]V šupku[foundation]N
+rinap/rinap3/Q003491,Sennacherib 017,vi 11,ana[to]PRP meʾatu[(one)-hundred]NU ina[in]PRP aslu[unit]N rabû[great]AJ šiddu[side]N
+rinap/rinap3/Q003491,Sennacherib 017,vi 12,u[and]CNJ meʾatu[(one)-hundred]NU ina[in]PRP aslu[unit]N rabû[great]AJ pūtu[forehead]N
+rinap/rinap3/Q003491,Sennacherib 017,vi 13,šikittu[form]N ēkallu[palace]N watāru[be(come)-outsize]V
+rinap/rinap3/Q003491,Sennacherib 017,vi 14,šubtu[seat]N rabû[be(come)-big]V ēkallu[palace]N hurāṣu[gold]N kaspu[silver]N
+rinap/rinap3/Q003491,Sennacherib 017,vi 15,siparru[bronze]N turminabandû[(a-breccia-or-marble)]N
+rinap/rinap3/Q003491,Sennacherib 017,vi 16,ašnugallu[alabaster]N šinnu[tooth]N pīru[elephant]N ušû[diorite]N taskarinnu[box-tree]N
+rinap/rinap3/Q003491,Sennacherib 017,vi 17,musukkannu[Magan-tree]N erēnu[cedar]N šurmēnu[cypress]N
+rinap/rinap3/Q003491,Sennacherib 017,vi 18,burāšu[(species-of)-juniper]N elammakku[(a-tree)]N sindû[Indian]N
+rinap/rinap3/Q003491,Sennacherib 017,vi 19,ana[to]PRP mūšabu[dwelling]N bēlūtu[rule]N
+rinap/rinap3/Q003491,Sennacherib 017,vi 20,banû[create]V bītu[house]N mutērtu[leaf-of-a-door]N
+rinap/rinap3/Q003491,Sennacherib 017,vi 21,tamšīlu[likeness]N ēkallu[palace]N Hatti[Syria-Palestine]GN
+rinap/rinap3/Q003491,Sennacherib 017,vi 22,mehretu[opposite-side]N bābu[gate]N epēšu[do]V
+rinap/rinap3/Q003491,Sennacherib 017,vi 23,gušūru[tree-trunk]N erēnu[cedar]N šurmēnu[cypress]N
+rinap/rinap3/Q003491,Sennacherib 017,vi 24,ša[that]REL erīšu[scent]N ṭābu[good]AJ binûtu[creation]N Hamanu[Amanus]GN
+rinap/rinap3/Q003491,Sennacherib 017,vi 25,u[and]CNJ Sirara[1]GN šadû[mountain]N ellu[pure]AJ
+rinap/rinap3/Q003491,Sennacherib 017,vi 26,tarāṣu[stretch-a-(measuring)-cord]V eli[on]PRP
+rinap/rinap3/Q003491,Sennacherib 017,vi 27,daltu[door]N erēnu[cedar]N šurmēnu[cypress]N burāšu[(species-of)-juniper]N
+rinap/rinap3/Q003491,Sennacherib 017,vi 28,sindû[Indian]N misarru[belt]N kaspu[silver]N werû[copper]N
+rinap/rinap3/Q003491,Sennacherib 017,vi 29,rakāsu[tie]V retû[drive-in]V bābu[gate]N
+rinap/rinap3/Q003491,Sennacherib 017,vi 30,ina[in]PRP barakku[(a-corridor-or-outbuilding)]N ša[that]REL qerbu[centre]N papāhu[cella]N
+rinap/rinap3/Q003491,Sennacherib 017,vi 31,aptu[window]N birru[grille]N petû[open]V
+rinap/rinap3/Q003491,Sennacherib 017,vi 32,lamassu[(female)-tutelary-deity]N ašnugallu[alabaster]N šinnu[tooth]N pīru[elephant]N
+rinap/rinap3/Q003491,Sennacherib 017,vi 33,ša[that]REL illūru[(a-flower)]N našû[lifted]AJ kitmusu[kneeling]AJ rittu[hand]N
+rinap/rinap3/Q003491,Sennacherib 017,vi 34,bāštu[dignity]N kuzbu[attractiveness]N hitlupu[intertwined]AJ lulû[plenty]N
+rinap/rinap3/Q003491,Sennacherib 017,vi 35,malû[full]AJ ina[in]PRP bābu[gate]N izuzzu[stand]V
+rinap/rinap3/Q003491,Sennacherib 017,vi 36,ana[to]PRP tabrītu[(nocturnal)-vision]N alāku[go]V
+rinap/rinap3/Q003491,Sennacherib 017,vi 37,ṣulūlu[roof]N tarānu[roof]N ša[that]REL qerbu[centre]N barakku[(a-corridor-or-outbuilding)]N
+rinap/rinap3/Q003491,Sennacherib 017,vi 38,eṭûtu[darkness]N helû[be(come)-bright]V
+rinap/rinap3/Q003491,Sennacherib 017,vi 39,ūmiš[like-a-srorm]AV nawāru[be(come)-bright]V
+rinap/rinap3/Q003491,Sennacherib 017,vi 40,sikkatu[peg]N karru[knob]N kaspu[silver]N u[and]CNJ werû[copper]N
+rinap/rinap3/Q003491,Sennacherib 017,vi 41,qerbu[centre]N lawû[surround]V
+rinap/rinap3/Q003491,Sennacherib 017,vi 42,ina[in]PRP agurru[baked-brick]N ṣurru[obsidian]N uqnû[lapis-lazuli]N
+rinap/rinap3/Q003491,Sennacherib 017,vi 43,wasāmu[be(come)-fitting]V sellu[basket]N nēbehu[band]N
+rinap/rinap3/Q003491,Sennacherib 017,vi 44,u[and]CNJ gimru[totality]N pasqu[coping-(of-a-wall)]N
+rinap/rinap3/Q003491,Sennacherib 017,vi 45,aššu[because-(of)]PRP šipru[sending]N ēkallu[palace]N ešēru[go-well]V
+rinap/rinap3/Q003491,Sennacherib 017,vi 46,u[and]CNJ liptu[undertaking]N qātu[hand]N šalāmu[be(come)-healthy]V
+rinap/rinap3/Q003491,Sennacherib 017,vi 47,ina[in]PRP ūmu[day]N Aššur[1]DN u[and]CNJ Ištar[1]DN
+rinap/rinap3/Q003491,Sennacherib 017,vi 48,rāʾimu[one-who-loves]N šangûtu[priesthood]N
+rinap/rinap3/Q003491,Sennacherib 017,vi 49,nābû[who-calls-by-name]N šumu[name]N gišmahhu[tree-trunk]N erēnu[cedar]N
+rinap/rinap3/Q003491,Sennacherib 017,vi 50,ša[that]REL ištu[from]PRP ūmu[day]N rūqu[distant]AJ šiāhu[grow-(tall)]V
+rinap/rinap3/Q003491,Sennacherib 017,vi 51,kabāru[be(come)-thick]V magal[very-(much)]AV ina[in]PRP qerbu[centre]N Sirara[1]GN
+rinap/rinap3/Q003491,Sennacherib 017,vi 52,šadû[mountain]N ina[in]PRP puzru[hidden-place]N nanzuzu[was-standing]AJ
+rinap/rinap3/Q003491,Sennacherib 017,vi 53,kullumu[show]V ṣītu[exit]N
+rinap/rinap3/Q003491,Sennacherib 017,vi 54,ša[of]DET ašnugallu[alabaster]N ša[that]REL ina[in]PRP tarṣu[before]N šarru[king]N
+rinap/rinap3/Q003491,Sennacherib 017,vi 55,abu[father]N ana[to]PRP karru[knob]N namṣāru[sword]N šūquru[very-valuable]AJ
+rinap/rinap3/Q003491,Sennacherib 017,vi 56,ina[in]PRP sapannu[flatland]N Ammanana[1]GN petû[open]V pānu[front]N
+rinap/rinap3/Q003491,Sennacherib 017,vi 57,u[and]CNJ turminabandû[(a-breccia-or-marble)]N mala[as-much-as]PRP burzigallu[big-pursītu-vessel]N
+rinap/rinap3/Q003491,Sennacherib 017,vi 58,ša[that]REL lā[not]MOD amāru[see]V matīma[ever]AV
+rinap/rinap3/Q003491,Sennacherib 017,vi 59,ina[in]PRP Kapridargila[1]SN
+rinap/rinap3/Q003491,Sennacherib 017,vi 60,ša[that]REL pāṭu[edge]N Til-Barsip[1]SN
+rinap/rinap3/Q003491,Sennacherib 017,vi 61,kullumu[show]V ramānu[self]N
+rinap/rinap3/Q003491,Sennacherib 017,vi 62,itû[boundary]N Ninua[Nineveh]SN ina[in]PRP erṣetu[earth]N Balaṭaya[1]SN
+rinap/rinap3/Q003491,Sennacherib 017,vi 63,kī[like]PRP ṭēmu[report]N ilu[god]N pīlu[limestone]N peṣû[white]AJ
+rinap/rinap3/Q003491,Sennacherib 017,vi 64,ana[to]PRP muʾuddû[(large)-quantity]N amāru[see]V
+rinap/rinap3/Q003491,Sennacherib 017,vi 65,aladlammû[human-headed-bull-colossus]N u[and]CNJ ṣalmu[effigy]N mešrêtu[limbs]N ašnugallu[alabaster]N
+rinap/rinap3/Q003491,Sennacherib 017,vi 66,ša[that]REL ina[in]PRP ištēn[one]NU abnu[stone]N banû[create]V minītu[measure]N šuklulu[complete]AJ
+rinap/rinap3/Q003491,Sennacherib 017,vi 67,ina[in]PRP kigallu[socle]N ramānu[self]N
+rinap/rinap3/Q003491,Sennacherib 017,vi 68,šaqîš[high-up]AV nanzuzu[was-standing]AJ
+rinap/rinap3/Q003491,Sennacherib 017,vi 69,apsasû[(an-exotic-bovid)]N ašnugallu[alabaster]N
+rinap/rinap3/Q003491,Sennacherib 017,vi 70,ša[that]REL zīmu[face]N nussuqu[select(ed)]AJ
+rinap/rinap3/Q003491,Sennacherib 017,vi 71,kīma[like]PRP ūmu[day]N napardû[shining-brightly]AJ nummuru[very-bright]AJ zumru[body]N
+rinap/rinap3/Q003491,Sennacherib 017,vi 72,askuppu[(threshold)-slab]N turminabandû[(a-breccia-or-marble)]N ṣīru[exalted]AJ
+rinap/rinap3/Q003491,Sennacherib 017,vi 73,banû[create]V kilallān[both]IP ina[in]PRP šadû[mountain]N batāqu[cut-off]V
+rinap/rinap3/Q003491,Sennacherib 017,vi 74,ana[to]PRP šipru[sending]N ēkallu[palace]N
+rinap/rinap3/Q003491,Sennacherib 017,vi 75,šadādu[drag]V qerbu[centre]N Ninua[Nineveh]SN
+rinap/rinap3/Q003491,Sennacherib 017,vi 76,aladlammû[human-headed-bull-colossus]N u[and]CNJ apsasû[(an-exotic-bovid)]N
+rinap/rinap3/Q003491,Sennacherib 017,vi 77,pīlu[limestone]N peṣû[white]AJ ina[in]PRP liptu[undertaking]N Ninkura[1]DN
+rinap/rinap3/Q003491,Sennacherib 017,vi 78,ina[in]PRP erṣetu[earth]N Balaṭaya[1]SN
+rinap/rinap3/Q003491,Sennacherib 017,vi 79,walādu[give-birth-(to)]V šuklulu[complete]V gattu[form]N
+rinap/rinap3/Q003491,Sennacherib 017,vi 80,ša[that]REL ištu[from]PRP ulla[distant-time]AV šarru[king]N abu[father]N
+rinap/rinap3/Q003491,Sennacherib 017,vi 81,ṣalmu[effigy]N werû[copper]N tamšīlu[likeness]N gattu[form]N
+rinap/rinap3/Q003491,Sennacherib 017,vi 82,ana[to]PRP izuzzu[stand]V qerbu[centre]N ēkurru[temple]N
+rinap/rinap3/Q003491,Sennacherib 017,vi 83,banû[create]V ina[in]PRP epištu[deed]N
+rinap/rinap3/Q003491,Sennacherib 017,vi 84,anāhu[be(come)-tired]V gimru[totality]N māru[son]N ummiānu[investor]N
+rinap/rinap3/Q003491,Sennacherib 017,vi 85,ina[in]PRP lā[not]MOD bišītu[property]N uznu[ear]N lā[not]MOD hasāsu[be(come)-conscious]V awātu[word]N
+rinap/rinap3/Q003491,Sennacherib 017,vi 86,ana[to]PRP šipru[sending]N hišihtu[requirement]N
+rinap/rinap3/Q003491,Sennacherib 017,vi 87,šamnu[oil]N iškūru[wax]N nalbašu[cloak]N ṣēnu[flock]N
+rinap/rinap3/Q003491,Sennacherib 017,vi 88,waqāru[be(come)-rare]V qerbu[centre]N mātu[land]N
+rinap/rinap3/Q003491,Sennacherib 017,vi 89,yâti[me]IP Sin-ahhe-eriba[Sennacherib;-king-of-Assyria]RN
+rinap/rinap3/Q003491,Sennacherib 017,vi 90,ašarēdu[first-and-foremost-one]N kalû[totality]N malku[prince]N mūdû[knower]N šipru[sending]N
+rinap/rinap3/Q003491,Sennacherib 017,vi 91,kalāma[all-(of-it)]N timmu[pole]N werû[copper]N rabû[great]AJ
+rinap/rinap3/Q003491,Sennacherib 017,vi 92,urmahhu[lion-colossus]N petû[open]AJ birku[knee]N ša[that]REL manāma[somebody]XP
+rinap/rinap3/Q003491,Sennacherib 017,vi 93,lā[not]MOD patāqu[make-brick-structures]V šarru[king]N pānu[front]N mahru[front]N
+rinap/rinap3/Q003491,Sennacherib 017,vii 1,ina[in]PRP uznu[ear]N nikiltu[skill]N
+rinap/rinap3/Q003491,Sennacherib 017,vii 2,ša[that]REL šutlumu[grant]V rubû[ruler]N Ninšiku[1]DN
+rinap/rinap3/Q003491,Sennacherib 017,vii 3,ina[in]PRP šitūltu[discussion]N ramānu[self]N
+rinap/rinap3/Q003491,Sennacherib 017,vii 4,ana[to]PRP epēšu[do]V šipru[sending]N šuāti[him]IP
+rinap/rinap3/Q003491,Sennacherib 017,vii 5,rabîš[magnificently]AV malāku[discuss]V ina[in]PRP milku[advice]N ṭēmu[report]N
+rinap/rinap3/Q003491,Sennacherib 017,vii 6,u[and]CNJ mērešu[wisdom]N kabattu[liver]N
+rinap/rinap3/Q003491,Sennacherib 017,vii 7,pitqu[brickwork]N werû[copper]N bašāmu[create]V
+rinap/rinap3/Q003491,Sennacherib 017,vii 8,nakālu[be(come)-skilful]V nikiltu[skill]N
+rinap/rinap3/Q003491,Sennacherib 017,vii 9,ša[of]DET gišmahhu[tree-trunk]N u[and]CNJ alamittu[(a-wild-species-of-date-palm)]N
+rinap/rinap3/Q003491,Sennacherib 017,vii 10,iṣu[tree]N mašrû[riches]N urmahhu[lion-colossus]N nāʾeru[roaring]AJ
+rinap/rinap3/Q003491,Sennacherib 017,vii 11,adi[until]PRP aladlammû[human-headed-bull-colossus]N
+rinap/rinap3/Q003491,Sennacherib 017,vii 12,ṣīru[exalted]AJ ša[that]REL šuklulu[complete]AJ nabnītu[creation]N
+rinap/rinap3/Q003491,Sennacherib 017,vii 13,apsasû[(an-exotic-bovid)]N ša[that]REL kuzbu[attractiveness]N
+rinap/rinap3/Q003491,Sennacherib 017,vii 14,ulṣu[pleasure]N hitlupu[intertwined]AJ bāštu[dignity]N lalû[plenty]N
+rinap/rinap3/Q003491,Sennacherib 017,vii 15,kummuru[piled-up]N ṣēru[back]N
+rinap/rinap3/Q003491,Sennacherib 017,vii 16,kī[like]PRP ṭēmu[report]N ilu[god]N ziʾpu[mould]N ṭīdu[mud]N
+rinap/rinap3/Q003491,Sennacherib 017,vii 17,banû[create]V werû[copper]N qerbu[centre]N šapāku[heap-up]V
+rinap/rinap3/Q003491,Sennacherib 017,vii 18,kī[like]PRP pitqu[brickwork]N šiqlu[shekel]N
+rinap/rinap3/Q003491,Sennacherib 017,vii 19,šuklulu[complete]V nabnītu[creation]N
+rinap/rinap3/Q003491,Sennacherib 017,vii 20,aladlammû[human-headed-bull-colossus]N nabnītu[creation]N werû[copper]N
+rinap/rinap3/Q003491,Sennacherib 017,vii 21,ša[that]REL ina[in]PRP libbu[interior]N zahalû[silver-alloy]N litbušu[clothed]AJ
+rinap/rinap3/Q003491,Sennacherib 017,vii 22,aladlammû[human-headed-bull-colossus]N ašnugallu[alabaster]N
+rinap/rinap3/Q003491,Sennacherib 017,vii 23,adi[until]PRP aladlammû[human-headed-bull-colossus]N u[and]CNJ apsasû[(an-exotic-bovid)]N
+rinap/rinap3/Q003491,Sennacherib 017,vii 24,pīlu[limestone]N peṣû[white]AJ ša[that]REL ēkallu[palace]N
+rinap/rinap3/Q003491,Sennacherib 017,vii 25,ṣabātu[seize]V šigaru[(wooden)-clamp]N
+rinap/rinap3/Q003491,Sennacherib 017,vii 26,timmu[pole]N werû[copper]N ṣīru[exalted]AJ adi[until]PRP timmu[pole]N erēnu[cedar]N
+rinap/rinap3/Q003491,Sennacherib 017,vii 27,rabû[great]AJ biblu[(action-of)-bringing]N Hamanu[Amanus]GN
+rinap/rinap3/Q003491,Sennacherib 017,vii 28,misarru[belt]N werû[copper]N u[and]CNJ annaku[tin]N rakāsu[tie]V
+rinap/rinap3/Q003491,Sennacherib 017,vii 29,ṣēru[back]N piriggalû[lion-shaped-column-pedestal]N izuzzu[stand]V
+rinap/rinap3/Q003491,Sennacherib 017,vii 30,adappu[horizontal-crossbeam]N kulūlu[crown]N bābu[gate]N emēdu[lean-on]V
+rinap/rinap3/Q003491,Sennacherib 017,vii 31,apsasû[(an-exotic-bovid)]N ašnugallu[alabaster]N
+rinap/rinap3/Q003491,Sennacherib 017,vii 32,adi[until]PRP apsasû[(an-exotic-bovid)]N pitqu[brickwork]N urudû[copper]N
+rinap/rinap3/Q003491,Sennacherib 017,vii 33,ša[that]REL zahalû[silver-alloy]N litbušu[clothed]AJ u[and]CNJ apsasû[(an-exotic-bovid)]N
+rinap/rinap3/Q003491,Sennacherib 017,vii 34,pitqu[brickwork]N ešmarû[(a-silver-alloy)]N
+rinap/rinap3/Q003491,Sennacherib 017,vii 35,ša[that]REL nummuru[very-bright]AJ gattu[form]N
+rinap/rinap3/Q003491,Sennacherib 017,vii 36,timmu[pole]N ušû[diorite]N šurmēnu[cypress]N erēnu[cedar]N daprānu[juniper]N
+rinap/rinap3/Q003491,Sennacherib 017,vii 37,burāšu[(species-of)-juniper]N u[and]CNJ sindû[Indian]N ihzētu[decorative-inlay]N pašallu[(an-alloy-of-gold)]N
+rinap/rinap3/Q003491,Sennacherib 017,vii 38,u[and]CNJ kaspu[silver]N ṣēru[back]N izuzzu[stand]V
+rinap/rinap3/Q003491,Sennacherib 017,vii 39,ša[of]DET kummu[cella]N mūšabu[dwelling]N bēlūtu[rule]N
+rinap/rinap3/Q003491,Sennacherib 017,vii 40,emēdu[lean-on]V hittu[lintel]N
+rinap/rinap3/Q003491,Sennacherib 017,vii 41,askuppu[(threshold)-slab]N turminabandû[(a-breccia-or-marble)]N ašnugallu[alabaster]N
+rinap/rinap3/Q003491,Sennacherib 017,vii 42,u[and]CNJ askuppu[(threshold)-slab]N pīlu[limestone]N rabû[great]AJ
+rinap/rinap3/Q003491,Sennacherib 017,vii 43,asurrû[lower-course]N sahāru[go-around]V
+rinap/rinap3/Q003491,Sennacherib 017,vii 44,ana[to]PRP tabrītu[(nocturnal)-vision]N alāku[go]V
+rinap/rinap3/Q003491,Sennacherib 017,vii 45,aššu[because-(of)]PRP ūmišam[daily]AV mû[water]N dilûtu[(action-of)-bucket-irrigation]N
+rinap/rinap3/Q003491,Sennacherib 017,vii 46,dalû[bucket]N eblu[rope]N guhaššu[wire]N siparru[bronze]N
+rinap/rinap3/Q003491,Sennacherib 017,vii 47,u[and]CNJ harharru[chain]N siparru[bronze]N epēšu[do]V
+rinap/rinap3/Q003491,Sennacherib 017,vii 48,kīmū[instead-of]PRP makūtu[staff]N gišmahhu[tree-trunk]N u[and]CNJ alamittu[(a-wild-species-of-date-palm)]N werû[copper]N
+rinap/rinap3/Q003491,Sennacherib 017,vii 49,ṣēru[back]N būrtu[cistern]N izuzzu[stand]V ēkallu[palace]N šâtina[those]IP alāku[go]V asmiš[in-a-fitting-manner]AV
+rinap/rinap3/Q003491,Sennacherib 017,vii 50,sihirtu[circumference]N ēkallu[palace]N ana[to]PRP tabrītu[(nocturnal)-vision]N kiššatu[totality]N nišu[people]N
+rinap/rinap3/Q003491,Sennacherib 017,vii 51,elû[go-up]V rēšu[head]N ēkallu[palace]N šāninu[rival]N lā[not]MOD išû[have]V
+rinap/rinap3/Q003491,Sennacherib 017,vii 52,nibītu[naming]N zakāru[speak]V
+rinap/rinap3/Q003491,Sennacherib 017,vii 53,kirimahhu[park]N tamšīlu[likeness]N Hamanu[Amanus]GN
+rinap/rinap3/Q003491,Sennacherib 017,vii 54,ša[that]REL gimru[totality]N rīqu[aromatic-substance]N inbu[fruit]N ṣippatu[fruit-orchard]N
+rinap/rinap3/Q003491,Sennacherib 017,vii 55,iṣu[tree]N tukultu[trust]N šadû[mountain]N u[and]CNJ Kaldu[Chaldea]GN
+rinap/rinap3/Q003491,Sennacherib 017,vii 56,adi[until]PRP iṣu[tree]N nāšû[bearing]N šīpātu[wool]N
+rinap/rinap3/Q003491,Sennacherib 017,vii 57,qerbu[centre]N hurrušu[bound]AJ itû[boundary]N zaqāpu[fix-upright]V
+rinap/rinap3/Q003491,Sennacherib 017,vii 58,Ninua[Nineveh]SN ša[that]REL ištu[from]PRP ūmu[day]N pānu[front]N
+rinap/rinap3/Q003491,Sennacherib 017,vii 59,līm[thousand]NU meʾatu[(one)-hundred]NU ina[in]PRP ammatu[unit]N šubtu[seat]N liwītu[packaging]N
+rinap/rinap3/Q003491,Sennacherib 017,vii 60,dūru[(city)-wall]N u[and]CNJ šalhû[outer-wall]N ul[not]MOD epēšu[do]V
+rinap/rinap3/Q003491,Sennacherib 017,vii 61,āliku[goer]N mahru[front]N malku[prince]N
+rinap/rinap3/Q003491,Sennacherib 017,vii 62,līm[thousand]NU meʾatu[(one)-hundred]NU ašru[place]N tawwertu[(a-type-of-agricultural-land)]N liwītu[packaging]N ālu[city]N
+rinap/rinap3/Q003491,Sennacherib 017,vii 63,ṣēru[back]N mišihtu[measurement]N mahrû[first]AJ redû[accompany]V
+rinap/rinap3/Q003491,Sennacherib 017,vii 64,līm[thousand]NU meʾatu[(one)-hundred]NU ina[in]PRP aslu[unit]N rabû[great]AJ kânu[be(come)-permanent]V middatu[measure]N
+rinap/rinap3/Q003491,Sennacherib 017,vii 65,ša[that]REL dūru[(city)-wall]N rabû[great]AJ Badnigalbilukurašušu[1]ON
+rinap/rinap3/Q003491,Sennacherib 017,vii 66,dūru[(city)-wall]N ša[that]REL namrīru[awe-inspiring-radiance]N nakru[enemy]N sahpu[overthrown]AJ
+rinap/rinap3/Q003491,Sennacherib 017,vii 67,ṣēru[back]N pīlu[limestone]N temmēnu[foundation]N nadû[throw-(down)]V
+rinap/rinap3/Q003491,Sennacherib 017,vii 68,libittu[mudbrick]N kabāru[be(come)-thick]V
+rinap/rinap3/Q003491,Sennacherib 017,vii 69,ina[in]PRP meʾatu[(one)-hundred]NU tibku[course-of-bricks]N elû[go-up]V rēšu[head]N
+rinap/rinap3/Q003491,Sennacherib 017,vii 70,ana[to]PRP erbe[four]NU šāru[wind]N abullu[gate]N
+rinap/rinap3/Q003491,Sennacherib 017,vii 71,pānu[front]N u[and]CNJ warka[afterwards]AV ina[in]PRP ṣēlu[rib]N kilallān[both]IP
+rinap/rinap3/Q003491,Sennacherib 017,vii 72,ana[to]PRP erēbu[enter]V u[and]CNJ waṣû[go-out]V
+rinap/rinap3/Q003491,Sennacherib 017,vii 73,petû[open]V qerbu[centre]N
+rinap/rinap3/Q003491,Sennacherib 017,vii 74,bâru[appear]V iššiakku[city-ruler]N Aššur[1]DN abullu[gate]N Aššur[1]DN ša[that]REL Libbi-ali[Inner-City]SN
+rinap/rinap3/Q003491,Sennacherib 017,vii 75,sāpinu[flattener]N gimru[totality]N nakru[enemy]N
+rinap/rinap3/Q003491,Sennacherib 017,vii 76,abullu[gate]N Sin-ahhe-eriba[Sennacherib;-king-of-Assyria]RN ša[that]REL Halzu[1]GN
+rinap/rinap3/Q003491,Sennacherib 017,vii 77,Enlil[1]DN mukinnu[witness]N palû[reign-(of-a-king)]N abullu[gate]N Šamaš[1]DN ša[that]REL Gagal[1]GN
+rinap/rinap3/Q003491,Sennacherib 017,vii 78,ša[of]DET Sin-ahhe-eriba[Sennacherib;-king-of-Assyria]RN itti[with]PRP mazzaztu[position]N ereqqu[cart]N
+rinap/rinap3/Q003491,Sennacherib 017,vii 79,kânu[be(come)-permanent]V palû[reign-(of-a-king)]N abullu[gate]N Mullissu[1]DN ša[that]REL Kar-Mullissi[1]SN
+rinap/rinap3/Q003491,Sennacherib 017,vii 80,mušēṣû[drain]N šīru[flesh]N asakku[(an-evil-demon)]N abullu[gate]N mušlālu[staircase(-gate)]N
+rinap/rinap3/Q003491,Sennacherib 017,vii 81,dumqu[goodness]N ašnan[grain]N u[and]CNJ lahru[sheep]N qerbu[centre]N kayyānu[constant]AJ
+rinap/rinap3/Q003491,Sennacherib 017,vii 82,abullu[gate]N Šibaniba[1]SN
+rinap/rinap3/Q003491,Sennacherib 017,vii 83,babbilu[bearer]N hiṣbu[luxuriance]N huršānu[mountain(s)]N abullu[gate]N Halahhi[1]GN
+rinap/rinap3/Q003491,Sennacherib 017,vii 84,napharu[total]N abullu[gate]N ṣītu[exit]N šamšu[sun]N
+rinap/rinap3/Q003491,Sennacherib 017,vii 85,mehretu[opposite-side]N šūtu[south]N u[and]CNJ šadû[mountain]N
+rinap/rinap3/Q003491,Sennacherib 017,vii 86,zakāru[speak]V nibītu[naming]N
+rinap/rinap3/Q003491,Sennacherib 017,vii 87,Adad[1]DN šāriku[who-presents-(gifts)]N hengallu[plenty]N ana[to]PRP mātu[land]N
+rinap/rinap3/Q003491,Sennacherib 017,vii 88,abullu[gate]N Adad[1]DN ša[that]REL ambassu[(game-)park]N
+rinap/rinap3/Q003491,Sennacherib 017,vii 89,Erra[1]DN šāgišu[murderer]N zāwiānu[enemy]N
+rinap/rinap3/Q003491,Sennacherib 017,vii 90,abullu[gate]N Nergal[1]DN ša[that]REL Tarbiṣu[1]SN
+rinap/rinap3/Q003491,Sennacherib 017,vii 91,Nannaru[1]DN nāṣiru[guard]N agû[tiara]N bēlūtu[rule]N abullu[gate]N Sin[1]DN
+rinap/rinap3/Q003491,Sennacherib 017,vii 92,napharu[total]N abullu[gate]N ša[that]REL mehretu[opposite-side]N ištānu[north]N
+rinap/rinap3/Q003491,Sennacherib 017,vii 93,nabû[name]V zikru[utterance]N
+rinap/rinap3/Q003491,Sennacherib 017,vii 94,Ea[1]DN mušēšeru[one-who-puts-in-order]N kuppu[cistern]N abullu[gate]N mašqû[watering-place]N
+rinap/rinap3/Q003491,Sennacherib 017,vii 95,mušēribtu[one-who-brings-in]N miširtu[produce-(of-the-sea-and-rivers)]N dadmū[villages]N abullu[gate]N kāru[quay]N
+rinap/rinap3/Q003491,Sennacherib 017,vii 96,kadrû[present]N Sumuʾel[1]EN u[and]CNJ Temayu[of-Tema]EN
+rinap/rinap3/Q003491,Sennacherib 017,viii 1,qerbu[centre]N erēbu[enter]V abullu[gate]N madbaru[steppe]N
+rinap/rinap3/Q003491,Sennacherib 017,viii 2,pāqidu[carer]N kalāma[all-(of-it)]N abullu[gate]N ēkallu[palace]N māšartu[inspection]N
+rinap/rinap3/Q003491,Sennacherib 017,viii 3,Šarur[1]DN mušamqitu[one-who-overthrows]N ayyābu[enemy]N šarru[king]N abullu[gate]N handūru[spur?]N
+rinap/rinap3/Q003491,Sennacherib 017,viii 4,napharu[total]N abullu[gate]N ša[that]REL mehretu[opposite-side]N amurru[west-wind]N
+rinap/rinap3/Q003491,Sennacherib 017,viii 5,zakāru[speak]V šumu[name]N
+rinap/rinap3/Q003491,Sennacherib 017,viii 6,ša[that]REL šalhû[outer-wall]N Badnigerimhuluha[1]ON
+rinap/rinap3/Q003491,Sennacherib 017,viii 7,mugallitu[troublemaker]N zāwiānu[enemy]N uššu[foundation]N petû[open]V
+rinap/rinap3/Q003491,Sennacherib 017,viii 8,nindanu[rod]N šapālu[be(come)-deep]V
+rinap/rinap3/Q003491,Sennacherib 017,viii 9,kašādu[reach]V mû[water]N nagbu[underground-water]N
+rinap/rinap3/Q003491,Sennacherib 017,viii 10,qerbu[centre]N māmū[water]N šaplānu[underneath]AV abnu[stone]N šadû[mountain]N dannu[strong]AJ kasû[bind]V
+rinap/rinap3/Q003491,Sennacherib 017,viii 11,elāniš[above]AV adi[until]PRP pasqu[coping-(of-a-wall)]N ina[in]PRP pīlu[limestone]N rabû[great]AJ
+rinap/rinap3/Q003491,Sennacherib 017,viii 12,nakālu[be(come)-skilful]V šipru[sending]N
+rinap/rinap3/Q003491,Sennacherib 017,viii 13,ša[of]DET Ninua[Nineveh]SN ālu[city]N bēlūtu[rule]N šubtu[seat]N rabû[be(come)-big]V
+rinap/rinap3/Q003491,Sennacherib 017,viii 14,rebītu[street]N šadālu[be(come)-wide]V nawāru[be(come)-bright]V kīma[like]PRP ūmu[day]N
+rinap/rinap3/Q003491,Sennacherib 017,viii 15,dūru[(city)-wall]N šalhû[outer-wall]N epēšu[do]V zaqāru[project]V huršāniš[like-a-mountain]AV
+rinap/rinap3/Q003491,Sennacherib 017,viii 16,elēnu[above]AV ālu[city]N u[and]CNJ šaplu[underside]N ālu[city]N epēšu[do]V kirû[(fruit)-plantation]N
+rinap/rinap3/Q003491,Sennacherib 017,viii 17,muthummu[fruit(s)]N šadû[mountain]N u[and]CNJ mātitān[all-countries]N
+rinap/rinap3/Q003491,Sennacherib 017,viii 18,kullatu[totality]N rīqu[aromatic-substance]N Hatti[Syria-Palestine]GN harāšu[bind-(on)]V qerbu[centre]N
+rinap/rinap3/Q003491,Sennacherib 017,viii 19,ṣēru[back]N šabburtu[broken-up-land]N ša[that]REL ahu[arm]N ambassu[(game-)park]N karānu[vine]N šadû[mountain]N
+rinap/rinap3/Q003491,Sennacherib 017,viii 20,kalû[totality]N gimru[totality]N inbu[fruit]N adnātu[world]N
+rinap/rinap3/Q003491,Sennacherib 017,viii 21,rīqu[aromatic-substance]N u[and]CNJ serdu[olive-tree]N ana[to]PRP baʾlu[large-one]N zaqāpu[fix-upright]V
+rinap/rinap3/Q003491,Sennacherib 017,viii 22,Husur[Khosr]WN ša[that]REL ištu[from]PRP ulla[distant-time]AV mû[water]N
+rinap/rinap3/Q003491,Sennacherib 017,viii 23,šuplu[depth]N ṣabtu[captured]AJ ina[in]PRP šarru[king]N abu[father]N
+rinap/rinap3/Q003491,Sennacherib 017,viii 24,mamman[somebody]XP lā[not]MOD esēru[enclose]V tabāku[heap-up]V Idiqlatiš[to-the-Tigris]AV
+rinap/rinap3/Q003491,Sennacherib 017,viii 25,ana[to]PRP miṭirtu[watercourse]N šamāhu[grow]V
+rinap/rinap3/Q003491,Sennacherib 017,viii 26,ištu[from]PRP pāṭu[edge]N Kisiru[1]SN
+rinap/rinap3/Q003491,Sennacherib 017,viii 27,mūlû[height]N mušpalu[depth]N ina[in]PRP akkullu[hatchet]N
+rinap/rinap3/Q003491,Sennacherib 017,viii 28,herû[dig]V ešēru[go-well]V pattu[canal]N
+rinap/rinap3/Q003491,Sennacherib 017,viii 29,mû[water]N šunūti[them]IP ṣēru[back]N tawwertu[(a-type-of-agricultural-land)]N Ninua[Nineveh]SN kânu[be(come)-permanent]V
+rinap/rinap3/Q003491,Sennacherib 017,viii 30,qerbu[centre]N ṣippatu[fruit-orchard]N šâtina[those]IP habābu[murmur]V atappiš[like-a-canal]AV
+rinap/rinap3/Q003491,Sennacherib 017,viii 31,ana[to]PRP barû[see]V māmū[water]N ina[in]PRP šēpu[foot]N Muṣri[Mount-Muṣri]GN šadû[mountain]N gerru[way]N ṣabātu[seize]V
+rinap/rinap3/Q003491,Sennacherib 017,viii 32,šaqû[be(come)-high]V adi[until]PRP Elmunaqinne[1]SN šupšuqiš[very-laboriously]AV alāku[go]V
+rinap/rinap3/Q003491,Sennacherib 017,viii 33,ina[in]PRP rēšu[head]N Dur-Ištar[1]SN Šibaniba[1]SN
+rinap/rinap3/Q003491,Sennacherib 017,viii 34,u[and]CNJ Sulu[1]SN nambaʾu[source]N amāru[see]V
+rinap/rinap3/Q003491,Sennacherib 017,viii 35,īnu[eye]N pīqu[narrow]AJ rabû[be(come)-big]V târu[turn]V ana[to]PRP kuppu[cistern]N
+rinap/rinap3/Q003491,Sennacherib 017,viii 36,aššu[because-(of)]PRP mālaku[walk]N mû[water]N šunūti[them]IP šadû[mountain]N marṣu[sick]AJ
+rinap/rinap3/Q003491,Sennacherib 017,viii 37,ašru[place]N pašqu[narrow]AJ ina[in]PRP akkullu[hatchet]N natāru[split-open]V
+rinap/rinap3/Q003491,Sennacherib 017,viii 38,mūṣû[exit]N ešēru[go-well]V ana[to]PRP tawwertu[(a-type-of-agricultural-land)]N Ninua[Nineveh]SN
+rinap/rinap3/Q003491,Sennacherib 017,viii 39,harru[water-channel]N danānu[be(come)-strong]V kī[like]PRP šupku[foundation]N šadû[mountain]N
+rinap/rinap3/Q003491,Sennacherib 017,viii 40,mû[water]N šâtunu[those]IP qerbu[centre]N kânu[be(come)-permanent]V
+rinap/rinap3/Q003491,Sennacherib 017,viii 41,kīma[like]PRP watartu[excess]N ṣēru[back]N mû[water]N Husur[Khosr]WN
+rinap/rinap3/Q003491,Sennacherib 017,viii 42,redû[accompany]V dārišam[for-ever]AV
+rinap/rinap3/Q003491,Sennacherib 017,viii 43,ina[in]PRP ummu[fever]N šaqû[give-to-drink]V gimru[totality]N ṣippatu[fruit-orchard]N
+rinap/rinap3/Q003491,Sennacherib 017,viii 44,ina[in]PRP kūṣu[coldness]N līm[thousand]NU zēru[seed(s)]N tawwertu[(a-type-of-agricultural-land)]N
+rinap/rinap3/Q003491,Sennacherib 017,viii 45,eli[on]PRP ālu[city]N u[and]CNJ šaplu[underside]N ālu[city]N makāru[irrigate]V šattišamma[year-by-year]AV
+rinap/rinap3/Q003491,Sennacherib 017,viii 46,ana[to]PRP pašāhu[be(come)-at-rest]V alaktu[way]N mû[water]N šunūti[them]IP
+rinap/rinap3/Q003491,Sennacherib 017,viii 47,agammu[marsh(es)]N bašû[be]V ṣuṣû[reed-thicket]N qerbu[centre]N
+rinap/rinap3/Q003491,Sennacherib 017,viii 48,satālu[plant]V igirû[heron]N šahû[pig]N qanû[reed]N
+rinap/rinap3/Q003491,Sennacherib 017,viii 49,alpu[ox]N qīšu[forest]N ina[in]PRP libbu[interior]N wašāru[sink-down]V
+rinap/rinap3/Q003491,Sennacherib 017,viii 50,ina[in]PRP ṭēmu[report]N ilu[god]N qerbu[centre]N kirû[(fruit)-plantation]N ṣēru[back]N šabburtu[broken-up-land]N
+rinap/rinap3/Q003491,Sennacherib 017,viii 51,karānu[vine]N gimru[totality]N inbu[fruit]N serdu[olive-tree]N
+rinap/rinap3/Q003491,Sennacherib 017,viii 52,rīqu[aromatic-substance]N magal[very-(much)]AV šamāhu[grow]V
+rinap/rinap3/Q003491,Sennacherib 017,viii 53,šurmēnu[cypress]N musukkannu[Magan-tree]N
+rinap/rinap3/Q003491,Sennacherib 017,viii 54,napharu[total]N iṣu[tree]N šiāhu[grow-(tall)]V
+rinap/rinap3/Q003491,Sennacherib 017,viii 55,ṣarāšu[spread-out]V papallu[young-shoot]N
+rinap/rinap3/Q003491,Sennacherib 017,viii 56,appāru[reed-bed]N magal[very-(much)]AV ešēru[go-well]V
+rinap/rinap3/Q003491,Sennacherib 017,viii 57,iṣṣūru[bird]N šamû[heaven]N igirû[heron]N ša[that]REL ašru[place]N rūqu[distant]AJ
+rinap/rinap3/Q003491,Sennacherib 017,viii 58,qinnu[nest]N qanānu[nest]V šahû[pig]N qanû[reed]N alpu[ox]N qīšu[forest]N
+rinap/rinap3/Q003491,Sennacherib 017,viii 59,rapāšu[be(come)-broad]V tālittu[offspring]N
+rinap/rinap3/Q003491,Sennacherib 017,viii 60,musukkannu[Magan-tree]N šurmēnu[cypress]N tarbītu[child-rearing]N ṣippatu[fruit-orchard]N
+rinap/rinap3/Q003491,Sennacherib 017,viii 61,qanû[reed]N appāru[reed-bed]N ša[that]REL qerbu[centre]N agammu[marsh(es)]N kašāṭu[cut-off]V
+rinap/rinap3/Q003491,Sennacherib 017,viii 62,ana[to]PRP šipru[sending]N hišihtu[requirement]N ēkallu[palace]N
+rinap/rinap3/Q003491,Sennacherib 017,viii 63,bēlūtu[rule]N lū[may]MOD epēšu[do]V
+rinap/rinap3/Q003491,Sennacherib 017,viii 64,iṣu[tree]N nāšû[bearing]N šīpātu[wool]N baqāmu[pluck]V mahāṣu[beat]V ṣubātiš[with-a-garment]AV
+rinap/rinap3/Q003491,Sennacherib 017,viii 65,ištu[from]PRP šipru[sending]N ēkallu[palace]N qatû[finish]V
+rinap/rinap3/Q003491,Sennacherib 017,viii 66,Aššur[1]DN bēlu[lord]N rabû[great]AJ ilu[god]N u[and]CNJ ištaru[goddess]N
+rinap/rinap3/Q003491,Sennacherib 017,viii 67,wāšibu[sitting]AJ mātu[land]N Aššur[Assyria]GN
+rinap/rinap3/Q003491,Sennacherib 017,viii 68,ina[in]PRP qerbu[centre]N qerû[call]V
+rinap/rinap3/Q003491,Sennacherib 017,viii 69,nīqu[offering]N tašrihtu[glorification]N naqû[pour-(a-libation)]V
+rinap/rinap3/Q003491,Sennacherib 017,viii 70,šutlumu[grant]V kadrû[present]N
+rinap/rinap3/Q003491,Sennacherib 017,viii 71,šamnu[oil]N serdu[olive-tree]N u[and]CNJ hibištu[crushed-pieces-(of-aromatic-wood)]N
+rinap/rinap3/Q003491,Sennacherib 017,viii 72,ša[of]DET kirû[(fruit)-plantation]N ṣēru[back]N šabburtu[broken-up-land]N
+rinap/rinap3/Q003491,Sennacherib 017,viii 73,ruqqû[prepare-perfume]V ana[to]PRP rūštu[(a-fine-quality-of-oil)]N
+rinap/rinap3/Q003491,Sennacherib 017,viii 74,ina[in]PRP taštrītu[beginning]N ēkallu[palace]N ša[that]REL bahūlātu[men]N mātu[land]N
+rinap/rinap3/Q003491,Sennacherib 017,viii 75,šaqû[give-to-drink]V muhhu[skull]N
+rinap/rinap3/Q003491,Sennacherib 017,viii 76,karānu[vine]N duššupu[sweetened]AJ ṣurru[interior]N makāru[irrigate]V
+rinap/rinap3/Q003491,Sennacherib 017,viii 77,ana[to]PRP warkītu[posterity]N ūmu[day]N ina[in]PRP šarru[king]N māru[son]N
+rinap/rinap3/Q003491,Sennacherib 017,viii 78,ša[that]REL Aššur[1]DN ana[to]PRP rēʾûtu[shepherdship]N mātu[land]N u[and]CNJ nišu[people]N
+rinap/rinap3/Q003491,Sennacherib 017,viii 79,nabû[name]V zikru[utterance]N
+rinap/rinap3/Q003491,Sennacherib 017,viii 80,inūma[when]SBJ dūru[(city)-wall]N šâtu[him]IP
+rinap/rinap3/Q003491,Sennacherib 017,viii 81,labāru[be(come)-old]V anāhu[be(come)-tired]V
+rinap/rinap3/Q003491,Sennacherib 017,viii 82,anhūtu[tiredness]N edēšu[be(come)-new]V
+rinap/rinap3/Q003491,Sennacherib 017,viii 83,mušarû[(royal)-inscription]N šiṭru[(piece-of)-writing]N šumu[name]N
+rinap/rinap3/Q003491,Sennacherib 017,viii 84,amāru[see]V šamnu[oil]N pašāšu[anoint]V
+rinap/rinap3/Q003491,Sennacherib 017,viii 85,nīqu[offering]N naqû[pour-(a-libation)]V ana[to]PRP ašru[place]N târu[turn]V
+rinap/rinap3/Q003491,Sennacherib 017,viii 86,Aššur[1]DN u[and]CNJ Ištar[1]DN
+rinap/rinap3/Q003491,Sennacherib 017,viii 87,ikribu[prayer]N šemû[hear]V

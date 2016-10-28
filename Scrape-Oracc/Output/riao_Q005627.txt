@@ -1,0 +1,14 @@
+id_text,text_name,l_no,text
+riao/Q005627,Erišum I 07,1,Erišum_I[vice-regent-of-Aššur]RN
+riao/Q005627,Erišum I 07,2,iššiakku[city-ruler]N
+riao/Q005627,Erišum I 07,3,Aššur[1]DN
+riao/Q005627,Erišum I 07,4,māru[son]N Ilu-šuma[vice-regent-of-Aššur]RN
+riao/Q005627,Erišum I 07,5,iššiakku[city-ruler]N
+riao/Q005627,Erišum I 07,6,Aššur[1]DN
+riao/Q005627,Erišum I 07,7,ana[to]PRP Aššur[1]DN
+riao/Q005627,Erišum I 07,8,bēlu[lord]N
+riao/Q005627,Erišum I 07,9,ana[to]PRP balāṭu[life]N
+riao/Q005627,Erišum I 07,10,u[and]CNJ balāṭu[life]N
+riao/Q005627,Erišum I 07,11,ālu[city]N
+riao/Q005627,Erišum I 07,12,isāru[annexe]N
+riao/Q005627,Erišum I 07,13,ša[of]DET Aššur[1]DN

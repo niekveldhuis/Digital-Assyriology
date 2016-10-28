@@ -1,0 +1,30 @@
+id_text,text_name,l_no,text
+riao/Q005721,Aššur-uballiṭ I 3,1,Aššur-uballiṭ_I[vice-regent-of-Aššur;-son-of-Eriba-Adad-I]RN
+riao/Q005721,Aššur-uballiṭ I 3,2,iššiakku[city-ruler]N Aššur[1]DN
+riao/Q005721,Aššur-uballiṭ I 3,3,māru[son]N Eriba-Adad_I[vice-regent-of-Aššur;-son-of-Aššur-bel-nišešu]RN
+riao/Q005721,Aššur-uballiṭ I 3,4,iššiakku[city-ruler]N Aššur[1]DN
+riao/Q005721,Aššur-uballiṭ I 3,5,inūma[when]SBJ Aššur[1]DN bēlu[lord]N
+riao/Q005721,Aššur-uballiṭ I 3,6,Patti-ṭuhdi[Canal-of-Abundance;-in-Aššur]WN
+riao/Q005721,Aššur-uballiṭ I 3,7,wābilu[carrier]N hengallu[plenty]N
+riao/Q005721,Aššur-uballiṭ I 3,8,u[and]CNJ nuhšu[abundance]N
+riao/Q005721,Aššur-uballiṭ I 3,9,ana[to]PRP epēšu[do]V lū[may]MOD nadānu[give]V
+riao/Q005721,Aššur-uballiṭ I 3,10,būrtu[cistern]N ša[that]REL Uballiṭ-nišešu[It-Has-Given-Life-to-His-People;-well-in-Aššur]ON šumu[name]N
+riao/Q005721,Aššur-uballiṭ I 3,11,ša[of]DET yarhu[pond]N ša[that]REL kutallu[back]N tamlīu[fill]N
+riao/Q005721,Aššur-uballiṭ I 3,12,Adad[1]DN ina[in]PRP ammatu[unit]N
+riao/Q005721,Aššur-uballiṭ I 3,13,šuplu[depth]N adi[until]PRP mû[water]N
+riao/Q005721,Aššur-uballiṭ I 3,14,ša[that]REL ina[in]PRP pāna[formerly]AV
+riao/Q005721,Aššur-uballiṭ I 3,15,Aššur-nadin-ahhe_II[vice-regent-of-Aššur]RN
+riao/Q005721,Aššur-uballiṭ I 3,16,iššiakku[city-ruler]N Aššur[1]DN
+riao/Q005721,Aššur-uballiṭ I 3,17,herû[dig]V
+riao/Q005721,Aššur-uballiṭ I 3,18,ina[in]PRP pīlu[limestone]N kupru[bitumen]N
+riao/Q005721,Aššur-uballiṭ I 3,19,agurru[baked-brick]N pīlu[limestone]N
+riao/Q005721,Aššur-uballiṭ I 3,20,ina[in]PRP ṭību[immersion]N ša[of]DET būrtu[cistern]N kunnu[fixed]AJ
+riao/Q005721,Aššur-uballiṭ I 3,21,ana[to]PRP šipru[sending]N kirû[(fruit)-plantation]N
+riao/Q005721,Aššur-uballiṭ I 3,22,epēšu[do]V ul[not]MOD naṭû[suited]AJ
+riao/Q005721,Aššur-uballiṭ I 3,23,eperu[earth]N lū[may]MOD malû[be(come)-full]V
+riao/Q005721,Aššur-uballiṭ I 3,24,ana[to]PRP warkītu[posterity]N ūmu[day]N
+riao/Q005721,Aššur-uballiṭ I 3,25,šarru[king]N ša[that]REL būrtu[cistern]N šâti[him]IP
+riao/Q005721,Aššur-uballiṭ I 3,26,hašāhu[need]V
+riao/Q005721,Aššur-uballiṭ I 3,27,eperu[earth]N
+riao/Q005721,Aššur-uballiṭ I 3,28,elû[go-up]V
+riao/Q005721,Aššur-uballiṭ I 3,29,u[and]CNJ mû[water]N

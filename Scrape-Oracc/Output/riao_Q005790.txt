@@ -1,0 +1,26 @@
+id_text,text_name,l_no,text
+riao/Q005790,Shalmaneser I 02,1,Salmanu-ašared_I[Shalmaneser-I;-son-of-Adad-narari-I;-king-of-Assyria]RN šaknu[appointee]N Enlil[1]DN iššiakku[city-ruler]N Aššur[1]DN
+riao/Q005790,Shalmaneser I 02,2,māru[son]N Adad-narari_I[king-of-Assyria]RN šaknu[appointee]N Enlil[1]DN iššiakku[city-ruler]N Aššur[1]DN māru[son]N Arik-din-ili[king-of-Assyria]RN
+riao/Q005790,Shalmaneser I 02,3,šaknu[appointee]N Enlil[1]DN iššiakku[city-ruler]N Aššur[1]DN mukinnu[witness]N
+riao/Q005790,Shalmaneser I 02,4,māhāzu[shrine]N ellu[pure]AJ bānû[creator]N Ekur[1]TN kiṣṣu[shrine]N ilu[god]N
+riao/Q005790,Shalmaneser I 02,5,šubtu[seat]N Nunnamnir[1]DN inūma[when]SBJ Ehursagkurkurra[1]TN
+riao/Q005790,Shalmaneser I 02,6,bītu[house]N mahrû[first]AJ ša[that]REL Ušpiya[vice-regent-of-Aššur]RN abu[father]N iššiakku[city-ruler]N Aššur[1]DN
+riao/Q005790,Shalmaneser I 02,7,ina[in]PRP pāna[formerly]AV epēšu[do]V anāhu[be(come)-tired]V Erišum_I[vice-regent-of-Aššur]RN
+riao/Q005790,Shalmaneser I 02,8,abu[father]N iššiakku[city-ruler]N Aššur[1]DN epēšu[do]V šūši[sixty]NU šattu[year]N
+riao/Q005790,Shalmaneser I 02,9,alāku[go]V târu[turn]V anāhu[be(come)-tired]V
+riao/Q005790,Shalmaneser I 02,10,Šamši-Adad_III[son-of-Išme-Dagan-II;-vice-regent-of-Aššur]RN abu[father]N iššiakku[city-ruler]N Aššur[1]DN epēšu[do]V
+riao/Q005790,Shalmaneser I 02,11,šūši[sixty]NU šattu[year]N alāku[go]V
+riao/Q005790,Shalmaneser I 02,12,bītu[house]N u[and]CNJ ešertu[chapel]N ina[in]PRP qimītu[burning]N gīru[fire(-god)]N
+riao/Q005790,Shalmaneser I 02,13,lū[may]MOD lapātu[touch]V bītu[house]N šâtu[him]IP ana[to]PRP sihirtu[circumference]N
+riao/Q005790,Shalmaneser I 02,14,nakāru[be(come)-different]V dannatu[fortified-(place)]N kašādu[reach]V išdu[foundation]N kīma[like]PRP
+riao/Q005790,Shalmaneser I 02,15,kiṣru[knot]N šadû[mountain]N lū[may]MOD ramû[set-in-place]V nāmaru[mirror]N ša[that]REL ina[in]PRP mahru[front]N
+riao/Q005790,Shalmaneser I 02,16,lā[not]MOD epšu[made]AJ kīma[like]PRP watartu[excess]N epēšu[do]V
+riao/Q005790,Shalmaneser I 02,17,kisallu[forecourt]N Nunnamnir[1]DN u[and]CNJ tarpašû[area]N kisallu[forecourt]N Aššur[1]DN
+riao/Q005790,Shalmaneser I 02,18,bēlu[lord]N eli[on]PRP mahrû[first-one]N mādiš[greatly]AV watāru[be(come)-outsize]V u[and]CNJ rabû[be(come)-big]V
+riao/Q005790,Shalmaneser I 02,19,šubtu[seat]N u[and]CNJ nēmedu[that-on-which-one-leans]N ina[in]PRP ešertu[chapel]N ramû[set-in-place]V
+riao/Q005790,Shalmaneser I 02,20,kullatu[totality]N ilu[god]N šūt[he]DP Ekur[1]TN ina[in]PRP qerbu[centre]N
+riao/Q005790,Shalmaneser I 02,21,kânu[be(come)-permanent]V narû[stele]N u[and]CNJ temmēnu[foundation]N šakānu[put]V
+riao/Q005790,Shalmaneser I 02,22,munakkiru[one-who-alters-something]N šiṭru[(piece-of)-writing]N u[and]CNJ šumu[name]N
+riao/Q005790,Shalmaneser I 02,23,Aššur[1]DN bēlu[lord]N šarrūtu[kingship]N sakāpu[push-down]V šumu[name]N
+riao/Q005790,Shalmaneser I 02,24,u[and]CNJ zēru[seed(s)]N ina[in]PRP mātu[land]N halāqu[be(come)-lost]V
+riao/Q005790,Shalmaneser I 02,25,Ša-sarrate[1]MN līmu[eponym-(of-year)]N

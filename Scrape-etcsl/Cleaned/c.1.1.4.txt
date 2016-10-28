@@ -1,131 +1,131 @@
 id_text,text_name,version,l_no,text
-c.1.1.4,Enki's journey to Nibru,,1,sux:ud[sun]N sux:re[that]DP sux:nam[fate]N sux:tar[cut]V/t
-c.1.1.4,Enki's journey to Nibru,,2,sux:mu[year]N sux:heŋal[plenty]N sux:an[sky]N sux:utud[bear]V/t
-c.1.1.4,Enki's journey to Nibru,,3,sux:uŋ[people]N sux:ušim[greenery]N sux:ki[place]N sux:dar[split]V/t
-c.1.1.4,Enki's journey to Nibru,,4,sux:en[lord]N sux:abzu[water]N sux:lugal[king]N sux:Enki[1]DN
-c.1.1.4,Enki's journey to Nibru,,5,sux:Enki[1]DN sux:en[lord]N sux:nam[fate]N sux:tar[cut]V/t
-c.1.1.4,Enki's journey to Nibru,,6,sux:e[house]N sux:kug[metal]N sux:zagin[lapis]N sux:teš[unity]N sux:du[build]V/t
-c.1.1.4,Enki's journey to Nibru,,7,sux:kug[metal]N sux:zagin[lapis]N sux:ud[sun]N sux:kar[blow]V/t
-c.1.1.4,Enki's journey to Nibru,,8,sux:eš[shrine]N sux:Abzu[1]TN sux:ul[swell]V/i sux:de[bring]V/t
-c.1.1.4,Enki's journey to Nibru,,9,sux:suh[crown]N sux:kug[pure]V/i sux:galam[skilful]V/i sux:dug[speak]V/t sux:abzu[water]N sux:e[leave]V/i
-c.1.1.4,Enki's journey to Nibru,,10,sux:en[lord]N sux:Nudimmud[1]DN sux:gub[stand]V/i
-c.1.1.4,Enki's journey to Nibru,,11,sux:e[house]N sux:kug[metal]N sux:du[build]V/t sux:zagin[lapis]N sux:gunu[speckled]V/i
-c.1.1.4,Enki's journey to Nibru,,12,sux:gal[big]V/i sux:kugsig[gold]N sux:šu[hand]N sux:tag[touch]V/t sux:dug[speak]V/t
-c.1.1.4,Enki's journey to Nibru,,13,sux:Eridug[1]SN sux:e[house]N sux:gu[neck]N sux:du[build]V/t
-c.1.1.4,Enki's journey to Nibru,,14,sux:šeg[brick]N sux:inim[word]N sux:dug[speak]V/t sux:ad[voice]N sux:gi[turn]V/i
-c.1.1.4,Enki's journey to Nibru,,15,sux:gisal[screen]N sux:gud[ox]N sux:murmara[noise]N sux:ša[cvve]V/t
-c.1.1.4,Enki's journey to Nibru,,16,sux:e[house]N sux:Enki[1]DN sux:gu[voice]N sux:nun[prince]N sux:dug[speak]V/t
-c.1.1.4,Enki's journey to Nibru,,17,sux:e[house]N sux:lugal[king]N sux:ŋi[night]N sux:ar[praise]N sux:de[bring]V/t sux:dug[good]V/i sux:ŋar[place]V/t
-c.1.1.4,Enki's journey to Nibru,,18,sux:lugal[king]N sux:Enki[1]DN sux:sukkal[secretary]N sux:Isimud[1]DN sux:mi[cvne]N sux:dug[good]V/i sux:dug[speak]V/t
-c.1.1.4,Enki's journey to Nibru,,19,sux:e[house]N sux:ŋen[go]V/i sux:gu[voice]N sux:de[pour]V/t
-c.1.1.4,Enki's journey to Nibru,,20,sux:šeg[brick]N sux:ŋen[go]V/i sux:gu[voice]N sux:šum[give]V/t
-c.1.1.4,Enki's journey to Nibru,,21,sux:e[house]N sux:kug[metal]N sux:zagin[lapis]N sux:ki[place]N sux:ŋar[place]V/t
-c.1.1.4,Enki's journey to Nibru,,22,sux:temen[foundation]N sux:abzu[water]N sux:sig[put]V/t
-c.1.1.4,Enki's journey to Nibru,,23,sux:nun[prince]N sux:abzu[water]N sux:mi[cvne]N sux:dug[speak]V/t
-c.1.1.4,Enki's journey to Nibru,,24,sux:Idigna[1]WN sux:Buranun[1]WN sux:mah[great]V/i sux:ni[fear]N sux:šu[hand]N sux:teŋ[approach]V/i
-c.1.1.4,Enki's journey to Nibru,,25,sux:abzu[water]N sux:Enki[1]DN sux:ul[swell]V/i sux:de[bring]V/t
-c.1.1.4,Enki's journey to Nibru,,26,sux:saŋkul[bolt]N sux:gabašuŋar[rival]N sux:tuku[acquire]V/t
-c.1.1.4,Enki's journey to Nibru,,27,sux:siŋar[bolt]N sux:urmah[lion]N sux:ni[fear]N sux:gur[lift]V/t
-c.1.1.4,Enki's journey to Nibru,,28,sux:ŋušur[beam]N sux:gud[ox]N sux:an[sky]N sux:suh[crown]N sux:kug[pure]V/i sux:galam[skilful]V/i sux:dug[speak]V/t
-c.1.1.4,Enki's journey to Nibru,,29,sux:kid[mat]N sux:zagin[lapis]N sux:ŋušur[beam]N sux:gunu[speckled]V/i
-c.1.1.4,Enki's journey to Nibru,,30,sux:nir.GAM.ma[arch]N sux:gud[ox]N sux:si[horn]N sux:gur[lift]V/t
-c.1.1.4,Enki's journey to Nibru,,31,sux:kan[gate]N sux:urmah[lion]N sux:lu[person]N sux:šu[hand]N sux:teŋ[approach]V/i
-c.1.1.4,Enki's journey to Nibru,,32,sux:kuŋ[stair]N sux:ug[lion]N sux:lu[person]N sux:ed[ascend]V/i
-c.1.1.4,Enki's journey to Nibru,,33,sux:abzu[water]N sux:ki[place]N sux:sikil[pure]V/i sux:meteŋal[seemly]AJ
-c.1.1.4,Enki's journey to Nibru,,34,sux:Eʾengura[1]TN sux:lugal[king]N sux:ŋiri[foot]N sux:gub[stand]V/i
-c.1.1.4,Enki's journey to Nibru,,35,sux:Enki[1]DN sux:lugal[king]N sux:abzu[water]N
-c.1.1.4,Enki's journey to Nibru,,36,sux:temen[foundation]N sux:gug[carnelian]N sux:sa[equal]V/t
-c.1.1.4,Enki's journey to Nibru,,37,sux:zagin[lapis]N sux:mi[cvne]N sux:dug[speak]V/t
-c.1.1.4,Enki's journey to Nibru,,38,sux:e[house]N sux:Enki[1]DN sux:lal₃.HI×AŠ₂[wax]N sux:kug[pure]V/i sux:gurum[inspection]N sux:ak[do]V/t
-c.1.1.4,Enki's journey to Nibru,,39,sux:gud[ox]N sux:lugal[king]N sux:us[follow]V/t sux:sig[put]V/t
-c.1.1.4,Enki's journey to Nibru,,40,sux:ni[self]RP sux:murmara[noise]N sux:ša[cvve]V/t sux:teš[unity]N sux:ad[voice]N sux:gi[turn]V/i
-c.1.1.4,Enki's journey to Nibru,,41,sux:Eʾengura[1]TN sux:Enki[1]DN sux:gi[reed]N sux:dubban[fence]N sux:kug[pure]V/i sux:la[hang]V/t
-c.1.1.4,Enki's journey to Nibru,,42,sux:šag[heart]N sux:barag[sanctum]N sux:mah[great]V/i sux:ki[place]N sux:ŋar[place]V/t
-c.1.1.4,Enki's journey to Nibru,,43,sux:zadu[jamb]N sux:aškud[~door]N sux:kug[pure]V/i sux:an[sky]N
-c.1.1.4,Enki's journey to Nibru,,44,sux:abzu[water]N sux:ki[place]N sux:sikil[pure]V/i sux:ki[place]N sux:nam[fate]N sux:tar[cut]V/t
-c.1.1.4,Enki's journey to Nibru,,45,sux:en[lord]N sux:ŋeštug[ear]N sux:lugal[king]N sux:Enki[1]DN
-c.1.1.4,Enki's journey to Nibru,,45A,sux:Enki[1]DN sux:en[lord]N sux:nam[fate]N sux:tar[cut]V/t
-c.1.1.4,Enki's journey to Nibru,,46,sux:Nudimmud[1]DN sux:en[lord]N sux:Eridug[1]SN
-c.1.1.4,Enki's journey to Nibru,,47,sux:šag[heart]N sux:šeŋbar[animal]N sux:lu[person]N sux:igi[eye]N sux:bar[outside]V/t
-c.1.1.4,Enki's journey to Nibru,,48,sux:abgal[sage]N sux:siki[hair]N sux:bar[outside]V/t sux:du[spread]V/t
-c.1.1.4,Enki's journey to Nibru,,49,sux:Eridug[1]SN sux:Enki[1]DN sux:ki[place]N sux:aŋ[measure]V/t
-c.1.1.4,Enki's journey to Nibru,,50,sux:Eʾengura[1]TN sux:šag[heart]N sux:heŋal[plenty]N sux:si[fill]V/t
-c.1.1.4,Enki's journey to Nibru,,51,sux:abzu[water]N sux:zi[life]N sux:kalam[land]N sux:ki[place]N sux:aŋ[measure]V/t sux:Enki[1]DN
-c.1.1.4,Enki's journey to Nibru,,52,sux:e[house]N sux:zag[side]N sux:du[build]V/t sux:me[Being]N sux:galam[skilful]V/i sux:tum[suitable]V/i
-c.1.1.4,Enki's journey to Nibru,,53,sux:Eridug[1]SN sux:ŋissu[shade]N sux:abšag[~sea]N sux:la[hang]V/t
-c.1.1.4,Enki's journey to Nibru,,54,sux:aʾabak[sea]N sux:zig[rise]V/t sux:gabašuŋar[rival]N sux:tuku[acquire]V/t
-c.1.1.4,Enki's journey to Nibru,,55,sux:id[river]N sux:mah[great]V/i sux:niŋal[awe-inspiring]AJ sux:su[flesh]N sux:kalam[land]N sux:zig[rise]V/t
-c.1.1.4,Enki's journey to Nibru,,56,sux:Eʾengura[1]TN sux:urun[exalted]V/i sux:mah[great]V/i sux:ki[place]N sux:us[follow]V/t
-c.1.1.4,Enki's journey to Nibru,,57,sux:e[house]N sux:dag[side]N sux:engur[waters]N sux:piriŋ[lion]N sux:abzu[water]N sux:šag[heart]N
-c.1.1.4,Enki's journey to Nibru,,58,sux:e[house]N sux:mah[great]V/i sux:Enki[1]DN sux:ŋeštug[ear]N sux:kalam[land]N sux:šum[give]V/t
-c.1.1.4,Enki's journey to Nibru,,59,sux:akkil[noise]N sux:id[river]N sux:mah[great]V/i sux:zig[rise]V/t
-c.1.1.4,Enki's journey to Nibru,,60,sux:lugal[king]N sux:Enki[1]DN sux:tuku[acquire]V/t
-c.1.1.4,Enki's journey to Nibru,,61,sux:e[house]N sux:kug[pure]V/i sux:dug[good]V/i sux:ŋar[place]V/t
-c.1.1.4,Enki's journey to Nibru,,62,sux:zamin[lyre]N sux:alŋar[instrument]N sux:balaŋ[instrument]N sux:alŋarsur[drumstick]N
-c.1.1.4,Enki's journey to Nibru,,63,sux:harhar[instrument]N sux:sabitum[instrument]N sux:miritum[instrument]N sux:e[house]N sux:sig[silent]N
-c.1.1.4,Enki's journey to Nibru,,64,sux:ad[voice]N sux:dug[good]V/i sux:nundum[lip]N sux:bur[spread]V/t sux:balaŋ[instrument]N
-c.1.1.4,Enki's journey to Nibru,,65,sux:šag[heart]N sux:ni[self]RP sux:ad[voice]N sux:ša[cvve]V/t
-c.1.1.4,Enki's journey to Nibru,,66,sux:alŋar[instrument]N sux:kug[pure]V/i sux:Enki[1]DN sux:ni[self]RP sux:du[play]V/t
-c.1.1.4,Enki's journey to Nibru,,67,sux:nar[musician]N sux:7[7]NU sux:ad[voice]N sux:ša[cvve]V/t
-c.1.1.4,Enki's journey to Nibru,,68,sux:dug[speak]V/t sux:Enki[1]DN sux:šu[hand]N sux:bala[turn]V/t
-c.1.1.4,Enki's journey to Nibru,,69,sux:ki[place]N sux:ŋal[be]V/i
-c.1.1.4,Enki's journey to Nibru,,70,sux:sukkal[secretary]N sux:Isimud[1]DN sux:šeg[brick]N sux:gu[voice]N sux:šum[give]V/t
-c.1.1.4,Enki's journey to Nibru,,71,sux:Eʾengura[1]TN sux:šir[song]N sux:dug[good]V/i sux:dug[speak]V/t
-c.1.1.4,Enki's journey to Nibru,,72,sux:du[build]V/t sux:du[build]V/t
-c.1.1.4,Enki's journey to Nibru,,73,sux:Eridug[1]SN sux:Enki[1]DN sux:il[raise]V/t
-c.1.1.4,Enki's journey to Nibru,,74,sux:hursaŋ[mountain]N sux:galam[skilful]V/i sux:kad[tie]V/t sux:a[water]N sux:dirig[float]V/i
-c.1.1.4,Enki's journey to Nibru,,75,sux:zag[side]N sux:gi[thicket]N sux:KU[KU]V
-c.1.1.4,Enki's journey to Nibru,,76,sux:kiri[orchard]N sux:sissig[green]V/i sux:gurun[fruit]N sux:il[raise]V/t
-c.1.1.4,Enki's journey to Nibru,,77,sux:mušen[bird]N sux:ŋi[night]N sux:haš[thigh]N sux:ŋar[place]V/t
-c.1.1.4,Enki's journey to Nibru,,78,sux:suhur[carp]N sux:ulal[plant]N sux:enedi[game]N sux:dug[speak]V/t
-c.1.1.4,Enki's journey to Nibru,,79,sux:eštub[carp]N sux:gizi[reed]N sux:didila[smaller]V/i sux:kun[tail]N sux:sud[distant]V/i
-c.1.1.4,Enki's journey to Nibru,,80,sux:Enki[1]DN sux:zig[rise]V/t sux:kud[fish]N sux:izi[wave]N sux:zig[rise]V/t
-c.1.1.4,Enki's journey to Nibru,,81,sux:abzu[water]N sux:u[admiration]N sux:gub[stand]V/i
-c.1.1.4,Enki's journey to Nibru,,82,sux:engur[waters]N sux:hul[rejoice]V/i sux:de[bring]V/t
-c.1.1.4,Enki's journey to Nibru,,83,sux:aʾabak[sea]N sux:ni[fear]N sux:ŋal[be]V/i
-c.1.1.4,Enki's journey to Nibru,,84,sux:id[river]N sux:mah[great]V/i sux:su[flesh]N sux:zig[rise]V/t sux:ri[impose]V/t
-c.1.1.4,Enki's journey to Nibru,,85,sux:Buranun[1]WN sux:ulu[wind]N sux:sumur[angry]V/i sux:zig[rise]V/t
-c.1.1.4,Enki's journey to Nibru,,86,sux:gimuš[pole]N sux:Nirah[1]DN
-c.1.1.4,Enki's journey to Nibru,,87,sux:ŋisal[rudder]N sux:gi[reed]N sux:tur[small]V/i
-c.1.1.4,Enki's journey to Nibru,,88,sux:Enki[1]DN sux:u[ride]V/t sux:mu[year]N sux:heŋal[plenty]N sux:si[fill]V/t
-c.1.1.4,Enki's journey to Nibru,,89,sux:ma[ship]N sux:ni[self]RP sux:du[spread]V/t sux:eš[rope]N sux:ni[self]RP sux:dab[seize]V/t
-c.1.1.4,Enki's journey to Nibru,,90,sux:e[house]N sux:Eridug[1]SN sux:kar[flee]V/t
-c.1.1.4,Enki's journey to Nibru,,91,sux:id[river]N sux:lugal[king]N sux:ad[voice]N sux:gi[turn]V/i
-c.1.1.4,Enki's journey to Nibru,,92,sux:gu[voice]N sux:gu[voice]N sux:amar[young]N sux:gu[voice]N sux:ab[cow]N sux:dug[good]V/i
-c.1.1.4,Enki's journey to Nibru,,93,sux:Enki[1]DN sux:gud[ox]N sux:gaz[kill]V/t sux:udu[sheep]N sux:šar[slaughter]V/t
-c.1.1.4,Enki's journey to Nibru,,94,sux:ala[drum]N sux:ŋal[be]V/i sux:ki[place]N sux:sa[equal]V/t sux:dug[speak]V/t
-c.1.1.4,Enki's journey to Nibru,,95,sux:ub[drum]N sux:zabar[bronze]N sux:ŋal[be]V/i sux:ki[place]N sux:e[leave]V/i
-c.1.1.4,Enki's journey to Nibru,,96,sux:Nibru[1]SN sux:ŋiri[foot]N sux:dili[single]V/i sux:gub[stand]V/i
-c.1.1.4,Enki's journey to Nibru,,97,sux:giguna[terrace]N sux:eš[shrine]N sux:Nibru[1]SN sux:kur[enter]V/i
-c.1.1.4,Enki's journey to Nibru,,98,sux:Enki[1]DN sux:kaš[beer]N sux:teŋ[approach]V/i sux:kurun[beer]N sux:teŋ[approach]V/i
-c.1.1.4,Enki's journey to Nibru,,99,sux:kurun[beer]N sux:gal[big]V/i sux:zabar[bronze]N sux:de[pour]V/t
-c.1.1.4,Enki's journey to Nibru,,100,sux:ulušin[beer]N sux:dili[single]V/i sux:sur[press]V/t
-c.1.1.4,Enki's journey to Nibru,,101,sux:kurkudu[container]N sux:kaš[beer]N sux:dug[good]V/i sux:duh[bran]N sux:sa[equal]V/t
-c.1.1.4,Enki's journey to Nibru,,102,sux:kag[mouth]N sux:lal[syrup]N sux:zulum[date]N sux:niŋ[thing]N sux:ir[mighty]AJ sux:ak[do]V/t
-c.1.1.4,Enki's journey to Nibru,,103,sux:duh[bran]N sux:niŋ[thing]N sux:lal[syrup]N sux:dili[single]V/i sux:sed[cold]V/i sux:du[spread]V/t
-c.1.1.4,Enki's journey to Nibru,,104,sux:Enki[1]DN sux:eš[shrine]N sux:Nibru[1]SN
-c.1.1.4,Enki's journey to Nibru,,105,sux:aya[father]N sux:Enlil[1]DN sux:ninda[bread]N sux:gu[eat]V/t
-c.1.1.4,Enki's journey to Nibru,,106,sux:An[1]DN sux:ki[place]N sux:mah[great]V/i sux:tuš[sit]V/i
-c.1.1.4,Enki's journey to Nibru,,107,sux:An[1]DN sux:Enlil[1]DN sux:us[follow]V/t
-c.1.1.4,Enki's journey to Nibru,,108,sux:Nintur[1]DN sux:zag[side]N sux:gal[big]V/i sux:tuš[sit]V/i
-c.1.1.4,Enki's journey to Nibru,,109,sux:Anunak[1]DN sux:kiʾus[unmng]N sux:tuš[sit]V/i
-c.1.1.4,Enki's journey to Nibru,,110,sux:lu[person]N sux:kaš[beer]N sux:naŋ[drink]V/t sux:kurun[beer]N sux:dug[good]V/i
-c.1.1.4,Enki's journey to Nibru,,111,sux:aga[vessel]N sux:gur[thick]V/i
-c.1.1.4,Enki's journey to Nibru,,112,sux:zabar[bronze]N sux:Uraš[1]DN sux:adamin[contest]N sux:dug[speak]V/t
-c.1.1.4,Enki's journey to Nibru,,113,sux:tilimda[vessel]N sux:magur[barge]N sux:kug[pure]V/i sux:babbar[white]V/i
-c.1.1.4,Enki's journey to Nibru,,114,sux:kaš[beer]N sux:dug[speak]V/t sux:kurun[beer]N sux:dug[good]V/i
-c.1.1.4,Enki's journey to Nibru,,115,sux:e[house]N sux:ŋiri[foot]N sux:ŋar[place]V/t
-c.1.1.4,Enki's journey to Nibru,,116,sux:Enlil[1]DN sux:Nibru[1]SN sux:hul[rejoice]V/i sux:de[bring]V/t
-c.1.1.4,Enki's journey to Nibru,,117,sux:Enlil[1]DN sux:Anunak[1]DN sux:gu[voice]N sux:de[pour]V/t
-c.1.1.4,Enki's journey to Nibru,,118,sux:diŋir[deity]N sux:gal[big]V/i sux:gub[stand]V/i
-c.1.1.4,Enki's journey to Nibru,,119,sux:Anunak[1]DN sux:Ubšuʾunkenak[1]TN sux:si[horn]N sux:sa[equal]V/t
-c.1.1.4,Enki's journey to Nibru,,120,sux:dumu[child]N sux:e[house]N sux:du[build]V/t sux:lugal[king]N sux:Enki[1]DN
-c.1.1.4,Enki's journey to Nibru,,121,sux:Eridug[1]SN sux:hursaŋ[mountain]N sux:ki[place]N sux:ri[impose]V/t
-c.1.1.4,Enki's journey to Nibru,,122,sux:ki[place]N sux:dug[good]V/i sux:e[house]N sux:du[build]V/t
-c.1.1.4,Enki's journey to Nibru,,123,sux:Eridug[1]SN sux:ki[place]N sux:sikil[pure]V/i sux:lu[person]N sux:kur[enter]V/i
-c.1.1.4,Enki's journey to Nibru,,124,sux:e[house]N sux:kug[metal]N sux:du[build]V/t sux:zagin[lapis]N sux:gunu[speckled]V/i
-c.1.1.4,Enki's journey to Nibru,,125,sux:e[house]N sux:tigi[instrument]N sux:7[7]NU sux:si[horn]N sux:sa[equal]V/t sux:namšub[incantation]N sux:šum[give]V/t
-c.1.1.4,Enki's journey to Nibru,,126,sux:šir[song]N sux:kug[pure]V/i sux:teš[unity]N sux:e[house]N sux:ki[place]N sux:dug[good]V/i
-c.1.1.4,Enki's journey to Nibru,,127,sux:eš[shrine]N sux:Abzu[1]TN sux:nam[fate]N sux:dug[good]V/i sux:Enki[1]DN sux:me[Being]N sux:galam[skilful]V/i sux:tum[suitable]V/i
-c.1.1.4,Enki's journey to Nibru,,128,sux:Eridug[1]SN sux:e[house]N sux:kug[metal]N sux:du[build]V/t
-c.1.1.4,Enki's journey to Nibru,,129,sux:aya[father]N sux:Enki[1]DN sux:zamin[lyre]N
+c.1.1.4,Enki's journey to Nibru,,1,sux:ud[sun]Nsux:ud[sun]N sux:re[that]DPsux:ud[sun]N sux:re[that]DP sux:nam[fate]Nsux:ud[sun]N sux:re[that]DP sux:nam[fate]N sux:tar[cut]V/t
+c.1.1.4,Enki's journey to Nibru,,2,sux:mu[year]Nsux:mu[year]N sux:heŋal[plenty]Nsux:mu[year]N sux:heŋal[plenty]N sux:an[sky]Nsux:mu[year]N sux:heŋal[plenty]N sux:an[sky]N sux:utud[bear]V/t
+c.1.1.4,Enki's journey to Nibru,,3,sux:uŋ[people]Nsux:uŋ[people]N sux:ušim[greenery]Nsux:uŋ[people]N sux:ušim[greenery]N sux:ki[place]Nsux:uŋ[people]N sux:ušim[greenery]N sux:ki[place]N sux:dar[split]V/t
+c.1.1.4,Enki's journey to Nibru,,4,sux:en[lord]Nsux:en[lord]N sux:abzu[water]Nsux:en[lord]N sux:abzu[water]N sux:lugal[king]Nsux:en[lord]N sux:abzu[water]N sux:lugal[king]N sux:Enki[1]DN
+c.1.1.4,Enki's journey to Nibru,,5,sux:Enki[1]DNsux:Enki[1]DN sux:en[lord]Nsux:Enki[1]DN sux:en[lord]N sux:nam[fate]Nsux:Enki[1]DN sux:en[lord]N sux:nam[fate]N sux:tar[cut]V/t
+c.1.1.4,Enki's journey to Nibru,,6,sux:e[house]Nsux:e[house]N sux:kug[metal]Nsux:e[house]N sux:kug[metal]N sux:zagin[lapis]Nsux:e[house]N sux:kug[metal]N sux:zagin[lapis]N sux:teš[unity]Nsux:e[house]N sux:kug[metal]N sux:zagin[lapis]N sux:teš[unity]N sux:du[build]V/t
+c.1.1.4,Enki's journey to Nibru,,7,sux:kug[metal]Nsux:kug[metal]N sux:zagin[lapis]Nsux:kug[metal]N sux:zagin[lapis]N sux:ud[sun]Nsux:kug[metal]N sux:zagin[lapis]N sux:ud[sun]N sux:kar[blow]V/t
+c.1.1.4,Enki's journey to Nibru,,8,sux:eš[shrine]Nsux:eš[shrine]N sux:Abzu[1]TNsux:eš[shrine]N sux:Abzu[1]TN sux:ul[swell]V/isux:eš[shrine]N sux:Abzu[1]TN sux:ul[swell]V/i sux:de[bring]V/t
+c.1.1.4,Enki's journey to Nibru,,9,sux:suh[crown]Nsux:suh[crown]N sux:kug[pure]V/isux:suh[crown]N sux:kug[pure]V/i sux:galam[skilful]V/isux:suh[crown]N sux:kug[pure]V/i sux:galam[skilful]V/i sux:dug[speak]V/tsux:suh[crown]N sux:kug[pure]V/i sux:galam[skilful]V/i sux:dug[speak]V/t sux:abzu[water]Nsux:suh[crown]N sux:kug[pure]V/i sux:galam[skilful]V/i sux:dug[speak]V/t sux:abzu[water]N sux:e[leave]V/i
+c.1.1.4,Enki's journey to Nibru,,10,sux:en[lord]Nsux:en[lord]N sux:Nudimmud[1]DNsux:en[lord]N sux:Nudimmud[1]DN sux:gub[stand]V/i
+c.1.1.4,Enki's journey to Nibru,,11,sux:e[house]Nsux:e[house]N sux:kug[metal]Nsux:e[house]N sux:kug[metal]N sux:du[build]V/tsux:e[house]N sux:kug[metal]N sux:du[build]V/t sux:zagin[lapis]Nsux:e[house]N sux:kug[metal]N sux:du[build]V/t sux:zagin[lapis]N sux:gunu[speckled]V/i
+c.1.1.4,Enki's journey to Nibru,,12,sux:gal[big]V/isux:gal[big]V/i sux:kugsig[gold]Nsux:gal[big]V/i sux:kugsig[gold]N sux:šu[hand]Nsux:gal[big]V/i sux:kugsig[gold]N sux:šu[hand]N sux:tag[touch]V/tsux:gal[big]V/i sux:kugsig[gold]N sux:šu[hand]N sux:tag[touch]V/t sux:dug[speak]V/t
+c.1.1.4,Enki's journey to Nibru,,13,sux:Eridug[1]SNsux:Eridug[1]SN sux:e[house]Nsux:Eridug[1]SN sux:e[house]N sux:gu[neck]Nsux:Eridug[1]SN sux:e[house]N sux:gu[neck]N sux:du[build]V/t
+c.1.1.4,Enki's journey to Nibru,,14,sux:šeg[brick]Nsux:šeg[brick]N sux:inim[word]Nsux:šeg[brick]N sux:inim[word]N sux:dug[speak]V/tsux:šeg[brick]N sux:inim[word]N sux:dug[speak]V/t sux:ad[voice]Nsux:šeg[brick]N sux:inim[word]N sux:dug[speak]V/t sux:ad[voice]N sux:gi[turn]V/i
+c.1.1.4,Enki's journey to Nibru,,15,sux:gisal[screen]Nsux:gisal[screen]N sux:gud[ox]Nsux:gisal[screen]N sux:gud[ox]N sux:murmara[noise]Nsux:gisal[screen]N sux:gud[ox]N sux:murmara[noise]N sux:ša[cvve]V/t
+c.1.1.4,Enki's journey to Nibru,,16,sux:e[house]Nsux:e[house]N sux:Enki[1]DNsux:e[house]N sux:Enki[1]DN sux:gu[voice]Nsux:e[house]N sux:Enki[1]DN sux:gu[voice]N sux:nun[prince]Nsux:e[house]N sux:Enki[1]DN sux:gu[voice]N sux:nun[prince]N sux:dug[speak]V/t
+c.1.1.4,Enki's journey to Nibru,,17,sux:e[house]Nsux:e[house]N sux:lugal[king]Nsux:e[house]N sux:lugal[king]N sux:ŋi[night]Nsux:e[house]N sux:lugal[king]N sux:ŋi[night]N sux:ar[praise]Nsux:e[house]N sux:lugal[king]N sux:ŋi[night]N sux:ar[praise]N sux:de[bring]V/tsux:e[house]N sux:lugal[king]N sux:ŋi[night]N sux:ar[praise]N sux:de[bring]V/t sux:dug[good]V/isux:e[house]N sux:lugal[king]N sux:ŋi[night]N sux:ar[praise]N sux:de[bring]V/t sux:dug[good]V/i sux:ŋar[place]V/t
+c.1.1.4,Enki's journey to Nibru,,18,sux:lugal[king]Nsux:lugal[king]N sux:Enki[1]DNsux:lugal[king]N sux:Enki[1]DN sux:sukkal[secretary]Nsux:lugal[king]N sux:Enki[1]DN sux:sukkal[secretary]N sux:Isimud[1]DNsux:lugal[king]N sux:Enki[1]DN sux:sukkal[secretary]N sux:Isimud[1]DN sux:mi[cvne]Nsux:lugal[king]N sux:Enki[1]DN sux:sukkal[secretary]N sux:Isimud[1]DN sux:mi[cvne]N sux:dug[good]V/isux:lugal[king]N sux:Enki[1]DN sux:sukkal[secretary]N sux:Isimud[1]DN sux:mi[cvne]N sux:dug[good]V/i sux:dug[speak]V/t
+c.1.1.4,Enki's journey to Nibru,,19,sux:e[house]Nsux:e[house]N sux:ŋen[go]V/isux:e[house]N sux:ŋen[go]V/i sux:gu[voice]Nsux:e[house]N sux:ŋen[go]V/i sux:gu[voice]N sux:de[pour]V/t
+c.1.1.4,Enki's journey to Nibru,,20,sux:šeg[brick]Nsux:šeg[brick]N sux:ŋen[go]V/isux:šeg[brick]N sux:ŋen[go]V/i sux:gu[voice]Nsux:šeg[brick]N sux:ŋen[go]V/i sux:gu[voice]N sux:šum[give]V/t
+c.1.1.4,Enki's journey to Nibru,,21,sux:e[house]Nsux:e[house]N sux:kug[metal]Nsux:e[house]N sux:kug[metal]N sux:zagin[lapis]Nsux:e[house]N sux:kug[metal]N sux:zagin[lapis]N sux:ki[place]Nsux:e[house]N sux:kug[metal]N sux:zagin[lapis]N sux:ki[place]N sux:ŋar[place]V/t
+c.1.1.4,Enki's journey to Nibru,,22,sux:temen[foundation]Nsux:temen[foundation]N sux:abzu[water]Nsux:temen[foundation]N sux:abzu[water]N sux:sig[put]V/t
+c.1.1.4,Enki's journey to Nibru,,23,sux:nun[prince]Nsux:nun[prince]N sux:abzu[water]Nsux:nun[prince]N sux:abzu[water]N sux:mi[cvne]Nsux:nun[prince]N sux:abzu[water]N sux:mi[cvne]N sux:dug[speak]V/t
+c.1.1.4,Enki's journey to Nibru,,24,sux:Idigna[1]WNsux:Idigna[1]WN sux:Buranun[1]WNsux:Idigna[1]WN sux:Buranun[1]WN sux:mah[great]V/isux:Idigna[1]WN sux:Buranun[1]WN sux:mah[great]V/i sux:ni[fear]Nsux:Idigna[1]WN sux:Buranun[1]WN sux:mah[great]V/i sux:ni[fear]N sux:šu[hand]Nsux:Idigna[1]WN sux:Buranun[1]WN sux:mah[great]V/i sux:ni[fear]N sux:šu[hand]N sux:teŋ[approach]V/i
+c.1.1.4,Enki's journey to Nibru,,25,sux:abzu[water]Nsux:abzu[water]N sux:Enki[1]DNsux:abzu[water]N sux:Enki[1]DN sux:ul[swell]V/isux:abzu[water]N sux:Enki[1]DN sux:ul[swell]V/i sux:de[bring]V/t
+c.1.1.4,Enki's journey to Nibru,,26,sux:saŋkul[bolt]Nsux:saŋkul[bolt]N sux:gabašuŋar[rival]Nsux:saŋkul[bolt]N sux:gabašuŋar[rival]N sux:tuku[acquire]V/t
+c.1.1.4,Enki's journey to Nibru,,27,sux:siŋar[bolt]Nsux:siŋar[bolt]N sux:urmah[lion]Nsux:siŋar[bolt]N sux:urmah[lion]N sux:ni[fear]Nsux:siŋar[bolt]N sux:urmah[lion]N sux:ni[fear]N sux:gur[lift]V/t
+c.1.1.4,Enki's journey to Nibru,,28,sux:ŋušur[beam]Nsux:ŋušur[beam]N sux:gud[ox]Nsux:ŋušur[beam]N sux:gud[ox]N sux:an[sky]Nsux:ŋušur[beam]N sux:gud[ox]N sux:an[sky]N sux:suh[crown]Nsux:ŋušur[beam]N sux:gud[ox]N sux:an[sky]N sux:suh[crown]N sux:kug[pure]V/isux:ŋušur[beam]N sux:gud[ox]N sux:an[sky]N sux:suh[crown]N sux:kug[pure]V/i sux:galam[skilful]V/isux:ŋušur[beam]N sux:gud[ox]N sux:an[sky]N sux:suh[crown]N sux:kug[pure]V/i sux:galam[skilful]V/i sux:dug[speak]V/t
+c.1.1.4,Enki's journey to Nibru,,29,sux:kid[mat]Nsux:kid[mat]N sux:zagin[lapis]Nsux:kid[mat]N sux:zagin[lapis]N sux:ŋušur[beam]Nsux:kid[mat]N sux:zagin[lapis]N sux:ŋušur[beam]N sux:gunu[speckled]V/i
+c.1.1.4,Enki's journey to Nibru,,30,sux:nir.GAM.ma[arch]Nsux:nir.GAM.ma[arch]N sux:gud[ox]Nsux:nir.GAM.ma[arch]N sux:gud[ox]N sux:si[horn]Nsux:nir.GAM.ma[arch]N sux:gud[ox]N sux:si[horn]N sux:gur[lift]V/t
+c.1.1.4,Enki's journey to Nibru,,31,sux:kan[gate]Nsux:kan[gate]N sux:urmah[lion]Nsux:kan[gate]N sux:urmah[lion]N sux:lu[person]Nsux:kan[gate]N sux:urmah[lion]N sux:lu[person]N sux:šu[hand]Nsux:kan[gate]N sux:urmah[lion]N sux:lu[person]N sux:šu[hand]N sux:teŋ[approach]V/i
+c.1.1.4,Enki's journey to Nibru,,32,sux:kuŋ[stair]Nsux:kuŋ[stair]N sux:ug[lion]Nsux:kuŋ[stair]N sux:ug[lion]N sux:lu[person]Nsux:kuŋ[stair]N sux:ug[lion]N sux:lu[person]N sux:ed[ascend]V/i
+c.1.1.4,Enki's journey to Nibru,,33,sux:abzu[water]Nsux:abzu[water]N sux:ki[place]Nsux:abzu[water]N sux:ki[place]N sux:sikil[pure]V/isux:abzu[water]N sux:ki[place]N sux:sikil[pure]V/i sux:meteŋal[seemly]AJ
+c.1.1.4,Enki's journey to Nibru,,34,sux:Eʾengura[1]TNsux:Eʾengura[1]TN sux:lugal[king]Nsux:Eʾengura[1]TN sux:lugal[king]N sux:ŋiri[foot]Nsux:Eʾengura[1]TN sux:lugal[king]N sux:ŋiri[foot]N sux:gub[stand]V/i
+c.1.1.4,Enki's journey to Nibru,,35,sux:Enki[1]DNsux:Enki[1]DN sux:lugal[king]Nsux:Enki[1]DN sux:lugal[king]N sux:abzu[water]N
+c.1.1.4,Enki's journey to Nibru,,36,sux:temen[foundation]Nsux:temen[foundation]N sux:gug[carnelian]Nsux:temen[foundation]N sux:gug[carnelian]N sux:sa[equal]V/t
+c.1.1.4,Enki's journey to Nibru,,37,sux:zagin[lapis]Nsux:zagin[lapis]N sux:mi[cvne]Nsux:zagin[lapis]N sux:mi[cvne]N sux:dug[speak]V/t
+c.1.1.4,Enki's journey to Nibru,,38,sux:e[house]Nsux:e[house]N sux:Enki[1]DNsux:e[house]N sux:Enki[1]DN sux:lal₃.HI×AŠ₂[wax]Nsux:e[house]N sux:Enki[1]DN sux:lal₃.HI×AŠ₂[wax]N sux:kug[pure]V/isux:e[house]N sux:Enki[1]DN sux:lal₃.HI×AŠ₂[wax]N sux:kug[pure]V/i sux:gurum[inspection]Nsux:e[house]N sux:Enki[1]DN sux:lal₃.HI×AŠ₂[wax]N sux:kug[pure]V/i sux:gurum[inspection]N sux:ak[do]V/t
+c.1.1.4,Enki's journey to Nibru,,39,sux:gud[ox]Nsux:gud[ox]N sux:lugal[king]Nsux:gud[ox]N sux:lugal[king]N sux:us[follow]V/tsux:gud[ox]N sux:lugal[king]N sux:us[follow]V/t sux:sig[put]V/t
+c.1.1.4,Enki's journey to Nibru,,40,sux:ni[self]RPsux:ni[self]RP sux:murmara[noise]Nsux:ni[self]RP sux:murmara[noise]N sux:ša[cvve]V/tsux:ni[self]RP sux:murmara[noise]N sux:ša[cvve]V/t sux:teš[unity]Nsux:ni[self]RP sux:murmara[noise]N sux:ša[cvve]V/t sux:teš[unity]N sux:ad[voice]Nsux:ni[self]RP sux:murmara[noise]N sux:ša[cvve]V/t sux:teš[unity]N sux:ad[voice]N sux:gi[turn]V/i
+c.1.1.4,Enki's journey to Nibru,,41,sux:Eʾengura[1]TNsux:Eʾengura[1]TN sux:Enki[1]DNsux:Eʾengura[1]TN sux:Enki[1]DN sux:gi[reed]Nsux:Eʾengura[1]TN sux:Enki[1]DN sux:gi[reed]N sux:dubban[fence]Nsux:Eʾengura[1]TN sux:Enki[1]DN sux:gi[reed]N sux:dubban[fence]N sux:kug[pure]V/isux:Eʾengura[1]TN sux:Enki[1]DN sux:gi[reed]N sux:dubban[fence]N sux:kug[pure]V/i sux:la[hang]V/t
+c.1.1.4,Enki's journey to Nibru,,42,sux:šag[heart]Nsux:šag[heart]N sux:barag[sanctum]Nsux:šag[heart]N sux:barag[sanctum]N sux:mah[great]V/isux:šag[heart]N sux:barag[sanctum]N sux:mah[great]V/i sux:ki[place]Nsux:šag[heart]N sux:barag[sanctum]N sux:mah[great]V/i sux:ki[place]N sux:ŋar[place]V/t
+c.1.1.4,Enki's journey to Nibru,,43,sux:zadu[jamb]Nsux:zadu[jamb]N sux:aškud[~door]Nsux:zadu[jamb]N sux:aškud[~door]N sux:kug[pure]V/isux:zadu[jamb]N sux:aškud[~door]N sux:kug[pure]V/i sux:an[sky]N
+c.1.1.4,Enki's journey to Nibru,,44,sux:abzu[water]Nsux:abzu[water]N sux:ki[place]Nsux:abzu[water]N sux:ki[place]N sux:sikil[pure]V/isux:abzu[water]N sux:ki[place]N sux:sikil[pure]V/i sux:ki[place]Nsux:abzu[water]N sux:ki[place]N sux:sikil[pure]V/i sux:ki[place]N sux:nam[fate]Nsux:abzu[water]N sux:ki[place]N sux:sikil[pure]V/i sux:ki[place]N sux:nam[fate]N sux:tar[cut]V/t
+c.1.1.4,Enki's journey to Nibru,,45,sux:en[lord]Nsux:en[lord]N sux:ŋeštug[ear]Nsux:en[lord]N sux:ŋeštug[ear]N sux:lugal[king]Nsux:en[lord]N sux:ŋeštug[ear]N sux:lugal[king]N sux:Enki[1]DN
+c.1.1.4,Enki's journey to Nibru,,45A,sux:Enki[1]DNsux:Enki[1]DN sux:en[lord]Nsux:Enki[1]DN sux:en[lord]N sux:nam[fate]Nsux:Enki[1]DN sux:en[lord]N sux:nam[fate]N sux:tar[cut]V/t
+c.1.1.4,Enki's journey to Nibru,,46,sux:Nudimmud[1]DNsux:Nudimmud[1]DN sux:en[lord]Nsux:Nudimmud[1]DN sux:en[lord]N sux:Eridug[1]SN
+c.1.1.4,Enki's journey to Nibru,,47,sux:šag[heart]Nsux:šag[heart]N sux:šeŋbar[animal]Nsux:šag[heart]N sux:šeŋbar[animal]N sux:lu[person]Nsux:šag[heart]N sux:šeŋbar[animal]N sux:lu[person]N sux:igi[eye]Nsux:šag[heart]N sux:šeŋbar[animal]N sux:lu[person]N sux:igi[eye]N sux:bar[outside]V/t
+c.1.1.4,Enki's journey to Nibru,,48,sux:abgal[sage]Nsux:abgal[sage]N sux:siki[hair]Nsux:abgal[sage]N sux:siki[hair]N sux:bar[outside]V/tsux:abgal[sage]N sux:siki[hair]N sux:bar[outside]V/t sux:du[spread]V/t
+c.1.1.4,Enki's journey to Nibru,,49,sux:Eridug[1]SNsux:Eridug[1]SN sux:Enki[1]DNsux:Eridug[1]SN sux:Enki[1]DN sux:ki[place]Nsux:Eridug[1]SN sux:Enki[1]DN sux:ki[place]N sux:aŋ[measure]V/t
+c.1.1.4,Enki's journey to Nibru,,50,sux:Eʾengura[1]TNsux:Eʾengura[1]TN sux:šag[heart]Nsux:Eʾengura[1]TN sux:šag[heart]N sux:heŋal[plenty]Nsux:Eʾengura[1]TN sux:šag[heart]N sux:heŋal[plenty]N sux:si[fill]V/t
+c.1.1.4,Enki's journey to Nibru,,51,sux:abzu[water]Nsux:abzu[water]N sux:zi[life]Nsux:abzu[water]N sux:zi[life]N sux:kalam[land]Nsux:abzu[water]N sux:zi[life]N sux:kalam[land]N sux:ki[place]Nsux:abzu[water]N sux:zi[life]N sux:kalam[land]N sux:ki[place]N sux:aŋ[measure]V/tsux:abzu[water]N sux:zi[life]N sux:kalam[land]N sux:ki[place]N sux:aŋ[measure]V/t sux:Enki[1]DN
+c.1.1.4,Enki's journey to Nibru,,52,sux:e[house]Nsux:e[house]N sux:zag[side]Nsux:e[house]N sux:zag[side]N sux:du[build]V/tsux:e[house]N sux:zag[side]N sux:du[build]V/t sux:me[Being]Nsux:e[house]N sux:zag[side]N sux:du[build]V/t sux:me[Being]N sux:galam[skilful]V/isux:e[house]N sux:zag[side]N sux:du[build]V/t sux:me[Being]N sux:galam[skilful]V/i sux:tum[suitable]V/i
+c.1.1.4,Enki's journey to Nibru,,53,sux:Eridug[1]SNsux:Eridug[1]SN sux:ŋissu[shade]Nsux:Eridug[1]SN sux:ŋissu[shade]N sux:abšag[~sea]Nsux:Eridug[1]SN sux:ŋissu[shade]N sux:abšag[~sea]N sux:la[hang]V/t
+c.1.1.4,Enki's journey to Nibru,,54,sux:aʾabak[sea]Nsux:aʾabak[sea]N sux:zig[rise]V/tsux:aʾabak[sea]N sux:zig[rise]V/t sux:gabašuŋar[rival]Nsux:aʾabak[sea]N sux:zig[rise]V/t sux:gabašuŋar[rival]N sux:tuku[acquire]V/t
+c.1.1.4,Enki's journey to Nibru,,55,sux:id[river]Nsux:id[river]N sux:mah[great]V/isux:id[river]N sux:mah[great]V/i sux:niŋal[awe-inspiring]AJsux:id[river]N sux:mah[great]V/i sux:niŋal[awe-inspiring]AJ sux:su[flesh]Nsux:id[river]N sux:mah[great]V/i sux:niŋal[awe-inspiring]AJ sux:su[flesh]N sux:kalam[land]Nsux:id[river]N sux:mah[great]V/i sux:niŋal[awe-inspiring]AJ sux:su[flesh]N sux:kalam[land]N sux:zig[rise]V/t
+c.1.1.4,Enki's journey to Nibru,,56,sux:Eʾengura[1]TNsux:Eʾengura[1]TN sux:urun[exalted]V/isux:Eʾengura[1]TN sux:urun[exalted]V/i sux:mah[great]V/isux:Eʾengura[1]TN sux:urun[exalted]V/i sux:mah[great]V/i sux:ki[place]Nsux:Eʾengura[1]TN sux:urun[exalted]V/i sux:mah[great]V/i sux:ki[place]N sux:us[follow]V/t
+c.1.1.4,Enki's journey to Nibru,,57,sux:e[house]Nsux:e[house]N sux:dag[side]Nsux:e[house]N sux:dag[side]N sux:engur[waters]Nsux:e[house]N sux:dag[side]N sux:engur[waters]N sux:piriŋ[lion]Nsux:e[house]N sux:dag[side]N sux:engur[waters]N sux:piriŋ[lion]N sux:abzu[water]Nsux:e[house]N sux:dag[side]N sux:engur[waters]N sux:piriŋ[lion]N sux:abzu[water]N sux:šag[heart]N
+c.1.1.4,Enki's journey to Nibru,,58,sux:e[house]Nsux:e[house]N sux:mah[great]V/isux:e[house]N sux:mah[great]V/i sux:Enki[1]DNsux:e[house]N sux:mah[great]V/i sux:Enki[1]DN sux:ŋeštug[ear]Nsux:e[house]N sux:mah[great]V/i sux:Enki[1]DN sux:ŋeštug[ear]N sux:kalam[land]Nsux:e[house]N sux:mah[great]V/i sux:Enki[1]DN sux:ŋeštug[ear]N sux:kalam[land]N sux:šum[give]V/t
+c.1.1.4,Enki's journey to Nibru,,59,sux:akkil[noise]Nsux:akkil[noise]N sux:id[river]Nsux:akkil[noise]N sux:id[river]N sux:mah[great]V/isux:akkil[noise]N sux:id[river]N sux:mah[great]V/i sux:zig[rise]V/t
+c.1.1.4,Enki's journey to Nibru,,60,sux:lugal[king]Nsux:lugal[king]N sux:Enki[1]DNsux:lugal[king]N sux:Enki[1]DN sux:tuku[acquire]V/t
+c.1.1.4,Enki's journey to Nibru,,61,sux:e[house]Nsux:e[house]N sux:kug[pure]V/isux:e[house]N sux:kug[pure]V/i sux:dug[good]V/isux:e[house]N sux:kug[pure]V/i sux:dug[good]V/i sux:ŋar[place]V/t
+c.1.1.4,Enki's journey to Nibru,,62,sux:zamin[lyre]Nsux:zamin[lyre]N sux:alŋar[instrument]Nsux:zamin[lyre]N sux:alŋar[instrument]N sux:balaŋ[instrument]Nsux:zamin[lyre]N sux:alŋar[instrument]N sux:balaŋ[instrument]N sux:alŋarsur[drumstick]N
+c.1.1.4,Enki's journey to Nibru,,63,sux:harhar[instrument]Nsux:harhar[instrument]N sux:sabitum[instrument]Nsux:harhar[instrument]N sux:sabitum[instrument]N sux:miritum[instrument]Nsux:harhar[instrument]N sux:sabitum[instrument]N sux:miritum[instrument]N sux:e[house]Nsux:harhar[instrument]N sux:sabitum[instrument]N sux:miritum[instrument]N sux:e[house]N sux:sig[silent]N
+c.1.1.4,Enki's journey to Nibru,,64,sux:ad[voice]Nsux:ad[voice]N sux:dug[good]V/isux:ad[voice]N sux:dug[good]V/i sux:nundum[lip]Nsux:ad[voice]N sux:dug[good]V/i sux:nundum[lip]N sux:bur[spread]V/tsux:ad[voice]N sux:dug[good]V/i sux:nundum[lip]N sux:bur[spread]V/t sux:balaŋ[instrument]N
+c.1.1.4,Enki's journey to Nibru,,65,sux:šag[heart]Nsux:šag[heart]N sux:ni[self]RPsux:šag[heart]N sux:ni[self]RP sux:ad[voice]Nsux:šag[heart]N sux:ni[self]RP sux:ad[voice]N sux:ša[cvve]V/t
+c.1.1.4,Enki's journey to Nibru,,66,sux:alŋar[instrument]Nsux:alŋar[instrument]N sux:kug[pure]V/isux:alŋar[instrument]N sux:kug[pure]V/i sux:Enki[1]DNsux:alŋar[instrument]N sux:kug[pure]V/i sux:Enki[1]DN sux:ni[self]RPsux:alŋar[instrument]N sux:kug[pure]V/i sux:Enki[1]DN sux:ni[self]RP sux:du[play]V/t
+c.1.1.4,Enki's journey to Nibru,,67,sux:nar[musician]Nsux:nar[musician]N sux:7[7]NUsux:nar[musician]N sux:7[7]NU sux:ad[voice]Nsux:nar[musician]N sux:7[7]NU sux:ad[voice]N sux:ša[cvve]V/t
+c.1.1.4,Enki's journey to Nibru,,68,sux:dug[speak]V/tsux:dug[speak]V/t sux:Enki[1]DNsux:dug[speak]V/t sux:Enki[1]DN sux:šu[hand]Nsux:dug[speak]V/t sux:Enki[1]DN sux:šu[hand]N sux:bala[turn]V/t
+c.1.1.4,Enki's journey to Nibru,,69,sux:ki[place]Nsux:ki[place]N sux:ŋal[be]V/i
+c.1.1.4,Enki's journey to Nibru,,70,sux:sukkal[secretary]Nsux:sukkal[secretary]N sux:Isimud[1]DNsux:sukkal[secretary]N sux:Isimud[1]DN sux:šeg[brick]Nsux:sukkal[secretary]N sux:Isimud[1]DN sux:šeg[brick]N sux:gu[voice]Nsux:sukkal[secretary]N sux:Isimud[1]DN sux:šeg[brick]N sux:gu[voice]N sux:šum[give]V/t
+c.1.1.4,Enki's journey to Nibru,,71,sux:Eʾengura[1]TNsux:Eʾengura[1]TN sux:šir[song]Nsux:Eʾengura[1]TN sux:šir[song]N sux:dug[good]V/isux:Eʾengura[1]TN sux:šir[song]N sux:dug[good]V/i sux:dug[speak]V/t
+c.1.1.4,Enki's journey to Nibru,,72,sux:du[build]V/tsux:du[build]V/t sux:du[build]V/t
+c.1.1.4,Enki's journey to Nibru,,73,sux:Eridug[1]SNsux:Eridug[1]SN sux:Enki[1]DNsux:Eridug[1]SN sux:Enki[1]DN sux:il[raise]V/t
+c.1.1.4,Enki's journey to Nibru,,74,sux:hursaŋ[mountain]Nsux:hursaŋ[mountain]N sux:galam[skilful]V/isux:hursaŋ[mountain]N sux:galam[skilful]V/i sux:kad[tie]V/tsux:hursaŋ[mountain]N sux:galam[skilful]V/i sux:kad[tie]V/t sux:a[water]Nsux:hursaŋ[mountain]N sux:galam[skilful]V/i sux:kad[tie]V/t sux:a[water]N sux:dirig[float]V/i
+c.1.1.4,Enki's journey to Nibru,,75,sux:zag[side]Nsux:zag[side]N sux:gi[thicket]Nsux:zag[side]N sux:gi[thicket]N sux:KU[KU]V
+c.1.1.4,Enki's journey to Nibru,,76,sux:kiri[orchard]Nsux:kiri[orchard]N sux:sissig[green]V/isux:kiri[orchard]N sux:sissig[green]V/i sux:gurun[fruit]Nsux:kiri[orchard]N sux:sissig[green]V/i sux:gurun[fruit]N sux:il[raise]V/t
+c.1.1.4,Enki's journey to Nibru,,77,sux:mušen[bird]Nsux:mušen[bird]N sux:ŋi[night]Nsux:mušen[bird]N sux:ŋi[night]N sux:haš[thigh]Nsux:mušen[bird]N sux:ŋi[night]N sux:haš[thigh]N sux:ŋar[place]V/t
+c.1.1.4,Enki's journey to Nibru,,78,sux:suhur[carp]Nsux:suhur[carp]N sux:ulal[plant]Nsux:suhur[carp]N sux:ulal[plant]N sux:enedi[game]Nsux:suhur[carp]N sux:ulal[plant]N sux:enedi[game]N sux:dug[speak]V/t
+c.1.1.4,Enki's journey to Nibru,,79,sux:eštub[carp]Nsux:eštub[carp]N sux:gizi[reed]Nsux:eštub[carp]N sux:gizi[reed]N sux:didila[smaller]V/isux:eštub[carp]N sux:gizi[reed]N sux:didila[smaller]V/i sux:kun[tail]Nsux:eštub[carp]N sux:gizi[reed]N sux:didila[smaller]V/i sux:kun[tail]N sux:sud[distant]V/i
+c.1.1.4,Enki's journey to Nibru,,80,sux:Enki[1]DNsux:Enki[1]DN sux:zig[rise]V/tsux:Enki[1]DN sux:zig[rise]V/t sux:kud[fish]Nsux:Enki[1]DN sux:zig[rise]V/t sux:kud[fish]N sux:izi[wave]Nsux:Enki[1]DN sux:zig[rise]V/t sux:kud[fish]N sux:izi[wave]N sux:zig[rise]V/t
+c.1.1.4,Enki's journey to Nibru,,81,sux:abzu[water]Nsux:abzu[water]N sux:u[admiration]Nsux:abzu[water]N sux:u[admiration]N sux:gub[stand]V/i
+c.1.1.4,Enki's journey to Nibru,,82,sux:engur[waters]Nsux:engur[waters]N sux:hul[rejoice]V/isux:engur[waters]N sux:hul[rejoice]V/i sux:de[bring]V/t
+c.1.1.4,Enki's journey to Nibru,,83,sux:aʾabak[sea]Nsux:aʾabak[sea]N sux:ni[fear]Nsux:aʾabak[sea]N sux:ni[fear]N sux:ŋal[be]V/i
+c.1.1.4,Enki's journey to Nibru,,84,sux:id[river]Nsux:id[river]N sux:mah[great]V/isux:id[river]N sux:mah[great]V/i sux:su[flesh]Nsux:id[river]N sux:mah[great]V/i sux:su[flesh]N sux:zig[rise]V/tsux:id[river]N sux:mah[great]V/i sux:su[flesh]N sux:zig[rise]V/t sux:ri[impose]V/t
+c.1.1.4,Enki's journey to Nibru,,85,sux:Buranun[1]WNsux:Buranun[1]WN sux:ulu[wind]Nsux:Buranun[1]WN sux:ulu[wind]N sux:sumur[angry]V/isux:Buranun[1]WN sux:ulu[wind]N sux:sumur[angry]V/i sux:zig[rise]V/t
+c.1.1.4,Enki's journey to Nibru,,86,sux:gimuš[pole]Nsux:gimuš[pole]N sux:Nirah[1]DN
+c.1.1.4,Enki's journey to Nibru,,87,sux:ŋisal[rudder]Nsux:ŋisal[rudder]N sux:gi[reed]Nsux:ŋisal[rudder]N sux:gi[reed]N sux:tur[small]V/i
+c.1.1.4,Enki's journey to Nibru,,88,sux:Enki[1]DNsux:Enki[1]DN sux:u[ride]V/tsux:Enki[1]DN sux:u[ride]V/t sux:mu[year]Nsux:Enki[1]DN sux:u[ride]V/t sux:mu[year]N sux:heŋal[plenty]Nsux:Enki[1]DN sux:u[ride]V/t sux:mu[year]N sux:heŋal[plenty]N sux:si[fill]V/t
+c.1.1.4,Enki's journey to Nibru,,89,sux:ma[ship]Nsux:ma[ship]N sux:ni[self]RPsux:ma[ship]N sux:ni[self]RP sux:du[spread]V/tsux:ma[ship]N sux:ni[self]RP sux:du[spread]V/t sux:eš[rope]Nsux:ma[ship]N sux:ni[self]RP sux:du[spread]V/t sux:eš[rope]N sux:ni[self]RPsux:ma[ship]N sux:ni[self]RP sux:du[spread]V/t sux:eš[rope]N sux:ni[self]RP sux:dab[seize]V/t
+c.1.1.4,Enki's journey to Nibru,,90,sux:e[house]Nsux:e[house]N sux:Eridug[1]SNsux:e[house]N sux:Eridug[1]SN sux:kar[flee]V/t
+c.1.1.4,Enki's journey to Nibru,,91,sux:id[river]Nsux:id[river]N sux:lugal[king]Nsux:id[river]N sux:lugal[king]N sux:ad[voice]Nsux:id[river]N sux:lugal[king]N sux:ad[voice]N sux:gi[turn]V/i
+c.1.1.4,Enki's journey to Nibru,,92,sux:gu[voice]Nsux:gu[voice]N sux:gu[voice]Nsux:gu[voice]N sux:gu[voice]N sux:amar[young]Nsux:gu[voice]N sux:gu[voice]N sux:amar[young]N sux:gu[voice]Nsux:gu[voice]N sux:gu[voice]N sux:amar[young]N sux:gu[voice]N sux:ab[cow]Nsux:gu[voice]N sux:gu[voice]N sux:amar[young]N sux:gu[voice]N sux:ab[cow]N sux:dug[good]V/i
+c.1.1.4,Enki's journey to Nibru,,93,sux:Enki[1]DNsux:Enki[1]DN sux:gud[ox]Nsux:Enki[1]DN sux:gud[ox]N sux:gaz[kill]V/tsux:Enki[1]DN sux:gud[ox]N sux:gaz[kill]V/t sux:udu[sheep]Nsux:Enki[1]DN sux:gud[ox]N sux:gaz[kill]V/t sux:udu[sheep]N sux:šar[slaughter]V/t
+c.1.1.4,Enki's journey to Nibru,,94,sux:ala[drum]Nsux:ala[drum]N sux:ŋal[be]V/isux:ala[drum]N sux:ŋal[be]V/i sux:ki[place]Nsux:ala[drum]N sux:ŋal[be]V/i sux:ki[place]N sux:sa[equal]V/tsux:ala[drum]N sux:ŋal[be]V/i sux:ki[place]N sux:sa[equal]V/t sux:dug[speak]V/t
+c.1.1.4,Enki's journey to Nibru,,95,sux:ub[drum]Nsux:ub[drum]N sux:zabar[bronze]Nsux:ub[drum]N sux:zabar[bronze]N sux:ŋal[be]V/isux:ub[drum]N sux:zabar[bronze]N sux:ŋal[be]V/i sux:ki[place]Nsux:ub[drum]N sux:zabar[bronze]N sux:ŋal[be]V/i sux:ki[place]N sux:e[leave]V/i
+c.1.1.4,Enki's journey to Nibru,,96,sux:Nibru[1]SNsux:Nibru[1]SN sux:ŋiri[foot]Nsux:Nibru[1]SN sux:ŋiri[foot]N sux:dili[single]V/isux:Nibru[1]SN sux:ŋiri[foot]N sux:dili[single]V/i sux:gub[stand]V/i
+c.1.1.4,Enki's journey to Nibru,,97,sux:giguna[terrace]Nsux:giguna[terrace]N sux:eš[shrine]Nsux:giguna[terrace]N sux:eš[shrine]N sux:Nibru[1]SNsux:giguna[terrace]N sux:eš[shrine]N sux:Nibru[1]SN sux:kur[enter]V/i
+c.1.1.4,Enki's journey to Nibru,,98,sux:Enki[1]DNsux:Enki[1]DN sux:kaš[beer]Nsux:Enki[1]DN sux:kaš[beer]N sux:teŋ[approach]V/isux:Enki[1]DN sux:kaš[beer]N sux:teŋ[approach]V/i sux:kurun[beer]Nsux:Enki[1]DN sux:kaš[beer]N sux:teŋ[approach]V/i sux:kurun[beer]N sux:teŋ[approach]V/i
+c.1.1.4,Enki's journey to Nibru,,99,sux:kurun[beer]Nsux:kurun[beer]N sux:gal[big]V/isux:kurun[beer]N sux:gal[big]V/i sux:zabar[bronze]Nsux:kurun[beer]N sux:gal[big]V/i sux:zabar[bronze]N sux:de[pour]V/t
+c.1.1.4,Enki's journey to Nibru,,100,sux:ulušin[beer]Nsux:ulušin[beer]N sux:dili[single]V/isux:ulušin[beer]N sux:dili[single]V/i sux:sur[press]V/t
+c.1.1.4,Enki's journey to Nibru,,101,sux:kurkudu[container]Nsux:kurkudu[container]N sux:kaš[beer]Nsux:kurkudu[container]N sux:kaš[beer]N sux:dug[good]V/isux:kurkudu[container]N sux:kaš[beer]N sux:dug[good]V/i sux:duh[bran]Nsux:kurkudu[container]N sux:kaš[beer]N sux:dug[good]V/i sux:duh[bran]N sux:sa[equal]V/t
+c.1.1.4,Enki's journey to Nibru,,102,sux:kag[mouth]Nsux:kag[mouth]N sux:lal[syrup]Nsux:kag[mouth]N sux:lal[syrup]N sux:zulum[date]Nsux:kag[mouth]N sux:lal[syrup]N sux:zulum[date]N sux:niŋ[thing]Nsux:kag[mouth]N sux:lal[syrup]N sux:zulum[date]N sux:niŋ[thing]N sux:ir[mighty]AJsux:kag[mouth]N sux:lal[syrup]N sux:zulum[date]N sux:niŋ[thing]N sux:ir[mighty]AJ sux:ak[do]V/t
+c.1.1.4,Enki's journey to Nibru,,103,sux:duh[bran]Nsux:duh[bran]N sux:niŋ[thing]Nsux:duh[bran]N sux:niŋ[thing]N sux:lal[syrup]Nsux:duh[bran]N sux:niŋ[thing]N sux:lal[syrup]N sux:dili[single]V/isux:duh[bran]N sux:niŋ[thing]N sux:lal[syrup]N sux:dili[single]V/i sux:sed[cold]V/isux:duh[bran]N sux:niŋ[thing]N sux:lal[syrup]N sux:dili[single]V/i sux:sed[cold]V/i sux:du[spread]V/t
+c.1.1.4,Enki's journey to Nibru,,104,sux:Enki[1]DNsux:Enki[1]DN sux:eš[shrine]Nsux:Enki[1]DN sux:eš[shrine]N sux:Nibru[1]SN
+c.1.1.4,Enki's journey to Nibru,,105,sux:aya[father]Nsux:aya[father]N sux:Enlil[1]DNsux:aya[father]N sux:Enlil[1]DN sux:ninda[bread]Nsux:aya[father]N sux:Enlil[1]DN sux:ninda[bread]N sux:gu[eat]V/t
+c.1.1.4,Enki's journey to Nibru,,106,sux:An[1]DNsux:An[1]DN sux:ki[place]Nsux:An[1]DN sux:ki[place]N sux:mah[great]V/isux:An[1]DN sux:ki[place]N sux:mah[great]V/i sux:tuš[sit]V/i
+c.1.1.4,Enki's journey to Nibru,,107,sux:An[1]DNsux:An[1]DN sux:Enlil[1]DNsux:An[1]DN sux:Enlil[1]DN sux:us[follow]V/t
+c.1.1.4,Enki's journey to Nibru,,108,sux:Nintur[1]DNsux:Nintur[1]DN sux:zag[side]Nsux:Nintur[1]DN sux:zag[side]N sux:gal[big]V/isux:Nintur[1]DN sux:zag[side]N sux:gal[big]V/i sux:tuš[sit]V/i
+c.1.1.4,Enki's journey to Nibru,,109,sux:Anunak[1]DNsux:Anunak[1]DN sux:kiʾus[unmng]Nsux:Anunak[1]DN sux:kiʾus[unmng]N sux:tuš[sit]V/i
+c.1.1.4,Enki's journey to Nibru,,110,sux:lu[person]Nsux:lu[person]N sux:kaš[beer]Nsux:lu[person]N sux:kaš[beer]N sux:naŋ[drink]V/tsux:lu[person]N sux:kaš[beer]N sux:naŋ[drink]V/t sux:kurun[beer]Nsux:lu[person]N sux:kaš[beer]N sux:naŋ[drink]V/t sux:kurun[beer]N sux:dug[good]V/i
+c.1.1.4,Enki's journey to Nibru,,111,sux:aga[vessel]Nsux:aga[vessel]N sux:gur[thick]V/i
+c.1.1.4,Enki's journey to Nibru,,112,sux:zabar[bronze]Nsux:zabar[bronze]N sux:Uraš[1]DNsux:zabar[bronze]N sux:Uraš[1]DN sux:adamin[contest]Nsux:zabar[bronze]N sux:Uraš[1]DN sux:adamin[contest]N sux:dug[speak]V/t
+c.1.1.4,Enki's journey to Nibru,,113,sux:tilimda[vessel]Nsux:tilimda[vessel]N sux:magur[barge]Nsux:tilimda[vessel]N sux:magur[barge]N sux:kug[pure]V/isux:tilimda[vessel]N sux:magur[barge]N sux:kug[pure]V/i sux:babbar[white]V/i
+c.1.1.4,Enki's journey to Nibru,,114,sux:kaš[beer]Nsux:kaš[beer]N sux:dug[speak]V/tsux:kaš[beer]N sux:dug[speak]V/t sux:kurun[beer]Nsux:kaš[beer]N sux:dug[speak]V/t sux:kurun[beer]N sux:dug[good]V/i
+c.1.1.4,Enki's journey to Nibru,,115,sux:e[house]Nsux:e[house]N sux:ŋiri[foot]Nsux:e[house]N sux:ŋiri[foot]N sux:ŋar[place]V/t
+c.1.1.4,Enki's journey to Nibru,,116,sux:Enlil[1]DNsux:Enlil[1]DN sux:Nibru[1]SNsux:Enlil[1]DN sux:Nibru[1]SN sux:hul[rejoice]V/isux:Enlil[1]DN sux:Nibru[1]SN sux:hul[rejoice]V/i sux:de[bring]V/t
+c.1.1.4,Enki's journey to Nibru,,117,sux:Enlil[1]DNsux:Enlil[1]DN sux:Anunak[1]DNsux:Enlil[1]DN sux:Anunak[1]DN sux:gu[voice]Nsux:Enlil[1]DN sux:Anunak[1]DN sux:gu[voice]N sux:de[pour]V/t
+c.1.1.4,Enki's journey to Nibru,,118,sux:diŋir[deity]Nsux:diŋir[deity]N sux:gal[big]V/isux:diŋir[deity]N sux:gal[big]V/i sux:gub[stand]V/i
+c.1.1.4,Enki's journey to Nibru,,119,sux:Anunak[1]DNsux:Anunak[1]DN sux:Ubšuʾunkenak[1]TNsux:Anunak[1]DN sux:Ubšuʾunkenak[1]TN sux:si[horn]Nsux:Anunak[1]DN sux:Ubšuʾunkenak[1]TN sux:si[horn]N sux:sa[equal]V/t
+c.1.1.4,Enki's journey to Nibru,,120,sux:dumu[child]Nsux:dumu[child]N sux:e[house]Nsux:dumu[child]N sux:e[house]N sux:du[build]V/tsux:dumu[child]N sux:e[house]N sux:du[build]V/t sux:lugal[king]Nsux:dumu[child]N sux:e[house]N sux:du[build]V/t sux:lugal[king]N sux:Enki[1]DN
+c.1.1.4,Enki's journey to Nibru,,121,sux:Eridug[1]SNsux:Eridug[1]SN sux:hursaŋ[mountain]Nsux:Eridug[1]SN sux:hursaŋ[mountain]N sux:ki[place]Nsux:Eridug[1]SN sux:hursaŋ[mountain]N sux:ki[place]N sux:ri[impose]V/t
+c.1.1.4,Enki's journey to Nibru,,122,sux:ki[place]Nsux:ki[place]N sux:dug[good]V/isux:ki[place]N sux:dug[good]V/i sux:e[house]Nsux:ki[place]N sux:dug[good]V/i sux:e[house]N sux:du[build]V/t
+c.1.1.4,Enki's journey to Nibru,,123,sux:Eridug[1]SNsux:Eridug[1]SN sux:ki[place]Nsux:Eridug[1]SN sux:ki[place]N sux:sikil[pure]V/isux:Eridug[1]SN sux:ki[place]N sux:sikil[pure]V/i sux:lu[person]Nsux:Eridug[1]SN sux:ki[place]N sux:sikil[pure]V/i sux:lu[person]N sux:kur[enter]V/i
+c.1.1.4,Enki's journey to Nibru,,124,sux:e[house]Nsux:e[house]N sux:kug[metal]Nsux:e[house]N sux:kug[metal]N sux:du[build]V/tsux:e[house]N sux:kug[metal]N sux:du[build]V/t sux:zagin[lapis]Nsux:e[house]N sux:kug[metal]N sux:du[build]V/t sux:zagin[lapis]N sux:gunu[speckled]V/i
+c.1.1.4,Enki's journey to Nibru,,125,sux:e[house]Nsux:e[house]N sux:tigi[instrument]Nsux:e[house]N sux:tigi[instrument]N sux:7[7]NUsux:e[house]N sux:tigi[instrument]N sux:7[7]NU sux:si[horn]Nsux:e[house]N sux:tigi[instrument]N sux:7[7]NU sux:si[horn]N sux:sa[equal]V/tsux:e[house]N sux:tigi[instrument]N sux:7[7]NU sux:si[horn]N sux:sa[equal]V/t sux:namšub[incantation]Nsux:e[house]N sux:tigi[instrument]N sux:7[7]NU sux:si[horn]N sux:sa[equal]V/t sux:namšub[incantation]N sux:šum[give]V/t
+c.1.1.4,Enki's journey to Nibru,,126,sux:šir[song]Nsux:šir[song]N sux:kug[pure]V/isux:šir[song]N sux:kug[pure]V/i sux:teš[unity]Nsux:šir[song]N sux:kug[pure]V/i sux:teš[unity]N sux:e[house]Nsux:šir[song]N sux:kug[pure]V/i sux:teš[unity]N sux:e[house]N sux:ki[place]Nsux:šir[song]N sux:kug[pure]V/i sux:teš[unity]N sux:e[house]N sux:ki[place]N sux:dug[good]V/i
+c.1.1.4,Enki's journey to Nibru,,127,sux:eš[shrine]Nsux:eš[shrine]N sux:Abzu[1]TNsux:eš[shrine]N sux:Abzu[1]TN sux:nam[fate]Nsux:eš[shrine]N sux:Abzu[1]TN sux:nam[fate]N sux:dug[good]V/isux:eš[shrine]N sux:Abzu[1]TN sux:nam[fate]N sux:dug[good]V/i sux:Enki[1]DNsux:eš[shrine]N sux:Abzu[1]TN sux:nam[fate]N sux:dug[good]V/i sux:Enki[1]DN sux:me[Being]Nsux:eš[shrine]N sux:Abzu[1]TN sux:nam[fate]N sux:dug[good]V/i sux:Enki[1]DN sux:me[Being]N sux:galam[skilful]V/isux:eš[shrine]N sux:Abzu[1]TN sux:nam[fate]N sux:dug[good]V/i sux:Enki[1]DN sux:me[Being]N sux:galam[skilful]V/i sux:tum[suitable]V/i
+c.1.1.4,Enki's journey to Nibru,,128,sux:Eridug[1]SNsux:Eridug[1]SN sux:e[house]Nsux:Eridug[1]SN sux:e[house]N sux:kug[metal]Nsux:Eridug[1]SN sux:e[house]N sux:kug[metal]N sux:du[build]V/t
+c.1.1.4,Enki's journey to Nibru,,129,sux:aya[father]Nsux:aya[father]N sux:Enki[1]DNsux:aya[father]N sux:Enki[1]DN sux:zamin[lyre]N

@@ -1,0 +1,17 @@
+id_text,text_name,l_no,text
+riao/Q005644,Sargon I 2001,1,inūmē[when]SBJ
+riao/Q005644,Sargon I 2001,2,Šarru-ukin_I[Sargon-I;-son-of-Ikunum;-vice-regent-of-Aššur]RN
+riao/Q005644,Sargon I 2001,3,iššiakku[city-ruler]N Aššur[1]DN
+riao/Q005644,Sargon I 2001,4,ana[to]PRP Ištar[1]DN
+riao/Q005644,Sargon I 2001,5,Aššuru[Assyrian]EN
+riao/Q005644,Sargon I 2001,6,bēltu[lady]N
+riao/Q005644,Sargon I 2001,7,Haditum[Haditum-or-Hattitum;-wife-of-Belum-nada]PN
+riao/Q005644,Sargon I 2001,8,aššatu[wife]N Belum-nada[husband-of-Haditum]PN
+riao/Q005644,Sargon I 2001,9,karābu[pray]V
+riao/Q005644,Sargon I 2001,10,ana[to]PRP balāṭu[life]N
+riao/Q005644,Sargon I 2001,11,mutu[husband]N
+riao/Q005644,Sargon I 2001,12,balāṭu[life]N
+riao/Q005644,Sargon I 2001,13,u[and]CNJ
+riao/Q005644,Sargon I 2001,14,balāṭu[life]N
+riao/Q005644,Sargon I 2001,15,šerru[(young)-child]N
+riao/Q005644,Sargon I 2001,16,bāštu[dignity]N

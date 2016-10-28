@@ -1,0 +1,31 @@
+id_text,text_name,l_no,text
+riao/Q005719,Aššur-uballiṭ I 1,1,Aššur-uballiṭ_I[vice-regent-of-Aššur;-son-of-Eriba-Adad-I]RN iššiakku[city-ruler]N Aššur[1]DN
+riao/Q005719,Aššur-uballiṭ I 1,2,māru[son]N Eriba-Adad_I[vice-regent-of-Aššur;-son-of-Aššur-bel-nišešu]RN
+riao/Q005719,Aššur-uballiṭ I 1,3,Eriba-Adad_I[vice-regent-of-Aššur;-son-of-Aššur-bel-nišešu]RN iššiakku[city-ruler]N Aššur[1]DN
+riao/Q005719,Aššur-uballiṭ I 1,4,māru[son]N Aššur-bel-nišešu[son-fo-Aššur-narari-II;-vice-regent-of-Aššur]RN
+riao/Q005719,Aššur-uballiṭ I 1,5,Aššur-bel-nišešu[son-fo-Aššur-narari-II;-vice-regent-of-Aššur]RN iššiakku[city-ruler]N Aššur[1]DN
+riao/Q005719,Aššur-uballiṭ I 1,6,māru[son]N Aššur-narari_II[successor-of-Enlil-naṣir-II;-vice-regent-of-the-god-Aššur]RN
+riao/Q005719,Aššur-uballiṭ I 1,7,Aššur-narari_II[successor-of-Enlil-naṣir-II;-vice-regent-of-the-god-Aššur]RN iššiakku[city-ruler]N Aššur[1]DN
+riao/Q005719,Aššur-uballiṭ I 1,8,māru[son]N Aššur-rabi_I[son-of-Enlil-naṣir;-vice-regent-of-Aššur]RN
+riao/Q005719,Aššur-uballiṭ I 1,9,Aššur-rabi_I[son-of-Enlil-naṣir;-vice-regent-of-Aššur]RN iššiakku[city-ruler]N Aššur[1]DN
+riao/Q005719,Aššur-uballiṭ I 1,10,māru[son]N Enlil-naṣir_I[son-of-Puzur-Aššur-III;-vice-regent-of-Aššur]RN
+riao/Q005719,Aššur-uballiṭ I 1,11,Enlil-naṣir_I[son-of-Puzur-Aššur-III;-vice-regent-of-Aššur]RN iššiakku[city-ruler]N Aššur[1]DN
+riao/Q005719,Aššur-uballiṭ I 1,12,māru[son]N Puzur-Aššur_III[son-of-Aššur-narari-I;-vice-regent-of-Aššur]RN iššiakku[city-ruler]N Aššur[1]DN
+riao/Q005719,Aššur-uballiṭ I 1,13,Aššur-uballiṭ_I[vice-regent-of-Aššur;-son-of-Eriba-Adad-I]RN šaknu[appointee]N Enlil[1]DN iššiakku[city-ruler]N Aššur[1]DN
+riao/Q005719,Aššur-uballiṭ I 1,14,ana[to]PRP balāṭu[life]N u[and]CNJ šalāmu[be(come)-healthy]V ālu[city]N
+riao/Q005719,Aššur-uballiṭ I 1,15,ša[of]DET Alu-eššu[New-City;-district-of-Aššur]SN
+riao/Q005719,Aššur-uballiṭ I 1,16,ša[that]REL ina[in]PRP pānu[front]N kīdu[outside]N
+riao/Q005719,Aššur-uballiṭ I 1,17,epšu[made]AJ umā[today]AV
+riao/Q005719,Aššur-uballiṭ I 1,18,ina[in]PRP qablu[hips]N ālu[city]N šakānu[put]V
+riao/Q005719,Aššur-uballiṭ I 1,19,ša[that]REL Puzur-Aššur_III[son-of-Aššur-narari-I;-vice-regent-of-Aššur]RN abu[father]N rubû[ruler]N
+riao/Q005719,Aššur-uballiṭ I 1,20,ina[in]PRP pānu[front]N epēšu[do]V
+riao/Q005719,Aššur-uballiṭ I 1,21,anāhu[be(come)-tired]V ištu[from]PRP uššu[foundation]N
+riao/Q005719,Aššur-uballiṭ I 1,22,adi[until]PRP gabadibbu[parapet]N epēšu[do]V
+riao/Q005719,Aššur-uballiṭ I 1,23,u[and]CNJ sikkatu[peg]N šakānu[put]V
+riao/Q005719,Aššur-uballiṭ I 1,24,rubû[ruler]N warkû[rear]AJ
+riao/Q005719,Aššur-uballiṭ I 1,25,inūma[when]SBJ bītu[house]N šuāti[him]IP
+riao/Q005719,Aššur-uballiṭ I 1,26,anāhu[be(come)-tired]V epēšu[do]V
+riao/Q005719,Aššur-uballiṭ I 1,27,Aššur[1]DN Adad[1]DN u[and]CNJ Bel-šarri[1]DN
+riao/Q005719,Aššur-uballiṭ I 1,28,ikribu[prayer]N šemû[hear]V
+riao/Q005719,Aššur-uballiṭ I 1,29,u[and]CNJ sikkatu[peg]N ana[to]PRP ašru[place]N târu[turn]V
+riao/Q005719,Aššur-uballiṭ I 1,30,Muhur-ilani[1]MN

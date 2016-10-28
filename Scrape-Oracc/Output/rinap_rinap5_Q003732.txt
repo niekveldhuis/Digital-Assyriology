@@ -1,0 +1,8 @@
+id_text,text_name,l_no,text
+rinap/rinap5/Q003732,Ashurbanipal 033,1,anāku[I]IP Aššur-bani-apli[Ashurbanipal;-king-of-Assyria]RN šarru[king]N kiššatu[totality]N šarru[king]N mātu[land]N Aššur[Assyria]GN
+rinap/rinap5/Q003732,Ashurbanipal 033,2,ša[that]REL ina[in]PRP tukultu[trust]N Aššur[1]DN u[and]CNJ Ištar[1]DN bēlu[lord]N nakru[enemy]N
+rinap/rinap5/Q003732,Ashurbanipal 033,3,kašādu[reach]V maṣû[correspond-with]V mala[as-much-as]PRP libbu[interior]N Ursa[Rusa-II;-king-of-Urarṭu]RN
+rinap/rinap5/Q003732,Ashurbanipal 033,4,šarru[king]N Urarṭu[1]GN danānu[power]N Aššur[1]DN bēlu[lord]N šemû[hear]V
+rinap/rinap5/Q003732,Ashurbanipal 033,5,puluhtu[awesomeness]N šarrūtu[kingship]N sahāpu[envelop]V ṣīru[exalted-one]N
+rinap/rinap5/Q003732,Ashurbanipal 033,6,ana[to]PRP šâlu[ask]V šulmu[completeness]N šapāru[send]V ana[to]PRP qerbu[centre]N Arba-il[Arbela]SN
+rinap/rinap5/Q003732,Ashurbanipal 033,7,Nabu-damiq[envoy-of-Teumman]PN Umbadara[envoy-of-Teumman]PN ṣīru[exalted-one]N ša[of]DET Elamtu[Elam]GN

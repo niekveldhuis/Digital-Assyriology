@@ -1,0 +1,6 @@
+id_text,text_name,l_no,text
+rinap/rinap5/Q003748,Ashurbanipal 049,1,anāku[I]IP Aššur-bani-apli[Ashurbanipal;-king-of-Assyria]RN šarru[king]N kiššatu[totality]N šarru[king]N mātu[land]N Aššur[Assyria]GN
+rinap/rinap5/Q003748,Ashurbanipal 049,2,ša[that]REL ina[in]PRP tukultu[trust]N Aššur[1]DN u[and]CNJ Ištar[1]DN nakru[enemy]N kašādu[reach]V
+rinap/rinap5/Q003748,Ashurbanipal 049,3,Bit-Luppi[1]SN
+rinap/rinap5/Q003748,Ashurbanipal 049,4,lawû[surround]V kašādu[reach]V nišu[people]N wāšibu[sitting]AJ libbu[interior]N
+rinap/rinap5/Q003748,Ashurbanipal 049,5,narkabtu[chariot]N ṣumbu[wheel]N sisû[horse]N

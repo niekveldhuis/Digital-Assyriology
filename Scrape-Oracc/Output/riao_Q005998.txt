@@ -1,0 +1,9 @@
+id_text,text_name,l_no,text
+riao/Q005998,Eriba-Adad II 1,o 1,Eriba-Adad_II[king-of-Assyria]RN Aššur[Assyria]GN
+riao/Q005998,Eriba-Adad II 1,o 2,Aššur[1]DN
+riao/Q005998,Eriba-Adad II 1,o 3,Ninurta[1]DN
+riao/Q005998,Eriba-Adad II 1,o 4,Enlil[1]DN
+riao/Q005998,Eriba-Adad II 1,o 12,Ea[1]DN
+riao/Q005998,Eriba-Adad II 1,o 5',Aššur-bel-kala[king-of-Assyria]RN
+riao/Q005998,Eriba-Adad II 1,o 6',Tukulti-apil-Ešarra_I[Tiglath-pileser-I;-king-of-Assyria]RN
+riao/Q005998,Eriba-Adad II 1,r 5'',Ehursagkurkurra[1]TN

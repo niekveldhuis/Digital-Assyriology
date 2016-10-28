@@ -1,0 +1,10 @@
+id_text,text_name,l_no,text
+riao/Q005697,Puzur-Aššur III 2,1,Puzur-Aššur_III[son-of-Aššur-narari-I;-vice-regent-of-Aššur]RN
+riao/Q005697,Puzur-Aššur III 2,2,iššiakku[city-ruler]N Aššur[1]DN
+riao/Q005697,Puzur-Aššur III 2,3,māru[son]N Aššur-narari_I[son-of-Išme-Dagan-II;-vice-regent-of-Aššur]RN
+riao/Q005697,Puzur-Aššur III 2,4,iššiakku[city-ruler]N Aššur[1]DN
+riao/Q005697,Puzur-Aššur III 2,5,bītu[house]N šahūru[cultic-´summit-building´]N ša[of]DET bītu[house]N Ištar[1]DN
+riao/Q005697,Puzur-Aššur III 2,6,Aššuru[Assyrian]EN ša[that]REL Ilu-šuma[vice-regent-of-Aššur]RN
+riao/Q005697,Puzur-Aššur III 2,7,rubû[ruler]N epēšu[do]V
+riao/Q005697,Puzur-Aššur III 2,8,u[and]CNJ Šarru-ukin_I[Sargon-I;-son-of-Ikunum;-vice-regent-of-Aššur]RN abu[father]N
+riao/Q005697,Puzur-Aššur III 2,9,māru[son]N Ikunum[vice-regent-of-Aššur]RN edēšu[be(come)-new]V

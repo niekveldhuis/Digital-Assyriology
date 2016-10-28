@@ -1,0 +1,39 @@
+id_text,text_name,l_no,text
+rinap/rinap3/Q003941,Sennacherib 136,o i 1,Sin-ahhe-eriba[Sennacherib;-king-of-Assyria]RN šarru[king]N rabû[great]AJ
+rinap/rinap3/Q003941,Sennacherib 136,o i 2,šarru[king]N dannu[strong]AJ šarru[king]N kiššatu[totality]N šarru[king]N mātu[land]N Aššur[Assyria]GN
+rinap/rinap3/Q003941,Sennacherib 136,o i 3,šarru[king]N kibru[bank]N erbe[four]NU rēʾû[shepherd]N itpēšu[expert]AJ
+rinap/rinap3/Q003941,Sennacherib 136,o i 4,migru[consent]N ilu[god]N rabû[great]AJ nāṣiru[guard]N kittu[steadiness]N
+rinap/rinap3/Q003941,Sennacherib 136,o i 5,rāʾimu[one-who-loves]N mīšaru[justice]N ēpišu[doer]N ūsu[straight-path]N
+rinap/rinap3/Q003941,Sennacherib 136,o i 6,āliku[goer]N tappûtu[common-cause]N akû[weak-one]N sāhiru[turning]N damqu[good-one]N
+rinap/rinap3/Q003941,Sennacherib 136,o i 7,eṭlu[manly-one]N gitmālu[perfect]AJ zikaru[male]AJ qardu[valiant]AJ
+rinap/rinap3/Q003941,Sennacherib 136,o i 8,ašarēdu[first-and-foremost-one]N kalû[totality]N malku[prince]N rappu[(neck)-stock]N lāʾiṭu[one-who-wraps-itself-around]N
+rinap/rinap3/Q003941,Sennacherib 136,o i 9,lā[not]MOD māgiru[submissive-one]N mušabriqu[one-who-strikes]N zāwiānu[enemy]N
+rinap/rinap3/Q003941,Sennacherib 136,o i 10,Aššur[1]DN šadû[mountain]N rabû[great]AJ šarrūtu[kingship]N lā[not]MOD šanānu[equal]V
+rinap/rinap3/Q003941,Sennacherib 136,o i 11,šutlumu[grant]V eli[on]PRP gimru[totality]N
+rinap/rinap3/Q003941,Sennacherib 136,o i 12,wāšibu[sitting]AJ parakku[dais]N rabû[be(come)-big]V kakku[stick]N
+rinap/rinap3/Q003941,Sennacherib 136,o i 13,ištu[from]PRP tiāmtu[sea]N elēnû[upper]AJ ša[of]DET šalāmu[be(come)-healthy]V šamšu[sun]N
+rinap/rinap3/Q003941,Sennacherib 136,o i 14,adi[until]PRP tiāmtu[sea]N šaplû[lower]AJ ša[of]DET ṣītu[exit]N šamšu[sun]N
+rinap/rinap3/Q003941,Sennacherib 136,o i 15,gimru[totality]N ṣalmu[black]AJ qaqqadu[head]N kanāšu[bow-down]V šēpu[foot]N
+rinap/rinap3/Q003941,Sennacherib 136,o i 16,u[and]CNJ malku[prince]N šapṣu[recalcitrant]AJ adāru[be(come)-afraid]V tāhāzu[battle]N
+rinap/rinap3/Q003941,Sennacherib 136,r i' 2',zaqāru[project]V huršāniš[like-a-mountain]AV
+rinap/rinap3/Q003941,Sennacherib 136,r i' 3',aššu[because-(of)]PRP ina[in]PRP rādu[downpour]N išdu[foundation]N lā[not]MOD enēšu[be(come)-weak]V ana[to]PRP
+rinap/rinap3/Q003941,Sennacherib 136,r i' 4',liwītu[packaging]N dūru[(city)-wall]N ālu[city]N
+rinap/rinap3/Q003941,Sennacherib 136,r i' 5',kisû[footing]N epēšu[do]V
+rinap/rinap3/Q003941,Sennacherib 136,r i' 6',ša[of]DET qablu[hips]N ālu[city]N u[and]CNJ Ninua[Nineveh]SN ālu[city]N bēlūtu[rule]N šubtu[seat]N rabû[be(come)-big]V
+rinap/rinap3/Q003941,Sennacherib 136,r i' 7',rebītu[street]N šadālu[be(come)-wide]V birītu[space-between]N u[and]CNJ
+rinap/rinap3/Q003941,Sennacherib 136,r i' 8',sūqu[street]N napardû[shine-brightly]V nawāru[be(come)-bright]V kīma[like]PRP ūmu[day]N
+rinap/rinap3/Q003941,Sennacherib 136,r i' 9',ina[in]PRP mehretu[opposite-side]N abullu[gate]N qablu[hips]N ālu[city]N ina[in]PRP agurru[baked-brick]N pīlu[limestone]N peṣû[white]AJ
+rinap/rinap3/Q003941,Sennacherib 136,r i' 10',ana[to]PRP mētequ[route]N narkabtu[chariot]N bēlūtu[rule]N epēšu[do]V titūru[causeway]N
+rinap/rinap3/Q003941,Sennacherib 136,r i' 11',mušarû[(royal)-inscription]N banû[create]V lītu[victory]N u[and]CNJ danānu[power]N ša[that]REL
+rinap/rinap3/Q003941,Sennacherib 136,r i' 12',eli[on]PRP kullatu[totality]N nakru[enemy]N šakānu[put]V u[and]CNJ
+rinap/rinap3/Q003941,Sennacherib 136,r i' 13',mimma[anything]XP epištu[deed]N qātu[hand]N šaṭāru[write]V qerbu[centre]N
+rinap/rinap3/Q003941,Sennacherib 136,r i' 14',itti[with]PRP mušarû[(royal)-inscription]N ša[of]DET malku[prince]N āliku[goer]N mahru[front]N abu[father]N
+rinap/rinap3/Q003941,Sennacherib 136,r i' 15',ina[in]PRP dūru[(city)-wall]N qablu[hips]N ālu[city]N ša[of]DET Ninua[Nineveh]SN ālu[city]N bēlūtu[rule]N
+rinap/rinap3/Q003941,Sennacherib 136,r i' 16',ana[to]PRP šarru[king]N māru[son]N ezēbu[leave]V ahrâtaš[for-ever-after]AV
+rinap/rinap3/Q003941,Sennacherib 136,r i' 17',matīma[ever]AV ina[in]PRP māru[son]N warkû[rear]AJ
+rinap/rinap3/Q003941,Sennacherib 136,r i' 18',ša[that]REL Aššur[1]DN ana[to]PRP bēlūtu[rule]N mātu[land]N u[and]CNJ nišu[people]N nabû[name]V zikru[utterance]N
+rinap/rinap3/Q003941,Sennacherib 136,r i' 19',inūma[when]SBJ dūru[(city)-wall]N šuāti[him]IP labāru[be(come)-old]V anāhu[be(come)-tired]V anhūtu[tiredness]N edēšu[be(come)-new]V
+rinap/rinap3/Q003941,Sennacherib 136,r i' 20',mušarû[(royal)-inscription]N šiṭru[(piece-of)-writing]N šumu[name]N amāru[see]V šamnu[oil]N pašāšu[anoint]V
+rinap/rinap3/Q003941,Sennacherib 136,r i' 21',nīqu[offering]N naqû[pour-(a-libation)]V ana[to]PRP ašru[place]N târu[turn]V
+rinap/rinap3/Q003941,Sennacherib 136,r i' 22',Aššur[1]DN u[and]CNJ Ištar[1]DN ikribu[prayer]N šemû[hear]V
+rinap/rinap3/Q003941,Sennacherib 136,r i' 23',ša[that]REL eli[on]PRP mušarû[(royal)-inscription]N ša[of]DET

@@ -1,0 +1,31 @@
+id_text,text_name,l_no,text
+riao/Q005634,Erišum I 14,1,Erišum_I[vice-regent-of-Aššur]RN
+riao/Q005634,Erišum I 14,2,iššiakku[city-ruler]N
+riao/Q005634,Erišum I 14,3,Aššur[1]DN
+riao/Q005634,Erišum I 14,4,māru[son]N Ilu-šuma[vice-regent-of-Aššur]RN
+riao/Q005634,Erišum I 14,5,iššiakku[city-ruler]N
+riao/Q005634,Erišum I 14,6,Aššur[1]DN
+riao/Q005634,Erišum I 14,7,Ilu-šuma[vice-regent-of-Aššur]RN
+riao/Q005634,Erišum I 14,8,māru[son]N Šalim-ahum[vice-regent-of-Aššur]RN
+riao/Q005634,Erišum I 14,9,iššiakku[city-ruler]N
+riao/Q005634,Erišum I 14,10,Aššur[1]DN
+riao/Q005634,Erišum I 14,11,Šalim-ahum[vice-regent-of-Aššur]RN
+riao/Q005634,Erišum I 14,12,māru[son]N Puzur-Aššur_I[vice-regent-of-Aššur;-son-of-Akiya]RN
+riao/Q005634,Erišum I 14,13,iššiakku[city-ruler]N Aššur[1]DN
+riao/Q005634,Erišum I 14,14,Erišum_I[vice-regent-of-Aššur]RN
+riao/Q005634,Erišum I 14,15,iššiakku[city-ruler]N Aššur[1]DN
+riao/Q005634,Erišum I 14,16,Adad[1]DN
+riao/Q005634,Erišum I 14,17,izuzzu[stand]V
+riao/Q005634,Erišum I 14,18,ana[to]PRP Adad[1]DN
+riao/Q005634,Erišum I 14,19,bēlu[lord]N
+riao/Q005634,Erišum I 14,20,ana[to]PRP balāṭu[life]N
+riao/Q005634,Erišum I 14,21,u[and]CNJ balāṭu[life]N
+riao/Q005634,Erišum I 14,22,ālu[city]N
+riao/Q005634,Erišum I 14,23,bītu[house]N u[and]CNJ isāru[annexe]N
+riao/Q005634,Erišum I 14,24,epēšu[do]V
+riao/Q005634,Erišum I 14,25,u[and]CNJ daltu[door]N
+riao/Q005634,Erišum I 14,26,šakānu[put]V
+riao/Q005634,Erišum I 14,27,ša[that]REL ṭuppu[tablet]N
+riao/Q005634,Erišum I 14,28,nasāku[throw-(down)]V
+riao/Q005634,Erišum I 14,29,Aššur[1]DN u[and]CNJ Adad[1]DN
+riao/Q005634,Erišum I 14,30,u[and]CNJ Bel[1]DN ilu[god]N

@@ -1,0 +1,31 @@
+id_text,text_name,l_no,text
+riao/Q005630,Erišum I 10,i 1,Erišum_I[vice-regent-of-Aššur]RN
+riao/Q005630,Erišum I 10,i 2,iššiakku[city-ruler]N
+riao/Q005630,Erišum I 10,i 3,Aššur[1]DN
+riao/Q005630,Erišum I 10,i 4,māru[son]N Ilu-šuma[vice-regent-of-Aššur]RN
+riao/Q005630,Erišum I 10,i 5,iššiakku[city-ruler]N Aššur[1]DN
+riao/Q005630,Erišum I 10,ii 1,ana[to]PRP Aššur[1]DN
+riao/Q005630,Erišum I 10,ii 2,bēlu[lord]N
+riao/Q005630,Erišum I 10,ii 3,karābu[pray]V
+riao/Q005630,Erišum I 10,ii 4,ina[in]PRP mimma[anything]XP
+riao/Q005630,Erišum I 10,ii 5,igāru[wall]N
+riao/Q005630,Erišum I 10,ii 6,himētu[butter]N u[and]CNJ dišpum[honey]N
+riao/Q005630,Erišum I 10,ii 7,šiʾālu[coat]V
+riao/Q005630,Erišum I 10,ii 8,tibku[course-of-bricks]N
+riao/Q005630,Erišum I 10,ii 9,ištēn[one]NU
+riao/Q005630,Erišum I 10,ii 10,tabāku[heap-up]V
+riao/Q005630,Erišum I 10,ii 11,bītu[house]N
+riao/Q005630,Erišum I 10,ii 12,Rimum[Wild-Bull]TN
+riao/Q005630,Erišum I 10,ii 13,šumu[name]N
+riao/Q005630,Erišum I 10,iii 1,matīma[ever]AV
+riao/Q005630,Erišum I 10,iii 2,ša[of]DET bītu[house]N
+riao/Q005630,Erišum I 10,iii 3,epēšu[do]V
+riao/Q005630,Erišum I 10,iii 4,rubû[ruler]N šumu[name]N
+riao/Q005630,Erišum I 10,iii 5,ša[that]REL kīma[like]PRP yâti[me]IP
+riao/Q005630,Erišum I 10,iii 6,šū[he]IP bītu[house]N
+riao/Q005630,Erišum I 10,iii 7,anāhu[be(come)-tired]V
+riao/Q005630,Erišum I 10,iii 8,labāru[be(come)-old]V
+riao/Q005630,Erišum I 10,iii 9,sikkatu[peg]N
+riao/Q005630,Erišum I 10,iii 10,lā[not]MOD riābu[replace]V
+riao/Q005630,Erišum I 10,iii 11,sikkatu[peg]N
+riao/Q005630,Erišum I 10,iii 12,ana[to]PRP ašru[place]N

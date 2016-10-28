@@ -1,0 +1,9 @@
+id_text,text_name,l_no,text
+rinap/rinap3/Q004031,Sennacherib 226,1,Sin-ahhe-eriba[Sennacherib;-king-of-Assyria]RN šarru[king]N kiššatu[totality]N šarru[king]N mātu[land]N Aššur[Assyria]GN ana[to]PRP šiddu[side]N
+rinap/rinap3/Q004031,Sennacherib 226,2,rūqu[distant]AJ mû[water]N Husur[Khosr]WN kilallān[both]IP
+rinap/rinap3/Q004031,Sennacherib 226,3,mû[water]N Pulpulliya[1]WN mû[water]N Hanusa[1]SN
+rinap/rinap3/Q004031,Sennacherib 226,4,mû[water]N Gammagara[1]SN
+rinap/rinap3/Q004031,Sennacherib 226,5,mû[water]N kuppu[cistern]N ša[of]DET mātu[land]N ša[that]REL imna[on-the-right]AV u[and]CNJ šumēla[on-the-left]AV
+rinap/rinap3/Q004031,Sennacherib 226,6,ša[that]REL itû[boundary]N eli[on]PRP redû[accompany]V pattu[canal]N
+rinap/rinap3/Q004031,Sennacherib 226,7,herû[dig]V ana[to]PRP tawwertu[(a-type-of-agricultural-land)]N Ninua[Nineveh]SN eli[on]PRP nahallu[stream]N
+rinap/rinap3/Q004031,Sennacherib 226,8,huddudu[deeply-incised]AJ ša[of]DET pīlu[limestone]N peṣû[white]AJ kabāsu[tread]V

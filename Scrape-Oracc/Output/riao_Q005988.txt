@@ -1,0 +1,72 @@
+id_text,text_name,l_no,text
+riao/Q005988,Aššur-bel-kala 07,i 1,Aššur[1]DN
+riao/Q005988,Aššur-bel-kala 07,i 4,Ea[1]DN
+riao/Q005988,Aššur-bel-kala 07,i 17,Marduk-nadin-ahhe[foreign-ruler]RN Akkad[1]GN
+riao/Q005988,Aššur-bel-kala 07,ii 2,Aššur[Assyria]GN
+riao/Q005988,Aššur-bel-kala 07,ii 8,Kislimu[1]MN
+riao/Q005988,Aššur-bel-kala 07,ii 11,Duʾuzu[1]MN
+riao/Q005988,Aššur-bel-kala 07,ii 12,Mušku[1]GN
+riao/Q005988,Aššur-bel-kala 07,ii 13,Simanu[1]MN Aššur-x[1]PN
+riao/Q005988,Aššur-bel-kala 07,ii 14,Anu[1]DN
+riao/Q005988,Aššur-bel-kala 07,ii 15,Adad[1]DN Libbi-ali[Inner-City;-Ashur]SN
+riao/Q005988,Aššur-bel-kala 07,ii 18,Himme[1]GN
+riao/Q005988,Aššur-bel-kala 07,ii 19,Kislimu[1]MN
+riao/Q005988,Aššur-bel-kala 07,ii 20,Habur[1]WN Harku[1]GN
+riao/Q005988,Aššur-bel-kala 07,ii 21,Gargamiš[Carchemish]SN Hatti[Syria-Palestine]GN
+riao/Q005988,Aššur-bel-kala 07,ii 23,Purattu[Euphrates]WN
+riao/Q005988,Aššur-bel-kala 07,iii 1,Aramu[Arameans]EN Šaṣiru[1]SN
+riao/Q005988,Aššur-bel-kala 07,iii 2,Duʾuzu[1]MN Aramu[Arameans]EN
+riao/Q005988,Aššur-bel-kala 07,iii 3,Ayyaru[1]MN Aššur-rem-nišešu[eponym]PN
+riao/Q005988,Aššur-bel-kala 07,iii 4,Tur-x-tu[1]SN Muṣru[1]GN Šabaṭu[1]MN
+riao/Q005988,Aššur-bel-kala 07,iii 5,Libbi-ali[Inner-City;-Ashur]SN x-indišulu[1]SN
+riao/Q005988,Aššur-bel-kala 07,iii 6,x-sandu[1]SN Dur-Kurigalzu[1]SN
+riao/Q005988,Aššur-bel-kala 07,iii 7,Kadašman-Buriaš[foreign-governor]PN Itti-Marduk-balaṭu[father-of-Kadašman-Buriaš]PN
+riao/Q005988,Aššur-bel-kala 07,iii 8,Ayyaru[1]MN Aramu[Arameans]EN Pauza[1]SN
+riao/Q005988,Aššur-bel-kala 07,iii 9,Kašiyaru[1]GN
+riao/Q005988,Aššur-bel-kala 07,iii 10,Aramu[Arameans]EN Nabula[1]SN
+riao/Q005988,Aššur-bel-kala 07,iii 11,Simanu[1]MN Muṣru[1]GN
+riao/Q005988,Aššur-bel-kala 07,iii 12,Aramu[Arameans]EN Idiqlat[Tigris]WN
+riao/Q005988,Aššur-bel-kala 07,iii 13,Abu[1]MN Aramu[Arameans]EN
+riao/Q005988,Aššur-bel-kala 07,iii 14,Lišur-ṣala-Aššur[foreign-ruler]RN Šinamu[1]SN
+riao/Q005988,Aššur-bel-kala 07,iii 15,Šu-x-ru[1]SN Hanigalbat[1]GN
+riao/Q005988,Aššur-bel-kala 07,iii 16,Hulzu[1]SN Kašiyaru[1]GN Erešu[1]SN Habhu[1]EN
+riao/Q005988,Aššur-bel-kala 07,iii 18,Ululu[1]MN Aramu[Arameans]EN Murarrir[1]SN Šubru[1]GN
+riao/Q005988,Aššur-bel-kala 07,iii 19,Arahsamnu[1]MN Mahiranu[1]GN
+riao/Q005988,Aššur-bel-kala 07,iii 20,Šuppu[1]SN Harran[1]GN Kislimu[1]MN Ili-iddina[eponym]PN
+riao/Q005988,Aššur-bel-kala 07,iii 21,Aramu[Arameans]EN Magrisu[1]SN Iaru[1]GN
+riao/Q005988,Aššur-bel-kala 07,iii 22,Aramu[Arameans]EN Dur-Katlimmu[1]SN
+riao/Q005988,Aššur-bel-kala 07,iii 23,Aramu[Arameans]EN Sangaritu[1]SN
+riao/Q005988,Aššur-bel-kala 07,iii 24,Purattu[Euphrates]WN
+riao/Q005988,Aššur-bel-kala 07,iii 25,Aramu[Arameans]EN
+riao/Q005988,Aššur-bel-kala 07,iii 26,Gulgulu[1]GN
+riao/Q005988,Aššur-bel-kala 07,iii 27,Hanu[1]GN
+riao/Q005988,Aššur-bel-kala 07,iii 28,Arahsamnu[1]MN
+riao/Q005988,Aššur-bel-kala 07,iii 30,Aramu[Arameans]EN
+riao/Q005988,Aššur-bel-kala 07,iv 1,Ninurta[1]DN Nergal[1]DN
+riao/Q005988,Aššur-bel-kala 07,iv 2,Arwada[Arwad]EN
+riao/Q005988,Aššur-bel-kala 07,iv 3,Tamtim-rabitu[Great-Sea]WN
+riao/Q005988,Aššur-bel-kala 07,iv 4,Araziqu[1]SN
+riao/Q005988,Aššur-bel-kala 07,iv 5,Hatti[Syria-Palestine]GN Labnana[1]GN
+riao/Q005988,Aššur-bel-kala 07,iv 9,Aššur[Ashur]SN
+riao/Q005988,Aššur-bel-kala 07,iv 15,Šiltahu[Sirius]CN Ebih[1]GN
+riao/Q005988,Aššur-bel-kala 07,iv 16,Uraše[1]GN Azameru[1]GN Ankurna[1]GN Pizitta[1]GN
+riao/Q005988,Aššur-bel-kala 07,iv 17,Udzagiš[1]GN Kašiyaru[1]GN Aššur[Assyria]GN Hanu[1]GN
+riao/Q005988,Aššur-bel-kala 07,iv 18,Lullumu[1]GN Nairi[1]GN
+riao/Q005988,Aššur-bel-kala 07,iv 29,Tamtim-rabitim[Great-Sea]WN
+riao/Q005988,Aššur-bel-kala 07,iv 30,Tamtim-rabitim[Great-Sea]WN Muṣru[Egypt]GN
+riao/Q005988,Aššur-bel-kala 07,iv 38,Babili[Babylon]SN Akkad[1]GN
+riao/Q005988,Aššur-bel-kala 07,iv 39,Tamtim-elitu[Upper-Sea]WN Amurru[1]GN
+riao/Q005988,Aššur-bel-kala 07,v 4,Eriba-Adad_I[vice-regent-of-Aššur;-son-of-Aššur-bel-nišešu]RN
+riao/Q005988,Aššur-bel-kala 07,v 5,Aššur-nadin-ahhe_II[vice-regent-of-Aššur]RN Aššur[Assyria]GN
+riao/Q005988,Aššur-bel-kala 07,v 7,Aššur[Ashur]SN
+riao/Q005988,Aššur-bel-kala 07,v 8,Abul-tabira[Craftsman´s-Gate]ON Bab-Idiqlat[Tigris-Gate]ON
+riao/Q005988,Aššur-bel-kala 07,v 12,Aššur[Ashur]SN
+riao/Q005988,Aššur-bel-kala 07,v 16,Aššur[Ashur]SN
+riao/Q005988,Aššur-bel-kala 07,v 20,Aššur-dan_I[king-of-Assyria]RN Aššur[Assyria]GN
+riao/Q005988,Aššur-bel-kala 07,v 24,Tamtim-rabitim[Great-Sea]WN Bab-Idiqlat[Tigris-Gate]ON
+riao/Q005988,Aššur-bel-kala 07,v 25,Adad-narari_I[king-of-Assyria]RN Aššur[Assyria]GN
+riao/Q005988,Aššur-bel-kala 07,v 28,Ekallu-eššetu[New-Palace;-palace-in-Aššur]ON
+riao/Q005988,Aššur-bel-kala 07,v 29,Tukulti-Ninurta_I[king-of-Assyria]RN Aššur[Assyria]GN
+riao/Q005988,Aššur-bel-kala 07,v 32,Libbi-ali[Inner-City;-Ashur]SN
+riao/Q005988,Aššur-bel-kala 07,v 33,Saqa[1]SN
+riao/Q005988,Aššur-bel-kala 07,v 34,Apqu[1]SN Aššur-reša-iši_I[king-of-Assyria]RN

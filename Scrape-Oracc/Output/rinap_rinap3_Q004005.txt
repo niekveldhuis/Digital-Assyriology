@@ -1,0 +1,4 @@
+id_text,text_name,l_no,text
+rinap/rinap3/Q004005,Sennacherib 200,1,Sin-ahhe-eriba[Sennacherib;-king-of-Assyria]RN šarru[king]N kiššatu[totality]N šarru[king]N mātu[land]N Aššur[Assyria]GN ēpišu[doer]N ṣalmu[effigy]N Aššur[1]DN
+rinap/rinap3/Q004005,Sennacherib 200,2,u[and]CNJ ilu[god]N rabû[great]AJ mušlālu[staircase(-gate)]N ša[of]DET ēkallu[palace]N Baltil[Aššur]QN
+rinap/rinap3/Q004005,Sennacherib 200,3,ina[in]PRP agurru[baked-brick]N utūnu[kiln]N ellu[pure]AJ eššiš[anew]AV banû[create]V

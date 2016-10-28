@@ -1,0 +1,21 @@
+id_text,text_name,l_no,text
+riao/Q005717,Eriba-Adad I 1,o 1,Eriba-Adad_I[vice-regent-of-Aššur;-son-of-Aššur-bel-nišešu]RN
+riao/Q005717,Eriba-Adad I 1,o 2,iššiakku[city-ruler]N Aššur[1]DN
+riao/Q005717,Eriba-Adad I 1,o 3,māru[son]N Aššur-bel-nišešu[son-fo-Aššur-narari-II;-vice-regent-of-Aššur]RN
+riao/Q005717,Eriba-Adad I 1,o 4,iššiakku[city-ruler]N Aššur[1]DN
+riao/Q005717,Eriba-Adad I 1,o 5,Aššur-bel-nišešu[son-fo-Aššur-narari-II;-vice-regent-of-Aššur]RN
+riao/Q005717,Eriba-Adad I 1,o 6,māru[son]N Aššur-narari_II[successor-of-Enlil-naṣir-II;-vice-regent-of-the-god-Aššur]RN
+riao/Q005717,Eriba-Adad I 1,o 7,iššiakku[city-ruler]N Aššur[1]DN
+riao/Q005717,Eriba-Adad I 1,o 8,Aššur-narari_II[successor-of-Enlil-naṣir-II;-vice-regent-of-the-god-Aššur]RN
+riao/Q005717,Eriba-Adad I 1,o 9,māru[son]N Aššur-rabi_I[son-of-Enlil-naṣir;-vice-regent-of-Aššur]RN
+riao/Q005717,Eriba-Adad I 1,o 10,iššiakku[city-ruler]N Aššur[1]DN
+riao/Q005717,Eriba-Adad I 1,r 1',u[and]CNJ sikkatu[peg]N
+riao/Q005717,Eriba-Adad I 1,r 2',šakānu[put]V rubû[ruler]N
+riao/Q005717,Eriba-Adad I 1,r 3',warkû[rear]AJ inūma[when]SBJ
+riao/Q005717,Eriba-Adad I 1,r 4',anāhu[be(come)-tired]V
+riao/Q005717,Eriba-Adad I 1,r 5',epēšu[do]V Aššur[1]DN
+riao/Q005717,Eriba-Adad I 1,r 6',u[and]CNJ Adad[1]DN
+riao/Q005717,Eriba-Adad I 1,r 7',ikribu[prayer]N
+riao/Q005717,Eriba-Adad I 1,r 8',šemû[hear]V
+riao/Q005717,Eriba-Adad I 1,r 9',u[and]CNJ
+riao/Q005717,Eriba-Adad I 1,r 10',sikkatu[peg]N

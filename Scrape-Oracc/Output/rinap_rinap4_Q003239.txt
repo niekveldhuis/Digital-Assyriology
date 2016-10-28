@@ -1,0 +1,13 @@
+id_text,text_name,l_no,text
+rinap/rinap4/Q003239,Esarhaddon 010,1,Aššur-ahu-iddina[Esarhaddon;-king-of-Assyria]RN šarru[king]N kiššatu[totality]N šarru[king]N mātu[land]N Aššur[Assyria]GN šakkanakku[(military)-governor]N Babili[Babylon]SN šarru[king]N mātu[land]N Šumeru[Sumer]GN u[and]CNJ Akkad[1]GN
+rinap/rinap4/Q003239,Esarhaddon 010,2,ša[that]REL palāhu[be(come)-afraid]V ilu[god]N u[and]CNJ ištaru[goddess]N rabîš[magnificently]AV mūdû[knowing]AJ
+rinap/rinap4/Q003239,Esarhaddon 010,3,bānû[creator]N bītu[house]N Aššur[1]DN ēpišu[doer]N Esagil[1]TN Babili[Babylon]SN
+rinap/rinap4/Q003239,Esarhaddon 010,4,māru[son]N Sin-ahhe-eriba[Sennacherib;-king-of-Assyria]RN šarru[king]N kiššatu[totality]N šarru[king]N mātu[land]N Aššur[Assyria]GN māru[son]N Šarru-ukin[Sargon-II;-king-of-Assyria]RN šarru[king]N kiššatu[totality]N šarru[king]N mātu[land]N Aššur[Assyria]GN
+rinap/rinap4/Q003239,Esarhaddon 010,5,šakkanakku[(military)-governor]N Babili[Babylon]SN šarru[king]N mātu[land]N Šumeru[Sumer]GN u[and]CNJ Akkad[1]GN
+rinap/rinap4/Q003239,Esarhaddon 010,6,ištu[from]PRP ūmu[day]N pānu[front]N ina[in]PRP kisallu[forecourt]N Emašmaš[1]TN
+rinap/rinap4/Q003239,Esarhaddon 010,7,ṣehru[small]AJ šubtu[seat]N u[and]CNJ bītu[house]N Šamaš[1]DN
+rinap/rinap4/Q003239,Esarhaddon 010,2',rubû[ruler]N warkû[rear]AJ
+rinap/rinap4/Q003239,Esarhaddon 010,3',ana[to]PRP rēʾûtu[shepherdship]N mātu[land]N u[and]CNJ nišu[people]N nabû[name]V zikru[utterance]N inūma[when]SBJ ešertu[chapel]N šâtina[those]IP labāru[be(come)-old]V
+rinap/rinap4/Q003239,Esarhaddon 010,4',anāhu[be(come)-tired]V mušarû[(royal)-inscription]N šiṭru[(piece-of)-writing]N šumu[name]N amāru[see]V šamnu[oil]N pašāšu[anoint]V nīqu[offering]N naqû[pour-(a-libation)]V
+rinap/rinap4/Q003239,Esarhaddon 010,5',šumu[name]N itti[with]PRP šumu[name]N šaṭāru[write]V ana[to]PRP ašru[place]N târu[turn]V
+rinap/rinap4/Q003239,Esarhaddon 010,6',Sin[1]DN u[and]CNJ Šamaš[1]DN warhišamma[monthly]AV lā[not]MOD naparkû[ceasing]AJ qabû[say]V dumqu[goodness]N

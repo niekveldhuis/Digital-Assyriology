@@ -1,0 +1,8 @@
+id_text,text_name,l_no,text
+rinap/rinap3/Q004034,Sennacherib 229,1,Sin-ahhe-eriba[Sennacherib;-king-of-Assyria]RN šarru[king]N kiššatu[totality]N šarru[king]N mātu[land]N Aššur[Assyria]GN
+rinap/rinap3/Q004034,Sennacherib 229,2,nāru[river]N ša[that]REL ištu[from]PRP Hani[1]GN šadû[mountain]N
+rinap/rinap3/Q004034,Sennacherib 229,3,ša[that]REL rēšu[head]N Arba-il[Arbela]SN mû[water]N kuppu[cistern]N
+rinap/rinap3/Q004034,Sennacherib 229,4,ša[that]REL imna[on-the-right]AV u[and]CNJ šumēla[on-the-left]AV ša[of]DET itû[boundary]N nāru[river]N šâtina[those]IP
+rinap/rinap3/Q004034,Sennacherib 229,5,herû[dig]V eli[on]PRP redû[accompany]V
+rinap/rinap3/Q004034,Sennacherib 229,6,nāru[river]N herû[dig]V ana[to]PRP qabaltu[middle]N Arba-il[Arbela]SN
+rinap/rinap3/Q004034,Sennacherib 229,7,šubtu[seat]N Ištar[1]DN bēltu[lady]N ṣīru[exalted]AJ
