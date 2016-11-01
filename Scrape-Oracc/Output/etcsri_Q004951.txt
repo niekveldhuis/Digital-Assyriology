@@ -1,0 +1,10 @@
+id_text,text_name,version,l_no,text
+etcsri/Q004951,Šu-Suen 2170add,,i 1,sux:Šusuen[1]RN
+etcsri/Q004951,Šu-Suen 2170add,,i 2,sux:lugal[king]N sux:kalag[strong]V/i
+etcsri/Q004951,Šu-Suen 2170add,,i 3,sux:lugal[king]N sux:Urim[1]SN
+etcsri/Q004951,Šu-Suen 2170add,,i 4,sux:lugal[king]N sux:anubda[quarter]N sux:limmu[four]NU
+etcsri/Q004951,Šu-Suen 2170add,,ii 1,sux:Simatištaran[1]PN
+etcsri/Q004951,Šu-Suen 2170add,,ii 2,sux:nin[sister]N sux:ki[place]N sux:aŋ[measure]V/t
+etcsri/Q004951,Šu-Suen 2170add,,ii 3,sux:Adadtillati[1]PN
+etcsri/Q004951,Šu-Suen 2170add,,ii 4,sux:dumu[child]N sux:Abiya[2]PN
+etcsri/Q004951,Šu-Suen 2170add,,ii 5,sux:arad[slave]N

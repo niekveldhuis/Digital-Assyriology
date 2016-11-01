@@ -1,0 +1,6 @@
+id_text,text_name,version,l_no,text
+etcsri/Q001786,Šulgi 2058,,1',sux:Šulgir[1]RN
+etcsri/Q001786,Šulgi 2058,,2',sux:nita[male]N sux:kalag[strong]V/i
+etcsri/Q001786,Šulgi 2058,,3',sux:lugal[king]N sux:Urim[1]SN
+etcsri/Q001786,Šulgi 2058,,4',sux:lugal[king]N sux:Kiengir[1]GN sux:Akkad[1]GN
+etcsri/Q001786,Šulgi 2058,,5',sux:alan[statue]N sux:lu[person]N

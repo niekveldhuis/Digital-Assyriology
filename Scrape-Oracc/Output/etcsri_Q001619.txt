@@ -1,0 +1,5 @@
+id_text,text_name,version,l_no,text
+etcsri/Q001619,Ur-Namma 03,,1,sux:Urnammak[1]RN
+etcsri/Q001619,Ur-Namma 03,,2,sux:lugal[king]N sux:Urim[1]SN
+etcsri/Q001619,Ur-Namma 03,,3,sux:lu[person]N sux:e[house]N
+etcsri/Q001619,Ur-Namma 03,,4,sux:Nanna[1]DN

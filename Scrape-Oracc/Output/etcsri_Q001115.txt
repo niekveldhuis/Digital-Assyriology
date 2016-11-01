@@ -1,0 +1,16 @@
+id_text,text_name,version,l_no,text
+etcsri/Q001115,En-metena 05a,,i 1,sux:Inanak[1]DN
+etcsri/Q001115,En-metena 05a,,i 2,sux:Lugalemuš[1]DN
+etcsri/Q001115,En-metena 05a,,i 3,sux:Enmetenak[1]RN
+etcsri/Q001115,En-metena 05a,,i 4,sux:ensik[ruler]N
+etcsri/Q001115,En-metena 05a,,ii 1,sux:Lagaš[1]SN
+etcsri/Q001115,En-metena 05a,,ii 2,sux:dumu[child]N sux:Enanatum[1]RN
+etcsri/Q001115,En-metena 05a,,ii 3,sux:ensik[ruler]N
+etcsri/Q001115,En-metena 05a,,ii 4,sux:Lagaš[1]SN
+etcsri/Q001115,En-metena 05a,,iii 1,sux:Emuš[1]TN sux:e[house]N sux:ki[place]N sux:aŋ[measure]V/t
+etcsri/Q001115,En-metena 05a,,iii 2,sux:du[build]V/t
+etcsri/Q001115,En-metena 05a,,iii 3,sux:Enmetenak[1]RN
+etcsri/Q001115,En-metena 05a,,iii 4,sux:mu[name]N sux:pad[find]V/t
+etcsri/Q001115,En-metena 05a,,iv 1,sux:Inanak[1]DN
+etcsri/Q001115,En-metena 05a,,iv 2,sux:lu[person]N sux:Emuš[1]TN sux:du[build]V/t
+etcsri/Q001115,En-metena 05a,,iv 3,sux:diŋir[deity]N

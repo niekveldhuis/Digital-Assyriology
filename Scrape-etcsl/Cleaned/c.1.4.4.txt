@@ -1,10 +1,10 @@
 id_text,text_name,version,l_no,text
-c.1.4.4,Inana and Bilulu: an ulila to Inana,,1,sux:eden[back]Nsux:eden[back]N sux:Dumuzid[1]DNsux:eden[back]N sux:Dumuzid[1]DN sux:ilu[song]Nsux:eden[back]N sux:Dumuzid[1]DN sux:ilu[song]N sux:zaʾe[you]IPsux:eden[back]N sux:Dumuzid[1]DN sux:ilu[song]N sux:zaʾe[you]IP sux:ilu[song]Nsux:eden[back]N sux:Dumuzid[1]DN sux:ilu[song]N sux:zaʾe[you]IP sux:ilu[song]N sux:zaʾe[you]IPsux:eden[back]N sux:Dumuzid[1]DN sux:ilu[song]N sux:zaʾe[you]IP sux:ilu[song]N sux:zaʾe[you]IP sux:ilu[song]Nsux:eden[back]N sux:Dumuzid[1]DN sux:ilu[song]N sux:zaʾe[you]IP sux:ilu[song]N sux:zaʾe[you]IP sux:ilu[song]N sux:balaŋ[instrument]Nsux:eden[back]N sux:Dumuzid[1]DN sux:ilu[song]N sux:zaʾe[you]IP sux:ilu[song]N sux:zaʾe[you]IP sux:ilu[song]N sux:balaŋ[instrument]N sux:sa[equal]V/t
-c.1.4.4,Inana and Bilulu: an ulila to Inana,,2,sux:e[house]Nsux:e[house]N sux:Arali[1]GNsux:e[house]N sux:Arali[1]GN sux:sa[equal]V/t
-c.1.4.4,Inana and Bilulu: an ulila to Inana,,3,sux:Badtibira[1]SNsux:Badtibira[1]SN sux:sa[equal]V/t
-c.1.4.4,Inana and Bilulu: an ulila to Inana,,4,sux:Dušuba[1]GNsux:Dušuba[1]GN sux:sa[equal]V/t
-c.1.4.4,Inana and Bilulu: an ulila to Inana,,5,sux:ki[place]Nsux:ki[place]N sux:namsipad[shepherdship]Nsux:ki[place]N sux:namsipad[shepherdship]N sux:sa[equal]V/tsux:ki[place]N sux:namsipad[shepherdship]N sux:sa[equal]V/t sux:amaš[sheepfold]Nsux:ki[place]N sux:namsipad[shepherdship]N sux:sa[equal]V/t sux:amaš[sheepfold]N sux:Dumuzid[1]DNsux:ki[place]N sux:namsipad[shepherdship]N sux:sa[equal]V/t sux:amaš[sheepfold]N sux:Dumuzid[1]DN
-c.1.4.4,Inana and Bilulu: an ulila to Inana,,6,sux:sipad[shepherd]Nsux:sipad[shepherd]N sux:lu[person]Nsux:sipad[shepherd]N sux:lu[person]N
+c.1.4.4,Inana and Bilulu: an ulila to Inana,,1,sux:eden[back]N sux:Dumuzid[1]DN sux:ilu[song]N sux:zaʾe[you]IP sux:ilu[song]N sux:zaʾe[you]IP sux:ilu[song]N sux:balaŋ[instrument]N sux:sa[equal]V/t
+c.1.4.4,Inana and Bilulu: an ulila to Inana,,2,sux:e[house]N sux:Arali[1]GN sux:sa[equal]V/t
+c.1.4.4,Inana and Bilulu: an ulila to Inana,,3,sux:Badtibira[1]SN sux:sa[equal]V/t
+c.1.4.4,Inana and Bilulu: an ulila to Inana,,4,sux:Dušuba[1]GN sux:sa[equal]V/t
+c.1.4.4,Inana and Bilulu: an ulila to Inana,,5,sux:ki[place]N sux:namsipad[shepherdship]N sux:sa[equal]V/t sux:amaš[sheepfold]N sux:Dumuzid[1]DN
+c.1.4.4,Inana and Bilulu: an ulila to Inana,,6,sux:sipad[shepherd]N sux:lu[person]N
 c.1.4.4,Inana and Bilulu: an ulila to Inana,,8,sux:Dumuzid[1]DN
 c.1.4.4,Inana and Bilulu: an ulila to Inana,,12,
 c.1.4.4,Inana and Bilulu: an ulila to Inana,,13,
@@ -12,127 +12,127 @@ c.1.4.4,Inana and Bilulu: an ulila to Inana,,14,sux:kirizal[joy]N
 c.1.4.4,Inana and Bilulu: an ulila to Inana,,15,sux:ŋar[place]V/t
 c.1.4.4,Inana and Bilulu: an ulila to Inana,,16,
 c.1.4.4,Inana and Bilulu: an ulila to Inana,,17,
-c.1.4.4,Inana and Bilulu: an ulila to Inana,,23,sux:ba[allot]V/tsux:ba[allot]V/t sux:isiš[tears]Nsux:ba[allot]V/t sux:isiš[tears]Nsux:ba[allot]V/t sux:isiš[tears]Nsux:ba[allot]V/t sux:isiš[tears]N
+c.1.4.4,Inana and Bilulu: an ulila to Inana,,23,sux:ba[allot]V/t sux:isiš[tears]N
 c.1.4.4,Inana and Bilulu: an ulila to Inana,,24,
-c.1.4.4,Inana and Bilulu: an ulila to Inana,,25,sux:kirizal[joy]Nsux:kirizal[joy]N
-c.1.4.4,Inana and Bilulu: an ulila to Inana,,26,sux:ad[voice]Nsux:ad[voice]Nsux:ad[voice]N sux:gi[turn]V/i
-c.1.4.4,Inana and Bilulu: an ulila to Inana,,27,sux:Dumuzid[1]DNsux:Dumuzid[1]DN sux:kag[mouth]Nsux:Dumuzid[1]DN sux:kag[mouth]N sux:kug[pure]V/isux:Dumuzid[1]DN sux:kag[mouth]N sux:kug[pure]V/i sux:igi[eye]Nsux:Dumuzid[1]DN sux:kag[mouth]N sux:kug[pure]V/i sux:igi[eye]N sux:sag[good]V/isux:Dumuzid[1]DN sux:kag[mouth]N sux:kug[pure]V/i sux:igi[eye]N sux:sag[good]V/i sux:isiš[tears]Nsux:Dumuzid[1]DN sux:kag[mouth]N sux:kug[pure]V/i sux:igi[eye]N sux:sag[good]V/i sux:isiš[tears]N sux:kušu[tired]V/i
-c.1.4.4,Inana and Bilulu: an ulila to Inana,,28,sux:kag[mouth]Nsux:kag[mouth]N sux:kug[pure]V/isux:kag[mouth]N sux:kug[pure]V/i sux:igi[eye]Nsux:kag[mouth]N sux:kug[pure]V/i sux:igi[eye]N sux:sag[good]V/isux:kag[mouth]N sux:kug[pure]V/i sux:igi[eye]N sux:sag[good]V/i sux:isiš[tears]Nsux:kag[mouth]N sux:kug[pure]V/i sux:igi[eye]N sux:sag[good]V/i sux:isiš[tears]N sux:kušu[tired]V/i
-c.1.4.4,Inana and Bilulu: an ulila to Inana,,29,sux:ŋuruš[male]Nsux:ŋuruš[male]N sux:ŋidlam[spouse]Nsux:ŋuruš[male]N sux:ŋidlam[spouse]N sux-x-emesal:umun[lord]Nsux:ŋuruš[male]N sux:ŋidlam[spouse]N sux-x-emesal:umun[lord]N sux:zulum[date]N
-c.1.4.4,Inana and Bilulu: an ulila to Inana,,30,sux:Dumuzid[1]DNsux:Dumuzid[1]DN sux:kušu[tired]V/isux:Dumuzid[1]DN sux:kušu[tired]V/i sux:isiš[tears]Nsux:Dumuzid[1]DN sux:kušu[tired]V/i sux:isiš[tears]N sux:kušu[tired]V/i
-c.1.4.4,Inana and Bilulu: an ulila to Inana,,31,sux:kug[pure]V/isux:kug[pure]V/i sux:Inanak[1]DNsux:kug[pure]V/i sux:Inanak[1]DN
-c.1.4.4,Inana and Bilulu: an ulila to Inana,,32,sux:nam[fate]Nsux:nam[fate]Nsux:nam[fate]Nsux:nam[fate]Nsux:nam[fate]Nsux:nam[fate]Nsux:nam[fate]N
-c.1.4.4,Inana and Bilulu: an ulila to Inana,,33,sux:innin[lady]Nsux:innin[lady]N sux:lu[person]Nsux:innin[lady]N sux:lu[person]N sux:ŋar[place]V/tsux:innin[lady]N sux:lu[person]N sux:ŋar[place]V/tsux:innin[lady]N sux:lu[person]N sux:ŋar[place]V/t sux:ŋar[place]V/tsux:innin[lady]N sux:lu[person]N sux:ŋar[place]V/t sux:ŋar[place]V/t
-c.1.4.4,Inana and Bilulu: an ulila to Inana,,34,sux:kisikil[woman]Nsux:kisikil[woman]N sux:Inanak[1]DNsux:kisikil[woman]N sux:Inanak[1]DN sux:lu[person]Nsux:kisikil[woman]N sux:Inanak[1]DN sux:lu[person]N sux:ŋar[place]V/tsux:kisikil[woman]N sux:Inanak[1]DN sux:lu[person]N sux:ŋar[place]V/t
-c.1.4.4,Inana and Bilulu: an ulila to Inana,,35,sux:emi[household]Nsux:emi[household]N sux:ama[mother]Nsux:emi[household]N sux:ama[mother]N sux:ugu[bear]V/tsux:emi[household]N sux:ama[mother]N sux:ugu[bear]V/t sux:DU[DU]V
-c.1.4.4,Inana and Bilulu: an ulila to Inana,,36,sux:e[interjection]Jsux:e[interjection]J sux:arazu[supplication]Nsux:e[interjection]J sux:arazu[supplication]N sux:sun[humble]V/isux:e[interjection]J sux:arazu[supplication]N sux:sun[humble]V/i sux:gub[stand]V/i
-c.1.4.4,Inana and Bilulu: an ulila to Inana,,37,sux:aya[cry]Nsux:aya[cry]Nsux:aya[cry]N sux:ama[mother]Nsux:aya[cry]N sux:ama[mother]N sux:dib[pass]V/tsux:aya[cry]N sux:ama[mother]N sux:dib[pass]V/t sux:amaš[sheepfold]Nsux:aya[cry]N sux:ama[mother]N sux:dib[pass]V/t sux:amaš[sheepfold]N sux:ŋen[go]V/i
-c.1.4.4,Inana and Bilulu: an ulila to Inana,,38,sux:ama[mother]Nsux:ama[mother]N sux-x-emesal:Ningal[1]DNsux:ama[mother]N sux-x-emesal:Ningal[1]DN sux:dib[pass]V/tsux:ama[mother]N sux-x-emesal:Ningal[1]DN sux:dib[pass]V/t sux:amaš[sheepfold]Nsux:ama[mother]N sux-x-emesal:Ningal[1]DN sux:dib[pass]V/t sux:amaš[sheepfold]N sux:ŋen[go]V/i
-c.1.4.4,Inana and Bilulu: an ulila to Inana,,39,sux:aya[father]Nsux:aya[father]N sux:bur[glow]V/tsux:aya[father]N sux:bur[glow]V/t sux:sun[haughty]V/isux:aya[father]N sux:bur[glow]V/t sux:sun[haughty]V/i sux:dib[pass]V/t
-c.1.4.4,Inana and Bilulu: an ulila to Inana,,40,sux:Suen[1]DNsux:Suen[1]DN sux:bur[glow]V/tsux:Suen[1]DN sux:bur[glow]V/t sux:sun[haughty]V/isux:Suen[1]DN sux:bur[glow]V/t sux:sun[haughty]V/i sux:dib[pass]V/t
-c.1.4.4,Inana and Bilulu: an ulila to Inana,,41,sux:dumu[child]Nsux:dumu[child]N sux:ama[mother]Nsux:dumu[child]N sux:ama[mother]N sux:ugu[bear]V/tsux:dumu[child]N sux:ama[mother]N sux:ugu[bear]V/t sux:kiŋgia[messenger]Nsux:dumu[child]N sux:ama[mother]N sux:ugu[bear]V/t sux:kiŋgia[messenger]N sux:emi[household]Nsux:dumu[child]N sux:ama[mother]N sux:ugu[bear]V/t sux:kiŋgia[messenger]N sux:emi[household]N sux:e[leave]V/i
-c.1.4.4,Inana and Bilulu: an ulila to Inana,,42,sux:ama[mother]Nsux:ama[mother]N sux-x-emesal:Ningal[1]DNsux:ama[mother]N sux-x-emesal:Ningal[1]DN sux:kiŋgia[messenger]Nsux:ama[mother]N sux-x-emesal:Ningal[1]DN sux:kiŋgia[messenger]N sux:emi[household]Nsux:ama[mother]N sux-x-emesal:Ningal[1]DN sux:kiŋgia[messenger]N sux:emi[household]N sux:e[leave]V/i
-c.1.4.4,Inana and Bilulu: an ulila to Inana,,43,sux:nin[lady]Nsux:nin[lady]N sux:gal[big]V/isux:nin[lady]N sux:gal[big]V/i sux:zu[know]V/tsux:nin[lady]N sux:gal[big]V/i sux:zu[know]V/t sux:gal[big]V/isux:nin[lady]N sux:gal[big]V/i sux:zu[know]V/t sux:gal[big]V/i sux:tum[suitable]V/i
-c.1.4.4,Inana and Bilulu: an ulila to Inana,,44,sux:kug[pure]V/isux:kug[pure]V/i sux:Inanak[1]DNsux:kug[pure]V/i sux:Inanak[1]DN sux:gal[big]V/isux:kug[pure]V/i sux:Inanak[1]DN sux:gal[big]V/i sux:zu[know]V/tsux:kug[pure]V/i sux:Inanak[1]DN sux:gal[big]V/i sux:zu[know]V/t sux:gal[big]V/isux:kug[pure]V/i sux:Inanak[1]DN sux:gal[big]V/i sux:zu[know]V/t sux:gal[big]V/i sux:tum[suitable]V/i
-c.1.4.4,Inana and Bilulu: an ulila to Inana,,45,sux:kaš[beer]Nsux:kaš[beer]N sux:ud[sun]Nsux:kaš[beer]N sux:ud[sun]N sux:re[that]DPsux:kaš[beer]N sux:ud[sun]N sux:re[that]DP sux:ud[sun]Nsux:kaš[beer]N sux:ud[sun]N sux:re[that]DP sux:ud[sun]N sux:sud[distant]V/isux:kaš[beer]N sux:ud[sun]N sux:re[that]DP sux:ud[sun]N sux:sud[distant]V/i sux:tuš[sit]V/i
-c.1.4.4,Inana and Bilulu: an ulila to Inana,,65,sux:amaš[sheepfold]Nsux:amaš[sheepfold]N
-c.1.4.4,Inana and Bilulu: an ulila to Inana,,67,sux:e[house]Nsux:e[house]N sux:umma[old-woman]Nsux:e[house]N sux:umma[old-woman]N sux:Bilulu[1]DNsux:e[house]N sux:umma[old-woman]N sux:Bilulu[1]DN
-c.1.4.4,Inana and Bilulu: an ulila to Inana,,68,sux:ki[place]Nsux:ki[place]N sux:sipad[shepherd]Nsux:ki[place]N sux:sipad[shepherd]N sux:saŋ[head]Nsux:ki[place]N sux:sipad[shepherd]N sux:saŋ[head]N sux:rah[beat]V/tsux:ki[place]N sux:sipad[shepherd]N sux:saŋ[head]N sux:rah[beat]V/t
-c.1.4.4,Inana and Bilulu: an ulila to Inana,,69,sux:Dumuzid[1]DNsux:Dumuzid[1]DN sux:saŋ[head]Nsux:Dumuzid[1]DN sux:saŋ[head]N sux:rah[beat]V/t
-c.1.4.4,Inana and Bilulu: an ulila to Inana,,70,sux:Amaušumgalanak[1]DNsux:Amaušumgalanak[1]DN sux:saŋ[head]Nsux:Amaušumgalanak[1]DN sux:saŋ[head]N sux:rah[beat]V/t
-c.1.4.4,Inana and Bilulu: an ulila to Inana,,71,sux:udu[sheep]Nsux:udu[sheep]N sux:lugal[king]Nsux:udu[sheep]N sux:lugal[king]N sux:Dumuzid[1]DNsux:udu[sheep]N sux:lugal[king]N sux:Dumuzid[1]DN sux:eden[back]Nsux:udu[sheep]N sux:lugal[king]N sux:Dumuzid[1]DN sux:eden[back]N
-c.1.4.4,Inana and Bilulu: an ulila to Inana,,72,sux:Inanak[1]DNsux:Inanak[1]DN sux:sipad[shepherd]Nsux:Inanak[1]DN sux:sipad[shepherd]N sux:me[be]V/i
-c.1.4.4,Inana and Bilulu: an ulila to Inana,,73,sux:udu[sheep]Nsux:udu[sheep]N sux:lugal[king]Nsux:udu[sheep]N sux:lugal[king]N sux:zag[side]Nsux:udu[sheep]N sux:lugal[king]N sux:zag[side]N sux:gi[turn]V/i
-c.1.4.4,Inana and Bilulu: an ulila to Inana,,74,sux:nin[lady]Nsux:nin[lady]N sux:ŋidlam[spouse]Nsux:nin[lady]N sux:ŋidlam[spouse]N sux:šir[song]Nsux:nin[lady]N sux:ŋidlam[spouse]N sux:šir[song]N sux:utud[bear]V/tsux:nin[lady]N sux:ŋidlam[spouse]N sux:šir[song]N sux:utud[bear]V/t sux:šir[song]Nsux:nin[lady]N sux:ŋidlam[spouse]N sux:šir[song]N sux:utud[bear]V/t sux:šir[song]N sux:dim[create]V/t
-c.1.4.4,Inana and Bilulu: an ulila to Inana,,75,sux:kug[pure]V/isux:kug[pure]V/i sux:Inanak[1]DNsux:kug[pure]V/i sux:Inanak[1]DN sux:Dumuzid[1]DNsux:kug[pure]V/i sux:Inanak[1]DN sux:Dumuzid[1]DN sux:šir[song]Nsux:kug[pure]V/i sux:Inanak[1]DN sux:Dumuzid[1]DN sux:šir[song]N sux:utud[bear]V/tsux:kug[pure]V/i sux:Inanak[1]DN sux:Dumuzid[1]DN sux:šir[song]N sux:utud[bear]V/t sux:šir[song]Nsux:kug[pure]V/i sux:Inanak[1]DN sux:Dumuzid[1]DN sux:šir[song]N sux:utud[bear]V/t sux:šir[song]N sux:dim[create]V/t
-c.1.4.4,Inana and Bilulu: an ulila to Inana,,76,sux-x-emesal:mulu[person]Nsux-x-emesal:mulu[person]N sux:nud[lie]V/isux-x-emesal:mulu[person]N sux:nud[lie]V/i sux-x-emesal:subad[shepherd]Nsux-x-emesal:mulu[person]N sux:nud[lie]V/i sux-x-emesal:subad[shepherd]N sux-x-emesal:mulu[person]Nsux-x-emesal:mulu[person]N sux:nud[lie]V/i sux-x-emesal:subad[shepherd]N sux-x-emesal:mulu[person]N sux:nud[lie]V/isux-x-emesal:mulu[person]N sux:nud[lie]V/i sux-x-emesal:subad[shepherd]N sux-x-emesal:mulu[person]N sux:nud[lie]V/i sux:ennuŋ[imprisonment]Nsux-x-emesal:mulu[person]N sux:nud[lie]V/i sux-x-emesal:subad[shepherd]N sux-x-emesal:mulu[person]N sux:nud[lie]V/i sux:ennuŋ[imprisonment]N sux:gub[stand]V/i
-c.1.4.4,Inana and Bilulu: an ulila to Inana,,77,sux:Dumuzid[1]DNsux:Dumuzid[1]DN sux-x-emesal:mulu[person]Nsux:Dumuzid[1]DN sux-x-emesal:mulu[person]N sux:nud[lie]V/isux:Dumuzid[1]DN sux-x-emesal:mulu[person]N sux:nud[lie]V/i sux:ennuŋ[imprisonment]Nsux:Dumuzid[1]DN sux-x-emesal:mulu[person]N sux:nud[lie]V/i sux:ennuŋ[imprisonment]N sux:gub[stand]V/i
-c.1.4.4,Inana and Bilulu: an ulila to Inana,,78,sux:Amaušumgalanak[1]DNsux:Amaušumgalanak[1]DN sux-x-emesal:mulu[person]Nsux:Amaušumgalanak[1]DN sux-x-emesal:mulu[person]N sux:nud[lie]V/isux:Amaušumgalanak[1]DN sux-x-emesal:mulu[person]N sux:nud[lie]V/i sux:ennuŋ[imprisonment]Nsux:Amaušumgalanak[1]DN sux-x-emesal:mulu[person]N sux:nud[lie]V/i sux:ennuŋ[imprisonment]N sux:gub[stand]V/i
-c.1.4.4,Inana and Bilulu: an ulila to Inana,,79,sux:Utu[1]DNsux:Utu[1]DN sux:gub[stand]V/isux:Utu[1]DN sux:gub[stand]V/isux:Utu[1]DN sux:gub[stand]V/i sux:ennuŋ[imprisonment]Nsux:Utu[1]DN sux:gub[stand]V/i sux:ennuŋ[imprisonment]N sux:gub[stand]V/i
-c.1.4.4,Inana and Bilulu: an ulila to Inana,,80,sux:ŋi[night]Nsux:ŋi[night]N sux:nud[lie]V/isux:ŋi[night]N sux:nud[lie]V/isux:ŋi[night]N sux:nud[lie]V/i sux:ennuŋ[imprisonment]Nsux:ŋi[night]N sux:nud[lie]V/i sux:ennuŋ[imprisonment]N sux:gub[stand]V/i
-c.1.4.4,Inana and Bilulu: an ulila to Inana,,81,sux:ud[sun]Nsux:ud[sun]N sux:umma[old-woman]Nsux:ud[sun]N sux:umma[old-woman]N sux:Bilulu[1]DN
-c.1.4.4,Inana and Bilulu: an ulila to Inana,,82,sux:buršuma[dowager]Nsux:buršuma[dowager]N sux:nin[lady]Nsux:buršuma[dowager]N sux:nin[lady]N sux:ni[self]RP
-c.1.4.4,Inana and Bilulu: an ulila to Inana,,83,sux:dumu[child]Nsux:dumu[child]N sux:Ŋirŋire[1]PNsux:dumu[child]N sux:Ŋirŋire[1]PN sux:lu[person]Nsux:dumu[child]N sux:Ŋirŋire[1]PN sux:lu[person]N sux:dili[single]V/i
-c.1.4.4,Inana and Bilulu: an ulila to Inana,,84,sux:ul[hasten]V/isux:ul[hasten]V/i sux:tum[suitable]V/isux:ul[hasten]V/i sux:tum[suitable]V/i sux:lu[person]Nsux:ul[hasten]V/i sux:tum[suitable]V/i sux:lu[person]N sux:zu[know]V/t
-c.1.4.4,Inana and Bilulu: an ulila to Inana,,85,sux:gud[ox]Nsux:gud[ox]N sux:dab[seize]V/tsux:gud[ox]N sux:dab[seize]V/t sux:tur[stall]Nsux:gud[ox]N sux:dab[seize]V/t sux:tur[stall]N sux:amaš[sheepfold]Nsux:gud[ox]N sux:dab[seize]V/t sux:tur[stall]N sux:amaš[sheepfold]N sux:si[fill]V/t
-c.1.4.4,Inana and Bilulu: an ulila to Inana,,86,sux:gurudud[heap]Nsux:gurudud[heap]N sux:gu[neck]Nsux:gurudud[heap]N sux:gu[neck]N sux:gur[turn]V/i
-c.1.4.4,Inana and Bilulu: an ulila to Inana,,87,sux:ul[hasten]V/isux:ul[hasten]V/i sux:šita[weapon]Nsux:ul[hasten]V/i sux:šita[weapon]N sux:tag[touch]V/tsux:ul[hasten]V/i sux:šita[weapon]N sux:tag[touch]V/t sux:sag[scatter]V/tsux:ul[hasten]V/i sux:šita[weapon]N sux:tag[touch]V/t sux:sag[scatter]V/t sux:dug[speak]V/t
-c.1.4.4,Inana and Bilulu: an ulila to Inana,,88,sux:dumu[child]Nsux:dumu[child]N sux:me[be]V/isux:dumu[child]N sux:me[be]V/i sux:guli[friend]Nsux:dumu[child]N sux:me[be]V/i sux:guli[friend]N sux:me[be]V/isux:dumu[child]N sux:me[be]V/i sux:guli[friend]N sux:me[be]V/i sux:Širru[1]PNsux:dumu[child]N sux:me[be]V/i sux:guli[friend]N sux:me[be]V/i sux:Širru[1]PN sux:edenlil[desert]N
-c.1.4.4,Inana and Bilulu: an ulila to Inana,,89,sux:igi[eye]Nsux:igi[eye]N sux:tuš[sit]V/isux:igi[eye]N sux:tuš[sit]V/i sux:inim[word]Nsux:igi[eye]N sux:tuš[sit]V/i sux:inim[word]N sux:dug[speak]V/t
-c.1.4.4,Inana and Bilulu: an ulila to Inana,,90,sux:ud[sun]Nsux:ud[sun]N sux:nin[lady]Nsux:ud[sun]N sux:nin[lady]N sux:šag[heart]Nsux:ud[sun]N sux:nin[lady]N sux:šag[heart]N sux:ana[what?]QPsux:ud[sun]N sux:nin[lady]N sux:šag[heart]N sux:ana[what?]QP sux:de[bring]V/t
-c.1.4.4,Inana and Bilulu: an ulila to Inana,,91,sux:kug[pure]V/isux:kug[pure]V/i sux:Inanak[1]DNsux:kug[pure]V/i sux:Inanak[1]DN sux:šag[heart]Nsux:kug[pure]V/i sux:Inanak[1]DN sux:šag[heart]N sux:ana[what?]QPsux:kug[pure]V/i sux:Inanak[1]DN sux:šag[heart]N sux:ana[what?]QP sux:de[bring]V/t
-c.1.4.4,Inana and Bilulu: an ulila to Inana,,92,sux:umma[old-woman]Nsux:umma[old-woman]N sux:Bilulu[1]DNsux:umma[old-woman]N sux:Bilulu[1]DN sux:uš[die]V/isux:umma[old-woman]N sux:Bilulu[1]DN sux:uš[die]V/i sux:šag[heart]Nsux:umma[old-woman]N sux:Bilulu[1]DN sux:uš[die]V/i sux:šag[heart]N sux:de[bring]V/t
-c.1.4.4,Inana and Bilulu: an ulila to Inana,,93,sux:ŋidlam[spouse]Nsux:ŋidlam[spouse]N sux:ki[place]Nsux:ŋidlam[spouse]N sux:ki[place]N sux:aŋ[measure]V/tsux:ŋidlam[spouse]N sux:ki[place]N sux:aŋ[measure]V/t sux:Dumuzidamaušumgalanak[1]DN
-c.1.4.4,Inana and Bilulu: an ulila to Inana,,94,sux:kinud[bedroom]Nsux:kinud[bedroom]N sux:dug[good]V/isux:kinud[bedroom]N sux:dug[good]V/i sux:šag[heart]Nsux:kinud[bedroom]N sux:dug[good]V/i sux:šag[heart]N sux:de[bring]V/t
-c.1.4.4,Inana and Bilulu: an ulila to Inana,,95,sux:nin[lady]Nsux:nin[lady]N sux:Bilulu[1]DNsux:nin[lady]N sux:Bilulu[1]DN sux:edenlil[desert]Nsux:nin[lady]N sux:Bilulu[1]DN sux:edenlil[desert]N
-c.1.4.4,Inana and Bilulu: an ulila to Inana,,96,sux:dumu[child]Nsux:dumu[child]N sux:Ŋirŋire[1]PNsux:dumu[child]N sux:Ŋirŋire[1]PN sux:lil[ghost]Nsux:dumu[child]N sux:Ŋirŋire[1]PN sux:lil[ghost]N
-c.1.4.4,Inana and Bilulu: an ulila to Inana,,97,sux:dumu[child]Nsux:dumu[child]N sux:me[be]V/isux:dumu[child]N sux:me[be]V/i sux:guli[friend]Nsux:dumu[child]N sux:me[be]V/i sux:guli[friend]N sux:me[be]V/isux:dumu[child]N sux:me[be]V/i sux:guli[friend]N sux:me[be]V/i sux:Širru[1]PNsux:dumu[child]N sux:me[be]V/i sux:guli[friend]N sux:me[be]V/i sux:Širru[1]PN sux:edenlil[desert]Nsux:dumu[child]N sux:me[be]V/i sux:guli[friend]N sux:me[be]V/i sux:Širru[1]PN sux:edenlil[desert]N
-c.1.4.4,Inana and Bilulu: an ulila to Inana,,98,sux:kug[pure]V/isux:kug[pure]V/i sux:Inanak[1]DNsux:kug[pure]V/i sux:Inanak[1]DN sux:ešdam[tavern]Nsux:kug[pure]V/i sux:Inanak[1]DN sux:ešdam[tavern]N sux:kur[enter]V/isux:kug[pure]V/i sux:Inanak[1]DN sux:ešdam[tavern]N sux:kur[enter]V/i
-c.1.4.4,Inana and Bilulu: an ulila to Inana,,99,sux:kituš[dwelling]Nsux:kituš[dwelling]N sux:gub[stand]V/isux:kituš[dwelling]N sux:gub[stand]V/i sux:nam[fate]Nsux:kituš[dwelling]N sux:gub[stand]V/i sux:nam[fate]N sux:tar[cut]V/t
-c.1.4.4,Inana and Bilulu: an ulila to Inana,,100,sux:ŋen[go]V/isux:ŋen[go]V/i sux:uš[die]V/isux:ŋen[go]V/i sux:uš[die]V/i sux:me[be]V/isux:ŋen[go]V/i sux:uš[die]V/i sux:me[be]V/i sux:mu[name]Nsux:ŋen[go]V/i sux:uš[die]V/i sux:me[be]V/i sux:mu[name]N sux:halam[forsake]V/i
-c.1.4.4,Inana and Bilulu: an ulila to Inana,,101,sux:ummud[waterskin]Nsux:ummud[waterskin]N sux:a[water]Nsux:ummud[waterskin]N sux:a[water]N sux:sed[cold]V/isux:ummud[waterskin]N sux:a[water]N sux:sed[cold]V/i sux:niŋ[thing]Nsux:ummud[waterskin]N sux:a[water]N sux:sed[cold]V/i sux:niŋ[thing]N sux:eden[back]Nsux:ummud[waterskin]N sux:a[water]N sux:sed[cold]V/i sux:niŋ[thing]N sux:eden[back]N sux:me[be]V/i
-c.1.4.4,Inana and Bilulu: an ulila to Inana,,102,sux:dumu[child]Nsux:dumu[child]N sux:Ŋirŋire[1]PNsux:dumu[child]N sux:Ŋirŋire[1]PN sux:ane[he]IP
-c.1.4.4,Inana and Bilulu: an ulila to Inana,,103,sux:udug[demon]Nsux:udug[demon]N sux:eden[back]Nsux:udug[demon]N sux:eden[back]N sux:lammar[deity]Nsux:udug[demon]N sux:eden[back]N sux:lammar[deity]N sux:eden[back]Nsux:udug[demon]N sux:eden[back]N sux:lammar[deity]N sux:eden[back]N sux:dug[speak]V/t
-c.1.4.4,Inana and Bilulu: an ulila to Inana,,104,sux:dumu[child]Nsux:dumu[child]N sux:me[be]V/isux:dumu[child]N sux:me[be]V/i sux:guli[friend]Nsux:dumu[child]N sux:me[be]V/i sux:guli[friend]N sux:me[be]V/isux:dumu[child]N sux:me[be]V/i sux:guli[friend]N sux:me[be]V/i sux:Širru[1]PNsux:dumu[child]N sux:me[be]V/i sux:guli[friend]N sux:me[be]V/i sux:Širru[1]PN sux:edenlil[desert]N
-c.1.4.4,Inana and Bilulu: an ulila to Inana,,105,sux:eden[back]Nsux:eden[back]N sux:ŋen[go]V/isux:eden[back]N sux:ŋen[go]V/i sux:zid[flour]Nsux:eden[back]N sux:ŋen[go]V/i sux:zid[flour]N sux:ŠID[ŠID]V
-c.1.4.4,Inana and Bilulu: an ulila to Inana,,106,sux:ŋuruš[male]Nsux:ŋuruš[male]N sux:eden[back]Nsux:ŋuruš[male]N sux:eden[back]N sux:ŋen[go]V/isux:ŋuruš[male]N sux:eden[back]N sux:ŋen[go]V/i sux:a[water]Nsux:ŋuruš[male]N sux:eden[back]N sux:ŋen[go]V/i sux:a[water]N sux:bala[turn]V/tsux:ŋuruš[male]N sux:eden[back]N sux:ŋen[go]V/i sux:a[water]N sux:bala[turn]V/t sux:zid[flour]Nsux:ŋuruš[male]N sux:eden[back]N sux:ŋen[go]V/i sux:a[water]N sux:bala[turn]V/t sux:zid[flour]N sux:dub[heap]V/t
-c.1.4.4,Inana and Bilulu: an ulila to Inana,,107,sux:udug[demon]Nsux:udug[demon]N sux:eden[back]Nsux:udug[demon]N sux:eden[back]N sux:lammar[deity]Nsux:udug[demon]N sux:eden[back]N sux:lammar[deity]N sux:eden[back]N
-c.1.4.4,Inana and Bilulu: an ulila to Inana,,108,sux:sed[cold]V/isux:sed[cold]V/i sux:dug[speak]V/tsux:sed[cold]V/i sux:dug[speak]V/t sux:dub[heap]V/tsux:sed[cold]V/i sux:dug[speak]V/t sux:dub[heap]V/t sux:dug[speak]V/t
-c.1.4.4,Inana and Bilulu: an ulila to Inana,,109,sux:ki[place]Nsux:ki[place]N sux:zah[disappear]V/isux:ki[place]N sux:zah[disappear]V/i sux:eden[back]Nsux:ki[place]N sux:zah[disappear]V/i sux:eden[back]N sux:ŋal[be]V/i
-c.1.4.4,Inana and Bilulu: an ulila to Inana,,110,sux:umma[old-woman]Nsux:umma[old-woman]N sux:Bilulu[1]DNsux:umma[old-woman]N sux:Bilulu[1]DN sux:šag[heart]Nsux:umma[old-woman]N sux:Bilulu[1]DN sux:šag[heart]N sux:hul[rejoice]V/i
-c.1.4.4,Inana and Bilulu: an ulila to Inana,,111,sux:ineš[now]MAsux:ineš[now]MA sux:Utu[1]DNsux:ineš[now]MA sux:Utu[1]DN sux:ud[sun]Nsux:ineš[now]MA sux:Utu[1]DN sux:ud[sun]N sux:nen[this]DPsux:ineš[now]MA sux:Utu[1]DN sux:ud[sun]N sux:nen[this]DP sux:ur[he]IPsux:ineš[now]MA sux:Utu[1]DN sux:ud[sun]N sux:nen[this]DP sux:ur[he]IP sux:me[be]V/i
-c.1.4.4,Inana and Bilulu: an ulila to Inana,,112,sux:ummud[waterskin]Nsux:ummud[waterskin]N sux:a[water]Nsux:ummud[waterskin]N sux:a[water]N sux:sed[cold]V/isux:ummud[waterskin]N sux:a[water]N sux:sed[cold]V/i sux:niŋ[thing]Nsux:ummud[waterskin]N sux:a[water]N sux:sed[cold]V/i sux:niŋ[thing]N sux:eden[back]Nsux:ummud[waterskin]N sux:a[water]N sux:sed[cold]V/i sux:niŋ[thing]N sux:eden[back]N sux:dug[speak]V/t
-c.1.4.4,Inana and Bilulu: an ulila to Inana,,113,sux:dumu[child]Nsux:dumu[child]N sux:Ŋirŋire[1]PNsux:dumu[child]N sux:Ŋirŋire[1]PN sux:ane[he]IP
-c.1.4.4,Inana and Bilulu: an ulila to Inana,,114,sux:udug[demon]Nsux:udug[demon]N sux:eden[back]Nsux:udug[demon]N sux:eden[back]N sux:lammar[deity]Nsux:udug[demon]N sux:eden[back]N sux:lammar[deity]N sux:eden[back]Nsux:udug[demon]N sux:eden[back]N sux:lammar[deity]N sux:eden[back]N sux:dug[speak]V/t
-c.1.4.4,Inana and Bilulu: an ulila to Inana,,115,sux:dumu[child]Nsux:dumu[child]N sux:me[be]V/isux:dumu[child]N sux:me[be]V/i sux:guli[friend]Nsux:dumu[child]N sux:me[be]V/i sux:guli[friend]N sux:me[be]V/isux:dumu[child]N sux:me[be]V/i sux:guli[friend]N sux:me[be]V/i sux:Širru[1]PNsux:dumu[child]N sux:me[be]V/i sux:guli[friend]N sux:me[be]V/i sux:Širru[1]PN sux:edenlil[desert]N
-c.1.4.4,Inana and Bilulu: an ulila to Inana,,116,sux:eden[back]Nsux:eden[back]N sux:ŋen[go]V/isux:eden[back]N sux:ŋen[go]V/i sux:zid[flour]Nsux:eden[back]N sux:ŋen[go]V/i sux:zid[flour]N sux:ŠID[ŠID]V
-c.1.4.4,Inana and Bilulu: an ulila to Inana,,117,sux:ŋuruš[male]Nsux:ŋuruš[male]N sux:eden[back]Nsux:ŋuruš[male]N sux:eden[back]N sux:ŋen[go]V/isux:ŋuruš[male]N sux:eden[back]N sux:ŋen[go]V/i sux:a[water]Nsux:ŋuruš[male]N sux:eden[back]N sux:ŋen[go]V/i sux:a[water]N sux:bala[turn]V/tsux:ŋuruš[male]N sux:eden[back]N sux:ŋen[go]V/i sux:a[water]N sux:bala[turn]V/t sux:zid[flour]Nsux:ŋuruš[male]N sux:eden[back]N sux:ŋen[go]V/i sux:a[water]N sux:bala[turn]V/t sux:zid[flour]N sux:dub[heap]V/t
-c.1.4.4,Inana and Bilulu: an ulila to Inana,,118,sux:udug[demon]Nsux:udug[demon]N sux:eden[back]Nsux:udug[demon]N sux:eden[back]N sux:lammar[deity]Nsux:udug[demon]N sux:eden[back]N sux:lammar[deity]N sux:eden[back]N
-c.1.4.4,Inana and Bilulu: an ulila to Inana,,119,sux:sed[cold]V/isux:sed[cold]V/i sux:dug[speak]V/tsux:sed[cold]V/i sux:dug[speak]V/t sux:dub[heap]V/tsux:sed[cold]V/i sux:dug[speak]V/t sux:dub[heap]V/t sux:dug[speak]V/t
-c.1.4.4,Inana and Bilulu: an ulila to Inana,,120,sux:ki[place]Nsux:ki[place]N sux:zah[disappear]V/isux:ki[place]N sux:zah[disappear]V/i sux:eden[back]Nsux:ki[place]N sux:zah[disappear]V/i sux:eden[back]N sux:ŋal[be]V/isux:ki[place]N sux:zah[disappear]V/i sux:eden[back]N sux:ŋal[be]V/i
-c.1.4.4,Inana and Bilulu: an ulila to Inana,,121,sux:umma[old-woman]Nsux:umma[old-woman]N sux:Bilulu[1]DNsux:umma[old-woman]N sux:Bilulu[1]DN sux:šag[heart]Nsux:umma[old-woman]N sux:Bilulu[1]DN sux:šag[heart]N sux:hul[rejoice]V/i
-c.1.4.4,Inana and Bilulu: an ulila to Inana,,122,sux:Inanak[1]DNsux:Inanak[1]DN sux:ŋuruš[male]Nsux:Inanak[1]DN sux:ŋuruš[male]N sux:ki[place]Nsux:Inanak[1]DN sux:ŋuruš[male]N sux:ki[place]N sux:šu[hand]Nsux:Inanak[1]DN sux:ŋuruš[male]N sux:ki[place]N sux:šu[hand]N
-c.1.4.4,Inana and Bilulu: an ulila to Inana,,123,sux:Dumuzid[1]DNsux:Dumuzid[1]DN sux:ki[place]Nsux:Dumuzid[1]DN sux:ki[place]N sux:šu[hand]Nsux:Dumuzid[1]DN sux:ki[place]N sux:šu[hand]N
-c.1.4.4,Inana and Bilulu: an ulila to Inana,,124,sux:šu[hand]Nsux:šu[hand]N sux:du[build]V/tsux:šu[hand]N sux:du[build]V/t
+c.1.4.4,Inana and Bilulu: an ulila to Inana,,25,sux:kirizal[joy]N
+c.1.4.4,Inana and Bilulu: an ulila to Inana,,26,sux:ad[voice]N sux:gi[turn]V/i
+c.1.4.4,Inana and Bilulu: an ulila to Inana,,27,sux:Dumuzid[1]DN sux:kag[mouth]N sux:kug[pure]V/i sux:igi[eye]N sux:sag[good]V/i sux:isiš[tears]N sux:kušu[tired]V/i
+c.1.4.4,Inana and Bilulu: an ulila to Inana,,28,sux:kag[mouth]N sux:kug[pure]V/i sux:igi[eye]N sux:sag[good]V/i sux:isiš[tears]N sux:kušu[tired]V/i
+c.1.4.4,Inana and Bilulu: an ulila to Inana,,29,sux:ŋuruš[male]N sux:ŋidlam[spouse]N sux-x-emesal:umun[lord]N sux:zulum[date]N
+c.1.4.4,Inana and Bilulu: an ulila to Inana,,30,sux:Dumuzid[1]DN sux:kušu[tired]V/i sux:isiš[tears]N sux:kušu[tired]V/i
+c.1.4.4,Inana and Bilulu: an ulila to Inana,,31,sux:kug[pure]V/i sux:Inanak[1]DN
+c.1.4.4,Inana and Bilulu: an ulila to Inana,,32,sux:nam[fate]N
+c.1.4.4,Inana and Bilulu: an ulila to Inana,,33,sux:innin[lady]N sux:lu[person]N sux:ŋar[place]V/t sux:ŋar[place]V/t
+c.1.4.4,Inana and Bilulu: an ulila to Inana,,34,sux:kisikil[woman]N sux:Inanak[1]DN sux:lu[person]N sux:ŋar[place]V/t
+c.1.4.4,Inana and Bilulu: an ulila to Inana,,35,sux:emi[household]N sux:ama[mother]N sux:ugu[bear]V/t sux:DU[DU]V
+c.1.4.4,Inana and Bilulu: an ulila to Inana,,36,sux:e[interjection]J sux:arazu[supplication]N sux:sun[humble]V/i sux:gub[stand]V/i
+c.1.4.4,Inana and Bilulu: an ulila to Inana,,37,sux:aya[cry]N sux:ama[mother]N sux:dib[pass]V/t sux:amaš[sheepfold]N sux:ŋen[go]V/i
+c.1.4.4,Inana and Bilulu: an ulila to Inana,,38,sux:ama[mother]N sux-x-emesal:Ningal[1]DN sux:dib[pass]V/t sux:amaš[sheepfold]N sux:ŋen[go]V/i
+c.1.4.4,Inana and Bilulu: an ulila to Inana,,39,sux:aya[father]N sux:bur[glow]V/t sux:sun[haughty]V/i sux:dib[pass]V/t
+c.1.4.4,Inana and Bilulu: an ulila to Inana,,40,sux:Suen[1]DN sux:bur[glow]V/t sux:sun[haughty]V/i sux:dib[pass]V/t
+c.1.4.4,Inana and Bilulu: an ulila to Inana,,41,sux:dumu[child]N sux:ama[mother]N sux:ugu[bear]V/t sux:kiŋgia[messenger]N sux:emi[household]N sux:e[leave]V/i
+c.1.4.4,Inana and Bilulu: an ulila to Inana,,42,sux:ama[mother]N sux-x-emesal:Ningal[1]DN sux:kiŋgia[messenger]N sux:emi[household]N sux:e[leave]V/i
+c.1.4.4,Inana and Bilulu: an ulila to Inana,,43,sux:nin[lady]N sux:gal[big]V/i sux:zu[know]V/t sux:gal[big]V/i sux:tum[suitable]V/i
+c.1.4.4,Inana and Bilulu: an ulila to Inana,,44,sux:kug[pure]V/i sux:Inanak[1]DN sux:gal[big]V/i sux:zu[know]V/t sux:gal[big]V/i sux:tum[suitable]V/i
+c.1.4.4,Inana and Bilulu: an ulila to Inana,,45,sux:kaš[beer]N sux:ud[sun]N sux:re[that]DP sux:ud[sun]N sux:sud[distant]V/i sux:tuš[sit]V/i
+c.1.4.4,Inana and Bilulu: an ulila to Inana,,65,sux:amaš[sheepfold]N
+c.1.4.4,Inana and Bilulu: an ulila to Inana,,67,sux:e[house]N sux:umma[old-woman]N sux:Bilulu[1]DN
+c.1.4.4,Inana and Bilulu: an ulila to Inana,,68,sux:ki[place]N sux:sipad[shepherd]N sux:saŋ[head]N sux:rah[beat]V/t
+c.1.4.4,Inana and Bilulu: an ulila to Inana,,69,sux:Dumuzid[1]DN sux:saŋ[head]N sux:rah[beat]V/t
+c.1.4.4,Inana and Bilulu: an ulila to Inana,,70,sux:Amaušumgalanak[1]DN sux:saŋ[head]N sux:rah[beat]V/t
+c.1.4.4,Inana and Bilulu: an ulila to Inana,,71,sux:udu[sheep]N sux:lugal[king]N sux:Dumuzid[1]DN sux:eden[back]N
+c.1.4.4,Inana and Bilulu: an ulila to Inana,,72,sux:Inanak[1]DN sux:sipad[shepherd]N sux:me[be]V/i
+c.1.4.4,Inana and Bilulu: an ulila to Inana,,73,sux:udu[sheep]N sux:lugal[king]N sux:zag[side]N sux:gi[turn]V/i
+c.1.4.4,Inana and Bilulu: an ulila to Inana,,74,sux:nin[lady]N sux:ŋidlam[spouse]N sux:šir[song]N sux:utud[bear]V/t sux:šir[song]N sux:dim[create]V/t
+c.1.4.4,Inana and Bilulu: an ulila to Inana,,75,sux:kug[pure]V/i sux:Inanak[1]DN sux:Dumuzid[1]DN sux:šir[song]N sux:utud[bear]V/t sux:šir[song]N sux:dim[create]V/t
+c.1.4.4,Inana and Bilulu: an ulila to Inana,,76,sux-x-emesal:mulu[person]N sux:nud[lie]V/i sux-x-emesal:subad[shepherd]N sux-x-emesal:mulu[person]N sux:nud[lie]V/i sux:ennuŋ[imprisonment]N sux:gub[stand]V/i
+c.1.4.4,Inana and Bilulu: an ulila to Inana,,77,sux:Dumuzid[1]DN sux-x-emesal:mulu[person]N sux:nud[lie]V/i sux:ennuŋ[imprisonment]N sux:gub[stand]V/i
+c.1.4.4,Inana and Bilulu: an ulila to Inana,,78,sux:Amaušumgalanak[1]DN sux-x-emesal:mulu[person]N sux:nud[lie]V/i sux:ennuŋ[imprisonment]N sux:gub[stand]V/i
+c.1.4.4,Inana and Bilulu: an ulila to Inana,,79,sux:Utu[1]DN sux:gub[stand]V/i sux:ennuŋ[imprisonment]N sux:gub[stand]V/i
+c.1.4.4,Inana and Bilulu: an ulila to Inana,,80,sux:ŋi[night]N sux:nud[lie]V/i sux:ennuŋ[imprisonment]N sux:gub[stand]V/i
+c.1.4.4,Inana and Bilulu: an ulila to Inana,,81,sux:ud[sun]N sux:umma[old-woman]N sux:Bilulu[1]DN
+c.1.4.4,Inana and Bilulu: an ulila to Inana,,82,sux:buršuma[dowager]N sux:nin[lady]N sux:ni[self]RP
+c.1.4.4,Inana and Bilulu: an ulila to Inana,,83,sux:dumu[child]N sux:Ŋirŋire[1]PN sux:lu[person]N sux:dili[single]V/i
+c.1.4.4,Inana and Bilulu: an ulila to Inana,,84,sux:ul[hasten]V/i sux:tum[suitable]V/i sux:lu[person]N sux:zu[know]V/t
+c.1.4.4,Inana and Bilulu: an ulila to Inana,,85,sux:gud[ox]N sux:dab[seize]V/t sux:tur[stall]N sux:amaš[sheepfold]N sux:si[fill]V/t
+c.1.4.4,Inana and Bilulu: an ulila to Inana,,86,sux:gurudud[heap]N sux:gu[neck]N sux:gur[turn]V/i
+c.1.4.4,Inana and Bilulu: an ulila to Inana,,87,sux:ul[hasten]V/i sux:šita[weapon]N sux:tag[touch]V/t sux:sag[scatter]V/t sux:dug[speak]V/t
+c.1.4.4,Inana and Bilulu: an ulila to Inana,,88,sux:dumu[child]N sux:me[be]V/i sux:guli[friend]N sux:me[be]V/i sux:Širru[1]PN sux:edenlil[desert]N
+c.1.4.4,Inana and Bilulu: an ulila to Inana,,89,sux:igi[eye]N sux:tuš[sit]V/i sux:inim[word]N sux:dug[speak]V/t
+c.1.4.4,Inana and Bilulu: an ulila to Inana,,90,sux:ud[sun]N sux:nin[lady]N sux:šag[heart]N sux:ana[what?]QP sux:de[bring]V/t
+c.1.4.4,Inana and Bilulu: an ulila to Inana,,91,sux:kug[pure]V/i sux:Inanak[1]DN sux:šag[heart]N sux:ana[what?]QP sux:de[bring]V/t
+c.1.4.4,Inana and Bilulu: an ulila to Inana,,92,sux:umma[old-woman]N sux:Bilulu[1]DN sux:uš[die]V/i sux:šag[heart]N sux:de[bring]V/t
+c.1.4.4,Inana and Bilulu: an ulila to Inana,,93,sux:ŋidlam[spouse]N sux:ki[place]N sux:aŋ[measure]V/t sux:Dumuzidamaušumgalanak[1]DN
+c.1.4.4,Inana and Bilulu: an ulila to Inana,,94,sux:kinud[bedroom]N sux:dug[good]V/i sux:šag[heart]N sux:de[bring]V/t
+c.1.4.4,Inana and Bilulu: an ulila to Inana,,95,sux:nin[lady]N sux:Bilulu[1]DN sux:edenlil[desert]N
+c.1.4.4,Inana and Bilulu: an ulila to Inana,,96,sux:dumu[child]N sux:Ŋirŋire[1]PN sux:lil[ghost]N
+c.1.4.4,Inana and Bilulu: an ulila to Inana,,97,sux:dumu[child]N sux:me[be]V/i sux:guli[friend]N sux:me[be]V/i sux:Širru[1]PN sux:edenlil[desert]N
+c.1.4.4,Inana and Bilulu: an ulila to Inana,,98,sux:kug[pure]V/i sux:Inanak[1]DN sux:ešdam[tavern]N sux:kur[enter]V/i
+c.1.4.4,Inana and Bilulu: an ulila to Inana,,99,sux:kituš[dwelling]N sux:gub[stand]V/i sux:nam[fate]N sux:tar[cut]V/t
+c.1.4.4,Inana and Bilulu: an ulila to Inana,,100,sux:ŋen[go]V/i sux:uš[die]V/i sux:me[be]V/i sux:mu[name]N sux:halam[forsake]V/i
+c.1.4.4,Inana and Bilulu: an ulila to Inana,,101,sux:ummud[waterskin]N sux:a[water]N sux:sed[cold]V/i sux:niŋ[thing]N sux:eden[back]N sux:me[be]V/i
+c.1.4.4,Inana and Bilulu: an ulila to Inana,,102,sux:dumu[child]N sux:Ŋirŋire[1]PN sux:ane[he]IP
+c.1.4.4,Inana and Bilulu: an ulila to Inana,,103,sux:udug[demon]N sux:eden[back]N sux:lammar[deity]N sux:eden[back]N sux:dug[speak]V/t
+c.1.4.4,Inana and Bilulu: an ulila to Inana,,104,sux:dumu[child]N sux:me[be]V/i sux:guli[friend]N sux:me[be]V/i sux:Širru[1]PN sux:edenlil[desert]N
+c.1.4.4,Inana and Bilulu: an ulila to Inana,,105,sux:eden[back]N sux:ŋen[go]V/i sux:zid[flour]N sux:ŠID[ŠID]V
+c.1.4.4,Inana and Bilulu: an ulila to Inana,,106,sux:ŋuruš[male]N sux:eden[back]N sux:ŋen[go]V/i sux:a[water]N sux:bala[turn]V/t sux:zid[flour]N sux:dub[heap]V/t
+c.1.4.4,Inana and Bilulu: an ulila to Inana,,107,sux:udug[demon]N sux:eden[back]N sux:lammar[deity]N sux:eden[back]N
+c.1.4.4,Inana and Bilulu: an ulila to Inana,,108,sux:sed[cold]V/i sux:dug[speak]V/t sux:dub[heap]V/t sux:dug[speak]V/t
+c.1.4.4,Inana and Bilulu: an ulila to Inana,,109,sux:ki[place]N sux:zah[disappear]V/i sux:eden[back]N sux:ŋal[be]V/i
+c.1.4.4,Inana and Bilulu: an ulila to Inana,,110,sux:umma[old-woman]N sux:Bilulu[1]DN sux:šag[heart]N sux:hul[rejoice]V/i
+c.1.4.4,Inana and Bilulu: an ulila to Inana,,111,sux:ineš[now]MA sux:Utu[1]DN sux:ud[sun]N sux:nen[this]DP sux:ur[he]IP sux:me[be]V/i
+c.1.4.4,Inana and Bilulu: an ulila to Inana,,112,sux:ummud[waterskin]N sux:a[water]N sux:sed[cold]V/i sux:niŋ[thing]N sux:eden[back]N sux:dug[speak]V/t
+c.1.4.4,Inana and Bilulu: an ulila to Inana,,113,sux:dumu[child]N sux:Ŋirŋire[1]PN sux:ane[he]IP
+c.1.4.4,Inana and Bilulu: an ulila to Inana,,114,sux:udug[demon]N sux:eden[back]N sux:lammar[deity]N sux:eden[back]N sux:dug[speak]V/t
+c.1.4.4,Inana and Bilulu: an ulila to Inana,,115,sux:dumu[child]N sux:me[be]V/i sux:guli[friend]N sux:me[be]V/i sux:Širru[1]PN sux:edenlil[desert]N
+c.1.4.4,Inana and Bilulu: an ulila to Inana,,116,sux:eden[back]N sux:ŋen[go]V/i sux:zid[flour]N sux:ŠID[ŠID]V
+c.1.4.4,Inana and Bilulu: an ulila to Inana,,117,sux:ŋuruš[male]N sux:eden[back]N sux:ŋen[go]V/i sux:a[water]N sux:bala[turn]V/t sux:zid[flour]N sux:dub[heap]V/t
+c.1.4.4,Inana and Bilulu: an ulila to Inana,,118,sux:udug[demon]N sux:eden[back]N sux:lammar[deity]N sux:eden[back]N
+c.1.4.4,Inana and Bilulu: an ulila to Inana,,119,sux:sed[cold]V/i sux:dug[speak]V/t sux:dub[heap]V/t sux:dug[speak]V/t
+c.1.4.4,Inana and Bilulu: an ulila to Inana,,120,sux:ki[place]N sux:zah[disappear]V/i sux:eden[back]N sux:ŋal[be]V/i
+c.1.4.4,Inana and Bilulu: an ulila to Inana,,121,sux:umma[old-woman]N sux:Bilulu[1]DN sux:šag[heart]N sux:hul[rejoice]V/i
+c.1.4.4,Inana and Bilulu: an ulila to Inana,,122,sux:Inanak[1]DN sux:ŋuruš[male]N sux:ki[place]N sux:šu[hand]N
+c.1.4.4,Inana and Bilulu: an ulila to Inana,,123,sux:Dumuzid[1]DN sux:ki[place]N sux:šu[hand]N
+c.1.4.4,Inana and Bilulu: an ulila to Inana,,124,sux:šu[hand]N sux:du[build]V/t
 c.1.4.4,Inana and Bilulu: an ulila to Inana,,136,sux:il[raise]V/t
-c.1.4.4,Inana and Bilulu: an ulila to Inana,,137,sux:buruhabrudak[bird]Nsux:buruhabrudak[bird]N sux:nam[fate]Nsux:buruhabrudak[bird]N sux:nam[fate]N sux:il[raise]V/t
-c.1.4.4,Inana and Bilulu: an ulila to Inana,,138,sux:kiʾulutim[locus]Nsux:kiʾulutim[locus]N sux:Dumuzid[1]DNsux:kiʾulutim[locus]N sux:Dumuzid[1]DN sux:buruhabrudak[bird]Nsux:kiʾulutim[locus]N sux:Dumuzid[1]DN sux:buruhabrudak[bird]N
-c.1.4.4,Inana and Bilulu: an ulila to Inana,,139,sux:tum[dove]Nsux:tum[dove]N sux:ablal[nest]Nsux:tum[dove]N sux:ablal[nest]N sux:ni[self]RPsux:tum[dove]N sux:ablal[nest]N sux:ni[self]RP sux:ad[voice]Nsux:tum[dove]N sux:ablal[nest]N sux:ni[self]RP sux:ad[voice]N sux:gi[turn]V/i
-c.1.4.4,Inana and Bilulu: an ulila to Inana,,140,sux:buruhabrudak[bird]Nsux:buruhabrudak[bird]N sux:abbur[nook]Nsux:buruhabrudak[bird]N sux:abbur[nook]N sux:ad[voice]Nsux:buruhabrudak[bird]N sux:abbur[nook]N sux:ad[voice]N sux:gi[turn]V/i
-c.1.4.4,Inana and Bilulu: an ulila to Inana,,141,sux:lugal[king]Nsux:lugal[king]N sux:ama[mother]Nsux:lugal[king]N sux:ama[mother]N sux:Durtur[1]DNsux:lugal[king]N sux:ama[mother]N sux:Durtur[1]DN sux:hul[rejoice]V/i
-c.1.4.4,Inana and Bilulu: an ulila to Inana,,142,sux:Dumuzid[1]DNsux:Dumuzid[1]DN sux:ama[mother]Nsux:Dumuzid[1]DN sux:ama[mother]N sux:Durtur[1]DNsux:Dumuzid[1]DN sux:ama[mother]N sux:Durtur[1]DN sux:hul[rejoice]V/i
-c.1.4.4,Inana and Bilulu: an ulila to Inana,,143,sux:innin[lady]Nsux:innin[lady]N sux:utud[bear]V/tsux:innin[lady]N sux:utud[bear]V/t sux:Kuara[1]SN
-c.1.4.4,Inana and Bilulu: an ulila to Inana,,144,sux:kisikil[woman]Nsux:kisikil[woman]N sux:amar[young]Nsux:kisikil[woman]N sux:amar[young]N sux:sissig[green]V/isux:kisikil[woman]N sux:amar[young]N sux:sissig[green]V/i sux:men[tiara]N
-c.1.4.4,Inana and Bilulu: an ulila to Inana,,145,sux:u[admiration]Nsux:u[admiration]N sux:dug[speak]V/tsux:u[admiration]N sux:dug[speak]V/t sux:niŋmeŋar[jubilation]Nsux:u[admiration]N sux:dug[speak]V/t sux:niŋmeŋar[jubilation]N sux:saŋ[head]Nsux:u[admiration]N sux:dug[speak]V/t sux:niŋmeŋar[jubilation]N sux:saŋ[head]N sux:giggi[black]V/i
-c.1.4.4,Inana and Bilulu: an ulila to Inana,,146,sux:enedi[game]Nsux:enedi[game]N sux:dug[speak]V/tsux:enedi[game]N sux:dug[speak]V/t sux:ilu[song]Nsux:enedi[game]N sux:dug[speak]V/t sux:ilu[song]N sux:akkil[noise]Nsux:enedi[game]N sux:dug[speak]V/t sux:ilu[song]N sux:akkil[noise]N sux:dug[speak]V/t
-c.1.4.4,Inana and Bilulu: an ulila to Inana,,147,sux:namšita[prayer]Nsux:namšita[prayer]N sux:dug[speak]V/tsux:namšita[prayer]N sux:dug[speak]V/t sux:lugal[king]Nsux:namšita[prayer]N sux:dug[speak]V/t sux:lugal[king]N
-c.1.4.4,Inana and Bilulu: an ulila to Inana,,148,sux:Ŋeštinanak[1]DNsux:Ŋeštinanak[1]DN sux:nin[lady]Nsux:Ŋeštinanak[1]DN sux:nin[lady]N
+c.1.4.4,Inana and Bilulu: an ulila to Inana,,137,sux:buruhabrudak[bird]N sux:nam[fate]N sux:il[raise]V/t
+c.1.4.4,Inana and Bilulu: an ulila to Inana,,138,sux:kiʾulutim[locus]N sux:Dumuzid[1]DN sux:buruhabrudak[bird]N
+c.1.4.4,Inana and Bilulu: an ulila to Inana,,139,sux:tum[dove]N sux:ablal[nest]N sux:ni[self]RP sux:ad[voice]N sux:gi[turn]V/i
+c.1.4.4,Inana and Bilulu: an ulila to Inana,,140,sux:buruhabrudak[bird]N sux:abbur[nook]N sux:ad[voice]N sux:gi[turn]V/i
+c.1.4.4,Inana and Bilulu: an ulila to Inana,,141,sux:lugal[king]N sux:ama[mother]N sux:Durtur[1]DN sux:hul[rejoice]V/i
+c.1.4.4,Inana and Bilulu: an ulila to Inana,,142,sux:Dumuzid[1]DN sux:ama[mother]N sux:Durtur[1]DN sux:hul[rejoice]V/i
+c.1.4.4,Inana and Bilulu: an ulila to Inana,,143,sux:innin[lady]N sux:utud[bear]V/t sux:Kuara[1]SN
+c.1.4.4,Inana and Bilulu: an ulila to Inana,,144,sux:kisikil[woman]N sux:amar[young]N sux:sissig[green]V/i sux:men[tiara]N
+c.1.4.4,Inana and Bilulu: an ulila to Inana,,145,sux:u[admiration]N sux:dug[speak]V/t sux:niŋmeŋar[jubilation]N sux:saŋ[head]N sux:giggi[black]V/i
+c.1.4.4,Inana and Bilulu: an ulila to Inana,,146,sux:enedi[game]N sux:dug[speak]V/t sux:ilu[song]N sux:akkil[noise]N sux:dug[speak]V/t
+c.1.4.4,Inana and Bilulu: an ulila to Inana,,147,sux:namšita[prayer]N sux:dug[speak]V/t sux:lugal[king]N
+c.1.4.4,Inana and Bilulu: an ulila to Inana,,148,sux:Ŋeštinanak[1]DN sux:nin[lady]N
 c.1.4.4,Inana and Bilulu: an ulila to Inana,,149,
-c.1.4.4,Inana and Bilulu: an ulila to Inana,,150,sux:kisikil[woman]Nsux:kisikil[woman]N sux:u[admiration]Nsux:kisikil[woman]N sux:u[admiration]N sux:dug[speak]V/tsux:kisikil[woman]N sux:u[admiration]N sux:dug[speak]V/t
-c.1.4.4,Inana and Bilulu: an ulila to Inana,,151,sux:Ŋeštinanak[1]DNsux:Ŋeštinanak[1]DNsux:Ŋeštinanak[1]DN
-c.1.4.4,Inana and Bilulu: an ulila to Inana,,152,sux:nugig[priestess]Nsux:nugig[priestess]N sux:šu[hand]Nsux:nugig[priestess]N sux:šu[hand]Nsux:nugig[priestess]N sux:šu[hand]N sux:šu[hand]Nsux:nugig[priestess]N sux:šu[hand]N sux:šu[hand]N sux:TUR[TUR]V
-c.1.4.4,Inana and Bilulu: an ulila to Inana,,153,sux:teš[unity]Nsux:teš[unity]N sux:ŋar[place]V/t
-c.1.4.4,Inana and Bilulu: an ulila to Inana,,154,sux:kag[mouth]Nsux:kag[mouth]Nsux:kag[mouth]Nsux:kag[mouth]N sux:gi[turn]V/i
-c.1.4.4,Inana and Bilulu: an ulila to Inana,,155,sux:ilu[song]Nsux:ilu[song]N sux:zaʾe[you]IPsux:ilu[song]N sux:zaʾe[you]IP sux:ilu[song]Nsux:ilu[song]N sux:zaʾe[you]IP sux:ilu[song]N sux:zaʾe[you]IPsux:ilu[song]N sux:zaʾe[you]IP sux:ilu[song]N sux:zaʾe[you]IP sux:ilu[song]Nsux:ilu[song]N sux:zaʾe[you]IP sux:ilu[song]N sux:zaʾe[you]IP sux:ilu[song]N sux:dug[speak]V/t
-c.1.4.4,Inana and Bilulu: an ulila to Inana,,156,sux:šeš[brother]Nsux:šeš[brother]N sux:ŋaʾe[I]IPsux:šeš[brother]N sux:ŋaʾe[I]IP sux:ilu[song]Nsux:šeš[brother]N sux:ŋaʾe[I]IP sux:ilu[song]N sux:zaʾe[you]IPsux:šeš[brother]N sux:ŋaʾe[I]IP sux:ilu[song]N sux:zaʾe[you]IP sux:ilu[song]Nsux:šeš[brother]N sux:ŋaʾe[I]IP sux:ilu[song]N sux:zaʾe[you]IP sux:ilu[song]N sux:dug[speak]V/t
-c.1.4.4,Inana and Bilulu: an ulila to Inana,,157,sux:ilu[song]Nsux:ilu[song]N sux:zaʾe[you]IPsux:ilu[song]N sux:zaʾe[you]IP sux:ilu[song]Nsux:ilu[song]N sux:zaʾe[you]IP sux:ilu[song]N sux:dug[speak]V/t
-c.1.4.4,Inana and Bilulu: an ulila to Inana,,158,sux:e[house]Nsux:e[house]N sux:Arali[1]GNsux:e[house]N sux:Arali[1]GN sux:ilu[song]Nsux:e[house]N sux:Arali[1]GN sux:ilu[song]N sux:zaʾe[you]IPsux:e[house]N sux:Arali[1]GN sux:ilu[song]N sux:zaʾe[you]IP sux:ilu[song]Nsux:e[house]N sux:Arali[1]GN sux:ilu[song]N sux:zaʾe[you]IP sux:ilu[song]N sux:dug[speak]V/t
-c.1.4.4,Inana and Bilulu: an ulila to Inana,,159,sux:Dušuba[1]GNsux:Dušuba[1]GN sux:ilu[song]Nsux:Dušuba[1]GN sux:ilu[song]N sux:zaʾe[you]IPsux:Dušuba[1]GN sux:ilu[song]N sux:zaʾe[you]IP sux:ilu[song]Nsux:Dušuba[1]GN sux:ilu[song]N sux:zaʾe[you]IP sux:ilu[song]N sux:dug[speak]V/t
-c.1.4.4,Inana and Bilulu: an ulila to Inana,,160,sux:Badtibira[1]SNsux:Badtibira[1]SN sux:ilu[song]Nsux:Badtibira[1]SN sux:ilu[song]N sux:zaʾe[you]IPsux:Badtibira[1]SN sux:ilu[song]N sux:zaʾe[you]IP sux:ilu[song]Nsux:Badtibira[1]SN sux:ilu[song]N sux:zaʾe[you]IP sux:ilu[song]N sux:dug[speak]V/t
-c.1.4.4,Inana and Bilulu: an ulila to Inana,,161,sux:ki[place]Nsux:ki[place]N sux:namsipad[shepherdship]Nsux:ki[place]N sux:namsipad[shepherdship]N sux:ilu[song]Nsux:ki[place]N sux:namsipad[shepherdship]N sux:ilu[song]N sux:zaʾe[you]IPsux:ki[place]N sux:namsipad[shepherdship]N sux:ilu[song]N sux:zaʾe[you]IP sux:ilu[song]Nsux:ki[place]N sux:namsipad[shepherdship]N sux:ilu[song]N sux:zaʾe[you]IP sux:ilu[song]N sux:dug[speak]V/t
-c.1.4.4,Inana and Bilulu: an ulila to Inana,,162,sux:innin[lady]Nsux:innin[lady]N sux-x-emesal:mudna[spouse]Nsux:innin[lady]N sux-x-emesal:mudna[spouse]N sux:nen[this]DPsux:innin[lady]N sux-x-emesal:mudna[spouse]N sux:nen[this]DP sux:sa[equal]V/t
-c.1.4.4,Inana and Bilulu: an ulila to Inana,,163,sux:kug[pure]V/isux:kug[pure]V/i sux-x-emesal:Inanak[1]DNsux:kug[pure]V/i sux-x-emesal:Inanak[1]DN sux-x-emesal:subad[shepherd]Nsux:kug[pure]V/i sux-x-emesal:Inanak[1]DN sux-x-emesal:subad[shepherd]N sux:Dumuzid[1]DNsux:kug[pure]V/i sux-x-emesal:Inanak[1]DN sux-x-emesal:subad[shepherd]N sux:Dumuzid[1]DN sux:nen[this]DPsux:kug[pure]V/i sux-x-emesal:Inanak[1]DN sux-x-emesal:subad[shepherd]N sux:Dumuzid[1]DN sux:nen[this]DP sux:sa[equal]V/t
-c.1.4.4,Inana and Bilulu: an ulila to Inana,,164,sux:kinud[bedroom]Nsux:kinud[bedroom]N sux-x-emesal:zeb[good]V/isux:kinud[bedroom]N sux-x-emesal:zeb[good]V/i sux:innin[lady]N
-c.1.4.4,Inana and Bilulu: an ulila to Inana,,165,sux:šu[hand]Nsux:šu[hand]N sux:ŋar[place]V/tsux:šu[hand]N sux:ŋar[place]V/t sux:gi[turn]V/isux:šu[hand]N sux:ŋar[place]V/t sux:gi[turn]V/i sux-x-emesal:Inanak[1]DNsux:šu[hand]N sux:ŋar[place]V/t sux:gi[turn]V/i sux-x-emesal:Inanak[1]DN sux:šu[hand]Nsux:šu[hand]N sux:ŋar[place]V/t sux:gi[turn]V/i sux-x-emesal:Inanak[1]DN sux:šu[hand]N sux:si[fill]V/t
-c.1.4.4,Inana and Bilulu: an ulila to Inana,,166,sux:ilu[song]Nsux:ilu[song]N sux:zaʾe[you]IPsux:ilu[song]N sux:zaʾe[you]IP sux:ilu[song]Nsux:ilu[song]N sux:zaʾe[you]IP sux:ilu[song]N sux:zaʾe[you]IPsux:ilu[song]N sux:zaʾe[you]IP sux:ilu[song]N sux:zaʾe[you]IP sux:ilu[song]Nsux:ilu[song]N sux:zaʾe[you]IP sux:ilu[song]N sux:zaʾe[you]IP sux:ilu[song]N sux:dug[speak]V/t
-c.1.4.4,Inana and Bilulu: an ulila to Inana,,167,sux:ilu[song]Nsux:ilu[song]N sux:zaʾe[you]IPsux:ilu[song]N sux:zaʾe[you]IP sux:ilu[song]Nsux:ilu[song]N sux:zaʾe[you]IP sux:ilu[song]N sux:zaʾe[you]IPsux:ilu[song]N sux:zaʾe[you]IP sux:ilu[song]N sux:zaʾe[you]IP sux:ilu[song]Nsux:ilu[song]N sux:zaʾe[you]IP sux:ilu[song]N sux:zaʾe[you]IP sux:ilu[song]N sux:dug[speak]V/t
-c.1.4.4,Inana and Bilulu: an ulila to Inana,,168,sux:kiʾulutim[locus]Nsux:kiʾulutim[locus]N sux:ilu[song]Nsux:kiʾulutim[locus]N sux:ilu[song]N sux:zaʾe[you]IPsux:kiʾulutim[locus]N sux:ilu[song]N sux:zaʾe[you]IP sux:ilu[song]Nsux:kiʾulutim[locus]N sux:ilu[song]N sux:zaʾe[you]IP sux:ilu[song]N sux:dug[speak]V/t
-c.1.4.4,Inana and Bilulu: an ulila to Inana,,169,sux:eden[back]Nsux:eden[back]N sux:Dumuzid[1]DNsux:eden[back]N sux:Dumuzid[1]DN sux:ilu[song]Nsux:eden[back]N sux:Dumuzid[1]DN sux:ilu[song]N sux:zaʾe[you]IPsux:eden[back]N sux:Dumuzid[1]DN sux:ilu[song]N sux:zaʾe[you]IP sux:ilu[song]Nsux:eden[back]N sux:Dumuzid[1]DN sux:ilu[song]N sux:zaʾe[you]IP sux:ilu[song]N sux:dug[speak]V/t
-c.1.4.4,Inana and Bilulu: an ulila to Inana,,170,sux:e[house]Nsux:e[house]N sux:Arali[1]GNsux:e[house]N sux:Arali[1]GN sux:ilu[song]Nsux:e[house]N sux:Arali[1]GN sux:ilu[song]N sux:zaʾe[you]IPsux:e[house]N sux:Arali[1]GN sux:ilu[song]N sux:zaʾe[you]IP sux:ilu[song]Nsux:e[house]N sux:Arali[1]GN sux:ilu[song]N sux:zaʾe[you]IP sux:ilu[song]N sux:dug[speak]V/t
-c.1.4.4,Inana and Bilulu: an ulila to Inana,,171,sux:Dušuba[1]GNsux:Dušuba[1]GN sux:ilu[song]Nsux:Dušuba[1]GN sux:ilu[song]N sux:zaʾe[you]IPsux:Dušuba[1]GN sux:ilu[song]N sux:zaʾe[you]IP sux:ilu[song]Nsux:Dušuba[1]GN sux:ilu[song]N sux:zaʾe[you]IP sux:ilu[song]N sux:dug[speak]V/t
-c.1.4.4,Inana and Bilulu: an ulila to Inana,,172,sux:Badtibira[1]SNsux:Badtibira[1]SN sux:ilu[song]Nsux:Badtibira[1]SN sux:ilu[song]N sux:zaʾe[you]IPsux:Badtibira[1]SN sux:ilu[song]N sux:zaʾe[you]IP sux:ilu[song]Nsux:Badtibira[1]SN sux:ilu[song]N sux:zaʾe[you]IP sux:ilu[song]N sux:dug[speak]V/t
-c.1.4.4,Inana and Bilulu: an ulila to Inana,,173,sux:ki[place]Nsux:ki[place]N sux:namsipad[shepherdship]Nsux:ki[place]N sux:namsipad[shepherdship]N sux:ilu[song]Nsux:ki[place]N sux:namsipad[shepherdship]N sux:ilu[song]N sux:zaʾe[you]IPsux:ki[place]N sux:namsipad[shepherdship]N sux:ilu[song]N sux:zaʾe[you]IP sux:ilu[song]Nsux:ki[place]N sux:namsipad[shepherdship]N sux:ilu[song]N sux:zaʾe[you]IP sux:ilu[song]N sux:dug[speak]V/t
-c.1.4.4,Inana and Bilulu: an ulila to Inana,,174,sux:Dumuzid[1]DNsux:Dumuzid[1]DN sux:nen[this]DPsux:Dumuzid[1]DN sux:nen[this]DP sux:sa[equal]V/tsux:Dumuzid[1]DN sux:nen[this]DP sux:sa[equal]V/t sux:šu[hand]Nsux:Dumuzid[1]DN sux:nen[this]DP sux:sa[equal]V/t sux:šu[hand]N sux:ŋar[place]V/tsux:Dumuzid[1]DN sux:nen[this]DP sux:sa[equal]V/t sux:šu[hand]N sux:ŋar[place]V/t sux:gi[turn]V/i
-c.1.4.4,Inana and Bilulu: an ulila to Inana,,175,sux:Bilulu[1]DNsux:Bilulu[1]DN sux:uš[die]V/i
-c.1.4.4,Inana and Bilulu: an ulila to Inana,,176,sux:Inanak[1]DNsux:Inanak[1]DN sux:sa[equal]V/t
-c.1.4.4,Inana and Bilulu: an ulila to Inana,,177,sux:ulilla[lament]Nsux:ulilla[lament]N sux:Inanak[1]DN
+c.1.4.4,Inana and Bilulu: an ulila to Inana,,150,sux:kisikil[woman]N sux:u[admiration]N sux:dug[speak]V/t
+c.1.4.4,Inana and Bilulu: an ulila to Inana,,151,sux:Ŋeštinanak[1]DN
+c.1.4.4,Inana and Bilulu: an ulila to Inana,,152,sux:nugig[priestess]N sux:šu[hand]N sux:šu[hand]N sux:TUR[TUR]V
+c.1.4.4,Inana and Bilulu: an ulila to Inana,,153,sux:teš[unity]N sux:ŋar[place]V/t
+c.1.4.4,Inana and Bilulu: an ulila to Inana,,154,sux:kag[mouth]N sux:gi[turn]V/i
+c.1.4.4,Inana and Bilulu: an ulila to Inana,,155,sux:ilu[song]N sux:zaʾe[you]IP sux:ilu[song]N sux:zaʾe[you]IP sux:ilu[song]N sux:dug[speak]V/t
+c.1.4.4,Inana and Bilulu: an ulila to Inana,,156,sux:šeš[brother]N sux:ŋaʾe[I]IP sux:ilu[song]N sux:zaʾe[you]IP sux:ilu[song]N sux:dug[speak]V/t
+c.1.4.4,Inana and Bilulu: an ulila to Inana,,157,sux:ilu[song]N sux:zaʾe[you]IP sux:ilu[song]N sux:dug[speak]V/t
+c.1.4.4,Inana and Bilulu: an ulila to Inana,,158,sux:e[house]N sux:Arali[1]GN sux:ilu[song]N sux:zaʾe[you]IP sux:ilu[song]N sux:dug[speak]V/t
+c.1.4.4,Inana and Bilulu: an ulila to Inana,,159,sux:Dušuba[1]GN sux:ilu[song]N sux:zaʾe[you]IP sux:ilu[song]N sux:dug[speak]V/t
+c.1.4.4,Inana and Bilulu: an ulila to Inana,,160,sux:Badtibira[1]SN sux:ilu[song]N sux:zaʾe[you]IP sux:ilu[song]N sux:dug[speak]V/t
+c.1.4.4,Inana and Bilulu: an ulila to Inana,,161,sux:ki[place]N sux:namsipad[shepherdship]N sux:ilu[song]N sux:zaʾe[you]IP sux:ilu[song]N sux:dug[speak]V/t
+c.1.4.4,Inana and Bilulu: an ulila to Inana,,162,sux:innin[lady]N sux-x-emesal:mudna[spouse]N sux:nen[this]DP sux:sa[equal]V/t
+c.1.4.4,Inana and Bilulu: an ulila to Inana,,163,sux:kug[pure]V/i sux-x-emesal:Inanak[1]DN sux-x-emesal:subad[shepherd]N sux:Dumuzid[1]DN sux:nen[this]DP sux:sa[equal]V/t
+c.1.4.4,Inana and Bilulu: an ulila to Inana,,164,sux:kinud[bedroom]N sux-x-emesal:zeb[good]V/i sux:innin[lady]N
+c.1.4.4,Inana and Bilulu: an ulila to Inana,,165,sux:šu[hand]N sux:ŋar[place]V/t sux:gi[turn]V/i sux-x-emesal:Inanak[1]DN sux:šu[hand]N sux:si[fill]V/t
+c.1.4.4,Inana and Bilulu: an ulila to Inana,,166,sux:ilu[song]N sux:zaʾe[you]IP sux:ilu[song]N sux:zaʾe[you]IP sux:ilu[song]N sux:dug[speak]V/t
+c.1.4.4,Inana and Bilulu: an ulila to Inana,,167,sux:ilu[song]N sux:zaʾe[you]IP sux:ilu[song]N sux:zaʾe[you]IP sux:ilu[song]N sux:dug[speak]V/t
+c.1.4.4,Inana and Bilulu: an ulila to Inana,,168,sux:kiʾulutim[locus]N sux:ilu[song]N sux:zaʾe[you]IP sux:ilu[song]N sux:dug[speak]V/t
+c.1.4.4,Inana and Bilulu: an ulila to Inana,,169,sux:eden[back]N sux:Dumuzid[1]DN sux:ilu[song]N sux:zaʾe[you]IP sux:ilu[song]N sux:dug[speak]V/t
+c.1.4.4,Inana and Bilulu: an ulila to Inana,,170,sux:e[house]N sux:Arali[1]GN sux:ilu[song]N sux:zaʾe[you]IP sux:ilu[song]N sux:dug[speak]V/t
+c.1.4.4,Inana and Bilulu: an ulila to Inana,,171,sux:Dušuba[1]GN sux:ilu[song]N sux:zaʾe[you]IP sux:ilu[song]N sux:dug[speak]V/t
+c.1.4.4,Inana and Bilulu: an ulila to Inana,,172,sux:Badtibira[1]SN sux:ilu[song]N sux:zaʾe[you]IP sux:ilu[song]N sux:dug[speak]V/t
+c.1.4.4,Inana and Bilulu: an ulila to Inana,,173,sux:ki[place]N sux:namsipad[shepherdship]N sux:ilu[song]N sux:zaʾe[you]IP sux:ilu[song]N sux:dug[speak]V/t
+c.1.4.4,Inana and Bilulu: an ulila to Inana,,174,sux:Dumuzid[1]DN sux:nen[this]DP sux:sa[equal]V/t sux:šu[hand]N sux:ŋar[place]V/t sux:gi[turn]V/i
+c.1.4.4,Inana and Bilulu: an ulila to Inana,,175,sux:Bilulu[1]DN sux:uš[die]V/i
+c.1.4.4,Inana and Bilulu: an ulila to Inana,,176,sux:Inanak[1]DN sux:sa[equal]V/t
+c.1.4.4,Inana and Bilulu: an ulila to Inana,,177,sux:ulilla[lament]N sux:Inanak[1]DN

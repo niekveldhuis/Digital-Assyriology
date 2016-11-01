@@ -1,0 +1,31 @@
+id_text,text_name,version,l_no,text
+etcsri/Q001080,En-anatum I 10,,i 1,sux:Lugalurubak[1]DN
+etcsri/Q001080,En-anatum I 10,,i 2,sux:arad[slave]N sux:kalag[strong]V/i
+etcsri/Q001080,En-anatum I 10,,i 3,sux:Enanatum[1]RN
+etcsri/Q001080,En-anatum I 10,,i 4,sux:ensik[ruler]N
+etcsri/Q001080,En-anatum I 10,,i 5,sux:Lagaš[1]SN
+etcsri/Q001080,En-anatum I 10,,i 6,sux:dumu[child]N sux:Ayakurgal[1]RN
+etcsri/Q001080,En-anatum I 10,,i 7,sux:ensik[ruler]N
+etcsri/Q001080,En-anatum I 10,,i 8,sux:Lagaš[1]SN
+etcsri/Q001080,En-anatum I 10,,i 9,sux:ud[sun]N sux:Inanak[1]DN
+etcsri/Q001080,En-anatum I 10,,i 10,sux:Ebgal[1]TN sux:du[build]V/t
+etcsri/Q001080,En-anatum I 10,,i 11,sux:Nindara[1]DN
+etcsri/Q001080,En-anatum I 10,,ii 1,sux:lugal[king]N sux:urun[exalted]V/i
+etcsri/Q001080,En-anatum I 10,,ii 2,sux:e[house]N
+etcsri/Q001080,En-anatum I 10,,ii 3,sux:ki[place]N sux:gi[turn]V/i
+etcsri/Q001080,En-anatum I 10,,ii 4,sux:Hendursaŋak[1]DN
+etcsri/Q001080,En-anatum I 10,,ii 5,sux:e[house]N sux:du[build]V/t
+etcsri/Q001080,En-anatum I 10,,ii 6,sux:Lugalurubak[1]DN
+etcsri/Q001080,En-anatum I 10,,ii 7,sux:e[house]N sux:gal[big]V/i sux:Urub[1]SN
+etcsri/Q001080,En-anatum I 10,,ii 8,sux:du[build]V/t
+etcsri/Q001080,En-anatum I 10,,ii 9,sux:Ŋeštinanak[1]DN
+etcsri/Q001080,En-anatum I 10,,ii 10,sux:e[house]N sux:Saŋub[1]SN
+etcsri/Q001080,En-anatum I 10,,iii 1,sux:du[build]V/t
+etcsri/Q001080,En-anatum I 10,,iii 2,sux:ud[sun]N
+etcsri/Q001080,En-anatum I 10,,iii 3,sux:Enanatum[1]RN
+etcsri/Q001080,En-anatum I 10,,iii 4,sux:ganun[storehouse]N sux:mah[great]V/i
+etcsri/Q001080,En-anatum I 10,,iii 5,sux:Urub[1]SN
+etcsri/Q001080,En-anatum I 10,,iii 6,sux:du[build]V/t
+etcsri/Q001080,En-anatum I 10,,iii 7,sux:namtil[life]N
+etcsri/Q001080,En-anatum I 10,,iii 8,sux:Lugalurubak[1]DN
+etcsri/Q001080,En-anatum I 10,,iii 9,sux:e[house]N sux:gal[big]V/i sux:Urub[1]SN

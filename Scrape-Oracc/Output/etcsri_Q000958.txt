@@ -1,0 +1,9 @@
+id_text,text_name,version,l_no,text
+etcsri/Q000958,Ur-Namma 40,,1,sux:Nanna[1]DN
+etcsri/Q000958,Ur-Namma 40,,2,sux:lugal[king]N
+etcsri/Q000958,Ur-Namma 40,,3,sux:Urnammak[1]RN
+etcsri/Q000958,Ur-Namma 40,,4,sux:nita[male]N sux:kalag[strong]V/i
+etcsri/Q000958,Ur-Namma 40,,5,sux:lugal[king]N sux:Urim[1]SN
+etcsri/Q000958,Ur-Namma 40,,6,sux:lugal[king]N sux:Kiengir[1]GN sux:Akkad[1]GN
+etcsri/Q000958,Ur-Namma 40,,7,sux:Idnun[1]WN
+etcsri/Q000958,Ur-Namma 40,,8,sux:id[river]N sux:ki[place]N sux:aŋ[measure]V/t

@@ -1,0 +1,71 @@
+id_text,text_name,version,l_no,text
+etcsri/Q001545,Gudea Statue F,,1,sux:Gudea[1]RN
+etcsri/Q001545,Gudea Statue F,,2,sux:ensik[ruler]N
+etcsri/Q001545,Gudea Statue F,,3,sux:Lagaš[1]SN
+etcsri/Q001545,Gudea Statue F,,4,sux:ur[servant]N sux:Ŋatumdug[1]DN
+etcsri/Q001545,Gudea Statue F,,i 1,sux:Ŋatumdug[1]DN
+etcsri/Q001545,Gudea Statue F,,i 2,sux:ama[mother]N sux:Lagaš[1]SN
+etcsri/Q001545,Gudea Statue F,,i 3,sux:Gudea[1]RN
+etcsri/Q001545,Gudea Statue F,,i 4,sux:ensik[ruler]N
+etcsri/Q001545,Gudea Statue F,,i 5,sux:Lagaš[1]SN
+etcsri/Q001545,Gudea Statue F,,i 6,sux:ur[servant]N sux:Ŋatumdug[1]DN
+etcsri/Q001545,Gudea Statue F,,i 7,sux:arad[slave]N sux:ki[place]N sux:aŋ[measure]V/t
+etcsri/Q001545,Gudea Statue F,,i 8,sux:lu[person]N sux:niŋdu[appropriate-thing]N sux:pa[branch]N sux:e[leave]V/i
+etcsri/Q001545,Gudea Statue F,,i 9,sux:Eninnu-anzubabbar[1]TN
+etcsri/Q001545,Gudea Statue F,,i 10,sux:Ninŋirsuk[1]DN
+etcsri/Q001545,Gudea Statue F,,i 11,sux:du[build]V/t
+etcsri/Q001545,Gudea Statue F,,i 12,sux:Ŋatumdug[1]DN
+etcsri/Q001545,Gudea Statue F,,i 13,sux:nin[lady]N
+etcsri/Q001545,Gudea Statue F,,i 14,sux:Lagaš[1]SN
+etcsri/Q001545,Gudea Statue F,,i 15,sux:iri[city]N sux:ki[place]N sux:aŋ[measure]V/t
+etcsri/Q001545,Gudea Statue F,,i 16,sux:unu[dwelling]N sux:šuba[multicoloured]V/i
+etcsri/Q001545,Gudea Statue F,,ii 1,sux:utud[bear]V/t
+etcsri/Q001545,Gudea Statue F,,ii 2,sux:e[house]N sux:Ŋatumdug[1]DN
+etcsri/Q001545,Gudea Statue F,,ii 3,sux:nin[lady]N
+etcsri/Q001545,Gudea Statue F,,ii 4,sux:du[build]V/t
+etcsri/Q001545,Gudea Statue F,,ii 5,sux:u[sleep]N sux:kur[enter]V/i
+etcsri/Q001545,Gudea Statue F,,ii 6,sux:Gudea[1]RN
+etcsri/Q001545,Gudea Statue F,,ii 7,sux:ensik[ruler]N
+etcsri/Q001545,Gudea Statue F,,ii 8,sux:Lagaš[1]SN
+etcsri/Q001545,Gudea Statue F,,ii 9,sux:ŋeštug[ear]N sux:daŋal[wide]V/i
+etcsri/Q001545,Gudea Statue F,,ii 10,sux:arad[slave]N sux:nituku[pious]AJ
+etcsri/Q001545,Gudea Statue F,,ii 11,sux:nin[lady]N
+etcsri/Q001545,Gudea Statue F,,ii 12,sux:bisaŋ[basket]N sux:ušub[brick-mold]N
+etcsri/Q001545,Gudea Statue F,,ii 13,sux:ŋeš[tree]N sux:hur[scratch]V/t
+etcsri/Q001545,Gudea Statue F,,ii 14,sux:kalak[trench]N
+etcsri/Q001545,Gudea Statue F,,ii 15,sux:urin[standard]N sux:mul[shine]V/i
+etcsri/Q001545,Gudea Statue F,,ii 16,sux:im[clay]N sux:ki[place]N sux:kug[pure]V/i
+etcsri/Q001545,Gudea Statue F,,ii 17,sux:lu[mix]V/t
+etcsri/Q001545,Gudea Statue F,,ii 18,sux:šeg[brick]N sux:ki[place]N sux:sikil[pure]V/i
+etcsri/Q001545,Gudea Statue F,,ii 19,sux:du[spread]V/t
+etcsri/Q001545,Gudea Statue F,,iii 1,sux:uš[foundation]N sux:kug[pure]V/i
+etcsri/Q001545,Gudea Statue F,,iii 2,sux:izi[fire]N sux:la[hang]V/t
+etcsri/Q001545,Gudea Statue F,,iii 3,sux:temen[foundation]N
+etcsri/Q001545,Gudea Statue F,,iii 4,sux:i[oil]N sux:ir[scent]N sux:nun[prince]N
+etcsri/Q001545,Gudea Statue F,,iii 5,sux:šu[hand]N sux:tag[touch]V/t sux:dug[speak]V/t
+etcsri/Q001545,Gudea Statue F,,iii 6,sux:Irikug[1]SN sux:ki[place]N sux:dadag[bright]V/i
+etcsri/Q001545,Gudea Statue F,,iii 7,sux:e[house]N sux:du[build]V/t
+etcsri/Q001545,Gudea Statue F,,iii 8,sux:durŋar[chair]N sux:mah[great]V/i sux:namnin[ladyship]N
+etcsri/Q001545,Gudea Statue F,,iii 9,sux:dim[create]V/t
+etcsri/Q001545,Gudea Statue F,,iii 10,sux:dubšen[chest]N sux:kug[pure]V/i
+etcsri/Q001545,Gudea Statue F,,iii 11,sux:dim[create]V/t
+etcsri/Q001545,Gudea Statue F,,iii 12,sux:gud[ox]N sux:šudul[yoke]N
+etcsri/Q001545,Gudea Statue F,,iii 13,sux:si[horn]N sux:sa[equal]V/t
+etcsri/Q001545,Gudea Statue F,,iii 14,sux:engar[farmer]N sux:gudrah[drover]N
+etcsri/Q001545,Gudea Statue F,,iii 15,sux:us[follow]V/i
+etcsri/Q001545,Gudea Statue F,,iii 16,sux:ab[cow]N sux:zid[right]V/i
+etcsri/Q001545,Gudea Statue F,,iii 17,sux:amar[young]N sux:zid[right]V/i sux:utud[bear]V/t
+etcsri/Q001545,Gudea Statue F,,iii 18,sux:unud[cowherd]N
+etcsri/Q001545,Gudea Statue F,,iii 19,sux:us[follow]V/i
+etcsri/Q001545,Gudea Statue F,,iv 1,sux:u[ewe]N sux:zid[right]V/i
+etcsri/Q001545,Gudea Statue F,,iv 2,sux:sila[lamb]N sux:zid[right]V/i sux:utud[bear]V/t
+etcsri/Q001545,Gudea Statue F,,iv 3,sux:sipad[shepherd]N
+etcsri/Q001545,Gudea Statue F,,iv 4,sux:us[follow]V/i
+etcsri/Q001545,Gudea Statue F,,iv 5,sux:uzud[goat]N sux:zid[right]V/i
+etcsri/Q001545,Gudea Statue F,,iv 6,sux:maš[goat]N sux:zid[right]V/i sux:utud[bear]V/t
+etcsri/Q001545,Gudea Statue F,,iv 7,sux:sipad[shepherd]N
+etcsri/Q001545,Gudea Statue F,,iv 8,sux:us[follow]V/i
+etcsri/Q001545,Gudea Statue F,,iv 9,sux:anše[equid]N sux:amašagan[mother]N
+etcsri/Q001545,Gudea Statue F,,iv 10,sux:dur[donkey]N sux:kaš[runner]N
+etcsri/Q001545,Gudea Statue F,,iv 11,sux:šu[hand]N sux:bar[cvve]V/t
+etcsri/Q001545,Gudea Statue F,,iv 12,sux:nagada[herdsman]N

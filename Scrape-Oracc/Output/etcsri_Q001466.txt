@@ -1,0 +1,64 @@
+id_text,text_name,version,l_no,text
+etcsri/Q001466,Ur-Bau 05,,i 1,sux:Ninŋirsuk[1]DN
+etcsri/Q001466,Ur-Bau 05,,i 2,sux:ursaŋ[hero]N sux:kalag[strong]V/i
+etcsri/Q001466,Ur-Bau 05,,i 3,sux:Enlil[1]DN
+etcsri/Q001466,Ur-Bau 05,,i 4,sux:Urbauk[1]RN
+etcsri/Q001466,Ur-Bau 05,,i 5,sux:ensik[ruler]N
+etcsri/Q001466,Ur-Bau 05,,i 6,sux:Lagaš[1]SN
+etcsri/Q001466,Ur-Bau 05,,i 7,sux:dumu[child]N sux:utud[bear]V/t
+etcsri/Q001466,Ur-Bau 05,,i 8,sux:Ninagalak[1]DN
+etcsri/Q001466,Ur-Bau 05,,i 9,sux:šag[heart]N sux:pad[find]V/t sux:Nanše[1]DN
+etcsri/Q001466,Ur-Bau 05,,i 10,sux:a[arm]N sux:šum[give]V/t sux:Ninŋirsuk[1]DN
+etcsri/Q001466,Ur-Bau 05,,i 11,sux:mu[name]N sux:dug[good]V/i sux:še[call]V/t sux:Bau[1]DN
+etcsri/Q001466,Ur-Bau 05,,i 12,sux:ŋeštug[ear]N sux:šum[give]V/t sux:Enkik[1]DN
+etcsri/Q001466,Ur-Bau 05,,ii 1,sux:lu[person]N sux:inim[word]N sux:sig[put]V/t sux:Inanak[1]DN
+etcsri/Q001466,Ur-Bau 05,,ii 2,sux:arad[slave]N sux:ki[place]N sux:aŋ[measure]V/t sux:Lugalurubak[1]DN
+etcsri/Q001466,Ur-Bau 05,,ii 3,sux:ki[place]N sux:aŋ[measure]V/t sux:Dumuzidabzuk[1]DN
+etcsri/Q001466,Ur-Bau 05,,ii 4,sux:Urbauk[1]RN
+etcsri/Q001466,Ur-Bau 05,,ii 5,sux:Ninŋirsuk[1]DN sux:lugal[king]N
+etcsri/Q001466,Ur-Bau 05,,ii 6,sux:kalak[trench]N sux:kuš[unit]N sux:bal[dig]V/t
+etcsri/Q001466,Ur-Bau 05,,ii 7,sux:sahar[dust]N sux:za[bead]N sux:bul[blow]V/t
+etcsri/Q001466,Ur-Bau 05,,ii 8,sux:kug[metal]N sux:izi[fire]N sux:la[hang]V/t
+etcsri/Q001466,Ur-Bau 05,,iii 1,sux:ninda[bull]N sux:ki[place]N sux:daŋal[wide]V/i sux:gub[stand]V/i
+etcsri/Q001466,Ur-Bau 05,,iii 2,sux:sahar[dust]N sux:šag[heart]N sux:gi[turn]V/i
+etcsri/Q001466,Ur-Bau 05,,iii 3,sux:uš[foundation]N sux:de[pour]V/t sux:ak[do]V/t
+etcsri/Q001466,Ur-Bau 05,,iii 4,sux:ugu[skull]N sux:kisa[platform]N sux:kuš[unit]N sux:du[build]V/t
+etcsri/Q001466,Ur-Bau 05,,iii 5,sux:ugu[skull]N sux:kisa[platform]N
+etcsri/Q001466,Ur-Bau 05,,iii 6,sux:Eninnu-anzubabbar[1]TN sux:kuš[unit]N
+etcsri/Q001466,Ur-Bau 05,,iii 7,sux:du[build]V/t
+etcsri/Q001466,Ur-Bau 05,,iii 8,sux:Ninhursaŋak[1]DN sux:ama[mother]N sux:diŋir[deity]N
+etcsri/Q001466,Ur-Bau 05,,iv 1,sux:e[house]N sux:Ŋirsu[1]SN
+etcsri/Q001466,Ur-Bau 05,,iv 2,sux:du[build]V/t
+etcsri/Q001466,Ur-Bau 05,,iv 3,sux:Bau[1]DN
+etcsri/Q001466,Ur-Bau 05,,iv 4,sux:munus[woman]N sux:sag[good]V/i
+etcsri/Q001466,Ur-Bau 05,,iv 5,sux:dumu[child]N sux:An[1]DN
+etcsri/Q001466,Ur-Bau 05,,iv 6,sux:e[house]N sux:Irikug[1]SN
+etcsri/Q001466,Ur-Bau 05,,iv 7,sux:du[build]V/t
+etcsri/Q001466,Ur-Bau 05,,iv 8,sux:Inanak[1]DN sux:nin[lady]N sux:Kugnun[1]GN
+etcsri/Q001466,Ur-Bau 05,,iv 9,sux:e[house]N sux:Urub[1]SN
+etcsri/Q001466,Ur-Bau 05,,iv 10,sux:du[build]V/t
+etcsri/Q001466,Ur-Bau 05,,iv 11,sux:Enkik[1]DN sux:lugal[king]N sux:Eridug[1]SN
+etcsri/Q001466,Ur-Bau 05,,iv 12,sux:e[house]N sux:Ŋirsu[1]SN
+etcsri/Q001466,Ur-Bau 05,,v 1,sux:du[build]V/t
+etcsri/Q001466,Ur-Bau 05,,v 2,sux:Nindara[1]DN sux:lugal[king]N sux:urun[exalted]V/i
+etcsri/Q001466,Ur-Bau 05,,v 3,sux:e[house]N sux:du[build]V/t
+etcsri/Q001466,Ur-Bau 05,,v 4,sux:Ninagalak[1]DN
+etcsri/Q001466,Ur-Bau 05,,v 5,sux:diŋir[deity]N
+etcsri/Q001466,Ur-Bau 05,,v 6,sux:e[house]N
+etcsri/Q001466,Ur-Bau 05,,v 7,sux:du[build]V/t
+etcsri/Q001466,Ur-Bau 05,,v 8,sux:Ninmarkik[1]DN
+etcsri/Q001466,Ur-Bau 05,,v 9,sux:munus[woman]N sux:sag[good]V/i
+etcsri/Q001466,Ur-Bau 05,,v 10,sux:dumusaŋ[first-born]N sux:Nanše[1]DN
+etcsri/Q001466,Ur-Bau 05,,v 11,sux:Ešgutur[1]TN sux:e[house]N sux:šag[heart]N sux:pad[find]V/t
+etcsri/Q001466,Ur-Bau 05,,v 12,sux:du[build]V/t
+etcsri/Q001466,Ur-Bau 05,,vi 1,sux:Enšegnun[1]DN
+etcsri/Q001466,Ur-Bau 05,,vi 2,sux:sipad[shepherd]N sux:anše[equid]N sux:Ninŋirsuk[1]DN
+etcsri/Q001466,Ur-Bau 05,,vi 3,sux:Edurak[1]TN
+etcsri/Q001466,Ur-Bau 05,,vi 4,sux:du[build]V/t
+etcsri/Q001466,Ur-Bau 05,,vi 5,sux:Ŋeštinanak[1]DN
+etcsri/Q001466,Ur-Bau 05,,vi 6,sux:nin[lady]N sux:gu[neck]N sux:si[fill]V/t
+etcsri/Q001466,Ur-Bau 05,,vi 7,sux:e[house]N sux:Ŋirsu[1]SN
+etcsri/Q001466,Ur-Bau 05,,vi 8,sux:du[build]V/t
+etcsri/Q001466,Ur-Bau 05,,vi 9,sux:Dumuzidabzuk[1]DN
+etcsri/Q001466,Ur-Bau 05,,vi 10,sux:nin[lady]N sux:Kinunir[1]SN
+etcsri/Q001466,Ur-Bau 05,,vi 11,sux:e[house]N sux:Ŋirsu[1]SN

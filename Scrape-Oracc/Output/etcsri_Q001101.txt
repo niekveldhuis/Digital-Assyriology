@@ -1,0 +1,34 @@
+id_text,text_name,version,l_no,text
+etcsri/Q001101,En-metena 23,,1,sux:Lugalurubak[1]DN
+etcsri/Q001101,En-metena 23,,2,sux:Amaušumgalanak[1]DN
+etcsri/Q001101,En-metena 23,,3,sux:Enmetenak[1]RN
+etcsri/Q001101,En-metena 23,,4,sux:ensik[ruler]N
+etcsri/Q001101,En-metena 23,,5,sux:Lagaš[1]SN
+etcsri/Q001101,En-metena 23,,6,sux:šag[heart]N sux:pad[find]V/t
+etcsri/Q001101,En-metena 23,,7,sux:Nanše[1]DN
+etcsri/Q001101,En-metena 23,,8,sux:ensikgal[governor]N
+etcsri/Q001101,En-metena 23,,9,sux:Ninŋirsuk[1]DN
+etcsri/Q001101,En-metena 23,,10,sux:dumu[child]N sux:Enanatum[1]RN
+etcsri/Q001101,En-metena 23,,11,sux:ensik[ruler]N
+etcsri/Q001101,En-metena 23,,12,sux:Lagaš[1]SN
+etcsri/Q001101,En-metena 23,,13,sux:ud[sun]N sux:Nanše[1]DN
+etcsri/Q001101,En-metena 23,,14,sux:namlugal[kingship]N
+etcsri/Q001101,En-metena 23,,15,sux:Lagaš[1]SN
+etcsri/Q001101,En-metena 23,,16,sux:šum[give]V/t
+etcsri/Q001101,En-metena 23,,17,sux:Ninŋirsuk[1]DN
+etcsri/Q001101,En-metena 23,,18,sux:mu[name]N sux:pad[find]V/t
+etcsri/Q001101,En-metena 23,,19,sux:ud[sun]N
+etcsri/Q001101,En-metena 23,,20,sux:Enmetenak[1]RN
+etcsri/Q001101,En-metena 23,,21,sux:Lugalurubak[1]DN
+etcsri/Q001101,En-metena 23,,22,sux:e[house]N sux:gal[big]V/i sux:Urub[1]SN
+etcsri/Q001101,En-metena 23,,23,sux:du[build]V/t
+etcsri/Q001101,En-metena 23,,24,sux:kugsig[gold]N sux:kugbabbar[silver]N
+etcsri/Q001101,En-metena 23,,25,sux:šu[hand]N sux:tag[touch]V/t
+etcsri/Q001101,En-metena 23,,26,sux:kug[metal]N sux:zagin[lapis]N
+etcsri/Q001101,En-metena 23,,27,sux:gud[ox]N
+etcsri/Q001101,En-metena 23,,28,sux:udu[sheep]N
+etcsri/Q001101,En-metena 23,,29,sux:kisal[courtyard]N sux:Lugalurubak[1]DN
+etcsri/Q001101,En-metena 23,,30,sux:sa[equal]V/t sux:dug[speak]V/t
+etcsri/Q001101,En-metena 23,,31,sux:Enmetenak[1]RN
+etcsri/Q001101,En-metena 23,,32,sux:lu[person]N sux:e[house]N sux:Lugalurubak[1]DN sux:du[build]V/t
+etcsri/Q001101,En-metena 23,,33,sux:diŋir[deity]N

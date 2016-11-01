@@ -1,0 +1,10 @@
+id_text,text_name,version,l_no,text
+etcsri/Q000882,Ur-Bau 01,,1,sux:Bau[1]DN
+etcsri/Q000882,Ur-Bau 01,,2,sux:munus[woman]N sux:sag[good]V/i
+etcsri/Q000882,Ur-Bau 01,,3,sux:dumu[child]N sux:An[1]DN
+etcsri/Q000882,Ur-Bau 01,,4,sux:Urbauk[1]RN
+etcsri/Q000882,Ur-Bau 01,,5,sux:ensik[ruler]N
+etcsri/Q000882,Ur-Bau 01,,6,sux:Lagaš[1]SN
+etcsri/Q000882,Ur-Bau 01,,7,sux:dumu[child]N sux:utud[bear]V/t
+etcsri/Q000882,Ur-Bau 01,,8,sux:Ninagalak[1]DN
+etcsri/Q000882,Ur-Bau 01,,9,sux:e[house]N sux:Irikug[1]SN

@@ -1,0 +1,12 @@
+id_text,text_name,version,l_no,text
+etcsri/Q001946,Išme-Dagan 02,,1,sux:Išmedagan[1]RN
+etcsri/Q001946,Išme-Dagan 02,,2,sux:ua[provisioner]N sux:Nibru[1]SN
+etcsri/Q001946,Išme-Dagan 02,,3,sux:saŋus[constant]V/i
+etcsri/Q001946,Išme-Dagan 02,,4,sux:Urim[1]SN
+etcsri/Q001946,Išme-Dagan 02,,5,sux:ud[sun]N sux:gub[stand]V/i
+etcsri/Q001946,Išme-Dagan 02,,6,sux:Eridug[1]SN
+etcsri/Q001946,Išme-Dagan 02,,7,sux:en[priest]N sux:Unug[1]SN
+etcsri/Q001946,Išme-Dagan 02,,8,sux:lugal[king]N sux:kalag[strong]V/i
+etcsri/Q001946,Išme-Dagan 02,,9,sux:lugal[king]N sux:Isin[1]SN
+etcsri/Q001946,Išme-Dagan 02,,10,sux:lugal[king]N sux:Kiengir[1]GN sux:Akkad[1]GN
+etcsri/Q001946,Išme-Dagan 02,,11,sux:dam[spouse]N sux:ki[place]N sux:aŋ[measure]V/t

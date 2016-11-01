@@ -1,0 +1,18 @@
+id_text,text_name,version,l_no,text
+etcsri/Q001851,Ibbi-Suen 04,,o 1,sux:Nanna[1]DN sux:amar[young]N sux:banda[junior]V/i sux:An[1]DN
+etcsri/Q001851,Ibbi-Suen 04,,o 2,sux:en[lord]N sux:dumusaŋ[first-born]N sux:Enlil[1]DN
+etcsri/Q001851,Ibbi-Suen 04,,o 3,sux:lugal[king]N
+etcsri/Q001851,Ibbi-Suen 04,,o 4,sux:Ibbisuen[1]RN
+etcsri/Q001851,Ibbi-Suen 04,,o 5,sux:diŋir[deity]N sux:kalam[land]N
+etcsri/Q001851,Ibbi-Suen 04,,o 6,sux:lugal[king]N sux:kalag[strong]V/i
+etcsri/Q001851,Ibbi-Suen 04,,o 7,sux:lugal[king]N sux:Urim[1]SN
+etcsri/Q001851,Ibbi-Suen 04,,o 8,sux:lugal[king]N sux:anubda[quarter]N sux:limmu[four]NU
+etcsri/Q001851,Ibbi-Suen 04,,o 9,sux:ur[dog]N sux:gunu[speckled]V/i sux:Meluha[1]GN
+etcsri/Q001851,Ibbi-Suen 04,,o 10,sux:Marhaši[1]GN
+etcsri/Q001851,Ibbi-Suen 04,,o 11,sux:gun[load]N sux:tum[lead]V/t
+etcsri/Q001851,Ibbi-Suen 04,,r 1,sux:tamšilum[image]N
+etcsri/Q001851,Ibbi-Suen 04,,r 2,sux:dim[create]V/t
+etcsri/Q001851,Ibbi-Suen 04,,r 3,sux:namtil[life]N
+etcsri/Q001851,Ibbi-Suen 04,,r 4,sux:a[water]N sux:ru[cvve]V/t
+etcsri/Q001851,Ibbi-Suen 04,,r 5,sux:ur[dog]N sux:gunu[speckled]V/i
+etcsri/Q001851,Ibbi-Suen 04,,r 6,sux:dab[seize]V/t

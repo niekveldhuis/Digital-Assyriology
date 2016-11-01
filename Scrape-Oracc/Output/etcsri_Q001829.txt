@@ -1,0 +1,20 @@
+id_text,text_name,version,l_no,text
+etcsri/Q001829,Šu-Suen 32,,1,sux:Šusuen[1]RN
+etcsri/Q001829,Šu-Suen 32,,2,sux:lugal[king]N sux:kalag[strong]V/i
+etcsri/Q001829,Šu-Suen 32,,3,sux:lugal[king]N sux:Urim[1]SN
+etcsri/Q001829,Šu-Suen 32,,4,sux:lugal[king]N sux:anubda[quarter]N sux:limmu[four]NU
+etcsri/Q001829,Šu-Suen 32,,5,sux:Babati[1]PN
+etcsri/Q001829,Šu-Suen 32,,6,sux:bisaŋdubak[archivist]N
+etcsri/Q001829,Šu-Suen 32,,7,sux:šatam[official]N sux:lugal[king]N
+etcsri/Q001829,Šu-Suen 32,,8,sux:šakkanak[general]N
+etcsri/Q001829,Šu-Suen 32,,9,sux:Maškanšarrum[1]SN
+etcsri/Q001829,Šu-Suen 32,,10,sux:ensik[ruler]N
+etcsri/Q001829,Šu-Suen 32,,11,sux:Awal[1]SN
+etcsri/Q001829,Šu-Suen 32,,12,sux:šabra[administrator]N
+etcsri/Q001829,Šu-Suen 32,,13,sux:gugal[inspector]N
+etcsri/Q001829,Šu-Suen 32,,14,sux:mada[land]N sux:a[water]N sux:dug[speak]V/t
+etcsri/Q001829,Šu-Suen 32,,16,sux:Belatsuhnir[1]DN
+etcsri/Q001829,Šu-Suen 32,,17,sux:u[and]CNJ sux:Belatterraban[1]DN
+etcsri/Q001829,Šu-Suen 32,,18,sux:šeš[brother]N sux:Abisimti[1]PN
+etcsri/Q001829,Šu-Suen 32,,19,sux:ama[mother]N sux:ki[place]N sux:aŋ[measure]V/t
+etcsri/Q001829,Šu-Suen 32,,20,sux:arad[slave]N

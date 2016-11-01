@@ -1,0 +1,18 @@
+id_text,text_name,version,l_no,text
+etcsri/Q001581,Nammahni 06,,i 1,sux:Bau[1]DN
+etcsri/Q001581,Nammahni 06,,i 2,sux:munus[woman]N sux:sag[good]V/i
+etcsri/Q001581,Nammahni 06,,i 3,sux:dumu[child]N sux:An[1]DN
+etcsri/Q001581,Nammahni 06,,i 4,sux:nin[lady]N sux:Irikug[1]SN
+etcsri/Q001581,Nammahni 06,,i 5,sux:nin[lady]N
+etcsri/Q001581,Nammahni 06,,i 6,sux:namtil[life]N
+etcsri/Q001581,Nammahni 06,,i 7,sux:Nammahni[1]RN
+etcsri/Q001581,Nammahni 06,,i 8,sux:ensik[ruler]N
+etcsri/Q001581,Nammahni 06,,i 9,sux:Lagaš[1]SN
+etcsri/Q001581,Nammahni 06,,i 10,sux:Ninkagina[1]PN
+etcsri/Q001581,Nammahni 06,,ii 1,sux:amaʾatud[slave]N
+etcsri/Q001581,Nammahni 06,,ii 2,sux:lammar[deity]N sux:Tarsirsir[1]SN
+etcsri/Q001581,Nammahni 06,,ii 3,sux:kisal[courtyard]N sux:Bau[1]DN sux:kur[enter]V/i
+etcsri/Q001581,Nammahni 06,,ii 4,sux:alan[statue]N sux:nin[lady]N
+etcsri/Q001581,Nammahni 06,,ii 5,sux:ŋeštug[ear]N sux:rugu[withstand]V/t
+etcsri/Q001581,Nammahni 06,,ii 6,sux:siškur[prayer]N sux:dug[speak]V/t
+etcsri/Q001581,Nammahni 06,,ii 7,sux:nesaŋ[offering]N

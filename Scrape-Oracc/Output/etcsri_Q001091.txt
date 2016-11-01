@@ -1,0 +1,79 @@
+id_text,text_name,version,l_no,text
+etcsri/Q001091,En-metena 17,,shoulder i 1,sux:gana[field]N sux:Enanatumsurnanšeetaed[1]GN
+etcsri/Q001091,En-metena 17,,shoulder i 2,sux:gana[field]N sux:Nizuhšub[1]GN
+etcsri/Q001091,En-metena 17,,shoulder i 3,sux:gana[field]N sux:ambar[reed-bed]N sux:Niŋin[1]SN
+etcsri/Q001091,En-metena 17,,shoulder i 4,sux:par[canal]N sux:kug[pure]V/i sux:us[follow]V/i
+etcsri/Q001091,En-metena 17,,shoulder i 5,sux:gana[field]N sux:Enlil[1]DN
+etcsri/Q001091,En-metena 17,,shoulder ii 1,sux:gana[field]N sux:Guedenak[1]GN
+etcsri/Q001091,En-metena 17,,shoulder ii 2,sux:Enmetenak[1]RN
+etcsri/Q001091,En-metena 17,,shoulder ii 3,sux:ensik[ruler]N
+etcsri/Q001091,En-metena 17,,shoulder ii 4,sux:Lagaš[1]SN
+etcsri/Q001091,En-metena 17,,shoulder ii 5,sux:Enlil[1]DN
+etcsri/Q001091,En-metena 17,,shoulder ii 6,sux:Eaddak[1]TN
+etcsri/Q001091,En-metena 17,,shoulder ii 7,sux:ŋiri[dagger]N sux:du[build]V/t
+etcsri/Q001091,En-metena 17,,statue i 1,sux:Enlil[1]DN
+etcsri/Q001091,En-metena 17,,statue i 2,sux:Eaddak[1]TN
+etcsri/Q001091,En-metena 17,,statue i 3,sux:Enmetenak[1]RN
+etcsri/Q001091,En-metena 17,,statue i 4,sux:ensik[ruler]N
+etcsri/Q001091,En-metena 17,,statue i 5,sux:Lagaš[1]SN
+etcsri/Q001091,En-metena 17,,statue i 6,sux:šag[heart]N sux:pad[find]V/t
+etcsri/Q001091,En-metena 17,,statue i 7,sux:Nanše[1]DN
+etcsri/Q001091,En-metena 17,,statue i 8,sux:ensikgal[governor]N
+etcsri/Q001091,En-metena 17,,statue i 9,sux:Ninŋirsuk[1]DN
+etcsri/Q001091,En-metena 17,,statue i 10,sux:dumu[child]N sux:Enanatum[1]RN
+etcsri/Q001091,En-metena 17,,statue i 11,sux:ensik[ruler]N
+etcsri/Q001091,En-metena 17,,statue i 12,sux:Lagaš[1]SN
+etcsri/Q001091,En-metena 17,,statue i 13,sux:dumu.KA[relation]N
+etcsri/Q001091,En-metena 17,,statue i 14,sux:Urnanše[1]RN
+etcsri/Q001091,En-metena 17,,statue i 15,sux:lugal[king]N
+etcsri/Q001091,En-metena 17,,statue i 16,sux:Lagaš[1]SN
+etcsri/Q001091,En-metena 17,,statue i 17,sux:Ninŋirsuk[1]DN
+etcsri/Q001091,En-metena 17,,statue i 18,sux:eš[shrine]N sux:Dugru[1]GN
+etcsri/Q001091,En-metena 17,,statue i 19,sux:du[build]V/t
+etcsri/Q001091,En-metena 17,,statue i 20,sux:Ahuš[1]TN
+etcsri/Q001091,En-metena 17,,statue ii 1,sux:e[house]N sux:igi[eye]N sux:zid[right]V/i sux:bar[cvve]V/t
+etcsri/Q001091,En-metena 17,,statue ii 2,sux:du[build]V/t
+etcsri/Q001091,En-metena 17,,statue ii 3,sux:Lugalurubak[1]DN
+etcsri/Q001091,En-metena 17,,statue ii 4,sux:e[house]N sux:gal[big]V/i sux:Urub[1]SN
+etcsri/Q001091,En-metena 17,,statue ii 5,sux:du[build]V/t
+etcsri/Q001091,En-metena 17,,statue ii 6,sux:Nanše[1]DN
+etcsri/Q001091,En-metena 17,,statue ii 7,sux:Eʾengur[1]TN sux:Zulum[1]SN
+etcsri/Q001091,En-metena 17,,statue ii 8,sux:du[build]V/t
+etcsri/Q001091,En-metena 17,,statue ii 9,sux:Enkik[1]DN
+etcsri/Q001091,En-metena 17,,statue ii 10,sux:lugal[king]N sux:Eridug[1]SN
+etcsri/Q001091,En-metena 17,,statue ii 11,sux:Abzupasira[1]TN
+etcsri/Q001091,En-metena 17,,statue ii 12,sux:du[build]V/t
+etcsri/Q001091,En-metena 17,,statue ii 13,sux:Ninhursaŋak[1]DN
+etcsri/Q001091,En-metena 17,,statue ii 14,sux:giguna[terrace]N
+etcsri/Q001091,En-metena 17,,statue ii 15,sux:Tirkug[1]GN
+etcsri/Q001091,En-metena 17,,statue ii 16,sux:du[build]V/t
+etcsri/Q001091,En-metena 17,,statue ii 17,sux:Ninŋirsuk[1]DN
+etcsri/Q001091,En-metena 17,,statue ii 18,sux:Antasura[1]TN
+etcsri/Q001091,En-metena 17,,statue ii 19,sux:du[build]V/t
+etcsri/Q001091,En-metena 17,,statue ii 20,sux:Ešagepada[2]TN
+etcsri/Q001091,En-metena 17,,statue ii 21,sux:du[build]V/t
+etcsri/Q001091,En-metena 17,,statue ii 22,sux:e[house]N sux:Ŋatumdug[1]DN
+etcsri/Q001091,En-metena 17,,statue ii 23,sux:du[build]V/t
+etcsri/Q001091,En-metena 17,,statue iii 1,sux:Nanše[1]DN
+etcsri/Q001091,En-metena 17,,statue iii 2,sux:giguna[terrace]N sux:mah[great]V/i
+etcsri/Q001091,En-metena 17,,statue iii 3,sux:du[build]V/t
+etcsri/Q001091,En-metena 17,,statue iii 4,sux:e[house]N sux:ki[place]N sux:gi[turn]V/i
+etcsri/Q001091,En-metena 17,,statue iii 5,sux:Enlil[1]DN
+etcsri/Q001091,En-metena 17,,statue iii 6,sux:Eaddak[1]TN sux:Imsaŋ[1]GN
+etcsri/Q001091,En-metena 17,,statue iii 7,sux:du[build]V/t
+etcsri/Q001091,En-metena 17,,statue iii 8,sux:ud[sun]N sux:Enmetenak[1]RN
+etcsri/Q001091,En-metena 17,,statue iii 9,sux:alan[statue]N
+etcsri/Q001091,En-metena 17,,statue iii 10,sux:utud[bear]V/t
+etcsri/Q001091,En-metena 17,,statue iii 11,sux:Enmetenak[1]RN sux:Enlil[1]DN sux:ki[place]N sux:aŋ[measure]V/t
+etcsri/Q001091,En-metena 17,,statue iii 12,sux:mu[name]N sux:še[call]V/t
+etcsri/Q001091,En-metena 17,,statue iii 13,sux:Enlil[1]DN
+etcsri/Q001091,En-metena 17,,statue iii 14,sux:e[house]N
+etcsri/Q001091,En-metena 17,,statue iv 1,sux:kur[enter]V/i
+etcsri/Q001091,En-metena 17,,statue iv 2,sux:Enmetenak[1]RN
+etcsri/Q001091,En-metena 17,,statue iv 3,sux:lu[person]N sux:Eaddak[1]TN sux:du[build]V/t
+etcsri/Q001091,En-metena 17,,statue iv 4,sux:diŋir[deity]N
+etcsri/Q001091,En-metena 17,,statue iv 5,sux:Šul-MUŠ×PA[1]DN
+etcsri/Q001091,En-metena 17,,statue iv 6,sux:namtil[life]N
+etcsri/Q001091,En-metena 17,,statue iv 7,sux:Enmetenak[1]RN
+etcsri/Q001091,En-metena 17,,statue iv 8,sux:ud[sun]N sux:ul[distant]V/i
+etcsri/Q001091,En-metena 17,,statue iv 9,sux:Enlil[1]DN

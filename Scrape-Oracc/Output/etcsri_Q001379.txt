@@ -1,0 +1,132 @@
+id_text,text_name,version,l_no,text
+etcsri/Q001379,Lugal-zage-si 1,,i 1,sux:Enlil[1]DN
+etcsri/Q001379,Lugal-zage-si 1,,i 2,sux:lugal[king]N sux:kur[mountain]N
+etcsri/Q001379,Lugal-zage-si 1,,i 3,sux:Lugalzagesi[1]RN
+etcsri/Q001379,Lugal-zage-si 1,,i 4,sux:lugal[king]N sux:Unug[1]SN
+etcsri/Q001379,Lugal-zage-si 1,,i 5,sux:lugal[king]N sux:kalam[land]N
+etcsri/Q001379,Lugal-zage-si 1,,i 6,sux:išib[priest]N sux:An[1]DN
+etcsri/Q001379,Lugal-zage-si 1,,i 7,sux:lumah[priest]N
+etcsri/Q001379,Lugal-zage-si 1,,i 8,sux:Nisabak[1]DN
+etcsri/Q001379,Lugal-zage-si 1,,i 9,sux:dumu[child]N sux:Bubu[1]RN
+etcsri/Q001379,Lugal-zage-si 1,,i 10,sux:ensik[ruler]N sux:Umma[1]SN
+etcsri/Q001379,Lugal-zage-si 1,,i 11,sux:lumah[priest]N
+etcsri/Q001379,Lugal-zage-si 1,,i 12,sux:Nisabak[1]DN
+etcsri/Q001379,Lugal-zage-si 1,,i 13,sux:igi[eye]N sux:zid[right]V/i sux:bar[cvve]V/t
+etcsri/Q001379,Lugal-zage-si 1,,i 14,sux:An[1]DN sux:lugal[king]N sux:kur[mountain]N
+etcsri/Q001379,Lugal-zage-si 1,,i 15,sux:ensikgal[governor]N
+etcsri/Q001379,Lugal-zage-si 1,,i 16,sux:Enlil[1]DN
+etcsri/Q001379,Lugal-zage-si 1,,i 17,sux:ŋeštug[ear]N sux:šum[give]V/t
+etcsri/Q001379,Lugal-zage-si 1,,i 18,sux:Enkik[1]DN
+etcsri/Q001379,Lugal-zage-si 1,,i 19,sux:mu[name]N sux:pad[find]V/t
+etcsri/Q001379,Lugal-zage-si 1,,i 20,sux:Utu[1]DN
+etcsri/Q001379,Lugal-zage-si 1,,i 21,sux:sukkalmah[official]N
+etcsri/Q001379,Lugal-zage-si 1,,i 22,sux:Suen[1]DN
+etcsri/Q001379,Lugal-zage-si 1,,i 23,sux:šakkanak[general]N
+etcsri/Q001379,Lugal-zage-si 1,,i 24,sux:Utu[1]DN
+etcsri/Q001379,Lugal-zage-si 1,,i 25,sux:ua[provisioner]N sux:Inanak[1]DN
+etcsri/Q001379,Lugal-zage-si 1,,i 26,sux:dumu[child]N sux:utud[bear]V/t
+etcsri/Q001379,Lugal-zage-si 1,,i 27,sux:Nisabak[1]DN
+etcsri/Q001379,Lugal-zage-si 1,,i 28,sux:ga[milk]N sux:zid[right]V/i sux:gu[eat]V/t
+etcsri/Q001379,Lugal-zage-si 1,,i 29,sux:Ninhursaŋak[1]DN
+etcsri/Q001379,Lugal-zage-si 1,,i 30,sux:lu[person]N sux:Mešsaŋŋaunugak[1]DN
+etcsri/Q001379,Lugal-zage-si 1,,i 31,sux:saŋ[head]N sux:a[arm]N sux:e[leave]V/i
+etcsri/Q001379,Lugal-zage-si 1,,i 32,sux:Ningirim[1]DN
+etcsri/Q001379,Lugal-zage-si 1,,i 33,sux:nin[lady]N sux:Unug[1]SN
+etcsri/Q001379,Lugal-zage-si 1,,i 34,sux:agrig[steward]N sux:mah[great]V/i
+etcsri/Q001379,Lugal-zage-si 1,,i 35,sux:diŋir[deity]N
+etcsri/Q001379,Lugal-zage-si 1,,i 36,sux:ud[sun]N sux:Enlil[1]DN
+etcsri/Q001379,Lugal-zage-si 1,,i 37,sux:lugal[king]N sux:kur[mountain]N
+etcsri/Q001379,Lugal-zage-si 1,,i 38,sux:Lugalzagesi[1]RN
+etcsri/Q001379,Lugal-zage-si 1,,i 39,sux:namlugal[kingship]N
+etcsri/Q001379,Lugal-zage-si 1,,i 40,sux:kalam[land]N
+etcsri/Q001379,Lugal-zage-si 1,,i 41,sux:šum[give]V/t
+etcsri/Q001379,Lugal-zage-si 1,,i 42,sux:igi[face]N sux:kalam[land]N
+etcsri/Q001379,Lugal-zage-si 1,,i 43,sux:si[horn]N sux:sa[equal]V/t
+etcsri/Q001379,Lugal-zage-si 1,,i 44,sux:kur[mountain]N sux:ŋiri[foot]N
+etcsri/Q001379,Lugal-zage-si 1,,i 45,sux:sig[put]V/t
+etcsri/Q001379,Lugal-zage-si 1,,i 46,sux:utuʾe[sunrise]N
+etcsri/Q001379,Lugal-zage-si 1,,ii 1,sux:utušuš[sunset]N
+etcsri/Q001379,Lugal-zage-si 1,,ii 2,sux:gu[neck]N sux:ŋar[place]V/t
+etcsri/Q001379,Lugal-zage-si 1,,ii 3,sux:ud[sun]N
+etcsri/Q001379,Lugal-zage-si 1,,ii 4,sux:aʾabak[sea]N
+etcsri/Q001379,Lugal-zage-si 1,,ii 5,sux:sig[weak]V/i
+etcsri/Q001379,Lugal-zage-si 1,,ii 6,sux:Idigna[1]WN
+etcsri/Q001379,Lugal-zage-si 1,,ii 7,sux:Buranun[1]WN
+etcsri/Q001379,Lugal-zage-si 1,,ii 8,sux:aʾabak[sea]N
+etcsri/Q001379,Lugal-zage-si 1,,ii 9,sux:iginim[land]N
+etcsri/Q001379,Lugal-zage-si 1,,ii 10,sux:ŋiri[foot]N
+etcsri/Q001379,Lugal-zage-si 1,,ii 11,sux:si[horn]N sux:sa[equal]V/t
+etcsri/Q001379,Lugal-zage-si 1,,ii 12,sux:utuʾe[sunrise]N
+etcsri/Q001379,Lugal-zage-si 1,,ii 13,sux:utušuš[sunset]N
+etcsri/Q001379,Lugal-zage-si 1,,ii 14,sux:Enlil[1]DN
+etcsri/Q001379,Lugal-zage-si 1,,ii 15,sux:gabašuŋar[rival]N
+etcsri/Q001379,Lugal-zage-si 1,,ii 16,sux:tuku[acquire]V/t
+etcsri/Q001379,Lugal-zage-si 1,,ii 17,sux:kur[mountain]N sux:usal[meadow]N
+etcsri/Q001379,Lugal-zage-si 1,,ii 18,sux:nud[lie]V/i
+etcsri/Q001379,Lugal-zage-si 1,,ii 19,sux:kalam[land]N
+etcsri/Q001379,Lugal-zage-si 1,,ii 20,sux:ene[pleasure]N sux:hul[rejoice]V/i sux:dug[speak]V/t
+etcsri/Q001379,Lugal-zage-si 1,,ii 21,sux:barag[dais]N sux:Kiengir[1]GN
+etcsri/Q001379,Lugal-zage-si 1,,ii 22,sux:ensik[ruler]N sux:kur[mountain]N
+etcsri/Q001379,Lugal-zage-si 1,,ii 23,sux:ki[place]N sux:Unug[1]SN
+etcsri/Q001379,Lugal-zage-si 1,,ii 24,sux:me[being]N sux:namnun[magnificence]N
+etcsri/Q001379,Lugal-zage-si 1,,ii 25,sux:gurum[bend]V/t
+etcsri/Q001379,Lugal-zage-si 1,,ii 26,sux:ud[sun]N
+etcsri/Q001379,Lugal-zage-si 1,,ii 27,sux:Unug[1]SN
+etcsri/Q001379,Lugal-zage-si 1,,ii 28,sux:girizal[joy]N
+etcsri/Q001379,Lugal-zage-si 1,,ii 29,sux:ud[sun]N sux:zal[pass]V/i
+etcsri/Q001379,Lugal-zage-si 1,,ii 30,sux:Urim[1]SN
+etcsri/Q001379,Lugal-zage-si 1,,ii 31,sux:gud[ox]N sux:saŋ[head]N sux:an[sky]N
+etcsri/Q001379,Lugal-zage-si 1,,ii 32,sux:il[raise]V/t
+etcsri/Q001379,Lugal-zage-si 1,,ii 33,sux:Larsam[1]SN
+etcsri/Q001379,Lugal-zage-si 1,,ii 34,sux:iri[city]N sux:ki[place]N sux:aŋ[measure]V/t
+etcsri/Q001379,Lugal-zage-si 1,,ii 35,sux:Utu[1]DN
+etcsri/Q001379,Lugal-zage-si 1,,ii 36,sux:ene[pleasure]N sux:hul[rejoice]V/i
+etcsri/Q001379,Lugal-zage-si 1,,ii 37,sux:dug[speak]V/t
+etcsri/Q001379,Lugal-zage-si 1,,ii 38,sux:Umma[1]SN
+etcsri/Q001379,Lugal-zage-si 1,,ii 39,sux:iri[city]N sux:ki[place]N sux:aŋ[measure]V/t
+etcsri/Q001379,Lugal-zage-si 1,,ii 40,sux:Šara[1]DN
+etcsri/Q001379,Lugal-zage-si 1,,ii 41,sux:a[arm]N sux:mah[great]V/i
+etcsri/Q001379,Lugal-zage-si 1,,ii 42,sux:il[raise]V/t
+etcsri/Q001379,Lugal-zage-si 1,,ii 43,sux:ki[place]N sux:Zabala[1]SN
+etcsri/Q001379,Lugal-zage-si 1,,ii 44,sux:u[ewe]N sux:sila[lamb]N sux:kud[cut]V/t
+etcsri/Q001379,Lugal-zage-si 1,,ii 45,sux:šeg[voice]N sux:gi[turn]V/i
+etcsri/Q001379,Lugal-zage-si 1,,ii 46,sux:Kian[1]SN
+etcsri/Q001379,Lugal-zage-si 1,,iii 1,sux:gu[neck]N sux:an[sky]N
+etcsri/Q001379,Lugal-zage-si 1,,iii 2,sux:zig[rise]V/i
+etcsri/Q001379,Lugal-zage-si 1,,iii 3,sux:Lugalzagesi[1]RN
+etcsri/Q001379,Lugal-zage-si 1,,iii 4,sux:lugal[king]N sux:Unug[1]SN
+etcsri/Q001379,Lugal-zage-si 1,,iii 5,sux:lugal[king]N sux:kalam[land]N
+etcsri/Q001379,Lugal-zage-si 1,,iii 6,sux:kiŋsig[meal]N sux:kiŋnim[meal]N
+etcsri/Q001379,Lugal-zage-si 1,,iii 7,sux:Enlil[1]DN
+etcsri/Q001379,Lugal-zage-si 1,,iii 8,sux:lugal[king]N
+etcsri/Q001379,Lugal-zage-si 1,,iii 9,sux:Nibru[1]SN
+etcsri/Q001379,Lugal-zage-si 1,,iii 10,sux:nindaba[offering]N sux:gal[big]V/i
+etcsri/Q001379,Lugal-zage-si 1,,iii 11,sux:sud[distant]V/i
+etcsri/Q001379,Lugal-zage-si 1,,iii 12,sux:a[water]N sux:dug[good]V/i sux:de[pour]V/t
+etcsri/Q001379,Lugal-zage-si 1,,iii 13,sux:tukum[if]CNJ
+etcsri/Q001379,Lugal-zage-si 1,,iii 14,sux:Enlil[1]DN
+etcsri/Q001379,Lugal-zage-si 1,,iii 15,sux:lugal[king]N sux:kur[mountain]N
+etcsri/Q001379,Lugal-zage-si 1,,iii 16,sux:An[1]DN sux:aya[father]N sux:ki[place]N sux:aŋ[measure]V/t
+etcsri/Q001379,Lugal-zage-si 1,,iii 17,sux:namšita[prayer]N
+etcsri/Q001379,Lugal-zage-si 1,,iii 18,sux:dug[speak]V/t
+etcsri/Q001379,Lugal-zage-si 1,,iii 19,sux:namtil[life]N
+etcsri/Q001379,Lugal-zage-si 1,,iii 20,sux:namtil[life]N
+etcsri/Q001379,Lugal-zage-si 1,,iii 21,sux:tah[add]V/t
+etcsri/Q001379,Lugal-zage-si 1,,iii 22,sux:kur[mountain]N sux:usal[meadow]N
+etcsri/Q001379,Lugal-zage-si 1,,iii 23,sux:nud[lie]V/i
+etcsri/Q001379,Lugal-zage-si 1,,iii 24,sux:nam[fate]N sux:lu[person]N
+etcsri/Q001379,Lugal-zage-si 1,,iii 25,sux:ušim[greenery]N
+etcsri/Q001379,Lugal-zage-si 1,,iii 26,sux:šu[hand]N sux:daŋal[wide]V/i sux:dug[speak]V/t
+etcsri/Q001379,Lugal-zage-si 1,,iii 27,sux:ubur[breast]N sux:an[sky]N
+etcsri/Q001379,Lugal-zage-si 1,,iii 28,sux:si[horn]N sux:sa[equal]V/t
+etcsri/Q001379,Lugal-zage-si 1,,iii 29,sux:kalam[land]N
+etcsri/Q001379,Lugal-zage-si 1,,iii 30,sux:ki[place]N sux:sag[good]V/i
+etcsri/Q001379,Lugal-zage-si 1,,iii 31,sux:igi[eye]N sux:duh[loosen]V/t
+etcsri/Q001379,Lugal-zage-si 1,,iii 32,sux:nam[fate]N sux:sag[good]V/i
+etcsri/Q001379,Lugal-zage-si 1,,iii 33,sux:tar[cut]V/t
+etcsri/Q001379,Lugal-zage-si 1,,iii 34,sux:šu[hand]N sux:bala[turn]V/t
+etcsri/Q001379,Lugal-zage-si 1,,iii 35,sux:sipad[shepherd]N sux:saŋguŋal[proud]V/i
+etcsri/Q001379,Lugal-zage-si 1,,iii 36,sux:dari[eternal]V/i sux:me[be]V/i
+etcsri/Q001379,Lugal-zage-si 1,,iii 37,sux:namtil[life]N
+etcsri/Q001379,Lugal-zage-si 1,,iii 38,sux:Enlil[1]DN
+etcsri/Q001379,Lugal-zage-si 1,,iii 39,sux:lugal[king]N sux:ki[place]N sux:aŋ[measure]V/t

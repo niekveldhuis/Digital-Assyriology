@@ -1,0 +1,8 @@
+id_text,text_name,version,l_no,text
+etcsri/X002172,Šu-Suen 2172add,,i 1,sux:Šusuen[1]RN
+etcsri/X002172,Šu-Suen 2172add,,i 2,sux:lugal[king]N sux:kalag[strong]V/i
+etcsri/X002172,Šu-Suen 2172add,,i 3,sux:lugal[king]N sux:Urim[1]SN
+etcsri/X002172,Šu-Suen 2172add,,i 4,sux:lugal[king]N sux:anubda[quarter]N sux:limmu[four]NU
+etcsri/X002172,Šu-Suen 2172add,,ii 1,sux:Gudea[1]PN sux:sukkal[secretary]N
+etcsri/X002172,Šu-Suen 2172add,,ii 2,sux:dumu[child]N sux:Gududu[2]PN
+etcsri/X002172,Šu-Suen 2172add,,ii 3,sux:sukkal[secretary]N sux:lugal[king]N

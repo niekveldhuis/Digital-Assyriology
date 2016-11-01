@@ -1,0 +1,11 @@
+id_text,text_name,version,l_no,text
+etcsri/Q001106,En-metena 25,,i 1',sux:Nanše[1]DN
+etcsri/Q001106,En-metena 25,,i 2',sux:Eʾengur[1]TN sux:Zulum[1]SN
+etcsri/Q001106,En-metena 25,,i 3',sux:du[build]V/t
+etcsri/Q001106,En-metena 25,,i 4',sux:Enkik[1]DN
+etcsri/Q001106,En-metena 25,,i 5',sux:lugal[king]N sux:Eridug[1]SN
+etcsri/Q001106,En-metena 25,,i 6',sux:Abzupasira[1]TN
+etcsri/Q001106,En-metena 25,,i 7',sux:du[build]V/t
+etcsri/Q001106,En-metena 25,,i 8',sux:Ninhursaŋak[1]DN
+etcsri/Q001106,En-metena 25,,ii 1',sux:šum[give]V/t
+etcsri/Q001106,En-metena 25,,ii 2',sux:bursaŋ[bowl]N sux:gub[stand]V/i

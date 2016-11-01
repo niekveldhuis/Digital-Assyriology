@@ -1,0 +1,9 @@
+id_text,text_name,version,l_no,text
+etcsri/Q001778,Šulgi 2050,,1,sux:X[1]DN
+etcsri/Q001778,Šulgi 2050,,2,sux:nin[lady]N
+etcsri/Q001778,Šulgi 2050,,3,sux:namtil[life]N
+etcsri/Q001778,Šulgi 2050,,4,sux:Šulgir[1]RN
+etcsri/Q001778,Šulgi 2050,,5,sux:nita[male]N sux:kalag[strong]V/i
+etcsri/Q001778,Šulgi 2050,,6,sux:lugal[king]N sux:Urim[1]SN
+etcsri/Q001778,Šulgi 2050,,7,sux:lugal[king]N sux:anubda[quarter]N sux:limmu[four]NU
+etcsri/Q001778,Šulgi 2050,,8,sux:X-kalama[1]PN

@@ -1,0 +1,6 @@
+id_text,text_name,version,l_no,text
+etcsri/Q004323,Šulgi 2105add,,i 1,sux:Šulgir[1]RN
+etcsri/Q004323,Šulgi 2105add,,i 2,sux:nita[male]N sux:kalag[strong]V/i
+etcsri/Q004323,Šulgi 2105add,,i 3,sux:lugal[king]N sux:Urim[1]SN
+etcsri/Q004323,Šulgi 2105add,,ii 1,sux:Naramili[2]PN
+etcsri/Q004323,Šulgi 2105add,,ii 2,sux:dumu[child]N sux:Nasag[3]PN

@@ -1,0 +1,29 @@
+id_text,text_name,version,l_no,text
+etcsri/Q001110,En-metena 02,,i 1,sux:Ninŋirsuk[1]DN
+etcsri/Q001110,En-metena 02,,i 2,sux:ursaŋ[hero]N sux:Enlil[1]DN
+etcsri/Q001110,En-metena 02,,i 3,sux:Enmetenak[1]RN
+etcsri/Q001110,En-metena 02,,i 4,sux:ensik[ruler]N
+etcsri/Q001110,En-metena 02,,i 5,sux:Lagaš[1]SN
+etcsri/Q001110,En-metena 02,,i 6,sux:šag[heart]N sux:pad[find]V/t
+etcsri/Q001110,En-metena 02,,ii 1,sux:Nanše[1]DN
+etcsri/Q001110,En-metena 02,,ii 2,sux:ensikgal[governor]N
+etcsri/Q001110,En-metena 02,,ii 3,sux:Ninŋirsuk[1]DN
+etcsri/Q001110,En-metena 02,,ii 4,sux:eg[levee]N sux:mah[great]V/i sux:kisura[border]N
+etcsri/Q001110,En-metena 02,,ii 5,sux:Enlil[1]DN
+etcsri/Q001110,En-metena 02,,ii 6,sux:Ninŋirsuk[1]DN sux:sur[press]V/t
+etcsri/Q001110,En-metena 02,,iii 1,sux:ak[do]V/t
+etcsri/Q001110,En-metena 02,,iii 2,sux:Enmetenak[1]RN
+etcsri/Q001110,En-metena 02,,iii 3,sux:lugal[king]N sux:ki[place]N sux:aŋ[measure]V/t
+etcsri/Q001110,En-metena 02,,iii 4,sux:Ninŋirsuk[1]DN
+etcsri/Q001110,En-metena 02,,iii 5,sux:Idnun[1]WN
+etcsri/Q001110,En-metena 02,,iv 1,sux:Mubikura[1]GN
+etcsri/Q001110,En-metena 02,,iv 2,sux:e[leave]V/i
+etcsri/Q001110,En-metena 02,,iv 3,sux:narua[stele]N
+etcsri/Q001110,En-metena 02,,iv 4,sux:ašag[field]N sux:kisura[border]N
+etcsri/Q001110,En-metena 02,,iv 5,sux:Ninŋirsuk[1]DN
+etcsri/Q001110,En-metena 02,,iv 6,sux:du[build]V/t
+etcsri/Q001110,En-metena 02,,v 1,sux:Enmetenak[1]RN
+etcsri/Q001110,En-metena 02,,v 2,sux:lu[person]N sux:eg[levee]N sux:mah[great]V/i
+etcsri/Q001110,En-metena 02,,v 3,sux:Ninŋirsuk[1]DN
+etcsri/Q001110,En-metena 02,,v 4,sux:ak[do]V/t
+etcsri/Q001110,En-metena 02,,v 5,sux:diŋir[deity]N

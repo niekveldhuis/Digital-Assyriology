@@ -1,0 +1,32 @@
+id_text,text_name,version,l_no,text
+etcsri/Q001540,Gudea Statue A,,shoulder 1,sux:Gudea[1]RN
+etcsri/Q001540,Gudea Statue A,,shoulder 2,sux:ensik[ruler]N
+etcsri/Q001540,Gudea Statue A,,shoulder 3,sux:Lagaš[1]SN
+etcsri/Q001540,Gudea Statue A,,shoulder 4,sux:lu[person]N sux:Eninnu[1]TN
+etcsri/Q001540,Gudea Statue A,,shoulder 5,sux:Ninŋirsuk[1]DN
+etcsri/Q001540,Gudea Statue A,,shoulder 6,sux:du[build]V/t
+etcsri/Q001540,Gudea Statue A,,statue i 1,sux:Ninhursaŋak[1]DN
+etcsri/Q001540,Gudea Statue A,,statue i 2,sux:nin[lady]N sux:iri[city]N sux:mu[grow]V/t
+etcsri/Q001540,Gudea Statue A,,statue i 3,sux:ama[mother]N sux:dumu[child]N
+etcsri/Q001540,Gudea Statue A,,statue i 4,sux:nin[lady]N
+etcsri/Q001540,Gudea Statue A,,statue i 5,sux:Gudea[1]RN
+etcsri/Q001540,Gudea Statue A,,statue i 6,sux:ensik[ruler]N
+etcsri/Q001540,Gudea Statue A,,statue i 7,sux:Lagaš[1]SN
+etcsri/Q001540,Gudea Statue A,,statue i 8,sux:e[house]N sux:iri[city]N sux:Ŋirsu[1]SN
+etcsri/Q001540,Gudea Statue A,,statue i 9,sux:du[build]V/t
+etcsri/Q001540,Gudea Statue A,,statue ii 1,sux:dubšen[chest]N sux:kug[pure]V/i
+etcsri/Q001540,Gudea Statue A,,statue ii 2,sux:dim[create]V/t
+etcsri/Q001540,Gudea Statue A,,statue ii 3,sux:durŋar[chair]N sux:mah[great]V/i sux:namnin[ladyship]N
+etcsri/Q001540,Gudea Statue A,,statue ii 4,sux:dim[create]V/t
+etcsri/Q001540,Gudea Statue A,,statue ii 5,sux:e[house]N sux:mah[great]V/i sux:kur[enter]V/i
+etcsri/Q001540,Gudea Statue A,,statue ii 6,sux:kur[mountain]N sux:Magan[1]GN
+etcsri/Q001540,Gudea Statue A,,statue iii 1,sux:esi[diorite]N sux:ed[ascend]V/i
+etcsri/Q001540,Gudea Statue A,,statue iii 2,sux:alan[statue]N
+etcsri/Q001540,Gudea Statue A,,statue iii 3,sux:utud[bear]V/t
+etcsri/Q001540,Gudea Statue A,,statue iii 4,sux:nin[lady]N sux:an[sky]N sux:ki[place]N sux:nam[fate]N sux:tar[cut]V/t
+etcsri/Q001540,Gudea Statue A,,statue iii 5,sux:Nintur[1]DN
+etcsri/Q001540,Gudea Statue A,,statue iii 6,sux:ama[mother]N sux:diŋir[deity]N
+etcsri/Q001540,Gudea Statue A,,statue iii 7,sux:Gudea[1]RN
+etcsri/Q001540,Gudea Statue A,,statue iv 1,sux:lu[person]N sux:e[house]N sux:du[build]V/t
+etcsri/Q001540,Gudea Statue A,,statue iv 2,sux:namtil[life]N sux:sud[distant]V/i
+etcsri/Q001540,Gudea Statue A,,statue iv 3,sux:mu[name]N sux:še[call]V/t

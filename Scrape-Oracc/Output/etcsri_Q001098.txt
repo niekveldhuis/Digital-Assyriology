@@ -1,0 +1,44 @@
+id_text,text_name,version,l_no,text
+etcsri/Q001098,En-metena 16,,1,sux:Ninŋirsuk[1]DN
+etcsri/Q001098,En-metena 16,,2,sux:ursaŋ[hero]N sux:Enlil[1]DN
+etcsri/Q001098,En-metena 16,,3,sux:Enmetenak[1]RN
+etcsri/Q001098,En-metena 16,,4,sux:ensik[ruler]N
+etcsri/Q001098,En-metena 16,,5,sux:Lagaš[1]SN
+etcsri/Q001098,En-metena 16,,6,sux:dumu[child]N sux:Enanatum[1]RN
+etcsri/Q001098,En-metena 16,,7,sux:ensik[ruler]N
+etcsri/Q001098,En-metena 16,,8,sux:Lagaš[1]SN
+etcsri/Q001098,En-metena 16,,9,sux:eš[shrine]N sux:Dugru[1]GN
+etcsri/Q001098,En-metena 16,,10,sux:du[build]V/t
+etcsri/Q001098,En-metena 16,,11,sux:Ahuš[1]TN
+etcsri/Q001098,En-metena 16,,12,sux:e[house]N sux:igi[eye]N sux:zid[right]V/i sux:bar[cvve]V/t
+etcsri/Q001098,En-metena 16,,13,sux:du[build]V/t
+etcsri/Q001098,En-metena 16,,14,sux:Nanše[1]DN
+etcsri/Q001098,En-metena 16,,15,sux:Eʾengur[1]TN sux:Zulum[1]SN
+etcsri/Q001098,En-metena 16,,16,sux:du[build]V/t
+etcsri/Q001098,En-metena 16,,17,sux:giguna[terrace]N
+etcsri/Q001098,En-metena 16,,18,sux:du[build]V/t
+etcsri/Q001098,En-metena 16,,19,sux:Ešagepada[2]TN
+etcsri/Q001098,En-metena 16,,20,sux:du[build]V/t
+etcsri/Q001098,En-metena 16,,21,sux:Enlil[1]DN
+etcsri/Q001098,En-metena 16,,22-23,sux:Eaddak[1]TN sux:Imsaŋ[1]GN
+etcsri/Q001098,En-metena 16,,24,sux:du[build]V/t
+etcsri/Q001098,En-metena 16,,25,sux:e[house]N sux:Ŋatumdug[1]DN
+etcsri/Q001098,En-metena 16,,26,sux:du[build]V/t
+etcsri/Q001098,En-metena 16,,27,sux:e[house]N sux:Ninmah[1]DN
+etcsri/Q001098,En-metena 16,,28,sux:giguna[terrace]N
+etcsri/Q001098,En-metena 16,,29,sux:Tirkug[1]GN
+etcsri/Q001098,En-metena 16,,30,sux:du[build]V/t
+etcsri/Q001098,En-metena 16,,31,sux:Lugalurubak[1]DN
+etcsri/Q001098,En-metena 16,,32,sux:e[house]N sux:gal[big]V/i sux:Urub[1]SN
+etcsri/Q001098,En-metena 16,,33,sux:du[build]V/t
+etcsri/Q001098,En-metena 16,,34,sux:Enkik[1]DN
+etcsri/Q001098,En-metena 16,,35,sux:lugal[king]N sux:Eridug[1]SN
+etcsri/Q001098,En-metena 16,,36,sux:Abzupasira[1]TN
+etcsri/Q001098,En-metena 16,,37,sux:du[build]V/t
+etcsri/Q001098,En-metena 16,,38,sux:Ninŋirsuk[1]DN
+etcsri/Q001098,En-metena 16,,39,sux:Antasura[1]TN
+etcsri/Q001098,En-metena 16,,40,sux:e[house]N sux:melim[splendor]N sux:kur[mountain]N sux:dul[cover]V/i
+etcsri/Q001098,En-metena 16,,41,sux:du[build]V/t
+etcsri/Q001098,En-metena 16,,42,sux:Enmetenak[1]RN
+etcsri/Q001098,En-metena 16,,43,sux:lu[person]N sux:Antasura[1]TN sux:du[build]V/t
+etcsri/Q001098,En-metena 16,,44,sux:diŋir[deity]N

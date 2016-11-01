@@ -1,0 +1,17 @@
+id_text,text_name,version,l_no,text
+etcsri/Q001082,En-anatum I 11,,i 1',sux:Lagaš[1]SN
+etcsri/Q001082,En-anatum I 11,,i 2',sux:Enanatum[1]RN
+etcsri/Q001082,En-anatum I 11,,i 3',sux:ensik[ruler]N
+etcsri/Q001082,En-anatum I 11,,i 4',sux:Lagaš[1]SN
+etcsri/Q001082,En-anatum I 11,,ii 1',sux:Lagaš[1]SN
+etcsri/Q001082,En-anatum I 11,,ii 2',sux:ud[sun]N sux:Ninŋirsuk[1]DN
+etcsri/Q001082,En-anatum I 11,,ii 3',sux:mu[name]N sux:pad[find]V/t
+etcsri/Q001082,En-anatum I 11,,ii 4',sux:a[arm]N sux:šum[give]V/t
+etcsri/Q001082,En-anatum I 11,,ii 5',sux:kur[mountain]N sux:šu[hand]N
+etcsri/Q001082,En-anatum I 11,,ii 6',sux:ŋar[place]V/t
+etcsri/Q001082,En-anatum I 11,,iii 1',sux:mu[name]N sux:še[call]V/t
+etcsri/Q001082,En-anatum I 11,,iii 2',sux:Bau[1]DN
+etcsri/Q001082,En-anatum I 11,,iii 3',sux:munus[woman]N sux:sag[good]V/i
+etcsri/Q001082,En-anatum I 11,,iii 4',sux:e[house]N sux:kur[enter]V/i
+etcsri/Q001082,En-anatum I 11,,iv 2',sux:Bau[1]DN
+etcsri/Q001082,En-anatum I 11,,iv 3',sux:munus[woman]N sux:sag[good]V/i

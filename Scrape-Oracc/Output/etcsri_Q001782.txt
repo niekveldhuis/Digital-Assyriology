@@ -1,0 +1,8 @@
+id_text,text_name,version,l_no,text
+etcsri/Q001782,Šulgi 2054,,1',sux:Enlil[1]DN
+etcsri/Q001782,Šulgi 2054,,2',sux:lugal[king]N
+etcsri/Q001782,Šulgi 2054,,3',sux:kur[mountain]N
+etcsri/Q001782,Šulgi 2054,,4',sux:Ninlil[1]DN
+etcsri/Q001782,Šulgi 2054,,5',sux:nin[lady]N sux:kur[mountain]N
+etcsri/Q001782,Šulgi 2054,,6',sux:nam[fate]N sux:kud[cut]V/t
+etcsri/Q001782,Šulgi 2054,,colophon 1; 1,sux:musara[inscription]N

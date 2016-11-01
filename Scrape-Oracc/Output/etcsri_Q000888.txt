@@ -1,0 +1,8 @@
+id_text,text_name,version,l_no,text
+etcsri/Q000888,Gudea 002,,1,sux:Bau[1]DN
+etcsri/Q000888,Gudea 002,,2,sux:dumu[child]N sux:An[1]DN
+etcsri/Q000888,Gudea 002,,3,sux:nin[lady]N
+etcsri/Q000888,Gudea 002,,4,sux:Gudea[1]RN
+etcsri/Q000888,Gudea 002,,5,sux:ensik[ruler]N
+etcsri/Q000888,Gudea 002,,6,sux:Lagaš[1]SN
+etcsri/Q000888,Gudea 002,,7,sux:e[house]N sux:Irikug[1]SN

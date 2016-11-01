@@ -1,0 +1,13 @@
+id_text,text_name,version,l_no,text
+etcsri/Q005031,Išme-Dagan 2002add,,1,sux:Nergal[1]DN
+etcsri/Q005031,Išme-Dagan 2002add,,2,sux:Aldak[1]GN
+etcsri/Q005031,Išme-Dagan 2002add,,3,sux:lugal[king]N
+etcsri/Q005031,Išme-Dagan 2002add,,4,sux:namtil[life]N
+etcsri/Q005031,Išme-Dagan 2002add,,5,sux:Išmedagan[1]RN
+etcsri/Q005031,Išme-Dagan 2002add,,6,sux:lugal[king]N sux:kalag[strong]V/i
+etcsri/Q005031,Išme-Dagan 2002add,,7,sux:lugal[king]N sux:Isin[1]SN
+etcsri/Q005031,Išme-Dagan 2002add,,8,sux:lugal[king]N sux:Kiengir[1]GN sux:Akkad[1]GN
+etcsri/Q005031,Išme-Dagan 2002add,,9,sux:Waraderra[1]PN
+etcsri/Q005031,Išme-Dagan 2002add,,10,sux:gudug[priest]N sux:Nergal[1]DN
+etcsri/Q005031,Išme-Dagan 2002add,,11,sux:dumu[child]N sux:Adalal[6]PN sux:gudug[priest]N
+etcsri/Q005031,Išme-Dagan 2002add,,12,sux:arad[slave]N

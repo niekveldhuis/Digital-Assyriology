@@ -3,10 +3,10 @@ dcclt/Q000043,OB Nippur Ura 06,N 4808 [OB Nippur Ura],o i 1',sux:šim[aromatic
 dcclt/Q000043,OB Nippur Ura 06,N 4808 [OB Nippur Ura],o i 2',sux:šim[aromatics]N sux:arganum[conifer]N
 dcclt/Q000043,OB Nippur Ura 06,N 4808 [OB Nippur Ura],o i 3',sux:šim[aromatics]N sux:marguzum[bush]N
 dcclt/Q000043,OB Nippur Ura 06,N 4808 [OB Nippur Ura],o i 4',sux:šim[aromatics]N sux:damšelum[plant]N
-dcclt/Q000043,OB Nippur Ura 06,UM 55-21-271 (MSL 11, 112 E1) [OB Nippur Ura],o 1,sux:kaš[beer]N sux:šag[heart]N sux:gur[lift]V/t
-dcclt/Q000043,OB Nippur Ura 06,UM 55-21-271 (MSL 11, 112 E1) [OB Nippur Ura],o 2,sux:kaš[beer]N sux:edadi[flour]N
-dcclt/Q000043,OB Nippur Ura 06,UM 55-21-271 (MSL 11, 112 E1) [OB Nippur Ura],o 3,sux:kaš[beer]N sux:šag[heart]N sux:gur[lift]V/t
-dcclt/Q000043,OB Nippur Ura 06,UM 55-21-271 (MSL 11, 112 E1) [OB Nippur Ura],o 4,sux:kaš[beer]N sux:edadi[flour]N
+dcclt/Q000043,OB Nippur Ura 06,UM 55-21-271 (MSL 11 112 E1) [OB Nippur Ura],o 1,sux:kaš[beer]N sux:šag[heart]N sux:gur[lift]V/t
+dcclt/Q000043,OB Nippur Ura 06,UM 55-21-271 (MSL 11 112 E1) [OB Nippur Ura],o 2,sux:kaš[beer]N sux:edadi[flour]N
+dcclt/Q000043,OB Nippur Ura 06,UM 55-21-271 (MSL 11 112 E1) [OB Nippur Ura],o 3,sux:kaš[beer]N sux:šag[heart]N sux:gur[lift]V/t
+dcclt/Q000043,OB Nippur Ura 06,UM 55-21-271 (MSL 11 112 E1) [OB Nippur Ura],o 4,sux:kaš[beer]N sux:edadi[flour]N
 dcclt/Q000043,OB Nippur Ura 06,SLT 012 [OB Nippur Ura],o i 1,sux:a[water]N
 dcclt/Q000043,OB Nippur Ura 06,SLT 012 [OB Nippur Ura],o i 2,sux:ninda[bread]N
 dcclt/Q000043,OB Nippur Ura 06,SLT 012 [OB Nippur Ura],o i 3,sux:kaš[beer]N
@@ -218,18 +218,18 @@ dcclt/Q000043,OB Nippur Ura 06,CBS 08469 [Unidentified list],r ii 2,sux:tu[sou
 dcclt/Q000043,OB Nippur Ura 06,CBS 08469 [Unidentified list],r ii 3,sux:tu[soup]N
 dcclt/Q000043,OB Nippur Ura 06,CBS 08469 [Unidentified list],r ii 4,sux:tu[soup]N
 dcclt/Q000043,OB Nippur Ura 06,CBS 08469 [Unidentified list],r ii 5,sux:tu[soup]N
-dcclt/Q000043,OB Nippur Ura 06,SLFN 72, 3N-T906,225 [OB Nippur Ura],o i 2',sux:bappir[~beer]N sux:sumun[vessel]N
-dcclt/Q000043,OB Nippur Ura 06,SLFN 72, 3N-T906,225 [OB Nippur Ura],o i 3',sux:sumun[vessel]N sux:a[water]N sux:ŋar[place]V/t
-dcclt/Q000043,OB Nippur Ura 06,SLFN 72, 3N-T906,225 [OB Nippur Ura],o i 4',sux:sumun[vessel]N sux:a[water]N sux:sig[put]V/t
-dcclt/Q000043,OB Nippur Ura 06,SLFN 72, 3N-T906,225 [OB Nippur Ura],o i 5',sux:sumun[vessel]N sux:sur[press]V/t
-dcclt/Q000043,OB Nippur Ura 06,SLFN 72, 3N-T906,225 [OB Nippur Ura],o i 6',sux:titab[~beer]N
-dcclt/Q000043,OB Nippur Ura 06,SLFN 72, 3N-T906,225 [OB Nippur Ura],o ii 1',sux:kaš[beer]N
-dcclt/Q000043,OB Nippur Ura 06,SLFN 72, 3N-T906,225 [OB Nippur Ura],o ii 2',sux:kaš[beer]N
-dcclt/Q000043,OB Nippur Ura 06,SLFN 72, 3N-T906,225 [OB Nippur Ura],o ii 3',sux:kaš[beer]N sux:ud[sun]N sux:tab[double]V/t
-dcclt/Q000043,OB Nippur Ura 06,SLFN 72, 3N-T906,225 [OB Nippur Ura],o ii 4',sux:kaš[beer]N sux:ud[sun]N sux:sal[thin]V/i
-dcclt/Q000043,OB Nippur Ura 06,SLFN 72, 3N-T906,225 [OB Nippur Ura],o ii 5',sux:kaš[beer]N sux:saŋ[head]N
-dcclt/Q000043,OB Nippur Ura 06,SLFN 72, 3N-T906,225 [OB Nippur Ura],o ii 6',sux:kaš[beer]N sux:saŋ[head]N sux:ŋal[be]V/i
-dcclt/Q000043,OB Nippur Ura 06,SLFN 72, 3N-T906,225 [OB Nippur Ura],o ii 7',sux:kaš[beer]N
+dcclt/Q000043,OB Nippur Ura 06,SLFN 72 3N-T906225 [OB Nippur Ura],o i 2',sux:bappir[~beer]N sux:sumun[vessel]N
+dcclt/Q000043,OB Nippur Ura 06,SLFN 72 3N-T906225 [OB Nippur Ura],o i 3',sux:sumun[vessel]N sux:a[water]N sux:ŋar[place]V/t
+dcclt/Q000043,OB Nippur Ura 06,SLFN 72 3N-T906225 [OB Nippur Ura],o i 4',sux:sumun[vessel]N sux:a[water]N sux:sig[put]V/t
+dcclt/Q000043,OB Nippur Ura 06,SLFN 72 3N-T906225 [OB Nippur Ura],o i 5',sux:sumun[vessel]N sux:sur[press]V/t
+dcclt/Q000043,OB Nippur Ura 06,SLFN 72 3N-T906225 [OB Nippur Ura],o i 6',sux:titab[~beer]N
+dcclt/Q000043,OB Nippur Ura 06,SLFN 72 3N-T906225 [OB Nippur Ura],o ii 1',sux:kaš[beer]N
+dcclt/Q000043,OB Nippur Ura 06,SLFN 72 3N-T906225 [OB Nippur Ura],o ii 2',sux:kaš[beer]N
+dcclt/Q000043,OB Nippur Ura 06,SLFN 72 3N-T906225 [OB Nippur Ura],o ii 3',sux:kaš[beer]N sux:ud[sun]N sux:tab[double]V/t
+dcclt/Q000043,OB Nippur Ura 06,SLFN 72 3N-T906225 [OB Nippur Ura],o ii 4',sux:kaš[beer]N sux:ud[sun]N sux:sal[thin]V/i
+dcclt/Q000043,OB Nippur Ura 06,SLFN 72 3N-T906225 [OB Nippur Ura],o ii 5',sux:kaš[beer]N sux:saŋ[head]N
+dcclt/Q000043,OB Nippur Ura 06,SLFN 72 3N-T906225 [OB Nippur Ura],o ii 6',sux:kaš[beer]N sux:saŋ[head]N sux:ŋal[be]V/i
+dcclt/Q000043,OB Nippur Ura 06,SLFN 72 3N-T906225 [OB Nippur Ura],o ii 7',sux:kaš[beer]N
 dcclt/Q000043,OB Nippur Ura 06,CBS 15051 [OB Nippur Ura],o i 1',sux:ninda[bread]N
 dcclt/Q000043,OB Nippur Ura 06,CBS 15051 [OB Nippur Ura],o i 2',sux:nindaʾidea[bread]N sux:inun[ghee]N
 dcclt/Q000043,OB Nippur Ura 06,CBS 15051 [OB Nippur Ura],o i 3',sux:nindaʾidea[bread]N sux:i[oil]N sux:šah[pig]N
@@ -242,33 +242,33 @@ dcclt/Q000043,OB Nippur Ura 06,CBS 15051 [OB Nippur Ura],o i 9',sux:ninda[brea
 dcclt/Q000043,OB Nippur Ura 06,CBS 15051 [OB Nippur Ura],o i 10',sux:ninda[bread]N sux:kisiga[offerings]N
 dcclt/Q000043,OB Nippur Ura 06,CBS 15051 [OB Nippur Ura],o i 11',sux:ninda[bread]N sux:kiʾana[locus]N
 dcclt/Q000043,OB Nippur Ura 06,CBS 15051 [OB Nippur Ura],o i 12',sux:ninda[bread]N sux:ki[place]N
-dcclt/Q000043,OB Nippur Ura 06,PBS 11/1, p.86, CBS 05883 [OB Nippur Ura],o i 1,sux:bappir[~beer]N
-dcclt/Q000043,OB Nippur Ura 06,PBS 11/1, p.86, CBS 05883 [OB Nippur Ura],o i 2,sux:bappir[~beer]N
-dcclt/Q000043,OB Nippur Ura 06,PBS 11/1, p.86, CBS 05883 [OB Nippur Ura],o i 3,sux:bappir[~beer]N sux:duru[wet]V/i
-dcclt/Q000043,OB Nippur Ura 06,PBS 11/1, p.86, CBS 05883 [OB Nippur Ura],o i 4,sux:bappir[~beer]N
-dcclt/Q000043,OB Nippur Ura 06,PBS 11/1, p.86, CBS 05883 [OB Nippur Ura],o i 1',sux:sumun[vessel]N
-dcclt/Q000043,OB Nippur Ura 06,PBS 11/1, p.86, CBS 05883 [OB Nippur Ura],o i 2',sux:sumun[vessel]N sux:a[water]N sux:ŋar[place]V/t
-dcclt/Q000043,OB Nippur Ura 06,PBS 11/1, p.86, CBS 05883 [OB Nippur Ura],o i 3',sux:sumun[vessel]N sux:a[water]N sux:sig[put]V/t
-dcclt/Q000043,OB Nippur Ura 06,PBS 11/1, p.86, CBS 05883 [OB Nippur Ura],o i 4',sux:sumun[vessel]N sux:sur[press]V/t
-dcclt/Q000043,OB Nippur Ura 06,PBS 11/1, p.86, CBS 05883 [OB Nippur Ura],o i 5',sux:sumun[vessel]N sux:zulum[date]N sux:hi[mix]V/t
-dcclt/Q000043,OB Nippur Ura 06,PBS 11/1, p.86, CBS 05883 [OB Nippur Ura],o i 6',sux:titab[~beer]N
-dcclt/Q000043,OB Nippur Ura 06,PBS 11/1, p.86, CBS 05883 [OB Nippur Ura],o i 7',sux:zid[flour]N sux:munu[malt]N
-dcclt/Q000043,OB Nippur Ura 06,PBS 11/1, p.86, CBS 05883 [OB Nippur Ura],o i 8',sux:munu[malt]N
-dcclt/Q000043,OB Nippur Ura 06,PBS 11/1, p.86, CBS 05883 [OB Nippur Ura],o i 9',sux:munu[malt]N sux:si[horn]N sux:e[leave]V/i
-dcclt/Q000043,OB Nippur Ura 06,PBS 11/1, p.86, CBS 05883 [OB Nippur Ura],o i 10',sux:munu[malt]N sux:duru[wet]V/i
-dcclt/Q000043,OB Nippur Ura 06,PBS 11/1, p.86, CBS 05883 [OB Nippur Ura],o i 11',sux:munu[malt]N sux:ah[dry]V/i
-dcclt/Q000043,OB Nippur Ura 06,PBS 11/1, p.86, CBS 05883 [OB Nippur Ura],o i 12',sux:munu[malt]N
-dcclt/Q000043,OB Nippur Ura 06,N 6252 (MSL 11, 095 I1) [OB Nippur Ura],o i 1,sux:kaš[beer]N sux:šag[heart]N sux:gur[lift]V/t
-dcclt/Q000043,OB Nippur Ura 06,N 6252 (MSL 11, 095 I1) [OB Nippur Ura],o i 2,sux:kaš[beer]N sux:marah[unmng]N
-dcclt/Q000043,OB Nippur Ura 06,N 6252 (MSL 11, 095 I1) [OB Nippur Ura],o i 3,sux:kaš[beer]N sux:huš[reddish]V/i
-dcclt/Q000043,OB Nippur Ura 06,N 6252 (MSL 11, 095 I1) [OB Nippur Ura],o i 4,sux:kaš[beer]N sux:še[barley]N sux:sa[roast]V/t
-dcclt/Q000043,OB Nippur Ura 06,N 6252 (MSL 11, 095 I1) [OB Nippur Ura],o i 5,sux:kašbir[beer]N
-dcclt/Q000043,OB Nippur Ura 06,N 6252 (MSL 11, 095 I1) [OB Nippur Ura],o i 6,sux:kašbir[beer]N
-dcclt/Q000043,OB Nippur Ura 06,N 6252 (MSL 11, 095 I1) [OB Nippur Ura],o i 7,sux:kaš[beer]N sux:kurun[beer]N
-dcclt/Q000043,OB Nippur Ura 06,N 6252 (MSL 11, 095 I1) [OB Nippur Ura],o i 8,sux:kaš[beer]N sux:kurun[beer]N sux:babbar[white]V/i
-dcclt/Q000043,OB Nippur Ura 06,N 6252 (MSL 11, 095 I1) [OB Nippur Ura],o i 9,sux:kaš[beer]N sux:kurun[beer]N sux:imin[seven]NU sux:sila[unit]N
-dcclt/Q000043,OB Nippur Ura 06,N 6252 (MSL 11, 095 I1) [OB Nippur Ura],o i 10,sux:kurun[beer]N
-dcclt/Q000043,OB Nippur Ura 06,N 6252 (MSL 11, 095 I1) [OB Nippur Ura],o i 11,sux:kaš[beer]N sux:mah[great]V/i
+dcclt/Q000043,OB Nippur Ura 06,PBS 11/1 p.86 CBS 05883 [OB Nippur Ura],o i 1,sux:bappir[~beer]N
+dcclt/Q000043,OB Nippur Ura 06,PBS 11/1 p.86 CBS 05883 [OB Nippur Ura],o i 2,sux:bappir[~beer]N
+dcclt/Q000043,OB Nippur Ura 06,PBS 11/1 p.86 CBS 05883 [OB Nippur Ura],o i 3,sux:bappir[~beer]N sux:duru[wet]V/i
+dcclt/Q000043,OB Nippur Ura 06,PBS 11/1 p.86 CBS 05883 [OB Nippur Ura],o i 4,sux:bappir[~beer]N
+dcclt/Q000043,OB Nippur Ura 06,PBS 11/1 p.86 CBS 05883 [OB Nippur Ura],o i 1',sux:sumun[vessel]N
+dcclt/Q000043,OB Nippur Ura 06,PBS 11/1 p.86 CBS 05883 [OB Nippur Ura],o i 2',sux:sumun[vessel]N sux:a[water]N sux:ŋar[place]V/t
+dcclt/Q000043,OB Nippur Ura 06,PBS 11/1 p.86 CBS 05883 [OB Nippur Ura],o i 3',sux:sumun[vessel]N sux:a[water]N sux:sig[put]V/t
+dcclt/Q000043,OB Nippur Ura 06,PBS 11/1 p.86 CBS 05883 [OB Nippur Ura],o i 4',sux:sumun[vessel]N sux:sur[press]V/t
+dcclt/Q000043,OB Nippur Ura 06,PBS 11/1 p.86 CBS 05883 [OB Nippur Ura],o i 5',sux:sumun[vessel]N sux:zulum[date]N sux:hi[mix]V/t
+dcclt/Q000043,OB Nippur Ura 06,PBS 11/1 p.86 CBS 05883 [OB Nippur Ura],o i 6',sux:titab[~beer]N
+dcclt/Q000043,OB Nippur Ura 06,PBS 11/1 p.86 CBS 05883 [OB Nippur Ura],o i 7',sux:zid[flour]N sux:munu[malt]N
+dcclt/Q000043,OB Nippur Ura 06,PBS 11/1 p.86 CBS 05883 [OB Nippur Ura],o i 8',sux:munu[malt]N
+dcclt/Q000043,OB Nippur Ura 06,PBS 11/1 p.86 CBS 05883 [OB Nippur Ura],o i 9',sux:munu[malt]N sux:si[horn]N sux:e[leave]V/i
+dcclt/Q000043,OB Nippur Ura 06,PBS 11/1 p.86 CBS 05883 [OB Nippur Ura],o i 10',sux:munu[malt]N sux:duru[wet]V/i
+dcclt/Q000043,OB Nippur Ura 06,PBS 11/1 p.86 CBS 05883 [OB Nippur Ura],o i 11',sux:munu[malt]N sux:ah[dry]V/i
+dcclt/Q000043,OB Nippur Ura 06,PBS 11/1 p.86 CBS 05883 [OB Nippur Ura],o i 12',sux:munu[malt]N
+dcclt/Q000043,OB Nippur Ura 06,N 6252 (MSL 11 095 I1) [OB Nippur Ura],o i 1,sux:kaš[beer]N sux:šag[heart]N sux:gur[lift]V/t
+dcclt/Q000043,OB Nippur Ura 06,N 6252 (MSL 11 095 I1) [OB Nippur Ura],o i 2,sux:kaš[beer]N sux:marah[unmng]N
+dcclt/Q000043,OB Nippur Ura 06,N 6252 (MSL 11 095 I1) [OB Nippur Ura],o i 3,sux:kaš[beer]N sux:huš[reddish]V/i
+dcclt/Q000043,OB Nippur Ura 06,N 6252 (MSL 11 095 I1) [OB Nippur Ura],o i 4,sux:kaš[beer]N sux:še[barley]N sux:sa[roast]V/t
+dcclt/Q000043,OB Nippur Ura 06,N 6252 (MSL 11 095 I1) [OB Nippur Ura],o i 5,sux:kašbir[beer]N
+dcclt/Q000043,OB Nippur Ura 06,N 6252 (MSL 11 095 I1) [OB Nippur Ura],o i 6,sux:kašbir[beer]N
+dcclt/Q000043,OB Nippur Ura 06,N 6252 (MSL 11 095 I1) [OB Nippur Ura],o i 7,sux:kaš[beer]N sux:kurun[beer]N
+dcclt/Q000043,OB Nippur Ura 06,N 6252 (MSL 11 095 I1) [OB Nippur Ura],o i 8,sux:kaš[beer]N sux:kurun[beer]N sux:babbar[white]V/i
+dcclt/Q000043,OB Nippur Ura 06,N 6252 (MSL 11 095 I1) [OB Nippur Ura],o i 9,sux:kaš[beer]N sux:kurun[beer]N sux:imin[seven]NU sux:sila[unit]N
+dcclt/Q000043,OB Nippur Ura 06,N 6252 (MSL 11 095 I1) [OB Nippur Ura],o i 10,sux:kurun[beer]N
+dcclt/Q000043,OB Nippur Ura 06,N 6252 (MSL 11 095 I1) [OB Nippur Ura],o i 11,sux:kaš[beer]N sux:mah[great]V/i
 dcclt/Q000043,OB Nippur Ura 06,N 5629 [OB Nippur Ura],o i 1',sux:kaš[beer]N sux:kun[tail]N
 dcclt/Q000043,OB Nippur Ura 06,N 5629 [OB Nippur Ura],o i 2',sux:kaš[beer]N sux:Lullubi[1]GN
 dcclt/Q000043,OB Nippur Ura 06,N 5629 [OB Nippur Ura],o i 3',sux:kaš[beer]N sux:siškur[prayer]N
@@ -289,63 +289,63 @@ dcclt/Q000043,OB Nippur Ura 06,UM 55-21-393 [Obverse Not Preserved],r iii 5',s
 dcclt/Q000043,OB Nippur Ura 06,UM 55-21-393 [Obverse Not Preserved],r iii 6',sux:garan[bunch]N sux:hašhur[apple]N
 dcclt/Q000043,OB Nippur Ura 06,UM 55-21-393 [Obverse Not Preserved],r iii 7',sux:garan[bunch]N sux:peš[fig]N
 dcclt/Q000043,OB Nippur Ura 06,UM 55-21-393 [Obverse Not Preserved],r iii 8',sux:garan[bunch]N sux:nurma[pomegranate]N
-dcclt/Q000043,OB Nippur Ura 06,UM 29-15-641 (MSL 11, 112 W) [Obverse Not Preserved],o i 1',sux:še[barley]N sux:zar[sheaf]N
-dcclt/Q000043,OB Nippur Ura 06,UM 29-15-641 (MSL 11, 112 W) [Obverse Not Preserved],o i 2',sux:še[barley]N sux:zar[sheaf]N sux:tab[double]V/t
-dcclt/Q000043,OB Nippur Ura 06,UM 29-15-641 (MSL 11, 112 W) [Obverse Not Preserved],o i 3',sux:še[barley]N sux:zar[sheaf]N sux:sal[thin]V/i
-dcclt/Q000043,OB Nippur Ura 06,UM 29-15-641 (MSL 11, 112 W) [Obverse Not Preserved],o i 4',sux:še[barley]N sux:zar[sheaf]N sux:kešed[bind]V/t
-dcclt/Q000043,OB Nippur Ura 06,UM 29-15-641 (MSL 11, 112 W) [Obverse Not Preserved],o i 5',sux:še[barley]N sux:garadin[bundle]N
-dcclt/Q000043,OB Nippur Ura 06,UM 29-15-641 (MSL 11, 112 W) [Obverse Not Preserved],o i 6',sux:še[barley]N sux:kud[cut]V/t
-dcclt/Q000043,OB Nippur Ura 06,UM 29-15-641 (MSL 11, 112 W) [Obverse Not Preserved],o i 7',sux:še[barley]N sux:kud[cut]V/t
-dcclt/Q000043,OB Nippur Ura 06,UM 29-15-641 (MSL 11, 112 W) [Obverse Not Preserved],o i 8',sux:še[barley]N sux:us[follow]V/t
-dcclt/Q000043,OB Nippur Ura 06,UM 29-15-641 (MSL 11, 112 W) [Obverse Not Preserved],o i 9',sux:še[barley]N sux:us[follow]V/t
-dcclt/Q000043,OB Nippur Ura 06,UM 29-15-641 (MSL 11, 112 W) [Obverse Not Preserved],o i 10',sux:še[barley]N sux:nir[winnow]V/t
-dcclt/Q000043,OB Nippur Ura 06,UM 29-15-641 (MSL 11, 112 W) [Obverse Not Preserved],o i 11',sux:še[barley]N sux:nir[winnow]V/t
-dcclt/Q000043,OB Nippur Ura 06,UM 29-15-641 (MSL 11, 112 W) [Obverse Not Preserved],o ii 1',sux:še[barley]N
-dcclt/Q000043,OB Nippur Ura 06,UM 29-15-641 (MSL 11, 112 W) [Obverse Not Preserved],o ii 2',sux:še[barley]N sux:ŋeši[sesame]N
-dcclt/Q000043,OB Nippur Ura 06,UM 29-15-641 (MSL 11, 112 W) [Obverse Not Preserved],o ii 3',sux:še[barley]N sux:ŋeši[sesame]N
-dcclt/Q000043,OB Nippur Ura 06,UM 29-15-641 (MSL 11, 112 W) [Obverse Not Preserved],o ii 4',sux:še[barley]N sux:ŋeši[sesame]N
-dcclt/Q000043,OB Nippur Ura 06,UM 29-15-641 (MSL 11, 112 W) [Obverse Not Preserved],o ii 5',sux:še[barley]N sux:ŋeši[sesame]N
-dcclt/Q000043,OB Nippur Ura 06,UM 29-15-641 (MSL 11, 112 W) [Obverse Not Preserved],o ii 6',sux:še[barley]N sux:ŋeši[sesame]N
-dcclt/Q000043,OB Nippur Ura 06,UM 29-15-641 (MSL 11, 112 W) [Obverse Not Preserved],o ii 7',sux:duh[bran]N sux:še[barley]N sux:ŋeši[sesame]N
-dcclt/Q000043,OB Nippur Ura 06,UM 29-15-641 (MSL 11, 112 W) [Obverse Not Preserved],o ii 9',sux:šusi[finger]N
-dcclt/Q000043,OB Nippur Ura 06,UM 29-15-641 (MSL 11, 112 W) [Obverse Not Preserved],o ii 10',sux:ga[milk]N
-dcclt/Q000043,OB Nippur Ura 06,UM 29-15-641 (MSL 11, 112 W) [Obverse Not Preserved],o ii 11',sux:gara[cream]N
-dcclt/Q000043,OB Nippur Ura 06,UM 29-15-641 (MSL 11, 112 W) [Obverse Not Preserved],o ii 12',sux:ga[milk]N sux:uzud[goat]N
-dcclt/Q000043,OB Nippur Ura 06,UM 29-15-641 (MSL 11, 112 W) [Obverse Not Preserved],o ii 13',sux:ga[milk]N sux:gur[lift]V/t
-dcclt/Q000043,OB Nippur Ura 06,UM 29-15-641 (MSL 11, 112 W) [Obverse Not Preserved],o ii 14',sux:gašea[~dairy]N
-dcclt/Q000043,OB Nippur Ura 06,UM 29-15-641 (MSL 11, 112 W) [Obverse Not Preserved],o ii 15',sux:ga[milk]N
-dcclt/Q000043,OB Nippur Ura 06,EEN 321, N 5936 [OB Nippur Ura],o i 1,sux:še[barley]N sux:saŋ[head]N
-dcclt/Q000043,OB Nippur Ura 06,EEN 321, N 5936 [OB Nippur Ura],o i 2,sux:še[barley]N sux:esaŋ[store]N
-dcclt/Q000043,OB Nippur Ura 06,EEN 321, N 5936 [OB Nippur Ura],o i 3,sux:še[barley]N sux:ašte[chair]N
-dcclt/Q000043,OB Nippur Ura 06,EEN 321, N 5936 [OB Nippur Ura],o i 4,sux:še[barley]N sux:gunu[flax]N
-dcclt/Q000043,OB Nippur Ura 06,EEN 321, N 5936 [OB Nippur Ura],o i 5,sux:še[barley]N sux:zar[sheaf]N
-dcclt/Q000043,OB Nippur Ura 06,EEN 321, N 5936 [OB Nippur Ura],o i 6,sux:še[barley]N sux:zar[sheaf]N sux:tab[double]V/t
-dcclt/Q000043,OB Nippur Ura 06,EEN 321, N 5936 [OB Nippur Ura],o i 7,sux:še[barley]N sux:zar[sheaf]N sux:sal[thin]V/i
+dcclt/Q000043,OB Nippur Ura 06,UM 29-15-641 (MSL 11 112 W) [Obverse Not Preserved],o i 1',sux:še[barley]N sux:zar[sheaf]N
+dcclt/Q000043,OB Nippur Ura 06,UM 29-15-641 (MSL 11 112 W) [Obverse Not Preserved],o i 2',sux:še[barley]N sux:zar[sheaf]N sux:tab[double]V/t
+dcclt/Q000043,OB Nippur Ura 06,UM 29-15-641 (MSL 11 112 W) [Obverse Not Preserved],o i 3',sux:še[barley]N sux:zar[sheaf]N sux:sal[thin]V/i
+dcclt/Q000043,OB Nippur Ura 06,UM 29-15-641 (MSL 11 112 W) [Obverse Not Preserved],o i 4',sux:še[barley]N sux:zar[sheaf]N sux:kešed[bind]V/t
+dcclt/Q000043,OB Nippur Ura 06,UM 29-15-641 (MSL 11 112 W) [Obverse Not Preserved],o i 5',sux:še[barley]N sux:garadin[bundle]N
+dcclt/Q000043,OB Nippur Ura 06,UM 29-15-641 (MSL 11 112 W) [Obverse Not Preserved],o i 6',sux:še[barley]N sux:kud[cut]V/t
+dcclt/Q000043,OB Nippur Ura 06,UM 29-15-641 (MSL 11 112 W) [Obverse Not Preserved],o i 7',sux:še[barley]N sux:kud[cut]V/t
+dcclt/Q000043,OB Nippur Ura 06,UM 29-15-641 (MSL 11 112 W) [Obverse Not Preserved],o i 8',sux:še[barley]N sux:us[follow]V/t
+dcclt/Q000043,OB Nippur Ura 06,UM 29-15-641 (MSL 11 112 W) [Obverse Not Preserved],o i 9',sux:še[barley]N sux:us[follow]V/t
+dcclt/Q000043,OB Nippur Ura 06,UM 29-15-641 (MSL 11 112 W) [Obverse Not Preserved],o i 10',sux:še[barley]N sux:nir[winnow]V/t
+dcclt/Q000043,OB Nippur Ura 06,UM 29-15-641 (MSL 11 112 W) [Obverse Not Preserved],o i 11',sux:še[barley]N sux:nir[winnow]V/t
+dcclt/Q000043,OB Nippur Ura 06,UM 29-15-641 (MSL 11 112 W) [Obverse Not Preserved],o ii 1',sux:še[barley]N
+dcclt/Q000043,OB Nippur Ura 06,UM 29-15-641 (MSL 11 112 W) [Obverse Not Preserved],o ii 2',sux:še[barley]N sux:ŋeši[sesame]N
+dcclt/Q000043,OB Nippur Ura 06,UM 29-15-641 (MSL 11 112 W) [Obverse Not Preserved],o ii 3',sux:še[barley]N sux:ŋeši[sesame]N
+dcclt/Q000043,OB Nippur Ura 06,UM 29-15-641 (MSL 11 112 W) [Obverse Not Preserved],o ii 4',sux:še[barley]N sux:ŋeši[sesame]N
+dcclt/Q000043,OB Nippur Ura 06,UM 29-15-641 (MSL 11 112 W) [Obverse Not Preserved],o ii 5',sux:še[barley]N sux:ŋeši[sesame]N
+dcclt/Q000043,OB Nippur Ura 06,UM 29-15-641 (MSL 11 112 W) [Obverse Not Preserved],o ii 6',sux:še[barley]N sux:ŋeši[sesame]N
+dcclt/Q000043,OB Nippur Ura 06,UM 29-15-641 (MSL 11 112 W) [Obverse Not Preserved],o ii 7',sux:duh[bran]N sux:še[barley]N sux:ŋeši[sesame]N
+dcclt/Q000043,OB Nippur Ura 06,UM 29-15-641 (MSL 11 112 W) [Obverse Not Preserved],o ii 9',sux:šusi[finger]N
+dcclt/Q000043,OB Nippur Ura 06,UM 29-15-641 (MSL 11 112 W) [Obverse Not Preserved],o ii 10',sux:ga[milk]N
+dcclt/Q000043,OB Nippur Ura 06,UM 29-15-641 (MSL 11 112 W) [Obverse Not Preserved],o ii 11',sux:gara[cream]N
+dcclt/Q000043,OB Nippur Ura 06,UM 29-15-641 (MSL 11 112 W) [Obverse Not Preserved],o ii 12',sux:ga[milk]N sux:uzud[goat]N
+dcclt/Q000043,OB Nippur Ura 06,UM 29-15-641 (MSL 11 112 W) [Obverse Not Preserved],o ii 13',sux:ga[milk]N sux:gur[lift]V/t
+dcclt/Q000043,OB Nippur Ura 06,UM 29-15-641 (MSL 11 112 W) [Obverse Not Preserved],o ii 14',sux:gašea[~dairy]N
+dcclt/Q000043,OB Nippur Ura 06,UM 29-15-641 (MSL 11 112 W) [Obverse Not Preserved],o ii 15',sux:ga[milk]N
+dcclt/Q000043,OB Nippur Ura 06,EEN 321 N 5936 [OB Nippur Ura],o i 1,sux:še[barley]N sux:saŋ[head]N
+dcclt/Q000043,OB Nippur Ura 06,EEN 321 N 5936 [OB Nippur Ura],o i 2,sux:še[barley]N sux:esaŋ[store]N
+dcclt/Q000043,OB Nippur Ura 06,EEN 321 N 5936 [OB Nippur Ura],o i 3,sux:še[barley]N sux:ašte[chair]N
+dcclt/Q000043,OB Nippur Ura 06,EEN 321 N 5936 [OB Nippur Ura],o i 4,sux:še[barley]N sux:gunu[flax]N
+dcclt/Q000043,OB Nippur Ura 06,EEN 321 N 5936 [OB Nippur Ura],o i 5,sux:še[barley]N sux:zar[sheaf]N
+dcclt/Q000043,OB Nippur Ura 06,EEN 321 N 5936 [OB Nippur Ura],o i 6,sux:še[barley]N sux:zar[sheaf]N sux:tab[double]V/t
+dcclt/Q000043,OB Nippur Ura 06,EEN 321 N 5936 [OB Nippur Ura],o i 7,sux:še[barley]N sux:zar[sheaf]N sux:sal[thin]V/i
 dcclt/Q000043,OB Nippur Ura 06,CBS 19804 [OB Nippur Ura],o i 1',sux:zid[flour]N sux:edadi[flour]N
 dcclt/Q000043,OB Nippur Ura 06,CBS 19804 [OB Nippur Ura],o i 2',sux:zid[flour]N sux:sur[press]V/t
 dcclt/Q000043,OB Nippur Ura 06,CBS 19804 [OB Nippur Ura],o i 3',sux:ninda[bread]N sux:zidgu[flour]N
 dcclt/Q000043,OB Nippur Ura 06,CBS 19804 [OB Nippur Ura],o i 4',sux:ninda[bread]N sux:zid[flour]N sux:gunida[~grain]N
 dcclt/Q000043,OB Nippur Ura 06,CBS 19804 [OB Nippur Ura],o i 5',sux:ninda[bread]N sux:zidsig[flour]N
 dcclt/Q000043,OB Nippur Ura 06,CBS 19804 [OB Nippur Ura],o i 6',sux:ninda[bread]N sux:zidgu[flour]N
-dcclt/Q000043,OB Nippur Ura 06,CBS 06115 (MSL 08/1, 081 V12) [OB Nippur Ura],o i 1,sux:ŋeštin[vine]N
-dcclt/Q000043,OB Nippur Ura 06,CBS 06115 (MSL 08/1, 081 V12) [OB Nippur Ura],o i 2,sux:ŋeštinkira[berry]N
-dcclt/Q000043,OB Nippur Ura 06,CBS 06115 (MSL 08/1, 081 V12) [OB Nippur Ura],o i 3,sux:ŋeštinkaʾa[grape]N
-dcclt/Q000043,OB Nippur Ura 06,CBS 06115 (MSL 08/1, 081 V12) [OB Nippur Ura],o i 4,sux:ŋeštinguruma[~vine]N
-dcclt/Q000043,OB Nippur Ura 06,CBS 06115 (MSL 08/1, 081 V12) [OB Nippur Ura],o i 5,sux:ŋeštin[vine]N sux:e[leave]V/i
-dcclt/Q000043,OB Nippur Ura 06,CBS 06115 (MSL 08/1, 081 V12) [OB Nippur Ura],o i 6,sux:ŋeštin[vine]N sux:sur[press]V/t
-dcclt/Q000043,OB Nippur Ura 06,CBS 06115 (MSL 08/1, 081 V12) [OB Nippur Ura],o i 7,sux:garan[bunch]N
-dcclt/Q000043,OB Nippur Ura 06,CBS 06115 (MSL 08/1, 081 V12) [OB Nippur Ura],o i 8,sux:garan[bunch]N sux:hašhur[apple]N
-dcclt/Q000043,OB Nippur Ura 06,CBS 06115 (MSL 08/1, 081 V12) [OB Nippur Ura],o i 9,sux:garan[bunch]N sux:peš[fig]N
-dcclt/Q000043,OB Nippur Ura 06,CBS 06115 (MSL 08/1, 081 V12) [OB Nippur Ura],o i 10,sux:garan[bunch]N sux:nurma[pomegranate]N
-dcclt/Q000043,OB Nippur Ura 06,CBS 06115 (MSL 08/1, 081 V12) [OB Nippur Ura],o i 11,sux:garan[bunch]N sux:ŋeštin[vine]N
-dcclt/Q000043,OB Nippur Ura 06,CBS 06115 (MSL 08/1, 081 V12) [OB Nippur Ura],o i 12,sux:garan[bunch]N sux:ŋipar[tree]N
-dcclt/Q000043,OB Nippur Ura 06,CBS 06115 (MSL 08/1, 081 V12) [OB Nippur Ura],o i 13,sux:garan[bunch]N sux:šennur[plum]N
-dcclt/Q000043,OB Nippur Ura 06,CBS 06115 (MSL 08/1, 081 V12) [OB Nippur Ura],o i 14,sux:šuguru[~dates]N
-dcclt/Q000043,OB Nippur Ura 06,CBS 06115 (MSL 08/1, 081 V12) [OB Nippur Ura],o i 15,sux:šuguru[~dates]N sux:hašhur[apple]N
-dcclt/Q000043,OB Nippur Ura 06,CBS 06115 (MSL 08/1, 081 V12) [OB Nippur Ura],o i 16,sux:šuguru[~dates]N sux:peš[fig]N
-dcclt/Q000043,OB Nippur Ura 06,CBS 06115 (MSL 08/1, 081 V12) [OB Nippur Ura],o i 17,sux:šuguru[~dates]N sux:nurma[pomegranate]N
-dcclt/Q000043,OB Nippur Ura 06,CBS 06115 (MSL 08/1, 081 V12) [OB Nippur Ura],o i 18,sux:šuguru[~dates]N sux:ŋeštin[vine]N
-dcclt/Q000043,OB Nippur Ura 06,CBS 06115 (MSL 08/1, 081 V12) [OB Nippur Ura],o i 19,sux:šuguru[~dates]N sux:ŋipar[tree]N
+dcclt/Q000043,OB Nippur Ura 06,CBS 06115 (MSL 08/1 081 V12) [OB Nippur Ura],o i 1,sux:ŋeštin[vine]N
+dcclt/Q000043,OB Nippur Ura 06,CBS 06115 (MSL 08/1 081 V12) [OB Nippur Ura],o i 2,sux:ŋeštinkira[berry]N
+dcclt/Q000043,OB Nippur Ura 06,CBS 06115 (MSL 08/1 081 V12) [OB Nippur Ura],o i 3,sux:ŋeštinkaʾa[grape]N
+dcclt/Q000043,OB Nippur Ura 06,CBS 06115 (MSL 08/1 081 V12) [OB Nippur Ura],o i 4,sux:ŋeštinguruma[~vine]N
+dcclt/Q000043,OB Nippur Ura 06,CBS 06115 (MSL 08/1 081 V12) [OB Nippur Ura],o i 5,sux:ŋeštin[vine]N sux:e[leave]V/i
+dcclt/Q000043,OB Nippur Ura 06,CBS 06115 (MSL 08/1 081 V12) [OB Nippur Ura],o i 6,sux:ŋeštin[vine]N sux:sur[press]V/t
+dcclt/Q000043,OB Nippur Ura 06,CBS 06115 (MSL 08/1 081 V12) [OB Nippur Ura],o i 7,sux:garan[bunch]N
+dcclt/Q000043,OB Nippur Ura 06,CBS 06115 (MSL 08/1 081 V12) [OB Nippur Ura],o i 8,sux:garan[bunch]N sux:hašhur[apple]N
+dcclt/Q000043,OB Nippur Ura 06,CBS 06115 (MSL 08/1 081 V12) [OB Nippur Ura],o i 9,sux:garan[bunch]N sux:peš[fig]N
+dcclt/Q000043,OB Nippur Ura 06,CBS 06115 (MSL 08/1 081 V12) [OB Nippur Ura],o i 10,sux:garan[bunch]N sux:nurma[pomegranate]N
+dcclt/Q000043,OB Nippur Ura 06,CBS 06115 (MSL 08/1 081 V12) [OB Nippur Ura],o i 11,sux:garan[bunch]N sux:ŋeštin[vine]N
+dcclt/Q000043,OB Nippur Ura 06,CBS 06115 (MSL 08/1 081 V12) [OB Nippur Ura],o i 12,sux:garan[bunch]N sux:ŋipar[tree]N
+dcclt/Q000043,OB Nippur Ura 06,CBS 06115 (MSL 08/1 081 V12) [OB Nippur Ura],o i 13,sux:garan[bunch]N sux:šennur[plum]N
+dcclt/Q000043,OB Nippur Ura 06,CBS 06115 (MSL 08/1 081 V12) [OB Nippur Ura],o i 14,sux:šuguru[~dates]N
+dcclt/Q000043,OB Nippur Ura 06,CBS 06115 (MSL 08/1 081 V12) [OB Nippur Ura],o i 15,sux:šuguru[~dates]N sux:hašhur[apple]N
+dcclt/Q000043,OB Nippur Ura 06,CBS 06115 (MSL 08/1 081 V12) [OB Nippur Ura],o i 16,sux:šuguru[~dates]N sux:peš[fig]N
+dcclt/Q000043,OB Nippur Ura 06,CBS 06115 (MSL 08/1 081 V12) [OB Nippur Ura],o i 17,sux:šuguru[~dates]N sux:nurma[pomegranate]N
+dcclt/Q000043,OB Nippur Ura 06,CBS 06115 (MSL 08/1 081 V12) [OB Nippur Ura],o i 18,sux:šuguru[~dates]N sux:ŋeštin[vine]N
+dcclt/Q000043,OB Nippur Ura 06,CBS 06115 (MSL 08/1 081 V12) [OB Nippur Ura],o i 19,sux:šuguru[~dates]N sux:ŋipar[tree]N
 dcclt/Q000043,OB Nippur Ura 06,SLT 015 [OB Nippur Ura],a i 1,sux:a[water]N
 dcclt/Q000043,OB Nippur Ura 06,SLT 015 [OB Nippur Ura],a i 2,sux:ninda[bread]N
 dcclt/Q000043,OB Nippur Ura 06,SLT 015 [OB Nippur Ura],a i 3,sux:kaš[beer]N
@@ -625,16 +625,16 @@ dcclt/Q000043,OB Nippur Ura 06,N 5107 [OB Kagal],r ii 14',sux:kaš[beer]N
 dcclt/Q000043,OB Nippur Ura 06,N 5107 [OB Kagal],r ii 15',sux:kaš[beer]N
 dcclt/Q000043,OB Nippur Ura 06,N 5107 [OB Kagal],r ii 16',sux:kaš[beer]N sux:zid[flour]N
 dcclt/Q000043,OB Nippur Ura 06,N 5107 [OB Kagal],r ii 17',sux:kaš[beer]N
-dcclt/Q000043,OB Nippur Ura 06,UM 29-13-425 (MSL 11, 111 N) [OB Nippur Lu],r i 2',sux:kuš[malt-flour]N
-dcclt/Q000043,OB Nippur Ura 06,UM 29-13-425 (MSL 11, 111 N) [OB Nippur Lu],r i 3',sux:sahin[yeast]N
-dcclt/Q000043,OB Nippur Ura 06,UM 29-13-425 (MSL 11, 111 N) [OB Nippur Lu],r i 4',sux:aŋarin[matrix]N
-dcclt/Q000043,OB Nippur Ura 06,UM 29-13-425 (MSL 11, 111 N) [OB Nippur Lu],r i 5',sux:bappir[~beer]N
-dcclt/Q000043,OB Nippur Ura 06,UM 29-13-425 (MSL 11, 111 N) [OB Nippur Lu],r i 6',sux:bappir[~beer]N
-dcclt/Q000043,OB Nippur Ura 06,UM 29-13-425 (MSL 11, 111 N) [OB Nippur Lu],r i 7',sux:bappir[~beer]N sux:duru[wet]V/i
-dcclt/Q000043,OB Nippur Ura 06,UM 29-13-425 (MSL 11, 111 N) [OB Nippur Lu],r ii 1',sux:mah[great]V/i
-dcclt/Q000043,OB Nippur Ura 06,UM 29-13-425 (MSL 11, 111 N) [OB Nippur Lu],r ii 2',sux:ulušin[beer]N
-dcclt/Q000043,OB Nippur Ura 06,UM 29-13-425 (MSL 11, 111 N) [OB Nippur Lu],r ii 3',sux:ulušin[beer]N sux:mah[great]V/i
-dcclt/Q000043,OB Nippur Ura 06,UM 29-13-425 (MSL 11, 111 N) [OB Nippur Lu],r ii 4',sux:kaš[beer]N sux:ud[sun]N sux:tab[double]V/t
+dcclt/Q000043,OB Nippur Ura 06,UM 29-13-425 (MSL 11 111 N) [OB Nippur Lu],r i 2',sux:kuš[malt-flour]N
+dcclt/Q000043,OB Nippur Ura 06,UM 29-13-425 (MSL 11 111 N) [OB Nippur Lu],r i 3',sux:sahin[yeast]N
+dcclt/Q000043,OB Nippur Ura 06,UM 29-13-425 (MSL 11 111 N) [OB Nippur Lu],r i 4',sux:aŋarin[matrix]N
+dcclt/Q000043,OB Nippur Ura 06,UM 29-13-425 (MSL 11 111 N) [OB Nippur Lu],r i 5',sux:bappir[~beer]N
+dcclt/Q000043,OB Nippur Ura 06,UM 29-13-425 (MSL 11 111 N) [OB Nippur Lu],r i 6',sux:bappir[~beer]N
+dcclt/Q000043,OB Nippur Ura 06,UM 29-13-425 (MSL 11 111 N) [OB Nippur Lu],r i 7',sux:bappir[~beer]N sux:duru[wet]V/i
+dcclt/Q000043,OB Nippur Ura 06,UM 29-13-425 (MSL 11 111 N) [OB Nippur Lu],r ii 1',sux:mah[great]V/i
+dcclt/Q000043,OB Nippur Ura 06,UM 29-13-425 (MSL 11 111 N) [OB Nippur Lu],r ii 2',sux:ulušin[beer]N
+dcclt/Q000043,OB Nippur Ura 06,UM 29-13-425 (MSL 11 111 N) [OB Nippur Lu],r ii 3',sux:ulušin[beer]N sux:mah[great]V/i
+dcclt/Q000043,OB Nippur Ura 06,UM 29-13-425 (MSL 11 111 N) [OB Nippur Lu],r ii 4',sux:kaš[beer]N sux:ud[sun]N sux:tab[double]V/t
 dcclt/Q000043,OB Nippur Ura 06,SLT 016 [OB Nippur Ura],o i 1',sux:tu[soup]N sux:zahan[plant]N
 dcclt/Q000043,OB Nippur Ura 06,SLT 016 [OB Nippur Ura],o i 2',sux:tu[soup]N sux:zahan[plant]N
 dcclt/Q000043,OB Nippur Ura 06,SLT 016 [OB Nippur Ura],o i 3',sux:tu[soup]N sux:zahan[plant]N sux:mušen[bird]N
@@ -740,39 +740,39 @@ dcclt/Q000043,OB Nippur Ura 06,SLT 016 [OB Nippur Ura],r vi 7,sux:uhin[date]N 
 dcclt/Q000043,OB Nippur Ura 06,SLT 016 [OB Nippur Ura],r vi 8,sux:uhin[date]N sux:šeŋ[cook]V/t
 dcclt/Q000043,OB Nippur Ura 06,SLT 016 [OB Nippur Ura],r vi 9,sux:uhin[date]N sux:bar.UD[~dates]N
 dcclt/Q000043,OB Nippur Ura 06,SLT 016 [OB Nippur Ura],r vi 10,sux:uhin[date]N
-dcclt/Q000043,OB Nippur Ura 06,N 4974 (MSL 11, 111 J) [Proverb Collection],o i 2',sux:dibiri[swindler]N
-dcclt/Q000043,OB Nippur Ura 06,N 4974 (MSL 11, 111 J) [Proverb Collection],o i 3',sux:lu[person]N sux:e[house]N sux:ugu[cvne]N sux:de[pour]V/t
-dcclt/Q000043,OB Nippur Ura 06,N 4974 (MSL 11, 111 J) [Proverb Collection],o i 4',sux:gur[turn]V/i
-dcclt/Q000043,OB Nippur Ura 06,N 4974 (MSL 11, 111 J) [Proverb Collection],o i 5',sux:gu[eat]V/t sux:dug[good]V/i
-dcclt/Q000043,OB Nippur Ura 06,N 4974 (MSL 11, 111 J) [Proverb Collection],o i 6',sux:gur[turn]V/i sux:gig[sick]V/i
-dcclt/Q000043,OB Nippur Ura 06,N 4974 (MSL 11, 111 J) [Proverb Collection],r i 10,sux:tu[soup]N
-dcclt/Q000043,OB Nippur Ura 06,N 4974 (MSL 11, 111 J) [Proverb Collection],r i 11,sux:tu[soup]N
-dcclt/Q000043,OB Nippur Ura 06,N 4974 (MSL 11, 111 J) [Proverb Collection],r i 12,sux:tu[soup]N
-dcclt/Q000043,OB Nippur Ura 06,N 4974 (MSL 11, 111 J) [Proverb Collection],r ii 2,sux:dida[wort]N
-dcclt/Q000043,OB Nippur Ura 06,N 4974 (MSL 11, 111 J) [Proverb Collection],r ii 3,sux:dida[wort]N
-dcclt/Q000043,OB Nippur Ura 06,N 4974 (MSL 11, 111 J) [Proverb Collection],r ii 4,sux:dida[wort]N
-dcclt/Q000043,OB Nippur Ura 06,N 4974 (MSL 11, 111 J) [Proverb Collection],r ii 5,sux:kaš[beer]N sux:naŋ[drink]V/t sux:lugal[king]N
-dcclt/Q000043,OB Nippur Ura 06,N 4974 (MSL 11, 111 J) [Proverb Collection],r ii 6,sux:kaš[beer]N
-dcclt/Q000043,OB Nippur Ura 06,N 4974 (MSL 11, 111 J) [Proverb Collection],r ii 7,sux:kaš[beer]N sux:sag[rare]V/i
-dcclt/Q000043,OB Nippur Ura 06,N 4974 (MSL 11, 111 J) [Proverb Collection],r ii 8,sux:kaš[beer]N sux:ŋen[go]V/i
-dcclt/Q000043,OB Nippur Ura 06,N 4974 (MSL 11, 111 J) [Proverb Collection],r ii 9,sux:ulušin[beer]N
-dcclt/Q000043,OB Nippur Ura 06,N 4974 (MSL 11, 111 J) [Proverb Collection],r ii 10,sux:ulušin[beer]N sux:mah[great]V/i
-dcclt/Q000043,OB Nippur Ura 06,N 4974 (MSL 11, 111 J) [Proverb Collection],r ii 11,sux:kaš[beer]N sux:ud[sun]N sux:tab[double]V/t
-dcclt/Q000043,OB Nippur Ura 06,N 4974 (MSL 11, 111 J) [Proverb Collection],r ii 12,sux:kaš[beer]N sux:ud[sun]N sux:sal[thin]V/i
-dcclt/Q000043,OB Nippur Ura 06,N 4974 (MSL 11, 111 J) [Proverb Collection],r ii 13,sux:kaš[beer]N
-dcclt/Q000043,OB Nippur Ura 06,N 4974 (MSL 11, 111 J) [Proverb Collection],r iii 1,sux:kaš[beer]N sux:šud[prayer]N
-dcclt/Q000043,OB Nippur Ura 06,N 4974 (MSL 11, 111 J) [Proverb Collection],r iii 2,sux:kaš[beer]N sux:edadi[flour]N
-dcclt/Q000043,OB Nippur Ura 06,N 4974 (MSL 11, 111 J) [Proverb Collection],r iii 3,sux:kaš[beer]N sux:šag[heart]N sux:gur[lift]V/t
-dcclt/Q000043,OB Nippur Ura 06,N 4974 (MSL 11, 111 J) [Proverb Collection],r iii 4,sux:kaš[beer]N
-dcclt/Q000043,OB Nippur Ura 06,N 4974 (MSL 11, 111 J) [Proverb Collection],r iii 5,sux:kuš[malt-flour]N
-dcclt/Q000043,OB Nippur Ura 06,N 4974 (MSL 11, 111 J) [Proverb Collection],r iii 6,sux:sahin[yeast]N
-dcclt/Q000043,OB Nippur Ura 06,N 4974 (MSL 11, 111 J) [Proverb Collection],r iii 7,sux:aŋarin[matrix]N
-dcclt/Q000043,OB Nippur Ura 06,N 4974 (MSL 11, 111 J) [Proverb Collection],r iii 8,sux:bappir[~beer]N
-dcclt/Q000043,OB Nippur Ura 06,N 4974 (MSL 11, 111 J) [Proverb Collection],r iii 9,sux:bappir[~beer]N
-dcclt/Q000043,OB Nippur Ura 06,N 4974 (MSL 11, 111 J) [Proverb Collection],r iii 10,sux:bappir[~beer]N sux:duru[wet]V/i
-dcclt/Q000043,OB Nippur Ura 06,N 4974 (MSL 11, 111 J) [Proverb Collection],r iii 11,sux:bappir[~beer]N sux:pad[break]V/t
-dcclt/Q000043,OB Nippur Ura 06,N 4974 (MSL 11, 111 J) [Proverb Collection],r iii 12,sux:bappir[~beer]N sux:pad[break]V/t
-dcclt/Q000043,OB Nippur Ura 06,N 4974 (MSL 11, 111 J) [Proverb Collection],r iii 13,sux:bappir[~beer]N sux:ud[sun]N sux:tab[burn]V/t
+dcclt/Q000043,OB Nippur Ura 06,N 4974 (MSL 11 111 J) [Proverb Collection],o i 2',sux:dibiri[swindler]N
+dcclt/Q000043,OB Nippur Ura 06,N 4974 (MSL 11 111 J) [Proverb Collection],o i 3',sux:lu[person]N sux:e[house]N sux:ugu[cvne]N sux:de[pour]V/t
+dcclt/Q000043,OB Nippur Ura 06,N 4974 (MSL 11 111 J) [Proverb Collection],o i 4',sux:gur[turn]V/i
+dcclt/Q000043,OB Nippur Ura 06,N 4974 (MSL 11 111 J) [Proverb Collection],o i 5',sux:gu[eat]V/t sux:dug[good]V/i
+dcclt/Q000043,OB Nippur Ura 06,N 4974 (MSL 11 111 J) [Proverb Collection],o i 6',sux:gur[turn]V/i sux:gig[sick]V/i
+dcclt/Q000043,OB Nippur Ura 06,N 4974 (MSL 11 111 J) [Proverb Collection],r i 10,sux:tu[soup]N
+dcclt/Q000043,OB Nippur Ura 06,N 4974 (MSL 11 111 J) [Proverb Collection],r i 11,sux:tu[soup]N
+dcclt/Q000043,OB Nippur Ura 06,N 4974 (MSL 11 111 J) [Proverb Collection],r i 12,sux:tu[soup]N
+dcclt/Q000043,OB Nippur Ura 06,N 4974 (MSL 11 111 J) [Proverb Collection],r ii 2,sux:dida[wort]N
+dcclt/Q000043,OB Nippur Ura 06,N 4974 (MSL 11 111 J) [Proverb Collection],r ii 3,sux:dida[wort]N
+dcclt/Q000043,OB Nippur Ura 06,N 4974 (MSL 11 111 J) [Proverb Collection],r ii 4,sux:dida[wort]N
+dcclt/Q000043,OB Nippur Ura 06,N 4974 (MSL 11 111 J) [Proverb Collection],r ii 5,sux:kaš[beer]N sux:naŋ[drink]V/t sux:lugal[king]N
+dcclt/Q000043,OB Nippur Ura 06,N 4974 (MSL 11 111 J) [Proverb Collection],r ii 6,sux:kaš[beer]N
+dcclt/Q000043,OB Nippur Ura 06,N 4974 (MSL 11 111 J) [Proverb Collection],r ii 7,sux:kaš[beer]N sux:sag[rare]V/i
+dcclt/Q000043,OB Nippur Ura 06,N 4974 (MSL 11 111 J) [Proverb Collection],r ii 8,sux:kaš[beer]N sux:ŋen[go]V/i
+dcclt/Q000043,OB Nippur Ura 06,N 4974 (MSL 11 111 J) [Proverb Collection],r ii 9,sux:ulušin[beer]N
+dcclt/Q000043,OB Nippur Ura 06,N 4974 (MSL 11 111 J) [Proverb Collection],r ii 10,sux:ulušin[beer]N sux:mah[great]V/i
+dcclt/Q000043,OB Nippur Ura 06,N 4974 (MSL 11 111 J) [Proverb Collection],r ii 11,sux:kaš[beer]N sux:ud[sun]N sux:tab[double]V/t
+dcclt/Q000043,OB Nippur Ura 06,N 4974 (MSL 11 111 J) [Proverb Collection],r ii 12,sux:kaš[beer]N sux:ud[sun]N sux:sal[thin]V/i
+dcclt/Q000043,OB Nippur Ura 06,N 4974 (MSL 11 111 J) [Proverb Collection],r ii 13,sux:kaš[beer]N
+dcclt/Q000043,OB Nippur Ura 06,N 4974 (MSL 11 111 J) [Proverb Collection],r iii 1,sux:kaš[beer]N sux:šud[prayer]N
+dcclt/Q000043,OB Nippur Ura 06,N 4974 (MSL 11 111 J) [Proverb Collection],r iii 2,sux:kaš[beer]N sux:edadi[flour]N
+dcclt/Q000043,OB Nippur Ura 06,N 4974 (MSL 11 111 J) [Proverb Collection],r iii 3,sux:kaš[beer]N sux:šag[heart]N sux:gur[lift]V/t
+dcclt/Q000043,OB Nippur Ura 06,N 4974 (MSL 11 111 J) [Proverb Collection],r iii 4,sux:kaš[beer]N
+dcclt/Q000043,OB Nippur Ura 06,N 4974 (MSL 11 111 J) [Proverb Collection],r iii 5,sux:kuš[malt-flour]N
+dcclt/Q000043,OB Nippur Ura 06,N 4974 (MSL 11 111 J) [Proverb Collection],r iii 6,sux:sahin[yeast]N
+dcclt/Q000043,OB Nippur Ura 06,N 4974 (MSL 11 111 J) [Proverb Collection],r iii 7,sux:aŋarin[matrix]N
+dcclt/Q000043,OB Nippur Ura 06,N 4974 (MSL 11 111 J) [Proverb Collection],r iii 8,sux:bappir[~beer]N
+dcclt/Q000043,OB Nippur Ura 06,N 4974 (MSL 11 111 J) [Proverb Collection],r iii 9,sux:bappir[~beer]N
+dcclt/Q000043,OB Nippur Ura 06,N 4974 (MSL 11 111 J) [Proverb Collection],r iii 10,sux:bappir[~beer]N sux:duru[wet]V/i
+dcclt/Q000043,OB Nippur Ura 06,N 4974 (MSL 11 111 J) [Proverb Collection],r iii 11,sux:bappir[~beer]N sux:pad[break]V/t
+dcclt/Q000043,OB Nippur Ura 06,N 4974 (MSL 11 111 J) [Proverb Collection],r iii 12,sux:bappir[~beer]N sux:pad[break]V/t
+dcclt/Q000043,OB Nippur Ura 06,N 4974 (MSL 11 111 J) [Proverb Collection],r iii 13,sux:bappir[~beer]N sux:ud[sun]N sux:tab[burn]V/t
 dcclt/Q000043,OB Nippur Ura 06,SLT 027 [Obverse Not Preserved],r i 1',sux:tu[soup]N
 dcclt/Q000043,OB Nippur Ura 06,SLT 027 [Obverse Not Preserved],r i 2',sux:tu[soup]N
 dcclt/Q000043,OB Nippur Ura 06,SLT 027 [Obverse Not Preserved],r i 3',sux:tu[soup]N
@@ -789,129 +789,129 @@ dcclt/Q000043,OB Nippur Ura 06,SLT 027 [Obverse Not Preserved],r ii 6',sux:tu[
 dcclt/Q000043,OB Nippur Ura 06,SLT 027 [Obverse Not Preserved],r ii 7',sux:tu[soup]N sux:a[water]N
 dcclt/Q000043,OB Nippur Ura 06,SLT 027 [Obverse Not Preserved],r ii 8',sux:tu[soup]N sux:ur[convulsed]V/i
 dcclt/Q000043,OB Nippur Ura 06,SLT 027 [Obverse Not Preserved],r ii 9',sux:tu[soup]N sux:lal[syrup]N
-dcclt/Q000043,OB Nippur Ura 06,N 3994 (MSL 11, 111 M) [OB Nippur Ura],o i 2',sux:sumun[vessel]N sux:a[water]N sux:ŋar[place]V/t
-dcclt/Q000043,OB Nippur Ura 06,N 3994 (MSL 11, 111 M) [OB Nippur Ura],o i 3',sux:sumun[vessel]N sux:a[water]N sux:sig[put]V/t
-dcclt/Q000043,OB Nippur Ura 06,N 3994 (MSL 11, 111 M) [OB Nippur Ura],o i 4',sux:sumun[vessel]N sux:sur[press]V/t
-dcclt/Q000043,OB Nippur Ura 06,N 3994 (MSL 11, 111 M) [OB Nippur Ura],o i 5',sux:titab[~beer]N
-dcclt/Q000043,OB Nippur Ura 06,N 3994 (MSL 11, 111 M) [OB Nippur Ura],o i 6',sux:zid[flour]N sux:munu[malt]N
-dcclt/Q000043,OB Nippur Ura 06,N 3994 (MSL 11, 111 M) [OB Nippur Ura],o i 7',sux:munu[malt]N
-dcclt/Q000043,OB Nippur Ura 06,N 3994 (MSL 11, 111 M) [OB Nippur Ura],o i 8',sux:munu[malt]N
-dcclt/Q000043,OB Nippur Ura 06,PBS 05, 135 [OB Nippur Ura],o i 1,sux:uhin[date]N
-dcclt/Q000043,OB Nippur Ura 06,PBS 05, 135 [OB Nippur Ura],o i 2,sux:uhin[date]N sux:babbar[white]V/i
-dcclt/Q000043,OB Nippur Ura 06,PBS 05, 135 [OB Nippur Ura],o i 3,sux:uhin[date]N sux:kukkug[dark]V/i
-dcclt/Q000043,OB Nippur Ura 06,PBS 05, 135 [OB Nippur Ura],o i 4,sux:uhin[date]N sux:su[red]V/i
-dcclt/Q000043,OB Nippur Ura 06,PBS 05, 135 [OB Nippur Ura],o i 5,sux:uhin[date]N sux:sissig[green]V/i
-dcclt/Q000043,OB Nippur Ura 06,PBS 05, 135 [OB Nippur Ura],o i 6,sux:uhin[date]N sux:gunu[speckled]V/i
-dcclt/Q000043,OB Nippur Ura 06,PBS 05, 135 [OB Nippur Ura],o i 7,sux:uhin[date]N sux:bar.UD[~dates]N
-dcclt/Q000043,OB Nippur Ura 06,PBS 05, 135 [OB Nippur Ura],o i 8,sux:uhin[date]N sux:šag[heart]N sux:sur[press]V/t
-dcclt/Q000043,OB Nippur Ura 06,PBS 05, 135 [OB Nippur Ura],o i 9,sux:uhin[date]N sux:udtena[evening]N sux:dug[speak]V/t
-dcclt/Q000043,OB Nippur Ura 06,PBS 05, 135 [OB Nippur Ura],o i 10,sux:zulum[date]N
-dcclt/Q000043,OB Nippur Ura 06,PBS 05, 135 [OB Nippur Ura],r ii 1',sux:še[barley]N
-dcclt/Q000043,OB Nippur Ura 06,PBS 05, 135 [OB Nippur Ura],r ii 2',sux:še[barley]N sux:zar[sheaf]N sux:tab[double]V/t
-dcclt/Q000043,OB Nippur Ura 06,PBS 05, 135 [OB Nippur Ura],r ii 3',sux:še[barley]N sux:zar[sheaf]N sux:sal[thin]V/i
-dcclt/Q000043,OB Nippur Ura 06,PBS 05, 135 [OB Nippur Ura],r ii 4',sux:še[barley]N sux:niŋkud[due]N
-dcclt/Q000043,OB Nippur Ura 06,PBS 05, 135 [OB Nippur Ura],r ii 5',sux:še[barley]N sux:us[follow]V/t
-dcclt/Q000043,OB Nippur Ura 06,PBS 05, 135 [OB Nippur Ura],r ii 6',sux:še[barley]N sux:us[follow]V/t
-dcclt/Q000043,OB Nippur Ura 06,PBS 05, 135 [OB Nippur Ura],r ii 7',sux:še[barley]N sux:nir[winnow]V/t
-dcclt/Q000043,OB Nippur Ura 06,PBS 05, 135 [OB Nippur Ura],r ii 8',sux:še[barley]N sux:nir[winnow]V/t
-dcclt/Q000043,OB Nippur Ura 06,PBS 05, 135 [OB Nippur Ura],r ii 9',sux:še[barley]N sux:a[water]N sux:de[pour]V/t
-dcclt/Q000043,OB Nippur Ura 06,PBS 05, 135 [OB Nippur Ura],r iii 1',sux:innu[straw]N
-dcclt/Q000043,OB Nippur Ura 06,PBS 05, 135 [OB Nippur Ura],r iii 2',sux:innu[straw]N sux:deg[collect]V/t
-dcclt/Q000043,OB Nippur Ura 06,PBS 05, 135 [OB Nippur Ura],r iii 3',sux:innu[straw]N sux:deg[collect]V/t
-dcclt/Q000043,OB Nippur Ura 06,PBS 05, 135 [OB Nippur Ura],r iii 4',sux:innu[straw]N sux:bul[blow]V/t
-dcclt/Q000043,OB Nippur Ura 06,PBS 05, 135 [OB Nippur Ura],r iii 5',sux:innu[straw]N sux:bul[blow]V/t
-dcclt/Q000043,OB Nippur Ura 06,PBS 05, 135 [OB Nippur Ura],r iii 6',sux:hašhur[apple]N
-dcclt/Q000043,OB Nippur Ura 06,PBS 05, 135 [OB Nippur Ura],r iii 7',sux:hašhur[apple]N sux:kur[mountain]N
-dcclt/Q000043,OB Nippur Ura 06,PBS 05, 135 [OB Nippur Ura],r iii 8',sux:hašhur[apple]N sux:babbar[white]V/i
-dcclt/Q000043,OB Nippur Ura 06,PBS 05, 135 [OB Nippur Ura],r iii 9',sux:hašhur[apple]N sux:kukkug[dark]V/i
-dcclt/Q000043,OB Nippur Ura 06,PBS 05, 135 [OB Nippur Ura],r iii 10',sux:hašhur[apple]N sux:su[red]V/i
-dcclt/Q000043,OB Nippur Ura 06,UM 29-16-266 (+) N 0972 (MSL 11, 111 F) [OB Nippur Ura],o i 1',sux:tu[soup]N sux:arzana[groats]N sux:sag[rare]V/i
-dcclt/Q000043,OB Nippur Ura 06,UM 29-16-266 (+) N 0972 (MSL 11, 111 F) [OB Nippur Ura],o i 2',sux:tu[soup]N sux:lub[turnip]N
-dcclt/Q000043,OB Nippur Ura 06,UM 29-16-266 (+) N 0972 (MSL 11, 111 F) [OB Nippur Ura],o i 3',sux:tu[soup]N sux:tunla[vessel]N
-dcclt/Q000043,OB Nippur Ura 06,UM 29-16-266 (+) N 0972 (MSL 11, 111 F) [OB Nippur Ura],o i 4',sux:tu[soup]N sux:ganše[plant]N
-dcclt/Q000043,OB Nippur Ura 06,UM 29-16-266 (+) N 0972 (MSL 11, 111 F) [OB Nippur Ura],o i 5',sux:tu[soup]N sux:maš[plant]N
-dcclt/Q000043,OB Nippur Ura 06,UM 29-16-266 (+) N 0972 (MSL 11, 111 F) [OB Nippur Ura],o i 6',sux:tu[soup]N sux:mašgurum[plant]N
-dcclt/Q000043,OB Nippur Ura 06,UM 29-16-266 (+) N 0972 (MSL 11, 111 F) [OB Nippur Ura],o i 7',sux:tu[soup]N sux:adar[plant]N
-dcclt/Q000043,OB Nippur Ura 06,UM 29-16-266 (+) N 0972 (MSL 11, 111 F) [OB Nippur Ura],o i 8',sux:tu[soup]N sux:lubšir[bag]N
-dcclt/Q000043,OB Nippur Ura 06,UM 29-16-266 (+) N 0972 (MSL 11, 111 F) [OB Nippur Ura],o i 9',sux:tu[soup]N sux:babada[porridge]N
-dcclt/Q000043,OB Nippur Ura 06,UM 29-16-266 (+) N 0972 (MSL 11, 111 F) [OB Nippur Ura],o i 10',sux:tu[soup]N sux:babada[porridge]N sux:sag[rare]V/i
-dcclt/Q000043,OB Nippur Ura 06,UM 29-16-266 (+) N 0972 (MSL 11, 111 F) [OB Nippur Ura],o i 11',sux:tu[soup]N sux:zid[flour]N
-dcclt/Q000043,OB Nippur Ura 06,UM 29-16-266 (+) N 0972 (MSL 11, 111 F) [OB Nippur Ura],o i 12',sux:zid[flour]N
-dcclt/Q000043,OB Nippur Ura 06,UM 29-16-266 (+) N 0972 (MSL 11, 111 F) [OB Nippur Ura],o ii 1',sux:tu[soup]N
-dcclt/Q000043,OB Nippur Ura 06,UM 29-16-266 (+) N 0972 (MSL 11, 111 F) [OB Nippur Ura],o ii 2',sux:kaš[beer]N
-dcclt/Q000043,OB Nippur Ura 06,UM 29-16-266 (+) N 0972 (MSL 11, 111 F) [OB Nippur Ura],o ii 3',sux:kaš[beer]N
-dcclt/Q000043,OB Nippur Ura 06,UM 29-16-266 (+) N 0972 (MSL 11, 111 F) [OB Nippur Ura],o ii 5',sux:kaš[beer]N
-dcclt/Q000043,OB Nippur Ura 06,UM 29-16-266 (+) N 0972 (MSL 11, 111 F) [OB Nippur Ura],o ii 6',sux:kaš[beer]N
-dcclt/Q000043,OB Nippur Ura 06,UM 29-16-266 (+) N 0972 (MSL 11, 111 F) [OB Nippur Ura],o ii 7',sux:kaš[beer]N
-dcclt/Q000043,OB Nippur Ura 06,UM 29-16-266 (+) N 0972 (MSL 11, 111 F) [OB Nippur Ura],o ii 8',sux:dida[wort]N
-dcclt/Q000043,OB Nippur Ura 06,UM 29-16-266 (+) N 0972 (MSL 11, 111 F) [OB Nippur Ura],o ii 9',sux:dida[wort]N
-dcclt/Q000043,OB Nippur Ura 06,UM 29-16-266 (+) N 0972 (MSL 11, 111 F) [OB Nippur Ura],o ii 10',sux:dida[wort]N
-dcclt/Q000043,OB Nippur Ura 06,UM 29-16-266 (+) N 0972 (MSL 11, 111 F) [OB Nippur Ura],o ii 11',sux:dida[wort]N
-dcclt/Q000043,OB Nippur Ura 06,UM 29-16-266 (+) N 0972 (MSL 11, 111 F) [OB Nippur Ura],o ii 12',sux:dida[wort]N
-dcclt/Q000043,OB Nippur Ura 06,UM 29-16-266 (+) N 0972 (MSL 11, 111 F) [OB Nippur Ura],o ii 13',sux:kaš[beer]N
-dcclt/Q000043,OB Nippur Ura 06,UM 29-16-266 (+) N 0972 (MSL 11, 111 F) [OB Nippur Ura],r i 1',sux:uhin[date]N
-dcclt/Q000043,OB Nippur Ura 06,UM 29-16-266 (+) N 0972 (MSL 11, 111 F) [OB Nippur Ura],r i 2',sux:uhin[date]N
-dcclt/Q000043,OB Nippur Ura 06,UM 29-16-266 (+) N 0972 (MSL 11, 111 F) [OB Nippur Ura],r i 3',sux:uhin[date]N
-dcclt/Q000043,OB Nippur Ura 06,UM 29-16-266 (+) N 0972 (MSL 11, 111 F) [OB Nippur Ura],r i 4',sux:uhin[date]N
-dcclt/Q000043,OB Nippur Ura 06,UM 29-16-266 (+) N 0972 (MSL 11, 111 F) [OB Nippur Ura],r i 5',sux:uhin[date]N
-dcclt/Q000043,OB Nippur Ura 06,UM 29-16-266 (+) N 0972 (MSL 11, 111 F) [OB Nippur Ura],r i 6',sux:uhin[date]N
-dcclt/Q000043,OB Nippur Ura 06,UM 29-16-266 (+) N 0972 (MSL 11, 111 F) [OB Nippur Ura],r i 7',sux:uhin[date]N
-dcclt/Q000043,OB Nippur Ura 06,UM 29-16-266 (+) N 0972 (MSL 11, 111 F) [OB Nippur Ura],r i 8',sux:zulum[date]N
-dcclt/Q000043,OB Nippur Ura 06,UM 29-16-266 (+) N 0972 (MSL 11, 111 F) [OB Nippur Ura],r i 9',sux:zulum[date]N
-dcclt/Q000043,OB Nippur Ura 06,UM 29-16-266 (+) N 0972 (MSL 11, 111 F) [OB Nippur Ura],r ii 1',sux:mun[salt]V/i
-dcclt/Q000043,OB Nippur Ura 06,UM 29-16-266 (+) N 0972 (MSL 11, 111 F) [OB Nippur Ura],r ii 2',sux:mungazi[~agriculture]N
-dcclt/Q000043,OB Nippur Ura 06,UM 29-16-266 (+) N 0972 (MSL 11, 111 F) [OB Nippur Ura],r ii 3',sux:mun[salt]V/i sux:šimbirida[plant]N
-dcclt/Q000043,OB Nippur Ura 06,UM 29-16-266 (+) N 0972 (MSL 11, 111 F) [OB Nippur Ura],r ii 4',sux:mun[salt]V/i sux:šeŋ[cook]V/t
-dcclt/Q000043,OB Nippur Ura 06,UM 29-16-266 (+) N 0972 (MSL 11, 111 F) [OB Nippur Ura],r ii 5',sux:mun[salt]V/i sux:gaz[kill]V/t
-dcclt/Q000043,OB Nippur Ura 06,UM 29-16-266 (+) N 0972 (MSL 11, 111 F) [OB Nippur Ura],r ii 6',sux:naŋa[potash]N
-dcclt/Q000043,OB Nippur Ura 06,UM 29-16-266 (+) N 0972 (MSL 11, 111 F) [OB Nippur Ura],r ii 7',sux:naŋasiʾe[plant]N
-dcclt/Q000043,OB Nippur Ura 06,UM 29-16-266 (+) N 0972 (MSL 11, 111 F) [OB Nippur Ura],r ii 8',sux:naŋa[potash]N sux:duru[wet]V/i
-dcclt/Q000043,OB Nippur Ura 06,UM 29-16-266 (+) N 0972 (MSL 11, 111 F) [OB Nippur Ura],r ii 9',sux:naŋa[potash]N sux:ah[dry]V/i
-dcclt/Q000043,OB Nippur Ura 06,UM 29-16-266 (+) N 0972 (MSL 11, 111 F) [OB Nippur Ura],r ii 10',sux:pa[branch]N sux:naŋa[potash]N
-dcclt/Q000043,OB Nippur Ura 06,UM 29-16-266 (+) N 0972 (MSL 11, 111 F) [OB Nippur Ura],r ii 11',sux:naŋa[potash]N
-dcclt/Q000043,OB Nippur Ura 06,N 4969 (MSL 11, 111 K) [Obverse Not Preserved],r ii 2',sux:kaš[beer]N sux:mah[great]V/i
-dcclt/Q000043,OB Nippur Ura 06,N 4969 (MSL 11, 111 K) [Obverse Not Preserved],r ii 3',sux:kaš[beer]N sux:mah[great]V/i sux:eš[three]NU
-dcclt/Q000043,OB Nippur Ura 06,N 4969 (MSL 11, 111 K) [Obverse Not Preserved],r ii 4',sux:kaš[beer]N sux:bala[turn]V/t
-dcclt/Q000043,OB Nippur Ura 06,N 4969 (MSL 11, 111 K) [Obverse Not Preserved],r ii 5',sux:kaš[beer]N sux:ešeš[festival]N
-dcclt/Q000043,OB Nippur Ura 06,N 4969 (MSL 11, 111 K) [Obverse Not Preserved],r ii 6',sux:kaš[beer]N sux:siškur[prayer]N
-dcclt/Q000043,OB Nippur Ura 06,N 4969 (MSL 11, 111 K) [Obverse Not Preserved],r ii 7',sux:kaš[beer]N
-dcclt/Q000043,OB Nippur Ura 06,UM 29-13-265 (MSL 11, 111 O) [OB Nippur Ea],r i 2,sux:bappir[~beer]N
-dcclt/Q000043,OB Nippur Ura 06,UM 29-13-265 (MSL 11, 111 O) [OB Nippur Ea],r i 3,sux:bappir[~beer]N sux:pad[break]V/t
-dcclt/Q000043,OB Nippur Ura 06,UM 29-13-265 (MSL 11, 111 O) [OB Nippur Ea],r i 4,sux:bappir[~beer]N sux:ud[sun]N sux:tab[double]V/t
-dcclt/Q000043,OB Nippur Ura 06,UM 29-13-265 (MSL 11, 111 O) [OB Nippur Ea],r i 5,sux:sumun[vessel]N
-dcclt/Q000043,OB Nippur Ura 06,UM 29-13-265 (MSL 11, 111 O) [OB Nippur Ea],r i 6,sux:sumun[vessel]N sux:a[water]N sux:ŋar[place]V/t
-dcclt/Q000043,OB Nippur Ura 06,UM 29-13-265 (MSL 11, 111 O) [OB Nippur Ea],r ii 1,sux:duh[bran]N
-dcclt/Q000043,OB Nippur Ura 06,UM 29-13-265 (MSL 11, 111 O) [OB Nippur Ea],r ii 2,sux:duh[bran]N sux:duru[wet]V/i
-dcclt/Q000043,OB Nippur Ura 06,UM 29-13-265 (MSL 11, 111 O) [OB Nippur Ea],r ii 3,sux:duh[bran]N sux:ah[dry]V/i
-dcclt/Q000043,OB Nippur Ura 06,UM 29-13-265 (MSL 11, 111 O) [OB Nippur Ea],r ii 4,sux:duh[bran]N sux:hahala[comestible]N
-dcclt/Q000043,OB Nippur Ura 06,UM 29-13-265 (MSL 11, 111 O) [OB Nippur Ea],r ii 5,sux:duh[bran]N sux:hahala[comestible]N
-dcclt/Q000043,OB Nippur Ura 06,UM 29-13-265 (MSL 11, 111 O) [OB Nippur Ea],r ii 6,sux:duh[bran]N sux:kurun[beer]N
-dcclt/Q000043,OB Nippur Ura 06,N 5757 (MSL 11, 111 R) [Nigga],r i 2',sux:nindaʾidea[bread]N
-dcclt/Q000043,OB Nippur Ura 06,N 5757 (MSL 11, 111 R) [Nigga],r i 3',sux:nindaʾidea[bread]N
-dcclt/Q000043,OB Nippur Ura 06,N 5757 (MSL 11, 111 R) [Nigga],r i 4',sux:nindaʾidea[bread]N
-dcclt/Q000043,OB Nippur Ura 06,N 5757 (MSL 11, 111 R) [Nigga],r i 5',sux:nindaʾidea[bread]N
-dcclt/Q000043,OB Nippur Ura 06,N 5757 (MSL 11, 111 R) [Nigga],r i 6',sux:nindaʾidea[bread]N sux:a[water]N sux:sig[put]V/t
-dcclt/Q000043,OB Nippur Ura 06,N 5757 (MSL 11, 111 R) [Nigga],r i 7',sux:ninda[bread]N sux:i[oil]N
-dcclt/Q000043,OB Nippur Ura 06,N 5757 (MSL 11, 111 R) [Nigga],r i 8',sux:ninda[bread]N sux:ga[milk]N
-dcclt/Q000043,OB Nippur Ura 06,N 5757 (MSL 11, 111 R) [Nigga],r i 9',sux:ninda[bread]N sux:šuʾi[barber]N
-dcclt/Q000043,OB Nippur Ura 06,N 5061 + N 5081 (MSL 08/1, 082 V56) [OB Nippur Ura],o i 2',sux:ninda[bread]N sux:gur[thick]V/i sux:zidgu[flour]N
-dcclt/Q000043,OB Nippur Ura 06,N 5061 + N 5081 (MSL 08/1, 082 V56) [OB Nippur Ura],o i 3',sux:ninda[bread]N sux:gur[thick]V/i sux:zid[flour]N sux:gunida[~grain]N
-dcclt/Q000043,OB Nippur Ura 06,N 5061 + N 5081 (MSL 08/1, 082 V56) [OB Nippur Ura],o i 4',sux:ninda[bread]N sux:gur[thick]V/i sux:zidsig[flour]N
-dcclt/Q000043,OB Nippur Ura 06,N 5061 + N 5081 (MSL 08/1, 082 V56) [OB Nippur Ura],o i 5',sux:ninda[bread]N sux:gur[thick]V/i sux:zid[flour]N
-dcclt/Q000043,OB Nippur Ura 06,N 5061 + N 5081 (MSL 08/1, 082 V56) [OB Nippur Ura],o i 6',sux:ninda[bread]N sux:gur[thick]V/i sux:zid[flour]N
-dcclt/Q000043,OB Nippur Ura 06,N 5061 + N 5081 (MSL 08/1, 082 V56) [OB Nippur Ura],o i 7',sux:ninda[bread]N sux:gur[thick]V/i sux:zid[flour]N
-dcclt/Q000043,OB Nippur Ura 06,N 5061 + N 5081 (MSL 08/1, 082 V56) [OB Nippur Ura],o i 8',sux:ninda[bread]N sux:gur[thick]V/i sux:dabin[semolina]N
-dcclt/Q000043,OB Nippur Ura 06,N 5061 + N 5081 (MSL 08/1, 082 V56) [OB Nippur Ura],o i 9',sux:ninda[bread]N sux:gur[thick]V/i sux:zidmilla[flour]N
-dcclt/Q000043,OB Nippur Ura 06,N 5061 + N 5081 (MSL 08/1, 082 V56) [OB Nippur Ura],o i 10',sux:ninda[bread]N sux:gur[thick]V/i
-dcclt/Q000043,OB Nippur Ura 06,N 5061 + N 5081 (MSL 08/1, 082 V56) [OB Nippur Ura],o i 11',sux:ninda[bread]N sux:gur[thick]V/i sux:i[oil]N sux:de[pour]V/t
-dcclt/Q000043,OB Nippur Ura 06,N 5061 + N 5081 (MSL 08/1, 082 V56) [OB Nippur Ura],o i 12',sux:ninda[bread]N sux:gur[thick]V/i sux:i[oil]N sux:de[pour]V/t
-dcclt/Q000043,OB Nippur Ura 06,N 5061 + N 5081 (MSL 08/1, 082 V56) [OB Nippur Ura],o i 13',sux:ninda[bread]N sux:hibza[~bread]N
-dcclt/Q000043,OB Nippur Ura 06,N 5061 + N 5081 (MSL 08/1, 082 V56) [OB Nippur Ura],o i 14',sux:ninda[bread]N sux:pandunum[bread]N
-dcclt/Q000043,OB Nippur Ura 06,N 5061 + N 5081 (MSL 08/1, 082 V56) [OB Nippur Ura],o i 15',sux:ninda[bread]N sux:pananikum[bread]N
-dcclt/Q000043,OB Nippur Ura 06,N 5061 + N 5081 (MSL 08/1, 082 V56) [OB Nippur Ura],o i 16',sux:ninda[bread]N sux:gazi[condiment]N
-dcclt/Q000043,OB Nippur Ura 06,N 5061 + N 5081 (MSL 08/1, 082 V56) [OB Nippur Ura],o i 17',sux:ninda[bread]N sux:harub[carob]N
-dcclt/Q000043,OB Nippur Ura 06,N 5061 + N 5081 (MSL 08/1, 082 V56) [OB Nippur Ura],o i 18',sux:ninda[bread]N
-dcclt/Q000043,OB Nippur Ura 06,N 5061 + N 5081 (MSL 08/1, 082 V56) [OB Nippur Ura],o i 19',sux:ninda[bread]N sux:saŋŋar[millstone]N
+dcclt/Q000043,OB Nippur Ura 06,N 3994 (MSL 11 111 M) [OB Nippur Ura],o i 2',sux:sumun[vessel]N sux:a[water]N sux:ŋar[place]V/t
+dcclt/Q000043,OB Nippur Ura 06,N 3994 (MSL 11 111 M) [OB Nippur Ura],o i 3',sux:sumun[vessel]N sux:a[water]N sux:sig[put]V/t
+dcclt/Q000043,OB Nippur Ura 06,N 3994 (MSL 11 111 M) [OB Nippur Ura],o i 4',sux:sumun[vessel]N sux:sur[press]V/t
+dcclt/Q000043,OB Nippur Ura 06,N 3994 (MSL 11 111 M) [OB Nippur Ura],o i 5',sux:titab[~beer]N
+dcclt/Q000043,OB Nippur Ura 06,N 3994 (MSL 11 111 M) [OB Nippur Ura],o i 6',sux:zid[flour]N sux:munu[malt]N
+dcclt/Q000043,OB Nippur Ura 06,N 3994 (MSL 11 111 M) [OB Nippur Ura],o i 7',sux:munu[malt]N
+dcclt/Q000043,OB Nippur Ura 06,N 3994 (MSL 11 111 M) [OB Nippur Ura],o i 8',sux:munu[malt]N
+dcclt/Q000043,OB Nippur Ura 06,PBS 05 135 [OB Nippur Ura],o i 1,sux:uhin[date]N
+dcclt/Q000043,OB Nippur Ura 06,PBS 05 135 [OB Nippur Ura],o i 2,sux:uhin[date]N sux:babbar[white]V/i
+dcclt/Q000043,OB Nippur Ura 06,PBS 05 135 [OB Nippur Ura],o i 3,sux:uhin[date]N sux:kukkug[dark]V/i
+dcclt/Q000043,OB Nippur Ura 06,PBS 05 135 [OB Nippur Ura],o i 4,sux:uhin[date]N sux:su[red]V/i
+dcclt/Q000043,OB Nippur Ura 06,PBS 05 135 [OB Nippur Ura],o i 5,sux:uhin[date]N sux:sissig[green]V/i
+dcclt/Q000043,OB Nippur Ura 06,PBS 05 135 [OB Nippur Ura],o i 6,sux:uhin[date]N sux:gunu[speckled]V/i
+dcclt/Q000043,OB Nippur Ura 06,PBS 05 135 [OB Nippur Ura],o i 7,sux:uhin[date]N sux:bar.UD[~dates]N
+dcclt/Q000043,OB Nippur Ura 06,PBS 05 135 [OB Nippur Ura],o i 8,sux:uhin[date]N sux:šag[heart]N sux:sur[press]V/t
+dcclt/Q000043,OB Nippur Ura 06,PBS 05 135 [OB Nippur Ura],o i 9,sux:uhin[date]N sux:udtena[evening]N sux:dug[speak]V/t
+dcclt/Q000043,OB Nippur Ura 06,PBS 05 135 [OB Nippur Ura],o i 10,sux:zulum[date]N
+dcclt/Q000043,OB Nippur Ura 06,PBS 05 135 [OB Nippur Ura],r ii 1',sux:še[barley]N
+dcclt/Q000043,OB Nippur Ura 06,PBS 05 135 [OB Nippur Ura],r ii 2',sux:še[barley]N sux:zar[sheaf]N sux:tab[double]V/t
+dcclt/Q000043,OB Nippur Ura 06,PBS 05 135 [OB Nippur Ura],r ii 3',sux:še[barley]N sux:zar[sheaf]N sux:sal[thin]V/i
+dcclt/Q000043,OB Nippur Ura 06,PBS 05 135 [OB Nippur Ura],r ii 4',sux:še[barley]N sux:niŋkud[due]N
+dcclt/Q000043,OB Nippur Ura 06,PBS 05 135 [OB Nippur Ura],r ii 5',sux:še[barley]N sux:us[follow]V/t
+dcclt/Q000043,OB Nippur Ura 06,PBS 05 135 [OB Nippur Ura],r ii 6',sux:še[barley]N sux:us[follow]V/t
+dcclt/Q000043,OB Nippur Ura 06,PBS 05 135 [OB Nippur Ura],r ii 7',sux:še[barley]N sux:nir[winnow]V/t
+dcclt/Q000043,OB Nippur Ura 06,PBS 05 135 [OB Nippur Ura],r ii 8',sux:še[barley]N sux:nir[winnow]V/t
+dcclt/Q000043,OB Nippur Ura 06,PBS 05 135 [OB Nippur Ura],r ii 9',sux:še[barley]N sux:a[water]N sux:de[pour]V/t
+dcclt/Q000043,OB Nippur Ura 06,PBS 05 135 [OB Nippur Ura],r iii 1',sux:innu[straw]N
+dcclt/Q000043,OB Nippur Ura 06,PBS 05 135 [OB Nippur Ura],r iii 2',sux:innu[straw]N sux:deg[collect]V/t
+dcclt/Q000043,OB Nippur Ura 06,PBS 05 135 [OB Nippur Ura],r iii 3',sux:innu[straw]N sux:deg[collect]V/t
+dcclt/Q000043,OB Nippur Ura 06,PBS 05 135 [OB Nippur Ura],r iii 4',sux:innu[straw]N sux:bul[blow]V/t
+dcclt/Q000043,OB Nippur Ura 06,PBS 05 135 [OB Nippur Ura],r iii 5',sux:innu[straw]N sux:bul[blow]V/t
+dcclt/Q000043,OB Nippur Ura 06,PBS 05 135 [OB Nippur Ura],r iii 6',sux:hašhur[apple]N
+dcclt/Q000043,OB Nippur Ura 06,PBS 05 135 [OB Nippur Ura],r iii 7',sux:hašhur[apple]N sux:kur[mountain]N
+dcclt/Q000043,OB Nippur Ura 06,PBS 05 135 [OB Nippur Ura],r iii 8',sux:hašhur[apple]N sux:babbar[white]V/i
+dcclt/Q000043,OB Nippur Ura 06,PBS 05 135 [OB Nippur Ura],r iii 9',sux:hašhur[apple]N sux:kukkug[dark]V/i
+dcclt/Q000043,OB Nippur Ura 06,PBS 05 135 [OB Nippur Ura],r iii 10',sux:hašhur[apple]N sux:su[red]V/i
+dcclt/Q000043,OB Nippur Ura 06,UM 29-16-266 (+) N 0972 (MSL 11 111 F) [OB Nippur Ura],o i 1',sux:tu[soup]N sux:arzana[groats]N sux:sag[rare]V/i
+dcclt/Q000043,OB Nippur Ura 06,UM 29-16-266 (+) N 0972 (MSL 11 111 F) [OB Nippur Ura],o i 2',sux:tu[soup]N sux:lub[turnip]N
+dcclt/Q000043,OB Nippur Ura 06,UM 29-16-266 (+) N 0972 (MSL 11 111 F) [OB Nippur Ura],o i 3',sux:tu[soup]N sux:tunla[vessel]N
+dcclt/Q000043,OB Nippur Ura 06,UM 29-16-266 (+) N 0972 (MSL 11 111 F) [OB Nippur Ura],o i 4',sux:tu[soup]N sux:ganše[plant]N
+dcclt/Q000043,OB Nippur Ura 06,UM 29-16-266 (+) N 0972 (MSL 11 111 F) [OB Nippur Ura],o i 5',sux:tu[soup]N sux:maš[plant]N
+dcclt/Q000043,OB Nippur Ura 06,UM 29-16-266 (+) N 0972 (MSL 11 111 F) [OB Nippur Ura],o i 6',sux:tu[soup]N sux:mašgurum[plant]N
+dcclt/Q000043,OB Nippur Ura 06,UM 29-16-266 (+) N 0972 (MSL 11 111 F) [OB Nippur Ura],o i 7',sux:tu[soup]N sux:adar[plant]N
+dcclt/Q000043,OB Nippur Ura 06,UM 29-16-266 (+) N 0972 (MSL 11 111 F) [OB Nippur Ura],o i 8',sux:tu[soup]N sux:lubšir[bag]N
+dcclt/Q000043,OB Nippur Ura 06,UM 29-16-266 (+) N 0972 (MSL 11 111 F) [OB Nippur Ura],o i 9',sux:tu[soup]N sux:babada[porridge]N
+dcclt/Q000043,OB Nippur Ura 06,UM 29-16-266 (+) N 0972 (MSL 11 111 F) [OB Nippur Ura],o i 10',sux:tu[soup]N sux:babada[porridge]N sux:sag[rare]V/i
+dcclt/Q000043,OB Nippur Ura 06,UM 29-16-266 (+) N 0972 (MSL 11 111 F) [OB Nippur Ura],o i 11',sux:tu[soup]N sux:zid[flour]N
+dcclt/Q000043,OB Nippur Ura 06,UM 29-16-266 (+) N 0972 (MSL 11 111 F) [OB Nippur Ura],o i 12',sux:zid[flour]N
+dcclt/Q000043,OB Nippur Ura 06,UM 29-16-266 (+) N 0972 (MSL 11 111 F) [OB Nippur Ura],o ii 1',sux:tu[soup]N
+dcclt/Q000043,OB Nippur Ura 06,UM 29-16-266 (+) N 0972 (MSL 11 111 F) [OB Nippur Ura],o ii 2',sux:kaš[beer]N
+dcclt/Q000043,OB Nippur Ura 06,UM 29-16-266 (+) N 0972 (MSL 11 111 F) [OB Nippur Ura],o ii 3',sux:kaš[beer]N
+dcclt/Q000043,OB Nippur Ura 06,UM 29-16-266 (+) N 0972 (MSL 11 111 F) [OB Nippur Ura],o ii 5',sux:kaš[beer]N
+dcclt/Q000043,OB Nippur Ura 06,UM 29-16-266 (+) N 0972 (MSL 11 111 F) [OB Nippur Ura],o ii 6',sux:kaš[beer]N
+dcclt/Q000043,OB Nippur Ura 06,UM 29-16-266 (+) N 0972 (MSL 11 111 F) [OB Nippur Ura],o ii 7',sux:kaš[beer]N
+dcclt/Q000043,OB Nippur Ura 06,UM 29-16-266 (+) N 0972 (MSL 11 111 F) [OB Nippur Ura],o ii 8',sux:dida[wort]N
+dcclt/Q000043,OB Nippur Ura 06,UM 29-16-266 (+) N 0972 (MSL 11 111 F) [OB Nippur Ura],o ii 9',sux:dida[wort]N
+dcclt/Q000043,OB Nippur Ura 06,UM 29-16-266 (+) N 0972 (MSL 11 111 F) [OB Nippur Ura],o ii 10',sux:dida[wort]N
+dcclt/Q000043,OB Nippur Ura 06,UM 29-16-266 (+) N 0972 (MSL 11 111 F) [OB Nippur Ura],o ii 11',sux:dida[wort]N
+dcclt/Q000043,OB Nippur Ura 06,UM 29-16-266 (+) N 0972 (MSL 11 111 F) [OB Nippur Ura],o ii 12',sux:dida[wort]N
+dcclt/Q000043,OB Nippur Ura 06,UM 29-16-266 (+) N 0972 (MSL 11 111 F) [OB Nippur Ura],o ii 13',sux:kaš[beer]N
+dcclt/Q000043,OB Nippur Ura 06,UM 29-16-266 (+) N 0972 (MSL 11 111 F) [OB Nippur Ura],r i 1',sux:uhin[date]N
+dcclt/Q000043,OB Nippur Ura 06,UM 29-16-266 (+) N 0972 (MSL 11 111 F) [OB Nippur Ura],r i 2',sux:uhin[date]N
+dcclt/Q000043,OB Nippur Ura 06,UM 29-16-266 (+) N 0972 (MSL 11 111 F) [OB Nippur Ura],r i 3',sux:uhin[date]N
+dcclt/Q000043,OB Nippur Ura 06,UM 29-16-266 (+) N 0972 (MSL 11 111 F) [OB Nippur Ura],r i 4',sux:uhin[date]N
+dcclt/Q000043,OB Nippur Ura 06,UM 29-16-266 (+) N 0972 (MSL 11 111 F) [OB Nippur Ura],r i 5',sux:uhin[date]N
+dcclt/Q000043,OB Nippur Ura 06,UM 29-16-266 (+) N 0972 (MSL 11 111 F) [OB Nippur Ura],r i 6',sux:uhin[date]N
+dcclt/Q000043,OB Nippur Ura 06,UM 29-16-266 (+) N 0972 (MSL 11 111 F) [OB Nippur Ura],r i 7',sux:uhin[date]N
+dcclt/Q000043,OB Nippur Ura 06,UM 29-16-266 (+) N 0972 (MSL 11 111 F) [OB Nippur Ura],r i 8',sux:zulum[date]N
+dcclt/Q000043,OB Nippur Ura 06,UM 29-16-266 (+) N 0972 (MSL 11 111 F) [OB Nippur Ura],r i 9',sux:zulum[date]N
+dcclt/Q000043,OB Nippur Ura 06,UM 29-16-266 (+) N 0972 (MSL 11 111 F) [OB Nippur Ura],r ii 1',sux:mun[salt]V/i
+dcclt/Q000043,OB Nippur Ura 06,UM 29-16-266 (+) N 0972 (MSL 11 111 F) [OB Nippur Ura],r ii 2',sux:mungazi[~agriculture]N
+dcclt/Q000043,OB Nippur Ura 06,UM 29-16-266 (+) N 0972 (MSL 11 111 F) [OB Nippur Ura],r ii 3',sux:mun[salt]V/i sux:šimbirida[plant]N
+dcclt/Q000043,OB Nippur Ura 06,UM 29-16-266 (+) N 0972 (MSL 11 111 F) [OB Nippur Ura],r ii 4',sux:mun[salt]V/i sux:šeŋ[cook]V/t
+dcclt/Q000043,OB Nippur Ura 06,UM 29-16-266 (+) N 0972 (MSL 11 111 F) [OB Nippur Ura],r ii 5',sux:mun[salt]V/i sux:gaz[kill]V/t
+dcclt/Q000043,OB Nippur Ura 06,UM 29-16-266 (+) N 0972 (MSL 11 111 F) [OB Nippur Ura],r ii 6',sux:naŋa[potash]N
+dcclt/Q000043,OB Nippur Ura 06,UM 29-16-266 (+) N 0972 (MSL 11 111 F) [OB Nippur Ura],r ii 7',sux:naŋasiʾe[plant]N
+dcclt/Q000043,OB Nippur Ura 06,UM 29-16-266 (+) N 0972 (MSL 11 111 F) [OB Nippur Ura],r ii 8',sux:naŋa[potash]N sux:duru[wet]V/i
+dcclt/Q000043,OB Nippur Ura 06,UM 29-16-266 (+) N 0972 (MSL 11 111 F) [OB Nippur Ura],r ii 9',sux:naŋa[potash]N sux:ah[dry]V/i
+dcclt/Q000043,OB Nippur Ura 06,UM 29-16-266 (+) N 0972 (MSL 11 111 F) [OB Nippur Ura],r ii 10',sux:pa[branch]N sux:naŋa[potash]N
+dcclt/Q000043,OB Nippur Ura 06,UM 29-16-266 (+) N 0972 (MSL 11 111 F) [OB Nippur Ura],r ii 11',sux:naŋa[potash]N
+dcclt/Q000043,OB Nippur Ura 06,N 4969 (MSL 11 111 K) [Obverse Not Preserved],r ii 2',sux:kaš[beer]N sux:mah[great]V/i
+dcclt/Q000043,OB Nippur Ura 06,N 4969 (MSL 11 111 K) [Obverse Not Preserved],r ii 3',sux:kaš[beer]N sux:mah[great]V/i sux:eš[three]NU
+dcclt/Q000043,OB Nippur Ura 06,N 4969 (MSL 11 111 K) [Obverse Not Preserved],r ii 4',sux:kaš[beer]N sux:bala[turn]V/t
+dcclt/Q000043,OB Nippur Ura 06,N 4969 (MSL 11 111 K) [Obverse Not Preserved],r ii 5',sux:kaš[beer]N sux:ešeš[festival]N
+dcclt/Q000043,OB Nippur Ura 06,N 4969 (MSL 11 111 K) [Obverse Not Preserved],r ii 6',sux:kaš[beer]N sux:siškur[prayer]N
+dcclt/Q000043,OB Nippur Ura 06,N 4969 (MSL 11 111 K) [Obverse Not Preserved],r ii 7',sux:kaš[beer]N
+dcclt/Q000043,OB Nippur Ura 06,UM 29-13-265 (MSL 11 111 O) [OB Nippur Ea],r i 2,sux:bappir[~beer]N
+dcclt/Q000043,OB Nippur Ura 06,UM 29-13-265 (MSL 11 111 O) [OB Nippur Ea],r i 3,sux:bappir[~beer]N sux:pad[break]V/t
+dcclt/Q000043,OB Nippur Ura 06,UM 29-13-265 (MSL 11 111 O) [OB Nippur Ea],r i 4,sux:bappir[~beer]N sux:ud[sun]N sux:tab[double]V/t
+dcclt/Q000043,OB Nippur Ura 06,UM 29-13-265 (MSL 11 111 O) [OB Nippur Ea],r i 5,sux:sumun[vessel]N
+dcclt/Q000043,OB Nippur Ura 06,UM 29-13-265 (MSL 11 111 O) [OB Nippur Ea],r i 6,sux:sumun[vessel]N sux:a[water]N sux:ŋar[place]V/t
+dcclt/Q000043,OB Nippur Ura 06,UM 29-13-265 (MSL 11 111 O) [OB Nippur Ea],r ii 1,sux:duh[bran]N
+dcclt/Q000043,OB Nippur Ura 06,UM 29-13-265 (MSL 11 111 O) [OB Nippur Ea],r ii 2,sux:duh[bran]N sux:duru[wet]V/i
+dcclt/Q000043,OB Nippur Ura 06,UM 29-13-265 (MSL 11 111 O) [OB Nippur Ea],r ii 3,sux:duh[bran]N sux:ah[dry]V/i
+dcclt/Q000043,OB Nippur Ura 06,UM 29-13-265 (MSL 11 111 O) [OB Nippur Ea],r ii 4,sux:duh[bran]N sux:hahala[comestible]N
+dcclt/Q000043,OB Nippur Ura 06,UM 29-13-265 (MSL 11 111 O) [OB Nippur Ea],r ii 5,sux:duh[bran]N sux:hahala[comestible]N
+dcclt/Q000043,OB Nippur Ura 06,UM 29-13-265 (MSL 11 111 O) [OB Nippur Ea],r ii 6,sux:duh[bran]N sux:kurun[beer]N
+dcclt/Q000043,OB Nippur Ura 06,N 5757 (MSL 11 111 R) [Nigga],r i 2',sux:nindaʾidea[bread]N
+dcclt/Q000043,OB Nippur Ura 06,N 5757 (MSL 11 111 R) [Nigga],r i 3',sux:nindaʾidea[bread]N
+dcclt/Q000043,OB Nippur Ura 06,N 5757 (MSL 11 111 R) [Nigga],r i 4',sux:nindaʾidea[bread]N
+dcclt/Q000043,OB Nippur Ura 06,N 5757 (MSL 11 111 R) [Nigga],r i 5',sux:nindaʾidea[bread]N
+dcclt/Q000043,OB Nippur Ura 06,N 5757 (MSL 11 111 R) [Nigga],r i 6',sux:nindaʾidea[bread]N sux:a[water]N sux:sig[put]V/t
+dcclt/Q000043,OB Nippur Ura 06,N 5757 (MSL 11 111 R) [Nigga],r i 7',sux:ninda[bread]N sux:i[oil]N
+dcclt/Q000043,OB Nippur Ura 06,N 5757 (MSL 11 111 R) [Nigga],r i 8',sux:ninda[bread]N sux:ga[milk]N
+dcclt/Q000043,OB Nippur Ura 06,N 5757 (MSL 11 111 R) [Nigga],r i 9',sux:ninda[bread]N sux:šuʾi[barber]N
+dcclt/Q000043,OB Nippur Ura 06,N 5061 + N 5081 (MSL 08/1 082 V56) [OB Nippur Ura],o i 2',sux:ninda[bread]N sux:gur[thick]V/i sux:zidgu[flour]N
+dcclt/Q000043,OB Nippur Ura 06,N 5061 + N 5081 (MSL 08/1 082 V56) [OB Nippur Ura],o i 3',sux:ninda[bread]N sux:gur[thick]V/i sux:zid[flour]N sux:gunida[~grain]N
+dcclt/Q000043,OB Nippur Ura 06,N 5061 + N 5081 (MSL 08/1 082 V56) [OB Nippur Ura],o i 4',sux:ninda[bread]N sux:gur[thick]V/i sux:zidsig[flour]N
+dcclt/Q000043,OB Nippur Ura 06,N 5061 + N 5081 (MSL 08/1 082 V56) [OB Nippur Ura],o i 5',sux:ninda[bread]N sux:gur[thick]V/i sux:zid[flour]N
+dcclt/Q000043,OB Nippur Ura 06,N 5061 + N 5081 (MSL 08/1 082 V56) [OB Nippur Ura],o i 6',sux:ninda[bread]N sux:gur[thick]V/i sux:zid[flour]N
+dcclt/Q000043,OB Nippur Ura 06,N 5061 + N 5081 (MSL 08/1 082 V56) [OB Nippur Ura],o i 7',sux:ninda[bread]N sux:gur[thick]V/i sux:zid[flour]N
+dcclt/Q000043,OB Nippur Ura 06,N 5061 + N 5081 (MSL 08/1 082 V56) [OB Nippur Ura],o i 8',sux:ninda[bread]N sux:gur[thick]V/i sux:dabin[semolina]N
+dcclt/Q000043,OB Nippur Ura 06,N 5061 + N 5081 (MSL 08/1 082 V56) [OB Nippur Ura],o i 9',sux:ninda[bread]N sux:gur[thick]V/i sux:zidmilla[flour]N
+dcclt/Q000043,OB Nippur Ura 06,N 5061 + N 5081 (MSL 08/1 082 V56) [OB Nippur Ura],o i 10',sux:ninda[bread]N sux:gur[thick]V/i
+dcclt/Q000043,OB Nippur Ura 06,N 5061 + N 5081 (MSL 08/1 082 V56) [OB Nippur Ura],o i 11',sux:ninda[bread]N sux:gur[thick]V/i sux:i[oil]N sux:de[pour]V/t
+dcclt/Q000043,OB Nippur Ura 06,N 5061 + N 5081 (MSL 08/1 082 V56) [OB Nippur Ura],o i 12',sux:ninda[bread]N sux:gur[thick]V/i sux:i[oil]N sux:de[pour]V/t
+dcclt/Q000043,OB Nippur Ura 06,N 5061 + N 5081 (MSL 08/1 082 V56) [OB Nippur Ura],o i 13',sux:ninda[bread]N sux:hibza[~bread]N
+dcclt/Q000043,OB Nippur Ura 06,N 5061 + N 5081 (MSL 08/1 082 V56) [OB Nippur Ura],o i 14',sux:ninda[bread]N sux:pandunum[bread]N
+dcclt/Q000043,OB Nippur Ura 06,N 5061 + N 5081 (MSL 08/1 082 V56) [OB Nippur Ura],o i 15',sux:ninda[bread]N sux:pananikum[bread]N
+dcclt/Q000043,OB Nippur Ura 06,N 5061 + N 5081 (MSL 08/1 082 V56) [OB Nippur Ura],o i 16',sux:ninda[bread]N sux:gazi[condiment]N
+dcclt/Q000043,OB Nippur Ura 06,N 5061 + N 5081 (MSL 08/1 082 V56) [OB Nippur Ura],o i 17',sux:ninda[bread]N sux:harub[carob]N
+dcclt/Q000043,OB Nippur Ura 06,N 5061 + N 5081 (MSL 08/1 082 V56) [OB Nippur Ura],o i 18',sux:ninda[bread]N
+dcclt/Q000043,OB Nippur Ura 06,N 5061 + N 5081 (MSL 08/1 082 V56) [OB Nippur Ura],o i 19',sux:ninda[bread]N sux:saŋŋar[millstone]N
 dcclt/Q000043,OB Nippur Ura 06,SLT 029 [Obverse Not Preserved],r i 1',sux:še[barley]N sux:kud[cut]V/t
 dcclt/Q000043,OB Nippur Ura 06,SLT 029 [Obverse Not Preserved],r i 2',sux:še[barley]N sux:us[follow]V/t
 dcclt/Q000043,OB Nippur Ura 06,SLT 029 [Obverse Not Preserved],r i 3',sux:še[barley]N sux:us[follow]V/t
@@ -940,14 +940,14 @@ dcclt/Q000043,OB Nippur Ura 06,SLT 036 [OB Nippur Ura],r ii 10',sux:ziz[emmer]
 dcclt/Q000043,OB Nippur Ura 06,SLT 036 [OB Nippur Ura],r ii 11',sux:ziz[emmer]N sux:gunida[~grain]N
 dcclt/Q000043,OB Nippur Ura 06,SLT 036 [OB Nippur Ura],r ii 12',sux:še[barley]N
 dcclt/Q000043,OB Nippur Ura 06,SLT 036 [OB Nippur Ura],r ii 13',sux:še[barley]N sux:eštub[carp]N
-dcclt/Q000043,OB Nippur Ura 06,N 6254 (MSL 11, 112 V) [OB Nippur Ura],o i 2',sux:ga[milk]N sux:nunuzte[~dairy]N
-dcclt/Q000043,OB Nippur Ura 06,N 6254 (MSL 11, 112 V) [OB Nippur Ura],o i 3',sux:ga[milk]N sux:u[grass]N
-dcclt/Q000043,OB Nippur Ura 06,N 6254 (MSL 11, 112 V) [OB Nippur Ura],o i 4',sux:gaʾar[cheese]N
-dcclt/Q000043,OB Nippur Ura 06,N 5543 (MSL 11, 112 T) [OB Nippur Ura],o i 2',sux:i[oil]N sux:šiqdum[almond]N
-dcclt/Q000043,OB Nippur Ura 06,N 5543 (MSL 11, 112 T) [OB Nippur Ura],o i 3',sux:i[oil]N sux:az[bear]N
-dcclt/Q000043,OB Nippur Ura 06,N 5543 (MSL 11, 112 T) [OB Nippur Ura],o i 4',sux:i[oil]N sux:ligidba[plant]N
-dcclt/Q000043,OB Nippur Ura 06,N 5543 (MSL 11, 112 T) [OB Nippur Ura],o i 5',sux:ligidba[plant]N
-dcclt/Q000043,OB Nippur Ura 06,N 5543 (MSL 11, 112 T) [OB Nippur Ura],o i 6',sux:i[oil]N sux:gal[big]V/i
+dcclt/Q000043,OB Nippur Ura 06,N 6254 (MSL 11 112 V) [OB Nippur Ura],o i 2',sux:ga[milk]N sux:nunuzte[~dairy]N
+dcclt/Q000043,OB Nippur Ura 06,N 6254 (MSL 11 112 V) [OB Nippur Ura],o i 3',sux:ga[milk]N sux:u[grass]N
+dcclt/Q000043,OB Nippur Ura 06,N 6254 (MSL 11 112 V) [OB Nippur Ura],o i 4',sux:gaʾar[cheese]N
+dcclt/Q000043,OB Nippur Ura 06,N 5543 (MSL 11 112 T) [OB Nippur Ura],o i 2',sux:i[oil]N sux:šiqdum[almond]N
+dcclt/Q000043,OB Nippur Ura 06,N 5543 (MSL 11 112 T) [OB Nippur Ura],o i 3',sux:i[oil]N sux:az[bear]N
+dcclt/Q000043,OB Nippur Ura 06,N 5543 (MSL 11 112 T) [OB Nippur Ura],o i 4',sux:i[oil]N sux:ligidba[plant]N
+dcclt/Q000043,OB Nippur Ura 06,N 5543 (MSL 11 112 T) [OB Nippur Ura],o i 5',sux:ligidba[plant]N
+dcclt/Q000043,OB Nippur Ura 06,N 5543 (MSL 11 112 T) [OB Nippur Ura],o i 6',sux:i[oil]N sux:gal[big]V/i
 dcclt/Q000043,OB Nippur Ura 06,SLT 028 [Obverse Not Preserved],r i 1,sux:še[barley]N
 dcclt/Q000043,OB Nippur Ura 06,SLT 028 [Obverse Not Preserved],r i 2,sux:še[barley]N
 dcclt/Q000043,OB Nippur Ura 06,SLT 028 [Obverse Not Preserved],r i 3,sux:še[barley]N
@@ -962,50 +962,50 @@ dcclt/Q000043,OB Nippur Ura 06,SLT 028 [Obverse Not Preserved],r ii 6,sux:še[
 dcclt/Q000043,OB Nippur Ura 06,SLT 028 [Obverse Not Preserved],r ii 7,sux:še[barley]N
 dcclt/Q000043,OB Nippur Ura 06,SLT 028 [Obverse Not Preserved],r iii 3,sux:še[barley]N sux:eštub[carp]N
 dcclt/Q000043,OB Nippur Ura 06,SLT 028 [Obverse Not Preserved],r iii 4,sux:šeŋuš[barley]N
-dcclt/Q000043,OB Nippur Ura 06,UM 29-13-389 (MSL 11, 112 Z) [OB Nippur Ura],o i 1,sux:ŋeštin[vine]N
-dcclt/Q000043,OB Nippur Ura 06,UM 29-13-389 (MSL 11, 112 Z) [OB Nippur Ura],o i 2,sux:ŋeštinkira[berry]N
-dcclt/Q000043,OB Nippur Ura 06,UM 29-13-389 (MSL 11, 112 Z) [OB Nippur Ura],o i 3,sux:ŋeštinkaʾa[grape]N
-dcclt/Q000043,OB Nippur Ura 06,UM 29-13-389 (MSL 11, 112 Z) [OB Nippur Ura],o i 4,sux:ŋeštinguruma[~vine]N
-dcclt/Q000043,OB Nippur Ura 06,UM 29-13-389 (MSL 11, 112 Z) [OB Nippur Ura],o i 5,sux:ŋeštin[vine]N sux:sur[press]V/t
-dcclt/Q000043,OB Nippur Ura 06,UM 29-13-389 (MSL 11, 112 Z) [OB Nippur Ura],o i 6,sux:ŋeštin[vine]N sux:šeŋ[cook]V/t
-dcclt/Q000043,OB Nippur Ura 06,UM 29-13-389 (MSL 11, 112 Z) [OB Nippur Ura],o i 7,sux:ŋeštin[vine]N sux:igi[eye]N sux:saŋ[choose]V/t
-dcclt/Q000043,OB Nippur Ura 06,UM 29-13-389 (MSL 11, 112 Z) [OB Nippur Ura],o i 8,sux:ŋeštin[vine]N sux:e[leave]V/i
-dcclt/Q000043,OB Nippur Ura 06,UM 29-13-389 (MSL 11, 112 Z) [OB Nippur Ura],o i 9,sux:aŋeštinak[vinegar]N
-dcclt/Q000043,OB Nippur Ura 06,UM 29-13-389 (MSL 11, 112 Z) [OB Nippur Ura],o i 10,sux:garan[bunch]N
-dcclt/Q000043,OB Nippur Ura 06,UM 29-13-389 (MSL 11, 112 Z) [OB Nippur Ura],o i 11,sux:garan[bunch]N sux:hašhur[apple]N
-dcclt/Q000043,OB Nippur Ura 06,UM 29-13-389 (MSL 11, 112 Z) [OB Nippur Ura],o i 12,sux:garan[bunch]N sux:peš[fig]N
-dcclt/Q000043,OB Nippur Ura 06,UM 29-13-389 (MSL 11, 112 Z) [OB Nippur Ura],o i 13,sux:garan[bunch]N sux:nurma[pomegranate]N
-dcclt/Q000043,OB Nippur Ura 06,UM 29-13-389 (MSL 11, 112 Z) [OB Nippur Ura],r 1',sux:garan[bunch]N sux:šennur[plum]N
-dcclt/Q000043,OB Nippur Ura 06,UM 29-13-389 (MSL 11, 112 Z) [OB Nippur Ura],r 2',sux:šuguru[~dates]N
-dcclt/Q000043,OB Nippur Ura 06,CBS 03932 (MSL 11, 112 B1) [OB Nippur Ura],o i 1',sux:šuguru[~dates]N
-dcclt/Q000043,OB Nippur Ura 06,CBS 03932 (MSL 11, 112 B1) [OB Nippur Ura],o i 2',sux:uhin[date]N
-dcclt/Q000043,OB Nippur Ura 06,CBS 03932 (MSL 11, 112 B1) [OB Nippur Ura],o i 3',sux:uhin[date]N sux:babbar[white]V/i
-dcclt/Q000043,OB Nippur Ura 06,CBS 03932 (MSL 11, 112 B1) [OB Nippur Ura],o i 4',sux:uhin[date]N sux:kukkug[dark]V/i
-dcclt/Q000043,OB Nippur Ura 06,CBS 03932 (MSL 11, 112 B1) [OB Nippur Ura],o i 5',sux:uhin[date]N sux:su[red]V/i
-dcclt/Q000043,OB Nippur Ura 06,CBS 03932 (MSL 11, 112 B1) [OB Nippur Ura],o i 6',sux:uhin[date]N sux:sissig[green]V/i
-dcclt/Q000043,OB Nippur Ura 06,CBS 03932 (MSL 11, 112 B1) [OB Nippur Ura],o i 7',sux:uhin[date]N
-dcclt/Q000043,OB Nippur Ura 06,N 4844 (MSL 11, 112 D1) [OB Nippur Ura],o i 2',sux:lal[syrup]N
-dcclt/Q000043,OB Nippur Ura 06,N 4844 (MSL 11, 112 D1) [OB Nippur Ura],o i 3',sux:i[oil]N
-dcclt/Q000043,OB Nippur Ura 06,N 4844 (MSL 11, 112 D1) [OB Nippur Ura],o ii 1',sux:ga[milk]N
-dcclt/Q000043,OB Nippur Ura 06,N 4844 (MSL 11, 112 D1) [OB Nippur Ura],o ii 2',sux:ga[milk]N sux:uzud[goat]N
-dcclt/Q000043,OB Nippur Ura 06,N 4844 (MSL 11, 112 D1) [OB Nippur Ura],o ii 3',sux:ga[milk]N sux:u[ewe]N
-dcclt/Q000043,OB Nippur Ura 06,N 4844 (MSL 11, 112 D1) [OB Nippur Ura],o ii 4',sux:ga[milk]N sux:ab[cow]N
-dcclt/Q000043,OB Nippur Ura 06,N 4844 (MSL 11, 112 D1) [OB Nippur Ura],o ii 5',sux:gašea[~dairy]N
-dcclt/Q000043,OB Nippur Ura 06,N 4844 (MSL 11, 112 D1) [OB Nippur Ura],o ii 6',sux:ga[milk]N sux:gur[lift]V/t
-dcclt/Q000043,OB Nippur Ura 06,N 4844 (MSL 11, 112 D1) [OB Nippur Ura],r i 1,sux:ga[milk]N sux:nunuzte[~dairy]N
-dcclt/Q000043,OB Nippur Ura 06,N 4844 (MSL 11, 112 D1) [OB Nippur Ura],r i 2,sux:ga[milk]N sux:itirda[~dairy]N
-dcclt/Q000043,OB Nippur Ura 06,N 4844 (MSL 11, 112 D1) [OB Nippur Ura],r i 3,sux:ga[milk]N sux:lugal[king]N
-dcclt/Q000043,OB Nippur Ura 06,N 4844 (MSL 11, 112 D1) [OB Nippur Ura],r i 4,sux:ga[milk]N
-dcclt/Q000043,OB Nippur Ura 06,N 4844 (MSL 11, 112 D1) [OB Nippur Ura],r i 5,sux:ga[milk]N
-dcclt/Q000043,OB Nippur Ura 06,N 4844 (MSL 11, 112 D1) [OB Nippur Ura],r ii 1,sux:še[barley]N sux:ŋeš[tree]N sux:rah[beat]V/t
-dcclt/Q000043,OB Nippur Ura 06,N 4844 (MSL 11, 112 D1) [OB Nippur Ura],r ii 2,sux:še[barley]N sux:izi[fire]N sux:tag[touch]V/t
-dcclt/Q000043,OB Nippur Ura 06,N 4844 (MSL 11, 112 D1) [OB Nippur Ura],r ii 3,sux:še[barley]N sux:in.nu.HA[barley]N
-dcclt/Q000043,OB Nippur Ura 06,CBS 04863 (MSL 11, 113 Q1) [Obverse Not Preserved],o i 1',sux:dida[wort]N
-dcclt/Q000043,OB Nippur Ura 06,CBS 04863 (MSL 11, 113 Q1) [Obverse Not Preserved],o i 2',sux:dida[wort]N sux:imŋaŋa[emmer]N
-dcclt/Q000043,OB Nippur Ura 06,CBS 04863 (MSL 11, 113 Q1) [Obverse Not Preserved],o i 3',sux:dida[wort]N sux:imŋaŋa[emmer]N sux:mah[great]V/i
-dcclt/Q000043,OB Nippur Ura 06,CBS 04863 (MSL 11, 113 Q1) [Obverse Not Preserved],o i 4',sux:dida[wort]N
-dcclt/Q000043,OB Nippur Ura 06,CBS 04863 (MSL 11, 113 Q1) [Obverse Not Preserved],o i 5',sux:dida[wort]N
-dcclt/Q000043,OB Nippur Ura 06,CBS 04863 (MSL 11, 113 Q1) [Obverse Not Preserved],o i 6',sux:dida[wort]N sux:lalhab[honey]N
+dcclt/Q000043,OB Nippur Ura 06,UM 29-13-389 (MSL 11 112 Z) [OB Nippur Ura],o i 1,sux:ŋeštin[vine]N
+dcclt/Q000043,OB Nippur Ura 06,UM 29-13-389 (MSL 11 112 Z) [OB Nippur Ura],o i 2,sux:ŋeštinkira[berry]N
+dcclt/Q000043,OB Nippur Ura 06,UM 29-13-389 (MSL 11 112 Z) [OB Nippur Ura],o i 3,sux:ŋeštinkaʾa[grape]N
+dcclt/Q000043,OB Nippur Ura 06,UM 29-13-389 (MSL 11 112 Z) [OB Nippur Ura],o i 4,sux:ŋeštinguruma[~vine]N
+dcclt/Q000043,OB Nippur Ura 06,UM 29-13-389 (MSL 11 112 Z) [OB Nippur Ura],o i 5,sux:ŋeštin[vine]N sux:sur[press]V/t
+dcclt/Q000043,OB Nippur Ura 06,UM 29-13-389 (MSL 11 112 Z) [OB Nippur Ura],o i 6,sux:ŋeštin[vine]N sux:šeŋ[cook]V/t
+dcclt/Q000043,OB Nippur Ura 06,UM 29-13-389 (MSL 11 112 Z) [OB Nippur Ura],o i 7,sux:ŋeštin[vine]N sux:igi[eye]N sux:saŋ[choose]V/t
+dcclt/Q000043,OB Nippur Ura 06,UM 29-13-389 (MSL 11 112 Z) [OB Nippur Ura],o i 8,sux:ŋeštin[vine]N sux:e[leave]V/i
+dcclt/Q000043,OB Nippur Ura 06,UM 29-13-389 (MSL 11 112 Z) [OB Nippur Ura],o i 9,sux:aŋeštinak[vinegar]N
+dcclt/Q000043,OB Nippur Ura 06,UM 29-13-389 (MSL 11 112 Z) [OB Nippur Ura],o i 10,sux:garan[bunch]N
+dcclt/Q000043,OB Nippur Ura 06,UM 29-13-389 (MSL 11 112 Z) [OB Nippur Ura],o i 11,sux:garan[bunch]N sux:hašhur[apple]N
+dcclt/Q000043,OB Nippur Ura 06,UM 29-13-389 (MSL 11 112 Z) [OB Nippur Ura],o i 12,sux:garan[bunch]N sux:peš[fig]N
+dcclt/Q000043,OB Nippur Ura 06,UM 29-13-389 (MSL 11 112 Z) [OB Nippur Ura],o i 13,sux:garan[bunch]N sux:nurma[pomegranate]N
+dcclt/Q000043,OB Nippur Ura 06,UM 29-13-389 (MSL 11 112 Z) [OB Nippur Ura],r 1',sux:garan[bunch]N sux:šennur[plum]N
+dcclt/Q000043,OB Nippur Ura 06,UM 29-13-389 (MSL 11 112 Z) [OB Nippur Ura],r 2',sux:šuguru[~dates]N
+dcclt/Q000043,OB Nippur Ura 06,CBS 03932 (MSL 11 112 B1) [OB Nippur Ura],o i 1',sux:šuguru[~dates]N
+dcclt/Q000043,OB Nippur Ura 06,CBS 03932 (MSL 11 112 B1) [OB Nippur Ura],o i 2',sux:uhin[date]N
+dcclt/Q000043,OB Nippur Ura 06,CBS 03932 (MSL 11 112 B1) [OB Nippur Ura],o i 3',sux:uhin[date]N sux:babbar[white]V/i
+dcclt/Q000043,OB Nippur Ura 06,CBS 03932 (MSL 11 112 B1) [OB Nippur Ura],o i 4',sux:uhin[date]N sux:kukkug[dark]V/i
+dcclt/Q000043,OB Nippur Ura 06,CBS 03932 (MSL 11 112 B1) [OB Nippur Ura],o i 5',sux:uhin[date]N sux:su[red]V/i
+dcclt/Q000043,OB Nippur Ura 06,CBS 03932 (MSL 11 112 B1) [OB Nippur Ura],o i 6',sux:uhin[date]N sux:sissig[green]V/i
+dcclt/Q000043,OB Nippur Ura 06,CBS 03932 (MSL 11 112 B1) [OB Nippur Ura],o i 7',sux:uhin[date]N
+dcclt/Q000043,OB Nippur Ura 06,N 4844 (MSL 11 112 D1) [OB Nippur Ura],o i 2',sux:lal[syrup]N
+dcclt/Q000043,OB Nippur Ura 06,N 4844 (MSL 11 112 D1) [OB Nippur Ura],o i 3',sux:i[oil]N
+dcclt/Q000043,OB Nippur Ura 06,N 4844 (MSL 11 112 D1) [OB Nippur Ura],o ii 1',sux:ga[milk]N
+dcclt/Q000043,OB Nippur Ura 06,N 4844 (MSL 11 112 D1) [OB Nippur Ura],o ii 2',sux:ga[milk]N sux:uzud[goat]N
+dcclt/Q000043,OB Nippur Ura 06,N 4844 (MSL 11 112 D1) [OB Nippur Ura],o ii 3',sux:ga[milk]N sux:u[ewe]N
+dcclt/Q000043,OB Nippur Ura 06,N 4844 (MSL 11 112 D1) [OB Nippur Ura],o ii 4',sux:ga[milk]N sux:ab[cow]N
+dcclt/Q000043,OB Nippur Ura 06,N 4844 (MSL 11 112 D1) [OB Nippur Ura],o ii 5',sux:gašea[~dairy]N
+dcclt/Q000043,OB Nippur Ura 06,N 4844 (MSL 11 112 D1) [OB Nippur Ura],o ii 6',sux:ga[milk]N sux:gur[lift]V/t
+dcclt/Q000043,OB Nippur Ura 06,N 4844 (MSL 11 112 D1) [OB Nippur Ura],r i 1,sux:ga[milk]N sux:nunuzte[~dairy]N
+dcclt/Q000043,OB Nippur Ura 06,N 4844 (MSL 11 112 D1) [OB Nippur Ura],r i 2,sux:ga[milk]N sux:itirda[~dairy]N
+dcclt/Q000043,OB Nippur Ura 06,N 4844 (MSL 11 112 D1) [OB Nippur Ura],r i 3,sux:ga[milk]N sux:lugal[king]N
+dcclt/Q000043,OB Nippur Ura 06,N 4844 (MSL 11 112 D1) [OB Nippur Ura],r i 4,sux:ga[milk]N
+dcclt/Q000043,OB Nippur Ura 06,N 4844 (MSL 11 112 D1) [OB Nippur Ura],r i 5,sux:ga[milk]N
+dcclt/Q000043,OB Nippur Ura 06,N 4844 (MSL 11 112 D1) [OB Nippur Ura],r ii 1,sux:še[barley]N sux:ŋeš[tree]N sux:rah[beat]V/t
+dcclt/Q000043,OB Nippur Ura 06,N 4844 (MSL 11 112 D1) [OB Nippur Ura],r ii 2,sux:še[barley]N sux:izi[fire]N sux:tag[touch]V/t
+dcclt/Q000043,OB Nippur Ura 06,N 4844 (MSL 11 112 D1) [OB Nippur Ura],r ii 3,sux:še[barley]N sux:in.nu.HA[barley]N
+dcclt/Q000043,OB Nippur Ura 06,CBS 04863 (MSL 11 113 Q1) [Obverse Not Preserved],o i 1',sux:dida[wort]N
+dcclt/Q000043,OB Nippur Ura 06,CBS 04863 (MSL 11 113 Q1) [Obverse Not Preserved],o i 2',sux:dida[wort]N sux:imŋaŋa[emmer]N
+dcclt/Q000043,OB Nippur Ura 06,CBS 04863 (MSL 11 113 Q1) [Obverse Not Preserved],o i 3',sux:dida[wort]N sux:imŋaŋa[emmer]N sux:mah[great]V/i
+dcclt/Q000043,OB Nippur Ura 06,CBS 04863 (MSL 11 113 Q1) [Obverse Not Preserved],o i 4',sux:dida[wort]N
+dcclt/Q000043,OB Nippur Ura 06,CBS 04863 (MSL 11 113 Q1) [Obverse Not Preserved],o i 5',sux:dida[wort]N
+dcclt/Q000043,OB Nippur Ura 06,CBS 04863 (MSL 11 113 Q1) [Obverse Not Preserved],o i 6',sux:dida[wort]N sux:lalhab[honey]N
 dcclt/Q000043,OB Nippur Ura 06,SLT 061 [OB Nippur Ura],o i 1',sux:eren[cedar]N
 dcclt/Q000043,OB Nippur Ura 06,SLT 061 [OB Nippur Ura],o i 2',sux:kud[fish]N
 dcclt/Q000043,OB Nippur Ura 06,SLT 061 [OB Nippur Ura],o i 3',sux:šah[pig]N
@@ -1023,11 +1023,11 @@ dcclt/Q000043,OB Nippur Ura 06,SLT 061 [OB Nippur Ura],r i 3',sux:kaš[beer]N 
 dcclt/Q000043,OB Nippur Ura 06,SLT 061 [OB Nippur Ura],r i 4',sux:kaš[beer]N sux:halub[tree]N
 dcclt/Q000043,OB Nippur Ura 06,SLT 061 [OB Nippur Ura],r i 5',sux:kaš[beer]N sux:ti[arrow]N
 dcclt/Q000043,OB Nippur Ura 06,SLT 061 [OB Nippur Ura],r i 6',sux:kaš[beer]N sux:ti[arrow]N sux:ri[unmng]N
-dcclt/Q000043,OB Nippur Ura 06,CBS 06923 (MSL 11, 112 L1) [OB Nippur Ura],o i 3',sux:ninda[bread]N
-dcclt/Q000043,OB Nippur Ura 06,CBS 06923 (MSL 11, 112 L1) [OB Nippur Ura],o i 4',sux:ninda[bread]N sux:dirig[excess]N
-dcclt/Q000043,OB Nippur Ura 06,CBS 06923 (MSL 11, 112 L1) [OB Nippur Ura],o i 5',sux:ninda[bread]N sux:ur[bake]V/t
-dcclt/Q000043,OB Nippur Ura 06,CBS 06923 (MSL 11, 112 L1) [OB Nippur Ura],o i 6',sux:ninda[bread]N sux:nimur[ashes]N
-dcclt/Q000043,OB Nippur Ura 06,CBS 06923 (MSL 11, 112 L1) [OB Nippur Ura],o i 7',sux:nindaʾidea[bread]N
+dcclt/Q000043,OB Nippur Ura 06,CBS 06923 (MSL 11 112 L1) [OB Nippur Ura],o i 3',sux:ninda[bread]N
+dcclt/Q000043,OB Nippur Ura 06,CBS 06923 (MSL 11 112 L1) [OB Nippur Ura],o i 4',sux:ninda[bread]N sux:dirig[excess]N
+dcclt/Q000043,OB Nippur Ura 06,CBS 06923 (MSL 11 112 L1) [OB Nippur Ura],o i 5',sux:ninda[bread]N sux:ur[bake]V/t
+dcclt/Q000043,OB Nippur Ura 06,CBS 06923 (MSL 11 112 L1) [OB Nippur Ura],o i 6',sux:ninda[bread]N sux:nimur[ashes]N
+dcclt/Q000043,OB Nippur Ura 06,CBS 06923 (MSL 11 112 L1) [OB Nippur Ura],o i 7',sux:nindaʾidea[bread]N
 dcclt/Q000043,OB Nippur Ura 06,Ist Ni 10048 [OB Nippur Ura],o i 2',sux:šu[hand]N sux:teŋ[approach]V/i
 dcclt/Q000043,OB Nippur Ura 06,Ist Ni 10048 [OB Nippur Ura],o i 3',sux:šu[hand]N sux:teŋ[approach]V/i
 dcclt/Q000043,OB Nippur Ura 06,Ist Ni 10048 [OB Nippur Ura],o i 4',sux:šu[hand]N sux:teŋ[approach]V/i
@@ -1056,12 +1056,12 @@ dcclt/Q000043,OB Nippur Ura 06,Ist Ni 01576 [Model contract],r ii 9',sux:dida[
 dcclt/Q000043,OB Nippur Ura 06,Ist Ni 01576 [Model contract],r ii 10',sux:dida[wort]N sux:imŋaŋa[emmer]N
 dcclt/Q000043,OB Nippur Ura 06,Ist Ni 01576 [Model contract],r ii 11',sux:dida[wort]N
 dcclt/Q000043,OB Nippur Ura 06,Ist Ni 01576 [Model contract],r ii 12',sux:dida[wort]N
-dcclt/Q000043,OB Nippur Ura 06,A 33510 (MSL 11, 112 I1) [OB Nippur Ura],o i 1,sux:zulum[date]N
-dcclt/Q000043,OB Nippur Ura 06,A 33510 (MSL 11, 112 I1) [OB Nippur Ura],o i 2,sux:zulum[date]N sux:sag[rare]V/i
-dcclt/Q000043,OB Nippur Ura 06,A 33510 (MSL 11, 112 I1) [OB Nippur Ura],o i 3,sux:zulum[date]N sux:ŋen[go]V/i
-dcclt/Q000043,OB Nippur Ura 06,A 33510 (MSL 11, 112 I1) [OB Nippur Ura],o i 4,sux:zulum[date]N sux:babbar[white]V/i
-dcclt/Q000043,OB Nippur Ura 06,A 33510 (MSL 11, 112 I1) [OB Nippur Ura],o i 5,sux:zulum[date]N
-dcclt/Q000043,OB Nippur Ura 06,A 33510 (MSL 11, 112 I1) [OB Nippur Ura],o i 6,sux:zulum[date]N
+dcclt/Q000043,OB Nippur Ura 06,A 33510 (MSL 11 112 I1) [OB Nippur Ura],o i 1,sux:zulum[date]N
+dcclt/Q000043,OB Nippur Ura 06,A 33510 (MSL 11 112 I1) [OB Nippur Ura],o i 2,sux:zulum[date]N sux:sag[rare]V/i
+dcclt/Q000043,OB Nippur Ura 06,A 33510 (MSL 11 112 I1) [OB Nippur Ura],o i 3,sux:zulum[date]N sux:ŋen[go]V/i
+dcclt/Q000043,OB Nippur Ura 06,A 33510 (MSL 11 112 I1) [OB Nippur Ura],o i 4,sux:zulum[date]N sux:babbar[white]V/i
+dcclt/Q000043,OB Nippur Ura 06,A 33510 (MSL 11 112 I1) [OB Nippur Ura],o i 5,sux:zulum[date]N
+dcclt/Q000043,OB Nippur Ura 06,A 33510 (MSL 11 112 I1) [OB Nippur Ura],o i 6,sux:zulum[date]N
 dcclt/Q000043,OB Nippur Ura 06,Ist Ni 03477 [OB Nippur Ura],o i 1,sux:bappir[~beer]N
 dcclt/Q000043,OB Nippur Ura 06,Ist Ni 03477 [OB Nippur Ura],o i 2,sux:bappir[~beer]N
 dcclt/Q000043,OB Nippur Ura 06,Ist Ni 03477 [OB Nippur Ura],o i 3,sux:bappir[~beer]N sux:pad[break]V/t
@@ -1074,10 +1074,10 @@ dcclt/Q000043,OB Nippur Ura 06,Ist Ni 03477 [OB Nippur Ura],r i 5',sux:uzu[fle
 dcclt/Q000043,OB Nippur Ura 06,Ist Ni 03477 [OB Nippur Ura],r i 6',sux:uzu[flesh]N sux:saŋdu[head]N
 dcclt/Q000043,OB Nippur Ura 06,Ist Ni 03477 [OB Nippur Ura],r i 7',sux:uzu[flesh]N sux:udšuš[~head]N
 dcclt/Q000043,OB Nippur Ura 06,Ist Ni 03477 [OB Nippur Ura],r i 8',sux:uzu[flesh]N sux:meze[jaw]N
-dcclt/Q000043,OB Nippur Ura 06,CBS 04809 (MSL 08/1, 082 V 40) [OB Nippur Ura],o i 1',sux:ga[milk]N
-dcclt/Q000043,OB Nippur Ura 06,CBS 04809 (MSL 08/1, 082 V 40) [OB Nippur Ura],o i 2',sux:ga[milk]N sux:uzud[goat]N
-dcclt/Q000043,OB Nippur Ura 06,CBS 04809 (MSL 08/1, 082 V 40) [OB Nippur Ura],o i 3',sux:gašea[~dairy]N
-dcclt/Q000043,OB Nippur Ura 06,CBS 04809 (MSL 08/1, 082 V 40) [OB Nippur Ura],o i 4',sux:ga[milk]N
+dcclt/Q000043,OB Nippur Ura 06,CBS 04809 (MSL 08/1 082 V 40) [OB Nippur Ura],o i 1',sux:ga[milk]N
+dcclt/Q000043,OB Nippur Ura 06,CBS 04809 (MSL 08/1 082 V 40) [OB Nippur Ura],o i 2',sux:ga[milk]N sux:uzud[goat]N
+dcclt/Q000043,OB Nippur Ura 06,CBS 04809 (MSL 08/1 082 V 40) [OB Nippur Ura],o i 3',sux:gašea[~dairy]N
+dcclt/Q000043,OB Nippur Ura 06,CBS 04809 (MSL 08/1 082 V 40) [OB Nippur Ura],o i 4',sux:ga[milk]N
 dcclt/Q000043,OB Nippur Ura 06,N 6003 [Obverse Not Preserved],r i 1',sux:eša[flour]N
 dcclt/Q000043,OB Nippur Ura 06,N 6003 [Obverse Not Preserved],r i 2',sux:eša[flour]N sux:sag[rare]V/i
 dcclt/Q000043,OB Nippur Ura 06,N 6003 [Obverse Not Preserved],r i 3',sux:eša[flour]N sux:ŋen[go]V/i
@@ -1087,18 +1087,18 @@ dcclt/Q000043,OB Nippur Ura 06,N 6003 [Obverse Not Preserved],r i 6',sux:zidgu
 dcclt/Q000043,OB Nippur Ura 06,N 6003 [Obverse Not Preserved],r i 7',sux:zid[flour]N sux:gunida[~grain]N
 dcclt/Q000043,OB Nippur Ura 06,N 6003 [Obverse Not Preserved],r i 8',sux:zid[flour]N
 dcclt/Q000043,OB Nippur Ura 06,N 6003 [Obverse Not Preserved],r i 9',sux:zid[flour]N
-dcclt/Q000043,OB Nippur Ura 06,SLT p. 014, CBS 04818 (unpub. dup.) [OB Nippur Ura],o i 1',sux:ninda[bread]N sux:ur[bake]V/t
-dcclt/Q000043,OB Nippur Ura 06,SLT p. 014, CBS 04818 (unpub. dup.) [OB Nippur Ura],o i 2',sux:ninda[bread]N sux:nimur[ashes]N
-dcclt/Q000043,OB Nippur Ura 06,SLT p. 014, CBS 04818 (unpub. dup.) [OB Nippur Ura],o i 3',sux:nindaʾidea[bread]N
-dcclt/Q000043,OB Nippur Ura 06,SLT p. 014, CBS 04818 (unpub. dup.) [OB Nippur Ura],o i 4',sux:nindaʾidea[bread]N
-dcclt/Q000043,OB Nippur Ura 06,SLT p. 014, CBS 04818 (unpub. dup.) [OB Nippur Ura],o i 5',sux:nindaʾidea[bread]N
-dcclt/Q000043,OB Nippur Ura 06,SLT p. 014, CBS 04818 (unpub. dup.) [OB Nippur Ura],r i 1',sux:kaš[beer]N
-dcclt/Q000043,OB Nippur Ura 06,SLT p. 014, CBS 04818 (unpub. dup.) [OB Nippur Ura],r i 2',sux:kaš[beer]N
-dcclt/Q000043,OB Nippur Ura 06,SLT p. 014, CBS 04818 (unpub. dup.) [OB Nippur Ura],r i 3',sux:kaš[beer]N sux:ŋarza[rites]N
-dcclt/Q000043,OB Nippur Ura 06,SLT p. 014, CBS 04818 (unpub. dup.) [OB Nippur Ura],r i 4',sux:ulušin[beer]N
-dcclt/Q000043,OB Nippur Ura 06,SLT p. 014, CBS 04818 (unpub. dup.) [OB Nippur Ura],r i 5',sux:ulušin[beer]N sux:mah[great]V/i
-dcclt/Q000043,OB Nippur Ura 06,SLT p. 014, CBS 04818 (unpub. dup.) [OB Nippur Ura],r i 6',sux:kaš[beer]N sux:ud[sun]N sux:tab[double]V/t
-dcclt/Q000043,OB Nippur Ura 06,SLT p. 014, CBS 04818 (unpub. dup.) [OB Nippur Ura],r i 7',sux:kaš[beer]N sux:ud[sun]N sux:sal[thin]V/i
+dcclt/Q000043,OB Nippur Ura 06,SLT p. 014 CBS 04818 (unpub. dup.) [OB Nippur Ura],o i 1',sux:ninda[bread]N sux:ur[bake]V/t
+dcclt/Q000043,OB Nippur Ura 06,SLT p. 014 CBS 04818 (unpub. dup.) [OB Nippur Ura],o i 2',sux:ninda[bread]N sux:nimur[ashes]N
+dcclt/Q000043,OB Nippur Ura 06,SLT p. 014 CBS 04818 (unpub. dup.) [OB Nippur Ura],o i 3',sux:nindaʾidea[bread]N
+dcclt/Q000043,OB Nippur Ura 06,SLT p. 014 CBS 04818 (unpub. dup.) [OB Nippur Ura],o i 4',sux:nindaʾidea[bread]N
+dcclt/Q000043,OB Nippur Ura 06,SLT p. 014 CBS 04818 (unpub. dup.) [OB Nippur Ura],o i 5',sux:nindaʾidea[bread]N
+dcclt/Q000043,OB Nippur Ura 06,SLT p. 014 CBS 04818 (unpub. dup.) [OB Nippur Ura],r i 1',sux:kaš[beer]N
+dcclt/Q000043,OB Nippur Ura 06,SLT p. 014 CBS 04818 (unpub. dup.) [OB Nippur Ura],r i 2',sux:kaš[beer]N
+dcclt/Q000043,OB Nippur Ura 06,SLT p. 014 CBS 04818 (unpub. dup.) [OB Nippur Ura],r i 3',sux:kaš[beer]N sux:ŋarza[rites]N
+dcclt/Q000043,OB Nippur Ura 06,SLT p. 014 CBS 04818 (unpub. dup.) [OB Nippur Ura],r i 4',sux:ulušin[beer]N
+dcclt/Q000043,OB Nippur Ura 06,SLT p. 014 CBS 04818 (unpub. dup.) [OB Nippur Ura],r i 5',sux:ulušin[beer]N sux:mah[great]V/i
+dcclt/Q000043,OB Nippur Ura 06,SLT p. 014 CBS 04818 (unpub. dup.) [OB Nippur Ura],r i 6',sux:kaš[beer]N sux:ud[sun]N sux:tab[double]V/t
+dcclt/Q000043,OB Nippur Ura 06,SLT p. 014 CBS 04818 (unpub. dup.) [OB Nippur Ura],r i 7',sux:kaš[beer]N sux:ud[sun]N sux:sal[thin]V/i
 dcclt/Q000043,OB Nippur Ura 06,N 5990 [OB Nippur Ura],o i 1',sux:tu[soup]N
 dcclt/Q000043,OB Nippur Ura 06,N 5990 [OB Nippur Ura],o i 2',sux:tu[soup]N
 dcclt/Q000043,OB Nippur Ura 06,N 5990 [OB Nippur Ura],o i 3',sux:tu[soup]N

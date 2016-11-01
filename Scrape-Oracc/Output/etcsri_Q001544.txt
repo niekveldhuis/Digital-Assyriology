@@ -1,0 +1,183 @@
+id_text,text_name,version,l_no,text
+etcsri/Q001544,Gudea Statue E,,1,sux:Gudea[1]RN
+etcsri/Q001544,Gudea Statue E,,2,sux:ensik[ruler]N
+etcsri/Q001544,Gudea Statue E,,3,sux:Lagaš[1]SN
+etcsri/Q001544,Gudea Statue E,,i 1,sux:Bau[1]DN
+etcsri/Q001544,Gudea Statue E,,i 2,sux:munus[woman]N sux:sag[good]V/i
+etcsri/Q001544,Gudea Statue E,,i 3,sux:dumu[child]N sux:An[1]DN
+etcsri/Q001544,Gudea Statue E,,i 4,sux:nin[lady]N sux:Irikug[1]SN
+etcsri/Q001544,Gudea Statue E,,i 5,sux:nin[lady]N sux:heŋal[plenty]N
+etcsri/Q001544,Gudea Statue E,,i 6,sux:nin[lady]N sux:Ŋirsu[1]SN sux:nam[fate]N sux:tar[cut]V/t
+etcsri/Q001544,Gudea Statue E,,i 7,sux:nin[lady]N sux:dikud[judge]N sux:iri[city]N
+etcsri/Q001544,Gudea Statue E,,i 8,sux:nin[lady]N sux:saŋ[head]N sux:ki[place]N sux:aŋ[measure]V/t
+etcsri/Q001544,Gudea Statue E,,i 9,sux:nin[lady]N sux:niŋ[thing]N sux:ugu[cvne]N sux:de[pour]V/t
+etcsri/Q001544,Gudea Statue E,,i 10,sux:nin[lady]N
+etcsri/Q001544,Gudea Statue E,,i 11,sux:Gudea[1]RN
+etcsri/Q001544,Gudea Statue E,,i 12,sux:ensik[ruler]N
+etcsri/Q001544,Gudea Statue E,,i 13,sux:Lagaš[1]SN
+etcsri/Q001544,Gudea Statue E,,i 14,sux:lu[person]N sux:Eninnu[1]TN
+etcsri/Q001544,Gudea Statue E,,i 15,sux:Ninŋirsuk[1]DN
+etcsri/Q001544,Gudea Statue E,,i 16,sux:Eŋidruk[1]TN sux:e[house]N sux:ub[corner]N sux:imin[seven]NU
+etcsri/Q001544,Gudea Statue E,,i 17,sux:du[build]V/t
+etcsri/Q001544,Gudea Statue E,,i 18,sux:ud[sun]N sux:Bau[1]DN
+etcsri/Q001544,Gudea Statue E,,i 19,sux:nin[lady]N
+etcsri/Q001544,Gudea Statue E,,i 20,sux:šag[heart]N sux:kug[pure]V/i sux:pad[find]V/t
+etcsri/Q001544,Gudea Statue E,,ii 1,sux:arad[slave]N sux:nituku[pious]AJ
+etcsri/Q001544,Gudea Statue E,,ii 2,sux:nin[lady]N
+etcsri/Q001544,Gudea Statue E,,ii 3,sux:nammah[greatness]N sux:nin[lady]N
+etcsri/Q001544,Gudea Statue E,,ii 4,sux:zu[know]V/t
+etcsri/Q001544,Gudea Statue E,,ii 5,sux:biluda[rituals]N
+etcsri/Q001544,Gudea Statue E,,ii 6,sux:Bau[1]DN
+etcsri/Q001544,Gudea Statue E,,ii 7,sux:nin[lady]N
+etcsri/Q001544,Gudea Statue E,,ii 8,sux:en[cvne]N sux:tar[cut]V/t
+etcsri/Q001544,Gudea Statue E,,ii 9,sux:niŋ[thing]N sux:Eninnu[1]TN
+etcsri/Q001544,Gudea Statue E,,ii 10,sux:e[house]N sux:ki[place]N sux:aŋ[measure]V/t
+etcsri/Q001544,Gudea Statue E,,ii 11,sux:Ninŋirsuk[1]DN
+etcsri/Q001544,Gudea Statue E,,ii 12,sux:lugal[king]N
+etcsri/Q001544,Gudea Statue E,,ii 13,sux:du[build]V/t
+etcsri/Q001544,Gudea Statue E,,ii 14,sux:ud[sun]N sux:Bau[1]DN
+etcsri/Q001544,Gudea Statue E,,ii 15,sux:dumu[child]N sux:An[1]DN
+etcsri/Q001544,Gudea Statue E,,ii 16,sux:nin[lady]N sux:Irikug[1]SN
+etcsri/Q001544,Gudea Statue E,,ii 17,sux:nin[lady]N
+etcsri/Q001544,Gudea Statue E,,ii 18,sux:Etarsirsir[1]TN
+etcsri/Q001544,Gudea Statue E,,ii 19,sux:e[house]N sux:ki[place]N sux:aŋ[measure]V/t
+etcsri/Q001544,Gudea Statue E,,ii 20,sux:du[build]V/t
+etcsri/Q001544,Gudea Statue E,,ii 21,sux:iri[city]N sux:kug[pure]V/i
+etcsri/Q001544,Gudea Statue E,,ii 22,sux:izi[fire]N sux:la[hang]V/t
+etcsri/Q001544,Gudea Statue E,,iii 1,sux:bisaŋ[basket]N sux:ušub[brick-mold]N
+etcsri/Q001544,Gudea Statue E,,iii 2,sux:ŋeš[tree]N sux:hur[scratch]V/t
+etcsri/Q001544,Gudea Statue E,,iii 3,sux:kalak[trench]N
+etcsri/Q001544,Gudea Statue E,,iii 4,sux:urin[standard]N sux:mul[shine]V/i
+etcsri/Q001544,Gudea Statue E,,iii 5,sux:im[clay]N sux:ki[place]N sux:dadag[bright]V/i
+etcsri/Q001544,Gudea Statue E,,iii 6,sux:lu[mix]V/t
+etcsri/Q001544,Gudea Statue E,,iii 7,sux:šeg[brick]N sux:ki[place]N sux:sikil[pure]V/i
+etcsri/Q001544,Gudea Statue E,,iii 8,sux:du[spread]V/t
+etcsri/Q001544,Gudea Statue E,,iii 9,sux:šeg[brick]N sux:ušub[brick-mold]N sux:ŋar[place]V/t
+etcsri/Q001544,Gudea Statue E,,iii 10,sux:niŋdu[appropriate-thing]N sux:pa[branch]N sux:e[leave]V/i
+etcsri/Q001544,Gudea Statue E,,iii 11,sux:uš[foundation]N sux:kug[pure]V/i
+etcsri/Q001544,Gudea Statue E,,iii 12,sux:izi[fire]N sux:la[hang]V/t
+etcsri/Q001544,Gudea Statue E,,iii 13,sux:temen[foundation]N
+etcsri/Q001544,Gudea Statue E,,iii 14,sux:i[oil]N sux:ir[scent]N sux:nun[prince]N
+etcsri/Q001544,Gudea Statue E,,iii 15,sux:šu[hand]N sux:tag[touch]V/t sux:dug[speak]V/t
+etcsri/Q001544,Gudea Statue E,,iii 16,sux:Bau[1]DN
+etcsri/Q001544,Gudea Statue E,,iii 17,sux:nin[lady]N
+etcsri/Q001544,Gudea Statue E,,iii 18,sux:nin[lady]N sux:Irikug[1]SN
+etcsri/Q001544,Gudea Statue E,,iii 19,sux:ni[fear]N sux:si[fill]V/t
+etcsri/Q001544,Gudea Statue E,,iii 20,sux:Irikug[1]SN
+etcsri/Q001544,Gudea Statue E,,iv 1,sux:ki[place]N sux:dadag[bright]V/i
+etcsri/Q001544,Gudea Statue E,,iv 2,sux:e[house]N sux:du[build]V/t
+etcsri/Q001544,Gudea Statue E,,iv 3,sux:durŋar[chair]N sux:mah[great]V/i
+etcsri/Q001544,Gudea Statue E,,iv 4,sux:namnin[ladyship]N
+etcsri/Q001544,Gudea Statue E,,iv 5,sux:dim[create]V/t
+etcsri/Q001544,Gudea Statue E,,iv 6,sux:ki[place]N sux:did[lawsuit]N sux:kud[cut]V/t
+etcsri/Q001544,Gudea Statue E,,iv 7,sux:gub[stand]V/i
+etcsri/Q001544,Gudea Statue E,,iv 8,sux:dubšen[chest]N sux:kug[pure]V/i
+etcsri/Q001544,Gudea Statue E,,iv 9,sux:dim[create]V/t
+etcsri/Q001544,Gudea Statue E,,iv 10,sux:e[house]N sux:mah[great]V/i
+etcsri/Q001544,Gudea Statue E,,iv 11,sux:kur[enter]V/i
+etcsri/Q001544,Gudea Statue E,,iv 12,sux:balaŋ[instrument]N sux:nin[lady]N sux:An[1]DN sux:galdi[exalted]AJ
+etcsri/Q001544,Gudea Statue E,,iv 13,sux:dim[create]V/t
+etcsri/Q001544,Gudea Statue E,,iv 14,sux:kisal[courtyard]N sux:mah[great]V/i
+etcsri/Q001544,Gudea Statue E,,iv 15,sux:gub[stand]V/i
+etcsri/Q001544,Gudea Statue E,,v 1,sux:ud[sun]N sux:zagmuk[new-year]N
+etcsri/Q001544,Gudea Statue E,,v 2,sux:ezem[festival]N sux:Bau[1]DN
+etcsri/Q001544,Gudea Statue E,,v 3,sux:niŋmussa[gift]N sux:ak[do]V/t
+etcsri/Q001544,Gudea Statue E,,v 4,sux:gud[ox]N sux:niga[fattened]V/i
+etcsri/Q001544,Gudea Statue E,,v 5,sux:udu[sheep]N sux:i[oil]N
+etcsri/Q001544,Gudea Statue E,,v 6,sux:udu[sheep]N sux:niga[fattened]V/i
+etcsri/Q001544,Gudea Statue E,,v 7,sux:udu[sheep]N sux:nita[male]N
+etcsri/Q001544,Gudea Statue E,,v 8,sux:sila[lamb]N
+etcsri/Q001544,Gudea Statue E,,v 9,sux:kurum[ration]N sux:zulum[date]N
+etcsri/Q001544,Gudea Statue E,,v 10,sux:sab[jar]N sux:inun[ghee]N
+etcsri/Q001544,Gudea Statue E,,v 11,sux:šag[heart]N sux:ŋešnimbar[palm]N
+etcsri/Q001544,Gudea Statue E,,v 12,sux:ishu[string]N sux:peš[fig]N
+etcsri/Q001544,Gudea Statue E,,v 13,sux:KIŠlam[basket]N
+etcsri/Q001544,Gudea Statue E,,v 14,sux:tiʾuz[bird]N
+etcsri/Q001544,Gudea Statue E,,v 15,sux:gambi[crane]N
+etcsri/Q001544,Gudea Statue E,,v 16,sux:kurgi[goose]N
+etcsri/Q001544,Gudea Statue E,,v 17,sux:mušen[bird]N sux:didila[smaller]V/i
+etcsri/Q001544,Gudea Statue E,,v 18,sux:ishu[string]N
+etcsri/Q001544,Gudea Statue E,,v 19,sux:suhurtunbar[fish]N
+etcsri/Q001544,Gudea Statue E,,v 20,sux:ishu[string]N
+etcsri/Q001544,Gudea Statue E,,v 21,sux:gun[load]N sux:lub[turnip]N
+etcsri/Q001544,Gudea Statue E,,v 22,sux:gun[load]N sux:enbar[reed]N
+etcsri/Q001544,Gudea Statue E,,vi 1,sux:gun[load]N sux:manu[wood]N
+etcsri/Q001544,Gudea Statue E,,vi 2,sux:niŋmussa[gift]N sux:Bau[1]DN
+etcsri/Q001544,Gudea Statue E,,vi 3,sux:e[house]N sux:libir[old]V/i
+etcsri/Q001544,Gudea Statue E,,vi 4,sux:ud[sun]N
+etcsri/Q001544,Gudea Statue E,,vi 5,sux:Gudea[1]RN
+etcsri/Q001544,Gudea Statue E,,vi 6,sux:ensik[ruler]N
+etcsri/Q001544,Gudea Statue E,,vi 7,sux:Lagaš[1]SN
+etcsri/Q001544,Gudea Statue E,,vi 8,sux:ud[sun]N sux:Ninŋirsuk[1]DN
+etcsri/Q001544,Gudea Statue E,,vi 9,sux:lugal[king]N
+etcsri/Q001544,Gudea Statue E,,vi 10,sux:e[house]N sux:ki[place]N sux:aŋ[measure]V/t
+etcsri/Q001544,Gudea Statue E,,vi 11,sux:Eninnu[1]TN
+etcsri/Q001544,Gudea Statue E,,vi 12,sux:du[build]V/t
+etcsri/Q001544,Gudea Statue E,,vi 13,sux:Bau[1]DN
+etcsri/Q001544,Gudea Statue E,,vi 14,sux:nin[lady]N
+etcsri/Q001544,Gudea Statue E,,vi 15,sux:e[house]N sux:ki[place]N sux:aŋ[measure]V/t
+etcsri/Q001544,Gudea Statue E,,vi 16,sux:Etarsirsir[1]TN
+etcsri/Q001544,Gudea Statue E,,vi 17,sux:du[build]V/t
+etcsri/Q001544,Gudea Statue E,,vi 19,sux:gud[ox]N sux:niga[fattened]V/i
+etcsri/Q001544,Gudea Statue E,,vi 20,sux:udu[sheep]N sux:i[oil]N
+etcsri/Q001544,Gudea Statue E,,vi 21,sux:udu[sheep]N sux:niga[fattened]V/i
+etcsri/Q001544,Gudea Statue E,,vi 22,sux:sila[lamb]N
+etcsri/Q001544,Gudea Statue E,,vi 23,sux:kurum[ration]N sux:zulum[date]N
+etcsri/Q001544,Gudea Statue E,,vi 24,sux:sab[jar]N sux:inun[ghee]N
+etcsri/Q001544,Gudea Statue E,,vi 25,sux:šag[heart]N sux:ŋešnimbar[palm]N
+etcsri/Q001544,Gudea Statue E,,vi 26,sux:ishu[string]N sux:peš[fig]N
+etcsri/Q001544,Gudea Statue E,,vii 1,sux:KIŠlam[basket]N
+etcsri/Q001544,Gudea Statue E,,vii 2,sux:aʾan[spadix]N sux:zulum[date]N
+etcsri/Q001544,Gudea Statue E,,vii 3,sux:ukuš[cucumber]N sux:dupsik[basket]N
+etcsri/Q001544,Gudea Statue E,,vii 4,sux:tiʾuz[bird]N
+etcsri/Q001544,Gudea Statue E,,vii 5,sux:gambi[crane]N
+etcsri/Q001544,Gudea Statue E,,vii 6,sux:kurgi[goose]N
+etcsri/Q001544,Gudea Statue E,,vii 7,sux:ezi[bird]N
+etcsri/Q001544,Gudea Statue E,,vii 8,sux:mušen[bird]N sux:didila[smaller]V/i
+etcsri/Q001544,Gudea Statue E,,vii 9,sux:ishu[string]N
+etcsri/Q001544,Gudea Statue E,,vii 10,sux:suhurtunbar[fish]N
+etcsri/Q001544,Gudea Statue E,,vii 11,sux:ishu[string]N
+etcsri/Q001544,Gudea Statue E,,vii 12,sux:gun[load]N sux:lub[turnip]N
+etcsri/Q001544,Gudea Statue E,,vii 13,sux:gun[load]N sux:enbar[reed]N
+etcsri/Q001544,Gudea Statue E,,vii 14,sux:gun[load]N sux:manu[wood]N
+etcsri/Q001544,Gudea Statue E,,vii 15,sux:niŋmussa[gift]N sux:Bau[1]DN
+etcsri/Q001544,Gudea Statue E,,vii 16,sux:e[house]N sux:gibil[new]V/i
+etcsri/Q001544,Gudea Statue E,,vii 17,sux:Gudea[1]RN
+etcsri/Q001544,Gudea Statue E,,vii 18,sux:ensik[ruler]N
+etcsri/Q001544,Gudea Statue E,,vii 19,sux:Lagaš[1]SN
+etcsri/Q001544,Gudea Statue E,,vii 20,sux:lu[person]N sux:e[house]N sux:du[build]V/t
+etcsri/Q001544,Gudea Statue E,,vii 21,sux:tah[add]V/t
+etcsri/Q001544,Gudea Statue E,,vii 22,sux:e[house]N sux:Bau[1]DN
+etcsri/Q001544,Gudea Statue E,,vii 23,sux:ki[place]N sux:gi[turn]V/i
+etcsri/Q001544,Gudea Statue E,,vii 24,sux:heŋal[plenty]N
+etcsri/Q001544,Gudea Statue E,,viii 1,sux:pa[branch]N sux:e[leave]V/i sux:ak[do]V/t
+etcsri/Q001544,Gudea Statue E,,viii 2,sux:durŋar[chair]N sux:Lagaš[1]SN
+etcsri/Q001544,Gudea Statue E,,viii 3,sux:suhuš[foundation]N sux:gin[establish]V/i
+etcsri/Q001544,Gudea Statue E,,viii 4,sux:Gudea[1]RN
+etcsri/Q001544,Gudea Statue E,,viii 5,sux:ensik[ruler]N
+etcsri/Q001544,Gudea Statue E,,viii 6,sux:Lagaš[1]SN
+etcsri/Q001544,Gudea Statue E,,viii 7,sux:ŋidru[scepter]N sux:inim[word]N sux:gin[establish]V/i
+etcsri/Q001544,Gudea Statue E,,viii 8,sux:šu[hand]N sux:ŋal[be]V/i
+etcsri/Q001544,Gudea Statue E,,viii 9,sux:namtil[life]N
+etcsri/Q001544,Gudea Statue E,,viii 10,sux:ud[sun]N sux:sud[distant]V/i
+etcsri/Q001544,Gudea Statue E,,viii 11,sux:diŋir[deity]N
+etcsri/Q001544,Gudea Statue E,,viii 12,sux:Ninŋešzidak[1]DN
+etcsri/Q001544,Gudea Statue E,,viii 13,sux:Bau[1]DN
+etcsri/Q001544,Gudea Statue E,,viii 14,sux:e[house]N sux:Irikug[1]SN
+etcsri/Q001544,Gudea Statue E,,viii 15,sux:kur[enter]V/i
+etcsri/Q001544,Gudea Statue E,,viii 16,sux:šag[heart]N sux:mu[year]N
+etcsri/Q001544,Gudea Statue E,,viii 17,sux:kur[mountain]N sux:Magan[1]GN
+etcsri/Q001544,Gudea Statue E,,viii 18,sux:esi[diorite]N sux:ed[ascend]V/i
+etcsri/Q001544,Gudea Statue E,,viii 19,sux:alan[statue]N
+etcsri/Q001544,Gudea Statue E,,viii 20,sux:utud[bear]V/t
+etcsri/Q001544,Gudea Statue E,,ix 1,sux:nin[lady]N sux:zig[rise]V/i
+etcsri/Q001544,Gudea Statue E,,ix 2,sux:namtil[life]N sux:ba[allot]V/t
+etcsri/Q001544,Gudea Statue E,,ix 3,sux:ud[sun]N sux:dug[speak]V/t sux:du[build]V/t
+etcsri/Q001544,Gudea Statue E,,ix 4,sux:mu[name]N sux:še[call]V/t
+etcsri/Q001544,Gudea Statue E,,ix 5,sux:e[house]N sux:kur[enter]V/i
+etcsri/Q001544,Gudea Statue E,,ix 6,sux:alan[statue]N
+etcsri/Q001544,Gudea Statue E,,ix 7,sux:lu[person]N sux:e[house]N sux:Bau[1]DN
+etcsri/Q001544,Gudea Statue E,,ix 8,sux:du[build]V/t
+etcsri/Q001544,Gudea Statue E,,ix 9,sux:ki[place]N sux:gub[stand]V/i
+etcsri/Q001544,Gudea Statue E,,ix 10,sux:lu[person]N sux:zig[rise]V/i
+etcsri/Q001544,Gudea Statue E,,ix 11,sux:sadug[offerings]N

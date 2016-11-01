@@ -1,0 +1,7 @@
+id_text,text_name,version,l_no,text
+etcsri/Q004250,Arad-Dumuzida 1,,1,sux:Inanak[1]DN
+etcsri/Q004250,Arad-Dumuzida 1,,2,sux:nin[lady]N sux:Eanak[1]TN
+etcsri/Q004250,Arad-Dumuzida 1,,3,sux:nin[lady]N
+etcsri/Q004250,Arad-Dumuzida 1,,4,sux:Araddumuzida[1]PN
+etcsri/Q004250,Arad-Dumuzida 1,,5,sux:saŋŋa[official]N sux:Inanak[1]DN
+etcsri/Q004250,Arad-Dumuzida 1,,6,sux:namtil[life]N

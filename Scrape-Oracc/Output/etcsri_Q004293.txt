@@ -1,0 +1,6 @@
+id_text,text_name,version,l_no,text
+etcsri/Q004293,Šulgi 2075add,,i 1,sux:Šulgir[1]RN
+etcsri/Q004293,Šulgi 2075add,,i 2,sux:nita[male]N sux:kalag[strong]V/i
+etcsri/Q004293,Šulgi 2075add,,i 3,sux:lugal[king]N sux:Urim[1]SN
+etcsri/Q004293,Šulgi 2075add,,ii 1,sux:Giradu[1]PN
+etcsri/Q004293,Šulgi 2075add,,ii 2,sux:bisaŋdubak[archivist]N

@@ -1,0 +1,12 @@
+id_text,text_name,version,l_no,text
+etcsri/Q004403,Šu-Suen 2070add,,1,sux:Ninŋirsuk[1]DN
+etcsri/Q004403,Šu-Suen 2070add,,2,sux:ursaŋ[hero]N sux:kalag[strong]V/i
+etcsri/Q004403,Šu-Suen 2070add,,3,sux:Enlil[1]DN
+etcsri/Q004403,Šu-Suen 2070add,,4,sux:Luninŋirsuk[1]PN
+etcsri/Q004403,Šu-Suen 2070add,,5,sux:dubsar[scribe]N
+etcsri/Q004403,Šu-Suen 2070add,,6,sux:dumu[child]N sux:Lubauk[1]PN
+etcsri/Q004403,Šu-Suen 2070add,,7,sux:namtil[life]N
+etcsri/Q004403,Šu-Suen 2070add,,8,sux:u[and]CNJ sux:namtil[life]N
+etcsri/Q004403,Šu-Suen 2070add,,9,sux:dam[spouse]N sux:dumu[child]N
+etcsri/Q004403,Šu-Suen 2070add,,10,sux:a[water]N sux:ru[cvve]V/t
+etcsri/Q004403,Šu-Suen 2070add,,11,sux:bur[bowl]N sux:nin[lady]N

@@ -1,0 +1,10 @@
+id_text,text_name,version,l_no,text
+etcsri/Q001526,Gudea 094,,back 1,sux:Ninegalak[1]DN
+etcsri/Q001526,Gudea 094,,back 2,sux:nin[lady]N
+etcsri/Q001526,Gudea 094,,back 3,sux:namtil[life]N
+etcsri/Q001526,Gudea 094,,back 4,sux:Gudea[1]RN
+etcsri/Q001526,Gudea 094,,back 5,sux:ensik[ruler]N
+etcsri/Q001526,Gudea 094,,back 6,sux:Lagaš[1]SN
+etcsri/Q001526,Gudea 094,,base 1',sux:utud[bear]V/t sux:e[house]N sux:kur[enter]V/i
+etcsri/Q001526,Gudea 094,,base 2',sux:alan[statue]N sux:nin[lady]N
+etcsri/Q001526,Gudea 094,,base 3',sux:Ninegalak[1]DN

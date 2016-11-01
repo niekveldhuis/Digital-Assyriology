@@ -1,0 +1,17 @@
+id_text,text_name,version,l_no,text
+etcsri/Q001112,En-metena 08,,i 1,sux:Ninŋirsuk[1]DN
+etcsri/Q001112,En-metena 08,,i 2,sux:ursaŋ[hero]N sux:Enlil[1]DN
+etcsri/Q001112,En-metena 08,,i 3,sux:Enmetenak[1]RN
+etcsri/Q001112,En-metena 08,,i 4,sux:ensik[ruler]N
+etcsri/Q001112,En-metena 08,,i 5,sux:Lagaš[1]SN
+etcsri/Q001112,En-metena 08,,ii 1,sux:šag[heart]N sux:pad[find]V/t
+etcsri/Q001112,En-metena 08,,ii 2,sux:Nanše[1]DN
+etcsri/Q001112,En-metena 08,,ii 3,sux:ensikgal[governor]N
+etcsri/Q001112,En-metena 08,,ii 4,sux:Ninŋirsuk[1]DN
+etcsri/Q001112,En-metena 08,,ii 5,sux:dumu[child]N sux:Enanatum[1]RN
+etcsri/Q001112,En-metena 08,,iii 1,sux:ensik[ruler]N
+etcsri/Q001112,En-metena 08,,iii 2,sux:Lagaš[1]SN
+etcsri/Q001112,En-metena 08,,iii 3,sux:lu[person]N sux:eš[shrine]N sux:gi[reed]N
+etcsri/Q001112,En-metena 08,,iii 4,sux:giguna[terrace]N
+etcsri/Q001112,En-metena 08,,iv 1,sux:Ninŋirsuk[1]DN sux:du[build]V/t
+etcsri/Q001112,En-metena 08,,iv 2,sux:diŋir[deity]N

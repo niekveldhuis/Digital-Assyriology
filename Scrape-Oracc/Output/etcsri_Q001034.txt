@@ -1,0 +1,21 @@
+id_text,text_name,version,l_no,text
+etcsri/Q001034,Ur-Nanše 16,,i 1,sux:Urnanše[1]RN
+etcsri/Q001034,Ur-Nanše 16,,i 2,sux:lugal[king]N
+etcsri/Q001034,Ur-Nanše 16,,i 3,sux:Lagaš[1]SN
+etcsri/Q001034,Ur-Nanše 16,,i 4,sux:dumu[child]N sux:Gu-NI.DU[1]PN
+etcsri/Q001034,Ur-Nanše 16,,i 5,sux:dumu[child]N sux:Gursar[1]GN
+etcsri/Q001034,Ur-Nanše 16,,ii 1,sux:e[house]N sux:Nanše[1]DN
+etcsri/Q001034,Ur-Nanše 16,,ii 2,sux:du[build]V/t
+etcsri/Q001034,Ur-Nanše 16,,ii 3,sux:eš[shrine]N sux:Ŋirsu[1]SN
+etcsri/Q001034,Ur-Nanše 16,,ii 4,sux:du[build]V/t
+etcsri/Q001034,Ur-Nanše 16,,ii 5,sux:e[house]N sux:Ŋatumdug[1]DN
+etcsri/Q001034,Ur-Nanše 16,,ii 6,sux:du[build]V/t
+etcsri/Q001034,Ur-Nanše 16,,iii 1,sux:Eŋidruk[1]TN
+etcsri/Q001034,Ur-Nanše 16,,iii 2,sux:du[build]V/t
+etcsri/Q001034,Ur-Nanše 16,,iii 5,sux:Edam[1]TN
+etcsri/Q001034,Ur-Nanše 16,,iii 6,sux:du[build]V/t
+etcsri/Q001034,Ur-Nanše 16,,iv 1,sux:Nineŋara[1]TN
+etcsri/Q001034,Ur-Nanše 16,,iv 2,sux:du[build]V/t
+etcsri/Q001034,Ur-Nanše 16,,iv 3,sux:Bagara[1]TN
+etcsri/Q001034,Ur-Nanše 16,,iv 4,sux:du[build]V/t
+etcsri/Q001034,Ur-Nanše 16,,iv 5,sux:Kinir[1]TN

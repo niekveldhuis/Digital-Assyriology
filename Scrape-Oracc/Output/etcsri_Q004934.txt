@@ -1,0 +1,8 @@
+id_text,text_name,version,l_no,text
+etcsri/Q004934,Šu-Suen 2150add,,i 1,sux:Šusuen[1]RN
+etcsri/Q004934,Šu-Suen 2150add,,i 2,sux:Enlil[1]DN
+etcsri/Q004934,Šu-Suen 2150add,,i 3,sux:ki[place]N sux:aŋ[measure]V/t
+etcsri/Q004934,Šu-Suen 2150add,,i 4,sux:šag[heart]N
+etcsri/Q004934,Šu-Suen 2150add,,i 5,sux:pad[find]V/t
+etcsri/Q004934,Šu-Suen 2150add,,ii 1,sux:Urŋu[1]PN
+etcsri/Q004934,Šu-Suen 2150add,,ii 2,sux:agaʾus[soldier]N sux:gal[big]V/i

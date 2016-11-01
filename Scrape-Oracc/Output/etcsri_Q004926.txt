@@ -1,0 +1,5 @@
+id_text,text_name,version,l_no,text
+etcsri/Q004926,Šu-Suen 2142add,,i 1,sux:Šusuen[1]RN
+etcsri/Q004926,Šu-Suen 2142add,,i 2,sux:lugal[king]N sux:kalag[strong]V/i
+etcsri/Q004926,Šu-Suen 2142add,,ii 1,sux:lugal[king]N sux:anubda[quarter]N sux:limmu[four]NU
+etcsri/Q004926,Šu-Suen 2142add,,ii 2,sux:Urimkidug[1]PN

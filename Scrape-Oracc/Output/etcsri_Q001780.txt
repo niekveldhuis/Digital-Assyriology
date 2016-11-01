@@ -1,0 +1,11 @@
+id_text,text_name,version,l_no,text
+etcsri/Q001780,Šulgi 2052,,1,sux:Šulgir[1]RN
+etcsri/Q001780,Šulgi 2052,,2,sux:nita[male]N sux:kalag[strong]V/i
+etcsri/Q001780,Šulgi 2052,,3,sux:lugal[king]N sux:Urim[1]SN
+etcsri/Q001780,Šulgi 2052,,4,sux:lugal[king]N sux:anubda[quarter]N sux:limmu[four]NU
+etcsri/Q001780,Šulgi 2052,,5,sux:Nannazišagŋal[1]PN
+etcsri/Q001780,Šulgi 2052,,6,sux:kurunagal[chief-brewer]N
+etcsri/Q001780,Šulgi 2052,,7,sux:zabardab[official]N
+etcsri/Q001780,Šulgi 2052,,8,sux:šagia[cup-bearer]N sux:mah[great]V/i
+etcsri/Q001780,Šulgi 2052,,9,sux:ugula[overseer]N sux:maššugidgid[diviner]N
+etcsri/Q001780,Šulgi 2052,,10,sux:arad[slave]N

@@ -1,0 +1,14 @@
+id_text,text_name,version,l_no,text
+etcsri/Q000932,Nammahni 07,,1,sux:Kindazid[1]DN
+etcsri/Q000932,Nammahni 07,,2,sux:lugal[king]N
+etcsri/Q000932,Nammahni 07,,3,sux:namtil[life]N
+etcsri/Q000932,Nammahni 07,,4,sux:Nammahni[1]RN
+etcsri/Q000932,Nammahni 07,,5,sux:ensik[ruler]N
+etcsri/Q000932,Nammahni 07,,6,sux:Lagaš[1]SN
+etcsri/Q000932,Nammahni 07,,7,sux:Ninkagina[1]PN
+etcsri/Q000932,Nammahni 07,,8,sux:dumu[child]N sux:Kakug[1]PN
+etcsri/Q000932,Nammahni 07,,9,sux:u[and]CNJ sux:namtil[life]N
+etcsri/Q000932,Nammahni 07,,10,sux:a[water]N sux:ru[cvve]V/t
+etcsri/Q000932,Nammahni 07,,11,sux:šita[weapon]N
+etcsri/Q000932,Nammahni 07,,12,sux:lugal[king]N sux:zig[rise]V/i
+etcsri/Q000932,Nammahni 07,,13,sux:zig[rise]V/i

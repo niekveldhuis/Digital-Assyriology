@@ -1,0 +1,105 @@
+id_text,text_name,version,l_no,text
+etcsri/Q001133,URU-KA-gina 05,,o i 1,sux:lu[person]N sux:Umma[1]SN
+etcsri/Q001133,URU-KA-gina 05,,o i 2,sux:eg[levee]N sux:kisura[border]N
+etcsri/Q001133,URU-KA-gina 05,,o i 3,sux:izi[fire]N sux:šum[give]V/t
+etcsri/Q001133,URU-KA-gina 05,,o i 4,sux:Antasura[1]TN
+etcsri/Q001133,URU-KA-gina 05,,o i 5,sux:izi[fire]N sux:šum[give]V/t
+etcsri/Q001133,URU-KA-gina 05,,o i 6,sux:kug[metal]N sux:zagin[lapis]N
+etcsri/Q001133,URU-KA-gina 05,,o i 7,sux:kešed[bind]V/t
+etcsri/Q001133,URU-KA-gina 05,,o i 8,sux:e[house]N sux:gal[big]V/i sux:Tiraš[1]TN
+etcsri/Q001133,URU-KA-gina 05,,o i 9,sux:šu[hand]N sux:bad[open]V/i
+etcsri/Q001133,URU-KA-gina 05,,o i 10,sux:Abzubanda[1]TN
+etcsri/Q001133,URU-KA-gina 05,,o i 11,sux:šu[hand]N sux:bad[open]V/i
+etcsri/Q001133,URU-KA-gina 05,,o i 12,sux:barag[dais]N sux:Enlil[1]DN
+etcsri/Q001133,URU-KA-gina 05,,o i 13,sux:barag[dais]N sux:Utu[1]DN
+etcsri/Q001133,URU-KA-gina 05,,o ii 1,sux:šu[hand]N sux:bad[open]V/i
+etcsri/Q001133,URU-KA-gina 05,,o ii 2,sux:Ahuš[1]TN
+etcsri/Q001133,URU-KA-gina 05,,o ii 3,sux:šu[hand]N sux:bad[open]V/i
+etcsri/Q001133,URU-KA-gina 05,,o ii 4,sux:kug[metal]N sux:zagin[lapis]N
+etcsri/Q001133,URU-KA-gina 05,,o ii 5,sux:kešed[bind]V/t
+etcsri/Q001133,URU-KA-gina 05,,o ii 6,sux:Ebabbar[1]TN
+etcsri/Q001133,URU-KA-gina 05,,o ii 7,sux:šu[hand]N sux:bad[open]V/i
+etcsri/Q001133,URU-KA-gina 05,,o ii 8,sux:kug[metal]N sux:zagin[lapis]N
+etcsri/Q001133,URU-KA-gina 05,,o ii 9,sux:kešed[bind]V/t
+etcsri/Q001133,URU-KA-gina 05,,o ii 10,sux:giguna[terrace]N
+etcsri/Q001133,URU-KA-gina 05,,o ii 11,sux:Ninmah[1]DN
+etcsri/Q001133,URU-KA-gina 05,,o ii 12,sux:Tirkug[1]GN
+etcsri/Q001133,URU-KA-gina 05,,o ii 13,sux:šu[hand]N sux:bad[open]V/i
+etcsri/Q001133,URU-KA-gina 05,,o iii 1,sux:kug[metal]N sux:zagin[lapis]N
+etcsri/Q001133,URU-KA-gina 05,,o iii 2,sux:kešed[bind]V/t
+etcsri/Q001133,URU-KA-gina 05,,o iii 3,sux:Bagara[1]TN
+etcsri/Q001133,URU-KA-gina 05,,o iii 4,sux:šu[hand]N sux:bad[open]V/i
+etcsri/Q001133,URU-KA-gina 05,,o iii 5,sux:kug[metal]N sux:zagin[lapis]N
+etcsri/Q001133,URU-KA-gina 05,,o iii 6,sux:kešed[bind]V/t
+etcsri/Q001133,URU-KA-gina 05,,o iii 7,sux:Dugru[1]GN
+etcsri/Q001133,URU-KA-gina 05,,o iii 8,sux:izi[fire]N sux:šum[give]V/t
+etcsri/Q001133,URU-KA-gina 05,,o iii 9,sux:kug[metal]N sux:zagin[lapis]N
+etcsri/Q001133,URU-KA-gina 05,,o iii 10,sux:kešed[bind]V/t
+etcsri/Q001133,URU-KA-gina 05,,o iii 11,sux:Abzuegak[1]TN
+etcsri/Q001133,URU-KA-gina 05,,o iii 12,sux:šu[hand]N sux:bad[open]V/i
+etcsri/Q001133,URU-KA-gina 05,,o iii 13,sux:e[house]N sux:Ŋatumdug[1]DN
+etcsri/Q001133,URU-KA-gina 05,,o iii 14,sux:izi[fire]N sux:šum[give]V/t
+etcsri/Q001133,URU-KA-gina 05,,o iv 1,sux:kug[metal]N sux:zagin[lapis]N
+etcsri/Q001133,URU-KA-gina 05,,o iv 2,sux:kešed[bind]V/t
+etcsri/Q001133,URU-KA-gina 05,,o iv 3,sux:alan[statue]N
+etcsri/Q001133,URU-KA-gina 05,,o iv 4,sux:gul[destroy]V/t
+etcsri/Q001133,URU-KA-gina 05,,o iv 5,sux:eb[oval]N sux:Eanak[1]TN sux:Inanak[1]DN
+etcsri/Q001133,URU-KA-gina 05,,o iv 6,sux:izi[fire]N sux:šum[give]V/t
+etcsri/Q001133,URU-KA-gina 05,,o iv 7,sux:kug[metal]N sux:zagin[lapis]N
+etcsri/Q001133,URU-KA-gina 05,,o iv 8,sux:kešed[bind]V/t
+etcsri/Q001133,URU-KA-gina 05,,o iv 9,sux:alan[statue]N
+etcsri/Q001133,URU-KA-gina 05,,o iv 10,sux:gul[destroy]V/t
+etcsri/Q001133,URU-KA-gina 05,,o iv 11,sux:Ešagepada[2]TN
+etcsri/Q001133,URU-KA-gina 05,,o iv 12,sux:šu[hand]N sux:bad[open]V/i
+etcsri/Q001133,URU-KA-gina 05,,o iv 13,sux:kug[metal]N sux:zagin[lapis]N
+etcsri/Q001133,URU-KA-gina 05,,o iv 14,sux:kešed[bind]V/t
+etcsri/Q001133,URU-KA-gina 05,,o v 1,sux:Hendak[1]SN
+etcsri/Q001133,URU-KA-gina 05,,o v 2,sux:sumur[roof]N sux:bala[turn]V/t
+etcsri/Q001133,URU-KA-gina 05,,o v 3,sux:Kieša[1]SN
+etcsri/Q001133,URU-KA-gina 05,,o v 4,sux:e[house]N sux:Nindara[1]DN
+etcsri/Q001133,URU-KA-gina 05,,o v 5,sux:šu[hand]N sux:bad[open]V/i
+etcsri/Q001133,URU-KA-gina 05,,o v 6,sux:kug[metal]N sux:zagin[lapis]N
+etcsri/Q001133,URU-KA-gina 05,,o v 7,sux:kešed[bind]V/t
+etcsri/Q001133,URU-KA-gina 05,,o v 8,sux:Kinunir[1]SN
+etcsri/Q001133,URU-KA-gina 05,,o v 9,sux:e[house]N sux:Dumuzidabzuk[1]DN
+etcsri/Q001133,URU-KA-gina 05,,o v 10,sux:izi[fire]N sux:šum[give]V/t
+etcsri/Q001133,URU-KA-gina 05,,o v 11,sux:kug[metal]N sux:zagin[lapis]N
+etcsri/Q001133,URU-KA-gina 05,,r i 1,sux:kešed[bind]V/t
+etcsri/Q001133,URU-KA-gina 05,,r i 2,sux:e[house]N sux:Lugalurubak[1]DN
+etcsri/Q001133,URU-KA-gina 05,,r i 3,sux:izi[fire]N sux:šum[give]V/t
+etcsri/Q001133,URU-KA-gina 05,,r i 4,sux:kug[metal]N sux:zagin[lapis]N
+etcsri/Q001133,URU-KA-gina 05,,r i 5,sux:kešed[bind]V/t
+etcsri/Q001133,URU-KA-gina 05,,r i 6,sux:Eʾengur[1]TN
+etcsri/Q001133,URU-KA-gina 05,,r i 7,sux:Nanše[1]DN
+etcsri/Q001133,URU-KA-gina 05,,r i 8,sux:šu[hand]N sux:bad[open]V/i
+etcsri/Q001133,URU-KA-gina 05,,r i 9,sux:kug[metal]N sux:zagin[lapis]N
+etcsri/Q001133,URU-KA-gina 05,,r i 10,sux:kešed[bind]V/t
+etcsri/Q001133,URU-KA-gina 05,,r i 11,sux:Saŋub[1]SN
+etcsri/Q001133,URU-KA-gina 05,,r ii 1,sux:e[house]N sux:Ŋeštinanak[1]DN
+etcsri/Q001133,URU-KA-gina 05,,r ii 2,sux:šu[hand]N sux:bad[open]V/i
+etcsri/Q001133,URU-KA-gina 05,,r ii 3,sux:Ŋeštinanak[1]DN
+etcsri/Q001133,URU-KA-gina 05,,r ii 4,sux:kug[metal]N sux:zagin[lapis]N
+etcsri/Q001133,URU-KA-gina 05,,r ii 5,sux:kešed[bind]V/t
+etcsri/Q001133,URU-KA-gina 05,,r ii 6,sux:pu[well]N sux:šub[fall]V/t
+etcsri/Q001133,URU-KA-gina 05,,r ii 7,sux:ašag[field]N sux:Ninŋirsuk[1]DN
+etcsri/Q001133,URU-KA-gina 05,,r ii 8,sux:enna[until]CNJ sux:uru[sow]V/t
+etcsri/Q001133,URU-KA-gina 05,,r ii 9,sux:še[barley]N sux:bur[tear]V/t
+etcsri/Q001133,URU-KA-gina 05,,r ii 10,sux:lu[person]N sux:Umma[1]SN
+etcsri/Q001133,URU-KA-gina 05,,r ii 11,sux:eŋir[back]N sux:Lagaš[1]SN
+etcsri/Q001133,URU-KA-gina 05,,r ii 12,sux:hulu[bad]V/t
+etcsri/Q001133,URU-KA-gina 05,,r iii 1,sux:namtaga[sin]N
+etcsri/Q001133,URU-KA-gina 05,,r iii 2,sux:Ninŋirsuk[1]DN
+etcsri/Q001133,URU-KA-gina 05,,r iii 3,sux:ak[do]V/t
+etcsri/Q001133,URU-KA-gina 05,,r iii 4,sux:šu[hand]N sux:de[bring]V/t
+etcsri/Q001133,URU-KA-gina 05,,r iii 5,sux:kud[cut]V/t
+etcsri/Q001133,URU-KA-gina 05,,r iii 6,sux:namtaga[sin]N
+etcsri/Q001133,URU-KA-gina 05,,r iii 7,sux:Irikaginak[1]RN
+etcsri/Q001133,URU-KA-gina 05,,r iii 8,sux:lugal[king]N
+etcsri/Q001133,URU-KA-gina 05,,r iii 9,sux:Ŋirsu[1]SN
+etcsri/Q001133,URU-KA-gina 05,,r iii 10,sux:ŋal[be]V/i
+etcsri/Q001133,URU-KA-gina 05,,r iii 11,sux:Lugalzagesi[1]RN
+etcsri/Q001133,URU-KA-gina 05,,r iii 12,sux:ensik[ruler]N
+etcsri/Q001133,URU-KA-gina 05,,r iii 13,sux:Umma[1]SN
+etcsri/Q001133,URU-KA-gina 05,,r iii 14,sux:diŋir[deity]N
+etcsri/Q001133,URU-KA-gina 05,,r iv 1,sux:Nisabak[1]DN
+etcsri/Q001133,URU-KA-gina 05,,r iv 2,sux:namtaga[sin]N

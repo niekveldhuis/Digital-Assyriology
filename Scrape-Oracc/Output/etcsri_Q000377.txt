@@ -1,0 +1,300 @@
+id_text,text_name,version,l_no,text
+etcsri/Q000377,The building of Ningirsu's temple (Gudea cylinders A and B),,Cylinder A i 1,sux:ud[sun]N sux:an[sky]N sux:ki[place]N sux:nam[fate]N sux:tar[cut]V/t
+etcsri/Q000377,The building of Ningirsu's temple (Gudea cylinders A and B),,Cylinder A i 2,sux:Lagaš[1]SN sux:me[being]N sux:gal[big]V/i sux:saŋ[head]N sux:an[sky]N sux:il[raise]V/t
+etcsri/Q000377,The building of Ningirsu's temple (Gudea cylinders A and B),,Cylinder A i 3,sux:Enlil[1]DN sux:en[lord]N sux:Ninŋirsuk[1]DN sux:igi[eye]N sux:zid[right]V/i sux:bar[cvve]V/t
+etcsri/Q000377,The building of Ningirsu's temple (Gudea cylinders A and B),,Cylinder A i 4,sux:iri[city]N sux:niŋdu[appropriate-thing]N sux:pa[branch]N sux:e[leave]V/i
+etcsri/Q000377,The building of Ningirsu's temple (Gudea cylinders A and B),,Cylinder A i 5,sux:šag[heart]N sux:gu[neck]N sux:gi[turn]V/i
+etcsri/Q000377,The building of Ningirsu's temple (Gudea cylinders A and B),,Cylinder A i 6,sux:šag[heart]N sux:Enlil[1]DN sux:gu[neck]N sux:gi[turn]V/i
+etcsri/Q000377,The building of Ningirsu's temple (Gudea cylinders A and B),,Cylinder A i 7,sux:šag[heart]N sux:gu[neck]N sux:gi[turn]V/i
+etcsri/Q000377,The building of Ningirsu's temple (Gudea cylinders A and B),,Cylinder A i 8,sux:aŋi[wave]N sux:urun[exalted]V/i sux:ni[fear]N sux:il[raise]V/t
+etcsri/Q000377,The building of Ningirsu's temple (Gudea cylinders A and B),,Cylinder A i 9,sux:šag[heart]N sux:Enlil[1]DN sux:Idigna[1]WN sux:a[water]N sux:dug[good]V/i sux:de[bring]V/t
+etcsri/Q000377,The building of Ningirsu's temple (Gudea cylinders A and B),,Cylinder A i 10,sux:e[house]N sux:lugal[king]N sux:gu[voice]N sux:de[pour]V/t
+etcsri/Q000377,The building of Ningirsu's temple (Gudea cylinders A and B),,Cylinder A i 11,sux:Eninnu[1]TN sux:me[being]N sux:an[sky]N sux:ki[place]N sux:pa[branch]N sux:e[leave]V/i sux:ak[do]V/t
+etcsri/Q000377,The building of Ningirsu's temple (Gudea cylinders A and B),,Cylinder A i 12,sux:ensik[ruler]N sux:lu[person]N sux:ŋeštug[ear]N sux:daŋal[wide]V/i sux:ŋeštug[ear]N sux:ŋar[place]V/t
+etcsri/Q000377,The building of Ningirsu's temple (Gudea cylinders A and B),,Cylinder A i 13,sux:niŋ[thing]N sux:gal[big]V/i sux:šu[hand]N sux:mu[grow]V/t
+etcsri/Q000377,The building of Ningirsu's temple (Gudea cylinders A and B),,Cylinder A i 14,sux:gud[ox]N sux:du[suitable]V/i sux:maš[goat]N sux:du[suitable]V/i sux:si[horn]N sux:sa[equal]V/t
+etcsri/Q000377,The building of Ningirsu's temple (Gudea cylinders A and B),,Cylinder A i 15,sux:šeg[brick]N sux:nam[fate]N sux:tar[cut]V/t sux:saŋ[head]N sux:il[raise]V/t
+etcsri/Q000377,The building of Ningirsu's temple (Gudea cylinders A and B),,Cylinder A i 16,sux:e[house]N sux:kug[pure]V/i sux:du[build]V/t sux:gu[neck]N sux:zig[rise]V/i
+etcsri/Q000377,The building of Ningirsu's temple (Gudea cylinders A and B),,Cylinder A i 17,sux:lugal[king]N sux:ud[sun]N sux:mašŋik[vision]N
+etcsri/Q000377,The building of Ningirsu's temple (Gudea cylinders A and B),,Cylinder A i 18,sux:Gudea[1]RN sux:en[lord]N sux:Ninŋirsuk[1]DN sux:igi[eye]N sux:duh[loosen]V/t
+etcsri/Q000377,The building of Ningirsu's temple (Gudea cylinders A and B),,Cylinder A i 19,sux:e[house]N sux:du[build]V/t sux:dug[speak]V/t
+etcsri/Q000377,The building of Ningirsu's temple (Gudea cylinders A and B),,Cylinder A ix 5,sux:min[two]NU sux:nud[lie]V/i sux:nud[lie]V/i
+etcsri/Q000377,The building of Ningirsu's temple (Gudea cylinders A and B),,Cylinder A ix 6,sux:saŋ[head]N sux:gub[stand]V/i sux:ul[hasten]V/i sux:tag[touch]V/t
+etcsri/Q000377,The building of Ningirsu's temple (Gudea cylinders A and B),,Cylinder A ix 7,sux:du[build]V/t sux:du[build]V/t
+etcsri/Q000377,The building of Ningirsu's temple (Gudea cylinders A and B),,Cylinder A ix 8,sux:ensik[ruler]N sux:e[house]N sux:du[build]V/t
+etcsri/Q000377,The building of Ningirsu's temple (Gudea cylinders A and B),,Cylinder A ix 9,sux:Gudea[1]RN sux:e[house]N sux:du[build]V/t sux:ŋiškim[sign]N sux:šum[give]V/t
+etcsri/Q000377,The building of Ningirsu's temple (Gudea cylinders A and B),,Cylinder A ix 10,sux:ŋarza[rites]N sux:mulan[star]N sux:kug[pure]V/i sux:gu[voice]N sux:de[pour]V/t
+etcsri/Q000377,The building of Ningirsu's temple (Gudea cylinders A and B),,Cylinder A ix 11,sux:e[house]N sux:Eninnu[1]TN sux:An[1]DN sux:ki[place]N sux:ŋar[place]V/t
+etcsri/Q000377,The building of Ningirsu's temple (Gudea cylinders A and B),,Cylinder A ix 12,sux:me[being]N sux:me[being]N sux:gal[big]V/i sux:me[being]N sux:dirig[exceed]V/t
+etcsri/Q000377,The building of Ningirsu's temple (Gudea cylinders A and B),,Cylinder A ix 13,sux:e[house]N sux:lugal[king]N sux:igi[eye]N sux:sud[distant]V/i sux:il[raise]V/t
+etcsri/Q000377,The building of Ningirsu's temple (Gudea cylinders A and B),,Cylinder A ix 14,sux:anzud[eagle]N sux:šeg[voice]N sux:gi[turn]V/i
+etcsri/Q000377,The building of Ningirsu's temple (Gudea cylinders A and B),,Cylinder A ix 15,sux:an[sky]N sux:dub[tremble]V/i
+etcsri/Q000377,The building of Ningirsu's temple (Gudea cylinders A and B),,Cylinder A ix 16,sux:melim[splendor]N sux:huš[reddish]V/i sux:an[sky]N sux:us[follow]V/i
+etcsri/Q000377,The building of Ningirsu's temple (Gudea cylinders A and B),,Cylinder A ix 17,sux:e[house]N sux:ni[fear]N sux:gal[big]V/i sux:kur[mountain]N sux:ri[impose]V/i
+etcsri/Q000377,The building of Ningirsu's temple (Gudea cylinders A and B),,Cylinder A ix 18,sux:mu[name]N sux:anzag[horizon]N sux:kur[mountain]N sux:gu[neck]N sux:si[fill]V/t
+etcsri/Q000377,The building of Ningirsu's temple (Gudea cylinders A and B),,Cylinder A ix 19,sux:Magan[1]GN sux:Meluha[1]GN sux:kur[mountain]N sux:ed[ascend]V/i
+etcsri/Q000377,The building of Ningirsu's temple (Gudea cylinders A and B),,Cylinder A ix 20,sux:ŋaʾe[I]IP sux:Ninŋirsuk[1]DN sux:a[water]N sux:huš[reddish]V/i sux:gi[turn]V/i
+etcsri/Q000377,The building of Ningirsu's temple (Gudea cylinders A and B),,Cylinder A ix 21,sux:ursaŋ[hero]N sux:gal[big]V/i sux:ki[place]N sux:Enlil[1]DN
+etcsri/Q000377,The building of Ningirsu's temple (Gudea cylinders A and B),,Cylinder A ix 22,sux:en[lord]N sux:gabari[copy]N sux:tuku[acquire]V/t
+etcsri/Q000377,The building of Ningirsu's temple (Gudea cylinders A and B),,Cylinder A ix 23,sux:e[house]N sux:Eninnu[1]TN sux:men[tiara]N sux:kur[mountain]N sux:dirig[exceed]V/t
+etcsri/Q000377,The building of Ningirsu's temple (Gudea cylinders A and B),,Cylinder A ix 24,sux:tukul[weapon]N sux:Šarur[1]ON sux:kur[mountain]N sux:šu[hand]N sux:ŋar[place]V/t
+etcsri/Q000377,The building of Ningirsu's temple (Gudea cylinders A and B),,Cylinder A ix 25,sux:igi[eye]N sux:huš[reddish]V/i sux:kur[mountain]N sux:il[raise]V/t
+etcsri/Q000377,The building of Ningirsu's temple (Gudea cylinders A and B),,Cylinder A ix 26,sux:a[arm]N sux:bad[open]V/i sux:lu[person]N sux:e[leave]V/i
+etcsri/Q000377,The building of Ningirsu's temple (Gudea cylinders A and B),,Cylinder A x 1,sux:aya[father]N sux:ugu[bear]V/t sux:nam[fate]N sux:gal[big]V/i sux:ki[place]N sux:aŋ[measure]V/t
+etcsri/Q000377,The building of Ningirsu's temple (Gudea cylinders A and B),,Cylinder A x 2,sux:lugal[king]N sux:amaru[flood]N sux:Enlil[1]DN
+etcsri/Q000377,The building of Ningirsu's temple (Gudea cylinders A and B),,Cylinder A x 3,sux:igi[eye]N sux:huš[reddish]V/i sux:kur[mountain]N sux:il[raise]V/t
+etcsri/Q000377,The building of Ningirsu's temple (Gudea cylinders A and B),,Cylinder A x 4,sux:Ninŋirsuk[1]DN sux:ursaŋ[hero]N sux:Enlil[1]DN
+etcsri/Q000377,The building of Ningirsu's temple (Gudea cylinders A and B),,Cylinder A x 5,sux:mu[name]N sux:še[call]V/t
+etcsri/Q000377,The building of Ningirsu's temple (Gudea cylinders A and B),,Cylinder A x 6,sux:me[being]N sux:ninnu[fifty]NU sux:zag[side]N sux:kešed[bind]V/t
+etcsri/Q000377,The building of Ningirsu's temple (Gudea cylinders A and B),,Cylinder A x 7,sux:banšur[table]N sux:il[raise]V/t
+etcsri/Q000377,The building of Ningirsu's temple (Gudea cylinders A and B),,Cylinder A x 8,sux:šuluh[cleansing]N sux:si[horn]N sux:sa[equal]V/t
+etcsri/Q000377,The building of Ningirsu's temple (Gudea cylinders A and B),,Cylinder A x 9,sux:šu[hand]N sux:si[horn]N sux:sa[equal]V/t sux:an[sky]N sux:kug[pure]V/i sux:u[plants]N sux:zig[rise]V/i
+etcsri/Q000377,The building of Ningirsu's temple (Gudea cylinders A and B),,Cylinder A x 10,sux:niŋ[thing]N sux:šu[hand]N sux:dug[good]V/i
+etcsri/Q000377,The building of Ningirsu's temple (Gudea cylinders A and B),,Cylinder A x 11,sux:aya[father]N sux:ugu[bear]V/t sux:dug[good]V/i sux:gu[eat]V/t
+etcsri/Q000377,The building of Ningirsu's temple (Gudea cylinders A and B),,Cylinder A x 12,sux:An[1]DN sux:lugal[king]N sux:diŋir[deity]N
+etcsri/Q000377,The building of Ningirsu's temple (Gudea cylinders A and B),,Cylinder A x 13,sux:Ninŋirsuk[1]DN sux:lugal[king]N sux:išib[priest]N sux:An[1]DN
+etcsri/Q000377,The building of Ningirsu's temple (Gudea cylinders A and B),,Cylinder A x 14,sux:mu[name]N sux:še[call]V/t
+etcsri/Q000377,The building of Ningirsu's temple (Gudea cylinders A and B),,Cylinder A x 15,sux:Tiraš[1]TN sux:abzu[water]N
+etcsri/Q000377,The building of Ningirsu's temple (Gudea cylinders A and B),,Cylinder A x 16,sux:namnun[magnificence]N sux:ki[place]N sux:ŋar[place]V/t
+etcsri/Q000377,The building of Ningirsu's temple (Gudea cylinders A and B),,Cylinder A x 17,sux:šag[heart]N sux:itud[moon]N sux:usakar[moon]N
+etcsri/Q000377,The building of Ningirsu's temple (Gudea cylinders A and B),,Cylinder A x 18,sux:me[being]N sux:gal[big]V/i sux:ezem[festival]N sux:An[1]DN sux:šu[hand]N sux:gal[big]V/i sux:du[suitable]V/i
+etcsri/Q000377,The building of Ningirsu's temple (Gudea cylinders A and B),,Cylinder A x 19,sux:Ahuš[1]TN sux:ki[place]N sux:huš[reddish]V/i
+etcsri/Q000377,The building of Ningirsu's temple (Gudea cylinders A and B),,Cylinder A x 20,sux:muš[snake]N sux:huš[reddish]V/i sux:ki[place]N sux:sumur[angry]V/i sux:du[build]V/t
+etcsri/Q000377,The building of Ningirsu's temple (Gudea cylinders A and B),,Cylinder A x 21,sux:kibala[rebel-land]N sux:dug[speak]V/t
+etcsri/Q000377,The building of Ningirsu's temple (Gudea cylinders A and B),,Cylinder A x 22,sux:ud[sun]N sux:šag[heart]N sux:mir[angry]V/i
+etcsri/Q000377,The building of Ningirsu's temple (Gudea cylinders A and B),,Cylinder A x 23,sux:muš[snake]N sux:ze[gall-bladder]N sux:guru[grind]V/t sux:uš[poison]N sux:utud[bear]V/t
+etcsri/Q000377,The building of Ningirsu's temple (Gudea cylinders A and B),,Cylinder A x 24,sux:Ebabbar[1]TN sux:ki[place]N sux:a[arm]N sux:aŋ[measure]V/t
+etcsri/Q000377,The building of Ningirsu's temple (Gudea cylinders A and B),,Cylinder A x 25,sux:ki[place]N sux:Utu[1]DN sux:dalla[bright]V/i
+etcsri/Q000377,The building of Ningirsu's temple (Gudea cylinders A and B),,Cylinder A x 26,sux:ki[place]N sux:Ištaran[1]DN sux:did[lawsuit]N sux:iri[city]N sux:si[horn]N sux:sa[equal]V/t
+etcsri/Q000377,The building of Ningirsu's temple (Gudea cylinders A and B),,Cylinder A x 27,sux:e[house]N sux:Bagara[1]TN sux:ki[place]N sux:banšur[table]N
+etcsri/Q000377,The building of Ningirsu's temple (Gudea cylinders A and B),,Cylinder A x 28,sux:diŋir[deity]N sux:gal[big]V/i sux:Lagaš[1]SN
+etcsri/Q000377,The building of Ningirsu's temple (Gudea cylinders A and B),,Cylinder A x 29,sux:gu[neck]N sux:si[fill]V/t
+etcsri/Q000377,The building of Ningirsu's temple (Gudea cylinders A and B),,Cylinder A xi 1,sux:e[house]N sux:e[house]N sux:saŋkal[foremost]N sux:kur[mountain]N
+etcsri/Q000377,The building of Ningirsu's temple (Gudea cylinders A and B),,Cylinder A xi 2,sux:a[arm]N sux:zid[right]V/i sux:Lagaš[1]SN
+etcsri/Q000377,The building of Ningirsu's temple (Gudea cylinders A and B),,Cylinder A xi 3,sux:anzud[eagle]N sux:anšar[heaven]N sux:šeg[voice]N sux:gi[turn]V/i
+etcsri/Q000377,The building of Ningirsu's temple (Gudea cylinders A and B),,Cylinder A xi 4,sux:Eninnu[1]TN sux:e[house]N sux:namlugal[kingship]N
+etcsri/Q000377,The building of Ningirsu's temple (Gudea cylinders A and B),,Cylinder A xi 5,sux:sipad[shepherd]N sux:zid[right]V/i sux:Gudea[1]RN
+etcsri/Q000377,The building of Ningirsu's temple (Gudea cylinders A and B),,Cylinder A xi 6,sux:ud[sun]N sux:šu[hand]N sux:zid[right]V/i sux:de[bring]V/t
+etcsri/Q000377,The building of Ningirsu's temple (Gudea cylinders A and B),,Cylinder A xi 7,sux:an[sky]N sux:tumu[wind]N sux:duru[wet]V/i sux:gu[voice]N sux:de[pour]V/t
+etcsri/Q000377,The building of Ningirsu's temple (Gudea cylinders A and B),,Cylinder A xi 8,sux:an[sky]N sux:heŋal[plenty]N sux:ŋen[go]V/i
+etcsri/Q000377,The building of Ningirsu's temple (Gudea cylinders A and B),,Cylinder A xi 9,sux:kalam[land]N sux:heŋal[plenty]N sux:šu[hand]N sux:peš[thick]V/i
+etcsri/Q000377,The building of Ningirsu's temple (Gudea cylinders A and B),,Cylinder A xi 10,sux:e[house]N sux:uš[foundation]N sux:ki[place]N sux:ŋar[place]V/t
+etcsri/Q000377,The building of Ningirsu's temple (Gudea cylinders A and B),,Cylinder A xi 11,sux:heŋal[plenty]N sux:ŋen[go]V/i
+etcsri/Q000377,The building of Ningirsu's temple (Gudea cylinders A and B),,Cylinder A xi 12,sux:ašag[field]N sux:gal[big]V/i sux:šu[hand]N sux:il[raise]V/t
+etcsri/Q000377,The building of Ningirsu's temple (Gudea cylinders A and B),,Cylinder A xi 13,sux:eg[levee]N sux:par[canal]N sux:gu[neck]N sux:zig[rise]V/i
+etcsri/Q000377,The building of Ningirsu's temple (Gudea cylinders A and B),,Cylinder A xi 14,sux:dud[mound]N sux:ki[place]N sux:a[water]N sux:ed[ascend]V/i
+etcsri/Q000377,The building of Ningirsu's temple (Gudea cylinders A and B),,Cylinder A xi 15,sux:a[water]N sux:ed[ascend]V/i
+etcsri/Q000377,The building of Ningirsu's temple (Gudea cylinders A and B),,Cylinder A xi 16,sux:Kiengir[1]GN sux:i[oil]N sux:dirig[exceed]V/t sux:de[pour]V/t
+etcsri/Q000377,The building of Ningirsu's temple (Gudea cylinders A and B),,Cylinder A xi 17,sux:siki[hair]N sux:dirig[exceed]V/t sux:la[hang]V/t
+etcsri/Q000377,The building of Ningirsu's temple (Gudea cylinders A and B),,Cylinder A xi 18,sux:ud[sun]N sux:temen[foundation]N sux:sig[put]V/t
+etcsri/Q000377,The building of Ningirsu's temple (Gudea cylinders A and B),,Cylinder A xi 19,sux:e[house]N sux:ud[sun]N sux:šu[hand]N sux:zid[right]V/i sux:de[bring]V/t
+etcsri/Q000377,The building of Ningirsu's temple (Gudea cylinders A and B),,Cylinder A xi 20,sux:hursaŋ[mountain]N sux:ki[place]N sux:mir[wind]N sux:tuš[sit]V/i
+etcsri/Q000377,The building of Ningirsu's temple (Gudea cylinders A and B),,Cylinder A xi 21,sux:ŋiri[foot]N sux:ki[place]N sux:us[follow]V/i
+etcsri/Q000377,The building of Ningirsu's temple (Gudea cylinders A and B),,Cylinder A xi 22,sux:nita[male]N sux:a[arm]N sux:dirig[exceed]V/t sux:mir[wind]N sux:hursaŋ[mountain]N sux:ki[place]N sux:sikil[pure]V/i
+etcsri/Q000377,The building of Ningirsu's temple (Gudea cylinders A and B),,Cylinder A xi 23,sux:tumu[wind]N sux:si[horn]N sux:sa[equal]V/t
+etcsri/Q000377,The building of Ningirsu's temple (Gudea cylinders A and B),,Cylinder A xi 24,sux:kalam[land]N sux:zišagŋal[encouragement]N sux:šum[give]V/t
+etcsri/Q000377,The building of Ningirsu's temple (Gudea cylinders A and B),,Cylinder A xi 25,sux:lu[person]N sux:dili[single]V/i sux:lu[person]N sux:min[two]NU sux:kiŋ[work]V/t sux:ak[do]V/t
+etcsri/Q000377,The building of Ningirsu's temple (Gudea cylinders A and B),,Cylinder A xi 26,sux:ŋiʾunak[night]N sux:itud[moon]N sux:e[leave]V/i
+etcsri/Q000377,The building of Ningirsu's temple (Gudea cylinders A and B),,Cylinder A xi 27,sux:anbarkar[mid-day]N sux:ud[sun]N sux:e[leave]V/i
+etcsri/Q000377,The building of Ningirsu's temple (Gudea cylinders A and B),,Cylinder A xii 1,sux:e[house]N sux:ud[sun]N sux:du[build]V/t
+etcsri/Q000377,The building of Ningirsu's temple (Gudea cylinders A and B),,Cylinder A xii 2,sux:ŋi[night]N sux:mu[grow]V/t
+etcsri/Q000377,The building of Ningirsu's temple (Gudea cylinders A and B),,Cylinder A xii 3,sux:sig[weak]V/i sux:halub[tree]N
+etcsri/Q000377,The building of Ningirsu's temple (Gudea cylinders A and B),,Cylinder A xii 4,sux:NEhan[tree]N sux:ed[ascend]V/i
+etcsri/Q000377,The building of Ningirsu's temple (Gudea cylinders A and B),,Cylinder A xii 5,sux:iginim[land]N sux:eren[cedar]N sux:šurmen[cypress]N sux:zabalum[juniper]N sux:ni[self]N sux:de[bring]V/t
+etcsri/Q000377,The building of Ningirsu's temple (Gudea cylinders A and B),,Cylinder A xii 6,sux:kur[mountain]N sux:esi[tree]N
+etcsri/Q000377,The building of Ningirsu's temple (Gudea cylinders A and B),,Cylinder A xii 7,sux:esi[tree]N sux:de[bring]V/t
+etcsri/Q000377,The building of Ningirsu's temple (Gudea cylinders A and B),,Cylinder A xii 8,sux:kur[mountain]N sux:na[stone]N sux:na[stone]N sux:gal[big]V/i sux:hursaŋ[mountain]N
+etcsri/Q000377,The building of Ningirsu's temple (Gudea cylinders A and B),,Cylinder A xii 9,sux:lagab[block]N sux:kud[cut]V/t
+etcsri/Q000377,The building of Ningirsu's temple (Gudea cylinders A and B),,Cylinder A xii 10,sux:ud[sun]N sux:a[arm]N sux:izi[fire]N sux:tag[touch]V/t
+etcsri/Q000377,The building of Ningirsu's temple (Gudea cylinders A and B),,Cylinder A xii 11,sux:ŋiškim[sign]N sux:zu[know]V/t
+etcsri/Q000377,The building of Ningirsu's temple (Gudea cylinders A and B),,Cylinder A xii 12,sux:Gudea[1]RN sux:zig[rise]V/i sux:usag[sleep]N
+etcsri/Q000377,The building of Ningirsu's temple (Gudea cylinders A and B),,Cylinder A xii 13,sux:huluh[frightened]V/i sux:mamud[dream]N
+etcsri/Q000377,The building of Ningirsu's temple (Gudea cylinders A and B),,Cylinder A xii 14,sux:inim[word]N sux:dug[speak]V/t sux:Ninŋirsuk[1]DN
+etcsri/Q000377,The building of Ningirsu's temple (Gudea cylinders A and B),,Cylinder A xii 15,sux:saŋ[head]N sux:sig[weak]V/i sux:ŋar[place]V/t
+etcsri/Q000377,The building of Ningirsu's temple (Gudea cylinders A and B),,Cylinder A xii 16,sux:maš[goat]N sux:babbar[white]V/i sux:šu[hand]N sux:gid[long]V/i
+etcsri/Q000377,The building of Ningirsu's temple (Gudea cylinders A and B),,Cylinder A xii 17,sux:maš[goat]N sux:šu[hand]N sux:gid[long]V/i sux:maš[goat]N sux:sag[good]V/i
+etcsri/Q000377,The building of Ningirsu's temple (Gudea cylinders A and B),,Cylinder A xii 18,sux:Gudea[1]RN sux:šag[heart]N sux:Ninŋirsuk[1]DN
+etcsri/Q000377,The building of Ningirsu's temple (Gudea cylinders A and B),,Cylinder A xii 19,sux:ud[sun]N sux:e[leave]V/i
+etcsri/Q000377,The building of Ningirsu's temple (Gudea cylinders A and B),,Cylinder A xv 6,sux:Elam[1]GN sux:Elam[1]GN sux:ŋen[go]V/i
+etcsri/Q000377,The building of Ningirsu's temple (Gudea cylinders A and B),,Cylinder A xv 7,sux:Šušin[Susa]SN sux:Šušin[Susa]SN sux:ŋen[go]V/i
+etcsri/Q000377,The building of Ningirsu's temple (Gudea cylinders A and B),,Cylinder A xv 8,sux:Magan[1]GN sux:Meluha[1]GN sux:kur[mountain]N sux:gu[neck]N sux:ŋeš[tree]N sux:ŋal[be]V/i
+etcsri/Q000377,The building of Ningirsu's temple (Gudea cylinders A and B),,Cylinder A xv 9,sux:e[house]N sux:Ninŋirsuk[1]DN sux:du[build]V/t
+etcsri/Q000377,The building of Ningirsu's temple (Gudea cylinders A and B),,Cylinder A xv 10,sux:Gudea[1]RN sux:iri[city]N sux:Ŋirsu[1]SN sux:gu[neck]N sux:si[fill]V/t
+etcsri/Q000377,The building of Ningirsu's temple (Gudea cylinders A and B),,Cylinder A xv 11,sux:Ninzagak[1]DN sux:a[arm]N sux:aŋ[measure]V/t
+etcsri/Q000377,The building of Ningirsu's temple (Gudea cylinders A and B),,Cylinder A xv 12,sux:urud[copper]N sux:še[barley]N sux:mah[great]V/i sux:de[bring]V/t
+etcsri/Q000377,The building of Ningirsu's temple (Gudea cylinders A and B),,Cylinder A xv 13,sux:Gudea[1]RN sux:lu[person]N sux:e[house]N sux:du[build]V/t
+etcsri/Q000377,The building of Ningirsu's temple (Gudea cylinders A and B),,Cylinder A xv 14,sux:us[follow]V/i
+etcsri/Q000377,The building of Ningirsu's temple (Gudea cylinders A and B),,Cylinder A xv 15,sux:Ninsikila[1]DN sux:a[arm]N sux:aŋ[measure]V/t
+etcsri/Q000377,The building of Ningirsu's temple (Gudea cylinders A and B),,Cylinder A xv 16,sux:halub[tree]N sux:gal[big]V/i sux:esi[tree]N sux:ŋešaʾabak[tree]N
+etcsri/Q000377,The building of Ningirsu's temple (Gudea cylinders A and B),,Cylinder A xv 17,sux:ensik[ruler]N sux:Eninnu[1]TN sux:du[build]V/t
+etcsri/Q000377,The building of Ningirsu's temple (Gudea cylinders A and B),,Cylinder A xv 18,sux:us[follow]V/i
+etcsri/Q000377,The building of Ningirsu's temple (Gudea cylinders A and B),,Cylinder A xv 19,sux:kur[mountain]N sux:eren[cedar]N sux:lu[person]N sux:kur[enter]V/i
+etcsri/Q000377,The building of Ningirsu's temple (Gudea cylinders A and B),,Cylinder A xv 20,sux:Gudea[1]RN sux:en[lord]N sux:Ninŋirsuk[1]DN
+etcsri/Q000377,The building of Ningirsu's temple (Gudea cylinders A and B),,Cylinder A xv 21,sux:ŋiri[foot]N sux:ŋar[place]V/t
+etcsri/Q000377,The building of Ningirsu's temple (Gudea cylinders A and B),,Cylinder A xv 22,sux:eren[cedar]N sux:tun[ax]N sux:gal[big]V/i sux:kud[cut]V/t
+etcsri/Q000377,The building of Ningirsu's temple (Gudea cylinders A and B),,Cylinder A xv 23,sux:Šarur[1]ON sux:a[arm]N sux:zid[right]V/i sux:Lagaš[1]SN
+etcsri/Q000377,The building of Ningirsu's temple (Gudea cylinders A and B),,Cylinder A xv 24,sux:tukul[weapon]N sux:amaru[flood]N sux:lugal[king]N
+etcsri/Q000377,The building of Ningirsu's temple (Gudea cylinders A and B),,Cylinder A xv 25,sux:tun[ax]N sux:bar[cvve]V/t
+etcsri/Q000377,The building of Ningirsu's temple (Gudea cylinders A and B),,Cylinder A xv 26,sux:muš[snake]N sux:mah[great]V/i sux:a[water]N sux:dirig[exceed]V/t
+etcsri/Q000377,The building of Ningirsu's temple (Gudea cylinders A and B),,Cylinder A xxii 9,sux:ensik[ruler]N sux:e[house]N sux:du[build]V/t sux:mu[grow]V/t
+etcsri/Q000377,The building of Ningirsu's temple (Gudea cylinders A and B),,Cylinder A xxii 10,sux:kur[mountain]N sux:gal[big]V/i sux:mu[grow]V/t
+etcsri/Q000377,The building of Ningirsu's temple (Gudea cylinders A and B),,Cylinder A xxii 11,sux:temen[foundation]N sux:abzu[water]N sux:dim[post]N sux:gal[big]V/i sux:ki[place]N sux:sig[put]V/t
+etcsri/Q000377,The building of Ningirsu's temple (Gudea cylinders A and B),,Cylinder A xxii 12,sux:Enkik[1]DN sux:Eangurak[1]TN
+etcsri/Q000377,The building of Ningirsu's temple (Gudea cylinders A and B),,Cylinder A xxii 13,sux:šag[heart]N sux:kušu[tired]V/i
+etcsri/Q000377,The building of Ningirsu's temple (Gudea cylinders A and B),,Cylinder A xxii 14,sux:temen[foundation]N sux:an[sky]N sux:ursaŋ[hero]N sux:e[house]N sux:dab[go-around]V/i
+etcsri/Q000377,The building of Ningirsu's temple (Gudea cylinders A and B),,Cylinder A xxii 15,sux:kiʾanaŋ[locus]N sux:diŋir[deity]N sux:a[water]N sux:naŋ[drink]V/t
+etcsri/Q000377,The building of Ningirsu's temple (Gudea cylinders A and B),,Cylinder A xxii 16,sux:Eninnu[1]TN sux:dim[post]N sux:gal[big]V/i sux:gin[establish]V/i
+etcsri/Q000377,The building of Ningirsu's temple (Gudea cylinders A and B),,Cylinder A xxii 17,sux:abgal[sage]N sux:du[build]V/t
+etcsri/Q000377,The building of Ningirsu's temple (Gudea cylinders A and B),,Cylinder A xxii 18,sux:iri[city]N sux:asal[poplar]N sux:dug[good]V/i sux:du[build]V/t
+etcsri/Q000377,The building of Ningirsu's temple (Gudea cylinders A and B),,Cylinder A xxii 19,sux:ŋissu[shade]N sux:la[stretch]V/t
+etcsri/Q000377,The building of Ningirsu's temple (Gudea cylinders A and B),,Cylinder A xxii 20,sux:Šarur[1]ON sux:urin[standard]N sux:gal[big]V/i sux:Lagaš[1]SN sux:sig[put]V/t
+etcsri/Q000377,The building of Ningirsu's temple (Gudea cylinders A and B),,Cylinder A xxii 21,sux:Šugalam[1]GN sux:ki[place]N sux:huš[reddish]V/i sux:ŋar[place]V/t
+etcsri/Q000377,The building of Ningirsu's temple (Gudea cylinders A and B),,Cylinder A xxii 22,sux:suzi[radiance]N sux:du[spread]V/t sux:barag[dais]N sux:Ŋirnun[1]SN sux:ki[place]N sux:did[lawsuit]N sux:kud[cut]V/t
+etcsri/Q000377,The building of Ningirsu's temple (Gudea cylinders A and B),,Cylinder A xxii 23,sux:ua[provisioner]N sux:Lagaš[1]SN sux:gud[ox]N sux:gal[big]V/i sux:a[arm]N sux:il[raise]V/t
+etcsri/Q000377,The building of Ningirsu's temple (Gudea cylinders A and B),,Cylinder A xxii 24,sux:na[stone]N sux:gal[big]V/i sux:lagab[block]N sux:de[bring]V/t
+etcsri/Q000377,The building of Ningirsu's temple (Gudea cylinders A and B),,Cylinder A xxiii 1,sux:mu[year]N sux:dili[single]V/i sux:de[bring]V/t sux:mu[year]N sux:dili[single]V/i sux:ak[do]V/t
+etcsri/Q000377,The building of Ningirsu's temple (Gudea cylinders A and B),,Cylinder A xxiii 2,sux:ud[sun]N sux:min[two]NU sux:ud[sun]N sux:eš[three]NU sux:zal[pass]V/i
+etcsri/Q000377,The building of Ningirsu's temple (Gudea cylinders A and B),,Cylinder A xxiii 3,sux:a[time]N sux:ud[sun]N sux:diš[one]NU sux:du[build]V/t
+etcsri/Q000377,The building of Ningirsu's temple (Gudea cylinders A and B),,Cylinder A xxiii 4,sux:ud[sun]N sux:imin[seven]NU sux:e[house]N sux:dab[go-around]V/i
+etcsri/Q000377,The building of Ningirsu's temple (Gudea cylinders A and B),,Cylinder A xxiii 5,sux:na[stone]N sux:da[line]N sux:kun[stair]N sux:nud[lie]V/i
+etcsri/Q000377,The building of Ningirsu's temple (Gudea cylinders A and B),,Cylinder A xxiii 6,sux:šim[basin]N sux:dim[create]V/t
+etcsri/Q000377,The building of Ningirsu's temple (Gudea cylinders A and B),,Cylinder A xxiii 7,sux:e[house]N sux:gub[stand]V/i
+etcsri/Q000377,The building of Ningirsu's temple (Gudea cylinders A and B),,Cylinder A xxiii 8,sux:na[stone]N sux:kisal[courtyard]N sux:mah[great]V/i sux:du[build]V/t
+etcsri/Q000377,The building of Ningirsu's temple (Gudea cylinders A and B),,Cylinder A xxiii 9,sux:narua[stele]N sux:lugal[king]N sux:kisal[courtyard]N sux:si[fill]V/t
+etcsri/Q000377,The building of Ningirsu's temple (Gudea cylinders A and B),,Cylinder A xxiii 10,sux:Gudea[1]RN sux:en[lord]N sux:Ninŋirsuk[1]DN
+etcsri/Q000377,The building of Ningirsu's temple (Gudea cylinders A and B),,Cylinder A xxiii 11,sux:Ŋirnun[1]SN sux:zu[know]V/t
+etcsri/Q000377,The building of Ningirsu's temple (Gudea cylinders A and B),,Cylinder A xxiii 12,sux:na[stone]N sux:mu[name]N sux:še[call]V/t
+etcsri/Q000377,The building of Ningirsu's temple (Gudea cylinders A and B),,Cylinder A xxiii 13,sux:na[stone]N sux:Kasura[1]SN sux:du[build]V/t
+etcsri/Q000377,The building of Ningirsu's temple (Gudea cylinders A and B),,Cylinder A xxiii 14,sux:lugal[king]N sux:amaru[flood]N sux:Enlil[1]DN
+etcsri/Q000377,The building of Ningirsu's temple (Gudea cylinders A and B),,Cylinder A xxiii 15,sux:gabašuŋar[rival]N sux:tuku[acquire]V/t
+etcsri/Q000377,The building of Ningirsu's temple (Gudea cylinders A and B),,Cylinder A xxiii 16,sux:Gudea[1]RN sux:en[lord]N sux:Ninŋirsuk[1]DN
+etcsri/Q000377,The building of Ningirsu's temple (Gudea cylinders A and B),,Cylinder A xxiii 17,sux:igi[eye]N sux:zid[right]V/i sux:bar[cvve]V/t
+etcsri/Q000377,The building of Ningirsu's temple (Gudea cylinders A and B),,Cylinder A xxiii 18,sux:na[stone]N sux:mu[name]N sux:še[call]V/t
+etcsri/Q000377,The building of Ningirsu's temple (Gudea cylinders A and B),,Cylinder A xxiii 19,sux:na[stone]N sux:igi[face]N sux:ud[sun]N sux:e[leave]V/i sux:du[build]V/t
+etcsri/Q000377,The building of Ningirsu's temple (Gudea cylinders A and B),,Cylinder A xxiii 20,sux:lugal[king]N sux:ud[storm]N sux:gu[voice]N sux:dug[speak]V/t sux:Enlil[1]DN
+etcsri/Q000377,The building of Ningirsu's temple (Gudea cylinders A and B),,Cylinder A xxiii 21,sux:en[lord]N sux:gabari[copy]N sux:tuku[acquire]V/t
+etcsri/Q000377,The building of Ningirsu's temple (Gudea cylinders A and B),,Cylinder A xxiii 22,sux:Gudea[1]RN sux:en[lord]N sux:Ninŋirsuk[1]DN
+etcsri/Q000377,The building of Ningirsu's temple (Gudea cylinders A and B),,Cylinder A xxiii 23,sux:šag[heart]N sux:kug[pure]V/i sux:pad[find]V/t
+etcsri/Q000377,The building of Ningirsu's temple (Gudea cylinders A and B),,Cylinder A xxiii 24,sux:na[stone]N sux:mu[name]N sux:še[call]V/t
+etcsri/Q000377,The building of Ningirsu's temple (Gudea cylinders A and B),,Cylinder A xxiii 25,sux:na[stone]N sux:igi[face]N sux:Šugalam[1]GN sux:du[build]V/t
+etcsri/Q000377,The building of Ningirsu's temple (Gudea cylinders A and B),,Cylinder A xxiii 26,sux:lugal[king]N sux:mu[name]N sux:kur[mountain]N sux:tuku[rock]V/t
+etcsri/Q000377,The building of Ningirsu's temple (Gudea cylinders A and B),,Cylinder A xxiii 27,sux:Gudea[1]RN sux:en[lord]N sux:Ninŋirsuk[1]DN
+etcsri/Q000377,The building of Ningirsu's temple (Gudea cylinders A and B),,Cylinder A xxiii 28,sux:guza[chair]N sux:gin[establish]V/i
+etcsri/Q000377,The building of Ningirsu's temple (Gudea cylinders A and B),,Cylinder A xxiii 29,sux:na[stone]N sux:mu[name]N sux:še[call]V/t
+etcsri/Q000377,The building of Ningirsu's temple (Gudea cylinders A and B),,Cylinder A xxiii 30,sux:na[stone]N sux:igi[face]N sux:Eurug[1]TN sux:du[build]V/t
+etcsri/Q000377,The building of Ningirsu's temple (Gudea cylinders A and B),,Cylinder A xxiv 1,sux:Gudea[1]RN sux:en[lord]N sux:Ninŋirsuk[1]DN
+etcsri/Q000377,The building of Ningirsu's temple (Gudea cylinders A and B),,Cylinder A xxiv 2,sux:nam[fate]N sux:dug[good]V/i sux:tar[cut]V/t
+etcsri/Q000377,The building of Ningirsu's temple (Gudea cylinders A and B),,Cylinder A xxiv 3,sux:na[stone]N sux:mu[name]N sux:še[call]V/t
+etcsri/Q000377,The building of Ningirsu's temple (Gudea cylinders A and B),,Cylinder A xxiv 4,sux:na[stone]N sux:aga[rear]N sux:Bau[1]DN sux:du[build]V/t
+etcsri/Q000377,The building of Ningirsu's temple (Gudea cylinders A and B),,Cylinder A xxiv 5,sux:Eninnu[1]TN sux:igi[eye]N sux:An[1]DN sux:zu[know]V/t
+etcsri/Q000377,The building of Ningirsu's temple (Gudea cylinders A and B),,Cylinder A xxiv 6,sux:Bau[1]DN sux:zišagŋal[encouragement]N sux:Gudea[1]RN
+etcsri/Q000377,The building of Ningirsu's temple (Gudea cylinders A and B),,Cylinder A xxiv 7,sux:na[stone]N sux:mu[name]N sux:še[call]V/t
+etcsri/Q000377,The building of Ningirsu's temple (Gudea cylinders A and B),,Cylinder A xxiv 8,sux:e[house]N sux:lugal[king]N sux:zid[right]V/i sux:du[build]V/t
+etcsri/Q000377,The building of Ningirsu's temple (Gudea cylinders A and B),,Cylinder A xxiv 9,sux:sipad[shepherd]N sux:zid[right]V/i sux:Gudea[1]RN sux:an[sky]N sux:ki[place]N sux:mu[grow]V/t
+etcsri/Q000377,The building of Ningirsu's temple (Gudea cylinders A and B),,Cylinder A xxiv 10,sux:usakar[moon]N sux:gibil[new]V/i sux:men[tiara]N sux:il[raise]V/t
+etcsri/Q000377,The building of Ningirsu's temple (Gudea cylinders A and B),,Cylinder A xxiv 11,sux:mu[name]N sux:kuršag[mountain]N
+etcsri/Q000377,The building of Ningirsu's temple (Gudea cylinders A and B),,Cylinder A xxiv 12,sux:pa[branch]N sux:e[leave]V/i
+etcsri/Q000377,The building of Ningirsu's temple (Gudea cylinders A and B),,Cylinder A xxiv 13,sux:Gudea[1]RN sux:e[house]N sux:Ninŋirsuk[1]DN
+etcsri/Q000377,The building of Ningirsu's temple (Gudea cylinders A and B),,Cylinder A xxiv 14,sux:Utu[1]DN sux:dugud[heavy]V/i sux:e[leave]V/i
+etcsri/Q000377,The building of Ningirsu's temple (Gudea cylinders A and B),,Cylinder A xxiv 15,sux:hursaŋ[mountain]N sux:zagin[lapis]N sux:mu[grow]V/t
+etcsri/Q000377,The building of Ningirsu's temple (Gudea cylinders A and B),,Cylinder A xxiv 16,sux:hursaŋ[mountain]N sux:ŋešnu[alabaster]N sux:babbar[white]V/i
+etcsri/Q000377,The building of Ningirsu's temple (Gudea cylinders A and B),,Cylinder A xxiv 17,sux:u[admiration]N sux:dug[speak]V/t sux:gub[stand]V/i
+etcsri/Q000377,The building of Ningirsu's temple (Gudea cylinders A and B),,Cylinder A xxiv 18,sux:dubla[tower]N sux:am[bull]N sux:gub[stand]V/i
+etcsri/Q000377,The building of Ningirsu's temple (Gudea cylinders A and B),,Cylinder A xxiv 19,sux:ušum[snake]N sux:urmah[lion]N sux:šu[hand]N sux:nud[lie]V/i
+etcsri/Q000377,The building of Ningirsu's temple (Gudea cylinders A and B),,Cylinder A xxiv 20,sux:giguna[terrace]N sux:abzu[water]N sux:ki[place]N sux:sikil[pure]V/i sux:mu[grow]V/t
+etcsri/Q000377,The building of Ningirsu's temple (Gudea cylinders A and B),,Cylinder A xxiv 21,sux:urin[standard]N sux:tarah[goat]N sux:kug[pure]V/i sux:abzu[water]N
+etcsri/Q000377,The building of Ningirsu's temple (Gudea cylinders A and B),,Cylinder A xxiv 22,sux:si[horn]N sux:mul[shine]V/i
+etcsri/Q000377,The building of Ningirsu's temple (Gudea cylinders A and B),,Cylinder A xxiv 23,sux:usakar[moon]N sux:gibil[new]V/i sux:an[sky]N sux:gub[stand]V/i
+etcsri/Q000377,The building of Ningirsu's temple (Gudea cylinders A and B),,Cylinder A xxiv 24,sux:Gudea[1]RN sux:e[house]N sux:Ninŋirsuk[1]DN
+etcsri/Q000377,The building of Ningirsu's temple (Gudea cylinders A and B),,Cylinder A xxiv 25,sux:u[admiration]N sux:dug[speak]V/t sux:gub[stand]V/i
+etcsri/Q000377,The building of Ningirsu's temple (Gudea cylinders A and B),,Cylinder B i 1,sux:e[house]N sux:dim[post]N sux:gal[big]V/i sux:kalam[land]N
+etcsri/Q000377,The building of Ningirsu's temple (Gudea cylinders A and B),,Cylinder B i 2,sux:an[sky]N sux:ki[place]N sux:mu[grow]V/t
+etcsri/Q000377,The building of Ningirsu's temple (Gudea cylinders A and B),,Cylinder B i 3,sux:Eninnu[1]TN sux:šeg[brick]N sux:zid[right]V/i sux:Enlil[1]DN sux:nam[fate]N sux:dug[good]V/i sux:tar[cut]V/t
+etcsri/Q000377,The building of Ningirsu's temple (Gudea cylinders A and B),,Cylinder B i 4,sux:hursaŋ[mountain]N sux:nisig[greenery]N sux:u[admiration]N sux:gub[stand]V/i
+etcsri/Q000377,The building of Ningirsu's temple (Gudea cylinders A and B),,Cylinder B i 5,sux:kur[mountain]N sux:e[leave]V/i
+etcsri/Q000377,The building of Ningirsu's temple (Gudea cylinders A and B),,Cylinder B i 6,sux:e[house]N sux:kur[mountain]N sux:gal[big]V/i sux:an[sky]N sux:us[follow]V/i
+etcsri/Q000377,The building of Ningirsu's temple (Gudea cylinders A and B),,Cylinder B i 7,sux:Utu[1]DN sux:anšag[heaven]N sux:si[fill]V/t
+etcsri/Q000377,The building of Ningirsu's temple (Gudea cylinders A and B),,Cylinder B i 8,sux:Eninnu[1]TN sux:anzud[eagle]N sux:babbar[white]V/i
+etcsri/Q000377,The building of Ningirsu's temple (Gudea cylinders A and B),,Cylinder B i 9,sux:kur[mountain]N sux:dub[knee]N sux:bad[open]V/i
+etcsri/Q000377,The building of Ningirsu's temple (Gudea cylinders A and B),,Cylinder B xvii 18,sux:ud[sun]N sux:lugal[king]N sux:e[house]N sux:kur[enter]V/i
+etcsri/Q000377,The building of Ningirsu's temple (Gudea cylinders A and B),,Cylinder B xvii 19,sux:ud[sun]N sux:imin[seven]NU
+etcsri/Q000377,The building of Ningirsu's temple (Gudea cylinders A and B),,Cylinder B xvii 20,sux:geme[worker]N sux:nin[lady]N sux:sa[equal]V/t
+etcsri/Q000377,The building of Ningirsu's temple (Gudea cylinders A and B),,Cylinder B xvii 21,sux:arad[slave]N sux:lugal[king]N sux:zag[side]N sux:ša[cvve]V/t
+etcsri/Q000377,The building of Ningirsu's temple (Gudea cylinders A and B),,Cylinder B xviii 1,sux:iri[city]N sux:muzug[person]N sux:zag[side]N sux:nud[lie]V/i
+etcsri/Q000377,The building of Ningirsu's temple (Gudea cylinders A and B),,Cylinder B xviii 2,sux:eme[tongue]N sux:niŋhulu[evil]N sux:inim[word]N sux:kur[different]V/i
+etcsri/Q000377,The building of Ningirsu's temple (Gudea cylinders A and B),,Cylinder B xviii 3,sux:niŋerim[evil]N sux:e[house]N sux:gi[turn]V/i
+etcsri/Q000377,The building of Ningirsu's temple (Gudea cylinders A and B),,Cylinder B xviii 4,sux:niŋ[thing]N sux:gin[establish]V/i sux:Nanše[1]DN sux:Ninŋirsuk[1]DN
+etcsri/Q000377,The building of Ningirsu's temple (Gudea cylinders A and B),,Cylinder B xviii 5,sux:en[cvne]N sux:tar[cut]V/t
+etcsri/Q000377,The building of Ningirsu's temple (Gudea cylinders A and B),,Cylinder B xviii 6,sux:nusiki[orphan]N sux:lu[person]N sux:niŋtuku[rich]AJ sux:ŋar[place]V/t
+etcsri/Q000377,The building of Ningirsu's temple (Gudea cylinders A and B),,Cylinder B xviii 7,sux:numunkuš[widow]N sux:lu[person]N sux:atuku[powerful]AJ sux:ŋar[place]V/t
+etcsri/Q000377,The building of Ningirsu's temple (Gudea cylinders A and B),,Cylinder B xviii 8,sux:e[house]N sux:ibila[heir]N sux:tuku[acquire]V/t
+etcsri/Q000377,The building of Ningirsu's temple (Gudea cylinders A and B),,Cylinder B xviii 9,sux:dumumunus[daughter]N sux:ibila[heir]N sux:kur[enter]V/i
+etcsri/Q000377,The building of Ningirsu's temple (Gudea cylinders A and B),,Cylinder B xviii 10,sux:ud[sun]N sux:niŋsisa[justice]N sux:e[leave]V/i
+etcsri/Q000377,The building of Ningirsu's temple (Gudea cylinders A and B),,Cylinder B xviii 11,sux:niŋerim[evil]N sux:iʾutu[complaint]N sux:gu[neck]N sux:ŋiri[foot]N sux:us[follow]V/i
+etcsri/Q000377,The building of Ningirsu's temple (Gudea cylinders A and B),,Cylinder B xviii 12,sux:iri[city]N sux:Utu[1]DN
+etcsri/Q000377,The building of Ningirsu's temple (Gudea cylinders A and B),,Cylinder B xviii 13,sux:kišar[earth]N sux:e[leave]V/i
+etcsri/Q000377,The building of Ningirsu's temple (Gudea cylinders A and B),,Cylinder B xviii 14,sux:saŋ[head]N sux:gur[unmng]N sux:dar[split]V/t
+etcsri/Q000377,The building of Ningirsu's temple (Gudea cylinders A and B),,Cylinder B xviii 15,sux:igi[eye]N sux:An[1]DN sux:kug[pure]V/i
+etcsri/Q000377,The building of Ningirsu's temple (Gudea cylinders A and B),,Cylinder B xviii 16,sux:ni[self]N sux:zu[know]V/t
+etcsri/Q000377,The building of Ningirsu's temple (Gudea cylinders A and B),,Cylinder B xviii 17,sux:gud[ox]N sux:saŋ[head]N sux:il[raise]V/t sux:kur[enter]V/i
+etcsri/Q000377,The building of Ningirsu's temple (Gudea cylinders A and B),,Cylinder B xviii 18,sux:eš[shrine]N sux:Eninnu[1]TN
+etcsri/Q000377,The building of Ningirsu's temple (Gudea cylinders A and B),,Cylinder B xviii 19,sux:gud[ox]N sux:du[suitable]V/i sux:maš[goat]N sux:du[suitable]V/i sux:ŋeš[tree]N sux:tag[touch]V/t
+etcsri/Q000377,The building of Ningirsu's temple (Gudea cylinders A and B),,Cylinder B xviii 20,sux:bur[bowl]N sux:an[sky]N sux:gub[stand]V/i
+etcsri/Q000377,The building of Ningirsu's temple (Gudea cylinders A and B),,Cylinder B xviii 21,sux:kurun[beer]N sux:de[pour]V/t
+etcsri/Q000377,The building of Ningirsu's temple (Gudea cylinders A and B),,Cylinder B xviii 22,sux:Ušumgalkalamak[1]ON sux:tigi[instrument]N sux:du[play]V/t
+etcsri/Q000377,The building of Ningirsu's temple (Gudea cylinders A and B),,Cylinder B xix 1,sux:ala[drum]N sux:ud[storm]N sux:šeg[voice]N sux:gi[turn]V/i
+etcsri/Q000377,The building of Ningirsu's temple (Gudea cylinders A and B),,Cylinder B xix 2,sux:ensik[ruler]N sux:zage[foremost]N
+etcsri/Q000377,The building of Ningirsu's temple (Gudea cylinders A and B),,Cylinder B xix 3,sux:ŋiri[foot]N sux:gub[stand]V/i
+etcsri/Q000377,The building of Ningirsu's temple (Gudea cylinders A and B),,Cylinder B xix 4,sux:iri[city]N sux:u[admiration]N sux:dug[speak]V/t
+etcsri/Q000377,The building of Ningirsu's temple (Gudea cylinders A and B),,Cylinder B xix 5,sux:Gudea[1]RN
+etcsri/Q000377,The building of Ningirsu's temple (Gudea cylinders A and B),,Cylinder B xix 13,sux:ki[place]N sux:še[barley]N sux:gunu[speckled]V/i sux:mu[grow]V/t
+etcsri/Q000377,The building of Ningirsu's temple (Gudea cylinders A and B),,Cylinder B xix 14,sux:ensik[ruler]N sux:Lagaš[1]SN sux:heŋal[plenty]N
+etcsri/Q000377,The building of Ningirsu's temple (Gudea cylinders A and B),,Cylinder B xix 15,sux:šu[hand]N sux:peš[thick]V/i
+etcsri/Q000377,The building of Ningirsu's temple (Gudea cylinders A and B),,Cylinder B xix 16,sux:ursaŋ[hero]N sux:e[house]N sux:gibil[new]V/i sux:kur[enter]V/i
+etcsri/Q000377,The building of Ningirsu's temple (Gudea cylinders A and B),,Cylinder B xix 17,sux:en[lord]N sux:Ninŋirsuk[1]DN sux:ŋešbun[meal]N sux:dug[good]V/i sux:ŋal[be]V/i
+etcsri/Q000377,The building of Ningirsu's temple (Gudea cylinders A and B),,Cylinder B xix 18,sux:An[1]DN sux:zag[side]N sux:gal[big]V/i sux:tuš[sit]V/i
+etcsri/Q000377,The building of Ningirsu's temple (Gudea cylinders A and B),,Cylinder B xix 19,sux:An[1]DN sux:Enlil[1]DN sux:us[follow]V/i
+etcsri/Q000377,The building of Ningirsu's temple (Gudea cylinders A and B),,Cylinder B xix 20,sux:Enlil[1]DN
+etcsri/Q000377,The building of Ningirsu's temple (Gudea cylinders A and B),,Cylinder B xix 21,sux:Ninmah[1]DN sux:us[follow]V/i
+etcsri/Q000377,The building of Ningirsu's temple (Gudea cylinders A and B),,Cylinder B xx 14,sux:e[house]N sux:lugal[king]N sux:hul[rejoice]V/i
+etcsri/Q000377,The building of Ningirsu's temple (Gudea cylinders A and B),,Cylinder B xx 15,sux:šeg[brick]N sux:Eninnu[1]TN sux:nam[fate]N sux:tar[cut]V/t
+etcsri/Q000377,The building of Ningirsu's temple (Gudea cylinders A and B),,Cylinder B xx 16,sux:šeg[brick]N sux:Eninnu[1]TN
+etcsri/Q000377,The building of Ningirsu's temple (Gudea cylinders A and B),,Cylinder B xx 17,sux:nam[fate]N sux:dug[good]V/i sux:tar[cut]V/t
+etcsri/Q000377,The building of Ningirsu's temple (Gudea cylinders A and B),,Cylinder B xx 18,sux:šeg[brick]N sux:Eninnu[1]TN sux:nam[fate]N sux:tar[cut]V/t
+etcsri/Q000377,The building of Ningirsu's temple (Gudea cylinders A and B),,Cylinder B xx 19,sux:nam[fate]N sux:dug[good]V/i sux:tar[cut]V/t
+etcsri/Q000377,The building of Ningirsu's temple (Gudea cylinders A and B),,Cylinder B xx 20,sux:e[house]N sux:kur[mountain]N sux:An[1]DN sux:ki[place]N sux:ŋar[place]V/t
+etcsri/Q000377,The building of Ningirsu's temple (Gudea cylinders A and B),,Cylinder B xx 21,sux:me[being]N sux:gal[big]V/i sux:du[build]V/t
+etcsri/Q000377,The building of Ningirsu's temple (Gudea cylinders A and B),,Cylinder B xxi 17,sux:šeg[brick]N sux:Eninnu[1]TN sux:nam[fate]N sux:tar[cut]V/t
+etcsri/Q000377,The building of Ningirsu's temple (Gudea cylinders A and B),,Cylinder B xxi 18,sux:šeg[brick]N sux:nam[fate]N sux:tar[cut]V/t
+etcsri/Q000377,The building of Ningirsu's temple (Gudea cylinders A and B),,Cylinder B xxi 19,sux:šeg[brick]N sux:Eninnu[1]TN sux:nam[fate]N sux:dug[good]V/i sux:tar[cut]V/t
+etcsri/Q000377,The building of Ningirsu's temple (Gudea cylinders A and B),,Cylinder B xxi 20,sux:e[house]N sux:nimur[ashes]N sux:ki[place]N sux:us[follow]V/i sux:an[sky]N sux:gu[neck]N sux:la[hang]V/t
+etcsri/Q000377,The building of Ningirsu's temple (Gudea cylinders A and B),,Cylinder B xxii 1,sux:kug[pure]V/i
+etcsri/Q000377,The building of Ningirsu's temple (Gudea cylinders A and B),,Cylinder B xxii 17,sux:mu[name]N sux:tur[stall]N sux:du[build]V/t
+etcsri/Q000377,The building of Ningirsu's temple (Gudea cylinders A and B),,Cylinder B xxii 18,sux:amaš[sheepfold]N sux:niŋin[encircle]V/t
+etcsri/Q000377,The building of Ningirsu's temple (Gudea cylinders A and B),,Cylinder B xxii 19,sux:uŋ[people]N sux:usal[meadow]N sux:nud[lie]V/i
+etcsri/Q000377,The building of Ningirsu's temple (Gudea cylinders A and B),,Cylinder B xxii 20,sux:Kiengir[1]GN sux:kur[mountain]N sux:igi[eye]N sux:ŋal[be]V/i
+etcsri/Q000377,The building of Ningirsu's temple (Gudea cylinders A and B),,Cylinder B xxiii 1,sux:e[house]N sux:anzud[eagle]N sux:An[1]DN sux:il[raise]V/t
+etcsri/Q000377,The building of Ningirsu's temple (Gudea cylinders A and B),,Cylinder B xxiii 14,sux:Niŋin[1]SN sux:du[build]V/t
+etcsri/Q000377,The building of Ningirsu's temple (Gudea cylinders A and B),,Cylinder B xxiii 16,sux:Gilgameš[1]DN sux:mu[grow]V/t
+etcsri/Q000377,The building of Ningirsu's temple (Gudea cylinders A and B),,Cylinder B xxiii 17,sux:guza[chair]N sux:gub[stand]V/i sux:lu[person]N sux:kur[different]V/i
+etcsri/Q000377,The building of Ningirsu's temple (Gudea cylinders A and B),,Cylinder B xxiii 18,sux:diŋir[deity]N sux:en[lord]N sux:Ninŋešzidak[1]DN sux:dumu.KA[relation]N sux:An[1]DN
+etcsri/Q000377,The building of Ningirsu's temple (Gudea cylinders A and B),,Cylinder B xxiii 19,sux:diŋir[deity]N sux:ama[mother]N sux:Ninsumunak[1]DN sux:amašagan[mother]N sux:numun[seed]N sux:zid[right]V/i
+etcsri/Q000377,The building of Ningirsu's temple (Gudea cylinders A and B),,Cylinder B xxiii 20,sux:numun[seed]N sux:ki[place]N sux:aŋ[measure]V/t
+etcsri/Q000377,The building of Ningirsu's temple (Gudea cylinders A and B),,Cylinder B xxiii 21,sux:ab[cow]N sux:zid[right]V/i sux:utud[bear]V/t
+etcsri/Q000377,The building of Ningirsu's temple (Gudea cylinders A and B),,Cylinder B xxiii 22,sux:meš[tree]N sux:zid[right]V/i sux:ki[place]N sux:Lagaš[1]SN sux:pa[branch]N sux:e[leave]V/i
+etcsri/Q000377,The building of Ningirsu's temple (Gudea cylinders A and B),,Cylinder B xxiv 1,sux:Ninŋirsuk[1]DN
+etcsri/Q000377,The building of Ningirsu's temple (Gudea cylinders A and B),,Cylinder B xxiv 2,sux:sig[weak]V/i sux:nim[high]V/i sux:mu[name]N sux:ŋal[be]V/i
+etcsri/Q000377,The building of Ningirsu's temple (Gudea cylinders A and B),,Cylinder B xxiv 3,sux:Gudea[1]RN sux:dug[speak]V/t
+etcsri/Q000377,The building of Ningirsu's temple (Gudea cylinders A and B),,Cylinder B xxiv 4,sux:lu[person]N
+etcsri/Q000377,The building of Ningirsu's temple (Gudea cylinders A and B),,Cylinder B xxiv 5,sux:An[1]DN sux:zu[know]V/t
+etcsri/Q000377,The building of Ningirsu's temple (Gudea cylinders A and B),,Cylinder B xxiv 6,sux:ensik[ruler]N sux:zid[right]V/i sux:e[house]N sux:nam[fate]N sux:tar[cut]V/t
+etcsri/Q000377,The building of Ningirsu's temple (Gudea cylinders A and B),,Cylinder B xxiv 7,sux:Gudea[1]RN sux:dumu[child]N sux:Ninŋešzidak[1]DN
+etcsri/Q000377,The building of Ningirsu's temple (Gudea cylinders A and B),,Cylinder B xxiv 8,sux:namtil[life]N sux:sud[distant]V/i
+etcsri/Q000377,The building of Ningirsu's temple (Gudea cylinders A and B),,Cylinder B xxiv 9,sux:e[house]N sux:kur[mountain]N sux:gal[big]V/i sux:an[sky]N sux:us[follow]V/i
+etcsri/Q000377,The building of Ningirsu's temple (Gudea cylinders A and B),,Cylinder B xxiv 10,sux:ni[fear]N sux:melim[splendor]N sux:kalam[land]N sux:ri[impose]V/i
+etcsri/Q000377,The building of Ningirsu's temple (Gudea cylinders A and B),,Cylinder B xxiv 11,sux:An[1]DN sux:Enlil[1]DN sux:nam[fate]N sux:Lagaš[1]SN sux:tar[cut]V/t
+etcsri/Q000377,The building of Ningirsu's temple (Gudea cylinders A and B),,Cylinder B xxiv 12,sux:Ninŋirsuk[1]DN sux:namnirŋal[authority]N
+etcsri/Q000377,The building of Ningirsu's temple (Gudea cylinders A and B),,Cylinder B xxiv 13,sux:kur[mountain]N sux:zu[know]V/t
+etcsri/Q000377,The building of Ningirsu's temple (Gudea cylinders A and B),,Cylinder B xxiv 14,sux:Eninnu[1]TN sux:an[sky]N sux:ki[place]N sux:mu[grow]V/t
+etcsri/Q000377,The building of Ningirsu's temple (Gudea cylinders A and B),,Cylinder B xxiv 15,sux:Ninŋirsuk[1]DN sux:zamin[lyre]N
+etcsri/Q000377,The building of Ningirsu's temple (Gudea cylinders A and B),,Cylinder B xxiv 16,sux:e[house]N sux:Ninŋirsuk[1]DN sux:du[build]V/t

@@ -1,0 +1,5 @@
+id_text,text_name,version,l_no,text
+etcsri/Q001614,Lagaš II Unidentified 1025,,1',sux:namtil[life]N
+etcsri/Q001614,Lagaš II Unidentified 1025,,2',sux:namtil[life]N sux:dam[spouse]N sux:dumu[child]N
+etcsri/Q001614,Lagaš II Unidentified 1025,,3',sux:a[water]N sux:ru[cvve]V/t
+etcsri/Q001614,Lagaš II Unidentified 1025,,4',sux:bur[bowl]N sux:nin[lady]N sux:zig[rise]V/i

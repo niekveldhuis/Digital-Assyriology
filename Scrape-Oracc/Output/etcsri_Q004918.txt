@@ -1,0 +1,9 @@
+id_text,text_name,version,l_no,text
+etcsri/Q004918,Šu-Suen 2134add,,i 1,sux:Šusuen[1]RN
+etcsri/Q004918,Šu-Suen 2134add,,i 2,sux:lugal[king]N sux:kalag[strong]V/i
+etcsri/Q004918,Šu-Suen 2134add,,i 3,sux:lugal[king]N sux:Urim[1]SN
+etcsri/Q004918,Šu-Suen 2134add,,i 4,sux:Enlilzišagŋal[1]PN
+etcsri/Q004918,Šu-Suen 2134add,,i 5,sux:zabardab[official]N
+etcsri/Q004918,Šu-Suen 2134add,,ii 1,sux:kurunagal[chief-brewer]N
+etcsri/Q004918,Šu-Suen 2134add,,ii 2,sux:šagia[cup-bearer]N sux:mah[great]V/i
+etcsri/Q004918,Šu-Suen 2134add,,ii 3,sux:ugula[overseer]N sux:maššugidgid[diviner]N

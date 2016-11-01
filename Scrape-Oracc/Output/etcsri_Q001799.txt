@@ -1,0 +1,7 @@
+id_text,text_name,version,l_no,text
+etcsri/Q001799,Amar-Suen 21,,2',sux:Amarsuenak[1]RN
+etcsri/Q001799,Amar-Suen 21,,3',sux:lugal[king]N sux:Urim[1]SN
+etcsri/Q001799,Amar-Suen 21,,4',sux:lugal[king]N sux:anubda[quarter]N sux:limmu[four]NU
+etcsri/Q001799,Amar-Suen 21,,7',sux:ki[place]N
+etcsri/Q001799,Amar-Suen 21,,8',sux:Tadineštar[1]PN
+etcsri/Q001799,Amar-Suen 21,,9',sux:dumu[child]N sux:ki[place]N sux:aŋ[measure]V/t

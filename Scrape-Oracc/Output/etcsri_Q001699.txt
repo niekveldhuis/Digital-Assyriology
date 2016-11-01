@@ -1,0 +1,6 @@
+id_text,text_name,version,l_no,text
+etcsri/Q001699,Šulgi 67,,1,sux:Amatsuen[1]PN
+etcsri/Q001699,Šulgi 67,,2,sux:dam[spouse]N sux:Šulgir[1]RN
+etcsri/Q001699,Šulgi 67,,3,sux:lugal[king]N sux:Urim[1]SN
+etcsri/Q001699,Šulgi 67,,4,sux:Šukubum[1]PN
+etcsri/Q001699,Šulgi 67,,5,sux:ragaba[rider]N

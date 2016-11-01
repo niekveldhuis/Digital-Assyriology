@@ -1,0 +1,5 @@
+id_text,text_name,version,l_no,text
+etcsri/Q001727,Šulgi 96,,1,sux:Ursuen[1]PN
+etcsri/Q001727,Šulgi 96,,2,sux:šakkanak[general]N sux:Unug[1]SN
+etcsri/Q001727,Šulgi 96,,3,sux:u[and]CNJ sux:Der[1]SN
+etcsri/Q001727,Šulgi 96,,4,sux:Urenkik[1]PN

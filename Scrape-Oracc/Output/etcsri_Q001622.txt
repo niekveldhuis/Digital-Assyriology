@@ -1,0 +1,4 @@
+id_text,text_name,version,l_no,text
+etcsri/Q001622,Ur-Namma 08,,1,sux:Urnammak[1]RN
+etcsri/Q001622,Ur-Namma 08,,2,sux:lugal[king]N sux:Urim[1]SN
+etcsri/Q001622,Ur-Namma 08,,3,sux:lu[person]N sux:e[house]N sux:Ninsumunak[1]DN

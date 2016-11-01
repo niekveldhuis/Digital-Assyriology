@@ -1,0 +1,4 @@
+id_text,text_name,version,l_no,text
+etcsri/Q001773,Šulgi 2045,,2',sux:namtil[life]N
+etcsri/Q001773,Šulgi 2045,,3',sux:Šulgir[1]RN
+etcsri/Q001773,Šulgi 2045,,4',sux:nita[male]N sux:kalag[strong]V/i

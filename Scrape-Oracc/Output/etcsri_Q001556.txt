@@ -1,0 +1,24 @@
+id_text,text_name,version,l_no,text
+etcsri/Q001556,Gudea Statue R,,i 1,sux:Gudea[1]RN
+etcsri/Q001556,Gudea Statue R,,i 2,sux:ensik[ruler]N
+etcsri/Q001556,Gudea Statue R,,i 3,sux:Lagaš[1]SN
+etcsri/Q001556,Gudea Statue R,,i 4,sux:sipad[shepherd]N sux:zid[right]V/i sux:inim[word]N sux:gin[establish]V/i
+etcsri/Q001556,Gudea Statue R,,i 5,sux:Ninŋirsuk[1]DN
+etcsri/Q001556,Gudea Statue R,,i 6,sux:lu[person]N sux:biluda[rituals]N sux:diŋir[deity]N
+etcsri/Q001556,Gudea Statue R,,i 7,sux:si[horn]N sux:sa[equal]V/t
+etcsri/Q001556,Gudea Statue R,,i 8,sux:ud[sun]N sux:Eninnu[1]TN
+etcsri/Q001556,Gudea Statue R,,i 9,sux:Ninŋirsuk[1]DN
+etcsri/Q001556,Gudea Statue R,,ii 1,sux:du[build]V/t
+etcsri/Q001556,Gudea Statue R,,ii 2,sux:Nammahni[1]PN sux:galamah[singer]N
+etcsri/Q001556,Gudea Statue R,,ii 3,sux:Emunusgilsak[1]TN
+etcsri/Q001556,Gudea Statue R,,ii 4,sux:kugbabbar[silver]N sux:zabar[bronze]N
+etcsri/Q001556,Gudea Statue R,,ii 5,sux:dupsik[basket]N sux:sahar[dust]N
+etcsri/Q001556,Gudea Statue R,,ii 6,sux:u[and]CNJ sux:niŋ[thing]N sux:enna[until]CNJ sux:ŋal[be]V/i
+etcsri/Q001556,Gudea Statue R,,ii 7,sux:e[house]N sux:lu[person]N sux:kur[enter]V/i
+etcsri/Q001556,Gudea Statue R,,ii 8,sux:amargi[reversion]N sux:ŋar[place]V/t
+etcsri/Q001556,Gudea Statue R,,ii 9,sux:mu[year]N sux:ašag[field]N
+etcsri/Q001556,Gudea Statue R,,ii 10,sux:inim[word]N sux:gin[establish]V/i
+etcsri/Q001556,Gudea Statue R,,iv 3,sux:Emunusgilsak[1]TN
+etcsri/Q001556,Gudea Statue R,,iv 4,sux:ud[sun]N sux:dug[speak]V/t sux:gub[stand]V/i
+etcsri/Q001556,Gudea Statue R,,iv 5,sux:alan[statue]N
+etcsri/Q001556,Gudea Statue R,,iv 6,sux:Gudea[1]RN sux:ba[allot]V/t

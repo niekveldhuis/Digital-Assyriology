@@ -1,0 +1,7 @@
+id_text,text_name,version,l_no,text
+etcsri/Q004138,Amar-Suen 2036add,,i 1,sux:Amarsuenak[1]RN
+etcsri/Q004138,Amar-Suen 2036add,,i 2,sux:nita[male]N sux:kalag[strong]V/i
+etcsri/Q004138,Amar-Suen 2036add,,i 3,sux:lugal[king]N sux:Urim[1]SN
+etcsri/Q004138,Amar-Suen 2036add,,i 4,sux:lugal[king]N sux:anubda[quarter]N sux:limmu[four]NU
+etcsri/Q004138,Amar-Suen 2036add,,ii 1,sux:Namhani[1]PN sux:sukkal[secretary]N
+etcsri/Q004138,Amar-Suen 2036add,,ii 2,sux:dumu[child]N sux:Baya[1]PN sux:muhaldim[cook]N

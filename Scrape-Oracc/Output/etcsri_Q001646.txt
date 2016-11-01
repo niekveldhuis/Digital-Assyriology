@@ -1,0 +1,6 @@
+id_text,text_name,version,l_no,text
+etcsri/Q001646,Ur-Namma 51,,1,sux:Watartum[1]PN
+etcsri/Q001646,Ur-Namma 51,,2,sux:dam[spouse]N sux:Urnammak[1]RN
+etcsri/Q001646,Ur-Namma 51,,3,sux:lugal[king]N sux:Urim[1]SN
+etcsri/Q001646,Ur-Namma 51,,4,sux:Lugalkugzu[1]PN
+etcsri/Q001646,Ur-Namma 51,,5,sux:nubanda[overseer]N

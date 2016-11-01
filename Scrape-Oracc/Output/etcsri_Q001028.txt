@@ -1,0 +1,15 @@
+id_text,text_name,version,l_no,text
+etcsri/Q001028,Ur-Nanše 12,,i 1,sux:Urnanše[1]RN
+etcsri/Q001028,Ur-Nanše 12,,i 2,sux:lugal[king]N
+etcsri/Q001028,Ur-Nanše 12,,i 3,sux:Lagaš[1]SN
+etcsri/Q001028,Ur-Nanše 12,,i 4,sux:dumu[child]N sux:Gu-NI.DU[1]PN
+etcsri/Q001028,Ur-Nanše 12,,ii 1,sux:dumu[child]N sux:Gursar[1]GN
+etcsri/Q001028,Ur-Nanše 12,,ii 2,sux:e[house]N sux:Nanše[1]DN
+etcsri/Q001028,Ur-Nanše 12,,ii 3,sux:du[build]V/t
+etcsri/Q001028,Ur-Nanše 12,,ii 4,sux:eš[shrine]N sux:Ŋirsu[1]SN
+etcsri/Q001028,Ur-Nanše 12,,iii 1,sux:du[build]V/t
+etcsri/Q001028,Ur-Nanše 12,,iii 2,sux:Ninŋirsukepada[1]WN
+etcsri/Q001028,Ur-Nanše 12,,iii 4,sux:dun[dig]V/t
+etcsri/Q001028,Ur-Nanše 12,,iv 1,sux:Abzuegak[1]TN
+etcsri/Q001028,Ur-Nanše 12,,iv 2,sux:du[build]V/t
+etcsri/Q001028,Ur-Nanše 12,,iv 3,sux:Edam[1]TN

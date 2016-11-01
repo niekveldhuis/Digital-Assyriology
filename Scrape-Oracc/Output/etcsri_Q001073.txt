@@ -1,0 +1,19 @@
+id_text,text_name,version,l_no,text
+etcsri/Q001073,En-anatum I 03,,i 1,sux:Enanatum[1]RN
+etcsri/Q001073,En-anatum I 03,,i 2,sux:ensik[ruler]N
+etcsri/Q001073,En-anatum I 03,,i 3,sux:Lagaš[1]SN
+etcsri/Q001073,En-anatum I 03,,i 4,sux:dumu[child]N sux:Ayakurgal[1]RN
+etcsri/Q001073,En-anatum I 03,,i 5,sux:ensik[ruler]N
+etcsri/Q001073,En-anatum I 03,,i 6,sux:Lagaš[1]SN
+etcsri/Q001073,En-anatum I 03,,i 7,sux:ud[sun]N sux:Ninŋirsuk[1]DN
+etcsri/Q001073,En-anatum I 03,,ii 1,sux:šag[heart]N sux:pad[find]V/t
+etcsri/Q001073,En-anatum I 03,,ii 2,sux:eren[cedar]N sux:babbar[white]V/i
+etcsri/Q001073,En-anatum I 03,,ii 3,sux:kur[mountain]N sux:ed[ascend]V/i
+etcsri/Q001073,En-anatum I 03,,ii 4,sux:e[house]N sux:sig[put]V/t
+etcsri/Q001073,En-anatum I 03,,ii 5,sux:saŋšu[helmet]N
+etcsri/Q001073,En-anatum I 03,,ii 6,sux:eren[cedar]N sux:babbar[white]V/i
+etcsri/Q001073,En-anatum I 03,,iii 1,sux:gub[stand]V/i
+etcsri/Q001073,En-anatum I 03,,iii 2,sux:ur[dog]N sux:halub[tree]N
+etcsri/Q001073,En-anatum I 03,,iii 3,sux:idu[doorkeeper]N sux:tuš[sit]V/i
+etcsri/Q001073,En-anatum I 03,,iii 4,sux:lugal[king]N sux:ki[place]N sux:aŋ[measure]V/t
+etcsri/Q001073,En-anatum I 03,,iii 5,sux:Ninŋirsuk[1]DN

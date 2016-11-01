@@ -1,0 +1,13 @@
+id_text,text_name,version,l_no,text
+etcsri/Q001473,Gudea 005,,1,sux:Bau[1]DN
+etcsri/Q001473,Gudea 005,,2,sux:munus[woman]N sux:sag[good]V/i
+etcsri/Q001473,Gudea 005,,3,sux:dumu[child]N sux:An[1]DN
+etcsri/Q001473,Gudea 005,,4,sux:nin[lady]N sux:Irikug[1]SN
+etcsri/Q001473,Gudea 005,,5,sux:nin[lady]N
+etcsri/Q001473,Gudea 005,,6,sux:Gudea[1]RN
+etcsri/Q001473,Gudea 005,,7,sux:ensik[ruler]N
+etcsri/Q001473,Gudea 005,,8,sux:Lagaš[1]SN
+etcsri/Q001473,Gudea 005,,r 1,sux:lu[person]N sux:Eninnu[1]TN
+etcsri/Q001473,Gudea 005,,r 2,sux:Ninŋirsuk[1]DN
+etcsri/Q001473,Gudea 005,,r 3,sux:du[build]V/t
+etcsri/Q001473,Gudea 005,,r 4,sux:bad[wall]N sux:Irikug[1]SN

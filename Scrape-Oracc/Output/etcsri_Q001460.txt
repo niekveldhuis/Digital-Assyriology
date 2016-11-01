@@ -1,0 +1,15 @@
+id_text,text_name,version,l_no,text
+etcsri/Q001460,Ur-Ningirsu I 2,,i 1',sux:pad[find]V/t
+etcsri/Q001460,Ur-Ningirsu I 2,,i 2',sux:lammar[deity]N sux:sag[good]V/i
+etcsri/Q001460,Ur-Ningirsu I 2,,i 3',sux:Ninsumunak[1]DN
+etcsri/Q001460,Ur-Ningirsu I 2,,i 4',sux:diŋir[deity]N
+etcsri/Q001460,Ur-Ningirsu I 2,,i 5',sux:e[house]N sux:Irikug[1]SN
+etcsri/Q001460,Ur-Ningirsu I 2,,i 6',sux:du[build]V/t
+etcsri/Q001460,Ur-Ningirsu I 2,,i 7',sux:Zazaru[1]DN
+etcsri/Q001460,Ur-Ningirsu I 2,,ii 1',sux:Urnuntaʾea[1]DN
+etcsri/Q001460,Ur-Ningirsu I 2,,ii 2',sux:dumu[child]N sux:Ninŋirsuk[1]DN
+etcsri/Q001460,Ur-Ningirsu I 2,,ii 3',sux:e[house]N sux:Irikug[1]SN
+etcsri/Q001460,Ur-Ningirsu I 2,,ii 4',sux:du[build]V/t
+etcsri/Q001460,Ur-Ningirsu I 2,,ii 5',sux:Ninmarkik[1]DN
+etcsri/Q001460,Ur-Ningirsu I 2,,ii 6',sux:munus[woman]N sux:sag[good]V/i
+etcsri/Q001460,Ur-Ningirsu I 2,,ii 7',sux:šitaʾaba[priest]N

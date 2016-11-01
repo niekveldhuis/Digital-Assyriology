@@ -1,0 +1,10 @@
+id_text,text_name,version,l_no,text
+etcsri/Q001116,En-metena 28,,Main Text; 1,sux:Ninŋirsuk[1]DN
+etcsri/Q001116,En-metena 28,,Main Text; 2,sux:Eninnu[1]TN
+etcsri/Q001116,En-metena 28,,Main Text; 3,sux:Dudu[1]PN
+etcsri/Q001116,En-metena 28,,Main Text; 4,sux:saŋŋa[official]N sux:Ninŋirsuk[1]DN
+etcsri/Q001116,En-metena 28,,Main Text; 5,sux:Arawa[1]SN sux:ed[ascend]V/i
+etcsri/Q001116,En-metena 28,,Main Text; 6,sux:gag[nail]N sux:ŋušur[beam]N
+etcsri/Q001116,En-metena 28,,Main Text; 7,sux:dim[create]V/t
+etcsri/Q001116,En-metena 28,,Caption 1; 1,sux:Dudu[1]PN
+etcsri/Q001116,En-metena 28,,Caption 1; 2,sux:saŋŋa[official]N sux:mah[great]V/i

@@ -1,0 +1,24 @@
+id_text,text_name,version,l_no,text
+etcsri/Q000985,Amar-Suen 10,,i 1,sux:Amarsuenak[1]RN
+etcsri/Q000985,Amar-Suen 10,,i 2,sux:Nibru[1]SN
+etcsri/Q000985,Amar-Suen 10,,i 3,sux:Enlil[1]DN
+etcsri/Q000985,Amar-Suen 10,,i 4,sux:mu[name]N sux:pad[find]V/t
+etcsri/Q000985,Amar-Suen 10,,i 5,sux:saŋus[constant]V/i
+etcsri/Q000985,Amar-Suen 10,,i 6,sux:e[house]N sux:Enlil[1]DN
+etcsri/Q000985,Amar-Suen 10,,i 7,sux:lugal[king]N sux:kalag[strong]V/i
+etcsri/Q000985,Amar-Suen 10,,i 8,sux:lugal[king]N sux:Urim[1]SN
+etcsri/Q000985,Amar-Suen 10,,i 9,sux:lugal[king]N sux:anubda[quarter]N sux:limmu[four]NU
+etcsri/Q000985,Amar-Suen 10,,i 10,sux:alan[statue]N
+etcsri/Q000985,Amar-Suen 10,,i 11,sux:Amarsuenak[1]RN sux:ki[place]N sux:aŋ[measure]V/t sux:Urim[1]SN
+etcsri/Q000985,Amar-Suen 10,,i 12,sux:mu[name]N
+etcsri/Q000985,Amar-Suen 10,,i 13,sux:alan[statue]N
+etcsri/Q000985,Amar-Suen 10,,ii 1,sux:lu[person]N sux:ki[place]N sux:gub[stand]V/i
+etcsri/Q000985,Amar-Suen 10,,ii 2,sux:kur[different]V/i
+etcsri/Q000985,Amar-Suen 10,,ii 3,sux:baragsiga[shrine]N
+etcsri/Q000985,Amar-Suen 10,,ii 4,sux:bur[tear]V/t
+etcsri/Q000985,Amar-Suen 10,,ii 5,sux:Nanna[1]DN
+etcsri/Q000985,Amar-Suen 10,,ii 6,sux:lugal[king]N sux:Urim[1]SN
+etcsri/Q000985,Amar-Suen 10,,ii 7,sux:Ningal[1]DN
+etcsri/Q000985,Amar-Suen 10,,ii 8,sux:ama[mother]N sux:Urim[1]SN
+etcsri/Q000985,Amar-Suen 10,,ii 9,sux:nam[fate]N sux:kud[cut]V/t
+etcsri/Q000985,Amar-Suen 10,,ii 10,sux:numun[seed]N

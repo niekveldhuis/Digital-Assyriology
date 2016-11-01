@@ -1,0 +1,11 @@
+id_text,text_name,version,l_no,text
+etcsri/Q001522,Gudea 090,,1,sux:Bau[1]DN
+etcsri/Q001522,Gudea 090,,2,sux:munus[woman]N sux:sag[good]V/i
+etcsri/Q001522,Gudea 090,,3,sux:nin[lady]N
+etcsri/Q001522,Gudea 090,,4,sux:namtil[life]N
+etcsri/Q001522,Gudea 090,,5,sux:Gudea[1]RN
+etcsri/Q001522,Gudea 090,,6,sux:ensik[ruler]N
+etcsri/Q001522,Gudea 090,,7,sux:Lagaš[1]SN
+etcsri/Q001522,Gudea 090,,8,sux:u[and]CNJ sux:namtil[life]N
+etcsri/Q001522,Gudea 090,,9,sux:Ninalla[1]RN
+etcsri/Q001522,Gudea 090,,10,sux:dam[spouse]N

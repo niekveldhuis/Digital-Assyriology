@@ -1,0 +1,4 @@
+id_text,text_name,version,l_no,text
+etcsri/Q003651,Lugal-Anda 3,,1,sux:Baragnamtara[1]PN
+etcsri/Q003651,Lugal-Anda 3,,2,sux:dam[spouse]N sux:Lugalanda[1]RN
+etcsri/Q003651,Lugal-Anda 3,,3,sux:ensik[ruler]N

@@ -1,0 +1,25 @@
+id_text,text_name,version,l_no,text
+etcsri/Q001066,E-anatum 11,,Side 1; iii 1',sux:agakar[conqueror]N sux:sig[put]V/t
+etcsri/Q001066,E-anatum 11,,Side 1; iii 2',sux:Unug[1]SN
+etcsri/Q001066,E-anatum 11,,Side 1; iii 3',sux:agakar[conqueror]N sux:sig[put]V/t
+etcsri/Q001066,E-anatum 11,,Side 1; iii 4',sux:Urim[1]SN
+etcsri/Q001066,E-anatum 11,,Side 1; iii 5',sux:agakar[conqueror]N sux:sig[put]V/t
+etcsri/Q001066,E-anatum 11,,Side 1; iv 1,sux:Eanatum[1]RN
+etcsri/Q001066,E-anatum 11,,Side 1; iv 2,sux:lu[person]N sux:e[house]N sux:Ŋatumdug[1]DN sux:du[build]V/t
+etcsri/Q001066,E-anatum 11,,Side 1; iv 3,sux:diŋir[deity]N
+etcsri/Q001066,E-anatum 11,,Side 1; iv 4,sux:Šul-MUŠ×PA[1]DN
+etcsri/Q001066,E-anatum 11,,Side 1; iv 5,sux:Eanatum[1]RN
+etcsri/Q001066,E-anatum 11,,Side 1; iv 6,sux:Nanše[1]DN
+etcsri/Q001066,E-anatum 11,,Side 1; iv 7,sux:utud[bear]V/t
+etcsri/Q001066,E-anatum 11,,Side 1; v 1,sux:ud[sun]N
+etcsri/Q001066,E-anatum 11,,Side 1; v 2,sux:Nanše[1]DN
+etcsri/Q001066,E-anatum 11,,Side 1; v 3,sux:giguna[terrace]N sux:mah[great]V/i
+etcsri/Q001066,E-anatum 11,,Side 1; v 4,sux:sa[equal]V/t sux:dug[speak]V/t
+etcsri/Q001066,E-anatum 11,,Side 1; v 5,sux:Ninŋirsuk[1]DN
+etcsri/Q001066,E-anatum 11,,Side 1; v 6,sux:e[house]N
+etcsri/Q001066,E-anatum 11,,Side 1; v 7,sux:sa[equal]V/t sux:dug[speak]V/t
+etcsri/Q001066,E-anatum 11,,Side 1; v 8,sux:Enlil[1]DN
+etcsri/Q001066,E-anatum 11,,Side 1; v 9,sux:Nibru[1]SN
+etcsri/Q001066,E-anatum 11,,Side 1; v 10,sux:sa[equal]V/t sux:dug[speak]V/t
+etcsri/Q001066,E-anatum 11,,Side 4; i 1',sux:Nanše[1]DN
+etcsri/Q001066,E-anatum 11,,Side 4; i 2',sux:Emah[4]TN

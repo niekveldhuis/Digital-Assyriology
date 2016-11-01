@@ -1,0 +1,8 @@
+id_text,text_name,version,l_no,text
+etcsri/Q001701,Šulgi 69,,1,sux:Šulgir[1]RN
+etcsri/Q001701,Šulgi 69,,2,sux:nita[male]N sux:kalag[strong]V/i
+etcsri/Q001701,Šulgi 69,,3,sux:lugal[king]N sux:Urim[1]SN
+etcsri/Q001701,Šulgi 69,,4,sux:lugal[king]N sux:anubda[quarter]N sux:limmu[four]NU
+etcsri/Q001701,Šulgi 69,,5,sux:Šulgisimti[1]PN
+etcsri/Q001701,Šulgi 69,,6,sux:lukur[priestess]N sux:kaskal[way]N
+etcsri/Q001701,Šulgi 69,,7,sux:Mašgula[1]PN

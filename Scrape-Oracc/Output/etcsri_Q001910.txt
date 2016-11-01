@@ -1,0 +1,5 @@
+id_text,text_name,version,l_no,text
+etcsri/Q001910,Unattributed Ur III 1041,,1,sux:Inanak[1]DN
+etcsri/Q001910,Unattributed Ur III 1041,,2,sux:Paplal[1]PN
+etcsri/Q001910,Unattributed Ur III 1041,,3,sux:dumu[child]N sux:Amarsumun[1]PN
+etcsri/Q001910,Unattributed Ur III 1041,,4,sux:saŋŋa[official]N

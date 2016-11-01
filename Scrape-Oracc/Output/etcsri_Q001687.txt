@@ -1,0 +1,10 @@
+id_text,text_name,version,l_no,text
+etcsri/Q001687,Šulgi 55,,1,sux:Igalimak[1]DN
+etcsri/Q001687,Šulgi 55,,2,sux:dumu[child]N sux:ki[place]N sux:aŋ[measure]V/t
+etcsri/Q001687,Šulgi 55,,3,sux:Ninŋirsuk[1]DN
+etcsri/Q001687,Šulgi 55,,4,sux:lugal[king]N
+etcsri/Q001687,Šulgi 55,,5,sux:Šulgir[1]RN
+etcsri/Q001687,Šulgi 55,,6,sux:nita[male]N sux:kalag[strong]V/i
+etcsri/Q001687,Šulgi 55,,7,sux:lugal[king]N sux:Urim[1]SN
+etcsri/Q001687,Šulgi 55,,8,sux:lugal[king]N sux:Kiengir[1]GN sux:Akkad[1]GN
+etcsri/Q001687,Šulgi 55,,9,sux:namtil[life]N

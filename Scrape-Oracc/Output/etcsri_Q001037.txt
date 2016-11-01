@@ -1,0 +1,24 @@
+id_text,text_name,version,l_no,text
+etcsri/Q001037,Ur-Nanše 22,,1,sux:Urnanše[1]RN
+etcsri/Q001037,Ur-Nanše 22,,2,sux:lugal[king]N
+etcsri/Q001037,Ur-Nanše 22,,3,sux:Lagaš[1]SN
+etcsri/Q001037,Ur-Nanše 22,,4,sux:dumu[child]N sux:Gu-NI.DU[1]PN
+etcsri/Q001037,Ur-Nanše 22,,5,sux:dumu[child]N sux:Gursar[1]GN
+etcsri/Q001037,Ur-Nanše 22,,6,sux:e[house]N sux:Ninŋirsuk[1]DN
+etcsri/Q001037,Ur-Nanše 22,,7,sux:du[build]V/t
+etcsri/Q001037,Ur-Nanše 22,,8,sux:e[house]N sux:Nanše[1]DN
+etcsri/Q001037,Ur-Nanše 22,,9,sux:du[build]V/t
+etcsri/Q001037,Ur-Nanše 22,,10,sux:e[house]N sux:Ŋatumdug[1]DN
+etcsri/Q001037,Ur-Nanše 22,,11,sux:du[build]V/t
+etcsri/Q001037,Ur-Nanše 22,,12,sux:Edam[1]TN
+etcsri/Q001037,Ur-Nanše 22,,13,sux:du[build]V/t
+etcsri/Q001037,Ur-Nanše 22,,14,sux:e[house]N sux:Ninmarkik[1]DN
+etcsri/Q001037,Ur-Nanše 22,,15,sux:du[build]V/t
+etcsri/Q001037,Ur-Nanše 22,,16,sux:ma[ship]N sux:Dilmun[1]GN
+etcsri/Q001037,Ur-Nanše 22,,17,sux:kur[mountain]N
+etcsri/Q001037,Ur-Nanše 22,,18,sux:gu[neck]N sux:ŋeš[tree]N sux:ŋal[be]V/i
+etcsri/Q001037,Ur-Nanše 22,,19,sux:Ebgal[1]TN
+etcsri/Q001037,Ur-Nanše 22,,20,sux:du[build]V/t
+etcsri/Q001037,Ur-Nanše 22,,21,sux:Kinir[1]TN
+etcsri/Q001037,Ur-Nanše 22,,22,sux:du[build]V/t
+etcsri/Q001037,Ur-Nanše 22,,23,sux:Eŋidruk[1]TN

@@ -1,0 +1,11 @@
+id_text,text_name,version,l_no,text
+etcsri/Q004842,E-anatum? 22add,,i 1,sux:Eanatum[1]RN
+etcsri/Q004842,E-anatum? 22add,,i 2,sux:dumu[child]N sux:Ayakurgal[1]RN
+etcsri/Q004842,E-anatum? 22add,,i 3,sux:ensik[ruler]N
+etcsri/Q004842,E-anatum? 22add,,i 4,sux:Lagaš[1]SN
+etcsri/Q004842,E-anatum? 22add,,i 5,sux:šeš[brother]N sux:Amaregalak[1]PN
+etcsri/Q004842,E-anatum? 22add,,i 6,sux:gaʾeš[trader]N
+etcsri/Q004842,E-anatum? 22add,,ii 1,sux:kiri[orchard]N sux:gana[field]N
+etcsri/Q004842,E-anatum? 22add,,ii 2,sux:sa[pay-for]V/t
+etcsri/Q004842,E-anatum? 22add,,ii 3,sux:kug[metal]N sux:mana[unit]N
+etcsri/Q004842,E-anatum? 22add,,ii 4,sux:la[hang]V/t

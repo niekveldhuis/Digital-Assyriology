@@ -1,0 +1,7 @@
+id_text,text_name,version,l_no,text
+etcsri/Q004344,Šulgi 2127add,,i 1,sux:Šulgir[1]RN
+etcsri/Q004344,Šulgi 2127add,,i 2,sux:nita[male]N sux:kalag[strong]V/i
+etcsri/Q004344,Šulgi 2127add,,i 3,sux:lugal[king]N sux:Urim[1]SN
+etcsri/Q004344,Šulgi 2127add,,ii 1,sux:Urmeš[2]PN
+etcsri/Q004344,Šulgi 2127add,,ii 2,sux:dubsar[scribe]N
+etcsri/Q004344,Šulgi 2127add,,ii 3,sux:dumu[child]N sux:Gudea[3]PN

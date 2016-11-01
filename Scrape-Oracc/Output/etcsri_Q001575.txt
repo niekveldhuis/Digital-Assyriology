@@ -1,0 +1,9 @@
+id_text,text_name,version,l_no,text
+etcsri/Q001575,Urgar 2,,ii 1,sux:namtil[life]N
+etcsri/Q001575,Urgar 2,,ii 2,sux:Ur-GAR[1]RN
+etcsri/Q001575,Urgar 2,,ii 3,sux:ensik[ruler]N
+etcsri/Q001575,Urgar 2,,ii 4,sux:Lagaš[1]SN
+etcsri/Q001575,Urgar 2,,iii 1,sux:dumu[child]N sux:Urbauk[1]RN
+etcsri/Q001575,Urgar 2,,iii 2,sux:ensik[ruler]N
+etcsri/Q001575,Urgar 2,,iii 3,sux:Lagaš[1]SN
+etcsri/Q001575,Urgar 2,,iii 4,sux:u[and]CNJ sux:namtil[life]N

@@ -1,0 +1,20 @@
+id_text,text_name,version,l_no,text
+etcsri/Q000946,Ur-Namma 19,,i 1,sux:Nanna[1]DN
+etcsri/Q000946,Ur-Namma 19,,i 2,sux:dumusaŋ[first-born]N
+etcsri/Q000946,Ur-Namma 19,,i 3,sux:Enlil[1]DN
+etcsri/Q000946,Ur-Namma 19,,i 4,sux:lugal[king]N
+etcsri/Q000946,Ur-Namma 19,,i 5,sux:Urnammak[1]RN
+etcsri/Q000946,Ur-Namma 19,,i 6,sux:nita[male]N sux:kalag[strong]V/i
+etcsri/Q000946,Ur-Namma 19,,i 7,sux:lugal[king]N sux:Urim[1]SN
+etcsri/Q000946,Ur-Namma 19,,i 8,sux:lugal[king]N sux:Kiengir[1]GN sux:Akkad[1]GN
+etcsri/Q000946,Ur-Namma 19,,i 9,sux:sug[marsh]N sux:peš[seedling]N sux:du[build]V/t
+etcsri/Q000946,Ur-Namma 19,,i 10,sux:sug[marsh]N sux:me[be]V/i
+etcsri/Q000946,Ur-Namma 19,,i 11,sux:ašag[field]N
+etcsri/Q000946,Ur-Namma 19,,i 12,sux:gana[field]N
+etcsri/Q000946,Ur-Namma 19,,ii 1,sux:a[water]N
+etcsri/Q000946,Ur-Namma 19,,ii 2,sux:ed[ascend]V/i
+etcsri/Q000946,Ur-Namma 19,,ii 3,sux:eg[levee]N sux:dana[unit]N sux:nindan[pole]N
+etcsri/Q000946,Ur-Namma 19,,ii 4,sux:ak[do]V/t
+etcsri/Q000946,Ur-Namma 19,,ii 5,sux:Urim[1]SN sux:gilsa[treasure]N
+etcsri/Q000946,Ur-Namma 19,,ii 6,sux:ak[do]V/t
+etcsri/Q000946,Ur-Namma 19,,ii 7,sux:eg[levee]N sux:aba[who?]N sux:Nanna[1]DN

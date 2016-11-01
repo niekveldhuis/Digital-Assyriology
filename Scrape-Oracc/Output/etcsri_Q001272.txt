@@ -1,0 +1,5 @@
+id_text,text_name,version,l_no,text
+etcsri/Q001272,Anonymous Nippur 14,,1,sux:Inanak[1]DN
+etcsri/Q001272,Anonymous Nippur 14,,2,sux:Ganezenak[1]PN
+etcsri/Q001272,Anonymous Nippur 14,,3,sux:dam[spouse]N
+etcsri/Q001272,Anonymous Nippur 14,,5,sux:dumu[child]N sux:Gu-NI.DU[2]PN

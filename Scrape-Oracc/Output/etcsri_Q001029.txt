@@ -1,0 +1,25 @@
+id_text,text_name,version,l_no,text
+etcsri/Q001029,Ur-Nanše 10,,i 1,sux:Urnanše[1]RN
+etcsri/Q001029,Ur-Nanše 10,,i 2,sux:lugal[king]N
+etcsri/Q001029,Ur-Nanše 10,,i 3,sux:Lagaš[1]SN
+etcsri/Q001029,Ur-Nanše 10,,i 4,sux:dumu[child]N sux:Gu-NI.DU[1]PN
+etcsri/Q001029,Ur-Nanše 10,,ii 1,sux:dumu[child]N sux:Gursar[1]GN
+etcsri/Q001029,Ur-Nanše 10,,ii 2,sux:eš[shrine]N sux:Ŋirsu[1]SN
+etcsri/Q001029,Ur-Nanše 10,,ii 3,sux:du[build]V/t
+etcsri/Q001029,Ur-Nanše 10,,ii 4,sux:e[house]N sux:Nanše[1]DN
+etcsri/Q001029,Ur-Nanše 10,,ii 5,sux:du[build]V/t
+etcsri/Q001029,Ur-Nanše 10,,iii 1,sux:Ebgal[1]TN
+etcsri/Q001029,Ur-Nanše 10,,iii 2,sux:du[build]V/t
+etcsri/Q001029,Ur-Nanše 10,,iii 3,sux:Kinir[1]TN
+etcsri/Q001029,Ur-Nanše 10,,iii 4,sux:du[build]V/t
+etcsri/Q001029,Ur-Nanše 10,,iv 1,sux:e[house]N sux:Ŋatumdug[1]DN
+etcsri/Q001029,Ur-Nanše 10,,iv 2,sux:du[build]V/t
+etcsri/Q001029,Ur-Nanše 10,,iv 3,sux:Abzuegak[1]TN
+etcsri/Q001029,Ur-Nanše 10,,iv 4,sux:du[build]V/t
+etcsri/Q001029,Ur-Nanše 10,,iv 5,sux:Tiraš[1]TN
+etcsri/Q001029,Ur-Nanše 10,,iv 6,sux:du[build]V/t
+etcsri/Q001029,Ur-Nanše 10,,v 1,sux:eš[shrine]N sux:Bagara[1]TN
+etcsri/Q001029,Ur-Nanše 10,,v 2,sux:du[build]V/t
+etcsri/Q001029,Ur-Nanše 10,,v 3,sux:Edam[1]TN
+etcsri/Q001029,Ur-Nanše 10,,v 4,sux:du[build]V/t
+etcsri/Q001029,Ur-Nanše 10,,v 5,sux:Kame[1]TN

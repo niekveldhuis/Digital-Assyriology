@@ -1,0 +1,18 @@
+id_text,text_name,version,l_no,text
+etcsri/Q001038,Ur-Nanše 23,,1,sux:Urnanše[1]RN
+etcsri/Q001038,Ur-Nanše 23,,2,sux:lugal[king]N
+etcsri/Q001038,Ur-Nanše 23,,3,sux:Lagaš[1]SN
+etcsri/Q001038,Ur-Nanše 23,,4,sux:dumu[child]N sux:Gu-NI.DU[1]PN
+etcsri/Q001038,Ur-Nanše 23,,5,sux:dumu[child]N sux:Gursar[1]GN
+etcsri/Q001038,Ur-Nanše 23,,6,sux:e[house]N sux:Ninŋirsuk[1]DN
+etcsri/Q001038,Ur-Nanše 23,,7,sux:du[build]V/t
+etcsri/Q001038,Ur-Nanše 23,,8,sux:e[house]N sux:Nanše[1]DN
+etcsri/Q001038,Ur-Nanše 23,,9,sux:du[build]V/t
+etcsri/Q001038,Ur-Nanše 23,,10,sux:Šešeŋara[1]TN
+etcsri/Q001038,Ur-Nanše 23,,11,sux:du[build]V/t
+etcsri/Q001038,Ur-Nanše 23,,12,sux:Abzubanda[1]TN
+etcsri/Q001038,Ur-Nanše 23,,13,sux:du[build]V/t
+etcsri/Q001038,Ur-Nanše 23,,14,sux:Bagara[1]TN
+etcsri/Q001038,Ur-Nanše 23,,15,sux:du[build]V/t
+etcsri/Q001038,Ur-Nanše 23,,16,sux:ma[ship]N sux:Dilmun[1]GN
+etcsri/Q001038,Ur-Nanše 23,,17,sux:kur[mountain]N

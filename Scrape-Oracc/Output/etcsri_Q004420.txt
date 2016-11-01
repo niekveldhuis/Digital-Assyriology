@@ -1,0 +1,8 @@
+id_text,text_name,version,l_no,text
+etcsri/Q004420,Šu-Suen 2087add,,i 1,sux:Šusuen[1]RN
+etcsri/Q004420,Šu-Suen 2087add,,i 2,sux:lugal[king]N sux:kalag[strong]V/i
+etcsri/Q004420,Šu-Suen 2087add,,i 3,sux:lugal[king]N sux:Urim[1]SN
+etcsri/Q004420,Šu-Suen 2087add,,i 4,sux:lugal[king]N sux:anubda[quarter]N sux:limmu[four]NU
+etcsri/Q004420,Šu-Suen 2087add,,ii 1,sux:Lugalkugzu[3]PN
+etcsri/Q004420,Šu-Suen 2087add,,ii 2,sux:dubsar[scribe]N
+etcsri/Q004420,Šu-Suen 2087add,,ii 3,sux:dumu[child]N sux:Urniŋar[3]PN sux:šuš[official]N

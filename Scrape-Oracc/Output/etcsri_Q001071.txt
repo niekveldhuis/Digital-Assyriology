@@ -1,0 +1,30 @@
+id_text,text_name,version,l_no,text
+etcsri/Q001071,E-anatum 10,,i 1,sux:Ninŋirsuk[1]DN
+etcsri/Q001071,E-anatum 10,,i 2,sux:ursaŋ[hero]N
+etcsri/Q001071,E-anatum 10,,i 3,sux:Enlil[1]DN
+etcsri/Q001071,E-anatum 10,,i 4,sux:Eanatum[1]RN
+etcsri/Q001071,E-anatum 10,,i 5,sux:ensik[ruler]N
+etcsri/Q001071,E-anatum 10,,i 6,sux:Lagaš[1]SN
+etcsri/Q001071,E-anatum 10,,i 7,sux:a[arm]N sux:šum[give]V/t
+etcsri/Q001071,E-anatum 10,,i 8,sux:Ninŋirsuk[1]DN
+etcsri/Q001071,E-anatum 10,,i 9,sux:lu[person]N sux:Ninŋirsuk[1]DN
+etcsri/Q001071,E-anatum 10,,i 10,sux:ašag[field]N sux:ki[place]N sux:aŋ[measure]V/t
+etcsri/Q001071,E-anatum 10,,ii 1,sux:Guedenak[1]GN
+etcsri/Q001071,E-anatum 10,,ii 2,sux:šu[hand]N sux:gi[turn]V/i
+etcsri/Q001071,E-anatum 10,,ii 3,sux:Eanatum[1]RN
+etcsri/Q001071,E-anatum 10,,ii 4,sux:kur[mountain]N sux:gu[neck]N sux:ŋar[place]V/t
+etcsri/Q001071,E-anatum 10,,ii 5,sux:Ninŋirsuk[1]DN
+etcsri/Q001071,E-anatum 10,,ii 6,sux:dumu[child]N sux:Ayakurgal[1]RN
+etcsri/Q001071,E-anatum 10,,ii 7,sux:ensik[ruler]N
+etcsri/Q001071,E-anatum 10,,ii 8,sux:Lagaš[1]SN
+etcsri/Q001071,E-anatum 10,,ii 9,sux:Ninŋirsuk[1]DN
+etcsri/Q001071,E-anatum 10,,ii 10,sux:Ezak[1]TN
+etcsri/Q001071,E-anatum 10,,iii 1,sux:kug[metal]N sux:zagin[lapis]N
+etcsri/Q001071,E-anatum 10,,iii 2,sux:du[build]V/t
+etcsri/Q001071,E-anatum 10,,iii 3,sux:ganun[storehouse]N sux:e[house]N
+etcsri/Q001071,E-anatum 10,,iii 4,sux:du[build]V/t
+etcsri/Q001071,E-anatum 10,,iii 5,sux:guru[store]N sux:gu[neck]N sux:gur[turn]V/t
+etcsri/Q001071,E-anatum 10,,iii 6,sux:Eanatum[1]RN
+etcsri/Q001071,E-anatum 10,,iii 7,sux:ŋidru[scepter]N sux:šum[give]V/t
+etcsri/Q001071,E-anatum 10,,iii 8,sux:Ninŋirsuk[1]DN
+etcsri/Q001071,E-anatum 10,,iii 9,sux:diŋir[deity]N

@@ -1,0 +1,28 @@
+id_text,text_name,version,l_no,text
+etcsri/Q000989,Amar-Suen 16,,1,sux:Nanna[1]DN
+etcsri/Q000989,Amar-Suen 16,,2,sux:Karzida[1]SN
+etcsri/Q000989,Amar-Suen 16,,3,sux:lugal[king]N sux:ki[place]N sux:aŋ[measure]V/t
+etcsri/Q000989,Amar-Suen 16,,4,sux:Amarsuenak[1]RN
+etcsri/Q000989,Amar-Suen 16,,5,sux:Enlil[1]DN
+etcsri/Q000989,Amar-Suen 16,,6,sux:Nibru[1]SN
+etcsri/Q000989,Amar-Suen 16,,7,sux:mu[name]N sux:pad[find]V/t
+etcsri/Q000989,Amar-Suen 16,,8,sux:saŋus[constant]V/i
+etcsri/Q000989,Amar-Suen 16,,9,sux:e[house]N sux:Enlil[1]DN
+etcsri/Q000989,Amar-Suen 16,,10,sux:diŋir[deity]N sux:zid[right]V/i
+etcsri/Q000989,Amar-Suen 16,,11,sux:Utu[1]DN sux:kalam[land]N
+etcsri/Q000989,Amar-Suen 16,,12,sux:lugal[king]N sux:kalag[strong]V/i
+etcsri/Q000989,Amar-Suen 16,,13,sux:lugal[king]N sux:Urim[1]SN
+etcsri/Q000989,Amar-Suen 16,,14,sux:lugal[king]N sux:anubda[quarter]N sux:limmu[four]NU
+etcsri/Q000989,Amar-Suen 16,,15,sux:Karzida[1]SN
+etcsri/Q000989,Amar-Suen 16,,16,sux:ud[sun]N sux:ul[distant]V/i
+etcsri/Q000989,Amar-Suen 16,,17,sux:ŋipar[cloister]N sux:du[build]V/t
+etcsri/Q000989,Amar-Suen 16,,18,sux:en[priest]N sux:til[live]V/i
+etcsri/Q000989,Amar-Suen 16,,19,sux:Amarsuenak[1]RN
+etcsri/Q000989,Amar-Suen 16,,20,sux:ki[place]N sux:aŋ[measure]V/t sux:Nanna[1]DN
+etcsri/Q000989,Amar-Suen 16,,21,sux:ŋipar[cloister]N sux:kug[pure]V/i
+etcsri/Q000989,Amar-Suen 16,,22,sux:du[build]V/t
+etcsri/Q000989,Amar-Suen 16,,23,sux:en[priest]N sux:ki[place]N sux:aŋ[measure]V/t
+etcsri/Q000989,Amar-Suen 16,,24,sux:kur[enter]V/i
+etcsri/Q000989,Amar-Suen 16,,25,sux:Amarsuenak[1]RN
+etcsri/Q000989,Amar-Suen 16,,26,sux:ud[sun]N sux:sud[distant]V/i
+etcsri/Q000989,Amar-Suen 16,,27,sux:namtil[life]N

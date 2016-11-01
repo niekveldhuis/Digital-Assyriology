@@ -1,0 +1,6 @@
+id_text,text_name,version,l_no,text
+etcsri/Q001716,Šulgi 84,,1',sux:Ninkala[1]PN
+etcsri/Q001716,Šulgi 84,,2',sux:dumu[child]N sux:Nibru[1]SN
+etcsri/Q001716,Šulgi 84,,3',sux:ki[place]N sux:aŋ[measure]V/t
+etcsri/Q001716,Šulgi 84,,4',sux:alan[statue]N
+etcsri/Q001716,Šulgi 84,,5',sux:dim[create]V/t

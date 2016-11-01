@@ -1,0 +1,11 @@
+id_text,text_name,version,l_no,text
+etcsri/Q000873,Lu-Utu 2,,1,sux:Ereškigala[1]DN
+etcsri/Q000873,Lu-Utu 2,,2,sux:nin[lady]N sux:ki[place]N sux:utušuš[sunset]N
+etcsri/Q000873,Lu-Utu 2,,3,sux:Luutu[4]PN
+etcsri/Q000873,Lu-Utu 2,,4,sux:ensik[ruler]N sux:Umma[1]SN
+etcsri/Q000873,Lu-Utu 2,,5,sux:dumu[child]N sux:Ninisinak[1]DN
+etcsri/Q000873,Lu-Utu 2,,6,sux:namtil[life]N
+etcsri/Q000873,Lu-Utu 2,,7,sux:ki[place]N sux:Utu[1]DN sux:e[leave]V/i
+etcsri/Q000873,Lu-Utu 2,,8,sux:ki[place]N sux:nam[fate]N sux:tar[cut]V/t
+etcsri/Q000873,Lu-Utu 2,,9,sux:e[house]N sux:du[build]V/t
+etcsri/Q000873,Lu-Utu 2,,10,sux:gaba[chest]N sux:id[river]N sux:gin[establish]V/i

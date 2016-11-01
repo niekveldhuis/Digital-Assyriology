@@ -1,0 +1,38 @@
+id_text,text_name,version,l_no,text
+etcsri/Q001624,Ur-Namma 18,,i 1,sux:Nanna[1]DN
+etcsri/Q001624,Ur-Namma 18,,i 2,sux:lugal[king]N
+etcsri/Q001624,Ur-Namma 18,,i 3,sux:kisura[border]N
+etcsri/Q001624,Ur-Namma 18,,i 4,sux:ma[ship]N sux:Magan[1]GN
+etcsri/Q001624,Ur-Namma 18,,i 5,sux:An[1]DN
+etcsri/Q001624,Ur-Namma 18,,i 6,sux:Enlil[1]DN
+etcsri/Q001624,Ur-Namma 18,,i 7,sux:saŋ[head]N sux:rig[donate]V/t
+etcsri/Q001624,Ur-Namma 18,,i 8,sux:Urnammak[1]RN
+etcsri/Q001624,Ur-Namma 18,,i 9,sux:nita[male]N sux:kalag[strong]V/i
+etcsri/Q001624,Ur-Namma 18,,i 10,sux:lugal[king]N sux:Urim[1]SN
+etcsri/Q001624,Ur-Namma 18,,i 11,sux:lugal[king]N sux:Kiengir[1]GN sux:Akkad[1]GN
+etcsri/Q001624,Ur-Namma 18,,i 12,sux:ud[sun]N sux:e[house]N sux:Nanna[1]DN
+etcsri/Q001624,Ur-Namma 18,,i 13,sux:du[build]V/t
+etcsri/Q001624,Ur-Namma 18,,ii 1,sux:did[lawsuit]N sux:niŋgina[truth]N
+etcsri/Q001624,Ur-Namma 18,,ii 2,sux:Utu[1]DN
+etcsri/Q001624,Ur-Namma 18,,ii 3,sux:inim[word]N sux:gin[establish]V/i
+etcsri/Q001624,Ur-Namma 18,,ii 4,sux:šu[hand]N sux:gi[turn]V/i
+etcsri/Q001624,Ur-Namma 18,,ii 5,sux:ud[sun]N sux:alan[statue]N
+etcsri/Q001624,Ur-Namma 18,,ii 6,sux:a[water]N sux:ru[cvve]V/t
+etcsri/Q001624,Ur-Namma 18,,ii 7,sux:lu[person]N sux:a[arm]N sux:niŋhulu[evil]N sux:dim[create]V/t
+etcsri/Q001624,Ur-Namma 18,,ii 8,sux:aŋ[measure]V/t
+etcsri/Q001624,Ur-Namma 18,,ii 9,sux:musara[inscription]N
+etcsri/Q001624,Ur-Namma 18,,ii 10,sux:kur[different]V/i
+etcsri/Q001624,Ur-Namma 18,,ii 11,sux:Nanna[1]DN
+etcsri/Q001624,Ur-Namma 18,,iii 1,sux:lugal[king]N
+etcsri/Q001624,Ur-Namma 18,,iii 3,sux:nam[fate]N
+etcsri/Q001624,Ur-Namma 18,,iv 1,sux:til[live]V/i
+etcsri/Q001624,Ur-Namma 18,,iv 2,sux:iri[city]N
+etcsri/Q001624,Ur-Namma 18,,iv 3,sux:saŋki[forehead]N
+etcsri/Q001624,Ur-Namma 18,,iv 4,sux:gid[long]V/i
+etcsri/Q001624,Ur-Namma 18,,iv 5,sux:guza[chair]N
+etcsri/Q001624,Ur-Namma 18,,iv 6,sux:sahar[dust]N sux:tuš[sit]V/i
+etcsri/Q001624,Ur-Namma 18,,iv 7,sux:iri[city]N
+etcsri/Q001624,Ur-Namma 18,,iv 8,sux:sumur[roof]N
+etcsri/Q001624,Ur-Namma 18,,iv 9,sux:dag[leave]V/i
+etcsri/Q001624,Ur-Namma 18,,iv 10,sux:namtil[life]N
+etcsri/Q001624,Ur-Namma 18,,iv 11,sux:niŋgig[bad-thing]N

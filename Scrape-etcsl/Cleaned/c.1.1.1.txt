@@ -1,306 +1,306 @@
 id_text,text_name,version,l_no,text
-c.1.1.1,Enki and Ninhursaŋa,,1,sux:iri[city]Nsux:iri[city]N sux:kug[pure]V/isux:iri[city]N sux:kug[pure]V/i sux:ane[he]IPsux:iri[city]N sux:kug[pure]V/i sux:ane[he]IP sux:ba[allot]V/tsux:iri[city]N sux:kug[pure]V/i sux:ane[he]IP sux:ba[allot]V/t sux:kur[mountain]Nsux:iri[city]N sux:kug[pure]V/i sux:ane[he]IP sux:ba[allot]V/t sux:kur[mountain]N sux:Dilmun[1]GNsux:iri[city]N sux:kug[pure]V/i sux:ane[he]IP sux:ba[allot]V/t sux:kur[mountain]N sux:Dilmun[1]GN sux:kug[pure]V/i
-c.1.1.1,Enki and Ninhursaŋa,,2,sux:Kiengir[1]GNsux:Kiengir[1]GN sux:kug[pure]V/isux:Kiengir[1]GN sux:kug[pure]V/i sux:ane[he]IPsux:Kiengir[1]GN sux:kug[pure]V/i sux:ane[he]IP sux:ba[allot]V/tsux:Kiengir[1]GN sux:kug[pure]V/i sux:ane[he]IP sux:ba[allot]V/t sux:kur[mountain]Nsux:Kiengir[1]GN sux:kug[pure]V/i sux:ane[he]IP sux:ba[allot]V/t sux:kur[mountain]N sux:Dilmun[1]GNsux:Kiengir[1]GN sux:kug[pure]V/i sux:ane[he]IP sux:ba[allot]V/t sux:kur[mountain]N sux:Dilmun[1]GN sux:kug[pure]V/i
-c.1.1.1,Enki and Ninhursaŋa,,3,sux:kur[mountain]Nsux:kur[mountain]N sux:Dilmun[1]GNsux:kur[mountain]N sux:Dilmun[1]GN sux:kug[pure]V/isux:kur[mountain]N sux:Dilmun[1]GN sux:kug[pure]V/i sux:kur[mountain]Nsux:kur[mountain]N sux:Dilmun[1]GN sux:kug[pure]V/i sux:kur[mountain]N sux:Dilmun[1]GNsux:kur[mountain]N sux:Dilmun[1]GN sux:kug[pure]V/i sux:kur[mountain]N sux:Dilmun[1]GN sux:sikil[pure]V/i
-c.1.1.1,Enki and Ninhursaŋa,,4,sux:kur[mountain]Nsux:kur[mountain]N sux:Dilmun[1]GNsux:kur[mountain]N sux:Dilmun[1]GN sux:sikil[pure]V/isux:kur[mountain]N sux:Dilmun[1]GN sux:sikil[pure]V/i sux:kur[mountain]Nsux:kur[mountain]N sux:Dilmun[1]GN sux:sikil[pure]V/i sux:kur[mountain]N sux:Dilmun[1]GNsux:kur[mountain]N sux:Dilmun[1]GN sux:sikil[pure]V/i sux:kur[mountain]N sux:Dilmun[1]GN sux:dadag[bright]V/i
-c.1.1.1,Enki and Ninhursaŋa,,5,sux:dili[single]V/isux:dili[single]V/i sux:Dilmun[1]GNsux:dili[single]V/i sux:Dilmun[1]GN sux:nud[lie]V/i
-c.1.1.1,Enki and Ninhursaŋa,,6,sux:ki[place]Nsux:ki[place]N sux:Enki[1]DNsux:ki[place]N sux:Enki[1]DN sux:dam[spouse]Nsux:ki[place]N sux:Enki[1]DN sux:dam[spouse]N sux:nud[lie]V/i
-c.1.1.1,Enki and Ninhursaŋa,,7,sux:ki[place]Nsux:ki[place]N sux:sikil[pure]V/isux:ki[place]N sux:sikil[pure]V/i sux:ki[place]Nsux:ki[place]N sux:sikil[pure]V/i sux:ki[place]N sux:dadag[bright]V/i
-c.1.1.1,Enki and Ninhursaŋa,,8,sux:dili[single]V/isux:dili[single]V/i sux:Dilmun[1]GNsux:dili[single]V/i sux:Dilmun[1]GN sux:nud[lie]V/i
-c.1.1.1,Enki and Ninhursaŋa,,9,sux:ki[place]Nsux:ki[place]N sux:Enki[1]DNsux:ki[place]N sux:Enki[1]DN sux:Ninsikila[1]DNsux:ki[place]N sux:Enki[1]DN sux:Ninsikila[1]DN sux:nud[lie]V/i
-c.1.1.1,Enki and Ninhursaŋa,,10,sux:ki[place]Nsux:ki[place]N sux:sikil[pure]V/isux:ki[place]N sux:sikil[pure]V/i sux:ki[place]Nsux:ki[place]N sux:sikil[pure]V/i sux:ki[place]N sux:dadag[bright]V/i
-c.1.1.1,Enki and Ninhursaŋa,,11,sux:Dilmun[1]GNsux:Dilmun[1]GN sux:uga[raven]Nsux:Dilmun[1]GN sux:uga[raven]N sux:gu[voice]Nsux:Dilmun[1]GN sux:uga[raven]N sux:gu[voice]N sux:dug[speak]V/t
-c.1.1.1,Enki and Ninhursaŋa,,12,sux:dar[bird]Nsux:dar[bird]N sux:gu[voice]Nsux:dar[bird]N sux:gu[voice]N sux:dar[bird]Nsux:dar[bird]N sux:gu[voice]N sux:dar[bird]N sux:dug[speak]V/t
-c.1.1.1,Enki and Ninhursaŋa,,13,sux:urgula[lion]Nsux:urgula[lion]N sux:saŋ[head]Nsux:urgula[lion]N sux:saŋ[head]N sux:ŋeš[tree]Nsux:urgula[lion]N sux:saŋ[head]N sux:ŋeš[tree]N sux:rah[beat]V/t
-c.1.1.1,Enki and Ninhursaŋa,,14,sux:urbara[wolf]Nsux:urbara[wolf]N sux:sila[lamb]Nsux:urbara[wolf]N sux:sila[lamb]N sux:kar[flee]V/t
-c.1.1.1,Enki and Ninhursaŋa,,15,sux:urgir[dog]Nsux:urgir[dog]N sux:maš[goat]Nsux:urgir[dog]N sux:maš[goat]N sux:gurum[bend]V/tsux:urgir[dog]N sux:maš[goat]N sux:gurum[bend]V/t sux:zu[know]V/t
-c.1.1.1,Enki and Ninhursaŋa,,16,sux:šah[pig]Nsux:šah[pig]N sux:še[barley]Nsux:šah[pig]N sux:še[barley]N sux:gu[eat]V/tsux:šah[pig]N sux:še[barley]N sux:gu[eat]V/t sux:zu[know]V/t
-c.1.1.1,Enki and Ninhursaŋa,,17,sux:numunkuš[widow]Nsux:numunkuš[widow]N sux:munu[malt]Nsux:numunkuš[widow]N sux:munu[malt]N sux:ur[roof]Nsux:numunkuš[widow]N sux:munu[malt]N sux:ur[roof]N sux:barag[spread]V/t
-c.1.1.1,Enki and Ninhursaŋa,,18,sux:mušen[bird]Nsux:mušen[bird]N sux:an[sky]Nsux:mušen[bird]N sux:an[sky]N sux:munu[malt]Nsux:mušen[bird]N sux:an[sky]N sux:munu[malt]N sux:gu[eat]V/t
-c.1.1.1,Enki and Ninhursaŋa,,19,sux:tum[dove]Nsux:tum[dove]N sux:saŋ[head]Nsux:tum[dove]N sux:saŋ[head]N sux:RU[RU]V
-c.1.1.1,Enki and Ninhursaŋa,,20,sux:igigig[disease]Nsux:igigig[disease]N sux:igigig[disease]Nsux:igigig[disease]N sux:igigig[disease]N sux:dug[speak]V/t
-c.1.1.1,Enki and Ninhursaŋa,,21,sux:saŋgig[headache]Nsux:saŋgig[headache]N sux:saŋgig[headache]Nsux:saŋgig[headache]N sux:saŋgig[headache]N sux:dug[speak]V/t
-c.1.1.1,Enki and Ninhursaŋa,,22,sux:umma[old-woman]Nsux:umma[old-woman]N sux:umma[old-woman]Nsux:umma[old-woman]N sux:umma[old-woman]N sux:dug[speak]V/t
-c.1.1.1,Enki and Ninhursaŋa,,23,sux:abba[father]Nsux:abba[father]N sux:abba[father]Nsux:abba[father]N sux:abba[father]N sux:dug[speak]V/t
-c.1.1.1,Enki and Ninhursaŋa,,24,sux:kisikil[woman]Nsux:kisikil[woman]N sux:a[water]Nsux:kisikil[woman]N sux:a[water]N sux:tu[cvve]V/tsux:kisikil[woman]N sux:a[water]N sux:tu[cvve]V/t sux:iri[city]Nsux:kisikil[woman]N sux:a[water]N sux:tu[cvve]V/t sux:iri[city]N sux:sig[put]V/t
-c.1.1.1,Enki and Ninhursaŋa,,25,sux:lu[person]Nsux:lu[person]N sux:id[river]Nsux:lu[person]N sux:id[river]N sux:bala[turn]V/tsux:lu[person]N sux:id[river]N sux:bala[turn]V/t sux:ŋi[night]Nsux:lu[person]N sux:id[river]N sux:bala[turn]V/t sux:ŋi[night]N sux:dug[speak]V/t
-c.1.1.1,Enki and Ninhursaŋa,,26,sux:niŋir[herald]Nsux:niŋir[herald]N sux:zag[side]Nsux:niŋir[herald]N sux:zag[side]N sux:niŋin[encircle]V/t
-c.1.1.1,Enki and Ninhursaŋa,,27,sux:nar[musician]Nsux:nar[musician]N sux:elulam[song]Nsux:nar[musician]N sux:elulam[song]N sux:dug[speak]V/t
-c.1.1.1,Enki and Ninhursaŋa,,28,sux:zag[side]Nsux:zag[side]N sux:iri[city]Nsux:zag[side]N sux:iri[city]N sux:ilu[song]Nsux:zag[side]N sux:iri[city]N sux:ilu[song]N sux:dug[speak]V/t
-c.1.1.1,Enki and Ninhursaŋa,,29,sux:Ninsikila[1]DNsux:Ninsikila[1]DN sux:aya[father]Nsux:Ninsikila[1]DN sux:aya[father]N sux:Enki[1]DNsux:Ninsikila[1]DN sux:aya[father]N sux:Enki[1]DN sux:gu[voice]Nsux:Ninsikila[1]DN sux:aya[father]N sux:Enki[1]DN sux:gu[voice]N sux:de[pour]V/t
-c.1.1.1,Enki and Ninhursaŋa,,30,sux:iri[city]Nsux:iri[city]N sux:šum[give]V/tsux:iri[city]N sux:šum[give]V/t sux:iri[city]Nsux:iri[city]N sux:šum[give]V/t sux:iri[city]N sux:šum[give]V/tsux:iri[city]N sux:šum[give]V/t sux:iri[city]N sux:šum[give]V/t sux:nam[fate]Nsux:iri[city]N sux:šum[give]V/t sux:iri[city]N sux:šum[give]V/t sux:nam[fate]N sux:šum[give]V/t
-c.1.1.1,Enki and Ninhursaŋa,,31,sux:Dilmun[1]GNsux:Dilmun[1]GN sux:iri[city]Nsux:Dilmun[1]GN sux:iri[city]N sux:šum[give]V/tsux:Dilmun[1]GN sux:iri[city]N sux:šum[give]V/t sux:iri[city]Nsux:Dilmun[1]GN sux:iri[city]N sux:šum[give]V/t sux:iri[city]N sux:šum[give]V/tsux:Dilmun[1]GN sux:iri[city]N sux:šum[give]V/t sux:iri[city]N sux:šum[give]V/t sux:nam[fate]Nsux:Dilmun[1]GN sux:iri[city]N sux:šum[give]V/t sux:iri[city]N sux:šum[give]V/t sux:nam[fate]N sux:šum[give]V/t
-c.1.1.1,Enki and Ninhursaŋa,,32,sux:šum[give]V/tsux:šum[give]V/t sux:iri[city]Nsux:šum[give]V/t sux:iri[city]N sux:šum[give]V/tsux:šum[give]V/t sux:iri[city]N sux:šum[give]V/t sux:nam[fate]Nsux:šum[give]V/t sux:iri[city]N sux:šum[give]V/t sux:nam[fate]N sux:šum[give]V/t
-c.1.1.1,Enki and Ninhursaŋa,,33,sux:iri[city]Nsux:iri[city]N sux:kar[harbor]Nsux:iri[city]N sux:kar[harbor]N sux:id[river]Nsux:iri[city]N sux:kar[harbor]N sux:id[river]N sux:tuku[acquire]V/t
-c.1.1.1,Enki and Ninhursaŋa,,34,sux:šum[give]V/tsux:šum[give]V/t sux:iri[city]Nsux:šum[give]V/t sux:iri[city]N sux:šum[give]V/tsux:šum[give]V/t sux:iri[city]N sux:šum[give]V/t sux:nam[fate]Nsux:šum[give]V/t sux:iri[city]N sux:šum[give]V/t sux:nam[fate]N sux:šum[give]V/t
+c.1.1.1,Enki and Ninhursaŋa,,1,sux:iri[city]N sux:kug[pure]V/i sux:ane[he]IP sux:ba[allot]V/t sux:kur[mountain]N sux:Dilmun[1]GN sux:kug[pure]V/i
+c.1.1.1,Enki and Ninhursaŋa,,2,sux:Kiengir[1]GN sux:kug[pure]V/i sux:ane[he]IP sux:ba[allot]V/t sux:kur[mountain]N sux:Dilmun[1]GN sux:kug[pure]V/i
+c.1.1.1,Enki and Ninhursaŋa,,3,sux:kur[mountain]N sux:Dilmun[1]GN sux:kug[pure]V/i sux:kur[mountain]N sux:Dilmun[1]GN sux:sikil[pure]V/i
+c.1.1.1,Enki and Ninhursaŋa,,4,sux:kur[mountain]N sux:Dilmun[1]GN sux:sikil[pure]V/i sux:kur[mountain]N sux:Dilmun[1]GN sux:dadag[bright]V/i
+c.1.1.1,Enki and Ninhursaŋa,,5,sux:dili[single]V/i sux:Dilmun[1]GN sux:nud[lie]V/i
+c.1.1.1,Enki and Ninhursaŋa,,6,sux:ki[place]N sux:Enki[1]DN sux:dam[spouse]N sux:nud[lie]V/i
+c.1.1.1,Enki and Ninhursaŋa,,7,sux:ki[place]N sux:sikil[pure]V/i sux:ki[place]N sux:dadag[bright]V/i
+c.1.1.1,Enki and Ninhursaŋa,,8,sux:dili[single]V/i sux:Dilmun[1]GN sux:nud[lie]V/i
+c.1.1.1,Enki and Ninhursaŋa,,9,sux:ki[place]N sux:Enki[1]DN sux:Ninsikila[1]DN sux:nud[lie]V/i
+c.1.1.1,Enki and Ninhursaŋa,,10,sux:ki[place]N sux:sikil[pure]V/i sux:ki[place]N sux:dadag[bright]V/i
+c.1.1.1,Enki and Ninhursaŋa,,11,sux:Dilmun[1]GN sux:uga[raven]N sux:gu[voice]N sux:dug[speak]V/t
+c.1.1.1,Enki and Ninhursaŋa,,12,sux:dar[bird]N sux:gu[voice]N sux:dar[bird]N sux:dug[speak]V/t
+c.1.1.1,Enki and Ninhursaŋa,,13,sux:urgula[lion]N sux:saŋ[head]N sux:ŋeš[tree]N sux:rah[beat]V/t
+c.1.1.1,Enki and Ninhursaŋa,,14,sux:urbara[wolf]N sux:sila[lamb]N sux:kar[flee]V/t
+c.1.1.1,Enki and Ninhursaŋa,,15,sux:urgir[dog]N sux:maš[goat]N sux:gurum[bend]V/t sux:zu[know]V/t
+c.1.1.1,Enki and Ninhursaŋa,,16,sux:šah[pig]N sux:še[barley]N sux:gu[eat]V/t sux:zu[know]V/t
+c.1.1.1,Enki and Ninhursaŋa,,17,sux:numunkuš[widow]N sux:munu[malt]N sux:ur[roof]N sux:barag[spread]V/t
+c.1.1.1,Enki and Ninhursaŋa,,18,sux:mušen[bird]N sux:an[sky]N sux:munu[malt]N sux:gu[eat]V/t
+c.1.1.1,Enki and Ninhursaŋa,,19,sux:tum[dove]N sux:saŋ[head]N sux:RU[RU]V
+c.1.1.1,Enki and Ninhursaŋa,,20,sux:igigig[disease]N sux:igigig[disease]N sux:dug[speak]V/t
+c.1.1.1,Enki and Ninhursaŋa,,21,sux:saŋgig[headache]N sux:saŋgig[headache]N sux:dug[speak]V/t
+c.1.1.1,Enki and Ninhursaŋa,,22,sux:umma[old-woman]N sux:umma[old-woman]N sux:dug[speak]V/t
+c.1.1.1,Enki and Ninhursaŋa,,23,sux:abba[father]N sux:abba[father]N sux:dug[speak]V/t
+c.1.1.1,Enki and Ninhursaŋa,,24,sux:kisikil[woman]N sux:a[water]N sux:tu[cvve]V/t sux:iri[city]N sux:sig[put]V/t
+c.1.1.1,Enki and Ninhursaŋa,,25,sux:lu[person]N sux:id[river]N sux:bala[turn]V/t sux:ŋi[night]N sux:dug[speak]V/t
+c.1.1.1,Enki and Ninhursaŋa,,26,sux:niŋir[herald]N sux:zag[side]N sux:niŋin[encircle]V/t
+c.1.1.1,Enki and Ninhursaŋa,,27,sux:nar[musician]N sux:elulam[song]N sux:dug[speak]V/t
+c.1.1.1,Enki and Ninhursaŋa,,28,sux:zag[side]N sux:iri[city]N sux:ilu[song]N sux:dug[speak]V/t
+c.1.1.1,Enki and Ninhursaŋa,,29,sux:Ninsikila[1]DN sux:aya[father]N sux:Enki[1]DN sux:gu[voice]N sux:de[pour]V/t
+c.1.1.1,Enki and Ninhursaŋa,,30,sux:iri[city]N sux:šum[give]V/t sux:iri[city]N sux:šum[give]V/t sux:nam[fate]N sux:šum[give]V/t
+c.1.1.1,Enki and Ninhursaŋa,,31,sux:Dilmun[1]GN sux:iri[city]N sux:šum[give]V/t sux:iri[city]N sux:šum[give]V/t sux:nam[fate]N sux:šum[give]V/t
+c.1.1.1,Enki and Ninhursaŋa,,32,sux:šum[give]V/t sux:iri[city]N sux:šum[give]V/t sux:nam[fate]N sux:šum[give]V/t
+c.1.1.1,Enki and Ninhursaŋa,,33,sux:iri[city]N sux:kar[harbor]N sux:id[river]N sux:tuku[acquire]V/t
+c.1.1.1,Enki and Ninhursaŋa,,34,sux:šum[give]V/t sux:iri[city]N sux:šum[give]V/t sux:nam[fate]N sux:šum[give]V/t
 c.1.1.1,Enki and Ninhursaŋa,,35,
-c.1.1.1,Enki and Ninhursaŋa,,36,sux:iri[city]Nsux:iri[city]N sux:ašag[field]Nsux:iri[city]N sux:ašag[field]N sux:agar[meadow]Nsux:iri[city]N sux:ašag[field]N sux:agar[meadow]N sux:absin[furrow]Nsux:iri[city]N sux:ašag[field]N sux:agar[meadow]N sux:absin[furrow]N sux:tuku[acquire]V/t
-c.1.1.1,Enki and Ninhursaŋa,,40,sux:Utu[1]DNsux:Utu[1]DN sux:an[sky]Nsux:Utu[1]DN sux:an[sky]N sux:gub[stand]V/i
-c.1.1.1,Enki and Ninhursaŋa,,41,sux:gir[jar]Nsux:gir[jar]N sux:DU[DU]Vsux:gir[jar]N sux:DU[DU]V sux:gaba[chest]Nsux:gir[jar]N sux:DU[DU]V sux:gaba[chest]N sux:EZEN[1]GN
-c.1.1.1,Enki and Ninhursaŋa,,42,sux:suhur[~temple]Nsux:suhur[~temple]N sux:simuš[brilliance]Nsux:suhur[~temple]N sux:simuš[brilliance]N sux:Nanna[1]DN
-c.1.1.1,Enki and Ninhursaŋa,,43,sux:kag[mouth]Nsux:kag[mouth]N sux:a[water]Nsux:kag[mouth]N sux:a[water]N sux:ki[place]Nsux:kag[mouth]N sux:a[water]N sux:ki[place]N sux:DU[DU]Vsux:kag[mouth]N sux:a[water]N sux:ki[place]N sux:DU[DU]V sux:a[water]Nsux:kag[mouth]N sux:a[water]N sux:ki[place]N sux:DU[DU]V sux:a[water]N sux:dug[good]V/isux:kag[mouth]N sux:a[water]N sux:ki[place]N sux:DU[DU]V sux:a[water]N sux:dug[good]V/i sux:ki[place]Nsux:kag[mouth]N sux:a[water]N sux:ki[place]N sux:DU[DU]V sux:a[water]N sux:dug[good]V/i sux:ki[place]Nsux:kag[mouth]N sux:a[water]N sux:ki[place]N sux:DU[DU]V sux:a[water]N sux:dug[good]V/i sux:ki[place]N
-c.1.1.1,Enki and Ninhursaŋa,,44,sux:ŋiriman[basin]Nsux:ŋiriman[basin]N sux:gal[big]V/isux:ŋiriman[basin]N sux:gal[big]V/i sux:a[water]Nsux:ŋiriman[basin]N sux:gal[big]V/i sux:a[water]N sux:ed[ascend]V/i
-c.1.1.1,Enki and Ninhursaŋa,,45,sux:iri[city]Nsux:iri[city]N sux:a[water]Nsux:iri[city]N sux:a[water]N sux:heŋal[plenty]Nsux:iri[city]N sux:a[water]N sux:heŋal[plenty]N sux:naŋ[drink]V/t
-c.1.1.1,Enki and Ninhursaŋa,,46,sux:Dilmun[1]GNsux:Dilmun[1]GN sux:a[water]Nsux:Dilmun[1]GN sux:a[water]N sux:heŋal[plenty]Nsux:Dilmun[1]GN sux:a[water]N sux:heŋal[plenty]N sux:naŋ[drink]V/t
-c.1.1.1,Enki and Ninhursaŋa,,47,sux:pu[well]Nsux:pu[well]N sux:a[water]Nsux:pu[well]N sux:a[water]N sux:ses[bitter]V/isux:pu[well]N sux:a[water]N sux:ses[bitter]V/i sux:pu[well]Nsux:pu[well]N sux:a[water]N sux:ses[bitter]V/i sux:pu[well]N sux:a[water]Nsux:pu[well]N sux:a[water]N sux:ses[bitter]V/i sux:pu[well]N sux:a[water]N sux:dug[good]V/isux:pu[well]N sux:a[water]N sux:ses[bitter]V/i sux:pu[well]N sux:a[water]N sux:dug[good]V/i sux:me[be]V/i
-c.1.1.1,Enki and Ninhursaŋa,,48,sux:iri[city]Nsux:iri[city]N sux:egun[storeroom]Nsux:iri[city]N sux:egun[storeroom]N sux:kar[harbor]Nsux:iri[city]N sux:egun[storeroom]N sux:kar[harbor]N sux:kalam[land]Nsux:iri[city]N sux:egun[storeroom]N sux:kar[harbor]N sux:kalam[land]N sux:me[be]V/i
-c.1.1.1,Enki and Ninhursaŋa,,49,sux:Dilmun[1]GNsux:Dilmun[1]GN sux:egun[storeroom]Nsux:Dilmun[1]GN sux:egun[storeroom]N sux:kar[harbor]Nsux:Dilmun[1]GN sux:egun[storeroom]N sux:kar[harbor]N sux:kalam[land]Nsux:Dilmun[1]GN sux:egun[storeroom]N sux:kar[harbor]N sux:kalam[land]N sux:me[be]V/i
-c.1.1.1,Enki and Ninhursaŋa,,49A,sux:kur[mountain]Nsux:kur[mountain]N sux:Tukriš[1]GNsux:kur[mountain]N sux:Tukriš[1]GN sux:kugsig[gold]Nsux:kur[mountain]N sux:Tukriš[1]GN sux:kugsig[gold]N sux:Harali[1]GN
-c.1.1.1,Enki and Ninhursaŋa,,49B,sux:zagin[lapis]Nsux:zagin[lapis]Nsux:zagin[lapis]Nsux:zagin[lapis]Nsux:zagin[lapis]N sux:bala[turn]V/t
-c.1.1.1,Enki and Ninhursaŋa,,49C,sux:kur[mountain]Nsux:kur[mountain]N sux:Meluha[1]GNsux:kur[mountain]N sux:Meluha[1]GN sux:gug[carnelian]Nsux:kur[mountain]N sux:Meluha[1]GN sux:gug[carnelian]N sux:niŋ[thing]Nsux:kur[mountain]N sux:Meluha[1]GN sux:gug[carnelian]N sux:niŋ[thing]N sux:al[hoe]Nsux:kur[mountain]N sux:Meluha[1]GN sux:gug[carnelian]N sux:niŋ[thing]N sux:al[hoe]N sux:dug[speak]V/tsux:kur[mountain]N sux:Meluha[1]GN sux:gug[carnelian]N sux:niŋ[thing]N sux:al[hoe]N sux:dug[speak]V/t sux:kal[rare]V/i
-c.1.1.1,Enki and Ninhursaŋa,,49D,sux:mes[tree]Nsux:mes[tree]N sux:Magan[1]GNsux:mes[tree]N sux:Magan[1]GN sux:ŋešaʾabak[tree]Nsux:mes[tree]N sux:Magan[1]GN sux:ŋešaʾabak[tree]N sux:sag[rare]V/i
-c.1.1.1,Enki and Ninhursaŋa,,49E,sux:ma[ship]Nsux:ma[ship]N sux:gal[big]V/isux:ma[ship]N sux:gal[big]V/i sux:sa[equal]V/t
-c.1.1.1,Enki and Ninhursaŋa,,49F,sux:kur[mountain]Nsux:kur[mountain]N sux:Marhaši[1]GNsux:kur[mountain]N sux:Marhaši[1]GN sux:na[stone]Nsux:kur[mountain]N sux:Marhaši[1]GN sux:na[stone]N sux:kal[rare]V/isux:kur[mountain]N sux:Marhaši[1]GN sux:na[stone]N sux:kal[rare]V/i sux:dušia[stone]N
-c.1.1.1,Enki and Ninhursaŋa,,49G,sux:gaba[chest]Nsux:gaba[chest]N
-c.1.1.1,Enki and Ninhursaŋa,,49H,sux:kur[mountain]Nsux:kur[mountain]N sux:Magan[1]GNsux:kur[mountain]N sux:Magan[1]GN sux:urud[copper]Nsux:kur[mountain]N sux:Magan[1]GN sux:urud[copper]N sux:niŋ[thing]Nsux:kur[mountain]N sux:Magan[1]GN sux:urud[copper]N sux:niŋ[thing]N sux:kalag[strong]V/isux:kur[mountain]N sux:Magan[1]GN sux:urud[copper]N sux:niŋ[thing]N sux:kalag[strong]V/i sux:usu[strength]N
-c.1.1.1,Enki and Ninhursaŋa,,49I,sux:esi[diorite]Nsux:esi[diorite]N sux:U[stone]Nsux:esi[diorite]N sux:U[stone]N sux:šumin[stone]Nsux:esi[diorite]N sux:U[stone]N sux:šumin[stone]N
-c.1.1.1,Enki and Ninhursaŋa,,49K,sux:kur[mountain]Nsux:kur[mountain]N sux:Abba[1]GNsux:kur[mountain]N sux:Abba[1]GN sux:esi[tree]Nsux:kur[mountain]N sux:Abba[1]GN sux:esi[tree]N sux:mete[appropriate-thing]Nsux:kur[mountain]N sux:Abba[1]GN sux:esi[tree]N sux:mete[appropriate-thing]Nsux:kur[mountain]N sux:Abba[1]GN sux:esi[tree]N sux:mete[appropriate-thing]N sux:lugal[king]Nsux:kur[mountain]N sux:Abba[1]GN sux:esi[tree]N sux:mete[appropriate-thing]N sux:lugal[king]Nsux:kur[mountain]N sux:Abba[1]GN sux:esi[tree]N sux:mete[appropriate-thing]N sux:lugal[king]N
-c.1.1.1,Enki and Ninhursaŋa,,49L,sux:kur[mountain]Nsux:kur[mountain]N sux:Tentland[1]GNsux:kur[mountain]N sux:Tentland[1]GN sux:siki[hair]Nsux:kur[mountain]N sux:Tentland[1]GN sux:siki[hair]N sux:gunu[speckled]V/isux:kur[mountain]N sux:Tentland[1]GN sux:siki[hair]N sux:gunu[speckled]V/i sux:sag[good]V/isux:kur[mountain]N sux:Tentland[1]GN sux:siki[hair]N sux:gunu[speckled]V/i sux:sag[good]V/isux:kur[mountain]N sux:Tentland[1]GN sux:siki[hair]N sux:gunu[speckled]V/i sux:sag[good]V/i
-c.1.1.1,Enki and Ninhursaŋa,,49M,sux:kur[mountain]Nsux:kur[mountain]N sux:Elam[1]GNsux:kur[mountain]N sux:Elam[1]GN sux:siki[hair]Nsux:kur[mountain]N sux:Elam[1]GN sux:siki[hair]N sux:igi[eye]Nsux:kur[mountain]N sux:Elam[1]GN sux:siki[hair]N sux:igi[eye]N sux:saŋ[choose]V/tsux:kur[mountain]N sux:Elam[1]GN sux:siki[hair]N sux:igi[eye]N sux:saŋ[choose]V/t sux:gun[load]Nsux:kur[mountain]N sux:Elam[1]GN sux:siki[hair]N sux:igi[eye]N sux:saŋ[choose]V/t sux:gun[load]N sux:bala[turn]V/t
-c.1.1.1,Enki and Ninhursaŋa,,49N,sux:eš[shrine]Nsux:eš[shrine]N sux:Urim[1]SNsux:eš[shrine]N sux:Urim[1]SN sux:barag[sanctum]Nsux:eš[shrine]N sux:Urim[1]SN sux:barag[sanctum]N sux:namlugal[kingship]Nsux:eš[shrine]N sux:Urim[1]SN sux:barag[sanctum]N sux:namlugal[kingship]N sux:iri[city]Nsux:eš[shrine]N sux:Urim[1]SN sux:barag[sanctum]N sux:namlugal[kingship]N sux:iri[city]N
-c.1.1.1,Enki and Ninhursaŋa,,49O,sux:ŋeši[sesame]Nsux:ŋeši[sesame]N sux:tug[textile]Nsux:ŋeši[sesame]N sux:tug[textile]N sux:mah[great]V/isux:ŋeši[sesame]N sux:tug[textile]N sux:mah[great]V/i sux:tug[textile]Nsux:ŋeši[sesame]N sux:tug[textile]N sux:mah[great]V/i sux:tug[textile]N sux:sag[rare]V/isux:ŋeši[sesame]N sux:tug[textile]N sux:mah[great]V/i sux:tug[textile]N sux:sag[rare]V/i sux:ma[ship]Nsux:ŋeši[sesame]N sux:tug[textile]N sux:mah[great]V/i sux:tug[textile]N sux:sag[rare]V/i sux:ma[ship]N sux:gal[big]V/isux:ŋeši[sesame]N sux:tug[textile]N sux:mah[great]V/i sux:tug[textile]N sux:sag[rare]V/i sux:ma[ship]N sux:gal[big]V/i sux:sa[equal]V/t
-c.1.1.1,Enki and Ninhursaŋa,,49P,sux:aʾabak[sea]Nsux:aʾabak[sea]N sux:daŋal[wide]V/isux:aʾabak[sea]N sux:daŋal[wide]V/i sux:heŋal[plenty]Nsux:aʾabak[sea]N sux:daŋal[wide]V/i sux:heŋal[plenty]N
-c.1.1.1,Enki and Ninhursaŋa,,49Q,sux:iri[city]Nsux:iri[city]N sux:kituš[dwelling]Nsux:iri[city]N sux:kituš[dwelling]N sux:kituš[dwelling]Nsux:iri[city]N sux:kituš[dwelling]N sux:kituš[dwelling]N sux:dug[good]V/i
-c.1.1.1,Enki and Ninhursaŋa,,49R,sux:Dilmun[1]GNsux:Dilmun[1]GN sux:kituš[dwelling]Nsux:Dilmun[1]GN sux:kituš[dwelling]N sux:kituš[dwelling]Nsux:Dilmun[1]GN sux:kituš[dwelling]N sux:kituš[dwelling]N sux:dug[good]V/i
-c.1.1.1,Enki and Ninhursaŋa,,49S,sux:še[barley]Nsux:še[barley]N sux:še[barley]Nsux:še[barley]N sux:še[barley]N sux:didila[smaller]V/i
-c.1.1.1,Enki and Ninhursaŋa,,49T,sux:zulum[date]Nsux:zulum[date]N sux:zulum[date]Nsux:zulum[date]N sux:zulum[date]N sux:gal[big]V/i
-c.1.1.1,Enki and Ninhursaŋa,,49U,sux:buru[harvest]Nsux:buru[harvest]N sux:3[3]NUsux:buru[harvest]N sux:3[3]NU
-c.1.1.1,Enki and Ninhursaŋa,,49V,sux:ŋeš[tree]Nsux:ŋeš[tree]N sux:ŋeš[tree]Nsux:ŋeš[tree]N sux:ŋeš[tree]Nsux:ŋeš[tree]N sux:ŋeš[tree]Nsux:ŋeš[tree]N sux:ŋeš[tree]N
-c.1.1.1,Enki and Ninhursaŋa,,50,sux:ineš[now]MAsux:ineš[now]MA sux:Utu[1]DNsux:ineš[now]MA sux:Utu[1]DN sux:ud[sun]Nsux:ineš[now]MA sux:Utu[1]DN sux:ud[sun]N sux:nen[this]DP
-c.1.1.1,Enki and Ninhursaŋa,,51,sux:Utu[1]DNsux:Utu[1]DN sux:an[sky]Nsux:Utu[1]DN sux:an[sky]N sux:gub[stand]V/i
-c.1.1.1,Enki and Ninhursaŋa,,52,sux:gir[jar]Nsux:gir[jar]N sux:DU[DU]Vsux:gir[jar]N sux:DU[DU]V sux:gaba[chest]Nsux:gir[jar]N sux:DU[DU]V sux:gaba[chest]N sux:EZEN[1]GN
-c.1.1.1,Enki and Ninhursaŋa,,53,sux:suhur[~temple]Nsux:suhur[~temple]N sux:simuš[brilliance]Nsux:suhur[~temple]N sux:simuš[brilliance]N sux:Nanna[1]DN
-c.1.1.1,Enki and Ninhursaŋa,,54,sux:kag[mouth]Nsux:kag[mouth]N sux:a[water]Nsux:kag[mouth]N sux:a[water]N sux:ki[place]Nsux:kag[mouth]N sux:a[water]N sux:ki[place]N sux:DU[DU]Vsux:kag[mouth]N sux:a[water]N sux:ki[place]N sux:DU[DU]V sux:a[water]Nsux:kag[mouth]N sux:a[water]N sux:ki[place]N sux:DU[DU]V sux:a[water]N sux:dug[good]V/isux:kag[mouth]N sux:a[water]N sux:ki[place]N sux:DU[DU]V sux:a[water]N sux:dug[good]V/i sux:ki[place]Nsux:kag[mouth]N sux:a[water]N sux:ki[place]N sux:DU[DU]V sux:a[water]N sux:dug[good]V/i sux:ki[place]N sux:DU[DU]V
-c.1.1.1,Enki and Ninhursaŋa,,55,sux:ŋiriman[basin]Nsux:ŋiriman[basin]N sux:gal[big]V/isux:ŋiriman[basin]N sux:gal[big]V/i sux:a[water]Nsux:ŋiriman[basin]N sux:gal[big]V/i sux:a[water]N sux:ed[ascend]V/i
-c.1.1.1,Enki and Ninhursaŋa,,56,sux:iri[city]Nsux:iri[city]N sux:a[water]Nsux:iri[city]N sux:a[water]N sux:heŋal[plenty]Nsux:iri[city]N sux:a[water]N sux:heŋal[plenty]N sux:naŋ[drink]V/t
-c.1.1.1,Enki and Ninhursaŋa,,57,sux:Dilmun[1]GNsux:Dilmun[1]GN sux:a[water]Nsux:Dilmun[1]GN sux:a[water]N sux:heŋal[plenty]Nsux:Dilmun[1]GN sux:a[water]N sux:heŋal[plenty]N sux:naŋ[drink]V/t
-c.1.1.1,Enki and Ninhursaŋa,,58,sux:pu[well]Nsux:pu[well]N sux:a[water]Nsux:pu[well]N sux:a[water]N sux:ses[bitter]V/isux:pu[well]N sux:a[water]N sux:ses[bitter]V/i sux:pu[well]Nsux:pu[well]N sux:a[water]N sux:ses[bitter]V/i sux:pu[well]N sux:a[water]Nsux:pu[well]N sux:a[water]N sux:ses[bitter]V/i sux:pu[well]N sux:a[water]N sux:dug[good]V/isux:pu[well]N sux:a[water]N sux:ses[bitter]V/i sux:pu[well]N sux:a[water]N sux:dug[good]V/i sux:me[be]V/i
-c.1.1.1,Enki and Ninhursaŋa,,59,sux:ašag[field]Nsux:ašag[field]N sux:agar[meadow]Nsux:ašag[field]N sux:agar[meadow]N sux:absin[furrow]Nsux:ašag[field]N sux:agar[meadow]N sux:absin[furrow]N sux:še[barley]Nsux:ašag[field]N sux:agar[meadow]N sux:absin[furrow]N sux:še[barley]N sux:šum[give]V/t
-c.1.1.1,Enki and Ninhursaŋa,,60,sux:iri[city]Nsux:iri[city]N sux:egun[storeroom]Nsux:iri[city]N sux:egun[storeroom]N sux:kar[harbor]Nsux:iri[city]N sux:egun[storeroom]N sux:kar[harbor]N sux:kalam[land]Nsux:iri[city]N sux:egun[storeroom]N sux:kar[harbor]N sux:kalam[land]N sux:me[be]V/i
-c.1.1.1,Enki and Ninhursaŋa,,61,sux:Dilmun[1]GNsux:Dilmun[1]GN sux:egun[storeroom]Nsux:Dilmun[1]GN sux:egun[storeroom]N sux:kar[harbor]Nsux:Dilmun[1]GN sux:egun[storeroom]N sux:kar[harbor]N sux:kalam[land]Nsux:Dilmun[1]GN sux:egun[storeroom]N sux:kar[harbor]N sux:kalam[land]N sux:me[be]V/i
-c.1.1.1,Enki and Ninhursaŋa,,62,sux:ineš[now]MAsux:ineš[now]MA sux:Utu[1]DNsux:ineš[now]MA sux:Utu[1]DN sux:ud[sun]Nsux:ineš[now]MA sux:Utu[1]DN sux:ud[sun]N sux:nen[this]DPsux:ineš[now]MA sux:Utu[1]DN sux:ud[sun]N sux:nen[this]DP sux:ur[he]IPsux:ineš[now]MA sux:Utu[1]DN sux:ud[sun]N sux:nen[this]DP sux:ur[he]IP sux:me[be]V/i
-c.1.1.1,Enki and Ninhursaŋa,,63,sux:dili[single]V/isux:dili[single]V/i sux:ŋeštug[ear]Nsux:dili[single]V/i sux:ŋeštug[ear]N sux:tuku[acquire]V/tsux:dili[single]V/i sux:ŋeštug[ear]N sux:tuku[acquire]V/t sux:Nintur[1]DNsux:dili[single]V/i sux:ŋeštug[ear]N sux:tuku[acquire]V/t sux:Nintur[1]DN sux:ama[mother]Nsux:dili[single]V/i sux:ŋeštug[ear]N sux:tuku[acquire]V/t sux:Nintur[1]DN sux:ama[mother]N sux:kalam[land]N
-c.1.1.1,Enki and Ninhursaŋa,,64,sux:Enki[1]DNsux:Enki[1]DN sux:ŋeštug[ear]Nsux:Enki[1]DN sux:ŋeštug[ear]N sux:tuku[acquire]V/tsux:Enki[1]DN sux:ŋeštug[ear]N sux:tuku[acquire]V/t sux:Nintur[1]DNsux:Enki[1]DN sux:ŋeštug[ear]N sux:tuku[acquire]V/t sux:Nintur[1]DN sux:ama[mother]Nsux:Enki[1]DN sux:ŋeštug[ear]N sux:tuku[acquire]V/t sux:Nintur[1]DN sux:ama[mother]N sux:kalam[land]N
-c.1.1.1,Enki and Ninhursaŋa,,65,sux:ŋeš[penis]Nsux:ŋeš[penis]N sux:eg[levee]Nsux:ŋeš[penis]N sux:eg[levee]N sux:dun[dig]V/t
-c.1.1.1,Enki and Ninhursaŋa,,66,sux:ŋeš[penis]Nsux:ŋeš[penis]N sux:gi[reed]Nsux:ŋeš[penis]N sux:gi[reed]N sux:gir[slip]V/isux:ŋeš[penis]N sux:gi[reed]N sux:gir[slip]V/i sux:gir[slip]V/i
-c.1.1.1,Enki and Ninhursaŋa,,67,sux:ŋeš[penis]Nsux:ŋeš[penis]N sux:bar[outside]V/tsux:ŋeš[penis]N sux:bar[outside]V/t sux:mah[great]V/isux:ŋeš[penis]N sux:bar[outside]V/t sux:mah[great]V/i sux:zig[rise]V/t
-c.1.1.1,Enki and Ninhursaŋa,,68,sux:gu[voice]Nsux:gu[voice]N sux:de[pour]V/tsux:gu[voice]N sux:de[pour]V/t sux:ambar[reed-bed]Nsux:gu[voice]N sux:de[pour]V/t sux:ambar[reed-bed]N sux:lu[person]Nsux:gu[voice]N sux:de[pour]V/t sux:ambar[reed-bed]N sux:lu[person]N sux:dab[seize]V/t
-c.1.1.1,Enki and Ninhursaŋa,,69,sux:Enki[1]DNsux:Enki[1]DN sux:gu[voice]Nsux:Enki[1]DN sux:gu[voice]N sux:de[pour]V/t
-c.1.1.1,Enki and Ninhursaŋa,,70,sux:zi[life]Nsux:zi[life]N sux:an[sky]Nsux:zi[life]N sux:an[sky]N sux:pad[find]V/t
-c.1.1.1,Enki and Ninhursaŋa,,71,sux:nud[lie]V/isux:nud[lie]V/i sux:ambar[reed-bed]Nsux:nud[lie]V/i sux:ambar[reed-bed]N sux:nud[lie]V/isux:nud[lie]V/i sux:ambar[reed-bed]N sux:nud[lie]V/i sux:ambar[reed-bed]Nsux:nud[lie]V/i sux:ambar[reed-bed]N sux:nud[lie]V/i sux:ambar[reed-bed]N sux:kirizal[joy]N
-c.1.1.1,Enki and Ninhursaŋa,,72,sux:Enki[1]DNsux:Enki[1]DN sux:a[water]Nsux:Enki[1]DN sux:a[water]N sux:Damgalnunak[1]DNsux:Enki[1]DN sux:a[water]N sux:Damgalnunak[1]DN sux:dug[speak]V/t
-c.1.1.1,Enki and Ninhursaŋa,,73,sux:Ninhursaŋak[1]DNsux:Ninhursaŋak[1]DN sux:a[water]Nsux:Ninhursaŋak[1]DN sux:a[water]N sux:šag[heart]Nsux:Ninhursaŋak[1]DN sux:a[water]N sux:šag[heart]N sux:ri[impose]V/t
-c.1.1.1,Enki and Ninhursaŋa,,74,sux:a[water]Nsux:a[water]N sux:šag[heart]Nsux:a[water]N sux:šag[heart]N sux:šu[hand]Nsux:a[water]N sux:šag[heart]N sux:šu[hand]N sux:teŋ[approach]V/isux:a[water]N sux:šag[heart]N sux:šu[hand]N sux:teŋ[approach]V/i sux:a[water]Nsux:a[water]N sux:šag[heart]N sux:šu[hand]N sux:teŋ[approach]V/i sux:a[water]N sux:Enki[1]DN
-c.1.1.1,Enki and Ninhursaŋa,,75,sux:ud[sun]Nsux:ud[sun]N sux:1[1]NUsux:ud[sun]N sux:1[1]NU sux:itud[moon]Nsux:ud[sun]N sux:1[1]NU sux:itud[moon]N sux:1[1]NU
-c.1.1.1,Enki and Ninhursaŋa,,76,sux:ud[sun]Nsux:ud[sun]N sux:2[2]NUsux:ud[sun]N sux:2[2]NU sux:itud[moon]Nsux:ud[sun]N sux:2[2]NU sux:itud[moon]N sux:2[2]NU
-c.1.1.1,Enki and Ninhursaŋa,,77,sux:ud[sun]Nsux:ud[sun]N sux:3[3]NUsux:ud[sun]N sux:3[3]NU sux:itud[moon]Nsux:ud[sun]N sux:3[3]NU sux:itud[moon]N sux:3[3]NU
-c.1.1.1,Enki and Ninhursaŋa,,78,sux:ud[sun]Nsux:ud[sun]N sux:4[4]NUsux:ud[sun]N sux:4[4]NU sux:itud[moon]Nsux:ud[sun]N sux:4[4]NU sux:itud[moon]N sux:4[4]NU
-c.1.1.1,Enki and Ninhursaŋa,,79,sux:ud[sun]Nsux:ud[sun]N sux:5[5]NUsux:ud[sun]N sux:5[5]NU sux:itud[moon]Nsux:ud[sun]N sux:5[5]NU sux:itud[moon]N sux:5[5]NU
-c.1.1.1,Enki and Ninhursaŋa,,80,sux:ud[sun]Nsux:ud[sun]N sux:6[6]NUsux:ud[sun]N sux:6[6]NU sux:itud[moon]Nsux:ud[sun]N sux:6[6]NU sux:itud[moon]N sux:6[6]NU
-c.1.1.1,Enki and Ninhursaŋa,,81,sux:ud[sun]Nsux:ud[sun]N sux:7[7]NUsux:ud[sun]N sux:7[7]NU sux:itud[moon]Nsux:ud[sun]N sux:7[7]NU sux:itud[moon]N sux:7[7]NU
-c.1.1.1,Enki and Ninhursaŋa,,82,sux:ud[sun]Nsux:ud[sun]N sux:8[8]NUsux:ud[sun]N sux:8[8]NU sux:itud[moon]Nsux:ud[sun]N sux:8[8]NU sux:itud[moon]N sux:8[8]NU
-c.1.1.1,Enki and Ninhursaŋa,,83,sux:ud[sun]Nsux:ud[sun]N sux:9[9]NUsux:ud[sun]N sux:9[9]NU sux:itud[moon]Nsux:ud[sun]N sux:9[9]NU sux:itud[moon]N sux:9[9]NUsux:ud[sun]N sux:9[9]NU sux:itud[moon]N sux:9[9]NU sux:itud[moon]Nsux:ud[sun]N sux:9[9]NU sux:itud[moon]N sux:9[9]NU sux:itud[moon]N sux:nammunus[femininity]N
-c.1.1.1,Enki and Ninhursaŋa,,84,sux:i[oil]Nsux:i[oil]N sux:li[rich]V/isux:i[oil]N sux:li[rich]V/i sux:i[oil]Nsux:i[oil]N sux:li[rich]V/i sux:i[oil]N sux:li[rich]V/isux:i[oil]N sux:li[rich]V/i sux:i[oil]N sux:li[rich]V/i sux:ihenunak[oil]N
-c.1.1.1,Enki and Ninhursaŋa,,85,sux:Nintur[1]DNsux:Nintur[1]DN sux:ama[mother]Nsux:Nintur[1]DN sux:ama[mother]N sux:kalam[land]N
-c.1.1.1,Enki and Ninhursaŋa,,86,sux:i[oil]Nsux:i[oil]N sux:li[rich]V/i
-c.1.1.1,Enki and Ninhursaŋa,,87,sux:Ninnisig[1]DNsux:Ninnisig[1]DN sux:utud[bear]V/t
-c.1.1.1,Enki and Ninhursaŋa,,88,sux:Ninnisig[1]DNsux:Ninnisig[1]DN sux:gu[neck]Nsux:Ninnisig[1]DN sux:gu[neck]N sux:id[river]Nsux:Ninnisig[1]DN sux:gu[neck]N sux:id[river]N sux:e[leave]V/i
-c.1.1.1,Enki and Ninhursaŋa,,89,sux:Enki[1]DNsux:Enki[1]DN sux:ambar[reed-bed]Nsux:Enki[1]DN sux:ambar[reed-bed]N sux:la[hang]V/tsux:Enki[1]DN sux:ambar[reed-bed]N sux:la[hang]V/t sux:ane[he]IPsux:Enki[1]DN sux:ambar[reed-bed]N sux:la[hang]V/t sux:ane[he]IP sux:la[hang]V/tsux:Enki[1]DN sux:ambar[reed-bed]N sux:la[hang]V/t sux:ane[he]IP sux:la[hang]V/t sux:ane[he]IP
-c.1.1.1,Enki and Ninhursaŋa,,90,sux:sukkal[secretary]Nsux:sukkal[secretary]N sux:Isimud[1]DNsux:sukkal[secretary]N sux:Isimud[1]DN sux:gu[voice]Nsux:sukkal[secretary]N sux:Isimud[1]DN sux:gu[voice]N sux:de[pour]V/t
-c.1.1.1,Enki and Ninhursaŋa,,91,sux:lutur[child]Nsux:lutur[child]N sux:sag[good]V/isux:lutur[child]N sux:sag[good]V/i sux:ne[cvne]Nsux:lutur[child]N sux:sag[good]V/i sux:ne[cvne]N sux:sub[rub]V/t
-c.1.1.1,Enki and Ninhursaŋa,,92,sux:Ninnisig[1]DNsux:Ninnisig[1]DN sux:sag[good]V/isux:Ninnisig[1]DN sux:sag[good]V/i sux:ne[cvne]Nsux:Ninnisig[1]DN sux:sag[good]V/i sux:ne[cvne]N sux:sub[rub]V/t
-c.1.1.1,Enki and Ninhursaŋa,,93,sux:sukkal[secretary]Nsux:sukkal[secretary]N sux:Isimud[1]DNsux:sukkal[secretary]N sux:Isimud[1]DN sux:gi[turn]V/i
-c.1.1.1,Enki and Ninhursaŋa,,94,sux:lutur[child]Nsux:lutur[child]N sux:sag[good]V/isux:lutur[child]N sux:sag[good]V/i sux:ne[cvne]Nsux:lutur[child]N sux:sag[good]V/i sux:ne[cvne]N sux:sub[rub]V/t
-c.1.1.1,Enki and Ninhursaŋa,,95,sux:Ninnisig[1]DNsux:Ninnisig[1]DN sux:sag[good]V/isux:Ninnisig[1]DN sux:sag[good]V/i sux:ne[cvne]Nsux:Ninnisig[1]DN sux:sag[good]V/i sux:ne[cvne]N sux:sub[rub]V/t
-c.1.1.1,Enki and Ninhursaŋa,,96,sux:lugal[king]Nsux:lugal[king]N sux:dirig[float]V/isux:lugal[king]N sux:dirig[float]V/i sux:ri[impose]V/tsux:lugal[king]N sux:dirig[float]V/i sux:ri[impose]V/t sux:dirig[float]V/isux:lugal[king]N sux:dirig[float]V/i sux:ri[impose]V/t sux:dirig[float]V/i sux:ri[impose]V/t
-c.1.1.1,Enki and Ninhursaŋa,,97,sux:ŋiri[foot]Nsux:ŋiri[foot]N sux:1[1]NUsux:ŋiri[foot]N sux:1[1]NU sux:ma[ship]Nsux:ŋiri[foot]N sux:1[1]NU sux:ma[ship]N sux:gub[stand]V/i
-c.1.1.1,Enki and Ninhursaŋa,,98,sux:2-kam-ma[2nd]NUsux:2-kam-ma[2nd]NU sux:barim[land]Nsux:2-kam-ma[2nd]NU sux:barim[land]N sux:gub[stand]V/i
-c.1.1.1,Enki and Ninhursaŋa,,99,sux:gaba[chest]Nsux:gaba[chest]N sux:tab[double]V/tsux:gaba[chest]N sux:tab[double]V/t sux:ne[cvne]Nsux:gaba[chest]N sux:tab[double]V/t sux:ne[cvne]N sux:sub[rub]V/t
-c.1.1.1,Enki and Ninhursaŋa,,100,sux:Enki[1]DNsux:Enki[1]DN sux:a[water]Nsux:Enki[1]DN sux:a[water]N sux:šag[heart]Nsux:Enki[1]DN sux:a[water]N sux:šag[heart]N sux:ri[impose]V/t
-c.1.1.1,Enki and Ninhursaŋa,,101,sux:a[water]Nsux:a[water]N sux:šag[heart]Nsux:a[water]N sux:šag[heart]N sux:šu[hand]Nsux:a[water]N sux:šag[heart]N sux:šu[hand]N sux:teŋ[approach]V/isux:a[water]N sux:šag[heart]N sux:šu[hand]N sux:teŋ[approach]V/i sux:a[water]Nsux:a[water]N sux:šag[heart]N sux:šu[hand]N sux:teŋ[approach]V/i sux:a[water]N sux:Enki[1]DN
-c.1.1.1,Enki and Ninhursaŋa,,102,sux:ud[sun]Nsux:ud[sun]N sux:1[1]NUsux:ud[sun]N sux:1[1]NU sux:itud[moon]Nsux:ud[sun]N sux:1[1]NU sux:itud[moon]N sux:1[1]NU
-c.1.1.1,Enki and Ninhursaŋa,,103,sux:ud[sun]Nsux:ud[sun]N sux:2[2]NUsux:ud[sun]N sux:2[2]NU sux:itud[moon]Nsux:ud[sun]N sux:2[2]NU sux:itud[moon]N sux:2[2]NU
-c.1.1.1,Enki and Ninhursaŋa,,104,sux:ud[sun]Nsux:ud[sun]N sux:9[9]NUsux:ud[sun]N sux:9[9]NU sux:itud[moon]Nsux:ud[sun]N sux:9[9]NU sux:itud[moon]N sux:9[9]NUsux:ud[sun]N sux:9[9]NU sux:itud[moon]N sux:9[9]NU sux:itud[moon]Nsux:ud[sun]N sux:9[9]NU sux:itud[moon]N sux:9[9]NU sux:itud[moon]N sux:nammunus[femininity]N
-c.1.1.1,Enki and Ninhursaŋa,,105,sux:i[oil]Nsux:i[oil]N sux:li[rich]V/isux:i[oil]N sux:li[rich]V/i sux:i[oil]Nsux:i[oil]N sux:li[rich]V/i sux:i[oil]N sux:li[rich]V/isux:i[oil]N sux:li[rich]V/i sux:i[oil]N sux:li[rich]V/i sux:ihenunak[oil]N
-c.1.1.1,Enki and Ninhursaŋa,,106,sux:Ninnisig[1]DNsux:Ninnisig[1]DN sux:i[oil]Nsux:Ninnisig[1]DN sux:i[oil]N sux:li[rich]V/isux:Ninnisig[1]DN sux:i[oil]N sux:li[rich]V/i sux:i[oil]Nsux:Ninnisig[1]DN sux:i[oil]N sux:li[rich]V/i sux:i[oil]N sux:li[rich]V/isux:Ninnisig[1]DN sux:i[oil]N sux:li[rich]V/i sux:i[oil]N sux:li[rich]V/i sux:ihenunak[oil]N
-c.1.1.1,Enki and Ninhursaŋa,,107,sux:Ninkurak[1]DNsux:Ninkurak[1]DN sux:utud[bear]V/t
-c.1.1.1,Enki and Ninhursaŋa,,108,sux:Ninkurak[1]DNsux:Ninkurak[1]DN sux:gu[neck]Nsux:Ninkurak[1]DN sux:gu[neck]N sux:id[river]Nsux:Ninkurak[1]DN sux:gu[neck]N sux:id[river]N sux:e[leave]V/i
-c.1.1.1,Enki and Ninhursaŋa,,109,sux:Enki[1]DNsux:Enki[1]DN sux:ambar[reed-bed]Nsux:Enki[1]DN sux:ambar[reed-bed]N sux:la[hang]V/tsux:Enki[1]DN sux:ambar[reed-bed]N sux:la[hang]V/t sux:ane[he]IPsux:Enki[1]DN sux:ambar[reed-bed]N sux:la[hang]V/t sux:ane[he]IP sux:la[hang]V/tsux:Enki[1]DN sux:ambar[reed-bed]N sux:la[hang]V/t sux:ane[he]IP sux:la[hang]V/t sux:ane[he]IP
-c.1.1.1,Enki and Ninhursaŋa,,110,sux:sukkal[secretary]Nsux:sukkal[secretary]N sux:Isimud[1]DNsux:sukkal[secretary]N sux:Isimud[1]DN sux:gu[voice]Nsux:sukkal[secretary]N sux:Isimud[1]DN sux:gu[voice]N sux:de[pour]V/t
-c.1.1.1,Enki and Ninhursaŋa,,111,sux:lutur[child]Nsux:lutur[child]N sux:sag[good]V/isux:lutur[child]N sux:sag[good]V/i sux:ne[cvne]Nsux:lutur[child]N sux:sag[good]V/i sux:ne[cvne]N sux:sub[rub]V/t
-c.1.1.1,Enki and Ninhursaŋa,,112,sux:Ninkurak[1]DNsux:Ninkurak[1]DN sux:sag[good]V/isux:Ninkurak[1]DN sux:sag[good]V/i sux:ne[cvne]Nsux:Ninkurak[1]DN sux:sag[good]V/i sux:ne[cvne]N sux:sub[rub]V/t
-c.1.1.1,Enki and Ninhursaŋa,,113,sux:sukkal[secretary]Nsux:sukkal[secretary]N sux:Isimud[1]DNsux:sukkal[secretary]N sux:Isimud[1]DN sux:gi[turn]V/i
-c.1.1.1,Enki and Ninhursaŋa,,114,sux:lutur[child]Nsux:lutur[child]N sux:sag[good]V/isux:lutur[child]N sux:sag[good]V/i sux:ne[cvne]Nsux:lutur[child]N sux:sag[good]V/i sux:ne[cvne]N sux:sub[rub]V/t
-c.1.1.1,Enki and Ninhursaŋa,,115,sux:Ninkurak[1]DNsux:Ninkurak[1]DN sux:sag[good]V/isux:Ninkurak[1]DN sux:sag[good]V/i sux:ne[cvne]Nsux:Ninkurak[1]DN sux:sag[good]V/i sux:ne[cvne]N sux:sub[rub]V/t
-c.1.1.1,Enki and Ninhursaŋa,,116,sux:lugal[king]Nsux:lugal[king]N sux:dirig[float]V/isux:lugal[king]N sux:dirig[float]V/i sux:ri[impose]V/tsux:lugal[king]N sux:dirig[float]V/i sux:ri[impose]V/t sux:dirig[float]V/isux:lugal[king]N sux:dirig[float]V/i sux:ri[impose]V/t sux:dirig[float]V/i sux:ri[impose]V/t
-c.1.1.1,Enki and Ninhursaŋa,,117,sux:ŋiri[foot]Nsux:ŋiri[foot]N sux:1[1]NUsux:ŋiri[foot]N sux:1[1]NU sux:ma[ship]Nsux:ŋiri[foot]N sux:1[1]NU sux:ma[ship]N sux:gub[stand]V/i
-c.1.1.1,Enki and Ninhursaŋa,,118,sux:2-kam-ma[2nd]NUsux:2-kam-ma[2nd]NU sux:barim[land]Nsux:2-kam-ma[2nd]NU sux:barim[land]N sux:gub[stand]V/i
-c.1.1.1,Enki and Ninhursaŋa,,119,sux:gaba[chest]Nsux:gaba[chest]N sux:tab[double]V/tsux:gaba[chest]N sux:tab[double]V/t sux:ne[cvne]Nsux:gaba[chest]N sux:tab[double]V/t sux:ne[cvne]N sux:sub[rub]V/t
-c.1.1.1,Enki and Ninhursaŋa,,120,sux:Enki[1]DNsux:Enki[1]DN sux:a[water]Nsux:Enki[1]DN sux:a[water]N sux:šag[heart]Nsux:Enki[1]DN sux:a[water]N sux:šag[heart]N sux:ri[impose]V/t
-c.1.1.1,Enki and Ninhursaŋa,,121,sux:a[water]Nsux:a[water]N sux:šag[heart]Nsux:a[water]N sux:šag[heart]N sux:šu[hand]Nsux:a[water]N sux:šag[heart]N sux:šu[hand]N sux:teŋ[approach]V/isux:a[water]N sux:šag[heart]N sux:šu[hand]N sux:teŋ[approach]V/i sux:a[water]Nsux:a[water]N sux:šag[heart]N sux:šu[hand]N sux:teŋ[approach]V/i sux:a[water]N sux:Enki[1]DN
-c.1.1.1,Enki and Ninhursaŋa,,122,sux:ud[sun]Nsux:ud[sun]N sux:1[1]NUsux:ud[sun]N sux:1[1]NU sux:itud[moon]Nsux:ud[sun]N sux:1[1]NU sux:itud[moon]N sux:1[1]NU
-c.1.1.1,Enki and Ninhursaŋa,,123,sux:ud[sun]Nsux:ud[sun]N sux:9[9]NUsux:ud[sun]N sux:9[9]NU sux:itud[moon]Nsux:ud[sun]N sux:9[9]NU sux:itud[moon]N sux:9[9]NUsux:ud[sun]N sux:9[9]NU sux:itud[moon]N sux:9[9]NU sux:itud[moon]Nsux:ud[sun]N sux:9[9]NU sux:itud[moon]N sux:9[9]NU sux:itud[moon]N sux:nammunus[femininity]N
-c.1.1.1,Enki and Ninhursaŋa,,124,sux:i[oil]Nsux:i[oil]N sux:li[rich]V/isux:i[oil]N sux:li[rich]V/i sux:i[oil]Nsux:i[oil]N sux:li[rich]V/i sux:i[oil]N sux:li[rich]V/isux:i[oil]N sux:li[rich]V/i sux:i[oil]N sux:li[rich]V/i sux:ihenunak[oil]N
-c.1.1.1,Enki and Ninhursaŋa,,125,sux:Ninkurak[1]DNsux:Ninkurak[1]DN sux:i[oil]Nsux:Ninkurak[1]DN sux:i[oil]N sux:li[rich]V/isux:Ninkurak[1]DN sux:i[oil]N sux:li[rich]V/i sux:i[oil]Nsux:Ninkurak[1]DN sux:i[oil]N sux:li[rich]V/i sux:i[oil]N sux:li[rich]V/isux:Ninkurak[1]DN sux:i[oil]N sux:li[rich]V/i sux:i[oil]N sux:li[rich]V/i sux:ihenunak[oil]N
-c.1.1.1,Enki and Ninhursaŋa,,126,sux:Uttu[1]DNsux:Uttu[1]DN sux:munus[woman]Nsux:Uttu[1]DN sux:munus[woman]N sux:buluŋ[grow]V/tsux:Uttu[1]DN sux:munus[woman]N sux:buluŋ[grow]V/t sux:utud[bear]V/t
-c.1.1.1,Enki and Ninhursaŋa,,126A,sux:Ninkurak[1]DNsux:Ninkurak[1]DN sux:Ninimma[1]DNsux:Ninkurak[1]DN sux:Ninimma[1]DN sux:utud[bear]V/t
-c.1.1.1,Enki and Ninhursaŋa,,126B,sux:lutur[child]Nsux:lutur[child]N sux:buluŋ[grow]V/tsux:lutur[child]N sux:buluŋ[grow]V/t sux:ul[swell]V/isux:lutur[child]N sux:buluŋ[grow]V/t sux:ul[swell]V/i sux:teŋ[approach]V/i
-c.1.1.1,Enki and Ninhursaŋa,,126C,sux:Ninimma[1]DNsux:Ninimma[1]DN sux:gu[neck]Nsux:Ninimma[1]DN sux:gu[neck]N sux:id[river]Nsux:Ninimma[1]DN sux:gu[neck]N sux:id[river]N
-c.1.1.1,Enki and Ninhursaŋa,,126D,sux:Enki[1]DNsux:Enki[1]DN sux:ma[ship]Nsux:Enki[1]DN sux:ma[ship]N sux:gid[long]V/isux:Enki[1]DN sux:ma[ship]N sux:gid[long]V/i sux:la[hang]V/tsux:Enki[1]DN sux:ma[ship]N sux:gid[long]V/i sux:la[hang]V/tsux:Enki[1]DN sux:ma[ship]N sux:gid[long]V/i sux:la[hang]V/t
-c.1.1.1,Enki and Ninhursaŋa,,126E,sux:Ninimma[1]DNsux:Ninimma[1]DN sux:gu[neck]Nsux:Ninimma[1]DN sux:gu[neck]N sux:id[river]Nsux:Ninimma[1]DN sux:gu[neck]N sux:id[river]N sux:igi[eye]Nsux:Ninimma[1]DN sux:gu[neck]N sux:id[river]N sux:igi[eye]N
-c.1.1.1,Enki and Ninhursaŋa,,126F,sux:sukkal[secretary]Nsux:sukkal[secretary]N sux:Isimud[1]DNsux:sukkal[secretary]N sux:Isimud[1]DN sux:gu[voice]Nsux:sukkal[secretary]N sux:Isimud[1]DN sux:gu[voice]N sux:de[pour]V/t
-c.1.1.1,Enki and Ninhursaŋa,,126G,sux:lutur[child]Nsux:lutur[child]N sux:sag[good]V/isux:lutur[child]N sux:sag[good]V/i sux:ŋaʾe[I]IPsux:lutur[child]N sux:sag[good]V/i sux:ŋaʾe[I]IP sux:ne[cvne]Nsux:lutur[child]N sux:sag[good]V/i sux:ŋaʾe[I]IP sux:ne[cvne]N sux:sub[rub]V/t
-c.1.1.1,Enki and Ninhursaŋa,,126H,sux:Ninimma[1]DNsux:Ninimma[1]DN sux:sag[good]V/isux:Ninimma[1]DN sux:sag[good]V/i sux:ŋaʾe[I]IPsux:Ninimma[1]DN sux:sag[good]V/i sux:ŋaʾe[I]IP sux:ŋeš[penis]Nsux:Ninimma[1]DN sux:sag[good]V/i sux:ŋaʾe[I]IP sux:ŋeš[penis]N sux:du[build]V/t
-c.1.1.1,Enki and Ninhursaŋa,,126I,sux:sukkal[secretary]Nsux:sukkal[secretary]N sux:Isimud[1]DNsux:sukkal[secretary]N sux:Isimud[1]DN sux:gi[turn]V/i
-c.1.1.1,Enki and Ninhursaŋa,,126K,sux:lugal[king]Nsux:lugal[king]N sux:dirig[float]V/isux:lugal[king]N sux:dirig[float]V/i sux:ri[impose]V/tsux:lugal[king]N sux:dirig[float]V/i sux:ri[impose]V/t sux:dirig[float]V/isux:lugal[king]N sux:dirig[float]V/i sux:ri[impose]V/t sux:dirig[float]V/i sux:ri[impose]V/t
-c.1.1.1,Enki and Ninhursaŋa,,126L,sux:ŋiri[foot]Nsux:ŋiri[foot]N sux:1[1]NUsux:ŋiri[foot]N sux:1[1]NU sux:ma[ship]Nsux:ŋiri[foot]N sux:1[1]NU sux:ma[ship]N sux:gub[stand]V/i
-c.1.1.1,Enki and Ninhursaŋa,,126M,sux:2-kam-ma[2nd]NUsux:2-kam-ma[2nd]NU sux:barim[land]Nsux:2-kam-ma[2nd]NU sux:barim[land]N sux:gub[stand]V/i
-c.1.1.1,Enki and Ninhursaŋa,,126N,sux:gaba[chest]Nsux:gaba[chest]N sux:šu[hand]Nsux:gaba[chest]N sux:šu[hand]N sux:dab[seize]V/tsux:gaba[chest]N sux:šu[hand]N sux:dab[seize]V/t sux:ur[root]Nsux:gaba[chest]N sux:šu[hand]N sux:dab[seize]V/t sux:ur[root]N sux:nud[lie]V/i
-c.1.1.1,Enki and Ninhursaŋa,,126O,sux:lutur[child]Nsux:lutur[child]N sux:ŋeš[penis]Nsux:lutur[child]N sux:ŋeš[penis]N sux:dug[speak]V/tsux:lutur[child]N sux:ŋeš[penis]N sux:dug[speak]V/t sux:ne[cvne]Nsux:lutur[child]N sux:ŋeš[penis]N sux:dug[speak]V/t sux:ne[cvne]N sux:sub[rub]V/t
-c.1.1.1,Enki and Ninhursaŋa,,126P,sux:Enki[1]DNsux:Enki[1]DN sux:Ninimma[1]DNsux:Enki[1]DN sux:Ninimma[1]DN sux:a[water]Nsux:Enki[1]DN sux:Ninimma[1]DN sux:a[water]N sux:šag[heart]Nsux:Enki[1]DN sux:Ninimma[1]DN sux:a[water]N sux:šag[heart]N sux:ri[impose]V/t
-c.1.1.1,Enki and Ninhursaŋa,,126Q,sux:a[water]Nsux:a[water]N sux:šag[heart]Nsux:a[water]N sux:šag[heart]N sux:šu[hand]Nsux:a[water]N sux:šag[heart]N sux:šu[hand]N sux:teŋ[approach]V/isux:a[water]N sux:šag[heart]N sux:šu[hand]N sux:teŋ[approach]V/i sux:a[water]Nsux:a[water]N sux:šag[heart]N sux:šu[hand]N sux:teŋ[approach]V/i sux:a[water]N sux:Enki[1]DN
-c.1.1.1,Enki and Ninhursaŋa,,126R,sux:munus[woman]Nsux:munus[woman]N sux:ud[sun]Nsux:munus[woman]N sux:ud[sun]N sux:1[1]NUsux:munus[woman]N sux:ud[sun]N sux:1[1]NU sux:itud[moon]Nsux:munus[woman]N sux:ud[sun]N sux:1[1]NU sux:itud[moon]N sux:1[1]NUsux:munus[woman]N sux:ud[sun]N sux:1[1]NU sux:itud[moon]N sux:1[1]NU sux:me[be]V/i
-c.1.1.1,Enki and Ninhursaŋa,,126S,sux:ud[sun]Nsux:ud[sun]N sux:2[2]NUsux:ud[sun]N sux:2[2]NU sux:itud[moon]Nsux:ud[sun]N sux:2[2]NU sux:itud[moon]N sux:2[2]NUsux:ud[sun]N sux:2[2]NU sux:itud[moon]N sux:2[2]NU sux:me[be]V/i
-c.1.1.1,Enki and Ninhursaŋa,,126T,sux:ud[sun]Nsux:ud[sun]N sux:3[3]NUsux:ud[sun]N sux:3[3]NU sux:itud[moon]Nsux:ud[sun]N sux:3[3]NU sux:itud[moon]N sux:3[3]NUsux:ud[sun]N sux:3[3]NU sux:itud[moon]N sux:3[3]NU sux:me[be]V/i
-c.1.1.1,Enki and Ninhursaŋa,,126U,sux:ud[sun]Nsux:ud[sun]N sux:4[4]NUsux:ud[sun]N sux:4[4]NU sux:itud[moon]Nsux:ud[sun]N sux:4[4]NU sux:itud[moon]N sux:4[4]NUsux:ud[sun]N sux:4[4]NU sux:itud[moon]N sux:4[4]NU sux:me[be]V/i
-c.1.1.1,Enki and Ninhursaŋa,,126V,sux:ud[sun]Nsux:ud[sun]N sux:5[5]NUsux:ud[sun]N sux:5[5]NU sux:itud[moon]Nsux:ud[sun]N sux:5[5]NU sux:itud[moon]N sux:5[5]NUsux:ud[sun]N sux:5[5]NU sux:itud[moon]N sux:5[5]NU sux:me[be]V/i
-c.1.1.1,Enki and Ninhursaŋa,,126W,sux:ud[sun]Nsux:ud[sun]N sux:6[6]NUsux:ud[sun]N sux:6[6]NU sux:itud[moon]Nsux:ud[sun]N sux:6[6]NU sux:itud[moon]N sux:6[6]NUsux:ud[sun]N sux:6[6]NU sux:itud[moon]N sux:6[6]NU sux:me[be]V/i
-c.1.1.1,Enki and Ninhursaŋa,,126X,sux:ud[sun]Nsux:ud[sun]N sux:7[7]NUsux:ud[sun]N sux:7[7]NU sux:itud[moon]Nsux:ud[sun]N sux:7[7]NU sux:itud[moon]N sux:7[7]NUsux:ud[sun]N sux:7[7]NU sux:itud[moon]N sux:7[7]NU sux:me[be]V/i
-c.1.1.1,Enki and Ninhursaŋa,,126Y,sux:ud[sun]Nsux:ud[sun]N sux:8[8]NUsux:ud[sun]N sux:8[8]NU sux:itud[moon]Nsux:ud[sun]N sux:8[8]NU sux:itud[moon]N sux:8[8]NUsux:ud[sun]N sux:8[8]NU sux:itud[moon]N sux:8[8]NU sux:me[be]V/i
-c.1.1.1,Enki and Ninhursaŋa,,126Z,sux:ud[sun]Nsux:ud[sun]N sux:9[9]NUsux:ud[sun]N sux:9[9]NU sux:itud[moon]Nsux:ud[sun]N sux:9[9]NU sux:itud[moon]N sux:nammunus[femininity]Nsux:ud[sun]N sux:9[9]NU sux:itud[moon]N sux:nammunus[femininity]N sux:me[be]V/i
-c.1.1.1,Enki and Ninhursaŋa,,126AA,sux:i[oil]Nsux:i[oil]N sux:li[rich]V/isux:i[oil]N sux:li[rich]V/i sux:i[oil]Nsux:i[oil]N sux:li[rich]V/i sux:i[oil]N sux:li[rich]V/isux:i[oil]N sux:li[rich]V/i sux:i[oil]N sux:li[rich]V/i sux:ihenunak[oil]N
-c.1.1.1,Enki and Ninhursaŋa,,126BB,sux:Ninimma[1]DNsux:Ninimma[1]DN sux:i[oil]Nsux:Ninimma[1]DN sux:i[oil]N sux:li[rich]V/isux:Ninimma[1]DN sux:i[oil]N sux:li[rich]V/i sux:ihenunak[oil]N
-c.1.1.1,Enki and Ninhursaŋa,,126CC,sux:Uttu[1]DNsux:Uttu[1]DN sux:munus[woman]Nsux:Uttu[1]DN sux:munus[woman]N sux:buluŋ[grow]V/tsux:Uttu[1]DN sux:munus[woman]N sux:buluŋ[grow]V/t sux:utud[bear]V/t
-c.1.1.1,Enki and Ninhursaŋa,,127,sux:Nintur[1]DNsux:Nintur[1]DN sux:Uttu[1]DNsux:Nintur[1]DN sux:Uttu[1]DN sux:gu[voice]Nsux:Nintur[1]DN sux:Uttu[1]DN sux:gu[voice]N sux:de[pour]V/t
-c.1.1.1,Enki and Ninhursaŋa,,128,sux:nadeg[advice]Nsux:nadeg[advice]N sux:deg[collect]V/tsux:nadeg[advice]N sux:deg[collect]V/t sux:nadeg[advice]Nsux:nadeg[advice]N sux:deg[collect]V/t sux:nadeg[advice]N sux:deg[collect]V/tsux:nadeg[advice]N sux:deg[collect]V/t sux:nadeg[advice]N sux:deg[collect]V/t sux:dab[seize]V/t
-c.1.1.1,Enki and Ninhursaŋa,,129,sux:inim[word]Nsux:inim[word]N sux:dug[speak]V/tsux:inim[word]N sux:dug[speak]V/t sux:inim[word]Nsux:inim[word]N sux:dug[speak]V/t sux:inim[word]N sux:ŋeštug[ear]N
-c.1.1.1,Enki and Ninhursaŋa,,130,sux:lu[person]Nsux:lu[person]N sux:1[1]NUsux:lu[person]N sux:1[1]NU sux:ambar[reed-bed]Nsux:lu[person]N sux:1[1]NU sux:ambar[reed-bed]N sux:la[hang]V/tsux:lu[person]N sux:1[1]NU sux:ambar[reed-bed]N sux:la[hang]V/t sux:ane[he]IPsux:lu[person]N sux:1[1]NU sux:ambar[reed-bed]N sux:la[hang]V/t sux:ane[he]IP sux:la[hang]V/tsux:lu[person]N sux:1[1]NU sux:ambar[reed-bed]N sux:la[hang]V/t sux:ane[he]IP sux:la[hang]V/t sux:ane[he]IP
-c.1.1.1,Enki and Ninhursaŋa,,131,sux:Enki[1]DNsux:Enki[1]DN sux:ambar[reed-bed]Nsux:Enki[1]DN sux:ambar[reed-bed]N sux:la[hang]V/tsux:Enki[1]DN sux:ambar[reed-bed]N sux:la[hang]V/t sux:ane[he]IPsux:Enki[1]DN sux:ambar[reed-bed]N sux:la[hang]V/t sux:ane[he]IP sux:la[hang]V/tsux:Enki[1]DN sux:ambar[reed-bed]N sux:la[hang]V/t sux:ane[he]IP sux:la[hang]V/t sux:ane[he]IP
-c.1.1.1,Enki and Ninhursaŋa,,132,sux:igi[eye]Nsux:igi[eye]N sux:X[X]Vsux:igi[eye]N sux:X[X]Vsux:igi[eye]N sux:X[X]V
+c.1.1.1,Enki and Ninhursaŋa,,36,sux:iri[city]N sux:ašag[field]N sux:agar[meadow]N sux:absin[furrow]N sux:tuku[acquire]V/t
+c.1.1.1,Enki and Ninhursaŋa,,40,sux:Utu[1]DN sux:an[sky]N sux:gub[stand]V/i
+c.1.1.1,Enki and Ninhursaŋa,,41,sux:gir[jar]N sux:DU[DU]V sux:gaba[chest]N sux:EZEN[1]GN
+c.1.1.1,Enki and Ninhursaŋa,,42,sux:suhur[~temple]N sux:simuš[brilliance]N sux:Nanna[1]DN
+c.1.1.1,Enki and Ninhursaŋa,,43,sux:kag[mouth]N sux:a[water]N sux:ki[place]N sux:DU[DU]V sux:a[water]N sux:dug[good]V/i sux:ki[place]N
+c.1.1.1,Enki and Ninhursaŋa,,44,sux:ŋiriman[basin]N sux:gal[big]V/i sux:a[water]N sux:ed[ascend]V/i
+c.1.1.1,Enki and Ninhursaŋa,,45,sux:iri[city]N sux:a[water]N sux:heŋal[plenty]N sux:naŋ[drink]V/t
+c.1.1.1,Enki and Ninhursaŋa,,46,sux:Dilmun[1]GN sux:a[water]N sux:heŋal[plenty]N sux:naŋ[drink]V/t
+c.1.1.1,Enki and Ninhursaŋa,,47,sux:pu[well]N sux:a[water]N sux:ses[bitter]V/i sux:pu[well]N sux:a[water]N sux:dug[good]V/i sux:me[be]V/i
+c.1.1.1,Enki and Ninhursaŋa,,48,sux:iri[city]N sux:egun[storeroom]N sux:kar[harbor]N sux:kalam[land]N sux:me[be]V/i
+c.1.1.1,Enki and Ninhursaŋa,,49,sux:Dilmun[1]GN sux:egun[storeroom]N sux:kar[harbor]N sux:kalam[land]N sux:me[be]V/i
+c.1.1.1,Enki and Ninhursaŋa,,49A,sux:kur[mountain]N sux:Tukriš[1]GN sux:kugsig[gold]N sux:Harali[1]GN
+c.1.1.1,Enki and Ninhursaŋa,,49B,sux:zagin[lapis]N sux:bala[turn]V/t
+c.1.1.1,Enki and Ninhursaŋa,,49C,sux:kur[mountain]N sux:Meluha[1]GN sux:gug[carnelian]N sux:niŋ[thing]N sux:al[hoe]N sux:dug[speak]V/t sux:kal[rare]V/i
+c.1.1.1,Enki and Ninhursaŋa,,49D,sux:mes[tree]N sux:Magan[1]GN sux:ŋešaʾabak[tree]N sux:sag[rare]V/i
+c.1.1.1,Enki and Ninhursaŋa,,49E,sux:ma[ship]N sux:gal[big]V/i sux:sa[equal]V/t
+c.1.1.1,Enki and Ninhursaŋa,,49F,sux:kur[mountain]N sux:Marhaši[1]GN sux:na[stone]N sux:kal[rare]V/i sux:dušia[stone]N
+c.1.1.1,Enki and Ninhursaŋa,,49G,sux:gaba[chest]N
+c.1.1.1,Enki and Ninhursaŋa,,49H,sux:kur[mountain]N sux:Magan[1]GN sux:urud[copper]N sux:niŋ[thing]N sux:kalag[strong]V/i sux:usu[strength]N
+c.1.1.1,Enki and Ninhursaŋa,,49I,sux:esi[diorite]N sux:U[stone]N sux:šumin[stone]N
+c.1.1.1,Enki and Ninhursaŋa,,49K,sux:kur[mountain]N sux:Abba[1]GN sux:esi[tree]N sux:mete[appropriate-thing]N sux:lugal[king]N
+c.1.1.1,Enki and Ninhursaŋa,,49L,sux:kur[mountain]N sux:Tentland[1]GN sux:siki[hair]N sux:gunu[speckled]V/i sux:sag[good]V/i
+c.1.1.1,Enki and Ninhursaŋa,,49M,sux:kur[mountain]N sux:Elam[1]GN sux:siki[hair]N sux:igi[eye]N sux:saŋ[choose]V/t sux:gun[load]N sux:bala[turn]V/t
+c.1.1.1,Enki and Ninhursaŋa,,49N,sux:eš[shrine]N sux:Urim[1]SN sux:barag[sanctum]N sux:namlugal[kingship]N sux:iri[city]N
+c.1.1.1,Enki and Ninhursaŋa,,49O,sux:ŋeši[sesame]N sux:tug[textile]N sux:mah[great]V/i sux:tug[textile]N sux:sag[rare]V/i sux:ma[ship]N sux:gal[big]V/i sux:sa[equal]V/t
+c.1.1.1,Enki and Ninhursaŋa,,49P,sux:aʾabak[sea]N sux:daŋal[wide]V/i sux:heŋal[plenty]N
+c.1.1.1,Enki and Ninhursaŋa,,49Q,sux:iri[city]N sux:kituš[dwelling]N sux:kituš[dwelling]N sux:dug[good]V/i
+c.1.1.1,Enki and Ninhursaŋa,,49R,sux:Dilmun[1]GN sux:kituš[dwelling]N sux:kituš[dwelling]N sux:dug[good]V/i
+c.1.1.1,Enki and Ninhursaŋa,,49S,sux:še[barley]N sux:še[barley]N sux:didila[smaller]V/i
+c.1.1.1,Enki and Ninhursaŋa,,49T,sux:zulum[date]N sux:zulum[date]N sux:gal[big]V/i
+c.1.1.1,Enki and Ninhursaŋa,,49U,sux:buru[harvest]N sux:3[3]NU
+c.1.1.1,Enki and Ninhursaŋa,,49V,sux:ŋeš[tree]N sux:ŋeš[tree]N
+c.1.1.1,Enki and Ninhursaŋa,,50,sux:ineš[now]MA sux:Utu[1]DN sux:ud[sun]N sux:nen[this]DP
+c.1.1.1,Enki and Ninhursaŋa,,51,sux:Utu[1]DN sux:an[sky]N sux:gub[stand]V/i
+c.1.1.1,Enki and Ninhursaŋa,,52,sux:gir[jar]N sux:DU[DU]V sux:gaba[chest]N sux:EZEN[1]GN
+c.1.1.1,Enki and Ninhursaŋa,,53,sux:suhur[~temple]N sux:simuš[brilliance]N sux:Nanna[1]DN
+c.1.1.1,Enki and Ninhursaŋa,,54,sux:kag[mouth]N sux:a[water]N sux:ki[place]N sux:DU[DU]V sux:a[water]N sux:dug[good]V/i sux:ki[place]N sux:DU[DU]V
+c.1.1.1,Enki and Ninhursaŋa,,55,sux:ŋiriman[basin]N sux:gal[big]V/i sux:a[water]N sux:ed[ascend]V/i
+c.1.1.1,Enki and Ninhursaŋa,,56,sux:iri[city]N sux:a[water]N sux:heŋal[plenty]N sux:naŋ[drink]V/t
+c.1.1.1,Enki and Ninhursaŋa,,57,sux:Dilmun[1]GN sux:a[water]N sux:heŋal[plenty]N sux:naŋ[drink]V/t
+c.1.1.1,Enki and Ninhursaŋa,,58,sux:pu[well]N sux:a[water]N sux:ses[bitter]V/i sux:pu[well]N sux:a[water]N sux:dug[good]V/i sux:me[be]V/i
+c.1.1.1,Enki and Ninhursaŋa,,59,sux:ašag[field]N sux:agar[meadow]N sux:absin[furrow]N sux:še[barley]N sux:šum[give]V/t
+c.1.1.1,Enki and Ninhursaŋa,,60,sux:iri[city]N sux:egun[storeroom]N sux:kar[harbor]N sux:kalam[land]N sux:me[be]V/i
+c.1.1.1,Enki and Ninhursaŋa,,61,sux:Dilmun[1]GN sux:egun[storeroom]N sux:kar[harbor]N sux:kalam[land]N sux:me[be]V/i
+c.1.1.1,Enki and Ninhursaŋa,,62,sux:ineš[now]MA sux:Utu[1]DN sux:ud[sun]N sux:nen[this]DP sux:ur[he]IP sux:me[be]V/i
+c.1.1.1,Enki and Ninhursaŋa,,63,sux:dili[single]V/i sux:ŋeštug[ear]N sux:tuku[acquire]V/t sux:Nintur[1]DN sux:ama[mother]N sux:kalam[land]N
+c.1.1.1,Enki and Ninhursaŋa,,64,sux:Enki[1]DN sux:ŋeštug[ear]N sux:tuku[acquire]V/t sux:Nintur[1]DN sux:ama[mother]N sux:kalam[land]N
+c.1.1.1,Enki and Ninhursaŋa,,65,sux:ŋeš[penis]N sux:eg[levee]N sux:dun[dig]V/t
+c.1.1.1,Enki and Ninhursaŋa,,66,sux:ŋeš[penis]N sux:gi[reed]N sux:gir[slip]V/i sux:gir[slip]V/i
+c.1.1.1,Enki and Ninhursaŋa,,67,sux:ŋeš[penis]N sux:bar[outside]V/t sux:mah[great]V/i sux:zig[rise]V/t
+c.1.1.1,Enki and Ninhursaŋa,,68,sux:gu[voice]N sux:de[pour]V/t sux:ambar[reed-bed]N sux:lu[person]N sux:dab[seize]V/t
+c.1.1.1,Enki and Ninhursaŋa,,69,sux:Enki[1]DN sux:gu[voice]N sux:de[pour]V/t
+c.1.1.1,Enki and Ninhursaŋa,,70,sux:zi[life]N sux:an[sky]N sux:pad[find]V/t
+c.1.1.1,Enki and Ninhursaŋa,,71,sux:nud[lie]V/i sux:ambar[reed-bed]N sux:nud[lie]V/i sux:ambar[reed-bed]N sux:kirizal[joy]N
+c.1.1.1,Enki and Ninhursaŋa,,72,sux:Enki[1]DN sux:a[water]N sux:Damgalnunak[1]DN sux:dug[speak]V/t
+c.1.1.1,Enki and Ninhursaŋa,,73,sux:Ninhursaŋak[1]DN sux:a[water]N sux:šag[heart]N sux:ri[impose]V/t
+c.1.1.1,Enki and Ninhursaŋa,,74,sux:a[water]N sux:šag[heart]N sux:šu[hand]N sux:teŋ[approach]V/i sux:a[water]N sux:Enki[1]DN
+c.1.1.1,Enki and Ninhursaŋa,,75,sux:ud[sun]N sux:1[1]NU sux:itud[moon]N sux:1[1]NU
+c.1.1.1,Enki and Ninhursaŋa,,76,sux:ud[sun]N sux:2[2]NU sux:itud[moon]N sux:2[2]NU
+c.1.1.1,Enki and Ninhursaŋa,,77,sux:ud[sun]N sux:3[3]NU sux:itud[moon]N sux:3[3]NU
+c.1.1.1,Enki and Ninhursaŋa,,78,sux:ud[sun]N sux:4[4]NU sux:itud[moon]N sux:4[4]NU
+c.1.1.1,Enki and Ninhursaŋa,,79,sux:ud[sun]N sux:5[5]NU sux:itud[moon]N sux:5[5]NU
+c.1.1.1,Enki and Ninhursaŋa,,80,sux:ud[sun]N sux:6[6]NU sux:itud[moon]N sux:6[6]NU
+c.1.1.1,Enki and Ninhursaŋa,,81,sux:ud[sun]N sux:7[7]NU sux:itud[moon]N sux:7[7]NU
+c.1.1.1,Enki and Ninhursaŋa,,82,sux:ud[sun]N sux:8[8]NU sux:itud[moon]N sux:8[8]NU
+c.1.1.1,Enki and Ninhursaŋa,,83,sux:ud[sun]N sux:9[9]NU sux:itud[moon]N sux:9[9]NU sux:itud[moon]N sux:nammunus[femininity]N
+c.1.1.1,Enki and Ninhursaŋa,,84,sux:i[oil]N sux:li[rich]V/i sux:i[oil]N sux:li[rich]V/i sux:ihenunak[oil]N
+c.1.1.1,Enki and Ninhursaŋa,,85,sux:Nintur[1]DN sux:ama[mother]N sux:kalam[land]N
+c.1.1.1,Enki and Ninhursaŋa,,86,sux:i[oil]N sux:li[rich]V/i
+c.1.1.1,Enki and Ninhursaŋa,,87,sux:Ninnisig[1]DN sux:utud[bear]V/t
+c.1.1.1,Enki and Ninhursaŋa,,88,sux:Ninnisig[1]DN sux:gu[neck]N sux:id[river]N sux:e[leave]V/i
+c.1.1.1,Enki and Ninhursaŋa,,89,sux:Enki[1]DN sux:ambar[reed-bed]N sux:la[hang]V/t sux:ane[he]IP sux:la[hang]V/t sux:ane[he]IP
+c.1.1.1,Enki and Ninhursaŋa,,90,sux:sukkal[secretary]N sux:Isimud[1]DN sux:gu[voice]N sux:de[pour]V/t
+c.1.1.1,Enki and Ninhursaŋa,,91,sux:lutur[child]N sux:sag[good]V/i sux:ne[cvne]N sux:sub[rub]V/t
+c.1.1.1,Enki and Ninhursaŋa,,92,sux:Ninnisig[1]DN sux:sag[good]V/i sux:ne[cvne]N sux:sub[rub]V/t
+c.1.1.1,Enki and Ninhursaŋa,,93,sux:sukkal[secretary]N sux:Isimud[1]DN sux:gi[turn]V/i
+c.1.1.1,Enki and Ninhursaŋa,,94,sux:lutur[child]N sux:sag[good]V/i sux:ne[cvne]N sux:sub[rub]V/t
+c.1.1.1,Enki and Ninhursaŋa,,95,sux:Ninnisig[1]DN sux:sag[good]V/i sux:ne[cvne]N sux:sub[rub]V/t
+c.1.1.1,Enki and Ninhursaŋa,,96,sux:lugal[king]N sux:dirig[float]V/i sux:ri[impose]V/t sux:dirig[float]V/i sux:ri[impose]V/t
+c.1.1.1,Enki and Ninhursaŋa,,97,sux:ŋiri[foot]N sux:1[1]NU sux:ma[ship]N sux:gub[stand]V/i
+c.1.1.1,Enki and Ninhursaŋa,,98,sux:2-kam-ma[2nd]NU sux:barim[land]N sux:gub[stand]V/i
+c.1.1.1,Enki and Ninhursaŋa,,99,sux:gaba[chest]N sux:tab[double]V/t sux:ne[cvne]N sux:sub[rub]V/t
+c.1.1.1,Enki and Ninhursaŋa,,100,sux:Enki[1]DN sux:a[water]N sux:šag[heart]N sux:ri[impose]V/t
+c.1.1.1,Enki and Ninhursaŋa,,101,sux:a[water]N sux:šag[heart]N sux:šu[hand]N sux:teŋ[approach]V/i sux:a[water]N sux:Enki[1]DN
+c.1.1.1,Enki and Ninhursaŋa,,102,sux:ud[sun]N sux:1[1]NU sux:itud[moon]N sux:1[1]NU
+c.1.1.1,Enki and Ninhursaŋa,,103,sux:ud[sun]N sux:2[2]NU sux:itud[moon]N sux:2[2]NU
+c.1.1.1,Enki and Ninhursaŋa,,104,sux:ud[sun]N sux:9[9]NU sux:itud[moon]N sux:9[9]NU sux:itud[moon]N sux:nammunus[femininity]N
+c.1.1.1,Enki and Ninhursaŋa,,105,sux:i[oil]N sux:li[rich]V/i sux:i[oil]N sux:li[rich]V/i sux:ihenunak[oil]N
+c.1.1.1,Enki and Ninhursaŋa,,106,sux:Ninnisig[1]DN sux:i[oil]N sux:li[rich]V/i sux:i[oil]N sux:li[rich]V/i sux:ihenunak[oil]N
+c.1.1.1,Enki and Ninhursaŋa,,107,sux:Ninkurak[1]DN sux:utud[bear]V/t
+c.1.1.1,Enki and Ninhursaŋa,,108,sux:Ninkurak[1]DN sux:gu[neck]N sux:id[river]N sux:e[leave]V/i
+c.1.1.1,Enki and Ninhursaŋa,,109,sux:Enki[1]DN sux:ambar[reed-bed]N sux:la[hang]V/t sux:ane[he]IP sux:la[hang]V/t sux:ane[he]IP
+c.1.1.1,Enki and Ninhursaŋa,,110,sux:sukkal[secretary]N sux:Isimud[1]DN sux:gu[voice]N sux:de[pour]V/t
+c.1.1.1,Enki and Ninhursaŋa,,111,sux:lutur[child]N sux:sag[good]V/i sux:ne[cvne]N sux:sub[rub]V/t
+c.1.1.1,Enki and Ninhursaŋa,,112,sux:Ninkurak[1]DN sux:sag[good]V/i sux:ne[cvne]N sux:sub[rub]V/t
+c.1.1.1,Enki and Ninhursaŋa,,113,sux:sukkal[secretary]N sux:Isimud[1]DN sux:gi[turn]V/i
+c.1.1.1,Enki and Ninhursaŋa,,114,sux:lutur[child]N sux:sag[good]V/i sux:ne[cvne]N sux:sub[rub]V/t
+c.1.1.1,Enki and Ninhursaŋa,,115,sux:Ninkurak[1]DN sux:sag[good]V/i sux:ne[cvne]N sux:sub[rub]V/t
+c.1.1.1,Enki and Ninhursaŋa,,116,sux:lugal[king]N sux:dirig[float]V/i sux:ri[impose]V/t sux:dirig[float]V/i sux:ri[impose]V/t
+c.1.1.1,Enki and Ninhursaŋa,,117,sux:ŋiri[foot]N sux:1[1]NU sux:ma[ship]N sux:gub[stand]V/i
+c.1.1.1,Enki and Ninhursaŋa,,118,sux:2-kam-ma[2nd]NU sux:barim[land]N sux:gub[stand]V/i
+c.1.1.1,Enki and Ninhursaŋa,,119,sux:gaba[chest]N sux:tab[double]V/t sux:ne[cvne]N sux:sub[rub]V/t
+c.1.1.1,Enki and Ninhursaŋa,,120,sux:Enki[1]DN sux:a[water]N sux:šag[heart]N sux:ri[impose]V/t
+c.1.1.1,Enki and Ninhursaŋa,,121,sux:a[water]N sux:šag[heart]N sux:šu[hand]N sux:teŋ[approach]V/i sux:a[water]N sux:Enki[1]DN
+c.1.1.1,Enki and Ninhursaŋa,,122,sux:ud[sun]N sux:1[1]NU sux:itud[moon]N sux:1[1]NU
+c.1.1.1,Enki and Ninhursaŋa,,123,sux:ud[sun]N sux:9[9]NU sux:itud[moon]N sux:9[9]NU sux:itud[moon]N sux:nammunus[femininity]N
+c.1.1.1,Enki and Ninhursaŋa,,124,sux:i[oil]N sux:li[rich]V/i sux:i[oil]N sux:li[rich]V/i sux:ihenunak[oil]N
+c.1.1.1,Enki and Ninhursaŋa,,125,sux:Ninkurak[1]DN sux:i[oil]N sux:li[rich]V/i sux:i[oil]N sux:li[rich]V/i sux:ihenunak[oil]N
+c.1.1.1,Enki and Ninhursaŋa,,126,sux:Uttu[1]DN sux:munus[woman]N sux:buluŋ[grow]V/t sux:utud[bear]V/t
+c.1.1.1,Enki and Ninhursaŋa,,126A,sux:Ninkurak[1]DN sux:Ninimma[1]DN sux:utud[bear]V/t
+c.1.1.1,Enki and Ninhursaŋa,,126B,sux:lutur[child]N sux:buluŋ[grow]V/t sux:ul[swell]V/i sux:teŋ[approach]V/i
+c.1.1.1,Enki and Ninhursaŋa,,126C,sux:Ninimma[1]DN sux:gu[neck]N sux:id[river]N
+c.1.1.1,Enki and Ninhursaŋa,,126D,sux:Enki[1]DN sux:ma[ship]N sux:gid[long]V/i sux:la[hang]V/t
+c.1.1.1,Enki and Ninhursaŋa,,126E,sux:Ninimma[1]DN sux:gu[neck]N sux:id[river]N sux:igi[eye]N
+c.1.1.1,Enki and Ninhursaŋa,,126F,sux:sukkal[secretary]N sux:Isimud[1]DN sux:gu[voice]N sux:de[pour]V/t
+c.1.1.1,Enki and Ninhursaŋa,,126G,sux:lutur[child]N sux:sag[good]V/i sux:ŋaʾe[I]IP sux:ne[cvne]N sux:sub[rub]V/t
+c.1.1.1,Enki and Ninhursaŋa,,126H,sux:Ninimma[1]DN sux:sag[good]V/i sux:ŋaʾe[I]IP sux:ŋeš[penis]N sux:du[build]V/t
+c.1.1.1,Enki and Ninhursaŋa,,126I,sux:sukkal[secretary]N sux:Isimud[1]DN sux:gi[turn]V/i
+c.1.1.1,Enki and Ninhursaŋa,,126K,sux:lugal[king]N sux:dirig[float]V/i sux:ri[impose]V/t sux:dirig[float]V/i sux:ri[impose]V/t
+c.1.1.1,Enki and Ninhursaŋa,,126L,sux:ŋiri[foot]N sux:1[1]NU sux:ma[ship]N sux:gub[stand]V/i
+c.1.1.1,Enki and Ninhursaŋa,,126M,sux:2-kam-ma[2nd]NU sux:barim[land]N sux:gub[stand]V/i
+c.1.1.1,Enki and Ninhursaŋa,,126N,sux:gaba[chest]N sux:šu[hand]N sux:dab[seize]V/t sux:ur[root]N sux:nud[lie]V/i
+c.1.1.1,Enki and Ninhursaŋa,,126O,sux:lutur[child]N sux:ŋeš[penis]N sux:dug[speak]V/t sux:ne[cvne]N sux:sub[rub]V/t
+c.1.1.1,Enki and Ninhursaŋa,,126P,sux:Enki[1]DN sux:Ninimma[1]DN sux:a[water]N sux:šag[heart]N sux:ri[impose]V/t
+c.1.1.1,Enki and Ninhursaŋa,,126Q,sux:a[water]N sux:šag[heart]N sux:šu[hand]N sux:teŋ[approach]V/i sux:a[water]N sux:Enki[1]DN
+c.1.1.1,Enki and Ninhursaŋa,,126R,sux:munus[woman]N sux:ud[sun]N sux:1[1]NU sux:itud[moon]N sux:1[1]NU sux:me[be]V/i
+c.1.1.1,Enki and Ninhursaŋa,,126S,sux:ud[sun]N sux:2[2]NU sux:itud[moon]N sux:2[2]NU sux:me[be]V/i
+c.1.1.1,Enki and Ninhursaŋa,,126T,sux:ud[sun]N sux:3[3]NU sux:itud[moon]N sux:3[3]NU sux:me[be]V/i
+c.1.1.1,Enki and Ninhursaŋa,,126U,sux:ud[sun]N sux:4[4]NU sux:itud[moon]N sux:4[4]NU sux:me[be]V/i
+c.1.1.1,Enki and Ninhursaŋa,,126V,sux:ud[sun]N sux:5[5]NU sux:itud[moon]N sux:5[5]NU sux:me[be]V/i
+c.1.1.1,Enki and Ninhursaŋa,,126W,sux:ud[sun]N sux:6[6]NU sux:itud[moon]N sux:6[6]NU sux:me[be]V/i
+c.1.1.1,Enki and Ninhursaŋa,,126X,sux:ud[sun]N sux:7[7]NU sux:itud[moon]N sux:7[7]NU sux:me[be]V/i
+c.1.1.1,Enki and Ninhursaŋa,,126Y,sux:ud[sun]N sux:8[8]NU sux:itud[moon]N sux:8[8]NU sux:me[be]V/i
+c.1.1.1,Enki and Ninhursaŋa,,126Z,sux:ud[sun]N sux:9[9]NU sux:itud[moon]N sux:nammunus[femininity]N sux:me[be]V/i
+c.1.1.1,Enki and Ninhursaŋa,,126AA,sux:i[oil]N sux:li[rich]V/i sux:i[oil]N sux:li[rich]V/i sux:ihenunak[oil]N
+c.1.1.1,Enki and Ninhursaŋa,,126BB,sux:Ninimma[1]DN sux:i[oil]N sux:li[rich]V/i sux:ihenunak[oil]N
+c.1.1.1,Enki and Ninhursaŋa,,126CC,sux:Uttu[1]DN sux:munus[woman]N sux:buluŋ[grow]V/t sux:utud[bear]V/t
+c.1.1.1,Enki and Ninhursaŋa,,127,sux:Nintur[1]DN sux:Uttu[1]DN sux:gu[voice]N sux:de[pour]V/t
+c.1.1.1,Enki and Ninhursaŋa,,128,sux:nadeg[advice]N sux:deg[collect]V/t sux:nadeg[advice]N sux:deg[collect]V/t sux:dab[seize]V/t
+c.1.1.1,Enki and Ninhursaŋa,,129,sux:inim[word]N sux:dug[speak]V/t sux:inim[word]N sux:ŋeštug[ear]N
+c.1.1.1,Enki and Ninhursaŋa,,130,sux:lu[person]N sux:1[1]NU sux:ambar[reed-bed]N sux:la[hang]V/t sux:ane[he]IP sux:la[hang]V/t sux:ane[he]IP
+c.1.1.1,Enki and Ninhursaŋa,,131,sux:Enki[1]DN sux:ambar[reed-bed]N sux:la[hang]V/t sux:ane[he]IP sux:la[hang]V/t sux:ane[he]IP
+c.1.1.1,Enki and Ninhursaŋa,,132,sux:igi[eye]N sux:X[X]V
 c.1.1.1,Enki and Ninhursaŋa,,142,
-c.1.1.1,Enki and Ninhursaŋa,,143,sux:Uttu[1]DNsux:Uttu[1]DN sux:munus[woman]Nsux:Uttu[1]DN sux:munus[woman]N sux:buluŋ[grow]V/tsux:Uttu[1]DN sux:munus[woman]N sux:buluŋ[grow]V/tsux:Uttu[1]DN sux:munus[woman]N sux:buluŋ[grow]V/tsux:Uttu[1]DN sux:munus[woman]N sux:buluŋ[grow]V/t
+c.1.1.1,Enki and Ninhursaŋa,,143,sux:Uttu[1]DN sux:munus[woman]N sux:buluŋ[grow]V/t
 c.1.1.1,Enki and Ninhursaŋa,,144,
 c.1.1.1,Enki and Ninhursaŋa,,145,
-c.1.1.1,Enki and Ninhursaŋa,,146,sux:šag[heart]Nsux:šag[heart]N
-c.1.1.1,Enki and Ninhursaŋa,,147,sux:ukuš[cucumber]Nsux:ukuš[cucumber]N sux:sur[press]V/tsux:ukuš[cucumber]N sux:sur[press]V/t sux:de[bring]V/t
-c.1.1.1,Enki and Ninhursaŋa,,148,sux:hašhur[apple]Nsux:hašhur[apple]N sux:gu[cord]Nsux:hašhur[apple]N sux:gu[cord]N sux:ul[swell]V/isux:hašhur[apple]N sux:gu[cord]N sux:ul[swell]V/i sux:de[bring]V/t
-c.1.1.1,Enki and Ninhursaŋa,,149,sux:ŋeštin[vine]Nsux:ŋeštin[vine]N sux:garan[bunch]Nsux:ŋeštin[vine]N sux:garan[bunch]N sux:de[bring]V/t
-c.1.1.1,Enki and Ninhursaŋa,,150,sux:e[house]Nsux:e[house]N sux:saman[rope]Nsux:e[house]N sux:saman[rope]N sux:dab[seize]V/t
-c.1.1.1,Enki and Ninhursaŋa,,151,sux:Enki[1]DNsux:Enki[1]DN sux:saman[rope]Nsux:Enki[1]DN sux:saman[rope]N sux:dab[seize]V/t
-c.1.1.1,Enki and Ninhursaŋa,,152,sux:2-kam-ma[2nd]NUsux:2-kam-ma[2nd]NU sux:a[water]Nsux:2-kam-ma[2nd]NU sux:a[water]N sux:si[fill]V/t
-c.1.1.1,Enki and Ninhursaŋa,,153,sux:eg[levee]Nsux:eg[levee]N sux:a[water]Nsux:eg[levee]N sux:a[water]N sux:si[fill]V/t
-c.1.1.1,Enki and Ninhursaŋa,,154,sux:par[canal]Nsux:par[canal]N sux:a[water]Nsux:par[canal]N sux:a[water]N sux:si[fill]V/t
-c.1.1.1,Enki and Ninhursaŋa,,155,sux:kislah[land]Nsux:kislah[land]N sux:a[water]Nsux:kislah[land]N sux:a[water]N sux:si[fill]V/t
-c.1.1.1,Enki and Ninhursaŋa,,156,sux:nukirik[gardener]Nsux:nukirik[gardener]N sux:sahar[soil]Nsux:nukirik[gardener]N sux:sahar[soil]N sux:hul[rejoice]V/isux:nukirik[gardener]N sux:sahar[soil]N sux:hul[rejoice]V/i
-c.1.1.1,Enki and Ninhursaŋa,,157,sux:gu[neck]Nsux:gu[neck]N sux:gu[neck]Nsux:gu[neck]N sux:gu[neck]N sux:la[hang]V/t
-c.1.1.1,Enki and Ninhursaŋa,,158,sux:aba[who?]QPsux:aba[who?]QP sux:kiri[orchard]Nsux:aba[who?]QP sux:kiri[orchard]N
-c.1.1.1,Enki and Ninhursaŋa,,159,sux:Enki[1]DNsux:Enki[1]DN sux:nukirik[gardener]N
-c.1.1.1,Enki and Ninhursaŋa,,164,sux:ukuš[cucumber]Nsux:ukuš[cucumber]N sux:sur[press]V/tsux:ukuš[cucumber]N sux:sur[press]V/t sux:de[bring]V/t
-c.1.1.1,Enki and Ninhursaŋa,,165,sux:hašhur[apple]Nsux:hašhur[apple]N sux:gu[cord]Nsux:hašhur[apple]N sux:gu[cord]N sux:ul[swell]V/isux:hašhur[apple]N sux:gu[cord]N sux:ul[swell]V/i sux:de[bring]V/t
-c.1.1.1,Enki and Ninhursaŋa,,166,sux:ŋeštin[vine]Nsux:ŋeštin[vine]N sux:garan[bunch]Nsux:ŋeštin[vine]N sux:garan[bunch]N sux:de[bring]V/tsux:ŋeštin[vine]N sux:garan[bunch]N sux:de[bring]V/t sux:ur[root]Nsux:ŋeštin[vine]N sux:garan[bunch]N sux:de[bring]V/t sux:ur[root]N sux:si[fill]V/t
-c.1.1.1,Enki and Ninhursaŋa,,167,sux:Enki[1]DNsux:Enki[1]DN sux:igi[eye]Nsux:Enki[1]DN sux:igi[eye]N sux:sissig[green]V/isux:Enki[1]DN sux:igi[eye]N sux:sissig[green]V/i sux:ŋidru[scepter]Nsux:Enki[1]DN sux:igi[eye]N sux:sissig[green]V/i sux:ŋidru[scepter]N sux:šu[hand]Nsux:Enki[1]DN sux:igi[eye]N sux:sissig[green]V/i sux:ŋidru[scepter]N sux:šu[hand]N sux:du[spread]V/t
-c.1.1.1,Enki and Ninhursaŋa,,168,sux:Enki[1]DNsux:Enki[1]DN sux:Uttu[1]DNsux:Enki[1]DN sux:Uttu[1]DN sux:ŋiri[foot]Nsux:Enki[1]DN sux:Uttu[1]DN sux:ŋiri[foot]N sux:gub[stand]V/i
-c.1.1.1,Enki and Ninhursaŋa,,169,sux:e[house]Nsux:e[house]N sux:dub[tremble]V/tsux:e[house]N sux:dub[tremble]V/t sux:ŋal[open]V/tsux:e[house]N sux:dub[tremble]V/t sux:ŋal[open]V/t sux:ŋal[open]V/t
-c.1.1.1,Enki and Ninhursaŋa,,170,sux:aba[who?]QPsux:aba[who?]QP sux:zaʾe[you]IP
-c.1.1.1,Enki and Ninhursaŋa,,171,sux:ŋaʾe[I]IPsux:ŋaʾe[I]IP sux:nukirik[gardener]Nsux:ŋaʾe[I]IP sux:nukirik[gardener]N sux:ukuš[cucumber]Nsux:ŋaʾe[I]IP sux:nukirik[gardener]N sux:ukuš[cucumber]N sux:hašhur[apple]Nsux:ŋaʾe[I]IP sux:nukirik[gardener]N sux:ukuš[cucumber]N sux:hašhur[apple]N sux:ŋeštin[vine]Nsux:ŋaʾe[I]IP sux:nukirik[gardener]N sux:ukuš[cucumber]N sux:hašhur[apple]N sux:ŋeštin[vine]N sux:heʾam[so-be-it]Nsux:ŋaʾe[I]IP sux:nukirik[gardener]N sux:ukuš[cucumber]N sux:hašhur[apple]N sux:ŋeštin[vine]N sux:heʾam[so-be-it]N sux:šum[give]V/t
-c.1.1.1,Enki and Ninhursaŋa,,172,sux:Uttu[1]DNsux:Uttu[1]DN sux:šag[heart]Nsux:Uttu[1]DN sux:šag[heart]N sux:hul[rejoice]V/isux:Uttu[1]DN sux:šag[heart]N sux:hul[rejoice]V/i sux:e[house]Nsux:Uttu[1]DN sux:šag[heart]N sux:hul[rejoice]V/i sux:e[house]N sux:ŋal[open]V/tsux:Uttu[1]DN sux:šag[heart]N sux:hul[rejoice]V/i sux:e[house]N sux:ŋal[open]V/t sux:taka[abandon]V/t
-c.1.1.1,Enki and Ninhursaŋa,,173,sux:Enki[1]DNsux:Enki[1]DN sux:Uttu[1]DNsux:Enki[1]DN sux:Uttu[1]DN sux:munus[woman]Nsux:Enki[1]DN sux:Uttu[1]DN sux:munus[woman]N sux:buluŋ[grow]V/t
-c.1.1.1,Enki and Ninhursaŋa,,174,sux:ukuš[cucumber]Nsux:ukuš[cucumber]N sux:sur[press]V/tsux:ukuš[cucumber]N sux:sur[press]V/t sux:šum[give]V/t
-c.1.1.1,Enki and Ninhursaŋa,,175,sux:hašhur[apple]Nsux:hašhur[apple]N sux:gu[cord]Nsux:hašhur[apple]N sux:gu[cord]N sux:ul[swell]V/isux:hašhur[apple]N sux:gu[cord]N sux:ul[swell]V/i sux:šum[give]V/t
-c.1.1.1,Enki and Ninhursaŋa,,176,sux:ŋeštin[vine]Nsux:ŋeštin[vine]N sux:garan[bunch]Nsux:ŋeštin[vine]N sux:garan[bunch]N sux:šum[give]V/t
-c.1.1.1,Enki and Ninhursaŋa,,177,sux:kaš[beer]Nsux:kaš[beer]N sux:ban[unit]Nsux:kaš[beer]N sux:ban[unit]N sux:gal[big]V/isux:kaš[beer]N sux:ban[unit]N sux:gal[big]V/i
-c.1.1.1,Enki and Ninhursaŋa,,178,sux:Uttu[1]DNsux:Uttu[1]DN sux:munus[woman]Nsux:Uttu[1]DN sux:munus[woman]N sux:buluŋ[grow]V/tsux:Uttu[1]DN sux:munus[woman]N sux:buluŋ[grow]V/t sux:gab[left]Nsux:Uttu[1]DN sux:munus[woman]N sux:buluŋ[grow]V/t sux:gab[left]N sux:sig[put]V/tsux:Uttu[1]DN sux:munus[woman]N sux:buluŋ[grow]V/t sux:gab[left]N sux:sig[put]V/t sux:šu[hand]Nsux:Uttu[1]DN sux:munus[woman]N sux:buluŋ[grow]V/t sux:gab[left]N sux:sig[put]V/t sux:šu[hand]N sux:sag[beat]V/t
-c.1.1.1,Enki and Ninhursaŋa,,179,sux:Enki[1]DNsux:Enki[1]DN sux:Uttu[1]DNsux:Enki[1]DN sux:Uttu[1]DN sux:ul[swell]V/isux:Enki[1]DN sux:Uttu[1]DN sux:ul[swell]V/i sux:teŋ[approach]V/i
-c.1.1.1,Enki and Ninhursaŋa,,180,sux:gaba[chest]Nsux:gaba[chest]N sux:šu[hand]Nsux:gaba[chest]N sux:šu[hand]N sux:dab[seize]V/tsux:gaba[chest]N sux:šu[hand]N sux:dab[seize]V/t sux:ur[root]Nsux:gaba[chest]N sux:šu[hand]N sux:dab[seize]V/t sux:ur[root]N sux:nud[lie]V/i
-c.1.1.1,Enki and Ninhursaŋa,,181,sux:haš[thigh]Nsux:haš[thigh]N sux:tag[touch]V/tsux:haš[thigh]N sux:tag[touch]V/t sux:šu[hand]Nsux:haš[thigh]N sux:tag[touch]V/t sux:šu[hand]N sux:tag[touch]V/t
-c.1.1.1,Enki and Ninhursaŋa,,182,sux:gaba[chest]Nsux:gaba[chest]N sux:šu[hand]Nsux:gaba[chest]N sux:šu[hand]N sux:dab[seize]V/tsux:gaba[chest]N sux:šu[hand]N sux:dab[seize]V/t sux:ur[root]Nsux:gaba[chest]N sux:šu[hand]N sux:dab[seize]V/t sux:ur[root]N sux:nud[lie]V/i
-c.1.1.1,Enki and Ninhursaŋa,,183,sux:lutur[child]Nsux:lutur[child]N sux:ŋeš[penis]Nsux:lutur[child]N sux:ŋeš[penis]N sux:du[build]V/tsux:lutur[child]N sux:ŋeš[penis]N sux:du[build]V/t sux:ne[cvne]Nsux:lutur[child]N sux:ŋeš[penis]N sux:du[build]V/t sux:ne[cvne]N sux:sub[rub]V/t
-c.1.1.1,Enki and Ninhursaŋa,,184,sux:Enki[1]DNsux:Enki[1]DN sux:Uttu[1]DNsux:Enki[1]DN sux:Uttu[1]DN sux:a[water]Nsux:Enki[1]DN sux:Uttu[1]DN sux:a[water]N sux:šag[heart]Nsux:Enki[1]DN sux:Uttu[1]DN sux:a[water]N sux:šag[heart]N sux:ri[impose]V/t
-c.1.1.1,Enki and Ninhursaŋa,,185,sux:a[water]Nsux:a[water]N sux:šag[heart]Nsux:a[water]N sux:šag[heart]N sux:šu[hand]Nsux:a[water]N sux:šag[heart]N sux:šu[hand]N sux:teŋ[approach]V/isux:a[water]N sux:šag[heart]N sux:šu[hand]N sux:teŋ[approach]V/i sux:a[water]Nsux:a[water]N sux:šag[heart]N sux:šu[hand]N sux:teŋ[approach]V/i sux:a[water]N sux:Enki[1]DN
-c.1.1.1,Enki and Ninhursaŋa,,186,sux:Uttu[1]DNsux:Uttu[1]DN sux:munus[woman]Nsux:Uttu[1]DN sux:munus[woman]N sux:sag[good]V/isux:Uttu[1]DN sux:munus[woman]N sux:sag[good]V/i sux:aya[cry]Nsux:Uttu[1]DN sux:munus[woman]N sux:sag[good]V/i sux:aya[cry]N sux:haš[thigh]Nsux:Uttu[1]DN sux:munus[woman]N sux:sag[good]V/i sux:aya[cry]N sux:haš[thigh]N sux:dug[speak]V/tsux:Uttu[1]DN sux:munus[woman]N sux:sag[good]V/i sux:aya[cry]N sux:haš[thigh]N sux:dug[speak]V/t sux:aya[cry]Nsux:Uttu[1]DN sux:munus[woman]N sux:sag[good]V/i sux:aya[cry]N sux:haš[thigh]N sux:dug[speak]V/t sux:aya[cry]N sux:bar[outside]V/tsux:Uttu[1]DN sux:munus[woman]N sux:sag[good]V/i sux:aya[cry]N sux:haš[thigh]N sux:dug[speak]V/t sux:aya[cry]N sux:bar[outside]V/t sux:aya[cry]Nsux:Uttu[1]DN sux:munus[woman]N sux:sag[good]V/i sux:aya[cry]N sux:haš[thigh]N sux:dug[speak]V/t sux:aya[cry]N sux:bar[outside]V/t sux:aya[cry]N sux-x-emesal:šab[heart]Nsux:Uttu[1]DN sux:munus[woman]N sux:sag[good]V/i sux:aya[cry]N sux:haš[thigh]N sux:dug[speak]V/t sux:aya[cry]N sux:bar[outside]V/t sux:aya[cry]N sux-x-emesal:šab[heart]N sux:dug[speak]V/t
-c.1.1.1,Enki and Ninhursaŋa,,187,sux:Ninhursaŋak[1]DNsux:Ninhursaŋak[1]DN sux:aya[cry]Nsux:Ninhursaŋak[1]DN sux:aya[cry]N sux:haš[thigh]Nsux:Ninhursaŋak[1]DN sux:aya[cry]N sux:haš[thigh]N sux:tag[touch]V/t
-c.1.1.1,Enki and Ninhursaŋa,,190,sux:uŋeš[plant]Nsux:uŋeš[plant]N sux:mu[grow]V/t
-c.1.1.1,Enki and Ninhursaŋa,,191,sux:ulal[plant]Nsux:ulal[plant]N sux:mu[grow]V/t
-c.1.1.1,Enki and Ninhursaŋa,,192,sux:usarra[plant]Nsux:usarra[plant]N sux:mu[grow]V/t
-c.1.1.1,Enki and Ninhursaŋa,,193,sux:A.ZI\&ZI.LAGAB[grass]Nsux:A.ZI\&ZI.LAGAB[grass]N sux:mu[grow]V/t
-c.1.1.1,Enki and Ninhursaŋa,,194,sux:atutu[plant]Nsux:atutu[plant]N sux:mu[grow]V/t
-c.1.1.1,Enki and Ninhursaŋa,,195,sux:aštaltal[plant]Nsux:aštaltal[plant]N sux:mu[grow]V/t
-c.1.1.1,Enki and Ninhursaŋa,,196,sux:X[plant]Nsux:X[plant]N sux:mu[grow]V/t
-c.1.1.1,Enki and Ninhursaŋa,,197,sux:amharu[plant]Nsux:amharu[plant]N sux:mu[grow]V/t
-c.1.1.1,Enki and Ninhursaŋa,,198,sux:Enki[1]DNsux:Enki[1]DN sux:ambar[reed-bed]Nsux:Enki[1]DN sux:ambar[reed-bed]N sux:la[hang]V/tsux:Enki[1]DN sux:ambar[reed-bed]N sux:la[hang]V/t sux:ane[he]IPsux:Enki[1]DN sux:ambar[reed-bed]N sux:la[hang]V/t sux:ane[he]IP sux:la[hang]V/tsux:Enki[1]DN sux:ambar[reed-bed]N sux:la[hang]V/t sux:ane[he]IP sux:la[hang]V/t sux:ane[he]IP
-c.1.1.1,Enki and Ninhursaŋa,,199,sux:sukkal[secretary]Nsux:sukkal[secretary]N sux:Isimud[1]DNsux:sukkal[secretary]N sux:Isimud[1]DN sux:gu[voice]Nsux:sukkal[secretary]N sux:Isimud[1]DN sux:gu[voice]N sux:de[pour]V/t
-c.1.1.1,Enki and Ninhursaŋa,,200,sux:u[grass]Nsux:u[grass]N sux:ŋaʾe[I]IPsux:u[grass]N sux:ŋaʾe[I]IP sux:nam[fate]Nsux:u[grass]N sux:ŋaʾe[I]IP sux:nam[fate]N sux:tar[cut]V/t
-c.1.1.1,Enki and Ninhursaŋa,,201,sux:ana[what?]QPsux:ana[what?]QP sux:nen[this]DPsux:ana[what?]QP sux:nen[this]DP sux:ana[what?]QPsux:ana[what?]QP sux:nen[this]DP sux:ana[what?]QP sux:nen[this]DP
-c.1.1.1,Enki and Ninhursaŋa,,202,sux:sukkal[secretary]Nsux:sukkal[secretary]N sux:Isimud[1]DNsux:sukkal[secretary]N sux:Isimud[1]DN sux:gi[turn]V/i
-c.1.1.1,Enki and Ninhursaŋa,,203,sux:lugal[king]Nsux:lugal[king]N sux:uŋeš[plant]Nsux:lugal[king]N sux:uŋeš[plant]N sux:dug[speak]V/t
-c.1.1.1,Enki and Ninhursaŋa,,204,sux:kud[cut]V/tsux:kud[cut]V/t sux:gu[eat]V/t
-c.1.1.1,Enki and Ninhursaŋa,,205,sux:lugal[king]Nsux:lugal[king]N sux:ulal[plant]Nsux:lugal[king]N sux:ulal[plant]N sux:dug[speak]V/t
-c.1.1.1,Enki and Ninhursaŋa,,206,sux:bur[tear]V/tsux:bur[tear]V/t sux:gu[eat]V/t
-c.1.1.1,Enki and Ninhursaŋa,,207,sux:lugal[king]Nsux:lugal[king]N sux:usarra[plant]Nsux:lugal[king]N sux:usarra[plant]N sux:dug[speak]V/t
-c.1.1.1,Enki and Ninhursaŋa,,208,sux:kud[cut]V/tsux:kud[cut]V/t sux:gu[eat]V/t
-c.1.1.1,Enki and Ninhursaŋa,,209,sux:lugal[king]Nsux:lugal[king]N sux:A.ZI\&ZI.LAGAB[grass]Nsux:lugal[king]N sux:A.ZI\&ZI.LAGAB[grass]N sux:dug[speak]V/t
-c.1.1.1,Enki and Ninhursaŋa,,210,sux:bur[tear]V/tsux:bur[tear]V/t sux:gu[eat]V/t
-c.1.1.1,Enki and Ninhursaŋa,,211,sux:lugal[king]Nsux:lugal[king]N sux:atutu[plant]Nsux:lugal[king]N sux:atutu[plant]N sux:dug[speak]V/t
-c.1.1.1,Enki and Ninhursaŋa,,212,sux:kud[cut]V/tsux:kud[cut]V/t sux:gu[eat]V/t
-c.1.1.1,Enki and Ninhursaŋa,,213,sux:lugal[king]Nsux:lugal[king]N sux:aštaltal[plant]Nsux:lugal[king]N sux:aštaltal[plant]N sux:dug[speak]V/t
-c.1.1.1,Enki and Ninhursaŋa,,214,sux:bur[tear]V/tsux:bur[tear]V/t sux:gu[eat]V/t
-c.1.1.1,Enki and Ninhursaŋa,,215,sux:lugal[king]Nsux:lugal[king]N sux:X[plant]Nsux:lugal[king]N sux:X[plant]N sux:dug[speak]V/t
-c.1.1.1,Enki and Ninhursaŋa,,216,sux:kud[cut]V/tsux:kud[cut]V/t sux:gu[eat]V/t
-c.1.1.1,Enki and Ninhursaŋa,,217,sux:lugal[king]Nsux:lugal[king]N sux:amharu[plant]Nsux:lugal[king]N sux:amharu[plant]N sux:dug[speak]V/t
-c.1.1.1,Enki and Ninhursaŋa,,218,sux:bur[tear]V/tsux:bur[tear]V/t sux:gu[eat]V/t
-c.1.1.1,Enki and Ninhursaŋa,,219,sux:Enki[1]DNsux:Enki[1]DN sux:u[grass]Nsux:Enki[1]DN sux:u[grass]N sux:nam[fate]Nsux:Enki[1]DN sux:u[grass]N sux:nam[fate]N sux:tar[cut]V/tsux:Enki[1]DN sux:u[grass]N sux:nam[fate]N sux:tar[cut]V/t sux:šag[heart]Nsux:Enki[1]DN sux:u[grass]N sux:nam[fate]N sux:tar[cut]V/t sux:šag[heart]N sux:zu[know]V/t
-c.1.1.1,Enki and Ninhursaŋa,,220,sux:Ninhursaŋak[1]DNsux:Ninhursaŋak[1]DN sux:mu[name]Nsux:Ninhursaŋak[1]DN sux:mu[name]N sux:Enki[1]DNsux:Ninhursaŋak[1]DN sux:mu[name]N sux:Enki[1]DN sux:namerim[oath]Nsux:Ninhursaŋak[1]DN sux:mu[name]N sux:Enki[1]DN sux:namerim[oath]N sux:kud[cut]V/t
-c.1.1.1,Enki and Ninhursaŋa,,221,sux-x-emesal:ibi[eye]Nsux-x-emesal:ibi[eye]N sux-x-emesal:naŋtil[life]Nsux-x-emesal:ibi[eye]N sux-x-emesal:naŋtil[life]N sux:enna[until]CNJsux-x-emesal:ibi[eye]N sux-x-emesal:naŋtil[life]N sux:enna[until]CNJ sux:uš[die]V/isux-x-emesal:ibi[eye]N sux-x-emesal:naŋtil[life]N sux:enna[until]CNJ sux:uš[die]V/i sux-x-emesal:ibi[eye]Nsux-x-emesal:ibi[eye]N sux-x-emesal:naŋtil[life]N sux:enna[until]CNJ sux:uš[die]V/i sux-x-emesal:ibi[eye]N sux:bar[outside]V/t
-c.1.1.1,Enki and Ninhursaŋa,,222,sux:Anunak[1]DNsux:Anunak[1]DN sux:sahar[soil]Nsux:Anunak[1]DN sux:sahar[soil]N sux:tuš[sit]V/i
-c.1.1.1,Enki and Ninhursaŋa,,223,sux:kaʾa[fox]Nsux:kaʾa[fox]N sux:Enlil[1]DNsux:kaʾa[fox]N sux:Enlil[1]DN sux:dug[speak]V/t
-c.1.1.1,Enki and Ninhursaŋa,,224,sux:ŋaʾe[I]IPsux:ŋaʾe[I]IP sux:Ninhursaŋak[1]DNsux:ŋaʾe[I]IP sux:Ninhursaŋak[1]DN sux:de[bring]V/tsux:ŋaʾe[I]IP sux:Ninhursaŋak[1]DN sux:de[bring]V/t sux:ana[what?]QPsux:ŋaʾe[I]IP sux:Ninhursaŋak[1]DN sux:de[bring]V/t sux:ana[what?]QP sux:niŋba[gift]N
-c.1.1.1,Enki and Ninhursaŋa,,225,sux:Enlil[1]DNsux:Enlil[1]DN sux:kaʾa[fox]Nsux:Enlil[1]DN sux:kaʾa[fox]N sux:gi[turn]V/i
-c.1.1.1,Enki and Ninhursaŋa,,226,sux:zaʾe[you]IPsux:zaʾe[you]IP sux:Ninhursaŋak[1]DNsux:zaʾe[you]IP sux:Ninhursaŋak[1]DN sux:de[bring]V/t
-c.1.1.1,Enki and Ninhursaŋa,,227,sux:iri[city]Nsux:iri[city]N sux:2[2]NUsux:iri[city]N sux:2[2]NU sux:ŋešgana[tree]Nsux:iri[city]N sux:2[2]NU sux:ŋešgana[tree]N sux:du[build]V/tsux:iri[city]N sux:2[2]NU sux:ŋešgana[tree]N sux:du[build]V/t sux:mu[name]Nsux:iri[city]N sux:2[2]NU sux:ŋešgana[tree]N sux:du[build]V/t sux:mu[name]N sux:pad[find]V/t
-c.1.1.1,Enki and Ninhursaŋa,,228,sux:kaʾa[fox]Nsux:kaʾa[fox]N sux:su[flesh]Nsux:kaʾa[fox]N sux:su[flesh]N sux:1[1]NUsux:kaʾa[fox]N sux:su[flesh]N sux:1[1]NU sux:peš[anoint]V/t
-c.1.1.1,Enki and Ninhursaŋa,,229,sux:siki[hair]Nsux:siki[hair]N sux:1[1]NUsux:siki[hair]N sux:1[1]NU sux:bur[spread]V/t
-c.1.1.1,Enki and Ninhursaŋa,,230,sux:igi[eye]Nsux:igi[eye]N sux:1[1]NUsux:igi[eye]N sux:1[1]NU sux:šembizida[kohl]Nsux:igi[eye]N sux:1[1]NU sux:šembizida[kohl]N sux:ŋar[place]V/t
-c.1.1.1,Enki and Ninhursaŋa,,235,sux:Nibru[1]SNsux:Nibru[1]SN sux:ŋen[go]V/isux:Nibru[1]SN sux:ŋen[go]V/i sux:Enlil[1]DNsux:Nibru[1]SN sux:ŋen[go]V/i sux:Enlil[1]DN
-c.1.1.1,Enki and Ninhursaŋa,,236,sux:Urim[1]SNsux:Urim[1]SN sux:ŋen[go]V/isux:Urim[1]SN sux:ŋen[go]V/i sux:Nanna[1]DNsux:Urim[1]SN sux:ŋen[go]V/i sux:Nanna[1]DN
-c.1.1.1,Enki and Ninhursaŋa,,237,sux:Larsam[1]SNsux:Larsam[1]SN sux:ŋen[go]V/isux:Larsam[1]SN sux:ŋen[go]V/i sux:Utu[1]DNsux:Larsam[1]SN sux:ŋen[go]V/i sux:Utu[1]DN
-c.1.1.1,Enki and Ninhursaŋa,,238,sux:Unug[1]SNsux:Unug[1]SN sux:ŋen[go]V/isux:Unug[1]SN sux:ŋen[go]V/i sux:Inanak[1]DNsux:Unug[1]SN sux:ŋen[go]V/i sux:Inanak[1]DNsux:Unug[1]SN sux:ŋen[go]V/i sux:Inanak[1]DN
-c.1.1.1,Enki and Ninhursaŋa,,239,sux:me[be]V/isux:me[be]V/i sux:zi[life]Nsux:me[be]V/i sux:zi[life]N sux:de[bring]V/tsux:me[be]V/i sux:zi[life]N sux:de[bring]V/t
+c.1.1.1,Enki and Ninhursaŋa,,146,sux:šag[heart]N
+c.1.1.1,Enki and Ninhursaŋa,,147,sux:ukuš[cucumber]N sux:sur[press]V/t sux:de[bring]V/t
+c.1.1.1,Enki and Ninhursaŋa,,148,sux:hašhur[apple]N sux:gu[cord]N sux:ul[swell]V/i sux:de[bring]V/t
+c.1.1.1,Enki and Ninhursaŋa,,149,sux:ŋeštin[vine]N sux:garan[bunch]N sux:de[bring]V/t
+c.1.1.1,Enki and Ninhursaŋa,,150,sux:e[house]N sux:saman[rope]N sux:dab[seize]V/t
+c.1.1.1,Enki and Ninhursaŋa,,151,sux:Enki[1]DN sux:saman[rope]N sux:dab[seize]V/t
+c.1.1.1,Enki and Ninhursaŋa,,152,sux:2-kam-ma[2nd]NU sux:a[water]N sux:si[fill]V/t
+c.1.1.1,Enki and Ninhursaŋa,,153,sux:eg[levee]N sux:a[water]N sux:si[fill]V/t
+c.1.1.1,Enki and Ninhursaŋa,,154,sux:par[canal]N sux:a[water]N sux:si[fill]V/t
+c.1.1.1,Enki and Ninhursaŋa,,155,sux:kislah[land]N sux:a[water]N sux:si[fill]V/t
+c.1.1.1,Enki and Ninhursaŋa,,156,sux:nukirik[gardener]N sux:sahar[soil]N sux:hul[rejoice]V/i
+c.1.1.1,Enki and Ninhursaŋa,,157,sux:gu[neck]N sux:gu[neck]N sux:la[hang]V/t
+c.1.1.1,Enki and Ninhursaŋa,,158,sux:aba[who?]QP sux:kiri[orchard]N
+c.1.1.1,Enki and Ninhursaŋa,,159,sux:Enki[1]DN sux:nukirik[gardener]N
+c.1.1.1,Enki and Ninhursaŋa,,164,sux:ukuš[cucumber]N sux:sur[press]V/t sux:de[bring]V/t
+c.1.1.1,Enki and Ninhursaŋa,,165,sux:hašhur[apple]N sux:gu[cord]N sux:ul[swell]V/i sux:de[bring]V/t
+c.1.1.1,Enki and Ninhursaŋa,,166,sux:ŋeštin[vine]N sux:garan[bunch]N sux:de[bring]V/t sux:ur[root]N sux:si[fill]V/t
+c.1.1.1,Enki and Ninhursaŋa,,167,sux:Enki[1]DN sux:igi[eye]N sux:sissig[green]V/i sux:ŋidru[scepter]N sux:šu[hand]N sux:du[spread]V/t
+c.1.1.1,Enki and Ninhursaŋa,,168,sux:Enki[1]DN sux:Uttu[1]DN sux:ŋiri[foot]N sux:gub[stand]V/i
+c.1.1.1,Enki and Ninhursaŋa,,169,sux:e[house]N sux:dub[tremble]V/t sux:ŋal[open]V/t sux:ŋal[open]V/t
+c.1.1.1,Enki and Ninhursaŋa,,170,sux:aba[who?]QP sux:zaʾe[you]IP
+c.1.1.1,Enki and Ninhursaŋa,,171,sux:ŋaʾe[I]IP sux:nukirik[gardener]N sux:ukuš[cucumber]N sux:hašhur[apple]N sux:ŋeštin[vine]N sux:heʾam[so-be-it]N sux:šum[give]V/t
+c.1.1.1,Enki and Ninhursaŋa,,172,sux:Uttu[1]DN sux:šag[heart]N sux:hul[rejoice]V/i sux:e[house]N sux:ŋal[open]V/t sux:taka[abandon]V/t
+c.1.1.1,Enki and Ninhursaŋa,,173,sux:Enki[1]DN sux:Uttu[1]DN sux:munus[woman]N sux:buluŋ[grow]V/t
+c.1.1.1,Enki and Ninhursaŋa,,174,sux:ukuš[cucumber]N sux:sur[press]V/t sux:šum[give]V/t
+c.1.1.1,Enki and Ninhursaŋa,,175,sux:hašhur[apple]N sux:gu[cord]N sux:ul[swell]V/i sux:šum[give]V/t
+c.1.1.1,Enki and Ninhursaŋa,,176,sux:ŋeštin[vine]N sux:garan[bunch]N sux:šum[give]V/t
+c.1.1.1,Enki and Ninhursaŋa,,177,sux:kaš[beer]N sux:ban[unit]N sux:gal[big]V/i
+c.1.1.1,Enki and Ninhursaŋa,,178,sux:Uttu[1]DN sux:munus[woman]N sux:buluŋ[grow]V/t sux:gab[left]N sux:sig[put]V/t sux:šu[hand]N sux:sag[beat]V/t
+c.1.1.1,Enki and Ninhursaŋa,,179,sux:Enki[1]DN sux:Uttu[1]DN sux:ul[swell]V/i sux:teŋ[approach]V/i
+c.1.1.1,Enki and Ninhursaŋa,,180,sux:gaba[chest]N sux:šu[hand]N sux:dab[seize]V/t sux:ur[root]N sux:nud[lie]V/i
+c.1.1.1,Enki and Ninhursaŋa,,181,sux:haš[thigh]N sux:tag[touch]V/t sux:šu[hand]N sux:tag[touch]V/t
+c.1.1.1,Enki and Ninhursaŋa,,182,sux:gaba[chest]N sux:šu[hand]N sux:dab[seize]V/t sux:ur[root]N sux:nud[lie]V/i
+c.1.1.1,Enki and Ninhursaŋa,,183,sux:lutur[child]N sux:ŋeš[penis]N sux:du[build]V/t sux:ne[cvne]N sux:sub[rub]V/t
+c.1.1.1,Enki and Ninhursaŋa,,184,sux:Enki[1]DN sux:Uttu[1]DN sux:a[water]N sux:šag[heart]N sux:ri[impose]V/t
+c.1.1.1,Enki and Ninhursaŋa,,185,sux:a[water]N sux:šag[heart]N sux:šu[hand]N sux:teŋ[approach]V/i sux:a[water]N sux:Enki[1]DN
+c.1.1.1,Enki and Ninhursaŋa,,186,sux:Uttu[1]DN sux:munus[woman]N sux:sag[good]V/i sux:aya[cry]N sux:haš[thigh]N sux:dug[speak]V/t sux:aya[cry]N sux:bar[outside]V/t sux:aya[cry]N sux-x-emesal:šab[heart]N sux:dug[speak]V/t
+c.1.1.1,Enki and Ninhursaŋa,,187,sux:Ninhursaŋak[1]DN sux:aya[cry]N sux:haš[thigh]N sux:tag[touch]V/t
+c.1.1.1,Enki and Ninhursaŋa,,190,sux:uŋeš[plant]N sux:mu[grow]V/t
+c.1.1.1,Enki and Ninhursaŋa,,191,sux:ulal[plant]N sux:mu[grow]V/t
+c.1.1.1,Enki and Ninhursaŋa,,192,sux:usarra[plant]N sux:mu[grow]V/t
+c.1.1.1,Enki and Ninhursaŋa,,193,sux:A.ZI\&ZI.LAGAB[grass]N sux:mu[grow]V/t
+c.1.1.1,Enki and Ninhursaŋa,,194,sux:atutu[plant]N sux:mu[grow]V/t
+c.1.1.1,Enki and Ninhursaŋa,,195,sux:aštaltal[plant]N sux:mu[grow]V/t
+c.1.1.1,Enki and Ninhursaŋa,,196,sux:X[plant]N sux:mu[grow]V/t
+c.1.1.1,Enki and Ninhursaŋa,,197,sux:amharu[plant]N sux:mu[grow]V/t
+c.1.1.1,Enki and Ninhursaŋa,,198,sux:Enki[1]DN sux:ambar[reed-bed]N sux:la[hang]V/t sux:ane[he]IP sux:la[hang]V/t sux:ane[he]IP
+c.1.1.1,Enki and Ninhursaŋa,,199,sux:sukkal[secretary]N sux:Isimud[1]DN sux:gu[voice]N sux:de[pour]V/t
+c.1.1.1,Enki and Ninhursaŋa,,200,sux:u[grass]N sux:ŋaʾe[I]IP sux:nam[fate]N sux:tar[cut]V/t
+c.1.1.1,Enki and Ninhursaŋa,,201,sux:ana[what?]QP sux:nen[this]DP sux:ana[what?]QP sux:nen[this]DP
+c.1.1.1,Enki and Ninhursaŋa,,202,sux:sukkal[secretary]N sux:Isimud[1]DN sux:gi[turn]V/i
+c.1.1.1,Enki and Ninhursaŋa,,203,sux:lugal[king]N sux:uŋeš[plant]N sux:dug[speak]V/t
+c.1.1.1,Enki and Ninhursaŋa,,204,sux:kud[cut]V/t sux:gu[eat]V/t
+c.1.1.1,Enki and Ninhursaŋa,,205,sux:lugal[king]N sux:ulal[plant]N sux:dug[speak]V/t
+c.1.1.1,Enki and Ninhursaŋa,,206,sux:bur[tear]V/t sux:gu[eat]V/t
+c.1.1.1,Enki and Ninhursaŋa,,207,sux:lugal[king]N sux:usarra[plant]N sux:dug[speak]V/t
+c.1.1.1,Enki and Ninhursaŋa,,208,sux:kud[cut]V/t sux:gu[eat]V/t
+c.1.1.1,Enki and Ninhursaŋa,,209,sux:lugal[king]N sux:A.ZI\&ZI.LAGAB[grass]N sux:dug[speak]V/t
+c.1.1.1,Enki and Ninhursaŋa,,210,sux:bur[tear]V/t sux:gu[eat]V/t
+c.1.1.1,Enki and Ninhursaŋa,,211,sux:lugal[king]N sux:atutu[plant]N sux:dug[speak]V/t
+c.1.1.1,Enki and Ninhursaŋa,,212,sux:kud[cut]V/t sux:gu[eat]V/t
+c.1.1.1,Enki and Ninhursaŋa,,213,sux:lugal[king]N sux:aštaltal[plant]N sux:dug[speak]V/t
+c.1.1.1,Enki and Ninhursaŋa,,214,sux:bur[tear]V/t sux:gu[eat]V/t
+c.1.1.1,Enki and Ninhursaŋa,,215,sux:lugal[king]N sux:X[plant]N sux:dug[speak]V/t
+c.1.1.1,Enki and Ninhursaŋa,,216,sux:kud[cut]V/t sux:gu[eat]V/t
+c.1.1.1,Enki and Ninhursaŋa,,217,sux:lugal[king]N sux:amharu[plant]N sux:dug[speak]V/t
+c.1.1.1,Enki and Ninhursaŋa,,218,sux:bur[tear]V/t sux:gu[eat]V/t
+c.1.1.1,Enki and Ninhursaŋa,,219,sux:Enki[1]DN sux:u[grass]N sux:nam[fate]N sux:tar[cut]V/t sux:šag[heart]N sux:zu[know]V/t
+c.1.1.1,Enki and Ninhursaŋa,,220,sux:Ninhursaŋak[1]DN sux:mu[name]N sux:Enki[1]DN sux:namerim[oath]N sux:kud[cut]V/t
+c.1.1.1,Enki and Ninhursaŋa,,221,sux-x-emesal:ibi[eye]N sux-x-emesal:naŋtil[life]N sux:enna[until]CNJ sux:uš[die]V/i sux-x-emesal:ibi[eye]N sux:bar[outside]V/t
+c.1.1.1,Enki and Ninhursaŋa,,222,sux:Anunak[1]DN sux:sahar[soil]N sux:tuš[sit]V/i
+c.1.1.1,Enki and Ninhursaŋa,,223,sux:kaʾa[fox]N sux:Enlil[1]DN sux:dug[speak]V/t
+c.1.1.1,Enki and Ninhursaŋa,,224,sux:ŋaʾe[I]IP sux:Ninhursaŋak[1]DN sux:de[bring]V/t sux:ana[what?]QP sux:niŋba[gift]N
+c.1.1.1,Enki and Ninhursaŋa,,225,sux:Enlil[1]DN sux:kaʾa[fox]N sux:gi[turn]V/i
+c.1.1.1,Enki and Ninhursaŋa,,226,sux:zaʾe[you]IP sux:Ninhursaŋak[1]DN sux:de[bring]V/t
+c.1.1.1,Enki and Ninhursaŋa,,227,sux:iri[city]N sux:2[2]NU sux:ŋešgana[tree]N sux:du[build]V/t sux:mu[name]N sux:pad[find]V/t
+c.1.1.1,Enki and Ninhursaŋa,,228,sux:kaʾa[fox]N sux:su[flesh]N sux:1[1]NU sux:peš[anoint]V/t
+c.1.1.1,Enki and Ninhursaŋa,,229,sux:siki[hair]N sux:1[1]NU sux:bur[spread]V/t
+c.1.1.1,Enki and Ninhursaŋa,,230,sux:igi[eye]N sux:1[1]NU sux:šembizida[kohl]N sux:ŋar[place]V/t
+c.1.1.1,Enki and Ninhursaŋa,,235,sux:Nibru[1]SN sux:ŋen[go]V/i sux:Enlil[1]DN
+c.1.1.1,Enki and Ninhursaŋa,,236,sux:Urim[1]SN sux:ŋen[go]V/i sux:Nanna[1]DN
+c.1.1.1,Enki and Ninhursaŋa,,237,sux:Larsam[1]SN sux:ŋen[go]V/i sux:Utu[1]DN
+c.1.1.1,Enki and Ninhursaŋa,,238,sux:Unug[1]SN sux:ŋen[go]V/i sux:Inanak[1]DN
+c.1.1.1,Enki and Ninhursaŋa,,239,sux:me[be]V/i sux:zi[life]N sux:de[bring]V/t
 c.1.1.1,Enki and Ninhursaŋa,,240,
-c.1.1.1,Enki and Ninhursaŋa,,241,sux:Ninhursaŋak[1]DNsux:Ninhursaŋak[1]DNsux:Ninhursaŋak[1]DN
+c.1.1.1,Enki and Ninhursaŋa,,241,sux:Ninhursaŋak[1]DN
 c.1.1.1,Enki and Ninhursaŋa,,245,
 c.1.1.1,Enki and Ninhursaŋa,,246,
-c.1.1.1,Enki and Ninhursaŋa,,247,sux:Ninhursaŋak[1]DNsux:Ninhursaŋak[1]DN sux:e[house]Nsux:Ninhursaŋak[1]DN sux:e[house]N sux:kaš[runner]Nsux:Ninhursaŋak[1]DN sux:e[house]N sux:kaš[runner]N sux:dug[speak]V/t
-c.1.1.1,Enki and Ninhursaŋa,,248,sux:Anunak[1]DNsux:Anunak[1]DN sux:tug[textile]Nsux:Anunak[1]DN sux:tug[textile]N sux:dab[seize]V/t
+c.1.1.1,Enki and Ninhursaŋa,,247,sux:Ninhursaŋak[1]DN sux:e[house]N sux:kaš[runner]N sux:dug[speak]V/t
+c.1.1.1,Enki and Ninhursaŋa,,248,sux:Anunak[1]DN sux:tug[textile]N sux:dab[seize]V/t
 c.1.1.1,Enki and Ninhursaŋa,,249,sux:ak[do]V/t
-c.1.1.1,Enki and Ninhursaŋa,,250,sux:nam[fate]Nsux:nam[fate]N sux:tar[cut]V/t
-c.1.1.1,Enki and Ninhursaŋa,,251,sux:šu[hand]Nsux:šu[hand]Nsux:šu[hand]N sux:bur[spread]V/t
-c.1.1.1,Enki and Ninhursaŋa,,252,sux:Ninhursaŋak[1]DNsux:Ninhursaŋak[1]DN sux:Enki[1]DNsux:Ninhursaŋak[1]DN sux:Enki[1]DN sux:gala[vulva]Nsux:Ninhursaŋak[1]DN sux:Enki[1]DN sux:gala[vulva]N sux:tuš[sit]V/i
-c.1.1.1,Enki and Ninhursaŋa,,253,sux:šu[hand]Nsux:šu[hand]Nsux:šu[hand]Nsux:šu[hand]N sux:bar[outside]V/tsux:šu[hand]N sux:bar[outside]V/tsux:šu[hand]N sux:bar[outside]V/tsux:šu[hand]N sux:bar[outside]V/t
-c.1.1.1,Enki and Ninhursaŋa,,254,sux:šeš[brother]Nsux:šeš[brother]N sux:ana[what?]QPsux:šeš[brother]N sux:ana[what?]QP sux:gig[sick]V/i
-c.1.1.1,Enki and Ninhursaŋa,,255,sux:ugudili[scalp]Nsux:ugudili[scalp]N sux:gig[sick]V/i
-c.1.1.1,Enki and Ninhursaŋa,,256,sux:Abu[1]DNsux:Abu[1]DN sux:utud[bear]V/t
-c.1.1.1,Enki and Ninhursaŋa,,257,sux:šeš[brother]Nsux:šeš[brother]N sux:ana[what?]QPsux:šeš[brother]N sux:ana[what?]QP sux:gig[sick]V/i
-c.1.1.1,Enki and Ninhursaŋa,,258,sux:pa[branch]Nsux:pa[branch]N sux:siki[hair]Nsux:pa[branch]N sux:siki[hair]N sux:gig[sick]V/i
-c.1.1.1,Enki and Ninhursaŋa,,259,sux:Ninsikila[1]DNsux:Ninsikila[1]DN sux:utud[bear]V/t
-c.1.1.1,Enki and Ninhursaŋa,,260,sux:šeš[brother]Nsux:šeš[brother]N sux:ana[what?]QPsux:šeš[brother]N sux:ana[what?]QP sux:gig[sick]V/isux:šeš[brother]N sux:ana[what?]QP sux:gig[sick]V/i sux:kiri[nose]Nsux:šeš[brother]N sux:ana[what?]QP sux:gig[sick]V/i sux:kiri[nose]N sux:gig[sick]V/i
-c.1.1.1,Enki and Ninhursaŋa,,261,sux:Ningiriutud[1]DNsux:Ningiriutud[1]DN sux:utud[bear]V/t
-c.1.1.1,Enki and Ninhursaŋa,,262,sux:šeš[brother]Nsux:šeš[brother]N sux:ana[what?]QPsux:šeš[brother]N sux:ana[what?]QP sux:gig[sick]V/isux:šeš[brother]N sux:ana[what?]QP sux:gig[sick]V/i sux:kag[mouth]Nsux:šeš[brother]N sux:ana[what?]QP sux:gig[sick]V/i sux:kag[mouth]N sux:gig[sick]V/i
-c.1.1.1,Enki and Ninhursaŋa,,263,sux:Ninkasik[1]DNsux:Ninkasik[1]DN sux:utud[bear]V/t
-c.1.1.1,Enki and Ninhursaŋa,,264,sux:šeš[brother]Nsux:šeš[brother]N sux:ana[what?]QPsux:šeš[brother]N sux:ana[what?]QP sux:gig[sick]V/isux:šeš[brother]N sux:ana[what?]QP sux:gig[sick]V/i sux:zi[life]Nsux:šeš[brother]N sux:ana[what?]QP sux:gig[sick]V/i sux:zi[life]N sux:gig[sick]V/i
-c.1.1.1,Enki and Ninhursaŋa,,265,sux:Nanše[1]DNsux:Nanše[1]DN sux:utud[bear]V/t
-c.1.1.1,Enki and Ninhursaŋa,,266,sux:šeš[brother]Nsux:šeš[brother]N sux:ana[what?]QPsux:šeš[brother]N sux:ana[what?]QP sux:gig[sick]V/isux:šeš[brother]N sux:ana[what?]QP sux:gig[sick]V/i sux:a[arm]Nsux:šeš[brother]N sux:ana[what?]QP sux:gig[sick]V/i sux:a[arm]N sux:gig[sick]V/i
-c.1.1.1,Enki and Ninhursaŋa,,267,sux:Azimua[1]DNsux:Azimua[1]DN sux:utud[bear]V/t
-c.1.1.1,Enki and Ninhursaŋa,,268,sux:šeš[brother]Nsux:šeš[brother]N sux:ana[what?]QPsux:šeš[brother]N sux:ana[what?]QP sux:gig[sick]V/isux:šeš[brother]N sux:ana[what?]QP sux:gig[sick]V/i sux:ti[rib]Nsux:šeš[brother]N sux:ana[what?]QP sux:gig[sick]V/i sux:ti[rib]N sux:gig[sick]V/i
-c.1.1.1,Enki and Ninhursaŋa,,269,sux:Ninti[1]DNsux:Ninti[1]DN sux:utud[bear]V/t
-c.1.1.1,Enki and Ninhursaŋa,,270,sux:šeš[brother]Nsux:šeš[brother]N sux:ana[what?]QPsux:šeš[brother]N sux:ana[what?]QP sux:gig[sick]V/isux:šeš[brother]N sux:ana[what?]QP sux:gig[sick]V/i sux:zag[side]Nsux:šeš[brother]N sux:ana[what?]QP sux:gig[sick]V/i sux:zag[side]N sux:gig[sick]V/i
-c.1.1.1,Enki and Ninhursaŋa,,271,sux:Ensag[1]DNsux:Ensag[1]DN sux:utud[bear]V/t
-c.1.1.1,Enki and Ninhursaŋa,,272,sux:didila[smaller]V/isux:didila[smaller]V/i sux:utud[bear]V/tsux:didila[smaller]V/i sux:utud[bear]V/t sux:niŋba[gift]Nsux:didila[smaller]V/i sux:utud[bear]V/t sux:niŋba[gift]N sux:la[hang]V/t
-c.1.1.1,Enki and Ninhursaŋa,,273,sux:Abu[1]DNsux:Abu[1]DN sux:lugal[king]Nsux:Abu[1]DN sux:lugal[king]N sux:u[grass]Nsux:Abu[1]DN sux:lugal[king]N sux:u[grass]N sux:me[be]V/i
-c.1.1.1,Enki and Ninhursaŋa,,274,sux:Ninsikila[1]DNsux:Ninsikila[1]DN sux:en[lord]Nsux:Ninsikila[1]DN sux:en[lord]N sux:Magan[1]GNsux:Ninsikila[1]DN sux:en[lord]N sux:Magan[1]GN sux:me[be]V/i
-c.1.1.1,Enki and Ninhursaŋa,,275,sux:Ningiriutud[1]DNsux:Ningiriutud[1]DN sux:Ninazu[1]DNsux:Ningiriutud[1]DN sux:Ninazu[1]DN sux:tuku[acquire]V/t
-c.1.1.1,Enki and Ninhursaŋa,,276,sux:Ninkasik[1]DNsux:Ninkasik[1]DN sux:niŋ[thing]Nsux:Ninkasik[1]DN sux:niŋ[thing]N sux:šag[heart]Nsux:Ninkasik[1]DN sux:niŋ[thing]N sux:šag[heart]N sux:si[fill]V/tsux:Ninkasik[1]DN sux:niŋ[thing]N sux:šag[heart]N sux:si[fill]V/t sux:me[be]V/i
-c.1.1.1,Enki and Ninhursaŋa,,277,sux:Nanše[1]DNsux:Nanše[1]DN sux-x-emesal:Nindara[1]DNsux:Nanše[1]DN sux-x-emesal:Nindara[1]DN sux:tuku[acquire]V/t
-c.1.1.1,Enki and Ninhursaŋa,,278,sux:Azimua[1]DNsux:Azimua[1]DN sux:Ninŋišzidak[1]DNsux:Azimua[1]DN sux:Ninŋišzidak[1]DN sux:tuku[acquire]V/t
-c.1.1.1,Enki and Ninhursaŋa,,279,sux:Ninti[1]DNsux:Ninti[1]DN sux:nin[lady]Nsux:Ninti[1]DN sux:nin[lady]N sux:itud[moon]Nsux:Ninti[1]DN sux:nin[lady]N sux:itud[moon]N sux:me[be]V/i
-c.1.1.1,Enki and Ninhursaŋa,,280,sux:Ensag[1]DNsux:Ensag[1]DN sux:en[lord]Nsux:Ensag[1]DN sux:en[lord]N sux:Dilmun[1]GNsux:Ensag[1]DN sux:en[lord]N sux:Dilmun[1]GN sux:me[be]V/i
-c.1.1.1,Enki and Ninhursaŋa,,281,sux:Enki[1]DNsux:Enki[1]DN sux:zamin[lyre]N
+c.1.1.1,Enki and Ninhursaŋa,,250,sux:nam[fate]N sux:tar[cut]V/t
+c.1.1.1,Enki and Ninhursaŋa,,251,sux:šu[hand]N sux:bur[spread]V/t
+c.1.1.1,Enki and Ninhursaŋa,,252,sux:Ninhursaŋak[1]DN sux:Enki[1]DN sux:gala[vulva]N sux:tuš[sit]V/i
+c.1.1.1,Enki and Ninhursaŋa,,253,sux:šu[hand]N sux:bar[outside]V/t
+c.1.1.1,Enki and Ninhursaŋa,,254,sux:šeš[brother]N sux:ana[what?]QP sux:gig[sick]V/i
+c.1.1.1,Enki and Ninhursaŋa,,255,sux:ugudili[scalp]N sux:gig[sick]V/i
+c.1.1.1,Enki and Ninhursaŋa,,256,sux:Abu[1]DN sux:utud[bear]V/t
+c.1.1.1,Enki and Ninhursaŋa,,257,sux:šeš[brother]N sux:ana[what?]QP sux:gig[sick]V/i
+c.1.1.1,Enki and Ninhursaŋa,,258,sux:pa[branch]N sux:siki[hair]N sux:gig[sick]V/i
+c.1.1.1,Enki and Ninhursaŋa,,259,sux:Ninsikila[1]DN sux:utud[bear]V/t
+c.1.1.1,Enki and Ninhursaŋa,,260,sux:šeš[brother]N sux:ana[what?]QP sux:gig[sick]V/i sux:kiri[nose]N sux:gig[sick]V/i
+c.1.1.1,Enki and Ninhursaŋa,,261,sux:Ningiriutud[1]DN sux:utud[bear]V/t
+c.1.1.1,Enki and Ninhursaŋa,,262,sux:šeš[brother]N sux:ana[what?]QP sux:gig[sick]V/i sux:kag[mouth]N sux:gig[sick]V/i
+c.1.1.1,Enki and Ninhursaŋa,,263,sux:Ninkasik[1]DN sux:utud[bear]V/t
+c.1.1.1,Enki and Ninhursaŋa,,264,sux:šeš[brother]N sux:ana[what?]QP sux:gig[sick]V/i sux:zi[life]N sux:gig[sick]V/i
+c.1.1.1,Enki and Ninhursaŋa,,265,sux:Nanše[1]DN sux:utud[bear]V/t
+c.1.1.1,Enki and Ninhursaŋa,,266,sux:šeš[brother]N sux:ana[what?]QP sux:gig[sick]V/i sux:a[arm]N sux:gig[sick]V/i
+c.1.1.1,Enki and Ninhursaŋa,,267,sux:Azimua[1]DN sux:utud[bear]V/t
+c.1.1.1,Enki and Ninhursaŋa,,268,sux:šeš[brother]N sux:ana[what?]QP sux:gig[sick]V/i sux:ti[rib]N sux:gig[sick]V/i
+c.1.1.1,Enki and Ninhursaŋa,,269,sux:Ninti[1]DN sux:utud[bear]V/t
+c.1.1.1,Enki and Ninhursaŋa,,270,sux:šeš[brother]N sux:ana[what?]QP sux:gig[sick]V/i sux:zag[side]N sux:gig[sick]V/i
+c.1.1.1,Enki and Ninhursaŋa,,271,sux:Ensag[1]DN sux:utud[bear]V/t
+c.1.1.1,Enki and Ninhursaŋa,,272,sux:didila[smaller]V/i sux:utud[bear]V/t sux:niŋba[gift]N sux:la[hang]V/t
+c.1.1.1,Enki and Ninhursaŋa,,273,sux:Abu[1]DN sux:lugal[king]N sux:u[grass]N sux:me[be]V/i
+c.1.1.1,Enki and Ninhursaŋa,,274,sux:Ninsikila[1]DN sux:en[lord]N sux:Magan[1]GN sux:me[be]V/i
+c.1.1.1,Enki and Ninhursaŋa,,275,sux:Ningiriutud[1]DN sux:Ninazu[1]DN sux:tuku[acquire]V/t
+c.1.1.1,Enki and Ninhursaŋa,,276,sux:Ninkasik[1]DN sux:niŋ[thing]N sux:šag[heart]N sux:si[fill]V/t sux:me[be]V/i
+c.1.1.1,Enki and Ninhursaŋa,,277,sux:Nanše[1]DN sux-x-emesal:Nindara[1]DN sux:tuku[acquire]V/t
+c.1.1.1,Enki and Ninhursaŋa,,278,sux:Azimua[1]DN sux:Ninŋišzidak[1]DN sux:tuku[acquire]V/t
+c.1.1.1,Enki and Ninhursaŋa,,279,sux:Ninti[1]DN sux:nin[lady]N sux:itud[moon]N sux:me[be]V/i
+c.1.1.1,Enki and Ninhursaŋa,,280,sux:Ensag[1]DN sux:en[lord]N sux:Dilmun[1]GN sux:me[be]V/i
+c.1.1.1,Enki and Ninhursaŋa,,281,sux:Enki[1]DN sux:zamin[lyre]N

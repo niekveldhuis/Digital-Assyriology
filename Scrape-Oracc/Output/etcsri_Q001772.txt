@@ -1,0 +1,13 @@
+id_text,text_name,version,l_no,text
+etcsri/Q001772,Šulgi 2044,,1,sux:Šara[1]DN
+etcsri/Q001772,Šulgi 2044,,2,sux:nirŋal[authoritative]V/i sux:An[1]DN
+etcsri/Q001772,Šulgi 2044,,3,sux:dumu[child]N sux:ki[place]N sux:aŋ[measure]V/t sux:Inanak[1]DN
+etcsri/Q001772,Šulgi 2044,,4,sux:lugal[king]N
+etcsri/Q001772,Šulgi 2044,,5,sux:namtil[life]N
+etcsri/Q001772,Šulgi 2044,,6,sux:Šulgir[1]RN
+etcsri/Q001772,Šulgi 2044,,7,sux:nita[male]N sux:kalag[strong]V/i
+etcsri/Q001772,Šulgi 2044,,8,sux:lugal[king]N sux:Urim[1]SN
+etcsri/Q001772,Šulgi 2044,,9,sux:lugal[king]N sux:anubda[quarter]N sux:limmu[four]NU
+etcsri/Q001772,Šulgi 2044,,10,sux:Lunanna[2]PN
+etcsri/Q001772,Šulgi 2044,,11,sux:dumu[child]N sux:Šuerra[1]PN
+etcsri/Q001772,Šulgi 2044,,12,sux:damgar[merchant]N

@@ -1,0 +1,26 @@
+id_text,text_name,version,l_no,text
+etcsri/Q001549,Gudea Statue K,,ii 2,sux:kur[mountain]N sux:Magan[1]GN
+etcsri/Q001549,Gudea Statue K,,ii 3,sux:esi[diorite]N sux:ed[ascend]V/i
+etcsri/Q001549,Gudea Statue K,,ii 4,sux:alan[statue]N
+etcsri/Q001549,Gudea Statue K,,ii 5,sux:utud[bear]V/t
+etcsri/Q001549,Gudea Statue K,,ii 6,sux:lugal[king]N
+etcsri/Q001549,Gudea Statue K,,ii 7,sux:ki[place]N sux:aŋ[measure]V/t
+etcsri/Q001549,Gudea Statue K,,ii 8,sux:namtil[life]N sux:sud[distant]V/i
+etcsri/Q001549,Gudea Statue K,,ii 9,sux:mu[name]N sux:še[call]V/t
+etcsri/Q001549,Gudea Statue K,,ii 10,sux:Eninnu[1]TN sux:kur[enter]V/i
+etcsri/Q001549,Gudea Statue K,,iii 1,sux:lu[person]N sux:musara[inscription]N
+etcsri/Q001549,Gudea Statue K,,iii 2,sux:šu[hand]N sux:ur[drag]V/t
+etcsri/Q001549,Gudea Statue K,,iii 5,sux:zig[rise]V/i
+etcsri/Q001549,Gudea Statue K,,iii 6,sux:sila[unit]N sux:ziddubdub[flour-heap]N
+etcsri/Q001549,Gudea Statue K,,iii 7,sux:sila[unit]N sux:niŋara[groats]N sux:imŋaŋa[emmer]N
+etcsri/Q001549,Gudea Statue K,,iii 8,sux:sadug[offerings]N
+etcsri/Q001549,Gudea Statue K,,iii 9,sux:lal[small]V/i
+etcsri/Q001549,Gudea Statue K,,iii 10,sux:Ninŋirsuk[1]DN
+etcsri/Q001549,Gudea Statue K,,iii 11,sux:lugal[king]N sux:tukul[weapon]N
+etcsri/Q001549,Gudea Statue K,,iii 12,sux:Bau[1]DN
+etcsri/Q001549,Gudea Statue K,,iii 13,sux:dumu[child]N sux:An[1]DN
+etcsri/Q001549,Gudea Statue K,,iii 14,sux:Igalimak[1]DN
+etcsri/Q001549,Gudea Statue K,,iii 15,sux:Šulšaganak[1]DN
+etcsri/Q001549,Gudea Statue K,,iii 16,sux:dumu[child]N sux:ki[place]N sux:aŋ[measure]V/t
+etcsri/Q001549,Gudea Statue K,,iii 17,sux:Ninŋirsuk[1]DN
+etcsri/Q001549,Gudea Statue K,,iii 18,sux:suhuš[foundation]N sux:bur[tear]V/t

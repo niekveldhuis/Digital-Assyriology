@@ -1,0 +1,9 @@
+id_text,text_name,version,l_no,text
+etcsri/Q001783,Šulgi 2055,,1,sux:X[1]DN
+etcsri/Q001783,Šulgi 2055,,2,sux:nin[lady]N
+etcsri/Q001783,Šulgi 2055,,3,sux:Šulgir[1]RN
+etcsri/Q001783,Šulgi 2055,,4,sux:nita[male]N sux:kalag[strong]V/i
+etcsri/Q001783,Šulgi 2055,,5,sux:lugal[king]N sux:Urim[1]SN
+etcsri/Q001783,Šulgi 2055,,6,sux:lugal[king]N sux:Kiengir[1]GN sux:Akkad[1]GN
+etcsri/Q001783,Šulgi 2055,,7,sux:namtil[life]N
+etcsri/Q001783,Šulgi 2055,,8,sux:a[water]N sux:ru[cvve]V/t

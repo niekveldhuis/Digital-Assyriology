@@ -1,0 +1,18 @@
+id_text,text_name,version,l_no,text
+etcsri/Q001059,E-anatum 07a,,i 1,sux:Ninŋirsuk[1]DN
+etcsri/Q001059,E-anatum 07a,,i 2,sux:Eanatum[1]RN
+etcsri/Q001059,E-anatum 07a,,i 3,sux:ensik[ruler]N
+etcsri/Q001059,E-anatum 07a,,i 4,sux:Lagaš[1]SN
+etcsri/Q001059,E-anatum 07a,,i 5,sux:kur[mountain]N sux:gu[neck]N sux:ŋar[place]V/t
+etcsri/Q001059,E-anatum 07a,,ii 1,sux:Ninŋirsuk[1]DN
+etcsri/Q001059,E-anatum 07a,,ii 2,sux:Elam[1]GN sux:Šubur[1]GN
+etcsri/Q001059,E-anatum 07a,,ii 3,sux:gu[neck]N sux:ŋar[place]V/t
+etcsri/Q001059,E-anatum 07a,,ii 4,sux:e[house]N sux:Tiraš[1]TN
+etcsri/Q001059,E-anatum 07a,,ii 5,sux:du[build]V/t
+etcsri/Q001059,E-anatum 07a,,ii 6,sux:pa[branch]N sux:e[leave]V/i
+etcsri/Q001059,E-anatum 07a,,ii 7,sux:Eanatum[1]RN
+etcsri/Q001059,E-anatum 07a,,ii 8,sux:lu[person]N sux:inim[word]N sux:sig[put]V/t
+etcsri/Q001059,E-anatum 07a,,iii 1,sux:Ninŋirsuk[1]DN
+etcsri/Q001059,E-anatum 07a,,iii 2,sux:kur[mountain]N
+etcsri/Q001059,E-anatum 07a,,iii 3,sux:a[arm]N sux:Ninŋirsuk[1]DN
+etcsri/Q001059,E-anatum 07a,,iii 4,sux:lu[person]N sux:gaba[chest]N sux:ri[impose]V/i

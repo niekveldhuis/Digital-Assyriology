@@ -1,0 +1,30 @@
+id_text,text_name,version,l_no,text
+etcsri/Q000842,Rimuš 18,,1,sux:Rimuš[1]RN
+etcsri/Q000842,Rimuš 18,,2,sux:lugal[king]N
+etcsri/Q000842,Rimuš 18,,3,sux:kiš[totality]N
+etcsri/Q000842,Rimuš 18,,4,sux:ud[sun]N sux:ul[distant]V/i
+etcsri/Q000842,Rimuš 18,,5,sux:Enlil[1]DN
+etcsri/Q000842,Rimuš 18,,6,sux:lu[person]N sux:name[somebody]XP
+etcsri/Q000842,Rimuš 18,,7,sux:alan[statue]N sux:annak[metal]N
+etcsri/Q000842,Rimuš 18,,8,sux:dim[create]V/t
+etcsri/Q000842,Rimuš 18,,9,sux:Rimuš[1]RN
+etcsri/Q000842,Rimuš 18,,10,sux:lugal[king]N
+etcsri/Q000842,Rimuš 18,,11,sux:kiš[totality]N
+etcsri/Q000842,Rimuš 18,,12,sux:alan[statue]N sux:annak[metal]N
+etcsri/Q000842,Rimuš 18,,13,sux:dim[create]V/t
+etcsri/Q000842,Rimuš 18,,14,sux:igi[face]N sux:Enlil[1]DN
+etcsri/Q000842,Rimuš 18,,15,sux:gub[stand]V/i
+etcsri/Q000842,Rimuš 18,,16,sux:murub[middle]N
+etcsri/Q000842,Rimuš 18,,17,sux:diŋir[deity]N
+etcsri/Q000842,Rimuš 18,,18,sux:ni[self]N
+etcsri/Q000842,Rimuš 18,,19,sux:šid[count]V/t
+etcsri/Q000842,Rimuš 18,,20,sux:lu[person]N
+etcsri/Q000842,Rimuš 18,,21,sux:imsara[inscription]N
+etcsri/Q000842,Rimuš 18,,22,sux:halam[forsake]V/t
+etcsri/Q000842,Rimuš 18,,23,sux:Enlil[1]DN sux:Utu[1]DN
+etcsri/Q000842,Rimuš 18,,24,sux:suhuš[foundation]N
+etcsri/Q000842,Rimuš 18,,25,sux:bur[tear]V/t
+etcsri/Q000842,Rimuš 18,,26,sux:numun[seed]N
+etcsri/Q000842,Rimuš 18,,27,sux:deg[collect]V/t
+etcsri/Q000842,Rimuš 18,,colophon 1; 1,sux:musara[inscription]N sux:šen[cauldron]N sux:zahum[basin]N
+etcsri/Q000842,Rimuš 18,,colophon 2; 1,sux:musara[inscription]N

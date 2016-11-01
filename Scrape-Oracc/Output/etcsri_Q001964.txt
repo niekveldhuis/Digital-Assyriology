@@ -1,0 +1,16 @@
+id_text,text_name,version,l_no,text
+etcsri/Q001964,Lipit-Eštar 7,,1,sux:Inanak[1]DN
+etcsri/Q001964,Lipit-Eštar 7,,2,sux:Mur[1]SN
+etcsri/Q001964,Lipit-Eštar 7,,3,sux:Inanak[1]DN
+etcsri/Q001964,Lipit-Eštar 7,,4,sux:namtil[life]N
+etcsri/Q001964,Lipit-Eštar 7,,5,sux:Lipiteštar[1]RN
+etcsri/Q001964,Lipit-Eštar 7,,6,sux:sipad[shepherd]N sux:ŋeš[tree]N sux:tuku[acquire]V/t
+etcsri/Q001964,Lipit-Eštar 7,,7,sux:diŋir[deity]N
+etcsri/Q001964,Lipit-Eštar 7,,8,sux:lugal[king]N sux:Kiengir[1]GN sux:Akkad[1]GN
+etcsri/Q001964,Lipit-Eštar 7,,9,sux:dam[spouse]N sux:Inanak[1]DN
+etcsri/Q001964,Lipit-Eštar 7,,10,sux:Lamassatum[1]PN
+etcsri/Q001964,Lipit-Eštar 7,,11,sux:ama[mother]N
+etcsri/Q001964,Lipit-Eštar 7,,12,sux:u[and]CNJ sux:namtil[life]N
+etcsri/Q001964,Lipit-Eštar 7,,13,sux:Emaruru[1]TN
+etcsri/Q001964,Lipit-Eštar 7,,14,sux:šutum[storehouse]N sux:ki[place]N sux:aŋ[measure]V/t
+etcsri/Q001964,Lipit-Eštar 7,,15,sux:šag[heart]N sux:Isin[1]SN
