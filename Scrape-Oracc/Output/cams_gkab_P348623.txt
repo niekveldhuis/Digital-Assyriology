@@ -1,63 +1,3 @@
-<<<<<<< HEAD
-id_text,text_name,l_no,text
-cams/gkab/P348623,SpTU 2 018 [Namburbu],o 1,akk-x-stdbab:ana[to]PRP akk-x-stdbab:lemnu[bad]AJ akk-x-stdbab:ša[that]REL akk-x-stdbab:ina[in]PRP
-cams/gkab/P348623,SpTU 2 018 [Namburbu],o 2,akk-x-stdbab:paṭāru[loosen]V akk-x-stdbab:qarnānû[horned]AJ akk-x-stdbab:u[and]CNJ
-cams/gkab/P348623,SpTU 2 018 [Namburbu],o 3,akk-x-stdbab:ina[in]PRP akk-x-stdbab:šuāti[him]IP akk-x-stdbab:sarāqu[strew]V akk-x-stdbab:ina[in]PRP
-cams/gkab/P348623,SpTU 2 018 [Namburbu],o 4,akk-x-stdbab:ša[of]DET akk-x-stdbab:ešēru[go-well]V
-cams/gkab/P348623,SpTU 2 018 [Namburbu],o 5,akk-x-stdbab:tabāku[pour-(out)]V akk-x-stdbab:warki[behind]PRP akk-x-stdbab:nadû[throw]V
-cams/gkab/P348623,SpTU 2 018 [Namburbu],o 6,akk-x-stdbab:ana[to]PRP akk-x-stdbab:lemnu[bad]AJ akk-x-stdbab:ša[that]REL akk-x-stdbab:ina[in]PRP akk-x-stdbab:paṭāru[loosen]V akk-x-stdbab:ina[in]PRP akk-x-stdbab:mašālu[equal]V akk-x-stdbab:tebû[arise]V akk-x-stdbab:ešēru[go-well]V
-cams/gkab/P348623,SpTU 2 018 [Namburbu],o 7,akk-x-stdbab:ana[to]PRP akk-x-stdbab:kamāsu[gather-in]V akk-x-stdbab:qalû[roast]V akk-x-stdbab:ana[to]PRP akk-x-stdbab:nadû[throw]V
-cams/gkab/P348623,SpTU 2 018 [Namburbu],o 8,akk-x-stdbab:ana[to]PRP akk-x-stdbab:ana[to]PRP akk-x-stdbab:lā[not]MOD akk-x-stdbab:ṭehû[approach]V
-cams/gkab/P348623,SpTU 2 018 [Namburbu],o 9,akk-x-stdbab:ina[in]PRP akk-x-stdbab:šakānu[put]V akk-x-stdbab:ul[not]MOD akk-x-stdbab:ṭehû[approach]V
-cams/gkab/P348623,SpTU 2 018 [Namburbu],o 10,akk-x-stdbab:ina[in]PRP akk-x-stdbab:pašāšu[anoint]V akk-x-stdbab:ul[not]MOD
-cams/gkab/P348623,SpTU 2 018 [Namburbu],o 11,akk-x-stdbab:ana[to]PRP akk-x-stdbab:lemnu[bad]AJ akk-x-stdbab:ana[to]PRP akk-x-stdbab:u[and]CNJ akk-x-stdbab:lā[not]MOD akk-x-stdbab:ṭehû[approach]V
-cams/gkab/P348623,SpTU 2 018 [Namburbu],o 12,akk-x-stdbab:ina[in]PRP akk-x-stdbab:balālu[mix-(up)]V akk-x-stdbab:ina[in]PRP
-cams/gkab/P348623,SpTU 2 018 [Namburbu],o 13,akk-x-stdbab:u[and]CNJ akk-x-stdbab:lapātu[touch]V akk-x-stdbab:lemnu[bad]AJ akk-x-stdbab:ana[to]PRP akk-x-stdbab:u[and]CNJ akk-x-stdbab:ul[not]MOD akk-x-stdbab:ṭehû[approach]V
-cams/gkab/P348623,SpTU 2 018 [Namburbu],o 14,akk-x-stdbab:ana[to]PRP akk-x-stdbab:lemnu[bad]AJ akk-x-stdbab:ana[to]PRP akk-x-stdbab:u[and]CNJ akk-x-stdbab:lā[not]MOD akk-x-stdbab:ṭehû[approach]V akk-x-stdbab:lū[either]CNJ akk-x-stdbab:ana[to]PRP akk-x-stdbab:lū[either]CNJ akk-x-stdbab:ana[to]PRP akk-x-stdbab:nadû[throw]V
-cams/gkab/P348623,SpTU 2 018 [Namburbu],o 15,akk-x-stdbab:u[and]CNJ akk-x-stdbab:imna[on-the-right]AV akk-x-stdbab:u[and]CNJ akk-x-stdbab:šumēla[on-the-left]AV akk-x-stdbab:ina[in]PRP akk-x-stdbab:šakānu[put]V
-cams/gkab/P348623,SpTU 2 018 [Namburbu],o 16,akk-x-stdbab:paṭāru[loosen]V akk-x-stdbab:ina[in]PRP akk-x-stdbab:bašû[exist]V akk-x-stdbab:šū[he]IP
-cams/gkab/P348623,SpTU 2 018 [Namburbu],o 17,akk-x-stdbab:Šeriš[1]DN akk-x-stdbab:ina[in]PRP akk-x-stdbab:lā[not]MOD akk-x-stdbab:petû[open]AJ akk-x-stdbab:šakānu[put]V
-cams/gkab/P348623,SpTU 2 018 [Namburbu],o 18,akk-x-stdbab:ina[in]PRP akk-x-stdbab:kawû[outer]AJ akk-x-stdbab:temēru[cover-(in-earth)]V akk-x-stdbab:annû[this]DP
-cams/gkab/P348623,SpTU 2 018 [Namburbu],o 19,akk-x-stdbab:ša[that]REL akk-x-stdbab:ina[in]PRP akk-x-stdbab:šūpû[made-apparent]AJ akk-x-stdbab:ina[in]PRP akk-x-stdbab:šūturu[very-great]AJ akk-x-stdbab:Šamaš[1]DN
-cams/gkab/P348623,SpTU 2 018 [Namburbu],o 20,akk-x-stdbab:rapšu[wide]AJ
-cams/gkab/P348623,SpTU 2 018 [Namburbu],o 21,akk-x-stdbab:ša[that]REL akk-x-stdbab:balāṭu[live]V akk-x-stdbab:râmu[love]V
-cams/gkab/P348623,SpTU 2 018 [Namburbu],o 22,
-cams/gkab/P348623,SpTU 2 018 [Namburbu],o 23,akk-x-stdbab:Anu[1]DN akk-x-stdbab:Ellil[1]DN akk-x-stdbab:u[and]CNJ akk-x-stdbab:Ea[1]DN akk-x-stdbab:magru[friendly]AJ
-cams/gkab/P348623,SpTU 2 018 [Namburbu],o 24,
-cams/gkab/P348623,SpTU 2 018 [Namburbu],o 25,akk-x-stdbab:rabû[big]AJ akk-x-stdbab:ina[in]PRP akk-x-stdbab:attā[you]IP
-cams/gkab/P348623,SpTU 2 018 [Namburbu],o 26,akk-x-stdbab:annanna[so-and-so]DP akk-x-stdbab:annanna[so-and-so]DP akk-x-stdbab:ša[that]REL akk-x-stdbab:annanna[so-and-so]DP akk-x-stdbab:annanna[so-and-so]DP akk-x-stdbab:ša[that]REL
-cams/gkab/P348623,SpTU 2 018 [Namburbu],o 27,akk-x-stdbab:itti[with]PRP
-cams/gkab/P348623,SpTU 2 018 [Namburbu],r 2',akk-x-stdbab:ešēru[go-well]V akk-x-stdbab:Šamaš[1]DN akk-x-stdbab:ina[in]PRP
-cams/gkab/P348623,SpTU 2 018 [Namburbu],r 3',akk-x-stdbab:kašû[increase]V akk-x-stdbab:pahāru[gather]V akk-x-stdbab:pašāru[release]V
-cams/gkab/P348623,SpTU 2 018 [Namburbu],r 4',akk-x-stdbab:paṭāru[loosen]V akk-x-stdbab:lemnu[bad]AJ
-cams/gkab/P348623,SpTU 2 018 [Namburbu],r 5',akk-x-stdbab:pardu[afraid]AJ
-cams/gkab/P348623,SpTU 2 018 [Namburbu],r 6',akk-x-stdbab:dalhu[troubled]AJ akk-x-stdbab:ša[that]REL
-cams/gkab/P348623,SpTU 2 018 [Namburbu],r 7',akk-x-stdbab:bašû[exist]V akk-x-stdbab:nesû[be(come)-distant]V akk-x-stdbab:rêqu[be(come)-distant]V akk-x-stdbab:duppuru[move-away]V akk-x-stdbab:alāku[go]V
-cams/gkab/P348623,SpTU 2 018 [Namburbu],r 8',akk-x-stdbab:lā[not]MOD akk-x-stdbab:nakāru[change]V akk-x-stdbab:u[and]CNJ akk-x-stdbab:kīnu[permanent]AJ
-cams/gkab/P348623,SpTU 2 018 [Namburbu],r 9',
-cams/gkab/P348623,SpTU 2 018 [Namburbu],r 10',akk-x-stdbab:Namraṣit[1]DN akk-x-stdbab:eddēšû[constantly-self-renewing]AJ
-cams/gkab/P348623,SpTU 2 018 [Namburbu],r 11',akk-x-stdbab:Šamaš[1]DN akk-x-stdbab:u[and]CNJ
-cams/gkab/P348623,SpTU 2 018 [Namburbu],r 12',akk-x-stdbab:mimma[anything]XP akk-x-stdbab:Šamaš[1]DN akk-x-stdbab:u[and]CNJ
-cams/gkab/P348623,SpTU 2 018 [Namburbu],r 13',akk-x-stdbab:Ebabbara[1]TN akk-x-stdbab:Marduk[1]DN akk-x-stdbab:Babilu[Babylon]SN akk-x-stdbab:ana[to]PRP
-cams/gkab/P348623,SpTU 2 018 [Namburbu],r 14',akk-x-stdbab:waqû[wait-(for)]V akk-x-stdbab:Igigu[1]DN akk-x-stdbab:rapšu[wide]AJ akk-x-stdbab:ṣalmu[black]AJ
-cams/gkab/P348623,SpTU 2 018 [Namburbu],r 15',akk-x-stdbab:rašû[acquire]V akk-x-stdbab:ana[to]PRP akk-x-stdbab:lā[not]MOD akk-x-stdbab:nadānu[give]V akk-x-stdbab:edlu[shut]AJ
-cams/gkab/P348623,SpTU 2 018 [Namburbu],r 16',akk-x-stdbab:petû[open]V akk-x-stdbab:ana[to]PRP akk-x-stdbab:lā[not]MOD akk-x-stdbab:šakānu[put]V akk-x-stdbab:armu[covered]AJ akk-x-stdbab:lā[not]MOD akk-x-stdbab:petû[open]AJ
-cams/gkab/P348623,SpTU 2 018 [Namburbu],r 17',akk-x-stdbab:ina[in]PRP akk-x-stdbab:šaṭāru[write]V akk-x-stdbab:Igigu[1]DN
-cams/gkab/P348623,SpTU 2 018 [Namburbu],r 18',akk-x-stdbab:attā[you]IP akk-x-stdbab:šiāmu[fix]V akk-x-stdbab:damāqu[be(come)-good]V akk-x-stdbab:ešēru[go-well]V
-cams/gkab/P348623,SpTU 2 018 [Namburbu],r 19',akk-x-stdbab:naṭālu[look]V akk-x-stdbab:ana[to]PRP akk-x-stdbab:šakānu[put]V akk-x-stdbab:išariš[correctly]AV akk-x-stdbab:alāku[go]V
-cams/gkab/P348623,SpTU 2 018 [Namburbu],r 20',akk-x-stdbab:ina[in]PRP akk-x-stdbab:lū[may]MOD akk-x-stdbab:šutlumu[grant]V akk-x-stdbab:damqu[good]AJ akk-x-stdbab:ina[in]PRP akk-x-stdbab:lū[may]MOD
-cams/gkab/P348623,SpTU 2 018 [Namburbu],r 21',akk-x-stdbab:u[and]CNJ akk-x-stdbab:wabālu[bring]V akk-x-stdbab:Kittu[Truth]DN akk-x-stdbab:izuzzu[stand]V akk-x-stdbab:ina[in]PRP akk-x-stdbab:Mišaru[Justice]DN
-cams/gkab/P348623,SpTU 2 018 [Namburbu],r 22',akk-x-stdbab:mušallimu[that-delivers-safely]AJ akk-x-stdbab:ina[in]PRP akk-x-stdbab:lū[may]MOD akk-x-stdbab:kayyānu[constant]AJ akk-x-stdbab:ai[not]MOD akk-x-stdbab:naparkû[cease]V
-cams/gkab/P348623,SpTU 2 018 [Namburbu],r 23',akk-x-stdbab:awû[speak]V akk-x-stdbab:Bunene[1]DN akk-x-stdbab:Aya[1]DN
-cams/gkab/P348623,SpTU 2 018 [Namburbu],r 24',akk-x-stdbab:Šamaš[1]DN akk-x-stdbab:ašarēdu[first-and-foremost]AJ akk-x-stdbab:attā[you]IP akk-x-stdbab:rašû[acquire]V akk-x-stdbab:hadû[be(come)-joyful]V akk-x-stdbab:Apsu[1]GN
-cams/gkab/P348623,SpTU 2 018 [Namburbu],r 25',akk-x-stdbab:ša[of]DET akk-x-stdbab:karābu[pray]V akk-x-stdbab:rabû[big]AJ
-cams/gkab/P348623,SpTU 2 018 [Namburbu],r 26',akk-x-stdbab:Šamaš[1]DN
-cams/gkab/P348623,SpTU 2 018 [Namburbu],r 27',akk-x-stdbab:ṣīru[exalted]AJ
-cams/gkab/P348623,SpTU 2 018 [Namburbu],r 28',
-cams/gkab/P348623,SpTU 2 018 [Namburbu],r 29',akk-x-stdbab:attā[you]IP akk-x-stdbab:inūma[when]SBJ
-cams/gkab/P348623,SpTU 2 018 [Namburbu],r 30',akk-x-stdbab:mahrû[first]AJ akk-x-stdbab:ana[to]PRP
-cams/gkab/P348623,SpTU 2 018 [Namburbu],r 31',akk-x-stdbab:inūma[when]SBJ akk-x-stdbab:nakāsu[cut]V akk-x-stdbab:warki[behind]PRP akk-x-stdbab:šakānu[put]V akk-x-stdbab:malû[be(come)-full]V
-=======
 id_text,text_name,version,l_no,text
 cams/gkab/P348623,SpTU 2 018 [Namburbu],SpTU 2, 018 [Namburbu],o 1,akk-x-stdbab:ana[to]PRP akk-x-stdbab:lumnu[evil]N akk-x-stdbab:ittu[peculiarity]N akk-x-stdbab:ittu[sign]N akk-x-stdbab:lemnu[bad]AJ akk-x-stdbab:ša[that]REL akk-x-stdbab:ina[in]PRP
 cams/gkab/P348623,SpTU 2 018 [Namburbu],SpTU 2, 018 [Namburbu],o 2,akk-x-stdbab:paṭāru[loosen]V akk-x-stdbab:uhūlu[potash]N akk-x-stdbab:qarnānû[horned]AJ akk-x-stdbab:gaṣṣu[gypsum]N akk-x-stdbab:u[and]CNJ akk-x-stdbab:murru[bitterness]N
@@ -116,4 +56,3 @@ cams/gkab/P348623,SpTU 2 018 [Namburbu],SpTU 2, 018 [Namburbu],r 28',akk-x-stdb
 cams/gkab/P348623,SpTU 2 018 [Namburbu],SpTU 2, 018 [Namburbu],r 29',akk-x-stdbab:šiptu[incantation]N akk-x-stdbab:attā[you]IP akk-x-stdbab:nāru[river]N akk-x-stdbab:bānītu[creator]N akk-x-stdbab:kalāma[all-(of-it)]N akk-x-stdbab:inūma[when]SBJ
 cams/gkab/P348623,SpTU 2 018 [Namburbu],SpTU 2, 018 [Namburbu],r 30',akk-x-stdbab:persu[divison]N akk-x-stdbab:mahrû[first]AJ akk-x-stdbab:ana[to]PRP akk-x-stdbab:lumnu[evil]N akk-x-stdbab:ittu[peculiarity]N akk-x-stdbab:ittu[sign]N
 cams/gkab/P348623,SpTU 2 018 [Namburbu],SpTU 2, 018 [Namburbu],r 31',akk-x-stdbab:inūma[when]SBJ akk-x-stdbab:naṣmattu[bandage]N akk-x-stdbab:nakāsu[cut]V akk-x-stdbab:warki[behind]PRP akk-x-stdbab:šakānu[put]V akk-x-stdbab:malû[be(come)-full]V
->>>>>>> 3232a6c70b8c35280825cd417b36511ace02fc43

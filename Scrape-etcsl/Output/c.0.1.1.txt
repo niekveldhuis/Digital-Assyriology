@@ -1,22 +1,22 @@
 id_text,text_name,version,l_no,text
-c.0.1.1,Ur III catalogue from Nibru (N1),,1,sux:dub-saŋ[front-(person)]N
-c.0.1.1,Ur III catalogue from Nibru (N1),,2,sux:Enki[1]DN sux:unu₂[(dining)-hall]N sux:gal[to-be-big]V sux:ed₃[to-go-down-or-up]V
-c.0.1.1,Ur III catalogue from Nibru (N1),,3,sux:an-zag[border-of-heaven]N
-c.0.1.1,Ur III catalogue from Nibru (N1),,4,sux:an-ŋi₆[eclipse]N sux:zu[to-know]V sux:ama[mother]N sux:tu₆[incantation]N sux:zu[to-know]V
-c.0.1.1,Ur III catalogue from Nibru (N1),,5,sux:ŋiš-gi[reedbed]N sux:tuku₄[to-shake]V
-c.0.1.1,Ur III catalogue from Nibru (N1),,6,sux:me₃[battle]N
-c.0.1.1,Ur III catalogue from Nibru (N1),,7,sux:maš-maš[sorcerer]N sux:erim₂[enemy]N sux:kur₂[to-be-different]V
-c.0.1.1,Ur III catalogue from Nibru (N1),,8,sux:ŋiri₃-ŋen-na[procedure]N sux:Enki[1]DN sux:ki[place]N sux:unu₂[(dining)-hall]N sux:gal[to-be-big]V sux:ed₃[to-go-down-or-up]V
-c.0.1.1,Ur III catalogue from Nibru (N1),,9,sux:šag₄[heart]N sux:1-kam-ma[1st]NU
-c.0.1.1,Ur III catalogue from Nibru (N1),,10,sux:dub-saŋ[front-(person)]N
-c.0.1.1,Ur III catalogue from Nibru (N1),,11,sux:kaskal[(high)way]N sux:7[7]NU sux:me[to-be]V
-c.0.1.1,Ur III catalogue from Nibru (N1),,12,sux:Lilia[1]DN
-c.0.1.1,Ur III catalogue from Nibru (N1),,13,sux:igi[eye]N sux:7[7]NU sux:kur₉[to-enter]V
-c.0.1.1,Ur III catalogue from Nibru (N1),,14,sux:šul[young-man]N sux:a₂[arm]N sux:la₂[to-hang]V
-c.0.1.1,Ur III catalogue from Nibru (N1),,15,sux:gu[(flax)-thread]N sux:sig₁₀[to-place]V sux:gal[to-be-big]V
-c.0.1.1,Ur III catalogue from Nibru (N1),,16,sux:ŋiri₃-ŋen-na[procedure]N sux:Lilia[1]DN
-c.0.1.1,Ur III catalogue from Nibru (N1),,17,sux:šag₄[heart]N sux:1-kam-ma[1st]NU
-c.0.1.1,Ur III catalogue from Nibru (N1),,18,sux:ŋiri₃[foot]N sux:lu₂[person]N sux:inim[word]N sux:zid[right]AJ
-c.0.1.1,Ur III catalogue from Nibru (N1),,19,sux:ŋiri₃-ŋen-na[procedure]N sux:lu₂[person]N sux:pad₃[to-find]V
-c.0.1.1,Ur III catalogue from Nibru (N1),,20,sux:ŋiri₃-ŋen-na[procedure]N
-c.0.1.1,Ur III catalogue from Nibru (N1),,21,sux:iri-bal[rebel-town]N sux:aš₂[curse]N sux:dug₄[to-say]V
+c.0.1.1,Ur III catalogue from Nibru (N1),,1,dub-saŋ[front-(person)]N
+c.0.1.1,Ur III catalogue from Nibru (N1),,2,Enki[1]DN unu₂[(dining)-hall]N gal[to-be-big]V ed₃[to-go-down-or-up]V
+c.0.1.1,Ur III catalogue from Nibru (N1),,3,an-zag[border-of-heaven]N
+c.0.1.1,Ur III catalogue from Nibru (N1),,4,an-ŋi₆[eclipse]N zu[to-know]V ama[mother]N tu₆[incantation]N zu[to-know]V
+c.0.1.1,Ur III catalogue from Nibru (N1),,5,ŋiš-gi[reedbed]N tuku₄[to-shake]V
+c.0.1.1,Ur III catalogue from Nibru (N1),,6,me₃[battle]N
+c.0.1.1,Ur III catalogue from Nibru (N1),,7,maš-maš[sorcerer]N erim₂[enemy]N kur₂[to-be-different]V
+c.0.1.1,Ur III catalogue from Nibru (N1),,8,ŋiri₃-ŋen-na[procedure]N Enki[1]DN ki[place]N unu₂[(dining)-hall]N gal[to-be-big]V ed₃[to-go-down-or-up]V
+c.0.1.1,Ur III catalogue from Nibru (N1),,9,šag₄[heart]N 1-kam-ma[1st]NU
+c.0.1.1,Ur III catalogue from Nibru (N1),,10,dub-saŋ[front-(person)]N
+c.0.1.1,Ur III catalogue from Nibru (N1),,11,kaskal[(high)way]N 7[7]NU me[to-be]V
+c.0.1.1,Ur III catalogue from Nibru (N1),,12,Lilia[1]DN
+c.0.1.1,Ur III catalogue from Nibru (N1),,13,igi[eye]N 7[7]NU kur₉[to-enter]V
+c.0.1.1,Ur III catalogue from Nibru (N1),,14,šul[young-man]N a₂[arm]N la₂[to-hang]V
+c.0.1.1,Ur III catalogue from Nibru (N1),,15,gu[(flax)-thread]N sig₁₀[to-place]V gal[to-be-big]V
+c.0.1.1,Ur III catalogue from Nibru (N1),,16,ŋiri₃-ŋen-na[procedure]N Lilia[1]DN
+c.0.1.1,Ur III catalogue from Nibru (N1),,17,šag₄[heart]N 1-kam-ma[1st]NU
+c.0.1.1,Ur III catalogue from Nibru (N1),,18,ŋiri₃[foot]N lu₂[person]N inim[word]N zid[right]AJ
+c.0.1.1,Ur III catalogue from Nibru (N1),,19,ŋiri₃-ŋen-na[procedure]N lu₂[person]N pad₃[to-find]V
+c.0.1.1,Ur III catalogue from Nibru (N1),,20,ŋiri₃-ŋen-na[procedure]N
+c.0.1.1,Ur III catalogue from Nibru (N1),,21,iri-bal[rebel-town]N aš₂[curse]N dug₄[to-say]V

@@ -1,14 +1,14 @@
 id_text,text_name,version,l_no,text
-c.2.8.3.8,A hymn to Enlil for Samsu-iluna (Samsu-iluna H),,1,sux:zi[life-(breath)]N sux:nidba[(food)-offering]N
-c.2.8.3.8,A hymn to Enlil for Samsu-iluna (Samsu-iluna H),,2,sux:E-kur[1]TN sux:kur₉[to-enter]V
-c.2.8.3.8,A hymn to Enlil for Samsu-iluna (Samsu-iluna H),,3,sux:E-kur[1]TN sux:e₂[house(hold)]N sux:Enlil[1]DN
-c.2.8.3.8,A hymn to Enlil for Samsu-iluna (Samsu-iluna H),,4,sux:Samsu-iluna[1]RN sux:lugal[king]N sux:kalag[to-be-strong]V sux:ni₂[fear(someness)]N sux:uŋ₃[people]N sux:šar₂[to-be-numerous]V sux:dul[to-cover-(together)]V
-c.2.8.3.8,A hymn to Enlil for Samsu-iluna (Samsu-iluna H),,5,sux:Enlil[1]DN
+c.2.8.3.8,A hymn to Enlil for Samsu-iluna (Samsu-iluna H),,1,zi[life-(breath)]N nidba[(food)-offering]N
+c.2.8.3.8,A hymn to Enlil for Samsu-iluna (Samsu-iluna H),,2,E-kur[1]TN kur₉[to-enter]V
+c.2.8.3.8,A hymn to Enlil for Samsu-iluna (Samsu-iluna H),,3,E-kur[1]TN e₂[house(hold)]N Enlil[1]DN
+c.2.8.3.8,A hymn to Enlil for Samsu-iluna (Samsu-iluna H),,4,Samsu-iluna[1]RN lugal[king]N kalag[to-be-strong]V ni₂[fear(someness)]N uŋ₃[people]N šar₂[to-be-numerous]V dul[to-cover-(together)]V
+c.2.8.3.8,A hymn to Enlil for Samsu-iluna (Samsu-iluna H),,5,Enlil[1]DN
 c.2.8.3.8,A hymn to Enlil for Samsu-iluna (Samsu-iluna H),,6,
 c.2.8.3.8,A hymn to Enlil for Samsu-iluna (Samsu-iluna H),,7,
 c.2.8.3.8,A hymn to Enlil for Samsu-iluna (Samsu-iluna H),,8,
 c.2.8.3.8,A hymn to Enlil for Samsu-iluna (Samsu-iluna H),,9,
-c.2.8.3.8,A hymn to Enlil for Samsu-iluna (Samsu-iluna H),,10,sux:kur[(mountain)-land]N
-c.2.8.3.8,A hymn to Enlil for Samsu-iluna (Samsu-iluna H),,11,sux:gal-zu[skilful]AJ sux:ka-aš[decision]N sux:ŋar[to-place]V
-c.2.8.3.8,A hymn to Enlil for Samsu-iluna (Samsu-iluna H),,12,sux:Samsu-iluna[1]RN sux:mu-u₂-a[young-man]N sux:sag₉[to-be-good]V sux:nir-ŋal₂[authoritative]AJ sux:kalam[the-Land]N
-c.2.8.3.8,A hymn to Enlil for Samsu-iluna (Samsu-iluna H),,13,sux:Samsu-iluna[1]RN sux:za₃-mi₂[praise]N sux:dug₃[to-be-good]V
+c.2.8.3.8,A hymn to Enlil for Samsu-iluna (Samsu-iluna H),,10,kur[(mountain)-land]N
+c.2.8.3.8,A hymn to Enlil for Samsu-iluna (Samsu-iluna H),,11,gal-zu[skilful]AJ ka-aš[decision]N ŋar[to-place]V
+c.2.8.3.8,A hymn to Enlil for Samsu-iluna (Samsu-iluna H),,12,Samsu-iluna[1]RN mu-u₂-a[young-man]N sag₉[to-be-good]V nir-ŋal₂[authoritative]AJ kalam[the-Land]N
+c.2.8.3.8,A hymn to Enlil for Samsu-iluna (Samsu-iluna H),,13,Samsu-iluna[1]RN za₃-mi₂[praise]N dug₃[to-be-good]V

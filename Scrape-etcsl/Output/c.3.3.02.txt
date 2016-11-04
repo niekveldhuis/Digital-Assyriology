@@ -1,39 +1,39 @@
 id_text,text_name,version,l_no,text
-c.3.3.02,Letter from Lugal-nesaŋe to a king radiant as the moon,Nibru,1,sux:lugal[king]N sux:zalag[to-be-shining]V sux:itid[moon(light)]N sux:kur[(mountain)-land]N sux:pa[branch]N sux:e₃[to-go-out-or-in]V
-c.3.3.02,Letter from Lugal-nesaŋe to a king radiant as the moon,Nibru,2,sux:dug₄[to-say]V
-c.3.3.02,Letter from Lugal-nesaŋe to a king radiant as the moon,Nibru,3,sux:lugal[king]N sux:Utu[1]DN sux:di[(law)suit]N sux:si[horn]N sux:sa₂[to-equal]V sux:kud[to-cut]V sux:eš-bar[decision]N sux:Ištaran[1]DN sux:si[horn]N sux:sa₂[to-equal]V
-c.3.3.02,Letter from Lugal-nesaŋe to a king radiant as the moon,Nibru,4,sux:lugal[king]N sux:šudu₃[prayer]N sux:ŋiš[tree]N sux:tuku[to-have]V sux:tah[to-add]V
-c.3.3.02,Letter from Lugal-nesaŋe to a king radiant as the moon,Nibru,5,sux:Lugal-nesaŋe[1]PN sux:Lugal-šu[1]PN sux:dumu[child]N sux:Nibru[1]SN sux:arad[slave]N sux:dug₄[to-say]V
-c.3.3.02,Letter from Lugal-nesaŋe to a king radiant as the moon,Nibru,6,sux:udu[sheep]N sux:ka[mouth]N sux:u₂[plant]N sux:gu₇[to-eat]V sux:pad₃[to-find]V sux:naŋa[potash]N sux:dub₂[to-tremble]V sux:bad[to-open]V
-c.3.3.02,Letter from Lugal-nesaŋe to a king radiant as the moon,Nibru,7,sux:gud[bull]N sux:šudul[yoke]N sux:ha-za[to-hold]V sux:la₂[to-hang]V sux:edin[open-country]N sux:ŋen[to-go]V
-c.3.3.02,Letter from Lugal-nesaŋe to a king radiant as the moon,Nibru,8,sux:ab₂[cow]N sux:amar[calf]N sux:la₂[to-hang]V sux:gu₃[voice]N sux:arhuš[compassion]N sux:dug₄[to-say]V
-c.3.3.02,Letter from Lugal-nesaŋe to a king radiant as the moon,Nibru,9,sux:u₈[ewe]N sux:sila₄[lamb]N sux:e₂-ubur-ra[milking-pen]N sux:dab₅[to-seize]V sux:šu[hand]N sux:dab₅[to-seize]V
-c.3.3.02,Letter from Lugal-nesaŋe to a king radiant as the moon,Nibru,10,sux:mušen[bird]N sux:gud₃[nest]N sux:lu₂[person]N sux:šu[hand]N sux:te[to-approach]V
-c.3.3.02,Letter from Lugal-nesaŋe to a king radiant as the moon,Nibru,11,sux:ma₂[boat]N sux:kar[quay]N sux:gen₆[to-be-firm]V sux:taka₄[to-leave-behind]V sux:tum₉[wind]N sux:dirig[to-be-superior]V
-c.3.3.02,Letter from Lugal-nesaŋe to a king radiant as the moon,Nibru,12,sux:i-si-iš[tears-(of-joy)]N sux:sila[street]N sux:Nibru[1]SN sux:gu₇[to-eat]V
-c.3.3.02,Letter from Lugal-nesaŋe to a king radiant as the moon,Nibru,13,sux:iri[town]N sux:kur₂[to-be-different]V sux:iri[town]N sux:kur₉[to-enter]V sux:lu₂[person]N sux:en₃[noun-part-of-multiword-verb]N sux:tar[to-cut]V sux:tuku[to-have]V
-c.3.3.02,Letter from Lugal-nesaŋe to a king radiant as the moon,Nibru,14,sux:e₂[house(hold)]N sux:kur₂[to-be-different]V sux:e₂[house(hold)]N sux:kur₉[to-enter]V sux:ugu[skull]N sux:DUN[DUN]V sux:X[X]V
-c.3.3.02,Letter from Lugal-nesaŋe to a king radiant as the moon,Nibru,15,sux:iri[town]N sux:saŋ[head]N sux:DU[DU]V sux:siki[hair]N sux:siki[hair]N sux:mu-dur₇[dirt]N sux:la₂[to-hang]V
-c.3.3.02,Letter from Lugal-nesaŋe to a king radiant as the moon,Nibru,16,sux:gu₅-li[friend]N sux:dub₃-us₂-sa[companion]N sux:zu[to-know]V sux:kal[to-be-rare]V
-c.3.3.02,Letter from Lugal-nesaŋe to a king radiant as the moon,Nibru,17,sux:lu₂[person]N sux:dili[single]AJ sux:gu₇[to-eat]V sux:igi[eye]N sux:tur[to-be-small]V sux:gid₂[to-be-long]V
-c.3.3.02,Letter from Lugal-nesaŋe to a king radiant as the moon,Nibru,18,sux:ama[mother]N sux:ugu[skull]N sux:ud-sakar[crescent-(moon)]N sux:ubur[breast]N sux:ubur[breast]N
-c.3.3.02,Letter from Lugal-nesaŋe to a king radiant as the moon,Nibru,19,sux:dug₃[to-be-good]V sux:ga[milk]N sux:gu₇[to-eat]V sux:ka[mouth]N sux:kar[to-flee]V
-c.3.3.02,Letter from Lugal-nesaŋe to a king radiant as the moon,Nibru,20,sux:a-a[father]N sux:šag₄[heart]N sux:ur₂[root]N sux:guru₃[to-bear]V sux:ki[place]N sux:ŋar[to-place]V
-c.3.3.02,Letter from Lugal-nesaŋe to a king radiant as the moon,Nibru,21,sux:nin[lady]N sux:arhuš[compassion]N sux:e₂[house(hold)]N sux:kal[to-be-rare]V sux:igi[eye]N sux:bar[to-set-aside]V
-c.3.3.02,Letter from Lugal-nesaŋe to a king radiant as the moon,Nibru,22,sux:ŋiš[tree]N sux:hul[to-be-bad]V sux:gurun[fruit]N sux:il₂[to-raise]V sux:lu₂[person]N sux:hul₂[to-be-happy]V
-c.3.3.02,Letter from Lugal-nesaŋe to a king radiant as the moon,Nibru,23,sux:ŊIŠ.BIL₂[fresh-fruit]N sux:isimu₂[(off)shoot]N sux:tuku[to-have]V sux:de₆[to-carry]V
-c.3.3.02,Letter from Lugal-nesaŋe to a king radiant as the moon,Nibru,24,sux:lugal[king]N sux:en₃[noun-part-of-multiword-verb]N sux:tar[to-cut]V sux:ki-ur₃[foundation]N sux:gi₄[to-return]V
-c.3.3.02,Letter from Lugal-nesaŋe to a king radiant as the moon,Urim,5,sux:lugal[king]N sux:šudu₃[prayer]N sux:ŋiš[tree]N sux:tuku[to-have]V
+c.3.3.02,Letter from Lugal-nesaŋe to a king radiant as the moon,Nibru,1,lugal[king]N zalag[to-be-shining]V itid[moon(light)]N kur[(mountain)-land]N pa[branch]N e₃[to-go-out-or-in]V
+c.3.3.02,Letter from Lugal-nesaŋe to a king radiant as the moon,Nibru,2,dug₄[to-say]V
+c.3.3.02,Letter from Lugal-nesaŋe to a king radiant as the moon,Nibru,3,lugal[king]N Utu[1]DN di[(law)suit]N si[horn]N sa₂[to-equal]V kud[to-cut]V eš-bar[decision]N Ištaran[1]DN si[horn]N sa₂[to-equal]V
+c.3.3.02,Letter from Lugal-nesaŋe to a king radiant as the moon,Nibru,4,lugal[king]N šudu₃[prayer]N ŋiš[tree]N tuku[to-have]V tah[to-add]V
+c.3.3.02,Letter from Lugal-nesaŋe to a king radiant as the moon,Nibru,5,Lugal-nesaŋe[1]PN Lugal-šu[1]PN dumu[child]N Nibru[1]SN arad[slave]N dug₄[to-say]V
+c.3.3.02,Letter from Lugal-nesaŋe to a king radiant as the moon,Nibru,6,udu[sheep]N ka[mouth]N u₂[plant]N gu₇[to-eat]V pad₃[to-find]V naŋa[potash]N dub₂[to-tremble]V bad[to-open]V
+c.3.3.02,Letter from Lugal-nesaŋe to a king radiant as the moon,Nibru,7,gud[bull]N šudul[yoke]N ha-za[to-hold]V la₂[to-hang]V edin[open-country]N ŋen[to-go]V
+c.3.3.02,Letter from Lugal-nesaŋe to a king radiant as the moon,Nibru,8,ab₂[cow]N amar[calf]N la₂[to-hang]V gu₃[voice]N arhuš[compassion]N dug₄[to-say]V
+c.3.3.02,Letter from Lugal-nesaŋe to a king radiant as the moon,Nibru,9,u₈[ewe]N sila₄[lamb]N e₂-ubur-ra[milking-pen]N dab₅[to-seize]V šu[hand]N dab₅[to-seize]V
+c.3.3.02,Letter from Lugal-nesaŋe to a king radiant as the moon,Nibru,10,mušen[bird]N gud₃[nest]N lu₂[person]N šu[hand]N te[to-approach]V
+c.3.3.02,Letter from Lugal-nesaŋe to a king radiant as the moon,Nibru,11,ma₂[boat]N kar[quay]N gen₆[to-be-firm]V taka₄[to-leave-behind]V tum₉[wind]N dirig[to-be-superior]V
+c.3.3.02,Letter from Lugal-nesaŋe to a king radiant as the moon,Nibru,12,i-si-iš[tears-(of-joy)]N sila[street]N Nibru[1]SN gu₇[to-eat]V
+c.3.3.02,Letter from Lugal-nesaŋe to a king radiant as the moon,Nibru,13,iri[town]N kur₂[to-be-different]V iri[town]N kur₉[to-enter]V lu₂[person]N en₃[noun-part-of-multiword-verb]N tar[to-cut]V tuku[to-have]V
+c.3.3.02,Letter from Lugal-nesaŋe to a king radiant as the moon,Nibru,14,e₂[house(hold)]N kur₂[to-be-different]V e₂[house(hold)]N kur₉[to-enter]V ugu[skull]N DUN[DUN]V X[X]V
+c.3.3.02,Letter from Lugal-nesaŋe to a king radiant as the moon,Nibru,15,iri[town]N saŋ[head]N DU[DU]V siki[hair]N siki[hair]N mu-dur₇[dirt]N la₂[to-hang]V
+c.3.3.02,Letter from Lugal-nesaŋe to a king radiant as the moon,Nibru,16,gu₅-li[friend]N dub₃-us₂-sa[companion]N zu[to-know]V kal[to-be-rare]V
+c.3.3.02,Letter from Lugal-nesaŋe to a king radiant as the moon,Nibru,17,lu₂[person]N dili[single]AJ gu₇[to-eat]V igi[eye]N tur[to-be-small]V gid₂[to-be-long]V
+c.3.3.02,Letter from Lugal-nesaŋe to a king radiant as the moon,Nibru,18,ama[mother]N ugu[skull]N ud-sakar[crescent-(moon)]N ubur[breast]N ubur[breast]N
+c.3.3.02,Letter from Lugal-nesaŋe to a king radiant as the moon,Nibru,19,dug₃[to-be-good]V ga[milk]N gu₇[to-eat]V ka[mouth]N kar[to-flee]V
+c.3.3.02,Letter from Lugal-nesaŋe to a king radiant as the moon,Nibru,20,a-a[father]N šag₄[heart]N ur₂[root]N guru₃[to-bear]V ki[place]N ŋar[to-place]V
+c.3.3.02,Letter from Lugal-nesaŋe to a king radiant as the moon,Nibru,21,nin[lady]N arhuš[compassion]N e₂[house(hold)]N kal[to-be-rare]V igi[eye]N bar[to-set-aside]V
+c.3.3.02,Letter from Lugal-nesaŋe to a king radiant as the moon,Nibru,22,ŋiš[tree]N hul[to-be-bad]V gurun[fruit]N il₂[to-raise]V lu₂[person]N hul₂[to-be-happy]V
+c.3.3.02,Letter from Lugal-nesaŋe to a king radiant as the moon,Nibru,23,ŊIŠ.BIL₂[fresh-fruit]N isimu₂[(off)shoot]N tuku[to-have]V de₆[to-carry]V
+c.3.3.02,Letter from Lugal-nesaŋe to a king radiant as the moon,Nibru,24,lugal[king]N en₃[noun-part-of-multiword-verb]N tar[to-cut]V ki-ur₃[foundation]N gi₄[to-return]V
+c.3.3.02,Letter from Lugal-nesaŋe to a king radiant as the moon,Urim,5,lugal[king]N šudu₃[prayer]N ŋiš[tree]N tuku[to-have]V
 c.3.3.02,Letter from Lugal-nesaŋe to a king radiant as the moon,Urim,6,
-c.3.3.02,Letter from Lugal-nesaŋe to a king radiant as the moon,Urim,7,sux:Nibru[1]SN
-c.3.3.02,Letter from Lugal-nesaŋe to a king radiant as the moon,Urim,8,sux:udu[sheep]N sux:ka[mouth]N sux:u₂[plant]N sux:gu₇[to-eat]V sux:šub[to-fall]V
-c.3.3.02,Letter from Lugal-nesaŋe to a king radiant as the moon,Urim,9,sux:naŋa[potash]N sux:dub₂[to-tremble]V sux:bad[to-open]V
-c.3.3.02,Letter from Lugal-nesaŋe to a king radiant as the moon,Urim,10,sux:gud[bull]N sux:šudul[yoke]N sux:ha-za[to-hold]V
-c.3.3.02,Letter from Lugal-nesaŋe to a king radiant as the moon,Urim,11,sux:edin[open-country]N sux:ŋen[to-go]V
-c.3.3.02,Letter from Lugal-nesaŋe to a king radiant as the moon,Urim,12,sux:ab₂[cow]N sux:amar[calf]N sux:la₂[to-hang]V
-c.3.3.02,Letter from Lugal-nesaŋe to a king radiant as the moon,Urim,13,sux:gu₃[voice]N sux:arhuš[compassion]N sux:dug₄[to-say]V
+c.3.3.02,Letter from Lugal-nesaŋe to a king radiant as the moon,Urim,7,Nibru[1]SN
+c.3.3.02,Letter from Lugal-nesaŋe to a king radiant as the moon,Urim,8,udu[sheep]N ka[mouth]N u₂[plant]N gu₇[to-eat]V šub[to-fall]V
+c.3.3.02,Letter from Lugal-nesaŋe to a king radiant as the moon,Urim,9,naŋa[potash]N dub₂[to-tremble]V bad[to-open]V
+c.3.3.02,Letter from Lugal-nesaŋe to a king radiant as the moon,Urim,10,gud[bull]N šudul[yoke]N ha-za[to-hold]V
+c.3.3.02,Letter from Lugal-nesaŋe to a king radiant as the moon,Urim,11,edin[open-country]N ŋen[to-go]V
+c.3.3.02,Letter from Lugal-nesaŋe to a king radiant as the moon,Urim,12,ab₂[cow]N amar[calf]N la₂[to-hang]V
+c.3.3.02,Letter from Lugal-nesaŋe to a king radiant as the moon,Urim,13,gu₃[voice]N arhuš[compassion]N dug₄[to-say]V
 c.3.3.02,Letter from Lugal-nesaŋe to a king radiant as the moon,Urim,14,
-c.3.3.02,Letter from Lugal-nesaŋe to a king radiant as the moon,Urim,15,sux:šu[hand]N sux:dab₅[to-seize]V
-c.3.3.02,Letter from Lugal-nesaŋe to a king radiant as the moon,Urim,16,sux:ma₂[boat]N sux:kar[quay]N sux:gen₆[to-be-firm]V sux:taka₄[to-leave-behind]V
-c.3.3.02,Letter from Lugal-nesaŋe to a king radiant as the moon,Urim,17,sux:tum₉[wind]N sux:dirig[to-be-superior]V
+c.3.3.02,Letter from Lugal-nesaŋe to a king radiant as the moon,Urim,15,šu[hand]N dab₅[to-seize]V
+c.3.3.02,Letter from Lugal-nesaŋe to a king radiant as the moon,Urim,16,ma₂[boat]N kar[quay]N gen₆[to-be-firm]V taka₄[to-leave-behind]V
+c.3.3.02,Letter from Lugal-nesaŋe to a king radiant as the moon,Urim,17,tum₉[wind]N dirig[to-be-superior]V
 c.3.3.02,Letter from Lugal-nesaŋe to a king radiant as the moon,Urim,18,

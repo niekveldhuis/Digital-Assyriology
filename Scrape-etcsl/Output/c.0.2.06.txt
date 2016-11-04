@@ -1,34 +1,34 @@
 id_text,text_name,version,l_no,text
-c.0.2.06,OB catalogue from Nibru (N3),,1,sux:ur-saŋ[hero]N sux:alim[bison]N sux:mah[to-be-majestic]V
-c.0.2.06,OB catalogue from Nibru (N3),,2,sux:me-a[where]AV sux:lu[to-be-abundant]V
-c.0.2.06,OB catalogue from Nibru (N3),,3,sux:me-a-am[term-of-endearment]N
-c.0.2.06,OB catalogue from Nibru (N3),,4,sux:RI-RI[RI-RI]V
-c.0.2.06,OB catalogue from Nibru (N3),,5,sux:iri[town]N
-c.0.2.06,OB catalogue from Nibru (N3),,6,sux:ud[day(light)]N sux:re[that]PD
-c.0.2.06,OB catalogue from Nibru (N3),,7,sux:en[lord]N sux:me[essence]N sux:galam[to-be-skilful]V
-c.0.2.06,OB catalogue from Nibru (N3),,8,sux:me-a[where]AV sux:diŋir[deity]N
-c.0.2.06,OB catalogue from Nibru (N3),,9,sux:Gibil[1]DN sux:Gibil[1]DN
-c.0.2.06,OB catalogue from Nibru (N3),,10,sux:ud[day(light)]N sux:30[30]NU sux:ud[day(light)]N sux:nu₂[to-lie-down]V
-c.0.2.06,OB catalogue from Nibru (N3),,11,sux:an[heaven]N sux:uru₁₆[to-be-towering]V sux:gal[to-be-big]V
-c.0.2.06,OB catalogue from Nibru (N3),,12,sux:munus[woman]N sux:zid[right]AJ sux:me[essence]N sux:inim[word]N sux:dug₄[to-say]V
-c.0.2.06,OB catalogue from Nibru (N3),,13,sux:lugal[king]N sux:tud[to-give-birth]V
-c.0.2.06,OB catalogue from Nibru (N3),,14,sux:Ninlil[1]DN sux:nin[lady]N sux:Nibru[1]SN
-c.0.2.06,OB catalogue from Nibru (N3),,15,sux:en[lord]N sux:gal[to-be-big]V sux:an[heaven]N sux:ki[place]N
-c.0.2.06,OB catalogue from Nibru (N3),,16,sux:Ŋeštin[1]DN sux:nin[lady]N sux:ki[place]N sux:aŋ₂[to-measure]V
-c.0.2.06,OB catalogue from Nibru (N3),,17,sux:lugal[king]N sux:iri[town]N sux:ab₂[cow]N sux:lu[to-be-abundant]V
-c.0.2.06,OB catalogue from Nibru (N3),,18,sux:ud[storm]N sux:huš[to-be-reddish]V sux:gal[to-be-big]V
-c.0.2.06,OB catalogue from Nibru (N3),,19,sux:u₂[plant]N sux:sed₄[to-be-cold]V sux:sed₄[to-be-cold]V
-c.0.2.06,OB catalogue from Nibru (N3),,20,sux:en[lord]N sux:me[essence]N sux:sag₂[to-scatter]V sux:dug₄[to-say]V
-c.0.2.06,OB catalogue from Nibru (N3),,21,sux:kug[shining]AJ sux:tud[to-give-birth]V
+c.0.2.06,OB catalogue from Nibru (N3),,1,ur-saŋ[hero]N alim[bison]N mah[to-be-majestic]V
+c.0.2.06,OB catalogue from Nibru (N3),,2,me-a[where]AV lu[to-be-abundant]V
+c.0.2.06,OB catalogue from Nibru (N3),,3,me-a-am[term-of-endearment]N
+c.0.2.06,OB catalogue from Nibru (N3),,4,RI-RI[RI-RI]V
+c.0.2.06,OB catalogue from Nibru (N3),,5,iri[town]N
+c.0.2.06,OB catalogue from Nibru (N3),,6,ud[day(light)]N re[that]PD
+c.0.2.06,OB catalogue from Nibru (N3),,7,en[lord]N me[essence]N galam[to-be-skilful]V
+c.0.2.06,OB catalogue from Nibru (N3),,8,me-a[where]AV diŋir[deity]N
+c.0.2.06,OB catalogue from Nibru (N3),,9,Gibil[1]DN Gibil[1]DN
+c.0.2.06,OB catalogue from Nibru (N3),,10,ud[day(light)]N 30[30]NU ud[day(light)]N nu₂[to-lie-down]V
+c.0.2.06,OB catalogue from Nibru (N3),,11,an[heaven]N uru₁₆[to-be-towering]V gal[to-be-big]V
+c.0.2.06,OB catalogue from Nibru (N3),,12,munus[woman]N zid[right]AJ me[essence]N inim[word]N dug₄[to-say]V
+c.0.2.06,OB catalogue from Nibru (N3),,13,lugal[king]N tud[to-give-birth]V
+c.0.2.06,OB catalogue from Nibru (N3),,14,Ninlil[1]DN nin[lady]N Nibru[1]SN
+c.0.2.06,OB catalogue from Nibru (N3),,15,en[lord]N gal[to-be-big]V an[heaven]N ki[place]N
+c.0.2.06,OB catalogue from Nibru (N3),,16,Ŋeštin[1]DN nin[lady]N ki[place]N aŋ₂[to-measure]V
+c.0.2.06,OB catalogue from Nibru (N3),,17,lugal[king]N iri[town]N ab₂[cow]N lu[to-be-abundant]V
+c.0.2.06,OB catalogue from Nibru (N3),,18,ud[storm]N huš[to-be-reddish]V gal[to-be-big]V
+c.0.2.06,OB catalogue from Nibru (N3),,19,u₂[plant]N sed₄[to-be-cold]V sed₄[to-be-cold]V
+c.0.2.06,OB catalogue from Nibru (N3),,20,en[lord]N me[essence]N sag₂[to-scatter]V dug₄[to-say]V
+c.0.2.06,OB catalogue from Nibru (N3),,21,kug[shining]AJ tud[to-give-birth]V
 c.0.2.06,OB catalogue from Nibru (N3),,22,
 c.0.2.06,OB catalogue from Nibru (N3),,23,
-c.0.2.06,OB catalogue from Nibru (N3),,24,sux:nam-til₃[life]N sux:ra-gaba[rider]N
-c.0.2.06,OB catalogue from Nibru (N3),,25,sux:u₂-šim[greenery]N sux:saŋ[head]N sux:il₂[to-raise]V
-c.0.2.06,OB catalogue from Nibru (N3),,26,sux:nin[lady]N sux:hi-li[attractiveness]N sux:šu[hand]N sux:du₇[to-be-perfect]V
-c.0.2.06,OB catalogue from Nibru (N3),,27,sux:ŋidru[sceptre]N sux:šu[hand]N sux:du₇[to-be-perfect]V
-c.0.2.06,OB catalogue from Nibru (N3),,28,sux:il₂[to-raise]V sux:il₂[to-raise]V
-c.0.2.06,OB catalogue from Nibru (N3),,29,sux:Inab[1]SN sux:me[to-be]V
-c.0.2.06,OB catalogue from Nibru (N3),,30,sux:ŋiš[tree]N sux:šub[to-fall]V
-c.0.2.06,OB catalogue from Nibru (N3),,31,sux:šubur[servant]N sux:šu[hand]N sux:mu₂[to-grow]V
-c.0.2.06,OB catalogue from Nibru (N3),,32,sux:lugal[king]N sux:ud[storm]N sux:ug[lion]N sux:šu[hand]N
-c.0.2.06,OB catalogue from Nibru (N3),,33,sux:ur-saŋ[hero]N sux:ud[day(light)]N sux:gal[to-be-big]V
+c.0.2.06,OB catalogue from Nibru (N3),,24,nam-til₃[life]N ra-gaba[rider]N
+c.0.2.06,OB catalogue from Nibru (N3),,25,u₂-šim[greenery]N saŋ[head]N il₂[to-raise]V
+c.0.2.06,OB catalogue from Nibru (N3),,26,nin[lady]N hi-li[attractiveness]N šu[hand]N du₇[to-be-perfect]V
+c.0.2.06,OB catalogue from Nibru (N3),,27,ŋidru[sceptre]N šu[hand]N du₇[to-be-perfect]V
+c.0.2.06,OB catalogue from Nibru (N3),,28,il₂[to-raise]V il₂[to-raise]V
+c.0.2.06,OB catalogue from Nibru (N3),,29,Inab[1]SN me[to-be]V
+c.0.2.06,OB catalogue from Nibru (N3),,30,ŋiš[tree]N šub[to-fall]V
+c.0.2.06,OB catalogue from Nibru (N3),,31,šubur[servant]N šu[hand]N mu₂[to-grow]V
+c.0.2.06,OB catalogue from Nibru (N3),,32,lugal[king]N ud[storm]N ug[lion]N šu[hand]N
+c.0.2.06,OB catalogue from Nibru (N3),,33,ur-saŋ[hero]N ud[day(light)]N gal[to-be-big]V

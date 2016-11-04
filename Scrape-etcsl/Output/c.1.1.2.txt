@@ -1,143 +1,143 @@
 id_text,text_name,version,l_no,text
-c.1.1.2,Enki and Ninmah,,1,sux:ud[day(light)]N sux:re[that]PD sux:ud[day(light)]N sux:an[heaven]N sux:ki[place]N sux:dim₂[to-create]V
-c.1.1.2,Enki and Ninmah,,2,sux:ŋi₆[night]N sux:re[that]PD sux:ŋi₆[night]N sux:an[heaven]N sux:ki[place]N sux:dim₂[to-create]V
-c.1.1.2,Enki and Ninmah,,3,sux:mu[year]N sux:re[that]PD sux:mu[year]N sux:nam[destiny]N sux:tar[to-cut]V
-c.1.1.2,Enki and Ninmah,,4,sux:Anuna[1]DN sux:tud[to-give-birth]V
-c.1.1.2,Enki and Ninmah,,5,sux:ama-inana[goddess]N sux:nam-NIR.PA[marriage]N sux:tuku[to-have]V
-c.1.1.2,Enki and Ninmah,,6,sux:ama-inana[goddess]N sux:an[heaven]N sux:ki[place]N sux:hal[to-divide-out]V
-c.1.1.2,Enki and Ninmah,,7,sux:ama-inana[goddess]N sux:peš[to-be-thick]V sux:tud[to-give-birth]V
-c.1.1.2,Enki and Ninmah,,8,sux:diŋir[deity]N sux:kurum₆[food-ration]N sux:unu₂[(dining)-hall]N sux:keše₂[to-bind]V
-c.1.1.2,Enki and Ninmah,,9,sux:diŋir[deity]N sux:šar₂[to-be-numerous]V sux:kiŋ₂[work]N sux:gub[to-stand]V sux:diŋir[deity]N sux:tur[to-be-small]V sux:du-lum[toil]N sux:il₂[to-raise]V
-c.1.1.2,Enki and Ninmah,,10,sux:diŋir[deity]N sux:id₂[watercourse]N sux:im[clay]N sux:dun[to-dig]V sux:sahar[earth]N sux:Harali[1]GN sux:dub[to-heap-up]V
-c.1.1.2,Enki and Ninmah,,11,sux:diŋir[deity]N sux:im[clay]N sux:ar₃-ar₃[to-grind]V sux:zi[life-(breath)]N sux:inim[word]N sux:ŋar[to-place]V
-c.1.1.2,Enki and Ninmah,,12,sux:ud[day(light)]N sux:ŋeštug₂[ear]N sux:daŋal[to-be-wide]V sux:mud[to-create]V sux:diŋir[deity]N sux:šar₂[to-be-numerous]V sux:ŋal₂[to-be-(located)]V
-c.1.1.2,Enki and Ninmah,,13,sux:Enki[1]DN sux:engur[subterranean-water]N sux:buru₃[to-penetrate]V sux:a-sur-ra[subterranean-water]N sux:ki[place]N sux:diŋir[deity]N sux:na-me[any]PD sux:šag₄[heart]N sux:u₆[wonder]N sux:dug₄[to-say]V
-c.1.1.2,Enki and Ninmah,,14,sux:ki-nu₂[sleeping-quarter]N sux:nu₂[to-lie-down]V sux:u₃[sleep]N sux:ku[to-lay-down]V sux:zig₃[to-rise]V
-c.1.1.2,Enki and Ninmah,,15,sux:diŋir[deity]N sux:er₂[tear]N sux:pad₃[to-find]V sux:a-nir[lament]N sux:ŋal₂[to-be-(located)]V sux:ak[to-do]V sux:dug₄[to-say]V
-c.1.1.2,Enki and Ninmah,,16,sux:lu₂[person]N sux:ku[to-lay-down]V sux:nu₂[to-lie-down]V sux:ki-nu₂[sleeping-quarter]N sux:zig₃[to-rise]V
-c.1.1.2,Enki and Ninmah,,17,sux:Namma[1]DN sux:ama[mother]N sux:palil[foremost]AJ sux:tud[to-give-birth]V sux:diŋir[deity]N sux:šar₂[to-be-numerous]V
-c.1.1.2,Enki and Ninmah,,18,sux:er₂[tear]N sux:diŋir[deity]N sux:dumu[child]N sux:de₆[to-carry]V
-c.1.1.2,Enki and Ninmah,,19,sux:nu₂[to-lie-down]V sux:u₃[sleep]N sux:ku[to-lay-down]V
-c.1.1.2,Enki and Ninmah,,20,sux:zig₃[to-rise]V
-c.1.1.2,Enki and Ninmah,,21,sux-x-emesal:dim₃-me-er[deity]N sux:šu[hand]N sux:dim₂[to-create]V sux:gu₂[neck]N sux:tu₁₁[to-strike-down]V
-c.1.1.2,Enki and Ninmah,,22,sux-x-emesal:du₅-mu[child]N sux:ki-nu₂[sleeping-quarter]N sux:zig₃[to-rise]V sux-x-emesal:i-bi₂[eye]N sux-x-emesal:ma-al[to-be-(located)]V sux-x-emesal:na-aŋ₂-kug-zu[wisdom]N sux:kiŋ₂[to-seek]V
-c.1.1.2,Enki and Ninmah,,23,sux:kiŋ₂-sig[late-afternoon-meal]N sux-x-emesal:dim₃-me-er[deity]N sux:dim₂[to-create]V sux:du-lum[toil]N sux:tu-lu[to-be-loose]V
-c.1.1.2,Enki and Ninmah,,24,sux:Enki[1]DN sux:inim[word]N sux:ama[mother]N sux:Namma[1]DN sux:ki-nu₂[sleeping-quarter]N sux:zig₃[to-rise]V
-c.1.1.2,Enki and Ninmah,,25,sux:Hal-an-kug[1]TN sux:niŋin₂[to-go-around]V sux:šag₄[heart]N sux:kuš₂[to-be-tired]V sux:haš₂[thigh]N sux:ra[to-beat]V
-c.1.1.2,Enki and Ninmah,,26,sux:ŋeštug₂[ear]N sux:ŋizzal[hearing]N sux:en₃[noun-part-of-multiword-verb]N sux:tar[to-cut]V sux:nam-kug-zu[wisdom]N sux:mud[to-create]V sux:me-dim₂[articulation]N sux:niŋ₂-nam[anything]PD sux:SIG₇-EN[birth-goddess?]N sux:SIG₇-HI[birth-goddess?]N sux:e₃[to-go-out-or-in]V
-c.1.1.2,Enki and Ninmah,,27,sux:Enki[1]DN sux:a₂[arm]N sux:de₆[to-carry]V sux:ŋeštug₂[ear]N sux:niŋin₂[to-go-around]V
-c.1.1.2,Enki and Ninmah,,28,sux:Enki[1]DN sux:mud[to-create]V sux:me-dim₂[articulation]N sux:ni₂-te-a-ni[himself;-herself]PD sux:šag₄[heart]N sux:ŋeštug₂[ear]N sux:de₅[to-collect]V
-c.1.1.2,Enki and Ninmah,,29,sux:ama[mother]N sux:Namma[1]DN sux:gu₃[voice]N sux:de₂[to-pour]V
-c.1.1.2,Enki and Ninmah,,30,sux:ama[mother]N sux:mud[to-create]V sux:ŋar[to-place]V sux:ŋal₂[to-be-(located)]V sux:dusu[earth-carrying-basket]N sux:diŋir[deity]N sux:keše₂[to-bind]V
-c.1.1.2,Enki and Ninmah,,31,sux:šag₄[heart]N sux:im[clay]N sux:ugu[skull]N sux:abzu[underground-water]N sux:šar₂[to-mix]V
-c.1.1.2,Enki and Ninmah,,32,sux:SIG₇-EN[birth-goddess?]N sux:SIG₇-HI[birth-goddess?]N sux:im[clay]N sux:kir₃-kir₃[to-nip-off]V sux:za[you-(sg.)]PD sux:me-dim₂[articulation]N sux:ŋal₂[to-be-(located)]V
-c.1.1.2,Enki and Ninmah,,33,sux:Ninmah[1]DN sux:an-ta[companion]N sux:ak[to-do]V
-c.1.1.2,Enki and Ninmah,,34,sux:Ninimma[1]DN sux:Šu-zi-ana[1]DN sux:Ninmada[1]DN sux:Ninbarag[1]DN
-c.1.1.2,Enki and Ninmah,,35,sux:Ninmug[1]DN sux:ŠAR.ŠAR.GABA[1]DN sux:Ninguna[1]DN
-c.1.1.2,Enki and Ninmah,,36,sux:tud[to-give-birth]V sux:gub[to-stand]V
-c.1.1.2,Enki and Ninmah,,37,sux:ama[mother]N sux:za[you-(sg.)]PD sux:nam[destiny]N sux:tar[to-cut]V sux:Ninmah[1]DN sux:dusu[earth-carrying-basket]N sux:keše₂[to-bind]V
-c.1.1.2,Enki and Ninmah,,38,sux:du₃[to-erect]V sux:nam-lu₂-ulu₃[humanity]N
-c.1.1.2,Enki and Ninmah,,39,sux:nam-lu₂-ulu₃[humanity]N sux:X[X]V
-c.1.1.2,Enki and Ninmah,,40,sux:saŋ[head]N sux:saŋ[head]N sux:X[X]V
-c.1.1.2,Enki and Ninmah,,41,sux:dim₂[to-create]V sux:unu₂[(dining)-hall]N sux:me[to-be]V
-c.1.1.2,Enki and Ninmah,,42,sux:ŋiš-nu₁₁[light]N sux:il₂[to-raise]V sux:nam-lu₂-ulu₃[humanity]N
-c.1.1.2,Enki and Ninmah,,43,sux:sag₂[to-scatter]V sux:numun₂[alfalfa]N sux:ri[to-direct]V sux:tud[to-give-birth]V sux:na[smoke?]N sux:de₅[to-collect]V
-c.1.1.2,Enki and Ninmah,,44,sux:Enki[1]DN sux:kiŋ₂[work]N sux:niŋin₂[to-go-around]V sux:la₂[to-hang]V sux:šag₄[heart]N sux:hul₂[to-be-happy]V
-c.1.1.2,Enki and Ninmah,,45,sux:ama[mother]N sux:Namma[1]DN sux:Ninmah[1]DN sux:ŋišbun[(cult)-meal]N sux:ŋar[to-place]V
-c.1.1.2,Enki and Ninmah,,46,sux:gu₂[entirety]N sux:SIG₇-EN[birth-goddess?]N sux:SIG₇-HI[birth-goddess?]N sux:nun[prince]N sux:nam-tar[destiny]N sux:gi[reed]N sux:saŋ[head]N sux:ninda[bread]N sux:gu₇[to-eat]V
-c.1.1.2,Enki and Ninmah,,47,sux:An[1]DN sux:Enlil[1]DN sux:en[lord]N sux:Nudimmud[1]DN sux:maš₂[(kid)-goat]N sux:kug[shining]AJ sux:šeŋ₆[to-be-hot]V
-c.1.1.2,Enki and Ninmah,,48,sux:diŋir[deity]N sux:šar₂[to-be-numerous]V sux:ka[mouth]N sux:tar[to-cut]V sux:si-il[to-split-apart]V
-c.1.1.2,Enki and Ninmah,,49,sux:en[lord]N sux:ŋeštug₂[ear]N sux:daŋal[to-be-wide]V sux:a-ba[who]PD sux:ŋeštug₂[ear]N sux:de₅[to-collect]V
-c.1.1.2,Enki and Ninmah,,50,sux:en[lord]N sux:gal[to-be-big]V sux:Enki[1]DN sux:niŋ₂[thing]N sux:ak[to-do]V sux:a-ba[who]PD sux:sig₁₀[to-place]V
-c.1.1.2,Enki and Ninmah,,51,sux:a-a[father]N sux:tud[to-give-birth]V sux:me[essence]N sux:nam[destiny]N sux:tar[to-cut]V sux:me[essence]N sux:za[you-(sg.)]PD sux:me[to-be]V
-c.1.1.2,Enki and Ninmah,,52,sux:Enki[1]DN sux:Ninmah[1]DN sux:kaš[beer]N sux:naŋ[to-drink]V sux:šag₄[heart]N sux:ul[to-swell-(with-joy)]V sux:te[to-approach]V
-c.1.1.2,Enki and Ninmah,,53,sux:Ninmah[1]DN sux:Enki[1]DN sux:gu₃[voice]N sux:de₂[to-pour]V
-c.1.1.2,Enki and Ninmah,,54,sux:me-dim₂[articulation]N sux-x-emesal:na-aŋ₂-lu₂-ulu₃[humanity]N sux:sag₉[to-be-good]V sux:hul[to-be-bad]V sux-x-emesal:ma-al[to-be-(located)]V
-c.1.1.2,Enki and Ninmah,,55,sux:ki[place]N sux:šag₄[heart]N sux:gi₄[to-return]V sux-x-emesal:na-aŋ₂-tar[destiny]N sux:sig₁₀[to-place]V sux:hul[to-be-bad]V
-c.1.1.2,Enki and Ninmah,,56,sux:Enki[1]DN sux:Ninmah[1]DN sux:gi₄[to-return]V
-c.1.1.2,Enki and Ninmah,,57,sux:nam-tar[destiny]N sux:šag₄[heart]N sux:de₆[to-carry]V sux:sag₉[to-be-good]V sux:hul[to-be-bad]V sux-x-emesal:ma-al[to-be-(located)]V sux:la₂[to-hang]V
-c.1.1.2,Enki and Ninmah,,58,sux:Ninmah[1]DN sux:im[clay]N sux:ugu[skull]N sux:abzu[underground-water]N sux:šu[hand]N sux:te[to-approach]V
-c.1.1.2,Enki and Ninmah,,59,sux:lu₂[person]N sux:gi[1st]NU sux:šu[hand]N sux:šu₂[to-cover]V sux:sa₂[to-equal]V sux:gam[to-bow-down]V sux:lu₂[person]N sux:dim₂[to-create]V
-c.1.1.2,Enki and Ninmah,,60,sux:Enki[1]DN sux:lu₂[person]N sux:gi[1st]NU sux:šu[hand]N sux:šu₂[to-cover]V sux:sa₂[to-equal]V sux:gam[to-bow-down]V sux:igi[eye]N sux:du₈[to-spread]V
-c.1.1.2,Enki and Ninmah,,61,sux:nam[destiny]N sux:tar[to-cut]V sux:saŋ[head]N sux:lugal[king]N sux:gub[to-stand]V
-c.1.1.2,Enki and Ninmah,,62,sux:gi4-bi[2nd]NU sux:ŋiš-nu₁₁[light]N sux:gi₄[to-return]V sux:lu₂[person]N sux:u₆[to-overview]V sux:dim₂[to-create]V
-c.1.1.2,Enki and Ninmah,,63,sux:Enki[1]DN sux:ŋiš-nu₁₁[light]N sux:gi₄[to-return]V sux:lu₂[person]N sux:u₆[to-overview]V sux:igi[eye]N sux:du₈[to-spread]V
-c.1.1.2,Enki and Ninmah,,64,sux:nam[destiny]N sux:tar[to-cut]V sux:nam-nar[musician's-craft]N sux:ba[to-allot]V
-c.1.1.2,Enki and Ninmah,,65,sux:gal[to-be-big]V sux:ušumgal[type-of-serpent]N sux:igi[eye]N sux:lugal[king]N sux:gub[to-stand]V
-c.1.1.2,Enki and Ninmah,,66,sux:pec-bi[3rd]NU sux:ŋiri₃[foot]N sux:2[2]NU sux:hum[to-snap-off]V sux:ŋiri₃[foot]N sux:dab₅[to-seize]V sux:dim₂[to-create]V
-c.1.1.2,Enki and Ninmah,,67,sux:Enki[1]DN sux:ŋiri₃[foot]N sux:2[2]NU sux:hum[to-snap-off]V sux:ŋiri₃[foot]N sux:dab₅[to-seize]V sux:igi[eye]N sux:du₈[to-spread]V
-c.1.1.2,Enki and Ninmah,,68,sux:kiŋ₂[work]N sux:kug-babbar-dim₂[silversmith]N sux:me-lem₄[(awesome)-radiance]N
-c.1.1.2,Enki and Ninmah,,69,sux:pec-gi[4th]NU sux:lu₂[person]N sux:a[water]N sux:sur[to-drip]V sux:dim₂[to-create]V
-c.1.1.2,Enki and Ninmah,,70,sux:Enki[1]DN sux:lu₂[person]N sux:a[water]N sux:sur[to-drip]V sux:igi[eye]N sux:du₈[to-spread]V
-c.1.1.2,Enki and Ninmah,,71,sux:a[water]N sux:mu₇-mu₇[incantation]N sux:tu₅[to-wash]V sux:Namtar[1]DN sux:su[flesh]N sux:zig₃[to-rise]V
-c.1.1.2,Enki and Ninmah,,72,sux:pec-pec-gi[5th]NU sux:munus[woman]N sux:tud[to-give-birth]V sux:dim₂[to-create]V
-c.1.1.2,Enki and Ninmah,,73,sux:Enki[1]DN sux:munus[woman]N sux:tud[to-give-birth]V sux:igi[eye]N sux:du₈[to-spread]V
-c.1.1.2,Enki and Ninmah,,74,sux:nam[destiny]N sux:tar[to-cut]V sux:e₂-mi₂[woman's-estate]N sux:du₃[to-erect]V
-c.1.1.2,Enki and Ninmah,,75,sux:pec-bal-gi[6th]NU sux:lu₂[person]N sux:su[flesh]N sux:ŋiš₃[penis]N sux:ŋar[to-place]V sux:gal₄-la[female-genitals]N sux:ŋar[to-place]V sux:dim₂[to-create]V
-c.1.1.2,Enki and Ninmah,,76,sux:Enki[1]DN sux:lu₂[person]N sux:su[flesh]N sux:ŋiš₃[penis]N sux:ŋar[to-place]V sux:gal₄-la[female-genitals]N sux:ŋar[to-place]V sux:igi[eye]N sux:du₈[to-spread]V
-c.1.1.2,Enki and Ninmah,,77,sux:Nibru[1]SN sux:tiru[courtier]N sux:mu[name]N sux:sa₄[to-call]V
-c.1.1.2,Enki and Ninmah,,78,sux:igi[eye]N sux:lugal[king]N sux:gub[to-stand]V sux:nam[destiny]N sux:tar[to-cut]V
-c.1.1.2,Enki and Ninmah,,79,sux:Ninmah[1]DN sux:im[clay]N sux:niŋin₂[to-go-around]V sux:šu[hand]N sux:ki[place]N sux:šub[to-fall]V sux:lul[to-be-false]V sux:lib[(deathly)-silence]N sux:ŋar[to-place]V
-c.1.1.2,Enki and Ninmah,,80,sux:en[lord]N sux:gal[to-be-big]V sux:Enki[1]DN sux:Ninmah[1]DN sux:gu₃[voice]N sux:de₂[to-pour]V
-c.1.1.2,Enki and Ninmah,,81,sux:lu₂[person]N sux:šu[hand]N sux:dim₂[to-create]V sux:nam[destiny]N sux:tar[to-cut]V sux:ninda[bread]N sux:šum₂[to-give]V
-c.1.1.2,Enki and Ninmah,,82,sux:ŋe₂₆[I]PD sux:ga-na[directive-expression]I sux:dim₂[to-create]V sux:za[you-(sg.)]PD sux:tud[to-give-birth]V sux:nam[destiny]N sux:tar[to-cut]V
-c.1.1.2,Enki and Ninmah,,83,sux:Enki[1]DN sux:me-dim₂[articulation]N sux:saŋ[head]N sux:ka[mouth]N sux:šag₄[heart]N sux:dim₂[to-create]V
-c.1.1.2,Enki and Ninmah,,84,sux:Ninmah[1]DN sux:gu₃[voice]N sux:de₂[to-pour]V
-c.1.1.2,Enki and Ninmah,,85,sux:a[water]N sux:ŋiš₃[penis]N sux:ak[to-do]V sux:šag₄[heart]N sux:munus[woman]N sux:ri[to-direct]V sux:a[water]N sux:šag₄[heart]N sux:munus[woman]N sux:tud[to-give-birth]V
-c.1.1.2,Enki and Ninmah,,86,sux:Ninmah[1]DN sux:tud[to-give-birth]V sux:gub[to-stand]V
-c.1.1.2,Enki and Ninmah,,87,sux:munus[woman]N sux:ud[day(light)]N sux:šag₄[heart]N sux:šub[to-fall]V
-c.1.1.2,Enki and Ninmah,,87A,sux:Ninmah[1]DN sux:sig₉[to-put]V
-c.1.1.2,Enki and Ninmah,,88,sux:gi₄[to-return]V sux:u₄-mu-ul[sickly-creature]N sux:a-za-ad[head]N sux:gig[to-be-ill]V sux:ki[place]N sux:X[X]N sux:gig[to-be-ill]V sux:igi[eye]N sux:gig[to-be-ill]V sux:gu₂[neck]N sux:gig[to-be-ill]V
-c.1.1.2,Enki and Ninmah,,89,sux:zi[life-(breath)]N sux:til[to-complete]V sux:ti[rib]N sux:sur[to-drip]V sux:mur[lung]N sux:gig[to-be-ill]V sux:šag₄[heart]N sux:gig[to-be-ill]V sux:lipiš[inner-body]N sux:gig[to-be-ill]V
-c.1.1.2,Enki and Ninmah,,90,sux:šu[hand]N sux:a-za-ad[head]N sux:la₂[to-hang]V sux:ka[mouth]N sux:ninda[bread]N sux:ŋar[to-place]V sux:murgu[back]N sux:saŋ-du[head]N sux:ze₂-er[to-tear-out]V
-c.1.1.2,Enki and Ninmah,,91,sux:zag-še[shoulder]N sux:sur[to-drip]V sux:ŋiri₃[foot]N sux:sur[to-drip]V sux:a-gar₃[meadow]N sux:DU[DU]V sux:dim₂[to-create]V
-c.1.1.2,Enki and Ninmah,,92,sux:Enki[1]DN sux:Ninmah[1]DN sux:gu₃[voice]N sux:de₂[to-pour]V
-c.1.1.2,Enki and Ninmah,,93,sux:lu₂[person]N sux:šu[hand]N sux:dim₂[to-create]V sux:nam[destiny]N sux:tar[to-cut]V sux:ninda[bread]N sux:šum₂[to-give]V
-c.1.1.2,Enki and Ninmah,,94,sux:za[you-(sg.)]PD sux:lu₂[person]N sux:šu[hand]N sux:dim₂[to-create]V sux:nam[destiny]N sux:tar[to-cut]V sux:ninda[bread]N sux:šum₂[to-give]V
-c.1.1.2,Enki and Ninmah,,95,sux:Ninmah[1]DN sux:u₄-mu-ul[sickly-creature]N sux:igi[eye]N sux:du₈[to-spread]V sux:e-ne[he;-she]PD sux:gi₄[to-return]V
-c.1.1.2,Enki and Ninmah,,96,sux:u₄-mu-ul[sickly-creature]N sux:te[to-approach]V sux:en₃[noun-part-of-multiword-verb]N sux:tar[to-cut]V sux:dug₄[to-say]V sux:zu[to-know]V
-c.1.1.2,Enki and Ninmah,,97,sux:ninda[bread]N sux:gu₇[to-eat]V sux:de₆[to-carry]V sux:šu[hand]N sux:gid₂[to-be-long]V
-c.1.1.2,Enki and Ninmah,,98,sux:gur₈-u₆[wooden-object]N sux:šag₄[heart]N sux:nu₂[to-lie-down]V sux:ŋal₂[to-be-(located)]V
-c.1.1.2,Enki and Ninmah,,99,sux:gub[to-stand]V sux:tuš[to-sit]V sux:nu₂[to-lie-down]V sux:e₂[house(hold)]N sux:ninda[bread]N sux:gu₇[to-eat]V
-c.1.1.2,Enki and Ninmah,,100,sux:Ninmah[1]DN sux:Enki[1]DN sux:inim[word]N sux:gi₄[to-return]V
-c.1.1.2,Enki and Ninmah,,101,sux:lu₂[person]N sux:šu[hand]N sux:dim₂[to-create]V sux:lu₂[person]N sux:til₃[to-live]V sux:me[to-be]V sux:lu₂[person]N sux:uš₂[to-die]V sux:me[to-be]V sux:il₂[to-raise]V sux:me[to-be]V
-c.1.1.2,Enki and Ninmah,,102,sux:Enki[1]DN sux:Ninmah[1]DN sux:gi₄[to-return]V
-c.1.1.2,Enki and Ninmah,,103,sux:lu₂[person]N sux:gi[1st]NU sux:šu[hand]N sux:sig[to-be-low]V sux:nam[destiny]N sux:tar[to-cut]V sux:ninda[bread]N sux:šum₂[to-give]V
-c.1.1.2,Enki and Ninmah,,104,sux:lu₂[person]N sux:ŋiš-nu₁₁[light]N sux:gi₄[to-return]V sux:nam[destiny]N sux:tar[to-cut]V sux:ninda[bread]N sux:šum₂[to-give]V
-c.1.1.2,Enki and Ninmah,,105,sux:lu₂[person]N sux:ŋiri₃[foot]N sux:hum[to-snap-off]V sux:dab₅[to-seize]V sux:nam[destiny]N sux:tar[to-cut]V sux:ninda[bread]N sux:šum₂[to-give]V
-c.1.1.2,Enki and Ninmah,,106,sux:lu₂[person]N sux:a[water]N sux:sur[to-drip]V sux:nam[destiny]N sux:tar[to-cut]V sux:ninda[bread]N sux:šum₂[to-give]V
-c.1.1.2,Enki and Ninmah,,107,sux:munus[woman]N sux:tud[to-give-birth]V sux:nam[destiny]N sux:tar[to-cut]V sux:ninda[bread]N sux:šum₂[to-give]V
-c.1.1.2,Enki and Ninmah,,108,sux:lu₂[person]N sux:su[flesh]N sux:ŋiš₃[penis]N sux:ŋar[to-place]V sux:gal₄-la[female-genitals]N sux:ŋar[to-place]V sux:nam[destiny]N sux:tar[to-cut]V sux:ninda[bread]N sux:šum₂[to-give]V
-c.1.1.2,Enki and Ninmah,,109,sux:nin₉[sister]N
+c.1.1.2,Enki and Ninmah,,1,ud[day(light)]N re[that]PD ud[day(light)]N an[heaven]N ki[place]N dim₂[to-create]V
+c.1.1.2,Enki and Ninmah,,2,ŋi₆[night]N re[that]PD ŋi₆[night]N an[heaven]N ki[place]N dim₂[to-create]V
+c.1.1.2,Enki and Ninmah,,3,mu[year]N re[that]PD mu[year]N nam[destiny]N tar[to-cut]V
+c.1.1.2,Enki and Ninmah,,4,Anuna[1]DN tud[to-give-birth]V
+c.1.1.2,Enki and Ninmah,,5,ama-inana[goddess]N nam-NIR.PA[marriage]N tuku[to-have]V
+c.1.1.2,Enki and Ninmah,,6,ama-inana[goddess]N an[heaven]N ki[place]N hal[to-divide-out]V
+c.1.1.2,Enki and Ninmah,,7,ama-inana[goddess]N peš[to-be-thick]V tud[to-give-birth]V
+c.1.1.2,Enki and Ninmah,,8,diŋir[deity]N kurum₆[food-ration]N unu₂[(dining)-hall]N keše₂[to-bind]V
+c.1.1.2,Enki and Ninmah,,9,diŋir[deity]N šar₂[to-be-numerous]V kiŋ₂[work]N gub[to-stand]V diŋir[deity]N tur[to-be-small]V du-lum[toil]N il₂[to-raise]V
+c.1.1.2,Enki and Ninmah,,10,diŋir[deity]N id₂[watercourse]N im[clay]N dun[to-dig]V sahar[earth]N Harali[1]GN dub[to-heap-up]V
+c.1.1.2,Enki and Ninmah,,11,diŋir[deity]N im[clay]N ar₃-ar₃[to-grind]V zi[life-(breath)]N inim[word]N ŋar[to-place]V
+c.1.1.2,Enki and Ninmah,,12,ud[day(light)]N ŋeštug₂[ear]N daŋal[to-be-wide]V mud[to-create]V diŋir[deity]N šar₂[to-be-numerous]V ŋal₂[to-be-(located)]V
+c.1.1.2,Enki and Ninmah,,13,Enki[1]DN engur[subterranean-water]N buru₃[to-penetrate]V a-sur-ra[subterranean-water]N ki[place]N diŋir[deity]N na-me[any]PD šag₄[heart]N u₆[wonder]N dug₄[to-say]V
+c.1.1.2,Enki and Ninmah,,14,ki-nu₂[sleeping-quarter]N nu₂[to-lie-down]V u₃[sleep]N ku[to-lay-down]V zig₃[to-rise]V
+c.1.1.2,Enki and Ninmah,,15,diŋir[deity]N er₂[tear]N pad₃[to-find]V a-nir[lament]N ŋal₂[to-be-(located)]V ak[to-do]V dug₄[to-say]V
+c.1.1.2,Enki and Ninmah,,16,lu₂[person]N ku[to-lay-down]V nu₂[to-lie-down]V ki-nu₂[sleeping-quarter]N zig₃[to-rise]V
+c.1.1.2,Enki and Ninmah,,17,Namma[1]DN ama[mother]N palil[foremost]AJ tud[to-give-birth]V diŋir[deity]N šar₂[to-be-numerous]V
+c.1.1.2,Enki and Ninmah,,18,er₂[tear]N diŋir[deity]N dumu[child]N de₆[to-carry]V
+c.1.1.2,Enki and Ninmah,,19,nu₂[to-lie-down]V u₃[sleep]N ku[to-lay-down]V
+c.1.1.2,Enki and Ninmah,,20,zig₃[to-rise]V
+c.1.1.2,Enki and Ninmah,,21,dim₃-me-er[deity]N šu[hand]N dim₂[to-create]V gu₂[neck]N tu₁₁[to-strike-down]V
+c.1.1.2,Enki and Ninmah,,22,du₅-mu[child]N ki-nu₂[sleeping-quarter]N zig₃[to-rise]V i-bi₂[eye]N ma-al[to-be-(located)]V na-aŋ₂-kug-zu[wisdom]N kiŋ₂[to-seek]V
+c.1.1.2,Enki and Ninmah,,23,kiŋ₂-sig[late-afternoon-meal]N dim₃-me-er[deity]N dim₂[to-create]V du-lum[toil]N tu-lu[to-be-loose]V
+c.1.1.2,Enki and Ninmah,,24,Enki[1]DN inim[word]N ama[mother]N Namma[1]DN ki-nu₂[sleeping-quarter]N zig₃[to-rise]V
+c.1.1.2,Enki and Ninmah,,25,Hal-an-kug[1]TN niŋin₂[to-go-around]V šag₄[heart]N kuš₂[to-be-tired]V haš₂[thigh]N ra[to-beat]V
+c.1.1.2,Enki and Ninmah,,26,ŋeštug₂[ear]N ŋizzal[hearing]N en₃[noun-part-of-multiword-verb]N tar[to-cut]V nam-kug-zu[wisdom]N mud[to-create]V me-dim₂[articulation]N niŋ₂-nam[anything]PD SIG₇-EN[birth-goddess?]N SIG₇-HI[birth-goddess?]N e₃[to-go-out-or-in]V
+c.1.1.2,Enki and Ninmah,,27,Enki[1]DN a₂[arm]N de₆[to-carry]V ŋeštug₂[ear]N niŋin₂[to-go-around]V
+c.1.1.2,Enki and Ninmah,,28,Enki[1]DN mud[to-create]V me-dim₂[articulation]N ni₂-te-a-ni[himself;-herself]PD šag₄[heart]N ŋeštug₂[ear]N de₅[to-collect]V
+c.1.1.2,Enki and Ninmah,,29,ama[mother]N Namma[1]DN gu₃[voice]N de₂[to-pour]V
+c.1.1.2,Enki and Ninmah,,30,ama[mother]N mud[to-create]V ŋar[to-place]V ŋal₂[to-be-(located)]V dusu[earth-carrying-basket]N diŋir[deity]N keše₂[to-bind]V
+c.1.1.2,Enki and Ninmah,,31,šag₄[heart]N im[clay]N ugu[skull]N abzu[underground-water]N šar₂[to-mix]V
+c.1.1.2,Enki and Ninmah,,32,SIG₇-EN[birth-goddess?]N SIG₇-HI[birth-goddess?]N im[clay]N kir₃-kir₃[to-nip-off]V za[you-(sg.)]PD me-dim₂[articulation]N ŋal₂[to-be-(located)]V
+c.1.1.2,Enki and Ninmah,,33,Ninmah[1]DN an-ta[companion]N ak[to-do]V
+c.1.1.2,Enki and Ninmah,,34,Ninimma[1]DN Šu-zi-ana[1]DN Ninmada[1]DN Ninbarag[1]DN
+c.1.1.2,Enki and Ninmah,,35,Ninmug[1]DN ŠAR.ŠAR.GABA[1]DN Ninguna[1]DN
+c.1.1.2,Enki and Ninmah,,36,tud[to-give-birth]V gub[to-stand]V
+c.1.1.2,Enki and Ninmah,,37,ama[mother]N za[you-(sg.)]PD nam[destiny]N tar[to-cut]V Ninmah[1]DN dusu[earth-carrying-basket]N keše₂[to-bind]V
+c.1.1.2,Enki and Ninmah,,38,du₃[to-erect]V nam-lu₂-ulu₃[humanity]N
+c.1.1.2,Enki and Ninmah,,39,nam-lu₂-ulu₃[humanity]N X[X]V
+c.1.1.2,Enki and Ninmah,,40,saŋ[head]N saŋ[head]N X[X]V
+c.1.1.2,Enki and Ninmah,,41,dim₂[to-create]V unu₂[(dining)-hall]N me[to-be]V
+c.1.1.2,Enki and Ninmah,,42,ŋiš-nu₁₁[light]N il₂[to-raise]V nam-lu₂-ulu₃[humanity]N
+c.1.1.2,Enki and Ninmah,,43,sag₂[to-scatter]V numun₂[alfalfa]N ri[to-direct]V tud[to-give-birth]V na[smoke?]N de₅[to-collect]V
+c.1.1.2,Enki and Ninmah,,44,Enki[1]DN kiŋ₂[work]N niŋin₂[to-go-around]V la₂[to-hang]V šag₄[heart]N hul₂[to-be-happy]V
+c.1.1.2,Enki and Ninmah,,45,ama[mother]N Namma[1]DN Ninmah[1]DN ŋišbun[(cult)-meal]N ŋar[to-place]V
+c.1.1.2,Enki and Ninmah,,46,gu₂[entirety]N SIG₇-EN[birth-goddess?]N SIG₇-HI[birth-goddess?]N nun[prince]N nam-tar[destiny]N gi[reed]N saŋ[head]N ninda[bread]N gu₇[to-eat]V
+c.1.1.2,Enki and Ninmah,,47,An[1]DN Enlil[1]DN en[lord]N Nudimmud[1]DN maš₂[(kid)-goat]N kug[shining]AJ šeŋ₆[to-be-hot]V
+c.1.1.2,Enki and Ninmah,,48,diŋir[deity]N šar₂[to-be-numerous]V ka[mouth]N tar[to-cut]V si-il[to-split-apart]V
+c.1.1.2,Enki and Ninmah,,49,en[lord]N ŋeštug₂[ear]N daŋal[to-be-wide]V a-ba[who]PD ŋeštug₂[ear]N de₅[to-collect]V
+c.1.1.2,Enki and Ninmah,,50,en[lord]N gal[to-be-big]V Enki[1]DN niŋ₂[thing]N ak[to-do]V a-ba[who]PD sig₁₀[to-place]V
+c.1.1.2,Enki and Ninmah,,51,a-a[father]N tud[to-give-birth]V me[essence]N nam[destiny]N tar[to-cut]V me[essence]N za[you-(sg.)]PD me[to-be]V
+c.1.1.2,Enki and Ninmah,,52,Enki[1]DN Ninmah[1]DN kaš[beer]N naŋ[to-drink]V šag₄[heart]N ul[to-swell-(with-joy)]V te[to-approach]V
+c.1.1.2,Enki and Ninmah,,53,Ninmah[1]DN Enki[1]DN gu₃[voice]N de₂[to-pour]V
+c.1.1.2,Enki and Ninmah,,54,me-dim₂[articulation]N na-aŋ₂-lu₂-ulu₃[humanity]N sag₉[to-be-good]V hul[to-be-bad]V ma-al[to-be-(located)]V
+c.1.1.2,Enki and Ninmah,,55,ki[place]N šag₄[heart]N gi₄[to-return]V na-aŋ₂-tar[destiny]N sig₁₀[to-place]V hul[to-be-bad]V
+c.1.1.2,Enki and Ninmah,,56,Enki[1]DN Ninmah[1]DN gi₄[to-return]V
+c.1.1.2,Enki and Ninmah,,57,nam-tar[destiny]N šag₄[heart]N de₆[to-carry]V sag₉[to-be-good]V hul[to-be-bad]V ma-al[to-be-(located)]V la₂[to-hang]V
+c.1.1.2,Enki and Ninmah,,58,Ninmah[1]DN im[clay]N ugu[skull]N abzu[underground-water]N šu[hand]N te[to-approach]V
+c.1.1.2,Enki and Ninmah,,59,lu₂[person]N gi[1st]NU šu[hand]N šu₂[to-cover]V sa₂[to-equal]V gam[to-bow-down]V lu₂[person]N dim₂[to-create]V
+c.1.1.2,Enki and Ninmah,,60,Enki[1]DN lu₂[person]N gi[1st]NU šu[hand]N šu₂[to-cover]V sa₂[to-equal]V gam[to-bow-down]V igi[eye]N du₈[to-spread]V
+c.1.1.2,Enki and Ninmah,,61,nam[destiny]N tar[to-cut]V saŋ[head]N lugal[king]N gub[to-stand]V
+c.1.1.2,Enki and Ninmah,,62,gi4-bi[2nd]NU ŋiš-nu₁₁[light]N gi₄[to-return]V lu₂[person]N u₆[to-overview]V dim₂[to-create]V
+c.1.1.2,Enki and Ninmah,,63,Enki[1]DN ŋiš-nu₁₁[light]N gi₄[to-return]V lu₂[person]N u₆[to-overview]V igi[eye]N du₈[to-spread]V
+c.1.1.2,Enki and Ninmah,,64,nam[destiny]N tar[to-cut]V nam-nar[musician's-craft]N ba[to-allot]V
+c.1.1.2,Enki and Ninmah,,65,gal[to-be-big]V ušumgal[type-of-serpent]N igi[eye]N lugal[king]N gub[to-stand]V
+c.1.1.2,Enki and Ninmah,,66,pec-bi[3rd]NU ŋiri₃[foot]N 2[2]NU hum[to-snap-off]V ŋiri₃[foot]N dab₅[to-seize]V dim₂[to-create]V
+c.1.1.2,Enki and Ninmah,,67,Enki[1]DN ŋiri₃[foot]N 2[2]NU hum[to-snap-off]V ŋiri₃[foot]N dab₅[to-seize]V igi[eye]N du₈[to-spread]V
+c.1.1.2,Enki and Ninmah,,68,kiŋ₂[work]N kug-babbar-dim₂[silversmith]N me-lem₄[(awesome)-radiance]N
+c.1.1.2,Enki and Ninmah,,69,pec-gi[4th]NU lu₂[person]N a[water]N sur[to-drip]V dim₂[to-create]V
+c.1.1.2,Enki and Ninmah,,70,Enki[1]DN lu₂[person]N a[water]N sur[to-drip]V igi[eye]N du₈[to-spread]V
+c.1.1.2,Enki and Ninmah,,71,a[water]N mu₇-mu₇[incantation]N tu₅[to-wash]V Namtar[1]DN su[flesh]N zig₃[to-rise]V
+c.1.1.2,Enki and Ninmah,,72,pec-pec-gi[5th]NU munus[woman]N tud[to-give-birth]V dim₂[to-create]V
+c.1.1.2,Enki and Ninmah,,73,Enki[1]DN munus[woman]N tud[to-give-birth]V igi[eye]N du₈[to-spread]V
+c.1.1.2,Enki and Ninmah,,74,nam[destiny]N tar[to-cut]V e₂-mi₂[woman's-estate]N du₃[to-erect]V
+c.1.1.2,Enki and Ninmah,,75,pec-bal-gi[6th]NU lu₂[person]N su[flesh]N ŋiš₃[penis]N ŋar[to-place]V gal₄-la[female-genitals]N ŋar[to-place]V dim₂[to-create]V
+c.1.1.2,Enki and Ninmah,,76,Enki[1]DN lu₂[person]N su[flesh]N ŋiš₃[penis]N ŋar[to-place]V gal₄-la[female-genitals]N ŋar[to-place]V igi[eye]N du₈[to-spread]V
+c.1.1.2,Enki and Ninmah,,77,Nibru[1]SN tiru[courtier]N mu[name]N sa₄[to-call]V
+c.1.1.2,Enki and Ninmah,,78,igi[eye]N lugal[king]N gub[to-stand]V nam[destiny]N tar[to-cut]V
+c.1.1.2,Enki and Ninmah,,79,Ninmah[1]DN im[clay]N niŋin₂[to-go-around]V šu[hand]N ki[place]N šub[to-fall]V lul[to-be-false]V lib[(deathly)-silence]N ŋar[to-place]V
+c.1.1.2,Enki and Ninmah,,80,en[lord]N gal[to-be-big]V Enki[1]DN Ninmah[1]DN gu₃[voice]N de₂[to-pour]V
+c.1.1.2,Enki and Ninmah,,81,lu₂[person]N šu[hand]N dim₂[to-create]V nam[destiny]N tar[to-cut]V ninda[bread]N šum₂[to-give]V
+c.1.1.2,Enki and Ninmah,,82,ŋe₂₆[I]PD ga-na[directive-expression]I dim₂[to-create]V za[you-(sg.)]PD tud[to-give-birth]V nam[destiny]N tar[to-cut]V
+c.1.1.2,Enki and Ninmah,,83,Enki[1]DN me-dim₂[articulation]N saŋ[head]N ka[mouth]N šag₄[heart]N dim₂[to-create]V
+c.1.1.2,Enki and Ninmah,,84,Ninmah[1]DN gu₃[voice]N de₂[to-pour]V
+c.1.1.2,Enki and Ninmah,,85,a[water]N ŋiš₃[penis]N ak[to-do]V šag₄[heart]N munus[woman]N ri[to-direct]V a[water]N šag₄[heart]N munus[woman]N tud[to-give-birth]V
+c.1.1.2,Enki and Ninmah,,86,Ninmah[1]DN tud[to-give-birth]V gub[to-stand]V
+c.1.1.2,Enki and Ninmah,,87,munus[woman]N ud[day(light)]N šag₄[heart]N šub[to-fall]V
+c.1.1.2,Enki and Ninmah,,87A,Ninmah[1]DN sig₉[to-put]V
+c.1.1.2,Enki and Ninmah,,88,gi₄[to-return]V u₄-mu-ul[sickly-creature]N a-za-ad[head]N gig[to-be-ill]V ki[place]N X[X]N gig[to-be-ill]V igi[eye]N gig[to-be-ill]V gu₂[neck]N gig[to-be-ill]V
+c.1.1.2,Enki and Ninmah,,89,zi[life-(breath)]N til[to-complete]V ti[rib]N sur[to-drip]V mur[lung]N gig[to-be-ill]V šag₄[heart]N gig[to-be-ill]V lipiš[inner-body]N gig[to-be-ill]V
+c.1.1.2,Enki and Ninmah,,90,šu[hand]N a-za-ad[head]N la₂[to-hang]V ka[mouth]N ninda[bread]N ŋar[to-place]V murgu[back]N saŋ-du[head]N ze₂-er[to-tear-out]V
+c.1.1.2,Enki and Ninmah,,91,zag-še[shoulder]N sur[to-drip]V ŋiri₃[foot]N sur[to-drip]V a-gar₃[meadow]N DU[DU]V dim₂[to-create]V
+c.1.1.2,Enki and Ninmah,,92,Enki[1]DN Ninmah[1]DN gu₃[voice]N de₂[to-pour]V
+c.1.1.2,Enki and Ninmah,,93,lu₂[person]N šu[hand]N dim₂[to-create]V nam[destiny]N tar[to-cut]V ninda[bread]N šum₂[to-give]V
+c.1.1.2,Enki and Ninmah,,94,za[you-(sg.)]PD lu₂[person]N šu[hand]N dim₂[to-create]V nam[destiny]N tar[to-cut]V ninda[bread]N šum₂[to-give]V
+c.1.1.2,Enki and Ninmah,,95,Ninmah[1]DN u₄-mu-ul[sickly-creature]N igi[eye]N du₈[to-spread]V e-ne[he;-she]PD gi₄[to-return]V
+c.1.1.2,Enki and Ninmah,,96,u₄-mu-ul[sickly-creature]N te[to-approach]V en₃[noun-part-of-multiword-verb]N tar[to-cut]V dug₄[to-say]V zu[to-know]V
+c.1.1.2,Enki and Ninmah,,97,ninda[bread]N gu₇[to-eat]V de₆[to-carry]V šu[hand]N gid₂[to-be-long]V
+c.1.1.2,Enki and Ninmah,,98,gur₈-u₆[wooden-object]N šag₄[heart]N nu₂[to-lie-down]V ŋal₂[to-be-(located)]V
+c.1.1.2,Enki and Ninmah,,99,gub[to-stand]V tuš[to-sit]V nu₂[to-lie-down]V e₂[house(hold)]N ninda[bread]N gu₇[to-eat]V
+c.1.1.2,Enki and Ninmah,,100,Ninmah[1]DN Enki[1]DN inim[word]N gi₄[to-return]V
+c.1.1.2,Enki and Ninmah,,101,lu₂[person]N šu[hand]N dim₂[to-create]V lu₂[person]N til₃[to-live]V me[to-be]V lu₂[person]N uš₂[to-die]V me[to-be]V il₂[to-raise]V me[to-be]V
+c.1.1.2,Enki and Ninmah,,102,Enki[1]DN Ninmah[1]DN gi₄[to-return]V
+c.1.1.2,Enki and Ninmah,,103,lu₂[person]N gi[1st]NU šu[hand]N sig[to-be-low]V nam[destiny]N tar[to-cut]V ninda[bread]N šum₂[to-give]V
+c.1.1.2,Enki and Ninmah,,104,lu₂[person]N ŋiš-nu₁₁[light]N gi₄[to-return]V nam[destiny]N tar[to-cut]V ninda[bread]N šum₂[to-give]V
+c.1.1.2,Enki and Ninmah,,105,lu₂[person]N ŋiri₃[foot]N hum[to-snap-off]V dab₅[to-seize]V nam[destiny]N tar[to-cut]V ninda[bread]N šum₂[to-give]V
+c.1.1.2,Enki and Ninmah,,106,lu₂[person]N a[water]N sur[to-drip]V nam[destiny]N tar[to-cut]V ninda[bread]N šum₂[to-give]V
+c.1.1.2,Enki and Ninmah,,107,munus[woman]N tud[to-give-birth]V nam[destiny]N tar[to-cut]V ninda[bread]N šum₂[to-give]V
+c.1.1.2,Enki and Ninmah,,108,lu₂[person]N su[flesh]N ŋiš₃[penis]N ŋar[to-place]V gal₄-la[female-genitals]N ŋar[to-place]V nam[destiny]N tar[to-cut]V ninda[bread]N šum₂[to-give]V
+c.1.1.2,Enki and Ninmah,,109,nin₉[sister]N
 c.1.1.2,Enki and Ninmah,,110,
 c.1.1.2,Enki and Ninmah,,111,
-c.1.1.2,Enki and Ninmah,,112,sux:Ninmah[1]DN sux:Enki[1]DN sux:gu₃[voice]N sux:de₂[to-pour]V
-c.1.1.2,Enki and Ninmah,,113,sux:aŋ₂[to-measure]V
-c.1.1.2,Enki and Ninmah,,114,sux:aŋ₂[to-measure]V
+c.1.1.2,Enki and Ninmah,,112,Ninmah[1]DN Enki[1]DN gu₃[voice]N de₂[to-pour]V
+c.1.1.2,Enki and Ninmah,,113,aŋ₂[to-measure]V
+c.1.1.2,Enki and Ninmah,,114,aŋ₂[to-measure]V
 c.1.1.2,Enki and Ninmah,,115,
-c.1.1.2,Enki and Ninmah,,116,sux:aŋ₂[to-measure]V
-c.1.1.2,Enki and Ninmah,,117,sux:aŋ₂[to-measure]V
-c.1.1.2,Enki and Ninmah,,118,sux:aŋ₂[to-measure]V
+c.1.1.2,Enki and Ninmah,,116,aŋ₂[to-measure]V
+c.1.1.2,Enki and Ninmah,,117,aŋ₂[to-measure]V
+c.1.1.2,Enki and Ninmah,,118,aŋ₂[to-measure]V
 c.1.1.2,Enki and Ninmah,,119,
 c.1.1.2,Enki and Ninmah,,120,
 c.1.1.2,Enki and Ninmah,,121,
-c.1.1.2,Enki and Ninmah,,122,sux:kur₉[to-enter]V
-c.1.1.2,Enki and Ninmah,,123,sux:a₂-še[now]AV sux:an[heaven]N sux:tuš[to-sit]V sux:ki[place]N sux:tuš[to-sit]V sux-x-emesal:i-bi₂[eye]N sux:il₂[to-raise]V sux-x-emesal:ka-na-aŋ₂[the-Land]N sux:e₃[to-go-out-or-in]V
-c.1.1.2,Enki and Ninmah,,124,sux:ki[place]N sux:za[you-(sg.)]PD sux:tuš[to-sit]V sux:e₂[house(hold)]N sux:du₃[to-erect]V sux:inim[word]N sux-x-emesal:mu[tree]N sux:tuku[to-have]V
-c.1.1.2,Enki and Ninmah,,125,sux:ki[place]N sux:za[you-(sg.)]PD sux:til₃[to-live]V sux:iri[town]N sux:du₃[to-erect]V sux:niŋ₂[thing]N sux:lib[(deathly)-silence]N sux:sig₉[to-put]V
-c.1.1.2,Enki and Ninmah,,126,sux:iri[town]N sux-x-emesal:gel-le-eŋ₃[to-be-lost]V sux:e₂[house(hold)]N sux:gul[to-destroy]V sux-x-emesal:du₅-mu[child]N sux:šu[hand]N sux:dab₅[to-seize]V
-c.1.1.2,Enki and Ninmah,,127,sux:lu₂-kar-ra[fugitive]N sux:E-kur[1]TN sux:e₃[to-go-out-or-in]V
-c.1.1.2,Enki and Ninmah,,128,sux:ud[day(light)]N sux-x-emesal:me[I]PD sux:niŋ₂[thing]N sux:šu[hand]N sux:šu[hand]N sux:e₃[to-go-out-or-in]V
-c.1.1.2,Enki and Ninmah,,129,sux:Enki[1]DN sux:Ninmah[1]DN sux:gi₄[to-return]V
-c.1.1.2,Enki and Ninmah,,130,sux:inim[word]N sux:ka[mouth]N sux:e₃[to-go-out-or-in]V sux:a-ba[who]PD sux:kur₂[to-be-different]V
-c.1.1.2,Enki and Ninmah,,131,sux:u₄-mu-ul[sickly-creature]N sux:dab₅[to-seize]V sux:ur₂[root]N sux:šu[hand]N sux:ŋal₂[to-be-(located)]V
-c.1.1.2,Enki and Ninmah,,132,sux:Ninmah[1]DN sux:kiŋ₂[work]N sux:la₂[to-hang]V sux:šu[hand]N sux:du₇[to-be-perfect]V sux:dab₅[to-seize]V sux:a-ba[who]PD sux:saŋ[head]N sux:ŋar[to-place]V
-c.1.1.2,Enki and Ninmah,,133,sux:lu₂[person]N sux:me-dim₂[articulation]N sux:eŋer[back]N sux:tuku[to-have]V sux:ka[mouth]N sux:šu[hand]N sux:ŋal₂[to-be-(located)]V
-c.1.1.2,Enki and Ninmah,,134,sux:ud[day(light)]N sux:ŋiš₃[penis]N sux:me-teš₂[praise]N sux:i[to-bring-out]V sux:ŋeštug₂[ear]N sux:de₅[to-collect]V sux:he₂-ŋal₂[plenty]N
-c.1.1.2,Enki and Ninmah,,135,sux:enkum[type-of-temple-official]N sux:ninkum[type-of-priest]N
-c.1.1.2,Enki and Ninmah,,136,sux:ud[day(light)]N sux:ŋiri₃[foot]N sux:šub[to-fall]V sux:gu₂[neck]N sux:ka[mouth]N sux:tar[to-cut]V sux:si-il[to-split-apart]V
-c.1.1.2,Enki and Ninmah,,137,sux:nin₉[sister]N sux:a₂[arm]N sux:nam-ur-saŋ[heroism]N
-c.1.1.2,Enki and Ninmah,,138,sux:šir₃[song]N sux:nam-dub[writing]N
-c.1.1.2,Enki and Ninmah,,139,sux:diŋir[deity]N sux:ŋiš[tree]N sux:tuku[to-have]V sux:u₄-mu-ul[sickly-creature]N sux:du₃[to-erect]V sux:e₂[house(hold)]N sux:ak[to-do]V
-c.1.1.2,Enki and Ninmah,,140,sux:Ninmah[1]DN sux:en[lord]N sux:gal[to-be-big]V sux:Enki[1]DN sux:zag[side]N sux:sa₂[to-equal]V
-c.1.1.2,Enki and Ninmah,,141,sux:a-a[father]N sux:Enki[1]DN sux:za₃-mi₂[praise]N sux:dug₃[to-be-good]V
+c.1.1.2,Enki and Ninmah,,122,kur₉[to-enter]V
+c.1.1.2,Enki and Ninmah,,123,a₂-še[now]AV an[heaven]N tuš[to-sit]V ki[place]N tuš[to-sit]V i-bi₂[eye]N il₂[to-raise]V ka-na-aŋ₂[the-Land]N e₃[to-go-out-or-in]V
+c.1.1.2,Enki and Ninmah,,124,ki[place]N za[you-(sg.)]PD tuš[to-sit]V e₂[house(hold)]N du₃[to-erect]V inim[word]N mu[tree]N tuku[to-have]V
+c.1.1.2,Enki and Ninmah,,125,ki[place]N za[you-(sg.)]PD til₃[to-live]V iri[town]N du₃[to-erect]V niŋ₂[thing]N lib[(deathly)-silence]N sig₉[to-put]V
+c.1.1.2,Enki and Ninmah,,126,iri[town]N gel-le-eŋ₃[to-be-lost]V e₂[house(hold)]N gul[to-destroy]V du₅-mu[child]N šu[hand]N dab₅[to-seize]V
+c.1.1.2,Enki and Ninmah,,127,lu₂-kar-ra[fugitive]N E-kur[1]TN e₃[to-go-out-or-in]V
+c.1.1.2,Enki and Ninmah,,128,ud[day(light)]N me[I]PD niŋ₂[thing]N šu[hand]N šu[hand]N e₃[to-go-out-or-in]V
+c.1.1.2,Enki and Ninmah,,129,Enki[1]DN Ninmah[1]DN gi₄[to-return]V
+c.1.1.2,Enki and Ninmah,,130,inim[word]N ka[mouth]N e₃[to-go-out-or-in]V a-ba[who]PD kur₂[to-be-different]V
+c.1.1.2,Enki and Ninmah,,131,u₄-mu-ul[sickly-creature]N dab₅[to-seize]V ur₂[root]N šu[hand]N ŋal₂[to-be-(located)]V
+c.1.1.2,Enki and Ninmah,,132,Ninmah[1]DN kiŋ₂[work]N la₂[to-hang]V šu[hand]N du₇[to-be-perfect]V dab₅[to-seize]V a-ba[who]PD saŋ[head]N ŋar[to-place]V
+c.1.1.2,Enki and Ninmah,,133,lu₂[person]N me-dim₂[articulation]N eŋer[back]N tuku[to-have]V ka[mouth]N šu[hand]N ŋal₂[to-be-(located)]V
+c.1.1.2,Enki and Ninmah,,134,ud[day(light)]N ŋiš₃[penis]N me-teš₂[praise]N i[to-bring-out]V ŋeštug₂[ear]N de₅[to-collect]V he₂-ŋal₂[plenty]N
+c.1.1.2,Enki and Ninmah,,135,enkum[type-of-temple-official]N ninkum[type-of-priest]N
+c.1.1.2,Enki and Ninmah,,136,ud[day(light)]N ŋiri₃[foot]N šub[to-fall]V gu₂[neck]N ka[mouth]N tar[to-cut]V si-il[to-split-apart]V
+c.1.1.2,Enki and Ninmah,,137,nin₉[sister]N a₂[arm]N nam-ur-saŋ[heroism]N
+c.1.1.2,Enki and Ninmah,,138,šir₃[song]N nam-dub[writing]N
+c.1.1.2,Enki and Ninmah,,139,diŋir[deity]N ŋiš[tree]N tuku[to-have]V u₄-mu-ul[sickly-creature]N du₃[to-erect]V e₂[house(hold)]N ak[to-do]V
+c.1.1.2,Enki and Ninmah,,140,Ninmah[1]DN en[lord]N gal[to-be-big]V Enki[1]DN zag[side]N sa₂[to-equal]V
+c.1.1.2,Enki and Ninmah,,141,a-a[father]N Enki[1]DN za₃-mi₂[praise]N dug₃[to-be-good]V

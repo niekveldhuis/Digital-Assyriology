@@ -1,86 +1,86 @@
 id_text,text_name,version,l_no,text
-c.2.6.9.5,A prayer to Nanna for Rīm-Sîn (Rīm-Sîn E),,1,sux:šu-luh[ritual-cleansing]N sux:kug[shining]AJ sux:tum₂[to-be-suitable]V
-c.2.6.9.5,A prayer to Nanna for Rīm-Sîn (Rīm-Sîn E),,2,sux:Rīm-Sîn[1]RN sux:išib[type-of-priest]N sux:An[1]DN sux:sizkur₂[prayer]N sux:sikil[to-be-pure]V sux:tum₂[to-be-suitable]V
-c.2.6.9.5,A prayer to Nanna for Rīm-Sîn (Rīm-Sîn E),,3,sux:šag₄[heart]N sux:kug[shining]AJ sux:pad₃[to-find]V sux:nam-en[high-(priestly)-office]N sux:kalam[the-Land]N sux:il₂[to-raise]V
-c.2.6.9.5,A prayer to Nanna for Rīm-Sîn (Rīm-Sîn E),,4,sux:nam-sipad[shepherd's-craft]N sux:saŋ[head]N sux:gig₂[to-be-black]V sux:ŋar[to-place]V
-c.2.6.9.5,A prayer to Nanna for Rīm-Sîn (Rīm-Sîn E),,5,sux:ešgiri₂[staff]N sux:kalam[the-Land]N sux:gen₆[to-be-firm]V sux:šu[hand]N sux:si[to-fill]V
-c.2.6.9.5,A prayer to Nanna for Rīm-Sîn (Rīm-Sîn E),,6,sux:šibir[shepherd's-crook]N sux:uŋ₃[people]N sux:zi-ŋal₂[living-creature]N sux:de₆[to-carry]V sux:zag[side]N sux:la₂[to-hang]V
-c.2.6.9.5,A prayer to Nanna for Rīm-Sîn (Rīm-Sîn E),,7,sux:gub[to-stand]V sux:šu[hand]N sux:sikil[to-be-pure]V sux:ak[to-do]V sux:niŋ₂-nam[anything]PD sux:dug₃[to-be-good]V
-c.2.6.9.5,A prayer to Nanna for Rīm-Sîn (Rīm-Sîn E),,8,sux:ga[milk]N sux:Ezina[1]DN sux:ir[(fragrant)-exudation]N sux:dug₃[to-be-good]V sux:ma-dam[abundant-yield]N sux:kalam[the-Land]N
-c.2.6.9.5,A prayer to Nanna for Rīm-Sîn (Rīm-Sîn E),,9,sux:he-nun[abundance]N sux:šag₄-tum₂[meadow]N sux:he₂-ŋal₂[plenty]N sux:silig[to-cease]V
-c.2.6.9.5,A prayer to Nanna for Rīm-Sîn (Rīm-Sîn E),,10,sux:kurun[type-of-beer]N sux:ŋeštin[grape-(wine)]N sux:pa[branch]N sux:e₃[to-go-out-or-in]V
-c.2.6.9.5,A prayer to Nanna for Rīm-Sîn (Rīm-Sîn E),,11,sux:ulušin[sweet-emmer-beer]N sux:ku₇-ku₇[to-be-sweet]V sux:a₂[arm]N sux:sikil[to-be-pure]V sux:šar₂[to-mix]V
-c.2.6.9.5,A prayer to Nanna for Rīm-Sîn (Rīm-Sîn E),,12,sux:kaš[beer]N sux:er₉[to-be-mighty]V sux:ki[place]N sux:sikil[to-be-pure]V sux:ŋeštin[grape-(wine)]N sux:tab[to-be-parallel]V sux:a[water]N sux:naŋ[to-drink]V sux:nam-en[high-(priestly)-office]N
-c.2.6.9.5,A prayer to Nanna for Rīm-Sîn (Rīm-Sîn E),,13,sux:kaš[beer]N sux:tab[to-be-parallel]V sux:kaš[beer]N sux:mah[to-be-majestic]V sux:šu[hand]N sux:kug[shining]AJ sux:tum₂[to-be-suitable]V
-c.2.6.9.5,A prayer to Nanna for Rīm-Sîn (Rīm-Sîn E),,14,sux:lal₃[syrup]N sux:babbar[white]AJ sux:mu[name]N sux:pad₃[to-find]V sux:hur-saŋ[mountain-(range)]N sux:e₃[to-go-out-or-in]V
-c.2.6.9.5,A prayer to Nanna for Rīm-Sîn (Rīm-Sîn E),,15,sux:i₃[fatty-substance]N sux:ab₂[cow]N sux:kug[shining]AJ sux:i₃-nun[clarified-butter]N sux:me-te[(fitting)-attribute]N sux:nam-nun[princeliness]N
-c.2.6.9.5,A prayer to Nanna for Rīm-Sîn (Rīm-Sîn E),,16,sux:i₃-ŋiš[oil]N sux:barag[to-press]V sux:i₃[fatty-substance]N sux:li[fine]AJ sux:saŋ[head]N sux:sig₉[to-put]V
-c.2.6.9.5,A prayer to Nanna for Rīm-Sîn (Rīm-Sîn E),,17,sux:gara₂[cream]N sux:sig₇[to-be-green]V sux:me-te[(fitting)-attribute]N sux:tur₃[animal-stall]N sux:unu₂[(dining)-hall]N sux:kug[shining]AJ sux:nam-diŋir[divinity]N
-c.2.6.9.5,A prayer to Nanna for Rīm-Sîn (Rīm-Sîn E),,18,sux:šul[young-man]N sux:ŋiš[tree]N sux:tuku[to-have]V sux:lugal[king]N sux:ki[place]N sux:aŋ₂[to-measure]V
-c.2.6.9.5,A prayer to Nanna for Rīm-Sîn (Rīm-Sîn E),,19,sux:sipad[shepherd]N sux:zid[right]AJ sux:Rīm-Sîn[1]RN sux:nam-til₃[life]N sux:de₆[to-carry]V sux:gen₆[to-be-firm]V
-c.2.6.9.5,A prayer to Nanna for Rīm-Sîn (Rīm-Sîn E),,20,sux:KI.LUGAL.GUB[royal-station]N sux:kug[shining]AJ sux:šita[supplication]N sux:du₇[to-be-perfect]V sux:sizkur₂[prayer]N sux:šag₄[heart]N sux:hul₂[to-be-happy]V sux:de₂[to-pour]V
-c.2.6.9.5,A prayer to Nanna for Rīm-Sîn (Rīm-Sîn E),,21,sux:u₂[plant]N sux:sikil[to-be-pure]V sux:u₂[plant]N sux:gu₇[to-eat]V sux:a[water]N sux:sikil[to-be-pure]V sux:a[water]N sux:naŋ[to-drink]V
-c.2.6.9.5,A prayer to Nanna for Rīm-Sîn (Rīm-Sîn E),,22,sux:nesaŋ[(first-fruit)-offering]N sux:dug₄[to-say]V sux:šag₄[heart]N sux:hul₂[to-be-happy]V sux:šu[hand]N sux:te[to-approach]V
-c.2.6.9.5,A prayer to Nanna for Rīm-Sîn (Rīm-Sîn E),,23,sux:a-ra-zu[supplication]N sux:še[to-agree]V sux:za[you-(sg.)]PD sux:nir[authority]N sux:he₂-ŋal₂[plenty]N
-c.2.6.9.5,A prayer to Nanna for Rīm-Sîn (Rīm-Sîn E),,24,sux:sun₅[to-be-humble]V sux:inim[word]N sux:sag₉[to-be-good]V sux:nam-til₃[life]N sux:dug₄[to-say]V
-c.2.6.9.5,A prayer to Nanna for Rīm-Sîn (Rīm-Sîn E),,25,sux:KI.EN.GUB[lordly-station]N sux:kug[shining]AJ sux:KI.EN.GUB[lordly-station]N sux:mah[to-be-majestic]V sux:zid[right]AJ sux:de₆[to-carry]V
-c.2.6.9.5,A prayer to Nanna for Rīm-Sîn (Rīm-Sîn E),,26,sux:ki-gub[location]N sux:silim[to-be-healthy]V sux:ŋar[to-place]V
-c.2.6.9.5,A prayer to Nanna for Rīm-Sîn (Rīm-Sîn E),,27,sux:nam-lugal[kingship]N sux:igi[eye]N sux:da-ri₂[eternal]AJ sux:he₂-ŋal₂[plenty]N
-c.2.6.9.5,A prayer to Nanna for Rīm-Sîn (Rīm-Sîn E),,28,sux:saŋ-kal[foremost]AJ sux:kalam[the-Land]N sux:en[lord]N sux:nun[prince]N sux:pad₃[to-find]V sux:me[to-be]V
-c.2.6.9.5,A prayer to Nanna for Rīm-Sîn (Rīm-Sîn E),,29,sux:dug₄[to-say]V sux:an[heaven]N sux:ki[place]N sux:sag₂[to-scatter]V sux:dug₄[to-say]V
-c.2.6.9.5,A prayer to Nanna for Rīm-Sîn (Rīm-Sîn E),,30,sux:uŋ₃[people]N sux:šar₂[to-be-numerous]V sux:ka[mouth]N sux:me[to-be]V
-c.2.6.9.5,A prayer to Nanna for Rīm-Sîn (Rīm-Sîn E),,31,sux:ka[mouth]N sux:ba[to-allot]V sux:diŋir[deity]N sux:ama[mother]N sux:diŋir[deity]N sux:ŋizzal[hearing]N sux:ak[to-do]V
-c.2.6.9.5,A prayer to Nanna for Rīm-Sîn (Rīm-Sîn E),,32,sux:dug₄[to-say]V sux:tuš[to-sit]V
-c.2.6.9.5,A prayer to Nanna for Rīm-Sîn (Rīm-Sîn E),,33,sux:nam-til₃[life]N sux:šu[hand]N sux:gi₄[to-return]V sux:de₆[to-carry]V
-c.2.6.9.5,A prayer to Nanna for Rīm-Sîn (Rīm-Sîn E),,34,sux:nam-lu₂-ulu₃[humanity]N sux:šag₄[heart]N sux:hul₂[to-be-happy]V sux:ak[to-do]V
-c.2.6.9.5,A prayer to Nanna for Rīm-Sîn (Rīm-Sîn E),,35,sux:ud[day(light)]N sux:u₂-a[provisioner]N sux:zid[right]AJ sux:me[to-be]V
-c.2.6.9.5,A prayer to Nanna for Rīm-Sîn (Rīm-Sîn E),,36,sux:me-lem₄[(awesome)-radiance]N sux:guru₃[to-bear]V sux:im[rain(storm)]N sux:dugud[to-be-heavy]V sux:lugal[king]N sux:gu₂[neck]N sux:du₃[to-erect]V sux:dul[to-cover-(together)]V
-c.2.6.9.5,A prayer to Nanna for Rīm-Sîn (Rīm-Sîn E),,37,sux:niŋ₂-nam[anything]PD sux:sag₉[to-be-good]V sux:maš₂-da-ri-a[goat-offering]N sux:kur₉[to-enter]V
-c.2.6.9.5,A prayer to Nanna for Rīm-Sîn (Rīm-Sîn E),,38,sux:sipad[shepherd]N sux:zid[right]AJ sux:Rīm-Sîn[1]RN sux:za[you-(sg.)]PD sux:diŋir[deity]N sux:igi[eye]N sux:ŋal₂[to-be-(located)]V
-c.2.6.9.5,A prayer to Nanna for Rīm-Sîn (Rīm-Sîn E),,39,sux:nam-til₃[life]N sux:ki[place]N sux:aŋ₂[to-measure]V sux:ŋar[to-place]V
-c.2.6.9.5,A prayer to Nanna for Rīm-Sîn (Rīm-Sîn E),,40,sux:šag₄[heart]N sux:hul₂[to-be-happy]V sux:rig₇[to-bestow]V sux:ud[day(light)]N sux:mu₂[to-grow]V
-c.2.6.9.5,A prayer to Nanna for Rīm-Sîn (Rīm-Sîn E),,41,sux:šu[hand]N sux:mu₂[to-grow]V sux:ed₃[to-go-down-or-up]V sux:ŋiš[tree]N sux:tuku[to-have]V
-c.2.6.9.5,A prayer to Nanna for Rīm-Sîn (Rīm-Sîn E),,42,sux:inim[word]N sux:sag₉[to-be-good]V sux:zi[life-(breath)]N sux:til₃[to-live]V
-c.2.6.9.5,A prayer to Nanna for Rīm-Sîn (Rīm-Sîn E),,43,sux:nir[authority]N sux:he₂-ŋal₂[plenty]N sux:zag[side]N sux:sa₂[to-equal]V sux:tuku[to-have]V
-c.2.6.9.5,A prayer to Nanna for Rīm-Sîn (Rīm-Sîn E),,44,sux:giri₁₇[nose]N sux:šu[hand]N sux:ŋal₂[to-be-(located)]V sux:ud[day(light)]N sux:sud[to-be-distant]V
-c.2.6.9.5,A prayer to Nanna for Rīm-Sîn (Rīm-Sîn E),,45,sux:nam-til₃[life]N sux:nam-lugal[kingship]N sux:a₂[arm]N
-c.2.6.9.5,A prayer to Nanna for Rīm-Sîn (Rīm-Sîn E),,46,sux:inim[word]N sux:si[horn]N sux:sa₂[to-equal]V sux:gi₁₆-sa[(everlasting)-treasure]N sux:me[to-be]V
-c.2.6.9.5,A prayer to Nanna for Rīm-Sîn (Rīm-Sîn E),,47,sux:šag₄[heart]N sux:hul₂[to-be-happy]V sux:ak[to-do]V
-c.2.6.9.5,A prayer to Nanna for Rīm-Sîn (Rīm-Sîn E),,48,sux:šu[hand]N sux:gi₄[to-return]V sux:ur-mah[lion]N sux:nam-en[high-(priestly)-office]N sux:ri[to-direct]V
-c.2.6.9.5,A prayer to Nanna for Rīm-Sîn (Rīm-Sîn E),,49,sux:u₃-gul[prayer]N sux:ŋar[to-place]V sux:bar[outside]N sux:zalag[to-be-shining]V
-c.2.6.9.5,A prayer to Nanna for Rīm-Sîn (Rīm-Sîn E),,50,sux:nam-til₃[life]N sux:šum₂[to-give]V
-c.2.6.9.5,A prayer to Nanna for Rīm-Sîn (Rīm-Sîn E),,51,sux:inim[word]N sux:kug[shining]AJ sux:nam-til₃[life]N sux:de₆[to-carry]V
-c.2.6.9.5,A prayer to Nanna for Rīm-Sîn (Rīm-Sîn E),,52,sux:šu[hand]N sux:il₂[to-raise]V sux:še[to-agree]V sux:nam[destiny]N sux:dug₃[to-be-good]V sux:tar[to-cut]V
-c.2.6.9.5,A prayer to Nanna for Rīm-Sîn (Rīm-Sîn E),,53,sux:nam-til₃[life]N sux:su[flesh]N sux:ma-da[land]N sux:dug₄[to-say]V
-c.2.6.9.5,A prayer to Nanna for Rīm-Sîn (Rīm-Sîn E),,54,sux:ub[corner]N sux:4[4]NU sux:ŋiri₃[foot]N sux:gam[to-bow-down]V sux:e-ne[he;-she]PD sux:barag[dais]N sux:me[to-be]V
-c.2.6.9.5,A prayer to Nanna for Rīm-Sîn (Rīm-Sîn E),,55,sux:ma-da[land]N sux:u₂-sal[meadow]N sux:nu₂[to-lie-down]V
-c.2.6.9.5,A prayer to Nanna for Rīm-Sîn (Rīm-Sîn E),,56,sux:šag₄[heart]N sux:hul₂[to-be-happy]V sux:ud[day(light)]N sux:zal[to-pass]V
-c.2.6.9.5,A prayer to Nanna for Rīm-Sîn (Rīm-Sîn E),,57,sux:e₂-gal[palace]N sux:lugal[king]N sux:še[to-agree]V sux:za[you-(sg.)]PD sux:ŋal₂[to-be-(located)]V
-c.2.6.9.5,A prayer to Nanna for Rīm-Sîn (Rīm-Sîn E),,58,sux:Rīm-Sîn[1]RN sux:en[lord]N sux:Ašimbabbar[1]DN sux:mu[name]N sux:sa₄[to-call]V
-c.2.6.9.5,A prayer to Nanna for Rīm-Sîn (Rīm-Sîn E),,59,sux:ud[day(light)]N sux:bal[term-(in-office)]N sux:sud[to-be-distant]V sux:zi[life-(breath)]N
-c.2.6.9.5,A prayer to Nanna for Rīm-Sîn (Rīm-Sîn E),,60,sux:aga[crown]N sux:zid[right]AJ sux:mah[to-be-majestic]V
-c.2.6.9.5,A prayer to Nanna for Rīm-Sîn (Rīm-Sîn E),,61,sux:nam-til₃[life]N sux:me-teš₂[praise]N sux:i[to-bring-out]V
-c.2.6.9.5,A prayer to Nanna for Rīm-Sîn (Rīm-Sîn E),,62,sux:gu-za[chair]N sux:ma-da[land]N sux:gen₆[to-be-firm]V
-c.2.6.9.5,A prayer to Nanna for Rīm-Sîn (Rīm-Sîn E),,63,sux:ur₅[liver]N sux:sag₉[to-be-good]V sux:šag₄[heart]N sux:hul₂[to-be-happy]V sux:šag₄[heart]N sux:si[to-fill]V
-c.2.6.9.5,A prayer to Nanna for Rīm-Sîn (Rīm-Sîn E),,64,sux:igi[eye]N sux:nam[destiny]N sux:silim[to-be-healthy]V sux:me[to-be]V
-c.2.6.9.5,A prayer to Nanna for Rīm-Sîn (Rīm-Sîn E),,65,sux:u₃-luh[sceptre]N sux:niŋ₂-si-sa₂[justice]N sux:šu[hand]N sux:si[to-fill]V sux:uŋ₃[people]N sux:šar₂[to-be-numerous]V sux:sa₂[to-equal]V
-c.2.6.9.5,A prayer to Nanna for Rīm-Sîn (Rīm-Sîn E),,66,sux:dadag[to-be-bright]V sux:saŋ[head]N sux:us₂[to-be-adjacent]V sux:za[you-(sg.)]PD sux:mu[year]N sux:taka₄[to-leave-behind]V
-c.2.6.9.5,A prayer to Nanna for Rīm-Sîn (Rīm-Sîn E),,67,sux:itid[moon(light)]N sux:giri₁₇-zal[joy]N sux:asila[rejoicing]N sux:niŋ₂-ba[gift]N sux:ba[to-allot]V
-c.2.6.9.5,A prayer to Nanna for Rīm-Sîn (Rīm-Sîn E),,68,sux:mu[year]N sux:šar₂[to-be-numerous]V sux:mul-an[heavenly-star]N sux:za-gin₃[lapis-lazuli]N sux:šid[to-count]V sux:til[to-complete]V sux:saŋ[head]N sux:rig₇[to-bestow]V
-c.2.6.9.5,A prayer to Nanna for Rīm-Sîn (Rīm-Sîn E),,69,sux:nam-lugal[kingship]N sux:bal[term-(in-office)]N sux:šag₄[heart]N sux:hul₂[to-be-happy]V sux:du-ri₂[eternity]N sux:ak[to-do]V
-c.2.6.9.5,A prayer to Nanna for Rīm-Sîn (Rīm-Sîn E),,70,sux:lugal[king]N sux:u₂-a[provisioner]N sux:zid[right]AJ sux:til₃[to-live]V
-c.2.6.9.5,A prayer to Nanna for Rīm-Sîn (Rīm-Sîn E),,71,sux:Rīm-Sîn[1]RN sux:u₂-a[provisioner]N sux:zid[right]AJ sux:til₃[to-live]V
-c.2.6.9.5,A prayer to Nanna for Rīm-Sîn (Rīm-Sîn E),,72,sux:nam-lugal[kingship]N sux:su[flesh]N sux:dug₃[to-be-good]V
-c.2.6.9.5,A prayer to Nanna for Rīm-Sîn (Rīm-Sîn E),,73,sux:ud[day(light)]N sux:nam-til₃[life]N sux:sud[to-be-distant]V
-c.2.6.9.5,A prayer to Nanna for Rīm-Sîn (Rīm-Sîn E),,74,sux:ma-da[land]N sux:ki[place]N sux:gi₄[to-return]V sux:nam-lugal[kingship]N sux:šum₂[to-give]V
-c.2.6.9.5,A prayer to Nanna for Rīm-Sîn (Rīm-Sîn E),,75,sux:šag₄[heart]N sux:ma-da[land]N sux:dug₃[to-be-good]V sux:ŋiri₃[foot]N sux:ma-da[land]N sux:si[horn]N sux:sa₂[to-equal]V
-c.2.6.9.5,A prayer to Nanna for Rīm-Sîn (Rīm-Sîn E),,76,sux:gu₃[voice]N sux:kalam[the-Land]N sux:teš₂[unity]N sux:sig₁₀[to-place]V
-c.2.6.9.5,A prayer to Nanna for Rīm-Sîn (Rīm-Sîn E),,77,sux:Rīm-Sîn[1]RN sux:sipad[shepherd]N sux:šag₄[heart]N sux:še[to-agree]V sux:til₃[to-live]V
-c.2.6.9.5,A prayer to Nanna for Rīm-Sîn (Rīm-Sîn E),,78,sux:id₂[watercourse]N sux:a[water]N sux:de₆[to-carry]V
-c.2.6.9.5,A prayer to Nanna for Rīm-Sîn (Rīm-Sîn E),,79,sux:a-šag₄[field]N sux:še[barley]N sux:mu₂[to-grow]V
-c.2.6.9.5,A prayer to Nanna for Rīm-Sîn (Rīm-Sîn E),,80,sux:pu₂-kiri₆[orchard]N sux:lal₃[syrup]N sux:ŋeštin[grape-(wine)]N sux:de₆[to-carry]V
-c.2.6.9.5,A prayer to Nanna for Rīm-Sîn (Rīm-Sîn E),,81,sux:ambar[marsh]N sux:ku₆[fish]N sux:mušen[bird]N sux:dug₄[to-say]V sux:ŋar[to-place]V
-c.2.6.9.5,A prayer to Nanna for Rīm-Sîn (Rīm-Sîn E),,82,sux:tur₃[animal-stall]N sux:amaš[sheepfold]N sux:lu[to-be-abundant]V
-c.2.6.9.5,A prayer to Nanna for Rīm-Sîn (Rīm-Sîn E),,83,sux:šeŋ₃[rain]N sux:an[heaven]N sux:a[water]N sux:bad[to-open]V sux:gen₆[to-be-firm]V
-c.2.6.9.5,A prayer to Nanna for Rīm-Sîn (Rīm-Sîn E),,84,sux:e₂-gal[palace]N sux:zi[life-(breath)]N sux:su₃-ud-ŋal₂[long-lasting]AJ sux:si[to-fill]V
-c.2.6.9.5,A prayer to Nanna for Rīm-Sîn (Rīm-Sîn E),,85,sux:Rīm-Sîn[1]RN sux:lugal[king]N
+c.2.6.9.5,A prayer to Nanna for Rīm-Sîn (Rīm-Sîn E),,1,šu-luh[ritual-cleansing]N kug[shining]AJ tum₂[to-be-suitable]V
+c.2.6.9.5,A prayer to Nanna for Rīm-Sîn (Rīm-Sîn E),,2,Rīm-Sîn[1]RN išib[type-of-priest]N An[1]DN sizkur₂[prayer]N sikil[to-be-pure]V tum₂[to-be-suitable]V
+c.2.6.9.5,A prayer to Nanna for Rīm-Sîn (Rīm-Sîn E),,3,šag₄[heart]N kug[shining]AJ pad₃[to-find]V nam-en[high-(priestly)-office]N kalam[the-Land]N il₂[to-raise]V
+c.2.6.9.5,A prayer to Nanna for Rīm-Sîn (Rīm-Sîn E),,4,nam-sipad[shepherd's-craft]N saŋ[head]N gig₂[to-be-black]V ŋar[to-place]V
+c.2.6.9.5,A prayer to Nanna for Rīm-Sîn (Rīm-Sîn E),,5,ešgiri₂[staff]N kalam[the-Land]N gen₆[to-be-firm]V šu[hand]N si[to-fill]V
+c.2.6.9.5,A prayer to Nanna for Rīm-Sîn (Rīm-Sîn E),,6,šibir[shepherd's-crook]N uŋ₃[people]N zi-ŋal₂[living-creature]N de₆[to-carry]V zag[side]N la₂[to-hang]V
+c.2.6.9.5,A prayer to Nanna for Rīm-Sîn (Rīm-Sîn E),,7,gub[to-stand]V šu[hand]N sikil[to-be-pure]V ak[to-do]V niŋ₂-nam[anything]PD dug₃[to-be-good]V
+c.2.6.9.5,A prayer to Nanna for Rīm-Sîn (Rīm-Sîn E),,8,ga[milk]N Ezina[1]DN ir[(fragrant)-exudation]N dug₃[to-be-good]V ma-dam[abundant-yield]N kalam[the-Land]N
+c.2.6.9.5,A prayer to Nanna for Rīm-Sîn (Rīm-Sîn E),,9,he-nun[abundance]N šag₄-tum₂[meadow]N he₂-ŋal₂[plenty]N silig[to-cease]V
+c.2.6.9.5,A prayer to Nanna for Rīm-Sîn (Rīm-Sîn E),,10,kurun[type-of-beer]N ŋeštin[grape-(wine)]N pa[branch]N e₃[to-go-out-or-in]V
+c.2.6.9.5,A prayer to Nanna for Rīm-Sîn (Rīm-Sîn E),,11,ulušin[sweet-emmer-beer]N ku₇-ku₇[to-be-sweet]V a₂[arm]N sikil[to-be-pure]V šar₂[to-mix]V
+c.2.6.9.5,A prayer to Nanna for Rīm-Sîn (Rīm-Sîn E),,12,kaš[beer]N er₉[to-be-mighty]V ki[place]N sikil[to-be-pure]V ŋeštin[grape-(wine)]N tab[to-be-parallel]V a[water]N naŋ[to-drink]V nam-en[high-(priestly)-office]N
+c.2.6.9.5,A prayer to Nanna for Rīm-Sîn (Rīm-Sîn E),,13,kaš[beer]N tab[to-be-parallel]V kaš[beer]N mah[to-be-majestic]V šu[hand]N kug[shining]AJ tum₂[to-be-suitable]V
+c.2.6.9.5,A prayer to Nanna for Rīm-Sîn (Rīm-Sîn E),,14,lal₃[syrup]N babbar[white]AJ mu[name]N pad₃[to-find]V hur-saŋ[mountain-(range)]N e₃[to-go-out-or-in]V
+c.2.6.9.5,A prayer to Nanna for Rīm-Sîn (Rīm-Sîn E),,15,i₃[fatty-substance]N ab₂[cow]N kug[shining]AJ i₃-nun[clarified-butter]N me-te[(fitting)-attribute]N nam-nun[princeliness]N
+c.2.6.9.5,A prayer to Nanna for Rīm-Sîn (Rīm-Sîn E),,16,i₃-ŋiš[oil]N barag[to-press]V i₃[fatty-substance]N li[fine]AJ saŋ[head]N sig₉[to-put]V
+c.2.6.9.5,A prayer to Nanna for Rīm-Sîn (Rīm-Sîn E),,17,gara₂[cream]N sig₇[to-be-green]V me-te[(fitting)-attribute]N tur₃[animal-stall]N unu₂[(dining)-hall]N kug[shining]AJ nam-diŋir[divinity]N
+c.2.6.9.5,A prayer to Nanna for Rīm-Sîn (Rīm-Sîn E),,18,šul[young-man]N ŋiš[tree]N tuku[to-have]V lugal[king]N ki[place]N aŋ₂[to-measure]V
+c.2.6.9.5,A prayer to Nanna for Rīm-Sîn (Rīm-Sîn E),,19,sipad[shepherd]N zid[right]AJ Rīm-Sîn[1]RN nam-til₃[life]N de₆[to-carry]V gen₆[to-be-firm]V
+c.2.6.9.5,A prayer to Nanna for Rīm-Sîn (Rīm-Sîn E),,20,KI.LUGAL.GUB[royal-station]N kug[shining]AJ šita[supplication]N du₇[to-be-perfect]V sizkur₂[prayer]N šag₄[heart]N hul₂[to-be-happy]V de₂[to-pour]V
+c.2.6.9.5,A prayer to Nanna for Rīm-Sîn (Rīm-Sîn E),,21,u₂[plant]N sikil[to-be-pure]V u₂[plant]N gu₇[to-eat]V a[water]N sikil[to-be-pure]V a[water]N naŋ[to-drink]V
+c.2.6.9.5,A prayer to Nanna for Rīm-Sîn (Rīm-Sîn E),,22,nesaŋ[(first-fruit)-offering]N dug₄[to-say]V šag₄[heart]N hul₂[to-be-happy]V šu[hand]N te[to-approach]V
+c.2.6.9.5,A prayer to Nanna for Rīm-Sîn (Rīm-Sîn E),,23,a-ra-zu[supplication]N še[to-agree]V za[you-(sg.)]PD nir[authority]N he₂-ŋal₂[plenty]N
+c.2.6.9.5,A prayer to Nanna for Rīm-Sîn (Rīm-Sîn E),,24,sun₅[to-be-humble]V inim[word]N sag₉[to-be-good]V nam-til₃[life]N dug₄[to-say]V
+c.2.6.9.5,A prayer to Nanna for Rīm-Sîn (Rīm-Sîn E),,25,KI.EN.GUB[lordly-station]N kug[shining]AJ KI.EN.GUB[lordly-station]N mah[to-be-majestic]V zid[right]AJ de₆[to-carry]V
+c.2.6.9.5,A prayer to Nanna for Rīm-Sîn (Rīm-Sîn E),,26,ki-gub[location]N silim[to-be-healthy]V ŋar[to-place]V
+c.2.6.9.5,A prayer to Nanna for Rīm-Sîn (Rīm-Sîn E),,27,nam-lugal[kingship]N igi[eye]N da-ri₂[eternal]AJ he₂-ŋal₂[plenty]N
+c.2.6.9.5,A prayer to Nanna for Rīm-Sîn (Rīm-Sîn E),,28,saŋ-kal[foremost]AJ kalam[the-Land]N en[lord]N nun[prince]N pad₃[to-find]V me[to-be]V
+c.2.6.9.5,A prayer to Nanna for Rīm-Sîn (Rīm-Sîn E),,29,dug₄[to-say]V an[heaven]N ki[place]N sag₂[to-scatter]V dug₄[to-say]V
+c.2.6.9.5,A prayer to Nanna for Rīm-Sîn (Rīm-Sîn E),,30,uŋ₃[people]N šar₂[to-be-numerous]V ka[mouth]N me[to-be]V
+c.2.6.9.5,A prayer to Nanna for Rīm-Sîn (Rīm-Sîn E),,31,ka[mouth]N ba[to-allot]V diŋir[deity]N ama[mother]N diŋir[deity]N ŋizzal[hearing]N ak[to-do]V
+c.2.6.9.5,A prayer to Nanna for Rīm-Sîn (Rīm-Sîn E),,32,dug₄[to-say]V tuš[to-sit]V
+c.2.6.9.5,A prayer to Nanna for Rīm-Sîn (Rīm-Sîn E),,33,nam-til₃[life]N šu[hand]N gi₄[to-return]V de₆[to-carry]V
+c.2.6.9.5,A prayer to Nanna for Rīm-Sîn (Rīm-Sîn E),,34,nam-lu₂-ulu₃[humanity]N šag₄[heart]N hul₂[to-be-happy]V ak[to-do]V
+c.2.6.9.5,A prayer to Nanna for Rīm-Sîn (Rīm-Sîn E),,35,ud[day(light)]N u₂-a[provisioner]N zid[right]AJ me[to-be]V
+c.2.6.9.5,A prayer to Nanna for Rīm-Sîn (Rīm-Sîn E),,36,me-lem₄[(awesome)-radiance]N guru₃[to-bear]V im[rain(storm)]N dugud[to-be-heavy]V lugal[king]N gu₂[neck]N du₃[to-erect]V dul[to-cover-(together)]V
+c.2.6.9.5,A prayer to Nanna for Rīm-Sîn (Rīm-Sîn E),,37,niŋ₂-nam[anything]PD sag₉[to-be-good]V maš₂-da-ri-a[goat-offering]N kur₉[to-enter]V
+c.2.6.9.5,A prayer to Nanna for Rīm-Sîn (Rīm-Sîn E),,38,sipad[shepherd]N zid[right]AJ Rīm-Sîn[1]RN za[you-(sg.)]PD diŋir[deity]N igi[eye]N ŋal₂[to-be-(located)]V
+c.2.6.9.5,A prayer to Nanna for Rīm-Sîn (Rīm-Sîn E),,39,nam-til₃[life]N ki[place]N aŋ₂[to-measure]V ŋar[to-place]V
+c.2.6.9.5,A prayer to Nanna for Rīm-Sîn (Rīm-Sîn E),,40,šag₄[heart]N hul₂[to-be-happy]V rig₇[to-bestow]V ud[day(light)]N mu₂[to-grow]V
+c.2.6.9.5,A prayer to Nanna for Rīm-Sîn (Rīm-Sîn E),,41,šu[hand]N mu₂[to-grow]V ed₃[to-go-down-or-up]V ŋiš[tree]N tuku[to-have]V
+c.2.6.9.5,A prayer to Nanna for Rīm-Sîn (Rīm-Sîn E),,42,inim[word]N sag₉[to-be-good]V zi[life-(breath)]N til₃[to-live]V
+c.2.6.9.5,A prayer to Nanna for Rīm-Sîn (Rīm-Sîn E),,43,nir[authority]N he₂-ŋal₂[plenty]N zag[side]N sa₂[to-equal]V tuku[to-have]V
+c.2.6.9.5,A prayer to Nanna for Rīm-Sîn (Rīm-Sîn E),,44,giri₁₇[nose]N šu[hand]N ŋal₂[to-be-(located)]V ud[day(light)]N sud[to-be-distant]V
+c.2.6.9.5,A prayer to Nanna for Rīm-Sîn (Rīm-Sîn E),,45,nam-til₃[life]N nam-lugal[kingship]N a₂[arm]N
+c.2.6.9.5,A prayer to Nanna for Rīm-Sîn (Rīm-Sîn E),,46,inim[word]N si[horn]N sa₂[to-equal]V gi₁₆-sa[(everlasting)-treasure]N me[to-be]V
+c.2.6.9.5,A prayer to Nanna for Rīm-Sîn (Rīm-Sîn E),,47,šag₄[heart]N hul₂[to-be-happy]V ak[to-do]V
+c.2.6.9.5,A prayer to Nanna for Rīm-Sîn (Rīm-Sîn E),,48,šu[hand]N gi₄[to-return]V ur-mah[lion]N nam-en[high-(priestly)-office]N ri[to-direct]V
+c.2.6.9.5,A prayer to Nanna for Rīm-Sîn (Rīm-Sîn E),,49,u₃-gul[prayer]N ŋar[to-place]V bar[outside]N zalag[to-be-shining]V
+c.2.6.9.5,A prayer to Nanna for Rīm-Sîn (Rīm-Sîn E),,50,nam-til₃[life]N šum₂[to-give]V
+c.2.6.9.5,A prayer to Nanna for Rīm-Sîn (Rīm-Sîn E),,51,inim[word]N kug[shining]AJ nam-til₃[life]N de₆[to-carry]V
+c.2.6.9.5,A prayer to Nanna for Rīm-Sîn (Rīm-Sîn E),,52,šu[hand]N il₂[to-raise]V še[to-agree]V nam[destiny]N dug₃[to-be-good]V tar[to-cut]V
+c.2.6.9.5,A prayer to Nanna for Rīm-Sîn (Rīm-Sîn E),,53,nam-til₃[life]N su[flesh]N ma-da[land]N dug₄[to-say]V
+c.2.6.9.5,A prayer to Nanna for Rīm-Sîn (Rīm-Sîn E),,54,ub[corner]N 4[4]NU ŋiri₃[foot]N gam[to-bow-down]V e-ne[he;-she]PD barag[dais]N me[to-be]V
+c.2.6.9.5,A prayer to Nanna for Rīm-Sîn (Rīm-Sîn E),,55,ma-da[land]N u₂-sal[meadow]N nu₂[to-lie-down]V
+c.2.6.9.5,A prayer to Nanna for Rīm-Sîn (Rīm-Sîn E),,56,šag₄[heart]N hul₂[to-be-happy]V ud[day(light)]N zal[to-pass]V
+c.2.6.9.5,A prayer to Nanna for Rīm-Sîn (Rīm-Sîn E),,57,e₂-gal[palace]N lugal[king]N še[to-agree]V za[you-(sg.)]PD ŋal₂[to-be-(located)]V
+c.2.6.9.5,A prayer to Nanna for Rīm-Sîn (Rīm-Sîn E),,58,Rīm-Sîn[1]RN en[lord]N Ašimbabbar[1]DN mu[name]N sa₄[to-call]V
+c.2.6.9.5,A prayer to Nanna for Rīm-Sîn (Rīm-Sîn E),,59,ud[day(light)]N bal[term-(in-office)]N sud[to-be-distant]V zi[life-(breath)]N
+c.2.6.9.5,A prayer to Nanna for Rīm-Sîn (Rīm-Sîn E),,60,aga[crown]N zid[right]AJ mah[to-be-majestic]V
+c.2.6.9.5,A prayer to Nanna for Rīm-Sîn (Rīm-Sîn E),,61,nam-til₃[life]N me-teš₂[praise]N i[to-bring-out]V
+c.2.6.9.5,A prayer to Nanna for Rīm-Sîn (Rīm-Sîn E),,62,gu-za[chair]N ma-da[land]N gen₆[to-be-firm]V
+c.2.6.9.5,A prayer to Nanna for Rīm-Sîn (Rīm-Sîn E),,63,ur₅[liver]N sag₉[to-be-good]V šag₄[heart]N hul₂[to-be-happy]V šag₄[heart]N si[to-fill]V
+c.2.6.9.5,A prayer to Nanna for Rīm-Sîn (Rīm-Sîn E),,64,igi[eye]N nam[destiny]N silim[to-be-healthy]V me[to-be]V
+c.2.6.9.5,A prayer to Nanna for Rīm-Sîn (Rīm-Sîn E),,65,u₃-luh[sceptre]N niŋ₂-si-sa₂[justice]N šu[hand]N si[to-fill]V uŋ₃[people]N šar₂[to-be-numerous]V sa₂[to-equal]V
+c.2.6.9.5,A prayer to Nanna for Rīm-Sîn (Rīm-Sîn E),,66,dadag[to-be-bright]V saŋ[head]N us₂[to-be-adjacent]V za[you-(sg.)]PD mu[year]N taka₄[to-leave-behind]V
+c.2.6.9.5,A prayer to Nanna for Rīm-Sîn (Rīm-Sîn E),,67,itid[moon(light)]N giri₁₇-zal[joy]N asila[rejoicing]N niŋ₂-ba[gift]N ba[to-allot]V
+c.2.6.9.5,A prayer to Nanna for Rīm-Sîn (Rīm-Sîn E),,68,mu[year]N šar₂[to-be-numerous]V mul-an[heavenly-star]N za-gin₃[lapis-lazuli]N šid[to-count]V til[to-complete]V saŋ[head]N rig₇[to-bestow]V
+c.2.6.9.5,A prayer to Nanna for Rīm-Sîn (Rīm-Sîn E),,69,nam-lugal[kingship]N bal[term-(in-office)]N šag₄[heart]N hul₂[to-be-happy]V du-ri₂[eternity]N ak[to-do]V
+c.2.6.9.5,A prayer to Nanna for Rīm-Sîn (Rīm-Sîn E),,70,lugal[king]N u₂-a[provisioner]N zid[right]AJ til₃[to-live]V
+c.2.6.9.5,A prayer to Nanna for Rīm-Sîn (Rīm-Sîn E),,71,Rīm-Sîn[1]RN u₂-a[provisioner]N zid[right]AJ til₃[to-live]V
+c.2.6.9.5,A prayer to Nanna for Rīm-Sîn (Rīm-Sîn E),,72,nam-lugal[kingship]N su[flesh]N dug₃[to-be-good]V
+c.2.6.9.5,A prayer to Nanna for Rīm-Sîn (Rīm-Sîn E),,73,ud[day(light)]N nam-til₃[life]N sud[to-be-distant]V
+c.2.6.9.5,A prayer to Nanna for Rīm-Sîn (Rīm-Sîn E),,74,ma-da[land]N ki[place]N gi₄[to-return]V nam-lugal[kingship]N šum₂[to-give]V
+c.2.6.9.5,A prayer to Nanna for Rīm-Sîn (Rīm-Sîn E),,75,šag₄[heart]N ma-da[land]N dug₃[to-be-good]V ŋiri₃[foot]N ma-da[land]N si[horn]N sa₂[to-equal]V
+c.2.6.9.5,A prayer to Nanna for Rīm-Sîn (Rīm-Sîn E),,76,gu₃[voice]N kalam[the-Land]N teš₂[unity]N sig₁₀[to-place]V
+c.2.6.9.5,A prayer to Nanna for Rīm-Sîn (Rīm-Sîn E),,77,Rīm-Sîn[1]RN sipad[shepherd]N šag₄[heart]N še[to-agree]V til₃[to-live]V
+c.2.6.9.5,A prayer to Nanna for Rīm-Sîn (Rīm-Sîn E),,78,id₂[watercourse]N a[water]N de₆[to-carry]V
+c.2.6.9.5,A prayer to Nanna for Rīm-Sîn (Rīm-Sîn E),,79,a-šag₄[field]N še[barley]N mu₂[to-grow]V
+c.2.6.9.5,A prayer to Nanna for Rīm-Sîn (Rīm-Sîn E),,80,pu₂-kiri₆[orchard]N lal₃[syrup]N ŋeštin[grape-(wine)]N de₆[to-carry]V
+c.2.6.9.5,A prayer to Nanna for Rīm-Sîn (Rīm-Sîn E),,81,ambar[marsh]N ku₆[fish]N mušen[bird]N dug₄[to-say]V ŋar[to-place]V
+c.2.6.9.5,A prayer to Nanna for Rīm-Sîn (Rīm-Sîn E),,82,tur₃[animal-stall]N amaš[sheepfold]N lu[to-be-abundant]V
+c.2.6.9.5,A prayer to Nanna for Rīm-Sîn (Rīm-Sîn E),,83,šeŋ₃[rain]N an[heaven]N a[water]N bad[to-open]V gen₆[to-be-firm]V
+c.2.6.9.5,A prayer to Nanna for Rīm-Sîn (Rīm-Sîn E),,84,e₂-gal[palace]N zi[life-(breath)]N su₃-ud-ŋal₂[long-lasting]AJ si[to-fill]V
+c.2.6.9.5,A prayer to Nanna for Rīm-Sîn (Rīm-Sîn E),,85,Rīm-Sîn[1]RN lugal[king]N

@@ -1,20 +1,20 @@
 id_text,text_name,version,l_no,text
-c.3.2.03,Letter from Nanna-ki-aŋ to Lipit-Eštar about Gungunum's troops,,1,sux:lugal[king]N sux:dug₄[to-say]V
-c.3.2.03,Letter from Nanna-ki-aŋ to Lipit-Eštar about Gungunum's troops,,2,sux:Nanna-ki-aŋ[1]PN sux:ra-bi-si₂-ka₃-tum-ma[general]N
-c.3.2.03,Letter from Nanna-ki-aŋ to Lipit-Eštar about Gungunum's troops,,3,sux:arad[slave]N sux:dug₄[to-say]V
-c.3.2.03,Letter from Nanna-ki-aŋ to Lipit-Eštar about Gungunum's troops,,4,sux:E-danna[1]SN sux:lugal[king]N sux:bal[to-turn-over]V
-c.3.2.03,Letter from Nanna-ki-aŋ to Lipit-Eštar about Gungunum's troops,,5,sux:šag₄[heart]N sux:E-danna[1]SN sux:6[6]NU sux:100[100]NU sux:ugnim[troops]N sux:Gungunum[1]RN
-c.3.2.03,Letter from Nanna-ki-aŋ to Lipit-Eštar about Gungunum's troops,,6,sux:Atta-mannum[1]PN sux:kur₉[to-enter]V
-c.3.2.03,Letter from Nanna-ki-aŋ to Lipit-Eštar about Gungunum's troops,,7,sux:ugnim[troops]N sux:iri-saŋ-an-na[1]SN sux:libir[to-be-old]V sux:kur₉[to-enter]V sux:šum₂[to-give]V
-c.3.2.03,Letter from Nanna-ki-aŋ to Lipit-Eštar about Gungunum's troops,,8,sux:Iri-gibil[1]SN sux:tuš[to-sit]V
-c.3.2.03,Letter from Nanna-ki-aŋ to Lipit-Eštar about Gungunum's troops,,9,sux:ugnim[troops]N sux:gu₂[neck]N sux:Id-Amar-Suena[1]WN
-c.3.2.03,Letter from Nanna-ki-aŋ to Lipit-Eštar about Gungunum's troops,,10,sux:du₃[to-erect]V sux:Dunnum[1]SN sux:ak[to-do]V
-c.3.2.03,Letter from Nanna-ki-aŋ to Lipit-Eštar about Gungunum's troops,,11,sux:ŋen[to-go]V
-c.3.2.03,Letter from Nanna-ki-aŋ to Lipit-Eštar about Gungunum's troops,,12,sux:tukum-bi[if]C sux:lugal[king]N sux:pan[bow]N sux:gag-pan[type-of-arrow]N
-c.3.2.03,Letter from Nanna-ki-aŋ to Lipit-Eštar about Gungunum's troops,,13,sux:ma₂[boat]N sux:tur[to-be-small]V sux:šu-KU₆[fisherman]N
-c.3.2.03,Letter from Nanna-ki-aŋ to Lipit-Eštar about Gungunum's troops,,14,sux:a-ŋa₂-la₂[sack]N sux:keše₂[to-bind]V sux:tukul[weapon]N sux:šu-kar₂[implement]N
-c.3.2.03,Letter from Nanna-ki-aŋ to Lipit-Eštar about Gungunum's troops,,15,sux:a₂[arm]N sux:me₃[battle]N
-c.3.2.03,Letter from Nanna-ki-aŋ to Lipit-Eštar about Gungunum's troops,,16,sux:ugnim[troops]N sux:gu₂[neck]N sux:Id-Amar-Suena[1]WN
-c.3.2.03,Letter from Nanna-ki-aŋ to Lipit-Eštar about Gungunum's troops,,17,sux:šeg₁₂[brick(work)]N sux:du₃[to-erect]V sux:u₃[and]C sux:id₂[watercourse]N sux:ba-al[to-dig]V
-c.3.2.03,Letter from Nanna-ki-aŋ to Lipit-Eštar about Gungunum's troops,,18,sux:lugal[king]N sux:še-ba[to-be-negligent]V
-c.3.2.03,Letter from Nanna-ki-aŋ to Lipit-Eštar about Gungunum's troops,,19,sux:a-ma-ru[flood]N
+c.3.2.03,Letter from Nanna-ki-aŋ to Lipit-Eštar about Gungunum's troops,,1,lugal[king]N dug₄[to-say]V
+c.3.2.03,Letter from Nanna-ki-aŋ to Lipit-Eštar about Gungunum's troops,,2,Nanna-ki-aŋ[1]PN ra-bi-si₂-ka₃-tum-ma[general]N
+c.3.2.03,Letter from Nanna-ki-aŋ to Lipit-Eštar about Gungunum's troops,,3,arad[slave]N dug₄[to-say]V
+c.3.2.03,Letter from Nanna-ki-aŋ to Lipit-Eštar about Gungunum's troops,,4,E-danna[1]SN lugal[king]N bal[to-turn-over]V
+c.3.2.03,Letter from Nanna-ki-aŋ to Lipit-Eštar about Gungunum's troops,,5,šag₄[heart]N E-danna[1]SN 6[6]NU 100[100]NU ugnim[troops]N Gungunum[1]RN
+c.3.2.03,Letter from Nanna-ki-aŋ to Lipit-Eštar about Gungunum's troops,,6,Atta-mannum[1]PN kur₉[to-enter]V
+c.3.2.03,Letter from Nanna-ki-aŋ to Lipit-Eštar about Gungunum's troops,,7,ugnim[troops]N iri-saŋ-an-na[1]SN libir[to-be-old]V kur₉[to-enter]V šum₂[to-give]V
+c.3.2.03,Letter from Nanna-ki-aŋ to Lipit-Eštar about Gungunum's troops,,8,Iri-gibil[1]SN tuš[to-sit]V
+c.3.2.03,Letter from Nanna-ki-aŋ to Lipit-Eštar about Gungunum's troops,,9,ugnim[troops]N gu₂[neck]N Id-Amar-Suena[1]WN
+c.3.2.03,Letter from Nanna-ki-aŋ to Lipit-Eštar about Gungunum's troops,,10,du₃[to-erect]V Dunnum[1]SN ak[to-do]V
+c.3.2.03,Letter from Nanna-ki-aŋ to Lipit-Eštar about Gungunum's troops,,11,ŋen[to-go]V
+c.3.2.03,Letter from Nanna-ki-aŋ to Lipit-Eštar about Gungunum's troops,,12,tukum-bi[if]C lugal[king]N pan[bow]N gag-pan[type-of-arrow]N
+c.3.2.03,Letter from Nanna-ki-aŋ to Lipit-Eštar about Gungunum's troops,,13,ma₂[boat]N tur[to-be-small]V šu-KU₆[fisherman]N
+c.3.2.03,Letter from Nanna-ki-aŋ to Lipit-Eštar about Gungunum's troops,,14,a-ŋa₂-la₂[sack]N keše₂[to-bind]V tukul[weapon]N šu-kar₂[implement]N
+c.3.2.03,Letter from Nanna-ki-aŋ to Lipit-Eštar about Gungunum's troops,,15,a₂[arm]N me₃[battle]N
+c.3.2.03,Letter from Nanna-ki-aŋ to Lipit-Eštar about Gungunum's troops,,16,ugnim[troops]N gu₂[neck]N Id-Amar-Suena[1]WN
+c.3.2.03,Letter from Nanna-ki-aŋ to Lipit-Eštar about Gungunum's troops,,17,šeg₁₂[brick(work)]N du₃[to-erect]V u₃[and]C id₂[watercourse]N ba-al[to-dig]V
+c.3.2.03,Letter from Nanna-ki-aŋ to Lipit-Eštar about Gungunum's troops,,18,lugal[king]N še-ba[to-be-negligent]V
+c.3.2.03,Letter from Nanna-ki-aŋ to Lipit-Eštar about Gungunum's troops,,19,a-ma-ru[flood]N

@@ -1,32 +1,32 @@
 id_text,text_name,version,l_no,text
 c.2.4.2.25,A praise poem of Šulgi (Šulgi Y),,1,
-c.2.4.2.25,A praise poem of Šulgi (Šulgi Y),,2,sux:ŋar[to-place]V
-c.2.4.2.25,A praise poem of Šulgi (Šulgi Y),,3,sux:nam-lugal[kingship]N sux:ud[day(light)]N sux:sud[to-be-distant]V
-c.2.4.2.25,A praise poem of Šulgi (Šulgi Y),,4,sux:bal[term-(in-office)]N sux:he₂-ŋal₂[plenty]N sux:pa[branch]N sux:e₃[to-go-out-or-in]V
-c.2.4.2.25,A praise poem of Šulgi (Šulgi Y),,5,sux:Enki[1]DN sux:en[lord]N sux:dug₄[to-say]V sux:kur₂[to-be-different]V sux:saŋ[head]N sux:il₂[to-raise]V sux:kur₉[to-enter]V
-c.2.4.2.25,A praise poem of Šulgi (Šulgi Y),,6,sux:Utu[1]DN sux:inim[word]N sux:saŋ[head]N sux:ŋen[to-go]V sux:maškim[judicial-officer]N sux:šum₂[to-give]V
-c.2.4.2.25,A praise poem of Šulgi (Šulgi Y),,7,sux:Ninlil[1]DN sux:kalam[the-Land]N sux:gu₃[voice]N sux:hul₂[to-be-happy]V sux:de₂[to-pour]V
-c.2.4.2.25,A praise poem of Šulgi (Šulgi Y),,8,sux:unken[assembly]N sux:ŋizzal[hearing]N sux:ak[to-do]V
-c.2.4.2.25,A praise poem of Šulgi (Šulgi Y),,9,sux:Šulgi[1]RN sux:sipad[shepherd]N sux:zid[right]AJ sux:Sumer[1]GN
-c.2.4.2.25,A praise poem of Šulgi (Šulgi Y),,10,sux:Ŋa-ŋiš-šua[1]TN sux:e₂[house(hold)]N sux:di[(law)suit]N sux:si[horn]N sux:sa₂[to-equal]V
-c.2.4.2.25,A praise poem of Šulgi (Šulgi Y),,11,sux:e₂[house(hold)]N sux:mah[to-be-majestic]V sux:nam-nin[ladyship]N sux:tum₂[to-be-suitable]V
-c.2.4.2.25,A praise poem of Šulgi (Šulgi Y),,12,sux:pa-pah[type-of-shrine]N sux:ki[place]N sux:u₆[wonder]N sux:dug₄[to-say]V sux:kur[(mountain)-land]N sux:ni₂[fear(someness)]N sux:huš[to-be-reddish]V sux:guru₃[to-bear]V
-c.2.4.2.25,A praise poem of Šulgi (Šulgi Y),,13,sux:e₂[house(hold)]N sux:šag₄[heart]N sux:silim[to-be-healthy]V sux:dug₄[to-say]V
-c.2.4.2.25,A praise poem of Šulgi (Šulgi Y),,14,sux:du₃[to-erect]V sux:DU[DU]V
-c.2.4.2.25,A praise poem of Šulgi (Šulgi Y),,15,sux:gu₂[neck]N
-c.2.4.2.25,A praise poem of Šulgi (Šulgi Y),,16,sux:urud[copper]N sux:niŋ₂[thing]N sux:kalag[to-be-strong]V
-c.2.4.2.25,A praise poem of Šulgi (Šulgi Y),,17,sux:lu₂[person]N sux:hul-ŋal₂[evil]AJ sux:tukul[weapon]N
-c.2.4.2.25,A praise poem of Šulgi (Šulgi Y),,18,sux:a₂[arm]N sux:aŋ₂[to-measure]V sux:me₃[battle]N sux:gaz[to-strike-(dead)]V
-c.2.4.2.25,A praise poem of Šulgi (Šulgi Y),,19,sux:ur-saŋ[hero]N sux:gal[to-be-big]V sux:til[to-complete]V sux:bar[outside]N
-c.2.4.2.25,A praise poem of Šulgi (Šulgi Y),,20,sux:gu₂[neck]N sux:ŋiri₃[foot]N sux:gub[to-stand]V
-c.2.4.2.25,A praise poem of Šulgi (Šulgi Y),,21,sux:ki-gal[pedestal]N sux:ni₂-ŋu₁₀[myself]PD sux:saŋ[head]N sux:il₂[to-raise]V
-c.2.4.2.25,A praise poem of Šulgi (Šulgi Y),,22,sux:alan[statue]N sux:kug-sig₁₇[gold]N sux:alan[statue]N sux:za-gin₃[lapis-lazuli]N
-c.2.4.2.25,A praise poem of Šulgi (Šulgi Y),,23,sux:kisal[courtyard]N sux:mah[to-be-majestic]V sux:E-niŋara[1]TN sux:si[horn]N sux:sa₂[to-equal]V
-c.2.4.2.25,A praise poem of Šulgi (Šulgi Y),,24,sux:Aratta[1]SN sux:kug[shining]AJ sux:gi₁₆-sa[(everlasting)-treasure]N sux:ŋar[to-place]V
-c.2.4.2.25,A praise poem of Šulgi (Šulgi Y),,25,sux:e₂-muhaldim[kitchen]N sux:gal[to-be-big]V sux:gud[bull]N sux:udu[sheep]N sux:ŋar[to-place]V
-c.2.4.2.25,A praise poem of Šulgi (Šulgi Y),,26,sux:e₂-gir₄[bakery]N sux:mah[to-be-majestic]V sux:he₂-ŋal₂[plenty]N sux:de₆[to-carry]V
-c.2.4.2.25,A praise poem of Šulgi (Šulgi Y),,27,sux:e₂-lunga₃[brewery]N sux:zabar[bronze]N sux:he₂-du₇[(fitting)-ornament]N
-c.2.4.2.25,A praise poem of Šulgi (Šulgi Y),,28,sux:kaš[beer]N sux:ki[place]N sux:us₂[to-be-adjacent]V
-c.2.4.2.25,A praise poem of Šulgi (Šulgi Y),,29,sux:kaš[beer]N sux:gig₂[to-be-black]V sux:kurun[type-of-beer]N sux:kaš[beer]N sux:su₄[to-be-red]V sux:e₂[house(hold)]N sux:a₂[arm]N sux:sikil[to-be-pure]V sux:sur[to-drip]V
-c.2.4.2.25,A praise poem of Šulgi (Šulgi Y),,30,sux:kiŋ₂-sig[late-afternoon-meal]N sux:unu₂[(dining)-hall]N sux:gal[to-be-big]V sux:ŋar[to-place]V
+c.2.4.2.25,A praise poem of Šulgi (Šulgi Y),,2,ŋar[to-place]V
+c.2.4.2.25,A praise poem of Šulgi (Šulgi Y),,3,nam-lugal[kingship]N ud[day(light)]N sud[to-be-distant]V
+c.2.4.2.25,A praise poem of Šulgi (Šulgi Y),,4,bal[term-(in-office)]N he₂-ŋal₂[plenty]N pa[branch]N e₃[to-go-out-or-in]V
+c.2.4.2.25,A praise poem of Šulgi (Šulgi Y),,5,Enki[1]DN en[lord]N dug₄[to-say]V kur₂[to-be-different]V saŋ[head]N il₂[to-raise]V kur₉[to-enter]V
+c.2.4.2.25,A praise poem of Šulgi (Šulgi Y),,6,Utu[1]DN inim[word]N saŋ[head]N ŋen[to-go]V maškim[judicial-officer]N šum₂[to-give]V
+c.2.4.2.25,A praise poem of Šulgi (Šulgi Y),,7,Ninlil[1]DN kalam[the-Land]N gu₃[voice]N hul₂[to-be-happy]V de₂[to-pour]V
+c.2.4.2.25,A praise poem of Šulgi (Šulgi Y),,8,unken[assembly]N ŋizzal[hearing]N ak[to-do]V
+c.2.4.2.25,A praise poem of Šulgi (Šulgi Y),,9,Šulgi[1]RN sipad[shepherd]N zid[right]AJ Sumer[1]GN
+c.2.4.2.25,A praise poem of Šulgi (Šulgi Y),,10,Ŋa-ŋiš-šua[1]TN e₂[house(hold)]N di[(law)suit]N si[horn]N sa₂[to-equal]V
+c.2.4.2.25,A praise poem of Šulgi (Šulgi Y),,11,e₂[house(hold)]N mah[to-be-majestic]V nam-nin[ladyship]N tum₂[to-be-suitable]V
+c.2.4.2.25,A praise poem of Šulgi (Šulgi Y),,12,pa-pah[type-of-shrine]N ki[place]N u₆[wonder]N dug₄[to-say]V kur[(mountain)-land]N ni₂[fear(someness)]N huš[to-be-reddish]V guru₃[to-bear]V
+c.2.4.2.25,A praise poem of Šulgi (Šulgi Y),,13,e₂[house(hold)]N šag₄[heart]N silim[to-be-healthy]V dug₄[to-say]V
+c.2.4.2.25,A praise poem of Šulgi (Šulgi Y),,14,du₃[to-erect]V DU[DU]V
+c.2.4.2.25,A praise poem of Šulgi (Šulgi Y),,15,gu₂[neck]N
+c.2.4.2.25,A praise poem of Šulgi (Šulgi Y),,16,urud[copper]N niŋ₂[thing]N kalag[to-be-strong]V
+c.2.4.2.25,A praise poem of Šulgi (Šulgi Y),,17,lu₂[person]N hul-ŋal₂[evil]AJ tukul[weapon]N
+c.2.4.2.25,A praise poem of Šulgi (Šulgi Y),,18,a₂[arm]N aŋ₂[to-measure]V me₃[battle]N gaz[to-strike-(dead)]V
+c.2.4.2.25,A praise poem of Šulgi (Šulgi Y),,19,ur-saŋ[hero]N gal[to-be-big]V til[to-complete]V bar[outside]N
+c.2.4.2.25,A praise poem of Šulgi (Šulgi Y),,20,gu₂[neck]N ŋiri₃[foot]N gub[to-stand]V
+c.2.4.2.25,A praise poem of Šulgi (Šulgi Y),,21,ki-gal[pedestal]N ni₂-ŋu₁₀[myself]PD saŋ[head]N il₂[to-raise]V
+c.2.4.2.25,A praise poem of Šulgi (Šulgi Y),,22,alan[statue]N kug-sig₁₇[gold]N alan[statue]N za-gin₃[lapis-lazuli]N
+c.2.4.2.25,A praise poem of Šulgi (Šulgi Y),,23,kisal[courtyard]N mah[to-be-majestic]V E-niŋara[1]TN si[horn]N sa₂[to-equal]V
+c.2.4.2.25,A praise poem of Šulgi (Šulgi Y),,24,Aratta[1]SN kug[shining]AJ gi₁₆-sa[(everlasting)-treasure]N ŋar[to-place]V
+c.2.4.2.25,A praise poem of Šulgi (Šulgi Y),,25,e₂-muhaldim[kitchen]N gal[to-be-big]V gud[bull]N udu[sheep]N ŋar[to-place]V
+c.2.4.2.25,A praise poem of Šulgi (Šulgi Y),,26,e₂-gir₄[bakery]N mah[to-be-majestic]V he₂-ŋal₂[plenty]N de₆[to-carry]V
+c.2.4.2.25,A praise poem of Šulgi (Šulgi Y),,27,e₂-lunga₃[brewery]N zabar[bronze]N he₂-du₇[(fitting)-ornament]N
+c.2.4.2.25,A praise poem of Šulgi (Šulgi Y),,28,kaš[beer]N ki[place]N us₂[to-be-adjacent]V
+c.2.4.2.25,A praise poem of Šulgi (Šulgi Y),,29,kaš[beer]N gig₂[to-be-black]V kurun[type-of-beer]N kaš[beer]N su₄[to-be-red]V e₂[house(hold)]N a₂[arm]N sikil[to-be-pure]V sur[to-drip]V
+c.2.4.2.25,A praise poem of Šulgi (Šulgi Y),,30,kiŋ₂-sig[late-afternoon-meal]N unu₂[(dining)-hall]N gal[to-be-big]V ŋar[to-place]V
 c.2.4.2.25,A praise poem of Šulgi (Šulgi Y),,31,

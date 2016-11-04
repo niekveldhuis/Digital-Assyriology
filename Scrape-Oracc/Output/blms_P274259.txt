@@ -1,31 +1,3 @@
-<<<<<<< HEAD
-id_text,text_name,l_no,text
-blms/P274259,CT 58 63 (BM 054636+) [Exam at the Scribal School],o 1,
-blms/P274259,CT 58 63 (BM 054636+) [Exam at the Scribal School],o 2,
-blms/P274259,CT 58 63 (BM 054636+) [Exam at the Scribal School],o 3,sux:dug[speak]V/t akk-x-stdbab:gana[come-on]J akk-x-stdbab:qabû[say]V akk-x-stdbab:petû[open]V
-blms/P274259,CT 58 63 (BM 054636+) [Exam at the Scribal School],o 4,sux:til[live]V/i akk-x-stdbab:ina[in]PRP akk-x-stdbab:wašbu[inhabited]AJ
-blms/P274259,CT 58 63 (BM 054636+) [Exam at the Scribal School],o 5,akk-x-stdbab:ahāzu[take]V akk-x-stdbab:ul[not]MOD akk-x-stdbab:edû[know]V
-blms/P274259,CT 58 63 (BM 054636+) [Exam at the Scribal School],o 6,akk-x-stdbab:mīnû[what?]QP sux:zu[know]V/t
-blms/P274259,CT 58 63 (BM 054636+) [Exam at the Scribal School],o 7,akk-x-stdbab:edû[know]V sux:zu[know]V/t
-blms/P274259,CT 58 63 (BM 054636+) [Exam at the Scribal School],o 8,sux:gi[turn]V/i akk-x-stdbab:apālu[pay]V
-blms/P274259,CT 58 63 (BM 054636+) [Exam at the Scribal School],o 9,akk-x-stdbab:lā[not]MOD akk-x-stdbab:apālu[pay]V sux:gi[turn]V/i
-blms/P274259,CT 58 63 (BM 054636+) [Exam at the Scribal School],o 10,sux:gi[turn]V/i
-blms/P274259,CT 58 63 (BM 054636+) [Exam at the Scribal School],o 11,sux:gi[turn]V/i
-blms/P274259,CT 58 63 (BM 054636+) [Exam at the Scribal School],o 12,sux:de[pour]V/t sux:zu[know]V/t akk-x-stdbab:ana[to]PRP akk-x-stdbab:šūši[sixty]NU akk-x-stdbab:kânu[be(come)-permanent]V akk-x-stdbab:edû[know]V
-blms/P274259,CT 58 63 (BM 054636+) [Exam at the Scribal School],o 13,sux:bur[spread]V/t sux:zu[know]V/t akk-x-stdbab:edû[know]V
-blms/P274259,CT 58 63 (BM 054636+) [Exam at the Scribal School],o 14,sux:zu[know]V/t akk-x-stdbab:edû[know]V
-blms/P274259,CT 58 63 (BM 054636+) [Exam at the Scribal School],o 15,sux:zu[know]V/t akk-x-stdbab:edû[know]V
-blms/P274259,CT 58 63 (BM 054636+) [Exam at the Scribal School],r 2',sux:il[raise]V/t
-blms/P274259,CT 58 63 (BM 054636+) [Exam at the Scribal School],r 3',sux:tuku[acquire]V/t
-blms/P274259,CT 58 63 (BM 054636+) [Exam at the Scribal School],r 4',sux:tuku[acquire]V/t
-blms/P274259,CT 58 63 (BM 054636+) [Exam at the Scribal School],r 5',sux:tulu[slacken]V/t
-blms/P274259,CT 58 63 (BM 054636+) [Exam at the Scribal School],r 6',
-blms/P274259,CT 58 63 (BM 054636+) [Exam at the Scribal School],r 7',sux:ak[do]V/t
-blms/P274259,CT 58 63 (BM 054636+) [Exam at the Scribal School],r 8',
-blms/P274259,CT 58 63 (BM 054636+) [Exam at the Scribal School],r 9',sux:gur[turn]V/t
-blms/P274259,CT 58 63 (BM 054636+) [Exam at the Scribal School],r 11',sux:bala[turn]V/t
-blms/P274259,CT 58 63 (BM 054636+) [Exam at the Scribal School],r 12', akk-x-stdbab:nawru[bright]AJ
-=======
 id_text,text_name,version,l_no,text
 blms/P274259,CT 58 63 (BM 054636+) [Exam at the Scribal School],CT 58, 63 (BM 054636+) [Exam at the Scribal School],o 1,akk-x-stdbab:isqu[share]N
 blms/P274259,CT 58 63 (BM 054636+) [Exam at the Scribal School],CT 58, 63 (BM 054636+) [Exam at the Scribal School],o 2,akk-x-stdbab:ummiānu[craftsman]N akk-x-stdbab:kisallu[court]N akk-x-stdbab:bītu[house]N akk-x-stdbab:ṭuppu[tablet]N akk-x-stdbab:kisallu[court]N akk-x-stdbab:bītu[house]N akk-x-stdbab:ṭuppu[tablet]N
@@ -52,4 +24,3 @@ blms/P274259,CT 58 63 (BM 054636+) [Exam at the Scribal School],CT 58, 63 (BM 05
 blms/P274259,CT 58 63 (BM 054636+) [Exam at the Scribal School],CT 58, 63 (BM 054636+) [Exam at the Scribal School],r 9',sux:gur[turn]V/t
 blms/P274259,CT 58 63 (BM 054636+) [Exam at the Scribal School],CT 58, 63 (BM 054636+) [Exam at the Scribal School],r 11',sux:šag[heart]N sux:bala[turn]V/t
 blms/P274259,CT 58 63 (BM 054636+) [Exam at the Scribal School],CT 58, 63 (BM 054636+) [Exam at the Scribal School],r 12',sux:niŋšaghab[requirement]N sux:egal[palace]N akk-x-stdbab:nawru[bright]AJ akk-x-stdbab:hišihtu[requirement]N akk-x-stdbab:ēkallu[palace]N
->>>>>>> 3232a6c70b8c35280825cd417b36511ace02fc43

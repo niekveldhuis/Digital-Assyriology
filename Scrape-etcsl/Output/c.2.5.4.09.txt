@@ -1,65 +1,65 @@
 id_text,text_name,version,l_no,text
-c.2.5.4.09,Išme-Dagan and Enlil's chariot: a tigi to Enlil (Išme-Dagan I),,1,sux:gigir[chariot]N sux:mah[to-be-majestic]V sux:Enlil[1]DN sux:en[lord]N sux:ŋeštug₂[ear]N sux:a-a[father]N sux:diŋir[deity]N
-c.2.5.4.09,Išme-Dagan and Enlil's chariot: a tigi to Enlil (Išme-Dagan I),,2,sux:E-kur[1]TN sux:eš₃[shrine]N sux:mah[to-be-majestic]V sux:dim₂[to-create]V sux:dug₄[to-say]V
-c.2.5.4.09,Išme-Dagan and Enlil's chariot: a tigi to Enlil (Išme-Dagan I),,3,sux:Išme-Dagan[1]RN sux:sipad[shepherd]N sux:gal-zu[skilful]AJ sux:mu[name]N sux:dug₃[to-be-good]V sux:sa₄[to-call]V
-c.2.5.4.09,Išme-Dagan and Enlil's chariot: a tigi to Enlil (Išme-Dagan I),,4,sux:šag₄[heart]N sux:ama[mother]N sux:sig₇[to-be-green]V sux:tud[to-give-birth]V sux:mas-su[leader]N sux:kalam[the-Land]N
-c.2.5.4.09,Išme-Dagan and Enlil's chariot: a tigi to Enlil (Išme-Dagan I),,5,sux:me[essence]N sux:kug[shining]AJ sux:sikil[to-be-pure]V sux:pa[branch]N sux:e₃[to-go-out-or-in]V sux:ak[to-do]V sux:a₂[arm]N sux:aŋ₂[to-measure]V
-c.2.5.4.09,Išme-Dagan and Enlil's chariot: a tigi to Enlil (Išme-Dagan I),,6,sux:šu[hand]N sux:de₆[to-carry]V sux:ŋa₂-la[noun-part-of-multiword-verb]N sux:dag[to-roam-around]V
-c.2.5.4.09,Išme-Dagan and Enlil's chariot: a tigi to Enlil (Išme-Dagan I),,7,sux:za-gin₃[lapis-lazuli]N sux:sig₇[to-be-green]V
-c.2.5.4.09,Išme-Dagan and Enlil's chariot: a tigi to Enlil (Išme-Dagan I),,8,sux:gub[to-stand]V
-c.2.5.4.09,Išme-Dagan and Enlil's chariot: a tigi to Enlil (Išme-Dagan I),,9,sux:2[2]NU sux:niŋ₂[thing]N sux:u₆[wonder]N sux:dug₄[to-say]V sux:ŋal₂[to-be-(located)]V
-c.2.5.4.09,Išme-Dagan and Enlil's chariot: a tigi to Enlil (Išme-Dagan I),,10,sux:šu-kar₂[implement]N sux:dalla[to-be-bright]V sux:mah[to-be-majestic]V sux:e₃[to-go-out-or-in]V sux:tir[forest]N sux:šim[aromatic-(fragrance)]N sux:erin[cedar]N
-c.2.5.4.09,Išme-Dagan and Enlil's chariot: a tigi to Enlil (Išme-Dagan I),,11,sux:ma-gid₂[type-of-pole]N sux:a-gar₃[meadow]N sux:absin₃[furrow]N sux:ŋal₂[to-open]V sux:taka₄[to-leave-behind]V sux:he₂-ŋal₂[plenty]N sux:še[barley]N sux:gu-nu[flax]N
-c.2.5.4.09,Išme-Dagan and Enlil's chariot: a tigi to Enlil (Išme-Dagan I),,12,sux:su-din[bat]N sux:dungu[cloud]N sux:sir₂[to-be-dense]V
-c.2.5.4.09,Išme-Dagan and Enlil's chariot: a tigi to Enlil (Išme-Dagan I),,13,sux:an[heaven]N sux:gu₂[neck]N sux:teš₂[unity]N sux:la₂[to-hang]V
-c.2.5.4.09,Išme-Dagan and Enlil's chariot: a tigi to Enlil (Išme-Dagan I),,14,sux:erin₂[yoke-(team)]N sux:rab₃[shackle]N sux:mah[to-be-majestic]V sux:e₃[to-go-out-or-in]V sux:erim₂[enemy]N sux:šu[hand]N sux:ri[to-direct]V
-c.2.5.4.09,Išme-Dagan and Enlil's chariot: a tigi to Enlil (Išme-Dagan I),,15,sux:gag[peg]N sux:sa[sinew]N sux:la₂[to-hang]V sux:sa-par₄[type-of-net]N sux:gal[to-be-big]V sux:nu₂[to-lie-down]V sux:an[heaven]N sux:ki[place]N sux:la₂[to-hang]V
-c.2.5.4.09,Išme-Dagan and Enlil's chariot: a tigi to Enlil (Išme-Dagan I),,16,sux:gu₂[neck]N sux:peš[to-be-thick]V
+c.2.5.4.09,Išme-Dagan and Enlil's chariot: a tigi to Enlil (Išme-Dagan I),,1,gigir[chariot]N mah[to-be-majestic]V Enlil[1]DN en[lord]N ŋeštug₂[ear]N a-a[father]N diŋir[deity]N
+c.2.5.4.09,Išme-Dagan and Enlil's chariot: a tigi to Enlil (Išme-Dagan I),,2,E-kur[1]TN eš₃[shrine]N mah[to-be-majestic]V dim₂[to-create]V dug₄[to-say]V
+c.2.5.4.09,Išme-Dagan and Enlil's chariot: a tigi to Enlil (Išme-Dagan I),,3,Išme-Dagan[1]RN sipad[shepherd]N gal-zu[skilful]AJ mu[name]N dug₃[to-be-good]V sa₄[to-call]V
+c.2.5.4.09,Išme-Dagan and Enlil's chariot: a tigi to Enlil (Išme-Dagan I),,4,šag₄[heart]N ama[mother]N sig₇[to-be-green]V tud[to-give-birth]V mas-su[leader]N kalam[the-Land]N
+c.2.5.4.09,Išme-Dagan and Enlil's chariot: a tigi to Enlil (Išme-Dagan I),,5,me[essence]N kug[shining]AJ sikil[to-be-pure]V pa[branch]N e₃[to-go-out-or-in]V ak[to-do]V a₂[arm]N aŋ₂[to-measure]V
+c.2.5.4.09,Išme-Dagan and Enlil's chariot: a tigi to Enlil (Išme-Dagan I),,6,šu[hand]N de₆[to-carry]V ŋa₂-la[noun-part-of-multiword-verb]N dag[to-roam-around]V
+c.2.5.4.09,Išme-Dagan and Enlil's chariot: a tigi to Enlil (Išme-Dagan I),,7,za-gin₃[lapis-lazuli]N sig₇[to-be-green]V
+c.2.5.4.09,Išme-Dagan and Enlil's chariot: a tigi to Enlil (Išme-Dagan I),,8,gub[to-stand]V
+c.2.5.4.09,Išme-Dagan and Enlil's chariot: a tigi to Enlil (Išme-Dagan I),,9,2[2]NU niŋ₂[thing]N u₆[wonder]N dug₄[to-say]V ŋal₂[to-be-(located)]V
+c.2.5.4.09,Išme-Dagan and Enlil's chariot: a tigi to Enlil (Išme-Dagan I),,10,šu-kar₂[implement]N dalla[to-be-bright]V mah[to-be-majestic]V e₃[to-go-out-or-in]V tir[forest]N šim[aromatic-(fragrance)]N erin[cedar]N
+c.2.5.4.09,Išme-Dagan and Enlil's chariot: a tigi to Enlil (Išme-Dagan I),,11,ma-gid₂[type-of-pole]N a-gar₃[meadow]N absin₃[furrow]N ŋal₂[to-open]V taka₄[to-leave-behind]V he₂-ŋal₂[plenty]N še[barley]N gu-nu[flax]N
+c.2.5.4.09,Išme-Dagan and Enlil's chariot: a tigi to Enlil (Išme-Dagan I),,12,su-din[bat]N dungu[cloud]N sir₂[to-be-dense]V
+c.2.5.4.09,Išme-Dagan and Enlil's chariot: a tigi to Enlil (Išme-Dagan I),,13,an[heaven]N gu₂[neck]N teš₂[unity]N la₂[to-hang]V
+c.2.5.4.09,Išme-Dagan and Enlil's chariot: a tigi to Enlil (Išme-Dagan I),,14,erin₂[yoke-(team)]N rab₃[shackle]N mah[to-be-majestic]V e₃[to-go-out-or-in]V erim₂[enemy]N šu[hand]N ri[to-direct]V
+c.2.5.4.09,Išme-Dagan and Enlil's chariot: a tigi to Enlil (Išme-Dagan I),,15,gag[peg]N sa[sinew]N la₂[to-hang]V sa-par₄[type-of-net]N gal[to-be-big]V nu₂[to-lie-down]V an[heaven]N ki[place]N la₂[to-hang]V
+c.2.5.4.09,Išme-Dagan and Enlil's chariot: a tigi to Enlil (Išme-Dagan I),,16,gu₂[neck]N peš[to-be-thick]V
 c.2.5.4.09,Išme-Dagan and Enlil's chariot: a tigi to Enlil (Išme-Dagan I),,18,
-c.2.5.4.09,Išme-Dagan and Enlil's chariot: a tigi to Enlil (Išme-Dagan I),,19,sux:saŋ-kul[(locking)-bar]N sux:huš[part-of-chariot]N
-c.2.5.4.09,Išme-Dagan and Enlil's chariot: a tigi to Enlil (Išme-Dagan I),,20,sux:sig₁₀[to-place]V sux:kur[(mountain)-land]N sux:erim₂[enemy]N sux:gam[to-bow-down]V
-c.2.5.4.09,Išme-Dagan and Enlil's chariot: a tigi to Enlil (Išme-Dagan I),,21,sux:saŋ-kul[(locking)-bar]N sux:huš[part-of-chariot]N
-c.2.5.4.09,Išme-Dagan and Enlil's chariot: a tigi to Enlil (Išme-Dagan I),,28,sux:sahar-gi₄[dust-guard]N sux:Utu[1]DN sux:an-ur₂[horizon]N sux:ŋiri₃[foot]N sux:e₂[house(hold)]N sux:nam[destiny]N
-c.2.5.4.09,Išme-Dagan and Enlil's chariot: a tigi to Enlil (Išme-Dagan I),,29,sux:saŋ-ki[forehead]N sux:sahar-gi₄[dust-guard]N sux:he₂-du₇[(fitting)-ornament]N sux:dib[to-pass]V
-c.2.5.4.09,Išme-Dagan and Enlil's chariot: a tigi to Enlil (Išme-Dagan I),,30,sux:a₂-šita₄[equipment]N sux:Nanna[1]DN sux:an-šag₄[interior-of-heaven]N sux:hi-li[attractiveness]N sux:du₈[to-spread]V
-c.2.5.4.09,Išme-Dagan and Enlil's chariot: a tigi to Enlil (Išme-Dagan I),,31,sux:gag[peg]N sux:kar₂[to-blow]V sux:a-ŋi₆[flooding]N sux:sur[to-drip]V
-c.2.5.4.09,Išme-Dagan and Enlil's chariot: a tigi to Enlil (Išme-Dagan I),,32,sux:e₂-su-lum-ma[rope-box]N sux:usan₃[whip]N sux:anše[donkey]N sux:zig₃[to-rise]V
-c.2.5.4.09,Išme-Dagan and Enlil's chariot: a tigi to Enlil (Išme-Dagan I),,33,sux:DUB[pole-pin]N sux:šu₂-uš-gal[type-of-net]N sux:bad[to-open]V sux:erim₂-du[wicked]AJ sux:e₃[to-go-out-or-in]V
-c.2.5.4.09,Išme-Dagan and Enlil's chariot: a tigi to Enlil (Išme-Dagan I),,34,sux:gaba-ŋal₂[part-of-chariot]N sux:me[essence]N sux:mah[to-be-majestic]V sux:nam-nun[princeliness]N sux:gal[to-be-big]V sux:kiŋ₂[to-seek]V
-c.2.5.4.09,Išme-Dagan and Enlil's chariot: a tigi to Enlil (Išme-Dagan I),,35,sux:KI.KAL[chariot-platform]N sux:ur-saŋ[hero]N sux:teš₂[unity]N sux:du₇[to-push]V
-c.2.5.4.09,Išme-Dagan and Enlil's chariot: a tigi to Enlil (Išme-Dagan I),,36,sux:gab₂-il₂[side-beam]N sux:gud-ab₂-ba[breeding-bull]N sux:a₂[arm]N sux:kalag[to-be-strong]V sux:niŋ₂[thing]N sux:dugud[to-be-heavy]V sux:il₂[to-raise]V
-c.2.5.4.09,Išme-Dagan and Enlil's chariot: a tigi to Enlil (Išme-Dagan I),,37,sux:šag₄-sud[crossbeam?]N sux:ŋuruš[young-man]N sux:sul-sul[to-hasten]V sux:gu₂[neck]N sux:la₂[to-hang]V
-c.2.5.4.09,Išme-Dagan and Enlil's chariot: a tigi to Enlil (Išme-Dagan I),,38,sux:da[side]N sux:ki[place]N sux:teš₂[unity]N
-c.2.5.4.09,Išme-Dagan and Enlil's chariot: a tigi to Enlil (Išme-Dagan I),,39,sux:ŋiri₃-gub[footrest]N
-c.2.5.4.09,Išme-Dagan and Enlil's chariot: a tigi to Enlil (Išme-Dagan I),,40,sux:gu-za[chair]N
-c.2.5.4.09,Išme-Dagan and Enlil's chariot: a tigi to Enlil (Išme-Dagan I),,62,sux:ud[day(light)]N sux:Išme-Dagan[1]RN
-c.2.5.4.09,Išme-Dagan and Enlil's chariot: a tigi to Enlil (Išme-Dagan I),,63,sux:lugal[king]N sux:Enlil[1]DN sux:gigir[chariot]N
-c.2.5.4.09,Išme-Dagan and Enlil's chariot: a tigi to Enlil (Išme-Dagan I),,64,sux:kug-babbar[silver]N sux:kug-sig₁₇[gold]N sux:za-gin₃[lapis-lazuli]N sux:šu[hand]N sux:tag[to-touch]V
-c.2.5.4.09,Išme-Dagan and Enlil's chariot: a tigi to Enlil (Išme-Dagan I),,65,sux:sa-gid₂-da[composition-division]N
-c.2.5.4.09,Išme-Dagan and Enlil's chariot: a tigi to Enlil (Išme-Dagan I),,66,sux:ezen[festival]N sux:gal[to-be-big]V sux:šu[hand]N sux:du₇[to-be-perfect]V sux:gigir[chariot]N sux:ŋiri₃[foot]N sux:gub[to-stand]V
-c.2.5.4.09,Išme-Dagan and Enlil's chariot: a tigi to Enlil (Išme-Dagan I),,67,sux:ama[mother]N sux:Ninlil[1]DN sux:nitalam[spouse]N sux:gu₂[neck]N sux:la₂[to-hang]V
-c.2.5.4.09,Išme-Dagan and Enlil's chariot: a tigi to Enlil (Išme-Dagan I),,68,sux:Ninurta[1]DN sux:ur-saŋ[hero]N sux:kalag[to-be-strong]V
-c.2.5.4.09,Išme-Dagan and Enlil's chariot: a tigi to Enlil (Išme-Dagan I),,69,sux:Anuna[1]DN sux:ki[place]N sux:Enlil[1]DN sux:eŋer[back]N sux:us₂[to-be-adjacent]V
-c.2.5.4.09,Išme-Dagan and Enlil's chariot: a tigi to Enlil (Išme-Dagan I),,70,sux:gigir[chariot]N sux:nim[lightning]N sux:ŋir₂[to-flash]V sux:mur[growl]N sux:ša₄[verb-part-of-multiword-verb]V sux:dug₃[to-be-good]V
-c.2.5.4.09,Išme-Dagan and Enlil's chariot: a tigi to Enlil (Išme-Dagan I),,71,sux:dur₃[young-donkey]N sux:erin₂[yoke-(team)]N sux:la₂[to-hang]V
-c.2.5.4.09,Išme-Dagan and Enlil's chariot: a tigi to Enlil (Išme-Dagan I),,72,sux:Enlil[1]DN sux:gigir[chariot]N sux:ba[to-allot]V sux:mah[to-be-majestic]V sux:zalag[to-be-shining]V sux:e₃[to-go-out-or-in]V
-c.2.5.4.09,Išme-Dagan and Enlil's chariot: a tigi to Enlil (Išme-Dagan I),,73,sux:ŋiškim-til₃[(source-of)-trust]N sux:a-a[father]N sux:Ninurta[1]DN sux:har-ra-an[route]N sux:sag₉[to-be-good]V
-c.2.5.4.09,Išme-Dagan and Enlil's chariot: a tigi to Enlil (Išme-Dagan I),,74,sux:ki[place]N sux:ur₅[liver]N sux:sag₉[to-be-good]V sux:ki[place]N sux:a[water]N sux:nam[destiny]N sux:tar[to-cut]V sux:te[to-approach]V
-c.2.5.4.09,Išme-Dagan and Enlil's chariot: a tigi to Enlil (Išme-Dagan I),,75,sux:lugal[king]N sux:kug[shining]AJ sux:e₃[to-go-out-or-in]V sux:ezen[festival]N sux:ŋar[to-place]V
-c.2.5.4.09,Išme-Dagan and Enlil's chariot: a tigi to Enlil (Išme-Dagan I),,81,sux:šag₄[heart]N sux:hul₂[to-be-happy]V
-c.2.5.4.09,Išme-Dagan and Enlil's chariot: a tigi to Enlil (Išme-Dagan I),,82,sux:šu-kar₂[implement]N sux:gana₂[field]N sux:e₃[to-go-out-or-in]V
-c.2.5.4.09,Išme-Dagan and Enlil's chariot: a tigi to Enlil (Išme-Dagan I),,83,sux:al[hoe]N sux:apin[plough]N sux:ŋiš[tree]N sux:nam-erin₂[field-working]N sux:a-da-min₃[contest]N sux:dug₄[to-say]V
-c.2.5.4.09,Išme-Dagan and Enlil's chariot: a tigi to Enlil (Išme-Dagan I),,84,sux:lugal[king]N sux:inim[word]N sux:Enlil[1]DN sux:ŋizzal[hearing]N sux:ak[to-do]V
-c.2.5.4.09,Išme-Dagan and Enlil's chariot: a tigi to Enlil (Išme-Dagan I),,85,sux:Ninurta[1]DN sux:apin[plough]N sux:kug[shining]AJ sux:si[horn]N sux:sa₂[to-equal]V sux:gana₂[field]N sux:zid[right]AJ sux:ur₁₁-ru[to-plough]V
-c.2.5.4.09,Išme-Dagan and Enlil's chariot: a tigi to Enlil (Išme-Dagan I),,86,sux:guru₇-du₆[type-of-grain-heap]N sux:guru₇-maš[type-of-grain-heap]N sux:Enlil[1]DN
-c.2.5.4.09,Išme-Dagan and Enlil's chariot: a tigi to Enlil (Išme-Dagan I),,87,sux:gu₂[neck]N sux:gur[to-turn]V sux:numun[seed]N sux:zid[right]AJ sux:ŋar[to-place]V
-c.2.5.4.09,Išme-Dagan and Enlil's chariot: a tigi to Enlil (Išme-Dagan I),,88,sux:šul[young-man]N sux:ur-saŋ[hero]N sux:E-kur[1]TN sux:za-gin₃[lapis-lazuli]N sux:saŋ[head]N sux:il₂[to-raise]V sux:kur₉[to-enter]V
-c.2.5.4.09,Išme-Dagan and Enlil's chariot: a tigi to Enlil (Išme-Dagan I),,89,sux:en[lord]N sux:Ninurta[1]DN sux:Enlil[1]DN sux:sizkur₂[prayer]N sux:dug₄[to-say]V
-c.2.5.4.09,Išme-Dagan and Enlil's chariot: a tigi to Enlil (Išme-Dagan I),,90,sux:Išme-Dagan[1]RN sux:sipad[shepherd]N sux:šu[hand]N sux:du₇[to-be-perfect]V sux:unu₂[(dining)-hall]N sux:ŋiri₃[foot]N sux:sig₉[to-put]V
-c.2.5.4.09,Išme-Dagan and Enlil's chariot: a tigi to Enlil (Išme-Dagan I),,91,sux:lugal[king]N sux:gigir[chariot]N sux:dim₂[to-create]V sux:igi[eye]N sux:zid[right]AJ sux:bar[to-set-aside]V
-c.2.5.4.09,Išme-Dagan and Enlil's chariot: a tigi to Enlil (Išme-Dagan I),,92,sux:Inana[1]DN sux:dumu[child]N sux:gal[to-be-big]V sux:ki[place]N sux:aŋ₂[to-measure]V sux:nitalam[spouse]N sux:šum₂[to-give]V
-c.2.5.4.09,Išme-Dagan and Enlil's chariot: a tigi to Enlil (Išme-Dagan I),,93,sux:ud[day(light)]N sux:ul[distant-time]N sux:gu₂[neck]N sux:la₂[to-hang]V
-c.2.5.4.09,Išme-Dagan and Enlil's chariot: a tigi to Enlil (Išme-Dagan I),,94,sux:hi-li[attractiveness]N sux:niŋ₂[thing]N sux:ku₇-ku₇[to-be-sweet]V sux:ur₂[root]N sux:kug[shining]AJ
-c.2.5.4.09,Išme-Dagan and Enlil's chariot: a tigi to Enlil (Išme-Dagan I),,95,sux:nam-til₃[life]N sux:si[to-fill]V sux:ud[day(light)]N sux:sud[to-be-distant]V
-c.2.5.4.09,Išme-Dagan and Enlil's chariot: a tigi to Enlil (Išme-Dagan I),,96,sux:sa-ŋar-ra[composition-division]N
-c.2.5.4.09,Išme-Dagan and Enlil's chariot: a tigi to Enlil (Išme-Dagan I),,97,sux:tigi[type-of-instrument-and-composition]N sux:Enlil[1]DN
+c.2.5.4.09,Išme-Dagan and Enlil's chariot: a tigi to Enlil (Išme-Dagan I),,19,saŋ-kul[(locking)-bar]N huš[part-of-chariot]N
+c.2.5.4.09,Išme-Dagan and Enlil's chariot: a tigi to Enlil (Išme-Dagan I),,20,sig₁₀[to-place]V kur[(mountain)-land]N erim₂[enemy]N gam[to-bow-down]V
+c.2.5.4.09,Išme-Dagan and Enlil's chariot: a tigi to Enlil (Išme-Dagan I),,21,saŋ-kul[(locking)-bar]N huš[part-of-chariot]N
+c.2.5.4.09,Išme-Dagan and Enlil's chariot: a tigi to Enlil (Išme-Dagan I),,28,sahar-gi₄[dust-guard]N Utu[1]DN an-ur₂[horizon]N ŋiri₃[foot]N e₂[house(hold)]N nam[destiny]N
+c.2.5.4.09,Išme-Dagan and Enlil's chariot: a tigi to Enlil (Išme-Dagan I),,29,saŋ-ki[forehead]N sahar-gi₄[dust-guard]N he₂-du₇[(fitting)-ornament]N dib[to-pass]V
+c.2.5.4.09,Išme-Dagan and Enlil's chariot: a tigi to Enlil (Išme-Dagan I),,30,a₂-šita₄[equipment]N Nanna[1]DN an-šag₄[interior-of-heaven]N hi-li[attractiveness]N du₈[to-spread]V
+c.2.5.4.09,Išme-Dagan and Enlil's chariot: a tigi to Enlil (Išme-Dagan I),,31,gag[peg]N kar₂[to-blow]V a-ŋi₆[flooding]N sur[to-drip]V
+c.2.5.4.09,Išme-Dagan and Enlil's chariot: a tigi to Enlil (Išme-Dagan I),,32,e₂-su-lum-ma[rope-box]N usan₃[whip]N anše[donkey]N zig₃[to-rise]V
+c.2.5.4.09,Išme-Dagan and Enlil's chariot: a tigi to Enlil (Išme-Dagan I),,33,DUB[pole-pin]N šu₂-uš-gal[type-of-net]N bad[to-open]V erim₂-du[wicked]AJ e₃[to-go-out-or-in]V
+c.2.5.4.09,Išme-Dagan and Enlil's chariot: a tigi to Enlil (Išme-Dagan I),,34,gaba-ŋal₂[part-of-chariot]N me[essence]N mah[to-be-majestic]V nam-nun[princeliness]N gal[to-be-big]V kiŋ₂[to-seek]V
+c.2.5.4.09,Išme-Dagan and Enlil's chariot: a tigi to Enlil (Išme-Dagan I),,35,KI.KAL[chariot-platform]N ur-saŋ[hero]N teš₂[unity]N du₇[to-push]V
+c.2.5.4.09,Išme-Dagan and Enlil's chariot: a tigi to Enlil (Išme-Dagan I),,36,gab₂-il₂[side-beam]N gud-ab₂-ba[breeding-bull]N a₂[arm]N kalag[to-be-strong]V niŋ₂[thing]N dugud[to-be-heavy]V il₂[to-raise]V
+c.2.5.4.09,Išme-Dagan and Enlil's chariot: a tigi to Enlil (Išme-Dagan I),,37,šag₄-sud[crossbeam?]N ŋuruš[young-man]N sul-sul[to-hasten]V gu₂[neck]N la₂[to-hang]V
+c.2.5.4.09,Išme-Dagan and Enlil's chariot: a tigi to Enlil (Išme-Dagan I),,38,da[side]N ki[place]N teš₂[unity]N
+c.2.5.4.09,Išme-Dagan and Enlil's chariot: a tigi to Enlil (Išme-Dagan I),,39,ŋiri₃-gub[footrest]N
+c.2.5.4.09,Išme-Dagan and Enlil's chariot: a tigi to Enlil (Išme-Dagan I),,40,gu-za[chair]N
+c.2.5.4.09,Išme-Dagan and Enlil's chariot: a tigi to Enlil (Išme-Dagan I),,62,ud[day(light)]N Išme-Dagan[1]RN
+c.2.5.4.09,Išme-Dagan and Enlil's chariot: a tigi to Enlil (Išme-Dagan I),,63,lugal[king]N Enlil[1]DN gigir[chariot]N
+c.2.5.4.09,Išme-Dagan and Enlil's chariot: a tigi to Enlil (Išme-Dagan I),,64,kug-babbar[silver]N kug-sig₁₇[gold]N za-gin₃[lapis-lazuli]N šu[hand]N tag[to-touch]V
+c.2.5.4.09,Išme-Dagan and Enlil's chariot: a tigi to Enlil (Išme-Dagan I),,65,sa-gid₂-da[composition-division]N
+c.2.5.4.09,Išme-Dagan and Enlil's chariot: a tigi to Enlil (Išme-Dagan I),,66,ezen[festival]N gal[to-be-big]V šu[hand]N du₇[to-be-perfect]V gigir[chariot]N ŋiri₃[foot]N gub[to-stand]V
+c.2.5.4.09,Išme-Dagan and Enlil's chariot: a tigi to Enlil (Išme-Dagan I),,67,ama[mother]N Ninlil[1]DN nitalam[spouse]N gu₂[neck]N la₂[to-hang]V
+c.2.5.4.09,Išme-Dagan and Enlil's chariot: a tigi to Enlil (Išme-Dagan I),,68,Ninurta[1]DN ur-saŋ[hero]N kalag[to-be-strong]V
+c.2.5.4.09,Išme-Dagan and Enlil's chariot: a tigi to Enlil (Išme-Dagan I),,69,Anuna[1]DN ki[place]N Enlil[1]DN eŋer[back]N us₂[to-be-adjacent]V
+c.2.5.4.09,Išme-Dagan and Enlil's chariot: a tigi to Enlil (Išme-Dagan I),,70,gigir[chariot]N nim[lightning]N ŋir₂[to-flash]V mur[growl]N ša₄[verb-part-of-multiword-verb]V dug₃[to-be-good]V
+c.2.5.4.09,Išme-Dagan and Enlil's chariot: a tigi to Enlil (Išme-Dagan I),,71,dur₃[young-donkey]N erin₂[yoke-(team)]N la₂[to-hang]V
+c.2.5.4.09,Išme-Dagan and Enlil's chariot: a tigi to Enlil (Išme-Dagan I),,72,Enlil[1]DN gigir[chariot]N ba[to-allot]V mah[to-be-majestic]V zalag[to-be-shining]V e₃[to-go-out-or-in]V
+c.2.5.4.09,Išme-Dagan and Enlil's chariot: a tigi to Enlil (Išme-Dagan I),,73,ŋiškim-til₃[(source-of)-trust]N a-a[father]N Ninurta[1]DN har-ra-an[route]N sag₉[to-be-good]V
+c.2.5.4.09,Išme-Dagan and Enlil's chariot: a tigi to Enlil (Išme-Dagan I),,74,ki[place]N ur₅[liver]N sag₉[to-be-good]V ki[place]N a[water]N nam[destiny]N tar[to-cut]V te[to-approach]V
+c.2.5.4.09,Išme-Dagan and Enlil's chariot: a tigi to Enlil (Išme-Dagan I),,75,lugal[king]N kug[shining]AJ e₃[to-go-out-or-in]V ezen[festival]N ŋar[to-place]V
+c.2.5.4.09,Išme-Dagan and Enlil's chariot: a tigi to Enlil (Išme-Dagan I),,81,šag₄[heart]N hul₂[to-be-happy]V
+c.2.5.4.09,Išme-Dagan and Enlil's chariot: a tigi to Enlil (Išme-Dagan I),,82,šu-kar₂[implement]N gana₂[field]N e₃[to-go-out-or-in]V
+c.2.5.4.09,Išme-Dagan and Enlil's chariot: a tigi to Enlil (Išme-Dagan I),,83,al[hoe]N apin[plough]N ŋiš[tree]N nam-erin₂[field-working]N a-da-min₃[contest]N dug₄[to-say]V
+c.2.5.4.09,Išme-Dagan and Enlil's chariot: a tigi to Enlil (Išme-Dagan I),,84,lugal[king]N inim[word]N Enlil[1]DN ŋizzal[hearing]N ak[to-do]V
+c.2.5.4.09,Išme-Dagan and Enlil's chariot: a tigi to Enlil (Išme-Dagan I),,85,Ninurta[1]DN apin[plough]N kug[shining]AJ si[horn]N sa₂[to-equal]V gana₂[field]N zid[right]AJ ur₁₁-ru[to-plough]V
+c.2.5.4.09,Išme-Dagan and Enlil's chariot: a tigi to Enlil (Išme-Dagan I),,86,guru₇-du₆[type-of-grain-heap]N guru₇-maš[type-of-grain-heap]N Enlil[1]DN
+c.2.5.4.09,Išme-Dagan and Enlil's chariot: a tigi to Enlil (Išme-Dagan I),,87,gu₂[neck]N gur[to-turn]V numun[seed]N zid[right]AJ ŋar[to-place]V
+c.2.5.4.09,Išme-Dagan and Enlil's chariot: a tigi to Enlil (Išme-Dagan I),,88,šul[young-man]N ur-saŋ[hero]N E-kur[1]TN za-gin₃[lapis-lazuli]N saŋ[head]N il₂[to-raise]V kur₉[to-enter]V
+c.2.5.4.09,Išme-Dagan and Enlil's chariot: a tigi to Enlil (Išme-Dagan I),,89,en[lord]N Ninurta[1]DN Enlil[1]DN sizkur₂[prayer]N dug₄[to-say]V
+c.2.5.4.09,Išme-Dagan and Enlil's chariot: a tigi to Enlil (Išme-Dagan I),,90,Išme-Dagan[1]RN sipad[shepherd]N šu[hand]N du₇[to-be-perfect]V unu₂[(dining)-hall]N ŋiri₃[foot]N sig₉[to-put]V
+c.2.5.4.09,Išme-Dagan and Enlil's chariot: a tigi to Enlil (Išme-Dagan I),,91,lugal[king]N gigir[chariot]N dim₂[to-create]V igi[eye]N zid[right]AJ bar[to-set-aside]V
+c.2.5.4.09,Išme-Dagan and Enlil's chariot: a tigi to Enlil (Išme-Dagan I),,92,Inana[1]DN dumu[child]N gal[to-be-big]V ki[place]N aŋ₂[to-measure]V nitalam[spouse]N šum₂[to-give]V
+c.2.5.4.09,Išme-Dagan and Enlil's chariot: a tigi to Enlil (Išme-Dagan I),,93,ud[day(light)]N ul[distant-time]N gu₂[neck]N la₂[to-hang]V
+c.2.5.4.09,Išme-Dagan and Enlil's chariot: a tigi to Enlil (Išme-Dagan I),,94,hi-li[attractiveness]N niŋ₂[thing]N ku₇-ku₇[to-be-sweet]V ur₂[root]N kug[shining]AJ
+c.2.5.4.09,Išme-Dagan and Enlil's chariot: a tigi to Enlil (Išme-Dagan I),,95,nam-til₃[life]N si[to-fill]V ud[day(light)]N sud[to-be-distant]V
+c.2.5.4.09,Išme-Dagan and Enlil's chariot: a tigi to Enlil (Išme-Dagan I),,96,sa-ŋar-ra[composition-division]N
+c.2.5.4.09,Išme-Dagan and Enlil's chariot: a tigi to Enlil (Išme-Dagan I),,97,tigi[type-of-instrument-and-composition]N Enlil[1]DN

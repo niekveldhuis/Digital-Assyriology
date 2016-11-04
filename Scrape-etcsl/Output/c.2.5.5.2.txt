@@ -1,64 +1,64 @@
 id_text,text_name,version,l_no,text
-c.2.5.5.2,A praise poem of Lipit-Eštar (Lipit-Eštar B),,1,sux:Lipit-Eštar[1]RN sux:lugal[king]N sux:saŋ[head]N sux:il₂[to-raise]V sux:nun[prince]N sux:barag[dais]N
-c.2.5.5.2,A praise poem of Lipit-Eštar (Lipit-Eštar B),,2,sux:he₂-du₇[(fitting)-ornament]N sux:isimu₂[(off)shoot]N sux:nam-lugal[kingship]N
-c.2.5.5.2,A praise poem of Lipit-Eštar (Lipit-Eštar B),,3,sux:Utu[1]DN sux:ŋen[to-go]V sux:še-er-zid[radiance]N sux:kalam[the-Land]N
-c.2.5.5.2,A praise poem of Lipit-Eštar (Lipit-Eštar B),,4,sux:nam-nun[princeliness]N sux:mah[to-be-majestic]V sux:me[essence]N sux:gal[to-be-big]V sux:u₅[to-ride]V
-c.2.5.5.2,A praise poem of Lipit-Eštar (Lipit-Eštar B),,5,sux:ub[corner]N sux:4[4]NU sux:uŋ₃[people]N sux:ki[place]N sux:ŋar[to-place]V
-c.2.5.5.2,A praise poem of Lipit-Eštar (Lipit-Eštar B),,6,sux:še[to-agree]V sux:Enlil[1]DN sux:Ninlil[1]DN sux:ki[place]N sux:aŋ₂[to-measure]V
-c.2.5.5.2,A praise poem of Lipit-Eštar (Lipit-Eštar B),,7,sux:šul[young-man]N sux:zid[right]AJ sux:igi[eye]N sux:gun₃[to-be-multicoloured]V sux:barag[dais]N sux:tum₂[to-be-suitable]V
-c.2.5.5.2,A praise poem of Lipit-Eštar (Lipit-Eštar B),,8,sux:men[diadem]N sux:aga[crown]N sux:zid[right]AJ sux:saŋ[head]N sux:me-te-ŋal₂[seemly]AJ
-c.2.5.5.2,A praise poem of Lipit-Eštar (Lipit-Eštar B),,9,sux:šibir[shepherd's-crook]N sux:šu[hand]N sux:du₈[to-spread]V sux:saŋ[head]N sux:gig₂[to-be-black]V
-c.2.5.5.2,A praise poem of Lipit-Eštar (Lipit-Eštar B),,10,sux:nun[prince]N sux:Lipit-Eštar[1]RN sux:dumu[child]N sux:Enlil[1]DN sux:sipad[shepherd]N sux:igi-ŋal₂-tuku[wise]AJ
-c.2.5.5.2,A praise poem of Lipit-Eštar (Lipit-Eštar B),,11,sux:uŋ₃[people]N sux:de₆[to-carry]V sux:ŋissu[(protective)-shade]N sux:dug₃[to-be-good]V sux:ud[day(light)]N sux:ni₂[self]N sux:dub₂[to-tremble]V
-c.2.5.5.2,A praise poem of Lipit-Eštar (Lipit-Eštar B),,12,sux:en[lord]N sux:alim[bison]N sux:mah[to-be-majestic]V sux:An[1]DN sux:ki[place]N sux:aŋ₂[to-measure]V
-c.2.5.5.2,A praise poem of Lipit-Eštar (Lipit-Eštar B),,13,sux:ŋiškim-til₃[(source-of)-trust]N sux:ama[mother]N sux:Ninlil[1]DN
-c.2.5.5.2,A praise poem of Lipit-Eštar (Lipit-Eštar B),,14,sux:Lipit-Eštar[1]RN sux:a₂[arm]N sux:nun[prince]N sux:ŋal₂[to-be-(located)]V
-c.2.5.5.2,A praise poem of Lipit-Eštar (Lipit-Eštar B),,15,sux:ka[mouth]N sux:lal₃[syrup]N sux:dug₃[to-be-good]V sux:mu[name]N sux:ka[mouth]N sux:du₇[to-be-perfect]V
-c.2.5.5.2,A praise poem of Lipit-Eštar (Lipit-Eštar B),,16,sux:šag₄[heart]N sux:de₆[to-carry]V sux:dam[spouse]N sux:Inana[1]DN
-c.2.5.5.2,A praise poem of Lipit-Eštar (Lipit-Eštar B),,17,sux:Enki[1]DN sux:ŋeštug₂[ear]N sux:daŋal[to-be-wide]V sux:saŋ[head]N sux:rig₇[to-bestow]V
-c.2.5.5.2,A praise poem of Lipit-Eštar (Lipit-Eštar B),,18,sux:Nisaba[1]DN sux:munus[woman]N sux:ul[to-swell-(with-joy)]V sux:gun₃[to-be-multicoloured]V
-c.2.5.5.2,A praise poem of Lipit-Eštar (Lipit-Eštar B),,19,sux:munus[woman]N sux:zid[right]AJ sux:dub-sar[scribe]N sux:nin[lady]N sux:niŋ₂-nam[anything]PD sux:zu[to-know]V
-c.2.5.5.2,A praise poem of Lipit-Eštar (Lipit-Eštar B),,20,sux:si[horn]N sux:im[clay]N sux:si[horn]N sux:sa₂[to-equal]V
-c.2.5.5.2,A praise poem of Lipit-Eštar (Lipit-Eštar B),,21,sux:šag₄[heart]N sux:dub[tablet]N sux:gu-šum₂[cuneiform-wedge]N sux:sag₉[to-be-good]V
-c.2.5.5.2,A praise poem of Lipit-Eštar (Lipit-Eštar B),,22,sux:gi-dub-ba[stylus]N sux:kug-sig₁₇[gold]N sux:šu[hand]N sux:gun₃[to-be-multicoloured]V
-c.2.5.5.2,A praise poem of Lipit-Eštar (Lipit-Eštar B),,23,sux:gi-diš-nindan[measuring-rod]N sux:eš₂-gana₂[measuring-line]N sux:za-gin₃[lapis-lazuli]N
-c.2.5.5.2,A praise poem of Lipit-Eštar (Lipit-Eštar B),,24,sux:ŋiš-as₄-lum[measuring-rod]N sux:le-um[(writing)-board]N sux:igi-ŋal₂[wise]AJ sux:šum₂[to-give]V sux:Nisaba[1]DN sux:šu[hand]N sux:daŋal[to-be-wide]V sux:dug₄[to-say]V
-c.2.5.5.2,A praise poem of Lipit-Eštar (Lipit-Eštar B),,25,sux:Lipit-Eštar[1]RN sux:dumu[child]N sux:Enlil[1]DN
-c.2.5.5.2,A praise poem of Lipit-Eštar (Lipit-Eštar B),,26,sux:niŋ₂-zid[righteousness]N sux:niŋ₂-gen₆-na[constancy]N sux:pa[branch]N sux:e₃[to-go-out-or-in]V
-c.2.5.5.2,A praise poem of Lipit-Eštar (Lipit-Eštar B),,27,sux:en[lord]N sux:sag₉[to-be-good]V sux:an-zag[border-of-heaven]N sux:dul[to-cover-(together)]V
-c.2.5.5.2,A praise poem of Lipit-Eštar (Lipit-Eštar B),,28,sux:Lipit-Eštar[1]RN sux:lugal[king]N sux:umuš[(fore)thought]N sux:gal[to-be-big]V sux:ad[voice]N sux:gi₄[to-return]V
-c.2.5.5.2,A praise poem of Lipit-Eštar (Lipit-Eštar B),,29,sux:inim[word]N sux:kuš₂[to-be-tired]V sux:gal-zu[skilful]AJ sux:ka-aš[decision]N sux:bar[to-set-aside]V sux:uŋ₃[people]N sux:si[horn]N sux:sa₂[to-equal]V
-c.2.5.5.2,A praise poem of Lipit-Eštar (Lipit-Eštar B),,30,sux:ŋeštug₂[ear]N sux:daŋal[to-be-wide]V sux:niŋ₂-nam[anything]PD sux:gal[to-be-big]V sux:zu[to-know]V
-c.2.5.5.2,A praise poem of Lipit-Eštar (Lipit-Eštar B),,31,sux:di[(law)suit]N sux:kur[(mountain)-land]N sux:si[horn]N sux:sa₂[to-equal]V
-c.2.5.5.2,A praise poem of Lipit-Eštar (Lipit-Eštar B),,32,sux:inim[word]N sux:šag₄[heart]N sux:ŋal₂[to-be-(located)]V sux:lul[to-be-false]V sux:zid[right]AJ sux:zu[to-know]V
-c.2.5.5.2,A praise poem of Lipit-Eštar (Lipit-Eštar B),,33,sux:Lipit-Eštar[1]RN sux:lu₂-erim₂[enemy]N sux:guru₅[to-cut-down]V sux:e₃[to-go-out-or-in]V
-c.2.5.5.2,A praise poem of Lipit-Eštar (Lipit-Eštar B),,34,sux:ka[mouth]N sux:šer₇-da[crime]N sux:ŋiri₃[foot]N sux:saga₁₁[to-press]V sux:dug₄[to-say]V sux:lu₂[person]N sux:zig₃[to-rise]V sux:zu[to-know]V
-c.2.5.5.2,A praise poem of Lipit-Eštar (Lipit-Eštar B),,35,sux:nam-tag[sin]N sux:dugud[to-be-heavy]V sux:ka[mouth]N sux:garaš₂[destruction]N sux:lu₂[person]N sux:til[to-complete]V sux:zu[to-know]V
-c.2.5.5.2,A praise poem of Lipit-Eštar (Lipit-Eštar B),,36,sux:a₂-tuku[powerful]AJ sux:sa[sinew]N sux:gaz[to-strike-(dead)]V sux:ak[to-do]V
-c.2.5.5.2,A praise poem of Lipit-Eštar (Lipit-Eštar B),,37,sux:kalag[to-be-strong]V sux:sig[to-be-low]V sux:še₂₉[to-be-oppressed]V sux:ak[to-do]V
-c.2.5.5.2,A praise poem of Lipit-Eštar (Lipit-Eštar B),,38,sux:niŋ₂-si-sa₂[justice]N sux:Sumer[1]GN sux:Akkad[1]GN sux:ŋar[to-place]V
-c.2.5.5.2,A praise poem of Lipit-Eštar (Lipit-Eštar B),,39,sux:su[flesh]N sux:kalam[the-Land]N sux:dug₃[to-be-good]V
-c.2.5.5.2,A praise poem of Lipit-Eštar (Lipit-Eštar B),,40,sux:Lipit-Eštar[1]RN sux:lugal[king]N sux:Isin[1]SN sux:lugal[king]N sux:Sumer[1]GN sux:Akkad[1]GN
-c.2.5.5.2,A praise poem of Lipit-Eštar (Lipit-Eštar B),,41,sux:Nibru[1]SN sux:dub[tablet]N sux:sar[to-write]V
-c.2.5.5.2,A praise poem of Lipit-Eštar (Lipit-Eštar B),,42,sux:E-kur[1]TN sux:e₂[house(hold)]N sux:Enlil[1]DN sux:Lipit-Eštar[1]RN sux:saŋ[head]N sux:us₂[to-be-adjacent]V sux:za[you-(sg.)]PD
-c.2.5.5.2,A praise poem of Lipit-Eštar (Lipit-Eštar B),,43,sux:Enlil[1]DN sux:Ninlil[1]DN sux:ki[place]N sux:aŋ₂[to-measure]V sux:šag₄[heart]N
-c.2.5.5.2,A praise poem of Lipit-Eštar (Lipit-Eštar B),,44,sux:ur-saŋ[hero]N sux:Ninurta[1]DN sux:maškim[judicial-officer]N sux:kalag[to-be-strong]V
-c.2.5.5.2,A praise poem of Lipit-Eštar (Lipit-Eštar B),,45,sux:Nuska[1]DN sux:sukkal-mah[chief-minister]N sux:a₂-tah[helper]N sux:inim[word]N
-c.2.5.5.2,A praise poem of Lipit-Eštar (Lipit-Eštar B),,46,sux:išib[type-of-priest]N sux:Keš[1]SN sux:Nintur[1]DN sux:zid[right]AJ sux:pad₃[to-find]V
-c.2.5.5.2,A praise poem of Lipit-Eštar (Lipit-Eštar B),,47,sux:Urim[1]SN sux:ŋal₂[to-be-(located)]V sux:šul[young-man]N sux:ŋiš[tree]N sux:tuku[to-have]V sux:Suen[1]DN
-c.2.5.5.2,A praise poem of Lipit-Eštar (Lipit-Eštar B),,48,sux:Enki[1]DN sux:Eridug[1]SN sux:aga[crown]N sux:zid[right]AJ sux:šum₂[to-give]V
-c.2.5.5.2,A praise poem of Lipit-Eštar (Lipit-Eštar B),,49,sux:ki[place]N sux:Unug[1]SN sux:kug[shining]AJ sux:Inana[1]DN sux:Lipit-Eštar[1]RN sux:hi-li[attractiveness]N sux:šag₄[heart]N
-c.2.5.5.2,A praise poem of Lipit-Eštar (Lipit-Eštar B),,50,sux:Ninisina[1]DN sux:Isin[1]SN sux:barag[dais]N sux:mah[to-be-majestic]V sux:ri[to-direct]V
-c.2.5.5.2,A praise poem of Lipit-Eštar (Lipit-Eštar B),,51,sux:i-lu[(sad)-song]N sux:šag₄[heart]N sux:mu[year]N sux:bal[term-(in-office)]N sux:sag₉[to-be-good]V
-c.2.5.5.2,A praise poem of Lipit-Eštar (Lipit-Eštar B),,52,sux:nun[prince]N sux:nun[prince]N sux:uru₁₆[to-be-towering]V sux:dirig[to-be-superior]V sux:gal[to-be-big]V sux:mah[to-be-majestic]V
-c.2.5.5.2,A praise poem of Lipit-Eštar (Lipit-Eštar B),,53,sux:ad-da[father]N sux:Išme-Dagan[1]RN sux:lugal[king]N sux:kalam[the-Land]N
-c.2.5.5.2,A praise poem of Lipit-Eštar (Lipit-Eštar B),,54,sux:gu-za[chair]N sux:suhuš[foundation]N sux:gen₆[to-be-firm]V
-c.2.5.5.2,A praise poem of Lipit-Eštar (Lipit-Eštar B),,55,sux:inim[word]N sux:dug₄[to-say]V sux:An[1]DN sux:Enlil[1]DN
-c.2.5.5.2,A praise poem of Lipit-Eštar (Lipit-Eštar B),,56,sux:du₁₄[discord]N sux:nim[upper-(land)]N sux:kur[(mountain)-land]N sux:sig₉[to-be-silent]V sux:ŋar[to-place]V
-c.2.5.5.2,A praise poem of Lipit-Eštar (Lipit-Eštar B),,57,sux:Lipit-Eštar[1]RN sux:dumu[child]N sux:Enlil[1]DN
-c.2.5.5.2,A praise poem of Lipit-Eštar (Lipit-Eštar B),,58,sux:niŋ₂-gen₆-na[constancy]N sux:ka[mouth]N sux:ŋal₂[to-be-(located)]V
-c.2.5.5.2,A praise poem of Lipit-Eštar (Lipit-Eštar B),,59,sux:za₃-mi₂[praise]N sux:e₂-dub-ba-a[scribal-school]N sux:im[clay]N sux:dug₄[to-say]V
-c.2.5.5.2,A praise poem of Lipit-Eštar (Lipit-Eštar B),,60,sux:dub-sar[scribe]N sux:a-la[exuberance]N sux:ak[to-do]V sux:gal[to-be-big]V sux:i[to-bring-out]V
-c.2.5.5.2,A praise poem of Lipit-Eštar (Lipit-Eštar B),,61,sux:ar₂[praise]N sux:e₂-dub-ba-a[scribal-school]N sux:muš₃[face]N sux:de₆[to-carry]V
-c.2.5.5.2,A praise poem of Lipit-Eštar (Lipit-Eštar B),,62,sux:sipad[shepherd]N sux:gu₂-tuku[perfect]AJ sux:šul[young-man]N sux:dumu[child]N sux:Enlil[1]DN
-c.2.5.5.2,A praise poem of Lipit-Eštar (Lipit-Eštar B),,63,sux:Lipit-Eštar[1]RN sux:za₃-mi₂[praise]N
+c.2.5.5.2,A praise poem of Lipit-Eštar (Lipit-Eštar B),,1,Lipit-Eštar[1]RN lugal[king]N saŋ[head]N il₂[to-raise]V nun[prince]N barag[dais]N
+c.2.5.5.2,A praise poem of Lipit-Eštar (Lipit-Eštar B),,2,he₂-du₇[(fitting)-ornament]N isimu₂[(off)shoot]N nam-lugal[kingship]N
+c.2.5.5.2,A praise poem of Lipit-Eštar (Lipit-Eštar B),,3,Utu[1]DN ŋen[to-go]V še-er-zid[radiance]N kalam[the-Land]N
+c.2.5.5.2,A praise poem of Lipit-Eštar (Lipit-Eštar B),,4,nam-nun[princeliness]N mah[to-be-majestic]V me[essence]N gal[to-be-big]V u₅[to-ride]V
+c.2.5.5.2,A praise poem of Lipit-Eštar (Lipit-Eštar B),,5,ub[corner]N 4[4]NU uŋ₃[people]N ki[place]N ŋar[to-place]V
+c.2.5.5.2,A praise poem of Lipit-Eštar (Lipit-Eštar B),,6,še[to-agree]V Enlil[1]DN Ninlil[1]DN ki[place]N aŋ₂[to-measure]V
+c.2.5.5.2,A praise poem of Lipit-Eštar (Lipit-Eštar B),,7,šul[young-man]N zid[right]AJ igi[eye]N gun₃[to-be-multicoloured]V barag[dais]N tum₂[to-be-suitable]V
+c.2.5.5.2,A praise poem of Lipit-Eštar (Lipit-Eštar B),,8,men[diadem]N aga[crown]N zid[right]AJ saŋ[head]N me-te-ŋal₂[seemly]AJ
+c.2.5.5.2,A praise poem of Lipit-Eštar (Lipit-Eštar B),,9,šibir[shepherd's-crook]N šu[hand]N du₈[to-spread]V saŋ[head]N gig₂[to-be-black]V
+c.2.5.5.2,A praise poem of Lipit-Eštar (Lipit-Eštar B),,10,nun[prince]N Lipit-Eštar[1]RN dumu[child]N Enlil[1]DN sipad[shepherd]N igi-ŋal₂-tuku[wise]AJ
+c.2.5.5.2,A praise poem of Lipit-Eštar (Lipit-Eštar B),,11,uŋ₃[people]N de₆[to-carry]V ŋissu[(protective)-shade]N dug₃[to-be-good]V ud[day(light)]N ni₂[self]N dub₂[to-tremble]V
+c.2.5.5.2,A praise poem of Lipit-Eštar (Lipit-Eštar B),,12,en[lord]N alim[bison]N mah[to-be-majestic]V An[1]DN ki[place]N aŋ₂[to-measure]V
+c.2.5.5.2,A praise poem of Lipit-Eštar (Lipit-Eštar B),,13,ŋiškim-til₃[(source-of)-trust]N ama[mother]N Ninlil[1]DN
+c.2.5.5.2,A praise poem of Lipit-Eštar (Lipit-Eštar B),,14,Lipit-Eštar[1]RN a₂[arm]N nun[prince]N ŋal₂[to-be-(located)]V
+c.2.5.5.2,A praise poem of Lipit-Eštar (Lipit-Eštar B),,15,ka[mouth]N lal₃[syrup]N dug₃[to-be-good]V mu[name]N ka[mouth]N du₇[to-be-perfect]V
+c.2.5.5.2,A praise poem of Lipit-Eštar (Lipit-Eštar B),,16,šag₄[heart]N de₆[to-carry]V dam[spouse]N Inana[1]DN
+c.2.5.5.2,A praise poem of Lipit-Eštar (Lipit-Eštar B),,17,Enki[1]DN ŋeštug₂[ear]N daŋal[to-be-wide]V saŋ[head]N rig₇[to-bestow]V
+c.2.5.5.2,A praise poem of Lipit-Eštar (Lipit-Eštar B),,18,Nisaba[1]DN munus[woman]N ul[to-swell-(with-joy)]V gun₃[to-be-multicoloured]V
+c.2.5.5.2,A praise poem of Lipit-Eštar (Lipit-Eštar B),,19,munus[woman]N zid[right]AJ dub-sar[scribe]N nin[lady]N niŋ₂-nam[anything]PD zu[to-know]V
+c.2.5.5.2,A praise poem of Lipit-Eštar (Lipit-Eštar B),,20,si[horn]N im[clay]N si[horn]N sa₂[to-equal]V
+c.2.5.5.2,A praise poem of Lipit-Eštar (Lipit-Eštar B),,21,šag₄[heart]N dub[tablet]N gu-šum₂[cuneiform-wedge]N sag₉[to-be-good]V
+c.2.5.5.2,A praise poem of Lipit-Eštar (Lipit-Eštar B),,22,gi-dub-ba[stylus]N kug-sig₁₇[gold]N šu[hand]N gun₃[to-be-multicoloured]V
+c.2.5.5.2,A praise poem of Lipit-Eštar (Lipit-Eštar B),,23,gi-diš-nindan[measuring-rod]N eš₂-gana₂[measuring-line]N za-gin₃[lapis-lazuli]N
+c.2.5.5.2,A praise poem of Lipit-Eštar (Lipit-Eštar B),,24,ŋiš-as₄-lum[measuring-rod]N le-um[(writing)-board]N igi-ŋal₂[wise]AJ šum₂[to-give]V Nisaba[1]DN šu[hand]N daŋal[to-be-wide]V dug₄[to-say]V
+c.2.5.5.2,A praise poem of Lipit-Eštar (Lipit-Eštar B),,25,Lipit-Eštar[1]RN dumu[child]N Enlil[1]DN
+c.2.5.5.2,A praise poem of Lipit-Eštar (Lipit-Eštar B),,26,niŋ₂-zid[righteousness]N niŋ₂-gen₆-na[constancy]N pa[branch]N e₃[to-go-out-or-in]V
+c.2.5.5.2,A praise poem of Lipit-Eštar (Lipit-Eštar B),,27,en[lord]N sag₉[to-be-good]V an-zag[border-of-heaven]N dul[to-cover-(together)]V
+c.2.5.5.2,A praise poem of Lipit-Eštar (Lipit-Eštar B),,28,Lipit-Eštar[1]RN lugal[king]N umuš[(fore)thought]N gal[to-be-big]V ad[voice]N gi₄[to-return]V
+c.2.5.5.2,A praise poem of Lipit-Eštar (Lipit-Eštar B),,29,inim[word]N kuš₂[to-be-tired]V gal-zu[skilful]AJ ka-aš[decision]N bar[to-set-aside]V uŋ₃[people]N si[horn]N sa₂[to-equal]V
+c.2.5.5.2,A praise poem of Lipit-Eštar (Lipit-Eštar B),,30,ŋeštug₂[ear]N daŋal[to-be-wide]V niŋ₂-nam[anything]PD gal[to-be-big]V zu[to-know]V
+c.2.5.5.2,A praise poem of Lipit-Eštar (Lipit-Eštar B),,31,di[(law)suit]N kur[(mountain)-land]N si[horn]N sa₂[to-equal]V
+c.2.5.5.2,A praise poem of Lipit-Eštar (Lipit-Eštar B),,32,inim[word]N šag₄[heart]N ŋal₂[to-be-(located)]V lul[to-be-false]V zid[right]AJ zu[to-know]V
+c.2.5.5.2,A praise poem of Lipit-Eštar (Lipit-Eštar B),,33,Lipit-Eštar[1]RN lu₂-erim₂[enemy]N guru₅[to-cut-down]V e₃[to-go-out-or-in]V
+c.2.5.5.2,A praise poem of Lipit-Eštar (Lipit-Eštar B),,34,ka[mouth]N šer₇-da[crime]N ŋiri₃[foot]N saga₁₁[to-press]V dug₄[to-say]V lu₂[person]N zig₃[to-rise]V zu[to-know]V
+c.2.5.5.2,A praise poem of Lipit-Eštar (Lipit-Eštar B),,35,nam-tag[sin]N dugud[to-be-heavy]V ka[mouth]N garaš₂[destruction]N lu₂[person]N til[to-complete]V zu[to-know]V
+c.2.5.5.2,A praise poem of Lipit-Eštar (Lipit-Eštar B),,36,a₂-tuku[powerful]AJ sa[sinew]N gaz[to-strike-(dead)]V ak[to-do]V
+c.2.5.5.2,A praise poem of Lipit-Eštar (Lipit-Eštar B),,37,kalag[to-be-strong]V sig[to-be-low]V še₂₉[to-be-oppressed]V ak[to-do]V
+c.2.5.5.2,A praise poem of Lipit-Eštar (Lipit-Eštar B),,38,niŋ₂-si-sa₂[justice]N Sumer[1]GN Akkad[1]GN ŋar[to-place]V
+c.2.5.5.2,A praise poem of Lipit-Eštar (Lipit-Eštar B),,39,su[flesh]N kalam[the-Land]N dug₃[to-be-good]V
+c.2.5.5.2,A praise poem of Lipit-Eštar (Lipit-Eštar B),,40,Lipit-Eštar[1]RN lugal[king]N Isin[1]SN lugal[king]N Sumer[1]GN Akkad[1]GN
+c.2.5.5.2,A praise poem of Lipit-Eštar (Lipit-Eštar B),,41,Nibru[1]SN dub[tablet]N sar[to-write]V
+c.2.5.5.2,A praise poem of Lipit-Eštar (Lipit-Eštar B),,42,E-kur[1]TN e₂[house(hold)]N Enlil[1]DN Lipit-Eštar[1]RN saŋ[head]N us₂[to-be-adjacent]V za[you-(sg.)]PD
+c.2.5.5.2,A praise poem of Lipit-Eštar (Lipit-Eštar B),,43,Enlil[1]DN Ninlil[1]DN ki[place]N aŋ₂[to-measure]V šag₄[heart]N
+c.2.5.5.2,A praise poem of Lipit-Eštar (Lipit-Eštar B),,44,ur-saŋ[hero]N Ninurta[1]DN maškim[judicial-officer]N kalag[to-be-strong]V
+c.2.5.5.2,A praise poem of Lipit-Eštar (Lipit-Eštar B),,45,Nuska[1]DN sukkal-mah[chief-minister]N a₂-tah[helper]N inim[word]N
+c.2.5.5.2,A praise poem of Lipit-Eštar (Lipit-Eštar B),,46,išib[type-of-priest]N Keš[1]SN Nintur[1]DN zid[right]AJ pad₃[to-find]V
+c.2.5.5.2,A praise poem of Lipit-Eštar (Lipit-Eštar B),,47,Urim[1]SN ŋal₂[to-be-(located)]V šul[young-man]N ŋiš[tree]N tuku[to-have]V Suen[1]DN
+c.2.5.5.2,A praise poem of Lipit-Eštar (Lipit-Eštar B),,48,Enki[1]DN Eridug[1]SN aga[crown]N zid[right]AJ šum₂[to-give]V
+c.2.5.5.2,A praise poem of Lipit-Eštar (Lipit-Eštar B),,49,ki[place]N Unug[1]SN kug[shining]AJ Inana[1]DN Lipit-Eštar[1]RN hi-li[attractiveness]N šag₄[heart]N
+c.2.5.5.2,A praise poem of Lipit-Eštar (Lipit-Eštar B),,50,Ninisina[1]DN Isin[1]SN barag[dais]N mah[to-be-majestic]V ri[to-direct]V
+c.2.5.5.2,A praise poem of Lipit-Eštar (Lipit-Eštar B),,51,i-lu[(sad)-song]N šag₄[heart]N mu[year]N bal[term-(in-office)]N sag₉[to-be-good]V
+c.2.5.5.2,A praise poem of Lipit-Eštar (Lipit-Eštar B),,52,nun[prince]N nun[prince]N uru₁₆[to-be-towering]V dirig[to-be-superior]V gal[to-be-big]V mah[to-be-majestic]V
+c.2.5.5.2,A praise poem of Lipit-Eštar (Lipit-Eštar B),,53,ad-da[father]N Išme-Dagan[1]RN lugal[king]N kalam[the-Land]N
+c.2.5.5.2,A praise poem of Lipit-Eštar (Lipit-Eštar B),,54,gu-za[chair]N suhuš[foundation]N gen₆[to-be-firm]V
+c.2.5.5.2,A praise poem of Lipit-Eštar (Lipit-Eštar B),,55,inim[word]N dug₄[to-say]V An[1]DN Enlil[1]DN
+c.2.5.5.2,A praise poem of Lipit-Eštar (Lipit-Eštar B),,56,du₁₄[discord]N nim[upper-(land)]N kur[(mountain)-land]N sig₉[to-be-silent]V ŋar[to-place]V
+c.2.5.5.2,A praise poem of Lipit-Eštar (Lipit-Eštar B),,57,Lipit-Eštar[1]RN dumu[child]N Enlil[1]DN
+c.2.5.5.2,A praise poem of Lipit-Eštar (Lipit-Eštar B),,58,niŋ₂-gen₆-na[constancy]N ka[mouth]N ŋal₂[to-be-(located)]V
+c.2.5.5.2,A praise poem of Lipit-Eštar (Lipit-Eštar B),,59,za₃-mi₂[praise]N e₂-dub-ba-a[scribal-school]N im[clay]N dug₄[to-say]V
+c.2.5.5.2,A praise poem of Lipit-Eštar (Lipit-Eštar B),,60,dub-sar[scribe]N a-la[exuberance]N ak[to-do]V gal[to-be-big]V i[to-bring-out]V
+c.2.5.5.2,A praise poem of Lipit-Eštar (Lipit-Eštar B),,61,ar₂[praise]N e₂-dub-ba-a[scribal-school]N muš₃[face]N de₆[to-carry]V
+c.2.5.5.2,A praise poem of Lipit-Eštar (Lipit-Eštar B),,62,sipad[shepherd]N gu₂-tuku[perfect]AJ šul[young-man]N dumu[child]N Enlil[1]DN
+c.2.5.5.2,A praise poem of Lipit-Eštar (Lipit-Eštar B),,63,Lipit-Eštar[1]RN za₃-mi₂[praise]N

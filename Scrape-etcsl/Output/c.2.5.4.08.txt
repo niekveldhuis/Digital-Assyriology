@@ -1,48 +1,48 @@
 id_text,text_name,version,l_no,text
-c.2.5.4.08,An adab to Enlil for Išme-Dagan (Išme-Dagan H),,1,sux:u₅[to-ride]V sux:nun[prince]N sux:diŋir[deity]N sux:me[essence]N sux:šar₂[to-be-numerous]V sux:dur₂[rump]N sux:ŋar[to-place]V
-c.2.5.4.08,An adab to Enlil for Išme-Dagan (Išme-Dagan H),,2,sux:Nunamnir[1]DN sux:en[lord]N sux:a₂[arm]N sux:aŋ₂[to-measure]V sux:zid[right]AJ sux:me[essence]N sux:gal[to-be-big]V sux:šu[hand]N sux:du₇[to-be-perfect]V
-c.2.5.4.08,An adab to Enlil for Išme-Dagan (Išme-Dagan H),,3,sux:a-a[father]N sux:Enlil[1]DN sux:ni₂[fear(someness)]N sux:an[heaven]N sux:ki[place]N sux:pa[branch]N sux:e₃[to-go-out-or-in]V sux:e₃[to-go-out-or-in]V
-c.2.5.4.08,An adab to Enlil for Išme-Dagan (Išme-Dagan H),,4,sux:diŋir[deity]N sux:an[heaven]N sux:an[heaven]N sux:gub[to-stand]V sux:mu[name]N sux:dug₃[to-be-good]V sux:sa₄[to-call]V
-c.2.5.4.08,An adab to Enlil for Išme-Dagan (Išme-Dagan H),,5,sux:lugal[king]N sux:igi[eye]N sux:si[to-fill]V
+c.2.5.4.08,An adab to Enlil for Išme-Dagan (Išme-Dagan H),,1,u₅[to-ride]V nun[prince]N diŋir[deity]N me[essence]N šar₂[to-be-numerous]V dur₂[rump]N ŋar[to-place]V
+c.2.5.4.08,An adab to Enlil for Išme-Dagan (Išme-Dagan H),,2,Nunamnir[1]DN en[lord]N a₂[arm]N aŋ₂[to-measure]V zid[right]AJ me[essence]N gal[to-be-big]V šu[hand]N du₇[to-be-perfect]V
+c.2.5.4.08,An adab to Enlil for Išme-Dagan (Išme-Dagan H),,3,a-a[father]N Enlil[1]DN ni₂[fear(someness)]N an[heaven]N ki[place]N pa[branch]N e₃[to-go-out-or-in]V e₃[to-go-out-or-in]V
+c.2.5.4.08,An adab to Enlil for Išme-Dagan (Išme-Dagan H),,4,diŋir[deity]N an[heaven]N an[heaven]N gub[to-stand]V mu[name]N dug₃[to-be-good]V sa₄[to-call]V
+c.2.5.4.08,An adab to Enlil for Išme-Dagan (Išme-Dagan H),,5,lugal[king]N igi[eye]N si[to-fill]V
 c.2.5.4.08,An adab to Enlil for Išme-Dagan (Išme-Dagan H),,6,
-c.2.5.4.08,An adab to Enlil for Išme-Dagan (Išme-Dagan H),,7,sux:Anuna[1]DN sux:diŋir[deity]N sux:gal[to-be-big]V sux:igi[eye]N sux:si[horn]N sux:sa₂[to-equal]V
-c.2.5.4.08,An adab to Enlil for Išme-Dagan (Išme-Dagan H),,8,sux:Enlil[1]DN sux:inim[word]N sux:kug[shining]AJ sux:dug₄[to-say]V sux:mah[to-be-majestic]V sux:ŋizzal[hearing]N sux:ak[to-do]V
-c.2.5.4.08,An adab to Enlil for Išme-Dagan (Išme-Dagan H),,9,sux:Nunamnir[1]DN sux:an[heaven]N sux:ki[place]N sux:niŋin₂[to-go-around]V sux:dili[single]AJ sux:mah[to-be-majestic]V
-c.2.5.4.08,An adab to Enlil for Išme-Dagan (Išme-Dagan H),,10,sux:Anuna[1]DN sux:rab₃[shackle]N sux:mah[to-be-majestic]V sux:kur[(mountain)-land]N
-c.2.5.4.08,An adab to Enlil for Išme-Dagan (Išme-Dagan H),,11,sux:sud[to-be-distant]V sux:en[lord]N sux:niŋ₂-nam[anything]PD sux:dib[to-pass]V sux:dug₄[to-say]V sux:kam₃[to-alter]V
-c.2.5.4.08,An adab to Enlil for Išme-Dagan (Išme-Dagan H),,12,sux:gal[to-be-big]V sux:me[essence]N sux:me[essence]N sux:dirig[to-be-superior]V sux:a-ra₂[way]N sux:niŋ₂[thing]N sux:galam[to-be-skilful]V sux:nam-kal-la[value]N sux:kur[(mountain)-land]N sux:ki[place]N sux:sud[to-be-distant]V sux:sipad[shepherd]N sux:zid[right]AJ sux:za[you-(sg.)]PD
-c.2.5.4.08,An adab to Enlil for Išme-Dagan (Išme-Dagan H),,13,sux:a-a[father]N sux:Enlil[1]DN sux:Ki-ur[1]TN sux:Dur-an-ki[1]TN sux:šag₄[heart]N sux:pad₃[to-find]V
-c.2.5.4.08,An adab to Enlil for Išme-Dagan (Išme-Dagan H),,14,sux:E-kur[1]TN sux:ki[place]N sux:aŋ₂[to-measure]V sux:du₃[to-erect]V sux:barag[dais]N sux:mah[to-be-majestic]V sux:ri[to-direct]V
-c.2.5.4.08,An adab to Enlil for Išme-Dagan (Išme-Dagan H),,15,sux:eš₃[shrine]N sux:me[essence]N sux:me[essence]N sux:kal[to-be-rare]V sux:šu-luh[ritual-cleansing]N sux:zid[right]AJ sux:mah[to-be-majestic]V
-c.2.5.4.08,An adab to Enlil for Išme-Dagan (Išme-Dagan H),,16,sux:ŋarza[rite]N sux:kug[shining]AJ sux:niŋ₂[thing]N sux:ka[mouth]N sux:dib[to-pass]V
-c.2.5.4.08,An adab to Enlil for Išme-Dagan (Išme-Dagan H),,17,sux:E-kur[1]TN sux:šag₄[heart]N sux:galam[to-be-skilful]V sux:kad₄[to-bind-together]V sux:niŋ₂[thing]N sux:lu₂[person]N sux:zu[to-know]V
-c.2.5.4.08,An adab to Enlil for Išme-Dagan (Išme-Dagan H),,18,sux:Išme-Dagan[1]RN sux:ŋiš-hur[design]N sux:me[essence]N sux:zid[right]AJ sux:si[horn]N sux:sa₂[to-equal]V
-c.2.5.4.08,An adab to Enlil for Išme-Dagan (Išme-Dagan H),,19,sux:sa-gid₂-da[composition-division]N
-c.2.5.4.08,An adab to Enlil for Išme-Dagan (Išme-Dagan H),,20,sux:Enlil[1]DN sux:Išme-Dagan[1]RN sux:dumu[child]N sux:ki[place]N sux:aŋ₂[to-measure]V sux:nam-lugal[kingship]N sux:bal[term-(in-office)]N sux:sud[to-be-distant]V
-c.2.5.4.08,An adab to Enlil for Išme-Dagan (Išme-Dagan H),,21,sux:ŋiš-gi₄-ŋal₂[composition-division]N sux:sa-gid₂-da[composition-division]N
-c.2.5.4.08,An adab to Enlil for Išme-Dagan (Išme-Dagan H),,22,sux:Enlil[1]DN sux:en[lord]N sux:gal[to-be-big]V sux:diŋir[deity]N sux:uŋ₃[people]N sux:šar₂[to-be-numerous]V sux:il₂[to-raise]V
-c.2.5.4.08,An adab to Enlil for Išme-Dagan (Išme-Dagan H),,23,sux:en[lord]N sux:gal[to-be-big]V sux:diŋir[deity]N sux:uŋ₃[people]N sux:šar₂[to-be-numerous]V sux:il₂[to-raise]V
-c.2.5.4.08,An adab to Enlil for Išme-Dagan (Išme-Dagan H),,24,sux:inim[word]N sux:mah[to-be-majestic]V sux:dug₄[to-say]V sux:saŋ[head]N sux:ŋen[to-go]V
-c.2.5.4.08,An adab to Enlil for Išme-Dagan (Išme-Dagan H),,25,sux:niŋ₂[thing]N sux:kur₂[to-be-different]V sux:dug₄[to-say]V sux:ki[place]N sux:ŋar[to-place]V
-c.2.5.4.08,An adab to Enlil for Išme-Dagan (Išme-Dagan H),,26,sux:tuku[to-have]V sux:saŋ[head]N sux:us₂[to-be-adjacent]V sux:e₂[house(hold)]N
-c.2.5.4.08,An adab to Enlil for Išme-Dagan (Išme-Dagan H),,27,sux:nam[destiny]N sux:dug₃[to-be-good]V sux:tar[to-cut]V
-c.2.5.4.08,An adab to Enlil for Išme-Dagan (Išme-Dagan H),,28,sux:Išme-Dagan[1]RN sux:dumu[child]N sux:Enlil[1]DN
-c.2.5.4.08,An adab to Enlil for Išme-Dagan (Išme-Dagan H),,29,sux:an[heaven]N sux:ki[place]N sux:zag[side]N sux:til[to-complete]V sux:mah[to-be-majestic]V
-c.2.5.4.08,An adab to Enlil for Išme-Dagan (Išme-Dagan H),,30,sux:bad[to-open]V
-c.2.5.4.08,An adab to Enlil for Išme-Dagan (Išme-Dagan H),,31,sux:ki[place]N sux:kur[(mountain)-land]N sux:gam[to-bow-down]V
-c.2.5.4.08,An adab to Enlil for Išme-Dagan (Išme-Dagan H),,32,sux:Išme-Dagan[1]RN sux:me[to-be]V
-c.2.5.4.08,An adab to Enlil for Išme-Dagan (Išme-Dagan H),,33,sux:me[to-be]V
-c.2.5.4.08,An adab to Enlil for Išme-Dagan (Išme-Dagan H),,34,sux:ŋen[to-go]V
-c.2.5.4.08,An adab to Enlil for Išme-Dagan (Išme-Dagan H),,35,sux:me[to-be]V
-c.2.5.4.08,An adab to Enlil for Išme-Dagan (Išme-Dagan H),,36,sux:ŋal₂[to-be-(located)]V
-c.2.5.4.08,An adab to Enlil for Išme-Dagan (Išme-Dagan H),,37,sux:mah[to-be-majestic]V
-c.2.5.4.08,An adab to Enlil for Išme-Dagan (Išme-Dagan H),,38,sux:saŋ[head]N sux:rig₇[to-bestow]V
-c.2.5.4.08,An adab to Enlil for Išme-Dagan (Išme-Dagan H),,39,sux:ŋa₂-la[noun-part-of-multiword-verb]N sux:dag[to-roam-around]V sux:me[to-be]V
-c.2.5.4.08,An adab to Enlil for Išme-Dagan (Išme-Dagan H),,40,sux:ki[place]N sux:kug[shining]AJ sux:ki[place]N sux:sikil[to-be-pure]V sux:ŋal₂[to-be-(located)]V
-c.2.5.4.08,An adab to Enlil for Išme-Dagan (Išme-Dagan H),,41,sux:sa-ŋar-ra[composition-division]N
-c.2.5.4.08,An adab to Enlil for Išme-Dagan (Išme-Dagan H),,42,sux:Anuna[1]DN
-c.2.5.4.08,An adab to Enlil for Išme-Dagan (Išme-Dagan H),,43,sux:Anuna[1]DN
-c.2.5.4.08,An adab to Enlil for Išme-Dagan (Išme-Dagan H),,44,sux:bal[term-(in-office)]N sux:dug₃[to-be-good]V sux:mu[year]N sux:nam-he₂[abundance]N
-c.2.5.4.08,An adab to Enlil for Išme-Dagan (Išme-Dagan H),,45,sux:saŋ[head]N sux:rig₇[to-bestow]V
-c.2.5.4.08,An adab to Enlil for Išme-Dagan (Išme-Dagan H),,46,sux:u₁₈-ru[composition-division]N
-c.2.5.4.08,An adab to Enlil for Išme-Dagan (Išme-Dagan H),,47,sux:a-da-ab[type-of-drum-and-composition]N sux:Enlil[1]DN
+c.2.5.4.08,An adab to Enlil for Išme-Dagan (Išme-Dagan H),,7,Anuna[1]DN diŋir[deity]N gal[to-be-big]V igi[eye]N si[horn]N sa₂[to-equal]V
+c.2.5.4.08,An adab to Enlil for Išme-Dagan (Išme-Dagan H),,8,Enlil[1]DN inim[word]N kug[shining]AJ dug₄[to-say]V mah[to-be-majestic]V ŋizzal[hearing]N ak[to-do]V
+c.2.5.4.08,An adab to Enlil for Išme-Dagan (Išme-Dagan H),,9,Nunamnir[1]DN an[heaven]N ki[place]N niŋin₂[to-go-around]V dili[single]AJ mah[to-be-majestic]V
+c.2.5.4.08,An adab to Enlil for Išme-Dagan (Išme-Dagan H),,10,Anuna[1]DN rab₃[shackle]N mah[to-be-majestic]V kur[(mountain)-land]N
+c.2.5.4.08,An adab to Enlil for Išme-Dagan (Išme-Dagan H),,11,sud[to-be-distant]V en[lord]N niŋ₂-nam[anything]PD dib[to-pass]V dug₄[to-say]V kam₃[to-alter]V
+c.2.5.4.08,An adab to Enlil for Išme-Dagan (Išme-Dagan H),,12,gal[to-be-big]V me[essence]N me[essence]N dirig[to-be-superior]V a-ra₂[way]N niŋ₂[thing]N galam[to-be-skilful]V nam-kal-la[value]N kur[(mountain)-land]N ki[place]N sud[to-be-distant]V sipad[shepherd]N zid[right]AJ za[you-(sg.)]PD
+c.2.5.4.08,An adab to Enlil for Išme-Dagan (Išme-Dagan H),,13,a-a[father]N Enlil[1]DN Ki-ur[1]TN Dur-an-ki[1]TN šag₄[heart]N pad₃[to-find]V
+c.2.5.4.08,An adab to Enlil for Išme-Dagan (Išme-Dagan H),,14,E-kur[1]TN ki[place]N aŋ₂[to-measure]V du₃[to-erect]V barag[dais]N mah[to-be-majestic]V ri[to-direct]V
+c.2.5.4.08,An adab to Enlil for Išme-Dagan (Išme-Dagan H),,15,eš₃[shrine]N me[essence]N me[essence]N kal[to-be-rare]V šu-luh[ritual-cleansing]N zid[right]AJ mah[to-be-majestic]V
+c.2.5.4.08,An adab to Enlil for Išme-Dagan (Išme-Dagan H),,16,ŋarza[rite]N kug[shining]AJ niŋ₂[thing]N ka[mouth]N dib[to-pass]V
+c.2.5.4.08,An adab to Enlil for Išme-Dagan (Išme-Dagan H),,17,E-kur[1]TN šag₄[heart]N galam[to-be-skilful]V kad₄[to-bind-together]V niŋ₂[thing]N lu₂[person]N zu[to-know]V
+c.2.5.4.08,An adab to Enlil for Išme-Dagan (Išme-Dagan H),,18,Išme-Dagan[1]RN ŋiš-hur[design]N me[essence]N zid[right]AJ si[horn]N sa₂[to-equal]V
+c.2.5.4.08,An adab to Enlil for Išme-Dagan (Išme-Dagan H),,19,sa-gid₂-da[composition-division]N
+c.2.5.4.08,An adab to Enlil for Išme-Dagan (Išme-Dagan H),,20,Enlil[1]DN Išme-Dagan[1]RN dumu[child]N ki[place]N aŋ₂[to-measure]V nam-lugal[kingship]N bal[term-(in-office)]N sud[to-be-distant]V
+c.2.5.4.08,An adab to Enlil for Išme-Dagan (Išme-Dagan H),,21,ŋiš-gi₄-ŋal₂[composition-division]N sa-gid₂-da[composition-division]N
+c.2.5.4.08,An adab to Enlil for Išme-Dagan (Išme-Dagan H),,22,Enlil[1]DN en[lord]N gal[to-be-big]V diŋir[deity]N uŋ₃[people]N šar₂[to-be-numerous]V il₂[to-raise]V
+c.2.5.4.08,An adab to Enlil for Išme-Dagan (Išme-Dagan H),,23,en[lord]N gal[to-be-big]V diŋir[deity]N uŋ₃[people]N šar₂[to-be-numerous]V il₂[to-raise]V
+c.2.5.4.08,An adab to Enlil for Išme-Dagan (Išme-Dagan H),,24,inim[word]N mah[to-be-majestic]V dug₄[to-say]V saŋ[head]N ŋen[to-go]V
+c.2.5.4.08,An adab to Enlil for Išme-Dagan (Išme-Dagan H),,25,niŋ₂[thing]N kur₂[to-be-different]V dug₄[to-say]V ki[place]N ŋar[to-place]V
+c.2.5.4.08,An adab to Enlil for Išme-Dagan (Išme-Dagan H),,26,tuku[to-have]V saŋ[head]N us₂[to-be-adjacent]V e₂[house(hold)]N
+c.2.5.4.08,An adab to Enlil for Išme-Dagan (Išme-Dagan H),,27,nam[destiny]N dug₃[to-be-good]V tar[to-cut]V
+c.2.5.4.08,An adab to Enlil for Išme-Dagan (Išme-Dagan H),,28,Išme-Dagan[1]RN dumu[child]N Enlil[1]DN
+c.2.5.4.08,An adab to Enlil for Išme-Dagan (Išme-Dagan H),,29,an[heaven]N ki[place]N zag[side]N til[to-complete]V mah[to-be-majestic]V
+c.2.5.4.08,An adab to Enlil for Išme-Dagan (Išme-Dagan H),,30,bad[to-open]V
+c.2.5.4.08,An adab to Enlil for Išme-Dagan (Išme-Dagan H),,31,ki[place]N kur[(mountain)-land]N gam[to-bow-down]V
+c.2.5.4.08,An adab to Enlil for Išme-Dagan (Išme-Dagan H),,32,Išme-Dagan[1]RN me[to-be]V
+c.2.5.4.08,An adab to Enlil for Išme-Dagan (Išme-Dagan H),,33,me[to-be]V
+c.2.5.4.08,An adab to Enlil for Išme-Dagan (Išme-Dagan H),,34,ŋen[to-go]V
+c.2.5.4.08,An adab to Enlil for Išme-Dagan (Išme-Dagan H),,35,me[to-be]V
+c.2.5.4.08,An adab to Enlil for Išme-Dagan (Išme-Dagan H),,36,ŋal₂[to-be-(located)]V
+c.2.5.4.08,An adab to Enlil for Išme-Dagan (Išme-Dagan H),,37,mah[to-be-majestic]V
+c.2.5.4.08,An adab to Enlil for Išme-Dagan (Išme-Dagan H),,38,saŋ[head]N rig₇[to-bestow]V
+c.2.5.4.08,An adab to Enlil for Išme-Dagan (Išme-Dagan H),,39,ŋa₂-la[noun-part-of-multiword-verb]N dag[to-roam-around]V me[to-be]V
+c.2.5.4.08,An adab to Enlil for Išme-Dagan (Išme-Dagan H),,40,ki[place]N kug[shining]AJ ki[place]N sikil[to-be-pure]V ŋal₂[to-be-(located)]V
+c.2.5.4.08,An adab to Enlil for Išme-Dagan (Išme-Dagan H),,41,sa-ŋar-ra[composition-division]N
+c.2.5.4.08,An adab to Enlil for Išme-Dagan (Išme-Dagan H),,42,Anuna[1]DN
+c.2.5.4.08,An adab to Enlil for Išme-Dagan (Išme-Dagan H),,43,Anuna[1]DN
+c.2.5.4.08,An adab to Enlil for Išme-Dagan (Išme-Dagan H),,44,bal[term-(in-office)]N dug₃[to-be-good]V mu[year]N nam-he₂[abundance]N
+c.2.5.4.08,An adab to Enlil for Išme-Dagan (Išme-Dagan H),,45,saŋ[head]N rig₇[to-bestow]V
+c.2.5.4.08,An adab to Enlil for Išme-Dagan (Išme-Dagan H),,46,u₁₈-ru[composition-division]N
+c.2.5.4.08,An adab to Enlil for Išme-Dagan (Išme-Dagan H),,47,a-da-ab[type-of-drum-and-composition]N Enlil[1]DN

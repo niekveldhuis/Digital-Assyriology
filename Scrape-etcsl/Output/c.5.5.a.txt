@@ -1,33 +1,33 @@
 id_text,text_name,version,l_no,text
-c.5.5.a,A drinking song,,1,sux:gakkul[fermenting-vat]N sux:gakkul[fermenting-vat]N
-c.5.5.a,A drinking song,,2,sux:gakkul[fermenting-vat]N sux:lam-sa₂-ri[brewing-vat]N
-c.5.5.a,A drinking song,,3,sux:gakkul[fermenting-vat]N sux:niŋ₂[thing]N sux:ur₅[liver]N sux:sag₉[to-be-good]V
-c.5.5.a,A drinking song,,4,sux:lam-sa₂-ri[brewing-vat]N sux:niŋ₂[thing]N sux:šag₄[heart]N sux:hul₂[to-be-happy]V
-c.5.5.a,A drinking song,,5,sux:u-gur-bal[type-of-jar]N sux:niŋ₂[thing]N sux:e₂[house(hold)]N sux:me-te[(fitting)-attribute]N
-c.5.5.a,A drinking song,,6,sux:šag₄-gub[type-of-container]N sux:niŋ₂[thing]N sux:kaš[beer]N sux:sig₉[to-put]V
-c.5.5.a,A drinking song,,7,sux:am-am[type-of-container]N sux:lam-sa₂-ri[brewing-vat]N
-c.5.5.a,A drinking song,,8,sux:buniŋ[type-of-container]N sux:bur₂[type-of-grass]N sux:ba-an-du₈[type-of-container]N sux:silaŋ[to-knead]V
-c.5.5.a,A drinking song,,9,sux:dug[pot]N sux:sag₉[to-be-good]V sux:dag-dug[potstand]N sux:sa[sinew]N sux:gi₄[to-return]V
-c.5.5.a,A drinking song,,10,sux:šag₄[heart]N sux:diŋir[deity]N sux:huŋ[to-hire]V
-c.5.5.a,A drinking song,,11,sux:igi[eye]N sux:gakkul[fermenting-vat]N sux:igi[eye]N sux:me[to-be]V
-c.5.5.a,A drinking song,,12,sux:šag₄[heart]N sux:gakkul[fermenting-vat]N sux:šag₄[heart]N sux:me[to-be]V
-c.5.5.a,A drinking song,,13,sux-x-emesal:aŋ₂[thing]N sux:šag₄[heart]N sux:gur₄[to-be-thick]V sux:ni₂-bi[itself;-themselves]PD
-c.5.5.a,A drinking song,,14,sux:šag₄[heart]N sux:gur₄[to-be-thick]V sux:ni₂-bi[itself;-themselves]PD
-c.5.5.a,A drinking song,,15,sux:ur₅[liver]N sux:sag₉[to-be-good]V sux:šag₄[heart]N sux:hul₂[to-be-happy]V
-c.5.5.a,A drinking song,,16,sux:šeg₁₂[brick(work)]N sux:nam[destiny]N sux:tar[to-cut]V sux:a[water]N sux:de₂[to-pour]V
-c.5.5.a,A drinking song,,17,sux:silim[to-be-healthy]V sux:he₂-ŋal₂[plenty]N sux:ki[place]N sux:us₂[to-be-adjacent]V
-c.5.5.a,A drinking song,,18,sux:Ninkasi[1]DN sux:za[you-(sg.)]PD sux:til₃[to-live]V
-c.5.5.a,A drinking song,,19,sux:kaš[beer]N sux:ŋeštin[grape-(wine)]N sux:bal[to-turn-over]V
-c.5.5.a,A drinking song,,20,sux:kurun[type-of-beer]N sux:lal₃[syrup]N sux:gu₃[voice]N sux:nun[prince]N sux:dug₄[to-say]V
-c.5.5.a,A drinking song,,21,sux:buniŋ[type-of-container]N sux:bur₂[type-of-grass]N sux:kaš[beer]N sux:ku₇-ku₇[to-be-sweet]V
-c.5.5.a,A drinking song,,22,sux:sagi[cupbearer]N sux:lu₂-tur[child]N sux:lunga[brewer]N sux:gub[to-stand]V
-c.5.5.a,A drinking song,,23,sux:a-niŋin₂[water-reservoir]N sux:niŋin₂[to-go-around]V
-c.5.5.a,A drinking song,,24,sux:gur₄[to-be-thick]V sux:gur₄[to-be-thick]V
-c.5.5.a,A drinking song,,25,sux:kaš[beer]N sux:naŋ[to-drink]V sux-x-emesal:me[I]PD sux:sig₁₀[to-place]V
-c.5.5.a,A drinking song,,26,sux:kurun[type-of-beer]N sux:naŋ[to-drink]V sux:ul[to-swell-(with-joy)]V sux:te[to-approach]V
-c.5.5.a,A drinking song,,27,sux:šag₄[heart]N sux:hul₂[to-be-happy]V sux:ur₅[liver]N sux:sag₉[to-be-good]V
-c.5.5.a,A drinking song,,28,sux:šag₄[heart]N sux:šag₄[heart]N sux:hul₂[to-be-happy]V sux:ŋal₂[to-be-(located)]V
-c.5.5.a,A drinking song,,29,sux:ur₅[liver]N sux:sag₉[to-be-good]V sux:pala₃[type-of-garment]N sux:mur₁₀[to-dress]V
-c.5.5.a,A drinking song,,30,sux:šag₄[heart]N sux:Inana[1]DN sux:ki[place]N sux:gi₄[to-return]V
-c.5.5.a,A drinking song,,31,sux:šag₄[heart]N sux-x-emesal:Inana[1]DN sux:ki[place]N sux:gi₄[to-return]V
-c.5.5.a,A drinking song,,32,sux:Ninkasi[1]DN
+c.5.5.a,A drinking song,,1,gakkul[fermenting-vat]N gakkul[fermenting-vat]N
+c.5.5.a,A drinking song,,2,gakkul[fermenting-vat]N lam-sa₂-ri[brewing-vat]N
+c.5.5.a,A drinking song,,3,gakkul[fermenting-vat]N niŋ₂[thing]N ur₅[liver]N sag₉[to-be-good]V
+c.5.5.a,A drinking song,,4,lam-sa₂-ri[brewing-vat]N niŋ₂[thing]N šag₄[heart]N hul₂[to-be-happy]V
+c.5.5.a,A drinking song,,5,u-gur-bal[type-of-jar]N niŋ₂[thing]N e₂[house(hold)]N me-te[(fitting)-attribute]N
+c.5.5.a,A drinking song,,6,šag₄-gub[type-of-container]N niŋ₂[thing]N kaš[beer]N sig₉[to-put]V
+c.5.5.a,A drinking song,,7,am-am[type-of-container]N lam-sa₂-ri[brewing-vat]N
+c.5.5.a,A drinking song,,8,buniŋ[type-of-container]N bur₂[type-of-grass]N ba-an-du₈[type-of-container]N silaŋ[to-knead]V
+c.5.5.a,A drinking song,,9,dug[pot]N sag₉[to-be-good]V dag-dug[potstand]N sa[sinew]N gi₄[to-return]V
+c.5.5.a,A drinking song,,10,šag₄[heart]N diŋir[deity]N huŋ[to-hire]V
+c.5.5.a,A drinking song,,11,igi[eye]N gakkul[fermenting-vat]N igi[eye]N me[to-be]V
+c.5.5.a,A drinking song,,12,šag₄[heart]N gakkul[fermenting-vat]N šag₄[heart]N me[to-be]V
+c.5.5.a,A drinking song,,13,aŋ₂[thing]N šag₄[heart]N gur₄[to-be-thick]V ni₂-bi[itself;-themselves]PD
+c.5.5.a,A drinking song,,14,šag₄[heart]N gur₄[to-be-thick]V ni₂-bi[itself;-themselves]PD
+c.5.5.a,A drinking song,,15,ur₅[liver]N sag₉[to-be-good]V šag₄[heart]N hul₂[to-be-happy]V
+c.5.5.a,A drinking song,,16,šeg₁₂[brick(work)]N nam[destiny]N tar[to-cut]V a[water]N de₂[to-pour]V
+c.5.5.a,A drinking song,,17,silim[to-be-healthy]V he₂-ŋal₂[plenty]N ki[place]N us₂[to-be-adjacent]V
+c.5.5.a,A drinking song,,18,Ninkasi[1]DN za[you-(sg.)]PD til₃[to-live]V
+c.5.5.a,A drinking song,,19,kaš[beer]N ŋeštin[grape-(wine)]N bal[to-turn-over]V
+c.5.5.a,A drinking song,,20,kurun[type-of-beer]N lal₃[syrup]N gu₃[voice]N nun[prince]N dug₄[to-say]V
+c.5.5.a,A drinking song,,21,buniŋ[type-of-container]N bur₂[type-of-grass]N kaš[beer]N ku₇-ku₇[to-be-sweet]V
+c.5.5.a,A drinking song,,22,sagi[cupbearer]N lu₂-tur[child]N lunga[brewer]N gub[to-stand]V
+c.5.5.a,A drinking song,,23,a-niŋin₂[water-reservoir]N niŋin₂[to-go-around]V
+c.5.5.a,A drinking song,,24,gur₄[to-be-thick]V gur₄[to-be-thick]V
+c.5.5.a,A drinking song,,25,kaš[beer]N naŋ[to-drink]V me[I]PD sig₁₀[to-place]V
+c.5.5.a,A drinking song,,26,kurun[type-of-beer]N naŋ[to-drink]V ul[to-swell-(with-joy)]V te[to-approach]V
+c.5.5.a,A drinking song,,27,šag₄[heart]N hul₂[to-be-happy]V ur₅[liver]N sag₉[to-be-good]V
+c.5.5.a,A drinking song,,28,šag₄[heart]N šag₄[heart]N hul₂[to-be-happy]V ŋal₂[to-be-(located)]V
+c.5.5.a,A drinking song,,29,ur₅[liver]N sag₉[to-be-good]V pala₃[type-of-garment]N mur₁₀[to-dress]V
+c.5.5.a,A drinking song,,30,šag₄[heart]N Inana[1]DN ki[place]N gi₄[to-return]V
+c.5.5.a,A drinking song,,31,šag₄[heart]N Inana[1]DN ki[place]N gi₄[to-return]V
+c.5.5.a,A drinking song,,32,Ninkasi[1]DN

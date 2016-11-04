@@ -1,16 +1,16 @@
 id_text,text_name,version,l_no,text
-c.4.08.22,A song of Inana and Dumuzid (Dumuzid-Inana V),,1,sux:in-nin[mistress]N sux:šembi₂-zid[kohl]N sux:lugal[king]N
-c.4.08.22,A song of Inana and Dumuzid (Dumuzid-Inana V),,2,sux:Inana[1]DN sux:šembi₂-zid[kohl]N sux:Dumuzid[1]DN
-c.4.08.22,A song of Inana and Dumuzid (Dumuzid-Inana V),,3,sux:ul[to-swell-(with-joy)]V sux:guru₃[to-bear]V sux:hi-li[attractiveness]N sux:šu[hand]N sux:tag[to-touch]V sux:dug₄[to-say]V
-c.4.08.22,A song of Inana and Dumuzid (Dumuzid-Inana V),,4,sux:sipad[shepherd]N sux:tur₃[animal-stall]N sux:DU[DU]V
-c.4.08.22,A song of Inana and Dumuzid (Dumuzid-Inana V),,5,sux:Dumuzid[1]DN sux:amaš[sheepfold]N sux:DU[DU]V
-c.4.08.22,A song of Inana and Dumuzid (Dumuzid-Inana V),,6,sux:sipad[shepherd]N sux:igi[eye]N sux:kaskal[(high)way]N
-c.4.08.22,A song of Inana and Dumuzid (Dumuzid-Inana V),,7,sux:ki-sikil[young-woman]N sux:Inana[1]DN sux:har-ra-an[route]N sux:gaba[chest]N sux:ri[to-direct]V
-c.4.08.22,A song of Inana and Dumuzid (Dumuzid-Inana V),,8,sux:Dumuzid[1]DN sux:ud[day(light)]N sux:e₃[to-go-out-or-in]V
-c.4.08.22,A song of Inana and Dumuzid (Dumuzid-Inana V),,9,sux:šu[hand]N sux:ri[to-direct]V
-c.4.08.22,A song of Inana and Dumuzid (Dumuzid-Inana V),,10,sux:šu[hand]N sux:ri[to-direct]V
-c.4.08.22,A song of Inana and Dumuzid (Dumuzid-Inana V),,11,sux:šu[hand]N sux:ri[to-direct]V
+c.4.08.22,A song of Inana and Dumuzid (Dumuzid-Inana V),,1,in-nin[mistress]N šembi₂-zid[kohl]N lugal[king]N
+c.4.08.22,A song of Inana and Dumuzid (Dumuzid-Inana V),,2,Inana[1]DN šembi₂-zid[kohl]N Dumuzid[1]DN
+c.4.08.22,A song of Inana and Dumuzid (Dumuzid-Inana V),,3,ul[to-swell-(with-joy)]V guru₃[to-bear]V hi-li[attractiveness]N šu[hand]N tag[to-touch]V dug₄[to-say]V
+c.4.08.22,A song of Inana and Dumuzid (Dumuzid-Inana V),,4,sipad[shepherd]N tur₃[animal-stall]N DU[DU]V
+c.4.08.22,A song of Inana and Dumuzid (Dumuzid-Inana V),,5,Dumuzid[1]DN amaš[sheepfold]N DU[DU]V
+c.4.08.22,A song of Inana and Dumuzid (Dumuzid-Inana V),,6,sipad[shepherd]N igi[eye]N kaskal[(high)way]N
+c.4.08.22,A song of Inana and Dumuzid (Dumuzid-Inana V),,7,ki-sikil[young-woman]N Inana[1]DN har-ra-an[route]N gaba[chest]N ri[to-direct]V
+c.4.08.22,A song of Inana and Dumuzid (Dumuzid-Inana V),,8,Dumuzid[1]DN ud[day(light)]N e₃[to-go-out-or-in]V
+c.4.08.22,A song of Inana and Dumuzid (Dumuzid-Inana V),,9,šu[hand]N ri[to-direct]V
+c.4.08.22,A song of Inana and Dumuzid (Dumuzid-Inana V),,10,šu[hand]N ri[to-direct]V
+c.4.08.22,A song of Inana and Dumuzid (Dumuzid-Inana V),,11,šu[hand]N ri[to-direct]V
 c.4.08.22,A song of Inana and Dumuzid (Dumuzid-Inana V),,12,
-c.4.08.22,A song of Inana and Dumuzid (Dumuzid-Inana V),,13,sux:ul[bud]N sux:šar₂[to-be-numerous]V sux:gu₂[neck]N sux:e₃[to-go-out-or-in]V
-c.4.08.22,A song of Inana and Dumuzid (Dumuzid-Inana V),,14,sux:pa-pa-al[shoot]N sux:la₂[to-hang]V
-c.4.08.22,A song of Inana and Dumuzid (Dumuzid-Inana V),,15,sux:ak[to-do]V sux:šag₄[heart]N sux:X[X]V
+c.4.08.22,A song of Inana and Dumuzid (Dumuzid-Inana V),,13,ul[bud]N šar₂[to-be-numerous]V gu₂[neck]N e₃[to-go-out-or-in]V
+c.4.08.22,A song of Inana and Dumuzid (Dumuzid-Inana V),,14,pa-pa-al[shoot]N la₂[to-hang]V
+c.4.08.22,A song of Inana and Dumuzid (Dumuzid-Inana V),,15,ak[to-do]V šag₄[heart]N X[X]V

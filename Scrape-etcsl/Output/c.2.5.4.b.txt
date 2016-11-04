@@ -1,13 +1,13 @@
 id_text,text_name,version,l_no,text
-c.2.5.4.b,A hymn to Enki for Išme-Dagan,,1,sux:ambar[marsh]N
-c.2.5.4.b,A hymn to Enki for Išme-Dagan,,2,sux:a-gar₃[meadow]N sux:gal[to-be-big]V sux:gana₂[field]N
-c.2.5.4.b,A hymn to Enki for Išme-Dagan,,3,sux:pu₂-kiri₆[orchard]N sux:kug[shining]AJ sux:il₂[to-raise]V
-c.2.5.4.b,A hymn to Enki for Išme-Dagan,,4,sux:u₂-gu₇[food]N sux:a[water]N sux:naŋ[to-drink]V sux:Anuna[1]DN
-c.2.5.4.b,A hymn to Enki for Išme-Dagan,,5,sux:a-a[father]N sux:Enlil[1]DN sux:ama[mother]N sux:gal[to-be-big]V sux:Ninlil[1]DN sux:saŋ[head]N sux:rig₇[to-bestow]V
-c.2.5.4.b,A hymn to Enki for Išme-Dagan,,6,sux:Nibru[1]SN sux:mah[to-be-majestic]V sux:en[lord]N sux:nin[lady]N sux:diŋir[deity]N sux:na-me[any]PD sux:dib[to-pass]V
-c.2.5.4.b,A hymn to Enki for Išme-Dagan,,7,sux:e-ne[he;-she]PD sux:nun[prince]N sux:er₉[to-be-mighty]V sux:diŋir[deity]N sux:pa[branch]N sux:e₃[to-go-out-or-in]V
-c.2.5.4.b,A hymn to Enki for Išme-Dagan,,8,sux:Enlil[1]DN sux:Ninlil[1]DN sux:diŋir[deity]N sux:na-me[any]PD sux:dib[to-pass]V
-c.2.5.4.b,A hymn to Enki for Išme-Dagan,,9,sux:e-ne[he;-she]PD sux:nun[prince]N sux:er₉[to-be-mighty]V sux:en[lord]N sux:nam[destiny]N sux:tar[to-cut]V
-c.2.5.4.b,A hymn to Enki for Išme-Dagan,,10,sux:šag₄[heart]N sux:lugal[king]N sux:Enki[1]DN sux:me[essence]N sux:šum₂[to-give]V
-c.2.5.4.b,A hymn to Enki for Išme-Dagan,,11,sux:Nibru[1]SN sux:šir₃[song]N sux:kug[shining]AJ sux:niŋ₂[thing]N sux:kal[to-be-rare]V sux:ar₂[praise]N sux:dib[to-pass]V
-c.2.5.4.b,A hymn to Enki for Išme-Dagan,,12,sux:Išme-Dagan[1]RN sux:du-ri₂[eternity]N sux:ka[mouth]N sux:ŋar[to-place]V
+c.2.5.4.b,A hymn to Enki for Išme-Dagan,,1,ambar[marsh]N
+c.2.5.4.b,A hymn to Enki for Išme-Dagan,,2,a-gar₃[meadow]N gal[to-be-big]V gana₂[field]N
+c.2.5.4.b,A hymn to Enki for Išme-Dagan,,3,pu₂-kiri₆[orchard]N kug[shining]AJ il₂[to-raise]V
+c.2.5.4.b,A hymn to Enki for Išme-Dagan,,4,u₂-gu₇[food]N a[water]N naŋ[to-drink]V Anuna[1]DN
+c.2.5.4.b,A hymn to Enki for Išme-Dagan,,5,a-a[father]N Enlil[1]DN ama[mother]N gal[to-be-big]V Ninlil[1]DN saŋ[head]N rig₇[to-bestow]V
+c.2.5.4.b,A hymn to Enki for Išme-Dagan,,6,Nibru[1]SN mah[to-be-majestic]V en[lord]N nin[lady]N diŋir[deity]N na-me[any]PD dib[to-pass]V
+c.2.5.4.b,A hymn to Enki for Išme-Dagan,,7,e-ne[he;-she]PD nun[prince]N er₉[to-be-mighty]V diŋir[deity]N pa[branch]N e₃[to-go-out-or-in]V
+c.2.5.4.b,A hymn to Enki for Išme-Dagan,,8,Enlil[1]DN Ninlil[1]DN diŋir[deity]N na-me[any]PD dib[to-pass]V
+c.2.5.4.b,A hymn to Enki for Išme-Dagan,,9,e-ne[he;-she]PD nun[prince]N er₉[to-be-mighty]V en[lord]N nam[destiny]N tar[to-cut]V
+c.2.5.4.b,A hymn to Enki for Išme-Dagan,,10,šag₄[heart]N lugal[king]N Enki[1]DN me[essence]N šum₂[to-give]V
+c.2.5.4.b,A hymn to Enki for Išme-Dagan,,11,Nibru[1]SN šir₃[song]N kug[shining]AJ niŋ₂[thing]N kal[to-be-rare]V ar₂[praise]N dib[to-pass]V
+c.2.5.4.b,A hymn to Enki for Išme-Dagan,,12,Išme-Dagan[1]RN du-ri₂[eternity]N ka[mouth]N ŋar[to-place]V

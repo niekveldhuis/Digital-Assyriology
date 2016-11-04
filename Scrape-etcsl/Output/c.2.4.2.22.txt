@@ -1,36 +1,36 @@
 id_text,text_name,version,l_no,text
-c.2.4.2.22,A dedication of a statue (Šulgi V),,1,sux:Enlil[1]DN sux:ud[day(light)]N sux:e₃[to-go-out-or-in]V sux:dug₄[to-say]V sux:kur₂[to-be-different]V
-c.2.4.2.22,A dedication of a statue (Šulgi V),,2,sux:uru₁₆[to-be-towering]V sux:gal[to-be-big]V sux:Anuna[1]DN
-c.2.4.2.22,A dedication of a statue (Šulgi V),,3,sux:Šulgi[1]RN sux:ušum[type-of-snake]N sux:ni₂[fear(someness)]N sux:guru₃[to-bear]V
-c.2.4.2.22,A dedication of a statue (Šulgi V),,4,sux:lugal[king]N sux:šu[hand]N sux:dug₄[to-say]V sux:bar[to-set-aside]V
-c.2.4.2.22,A dedication of a statue (Šulgi V),,5,sux:ne₃[strength]N sux:gal[to-be-big]V sux:šum₂[to-give]V
-c.2.4.2.22,A dedication of a statue (Šulgi V),,6,sux:za-pa-aŋ₂[noise]N sux:an[heaven]N sux:ki[place]N sux:ŋar[to-place]V
-c.2.4.2.22,A dedication of a statue (Šulgi V),,7,sux:E-kur[1]TN sux:muš-gal[type-of-serpent]N sux:idim[underground-water]N sux:me[essence]N
-c.2.4.2.22,A dedication of a statue (Šulgi V),,8,sux:Dur-an-ki[1]TN sux:giri₁₇-zal[joy]N sux:me[essence]N sux:ul[distant-time]N sux:bad[to-open]V sux:nam-he₂-ŋal₂[abundance]N
-c.2.4.2.22,A dedication of a statue (Šulgi V),,9,sux:šeg₁₂[brick(work)]N sux:nun[prince]N sux:ki[place]N sux:ŋar[to-place]V sux:isimu₂[(off)shoot]N sux:ud[day(light)]N sux:sud[to-be-distant]V
-c.2.4.2.22,A dedication of a statue (Šulgi V),,10,sux:Šulgi[1]RN sux:bal[term-(in-office)]N sux:nam-he₂[abundance]N sux:tud[to-give-birth]V sux:šag₄[heart]N sux:gal[to-be-big]V sux:tar[to-cut]V
-c.2.4.2.22,A dedication of a statue (Šulgi V),,11,sux:uŋ₃[people]N sux:gu₃[voice]N sux:teš₂[unity]N sux:sig₁₀[to-place]V
-c.2.4.2.22,A dedication of a statue (Šulgi V),,12,sux:sud[to-be-distant]V sux:lugal[king]N sux:šar₂[to-be-numerous]V
-c.2.4.2.22,A dedication of a statue (Šulgi V),,13,sux:dub₃-tuku[runner]N sux:ud[storm]N sux:mar-uru₅[tempest]N sux:zag-še[shoulder]N sux:til[to-complete]V
-c.2.4.2.22,A dedication of a statue (Šulgi V),,14,sux:kaš₄[to-run]V sux:a₂-dam[habitation]N sux:e₃[to-go-out-or-in]V
-c.2.4.2.22,A dedication of a statue (Šulgi V),,15,sux:huluh[to-be-frightened]V sux:kaš₄[to-run]V sux:huš[to-be-reddish]V
-c.2.4.2.22,A dedication of a statue (Šulgi V),,16,sux:uŋ₃[people]N sux:igi[eye]N sux:saŋ₅[to-choose]V sux:usu[strength]N sux:saŋ[head]N
-c.2.4.2.22,A dedication of a statue (Šulgi V),,17,sux:a₂[arm]N sux:bad[to-open]V sux:bar[outside]N
-c.2.4.2.22,A dedication of a statue (Šulgi V),,18,sux:Šulgi[1]RN sux:niŋ₂[thing]N sux:kaš₄[to-run]V sux:an-ur₂[horizon]N sux:ŋar[to-place]V
-c.2.4.2.22,A dedication of a statue (Šulgi V),,19,sux:nam[destiny]N sux:a₂-nun-ŋal₂[strong]AJ sux:a₂[arm]N sux:ŠU.KAD₄-ŠU.KAD₄[meaning-unknown]V
-c.2.4.2.22,A dedication of a statue (Šulgi V),,20,sux:kuš₂[to-be-tired]V sux:kaskal[(high)way]N
-c.2.4.2.22,A dedication of a statue (Šulgi V),,21,sux:saŋ[head]N sux:gig₂[to-be-black]V sux:lugal[king]N sux:na-me[any]PD sux:saŋ[head]N sux:sig₁₀[to-place]V sux:di[(law)suit]N sux:gal[to-be-big]V sux:ŋar[to-place]V
-c.2.4.2.22,A dedication of a statue (Šulgi V),,22,sux:ud[day(light)]N sux:giri₁₇-zal[joy]N sux:e₃[to-go-out-or-in]V sux:dungu[cloud]N sux:šeŋ₃[rain]N sux:ŋar[to-place]V
-c.2.4.2.22,A dedication of a statue (Šulgi V),,23,sux:Nibru[1]SN sux:Ki-ur[1]TN sux:kaš₄[to-run]V
-c.2.4.2.22,A dedication of a statue (Šulgi V),,24,sux:eš₃[shrine]N sux:Urim[1]SN sux:E-temen-ni-guru[1]TN
-c.2.4.2.22,A dedication of a statue (Šulgi V),,25,sux:Nanna[1]DN sux:unu₂[(dining)-hall]N sux:kiŋ₂-nim[morning-meal]N sux:bur[type-of-bowl]N sux:nun[prince]N sux:gub[to-stand]V sux:sa₂[to-equal]V sux:dug₄[to-say]V
-c.2.4.2.22,A dedication of a statue (Šulgi V),,26,sux:ud[day(light)]N sux:ne-en[this]PD sux:nam-he₂[abundance]N sux:nam[destiny]N sux:tar[to-cut]V
-c.2.4.2.22,A dedication of a statue (Šulgi V),,27,sux:GAN₂.AH.ME.U[violent-south-wind]N sux:dal-ha-mun[dust-storm]N sux:šu[hand]N sux:bar[to-set-aside]V
-c.2.4.2.22,A dedication of a statue (Šulgi V),,28,sux:Utu[1]DN sux:sig[to-be-low]V
-c.2.4.2.22,A dedication of a statue (Šulgi V),,29,sux:e-ne[he;-she]PD sux:E-kur[1]TN sux:za-gin₃[lapis-lazuli]N sux:gur[to-turn]V
-c.2.4.2.22,A dedication of a statue (Šulgi V),,30,sux:ud[day(light)]N sux:til₃[to-live]V sux:ur-saŋ[hero]N
-c.2.4.2.22,A dedication of a statue (Šulgi V),,31,sux:Šulgi[1]RN sux:nam-mah[majesty]N sux:gal[to-be-big]V sux:ar₂[praise]N sux:pad₃[to-find]V
-c.2.4.2.22,A dedication of a statue (Šulgi V),,32,sux:alan[statue]N sux:ud[day(light)]N sux:sud[to-be-distant]V sux:mu[name]N sux:da-ri₂[eternal]AJ
-c.2.4.2.22,A dedication of a statue (Šulgi V),,33,sux:mul-an[heavenly-star]N sux:gun₃[to-be-multicoloured]V
-c.2.4.2.22,A dedication of a statue (Šulgi V),,34,sux:a-a[father]N sux:Enlil[1]DN sux:mah-di[illustrious]AJ sux:kur₂[to-be-different]V
-c.2.4.2.22,A dedication of a statue (Šulgi V),,35,sux:igi[eye]N sux:dug₃[to-be-good]V sux:niŋ₂[thing]N sux:giri₁₇-zal[joy]N sux:si[to-fill]V sux:nam-nun[princeliness]N sux:gub[to-stand]V
+c.2.4.2.22,A dedication of a statue (Šulgi V),,1,Enlil[1]DN ud[day(light)]N e₃[to-go-out-or-in]V dug₄[to-say]V kur₂[to-be-different]V
+c.2.4.2.22,A dedication of a statue (Šulgi V),,2,uru₁₆[to-be-towering]V gal[to-be-big]V Anuna[1]DN
+c.2.4.2.22,A dedication of a statue (Šulgi V),,3,Šulgi[1]RN ušum[type-of-snake]N ni₂[fear(someness)]N guru₃[to-bear]V
+c.2.4.2.22,A dedication of a statue (Šulgi V),,4,lugal[king]N šu[hand]N dug₄[to-say]V bar[to-set-aside]V
+c.2.4.2.22,A dedication of a statue (Šulgi V),,5,ne₃[strength]N gal[to-be-big]V šum₂[to-give]V
+c.2.4.2.22,A dedication of a statue (Šulgi V),,6,za-pa-aŋ₂[noise]N an[heaven]N ki[place]N ŋar[to-place]V
+c.2.4.2.22,A dedication of a statue (Šulgi V),,7,E-kur[1]TN muš-gal[type-of-serpent]N idim[underground-water]N me[essence]N
+c.2.4.2.22,A dedication of a statue (Šulgi V),,8,Dur-an-ki[1]TN giri₁₇-zal[joy]N me[essence]N ul[distant-time]N bad[to-open]V nam-he₂-ŋal₂[abundance]N
+c.2.4.2.22,A dedication of a statue (Šulgi V),,9,šeg₁₂[brick(work)]N nun[prince]N ki[place]N ŋar[to-place]V isimu₂[(off)shoot]N ud[day(light)]N sud[to-be-distant]V
+c.2.4.2.22,A dedication of a statue (Šulgi V),,10,Šulgi[1]RN bal[term-(in-office)]N nam-he₂[abundance]N tud[to-give-birth]V šag₄[heart]N gal[to-be-big]V tar[to-cut]V
+c.2.4.2.22,A dedication of a statue (Šulgi V),,11,uŋ₃[people]N gu₃[voice]N teš₂[unity]N sig₁₀[to-place]V
+c.2.4.2.22,A dedication of a statue (Šulgi V),,12,sud[to-be-distant]V lugal[king]N šar₂[to-be-numerous]V
+c.2.4.2.22,A dedication of a statue (Šulgi V),,13,dub₃-tuku[runner]N ud[storm]N mar-uru₅[tempest]N zag-še[shoulder]N til[to-complete]V
+c.2.4.2.22,A dedication of a statue (Šulgi V),,14,kaš₄[to-run]V a₂-dam[habitation]N e₃[to-go-out-or-in]V
+c.2.4.2.22,A dedication of a statue (Šulgi V),,15,huluh[to-be-frightened]V kaš₄[to-run]V huš[to-be-reddish]V
+c.2.4.2.22,A dedication of a statue (Šulgi V),,16,uŋ₃[people]N igi[eye]N saŋ₅[to-choose]V usu[strength]N saŋ[head]N
+c.2.4.2.22,A dedication of a statue (Šulgi V),,17,a₂[arm]N bad[to-open]V bar[outside]N
+c.2.4.2.22,A dedication of a statue (Šulgi V),,18,Šulgi[1]RN niŋ₂[thing]N kaš₄[to-run]V an-ur₂[horizon]N ŋar[to-place]V
+c.2.4.2.22,A dedication of a statue (Šulgi V),,19,nam[destiny]N a₂-nun-ŋal₂[strong]AJ a₂[arm]N ŠU.KAD₄-ŠU.KAD₄[meaning-unknown]V
+c.2.4.2.22,A dedication of a statue (Šulgi V),,20,kuš₂[to-be-tired]V kaskal[(high)way]N
+c.2.4.2.22,A dedication of a statue (Šulgi V),,21,saŋ[head]N gig₂[to-be-black]V lugal[king]N na-me[any]PD saŋ[head]N sig₁₀[to-place]V di[(law)suit]N gal[to-be-big]V ŋar[to-place]V
+c.2.4.2.22,A dedication of a statue (Šulgi V),,22,ud[day(light)]N giri₁₇-zal[joy]N e₃[to-go-out-or-in]V dungu[cloud]N šeŋ₃[rain]N ŋar[to-place]V
+c.2.4.2.22,A dedication of a statue (Šulgi V),,23,Nibru[1]SN Ki-ur[1]TN kaš₄[to-run]V
+c.2.4.2.22,A dedication of a statue (Šulgi V),,24,eš₃[shrine]N Urim[1]SN E-temen-ni-guru[1]TN
+c.2.4.2.22,A dedication of a statue (Šulgi V),,25,Nanna[1]DN unu₂[(dining)-hall]N kiŋ₂-nim[morning-meal]N bur[type-of-bowl]N nun[prince]N gub[to-stand]V sa₂[to-equal]V dug₄[to-say]V
+c.2.4.2.22,A dedication of a statue (Šulgi V),,26,ud[day(light)]N ne-en[this]PD nam-he₂[abundance]N nam[destiny]N tar[to-cut]V
+c.2.4.2.22,A dedication of a statue (Šulgi V),,27,GAN₂.AH.ME.U[violent-south-wind]N dal-ha-mun[dust-storm]N šu[hand]N bar[to-set-aside]V
+c.2.4.2.22,A dedication of a statue (Šulgi V),,28,Utu[1]DN sig[to-be-low]V
+c.2.4.2.22,A dedication of a statue (Šulgi V),,29,e-ne[he;-she]PD E-kur[1]TN za-gin₃[lapis-lazuli]N gur[to-turn]V
+c.2.4.2.22,A dedication of a statue (Šulgi V),,30,ud[day(light)]N til₃[to-live]V ur-saŋ[hero]N
+c.2.4.2.22,A dedication of a statue (Šulgi V),,31,Šulgi[1]RN nam-mah[majesty]N gal[to-be-big]V ar₂[praise]N pad₃[to-find]V
+c.2.4.2.22,A dedication of a statue (Šulgi V),,32,alan[statue]N ud[day(light)]N sud[to-be-distant]V mu[name]N da-ri₂[eternal]AJ
+c.2.4.2.22,A dedication of a statue (Šulgi V),,33,mul-an[heavenly-star]N gun₃[to-be-multicoloured]V
+c.2.4.2.22,A dedication of a statue (Šulgi V),,34,a-a[father]N Enlil[1]DN mah-di[illustrious]AJ kur₂[to-be-different]V
+c.2.4.2.22,A dedication of a statue (Šulgi V),,35,igi[eye]N dug₃[to-be-good]V niŋ₂[thing]N giri₁₇-zal[joy]N si[to-fill]V nam-nun[princeliness]N gub[to-stand]V

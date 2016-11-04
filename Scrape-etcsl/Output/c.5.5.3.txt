@@ -1,67 +1,67 @@
 id_text,text_name,version,l_no,text
-c.5.5.3,An elegy on the death of Nawirtum,,1,sux:ud[day(light)]N sux:hul[to-be-bad]V sux:dab₅[to-seize]V sux:ki-sikil[young-woman]N
-c.5.5.3,An elegy on the death of Nawirtum,,2,sux:munus[woman]N sux:sag₉[to-be-good]V sux:ki-sikil[young-woman]N sux:he₂-du₇[(fitting)-ornament]N sux:igi[eye]N sux:hul[to-be-bad]V
-c.5.5.3,An elegy on the death of Nawirtum,,3,sux:mušen[bird]N sux:amar[calf]N sux:gud₃[nest]N sux:dirig[to-be-superior]V sux:sa[net]N
-c.5.5.3,An elegy on the death of Nawirtum,,4,sux:ama[mother]N sux:gan[(child)bearing]AJ sux:ama[mother]N sux:dumu[child]N sux:tur[to-be-small]V sux:ŋiš-bur₂[snare]N
-c.5.5.3,An elegy on the death of Nawirtum,,5,sux:ab₂[cow]N sux:sig₇[to-be-green]V sux:šilam[cow]N sux:bar-šu-ŋal₂[loud-voiced?]AJ sux:gakkul[fermenting-vat]N
-c.5.5.3,An elegy on the death of Nawirtum,,6,sux:Nawirtum[1]PN sux:šilam[cow]N sux:bar-šu-ŋal₂[loud-voiced?]AJ sux:gakkul[fermenting-vat]N
-c.5.5.3,An elegy on the death of Nawirtum,,7,sux:gig[to-be-ill]V sux:dug₄[to-say]V sux:en₃[noun-part-of-multiword-verb]N sux:tar[to-cut]V
-c.5.5.3,An elegy on the death of Nawirtum,,8,sux:me[to-be]V sux:ki[place]N sux:diŋir[deity]N
-c.5.5.3,An elegy on the death of Nawirtum,,9,sux:ki-nu₂[sleeping-quarter]N sux:gurud[to-throw-down]V
-c.5.5.3,An elegy on the death of Nawirtum,,10,sux:Nibru[1]SN sux:muru₉[cloud]N sux:ŋar[to-place]V sux:iri[town]N
-c.5.5.3,An elegy on the death of Nawirtum,,11,sux:uŋ₃[people]N sux:daŋal[to-be-wide]V sux:u₅-a[soothing-expression]I sux:šub[to-fall]V sux:nam[destiny]N
-c.5.5.3,An elegy on the death of Nawirtum,,12,sux:akkil[cry]N sux:gu₃-kiri₆[war-cry]N sux:šen[combat]N sux:KU[KU]V
-c.5.5.3,An elegy on the death of Nawirtum,,13,sux:tuku[to-have]V sux:lum[to-thrive]V sux:ugu[skull]N sux:dab₅[to-seize]V sux:šu[hand]N sux:du₇[to-be-perfect]V
-c.5.5.3,An elegy on the death of Nawirtum,,14,sux:arhuš[compassion]N sux:zi[life-(breath)]N sux:til[to-complete]V sux:zag[side]N sux:šub[to-fall]V
-c.5.5.3,An elegy on the death of Nawirtum,,15,sux:alan[statue]N sux:kug-sig₁₇[gold]N sux:niŋ₂[thing]N sux:ŋar[to-place]V sux:lipiš[inner-body]N sux:zig₃[to-rise]V
-c.5.5.3,An elegy on the death of Nawirtum,,16,sux:lu₂[person]N sux:igi[eye]N sux:bar[to-set-aside]V sux:šeₓ[weeping]N sux:ŋar[to-place]V
-c.5.5.3,An elegy on the death of Nawirtum,,17,sux:ama[mother]N sux:er₂[tear]N sux:sag₃[to-beat]V sux:sig₇[to-be-green]V sux:šu[hand]N
-c.5.5.3,An elegy on the death of Nawirtum,,18,sux:šir₃[song]N sux:saŋ[head]N sux:inim[word]N sux:dug₃[to-be-good]V
-c.5.5.3,An elegy on the death of Nawirtum,,19,sux:i-lu[(sad)-song]N sux:šag₄-ne-ša₄[intercession]N sux:ki-šar₂[totality]N sux:kur₂[to-be-different]V
-c.5.5.3,An elegy on the death of Nawirtum,,20,sux:sag₉[to-be-good]V sux:gi₄[to-return]V sux:re[that]PD sux:šir₃[song]N sux:dug₄[to-say]V
-c.5.5.3,An elegy on the death of Nawirtum,,21,sux:ban₃-da[junior]AJ sux:saŋ[head]N sux:šu[hand]N sux:ak[to-do]V sux:re[that]PD
-c.5.5.3,An elegy on the death of Nawirtum,,22,sux:na₄[stone]N sux:gu₂[neck]N sux:kud[to-cut]V sux:sa₂[advice]N sux:pad₃[to-find]V sux:u₂-gu[noun-part-of-multiword-verb]N sux:de₂[to-pour]V
-c.5.5.3,An elegy on the death of Nawirtum,,23,sux:ur₂[root]N sux:dam[spouse]N sux:ud[day(light)]N sux:sud[to-be-distant]V sux:i-si-iš[tears-(of-joy)]N sux:til[to-complete]V sux:re[that]PD
-c.5.5.3,An elegy on the death of Nawirtum,,24,sux-x-emesal:aŋ₂[thing]N sux:Ninurta[1]DN sux:a-la[exuberance]N sux:gi₄[to-return]V sux:re[that]PD
-c.5.5.3,An elegy on the death of Nawirtum,,25,sux:nin-diŋir[type-of-priestess]N sux:ki[place]N sux:aŋ₂[to-measure]V sux:ŋi₆-par₄[cloister]N sux:kur₉[to-enter]V sux:re[that]PD
-c.5.5.3,An elegy on the death of Nawirtum,,26,sux:eme₃[female-donkey]N sux:dam[spouse]N sux:pad₃[to-find]V sux:niŋ₂-de₂-a[marriage-gift]N sux:šu[hand]N sux:gid₂[to-be-long]V
-c.5.5.3,An elegy on the death of Nawirtum,,27,sux:buru₁₄[harvest-(time)]N sux:la₂[to-hang]V sux:zag[side]N sux:til[to-complete]V sux:re[that]PD
-c.5.5.3,An elegy on the death of Nawirtum,,28,sux:nam-gu-la[greatness]N sux:sag₉[to-be-good]V sux:ed₃[to-go-down-or-up]V sux:i-lu[(sad)-song]N sux:dug₄[to-say]V sux:e-ne[he;-she]PD
-c.5.5.3,An elegy on the death of Nawirtum,,29,sux:ama[mother]N sux:ugu[to-give-birth]V sux:ud[day(light)]N sux:zalag[to-be-shining]V sux:he₂-ši[to-become-dark]V sux:a₂-kar₂[implement]N sux:si[to-fill]V
-c.5.5.3,An elegy on the death of Nawirtum,,30,sux:ha-la[share]N sux:si[horn]N sux:pad[to-break-(into-bits)]V sux:ak[to-do]V sux:zag-la[meaning-unknown]N sux:ak[to-do]V
-c.5.5.3,An elegy on the death of Nawirtum,,31,sux:zi[life-(breath)]N sux:igi[eye]N sux:e₃[to-go-out-or-in]V sux:su[flesh]N sux:hul[to-be-bad]V sux:zil[to-strip]V
-c.5.5.3,An elegy on the death of Nawirtum,,32,sux:erin₂[group-of-people]N sux:im-ri-a[clan]N
-c.5.5.3,An elegy on the death of Nawirtum,,33,sux:dug₃[to-be-good]V sux:ŋal₂[to-be-(located)]V sux:re[that]PD
-c.5.5.3,An elegy on the death of Nawirtum,,34,sux:gub[to-stand]V
-c.5.5.3,An elegy on the death of Nawirtum,,35,sux:emeda[nursemaid]N sux:zag[side]N
-c.5.5.3,An elegy on the death of Nawirtum,,36,sux:kar[to-flee]V
-c.5.5.3,An elegy on the death of Nawirtum,,37,sux:lu₂[person]N sux:šag₄[heart]N sux:dab₅[to-seize]V sux:na₄[stone]N sux:gig[to-be-ill]V
-c.5.5.3,An elegy on the death of Nawirtum,,38,sux:iri[town]N sux:ud[day(light)]N sux:an[heaven]N sux:dirig[to-be-superior]V
-c.5.5.3,An elegy on the death of Nawirtum,,39,sux:ud[day(light)]N sux:nitalam[spouse]N sux:ki[place]N sux:aŋ₂[to-measure]V sux:dili[single]AJ
-c.5.5.3,An elegy on the death of Nawirtum,,40,sux:iri[town]N sux:Nibru[1]SN sux:iri[town]N
-c.5.5.3,An elegy on the death of Nawirtum,,41,sux:Lu-diŋira[1]PN sux:nitalam[spouse]N sux:ki[place]N sux:aŋ₂[to-measure]V sux:dili[single]AJ
-c.5.5.3,An elegy on the death of Nawirtum,,42,sux:iri[town]N sux:Nibru[1]SN sux:iri[town]N
-c.5.5.3,An elegy on the death of Nawirtum,,43,sux:ki-tuš[dwelling-place]N sux:gal[to-be-big]V sux:šag₄[heart]N sux:hul[to-be-bad]V sux:te[to-approach]V
-c.5.5.3,An elegy on the death of Nawirtum,,44,sux:šu[hand]N sux:dab₅[to-seize]V sux:šag₄[heart]N sux:ra[to-beat]V
-c.5.5.3,An elegy on the death of Nawirtum,,45,sux:u₂[plant]N sux:kud[to-cut]V sux:zi[life-(breath)]N sux:ra[to-beat]V
-c.5.5.3,An elegy on the death of Nawirtum,,46,sux:ab₂[cow]N sux:e₃[to-go-out-or-in]V sux:lu₂[person]N sux:dam[spouse]N sux:tuku[to-have]V
-c.5.5.3,An elegy on the death of Nawirtum,,47,sux:mur₁₀[to-dress]V sux:er₂[tear]N sux:šeš₂[to-weep]V
-c.5.5.3,An elegy on the death of Nawirtum,,48,sux:me-a[where]AV sux:pad₃[to-find]V
-c.5.5.3,An elegy on the death of Nawirtum,,49,sux:Meme[1]DN sux:lamma[guardian-deity]N sux:hi-li[attractiveness]N sux:me-a[where]AV sux:pad₃[to-find]V
-c.5.5.3,An elegy on the death of Nawirtum,,50,sux:inim[word]N sux:sag₉[to-be-good]V sux:me-a[where]AV sux:pad₃[to-find]V
-c.5.5.3,An elegy on the death of Nawirtum,,51,sux:ŋiš-dim₃[type-of-weapon]N sux:mar-uru₅[quiver]N sux:ar₂[praise]N sux:dim₂[to-create]V sux:me-a[where]AV sux:pad₃[to-find]V
-c.5.5.3,An elegy on the death of Nawirtum,,52,sux:igi[eye]N sux:zalag[to-be-shining]V sux:sa₂-ŋar[counsellor]N sux:nun[prince]N sux:me-a[where]AV sux:pad₃[to-find]V
-c.5.5.3,An elegy on the death of Nawirtum,,53,sux:sud[to-be-distant]V sux:kal[to-be-rare]V sux:me-a[where]AV sux:pad₃[to-find]V
-c.5.5.3,An elegy on the death of Nawirtum,,54,sux:šir₃[song]N sux:dug₃[to-be-good]V sux:niŋ₂[thing]N sux:šag₄[heart]N sux:hul₂[to-be-happy]V sux:me-a[where]AV sux:pad₃[to-find]V
-c.5.5.3,An elegy on the death of Nawirtum,,55,sux:ŋiš-dim₃[type-of-weapon]N sux:mar-uru₅[quiver]N sux:kug-sig₁₇[gold]N sux:ur₅[liver]N sux:zalag[to-be-shining]V sux:me-a[where]AV sux:pad₃[to-find]V
-c.5.5.3,An elegy on the death of Nawirtum,,56,sux:gu₄-ud[to-jump-on]V sux:šu[hand]N sux:il₂[to-raise]V sux:ma-li-li-bi[frolicking?]N sux:me-a[where]AV sux:pad₃[to-find]V
-c.5.5.3,An elegy on the death of Nawirtum,,57,sux:a-ra₂[way]N sux:ha-lam[to-be-lost]V sux:mu[name]N sux:pad₃[to-find]V
-c.5.5.3,An elegy on the death of Nawirtum,,58,sux:nam-tag[sin]N sux:e₂[house(hold)]N sux:ze₂-er[to-tear-out]V sux:šul-a-lum[punishment]N sux:du₈[to-spread]V
-c.5.5.3,An elegy on the death of Nawirtum,,59,sux:dam[spouse]N sux:til₃[to-live]V sux:nam-šul[manliness]N sux:nam-ab-ba[old-age]N sux:ak[to-do]V
-c.5.5.3,An elegy on the death of Nawirtum,,60,sux:nam-tar[destiny]N sux:dumu[child]N sux:zil₂[to-be-pleasing]V sux:silim[to-be-healthy]V sux:ŋar[to-place]V
-c.5.5.3,An elegy on the death of Nawirtum,,61,sux:e₂[house(hold)]N sux:igi[eye]N sux:ŋen[to-go]V sux:a-ga[rear-(chamber)]N sux:daŋal[to-be-wide]V
-c.5.5.3,An elegy on the death of Nawirtum,,62,sux:Utu[1]DN sux:kur[(mountain)-land]N sux:ud[day(light)]N sux:zalag[to-be-shining]V sux:e₃[to-go-out-or-in]V sux:a[water]N sux:si-ig[to-be-clear]V
-c.5.5.3,An elegy on the death of Nawirtum,,63,sux:Ninkura[1]DN sux:DU[DU]V sux:gu₂[neck]N sux:il₂[to-raise]V
-c.5.5.3,An elegy on the death of Nawirtum,,64,sux:ud[storm]N sux:gig[to-be-ill]V sux:za[you-(sg.)]PD sux:gi₄[to-return]V sux:re[that]PD sux:an-ur₂[horizon]N sux:gi₄[to-return]V
-c.5.5.3,An elegy on the death of Nawirtum,,65,sux:gal₅-la₂[type-of-demon]N sux:šu[hand]N sux:de₆[to-carry]V sux:aš₂[curse]N sux:hul[to-be-bad]V sux:dug₄[to-say]V
-c.5.5.3,An elegy on the death of Nawirtum,,66,sux:ki-sikil[young-woman]N sux:dug₃[to-be-good]V sux:la[plenty]N sux:gud[bull]N sux:nu₂[to-lie-down]V sux:re[that]PD sux:i-lu[(sad)-song]N sux:gig[to-be-ill]V
+c.5.5.3,An elegy on the death of Nawirtum,,1,ud[day(light)]N hul[to-be-bad]V dab₅[to-seize]V ki-sikil[young-woman]N
+c.5.5.3,An elegy on the death of Nawirtum,,2,munus[woman]N sag₉[to-be-good]V ki-sikil[young-woman]N he₂-du₇[(fitting)-ornament]N igi[eye]N hul[to-be-bad]V
+c.5.5.3,An elegy on the death of Nawirtum,,3,mušen[bird]N amar[calf]N gud₃[nest]N dirig[to-be-superior]V sa[net]N
+c.5.5.3,An elegy on the death of Nawirtum,,4,ama[mother]N gan[(child)bearing]AJ ama[mother]N dumu[child]N tur[to-be-small]V ŋiš-bur₂[snare]N
+c.5.5.3,An elegy on the death of Nawirtum,,5,ab₂[cow]N sig₇[to-be-green]V šilam[cow]N bar-šu-ŋal₂[loud-voiced?]AJ gakkul[fermenting-vat]N
+c.5.5.3,An elegy on the death of Nawirtum,,6,Nawirtum[1]PN šilam[cow]N bar-šu-ŋal₂[loud-voiced?]AJ gakkul[fermenting-vat]N
+c.5.5.3,An elegy on the death of Nawirtum,,7,gig[to-be-ill]V dug₄[to-say]V en₃[noun-part-of-multiword-verb]N tar[to-cut]V
+c.5.5.3,An elegy on the death of Nawirtum,,8,me[to-be]V ki[place]N diŋir[deity]N
+c.5.5.3,An elegy on the death of Nawirtum,,9,ki-nu₂[sleeping-quarter]N gurud[to-throw-down]V
+c.5.5.3,An elegy on the death of Nawirtum,,10,Nibru[1]SN muru₉[cloud]N ŋar[to-place]V iri[town]N
+c.5.5.3,An elegy on the death of Nawirtum,,11,uŋ₃[people]N daŋal[to-be-wide]V u₅-a[soothing-expression]I šub[to-fall]V nam[destiny]N
+c.5.5.3,An elegy on the death of Nawirtum,,12,akkil[cry]N gu₃-kiri₆[war-cry]N šen[combat]N KU[KU]V
+c.5.5.3,An elegy on the death of Nawirtum,,13,tuku[to-have]V lum[to-thrive]V ugu[skull]N dab₅[to-seize]V šu[hand]N du₇[to-be-perfect]V
+c.5.5.3,An elegy on the death of Nawirtum,,14,arhuš[compassion]N zi[life-(breath)]N til[to-complete]V zag[side]N šub[to-fall]V
+c.5.5.3,An elegy on the death of Nawirtum,,15,alan[statue]N kug-sig₁₇[gold]N niŋ₂[thing]N ŋar[to-place]V lipiš[inner-body]N zig₃[to-rise]V
+c.5.5.3,An elegy on the death of Nawirtum,,16,lu₂[person]N igi[eye]N bar[to-set-aside]V šeₓ[weeping]N ŋar[to-place]V
+c.5.5.3,An elegy on the death of Nawirtum,,17,ama[mother]N er₂[tear]N sag₃[to-beat]V sig₇[to-be-green]V šu[hand]N
+c.5.5.3,An elegy on the death of Nawirtum,,18,šir₃[song]N saŋ[head]N inim[word]N dug₃[to-be-good]V
+c.5.5.3,An elegy on the death of Nawirtum,,19,i-lu[(sad)-song]N šag₄-ne-ša₄[intercession]N ki-šar₂[totality]N kur₂[to-be-different]V
+c.5.5.3,An elegy on the death of Nawirtum,,20,sag₉[to-be-good]V gi₄[to-return]V re[that]PD šir₃[song]N dug₄[to-say]V
+c.5.5.3,An elegy on the death of Nawirtum,,21,ban₃-da[junior]AJ saŋ[head]N šu[hand]N ak[to-do]V re[that]PD
+c.5.5.3,An elegy on the death of Nawirtum,,22,na₄[stone]N gu₂[neck]N kud[to-cut]V sa₂[advice]N pad₃[to-find]V u₂-gu[noun-part-of-multiword-verb]N de₂[to-pour]V
+c.5.5.3,An elegy on the death of Nawirtum,,23,ur₂[root]N dam[spouse]N ud[day(light)]N sud[to-be-distant]V i-si-iš[tears-(of-joy)]N til[to-complete]V re[that]PD
+c.5.5.3,An elegy on the death of Nawirtum,,24,aŋ₂[thing]N Ninurta[1]DN a-la[exuberance]N gi₄[to-return]V re[that]PD
+c.5.5.3,An elegy on the death of Nawirtum,,25,nin-diŋir[type-of-priestess]N ki[place]N aŋ₂[to-measure]V ŋi₆-par₄[cloister]N kur₉[to-enter]V re[that]PD
+c.5.5.3,An elegy on the death of Nawirtum,,26,eme₃[female-donkey]N dam[spouse]N pad₃[to-find]V niŋ₂-de₂-a[marriage-gift]N šu[hand]N gid₂[to-be-long]V
+c.5.5.3,An elegy on the death of Nawirtum,,27,buru₁₄[harvest-(time)]N la₂[to-hang]V zag[side]N til[to-complete]V re[that]PD
+c.5.5.3,An elegy on the death of Nawirtum,,28,nam-gu-la[greatness]N sag₉[to-be-good]V ed₃[to-go-down-or-up]V i-lu[(sad)-song]N dug₄[to-say]V e-ne[he;-she]PD
+c.5.5.3,An elegy on the death of Nawirtum,,29,ama[mother]N ugu[to-give-birth]V ud[day(light)]N zalag[to-be-shining]V he₂-ši[to-become-dark]V a₂-kar₂[implement]N si[to-fill]V
+c.5.5.3,An elegy on the death of Nawirtum,,30,ha-la[share]N si[horn]N pad[to-break-(into-bits)]V ak[to-do]V zag-la[meaning-unknown]N ak[to-do]V
+c.5.5.3,An elegy on the death of Nawirtum,,31,zi[life-(breath)]N igi[eye]N e₃[to-go-out-or-in]V su[flesh]N hul[to-be-bad]V zil[to-strip]V
+c.5.5.3,An elegy on the death of Nawirtum,,32,erin₂[group-of-people]N im-ri-a[clan]N
+c.5.5.3,An elegy on the death of Nawirtum,,33,dug₃[to-be-good]V ŋal₂[to-be-(located)]V re[that]PD
+c.5.5.3,An elegy on the death of Nawirtum,,34,gub[to-stand]V
+c.5.5.3,An elegy on the death of Nawirtum,,35,emeda[nursemaid]N zag[side]N
+c.5.5.3,An elegy on the death of Nawirtum,,36,kar[to-flee]V
+c.5.5.3,An elegy on the death of Nawirtum,,37,lu₂[person]N šag₄[heart]N dab₅[to-seize]V na₄[stone]N gig[to-be-ill]V
+c.5.5.3,An elegy on the death of Nawirtum,,38,iri[town]N ud[day(light)]N an[heaven]N dirig[to-be-superior]V
+c.5.5.3,An elegy on the death of Nawirtum,,39,ud[day(light)]N nitalam[spouse]N ki[place]N aŋ₂[to-measure]V dili[single]AJ
+c.5.5.3,An elegy on the death of Nawirtum,,40,iri[town]N Nibru[1]SN iri[town]N
+c.5.5.3,An elegy on the death of Nawirtum,,41,Lu-diŋira[1]PN nitalam[spouse]N ki[place]N aŋ₂[to-measure]V dili[single]AJ
+c.5.5.3,An elegy on the death of Nawirtum,,42,iri[town]N Nibru[1]SN iri[town]N
+c.5.5.3,An elegy on the death of Nawirtum,,43,ki-tuš[dwelling-place]N gal[to-be-big]V šag₄[heart]N hul[to-be-bad]V te[to-approach]V
+c.5.5.3,An elegy on the death of Nawirtum,,44,šu[hand]N dab₅[to-seize]V šag₄[heart]N ra[to-beat]V
+c.5.5.3,An elegy on the death of Nawirtum,,45,u₂[plant]N kud[to-cut]V zi[life-(breath)]N ra[to-beat]V
+c.5.5.3,An elegy on the death of Nawirtum,,46,ab₂[cow]N e₃[to-go-out-or-in]V lu₂[person]N dam[spouse]N tuku[to-have]V
+c.5.5.3,An elegy on the death of Nawirtum,,47,mur₁₀[to-dress]V er₂[tear]N šeš₂[to-weep]V
+c.5.5.3,An elegy on the death of Nawirtum,,48,me-a[where]AV pad₃[to-find]V
+c.5.5.3,An elegy on the death of Nawirtum,,49,Meme[1]DN lamma[guardian-deity]N hi-li[attractiveness]N me-a[where]AV pad₃[to-find]V
+c.5.5.3,An elegy on the death of Nawirtum,,50,inim[word]N sag₉[to-be-good]V me-a[where]AV pad₃[to-find]V
+c.5.5.3,An elegy on the death of Nawirtum,,51,ŋiš-dim₃[type-of-weapon]N mar-uru₅[quiver]N ar₂[praise]N dim₂[to-create]V me-a[where]AV pad₃[to-find]V
+c.5.5.3,An elegy on the death of Nawirtum,,52,igi[eye]N zalag[to-be-shining]V sa₂-ŋar[counsellor]N nun[prince]N me-a[where]AV pad₃[to-find]V
+c.5.5.3,An elegy on the death of Nawirtum,,53,sud[to-be-distant]V kal[to-be-rare]V me-a[where]AV pad₃[to-find]V
+c.5.5.3,An elegy on the death of Nawirtum,,54,šir₃[song]N dug₃[to-be-good]V niŋ₂[thing]N šag₄[heart]N hul₂[to-be-happy]V me-a[where]AV pad₃[to-find]V
+c.5.5.3,An elegy on the death of Nawirtum,,55,ŋiš-dim₃[type-of-weapon]N mar-uru₅[quiver]N kug-sig₁₇[gold]N ur₅[liver]N zalag[to-be-shining]V me-a[where]AV pad₃[to-find]V
+c.5.5.3,An elegy on the death of Nawirtum,,56,gu₄-ud[to-jump-on]V šu[hand]N il₂[to-raise]V ma-li-li-bi[frolicking?]N me-a[where]AV pad₃[to-find]V
+c.5.5.3,An elegy on the death of Nawirtum,,57,a-ra₂[way]N ha-lam[to-be-lost]V mu[name]N pad₃[to-find]V
+c.5.5.3,An elegy on the death of Nawirtum,,58,nam-tag[sin]N e₂[house(hold)]N ze₂-er[to-tear-out]V šul-a-lum[punishment]N du₈[to-spread]V
+c.5.5.3,An elegy on the death of Nawirtum,,59,dam[spouse]N til₃[to-live]V nam-šul[manliness]N nam-ab-ba[old-age]N ak[to-do]V
+c.5.5.3,An elegy on the death of Nawirtum,,60,nam-tar[destiny]N dumu[child]N zil₂[to-be-pleasing]V silim[to-be-healthy]V ŋar[to-place]V
+c.5.5.3,An elegy on the death of Nawirtum,,61,e₂[house(hold)]N igi[eye]N ŋen[to-go]V a-ga[rear-(chamber)]N daŋal[to-be-wide]V
+c.5.5.3,An elegy on the death of Nawirtum,,62,Utu[1]DN kur[(mountain)-land]N ud[day(light)]N zalag[to-be-shining]V e₃[to-go-out-or-in]V a[water]N si-ig[to-be-clear]V
+c.5.5.3,An elegy on the death of Nawirtum,,63,Ninkura[1]DN DU[DU]V gu₂[neck]N il₂[to-raise]V
+c.5.5.3,An elegy on the death of Nawirtum,,64,ud[storm]N gig[to-be-ill]V za[you-(sg.)]PD gi₄[to-return]V re[that]PD an-ur₂[horizon]N gi₄[to-return]V
+c.5.5.3,An elegy on the death of Nawirtum,,65,gal₅-la₂[type-of-demon]N šu[hand]N de₆[to-carry]V aš₂[curse]N hul[to-be-bad]V dug₄[to-say]V
+c.5.5.3,An elegy on the death of Nawirtum,,66,ki-sikil[young-woman]N dug₃[to-be-good]V la[plenty]N gud[bull]N nu₂[to-lie-down]V re[that]PD i-lu[(sad)-song]N gig[to-be-ill]V

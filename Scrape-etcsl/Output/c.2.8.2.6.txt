@@ -1,21 +1,21 @@
 id_text,text_name,version,l_no,text
-c.2.8.2.6,A prayer to Inana for Hammu-rābi (Hammu-rābi F),,1,sux:nin[lady]N sux:me[essence]N sux:mah[to-be-majestic]V sux:šu[hand]N sux:du₇[to-be-perfect]V sux:nam[destiny]N sux:gal[to-be-big]V sux:saŋ[head]N
-c.2.8.2.6,A prayer to Inana for Hammu-rābi (Hammu-rābi F),,2,sux:Inana[1]DN sux:nam-ŋuruš[manliness]N sux:an[heaven]N sux:ki[place]N sux:An[1]DN
-c.2.8.2.6,A prayer to Inana for Hammu-rābi (Hammu-rābi F),,3,sux:saŋ-kal[foremost]AJ sux:diŋir[deity]N sux:pa[branch]N sux:e₃[to-go-out-or-in]V sux:nam[destiny]N
-c.2.8.2.6,A prayer to Inana for Hammu-rābi (Hammu-rābi F),,4,sux:Inana[1]DN sux:An[1]DN sux:Enlil[1]DN sux:e-ne[he;-she]PD sux:nu[not]NEG sux:ka-aš[decision]N sux:kalam[the-Land]N sux:bar[to-set-aside]V
-c.2.8.2.6,A prayer to Inana for Hammu-rābi (Hammu-rābi F),,5,sux:saŋ-kug-ŋal₂[proud]AJ sux:Anuna[1]DN sux:nam-gur₄[magnitude]N
-c.2.8.2.6,A prayer to Inana for Hammu-rābi (Hammu-rābi F),,6,sux:Inana[1]DN sux:u₃-sumun₂[wild-cow?]N sux:zid[right]AJ sux:Nun-galene[1]DN sux:nir-ŋal₂[authoritative]AJ sux:nin[lady]N
-c.2.8.2.6,A prayer to Inana for Hammu-rābi (Hammu-rābi F),,7,sux:nam-mah[majesty]N sux:an[heaven]N sux:ki[place]N sux:dalla[to-be-bright]V sux:e₃[to-go-out-or-in]V sux:me[essence]N sux:me[essence]N
-c.2.8.2.6,A prayer to Inana for Hammu-rābi (Hammu-rābi F),,8,sux:ka[mouth]N sux:ba[to-allot]V sux:dug₄[to-say]V sux:An[1]DN sux:An[1]DN sux:sa₄[to-call]V
-c.2.8.2.6,A prayer to Inana for Hammu-rābi (Hammu-rābi F),,9,sux:nam-diŋir[divinity]N sux:gu₂-en[assembly-chamber]N sux:zag[side]N sux:dib[to-pass]V sux:a-ra₂[way]N sux:gal[to-be-big]V
-c.2.8.2.6,A prayer to Inana for Hammu-rābi (Hammu-rābi F),,10,sux:An[1]DN sux:uraš[earth]N sux:gi[verdict]N sux:šum₂[to-give]V sux:Enlil[1]DN
-c.2.8.2.6,A prayer to Inana for Hammu-rābi (Hammu-rābi F),,11,sux:zi-ŋal₂[living-creature]N sux:nam-nin[ladyship]N sux:ak[to-do]V sux:barag[dais]N
-c.2.8.2.6,A prayer to Inana for Hammu-rābi (Hammu-rābi F),,12,sux:ŋarza[rite]N sux:mah[to-be-majestic]V sux:a₂[arm]N sux:aŋ₂[to-measure]V sux:eš₃[shrine]N sux:Abzu[1]TN
-c.2.8.2.6,A prayer to Inana for Hammu-rābi (Hammu-rābi F),,13,sux:lugal[king]N sux:za[you-(sg.)]PD sux:nu[not]NEG sux:nam-sipad[shepherd's-craft]N sux:kalam[the-Land]N
-c.2.8.2.6,A prayer to Inana for Hammu-rābi (Hammu-rābi F),,14,sux:An[1]DN sux:Enlil[1]DN sux:dug₄[to-say]V sux:lugal[king]N sux:igi[eye]N
-c.2.8.2.6,A prayer to Inana for Hammu-rābi (Hammu-rābi F),,15,sux:dug₄[to-say]V sux:an[heaven]N sux:ki[place]N sux:nin[lady]N
-c.2.8.2.6,A prayer to Inana for Hammu-rābi (Hammu-rābi F),,16,sux:nam[destiny]N sux:tar[to-cut]V sux:An[1]DN sux:Enlil[1]DN
-c.2.8.2.6,A prayer to Inana for Hammu-rābi (Hammu-rābi F),,17,sux:Hammu-rābi[1]RN sux:lugal[king]N
-c.2.8.2.6,A prayer to Inana for Hammu-rābi (Hammu-rābi F),,18,sux:ub[corner]N sux:4[4]NU sux:a₂[arm]N sux:aŋ₂[to-measure]V
-c.2.8.2.6,A prayer to Inana for Hammu-rābi (Hammu-rābi F),,19,sux:ud[day(light)]N sux:ma-dam[abundant-yield]N sux:mu[year]N sux:he₂-ŋal₂[plenty]N sux:til₃[to-live]V
-c.2.8.2.6,A prayer to Inana for Hammu-rābi (Hammu-rābi F),,20,sux:Hammu-rābi[1]RN
+c.2.8.2.6,A prayer to Inana for Hammu-rābi (Hammu-rābi F),,1,nin[lady]N me[essence]N mah[to-be-majestic]V šu[hand]N du₇[to-be-perfect]V nam[destiny]N gal[to-be-big]V saŋ[head]N
+c.2.8.2.6,A prayer to Inana for Hammu-rābi (Hammu-rābi F),,2,Inana[1]DN nam-ŋuruš[manliness]N an[heaven]N ki[place]N An[1]DN
+c.2.8.2.6,A prayer to Inana for Hammu-rābi (Hammu-rābi F),,3,saŋ-kal[foremost]AJ diŋir[deity]N pa[branch]N e₃[to-go-out-or-in]V nam[destiny]N
+c.2.8.2.6,A prayer to Inana for Hammu-rābi (Hammu-rābi F),,4,Inana[1]DN An[1]DN Enlil[1]DN e-ne[he;-she]PD nu[not]NEG ka-aš[decision]N kalam[the-Land]N bar[to-set-aside]V
+c.2.8.2.6,A prayer to Inana for Hammu-rābi (Hammu-rābi F),,5,saŋ-kug-ŋal₂[proud]AJ Anuna[1]DN nam-gur₄[magnitude]N
+c.2.8.2.6,A prayer to Inana for Hammu-rābi (Hammu-rābi F),,6,Inana[1]DN u₃-sumun₂[wild-cow?]N zid[right]AJ Nun-galene[1]DN nir-ŋal₂[authoritative]AJ nin[lady]N
+c.2.8.2.6,A prayer to Inana for Hammu-rābi (Hammu-rābi F),,7,nam-mah[majesty]N an[heaven]N ki[place]N dalla[to-be-bright]V e₃[to-go-out-or-in]V me[essence]N me[essence]N
+c.2.8.2.6,A prayer to Inana for Hammu-rābi (Hammu-rābi F),,8,ka[mouth]N ba[to-allot]V dug₄[to-say]V An[1]DN An[1]DN sa₄[to-call]V
+c.2.8.2.6,A prayer to Inana for Hammu-rābi (Hammu-rābi F),,9,nam-diŋir[divinity]N gu₂-en[assembly-chamber]N zag[side]N dib[to-pass]V a-ra₂[way]N gal[to-be-big]V
+c.2.8.2.6,A prayer to Inana for Hammu-rābi (Hammu-rābi F),,10,An[1]DN uraš[earth]N gi[verdict]N šum₂[to-give]V Enlil[1]DN
+c.2.8.2.6,A prayer to Inana for Hammu-rābi (Hammu-rābi F),,11,zi-ŋal₂[living-creature]N nam-nin[ladyship]N ak[to-do]V barag[dais]N
+c.2.8.2.6,A prayer to Inana for Hammu-rābi (Hammu-rābi F),,12,ŋarza[rite]N mah[to-be-majestic]V a₂[arm]N aŋ₂[to-measure]V eš₃[shrine]N Abzu[1]TN
+c.2.8.2.6,A prayer to Inana for Hammu-rābi (Hammu-rābi F),,13,lugal[king]N za[you-(sg.)]PD nu[not]NEG nam-sipad[shepherd's-craft]N kalam[the-Land]N
+c.2.8.2.6,A prayer to Inana for Hammu-rābi (Hammu-rābi F),,14,An[1]DN Enlil[1]DN dug₄[to-say]V lugal[king]N igi[eye]N
+c.2.8.2.6,A prayer to Inana for Hammu-rābi (Hammu-rābi F),,15,dug₄[to-say]V an[heaven]N ki[place]N nin[lady]N
+c.2.8.2.6,A prayer to Inana for Hammu-rābi (Hammu-rābi F),,16,nam[destiny]N tar[to-cut]V An[1]DN Enlil[1]DN
+c.2.8.2.6,A prayer to Inana for Hammu-rābi (Hammu-rābi F),,17,Hammu-rābi[1]RN lugal[king]N
+c.2.8.2.6,A prayer to Inana for Hammu-rābi (Hammu-rābi F),,18,ub[corner]N 4[4]NU a₂[arm]N aŋ₂[to-measure]V
+c.2.8.2.6,A prayer to Inana for Hammu-rābi (Hammu-rābi F),,19,ud[day(light)]N ma-dam[abundant-yield]N mu[year]N he₂-ŋal₂[plenty]N til₃[to-live]V
+c.2.8.2.6,A prayer to Inana for Hammu-rābi (Hammu-rābi F),,20,Hammu-rābi[1]RN

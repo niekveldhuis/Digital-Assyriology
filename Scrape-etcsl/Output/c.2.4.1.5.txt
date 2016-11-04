@@ -1,41 +1,41 @@
 id_text,text_name,version,l_no,text
-c.2.4.1.5,A šir-namšub (?) to Nanna for Ur-Namma (Ur-Namma E),,1,sux:abula[(city)-gate]N sux:e₃[to-go-out-or-in]V sux:a[water]N sux:mah[to-be-majestic]V sux:gaba-šu-ŋar[rival]N sux:tuku[to-have]V
-c.2.4.1.5,A šir-namšub (?) to Nanna for Ur-Namma (Ur-Namma E),,2,sux:eš₃[shrine]N sux:Urim[1]SN sux:šag₄[heart]N sux:kur[(mountain)-land]N sux:he₂-ŋal₂[plenty]N sux:bar[outside]N sux:hur-saŋ[mountain-(range)]N sux:he-nun[abundance]N
-c.2.4.1.5,A šir-namšub (?) to Nanna for Ur-Namma (Ur-Namma E),,3,sux:E-kiš-nu-ŋal[1]TN sux:hur-saŋ[mountain-(range)]N sux:galam[to-be-skilful]V sux:šag₄[heart]N sux:lu₂[person]N sux:zu[to-know]V
-c.2.4.1.5,A šir-namšub (?) to Nanna for Ur-Namma (Ur-Namma E),,4,sux:ki[place]N sux:u₆[wonder]N sux:dug₄[to-say]V sux:erin[cedar]N sux:mu[name]N sux:kalam[the-Land]N sux:hul₂[to-be-happy]V
-c.2.4.1.5,A šir-namšub (?) to Nanna for Ur-Namma (Ur-Namma E),,5,sux:en[lord]N sux:en[lord]N sux:sig₇[to-be-green]V sux:mu[name]N sux:pad₃[to-find]V
-c.2.4.1.5,A šir-namšub (?) to Nanna for Ur-Namma (Ur-Namma E),,6,sux:dumu[child]N sux:Ninsumun[1]DN sux:me-te[(fitting)-attribute]N sux:kur[(mountain)-land]N
-c.2.4.1.5,A šir-namšub (?) to Nanna for Ur-Namma (Ur-Namma E),,7,sux:Urim[1]SN sux:me[essence]N sux:gal-zu[skilful]AJ sux:rab₃[shackle]N sux:diŋir[deity]N
-c.2.4.1.5,A šir-namšub (?) to Nanna for Ur-Namma (Ur-Namma E),,8,sux:kalam[the-Land]N sux:ŋal₂[to-be-(located)]V sux:teš₂[unity]N sux:mu[name]N sux:i[to-bring-out]V
-c.2.4.1.5,A šir-namšub (?) to Nanna for Ur-Namma (Ur-Namma E),,9,sux:kan₄[gate]N sux:an[heaven]N sux:sig₇[to-be-green]V sux:su[flesh]N sux:zig₃[to-rise]V sux:guru₃[to-bear]V
-c.2.4.1.5,A šir-namšub (?) to Nanna for Ur-Namma (Ur-Namma E),,10,sux:ŋal₂[to-open]V sux:taka₄[to-leave-behind]V sux:Utu[1]DN sux:an-ur₂[horizon]N sux:ud[day(light)]N sux:ŋar[to-place]V
-c.2.4.1.5,A šir-namšub (?) to Nanna for Ur-Namma (Ur-Namma E),,11,sux:ki-sa₂[plinth]N sux:ki[place]N sux:nam[destiny]N sux:tar[to-cut]V sux:diŋir[deity]N
-c.2.4.1.5,A šir-namšub (?) to Nanna for Ur-Namma (Ur-Namma E),,12,sux:di[(law)suit]N sux:si[horn]N sux:sa₂[to-equal]V sux:kud[to-cut]V sux:teš₂[unity]N sux:mu[name]N sux:i[to-bring-out]V
-c.2.4.1.5,A šir-namšub (?) to Nanna for Ur-Namma (Ur-Namma E),,13,sux:šag₄[heart]N sux:ŋiš-hur[design]N sux:zid[right]AJ sux:hul-ŋal₂[evil]AJ sux:dab₅[to-seize]V
-c.2.4.1.5,A šir-namšub (?) to Nanna for Ur-Namma (Ur-Namma E),,14,sux:E-kiš-nu-ŋal[1]TN sux:šag₄[heart]N sux:ušumgal[type-of-serpent]N sux:hul-ŋal₂[evil]AJ sux:zu[to-know]V
-c.2.4.1.5,A šir-namšub (?) to Nanna for Ur-Namma (Ur-Namma E),,15,sux:e₂[house(hold)]N sux:gi-gun₄-na[temple-terrace]N sux:nidba[(food)-offering]N sux:Enlil[1]DN sux:sud[to-be-distant]V
-c.2.4.1.5,A šir-namšub (?) to Nanna for Ur-Namma (Ur-Namma E),,16,sux:Dubla-mah[1]TN sux:ki[place]N sux:nam[destiny]N sux:tar[to-cut]V sux:diŋir[deity]N sux:gal[to-be-big]V
-c.2.4.1.5,A šir-namšub (?) to Nanna for Ur-Namma (Ur-Namma E),,17,sux:nam[destiny]N sux:tar[to-cut]V
-c.2.4.1.5,A šir-namšub (?) to Nanna for Ur-Namma (Ur-Namma E),,18,sux:E-temen-ni-guru[1]TN sux:tum₂[to-be-suitable]V
-c.2.4.1.5,A šir-namšub (?) to Nanna for Ur-Namma (Ur-Namma E),,19,sux:tud[to-give-birth]V sux:teš₂[unity]N sux:mu[name]N sux:i[to-bring-out]V
-c.2.4.1.5,A šir-namšub (?) to Nanna for Ur-Namma (Ur-Namma E),,20,sux:en[lord]N sux:sig₇[to-be-green]V sux:sipad[shepherd]N sux:zid[right]AJ sux:Ur-Namma[1]RN
-c.2.4.1.5,A šir-namšub (?) to Nanna for Ur-Namma (Ur-Namma E),,21,sux:Urim[1]SN
-c.2.4.1.5,A šir-namšub (?) to Nanna for Ur-Namma (Ur-Namma E),,22,sux:e₂[house(hold)]N sux:sig₉[to-be-silent]V sux:Utu[1]DN
-c.2.4.1.5,A šir-namšub (?) to Nanna for Ur-Namma (Ur-Namma E),,23,sux:teš₂[unity]N sux:mu[name]N sux:i[to-bring-out]V sux:Ur-Namma[1]RN
-c.2.4.1.5,A šir-namšub (?) to Nanna for Ur-Namma (Ur-Namma E),,24,sux:sun₄[beard]N sux:za-gin₃[lapis-lazuli]N sux:sud[to-be-distant]V
-c.2.4.1.5,A šir-namšub (?) to Nanna for Ur-Namma (Ur-Namma E),,25,sux:lugal[king]N sux:hi-li[attractiveness]N sux:guru₃[to-bear]V sux:me-lem₄[(awesome)-radiance]N sux:kalam[the-Land]N sux:dul[to-cover-(together)]V
-c.2.4.1.5,A šir-namšub (?) to Nanna for Ur-Namma (Ur-Namma E),,26,sux:Ur-Namma[1]RN sux:Ašimbabbar[1]DN sux:šag₄[heart]N sux:kug[shining]AJ sux:pad₃[to-find]V
-c.2.4.1.5,A šir-namšub (?) to Nanna for Ur-Namma (Ur-Namma E),,27,sux:niŋ₂-erim₂[fraudulent-action]N sux:igi[eye]N sux:dib[to-pass]V sux:niŋ₂-si-sa₂[justice]N
-c.2.4.1.5,A šir-namšub (?) to Nanna for Ur-Namma (Ur-Namma E),,28,sux:Ur-Namma[1]RN sux:niŋ₂-gur₁₁[possessions]N sux:sa₂[to-equal]V sux:dug₄[to-say]V
-c.2.4.1.5,A šir-namšub (?) to Nanna for Ur-Namma (Ur-Namma E),,29,sux:lugal[king]N sux:pa-mul[spreading-branch]N sux:zu[to-know]V
-c.2.4.1.5,A šir-namšub (?) to Nanna for Ur-Namma (Ur-Namma E),,30,sux:Ur-Namma[1]RN sux:maškim[judicial-officer]N sux:dug₄[to-say]V
-c.2.4.1.5,A šir-namšub (?) to Nanna for Ur-Namma (Ur-Namma E),,31,sux:inim[word]N sux:zu[to-know]V sux:en[lord]N sux:pa-mul[spreading-branch]N sux:zu[to-know]V
-c.2.4.1.5,A šir-namšub (?) to Nanna for Ur-Namma (Ur-Namma E),,32,sux:Ur-Namma[1]RN sux:maškim[judicial-officer]N sux:dug₄[to-say]V
-c.2.4.1.5,A šir-namšub (?) to Nanna for Ur-Namma (Ur-Namma E),,33,sux:lugal[king]N sux:e₂[house(hold)]N sux:Suen[1]DN
-c.2.4.1.5,A šir-namšub (?) to Nanna for Ur-Namma (Ur-Namma E),,34,sux:Ur-Namma[1]RN sux:ni₂[self]N sux:ten[to-extinguish]V
-c.2.4.1.5,A šir-namšub (?) to Nanna for Ur-Namma (Ur-Namma E),,35,sux:lugal[king]N sux:Tigris[1]WN sux:Euphrates[1]WN
-c.2.4.1.5,A šir-namšub (?) to Nanna for Ur-Namma (Ur-Namma E),,36,sux:Ur-Namma[1]RN sux:nam[destiny]N sux:tar[to-cut]V
-c.2.4.1.5,A šir-namšub (?) to Nanna for Ur-Namma (Ur-Namma E),,37,sux:nin[lady]N sux:nin[lady]N sux:niŋ₂-gur₁₁[possessions]N sux:nin[lady]N sux:e₂[house(hold)]N
-c.2.4.1.5,A šir-namšub (?) to Nanna for Ur-Namma (Ur-Namma E),,38,sux:Ur-Namma[1]RN sux:nam[destiny]N sux:tar[to-cut]V
-c.2.4.1.5,A šir-namšub (?) to Nanna for Ur-Namma (Ur-Namma E),,39,sux:munus[woman]N sux:a[water]N sux:nun[prince]N sux:mi₂[(loving)-care]N sux:zid[right]AJ sux:dug₄[to-say]V
-c.2.4.1.5,A šir-namšub (?) to Nanna for Ur-Namma (Ur-Namma E),,40,sux:Ur-Namma[1]RN
+c.2.4.1.5,A šir-namšub (?) to Nanna for Ur-Namma (Ur-Namma E),,1,abula[(city)-gate]N e₃[to-go-out-or-in]V a[water]N mah[to-be-majestic]V gaba-šu-ŋar[rival]N tuku[to-have]V
+c.2.4.1.5,A šir-namšub (?) to Nanna for Ur-Namma (Ur-Namma E),,2,eš₃[shrine]N Urim[1]SN šag₄[heart]N kur[(mountain)-land]N he₂-ŋal₂[plenty]N bar[outside]N hur-saŋ[mountain-(range)]N he-nun[abundance]N
+c.2.4.1.5,A šir-namšub (?) to Nanna for Ur-Namma (Ur-Namma E),,3,E-kiš-nu-ŋal[1]TN hur-saŋ[mountain-(range)]N galam[to-be-skilful]V šag₄[heart]N lu₂[person]N zu[to-know]V
+c.2.4.1.5,A šir-namšub (?) to Nanna for Ur-Namma (Ur-Namma E),,4,ki[place]N u₆[wonder]N dug₄[to-say]V erin[cedar]N mu[name]N kalam[the-Land]N hul₂[to-be-happy]V
+c.2.4.1.5,A šir-namšub (?) to Nanna for Ur-Namma (Ur-Namma E),,5,en[lord]N en[lord]N sig₇[to-be-green]V mu[name]N pad₃[to-find]V
+c.2.4.1.5,A šir-namšub (?) to Nanna for Ur-Namma (Ur-Namma E),,6,dumu[child]N Ninsumun[1]DN me-te[(fitting)-attribute]N kur[(mountain)-land]N
+c.2.4.1.5,A šir-namšub (?) to Nanna for Ur-Namma (Ur-Namma E),,7,Urim[1]SN me[essence]N gal-zu[skilful]AJ rab₃[shackle]N diŋir[deity]N
+c.2.4.1.5,A šir-namšub (?) to Nanna for Ur-Namma (Ur-Namma E),,8,kalam[the-Land]N ŋal₂[to-be-(located)]V teš₂[unity]N mu[name]N i[to-bring-out]V
+c.2.4.1.5,A šir-namšub (?) to Nanna for Ur-Namma (Ur-Namma E),,9,kan₄[gate]N an[heaven]N sig₇[to-be-green]V su[flesh]N zig₃[to-rise]V guru₃[to-bear]V
+c.2.4.1.5,A šir-namšub (?) to Nanna for Ur-Namma (Ur-Namma E),,10,ŋal₂[to-open]V taka₄[to-leave-behind]V Utu[1]DN an-ur₂[horizon]N ud[day(light)]N ŋar[to-place]V
+c.2.4.1.5,A šir-namšub (?) to Nanna for Ur-Namma (Ur-Namma E),,11,ki-sa₂[plinth]N ki[place]N nam[destiny]N tar[to-cut]V diŋir[deity]N
+c.2.4.1.5,A šir-namšub (?) to Nanna for Ur-Namma (Ur-Namma E),,12,di[(law)suit]N si[horn]N sa₂[to-equal]V kud[to-cut]V teš₂[unity]N mu[name]N i[to-bring-out]V
+c.2.4.1.5,A šir-namšub (?) to Nanna for Ur-Namma (Ur-Namma E),,13,šag₄[heart]N ŋiš-hur[design]N zid[right]AJ hul-ŋal₂[evil]AJ dab₅[to-seize]V
+c.2.4.1.5,A šir-namšub (?) to Nanna for Ur-Namma (Ur-Namma E),,14,E-kiš-nu-ŋal[1]TN šag₄[heart]N ušumgal[type-of-serpent]N hul-ŋal₂[evil]AJ zu[to-know]V
+c.2.4.1.5,A šir-namšub (?) to Nanna for Ur-Namma (Ur-Namma E),,15,e₂[house(hold)]N gi-gun₄-na[temple-terrace]N nidba[(food)-offering]N Enlil[1]DN sud[to-be-distant]V
+c.2.4.1.5,A šir-namšub (?) to Nanna for Ur-Namma (Ur-Namma E),,16,Dubla-mah[1]TN ki[place]N nam[destiny]N tar[to-cut]V diŋir[deity]N gal[to-be-big]V
+c.2.4.1.5,A šir-namšub (?) to Nanna for Ur-Namma (Ur-Namma E),,17,nam[destiny]N tar[to-cut]V
+c.2.4.1.5,A šir-namšub (?) to Nanna for Ur-Namma (Ur-Namma E),,18,E-temen-ni-guru[1]TN tum₂[to-be-suitable]V
+c.2.4.1.5,A šir-namšub (?) to Nanna for Ur-Namma (Ur-Namma E),,19,tud[to-give-birth]V teš₂[unity]N mu[name]N i[to-bring-out]V
+c.2.4.1.5,A šir-namšub (?) to Nanna for Ur-Namma (Ur-Namma E),,20,en[lord]N sig₇[to-be-green]V sipad[shepherd]N zid[right]AJ Ur-Namma[1]RN
+c.2.4.1.5,A šir-namšub (?) to Nanna for Ur-Namma (Ur-Namma E),,21,Urim[1]SN
+c.2.4.1.5,A šir-namšub (?) to Nanna for Ur-Namma (Ur-Namma E),,22,e₂[house(hold)]N sig₉[to-be-silent]V Utu[1]DN
+c.2.4.1.5,A šir-namšub (?) to Nanna for Ur-Namma (Ur-Namma E),,23,teš₂[unity]N mu[name]N i[to-bring-out]V Ur-Namma[1]RN
+c.2.4.1.5,A šir-namšub (?) to Nanna for Ur-Namma (Ur-Namma E),,24,sun₄[beard]N za-gin₃[lapis-lazuli]N sud[to-be-distant]V
+c.2.4.1.5,A šir-namšub (?) to Nanna for Ur-Namma (Ur-Namma E),,25,lugal[king]N hi-li[attractiveness]N guru₃[to-bear]V me-lem₄[(awesome)-radiance]N kalam[the-Land]N dul[to-cover-(together)]V
+c.2.4.1.5,A šir-namšub (?) to Nanna for Ur-Namma (Ur-Namma E),,26,Ur-Namma[1]RN Ašimbabbar[1]DN šag₄[heart]N kug[shining]AJ pad₃[to-find]V
+c.2.4.1.5,A šir-namšub (?) to Nanna for Ur-Namma (Ur-Namma E),,27,niŋ₂-erim₂[fraudulent-action]N igi[eye]N dib[to-pass]V niŋ₂-si-sa₂[justice]N
+c.2.4.1.5,A šir-namšub (?) to Nanna for Ur-Namma (Ur-Namma E),,28,Ur-Namma[1]RN niŋ₂-gur₁₁[possessions]N sa₂[to-equal]V dug₄[to-say]V
+c.2.4.1.5,A šir-namšub (?) to Nanna for Ur-Namma (Ur-Namma E),,29,lugal[king]N pa-mul[spreading-branch]N zu[to-know]V
+c.2.4.1.5,A šir-namšub (?) to Nanna for Ur-Namma (Ur-Namma E),,30,Ur-Namma[1]RN maškim[judicial-officer]N dug₄[to-say]V
+c.2.4.1.5,A šir-namšub (?) to Nanna for Ur-Namma (Ur-Namma E),,31,inim[word]N zu[to-know]V en[lord]N pa-mul[spreading-branch]N zu[to-know]V
+c.2.4.1.5,A šir-namšub (?) to Nanna for Ur-Namma (Ur-Namma E),,32,Ur-Namma[1]RN maškim[judicial-officer]N dug₄[to-say]V
+c.2.4.1.5,A šir-namšub (?) to Nanna for Ur-Namma (Ur-Namma E),,33,lugal[king]N e₂[house(hold)]N Suen[1]DN
+c.2.4.1.5,A šir-namšub (?) to Nanna for Ur-Namma (Ur-Namma E),,34,Ur-Namma[1]RN ni₂[self]N ten[to-extinguish]V
+c.2.4.1.5,A šir-namšub (?) to Nanna for Ur-Namma (Ur-Namma E),,35,lugal[king]N Tigris[1]WN Euphrates[1]WN
+c.2.4.1.5,A šir-namšub (?) to Nanna for Ur-Namma (Ur-Namma E),,36,Ur-Namma[1]RN nam[destiny]N tar[to-cut]V
+c.2.4.1.5,A šir-namšub (?) to Nanna for Ur-Namma (Ur-Namma E),,37,nin[lady]N nin[lady]N niŋ₂-gur₁₁[possessions]N nin[lady]N e₂[house(hold)]N
+c.2.4.1.5,A šir-namšub (?) to Nanna for Ur-Namma (Ur-Namma E),,38,Ur-Namma[1]RN nam[destiny]N tar[to-cut]V
+c.2.4.1.5,A šir-namšub (?) to Nanna for Ur-Namma (Ur-Namma E),,39,munus[woman]N a[water]N nun[prince]N mi₂[(loving)-care]N zid[right]AJ dug₄[to-say]V
+c.2.4.1.5,A šir-namšub (?) to Nanna for Ur-Namma (Ur-Namma E),,40,Ur-Namma[1]RN

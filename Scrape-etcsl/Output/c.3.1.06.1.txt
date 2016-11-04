@@ -1,31 +1,31 @@
 id_text,text_name,version,l_no,text
-c.3.1.06.1,Letter from Šulgi to Aradŋu about Aba-indasa's letter,A,1,sux:Aradŋu[1]PN sux:dug₄[to-say]V
-c.3.1.06.1,Letter from Šulgi to Aradŋu about Aba-indasa's letter,A,2,sux:Šulgi[1]RN sux:lugal[king]N sux:dug₄[to-say]V
-c.3.1.06.1,Letter from Šulgi to Aradŋu about Aba-indasa's letter,A,3,sux:ud[day(light)]N sux:Aba-indasa[1]PN sux:ugula[overseer]N sux:erin₂[group-of-people]N sux:zu₂[tooth]N sux:keše₂[to-bind]V
-c.3.1.06.1,Letter from Šulgi to Aradŋu about Aba-indasa's letter,A,4,sux:u₃-na-a-dug₄[letter]N sux:šu[hand]N sux:taka₄[to-leave-behind]V
-c.3.1.06.1,Letter from Šulgi to Aradŋu about Aba-indasa's letter,A,5,sux:šu[hand]N sux:dugud[to-be-heavy]V sux:ri[to-direct]V sux:šer₇-da[crime]N sux:il₂[to-raise]V sux:gen₆[to-be-firm]V
-c.3.1.06.1,Letter from Šulgi to Aradŋu about Aba-indasa's letter,A,6,sux:a-na-aš[why]AV sux:erin₂[group-of-people]N sux:zig₃[to-rise]V
-c.3.1.06.1,Letter from Šulgi to Aradŋu about Aba-indasa's letter,A,7,sux:en-nu-uŋ₃[guard]N sux:kur₉[to-enter]V
-c.3.1.06.1,Letter from Šulgi to Aradŋu about Aba-indasa's letter,A,8,sux:de₆[to-carry]V sux:šer₇-da[crime]N sux:šag₄[heart]N sux:il₂[to-raise]V
-c.3.1.06.1,Letter from Šulgi to Aradŋu about Aba-indasa's letter,A,9,sux:kur₂[to-be-different]V sux:e₃[to-go-out-or-in]V sux:erin₂[group-of-people]N sux:gi₄[to-return]V
-c.3.1.06.1,Letter from Šulgi to Aradŋu about Aba-indasa's letter,A,10,sux:ugu[skull]N
-c.3.1.06.1,Letter from Šulgi to Aradŋu about Aba-indasa's letter,A,11,sux:har-ra-an-kalag[fortress]N
-c.3.1.06.1,Letter from Šulgi to Aradŋu about Aba-indasa's letter,A,14,sux:ŋar[to-place]V
-c.3.1.06.1,Letter from Šulgi to Aradŋu about Aba-indasa's letter,A,15,sux:har-ra-an-kalag[fortress]N sux:zu[to-know]V
-c.3.1.06.1,Letter from Šulgi to Aradŋu about Aba-indasa's letter,A,16,sux:u₃-na-a-dug₄[letter]N sux:šu[hand]N sux:šu[hand]N sux:taka₄[to-leave-behind]V
-c.3.1.06.1,Letter from Šulgi to Aradŋu about Aba-indasa's letter,A,17,sux:erin₂[group-of-people]N sux:gi₄[to-return]V
-c.3.1.06.1,Letter from Šulgi to Aradŋu about Aba-indasa's letter,A,18,sux:sag₉[to-be-good]V sux:pad₃[to-find]V
-c.3.1.06.1,Letter from Šulgi to Aradŋu about Aba-indasa's letter,A,19,sux:pe-el[to-defile]V
-c.3.1.06.1,Letter from Šulgi to Aradŋu about Aba-indasa's letter,A,20,sux:ŋar[to-place]V sux:kuš₂[to-be-tired]V
-c.3.1.06.1,Letter from Šulgi to Aradŋu about Aba-indasa's letter,A,21,sux:ki-saŋ-ŋal₂-la[stronghold]N sux:igi[eye]N sux:gu-za[chair]N sux:tuš[to-sit]V
-c.3.1.06.1,Letter from Šulgi to Aradŋu about Aba-indasa's letter,A,22,sux:a-ma-ru[flood]N
+c.3.1.06.1,Letter from Šulgi to Aradŋu about Aba-indasa's letter,A,1,Aradŋu[1]PN dug₄[to-say]V
+c.3.1.06.1,Letter from Šulgi to Aradŋu about Aba-indasa's letter,A,2,Šulgi[1]RN lugal[king]N dug₄[to-say]V
+c.3.1.06.1,Letter from Šulgi to Aradŋu about Aba-indasa's letter,A,3,ud[day(light)]N Aba-indasa[1]PN ugula[overseer]N erin₂[group-of-people]N zu₂[tooth]N keše₂[to-bind]V
+c.3.1.06.1,Letter from Šulgi to Aradŋu about Aba-indasa's letter,A,4,u₃-na-a-dug₄[letter]N šu[hand]N taka₄[to-leave-behind]V
+c.3.1.06.1,Letter from Šulgi to Aradŋu about Aba-indasa's letter,A,5,šu[hand]N dugud[to-be-heavy]V ri[to-direct]V šer₇-da[crime]N il₂[to-raise]V gen₆[to-be-firm]V
+c.3.1.06.1,Letter from Šulgi to Aradŋu about Aba-indasa's letter,A,6,a-na-aš[why]AV erin₂[group-of-people]N zig₃[to-rise]V
+c.3.1.06.1,Letter from Šulgi to Aradŋu about Aba-indasa's letter,A,7,en-nu-uŋ₃[guard]N kur₉[to-enter]V
+c.3.1.06.1,Letter from Šulgi to Aradŋu about Aba-indasa's letter,A,8,de₆[to-carry]V šer₇-da[crime]N šag₄[heart]N il₂[to-raise]V
+c.3.1.06.1,Letter from Šulgi to Aradŋu about Aba-indasa's letter,A,9,kur₂[to-be-different]V e₃[to-go-out-or-in]V erin₂[group-of-people]N gi₄[to-return]V
+c.3.1.06.1,Letter from Šulgi to Aradŋu about Aba-indasa's letter,A,10,ugu[skull]N
+c.3.1.06.1,Letter from Šulgi to Aradŋu about Aba-indasa's letter,A,11,har-ra-an-kalag[fortress]N
+c.3.1.06.1,Letter from Šulgi to Aradŋu about Aba-indasa's letter,A,14,ŋar[to-place]V
+c.3.1.06.1,Letter from Šulgi to Aradŋu about Aba-indasa's letter,A,15,har-ra-an-kalag[fortress]N zu[to-know]V
+c.3.1.06.1,Letter from Šulgi to Aradŋu about Aba-indasa's letter,A,16,u₃-na-a-dug₄[letter]N šu[hand]N šu[hand]N taka₄[to-leave-behind]V
+c.3.1.06.1,Letter from Šulgi to Aradŋu about Aba-indasa's letter,A,17,erin₂[group-of-people]N gi₄[to-return]V
+c.3.1.06.1,Letter from Šulgi to Aradŋu about Aba-indasa's letter,A,18,sag₉[to-be-good]V pad₃[to-find]V
+c.3.1.06.1,Letter from Šulgi to Aradŋu about Aba-indasa's letter,A,19,pe-el[to-defile]V
+c.3.1.06.1,Letter from Šulgi to Aradŋu about Aba-indasa's letter,A,20,ŋar[to-place]V kuš₂[to-be-tired]V
+c.3.1.06.1,Letter from Šulgi to Aradŋu about Aba-indasa's letter,A,21,ki-saŋ-ŋal₂-la[stronghold]N igi[eye]N gu-za[chair]N tuš[to-sit]V
+c.3.1.06.1,Letter from Šulgi to Aradŋu about Aba-indasa's letter,A,22,a-ma-ru[flood]N
 c.3.1.06.1,Letter from Šulgi to Aradŋu about Aba-indasa's letter,B,1,
-c.3.1.06.1,Letter from Šulgi to Aradŋu about Aba-indasa's letter,B,2,sux:Ur-Namma[1]RN sux:a-a[father]N sux:ugu[to-give-birth]V
-c.3.1.06.1,Letter from Šulgi to Aradŋu about Aba-indasa's letter,B,3,sux:har-ra-an-kalag[fortress]N
-c.3.1.06.1,Letter from Šulgi to Aradŋu about Aba-indasa's letter,B,4,sux:ŋar[to-place]V
-c.3.1.06.1,Letter from Šulgi to Aradŋu about Aba-indasa's letter,B,5,sux:har-ra-an-kalag[fortress]N
-c.3.1.06.1,Letter from Šulgi to Aradŋu about Aba-indasa's letter,B,6,sux:ud[day(light)]N sux:u₃-na-a-dug₄[letter]N
-c.3.1.06.1,Letter from Šulgi to Aradŋu about Aba-indasa's letter,B,7,sux:erin₂[group-of-people]N sux:gi₄[to-return]V
-c.3.1.06.1,Letter from Šulgi to Aradŋu about Aba-indasa's letter,B,8,sux:iri[town]N sux:pe-el[to-defile]V
-c.3.1.06.1,Letter from Šulgi to Aradŋu about Aba-indasa's letter,B,9,sux:nam-gur₄[magnitude]N sux:erin₂[group-of-people]N
-c.3.1.06.1,Letter from Šulgi to Aradŋu about Aba-indasa's letter,B,10,sux:ki[place]N sux:saŋ[head]N sux:ki-ŋal₂-la[site]N sux:igi[eye]N sux:gu-za[chair]N
+c.3.1.06.1,Letter from Šulgi to Aradŋu about Aba-indasa's letter,B,2,Ur-Namma[1]RN a-a[father]N ugu[to-give-birth]V
+c.3.1.06.1,Letter from Šulgi to Aradŋu about Aba-indasa's letter,B,3,har-ra-an-kalag[fortress]N
+c.3.1.06.1,Letter from Šulgi to Aradŋu about Aba-indasa's letter,B,4,ŋar[to-place]V
+c.3.1.06.1,Letter from Šulgi to Aradŋu about Aba-indasa's letter,B,5,har-ra-an-kalag[fortress]N
+c.3.1.06.1,Letter from Šulgi to Aradŋu about Aba-indasa's letter,B,6,ud[day(light)]N u₃-na-a-dug₄[letter]N
+c.3.1.06.1,Letter from Šulgi to Aradŋu about Aba-indasa's letter,B,7,erin₂[group-of-people]N gi₄[to-return]V
+c.3.1.06.1,Letter from Šulgi to Aradŋu about Aba-indasa's letter,B,8,iri[town]N pe-el[to-defile]V
+c.3.1.06.1,Letter from Šulgi to Aradŋu about Aba-indasa's letter,B,9,nam-gur₄[magnitude]N erin₂[group-of-people]N
+c.3.1.06.1,Letter from Šulgi to Aradŋu about Aba-indasa's letter,B,10,ki[place]N saŋ[head]N ki-ŋal₂-la[site]N igi[eye]N gu-za[chair]N
