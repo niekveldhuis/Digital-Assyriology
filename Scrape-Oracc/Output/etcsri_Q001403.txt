@@ -1,0 +1,49 @@
+id_text,text_name,version,l_no,text
+etcsri/Q001403,Sargon 11,,1,sux:Šarrukin[1]RN
+etcsri/Q001403,Sargon 11,,2,sux:lugal[king]N
+etcsri/Q001403,Sargon 11,,3,sux:kiš[totality]N
+etcsri/Q001403,Sargon 11,,4,sux:damhara[battle]N
+etcsri/Q001403,Sargon 11,,5,sux:agakar[conqueror]N sux:sig[put]V/t
+etcsri/Q001403,Sargon 11,,6,sux:bad[wall]N
+etcsri/Q001403,Sargon 11,,7,sux:gul[destroy]V/t
+etcsri/Q001403,Sargon 11,,8,sux:zag[side]N sux:aʾabak[sea]N
+etcsri/Q001403,Sargon 11,,9,sux:ma[ship]N sux:Meluha[1]GN
+etcsri/Q001403,Sargon 11,,10,sux:ma[ship]N sux:Magan[1]GN
+etcsri/Q001403,Sargon 11,,11,sux:ma[ship]N sux:Dilmun[1]GN
+etcsri/Q001403,Sargon 11,,12,sux:kar[harbor]N sux:Agade[1]SN
+etcsri/Q001403,Sargon 11,,13,sux:kešed[bind]V/t
+etcsri/Q001403,Sargon 11,,14,sux:Šarrukin[1]RN
+etcsri/Q001403,Sargon 11,,15,sux:lugal[king]N
+etcsri/Q001403,Sargon 11,,16,sux:Tuttul[1]SN
+etcsri/Q001403,Sargon 11,,17,sux:Dagan[1]DN
+etcsri/Q001403,Sargon 11,,18,sux:ki[place]N sux:za[cvve]V/i
+etcsri/Q001403,Sargon 11,,19,sux:šud[prayer]N sux:ra[cvve]V/t
+etcsri/Q001403,Sargon 11,,20,sux:kalam[land]N sux:iginim[land]N
+etcsri/Q001403,Sargon 11,,21,sux:šum[give]V/t
+etcsri/Q001403,Sargon 11,,22,sux:Mari[1]SN
+etcsri/Q001403,Sargon 11,,23,sux:Yarmuti[1]SN
+etcsri/Q001403,Sargon 11,,24,sux:Ebla[1]SN
+etcsri/Q001403,Sargon 11,,25,sux:tir[forest]N
+etcsri/Q001403,Sargon 11,,26,sux:eren[cedar]N
+etcsri/Q001403,Sargon 11,,27,sux:hursaŋ[mountain]N
+etcsri/Q001403,Sargon 11,,28,sux:kug[metal]N
+etcsri/Q001403,Sargon 11,,29,sux:Šarrukin[1]RN
+etcsri/Q001403,Sargon 11,,30,sux:lugal[king]N
+etcsri/Q001403,Sargon 11,,31,sux:Enlil[1]DN
+etcsri/Q001403,Sargon 11,,32,sux:lu[person]N sux:gabari[copy]N
+etcsri/Q001403,Sargon 11,,33,sux:tuku[acquire]V/t
+etcsri/Q001403,Sargon 11,,34,sux:erin[people]N
+etcsri/Q001403,Sargon 11,,35,sux:ud[sun]N sux:šuš[cover]V/t
+etcsri/Q001403,Sargon 11,,36,sux:igi[face]N
+etcsri/Q001403,Sargon 11,,37,sux:ninda[bread]N sux:gu[eat]V/t
+etcsri/Q001403,Sargon 11,,38,sux:lu[person]N sux:musara[inscription]N
+etcsri/Q001403,Sargon 11,,39,sux:halam[forsake]V/t
+etcsri/Q001403,Sargon 11,,40,sux:An[1]DN
+etcsri/Q001403,Sargon 11,,41,sux:mu[name]N
+etcsri/Q001403,Sargon 11,,42,sux:halam[forsake]V/t
+etcsri/Q001403,Sargon 11,,43,sux:Enlil[1]DN
+etcsri/Q001403,Sargon 11,,44,sux:numun[seed]N
+etcsri/Q001403,Sargon 11,,45,sux:til[complete]V/i
+etcsri/Q001403,Sargon 11,,46,sux:Inanak[1]DN
+etcsri/Q001403,Sargon 11,,48,sux:kud[cut]V/t
+etcsri/Q001403,Sargon 11,,colophon 1; 1,sux:musara[inscription]N

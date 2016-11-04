@@ -1,0 +1,8 @@
+id_text,text_name,version,l_no,text
+etcsri/Q001099,En-metena 21,,1,sux:Ŋatumdug[1]DN
+etcsri/Q001099,En-metena 21,,2,sux:ama[mother]N sux:Lagaš[1]SN
+etcsri/Q001099,En-metena 21,,3,sux:Enmetenak[1]RN
+etcsri/Q001099,En-metena 21,,4,sux:ensik[ruler]N
+etcsri/Q001099,En-metena 21,,5,sux:Lagaš[1]SN
+etcsri/Q001099,En-metena 21,,6,sux:lu[person]N sux:e[house]N sux:Ŋatumdug[1]DN sux:du[build]V/t
+etcsri/Q001099,En-metena 21,,7,sux:diŋir[deity]N

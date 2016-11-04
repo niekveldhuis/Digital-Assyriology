@@ -1,0 +1,17 @@
+id_text,text_name,version,l_no,text
+etcsri/Q001003,Šu-Suen 21,,1,sux:Nanna[1]DN
+etcsri/Q001003,Šu-Suen 21,,2,sux:dumusaŋ[first-born]N
+etcsri/Q001003,Šu-Suen 21,,3,sux:Enlil[1]DN
+etcsri/Q001003,Šu-Suen 21,,4,sux:lugal[king]N sux:ki[place]N sux:aŋ[measure]V/t
+etcsri/Q001003,Šu-Suen 21,,5,sux:Šusuen[1]RN
+etcsri/Q001003,Šu-Suen 21,,6,sux:ki[place]N sux:aŋ[measure]V/t sux:Nanna[1]DN
+etcsri/Q001003,Šu-Suen 21,,7,sux:lugal[king]N sux:Enlil[1]DN
+etcsri/Q001003,Šu-Suen 21,,8,sux:šag[heart]N
+etcsri/Q001003,Šu-Suen 21,,9,sux:pad[find]V/t
+etcsri/Q001003,Šu-Suen 21,,10,sux:sipad[shepherd]N sux:kalam[land]N
+etcsri/Q001003,Šu-Suen 21,,11,sux:u[and]CNJ sux:anubda[quarter]N sux:limmu[four]NU
+etcsri/Q001003,Šu-Suen 21,,12,sux:lugal[king]N sux:kalag[strong]V/i
+etcsri/Q001003,Šu-Suen 21,,13,sux:lugal[king]N sux:Urim[1]SN
+etcsri/Q001003,Šu-Suen 21,,14,sux:lugal[king]N sux:anubda[quarter]N sux:limmu[four]NU
+etcsri/Q001003,Šu-Suen 21,,15,sux:Emurianabaʾak[1]TN
+etcsri/Q001003,Šu-Suen 21,,16,sux:e[house]N sux:ki[place]N sux:aŋ[measure]V/t

@@ -1,0 +1,11 @@
+id_text,text_name,version,l_no,text
+etcsri/Q001383,An-Uruk 1,,1,sux:Ninšubur[1]DN
+etcsri/Q001383,An-Uruk 1,,2,sux:Ayadiŋirŋu[1]PN
+etcsri/Q001383,An-Uruk 1,,3,sux:adda[father]N
+etcsri/Q001383,An-Uruk 1,,4,sux:AK[1]PN sux:saŋŋa[official]N sux:Utu[1]DN
+etcsri/Q001383,An-Uruk 1,,5,sux:KUM-tuše[1]PN sux:ama[mother]N
+etcsri/Q001383,An-Uruk 1,,6,sux:Ayadiŋirŋu[1]PN
+etcsri/Q001383,An-Uruk 1,,7,sux:ud[sun]N sux:Ninimma[1]DN
+etcsri/Q001383,An-Uruk 1,,8,sux:gu[voice]N sux:de[pour]V/t
+etcsri/Q001383,An-Uruk 1,,9,sux:ni[fear]N sux:tuku[acquire]V/t
+etcsri/Q001383,An-Uruk 1,,10,sux:Ayadiŋirŋu[1]PN sux:KUM-tuše[1]PN

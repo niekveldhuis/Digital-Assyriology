@@ -1,0 +1,19 @@
+id_text,text_name,version,l_no,text
+etcsri/Q001960,Lipit-Eštar 2,,1,sux:Lipiteštar[1]RN
+etcsri/Q001960,Lipit-Eštar 2,,2,sux:sipad[shepherd]N sux:sun[humble]V/i
+etcsri/Q001960,Lipit-Eštar 2,,3,sux:Nibru[1]SN
+etcsri/Q001960,Lipit-Eštar 2,,4,sux:engar[farmer]N sux:zid[right]V/i
+etcsri/Q001960,Lipit-Eštar 2,,5,sux:Urim[1]SN
+etcsri/Q001960,Lipit-Eštar 2,,6,sux:muš[face]N sux:tum[lead]V/t
+etcsri/Q001960,Lipit-Eštar 2,,7,sux:Eridug[1]SN
+etcsri/Q001960,Lipit-Eštar 2,,8,sux:en[priest]N sux:mete[appropriate-thing]N
+etcsri/Q001960,Lipit-Eštar 2,,9,sux:Unug[1]SN
+etcsri/Q001960,Lipit-Eštar 2,,10,sux:lugal[king]N sux:Isin[1]SN
+etcsri/Q001960,Lipit-Eštar 2,,11,sux:lugal[king]N sux:Kiengir[1]GN sux:Akkad[1]GN
+etcsri/Q001960,Lipit-Eštar 2,,12,sux:šag[heart]N sux:de[bring]V/t
+etcsri/Q001960,Lipit-Eštar 2,,13,sux:Inanak[1]DN
+etcsri/Q001960,Lipit-Eštar 2,,14,sux:ud[sun]N sux:niŋsisa[justice]N
+etcsri/Q001960,Lipit-Eštar 2,,15,sux:Kiengir[1]GN sux:Akkad[1]GN
+etcsri/Q001960,Lipit-Eštar 2,,16,sux:ŋar[place]V/t
+etcsri/Q001960,Lipit-Eštar 2,,17,sux:Emetenamlugalak[1]TN
+etcsri/Q001960,Lipit-Eštar 2,,18,sux:e[house]N sux:kituš[dwelling]N sux:gal[big]V/i

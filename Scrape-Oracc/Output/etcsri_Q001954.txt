@@ -1,0 +1,17 @@
+id_text,text_name,version,l_no,text
+etcsri/Q001954,Išme-Dagan 12,,1,sux:Nanna[1]DN
+etcsri/Q001954,Išme-Dagan 12,,2,sux:dumusaŋ[first-born]N
+etcsri/Q001954,Išme-Dagan 12,,3,sux:Enlil[1]DN
+etcsri/Q001954,Išme-Dagan 12,,4,sux:lugal[king]N
+etcsri/Q001954,Išme-Dagan 12,,5,sux:Išmedagan[1]RN
+etcsri/Q001954,Išme-Dagan 12,,6,sux:ua[provisioner]N sux:Nibru[1]SN
+etcsri/Q001954,Išme-Dagan 12,,7,sux:saŋus[constant]V/i
+etcsri/Q001954,Išme-Dagan 12,,8,sux:Urim[1]SN
+etcsri/Q001954,Išme-Dagan 12,,9,sux:ud[sun]N sux:gub[stand]V/i
+etcsri/Q001954,Išme-Dagan 12,,10,sux:Eridug[1]SN
+etcsri/Q001954,Išme-Dagan 12,,11,sux:en[priest]N sux:Unug[1]SN
+etcsri/Q001954,Išme-Dagan 12,,12,sux:lugal[king]N sux:Isin[1]SN
+etcsri/Q001954,Išme-Dagan 12,,13,sux:lugal[king]N sux:Kiengir[1]GN sux:Akkad[1]GN
+etcsri/Q001954,Išme-Dagan 12,,14,sux:dam[spouse]N sux:ki[place]N sux:aŋ[measure]V/t
+etcsri/Q001954,Išme-Dagan 12,,15,sux:Inanak[1]DN
+etcsri/Q001954,Išme-Dagan 12,,16,sux:namtil[life]N

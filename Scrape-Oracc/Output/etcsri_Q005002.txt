@@ -1,0 +1,7 @@
+id_text,text_name,version,l_no,text
+etcsri/Q005002,Ibbi-Suen 2072add,,i 1,sux:Ibbisuen[1]RN
+etcsri/Q005002,Ibbi-Suen 2072add,,i 2,sux:lugal[king]N sux:kalag[strong]V/i
+etcsri/Q005002,Ibbi-Suen 2072add,,i 3,sux:lugal[king]N sux:Urim[1]SN
+etcsri/Q005002,Ibbi-Suen 2072add,,i 4,sux:lugal[king]N sux:anubda[quarter]N sux:limmu[four]NU
+etcsri/Q005002,Ibbi-Suen 2072add,,ii 1,sux:EN-X[1]PN
+etcsri/Q005002,Ibbi-Suen 2072add,,ii 3,sux:arad[slave]N

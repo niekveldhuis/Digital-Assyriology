@@ -1,0 +1,4 @@
+id_text,text_name,version,l_no,text
+etcsri/Q004891,Lagaš II Unidentified 1061add,,1',sux:namtil[life]N
+etcsri/Q004891,Lagaš II Unidentified 1061add,,2',sux:u[and]CNJ sux:namtil[life]N sux:dam[spouse]N sux:dumu[child]N
+etcsri/Q004891,Lagaš II Unidentified 1061add,,3',sux:a[water]N sux:ru[cvve]V/t

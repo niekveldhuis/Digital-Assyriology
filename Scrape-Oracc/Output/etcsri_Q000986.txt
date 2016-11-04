@@ -1,0 +1,17 @@
+id_text,text_name,version,l_no,text
+etcsri/Q000986,Amar-Suen 13,,1,sux:Inanak[1]DN
+etcsri/Q000986,Amar-Suen 13,,2,sux:nin[lady]N sux:me[battle]N
+etcsri/Q000986,Amar-Suen 13,,3,sux:dam[spouse]N sux:ki[place]N sux:aŋ[measure]V/t
+etcsri/Q000986,Amar-Suen 13,,4,sux:Amarsuenak[1]RN
+etcsri/Q000986,Amar-Suen 13,,5,sux:Enlil[1]DN
+etcsri/Q000986,Amar-Suen 13,,6,sux:Nibru[1]SN
+etcsri/Q000986,Amar-Suen 13,,7,sux:mu[name]N sux:pad[find]V/t
+etcsri/Q000986,Amar-Suen 13,,8,sux:saŋus[constant]V/i
+etcsri/Q000986,Amar-Suen 13,,9,sux:e[house]N sux:Enlil[1]DN
+etcsri/Q000986,Amar-Suen 13,,10,sux:lugal[king]N sux:kalag[strong]V/i
+etcsri/Q000986,Amar-Suen 13,,11,sux:lugal[king]N sux:Urim[1]SN
+etcsri/Q000986,Amar-Suen 13,,12,sux:lugal[king]N sux:anubda[quarter]N sux:limmu[four]NU
+etcsri/Q000986,Amar-Suen 13,,13,sux:argibil[structure]N
+etcsri/Q000986,Amar-Suen 13,,14,sux:Eŋipar[1]TN
+etcsri/Q000986,Amar-Suen 13,,15,sux:dim[create]V/t
+etcsri/Q000986,Amar-Suen 13,,16,sux:namtil[life]N

@@ -1,0 +1,12 @@
+id_text,text_name,version,l_no,text
+etcsri/Q001758,Šulgi 2030,,1,sux:lammar[deity]N
+etcsri/Q001758,Šulgi 2030,,2,sux:nin[lady]N
+etcsri/Q001758,Šulgi 2030,,3,sux:namtil[life]N
+etcsri/Q001758,Šulgi 2030,,4,sux:Šulgir[1]RN
+etcsri/Q001758,Šulgi 2030,,5,sux:nita[male]N sux:kalag[strong]V/i
+etcsri/Q001758,Šulgi 2030,,6,sux:lugal[king]N sux:Urim[1]SN
+etcsri/Q001758,Šulgi 2030,,7,sux:Bauninam[1]PN
+etcsri/Q001758,Šulgi 2030,,8,sux:zabardab[official]N
+etcsri/Q001758,Šulgi 2030,,9,sux:Urninŋirsu[3]PN
+etcsri/Q001758,Šulgi 2030,,10,sux:en[priest]N sux:ki[place]N sux:aŋ[measure]V/t sux:Nanše[1]DN
+etcsri/Q001758,Šulgi 2030,,11,sux:hili[wig]N sux:nammunus[femininity]N

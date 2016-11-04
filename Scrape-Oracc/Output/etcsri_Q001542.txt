@@ -1,0 +1,65 @@
+id_text,text_name,version,l_no,text
+etcsri/Q001542,Gudea Statue C,,i 1,sux:Ninŋešzidak[1]DN
+etcsri/Q001542,Gudea Statue C,,i 2,sux:diŋir[deity]N sux:Gudea[1]RN
+etcsri/Q001542,Gudea Statue C,,i 3,sux:ensik[ruler]N
+etcsri/Q001542,Gudea Statue C,,i 4,sux:Lagaš[1]SN
+etcsri/Q001542,Gudea Statue C,,i 5,sux:lu[person]N sux:Eanak[1]TN
+etcsri/Q001542,Gudea Statue C,,i 6,sux:du[build]V/t
+etcsri/Q001542,Gudea Statue C,,ii 1,sux:Inanak[1]DN
+etcsri/Q001542,Gudea Statue C,,ii 2,sux:nin[lady]N sux:kur[mountain]N
+etcsri/Q001542,Gudea Statue C,,ii 3,sux:nin[lady]N
+etcsri/Q001542,Gudea Statue C,,ii 4,sux:Gudea[1]RN
+etcsri/Q001542,Gudea Statue C,,ii 5,sux:mu[name]N sux:gilsa[treasure]N
+etcsri/Q001542,Gudea Statue C,,ii 6,sux:ensik[ruler]N
+etcsri/Q001542,Gudea Statue C,,ii 7,sux:Lagaš[1]SN
+etcsri/Q001542,Gudea Statue C,,ii 8,sux:lu[person]N sux:Eninnu[1]TN
+etcsri/Q001542,Gudea Statue C,,ii 9,sux:Ninŋirsuk[1]DN
+etcsri/Q001542,Gudea Statue C,,ii 10,sux:du[build]V/t
+etcsri/Q001542,Gudea Statue C,,ii 11,sux:ud[sun]N sux:Inanak[1]DN
+etcsri/Q001542,Gudea Statue C,,ii 12,sux:igi[eye]N sux:namtil[life]N
+etcsri/Q001542,Gudea Statue C,,ii 13,sux:bar[cvve]V/t
+etcsri/Q001542,Gudea Statue C,,ii 14,sux:Gudea[1]RN
+etcsri/Q001542,Gudea Statue C,,ii 15,sux:ensik[ruler]N
+etcsri/Q001542,Gudea Statue C,,ii 16,sux:Lagaš[1]SN
+etcsri/Q001542,Gudea Statue C,,ii 17,sux:ŋeštug[ear]N sux:daŋal[wide]V/i
+etcsri/Q001542,Gudea Statue C,,ii 18,sux:arad[slave]N sux:nin[lady]N
+etcsri/Q001542,Gudea Statue C,,ii 19,sux:ki[place]N sux:aŋ[measure]V/t
+etcsri/Q001542,Gudea Statue C,,ii 20,sux:bisaŋ[basket]N sux:ušub[brick-mold]N
+etcsri/Q001542,Gudea Statue C,,ii 21,sux:ŋeš[tree]N sux:hur[scratch]V/t
+etcsri/Q001542,Gudea Statue C,,ii 22,sux:kalak[trench]N
+etcsri/Q001542,Gudea Statue C,,ii 23,sux:urin[standard]N sux:mul[shine]V/i
+etcsri/Q001542,Gudea Statue C,,iii 1,sux:im[clay]N sux:ki[place]N sux:dadag[bright]V/i
+etcsri/Q001542,Gudea Statue C,,iii 2,sux:lu[mix]V/t
+etcsri/Q001542,Gudea Statue C,,iii 3,sux:šeg[brick]N
+etcsri/Q001542,Gudea Statue C,,iii 4,sux:ki[place]N sux:sikil[pure]V/i
+etcsri/Q001542,Gudea Statue C,,iii 5,sux:du[spread]V/t
+etcsri/Q001542,Gudea Statue C,,iii 6,sux:uš[foundation]N sux:kug[pure]V/i
+etcsri/Q001542,Gudea Statue C,,iii 7,sux:izi[fire]N sux:la[hang]V/t
+etcsri/Q001542,Gudea Statue C,,iii 8,sux:temen[foundation]N
+etcsri/Q001542,Gudea Statue C,,iii 9,sux:i[oil]N sux:ir[scent]N sux:nun[prince]N
+etcsri/Q001542,Gudea Statue C,,iii 10,sux:šu[hand]N sux:tag[touch]V/t sux:dug[speak]V/t
+etcsri/Q001542,Gudea Statue C,,iii 11,sux:e[house]N sux:ki[place]N sux:aŋ[measure]V/t
+etcsri/Q001542,Gudea Statue C,,iii 12,sux:Eanak[1]TN sux:šag[heart]N sux:Ŋirsu[1]SN
+etcsri/Q001542,Gudea Statue C,,iii 13,sux:du[build]V/t
+etcsri/Q001542,Gudea Statue C,,iii 14,sux:kur[mountain]N sux:Magan[1]GN
+etcsri/Q001542,Gudea Statue C,,iii 15,sux:esi[diorite]N sux:ed[ascend]V/i
+etcsri/Q001542,Gudea Statue C,,iii 16,sux:alan[statue]N
+etcsri/Q001542,Gudea Statue C,,iii 17,sux:utud[bear]V/t
+etcsri/Q001542,Gudea Statue C,,iii 18,sux:Gudea[1]RN
+etcsri/Q001542,Gudea Statue C,,iii 19,sux:lu[person]N sux:e[house]N sux:du[build]V/t
+etcsri/Q001542,Gudea Statue C,,iv 1,sux:namtil[life]N sux:sud[distant]V/i
+etcsri/Q001542,Gudea Statue C,,iv 2,sux:mu[name]N sux:še[call]V/t
+etcsri/Q001542,Gudea Statue C,,iv 3,sux:Eanak[1]TN
+etcsri/Q001542,Gudea Statue C,,iv 4,sux:kur[enter]V/i
+etcsri/Q001542,Gudea Statue C,,iv 5,sux:lu[person]N sux:Eanak[1]TN
+etcsri/Q001542,Gudea Statue C,,iv 6,sux:e[leave]V/i
+etcsri/Q001542,Gudea Statue C,,iv 7,sux:zir[break]V/t
+etcsri/Q001542,Gudea Statue C,,iv 8,sux:musara[inscription]N sux:šu[hand]N sux:ur[drag]V/t
+etcsri/Q001542,Gudea Statue C,,iv 9,sux:Inanak[1]DN
+etcsri/Q001542,Gudea Statue C,,iv 10,sux:nin[lady]N sux:kur[mountain]N
+etcsri/Q001542,Gudea Statue C,,iv 11,sux:saŋ[head]N sux:unken[assembly]N
+etcsri/Q001542,Gudea Statue C,,iv 12,sux:nam[fate]N sux:kud[cut]V/t
+etcsri/Q001542,Gudea Statue C,,iv 13,sux:guza[chair]N sux:gub[stand]V/i
+etcsri/Q001542,Gudea Statue C,,iv 14,sux:suhuš[foundation]N
+etcsri/Q001542,Gudea Statue C,,iv 15,sux:gin[establish]V/i
+etcsri/Q001542,Gudea Statue C,,iv 16,sux:numun[seed]N sux:til[complete]V/i

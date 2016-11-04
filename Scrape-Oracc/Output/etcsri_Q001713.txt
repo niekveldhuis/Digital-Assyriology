@@ -1,0 +1,12 @@
+id_text,text_name,version,l_no,text
+etcsri/Q001713,Šulgi 81,,1',sux:namtil[life]N
+etcsri/Q001713,Šulgi 81,,2',sux:Šulgir[1]RN
+etcsri/Q001713,Šulgi 81,,3',sux:nita[male]N sux:kalag[strong]V/i
+etcsri/Q001713,Šulgi 81,,4',sux:lugal[king]N sux:Urim[1]SN
+etcsri/Q001713,Šulgi 81,,5',sux:lugal[king]N sux:anubda[quarter]N sux:limmu[four]NU
+etcsri/Q001713,Šulgi 81,,6',sux:Eaniša[1]PN
+etcsri/Q001713,Šulgi 81,,7',sux:lukur[priestess]N sux:kaskal[way]N
+etcsri/Q001713,Šulgi 81,,8',sux:lukur[priestess]N sux:ki[place]N sux:aŋ[measure]V/t
+etcsri/Q001713,Šulgi 81,,9',sux:lugal[king]N
+etcsri/Q001713,Šulgi 81,,10',sux:utud[bear]V/t
+etcsri/Q001713,Šulgi 81,,11',sux:mudna[spouse]N

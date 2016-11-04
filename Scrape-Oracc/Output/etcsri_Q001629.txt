@@ -1,0 +1,10 @@
+id_text,text_name,version,l_no,text
+etcsri/Q001629,Ur-Namma 27,,1,sux:Inanak[1]DN
+etcsri/Q001629,Ur-Namma 27,,2,sux:nin[lady]N sux:Eanak[1]TN
+etcsri/Q001629,Ur-Namma 27,,3,sux:nin[lady]N
+etcsri/Q001629,Ur-Namma 27,,4,sux:Urnammak[1]RN
+etcsri/Q001629,Ur-Namma 27,,5,sux:nita[male]N sux:kalag[strong]V/i
+etcsri/Q001629,Ur-Namma 27,,6,sux:lugal[king]N sux:Urim[1]SN
+etcsri/Q001629,Ur-Namma 27,,7,sux:lugal[king]N sux:Kiengir[1]GN sux:Akkad[1]GN
+etcsri/Q001629,Ur-Namma 27,,8,sux:Iturungal[1]WN
+etcsri/Q001629,Ur-Namma 27,,9,sux:id[river]N sux:ki[place]N sux:aŋ[measure]V/t

@@ -1,0 +1,10 @@
+id_text,text_name,version,l_no,text
+etcsri/Q004320,Šulgi 2102add,,i 1,sux:Šulgir[1]RN
+etcsri/Q004320,Šulgi 2102add,,i 2,sux:nita[male]N sux:kalag[strong]V/i
+etcsri/Q004320,Šulgi 2102add,,i 3,sux:lugal[king]N sux:Urim[1]SN
+etcsri/Q004320,Šulgi 2102add,,i 4,sux:lugal[king]N sux:anubda[quarter]N sux:limmu[four]NU
+etcsri/Q004320,Šulgi 2102add,,ii 1,sux:Nannazišagŋal[1]PN
+etcsri/Q004320,Šulgi 2102add,,ii 2,sux:zabardab[official]N
+etcsri/Q004320,Šulgi 2102add,,ii 3,sux:kurunagal[chief-brewer]N
+etcsri/Q004320,Šulgi 2102add,,ii 4,sux:šagia[cup-bearer]N sux:mah[great]V/i
+etcsri/Q004320,Šulgi 2102add,,ii 5,sux:ugula[overseer]N sux:maššugidgid[diviner]N

@@ -1,0 +1,31 @@
+id_text,text_name,version,l_no,text
+etcsri/Q003641,Ur-Nanše 06a,,Caption 1; i 1,sux:Urnanše[1]RN
+etcsri/Q003641,Ur-Nanše 06a,,Caption 1; i 2,sux:dumu[child]N
+etcsri/Q003641,Ur-Nanše 06a,,Caption 1; i 3,sux:Gu-NI.DU[1]PN
+etcsri/Q003641,Ur-Nanše 06a,,Caption 1; ii 1,sux:ensik[ruler]N
+etcsri/Q003641,Ur-Nanše 06a,,Caption 1; ii 2,sux:Lagaš[1]SN
+etcsri/Q003641,Ur-Nanše 06a,,Caption 1; ii 3,sux:Ebgal[1]TN
+etcsri/Q003641,Ur-Nanše 06a,,Caption 1; ii 4,sux:du[build]V/t
+etcsri/Q003641,Ur-Nanše 06a,,Caption 3; 1,sux:Menbaragabzu[1]PN sux:dam[spouse]N
+etcsri/Q003641,Ur-Nanše 06a,,Caption 3; 2,sux:Urnanše[1]RN
+etcsri/Q003641,Ur-Nanše 06a,,Caption 3; 3,sux:ensik[ruler]N
+etcsri/Q003641,Ur-Nanše 06a,,Caption 3; 4,sux:Lagaš[1]SN
+etcsri/Q003641,Ur-Nanše 06a,,Caption 4; 1,sux:Ninusura[1]PN
+etcsri/Q003641,Ur-Nanše 06a,,Caption 4; 2,sux:dumu[child]N
+etcsri/Q003641,Ur-Nanše 06a,,Caption 4; 3,sux:Urnanše[1]RN
+etcsri/Q003641,Ur-Nanše 06a,,Caption 4; 4,sux:ensik[ruler]N
+etcsri/Q003641,Ur-Nanše 06a,,Caption 4; 5,sux:Lagaš[1]SN
+etcsri/Q003641,Ur-Nanše 06a,,Main text; i 1,sux:Urnanše[1]RN
+etcsri/Q003641,Ur-Nanše 06a,,Main text; i 2,sux:dumu[child]N
+etcsri/Q003641,Ur-Nanše 06a,,Main text; i 3,sux:Gu-NI.DU[1]PN
+etcsri/Q003641,Ur-Nanše 06a,,Main text; i 4,sux:ensik[ruler]N
+etcsri/Q003641,Ur-Nanše 06a,,Main text; i 5,sux:Lagaš[1]SN
+etcsri/Q003641,Ur-Nanše 06a,,Main text; i 6,sux:Ebgal[1]TN
+etcsri/Q003641,Ur-Nanše 06a,,Main text; i 7,sux:du[build]V/t
+etcsri/Q003641,Ur-Nanše 06a,,Main text; ii 1',sux:ma[ship]N sux:Dilmun[1]GN
+etcsri/Q003641,Ur-Nanše 06a,,Main text; iii 1,sux:kur[mountain]N
+etcsri/Q003641,Ur-Nanše 06a,,Main text; iii 2,sux:gu[neck]N sux:ŋeš[tree]N
+etcsri/Q003641,Ur-Nanše 06a,,Main text; iii 3,sux:ŋal[be]V/i
+etcsri/Q003641,Ur-Nanše 06a,,Main text; iii 9,sux:dab[seize]V/t
+etcsri/Q003641,Ur-Nanše 06a,,Main text; iv 3,sux:dun[dig]V/t
+etcsri/Q003641,Ur-Nanše 06a,,Main text; v 4,sux:Kindazid[1]DN

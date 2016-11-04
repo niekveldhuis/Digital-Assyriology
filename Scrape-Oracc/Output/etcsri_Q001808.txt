@@ -1,0 +1,17 @@
+id_text,text_name,version,l_no,text
+etcsri/Q001808,Amar-Suen 2008,,o 1,sux:Nungal[1]DN
+etcsri/Q001808,Amar-Suen 2008,,o 2,sux:nin[lady]N sux:ekur[prison]N
+etcsri/Q001808,Amar-Suen 2008,,o 3,sux:nin[lady]N sux:lu[person]N sux:til[live]V/i
+etcsri/Q001808,Amar-Suen 2008,,o 4,sux:nin[lady]N
+etcsri/Q001808,Amar-Suen 2008,,o 5,sux:namtil[life]N
+etcsri/Q001808,Amar-Suen 2008,,o 6,sux:Amarsuenak[1]RN
+etcsri/Q001808,Amar-Suen 2008,,o 7,sux:Nibru[1]SN
+etcsri/Q001808,Amar-Suen 2008,,o 8,sux:Enlil[1]DN
+etcsri/Q001808,Amar-Suen 2008,,o 9,sux:mu[name]N sux:pad[find]V/t
+etcsri/Q001808,Amar-Suen 2008,,o 10,sux:saŋus[constant]V/i
+etcsri/Q001808,Amar-Suen 2008,,r 1,sux:e[house]N sux:Enlil[1]DN
+etcsri/Q001808,Amar-Suen 2008,,r 2,sux:nita[male]N sux:kalag[strong]V/i
+etcsri/Q001808,Amar-Suen 2008,,r 3,sux:lugal[king]N sux:Urim[1]SN
+etcsri/Q001808,Amar-Suen 2008,,r 4,sux:lugal[king]N sux:anubda[quarter]N sux:limmu[four]NU
+etcsri/Q001808,Amar-Suen 2008,,r 5,sux:Puzurili[1]PN
+etcsri/Q001808,Amar-Suen 2008,,r 6,sux:šabra[administrator]N sux:Eugti[1]TN

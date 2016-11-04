@@ -1,0 +1,7 @@
+id_text,text_name,version,l_no,text
+etcsri/Q001260,Anonymous Nippur 02,,Fragment a; 1',sux:namtil[life]N
+etcsri/Q001260,Anonymous Nippur 02,,Fragment a; 2',sux:dam[spouse]N sux:dumu[child]N
+etcsri/Q001260,Anonymous Nippur 02,,Fragment a; 3',sux:a[water]N sux:ru[cvve]V/t
+etcsri/Q001260,Anonymous Nippur 02,,Fragment b; 1',sux:Ayabaraganak[1]PN
+etcsri/Q001260,Anonymous Nippur 02,,Fragment b; 2',sux:dam[spouse]N
+etcsri/Q001260,Anonymous Nippur 02,,Fragment b; 3',sux:hetila[vow]N

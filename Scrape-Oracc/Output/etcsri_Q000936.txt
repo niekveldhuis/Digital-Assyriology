@@ -1,0 +1,8 @@
+id_text,text_name,version,l_no,text
+etcsri/Q000936,Ur-Namma 04,,i 1,sux:Nanna[1]DN
+etcsri/Q000936,Ur-Namma 04,,i 2,sux:lugal[king]N
+etcsri/Q000936,Ur-Namma 04,,i 3,sux:Urnammak[1]RN
+etcsri/Q000936,Ur-Namma 04,,i 4,sux:lugal[king]N sux:Urim[1]SN
+etcsri/Q000936,Ur-Namma 04,,ii 1,sux:e[house]N
+etcsri/Q000936,Ur-Namma 04,,ii 2,sux:du[build]V/t
+etcsri/Q000936,Ur-Namma 04,,ii 3,sux:bad[wall]N sux:Urim[1]SN

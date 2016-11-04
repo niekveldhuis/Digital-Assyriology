@@ -1,0 +1,36 @@
+id_text,text_name,version,l_no,text
+etcsri/Q001094,En-metena 27,,i 1,sux:Ninŋirsuk[1]DN
+etcsri/Q001094,En-metena 27,,i 2,sux:ursaŋ[hero]N sux:Enlil[1]DN
+etcsri/Q001094,En-metena 27,,i 3,sux:Enmetenak[1]RN
+etcsri/Q001094,En-metena 27,,i 4,sux:ensik[ruler]N
+etcsri/Q001094,En-metena 27,,i 5,sux:Lagaš[1]SN
+etcsri/Q001094,En-metena 27,,i 6,sux:dumu[child]N sux:Enanatum[1]RN
+etcsri/Q001094,En-metena 27,,i 7,sux:ensik[ruler]N
+etcsri/Q001094,En-metena 27,,i 8,sux:Lagaš[1]SN
+etcsri/Q001094,En-metena 27,,i 9,sux:e[house]N sux:gal[big]V/i sux:Antasura[1]TN
+etcsri/Q001094,En-metena 27,,ii 1,sux:Ninŋirsuk[1]DN
+etcsri/Q001094,En-metena 27,,ii 2,sux:du[build]V/t
+etcsri/Q001094,En-metena 27,,ii 3,sux:kugsig[gold]N sux:kugbabbar[silver]N
+etcsri/Q001094,En-metena 27,,ii 4,sux:šu[hand]N sux:tag[touch]V/t
+etcsri/Q001094,En-metena 27,,ii 5,sux:kiri[orchard]N sux:ešag[chamber]N sux:du[build]V/t
+etcsri/Q001094,En-metena 27,,ii 6,sux:pu[well]N sux:šeg[brick]N sux:ur[bake]V/t
+etcsri/Q001094,En-metena 27,,ii 7,sux:sig[put]V/t
+etcsri/Q001094,En-metena 27,,ii 8,sux:ud[sun]N
+etcsri/Q001094,En-metena 27,,iii 1,sux:arad[slave]N
+etcsri/Q001094,En-metena 27,,iii 2,sux:Dudu[1]PN
+etcsri/Q001094,En-metena 27,,iii 3,sux:saŋŋa[official]N sux:Ninŋirsuk[1]DN
+etcsri/Q001094,En-metena 27,,iii 4,sux:bad[wall]N sux:dag[line]N sux:Sala[1]GN
+etcsri/Q001094,En-metena 27,,iii 5,sux:Guedenak[1]GN
+etcsri/Q001094,En-metena 27,,iii 6,sux:du[build]V/t
+etcsri/Q001094,En-metena 27,,iii 7,sux:e[house]N sux:igi[eye]N sux:il[raise]V/t sux:eden[plain]N
+etcsri/Q001094,En-metena 27,,iii 8,sux:mu[name]N sux:še[call]V/t
+etcsri/Q001094,En-metena 27,,iii 9,sux:bad[wall]N sux:kar[harbor]N sux:maʾaddir[ferryboat]N
+etcsri/Q001094,En-metena 27,,iii 10,sux:Ŋirsu[1]SN
+etcsri/Q001094,En-metena 27,,iv 1,sux:du[build]V/t
+etcsri/Q001094,En-metena 27,,iv 2,sux:en[lord]N sux:zišagŋal[encouragement]N
+etcsri/Q001094,En-metena 27,,iv 3,sux:mu[name]N sux:še[call]V/t
+etcsri/Q001094,En-metena 27,,iv 4,sux:diŋir[deity]N
+etcsri/Q001094,En-metena 27,,iv 5,sux:Šul-MUŠ×PA[1]DN
+etcsri/Q001094,En-metena 27,,iv 6,sux:namtil[life]N
+etcsri/Q001094,En-metena 27,,iv 7,sux:Ninŋirsuk[1]DN
+etcsri/Q001094,En-metena 27,,iv 8,sux:Eninnu[1]TN

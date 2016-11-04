@@ -1,0 +1,25 @@
+id_text,text_name,version,l_no,text
+etcsri/Q001547,Gudea Statue H,,i 1,sux:Bau[1]DN
+etcsri/Q001547,Gudea Statue H,,i 2,sux:munus[woman]N sux:sag[good]V/i
+etcsri/Q001547,Gudea Statue H,,i 3,sux:dumu[child]N sux:An[1]DN
+etcsri/Q001547,Gudea Statue H,,i 4,sux:nin[lady]N sux:Irikug[1]SN
+etcsri/Q001547,Gudea Statue H,,i 5,sux:nin[lady]N sux:heŋal[plenty]N sux:dumu[child]N sux:An[1]DN sux:kug[pure]V/i
+etcsri/Q001547,Gudea Statue H,,i 6,sux:nin[lady]N
+etcsri/Q001547,Gudea Statue H,,i 7,sux:Gudea[1]RN
+etcsri/Q001547,Gudea Statue H,,i 8,sux:ensik[ruler]N
+etcsri/Q001547,Gudea Statue H,,i 9,sux:Lagaš[1]SN
+etcsri/Q001547,Gudea Statue H,,ii 1,sux:ud[sun]N sux:Etarsirsir[1]TN
+etcsri/Q001547,Gudea Statue H,,ii 2,sux:e[house]N sux:ki[place]N sux:aŋ[measure]V/t
+etcsri/Q001547,Gudea Statue H,,ii 3,sux:e[house]N sux:hedu[ornament]N sux:Irikug[1]SN
+etcsri/Q001547,Gudea Statue H,,ii 4,sux:du[build]V/t
+etcsri/Q001547,Gudea Statue H,,ii 5,sux:kur[mountain]N sux:Magan[1]GN
+etcsri/Q001547,Gudea Statue H,,ii 6,sux:esi[diorite]N sux:ed[ascend]V/i
+etcsri/Q001547,Gudea Statue H,,ii 7,sux:alan[statue]N
+etcsri/Q001547,Gudea Statue H,,ii 8,sux:utud[bear]V/t
+etcsri/Q001547,Gudea Statue H,,iii 1,sux:nin[lady]N sux:dumu[child]N sux:ki[place]N sux:aŋ[measure]V/t sux:An[1]DN sux:kug[pure]V/i
+etcsri/Q001547,Gudea Statue H,,iii 2,sux:ama[mother]N sux:Bau[1]DN
+etcsri/Q001547,Gudea Statue H,,iii 3,sux:Etarsirsir[1]TN
+etcsri/Q001547,Gudea Statue H,,iii 4,sux:Gudea[1]RN
+etcsri/Q001547,Gudea Statue H,,iii 5,sux:namtil[life]N sux:šum[give]V/t
+etcsri/Q001547,Gudea Statue H,,iii 6,sux:mu[name]N sux:še[call]V/t
+etcsri/Q001547,Gudea Statue H,,iii 7,sux:e[house]N sux:Irikug[1]SN

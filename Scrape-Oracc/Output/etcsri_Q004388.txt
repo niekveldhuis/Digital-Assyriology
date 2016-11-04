@@ -1,0 +1,8 @@
+id_text,text_name,version,l_no,text
+etcsri/Q004388,Šu-Suen 2053add,,i 1,sux:Šusuen[1]RN
+etcsri/Q004388,Šu-Suen 2053add,,i 2,sux:lugal[king]N sux:kalag[strong]V/i
+etcsri/Q004388,Šu-Suen 2053add,,i 3,sux:lugal[king]N sux:Urim[1]SN
+etcsri/Q004388,Šu-Suen 2053add,,i 4,sux:lugal[king]N sux:anubda[quarter]N sux:limmu[four]NU
+etcsri/Q004388,Šu-Suen 2053add,,ii 1,sux:Igianakezu[1]PN sux:sukkal[secretary]N
+etcsri/Q004388,Šu-Suen 2053add,,ii 2,sux:dumu[child]N sux:Aradani[1]PN
+etcsri/Q004388,Šu-Suen 2053add,,ii 3,sux:dikud[judge]N

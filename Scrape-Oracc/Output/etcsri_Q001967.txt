@@ -1,0 +1,8 @@
+id_text,text_name,version,l_no,text
+etcsri/Q001967,Lipit-Eštar 2001,,1,sux:Lipiteštar[1]RN
+etcsri/Q001967,Lipit-Eštar 2001,,2,sux:lugal[king]N sux:kalag[strong]V/i
+etcsri/Q001967,Lipit-Eštar 2001,,3,sux:lugal[king]N sux:Urim[1]SN
+etcsri/Q001967,Lipit-Eštar 2001,,4,sux:Ayaduga[1]PN
+etcsri/Q001967,Lipit-Eštar 2001,,5,sux:gudugabzuk[priest]N sux:Nanna[1]DN
+etcsri/Q001967,Lipit-Eštar 2001,,6,sux:u[and]CNJ sux:šitaʾeša[priest]N
+etcsri/Q001967,Lipit-Eštar 2001,,7,sux:dumu[child]N sux:Dugazida[1]PN

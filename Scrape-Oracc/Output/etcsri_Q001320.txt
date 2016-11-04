@@ -1,0 +1,5 @@
+id_text,text_name,version,l_no,text
+etcsri/Q001320,Anonymous Sippar 3,,1,sux:KU[1]DN
+etcsri/Q001320,Anonymous Sippar 3,,2,sux:Men[1]PN
+etcsri/Q001320,Anonymous Sippar 3,,1',sux:namtil[life]N
+etcsri/Q001320,Anonymous Sippar 3,,2',sux:dam[spouse]N sux:dumu[child]N

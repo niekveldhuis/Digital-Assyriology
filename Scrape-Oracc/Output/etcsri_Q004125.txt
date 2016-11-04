@@ -1,0 +1,9 @@
+id_text,text_name,version,l_no,text
+etcsri/Q004125,Amar-Suen 2023add,,i 1,sux:Amarsuenak[1]RN
+etcsri/Q004125,Amar-Suen 2023add,,i 2,sux:lugal[king]N sux:kalag[strong]V/i
+etcsri/Q004125,Amar-Suen 2023add,,i 3,sux:lugal[king]N sux:Urim[1]SN
+etcsri/Q004125,Amar-Suen 2023add,,i 4,sux:lugal[king]N sux:anubda[quarter]N sux:limmu[four]NU
+etcsri/Q004125,Amar-Suen 2023add,,ii 1,sux:Baddari[1]PN
+etcsri/Q004125,Amar-Suen 2023add,,ii 2,sux:nubanda[overseer]N
+etcsri/Q004125,Amar-Suen 2023add,,ii 3,sux:dumudaba[worker]N
+etcsri/Q004125,Amar-Suen 2023add,,ii 4,sux:dumu[child]N sux:Gulum[1]PN

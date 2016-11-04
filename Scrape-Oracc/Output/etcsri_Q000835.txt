@@ -1,0 +1,13 @@
+id_text,text_name,version,l_no,text
+etcsri/Q000835,Sargon 16,,1,sux:Enheduanak[1]PN
+etcsri/Q000835,Sargon 16,,2,sux:zirru[priestess]N
+etcsri/Q000835,Sargon 16,,3,sux:dam[spouse]N sux:Nanna[1]DN
+etcsri/Q000835,Sargon 16,,4,sux:dumu[child]N
+etcsri/Q000835,Sargon 16,,5,sux:Šarrukin[1]RN
+etcsri/Q000835,Sargon 16,,6,sux:lugal[king]N
+etcsri/Q000835,Sargon 16,,7,sux:kiš[totality]N
+etcsri/Q000835,Sargon 16,,8,sux:e[house]N sux:Inanak-ZAZA[1]DN
+etcsri/Q000835,Sargon 16,,9,sux:Urim[1]SN
+etcsri/Q000835,Sargon 16,,10,sux:baragsiga[shrine]N
+etcsri/Q000835,Sargon 16,,11,sux:du[build]V/t
+etcsri/Q000835,Sargon 16,,12,sux:barag[dais]N sux:banšur[table]N sux:An[1]DN

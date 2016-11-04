@@ -1,0 +1,33 @@
+id_text,text_name,version,l_no,text
+etcsri/Q001063,E-anatum 09,,i 1,sux:Eanatum[1]RN
+etcsri/Q001063,E-anatum 09,,i 2,sux:ensik[ruler]N
+etcsri/Q001063,E-anatum 09,,i 3,sux:Lagaš[1]SN
+etcsri/Q001063,E-anatum 09,,i 4,sux:a[arm]N sux:šum[give]V/t
+etcsri/Q001063,E-anatum 09,,i 5,sux:Enlil[1]DN
+etcsri/Q001063,E-anatum 09,,i 6,sux:ga[milk]N sux:zid[right]V/i sux:gu[eat]V/t
+etcsri/Q001063,E-anatum 09,,i 7,sux:Ninhursaŋak[1]DN
+etcsri/Q001063,E-anatum 09,,i 8,sux:mu[name]N sux:pad[find]V/t
+etcsri/Q001063,E-anatum 09,,i 9,sux:Ninŋirsuk[1]DN
+etcsri/Q001063,E-anatum 09,,i 10,sux:šag[heart]N sux:pad[find]V/t
+etcsri/Q001063,E-anatum 09,,i 11,sux:Nanše[1]DN
+etcsri/Q001063,E-anatum 09,,ii 1,sux:dumu[child]N sux:Ayakurgal[1]RN
+etcsri/Q001063,E-anatum 09,,ii 2,sux:ensik[ruler]N
+etcsri/Q001063,E-anatum 09,,ii 3,sux:Lagaš[1]SN
+etcsri/Q001063,E-anatum 09,,ii 4,sux:kur[mountain]N sux:Elam[1]GN
+etcsri/Q001063,E-anatum 09,,ii 5,sux:agakar[conqueror]N sux:sig[put]V/t
+etcsri/Q001063,E-anatum 09,,ii 6,sux:Arawa[1]SN
+etcsri/Q001063,E-anatum 09,,ii 7,sux:agakar[conqueror]N sux:sig[put]V/t
+etcsri/Q001063,E-anatum 09,,ii 8,sux:Umma[1]SN
+etcsri/Q001063,E-anatum 09,,ii 9,sux:agakar[conqueror]N sux:sig[put]V/t
+etcsri/Q001063,E-anatum 09,,ii 10,sux:Urim[1]SN
+etcsri/Q001063,E-anatum 09,,ii 11,sux:agakar[conqueror]N sux:sig[put]V/t
+etcsri/Q001063,E-anatum 09,,ii 12,sux:ud[sun]N
+etcsri/Q001063,E-anatum 09,,iii 1,sux:Ninŋirsuk[1]DN
+etcsri/Q001063,E-anatum 09,,iii 2,sux:kisal[courtyard]N sux:daŋal[wide]V/i
+etcsri/Q001063,E-anatum 09,,iii 3,sux:pu[well]N sux:šeg[brick]N sux:ur[bake]V/t
+etcsri/Q001063,E-anatum 09,,iii 4,sux:du[build]V/t
+etcsri/Q001063,E-anatum 09,,iii 5,sux:diŋir[deity]N
+etcsri/Q001063,E-anatum 09,,iii 6,sux:Šul-MUŠ×PA[1]DN
+etcsri/Q001063,E-anatum 09,,iii 7,sux:ud[sun]N
+etcsri/Q001063,E-anatum 09,,iii 8,sux:Ninŋirsuk[1]DN
+etcsri/Q001063,E-anatum 09,,iii 9,sux:Eanatum[1]RN

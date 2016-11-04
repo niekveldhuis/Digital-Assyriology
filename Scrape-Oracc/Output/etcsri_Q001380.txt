@@ -1,0 +1,82 @@
+id_text,text_name,version,l_no,text
+etcsri/Q001380,Giša-kidu 2,,1,sux:ud[sun]N sux:Šara[1]DN
+etcsri/Q001380,Giša-kidu 2,,2,sux:Enlil[1]DN
+etcsri/Q001380,Giša-kidu 2,,3,sux:arazu[supplication]N sux:ur[convulsed]V/i sux:šag[heart]N
+etcsri/Q001380,Giša-kidu 2,,4,sux:dug[speak]V/t
+etcsri/Q001380,Giša-kidu 2,,5,sux:ŋen[go]V/i
+etcsri/Q001380,Giša-kidu 2,,6,sux:Ŋišakidug[1]RN sux:sipad[shepherd]N sux:ki[place]N sux:aŋ[measure]V/t
+etcsri/Q001380,Giša-kidu 2,,7,sux:Šara[1]DN
+etcsri/Q001380,Giša-kidu 2,,8,sux:utud[bear]V/t
+etcsri/Q001380,Giša-kidu 2,,9,sux:nirŋal[authoritative]V/i sux:saŋ[head]N sux:huš[reddish]V/i sux:Kiengir[1]GN
+etcsri/Q001380,Giša-kidu 2,,10,sux:gabaŋal[forceful]AJ sux:gi[turn]V/i sux:kur[mountain]N
+etcsri/Q001380,Giša-kidu 2,,11,sux:en[priest]N sux:zag[side]N sux:kešed[bind]V/t sux:Ninura[1]DN
+etcsri/Q001380,Giša-kidu 2,,12,sux:ama[mother]N sux:šag[heart]N sux:kušu[tired]V/i sux:Enkik[1]DN
+etcsri/Q001380,Giša-kidu 2,,13,sux:guli[friend]N sux:ki[place]N sux:aŋ[measure]V/t
+etcsri/Q001380,Giša-kidu 2,,14,sux:Ištaran[1]DN
+etcsri/Q001380,Giša-kidu 2,,15,sux:ensik[ruler]N sux:kalag[strong]V/i
+etcsri/Q001380,Giša-kidu 2,,16,sux:Enlil[1]DN
+etcsri/Q001380,Giša-kidu 2,,17,sux:lugal[king]N sux:mu[name]N sux:pad[find]V/t sux:Inanak[1]DN
+etcsri/Q001380,Giša-kidu 2,,18,sux:eg[levee]N sux:ak[do]V/t
+etcsri/Q001380,Giša-kidu 2,,19,sux:na[stone]N sux:du[build]V/t
+etcsri/Q001380,Giša-kidu 2,,20,sux:induba[boundary]N
+etcsri/Q001380,Giša-kidu 2,,21,sux:pa[branch]N sux:e[leave]V/i
+etcsri/Q001380,Giša-kidu 2,,22,sux:narua[stele]N
+etcsri/Q001380,Giša-kidu 2,,23,sux:ki[place]N sux:gi[turn]V/i
+etcsri/Q001380,Giša-kidu 2,,25,sux:Šara[1]DN
+etcsri/Q001380,Giša-kidu 2,,26,sux:zag[side]N sux:na[stone]N sux:du[build]V/t sux:Šara[1]DN
+etcsri/Q001380,Giša-kidu 2,,27,sux:Idmah[1]WN
+etcsri/Q001380,Giša-kidu 2,,28,sux:Idgabaa[1]WN
+etcsri/Q001380,Giša-kidu 2,,29,sux:nindan[pole]N
+etcsri/Q001380,Giša-kidu 2,,30,sux:zag[side]N sux:na[stone]N sux:du[build]V/t sux:Šara[1]DN
+etcsri/Q001380,Giša-kidu 2,,31,sux:Idgabaa[1]WN
+etcsri/Q001380,Giša-kidu 2,,34,sux:zag[side]N sux:na[stone]N sux:du[build]V/t sux:Šara[1]DN
+etcsri/Q001380,Giša-kidu 2,,38,sux:zag[side]N sux:na[stone]N sux:du[build]V/t sux:Šara[1]DN
+etcsri/Q001380,Giša-kidu 2,,39,sux:HAR-mah[1]GN
+etcsri/Q001380,Giša-kidu 2,,40,sux:bad[wall]N
+etcsri/Q001380,Giša-kidu 2,,41,sux:Durŋara[1]GN
+etcsri/Q001380,Giša-kidu 2,,42,sux:nindan[pole]N
+etcsri/Q001380,Giša-kidu 2,,43,sux:zag[side]N sux:na[stone]N sux:du[build]V/t sux:Šara[1]DN
+etcsri/Q001380,Giša-kidu 2,,44,sux:bad[wall]N sux:dag[line]N
+etcsri/Q001380,Giša-kidu 2,,45,sux:Durŋara[1]GN
+etcsri/Q001380,Giša-kidu 2,,46,sux:Naŋnanšek[1]GN
+etcsri/Q001380,Giša-kidu 2,,47,sux:nindan[pole]N
+etcsri/Q001380,Giša-kidu 2,,48,sux:zag[side]N sux:na[stone]N sux:du[build]V/t sux:Šara[1]DN
+etcsri/Q001380,Giša-kidu 2,,49,sux:Naŋnanšek[1]GN
+etcsri/Q001380,Giša-kidu 2,,50,sux:Idgibil[1]WN
+etcsri/Q001380,Giša-kidu 2,,51,sux:lal[small]V/i sux:nindan[pole]N
+etcsri/Q001380,Giša-kidu 2,,52,sux:zag[side]N sux:na[stone]N sux:du[build]V/t sux:Šara[1]DN
+etcsri/Q001380,Giša-kidu 2,,53,sux:Idgibil[1]WN
+etcsri/Q001380,Giša-kidu 2,,54,sux:Edimgalabzukak[1]TN
+etcsri/Q001380,Giša-kidu 2,,55,sux:nindan[pole]N
+etcsri/Q001380,Giša-kidu 2,,56,sux:zag[side]N sux:na[stone]N sux:du[build]V/t sux:Šara[1]DN
+etcsri/Q001380,Giša-kidu 2,,57,sux:Edimgalabzukak[1]TN
+etcsri/Q001380,Giša-kidu 2,,58,sux:Murgušarak[1]GN
+etcsri/Q001380,Giša-kidu 2,,59,sux:nindan[pole]N
+etcsri/Q001380,Giša-kidu 2,,60,sux:zag[side]N sux:na[stone]N sux:du[build]V/t sux:Šara[1]DN
+etcsri/Q001380,Giša-kidu 2,,61,sux:Murgušarak[1]GN
+etcsri/Q001380,Giša-kidu 2,,62,sux:X-Ištaran[1]GN
+etcsri/Q001380,Giša-kidu 2,,63,sux:nindan[pole]N
+etcsri/Q001380,Giša-kidu 2,,64,sux:zag[side]N sux:na[stone]N sux:du[build]V/t sux:Šara[1]DN
+etcsri/Q001380,Giša-kidu 2,,65,sux:X-Ištaran[1]GN
+etcsri/Q001380,Giša-kidu 2,,66,sux:Anzagar[1]GN
+etcsri/Q001380,Giša-kidu 2,,67,sux:nindan[pole]N
+etcsri/Q001380,Giša-kidu 2,,68,sux:zag[side]N sux:na[stone]N sux:du[build]V/t sux:Šara[1]DN
+etcsri/Q001380,Giša-kidu 2,,69,sux:Anzagar[1]GN
+etcsri/Q001380,Giša-kidu 2,,71,sux:nindan[pole]N
+etcsri/Q001380,Giša-kidu 2,,72,sux:zag[side]N sux:na[stone]N sux:du[build]V/t sux:Šara[1]DN
+etcsri/Q001380,Giša-kidu 2,,77,sux:induba[boundary]N
+etcsri/Q001380,Giša-kidu 2,,78,sux:dib[pass]V/i
+etcsri/Q001380,Giša-kidu 2,,79,sux:narua[stele]N
+etcsri/Q001380,Giša-kidu 2,,80,sux:ki[place]N sux:gi[turn]V/i
+etcsri/Q001380,Giša-kidu 2,,81,sux:inim[word]N sux:Ištaran[1]DN
+etcsri/Q001380,Giša-kidu 2,,82,sux:ki[place]N sux:na[stone]N sux:du[build]V/t
+etcsri/Q001380,Giša-kidu 2,,83,sux:lu[person]N sux:kur[mountain]N
+etcsri/Q001380,Giša-kidu 2,,84,sux:ki[place]N sux:gul[destroy]V/t
+etcsri/Q001380,Giša-kidu 2,,85,sux:šu[hand]N sux:te[approach]V/i
+etcsri/Q001380,Giša-kidu 2,,86,sux:zah[disappear]V/i
+etcsri/Q001380,Giša-kidu 2,,87,sux:iri[city]N
+etcsri/Q001380,Giša-kidu 2,,88,sux:ki[place]N sux:muš[snake]N sux:hulu[bad]V/t
+etcsri/Q001380,Giša-kidu 2,,89,sux:saŋ[head]N sux:il[raise]V/t sux:tuku[acquire]V/t
+etcsri/Q001380,Giša-kidu 2,,90,sux:egal[palace]N sux:hulu[bad]V/t
+etcsri/Q001380,Giša-kidu 2,,91,sux:ensik[ruler]N
+etcsri/Q001380,Giša-kidu 2,,92,sux:zu[tooth]N sux:gig[sick]V/i

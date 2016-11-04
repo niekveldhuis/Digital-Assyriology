@@ -1,0 +1,29 @@
+id_text,text_name,version,l_no,text
+etcsri/Q001000,Šu-Suen 17,,1,sux:Šara[1]DN
+etcsri/Q001000,Šu-Suen 17,,2,sux:nirŋal[authoritative]V/i sux:An[1]DN
+etcsri/Q001000,Šu-Suen 17,,3,sux:dumu[child]N sux:ki[place]N sux:aŋ[measure]V/t
+etcsri/Q001000,Šu-Suen 17,,4,sux:Inanak[1]DN
+etcsri/Q001000,Šu-Suen 17,,5,sux:adda[father]N
+etcsri/Q001000,Šu-Suen 17,,6,sux:Šusuen[1]RN
+etcsri/Q001000,Šu-Suen 17,,7,sux:išib[priest]N sux:An[1]DN
+etcsri/Q001000,Šu-Suen 17,,8,sux:gudug[priest]N sux:šu[hand]N sux:dadag[bright]V/i
+etcsri/Q001000,Šu-Suen 17,,9,sux:Enlil[1]DN
+etcsri/Q001000,Šu-Suen 17,,10,sux:Ninlil[1]DN
+etcsri/Q001000,Šu-Suen 17,,11,sux:u[and]CNJ sux:diŋir[deity]N sux:gal[big]V/i
+etcsri/Q001000,Šu-Suen 17,,12,sux:lugal[king]N sux:Enlil[1]DN
+etcsri/Q001000,Šu-Suen 17,,13,sux:ki[place]N sux:aŋ[measure]V/t
+etcsri/Q001000,Šu-Suen 17,,14,sux:šag[heart]N
+etcsri/Q001000,Šu-Suen 17,,15,sux:pad[find]V/t
+etcsri/Q001000,Šu-Suen 17,,16,sux:sipad[shepherd]N sux:kalam[land]N
+etcsri/Q001000,Šu-Suen 17,,17,sux:lugal[king]N sux:kalag[strong]V/i
+etcsri/Q001000,Šu-Suen 17,,18,sux:lugal[king]N sux:Urim[1]SN
+etcsri/Q001000,Šu-Suen 17,,19,sux:lugal[king]N sux:anubda[quarter]N sux:limmu[four]NU
+etcsri/Q001000,Šu-Suen 17,,20,sux:ud[sun]N sux:bad[wall]N sux:Martu[1]EN
+etcsri/Q001000,Šu-Suen 17,,21-22,sux:Muriqtidnim[1]GN
+etcsri/Q001000,Šu-Suen 17,,23,sux:du[build]V/t
+etcsri/Q001000,Šu-Suen 17,,24,sux:u[and]CNJ sux:ne[strength]N sux:Martu[1]EN
+etcsri/Q001000,Šu-Suen 17,,25,sux:mada[land]N
+etcsri/Q001000,Šu-Suen 17,,26,sux:gi[turn]V/i
+etcsri/Q001000,Šu-Suen 17,,27,sux:Ešagepada[1]TN
+etcsri/Q001000,Šu-Suen 17,,28,sux:e[house]N sux:ki[place]N sux:aŋ[measure]V/t
+etcsri/Q001000,Šu-Suen 17,,29,sux:namtil[life]N

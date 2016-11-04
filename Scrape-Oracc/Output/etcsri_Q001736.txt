@@ -1,0 +1,7 @@
+id_text,text_name,version,l_no,text
+etcsri/Q001736,Šulgi 2008,,i 1,sux:Šulgir[1]RN
+etcsri/Q001736,Šulgi 2008,,i 2,sux:nita[male]N sux:kalag[strong]V/i
+etcsri/Q001736,Šulgi 2008,,i 3,sux:lugal[king]N sux:Urim[1]SN
+etcsri/Q001736,Šulgi 2008,,ii 1,sux:Abba[1]PN sux:dubsar[scribe]N
+etcsri/Q001736,Šulgi 2008,,ii 2,sux:dumu[child]N sux:Iturilum[1]PN
+etcsri/Q001736,Šulgi 2008,,ii 3,sux:ensik[ruler]N sux:Babylon[1]SN

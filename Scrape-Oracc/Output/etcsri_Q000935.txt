@@ -1,0 +1,4 @@
+id_text,text_name,version,l_no,text
+etcsri/Q000935,Ur-Namma 02,,1,sux:Urnammak[1]RN
+etcsri/Q000935,Ur-Namma 02,,2,sux:lugal[king]N sux:Urim[1]SN
+etcsri/Q000935,Ur-Namma 02,,3,sux:lu[person]N sux:e[house]N sux:Nanna[1]DN

@@ -1,0 +1,9 @@
+id_text,text_name,version,l_no,text
+etcsri/Q000987,Amar-Suen 14,,1,sux:Inanak[1]DN
+etcsri/Q000987,Amar-Suen 14,,2,sux:nin[lady]N sux:usan[evening]N
+etcsri/Q000987,Amar-Suen 14,,3,sux:nin[lady]N
+etcsri/Q000987,Amar-Suen 14,,4,sux:Amarsuenak[1]RN
+etcsri/Q000987,Amar-Suen 14,,5,sux:nita[male]N sux:kalag[strong]V/i
+etcsri/Q000987,Amar-Suen 14,,6,sux:lugal[king]N sux:Urim[1]SN
+etcsri/Q000987,Amar-Suen 14,,7,sux:lugal[king]N sux:anubda[quarter]N sux:limmu[four]NU
+etcsri/Q000987,Amar-Suen 14,,8,sux:e[house]N

@@ -1,0 +1,58 @@
+id_text,text_name,version,l_no,text
+etcsri/Q000994,Šu-Suen 07,,shoulder 1,sux:Šusuen[1]RN
+etcsri/Q000994,Šu-Suen 07,,shoulder 2,sux:ki[place]N sux:aŋ[measure]V/t sux:Enlil[1]DN
+etcsri/Q000994,Šu-Suen 07,,shoulder 3,sux:lugal[king]N sux:Enlil[1]DN
+etcsri/Q000994,Šu-Suen 07,,shoulder 4,sux:šag[heart]N
+etcsri/Q000994,Šu-Suen 07,,shoulder 5,sux:pad[find]V/t
+etcsri/Q000994,Šu-Suen 07,,shoulder 6,sux:lugal[king]N sux:kalag[strong]V/i
+etcsri/Q000994,Šu-Suen 07,,shoulder 7,sux:lugal[king]N sux:Urim[1]SN
+etcsri/Q000994,Šu-Suen 07,,shoulder 8,sux:lugal[king]N sux:anubda[quarter]N sux:limmu[four]NU
+etcsri/Q000994,Šu-Suen 07,,shoulder 9,sux:namtil[life]N
+etcsri/Q000994,Šu-Suen 07,,shoulder 10,sux:a[water]N sux:ru[cvve]V/t
+etcsri/Q000994,Šu-Suen 07,,colophon 1; 1,sux:musara[inscription]N
+etcsri/Q000994,Šu-Suen 07,,colophon 1; 2,sux:zag[side]N sux:zid[right]V/i
+etcsri/Q000994,Šu-Suen 07,,colophon 1; 3,sux:alan[statue]N sux:na[stone]N
+etcsri/Q000994,Šu-Suen 07,,socle 1,sux:sila[unit]N sux:ninda[bread]N
+etcsri/Q000994,Šu-Suen 07,,socle 2,sux:sila[unit]N sux:lal[syrup]N
+etcsri/Q000994,Šu-Suen 07,,socle 3,sux:sila[unit]N sux:kurun[beer]N
+etcsri/Q000994,Šu-Suen 07,,socle 4,sux:sila[unit]N sux:kaš[beer]N
+etcsri/Q000994,Šu-Suen 07,,socle 5,sux:malaku[~meat]N sux:udu[sheep]N
+etcsri/Q000994,Šu-Suen 07,,socle 6,sux:itud[moon]N
+etcsri/Q000994,Šu-Suen 07,,socle 7,sux:banšur[table]N
+etcsri/Q000994,Šu-Suen 07,,socle 8,sux:Enlil[1]DN
+etcsri/Q000994,Šu-Suen 07,,socle 9,sux:lugal[king]N
+etcsri/Q000994,Šu-Suen 07,,socle 10,sux:tug[textile]N
+etcsri/Q000994,Šu-Suen 07,,socle 11,sux:sila[unit]N sux:i[oil]N sux:dug[good]V/i
+etcsri/Q000994,Šu-Suen 07,,socle 12,sux:itud[moon]N
+etcsri/Q000994,Šu-Suen 07,,socle 13,sux:e[house]N sux:Ninlil[1]DN
+etcsri/Q000994,Šu-Suen 07,,socle 14,sux:nin[lady]N
+etcsri/Q000994,Šu-Suen 07,,socle 15,sux:Šusuen[1]RN
+etcsri/Q000994,Šu-Suen 07,,socle 16,sux:ki[place]N sux:aŋ[measure]V/t sux:Enlil[1]DN
+etcsri/Q000994,Šu-Suen 07,,socle 17,sux:lugal[king]N sux:Enlil[1]DN
+etcsri/Q000994,Šu-Suen 07,,socle 18,sux:ki[place]N sux:aŋ[measure]V/t sux:šag[heart]N
+etcsri/Q000994,Šu-Suen 07,,socle 19,sux:pad[find]V/t
+etcsri/Q000994,Šu-Suen 07,,socle 20,sux:lugal[king]N sux:kalag[strong]V/i
+etcsri/Q000994,Šu-Suen 07,,socle 21,sux:lugal[king]N sux:Urim[1]SN
+etcsri/Q000994,Šu-Suen 07,,socle 22,sux:lugal[king]N sux:anubda[quarter]N sux:limmu[four]NU
+etcsri/Q000994,Šu-Suen 07,,socle 23,sux:ba[allot]V/t
+etcsri/Q000994,Šu-Suen 07,,socle 24,sux:lu[person]N sux:ud[sun]N sux:name[somebody]XP
+etcsri/Q000994,Šu-Suen 07,,socle 26,sux:kud[cut]V/t
+etcsri/Q000994,Šu-Suen 07,,socle 27,sux:lu[person]N
+etcsri/Q000994,Šu-Suen 07,,socle 28,sux:lugal[king]N sux:me[be]V/i
+etcsri/Q000994,Šu-Suen 07,,socle 29,sux:en[lord]N sux:me[be]V/i
+etcsri/Q000994,Šu-Suen 07,,socle 30,sux:ensik[ruler]N sux:me[be]V/i
+etcsri/Q000994,Šu-Suen 07,,socle 31,sux:saŋŋa[official]N sux:me[be]V/i
+etcsri/Q000994,Šu-Suen 07,,socle 32,sux:gudug[priest]N sux:maš[goat]N sux:pad[find]V/t sux:me[be]V/i
+etcsri/Q000994,Šu-Suen 07,,socle 33,sux:lu[person]N
+etcsri/Q000994,Šu-Suen 07,,socle 34,sux:Enlil[1]DN
+etcsri/Q000994,Šu-Suen 07,,socle 35,sux:Ninlil[1]DN
+etcsri/Q000994,Šu-Suen 07,,socle 36,sux:nam[fate]N sux:kud[cut]V/t
+etcsri/Q000994,Šu-Suen 07,,socle 37,sux:ibila[heir]N sux:tuku[acquire]V/t
+etcsri/Q000994,Šu-Suen 07,,socle 38,sux:mu[name]N sux:kalam[land]N sux:ŋar[place]V/t
+etcsri/Q000994,Šu-Suen 07,,socle 39,sux:lu[person]N sux:saŋ[head]N
+etcsri/Q000994,Šu-Suen 07,,socle 40,sux:kur[different]V/i
+etcsri/Q000994,Šu-Suen 07,,socle 41,sux:igi[face]N sux:Enlil[1]DN
+etcsri/Q000994,Šu-Suen 07,,socle 42,sux:Ninlil[1]DN
+etcsri/Q000994,Šu-Suen 07,,socle 43,sux:sag[good]V/i
+etcsri/Q000994,Šu-Suen 07,,colophon 2; 1,sux:musara[inscription]N
+etcsri/Q000994,Šu-Suen 07,,colophon 2; 2,sux:kigal[platform]N sux:Šusuen[1]RN

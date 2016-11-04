@@ -1,0 +1,11 @@
+id_text,text_name,version,l_no,text
+etcsri/Q001097,En-metena 14,,1,sux:Ninŋirsuk[1]DN
+etcsri/Q001097,En-metena 14,,2,sux:ursaŋ[hero]N sux:Enlil[1]DN
+etcsri/Q001097,En-metena 14,,3,sux:Enmetenak[1]RN
+etcsri/Q001097,En-metena 14,,4,sux:ensik[ruler]N
+etcsri/Q001097,En-metena 14,,5,sux:Lagaš[1]SN
+etcsri/Q001097,En-metena 14,,6,sux:e[house]N sux:gigir[chariot]N
+etcsri/Q001097,En-metena 14,,7,sux:du[build]V/t
+etcsri/Q001097,En-metena 14,,8,sux:Enmetenak[1]RN
+etcsri/Q001097,En-metena 14,,9,sux:lu[person]N sux:e[house]N sux:gigir[chariot]N sux:du[build]V/t
+etcsri/Q001097,En-metena 14,,10,sux:diŋir[deity]N

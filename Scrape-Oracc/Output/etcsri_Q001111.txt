@@ -1,0 +1,19 @@
+id_text,text_name,version,l_no,text
+etcsri/Q001111,En-metena 15,,i 1,sux:Ninŋirsuk[1]DN
+etcsri/Q001111,En-metena 15,,i 2,sux:ursaŋ[hero]N sux:Enlil[1]DN
+etcsri/Q001111,En-metena 15,,i 3,sux:Enmetenak[1]RN
+etcsri/Q001111,En-metena 15,,i 4,sux:ensik[ruler]N
+etcsri/Q001111,En-metena 15,,i 5,sux:Lagaš[1]SN
+etcsri/Q001111,En-metena 15,,ii 1,sux:šag[heart]N sux:pad[find]V/t
+etcsri/Q001111,En-metena 15,,ii 2,sux:Nanše[1]DN
+etcsri/Q001111,En-metena 15,,ii 3,sux:ensikgal[governor]N
+etcsri/Q001111,En-metena 15,,ii 4,sux:Ninŋirsuk[1]DN
+etcsri/Q001111,En-metena 15,,ii 5,sux:ŋeštug[ear]N sux:šum[give]V/t
+etcsri/Q001111,En-metena 15,,ii 6,sux:Enkik[1]DN
+etcsri/Q001111,En-metena 15,,iii 1,sux:dumu[child]N sux:Enanatum[1]RN
+etcsri/Q001111,En-metena 15,,iii 2,sux:ensik[ruler]N
+etcsri/Q001111,En-metena 15,,iii 3,sux:Lagaš[1]SN
+etcsri/Q001111,En-metena 15,,iii 4,sux:lugal[king]N sux:ki[place]N sux:aŋ[measure]V/t
+etcsri/Q001111,En-metena 15,,iv 1,sux:Ninŋirsuk[1]DN
+etcsri/Q001111,En-metena 15,,iv 2,sux:kiri[orchard]N sux:ešag[chamber]N
+etcsri/Q001111,En-metena 15,,iv 3,sux:du[build]V/t

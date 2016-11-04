@@ -1,0 +1,10 @@
+id_text,text_name,version,l_no,text
+etcsri/Q001081,En-anatum I 12,,ii 1',sux:kisal[courtyard]N sux:Lugalurubak[1]DN
+etcsri/Q001081,En-anatum I 12,,ii 2',sux:sa[equal]V/t sux:dug[speak]V/t
+etcsri/Q001081,En-anatum I 12,,ii 3',sux:Enanatum[1]RN
+etcsri/Q001081,En-anatum I 12,,ii 4',sux:Ŋeštinanak[1]DN
+etcsri/Q001081,En-anatum I 12,,iii 1',sux:uzud[goat]N sux:zid[right]V/i
+etcsri/Q001081,En-anatum I 12,,iii 2',sux:maš[goat]N sux:zid[right]V/i sux:tum[lead]V/t
+etcsri/Q001081,En-anatum I 12,,iii 3',sux:ab[cow]N sux:zid[right]V/i
+etcsri/Q001081,En-anatum I 12,,iii 4',sux:amar[young]N sux:zid[right]V/i sux:tum[lead]V/t
+etcsri/Q001081,En-anatum I 12,,iii 5',sux:eme[donkey]N sux:amašagan[mother]N

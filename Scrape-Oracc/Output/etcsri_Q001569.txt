@@ -1,0 +1,18 @@
+id_text,text_name,version,l_no,text
+etcsri/Q001569,Ur-Ningirsu II 06,,i 1,sux:Ninŋešzidak[1]DN
+etcsri/Q001569,Ur-Ningirsu II 06,,i 2,sux:diŋir[deity]N
+etcsri/Q001569,Ur-Ningirsu II 06,,i 3,sux:Urninŋirsu[2]RN
+etcsri/Q001569,Ur-Ningirsu II 06,,i 4,sux:ensik[ruler]N
+etcsri/Q001569,Ur-Ningirsu II 06,,i 5,sux:Lagaš[1]SN
+etcsri/Q001569,Ur-Ningirsu II 06,,i 6,sux:dumu[child]N sux:Gudea[1]RN
+etcsri/Q001569,Ur-Ningirsu II 06,,i 7,sux:ensik[ruler]N
+etcsri/Q001569,Ur-Ningirsu II 06,,i 8,sux:Lagaš[1]SN
+etcsri/Q001569,Ur-Ningirsu II 06,,i 9,sux:lu[person]N sux:Eninnu[1]TN
+etcsri/Q001569,Ur-Ningirsu II 06,,i 10,sux:Ninŋirsuk[1]DN
+etcsri/Q001569,Ur-Ningirsu II 06,,i 11,sux:du[build]V/t
+etcsri/Q001569,Ur-Ningirsu II 06,,ii 1,sux:alan[statue]N
+etcsri/Q001569,Ur-Ningirsu II 06,,ii 2,sux:utud[bear]V/t
+etcsri/Q001569,Ur-Ningirsu II 06,,ii 3,sux:alan[statue]N
+etcsri/Q001569,Ur-Ningirsu II 06,,ii 4,sux:lu[person]N sux:diŋir[deity]N sux:ki[place]N sux:aŋ[measure]V/t
+etcsri/Q001569,Ur-Ningirsu II 06,,ii 5,sux:namtil[life]N sux:sud[distant]V/i
+etcsri/Q001569,Ur-Ningirsu II 06,,ii 6,sux:mu[name]N sux:še[call]V/t

@@ -1,0 +1,10 @@
+id_text,text_name,version,l_no,text
+etcsri/Q001662,Šulgi 24,,1,sux:Šulgir[1]RN
+etcsri/Q001662,Šulgi 24,,2,sux:nita[male]N sux:kalag[strong]V/i
+etcsri/Q001662,Šulgi 24,,3,sux:lugal[king]N sux:Urim[1]SN
+etcsri/Q001662,Šulgi 24,,4,sux:lugal[king]N sux:Kiengir[1]GN sux:Akkad[1]GN
+etcsri/Q001662,Šulgi 24,,5,sux:Emešlam[1]TN
+etcsri/Q001662,Šulgi 24,,6,sux:e[house]N sux:Mešlamtaea[1]DN
+etcsri/Q001662,Šulgi 24,,7,sux:Gudua[Kutha]SN
+etcsri/Q001662,Šulgi 24,,8,sux:du[build]V/t
+etcsri/Q001662,Šulgi 24,,colophon 1; 2,akk:Emešlam[1]TN akk:Gudua[Kutha]SN

@@ -1,0 +1,22 @@
+id_text,text_name,version,l_no,text
+etcsri/Q001005,Ibbi-Suen 01,,i 1,sux:Ibbisuen[1]RN
+etcsri/Q001005,Ibbi-Suen 01,,i 2,sux:diŋir[deity]N sux:kalam[land]N
+etcsri/Q001005,Ibbi-Suen 01,,i 3,sux:lugal[king]N sux:kalag[strong]V/i
+etcsri/Q001005,Ibbi-Suen 01,,i 4,sux:lugal[king]N sux:Urim[1]SN
+etcsri/Q001005,Ibbi-Suen 01,,i 5,sux:lugal[king]N sux:anubda[quarter]N sux:limmu[four]NU
+etcsri/Q001005,Ibbi-Suen 01,,i 6,sux:nam[fate]N sux:gal[big]V/i sux:ki[place]N sux:aŋ[measure]V/t
+etcsri/Q001005,Ibbi-Suen 01,,i 7,sux:Suen[1]DN
+etcsri/Q001005,Ibbi-Suen 01,,i 8,sux:Urim[1]SN
+etcsri/Q001005,Ibbi-Suen 01,,i 9,sux:daŋal[wide]V/i
+etcsri/Q001005,Ibbi-Suen 01,,i 10,sux:sa[advice]N sux:ŋar[place]V/t
+etcsri/Q001005,Ibbi-Suen 01,,i 11,sux:ur[he]IP
+etcsri/Q001005,Ibbi-Suen 01,,i 12,sux:kalam[land]N sux:gin[establish]V/i
+etcsri/Q001005,Ibbi-Suen 01,,i 13,sux:sig[weak]V/i sux:nim[high]V/i sux:gurum[bend]V/t
+etcsri/Q001005,Ibbi-Suen 01,,i 14,sux:bad[wall]N sux:gal[big]V/i
+etcsri/Q001005,Ibbi-Suen 01,,ii 1,sux:zipaŋ[breath]N sux:šu[hand]N sux:kur[enter]V/i
+etcsri/Q001005,Ibbi-Suen 01,,ii 2,sux:hursaŋ[mountain]N sux:sissi[green]V/i
+etcsri/Q001005,Ibbi-Suen 01,,ii 3,sux:iri[city]N sux:dub[go-around]V/t
+etcsri/Q001005,Ibbi-Suen 01,,ii 4,sux:ur[root]N sux:temen[foundation]N
+etcsri/Q001005,Ibbi-Suen 01,,ii 5,sux:ki[place]N sux:pad[find]V/t
+etcsri/Q001005,Ibbi-Suen 01,,ii 6,sux:bad[wall]N
+etcsri/Q001005,Ibbi-Suen 01,,ii 7,sux:Ibbisuen[1]RN sux:gugal[inspector]N sux:namnun[magnificence]N

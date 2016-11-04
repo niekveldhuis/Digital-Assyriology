@@ -1,0 +1,20 @@
+id_text,text_name,version,l_no,text
+etcsri/Q001113,En-metena 19,,i 1,sux:Nanše[1]DN
+etcsri/Q001113,En-metena 19,,i 2,sux:Eʾengur[1]TN
+etcsri/Q001113,En-metena 19,,i 3,sux:Enmetenak[1]RN
+etcsri/Q001113,En-metena 19,,i 4,sux:ensik[ruler]N
+etcsri/Q001113,En-metena 19,,i 5,sux:Lagaš[1]SN
+etcsri/Q001113,En-metena 19,,i 6,sux:šag[heart]N sux:pad[find]V/t
+etcsri/Q001113,En-metena 19,,i 7,sux:Nanše[1]DN
+etcsri/Q001113,En-metena 19,,i 8,sux:ensikgal[governor]N
+etcsri/Q001113,En-metena 19,,i 9,sux:Ninŋirsuk[1]DN
+etcsri/Q001113,En-metena 19,,i 10,sux:dumu[child]N sux:Enanatum[1]RN
+etcsri/Q001113,En-metena 19,,ii 1,sux:ensik[ruler]N
+etcsri/Q001113,En-metena 19,,ii 2,sux:Lagaš[1]SN
+etcsri/Q001113,En-metena 19,,ii 3,sux:Nanše[1]DN
+etcsri/Q001113,En-metena 19,,ii 4,sux:Eʾengur[1]TN
+etcsri/Q001113,En-metena 19,,ii 5,sux:gana[field]N sux:Zulum[1]SN
+etcsri/Q001113,En-metena 19,,ii 6,sux:du[build]V/t
+etcsri/Q001113,En-metena 19,,ii 7,sux:kugsig[gold]N sux:kugbabbar[silver]N
+etcsri/Q001113,En-metena 19,,ii 8,sux:šu[hand]N sux:tag[touch]V/t
+etcsri/Q001113,En-metena 19,,ii 9,sux:tum[suitable]V/i

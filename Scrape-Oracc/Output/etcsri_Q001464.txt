@@ -1,0 +1,9 @@
+id_text,text_name,version,l_no,text
+etcsri/Q001464,Ur-Ningirsu I 6,,i 1,sux:Bau[1]DN
+etcsri/Q001464,Ur-Ningirsu I 6,,i 2,sux:nin[lady]N
+etcsri/Q001464,Ur-Ningirsu I 6,,i 3,sux:namtil[life]N
+etcsri/Q001464,Ur-Ningirsu I 6,,i 4,sux:Urninŋirsu[1]RN
+etcsri/Q001464,Ur-Ningirsu I 6,,i 5,sux:ensik[ruler]N
+etcsri/Q001464,Ur-Ningirsu I 6,,ii 1,sux:Lagaš[1]SN
+etcsri/Q001464,Ur-Ningirsu I 6,,ii 2,sux:Urlugaledenakak[1]PN sux:azu[doctor]N
+etcsri/Q001464,Ur-Ningirsu I 6,,ii 3,sux:u[and]CNJ sux:namtil[life]N

@@ -1,0 +1,8 @@
+id_text,text_name,version,l_no,text
+etcsri/Q005000,Ibbi-Suen 2070add,,i 1,sux:Ibbisuen[1]RN
+etcsri/Q005000,Ibbi-Suen 2070add,,i 2,sux:lugal[king]N sux:kalag[strong]V/i
+etcsri/Q005000,Ibbi-Suen 2070add,,i 3,sux:lugal[king]N sux:Urim[1]SN
+etcsri/Q005000,Ibbi-Suen 2070add,,i 4,sux:lugal[king]N sux:anubda[quarter]N sux:limmu[four]NU
+etcsri/Q005000,Ibbi-Suen 2070add,,ii 1,sux:Saŋnannazu[1]PN
+etcsri/Q005000,Ibbi-Suen 2070add,,ii 2,sux:saŋŋa[official]N sux:Enlil[1]DN
+etcsri/Q005000,Ibbi-Suen 2070add,,ii 3,sux:arad[slave]N

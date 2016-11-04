@@ -1,0 +1,8 @@
+id_text,text_name,version,l_no,text
+etcsri/Q004347,Šulgi 2130add,,i 1,sux:Šulgir[1]RN
+etcsri/Q004347,Šulgi 2130add,,i 2,sux:nita[male]N sux:kalag[strong]V/i
+etcsri/Q004347,Šulgi 2130add,,i 3,sux:lugal[king]N sux:Urim[1]SN
+etcsri/Q004347,Šulgi 2130add,,i 4,sux:lugal[king]N sux:Kiengir[1]GN sux:Akkad[1]GN
+etcsri/Q004347,Šulgi 2130add,,ii 1,sux:Uršulpae[4]PN
+etcsri/Q004347,Šulgi 2130add,,ii 2,sux:dumu[child]N sux:Lani[1]PN
+etcsri/Q004347,Šulgi 2130add,,ii 3,sux:sukkalmah[official]N

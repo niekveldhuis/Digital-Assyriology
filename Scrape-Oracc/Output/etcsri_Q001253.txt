@@ -1,0 +1,6 @@
+id_text,text_name,version,l_no,text
+etcsri/Q001253,Abzu-kidu 1,,1,sux:Inanak[1]DN
+etcsri/Q001253,Abzu-kidu 1,,2,sux:Akalam[1]PN
+etcsri/Q001253,Abzu-kidu 1,,3,sux:dam[spouse]N sux:Abzukidug[1]RN
+etcsri/Q001253,Abzu-kidu 1,,4,sux:ensik[ruler]N
+etcsri/Q001253,Abzu-kidu 1,,5,sux:Nibru[1]SN

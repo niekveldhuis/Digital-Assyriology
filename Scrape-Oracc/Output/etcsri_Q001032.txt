@@ -1,0 +1,21 @@
+id_text,text_name,version,l_no,text
+etcsri/Q001032,Ur-Nanše 15,,i 1,sux:Urnanše[1]RN
+etcsri/Q001032,Ur-Nanše 15,,i 2,sux:lugal[king]N
+etcsri/Q001032,Ur-Nanše 15,,i 3,sux:Lagaš[1]SN
+etcsri/Q001032,Ur-Nanše 15,,i 4,sux:dumu[child]N sux:Gu-NI.DU[1]PN
+etcsri/Q001032,Ur-Nanše 15,,ii 1,sux:dumu[child]N sux:Gursar[1]GN
+etcsri/Q001032,Ur-Nanše 15,,ii 2,sux:e[house]N sux:Nanše[1]DN
+etcsri/Q001032,Ur-Nanše 15,,ii 3,sux:du[build]V/t
+etcsri/Q001032,Ur-Nanše 15,,ii 4,sux:eš[shrine]N sux:Ŋirsu[1]SN
+etcsri/Q001032,Ur-Nanše 15,,ii 5,sux:du[build]V/t
+etcsri/Q001032,Ur-Nanše 15,,iii 1,sux:Ebgal[1]TN
+etcsri/Q001032,Ur-Nanše 15,,iii 2,sux:du[build]V/t
+etcsri/Q001032,Ur-Nanše 15,,iii 3,sux:Eŋidruk[1]TN
+etcsri/Q001032,Ur-Nanše 15,,iii 4,sux:du[build]V/t
+etcsri/Q001032,Ur-Nanše 15,,iii 5,sux:e[house]N sux:Ŋatumdug[1]DN
+etcsri/Q001032,Ur-Nanše 15,,iv 1,sux:du[build]V/t
+etcsri/Q001032,Ur-Nanše 15,,iv 2,sux:Edam[1]TN
+etcsri/Q001032,Ur-Nanše 15,,iv 3,sux:du[build]V/t
+etcsri/Q001032,Ur-Nanše 15,,iv 4,sux:e[house]N sux:Ninmarkik[1]DN
+etcsri/Q001032,Ur-Nanše 15,,iv 5,sux:du[build]V/t
+etcsri/Q001032,Ur-Nanše 15,,iv 6,sux:Abzuegak[1]TN

@@ -1,0 +1,9 @@
+id_text,text_name,version,l_no,text
+etcsri/Q001381,Lugal-zage-si 2,,i 1',sux:lugal[king]N sux:Unug[1]SN
+etcsri/Q001381,Lugal-zage-si 2,,i 2',sux:ua[provisioner]N sux:Inanak[1]DN
+etcsri/Q001381,Lugal-zage-si 2,,i 3',sux:lu[person]N sux:Mešsaŋŋaunugak[1]DN
+etcsri/Q001381,Lugal-zage-si 2,,i 4',sux:dumu[child]N sux:utud[bear]V/t
+etcsri/Q001381,Lugal-zage-si 2,,i 5',sux:Nisabak[1]DN
+etcsri/Q001381,Lugal-zage-si 2,,ii 2',sux:Inanak[1]DN
+etcsri/Q001381,Lugal-zage-si 2,,ii 3',sux:ŋeštug[ear]N sux:šum[give]V/t
+etcsri/Q001381,Lugal-zage-si 2,,ii 4',sux:Enkik[1]DN

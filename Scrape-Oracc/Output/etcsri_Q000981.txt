@@ -1,0 +1,9 @@
+id_text,text_name,version,l_no,text
+etcsri/Q000981,Amar-Suen 01,,1,sux:Amarsuenak[1]RN
+etcsri/Q000981,Amar-Suen 01,,2,sux:Nibru[1]SN
+etcsri/Q000981,Amar-Suen 01,,3,sux:Enlil[1]DN
+etcsri/Q000981,Amar-Suen 01,,4,sux:mu[name]N sux:pad[find]V/t
+etcsri/Q000981,Amar-Suen 01,,5,sux:saŋus[constant]V/i
+etcsri/Q000981,Amar-Suen 01,,6,sux:e[house]N sux:Enlil[1]DN
+etcsri/Q000981,Amar-Suen 01,,7,sux:nita[male]N sux:kalag[strong]V/i
+etcsri/Q000981,Amar-Suen 01,,8,sux:lugal[king]N sux:Urim[1]SN

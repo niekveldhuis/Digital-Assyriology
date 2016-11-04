@@ -1,0 +1,7 @@
+id_text,text_name,version,l_no,text
+etcsri/Q004373,Šu-Suen 2037add,,i 1,sux:Šusuen[1]RN
+etcsri/Q004373,Šu-Suen 2037add,,i 2,sux:nita[male]N sux:kalag[strong]V/i
+etcsri/Q004373,Šu-Suen 2037add,,i 3,sux:lugal[king]N sux:Urim[1]SN
+etcsri/Q004373,Šu-Suen 2037add,,i 4,sux:lugal[king]N sux:anubda[quarter]N sux:limmu[four]NU
+etcsri/Q004373,Šu-Suen 2037add,,ii 1,sux:Babati[1]PN
+etcsri/Q004373,Šu-Suen 2037add,,ii 2,sux:dubsar[scribe]N

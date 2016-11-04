@@ -1,0 +1,225 @@
+id_text,text_name,version,l_no,text
+etcsri/Q001103,En-metena 01,,i 1,sux:Enlil[1]DN
+etcsri/Q001103,En-metena 01,,i 2,sux:lugal[king]N sux:kur[mountain]N
+etcsri/Q001103,En-metena 01,,i 3,sux:abba[father]N sux:diŋir[deity]N
+etcsri/Q001103,En-metena 01,,i 4,sux:inim[word]N sux:gin[establish]V/i
+etcsri/Q001103,En-metena 01,,i 5,sux:Ninŋirsuk[1]DN
+etcsri/Q001103,En-metena 01,,i 6,sux:Šara[1]DN
+etcsri/Q001103,En-metena 01,,i 7,sux:ki[place]N sux:sur[press]V/t
+etcsri/Q001103,En-metena 01,,i 8,sux:Mesilim[1]RN
+etcsri/Q001103,En-metena 01,,i 9,sux:lugal[king]N sux:Kiš[1]SN
+etcsri/Q001103,En-metena 01,,i 10,sux:inim[word]N sux:Ištaran[1]DN
+etcsri/Q001103,En-metena 01,,i 11,sux:ešgana[line]N sux:rah[beat]V/t
+etcsri/Q001103,En-metena 01,,i 12,sux:ki[place]N sux:na[stone]N sux:du[build]V/t
+etcsri/Q001103,En-metena 01,,i 13,sux:UŠ[1]RN
+etcsri/Q001103,En-metena 01,,i 14,sux:ensik[ruler]N
+etcsri/Q001103,En-metena 01,,i 15,sux:Umma[1]SN
+etcsri/Q001103,En-metena 01,,i 16,sux:nam[fate]N sux:inim[word]N sux:dirig[exceed]V/t
+etcsri/Q001103,En-metena 01,,i 17,sux:ak[do]V/t
+etcsri/Q001103,En-metena 01,,i 18,sux:narua[stele]N
+etcsri/Q001103,En-metena 01,,i 19,sux:bur[tear]V/t
+etcsri/Q001103,En-metena 01,,i 20,sux:eden[plain]N sux:Lagaš[1]SN
+etcsri/Q001103,En-metena 01,,i 21,sux:kur[enter]V/i
+etcsri/Q001103,En-metena 01,,i 22,sux:Ninŋirsuk[1]DN
+etcsri/Q001103,En-metena 01,,i 23,sux:ursaŋ[hero]N sux:Enlil[1]DN
+etcsri/Q001103,En-metena 01,,i 24,sux:inim[word]N sux:si[horn]N sux:sa[equal]V/t
+etcsri/Q001103,En-metena 01,,i 25,sux:Umma[1]SN
+etcsri/Q001103,En-metena 01,,i 26,sux:damhara[battle]N
+etcsri/Q001103,En-metena 01,,i 27,sux:ak[do]V/t
+etcsri/Q001103,En-metena 01,,i 28,sux:inim[word]N sux:Enlil[1]DN
+etcsri/Q001103,En-metena 01,,i 29,sux:sašušgal[net]N sux:šuš[cover]V/t
+etcsri/Q001103,En-metena 01,,i 30,sux:SAHAR.DU₆.TAK₄[burial-mound]N sux:niš[twenty]NU
+etcsri/Q001103,En-metena 01,,i 31,sux:eden[plain]N sux:ki[place]N sux:us[follow]V/i
+etcsri/Q001103,En-metena 01,,i 32,sux:Eanatum[1]RN
+etcsri/Q001103,En-metena 01,,i 33,sux:ensik[ruler]N
+etcsri/Q001103,En-metena 01,,i 34,sux:Lagaš[1]SN
+etcsri/Q001103,En-metena 01,,i 35,sux:pabilga[relation]N
+etcsri/Q001103,En-metena 01,,i 36,sux:Enmetenak[1]RN
+etcsri/Q001103,En-metena 01,,i 37,sux:ensik[ruler]N
+etcsri/Q001103,En-metena 01,,i 38,sux:Lagaš[1]SN
+etcsri/Q001103,En-metena 01,,i 39,sux:Enakale[1]RN
+etcsri/Q001103,En-metena 01,,i 40,sux:ensik[ruler]N
+etcsri/Q001103,En-metena 01,,i 41,sux:Umma[1]SN
+etcsri/Q001103,En-metena 01,,i 42,sux:ki[place]N sux:sur[press]V/t
+etcsri/Q001103,En-metena 01,,ii 1,sux:eg[levee]N sux:Idnun[1]WN
+etcsri/Q001103,En-metena 01,,ii 2,sux:Guedenak[1]GN
+etcsri/Q001103,En-metena 01,,ii 3,sux:e[leave]V/i
+etcsri/Q001103,En-metena 01,,ii 3a,sux:ašag[field]N sux:Ninŋirsuk[1]DN
+etcsri/Q001103,En-metena 01,,ii 3b,sux:eše[length-unit]N sux:nindan[pole]N
+etcsri/Q001103,En-metena 01,,ii 3c,sux:a[arm]N sux:Umma[1]SN
+etcsri/Q001103,En-metena 01,,ii 3d,sux:taka[abandon]V/t
+etcsri/Q001103,En-metena 01,,ii 3e,sux:ašag[field]N sux:lugal[king]N sux:tuku[acquire]V/t
+etcsri/Q001103,En-metena 01,,ii 3f,sux:kur[enter]V/i
+etcsri/Q001103,En-metena 01,,ii 4,sux:eg[levee]N sux:narua[stele]N
+etcsri/Q001103,En-metena 01,,ii 5,sux:sar[write]V/t
+etcsri/Q001103,En-metena 01,,ii 6,sux:narua[stele]N
+etcsri/Q001103,En-metena 01,,ii 7,sux:Mesilim[1]RN
+etcsri/Q001103,En-metena 01,,ii 8,sux:ki[place]N sux:gi[turn]V/i
+etcsri/Q001103,En-metena 01,,ii 9,sux:eden[plain]N sux:Umma[1]SN
+etcsri/Q001103,En-metena 01,,ii 10,sux:dib[pass]V/i
+etcsri/Q001103,En-metena 01,,ii 11,sux:induba[boundary]N
+etcsri/Q001103,En-metena 01,,ii 12,sux:Ninŋirsuk[1]DN
+etcsri/Q001103,En-metena 01,,ii 13,sux:Namnundakiŋara[1]GN
+etcsri/Q001103,En-metena 01,,ii 14,sux:barag[dais]N sux:Enlil[1]DN
+etcsri/Q001103,En-metena 01,,ii 15,sux:barag[dais]N sux:Ninhursaŋak[1]DN
+etcsri/Q001103,En-metena 01,,ii 16,sux:barag[dais]N sux:Ninŋirsuk[1]DN
+etcsri/Q001103,En-metena 01,,ii 17,sux:barag[dais]N sux:Utu[1]DN
+etcsri/Q001103,En-metena 01,,ii 18,sux:du[build]V/t
+etcsri/Q001103,En-metena 01,,ii 19,sux:še[barley]N sux:Nanše[1]DN
+etcsri/Q001103,En-metena 01,,ii 20,sux:še[barley]N sux:Ninŋirsuk[1]DN
+etcsri/Q001103,En-metena 01,,ii 21,sux:guru[store]N
+etcsri/Q001103,En-metena 01,,ii 22,sux:lu[person]N sux:Umma[1]SN
+etcsri/Q001103,En-metena 01,,ii 23,sux:urra[loan]N sux:gu[eat]V/t
+etcsri/Q001103,En-metena 01,,ii 24,sux:kud[cut]V/t sux:us[follow]V/i
+etcsri/Q001103,En-metena 01,,ii 25,sux:gal[big]V/i sux:guru[store]N
+etcsri/Q001103,En-metena 01,,ii 26,sux:kur[enter]V/i
+etcsri/Q001103,En-metena 01,,ii 27,sux:bar[outside]N sux:še[barley]N sux:sug[replace]V/t
+etcsri/Q001103,En-metena 01,,ii 28,sux:Urluma[1]RN
+etcsri/Q001103,En-metena 01,,ii 29,sux:ensik[ruler]N
+etcsri/Q001103,En-metena 01,,ii 30,sux:Umma[1]SN
+etcsri/Q001103,En-metena 01,,ii 31,sux:eg[levee]N sux:kisura[border]N
+etcsri/Q001103,En-metena 01,,ii 32,sux:Ninŋirsuk[1]DN
+etcsri/Q001103,En-metena 01,,ii 33,sux:eg[levee]N sux:kisura[border]N
+etcsri/Q001103,En-metena 01,,ii 34,sux:Nanše[1]DN
+etcsri/Q001103,En-metena 01,,ii 35,sux:a[water]N sux:e[leave]V/i
+etcsri/Q001103,En-metena 01,,ii 36,sux:narua[stele]N
+etcsri/Q001103,En-metena 01,,ii 37,sux:izi[fire]N sux:šum[give]V/t
+etcsri/Q001103,En-metena 01,,ii 38,sux:bur[tear]V/t
+etcsri/Q001103,En-metena 01,,ii 39,sux:barag[dais]N sux:ri[impose]V/i sux:diŋir[deity]N
+etcsri/Q001103,En-metena 01,,ii 40,sux:Namnundakiŋara[1]GN
+etcsri/Q001103,En-metena 01,,ii 41,sux:du[build]V/t
+etcsri/Q001103,En-metena 01,,ii 42,sux:gul[destroy]V/t
+etcsri/Q001103,En-metena 01,,iii 1,sux:kur[mountain]N sux:huŋ[hire]V/t
+etcsri/Q001103,En-metena 01,,iii 2,sux:eg[levee]N sux:kisura[border]N
+etcsri/Q001103,En-metena 01,,iii 3,sux:Ninŋirsuk[1]DN
+etcsri/Q001103,En-metena 01,,iii 4,sux:bala[turn]V/t
+etcsri/Q001103,En-metena 01,,iii 5,sux:Enanatum[1]RN
+etcsri/Q001103,En-metena 01,,iii 6,sux:ensik[ruler]N
+etcsri/Q001103,En-metena 01,,iii 7,sux:Lagaš[1]SN
+etcsri/Q001103,En-metena 01,,iii 8,sux:ašag[field]N sux:Ugiga[1]GN
+etcsri/Q001103,En-metena 01,,iii 9,sux:ašag[field]N sux:Ninŋirsuk[1]DN
+etcsri/Q001103,En-metena 01,,iii 10,sux:ŋeš[tree]N sux:teš[unity]N sux:la[hang]V/t
+etcsri/Q001103,En-metena 01,,iii 11,sux:Enmetenak[1]RN
+etcsri/Q001103,En-metena 01,,iii 12,sux:dumu[child]N sux:ki[place]N sux:aŋ[measure]V/t
+etcsri/Q001103,En-metena 01,,iii 13,sux:Enanatum[1]RN
+etcsri/Q001103,En-metena 01,,iii 14,sux:agakar[conqueror]N sux:sig[put]V/t
+etcsri/Q001103,En-metena 01,,iii 15,sux:Urluma[1]RN
+etcsri/Q001103,En-metena 01,,iii 16,sux:kar[flee]V/i
+etcsri/Q001103,En-metena 01,,iii 17,sux:šag[heart]N sux:Umma[1]SN
+etcsri/Q001103,En-metena 01,,iii 18,sux:gaz[kill]V/t
+etcsri/Q001103,En-metena 01,,iii 19,sux:anše[equid]N sux:sur[people]N
+etcsri/Q001103,En-metena 01,,iii 20,sux:gu[neck]N sux:Lumaĝirnunta[1]WN
+etcsri/Q001103,En-metena 01,,iii 21,sux:taka[abandon]V/t
+etcsri/Q001103,En-metena 01,,iii 22,sux:nam[fate]N sux:lu[person]N
+etcsri/Q001103,En-metena 01,,iii 23,sux:ŋiripadra[bone]N
+etcsri/Q001103,En-metena 01,,iii 24,sux:eden[plain]N sux:taka[abandon]V/t
+etcsri/Q001103,En-metena 01,,iii 25,sux:SAHAR.DU₆.TAK₄[burial-mound]N
+etcsri/Q001103,En-metena 01,,iii 26,sux:ki[place]N sux:ya[five]NU
+etcsri/Q001103,En-metena 01,,iii 27,sux:dub[heap]V/t
+etcsri/Q001103,En-metena 01,,iii 28,sux:ud[sun]N sux:Il[1]RN
+etcsri/Q001103,En-metena 01,,iii 29,sux:saŋŋa[official]N sux:Zabala[1]SN
+etcsri/Q001103,En-metena 01,,iii 30,sux:Ŋirsu[1]SN
+etcsri/Q001103,En-metena 01,,iii 31,sux:Umma[1]SN
+etcsri/Q001103,En-metena 01,,iii 32,sux:gardar[retreat]V/i
+etcsri/Q001103,En-metena 01,,iii 33,sux:ŋen[go]V/i
+etcsri/Q001103,En-metena 01,,iii 34,sux:Il[1]RN
+etcsri/Q001103,En-metena 01,,iii 35,sux:namensik[office-of-ruler]N
+etcsri/Q001103,En-metena 01,,iii 36,sux:Umma[1]SN
+etcsri/Q001103,En-metena 01,,iii 37,sux:šu[hand]N sux:te[approach]V/i
+etcsri/Q001103,En-metena 01,,iii 38,sux:eg[levee]N sux:kisura[border]N
+etcsri/Q001103,En-metena 01,,iv 1,sux:Ninŋirsuk[1]DN
+etcsri/Q001103,En-metena 01,,iv 2,sux:eg[levee]N sux:kisura[border]N
+etcsri/Q001103,En-metena 01,,iv 3,sux:Nanše[1]DN
+etcsri/Q001103,En-metena 01,,iv 4,sux:induba[boundary]N
+etcsri/Q001103,En-metena 01,,iv 5,sux:Ninŋirsuk[1]DN
+etcsri/Q001103,En-metena 01,,iv 6,sux:gu[neck]N sux:Idigna[1]WN sux:ŋal[be]V/i
+etcsri/Q001103,En-metena 01,,iv 7,sux:gu[neck]N sux:Ŋirsu[1]SN
+etcsri/Q001103,En-metena 01,,iv 8,sux:Namnundakiŋara[1]GN
+etcsri/Q001103,En-metena 01,,iv 8a,sux:Enlil[1]DN
+etcsri/Q001103,En-metena 01,,iv 8b,sux:Enkik[1]DN
+etcsri/Q001103,En-metena 01,,iv 9,sux:Ninhursaŋak[1]DN
+etcsri/Q001103,En-metena 01,,iv 10,sux:a[water]N sux:e[leave]V/i
+etcsri/Q001103,En-metena 01,,iv 11,sux:še[barley]N sux:Lagaš[1]SN sux:guru[store]N
+etcsri/Q001103,En-metena 01,,iv 12,sux:sug[replace]V/t
+etcsri/Q001103,En-metena 01,,iv 13,sux:Enmetenak[1]RN
+etcsri/Q001103,En-metena 01,,iv 14,sux:ensik[ruler]N
+etcsri/Q001103,En-metena 01,,iv 15,sux:Lagaš[1]SN
+etcsri/Q001103,En-metena 01,,iv 16,sux:bar[outside]N sux:eg[levee]N
+etcsri/Q001103,En-metena 01,,iv 17,sux:Il[1]RN
+etcsri/Q001103,En-metena 01,,iv 18,sux:lu[person]N sux:gi[turn]V/i
+etcsri/Q001103,En-metena 01,,iv 19,sux:Il[1]RN
+etcsri/Q001103,En-metena 01,,iv 20,sux:ensik[ruler]N
+etcsri/Q001103,En-metena 01,,iv 21,sux:Umma[1]SN
+etcsri/Q001103,En-metena 01,,iv 22,sux:ašag[field]N sux:kar[flee]V/i
+etcsri/Q001103,En-metena 01,,iv 23,sux:niŋerim[evil]N sux:dug[speak]V/t
+etcsri/Q001103,En-metena 01,,iv 24,sux:eg[levee]N sux:kisura[border]N
+etcsri/Q001103,En-metena 01,,iv 25,sux:Ninŋirsuk[1]DN
+etcsri/Q001103,En-metena 01,,iv 26,sux:eg[levee]N sux:kisura[border]N
+etcsri/Q001103,En-metena 01,,iv 27,sux:Nanše[1]DN
+etcsri/Q001103,En-metena 01,,iv 28,sux:ŋaʾe[I]IP
+etcsri/Q001103,En-metena 01,,iv 29,sux:dug[speak]V/t
+etcsri/Q001103,En-metena 01,,iv 30,sux:Antasura[1]TN
+etcsri/Q001103,En-metena 01,,iv 31,sux:Edimgalabzukak[1]TN
+etcsri/Q001103,En-metena 01,,iv 32,sux:induba[boundary]N sux:e[leave]V/i
+etcsri/Q001103,En-metena 01,,iv 33,sux:dug[speak]V/t
+etcsri/Q001103,En-metena 01,,iv 34,sux:Enlil[1]DN
+etcsri/Q001103,En-metena 01,,iv 35,sux:Ninhursaŋak[1]DN
+etcsri/Q001103,En-metena 01,,iv 36,sux:šum[give]V/t
+etcsri/Q001103,En-metena 01,,v 1,sux:Enmetenak[1]RN
+etcsri/Q001103,En-metena 01,,v 2,sux:ensik[ruler]N
+etcsri/Q001103,En-metena 01,,v 3,sux:Lagaš[1]SN
+etcsri/Q001103,En-metena 01,,v 4,sux:mu[name]N sux:pad[find]V/t
+etcsri/Q001103,En-metena 01,,v 5,sux:Ninŋirsuk[1]DN
+etcsri/Q001103,En-metena 01,,v 6,sux:inim[word]N sux:si[horn]N sux:sa[equal]V/t sux:Enlil[1]DN
+etcsri/Q001103,En-metena 01,,v 7,sux:inim[word]N sux:si[horn]N sux:sa[equal]V/t sux:Ninŋirsuk[1]DN
+etcsri/Q001103,En-metena 01,,v 8,sux:inim[word]N sux:si[horn]N sux:sa[equal]V/t sux:Nanše[1]DN
+etcsri/Q001103,En-metena 01,,v 9,sux:eg[levee]N sux:Idigna[1]WN
+etcsri/Q001103,En-metena 01,,v 10,sux:Idnun[1]WN
+etcsri/Q001103,En-metena 01,,v 11,sux:ak[do]V/t
+etcsri/Q001103,En-metena 01,,v 12,sux:Namnundakiŋara[1]GN
+etcsri/Q001103,En-metena 01,,v 13,sux:ur[root]N sux:na[stone]N sux:du[build]V/t
+etcsri/Q001103,En-metena 01,,v 14,sux:lugal[king]N sux:ki[place]N sux:aŋ[measure]V/t
+etcsri/Q001103,En-metena 01,,v 15,sux:Ninŋirsuk[1]DN
+etcsri/Q001103,En-metena 01,,v 16,sux:nin[lady]N sux:ki[place]N sux:aŋ[measure]V/t
+etcsri/Q001103,En-metena 01,,v 17,sux:Nanše[1]DN
+etcsri/Q001103,En-metena 01,,v 18,sux:ki[place]N sux:gi[turn]V/i
+etcsri/Q001103,En-metena 01,,v 19,sux:Enmetenak[1]RN
+etcsri/Q001103,En-metena 01,,v 20,sux:ensik[ruler]N
+etcsri/Q001103,En-metena 01,,v 21,sux:Lagaš[1]SN
+etcsri/Q001103,En-metena 01,,v 22,sux:ŋidru[scepter]N sux:šum[give]V/t
+etcsri/Q001103,En-metena 01,,v 23,sux:Enlil[1]DN
+etcsri/Q001103,En-metena 01,,v 24,sux:ŋeštug[ear]N sux:šum[give]V/t
+etcsri/Q001103,En-metena 01,,v 25,sux:Enkik[1]DN
+etcsri/Q001103,En-metena 01,,v 26,sux:šag[heart]N sux:pad[find]V/t
+etcsri/Q001103,En-metena 01,,v 27,sux:Nanše[1]DN
+etcsri/Q001103,En-metena 01,,v 28,sux:ensikgal[governor]N
+etcsri/Q001103,En-metena 01,,v 29,sux:Ninŋirsuk[1]DN
+etcsri/Q001103,En-metena 01,,v 30,sux:lu[person]N sux:inim[word]N sux:diŋir[deity]N sux:dab[seize]V/t
+etcsri/Q001103,En-metena 01,,vi 1,sux:diŋir[deity]N
+etcsri/Q001103,En-metena 01,,vi 2,sux:Šul-MUŠ×PA[1]DN
+etcsri/Q001103,En-metena 01,,vi 3,sux:namtil[life]N
+etcsri/Q001103,En-metena 01,,vi 4,sux:Enmetenak[1]RN
+etcsri/Q001103,En-metena 01,,vi 5,sux:ud[sun]N sux:ul[distant]V/i
+etcsri/Q001103,En-metena 01,,vi 6,sux:Ninŋirsuk[1]DN
+etcsri/Q001103,En-metena 01,,vi 7,sux:Nanše[1]DN
+etcsri/Q001103,En-metena 01,,vi 8,sux:gub[stand]V/i
+etcsri/Q001103,En-metena 01,,vi 9,sux:lu[person]N sux:Umma[1]SN
+etcsri/Q001103,En-metena 01,,vi 10,sux:eg[levee]N sux:kisura[border]N
+etcsri/Q001103,En-metena 01,,vi 11,sux:Ninŋirsuk[1]DN
+etcsri/Q001103,En-metena 01,,vi 12,sux:eg[levee]N sux:kisura[border]N
+etcsri/Q001103,En-metena 01,,vi 13,sux:Nanše[1]DN
+etcsri/Q001103,En-metena 01,,vi 14,sux:azig[violence]N
+etcsri/Q001103,En-metena 01,,vi 15,sux:ašag[field]N sux:de[bring]V/t
+etcsri/Q001103,En-metena 01,,vi 16,sux:bala[turn]V/t
+etcsri/Q001103,En-metena 01,,vi 17,sux:lu[person]N sux:Umma[1]SN sux:me[be]V/i
+etcsri/Q001103,En-metena 01,,vi 18,sux:lu[person]N sux:kur[mountain]N sux:me[be]V/i
+etcsri/Q001103,En-metena 01,,vi 19,sux:Enlil[1]DN
+etcsri/Q001103,En-metena 01,,vi 20,sux:halam[forsake]V/t
+etcsri/Q001103,En-metena 01,,vi 21,sux:Ninŋirsuk[1]DN
+etcsri/Q001103,En-metena 01,,vi 22,sux:sašušgal[net]N
+etcsri/Q001103,En-metena 01,,vi 23,sux:šuš[cover]V/t
+etcsri/Q001103,En-metena 01,,vi 24,sux:šu[hand]N sux:mah[great]V/i sux:ŋiri[foot]N sux:mah[great]V/i
+etcsri/Q001103,En-metena 01,,vi 25,sux:an[sky]N sux:ŋar[place]V/t
+etcsri/Q001103,En-metena 01,,vi 26,sux:nam[fate]N sux:lu[person]N sux:iri[city]N
+etcsri/Q001103,En-metena 01,,vi 27,sux:šu[hand]N sux:zig[rise]V/i
+etcsri/Q001103,En-metena 01,,vi 28,sux:šag[heart]N sux:iri[city]N

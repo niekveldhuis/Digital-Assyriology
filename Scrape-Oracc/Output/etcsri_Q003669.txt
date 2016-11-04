@@ -1,0 +1,7 @@
+id_text,text_name,version,l_no,text
+etcsri/Q003669,Lugal-KISAL-si 2,,1,sux:Namma[1]DN
+etcsri/Q003669,Lugal-KISAL-si 2,,2,sux:dam[spouse]N sux:An[1]DN
+etcsri/Q003669,Lugal-KISAL-si 2,,3,sux:Lugalkisalesi[1]RN
+etcsri/Q003669,Lugal-KISAL-si 2,,4,sux:lugal[king]N sux:Unug[1]SN
+etcsri/Q003669,Lugal-KISAL-si 2,,5,sux:lugal[king]N sux:Urim[1]SN
+etcsri/Q003669,Lugal-KISAL-si 2,,6,sux:e[house]N sux:Namma[1]DN

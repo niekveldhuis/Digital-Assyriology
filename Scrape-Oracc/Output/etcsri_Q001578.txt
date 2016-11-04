@@ -1,0 +1,11 @@
+id_text,text_name,version,l_no,text
+etcsri/Q001578,Nammahni 01,,1,sux:Bau[1]DN
+etcsri/Q001578,Nammahni 01,,2,sux:munus[woman]N sux:sag[good]V/i
+etcsri/Q001578,Nammahni 01,,3,sux:dumu[child]N sux:An[1]DN
+etcsri/Q001578,Nammahni 01,,4,sux:nin[lady]N sux:Irikug[1]SN
+etcsri/Q001578,Nammahni 01,,5,sux:nin[lady]N
+etcsri/Q001578,Nammahni 01,,6,sux:Nammahni[1]RN
+etcsri/Q001578,Nammahni 01,,7,sux:ensik[ruler]N
+etcsri/Q001578,Nammahni 01,,8,sux:Lagaš[1]SN
+etcsri/Q001578,Nammahni 01,,9,sux:agrig[steward]N sux:kalag[strong]V/i
+etcsri/Q001578,Nammahni 01,,10,sux:ig[door]N

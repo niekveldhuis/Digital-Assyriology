@@ -1,0 +1,36 @@
+id_text,text_name,version,l_no,text
+etcsri/Q001794,Amar-Suen 11,,1,sux:Amarsuenak[1]RN
+etcsri/Q001794,Amar-Suen 11,,2,sux:Nibru[1]SN
+etcsri/Q001794,Amar-Suen 11,,3,sux:Enlil[1]DN
+etcsri/Q001794,Amar-Suen 11,,4,sux:mu[name]N sux:pad[find]V/t
+etcsri/Q001794,Amar-Suen 11,,5,sux:saŋus[constant]V/i
+etcsri/Q001794,Amar-Suen 11,,6,sux:e[house]N sux:Enlil[1]DN
+etcsri/Q001794,Amar-Suen 11,,7,sux:lugal[king]N sux:kalag[strong]V/i
+etcsri/Q001794,Amar-Suen 11,,8,sux:lugal[king]N sux:Urim[1]SN
+etcsri/Q001794,Amar-Suen 11,,9,sux:lugal[king]N sux:anubda[quarter]N sux:limmu[four]NU
+etcsri/Q001794,Amar-Suen 11,,10,sux:alan[statue]N
+etcsri/Q001794,Amar-Suen 11,,11,sux:mu[name]N sux:pad[find]V/t sux:Suen[1]DN
+etcsri/Q001794,Amar-Suen 11,,12,sux:ki[place]N sux:aŋ[measure]V/t sux:Urim[1]SN
+etcsri/Q001794,Amar-Suen 11,,13,sux:du[build]V/t
+etcsri/Q001794,Amar-Suen 11,,14,sux:alan[statue]N
+etcsri/Q001794,Amar-Suen 11,,15,sux:Ningal[1]DN
+etcsri/Q001794,Amar-Suen 11,,16,sux:nin[lady]N sux:Urim[1]SN
+etcsri/Q001794,Amar-Suen 11,,17,sux:lu[person]N
+etcsri/Q001794,Amar-Suen 11,,18,sux:alan[statue]N
+etcsri/Q001794,Amar-Suen 11,,19,sux:kugsig[gold]N
+etcsri/Q001794,Amar-Suen 11,,20,sux:e[house]N sux:niŋgur[property]N
+etcsri/Q001794,Amar-Suen 11,,21,sux:bur[tear]V/t
+etcsri/Q001794,Amar-Suen 11,,22,sux:Nanna[1]DN
+etcsri/Q001794,Amar-Suen 11,,23,sux:lugal[king]N
+etcsri/Q001794,Amar-Suen 11,,24,sux:Urim[1]SN
+etcsri/Q001794,Amar-Suen 11,,25,sux:Ningal[1]DN
+etcsri/Q001794,Amar-Suen 11,,26,sux:nin[lady]N sux:Urim[1]SN
+etcsri/Q001794,Amar-Suen 11,,27,sux:nam[fate]N sux:kud[cut]V/t
+etcsri/Q001794,Amar-Suen 11,,28,sux:numun[seed]N
+etcsri/Q001794,Amar-Suen 11,,29,sux:kud[cut]V/t
+etcsri/Q001794,Amar-Suen 11,,colophon  2,akk:Urim[1]SN
+etcsri/Q001794,Amar-Suen 11,,colophon  3,akk:Urim[1]SN
+etcsri/Q001794,Amar-Suen 11,,colophon  5,akk:Ekišnuŋal[1]TN akk:Sin-balassu-iqbi[1]PN
+etcsri/Q001794,Amar-Suen 11,,colophon  6,akk:Urim[1]SN
+etcsri/Q001794,Amar-Suen 11,,colophon  7,akk:Nabu-šuma-iddin[1]PN akk:Iddin-papsukkal[1]PN
+etcsri/Q001794,Amar-Suen 11,,colophon  8,akk:Suen[1]DN

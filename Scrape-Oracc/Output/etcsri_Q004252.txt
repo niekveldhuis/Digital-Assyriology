@@ -1,0 +1,13 @@
+id_text,text_name,version,l_no,text
+etcsri/Q004252,En-metena 31add,,i 1,sux:Lugalemuš[1]DN
+etcsri/Q004252,En-metena 31add,,i 2,sux:Enmetenak[1]RN
+etcsri/Q004252,En-metena 31add,,i 3,sux:ensik[ruler]N
+etcsri/Q004252,En-metena 31add,,i 4,sux:Lagaš[1]SN
+etcsri/Q004252,En-metena 31add,,ii 1,sux:dumu[child]N sux:Enanatum[1]RN
+etcsri/Q004252,En-metena 31add,,ii 2,sux:ensik[ruler]N
+etcsri/Q004252,En-metena 31add,,ii 3,sux:Lagaš[1]SN
+etcsri/Q004252,En-metena 31add,,ii 4,sux:Emuš[1]TN
+etcsri/Q004252,En-metena 31add,,ii 5,sux:Padtibirak[1]SN
+etcsri/Q004252,En-metena 31add,,iii 1,sux:e[house]N sux:ki[place]N sux:aŋ[measure]V/t
+etcsri/Q004252,En-metena 31add,,iii 2,sux:du[build]V/t
+etcsri/Q004252,En-metena 31add,,iii 3,sux:ki[place]N

@@ -1,0 +1,6 @@
+id_text,text_name,version,l_no,text
+etcsri/Q001882,Unattributed Ur III 1012,,2',sux:Huhnuri[1]SN
+etcsri/Q001882,Unattributed Ur III 1012,,3',sux:X-rini[1]GN sux:Šipara[1]GN
+etcsri/Q001882,Unattributed Ur III 1012,,4',sux:X-ki[1]GN sux:Sabum[1]SN
+etcsri/Q001882,Unattributed Ur III 1012,,5',sux:X[2]GN sux:Kimaš[1]GN sux:Duduli[1]GN
+etcsri/Q001882,Unattributed Ur III 1012,,6',sux:mada[land]N sux:Anšan[1]SN

@@ -1,0 +1,8 @@
+id_text,text_name,version,l_no,text
+etcsri/Q001698,Šulgi 66,,1,sux:Inanak[1]DN
+etcsri/Q001698,Šulgi 66,,2,sux:nin[lady]N
+etcsri/Q001698,Šulgi 66,,3,sux:namtil[life]N
+etcsri/Q001698,Šulgi 66,,4,sux:Šulgir[1]RN
+etcsri/Q001698,Šulgi 66,,5,sux:nita[male]N sux:kalag[strong]V/i
+etcsri/Q001698,Šulgi 66,,6,sux:lugal[king]N sux:Urim[1]SN
+etcsri/Q001698,Šulgi 66,,7,sux:Watartum[1]PN

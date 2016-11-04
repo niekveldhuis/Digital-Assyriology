@@ -1,0 +1,7 @@
+id_text,text_name,version,l_no,text
+etcsri/Q004962,Ibbi-Suen 2027add,,i 1,sux:Ibbisuen[1]RN
+etcsri/Q004962,Ibbi-Suen 2027add,,i 2,sux:lugal[king]N sux:kalag[strong]V/i
+etcsri/Q004962,Ibbi-Suen 2027add,,i 3,sux:lugal[king]N sux:Urim[1]SN
+etcsri/Q004962,Ibbi-Suen 2027add,,ii 1,sux:Iškunea[1]PN
+etcsri/Q004962,Ibbi-Suen 2027add,,ii 2,sux:nubanda[overseer]N
+etcsri/Q004962,Ibbi-Suen 2027add,,ii 3,sux:dumu[child]N sux:Kurbilak[1]PN

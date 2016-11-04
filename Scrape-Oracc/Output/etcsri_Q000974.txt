@@ -1,0 +1,9 @@
+id_text,text_name,version,l_no,text
+etcsri/Q000974,Šulgi 28,,1,sux:Ninazu[1]DN
+etcsri/Q000974,Šulgi 28,,2,sux:lugal[king]N
+etcsri/Q000974,Šulgi 28,,3,sux:Šulgir[1]RN
+etcsri/Q000974,Šulgi 28,,4,sux:nita[male]N sux:kalag[strong]V/i
+etcsri/Q000974,Šulgi 28,,5,sux:lugal[king]N sux:Urim[1]SN
+etcsri/Q000974,Šulgi 28,,6,sux:lugal[king]N sux:Kiengir[1]GN sux:Akkad[1]GN
+etcsri/Q000974,Šulgi 28,,7,sux:Esikil[1]TN
+etcsri/Q000974,Šulgi 28,,8,sux:e[house]N sux:ki[place]N sux:aŋ[measure]V/t

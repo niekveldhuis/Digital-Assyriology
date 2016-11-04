@@ -1,0 +1,14 @@
+id_text,text_name,version,l_no,text
+etcsri/Q001555,Gudea Statue Q,,i 1,sux:Ninŋešzidak[1]DN
+etcsri/Q001555,Gudea Statue Q,,i 2,sux:diŋir[deity]N
+etcsri/Q001555,Gudea Statue Q,,i 3,sux:Gudea[1]RN
+etcsri/Q001555,Gudea Statue Q,,i 4,sux:ensik[ruler]N
+etcsri/Q001555,Gudea Statue Q,,i 5,sux:Lagaš[1]SN
+etcsri/Q001555,Gudea Statue Q,,i 6,sux:lu[person]N sux:Eninnu[1]TN
+etcsri/Q001555,Gudea Statue Q,,i 7,sux:Ninŋirsuk[1]DN
+etcsri/Q001555,Gudea Statue Q,,ii 1,sux:du[build]V/t
+etcsri/Q001555,Gudea Statue Q,,ii 2,sux:alan[statue]N
+etcsri/Q001555,Gudea Statue Q,,ii 3,sux:utud[bear]V/t
+etcsri/Q001555,Gudea Statue Q,,ii 4,sux:e[house]N sux:tum[suitable]V/i
+etcsri/Q001555,Gudea Statue Q,,ii 5,sux:mu[name]N sux:še[call]V/t
+etcsri/Q001555,Gudea Statue Q,,ii 6,sux:e[house]N

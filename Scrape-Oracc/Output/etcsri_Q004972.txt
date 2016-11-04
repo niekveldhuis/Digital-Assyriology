@@ -1,0 +1,6 @@
+id_text,text_name,version,l_no,text
+etcsri/Q004972,Ibbi-Suen 2038add,,i 1,sux:Ibbisuen[1]RN
+etcsri/Q004972,Ibbi-Suen 2038add,,i 2,sux:lugal[king]N sux:kalag[strong]V/i
+etcsri/Q004972,Ibbi-Suen 2038add,,i 3,sux:lugal[king]N sux:Urim[1]SN
+etcsri/Q004972,Ibbi-Suen 2038add,,i 4,sux:lugal[king]N sux:anubda[quarter]N sux:limmu[four]NU
+etcsri/Q004972,Ibbi-Suen 2038add,,ii 1,sux:Lušara[2]PN sux:sukkal[secretary]N

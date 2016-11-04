@@ -1,0 +1,68 @@
+id_text,text_name,version,l_no,text
+etcsri/Q001108,En-metena 26,,i 1,sux:Ninŋirsuk[1]DN
+etcsri/Q001108,En-metena 26,,i 2,sux:ursaŋ[hero]N sux:Enlil[1]DN
+etcsri/Q001108,En-metena 26,,i 3,sux:Enmetenak[1]RN
+etcsri/Q001108,En-metena 26,,i 4,sux:ensik[ruler]N
+etcsri/Q001108,En-metena 26,,i 5,sux:Lagaš[1]SN
+etcsri/Q001108,En-metena 26,,i 6,sux:a[arm]N sux:šum[give]V/t
+etcsri/Q001108,En-metena 26,,i 7,sux:Enlil[1]DN
+etcsri/Q001108,En-metena 26,,i 8,sux:ga[milk]N sux:zid[right]V/i sux:gu[eat]V/t
+etcsri/Q001108,En-metena 26,,ii 1,sux:Ninhursaŋak[1]DN
+etcsri/Q001108,En-metena 26,,ii 2,sux:šag[heart]N sux:pad[find]V/t
+etcsri/Q001108,En-metena 26,,ii 3,sux:Nanše[1]DN
+etcsri/Q001108,En-metena 26,,ii 4,sux:ensikgal[governor]N
+etcsri/Q001108,En-metena 26,,ii 5,sux:Ninŋirsuk[1]DN
+etcsri/Q001108,En-metena 26,,ii 6,sux:dumu[child]N sux:utud[bear]V/t
+etcsri/Q001108,En-metena 26,,ii 7,sux:Lugalurubak[1]DN
+etcsri/Q001108,En-metena 26,,ii 8,sux:dumu[child]N sux:Enanatum[1]RN
+etcsri/Q001108,En-metena 26,,ii 9,sux:ensik[ruler]N
+etcsri/Q001108,En-metena 26,,ii 10,sux:Lagaš[1]SN
+etcsri/Q001108,En-metena 26,,iii 1,sux:ud[sun]N sux:Ninŋirsuk[1]DN
+etcsri/Q001108,En-metena 26,,iii 2,sux:Ŋirnun[1]SN
+etcsri/Q001108,En-metena 26,,iii 3,sux:šag[heart]N sux:kug[pure]V/i
+etcsri/Q001108,En-metena 26,,iii 4,sux:pad[find]V/t
+etcsri/Q001108,En-metena 26,,iii 5,sux:Eninnu[1]TN
+etcsri/Q001108,En-metena 26,,iii 6,sux:nam[fate]N sux:tar[cut]V/t
+etcsri/Q001108,En-metena 26,,iii 7,sux:Nanše[1]DN
+etcsri/Q001108,En-metena 26,,iii 8,sux:Sirara[1]GN
+etcsri/Q001108,En-metena 26,,iii 9,sux:igi[eye]N sux:zid[right]V/i sux:bar[cvve]V/t
+etcsri/Q001108,En-metena 26,,iii 10,sux:Enmetenak[1]RN
+etcsri/Q001108,En-metena 26,,iv 1,sux:Ninŋirsuk[1]DN
+etcsri/Q001108,En-metena 26,,iv 2,sux:ŋeškešda[dam]N
+etcsri/Q001108,En-metena 26,,iv 3,sux:Lumagindug[1]WN
+etcsri/Q001108,En-metena 26,,iv 4,sux:šargal[216000]NU sux:šeg[brick]N sux:ur[bake]V/t
+etcsri/Q001108,En-metena 26,,iv 5,sux:gursaŋŋal[unit]N sux:esir[bitumen]N
+etcsri/Q001108,En-metena 26,,iv 6,sux:Enmetenak[1]RN
+etcsri/Q001108,En-metena 26,,iv 7,sux:Ninŋirsuk[1]DN
+etcsri/Q001108,En-metena 26,,iv 8,sux:du[build]V/t
+etcsri/Q001108,En-metena 26,,iv 9,sux:Ninŋirsuk[1]DN
+etcsri/Q001108,En-metena 26,,v 1,sux:dim[create]V/t
+etcsri/Q001108,En-metena 26,,v 2,sux:amargi[reversion]N
+etcsri/Q001108,En-metena 26,,v 3,sux:Lagaš[1]SN
+etcsri/Q001108,En-metena 26,,v 4,sux:ŋar[place]V/t
+etcsri/Q001108,En-metena 26,,v 5,sux:ama[mother]N sux:dumu[child]N sux:gi[turn]V/i
+etcsri/Q001108,En-metena 26,,v 6,sux:dumu[child]N sux:ama[mother]N sux:gi[turn]V/i
+etcsri/Q001108,En-metena 26,,vi 1,sux:gi[turn]V/i
+etcsri/Q001108,En-metena 26,,vi 2,sux:ŋeškešda[dam]N
+etcsri/Q001108,En-metena 26,,vi 3,sux:Lumagindug[1]WN
+etcsri/Q001108,En-metena 26,,vi 4,sux:Guedenak[1]GN
+etcsri/Q001108,En-metena 26,,vi 5,sux:du[build]V/t
+etcsri/Q001108,En-metena 26,,vi 6,sux:Enmetenak[1]RN
+etcsri/Q001108,En-metena 26,,vi 7,sux:mu[name]N sux:dug[good]V/i
+etcsri/Q001108,En-metena 26,,vi 8,sux:Ninŋirsuk[1]DN
+etcsri/Q001108,En-metena 26,,vi 9,sux:dari[eternal]V/i
+etcsri/Q001108,En-metena 26,,vi 10,sux:ŋeštug[ear]N sux:gub[stand]V/i
+etcsri/Q001108,En-metena 26,,vi 11,sux:Enmetenak[1]RN
+etcsri/Q001108,En-metena 26,,vii 2,sux:Ninŋirsuk[1]DN
+etcsri/Q001108,En-metena 26,,vii 3,sux:lugal[king]N sux:ki[place]N sux:aŋ[measure]V/t
+etcsri/Q001108,En-metena 26,,vii 4,sux:Ninŋirsuk[1]DN
+etcsri/Q001108,En-metena 26,,vii 5,sux:ŋeškešda[dam]N
+etcsri/Q001108,En-metena 26,,vii 6,sux:Lumagindug[1]WN
+etcsri/Q001108,En-metena 26,,vii 7,sux:du[build]V/t
+etcsri/Q001108,En-metena 26,,vii 8,sux:Ninŋirsuk[1]DN
+etcsri/Q001108,En-metena 26,,viii 2,sux:mu[name]N sux:še[call]V/t
+etcsri/Q001108,En-metena 26,,viii 3,sux:Enmetenak[1]RN
+etcsri/Q001108,En-metena 26,,viii 4,sux:ŋeškešda[dam]N sux:du[build]V/t
+etcsri/Q001108,En-metena 26,,viii 5,sux:Ninŋirsuk[1]DN
+etcsri/Q001108,En-metena 26,,viii 6,sux:diŋir[deity]N
+etcsri/Q001108,En-metena 26,,viii 7,sux:Šul-MUŠ×PA[1]DN

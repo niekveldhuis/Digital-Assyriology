@@ -1,0 +1,10 @@
+id_text,text_name,version,l_no,text
+etcsri/Q000887,Gudea 001,,1,sux:Bau[1]DN
+etcsri/Q000887,Gudea 001,,2,sux:munus[woman]N sux:sag[good]V/i
+etcsri/Q000887,Gudea 001,,3,sux:dumu[child]N sux:An[1]DN
+etcsri/Q000887,Gudea 001,,4,sux:nin[lady]N sux:Irikug[1]SN
+etcsri/Q000887,Gudea 001,,5,sux:nin[lady]N
+etcsri/Q000887,Gudea 001,,6,sux:Gudea[1]RN
+etcsri/Q000887,Gudea 001,,7,sux:ensik[ruler]N
+etcsri/Q000887,Gudea 001,,8,sux:Lagaš[1]SN
+etcsri/Q000887,Gudea 001,,9,sux:e[house]N sux:Irikug[1]SN

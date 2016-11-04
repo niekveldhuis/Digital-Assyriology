@@ -1,0 +1,8 @@
+id_text,text_name,version,l_no,text
+etcsri/Q001461,Ur-Ningirsu I 3,,1,sux:Ninmarkik[1]DN
+etcsri/Q001461,Ur-Ningirsu I 3,,2,sux:nin[lady]N
+etcsri/Q001461,Ur-Ningirsu I 3,,3,sux:namtil[life]N
+etcsri/Q001461,Ur-Ningirsu I 3,,4,sux:Urninŋirsu[1]RN
+etcsri/Q001461,Ur-Ningirsu I 3,,5,sux:ensik[ruler]N
+etcsri/Q001461,Ur-Ningirsu I 3,,6,sux:Lagaš[1]SN
+etcsri/Q001461,Ur-Ningirsu I 3,,9,sux:u[and]CNJ sux:namtil[life]N

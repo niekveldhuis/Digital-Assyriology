@@ -1,0 +1,8 @@
+id_text,text_name,version,l_no,text
+etcsri/Q004975,Ibbi-Suen 2041add,,i 1,sux:Ibbisuen[1]RN
+etcsri/Q004975,Ibbi-Suen 2041add,,i 2,sux:lugal[king]N sux:kalag[strong]V/i
+etcsri/Q004975,Ibbi-Suen 2041add,,i 3,sux:lugal[king]N sux:Urim[1]SN
+etcsri/Q004975,Ibbi-Suen 2041add,,i 4,sux:lugal[king]N sux:anubda[quarter]N sux:limmu[four]NU
+etcsri/Q004975,Ibbi-Suen 2041add,,ii 1,sux:Nuršamaš[1]PN
+etcsri/Q004975,Ibbi-Suen 2041add,,ii 2,sux:šuʾi[barber]N
+etcsri/Q004975,Ibbi-Suen 2041add,,ii 3,sux:arad[slave]N

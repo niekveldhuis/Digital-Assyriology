@@ -1,0 +1,8 @@
+id_text,text_name,version,l_no,text
+etcsri/Q004280,Šulgi 2062add,,i 1,sux:Šulgir[1]RN
+etcsri/Q004280,Šulgi 2062add,,i 2,sux:nita[male]N sux:kalag[strong]V/i
+etcsri/Q004280,Šulgi 2062add,,i 3,sux:lugal[king]N sux:Urim[1]SN
+etcsri/Q004280,Šulgi 2062add,,i 4,sux:lugal[king]N sux:anubda[quarter]N sux:limmu[four]NU
+etcsri/Q004280,Šulgi 2062add,,ii 1,sux:Aradnanna[1]PN
+etcsri/Q004280,Šulgi 2062add,,ii 2,sux:dumu[child]N sux:Uršulpae[1]PN
+etcsri/Q004280,Šulgi 2062add,,ii 3,sux:sukkalmah[official]N

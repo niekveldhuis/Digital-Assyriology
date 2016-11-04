@@ -1,0 +1,8 @@
+id_text,text_name,version,l_no,text
+etcsri/Q004968,Ibbi-Suen 2034add,,i 1,sux:Ibbisuen[1]RN
+etcsri/Q004968,Ibbi-Suen 2034add,,i 2,sux:lugal[king]N sux:kalag[strong]V/i
+etcsri/Q004968,Ibbi-Suen 2034add,,i 3,sux:lugal[king]N sux:Urim[1]SN
+etcsri/Q004968,Ibbi-Suen 2034add,,i 4,sux:lugal[king]N sux:anubda[quarter]N sux:limmu[four]NU
+etcsri/Q004968,Ibbi-Suen 2034add,,ii 1,sux:Ludiŋirak[5]PN
+etcsri/Q004968,Ibbi-Suen 2034add,,ii 2,sux:dumu[child]N sux:LU₂.X[10]PN
+etcsri/Q004968,Ibbi-Suen 2034add,,ii 3,sux:dubsar[scribe]N sux:lugal[king]N

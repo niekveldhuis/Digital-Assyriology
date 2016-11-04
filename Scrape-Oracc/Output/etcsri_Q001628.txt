@@ -1,0 +1,9 @@
+id_text,text_name,version,l_no,text
+etcsri/Q001628,Ur-Namma 23,,1,sux:Ninsumunak[1]DN
+etcsri/Q001628,Ur-Namma 23,,2,sux:diŋir[deity]N
+etcsri/Q001628,Ur-Namma 23,,3,sux:Urnammak[1]RN
+etcsri/Q001628,Ur-Namma 23,,4,sux:nita[male]N sux:kalag[strong]V/i
+etcsri/Q001628,Ur-Namma 23,,5,sux:lugal[king]N sux:Urim[1]SN
+etcsri/Q001628,Ur-Namma 23,,6,sux:lugal[king]N sux:Kiengir[1]GN sux:Akkad[1]GN
+etcsri/Q001628,Ur-Namma 23,,7,sux:Emah[1]TN
+etcsri/Q001628,Ur-Namma 23,,8,sux:e[house]N sux:ki[place]N sux:aŋ[measure]V/t

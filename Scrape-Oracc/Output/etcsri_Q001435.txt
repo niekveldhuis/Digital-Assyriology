@@ -1,0 +1,6 @@
+id_text,text_name,version,l_no,text
+etcsri/Q001435,Erridupizir 3,,colophon 1; 1,sux:musara[inscription]N sux:kigal[platform]N
+etcsri/Q001435,Erridupizir 3,,colophon 2; 1,sux:musara[inscription]N
+etcsri/Q001435,Erridupizir 3,,colophon 2; 2,sux:zag[side]N
+etcsri/Q001435,Erridupizir 3,,colophon 3; 1,sux:dub[tablet]N sux:musara[inscription]N
+etcsri/Q001435,Erridupizir 3,,colophon 3; 2,sux:eš[three]NU sux:alan[statue]N

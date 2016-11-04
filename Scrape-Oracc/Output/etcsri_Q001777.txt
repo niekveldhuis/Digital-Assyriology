@@ -1,0 +1,5 @@
+id_text,text_name,version,l_no,text
+etcsri/Q001777,Šulgi 2049,,2',sux:Šulgir[1]RN
+etcsri/Q001777,Šulgi 2049,,3',sux:lugal[king]N sux:Urim[1]SN
+etcsri/Q001777,Šulgi 2049,,4',sux:lugal[king]N sux:anubda[quarter]N sux:limmu[four]NU
+etcsri/Q001777,Šulgi 2049,,5',sux:zi[life]N sux:mada[land]N

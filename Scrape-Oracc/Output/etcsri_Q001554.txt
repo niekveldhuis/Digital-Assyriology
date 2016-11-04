@@ -1,0 +1,52 @@
+id_text,text_name,version,l_no,text
+etcsri/Q001554,Gudea Statue P,,i 1,sux:ud[sun]N sux:Ninŋirsuk[1]DN
+etcsri/Q001554,Gudea Statue P,,i 2,sux:ursaŋ[hero]N sux:kalag[strong]V/i
+etcsri/Q001554,Gudea Statue P,,i 3,sux:Enlil[1]DN
+etcsri/Q001554,Gudea Statue P,,i 4,sux:Ninŋešzidak[1]DN
+etcsri/Q001554,Gudea Statue P,,i 5,sux:dumu[child]N sux:Ninazu[1]DN
+etcsri/Q001554,Gudea Statue P,,i 6,sux:ki[place]N sux:aŋ[measure]V/t sux:diŋir[deity]N
+etcsri/Q001554,Gudea Statue P,,i 7,sux:iri[city]N sux:kiʾur[foundation]N
+etcsri/Q001554,Gudea Statue P,,ii 1,sux:ŋar[place]V/t
+etcsri/Q001554,Gudea Statue P,,ii 2,sux:ašag[field]N sux:gana[field]N sux:id[river]N
+etcsri/Q001554,Gudea Statue P,,ii 3,sux:ŋar[place]V/t
+etcsri/Q001554,Gudea Statue P,,ii 4,sux:Gudea[1]RN
+etcsri/Q001554,Gudea Statue P,,ii 5,sux:ensik[ruler]N
+etcsri/Q001554,Gudea Statue P,,ii 6,sux:Lagaš[1]SN
+etcsri/Q001554,Gudea Statue P,,ii 7,sux:lu[person]N sux:si[horn]N sux:sa[equal]V/t
+etcsri/Q001554,Gudea Statue P,,ii 8,sux:diŋir[deity]N
+etcsri/Q001554,Gudea Statue P,,ii 9,sux:ki[place]N sux:aŋ[measure]V/t
+etcsri/Q001554,Gudea Statue P,,ii 10,sux:Ninŋirsuk[1]DN
+etcsri/Q001554,Gudea Statue P,,ii 11,sux:lugal[king]N
+etcsri/Q001554,Gudea Statue P,,ii 12,sux:Eninnu-anzubabbar[1]TN
+etcsri/Q001554,Gudea Statue P,,ii 13,sux:Eŋidruk[1]TN sux:e[house]N sux:ub[corner]N sux:imin[seven]NU
+etcsri/Q001554,Gudea Statue P,,ii 14,sux:du[build]V/t
+etcsri/Q001554,Gudea Statue P,,ii 15,sux:Nanše[1]DN
+etcsri/Q001554,Gudea Statue P,,ii 16,sux:nin[lady]N sux:urun[exalted]V/i
+etcsri/Q001554,Gudea Statue P,,iii 1,sux:nin[lady]N
+etcsri/Q001554,Gudea Statue P,,iii 2,sux:Esirara[1]TN
+etcsri/Q001554,Gudea Statue P,,iii 3,sux:kur[mountain]N sux:e[house]N sux:il[raise]V/t
+etcsri/Q001554,Gudea Statue P,,iii 4,sux:du[build]V/t
+etcsri/Q001554,Gudea Statue P,,iii 5,sux:diŋir[deity]N sux:gal[big]V/i sux:Lagaš[1]SN
+etcsri/Q001554,Gudea Statue P,,iii 6,sux:e[house]N
+etcsri/Q001554,Gudea Statue P,,iii 7,sux:du[build]V/t
+etcsri/Q001554,Gudea Statue P,,iii 8,sux:Ninŋešzidak[1]DN
+etcsri/Q001554,Gudea Statue P,,iii 9,sux:diŋir[deity]N
+etcsri/Q001554,Gudea Statue P,,iii 10,sux:e[house]N sux:Ŋirsu[1]SN
+etcsri/Q001554,Gudea Statue P,,iii 11,sux:du[build]V/t
+etcsri/Q001554,Gudea Statue P,,iii 12,sux:lu[person]N sux:diŋir[deity]N
+etcsri/Q001554,Gudea Statue P,,iii 13,sux:Ninŋirsuk[1]DN
+etcsri/Q001554,Gudea Statue P,,iv 1,sux:diŋir[deity]N
+etcsri/Q001554,Gudea Statue P,,iv 2,sux:uŋ[people]N sux:gu[voice]N sux:de[pour]V/t
+etcsri/Q001554,Gudea Statue P,,iv 3,sux:e[house]N sux:diŋir[deity]N
+etcsri/Q001554,Gudea Statue P,,iv 4,sux:igi[eye]N
+etcsri/Q001554,Gudea Statue P,,iv 5,sux:ak[do]V/t
+etcsri/Q001554,Gudea Statue P,,iv 6,sux:mu[name]N sux:pad[find]V/t
+etcsri/Q001554,Gudea Statue P,,iv 7,sux:lu[person]N sux:guli[friend]N sux:me[be]V/i
+etcsri/Q001554,Gudea Statue P,,iv 8,sux:mu[name]N sux:pad[find]V/t
+etcsri/Q001554,Gudea Statue P,,v 1,sux:alan[statue]N
+etcsri/Q001554,Gudea Statue P,,v 2,sux:utud[bear]V/t
+etcsri/Q001554,Gudea Statue P,,v 3,sux:Gudea[1]RN
+etcsri/Q001554,Gudea Statue P,,v 4,sux:lu[person]N sux:e[house]N sux:du[build]V/t
+etcsri/Q001554,Gudea Statue P,,v 5,sux:namtil[life]N
+etcsri/Q001554,Gudea Statue P,,v 6,sux:sud[distant]V/i
+etcsri/Q001554,Gudea Statue P,,v 7,sux:mu[name]N sux:še[call]V/t

@@ -1,0 +1,8 @@
+id_text,text_name,version,l_no,text
+etcsri/Q001611,Lagaš II Unidentified 1022,,1',sux:ensik[ruler]N
+etcsri/Q001611,Lagaš II Unidentified 1022,,2',sux:Lagaš[1]SN
+etcsri/Q001611,Lagaš II Unidentified 1022,,3',sux:Urbauk[3]PN
+etcsri/Q001611,Lagaš II Unidentified 1022,,4',sux:dumu[child]N sux:Šeššeš[1]PN sux:damgar[merchant]N
+etcsri/Q001611,Lagaš II Unidentified 1022,,5',sux:a[water]N sux:ru[cvve]V/t
+etcsri/Q001611,Lagaš II Unidentified 1022,,6',sux:na[stone]N sux:diŋir[deity]N
+etcsri/Q001611,Lagaš II Unidentified 1022,,7',sux:til[live]V/i sux:al[hoe]N sux:dug[speak]V/t

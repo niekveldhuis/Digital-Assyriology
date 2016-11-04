@@ -1,0 +1,10 @@
+id_text,text_name,version,l_no,text
+etcsri/Q001867,Ibbi-Suen 2013,,i 1,sux:Ibbisuen[1]RN
+etcsri/Q001867,Ibbi-Suen 2013,,i 2,sux:lugal[king]N sux:kalag[strong]V/i
+etcsri/Q001867,Ibbi-Suen 2013,,i 3,sux:lugal[king]N sux:Urim[1]SN
+etcsri/Q001867,Ibbi-Suen 2013,,i 4,sux:lugal[king]N sux:anubda[quarter]N sux:limmu[four]NU
+etcsri/Q001867,Ibbi-Suen 2013,,ii 1,sux:Gududu[1]PN
+etcsri/Q001867,Ibbi-Suen 2013,,ii 2,sux:dubsar[scribe]N
+etcsri/Q001867,Ibbi-Suen 2013,,ii 3,sux:dumu[child]N sux:Dadaga[1]PN
+etcsri/Q001867,Ibbi-Suen 2013,,ii 4,sux:ensik[ruler]N
+etcsri/Q001867,Ibbi-Suen 2013,,ii 5,sux:Umma[1]SN

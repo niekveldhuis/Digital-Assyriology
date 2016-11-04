@@ -1,0 +1,10 @@
+id_text,text_name,version,l_no,text
+etcsri/Q001795,Amar-Suen 12,,1,sux:Amarsuenak[1]RN
+etcsri/Q001795,Amar-Suen 12,,2,sux:lugal[king]N sux:kalag[strong]V/i
+etcsri/Q001795,Amar-Suen 12,,3,sux:lugal[king]N sux:Urim[1]SN
+etcsri/Q001795,Amar-Suen 12,,4,sux:lugal[king]N sux:anubda[quarter]N sux:limmu[four]NU
+etcsri/Q001795,Amar-Suen 12,,5,sux:ki[place]N sux:ennuŋ[imprisonment]N sux:Urim[1]SN
+etcsri/Q001795,Amar-Suen 12,,6,sux:du[build]V/t
+etcsri/Q001795,Amar-Suen 12,,7,sux:ki[place]N sux:ennuŋ[imprisonment]N
+etcsri/Q001795,Amar-Suen 12,,8,sux:Amarsuenak[1]RN
+etcsri/Q001795,Amar-Suen 12,,9,sux:ki[place]N sux:aŋ[measure]V/t sux:Nanna[1]DN

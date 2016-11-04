@@ -1,0 +1,5 @@
+id_text,text_name,version,l_no,text
+etcsri/Q004984,Ibbi-Suen 2050add,,i 1,sux:Ibbisuen[1]RN
+etcsri/Q004984,Ibbi-Suen 2050add,,ii 1,sux:Lugaldumugir[1]PN
+etcsri/Q004984,Ibbi-Suen 2050add,,ii 2,sux:gudugabzuk[priest]N sux:Nanna[1]DN
+etcsri/Q004984,Ibbi-Suen 2050add,,ii 3,sux:dumu[child]N sux:Nannaizig[1]PN

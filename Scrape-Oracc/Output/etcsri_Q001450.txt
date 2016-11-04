@@ -1,0 +1,7 @@
+id_text,text_name,version,l_no,text
+etcsri/Q001450,Urgigirak 2001,,1',sux:namtil[life]N
+etcsri/Q001450,Urgigirak 2001,,2',sux:Urgigirak[1]RN
+etcsri/Q001450,Urgigirak 2001,,3',sux:nita[male]N sux:kalag[strong]V/i
+etcsri/Q001450,Urgigirak 2001,,4',sux:lugal[king]N sux:Unug[1]SN
+etcsri/Q001450,Urgigirak 2001,,5',sux:Lugalanatum[1]PN
+etcsri/Q001450,Urgigirak 2001,,6',sux:išib[priest]N sux:An[1]DN

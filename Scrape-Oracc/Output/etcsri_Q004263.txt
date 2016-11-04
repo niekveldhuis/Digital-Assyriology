@@ -1,0 +1,3 @@
+id_text,text_name,version,l_no,text
+etcsri/Q004263,Lagaš II Unidentified 1036add,,1',sux:namtil[life]N
+etcsri/Q004263,Lagaš II Unidentified 1036add,,2',sux:namtil[life]N sux:dam[spouse]N sux:dumu[child]N

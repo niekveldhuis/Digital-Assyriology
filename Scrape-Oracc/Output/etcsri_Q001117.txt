@@ -1,0 +1,60 @@
+id_text,text_name,version,l_no,text
+etcsri/Q001117,En-metena 04,,i 1,sux:Lugalemuš[1]DN
+etcsri/Q001117,En-metena 04,,i 2,sux:Enmetenak[1]RN
+etcsri/Q001117,En-metena 04,,i 3,sux:ensik[ruler]N
+etcsri/Q001117,En-metena 04,,i 4,sux:Lagaš[1]SN
+etcsri/Q001117,En-metena 04,,i 5,sux:šag[heart]N sux:pad[find]V/t
+etcsri/Q001117,En-metena 04,,i 6,sux:Nanše[1]DN
+etcsri/Q001117,En-metena 04,,i 7,sux:ensikgal[governor]N sux:Ninŋirsuk[1]DN
+etcsri/Q001117,En-metena 04,,i 8,sux:dumu[child]N sux:Enanatum[1]RN
+etcsri/Q001117,En-metena 04,,i 9,sux:ensik[ruler]N
+etcsri/Q001117,En-metena 04,,i 10,sux:Lagaš[1]SN
+etcsri/Q001117,En-metena 04,,ii 1,sux:Ninŋirsuk[1]DN
+etcsri/Q001117,En-metena 04,,ii 2,sux:eš[shrine]N sux:Dugru[1]GN
+etcsri/Q001117,En-metena 04,,ii 3,sux:du[build]V/t
+etcsri/Q001117,En-metena 04,,ii 4,sux:Ahuš[1]TN
+etcsri/Q001117,En-metena 04,,ii 5,sux:e[house]N sux:igi[eye]N sux:zid[right]V/i sux:bar[cvve]V/t
+etcsri/Q001117,En-metena 04,,ii 6,sux:du[build]V/t
+etcsri/Q001117,En-metena 04,,ii 7,sux:tum[suitable]V/i
+etcsri/Q001117,En-metena 04,,ii 8,sux:gigir[chariot]N sux:kur[mountain]N sux:dub[heap]V/t sux:Ninŋirsuk[1]DN sux:harran[route]N sux:Eridug[1]SN sux:gurum[bend]V/t
+etcsri/Q001117,En-metena 04,,ii 9,sux:ni[fear]N sux:kuršag[mountain]N
+etcsri/Q001117,En-metena 04,,ii 10,sux:dim[create]V/t
+etcsri/Q001117,En-metena 04,,iii 1,sux:Edurzile[1]TN
+etcsri/Q001117,En-metena 04,,iii 2,sux:du[build]V/t
+etcsri/Q001117,En-metena 04,,iii 3,sux:Lugalurubak[1]DN
+etcsri/Q001117,En-metena 04,,iii 4,sux:e[house]N sux:gal[big]V/i sux:Urub[1]SN
+etcsri/Q001117,En-metena 04,,iii 5,sux:du[build]V/t
+etcsri/Q001117,En-metena 04,,iii 6,sux:Nanše[1]DN
+etcsri/Q001117,En-metena 04,,iii 7,sux:Eʾengur[1]TN sux:Zulum[1]SN
+etcsri/Q001117,En-metena 04,,iii 8,sux:du[build]V/t
+etcsri/Q001117,En-metena 04,,iii 9,sux:tum[suitable]V/i
+etcsri/Q001117,En-metena 04,,iii 10,sux:amargi[reversion]N sux:Lagaš[1]SN
+etcsri/Q001117,En-metena 04,,iv 1,sux:ŋar[place]V/t
+etcsri/Q001117,En-metena 04,,iv 2,sux:ama[mother]N sux:dumu[child]N sux:gi[turn]V/i
+etcsri/Q001117,En-metena 04,,iv 3,sux:dumu[child]N sux:ama[mother]N sux:gi[turn]V/i
+etcsri/Q001117,En-metena 04,,iv 4,sux:amargi[reversion]N sux:še[barley]N sux:urra[loan]N
+etcsri/Q001117,En-metena 04,,iv 5,sux:ŋar[place]V/t
+etcsri/Q001117,En-metena 04,,iv 6,sux:ud[sun]N sux:Enmetenak[1]RN
+etcsri/Q001117,En-metena 04,,iv 7,sux:Lugalemuš[1]DN
+etcsri/Q001117,En-metena 04,,iv 8,sux:Emuš[1]TN sux:Padtibirak[1]SN
+etcsri/Q001117,En-metena 04,,v 1,sux:e[house]N sux:ki[place]N sux:aŋ[measure]V/t
+etcsri/Q001117,En-metena 04,,v 2,sux:du[build]V/t
+etcsri/Q001117,En-metena 04,,v 3,sux:ki[place]N sux:gi[turn]V/i
+etcsri/Q001117,En-metena 04,,v 4,sux:dumu[child]N sux:Unug[1]SN
+etcsri/Q001117,En-metena 04,,v 5,sux:dumu[child]N sux:Larsam[1]SN
+etcsri/Q001117,En-metena 04,,v 6,sux:dumu[child]N sux:Padtibirak[1]SN
+etcsri/Q001117,En-metena 04,,v 7,sux:amargi[reversion]N
+etcsri/Q001117,En-metena 04,,v 8,sux:ŋar[place]V/t
+etcsri/Q001117,En-metena 04,,v 9,sux:Inanak[1]DN
+etcsri/Q001117,En-metena 04,,v 10,sux:Unug[1]SN
+etcsri/Q001117,En-metena 04,,v 11,sux:šu[hand]N sux:gi[turn]V/i
+etcsri/Q001117,En-metena 04,,vi 1,sux:Utu[1]DN
+etcsri/Q001117,En-metena 04,,vi 2,sux:Larsam[1]SN
+etcsri/Q001117,En-metena 04,,vi 3,sux:šu[hand]N sux:gi[turn]V/i
+etcsri/Q001117,En-metena 04,,vi 4,sux:Lugalemuš[1]DN
+etcsri/Q001117,En-metena 04,,vi 5,sux:Emuš[1]TN
+etcsri/Q001117,En-metena 04,,vi 6,sux:šu[hand]N sux:gi[turn]V/i
+etcsri/Q001117,En-metena 04,,vi 7,sux:Enmetenak[1]RN
+etcsri/Q001117,En-metena 04,,vi 8,sux:lu[person]N sux:inim[word]N sux:sig[put]V/t
+etcsri/Q001117,En-metena 04,,vi 9,sux:Inanak[1]DN
+etcsri/Q001117,En-metena 04,,vi 10,sux:diŋir[deity]N

@@ -1,0 +1,8 @@
+id_text,text_name,version,l_no,text
+etcsri/Q005010,Ibbi-Suen 2080add,,i 1,sux:Ibbisuen[1]RN
+etcsri/Q005010,Ibbi-Suen 2080add,,i 2,sux:lugal[king]N sux:kalag[strong]V/i
+etcsri/Q005010,Ibbi-Suen 2080add,,i 3,sux:lugal[king]N sux:Urim[1]SN
+etcsri/Q005010,Ibbi-Suen 2080add,,i 4,sux:lugal[king]N sux:anubda[quarter]N sux:limmu[four]NU
+etcsri/Q005010,Ibbi-Suen 2080add,,ii 1,sux:Umani[2]PN
+etcsri/Q005010,Ibbi-Suen 2080add,,ii 2,sux:dubsar[scribe]N
+etcsri/Q005010,Ibbi-Suen 2080add,,ii 3,sux:dumu[child]N sux:Šeškala[4]PN

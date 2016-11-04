@@ -1,0 +1,22 @@
+id_text,text_name,version,l_no,text
+etcsri/Q001552,Gudea Statue N,,1,sux:Gudea[1]RN
+etcsri/Q001552,Gudea Statue N,,2,sux:ensik[ruler]N
+etcsri/Q001552,Gudea Statue N,,3,sux:Lagaš[1]SN
+etcsri/Q001552,Gudea Statue N,,4,sux:lu[person]N sux:e[house]N sux:Ninŋešzidak[1]DN
+etcsri/Q001552,Gudea Statue N,,5,sux:u[and]CNJ sux:e[house]N sux:Ŋeštinanak[1]DN
+etcsri/Q001552,Gudea Statue N,,6,sux:du[build]V/t
+etcsri/Q001552,Gudea Statue N,,i 1,sux:Ŋeštinanak[1]DN
+etcsri/Q001552,Gudea Statue N,,i 2,sux:nin[lady]N sux:ane[he]IP sux:mu[grow]V/t
+etcsri/Q001552,Gudea Statue N,,i 3,sux:dam[spouse]N sux:ki[place]N sux:aŋ[measure]V/t
+etcsri/Q001552,Gudea Statue N,,i 4,sux:Ninŋešzidak[1]DN
+etcsri/Q001552,Gudea Statue N,,ii 1,sux:nin[lady]N
+etcsri/Q001552,Gudea Statue N,,ii 2,sux:Gudea[1]RN
+etcsri/Q001552,Gudea Statue N,,ii 3,sux:ensik[ruler]N
+etcsri/Q001552,Gudea Statue N,,ii 4,sux:Lagaš[1]SN
+etcsri/Q001552,Gudea Statue N,,ii 5,sux:e[house]N sux:Ŋirsu[1]SN
+etcsri/Q001552,Gudea Statue N,,iii 1,sux:du[build]V/t
+etcsri/Q001552,Gudea Statue N,,iii 2,sux:alan[statue]N
+etcsri/Q001552,Gudea Statue N,,iii 3,sux:utud[bear]V/t
+etcsri/Q001552,Gudea Statue N,,iii 4,sux:Ŋeštinanak[1]DN
+etcsri/Q001552,Gudea Statue N,,iii 5,sux:namtil[life]N sux:šum[give]V/t
+etcsri/Q001552,Gudea Statue N,,iii 6,sux:mu[name]N sux:še[call]V/t

@@ -1,0 +1,5 @@
+id_text,text_name,version,l_no,text
+etcsri/Q000949,Ur-Namma 24,,1,sux:Urnammak[1]RN
+etcsri/Q000949,Ur-Namma 24,,2,sux:lugal[king]N sux:Urim[1]SN
+etcsri/Q000949,Ur-Namma 24,,3,sux:lugal[king]N sux:Kiengir[1]GN sux:Akkad[1]GN
+etcsri/Q000949,Ur-Namma 24,,4,sux:lu[person]N sux:e[house]N sux:Enlil[1]DN

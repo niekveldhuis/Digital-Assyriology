@@ -1,0 +1,29 @@
+id_text,text_name,version,l_no,text
+etcsri/Q000997,Šu-Suen 13,,1,sux:Šusuen[1]RN
+etcsri/Q000997,Šu-Suen 13,,2,sux:ki[place]N sux:aŋ[measure]V/t sux:Enlil[1]DN
+etcsri/Q000997,Šu-Suen 13,,3,sux:lugal[king]N sux:Enlil[1]DN
+etcsri/Q000997,Šu-Suen 13,,4,sux:ki[place]N sux:aŋ[measure]V/t sux:šag[heart]N
+etcsri/Q000997,Šu-Suen 13,,5,sux:pad[find]V/t
+etcsri/Q000997,Šu-Suen 13,,6,sux:lugal[king]N sux:kalag[strong]V/i
+etcsri/Q000997,Šu-Suen 13,,7,sux:lugal[king]N sux:Urim[1]SN
+etcsri/Q000997,Šu-Suen 13,,8,sux:lugal[king]N sux:anubda[quarter]N sux:limmu[four]NU
+etcsri/Q000997,Šu-Suen 13,,9,sux:lugal[king]N
+etcsri/Q000997,Šu-Suen 13,,10,sux:Aradnanna[1]PN
+etcsri/Q000997,Šu-Suen 13,,11,sux:sukkalmah[official]N
+etcsri/Q000997,Šu-Suen 13,,12,sux:ensik[ruler]N
+etcsri/Q000997,Šu-Suen 13,,13,sux:Lagaš[1]SN
+etcsri/Q000997,Šu-Suen 13,,14,sux:saŋŋa[official]N sux:Enkik[1]DN
+etcsri/Q000997,Šu-Suen 13,,15,sux:šakkanak[general]N sux:Uṣarŋaršana[1]SN
+etcsri/Q000997,Šu-Suen 13,,16,sux:šakkanak[general]N sux:Bašime[1]SN
+etcsri/Q000997,Šu-Suen 13,,17,sux:ensik[ruler]N sux:Sabum[1]SN
+etcsri/Q000997,Šu-Suen 13,,18,sux:u[and]CNJ sux:mada[land]N sux:Gutebum[1]GN
+etcsri/Q000997,Šu-Suen 13,,19,sux:šakkanak[general]N sux:Dimatenlilak[1]SN
+etcsri/Q000997,Šu-Suen 13,,20,sux:ensik[ruler]N sux:Alšusuen[1]SN
+etcsri/Q000997,Šu-Suen 13,,21,sux:šakkanak[general]N sux:Urbillum[1]SN
+etcsri/Q000997,Šu-Suen 13,,22,sux:ensik[ruler]N sux:Hamzi[1]SN
+etcsri/Q000997,Šu-Suen 13,,23,sux:u[and]CNJ sux:Karahar[1]SN
+etcsri/Q000997,Šu-Suen 13,,24,sux:šakkanak[general]N sux:NI.HI[1]SN
+etcsri/Q000997,Šu-Suen 13,,25,sux:šakkanak[general]N sux:Šimaški[1]EN
+etcsri/Q000997,Šu-Suen 13,,26,sux:u[and]CNJ sux:mada[land]N sux:Kardak[1]GN
+etcsri/Q000997,Šu-Suen 13,,27,sux:arad[slave]N
+etcsri/Q000997,Šu-Suen 13,,28,sux:e[house]N sux:Ŋirsu[1]SN

@@ -1,0 +1,9 @@
+id_text,text_name,version,l_no,text
+etcsri/Q005023,Ibbi-Suen 2096add,,i 1,sux:Ibbisuen[1]RN
+etcsri/Q005023,Ibbi-Suen 2096add,,i 2,sux:diŋir[deity]N sux:kalam[land]N
+etcsri/Q005023,Ibbi-Suen 2096add,,i 3,sux:lugal[king]N sux:Urim[1]SN
+etcsri/Q005023,Ibbi-Suen 2096add,,i 4,sux:lugal[king]N sux:anubda[quarter]N sux:limmu[four]NU
+etcsri/Q005023,Ibbi-Suen 2096add,,ii 1,sux:Urniŋar[8]PN
+etcsri/Q005023,Ibbi-Suen 2096add,,ii 2,sux:bisaŋdubak[archivist]N
+etcsri/Q005023,Ibbi-Suen 2096add,,ii 3,sux:dumu[child]N sux:Aršiah[1]PN
+etcsri/Q005023,Ibbi-Suen 2096add,,ii 4,sux:arad[slave]N

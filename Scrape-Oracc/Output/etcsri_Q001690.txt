@@ -1,0 +1,8 @@
+id_text,text_name,version,l_no,text
+etcsri/Q001690,Šulgi 58,,1,sux:Ningal[1]DN
+etcsri/Q001690,Šulgi 58,,2,sux:ama[mother]N
+etcsri/Q001690,Šulgi 58,,3,sux:Šulgir[1]RN
+etcsri/Q001690,Šulgi 58,,4,sux:diŋir[deity]N sux:kalam[land]N
+etcsri/Q001690,Šulgi 58,,5,sux:lugal[king]N sux:Urim[1]SN
+etcsri/Q001690,Šulgi 58,,6,sux:lugal[king]N sux:anubda[quarter]N sux:limmu[four]NU
+etcsri/Q001690,Šulgi 58,,7,sux:namtil[life]N

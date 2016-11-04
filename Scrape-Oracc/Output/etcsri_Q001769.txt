@@ -1,0 +1,8 @@
+id_text,text_name,version,l_no,text
+etcsri/Q001769,Šulgi 2041,,1',sux:nin[lady]N sux:ekur[prison]N
+etcsri/Q001769,Šulgi 2041,,2',sux:nin[lady]N
+etcsri/Q001769,Šulgi 2041,,3',sux:namtil[life]N
+etcsri/Q001769,Šulgi 2041,,4',sux:Šulgir[1]RN
+etcsri/Q001769,Šulgi 2041,,5',sux:nita[male]N sux:kalag[strong]V/i
+etcsri/Q001769,Šulgi 2041,,6',sux:lugal[king]N sux:Urim[1]SN
+etcsri/Q001769,Šulgi 2041,,7',sux:lugal[king]N sux:Kiengir[1]GN sux:Akkad[1]GN

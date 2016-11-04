@@ -1,0 +1,7 @@
+id_text,text_name,version,l_no,text
+etcsri/Q001900,Unattributed Ur III 1031,,1',sux:numun[seed]N
+etcsri/Q001900,Unattributed Ur III 1031,,2',sux:til[complete]V/i
+etcsri/Q001900,Unattributed Ur III 1031,,3',sux:tukumbi[if]CNJ
+etcsri/Q001900,Unattributed Ur III 1031,,4',sux:gunesaŋa[cupboard]N
+etcsri/Q001900,Unattributed Ur III 1031,,5',sux:e[leave]V/i
+etcsri/Q001900,Unattributed Ur III 1031,,6',sux:e[house]N sux:niŋgur[property]N
