@@ -1,0 +1,10 @@
+id_text,text_name,version,l_no,text
+etcsri/Q002016,Gungunum 3,,1,sux:Gungunum[1]RN
+etcsri/Q002016,Gungunum 3,,2,sux:lugal[king]N sux:Larsam[1]SN
+etcsri/Q002016,Gungunum 3,,3,sux:lugal[king]N sux:Kiengir[1]GN sux:Akkad[1]GN
+etcsri/Q002016,Gungunum 3,,4,sux:ibila[heir]N sux:kalag[strong]V/i
+etcsri/Q002016,Gungunum 3,,5,sux:Samium[1]RN
+etcsri/Q002016,Gungunum 3,,6,sux:bad[wall]N sux:gal[big]V/i sux:Larsam[1]SN
+etcsri/Q002016,Gungunum 3,,7,sux:Utu[1]DN sux:kibala[rebel-land]N sux:sa[equal]V/t sux:dug[speak]V/t
+etcsri/Q002016,Gungunum 3,,8,sux:mu[name]N
+etcsri/Q002016,Gungunum 3,,9,sux:šag[heart]N sux:mu[year]N sux:aš[one]NU sux:šeg[brick]N

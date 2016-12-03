@@ -1,0 +1,10 @@
+id_text,text_name,version,l_no,text
+etcsri/Q002242,Sin-kašid 05,,1,sux:Sinkašid[1]RN
+etcsri/Q002242,Sin-kašid 05,,2,sux:nita[male]N sux:kalag[strong]V/i
+etcsri/Q002242,Sin-kašid 05,,3,sux:lugal[king]N sux:Unug[1]SN
+etcsri/Q002242,Sin-kašid 05,,4,sux:lugal[king]N sux:Amnanum[1]GN
+etcsri/Q002242,Sin-kašid 05,,5,sux:ua[provisioner]N sux:Eanak[1]TN
+etcsri/Q002242,Sin-kašid 05,,6,sux:ud[sun]N sux:Eanak[1]TN
+etcsri/Q002242,Sin-kašid 05,,7,sux:du[build]V/t
+etcsri/Q002242,Sin-kašid 05,,8,sux:egal[palace]N sux:gibil[new]V/i
+etcsri/Q002242,Sin-kašid 05,,9,sux:Ekituššaghulak[1]TN

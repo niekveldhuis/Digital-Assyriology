@@ -1,0 +1,5 @@
+id_text,text_name,version,l_no,text
+etcsri/Q002002,Sin-magir 2001,,1,sux:Iddindamu[1]PN
+etcsri/Q002002,Sin-magir 2001,,2,sux:šidimgal[builder]N
+etcsri/Q002002,Sin-magir 2001,,3,sux:dumu[child]N sux:Iaya[1]PN
+etcsri/Q002002,Sin-magir 2001,,4,sux:arad[slave]N sux:Enkik[1]DN

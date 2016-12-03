@@ -1,0 +1,3 @@
+id_text,text_name,version,l_no,text
+etcsri/Q002137,Warad-Sin 33,,1,sux:Rimsin[1]RN
+etcsri/Q002137,Warad-Sin 33,,2,sux:dumu[child]N sux:Waradsin[1]RN
