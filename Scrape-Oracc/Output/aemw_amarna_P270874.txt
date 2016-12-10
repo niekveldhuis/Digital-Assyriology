@@ -1,27 +1,27 @@
 id_text,text_name,l_no,text
-aemw/amarna/P270874,EA 364. Justified war [vassal letter],001,akk-x-mbperi:ana[to]PRP akk-x-mbperi:šarru[king]N akk-x-mbperi:bēlu[lord]N
-aemw/amarna/P270874,EA 364. Justified war [vassal letter],002,akk-x-mbperi:umma[saying]PRP akk-x-mbperi:Ayyab[1]PN
-aemw/amarna/P270874,EA 364. Justified war [vassal letter],003,akk-x-mbperi:wardu[slave]N akk-x-mbperi:ana[to]PRP
+aemw/amarna/P270874,EA 364. Justified war [vassal letter],001,akk-x-mbperi:šarru[king]N akk-x-mbperi:bēlu[lord]N
+aemw/amarna/P270874,EA 364. Justified war [vassal letter],002,
+aemw/amarna/P270874,EA 364. Justified war [vassal letter],003,akk-x-mbperi:wardu[slave]N
 aemw/amarna/P270874,EA 364. Justified war [vassal letter],004,akk-x-mbperi:šēpu[foot]N akk-x-mbperi:bēlu[lord]N
-aemw/amarna/P270874,EA 364. Justified war [vassal letter],006,akk-x-mbperi:maqātu[fall]V akk-x-mbperi:anāku[I]IP akk-x-mbperi:wardu[slave]N
-aemw/amarna/P270874,EA 364. Justified war [vassal letter],007,akk-x-mbperi:šarru[king]N akk-x-mbperi:bēlu[lord]N akk-x-mbperi:u[and]CNJ
-aemw/amarna/P270874,EA 364. Justified war [vassal letter],008,akk-x-mbperi:eperu[earth]N qca:aparu[dust]N akk-x-mbperi:ša[of]DET
+aemw/amarna/P270874,EA 364. Justified war [vassal letter],006,akk-x-mbperi:wardu[slave]N
+aemw/amarna/P270874,EA 364. Justified war [vassal letter],007,akk-x-mbperi:šarru[king]N akk-x-mbperi:bēlu[lord]N
+aemw/amarna/P270874,EA 364. Justified war [vassal letter],008,akk-x-mbperi:eperu[earth]N qca:aparu[dust]N
 aemw/amarna/P270874,EA 364. Justified war [vassal letter],009,akk-x-mbperi:šēpu[foot]N
-aemw/amarna/P270874,EA 364. Justified war [vassal letter],010,akk-x-mbperi:šemû[hear]V akk-x-mbperi:šapāru[send]V
+aemw/amarna/P270874,EA 364. Justified war [vassal letter],010,
 aemw/amarna/P270874,EA 364. Justified war [vassal letter],011,akk-x-mbperi:šarru[king]N akk-x-mbperi:bēlu[lord]N
-aemw/amarna/P270874,EA 364. Justified war [vassal letter],012,akk-x-mbperi:ana[to]PRP akk-x-mbperi:yâšim[to-me]IP akk-x-mbperi:ina[in]PRP
-aemw/amarna/P270874,EA 364. Justified war [vassal letter],013,akk-x-mbperi:qātu[hand]N akk-x-mbperi:Atahmaya[1]PN
-aemw/amarna/P270874,EA 364. Justified war [vassal letter],014,akk-x-mbperi:adi[until]PRP akk-x-mbperi:naṣāru[guard]V
-aemw/amarna/P270874,EA 364. Justified war [vassal letter],015,akk-x-mbperi:magal[very-(much)]AV akk-x-mbperi:magal[very-(much)]AV
+aemw/amarna/P270874,EA 364. Justified war [vassal letter],012,
+aemw/amarna/P270874,EA 364. Justified war [vassal letter],013,akk-x-mbperi:qātu[hand]N
+aemw/amarna/P270874,EA 364. Justified war [vassal letter],014,
+aemw/amarna/P270874,EA 364. Justified war [vassal letter],015,
 aemw/amarna/P270874,EA 364. Justified war [vassal letter],016,akk-x-mbperi:ālu[city]N akk-x-mbperi:šarru[king]N akk-x-mbperi:bēlu[lord]N
-aemw/amarna/P270874,EA 364. Justified war [vassal letter],017,akk-x-mbperi:šanītu[something-other]N akk-x-mbperi:amāru[see]V
-aemw/amarna/P270874,EA 364. Justified war [vassal letter],018,akk-x-mbperi:awīlu[man]N akk-x-mbperi:Haṣura[Hazor]GN
-aemw/amarna/P270874,EA 364. Justified war [vassal letter],019,akk-x-mbperi:leqû[take]V
-aemw/amarna/P270874,EA 364. Justified war [vassal letter],020,akk-x-mbperi:ālu[city]N akk-x-mbperi:ištu[from]PRP akk-x-mbperi:yâšim[to-me]IP
-aemw/amarna/P270874,EA 364. Justified war [vassal letter],021,akk-x-mbperi:ina[in]PRP akk-x-mbperi:ūmu[day]N akk-x-mbperi:šemû[hear]V akk-x-mbperi:u[and]CNJ akk-x-mbperi:amāru[see]V
-aemw/amarna/P270874,EA 364. Justified war [vassal letter],022,akk-x-mbperi:epēšu[do]V akk-x-mbperi:nukurtu[enmity]N
-aemw/amarna/P270874,EA 364. Justified war [vassal letter],023,akk-x-mbperi:ina[in]PRP akk-x-mbperi:šâšu[to-him]IP
-aemw/amarna/P270874,EA 364. Justified war [vassal letter],024,akk-x-mbperi:adi[until]PRP akk-x-mbperi:edû[know]V
+aemw/amarna/P270874,EA 364. Justified war [vassal letter],017,akk-x-mbperi:šanītu[something-other]N
+aemw/amarna/P270874,EA 364. Justified war [vassal letter],018,akk-x-mbperi:awīlu[man]N
+aemw/amarna/P270874,EA 364. Justified war [vassal letter],019,
+aemw/amarna/P270874,EA 364. Justified war [vassal letter],020,akk-x-mbperi:ālu[city]N
+aemw/amarna/P270874,EA 364. Justified war [vassal letter],021,akk-x-mbperi:ūmu[day]N
+aemw/amarna/P270874,EA 364. Justified war [vassal letter],022,akk-x-mbperi:nukurtu[enmity]N
+aemw/amarna/P270874,EA 364. Justified war [vassal letter],023,
+aemw/amarna/P270874,EA 364. Justified war [vassal letter],024,
 aemw/amarna/P270874,EA 364. Justified war [vassal letter],025,akk-x-mbperi:šarru[king]N akk-x-mbperi:bēlu[lord]N
-aemw/amarna/P270874,EA 364. Justified war [vassal letter],026,akk-x-mbperi:u[and]CNJ akk-x-mbperi:šarru[king]N akk-x-mbperi:bēlu[lord]N
-aemw/amarna/P270874,EA 364. Justified war [vassal letter],027,akk-x-mbperi:malāku[discuss]V
+aemw/amarna/P270874,EA 364. Justified war [vassal letter],026,akk-x-mbperi:šarru[king]N akk-x-mbperi:bēlu[lord]N
+aemw/amarna/P270874,EA 364. Justified war [vassal letter],027,

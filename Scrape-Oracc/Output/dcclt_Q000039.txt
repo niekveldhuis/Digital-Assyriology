@@ -45,7 +45,7 @@ dcclt/Q000039,OB Nippur Ura 01,36,sux:ildag[poplar]N sux:bur[spread]V/t
 dcclt/Q000039,OB Nippur Ura 01,37,sux:ildag[poplar]N sux:šitan[water-channel]N
 dcclt/Q000039,OB Nippur Ura 01,38,sux:kur[wood]N
 dcclt/Q000039,OB Nippur Ura 01,39,sux:ŋešaʾabak[tree]N
-dcclt/Q000039,OB Nippur Ura 01,40,sux:ŋešaʾabak[tree]N sux:Meluhha[1]GN
+dcclt/Q000039,OB Nippur Ura 01,40,sux:ŋešaʾabak[tree]N
 dcclt/Q000039,OB Nippur Ura 01,41,sux:ŋipar[tree]N
 dcclt/Q000039,OB Nippur Ura 01,42,sux:manu[wood]N
 dcclt/Q000039,OB Nippur Ura 01,43,sux:manu[wood]N sux:šu[hand]N sux:ak[do]V/t
@@ -56,8 +56,8 @@ dcclt/Q000039,OB Nippur Ura 01,46,sux:KID.da[twig]N
 dcclt/Q000039,OB Nippur Ura 01,47,sux:KID.da[twig]N
 dcclt/Q000039,OB Nippur Ura 01,48,sux:KID.da[twig]N sux:sil[split]V/i
 dcclt/Q000039,OB Nippur Ura 01,49,sux:mes[tree]N
-dcclt/Q000039,OB Nippur Ura 01,50,sux:mes[tree]N sux:Magan[1]GN
-dcclt/Q000039,OB Nippur Ura 01,51,sux:mes[tree]N sux:Meluhha[1]GN
+dcclt/Q000039,OB Nippur Ura 01,50,sux:mes[tree]N
+dcclt/Q000039,OB Nippur Ura 01,51,sux:mes[tree]N
 dcclt/Q000039,OB Nippur Ura 01,51a,sux:mes[tree]N
 dcclt/Q000039,OB Nippur Ura 01,51b,sux:mes.TU[tree]N
 dcclt/Q000039,OB Nippur Ura 01,51c,sux:mes[tree]N sux:ki[place]N sux:ŋar[place]V/t
@@ -199,10 +199,10 @@ dcclt/Q000039,OB Nippur Ura 01,175,sux:guza[chair]N sux:šag[heart]N sux:hul[rej
 dcclt/Q000039,OB Nippur Ura 01,176,sux:guza[chair]N sux:šusar[string]N sux:du[build]V/t
 dcclt/Q000039,OB Nippur Ura 01,177,sux:guza[chair]N sux:du[build]V/t
 dcclt/Q000039,OB Nippur Ura 01,178,sux:guza[chair]N sux:šah[pig]N sux:šum[slaughter]V/t
-dcclt/Q000039,OB Nippur Ura 01,179,sux:guza[chair]N sux:Magan[1]GN
-dcclt/Q000039,OB Nippur Ura 01,180,sux:guza[chair]N sux:Meluhha[1]GN
+dcclt/Q000039,OB Nippur Ura 01,179,sux:guza[chair]N
+dcclt/Q000039,OB Nippur Ura 01,180,sux:guza[chair]N
 dcclt/Q000039,OB Nippur Ura 01,181,sux:guza[chair]N sux:malah[sailor]N
-dcclt/Q000039,OB Nippur Ura 01,182,sux:guza[chair]N sux:Aratta[1]SN
+dcclt/Q000039,OB Nippur Ura 01,182,sux:guza[chair]N
 dcclt/Q000039,OB Nippur Ura 01,183,sux:guza[chair]N sux:nita[male]N
 dcclt/Q000039,OB Nippur Ura 01,184,sux:guza[chair]N sux:munus[woman]N
 dcclt/Q000039,OB Nippur Ura 01,185,sux:guza[chair]N sux:unkin[assembly]N
@@ -297,7 +297,7 @@ dcclt/Q000039,OB Nippur Ura 01,271,sux:ma[ship]N sux:šukud[fisherman]N
 dcclt/Q000039,OB Nippur Ura 01,272,sux:ma[ship]N sux:peš[thick]V/i
 dcclt/Q000039,OB Nippur Ura 01,273,sux:ma[ship]N sux:šu[hand]N sux:gi[turn]V/i
 dcclt/Q000039,OB Nippur Ura 01,273a,sux:ma[ship]N
-dcclt/Q000039,OB Nippur Ura 01,274,sux:ma[ship]N sux:Mari[1]SN
+dcclt/Q000039,OB Nippur Ura 01,274,sux:ma[ship]N
 dcclt/Q000039,OB Nippur Ura 01,275,sux:ma[ship]N sux:su[sink]V/t
 dcclt/Q000039,OB Nippur Ura 01,276,sux:ma[ship]N sux:dim[post]N sux:dug[speak]V/t
 dcclt/Q000039,OB Nippur Ura 01,277,sux:ma[ship]N
@@ -311,17 +311,17 @@ dcclt/Q000039,OB Nippur Ura 01,284,sux:ma[ship]N sux:gur[unit]N
 dcclt/Q000039,OB Nippur Ura 01,285,sux:ma[ship]N sux:u[ten]NU sux:gur[unit]N
 dcclt/Q000039,OB Nippur Ura 01,286,sux:ma[ship]N sux:ya[five]NU sux:gur[unit]N
 dcclt/Q000039,OB Nippur Ura 01,287,sux:ma[ship]N sux:tur[small]V/i
-dcclt/Q000039,OB Nippur Ura 01,288,sux:Maʾana[1]ON
-dcclt/Q000039,OB Nippur Ura 01,289,sux:Maʾašte[1]ON
-dcclt/Q000039,OB Nippur Ura 01,290,sux:magur[barge]N sux:Ninlil[1]DN
-dcclt/Q000039,OB Nippur Ura 01,291,sux:magur[barge]N sux:Damu[1]DN
-dcclt/Q000039,OB Nippur Ura 01,292,sux:Makarnuntaʾea[1]ON
-dcclt/Q000039,OB Nippur Ura 01,293,sux:Madurahabzu[1]ON
-dcclt/Q000039,OB Nippur Ura 01,294,sux:Manuri[1]ON
-dcclt/Q000039,OB Nippur Ura 01,294a,sux:Manuri[1]ON sux:banda[junior]V/i
+dcclt/Q000039,OB Nippur Ura 01,288,
+dcclt/Q000039,OB Nippur Ura 01,289,
+dcclt/Q000039,OB Nippur Ura 01,290,sux:magur[barge]N
+dcclt/Q000039,OB Nippur Ura 01,291,sux:magur[barge]N
+dcclt/Q000039,OB Nippur Ura 01,292,
+dcclt/Q000039,OB Nippur Ura 01,293,
+dcclt/Q000039,OB Nippur Ura 01,294,
+dcclt/Q000039,OB Nippur Ura 01,294a,sux:banda[junior]V/i
 dcclt/Q000039,OB Nippur Ura 01,294b,sux:ma[ship]N sux:nurum[light]N
-dcclt/Q000039,OB Nippur Ura 01,295,sux:Magurnubzu[1]ON
-dcclt/Q000039,OB Nippur Ura 01,296,sux:ma[ship]N sux:Dilmun[1]GN
+dcclt/Q000039,OB Nippur Ura 01,295,
+dcclt/Q000039,OB Nippur Ura 01,296,sux:ma[ship]N
 dcclt/Q000039,OB Nippur Ura 01,297,sux:u[planking]N sux:ma[ship]N
 dcclt/Q000039,OB Nippur Ura 01,298,sux:ema[cabin]N
 dcclt/Q000039,OB Nippur Ura 01,299,sux:si[horn]N sux:ma[ship]N

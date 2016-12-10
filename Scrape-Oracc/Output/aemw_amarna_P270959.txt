@@ -1,22 +1,22 @@
 id_text,text_name,l_no,text
-aemw/amarna/P270959,EA 318. Save me [vassal letter],001,akk-x-mbperi:ana[to]PRP akk-x-mbperi:šarru[king]N akk-x-mbperi:rabû[big]AJ akk-x-mbperi:bēlu[lord]N
-aemw/amarna/P270959,EA 318. Save me [vassal letter],002,akk-x-mbperi:Šamaš[1]DN akk-x-mbperi:ana[to]PRP akk-x-mbperi:šamû[sky]N
-aemw/amarna/P270959,EA 318. Save me [vassal letter],003,akk-x-mbperi:Dagan-takala[1]PN
-aemw/amarna/P270959,EA 318. Save me [vassal letter],004,akk-x-mbperi:wardu[slave]N akk-x-mbperi:qabû[say]V
-aemw/amarna/P270959,EA 318. Save me [vassal letter],005,akk-x-mbperi:u[and]CNJ
-aemw/amarna/P270959,EA 318. Save me [vassal letter],006,akk-x-mbperi:ana[to]PRP akk-x-mbperi:šēpu[foot]N akk-x-mbperi:šarru[king]N akk-x-mbperi:rabû[big]AJ
-aemw/amarna/P270959,EA 318. Save me [vassal letter],007,akk-x-mbperi:bēlu[lord]N akk-x-mbperi:maqātu[fall]V
-aemw/amarna/P270959,EA 318. Save me [vassal letter],008,akk-x-mbperi:ezēbu[leave]V
-aemw/amarna/P270959,EA 318. Save me [vassal letter],009,akk-x-mbperi:ištu[from]PRP akk-x-mbperi:nakru[strange-one]N akk-x-mbperi:dannu[strong-one]N
-aemw/amarna/P270959,EA 318. Save me [vassal letter],010,akk-x-mbperi:ištu[from]PRP akk-x-mbperi:qātu[hand]N akk-x-mbperi:qātu[hand]N
+aemw/amarna/P270959,EA 318. Save me [vassal letter],001,akk-x-mbperi:šarru[king]N akk-x-mbperi:bēlu[lord]N
+aemw/amarna/P270959,EA 318. Save me [vassal letter],002,akk-x-mbperi:šamû[sky]N
+aemw/amarna/P270959,EA 318. Save me [vassal letter],003,
+aemw/amarna/P270959,EA 318. Save me [vassal letter],004,akk-x-mbperi:wardu[slave]N
+aemw/amarna/P270959,EA 318. Save me [vassal letter],005,
+aemw/amarna/P270959,EA 318. Save me [vassal letter],006,akk-x-mbperi:šēpu[foot]N akk-x-mbperi:šarru[king]N
+aemw/amarna/P270959,EA 318. Save me [vassal letter],007,akk-x-mbperi:bēlu[lord]N
+aemw/amarna/P270959,EA 318. Save me [vassal letter],008,
+aemw/amarna/P270959,EA 318. Save me [vassal letter],009,akk-x-mbperi:nakru[strange-one]N akk-x-mbperi:dannu[strong-one]N
+aemw/amarna/P270959,EA 318. Save me [vassal letter],010,akk-x-mbperi:qātu[hand]N akk-x-mbperi:qātu[hand]N
 aemw/amarna/P270959,EA 318. Save me [vassal letter],011,akk-x-mbperi:awīlu[man]N akk-x-mbperi:hāpiru[(class-of)-vagrant]N
 aemw/amarna/P270959,EA 318. Save me [vassal letter],012,akk-x-mbperi:awīlu[man]N akk-x-mbperi:habbātu[plunderer]N
-aemw/amarna/P270959,EA 318. Save me [vassal letter],013,akk-x-mbperi:u[and]CNJ akk-x-mbperi:awīlu[man]N akk-x-mbperi:Sutu[1]GN
-aemw/amarna/P270959,EA 318. Save me [vassal letter],014,akk-x-mbperi:u[and]CNJ akk-x-mbperi:ezēbu[leave]V
-aemw/amarna/P270959,EA 318. Save me [vassal letter],015,akk-x-mbperi:šarru[king]N akk-x-mbperi:rabû[big]AJ akk-x-mbperi:bēlu[lord]N
-aemw/amarna/P270959,EA 318. Save me [vassal letter],016,akk-x-mbperi:u[and]CNJ akk-x-mbperi:amāru[see]V
-aemw/amarna/P270959,EA 318. Save me [vassal letter],017,akk-x-mbperi:šapāru[send]V akk-x-mbperi:ana[to]PRP akk-x-mbperi:nakru[strange-one]N
-aemw/amarna/P270959,EA 318. Save me [vassal letter],018,akk-x-mbperi:u[and]CNJ akk-x-mbperi:attā[you]IP akk-x-mbperi:šarru[king]N akk-x-mbperi:rabû[big]AJ
+aemw/amarna/P270959,EA 318. Save me [vassal letter],013,akk-x-mbperi:awīlu[man]N
+aemw/amarna/P270959,EA 318. Save me [vassal letter],014,
+aemw/amarna/P270959,EA 318. Save me [vassal letter],015,akk-x-mbperi:šarru[king]N akk-x-mbperi:bēlu[lord]N
+aemw/amarna/P270959,EA 318. Save me [vassal letter],016,
+aemw/amarna/P270959,EA 318. Save me [vassal letter],017,akk-x-mbperi:nakru[strange-one]N
+aemw/amarna/P270959,EA 318. Save me [vassal letter],018,akk-x-mbperi:šarru[king]N
 aemw/amarna/P270959,EA 318. Save me [vassal letter],019,akk-x-mbperi:bēlu[lord]N
-aemw/amarna/P270959,EA 318. Save me [vassal letter],020,akk-x-mbperi:ezēbu[leave]V
-aemw/amarna/P270959,EA 318. Save me [vassal letter],021,akk-x-mbperi:u[and]CNJ akk-x-mbperi:namāšu[set-(oneself)-in-motion]V
+aemw/amarna/P270959,EA 318. Save me [vassal letter],020,
+aemw/amarna/P270959,EA 318. Save me [vassal letter],021,

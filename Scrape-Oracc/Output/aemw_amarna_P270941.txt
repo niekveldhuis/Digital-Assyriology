@@ -1,18 +1,18 @@
 id_text,text_name,l_no,text
-aemw/amarna/P270941,EA 315. Like a command of the Sun [vassal letter],001,akk-x-mbperi:ana[to]PRP akk-x-mbperi:šarru[king]N akk-x-mbperi:bēlu[lord]N akk-x-mbperi:ilu[god]N
-aemw/amarna/P270941,EA 315. Like a command of the Sun [vassal letter],002,akk-x-mbperi:Šamaš[1]DN akk-x-mbperi:ša[that]REL akk-x-mbperi:ištu[from]PRP akk-x-mbperi:šamû[sky]N akk-x-mbperi:šamû[sky]N
-aemw/amarna/P270941,EA 315. Like a command of the Sun [vassal letter],003,akk-x-mbperi:umma[saying]PRP akk-x-mbperi:Pu-Baʾlu[1]PN akk-x-mbperi:awīlu[man]N akk-x-mbperi:ša[of]DET akk-x-mbperi:Yurza[1]GN
-aemw/amarna/P270941,EA 315. Like a command of the Sun [vassal letter],004,akk-x-mbperi:wardu[slave]N akk-x-mbperi:eperu[earth]N akk-x-mbperi:ša[of]DET akk-x-mbperi:šēpu[foot]N
-aemw/amarna/P270941,EA 315. Like a command of the Sun [vassal letter],005,akk-x-mbperi:ana[to]PRP akk-x-mbperi:šēpu[foot]N akk-x-mbperi:šarru[king]N akk-x-mbperi:bēlu[lord]N akk-x-mbperi:lū[indeed]MOD
-aemw/amarna/P270941,EA 315. Like a command of the Sun [vassal letter],006,akk-x-mbperi:šukênu[prostrate-oneself]V
-aemw/amarna/P270941,EA 315. Like a command of the Sun [vassal letter],007,akk-x-mbperi:u[and]CNJ akk-x-mbperi:ṣēru[back]N akk-x-mbperi:u[and]CNJ akk-x-mbperi:kabattu[liver]N
-aemw/amarna/P270941,EA 315. Like a command of the Sun [vassal letter],008,akk-x-mbperi:anumma[now]AV akk-x-mbperi:naṣāru[guard]V akk-x-mbperi:ālu[city]N akk-x-mbperi:ša[of]DET akk-x-mbperi:šarru[king]N akk-x-mbperi:bēlu[lord]N
-aemw/amarna/P270941,EA 315. Like a command of the Sun [vassal letter],009,akk-x-mbperi:u[and]CNJ akk-x-mbperi:ašru[place]N akk-x-mbperi:šarru[king]N akk-x-mbperi:bēlu[lord]N akk-x-mbperi:Šamaš[1]DN akk-x-mbperi:ša[that]REL akk-x-mbperi:ištu[from]PRP akk-x-mbperi:šamû[sky]N akk-x-mbperi:šamû[sky]N
-aemw/amarna/P270941,EA 315. Like a command of the Sun [vassal letter],010,akk-x-mbperi:mimma[anything]XP akk-x-mbperi:ša[that]REL akk-x-mbperi:qabû[said]AJ akk-x-mbperi:šarru[king]N akk-x-mbperi:bēlu[lord]N
-aemw/amarna/P270941,EA 315. Like a command of the Sun [vassal letter],011,akk-x-mbperi:anumma[now]AV akk-x-mbperi:naṣāru[guard]V akk-x-mbperi:ūmu[day]N
-aemw/amarna/P270941,EA 315. Like a command of the Sun [vassal letter],012,akk-x-mbperi:u[and]CNJ akk-x-mbperi:mūšu[night]N akk-x-mbperi:awātu[word]N akk-x-mbperi:šarru[king]N akk-x-mbperi:bēlu[lord]N
-aemw/amarna/P270941,EA 315. Like a command of the Sun [vassal letter],013,akk-x-mbperi:Reʾ-anap[1]PN akk-x-mbperi:rābiṣu[bailiff]N akk-x-mbperi:ša[of]DET
-aemw/amarna/P270941,EA 315. Like a command of the Sun [vassal letter],014,akk-x-mbperi:šarru[king]N akk-x-mbperi:bēlu[lord]N akk-x-mbperi:ša[that]REL akk-x-mbperi:qabû[said]AJ akk-x-mbperi:šarru[king]N akk-x-mbperi:bēlu[lord]N
-aemw/amarna/P270941,EA 315. Like a command of the Sun [vassal letter],015,akk-x-mbperi:damqu[good]AJ akk-x-mbperi:kīma[like]PRP akk-x-mbperi:Šamaš[1]DN akk-x-mbperi:ina[in]PRP akk-x-mbperi:šamû[sky]N akk-x-mbperi:šamû[sky]N
-aemw/amarna/P270941,EA 315. Like a command of the Sun [vassal letter],016,akk-x-mbperi:mīya[who?]QP akk-x-mbperi:kalbu[dog]N akk-x-mbperi:u[and]CNJ akk-x-mbperi:lā[not]MOD
-aemw/amarna/P270941,EA 315. Like a command of the Sun [vassal letter],017,akk-x-mbperi:naṣāru[guard]V akk-x-mbperi:awātu[word]N akk-x-mbperi:šarru[king]N akk-x-mbperi:bēlu[lord]N
+aemw/amarna/P270941,EA 315. Like a command of the Sun [vassal letter],001,akk-x-mbperi:šarru[king]N akk-x-mbperi:bēlu[lord]N akk-x-mbperi:ilu[god]N
+aemw/amarna/P270941,EA 315. Like a command of the Sun [vassal letter],002,akk-x-mbperi:šamû[sky]N akk-x-mbperi:šamû[sky]N
+aemw/amarna/P270941,EA 315. Like a command of the Sun [vassal letter],003,akk-x-mbperi:awīlu[man]N
+aemw/amarna/P270941,EA 315. Like a command of the Sun [vassal letter],004,akk-x-mbperi:wardu[slave]N akk-x-mbperi:eperu[earth]N akk-x-mbperi:šēpu[foot]N
+aemw/amarna/P270941,EA 315. Like a command of the Sun [vassal letter],005,akk-x-mbperi:šēpu[foot]N akk-x-mbperi:šarru[king]N akk-x-mbperi:bēlu[lord]N
+aemw/amarna/P270941,EA 315. Like a command of the Sun [vassal letter],006,
+aemw/amarna/P270941,EA 315. Like a command of the Sun [vassal letter],007,akk-x-mbperi:ṣēru[back]N akk-x-mbperi:kabattu[liver]N
+aemw/amarna/P270941,EA 315. Like a command of the Sun [vassal letter],008,akk-x-mbperi:ālu[city]N akk-x-mbperi:šarru[king]N akk-x-mbperi:bēlu[lord]N
+aemw/amarna/P270941,EA 315. Like a command of the Sun [vassal letter],009,akk-x-mbperi:ašru[place]N akk-x-mbperi:šarru[king]N akk-x-mbperi:bēlu[lord]N akk-x-mbperi:šamû[sky]N akk-x-mbperi:šamû[sky]N
+aemw/amarna/P270941,EA 315. Like a command of the Sun [vassal letter],010,akk-x-mbperi:šarru[king]N akk-x-mbperi:bēlu[lord]N
+aemw/amarna/P270941,EA 315. Like a command of the Sun [vassal letter],011,akk-x-mbperi:ūmu[day]N
+aemw/amarna/P270941,EA 315. Like a command of the Sun [vassal letter],012,akk-x-mbperi:mūšu[night]N akk-x-mbperi:awātu[word]N akk-x-mbperi:šarru[king]N akk-x-mbperi:bēlu[lord]N
+aemw/amarna/P270941,EA 315. Like a command of the Sun [vassal letter],013,akk-x-mbperi:rābiṣu[bailiff]N
+aemw/amarna/P270941,EA 315. Like a command of the Sun [vassal letter],014,akk-x-mbperi:šarru[king]N akk-x-mbperi:bēlu[lord]N akk-x-mbperi:šarru[king]N akk-x-mbperi:bēlu[lord]N
+aemw/amarna/P270941,EA 315. Like a command of the Sun [vassal letter],015,akk-x-mbperi:šamû[sky]N akk-x-mbperi:šamû[sky]N
+aemw/amarna/P270941,EA 315. Like a command of the Sun [vassal letter],016,akk-x-mbperi:kalbu[dog]N
+aemw/amarna/P270941,EA 315. Like a command of the Sun [vassal letter],017,akk-x-mbperi:awātu[word]N akk-x-mbperi:šarru[king]N akk-x-mbperi:bēlu[lord]N

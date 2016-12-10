@@ -26,7 +26,7 @@ dcclt/Q000043,OB Nippur Ura 06,o i 18,sux:tu[soup]N sux:babada[porridge]N
 dcclt/Q000043,OB Nippur Ura 06,o i 19,sux:tu[soup]N sux:eša[flour]N
 dcclt/Q000043,OB Nippur Ura 06,o i 20,sux:tu[soup]N sux:eša[flour]N sux:sag[rare]V/i
 dcclt/Q000043,OB Nippur Ura 06,o i 21,sux:tu[soup]N
-dcclt/Q000043,OB Nippur Ura 06,o ii 2,sux:tu[soup]N sux:Lullubi[1]GN
+dcclt/Q000043,OB Nippur Ura 06,o ii 2,sux:tu[soup]N
 dcclt/Q000043,OB Nippur Ura 06,o ii 3,sux:tu[soup]N sux:ulibum[~soup]N
 dcclt/Q000043,OB Nippur Ura 06,o ii 4,sux:dida[wort]N
 dcclt/Q000043,OB Nippur Ura 06,o ii 5,sux:dida[wort]N sux:sag[rare]V/i
@@ -263,7 +263,7 @@ dcclt/Q000043,OB Nippur Ura 06,o i 9,sux:kaš[beer]N sux:kurun[beer]N sux:imin
 dcclt/Q000043,OB Nippur Ura 06,o i 10,sux:kurun[beer]N
 dcclt/Q000043,OB Nippur Ura 06,o i 11,sux:kaš[beer]N sux:mah[great]V/i
 dcclt/Q000043,OB Nippur Ura 06,o i 1',sux:kaš[beer]N sux:kun[tail]N
-dcclt/Q000043,OB Nippur Ura 06,o i 2',sux:kaš[beer]N sux:Lullubi[1]GN
+dcclt/Q000043,OB Nippur Ura 06,o i 2',sux:kaš[beer]N
 dcclt/Q000043,OB Nippur Ura 06,o i 3',sux:kaš[beer]N sux:siškur[prayer]N
 dcclt/Q000043,OB Nippur Ura 06,o i 4',sux:kaš[beer]N sux:šud[prayer]N
 dcclt/Q000043,OB Nippur Ura 06,r ii 1',sux:še[barley]N
@@ -362,7 +362,7 @@ dcclt/Q000043,OB Nippur Ura 06,a i 23,sux:tu[soup]N sux:šen[cauldron]N
 dcclt/Q000043,OB Nippur Ura 06,a i 24,sux:tu[soup]N sux:uzubala[~soup]N
 dcclt/Q000043,OB Nippur Ura 06,a i 25,sux:tu[soup]N
 dcclt/Q000043,OB Nippur Ura 06,a ii 3,sux:tu[soup]N sux:aba[who?]QP sux:silim[healthy]V/i
-dcclt/Q000043,OB Nippur Ura 06,a ii 4,sux:tu[soup]N sux:Lullubi[1]GN
+dcclt/Q000043,OB Nippur Ura 06,a ii 4,sux:tu[soup]N
 dcclt/Q000043,OB Nippur Ura 06,a ii 5,sux:tu[soup]N sux:a[water]N sux:ur[convulsed]V/i
 dcclt/Q000043,OB Nippur Ura 06,a ii 6,sux:tu[soup]N sux:a[water]N
 dcclt/Q000043,OB Nippur Ura 06,a ii 7,sux:tu[soup]N sux:kuš[malt-flour]N
@@ -625,7 +625,7 @@ dcclt/Q000043,OB Nippur Ura 06,r ii 3',sux:ulušin[beer]N sux:mah[great]V/i
 dcclt/Q000043,OB Nippur Ura 06,o i 1',sux:tu[soup]N sux:zahan[plant]N
 dcclt/Q000043,OB Nippur Ura 06,o i 2',sux:tu[soup]N sux:zahan[plant]N
 dcclt/Q000043,OB Nippur Ura 06,o i 3',sux:tu[soup]N sux:zahan[plant]N sux:mušen[bird]N
-dcclt/Q000043,OB Nippur Ura 06,o i 4',sux:tu[soup]N sux:Lullubi[1]GN
+dcclt/Q000043,OB Nippur Ura 06,o i 4',sux:tu[soup]N
 dcclt/Q000043,OB Nippur Ura 06,o i 5',sux:tu[soup]N sux:šu[hand]N
 dcclt/Q000043,OB Nippur Ura 06,o i 6',sux:tu[soup]N sux:šag[heart]N
 dcclt/Q000043,OB Nippur Ura 06,o i 7',sux:tu[soup]N
@@ -769,7 +769,7 @@ dcclt/Q000043,OB Nippur Ura 06,r i 8',sux:tu[soup]N sux:tunla[vessel]N
 dcclt/Q000043,OB Nippur Ura 06,r ii 2',sux:tu[soup]N sux:niŋluh[basin]N
 dcclt/Q000043,OB Nippur Ura 06,r ii 3',sux:tu[soup]N sux:i[oil]N
 dcclt/Q000043,OB Nippur Ura 06,r ii 4',sux:tu[soup]N sux:i[oil]N sux:udu[sheep]N
-dcclt/Q000043,OB Nippur Ura 06,r ii 5',sux:tu[soup]N sux:Lullubi[1]GN
+dcclt/Q000043,OB Nippur Ura 06,r ii 5',sux:tu[soup]N
 dcclt/Q000043,OB Nippur Ura 06,r ii 6',sux:tu[soup]N sux:aba[who?]QP sux:silim[healthy]V/i
 dcclt/Q000043,OB Nippur Ura 06,r ii 7',sux:tu[soup]N sux:a[water]N
 dcclt/Q000043,OB Nippur Ura 06,r ii 8',sux:tu[soup]N sux:ur[convulsed]V/i
@@ -1319,7 +1319,7 @@ dcclt/Q000043,OB Nippur Ura 06,r? i 6',sux:kuš[malt-flour]N
 dcclt/Q000043,OB Nippur Ura 06,i' 3',sux:tu[soup]N sux:niŋluh[basin]N
 dcclt/Q000043,OB Nippur Ura 06,i' 4',sux:tu[soup]N sux:i[oil]N
 dcclt/Q000043,OB Nippur Ura 06,i' 5',sux:tu[soup]N sux:i[oil]N sux:udu[sheep]N
-dcclt/Q000043,OB Nippur Ura 06,i' 6',sux:tu[soup]N sux:Lullubi[1]GN
+dcclt/Q000043,OB Nippur Ura 06,i' 6',sux:tu[soup]N
 dcclt/Q000043,OB Nippur Ura 06,ii' 1',sux:kaš[beer]N
 dcclt/Q000043,OB Nippur Ura 06,ii' 2',sux:kaš[beer]N sux:marah[unmng]N
 dcclt/Q000043,OB Nippur Ura 06,ii' 3',sux:kaš[beer]N sux:huš[reddish]V/i

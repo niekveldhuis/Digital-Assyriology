@@ -1,32 +1,32 @@
 id_text,text_name,l_no,text
-aemw/amarna/P271166,EA 146. Abi-Milku of Tyre [vassal letter],001,akk-x-mbperi:ana[to]PRP akk-x-mbperi:šarru[king]N akk-x-mbperi:bēlu[lord]N akk-x-mbperi:Šamaš[1]DN
-aemw/amarna/P271166,EA 146. Abi-Milku of Tyre [vassal letter],002,akk-x-mbperi:umma[saying]PRP akk-x-mbperi:Abi-milku[1]PN akk-x-mbperi:wardu[slave]N
-aemw/amarna/P271166,EA 146. Abi-Milku of Tyre [vassal letter],003,akk-x-mbperi:u[and]CNJ akk-x-mbperi:ana[to]PRP akk-x-mbperi:šēpu[foot]N akk-x-mbperi:šarru[king]N akk-x-mbperi:bēlu[lord]N akk-x-mbperi:maqātu[fall]V
-aemw/amarna/P271166,EA 146. Abi-Milku of Tyre [vassal letter],004,akk-x-mbperi:anāku[I]IP akk-x-mbperi:eperu[earth]N akk-x-mbperi:ištu[from]PRP
+aemw/amarna/P271166,EA 146. Abi-Milku of Tyre [vassal letter],001,akk-x-mbperi:šarru[king]N akk-x-mbperi:bēlu[lord]N
+aemw/amarna/P271166,EA 146. Abi-Milku of Tyre [vassal letter],002,akk-x-mbperi:wardu[slave]N
+aemw/amarna/P271166,EA 146. Abi-Milku of Tyre [vassal letter],003,akk-x-mbperi:šēpu[foot]N akk-x-mbperi:šarru[king]N akk-x-mbperi:bēlu[lord]N
+aemw/amarna/P271166,EA 146. Abi-Milku of Tyre [vassal letter],004,akk-x-mbperi:eperu[earth]N
 aemw/amarna/P271166,EA 146. Abi-Milku of Tyre [vassal letter],005,akk-x-mbperi:šupālu[depression]N akk-x-mbperi:šēpu[foot]N akk-x-mbperi:šēnu[sandal(s)]N
-aemw/amarna/P271166,EA 146. Abi-Milku of Tyre [vassal letter],006,akk-x-mbperi:šarru[king]N akk-x-mbperi:bēlu[lord]N akk-x-mbperi:attā[you]IP akk-x-mbperi:Šamaš[1]DN
-aemw/amarna/P271166,EA 146. Abi-Milku of Tyre [vassal letter],007,akk-x-mbperi:šemû[hear]V akk-x-mbperi:šēhu[wind]N akk-x-mbperi:ṭābu[good]AJ akk-x-mbperi:ša[that]REL akk-x-mbperi:waṣû[go-out]V
-aemw/amarna/P271166,EA 146. Abi-Milku of Tyre [vassal letter],008,akk-x-mbperi:inanna[now]AV akk-x-mbperi:bēlu[lord]N akk-x-mbperi:attā[you]IP
-aemw/amarna/P271166,EA 146. Abi-Milku of Tyre [vassal letter],009,akk-x-mbperi:u[and]CNJ akk-x-mbperi:anāku[I]IP akk-x-mbperi:wardu[slave]N akk-x-mbperi:naṣāru[guard]V
-aemw/amarna/P271166,EA 146. Abi-Milku of Tyre [vassal letter],010,akk-x-mbperi:Ṣurru[Tyre]GN akk-x-mbperi:ālu[city]N akk-x-mbperi:šarru[king]N akk-x-mbperi:bēlu[lord]N
-aemw/amarna/P271166,EA 146. Abi-Milku of Tyre [vassal letter],011,akk-x-mbperi:quʾʾû[await]V akk-x-mbperi:šāru[breath]N akk-x-mbperi:šarru[king]N akk-x-mbperi:bēlu[lord]N
-aemw/amarna/P271166,EA 146. Abi-Milku of Tyre [vassal letter],012,akk-x-mbperi:ana[to]PRP akk-x-mbperi:yâšim[to-me]IP akk-x-mbperi:adi[until]PRP akk-x-mbperi:kašādu[reach]V
-aemw/amarna/P271166,EA 146. Abi-Milku of Tyre [vassal letter],013,akk-x-mbperi:šāru[breath]N akk-x-mbperi:ša[of]DET akk-x-mbperi:šarru[king]N akk-x-mbperi:danniš[very]AV akk-x-mbperi:ana[to]PRP akk-x-mbperi:yâšim[to-me]IP akk-x-mbperi:nukurtu[enmity]N
-aemw/amarna/P271166,EA 146. Abi-Milku of Tyre [vassal letter],014,akk-x-mbperi:inanna[now]AV akk-x-mbperi:annû[look!]J akk-x-mbperi:awīlu[man]N akk-x-mbperi:Ṣiduna[Sidon]GN
-aemw/amarna/P271166,EA 146. Abi-Milku of Tyre [vassal letter],015,akk-x-mbperi:Zimri-Yidda[1]PN akk-x-mbperi:nakāru[be(come)-different]V
-aemw/amarna/P271166,EA 146. Abi-Milku of Tyre [vassal letter],016,akk-x-mbperi:ana[to]PRP akk-x-mbperi:yâšim[to-me]IP akk-x-mbperi:ina[in]PRP akk-x-mbperi:ūmišam[daily]AV akk-x-mbperi:leqû[take]V
-aemw/amarna/P271166,EA 146. Abi-Milku of Tyre [vassal letter],017,akk-x-mbperi:mû[water]N qca:maymu[water]N akk-x-mbperi:lā[not]MOD akk-x-mbperi:nadānu[give]V
-aemw/amarna/P271166,EA 146. Abi-Milku of Tyre [vassal letter],018,akk-x-mbperi:šasû[shout]V akk-x-mbperi:arnu[guilt]N akk-x-mbperi:šarru[king]N
-aemw/amarna/P271166,EA 146. Abi-Milku of Tyre [vassal letter],019,akk-x-mbperi:u[and]CNJ akk-x-mbperi:leqû[take]V akk-x-mbperi:ištu[from]PRP
-aemw/amarna/P271166,EA 146. Abi-Milku of Tyre [vassal letter],020,akk-x-mbperi:u[and]CNJ akk-x-mbperi:mû[water]N qca:maymu[water]N akk-x-mbperi:yānu[(there)-is-not]V
-aemw/amarna/P271166,EA 146. Abi-Milku of Tyre [vassal letter],021,akk-x-mbperi:ana[to]PRP akk-x-mbperi:šatû[drink]V
+aemw/amarna/P271166,EA 146. Abi-Milku of Tyre [vassal letter],006,akk-x-mbperi:šarru[king]N akk-x-mbperi:bēlu[lord]N
+aemw/amarna/P271166,EA 146. Abi-Milku of Tyre [vassal letter],007,akk-x-mbperi:šēhu[wind]N
+aemw/amarna/P271166,EA 146. Abi-Milku of Tyre [vassal letter],008,akk-x-mbperi:bēlu[lord]N
+aemw/amarna/P271166,EA 146. Abi-Milku of Tyre [vassal letter],009,akk-x-mbperi:wardu[slave]N
+aemw/amarna/P271166,EA 146. Abi-Milku of Tyre [vassal letter],010,akk-x-mbperi:ālu[city]N akk-x-mbperi:šarru[king]N akk-x-mbperi:bēlu[lord]N
+aemw/amarna/P271166,EA 146. Abi-Milku of Tyre [vassal letter],011,akk-x-mbperi:šāru[breath]N akk-x-mbperi:šarru[king]N akk-x-mbperi:bēlu[lord]N
+aemw/amarna/P271166,EA 146. Abi-Milku of Tyre [vassal letter],012,
+aemw/amarna/P271166,EA 146. Abi-Milku of Tyre [vassal letter],013,akk-x-mbperi:šāru[breath]N akk-x-mbperi:šarru[king]N akk-x-mbperi:nukurtu[enmity]N
+aemw/amarna/P271166,EA 146. Abi-Milku of Tyre [vassal letter],014,akk-x-mbperi:awīlu[man]N
+aemw/amarna/P271166,EA 146. Abi-Milku of Tyre [vassal letter],015,
+aemw/amarna/P271166,EA 146. Abi-Milku of Tyre [vassal letter],016,
+aemw/amarna/P271166,EA 146. Abi-Milku of Tyre [vassal letter],017,akk-x-mbperi:mû[water]N qca:maymu[water]N
+aemw/amarna/P271166,EA 146. Abi-Milku of Tyre [vassal letter],018,akk-x-mbperi:arnu[guilt]N akk-x-mbperi:šarru[king]N
+aemw/amarna/P271166,EA 146. Abi-Milku of Tyre [vassal letter],019,
+aemw/amarna/P271166,EA 146. Abi-Milku of Tyre [vassal letter],020,akk-x-mbperi:mû[water]N qca:maymu[water]N
+aemw/amarna/P271166,EA 146. Abi-Milku of Tyre [vassal letter],021,
 aemw/amarna/P271166,EA 146. Abi-Milku of Tyre [vassal letter],022,akk-x-mbperi:awīlu[man]N akk-x-mbperi:hāpiru[(class-of)-vagrant]N
 aemw/amarna/P271166,EA 146. Abi-Milku of Tyre [vassal letter],029,akk-x-mbperi:bēlu[lord]N
-aemw/amarna/P271166,EA 146. Abi-Milku of Tyre [vassal letter],030,akk-x-mbperi:šarru[king]N akk-x-mbperi:leqû[take]V
-aemw/amarna/P271166,EA 146. Abi-Milku of Tyre [vassal letter],031,akk-x-mbperi:nadānu[give]V
-aemw/amarna/P271166,EA 146. Abi-Milku of Tyre [vassal letter],032,akk-x-mbperi:u[and]CNJ akk-x-mbperi:leqû[take]V
-aemw/amarna/P271166,EA 146. Abi-Milku of Tyre [vassal letter],033,akk-x-mbperi:ana[to]PRP akk-x-mbperi:yâšim[to-me]IP
-aemw/amarna/P271166,EA 146. Abi-Milku of Tyre [vassal letter],034,akk-x-mbperi:amāru[see]V
-aemw/amarna/P271166,EA 146. Abi-Milku of Tyre [vassal letter],035,akk-x-mbperi:yapu[beautiful]AJ
-aemw/amarna/P271166,EA 146. Abi-Milku of Tyre [vassal letter],036,akk-x-mbperi:eli[on]PRP
-aemw/amarna/P271166,EA 146. Abi-Milku of Tyre [vassal letter],037,akk-x-mbperi:ana[to]PRP
+aemw/amarna/P271166,EA 146. Abi-Milku of Tyre [vassal letter],030,akk-x-mbperi:šarru[king]N
+aemw/amarna/P271166,EA 146. Abi-Milku of Tyre [vassal letter],031,
+aemw/amarna/P271166,EA 146. Abi-Milku of Tyre [vassal letter],032,
+aemw/amarna/P271166,EA 146. Abi-Milku of Tyre [vassal letter],033,
+aemw/amarna/P271166,EA 146. Abi-Milku of Tyre [vassal letter],034,
+aemw/amarna/P271166,EA 146. Abi-Milku of Tyre [vassal letter],035,
+aemw/amarna/P271166,EA 146. Abi-Milku of Tyre [vassal letter],036,
+aemw/amarna/P271166,EA 146. Abi-Milku of Tyre [vassal letter],037,

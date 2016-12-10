@@ -1,25 +1,25 @@
 id_text,text_name,l_no,text
-aemw/amarna/P270861,EA 367. From the Pharaoh to a vassal [vassal letter],001,akk-x-mbperi:ana[to]PRP akk-x-mbperi:Intaruta[1]PN akk-x-mbperi:awīlu[man]N akk-x-mbperi:Akšapa[Achshaph]GN
-aemw/amarna/P270861,EA 367. From the Pharaoh to a vassal [vassal letter],002,akk-x-mbperi:qabû[say]V akk-x-mbperi:umma[saying]PRP akk-x-mbperi:šarru[king]N
-aemw/amarna/P270861,EA 367. From the Pharaoh to a vassal [vassal letter],003,akk-x-mbperi:anumma[now]AV akk-x-mbperi:ṭuppu[(clay)-tablet]N akk-x-mbperi:annû[this]DP akk-x-mbperi:wabālu[carry]V akk-x-mbperi:qabû[say]V
-aemw/amarna/P270861,EA 367. From the Pharaoh to a vassal [vassal letter],004,akk-x-mbperi:ana[to]PRP akk-x-mbperi:kâšim[to-you]IP akk-x-mbperi:u[and]CNJ akk-x-mbperi:naṣāru[guard]V akk-x-mbperi:lū[let-it-be]MOD akk-x-mbperi:naṣru[guarded]AJ
-aemw/amarna/P270861,EA 367. From the Pharaoh to a vassal [vassal letter],005,akk-x-mbperi:ašru[place]N akk-x-mbperi:šarru[king]N akk-x-mbperi:ša[that]REL akk-x-mbperi:itti[with]PRP
-aemw/amarna/P270861,EA 367. From the Pharaoh to a vassal [vassal letter],006,akk-x-mbperi:anumma[now]AV akk-x-mbperi:šarru[king]N akk-x-mbperi:wašāru[sink-down]V
-aemw/amarna/P270861,EA 367. From the Pharaoh to a vassal [vassal letter],007,akk-x-mbperi:Hanʾi[1]PN akk-x-mbperi:māru[son]N akk-x-mbperi:Maireya[1]PN
-aemw/amarna/P270861,EA 367. From the Pharaoh to a vassal [vassal letter],008,akk-x-mbperi:waklu[overseer]N akk-x-mbperi:tarbaṣu[animal-stall]N akk-x-mbperi:ša[of]DET akk-x-mbperi:šarru[king]N akk-x-mbperi:ina[in]PRP akk-x-mbperi:Kinaʿanu[Canaan]GN
-aemw/amarna/P270861,EA 367. From the Pharaoh to a vassal [vassal letter],009,akk-x-mbperi:u[and]CNJ akk-x-mbperi:ša[that]REL akk-x-mbperi:qabû[say]V akk-x-mbperi:šemû[hear]V
-aemw/amarna/P270861,EA 367. From the Pharaoh to a vassal [vassal letter],010,akk-x-mbperi:damqiš[well]AV akk-x-mbperi:danniš[very]AV akk-x-mbperi:lā[not]MOD akk-x-mbperi:kašādu[reach]V
+aemw/amarna/P270861,EA 367. From the Pharaoh to a vassal [vassal letter],001,akk-x-mbperi:awīlu[man]N
+aemw/amarna/P270861,EA 367. From the Pharaoh to a vassal [vassal letter],002,akk-x-mbperi:šarru[king]N
+aemw/amarna/P270861,EA 367. From the Pharaoh to a vassal [vassal letter],003,akk-x-mbperi:ṭuppu[(clay)-tablet]N
+aemw/amarna/P270861,EA 367. From the Pharaoh to a vassal [vassal letter],004,
+aemw/amarna/P270861,EA 367. From the Pharaoh to a vassal [vassal letter],005,akk-x-mbperi:ašru[place]N akk-x-mbperi:šarru[king]N
+aemw/amarna/P270861,EA 367. From the Pharaoh to a vassal [vassal letter],006,akk-x-mbperi:šarru[king]N
+aemw/amarna/P270861,EA 367. From the Pharaoh to a vassal [vassal letter],007,akk-x-mbperi:māru[son]N
+aemw/amarna/P270861,EA 367. From the Pharaoh to a vassal [vassal letter],008,akk-x-mbperi:waklu[overseer]N akk-x-mbperi:tarbaṣu[animal-stall]N akk-x-mbperi:šarru[king]N
+aemw/amarna/P270861,EA 367. From the Pharaoh to a vassal [vassal letter],009,
+aemw/amarna/P270861,EA 367. From the Pharaoh to a vassal [vassal letter],010,
 aemw/amarna/P270861,EA 367. From the Pharaoh to a vassal [vassal letter],011,akk-x-mbperi:šarru[king]N akk-x-mbperi:arnu[guilt]N akk-x-mbperi:awātu[word]N akk-x-mbperi:gabbu[totality]N
-aemw/amarna/P270861,EA 367. From the Pharaoh to a vassal [vassal letter],012,akk-x-mbperi:ša[that]REL akk-x-mbperi:qabû[say]V akk-x-mbperi:šemû[hear]V akk-x-mbperi:damqiš[well]AV akk-x-mbperi:danniš[very]AV
-aemw/amarna/P270861,EA 367. From the Pharaoh to a vassal [vassal letter],013,akk-x-mbperi:u[and]CNJ akk-x-mbperi:epēšu[do]V akk-x-mbperi:damqiš[well]AV akk-x-mbperi:danniš[very]AV
-aemw/amarna/P270861,EA 367. From the Pharaoh to a vassal [vassal letter],014,akk-x-mbperi:u[and]CNJ akk-x-mbperi:naṣāru[guard]V akk-x-mbperi:naṣāru[guard]V akk-x-mbperi:lā[not]MOD akk-x-mbperi:mekû[neglect]V
-aemw/amarna/P270861,EA 367. From the Pharaoh to a vassal [vassal letter],015,akk-x-mbperi:u[and]CNJ akk-x-mbperi:lū[let-it-be]MOD akk-x-mbperi:šūšuru[in-order]AJ akk-x-mbperi:ana[to]PRP akk-x-mbperi:pānu[front]N
-aemw/amarna/P270861,EA 367. From the Pharaoh to a vassal [vassal letter],016,akk-x-mbperi:ṣābu[people]N akk-x-mbperi:piṭṭātu[archers]N akk-x-mbperi:šarru[king]N akk-x-mbperi:akalu[bread]N akk-x-mbperi:mādu[many]AJ
-aemw/amarna/P270861,EA 367. From the Pharaoh to a vassal [vassal letter],017,akk-x-mbperi:karānu[vine]N akk-x-mbperi:gabbu[totality]N akk-x-mbperi:mimma[anything]XP akk-x-mbperi:mādu[many]AJ
-aemw/amarna/P270861,EA 367. From the Pharaoh to a vassal [vassal letter],018,akk-x-mbperi:anumma[now]AV akk-x-mbperi:kašādu[reach]V
-aemw/amarna/P270861,EA 367. From the Pharaoh to a vassal [vassal letter],019,akk-x-mbperi:arhiš[quickly]AV akk-x-mbperi:arhiš[quickly]AV
-aemw/amarna/P270861,EA 367. From the Pharaoh to a vassal [vassal letter],020,akk-x-mbperi:u[and]CNJ akk-x-mbperi:nakāsu[cut]V akk-x-mbperi:qaqqadu[head]N
-aemw/amarna/P270861,EA 367. From the Pharaoh to a vassal [vassal letter],021,akk-x-mbperi:ayyābu[enemy]N akk-x-mbperi:ša[of]DET akk-x-mbperi:šarru[king]N
-aemw/amarna/P270861,EA 367. From the Pharaoh to a vassal [vassal letter],022,akk-x-mbperi:u[and]CNJ akk-x-mbperi:lū[let-it-be]MOD akk-x-mbperi:edû[know]V akk-x-mbperi:inūma[when]SBJ
-aemw/amarna/P270861,EA 367. From the Pharaoh to a vassal [vassal letter],023,akk-x-mbperi:šalmu[intact]AJ akk-x-mbperi:šarru[king]N akk-x-mbperi:kīma[like]PRP akk-x-mbperi:Šamaš[1]DN
-aemw/amarna/P270861,EA 367. From the Pharaoh to a vassal [vassal letter],024,akk-x-mbperi:ina[in]PRP akk-x-mbperi:šamû[sky]N akk-x-mbperi:šamû[sky]N akk-x-mbperi:ṣābu[people]N akk-x-mbperi:narkabtu[chariot]N
+aemw/amarna/P270861,EA 367. From the Pharaoh to a vassal [vassal letter],012,
+aemw/amarna/P270861,EA 367. From the Pharaoh to a vassal [vassal letter],013,
+aemw/amarna/P270861,EA 367. From the Pharaoh to a vassal [vassal letter],014,
+aemw/amarna/P270861,EA 367. From the Pharaoh to a vassal [vassal letter],015,akk-x-mbperi:pānu[front]N
+aemw/amarna/P270861,EA 367. From the Pharaoh to a vassal [vassal letter],016,akk-x-mbperi:ṣābu[people]N akk-x-mbperi:piṭṭātu[archers]N akk-x-mbperi:šarru[king]N akk-x-mbperi:akalu[bread]N
+aemw/amarna/P270861,EA 367. From the Pharaoh to a vassal [vassal letter],017,akk-x-mbperi:karānu[vine]N akk-x-mbperi:gabbu[totality]N
+aemw/amarna/P270861,EA 367. From the Pharaoh to a vassal [vassal letter],018,
+aemw/amarna/P270861,EA 367. From the Pharaoh to a vassal [vassal letter],019,
+aemw/amarna/P270861,EA 367. From the Pharaoh to a vassal [vassal letter],020,akk-x-mbperi:qaqqadu[head]N
+aemw/amarna/P270861,EA 367. From the Pharaoh to a vassal [vassal letter],021,akk-x-mbperi:ayyābu[enemy]N akk-x-mbperi:šarru[king]N
+aemw/amarna/P270861,EA 367. From the Pharaoh to a vassal [vassal letter],022,
+aemw/amarna/P270861,EA 367. From the Pharaoh to a vassal [vassal letter],023,akk-x-mbperi:šarru[king]N
+aemw/amarna/P270861,EA 367. From the Pharaoh to a vassal [vassal letter],024,akk-x-mbperi:šamû[sky]N akk-x-mbperi:šamû[sky]N akk-x-mbperi:ṣābu[people]N akk-x-mbperi:narkabtu[chariot]N
