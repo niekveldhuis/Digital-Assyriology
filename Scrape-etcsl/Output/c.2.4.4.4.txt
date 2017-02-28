@@ -1,63 +1,63 @@
 id_text,text_name,version,l_no,text
-c.2.4.4.4,A tigi (?) to Ninurta for Šu-Suen (Šu-Suen D),,1,sux:ur-saŋ[hero]N sux:ul[distant-time]N sux:gal[to-be-big]V sux:nir[authority]N sux:gaba-ŋal₂[forceful]AJ sux:zag[side]N sux:piriŋ[lion]N sux:ul[bud]N sux:sig₇[to-be-green]V
-c.2.4.4.4,A tigi (?) to Ninurta for Šu-Suen (Šu-Suen D),,2,sux:Ninurta[1]DN sux:mar-uru₅[tempest]N sux:ug[lion]N sux:gal[to-be-big]V sux:šen[combat]N sux:ru-gu₂[to-face]V
-c.2.4.4.4,A tigi (?) to Ninurta for Šu-Suen (Šu-Suen D),,3,sux:a₂-ŋal₂[strong]AJ sux:uŋ₃[people]N sux:erim₂[enemy]N sux-x-emesal:uru₂[town]N sux:gul[to-destroy]V sux:a₂-dam[habitation]N sux:sahar[earth]N sux:gi₄[to-return]V
-c.2.4.4.4,A tigi (?) to Ninurta for Šu-Suen (Šu-Suen D),,4,sux:Ninurta[1]DN sux:am[wild-bull]N sux:gal[to-be-big]V sux:gud-si-AŠ[battering-ram]N sux:bad₃[wall]N sux:gal[to-be-big]V sux:ŠU.KAD₄-ŠU.KAD₄[meaning-unknown]V
-c.2.4.4.4,A tigi (?) to Ninurta for Šu-Suen (Šu-Suen D),,5,sux:bar-sud[composition-division]N
-c.2.4.4.4,A tigi (?) to Ninurta for Šu-Suen (Šu-Suen D),,6,sux:a-ma-ru[flood]N sux:ki-bal[rebel-land]N sux:huluh[to-be-frightened]V sux:gaba-šu-ŋar[rival]N sux:tuku[to-have]V
-c.2.4.4.4,A tigi (?) to Ninurta for Šu-Suen (Šu-Suen D),,7,sux:Ninurta[1]DN sux:i-lim[(awesome)-radiance]N sux:u₅[to-ride]V sux:su[flesh]N sux:niŋ₂-ŋir₂[lightning-bolt]N sux:ud[storm]N sux:ŋar[to-place]V
-c.2.4.4.4,A tigi (?) to Ninurta for Šu-Suen (Šu-Suen D),,8,sux:lugal[king]N sux:Šu-Suen[1]RN sux:uŋ₃[people]N sux:daŋal[to-be-wide]V sux:mu[name]N
-c.2.4.4.4,A tigi (?) to Ninurta for Šu-Suen (Šu-Suen D),,9,sux:E-šu-me-ša[1]TN sux:ki-tuš[dwelling-place]N sux:kug[shining]AJ sux:Igi-šu-galam[1]TN sux:ki[place]N sux:nam[destiny]N sux:tar[to-cut]V
-c.2.4.4.4,A tigi (?) to Ninurta for Šu-Suen (Šu-Suen D),,10,sux:kisal[courtyard]N sux:mah[to-be-majestic]V sux:gud[bull]N sux:gal[to-be-big]V sux:udu[sheep]N sux:gal[to-be-big]V sux:si[horn]N sux:sa₂[to-equal]V
-c.2.4.4.4,A tigi (?) to Ninurta for Šu-Suen (Šu-Suen D),,11,sux:KI.LUGAL.GUB[royal-station]N sux:kug[shining]AJ sux:šu[hand]N sux:mu₂[to-grow]V
-c.2.4.4.4,A tigi (?) to Ninurta for Šu-Suen (Šu-Suen D),,12,sux:Šu-Suen[1]RN sux:šu[hand]N sux:mu₂[to-grow]V
-c.2.4.4.4,A tigi (?) to Ninurta for Šu-Suen (Šu-Suen D),,13,sux:Ninurta[1]DN sux:til₃[to-live]V sux:ud[day(light)]N sux:sud[to-be-distant]V
-c.2.4.4.4,A tigi (?) to Ninurta for Šu-Suen (Šu-Suen D),,14,sux:Šu-Suen[1]RN sux:til₃[to-live]V sux:ud[day(light)]N sux:sud[to-be-distant]V sux:gu₂[neck]N
-c.2.4.4.4,A tigi (?) to Ninurta for Šu-Suen (Šu-Suen D),,15,sux:šag₄-ba-tuku[composition-division]N
-c.2.4.4.4,A tigi (?) to Ninurta for Šu-Suen (Šu-Suen D),,16,sux:a₂[arm]N sux:sud[to-be-distant]V
+c.2.4.4.4,A tigi (?) to Ninurta for Šu-Suen (Šu-Suen D),,1,ur-saŋ[hero]N ul[distant-time]N gal[to-be-big]V nir[authority]N gaba-ŋal₂[forceful]AJ zag[side]N piriŋ[lion]N ul[bud]N sig₇[to-be-green]V
+c.2.4.4.4,A tigi (?) to Ninurta for Šu-Suen (Šu-Suen D),,2,Ninurta[1]DN mar-uru₅[tempest]N ug[lion]N gal[to-be-big]V šen[combat]N ru-gu₂[to-face]V
+c.2.4.4.4,A tigi (?) to Ninurta for Šu-Suen (Šu-Suen D),,3,a₂-ŋal₂[strong]AJ uŋ₃[people]N erim₂[enemy]N uru₂[town]N gul[to-destroy]V a₂-dam[habitation]N sahar[earth]N gi₄[to-return]V
+c.2.4.4.4,A tigi (?) to Ninurta for Šu-Suen (Šu-Suen D),,4,Ninurta[1]DN am[wild-bull]N gal[to-be-big]V gud-si-AŠ[battering-ram]N bad₃[wall]N gal[to-be-big]V ŠU.KAD₄-ŠU.KAD₄[meaning-unknown]V
+c.2.4.4.4,A tigi (?) to Ninurta for Šu-Suen (Šu-Suen D),,5,bar-sud[composition-division]N
+c.2.4.4.4,A tigi (?) to Ninurta for Šu-Suen (Šu-Suen D),,6,a-ma-ru[flood]N ki-bal[rebel-land]N huluh[to-be-frightened]V gaba-šu-ŋar[rival]N tuku[to-have]V
+c.2.4.4.4,A tigi (?) to Ninurta for Šu-Suen (Šu-Suen D),,7,Ninurta[1]DN i-lim[(awesome)-radiance]N u₅[to-ride]V su[flesh]N niŋ₂-ŋir₂[lightning-bolt]N ud[storm]N ŋar[to-place]V
+c.2.4.4.4,A tigi (?) to Ninurta for Šu-Suen (Šu-Suen D),,8,lugal[king]N Šu-Suen[1]RN uŋ₃[people]N daŋal[to-be-wide]V mu[name]N
+c.2.4.4.4,A tigi (?) to Ninurta for Šu-Suen (Šu-Suen D),,9,E-šu-me-ša[1]TN ki-tuš[dwelling-place]N kug[shining]AJ Igi-šu-galam[1]TN ki[place]N nam[destiny]N tar[to-cut]V
+c.2.4.4.4,A tigi (?) to Ninurta for Šu-Suen (Šu-Suen D),,10,kisal[courtyard]N mah[to-be-majestic]V gud[bull]N gal[to-be-big]V udu[sheep]N gal[to-be-big]V si[horn]N sa₂[to-equal]V
+c.2.4.4.4,A tigi (?) to Ninurta for Šu-Suen (Šu-Suen D),,11,KI.LUGAL.GUB[royal-station]N kug[shining]AJ šu[hand]N mu₂[to-grow]V
+c.2.4.4.4,A tigi (?) to Ninurta for Šu-Suen (Šu-Suen D),,12,Šu-Suen[1]RN šu[hand]N mu₂[to-grow]V
+c.2.4.4.4,A tigi (?) to Ninurta for Šu-Suen (Šu-Suen D),,13,Ninurta[1]DN til₃[to-live]V ud[day(light)]N sud[to-be-distant]V
+c.2.4.4.4,A tigi (?) to Ninurta for Šu-Suen (Šu-Suen D),,14,Šu-Suen[1]RN til₃[to-live]V ud[day(light)]N sud[to-be-distant]V gu₂[neck]N
+c.2.4.4.4,A tigi (?) to Ninurta for Šu-Suen (Šu-Suen D),,15,šag₄-ba-tuku[composition-division]N
+c.2.4.4.4,A tigi (?) to Ninurta for Šu-Suen (Šu-Suen D),,16,a₂[arm]N sud[to-be-distant]V
 c.2.4.4.4,A tigi (?) to Ninurta for Šu-Suen (Šu-Suen D),,17,
-c.2.4.4.4,A tigi (?) to Ninurta for Šu-Suen (Šu-Suen D),,18,sux:Ninurta[1]DN sux:dumu-saŋ[first-born-(child)]N sux:Enlil[1]DN sux:su-lim[(awesome)-radiance]N
-c.2.4.4.4,A tigi (?) to Ninurta for Šu-Suen (Šu-Suen D),,19,sux:gu₂-e[near-side]N sux:me[essence]N sux:ŋar[to-place]V
+c.2.4.4.4,A tigi (?) to Ninurta for Šu-Suen (Šu-Suen D),,18,Ninurta[1]DN dumu-saŋ[first-born-(child)]N Enlil[1]DN su-lim[(awesome)-radiance]N
+c.2.4.4.4,A tigi (?) to Ninurta for Šu-Suen (Šu-Suen D),,19,gu₂-e[near-side]N me[essence]N ŋar[to-place]V
 c.2.4.4.4,A tigi (?) to Ninurta for Šu-Suen (Šu-Suen D),,20,
-c.2.4.4.4,A tigi (?) to Ninurta for Šu-Suen (Šu-Suen D),,21,sux:bar-sud[composition-division]N sux:2-kam-ma[2nd]NU
-c.2.4.4.4,A tigi (?) to Ninurta for Šu-Suen (Šu-Suen D),,22,sux:šu[hand]N sux:te[to-approach]V
-c.2.4.4.4,A tigi (?) to Ninurta for Šu-Suen (Šu-Suen D),,23,sux:si[horn]N sux:gal[to-be-big]V
-c.2.4.4.4,A tigi (?) to Ninurta for Šu-Suen (Šu-Suen D),,24,sux:huš[to-be-reddish]V sux:an-ur₂[horizon]N
-c.2.4.4.4,A tigi (?) to Ninurta for Šu-Suen (Šu-Suen D),,25,sux:Ninurta[1]DN sux:kalag[to-be-strong]V sux:u₂-a[provisioner]N sux:mah[to-be-majestic]V sux:Ninlil[1]DN sux:tud[to-give-birth]V
-c.2.4.4.4,A tigi (?) to Ninurta for Šu-Suen (Šu-Suen D),,26,sux:i-lim[(awesome)-radiance]N sux:u₅[to-ride]V sux:Šu-Suen[1]RN sux:Enlil[1]DN sux:ŋal₂[to-be-(located)]V
-c.2.4.4.4,A tigi (?) to Ninurta for Šu-Suen (Šu-Suen D),,27,sux:Ninurta[1]DN sux:bad₃[wall]N sux:gal[to-be-big]V sux:me[to-be]V sux:igi[eye]N sux:dug₃[to-be-good]V sux:du₈[to-spread]V
-c.2.4.4.4,A tigi (?) to Ninurta for Šu-Suen (Šu-Suen D),,28,sux:Šu-Suen[1]RN sux:bad₃[wall]N sux:gal[to-be-big]V sux:me[to-be]V sux:igi[eye]N sux:dug₃[to-be-good]V sux:du₈[to-spread]V
-c.2.4.4.4,A tigi (?) to Ninurta for Šu-Suen (Šu-Suen D),,29,sux:sa-gid₂-da[composition-division]N
-c.2.4.4.4,A tigi (?) to Ninurta for Šu-Suen (Šu-Suen D),,30,sux:Ninurta[1]DN sux:Šu-Suen[1]RN sux:a₂-tah[helper]N sux:tukul[weapon]N sux:me[to-be]V
-c.2.4.4.4,A tigi (?) to Ninurta for Šu-Suen (Šu-Suen D),,31,sux:ŋiš-gi₄-ŋal₂[composition-division]N
-c.2.4.4.4,A tigi (?) to Ninurta for Šu-Suen (Šu-Suen D),,32,sux:tir[forest]N sux:galam[to-be-skilful]V sux:kur-šag₄[centre-of-mountain]N sux:dub₃[knee]N sux:bar[to-set-aside]V
-c.2.4.4.4,A tigi (?) to Ninurta for Šu-Suen (Šu-Suen D),,33,sux:Ninurta[1]DN sux:ulu₃[south-wind-(storm)]N sux:mah[to-be-majestic]V sux:ki-bal[rebel-land]N sux:kuš₇[devastation]N sux:lu₂[person]N sux:su[to-sink]V
-c.2.4.4.4,A tigi (?) to Ninurta for Šu-Suen (Šu-Suen D),,34,sux:sa₂-ŋar[counsellor]N sux:me[essence]N sux:E-kur[1]TN sux:šu[hand]N sux:du₇[to-be-perfect]V sux:ŋiškim-til₃[(source-of)-trust]N sux:a-a[father]N
-c.2.4.4.4,A tigi (?) to Ninurta for Šu-Suen (Šu-Suen D),,35,sux:Ninurta[1]DN sux:tir[forest]N sux:galam[to-be-skilful]V sux:kur-šag₄[centre-of-mountain]N sux:dub₃[knee]N sux:bar[to-set-aside]V
-c.2.4.4.4,A tigi (?) to Ninurta for Šu-Suen (Šu-Suen D),,36,sux:Ninurta[1]DN sux:ulu₃[south-wind-(storm)]N sux:mah[to-be-majestic]V sux:ki-bal[rebel-land]N sux:kuš₇[devastation]N sux:lu₂[person]N sux:su[to-sink]V
-c.2.4.4.4,A tigi (?) to Ninurta for Šu-Suen (Šu-Suen D),,37,sux:sa₂-ŋar[counsellor]N sux:me[essence]N sux:E-kur[1]TN sux:šu[hand]N sux:du₇[to-be-perfect]V sux:ŋiškim-til₃[(source-of)-trust]N sux:a-a[father]N
-c.2.4.4.4,A tigi (?) to Ninurta for Šu-Suen (Šu-Suen D),,38,sux:lugal[king]N sux:a₂[arm]N sux:mah[to-be-majestic]V sux:Enlil[1]DN sux:kur[(mountain)-land]N sux:šu[hand]N sux:e₃[to-go-out-or-in]V
-c.2.4.4.4,A tigi (?) to Ninurta for Šu-Suen (Šu-Suen D),,39,sux:Šu-Suen[1]RN sux:a₂[arm]N sux:mah[to-be-majestic]V sux:šum₂[to-give]V sux:a-a[father]N sux:Enlil[1]DN
-c.2.4.4.4,A tigi (?) to Ninurta for Šu-Suen (Šu-Suen D),,40,sux:Ninurta[1]DN sux:me₃[battle]N sux:šen[combat]N sux:šar₂[to-be-numerous]V sux:gul[to-destroy]V
-c.2.4.4.4,A tigi (?) to Ninurta for Šu-Suen (Šu-Suen D),,41,sux:Ninurta[1]DN sux:a₂[arm]N sux:mah[to-be-majestic]V sux:Enlil[1]DN sux:kur[(mountain)-land]N sux:šu[hand]N sux:e₃[to-go-out-or-in]V
-c.2.4.4.4,A tigi (?) to Ninurta for Šu-Suen (Šu-Suen D),,42,sux:Šu-Suen[1]RN sux:a₂[arm]N sux:mah[to-be-majestic]V sux:šum₂[to-give]V sux:a-a[father]N sux:Enlil[1]DN
-c.2.4.4.4,A tigi (?) to Ninurta for Šu-Suen (Šu-Suen D),,43,sux:Ninurta[1]DN sux:me₃[battle]N sux:šen[combat]N sux:šar₂[to-be-numerous]V sux:gul[to-destroy]V
-c.2.4.4.4,A tigi (?) to Ninurta for Šu-Suen (Šu-Suen D),,44,sux:lugal[king]N sux:me[essence]N sux:ul[distant-time]N sux:dili[single]AJ sux:ak[to-do]V sux:kiŋ₂[work]N sux:gal[to-be-big]V sux:rib[to-be-outstanding]V
-c.2.4.4.4,A tigi (?) to Ninurta for Šu-Suen (Šu-Suen D),,45,sux:Ninurta[1]DN sux:u₂-sa₁₁-an[evening]N sux:sig₇[to-be-green]V sux:kalam[the-Land]N sux:ni₂[fear(someness)]N sux:ru-gu₂[to-face]V
-c.2.4.4.4,A tigi (?) to Ninurta for Šu-Suen (Šu-Suen D),,46,sux:Uraš[1]DN sux:kug[shining]AJ sux:ušum[type-of-snake]N sux:su-lim[(awesome)-radiance]N sux:izi-ŋar[torch]N sux:huš[to-be-reddish]V sux:il₂[to-raise]V
-c.2.4.4.4,A tigi (?) to Ninurta for Šu-Suen (Šu-Suen D),,47,sux:Ninurta[1]DN sux:me[essence]N sux:ul[distant-time]N sux:dili[single]AJ sux:ak[to-do]V sux:kiŋ₂[work]N sux:gal[to-be-big]V sux:rib[to-be-outstanding]V
-c.2.4.4.4,A tigi (?) to Ninurta for Šu-Suen (Šu-Suen D),,48,sux:Ninurta[1]DN sux:u₂-sa₁₁-an[evening]N sux:sig₇[to-be-green]V sux:kalam[the-Land]N sux:ni₂[fear(someness)]N sux:ru-gu₂[to-face]V
-c.2.4.4.4,A tigi (?) to Ninurta for Šu-Suen (Šu-Suen D),,49,sux:Uraš[1]DN sux:kug[shining]AJ sux:ušum[type-of-snake]N sux:su-lim[(awesome)-radiance]N sux:izi-ŋar[torch]N sux:huš[to-be-reddish]V sux:il₂[to-raise]V
-c.2.4.4.4,A tigi (?) to Ninurta for Šu-Suen (Šu-Suen D),,50,sux:lugal[king]N sux:mah-di[illustrious]AJ sux:ur-saŋ[hero]N sux:gal[to-be-big]V sux:ne₃[strength]N sux:nir-ŋal₂[authoritative]AJ
-c.2.4.4.4,A tigi (?) to Ninurta for Šu-Suen (Šu-Suen D),,51,sux:Šu-Suen[1]RN sux:ŋiškim[sign]N sux:til₃[to-live]V sux:en[lord]N sux:Ninurta[1]DN
-c.2.4.4.4,A tigi (?) to Ninurta for Šu-Suen (Šu-Suen D),,52,sux:lugal[king]N sux:Enlil[1]DN sux:šum₂[to-give]V sux:maškim[judicial-officer]N sux:me[to-be]V
-c.2.4.4.4,A tigi (?) to Ninurta for Šu-Suen (Šu-Suen D),,53,sux:Ninurta[1]DN sux:mah-di[illustrious]AJ sux:ur-saŋ[hero]N sux:gal[to-be-big]V sux:ne₃[strength]N sux:nir-ŋal₂[authoritative]AJ
-c.2.4.4.4,A tigi (?) to Ninurta for Šu-Suen (Šu-Suen D),,54,sux:Šu-Suen[1]RN sux:ŋiškim[sign]N sux:til₃[to-live]V sux:en[lord]N sux:Ninurta[1]DN
-c.2.4.4.4,A tigi (?) to Ninurta for Šu-Suen (Šu-Suen D),,55,sux:lugal[king]N sux:Enlil[1]DN sux:šum₂[to-give]V sux:maškim[judicial-officer]N sux:me[to-be]V
-c.2.4.4.4,A tigi (?) to Ninurta for Šu-Suen (Šu-Suen D),,56,sux:nir₂[type-of-stone]N sux:kug[shining]AJ sux:su-lim[(awesome)-radiance]N sux:kiŋ₂[work]N sux:gal[to-be-big]V sux:rib[to-be-outstanding]V
-c.2.4.4.4,A tigi (?) to Ninurta for Šu-Suen (Šu-Suen D),,57,sux:a₂[arm]N sux:mah[to-be-majestic]V sux:DU[DU]V sux:mu[name]N sux:sar[to-write]V
-c.2.4.4.4,A tigi (?) to Ninurta for Šu-Suen (Šu-Suen D),,58,sux:ul[distant-time]N sux:nam-til₃[life]N sux:en-nu-uŋ₃[guard]N sux:ak[to-do]V
-c.2.4.4.4,A tigi (?) to Ninurta for Šu-Suen (Šu-Suen D),,59,sux:Šu-Suen[1]RN sux:kug[shining]AJ sux:su-lim[(awesome)-radiance]N sux:kiŋ₂[work]N sux:gal[to-be-big]V sux:rib[to-be-outstanding]V
-c.2.4.4.4,A tigi (?) to Ninurta for Šu-Suen (Šu-Suen D),,60,sux:a₂[arm]N sux:mah[to-be-majestic]V sux:DU[DU]V sux:mu[name]N sux:sar[to-write]V
-c.2.4.4.4,A tigi (?) to Ninurta for Šu-Suen (Šu-Suen D),,61,sux:ul[distant-time]N sux:nam-til₃[life]N sux:en-nu-uŋ₃[guard]N sux:ak[to-do]V
-c.2.4.4.4,A tigi (?) to Ninurta for Šu-Suen (Šu-Suen D),,63,sux:sa-ŋar-ra[composition-division]N
+c.2.4.4.4,A tigi (?) to Ninurta for Šu-Suen (Šu-Suen D),,21,bar-sud[composition-division]N 2-kam-ma[2nd]NU
+c.2.4.4.4,A tigi (?) to Ninurta for Šu-Suen (Šu-Suen D),,22,šu[hand]N te[to-approach]V
+c.2.4.4.4,A tigi (?) to Ninurta for Šu-Suen (Šu-Suen D),,23,si[horn]N gal[to-be-big]V
+c.2.4.4.4,A tigi (?) to Ninurta for Šu-Suen (Šu-Suen D),,24,huš[to-be-reddish]V an-ur₂[horizon]N
+c.2.4.4.4,A tigi (?) to Ninurta for Šu-Suen (Šu-Suen D),,25,Ninurta[1]DN kalag[to-be-strong]V u₂-a[provisioner]N mah[to-be-majestic]V Ninlil[1]DN tud[to-give-birth]V
+c.2.4.4.4,A tigi (?) to Ninurta for Šu-Suen (Šu-Suen D),,26,i-lim[(awesome)-radiance]N u₅[to-ride]V Šu-Suen[1]RN Enlil[1]DN ŋal₂[to-be-(located)]V
+c.2.4.4.4,A tigi (?) to Ninurta for Šu-Suen (Šu-Suen D),,27,Ninurta[1]DN bad₃[wall]N gal[to-be-big]V me[to-be]V igi[eye]N dug₃[to-be-good]V du₈[to-spread]V
+c.2.4.4.4,A tigi (?) to Ninurta for Šu-Suen (Šu-Suen D),,28,Šu-Suen[1]RN bad₃[wall]N gal[to-be-big]V me[to-be]V igi[eye]N dug₃[to-be-good]V du₈[to-spread]V
+c.2.4.4.4,A tigi (?) to Ninurta for Šu-Suen (Šu-Suen D),,29,sa-gid₂-da[composition-division]N
+c.2.4.4.4,A tigi (?) to Ninurta for Šu-Suen (Šu-Suen D),,30,Ninurta[1]DN Šu-Suen[1]RN a₂-tah[helper]N tukul[weapon]N me[to-be]V
+c.2.4.4.4,A tigi (?) to Ninurta for Šu-Suen (Šu-Suen D),,31,ŋiš-gi₄-ŋal₂[composition-division]N
+c.2.4.4.4,A tigi (?) to Ninurta for Šu-Suen (Šu-Suen D),,32,tir[forest]N galam[to-be-skilful]V kur-šag₄[centre-of-mountain]N dub₃[knee]N bar[to-set-aside]V
+c.2.4.4.4,A tigi (?) to Ninurta for Šu-Suen (Šu-Suen D),,33,Ninurta[1]DN ulu₃[south-wind-(storm)]N mah[to-be-majestic]V ki-bal[rebel-land]N kuš₇[devastation]N lu₂[person]N su[to-sink]V
+c.2.4.4.4,A tigi (?) to Ninurta for Šu-Suen (Šu-Suen D),,34,sa₂-ŋar[counsellor]N me[essence]N E-kur[1]TN šu[hand]N du₇[to-be-perfect]V ŋiškim-til₃[(source-of)-trust]N a-a[father]N
+c.2.4.4.4,A tigi (?) to Ninurta for Šu-Suen (Šu-Suen D),,35,Ninurta[1]DN tir[forest]N galam[to-be-skilful]V kur-šag₄[centre-of-mountain]N dub₃[knee]N bar[to-set-aside]V
+c.2.4.4.4,A tigi (?) to Ninurta for Šu-Suen (Šu-Suen D),,36,Ninurta[1]DN ulu₃[south-wind-(storm)]N mah[to-be-majestic]V ki-bal[rebel-land]N kuš₇[devastation]N lu₂[person]N su[to-sink]V
+c.2.4.4.4,A tigi (?) to Ninurta for Šu-Suen (Šu-Suen D),,37,sa₂-ŋar[counsellor]N me[essence]N E-kur[1]TN šu[hand]N du₇[to-be-perfect]V ŋiškim-til₃[(source-of)-trust]N a-a[father]N
+c.2.4.4.4,A tigi (?) to Ninurta for Šu-Suen (Šu-Suen D),,38,lugal[king]N a₂[arm]N mah[to-be-majestic]V Enlil[1]DN kur[(mountain)-land]N šu[hand]N e₃[to-go-out-or-in]V
+c.2.4.4.4,A tigi (?) to Ninurta for Šu-Suen (Šu-Suen D),,39,Šu-Suen[1]RN a₂[arm]N mah[to-be-majestic]V šum₂[to-give]V a-a[father]N Enlil[1]DN
+c.2.4.4.4,A tigi (?) to Ninurta for Šu-Suen (Šu-Suen D),,40,Ninurta[1]DN me₃[battle]N šen[combat]N šar₂[to-be-numerous]V gul[to-destroy]V
+c.2.4.4.4,A tigi (?) to Ninurta for Šu-Suen (Šu-Suen D),,41,Ninurta[1]DN a₂[arm]N mah[to-be-majestic]V Enlil[1]DN kur[(mountain)-land]N šu[hand]N e₃[to-go-out-or-in]V
+c.2.4.4.4,A tigi (?) to Ninurta for Šu-Suen (Šu-Suen D),,42,Šu-Suen[1]RN a₂[arm]N mah[to-be-majestic]V šum₂[to-give]V a-a[father]N Enlil[1]DN
+c.2.4.4.4,A tigi (?) to Ninurta for Šu-Suen (Šu-Suen D),,43,Ninurta[1]DN me₃[battle]N šen[combat]N šar₂[to-be-numerous]V gul[to-destroy]V
+c.2.4.4.4,A tigi (?) to Ninurta for Šu-Suen (Šu-Suen D),,44,lugal[king]N me[essence]N ul[distant-time]N dili[single]AJ ak[to-do]V kiŋ₂[work]N gal[to-be-big]V rib[to-be-outstanding]V
+c.2.4.4.4,A tigi (?) to Ninurta for Šu-Suen (Šu-Suen D),,45,Ninurta[1]DN u₂-sa₁₁-an[evening]N sig₇[to-be-green]V kalam[the-Land]N ni₂[fear(someness)]N ru-gu₂[to-face]V
+c.2.4.4.4,A tigi (?) to Ninurta for Šu-Suen (Šu-Suen D),,46,Uraš[1]DN kug[shining]AJ ušum[type-of-snake]N su-lim[(awesome)-radiance]N izi-ŋar[torch]N huš[to-be-reddish]V il₂[to-raise]V
+c.2.4.4.4,A tigi (?) to Ninurta for Šu-Suen (Šu-Suen D),,47,Ninurta[1]DN me[essence]N ul[distant-time]N dili[single]AJ ak[to-do]V kiŋ₂[work]N gal[to-be-big]V rib[to-be-outstanding]V
+c.2.4.4.4,A tigi (?) to Ninurta for Šu-Suen (Šu-Suen D),,48,Ninurta[1]DN u₂-sa₁₁-an[evening]N sig₇[to-be-green]V kalam[the-Land]N ni₂[fear(someness)]N ru-gu₂[to-face]V
+c.2.4.4.4,A tigi (?) to Ninurta for Šu-Suen (Šu-Suen D),,49,Uraš[1]DN kug[shining]AJ ušum[type-of-snake]N su-lim[(awesome)-radiance]N izi-ŋar[torch]N huš[to-be-reddish]V il₂[to-raise]V
+c.2.4.4.4,A tigi (?) to Ninurta for Šu-Suen (Šu-Suen D),,50,lugal[king]N mah-di[illustrious]AJ ur-saŋ[hero]N gal[to-be-big]V ne₃[strength]N nir-ŋal₂[authoritative]AJ
+c.2.4.4.4,A tigi (?) to Ninurta for Šu-Suen (Šu-Suen D),,51,Šu-Suen[1]RN ŋiškim[sign]N til₃[to-live]V en[lord]N Ninurta[1]DN
+c.2.4.4.4,A tigi (?) to Ninurta for Šu-Suen (Šu-Suen D),,52,lugal[king]N Enlil[1]DN šum₂[to-give]V maškim[judicial-officer]N me[to-be]V
+c.2.4.4.4,A tigi (?) to Ninurta for Šu-Suen (Šu-Suen D),,53,Ninurta[1]DN mah-di[illustrious]AJ ur-saŋ[hero]N gal[to-be-big]V ne₃[strength]N nir-ŋal₂[authoritative]AJ
+c.2.4.4.4,A tigi (?) to Ninurta for Šu-Suen (Šu-Suen D),,54,Šu-Suen[1]RN ŋiškim[sign]N til₃[to-live]V en[lord]N Ninurta[1]DN
+c.2.4.4.4,A tigi (?) to Ninurta for Šu-Suen (Šu-Suen D),,55,lugal[king]N Enlil[1]DN šum₂[to-give]V maškim[judicial-officer]N me[to-be]V
+c.2.4.4.4,A tigi (?) to Ninurta for Šu-Suen (Šu-Suen D),,56,nir₂[type-of-stone]N kug[shining]AJ su-lim[(awesome)-radiance]N kiŋ₂[work]N gal[to-be-big]V rib[to-be-outstanding]V
+c.2.4.4.4,A tigi (?) to Ninurta for Šu-Suen (Šu-Suen D),,57,a₂[arm]N mah[to-be-majestic]V DU[DU]V mu[name]N sar[to-write]V
+c.2.4.4.4,A tigi (?) to Ninurta for Šu-Suen (Šu-Suen D),,58,ul[distant-time]N nam-til₃[life]N en-nu-uŋ₃[guard]N ak[to-do]V
+c.2.4.4.4,A tigi (?) to Ninurta for Šu-Suen (Šu-Suen D),,59,Šu-Suen[1]RN kug[shining]AJ su-lim[(awesome)-radiance]N kiŋ₂[work]N gal[to-be-big]V rib[to-be-outstanding]V
+c.2.4.4.4,A tigi (?) to Ninurta for Šu-Suen (Šu-Suen D),,60,a₂[arm]N mah[to-be-majestic]V DU[DU]V mu[name]N sar[to-write]V
+c.2.4.4.4,A tigi (?) to Ninurta for Šu-Suen (Šu-Suen D),,61,ul[distant-time]N nam-til₃[life]N en-nu-uŋ₃[guard]N ak[to-do]V
+c.2.4.4.4,A tigi (?) to Ninurta for Šu-Suen (Šu-Suen D),,63,sa-ŋar-ra[composition-division]N

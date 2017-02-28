@@ -1,63 +1,63 @@
 id_text,text_name,version,l_no,text
-c.0.2.01,OB catalogue from Nibru (N2),,1,sux:lugal[king]N sux:šag₄[heart]N
-c.0.2.01,OB catalogue from Nibru (N2),,2,sux:lugal[king]N sux:mi₂[(loving)-care]N sux:dug₄[to-say]V
-c.0.2.01,OB catalogue from Nibru (N2),,3,sux:en[lord]N sux:niŋ₂-du₇[propriety]N
-c.0.2.01,OB catalogue from Nibru (N2),,4,sux:nin[lady]N sux:me[essence]N sux:šar₂[to-be-numerous]V
-c.0.2.01,OB catalogue from Nibru (N2),,5,sux:Enlil[1]DN sux:sud[to-be-distant]V
-c.0.2.01,OB catalogue from Nibru (N2),,6,sux:nam₂[lord]N sux:nun[prince]N
-c.0.2.01,OB catalogue from Nibru (N2),,7,sux:ud[day(light)]N sux:re[that]PD
-c.0.2.01,OB catalogue from Nibru (N2),,8,sux:in-nin[mistress]N sux:me[essence]N sux:huš[to-be-reddish]V
-c.0.2.01,OB catalogue from Nibru (N2),,9,sux:e₂[house(hold)]N sux:ud[storm]N sux:huš[to-be-reddish]V sux:an[heaven]N sux:ki[place]N
-c.0.2.01,OB catalogue from Nibru (N2),,10,sux:en[lord]N sux:kur[(mountain)-land]N sux:lu₂[person]N sux:til₃[to-live]V
-c.0.2.01,OB catalogue from Nibru (N2),,11,sux:šul[young-man]N sux:me₃[battle]N
-c.0.2.01,OB catalogue from Nibru (N2),,12,sux:lu₂-kiŋ₂-gi₄-a[messenger]N sux:Aga[1]RN
-c.0.2.01,OB catalogue from Nibru (N2),,13,sux:Gudam[1]PN sux:iri[town]N
-c.0.2.01,OB catalogue from Nibru (N2),,14,sux:i₃-a[type-of-exclamation]I sux:lum[to-thrive]V
-c.0.2.01,OB catalogue from Nibru (N2),,15,sux:bur-šu-um[old-woman]N sux:gal[to-be-big]V
-c.0.2.01,OB catalogue from Nibru (N2),,16,sux:ku₆[fish]N sux:e₂[house(hold)]N sux:du₃[to-erect]V
-c.0.2.01,OB catalogue from Nibru (N2),,17,sux:hur-saŋ[mountain-(range)]N sux:an[heaven]N sux:ki[place]N
-c.0.2.01,OB catalogue from Nibru (N2),,18,sux:saŋ-ki[forehead]N sux:gid₂[to-be-long]V
-c.0.2.01,OB catalogue from Nibru (N2),,19,sux:edin[open-country]N sux:i-lu[(sad)-song]N sux:ŋar[to-place]V
-c.0.2.01,OB catalogue from Nibru (N2),,20,sux:ud[day(light)]N sux:re[that]PD
-c.0.2.01,OB catalogue from Nibru (N2),,21,sux:ud[day(light)]N sux:re[that]PD
-c.0.2.01,OB catalogue from Nibru (N2),,22,sux:iri[town]N sux:me[to-be]V
-c.0.2.01,OB catalogue from Nibru (N2),,23,sux:nin[lady]N sux:me[essence]N sux:zid[right]AJ
-c.0.2.01,OB catalogue from Nibru (N2),,24,sux:iri[town]N sux:me[to-be]V
-c.0.2.01,OB catalogue from Nibru (N2),,25,sux:e[vocative-expression]I sux:al[hoe]N sux:al[hoe]N
-c.0.2.01,OB catalogue from Nibru (N2),,26,sux:lugal[king]N sux:mu[name]N sux:niŋ₂-ul[distant-time]N
-c.0.2.01,OB catalogue from Nibru (N2),,27,sux:ud[day(light)]N sux:ul[distant-time]N sux:re[that]PD
-c.0.2.01,OB catalogue from Nibru (N2),,28,sux:ki-ur₃[foundation]N sux:gal[to-be-big]V
-c.0.2.01,OB catalogue from Nibru (N2),,29,sux:An[1]DN sux:nam-nir-ŋal₂[authority]N
-c.0.2.01,OB catalogue from Nibru (N2),,30,sux:ŋiš-gi[reedbed]N sux:a-na[what]PD sux:gu₃[voice]N sux:de₂[to-pour]V
-c.0.2.01,OB catalogue from Nibru (N2),,31,sux:u₅[pelican?]N sux:ŋiš-gi[reedbed]N sux:kug[shining]AJ
-c.0.2.01,OB catalogue from Nibru (N2),,32,sux:tur₃[animal-stall]N
-c.0.2.01,OB catalogue from Nibru (N2),,33,sux:tur₃[animal-stall]N sux:me[essence]N sux:nun[prince]N
-c.0.2.01,OB catalogue from Nibru (N2),,34,sux:ud[day(light)]N sux:šu[hand]N sux:bal[to-turn-over]V sux:ak[to-do]V
-c.0.2.01,OB catalogue from Nibru (N2),,35,sux:iri[town]N sux:me[essence]N sux:zid[right]AJ
-c.0.2.01,OB catalogue from Nibru (N2),,36,sux:ud[storm]N sux:huš[to-be-reddish]V sux:Sumer[1]GN
-c.0.2.01,OB catalogue from Nibru (N2),,37,sux:ud[storm]N sux:huš[to-be-reddish]V sux:an-ur₂[horizon]N
-c.0.2.01,OB catalogue from Nibru (N2),,38,sux:ud[day(light)]N sux:ul[distant-time]N sux:an[heaven]N sux:ki[place]N
-c.0.2.01,OB catalogue from Nibru (N2),,39,sux:Lugalbanda[1]DN
-c.0.2.01,OB catalogue from Nibru (N2),,40,sux:šeg₁₂[brick(work)]N sux:kur[(mountain)-land]N sux:šuba[shining]AJ
-c.0.2.01,OB catalogue from Nibru (N2),,41,sux:an[heaven]N sux:gal[to-be-big]V sux:ki[place]N sux:gal[to-be-big]V
-c.0.2.01,OB catalogue from Nibru (N2),,42,sux:en[lord]N sux:mah-di[illustrious]AJ sux:an[heaven]N sux:ki[place]N
-c.0.2.01,OB catalogue from Nibru (N2),,43,sux:en₃-bar[marsh-reed]N sux:gurun[fruit]N
-c.0.2.01,OB catalogue from Nibru (N2),,44,sux:in-nin[mistress]N sux:me[essence]N sux:gal[to-be-big]V
-c.0.2.01,OB catalogue from Nibru (N2),,45,sux:ud[day(light)]N sux:gal[to-be-big]V sux:piriŋ[lion]N sux:an[heaven]N
-c.0.2.01,OB catalogue from Nibru (N2),,46,sux:en[lord]N sux:gal[to-be-big]V sux:men[diadem]N sux:guru₃[to-bear]V sux:Kulaba[1]SN
-c.0.2.01,OB catalogue from Nibru (N2),,47,sux:nam₂[lord]N sux:nun[prince]N
-c.0.2.01,OB catalogue from Nibru (N2),,48,sux:iri[town]N sux:gud[bull]N sux:huš[to-be-reddish]V
-c.0.2.01,OB catalogue from Nibru (N2),,49,sux:E-unir[1]TN
-c.0.2.01,OB catalogue from Nibru (N2),,50,sux:me-še₃[where]AV sux:ŋen[to-go]V
-c.0.2.01,OB catalogue from Nibru (N2),,51,sux:ŋen[to-go]V sux:ki[place]N
-c.0.2.01,OB catalogue from Nibru (N2),,52,sux:ŋen[to-go]V sux:ga-na[directive-expression]I sux:sa₂[to-equal]V
-c.0.2.01,OB catalogue from Nibru (N2),,53,sux:Ud-ul-uru[1]PN
-c.0.2.01,OB catalogue from Nibru (N2),,54,sux:me-ta[type-of-time-and-place-adverbial]AV sux:ŋen[to-go]V
-c.0.2.01,OB catalogue from Nibru (N2),,55,sux:me-ta[type-of-time-and-place-adverbial]AV sux-x-emesal:di[to-go]V
-c.0.2.01,OB catalogue from Nibru (N2),,56,sux:eme-gir₁₅[Sumerian-language]N sux:zu[to-know]V
-c.0.2.01,OB catalogue from Nibru (N2),,57,sux:a-na[what]PD sux:a₂[arm]N sux:aŋ₂[to-measure]V
-c.0.2.01,OB catalogue from Nibru (N2),,58,sux:di₄-di₄[to-be-small]V sux:ud[day(light)]N
-c.0.2.01,OB catalogue from Nibru (N2),,59,sux:eŋer[back]N sux:dub[tablet]N
-c.0.2.01,OB catalogue from Nibru (N2),,60,sux:lu₂[person]N sux:lil₂[ghost]N
-c.0.2.01,OB catalogue from Nibru (N2),,61,sux:Dimani-usani[1]PN
-c.0.2.01,OB catalogue from Nibru (N2),,62,sux:a[water]N sux:dug₃[to-be-good]V sux:ur[dog]N
+c.0.2.01,OB catalogue from Nibru (N2),,1,lugal[king]N šag₄[heart]N
+c.0.2.01,OB catalogue from Nibru (N2),,2,lugal[king]N mi₂[(loving)-care]N dug₄[to-say]V
+c.0.2.01,OB catalogue from Nibru (N2),,3,en[lord]N niŋ₂-du₇[propriety]N
+c.0.2.01,OB catalogue from Nibru (N2),,4,nin[lady]N me[essence]N šar₂[to-be-numerous]V
+c.0.2.01,OB catalogue from Nibru (N2),,5,Enlil[1]DN sud[to-be-distant]V
+c.0.2.01,OB catalogue from Nibru (N2),,6,nam₂[lord]N nun[prince]N
+c.0.2.01,OB catalogue from Nibru (N2),,7,ud[day(light)]N re[that]PD
+c.0.2.01,OB catalogue from Nibru (N2),,8,in-nin[mistress]N me[essence]N huš[to-be-reddish]V
+c.0.2.01,OB catalogue from Nibru (N2),,9,e₂[house(hold)]N ud[storm]N huš[to-be-reddish]V an[heaven]N ki[place]N
+c.0.2.01,OB catalogue from Nibru (N2),,10,en[lord]N kur[(mountain)-land]N lu₂[person]N til₃[to-live]V
+c.0.2.01,OB catalogue from Nibru (N2),,11,šul[young-man]N me₃[battle]N
+c.0.2.01,OB catalogue from Nibru (N2),,12,lu₂-kiŋ₂-gi₄-a[messenger]N Aga[1]RN
+c.0.2.01,OB catalogue from Nibru (N2),,13,Gudam[1]PN iri[town]N
+c.0.2.01,OB catalogue from Nibru (N2),,14,i₃-a[type-of-exclamation]I lum[to-thrive]V
+c.0.2.01,OB catalogue from Nibru (N2),,15,bur-šu-um[old-woman]N gal[to-be-big]V
+c.0.2.01,OB catalogue from Nibru (N2),,16,ku₆[fish]N e₂[house(hold)]N du₃[to-erect]V
+c.0.2.01,OB catalogue from Nibru (N2),,17,hur-saŋ[mountain-(range)]N an[heaven]N ki[place]N
+c.0.2.01,OB catalogue from Nibru (N2),,18,saŋ-ki[forehead]N gid₂[to-be-long]V
+c.0.2.01,OB catalogue from Nibru (N2),,19,edin[open-country]N i-lu[(sad)-song]N ŋar[to-place]V
+c.0.2.01,OB catalogue from Nibru (N2),,20,ud[day(light)]N re[that]PD
+c.0.2.01,OB catalogue from Nibru (N2),,21,ud[day(light)]N re[that]PD
+c.0.2.01,OB catalogue from Nibru (N2),,22,iri[town]N me[to-be]V
+c.0.2.01,OB catalogue from Nibru (N2),,23,nin[lady]N me[essence]N zid[right]AJ
+c.0.2.01,OB catalogue from Nibru (N2),,24,iri[town]N me[to-be]V
+c.0.2.01,OB catalogue from Nibru (N2),,25,e[vocative-expression]I al[hoe]N al[hoe]N
+c.0.2.01,OB catalogue from Nibru (N2),,26,lugal[king]N mu[name]N niŋ₂-ul[distant-time]N
+c.0.2.01,OB catalogue from Nibru (N2),,27,ud[day(light)]N ul[distant-time]N re[that]PD
+c.0.2.01,OB catalogue from Nibru (N2),,28,ki-ur₃[foundation]N gal[to-be-big]V
+c.0.2.01,OB catalogue from Nibru (N2),,29,An[1]DN nam-nir-ŋal₂[authority]N
+c.0.2.01,OB catalogue from Nibru (N2),,30,ŋiš-gi[reedbed]N a-na[what]PD gu₃[voice]N de₂[to-pour]V
+c.0.2.01,OB catalogue from Nibru (N2),,31,u₅[pelican?]N ŋiš-gi[reedbed]N kug[shining]AJ
+c.0.2.01,OB catalogue from Nibru (N2),,32,tur₃[animal-stall]N
+c.0.2.01,OB catalogue from Nibru (N2),,33,tur₃[animal-stall]N me[essence]N nun[prince]N
+c.0.2.01,OB catalogue from Nibru (N2),,34,ud[day(light)]N šu[hand]N bal[to-turn-over]V ak[to-do]V
+c.0.2.01,OB catalogue from Nibru (N2),,35,iri[town]N me[essence]N zid[right]AJ
+c.0.2.01,OB catalogue from Nibru (N2),,36,ud[storm]N huš[to-be-reddish]V Sumer[1]GN
+c.0.2.01,OB catalogue from Nibru (N2),,37,ud[storm]N huš[to-be-reddish]V an-ur₂[horizon]N
+c.0.2.01,OB catalogue from Nibru (N2),,38,ud[day(light)]N ul[distant-time]N an[heaven]N ki[place]N
+c.0.2.01,OB catalogue from Nibru (N2),,39,Lugalbanda[1]DN
+c.0.2.01,OB catalogue from Nibru (N2),,40,šeg₁₂[brick(work)]N kur[(mountain)-land]N šuba[shining]AJ
+c.0.2.01,OB catalogue from Nibru (N2),,41,an[heaven]N gal[to-be-big]V ki[place]N gal[to-be-big]V
+c.0.2.01,OB catalogue from Nibru (N2),,42,en[lord]N mah-di[illustrious]AJ an[heaven]N ki[place]N
+c.0.2.01,OB catalogue from Nibru (N2),,43,en₃-bar[marsh-reed]N gurun[fruit]N
+c.0.2.01,OB catalogue from Nibru (N2),,44,in-nin[mistress]N me[essence]N gal[to-be-big]V
+c.0.2.01,OB catalogue from Nibru (N2),,45,ud[day(light)]N gal[to-be-big]V piriŋ[lion]N an[heaven]N
+c.0.2.01,OB catalogue from Nibru (N2),,46,en[lord]N gal[to-be-big]V men[diadem]N guru₃[to-bear]V Kulaba[1]SN
+c.0.2.01,OB catalogue from Nibru (N2),,47,nam₂[lord]N nun[prince]N
+c.0.2.01,OB catalogue from Nibru (N2),,48,iri[town]N gud[bull]N huš[to-be-reddish]V
+c.0.2.01,OB catalogue from Nibru (N2),,49,E-unir[1]TN
+c.0.2.01,OB catalogue from Nibru (N2),,50,me-še₃[where]AV ŋen[to-go]V
+c.0.2.01,OB catalogue from Nibru (N2),,51,ŋen[to-go]V ki[place]N
+c.0.2.01,OB catalogue from Nibru (N2),,52,ŋen[to-go]V ga-na[directive-expression]I sa₂[to-equal]V
+c.0.2.01,OB catalogue from Nibru (N2),,53,Ud-ul-uru[1]PN
+c.0.2.01,OB catalogue from Nibru (N2),,54,me-ta[type-of-time-and-place-adverbial]AV ŋen[to-go]V
+c.0.2.01,OB catalogue from Nibru (N2),,55,me-ta[type-of-time-and-place-adverbial]AV di[to-go]V
+c.0.2.01,OB catalogue from Nibru (N2),,56,eme-gir₁₅[Sumerian-language]N zu[to-know]V
+c.0.2.01,OB catalogue from Nibru (N2),,57,a-na[what]PD a₂[arm]N aŋ₂[to-measure]V
+c.0.2.01,OB catalogue from Nibru (N2),,58,di₄-di₄[to-be-small]V ud[day(light)]N
+c.0.2.01,OB catalogue from Nibru (N2),,59,eŋer[back]N dub[tablet]N
+c.0.2.01,OB catalogue from Nibru (N2),,60,lu₂[person]N lil₂[ghost]N
+c.0.2.01,OB catalogue from Nibru (N2),,61,Dimani-usani[1]PN
+c.0.2.01,OB catalogue from Nibru (N2),,62,a[water]N dug₃[to-be-good]V ur[dog]N

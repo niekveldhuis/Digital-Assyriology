@@ -1,61 +1,61 @@
 id_text,text_name,version,l_no,text
-c.4.12.1,A šir-gida to Martu (Martu A),,1,sux:ur-saŋ[hero]N sux:šul[young-man]N sux:mah[to-be-majestic]V sux:kur[(mountain)-land]N sux:idim[underground-water]N sux:zag[side]N sux:til[to-complete]V
-c.4.12.1,A šir-gida to Martu (Martu A),,2,sux:Martu[1]DN sux:šul[young-man]N sux:mah[to-be-majestic]V sux:kur[(mountain)-land]N sux:idim[underground-water]N sux:zag[side]N sux:til[to-complete]V
-c.4.12.1,A šir-gida to Martu (Martu A),,3,sux:usu[strength]N sux:piriŋ[lion]N sux:huš[to-be-reddish]V sux:hur-saŋ[mountain-(range)]N sux:ki[place]N sux:sikil[to-be-pure]V sux:barag[dais]N sux:kug[shining]AJ sux:si[to-fill]V
-c.4.12.1,A šir-gida to Martu (Martu A),,4,sux:Martu[1]DN sux:usu[strength]N sux:piriŋ[lion]N sux:huš[to-be-reddish]V sux:hur-saŋ[mountain-(range)]N sux:ki[place]N sux:sikil[to-be-pure]V sux:barag[dais]N sux:kug[shining]AJ sux:si[to-fill]V
-c.4.12.1,A šir-gida to Martu (Martu A),,5,sux:ni₂[fear(someness)]N sux:gal[to-be-big]V sux:guru₃[to-bear]V sux:An[1]DN sux:kug[shining]AJ sux:tud[to-give-birth]V sux:me[essence]N sux:šar₂[to-be-numerous]V sux:dalla[to-be-bright]V sux:e₃[to-go-out-or-in]V
-c.4.12.1,A šir-gida to Martu (Martu A),,6,sux:ama[mother]N sux:ugu[to-give-birth]V sux:Ninhursaŋa[1]DN
-c.4.12.1,A šir-gida to Martu (Martu A),,7,sux:alan[statue]N sux:Medim-ša[1]DN sux:dirig[to-be-superior]V sux:na-me[any]PD sux:saŋ[head]N sux:šum₂[to-give]V
-c.4.12.1,A šir-gida to Martu (Martu A),,8,sux:Anuna[1]DN sux:diŋir[deity]N sux:gal[to-be-big]V
-c.4.12.1,A šir-gida to Martu (Martu A),,9,sux:nam-ur-saŋ[heroism]N sux:a₂[arm]N sux:mah[to-be-majestic]V sux:gu₃[voice]N sux:zid[right]AJ sux:de₂[to-pour]V
-c.4.12.1,A šir-gida to Martu (Martu A),,10,sux:nam-nir-ŋal₂[authority]N sux:me₃[battle]N sux:gaba[chest]N sux:ŋen[to-go]V sux:da-da-ra[to-put-on]V sux:dug₄[to-say]V
-c.4.12.1,A šir-gida to Martu (Martu A),,11,sux:tukul[weapon]N sux:mitum[type-of-weapon]N sux:pan[bow]N sux:gal[to-be-big]V sux:ti[arrow]N sux:mar-uru₅[tempest]N sux:šu[hand]N sux:mah[to-be-majestic]V
-c.4.12.1,A šir-gida to Martu (Martu A),,12,sux:nam-diŋir[divinity]N sux:šu[hand]N sux:gal[to-be-big]V sux:du₇[to-be-perfect]V sux:zag[side]N sux:sa₂[to-equal]V
-c.4.12.1,A šir-gida to Martu (Martu A),,13,sux:gaba[chest]N sux:zig₃[to-rise]V sux:šag₄-tum₂[meadow]N
-c.4.12.1,A šir-gida to Martu (Martu A),,14,sux:mah[to-be-majestic]V sux:gal[to-be-big]V sux:a₂[arm]N sux:piriŋ[lion]N sux:ŋal₂[to-be-(located)]V
-c.4.12.1,A šir-gida to Martu (Martu A),,15,sux:piriŋ[lion]N sux:ban₃-da[junior]AJ sux:ni₂[fear(someness)]N sux:ri[to-direct]V
-c.4.12.1,A šir-gida to Martu (Martu A),,16,sux:am[wild-bull]N sux:a₂[arm]N sux:gur₄[to-be-thick]V
-c.4.12.1,A šir-gida to Martu (Martu A),,17,sux:tum₉[wind]N sux:7[7]NU sux:zag[side]N sux:keše₂[to-bind]V sux:izi[fire]N
-c.4.12.1,A šir-gida to Martu (Martu A),,18,sux:me₃[battle]N sux:šen[combat]N sux:aga₃-kar₂[conquering]N sux:sig₁₀[to-place]V sux:nim[lightning]N
-c.4.12.1,A šir-gida to Martu (Martu A),,19,sux:ni₂[fear(someness)]N sux:mah[to-be-majestic]V sux:hul-ŋal₂[evil]AJ sux:dab₅[to-seize]V sux:ulu₃[south-wind-(storm)]N
-c.4.12.1,A šir-gida to Martu (Martu A),,20,sux:iri[town]N sux:nam[destiny]N sux:kud[to-cut]V sux:a₂[arm]N sux:ki[place]N sux:gi₄[to-return]V
-c.4.12.1,A šir-gida to Martu (Martu A),,21,sux:lugal[king]N sux:kur[(mountain)-land]N sux:še[to-agree]V sux:gul[to-destroy]V
-c.4.12.1,A šir-gida to Martu (Martu A),,22,sux:sipad[shepherd]N sux:zid[right]AJ sux:šag₄[heart]N sux:kug[shining]AJ sux:pad₃[to-find]V
-c.4.12.1,A šir-gida to Martu (Martu A),,23,sux:Martu[1]DN sux:dumu[child]N sux:An[1]DN sux:šu[hand]N sux:de₆[to-carry]V
-c.4.12.1,A šir-gida to Martu (Martu A),,24,sux:mu[name]N sux:mu[name]N sux:mah[to-be-majestic]V sux:ka[mouth]N sux:dib[to-pass]V sux:lu₂[person]N
-c.4.12.1,A šir-gida to Martu (Martu A),,25,sux:diŋir[deity]N sux:šu[hand]N sux:sikil[to-be-pure]V sux:šu-luh[ritual-cleansing]N sux:me[essence]N sux:zalag[to-be-shining]V sux:me[essence]N
-c.4.12.1,A šir-gida to Martu (Martu A),,26,sux:niŋ₂-erim₂[fraudulent-action]N sux:niŋ₂-a₂-zig₃[violent-action]N sux:gul[to-destroy]V sux:niŋ₂-gen₆-na[constancy]N sux:gub[to-stand]V
-c.4.12.1,A šir-gida to Martu (Martu A),,27,sux:diŋir[deity]N sux:huš[to-be-reddish]V sux:di[(law)suit]N sux:si[horn]N sux:sa₂[to-equal]V sux:kud[to-cut]V sux:eš-bar[decision]N sux:gal-zu[skilful]AJ
-c.4.12.1,A šir-gida to Martu (Martu A),,28,sux:šag₄[heart]N sux:kuš₂[to-be-tired]V sux:a-a[father]N sux:inim[word]N sux:sig₁₀[to-place]V
-c.4.12.1,A šir-gida to Martu (Martu A),,29,sux:a-a[father]N sux:ugu[to-give-birth]V sux:en[lord]N sux:diŋir[deity]N sux:nun[prince]N sux:nam[destiny]N sux:tar[to-cut]V
-c.4.12.1,A šir-gida to Martu (Martu A),,30,sux:an[heaven]N sux:sud[to-be-distant]V sux:ki[place]N sux:daŋal[to-be-wide]V sux:si[to-fill]V sux:gaba[chest]N sux:gi₄[to-return]V sux:tuku[to-have]V
-c.4.12.1,A šir-gida to Martu (Martu A),,31,sux:hur-saŋ[mountain-(range)]N sux:sikil[to-be-pure]V sux:kur[(mountain)-land]N sux:za-gin₃[lapis-lazuli]N sux:saŋ[head]N sux:rig₇[to-bestow]V
-c.4.12.1,A šir-gida to Martu (Martu A),,32,sux:kur[(mountain)-land]N sux:Martu[1]EN sux:kur[(mountain)-land]N sux:za-gin₃[lapis-lazuli]N sux:saŋ[head]N sux:rig₇[to-bestow]V
-c.4.12.1,A šir-gida to Martu (Martu A),,33,sux:saŋ[head]N sux:piriŋ[lion]N sux:ur-saŋ[hero]N sux:me₃[battle]N sux:a₂-tah[helper]N sux:lugal[king]N
-c.4.12.1,A šir-gida to Martu (Martu A),,34,sux:lu₂[person]N sux:si[horn]N sux:sa₂[to-equal]V sux:di[(law)suit]N sux:niŋ₂[thing]N sux:dab₅[to-seize]V sux:e-ne[he;-she]PD sux:inim[word]N sux:sag₉[to-be-good]V
-c.4.12.1,A šir-gida to Martu (Martu A),,35,sux:ŋidru[sceptre]N sux:de₆[to-carry]V sux:sud[to-be-distant]V
-c.4.12.1,A šir-gida to Martu (Martu A),,36,sux:niŋ₂[thing]N sux:sag₉[to-be-good]V sux:DU[DU]V
-c.4.12.1,A šir-gida to Martu (Martu A),,37,sux:amar[calf]N sux:gal[to-be-big]V sux:ŋar[to-place]V
-c.4.12.1,A šir-gida to Martu (Martu A),,38,sux:šar₂[to-be-numerous]V sux:nun[prince]N sux:tur₃[animal-stall]N sux:amaš[sheepfold]N
-c.4.12.1,A šir-gida to Martu (Martu A),,39,sux:ku₆[fish]N sux:mušen[bird]N sux:gurun[fruit]N sux:gibil[to-be-new]V sux:mu₂[to-grow]V
-c.4.12.1,A šir-gida to Martu (Martu A),,40,sux:e₂[house(hold)]N sux:lugal[king]N sux:kug[precious-metal]N sux:muš₃[face]N sux:de₆[to-carry]V
-c.4.12.1,A šir-gida to Martu (Martu A),,41,sux:dirig[to-be-superior]V sux:nam[destiny]N sux:gal[to-be-big]V sux:tar[to-cut]V
-c.4.12.1,A šir-gida to Martu (Martu A),,42,sux:en-nu-uŋ₃[guard]N sux:ak[to-do]V
-c.4.12.1,A šir-gida to Martu (Martu A),,43,sux:id₂[watercourse]N sux:ŋal₂[to-be-(located)]V sux:dug₃[to-be-good]V sux:naŋ[to-drink]V
-c.4.12.1,A šir-gida to Martu (Martu A),,44,sux:a-šag₄[field]N sux:il₂[to-raise]V sux:še[barley]N sux:gu₇[to-eat]V
-c.4.12.1,A šir-gida to Martu (Martu A),,45,sux:he₂-ŋal₂[plenty]N sux:šu[hand]N sux:peš[to-be-thick]V
-c.4.12.1,A šir-gida to Martu (Martu A),,46,sux:šu[hand]N sux:il₂[to-raise]V sux:hul[to-be-bad]V sux:ŋal₂[to-be-(located)]V
-c.4.12.1,A šir-gida to Martu (Martu A),,47,sux:šag₄[heart]N sux:inim[word]N sux:niŋ₂-gen₆-na[constancy]N sux:me[to-be]V
-c.4.12.1,A šir-gida to Martu (Martu A),,48,sux:bar[outside]N sux:giri₁₇-zal[joy]N sux:me[to-be]V
-c.4.12.1,A šir-gida to Martu (Martu A),,49,sux:lugal[king]N sux:kur₂[to-be-different]V sux:ud[day(light)]N sux:sud[to-be-distant]V
-c.4.12.1,A šir-gida to Martu (Martu A),,50,sux:ešgiri₂[staff]N sux:zid[right]AJ sux:tukul[weapon]N sux:šar₂[to-be-numerous]V sux:de₆[to-carry]V sux:zag[side]N sux:la₂[to-hang]V
-c.4.12.1,A šir-gida to Martu (Martu A),,51,sux:e₂-gal[palace]N sux:lugal[king]N sux:numun[seed]N sux:dib[to-pass]V
-c.4.12.1,A šir-gida to Martu (Martu A),,52,sux:ki-in-du[(stretch-of)-earth]N sux:si[horn]N sux:sa₂[to-equal]V sux:ŋiri₃[foot]N sux:ŋal₂[to-be-(located)]V sux:zag[side]N sux:kiŋ₂[to-seek]V sux:tuku[to-have]V
-c.4.12.1,A šir-gida to Martu (Martu A),,53,sux:igi[eye]N sux:du₈[to-spread]V sux:diŋir[deity]N
-c.4.12.1,A šir-gida to Martu (Martu A),,54,sux:nam-lu₂-ulu₃[humanity]N sux:dug₄[to-say]V
-c.4.12.1,A šir-gida to Martu (Martu A),,55,sux:nam-lugal[kingship]N sux:šag₄[heart]N sux:sag₉[to-be-good]V sux:pad₃[to-find]V
-c.4.12.1,A šir-gida to Martu (Martu A),,56,sux:lamma[guardian-deity]N sux:niŋ₂-gen₆-na[constancy]N sux:ud[day(light)]N sux:šu₂[to-cover]V sux:zid[right]AJ sux:gub[to-stand]V sux:ŋa₂-la[noun-part-of-multiword-verb]N sux:dag[to-roam-around]V
-c.4.12.1,A šir-gida to Martu (Martu A),,57,sux:mi₂[(loving)-care]N sux:zid[right]AJ sux:dug₄[to-say]V sux:diŋir[deity]N sux:lu₂[person]N sux:hur-saŋ[mountain-(range)]N sux:ar₂[praise]N sux:dib[to-pass]V
-c.4.12.1,A šir-gida to Martu (Martu A),,58,sux:nar[musician]N sux:šir₃[song]N sux:kug[shining]AJ sux:dug₄[to-say]V sux:mu[name]N sux:pa[branch]N sux:e₃[to-go-out-or-in]V
-c.4.12.1,A šir-gida to Martu (Martu A),,59,sux:Martu[1]DN sux:dumu[child]N sux:An[1]DN sux:za₃-mi₂[praise]N sux:dug₃[to-be-good]V
-c.4.12.1,A šir-gida to Martu (Martu A),,60,sux:šir₃-gid₂-da[type-of-composition]N sux:Martu[1]DN
+c.4.12.1,A šir-gida to Martu (Martu A),,1,ur-saŋ[hero]N šul[young-man]N mah[to-be-majestic]V kur[(mountain)-land]N idim[underground-water]N zag[side]N til[to-complete]V
+c.4.12.1,A šir-gida to Martu (Martu A),,2,Martu[1]DN šul[young-man]N mah[to-be-majestic]V kur[(mountain)-land]N idim[underground-water]N zag[side]N til[to-complete]V
+c.4.12.1,A šir-gida to Martu (Martu A),,3,usu[strength]N piriŋ[lion]N huš[to-be-reddish]V hur-saŋ[mountain-(range)]N ki[place]N sikil[to-be-pure]V barag[dais]N kug[shining]AJ si[to-fill]V
+c.4.12.1,A šir-gida to Martu (Martu A),,4,Martu[1]DN usu[strength]N piriŋ[lion]N huš[to-be-reddish]V hur-saŋ[mountain-(range)]N ki[place]N sikil[to-be-pure]V barag[dais]N kug[shining]AJ si[to-fill]V
+c.4.12.1,A šir-gida to Martu (Martu A),,5,ni₂[fear(someness)]N gal[to-be-big]V guru₃[to-bear]V An[1]DN kug[shining]AJ tud[to-give-birth]V me[essence]N šar₂[to-be-numerous]V dalla[to-be-bright]V e₃[to-go-out-or-in]V
+c.4.12.1,A šir-gida to Martu (Martu A),,6,ama[mother]N ugu[to-give-birth]V Ninhursaŋa[1]DN
+c.4.12.1,A šir-gida to Martu (Martu A),,7,alan[statue]N Medim-ša[1]DN dirig[to-be-superior]V na-me[any]PD saŋ[head]N šum₂[to-give]V
+c.4.12.1,A šir-gida to Martu (Martu A),,8,Anuna[1]DN diŋir[deity]N gal[to-be-big]V
+c.4.12.1,A šir-gida to Martu (Martu A),,9,nam-ur-saŋ[heroism]N a₂[arm]N mah[to-be-majestic]V gu₃[voice]N zid[right]AJ de₂[to-pour]V
+c.4.12.1,A šir-gida to Martu (Martu A),,10,nam-nir-ŋal₂[authority]N me₃[battle]N gaba[chest]N ŋen[to-go]V da-da-ra[to-put-on]V dug₄[to-say]V
+c.4.12.1,A šir-gida to Martu (Martu A),,11,tukul[weapon]N mitum[type-of-weapon]N pan[bow]N gal[to-be-big]V ti[arrow]N mar-uru₅[tempest]N šu[hand]N mah[to-be-majestic]V
+c.4.12.1,A šir-gida to Martu (Martu A),,12,nam-diŋir[divinity]N šu[hand]N gal[to-be-big]V du₇[to-be-perfect]V zag[side]N sa₂[to-equal]V
+c.4.12.1,A šir-gida to Martu (Martu A),,13,gaba[chest]N zig₃[to-rise]V šag₄-tum₂[meadow]N
+c.4.12.1,A šir-gida to Martu (Martu A),,14,mah[to-be-majestic]V gal[to-be-big]V a₂[arm]N piriŋ[lion]N ŋal₂[to-be-(located)]V
+c.4.12.1,A šir-gida to Martu (Martu A),,15,piriŋ[lion]N ban₃-da[junior]AJ ni₂[fear(someness)]N ri[to-direct]V
+c.4.12.1,A šir-gida to Martu (Martu A),,16,am[wild-bull]N a₂[arm]N gur₄[to-be-thick]V
+c.4.12.1,A šir-gida to Martu (Martu A),,17,tum₉[wind]N 7[7]NU zag[side]N keše₂[to-bind]V izi[fire]N
+c.4.12.1,A šir-gida to Martu (Martu A),,18,me₃[battle]N šen[combat]N aga₃-kar₂[conquering]N sig₁₀[to-place]V nim[lightning]N
+c.4.12.1,A šir-gida to Martu (Martu A),,19,ni₂[fear(someness)]N mah[to-be-majestic]V hul-ŋal₂[evil]AJ dab₅[to-seize]V ulu₃[south-wind-(storm)]N
+c.4.12.1,A šir-gida to Martu (Martu A),,20,iri[town]N nam[destiny]N kud[to-cut]V a₂[arm]N ki[place]N gi₄[to-return]V
+c.4.12.1,A šir-gida to Martu (Martu A),,21,lugal[king]N kur[(mountain)-land]N še[to-agree]V gul[to-destroy]V
+c.4.12.1,A šir-gida to Martu (Martu A),,22,sipad[shepherd]N zid[right]AJ šag₄[heart]N kug[shining]AJ pad₃[to-find]V
+c.4.12.1,A šir-gida to Martu (Martu A),,23,Martu[1]DN dumu[child]N An[1]DN šu[hand]N de₆[to-carry]V
+c.4.12.1,A šir-gida to Martu (Martu A),,24,mu[name]N mu[name]N mah[to-be-majestic]V ka[mouth]N dib[to-pass]V lu₂[person]N
+c.4.12.1,A šir-gida to Martu (Martu A),,25,diŋir[deity]N šu[hand]N sikil[to-be-pure]V šu-luh[ritual-cleansing]N me[essence]N zalag[to-be-shining]V me[essence]N
+c.4.12.1,A šir-gida to Martu (Martu A),,26,niŋ₂-erim₂[fraudulent-action]N niŋ₂-a₂-zig₃[violent-action]N gul[to-destroy]V niŋ₂-gen₆-na[constancy]N gub[to-stand]V
+c.4.12.1,A šir-gida to Martu (Martu A),,27,diŋir[deity]N huš[to-be-reddish]V di[(law)suit]N si[horn]N sa₂[to-equal]V kud[to-cut]V eš-bar[decision]N gal-zu[skilful]AJ
+c.4.12.1,A šir-gida to Martu (Martu A),,28,šag₄[heart]N kuš₂[to-be-tired]V a-a[father]N inim[word]N sig₁₀[to-place]V
+c.4.12.1,A šir-gida to Martu (Martu A),,29,a-a[father]N ugu[to-give-birth]V en[lord]N diŋir[deity]N nun[prince]N nam[destiny]N tar[to-cut]V
+c.4.12.1,A šir-gida to Martu (Martu A),,30,an[heaven]N sud[to-be-distant]V ki[place]N daŋal[to-be-wide]V si[to-fill]V gaba[chest]N gi₄[to-return]V tuku[to-have]V
+c.4.12.1,A šir-gida to Martu (Martu A),,31,hur-saŋ[mountain-(range)]N sikil[to-be-pure]V kur[(mountain)-land]N za-gin₃[lapis-lazuli]N saŋ[head]N rig₇[to-bestow]V
+c.4.12.1,A šir-gida to Martu (Martu A),,32,kur[(mountain)-land]N Martu[1]EN kur[(mountain)-land]N za-gin₃[lapis-lazuli]N saŋ[head]N rig₇[to-bestow]V
+c.4.12.1,A šir-gida to Martu (Martu A),,33,saŋ[head]N piriŋ[lion]N ur-saŋ[hero]N me₃[battle]N a₂-tah[helper]N lugal[king]N
+c.4.12.1,A šir-gida to Martu (Martu A),,34,lu₂[person]N si[horn]N sa₂[to-equal]V di[(law)suit]N niŋ₂[thing]N dab₅[to-seize]V e-ne[he;-she]PD inim[word]N sag₉[to-be-good]V
+c.4.12.1,A šir-gida to Martu (Martu A),,35,ŋidru[sceptre]N de₆[to-carry]V sud[to-be-distant]V
+c.4.12.1,A šir-gida to Martu (Martu A),,36,niŋ₂[thing]N sag₉[to-be-good]V DU[DU]V
+c.4.12.1,A šir-gida to Martu (Martu A),,37,amar[calf]N gal[to-be-big]V ŋar[to-place]V
+c.4.12.1,A šir-gida to Martu (Martu A),,38,šar₂[to-be-numerous]V nun[prince]N tur₃[animal-stall]N amaš[sheepfold]N
+c.4.12.1,A šir-gida to Martu (Martu A),,39,ku₆[fish]N mušen[bird]N gurun[fruit]N gibil[to-be-new]V mu₂[to-grow]V
+c.4.12.1,A šir-gida to Martu (Martu A),,40,e₂[house(hold)]N lugal[king]N kug[precious-metal]N muš₃[face]N de₆[to-carry]V
+c.4.12.1,A šir-gida to Martu (Martu A),,41,dirig[to-be-superior]V nam[destiny]N gal[to-be-big]V tar[to-cut]V
+c.4.12.1,A šir-gida to Martu (Martu A),,42,en-nu-uŋ₃[guard]N ak[to-do]V
+c.4.12.1,A šir-gida to Martu (Martu A),,43,id₂[watercourse]N ŋal₂[to-be-(located)]V dug₃[to-be-good]V naŋ[to-drink]V
+c.4.12.1,A šir-gida to Martu (Martu A),,44,a-šag₄[field]N il₂[to-raise]V še[barley]N gu₇[to-eat]V
+c.4.12.1,A šir-gida to Martu (Martu A),,45,he₂-ŋal₂[plenty]N šu[hand]N peš[to-be-thick]V
+c.4.12.1,A šir-gida to Martu (Martu A),,46,šu[hand]N il₂[to-raise]V hul[to-be-bad]V ŋal₂[to-be-(located)]V
+c.4.12.1,A šir-gida to Martu (Martu A),,47,šag₄[heart]N inim[word]N niŋ₂-gen₆-na[constancy]N me[to-be]V
+c.4.12.1,A šir-gida to Martu (Martu A),,48,bar[outside]N giri₁₇-zal[joy]N me[to-be]V
+c.4.12.1,A šir-gida to Martu (Martu A),,49,lugal[king]N kur₂[to-be-different]V ud[day(light)]N sud[to-be-distant]V
+c.4.12.1,A šir-gida to Martu (Martu A),,50,ešgiri₂[staff]N zid[right]AJ tukul[weapon]N šar₂[to-be-numerous]V de₆[to-carry]V zag[side]N la₂[to-hang]V
+c.4.12.1,A šir-gida to Martu (Martu A),,51,e₂-gal[palace]N lugal[king]N numun[seed]N dib[to-pass]V
+c.4.12.1,A šir-gida to Martu (Martu A),,52,ki-in-du[(stretch-of)-earth]N si[horn]N sa₂[to-equal]V ŋiri₃[foot]N ŋal₂[to-be-(located)]V zag[side]N kiŋ₂[to-seek]V tuku[to-have]V
+c.4.12.1,A šir-gida to Martu (Martu A),,53,igi[eye]N du₈[to-spread]V diŋir[deity]N
+c.4.12.1,A šir-gida to Martu (Martu A),,54,nam-lu₂-ulu₃[humanity]N dug₄[to-say]V
+c.4.12.1,A šir-gida to Martu (Martu A),,55,nam-lugal[kingship]N šag₄[heart]N sag₉[to-be-good]V pad₃[to-find]V
+c.4.12.1,A šir-gida to Martu (Martu A),,56,lamma[guardian-deity]N niŋ₂-gen₆-na[constancy]N ud[day(light)]N šu₂[to-cover]V zid[right]AJ gub[to-stand]V ŋa₂-la[noun-part-of-multiword-verb]N dag[to-roam-around]V
+c.4.12.1,A šir-gida to Martu (Martu A),,57,mi₂[(loving)-care]N zid[right]AJ dug₄[to-say]V diŋir[deity]N lu₂[person]N hur-saŋ[mountain-(range)]N ar₂[praise]N dib[to-pass]V
+c.4.12.1,A šir-gida to Martu (Martu A),,58,nar[musician]N šir₃[song]N kug[shining]AJ dug₄[to-say]V mu[name]N pa[branch]N e₃[to-go-out-or-in]V
+c.4.12.1,A šir-gida to Martu (Martu A),,59,Martu[1]DN dumu[child]N An[1]DN za₃-mi₂[praise]N dug₃[to-be-good]V
+c.4.12.1,A šir-gida to Martu (Martu A),,60,šir₃-gid₂-da[type-of-composition]N Martu[1]DN

@@ -1,37 +1,37 @@
 id_text,text_name,version,l_no,text
-c.2.4.2.a,A song of Šulgi,,1,sux:šag₄[heart]N sux:kug[shining]AJ sux:e₃[to-go-out-or-in]V
-c.2.4.2.a,A song of Šulgi,,2,sux:kalam[the-Land]N sux:ki[place]N sux:hul₂[to-be-happy]V
+c.2.4.2.a,A song of Šulgi,,1,šag₄[heart]N kug[shining]AJ e₃[to-go-out-or-in]V
+c.2.4.2.a,A song of Šulgi,,2,kalam[the-Land]N ki[place]N hul₂[to-be-happy]V
 c.2.4.2.a,A song of Šulgi,,3,
-c.2.4.2.a,A song of Šulgi,,4,sux:dug₄[to-say]V
-c.2.4.2.a,A song of Šulgi,,5,sux:lugal[king]N sux:Eridug[1]SN sux:ŋen[to-go]V
-c.2.4.2.a,A song of Šulgi,,6,sux:nun[prince]N sux:gal[to-be-big]V sux:a-a[father]N sux:Enki[1]DN sux:hul₂[to-be-happy]V
-c.2.4.2.a,A song of Šulgi,,7,sux:Šulgi[1]RN sux:Eridug[1]SN sux:ŋen[to-go]V
-c.2.4.2.a,A song of Šulgi,,8,sux:nun[prince]N sux:gal[to-be-big]V sux:a-a[father]N sux:Enki[1]DN sux:hul₂[to-be-happy]V
-c.2.4.2.a,A song of Šulgi,,9,sux:lugal[king]N sux:Nibru[1]SN sux:ŋen[to-go]V
-c.2.4.2.a,A song of Šulgi,,10,sux:kur[(mountain)-land]N sux:gal[to-be-big]V sux:a-a[father]N sux:Enlil[1]DN sux:hul₂[to-be-happy]V
-c.2.4.2.a,A song of Šulgi,,11,sux:Šulgi[1]RN sux:Nibru[1]SN sux:ŋen[to-go]V
-c.2.4.2.a,A song of Šulgi,,12,sux:kur[(mountain)-land]N sux:gal[to-be-big]V sux:a-a[father]N sux:Enlil[1]DN sux:hul₂[to-be-happy]V
-c.2.4.2.a,A song of Šulgi,,13,sux:lugal[king]N sux:E-šu-me-ša[1]TN sux:ŋen[to-go]V
-c.2.4.2.a,A song of Šulgi,,14,sux:en[lord]N sux:Ninurta[1]DN sux:hul₂[to-be-happy]V
-c.2.4.2.a,A song of Šulgi,,15,sux:Šulgi[1]RN sux:E-šu-me-ša[1]TN sux:ŋen[to-go]V
-c.2.4.2.a,A song of Šulgi,,16,sux:en[lord]N sux:Ninurta[1]DN sux:hul₂[to-be-happy]V
-c.2.4.2.a,A song of Šulgi,,17,sux:lugal[king]N sux:Keš[1]SN sux:ŋen[to-go]V
-c.2.4.2.a,A song of Šulgi,,18,sux:Ninsumun-zid-gal-ana[1]DN sux:hul₂[to-be-happy]V
-c.2.4.2.a,A song of Šulgi,,19,sux:Šulgi[1]RN sux:Keš[1]SN sux:ŋen[to-go]V
-c.2.4.2.a,A song of Šulgi,,20,sux:Ninsumun-zid-gal-ana[1]DN sux:hul₂[to-be-happy]V
-c.2.4.2.a,A song of Šulgi,,21,sux:lugal[king]N sux:Urim[1]SN sux:ŋen[to-go]V
-c.2.4.2.a,A song of Šulgi,,22,sux:en[lord]N sux:Ašimbabbar[1]DN sux:hul₂[to-be-happy]V
-c.2.4.2.a,A song of Šulgi,,23,sux:Šulgi[1]RN sux:Urim[1]SN sux:ŋen[to-go]V
-c.2.4.2.a,A song of Šulgi,,24,sux:en[lord]N sux:Ašimbabbar[1]DN sux:hul₂[to-be-happy]V
-c.2.4.2.a,A song of Šulgi,,25,sux:lugal[king]N sux:E-babbar[1]TN sux:ŋen[to-go]V
-c.2.4.2.a,A song of Šulgi,,26,sux:sun₄[beard]N sux:za-gin₃[lapis-lazuli]N sux:hul₂[to-be-happy]V
-c.2.4.2.a,A song of Šulgi,,27,sux:Šulgi[1]RN sux:E-babbar[1]TN sux:ŋen[to-go]V
-c.2.4.2.a,A song of Šulgi,,28,sux:sun₄[beard]N sux:za-gin₃[lapis-lazuli]N sux:hul₂[to-be-happy]V
-c.2.4.2.a,A song of Šulgi,,29,sux:lugal[king]N sux:Kulaba[1]SN sux:ŋen[to-go]V
-c.2.4.2.a,A song of Šulgi,,30,sux:Ninirigal[1]DN sux:hul₂[to-be-happy]V
-c.2.4.2.a,A song of Šulgi,,31,sux:Šulgi[1]RN sux:Kulaba[1]SN sux:ŋen[to-go]V
-c.2.4.2.a,A song of Šulgi,,32,sux:Ninirigal[1]DN sux:hul₂[to-be-happy]V
-c.2.4.2.a,A song of Šulgi,,33,sux:lugal[king]N sux:ki[place]N sux:Zabalam[1]SN sux:ŋen[to-go]V
-c.2.4.2.a,A song of Šulgi,,34,sux:Inana[1]DN sux:hul₂[to-be-happy]V
-c.2.4.2.a,A song of Šulgi,,35,sux:Šulgi[1]RN sux:ki[place]N sux:Zabalam[1]SN sux:ŋen[to-go]V
-c.2.4.2.a,A song of Šulgi,,36,sux:Inana[1]DN sux:hul₂[to-be-happy]V
+c.2.4.2.a,A song of Šulgi,,4,dug₄[to-say]V
+c.2.4.2.a,A song of Šulgi,,5,lugal[king]N Eridug[1]SN ŋen[to-go]V
+c.2.4.2.a,A song of Šulgi,,6,nun[prince]N gal[to-be-big]V a-a[father]N Enki[1]DN hul₂[to-be-happy]V
+c.2.4.2.a,A song of Šulgi,,7,Šulgi[1]RN Eridug[1]SN ŋen[to-go]V
+c.2.4.2.a,A song of Šulgi,,8,nun[prince]N gal[to-be-big]V a-a[father]N Enki[1]DN hul₂[to-be-happy]V
+c.2.4.2.a,A song of Šulgi,,9,lugal[king]N Nibru[1]SN ŋen[to-go]V
+c.2.4.2.a,A song of Šulgi,,10,kur[(mountain)-land]N gal[to-be-big]V a-a[father]N Enlil[1]DN hul₂[to-be-happy]V
+c.2.4.2.a,A song of Šulgi,,11,Šulgi[1]RN Nibru[1]SN ŋen[to-go]V
+c.2.4.2.a,A song of Šulgi,,12,kur[(mountain)-land]N gal[to-be-big]V a-a[father]N Enlil[1]DN hul₂[to-be-happy]V
+c.2.4.2.a,A song of Šulgi,,13,lugal[king]N E-šu-me-ša[1]TN ŋen[to-go]V
+c.2.4.2.a,A song of Šulgi,,14,en[lord]N Ninurta[1]DN hul₂[to-be-happy]V
+c.2.4.2.a,A song of Šulgi,,15,Šulgi[1]RN E-šu-me-ša[1]TN ŋen[to-go]V
+c.2.4.2.a,A song of Šulgi,,16,en[lord]N Ninurta[1]DN hul₂[to-be-happy]V
+c.2.4.2.a,A song of Šulgi,,17,lugal[king]N Keš[1]SN ŋen[to-go]V
+c.2.4.2.a,A song of Šulgi,,18,Ninsumun-zid-gal-ana[1]DN hul₂[to-be-happy]V
+c.2.4.2.a,A song of Šulgi,,19,Šulgi[1]RN Keš[1]SN ŋen[to-go]V
+c.2.4.2.a,A song of Šulgi,,20,Ninsumun-zid-gal-ana[1]DN hul₂[to-be-happy]V
+c.2.4.2.a,A song of Šulgi,,21,lugal[king]N Urim[1]SN ŋen[to-go]V
+c.2.4.2.a,A song of Šulgi,,22,en[lord]N Ašimbabbar[1]DN hul₂[to-be-happy]V
+c.2.4.2.a,A song of Šulgi,,23,Šulgi[1]RN Urim[1]SN ŋen[to-go]V
+c.2.4.2.a,A song of Šulgi,,24,en[lord]N Ašimbabbar[1]DN hul₂[to-be-happy]V
+c.2.4.2.a,A song of Šulgi,,25,lugal[king]N E-babbar[1]TN ŋen[to-go]V
+c.2.4.2.a,A song of Šulgi,,26,sun₄[beard]N za-gin₃[lapis-lazuli]N hul₂[to-be-happy]V
+c.2.4.2.a,A song of Šulgi,,27,Šulgi[1]RN E-babbar[1]TN ŋen[to-go]V
+c.2.4.2.a,A song of Šulgi,,28,sun₄[beard]N za-gin₃[lapis-lazuli]N hul₂[to-be-happy]V
+c.2.4.2.a,A song of Šulgi,,29,lugal[king]N Kulaba[1]SN ŋen[to-go]V
+c.2.4.2.a,A song of Šulgi,,30,Ninirigal[1]DN hul₂[to-be-happy]V
+c.2.4.2.a,A song of Šulgi,,31,Šulgi[1]RN Kulaba[1]SN ŋen[to-go]V
+c.2.4.2.a,A song of Šulgi,,32,Ninirigal[1]DN hul₂[to-be-happy]V
+c.2.4.2.a,A song of Šulgi,,33,lugal[king]N ki[place]N Zabalam[1]SN ŋen[to-go]V
+c.2.4.2.a,A song of Šulgi,,34,Inana[1]DN hul₂[to-be-happy]V
+c.2.4.2.a,A song of Šulgi,,35,Šulgi[1]RN ki[place]N Zabalam[1]SN ŋen[to-go]V
+c.2.4.2.a,A song of Šulgi,,36,Inana[1]DN hul₂[to-be-happy]V

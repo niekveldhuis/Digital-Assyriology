@@ -1,42 +1,42 @@
 id_text,text_name,version,l_no,text
-c.4.25.2,A hymn to Ninšubur (Ninšubur B),,1,sux:šubur[servant]N sux:šu[hand]N sux:mu₂[to-grow]V sux:gal-an-zu[wise]AJ
-c.4.25.2,A hymn to Ninšubur (Ninšubur B),,2,sux:šubur[servant]N sux:šu[hand]N sux:mu₂[to-grow]V sux:gal-an-zu[wise]AJ
-c.4.25.2,A hymn to Ninšubur (Ninšubur B),,3,sux:Akkil[1]SN sux:šu[hand]N sux:mu₂[to-grow]V sux:gal-an-zu[wise]AJ
-c.4.25.2,A hymn to Ninšubur (Ninšubur B),,4,sux:iri[town]N sux:Akkil[1]SN sux:dur₂[rump]N sux:ŋar[to-place]V
-c.4.25.2,A hymn to Ninšubur (Ninšubur B),,5,sux:šubur[servant]N sux:Akkil[1]SN sux:dur₂[rump]N sux:ki[place]N sux:ŋar[to-place]V
-c.4.25.2,A hymn to Ninšubur (Ninšubur B),,6,sux:šubur[servant]N sux:šu[hand]N
-c.4.25.2,A hymn to Ninšubur (Ninšubur B),,7,sux-x-emesal:Ninšubur[1]DN sux:Nintur[1]DN sux:šu[hand]N
-c.4.25.2,A hymn to Ninšubur (Ninšubur B),,8,sux:šubur[servant]N sux:šu[hand]N
-c.4.25.2,A hymn to Ninšubur (Ninšubur B),,9,sux-x-emesal:Ninšubur[1]DN
-c.4.25.2,A hymn to Ninšubur (Ninšubur B),,10,sux:An[1]DN sux:il₂[to-raise]V
-c.4.25.2,A hymn to Ninšubur (Ninšubur B),,11,sux:a-a[father]N sux:Enlil[1]DN sux-x-emesal:u₃-mu-un[lord]N sux:kur[(mountain)-land]N
-c.4.25.2,A hymn to Ninšubur (Ninšubur B),,12,sux:Ninlil[1]DN sux:nin[lady]N sux:Ki-ur[1]TN sux:ki[place]N sux:gal[to-be-big]V
-c.4.25.2,A hymn to Ninšubur (Ninšubur B),,13,sux-x-emesal:Enki[1]DN sux:am[wild-bull]N sux-x-emesal:Eridug[1]SN
-c.4.25.2,A hymn to Ninšubur (Ninšubur B),,14,sux:munus[woman]N sux:zid[right]AJ sux:Damgalnuna[1]DN
-c.4.25.2,A hymn to Ninšubur (Ninšubur B),,15,sux:Urim[1]SN sux:Ašimbabbar[1]DN
-c.4.25.2,A hymn to Ninšubur (Ninšubur B),,16,sux-x-emesal:Ningal[1]DN sux:Agrun-kug[1]TN
-c.4.25.2,A hymn to Ninšubur (Ninšubur B),,17,sux:kur[(mountain)-land]N sux:gal[to-be-big]V sux:Enlil[1]DN
-c.4.25.2,A hymn to Ninšubur (Ninšubur B),,18,sux-x-emesal:Ninurta[1]DN
-c.4.25.2,A hymn to Ninšubur (Ninšubur B),,19,sux-x-emesal:Ninhursaŋa[1]DN
-c.4.25.2,A hymn to Ninšubur (Ninšubur B),,20,sux:šul[young-man]N sux:Utu[1]DN sux:eš₃[shrine]N sux:E-babbar[1]TN sux:zid[right]AJ
-c.4.25.2,A hymn to Ninšubur (Ninšubur B),,21,sux:emeda[nursemaid]N sux-x-emesal:Ninirigal[1]DN
-c.4.25.2,A hymn to Ninšubur (Ninšubur B),,22,sux:ki[place]N sux:Zabalam[1]SN sux:kug[shining]AJ sux-x-emesal:Inana[1]DN
-c.4.25.2,A hymn to Ninšubur (Ninšubur B),,23,sux-x-emesal:Enlil[1]DN sux:diŋir[deity]N sux:gal[to-be-big]V sux:si[horn]N sux:sa₂[to-equal]V
-c.4.25.2,A hymn to Ninšubur (Ninšubur B),,24,sux:sa-gid₂-da[composition-division]N
-c.4.25.2,A hymn to Ninšubur (Ninšubur B),,25,sux:šubur[servant]N sux:barag[dais]N sux:mah[to-be-majestic]V sux:dur₂[rump]N sux:ŋar[to-place]V
-c.4.25.2,A hymn to Ninšubur (Ninšubur B),,26,sux-x-emesal:Ninšubur[1]DN sux:dur₂[rump]N sux:ŋar[to-place]V
-c.4.25.2,A hymn to Ninšubur (Ninšubur B),,27,sux:barag[dais]N sux:a-a[father]N sux:Enlil[1]DN sux:dur₂[rump]N sux:ŋar[to-place]V
-c.4.25.2,A hymn to Ninšubur (Ninšubur B),,28,sux:Enlil[1]DN sux:Ninlil[1]DN sux:dur₂[rump]N sux:ŋar[to-place]V
-c.4.25.2,A hymn to Ninšubur (Ninšubur B),,29,sux-x-emesal:me[I]PD sux:ama[mother]N sux:Kaka[1]DN sux:ama[mother]N sux:u₅[to-ride]V
-c.4.25.2,A hymn to Ninšubur (Ninšubur B),,30,sux-x-emesal:Ninšubur[1]DN sux:Kaka[1]DN sux:ama[mother]N sux:u₅[to-ride]V
-c.4.25.2,A hymn to Ninšubur (Ninšubur B),,31,sux:sukkal[minister]N sux:zid[right]AJ sux:E-ana[1]TN
-c.4.25.2,A hymn to Ninšubur (Ninšubur B),,32,sux:Ninšubur[1]DN sux:E-ana[1]TN
-c.4.25.2,A hymn to Ninšubur (Ninšubur B),,33,sux:sukkal-mah[chief-minister]N sux:an[heaven]N sux:ki[place]N
-c.4.25.2,A hymn to Ninšubur (Ninšubur B),,34,sux:Ninšubur[1]DN sux:an[heaven]N sux:ki[place]N
-c.4.25.2,A hymn to Ninšubur (Ninšubur B),,35,sux:sukkal[minister]N sux:zid[right]AJ sux:Anuna[1]DN
-c.4.25.2,A hymn to Ninšubur (Ninšubur B),,36,sux:Ninšubur[1]DN sux:Anuna[1]DN
-c.4.25.2,A hymn to Ninšubur (Ninšubur B),,37,sux:sukkal[minister]N sux:zid[right]AJ sux:diŋir[deity]N sux:kalam[the-Land]N
-c.4.25.2,A hymn to Ninšubur (Ninšubur B),,38,sux:Ninšubur[1]DN sux:diŋir[deity]N sux:kalam[the-Land]N
-c.4.25.2,A hymn to Ninšubur (Ninšubur B),,39,sux:sukkal[minister]N sux:zid[right]AJ sux:ama[mother]N sux:kalam[the-Land]N
-c.4.25.2,A hymn to Ninšubur (Ninšubur B),,40,sux:Ninšubur[1]DN sux:ama[mother]N sux:kalam[the-Land]N sux:u₅[to-ride]V
-c.4.25.2,A hymn to Ninšubur (Ninšubur B),,41,sux:Ninšubur[1]DN
+c.4.25.2,A hymn to Ninšubur (Ninšubur B),,1,šubur[servant]N šu[hand]N mu₂[to-grow]V gal-an-zu[wise]AJ
+c.4.25.2,A hymn to Ninšubur (Ninšubur B),,2,šubur[servant]N šu[hand]N mu₂[to-grow]V gal-an-zu[wise]AJ
+c.4.25.2,A hymn to Ninšubur (Ninšubur B),,3,Akkil[1]SN šu[hand]N mu₂[to-grow]V gal-an-zu[wise]AJ
+c.4.25.2,A hymn to Ninšubur (Ninšubur B),,4,iri[town]N Akkil[1]SN dur₂[rump]N ŋar[to-place]V
+c.4.25.2,A hymn to Ninšubur (Ninšubur B),,5,šubur[servant]N Akkil[1]SN dur₂[rump]N ki[place]N ŋar[to-place]V
+c.4.25.2,A hymn to Ninšubur (Ninšubur B),,6,šubur[servant]N šu[hand]N
+c.4.25.2,A hymn to Ninšubur (Ninšubur B),,7,Ninšubur[1]DN Nintur[1]DN šu[hand]N
+c.4.25.2,A hymn to Ninšubur (Ninšubur B),,8,šubur[servant]N šu[hand]N
+c.4.25.2,A hymn to Ninšubur (Ninšubur B),,9,Ninšubur[1]DN
+c.4.25.2,A hymn to Ninšubur (Ninšubur B),,10,An[1]DN il₂[to-raise]V
+c.4.25.2,A hymn to Ninšubur (Ninšubur B),,11,a-a[father]N Enlil[1]DN u₃-mu-un[lord]N kur[(mountain)-land]N
+c.4.25.2,A hymn to Ninšubur (Ninšubur B),,12,Ninlil[1]DN nin[lady]N Ki-ur[1]TN ki[place]N gal[to-be-big]V
+c.4.25.2,A hymn to Ninšubur (Ninšubur B),,13,Enki[1]DN am[wild-bull]N Eridug[1]SN
+c.4.25.2,A hymn to Ninšubur (Ninšubur B),,14,munus[woman]N zid[right]AJ Damgalnuna[1]DN
+c.4.25.2,A hymn to Ninšubur (Ninšubur B),,15,Urim[1]SN Ašimbabbar[1]DN
+c.4.25.2,A hymn to Ninšubur (Ninšubur B),,16,Ningal[1]DN Agrun-kug[1]TN
+c.4.25.2,A hymn to Ninšubur (Ninšubur B),,17,kur[(mountain)-land]N gal[to-be-big]V Enlil[1]DN
+c.4.25.2,A hymn to Ninšubur (Ninšubur B),,18,Ninurta[1]DN
+c.4.25.2,A hymn to Ninšubur (Ninšubur B),,19,Ninhursaŋa[1]DN
+c.4.25.2,A hymn to Ninšubur (Ninšubur B),,20,šul[young-man]N Utu[1]DN eš₃[shrine]N E-babbar[1]TN zid[right]AJ
+c.4.25.2,A hymn to Ninšubur (Ninšubur B),,21,emeda[nursemaid]N Ninirigal[1]DN
+c.4.25.2,A hymn to Ninšubur (Ninšubur B),,22,ki[place]N Zabalam[1]SN kug[shining]AJ Inana[1]DN
+c.4.25.2,A hymn to Ninšubur (Ninšubur B),,23,Enlil[1]DN diŋir[deity]N gal[to-be-big]V si[horn]N sa₂[to-equal]V
+c.4.25.2,A hymn to Ninšubur (Ninšubur B),,24,sa-gid₂-da[composition-division]N
+c.4.25.2,A hymn to Ninšubur (Ninšubur B),,25,šubur[servant]N barag[dais]N mah[to-be-majestic]V dur₂[rump]N ŋar[to-place]V
+c.4.25.2,A hymn to Ninšubur (Ninšubur B),,26,Ninšubur[1]DN dur₂[rump]N ŋar[to-place]V
+c.4.25.2,A hymn to Ninšubur (Ninšubur B),,27,barag[dais]N a-a[father]N Enlil[1]DN dur₂[rump]N ŋar[to-place]V
+c.4.25.2,A hymn to Ninšubur (Ninšubur B),,28,Enlil[1]DN Ninlil[1]DN dur₂[rump]N ŋar[to-place]V
+c.4.25.2,A hymn to Ninšubur (Ninšubur B),,29,me[I]PD ama[mother]N Kaka[1]DN ama[mother]N u₅[to-ride]V
+c.4.25.2,A hymn to Ninšubur (Ninšubur B),,30,Ninšubur[1]DN Kaka[1]DN ama[mother]N u₅[to-ride]V
+c.4.25.2,A hymn to Ninšubur (Ninšubur B),,31,sukkal[minister]N zid[right]AJ E-ana[1]TN
+c.4.25.2,A hymn to Ninšubur (Ninšubur B),,32,Ninšubur[1]DN E-ana[1]TN
+c.4.25.2,A hymn to Ninšubur (Ninšubur B),,33,sukkal-mah[chief-minister]N an[heaven]N ki[place]N
+c.4.25.2,A hymn to Ninšubur (Ninšubur B),,34,Ninšubur[1]DN an[heaven]N ki[place]N
+c.4.25.2,A hymn to Ninšubur (Ninšubur B),,35,sukkal[minister]N zid[right]AJ Anuna[1]DN
+c.4.25.2,A hymn to Ninšubur (Ninšubur B),,36,Ninšubur[1]DN Anuna[1]DN
+c.4.25.2,A hymn to Ninšubur (Ninšubur B),,37,sukkal[minister]N zid[right]AJ diŋir[deity]N kalam[the-Land]N
+c.4.25.2,A hymn to Ninšubur (Ninšubur B),,38,Ninšubur[1]DN diŋir[deity]N kalam[the-Land]N
+c.4.25.2,A hymn to Ninšubur (Ninšubur B),,39,sukkal[minister]N zid[right]AJ ama[mother]N kalam[the-Land]N
+c.4.25.2,A hymn to Ninšubur (Ninšubur B),,40,Ninšubur[1]DN ama[mother]N kalam[the-Land]N u₅[to-ride]V
+c.4.25.2,A hymn to Ninšubur (Ninšubur B),,41,Ninšubur[1]DN

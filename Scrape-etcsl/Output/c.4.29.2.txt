@@ -1,50 +1,50 @@
 id_text,text_name,version,l_no,text
-c.4.29.2,A šir-gida to Nuska (Nuska B),,1,sux:tud[to-give-birth]V sux:E-kur[1]TN sux:Enlil[1]DN sux:dug₄[to-say]V
-c.4.29.2,A šir-gida to Nuska (Nuska B),,2,sux:Nuska[1]DN sux:tud[to-give-birth]V sux:E-kur[1]TN sux:Enlil[1]DN sux:dug₄[to-say]V
-c.4.29.2,A šir-gida to Nuska (Nuska B),,3,sux:en[lord]N sux:Nudimmud[1]DN sux:abzu[underground-water]N sux:lugal[king]N sux:nam-he₂[abundance]N sux:mi₂[(loving)-care]N sux:dug₄[to-say]V
-c.4.29.2,A šir-gida to Nuska (Nuska B),,4,sux:sukkal[minister]N sux:zid[right]AJ sux:me-teš₂[praise]N sux:i[to-bring-out]V
-c.4.29.2,A šir-gida to Nuska (Nuska B),,5,sux:Nuska[1]DN sux:sukkal-mah[chief-minister]N sux:Enlil[1]DN sux:za₃-mi₂[praise]N sux:dug₃[to-be-good]V sux:ku₇-ku₇[to-be-sweet]V
-c.4.29.2,A šir-gida to Nuska (Nuska B),,6,sux:lugal[king]N sux:šir₃[song]N sux:dug₄[to-say]V
-c.4.29.2,A šir-gida to Nuska (Nuska B),,7,sux:sud-aŋ₂[brilliance]N sux:sipad[shepherd]N sux:zid[right]AJ sux:Enlil[1]DN
-c.4.29.2,A šir-gida to Nuska (Nuska B),,8,sux:mu[name]N sux:mah[to-be-majestic]V sux:pad₃[to-find]V sux:Ninlil[1]DN
-c.4.29.2,A šir-gida to Nuska (Nuska B),,9,sux:ŋeštug₂[ear]N sux:šum₂[to-give]V sux:Enki[1]DN
-c.4.29.2,A šir-gida to Nuska (Nuska B),,10,sux:Enul[1]DN sux:Ninul[1]DN sux:tud[to-give-birth]V
-c.4.29.2,A šir-gida to Nuska (Nuska B),,11,sux:numun[seed]N sux:nam-en[high-(priestly)-office]N sux:tab[to-be-parallel]V
-c.4.29.2,A šir-gida to Nuska (Nuska B),,12,sux:E-kur[1]TN
-c.4.29.2,A šir-gida to Nuska (Nuska B),,13,sux:sukkal[minister]N sux:lugal[king]N sux:tum₂[to-be-suitable]V
-c.4.29.2,A šir-gida to Nuska (Nuska B),,14,sux:Nuska[1]DN sux:Enlil[1]DN sux:lu₂[person]N sux:šag₄[heart]N
-c.4.29.2,A šir-gida to Nuska (Nuska B),,15,sux:igi-ŋal₂[wise]AJ sux:Anuna[1]DN
-c.4.29.2,A šir-gida to Nuska (Nuska B),,16,sux:dug₄[to-say]V sux:zid[right]AJ sux:saŋ[head]N sux:e₃[to-go-out-or-in]V
-c.4.29.2,A šir-gida to Nuska (Nuska B),,17,sux:sukkal[minister]N sux:zid[right]AJ sux:a-a[father]N sux:Enlil[1]DN
-c.4.29.2,A šir-gida to Nuska (Nuska B),,18,sux:zid[right]AJ sux:dug₄[to-say]V sux:šu[hand]N sux:bal[to-turn-over]V
-c.4.29.2,A šir-gida to Nuska (Nuska B),,19,sux:zalag[to-be-shining]V sux:sud-aŋ₂[brilliance]N
-c.4.29.2,A šir-gida to Nuska (Nuska B),,20,sux:nam-nir-ŋal₂[authority]N sux:šum₂[to-give]V
-c.4.29.2,A šir-gida to Nuska (Nuska B),,21,sux:Enlil[1]DN sux:igi[eye]N sux:zid[right]AJ sux:bar[to-set-aside]V
-c.4.29.2,A šir-gida to Nuska (Nuska B),,22,sux:e₂[house(hold)]N sux:Enlil[1]DN sux:me-te[(fitting)-attribute]N
+c.4.29.2,A šir-gida to Nuska (Nuska B),,1,tud[to-give-birth]V E-kur[1]TN Enlil[1]DN dug₄[to-say]V
+c.4.29.2,A šir-gida to Nuska (Nuska B),,2,Nuska[1]DN tud[to-give-birth]V E-kur[1]TN Enlil[1]DN dug₄[to-say]V
+c.4.29.2,A šir-gida to Nuska (Nuska B),,3,en[lord]N Nudimmud[1]DN abzu[underground-water]N lugal[king]N nam-he₂[abundance]N mi₂[(loving)-care]N dug₄[to-say]V
+c.4.29.2,A šir-gida to Nuska (Nuska B),,4,sukkal[minister]N zid[right]AJ me-teš₂[praise]N i[to-bring-out]V
+c.4.29.2,A šir-gida to Nuska (Nuska B),,5,Nuska[1]DN sukkal-mah[chief-minister]N Enlil[1]DN za₃-mi₂[praise]N dug₃[to-be-good]V ku₇-ku₇[to-be-sweet]V
+c.4.29.2,A šir-gida to Nuska (Nuska B),,6,lugal[king]N šir₃[song]N dug₄[to-say]V
+c.4.29.2,A šir-gida to Nuska (Nuska B),,7,sud-aŋ₂[brilliance]N sipad[shepherd]N zid[right]AJ Enlil[1]DN
+c.4.29.2,A šir-gida to Nuska (Nuska B),,8,mu[name]N mah[to-be-majestic]V pad₃[to-find]V Ninlil[1]DN
+c.4.29.2,A šir-gida to Nuska (Nuska B),,9,ŋeštug₂[ear]N šum₂[to-give]V Enki[1]DN
+c.4.29.2,A šir-gida to Nuska (Nuska B),,10,Enul[1]DN Ninul[1]DN tud[to-give-birth]V
+c.4.29.2,A šir-gida to Nuska (Nuska B),,11,numun[seed]N nam-en[high-(priestly)-office]N tab[to-be-parallel]V
+c.4.29.2,A šir-gida to Nuska (Nuska B),,12,E-kur[1]TN
+c.4.29.2,A šir-gida to Nuska (Nuska B),,13,sukkal[minister]N lugal[king]N tum₂[to-be-suitable]V
+c.4.29.2,A šir-gida to Nuska (Nuska B),,14,Nuska[1]DN Enlil[1]DN lu₂[person]N šag₄[heart]N
+c.4.29.2,A šir-gida to Nuska (Nuska B),,15,igi-ŋal₂[wise]AJ Anuna[1]DN
+c.4.29.2,A šir-gida to Nuska (Nuska B),,16,dug₄[to-say]V zid[right]AJ saŋ[head]N e₃[to-go-out-or-in]V
+c.4.29.2,A šir-gida to Nuska (Nuska B),,17,sukkal[minister]N zid[right]AJ a-a[father]N Enlil[1]DN
+c.4.29.2,A šir-gida to Nuska (Nuska B),,18,zid[right]AJ dug₄[to-say]V šu[hand]N bal[to-turn-over]V
+c.4.29.2,A šir-gida to Nuska (Nuska B),,19,zalag[to-be-shining]V sud-aŋ₂[brilliance]N
+c.4.29.2,A šir-gida to Nuska (Nuska B),,20,nam-nir-ŋal₂[authority]N šum₂[to-give]V
+c.4.29.2,A šir-gida to Nuska (Nuska B),,21,Enlil[1]DN igi[eye]N zid[right]AJ bar[to-set-aside]V
+c.4.29.2,A šir-gida to Nuska (Nuska B),,22,e₂[house(hold)]N Enlil[1]DN me-te[(fitting)-attribute]N
 c.4.29.2,A šir-gida to Nuska (Nuska B),,23,
 c.4.29.2,A šir-gida to Nuska (Nuska B),,24,
 c.4.29.2,A šir-gida to Nuska (Nuska B),,25,
 c.4.29.2,A šir-gida to Nuska (Nuska B),,56,
 c.4.29.2,A šir-gida to Nuska (Nuska B),,57,
 c.4.29.2,A šir-gida to Nuska (Nuska B),,58,
-c.4.29.2,A šir-gida to Nuska (Nuska B),,59,sux:šum₂[to-give]V
-c.4.29.2,A šir-gida to Nuska (Nuska B),,60,sux:Nintur[1]DN sux:banšur[(offering)-table]N sux:sig₇[to-be-green]V
-c.4.29.2,A šir-gida to Nuska (Nuska B),,61,sux:Ennugi[1]DN sux:a₂[arm]N sux:aŋ₂[to-measure]V sux:e₃[to-go-out-or-in]V
-c.4.29.2,A šir-gida to Nuska (Nuska B),,62,sux:lugal[king]N sux:nam-til₃[life]N sux:mi₂[(loving)-care]N
-c.4.29.2,A šir-gida to Nuska (Nuska B),,63,sux:an[heaven]N sux:ki[place]N sux:us₂[path]N sux:dili[single]AJ
-c.4.29.2,A šir-gida to Nuska (Nuska B),,64,sux:a₂[arm]N sux:aŋ₂[to-measure]V sux:e₂[house(hold)]N sux:Enlil[1]DN
-c.4.29.2,A šir-gida to Nuska (Nuska B),,65,sux:me[essence]N sux:gal[to-be-big]V sux:zag[side]N sux:gub[to-stand]V
-c.4.29.2,A šir-gida to Nuska (Nuska B),,66,sux:me[essence]N sux:zid[right]AJ sux:ŋar[to-place]V
-c.4.29.2,A šir-gida to Nuska (Nuska B),,67,sux:me[essence]N sux:mah[to-be-majestic]V sux:u₂-a[provisioner]N sux:zid[right]AJ
-c.4.29.2,A šir-gida to Nuska (Nuska B),,68,sux:me[essence]N sux:ul[distant-time]N sux:pa[branch]N sux:e₃[to-go-out-or-in]V sux:ak[to-do]V
-c.4.29.2,A šir-gida to Nuska (Nuska B),,69,sux:me[essence]N sux:tug₂-ba₁₃[type-of-garment]N sux:šag₄-gada-la₂[type-of-priest]N
-c.4.29.2,A šir-gida to Nuska (Nuska B),,70,sux:me[essence]N sux:nun[prince]N sux:gu₂[neck]N sux:mar[to-flourish]V
-c.4.29.2,A šir-gida to Nuska (Nuska B),,71,sux:me[essence]N sux:niŋ₂[thing]N sux:lu[to-be-abundant]V sux:šu[hand]N sux:du₇[to-be-perfect]V
-c.4.29.2,A šir-gida to Nuska (Nuska B),,72,sux:Anuna[1]DN sux:diŋir[deity]N sux:gal[to-be-big]V
-c.4.29.2,A šir-gida to Nuska (Nuska B),,73,sux:za₃-mi₂[praise]N sux:7[7]NU sux:zid[right]AJ sux:dug₄[to-say]V
-c.4.29.2,A šir-gida to Nuska (Nuska B),,74,sux:sukkal[minister]N sux:šu-luh[ritual-cleansing]N sux:a₂-nun-ŋal₂[strong]AJ
-c.4.29.2,A šir-gida to Nuska (Nuska B),,75,sux:šag₄[heart]N sux:zalag[to-be-shining]V sux:a-a[father]N sux:Enlil[1]DN
-c.4.29.2,A šir-gida to Nuska (Nuska B),,76,sux:za₃-mi₂[praise]N sux:dug₄[to-say]V sux:kingal[leader]N sux:Nuska[1]DN
-c.4.29.2,A šir-gida to Nuska (Nuska B),,77,sux:munus[woman]N sux:zid[right]AJ sux:mul[to-radiate]V sux:An[1]DN sux:šag₄[heart]N sux:kuš₂[to-be-tired]V
-c.4.29.2,A šir-gida to Nuska (Nuska B),,78,sux:Nisaba[1]DN sux:za₃-mi₂[praise]N
-c.4.29.2,A šir-gida to Nuska (Nuska B),,79,sux:šir₃-gid₂-da[type-of-composition]N sux:Nuska[1]DN
+c.4.29.2,A šir-gida to Nuska (Nuska B),,59,šum₂[to-give]V
+c.4.29.2,A šir-gida to Nuska (Nuska B),,60,Nintur[1]DN banšur[(offering)-table]N sig₇[to-be-green]V
+c.4.29.2,A šir-gida to Nuska (Nuska B),,61,Ennugi[1]DN a₂[arm]N aŋ₂[to-measure]V e₃[to-go-out-or-in]V
+c.4.29.2,A šir-gida to Nuska (Nuska B),,62,lugal[king]N nam-til₃[life]N mi₂[(loving)-care]N
+c.4.29.2,A šir-gida to Nuska (Nuska B),,63,an[heaven]N ki[place]N us₂[path]N dili[single]AJ
+c.4.29.2,A šir-gida to Nuska (Nuska B),,64,a₂[arm]N aŋ₂[to-measure]V e₂[house(hold)]N Enlil[1]DN
+c.4.29.2,A šir-gida to Nuska (Nuska B),,65,me[essence]N gal[to-be-big]V zag[side]N gub[to-stand]V
+c.4.29.2,A šir-gida to Nuska (Nuska B),,66,me[essence]N zid[right]AJ ŋar[to-place]V
+c.4.29.2,A šir-gida to Nuska (Nuska B),,67,me[essence]N mah[to-be-majestic]V u₂-a[provisioner]N zid[right]AJ
+c.4.29.2,A šir-gida to Nuska (Nuska B),,68,me[essence]N ul[distant-time]N pa[branch]N e₃[to-go-out-or-in]V ak[to-do]V
+c.4.29.2,A šir-gida to Nuska (Nuska B),,69,me[essence]N tug₂-ba₁₃[type-of-garment]N šag₄-gada-la₂[type-of-priest]N
+c.4.29.2,A šir-gida to Nuska (Nuska B),,70,me[essence]N nun[prince]N gu₂[neck]N mar[to-flourish]V
+c.4.29.2,A šir-gida to Nuska (Nuska B),,71,me[essence]N niŋ₂[thing]N lu[to-be-abundant]V šu[hand]N du₇[to-be-perfect]V
+c.4.29.2,A šir-gida to Nuska (Nuska B),,72,Anuna[1]DN diŋir[deity]N gal[to-be-big]V
+c.4.29.2,A šir-gida to Nuska (Nuska B),,73,za₃-mi₂[praise]N 7[7]NU zid[right]AJ dug₄[to-say]V
+c.4.29.2,A šir-gida to Nuska (Nuska B),,74,sukkal[minister]N šu-luh[ritual-cleansing]N a₂-nun-ŋal₂[strong]AJ
+c.4.29.2,A šir-gida to Nuska (Nuska B),,75,šag₄[heart]N zalag[to-be-shining]V a-a[father]N Enlil[1]DN
+c.4.29.2,A šir-gida to Nuska (Nuska B),,76,za₃-mi₂[praise]N dug₄[to-say]V kingal[leader]N Nuska[1]DN
+c.4.29.2,A šir-gida to Nuska (Nuska B),,77,munus[woman]N zid[right]AJ mul[to-radiate]V An[1]DN šag₄[heart]N kuš₂[to-be-tired]V
+c.4.29.2,A šir-gida to Nuska (Nuska B),,78,Nisaba[1]DN za₃-mi₂[praise]N
+c.4.29.2,A šir-gida to Nuska (Nuska B),,79,šir₃-gid₂-da[type-of-composition]N Nuska[1]DN

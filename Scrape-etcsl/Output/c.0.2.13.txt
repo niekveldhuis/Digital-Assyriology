@@ -1,23 +1,23 @@
 id_text,text_name,version,l_no,text
-c.0.2.13,OB catalogue from Nibru (N6),,1,sux:in-nin[mistress]N sux:barag[dais]N sux:gal[to-be-big]V sux:an[heaven]N sux:ki[place]N
-c.0.2.13,OB catalogue from Nibru (N6),,2,sux:en[lord]N sux:eš-bar[decision]N sux:an[heaven]N sux:ki[place]N sux:šu[hand]N sux:ŋal₂[to-be-(located)]V
-c.0.2.13,OB catalogue from Nibru (N6),,3,sux:šul[young-man]N sux:me-dim₂[articulation]N sux:sag₉[to-be-good]V sux:sig₇[to-be-green]V sux:še-er[to-be-bright]V
-c.0.2.13,OB catalogue from Nibru (N6),,4,sux:diŋir[deity]N sux:nam-he₂[abundance]N sux:tud[to-give-birth]V sux:An[1]DN
-c.0.2.13,OB catalogue from Nibru (N6),,5,sux:lu₂[person]N sux:en[lord]N sux:nun[prince]N sux:lu₂[person]N sux:nun[prince]N
-c.0.2.13,OB catalogue from Nibru (N6),,6,sux:gud[bull]N sux:a₂[arm]N sux:bar[outside]N sux:šu[hand]N sux:ŋal₂[to-be-(located)]V
-c.0.2.13,OB catalogue from Nibru (N6),,7,sux:lugal[king]N sux:gu₂[neck]N sux:suh₁₀[crown]N sux:du₈[to-spread]V sux:nam-lugal[kingship]N
-c.0.2.13,OB catalogue from Nibru (N6),,8,sux:ur-saŋ[hero]N sux:kal[to-be-rare]V sux:giri₁₇[nose]N sux:šu[hand]N sux:du₃[to-erect]V
-c.0.2.13,OB catalogue from Nibru (N6),,9,sux:šuba[agate?]N sux:me[to-be]V sux:niŋ₂[thing]N sux:gun₃[to-be-multicoloured]V
-c.0.2.13,OB catalogue from Nibru (N6),,10,sux:šuba[agate?]N sux:la₂[to-hang]V sux:šuba[agate?]N sux:la₂[to-hang]V
-c.0.2.13,OB catalogue from Nibru (N6),,11,sux:ŋe₂₆[I]PD sux:u₂-lal₃[type-of-plant]N sux:zu[to-know]V
-c.0.2.13,OB catalogue from Nibru (N6),,12,sux:lugal[king]N sux:hi-li[attractiveness]N sux:guru₃[to-bear]V
-c.0.2.13,OB catalogue from Nibru (N6),,13,sux:lu[to-be-abundant]V sux:lu[to-be-abundant]V
-c.0.2.13,OB catalogue from Nibru (N6),,14,sux:e₂[house(hold)]N sux:sikil[to-be-pure]V sux:ki[place]N sux:sikil[to-be-pure]V
-c.0.2.13,OB catalogue from Nibru (N6),,15,sux:kur[(mountain)-land]N sux:gal[to-be-big]V sux:kur[(mountain)-land]N sux:a₂[arm]N sux:aŋ₂[to-measure]V sux:gal[to-be-big]V
-c.0.2.13,OB catalogue from Nibru (N6),,16,sux:e₂[house(hold)]N sux:ud[storm]N sux:ki-gal[pedestal]N sux:gub[to-stand]V
-c.0.2.13,OB catalogue from Nibru (N6),,17,sux:egir₂[princess]N sux:šu[hand]N sux:dadag[to-be-bright]V sux:me[essence]N sux:giri₁₇-zal[joy]N sux:dug₃[to-be-good]V
-c.0.2.13,OB catalogue from Nibru (N6),,18,sux:nin[lady]N sux:an[heaven]N sux:mah[to-be-majestic]V sux:bal[to-turn-over]V
-c.0.2.13,OB catalogue from Nibru (N6),,19,sux:nun[prince]N sux:DUB[DUB]V sux:ma₂[boat]N sux:DUB[DUB]V
-c.0.2.13,OB catalogue from Nibru (N6),,20,sux:e-el-lu[directive-expression]I sux:ama[mother]N sux-x-emesal:mu-gi₁₇-ib[high-status-woman]N
-c.0.2.13,OB catalogue from Nibru (N6),,21,sux-x-emesal:me[I]PD sux:sag₃[to-beat]V sux:en[lord]N
-c.0.2.13,OB catalogue from Nibru (N6),,22,sux:ab₂[cow]N sux:nun[prince]N sux:an[heaven]N sux:kur[(mountain)-land]N sux:un₃[to-be-high]V
+c.0.2.13,OB catalogue from Nibru (N6),,1,in-nin[mistress]N barag[dais]N gal[to-be-big]V an[heaven]N ki[place]N
+c.0.2.13,OB catalogue from Nibru (N6),,2,en[lord]N eš-bar[decision]N an[heaven]N ki[place]N šu[hand]N ŋal₂[to-be-(located)]V
+c.0.2.13,OB catalogue from Nibru (N6),,3,šul[young-man]N me-dim₂[articulation]N sag₉[to-be-good]V sig₇[to-be-green]V še-er[to-be-bright]V
+c.0.2.13,OB catalogue from Nibru (N6),,4,diŋir[deity]N nam-he₂[abundance]N tud[to-give-birth]V An[1]DN
+c.0.2.13,OB catalogue from Nibru (N6),,5,lu₂[person]N en[lord]N nun[prince]N lu₂[person]N nun[prince]N
+c.0.2.13,OB catalogue from Nibru (N6),,6,gud[bull]N a₂[arm]N bar[outside]N šu[hand]N ŋal₂[to-be-(located)]V
+c.0.2.13,OB catalogue from Nibru (N6),,7,lugal[king]N gu₂[neck]N suh₁₀[crown]N du₈[to-spread]V nam-lugal[kingship]N
+c.0.2.13,OB catalogue from Nibru (N6),,8,ur-saŋ[hero]N kal[to-be-rare]V giri₁₇[nose]N šu[hand]N du₃[to-erect]V
+c.0.2.13,OB catalogue from Nibru (N6),,9,šuba[agate?]N me[to-be]V niŋ₂[thing]N gun₃[to-be-multicoloured]V
+c.0.2.13,OB catalogue from Nibru (N6),,10,šuba[agate?]N la₂[to-hang]V šuba[agate?]N la₂[to-hang]V
+c.0.2.13,OB catalogue from Nibru (N6),,11,ŋe₂₆[I]PD u₂-lal₃[type-of-plant]N zu[to-know]V
+c.0.2.13,OB catalogue from Nibru (N6),,12,lugal[king]N hi-li[attractiveness]N guru₃[to-bear]V
+c.0.2.13,OB catalogue from Nibru (N6),,13,lu[to-be-abundant]V lu[to-be-abundant]V
+c.0.2.13,OB catalogue from Nibru (N6),,14,e₂[house(hold)]N sikil[to-be-pure]V ki[place]N sikil[to-be-pure]V
+c.0.2.13,OB catalogue from Nibru (N6),,15,kur[(mountain)-land]N gal[to-be-big]V kur[(mountain)-land]N a₂[arm]N aŋ₂[to-measure]V gal[to-be-big]V
+c.0.2.13,OB catalogue from Nibru (N6),,16,e₂[house(hold)]N ud[storm]N ki-gal[pedestal]N gub[to-stand]V
+c.0.2.13,OB catalogue from Nibru (N6),,17,egir₂[princess]N šu[hand]N dadag[to-be-bright]V me[essence]N giri₁₇-zal[joy]N dug₃[to-be-good]V
+c.0.2.13,OB catalogue from Nibru (N6),,18,nin[lady]N an[heaven]N mah[to-be-majestic]V bal[to-turn-over]V
+c.0.2.13,OB catalogue from Nibru (N6),,19,nun[prince]N DUB[DUB]V ma₂[boat]N DUB[DUB]V
+c.0.2.13,OB catalogue from Nibru (N6),,20,e-el-lu[directive-expression]I ama[mother]N mu-gi₁₇-ib[high-status-woman]N
+c.0.2.13,OB catalogue from Nibru (N6),,21,me[I]PD sag₃[to-beat]V en[lord]N
+c.0.2.13,OB catalogue from Nibru (N6),,22,ab₂[cow]N nun[prince]N an[heaven]N kur[(mountain)-land]N un₃[to-be-high]V

@@ -1,18 +1,18 @@
 id_text,text_name,version,l_no,text
 c.6.1.24,Proverbs: collection 24,,1,
-c.6.1.24,Proverbs: collection 24,,2,sux:šah₂[pig]N sux:niga[fattened]AJ sux:šum[to-slaughter]V sux:niŋ₂[thing]N sux:gu₇[to-eat]V sux:sug₆[to-replace]V
-c.6.1.24,Proverbs: collection 24,,3,sux:ze₂-eh[pig]N sux:tur[to-be-small]V sux:šu[hand]N sux:gu₄-ud[to-jump-on]V sux:sag₉[to-be-good]V sux:ŋe₂₆[I]PD sux:gu₇[to-eat]V
-c.6.1.24,Proverbs: collection 24,,4,sux:e₂[house(hold)]N sux:gul[to-destroy]V sux:kug[precious-metal]N sux:gul[to-destroy]V
-c.6.1.24,Proverbs: collection 24,,5,sux:e₂[house(hold)]N sux:gul[to-destroy]V sux:kug-sig₁₇[gold]N sux:gul[to-destroy]V
-c.6.1.24,Proverbs: collection 24,,6,sux:dam[spouse]N sux-x-emesal:u₃-mu-un-si[(city)-ruler]N sux:gam[to-bow-down]V sux:geme₂[female-slave]N sux:uš₂[to-die]V
-c.6.1.24,Proverbs: collection 24,,7,sux-x-emesal:u₃-mu-un-si[(city)-ruler]N sux:gam[to-bow-down]V sux:arad[slave]N sux:uš₂[to-die]V
-c.6.1.24,Proverbs: collection 24,,8,sux:gid₂[to-be-long]V sux:kud[to-cut]V sux:šu[hand]N sux:bar[outside]N sux:edin[open-country]N sux:DU[DU]V
-c.6.1.24,Proverbs: collection 24,,9,sux:im-ba[deficit]N sux:ŋar[to-place]V
-c.6.1.24,Proverbs: collection 24,,10,sux:ak[to-do]V
-c.6.1.24,Proverbs: collection 24,,11,sux:saŋ[head]N sux:bul[to-shake]V sux:id₂[watercourse]N sux:bal[to-turn-over]V
-c.6.1.24,Proverbs: collection 24,,12,sux:ummud[waterskin]N sux:zi[life-(breath)]N sux:lu₂[person]N sux:e-sir₂[sandal]N sux:igi[eye]N sux:lu₂[person]N
-c.6.1.24,Proverbs: collection 24,,13,sux:dam[spouse]N sux:dim₄[to-check]V sux:lu₂[person]N sux:dumu-nitah[son]N sux:ŋissu[(protective)-shade]N sux:lu₂[person]N
-c.6.1.24,Proverbs: collection 24,,14,sux:dumu-munus[daughter]N sux:saŋ[head]N sux:šu[hand]N sux:ŋar[to-place]V sux:lu₂[person]N sux:e₂-gi₄-a[daughter-in-law]N sux:gal₅-la₂[type-of-demon]N sux:lu₂[person]N
-c.6.1.24,Proverbs: collection 24,,15,sux:Utu[1]DN sux:bar[outside]N sux:šu[hand]N sux:šu₂[to-cover]V sux:ni₂-zu[yourself]PD sux:šu[hand]N sux:zu[to-know]V sux:kur₉[to-enter]V
-c.6.1.24,Proverbs: collection 24,,16,sux:kaš[beer]N sux-x-emesal:ze₂-eb[to-be-good]V sux:ušur[neighbour]N sux:kal[to-be-rare]V
+c.6.1.24,Proverbs: collection 24,,2,šah₂[pig]N niga[fattened]AJ šum[to-slaughter]V niŋ₂[thing]N gu₇[to-eat]V sug₆[to-replace]V
+c.6.1.24,Proverbs: collection 24,,3,ze₂-eh[pig]N tur[to-be-small]V šu[hand]N gu₄-ud[to-jump-on]V sag₉[to-be-good]V ŋe₂₆[I]PD gu₇[to-eat]V
+c.6.1.24,Proverbs: collection 24,,4,e₂[house(hold)]N gul[to-destroy]V kug[precious-metal]N gul[to-destroy]V
+c.6.1.24,Proverbs: collection 24,,5,e₂[house(hold)]N gul[to-destroy]V kug-sig₁₇[gold]N gul[to-destroy]V
+c.6.1.24,Proverbs: collection 24,,6,dam[spouse]N u₃-mu-un-si[(city)-ruler]N gam[to-bow-down]V geme₂[female-slave]N uš₂[to-die]V
+c.6.1.24,Proverbs: collection 24,,7,u₃-mu-un-si[(city)-ruler]N gam[to-bow-down]V arad[slave]N uš₂[to-die]V
+c.6.1.24,Proverbs: collection 24,,8,gid₂[to-be-long]V kud[to-cut]V šu[hand]N bar[outside]N edin[open-country]N DU[DU]V
+c.6.1.24,Proverbs: collection 24,,9,im-ba[deficit]N ŋar[to-place]V
+c.6.1.24,Proverbs: collection 24,,10,ak[to-do]V
+c.6.1.24,Proverbs: collection 24,,11,saŋ[head]N bul[to-shake]V id₂[watercourse]N bal[to-turn-over]V
+c.6.1.24,Proverbs: collection 24,,12,ummud[waterskin]N zi[life-(breath)]N lu₂[person]N e-sir₂[sandal]N igi[eye]N lu₂[person]N
+c.6.1.24,Proverbs: collection 24,,13,dam[spouse]N dim₄[to-check]V lu₂[person]N dumu-nitah[son]N ŋissu[(protective)-shade]N lu₂[person]N
+c.6.1.24,Proverbs: collection 24,,14,dumu-munus[daughter]N saŋ[head]N šu[hand]N ŋar[to-place]V lu₂[person]N e₂-gi₄-a[daughter-in-law]N gal₅-la₂[type-of-demon]N lu₂[person]N
+c.6.1.24,Proverbs: collection 24,,15,Utu[1]DN bar[outside]N šu[hand]N šu₂[to-cover]V ni₂-zu[yourself]PD šu[hand]N zu[to-know]V kur₉[to-enter]V
+c.6.1.24,Proverbs: collection 24,,16,kaš[beer]N ze₂-eb[to-be-good]V ušur[neighbour]N kal[to-be-rare]V
 c.6.1.24,Proverbs: collection 24,,x,

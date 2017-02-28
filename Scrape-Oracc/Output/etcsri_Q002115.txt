@@ -1,0 +1,18 @@
+id_text,text_name,version,l_no,text
+etcsri/Q002115,Warad-Sin 11,,1,sux:Inanak[1]DN sux:Zabala[1]SN
+etcsri/Q002115,Warad-Sin 11,,2,sux:nin[lady]N
+etcsri/Q002115,Warad-Sin 11,,3,sux:Waradsin[1]RN
+etcsri/Q002115,Warad-Sin 11,,4,sux:lugal[king]N sux:Larsam[1]SN
+etcsri/Q002115,Warad-Sin 11,,5,sux:namtil[life]N
+etcsri/Q002115,Warad-Sin 11,,6,sux:u[and]CNJ sux:namtil[life]N
+etcsri/Q002115,Warad-Sin 11,,7,sux:Kudurmabuk[1]RN
+etcsri/Q002115,Warad-Sin 11,,8,sux:aya[father]N sux:ugu[bear]V/t
+etcsri/Q002115,Warad-Sin 11,,9,sux:giguna[terrace]N sux:kug[pure]V/i
+etcsri/Q002115,Warad-Sin 11,,10,sux:kituš[dwelling]N sux:namursaŋ[heroism]N
+etcsri/Q002115,Warad-Sin 11,,11,sux:du[build]V/t
+etcsri/Q002115,Warad-Sin 11,,12,sux:kur[mountain]N sux:sukud[height]V/i
+etcsri/Q002115,Warad-Sin 11,,13,sux:saŋ[head]N sux:il[raise]V/t
+etcsri/Q002115,Warad-Sin 11,,14,sux:niŋak[deed]N
+etcsri/Q002115,Warad-Sin 11,,15,sux:hul[rejoice]V/i
+etcsri/Q002115,Warad-Sin 11,,16,sux:namtil[life]N sux:ud[sun]N sux:sud[distant]V/i
+etcsri/Q002115,Warad-Sin 11,,17,sux:niŋba[gift]N

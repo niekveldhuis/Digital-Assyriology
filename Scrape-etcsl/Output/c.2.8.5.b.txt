@@ -1,30 +1,30 @@
 id_text,text_name,version,l_no,text
-c.2.8.5.b,A hymn to Marduk for a king,,1,sux:Marduk[1]DN sux:til₃[to-live]V
-c.2.8.5.b,A hymn to Marduk for a king,,2,sux:si[to-fill]V
-c.2.8.5.b,A hymn to Marduk for a king,,3,sux:nam-til₃[life]N sux:Marduk[1]DN sux:dug₄[to-say]V
-c.2.8.5.b,A hymn to Marduk for a king,,4,sux:nam-til₃[life]N sux:sud[to-be-distant]V
-c.2.8.5.b,A hymn to Marduk for a king,,5,sux:ud[day(light)]N sux:du-ri₂[eternity]N sux:tuku[to-have]V
-c.2.8.5.b,A hymn to Marduk for a king,,6,sux:til₃[to-live]V
-c.2.8.5.b,A hymn to Marduk for a king,,7,sux:silim[to-be-healthy]V
-c.2.8.5.b,A hymn to Marduk for a king,,8,sux:gi₁₆-sa[(everlasting)-treasure]N sux:me[to-be]V
-c.2.8.5.b,A hymn to Marduk for a king,,9,sux:ŋiš-šub-ba[lot]N sux:nam-til₃[life]N sux:me[to-be]V
-c.2.8.5.b,A hymn to Marduk for a king,,10,sux:nam-til₃[life]N sux:šag₄[heart]N sux:dug₃[to-be-good]V sux:ha-la[share]N sux:me[to-be]V
-c.2.8.5.b,A hymn to Marduk for a king,,11,sux:ud[day(light)]N sux:nu₂[to-lie-down]V sux:ma-mu₂[dream]N sux:sag₉[to-be-good]V
-c.2.8.5.b,A hymn to Marduk for a king,,12,sux:zig₃[to-rise]V sux:inim-ŋar[(oracular)-utterance]N sux:sag₉[to-be-good]V
-c.2.8.5.b,A hymn to Marduk for a king,,13,sux:ki[place]N sux:ŋiri₃[foot]N sux:gub[to-stand]V sux:silim[to-be-healthy]V sux:gen₆[to-be-firm]V
-c.2.8.5.b,A hymn to Marduk for a king,,14,sux:til₃[to-live]V sux:lugal[king]N sux:igi[eye]N sux:An[1]DN sux:a-a[father]N sux:diŋir[deity]N sux:sag₉[to-be-good]V
-c.2.8.5.b,A hymn to Marduk for a king,,15,sux:lugal[king]N sux:kalam[the-Land]N sux:il₂[to-raise]V
-c.2.8.5.b,A hymn to Marduk for a king,,16,sux:gu-za[chair]N sux:sud[to-be-distant]V
-c.2.8.5.b,A hymn to Marduk for a king,,17,sux:gi₁₆-sa[(everlasting)-treasure]N sux:me[to-be]V
-c.2.8.5.b,A hymn to Marduk for a king,,18,sux:ŋiš-šub-ba[lot]N sux:nam-til₃[life]N sux:me[to-be]V
-c.2.8.5.b,A hymn to Marduk for a king,,19,sux:Aya[1]DN sux:nam-til₃[life]N sux:a₂[arm]N
-c.2.8.5.b,A hymn to Marduk for a king,,20,sux:ŋiš[tree]N sux:DUG.LAGAB[meaning-unknown]N sux:a-ra₂[way]N sux:gub[to-stand]V sux:ŋiš[tree]N sux:ŋiš[tree]N
-c.2.8.5.b,A hymn to Marduk for a king,,21,sux:diŋir[deity]N sux:u₂[plant]N sux:gu₇[to-eat]V sux:a[water]N sux:silim[to-be-healthy]V sux:til₃[to-live]V sux:ud[day(light)]N sux:sud[to-be-distant]V sux:ŋiš-šub-ba[lot]N sux:ŋar[to-place]V
-c.2.8.5.b,A hymn to Marduk for a king,,22,sux:ka[mouth]N sux:gub[to-stand]V sux:nam-til₃[life]N sux:rig₇[to-bestow]V
-c.2.8.5.b,A hymn to Marduk for a king,,23,sux:til₃[to-live]V sux:silim[to-be-healthy]V sux:gi₁₆-sa[(everlasting)-treasure]N sux:me[to-be]V
-c.2.8.5.b,A hymn to Marduk for a king,,24,sux:ŋiš-šub-ba[lot]N sux:nam-til₃[life]N sux:me[to-be]V
-c.2.8.5.b,A hymn to Marduk for a king,,25,sux:nam-til₃[life]N sux:šag₄[heart]N sux:dug₃[to-be-good]V sux:ha-la[share]N sux:me[to-be]V
-c.2.8.5.b,A hymn to Marduk for a king,,26,sux:ud[day(light)]N sux:nu₂[to-lie-down]V sux:ma-mu₂[dream]N sux:sag₉[to-be-good]V
-c.2.8.5.b,A hymn to Marduk for a king,,27,sux:zig₃[to-rise]V sux:inim-ŋar[(oracular)-utterance]N sux:sag₉[to-be-good]V
-c.2.8.5.b,A hymn to Marduk for a king,,28,sux:ki[place]N sux:ŋiri₃[foot]N sux:gub[to-stand]V sux:silim[to-be-healthy]V sux:gen₆[to-be-firm]V
-c.2.8.5.b,A hymn to Marduk for a king,,29,sux:ud[day(light)]N sux:du-ri₂[eternity]N sux:til₃[to-live]V
+c.2.8.5.b,A hymn to Marduk for a king,,1,Marduk[1]DN til₃[to-live]V
+c.2.8.5.b,A hymn to Marduk for a king,,2,si[to-fill]V
+c.2.8.5.b,A hymn to Marduk for a king,,3,nam-til₃[life]N Marduk[1]DN dug₄[to-say]V
+c.2.8.5.b,A hymn to Marduk for a king,,4,nam-til₃[life]N sud[to-be-distant]V
+c.2.8.5.b,A hymn to Marduk for a king,,5,ud[day(light)]N du-ri₂[eternity]N tuku[to-have]V
+c.2.8.5.b,A hymn to Marduk for a king,,6,til₃[to-live]V
+c.2.8.5.b,A hymn to Marduk for a king,,7,silim[to-be-healthy]V
+c.2.8.5.b,A hymn to Marduk for a king,,8,gi₁₆-sa[(everlasting)-treasure]N me[to-be]V
+c.2.8.5.b,A hymn to Marduk for a king,,9,ŋiš-šub-ba[lot]N nam-til₃[life]N me[to-be]V
+c.2.8.5.b,A hymn to Marduk for a king,,10,nam-til₃[life]N šag₄[heart]N dug₃[to-be-good]V ha-la[share]N me[to-be]V
+c.2.8.5.b,A hymn to Marduk for a king,,11,ud[day(light)]N nu₂[to-lie-down]V ma-mu₂[dream]N sag₉[to-be-good]V
+c.2.8.5.b,A hymn to Marduk for a king,,12,zig₃[to-rise]V inim-ŋar[(oracular)-utterance]N sag₉[to-be-good]V
+c.2.8.5.b,A hymn to Marduk for a king,,13,ki[place]N ŋiri₃[foot]N gub[to-stand]V silim[to-be-healthy]V gen₆[to-be-firm]V
+c.2.8.5.b,A hymn to Marduk for a king,,14,til₃[to-live]V lugal[king]N igi[eye]N An[1]DN a-a[father]N diŋir[deity]N sag₉[to-be-good]V
+c.2.8.5.b,A hymn to Marduk for a king,,15,lugal[king]N kalam[the-Land]N il₂[to-raise]V
+c.2.8.5.b,A hymn to Marduk for a king,,16,gu-za[chair]N sud[to-be-distant]V
+c.2.8.5.b,A hymn to Marduk for a king,,17,gi₁₆-sa[(everlasting)-treasure]N me[to-be]V
+c.2.8.5.b,A hymn to Marduk for a king,,18,ŋiš-šub-ba[lot]N nam-til₃[life]N me[to-be]V
+c.2.8.5.b,A hymn to Marduk for a king,,19,Aya[1]DN nam-til₃[life]N a₂[arm]N
+c.2.8.5.b,A hymn to Marduk for a king,,20,ŋiš[tree]N DUG.LAGAB[meaning-unknown]N a-ra₂[way]N gub[to-stand]V ŋiš[tree]N ŋiš[tree]N
+c.2.8.5.b,A hymn to Marduk for a king,,21,diŋir[deity]N u₂[plant]N gu₇[to-eat]V a[water]N silim[to-be-healthy]V til₃[to-live]V ud[day(light)]N sud[to-be-distant]V ŋiš-šub-ba[lot]N ŋar[to-place]V
+c.2.8.5.b,A hymn to Marduk for a king,,22,ka[mouth]N gub[to-stand]V nam-til₃[life]N rig₇[to-bestow]V
+c.2.8.5.b,A hymn to Marduk for a king,,23,til₃[to-live]V silim[to-be-healthy]V gi₁₆-sa[(everlasting)-treasure]N me[to-be]V
+c.2.8.5.b,A hymn to Marduk for a king,,24,ŋiš-šub-ba[lot]N nam-til₃[life]N me[to-be]V
+c.2.8.5.b,A hymn to Marduk for a king,,25,nam-til₃[life]N šag₄[heart]N dug₃[to-be-good]V ha-la[share]N me[to-be]V
+c.2.8.5.b,A hymn to Marduk for a king,,26,ud[day(light)]N nu₂[to-lie-down]V ma-mu₂[dream]N sag₉[to-be-good]V
+c.2.8.5.b,A hymn to Marduk for a king,,27,zig₃[to-rise]V inim-ŋar[(oracular)-utterance]N sag₉[to-be-good]V
+c.2.8.5.b,A hymn to Marduk for a king,,28,ki[place]N ŋiri₃[foot]N gub[to-stand]V silim[to-be-healthy]V gen₆[to-be-firm]V
+c.2.8.5.b,A hymn to Marduk for a king,,29,ud[day(light)]N du-ri₂[eternity]N til₃[to-live]V

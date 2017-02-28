@@ -1,94 +1,94 @@
 id_text,text_name,version,l_no,text
-c.4.31.1,A hymn to Šul-pa-e (Šul-pa-e A),A,1,sux:ur-saŋ[hero]N sux-x-emesal:uru₂-bad₃[high-city]N sux:itid[moon(light)]N sux:e₃[to-go-out-or-in]V
-c.4.31.1,A hymn to Šul-pa-e (Šul-pa-e A),A,2,sux:ur-saŋ[hero]N sux:Šul-pa-e[1]DN sux:iri-bad₃[high-city]N sux:itid[moon(light)]N sux:e₃[to-go-out-or-in]V
-c.4.31.1,A hymn to Šul-pa-e (Šul-pa-e A),A,3,sux:alim[bison]N sux:mu[name]N sux:tuku[to-have]V sux:Šul-pa-e[1]DN sux-x-emesal:uru₂-bad₃[high-city]N sux:itid[moon(light)]N sux:e₃[to-go-out-or-in]V
-c.4.31.1,A hymn to Šul-pa-e (Šul-pa-e A),A,4,sux:lugal[king]N sux:me[essence]N sux:gal[to-be-big]V sux:diŋir[deity]N sux:pa[branch]N sux:e₃[to-go-out-or-in]V
-c.4.31.1,A hymn to Šul-pa-e (Šul-pa-e A),A,5,sux:Šul-pa-e[1]DN sux:me[essence]N sux:gal[to-be-big]V sux:diŋir[deity]N sux:pa[branch]N sux:e₃[to-go-out-or-in]V
-c.4.31.1,A hymn to Šul-pa-e (Šul-pa-e A),A,6,sux:nir-ŋal₂[authoritative]AJ sux:me₃[battle]N sux:u₂-šim[greenery]N sux:kalam[the-Land]N sux:sud[to-be-distant]V
-c.4.31.1,A hymn to Šul-pa-e (Šul-pa-e A),A,7,sux:en[lord]N sux:a₂[arm]N sux:mah[to-be-majestic]V sux:il₂[to-raise]V sux:ŋiš-gaz[pestle]N sux:gu₂-erim₂[enemy]N sux:ra[to-beat]V
-c.4.31.1,A hymn to Šul-pa-e (Šul-pa-e A),A,8,sux:us₂[to-be-adjacent]V sux:gu₂-tuku[perfect]AJ sux:a-a[father]N sux:Enlil[1]DN
-c.4.31.1,A hymn to Šul-pa-e (Šul-pa-e A),A,9,sux:šul[young-man]N sux:zid[right]AJ sux:Enlil[1]DN sux:mu[name]N sux:mah[to-be-majestic]V sux:pad₃[to-find]V
-c.4.31.1,A hymn to Šul-pa-e (Šul-pa-e A),A,10,sux:nir-ŋal₂[authoritative]AJ sux:tukul[weapon]N sux:lipiš[inner-body]N sux:me₃[battle]N
-c.4.31.1,A hymn to Šul-pa-e (Šul-pa-e A),A,11,sux:lu₂[person]N sux:ki-bal[rebel-land]N sux:nir-ŋal₂[authoritative]AJ sux:ki-bal[rebel-land]N
-c.4.31.1,A hymn to Šul-pa-e (Šul-pa-e A),A,12,sux:lugal[king]N sux:za[you-(sg.)]PD sux-x-emesal:dim₃-me-er[deity]N sux:mah[to-be-majestic]V
-c.4.31.1,A hymn to Šul-pa-e (Šul-pa-e A),A,13,sux:za[you-(sg.)]PD sux-x-emesal:dim₃-me-er[deity]N sux:mah[to-be-majestic]V sux:dam[spouse]N sux-x-emesal:ga-ša-an[lady]N sux:mah[to-be-majestic]V
-c.4.31.1,A hymn to Šul-pa-e (Šul-pa-e A),A,14,sux:Ninhursaŋa[1]DN sux:ki[place]N sux:aŋ₂[to-measure]V sux:za[you-(sg.)]PD
-c.4.31.1,A hymn to Šul-pa-e (Šul-pa-e A),A,15,sux:ur-saŋ[hero]N sux:ni₂[fear(someness)]N sux:gal[to-be-big]V sux:diŋir[deity]N
-c.4.31.1,A hymn to Šul-pa-e (Šul-pa-e A),A,16,sux:ur-saŋ[hero]N sux:Šul-pa-e[1]DN sux:an[heaven]N sux:ki[place]N sux:nir-ŋal₂[authoritative]AJ
-c.4.31.1,A hymn to Šul-pa-e (Šul-pa-e A),A,17,sux:mu[name]N sux:kur[(mountain)-land]N sux:zid[right]AJ sux:pad₃[to-find]V
-c.4.31.1,A hymn to Šul-pa-e (Šul-pa-e A),A,18,sux:lugal[king]N sux:nam-mah[majesty]N sux:kur[(mountain)-land]N sux:zid[right]AJ sux:pad₃[to-find]V
-c.4.31.1,A hymn to Šul-pa-e (Šul-pa-e A),A,19,sux:mah[to-be-majestic]V sux:a-ŋi₆[flooding]N sux:zig₃[to-rise]V sux:ulu₃[south-wind-(storm)]N sux:lu₂[person]N sux:te[to-approach]V
-c.4.31.1,A hymn to Šul-pa-e (Šul-pa-e A),A,20,sux:nam-lu₂-ulu₃[humanity]N sux:mušen[bird]N sux:ni₂[fear(someness)]N sux:te[to-approach]V sux:šudu₃[prayer]N sux:ra[to-beat]V
-c.4.31.1,A hymn to Šul-pa-e (Šul-pa-e A),A,21,sux:zig₃[to-rise]V sux:ni₂[fear(someness)]N sux:ri[to-direct]V sux:šu[hand]N sux:la₂[to-hang]V
-c.4.31.1,A hymn to Šul-pa-e (Šul-pa-e A),A,22,sux:ni₂[fear(someness)]N sux:guru₃[to-bear]V sux:su[flesh]N sux:zig₃[to-rise]V sux:guru₃[to-bear]V sux:ni₂[fear(someness)]N sux:gal[to-be-big]V sux:ri[to-direct]V
-c.4.31.1,A hymn to Šul-pa-e (Šul-pa-e A),A,23,sux:Uta-ulu[1]DN sux:lu₂[person]N sux:te[to-approach]V
-c.4.31.1,A hymn to Šul-pa-e (Šul-pa-e A),A,24,sux:mah[to-be-majestic]V sux:lu₂[person]N sux:ur₃[to-drag]V
-c.4.31.1,A hymn to Šul-pa-e (Šul-pa-e A),A,25,sux:lu₂[person]N sux:bar[to-set-aside]V
-c.4.31.1,A hymn to Šul-pa-e (Šul-pa-e A),A,26,sux:kur[(mountain)-land]N sux:gana₂[field]N sux:gid₂[to-be-long]V
-c.4.31.1,A hymn to Šul-pa-e (Šul-pa-e A),A,27,sux:an[heaven]N sux:šu[hand]N sux:bar[to-set-aside]V sux:gaba-šu-ŋar[rival]N sux:tuku[to-have]V
-c.4.31.1,A hymn to Šul-pa-e (Šul-pa-e A),A,28,sux:ud[day(light)]N sux:kur[(mountain)-land]N sux:e₃[to-go-out-or-in]V
-c.4.31.1,A hymn to Šul-pa-e (Šul-pa-e A),A,29,sux:ud[day(light)]N sux:dug₄[to-say]V sux:du₇[to-push]V
-c.4.31.1,A hymn to Šul-pa-e (Šul-pa-e A),A,30,sux:nim[lightning]N sux:ŋir₂[to-flash]V
-c.4.31.1,A hymn to Šul-pa-e (Šul-pa-e A),A,31,sux:MI.E₂.A[type-of-bird]N sux:zi[life-(breath)]N sux:ir[verb-part-of-multiword-verb]V sux:lu₂[person]N sux:šub[to-fall]V
-c.4.31.1,A hymn to Šul-pa-e (Šul-pa-e A),A,32,sux:Namtar[1]DN sux:šu[hand]N sux:tuku[to-have]V sux:ŋiri₃[foot]N sux:tuku[to-have]V sux:lu₂[person]N sux:ŋi₆[night]N sux:tum₂[to-be-suitable]V
-c.4.31.1,A hymn to Šul-pa-e (Šul-pa-e A),A,33,sux:Namtar[1]DN sux:ŋi₆[night]N sux:ŋen[to-go]V sux:dim₂[to-create]V
-c.4.31.1,A hymn to Šul-pa-e (Šul-pa-e A),A,34,sux:pu₂-kiri₆[orchard]N sux:mu₂-sar[garden]N sux:ŋiš-gi[reedbed]N sux:sig₇[to-be-green]V
-c.4.31.1,A hymn to Šul-pa-e (Šul-pa-e A),A,35,sux:niŋ₂-ur₂-limmu₂[four-legged-creature]N sux:an-edin[high-plain]N sux:daŋal[to-be-wide]V
-c.4.31.1,A hymn to Šul-pa-e (Šul-pa-e A),A,36,sux:maš₂-anše[animals]N sux:niŋ₂-zi-ŋal₂[living-creature]N sux:edin[open-country]N
-c.4.31.1,A hymn to Šul-pa-e (Šul-pa-e A),A,37,sux:ur-saŋ[hero]N sux:Šul-pa-e[1]DN sux:za[you-(sg.)]PD sux:lugal[king]N
-c.4.31.1,A hymn to Šul-pa-e (Šul-pa-e A),A,38,sux:An[1]DN sux:lugal[king]N sux:diŋir[deity]N sux:šu[hand]N sux:šum₂[to-give]V
-c.4.31.1,A hymn to Šul-pa-e (Šul-pa-e A),A,39,sux:šu[hand]N sux:šum₂[to-give]V sux:za[you-(sg.)]PD sux:lugal[king]N
-c.4.31.1,A hymn to Šul-pa-e (Šul-pa-e A),A,40,sux:ur-saŋ[hero]N sux:Šul-pa-e[1]DN sux:šu[hand]N sux:e₃[to-go-out-or-in]V
-c.4.31.1,A hymn to Šul-pa-e (Šul-pa-e A),A,41,sux:u₂[plant]N sux:tuku[to-have]V sux:u₂[plant]N sux:gu₇[to-eat]V
-c.4.31.1,A hymn to Šul-pa-e (Šul-pa-e A),A,42,sux:a[water]N sux:tuku[to-have]V sux:a[water]N sux:naŋ[to-drink]V
-c.4.31.1,A hymn to Šul-pa-e (Šul-pa-e A),A,43,sux:mu[name]N sux:diŋir[deity]N sux:pad₃[to-find]V
-c.4.31.1,A hymn to Šul-pa-e (Šul-pa-e A),A,44,sux:mu[name]N sux:diŋir[deity]N sux:dili[single]AJ sux:ka[mouth]N
-c.4.31.1,A hymn to Šul-pa-e (Šul-pa-e A),A,45,sux:šu[hand]N sux:diŋir[deity]N
-c.4.31.1,A hymn to Šul-pa-e (Šul-pa-e A),A,46,sux:šu[hand]N
-c.4.31.1,A hymn to Šul-pa-e (Šul-pa-e A),A,47,sux:de₆[to-carry]V
-c.4.31.1,A hymn to Šul-pa-e (Šul-pa-e A),A,48,sux:šum₂[to-give]V
-c.4.31.1,A hymn to Šul-pa-e (Šul-pa-e A),A,49,sux:gu-za-la₂[throne-bearer]N sux:An[1]DN sux:Enlil[1]DN
-c.4.31.1,A hymn to Šul-pa-e (Šul-pa-e A),A,50,sux:maškim[judicial-officer]N sux:sumur[to-be-angry]V sux:diŋir[deity]N
-c.4.31.1,A hymn to Šul-pa-e (Šul-pa-e A),A,51,sux:en[lord]N sux:banšur[(offering)-table]N sux:Enlil[1]DN
-c.4.31.1,A hymn to Šul-pa-e (Šul-pa-e A),A,52,sux:lu₂[person]N sux:niŋ₂[thing]N sux:ŋar[to-place]V sux:gid₂[to-be-long]V
-c.4.31.1,A hymn to Šul-pa-e (Šul-pa-e A),A,53,sux:DU[DU]V
-c.4.31.1,A hymn to Šul-pa-e (Šul-pa-e A),A,54,sux:nim[upper-(land)]N sux:si[to-fill]V
-c.4.31.1,A hymn to Šul-pa-e (Šul-pa-e A),A,55,sux:an[heaven]N sux:ŋal₂[to-be-(located)]V
-c.4.31.1,A hymn to Šul-pa-e (Šul-pa-e A),A,56,sux:dugud[to-be-heavy]V sux:tug₂[garment]N sux:dul[to-cover-(together)]V
-c.4.31.1,A hymn to Šul-pa-e (Šul-pa-e A),A,57,sux:dug₄[to-say]V
-c.4.31.1,A hymn to Šul-pa-e (Šul-pa-e A),A,58,sux:saŋ[head]N sux:ŋar[to-place]V sux:a-ra-zu[supplication]N sux:dug₄[to-say]V
-c.4.31.1,A hymn to Šul-pa-e (Šul-pa-e A),A,59,sux:šag₄-ne-ša₄[intercession]N sux:pad₃[to-find]V
-c.4.31.1,A hymn to Šul-pa-e (Šul-pa-e A),A,60,sux:ma₂[boat]N sux:a-ŋi₆[flooding]N sux:DU[DU]V
-c.4.31.1,A hymn to Šul-pa-e (Šul-pa-e A),A,61,sux:zig₃[to-rise]V
-c.4.31.1,A hymn to Šul-pa-e (Šul-pa-e A),A,62,sux:kug-sig₁₇[gold]N sux:dadag[to-be-bright]V
-c.4.31.1,A hymn to Šul-pa-e (Šul-pa-e A),A,63,sux:zabar[bronze]N sux:niŋ₂-su-ub[polishing]N sux:ak[to-do]V
-c.4.31.1,A hymn to Šul-pa-e (Šul-pa-e A),A,64,sux:šu[hand]N sux:sag₉[to-be-good]V sux:diŋir[deity]N sux:gi₄[to-return]V
-c.4.31.1,A hymn to Šul-pa-e (Šul-pa-e A),A,65,sux:zalag[to-be-shining]V sux:gu₂[neck]N sux:zig₃[to-rise]V
-c.4.31.1,A hymn to Šul-pa-e (Šul-pa-e A),A,66,sux:kalam[the-Land]N sux:dalla[to-be-bright]V sux:e₃[to-go-out-or-in]V
-c.4.31.1,A hymn to Šul-pa-e (Šul-pa-e A),A,67,sux:zu[to-know]V
-c.4.31.1,A hymn to Šul-pa-e (Šul-pa-e A),A,68,sux:du₃[to-erect]V
-c.4.31.1,A hymn to Šul-pa-e (Šul-pa-e A),A,69,sux:inim[word]N sux:ŋar[to-place]V
-c.4.31.1,A hymn to Šul-pa-e (Šul-pa-e A),A,70,sux:dug₄[to-say]V sux:de₂[to-pour]V
-c.4.31.1,A hymn to Šul-pa-e (Šul-pa-e A),A,71,sux:ŋar[to-place]V
-c.4.31.1,A hymn to Šul-pa-e (Šul-pa-e A),A,72,sux:ki[place]N sux:aŋ₂[to-measure]V sux:za[you-(sg.)]PD sux:du₈[to-spread]V
-c.4.31.1,A hymn to Šul-pa-e (Šul-pa-e A),A,73,sux:di₄-di₄[to-be-small]V sux:za[you-(sg.)]PD sux:ŋar[to-place]V
-c.4.31.1,A hymn to Šul-pa-e (Šul-pa-e A),A,74,sux:di₄-di₄[to-be-small]V sux:za[you-(sg.)]PD sux:du₈[to-spread]V
-c.4.31.1,A hymn to Šul-pa-e (Šul-pa-e A),A,75,sux:za[you-(sg.)]PD sux:gal[to-be-big]V sux:za[you-(sg.)]PD sux:du₈[to-spread]V
-c.4.31.1,A hymn to Šul-pa-e (Šul-pa-e A),A,76,sux:sur[to-drip]V
-c.4.31.1,A hymn to Šul-pa-e (Šul-pa-e A),A,77,sux:za[you-(sg.)]PD sux:de₂[to-pour]V
-c.4.31.1,A hymn to Šul-pa-e (Šul-pa-e A),A,78,sux:ud[day(light)]N sux:15-kam-ma[15th]NU
-c.4.31.1,A hymn to Šul-pa-e (Šul-pa-e A),A,79,sux:saŋ[head]N sux:X[X]V
-c.4.31.1,A hymn to Šul-pa-e (Šul-pa-e A),A,80,sux:šir₃[song]N
-c.4.31.1,A hymn to Šul-pa-e (Šul-pa-e A),A,81,sux:en₃-du[song]N
-c.4.31.1,A hymn to Šul-pa-e (Šul-pa-e A),A,82,sux:me[essence]N sux-x-emesal:ze₂-eb[to-be-good]V
-c.4.31.1,A hymn to Šul-pa-e (Šul-pa-e A),A,83,sux:lugal[king]N sux:šag₄-la₂[mercy]N sux:sug₄[to-be-full]V sux:kur[(mountain)-land]N
-c.4.31.1,A hymn to Šul-pa-e (Šul-pa-e A),A,84,sux:šag₄-la₂[mercy]N sux:sug₄[to-be-full]V sux:igi[eye]N sux:du₈[to-spread]V sux:ŋal₂[to-be-(located)]V
-c.4.31.1,A hymn to Šul-pa-e (Šul-pa-e A),A,85,sux:tur₃[animal-stall]N
+c.4.31.1,A hymn to Šul-pa-e (Šul-pa-e A),A,1,ur-saŋ[hero]N uru₂-bad₃[high-city]N itid[moon(light)]N e₃[to-go-out-or-in]V
+c.4.31.1,A hymn to Šul-pa-e (Šul-pa-e A),A,2,ur-saŋ[hero]N Šul-pa-e[1]DN iri-bad₃[high-city]N itid[moon(light)]N e₃[to-go-out-or-in]V
+c.4.31.1,A hymn to Šul-pa-e (Šul-pa-e A),A,3,alim[bison]N mu[name]N tuku[to-have]V Šul-pa-e[1]DN uru₂-bad₃[high-city]N itid[moon(light)]N e₃[to-go-out-or-in]V
+c.4.31.1,A hymn to Šul-pa-e (Šul-pa-e A),A,4,lugal[king]N me[essence]N gal[to-be-big]V diŋir[deity]N pa[branch]N e₃[to-go-out-or-in]V
+c.4.31.1,A hymn to Šul-pa-e (Šul-pa-e A),A,5,Šul-pa-e[1]DN me[essence]N gal[to-be-big]V diŋir[deity]N pa[branch]N e₃[to-go-out-or-in]V
+c.4.31.1,A hymn to Šul-pa-e (Šul-pa-e A),A,6,nir-ŋal₂[authoritative]AJ me₃[battle]N u₂-šim[greenery]N kalam[the-Land]N sud[to-be-distant]V
+c.4.31.1,A hymn to Šul-pa-e (Šul-pa-e A),A,7,en[lord]N a₂[arm]N mah[to-be-majestic]V il₂[to-raise]V ŋiš-gaz[pestle]N gu₂-erim₂[enemy]N ra[to-beat]V
+c.4.31.1,A hymn to Šul-pa-e (Šul-pa-e A),A,8,us₂[to-be-adjacent]V gu₂-tuku[perfect]AJ a-a[father]N Enlil[1]DN
+c.4.31.1,A hymn to Šul-pa-e (Šul-pa-e A),A,9,šul[young-man]N zid[right]AJ Enlil[1]DN mu[name]N mah[to-be-majestic]V pad₃[to-find]V
+c.4.31.1,A hymn to Šul-pa-e (Šul-pa-e A),A,10,nir-ŋal₂[authoritative]AJ tukul[weapon]N lipiš[inner-body]N me₃[battle]N
+c.4.31.1,A hymn to Šul-pa-e (Šul-pa-e A),A,11,lu₂[person]N ki-bal[rebel-land]N nir-ŋal₂[authoritative]AJ ki-bal[rebel-land]N
+c.4.31.1,A hymn to Šul-pa-e (Šul-pa-e A),A,12,lugal[king]N za[you-(sg.)]PD dim₃-me-er[deity]N mah[to-be-majestic]V
+c.4.31.1,A hymn to Šul-pa-e (Šul-pa-e A),A,13,za[you-(sg.)]PD dim₃-me-er[deity]N mah[to-be-majestic]V dam[spouse]N ga-ša-an[lady]N mah[to-be-majestic]V
+c.4.31.1,A hymn to Šul-pa-e (Šul-pa-e A),A,14,Ninhursaŋa[1]DN ki[place]N aŋ₂[to-measure]V za[you-(sg.)]PD
+c.4.31.1,A hymn to Šul-pa-e (Šul-pa-e A),A,15,ur-saŋ[hero]N ni₂[fear(someness)]N gal[to-be-big]V diŋir[deity]N
+c.4.31.1,A hymn to Šul-pa-e (Šul-pa-e A),A,16,ur-saŋ[hero]N Šul-pa-e[1]DN an[heaven]N ki[place]N nir-ŋal₂[authoritative]AJ
+c.4.31.1,A hymn to Šul-pa-e (Šul-pa-e A),A,17,mu[name]N kur[(mountain)-land]N zid[right]AJ pad₃[to-find]V
+c.4.31.1,A hymn to Šul-pa-e (Šul-pa-e A),A,18,lugal[king]N nam-mah[majesty]N kur[(mountain)-land]N zid[right]AJ pad₃[to-find]V
+c.4.31.1,A hymn to Šul-pa-e (Šul-pa-e A),A,19,mah[to-be-majestic]V a-ŋi₆[flooding]N zig₃[to-rise]V ulu₃[south-wind-(storm)]N lu₂[person]N te[to-approach]V
+c.4.31.1,A hymn to Šul-pa-e (Šul-pa-e A),A,20,nam-lu₂-ulu₃[humanity]N mušen[bird]N ni₂[fear(someness)]N te[to-approach]V šudu₃[prayer]N ra[to-beat]V
+c.4.31.1,A hymn to Šul-pa-e (Šul-pa-e A),A,21,zig₃[to-rise]V ni₂[fear(someness)]N ri[to-direct]V šu[hand]N la₂[to-hang]V
+c.4.31.1,A hymn to Šul-pa-e (Šul-pa-e A),A,22,ni₂[fear(someness)]N guru₃[to-bear]V su[flesh]N zig₃[to-rise]V guru₃[to-bear]V ni₂[fear(someness)]N gal[to-be-big]V ri[to-direct]V
+c.4.31.1,A hymn to Šul-pa-e (Šul-pa-e A),A,23,Uta-ulu[1]DN lu₂[person]N te[to-approach]V
+c.4.31.1,A hymn to Šul-pa-e (Šul-pa-e A),A,24,mah[to-be-majestic]V lu₂[person]N ur₃[to-drag]V
+c.4.31.1,A hymn to Šul-pa-e (Šul-pa-e A),A,25,lu₂[person]N bar[to-set-aside]V
+c.4.31.1,A hymn to Šul-pa-e (Šul-pa-e A),A,26,kur[(mountain)-land]N gana₂[field]N gid₂[to-be-long]V
+c.4.31.1,A hymn to Šul-pa-e (Šul-pa-e A),A,27,an[heaven]N šu[hand]N bar[to-set-aside]V gaba-šu-ŋar[rival]N tuku[to-have]V
+c.4.31.1,A hymn to Šul-pa-e (Šul-pa-e A),A,28,ud[day(light)]N kur[(mountain)-land]N e₃[to-go-out-or-in]V
+c.4.31.1,A hymn to Šul-pa-e (Šul-pa-e A),A,29,ud[day(light)]N dug₄[to-say]V du₇[to-push]V
+c.4.31.1,A hymn to Šul-pa-e (Šul-pa-e A),A,30,nim[lightning]N ŋir₂[to-flash]V
+c.4.31.1,A hymn to Šul-pa-e (Šul-pa-e A),A,31,MI.E₂.A[type-of-bird]N zi[life-(breath)]N ir[verb-part-of-multiword-verb]V lu₂[person]N šub[to-fall]V
+c.4.31.1,A hymn to Šul-pa-e (Šul-pa-e A),A,32,Namtar[1]DN šu[hand]N tuku[to-have]V ŋiri₃[foot]N tuku[to-have]V lu₂[person]N ŋi₆[night]N tum₂[to-be-suitable]V
+c.4.31.1,A hymn to Šul-pa-e (Šul-pa-e A),A,33,Namtar[1]DN ŋi₆[night]N ŋen[to-go]V dim₂[to-create]V
+c.4.31.1,A hymn to Šul-pa-e (Šul-pa-e A),A,34,pu₂-kiri₆[orchard]N mu₂-sar[garden]N ŋiš-gi[reedbed]N sig₇[to-be-green]V
+c.4.31.1,A hymn to Šul-pa-e (Šul-pa-e A),A,35,niŋ₂-ur₂-limmu₂[four-legged-creature]N an-edin[high-plain]N daŋal[to-be-wide]V
+c.4.31.1,A hymn to Šul-pa-e (Šul-pa-e A),A,36,maš₂-anše[animals]N niŋ₂-zi-ŋal₂[living-creature]N edin[open-country]N
+c.4.31.1,A hymn to Šul-pa-e (Šul-pa-e A),A,37,ur-saŋ[hero]N Šul-pa-e[1]DN za[you-(sg.)]PD lugal[king]N
+c.4.31.1,A hymn to Šul-pa-e (Šul-pa-e A),A,38,An[1]DN lugal[king]N diŋir[deity]N šu[hand]N šum₂[to-give]V
+c.4.31.1,A hymn to Šul-pa-e (Šul-pa-e A),A,39,šu[hand]N šum₂[to-give]V za[you-(sg.)]PD lugal[king]N
+c.4.31.1,A hymn to Šul-pa-e (Šul-pa-e A),A,40,ur-saŋ[hero]N Šul-pa-e[1]DN šu[hand]N e₃[to-go-out-or-in]V
+c.4.31.1,A hymn to Šul-pa-e (Šul-pa-e A),A,41,u₂[plant]N tuku[to-have]V u₂[plant]N gu₇[to-eat]V
+c.4.31.1,A hymn to Šul-pa-e (Šul-pa-e A),A,42,a[water]N tuku[to-have]V a[water]N naŋ[to-drink]V
+c.4.31.1,A hymn to Šul-pa-e (Šul-pa-e A),A,43,mu[name]N diŋir[deity]N pad₃[to-find]V
+c.4.31.1,A hymn to Šul-pa-e (Šul-pa-e A),A,44,mu[name]N diŋir[deity]N dili[single]AJ ka[mouth]N
+c.4.31.1,A hymn to Šul-pa-e (Šul-pa-e A),A,45,šu[hand]N diŋir[deity]N
+c.4.31.1,A hymn to Šul-pa-e (Šul-pa-e A),A,46,šu[hand]N
+c.4.31.1,A hymn to Šul-pa-e (Šul-pa-e A),A,47,de₆[to-carry]V
+c.4.31.1,A hymn to Šul-pa-e (Šul-pa-e A),A,48,šum₂[to-give]V
+c.4.31.1,A hymn to Šul-pa-e (Šul-pa-e A),A,49,gu-za-la₂[throne-bearer]N An[1]DN Enlil[1]DN
+c.4.31.1,A hymn to Šul-pa-e (Šul-pa-e A),A,50,maškim[judicial-officer]N sumur[to-be-angry]V diŋir[deity]N
+c.4.31.1,A hymn to Šul-pa-e (Šul-pa-e A),A,51,en[lord]N banšur[(offering)-table]N Enlil[1]DN
+c.4.31.1,A hymn to Šul-pa-e (Šul-pa-e A),A,52,lu₂[person]N niŋ₂[thing]N ŋar[to-place]V gid₂[to-be-long]V
+c.4.31.1,A hymn to Šul-pa-e (Šul-pa-e A),A,53,DU[DU]V
+c.4.31.1,A hymn to Šul-pa-e (Šul-pa-e A),A,54,nim[upper-(land)]N si[to-fill]V
+c.4.31.1,A hymn to Šul-pa-e (Šul-pa-e A),A,55,an[heaven]N ŋal₂[to-be-(located)]V
+c.4.31.1,A hymn to Šul-pa-e (Šul-pa-e A),A,56,dugud[to-be-heavy]V tug₂[garment]N dul[to-cover-(together)]V
+c.4.31.1,A hymn to Šul-pa-e (Šul-pa-e A),A,57,dug₄[to-say]V
+c.4.31.1,A hymn to Šul-pa-e (Šul-pa-e A),A,58,saŋ[head]N ŋar[to-place]V a-ra-zu[supplication]N dug₄[to-say]V
+c.4.31.1,A hymn to Šul-pa-e (Šul-pa-e A),A,59,šag₄-ne-ša₄[intercession]N pad₃[to-find]V
+c.4.31.1,A hymn to Šul-pa-e (Šul-pa-e A),A,60,ma₂[boat]N a-ŋi₆[flooding]N DU[DU]V
+c.4.31.1,A hymn to Šul-pa-e (Šul-pa-e A),A,61,zig₃[to-rise]V
+c.4.31.1,A hymn to Šul-pa-e (Šul-pa-e A),A,62,kug-sig₁₇[gold]N dadag[to-be-bright]V
+c.4.31.1,A hymn to Šul-pa-e (Šul-pa-e A),A,63,zabar[bronze]N niŋ₂-su-ub[polishing]N ak[to-do]V
+c.4.31.1,A hymn to Šul-pa-e (Šul-pa-e A),A,64,šu[hand]N sag₉[to-be-good]V diŋir[deity]N gi₄[to-return]V
+c.4.31.1,A hymn to Šul-pa-e (Šul-pa-e A),A,65,zalag[to-be-shining]V gu₂[neck]N zig₃[to-rise]V
+c.4.31.1,A hymn to Šul-pa-e (Šul-pa-e A),A,66,kalam[the-Land]N dalla[to-be-bright]V e₃[to-go-out-or-in]V
+c.4.31.1,A hymn to Šul-pa-e (Šul-pa-e A),A,67,zu[to-know]V
+c.4.31.1,A hymn to Šul-pa-e (Šul-pa-e A),A,68,du₃[to-erect]V
+c.4.31.1,A hymn to Šul-pa-e (Šul-pa-e A),A,69,inim[word]N ŋar[to-place]V
+c.4.31.1,A hymn to Šul-pa-e (Šul-pa-e A),A,70,dug₄[to-say]V de₂[to-pour]V
+c.4.31.1,A hymn to Šul-pa-e (Šul-pa-e A),A,71,ŋar[to-place]V
+c.4.31.1,A hymn to Šul-pa-e (Šul-pa-e A),A,72,ki[place]N aŋ₂[to-measure]V za[you-(sg.)]PD du₈[to-spread]V
+c.4.31.1,A hymn to Šul-pa-e (Šul-pa-e A),A,73,di₄-di₄[to-be-small]V za[you-(sg.)]PD ŋar[to-place]V
+c.4.31.1,A hymn to Šul-pa-e (Šul-pa-e A),A,74,di₄-di₄[to-be-small]V za[you-(sg.)]PD du₈[to-spread]V
+c.4.31.1,A hymn to Šul-pa-e (Šul-pa-e A),A,75,za[you-(sg.)]PD gal[to-be-big]V za[you-(sg.)]PD du₈[to-spread]V
+c.4.31.1,A hymn to Šul-pa-e (Šul-pa-e A),A,76,sur[to-drip]V
+c.4.31.1,A hymn to Šul-pa-e (Šul-pa-e A),A,77,za[you-(sg.)]PD de₂[to-pour]V
+c.4.31.1,A hymn to Šul-pa-e (Šul-pa-e A),A,78,ud[day(light)]N 15-kam-ma[15th]NU
+c.4.31.1,A hymn to Šul-pa-e (Šul-pa-e A),A,79,saŋ[head]N X[X]V
+c.4.31.1,A hymn to Šul-pa-e (Šul-pa-e A),A,80,šir₃[song]N
+c.4.31.1,A hymn to Šul-pa-e (Šul-pa-e A),A,81,en₃-du[song]N
+c.4.31.1,A hymn to Šul-pa-e (Šul-pa-e A),A,82,me[essence]N ze₂-eb[to-be-good]V
+c.4.31.1,A hymn to Šul-pa-e (Šul-pa-e A),A,83,lugal[king]N šag₄-la₂[mercy]N sug₄[to-be-full]V kur[(mountain)-land]N
+c.4.31.1,A hymn to Šul-pa-e (Šul-pa-e A),A,84,šag₄-la₂[mercy]N sug₄[to-be-full]V igi[eye]N du₈[to-spread]V ŋal₂[to-be-(located)]V
+c.4.31.1,A hymn to Šul-pa-e (Šul-pa-e A),A,85,tur₃[animal-stall]N
 c.4.31.1,A hymn to Šul-pa-e (Šul-pa-e A),B,1,
 c.4.31.1,A hymn to Šul-pa-e (Šul-pa-e A),B,2,
-c.4.31.1,A hymn to Šul-pa-e (Šul-pa-e A),B,3,sux:šag₄-ne-ša₄[intercession]N
+c.4.31.1,A hymn to Šul-pa-e (Šul-pa-e A),B,3,šag₄-ne-ša₄[intercession]N
 c.4.31.1,A hymn to Šul-pa-e (Šul-pa-e A),B,4,
-c.4.31.1,A hymn to Šul-pa-e (Šul-pa-e A),B,5,sux:kug[shining]AJ sux:keše₂[to-bind]V
-c.4.31.1,A hymn to Šul-pa-e (Šul-pa-e A),B,6,sux:u₃-sa₂[sleep]N sux:tud[to-give-birth]V sux:a-sur-ra[subterranean-water]N
-c.4.31.1,A hymn to Šul-pa-e (Šul-pa-e A),B,7,sux:Šul-pa-e[1]DN sux:hul₂[to-be-happy]V
-c.4.31.1,A hymn to Šul-pa-e (Šul-pa-e A),B,8,sux:tud[to-give-birth]V sux:lugal[king]N sux:mu[name]N sux:pad₃[to-find]V
+c.4.31.1,A hymn to Šul-pa-e (Šul-pa-e A),B,5,kug[shining]AJ keše₂[to-bind]V
+c.4.31.1,A hymn to Šul-pa-e (Šul-pa-e A),B,6,u₃-sa₂[sleep]N tud[to-give-birth]V a-sur-ra[subterranean-water]N
+c.4.31.1,A hymn to Šul-pa-e (Šul-pa-e A),B,7,Šul-pa-e[1]DN hul₂[to-be-happy]V
+c.4.31.1,A hymn to Šul-pa-e (Šul-pa-e A),B,8,tud[to-give-birth]V lugal[king]N mu[name]N pad₃[to-find]V

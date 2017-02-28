@@ -1,0 +1,37 @@
+id_text,text_name,version,l_no,text
+etcsri/Q004449,Gungunum 5add,,i 1,sux:ud[sun]N sux:An[1]DN
+etcsri/Q004449,Gungunum 5add,,i 2,sux:Enlil[1]DN
+etcsri/Q004449,Gungunum 5add,,i 3,sux:Utu[1]DN
+etcsri/Q004449,Gungunum 5add,,i 4,sux:Larsam[1]SN
+etcsri/Q004449,Gungunum 5add,,i 5,sux:namlugal[kingship]N
+etcsri/Q004449,Gungunum 5add,,i 6,sux:Kiengir[1]GN sux:Akkad[1]GN
+etcsri/Q004449,Gungunum 5add,,i 7,sux:u[and]CNJ sux:namsipad[shepherdship]N sux:kur[mountain]N sux:Martu[1]EN
+etcsri/Q004449,Gungunum 5add,,i 8,sux:šu[hand]N sux:du[suitable]V/i
+etcsri/Q004449,Gungunum 5add,,i 9,sux:ud[sun]N sux:Gungunum[1]RN
+etcsri/Q004449,Gungunum 5add,,i 10,sux:nita[male]N sux:kalag[strong]V/i
+etcsri/Q004449,Gungunum 5add,,i 11,sux:lugal[king]N sux:Larsam[1]SN
+etcsri/Q004449,Gungunum 5add,,i 12,sux:engar[farmer]N sux:Urim[1]SN
+etcsri/Q004449,Gungunum 5add,,i 13,sux:šu[hand]N sux:gi[turn]V/i sux:Ebabbar[2]TN
+etcsri/Q004449,Gungunum 5add,,i 14,sux:lugal[king]N sux:Kiengir[1]GN sux:Akkad[1]GN
+etcsri/Q004449,Gungunum 5add,,i 15,sux:ibila[heir]N sux:kalag[strong]V/i
+etcsri/Q004449,Gungunum 5add,,i 16,sux:Samium[1]RN
+etcsri/Q004449,Gungunum 5add,,i 17,sux:bad[wall]N sux:gal[big]V/i sux:Larsam[1]SN
+etcsri/Q004449,Gungunum 5add,,i 18,sux:Utu[1]DN sux:kibala[rebel-land]N sux:sa[equal]V/t sux:dug[speak]V/t
+etcsri/Q004449,Gungunum 5add,,i 19,sux:mu[name]N
+etcsri/Q004449,Gungunum 5add,,ii 1,sux:du[build]V/t
+etcsri/Q004449,Gungunum 5add,,ii 2,sux:namgalam[skillfullness]N sux:dirig[exceed]V/t
+etcsri/Q004449,Gungunum 5add,,ii 3,sux:iri[city]N sux:sug[marsh]N
+etcsri/Q004449,Gungunum 5add,,ii 4,sux:e[leave]V/i
+etcsri/Q004449,Gungunum 5add,,ii 5,sux:šag[heart]N sux:mu[year]N sux:aš[one]NU
+etcsri/Q004449,Gungunum 5add,,ii 6,sux:šeg[brick]N sux:du[build]V/t
+etcsri/Q004449,Gungunum 5add,,ii 7,sux:bad[wall]N sux:gal[big]V/i sux:til[complete]V/i
+etcsri/Q004449,Gungunum 5add,,ii 8,sux:iri[city]N sux:murub[middle]N
+etcsri/Q004449,Gungunum 5add,,ii 9,sux:Buranun[1]WN sux:si[horn]N sux:sa[equal]V/t
+etcsri/Q004449,Gungunum 5add,,ii 10,sux:ud[sun]N sux:ud[sun]N sux:bala[turn]V/t
+etcsri/Q004449,Gungunum 5add,,ii 11,sux:še[barley]N sux:še[barley]N sux:gur[unit]N
+etcsri/Q004449,Gungunum 5add,,ii 12,sux:siki[hair]N sux:mana[unit]N
+etcsri/Q004449,Gungunum 5add,,ii 13,sux:i[oil]N sux:sila[unit]N
+etcsri/Q004449,Gungunum 5add,,ii 14,sux:giŋ[unit]N sux:ganba[price]N sux:ŋar[place]V/t
+etcsri/Q004449,Gungunum 5add,,ii 15,sux:ugnim[army]N sux:namhe[abundance]N
+etcsri/Q004449,Gungunum 5add,,ii 16,sux:kiŋ[work]V/t sux:ak[do]V/t
+etcsri/Q004449,Gungunum 5add,,ii 17,sux:ŋaʾe[I]IP sux:lugal[king]N sux:niŋgina[truth]N

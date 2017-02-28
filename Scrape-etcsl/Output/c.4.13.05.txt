@@ -1,70 +1,70 @@
 id_text,text_name,version,l_no,text
-c.4.13.05,A hymn to Nanna (Nanna E),,1,sux:dumu[child]N sux:nun[prince]N sux:AB×A[bathing-chamber?]N sux:kug[shining]AJ sux:e₃[to-go-out-or-in]V sux:zal[to-pass]V sux:si[horn]N
-c.4.13.05,A hymn to Nanna (Nanna E),,2,sux:kur[(mountain)-land]N sux:me[essence]N sux:sikil[to-be-pure]V sux:eš₃[shrine]N sux:Abzu[1]TN sux:šag₄[heart]N sux:daŋal[to-be-wide]V sux:kur[(mountain)-land]N sux:me[essence]N
-c.4.13.05,A hymn to Nanna (Nanna E),,3,sux:ki-ur₃[foundation]N sux:mah[to-be-majestic]V sux:dur₂[rump]N sux:daŋal[to-be-wide]V
-c.4.13.05,A hymn to Nanna (Nanna E),,4,sux:ambar[marsh]N sux:me-lem₄[(awesome)-radiance]N sux:huš[to-be-reddish]V sux:de₆[to-carry]V sux:muš₃[face]N sux:ni₂[fear(someness)]N
-c.4.13.05,A hymn to Nanna (Nanna E),,5,sux:nam-dug₃[goodness]N sux:nam-gal[greatness]N sux:nam-mah[majesty]N sux:saŋ[head]N sux:il₂[to-raise]V
-c.4.13.05,A hymn to Nanna (Nanna E),,6,sux:nam[destiny]N sux:tar[to-cut]V sux:a₂[arm]N sux:mah[to-be-majestic]V sux:sud[to-be-distant]V
-c.4.13.05,A hymn to Nanna (Nanna E),,7,sux:nam-lugal[kingship]N sux:an[heaven]N sux:ki[place]N sux:An[1]DN sux:gal[to-be-big]V sux:šu[hand]N sux:daŋal[to-be-wide]V sux:dug₄[to-say]V
-c.4.13.05,A hymn to Nanna (Nanna E),,8,sux:nam-dumu[filial-status]N sux:nun[prince]N sux:gal[to-be-big]V sux:Enlil[1]DN sux:nam-men[sovereignty]N sux:šu[hand]N sux:du₇[to-be-perfect]V
-c.4.13.05,A hymn to Nanna (Nanna E),,9,sux:nam-diŋir[divinity]N sux:mah[to-be-majestic]V sux:Enlil[1]DN sux:pa[branch]N sux:e₃[to-go-out-or-in]V sux:e₃[to-go-out-or-in]V
-c.4.13.05,A hymn to Nanna (Nanna E),,10,sux:a[water]N sux:DU[DU]V sux:a[water]N sux:sig[to-be-low]V sux:mah[to-be-majestic]V sux:nam[destiny]N sux:tar[to-cut]V sux:ki[place]N sux:dug₃[to-be-good]V sux:ama[mother]N sux:dug₃[to-be-good]V
-c.4.13.05,A hymn to Nanna (Nanna E),,11,sux:Enki[1]DN sux:AB×A-šag₄[centre-of-bathing-chamber?]N sux:kug[shining]AJ sux:ŋiri₃[foot]N sux:ŋar[to-place]V
-c.4.13.05,A hymn to Nanna (Nanna E),,12,sux:Enlil[1]DN sux:nam-mah[majesty]N sux:nam-en[high-(priestly)-office]N sux:tud[to-give-birth]V
-c.4.13.05,A hymn to Nanna (Nanna E),,13,sux:Nanna[1]DN sux:ud-sakar[crescent-(moon)]N sux:ud-sakar[crescent-(moon)]N sux:7[7]NU sux:mu[name]N sux:pad₃[to-find]V
-c.4.13.05,A hymn to Nanna (Nanna E),,14,sux:Enlil[1]DN sux:an[heaven]N sux:ki[place]N sux:mu[name]N sux:mu[name]N sux:kug[shining]AJ sux:mu[name]N sux:pad₃[to-find]V
-c.4.13.05,A hymn to Nanna (Nanna E),,15,sux:dumu[child]N sux:nun[prince]N sux:nam-gal[greatness]N sux:an[heaven]N sux:ki[place]N sux:pa[branch]N sux:e₃[to-go-out-or-in]V sux:e₃[to-go-out-or-in]V
-c.4.13.05,A hymn to Nanna (Nanna E),,16,sux:unken[assembly]N sux:mah[to-be-majestic]V sux:nam[destiny]N sux:Enlil[1]DN sux:saŋ[head]N sux:rig₇[to-bestow]V
-c.4.13.05,A hymn to Nanna (Nanna E),,17,sux:Enki[1]DN sux:ki[place]N sux:eš₃[shrine]N sux:Eridug[1]SN sux:nam-men[sovereignty]N sux:nam-mah[majesty]N sux:tar[to-cut]V
-c.4.13.05,A hymn to Nanna (Nanna E),,18,sux:abzu[underground-water]N sux:mah[to-be-majestic]V sux:ki[place]N sux:eš₃[shrine]N sux:Eridug[1]SN sux:nam-en[high-(priestly)-office]N sux:gal[to-be-big]V
-c.4.13.05,A hymn to Nanna (Nanna E),,19,sux:lugal[king]N sux:an[heaven]N sux:ki[place]N sux:an[heaven]N sux:ki[place]N sux:gun₃[to-be-multicoloured]V sux:nam-gal[greatness]N sux:dug₄[to-say]V
-c.4.13.05,A hymn to Nanna (Nanna E),,20,sux:Nanna[1]DN sux:saŋ[head]N sux:il₂[to-raise]V sux:Anuna[1]DN sux:ha-la[share]N sux:pad₃[to-find]V
-c.4.13.05,A hymn to Nanna (Nanna E),,21,sux:me[essence]N sux:sikil[to-be-pure]V sux:šag₄[heart]N sux:hul₂[to-be-happy]V sux:ki-tuš[dwelling-place]N sux:kug[shining]AJ sux:tuš[to-sit]V
-c.4.13.05,A hymn to Nanna (Nanna E),,22,sux:diŋir[deity]N sux:gal[to-be-big]V sux:nidba[(food)-offering]N sux:gal[to-be-big]V sux:pad₃[to-find]V
-c.4.13.05,A hymn to Nanna (Nanna E),,23,sux:zag[side]N sux:gal[to-be-big]V sux:šag₄[heart]N sux:hi-li[attractiveness]N sux:mah[to-be-majestic]V sux:si[to-fill]V sux:tuš[to-sit]V
-c.4.13.05,A hymn to Nanna (Nanna E),,24,sux:diŋir[deity]N sux:sizkur₂[prayer]N sux:šag₄[heart]N sux:hul₂[to-be-happy]V sux:šum₂[to-give]V
-c.4.13.05,A hymn to Nanna (Nanna E),,25,sux:ki[place]N sux:mah[to-be-majestic]V sux:ki[place]N sux:kug[shining]AJ sux:tuš[to-sit]V
-c.4.13.05,A hymn to Nanna (Nanna E),,26,sux:Nanna[1]DN sux:ki[place]N sux:kug[shining]AJ sux:ki-tuš[dwelling-place]N sux:kug[shining]AJ sux:tuš[to-sit]V
-c.4.13.05,A hymn to Nanna (Nanna E),,27,sux:Enki[1]DN sux:ki-tuš[dwelling-place]N sux:sikil[to-be-pure]V sux:ki-tuš[dwelling-place]N sux:šen[to-be-pure]V
-c.4.13.05,A hymn to Nanna (Nanna E),,28,sux:an[heaven]N sux:kug[to-be-shining]V sux:ki[place]N sux:šen[to-be-pure]V
-c.4.13.05,A hymn to Nanna (Nanna E),,29,sux:E-kiš-nu-ŋal[1]TN sux:e₂[house(hold)]N sux:tir[forest]N sux:erin[cedar]N sux:an[heaven]N sux:si[horn]N sux:sa₂[to-equal]V
-c.4.13.05,A hymn to Nanna (Nanna E),,30,sux:dur₂[rump]N sux:mah[to-be-majestic]V sux:ki[place]N sux:kug[shining]AJ sux:ak[to-do]V sux:ur₂[root]N sux:niŋ₂[thing]N sux:an[heaven]N sux:ki[place]N
-c.4.13.05,A hymn to Nanna (Nanna E),,31,sux:ŋiš-hur[design]N sux:šu-luh[ritual-cleansing]N sux:mah[to-be-majestic]V sux:si[horn]N sux:sa₂[to-equal]V
-c.4.13.05,A hymn to Nanna (Nanna E),,32,sux:gir₄[oven]N sux:banšur[(offering)-table]N sux:ki[place]N sux:kug[shining]AJ sux:šen[to-be-pure]V
-c.4.13.05,A hymn to Nanna (Nanna E),,33,sux:kiŋ₂-sig[late-afternoon-meal]N sux:kiŋ₂-sig[late-afternoon-meal]N sux:kiŋ₂-nim[morning-meal]N
-c.4.13.05,A hymn to Nanna (Nanna E),,34,sux:si[horn]N sux:sa₂[to-equal]V
-c.4.13.05,A hymn to Nanna (Nanna E),,35,sux:šu-luh[ritual-cleansing]N sux:kug[to-be-shining]V sux:šen[to-be-pure]V
-c.4.13.05,A hymn to Nanna (Nanna E),,36,sux:du₈[to-spread]V sux:sig₇[to-be-green]V
-c.4.13.05,A hymn to Nanna (Nanna E),,37,sux:pad₃[to-find]V
-c.4.13.05,A hymn to Nanna (Nanna E),,38,sux:Enki[1]DN sux:abzu[underground-water]N sux:tud[to-give-birth]V sux:šu-luh[ritual-cleansing]N sux:ŋar[to-place]V
-c.4.13.05,A hymn to Nanna (Nanna E),,39,sux:Kusu[1]DN sux:šu-luh[ritual-cleansing]N sux:gub[to-stand]V sux:e₂[house(hold)]N sux:ni₂-bi[itself;-themselves]PD sux:tud[to-give-birth]V
-c.4.13.05,A hymn to Nanna (Nanna E),,40,sux:AB×A-šag₄[centre-of-bathing-chamber?]N sux:bar[outside]N sux:gir₄[oven]N sux:gud[bull]N sux:udu[sheep]N sux:ninda[bread]N sux:eš₃[shrine]N sux:bar[outside]N sux:šu-luh[ritual-cleansing]N sux:kug[shining]AJ
-c.4.13.05,A hymn to Nanna (Nanna E),,41,sux:e₂[house(hold)]N sux:i₃[fatty-substance]N sux:sikil[to-be-pure]V sux:saŋ[head]N sux:ha-za[to-hold]V sux:a₂-šu-ŋiri₃[limbs]N sux:KU[KU]V
-c.4.13.05,A hymn to Nanna (Nanna E),,42,sux:šu-luh[ritual-cleansing]N sux:kug[shining]AJ sux:šub[to-fall]V sux:ambar[marsh]N sux:mah[to-be-majestic]V
-c.4.13.05,A hymn to Nanna (Nanna E),,43,sux:AB×A[bathing-chamber?]N sux:daŋal[to-be-wide]V sux:kug[shining]AJ sux:nam[destiny]N sux:e₃[to-go-out-or-in]V
-c.4.13.05,A hymn to Nanna (Nanna E),,44,sux:E-kiš-nu-ŋal[1]TN sux:barag[dais]N sux:mah[to-be-majestic]V sux:kug[shining]AJ sux:me[essence]N sux:gal[to-be-big]V sux:mah[to-be-majestic]V sux:an[heaven]N sux:ki[place]N sux:šu[hand]N sux:du₇[to-be-perfect]V
-c.4.13.05,A hymn to Nanna (Nanna E),,45,sux:AB×A[bathing-chamber?]N sux:kug[shining]AJ sux:peš₁₀[bank]N sux:mah[to-be-majestic]V sux:a[water]N sux:tu₅[to-wash]V
-c.4.13.05,A hymn to Nanna (Nanna E),,46,sux:i₃[fatty-substance]N sux:hur-saŋ[mountain-(range)]N sux:su[flesh]N sux:kug[shining]AJ sux:ŋal₂[to-be-(located)]V
-c.4.13.05,A hymn to Nanna (Nanna E),,47,sux:Nanna[1]DN sux:barag[dais]N sux:mah[to-be-majestic]V sux:ŋar[to-place]V
-c.4.13.05,A hymn to Nanna (Nanna E),,48,sux:gada[linen-(fibre)]N sux:mah[to-be-majestic]V sux:keše₂[to-bind]V sux:saŋ[head]N sux:il₂[to-raise]V sux:si[horn]N sux:mul[to-radiate]V sux:suh₁₀-gir₁₁[diadem]N sux:nam-men[sovereignty]N
-c.4.13.05,A hymn to Nanna (Nanna E),,49,sux:i₃[fatty-substance]N sux:mah[to-be-majestic]V sux:i₃[fatty-substance]N sux:nam-men[sovereignty]N sux:i₃[fatty-substance]N sux:erim₃[storehouse]N sux:gal[to-be-big]V sux:su-bar[body]N sux:kug[shining]AJ
-c.4.13.05,A hymn to Nanna (Nanna E),,50,sux:Kar-zagina[1]TN sux:kar[quay]N sux:mah[to-be-majestic]V sux:kar[quay]N sux:kug[shining]AJ
-c.4.13.05,A hymn to Nanna (Nanna E),,51,sux:Ningublaga[1]DN sux:en[lord]N sux:šu[hand]N sux:kug[to-be-shining]V
-c.4.13.05,A hymn to Nanna (Nanna E),,52,sux:Tarah[1]DN sux:abzu[underground-water]N sux:Eridug[1]SN sux:šu[hand]N sux:i₃[fatty-substance]N sux:sikil[to-be-pure]V
-c.4.13.05,A hymn to Nanna (Nanna E),,53,sux:u₂-a[provisioner]N sux:banšur[(offering)-table]N sux:unu₂[(dining)-hall]N sux:ki[place]N sux:gal[to-be-big]V sux:šu[hand]N sux:kug[shining]AJ sux:ŋar[to-place]V
-c.4.13.05,A hymn to Nanna (Nanna E),,54,sux:Kusu[1]DN sux:šu[hand]N sux:sikil[to-be-pure]V sux:šu[hand]N sux:dadag[to-be-bright]V sux:ak[to-do]V sux:šu[hand]N sux:kug[to-be-shining]V
-c.4.13.05,A hymn to Nanna (Nanna E),,55,sux:Tarah[1]DN sux:abzu[underground-water]N sux:Eridug[1]SN sux:šu[hand]N sux:i₃[fatty-substance]N sux:sikil[to-be-pure]V
-c.4.13.05,A hymn to Nanna (Nanna E),,56,sux:eš₃[shrine]N sux:Abzu[1]TN sux:barag[dais]N sux:mah[to-be-majestic]V sux:Urim[1]SN sux:nam[destiny]N sux:dug₃[to-be-good]V sux:gal[to-be-big]V sux:tar[to-cut]V
-c.4.13.05,A hymn to Nanna (Nanna E),,57,sux:E-kiš-nu-ŋal[1]TN sux:ki-tuš[dwelling-place]N sux:kug[shining]AJ sux:dug₃[to-be-good]V sux:Ningal[1]DN sux:nin[lady]N sux:mah[to-be-majestic]V
-c.4.13.05,A hymn to Nanna (Nanna E),,58,sux:ki-tuš[dwelling-place]N sux:kug[shining]AJ sux:ki[place]N sux:nam-nin[ladyship]N sux:Nanna[1]DN sux:lugal[king]N
-c.4.13.05,A hymn to Nanna (Nanna E),,59,sux:E-kiš-nu-ŋal[1]TN sux:Agrun-kug[1]TN sux:e₂[house(hold)]N sux:nam-lugal[kingship]N
-c.4.13.05,A hymn to Nanna (Nanna E),,60,sux:Nanna[1]DN sux:Ningal[1]DN sux:ki-tuš[dwelling-place]N sux:hul₂[to-be-happy]V
-c.4.13.05,A hymn to Nanna (Nanna E),,61,sux:Suen[1]DN sux:en[lord]N sux:zu[to-know]V sux:mah[to-be-majestic]V sux:an[heaven]N sux:ki[place]N sux:aga[crown]N sux:aga[crown]N sux:mah[to-be-majestic]V
-c.4.13.05,A hymn to Nanna (Nanna E),,62,sux:me-lem₄[(awesome)-radiance]N sux:huš[to-be-reddish]V sux:an[heaven]N sux:ki[place]N sux:sig₉[to-put]V sux:Ašimbabbar[1]DN sux:šu[hand]N sux:kug[to-be-shining]V
-c.4.13.05,A hymn to Nanna (Nanna E),,63,sux:an[heaven]N sux:kug[to-be-shining]V sux:ki[place]N sux:šen[to-be-pure]V
-c.4.13.05,A hymn to Nanna (Nanna E),,64,sux:šag₄[heart]N sux:an[heaven]N sux:dadag[to-be-bright]V
-c.4.13.05,A hymn to Nanna (Nanna E),,65,sux:aga[crown]N sux:an[heaven]N sux:ki[place]N sux:aga[crown]N sux:kug[shining]AJ sux:saŋ[head]N sux:il₂[to-raise]V
-c.4.13.05,A hymn to Nanna (Nanna E),,66,sux:Suen[1]DN sux:en[lord]N sux:zu[to-know]V sux:mah[to-be-majestic]V sux:an[heaven]N sux:ki[place]N sux:barag[dais]N sux:sikil[to-be-pure]V sux:šu[hand]N sux:du₇[to-be-perfect]V
-c.4.13.05,A hymn to Nanna (Nanna E),,67,sux:Ašimbabbar[1]DN sux:saŋ-men[type-of-crown]N sux:aga[crown]N sux:zid[right]AJ sux:si[horn]N sux:mul[to-radiate]V sux:mah[to-be-majestic]V
-c.4.13.05,A hymn to Nanna (Nanna E),,68,sux:saŋ[head]N sux:il₂[to-raise]V
-c.4.13.05,A hymn to Nanna (Nanna E),,69,sux:i₃[fatty-substance]N sux:kug[shining]AJ sux:i₃[fatty-substance]N sux:sikil[to-be-pure]V sux:i₃[fatty-substance]N sux:dadag[to-be-bright]V
+c.4.13.05,A hymn to Nanna (Nanna E),,1,dumu[child]N nun[prince]N AB×A[bathing-chamber?]N kug[shining]AJ e₃[to-go-out-or-in]V zal[to-pass]V si[horn]N
+c.4.13.05,A hymn to Nanna (Nanna E),,2,kur[(mountain)-land]N me[essence]N sikil[to-be-pure]V eš₃[shrine]N Abzu[1]TN šag₄[heart]N daŋal[to-be-wide]V kur[(mountain)-land]N me[essence]N
+c.4.13.05,A hymn to Nanna (Nanna E),,3,ki-ur₃[foundation]N mah[to-be-majestic]V dur₂[rump]N daŋal[to-be-wide]V
+c.4.13.05,A hymn to Nanna (Nanna E),,4,ambar[marsh]N me-lem₄[(awesome)-radiance]N huš[to-be-reddish]V de₆[to-carry]V muš₃[face]N ni₂[fear(someness)]N
+c.4.13.05,A hymn to Nanna (Nanna E),,5,nam-dug₃[goodness]N nam-gal[greatness]N nam-mah[majesty]N saŋ[head]N il₂[to-raise]V
+c.4.13.05,A hymn to Nanna (Nanna E),,6,nam[destiny]N tar[to-cut]V a₂[arm]N mah[to-be-majestic]V sud[to-be-distant]V
+c.4.13.05,A hymn to Nanna (Nanna E),,7,nam-lugal[kingship]N an[heaven]N ki[place]N An[1]DN gal[to-be-big]V šu[hand]N daŋal[to-be-wide]V dug₄[to-say]V
+c.4.13.05,A hymn to Nanna (Nanna E),,8,nam-dumu[filial-status]N nun[prince]N gal[to-be-big]V Enlil[1]DN nam-men[sovereignty]N šu[hand]N du₇[to-be-perfect]V
+c.4.13.05,A hymn to Nanna (Nanna E),,9,nam-diŋir[divinity]N mah[to-be-majestic]V Enlil[1]DN pa[branch]N e₃[to-go-out-or-in]V e₃[to-go-out-or-in]V
+c.4.13.05,A hymn to Nanna (Nanna E),,10,a[water]N DU[DU]V a[water]N sig[to-be-low]V mah[to-be-majestic]V nam[destiny]N tar[to-cut]V ki[place]N dug₃[to-be-good]V ama[mother]N dug₃[to-be-good]V
+c.4.13.05,A hymn to Nanna (Nanna E),,11,Enki[1]DN AB×A-šag₄[centre-of-bathing-chamber?]N kug[shining]AJ ŋiri₃[foot]N ŋar[to-place]V
+c.4.13.05,A hymn to Nanna (Nanna E),,12,Enlil[1]DN nam-mah[majesty]N nam-en[high-(priestly)-office]N tud[to-give-birth]V
+c.4.13.05,A hymn to Nanna (Nanna E),,13,Nanna[1]DN ud-sakar[crescent-(moon)]N ud-sakar[crescent-(moon)]N 7[7]NU mu[name]N pad₃[to-find]V
+c.4.13.05,A hymn to Nanna (Nanna E),,14,Enlil[1]DN an[heaven]N ki[place]N mu[name]N mu[name]N kug[shining]AJ mu[name]N pad₃[to-find]V
+c.4.13.05,A hymn to Nanna (Nanna E),,15,dumu[child]N nun[prince]N nam-gal[greatness]N an[heaven]N ki[place]N pa[branch]N e₃[to-go-out-or-in]V e₃[to-go-out-or-in]V
+c.4.13.05,A hymn to Nanna (Nanna E),,16,unken[assembly]N mah[to-be-majestic]V nam[destiny]N Enlil[1]DN saŋ[head]N rig₇[to-bestow]V
+c.4.13.05,A hymn to Nanna (Nanna E),,17,Enki[1]DN ki[place]N eš₃[shrine]N Eridug[1]SN nam-men[sovereignty]N nam-mah[majesty]N tar[to-cut]V
+c.4.13.05,A hymn to Nanna (Nanna E),,18,abzu[underground-water]N mah[to-be-majestic]V ki[place]N eš₃[shrine]N Eridug[1]SN nam-en[high-(priestly)-office]N gal[to-be-big]V
+c.4.13.05,A hymn to Nanna (Nanna E),,19,lugal[king]N an[heaven]N ki[place]N an[heaven]N ki[place]N gun₃[to-be-multicoloured]V nam-gal[greatness]N dug₄[to-say]V
+c.4.13.05,A hymn to Nanna (Nanna E),,20,Nanna[1]DN saŋ[head]N il₂[to-raise]V Anuna[1]DN ha-la[share]N pad₃[to-find]V
+c.4.13.05,A hymn to Nanna (Nanna E),,21,me[essence]N sikil[to-be-pure]V šag₄[heart]N hul₂[to-be-happy]V ki-tuš[dwelling-place]N kug[shining]AJ tuš[to-sit]V
+c.4.13.05,A hymn to Nanna (Nanna E),,22,diŋir[deity]N gal[to-be-big]V nidba[(food)-offering]N gal[to-be-big]V pad₃[to-find]V
+c.4.13.05,A hymn to Nanna (Nanna E),,23,zag[side]N gal[to-be-big]V šag₄[heart]N hi-li[attractiveness]N mah[to-be-majestic]V si[to-fill]V tuš[to-sit]V
+c.4.13.05,A hymn to Nanna (Nanna E),,24,diŋir[deity]N sizkur₂[prayer]N šag₄[heart]N hul₂[to-be-happy]V šum₂[to-give]V
+c.4.13.05,A hymn to Nanna (Nanna E),,25,ki[place]N mah[to-be-majestic]V ki[place]N kug[shining]AJ tuš[to-sit]V
+c.4.13.05,A hymn to Nanna (Nanna E),,26,Nanna[1]DN ki[place]N kug[shining]AJ ki-tuš[dwelling-place]N kug[shining]AJ tuš[to-sit]V
+c.4.13.05,A hymn to Nanna (Nanna E),,27,Enki[1]DN ki-tuš[dwelling-place]N sikil[to-be-pure]V ki-tuš[dwelling-place]N šen[to-be-pure]V
+c.4.13.05,A hymn to Nanna (Nanna E),,28,an[heaven]N kug[to-be-shining]V ki[place]N šen[to-be-pure]V
+c.4.13.05,A hymn to Nanna (Nanna E),,29,E-kiš-nu-ŋal[1]TN e₂[house(hold)]N tir[forest]N erin[cedar]N an[heaven]N si[horn]N sa₂[to-equal]V
+c.4.13.05,A hymn to Nanna (Nanna E),,30,dur₂[rump]N mah[to-be-majestic]V ki[place]N kug[shining]AJ ak[to-do]V ur₂[root]N niŋ₂[thing]N an[heaven]N ki[place]N
+c.4.13.05,A hymn to Nanna (Nanna E),,31,ŋiš-hur[design]N šu-luh[ritual-cleansing]N mah[to-be-majestic]V si[horn]N sa₂[to-equal]V
+c.4.13.05,A hymn to Nanna (Nanna E),,32,gir₄[oven]N banšur[(offering)-table]N ki[place]N kug[shining]AJ šen[to-be-pure]V
+c.4.13.05,A hymn to Nanna (Nanna E),,33,kiŋ₂-sig[late-afternoon-meal]N kiŋ₂-sig[late-afternoon-meal]N kiŋ₂-nim[morning-meal]N
+c.4.13.05,A hymn to Nanna (Nanna E),,34,si[horn]N sa₂[to-equal]V
+c.4.13.05,A hymn to Nanna (Nanna E),,35,šu-luh[ritual-cleansing]N kug[to-be-shining]V šen[to-be-pure]V
+c.4.13.05,A hymn to Nanna (Nanna E),,36,du₈[to-spread]V sig₇[to-be-green]V
+c.4.13.05,A hymn to Nanna (Nanna E),,37,pad₃[to-find]V
+c.4.13.05,A hymn to Nanna (Nanna E),,38,Enki[1]DN abzu[underground-water]N tud[to-give-birth]V šu-luh[ritual-cleansing]N ŋar[to-place]V
+c.4.13.05,A hymn to Nanna (Nanna E),,39,Kusu[1]DN šu-luh[ritual-cleansing]N gub[to-stand]V e₂[house(hold)]N ni₂-bi[itself;-themselves]PD tud[to-give-birth]V
+c.4.13.05,A hymn to Nanna (Nanna E),,40,AB×A-šag₄[centre-of-bathing-chamber?]N bar[outside]N gir₄[oven]N gud[bull]N udu[sheep]N ninda[bread]N eš₃[shrine]N bar[outside]N šu-luh[ritual-cleansing]N kug[shining]AJ
+c.4.13.05,A hymn to Nanna (Nanna E),,41,e₂[house(hold)]N i₃[fatty-substance]N sikil[to-be-pure]V saŋ[head]N ha-za[to-hold]V a₂-šu-ŋiri₃[limbs]N KU[KU]V
+c.4.13.05,A hymn to Nanna (Nanna E),,42,šu-luh[ritual-cleansing]N kug[shining]AJ šub[to-fall]V ambar[marsh]N mah[to-be-majestic]V
+c.4.13.05,A hymn to Nanna (Nanna E),,43,AB×A[bathing-chamber?]N daŋal[to-be-wide]V kug[shining]AJ nam[destiny]N e₃[to-go-out-or-in]V
+c.4.13.05,A hymn to Nanna (Nanna E),,44,E-kiš-nu-ŋal[1]TN barag[dais]N mah[to-be-majestic]V kug[shining]AJ me[essence]N gal[to-be-big]V mah[to-be-majestic]V an[heaven]N ki[place]N šu[hand]N du₇[to-be-perfect]V
+c.4.13.05,A hymn to Nanna (Nanna E),,45,AB×A[bathing-chamber?]N kug[shining]AJ peš₁₀[bank]N mah[to-be-majestic]V a[water]N tu₅[to-wash]V
+c.4.13.05,A hymn to Nanna (Nanna E),,46,i₃[fatty-substance]N hur-saŋ[mountain-(range)]N su[flesh]N kug[shining]AJ ŋal₂[to-be-(located)]V
+c.4.13.05,A hymn to Nanna (Nanna E),,47,Nanna[1]DN barag[dais]N mah[to-be-majestic]V ŋar[to-place]V
+c.4.13.05,A hymn to Nanna (Nanna E),,48,gada[linen-(fibre)]N mah[to-be-majestic]V keše₂[to-bind]V saŋ[head]N il₂[to-raise]V si[horn]N mul[to-radiate]V suh₁₀-gir₁₁[diadem]N nam-men[sovereignty]N
+c.4.13.05,A hymn to Nanna (Nanna E),,49,i₃[fatty-substance]N mah[to-be-majestic]V i₃[fatty-substance]N nam-men[sovereignty]N i₃[fatty-substance]N erim₃[storehouse]N gal[to-be-big]V su-bar[body]N kug[shining]AJ
+c.4.13.05,A hymn to Nanna (Nanna E),,50,Kar-zagina[1]TN kar[quay]N mah[to-be-majestic]V kar[quay]N kug[shining]AJ
+c.4.13.05,A hymn to Nanna (Nanna E),,51,Ningublaga[1]DN en[lord]N šu[hand]N kug[to-be-shining]V
+c.4.13.05,A hymn to Nanna (Nanna E),,52,Tarah[1]DN abzu[underground-water]N Eridug[1]SN šu[hand]N i₃[fatty-substance]N sikil[to-be-pure]V
+c.4.13.05,A hymn to Nanna (Nanna E),,53,u₂-a[provisioner]N banšur[(offering)-table]N unu₂[(dining)-hall]N ki[place]N gal[to-be-big]V šu[hand]N kug[shining]AJ ŋar[to-place]V
+c.4.13.05,A hymn to Nanna (Nanna E),,54,Kusu[1]DN šu[hand]N sikil[to-be-pure]V šu[hand]N dadag[to-be-bright]V ak[to-do]V šu[hand]N kug[to-be-shining]V
+c.4.13.05,A hymn to Nanna (Nanna E),,55,Tarah[1]DN abzu[underground-water]N Eridug[1]SN šu[hand]N i₃[fatty-substance]N sikil[to-be-pure]V
+c.4.13.05,A hymn to Nanna (Nanna E),,56,eš₃[shrine]N Abzu[1]TN barag[dais]N mah[to-be-majestic]V Urim[1]SN nam[destiny]N dug₃[to-be-good]V gal[to-be-big]V tar[to-cut]V
+c.4.13.05,A hymn to Nanna (Nanna E),,57,E-kiš-nu-ŋal[1]TN ki-tuš[dwelling-place]N kug[shining]AJ dug₃[to-be-good]V Ningal[1]DN nin[lady]N mah[to-be-majestic]V
+c.4.13.05,A hymn to Nanna (Nanna E),,58,ki-tuš[dwelling-place]N kug[shining]AJ ki[place]N nam-nin[ladyship]N Nanna[1]DN lugal[king]N
+c.4.13.05,A hymn to Nanna (Nanna E),,59,E-kiš-nu-ŋal[1]TN Agrun-kug[1]TN e₂[house(hold)]N nam-lugal[kingship]N
+c.4.13.05,A hymn to Nanna (Nanna E),,60,Nanna[1]DN Ningal[1]DN ki-tuš[dwelling-place]N hul₂[to-be-happy]V
+c.4.13.05,A hymn to Nanna (Nanna E),,61,Suen[1]DN en[lord]N zu[to-know]V mah[to-be-majestic]V an[heaven]N ki[place]N aga[crown]N aga[crown]N mah[to-be-majestic]V
+c.4.13.05,A hymn to Nanna (Nanna E),,62,me-lem₄[(awesome)-radiance]N huš[to-be-reddish]V an[heaven]N ki[place]N sig₉[to-put]V Ašimbabbar[1]DN šu[hand]N kug[to-be-shining]V
+c.4.13.05,A hymn to Nanna (Nanna E),,63,an[heaven]N kug[to-be-shining]V ki[place]N šen[to-be-pure]V
+c.4.13.05,A hymn to Nanna (Nanna E),,64,šag₄[heart]N an[heaven]N dadag[to-be-bright]V
+c.4.13.05,A hymn to Nanna (Nanna E),,65,aga[crown]N an[heaven]N ki[place]N aga[crown]N kug[shining]AJ saŋ[head]N il₂[to-raise]V
+c.4.13.05,A hymn to Nanna (Nanna E),,66,Suen[1]DN en[lord]N zu[to-know]V mah[to-be-majestic]V an[heaven]N ki[place]N barag[dais]N sikil[to-be-pure]V šu[hand]N du₇[to-be-perfect]V
+c.4.13.05,A hymn to Nanna (Nanna E),,67,Ašimbabbar[1]DN saŋ-men[type-of-crown]N aga[crown]N zid[right]AJ si[horn]N mul[to-radiate]V mah[to-be-majestic]V
+c.4.13.05,A hymn to Nanna (Nanna E),,68,saŋ[head]N il₂[to-raise]V
+c.4.13.05,A hymn to Nanna (Nanna E),,69,i₃[fatty-substance]N kug[shining]AJ i₃[fatty-substance]N sikil[to-be-pure]V i₃[fatty-substance]N dadag[to-be-bright]V

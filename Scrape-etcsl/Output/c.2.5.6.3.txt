@@ -1,56 +1,56 @@
 id_text,text_name,version,l_no,text
-c.2.5.6.3,An adab to Ninurta for Ur-Ninurta (Ur-Ninurta C),,1,sux:ur-saŋ[hero]N sux:ušum[type-of-snake]N sux:ni₂[fear(someness)]N sux:ri[to-direct]V sux:ni₂[fear(someness)]N sux:huš[to-be-reddish]V sux:dirig[to-be-superior]V sux:gal-di[important]AJ
-c.2.5.6.3,An adab to Ninurta for Ur-Ninurta (Ur-Ninurta C),,2,sux:Ninurta[1]DN sux:mar-uru₅[tempest]N sux:šu[hand]N sux:zig₃[to-rise]V
-c.2.5.6.3,An adab to Ninurta for Ur-Ninurta (Ur-Ninurta C),,3,sux:kalag[to-be-strong]V sux:usu[strength]N sux:mah[to-be-majestic]V sux:tuku[to-have]V sux:kur[(mountain)-land]N sux:e₃[to-go-out-or-in]V
-c.2.5.6.3,An adab to Ninurta for Ur-Ninurta (Ur-Ninurta C),,4,sux:a₂[arm]N sux:nam-ur-saŋ[heroism]N sux:šag₄[heart]N sux:tum₂[to-be-suitable]V sux:gaba[chest]N sux:gi₄[to-return]V sux:tuku[to-have]V
-c.2.5.6.3,An adab to Ninurta for Ur-Ninurta (Ur-Ninurta C),,5,sux:bar-sud[composition-division]N
-c.2.5.6.3,An adab to Ninurta for Ur-Ninurta (Ur-Ninurta C),,6,sux:iri[town]N sux:ki[place]N sux:a₂-dam[habitation]N sux:ŋal₂[to-be-(located)]V sux:ki-bal[rebel-land]N sux:hul-ŋal₂[evil]AJ sux:ak[to-do]V
-c.2.5.6.3,An adab to Ninurta for Ur-Ninurta (Ur-Ninurta C),,7,sux:Ninurta[1]DN sux:piriŋ[lion]N sux:huš[to-be-reddish]V sux:huluh[to-be-frightened]V
-c.2.5.6.3,An adab to Ninurta for Ur-Ninurta (Ur-Ninurta C),,8,sux:DU[DU]V sux:ud[day(light)]N sux:e₃[to-go-out-or-in]V sux:ud[day(light)]N sux:šu₂[to-cover]V sux:an[heaven]N sux:ki[place]N sux:tuku₄[to-shake]V
-c.2.5.6.3,An adab to Ninurta for Ur-Ninurta (Ur-Ninurta C),,9,sux:di-kud[judge]N sux:nir-ŋal₂[authoritative]AJ sux:usu[strength]N sux:mah[to-be-majestic]V sux:tuku[to-have]V sux:ki-bal[rebel-land]N sux:du₇[to-push]V
-c.2.5.6.3,An adab to Ninurta for Ur-Ninurta (Ur-Ninurta C),,10,sux:ud[day(light)]N sux:du₇[to-push]V sux:ŋi₆[night]N sux:u₃-na[designation-of-night]N sux:zig₃[to-rise]V sux:ki-bal[rebel-land]N sux:nu₂[to-lie-down]V
-c.2.5.6.3,An adab to Ninurta for Ur-Ninurta (Ur-Ninurta C),,11,sux:igi[eye]N sux:il₂[to-raise]V sux:hur-saŋ[mountain-(range)]N sux:gal[to-be-big]V sux:teš₂[unity]N sux:tuku₄[to-shake]V
-c.2.5.6.3,An adab to Ninurta for Ur-Ninurta (Ur-Ninurta C),,12,sux:šag₄-ba-tuku[composition-division]N
-c.2.5.6.3,An adab to Ninurta for Ur-Ninurta (Ur-Ninurta C),,13,sux:en[lord]N sux:iri[town]N sux:nam[destiny]N sux:Nunamnir[1]DN sux:ŋiškim-til₃[(source-of)-trust]N sux:a-a[father]N
-c.2.5.6.3,An adab to Ninurta for Ur-Ninurta (Ur-Ninurta C),,14,sux:Ninurta[1]DN sux:a₂[arm]N sux:zid[right]AJ sux:kur[(mountain)-land]N sux:gal[to-be-big]V sux:til₃[to-live]V
-c.2.5.6.3,An adab to Ninurta for Ur-Ninurta (Ur-Ninurta C),,15,sux:eš-bar[decision]N sux:dug₄[to-say]V sux:ki[place]N sux:ŋar[to-place]V sux:di[(law)suit]N sux:zu[to-know]V
-c.2.5.6.3,An adab to Ninurta for Ur-Ninurta (Ur-Ninurta C),,16,sux:bar-sud[composition-division]N sux:2-kam-ma[2nd]NU
-c.2.5.6.3,An adab to Ninurta for Ur-Ninurta (Ur-Ninurta C),,17,sux:en[lord]N sux:barag[dais]N sux:ni₂[self]N sux:er₉[to-be-mighty]V sux:ŋiri₃[foot]N sux:saga₁₁[to-press]V
-c.2.5.6.3,An adab to Ninurta for Ur-Ninurta (Ur-Ninurta C),,18,sux:hul-du[wicked]AJ sux:erim₂-ŋal₂[evil]AJ sux:e₃[to-go-out-or-in]V
-c.2.5.6.3,An adab to Ninurta for Ur-Ninurta (Ur-Ninurta C),,19,sux:kur[(mountain)-land]N sux:ma-da[land]N sux:daŋal[to-be-wide]V sux:igi[eye]N sux:zid[right]AJ sux:bar[to-set-aside]V sux:nam-he₂[abundance]N sux:du₈[to-spread]V
-c.2.5.6.3,An adab to Ninurta for Ur-Ninurta (Ur-Ninurta C),,20,sux:Ur-Ninurta[1]RN sux:šul[young-man]N sux:za[you-(sg.)]PD sux:ŋal₂[to-be-(located)]V sux:sipad[shepherd]N sux:zid[right]AJ sux:ŋiš[tree]N sux:tuku[to-have]V
-c.2.5.6.3,An adab to Ninurta for Ur-Ninurta (Ur-Ninurta C),,21,sux:ub[corner]N sux:an[heaven]N sux:ki[place]N sux:uŋ₃[people]N sux:ki[place]N sux:ŋar[to-place]V sux:saŋ[head]N sux:rig₇[to-bestow]V
-c.2.5.6.3,An adab to Ninurta for Ur-Ninurta (Ur-Ninurta C),,22,sux:ŋeštug₂[ear]N sux:šum₂[to-give]V sux:Enki[1]DN sux:de₆[to-carry]V sux:zu[to-know]V
-c.2.5.6.3,An adab to Ninurta for Ur-Ninurta (Ur-Ninurta C),,23,sux:saŋ[head]N sux:gig₂[to-be-black]V sux:udu[sheep]N sux:lu[to-be-abundant]V sux:ŋal₂[to-be-(located)]V sux:us₂[path]N sux:dab₅[to-seize]V
-c.2.5.6.3,An adab to Ninurta for Ur-Ninurta (Ur-Ninurta C),,24,sux:sa-gid₂-da[composition-division]N
-c.2.5.6.3,An adab to Ninurta for Ur-Ninurta (Ur-Ninurta C),,25,sux:ur-saŋ[hero]N sux:gal[to-be-big]V sux:Ur-Ninurta[1]RN sux:še[to-agree]V sux:zar[sheaf]N sux:sal[to-be-thin]V
-c.2.5.6.3,An adab to Ninurta for Ur-Ninurta (Ur-Ninurta C),,26,sux:ŋiš-gi₄-ŋal₂[composition-division]N sux:sa-gid₂-da[composition-division]N
-c.2.5.6.3,An adab to Ninurta for Ur-Ninurta (Ur-Ninurta C),,27,sux:Uta-ulu[1]DN sux:en[lord]N sux:dumu[child]N sux:Enlil[1]DN sux:hur-saŋ[mountain-(range)]N sux:e₃[to-go-out-or-in]V
-c.2.5.6.3,An adab to Ninurta for Ur-Ninurta (Ur-Ninurta C),,28,sux:Ninurta[1]DN sux:nam-mah[majesty]N sux:dugud[to-be-heavy]V sux:ar₂[praise]N sux:dug₄[to-say]V
-c.2.5.6.3,An adab to Ninurta for Ur-Ninurta (Ur-Ninurta C),,29,sux:nam-nir-ŋal₂[authority]N sux:nam-mah[majesty]N sux:kalag[to-be-strong]V sux:šag₄[heart]N sux:kur[(mountain)-land]N
-c.2.5.6.3,An adab to Ninurta for Ur-Ninurta (Ur-Ninurta C),,30,sux:ulu₃[south-wind-(storm)]N sux:me-lem₄[(awesome)-radiance]N sux:ud[day(light)]N sux:e₃[to-go-out-or-in]V sux:ud[day(light)]N sux:šu₂[to-cover]V sux:uŋ₃[people]N sux:šar₂[to-be-numerous]V sux:dul[to-cover-(together)]V
-c.2.5.6.3,An adab to Ninurta for Ur-Ninurta (Ur-Ninurta C),,31,sux:a-a[father]N sux:ugu[to-give-birth]V sux:sipad[shepherd]N sux:diŋir[deity]N sux:en[lord]N sux:Nunamnir[1]DN
-c.2.5.6.3,An adab to Ninurta for Ur-Ninurta (Ur-Ninurta C),,32,sux:me[essence]N sux:gal[to-be-big]V sux:an[heaven]N sux:ki[place]N sux:saŋ[head]N sux:keše₂[to-bind]V sux:šu[hand]N sux:gen₆[to-be-firm]V
-c.2.5.6.3,An adab to Ninurta for Ur-Ninurta (Ur-Ninurta C),,33,sux:nam-nir[authority]N sux:nam-zag-dib[excellence]N sux:šum₂[to-give]V sux:gaba[chest]N sux:gi₄[to-return]V sux:tuku[to-have]V
-c.2.5.6.3,An adab to Ninurta for Ur-Ninurta (Ur-Ninurta C),,34,sux:Ninlil[1]DN sux:hi-li[attractiveness]N sux:šag₄[heart]N sux-x-emesal:ki-ig[place]N sux:gal[to-be-big]V sux:aŋ₂[to-measure]V
-c.2.5.6.3,An adab to Ninurta for Ur-Ninurta (Ur-Ninurta C),,35,sux:a-ra₂[way]N sux:niŋ₂[thing]N sux:ak[to-do]V sux:hul₂[to-be-happy]V sux:ni₂[fear(someness)]N sux:il₂[to-raise]V
-c.2.5.6.3,An adab to Ninurta for Ur-Ninurta (Ur-Ninurta C),,36,sux:a-ba[who]PD sux:za[you-(sg.)]PD sux:diŋir[deity]N sux:pa[branch]N sux:e₃[to-go-out-or-in]V sux:mu[name]N sux:an-zag[border-of-heaven]N
-c.2.5.6.3,An adab to Ninurta for Ur-Ninurta (Ur-Ninurta C),,37,sux:šul[young-man]N sux:si[horn]N sux:sa₂[to-equal]V sux:uŋ₃[people]N sux:daŋal[to-be-wide]V sux:pad₃[to-find]V sux:ŋiš₃[penis]N sux:dug₄[to-say]V sux:kur[(mountain)-land]N sux:gal[to-be-big]V
-c.2.5.6.3,An adab to Ninurta for Ur-Ninurta (Ur-Ninurta C),,38,sux:Ur-Ninurta[1]RN sux:la[plenty]N sux:gu₃[voice]N sux:zid[right]AJ sux:de₂[to-pour]V
-c.2.5.6.3,An adab to Ninurta for Ur-Ninurta (Ur-Ninurta C),,39,sux:igi[eye]N sux:šum₂[to-give]V
-c.2.5.6.3,An adab to Ninurta for Ur-Ninurta (Ur-Ninurta C),,40,sux:barag[dais]N sux:za-gin₃[lapis-lazuli]N sux:saŋ[head]N sux:rig₇[to-bestow]V
-c.2.5.6.3,An adab to Ninurta for Ur-Ninurta (Ur-Ninurta C),,41,sux:Ur-Ninurta[1]RN sux:bal[term-(in-office)]N sux:mu[year]N sux:giri₁₇-zal[joy]N sux:tah[to-add]V
-c.2.5.6.3,An adab to Ninurta for Ur-Ninurta (Ur-Ninurta C),,42,sux:iri[town]N sux:maš-gana₂[settlement]N sux:a₂-dam[habitation]N sux:ki[place]N sux:ŋal₂[to-be-(located)]V sux:he₂-ŋal₂[plenty]N sux:du₃[to-erect]V
-c.2.5.6.3,An adab to Ninurta for Ur-Ninurta (Ur-Ninurta C),,43,sux:saŋ[head]N sux:gig₂[to-be-black]V sux:Utu[1]DN sux:e₃[to-go-out-or-in]V sux:igi[eye]N sux:ŋal₂[to-be-(located)]V
-c.2.5.6.3,An adab to Ninurta for Ur-Ninurta (Ur-Ninurta C),,44,sux:tukul[weapon]N sux:kur[(mountain)-land]N sux:gu₂-erim₂-ŋal₂[hostile]AJ sux:ki[place]N sux:tuku₄[to-shake]V
-c.2.5.6.3,An adab to Ninurta for Ur-Ninurta (Ur-Ninurta C),,45,sux:šum₂[to-give]V sux:a₂-dam[habitation]N sux:še[to-agree]V sux:sug-zag[marsh-edge]N sux:gu₇[to-eat]V
-c.2.5.6.3,An adab to Ninurta for Ur-Ninurta (Ur-Ninurta C),,46,sux:Uta-ulu[1]DN sux:Ur-Ninurta[1]RN sux:šu[hand]N sux:ŋal₂[to-be-(located)]V
-c.2.5.6.3,An adab to Ninurta for Ur-Ninurta (Ur-Ninurta C),,47,sux:sa-ŋar-ra[composition-division]N
-c.2.5.6.3,An adab to Ninurta for Ur-Ninurta (Ur-Ninurta C),,48,sux:ur-saŋ[hero]N sux:gal[to-be-big]V sux:Ur-Ninurta[1]RN sux:saŋ-tab[helper]N sux:me[to-be]V
-c.2.5.6.3,An adab to Ninurta for Ur-Ninurta (Ur-Ninurta C),,49,sux:ŋiš-gi₄-ŋal₂[composition-division]N sux:sa-ŋar-ra[composition-division]N
-c.2.5.6.3,An adab to Ninurta for Ur-Ninurta (Ur-Ninurta C),,50,sux:en[lord]N sux:nam[destiny]N sux:tar[to-cut]V sux:sag₂[to-scatter]V sux:dug₄[to-say]V sux:inim[word]N sux:kug[shining]AJ sux:uru₁₆[to-be-towering]V
-c.2.5.6.3,An adab to Ninurta for Ur-Ninurta (Ur-Ninurta C),,51,sux:Ninurta[1]DN sux:en[lord]N sux:nam[destiny]N sux:tar[to-cut]V sux:sag₂[to-scatter]V sux:dug₄[to-say]V sux:inim[word]N sux:kug[shining]AJ sux:uru₁₆[to-be-towering]V
-c.2.5.6.3,An adab to Ninurta for Ur-Ninurta (Ur-Ninurta C),,52,sux:Ur-Ninurta[1]RN sux:nam[destiny]N sux:dug₃[to-be-good]V sux:mu[year]N sux:nam-til₃[life]N
-c.2.5.6.3,An adab to Ninurta for Ur-Ninurta (Ur-Ninurta C),,53,sux:du-ri₂[eternity]N sux:kur₂[to-be-different]V sux:nam[destiny]N sux:tar[to-cut]V
-c.2.5.6.3,An adab to Ninurta for Ur-Ninurta (Ur-Ninurta C),,54,sux:u₁₈-ru[composition-division]N
-c.2.5.6.3,An adab to Ninurta for Ur-Ninurta (Ur-Ninurta C),,55,sux:a-da-ab[type-of-drum-and-composition]N sux:Ninurta[1]DN
+c.2.5.6.3,An adab to Ninurta for Ur-Ninurta (Ur-Ninurta C),,1,ur-saŋ[hero]N ušum[type-of-snake]N ni₂[fear(someness)]N ri[to-direct]V ni₂[fear(someness)]N huš[to-be-reddish]V dirig[to-be-superior]V gal-di[important]AJ
+c.2.5.6.3,An adab to Ninurta for Ur-Ninurta (Ur-Ninurta C),,2,Ninurta[1]DN mar-uru₅[tempest]N šu[hand]N zig₃[to-rise]V
+c.2.5.6.3,An adab to Ninurta for Ur-Ninurta (Ur-Ninurta C),,3,kalag[to-be-strong]V usu[strength]N mah[to-be-majestic]V tuku[to-have]V kur[(mountain)-land]N e₃[to-go-out-or-in]V
+c.2.5.6.3,An adab to Ninurta for Ur-Ninurta (Ur-Ninurta C),,4,a₂[arm]N nam-ur-saŋ[heroism]N šag₄[heart]N tum₂[to-be-suitable]V gaba[chest]N gi₄[to-return]V tuku[to-have]V
+c.2.5.6.3,An adab to Ninurta for Ur-Ninurta (Ur-Ninurta C),,5,bar-sud[composition-division]N
+c.2.5.6.3,An adab to Ninurta for Ur-Ninurta (Ur-Ninurta C),,6,iri[town]N ki[place]N a₂-dam[habitation]N ŋal₂[to-be-(located)]V ki-bal[rebel-land]N hul-ŋal₂[evil]AJ ak[to-do]V
+c.2.5.6.3,An adab to Ninurta for Ur-Ninurta (Ur-Ninurta C),,7,Ninurta[1]DN piriŋ[lion]N huš[to-be-reddish]V huluh[to-be-frightened]V
+c.2.5.6.3,An adab to Ninurta for Ur-Ninurta (Ur-Ninurta C),,8,DU[DU]V ud[day(light)]N e₃[to-go-out-or-in]V ud[day(light)]N šu₂[to-cover]V an[heaven]N ki[place]N tuku₄[to-shake]V
+c.2.5.6.3,An adab to Ninurta for Ur-Ninurta (Ur-Ninurta C),,9,di-kud[judge]N nir-ŋal₂[authoritative]AJ usu[strength]N mah[to-be-majestic]V tuku[to-have]V ki-bal[rebel-land]N du₇[to-push]V
+c.2.5.6.3,An adab to Ninurta for Ur-Ninurta (Ur-Ninurta C),,10,ud[day(light)]N du₇[to-push]V ŋi₆[night]N u₃-na[designation-of-night]N zig₃[to-rise]V ki-bal[rebel-land]N nu₂[to-lie-down]V
+c.2.5.6.3,An adab to Ninurta for Ur-Ninurta (Ur-Ninurta C),,11,igi[eye]N il₂[to-raise]V hur-saŋ[mountain-(range)]N gal[to-be-big]V teš₂[unity]N tuku₄[to-shake]V
+c.2.5.6.3,An adab to Ninurta for Ur-Ninurta (Ur-Ninurta C),,12,šag₄-ba-tuku[composition-division]N
+c.2.5.6.3,An adab to Ninurta for Ur-Ninurta (Ur-Ninurta C),,13,en[lord]N iri[town]N nam[destiny]N Nunamnir[1]DN ŋiškim-til₃[(source-of)-trust]N a-a[father]N
+c.2.5.6.3,An adab to Ninurta for Ur-Ninurta (Ur-Ninurta C),,14,Ninurta[1]DN a₂[arm]N zid[right]AJ kur[(mountain)-land]N gal[to-be-big]V til₃[to-live]V
+c.2.5.6.3,An adab to Ninurta for Ur-Ninurta (Ur-Ninurta C),,15,eš-bar[decision]N dug₄[to-say]V ki[place]N ŋar[to-place]V di[(law)suit]N zu[to-know]V
+c.2.5.6.3,An adab to Ninurta for Ur-Ninurta (Ur-Ninurta C),,16,bar-sud[composition-division]N 2-kam-ma[2nd]NU
+c.2.5.6.3,An adab to Ninurta for Ur-Ninurta (Ur-Ninurta C),,17,en[lord]N barag[dais]N ni₂[self]N er₉[to-be-mighty]V ŋiri₃[foot]N saga₁₁[to-press]V
+c.2.5.6.3,An adab to Ninurta for Ur-Ninurta (Ur-Ninurta C),,18,hul-du[wicked]AJ erim₂-ŋal₂[evil]AJ e₃[to-go-out-or-in]V
+c.2.5.6.3,An adab to Ninurta for Ur-Ninurta (Ur-Ninurta C),,19,kur[(mountain)-land]N ma-da[land]N daŋal[to-be-wide]V igi[eye]N zid[right]AJ bar[to-set-aside]V nam-he₂[abundance]N du₈[to-spread]V
+c.2.5.6.3,An adab to Ninurta for Ur-Ninurta (Ur-Ninurta C),,20,Ur-Ninurta[1]RN šul[young-man]N za[you-(sg.)]PD ŋal₂[to-be-(located)]V sipad[shepherd]N zid[right]AJ ŋiš[tree]N tuku[to-have]V
+c.2.5.6.3,An adab to Ninurta for Ur-Ninurta (Ur-Ninurta C),,21,ub[corner]N an[heaven]N ki[place]N uŋ₃[people]N ki[place]N ŋar[to-place]V saŋ[head]N rig₇[to-bestow]V
+c.2.5.6.3,An adab to Ninurta for Ur-Ninurta (Ur-Ninurta C),,22,ŋeštug₂[ear]N šum₂[to-give]V Enki[1]DN de₆[to-carry]V zu[to-know]V
+c.2.5.6.3,An adab to Ninurta for Ur-Ninurta (Ur-Ninurta C),,23,saŋ[head]N gig₂[to-be-black]V udu[sheep]N lu[to-be-abundant]V ŋal₂[to-be-(located)]V us₂[path]N dab₅[to-seize]V
+c.2.5.6.3,An adab to Ninurta for Ur-Ninurta (Ur-Ninurta C),,24,sa-gid₂-da[composition-division]N
+c.2.5.6.3,An adab to Ninurta for Ur-Ninurta (Ur-Ninurta C),,25,ur-saŋ[hero]N gal[to-be-big]V Ur-Ninurta[1]RN še[to-agree]V zar[sheaf]N sal[to-be-thin]V
+c.2.5.6.3,An adab to Ninurta for Ur-Ninurta (Ur-Ninurta C),,26,ŋiš-gi₄-ŋal₂[composition-division]N sa-gid₂-da[composition-division]N
+c.2.5.6.3,An adab to Ninurta for Ur-Ninurta (Ur-Ninurta C),,27,Uta-ulu[1]DN en[lord]N dumu[child]N Enlil[1]DN hur-saŋ[mountain-(range)]N e₃[to-go-out-or-in]V
+c.2.5.6.3,An adab to Ninurta for Ur-Ninurta (Ur-Ninurta C),,28,Ninurta[1]DN nam-mah[majesty]N dugud[to-be-heavy]V ar₂[praise]N dug₄[to-say]V
+c.2.5.6.3,An adab to Ninurta for Ur-Ninurta (Ur-Ninurta C),,29,nam-nir-ŋal₂[authority]N nam-mah[majesty]N kalag[to-be-strong]V šag₄[heart]N kur[(mountain)-land]N
+c.2.5.6.3,An adab to Ninurta for Ur-Ninurta (Ur-Ninurta C),,30,ulu₃[south-wind-(storm)]N me-lem₄[(awesome)-radiance]N ud[day(light)]N e₃[to-go-out-or-in]V ud[day(light)]N šu₂[to-cover]V uŋ₃[people]N šar₂[to-be-numerous]V dul[to-cover-(together)]V
+c.2.5.6.3,An adab to Ninurta for Ur-Ninurta (Ur-Ninurta C),,31,a-a[father]N ugu[to-give-birth]V sipad[shepherd]N diŋir[deity]N en[lord]N Nunamnir[1]DN
+c.2.5.6.3,An adab to Ninurta for Ur-Ninurta (Ur-Ninurta C),,32,me[essence]N gal[to-be-big]V an[heaven]N ki[place]N saŋ[head]N keše₂[to-bind]V šu[hand]N gen₆[to-be-firm]V
+c.2.5.6.3,An adab to Ninurta for Ur-Ninurta (Ur-Ninurta C),,33,nam-nir[authority]N nam-zag-dib[excellence]N šum₂[to-give]V gaba[chest]N gi₄[to-return]V tuku[to-have]V
+c.2.5.6.3,An adab to Ninurta for Ur-Ninurta (Ur-Ninurta C),,34,Ninlil[1]DN hi-li[attractiveness]N šag₄[heart]N ki-ig[place]N gal[to-be-big]V aŋ₂[to-measure]V
+c.2.5.6.3,An adab to Ninurta for Ur-Ninurta (Ur-Ninurta C),,35,a-ra₂[way]N niŋ₂[thing]N ak[to-do]V hul₂[to-be-happy]V ni₂[fear(someness)]N il₂[to-raise]V
+c.2.5.6.3,An adab to Ninurta for Ur-Ninurta (Ur-Ninurta C),,36,a-ba[who]PD za[you-(sg.)]PD diŋir[deity]N pa[branch]N e₃[to-go-out-or-in]V mu[name]N an-zag[border-of-heaven]N
+c.2.5.6.3,An adab to Ninurta for Ur-Ninurta (Ur-Ninurta C),,37,šul[young-man]N si[horn]N sa₂[to-equal]V uŋ₃[people]N daŋal[to-be-wide]V pad₃[to-find]V ŋiš₃[penis]N dug₄[to-say]V kur[(mountain)-land]N gal[to-be-big]V
+c.2.5.6.3,An adab to Ninurta for Ur-Ninurta (Ur-Ninurta C),,38,Ur-Ninurta[1]RN la[plenty]N gu₃[voice]N zid[right]AJ de₂[to-pour]V
+c.2.5.6.3,An adab to Ninurta for Ur-Ninurta (Ur-Ninurta C),,39,igi[eye]N šum₂[to-give]V
+c.2.5.6.3,An adab to Ninurta for Ur-Ninurta (Ur-Ninurta C),,40,barag[dais]N za-gin₃[lapis-lazuli]N saŋ[head]N rig₇[to-bestow]V
+c.2.5.6.3,An adab to Ninurta for Ur-Ninurta (Ur-Ninurta C),,41,Ur-Ninurta[1]RN bal[term-(in-office)]N mu[year]N giri₁₇-zal[joy]N tah[to-add]V
+c.2.5.6.3,An adab to Ninurta for Ur-Ninurta (Ur-Ninurta C),,42,iri[town]N maš-gana₂[settlement]N a₂-dam[habitation]N ki[place]N ŋal₂[to-be-(located)]V he₂-ŋal₂[plenty]N du₃[to-erect]V
+c.2.5.6.3,An adab to Ninurta for Ur-Ninurta (Ur-Ninurta C),,43,saŋ[head]N gig₂[to-be-black]V Utu[1]DN e₃[to-go-out-or-in]V igi[eye]N ŋal₂[to-be-(located)]V
+c.2.5.6.3,An adab to Ninurta for Ur-Ninurta (Ur-Ninurta C),,44,tukul[weapon]N kur[(mountain)-land]N gu₂-erim₂-ŋal₂[hostile]AJ ki[place]N tuku₄[to-shake]V
+c.2.5.6.3,An adab to Ninurta for Ur-Ninurta (Ur-Ninurta C),,45,šum₂[to-give]V a₂-dam[habitation]N še[to-agree]V sug-zag[marsh-edge]N gu₇[to-eat]V
+c.2.5.6.3,An adab to Ninurta for Ur-Ninurta (Ur-Ninurta C),,46,Uta-ulu[1]DN Ur-Ninurta[1]RN šu[hand]N ŋal₂[to-be-(located)]V
+c.2.5.6.3,An adab to Ninurta for Ur-Ninurta (Ur-Ninurta C),,47,sa-ŋar-ra[composition-division]N
+c.2.5.6.3,An adab to Ninurta for Ur-Ninurta (Ur-Ninurta C),,48,ur-saŋ[hero]N gal[to-be-big]V Ur-Ninurta[1]RN saŋ-tab[helper]N me[to-be]V
+c.2.5.6.3,An adab to Ninurta for Ur-Ninurta (Ur-Ninurta C),,49,ŋiš-gi₄-ŋal₂[composition-division]N sa-ŋar-ra[composition-division]N
+c.2.5.6.3,An adab to Ninurta for Ur-Ninurta (Ur-Ninurta C),,50,en[lord]N nam[destiny]N tar[to-cut]V sag₂[to-scatter]V dug₄[to-say]V inim[word]N kug[shining]AJ uru₁₆[to-be-towering]V
+c.2.5.6.3,An adab to Ninurta for Ur-Ninurta (Ur-Ninurta C),,51,Ninurta[1]DN en[lord]N nam[destiny]N tar[to-cut]V sag₂[to-scatter]V dug₄[to-say]V inim[word]N kug[shining]AJ uru₁₆[to-be-towering]V
+c.2.5.6.3,An adab to Ninurta for Ur-Ninurta (Ur-Ninurta C),,52,Ur-Ninurta[1]RN nam[destiny]N dug₃[to-be-good]V mu[year]N nam-til₃[life]N
+c.2.5.6.3,An adab to Ninurta for Ur-Ninurta (Ur-Ninurta C),,53,du-ri₂[eternity]N kur₂[to-be-different]V nam[destiny]N tar[to-cut]V
+c.2.5.6.3,An adab to Ninurta for Ur-Ninurta (Ur-Ninurta C),,54,u₁₈-ru[composition-division]N
+c.2.5.6.3,An adab to Ninurta for Ur-Ninurta (Ur-Ninurta C),,55,a-da-ab[type-of-drum-and-composition]N Ninurta[1]DN

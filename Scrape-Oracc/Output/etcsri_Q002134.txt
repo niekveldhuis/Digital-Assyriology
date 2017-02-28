@@ -1,0 +1,8 @@
+id_text,text_name,version,l_no,text
+etcsri/Q002134,Warad-Sin 30,,1,sux:Nanna[1]DN
+etcsri/Q002134,Warad-Sin 30,,2,sux:lugal[king]N
+etcsri/Q002134,Warad-Sin 30,,3,sux:Waradsin[1]RN
+etcsri/Q002134,Warad-Sin 30,,4,sux:ensik[ruler]N
+etcsri/Q002134,Warad-Sin 30,,5,sux:Utu[1]DN
+etcsri/Q002134,Warad-Sin 30,,6,sux:dumu[child]N sux:Kudurmabuk[1]RN
+etcsri/Q002134,Warad-Sin 30,,7,sux:adda[father]N sux:kur[mountain]N sux:Martu[1]EN

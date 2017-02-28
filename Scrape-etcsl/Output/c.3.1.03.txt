@@ -1,19 +1,19 @@
 id_text,text_name,version,l_no,text
-c.3.1.03,Letter from Aradŋu to Šulgi about irrigation work,,1,sux:lugal[king]N sux:dug₄[to-say]V
-c.3.1.03,Letter from Aradŋu to Šulgi about irrigation work,,2,sux:Aradŋu[1]PN sux:arad[slave]N sux:dug₄[to-say]V
-c.3.1.03,Letter from Aradŋu to Šulgi about irrigation work,,3,sux:lugal[king]N sux:niŋ₂[thing]N sux:na-me[any]PD sux:a₂-še[now]AV sux:aŋ₂[to-measure]V
-c.3.1.03,Letter from Aradŋu to Šulgi about irrigation work,,4,sux:a-ab-ba[sea(water)]N sux:kur[(mountain)-land]N sux:Dilmun[1]GN
-c.3.1.03,Letter from Aradŋu to Šulgi about irrigation work,,5,sux:a[water]N sux:mun[salt]N sux:gaba[chest]N sux:kur[(mountain)-land]N sux:Martu[1]EN
-c.3.1.03,Letter from Aradŋu to Šulgi about irrigation work,,6,sux:da[side]N sux:Simurrum[1]SN sux:ma-da[land]N sux:unclear[1]SN
-c.3.1.03,Letter from Aradŋu to Šulgi about irrigation work,,7,sux:iri[town]N sux:dili[single]AJ sux:ma-da[land]N
-c.3.1.03,Letter from Aradŋu to Šulgi about irrigation work,,8,sux:id₂[watercourse]N sux:a-šag₄[field]N sux:a-gar₃[meadow]N sux:u₃[and]C sux:eg₂[embankment]N sux:pa₅[canal]N
-c.3.1.03,Letter from Aradŋu to Šulgi about irrigation work,,9,sux:igi[eye]N sux:en[lord]N sux:šag₄[heart]N
-c.3.1.03,Letter from Aradŋu to Šulgi about irrigation work,,10,sux:iri[town]N sux:ŋiš[tree]N sux:tuku[to-have]V sux:lugal[king]N
-c.3.1.03,Letter from Aradŋu to Šulgi about irrigation work,,11,sux:ki[place]N sux:ur₂[root]N
-c.3.1.03,Letter from Aradŋu to Šulgi about irrigation work,,12,sux:bad₃[wall]N sux:en-nu-uŋ₃[guard]N sux:kalag[to-be-strong]V sux:gub[to-stand]V
-c.3.1.03,Letter from Aradŋu to Šulgi about irrigation work,,13,sux:ugnim[troops]N sux:gu₂[neck]N sux:ŋiš[tree]N sux:ŋar[to-place]V
-c.3.1.03,Letter from Aradŋu to Šulgi about irrigation work,,14,sux:sig[to-be-low]V
-c.3.1.03,Letter from Aradŋu to Šulgi about irrigation work,,15,sux:a-gar₃[meadow]N sux:a[water]N sux:ŋar[to-place]V sux:a[water]N sux:e₃[to-go-out-or-in]V
-c.3.1.03,Letter from Aradŋu to Šulgi about irrigation work,,16,sux:eg₂[embankment]N sux:zal[to-pass]V sux:ak[to-do]V
-c.3.1.03,Letter from Aradŋu to Šulgi about irrigation work,,17,sux:a-šag₄[field]N sux:ŋiš-gi[reedbed]N
-c.3.1.03,Letter from Aradŋu to Šulgi about irrigation work,,18,sux:saŋ[head]N sux:sag₃[to-beat]V
+c.3.1.03,Letter from Aradŋu to Šulgi about irrigation work,,1,lugal[king]N dug₄[to-say]V
+c.3.1.03,Letter from Aradŋu to Šulgi about irrigation work,,2,Aradŋu[1]PN arad[slave]N dug₄[to-say]V
+c.3.1.03,Letter from Aradŋu to Šulgi about irrigation work,,3,lugal[king]N niŋ₂[thing]N na-me[any]PD a₂-še[now]AV aŋ₂[to-measure]V
+c.3.1.03,Letter from Aradŋu to Šulgi about irrigation work,,4,a-ab-ba[sea(water)]N kur[(mountain)-land]N Dilmun[1]GN
+c.3.1.03,Letter from Aradŋu to Šulgi about irrigation work,,5,a[water]N mun[salt]N gaba[chest]N kur[(mountain)-land]N Martu[1]EN
+c.3.1.03,Letter from Aradŋu to Šulgi about irrigation work,,6,da[side]N Simurrum[1]SN ma-da[land]N unclear[1]SN
+c.3.1.03,Letter from Aradŋu to Šulgi about irrigation work,,7,iri[town]N dili[single]AJ ma-da[land]N
+c.3.1.03,Letter from Aradŋu to Šulgi about irrigation work,,8,id₂[watercourse]N a-šag₄[field]N a-gar₃[meadow]N u₃[and]C eg₂[embankment]N pa₅[canal]N
+c.3.1.03,Letter from Aradŋu to Šulgi about irrigation work,,9,igi[eye]N en[lord]N šag₄[heart]N
+c.3.1.03,Letter from Aradŋu to Šulgi about irrigation work,,10,iri[town]N ŋiš[tree]N tuku[to-have]V lugal[king]N
+c.3.1.03,Letter from Aradŋu to Šulgi about irrigation work,,11,ki[place]N ur₂[root]N
+c.3.1.03,Letter from Aradŋu to Šulgi about irrigation work,,12,bad₃[wall]N en-nu-uŋ₃[guard]N kalag[to-be-strong]V gub[to-stand]V
+c.3.1.03,Letter from Aradŋu to Šulgi about irrigation work,,13,ugnim[troops]N gu₂[neck]N ŋiš[tree]N ŋar[to-place]V
+c.3.1.03,Letter from Aradŋu to Šulgi about irrigation work,,14,sig[to-be-low]V
+c.3.1.03,Letter from Aradŋu to Šulgi about irrigation work,,15,a-gar₃[meadow]N a[water]N ŋar[to-place]V a[water]N e₃[to-go-out-or-in]V
+c.3.1.03,Letter from Aradŋu to Šulgi about irrigation work,,16,eg₂[embankment]N zal[to-pass]V ak[to-do]V
+c.3.1.03,Letter from Aradŋu to Šulgi about irrigation work,,17,a-šag₄[field]N ŋiš-gi[reedbed]N
+c.3.1.03,Letter from Aradŋu to Šulgi about irrigation work,,18,saŋ[head]N sag₃[to-beat]V

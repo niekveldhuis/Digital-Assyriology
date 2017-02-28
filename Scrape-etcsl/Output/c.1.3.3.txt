@@ -1,26 +1,26 @@
 id_text,text_name,version,l_no,text
-c.1.3.3,Inana and Šu-kale-tuda,,1,sux:in-nin[mistress]N sux:me[essence]N sux:gal[to-be-big]V sux:barag[dais]N sux:he₂-du₇[(fitting)-ornament]N
-c.1.3.3,Inana and Šu-kale-tuda,,2,sux:Inana[1]DN sux:me[essence]N sux:gal[to-be-big]V sux:barag[dais]N sux:kug[shining]AJ sux:si[to-fill]V
-c.1.3.3,Inana and Šu-kale-tuda,,3,sux:Inana[1]DN sux:E-ana[1]TN sux:u₆[wonder]N sux:dug₄[to-say]V sux:gub[to-stand]V
-c.1.3.3,Inana and Šu-kale-tuda,,4,sux:ud[day(light)]N sux:ki-sikil[young-woman]N sux:kur[(mountain)-land]N sux:ed₃[to-go-down-or-up]V
-c.1.3.3,Inana and Šu-kale-tuda,,5,sux:kug[shining]AJ sux:Inana[1]DN sux:kur[(mountain)-land]N sux:ed₃[to-go-down-or-up]V
-c.1.3.3,Inana and Šu-kale-tuda,,6,sux:niŋ₂-erim₂[fraudulent-action]N sux:niŋ₂-si-sa₂[justice]N sux:zu[to-know]V
-c.1.3.3,Inana and Šu-kale-tuda,,7,sux:šag₄[heart]N sux:kalam[the-Land]N sux:igi[eye]N sux:kar₂[to-blow]V
-c.1.3.3,Inana and Šu-kale-tuda,,8,sux:lul[to-be-false]V sux:zid[right]AJ sux:pad₃[to-find]V sux:kur[(mountain)-land]N sux:il₂[to-raise]V
-c.1.3.3,Inana and Šu-kale-tuda,,9,sux:i₃-ne-eš₂[now]AV sux:lu₂[person]N sux:lu₂[person]N sux:a-na[what]PD sux:dug₄[to-say]V
-c.1.3.3,Inana and Šu-kale-tuda,,10,sux:lu₂[person]N sux:lu₂[person]N sux:dili[single]AJ sux:a-na[what]PD sux:tah[to-add]V
-c.1.3.3,Inana and Šu-kale-tuda,,11,sux:nin[lady]N sux:am[wild-bull]N sux:kur-ur₂[foot(hill)-of-mountain]N sux:gub[to-stand]V sux:me[essence]N sux:šu[hand]N sux:du₇[to-be-perfect]V
-c.1.3.3,Inana and Šu-kale-tuda,,12,sux:Inana[1]DN sux:tarah-maš[stag]N sux:kur-bad₃[mountain-peak]N sux:gub[to-stand]V sux:me[essence]N sux:šu[hand]N sux:du₇[to-be-perfect]V
-c.1.3.3,Inana and Šu-kale-tuda,,13,sux:i₃-ne-eš₂[now]AV sux:lu₂[person]N sux:lu₂[person]N sux:a-na[what]PD sux:dug₄[to-say]V
-c.1.3.3,Inana and Šu-kale-tuda,,14,sux:lu₂-ulu₃[person]N sux:lu₂-ulu₃[person]N sux:dili[single]AJ sux:a-na[what]PD sux:tah[to-add]V
-c.1.3.3,Inana and Šu-kale-tuda,,15,sux:ud[day(light)]N sux:an[heaven]N sux:šub[to-fall]V sux:ki[place]N sux:šub[to-fall]V sux:kur[(mountain)-land]N sux:il₂[to-raise]V
-c.1.3.3,Inana and Šu-kale-tuda,,16,sux:Inana[1]DN sux:an[heaven]N sux:šub[to-fall]V sux:ki[place]N sux:šub[to-fall]V sux:kur[(mountain)-land]N sux:il₂[to-raise]V
-c.1.3.3,Inana and Šu-kale-tuda,,17,sux:Unug[1]SN sux:E-ana[1]TN sux:šub[to-fall]V sux:kur[(mountain)-land]N sux:il₂[to-raise]V
-c.1.3.3,Inana and Šu-kale-tuda,,18,sux:Zabalam[1]SN sux:Giguna[1]TN sux:šub[to-fall]V sux:kur[(mountain)-land]N sux:il₂[to-raise]V
-c.1.3.3,Inana and Šu-kale-tuda,,19,sux:E-ana[1]TN sux:e₃[to-go-out-or-in]V sux:ŋi₆-par₄[cloister]N sux:la₂[to-hang]V
-c.1.3.3,Inana and Šu-kale-tuda,,20,sux:Inana[1]DN sux:tug₂-ba₁₃[type-of-garment]N sux:la₂[to-hang]V sux:kur[(mountain)-land]N sux:il₂[to-raise]V
-c.1.3.3,Inana and Šu-kale-tuda,,21,sux:i₃-ne-eš₂[now]AV sux:lu₂[person]N sux:lu₂[person]N sux:a-na[what]PD sux:dug₄[to-say]V
-c.1.3.3,Inana and Šu-kale-tuda,,22,sux:lu₂-ulu₃[person]N sux:lu₂-ulu₃[person]N sux:dili[single]AJ sux:a-na[what]PD sux:tah[to-add]V
+c.1.3.3,Inana and Šu-kale-tuda,,1,in-nin[mistress]N me[essence]N gal[to-be-big]V barag[dais]N he₂-du₇[(fitting)-ornament]N
+c.1.3.3,Inana and Šu-kale-tuda,,2,Inana[1]DN me[essence]N gal[to-be-big]V barag[dais]N kug[shining]AJ si[to-fill]V
+c.1.3.3,Inana and Šu-kale-tuda,,3,Inana[1]DN E-ana[1]TN u₆[wonder]N dug₄[to-say]V gub[to-stand]V
+c.1.3.3,Inana and Šu-kale-tuda,,4,ud[day(light)]N ki-sikil[young-woman]N kur[(mountain)-land]N ed₃[to-go-down-or-up]V
+c.1.3.3,Inana and Šu-kale-tuda,,5,kug[shining]AJ Inana[1]DN kur[(mountain)-land]N ed₃[to-go-down-or-up]V
+c.1.3.3,Inana and Šu-kale-tuda,,6,niŋ₂-erim₂[fraudulent-action]N niŋ₂-si-sa₂[justice]N zu[to-know]V
+c.1.3.3,Inana and Šu-kale-tuda,,7,šag₄[heart]N kalam[the-Land]N igi[eye]N kar₂[to-blow]V
+c.1.3.3,Inana and Šu-kale-tuda,,8,lul[to-be-false]V zid[right]AJ pad₃[to-find]V kur[(mountain)-land]N il₂[to-raise]V
+c.1.3.3,Inana and Šu-kale-tuda,,9,i₃-ne-eš₂[now]AV lu₂[person]N lu₂[person]N a-na[what]PD dug₄[to-say]V
+c.1.3.3,Inana and Šu-kale-tuda,,10,lu₂[person]N lu₂[person]N dili[single]AJ a-na[what]PD tah[to-add]V
+c.1.3.3,Inana and Šu-kale-tuda,,11,nin[lady]N am[wild-bull]N kur-ur₂[foot(hill)-of-mountain]N gub[to-stand]V me[essence]N šu[hand]N du₇[to-be-perfect]V
+c.1.3.3,Inana and Šu-kale-tuda,,12,Inana[1]DN tarah-maš[stag]N kur-bad₃[mountain-peak]N gub[to-stand]V me[essence]N šu[hand]N du₇[to-be-perfect]V
+c.1.3.3,Inana and Šu-kale-tuda,,13,i₃-ne-eš₂[now]AV lu₂[person]N lu₂[person]N a-na[what]PD dug₄[to-say]V
+c.1.3.3,Inana and Šu-kale-tuda,,14,lu₂-ulu₃[person]N lu₂-ulu₃[person]N dili[single]AJ a-na[what]PD tah[to-add]V
+c.1.3.3,Inana and Šu-kale-tuda,,15,ud[day(light)]N an[heaven]N šub[to-fall]V ki[place]N šub[to-fall]V kur[(mountain)-land]N il₂[to-raise]V
+c.1.3.3,Inana and Šu-kale-tuda,,16,Inana[1]DN an[heaven]N šub[to-fall]V ki[place]N šub[to-fall]V kur[(mountain)-land]N il₂[to-raise]V
+c.1.3.3,Inana and Šu-kale-tuda,,17,Unug[1]SN E-ana[1]TN šub[to-fall]V kur[(mountain)-land]N il₂[to-raise]V
+c.1.3.3,Inana and Šu-kale-tuda,,18,Zabalam[1]SN Giguna[1]TN šub[to-fall]V kur[(mountain)-land]N il₂[to-raise]V
+c.1.3.3,Inana and Šu-kale-tuda,,19,E-ana[1]TN e₃[to-go-out-or-in]V ŋi₆-par₄[cloister]N la₂[to-hang]V
+c.1.3.3,Inana and Šu-kale-tuda,,20,Inana[1]DN tug₂-ba₁₃[type-of-garment]N la₂[to-hang]V kur[(mountain)-land]N il₂[to-raise]V
+c.1.3.3,Inana and Šu-kale-tuda,,21,i₃-ne-eš₂[now]AV lu₂[person]N lu₂[person]N a-na[what]PD dug₄[to-say]V
+c.1.3.3,Inana and Šu-kale-tuda,,22,lu₂-ulu₃[person]N lu₂-ulu₃[person]N dili[single]AJ a-na[what]PD tah[to-add]V
 c.1.3.3,Inana and Šu-kale-tuda,,24,
 c.1.3.3,Inana and Šu-kale-tuda,,25,
 c.1.3.3,Inana and Šu-kale-tuda,,26,
@@ -28,272 +28,272 @@ c.1.3.3,Inana and Šu-kale-tuda,,27,
 c.1.3.3,Inana and Šu-kale-tuda,,28,
 c.1.3.3,Inana and Šu-kale-tuda,,29,
 c.1.3.3,Inana and Šu-kale-tuda,,30,
-c.1.3.3,Inana and Šu-kale-tuda,,38,sux:en₃[noun-part-of-multiword-verb]N sux:tar[to-cut]V sux:ki[place]N sux:kiŋ₂[to-seek]V sux:kuš₂[to-be-tired]V
-c.1.3.3,Inana and Šu-kale-tuda,,39,sux:dag[residence]N sux:agrun[cella]N sux:ni₂-te-a-ni[himself;-herself]PD sux:ŋen[to-go]V
-c.1.3.3,Inana and Šu-kale-tuda,,40,sux:i₃-ne-eš₂[now]AV sux:lu₂[person]N sux:lu₂[person]N sux:a-na[what]PD sux:dug₄[to-say]V
-c.1.3.3,Inana and Šu-kale-tuda,,41,sux:lu₂[person]N sux:lu₂[person]N sux:dili[single]AJ sux:a-na[what]PD sux:tah[to-add]V
+c.1.3.3,Inana and Šu-kale-tuda,,38,en₃[noun-part-of-multiword-verb]N tar[to-cut]V ki[place]N kiŋ₂[to-seek]V kuš₂[to-be-tired]V
+c.1.3.3,Inana and Šu-kale-tuda,,39,dag[residence]N agrun[cella]N ni₂-te-a-ni[himself;-herself]PD ŋen[to-go]V
+c.1.3.3,Inana and Šu-kale-tuda,,40,i₃-ne-eš₂[now]AV lu₂[person]N lu₂[person]N a-na[what]PD dug₄[to-say]V
+c.1.3.3,Inana and Šu-kale-tuda,,41,lu₂[person]N lu₂[person]N dili[single]AJ a-na[what]PD tah[to-add]V
 c.1.3.3,Inana and Šu-kale-tuda,,44,
 c.1.3.3,Inana and Šu-kale-tuda,,45,
-c.1.3.3,Inana and Šu-kale-tuda,,46,sux:dim₂[to-create]V
-c.1.3.3,Inana and Šu-kale-tuda,,47,sux:ŋiri₃[foot]N sux:inim[word]N sux:dug₄[to-say]V
-c.1.3.3,Inana and Šu-kale-tuda,,48,sux:ŋeštug₂[ear]N sux:inim[word]N sux:tah[to-add]V
-c.1.3.3,Inana and Šu-kale-tuda,,49,sux:uga[raven]N sux:inim[word]N sux:dug₄[to-say]V sux:inim[word]N sux:ŋeštug₂[ear]N
-c.1.3.3,Inana and Šu-kale-tuda,,50,sux:uga[raven]N sux:eš₃[shrine]N sux:inim[word]N sux:dug₄[to-say]V sux:inim[word]N sux:ŋeštug₂[ear]N
-c.1.3.3,Inana and Šu-kale-tuda,,51,sux:šembi₂-zid[kohl]N sux:nam-išib[type-of-priestcraft]N sux:Eridug[1]SN
-c.1.3.3,Inana and Šu-kale-tuda,,52,sux:i₃[fatty-substance]N sux:a[water]N sux:bur[type-of-bowl]N sux:za-gin₃[lapis-lazuli]N sux:ŋal₂[to-be-(located)]V
-c.1.3.3,Inana and Šu-kale-tuda,,53,sux:dag[residence]N sux:agrun[cella]N sux:gub[to-stand]V
-c.1.3.3,Inana and Šu-kale-tuda,,54,sux:tun₃[type-of-axe]N sux:DU[DU]V sux:zu₂[tooth]N sux:gub[to-stand]V
-c.1.3.3,Inana and Šu-kale-tuda,,55,sux:umah[waterlogged-ground]N sux:ga-raš[leek]N sux:sar[garden-plot]N sux:nisig[greenery]N sux:ki[place]N sux:tag[to-touch]V
-c.1.3.3,Inana and Šu-kale-tuda,,56,sux:bur₁₂[to-tear-out]V
-c.1.3.3,Inana and Šu-kale-tuda,,57,sux:i₃-ne-eš₂[now]AV sux:lu₂[person]N sux:lu₂[person]N sux:a-na[what]PD sux:dug₄[to-say]V
-c.1.3.3,Inana and Šu-kale-tuda,,58,sux:lu₂[person]N sux:lu₂[person]N sux:dili[single]AJ sux:a-na[what]PD sux:tah[to-add]V
-c.1.3.3,Inana and Šu-kale-tuda,,59,sux:uga[raven]N sux:inim[word]N sux:lugal[king]N sux:saŋ[head]N sux:keše₂[to-bind]V sux:ak[to-do]V
-c.1.3.3,Inana and Šu-kale-tuda,,60,sux:šembi₂-zid[kohl]N sux:nam-išib[type-of-priestcraft]N sux:Eridug[1]SN
-c.1.3.3,Inana and Šu-kale-tuda,,61,sux:i₃[fatty-substance]N sux:a[water]N sux:bur[type-of-bowl]N sux:za-gin₃[lapis-lazuli]N sux:ŋal₂[to-be-(located)]V
-c.1.3.3,Inana and Šu-kale-tuda,,62,sux:dag[residence]N sux:agrun[cella]N sux:gub[to-stand]V
-c.1.3.3,Inana and Šu-kale-tuda,,63,sux:tun₃[type-of-axe]N sux:DU[DU]V sux:zu₂[tooth]N sux:gub[to-stand]V
-c.1.3.3,Inana and Šu-kale-tuda,,64,sux:umah[waterlogged-ground]N sux:ga-raš[leek]N sux:sar[garden-plot]N sux:nisig[greenery]N sux:ki[place]N sux:tag[to-touch]V
-c.1.3.3,Inana and Šu-kale-tuda,,65,sux:bur₁₂[to-tear-out]V
-c.1.3.3,Inana and Šu-kale-tuda,,66,sux:nisig[greenery]N sux:ga-raš[leek]N sux:sar[garden-plot]N sux:mu₂[to-grow]V
-c.1.3.3,Inana and Šu-kale-tuda,,67,sux:ga-raš[leek]N sux:nu-erim₂[enemy]N sux:gub[to-stand]V sux:a-ba[who]PD sux:igi[eye]N sux:du₈[to-spread]V
-c.1.3.3,Inana and Šu-kale-tuda,,68,sux:igi[eye]N sux:ur₄[to-collect]V sux:mu₂[to-grow]V sux:ŋen[to-go]V sux:ŋen[to-go]V
-c.1.3.3,Inana and Šu-kale-tuda,,69,sux:mušen[bird]N sux:uga[raven]N sux:a₂[arm]N sux:lu₂[person]N sux:kiŋ₂[to-seek]V
-c.1.3.3,Inana and Šu-kale-tuda,,70,sux:lag[lump]N sux:an[heaven]N sux:sag₃[to-beat]V sux:ki[place]N sux:tuš[to-sit]V
-c.1.3.3,Inana and Šu-kale-tuda,,71,sux:lag[lump]N sux:ki[place]N sux:sag₃[to-beat]V sux:an[heaven]N sux:e₃[to-go-out-or-in]V sux:a-ba[who]PD sux:igi[eye]N sux:du₈[to-spread]V
-c.1.3.3,Inana and Šu-kale-tuda,,72,sux:uga[raven]N sux:nu-erim₂[enemy]N sux:zig₃[to-rise]V
-c.1.3.3,Inana and Šu-kale-tuda,,73,sux:ŋišnimbar[date-palm]N sux:tubaₓ-la₂-a[harness-(for-climbing)]N sux:an[heaven]N sux:ed₃[to-go-down-or-up]V
-c.1.3.3,Inana and Šu-kale-tuda,,74,sux:šembi₂-zid[kohl]N sux:ka[mouth]N sux:du₈[to-spread]V
-c.1.3.3,Inana and Šu-kale-tuda,,75,sux:pa[branch]N sux:šu[hand]N sux:gur[to-turn]V sux:ka[mouth]N sux:su-ub[to-rub]V
-c.1.3.3,Inana and Šu-kale-tuda,,76,sux:ŋišnimbar[date-palm]N sux:ki-in-du[(stretch-of)-earth]N
-c.1.3.3,Inana and Šu-kale-tuda,,77,sux:ŋiš[tree]N sux:da-ri₂[eternal]AJ sux:mu₂[to-grow]V sux:a-ba[who]PD sux:igi[eye]N sux:du₈[to-spread]V
-c.1.3.3,Inana and Šu-kale-tuda,,78,sux:eme-EŠ₂.UŠ-eme-EŠ₂.UŠ[scaly-leaves]N sux:šag₄-ŋišnimbar[palmheart]N sux:me[to-be]V
-c.1.3.3,Inana and Šu-kale-tuda,,79,sux:eme-šu-ru-ug-eme-šu-ru-ug[dried-palm-fronds]N sux:niŋ₂-ŋišnimbar[weaving-material]N sux:me[to-be]V
-c.1.3.3,Inana and Šu-kale-tuda,,80,sux:peš-tur-ZI[(off)shoot]N sux:eš₂-gana₂[measuring-line]N
-c.1.3.3,Inana and Šu-kale-tuda,,81,sux:gana₂[field]N sux:lugal[king]N sux:me-te[(fitting)-attribute]N sux:ŋal₂[to-be-(located)]V
-c.1.3.3,Inana and Šu-kale-tuda,,82,sux:pa[branch]N sux:e₂-gal[palace]N sux:lugal[king]N sux:na[smoke?]N sux:de₅[to-collect]V sux:šum₂[to-give]V
-c.1.3.3,Inana and Šu-kale-tuda,,83,sux:zu₂-lum[date]N sux:še[barley]N sux:nir[to-winnow]V sux:zag[side]N sux:sig₉[to-put]V
-c.1.3.3,Inana and Šu-kale-tuda,,84,sux:e₂[house(hold)]N sux:diŋir[deity]N sux:gal[to-be-big]V sux:me-te[(fitting)-attribute]N sux:ŋal₂[to-be-(located)]V
-c.1.3.3,Inana and Šu-kale-tuda,,85,sux:mušen[bird]N sux:uga[raven]N sux:a₂[arm]N sux:lu₂[person]N sux:kiŋ₂[to-seek]V
-c.1.3.3,Inana and Šu-kale-tuda,,86,sux:lag[lump]N sux:an[heaven]N sux:sag₃[to-beat]V sux:ki[place]N sux:tuš[to-sit]V
-c.1.3.3,Inana and Šu-kale-tuda,,87,sux:lag[lump]N sux:ki[place]N sux:sag₃[to-beat]V sux:an[heaven]N sux:e₃[to-go-out-or-in]V sux:a-ba[who]PD sux:igi[eye]N sux:du₈[to-spread]V
-c.1.3.3,Inana and Šu-kale-tuda,,88,sux:inim[word]N sux:dug₄[to-say]V sux:lugal[king]N sux:uga[raven]N sux:abzu[underground-water]N sux:kur₉[to-enter]V
-c.1.3.3,Inana and Šu-kale-tuda,,89,sux:i₃-ne-eš₂[now]AV sux:lu₂[person]N sux:lu₂[person]N sux:a-na[what]PD sux:dug₄[to-say]V
-c.1.3.3,Inana and Šu-kale-tuda,,90,sux:lu₂[person]N sux:lu₂[person]N sux:dili[single]AJ sux:a-na[what]PD sux:tah[to-add]V
-c.1.3.3,Inana and Šu-kale-tuda,,91,sux:Šu-kale-tuda[1]PN sux:mu[name]N sux:me[to-be]V
-c.1.3.3,Inana and Šu-kale-tuda,,92,sux:dumu[child]N sux:Igi-sigsig[1]DN sux:lu₂[person]N
-c.1.3.3,Inana and Šu-kale-tuda,,93,sux:mu₂-sar[garden]N sux:a[water]N sux:sig₁₀[to-place]V
-c.1.3.3,Inana and Šu-kale-tuda,,94,sux:nisig[greenery]N sux:da[side]N sux:pu₂[(water)-hole]N sux:ak[to-do]V
-c.1.3.3,Inana and Šu-kale-tuda,,95,sux:nisig[greenery]N sux:dili[single]AJ sux:me[to-be]V sux:a-na[what(ever)]PD sux:me[to-be]V
-c.1.3.3,Inana and Šu-kale-tuda,,96,sux:ur₂[root]N sux:bal[to-turn-over]V sux:zu₂[tooth]N sux:gaz[to-strike-(dead)]V
-c.1.3.3,Inana and Šu-kale-tuda,,97,sux:tum₉-dal[storm-wind]N sux:a-na[what]PD sux:de₆[to-carry]V
-c.1.3.3,Inana and Šu-kale-tuda,,98,sux:igi[eye]N sux:sahar[earth]N sux:kur[(mountain)-land]N sux:ra[to-beat]V
-c.1.3.3,Inana and Šu-kale-tuda,,99,sux:ub[corner]N sux:igi[eye]N sux:šu[hand]N sux:sa₂[to-equal]V
-c.1.3.3,Inana and Šu-kale-tuda,,100,sux:niŋ₂[thing]N sux:sig₉[to-put]V sux:zag[side]N sux:zu[to-know]V
-c.1.3.3,Inana and Šu-kale-tuda,,101,sux:sig[to-be-low]V sux:igi[eye]N sux:il₂[to-raise]V sux:diŋir[deity]N sux:un₃[to-be-high]V sux:kur[(mountain)-land]N sux:ud[day(light)]N sux:e₃[to-go-out-or-in]V sux:igi[eye]N sux:du₈[to-spread]V
-c.1.3.3,Inana and Šu-kale-tuda,,102,sux:nim[upper-(land)]N sux:igi[eye]N sux:il₂[to-raise]V sux:diŋir[deity]N sux:un₃[to-be-high]V sux:kur[(mountain)-land]N sux:ud[day(light)]N sux:šu₂[to-cover]V sux:igi[eye]N sux:du₈[to-spread]V
-c.1.3.3,Inana and Šu-kale-tuda,,103,sux:gidim[ghost]N sux:dili[single]AJ sux:ŋen[to-go]V sux:igi[eye]N sux:du₈[to-spread]V
-c.1.3.3,Inana and Šu-kale-tuda,,104,sux:diŋir[deity]N sux:dili[single]AJ sux:ŋen[to-go]V sux:ŋiškim[sign]N sux:zu[to-know]V
-c.1.3.3,Inana and Šu-kale-tuda,,105,sux:me[essence]N sux:šu[hand]N sux:du₇[to-be-perfect]V sux:igi[eye]N sux:du₈[to-spread]V
-c.1.3.3,Inana and Šu-kale-tuda,,106,sux:nam[destiny]N sux:tar[to-cut]V sux:diŋir[deity]N sux:igi[eye]N sux:ŋal₂[to-be-(located)]V
-c.1.3.3,Inana and Šu-kale-tuda,,107,sux:sar[garden-plot]N sux:ki[place]N sux:5[5]NU sux:10[10]NU sux:te[to-approach]V
-c.1.3.3,Inana and Šu-kale-tuda,,108,sux:ki[place]N sux:ŋiš-an-dul₃[shady-tree]N sux:1[1]NU sux:gub[to-stand]V
-c.1.3.3,Inana and Šu-kale-tuda,,109,sux:ŋiš-an-dul₃[shady-tree]N sux:asal₂[poplar]N sux:ŋissu[(protective)-shade]N sux:daŋal[to-be-wide]V
-c.1.3.3,Inana and Šu-kale-tuda,,110,sux:ŋissu[(protective)-shade]N sux:sig[to-be-low]V sux:ud[day(light)]N sux:zal[to-pass]V
-c.1.3.3,Inana and Šu-kale-tuda,,111,sux:an-bar₇[midday]N sux:an-usan[evening]N sux:gi₄[to-return]V
-c.1.3.3,Inana and Šu-kale-tuda,,112,sux:ud[day(light)]N sux:nin[lady]N sux:an[heaven]N sux:niŋin₂[to-go-around]V sux:ki[place]N sux:niŋin₂[to-go-around]V
-c.1.3.3,Inana and Šu-kale-tuda,,113,sux:Inana[1]DN sux:an[heaven]N sux:niŋin₂[to-go-around]V sux:ki[place]N sux:niŋin₂[to-go-around]V
-c.1.3.3,Inana and Šu-kale-tuda,,114,sux:Elam[1]GN sux:Subir[1]GN sux:niŋin₂[to-go-around]V
-c.1.3.3,Inana and Šu-kale-tuda,,115,sux:dubur[horizon]N sux:an[heaven]N sux:gilim[to-be-intertwined]V sux:niŋin₂[to-go-around]V
-c.1.3.3,Inana and Šu-kale-tuda,,116,sux:nu-u₈-gig[high-status-woman]N sux:kuš₂[to-be-tired]V sux:te[to-approach]V sux:dur₂[rump]N sux:nu₂[to-lie-down]V
-c.1.3.3,Inana and Šu-kale-tuda,,117,sux:Šu-kale-tuda[1]PN sux:zag[side]N sux:sar[garden-plot]N sux:igi[eye]N sux:sig₁₀[to-place]V
-c.1.3.3,Inana and Šu-kale-tuda,,118,sux:Inana[1]DN sux:dara₄[loincloth?]N sux:me[essence]N sux:7[7]NU sux:gal₄-la[female-genitals]N
-c.1.3.3,Inana and Šu-kale-tuda,,119,sux:dara₄[loincloth?]N sux:me[essence]N sux:7[7]NU sux:gal₄-la[female-genitals]N
-c.1.3.3,Inana and Šu-kale-tuda,,120,sux-x-emesal:su₈-ba[shepherd]N sux:Ama-ušumgal-ana[1]DN
-c.1.3.3,Inana and Šu-kale-tuda,,121,sux:gal₄-la[female-genitals]N sux:kug[shining]AJ sux:lu₂[person]N
-c.1.3.3,Inana and Šu-kale-tuda,,122,sux:Šu-kale-tuda[1]PN sux:du₈[to-spread]V sux:dagan[(sleeping)-chamber]N sux:nu₂[to-lie-down]V
-c.1.3.3,Inana and Šu-kale-tuda,,123,sux:ŋiš₃[penis]N sux:dug₄[to-say]V sux:ne[noun-part-of-multiword-verb]N sux:su-ub[to-rub]V
-c.1.3.3,Inana and Šu-kale-tuda,,124,sux:ŋiš₃[penis]N sux:dug₄[to-say]V sux:ne[noun-part-of-multiword-verb]N sux:su-ub[to-rub]V
-c.1.3.3,Inana and Šu-kale-tuda,,125,sux:zag[side]N sux:sar[garden-plot]N sux:gi₄[to-return]V
-c.1.3.3,Inana and Šu-kale-tuda,,126,sux:ud[day(light)]N sux:zal[to-pass]V sux:Utu[1]DN sux:e₃[to-go-out-or-in]V
-c.1.3.3,Inana and Šu-kale-tuda,,127,sux:munus[woman]N sux:ni₂-te-a-ni[himself;-herself]PD sux:igi[eye]N sux:kar₂[to-blow]V
-c.1.3.3,Inana and Šu-kale-tuda,,128,sux:kug[shining]AJ sux:Inana[1]DN sux:ni₂-te-a-ni[himself;-herself]PD sux:igi[eye]N sux:kar₂[to-blow]V
-c.1.3.3,Inana and Šu-kale-tuda,,129,sux:ud[day(light)]N sux:munus[woman]N sux:nam[destiny]N sux:gal₄-la[female-genitals]N sux:a-na[what(ever)]PD sux:gul[to-destroy]V
-c.1.3.3,Inana and Šu-kale-tuda,,130,sux:kug[shining]AJ sux:Inana[1]DN sux:nam[destiny]N sux:gal₄-la[female-genitals]N sux:a-na[what(ever)]PD sux:ak[to-do]V
-c.1.3.3,Inana and Šu-kale-tuda,,131,sux:pu₂[(water)-hole]N sux:kalam[the-Land]N sux:uš₂[gore]N sux:si[to-fill]V
-c.1.3.3,Inana and Šu-kale-tuda,,132,sux:pu₂-kiri₆[orchard]N sux:kalam[the-Land]N sux:uš₂[gore]N sux:de₆[to-carry]V
-c.1.3.3,Inana and Šu-kale-tuda,,133,sux:arad[slave]N sux:lu₂[person]N sux:u₂[plant]N sux:il₂[to-raise]V sux:ŋen[to-go]V sux:uš₂[gore]N sux:naŋ[to-drink]V
-c.1.3.3,Inana and Šu-kale-tuda,,134,sux:geme₂[female-slave]N sux:lu₂[person]N sux:a[water]N sux:si[to-fill]V sux:ŋen[to-go]V sux:uš₂[gore]N sux:si[to-fill]V
-c.1.3.3,Inana and Šu-kale-tuda,,135,sux:saŋ[head]N sux:gig₂[to-be-black]V sux:uš₂[gore]N sux:naŋ[to-drink]V sux:zag[side]N sux:zu[to-know]V
-c.1.3.3,Inana and Šu-kale-tuda,,136,sux:lu₂[person]N sux:ŋiš₃[penis]N sux:dug₄[to-say]V sux:kur[(mountain)-land]N sux:pad₃[to-find]V sux:dug₄[to-say]V
-c.1.3.3,Inana and Šu-kale-tuda,,137,sux:lu₂[person]N sux:ŋiš₃[penis]N sux:dug₄[to-say]V sux:kur[(mountain)-land]N sux:pad₃[to-find]V
-c.1.3.3,Inana and Šu-kale-tuda,,138,sux:i₃-ne-eš₂[now]AV sux:lu₂[person]N sux:lu₂[person]N sux:a-na[what]PD sux:dug₄[to-say]V sux:lu₂[person]N sux:lu₂[person]N sux:dili[single]AJ sux:a-na[what]PD sux:tah[to-add]V
-c.1.3.3,Inana and Šu-kale-tuda,,139,sux:lu₂-tur[child]N sux:ad-da[father]N sux:e₂[house(hold)]N sux:kur₉[to-enter]V sux:gu₃[voice]N sux:de₂[to-pour]V
-c.1.3.3,Inana and Šu-kale-tuda,,140,sux:Šu-kale-tuda[1]PN sux:ad-da[father]N sux:e₂[house(hold)]N sux:kur₉[to-enter]V sux:gu₃[voice]N sux:de₂[to-pour]V
-c.1.3.3,Inana and Šu-kale-tuda,,141,sux:ad-da[father]N sux:mu₂-sar[garden]N sux:a[water]N sux:sig₁₀[to-place]V
-c.1.3.3,Inana and Šu-kale-tuda,,142,sux:nisig[greenery]N sux:da[side]N sux:pu₂[(water)-hole]N sux:ak[to-do]V
-c.1.3.3,Inana and Šu-kale-tuda,,143,sux:nisig[greenery]N sux:dili[single]AJ sux:me[to-be]V sux:a-na[what(ever)]PD sux:me[to-be]V
-c.1.3.3,Inana and Šu-kale-tuda,,144,sux:ur₂[root]N sux:bal[to-turn-over]V sux:zu₂[tooth]N sux:gaz[to-strike-(dead)]V
-c.1.3.3,Inana and Šu-kale-tuda,,145,sux:tum₉-dal[storm-wind]N sux:a-na[what]PD sux:de₆[to-carry]V
-c.1.3.3,Inana and Šu-kale-tuda,,146,sux:igi[eye]N sux:sahar[earth]N sux:kur[(mountain)-land]N sux:ra[to-beat]V
-c.1.3.3,Inana and Šu-kale-tuda,,147,sux:ub[corner]N sux:igi[eye]N sux:šu[hand]N sux:tuku[to-have]V
-c.1.3.3,Inana and Šu-kale-tuda,,148,sux:niŋ₂[thing]N sux:sig₉[to-put]V sux:zag[side]N sux:zu[to-know]V
-c.1.3.3,Inana and Šu-kale-tuda,,149,sux:sig[to-be-low]V sux:igi[eye]N sux:il₂[to-raise]V sux:diŋir[deity]N sux:un₃[to-be-high]V sux:kur[(mountain)-land]N sux:ud[day(light)]N sux:e₃[to-go-out-or-in]V sux:igi[eye]N sux:du₈[to-spread]V
-c.1.3.3,Inana and Šu-kale-tuda,,150,sux:nim[upper-(land)]N sux:igi[eye]N sux:il₂[to-raise]V sux:diŋir[deity]N sux:un₃[to-be-high]V sux:kur[(mountain)-land]N sux:ud[day(light)]N sux:šu₂[to-cover]V sux:igi[eye]N sux:du₈[to-spread]V
-c.1.3.3,Inana and Šu-kale-tuda,,151,sux:gidim[ghost]N sux:dili[single]AJ sux:ŋen[to-go]V sux:igi[eye]N sux:du₈[to-spread]V
-c.1.3.3,Inana and Šu-kale-tuda,,152,sux:diŋir[deity]N sux:dili[single]AJ sux:ŋen[to-go]V sux:ŋiškim[sign]N sux:zu[to-know]V
-c.1.3.3,Inana and Šu-kale-tuda,,153,sux:me[essence]N sux:šu[hand]N sux:du₇[to-be-perfect]V sux:igi[eye]N sux:du₈[to-spread]V
-c.1.3.3,Inana and Šu-kale-tuda,,154,sux:nam[destiny]N sux:tar[to-cut]V sux:diŋir[deity]N sux:igi[eye]N sux:ŋal₂[to-be-(located)]V
-c.1.3.3,Inana and Šu-kale-tuda,,155,sux:sar[garden-plot]N sux:ki[place]N sux:5[5]NU sux:10[10]NU sux:te[to-approach]V
-c.1.3.3,Inana and Šu-kale-tuda,,156,sux:ki[place]N sux:ŋiš-an-dul₃[shady-tree]N sux:1[1]NU sux:gub[to-stand]V
-c.1.3.3,Inana and Šu-kale-tuda,,157,sux:ŋiš-an-dul₃[shady-tree]N sux:asal₂[poplar]N sux:ŋissu[(protective)-shade]N sux:daŋal[to-be-wide]V
-c.1.3.3,Inana and Šu-kale-tuda,,158,sux:ŋissu[(protective)-shade]N sux:sig[to-be-low]V sux:ud[day(light)]N sux:zal[to-pass]V
-c.1.3.3,Inana and Šu-kale-tuda,,159,sux:an-bar₇[midday]N sux:an-usan[evening]N sux:gi₄[to-return]V
-c.1.3.3,Inana and Šu-kale-tuda,,160,sux:ud[day(light)]N sux:nin[lady]N sux:an[heaven]N sux:niŋin₂[to-go-around]V sux:ki[place]N sux:niŋin₂[to-go-around]V
-c.1.3.3,Inana and Šu-kale-tuda,,161,sux:Inana[1]DN sux:an[heaven]N sux:niŋin₂[to-go-around]V sux:ki[place]N sux:niŋin₂[to-go-around]V
-c.1.3.3,Inana and Šu-kale-tuda,,162,sux:Elam[1]GN sux:Subir[1]GN sux:niŋin₂[to-go-around]V
-c.1.3.3,Inana and Šu-kale-tuda,,163,sux:dubur[horizon]N sux:an[heaven]N sux:gilim[to-be-intertwined]V sux:niŋin₂[to-go-around]V
-c.1.3.3,Inana and Šu-kale-tuda,,164,sux:nu-u₈-gig[high-status-woman]N sux:kuš₂[to-be-tired]V sux:te[to-approach]V sux:dur₂[rump]N sux:nu₂[to-lie-down]V
-c.1.3.3,Inana and Šu-kale-tuda,,165,sux:zag[side]N sux:sar[garden-plot]N sux:igi[eye]N sux:du₈[to-spread]V
-c.1.3.3,Inana and Šu-kale-tuda,,166,sux:ŋiš₃[penis]N sux:dug₄[to-say]V sux:ne[noun-part-of-multiword-verb]N sux:su-ub[to-rub]V
-c.1.3.3,Inana and Šu-kale-tuda,,167,sux:zag[side]N sux:sar[garden-plot]N sux:gi₄[to-return]V
-c.1.3.3,Inana and Šu-kale-tuda,,168,sux:ud[day(light)]N sux:munus[woman]N sux:nam[destiny]N sux:gal₄-la[female-genitals]N sux:a-na[what(ever)]PD sux:gul[to-destroy]V
-c.1.3.3,Inana and Šu-kale-tuda,,169,sux:Inana[1]DN sux:nam[destiny]N sux:gal₄-la[female-genitals]N sux:a-na[what(ever)]PD sux:ak[to-do]V
-c.1.3.3,Inana and Šu-kale-tuda,,170,sux:pu₂[(water)-hole]N sux:kalam[the-Land]N sux:uš₂[gore]N sux:si[to-fill]V
-c.1.3.3,Inana and Šu-kale-tuda,,171,sux:pu₂-kiri₆[orchard]N sux:kalam[the-Land]N sux:uš₂[gore]N sux:de₆[to-carry]V
-c.1.3.3,Inana and Šu-kale-tuda,,172,sux:arad[slave]N sux:lu₂[person]N sux:u₂[plant]N sux:il₂[to-raise]V sux:ŋen[to-go]V sux:uš₂[gore]N sux:naŋ[to-drink]V
-c.1.3.3,Inana and Šu-kale-tuda,,173,sux:geme₂[female-slave]N sux:lu₂[person]N sux:a[water]N sux:si[to-fill]V sux:ŋen[to-go]V sux:uš₂[gore]N sux:si[to-fill]V
-c.1.3.3,Inana and Šu-kale-tuda,,174,sux:saŋ[head]N sux:gig₂[to-be-black]V sux:uš₂[gore]N sux:naŋ[to-drink]V sux:zag[side]N sux:zu[to-know]V
-c.1.3.3,Inana and Šu-kale-tuda,,175,sux:lu₂[person]N sux:ŋiš₃[penis]N sux:dug₄[to-say]V sux:kur[(mountain)-land]N sux:pad₃[to-find]V sux:dug₄[to-say]V
-c.1.3.3,Inana and Šu-kale-tuda,,176,sux:lu₂[person]N sux:ŋiš₃[penis]N sux:dug₄[to-say]V sux:kur[(mountain)-land]N sux:pad₃[to-find]V
-c.1.3.3,Inana and Šu-kale-tuda,,177,sux:lu₂-tur[child]N sux:ad-da[father]N sux:gi₄[to-return]V
-c.1.3.3,Inana and Šu-kale-tuda,,178,sux:Šu-kale-tuda[1]PN sux:ad-da[father]N sux:gi₄[to-return]V
-c.1.3.3,Inana and Šu-kale-tuda,,179,sux:dumu[child]N sux:iri[town]N sux:šeš[brother]N sux:us₂[to-be-adjacent]V
-c.1.3.3,Inana and Šu-kale-tuda,,180,sux:saŋ[head]N sux:gig₂[to-be-black]V sux:šeš[brother]N sux:ŋiri₃[foot]N sux:gub[to-stand]V sux:ŋen[to-go]V
-c.1.3.3,Inana and Šu-kale-tuda,,181,sux:munus[woman]N sux:šag₄[heart]N sux:kur[(mountain)-land]N sux:pad₃[to-find]V
-c.1.3.3,Inana and Šu-kale-tuda,,182,sux:iri[town]N sux:šeš[brother]N sux:ni₂-bi[itself;-themselves]PD sux:us₂[to-be-adjacent]V
-c.1.3.3,Inana and Šu-kale-tuda,,183,sux:saŋ[head]N sux:gig₂[to-be-black]V sux:šeš[brother]N sux:ŋiri₃[foot]N sux:gub[to-stand]V sux:ŋen[to-go]V
-c.1.3.3,Inana and Šu-kale-tuda,,184,sux:munus[woman]N sux:šag₄[heart]N sux:kur[(mountain)-land]N sux:pad₃[to-find]V
-c.1.3.3,Inana and Šu-kale-tuda,,185,sux:2-kam-ma[2nd]NU sux:munus[woman]N sux:nam[destiny]N sux:gal₄-la[female-genitals]N sux:a-na[what(ever)]PD sux:gul[to-destroy]V
-c.1.3.3,Inana and Šu-kale-tuda,,186,sux:Inana[1]DN sux:nam[destiny]N sux:gal₄-la[female-genitals]N sux:a-na[what(ever)]PD sux:ak[to-do]V
-c.1.3.3,Inana and Šu-kale-tuda,,187,sux:dungu[cloud]N sux:u₅[to-ride]V sux:dur₂[rump]N sux:gub[to-stand]V sux:gaba[chest]N sux:sal[to-be-thin]V
-c.1.3.3,Inana and Šu-kale-tuda,,188,sux:ulu₃[south-wind-(storm)]N sux:mar-uru₅[tempest]N sux:huš[to-be-reddish]V sux:igi[eye]N sux:ŋen[to-go]V
-c.1.3.3,Inana and Šu-kale-tuda,,189,sux:pi-li-pi-li[type-of-cult-performer]N sux:dal-ha-mun[dust-storm]N sux:eŋer[back]N sux:us₂[to-be-adjacent]V
-c.1.3.3,Inana and Šu-kale-tuda,,190,sux:Abba-šušu[1]DN sux:Inim-kur-dugdug[1]DN sux:ad[voice]N sux:gi₄[to-return]V
-c.1.3.3,Inana and Šu-kale-tuda,,191,sux:7[7]NU sux:a-ra₂[times]N sux:7[7]NU sux:an-edin[high-plain]N sux:gub[to-stand]V
-c.1.3.3,Inana and Šu-kale-tuda,,192,sux:lu₂[person]N sux:ŋiš₃[penis]N sux:dug₄[to-say]V sux:kur[(mountain)-land]N sux:pad₃[to-find]V sux:dug₄[to-say]V
-c.1.3.3,Inana and Šu-kale-tuda,,193,sux:lu₂[person]N sux:ŋiš₃[penis]N sux:dug₄[to-say]V sux:kur[(mountain)-land]N sux:pad₃[to-find]V
-c.1.3.3,Inana and Šu-kale-tuda,,194,sux:lu₂-tur[child]N sux:ad-da[father]N sux:e₂[house(hold)]N sux:kur₉[to-enter]V
-c.1.3.3,Inana and Šu-kale-tuda,,195,sux:Šu-kale-tuda[1]PN sux:ad-da[father]N sux:gu₃[voice]N sux:de₂[to-pour]V
-c.1.3.3,Inana and Šu-kale-tuda,,196,sux:ad-da[father]N sux:munus[woman]N sux:dug₄[to-say]V
-c.1.3.3,Inana and Šu-kale-tuda,,197,sux:2-kam-ma[2nd]NU sux:munus[woman]N sux:nam[destiny]N sux:gal₄-la[female-genitals]N sux:a-na[what(ever)]PD sux:gul[to-destroy]V
-c.1.3.3,Inana and Šu-kale-tuda,,198,sux:Inana[1]DN sux:nam[destiny]N sux:gal₄-la[female-genitals]N sux:a-na[what(ever)]PD sux:ak[to-do]V
-c.1.3.3,Inana and Šu-kale-tuda,,199,sux:dungu[cloud]N sux:u₅[to-ride]V sux:dur₂[rump]N sux:gub[to-stand]V sux:gaba[chest]N sux:sal[to-be-thin]V
-c.1.3.3,Inana and Šu-kale-tuda,,200,sux:ulu₃[south-wind-(storm)]N sux:mar-uru₅[tempest]N sux:huš[to-be-reddish]V sux:igi[eye]N sux:ŋen[to-go]V
-c.1.3.3,Inana and Šu-kale-tuda,,201,sux:pi-li-pi-li[type-of-cult-performer]N sux:dal-ha-mun[dust-storm]N sux:eŋer[back]N sux:us₂[to-be-adjacent]V
-c.1.3.3,Inana and Šu-kale-tuda,,202,sux:Abba-šušu[1]DN sux:Inim-kur-dugdug[1]DN sux:ad[voice]N sux:gi₄[to-return]V
-c.1.3.3,Inana and Šu-kale-tuda,,203,sux:7[7]NU sux:a-ra₂[times]N sux:7[7]NU sux:an-edin[high-plain]N sux:gub[to-stand]V
-c.1.3.3,Inana and Šu-kale-tuda,,204,sux:lu₂[person]N sux:ŋiš₃[penis]N sux:dug₄[to-say]V sux:kur[(mountain)-land]N sux:pad₃[to-find]V sux:dug₄[to-say]V
-c.1.3.3,Inana and Šu-kale-tuda,,205,sux:lu₂[person]N sux:ŋiš₃[penis]N sux:dug₄[to-say]V sux:kur[(mountain)-land]N sux:pad₃[to-find]V
-c.1.3.3,Inana and Šu-kale-tuda,,206,sux:lu₂-tur[child]N sux:ad-da[father]N sux:gi₄[to-return]V
-c.1.3.3,Inana and Šu-kale-tuda,,207,sux:Šu-kale-tuda[1]PN sux:ad-da[father]N sux:gi₄[to-return]V
-c.1.3.3,Inana and Šu-kale-tuda,,208,sux:dumu[child]N sux:iri[town]N sux:šeš[brother]N sux:us₂[to-be-adjacent]V
-c.1.3.3,Inana and Šu-kale-tuda,,209,sux:saŋ[head]N sux:gig₂[to-be-black]V sux:šeš[brother]N sux:ŋiri₃[foot]N sux:gub[to-stand]V sux:ŋen[to-go]V
-c.1.3.3,Inana and Šu-kale-tuda,,210,sux:munus[woman]N sux:šag₄[heart]N sux:kur[(mountain)-land]N sux:pad₃[to-find]V
-c.1.3.3,Inana and Šu-kale-tuda,,211,sux:iri[town]N sux:šeš[brother]N sux:ni₂-bi[itself;-themselves]PD sux:us₂[to-be-adjacent]V
-c.1.3.3,Inana and Šu-kale-tuda,,212,sux:saŋ[head]N sux:gig₂[to-be-black]V sux:šeš[brother]N sux:ŋiri₃[foot]N sux:gub[to-stand]V sux:ŋen[to-go]V
-c.1.3.3,Inana and Šu-kale-tuda,,213,sux:munus[woman]N sux:šag₄[heart]N sux:kur[(mountain)-land]N sux:pad₃[to-find]V
-c.1.3.3,Inana and Šu-kale-tuda,,214,sux:3-kam-ma[3rd]NU sux:munus[woman]N sux:nam[destiny]N sux:gal₄-la[female-genitals]N sux:a-na[what(ever)]PD sux:gul[to-destroy]V
-c.1.3.3,Inana and Šu-kale-tuda,,215,sux:Inana[1]DN sux:nam[destiny]N sux:gal₄-la[female-genitals]N sux:a-na[what(ever)]PD sux:ak[to-do]V
-c.1.3.3,Inana and Šu-kale-tuda,,216,sux:umbin[horny-outgrowth]N sux:su-ug[meaning-unknown]V sux:1[1]NU sux:šu[hand]N sux:te[to-approach]V
-c.1.3.3,Inana and Šu-kale-tuda,,217,sux:he-en-du[path]N sux:kalam[the-Land]N sux:gib[to-lie-across-(obstructively)]V
-c.1.3.3,Inana and Šu-kale-tuda,,218,sux:uŋ₃[people]N sux:saŋ[head]N sux:gig₂[to-be-black]V sux:umbin[horny-outgrowth]N sux:su-ug[meaning-unknown]V sux:e₃[to-go-out-or-in]V
-c.1.3.3,Inana and Šu-kale-tuda,,219,sux:lu₂[person]N sux:ŋiš₃[penis]N sux:dug₄[to-say]V sux:kur[(mountain)-land]N sux:pad₃[to-find]V sux:dug₄[to-say]V
-c.1.3.3,Inana and Šu-kale-tuda,,220,sux:lu₂[person]N sux:ŋiš₃[penis]N sux:dug₄[to-say]V sux:kur[(mountain)-land]N sux:pad₃[to-find]V
-c.1.3.3,Inana and Šu-kale-tuda,,221,sux:lu₂-tur[child]N sux:ad-da[father]N sux:e₂[house(hold)]N sux:kur₉[to-enter]V
-c.1.3.3,Inana and Šu-kale-tuda,,222,sux:Šu-kale-tuda[1]PN sux:ad-da[father]N sux:gu₃[voice]N sux:de₂[to-pour]V
-c.1.3.3,Inana and Šu-kale-tuda,,223,sux:ad-da[father]N sux:munus[woman]N sux:dug₄[to-say]V
-c.1.3.3,Inana and Šu-kale-tuda,,224,sux:3-kam-ma[3rd]NU sux:munus[woman]N sux:nam[destiny]N sux:gal₄-la[female-genitals]N sux:a-na[what(ever)]PD sux:gul[to-destroy]V
-c.1.3.3,Inana and Šu-kale-tuda,,225,sux:Inana[1]DN sux:nam[destiny]N sux:gal₄-la[female-genitals]N sux:a-na[what(ever)]PD sux:ak[to-do]V
-c.1.3.3,Inana and Šu-kale-tuda,,226,sux:umbin[horny-outgrowth]N sux:su-ug[meaning-unknown]V sux:1[1]NU sux:šu[hand]N sux:te[to-approach]V
-c.1.3.3,Inana and Šu-kale-tuda,,227,sux:he-en-du[path]N sux:kalam[the-Land]N sux:gib[to-lie-across-(obstructively)]V
-c.1.3.3,Inana and Šu-kale-tuda,,228,sux:uŋ₃[people]N sux:saŋ[head]N sux:gig₂[to-be-black]V sux:umbin[horny-outgrowth]N sux:su-ug[meaning-unknown]V sux:e₃[to-go-out-or-in]V
-c.1.3.3,Inana and Šu-kale-tuda,,229,sux:lu₂[person]N sux:ŋiš₃[penis]N sux:dug₄[to-say]V sux:kur[(mountain)-land]N sux:pad₃[to-find]V sux:dug₄[to-say]V
-c.1.3.3,Inana and Šu-kale-tuda,,230,sux:lu₂[person]N sux:ŋiš₃[penis]N sux:dug₄[to-say]V sux:kur[(mountain)-land]N sux:pad₃[to-find]V
-c.1.3.3,Inana and Šu-kale-tuda,,231,sux:lu₂-tur[child]N sux:ad-da[father]N sux:gi₄[to-return]V
-c.1.3.3,Inana and Šu-kale-tuda,,232,sux:Šu-kale-tuda[1]PN sux:ad-da[father]N sux:gi₄[to-return]V
-c.1.3.3,Inana and Šu-kale-tuda,,233,sux:dumu[child]N sux:iri[town]N sux:šeš[brother]N sux:us₂[to-be-adjacent]V
-c.1.3.3,Inana and Šu-kale-tuda,,234,sux:saŋ[head]N sux:gig₂[to-be-black]V sux:šeš[brother]N sux:ŋiri₃[foot]N sux:gub[to-stand]V sux:ŋen[to-go]V
-c.1.3.3,Inana and Šu-kale-tuda,,235,sux:munus[woman]N sux:šag₄[heart]N sux:kur[(mountain)-land]N sux:pad₃[to-find]V
-c.1.3.3,Inana and Šu-kale-tuda,,236,sux:iri[town]N sux:šeš[brother]N sux:ni₂-bi[itself;-themselves]PD sux:us₂[to-be-adjacent]V
-c.1.3.3,Inana and Šu-kale-tuda,,237,sux:saŋ[head]N sux:gig₂[to-be-black]V sux:šeš[brother]N sux:ŋiri₃[foot]N sux:gub[to-stand]V sux:ŋen[to-go]V
-c.1.3.3,Inana and Šu-kale-tuda,,238,sux:munus[woman]N sux:šag₄[heart]N sux:kur[(mountain)-land]N sux:pad₃[to-find]V
-c.1.3.3,Inana and Šu-kale-tuda,,239,sux:ud[day(light)]N sux:zal[to-pass]V sux:Utu[1]DN sux:e₃[to-go-out-or-in]V
-c.1.3.3,Inana and Šu-kale-tuda,,240,sux:munus[woman]N sux:ni₂-te-a-ni[himself;-herself]PD sux:igi[eye]N sux:kar₂[to-blow]V
-c.1.3.3,Inana and Šu-kale-tuda,,241,sux:kug[shining]AJ sux:Inana[1]DN sux:ni₂-te-a-ni[himself;-herself]PD sux:igi[eye]N sux:kar₂[to-blow]V
-c.1.3.3,Inana and Šu-kale-tuda,,242,sux:e[vocative-expression]I sux:ŋe₂₆[I]PD sux:a-ba[who]PD sux:sig₁₀[to-place]V
-c.1.3.3,Inana and Šu-kale-tuda,,243,sux:e[vocative-expression]I sux:ŋe₂₆[I]PD sux:a-ba[who]PD sux:aŋ₂[to-measure]V
-c.1.3.3,Inana and Šu-kale-tuda,,244,sux-x-emesal:e-ne-eŋ₃[word]N sux:a-a[father]N sux:ugu[to-give-birth]V sux-x-emesal:Enki[1]DN sux:me[to-be]V
-c.1.3.3,Inana and Šu-kale-tuda,,245,sux:abzu[underground-water]N sux:Eridug[1]SN sux:Enki[1]DN sux:kug[shining]AJ sux:Inana[1]DN sux:ŋiri₃[foot]N sux:gub[to-stand]V
-c.1.3.3,Inana and Šu-kale-tuda,,246,sux:nam[destiny]N sux:ur₂[root]N sux:dun[to-dig]V sux:šu[hand]N sux:la₂[to-hang]V
-c.1.3.3,Inana and Šu-kale-tuda,,247,sux:a-a[father]N sux:Enki[1]DN sux:sig₁₀[to-place]V sux:aŋ₂[to-measure]V
-c.1.3.3,Inana and Šu-kale-tuda,,248,sux:lu₂[person]N sux:abzu[underground-water]N sux:šu[hand]N sux-x-emesal:ze₂-eŋ₃[to-give]V
-c.1.3.3,Inana and Šu-kale-tuda,,249,sux:eš₃[shrine]N sux:E-ana[1]TN sux-x-emesal:ze₂-eb[to-be-good]V sux:kur₉[to-enter]V
-c.1.3.3,Inana and Šu-kale-tuda,,250,sux:Enki[1]DN sux:sag₉[to-be-good]V sux:dug₄[to-say]V sux:he₂-am₃[(so)-be-it]I sux:dug₄[to-say]V
-c.1.3.3,Inana and Šu-kale-tuda,,251,sux:kug[shining]AJ sux:Inana[1]DN sux:abzu[underground-water]N sux:Eridug[1]SN sux:e₃[to-go-out-or-in]V
-c.1.3.3,Inana and Šu-kale-tuda,,252,sux:ni₂-te-a-ni[himself;-herself]PD sux:tir-an-na[rainbow]N sux:an[heaven]N sux:gib[to-lie-across-(obstructively)]V sux:ki[place]N sux:us₂[to-be-adjacent]V
-c.1.3.3,Inana and Šu-kale-tuda,,253,sux:ulu₃[south-wind-(storm)]N sux:dib[to-pass]V sux:mir[north-wind]N sux:dib[to-pass]V
-c.1.3.3,Inana and Šu-kale-tuda,,254,sux:Šu-kale-tuda[1]PN sux:dili[single]AJ sux:ni₂[fear(someness)]N sux:tur[to-be-small]V
-c.1.3.3,Inana and Šu-kale-tuda,,255,sux:munus[woman]N sux:šag₄[heart]N sux:kur[(mountain)-land]N sux:pad₃[to-find]V
-c.1.3.3,Inana and Šu-kale-tuda,,256,sux:kug[shining]AJ sux:Inana[1]DN sux:Šu-kale-tuda[1]PN sux:gu₃[voice]N sux:de₂[to-pour]V
-c.1.3.3,Inana and Šu-kale-tuda,,257,sux:a-gin₇[type-of-manner-adverbial]AV sux:ŋal₂[to-be-(located)]V
+c.1.3.3,Inana and Šu-kale-tuda,,46,dim₂[to-create]V
+c.1.3.3,Inana and Šu-kale-tuda,,47,ŋiri₃[foot]N inim[word]N dug₄[to-say]V
+c.1.3.3,Inana and Šu-kale-tuda,,48,ŋeštug₂[ear]N inim[word]N tah[to-add]V
+c.1.3.3,Inana and Šu-kale-tuda,,49,uga[raven]N inim[word]N dug₄[to-say]V inim[word]N ŋeštug₂[ear]N
+c.1.3.3,Inana and Šu-kale-tuda,,50,uga[raven]N eš₃[shrine]N inim[word]N dug₄[to-say]V inim[word]N ŋeštug₂[ear]N
+c.1.3.3,Inana and Šu-kale-tuda,,51,šembi₂-zid[kohl]N nam-išib[type-of-priestcraft]N Eridug[1]SN
+c.1.3.3,Inana and Šu-kale-tuda,,52,i₃[fatty-substance]N a[water]N bur[type-of-bowl]N za-gin₃[lapis-lazuli]N ŋal₂[to-be-(located)]V
+c.1.3.3,Inana and Šu-kale-tuda,,53,dag[residence]N agrun[cella]N gub[to-stand]V
+c.1.3.3,Inana and Šu-kale-tuda,,54,tun₃[type-of-axe]N DU[DU]V zu₂[tooth]N gub[to-stand]V
+c.1.3.3,Inana and Šu-kale-tuda,,55,umah[waterlogged-ground]N ga-raš[leek]N sar[garden-plot]N nisig[greenery]N ki[place]N tag[to-touch]V
+c.1.3.3,Inana and Šu-kale-tuda,,56,bur₁₂[to-tear-out]V
+c.1.3.3,Inana and Šu-kale-tuda,,57,i₃-ne-eš₂[now]AV lu₂[person]N lu₂[person]N a-na[what]PD dug₄[to-say]V
+c.1.3.3,Inana and Šu-kale-tuda,,58,lu₂[person]N lu₂[person]N dili[single]AJ a-na[what]PD tah[to-add]V
+c.1.3.3,Inana and Šu-kale-tuda,,59,uga[raven]N inim[word]N lugal[king]N saŋ[head]N keše₂[to-bind]V ak[to-do]V
+c.1.3.3,Inana and Šu-kale-tuda,,60,šembi₂-zid[kohl]N nam-išib[type-of-priestcraft]N Eridug[1]SN
+c.1.3.3,Inana and Šu-kale-tuda,,61,i₃[fatty-substance]N a[water]N bur[type-of-bowl]N za-gin₃[lapis-lazuli]N ŋal₂[to-be-(located)]V
+c.1.3.3,Inana and Šu-kale-tuda,,62,dag[residence]N agrun[cella]N gub[to-stand]V
+c.1.3.3,Inana and Šu-kale-tuda,,63,tun₃[type-of-axe]N DU[DU]V zu₂[tooth]N gub[to-stand]V
+c.1.3.3,Inana and Šu-kale-tuda,,64,umah[waterlogged-ground]N ga-raš[leek]N sar[garden-plot]N nisig[greenery]N ki[place]N tag[to-touch]V
+c.1.3.3,Inana and Šu-kale-tuda,,65,bur₁₂[to-tear-out]V
+c.1.3.3,Inana and Šu-kale-tuda,,66,nisig[greenery]N ga-raš[leek]N sar[garden-plot]N mu₂[to-grow]V
+c.1.3.3,Inana and Šu-kale-tuda,,67,ga-raš[leek]N nu-erim₂[enemy]N gub[to-stand]V a-ba[who]PD igi[eye]N du₈[to-spread]V
+c.1.3.3,Inana and Šu-kale-tuda,,68,igi[eye]N ur₄[to-collect]V mu₂[to-grow]V ŋen[to-go]V ŋen[to-go]V
+c.1.3.3,Inana and Šu-kale-tuda,,69,mušen[bird]N uga[raven]N a₂[arm]N lu₂[person]N kiŋ₂[to-seek]V
+c.1.3.3,Inana and Šu-kale-tuda,,70,lag[lump]N an[heaven]N sag₃[to-beat]V ki[place]N tuš[to-sit]V
+c.1.3.3,Inana and Šu-kale-tuda,,71,lag[lump]N ki[place]N sag₃[to-beat]V an[heaven]N e₃[to-go-out-or-in]V a-ba[who]PD igi[eye]N du₈[to-spread]V
+c.1.3.3,Inana and Šu-kale-tuda,,72,uga[raven]N nu-erim₂[enemy]N zig₃[to-rise]V
+c.1.3.3,Inana and Šu-kale-tuda,,73,ŋišnimbar[date-palm]N tubaₓ-la₂-a[harness-(for-climbing)]N an[heaven]N ed₃[to-go-down-or-up]V
+c.1.3.3,Inana and Šu-kale-tuda,,74,šembi₂-zid[kohl]N ka[mouth]N du₈[to-spread]V
+c.1.3.3,Inana and Šu-kale-tuda,,75,pa[branch]N šu[hand]N gur[to-turn]V ka[mouth]N su-ub[to-rub]V
+c.1.3.3,Inana and Šu-kale-tuda,,76,ŋišnimbar[date-palm]N ki-in-du[(stretch-of)-earth]N
+c.1.3.3,Inana and Šu-kale-tuda,,77,ŋiš[tree]N da-ri₂[eternal]AJ mu₂[to-grow]V a-ba[who]PD igi[eye]N du₈[to-spread]V
+c.1.3.3,Inana and Šu-kale-tuda,,78,eme-EŠ₂.UŠ-eme-EŠ₂.UŠ[scaly-leaves]N šag₄-ŋišnimbar[palmheart]N me[to-be]V
+c.1.3.3,Inana and Šu-kale-tuda,,79,eme-šu-ru-ug-eme-šu-ru-ug[dried-palm-fronds]N niŋ₂-ŋišnimbar[weaving-material]N me[to-be]V
+c.1.3.3,Inana and Šu-kale-tuda,,80,peš-tur-ZI[(off)shoot]N eš₂-gana₂[measuring-line]N
+c.1.3.3,Inana and Šu-kale-tuda,,81,gana₂[field]N lugal[king]N me-te[(fitting)-attribute]N ŋal₂[to-be-(located)]V
+c.1.3.3,Inana and Šu-kale-tuda,,82,pa[branch]N e₂-gal[palace]N lugal[king]N na[smoke?]N de₅[to-collect]V šum₂[to-give]V
+c.1.3.3,Inana and Šu-kale-tuda,,83,zu₂-lum[date]N še[barley]N nir[to-winnow]V zag[side]N sig₉[to-put]V
+c.1.3.3,Inana and Šu-kale-tuda,,84,e₂[house(hold)]N diŋir[deity]N gal[to-be-big]V me-te[(fitting)-attribute]N ŋal₂[to-be-(located)]V
+c.1.3.3,Inana and Šu-kale-tuda,,85,mušen[bird]N uga[raven]N a₂[arm]N lu₂[person]N kiŋ₂[to-seek]V
+c.1.3.3,Inana and Šu-kale-tuda,,86,lag[lump]N an[heaven]N sag₃[to-beat]V ki[place]N tuš[to-sit]V
+c.1.3.3,Inana and Šu-kale-tuda,,87,lag[lump]N ki[place]N sag₃[to-beat]V an[heaven]N e₃[to-go-out-or-in]V a-ba[who]PD igi[eye]N du₈[to-spread]V
+c.1.3.3,Inana and Šu-kale-tuda,,88,inim[word]N dug₄[to-say]V lugal[king]N uga[raven]N abzu[underground-water]N kur₉[to-enter]V
+c.1.3.3,Inana and Šu-kale-tuda,,89,i₃-ne-eš₂[now]AV lu₂[person]N lu₂[person]N a-na[what]PD dug₄[to-say]V
+c.1.3.3,Inana and Šu-kale-tuda,,90,lu₂[person]N lu₂[person]N dili[single]AJ a-na[what]PD tah[to-add]V
+c.1.3.3,Inana and Šu-kale-tuda,,91,Šu-kale-tuda[1]PN mu[name]N me[to-be]V
+c.1.3.3,Inana and Šu-kale-tuda,,92,dumu[child]N Igi-sigsig[1]DN lu₂[person]N
+c.1.3.3,Inana and Šu-kale-tuda,,93,mu₂-sar[garden]N a[water]N sig₁₀[to-place]V
+c.1.3.3,Inana and Šu-kale-tuda,,94,nisig[greenery]N da[side]N pu₂[(water)-hole]N ak[to-do]V
+c.1.3.3,Inana and Šu-kale-tuda,,95,nisig[greenery]N dili[single]AJ me[to-be]V a-na[what(ever)]PD me[to-be]V
+c.1.3.3,Inana and Šu-kale-tuda,,96,ur₂[root]N bal[to-turn-over]V zu₂[tooth]N gaz[to-strike-(dead)]V
+c.1.3.3,Inana and Šu-kale-tuda,,97,tum₉-dal[storm-wind]N a-na[what]PD de₆[to-carry]V
+c.1.3.3,Inana and Šu-kale-tuda,,98,igi[eye]N sahar[earth]N kur[(mountain)-land]N ra[to-beat]V
+c.1.3.3,Inana and Šu-kale-tuda,,99,ub[corner]N igi[eye]N šu[hand]N sa₂[to-equal]V
+c.1.3.3,Inana and Šu-kale-tuda,,100,niŋ₂[thing]N sig₉[to-put]V zag[side]N zu[to-know]V
+c.1.3.3,Inana and Šu-kale-tuda,,101,sig[to-be-low]V igi[eye]N il₂[to-raise]V diŋir[deity]N un₃[to-be-high]V kur[(mountain)-land]N ud[day(light)]N e₃[to-go-out-or-in]V igi[eye]N du₈[to-spread]V
+c.1.3.3,Inana and Šu-kale-tuda,,102,nim[upper-(land)]N igi[eye]N il₂[to-raise]V diŋir[deity]N un₃[to-be-high]V kur[(mountain)-land]N ud[day(light)]N šu₂[to-cover]V igi[eye]N du₈[to-spread]V
+c.1.3.3,Inana and Šu-kale-tuda,,103,gidim[ghost]N dili[single]AJ ŋen[to-go]V igi[eye]N du₈[to-spread]V
+c.1.3.3,Inana and Šu-kale-tuda,,104,diŋir[deity]N dili[single]AJ ŋen[to-go]V ŋiškim[sign]N zu[to-know]V
+c.1.3.3,Inana and Šu-kale-tuda,,105,me[essence]N šu[hand]N du₇[to-be-perfect]V igi[eye]N du₈[to-spread]V
+c.1.3.3,Inana and Šu-kale-tuda,,106,nam[destiny]N tar[to-cut]V diŋir[deity]N igi[eye]N ŋal₂[to-be-(located)]V
+c.1.3.3,Inana and Šu-kale-tuda,,107,sar[garden-plot]N ki[place]N 5[5]NU 10[10]NU te[to-approach]V
+c.1.3.3,Inana and Šu-kale-tuda,,108,ki[place]N ŋiš-an-dul₃[shady-tree]N 1[1]NU gub[to-stand]V
+c.1.3.3,Inana and Šu-kale-tuda,,109,ŋiš-an-dul₃[shady-tree]N asal₂[poplar]N ŋissu[(protective)-shade]N daŋal[to-be-wide]V
+c.1.3.3,Inana and Šu-kale-tuda,,110,ŋissu[(protective)-shade]N sig[to-be-low]V ud[day(light)]N zal[to-pass]V
+c.1.3.3,Inana and Šu-kale-tuda,,111,an-bar₇[midday]N an-usan[evening]N gi₄[to-return]V
+c.1.3.3,Inana and Šu-kale-tuda,,112,ud[day(light)]N nin[lady]N an[heaven]N niŋin₂[to-go-around]V ki[place]N niŋin₂[to-go-around]V
+c.1.3.3,Inana and Šu-kale-tuda,,113,Inana[1]DN an[heaven]N niŋin₂[to-go-around]V ki[place]N niŋin₂[to-go-around]V
+c.1.3.3,Inana and Šu-kale-tuda,,114,Elam[1]GN Subir[1]GN niŋin₂[to-go-around]V
+c.1.3.3,Inana and Šu-kale-tuda,,115,dubur[horizon]N an[heaven]N gilim[to-be-intertwined]V niŋin₂[to-go-around]V
+c.1.3.3,Inana and Šu-kale-tuda,,116,nu-u₈-gig[high-status-woman]N kuš₂[to-be-tired]V te[to-approach]V dur₂[rump]N nu₂[to-lie-down]V
+c.1.3.3,Inana and Šu-kale-tuda,,117,Šu-kale-tuda[1]PN zag[side]N sar[garden-plot]N igi[eye]N sig₁₀[to-place]V
+c.1.3.3,Inana and Šu-kale-tuda,,118,Inana[1]DN dara₄[loincloth?]N me[essence]N 7[7]NU gal₄-la[female-genitals]N
+c.1.3.3,Inana and Šu-kale-tuda,,119,dara₄[loincloth?]N me[essence]N 7[7]NU gal₄-la[female-genitals]N
+c.1.3.3,Inana and Šu-kale-tuda,,120,su₈-ba[shepherd]N Ama-ušumgal-ana[1]DN
+c.1.3.3,Inana and Šu-kale-tuda,,121,gal₄-la[female-genitals]N kug[shining]AJ lu₂[person]N
+c.1.3.3,Inana and Šu-kale-tuda,,122,Šu-kale-tuda[1]PN du₈[to-spread]V dagan[(sleeping)-chamber]N nu₂[to-lie-down]V
+c.1.3.3,Inana and Šu-kale-tuda,,123,ŋiš₃[penis]N dug₄[to-say]V ne[noun-part-of-multiword-verb]N su-ub[to-rub]V
+c.1.3.3,Inana and Šu-kale-tuda,,124,ŋiš₃[penis]N dug₄[to-say]V ne[noun-part-of-multiword-verb]N su-ub[to-rub]V
+c.1.3.3,Inana and Šu-kale-tuda,,125,zag[side]N sar[garden-plot]N gi₄[to-return]V
+c.1.3.3,Inana and Šu-kale-tuda,,126,ud[day(light)]N zal[to-pass]V Utu[1]DN e₃[to-go-out-or-in]V
+c.1.3.3,Inana and Šu-kale-tuda,,127,munus[woman]N ni₂-te-a-ni[himself;-herself]PD igi[eye]N kar₂[to-blow]V
+c.1.3.3,Inana and Šu-kale-tuda,,128,kug[shining]AJ Inana[1]DN ni₂-te-a-ni[himself;-herself]PD igi[eye]N kar₂[to-blow]V
+c.1.3.3,Inana and Šu-kale-tuda,,129,ud[day(light)]N munus[woman]N nam[destiny]N gal₄-la[female-genitals]N a-na[what(ever)]PD gul[to-destroy]V
+c.1.3.3,Inana and Šu-kale-tuda,,130,kug[shining]AJ Inana[1]DN nam[destiny]N gal₄-la[female-genitals]N a-na[what(ever)]PD ak[to-do]V
+c.1.3.3,Inana and Šu-kale-tuda,,131,pu₂[(water)-hole]N kalam[the-Land]N uš₂[gore]N si[to-fill]V
+c.1.3.3,Inana and Šu-kale-tuda,,132,pu₂-kiri₆[orchard]N kalam[the-Land]N uš₂[gore]N de₆[to-carry]V
+c.1.3.3,Inana and Šu-kale-tuda,,133,arad[slave]N lu₂[person]N u₂[plant]N il₂[to-raise]V ŋen[to-go]V uš₂[gore]N naŋ[to-drink]V
+c.1.3.3,Inana and Šu-kale-tuda,,134,geme₂[female-slave]N lu₂[person]N a[water]N si[to-fill]V ŋen[to-go]V uš₂[gore]N si[to-fill]V
+c.1.3.3,Inana and Šu-kale-tuda,,135,saŋ[head]N gig₂[to-be-black]V uš₂[gore]N naŋ[to-drink]V zag[side]N zu[to-know]V
+c.1.3.3,Inana and Šu-kale-tuda,,136,lu₂[person]N ŋiš₃[penis]N dug₄[to-say]V kur[(mountain)-land]N pad₃[to-find]V dug₄[to-say]V
+c.1.3.3,Inana and Šu-kale-tuda,,137,lu₂[person]N ŋiš₃[penis]N dug₄[to-say]V kur[(mountain)-land]N pad₃[to-find]V
+c.1.3.3,Inana and Šu-kale-tuda,,138,i₃-ne-eš₂[now]AV lu₂[person]N lu₂[person]N a-na[what]PD dug₄[to-say]V lu₂[person]N lu₂[person]N dili[single]AJ a-na[what]PD tah[to-add]V
+c.1.3.3,Inana and Šu-kale-tuda,,139,lu₂-tur[child]N ad-da[father]N e₂[house(hold)]N kur₉[to-enter]V gu₃[voice]N de₂[to-pour]V
+c.1.3.3,Inana and Šu-kale-tuda,,140,Šu-kale-tuda[1]PN ad-da[father]N e₂[house(hold)]N kur₉[to-enter]V gu₃[voice]N de₂[to-pour]V
+c.1.3.3,Inana and Šu-kale-tuda,,141,ad-da[father]N mu₂-sar[garden]N a[water]N sig₁₀[to-place]V
+c.1.3.3,Inana and Šu-kale-tuda,,142,nisig[greenery]N da[side]N pu₂[(water)-hole]N ak[to-do]V
+c.1.3.3,Inana and Šu-kale-tuda,,143,nisig[greenery]N dili[single]AJ me[to-be]V a-na[what(ever)]PD me[to-be]V
+c.1.3.3,Inana and Šu-kale-tuda,,144,ur₂[root]N bal[to-turn-over]V zu₂[tooth]N gaz[to-strike-(dead)]V
+c.1.3.3,Inana and Šu-kale-tuda,,145,tum₉-dal[storm-wind]N a-na[what]PD de₆[to-carry]V
+c.1.3.3,Inana and Šu-kale-tuda,,146,igi[eye]N sahar[earth]N kur[(mountain)-land]N ra[to-beat]V
+c.1.3.3,Inana and Šu-kale-tuda,,147,ub[corner]N igi[eye]N šu[hand]N tuku[to-have]V
+c.1.3.3,Inana and Šu-kale-tuda,,148,niŋ₂[thing]N sig₉[to-put]V zag[side]N zu[to-know]V
+c.1.3.3,Inana and Šu-kale-tuda,,149,sig[to-be-low]V igi[eye]N il₂[to-raise]V diŋir[deity]N un₃[to-be-high]V kur[(mountain)-land]N ud[day(light)]N e₃[to-go-out-or-in]V igi[eye]N du₈[to-spread]V
+c.1.3.3,Inana and Šu-kale-tuda,,150,nim[upper-(land)]N igi[eye]N il₂[to-raise]V diŋir[deity]N un₃[to-be-high]V kur[(mountain)-land]N ud[day(light)]N šu₂[to-cover]V igi[eye]N du₈[to-spread]V
+c.1.3.3,Inana and Šu-kale-tuda,,151,gidim[ghost]N dili[single]AJ ŋen[to-go]V igi[eye]N du₈[to-spread]V
+c.1.3.3,Inana and Šu-kale-tuda,,152,diŋir[deity]N dili[single]AJ ŋen[to-go]V ŋiškim[sign]N zu[to-know]V
+c.1.3.3,Inana and Šu-kale-tuda,,153,me[essence]N šu[hand]N du₇[to-be-perfect]V igi[eye]N du₈[to-spread]V
+c.1.3.3,Inana and Šu-kale-tuda,,154,nam[destiny]N tar[to-cut]V diŋir[deity]N igi[eye]N ŋal₂[to-be-(located)]V
+c.1.3.3,Inana and Šu-kale-tuda,,155,sar[garden-plot]N ki[place]N 5[5]NU 10[10]NU te[to-approach]V
+c.1.3.3,Inana and Šu-kale-tuda,,156,ki[place]N ŋiš-an-dul₃[shady-tree]N 1[1]NU gub[to-stand]V
+c.1.3.3,Inana and Šu-kale-tuda,,157,ŋiš-an-dul₃[shady-tree]N asal₂[poplar]N ŋissu[(protective)-shade]N daŋal[to-be-wide]V
+c.1.3.3,Inana and Šu-kale-tuda,,158,ŋissu[(protective)-shade]N sig[to-be-low]V ud[day(light)]N zal[to-pass]V
+c.1.3.3,Inana and Šu-kale-tuda,,159,an-bar₇[midday]N an-usan[evening]N gi₄[to-return]V
+c.1.3.3,Inana and Šu-kale-tuda,,160,ud[day(light)]N nin[lady]N an[heaven]N niŋin₂[to-go-around]V ki[place]N niŋin₂[to-go-around]V
+c.1.3.3,Inana and Šu-kale-tuda,,161,Inana[1]DN an[heaven]N niŋin₂[to-go-around]V ki[place]N niŋin₂[to-go-around]V
+c.1.3.3,Inana and Šu-kale-tuda,,162,Elam[1]GN Subir[1]GN niŋin₂[to-go-around]V
+c.1.3.3,Inana and Šu-kale-tuda,,163,dubur[horizon]N an[heaven]N gilim[to-be-intertwined]V niŋin₂[to-go-around]V
+c.1.3.3,Inana and Šu-kale-tuda,,164,nu-u₈-gig[high-status-woman]N kuš₂[to-be-tired]V te[to-approach]V dur₂[rump]N nu₂[to-lie-down]V
+c.1.3.3,Inana and Šu-kale-tuda,,165,zag[side]N sar[garden-plot]N igi[eye]N du₈[to-spread]V
+c.1.3.3,Inana and Šu-kale-tuda,,166,ŋiš₃[penis]N dug₄[to-say]V ne[noun-part-of-multiword-verb]N su-ub[to-rub]V
+c.1.3.3,Inana and Šu-kale-tuda,,167,zag[side]N sar[garden-plot]N gi₄[to-return]V
+c.1.3.3,Inana and Šu-kale-tuda,,168,ud[day(light)]N munus[woman]N nam[destiny]N gal₄-la[female-genitals]N a-na[what(ever)]PD gul[to-destroy]V
+c.1.3.3,Inana and Šu-kale-tuda,,169,Inana[1]DN nam[destiny]N gal₄-la[female-genitals]N a-na[what(ever)]PD ak[to-do]V
+c.1.3.3,Inana and Šu-kale-tuda,,170,pu₂[(water)-hole]N kalam[the-Land]N uš₂[gore]N si[to-fill]V
+c.1.3.3,Inana and Šu-kale-tuda,,171,pu₂-kiri₆[orchard]N kalam[the-Land]N uš₂[gore]N de₆[to-carry]V
+c.1.3.3,Inana and Šu-kale-tuda,,172,arad[slave]N lu₂[person]N u₂[plant]N il₂[to-raise]V ŋen[to-go]V uš₂[gore]N naŋ[to-drink]V
+c.1.3.3,Inana and Šu-kale-tuda,,173,geme₂[female-slave]N lu₂[person]N a[water]N si[to-fill]V ŋen[to-go]V uš₂[gore]N si[to-fill]V
+c.1.3.3,Inana and Šu-kale-tuda,,174,saŋ[head]N gig₂[to-be-black]V uš₂[gore]N naŋ[to-drink]V zag[side]N zu[to-know]V
+c.1.3.3,Inana and Šu-kale-tuda,,175,lu₂[person]N ŋiš₃[penis]N dug₄[to-say]V kur[(mountain)-land]N pad₃[to-find]V dug₄[to-say]V
+c.1.3.3,Inana and Šu-kale-tuda,,176,lu₂[person]N ŋiš₃[penis]N dug₄[to-say]V kur[(mountain)-land]N pad₃[to-find]V
+c.1.3.3,Inana and Šu-kale-tuda,,177,lu₂-tur[child]N ad-da[father]N gi₄[to-return]V
+c.1.3.3,Inana and Šu-kale-tuda,,178,Šu-kale-tuda[1]PN ad-da[father]N gi₄[to-return]V
+c.1.3.3,Inana and Šu-kale-tuda,,179,dumu[child]N iri[town]N šeš[brother]N us₂[to-be-adjacent]V
+c.1.3.3,Inana and Šu-kale-tuda,,180,saŋ[head]N gig₂[to-be-black]V šeš[brother]N ŋiri₃[foot]N gub[to-stand]V ŋen[to-go]V
+c.1.3.3,Inana and Šu-kale-tuda,,181,munus[woman]N šag₄[heart]N kur[(mountain)-land]N pad₃[to-find]V
+c.1.3.3,Inana and Šu-kale-tuda,,182,iri[town]N šeš[brother]N ni₂-bi[itself;-themselves]PD us₂[to-be-adjacent]V
+c.1.3.3,Inana and Šu-kale-tuda,,183,saŋ[head]N gig₂[to-be-black]V šeš[brother]N ŋiri₃[foot]N gub[to-stand]V ŋen[to-go]V
+c.1.3.3,Inana and Šu-kale-tuda,,184,munus[woman]N šag₄[heart]N kur[(mountain)-land]N pad₃[to-find]V
+c.1.3.3,Inana and Šu-kale-tuda,,185,2-kam-ma[2nd]NU munus[woman]N nam[destiny]N gal₄-la[female-genitals]N a-na[what(ever)]PD gul[to-destroy]V
+c.1.3.3,Inana and Šu-kale-tuda,,186,Inana[1]DN nam[destiny]N gal₄-la[female-genitals]N a-na[what(ever)]PD ak[to-do]V
+c.1.3.3,Inana and Šu-kale-tuda,,187,dungu[cloud]N u₅[to-ride]V dur₂[rump]N gub[to-stand]V gaba[chest]N sal[to-be-thin]V
+c.1.3.3,Inana and Šu-kale-tuda,,188,ulu₃[south-wind-(storm)]N mar-uru₅[tempest]N huš[to-be-reddish]V igi[eye]N ŋen[to-go]V
+c.1.3.3,Inana and Šu-kale-tuda,,189,pi-li-pi-li[type-of-cult-performer]N dal-ha-mun[dust-storm]N eŋer[back]N us₂[to-be-adjacent]V
+c.1.3.3,Inana and Šu-kale-tuda,,190,Abba-šušu[1]DN Inim-kur-dugdug[1]DN ad[voice]N gi₄[to-return]V
+c.1.3.3,Inana and Šu-kale-tuda,,191,7[7]NU a-ra₂[times]N 7[7]NU an-edin[high-plain]N gub[to-stand]V
+c.1.3.3,Inana and Šu-kale-tuda,,192,lu₂[person]N ŋiš₃[penis]N dug₄[to-say]V kur[(mountain)-land]N pad₃[to-find]V dug₄[to-say]V
+c.1.3.3,Inana and Šu-kale-tuda,,193,lu₂[person]N ŋiš₃[penis]N dug₄[to-say]V kur[(mountain)-land]N pad₃[to-find]V
+c.1.3.3,Inana and Šu-kale-tuda,,194,lu₂-tur[child]N ad-da[father]N e₂[house(hold)]N kur₉[to-enter]V
+c.1.3.3,Inana and Šu-kale-tuda,,195,Šu-kale-tuda[1]PN ad-da[father]N gu₃[voice]N de₂[to-pour]V
+c.1.3.3,Inana and Šu-kale-tuda,,196,ad-da[father]N munus[woman]N dug₄[to-say]V
+c.1.3.3,Inana and Šu-kale-tuda,,197,2-kam-ma[2nd]NU munus[woman]N nam[destiny]N gal₄-la[female-genitals]N a-na[what(ever)]PD gul[to-destroy]V
+c.1.3.3,Inana and Šu-kale-tuda,,198,Inana[1]DN nam[destiny]N gal₄-la[female-genitals]N a-na[what(ever)]PD ak[to-do]V
+c.1.3.3,Inana and Šu-kale-tuda,,199,dungu[cloud]N u₅[to-ride]V dur₂[rump]N gub[to-stand]V gaba[chest]N sal[to-be-thin]V
+c.1.3.3,Inana and Šu-kale-tuda,,200,ulu₃[south-wind-(storm)]N mar-uru₅[tempest]N huš[to-be-reddish]V igi[eye]N ŋen[to-go]V
+c.1.3.3,Inana and Šu-kale-tuda,,201,pi-li-pi-li[type-of-cult-performer]N dal-ha-mun[dust-storm]N eŋer[back]N us₂[to-be-adjacent]V
+c.1.3.3,Inana and Šu-kale-tuda,,202,Abba-šušu[1]DN Inim-kur-dugdug[1]DN ad[voice]N gi₄[to-return]V
+c.1.3.3,Inana and Šu-kale-tuda,,203,7[7]NU a-ra₂[times]N 7[7]NU an-edin[high-plain]N gub[to-stand]V
+c.1.3.3,Inana and Šu-kale-tuda,,204,lu₂[person]N ŋiš₃[penis]N dug₄[to-say]V kur[(mountain)-land]N pad₃[to-find]V dug₄[to-say]V
+c.1.3.3,Inana and Šu-kale-tuda,,205,lu₂[person]N ŋiš₃[penis]N dug₄[to-say]V kur[(mountain)-land]N pad₃[to-find]V
+c.1.3.3,Inana and Šu-kale-tuda,,206,lu₂-tur[child]N ad-da[father]N gi₄[to-return]V
+c.1.3.3,Inana and Šu-kale-tuda,,207,Šu-kale-tuda[1]PN ad-da[father]N gi₄[to-return]V
+c.1.3.3,Inana and Šu-kale-tuda,,208,dumu[child]N iri[town]N šeš[brother]N us₂[to-be-adjacent]V
+c.1.3.3,Inana and Šu-kale-tuda,,209,saŋ[head]N gig₂[to-be-black]V šeš[brother]N ŋiri₃[foot]N gub[to-stand]V ŋen[to-go]V
+c.1.3.3,Inana and Šu-kale-tuda,,210,munus[woman]N šag₄[heart]N kur[(mountain)-land]N pad₃[to-find]V
+c.1.3.3,Inana and Šu-kale-tuda,,211,iri[town]N šeš[brother]N ni₂-bi[itself;-themselves]PD us₂[to-be-adjacent]V
+c.1.3.3,Inana and Šu-kale-tuda,,212,saŋ[head]N gig₂[to-be-black]V šeš[brother]N ŋiri₃[foot]N gub[to-stand]V ŋen[to-go]V
+c.1.3.3,Inana and Šu-kale-tuda,,213,munus[woman]N šag₄[heart]N kur[(mountain)-land]N pad₃[to-find]V
+c.1.3.3,Inana and Šu-kale-tuda,,214,3-kam-ma[3rd]NU munus[woman]N nam[destiny]N gal₄-la[female-genitals]N a-na[what(ever)]PD gul[to-destroy]V
+c.1.3.3,Inana and Šu-kale-tuda,,215,Inana[1]DN nam[destiny]N gal₄-la[female-genitals]N a-na[what(ever)]PD ak[to-do]V
+c.1.3.3,Inana and Šu-kale-tuda,,216,umbin[horny-outgrowth]N su-ug[meaning-unknown]V 1[1]NU šu[hand]N te[to-approach]V
+c.1.3.3,Inana and Šu-kale-tuda,,217,he-en-du[path]N kalam[the-Land]N gib[to-lie-across-(obstructively)]V
+c.1.3.3,Inana and Šu-kale-tuda,,218,uŋ₃[people]N saŋ[head]N gig₂[to-be-black]V umbin[horny-outgrowth]N su-ug[meaning-unknown]V e₃[to-go-out-or-in]V
+c.1.3.3,Inana and Šu-kale-tuda,,219,lu₂[person]N ŋiš₃[penis]N dug₄[to-say]V kur[(mountain)-land]N pad₃[to-find]V dug₄[to-say]V
+c.1.3.3,Inana and Šu-kale-tuda,,220,lu₂[person]N ŋiš₃[penis]N dug₄[to-say]V kur[(mountain)-land]N pad₃[to-find]V
+c.1.3.3,Inana and Šu-kale-tuda,,221,lu₂-tur[child]N ad-da[father]N e₂[house(hold)]N kur₉[to-enter]V
+c.1.3.3,Inana and Šu-kale-tuda,,222,Šu-kale-tuda[1]PN ad-da[father]N gu₃[voice]N de₂[to-pour]V
+c.1.3.3,Inana and Šu-kale-tuda,,223,ad-da[father]N munus[woman]N dug₄[to-say]V
+c.1.3.3,Inana and Šu-kale-tuda,,224,3-kam-ma[3rd]NU munus[woman]N nam[destiny]N gal₄-la[female-genitals]N a-na[what(ever)]PD gul[to-destroy]V
+c.1.3.3,Inana and Šu-kale-tuda,,225,Inana[1]DN nam[destiny]N gal₄-la[female-genitals]N a-na[what(ever)]PD ak[to-do]V
+c.1.3.3,Inana and Šu-kale-tuda,,226,umbin[horny-outgrowth]N su-ug[meaning-unknown]V 1[1]NU šu[hand]N te[to-approach]V
+c.1.3.3,Inana and Šu-kale-tuda,,227,he-en-du[path]N kalam[the-Land]N gib[to-lie-across-(obstructively)]V
+c.1.3.3,Inana and Šu-kale-tuda,,228,uŋ₃[people]N saŋ[head]N gig₂[to-be-black]V umbin[horny-outgrowth]N su-ug[meaning-unknown]V e₃[to-go-out-or-in]V
+c.1.3.3,Inana and Šu-kale-tuda,,229,lu₂[person]N ŋiš₃[penis]N dug₄[to-say]V kur[(mountain)-land]N pad₃[to-find]V dug₄[to-say]V
+c.1.3.3,Inana and Šu-kale-tuda,,230,lu₂[person]N ŋiš₃[penis]N dug₄[to-say]V kur[(mountain)-land]N pad₃[to-find]V
+c.1.3.3,Inana and Šu-kale-tuda,,231,lu₂-tur[child]N ad-da[father]N gi₄[to-return]V
+c.1.3.3,Inana and Šu-kale-tuda,,232,Šu-kale-tuda[1]PN ad-da[father]N gi₄[to-return]V
+c.1.3.3,Inana and Šu-kale-tuda,,233,dumu[child]N iri[town]N šeš[brother]N us₂[to-be-adjacent]V
+c.1.3.3,Inana and Šu-kale-tuda,,234,saŋ[head]N gig₂[to-be-black]V šeš[brother]N ŋiri₃[foot]N gub[to-stand]V ŋen[to-go]V
+c.1.3.3,Inana and Šu-kale-tuda,,235,munus[woman]N šag₄[heart]N kur[(mountain)-land]N pad₃[to-find]V
+c.1.3.3,Inana and Šu-kale-tuda,,236,iri[town]N šeš[brother]N ni₂-bi[itself;-themselves]PD us₂[to-be-adjacent]V
+c.1.3.3,Inana and Šu-kale-tuda,,237,saŋ[head]N gig₂[to-be-black]V šeš[brother]N ŋiri₃[foot]N gub[to-stand]V ŋen[to-go]V
+c.1.3.3,Inana and Šu-kale-tuda,,238,munus[woman]N šag₄[heart]N kur[(mountain)-land]N pad₃[to-find]V
+c.1.3.3,Inana and Šu-kale-tuda,,239,ud[day(light)]N zal[to-pass]V Utu[1]DN e₃[to-go-out-or-in]V
+c.1.3.3,Inana and Šu-kale-tuda,,240,munus[woman]N ni₂-te-a-ni[himself;-herself]PD igi[eye]N kar₂[to-blow]V
+c.1.3.3,Inana and Šu-kale-tuda,,241,kug[shining]AJ Inana[1]DN ni₂-te-a-ni[himself;-herself]PD igi[eye]N kar₂[to-blow]V
+c.1.3.3,Inana and Šu-kale-tuda,,242,e[vocative-expression]I ŋe₂₆[I]PD a-ba[who]PD sig₁₀[to-place]V
+c.1.3.3,Inana and Šu-kale-tuda,,243,e[vocative-expression]I ŋe₂₆[I]PD a-ba[who]PD aŋ₂[to-measure]V
+c.1.3.3,Inana and Šu-kale-tuda,,244,e-ne-eŋ₃[word]N a-a[father]N ugu[to-give-birth]V Enki[1]DN me[to-be]V
+c.1.3.3,Inana and Šu-kale-tuda,,245,abzu[underground-water]N Eridug[1]SN Enki[1]DN kug[shining]AJ Inana[1]DN ŋiri₃[foot]N gub[to-stand]V
+c.1.3.3,Inana and Šu-kale-tuda,,246,nam[destiny]N ur₂[root]N dun[to-dig]V šu[hand]N la₂[to-hang]V
+c.1.3.3,Inana and Šu-kale-tuda,,247,a-a[father]N Enki[1]DN sig₁₀[to-place]V aŋ₂[to-measure]V
+c.1.3.3,Inana and Šu-kale-tuda,,248,lu₂[person]N abzu[underground-water]N šu[hand]N ze₂-eŋ₃[to-give]V
+c.1.3.3,Inana and Šu-kale-tuda,,249,eš₃[shrine]N E-ana[1]TN ze₂-eb[to-be-good]V kur₉[to-enter]V
+c.1.3.3,Inana and Šu-kale-tuda,,250,Enki[1]DN sag₉[to-be-good]V dug₄[to-say]V he₂-am₃[(so)-be-it]I dug₄[to-say]V
+c.1.3.3,Inana and Šu-kale-tuda,,251,kug[shining]AJ Inana[1]DN abzu[underground-water]N Eridug[1]SN e₃[to-go-out-or-in]V
+c.1.3.3,Inana and Šu-kale-tuda,,252,ni₂-te-a-ni[himself;-herself]PD tir-an-na[rainbow]N an[heaven]N gib[to-lie-across-(obstructively)]V ki[place]N us₂[to-be-adjacent]V
+c.1.3.3,Inana and Šu-kale-tuda,,253,ulu₃[south-wind-(storm)]N dib[to-pass]V mir[north-wind]N dib[to-pass]V
+c.1.3.3,Inana and Šu-kale-tuda,,254,Šu-kale-tuda[1]PN dili[single]AJ ni₂[fear(someness)]N tur[to-be-small]V
+c.1.3.3,Inana and Šu-kale-tuda,,255,munus[woman]N šag₄[heart]N kur[(mountain)-land]N pad₃[to-find]V
+c.1.3.3,Inana and Šu-kale-tuda,,256,kug[shining]AJ Inana[1]DN Šu-kale-tuda[1]PN gu₃[voice]N de₂[to-pour]V
+c.1.3.3,Inana and Šu-kale-tuda,,257,a-gin₇[type-of-manner-adverbial]AV ŋal₂[to-be-(located)]V
 c.1.3.3,Inana and Šu-kale-tuda,,258,
-c.1.3.3,Inana and Šu-kale-tuda,,259,sux:anše[donkey]N
-c.1.3.3,Inana and Šu-kale-tuda,,260,sux:šah₂[pig]N
-c.1.3.3,Inana and Šu-kale-tuda,,262,sux:Šu-kale-tuda[1]PN sux:kug[shining]AJ sux:Inana[1]DN sux:gi₄[to-return]V
-c.1.3.3,Inana and Šu-kale-tuda,,263,sux:nin[lady]N sux:mu₂-sar[garden]N sux:a[water]N sux:sig₁₀[to-place]V
-c.1.3.3,Inana and Šu-kale-tuda,,264,sux:nisig[greenery]N sux:da[side]N sux:pu₂[(water)-hole]N sux:ak[to-do]V
-c.1.3.3,Inana and Šu-kale-tuda,,265,sux:nisig[greenery]N sux:dili[single]AJ sux:me[to-be]V sux:a-na[what(ever)]PD sux:me[to-be]V
-c.1.3.3,Inana and Šu-kale-tuda,,266,sux:ur₂[root]N sux:bal[to-turn-over]V sux:zu₂[tooth]N sux:gaz[to-strike-(dead)]V
-c.1.3.3,Inana and Šu-kale-tuda,,267,sux:tum₉-dal[storm-wind]N sux:a-na[what]PD sux:de₆[to-carry]V
-c.1.3.3,Inana and Šu-kale-tuda,,268,sux:igi[eye]N sux:sahar[earth]N sux:kur[(mountain)-land]N sux:ra[to-beat]V
-c.1.3.3,Inana and Šu-kale-tuda,,269,sux:ub[corner]N sux:igi[eye]N sux:šu[hand]N sux:tuku[to-have]V
-c.1.3.3,Inana and Šu-kale-tuda,,270,sux:niŋ₂[thing]N sux:sig₉[to-put]V sux:zag[side]N sux:zu[to-know]V
-c.1.3.3,Inana and Šu-kale-tuda,,271,sux:sig[to-be-low]V sux:igi[eye]N sux:il₂[to-raise]V sux:diŋir[deity]N sux:un₃[to-be-high]V sux:kur[(mountain)-land]N sux:ud[day(light)]N sux:e₃[to-go-out-or-in]V sux:igi[eye]N sux:du₈[to-spread]V
-c.1.3.3,Inana and Šu-kale-tuda,,272,sux:nim[upper-(land)]N sux:igi[eye]N sux:il₂[to-raise]V sux:diŋir[deity]N sux:un₃[to-be-high]V sux:kur[(mountain)-land]N sux:ud[day(light)]N sux:šu₂[to-cover]V sux:igi[eye]N sux:du₈[to-spread]V
-c.1.3.3,Inana and Šu-kale-tuda,,273,sux:gidim[ghost]N sux:dili[single]AJ sux:ŋen[to-go]V sux:igi[eye]N sux:du₈[to-spread]V
-c.1.3.3,Inana and Šu-kale-tuda,,274,sux:diŋir[deity]N sux:dili[single]AJ sux:ŋen[to-go]V sux:igi[eye]N sux:ŋar[to-place]V
-c.1.3.3,Inana and Šu-kale-tuda,,275,sux:me[essence]N sux:šu[hand]N sux:du₇[to-be-perfect]V sux:igi[eye]N sux:du₈[to-spread]V
-c.1.3.3,Inana and Šu-kale-tuda,,276,sux:nam[destiny]N sux:tar[to-cut]V sux:diŋir[deity]N sux:igi[eye]N sux:ŋal₂[to-be-(located)]V
-c.1.3.3,Inana and Šu-kale-tuda,,277,sux:sar[garden-plot]N sux:ki[place]N sux:300[300]NU sux:600[600]NU sux:te[to-approach]V
-c.1.3.3,Inana and Šu-kale-tuda,,278,sux:ki[place]N sux:ŋiš-an-dul₃[shady-tree]N sux:1[1]NU sux:gub[to-stand]V
-c.1.3.3,Inana and Šu-kale-tuda,,279,sux:ŋiš-an-dul₃[shady-tree]N sux:asal₂[poplar]N sux:dug₃[to-be-good]V sux:ŋissu[(protective)-shade]N sux:daŋal[to-be-wide]V
-c.1.3.3,Inana and Šu-kale-tuda,,280,sux:ŋissu[(protective)-shade]N sux:sig[to-be-low]V sux:ud[day(light)]N sux:zal[to-pass]V
-c.1.3.3,Inana and Šu-kale-tuda,,281,sux:an-bar₇[midday]N sux:an-usan[evening]N sux:gi₄[to-return]V
-c.1.3.3,Inana and Šu-kale-tuda,,282,sux:ud[day(light)]N sux:nin[lady]N sux:an[heaven]N sux:niŋin₂[to-go-around]V sux:ki[place]N sux:niŋin₂[to-go-around]V
-c.1.3.3,Inana and Šu-kale-tuda,,283,sux:Inana[1]DN sux:an[heaven]N sux:niŋin₂[to-go-around]V sux:ki[place]N sux:niŋin₂[to-go-around]V
-c.1.3.3,Inana and Šu-kale-tuda,,284,sux:Elam[1]GN sux:Subir[1]GN sux:niŋin₂[to-go-around]V
-c.1.3.3,Inana and Šu-kale-tuda,,285,sux:dubur[horizon]N sux:an[heaven]N sux:gilim[to-be-intertwined]V sux:niŋin₂[to-go-around]V
-c.1.3.3,Inana and Šu-kale-tuda,,286,sux:nu-u₈-gig[high-status-woman]N sux:kuš₂[to-be-tired]V sux:te[to-approach]V sux:dur₂[rump]N sux:nu₂[to-lie-down]V
-c.1.3.3,Inana and Šu-kale-tuda,,287,sux:zag[side]N sux:sar[garden-plot]N sux:igi[eye]N sux:sig₁₀[to-place]V
-c.1.3.3,Inana and Šu-kale-tuda,,288,sux:ŋiš₃[penis]N sux:dug₄[to-say]V sux:ne[noun-part-of-multiword-verb]N sux:su-ub[to-rub]V
-c.1.3.3,Inana and Šu-kale-tuda,,289,sux:zag[side]N sux:sar[garden-plot]N sux:gi₄[to-return]V
-c.1.3.3,Inana and Šu-kale-tuda,,290,sux:ur₅[that]PD sux:dug₄[to-say]V
-c.1.3.3,Inana and Šu-kale-tuda,,291,sux:ra[to-beat]V
-c.1.3.3,Inana and Šu-kale-tuda,,292,sux:tah[to-add]V
-c.1.3.3,Inana and Šu-kale-tuda,,293,sux:gi₄[to-return]V
-c.1.3.3,Inana and Šu-kale-tuda,,294,sux:nam[destiny]N sux:tar[to-cut]V
-c.1.3.3,Inana and Šu-kale-tuda,,295,sux:kug[shining]AJ sux:Inana[1]DN sux:Šu-kale-tuda[1]PN sux:gu₃[voice]N sux:de₂[to-pour]V
-c.1.3.3,Inana and Šu-kale-tuda,,296,sux:ŋen[to-go]V sux:uš₂[to-die]V sux:nam-ŋu₁₀[what-is-it-to-me]PD sux:mu[name]N sux:ha-lam[to-be-lost]V
-c.1.3.3,Inana and Šu-kale-tuda,,297,sux:mu[name]N sux:en₃-du[song]N sux:he₂-ŋal₂[plenty]N sux:en₃-du[song]N sux:dug₃[to-be-good]V
-c.1.3.3,Inana and Šu-kale-tuda,,298,sux:nar[musician]N sux:tur[to-be-small]V sux:e₂-gal[palace]N sux:lugal[king]N sux:ku₇-ku₇[to-be-sweet]V
-c.1.3.3,Inana and Šu-kale-tuda,,299,sux:sipad[shepherd]N sux:dun₅[to-rock]V sux:šakir₃[churn]N sux:dug₃[to-be-good]V sux:dug₄[to-say]V
-c.1.3.3,Inana and Šu-kale-tuda,,300,sux:sipad-tur[junior-shepherd]N sux:ki[place]N sux:udu[sheep]N sux:lu[to-be-abundant]V sux:mu[name]N sux:de₆[to-carry]V
-c.1.3.3,Inana and Šu-kale-tuda,,301,sux:e₂-gal[palace]N sux:edin[open-country]N sux:e₂[house(hold)]N sux:me[to-be]V
-c.1.3.3,Inana and Šu-kale-tuda,,302,sux:DU[DU]V sux:gu₃[voice]N sux:re[that]PD sux:ŋar[to-place]V
-c.1.3.3,Inana and Šu-kale-tuda,,303,sux:dub₂[to-tremble]V
-c.1.3.3,Inana and Šu-kale-tuda,,304,sux:tug₂[garment]N sux:sig₉[to-put]V
-c.1.3.3,Inana and Šu-kale-tuda,,305,sux:a[water]N sux:u₅[to-ride]V
-c.1.3.3,Inana and Šu-kale-tuda,,306,sux:ŋar[to-place]V
-c.1.3.3,Inana and Šu-kale-tuda,,307,sux:Šu-kale-tuda[1]PN
-c.1.3.3,Inana and Šu-kale-tuda,,309,sux:nam[destiny]N sux:tar[to-cut]V
-c.1.3.3,Inana and Šu-kale-tuda,,310,sux:Inana[1]DN sux:za₃-mi₂[praise]N
+c.1.3.3,Inana and Šu-kale-tuda,,259,anše[donkey]N
+c.1.3.3,Inana and Šu-kale-tuda,,260,šah₂[pig]N
+c.1.3.3,Inana and Šu-kale-tuda,,262,Šu-kale-tuda[1]PN kug[shining]AJ Inana[1]DN gi₄[to-return]V
+c.1.3.3,Inana and Šu-kale-tuda,,263,nin[lady]N mu₂-sar[garden]N a[water]N sig₁₀[to-place]V
+c.1.3.3,Inana and Šu-kale-tuda,,264,nisig[greenery]N da[side]N pu₂[(water)-hole]N ak[to-do]V
+c.1.3.3,Inana and Šu-kale-tuda,,265,nisig[greenery]N dili[single]AJ me[to-be]V a-na[what(ever)]PD me[to-be]V
+c.1.3.3,Inana and Šu-kale-tuda,,266,ur₂[root]N bal[to-turn-over]V zu₂[tooth]N gaz[to-strike-(dead)]V
+c.1.3.3,Inana and Šu-kale-tuda,,267,tum₉-dal[storm-wind]N a-na[what]PD de₆[to-carry]V
+c.1.3.3,Inana and Šu-kale-tuda,,268,igi[eye]N sahar[earth]N kur[(mountain)-land]N ra[to-beat]V
+c.1.3.3,Inana and Šu-kale-tuda,,269,ub[corner]N igi[eye]N šu[hand]N tuku[to-have]V
+c.1.3.3,Inana and Šu-kale-tuda,,270,niŋ₂[thing]N sig₉[to-put]V zag[side]N zu[to-know]V
+c.1.3.3,Inana and Šu-kale-tuda,,271,sig[to-be-low]V igi[eye]N il₂[to-raise]V diŋir[deity]N un₃[to-be-high]V kur[(mountain)-land]N ud[day(light)]N e₃[to-go-out-or-in]V igi[eye]N du₈[to-spread]V
+c.1.3.3,Inana and Šu-kale-tuda,,272,nim[upper-(land)]N igi[eye]N il₂[to-raise]V diŋir[deity]N un₃[to-be-high]V kur[(mountain)-land]N ud[day(light)]N šu₂[to-cover]V igi[eye]N du₈[to-spread]V
+c.1.3.3,Inana and Šu-kale-tuda,,273,gidim[ghost]N dili[single]AJ ŋen[to-go]V igi[eye]N du₈[to-spread]V
+c.1.3.3,Inana and Šu-kale-tuda,,274,diŋir[deity]N dili[single]AJ ŋen[to-go]V igi[eye]N ŋar[to-place]V
+c.1.3.3,Inana and Šu-kale-tuda,,275,me[essence]N šu[hand]N du₇[to-be-perfect]V igi[eye]N du₈[to-spread]V
+c.1.3.3,Inana and Šu-kale-tuda,,276,nam[destiny]N tar[to-cut]V diŋir[deity]N igi[eye]N ŋal₂[to-be-(located)]V
+c.1.3.3,Inana and Šu-kale-tuda,,277,sar[garden-plot]N ki[place]N 300[300]NU 600[600]NU te[to-approach]V
+c.1.3.3,Inana and Šu-kale-tuda,,278,ki[place]N ŋiš-an-dul₃[shady-tree]N 1[1]NU gub[to-stand]V
+c.1.3.3,Inana and Šu-kale-tuda,,279,ŋiš-an-dul₃[shady-tree]N asal₂[poplar]N dug₃[to-be-good]V ŋissu[(protective)-shade]N daŋal[to-be-wide]V
+c.1.3.3,Inana and Šu-kale-tuda,,280,ŋissu[(protective)-shade]N sig[to-be-low]V ud[day(light)]N zal[to-pass]V
+c.1.3.3,Inana and Šu-kale-tuda,,281,an-bar₇[midday]N an-usan[evening]N gi₄[to-return]V
+c.1.3.3,Inana and Šu-kale-tuda,,282,ud[day(light)]N nin[lady]N an[heaven]N niŋin₂[to-go-around]V ki[place]N niŋin₂[to-go-around]V
+c.1.3.3,Inana and Šu-kale-tuda,,283,Inana[1]DN an[heaven]N niŋin₂[to-go-around]V ki[place]N niŋin₂[to-go-around]V
+c.1.3.3,Inana and Šu-kale-tuda,,284,Elam[1]GN Subir[1]GN niŋin₂[to-go-around]V
+c.1.3.3,Inana and Šu-kale-tuda,,285,dubur[horizon]N an[heaven]N gilim[to-be-intertwined]V niŋin₂[to-go-around]V
+c.1.3.3,Inana and Šu-kale-tuda,,286,nu-u₈-gig[high-status-woman]N kuš₂[to-be-tired]V te[to-approach]V dur₂[rump]N nu₂[to-lie-down]V
+c.1.3.3,Inana and Šu-kale-tuda,,287,zag[side]N sar[garden-plot]N igi[eye]N sig₁₀[to-place]V
+c.1.3.3,Inana and Šu-kale-tuda,,288,ŋiš₃[penis]N dug₄[to-say]V ne[noun-part-of-multiword-verb]N su-ub[to-rub]V
+c.1.3.3,Inana and Šu-kale-tuda,,289,zag[side]N sar[garden-plot]N gi₄[to-return]V
+c.1.3.3,Inana and Šu-kale-tuda,,290,ur₅[that]PD dug₄[to-say]V
+c.1.3.3,Inana and Šu-kale-tuda,,291,ra[to-beat]V
+c.1.3.3,Inana and Šu-kale-tuda,,292,tah[to-add]V
+c.1.3.3,Inana and Šu-kale-tuda,,293,gi₄[to-return]V
+c.1.3.3,Inana and Šu-kale-tuda,,294,nam[destiny]N tar[to-cut]V
+c.1.3.3,Inana and Šu-kale-tuda,,295,kug[shining]AJ Inana[1]DN Šu-kale-tuda[1]PN gu₃[voice]N de₂[to-pour]V
+c.1.3.3,Inana and Šu-kale-tuda,,296,ŋen[to-go]V uš₂[to-die]V nam-ŋu₁₀[what-is-it-to-me]PD mu[name]N ha-lam[to-be-lost]V
+c.1.3.3,Inana and Šu-kale-tuda,,297,mu[name]N en₃-du[song]N he₂-ŋal₂[plenty]N en₃-du[song]N dug₃[to-be-good]V
+c.1.3.3,Inana and Šu-kale-tuda,,298,nar[musician]N tur[to-be-small]V e₂-gal[palace]N lugal[king]N ku₇-ku₇[to-be-sweet]V
+c.1.3.3,Inana and Šu-kale-tuda,,299,sipad[shepherd]N dun₅[to-rock]V šakir₃[churn]N dug₃[to-be-good]V dug₄[to-say]V
+c.1.3.3,Inana and Šu-kale-tuda,,300,sipad-tur[junior-shepherd]N ki[place]N udu[sheep]N lu[to-be-abundant]V mu[name]N de₆[to-carry]V
+c.1.3.3,Inana and Šu-kale-tuda,,301,e₂-gal[palace]N edin[open-country]N e₂[house(hold)]N me[to-be]V
+c.1.3.3,Inana and Šu-kale-tuda,,302,DU[DU]V gu₃[voice]N re[that]PD ŋar[to-place]V
+c.1.3.3,Inana and Šu-kale-tuda,,303,dub₂[to-tremble]V
+c.1.3.3,Inana and Šu-kale-tuda,,304,tug₂[garment]N sig₉[to-put]V
+c.1.3.3,Inana and Šu-kale-tuda,,305,a[water]N u₅[to-ride]V
+c.1.3.3,Inana and Šu-kale-tuda,,306,ŋar[to-place]V
+c.1.3.3,Inana and Šu-kale-tuda,,307,Šu-kale-tuda[1]PN
+c.1.3.3,Inana and Šu-kale-tuda,,309,nam[destiny]N tar[to-cut]V
+c.1.3.3,Inana and Šu-kale-tuda,,310,Inana[1]DN za₃-mi₂[praise]N
