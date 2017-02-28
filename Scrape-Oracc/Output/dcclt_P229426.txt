@@ -1,0 +1,35 @@
+id_text,text_name,l_no,text
+dcclt/P229426,CULC 454 (MSL 14 021 Dm) [OB Nippur Ea],o 1,la[hang]V/t
+dcclt/P229426,CULC 454 (MSL 14 021 Dm) [OB Nippur Ea],o 2,usur[suspend]V/t
+dcclt/P229426,CULC 454 (MSL 14 021 Dm) [OB Nippur Ea],o 3,ukur[poor]V/i
+dcclt/P229426,CULC 454 (MSL 14 021 Dm) [OB Nippur Ea],o 4,usar[neighbor]N
+dcclt/P229426,CULC 454 (MSL 14 021 Dm) [OB Nippur Ea],o 5,niŋin[district]N
+dcclt/P229426,CULC 454 (MSL 14 021 Dm) [OB Nippur Ea],o 6,laʾu[arrears]N
+dcclt/P229426,CULC 454 (MSL 14 021 Dm) [OB Nippur Ea],o 7,halba[frost]N
+dcclt/P229426,CULC 454 (MSL 14 021 Dm) [OB Nippur Ea],o 8,pap[relation]N
+dcclt/P229426,CULC 454 (MSL 14 021 Dm) [OB Nippur Ea],o 9,kur[different]V/i
+dcclt/P229426,CULC 454 (MSL 14 021 Dm) [OB Nippur Ea],o 10,par[canal]N
+dcclt/P229426,CULC 454 (MSL 14 021 Dm) [OB Nippur Ea],o 11,qû[unit]N
+dcclt/P229426,CULC 454 (MSL 14 021 Dm) [OB Nippur Ea],o 12,sila[unit]N
+dcclt/P229426,CULC 454 (MSL 14 021 Dm) [OB Nippur Ea],o 13,šita[priest]N
+dcclt/P229426,CULC 454 (MSL 14 021 Dm) [OB Nippur Ea],o 14,du[build]V/t
+dcclt/P229426,CULC 454 (MSL 14 021 Dm) [OB Nippur Ea],o 15,henbur[stalk]N
+dcclt/P229426,CULC 454 (MSL 14 021 Dm) [OB Nippur Ea],o 16,gag[nail]N
+dcclt/P229426,CULC 454 (MSL 14 021 Dm) [OB Nippur Ea],o 17,ir[scent]N
+dcclt/P229426,CULC 454 (MSL 14 021 Dm) [OB Nippur Ea],o 18,i[oil]N
+dcclt/P229426,CULC 454 (MSL 14 021 Dm) [OB Nippur Ea],o 20,zal[pass]V/t
+dcclt/P229426,CULC 454 (MSL 14 021 Dm) [OB Nippur Ea],r ii 1,ma[ship]N ušu[thirty]NU gur[unit]N
+dcclt/P229426,CULC 454 (MSL 14 021 Dm) [OB Nippur Ea],r ii 2,ma[ship]N niš[twenty]NU gur[unit]N
+dcclt/P229426,CULC 454 (MSL 14 021 Dm) [OB Nippur Ea],r ii 3,ma[ship]N gur[unit]N
+dcclt/P229426,CULC 454 (MSL 14 021 Dm) [OB Nippur Ea],r ii 4,ma[ship]N u[ten]NU gur[unit]N
+dcclt/P229426,CULC 454 (MSL 14 021 Dm) [OB Nippur Ea],r ii 5,ma[ship]N ya[five]NU gur[unit]N
+dcclt/P229426,CULC 454 (MSL 14 021 Dm) [OB Nippur Ea],r ii 6,ma[ship]N tur[small]V/i
+dcclt/P229426,CULC 454 (MSL 14 021 Dm) [OB Nippur Ea],r ii 7,ma[ship]N An[1]DN
+dcclt/P229426,CULC 454 (MSL 14 021 Dm) [OB Nippur Ea],r ii 8,ma[ship]N anta[upper]V/t
+dcclt/P229426,CULC 454 (MSL 14 021 Dm) [OB Nippur Ea],r ii 9,magur[barge]N Ninlil[1]DN
+dcclt/P229426,CULC 454 (MSL 14 021 Dm) [OB Nippur Ea],r ii 10,magur[barge]N Damu[1]DN
+dcclt/P229426,CULC 454 (MSL 14 021 Dm) [OB Nippur Ea],r ii 11,ma[ship]N kar[harbor]N nun[prince]N e[leave]V/i
+dcclt/P229426,CULC 454 (MSL 14 021 Dm) [OB Nippur Ea],r ii 12,ma[ship]N durah[goat]N abzu[water]N
+dcclt/P229426,CULC 454 (MSL 14 021 Dm) [OB Nippur Ea],r ii 13,ma[ship]N nurum[light]N
+dcclt/P229426,CULC 454 (MSL 14 021 Dm) [OB Nippur Ea],r ii 14,magur[barge]N
+dcclt/P229426,CULC 454 (MSL 14 021 Dm) [OB Nippur Ea],r ii 15,ma[ship]N id[river]N til[live]V/i

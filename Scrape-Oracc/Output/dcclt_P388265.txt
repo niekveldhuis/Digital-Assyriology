@@ -1,0 +1,351 @@
+id_text,text_name,l_no,text
+dcclt/P388265,SC 1 022 [OB Ura],i 5,mes[tree]N babbar[white]V/i
+dcclt/P388265,SC 1 022 [OB Ura],i 6,mes[tree]N giggi[black]V/i
+dcclt/P388265,SC 1 022 [OB Ura],i 7,mes[tree]N Magan[1]GN
+dcclt/P388265,SC 1 022 [OB Ura],i 8,mes[blackness]N aʾabak[sea]N Meluhha[1]GN
+dcclt/P388265,SC 1 022 [OB Ura],i 9,mes.TU[tree]N
+dcclt/P388265,SC 1 022 [OB Ura],i 10,elammakum[tree]N
+dcclt/P388265,SC 1 022 [OB Ura],i 11,šagkal[tree]N
+dcclt/P388265,SC 1 022 [OB Ura],i 12,šaršabid[tree]N
+dcclt/P388265,SC 1 022 [OB Ura],i 13,suhuš[offshoot]N
+dcclt/P388265,SC 1 022 [OB Ura],i 14,girinum[plant]N
+dcclt/P388265,SC 1 022 [OB Ura],i 15,zirdum[olive]N
+dcclt/P388265,SC 1 022 [OB Ura],i 16,šiqdum[almond]N
+dcclt/P388265,SC 1 022 [OB Ura],i 17,damšelum[plant]N
+dcclt/P388265,SC 1 022 [OB Ura],i 18,ilianum[tree]N
+dcclt/P388265,SC 1 022 [OB Ura],i 19,urnum[cedar]N
+dcclt/P388265,SC 1 022 [OB Ura],i 20,urzinum[tree]N
+dcclt/P388265,SC 1 022 [OB Ura],i 21,hilum[resin]N urzinum[tree]N
+dcclt/P388265,SC 1 022 [OB Ura],i 22,mirišŋara[tree]N
+dcclt/P388265,SC 1 022 [OB Ura],i 23,halub[tree]N
+dcclt/P388265,SC 1 022 [OB Ura],i 24,šeš[object]N
+dcclt/P388265,SC 1 022 [OB Ura],i 26,dih[weed]N
+dcclt/P388265,SC 1 022 [OB Ura],ii 15,adar[plant]N
+dcclt/P388265,SC 1 022 [OB Ura],ii 16,isimu[sprout]N
+dcclt/P388265,SC 1 022 [OB Ura],ii 17,ŋeš[tree]N hursaŋ[mountain]N
+dcclt/P388265,SC 1 022 [OB Ura],ii 18,tir[forest]N
+dcclt/P388265,SC 1 022 [OB Ura],ii 19,tir[forest]N izi[fire]N gu[eat]V/t
+dcclt/P388265,SC 1 022 [OB Ura],ii 20,tir[forest]N eh[insect]N gu[eat]V/t
+dcclt/P388265,SC 1 022 [OB Ura],ii 21,šenu[tree]N
+dcclt/P388265,SC 1 022 [OB Ura],ii 22,šedug[tree]N
+dcclt/P388265,SC 1 022 [OB Ura],ii 23,šeše[tree]N
+dcclt/P388265,SC 1 022 [OB Ura],ii 24,arganum[conifer]N
+dcclt/P388265,SC 1 022 [OB Ura],ii 25,lam[tree]N
+dcclt/P388265,SC 1 022 [OB Ura],ii 26,eš[tree]N
+dcclt/P388265,SC 1 022 [OB Ura],ii 27,šumsikil[vegetable]N
+dcclt/P388265,SC 1 022 [OB Ura],ii 28,šennur[plum]N
+dcclt/P388265,SC 1 022 [OB Ura],ii 29,ŋeštin[vine]N
+dcclt/P388265,SC 1 022 [OB Ura],ii 30,ŋeštinkira[berry]N
+dcclt/P388265,SC 1 022 [OB Ura],ii 31,ŋeštinkaʾa[grape]N
+dcclt/P388265,SC 1 022 [OB Ura],ii 32,ildag[poplar]N
+dcclt/P388265,SC 1 022 [OB Ura],ii 33,ildag[poplar]N kur[mountain]N
+dcclt/P388265,SC 1 022 [OB Ura],iii 1,ildag[poplar]N bur[spread]V/t
+dcclt/P388265,SC 1 022 [OB Ura],iii 2,ildag[poplar]N šitan[water-channel]N
+dcclt/P388265,SC 1 022 [OB Ura],iii 3,eren[cedar]N
+dcclt/P388265,SC 1 022 [OB Ura],iii 4,eren[cedar]N mes[blackness]N
+dcclt/P388265,SC 1 022 [OB Ura],iii 5,ŋešaʾabak[tree]N
+dcclt/P388265,SC 1 022 [OB Ura],iii 6,ŋešaʾabak[tree]N Meluhha[1]GN
+dcclt/P388265,SC 1 022 [OB Ura],iii 7,lamgal[nut]N
+dcclt/P388265,SC 1 022 [OB Ura],iii 8,lamtur[nut]N
+dcclt/P388265,SC 1 022 [OB Ura],iii 9,allanum[oak]N
+dcclt/P388265,SC 1 022 [OB Ura],iii 13,maš[plant]N
+dcclt/P388265,SC 1 022 [OB Ura],iii 14,ŋiri[foot]N
+dcclt/P388265,SC 1 022 [OB Ura],iii 15,suhur[tuft]N
+dcclt/P388265,SC 1 022 [OB Ura],iii 16,suhur[tuft]N
+dcclt/P388265,SC 1 022 [OB Ura],iii 19,ilianum[tree]N
+dcclt/P388265,SC 1 022 [OB Ura],iii 20,usuh[tree]N
+dcclt/P388265,SC 1 022 [OB Ura],iii 21,še[cone]N usuh[tree]N
+dcclt/P388265,SC 1 022 [OB Ura],iii 22,numun[seed]N usuh[tree]N
+dcclt/P388265,SC 1 022 [OB Ura],iii 23,an[sky]N usuh[tree]N
+dcclt/P388265,SC 1 022 [OB Ura],iii 24,usuh[tree]N pa[branch]N kud[cut]V/t
+dcclt/P388265,SC 1 022 [OB Ura],iii 25,hašhur[apple]N
+dcclt/P388265,SC 1 022 [OB Ura],iii 26,hašhur[apple]N kur[mountain]N
+dcclt/P388265,SC 1 022 [OB Ura],iii 27,hašhur[apple]N armanu[tree]N
+dcclt/P388265,SC 1 022 [OB Ura],iii 28,nurma[pomegranate]N
+dcclt/P388265,SC 1 022 [OB Ura],iii 29,zabalum[juniper]N
+dcclt/P388265,SC 1 022 [OB Ura],iii 30,li[juniper]N
+dcclt/P388265,SC 1 022 [OB Ura],iii 31,peš[fig]N
+dcclt/P388265,SC 1 022 [OB Ura],iii 32,ŋipar[tree]N
+dcclt/P388265,SC 1 022 [OB Ura],iv 1,asal[poplar]N
+dcclt/P388265,SC 1 022 [OB Ura],iv 2,asal[poplar]N kur[mountain]N
+dcclt/P388265,SC 1 022 [OB Ura],iv 3,numun[seed]N asal[poplar]N
+dcclt/P388265,SC 1 022 [OB Ura],iv 4,KID.da[twig]N
+dcclt/P388265,SC 1 022 [OB Ura],iv 5,KID.da[twig]N
+dcclt/P388265,SC 1 022 [OB Ura],iv 6,KID.da[twig]N sil[split]V/i
+dcclt/P388265,SC 1 022 [OB Ura],iv 7,gilim[foliage]N ana[upper]AJ
+dcclt/P388265,SC 1 022 [OB Ura],iv 8,gilim[foliage]N abzu[water]N
+dcclt/P388265,SC 1 022 [OB Ura],iv 9,ŋešnimbar[palm]N
+dcclt/P388265,SC 1 022 [OB Ura],iv 10,ŋešnimbar[palm]N kur[burn]V/t
+dcclt/P388265,SC 1 022 [OB Ura],iv 11,ŋešnimbar[palm]N suhuš[offshoot]N
+dcclt/P388265,SC 1 022 [OB Ura],iv 12,ŋešnimbar[palm]N dar[split]V/t
+dcclt/P388265,SC 1 022 [OB Ura],iv 13,ŋešnimbar[palm]N kud[cut]V/t
+dcclt/P388265,SC 1 022 [OB Ura],iv 14,su[fibers]N ŋešnimbar[palm]N
+dcclt/P388265,SC 1 022 [OB Ura],iv 15,tubala[harness]N ŋešnimbar[palm]N
+dcclt/P388265,SC 1 022 [OB Ura],iv 16,zena[midrib]N ŋešnimbar[palm]N
+dcclt/P388265,SC 1 022 [OB Ura],iv 17,ŋešnimbar[palm]N
+dcclt/P388265,SC 1 022 [OB Ura],iv 18,ŋešnimbar[palm]N
+dcclt/P388265,SC 1 022 [OB Ura],iv 19,peš[frond]N ŋešnimbar[palm]N
+dcclt/P388265,SC 1 022 [OB Ura],iv 20,pešmur[~palm]N ŋešnimbar[palm]N
+dcclt/P388265,SC 1 022 [OB Ura],iv 21,šag[heart]N ŋešnimbar[palm]N
+dcclt/P388265,SC 1 022 [OB Ura],iv 22,ŋešnimbar[palm]N
+dcclt/P388265,SC 1 022 [OB Ura],iv 23,igi[eye]N ŋešnimbar[palm]N
+dcclt/P388265,SC 1 022 [OB Ura],iv 24,niŋkiluh[broom]N ŋešnimbar[palm]N
+dcclt/P388265,SC 1 022 [OB Ura],iv 25,mud[stump]N ŋešnimbar[palm]N
+dcclt/P388265,SC 1 022 [OB Ura],iv 26,aʾan[spadix]N ŋešnimbar[palm]N
+dcclt/P388265,SC 1 022 [OB Ura],iv 27,ŋešdal[crossbar]N ŋešnimbar[palm]N
+dcclt/P388265,SC 1 022 [OB Ura],iv 28,mud[stump]N gaz[kill]V/t ŋešnimbar[palm]N
+dcclt/P388265,SC 1 022 [OB Ura],iv 29,su[fibers]N ŋešnimbar[palm]N
+dcclt/P388265,SC 1 022 [OB Ura],iv 30,si[horn]N su[fibers]N ŋešnimbar[palm]N
+dcclt/P388265,SC 1 022 [OB Ura],iv 31,ŋešnimbar[palm]N
+dcclt/P388265,SC 1 022 [OB Ura],iv 32,pa[branch]N ŋešnimbar[palm]N
+dcclt/P388265,SC 1 022 [OB Ura],iv 33,pa[branch]N ŋešnimbar[palm]N
+dcclt/P388265,SC 1 022 [OB Ura],iv 34,pa[branch]N ŋešnimbar[palm]N
+dcclt/P388265,SC 1 022 [OB Ura],iv 35,su[fibers]N kiri[orchard]N ŋešnimbar[palm]N
+dcclt/P388265,SC 1 022 [OB Ura],iv 36,suhur[tuft]N ŋešnimbar[palm]N
+dcclt/P388265,SC 1 022 [OB Ura],iv 37,ŋešnimbar[palm]N
+dcclt/P388265,SC 1 022 [OB Ura],r i 1,pa[branch]N kud[cut]V/t
+dcclt/P388265,SC 1 022 [OB Ura],r i 2,igiŋal[sign]N
+dcclt/P388265,SC 1 022 [OB Ura],r i 3,apin[plow]N
+dcclt/P388265,SC 1 022 [OB Ura],r i 4,apin[plow]N šu[hand]N
+dcclt/P388265,SC 1 022 [OB Ura],r i 5,apin[plow]N šudu[equipped]AJ
+dcclt/P388265,SC 1 022 [OB Ura],r i 6,apin[plow]N šu[hand]N du[push]V/t
+dcclt/P388265,SC 1 022 [OB Ura],r i 7,apin[plow]N tugsaga[plow]N
+dcclt/P388265,SC 1 022 [OB Ura],r i 8,apin[plow]N a[arm]N gud[ox]N
+dcclt/P388265,SC 1 022 [OB Ura],r i 9,saŋ[head]N apin[plow]N
+dcclt/P388265,SC 1 022 [OB Ura],r i 10,kag[mouth]N apin[plow]N
+dcclt/P388265,SC 1 022 [OB Ura],r i 11,eme[tongue]N apin[plow]N
+dcclt/P388265,SC 1 022 [OB Ura],r i 12,šu[hand]N burud[perforate]V/t apin[plow]N
+dcclt/P388265,SC 1 022 [OB Ura],r i 13,šu[hand]N ninda[seed-funnel]N apin[plow]N
+dcclt/P388265,SC 1 022 [OB Ura],r i 14,apin[plow]N
+dcclt/P388265,SC 1 022 [OB Ura],r i 15,niŋkud[~plowshare]N apin[plow]N
+dcclt/P388265,SC 1 022 [OB Ura],r i 16,sala[~plow]N apin[plow]N
+dcclt/P388265,SC 1 022 [OB Ura],r i 17,a[arm]N apin[plow]N
+dcclt/P388265,SC 1 022 [OB Ura],r i 18,da[side-board]N apin[plow]N
+dcclt/P388265,SC 1 022 [OB Ura],r i 19,leʾum[board]N apin[plow]N
+dcclt/P388265,SC 1 022 [OB Ura],r i 20,anzam[vessel]N apin[plow]N
+dcclt/P388265,SC 1 022 [OB Ura],r i 21,ŋeštug[~plow]N apin[plow]N
+dcclt/P388265,SC 1 022 [OB Ura],r i 22,šudul[yoke]N apin[plow]N
+dcclt/P388265,SC 1 022 [OB Ura],r i 23,muš[snake]N apin[plow]N
+dcclt/P388265,SC 1 022 [OB Ura],r i 24,damga[~plow]N apin[plow]N
+dcclt/P388265,SC 1 022 [OB Ura],r i 25,al[hoe]N apin[plow]N
+dcclt/P388265,SC 1 022 [OB Ura],r i 26,al[hoe]N
+dcclt/P388265,SC 1 022 [OB Ura],r i 27,al[hoe]N zu[tooth]N
+dcclt/P388265,SC 1 022 [OB Ura],r i 28,al[hoe]N zu[tooth]N min[two]NU
+dcclt/P388265,SC 1 022 [OB Ura],r i 29,al[hoe]N zu[tooth]N eš[three]NU
+dcclt/P388265,SC 1 022 [OB Ura],r i 30,al[hoe]N zu[tooth]N limmu[four]NU
+dcclt/P388265,SC 1 022 [OB Ura],r i 31,anzam[vessel]N
+dcclt/P388265,SC 1 022 [OB Ura],r i 32,sugin[rot]N
+dcclt/P388265,SC 1 022 [OB Ura],r i 33,sugin[rot]N
+dcclt/P388265,SC 1 022 [OB Ura],r i 34,sugin[rot]N
+dcclt/P388265,SC 1 022 [OB Ura],r i 35,esi[tree]N
+dcclt/P388265,SC 1 022 [OB Ura],r i 38,ellag[ball]N
+dcclt/P388265,SC 1 022 [OB Ura],r i 39,ŋešellag[tool]N
+dcclt/P388265,SC 1 022 [OB Ura],r i 40,ellag[ball]N
+dcclt/P388265,SC 1 022 [OB Ura],r i 41,kur[wood]N
+dcclt/P388265,SC 1 022 [OB Ura],r i 42,ŋeškur[tree]N
+dcclt/P388265,SC 1 022 [OB Ura],r i 43,kur[wood]N
+dcclt/P388265,SC 1 022 [OB Ura],r i 45,SUD[post-or-stake?]N
+dcclt/P388265,SC 1 022 [OB Ura],r i 46,SUD[post-or-stake?]N
+dcclt/P388265,SC 1 022 [OB Ura],r i 49,margida[cart]N
+dcclt/P388265,SC 1 022 [OB Ura],r i 50,zara[pivot]N margida[cart]N
+dcclt/P388265,SC 1 022 [OB Ura],r ii 1,umbin[wheel]N margida[cart]N
+dcclt/P388265,SC 1 022 [OB Ura],r ii 2,gag[nail]N umbin[wheel]N margida[cart]N
+dcclt/P388265,SC 1 022 [OB Ura],r ii 3,kag[mouth]N margida[cart]N
+dcclt/P388265,SC 1 022 [OB Ura],r ii 4,endur[navel?]N margida[cart]N
+dcclt/P388265,SC 1 022 [OB Ura],r ii 5,manhara[vessel]N margida[cart]N
+dcclt/P388265,SC 1 022 [OB Ura],r ii 6,guza[chair]N margida[cart]N
+dcclt/P388265,SC 1 022 [OB Ura],r ii 7,kinud[bedroom]N margida[cart]N
+dcclt/P388265,SC 1 022 [OB Ura],r ii 8,KI.KAL[bottom]N margida[cart]N
+dcclt/P388265,SC 1 022 [OB Ura],r ii 9,mud[tube]N margida[cart]N
+dcclt/P388265,SC 1 022 [OB Ura],r ii 10,DUB.du₃[~vehicle]N bar[outside]V/t
+dcclt/P388265,SC 1 022 [OB Ura],r ii 11,DUB.du₃[~vehicle]N ŋar[place]V/t
+dcclt/P388265,SC 1 022 [OB Ura],r ii 12,DUB.du₃[~vehicle]N šag[heart]N
+dcclt/P388265,SC 1 022 [OB Ura],r ii 13,ŋušur[harrow]N
+dcclt/P388265,SC 1 022 [OB Ura],r ii 14,zara[pivot]N ŋušur[harrow]N
+dcclt/P388265,SC 1 022 [OB Ura],r ii 15,gag[nail]N zara[pivot]N ŋušur[harrow]N
+dcclt/P388265,SC 1 022 [OB Ura],r ii 16,nukirik[gardener]N ŋušur[harrow]N
+dcclt/P388265,SC 1 022 [OB Ura],r ii 17,zu[tooth]N ŋušur[harrow]N
+dcclt/P388265,SC 1 022 [OB Ura],r ii 18,mar[shovel]N
+dcclt/P388265,SC 1 022 [OB Ura],r ii 19,mar[shovel]N še[barley]N
+dcclt/P388265,SC 1 022 [OB Ura],r ii 20,mar[shovel]N ninda[bread]N
+dcclt/P388265,SC 1 022 [OB Ura],r ii 21,mar[shovel]N
+dcclt/P388265,SC 1 022 [OB Ura],r ii 22,mar[shovel]N gir[oven]N
+dcclt/P388265,SC 1 022 [OB Ura],r ii 23,mar[shovel]N sa[bundle]N
+dcclt/P388265,SC 1 022 [OB Ura],r ii 24,dilim[spoon]N mar[shovel]N
+dcclt/P388265,SC 1 022 [OB Ura],r ii 25,kul[handle]N mar[shovel]N
+dcclt/P388265,SC 1 022 [OB Ura],r ii 26,bariga[unit]N
+dcclt/P388265,SC 1 022 [OB Ura],r ii 27,ban[unit]N baneš[container]N
+dcclt/P388265,SC 1 022 [OB Ura],r ii 28,ban[unit]N banmin[vessel]N
+dcclt/P388265,SC 1 022 [OB Ura],r ii 29,ban[unit]N ban[unit]N
+dcclt/P388265,SC 1 022 [OB Ura],r ii 30,ban[unit]N ya[five]NU sila[unit]N
+dcclt/P388265,SC 1 022 [OB Ura],r ii 31,niŋ[thing]N diš[one]NU sila[unit]N
+dcclt/P388265,SC 1 022 [OB Ura],r ii 32,niŋ[thing]N sila[unit]N
+dcclt/P388265,SC 1 022 [OB Ura],r ii 33,niŋ[thing]N šušana[fraction]N sila[unit]N
+dcclt/P388265,SC 1 022 [OB Ura],r ii 34,niŋ[thing]N u[ten]NU giŋ[unit]N
+dcclt/P388265,SC 1 022 [OB Ura],r ii 35,niŋ[thing]N ya[five]NU giŋ[unit]N
+dcclt/P388265,SC 1 022 [OB Ura],r ii 36,niŋ[thing]N diš[one]NU giŋ[unit]N
+dcclt/P388265,SC 1 022 [OB Ura],r ii 37,niŋ[thing]N giŋ[unit]N
+dcclt/P388265,SC 1 022 [OB Ura],r ii 38,niŋ[thing]N šušana[fraction]N giŋ[unit]N
+dcclt/P388265,SC 1 022 [OB Ura],r ii 41,lubi[ax]N
+dcclt/P388265,SC 1 022 [OB Ura],r ii 42,ŋirigub[footstool]N
+dcclt/P388265,SC 1 022 [OB Ura],r ii 43,ŋirigub[footstool]N
+dcclt/P388265,SC 1 022 [OB Ura],r ii 44,ŋirigub[footstool]N zu[tooth]N amsi[elephant]N tag[touch]V/t
+dcclt/P388265,SC 1 022 [OB Ura],r ii 45,guza[chair]N
+dcclt/P388265,SC 1 022 [OB Ura],r ii 46,guza[chair]N mah[great]V/i
+dcclt/P388265,SC 1 022 [OB Ura],r ii 47,guza[chair]N šuniŋin[total]N
+dcclt/P388265,SC 1 022 [OB Ura],r ii 48,guza[chair]N gid[long]V/i
+dcclt/P388265,SC 1 022 [OB Ura],r ii 49,guza[chair]N kaskal[way]N
+dcclt/P388265,SC 1 022 [OB Ura],r iii 3,guza[chair]N malah[sailor]N
+dcclt/P388265,SC 1 022 [OB Ura],r iii 5,guza[chair]N munus[woman]N
+dcclt/P388265,SC 1 022 [OB Ura],r iii 6,guza[chair]N nita[male]N
+dcclt/P388265,SC 1 022 [OB Ura],r iii 7,guza[chair]N unkin[assembly]N
+dcclt/P388265,SC 1 022 [OB Ura],r iii 8,guza[chair]N šusar[string]N du[build]V/t
+dcclt/P388265,SC 1 022 [OB Ura],r iii 9,guza[chair]N kadu[cover]N
+dcclt/P388265,SC 1 022 [OB Ura],r iii 10,guza[chair]N gar[knob]N zabar[bronze]N ŋar[place]V/t
+dcclt/P388265,SC 1 022 [OB Ura],r iii 11,guza[chair]N gar[knob]N kugbabbar[silver]N ŋar[place]V/t
+dcclt/P388265,SC 1 022 [OB Ura],r iii 12,guza[chair]N gar[knob]N kugsig[gold]N ŋar[place]V/t
+dcclt/P388265,SC 1 022 [OB Ura],r iii 13,guza[chair]N lugal[king]N
+dcclt/P388265,SC 1 022 [OB Ura],r iii 14,izzi[wall]N guza[chair]N
+dcclt/P388265,SC 1 022 [OB Ura],r iii 15,saŋ[head]N guza[chair]N
+dcclt/P388265,SC 1 022 [OB Ura],r iii 16,ŋešdi[rung]N guza[chair]N
+dcclt/P388265,SC 1 022 [OB Ura],r iii 17,ŋešnud[bed]N
+dcclt/P388265,SC 1 022 [OB Ura],r iii 18,ŋeš.nud.AŠ.nud[bed]N
+dcclt/P388265,SC 1 022 [OB Ura],r iii 19,ŋešnud[bed]N kinud[bedroom]N
+dcclt/P388265,SC 1 022 [OB Ura],r iii 20,ŋešnud[bed]N Uri[Akkad]GN gada[with]N
+dcclt/P388265,SC 1 022 [OB Ura],r iii 21,ŋešnud[bed]N šusar[string]N du[build]V/t
+dcclt/P388265,SC 1 022 [OB Ura],r iii 22,ŋešnud[bed]N šatuku[mattress]N siki[hair]N garig[comb]N ak[do]V/t
+dcclt/P388265,SC 1 022 [OB Ura],r iii 23,ŋešnud[bed]N šatuku[mattress]N siki[hair]N uzud[goat]N sig[put]V/t
+dcclt/P388265,SC 1 022 [OB Ura],r iii 24,ŋešnud[bed]N umbin[nail]N gud[ox]N
+dcclt/P388265,SC 1 022 [OB Ura],r iii 25,ŋešnud[bed]N umbin[nail]N sal[thin]V/i
+dcclt/P388265,SC 1 022 [OB Ura],r iii 26,ŋešnud[bed]N
+dcclt/P388265,SC 1 022 [OB Ura],r iii 27,izzi[wall]N ŋešnud[bed]N
+dcclt/P388265,SC 1 022 [OB Ura],r iii 28,saŋ[head]N ŋešnud[bed]N
+dcclt/P388265,SC 1 022 [OB Ura],r iii 29,ŋešdi[rung]N ŋešnud[bed]N
+dcclt/P388265,SC 1 022 [OB Ura],r iii 30,šerim[~loom]N
+dcclt/P388265,SC 1 022 [OB Ura],r iii 41,gigir[chariot]N
+dcclt/P388265,SC 1 022 [OB Ura],r iii 42,gigir[chariot]N
+dcclt/P388265,SC 1 022 [OB Ura],r iii 43,gigir[chariot]N
+dcclt/P388265,SC 1 022 [OB Ura],r iii 44,gigir[chariot]N
+dcclt/P388265,SC 1 022 [OB Ura],r iii 45,gigir[chariot]N
+dcclt/P388265,SC 1 022 [OB Ura],r iii 46,gigir[chariot]N
+dcclt/P388265,SC 1 022 [OB Ura],r iv 6,šuʾa[stool]N ašgab[leatherworker]N
+dcclt/P388265,SC 1 022 [OB Ura],r iv 7,šuʾa[stool]N dus[bathroom]N
+dcclt/P388265,SC 1 022 [OB Ura],r iv 8,šuʾa[stool]N kaskal[way]N
+dcclt/P388265,SC 1 022 [OB Ura],r iv 9,dilim[spoon]N
+dcclt/P388265,SC 1 022 [OB Ura],r iv 10,dilim[spoon]N kag[mouth]N
+dcclt/P388265,SC 1 022 [OB Ura],r iv 11,dilim[spoon]N tunbar[moustache]N
+dcclt/P388265,SC 1 022 [OB Ura],r iv 12,buniŋ[trough]N
+dcclt/P388265,SC 1 022 [OB Ura],r iv 13,buniŋ[trough]N tur[small]V/i
+dcclt/P388265,SC 1 022 [OB Ura],r iv 14,buniŋ[trough]N kag[mouth]N
+dcclt/P388265,SC 1 022 [OB Ura],r iv 15,buniŋ[trough]N tunbar[moustache]N
+dcclt/P388265,SC 1 022 [OB Ura],r iv 16,ig[door]N
+dcclt/P388265,SC 1 022 [OB Ura],r iv 17,ig[door]N i[oil]N
+dcclt/P388265,SC 1 022 [OB Ura],r iv 18,ig[door]N leʾum[board]N
+dcclt/P388265,SC 1 022 [OB Ura],r iv 19,ig[door]N miriza[plank]N
+dcclt/P388265,SC 1 022 [OB Ura],r iv 20,ig[door]N barda[crossbar]N
+dcclt/P388265,SC 1 022 [OB Ura],r iv 21,ig[door]N egal[palace]N
+dcclt/P388265,SC 1 022 [OB Ura],r iv 22,ig[door]N abula[gate]N
+dcclt/P388265,SC 1 022 [OB Ura],r iv 23,ig[door]N kan[gate]N bar[outside]V/t
+dcclt/P388265,SC 1 022 [OB Ura],r iv 24,ig[door]N eren[cedar]N
+dcclt/P388265,SC 1 022 [OB Ura],r iv 25,ig[door]N papah[cella]N
+dcclt/P388265,SC 1 022 [OB Ura],r iv 26,kul[handle]N ig[door]N
+dcclt/P388265,SC 1 022 [OB Ura],r iv 27,suhub[bolt]N ig[door]N
+dcclt/P388265,SC 1 022 [OB Ura],r iv 28,saŋkul[bolt]N
+dcclt/P388265,SC 1 022 [OB Ura],r iv 29,nukušu[~door]N
+dcclt/P388265,SC 1 022 [OB Ura],r iv 31,miriza[plank]N
+dcclt/P388265,SC 1 022 [OB Ura],r iv 32,barbar[shuttle]N
+dcclt/P388265,SC 1 022 [OB Ura],r iv 33,tugtug[~loom]N
+dcclt/P388265,SC 1 022 [OB Ura],r iv 34,ilila[lever]N
+dcclt/P388265,SC 1 022 [OB Ura],r iv 36,dur[balk]N
+dcclt/P388265,SC 1 022 [OB Ura],r iv 37,dur[balk]N si[horn]N
+dcclt/P388265,SC 1 022 [OB Ura],r iv 38,dur[balk]N peš[thick]V/i
+dcclt/P388265,SC 1 022 [OB Ura],r iv 39,ti[arrow]N
+dcclt/P388265,SC 1 022 [OB Ura],r iv 43,SAL.UŠ[sheath]N
+dcclt/P388265,SC 1 022 [OB Ura],r iv 44,SAL.UŠ[sheath]N
+dcclt/P388265,SC 1 022 [OB Ura],r iv 45,SAL.UŠ[sheath]N
+dcclt/P388265,SC 1 022 [OB Ura],r iv 46,SAL.UŠ[sheath]N
+dcclt/P388265,SC 1 022 [OB Ura],r iv 47,SAL.UŠ[sheath]N
+dcclt/P388265,SC 1 022 [OB Ura],r v 1,ma[ship]N
+dcclt/P388265,SC 1 022 [OB Ura],r v 2,ma[ship]N
+dcclt/P388265,SC 1 022 [OB Ura],r v 3,burud[perforate]V/t
+dcclt/P388265,SC 1 022 [OB Ura],r v 4,magaz[bench]N
+dcclt/P388265,SC 1 022 [OB Ura],r v 5,magaz[bench]N burud[perforate]V/t
+dcclt/P388265,SC 1 022 [OB Ura],r v 6,naŋa[mortar]N
+dcclt/P388265,SC 1 022 [OB Ura],r v 7,naŋa[mortar]N še[barley]N
+dcclt/P388265,SC 1 022 [OB Ura],r v 8,naŋa[mortar]N ŋeši[sesame]N
+dcclt/P388265,SC 1 022 [OB Ura],r v 9,naŋa[mortar]N šumgaz[vegetable]N
+dcclt/P388265,SC 1 022 [OB Ura],r v 11,ŋeššu[manacles]N
+dcclt/P388265,SC 1 022 [OB Ura],r v 12,ŋešŋiri[fetters]N
+dcclt/P388265,SC 1 022 [OB Ura],r v 13,u[sleep]N ku[place]V/t
+dcclt/P388265,SC 1 022 [OB Ura],r v 14,ŋešgu[stock]N
+dcclt/P388265,SC 1 022 [OB Ura],r v 15,alŋar[instrument]N
+dcclt/P388265,SC 1 022 [OB Ura],r v 16,alŋarsur[drumstick]N
+dcclt/P388265,SC 1 022 [OB Ura],r v 17,gud.si.AŠ[ram]N
+dcclt/P388265,SC 1 022 [OB Ura],r v 18,zu[tooth]N gud.si.AŠ[ram]N
+dcclt/P388265,SC 1 022 [OB Ura],r v 19,zena[weapon]N gud.si.AŠ[ram]N
+dcclt/P388265,SC 1 022 [OB Ura],r v 20,murgu[shoulder]N gud.si.AŠ[ram]N
+dcclt/P388265,SC 1 022 [OB Ura],r v 21,gimuš[pole]N
+dcclt/P388265,SC 1 022 [OB Ura],r v 22,zigan[rudder]N
+dcclt/P388265,SC 1 022 [OB Ura],r v 23,ŋešpu[rim]N
+dcclt/P388265,SC 1 022 [OB Ura],r v 24,ušub[brick-mold]N
+dcclt/P388265,SC 1 022 [OB Ura],r v 25,ušub[brick-mold]N šeg[brick]N
+dcclt/P388265,SC 1 022 [OB Ura],r v 26,ušub[brick-mold]N šeg[brick]N ur[bake]V/t
+dcclt/P388265,SC 1 022 [OB Ura],r v 27,ušub[brick-mold]N arhum[half-brick]N
+dcclt/P388265,SC 1 022 [OB Ura],r v 28,zamin[lyre]N
+dcclt/P388265,SC 1 022 [OB Ura],r v 29,kul[handle]N zamin[lyre]N
+dcclt/P388265,SC 1 022 [OB Ura],r v 30,dimlumagurak[instrument]N
+dcclt/P388265,SC 1 022 [OB Ura],r v 31,sabitum[instrument]N
+dcclt/P388265,SC 1 022 [OB Ura],r v 32,miritum[instrument]N
+dcclt/P388265,SC 1 022 [OB Ura],r v 33,urzababitu[instrument]N
+dcclt/P388265,SC 1 022 [OB Ura],r v 40,kuŋ[stair]N
+dcclt/P388265,SC 1 022 [OB Ura],r v 41,illar[weapon]N
+dcclt/P388265,SC 1 022 [OB Ura],r v 42,illar[weapon]N du[build]V/t
+dcclt/P388265,SC 1 022 [OB Ura],r v 43,illar[weapon]N kiŋ[work]V/t
+dcclt/P388265,SC 1 022 [OB Ura],r v 44,illar[weapon]N eban[pair]N
+dcclt/P388265,SC 1 022 [OB Ura],r v 45,illar[weapon]N a[arm]N zid[right]V/i
+dcclt/P388265,SC 1 022 [OB Ura],r v 46,illar[weapon]N a[arm]N gab[left]N
+dcclt/P388265,SC 1 022 [OB Ura],r v 47,illar[weapon]N
+dcclt/P388265,SC 1 022 [OB Ura],r v 48,negipum[tool]N
+dcclt/P388265,SC 1 022 [OB Ura],r v 49,katapum[object]N
+dcclt/P388265,SC 1 022 [OB Ura],r v 51,ŋešpaphalla[trap?]N
+dcclt/P388265,SC 1 022 [OB Ura],r vi 7,bandudu[basket]N
+dcclt/P388265,SC 1 022 [OB Ura],r vi 8,bandudu[basket]N
+dcclt/P388265,SC 1 022 [OB Ura],r vi 13,emerah[jug]N
+dcclt/P388265,SC 1 022 [OB Ura],r vi 14,emerah[jug]N
+dcclt/P388265,SC 1 022 [OB Ura],r vi 15,emerah[jug]N kaš[beer]N
+dcclt/P388265,SC 1 022 [OB Ura],r vi 16,emerah[jug]N gal[big]V/i
+dcclt/P388265,SC 1 022 [OB Ura],r vi 17,gal[big]V/i
+dcclt/P388265,SC 1 022 [OB Ura],r vi 21,šerah[shovel]N
+dcclt/P388265,SC 1 022 [OB Ura],r vi 22,raba[clamp]N
+dcclt/P388265,SC 1 022 [OB Ura],r vi 23,dub[knee]N bar[cvve]V/t
+dcclt/P388265,SC 1 022 [OB Ura],r vi 24,ba[tool]N
+dcclt/P388265,SC 1 022 [OB Ura],r vi 25,ba[tool]N
+dcclt/P388265,SC 1 022 [OB Ura],r vi 26,ba[tool]N sim[swallow]N
+dcclt/P388265,SC 1 022 [OB Ura],r vi 27,banšur[table]N
+dcclt/P388265,SC 1 022 [OB Ura],r vi 28,banšurzaggula[table]N
+dcclt/P388265,SC 1 022 [OB Ura],r vi 29,banšur[table]N saŋ[head]N
+dcclt/P388265,SC 1 022 [OB Ura],r vi 30,dilim[spoon]N banšur[table]N
+dcclt/P388265,SC 1 022 [OB Ura],r vi 31,ŋešdi[rung]N banšur[table]N
+dcclt/P388265,SC 1 022 [OB Ura],r vi 32,banšur[table]N
+dcclt/P388265,SC 1 022 [OB Ura],r vi 33,kaŋeškarak[table]N
+dcclt/P388265,SC 1 022 [OB Ura],r vi 34,murzanum[wooden-object]N
+dcclt/P388265,SC 1 022 [OB Ura],r vi 35,ŋešla[key]N
+dcclt/P388265,SC 1 022 [OB Ura],r vi 36,gag[nail]N ŋešla[key]N
+dcclt/P388265,SC 1 022 [OB Ura],r vi 40,gag[nail]N šidim[builder]N
+dcclt/P388265,SC 1 022 [OB Ura],r vi 41,mud[stump]N
+dcclt/P388265,SC 1 022 [OB Ura],r vi 48,sigsig[musical-instrument]N
+dcclt/P388265,SC 1 022 [OB Ura],r vi 49,sigsig[musical-instrument]N eban[pair]N
+dcclt/P388265,SC 1 022 [OB Ura],r vi 51,tukul[weapon]N ŋeši[sesame]N
+dcclt/P388265,SC 1 022 [OB Ura],r vi 55,gal[big]V/i
+dcclt/P388265,SC 1 022 [OB Ura],r vi 56,gida[spear]N
+dcclt/P388265,SC 1 022 [OB Ura],r vi 57,kinud[bedroom]N
+dcclt/P388265,SC 1 022 [OB Ura],r vi 58,bulug[needle]N
+dcclt/P388265,SC 1 022 [OB Ura],r vi 59,e[house]N bulug[needle]N
+dcclt/P388265,SC 1 022 [OB Ura],r vi 60,bulug[needle]N
+dcclt/P388265,SC 1 022 [OB Ura],t.e. ii 2,Umma[1]SN
+dcclt/P388265,SC 1 022 [OB Ura],t.e. ii 3,gi[thicket]N
+dcclt/P388265,SC 1 022 [OB Ura],t.e. ii 4,gi[thicket]N gub[stand]V/i
+dcclt/P388265,SC 1 022 [OB Ura],t.e. ii 5,arina[madder]N
+dcclt/P388265,SC 1 022 [OB Ura],t.e. ii 6,arina[madder]N
+dcclt/P388265,SC 1 022 [OB Ura],t.e. iii 1,kiri[orchard]N
+dcclt/P388265,SC 1 022 [OB Ura],t.e. iii 5,ma[ship]N gid[drag]V/t

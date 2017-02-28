@@ -1,0 +1,488 @@
+id_text,text_name,l_no,text
+dcclt/P247864,CM 22 pl. 36-37 [OB Ura],o i 1,eren[cedar]N
+dcclt/P247864,CM 22 pl. 36-37 [OB Ura],o i 2,šurmen[cypress]N
+dcclt/P247864,CM 22 pl. 36-37 [OB Ura],o i 3,zabalum[juniper]N
+dcclt/P247864,CM 22 pl. 36-37 [OB Ura],o i 5,taškarin[boxwood]N
+dcclt/P247864,CM 22 pl. 36-37 [OB Ura],o i 6,ŋešaʾabak[tree]N
+dcclt/P247864,CM 22 pl. 36-37 [OB Ura],o i 7,ŋešaʾabak[tree]N
+dcclt/P247864,CM 22 pl. 36-37 [OB Ura],o i 8,esi[tree]N
+dcclt/P247864,CM 22 pl. 36-37 [OB Ura],o i 9,šagkal[tree]N
+dcclt/P247864,CM 22 pl. 36-37 [OB Ura],o i 10,lam[tree]N
+dcclt/P247864,CM 22 pl. 36-37 [OB Ura],o i 11,lam[tree]N tur[small]V/i
+dcclt/P247864,CM 22 pl. 36-37 [OB Ura],o i 12,lam[tree]N gal[big]V/i
+dcclt/P247864,CM 22 pl. 36-37 [OB Ura],o i 13,ŋešgana[tree]N
+dcclt/P247864,CM 22 pl. 36-37 [OB Ura],o i 14,ŋešgana[tree]N babbar[white]V/i
+dcclt/P247864,CM 22 pl. 36-37 [OB Ura],o i 15,ŋešgana[tree]N giggi[black]V/i
+dcclt/P247864,CM 22 pl. 36-37 [OB Ura],o i 16,ŋešgana[tree]N sissig[green]V/i
+dcclt/P247864,CM 22 pl. 36-37 [OB Ura],o i 17,ŋešgana[tree]N su[red]V/i
+dcclt/P247864,CM 22 pl. 36-37 [OB Ura],o i 18,mes[tree]N
+dcclt/P247864,CM 22 pl. 36-37 [OB Ura],o i 19,mes[tree]N
+dcclt/P247864,CM 22 pl. 36-37 [OB Ura],o i 23,allanum[oak]N
+dcclt/P247864,CM 22 pl. 36-37 [OB Ura],o i 24,urnum[cedar]N
+dcclt/P247864,CM 22 pl. 36-37 [OB Ura],o i 25,tiʾarum[tree]N
+dcclt/P247864,CM 22 pl. 36-37 [OB Ura],o i 27,murdinum[bramble]N
+dcclt/P247864,CM 22 pl. 36-37 [OB Ura],o i 28,mes[tree]N halub[tree]N harran[route]N
+dcclt/P247864,CM 22 pl. 36-37 [OB Ura],o i 33,ŋipar[tree]N
+dcclt/P247864,CM 22 pl. 36-37 [OB Ura],o i 34,dih[weed]N
+dcclt/P247864,CM 22 pl. 36-37 [OB Ura],o i 35,dih[weed]N hursaŋ[mountain]N
+dcclt/P247864,CM 22 pl. 36-37 [OB Ura],o i 37,KID.da[twig]N
+dcclt/P247864,CM 22 pl. 36-37 [OB Ura],o i 40,manu[wood]N
+dcclt/P247864,CM 22 pl. 36-37 [OB Ura],o i 41,manu[wood]N kur[mountain]N
+dcclt/P247864,CM 22 pl. 36-37 [OB Ura],o i 42,manu[wood]N šub[fall]V/t
+dcclt/P247864,CM 22 pl. 36-37 [OB Ura],o i 43,manu[wood]N izi[fire]N
+dcclt/P247864,CM 22 pl. 36-37 [OB Ura],o i 44,usuh[tree]N
+dcclt/P247864,CM 22 pl. 36-37 [OB Ura],o i 45,usuh[tree]N tur[small]V/i
+dcclt/P247864,CM 22 pl. 36-37 [OB Ura],o i 46,lam[tree]N usuh[tree]N
+dcclt/P247864,CM 22 pl. 36-37 [OB Ura],o i 47,pa[branch]N usuh[tree]N
+dcclt/P247864,CM 22 pl. 36-37 [OB Ura],o i 48,aʾan[spadix]N usuh[tree]N
+dcclt/P247864,CM 22 pl. 36-37 [OB Ura],o i 49,peš[fig]N
+dcclt/P247864,CM 22 pl. 36-37 [OB Ura],o i 50,peš[fig]N kur[mountain]N
+dcclt/P247864,CM 22 pl. 36-37 [OB Ura],o i 51,peš[fig]N sur[press]V/t
+dcclt/P247864,CM 22 pl. 36-37 [OB Ura],o i 52,peš[fig]N
+dcclt/P247864,CM 22 pl. 36-37 [OB Ura],o i 53,hašhur[apple]N
+dcclt/P247864,CM 22 pl. 36-37 [OB Ura],o i 54,hašhur[apple]N kur[mountain]N
+dcclt/P247864,CM 22 pl. 36-37 [OB Ura],o i 55,hašhur[apple]N armanu[tree]N
+dcclt/P247864,CM 22 pl. 36-37 [OB Ura],o i 56,hašhur[apple]N dar[split]V/t
+dcclt/P247864,CM 22 pl. 36-37 [OB Ura],o i 57,hašhur[apple]N eštub[carp]N
+dcclt/P247864,CM 22 pl. 36-37 [OB Ura],o i 58,hašhur[apple]N baza[dwarf]N
+dcclt/P247864,CM 22 pl. 36-37 [OB Ura],o i 59,šenu[tree]N
+dcclt/P247864,CM 22 pl. 36-37 [OB Ura],o ii 1,asal[poplar]N
+dcclt/P247864,CM 22 pl. 36-37 [OB Ura],o ii 2,asal[poplar]N kur[mountain]N
+dcclt/P247864,CM 22 pl. 36-37 [OB Ura],o ii 3,ilur[tree]N
+dcclt/P247864,CM 22 pl. 36-37 [OB Ura],o ii 4,nurma[pomegranate]N
+dcclt/P247864,CM 22 pl. 36-37 [OB Ura],o ii 5,šennur[plum]N
+dcclt/P247864,CM 22 pl. 36-37 [OB Ura],o ii 8,ŋešnimbar[palm]N
+dcclt/P247864,CM 22 pl. 36-37 [OB Ura],o ii 9,ŋešnimbar[palm]N kur[mountain]N
+dcclt/P247864,CM 22 pl. 36-37 [OB Ura],o ii 10,ŋešnimbar[palm]N
+dcclt/P247864,CM 22 pl. 36-37 [OB Ura],o ii 11,dala[thorn]N ŋešnimbar[palm]N
+dcclt/P247864,CM 22 pl. 36-37 [OB Ura],o ii 12,pakud[~tree]N ŋešnimbar[palm]N
+dcclt/P247864,CM 22 pl. 36-37 [OB Ura],o ii 13,ŋešnimbar[palm]N
+dcclt/P247864,CM 22 pl. 36-37 [OB Ura],o ii 14,ŋešnimbar[palm]N
+dcclt/P247864,CM 22 pl. 36-37 [OB Ura],o ii 15,ŋešnimbar[palm]N
+dcclt/P247864,CM 22 pl. 36-37 [OB Ura],o ii 16,ŋešnimbar[palm]N
+dcclt/P247864,CM 22 pl. 36-37 [OB Ura],o ii 19,ŋešnimbar[palm]N
+dcclt/P247864,CM 22 pl. 36-37 [OB Ura],o ii 20,su[fibers]N gal[big]V/i ŋešnimbar[palm]N
+dcclt/P247864,CM 22 pl. 36-37 [OB Ura],o ii 21,ŋešnimbar[palm]N
+dcclt/P247864,CM 22 pl. 36-37 [OB Ura],o ii 22,ŋešnimbar[palm]N
+dcclt/P247864,CM 22 pl. 36-37 [OB Ura],o ii 23,zulum[date]N
+dcclt/P247864,CM 22 pl. 36-37 [OB Ura],o ii 24,kišig[acacia]N
+dcclt/P247864,CM 22 pl. 36-37 [OB Ura],o ii 26,ŠU.KAL[tree]N
+dcclt/P247864,CM 22 pl. 36-37 [OB Ura],o ii 27,zarsi[plant]N
+dcclt/P247864,CM 22 pl. 36-37 [OB Ura],o ii 30,babbar[white]V/i
+dcclt/P247864,CM 22 pl. 36-37 [OB Ura],o ii 31,šinig[tamarisk]N
+dcclt/P247864,CM 22 pl. 36-37 [OB Ura],o ii 32,šinig[tamarisk]N kur[mountain]N
+dcclt/P247864,CM 22 pl. 36-37 [OB Ura],o ii 33,šinig[tamarisk]N dili[single]V/i
+dcclt/P247864,CM 22 pl. 36-37 [OB Ura],o ii 34,ildag[poplar]N
+dcclt/P247864,CM 22 pl. 36-37 [OB Ura],o ii 35,ildag[poplar]N kur[mountain]N
+dcclt/P247864,CM 22 pl. 36-37 [OB Ura],o ii 36,ildag[poplar]N kug[pure]V/i
+dcclt/P247864,CM 22 pl. 36-37 [OB Ura],o ii 37,šedug[tree]N
+dcclt/P247864,CM 22 pl. 36-37 [OB Ura],o ii 38,ba[tool]N
+dcclt/P247864,CM 22 pl. 36-37 [OB Ura],o ii 39,ba[tool]N išah[lard]N
+dcclt/P247864,CM 22 pl. 36-37 [OB Ura],o ii 40,ba[tool]N sim[sieve]V/t
+dcclt/P247864,CM 22 pl. 36-37 [OB Ura],o ii 41,ba[tool]N gur[basket]N
+dcclt/P247864,CM 22 pl. 36-37 [OB Ura],o ii 42,ba[tool]N šab[cut]V/t
+dcclt/P247864,CM 22 pl. 36-37 [OB Ura],o ii 43,girah[tool]N gal[big]V/i
+dcclt/P247864,CM 22 pl. 36-37 [OB Ura],o ii 48,ŋušur[beam]N
+dcclt/P247864,CM 22 pl. 36-37 [OB Ura],o ii 49,leʾum[board]N
+dcclt/P247864,CM 22 pl. 36-37 [OB Ura],o ii 53,apin[plow]N
+dcclt/P247864,CM 22 pl. 36-37 [OB Ura],o ii 54,saŋ[head]N apin[plow]N
+dcclt/P247864,CM 22 pl. 36-37 [OB Ura],o ii 55,ŋeštug[~plow]N apin[plow]N
+dcclt/P247864,CM 22 pl. 36-37 [OB Ura],o ii 56,ama[mother]N apin[plow]N
+dcclt/P247864,CM 22 pl. 36-37 [OB Ura],o ii 57,muš[snake]N apin[plow]N
+dcclt/P247864,CM 22 pl. 36-37 [OB Ura],o ii 58,gag[nail]N muš[snake]N apin[plow]N
+dcclt/P247864,CM 22 pl. 36-37 [OB Ura],o ii 59,ninda[seed-funnel]N apin[plow]N
+dcclt/P247864,CM 22 pl. 36-37 [OB Ura],o ii 60,gag[nail]N ninda[seed-funnel]N apin[plow]N
+dcclt/P247864,CM 22 pl. 36-37 [OB Ura],o ii 61,sala[~plow]N apin[plow]N
+dcclt/P247864,CM 22 pl. 36-37 [OB Ura],o ii 62,gag[nail]N sal[thin]V/i apin[plow]N
+dcclt/P247864,CM 22 pl. 36-37 [OB Ura],o iii 1,leʾum[board]N apin[plow]N
+dcclt/P247864,CM 22 pl. 36-37 [OB Ura],o iii 2,gag[nail]N leʾum[board]N apin[plow]N
+dcclt/P247864,CM 22 pl. 36-37 [OB Ura],o iii 3,kašu[~plow]N apin[plow]N
+dcclt/P247864,CM 22 pl. 36-37 [OB Ura],o iii 4,da[side-board]N apin[plow]N
+dcclt/P247864,CM 22 pl. 36-37 [OB Ura],o iii 5,saŋ[head]N apin[plow]N
+dcclt/P247864,CM 22 pl. 36-37 [OB Ura],o iii 6,šudul[yoke]N apin[plow]N
+dcclt/P247864,CM 22 pl. 36-37 [OB Ura],o iii 7,zara[pivot]N apin[plow]N
+dcclt/P247864,CM 22 pl. 36-37 [OB Ura],o iii 8,apin[plow]N šu[hand]N
+dcclt/P247864,CM 22 pl. 36-37 [OB Ura],o iii 9,apin[plow]N gud[ox]N
+dcclt/P247864,CM 22 pl. 36-37 [OB Ura],o iii 10,apin[plow]N šu[hand]N du[suitable]V/i
+dcclt/P247864,CM 22 pl. 36-37 [OB Ura],o iii 11,margida[cart]N
+dcclt/P247864,CM 22 pl. 36-37 [OB Ura],o iii 12,egir[back]N margida[cart]N
+dcclt/P247864,CM 22 pl. 36-37 [OB Ura],o iii 13,margida[cart]N
+dcclt/P247864,CM 22 pl. 36-37 [OB Ura],o iii 14,guza[chair]N margida[cart]N
+dcclt/P247864,CM 22 pl. 36-37 [OB Ura],o iii 15,margida[cart]N
+dcclt/P247864,CM 22 pl. 36-37 [OB Ura],o iii 17,margida[cart]N
+dcclt/P247864,CM 22 pl. 36-37 [OB Ura],o iii 18,margida[cart]N
+dcclt/P247864,CM 22 pl. 36-37 [OB Ura],o iii 19,margida[cart]N
+dcclt/P247864,CM 22 pl. 36-37 [OB Ura],o iii 20,endur[navel?]N margida[cart]N
+dcclt/P247864,CM 22 pl. 36-37 [OB Ura],o iii 21,margida[cart]N
+dcclt/P247864,CM 22 pl. 36-37 [OB Ura],o iii 22,margida[cart]N
+dcclt/P247864,CM 22 pl. 36-37 [OB Ura],o iii 23,margida[cart]N
+dcclt/P247864,CM 22 pl. 36-37 [OB Ura],o iii 24,margida[cart]N
+dcclt/P247864,CM 22 pl. 36-37 [OB Ura],o iii 25,margida[cart]N
+dcclt/P247864,CM 22 pl. 36-37 [OB Ura],o iii 27,margida[cart]N
+dcclt/P247864,CM 22 pl. 36-37 [OB Ura],o iii 28,saŋkul[bolt]N margida[cart]N
+dcclt/P247864,CM 22 pl. 36-37 [OB Ura],o iii 29,umbin[wheel]N margida[cart]N
+dcclt/P247864,CM 22 pl. 36-37 [OB Ura],o iii 30,gag[nail]N umbin[wheel]N margida[cart]N
+dcclt/P247864,CM 22 pl. 36-37 [OB Ura],o iii 31,zara[pivot]N margida[cart]N
+dcclt/P247864,CM 22 pl. 36-37 [OB Ura],o iii 32,gag[nail]N zara[pivot]N margida[cart]N
+dcclt/P247864,CM 22 pl. 36-37 [OB Ura],o iii 33,šudul[yoke]N margida[cart]N
+dcclt/P247864,CM 22 pl. 36-37 [OB Ura],o iii 34,gag[nail]N šudul[yoke]N margida[cart]N
+dcclt/P247864,CM 22 pl. 36-37 [OB Ura],o iii 35,ti[rib]N margida[cart]N
+dcclt/P247864,CM 22 pl. 36-37 [OB Ura],o iii 36,gag[nail]N ti[rib]N margida[cart]N
+dcclt/P247864,CM 22 pl. 36-37 [OB Ura],o iii 37,DUB[pole-pin]N margida[cart]N
+dcclt/P247864,CM 22 pl. 36-37 [OB Ura],o iii 38,mud[tube]N margida[cart]N
+dcclt/P247864,CM 22 pl. 36-37 [OB Ura],o iii 39,margida[cart]N šu[hand]N du[suitable]V/i
+dcclt/P247864,CM 22 pl. 36-37 [OB Ura],o iii 40,ŋušur[harrow]N
+dcclt/P247864,CM 22 pl. 36-37 [OB Ura],o iii 41,zu[tooth]N ŋušur[harrow]N
+dcclt/P247864,CM 22 pl. 36-37 [OB Ura],o iii 42,saŋkul[bolt]N ŋušur[harrow]N
+dcclt/P247864,CM 22 pl. 36-37 [OB Ura],o iii 43,zara[pivot]N ŋušur[harrow]N
+dcclt/P247864,CM 22 pl. 36-37 [OB Ura],o iii 44,gag[nail]N zara[pivot]N ŋušur[harrow]N
+dcclt/P247864,CM 22 pl. 36-37 [OB Ura],o iii 45,šudul[yoke]N ŋušur[harrow]N
+dcclt/P247864,CM 22 pl. 36-37 [OB Ura],o iii 46,ŋušur[harrow]N
+dcclt/P247864,CM 22 pl. 36-37 [OB Ura],o iii 47,ŋušur[harrow]N NE[~reed]AJ du[all]V/i
+dcclt/P247864,CM 22 pl. 36-37 [OB Ura],o iii 48,ŋušur[harrow]N šu[hand]N du[suitable]V/i
+dcclt/P247864,CM 22 pl. 36-37 [OB Ura],o iii 49,gigir[chariot]N
+dcclt/P247864,CM 22 pl. 36-37 [OB Ura],o iii 50,e[house]N gigir[chariot]N
+dcclt/P247864,CM 22 pl. 36-37 [OB Ura],o iii 51,gaba[chest]N gigir[chariot]N
+dcclt/P247864,CM 22 pl. 36-37 [OB Ura],o iii 52,gabaŋal[guard]N gigir[chariot]N
+dcclt/P247864,CM 22 pl. 36-37 [OB Ura],o iii 53,sahargi[dust-guard]N gigir[chariot]N
+dcclt/P247864,CM 22 pl. 36-37 [OB Ura],o iii 54,ŋirigub[footstool]N gigir[chariot]N
+dcclt/P247864,CM 22 pl. 36-37 [OB Ura],o iii 55,kun[tail]N gigir[chariot]N
+dcclt/P247864,CM 22 pl. 36-37 [OB Ura],o iii 56,umbin[wheel]N gigir[chariot]N
+dcclt/P247864,CM 22 pl. 36-37 [OB Ura],o iii 57,gag[nail]N umbin[wheel]N gigir[chariot]N
+dcclt/P247864,CM 22 pl. 36-37 [OB Ura],o iii 58,gigir[chariot]N
+dcclt/P247864,CM 22 pl. 36-37 [OB Ura],o iii 59,gigir[chariot]N
+dcclt/P247864,CM 22 pl. 36-37 [OB Ura],o iii 60,sudin[~chariot]N gigir[chariot]N
+dcclt/P247864,CM 22 pl. 36-37 [OB Ura],o iii 61,gigir[chariot]N
+dcclt/P247864,CM 22 pl. 36-37 [OB Ura],o iii 62,gigir[chariot]N
+dcclt/P247864,CM 22 pl. 36-37 [OB Ura],o iv 1,saŋkul[bolt]N gigir[chariot]N
+dcclt/P247864,CM 22 pl. 36-37 [OB Ura],o iv 2,gigir[chariot]N
+dcclt/P247864,CM 22 pl. 36-37 [OB Ura],o iv 3,gigir[chariot]N
+dcclt/P247864,CM 22 pl. 36-37 [OB Ura],o iv 4,gigir[chariot]N
+dcclt/P247864,CM 22 pl. 36-37 [OB Ura],o iv 5,gigir[chariot]N
+dcclt/P247864,CM 22 pl. 36-37 [OB Ura],o iv 6,šudul[yoke]N gigir[chariot]N
+dcclt/P247864,CM 22 pl. 36-37 [OB Ura],o iv 7,gag[nail]N šudul[yoke]N gigir[chariot]N
+dcclt/P247864,CM 22 pl. 36-37 [OB Ura],o iv 8,gigir[chariot]N
+dcclt/P247864,CM 22 pl. 36-37 [OB Ura],o iv 9,gigir[chariot]N
+dcclt/P247864,CM 22 pl. 36-37 [OB Ura],o iv 10,gigir[chariot]N šu[hand]N du[suitable]V/i
+dcclt/P247864,CM 22 pl. 36-37 [OB Ura],o iv 16,ušub[brick-mold]N
+dcclt/P247864,CM 22 pl. 36-37 [OB Ura],o iv 17,tugtug[~loom]N
+dcclt/P247864,CM 22 pl. 36-37 [OB Ura],o iv 18,barbar[shuttle]N
+dcclt/P247864,CM 22 pl. 36-37 [OB Ura],o iv 19,ilila[lever]N
+dcclt/P247864,CM 22 pl. 36-37 [OB Ura],o iv 24,garig[comb]N
+dcclt/P247864,CM 22 pl. 36-37 [OB Ura],o iv 25,garig[comb]N saŋ[head]N
+dcclt/P247864,CM 22 pl. 36-37 [OB Ura],o iv 26,garig[comb]N siki[hair]N
+dcclt/P247864,CM 22 pl. 36-37 [OB Ura],o iv 27,kirid[clasp]N
+dcclt/P247864,CM 22 pl. 36-37 [OB Ura],o iv 29,balak[spindle]N
+dcclt/P247864,CM 22 pl. 36-37 [OB Ura],o iv 30,e[house]N balak[spindle]N
+dcclt/P247864,CM 22 pl. 36-37 [OB Ura],o iv 31,saŋ[head]N balak[spindle]N
+dcclt/P247864,CM 22 pl. 36-37 [OB Ura],o iv 32,ig[door]N
+dcclt/P247864,CM 22 pl. 36-37 [OB Ura],o iv 33,suku[pole]N ig[door]N
+dcclt/P247864,CM 22 pl. 36-37 [OB Ura],o iv 34,zara[pivot]N ig[door]N
+dcclt/P247864,CM 22 pl. 36-37 [OB Ura],o iv 35,ig[door]N
+dcclt/P247864,CM 22 pl. 36-37 [OB Ura],o iv 36,saŋkul[bolt]N ig[door]N
+dcclt/P247864,CM 22 pl. 36-37 [OB Ura],o iv 37,gid[long]V/i ig[door]N
+dcclt/P247864,CM 22 pl. 36-37 [OB Ura],o iv 38,kul[handle]N ig[door]N
+dcclt/P247864,CM 22 pl. 36-37 [OB Ura],o iv 39,barda[crossbar]N ig[door]N
+dcclt/P247864,CM 22 pl. 36-37 [OB Ura],o iv 40,ig[door]N barda[crossbar]N
+dcclt/P247864,CM 22 pl. 36-37 [OB Ura],o iv 41,ig[door]N
+dcclt/P247864,CM 22 pl. 36-37 [OB Ura],o iv 42,ig[door]N azu[doctor]N
+dcclt/P247864,CM 22 pl. 36-37 [OB Ura],o iv 43,ig[door]N i[oil]N
+dcclt/P247864,CM 22 pl. 36-37 [OB Ura],o iv 44,ig[door]N i[oil]N šeš[anoint]V/t
+dcclt/P247864,CM 22 pl. 36-37 [OB Ura],o iv 45,ig[door]N papah[cella]N
+dcclt/P247864,CM 22 pl. 36-37 [OB Ura],o iv 46,ig[door]N miriza[plank]N
+dcclt/P247864,CM 22 pl. 36-37 [OB Ura],o iv 47,ig[door]N uma[triumph]N
+dcclt/P247864,CM 22 pl. 36-37 [OB Ura],o iv 48,ig[door]N
+dcclt/P247864,CM 22 pl. 36-37 [OB Ura],o iv 49,ig[door]N maštab[twin]N
+dcclt/P247864,CM 22 pl. 36-37 [OB Ura],o iv 50,ig[door]N šu[hand]N du[suitable]V/i
+dcclt/P247864,CM 22 pl. 36-37 [OB Ura],o iv 51,ganum[stand]N
+dcclt/P247864,CM 22 pl. 36-37 [OB Ura],o iv 53,miriza[plank]N
+dcclt/P247864,CM 22 pl. 36-37 [OB Ura],o iv 54,dim[post]N
+dcclt/P247864,CM 22 pl. 36-37 [OB Ura],o iv 58,illar[weapon]N
+dcclt/P247864,CM 22 pl. 36-37 [OB Ura],o iv 59,illar[weapon]N šub[fall]V/t
+dcclt/P247864,CM 22 pl. 36-37 [OB Ura],o iv 60,illar[weapon]N eban[pair]N
+dcclt/P247864,CM 22 pl. 36-37 [OB Ura],o v 2,ŋešdubdim[tool]N
+dcclt/P247864,CM 22 pl. 36-37 [OB Ura],o v 3,sumungi[tool]N
+dcclt/P247864,CM 22 pl. 36-37 [OB Ura],o v 4,ninda[seed-funnel]N gur[turn]V/i
+dcclt/P247864,CM 22 pl. 36-37 [OB Ura],o v 6,bariga[unit]N
+dcclt/P247864,CM 22 pl. 36-37 [OB Ura],o v 7,ban[unit]N
+dcclt/P247864,CM 22 pl. 36-37 [OB Ura],o v 8,ban[unit]N ya[five]NU sila[unit]N
+dcclt/P247864,CM 22 pl. 36-37 [OB Ura],o v 9,niŋ[thing]N diš[one]NU sila[unit]N
+dcclt/P247864,CM 22 pl. 36-37 [OB Ura],o v 10,niŋ[thing]N min[two]NU sila[unit]N
+dcclt/P247864,CM 22 pl. 36-37 [OB Ura],o v 11,niŋ[thing]N šušana[fraction]N sila[unit]N
+dcclt/P247864,CM 22 pl. 36-37 [OB Ura],o v 12,niŋ[thing]N sa[half]N sila[unit]N
+dcclt/P247864,CM 22 pl. 36-37 [OB Ura],o v 13,niŋ[thing]N šanabi[two-thirds]N sila[unit]N
+dcclt/P247864,CM 22 pl. 36-37 [OB Ura],o v 14,niŋ[thing]N u[ten]NU giŋ[unit]N
+dcclt/P247864,CM 22 pl. 36-37 [OB Ura],o v 15,niŋ[thing]N ya[five]NU giŋ[unit]N
+dcclt/P247864,CM 22 pl. 36-37 [OB Ura],o v 16,niŋ[thing]N eš[three]NU giŋ[unit]N
+dcclt/P247864,CM 22 pl. 36-37 [OB Ura],o v 17,niŋ[thing]N min[two]NU giŋ[unit]N
+dcclt/P247864,CM 22 pl. 36-37 [OB Ura],o v 18,niŋ[thing]N diš[one]NU giŋ[unit]N
+dcclt/P247864,CM 22 pl. 36-37 [OB Ura],o v 19,šu[handle]N
+dcclt/P247864,CM 22 pl. 36-37 [OB Ura],o v 20,ebir[vessel-stand]N
+dcclt/P247864,CM 22 pl. 36-37 [OB Ura],o v 27,naŋa[mortar]N
+dcclt/P247864,CM 22 pl. 36-37 [OB Ura],o v 28,ŋešgana[pestle]N
+dcclt/P247864,CM 22 pl. 36-37 [OB Ura],o v 41,buniŋ[trough]N
+dcclt/P247864,CM 22 pl. 36-37 [OB Ura],o v 42,buniŋ[trough]N
+dcclt/P247864,CM 22 pl. 36-37 [OB Ura],o v 44,ma[ship]N
+dcclt/P247864,CM 22 pl. 36-37 [OB Ura],o v 45,magur[barge]N
+dcclt/P247864,CM 22 pl. 36-37 [OB Ura],o v 46,u[ride]V/t ma[ship]N
+dcclt/P247864,CM 22 pl. 36-37 [OB Ura],o v 47,ma[ship]N
+dcclt/P247864,CM 22 pl. 36-37 [OB Ura],o v 48,ma[ship]N
+dcclt/P247864,CM 22 pl. 36-37 [OB Ura],o v 49,ŋešdi[rung]N ma[ship]N
+dcclt/P247864,CM 22 pl. 36-37 [OB Ura],o v 50,ma[ship]N
+dcclt/P247864,CM 22 pl. 36-37 [OB Ura],o v 51,gimuš[pole]N ma[ship]N
+dcclt/P247864,CM 22 pl. 36-37 [OB Ura],o v 52,ŋisal[rudder]N ma[ship]N
+dcclt/P247864,CM 22 pl. 36-37 [OB Ura],o v 53,anše[equid]N ma[ship]N
+dcclt/P247864,CM 22 pl. 36-37 [OB Ura],o v 54,ma[ship]N
+dcclt/P247864,CM 22 pl. 36-37 [OB Ura],o v 55,dim[post]N ma[ship]N
+dcclt/P247864,CM 22 pl. 36-37 [OB Ura],o v 56,e[house]N ma[ship]N
+dcclt/P247864,CM 22 pl. 36-37 [OB Ura],o v 57,si[horn]N ma[ship]N
+dcclt/P247864,CM 22 pl. 36-37 [OB Ura],o v 58,ma[ship]N tur[small]V/i
+dcclt/P247864,CM 22 pl. 36-37 [OB Ura],o v 59,ma[ship]N gal[big]V/i
+dcclt/P247864,CM 22 pl. 36-37 [OB Ura],o v 60,ma[ship]N
+dcclt/P247864,CM 22 pl. 36-37 [OB Ura],o v 61,ma[ship]N
+dcclt/P247864,CM 22 pl. 36-37 [OB Ura],o v 62,ma[ship]N šu[hand]N du[suitable]V/i
+dcclt/P247864,CM 22 pl. 36-37 [OB Ura],o v 63,ma[ship]N uri[vessel]N
+dcclt/P247864,CM 22 pl. 36-37 [OB Ura],o vi 3,tukul[weapon]N
+dcclt/P247864,CM 22 pl. 36-37 [OB Ura],o vi 4,tukul[weapon]N ur[root]N
+dcclt/P247864,CM 22 pl. 36-37 [OB Ura],o vi 5,tukul[weapon]N diŋir[deity]N
+dcclt/P247864,CM 22 pl. 36-37 [OB Ura],o vi 7,dur[board]N
+dcclt/P247864,CM 22 pl. 36-37 [OB Ura],o vi 14,pana[bow]N
+dcclt/P247864,CM 22 pl. 36-37 [OB Ura],o vi 15,epana[quiver]N
+dcclt/P247864,CM 22 pl. 36-37 [OB Ura],o vi 16,gagsisa[arrow]N
+dcclt/P247864,CM 22 pl. 36-37 [OB Ura],o vi 17,pana[bow]N gaba[chest]N
+dcclt/P247864,CM 22 pl. 36-37 [OB Ura],o vi 18,pana[bow]N
+dcclt/P247864,CM 22 pl. 36-37 [OB Ura],o vi 19,pana[bow]N gub[stand]V/i
+dcclt/P247864,CM 22 pl. 36-37 [OB Ura],o vi 20,pana[bow]N
+dcclt/P247864,CM 22 pl. 36-37 [OB Ura],o vi 21,pana[bow]N tab[burn]V/t
+dcclt/P247864,CM 22 pl. 36-37 [OB Ura],o vi 22,pana[bow]N
+dcclt/P247864,CM 22 pl. 36-37 [OB Ura],o vi 23,pana[bow]N
+dcclt/P247864,CM 22 pl. 36-37 [OB Ura],o vi 24,nagar[carpenter]N
+dcclt/P247864,CM 22 pl. 36-37 [OB Ura],o vi 25,banšur[table]N
+dcclt/P247864,CM 22 pl. 36-37 [OB Ura],o vi 26,banšur[table]N
+dcclt/P247864,CM 22 pl. 36-37 [OB Ura],o vi 27,banšur[table]N ŋešhur[plan]N
+dcclt/P247864,CM 22 pl. 36-37 [OB Ura],o vi 32,mar[shovel]N
+dcclt/P247864,CM 22 pl. 36-37 [OB Ura],o vi 33,mar[shovel]N
+dcclt/P247864,CM 22 pl. 36-37 [OB Ura],o vi 34,gag[nail]N mar[shovel]N
+dcclt/P247864,CM 22 pl. 36-37 [OB Ura],o vi 35,mar[shovel]N
+dcclt/P247864,CM 22 pl. 36-37 [OB Ura],o vi 36,mar[shovel]N šu[hand]N
+dcclt/P247864,CM 22 pl. 36-37 [OB Ura],o vi 39,al[hoe]N
+dcclt/P247864,CM 22 pl. 36-37 [OB Ura],o vi 40,al[hoe]N
+dcclt/P247864,CM 22 pl. 36-37 [OB Ura],o vi 47,banšur[table]N dilim[spoon]N
+dcclt/P247864,CM 22 pl. 36-37 [OB Ura],o vi 48,dilim[spoon]N
+dcclt/P247864,CM 22 pl. 36-37 [OB Ura],o vi 49,dilim[spoon]N gal[big]V/i
+dcclt/P247864,CM 22 pl. 36-37 [OB Ura],o vi 50,dilim[spoon]N tur[small]V/i
+dcclt/P247864,CM 22 pl. 36-37 [OB Ura],o vi 52,katapum[object]N
+dcclt/P247864,CM 22 pl. 36-37 [OB Ura],o vi 53,negipum[tool]N
+dcclt/P247864,CM 22 pl. 36-37 [OB Ura],o vi 58,simug[smith]N
+dcclt/P247864,CM 22 pl. 36-37 [OB Ura],o vi 59,bisaŋ[basket]N
+dcclt/P247864,CM 22 pl. 36-37 [OB Ura],o vi 60,bisaŋ[basket]N nabhatum[container]N
+dcclt/P247864,CM 22 pl. 36-37 [OB Ura],o vi 61,bisaŋ[basket]N negipum[tool]N
+dcclt/P247864,CM 22 pl. 36-37 [OB Ura],o vi 62,harmušen[snare]N
+dcclt/P247864,CM 22 pl. 36-37 [OB Ura],o vi 63,gu[neck]N harmušen[snare]N
+dcclt/P247864,CM 22 pl. 36-37 [OB Ura],o vii 4',ig[door]N
+dcclt/P247864,CM 22 pl. 36-37 [OB Ura],o vii 8',šuʾa[stool]N
+dcclt/P247864,CM 22 pl. 36-37 [OB Ura],o vii 9',šuʾa[stool]N dus[bathroom]N
+dcclt/P247864,CM 22 pl. 36-37 [OB Ura],o vii 10',šuʾa[stool]N tibira[sculptor]N
+dcclt/P247864,CM 22 pl. 36-37 [OB Ura],o vii 11',šuʾa[stool]N suhsah[sound]N
+dcclt/P247864,CM 22 pl. 36-37 [OB Ura],o vii 26',e[house]N
+dcclt/P247864,CM 22 pl. 36-37 [OB Ura],o vii 32',HI[cvne]N
+dcclt/P247864,CM 22 pl. 36-37 [OB Ura],o vii 33',aga[ax]N
+dcclt/P247864,CM 22 pl. 36-37 [OB Ura],o vii 37',guza[chair]N
+dcclt/P247864,CM 22 pl. 36-37 [OB Ura],o vii 38',guza[chair]N gid[long]V/i
+dcclt/P247864,CM 22 pl. 36-37 [OB Ura],o vii 39',guza[chair]N gid[drag]V/t limmu[four]NU kuš[skin]N
+dcclt/P247864,CM 22 pl. 36-37 [OB Ura],o vii 40',guza[chair]N gid[drag]V/t ya[five]NU kuš[skin]N
+dcclt/P247864,CM 22 pl. 36-37 [OB Ura],o vii 41',guza[chair]N gid[drag]V/t aš[six]NU kuš[skin]N
+dcclt/P247864,CM 22 pl. 36-37 [OB Ura],o vii 42',guza[chair]N gid[drag]V/t imin[seven]NU kuš[skin]N
+dcclt/P247864,CM 22 pl. 36-37 [OB Ura],o vii 43',guza[chair]N gid[drag]V/t ussu[eight]NU kuš[skin]N
+dcclt/P247864,CM 22 pl. 36-37 [OB Ura],o vii 44',guza[chair]N gid[drag]V/t ilimmu[nine]NU kuš[skin]N
+dcclt/P247864,CM 22 pl. 36-37 [OB Ura],o vii 45',guza[chair]N gid[drag]V/t u[ten]NU kuš[skin]N
+dcclt/P247864,CM 22 pl. 36-37 [OB Ura],o vii 46',guza[chair]N zag[side]N us[follow]V/t
+dcclt/P247864,CM 22 pl. 36-37 [OB Ura],o vii 47',guza[chair]N
+dcclt/P247864,CM 22 pl. 36-37 [OB Ura],o vii 48',guza[chair]N munus[woman]N
+dcclt/P247864,CM 22 pl. 36-37 [OB Ura],o vii 49',guza[chair]N saŋ[head]N munus[woman]N
+dcclt/P247864,CM 22 pl. 36-37 [OB Ura],o vii 50',guza[chair]N nita[male]N
+dcclt/P247864,CM 22 pl. 36-37 [OB Ura],o vii 51',guza[chair]N saŋ[head]N nita[male]N
+dcclt/P247864,CM 22 pl. 36-37 [OB Ura],o vii 52',guza[chair]N
+dcclt/P247864,CM 22 pl. 36-37 [OB Ura],o vii 53',guza[chair]N malah[sailor]N
+dcclt/P247864,CM 22 pl. 36-37 [OB Ura],o vii 54',guza[chair]N mušlah[charmer]N
+dcclt/P247864,CM 22 pl. 36-37 [OB Ura],o vii 55',guza[chair]N
+dcclt/P247864,CM 22 pl. 36-37 [OB Ura],o vii 56',guza[chair]N
+dcclt/P247864,CM 22 pl. 36-37 [OB Ura],o vii 57',umbin[base]N guza[chair]N
+dcclt/P247864,CM 22 pl. 36-37 [OB Ura],r i 1,guza[chair]N
+dcclt/P247864,CM 22 pl. 36-37 [OB Ura],r i 3,ŋešnud[bed]N
+dcclt/P247864,CM 22 pl. 36-37 [OB Ura],r i 4,ŋešnud[bed]N
+dcclt/P247864,CM 22 pl. 36-37 [OB Ura],r i 5,saŋ[head]N ŋešnud[bed]N
+dcclt/P247864,CM 22 pl. 36-37 [OB Ura],r i 6,zara[pivot]N ŋešnud[bed]N
+dcclt/P247864,CM 22 pl. 36-37 [OB Ura],r i 7,saŋki[forehead]N ŋešnud[bed]N
+dcclt/P247864,CM 22 pl. 36-37 [OB Ura],r i 8,egir[back]N ŋešnud[bed]N
+dcclt/P247864,CM 22 pl. 36-37 [OB Ura],r i 9,ŋešdi[rung]N ŋešnud[bed]N
+dcclt/P247864,CM 22 pl. 36-37 [OB Ura],r i 10,ŋešnud[bed]N
+dcclt/P247864,CM 22 pl. 36-37 [OB Ura],r i 11,ŋešnud[bed]N umbin[nail]N
+dcclt/P247864,CM 22 pl. 36-37 [OB Ura],r i 12,ŋešnud[bed]N umbin[nail]N gud[ox]N
+dcclt/P247864,CM 22 pl. 36-37 [OB Ura],r i 13,ŋešnud[bed]N umbin[nail]N
+dcclt/P247864,CM 22 pl. 36-37 [OB Ura],r i 14,ŋešnud[bed]N umbin[nail]N sal[thin]V/i
+dcclt/P247864,CM 22 pl. 36-37 [OB Ura],r i 15,ŋešnud[bed]N šu[hand]N sisa[fair]AJ
+dcclt/P247864,CM 22 pl. 36-37 [OB Ura],r i 16,ŋešnud[bed]N šu[hand]N du[suitable]V/i
+dcclt/P247864,CM 22 pl. 36-37 [OB Ura],r i 17,gišulhi[reed]N
+dcclt/P247864,CM 22 pl. 36-37 [OB Ura],r i 18,gi[reed]N diš[one]NU kuš[unit]N nindan[pole]N
+dcclt/P247864,CM 22 pl. 36-37 [OB Ura],r i 19,gašam[reed]N
+dcclt/P247864,CM 22 pl. 36-37 [OB Ura],r i 20,gi[reed]N tur[small]V/i
+dcclt/P247864,CM 22 pl. 36-37 [OB Ura],r i 21,gizi[reed]N
+dcclt/P247864,CM 22 pl. 36-37 [OB Ura],r i 22,giʾizila[torch]N
+dcclt/P247864,CM 22 pl. 36-37 [OB Ura],r i 23,enbar[reed]N
+dcclt/P247864,CM 22 pl. 36-37 [OB Ura],r i 24,enbar[reed]N dug[good]V/i
+dcclt/P247864,CM 22 pl. 36-37 [OB Ura],r i 25,enbar[reed]N numun[grass]N
+dcclt/P247864,CM 22 pl. 36-37 [OB Ura],r i 29,bisaŋ[basket]N
+dcclt/P247864,CM 22 pl. 36-37 [OB Ura],r i 30,bisaŋ[basket]N ninda[bread]N
+dcclt/P247864,CM 22 pl. 36-37 [OB Ura],r i 31,bisaŋ[basket]N šu[hand]N
+dcclt/P247864,CM 22 pl. 36-37 [OB Ura],r i 32,bisaŋ[basket]N gid[long]V/i
+dcclt/P247864,CM 22 pl. 36-37 [OB Ura],r i 33,bisaŋ[basket]N
+dcclt/P247864,CM 22 pl. 36-37 [OB Ura],r i 34,bisaŋ[basket]N
+dcclt/P247864,CM 22 pl. 36-37 [OB Ura],r i 35,bisaŋ[basket]N
+dcclt/P247864,CM 22 pl. 36-37 [OB Ura],r i 38,gigur[container]N gub[stand]V/i
+dcclt/P247864,CM 22 pl. 36-37 [OB Ura],r i 39,gigur[container]N niŋin[encircle]V/t
+dcclt/P247864,CM 22 pl. 36-37 [OB Ura],r i 40,gigur[container]N zid[right]V/i
+dcclt/P247864,CM 22 pl. 36-37 [OB Ura],r i 41,gigur[container]N
+dcclt/P247864,CM 22 pl. 36-37 [OB Ura],r i 42,gigurda[basket]N
+dcclt/P247864,CM 22 pl. 36-37 [OB Ura],r i 43,gigur[container]N diš[one]NU še[barley]N
+dcclt/P247864,CM 22 pl. 36-37 [OB Ura],r i 44,gigur[container]N ab[sea]N
+dcclt/P247864,CM 22 pl. 36-37 [OB Ura],r i 45,gigur[container]N a[water]N šum[give]V/t
+dcclt/P247864,CM 22 pl. 36-37 [OB Ura],r i 46,gigur[container]N še[barley]N bal[dig]V/t
+dcclt/P247864,CM 22 pl. 36-37 [OB Ura],r i 47,gigur[container]N sal[thin]V/i
+dcclt/P247864,CM 22 pl. 36-37 [OB Ura],r i 48,gigur[container]N sal[thin]V/i gal[big]V/i
+dcclt/P247864,CM 22 pl. 36-37 [OB Ura],r i 49,gigur[container]N sal[thin]V/i tur[small]V/i
+dcclt/P247864,CM 22 pl. 36-37 [OB Ura],r i 50,gigur[container]N sal[thin]V/i tab[double]V/t
+dcclt/P247864,CM 22 pl. 36-37 [OB Ura],r i 51,gigur[container]N sal[thin]V/i
+dcclt/P247864,CM 22 pl. 36-37 [OB Ura],r ii 1,masab[basket]N ninda[bread]N
+dcclt/P247864,CM 22 pl. 36-37 [OB Ura],r ii 2,masab[basket]N šu[hand]N
+dcclt/P247864,CM 22 pl. 36-37 [OB Ura],r ii 3,masab[basket]N niŋara[groats]N
+dcclt/P247864,CM 22 pl. 36-37 [OB Ura],r ii 5,gakkul[mash-tub]N
+dcclt/P247864,CM 22 pl. 36-37 [OB Ura],r ii 6,gakkul[mash-tub]N aʾabak[sea]N
+dcclt/P247864,CM 22 pl. 36-37 [OB Ura],r ii 7,gakkul[mash-tub]N diš[one]NU kaš[beer]N
+dcclt/P247864,CM 22 pl. 36-37 [OB Ura],r ii 8,aslum[rod]N
+dcclt/P247864,CM 22 pl. 36-37 [OB Ura],r ii 11,buniŋ[trough]N
+dcclt/P247864,CM 22 pl. 36-37 [OB Ura],r ii 12,buniŋ[trough]N zulum[date]N
+dcclt/P247864,CM 22 pl. 36-37 [OB Ura],r ii 13,buniŋ[trough]N numun[grass]N
+dcclt/P247864,CM 22 pl. 36-37 [OB Ura],r ii 14,bandudu[basket]N
+dcclt/P247864,CM 22 pl. 36-37 [OB Ura],r ii 15,bandudu[basket]N
+dcclt/P247864,CM 22 pl. 36-37 [OB Ura],r ii 16,hal[basket]N
+dcclt/P247864,CM 22 pl. 36-37 [OB Ura],r ii 17,halzig[container]N
+dcclt/P247864,CM 22 pl. 36-37 [OB Ura],r ii 20,kid[mat]N titab[~beer]N
+dcclt/P247864,CM 22 pl. 36-37 [OB Ura],r ii 21,kid[mat]N zag[side]N
+dcclt/P247864,CM 22 pl. 36-37 [OB Ura],r ii 22,kid[mat]N dida[wort]N
+dcclt/P247864,CM 22 pl. 36-37 [OB Ura],r ii 23,kid[mat]N
+dcclt/P247864,CM 22 pl. 36-37 [OB Ura],r ii 24,kid[mat]N zid[flour]N munu[malt]N
+dcclt/P247864,CM 22 pl. 36-37 [OB Ura],r ii 25,kid[mat]N
+dcclt/P247864,CM 22 pl. 36-37 [OB Ura],r ii 26,kid[mat]N zag[side]N
+dcclt/P247864,CM 22 pl. 36-37 [OB Ura],r ii 27,kid[mat]N
+dcclt/P247864,CM 22 pl. 36-37 [OB Ura],r ii 28,kid[mat]N si[horn]N ma[ship]N
+dcclt/P247864,CM 22 pl. 36-37 [OB Ura],r ii 29,kid[mat]N šu[hand]N
+dcclt/P247864,CM 22 pl. 36-37 [OB Ura],r ii 30,kid[mat]N
+dcclt/P247864,CM 22 pl. 36-37 [OB Ura],r ii 31,gi[reed]N dar[split]V/t
+dcclt/P247864,CM 22 pl. 36-37 [OB Ura],r ii 32,naŋa[mortar]N
+dcclt/P247864,CM 22 pl. 36-37 [OB Ura],r ii 33,gur[rim]N kid[mat]N
+dcclt/P247864,CM 22 pl. 36-37 [OB Ura],r ii 35,kidmah[mat]N
+dcclt/P247864,CM 22 pl. 36-37 [OB Ura],r ii 36,kidmah[mat]N ma[ship]N
+dcclt/P247864,CM 22 pl. 36-37 [OB Ura],r ii 37,lahtan[vat]N
+dcclt/P247864,CM 22 pl. 36-37 [OB Ura],r ii 38,lahtan[vat]N gid[drag]V/t
+dcclt/P247864,CM 22 pl. 36-37 [OB Ura],r ii 39,dug[pot]N niŋna[incense]N
+dcclt/P247864,CM 22 pl. 36-37 [OB Ura],r ii 41,dug[pot]N šembizida[kohl]N
+dcclt/P247864,CM 22 pl. 36-37 [OB Ura],r ii 44,kur[mountain]N
+dcclt/P247864,CM 22 pl. 36-37 [OB Ura],r ii 46,dug[pot]N banmin[vessel]N
+dcclt/P247864,CM 22 pl. 36-37 [OB Ura],r ii 47,dug[pot]N ya[five]NU sila[unit]N
+dcclt/P247864,CM 22 pl. 36-37 [OB Ura],r ii 48,dug[pot]N še[barley]N bal[dig]V/t
+dcclt/P247864,CM 22 pl. 36-37 [OB Ura],r ii 50,asig[vessel]N
+dcclt/P247864,CM 22 pl. 36-37 [OB Ura],r ii 51,asig[vessel]N
+dcclt/P247864,CM 22 pl. 36-37 [OB Ura],r iii 1,dug[pot]N niŋluh[basin]N
+dcclt/P247864,CM 22 pl. 36-37 [OB Ura],r iii 2,šu[hand]N du[suitable]V/i
+dcclt/P247864,CM 22 pl. 36-37 [OB Ura],r iii 3,sila[unit]N burzi[bowl]N
+dcclt/P247864,CM 22 pl. 36-37 [OB Ura],r iii 4,sila[unit]N sal[thin]V/i
+dcclt/P247864,CM 22 pl. 36-37 [OB Ura],r iii 5,sila[unit]N abala[water-drawer]N
+dcclt/P247864,CM 22 pl. 36-37 [OB Ura],r iii 6,sila[unit]N banda[junior]V/i
+dcclt/P247864,CM 22 pl. 36-37 [OB Ura],r iii 7,sila[unit]N gal[big]V/i
+dcclt/P247864,CM 22 pl. 36-37 [OB Ura],r iii 8,sila[unit]N dar[split]V/t
+dcclt/P247864,CM 22 pl. 36-37 [OB Ura],r iii 9,amam[jar]N
+dcclt/P247864,CM 22 pl. 36-37 [OB Ura],r iii 12,sumun[vessel]N
+dcclt/P247864,CM 22 pl. 36-37 [OB Ura],r iii 13,sumun[vessel]N gal[big]V/i
+dcclt/P247864,CM 22 pl. 36-37 [OB Ura],r iii 14,sumun[vessel]N gud[ox]N
+dcclt/P247864,CM 22 pl. 36-37 [OB Ura],r iii 15,sumun[vessel]N banšur[table]N
+dcclt/P247864,CM 22 pl. 36-37 [OB Ura],r iii 17,gur[unit]N kur[mountain]N
+dcclt/P247864,CM 22 pl. 36-37 [OB Ura],r iii 18,gub[stand]V/i
+dcclt/P247864,CM 22 pl. 36-37 [OB Ura],r iii 19,dug[pot]N ŋeši[sesame]N
+dcclt/P247864,CM 22 pl. 36-37 [OB Ura],r iii 23,utul[tureen]N
+dcclt/P247864,CM 22 pl. 36-37 [OB Ura],r iii 24,dal[vessel]N
+dcclt/P247864,CM 22 pl. 36-37 [OB Ura],r iii 25,dal[vessel]N gal[big]V/i
+dcclt/P247864,CM 22 pl. 36-37 [OB Ura],r iii 26,hal[pot]N
+dcclt/P247864,CM 22 pl. 36-37 [OB Ura],r iii 29,dug[pot]N la[hang]V/t
+dcclt/P247864,CM 22 pl. 36-37 [OB Ura],r iii 32,hazbum[terracotta]N
+dcclt/P247864,CM 22 pl. 36-37 [OB Ura],r iii 34,lakbum[vessel]N
+dcclt/P247864,CM 22 pl. 36-37 [OB Ura],r iii 37,gir[jar]N
+dcclt/P247864,CM 22 pl. 36-37 [OB Ura],r iii 41,amar[young]N anzud[eagle]N
+dcclt/P247864,CM 22 pl. 36-37 [OB Ura],r iii 42,ganu[bird]N
+dcclt/P247864,CM 22 pl. 36-37 [OB Ura],r iii 43,haya[peacock]N
+dcclt/P247864,CM 22 pl. 36-37 [OB Ura],r iii 47,uz[duck]N
+dcclt/P247864,CM 22 pl. 36-37 [OB Ura],r iii 48,nu[bird]N
+dcclt/P247864,CM 22 pl. 36-37 [OB Ura],r iii 49,gidim[ghost]N šu[hand]N
+dcclt/P247864,CM 22 pl. 36-37 [OB Ura],r iv 1,udar[bird]N
+dcclt/P247864,CM 22 pl. 36-37 [OB Ura],r iv 2,ukuku[bird]N
+dcclt/P247864,CM 22 pl. 36-37 [OB Ura],r iv 3,uʾaz[bird]N
+dcclt/P247864,CM 22 pl. 36-37 [OB Ura],r iv 5,u[goose]N gal[big]V/i
+dcclt/P247864,CM 22 pl. 36-37 [OB Ura],r iv 6,um[bird]N
+dcclt/P247864,CM 22 pl. 36-37 [OB Ura],r iv 7,dar[bird]N
+dcclt/P247864,CM 22 pl. 36-37 [OB Ura],r iv 8,dar[bird]N lugal[king]N
+dcclt/P247864,CM 22 pl. 36-37 [OB Ura],r iv 9,dar[bird]N
+dcclt/P247864,CM 22 pl. 36-37 [OB Ura],r iv 10,dar[bird]N hursaŋ[mountain]N
+dcclt/P247864,CM 22 pl. 36-37 [OB Ura],r iv 11,esig[bird]N
+dcclt/P247864,CM 22 pl. 36-37 [OB Ura],r iv 12,ezi[bird]N
+dcclt/P247864,CM 22 pl. 36-37 [OB Ura],r iv 14,tum[dove]N
+dcclt/P247864,CM 22 pl. 36-37 [OB Ura],r iv 15,tumgur[bird]N
+dcclt/P247864,CM 22 pl. 36-37 [OB Ura],r iv 16,bibra[vessel]N
+dcclt/P247864,CM 22 pl. 36-37 [OB Ura],r iv 17,ses[bird]N
+dcclt/P247864,CM 22 pl. 36-37 [OB Ura],r iv 19,LAGAB[bird]N
+dcclt/P247864,CM 22 pl. 36-37 [OB Ura],r iv 20,ti[bird]N
+dcclt/P247864,CM 22 pl. 36-37 [OB Ura],r iv 21,arabu[bird]N
+dcclt/P247864,CM 22 pl. 36-37 [OB Ura],r iv 22,arabu[bird]N
+dcclt/P247864,CM 22 pl. 36-37 [OB Ura],r iv 23,kirkir[bird]N
+dcclt/P247864,CM 22 pl. 36-37 [OB Ura],r iv 24,šegšeg[bird]N
+dcclt/P247864,CM 22 pl. 36-37 [OB Ura],r iv 27,šegšeg[bird]N
+dcclt/P247864,CM 22 pl. 36-37 [OB Ura],r iv 28,gurgur[bird]N
+dcclt/P247864,CM 22 pl. 36-37 [OB Ura],r iv 29,gurgur[bird]N nita[bird]N
+dcclt/P247864,CM 22 pl. 36-37 [OB Ura],r iv 30,irihulua[bird]N
+dcclt/P247864,CM 22 pl. 36-37 [OB Ura],r iv 31,uga[raven]N
+dcclt/P247864,CM 22 pl. 36-37 [OB Ura],r iv 32,uga[raven]N babbar[white]V/i
+dcclt/P247864,CM 22 pl. 36-37 [OB Ura],r iv 33,uga[raven]N giggi[black]V/i
+dcclt/P247864,CM 22 pl. 36-37 [OB Ura],r iv 34,saŋkal[foremost]AJ
+dcclt/P247864,CM 22 pl. 36-37 [OB Ura],r iv 36,nunuz[egg]N
+dcclt/P247864,CM 22 pl. 36-37 [OB Ura],r iv 44,sim[swallow]N
+dcclt/P247864,CM 22 pl. 36-37 [OB Ura],r iv 45,buru[sparrow]N
+dcclt/P247864,CM 22 pl. 36-37 [OB Ura],r iv 46,buru[sparrow]N
+dcclt/P247864,CM 22 pl. 36-37 [OB Ura],r iv 47,buru[sparrow]N
+dcclt/P247864,CM 22 pl. 36-37 [OB Ura],r iv 48,burugizi[bird]N
+dcclt/P247864,CM 22 pl. 36-37 [OB Ura],r iv 49,buru[sparrow]N
+dcclt/P247864,CM 22 pl. 36-37 [OB Ura],r iv 50,buruhur[bird]N
+dcclt/P247864,CM 22 pl. 36-37 [OB Ura],r v 1,tigidlu[bird]N
+dcclt/P247864,CM 22 pl. 36-37 [OB Ura],r v 3,muširum[bird]N
+dcclt/P247864,CM 22 pl. 36-37 [OB Ura],r v 4,šagbar[fish]N
+dcclt/P247864,CM 22 pl. 36-37 [OB Ura],r v 5,šagbar[fish]N tur[small]V/i
+dcclt/P247864,CM 22 pl. 36-37 [OB Ura],r v 6,azagun[bird]N
+dcclt/P247864,CM 22 pl. 36-37 [OB Ura],r v 7,mušninka[bird]N
+dcclt/P247864,CM 22 pl. 36-37 [OB Ura],r v 8,azagun[bird]N
+dcclt/P247864,CM 22 pl. 36-37 [OB Ura],r v 9,ŋiri[foot]N an[sky]N
+dcclt/P247864,CM 22 pl. 36-37 [OB Ura],r v 10,sipad[bird]N
+dcclt/P247864,CM 22 pl. 36-37 [OB Ura],r v 11,sudin[bat]N
+dcclt/P247864,CM 22 pl. 36-37 [OB Ura],r v 12,sudin[bat]N arkab[bat]N
+dcclt/P247864,CM 22 pl. 36-37 [OB Ura],r v 15,igira[heron]N
+dcclt/P247864,CM 22 pl. 36-37 [OB Ura],r v 16,amar[young]N esig[bird]N
+dcclt/P247864,CM 22 pl. 36-37 [OB Ura],r v 18,guddu[bird]N
+dcclt/P247864,CM 22 pl. 36-37 [OB Ura],r v 19,kib[bird]N
+dcclt/P247864,CM 22 pl. 36-37 [OB Ura],r v 20,igiŋeštinak[bird]N
+dcclt/P247864,CM 22 pl. 36-37 [OB Ura],r v 22,šulu[bird]N
+dcclt/P247864,CM 22 pl. 36-37 [OB Ura],r v 23,gurinnuda[bird]N
+dcclt/P247864,CM 22 pl. 36-37 [OB Ura],r v 24,karkid[bird]N
+dcclt/P247864,CM 22 pl. 36-37 [OB Ura],r v 25,šuʾura[goose]N
+dcclt/P247864,CM 22 pl. 36-37 [OB Ura],r v 27,til[complete]V/i
+dcclt/P247864,CM 22 pl. 36-37 [OB Ura],r vi 1,Nisaba[1]DN
+dcclt/P247864,CM 22 pl. 36-37 [OB Ura],r vi 2,Haya[1]DN
+dcclt/P247864,CM 22 pl. 36-37 [OB Ura],r vi 3,Ŋeštinanak[1]DN
+dcclt/P247864,CM 22 pl. 36-37 [OB Ura],r vi 4,u[and]CNJ dubsar[scribe]N
+dcclt/P247864,CM 22 pl. 36-37 [OB Ura],r vi 5,dumu[child]N

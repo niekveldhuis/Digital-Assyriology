@@ -1,0 +1,143 @@
+id_text,text_name,l_no,text
+dcclt/P346714,UET 6 0677 + 0678 + UET 7 0087 + 0091 (UET 6 0677 + 0678 + UET 7 087 + 0091),r i 03',mud[tube]N gigir[chariot]N
+dcclt/P346714,UET 6 0677 + 0678 + UET 7 0087 + 0091 (UET 6 0677 + 0678 + UET 7 087 + 0091),r i 04',gag[nail]N mud[tube]N gigir[chariot]N
+dcclt/P346714,UET 6 0677 + 0678 + UET 7 0087 + 0091 (UET 6 0677 + 0678 + UET 7 087 + 0091),r i 19',zara[pivot]N
+dcclt/P346714,UET 6 0677 + 0678 + UET 7 0087 + 0091 (UET 6 0677 + 0678 + UET 7 087 + 0091),r i 20',margida[cart]N
+dcclt/P346714,UET 6 0677 + 0678 + UET 7 0087 + 0091 (UET 6 0677 + 0678 + UET 7 087 + 0091),r i 21',ŋešhum[bench]N margida[cart]N
+dcclt/P346714,UET 6 0677 + 0678 + UET 7 0087 + 0091 (UET 6 0677 + 0678 + UET 7 087 + 0091),r i 22',margida[cart]N
+dcclt/P346714,UET 6 0677 + 0678 + UET 7 0087 + 0091 (UET 6 0677 + 0678 + UET 7 087 + 0091),r i 23',guza[chair]N margida[cart]N
+dcclt/P346714,UET 6 0677 + 0678 + UET 7 0087 + 0091 (UET 6 0677 + 0678 + UET 7 087 + 0091),r i 24',zara[pivot]N margida[cart]N
+dcclt/P346714,UET 6 0677 + 0678 + UET 7 0087 + 0091 (UET 6 0677 + 0678 + UET 7 087 + 0091),r i 25',gag[nail]N zara[pivot]N margida[cart]N
+dcclt/P346714,UET 6 0677 + 0678 + UET 7 0087 + 0091 (UET 6 0677 + 0678 + UET 7 087 + 0091),r i 26',saŋkul[bolt]N margida[cart]N
+dcclt/P346714,UET 6 0677 + 0678 + UET 7 0087 + 0091 (UET 6 0677 + 0678 + UET 7 087 + 0091),r i 27',dub[knee]N bar[cvve]V/t margida[cart]N
+dcclt/P346714,UET 6 0677 + 0678 + UET 7 0087 + 0091 (UET 6 0677 + 0678 + UET 7 087 + 0091),r i 28',mud[tube]N margida[cart]N
+dcclt/P346714,UET 6 0677 + 0678 + UET 7 0087 + 0091 (UET 6 0677 + 0678 + UET 7 087 + 0091),r i 29',gag[nail]N mud[tube]N margida[cart]N
+dcclt/P346714,UET 6 0677 + 0678 + UET 7 0087 + 0091 (UET 6 0677 + 0678 + UET 7 087 + 0091),r i 30',suku[pole]N margida[cart]N
+dcclt/P346714,UET 6 0677 + 0678 + UET 7 0087 + 0091 (UET 6 0677 + 0678 + UET 7 087 + 0091),r i 31',gag[nail]N suku[pole]N margida[cart]N
+dcclt/P346714,UET 6 0677 + 0678 + UET 7 0087 + 0091 (UET 6 0677 + 0678 + UET 7 087 + 0091),r i 32',manhara[vessel]N margida[cart]N
+dcclt/P346714,UET 6 0677 + 0678 + UET 7 0087 + 0091 (UET 6 0677 + 0678 + UET 7 087 + 0091),r i 33',usakar[moon]N margida[cart]N
+dcclt/P346714,UET 6 0677 + 0678 + UET 7 0087 + 0091 (UET 6 0677 + 0678 + UET 7 087 + 0091),r ii 04',gag[nail]N
+dcclt/P346714,UET 6 0677 + 0678 + UET 7 0087 + 0091 (UET 6 0677 + 0678 + UET 7 087 + 0091),r ii 05',da[side-board]N apin[plow]N
+dcclt/P346714,UET 6 0677 + 0678 + UET 7 0087 + 0091 (UET 6 0677 + 0678 + UET 7 087 + 0091),r ii 06',a[arm]N apin[plow]N
+dcclt/P346714,UET 6 0677 + 0678 + UET 7 0087 + 0091 (UET 6 0677 + 0678 + UET 7 087 + 0091),r ii 07',ama[mother]N apin[plow]N
+dcclt/P346714,UET 6 0677 + 0678 + UET 7 0087 + 0091 (UET 6 0677 + 0678 + UET 7 087 + 0091),r ii 08',eme[tongue]N apin[plow]N
+dcclt/P346714,UET 6 0677 + 0678 + UET 7 0087 + 0091 (UET 6 0677 + 0678 + UET 7 087 + 0091),r ii 09',emesig[plank]N apin[plow]N
+dcclt/P346714,UET 6 0677 + 0678 + UET 7 0087 + 0091 (UET 6 0677 + 0678 + UET 7 087 + 0091),r ii 10',ninda[seed-funnel]N apin[plow]N
+dcclt/P346714,UET 6 0677 + 0678 + UET 7 0087 + 0091 (UET 6 0677 + 0678 + UET 7 087 + 0091),r ii 12',muš[snake]N apin[plow]N
+dcclt/P346714,UET 6 0677 + 0678 + UET 7 0087 + 0091 (UET 6 0677 + 0678 + UET 7 087 + 0091),r ii 13',gag[nail]N apin[plow]N
+dcclt/P346714,UET 6 0677 + 0678 + UET 7 0087 + 0091 (UET 6 0677 + 0678 + UET 7 087 + 0091),r ii 14',sala[~plow]N apin[plow]N
+dcclt/P346714,UET 6 0677 + 0678 + UET 7 0087 + 0091 (UET 6 0677 + 0678 + UET 7 087 + 0091),r ii 15',gag[nail]N sala[~plow]N apin[plow]N
+dcclt/P346714,UET 6 0677 + 0678 + UET 7 0087 + 0091 (UET 6 0677 + 0678 + UET 7 087 + 0091),r ii 16',nig[~plow]N apin[plow]N
+dcclt/P346714,UET 6 0677 + 0678 + UET 7 0087 + 0091 (UET 6 0677 + 0678 + UET 7 087 + 0091),r ii 17',gag[nail]N nig[~plow]N apin[plow]N
+dcclt/P346714,UET 6 0677 + 0678 + UET 7 0087 + 0091 (UET 6 0677 + 0678 + UET 7 087 + 0091),r ii 18',šudul[yoke]N apin[plow]N
+dcclt/P346714,UET 6 0677 + 0678 + UET 7 0087 + 0091 (UET 6 0677 + 0678 + UET 7 087 + 0091),r ii 19',maš[twin]N apin[plow]N
+dcclt/P346714,UET 6 0677 + 0678 + UET 7 0087 + 0091 (UET 6 0677 + 0678 + UET 7 087 + 0091),r ii 20',niŋŋeštug[~plow]N apin[plow]N
+dcclt/P346714,UET 6 0677 + 0678 + UET 7 0087 + 0091 (UET 6 0677 + 0678 + UET 7 087 + 0091),r ii 21',gag[nail]N niŋŋeštug[~plow]N apin[plow]N
+dcclt/P346714,UET 6 0677 + 0678 + UET 7 0087 + 0091 (UET 6 0677 + 0678 + UET 7 087 + 0091),r ii 22',tugsaga[plow]N apin[plow]N
+dcclt/P346714,UET 6 0677 + 0678 + UET 7 0087 + 0091 (UET 6 0677 + 0678 + UET 7 087 + 0091),r ii 23',damga[~plow]N apin[plow]N
+dcclt/P346714,UET 6 0677 + 0678 + UET 7 0087 + 0091 (UET 6 0677 + 0678 + UET 7 087 + 0091),r ii 24',ŋešpu[rim]N apin[plow]N
+dcclt/P346714,UET 6 0677 + 0678 + UET 7 0087 + 0091 (UET 6 0677 + 0678 + UET 7 087 + 0091),r ii 25',šudu[equipped]AJ apin[plow]N
+dcclt/P346714,UET 6 0677 + 0678 + UET 7 0087 + 0091 (UET 6 0677 + 0678 + UET 7 087 + 0091),r ii 26',ŋušur[harrow]N
+dcclt/P346714,UET 6 0677 + 0678 + UET 7 0087 + 0091 (UET 6 0677 + 0678 + UET 7 087 + 0091),r ii 27',ŋušur[harrow]N sar[garden]N
+dcclt/P346714,UET 6 0677 + 0678 + UET 7 0087 + 0091 (UET 6 0677 + 0678 + UET 7 087 + 0091),r ii 28',zara[pivot]N ŋušur[harrow]N
+dcclt/P346714,UET 6 0677 + 0678 + UET 7 0087 + 0091 (UET 6 0677 + 0678 + UET 7 087 + 0091),r ii 29',gag[nail]N zara[pivot]N ŋušur[harrow]N
+dcclt/P346714,UET 6 0677 + 0678 + UET 7 0087 + 0091 (UET 6 0677 + 0678 + UET 7 087 + 0091),r ii 30',saŋ[head]N ŋušur[harrow]N
+dcclt/P346714,UET 6 0677 + 0678 + UET 7 0087 + 0091 (UET 6 0677 + 0678 + UET 7 087 + 0091),r ii 31',u[ride]V/t ŋušur[harrow]N
+dcclt/P346714,UET 6 0677 + 0678 + UET 7 0087 + 0091 (UET 6 0677 + 0678 + UET 7 087 + 0091),r ii 32',sa[sinew]N ŋušur[harrow]N
+dcclt/P346714,UET 6 0677 + 0678 + UET 7 0087 + 0091 (UET 6 0677 + 0678 + UET 7 087 + 0091),r ii 34',saŋdu[beam]N
+dcclt/P346714,UET 6 0677 + 0678 + UET 7 0087 + 0091 (UET 6 0677 + 0678 + UET 7 087 + 0091),r ii 35',ilila[lever]N
+dcclt/P346714,UET 6 0677 + 0678 + UET 7 0087 + 0091 (UET 6 0677 + 0678 + UET 7 087 + 0091),r ii 36',barbar[shuttle]N
+dcclt/P346714,UET 6 0677 + 0678 + UET 7 0087 + 0091 (UET 6 0677 + 0678 + UET 7 087 + 0091),r ii 37',tugtug[~loom]N
+dcclt/P346714,UET 6 0677 + 0678 + UET 7 0087 + 0091 (UET 6 0677 + 0678 + UET 7 087 + 0091),r ii 38',niŋzu[~loom]N
+dcclt/P346714,UET 6 0677 + 0678 + UET 7 0087 + 0091 (UET 6 0677 + 0678 + UET 7 087 + 0091),r ii 39',ŋešgina[~loom]N
+dcclt/P346714,UET 6 0677 + 0678 + UET 7 0087 + 0091 (UET 6 0677 + 0678 + UET 7 087 + 0091),r ii 40',nura[~loom]N
+dcclt/P346714,UET 6 0677 + 0678 + UET 7 0087 + 0091 (UET 6 0677 + 0678 + UET 7 087 + 0091),r ii 41',nura[~loom]N
+dcclt/P346714,UET 6 0677 + 0678 + UET 7 0087 + 0091 (UET 6 0677 + 0678 + UET 7 087 + 0091),r ii 42',garig[comb]N
+dcclt/P346714,UET 6 0677 + 0678 + UET 7 0087 + 0091 (UET 6 0677 + 0678 + UET 7 087 + 0091),r ii 43',garig[comb]N
+dcclt/P346714,UET 6 0677 + 0678 + UET 7 0087 + 0091 (UET 6 0677 + 0678 + UET 7 087 + 0091),r ii 44',garig[comb]N
+dcclt/P346714,UET 6 0677 + 0678 + UET 7 0087 + 0091 (UET 6 0677 + 0678 + UET 7 087 + 0091),r iii 01',ellag[ball]N
+dcclt/P346714,UET 6 0677 + 0678 + UET 7 0087 + 0091 (UET 6 0677 + 0678 + UET 7 087 + 0091),r iii 02',ŋešellag[tool]N
+dcclt/P346714,UET 6 0677 + 0678 + UET 7 0087 + 0091 (UET 6 0677 + 0678 + UET 7 087 + 0091),r iii 03',ellag[ball]N
+dcclt/P346714,UET 6 0677 + 0678 + UET 7 0087 + 0091 (UET 6 0677 + 0678 + UET 7 087 + 0091),r iii 04',kur[wood]N
+dcclt/P346714,UET 6 0677 + 0678 + UET 7 0087 + 0091 (UET 6 0677 + 0678 + UET 7 087 + 0091),r iii 05',ŋeškur[tree]N
+dcclt/P346714,UET 6 0677 + 0678 + UET 7 0087 + 0091 (UET 6 0677 + 0678 + UET 7 087 + 0091),r iii 06',kur[wood]N
+dcclt/P346714,UET 6 0677 + 0678 + UET 7 0087 + 0091 (UET 6 0677 + 0678 + UET 7 087 + 0091),r iii 07',esi[tree]N
+dcclt/P346714,UET 6 0677 + 0678 + UET 7 0087 + 0091 (UET 6 0677 + 0678 + UET 7 087 + 0091),r iii 14',madal[pole]N
+dcclt/P346714,UET 6 0677 + 0678 + UET 7 0087 + 0091 (UET 6 0677 + 0678 + UET 7 087 + 0091),r iii 15',madal[pole]N
+dcclt/P346714,UET 6 0677 + 0678 + UET 7 0087 + 0091 (UET 6 0677 + 0678 + UET 7 087 + 0091),r iii 16',malalum[container]N
+dcclt/P346714,UET 6 0677 + 0678 + UET 7 0087 + 0091 (UET 6 0677 + 0678 + UET 7 087 + 0091),r iii 17',gazinbu[pole]N
+dcclt/P346714,UET 6 0677 + 0678 + UET 7 0087 + 0091 (UET 6 0677 + 0678 + UET 7 087 + 0091),r iii 18',sahargid[roller]N
+dcclt/P346714,UET 6 0677 + 0678 + UET 7 0087 + 0091 (UET 6 0677 + 0678 + UET 7 087 + 0091),r iii 19',kim[willow]N
+dcclt/P346714,UET 6 0677 + 0678 + UET 7 0087 + 0091 (UET 6 0677 + 0678 + UET 7 087 + 0091),r iii 20',kim[willow]N mes[blackness]N
+dcclt/P346714,UET 6 0677 + 0678 + UET 7 0087 + 0091 (UET 6 0677 + 0678 + UET 7 087 + 0091),r iii 21',gur[rim]N
+dcclt/P346714,UET 6 0677 + 0678 + UET 7 0087 + 0091 (UET 6 0677 + 0678 + UET 7 087 + 0091),r iii 22',gur[rim]N
+dcclt/P346714,UET 6 0677 + 0678 + UET 7 0087 + 0091 (UET 6 0677 + 0678 + UET 7 087 + 0091),r iii 23',ŋešrin[scales]N
+dcclt/P346714,UET 6 0677 + 0678 + UET 7 0087 + 0091 (UET 6 0677 + 0678 + UET 7 087 + 0091),r iii 24',ŋešrin[scales]N
+dcclt/P346714,UET 6 0677 + 0678 + UET 7 0087 + 0091 (UET 6 0677 + 0678 + UET 7 087 + 0091),r iii 25',ŋešrin[scales]N gun[load]N
+dcclt/P346714,UET 6 0677 + 0678 + UET 7 0087 + 0091 (UET 6 0677 + 0678 + UET 7 087 + 0091),r iii 26',ŋešrin[scales]N diš[one]NU mana[unit]N la[hang]V/t
+dcclt/P346714,UET 6 0677 + 0678 + UET 7 0087 + 0091 (UET 6 0677 + 0678 + UET 7 087 + 0091),r iii 27',ŋešrin[scales]N min[two]NU la[hang]V/t
+dcclt/P346714,UET 6 0677 + 0678 + UET 7 0087 + 0091 (UET 6 0677 + 0678 + UET 7 087 + 0091),r iii 28',al[hoe]N
+dcclt/P346714,UET 6 0677 + 0678 + UET 7 0087 + 0091 (UET 6 0677 + 0678 + UET 7 087 + 0091),r iii 29',alšub[tool]N
+dcclt/P346714,UET 6 0677 + 0678 + UET 7 0087 + 0091 (UET 6 0677 + 0678 + UET 7 087 + 0091),r iii 30',al[hoe]N saŋ[head]N
+dcclt/P346714,UET 6 0677 + 0678 + UET 7 0087 + 0091 (UET 6 0677 + 0678 + UET 7 087 + 0091),r iii 31',al[hoe]N saŋ[head]N ŋal[be]V/i
+dcclt/P346714,UET 6 0677 + 0678 + UET 7 0087 + 0091 (UET 6 0677 + 0678 + UET 7 087 + 0091),r iii 32',al[hoe]N saŋ[head]N ŋal[be]V/i
+dcclt/P346714,UET 6 0677 + 0678 + UET 7 0087 + 0091 (UET 6 0677 + 0678 + UET 7 087 + 0091),r iii 33',al[hoe]N ŋal[be]V/i
+dcclt/P346714,UET 6 0677 + 0678 + UET 7 0087 + 0091 (UET 6 0677 + 0678 + UET 7 087 + 0091),r iii 34',al[hoe]N
+dcclt/P346714,UET 6 0677 + 0678 + UET 7 0087 + 0091 (UET 6 0677 + 0678 + UET 7 087 + 0091),r iii 35',al[hoe]N zu[tooth]N min[two]NU
+dcclt/P346714,UET 6 0677 + 0678 + UET 7 0087 + 0091 (UET 6 0677 + 0678 + UET 7 087 + 0091),r iii 36',al[hoe]N zu[tooth]N limmu[four]NU
+dcclt/P346714,UET 6 0677 + 0678 + UET 7 0087 + 0091 (UET 6 0677 + 0678 + UET 7 087 + 0091),r iii 37',ušub[brick-mold]N
+dcclt/P346714,UET 6 0677 + 0678 + UET 7 0087 + 0091 (UET 6 0677 + 0678 + UET 7 087 + 0091),r iii 38',ušub[brick-mold]N šeg[brick]N
+dcclt/P346714,UET 6 0677 + 0678 + UET 7 0087 + 0091 (UET 6 0677 + 0678 + UET 7 087 + 0091),r iii 39',ušub[brick-mold]N ab[window]N
+dcclt/P346714,UET 6 0677 + 0678 + UET 7 0087 + 0091 (UET 6 0677 + 0678 + UET 7 087 + 0091),r iii 41',kuŋ[stair]N
+dcclt/P346714,UET 6 0677 + 0678 + UET 7 0087 + 0091 (UET 6 0677 + 0678 + UET 7 087 + 0091),r iv 01',niŋ[thing]N
+dcclt/P346714,UET 6 0677 + 0678 + UET 7 0087 + 0091 (UET 6 0677 + 0678 + UET 7 087 + 0091),r iv 02',niŋ[thing]N banmin[vessel]N
+dcclt/P346714,UET 6 0677 + 0678 + UET 7 0087 + 0091 (UET 6 0677 + 0678 + UET 7 087 + 0091),r iv 03',niŋ[thing]N ban[unit]N
+dcclt/P346714,UET 6 0677 + 0678 + UET 7 0087 + 0091 (UET 6 0677 + 0678 + UET 7 087 + 0091),r iv 04',niŋ[thing]N ya[five]NU sila[unit]N
+dcclt/P346714,UET 6 0677 + 0678 + UET 7 0087 + 0091 (UET 6 0677 + 0678 + UET 7 087 + 0091),r iv 05',niŋ[thing]N diš[one]NU sila[unit]N
+dcclt/P346714,UET 6 0677 + 0678 + UET 7 0087 + 0091 (UET 6 0677 + 0678 + UET 7 087 + 0091),r iv 06',niŋ[thing]N sa[half]N sila[unit]N
+dcclt/P346714,UET 6 0677 + 0678 + UET 7 0087 + 0091 (UET 6 0677 + 0678 + UET 7 087 + 0091),r iv 07',niŋ[thing]N šanabi[two-thirds]N sila[unit]N
+dcclt/P346714,UET 6 0677 + 0678 + UET 7 0087 + 0091 (UET 6 0677 + 0678 + UET 7 087 + 0091),r iv 08',niŋ[thing]N u[ten]NU giŋ[unit]N
+dcclt/P346714,UET 6 0677 + 0678 + UET 7 0087 + 0091 (UET 6 0677 + 0678 + UET 7 087 + 0091),r iv 09',niŋ[thing]N ya[five]NU giŋ[unit]N
+dcclt/P346714,UET 6 0677 + 0678 + UET 7 0087 + 0091 (UET 6 0677 + 0678 + UET 7 087 + 0091),r iv 10',niŋ[thing]N diš[one]NU giŋ[unit]N
+dcclt/P346714,UET 6 0677 + 0678 + UET 7 0087 + 0091 (UET 6 0677 + 0678 + UET 7 087 + 0091),r iv 11',sa[net]N
+dcclt/P346714,UET 6 0677 + 0678 + UET 7 0087 + 0091 (UET 6 0677 + 0678 + UET 7 087 + 0091),r iv 12',sa[net]N
+dcclt/P346714,UET 6 0677 + 0678 + UET 7 0087 + 0091 (UET 6 0677 + 0678 + UET 7 087 + 0091),r iv 13',sa[net]N
+dcclt/P346714,UET 6 0677 + 0678 + UET 7 0087 + 0091 (UET 6 0677 + 0678 + UET 7 087 + 0091),r iv 14',sa[net]N
+dcclt/P346714,UET 6 0677 + 0678 + UET 7 0087 + 0091 (UET 6 0677 + 0678 + UET 7 087 + 0091),r iv 15',sa[net]N tur[small]V/i
+dcclt/P346714,UET 6 0677 + 0678 + UET 7 0087 + 0091 (UET 6 0677 + 0678 + UET 7 087 + 0091),r iv 16',sa[net]N mah[great]V/i
+dcclt/P346714,UET 6 0677 + 0678 + UET 7 0087 + 0091 (UET 6 0677 + 0678 + UET 7 087 + 0091),r iv 17',sa[net]N ur[drag]V/t
+dcclt/P346714,UET 6 0677 + 0678 + UET 7 0087 + 0091 (UET 6 0677 + 0678 + UET 7 087 + 0091),r iv 18',sa[net]N an[sky]N
+dcclt/P346714,UET 6 0677 + 0678 + UET 7 0087 + 0091 (UET 6 0677 + 0678 + UET 7 087 + 0091),r iv 19',bur[bowl]N
+dcclt/P346714,UET 6 0677 + 0678 + UET 7 0087 + 0091 (UET 6 0677 + 0678 + UET 7 087 + 0091),r iv 20',mah[great]V/i
+dcclt/P346714,UET 6 0677 + 0678 + UET 7 0087 + 0091 (UET 6 0677 + 0678 + UET 7 087 + 0091),r iv 21',harmušen[snare]N
+dcclt/P346714,UET 6 0677 + 0678 + UET 7 0087 + 0091 (UET 6 0677 + 0678 + UET 7 087 + 0091),r iv 22',ŋidru[scepter]N harmušen[snare]N
+dcclt/P346714,UET 6 0677 + 0678 + UET 7 0087 + 0091 (UET 6 0677 + 0678 + UET 7 087 + 0091),r iv 23',harmušen[snare]N
+dcclt/P346714,UET 6 0677 + 0678 + UET 7 0087 + 0091 (UET 6 0677 + 0678 + UET 7 087 + 0091),r iv 30',illar[weapon]N eban[pair]N
+dcclt/P346714,UET 6 0677 + 0678 + UET 7 0087 + 0091 (UET 6 0677 + 0678 + UET 7 087 + 0091),r iv 31',illar[weapon]N
+dcclt/P346714,UET 6 0677 + 0678 + UET 7 0087 + 0091 (UET 6 0677 + 0678 + UET 7 087 + 0091),r iv 32',illar[weapon]N zid[right]V/i
+dcclt/P346714,UET 6 0677 + 0678 + UET 7 0087 + 0091 (UET 6 0677 + 0678 + UET 7 087 + 0091),r iv 33',illar[weapon]N šub[fall]V/t
+dcclt/P346714,UET 6 0677 + 0678 + UET 7 0087 + 0091 (UET 6 0677 + 0678 + UET 7 087 + 0091),r iv 34',illar[weapon]N šu[hand]N lugal[king]N
+dcclt/P346714,UET 6 0677 + 0678 + UET 7 0087 + 0091 (UET 6 0677 + 0678 + UET 7 087 + 0091),r iv 35',illar[weapon]N
+dcclt/P346714,UET 6 0677 + 0678 + UET 7 0087 + 0091 (UET 6 0677 + 0678 + UET 7 087 + 0091),r iv 36',illar[weapon]N
+dcclt/P346714,UET 6 0677 + 0678 + UET 7 0087 + 0091 (UET 6 0677 + 0678 + UET 7 087 + 0091),r iv 37',ti[arrow]N
+dcclt/P346714,UET 6 0677 + 0678 + UET 7 0087 + 0091 (UET 6 0677 + 0678 + UET 7 087 + 0091),r iv 38',pana[bow]N
+dcclt/P346714,UET 6 0677 + 0678 + UET 7 0087 + 0091 (UET 6 0677 + 0678 + UET 7 087 + 0091),r iv 39',kakpana[arrow]N
+dcclt/P346714,UET 6 0677 + 0678 + UET 7 0087 + 0091 (UET 6 0677 + 0678 + UET 7 087 + 0091),r iv 40',gagsisa[arrow]N
+dcclt/P346714,UET 6 0677 + 0678 + UET 7 0087 + 0091 (UET 6 0677 + 0678 + UET 7 087 + 0091),r iv 41',gag[nail]N eš[three]NU
+dcclt/P346714,UET 6 0677 + 0678 + UET 7 0087 + 0091 (UET 6 0677 + 0678 + UET 7 087 + 0091),r iv 43',usakar[moon]N
+dcclt/P346714,UET 6 0677 + 0678 + UET 7 0087 + 0091 (UET 6 0677 + 0678 + UET 7 087 + 0091),r iv 44',gag[nail]N usakar[moon]N
+dcclt/P346714,UET 6 0677 + 0678 + UET 7 0087 + 0091 (UET 6 0677 + 0678 + UET 7 087 + 0091),r iv 45',burud[perforate]V/t
+dcclt/P346714,UET 6 0677 + 0678 + UET 7 0087 + 0091 (UET 6 0677 + 0678 + UET 7 087 + 0091),r v 01',mar[shovel]N ninda[bread]N
+dcclt/P346714,UET 6 0677 + 0678 + UET 7 0087 + 0091 (UET 6 0677 + 0678 + UET 7 087 + 0091),r v 02',mar[shovel]N ninda[bread]N gur[thick]V/i
+dcclt/P346714,UET 6 0677 + 0678 + UET 7 0087 + 0091 (UET 6 0677 + 0678 + UET 7 087 + 0091),r v 03',mar[shovel]N ninda[bread]N
+dcclt/P346714,UET 6 0677 + 0678 + UET 7 0087 + 0091 (UET 6 0677 + 0678 + UET 7 087 + 0091),r v 04',mar[shovel]N im[clay]N
+dcclt/P346714,UET 6 0677 + 0678 + UET 7 0087 + 0091 (UET 6 0677 + 0678 + UET 7 087 + 0091),r v 05',mar[shovel]N še[barley]N
+dcclt/P346714,UET 6 0677 + 0678 + UET 7 0087 + 0091 (UET 6 0677 + 0678 + UET 7 087 + 0091),r v 06',mar[shovel]N še[barley]N
+dcclt/P346714,UET 6 0677 + 0678 + UET 7 0087 + 0091 (UET 6 0677 + 0678 + UET 7 087 + 0091),r v 07',mar[shovel]N urud[copper]N
+dcclt/P346714,UET 6 0677 + 0678 + UET 7 0087 + 0091 (UET 6 0677 + 0678 + UET 7 087 + 0091),r v 08',mar[shovel]N gi[reed]N
+dcclt/P346714,UET 6 0677 + 0678 + UET 7 0087 + 0091 (UET 6 0677 + 0678 + UET 7 087 + 0091),r v 09',mar[shovel]N lugud[short]V/i
+dcclt/P346714,UET 6 0677 + 0678 + UET 7 0087 + 0091 (UET 6 0677 + 0678 + UET 7 087 + 0091),r v 10',mar[shovel]N
+dcclt/P346714,UET 6 0677 + 0678 + UET 7 0087 + 0091 (UET 6 0677 + 0678 + UET 7 087 + 0091),r v 11',kul[handle]N mar[shovel]N
+dcclt/P346714,UET 6 0677 + 0678 + UET 7 0087 + 0091 (UET 6 0677 + 0678 + UET 7 087 + 0091),r v 12',mar[shovel]N
+dcclt/P346714,UET 6 0677 + 0678 + UET 7 0087 + 0091 (UET 6 0677 + 0678 + UET 7 087 + 0091),r v 13',še[barley]N rah[beat]V/t
+dcclt/P346714,UET 6 0677 + 0678 + UET 7 0087 + 0091 (UET 6 0677 + 0678 + UET 7 087 + 0091),r v 14',še[barley]N rah[beat]V/t
