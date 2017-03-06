@@ -1,7 +1,5 @@
-Text,Line
-{d}inana\dat gan-{d}utu dam pa₄-a₂-nu-kuš₂ x-IL a\abs mu-ru\dat,{d}inana\dat
-{d}inana\dat gan-{d}utu dam pa₄-a₂-nu-kuš₂ x-IL a\abs mu-ru\dat,gan-{d}utu
-{d}inana\dat gan-{d}utu dam pa₄-a₂-nu-kuš₂ x-IL a\abs mu-ru\dat,dam
-{d}inana\dat gan-{d}utu dam pa₄-a₂-nu-kuš₂ x-IL a\abs mu-ru\dat,pa₄-a₂-nu-kuš₂
-{d}inana\dat gan-{d}utu dam pa₄-a₂-nu-kuš₂ x-IL a\abs mu-ru\dat,x-IL
-{d}inana\dat gan-{d}utu dam pa₄-a₂-nu-kuš₂ x-IL a\abs mu-ru\dat,a\abs mu-ru\dat
+Form,Gw,Pos
+gan-{d}utu,Ganutuk,PN
+dam,spouse,N
+pa₄-a₂-nu-kuš₂,Paanukuš,PN
+a\abs mu-ru\dat,water cvve,N V/t

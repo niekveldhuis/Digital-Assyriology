@@ -1,6 +1,6 @@
-Text,Line
-{d}en-lil₂-la en-ša₃-kuš₂-an-na\erg niŋ₂-gur₁₁ kiš{ki} hul-a-kam a\abs mu-na-ru,{d}en-lil₂-la
-{d}en-lil₂-la en-ša₃-kuš₂-an-na\erg niŋ₂-gur₁₁ kiš{ki} hul-a-kam a\abs mu-na-ru,en-ša₃-kuš₂-an-na\erg
-{d}en-lil₂-la en-ša₃-kuš₂-an-na\erg niŋ₂-gur₁₁ kiš{ki} hul-a-kam a\abs mu-na-ru,niŋ₂-gur₁₁ kiš{ki}
-{d}en-lil₂-la en-ša₃-kuš₂-an-na\erg niŋ₂-gur₁₁ kiš{ki} hul-a-kam a\abs mu-na-ru,hul-a-kam
-{d}en-lil₂-la en-ša₃-kuš₂-an-na\erg niŋ₂-gur₁₁ kiš{ki} hul-a-kam a\abs mu-na-ru,a\abs mu-na-ru
+Form,Gw,Pos
+{d}en-lil₂-la,Enlil,DN
+en-ša₃-kuš₂-an-na\erg,Enšakušanak,RN
+niŋ₂-gur₁₁ kiš{ki},property Kiš,N SN
+hul-a-kam,bad,V/t
+a\abs mu-na-ru,water cvve,N V/t

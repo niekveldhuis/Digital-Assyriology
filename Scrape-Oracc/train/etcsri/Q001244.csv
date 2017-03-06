@@ -1,10 +1,10 @@
-Text,Line
-me-silim lugal kiš{ki}\gen e₂\abs du₃ {d}nin-ŋir₂-su\gen\erg {d}nin-ŋir₂-su\dat mu-gub\dat lugal-šag₄-engur\abs ensi₂ lagaš{ki}\abs,me-silim
-me-silim lugal kiš{ki}\gen e₂\abs du₃ {d}nin-ŋir₂-su\gen\erg {d}nin-ŋir₂-su\dat mu-gub\dat lugal-šag₄-engur\abs ensi₂ lagaš{ki}\abs,lugal
-me-silim lugal kiš{ki}\gen e₂\abs du₃ {d}nin-ŋir₂-su\gen\erg {d}nin-ŋir₂-su\dat mu-gub\dat lugal-šag₄-engur\abs ensi₂ lagaš{ki}\abs,kiš{ki}\gen
-me-silim lugal kiš{ki}\gen e₂\abs du₃ {d}nin-ŋir₂-su\gen\erg {d}nin-ŋir₂-su\dat mu-gub\dat lugal-šag₄-engur\abs ensi₂ lagaš{ki}\abs,e₂\abs du₃ {d}nin-ŋir₂-su\gen\erg
-me-silim lugal kiš{ki}\gen e₂\abs du₃ {d}nin-ŋir₂-su\gen\erg {d}nin-ŋir₂-su\dat mu-gub\dat lugal-šag₄-engur\abs ensi₂ lagaš{ki}\abs,{d}nin-ŋir₂-su\dat
-me-silim lugal kiš{ki}\gen e₂\abs du₃ {d}nin-ŋir₂-su\gen\erg {d}nin-ŋir₂-su\dat mu-gub\dat lugal-šag₄-engur\abs ensi₂ lagaš{ki}\abs,mu-gub\dat
-me-silim lugal kiš{ki}\gen e₂\abs du₃ {d}nin-ŋir₂-su\gen\erg {d}nin-ŋir₂-su\dat mu-gub\dat lugal-šag₄-engur\abs ensi₂ lagaš{ki}\abs,lugal-šag₄-engur\abs
-me-silim lugal kiš{ki}\gen e₂\abs du₃ {d}nin-ŋir₂-su\gen\erg {d}nin-ŋir₂-su\dat mu-gub\dat lugal-šag₄-engur\abs ensi₂ lagaš{ki}\abs,ensi₂
-me-silim lugal kiš{ki}\gen e₂\abs du₃ {d}nin-ŋir₂-su\gen\erg {d}nin-ŋir₂-su\dat mu-gub\dat lugal-šag₄-engur\abs ensi₂ lagaš{ki}\abs,lagaš{ki}\abs
+Form,Gw,Pos
+me-silim,Mesilim,RN
+lugal,king,N
+kiš{ki}\gen,Kiš,SN
+e₂\abs du₃ {d}nin-ŋir₂-su\gen\erg,house build Ninŋirsuk,N V/t DN
+{d}nin-ŋir₂-su\dat,Ninŋirsuk,DN
+mu-gub\dat,stand,V/i
+lugal-šag₄-engur\abs,Lugalšagengur,RN
+ensi₂,ruler,N
+lagaš{ki}\abs,Lagaš,SN

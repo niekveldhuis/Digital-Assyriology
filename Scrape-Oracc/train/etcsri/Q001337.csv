@@ -1,8 +1,8 @@
-Text,Line
-{d}en-ki lugal eridug{ki}-ra e₂-li-li lugal urim₅{ki}-ma-ke₄ abzu-ni\abs mu-na-du₃,{d}en-ki
-{d}en-ki lugal eridug{ki}-ra e₂-li-li lugal urim₅{ki}-ma-ke₄ abzu-ni\abs mu-na-du₃,lugal
-{d}en-ki lugal eridug{ki}-ra e₂-li-li lugal urim₅{ki}-ma-ke₄ abzu-ni\abs mu-na-du₃,eridug{ki}-ra
-{d}en-ki lugal eridug{ki}-ra e₂-li-li lugal urim₅{ki}-ma-ke₄ abzu-ni\abs mu-na-du₃,e₂-li-li
-{d}en-ki lugal eridug{ki}-ra e₂-li-li lugal urim₅{ki}-ma-ke₄ abzu-ni\abs mu-na-du₃,lugal urim₅{ki}-ma-ke₄
-{d}en-ki lugal eridug{ki}-ra e₂-li-li lugal urim₅{ki}-ma-ke₄ abzu-ni\abs mu-na-du₃,abzu-ni\abs
-{d}en-ki lugal eridug{ki}-ra e₂-li-li lugal urim₅{ki}-ma-ke₄ abzu-ni\abs mu-na-du₃,mu-na-du₃
+Form,Gw,Pos
+{d}en-ki,Enkik,DN
+lugal,king,N
+eridug{ki}-ra,Eridug,SN
+e₂-li-li,Elilin,RN
+lugal urim₅{ki}-ma-ke₄,king Urim,N SN
+abzu-ni\abs,Abzu,TN
+mu-na-du₃,build,V/t

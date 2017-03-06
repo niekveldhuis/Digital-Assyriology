@@ -1,12 +1,12 @@
-Text,Line
-ur-{d}nanše lugal lagaš\gen dumu gu-|NI.DU|\gen\erg e₂ nin-ŋir₂-su₂\gen\abs mu-du₃ lugal-ezen\abs gu-la\abs a₂-ni-ta\abs aya₂-kur-gal dumu\abs barag-{sa}sag₇-nu-di\abs,ur-{d}nanše
-ur-{d}nanše lugal lagaš\gen dumu gu-|NI.DU|\gen\erg e₂ nin-ŋir₂-su₂\gen\abs mu-du₃ lugal-ezen\abs gu-la\abs a₂-ni-ta\abs aya₂-kur-gal dumu\abs barag-{sa}sag₇-nu-di\abs,lugal
-ur-{d}nanše lugal lagaš\gen dumu gu-|NI.DU|\gen\erg e₂ nin-ŋir₂-su₂\gen\abs mu-du₃ lugal-ezen\abs gu-la\abs a₂-ni-ta\abs aya₂-kur-gal dumu\abs barag-{sa}sag₇-nu-di\abs,lagaš\gen
-ur-{d}nanše lugal lagaš\gen dumu gu-|NI.DU|\gen\erg e₂ nin-ŋir₂-su₂\gen\abs mu-du₃ lugal-ezen\abs gu-la\abs a₂-ni-ta\abs aya₂-kur-gal dumu\abs barag-{sa}sag₇-nu-di\abs,dumu gu-|NI.DU|\gen\erg
-ur-{d}nanše lugal lagaš\gen dumu gu-|NI.DU|\gen\erg e₂ nin-ŋir₂-su₂\gen\abs mu-du₃ lugal-ezen\abs gu-la\abs a₂-ni-ta\abs aya₂-kur-gal dumu\abs barag-{sa}sag₇-nu-di\abs,e₂ nin-ŋir₂-su₂\gen\abs
-ur-{d}nanše lugal lagaš\gen dumu gu-|NI.DU|\gen\erg e₂ nin-ŋir₂-su₂\gen\abs mu-du₃ lugal-ezen\abs gu-la\abs a₂-ni-ta\abs aya₂-kur-gal dumu\abs barag-{sa}sag₇-nu-di\abs,mu-du₃
-ur-{d}nanše lugal lagaš\gen dumu gu-|NI.DU|\gen\erg e₂ nin-ŋir₂-su₂\gen\abs mu-du₃ lugal-ezen\abs gu-la\abs a₂-ni-ta\abs aya₂-kur-gal dumu\abs barag-{sa}sag₇-nu-di\abs,lugal-ezen\abs
-ur-{d}nanše lugal lagaš\gen dumu gu-|NI.DU|\gen\erg e₂ nin-ŋir₂-su₂\gen\abs mu-du₃ lugal-ezen\abs gu-la\abs a₂-ni-ta\abs aya₂-kur-gal dumu\abs barag-{sa}sag₇-nu-di\abs,gu-la\abs
-ur-{d}nanše lugal lagaš\gen dumu gu-|NI.DU|\gen\erg e₂ nin-ŋir₂-su₂\gen\abs mu-du₃ lugal-ezen\abs gu-la\abs a₂-ni-ta\abs aya₂-kur-gal dumu\abs barag-{sa}sag₇-nu-di\abs,a₂-ni-ta\abs
-ur-{d}nanše lugal lagaš\gen dumu gu-|NI.DU|\gen\erg e₂ nin-ŋir₂-su₂\gen\abs mu-du₃ lugal-ezen\abs gu-la\abs a₂-ni-ta\abs aya₂-kur-gal dumu\abs barag-{sa}sag₇-nu-di\abs,aya₂-kur-gal dumu\abs
-ur-{d}nanše lugal lagaš\gen dumu gu-|NI.DU|\gen\erg e₂ nin-ŋir₂-su₂\gen\abs mu-du₃ lugal-ezen\abs gu-la\abs a₂-ni-ta\abs aya₂-kur-gal dumu\abs barag-{sa}sag₇-nu-di\abs,barag-{sa}sag₇-nu-di\abs
+Form,Gw,Pos
+ur-{d}nanše,Urnanše,RN
+lugal,king,N
+lagaš\gen,Lagaš,SN
+dumu gu-|NI.DU|\gen\erg,child Gu-NI.DU,N PN
+e₂ nin-ŋir₂-su₂\gen\abs,house Ninŋirsuk,N DN
+mu-du₃,build,V/t
+lugal-ezen\abs,Lugalezen,PN
+gu-la\abs,Gula,PN
+a₂-ni-ta\abs,Anita,PN
+aya₂-kur-gal dumu\abs,Ayakurgal child,RN N
+barag-{sa}sag₇-nu-di\abs,Baragsagnudi,PN

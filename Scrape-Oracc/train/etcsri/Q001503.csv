@@ -1,9 +1,8 @@
-Text,Line
-{d}nin-ŋeš-zid-da diŋir-ra-ni\dat gu₃-de₂-a ensi₂ lagaš{ki}\gen lu₂ e₂ x x x x-ni mu-du₃-a\abs,{d}nin-ŋeš-zid-da
-{d}nin-ŋeš-zid-da diŋir-ra-ni\dat gu₃-de₂-a ensi₂ lagaš{ki}\gen lu₂ e₂ x x x x-ni mu-du₃-a\abs,diŋir-ra-ni\dat
-{d}nin-ŋeš-zid-da diŋir-ra-ni\dat gu₃-de₂-a ensi₂ lagaš{ki}\gen lu₂ e₂ x x x x-ni mu-du₃-a\abs,gu₃-de₂-a
-{d}nin-ŋeš-zid-da diŋir-ra-ni\dat gu₃-de₂-a ensi₂ lagaš{ki}\gen lu₂ e₂ x x x x-ni mu-du₃-a\abs,ensi₂
-{d}nin-ŋeš-zid-da diŋir-ra-ni\dat gu₃-de₂-a ensi₂ lagaš{ki}\gen lu₂ e₂ x x x x-ni mu-du₃-a\abs,lagaš{ki}\gen
-{d}nin-ŋeš-zid-da diŋir-ra-ni\dat gu₃-de₂-a ensi₂ lagaš{ki}\gen lu₂ e₂ x x x x-ni mu-du₃-a\abs,lu₂ e₂ x x
-{d}nin-ŋeš-zid-da diŋir-ra-ni\dat gu₃-de₂-a ensi₂ lagaš{ki}\gen lu₂ e₂ x x x x-ni mu-du₃-a\abs,x x-ni
-{d}nin-ŋeš-zid-da diŋir-ra-ni\dat gu₃-de₂-a ensi₂ lagaš{ki}\gen lu₂ e₂ x x x x-ni mu-du₃-a\abs,mu-du₃-a\abs
+Form,Gw,Pos
+{d}nin-ŋeš-zid-da,Ninŋešzidak,DN
+diŋir-ra-ni\dat,deity,N
+gu₃-de₂-a,Gudea,RN
+ensi₂,ruler,N
+lagaš{ki}\gen,Lagaš,SN
+lu₂ e₂,person house,N N
+mu-du₃-a\abs,build,V/t

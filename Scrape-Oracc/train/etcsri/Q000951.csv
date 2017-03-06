@@ -1,12 +1,12 @@
-Text,Line
-{d}en-lil₂ lugal kur-kur-ra lugal-a-ni\dat ur-{d}namma lugal urim₅{ki}-ma lugal ki-en-gi ki-uri-ke₄ e₂-a-ni\abs mu-na-du₃ id₂-en-eren₂-nun id₂ nindaba-ka-ni\abs mu-na-ba-al,{d}en-lil₂
-{d}en-lil₂ lugal kur-kur-ra lugal-a-ni\dat ur-{d}namma lugal urim₅{ki}-ma lugal ki-en-gi ki-uri-ke₄ e₂-a-ni\abs mu-na-du₃ id₂-en-eren₂-nun id₂ nindaba-ka-ni\abs mu-na-ba-al,lugal kur-kur-ra
-{d}en-lil₂ lugal kur-kur-ra lugal-a-ni\dat ur-{d}namma lugal urim₅{ki}-ma lugal ki-en-gi ki-uri-ke₄ e₂-a-ni\abs mu-na-du₃ id₂-en-eren₂-nun id₂ nindaba-ka-ni\abs mu-na-ba-al,lugal-a-ni\dat
-{d}en-lil₂ lugal kur-kur-ra lugal-a-ni\dat ur-{d}namma lugal urim₅{ki}-ma lugal ki-en-gi ki-uri-ke₄ e₂-a-ni\abs mu-na-du₃ id₂-en-eren₂-nun id₂ nindaba-ka-ni\abs mu-na-ba-al,ur-{d}namma
-{d}en-lil₂ lugal kur-kur-ra lugal-a-ni\dat ur-{d}namma lugal urim₅{ki}-ma lugal ki-en-gi ki-uri-ke₄ e₂-a-ni\abs mu-na-du₃ id₂-en-eren₂-nun id₂ nindaba-ka-ni\abs mu-na-ba-al,lugal urim₅{ki}-ma
-{d}en-lil₂ lugal kur-kur-ra lugal-a-ni\dat ur-{d}namma lugal urim₅{ki}-ma lugal ki-en-gi ki-uri-ke₄ e₂-a-ni\abs mu-na-du₃ id₂-en-eren₂-nun id₂ nindaba-ka-ni\abs mu-na-ba-al,lugal ki-en-gi ki-uri-ke₄
-{d}en-lil₂ lugal kur-kur-ra lugal-a-ni\dat ur-{d}namma lugal urim₅{ki}-ma lugal ki-en-gi ki-uri-ke₄ e₂-a-ni\abs mu-na-du₃ id₂-en-eren₂-nun id₂ nindaba-ka-ni\abs mu-na-ba-al,e₂-a-ni\abs
-{d}en-lil₂ lugal kur-kur-ra lugal-a-ni\dat ur-{d}namma lugal urim₅{ki}-ma lugal ki-en-gi ki-uri-ke₄ e₂-a-ni\abs mu-na-du₃ id₂-en-eren₂-nun id₂ nindaba-ka-ni\abs mu-na-ba-al,mu-na-du₃
-{d}en-lil₂ lugal kur-kur-ra lugal-a-ni\dat ur-{d}namma lugal urim₅{ki}-ma lugal ki-en-gi ki-uri-ke₄ e₂-a-ni\abs mu-na-du₃ id₂-en-eren₂-nun id₂ nindaba-ka-ni\abs mu-na-ba-al,id₂-en-eren₂-nun
-{d}en-lil₂ lugal kur-kur-ra lugal-a-ni\dat ur-{d}namma lugal urim₅{ki}-ma lugal ki-en-gi ki-uri-ke₄ e₂-a-ni\abs mu-na-du₃ id₂-en-eren₂-nun id₂ nindaba-ka-ni\abs mu-na-ba-al,id₂ nindaba-ka-ni\abs
-{d}en-lil₂ lugal kur-kur-ra lugal-a-ni\dat ur-{d}namma lugal urim₅{ki}-ma lugal ki-en-gi ki-uri-ke₄ e₂-a-ni\abs mu-na-du₃ id₂-en-eren₂-nun id₂ nindaba-ka-ni\abs mu-na-ba-al,mu-na-ba-al
+Form,Gw,Pos
+{d}en-lil₂,Enlil,DN
+lugal kur-kur-ra,king mountain,N N
+lugal-a-ni\dat,king,N
+ur-{d}namma,Urnammak,RN
+lugal urim₅{ki}-ma,king Urim,N SN
+lugal ki-en-gi ki-uri-ke₄,king Kiengir Akkad,N GN GN
+e₂-a-ni\abs,house,N
+mu-na-du₃,build,V/t
+id₂-en-eren₂-nun,Idenerennun,WN
+id₂ nindaba-ka-ni\abs,river offering,N N
+mu-na-ba-al,dig,V/t

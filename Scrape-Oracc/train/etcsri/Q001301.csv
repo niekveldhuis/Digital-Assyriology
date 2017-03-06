@@ -1,6 +1,6 @@
-Text,Line
-{d}inana\dat su₆-mu₂ dam saŋŋa {d}en-lil₂\gen\erg a\abs mu-ru\dat,{d}inana\dat
-{d}inana\dat su₆-mu₂ dam saŋŋa {d}en-lil₂\gen\erg a\abs mu-ru\dat,su₆-mu₂
-{d}inana\dat su₆-mu₂ dam saŋŋa {d}en-lil₂\gen\erg a\abs mu-ru\dat,dam
-{d}inana\dat su₆-mu₂ dam saŋŋa {d}en-lil₂\gen\erg a\abs mu-ru\dat,saŋŋa {d}en-lil₂\gen\erg
-{d}inana\dat su₆-mu₂ dam saŋŋa {d}en-lil₂\gen\erg a\abs mu-ru\dat,a\abs mu-ru\dat
+Form,Gw,Pos
+{d}inana\dat,Inanak,DN
+su₆-mu₂,Sumu,PN
+dam,spouse,N
+saŋŋa {d}en-lil₂\gen\erg,official Enlil,N DN
+a\abs mu-ru\dat,water cvve,N V/t

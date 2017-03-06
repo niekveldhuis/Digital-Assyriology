@@ -1,6 +1,6 @@
-Text,Line
-dumu amar-{d}iškur\gen dam abzu-ki-dug₃\gen\erg a\abs mu-ru\dat,dumu
-dumu amar-{d}iškur\gen dam abzu-ki-dug₃\gen\erg a\abs mu-ru\dat,amar-{d}iškur\gen
-dumu amar-{d}iškur\gen dam abzu-ki-dug₃\gen\erg a\abs mu-ru\dat,dam
-dumu amar-{d}iškur\gen dam abzu-ki-dug₃\gen\erg a\abs mu-ru\dat,abzu-ki-dug₃\gen\erg
-dumu amar-{d}iškur\gen dam abzu-ki-dug₃\gen\erg a\abs mu-ru\dat,a\abs mu-ru\dat
+Form,Gw,Pos
+dumu,child,N
+amar-{d}iškur\gen,Amariškur,PN
+dam,spouse,N
+abzu-ki-dug₃\gen\erg,Abzukidug,RN
+a\abs mu-ru\dat,water cvve,N V/t

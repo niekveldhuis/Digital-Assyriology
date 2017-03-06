@@ -1,7 +1,7 @@
-Text,Line
-{d}nagar-pa-e₃\dat ur-{d}lum-ma lugal umma₂\gen dumu en-a₂-kal-le lugal umma₂\gen\gen\erg e₂-ni\abs e-na-du₃,{d}nagar-pa-e₃\dat
-{d}nagar-pa-e₃\dat ur-{d}lum-ma lugal umma₂\gen dumu en-a₂-kal-le lugal umma₂\gen\gen\erg e₂-ni\abs e-na-du₃,ur-{d}lum-ma
-{d}nagar-pa-e₃\dat ur-{d}lum-ma lugal umma₂\gen dumu en-a₂-kal-le lugal umma₂\gen\gen\erg e₂-ni\abs e-na-du₃,lugal umma₂\gen
-{d}nagar-pa-e₃\dat ur-{d}lum-ma lugal umma₂\gen dumu en-a₂-kal-le lugal umma₂\gen\gen\erg e₂-ni\abs e-na-du₃,dumu en-a₂-kal-le
-{d}nagar-pa-e₃\dat ur-{d}lum-ma lugal umma₂\gen dumu en-a₂-kal-le lugal umma₂\gen\gen\erg e₂-ni\abs e-na-du₃,lugal umma₂\gen\gen\erg
-{d}nagar-pa-e₃\dat ur-{d}lum-ma lugal umma₂\gen dumu en-a₂-kal-le lugal umma₂\gen\gen\erg e₂-ni\abs e-na-du₃,e₂-ni\abs e-na-du₃
+Form,Gw,Pos
+{d}nagar-pa-e₃\dat,Nagarpae,DN
+ur-{d}lum-ma,Urluma,RN
+lugal umma₂\gen,king Umma,N SN
+dumu en-a₂-kal-le,child Enakale,N RN
+lugal umma₂\gen\gen\erg,king Umma,N SN
+e₂-ni\abs e-na-du₃,house build,N V/t

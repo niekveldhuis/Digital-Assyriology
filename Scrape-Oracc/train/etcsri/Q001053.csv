@@ -1,9 +1,9 @@
-Text,Line
-{d}nin-ŋir₂-su\dat aya₂-kur-gal ensi₂ lagaš{ki}\gen dumu ur-{d}nanše lugal lagaš{ki}\gen\gen\erg an-ta-sur-ra\abs mu-du₃\dat,{d}nin-ŋir₂-su\dat
-{d}nin-ŋir₂-su\dat aya₂-kur-gal ensi₂ lagaš{ki}\gen dumu ur-{d}nanše lugal lagaš{ki}\gen\gen\erg an-ta-sur-ra\abs mu-du₃\dat,aya₂-kur-gal
-{d}nin-ŋir₂-su\dat aya₂-kur-gal ensi₂ lagaš{ki}\gen dumu ur-{d}nanše lugal lagaš{ki}\gen\gen\erg an-ta-sur-ra\abs mu-du₃\dat,ensi₂
-{d}nin-ŋir₂-su\dat aya₂-kur-gal ensi₂ lagaš{ki}\gen dumu ur-{d}nanše lugal lagaš{ki}\gen\gen\erg an-ta-sur-ra\abs mu-du₃\dat,lagaš{ki}\gen
-{d}nin-ŋir₂-su\dat aya₂-kur-gal ensi₂ lagaš{ki}\gen dumu ur-{d}nanše lugal lagaš{ki}\gen\gen\erg an-ta-sur-ra\abs mu-du₃\dat,dumu ur-{d}nanše
-{d}nin-ŋir₂-su\dat aya₂-kur-gal ensi₂ lagaš{ki}\gen dumu ur-{d}nanše lugal lagaš{ki}\gen\gen\erg an-ta-sur-ra\abs mu-du₃\dat,lugal lagaš{ki}\gen\gen\erg
-{d}nin-ŋir₂-su\dat aya₂-kur-gal ensi₂ lagaš{ki}\gen dumu ur-{d}nanše lugal lagaš{ki}\gen\gen\erg an-ta-sur-ra\abs mu-du₃\dat,an-ta-sur-ra\abs
-{d}nin-ŋir₂-su\dat aya₂-kur-gal ensi₂ lagaš{ki}\gen dumu ur-{d}nanše lugal lagaš{ki}\gen\gen\erg an-ta-sur-ra\abs mu-du₃\dat,mu-du₃\dat
+Form,Gw,Pos
+{d}nin-ŋir₂-su\dat,Ninŋirsuk,DN
+aya₂-kur-gal,Ayakurgal,RN
+ensi₂,ruler,N
+lagaš{ki}\gen,Lagaš,SN
+dumu ur-{d}nanše,child Urnanše,N RN
+lugal lagaš{ki}\gen\gen\erg,king Lagaš,N SN
+an-ta-sur-ra\abs,Antasura,TN
+mu-du₃\dat,build,V/t

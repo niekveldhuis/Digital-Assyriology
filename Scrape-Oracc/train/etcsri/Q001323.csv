@@ -1,7 +1,7 @@
-Text,Line
-{d}en-ki-gal\dat ur-{d}lum-ma lugal umma₂\gen dumu en-a₂-kal-le lugal umma₂\gen\gen\erg e₂\poss3h\abs mu-na-du₃,{d}en-ki-gal\dat
-{d}en-ki-gal\dat ur-{d}lum-ma lugal umma₂\gen dumu en-a₂-kal-le lugal umma₂\gen\gen\erg e₂\poss3h\abs mu-na-du₃,ur-{d}lum-ma
-{d}en-ki-gal\dat ur-{d}lum-ma lugal umma₂\gen dumu en-a₂-kal-le lugal umma₂\gen\gen\erg e₂\poss3h\abs mu-na-du₃,lugal umma₂\gen
-{d}en-ki-gal\dat ur-{d}lum-ma lugal umma₂\gen dumu en-a₂-kal-le lugal umma₂\gen\gen\erg e₂\poss3h\abs mu-na-du₃,dumu en-a₂-kal-le
-{d}en-ki-gal\dat ur-{d}lum-ma lugal umma₂\gen dumu en-a₂-kal-le lugal umma₂\gen\gen\erg e₂\poss3h\abs mu-na-du₃,lugal umma₂\gen\gen\erg
-{d}en-ki-gal\dat ur-{d}lum-ma lugal umma₂\gen dumu en-a₂-kal-le lugal umma₂\gen\gen\erg e₂\poss3h\abs mu-na-du₃,e₂\poss3h\abs mu-na-du₃
+Form,Gw,Pos
+{d}en-ki-gal\dat,Enkigal,DN
+ur-{d}lum-ma,Urluma,RN
+lugal umma₂\gen,king Umma,N SN
+dumu en-a₂-kal-le,child Enakale,N RN
+lugal umma₂\gen\gen\erg,king Umma,N SN
+e₂\poss3h\abs mu-na-du₃,house build,N V/t

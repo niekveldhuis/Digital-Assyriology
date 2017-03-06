@@ -1,8 +1,8 @@
-Text,Line
-ur-{d}nanše lugal lagaš\gen dumu gu-|NI.DU|\gen\erg eš₃ ŋir₂-su\gen\abs mu-du₃ temen šeg₁₂-tab\abs,ur-{d}nanše
-ur-{d}nanše lugal lagaš\gen dumu gu-|NI.DU|\gen\erg eš₃ ŋir₂-su\gen\abs mu-du₃ temen šeg₁₂-tab\abs,lugal
-ur-{d}nanše lugal lagaš\gen dumu gu-|NI.DU|\gen\erg eš₃ ŋir₂-su\gen\abs mu-du₃ temen šeg₁₂-tab\abs,lagaš\gen
-ur-{d}nanše lugal lagaš\gen dumu gu-|NI.DU|\gen\erg eš₃ ŋir₂-su\gen\abs mu-du₃ temen šeg₁₂-tab\abs,dumu gu-|NI.DU|\gen\erg
-ur-{d}nanše lugal lagaš\gen dumu gu-|NI.DU|\gen\erg eš₃ ŋir₂-su\gen\abs mu-du₃ temen šeg₁₂-tab\abs,eš₃ ŋir₂-su\gen\abs
-ur-{d}nanše lugal lagaš\gen dumu gu-|NI.DU|\gen\erg eš₃ ŋir₂-su\gen\abs mu-du₃ temen šeg₁₂-tab\abs,mu-du₃
-ur-{d}nanše lugal lagaš\gen dumu gu-|NI.DU|\gen\erg eš₃ ŋir₂-su\gen\abs mu-du₃ temen šeg₁₂-tab\abs,temen šeg₁₂-tab\abs
+Form,Gw,Pos
+ur-{d}nanše,Urnanše,RN
+lugal,king,N
+lagaš\gen,Lagaš,SN
+dumu gu-|NI.DU|\gen\erg,child Gu-NI.DU,N PN
+eš₃ ŋir₂-su\gen\abs,shrine Ŋirsu,N SN
+mu-du₃,build,V/t
+temen šeg₁₂-tab\abs,foundation bricklayer,N N

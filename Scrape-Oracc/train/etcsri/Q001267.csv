@@ -1,6 +1,5 @@
-Text,Line
-x x dumu lugal-a-ŋi₆\gen\erg nam-til₃ dam dumu-na-da a\abs mu-ru\dat,x x
-x x dumu lugal-a-ŋi₆\gen\erg nam-til₃ dam dumu-na-da a\abs mu-ru\dat,dumu lugal-a-ŋi₆\gen\erg
-x x dumu lugal-a-ŋi₆\gen\erg nam-til₃ dam dumu-na-da a\abs mu-ru\dat,nam-til₃
-x x dumu lugal-a-ŋi₆\gen\erg nam-til₃ dam dumu-na-da a\abs mu-ru\dat,dam dumu-na-da
-x x dumu lugal-a-ŋi₆\gen\erg nam-til₃ dam dumu-na-da a\abs mu-ru\dat,a\abs mu-ru\dat
+Form,Gw,Pos
+dumu lugal-a-ŋi₆\gen\erg,child Lugalaŋi,N PN
+nam-til₃,life,N
+dam dumu-na-da,spouse child,N N
+a\abs mu-ru\dat,water cvve,N V/t

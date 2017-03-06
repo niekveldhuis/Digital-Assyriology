@@ -1,5 +1,4 @@
-Text,Line
-{d}ab-u₂\dat lugal-kisal-si dumu ar₃-du₂\gen\erg a\abs mu-ru\dat,{d}ab-u₂\dat
-{d}ab-u₂\dat lugal-kisal-si dumu ar₃-du₂\gen\erg a\abs mu-ru\dat,lugal-kisal-si
-{d}ab-u₂\dat lugal-kisal-si dumu ar₃-du₂\gen\erg a\abs mu-ru\dat,dumu ar₃-du₂\gen\erg
-{d}ab-u₂\dat lugal-kisal-si dumu ar₃-du₂\gen\erg a\abs mu-ru\dat,a\abs mu-ru\dat
+Form,Gw,Pos
+lugal-kisal-si,Lugalkisalesi,PN
+dumu ar₃-du₂\gen\erg,child Ardu,N PN
+a\abs mu-ru\dat,water cvve,N V/t

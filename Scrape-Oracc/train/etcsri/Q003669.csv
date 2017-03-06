@@ -1,8 +1,7 @@
-Text,Line
-{d}namma dam an-ra\gen\dat lugal-kisal-si lugal unug{ki}-ga lugal urim₂{ki}-ma\gen\erg e₂ {d}namma\gen\abs mu-du₃\dat,{d}namma
-{d}namma dam an-ra\gen\dat lugal-kisal-si lugal unug{ki}-ga lugal urim₂{ki}-ma\gen\erg e₂ {d}namma\gen\abs mu-du₃\dat,dam an-ra\gen\dat
-{d}namma dam an-ra\gen\dat lugal-kisal-si lugal unug{ki}-ga lugal urim₂{ki}-ma\gen\erg e₂ {d}namma\gen\abs mu-du₃\dat,lugal-kisal-si
-{d}namma dam an-ra\gen\dat lugal-kisal-si lugal unug{ki}-ga lugal urim₂{ki}-ma\gen\erg e₂ {d}namma\gen\abs mu-du₃\dat,lugal unug{ki}-ga
-{d}namma dam an-ra\gen\dat lugal-kisal-si lugal unug{ki}-ga lugal urim₂{ki}-ma\gen\erg e₂ {d}namma\gen\abs mu-du₃\dat,lugal urim₂{ki}-ma\gen\erg
-{d}namma dam an-ra\gen\dat lugal-kisal-si lugal unug{ki}-ga lugal urim₂{ki}-ma\gen\erg e₂ {d}namma\gen\abs mu-du₃\dat,e₂ {d}namma\gen\abs
-{d}namma dam an-ra\gen\dat lugal-kisal-si lugal unug{ki}-ga lugal urim₂{ki}-ma\gen\erg e₂ {d}namma\gen\abs mu-du₃\dat,mu-du₃\dat
+Form,Gw,Pos
+dam an-ra\gen\dat,spouse An,N DN
+lugal-kisal-si,Lugalkisalesi,RN
+lugal unug{ki}-ga,king Unug,N SN
+lugal urim₂{ki}-ma\gen\erg,king Urim,N SN
+e₂ {d}namma\gen\abs,house Namma,N DN
+mu-du₃\dat,build,V/t

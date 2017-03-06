@@ -1,7 +1,7 @@
-Text,Line
-ur-{d}nanše lugal lagaš\gen dumu gu-|NI.DU|\gen\erg eš₃ ŋir₂-su\gen\abs mu-du₃,ur-{d}nanše
-ur-{d}nanše lugal lagaš\gen dumu gu-|NI.DU|\gen\erg eš₃ ŋir₂-su\gen\abs mu-du₃,lugal
-ur-{d}nanše lugal lagaš\gen dumu gu-|NI.DU|\gen\erg eš₃ ŋir₂-su\gen\abs mu-du₃,lagaš\gen
-ur-{d}nanše lugal lagaš\gen dumu gu-|NI.DU|\gen\erg eš₃ ŋir₂-su\gen\abs mu-du₃,dumu gu-|NI.DU|\gen\erg
-ur-{d}nanše lugal lagaš\gen dumu gu-|NI.DU|\gen\erg eš₃ ŋir₂-su\gen\abs mu-du₃,eš₃ ŋir₂-su\gen\abs
-ur-{d}nanše lugal lagaš\gen dumu gu-|NI.DU|\gen\erg eš₃ ŋir₂-su\gen\abs mu-du₃,mu-du₃
+Form,Gw,Pos
+ur-{d}nanše,Urnanše,RN
+lugal,king,N
+lagaš\gen,Lagaš,SN
+dumu gu-|NI.DU|\gen\erg,child Gu-NI.DU,N PN
+eš₃ ŋir₂-su\gen\abs,shrine Ŋirsu,N SN
+mu-du₃,build,V/t

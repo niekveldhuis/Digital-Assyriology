@@ -1,8 +1,8 @@
-Text,Line
-{d}meš₃-lam-ta-e₃-a lugal-a-ni\dat gu₃-de₂-a ensi₂ lagaš{ki}-ke₄ e₂ ŋir₂-su{ki}-ka-ni\abs mu-na-du₃,{d}meš₃-lam-ta-e₃-a
-{d}meš₃-lam-ta-e₃-a lugal-a-ni\dat gu₃-de₂-a ensi₂ lagaš{ki}-ke₄ e₂ ŋir₂-su{ki}-ka-ni\abs mu-na-du₃,lugal-a-ni\dat
-{d}meš₃-lam-ta-e₃-a lugal-a-ni\dat gu₃-de₂-a ensi₂ lagaš{ki}-ke₄ e₂ ŋir₂-su{ki}-ka-ni\abs mu-na-du₃,gu₃-de₂-a
-{d}meš₃-lam-ta-e₃-a lugal-a-ni\dat gu₃-de₂-a ensi₂ lagaš{ki}-ke₄ e₂ ŋir₂-su{ki}-ka-ni\abs mu-na-du₃,ensi₂
-{d}meš₃-lam-ta-e₃-a lugal-a-ni\dat gu₃-de₂-a ensi₂ lagaš{ki}-ke₄ e₂ ŋir₂-su{ki}-ka-ni\abs mu-na-du₃,lagaš{ki}-ke₄
-{d}meš₃-lam-ta-e₃-a lugal-a-ni\dat gu₃-de₂-a ensi₂ lagaš{ki}-ke₄ e₂ ŋir₂-su{ki}-ka-ni\abs mu-na-du₃,e₂ ŋir₂-su{ki}-ka-ni\abs
-{d}meš₃-lam-ta-e₃-a lugal-a-ni\dat gu₃-de₂-a ensi₂ lagaš{ki}-ke₄ e₂ ŋir₂-su{ki}-ka-ni\abs mu-na-du₃,mu-na-du₃
+Form,Gw,Pos
+{d}meš₃-lam-ta-e₃-a,Mešlamtaea,DN
+lugal-a-ni\dat,king,N
+gu₃-de₂-a,Gudea,RN
+ensi₂,ruler,N
+lagaš{ki}-ke₄,Lagaš,SN
+e₂ ŋir₂-su{ki}-ka-ni\abs,house Ŋirsu,N SN
+mu-na-du₃,build,V/t

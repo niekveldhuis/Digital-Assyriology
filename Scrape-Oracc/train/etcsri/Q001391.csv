@@ -1,5 +1,5 @@
-Text,Line
-{d}lugal-eg₂-ga\dat ur-saŋ-utu dumu lugal-pad₃-da gu-sur\gen\erg mu-na-dim₂,{d}lugal-eg₂-ga\dat
-{d}lugal-eg₂-ga\dat ur-saŋ-utu dumu lugal-pad₃-da gu-sur\gen\erg mu-na-dim₂,ur-saŋ-utu
-{d}lugal-eg₂-ga\dat ur-saŋ-utu dumu lugal-pad₃-da gu-sur\gen\erg mu-na-dim₂,dumu lugal-pad₃-da gu-sur\gen\erg
-{d}lugal-eg₂-ga\dat ur-saŋ-utu dumu lugal-pad₃-da gu-sur\gen\erg mu-na-dim₂,mu-na-dim₂
+Form,Gw,Pos
+{d}lugal-eg₂-ga\dat,Lugalegak,DN
+ur-saŋ-utu,Ursaŋutu,PN
+dumu lugal-pad₃-da gu-sur\gen\erg,child Lugalpada profession,N PN N
+mu-na-dim₂,create,V/t

@@ -1,7 +1,7 @@
-Text,Line
-{d}|REC290.KU|-ra en-ša₃-kuš₂-an-na en ki-en-gi\gen lugal kalam-ma\gen dumu e₂-li-li-na\erg e₂-ni\abs mu-na-du₃,{d}|REC290.KU|-ra
-{d}|REC290.KU|-ra en-ša₃-kuš₂-an-na en ki-en-gi\gen lugal kalam-ma\gen dumu e₂-li-li-na\erg e₂-ni\abs mu-na-du₃,en-ša₃-kuš₂-an-na
-{d}|REC290.KU|-ra en-ša₃-kuš₂-an-na en ki-en-gi\gen lugal kalam-ma\gen dumu e₂-li-li-na\erg e₂-ni\abs mu-na-du₃,en ki-en-gi\gen
-{d}|REC290.KU|-ra en-ša₃-kuš₂-an-na en ki-en-gi\gen lugal kalam-ma\gen dumu e₂-li-li-na\erg e₂-ni\abs mu-na-du₃,lugal kalam-ma\gen
-{d}|REC290.KU|-ra en-ša₃-kuš₂-an-na en ki-en-gi\gen lugal kalam-ma\gen dumu e₂-li-li-na\erg e₂-ni\abs mu-na-du₃,dumu e₂-li-li-na\erg
-{d}|REC290.KU|-ra en-ša₃-kuš₂-an-na en ki-en-gi\gen lugal kalam-ma\gen dumu e₂-li-li-na\erg e₂-ni\abs mu-na-du₃,e₂-ni\abs mu-na-du₃
+Form,Gw,Pos
+{d}|REC290.KU|-ra,REC290.KU,DN
+en-ša₃-kuš₂-an-na,Enšakušanak,RN
+en ki-en-gi\gen,lord Kiengir,N GN
+lugal kalam-ma\gen,king land,N N
+dumu e₂-li-li-na\erg,child Elilin,N RN
+e₂-ni\abs mu-na-du₃,house build,N V/t

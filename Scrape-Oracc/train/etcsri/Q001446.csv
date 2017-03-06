@@ -1,11 +1,11 @@
-Text,Line
-{d}nin-ur₄-ra ama umma{ki}-ra\gen\dat nam-mah-ni ensi₂ umma{ki}-ke₄ e₂-u₃-la-ni\abs mu-na-du₃ ki-be₂\n5el3 mu-na-gi₄ ud-ba ia₃-ar-la-ga-an\abs lugal gu-ti-um-kam,{d}nin-ur₄-ra
-{d}nin-ur₄-ra ama umma{ki}-ra\gen\dat nam-mah-ni ensi₂ umma{ki}-ke₄ e₂-u₃-la-ni\abs mu-na-du₃ ki-be₂\n5el3 mu-na-gi₄ ud-ba ia₃-ar-la-ga-an\abs lugal gu-ti-um-kam,ama umma{ki}-ra\gen\dat
-{d}nin-ur₄-ra ama umma{ki}-ra\gen\dat nam-mah-ni ensi₂ umma{ki}-ke₄ e₂-u₃-la-ni\abs mu-na-du₃ ki-be₂\n5el3 mu-na-gi₄ ud-ba ia₃-ar-la-ga-an\abs lugal gu-ti-um-kam,nam-mah-ni
-{d}nin-ur₄-ra ama umma{ki}-ra\gen\dat nam-mah-ni ensi₂ umma{ki}-ke₄ e₂-u₃-la-ni\abs mu-na-du₃ ki-be₂\n5el3 mu-na-gi₄ ud-ba ia₃-ar-la-ga-an\abs lugal gu-ti-um-kam,ensi₂
-{d}nin-ur₄-ra ama umma{ki}-ra\gen\dat nam-mah-ni ensi₂ umma{ki}-ke₄ e₂-u₃-la-ni\abs mu-na-du₃ ki-be₂\n5el3 mu-na-gi₄ ud-ba ia₃-ar-la-ga-an\abs lugal gu-ti-um-kam,umma{ki}-ke₄
-{d}nin-ur₄-ra ama umma{ki}-ra\gen\dat nam-mah-ni ensi₂ umma{ki}-ke₄ e₂-u₃-la-ni\abs mu-na-du₃ ki-be₂\n5el3 mu-na-gi₄ ud-ba ia₃-ar-la-ga-an\abs lugal gu-ti-um-kam,e₂-u₃-la-ni\abs
-{d}nin-ur₄-ra ama umma{ki}-ra\gen\dat nam-mah-ni ensi₂ umma{ki}-ke₄ e₂-u₃-la-ni\abs mu-na-du₃ ki-be₂\n5el3 mu-na-gi₄ ud-ba ia₃-ar-la-ga-an\abs lugal gu-ti-um-kam,mu-na-du₃
-{d}nin-ur₄-ra ama umma{ki}-ra\gen\dat nam-mah-ni ensi₂ umma{ki}-ke₄ e₂-u₃-la-ni\abs mu-na-du₃ ki-be₂\n5el3 mu-na-gi₄ ud-ba ia₃-ar-la-ga-an\abs lugal gu-ti-um-kam,ki-be₂\n5el3 mu-na-gi₄
-{d}nin-ur₄-ra ama umma{ki}-ra\gen\dat nam-mah-ni ensi₂ umma{ki}-ke₄ e₂-u₃-la-ni\abs mu-na-du₃ ki-be₂\n5el3 mu-na-gi₄ ud-ba ia₃-ar-la-ga-an\abs lugal gu-ti-um-kam,ud-ba ia₃-ar-la-ga-an\abs
-{d}nin-ur₄-ra ama umma{ki}-ra\gen\dat nam-mah-ni ensi₂ umma{ki}-ke₄ e₂-u₃-la-ni\abs mu-na-du₃ ki-be₂\n5el3 mu-na-gi₄ ud-ba ia₃-ar-la-ga-an\abs lugal gu-ti-um-kam,lugal gu-ti-um-kam
+Form,Gw,Pos
+{d}nin-ur₄-ra,Ninura,DN
+ama umma{ki}-ra\gen\dat,mother Umma,N SN
+nam-mah-ni,Nammahni,PN
+ensi₂,ruler,N
+umma{ki}-ke₄,Umma,SN
+e₂-u₃-la-ni\abs,Eula,TN
+mu-na-du₃,build,V/t
+ki-be₂\n5el3 mu-na-gi₄,place turn,N V/i
+ud-ba ia₃-ar-la-ga-an\abs,sun Yarlagan,N RN
+lugal gu-ti-um-kam,king Gutium,N GN

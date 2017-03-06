@@ -1,8 +1,8 @@
-Text,Line
-ur-{d}lamma ensi₂ lagaš{ki}\gen\abs ur-niŋar{ŋar} dub-sar dumu lu₂-an-ne₂\gen\abs arad₂-zu\abs,ur-{d}lamma
-ur-{d}lamma ensi₂ lagaš{ki}\gen\abs ur-niŋar{ŋar} dub-sar dumu lu₂-an-ne₂\gen\abs arad₂-zu\abs,ensi₂
-ur-{d}lamma ensi₂ lagaš{ki}\gen\abs ur-niŋar{ŋar} dub-sar dumu lu₂-an-ne₂\gen\abs arad₂-zu\abs,lagaš{ki}\gen\abs
-ur-{d}lamma ensi₂ lagaš{ki}\gen\abs ur-niŋar{ŋar} dub-sar dumu lu₂-an-ne₂\gen\abs arad₂-zu\abs,ur-niŋar{ŋar}
-ur-{d}lamma ensi₂ lagaš{ki}\gen\abs ur-niŋar{ŋar} dub-sar dumu lu₂-an-ne₂\gen\abs arad₂-zu\abs,dub-sar
-ur-{d}lamma ensi₂ lagaš{ki}\gen\abs ur-niŋar{ŋar} dub-sar dumu lu₂-an-ne₂\gen\abs arad₂-zu\abs,dumu lu₂-an-ne₂\gen\abs
-ur-{d}lamma ensi₂ lagaš{ki}\gen\abs ur-niŋar{ŋar} dub-sar dumu lu₂-an-ne₂\gen\abs arad₂-zu\abs,arad₂-zu\abs
+Form,Gw,Pos
+ur-{d}lamma,Urlamma,PN
+ensi₂,ruler,N
+lagaš{ki}\gen\abs,Lagaš,SN
+ur-niŋar{ŋar},Urniŋar,PN
+dub-sar,scribe,N
+dumu lu₂-an-ne₂\gen\abs,child Luane,N PN
+arad₂-zu\abs,slave,N

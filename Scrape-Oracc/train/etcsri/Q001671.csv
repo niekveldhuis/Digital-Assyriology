@@ -1,15 +1,13 @@
-Text,Line
-x x da-wa-a-x ensi₂(|PA.TE.SI|) za-ul{ki}\gen x x ensi₂(|PA.TE.SI|) hu-uh₂-nu-ri{ki}\gen x-x-ma-at ensi₂(|PA.TE.SI|) x-x-la₂-ka x-x-a šagina x-al{ki} sa-bu-um{ki},x x
-x x da-wa-a-x ensi₂(|PA.TE.SI|) za-ul{ki}\gen x x ensi₂(|PA.TE.SI|) hu-uh₂-nu-ri{ki}\gen x-x-ma-at ensi₂(|PA.TE.SI|) x-x-la₂-ka x-x-a šagina x-al{ki} sa-bu-um{ki},da-wa-a-x
-x x da-wa-a-x ensi₂(|PA.TE.SI|) za-ul{ki}\gen x x ensi₂(|PA.TE.SI|) hu-uh₂-nu-ri{ki}\gen x-x-ma-at ensi₂(|PA.TE.SI|) x-x-la₂-ka x-x-a šagina x-al{ki} sa-bu-um{ki},ensi₂(|PA.TE.SI|)
-x x da-wa-a-x ensi₂(|PA.TE.SI|) za-ul{ki}\gen x x ensi₂(|PA.TE.SI|) hu-uh₂-nu-ri{ki}\gen x-x-ma-at ensi₂(|PA.TE.SI|) x-x-la₂-ka x-x-a šagina x-al{ki} sa-bu-um{ki},za-ul{ki}\gen
-x x da-wa-a-x ensi₂(|PA.TE.SI|) za-ul{ki}\gen x x ensi₂(|PA.TE.SI|) hu-uh₂-nu-ri{ki}\gen x-x-ma-at ensi₂(|PA.TE.SI|) x-x-la₂-ka x-x-a šagina x-al{ki} sa-bu-um{ki},x x
-x x da-wa-a-x ensi₂(|PA.TE.SI|) za-ul{ki}\gen x x ensi₂(|PA.TE.SI|) hu-uh₂-nu-ri{ki}\gen x-x-ma-at ensi₂(|PA.TE.SI|) x-x-la₂-ka x-x-a šagina x-al{ki} sa-bu-um{ki},ensi₂(|PA.TE.SI|)
-x x da-wa-a-x ensi₂(|PA.TE.SI|) za-ul{ki}\gen x x ensi₂(|PA.TE.SI|) hu-uh₂-nu-ri{ki}\gen x-x-ma-at ensi₂(|PA.TE.SI|) x-x-la₂-ka x-x-a šagina x-al{ki} sa-bu-um{ki},hu-uh₂-nu-ri{ki}\gen
-x x da-wa-a-x ensi₂(|PA.TE.SI|) za-ul{ki}\gen x x ensi₂(|PA.TE.SI|) hu-uh₂-nu-ri{ki}\gen x-x-ma-at ensi₂(|PA.TE.SI|) x-x-la₂-ka x-x-a šagina x-al{ki} sa-bu-um{ki},x-x-ma-at
-x x da-wa-a-x ensi₂(|PA.TE.SI|) za-ul{ki}\gen x x ensi₂(|PA.TE.SI|) hu-uh₂-nu-ri{ki}\gen x-x-ma-at ensi₂(|PA.TE.SI|) x-x-la₂-ka x-x-a šagina x-al{ki} sa-bu-um{ki},ensi₂(|PA.TE.SI|)
-x x da-wa-a-x ensi₂(|PA.TE.SI|) za-ul{ki}\gen x x ensi₂(|PA.TE.SI|) hu-uh₂-nu-ri{ki}\gen x-x-ma-at ensi₂(|PA.TE.SI|) x-x-la₂-ka x-x-a šagina x-al{ki} sa-bu-um{ki},x-x-la₂-ka
-x x da-wa-a-x ensi₂(|PA.TE.SI|) za-ul{ki}\gen x x ensi₂(|PA.TE.SI|) hu-uh₂-nu-ri{ki}\gen x-x-ma-at ensi₂(|PA.TE.SI|) x-x-la₂-ka x-x-a šagina x-al{ki} sa-bu-um{ki},x-x-a
-x x da-wa-a-x ensi₂(|PA.TE.SI|) za-ul{ki}\gen x x ensi₂(|PA.TE.SI|) hu-uh₂-nu-ri{ki}\gen x-x-ma-at ensi₂(|PA.TE.SI|) x-x-la₂-ka x-x-a šagina x-al{ki} sa-bu-um{ki},šagina
-x x da-wa-a-x ensi₂(|PA.TE.SI|) za-ul{ki}\gen x x ensi₂(|PA.TE.SI|) hu-uh₂-nu-ri{ki}\gen x-x-ma-at ensi₂(|PA.TE.SI|) x-x-la₂-ka x-x-a šagina x-al{ki} sa-bu-um{ki},x-al{ki}
-x x da-wa-a-x ensi₂(|PA.TE.SI|) za-ul{ki}\gen x x ensi₂(|PA.TE.SI|) hu-uh₂-nu-ri{ki}\gen x-x-ma-at ensi₂(|PA.TE.SI|) x-x-la₂-ka x-x-a šagina x-al{ki} sa-bu-um{ki},sa-bu-um{ki}
+Form,Gw,Pos
+da-wa-a-x,DA.WA.A.X,PN
+ensi₂(|PA.TE.SI|),ruler,N
+za-ul{ki}\gen,Zaul,GN
+ensi₂(|PA.TE.SI|),ruler,N
+hu-uh₂-nu-ri{ki}\gen,Huhnuri,SN
+x-x-ma-at,X.MA.AT,PN
+ensi₂(|PA.TE.SI|),ruler,N
+x-x-la₂-ka,X.LA₂,GN
+x-x-a,X.A,PN
+šagina,general,N
+x-al{ki},X.AL,GN
+sa-bu-um{ki},Sabum,SN

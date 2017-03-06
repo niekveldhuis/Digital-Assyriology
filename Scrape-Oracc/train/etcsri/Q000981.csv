@@ -1,10 +1,10 @@
-Text,Line
-{d}amar-{d}suen nibru{ki}-a {d}en-lil₂-le mu\abs pad₃-da saŋ-us₂ e₂ {d}en-lil₂-ka nita kalag-ga lugal urim₅{ki}-ma lugal an-ub-da limmu₂-ba\abs,{d}amar-{d}suen
-{d}amar-{d}suen nibru{ki}-a {d}en-lil₂-le mu\abs pad₃-da saŋ-us₂ e₂ {d}en-lil₂-ka nita kalag-ga lugal urim₅{ki}-ma lugal an-ub-da limmu₂-ba\abs,nibru{ki}-a
-{d}amar-{d}suen nibru{ki}-a {d}en-lil₂-le mu\abs pad₃-da saŋ-us₂ e₂ {d}en-lil₂-ka nita kalag-ga lugal urim₅{ki}-ma lugal an-ub-da limmu₂-ba\abs,{d}en-lil₂-le
-{d}amar-{d}suen nibru{ki}-a {d}en-lil₂-le mu\abs pad₃-da saŋ-us₂ e₂ {d}en-lil₂-ka nita kalag-ga lugal urim₅{ki}-ma lugal an-ub-da limmu₂-ba\abs,mu\abs pad₃-da
-{d}amar-{d}suen nibru{ki}-a {d}en-lil₂-le mu\abs pad₃-da saŋ-us₂ e₂ {d}en-lil₂-ka nita kalag-ga lugal urim₅{ki}-ma lugal an-ub-da limmu₂-ba\abs,saŋ-us₂
-{d}amar-{d}suen nibru{ki}-a {d}en-lil₂-le mu\abs pad₃-da saŋ-us₂ e₂ {d}en-lil₂-ka nita kalag-ga lugal urim₅{ki}-ma lugal an-ub-da limmu₂-ba\abs,e₂ {d}en-lil₂-ka
-{d}amar-{d}suen nibru{ki}-a {d}en-lil₂-le mu\abs pad₃-da saŋ-us₂ e₂ {d}en-lil₂-ka nita kalag-ga lugal urim₅{ki}-ma lugal an-ub-da limmu₂-ba\abs,nita kalag-ga
-{d}amar-{d}suen nibru{ki}-a {d}en-lil₂-le mu\abs pad₃-da saŋ-us₂ e₂ {d}en-lil₂-ka nita kalag-ga lugal urim₅{ki}-ma lugal an-ub-da limmu₂-ba\abs,lugal urim₅{ki}-ma
-{d}amar-{d}suen nibru{ki}-a {d}en-lil₂-le mu\abs pad₃-da saŋ-us₂ e₂ {d}en-lil₂-ka nita kalag-ga lugal urim₅{ki}-ma lugal an-ub-da limmu₂-ba\abs,lugal an-ub-da limmu₂-ba\abs
+Form,Gw,Pos
+{d}amar-{d}suen,Amarsuenak,RN
+nibru{ki}-a,Nibru,SN
+{d}en-lil₂-le,Enlil,DN
+mu\abs pad₃-da,name find,N V/t
+saŋ-us₂,constant,V/i
+e₂ {d}en-lil₂-ka,house Enlil,N DN
+nita kalag-ga,male strong,N V/i
+lugal urim₅{ki}-ma,king Urim,N SN
+lugal an-ub-da limmu₂-ba\abs,king quarter four,N N NU

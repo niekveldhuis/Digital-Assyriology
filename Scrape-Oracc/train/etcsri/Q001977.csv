@@ -1,8 +1,8 @@
-Text,Line
-{d}bur-{d}suen lugal kalag-ga lugal ki-en-gi ki-uri\gen\abs ab-ba-ŋu₁₀ dub-sar dumu lu₂-{d}utu\gen\abs arad-zu\abs,{d}bur-{d}suen
-{d}bur-{d}suen lugal kalag-ga lugal ki-en-gi ki-uri\gen\abs ab-ba-ŋu₁₀ dub-sar dumu lu₂-{d}utu\gen\abs arad-zu\abs,lugal kalag-ga
-{d}bur-{d}suen lugal kalag-ga lugal ki-en-gi ki-uri\gen\abs ab-ba-ŋu₁₀ dub-sar dumu lu₂-{d}utu\gen\abs arad-zu\abs,lugal ki-en-gi ki-uri\gen\abs
-{d}bur-{d}suen lugal kalag-ga lugal ki-en-gi ki-uri\gen\abs ab-ba-ŋu₁₀ dub-sar dumu lu₂-{d}utu\gen\abs arad-zu\abs,ab-ba-ŋu₁₀
-{d}bur-{d}suen lugal kalag-ga lugal ki-en-gi ki-uri\gen\abs ab-ba-ŋu₁₀ dub-sar dumu lu₂-{d}utu\gen\abs arad-zu\abs,dub-sar
-{d}bur-{d}suen lugal kalag-ga lugal ki-en-gi ki-uri\gen\abs ab-ba-ŋu₁₀ dub-sar dumu lu₂-{d}utu\gen\abs arad-zu\abs,dumu lu₂-{d}utu\gen\abs
-{d}bur-{d}suen lugal kalag-ga lugal ki-en-gi ki-uri\gen\abs ab-ba-ŋu₁₀ dub-sar dumu lu₂-{d}utu\gen\abs arad-zu\abs,arad-zu\abs
+Form,Gw,Pos
+{d}bur-{d}suen,Bursuen,RN
+lugal kalag-ga,king strong,N V/i
+lugal ki-en-gi ki-uri\gen\abs,king Kiengir Akkad,N GN GN
+ab-ba-ŋu₁₀,Abbaŋu,PN
+dub-sar,scribe,N
+dumu lu₂-{d}utu\gen\abs,child Luutu,N PN
+arad-zu\abs,slave,N

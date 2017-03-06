@@ -1,6 +1,6 @@
-Text,Line
-{d}a-sum\dat nin-me-ta-bar-re₂ dumu an-bu\gen\erg a\abs mu-ru\dat,{d}a-sum\dat
-{d}a-sum\dat nin-me-ta-bar-re₂ dumu an-bu\gen\erg a\abs mu-ru\dat,nin-me-ta-bar-re₂
-{d}a-sum\dat nin-me-ta-bar-re₂ dumu an-bu\gen\erg a\abs mu-ru\dat,dumu
-{d}a-sum\dat nin-me-ta-bar-re₂ dumu an-bu\gen\erg a\abs mu-ru\dat,an-bu\gen\erg
-{d}a-sum\dat nin-me-ta-bar-re₂ dumu an-bu\gen\erg a\abs mu-ru\dat,a\abs mu-ru\dat
+Form,Gw,Pos
+{d}a-sum\dat,Asum,DN
+nin-me-ta-bar-re₂,Ninmetabare,PN
+dumu,child,N
+an-bu\gen\erg,Anbu,RN
+a\abs mu-ru\dat,water cvve,N V/t
