@@ -1,50 +1,50 @@
 id_text,text_name,version,l_no,text
 c.4.32.f,A šir-namšub to Utu (Utu F),,1,
-c.4.32.f,A šir-namšub to Utu (Utu F),,2,sux:kur[(mountain)-land]N
-c.4.32.f,A šir-namšub to Utu (Utu F),,3,sux:Utu[1]DN
-c.4.32.f,A šir-namšub to Utu (Utu F),,4,sux:Utu[1]DN
+c.4.32.f,A šir-namšub to Utu (Utu F),,2,kur[(mountain)-land]N
+c.4.32.f,A šir-namšub to Utu (Utu F),,3,Utu[1]DN
+c.4.32.f,A šir-namšub to Utu (Utu F),,4,Utu[1]DN
 c.4.32.f,A šir-namšub to Utu (Utu F),,13,
 c.4.32.f,A šir-namšub to Utu (Utu F),,14,
 c.4.32.f,A šir-namšub to Utu (Utu F),,15,
 c.4.32.f,A šir-namšub to Utu (Utu F),,16,
 c.4.32.f,A šir-namšub to Utu (Utu F),,17,
-c.4.32.f,A šir-namšub to Utu (Utu F),,18,sux:šul[young-man]N sux:Utu[1]DN sux:amar[calf]N sux:sumun₂[wild-cow]N
-c.4.32.f,A šir-namšub to Utu (Utu F),,19,sux:amar[calf]N sux:sumun₂[wild-cow]N sux:amar[calf]N sux:dumu[child]N sux:zid[right]AJ
-c.4.32.f,A šir-namšub to Utu (Utu F),,20,sux:Utu[1]DN sux:šeš[brother]N sux:lugal[king]N sux:Inana[1]DN
-c.4.32.f,A šir-namšub to Utu (Utu F),,21,sux:en[lord]N sux:de₆[to-carry]V sux:sila[street]N sux:e-sir₂[street]N
-c.4.32.f,A šir-namšub to Utu (Utu F),,22,sux:Utu[1]DN sux:kaš[beer]N sux:ŋal₂[to-be-(located)]V sux:e₂[house(hold)]N sux:kurun[type-of-beer]N
-c.4.32.f,A šir-namšub to Utu (Utu F),,23,sux:šul[young-man]N sux:Utu[1]DN sux:kaš[beer]N sux:ŋal₂[to-be-(located)]V sux:e₂[house(hold)]N sux:kurun[type-of-beer]N
-c.4.32.f,A šir-namšub to Utu (Utu F),,24,sux:šeš[brother]N sux-x-emesal:u₃-mu-un[lord]N sux:ni₂[fear(someness)]N sux:guru₃[to-bear]V sux:kur[(mountain)-land]N sux:u₅[to-ride]V
-c.4.32.f,A šir-namšub to Utu (Utu F),,25,sux-x-emesal:u₃-mu-un[lord]N sux:an[heaven]N sux-x-emesal:u₃-mu-un[lord]N sux:ni₂[fear(someness)]N sux:guru₃[to-bear]V sux-x-emesal:u₃-mu-un[lord]N sux:kur[(mountain)-land]N sux:u₅[to-ride]V
-c.4.32.f,A šir-namšub to Utu (Utu F),,26,sux:kur[(mountain)-land]N sux:šim[aromatic-(fragrance)]N sux:kur[(mountain)-land]N sux:erin[cedar]N sux:kur[(mountain)-land]N
-c.4.32.f,A šir-namšub to Utu (Utu F),,27,sux:kur[(mountain)-land]N sux:erin[cedar]N sux:kur[(mountain)-land]N sux:ha-šu-ur₂[type-of-cypress]N sux:kur[(mountain)-land]N
-c.4.32.f,A šir-namšub to Utu (Utu F),,28,sux:kur[(mountain)-land]N sux:kug[precious-metal]N sux:kur[(mountain)-land]N sux:za-gin₃[lapis-lazuli]N sux:kur[(mountain)-land]N
-c.4.32.f,A šir-namšub to Utu (Utu F),,29,sux:kur[(mountain)-land]N sux:gakkul[(plant)-heart]N sux:mu₂[to-grow]V sux:kur[(mountain)-land]N
-c.4.32.f,A šir-namšub to Utu (Utu F),,30,sux:id₂[watercourse]N sux:hal-hal[to-roll]V sux:a-ki-ta[source]N sux:sud[to-be-distant]V sux:kur[(mountain)-land]N
-c.4.32.f,A šir-namšub to Utu (Utu F),,31,sux:šeš[brother]N sux:ŋen[to-go]V
-c.4.32.f,A šir-namšub to Utu (Utu F),,32,sux:šeš[brother]N sux:ab-šag₄[centre-of-sea]N sux:igi[eye]N
-c.4.32.f,A šir-namšub to Utu (Utu F),,33,sux:šeš[brother]N sux:munus[woman]N
-c.4.32.f,A šir-namšub to Utu (Utu F),,34,sux:Utu[1]DN sux:munus[woman]N
-c.4.32.f,A šir-namšub to Utu (Utu F),,35,sux-x-emesal:aŋ₂[thing]N sux:munus[woman]N sux-x-emesal:mu[penis]N sux:zu[to-know]V
-c.4.32.f,A šir-namšub to Utu (Utu F),,36,sux-x-emesal:aŋ₂[thing]N sux:munus[woman]N sux-x-emesal:mu[penis]N sux:dug₄[to-say]V sux:zu[to-know]V
-c.4.32.f,A šir-namšub to Utu (Utu F),,37,sux-x-emesal:aŋ₂[thing]N sux:munus[woman]N sux-x-emesal:še[noun-part-of-multiword-verb]N sux:su-ub[to-rub]V sux:zu[to-know]V
-c.4.32.f,A šir-namšub to Utu (Utu F),,38,sux-x-emesal:mu[penis]N sux:dug₄[to-say]V sux:zu[to-know]V sux-x-emesal:še[noun-part-of-multiword-verb]N sux:su-ub[to-rub]V sux:zu[to-know]V
-c.4.32.f,A šir-namšub to Utu (Utu F),,39,sux:kur[(mountain)-land]N sux:a-na[what]PD sux-x-emesal:ma-al[to-be-(located)]V sux:a-na[what]PD sux:gu₇[to-eat]V
-c.4.32.f,A šir-namšub to Utu (Utu F),,40,sux:hur-saŋ[mountain-(range)]N sux:a-na[what]PD sux-x-emesal:ma-al[to-be-(located)]V sux:a-na[what]PD sux:gu₇[to-eat]V
-c.4.32.f,A šir-namšub to Utu (Utu F),,41,sux:kur[(mountain)-land]N sux:šim[aromatic-(fragrance)]N sux:kur[(mountain)-land]N sux:erin[cedar]N
-c.4.32.f,A šir-namšub to Utu (Utu F),,42,sux:kur[(mountain)-land]N sux:erin[cedar]N sux:kur[(mountain)-land]N sux:ha-šu-ur₂[type-of-cypress]N
-c.4.32.f,A šir-namšub to Utu (Utu F),,43,sux:kur[(mountain)-land]N sux:a-na[what]PD sux-x-emesal:ma-al[to-be-(located)]V sux:a-na[what]PD sux:gu₇[to-eat]V
-c.4.32.f,A šir-namšub to Utu (Utu F),,44,sux:šim[aromatic-(fragrance)]N sux:gu₇[to-eat]V sux:erin[cedar]N sux:gu₇[to-eat]V
-c.4.32.f,A šir-namšub to Utu (Utu F),,45,sux:šu[hand]N sux:šu[hand]N sux:du₃[to-erect]V sux:e₂[house(hold)]N sux:gi₄[to-return]V
-c.4.32.f,A šir-namšub to Utu (Utu F),,46,sux:e₂[house(hold)]N sux:gi₄[to-return]V sux:e₂[house(hold)]N sux:Zabalam[1]SN
-c.4.32.f,A šir-namšub to Utu (Utu F),,47,sux:ama[mother]N sux:gi₄[to-return]V sux:ama[mother]N sux-x-emesal:Ningal[1]DN
-c.4.32.f,A šir-namšub to Utu (Utu F),,48,sux:ušbar[relative-by-marriage]N sux:gi₄[to-return]V sux-x-emesal:Ninsumun[1]DN
-c.4.32.f,A šir-namšub to Utu (Utu F),,49,sux:e-ri-ib[sister-in-law]N sux:gi₄[to-return]V sux-x-emesal:Ŋeštin-ana[1]DN
-c.4.32.f,A šir-namšub to Utu (Utu F),,50,sux:šu[hand]N sux:dili[single]AJ sux:e₃[to-go-out-or-in]V sux:e₂[house(hold)]N sux:lu₂[person]N sux:e₃[to-go-out-or-in]V
-c.4.32.f,A šir-namšub to Utu (Utu F),,51,sux:e₂[house(hold)]N sux:lu₂[person]N sux:e₃[to-go-out-or-in]V sux:šu[hand]N sux:dili[single]AJ sux:e₃[to-go-out-or-in]V
-c.4.32.f,A šir-namšub to Utu (Utu F),,52,sux:Utu[1]DN sux:ama[mother]N sux:Utu[1]DN sux:a-a[father]N
-c.4.32.f,A šir-namšub to Utu (Utu F),,53,sux:Utu[1]DN sux:nu-siki[orphan]N sux:Utu[1]DN sux:nu-mu-un-su[widow]N
-c.4.32.f,A šir-namšub to Utu (Utu F),,54,sux:Utu[1]DN sux:nu-siki[orphan]N sux:a-a[father]N sux:igi[eye]N sux:pad₃[to-find]V
-c.4.32.f,A šir-namšub to Utu (Utu F),,55,sux:Utu[1]DN sux:nu-mu-un-su[widow]N sux:ama[mother]N sux:šu[hand]N sux:gi₄[to-return]V
-c.4.32.f,A šir-namšub to Utu (Utu F),,56,sux:a-lu[meaning-unknown]N sux:za[you-(sg.)]PD sux:a-lu[meaning-unknown]N
+c.4.32.f,A šir-namšub to Utu (Utu F),,18,šul[young-man]N Utu[1]DN amar[calf]N sumun₂[wild-cow]N
+c.4.32.f,A šir-namšub to Utu (Utu F),,19,amar[calf]N sumun₂[wild-cow]N amar[calf]N dumu[child]N zid[right]AJ
+c.4.32.f,A šir-namšub to Utu (Utu F),,20,Utu[1]DN šeš[brother]N lugal[king]N Inana[1]DN
+c.4.32.f,A šir-namšub to Utu (Utu F),,21,en[lord]N de₆[to-carry]V sila[street]N e-sir₂[street]N
+c.4.32.f,A šir-namšub to Utu (Utu F),,22,Utu[1]DN kaš[beer]N ŋal₂[to-be-(located)]V e₂[house(hold)]N kurun[type-of-beer]N
+c.4.32.f,A šir-namšub to Utu (Utu F),,23,šul[young-man]N Utu[1]DN kaš[beer]N ŋal₂[to-be-(located)]V e₂[house(hold)]N kurun[type-of-beer]N
+c.4.32.f,A šir-namšub to Utu (Utu F),,24,šeš[brother]N u₃-mu-un[lord]N ni₂[fear(someness)]N guru₃[to-bear]V kur[(mountain)-land]N u₅[to-ride]V
+c.4.32.f,A šir-namšub to Utu (Utu F),,25,u₃-mu-un[lord]N an[heaven]N u₃-mu-un[lord]N ni₂[fear(someness)]N guru₃[to-bear]V u₃-mu-un[lord]N kur[(mountain)-land]N u₅[to-ride]V
+c.4.32.f,A šir-namšub to Utu (Utu F),,26,kur[(mountain)-land]N šim[aromatic-(fragrance)]N kur[(mountain)-land]N erin[cedar]N kur[(mountain)-land]N
+c.4.32.f,A šir-namšub to Utu (Utu F),,27,kur[(mountain)-land]N erin[cedar]N kur[(mountain)-land]N ha-šu-ur₂[type-of-cypress]N kur[(mountain)-land]N
+c.4.32.f,A šir-namšub to Utu (Utu F),,28,kur[(mountain)-land]N kug[precious-metal]N kur[(mountain)-land]N za-gin₃[lapis-lazuli]N kur[(mountain)-land]N
+c.4.32.f,A šir-namšub to Utu (Utu F),,29,kur[(mountain)-land]N gakkul[(plant)-heart]N mu₂[to-grow]V kur[(mountain)-land]N
+c.4.32.f,A šir-namšub to Utu (Utu F),,30,id₂[watercourse]N hal-hal[to-roll]V a-ki-ta[source]N sud[to-be-distant]V kur[(mountain)-land]N
+c.4.32.f,A šir-namšub to Utu (Utu F),,31,šeš[brother]N ŋen[to-go]V
+c.4.32.f,A šir-namšub to Utu (Utu F),,32,šeš[brother]N ab-šag₄[centre-of-sea]N igi[eye]N
+c.4.32.f,A šir-namšub to Utu (Utu F),,33,šeš[brother]N munus[woman]N
+c.4.32.f,A šir-namšub to Utu (Utu F),,34,Utu[1]DN munus[woman]N
+c.4.32.f,A šir-namšub to Utu (Utu F),,35,aŋ₂[thing]N munus[woman]N mu[penis]N zu[to-know]V
+c.4.32.f,A šir-namšub to Utu (Utu F),,36,aŋ₂[thing]N munus[woman]N mu[penis]N dug₄[to-say]V zu[to-know]V
+c.4.32.f,A šir-namšub to Utu (Utu F),,37,aŋ₂[thing]N munus[woman]N še[noun-part-of-multiword-verb]N su-ub[to-rub]V zu[to-know]V
+c.4.32.f,A šir-namšub to Utu (Utu F),,38,mu[penis]N dug₄[to-say]V zu[to-know]V še[noun-part-of-multiword-verb]N su-ub[to-rub]V zu[to-know]V
+c.4.32.f,A šir-namšub to Utu (Utu F),,39,kur[(mountain)-land]N a-na[what]PD ma-al[to-be-(located)]V a-na[what]PD gu₇[to-eat]V
+c.4.32.f,A šir-namšub to Utu (Utu F),,40,hur-saŋ[mountain-(range)]N a-na[what]PD ma-al[to-be-(located)]V a-na[what]PD gu₇[to-eat]V
+c.4.32.f,A šir-namšub to Utu (Utu F),,41,kur[(mountain)-land]N šim[aromatic-(fragrance)]N kur[(mountain)-land]N erin[cedar]N
+c.4.32.f,A šir-namšub to Utu (Utu F),,42,kur[(mountain)-land]N erin[cedar]N kur[(mountain)-land]N ha-šu-ur₂[type-of-cypress]N
+c.4.32.f,A šir-namšub to Utu (Utu F),,43,kur[(mountain)-land]N a-na[what]PD ma-al[to-be-(located)]V a-na[what]PD gu₇[to-eat]V
+c.4.32.f,A šir-namšub to Utu (Utu F),,44,šim[aromatic-(fragrance)]N gu₇[to-eat]V erin[cedar]N gu₇[to-eat]V
+c.4.32.f,A šir-namšub to Utu (Utu F),,45,šu[hand]N šu[hand]N du₃[to-erect]V e₂[house(hold)]N gi₄[to-return]V
+c.4.32.f,A šir-namšub to Utu (Utu F),,46,e₂[house(hold)]N gi₄[to-return]V e₂[house(hold)]N Zabalam[1]SN
+c.4.32.f,A šir-namšub to Utu (Utu F),,47,ama[mother]N gi₄[to-return]V ama[mother]N Ningal[1]DN
+c.4.32.f,A šir-namšub to Utu (Utu F),,48,ušbar[relative-by-marriage]N gi₄[to-return]V Ninsumun[1]DN
+c.4.32.f,A šir-namšub to Utu (Utu F),,49,e-ri-ib[sister-in-law]N gi₄[to-return]V Ŋeštin-ana[1]DN
+c.4.32.f,A šir-namšub to Utu (Utu F),,50,šu[hand]N dili[single]AJ e₃[to-go-out-or-in]V e₂[house(hold)]N lu₂[person]N e₃[to-go-out-or-in]V
+c.4.32.f,A šir-namšub to Utu (Utu F),,51,e₂[house(hold)]N lu₂[person]N e₃[to-go-out-or-in]V šu[hand]N dili[single]AJ e₃[to-go-out-or-in]V
+c.4.32.f,A šir-namšub to Utu (Utu F),,52,Utu[1]DN ama[mother]N Utu[1]DN a-a[father]N
+c.4.32.f,A šir-namšub to Utu (Utu F),,53,Utu[1]DN nu-siki[orphan]N Utu[1]DN nu-mu-un-su[widow]N
+c.4.32.f,A šir-namšub to Utu (Utu F),,54,Utu[1]DN nu-siki[orphan]N a-a[father]N igi[eye]N pad₃[to-find]V
+c.4.32.f,A šir-namšub to Utu (Utu F),,55,Utu[1]DN nu-mu-un-su[widow]N ama[mother]N šu[hand]N gi₄[to-return]V
+c.4.32.f,A šir-namšub to Utu (Utu F),,56,a-lu[meaning-unknown]N za[you-(sg.)]PD a-lu[meaning-unknown]N
 c.4.32.f,A šir-namšub to Utu (Utu F),,x,

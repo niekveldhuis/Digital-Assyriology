@@ -1,93 +1,93 @@
 id_text,text_name,version,l_no,text
-c.5.5.5,The song of the ploughing oxen: an ululumama to Ninurta,,1,sux:e-el-lu[directive-expression]I sux:ma-a-lu[directive-expression]I
-c.5.5.5,The song of the ploughing oxen: an ululumama to Ninurta,,2,sux:gud[bull]N sux:ŋen[to-go]V sux:ŋen[to-go]V sux:šudul[yoke]N sux:gu₂[neck]N sux:ŋar[to-place]V
-c.5.5.5,The song of the ploughing oxen: an ululumama to Ninurta,,3,sux:gud[bull]N sux:ŋen[to-go]V sux:ŋen[to-go]V sux:šudul[yoke]N sux:gu₂[neck]N sux:ŋar[to-place]V
-c.5.5.5,The song of the ploughing oxen: an ululumama to Ninurta,,4,sux:ma-da[land]N
-c.5.5.5,The song of the ploughing oxen: an ululumama to Ninurta,,5,sux:Enlil[1]DN
-c.5.5.5,The song of the ploughing oxen: an ululumama to Ninurta,,6,sux:kalam[the-Land]N
-c.5.5.5,The song of the ploughing oxen: an ululumama to Ninurta,,7,sux:e-el-lu[directive-expression]I sux:ma-a-lu[directive-expression]I
-c.5.5.5,The song of the ploughing oxen: an ululumama to Ninurta,,8,sux:saŋ[head]N sux:ŋal₂[to-be-(located)]V
-c.5.5.5,The song of the ploughing oxen: an ululumama to Ninurta,,9,sux:saŋ[head]N sux:ŋal₂[to-be-(located)]V
+c.5.5.5,The song of the ploughing oxen: an ululumama to Ninurta,,1,e-el-lu[directive-expression]I ma-a-lu[directive-expression]I
+c.5.5.5,The song of the ploughing oxen: an ululumama to Ninurta,,2,gud[bull]N ŋen[to-go]V ŋen[to-go]V šudul[yoke]N gu₂[neck]N ŋar[to-place]V
+c.5.5.5,The song of the ploughing oxen: an ululumama to Ninurta,,3,gud[bull]N ŋen[to-go]V ŋen[to-go]V šudul[yoke]N gu₂[neck]N ŋar[to-place]V
+c.5.5.5,The song of the ploughing oxen: an ululumama to Ninurta,,4,ma-da[land]N
+c.5.5.5,The song of the ploughing oxen: an ululumama to Ninurta,,5,Enlil[1]DN
+c.5.5.5,The song of the ploughing oxen: an ululumama to Ninurta,,6,kalam[the-Land]N
+c.5.5.5,The song of the ploughing oxen: an ululumama to Ninurta,,7,e-el-lu[directive-expression]I ma-a-lu[directive-expression]I
+c.5.5.5,The song of the ploughing oxen: an ululumama to Ninurta,,8,saŋ[head]N ŋal₂[to-be-(located)]V
+c.5.5.5,The song of the ploughing oxen: an ululumama to Ninurta,,9,saŋ[head]N ŋal₂[to-be-(located)]V
 c.5.5.5,The song of the ploughing oxen: an ululumama to Ninurta,,13,
-c.5.5.5,The song of the ploughing oxen: an ululumama to Ninurta,,14,sux:a₂-še[now]AV sux:ama[mother]N
-c.5.5.5,The song of the ploughing oxen: an ululumama to Ninurta,,15,sux:a₂-še[now]AV sux:Nanše[1]DN sux:šub[to-fall]V
-c.5.5.5,The song of the ploughing oxen: an ululumama to Ninurta,,16,sux:ninda[bread]N sux:lu-ub₂[type-of-bag]N sux:ŋar[to-place]V
-c.5.5.5,The song of the ploughing oxen: an ululumama to Ninurta,,17,sux:a[water]N sux:ummud[waterskin]N sux:de₂[to-pour]V
-c.5.5.5,The song of the ploughing oxen: an ululumama to Ninurta,,18,sux:saŋ[head]N sux:us₂[to-be-adjacent]V sux:gub[to-stand]V
-c.5.5.5,The song of the ploughing oxen: an ululumama to Ninurta,,19,sux:engar[farmer]N sux:ninda[bread]N sux:gu₇[to-eat]V sux:dug₄[to-say]V
-c.5.5.5,The song of the ploughing oxen: an ululumama to Ninurta,,20,sux:engar[farmer]N sux:a[water]N sux:naŋ[to-drink]V sux:dug₄[to-say]V
-c.5.5.5,The song of the ploughing oxen: an ululumama to Ninurta,,21,sux:e-el-lu[directive-expression]I sux:ma-a-lu[directive-expression]I
-c.5.5.5,The song of the ploughing oxen: an ululumama to Ninurta,,22,sux:Nanše[1]DN sux:e₂[house(hold)]N sux:ma-mu₂[dream]N sux:nu₂[to-lie-down]V
-c.5.5.5,The song of the ploughing oxen: an ululumama to Ninurta,,23,sux:Nanše[1]DN sux:inim[word]N sux:ŋi₆[night]N sux:DU[DU]V
-c.5.5.5,The song of the ploughing oxen: an ululumama to Ninurta,,24,sux:ninda[bread]N sux:lu-ub₂[type-of-bag]N sux:ŋar[to-place]V
-c.5.5.5,The song of the ploughing oxen: an ululumama to Ninurta,,25,sux:a[water]N sux:ummud[waterskin]N sux:de₂[to-pour]V
-c.5.5.5,The song of the ploughing oxen: an ululumama to Ninurta,,26,sux:saŋ[head]N sux:us₂[to-be-adjacent]V sux:gub[to-stand]V
-c.5.5.5,The song of the ploughing oxen: an ululumama to Ninurta,,27,sux:engar[farmer]N sux:igi[eye]N sux:bar[to-set-aside]V
-c.5.5.5,The song of the ploughing oxen: an ululumama to Ninurta,,28,sux:gud-ab₂-ba[breeding-bull]N sux:eme[tongue]N sux:ŋar[to-place]V
-c.5.5.5,The song of the ploughing oxen: an ululumama to Ninurta,,29,sux:ŋiri₃[foot]N sux:la₂[to-hang]V
-c.5.5.5,The song of the ploughing oxen: an ululumama to Ninurta,,30,sux:engar[farmer]N sux:ama[mother]N sux:gu₃[voice]N sux:de₂[to-pour]V
-c.5.5.5,The song of the ploughing oxen: an ululumama to Ninurta,,31,sux:ninda[bread]N sux:lu-ub₂[type-of-bag]N sux:ŋar[to-place]V
-c.5.5.5,The song of the ploughing oxen: an ululumama to Ninurta,,32,sux:a[water]N sux:ummud[waterskin]N sux:de₂[to-pour]V
-c.5.5.5,The song of the ploughing oxen: an ululumama to Ninurta,,33,sux:saŋ[head]N sux:us₂[to-be-adjacent]V sux:gub[to-stand]V
-c.5.5.5,The song of the ploughing oxen: an ululumama to Ninurta,,38,sux:e-el-lu[directive-expression]I sux:ma-a-lu[directive-expression]I
-c.5.5.5,The song of the ploughing oxen: an ululumama to Ninurta,,39,sux:a-na[what]PD
-c.5.5.5,The song of the ploughing oxen: an ululumama to Ninurta,,40,sux:a-na[what]PD
-c.5.5.5,The song of the ploughing oxen: an ululumama to Ninurta,,41,sux:a-ba[who]PD
-c.5.5.5,The song of the ploughing oxen: an ululumama to Ninurta,,42,sux:a-ba[who]PD
-c.5.5.5,The song of the ploughing oxen: an ululumama to Ninurta,,43,sux:a-ba[who]PD sux:lag[lump]N
-c.5.5.5,The song of the ploughing oxen: an ululumama to Ninurta,,44,sux:a-ba[who]PD sux:mušen[bird]N
-c.5.5.5,The song of the ploughing oxen: an ululumama to Ninurta,,45,sux:a₂[arm]N sux:zid[right]AJ
-c.5.5.5,The song of the ploughing oxen: an ululumama to Ninurta,,46,sux:a₂[arm]N sux:gabu₂[left-(side)]N
-c.5.5.5,The song of the ploughing oxen: an ululumama to Ninurta,,47,sux:igi[eye]N sux:il₂[to-raise]V
-c.5.5.5,The song of the ploughing oxen: an ululumama to Ninurta,,48,sux:umbin[horny-outgrowth]N sux:gal[to-be-big]V
-c.5.5.5,The song of the ploughing oxen: an ululumama to Ninurta,,49,sux:mul-an[heavenly-star]N
-c.5.5.5,The song of the ploughing oxen: an ululumama to Ninurta,,50,sux:gala[lament-singer]N sux:si[horn]N sux:sa₂[to-equal]V
-c.5.5.5,The song of the ploughing oxen: an ululumama to Ninurta,,51,sux:gud[bull]N sux:saŋ-dili[single]N sux:gur₄[to-be-thick]V sux:šub[to-fall]V
-c.5.5.5,The song of the ploughing oxen: an ululumama to Ninurta,,52,sux:inim[word]N sux:gi₄[to-return]V
-c.5.5.5,The song of the ploughing oxen: an ululumama to Ninurta,,53,sux:gud[bull]N sux:gud[bull]N sux:tur[to-be-small]V
-c.5.5.5,The song of the ploughing oxen: an ululumama to Ninurta,,54,sux:siki[hair]N sux:giri₁₇[nose]N sux:lum[to-thrive]V
-c.5.5.5,The song of the ploughing oxen: an ululumama to Ninurta,,55,sux:gu₂-tar[neck-(hair)]N sux:sahar[earth]N sux:šub[to-fall]V
-c.5.5.5,The song of the ploughing oxen: an ululumama to Ninurta,,56,sux:a-na-aš[why]AV sux:lugal[king]N sux:ŋe₂₆[I]PD sux:kal[to-be-rare]V
-c.5.5.5,The song of the ploughing oxen: an ululumama to Ninurta,,57,sux:amar[calf]N sux:ban₃-da[junior]AJ sux:inim[word]N sux:1[1]NU sux:dug₄[to-say]V
-c.5.5.5,The song of the ploughing oxen: an ululumama to Ninurta,,58,sux:ŋizzal[hearing]N sux:ak[to-do]V
-c.5.5.5,The song of the ploughing oxen: an ululumama to Ninurta,,59,sux:KU[plough?]N sux:ad-da[father]N sux:4[4]NU
-c.5.5.5,The song of the ploughing oxen: an ululumama to Ninurta,,60,sux:KU[plough?]N sux:ama[mother]N sux:8[8]NU
-c.5.5.5,The song of the ploughing oxen: an ululumama to Ninurta,,61,sux:Utu[1]DN sux:ŋiš[tree]N sux:sag₉[to-be-good]V sux:si[horn]N sux:sa₂[to-equal]V
-c.5.5.5,The song of the ploughing oxen: an ululumama to Ninurta,,62,sux:e-el-lu[directive-expression]I sux:ma-a-lu[directive-expression]I
-c.5.5.5,The song of the ploughing oxen: an ululumama to Ninurta,,63,sux:engar[farmer]N sux:šu-nim[early]AJ sux:sipad[shepherd]N sux:tur₃[animal-stall]N sux:kug[shining]AJ
-c.5.5.5,The song of the ploughing oxen: an ululumama to Ninurta,,64,sux:ŋuruš[young-man]N sux:ud[day(light)]N sux:tur[to-be-small]V sux:dam[spouse]N sux:tuku[to-have]V
-c.5.5.5,The song of the ploughing oxen: an ululumama to Ninurta,,65,sux:dumu[child]N sux:tuku[to-have]V sux:dili[single]AJ
-c.5.5.5,The song of the ploughing oxen: an ululumama to Ninurta,,66,sux:e-el-lu[directive-expression]I sux:ma-a-lu[directive-expression]I
-c.5.5.5,The song of the ploughing oxen: an ululumama to Ninurta,,67,sux:mul-an[heavenly-star]N sux:ŋe₂₆[I]PD
-c.5.5.5,The song of the ploughing oxen: an ululumama to Ninurta,,68,sux:gun₃[to-be-multicoloured]V sux:an[heaven]N sux:ŋe₂₆[I]PD
-c.5.5.5,The song of the ploughing oxen: an ululumama to Ninurta,,69,sux:niŋ₂-barag₂[quilt]N sux:ur₃[roof]N sux:ŋe₂₆[I]PD
-c.5.5.5,The song of the ploughing oxen: an ululumama to Ninurta,,70,sux:ŋe₂₆[I]PD
+c.5.5.5,The song of the ploughing oxen: an ululumama to Ninurta,,14,a₂-še[now]AV ama[mother]N
+c.5.5.5,The song of the ploughing oxen: an ululumama to Ninurta,,15,a₂-še[now]AV Nanše[1]DN šub[to-fall]V
+c.5.5.5,The song of the ploughing oxen: an ululumama to Ninurta,,16,ninda[bread]N lu-ub₂[type-of-bag]N ŋar[to-place]V
+c.5.5.5,The song of the ploughing oxen: an ululumama to Ninurta,,17,a[water]N ummud[waterskin]N de₂[to-pour]V
+c.5.5.5,The song of the ploughing oxen: an ululumama to Ninurta,,18,saŋ[head]N us₂[to-be-adjacent]V gub[to-stand]V
+c.5.5.5,The song of the ploughing oxen: an ululumama to Ninurta,,19,engar[farmer]N ninda[bread]N gu₇[to-eat]V dug₄[to-say]V
+c.5.5.5,The song of the ploughing oxen: an ululumama to Ninurta,,20,engar[farmer]N a[water]N naŋ[to-drink]V dug₄[to-say]V
+c.5.5.5,The song of the ploughing oxen: an ululumama to Ninurta,,21,e-el-lu[directive-expression]I ma-a-lu[directive-expression]I
+c.5.5.5,The song of the ploughing oxen: an ululumama to Ninurta,,22,Nanše[1]DN e₂[house(hold)]N ma-mu₂[dream]N nu₂[to-lie-down]V
+c.5.5.5,The song of the ploughing oxen: an ululumama to Ninurta,,23,Nanše[1]DN inim[word]N ŋi₆[night]N DU[DU]V
+c.5.5.5,The song of the ploughing oxen: an ululumama to Ninurta,,24,ninda[bread]N lu-ub₂[type-of-bag]N ŋar[to-place]V
+c.5.5.5,The song of the ploughing oxen: an ululumama to Ninurta,,25,a[water]N ummud[waterskin]N de₂[to-pour]V
+c.5.5.5,The song of the ploughing oxen: an ululumama to Ninurta,,26,saŋ[head]N us₂[to-be-adjacent]V gub[to-stand]V
+c.5.5.5,The song of the ploughing oxen: an ululumama to Ninurta,,27,engar[farmer]N igi[eye]N bar[to-set-aside]V
+c.5.5.5,The song of the ploughing oxen: an ululumama to Ninurta,,28,gud-ab₂-ba[breeding-bull]N eme[tongue]N ŋar[to-place]V
+c.5.5.5,The song of the ploughing oxen: an ululumama to Ninurta,,29,ŋiri₃[foot]N la₂[to-hang]V
+c.5.5.5,The song of the ploughing oxen: an ululumama to Ninurta,,30,engar[farmer]N ama[mother]N gu₃[voice]N de₂[to-pour]V
+c.5.5.5,The song of the ploughing oxen: an ululumama to Ninurta,,31,ninda[bread]N lu-ub₂[type-of-bag]N ŋar[to-place]V
+c.5.5.5,The song of the ploughing oxen: an ululumama to Ninurta,,32,a[water]N ummud[waterskin]N de₂[to-pour]V
+c.5.5.5,The song of the ploughing oxen: an ululumama to Ninurta,,33,saŋ[head]N us₂[to-be-adjacent]V gub[to-stand]V
+c.5.5.5,The song of the ploughing oxen: an ululumama to Ninurta,,38,e-el-lu[directive-expression]I ma-a-lu[directive-expression]I
+c.5.5.5,The song of the ploughing oxen: an ululumama to Ninurta,,39,a-na[what]PD
+c.5.5.5,The song of the ploughing oxen: an ululumama to Ninurta,,40,a-na[what]PD
+c.5.5.5,The song of the ploughing oxen: an ululumama to Ninurta,,41,a-ba[who]PD
+c.5.5.5,The song of the ploughing oxen: an ululumama to Ninurta,,42,a-ba[who]PD
+c.5.5.5,The song of the ploughing oxen: an ululumama to Ninurta,,43,a-ba[who]PD lag[lump]N
+c.5.5.5,The song of the ploughing oxen: an ululumama to Ninurta,,44,a-ba[who]PD mušen[bird]N
+c.5.5.5,The song of the ploughing oxen: an ululumama to Ninurta,,45,a₂[arm]N zid[right]AJ
+c.5.5.5,The song of the ploughing oxen: an ululumama to Ninurta,,46,a₂[arm]N gabu₂[left-(side)]N
+c.5.5.5,The song of the ploughing oxen: an ululumama to Ninurta,,47,igi[eye]N il₂[to-raise]V
+c.5.5.5,The song of the ploughing oxen: an ululumama to Ninurta,,48,umbin[horny-outgrowth]N gal[to-be-big]V
+c.5.5.5,The song of the ploughing oxen: an ululumama to Ninurta,,49,mul-an[heavenly-star]N
+c.5.5.5,The song of the ploughing oxen: an ululumama to Ninurta,,50,gala[lament-singer]N si[horn]N sa₂[to-equal]V
+c.5.5.5,The song of the ploughing oxen: an ululumama to Ninurta,,51,gud[bull]N saŋ-dili[single]N gur₄[to-be-thick]V šub[to-fall]V
+c.5.5.5,The song of the ploughing oxen: an ululumama to Ninurta,,52,inim[word]N gi₄[to-return]V
+c.5.5.5,The song of the ploughing oxen: an ululumama to Ninurta,,53,gud[bull]N gud[bull]N tur[to-be-small]V
+c.5.5.5,The song of the ploughing oxen: an ululumama to Ninurta,,54,siki[hair]N giri₁₇[nose]N lum[to-thrive]V
+c.5.5.5,The song of the ploughing oxen: an ululumama to Ninurta,,55,gu₂-tar[neck-(hair)]N sahar[earth]N šub[to-fall]V
+c.5.5.5,The song of the ploughing oxen: an ululumama to Ninurta,,56,a-na-aš[why]AV lugal[king]N ŋe₂₆[I]PD kal[to-be-rare]V
+c.5.5.5,The song of the ploughing oxen: an ululumama to Ninurta,,57,amar[calf]N ban₃-da[junior]AJ inim[word]N 1[1]NU dug₄[to-say]V
+c.5.5.5,The song of the ploughing oxen: an ululumama to Ninurta,,58,ŋizzal[hearing]N ak[to-do]V
+c.5.5.5,The song of the ploughing oxen: an ululumama to Ninurta,,59,KU[plough?]N ad-da[father]N 4[4]NU
+c.5.5.5,The song of the ploughing oxen: an ululumama to Ninurta,,60,KU[plough?]N ama[mother]N 8[8]NU
+c.5.5.5,The song of the ploughing oxen: an ululumama to Ninurta,,61,Utu[1]DN ŋiš[tree]N sag₉[to-be-good]V si[horn]N sa₂[to-equal]V
+c.5.5.5,The song of the ploughing oxen: an ululumama to Ninurta,,62,e-el-lu[directive-expression]I ma-a-lu[directive-expression]I
+c.5.5.5,The song of the ploughing oxen: an ululumama to Ninurta,,63,engar[farmer]N šu-nim[early]AJ sipad[shepherd]N tur₃[animal-stall]N kug[shining]AJ
+c.5.5.5,The song of the ploughing oxen: an ululumama to Ninurta,,64,ŋuruš[young-man]N ud[day(light)]N tur[to-be-small]V dam[spouse]N tuku[to-have]V
+c.5.5.5,The song of the ploughing oxen: an ululumama to Ninurta,,65,dumu[child]N tuku[to-have]V dili[single]AJ
+c.5.5.5,The song of the ploughing oxen: an ululumama to Ninurta,,66,e-el-lu[directive-expression]I ma-a-lu[directive-expression]I
+c.5.5.5,The song of the ploughing oxen: an ululumama to Ninurta,,67,mul-an[heavenly-star]N ŋe₂₆[I]PD
+c.5.5.5,The song of the ploughing oxen: an ululumama to Ninurta,,68,gun₃[to-be-multicoloured]V an[heaven]N ŋe₂₆[I]PD
+c.5.5.5,The song of the ploughing oxen: an ululumama to Ninurta,,69,niŋ₂-barag₂[quilt]N ur₃[roof]N ŋe₂₆[I]PD
+c.5.5.5,The song of the ploughing oxen: an ululumama to Ninurta,,70,ŋe₂₆[I]PD
 c.5.5.5,The song of the ploughing oxen: an ululumama to Ninurta,,91,
-c.5.5.5,The song of the ploughing oxen: an ululumama to Ninurta,,92,sux:e-el-lu[directive-expression]I sux:ma-a-lu[directive-expression]I
-c.5.5.5,The song of the ploughing oxen: an ululumama to Ninurta,,93,sux:Enkimdu[1]DN sux:lu₂[person]N sux:eg₂[embankment]N sux:pa₅[canal]N
-c.5.5.5,The song of the ploughing oxen: an ululumama to Ninurta,,94,sux:en[lord]N sux:unclear[1]DN sux:gu₃[voice]N sux:de₂[to-pour]V
-c.5.5.5,The song of the ploughing oxen: an ululumama to Ninurta,,95,sux:lugal[king]N sux:ak[to-do]V
-c.5.5.5,The song of the ploughing oxen: an ululumama to Ninurta,,96,sux:gana₂[field]N sux:zid[right]AJ sux:a[water]N sux:dug₄[to-say]V
-c.5.5.5,The song of the ploughing oxen: an ululumama to Ninurta,,97,sux:im[clay]N sux:saŋ[head]N sux:dug₄[to-say]V
-c.5.5.5,The song of the ploughing oxen: an ululumama to Ninurta,,98,sux:ud[day(light)]N sux:še[barley]N sux:gana₂[field]N
-c.5.5.5,The song of the ploughing oxen: an ululumama to Ninurta,,99,sux:ak[to-do]V
+c.5.5.5,The song of the ploughing oxen: an ululumama to Ninurta,,92,e-el-lu[directive-expression]I ma-a-lu[directive-expression]I
+c.5.5.5,The song of the ploughing oxen: an ululumama to Ninurta,,93,Enkimdu[1]DN lu₂[person]N eg₂[embankment]N pa₅[canal]N
+c.5.5.5,The song of the ploughing oxen: an ululumama to Ninurta,,94,en[lord]N unclear[1]DN gu₃[voice]N de₂[to-pour]V
+c.5.5.5,The song of the ploughing oxen: an ululumama to Ninurta,,95,lugal[king]N ak[to-do]V
+c.5.5.5,The song of the ploughing oxen: an ululumama to Ninurta,,96,gana₂[field]N zid[right]AJ a[water]N dug₄[to-say]V
+c.5.5.5,The song of the ploughing oxen: an ululumama to Ninurta,,97,im[clay]N saŋ[head]N dug₄[to-say]V
+c.5.5.5,The song of the ploughing oxen: an ululumama to Ninurta,,98,ud[day(light)]N še[barley]N gana₂[field]N
+c.5.5.5,The song of the ploughing oxen: an ululumama to Ninurta,,99,ak[to-do]V
 c.5.5.5,The song of the ploughing oxen: an ululumama to Ninurta,,100,
-c.5.5.5,The song of the ploughing oxen: an ululumama to Ninurta,,119,sux:e-el-lu[directive-expression]I sux:ma-a-lu[directive-expression]I
-c.5.5.5,The song of the ploughing oxen: an ululumama to Ninurta,,120,sux:gana₂-ur₃[harrow]N sux:ga-rig₂[comb]N sux:a-šag₄[field]N
-c.5.5.5,The song of the ploughing oxen: an ululumama to Ninurta,,121,sux:zu₂[tooth]N sux:gal[to-be-big]V sux:si[to-fill]V sux:gana₂[field]N sux:kug[shining]AJ sux:ri[to-direct]V
-c.5.5.5,The song of the ploughing oxen: an ululumama to Ninurta,,122,sux:al[hoe]N sux:gu₂[neck]N sux:ki[place]N sux:la₂[to-hang]V sux:mud[stump-(handle)]N sux:sa₂[to-equal]V
-c.5.5.5,The song of the ploughing oxen: an ululumama to Ninurta,,123,sux:al[hoe]N sux:gu₂[neck]N sux:ki[place]N sux:la₂[to-hang]V
-c.5.5.5,The song of the ploughing oxen: an ululumama to Ninurta,,124,sux:apin[plough]N sux:kug[shining]AJ sux:dal[(cross)beam]N sux:la₂[to-hang]V sux:dal[(cross)beam]N sux:sig₉[to-put]V
-c.5.5.5,The song of the ploughing oxen: an ululumama to Ninurta,,125,sux:nagar[carpenter]N sux:gal-zu[skilful]AJ sux:gu[(flax)-thread]N sux:tag[to-touch]V
-c.5.5.5,The song of the ploughing oxen: an ululumama to Ninurta,,126,sux:a₂[arm]N sux:le-um[(writing)-board]N
-c.5.5.5,The song of the ploughing oxen: an ululumama to Ninurta,,139,sux:mu₇[to-make-noise]V
-c.5.5.5,The song of the ploughing oxen: an ululumama to Ninurta,,140,sux:šu[hand]N sux:zid[right]AJ sux:gi-diš-nindan[measuring-rod]N
-c.5.5.5,The song of the ploughing oxen: an ululumama to Ninurta,,141,sux:Enkimdu[1]DN sux:lu₂[person]N sux:eg₂[embankment]N sux:pa₅[canal]N
+c.5.5.5,The song of the ploughing oxen: an ululumama to Ninurta,,119,e-el-lu[directive-expression]I ma-a-lu[directive-expression]I
+c.5.5.5,The song of the ploughing oxen: an ululumama to Ninurta,,120,gana₂-ur₃[harrow]N ga-rig₂[comb]N a-šag₄[field]N
+c.5.5.5,The song of the ploughing oxen: an ululumama to Ninurta,,121,zu₂[tooth]N gal[to-be-big]V si[to-fill]V gana₂[field]N kug[shining]AJ ri[to-direct]V
+c.5.5.5,The song of the ploughing oxen: an ululumama to Ninurta,,122,al[hoe]N gu₂[neck]N ki[place]N la₂[to-hang]V mud[stump-(handle)]N sa₂[to-equal]V
+c.5.5.5,The song of the ploughing oxen: an ululumama to Ninurta,,123,al[hoe]N gu₂[neck]N ki[place]N la₂[to-hang]V
+c.5.5.5,The song of the ploughing oxen: an ululumama to Ninurta,,124,apin[plough]N kug[shining]AJ dal[(cross)beam]N la₂[to-hang]V dal[(cross)beam]N sig₉[to-put]V
+c.5.5.5,The song of the ploughing oxen: an ululumama to Ninurta,,125,nagar[carpenter]N gal-zu[skilful]AJ gu[(flax)-thread]N tag[to-touch]V
+c.5.5.5,The song of the ploughing oxen: an ululumama to Ninurta,,126,a₂[arm]N le-um[(writing)-board]N
+c.5.5.5,The song of the ploughing oxen: an ululumama to Ninurta,,139,mu₇[to-make-noise]V
+c.5.5.5,The song of the ploughing oxen: an ululumama to Ninurta,,140,šu[hand]N zid[right]AJ gi-diš-nindan[measuring-rod]N
+c.5.5.5,The song of the ploughing oxen: an ululumama to Ninurta,,141,Enkimdu[1]DN lu₂[person]N eg₂[embankment]N pa₅[canal]N
 c.5.5.5,The song of the ploughing oxen: an ululumama to Ninurta,,142,
-c.5.5.5,The song of the ploughing oxen: an ululumama to Ninurta,,143,sux:e-el-lu[directive-expression]I sux:ma-a-lu[directive-expression]I sux:gud[bull]N sux:ŋen[to-go]V sux:ŋen[to-go]V sux:šudul[yoke]N sux:gu₂[neck]N sux:ŋar[to-place]V
-c.5.5.5,The song of the ploughing oxen: an ululumama to Ninurta,,144,sux:gud[bull]N sux:ŋen[to-go]V sux:ŋen[to-go]V sux:šudul[yoke]N sux:gu₂[neck]N sux:ŋar[to-place]V
-c.5.5.5,The song of the ploughing oxen: an ululumama to Ninurta,,145,sux:absin₃[furrow]N sux:gana₂[field]N sux:zid[right]AJ sux:ŋiri₃[foot]N sux:gub[to-stand]V sux:us₂[to-be-adjacent]V sux:si[horn]N sux:sa₂[to-equal]V sux:dib[to-pass]V
-c.5.5.5,The song of the ploughing oxen: an ululumama to Ninurta,,146,sux:e₂[house(hold)]N sux:kaš[beer]N sux:ul[to-swell-(with-joy)]V sux:te[to-approach]V
-c.5.5.5,The song of the ploughing oxen: an ululumama to Ninurta,,147,sux:Inana[1]DN sux:ki-bur₂-re[explanation]N
-c.5.5.5,The song of the ploughing oxen: an ululumama to Ninurta,,148,sux:ki[place]N sux:gi₄[to-return]V
-c.5.5.5,The song of the ploughing oxen: an ululumama to Ninurta,,149,sux:u₂-lu-lu-ma-ma[type-of-composition]N sux:Ninurta[1]DN
+c.5.5.5,The song of the ploughing oxen: an ululumama to Ninurta,,143,e-el-lu[directive-expression]I ma-a-lu[directive-expression]I gud[bull]N ŋen[to-go]V ŋen[to-go]V šudul[yoke]N gu₂[neck]N ŋar[to-place]V
+c.5.5.5,The song of the ploughing oxen: an ululumama to Ninurta,,144,gud[bull]N ŋen[to-go]V ŋen[to-go]V šudul[yoke]N gu₂[neck]N ŋar[to-place]V
+c.5.5.5,The song of the ploughing oxen: an ululumama to Ninurta,,145,absin₃[furrow]N gana₂[field]N zid[right]AJ ŋiri₃[foot]N gub[to-stand]V us₂[to-be-adjacent]V si[horn]N sa₂[to-equal]V dib[to-pass]V
+c.5.5.5,The song of the ploughing oxen: an ululumama to Ninurta,,146,e₂[house(hold)]N kaš[beer]N ul[to-swell-(with-joy)]V te[to-approach]V
+c.5.5.5,The song of the ploughing oxen: an ululumama to Ninurta,,147,Inana[1]DN ki-bur₂-re[explanation]N
+c.5.5.5,The song of the ploughing oxen: an ululumama to Ninurta,,148,ki[place]N gi₄[to-return]V
+c.5.5.5,The song of the ploughing oxen: an ululumama to Ninurta,,149,u₂-lu-lu-ma-ma[type-of-composition]N Ninurta[1]DN

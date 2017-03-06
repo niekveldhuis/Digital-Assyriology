@@ -1,29 +1,29 @@
 id_text,text_name,version,l_no,text
-c.4.24.1,An adab to Ninlil (Ninlil A),,1,sux:Ninlil[1]DN sux:me[essence]N sux:šar₂[to-be-numerous]V sux:daŋal[to-be-wide]V sux:si[to-fill]V sux:kur[(mountain)-land]N sux:gal[to-be-big]V sux:zag[side]N sux:sa₂[to-equal]V
-c.4.24.1,An adab to Ninlil (Ninlil A),,2,sux:en[lord]N sux:Nunamnir[1]DN sux:nam[destiny]N sux:tar[to-cut]V sux:piriŋ[lion]N sux:gal[to-be-big]V sux:he₂-du₇[(fitting)-ornament]N
-c.4.24.1,An adab to Ninlil (Ninlil A),,3,sux:an[heaven]N sux:ki[place]N sux:mah-di[illustrious]AJ sux:egir₂[princess]N sux:giri₁₇-zal[joy]N sux:nin[lady]N sux:me[essence]N sux:nam-nun[princeliness]N
-c.4.24.1,An adab to Ninlil (Ninlil A),,4,sux:su[flesh]N sux:zig₃[to-rise]V sux:guru₃[to-bear]V sux:sa₂[advice]N sux:zu[to-know]V sux:ama[mother]N sux:Ninlil[1]DN sux:dug₄[to-say]V sux:ulu₃[south-wind-(storm)]N
-c.4.24.1,An adab to Ninlil (Ninlil A),,5,sux:Enlil[1]DN sux:hi-li[attractiveness]N sux:šag₄[heart]N sux:gu₂[neck]N sux:la₂[to-hang]V
-c.4.24.1,An adab to Ninlil (Ninlil A),,6,sux:ki-šar₂[totality]N sux:u₆[to-overview]V sux:ki[place]N sux:aŋ₂[to-measure]V sux:en[lord]N sux:Nunamnir[1]DN
-c.4.24.1,An adab to Ninlil (Ninlil A),,7,sux:barag[dais]N sux:kug[shining]AJ sux:si[to-fill]V sux:ama[mother]N sux:Ninlil[1]DN sux:nam-he₂[abundance]N sux:ri[to-direct]V
-c.4.24.1,An adab to Ninlil (Ninlil A),,8,sux:en[lord]N sux:gal[to-be-big]V sux:barag[dais]N sux:giri₁₇[nose]N sux:šu[hand]N sux:ŋal₂[to-be-(located)]V
-c.4.24.1,An adab to Ninlil (Ninlil A),,9,sux:ud[day(light)]N sux:sed₄[to-be-cold]V sux:an-dul₃[(protective)-shade]N sux:daŋal[to-be-wide]V sux:nam-nun[princeliness]N sux:u₅[to-ride]V
-c.4.24.1,An adab to Ninlil (Ninlil A),,10,sux:ama[mother]N sux:Ninlil[1]DN sux:diŋir[deity]N sux:me[essence]N sux:giri₁₇-zal[joy]N sux:nam-he₂[abundance]N sux:ri[to-direct]V
-c.4.24.1,An adab to Ninlil (Ninlil A),,11,sux:sa-gid₂-da[composition-division]N
-c.4.24.1,An adab to Ninlil (Ninlil A),,12,sux:Ninlil[1]DN sux:mah[to-be-majestic]V sux:diŋir[deity]N sux:gal[to-be-big]V sux:me[essence]N sux:huš[to-be-reddish]V sux:gal[to-be-big]V sux:gu₂[neck]N sux:us₂[to-be-adjacent]V
-c.4.24.1,An adab to Ninlil (Ninlil A),,13,sux:ŋiš-gi₄-ŋal₂[composition-division]N
-c.4.24.1,An adab to Ninlil (Ninlil A),,14,sux:diŋir[deity]N sux:gal[to-be-big]V sux:zag[side]N sux:sa₂[to-equal]V
+c.4.24.1,An adab to Ninlil (Ninlil A),,1,Ninlil[1]DN me[essence]N šar₂[to-be-numerous]V daŋal[to-be-wide]V si[to-fill]V kur[(mountain)-land]N gal[to-be-big]V zag[side]N sa₂[to-equal]V
+c.4.24.1,An adab to Ninlil (Ninlil A),,2,en[lord]N Nunamnir[1]DN nam[destiny]N tar[to-cut]V piriŋ[lion]N gal[to-be-big]V he₂-du₇[(fitting)-ornament]N
+c.4.24.1,An adab to Ninlil (Ninlil A),,3,an[heaven]N ki[place]N mah-di[illustrious]AJ egir₂[princess]N giri₁₇-zal[joy]N nin[lady]N me[essence]N nam-nun[princeliness]N
+c.4.24.1,An adab to Ninlil (Ninlil A),,4,su[flesh]N zig₃[to-rise]V guru₃[to-bear]V sa₂[advice]N zu[to-know]V ama[mother]N Ninlil[1]DN dug₄[to-say]V ulu₃[south-wind-(storm)]N
+c.4.24.1,An adab to Ninlil (Ninlil A),,5,Enlil[1]DN hi-li[attractiveness]N šag₄[heart]N gu₂[neck]N la₂[to-hang]V
+c.4.24.1,An adab to Ninlil (Ninlil A),,6,ki-šar₂[totality]N u₆[to-overview]V ki[place]N aŋ₂[to-measure]V en[lord]N Nunamnir[1]DN
+c.4.24.1,An adab to Ninlil (Ninlil A),,7,barag[dais]N kug[shining]AJ si[to-fill]V ama[mother]N Ninlil[1]DN nam-he₂[abundance]N ri[to-direct]V
+c.4.24.1,An adab to Ninlil (Ninlil A),,8,en[lord]N gal[to-be-big]V barag[dais]N giri₁₇[nose]N šu[hand]N ŋal₂[to-be-(located)]V
+c.4.24.1,An adab to Ninlil (Ninlil A),,9,ud[day(light)]N sed₄[to-be-cold]V an-dul₃[(protective)-shade]N daŋal[to-be-wide]V nam-nun[princeliness]N u₅[to-ride]V
+c.4.24.1,An adab to Ninlil (Ninlil A),,10,ama[mother]N Ninlil[1]DN diŋir[deity]N me[essence]N giri₁₇-zal[joy]N nam-he₂[abundance]N ri[to-direct]V
+c.4.24.1,An adab to Ninlil (Ninlil A),,11,sa-gid₂-da[composition-division]N
+c.4.24.1,An adab to Ninlil (Ninlil A),,12,Ninlil[1]DN mah[to-be-majestic]V diŋir[deity]N gal[to-be-big]V me[essence]N huš[to-be-reddish]V gal[to-be-big]V gu₂[neck]N us₂[to-be-adjacent]V
+c.4.24.1,An adab to Ninlil (Ninlil A),,13,ŋiš-gi₄-ŋal₂[composition-division]N
+c.4.24.1,An adab to Ninlil (Ninlil A),,14,diŋir[deity]N gal[to-be-big]V zag[side]N sa₂[to-equal]V
 c.4.24.1,An adab to Ninlil (Ninlil A),,15,
-c.4.24.1,An adab to Ninlil (Ninlil A),,22,sux:mah[to-be-majestic]V sux:mu[name]N sux:kur[(mountain)-land]N
-c.4.24.1,An adab to Ninlil (Ninlil A),,23,sux:Ki-ur[1]TN sux:til₃[to-live]V sux:Enlil[1]DN sux:munus[woman]N sux:zid[right]AJ sux:ama[mother]N sux:Ninlil[1]DN
-c.4.24.1,An adab to Ninlil (Ninlil A),,24,sux:me[essence]N sux:giri₁₇-zal[joy]N sux:šag₄[heart]N sux:hi-li[attractiveness]N sux:si[to-fill]V sux:gu₂[neck]N sux:la₂[to-hang]V
-c.4.24.1,An adab to Ninlil (Ninlil A),,25,sux:Enki[1]DN sux:Ninki[1]DN sux:me[essence]N sux:kur[(mountain)-land]N sux:šu[hand]N sux:du₇[to-be-perfect]V
-c.4.24.1,An adab to Ninlil (Ninlil A),,26,sux:nin[lady]N sux:dug₄[to-say]V sux:niŋ₂[thing]N sux:mah[to-be-majestic]V sux:E-kur[1]TN sux:hul₂[to-be-happy]V
-c.4.24.1,An adab to Ninlil (Ninlil A),,27,sux:sa-ŋar-ra[composition-division]N
-c.4.24.1,An adab to Ninlil (Ninlil A),,28,sux:munus[woman]N sux:zid[right]AJ sux:ama[mother]N sux:Ninlil[1]DN sux:an[heaven]N sux:ki[place]N sux:i-lim[(awesome)-radiance]N sux:u₅[to-ride]V
-c.4.24.1,An adab to Ninlil (Ninlil A),,29,sux:ŋiš-gi₄-ŋal₂[composition-division]N
-c.4.24.1,An adab to Ninlil (Ninlil A),,30,sux:nin[lady]N sux:an[heaven]N sux:ki[place]N sux:diŋir[deity]N sux:ušum[type-of-snake]N sux:zag[side]N sux:dib[to-pass]V
-c.4.24.1,An adab to Ninlil (Ninlil A),,31,sux:ama[mother]N sux:Ninlil[1]DN sux:nin[lady]N sux:mah[to-be-majestic]V sux:an[heaven]N sux:ki[place]N sux:diŋir[deity]N sux:ušum[type-of-snake]N sux:zag[side]N sux:dib[to-pass]V
-c.4.24.1,An adab to Ninlil (Ninlil A),,32,sux:me[essence]N sux:giri₁₇-zal[joy]N sux:šag₄[heart]N sux:hi-li[attractiveness]N sux:si[to-fill]V sux:ki[place]N sux:aŋ₂[to-measure]V sux:za[you-(sg.)]PD sux:ul[distant-time]N sux:me[essence]N sux:zalag[to-be-shining]V sux:lil₂[ghost]N sux:dab₅[to-seize]V
-c.4.24.1,An adab to Ninlil (Ninlil A),,33,sux:u₁₈-ru[composition-division]N
-c.4.24.1,An adab to Ninlil (Ninlil A),,34,sux:a-da-ab[type-of-drum-and-composition]N sux:Ninlil[1]DN
+c.4.24.1,An adab to Ninlil (Ninlil A),,22,mah[to-be-majestic]V mu[name]N kur[(mountain)-land]N
+c.4.24.1,An adab to Ninlil (Ninlil A),,23,Ki-ur[1]TN til₃[to-live]V Enlil[1]DN munus[woman]N zid[right]AJ ama[mother]N Ninlil[1]DN
+c.4.24.1,An adab to Ninlil (Ninlil A),,24,me[essence]N giri₁₇-zal[joy]N šag₄[heart]N hi-li[attractiveness]N si[to-fill]V gu₂[neck]N la₂[to-hang]V
+c.4.24.1,An adab to Ninlil (Ninlil A),,25,Enki[1]DN Ninki[1]DN me[essence]N kur[(mountain)-land]N šu[hand]N du₇[to-be-perfect]V
+c.4.24.1,An adab to Ninlil (Ninlil A),,26,nin[lady]N dug₄[to-say]V niŋ₂[thing]N mah[to-be-majestic]V E-kur[1]TN hul₂[to-be-happy]V
+c.4.24.1,An adab to Ninlil (Ninlil A),,27,sa-ŋar-ra[composition-division]N
+c.4.24.1,An adab to Ninlil (Ninlil A),,28,munus[woman]N zid[right]AJ ama[mother]N Ninlil[1]DN an[heaven]N ki[place]N i-lim[(awesome)-radiance]N u₅[to-ride]V
+c.4.24.1,An adab to Ninlil (Ninlil A),,29,ŋiš-gi₄-ŋal₂[composition-division]N
+c.4.24.1,An adab to Ninlil (Ninlil A),,30,nin[lady]N an[heaven]N ki[place]N diŋir[deity]N ušum[type-of-snake]N zag[side]N dib[to-pass]V
+c.4.24.1,An adab to Ninlil (Ninlil A),,31,ama[mother]N Ninlil[1]DN nin[lady]N mah[to-be-majestic]V an[heaven]N ki[place]N diŋir[deity]N ušum[type-of-snake]N zag[side]N dib[to-pass]V
+c.4.24.1,An adab to Ninlil (Ninlil A),,32,me[essence]N giri₁₇-zal[joy]N šag₄[heart]N hi-li[attractiveness]N si[to-fill]V ki[place]N aŋ₂[to-measure]V za[you-(sg.)]PD ul[distant-time]N me[essence]N zalag[to-be-shining]V lil₂[ghost]N dab₅[to-seize]V
+c.4.24.1,An adab to Ninlil (Ninlil A),,33,u₁₈-ru[composition-division]N
+c.4.24.1,An adab to Ninlil (Ninlil A),,34,a-da-ab[type-of-drum-and-composition]N Ninlil[1]DN

@@ -1,538 +1,538 @@
 id_text,text_name,version,l_no,text
-c.4.80.1,The temple hymns,,1,sux:E-unir[1]TN sux:an[heaven]N sux:ki[place]N sux:mu₂[to-grow]V
-c.4.80.1,The temple hymns,,2,sux:temen[foundation]N sux:an[heaven]N sux:ki[place]N sux:unu₂[(dining)-hall]N sux:gal[to-be-big]V sux:Eridug[1]SN
-c.4.80.1,The temple hymns,,3,sux:Abzu[1]TN sux:eš₃[shrine]N sux:nun[prince]N sux:gub[to-stand]V
-c.4.80.1,The temple hymns,,4,sux:E-du-kug[1]TN sux:u₂[plant]N sux:sikil[to-be-pure]V sux:rig₇[to-bestow]V
-c.4.80.1,The temple hymns,,5,sux:pa₅[canal]N sux:sikil[to-be-pure]V sux:nun[prince]N sux:a[water]N sux:naŋ[to-drink]V
-c.4.80.1,The temple hymns,,6,sux:kur[(mountain)-land]N sux:ki[place]N sux:sikil[to-be-pure]V sux:naŋa[potash]N sux:dub₂[to-tremble]V sux:dug₄[to-say]V
-c.4.80.1,The temple hymns,,7,sux:Abzu[1]TN sux:tigi[type-of-instrument-and-composition]N sux:me[essence]N
-c.4.80.1,The temple hymns,,8,sux:bad₃[wall]N sux:gal[to-be-big]V sux:šu[hand]N sux:si[horn]N sux:sa₂[to-equal]V
-c.4.80.1,The temple hymns,,9,sux:kilib₃-ŋal₂[assembly]N sux:ki[place]N sux:diŋir[deity]N sux:til₃[to-live]V
-c.4.80.1,The temple hymns,,10,sux:kiŋ₂[work]N sux:gal[to-be-big]V sux:kiŋ₂[work]N sux:ki[place]N sux:dug₃[to-be-good]V sux:ud[day(light)]N sux:dib[to-pass]V
-c.4.80.1,The temple hymns,,11,sux:e₂[house(hold)]N sux:zag[side]N sux:keše₂[to-bind]V sux:šita[supplication]N sux:sa₂[to-equal]V sux:dug₄[to-say]V
-c.4.80.1,The temple hymns,,12,sux:nun[prince]N sux:nun[prince]N sux:gal[to-be-big]V sux:men[diadem]N sux:kug[shining]AJ
-c.4.80.1,The temple hymns,,13,sux:muš₃[flat-space]N sux:gen₆[to-be-firm]V sux:Eridug[1]SN sux:saŋ-men[type-of-crown]N sux:ŋal₂[to-be-(located)]V
-c.4.80.1,The temple hymns,,14,sux:kiši₁₆[acacia]N sux:mu₂[to-grow]V sux:kiši₁₆[acacia]N sux:sikil[to-be-pure]V sux:ed₃[to-go-down-or-up]V sux:susbu[type-of-priest]N
-c.4.80.1,The temple hymns,,15,sux:eš₃[shrine]N sux:Abzu[1]TN sux:ki[place]N sux:ki[place]N sux:gal[to-be-big]V
-c.4.80.1,The temple hymns,,16,sux:ki[place]N sux:Utu[1]DN sux:gu₃[voice]N sux:de₂[to-pour]V
-c.4.80.1,The temple hymns,,17,sux:gir₄[oven]N sux:ninda[bread]N sux:il₂[to-raise]V sux:u₂[plant]N sux:sug₄[to-be-full]V
-c.4.80.1,The temple hymns,,18,sux:u₆-nir[ziggurat]N sux:eš₃[shrine]N sux:mah[to-be-majestic]V sux:an[heaven]N sux:us₂[to-be-adjacent]V
-c.4.80.1,The temple hymns,,19,sux:gir₄[oven]N sux:gal[to-be-big]V sux:unu₂[(dining)-hall]N sux:gal[to-be-big]V sux:sa₂[to-equal]V
-c.4.80.1,The temple hymns,,20,sux:nun[prince]N sux:nun[prince]N sux:an[heaven]N sux:ki[place]N sux:kur₂[to-be-different]V
-c.4.80.1,The temple hymns,,21,sux:dug₄[to-say]V sux:saŋ[head]N sux:du₃[to-erect]V sux:ŋeštug₂[ear]N sux:de₅[to-collect]V
-c.4.80.1,The temple hymns,,22,sux:en[lord]N sux:Nudimmud[1]DN
-c.4.80.1,The temple hymns,,23,sux:E-engura[1]TN sux:muš₃[flat-space]N sux:e₂[house(hold)]N sux:gub[to-stand]V sux:barag[dais]N sux:dur₂[rump]N sux:ŋar[to-place]V
-c.4.80.1,The temple hymns,,24,sux:23[23]NU sux:e₂[house(hold)]N sux:Enki[1]DN sux:Eridug[1]SN
-c.4.80.1,The temple hymns,,25,sux:eš₃[shrine]N sux:nam[destiny]N sux:tar[to-cut]V
-c.4.80.1,The temple hymns,,26,sux:temen[foundation]N sux:u₆-nir[ziggurat]N sux:il₂[to-raise]V
-c.4.80.1,The temple hymns,,27,sux:a₂-dam[habitation]N sux:Enlil[1]DN
-c.4.80.1,The temple hymns,,28,sux:zid[right]AJ sux:gabu₂[left-(side)]N sux:Sumer[1]GN sux:Akkad[1]GN
-c.4.80.1,The temple hymns,,29,sux:e₂[house(hold)]N sux:Enlil[1]DN sux:šag₄[heart]N sux:ten[to-extinguish]V sux:bar[outside]N sux:nam[destiny]N sux:tar[to-cut]V
-c.4.80.1,The temple hymns,,30,sux:zag-du₈[doorjamb]N sux:a-sal-bar[architrave?]N sux:kur-bad₃[mountain-peak]N
-c.4.80.1,The temple hymns,,31,sux:dub-la₂[(doorpost)-platform]N sux:zag[side]N sux:e₃[to-go-out-or-in]V sux:kur[(mountain)-land]N sux:me-te-ŋal₂[seemly]AJ
-c.4.80.1,The temple hymns,,32,sux:muš₃[flat-space]N sux:nun[prince]N
-c.4.80.1,The temple hymns,,33,sux:ur₂[root]N sux:an[heaven]N sux:ki[place]N sux:kuš₂[to-be-tired]V
-c.4.80.1,The temple hymns,,34,sux:nun[prince]N sux:nun[prince]N sux:gal[to-be-big]V sux:Enlil[1]DN sux:en[lord]N sux:dug₃[to-be-good]V
-c.4.80.1,The temple hymns,,35,sux:en[lord]N sux:zag[side]N sux:an[heaven]N sux:en[lord]N sux:nam[destiny]N sux:tar[to-cut]V
-c.4.80.1,The temple hymns,,36,sux:eš₃[shrine]N sux:Nibru[1]SN sux:kur[(mountain)-land]N sux:gal[to-be-big]V sux:Enlil[1]DN
-c.4.80.1,The temple hymns,,37,sux:muš₃[flat-space]N sux:e₂[house(hold)]N sux:gub[to-stand]V sux:barag[dais]N sux:dur₂[rump]N sux:ŋar[to-place]V
-c.4.80.1,The temple hymns,,38,sux:13[13]NU sux:e₂[house(hold)]N sux:Enlil[1]DN sux:Nibru[1]SN
-c.4.80.1,The temple hymns,,39,sux:Tummal[1]TN sux:me[essence]N sux:nun[prince]N sux:gal[to-be-big]V sux:pad₃[to-find]V sux:ni₂[fear(someness)]N sux:su[flesh]N sux:zig₃[to-rise]V sux:ri[to-direct]V
-c.4.80.1,The temple hymns,,40,sux:temen[foundation]N sux:šu-luh[ritual-cleansing]N sux:sikil[to-be-pure]V sux:abzu[underground-water]N sux:la₂[to-hang]V
-c.4.80.1,The temple hymns,,41,sux:iri[town]N sux:ul[distant-time]N sux:ŋiš-gi[reedbed]N sux:gi[reed]N sux:sumun[to-be-old]V sux:gi[reed]N sux:henbur[shoot]N sux:sig₇[to-be-green]V
-c.4.80.1,The temple hymns,,42,sux:šag₄[heart]N sux:kur[(mountain)-land]N sux:he₂-ŋal₂[plenty]N sux:nam-he₂[abundance]N sux:du₃[to-erect]V
-c.4.80.1,The temple hymns,,43,sux:itid[moon(light)]N sux:zag-mu[new-year]N sux:ezen[festival]N sux:ŋal₂[to-be-(located)]V sux:u₆[wonder]N sux:dug₄[to-say]V sux:tag[to-touch]V
-c.4.80.1,The temple hymns,,44,sux:nin[lady]N sux:gal[to-be-big]V sux:Ki-ur[1]TN sux:Enlil[1]DN sux:zag[side]N sux:sa₂[to-equal]V
-c.4.80.1,The temple hymns,,45,sux:nun[prince]N sux:ama[mother]N sux:Ninlil[1]DN sux:nitalam[spouse]N sux:ki[place]N sux:aŋ₂[to-measure]V sux:Nunamnir[1]DN
-c.4.80.1,The temple hymns,,46,sux:E-Tummal[1]TN sux:muš₃[flat-space]N sux:e₂[house(hold)]N sux:gub[to-stand]V sux:barag[dais]N sux:dur₂[rump]N sux:ŋar[to-place]V
-c.4.80.1,The temple hymns,,47,sux:8[8]NU sux:e₂[house(hold)]N sux:Ninlil[1]DN sux:Nibru[1]SN
-c.4.80.1,The temple hymns,,48,sux:E-melem-huš[1]TN sux:ni₂[fear(someness)]N sux:gal[to-be-big]V sux:guru₃[to-bear]V
-c.4.80.1,The temple hymns,,49,sux:Eš-mah[1]TN sux:me[essence]N sux:nun[prince]N sux:an[heaven]N sux:bar[to-set-aside]V
-c.4.80.1,The temple hymns,,50,sux:šutum[storehouse]N sux:Enlil[1]DN sux:me[essence]N sux:ul[distant-time]N sux:ŋar[to-place]V sux:nir[authority]N sux:tum₂[to-be-suitable]V
-c.4.80.1,The temple hymns,,51,sux:nam-nun[princeliness]N sux:saŋ[head]N sux:il₂[to-raise]V sux:na[advice]N sux:de₅[to-collect]V sux:E-kur[1]TN
-c.4.80.1,The temple hymns,,52,sux:zag-e₃[buttress]N sux:si[horn]N sux:e₂[house(hold)]N sux:muš₃[flat-space]N sux:an[heaven]N
-c.4.80.1,The temple hymns,,53,sux:eš-bar[decision]N sux:ki[place]N sux:di[(law)suit]N sux:gal[to-be-big]V sux:kud[to-cut]V sux:id₂-lu₂-ru-gu₂[ordeal-river]N
-c.4.80.1,The temple hymns,,54,sux:zid-du[righteous]AJ sux:tud[to-give-birth]V sux:šag₄[heart]N sux:erim₂-ŋal₂[evil]AJ sux:mud[blood]N sux:niŋin₂[to-go-around]V
-c.4.80.1,The temple hymns,,55,sux:ki[place]N sux:gal[to-be-big]V sux:šu-luh[ritual-cleansing]N sux:sikil[to-be-pure]V sux:nam-išib[type-of-priestcraft]N sux:du₇[to-be-perfect]V
-c.4.80.1,The temple hymns,,56,sux:en[lord]N sux:Nunamnir[1]DN sux:u₂[plant]N sux:sug₄[to-be-full]V
-c.4.80.1,The temple hymns,,57,sux:nun[prince]N sux:nun[prince]N sux:šag₄[heart]N sux:kuš₂[to-be-tired]V sux:Enlil[1]DN sux:Eš-mah[1]TN sux:tum₂[to-be-suitable]V
-c.4.80.1,The temple hymns,,58,sux:udug[type-of-demon]N sux:E-kur[1]TN sux:kingal[leader]N sux:Nuska[1]DN
-c.4.80.1,The temple hymns,,59,sux:e₂[house(hold)]N sux:Enlil[1]DN sux:muš₃[flat-space]N sux:e₂[house(hold)]N sux:gub[to-stand]V sux:barag[dais]N sux:dur₂[rump]N sux:ŋar[to-place]V
-c.4.80.1,The temple hymns,,60,sux:12[12]NU sux:e₂[house(hold)]N sux:Nuska[1]DN sux:Nibru[1]SN
-c.4.80.1,The temple hymns,,61,sux:E-me-ur-ana[1]TN sux:ki[place]N sux:gal[to-be-big]V sux:gub[to-stand]V
-c.4.80.1,The temple hymns,,62,sux:me[essence]N sux:zid[right]AJ sux:ur-saŋ[hero]N sux:iri[town]N sux:barag[dais]N sux:ki[place]N sux:mu₂[to-grow]V
-c.4.80.1,The temple hymns,,63,sux:a₂[arm]N sux:me₃[battle]N sux:mitum[type-of-weapon]N sux:šul[young-man]N sux:mar-uru₅[quiver]N sux:guru₃[to-bear]V
-c.4.80.1,The temple hymns,,64,sux:šeg₁₂[brick(work)]N sux:uru₁₆[to-be-towering]V sux:silig[to-cease]V sux:temen[foundation]N sux:ud[day(light)]N sux:til₃[to-live]V
-c.4.80.1,The temple hymns,,65,sux:en[lord]N sux:ul[distant-time]N sux:ŋar[to-place]V sux:eš-bar[decision]N sux:me[essence]N sux:nun[prince]N
-c.4.80.1,The temple hymns,,66,sux:sahar[earth]N sux:kug[shining]AJ sux:kur[(mountain)-land]N sux:si[to-fill]V sux:saŋ[head]N sux:il₂[to-raise]V sux:nun[prince]N
-c.4.80.1,The temple hymns,,67,sux:e₂[house(hold)]N sux:mah[to-be-majestic]V sux:u₆[wonder]N sux:e₃[to-go-out-or-in]V sux:ud[day(light)]N sux:muš₃[flat-space]N sux:barag₂[to-spread-out]V
-c.4.80.1,The temple hymns,,68,sux:E-šu-me-ša[1]TN sux:mu[name]N sux:Enlil[1]DN sux:ni₂[fear(someness)]N sux:huš[to-be-reddish]V sux:ri[to-direct]V
-c.4.80.1,The temple hymns,,69,sux:nun[prince]N sux:gal[to-be-big]V sux:ur-saŋ[hero]N sux:ne₃[strength]N sux:zag[side]N sux:dib[to-pass]V
-c.4.80.1,The temple hymns,,70,sux:ensi₂[(city)-ruler]N sux:gal[to-be-big]V sux:Enlil[1]DN sux:nir[authority]N sux:an[heaven]N sux:ki[place]N sux:zag[side]N sux:sa₂[to-equal]V
-c.4.80.1,The temple hymns,,71,sux:kišib-ŋal₂[seal-bearer]N sux:si[to-fill]V sux:a-a[father]N sux:Enlil[1]DN sux:me[essence]N sux:nam-gal[greatness]N sux:šu[hand]N sux:du₇[to-be-perfect]V
-c.4.80.1,The temple hymns,,72,sux:ŋal₂[to-be-(located)]V sux:saŋ[head]N sux:ri[to-direct]V sux:palil[foremost]AJ sux:a-a[father]N sux:Enlil[1]DN
-c.4.80.1,The temple hymns,,73,sux:saŋ-kal[foremost]AJ sux:piriŋ[lion]N sux:kur[(mountain)-land]N sux:gal[to-be-big]V sux:tud[to-give-birth]V
-c.4.80.1,The temple hymns,,74,sux:kur[(mountain)-land]N sux:gu₂-erim₂-ŋal₂[hostile]AJ sux:gul[to-destroy]V sux:en[lord]N sux:Ninurta[1]DN
-c.4.80.1,The temple hymns,,75,sux:E-šu-me-ša[1]TN sux:muš₃[flat-space]N sux:e₂[house(hold)]N sux:gub[to-stand]V sux:barag[dais]N sux:dur₂[rump]N sux:ŋar[to-place]V
-c.4.80.1,The temple hymns,,76,sux:15[15]NU sux:e₂[house(hold)]N sux:Ninurta[1]DN sux:Nibru[1]SN
-c.4.80.1,The temple hymns,,77,sux:E-ŋa-duda[1]TN sux:saŋ[head]N sux:il₂[to-raise]V
-c.4.80.1,The temple hymns,,78,sux:men[diadem]N sux:an-edin[high-plain]N sux:ki[place]N sux:kug[shining]AJ sux:ki[place]N sux:sikil[to-be-pure]V
-c.4.80.1,The temple hymns,,79,sux:e₂[house(hold)]N sux:temen[foundation]N sux:dim[(cosmic)-post]N sux:gal[to-be-big]V sux:nun[prince]N
-c.4.80.1,The temple hymns,,80,sux:nin[lady]N sux:munus[woman]N sux:dili[single]AJ sux:ŋa₂[house(hold)]N sux:barag[dais]N sux:si[to-fill]V
-c.4.80.1,The temple hymns,,81,sux:Du-saŋ-dili[1]TN sux:muš₃[flat-space]N sux:nun[prince]N sux:ul[bud]N sux:šar₂[to-be-numerous]V
-c.4.80.1,The temple hymns,,82,sux:nun[prince]N sux:šag₄[heart]N sux:dab₅[to-seize]V sux:dirig[to-be-superior]V sux:gal-zu[skilful]AJ
-c.4.80.1,The temple hymns,,83,sux:dumu[child]N sux:nun[prince]N sux:kur[(mountain)-land]N sux:gal[to-be-big]V sux:gu₂[neck]N sux:mar[to-flourish]V
-c.4.80.1,The temple hymns,,84,sux:Šu-zi-ana[1]DN sux:dam[spouse]N sux:ban₃-da[junior]AJ sux:a-a[father]N sux:Enlil[1]DN
-c.4.80.1,The temple hymns,,85,sux:Du-saŋ-dili[1]TN sux:muš₃[flat-space]N sux:e₂[house(hold)]N sux:gub[to-stand]V sux:barag[dais]N sux:dur₂[rump]N sux:ŋar[to-place]V
-c.4.80.1,The temple hymns,,86,sux:9[9]NU sux:e₂[house(hold)]N sux:Šu-zi-ana[1]DN sux:Ŋa-gi-mah[1]TN
-c.4.80.1,The temple hymns,,87,sux:Keš[1]SN sux:uru₁₆[to-be-towering]V sux:ulutim₂[form]N sux:an[heaven]N sux:ki[place]N
-c.4.80.1,The temple hymns,,88,sux:muš-šag₄-tur₃[horned-viper]N sux:gal[to-be-big]V sux:ni₂[fear(someness)]N sux:ri[to-direct]V
-c.4.80.1,The temple hymns,,89,sux:e₂[house(hold)]N sux:Ninhursaŋa[1]DN sux:ki[place]N sux:sumur[to-be-angry]V sux:du₃[to-erect]V
-c.4.80.1,The temple hymns,,90,sux:Keš[1]SN sux:Aratta[1]SN sux:šag₄[heart]N sux:šag₄[heart]N sux:sig[to-be-low]V sux:bar[outside]N sux:il₂[to-raise]V
-c.4.80.1,The temple hymns,,91,sux:ug[lion]N sux:gal[to-be-big]V sux:an-edin[high-plain]N sux:šid[to-count]V sux:edin[open-country]N sux:dag[to-roam-around]V
-c.4.80.1,The temple hymns,,92,sux:hur-saŋ[mountain-(range)]N sux:gal[to-be-big]V sux:mu₇-mu₇[incantation]N sux:ri[to-direct]V
-c.4.80.1,The temple hymns,,93,sux:šag₄[heart]N sux:u₂-sa₁₁-an[evening]N sux:šag₄[heart]N sux:itid[moon(light)]N sux:e₃[to-go-out-or-in]V sux:Nintur[1]DN sux:sig₇[to-be-green]V
-c.4.80.1,The temple hymns,,94,sux:e₂[house(hold)]N sux:Keš[1]SN sux:šeg₁₂[brick(work)]N sux:tud[to-give-birth]V
-c.4.80.1,The temple hymns,,95,sux:gi-gun₄-na[temple-terrace]N sux:suh₁₀[crown]N sux:za-gin₃[lapis-lazuli]N sux:bar[outside]N sux:du₃[to-erect]V
-c.4.80.1,The temple hymns,,96,sux:nun[prince]N sux:nun[prince]N sux:sig₉[to-be-silent]V sux:nin[lady]N sux:zid[right]AJ sux:gal[to-be-big]V sux:an[heaven]N
-c.4.80.1,The temple hymns,,97,sux:dug₄[to-say]V sux:an[heaven]N sux:dub₂[to-tremble]V sux:ka[mouth]N sux:ba[to-allot]V sux:ud[storm]N sux:te-eš[noise]N sux:dug₄[to-say]V
-c.4.80.1,The temple hymns,,98,sux:Aruru[1]DN sux:nin₉[sister]N sux:Enlil[1]DN
-c.4.80.1,The temple hymns,,99,sux:e₂[house(hold)]N sux:Keš[1]SN sux:muš₃[flat-space]N sux:e₂[house(hold)]N sux:gub[to-stand]V sux:barag[dais]N sux:dur₂[rump]N sux:ŋar[to-place]V
-c.4.80.1,The temple hymns,,100,sux:13[13]NU sux:e₂[house(hold)]N sux:Ninhursaŋa[1]DN sux:Keš[1]SN
-c.4.80.1,The temple hymns,,101,sux:Urim[1]SN sux:ninda₂[breeding-bull]N sux:gi[reed]N sux:duru₅[to-be-wet]V sux:gub[to-stand]V
-c.4.80.1,The temple hymns,,102,sux:E-kiš-nu-ŋal[1]TN sux:amar[calf]N sux:ab₂[cow]N sux:gal[to-be-big]V sux:ud[day(light)]N sux:an[heaven]N sux:kug[shining]AJ
-c.4.80.1,The temple hymns,,103,sux:šilam-za[type-of-animal]N sux:ŋiš-bur₂[snare]N sux:gud₃[nest]N sux:nu₂[to-lie-down]V
-c.4.80.1,The temple hymns,,104,sux:Urim[1]SN sux:pisaŋ[basket]N sux:gu₇[to-eat]V sux:kur[(mountain)-land]N
-c.4.80.1,The temple hymns,,105,sux:eš₃[shrine]N sux:ki[place]N sux:sikil[to-be-pure]V sux:uraš[earth]N sux:An[1]DN
-c.4.80.1,The temple hymns,,106,sux:e₂[house(hold)]N sux:Suen[1]DN sux:igi[eye]N sux:nun[prince]N sux:a-ga[rear-(chamber)]N sux:barag[dais]N
-c.4.80.1,The temple hymns,,107,sux:ŋišbun[(cult)-meal]N sux:a-da-ab[type-of-drum-and-composition]N sux:unu₂[(dining)-hall]N sux:gal[to-be-big]V sux:kug[shining]AJ sux:šem₃[type-of-drum]N sux:a₂-la₂[type-of-drum]N
-c.4.80.1,The temple hymns,,108,sux:ud[day(light)]N sux:e₃[to-go-out-or-in]V sux:nam-en[high-(priestly)-office]N sux:zid[right]AJ sux:nam[destiny]N sux:kal[to-be-rare]V
-c.4.80.1,The temple hymns,,109,sux:ŋi₆-par₄[cloister]N sux:eš₃[shrine]N sux:nun[prince]N sux:me[essence]N sux:kug[shining]AJ sux:ud[day(light)]N sux:zal[to-pass]V
-c.4.80.1,The temple hymns,,110,sux:E-kiš-nu-ŋal[1]TN sux:itid[moon(light)]N sux:sah₆[to-withdraw]V sux:kalam[the-Land]N sux:e₃[to-go-out-or-in]V
-c.4.80.1,The temple hymns,,111,sux:ud[day(light)]N sux:1/2[1/2]NU sux:daŋal[to-be-wide]V sux:kur[(mountain)-land]N sux:si[to-fill]V
-c.4.80.1,The temple hymns,,112,sux:e₂[house(hold)]N sux:muš₃[flat-space]N sux:muš-gal[type-of-serpent]N sux:sug[marsh]N sux:muš[snake]N
-c.4.80.1,The temple hymns,,113,sux:temen[foundation]N sux:abzu[underground-water]N sux:50[50]NU sux:engur[subterranean-water]N sux:7[7]NU
-c.4.80.1,The temple hymns,,114,sux:eš₃[shrine]N sux:šag₄[heart]N sux:diŋir[deity]N sux:igi[eye]N sux:ŋal₂[to-be-(located)]V
-c.4.80.1,The temple hymns,,115,sux:nun[prince]N sux:nun[prince]N sux:ka-aš[decision]N sux:bar[to-set-aside]V sux:men[diadem]N sux:an[heaven]N sux:daŋal[to-be-wide]V
-c.4.80.1,The temple hymns,,116,sux:lugal[king]N sux:an[heaven]N sux:Ašimbabbar[1]DN
-c.4.80.1,The temple hymns,,117,sux:eš₃[shrine]N sux:Urim[1]SN sux:muš₃[flat-space]N sux:e₂[house(hold)]N sux:gub[to-stand]V sux:barag[dais]N sux:dur₂[rump]N sux:ŋar[to-place]V
-c.4.80.1,The temple hymns,,118,sux:17[17]NU sux:e₂[house(hold)]N sux:Nanna[1]DN sux:Urim[1]SN
-c.4.80.1,The temple hymns,,119,sux:E-mu-mah[1]TN sux:hur-saŋ[mountain-(range)]N sux:il₂[to-raise]V sux:an[heaven]N
-c.4.80.1,The temple hymns,,120,sux:uš[foundation]N sux:kug[shining]AJ sux:temen[foundation]N sux:gal[to-be-big]V sux:nam[destiny]N sux:kal[to-be-rare]V
-c.4.80.1,The temple hymns,,121,sux:šag₄[heart]N sux:me[essence]N sux:nun[prince]N sux:si[to-fill]V sux:ud[day(light)]N sux:zalag[to-be-shining]V sux:e₃[to-go-out-or-in]V
-c.4.80.1,The temple hymns,,122,sux:eš₃[shrine]N sux:bar[outside]N sux:an[heaven]N sux:sig₇[to-be-green]V sux:igi[eye]N sux:e₃[to-go-out-or-in]V sux:uŋ₃[people]N sux:šar₂[to-be-numerous]V
-c.4.80.1,The temple hymns,,123,sux:kalam[the-Land]N sux:zu₂[tooth]N sux:keše₂[to-bind]V sux:ŋal₂[to-be-(located)]V sux:dub₃-us₂[path]N sux:dili[single]AJ
-c.4.80.1,The temple hymns,,124,sux:id₂[watercourse]N sux:mah[to-be-majestic]V sux:ka[mouth]N sux:ŋal₂[to-open]V sux:taka₄[to-leave-behind]V sux:me[essence]N sux:ur₄[to-collect]V
-c.4.80.1,The temple hymns,,125,sux:ur₂[root]N sux:ni₂[fear(someness)]N sux:gal[to-be-big]V sux:hur-saŋ[mountain-(range)]N sux:zid[right]AJ sux:ki[place]N sux:daŋal[to-be-wide]V sux:mu₂[to-grow]V
-c.4.80.1,The temple hymns,,126,sux:ki-tuš[dwelling-place]N sux:mah[to-be-majestic]V sux:niŋ₂[thing]N sux:mah[to-be-majestic]V sux:me[essence]N sux:šar₂[to-be-numerous]V sux:nam-nun[princeliness]N
-c.4.80.1,The temple hymns,,127,sux:šeg₁₁[loud-noise]N sux:gi₄[to-return]V
-c.4.80.1,The temple hymns,,128,sux:e₂[house(hold)]N sux:giri₁₇-zal[joy]N sux:muš₃[flat-space]N sux:a₂-dam[habitation]N sux:ul[bud]N sux:šar₂[to-be-numerous]V
-c.4.80.1,The temple hymns,,129,sux:e₂[house(hold)]N sux:nun[prince]N sux:Šulgi[1]RN sux:gal[to-be-big]V sux:nun[prince]N
-c.4.80.1,The temple hymns,,130,sux:šu[hand]N sux:du₇[to-be-perfect]V sux:mah-di[illustrious]AJ sux:tum₉[wind]N sux:uru₁₆[to-be-towering]V sux:gal[to-be-big]V
-c.4.80.1,The temple hymns,,131,sux:me[essence]N sux:še-er-ka-an[adornment]N sux:dug₄[to-say]V sux:nam[destiny]N sux:tar[to-cut]V
-c.4.80.1,The temple hymns,,132,sux:E-hursaŋ[1]TN sux:Šulgi[1]RN sux:An[1]DN
-c.4.80.1,The temple hymns,,133,sux:muš₃[flat-space]N sux:e₂[house(hold)]N sux:gub[to-stand]V sux:barag[dais]N sux:dur₂[rump]N sux:ŋar[to-place]V
-c.4.80.1,The temple hymns,,134,sux:15[15]NU sux:tah-hu-um[addition]N sux:E-hursaŋ[1]TN sux:Šulgi[1]RN sux:Urim[1]SN
-c.4.80.1,The temple hymns,,135,sux:iri[town]N sux:abzu[underground-water]N sux:še[barley]N sux:sur[to-drip]V
-c.4.80.1,The temple hymns,,136,sux:edin[open-country]N sux:muru₉[cloud]N sux:šag₄[heart]N sux:me[essence]N sux:šu[hand]N sux:te[to-approach]V
-c.4.80.1,The temple hymns,,137,sux:Kuara[1]SN sux:temen[foundation]N sux:unu₂[(dining)-hall]N sux:zid[right]AJ
-c.4.80.1,The temple hymns,,138,sux:en[lord]N sux:niŋ₂-šu[goods]N sux:gi₄[to-return]V sux:u₆[wonder]N sux:gub[to-stand]V
-c.4.80.1,The temple hymns,,139,sux:abgal[sage]N sux:7[7]NU sux:sig[to-be-low]V sux:nim[upper-(land)]N sux:šu[hand]N sux:mu₂[to-grow]V
-c.4.80.1,The temple hymns,,140,sux:nun[prince]N sux:nun[prince]N sux:kal[to-be-rare]V sux:Asarluhi[1]DN sux:lu₂[person]N sux:kal[to-be-rare]V
-c.4.80.1,The temple hymns,,141,sux:ur-saŋ[hero]N sux:nun[prince]N sux:gir₁₅[noble]AJ sux:tud[to-give-birth]V sux:nemurₓ[leopard]N sux:kar[to-flee]V sux:dib[to-pass]V
-c.4.80.1,The temple hymns,,142,sux:ud[storm]N sux:du₇[to-push]V sux:ki-bal[rebel-land]N sux:du₇[to-push]V
-c.4.80.1,The temple hymns,,143,sux:en-na[as-long-as]C sux:še[to-agree]V sux:eme[tongue]N sux:sig[to-be-low]V sux:nu₂[to-lie-down]V
-c.4.80.1,The temple hymns,,144,sux:Asar-alim-nuna[1]DN sux:dumu[child]N sux:abzu[underground-water]N
-c.4.80.1,The temple hymns,,145,sux:e₂[house(hold)]N sux:Kuara[1]SN sux:muš₃[flat-space]N sux:e₂[house(hold)]N sux:gub[to-stand]V sux:barag[dais]N sux:dur₂[rump]N sux:ŋar[to-place]V
-c.4.80.1,The temple hymns,,146,sux:11[11]NU sux:e₂[house(hold)]N sux:Asarluhi[1]DN sux:Kuara[1]SN
-c.4.80.1,The temple hymns,,147,sux:E-gud-du-šar[1]TN sux:nir₂[type-of-stone]N sux:kug[shining]AJ sux:lugal[king]N sux:u₅[to-ride]V
-c.4.80.1,The temple hymns,,148,sux:ŋiš-bur₂[architectural-feature]N sux:mah[to-be-majestic]V sux:il₂[to-raise]V sux:dumu[child]N sux:nun[prince]N
-c.4.80.1,The temple hymns,,149,sux-x-emesal:u₅[fatty-substance]N sux:li[fine]AJ sux:dug₃[to-be-good]V sux:kug[shining]AJ sux:dug₃[to-be-good]V sux:ŋal₂[to-be-(located)]V
-c.4.80.1,The temple hymns,,150,sux:Ŋa-bura[1]TN sux:tur₃[animal-stall]N sux:kug[shining]AJ sux:ab₂[cow]N sux:munzer[licorice]N sux:niŋin₂[to-go-around]V
-c.4.80.1,The temple hymns,,151,sux:nun[prince]N sux:am[wild-bull]N sux:gal[to-be-big]V sux:am-si[elephant]N sux:a₂[arm]N sux:hul₂[to-be-happy]V
-c.4.80.1,The temple hymns,,152,sux:sumun₂[wild-cow]N sux:si[horn]N sux:mu₂[to-grow]V sux:si-muš₃[brilliance]N sux:hul₂[to-be-happy]V
-c.4.80.1,The temple hymns,,153,sux:maš-maš[sorcerer]N sux:eme[tongue]N sux:ha-mun[harmony]N sux:dungu[cloud]N sux:an[heaven]N sux:DU[DU]V
-c.4.80.1,The temple hymns,,154,sux:ud[storm]N sux:an[heaven]N sux:gu₃[voice]N sux:mur[to-growl]V sux:ak[to-do]V sux:ud[day(light)]N sux:ki[place]N sux:šu[hand]N sux:ra[to-beat]V sux:šum₂[to-give]V
-c.4.80.1,The temple hymns,,155,sux:Ningublaga[1]DN sux:dumu[child]N sux:Nanna[1]DN
-c.4.80.1,The temple hymns,,156,sux:Ki-abrig[1]SN sux:muš₃[flat-space]N sux:e₂[house(hold)]N sux:gub[to-stand]V sux:barag[dais]N sux:dur₂[rump]N sux:ŋar[to-place]V
-c.4.80.1,The temple hymns,,157,sux:10[10]NU sux:e₂[house(hold)]N sux:Ningublaga[1]DN sux:Ki-abrig[1]SN
-c.4.80.1,The temple hymns,,158,sux:eš₃[shrine]N sux:agrun[cella]N sux:gal[to-be-big]V sux:tur₃[animal-stall]N sux:ri[to-direct]V
-c.4.80.1,The temple hymns,,159,sux:iri[town]N sux:ban₃-da[junior]AJ sux:sud-aŋ₂[brilliance]N sux:Suen[1]DN
-c.4.80.1,The temple hymns,,160,sux:Kar-zida[1]TN sux:šag₄[heart]N sux:ki[place]N sux:uru₁₆[to-be-towering]V sux:temen[foundation]N sux:kug[shining]AJ sux:šen[to-be-pure]V
-c.4.80.1,The temple hymns,,161,sux:eš₃[shrine]N sux:ŋi₆-par₄[cloister]N sux:sikil[to-be-pure]V sux:ŋar[to-place]V
-c.4.80.1,The temple hymns,,162,sux:ig[door]N sux:urud[copper]N sux:niŋ₂[thing]N sux:kalag[to-be-strong]V sux:ki[place]N sux:gal[to-be-big]V sux:ŋar[to-place]V
-c.4.80.1,The temple hymns,,163,sux:tur₃[animal-stall]N sux:gu₃[voice]N sux:nun[prince]N sux:ninda₂[breeding-bull]N sux:si[horn]N sux:il₂[to-raise]V
-c.4.80.1,The temple hymns,,164,sux:nun[prince]N sux:en[lord]N sux:an[heaven]N sux:ul[bud]N sux:šar₂[to-be-numerous]V sux:gub[to-stand]V
-c.4.80.1,The temple hymns,,165,sux:an-bar₇[midday]N sux:sud[to-be-distant]V sux:gaba[chest]N sux:bur₂[to-release]V
-c.4.80.1,The temple hymns,,166,sux:Kar-zida[1]TN sux:Ašimbabbar[1]DN
-c.4.80.1,The temple hymns,,167,sux:muš₃[flat-space]N sux:e₂[house(hold)]N sux:gub[to-stand]V sux:barag[dais]N sux:dur₂[rump]N sux:ŋar[to-place]V
-c.4.80.1,The temple hymns,,168,sux:10[10]NU sux:e₂[house(hold)]N sux:Nanna[1]DN sux:Gaeš[1]SN
-c.4.80.1,The temple hymns,,169,sux:e₂[house(hold)]N sux:an[heaven]N sux:e₃[to-go-out-or-in]V sux:dalla[to-be-bright]V sux:e₃[to-go-out-or-in]V sux:Kulaba[1]SN
-c.4.80.1,The temple hymns,,170,sux:eš₃[shrine]N sux:E-babbar[1]TN sux:ninda₂[breeding-bull]N sux:babbar[white]AJ
-c.4.80.1,The temple hymns,,171,sux:gu₂[neck]N sux:Utu[1]DN sux:an[heaven]N sux:te[to-approach]V
-c.4.80.1,The temple hymns,,172,sux:si-muš₃[brilliance]N sux:ma-sila₃[heel]N sux:tu₁₁[to-strike-down]V sux:kug[shining]AJ sux:za-gin₃[lapis-lazuli]N
-c.4.80.1,The temple hymns,,173,sux:sun₄[beard]N sux:za-gin₃[lapis-lazuli]N sux:duru₅[to-be-wet]V sux:la₂[to-hang]V
-c.4.80.1,The temple hymns,,174,sux:nun[prince]N sux:ud[day(light)]N sux:uru₁₆[to-be-towering]V sux:en[lord]N sux:gu₃[voice]N sux:zid[right]AJ
-c.4.80.1,The temple hymns,,175,sux:an-ur₂[horizon]N sux:zalag[to-be-shining]V sux:an-pa[zenith]N sux:zalag[to-be-shining]V
-c.4.80.1,The temple hymns,,176,sux:Utu[1]DN sux:lugal[king]N sux:E-babbar[1]TN
-c.4.80.1,The temple hymns,,177,sux:e₂[house(hold)]N sux:Larsam[1]SN sux:muš₃[flat-space]N sux:e₂[house(hold)]N sux:gub[to-stand]V sux:barag[dais]N sux:dur₂[rump]N sux:ŋar[to-place]V
-c.4.80.1,The temple hymns,,178,sux:9[9]NU sux:e₂[house(hold)]N sux:Utu[1]DN sux:Larsam[1]SN
-c.4.80.1,The temple hymns,,179,sux:Enegir[1]SN sux:a-pap[(libation)-pipe]N sux:gal[to-be-big]V sux:a-pap[(libation)-pipe]N sux:ki[place]N sux:Ereškigala[1]DN
-c.4.80.1,The temple hymns,,180,sux:Gudua[1]SN sux:Sumer[1]GN sux:gu₂[neck]N sux:si[to-fill]V sux:nam-lu₂-ulu₃[humanity]N
-c.4.80.1,The temple hymns,,181,sux:E-gida[1]TN sux:ŋissu[(protective)-shade]N sux:nun[prince]N sux:kur[(mountain)-land]N sux:kur[(mountain)-land]N sux:la₂[to-hang]V
-c.4.80.1,The temple hymns,,182,sux:nun[prince]N sux:a[water]N sux:en[lord]N sux:gal[to-be-big]V sux:šita[type-of-priest]N sux:ki[place]N sux:gal[to-be-big]V sux:Ereškigala[1]DN sux:tud[to-give-birth]V
-c.4.80.1,The temple hymns,,183,sux:gu₃[voice]N sux:nun[prince]N sux:za-na-ru[type-of-instrument]N sux:šu[hand]N sux:tag[to-touch]V sux:amar[calf]N sux:ad[voice]N sux:sag₉[to-be-good]V
-c.4.80.1,The temple hymns,,184,sux:Ninazu[1]DN sux:inim[word]N sux:šudu₃[prayer]N
-c.4.80.1,The temple hymns,,185,sux:e₂[house(hold)]N sux:Enegir[1]SN sux:muš₃[flat-space]N sux:e₂[house(hold)]N sux:gub[to-stand]V sux:barag[dais]N sux:dur₂[rump]N sux:ŋar[to-place]V
-c.4.80.1,The temple hymns,,186,sux:7[7]NU sux:e₂[house(hold)]N sux:Ninazu[1]DN sux:Enegir[1]SN
-c.4.80.1,The temple hymns,,187,sux:ki[place]N sux:ul[distant-time]N sux:kur[(mountain)-land]N sux:sig[to-be-low]V sux:galam[to-be-skilful]V sux:ŋar[to-place]V
-c.4.80.1,The temple hymns,,188,sux:itima[(sleeping)-chamber]N sux:ki[place]N sux:huš[to-be-reddish]V sux:šag₄-tum₂[meadow]N sux:ri[to-direct]V
-c.4.80.1,The temple hymns,,189,sux:su[flesh]N sux:zig₃[to-rise]V sux:a-ra₂[way]N sux:mah[to-be-majestic]V sux:lu₂[person]N sux:pad₃[to-find]V
-c.4.80.1,The temple hymns,,190,sux:Ŋišbanda[1]SN sux:si-ŋar[clamp]N sux:igi-te-en[mesh]N sux:gana₂[shackle]N sux:ki[place]N sux:gal[to-be-big]V sux:ŋiri₃[foot]N sux:ed₃[to-go-down-or-up]V
-c.4.80.1,The temple hymns,,191,sux:bar[outside]N sux:gi₄[to-return]V sux:nim[upper-(land)]N sux:es₂-ad[trap]N sux:rib[to-be-outstanding]V
-c.4.80.1,The temple hymns,,192,sux:šag₄[heart]N sux:ki[place]N sux:ud[day(light)]N sux:e₃[to-go-out-or-in]V sux:nam-he₂[abundance]N sux:daŋal[to-be-wide]V sux:šum₂[to-give]V
-c.4.80.1,The temple hymns,,193,sux:nun[prince]N sux:nun[prince]N sux:šu[hand]N sux:sikil[to-be-pure]V sux:gid₂[to-be-long]V sux:kug[shining]AJ sux:an[heaven]N
-c.4.80.1,The temple hymns,,194,sux:siki[hair]N sux:ul[to-swell-(with-joy)]V sux:he-nun[abundance]N sux:bar[outside]N sux:ŋal₂[to-be-(located)]V sux:en[lord]N sux:Ninŋišzida[1]DN
-c.4.80.1,The temple hymns,,195,sux:Ninŋišzida[1]DN sux:Ŋišbanda[1]SN
-c.4.80.1,The temple hymns,,196,sux:muš₃[flat-space]N sux:e₂[house(hold)]N sux:gub[to-stand]V sux:barag[dais]N sux:dur₂[rump]N sux:ŋar[to-place]V
-c.4.80.1,The temple hymns,,197,sux:10[10]NU sux:e₂[house(hold)]N sux:Ninŋišzida[1]DN sux:Ŋišbanda[1]SN
-c.4.80.1,The temple hymns,,198,sux:e₂[house(hold)]N sux:me[essence]N sux:gal[to-be-big]V sux:Kulaba[1]SN sux:muš₃[flat-space]N sux:eš₃[shrine]N sux:gal[to-be-big]V sux:mu₂[to-grow]V
-c.4.80.1,The temple hymns,,199,sux:gibil[to-be-new]V sux:gurun[fruit]N sux:sig₇[to-be-green]V sux:u₆[wonder]N sux:dug₄[to-say]V sux:hi-li[attractiveness]N sux:guru₃[to-bear]V
-c.4.80.1,The temple hymns,,200,sux:an-šag₄[interior-of-heaven]N sux:ed₃[to-go-down-or-up]V sux:eš₃[shrine]N sux:gud[bull]N sux:du₃[to-erect]V
-c.4.80.1,The temple hymns,,201,sux:E-ana[1]TN sux:e₂[house(hold)]N sux:ub[corner]N sux:7[7]NU sux:izi[fire]N sux:7[7]NU sux:ŋi₆[night]N sux:u₃-na[designation-of-night]N sux:il₂[to-raise]V
-c.4.80.1,The temple hymns,,202,sux:kurku₂[desire]N sux:7[7]NU sux:igi[eye]N sux:ŋal₂[to-be-(located)]V
-c.4.80.1,The temple hymns,,203,sux:nun[prince]N sux:an-ur₂[horizon]N sux:sikil[to-be-pure]V
-c.4.80.1,The temple hymns,,204,sux:nin[lady]N sux:Inana[1]DN sux:niŋ₂[thing]N sux:bur[type-of-bowl]N
-c.4.80.1,The temple hymns,,205,sux:munus[woman]N sux:še-er-ka-an[adornment]N sux:dug₄[to-say]V sux:nitah[male]N sux:saŋ[head]N sux:tug₂[garment]N sux:dul[to-cover-(together)]V
-c.4.80.1,The temple hymns,,206,sux:suh₁₀[crown]N sux:kurku₂[desire]N sux:za-gin₃[lapis-lazuli]N sux:ušumgal[type-of-serpent]N sux:niŋin₃-ŋar[shrine-associated-with-Inana]N
-c.4.80.1,The temple hymns,,207,sux:UN-gal[ruler]N sux:an[heaven]N sux:ki[place]N sux:Inana[1]DN
-c.4.80.1,The temple hymns,,208,sux:E-ana[1]TN sux:muš₃[flat-space]N sux:e₂[house(hold)]N sux:gub[to-stand]V sux:barag[dais]N sux:dur₂[rump]N sux:ŋar[to-place]V
-c.4.80.1,The temple hymns,,209,sux:11[11]NU sux:e₂[house(hold)]N sux:Inana[1]DN sux:Unug[1]SN
-c.4.80.1,The temple hymns,,210,sux:e₂[house(hold)]N sux:u₂[plant]N sux:za-gin₃[lapis-lazuli]N sux:ŋiš-nu₂[bed]N sux:gi-rin[blossom]N sux:barag₂[to-spread-out]V
-c.4.80.1,The temple hymns,,211,sux:e₂-nu₂-da[bedchamber]N sux:kug[shining]AJ sux:Inana[1]DN
-c.4.80.1,The temple hymns,,212,sux:ki[place]N sux:šag₄[heart]N sux:kuš₂[to-be-tired]V sux:in-nin[mistress]N sux:edin[open-country]N
-c.4.80.1,The temple hymns,,213,sux:šeg₁₂[brick(work)]N sux:E-muš[1]TN sux:gi-rin[blossom]N sux:kug[shining]AJ sux:im[clay]N sux:ŋar[to-place]V
-c.4.80.1,The temple hymns,,214,sux:an-edin[high-plain]N sux:u₈[ewe]N sux:lu[to-be-abundant]V
-c.4.80.1,The temple hymns,,215,sux:an-BAD₃[meaning-unknown]N sux:e₂[house(hold)]N sux:Arali[1]GN sux:sipad[shepherd]N sux:la₂[to-hang]V
-c.4.80.1,The temple hymns,,216,sux:nun[prince]N sux:piriŋ[lion]N sux:dib[to-pass]V sux:edin[open-country]N sux:šuba[agate?]N sux:nu-u₈-gig[high-status-woman]N
-c.4.80.1,The temple hymns,,217,sux:gaba[chest]N sux:kug[shining]AJ sux:u₆[wonder]N sux:dug₄[to-say]V sux:en[lord]N sux:dam[spouse]N sux:kug[shining]AJ sux:Inana[1]DN
-c.4.80.1,The temple hymns,,218,sux:Dumuzid[1]DN sux:lugal[king]N sux:E-muš[1]TN
-c.4.80.1,The temple hymns,,219,sux:Bad-tibira[1]SN sux:muš₃[flat-space]N sux:e₂[house(hold)]N sux:gub[to-stand]V sux:barag[dais]N sux:dur₂[rump]N sux:ŋar[to-place]V
-c.4.80.1,The temple hymns,,220,sux:10[10]NU sux:e₂[house(hold)]N sux:Dumuzid[1]DN sux:Bad-tibira[1]SN
-c.4.80.1,The temple hymns,,221,sux:E-igizu-uru[1]TN sux:šag₄[heart]N sux:nam-he₂[abundance]N
-c.4.80.1,The temple hymns,,222,sux:e₂[house(hold)]N sux:niŋ₂[thing]N sux:ŋar[to-place]V sux:kur[(mountain)-land]N sux:gal[to-be-big]V
-c.4.80.1,The temple hymns,,223,sux:e₂[house(hold)]N sux:šim[aromatic-(fragrance)]N sux:kur[(mountain)-land]N sux:ŋeštin[grape-(wine)]N
-c.4.80.1,The temple hymns,,224,sux:sukkal[minister]N sux:zid[right]AJ sux:kingal[leader]N sux:an[heaven]N
-c.4.80.1,The temple hymns,,225,sux:e₂[house(hold)]N sux:nun[prince]N sux:palil[foremost]AJ sux:diŋir[deity]N
-c.4.80.1,The temple hymns,,226,sux:sukkal[minister]N sux:zid[right]AJ sux:E-ana[1]TN sux:ŋidru[sceptre]N sux:kug[shining]AJ sux:šu[hand]N sux:du₇[to-be-perfect]V
-c.4.80.1,The temple hymns,,227,sux:Ninšubur[1]DN sux:sukkal[minister]N sux:zid[right]AJ sux:E-ana[1]TN
-c.4.80.1,The temple hymns,,228,sux:E-akkil[1]TN sux:muš₃[flat-space]N sux:e₂[house(hold)]N sux:gub[to-stand]V sux:barag[dais]N sux:dur₂[rump]N sux:ŋar[to-place]V
-c.4.80.1,The temple hymns,,229,sux:8[8]NU sux:e₂[house(hold)]N sux:Ninšubur[1]DN sux:Akkil[1]SN
-c.4.80.1,The temple hymns,,230,sux:iri[town]N sux:abzu[underground-water]N sux:barag[dais]N sux:ri[to-direct]V sux:nam-išib[type-of-priestcraft]N sux:ŋar[to-place]V
-c.4.80.1,The temple hymns,,231,sux:e₂[house(hold)]N sux:mu₇-mu₇[incantation]N sux:an[heaven]N sux:ki[place]N sux:šid[to-count]V
-c.4.80.1,The temple hymns,,232,sux:sud[to-be-distant]V
-c.4.80.1,The temple hymns,,233,sux:gal[to-be-big]V sux:dam[spouse]N
-c.4.80.1,The temple hymns,,234,sux:a₂-ŋal₂[strong]AJ
+c.4.80.1,The temple hymns,,1,E-unir[1]TN an[heaven]N ki[place]N mu₂[to-grow]V
+c.4.80.1,The temple hymns,,2,temen[foundation]N an[heaven]N ki[place]N unu₂[(dining)-hall]N gal[to-be-big]V Eridug[1]SN
+c.4.80.1,The temple hymns,,3,Abzu[1]TN eš₃[shrine]N nun[prince]N gub[to-stand]V
+c.4.80.1,The temple hymns,,4,E-du-kug[1]TN u₂[plant]N sikil[to-be-pure]V rig₇[to-bestow]V
+c.4.80.1,The temple hymns,,5,pa₅[canal]N sikil[to-be-pure]V nun[prince]N a[water]N naŋ[to-drink]V
+c.4.80.1,The temple hymns,,6,kur[(mountain)-land]N ki[place]N sikil[to-be-pure]V naŋa[potash]N dub₂[to-tremble]V dug₄[to-say]V
+c.4.80.1,The temple hymns,,7,Abzu[1]TN tigi[type-of-instrument-and-composition]N me[essence]N
+c.4.80.1,The temple hymns,,8,bad₃[wall]N gal[to-be-big]V šu[hand]N si[horn]N sa₂[to-equal]V
+c.4.80.1,The temple hymns,,9,kilib₃-ŋal₂[assembly]N ki[place]N diŋir[deity]N til₃[to-live]V
+c.4.80.1,The temple hymns,,10,kiŋ₂[work]N gal[to-be-big]V kiŋ₂[work]N ki[place]N dug₃[to-be-good]V ud[day(light)]N dib[to-pass]V
+c.4.80.1,The temple hymns,,11,e₂[house(hold)]N zag[side]N keše₂[to-bind]V šita[supplication]N sa₂[to-equal]V dug₄[to-say]V
+c.4.80.1,The temple hymns,,12,nun[prince]N nun[prince]N gal[to-be-big]V men[diadem]N kug[shining]AJ
+c.4.80.1,The temple hymns,,13,muš₃[flat-space]N gen₆[to-be-firm]V Eridug[1]SN saŋ-men[type-of-crown]N ŋal₂[to-be-(located)]V
+c.4.80.1,The temple hymns,,14,kiši₁₆[acacia]N mu₂[to-grow]V kiši₁₆[acacia]N sikil[to-be-pure]V ed₃[to-go-down-or-up]V susbu[type-of-priest]N
+c.4.80.1,The temple hymns,,15,eš₃[shrine]N Abzu[1]TN ki[place]N ki[place]N gal[to-be-big]V
+c.4.80.1,The temple hymns,,16,ki[place]N Utu[1]DN gu₃[voice]N de₂[to-pour]V
+c.4.80.1,The temple hymns,,17,gir₄[oven]N ninda[bread]N il₂[to-raise]V u₂[plant]N sug₄[to-be-full]V
+c.4.80.1,The temple hymns,,18,u₆-nir[ziggurat]N eš₃[shrine]N mah[to-be-majestic]V an[heaven]N us₂[to-be-adjacent]V
+c.4.80.1,The temple hymns,,19,gir₄[oven]N gal[to-be-big]V unu₂[(dining)-hall]N gal[to-be-big]V sa₂[to-equal]V
+c.4.80.1,The temple hymns,,20,nun[prince]N nun[prince]N an[heaven]N ki[place]N kur₂[to-be-different]V
+c.4.80.1,The temple hymns,,21,dug₄[to-say]V saŋ[head]N du₃[to-erect]V ŋeštug₂[ear]N de₅[to-collect]V
+c.4.80.1,The temple hymns,,22,en[lord]N Nudimmud[1]DN
+c.4.80.1,The temple hymns,,23,E-engura[1]TN muš₃[flat-space]N e₂[house(hold)]N gub[to-stand]V barag[dais]N dur₂[rump]N ŋar[to-place]V
+c.4.80.1,The temple hymns,,24,23[23]NU e₂[house(hold)]N Enki[1]DN Eridug[1]SN
+c.4.80.1,The temple hymns,,25,eš₃[shrine]N nam[destiny]N tar[to-cut]V
+c.4.80.1,The temple hymns,,26,temen[foundation]N u₆-nir[ziggurat]N il₂[to-raise]V
+c.4.80.1,The temple hymns,,27,a₂-dam[habitation]N Enlil[1]DN
+c.4.80.1,The temple hymns,,28,zid[right]AJ gabu₂[left-(side)]N Sumer[1]GN Akkad[1]GN
+c.4.80.1,The temple hymns,,29,e₂[house(hold)]N Enlil[1]DN šag₄[heart]N ten[to-extinguish]V bar[outside]N nam[destiny]N tar[to-cut]V
+c.4.80.1,The temple hymns,,30,zag-du₈[doorjamb]N a-sal-bar[architrave?]N kur-bad₃[mountain-peak]N
+c.4.80.1,The temple hymns,,31,dub-la₂[(doorpost)-platform]N zag[side]N e₃[to-go-out-or-in]V kur[(mountain)-land]N me-te-ŋal₂[seemly]AJ
+c.4.80.1,The temple hymns,,32,muš₃[flat-space]N nun[prince]N
+c.4.80.1,The temple hymns,,33,ur₂[root]N an[heaven]N ki[place]N kuš₂[to-be-tired]V
+c.4.80.1,The temple hymns,,34,nun[prince]N nun[prince]N gal[to-be-big]V Enlil[1]DN en[lord]N dug₃[to-be-good]V
+c.4.80.1,The temple hymns,,35,en[lord]N zag[side]N an[heaven]N en[lord]N nam[destiny]N tar[to-cut]V
+c.4.80.1,The temple hymns,,36,eš₃[shrine]N Nibru[1]SN kur[(mountain)-land]N gal[to-be-big]V Enlil[1]DN
+c.4.80.1,The temple hymns,,37,muš₃[flat-space]N e₂[house(hold)]N gub[to-stand]V barag[dais]N dur₂[rump]N ŋar[to-place]V
+c.4.80.1,The temple hymns,,38,13[13]NU e₂[house(hold)]N Enlil[1]DN Nibru[1]SN
+c.4.80.1,The temple hymns,,39,Tummal[1]TN me[essence]N nun[prince]N gal[to-be-big]V pad₃[to-find]V ni₂[fear(someness)]N su[flesh]N zig₃[to-rise]V ri[to-direct]V
+c.4.80.1,The temple hymns,,40,temen[foundation]N šu-luh[ritual-cleansing]N sikil[to-be-pure]V abzu[underground-water]N la₂[to-hang]V
+c.4.80.1,The temple hymns,,41,iri[town]N ul[distant-time]N ŋiš-gi[reedbed]N gi[reed]N sumun[to-be-old]V gi[reed]N henbur[shoot]N sig₇[to-be-green]V
+c.4.80.1,The temple hymns,,42,šag₄[heart]N kur[(mountain)-land]N he₂-ŋal₂[plenty]N nam-he₂[abundance]N du₃[to-erect]V
+c.4.80.1,The temple hymns,,43,itid[moon(light)]N zag-mu[new-year]N ezen[festival]N ŋal₂[to-be-(located)]V u₆[wonder]N dug₄[to-say]V tag[to-touch]V
+c.4.80.1,The temple hymns,,44,nin[lady]N gal[to-be-big]V Ki-ur[1]TN Enlil[1]DN zag[side]N sa₂[to-equal]V
+c.4.80.1,The temple hymns,,45,nun[prince]N ama[mother]N Ninlil[1]DN nitalam[spouse]N ki[place]N aŋ₂[to-measure]V Nunamnir[1]DN
+c.4.80.1,The temple hymns,,46,E-Tummal[1]TN muš₃[flat-space]N e₂[house(hold)]N gub[to-stand]V barag[dais]N dur₂[rump]N ŋar[to-place]V
+c.4.80.1,The temple hymns,,47,8[8]NU e₂[house(hold)]N Ninlil[1]DN Nibru[1]SN
+c.4.80.1,The temple hymns,,48,E-melem-huš[1]TN ni₂[fear(someness)]N gal[to-be-big]V guru₃[to-bear]V
+c.4.80.1,The temple hymns,,49,Eš-mah[1]TN me[essence]N nun[prince]N an[heaven]N bar[to-set-aside]V
+c.4.80.1,The temple hymns,,50,šutum[storehouse]N Enlil[1]DN me[essence]N ul[distant-time]N ŋar[to-place]V nir[authority]N tum₂[to-be-suitable]V
+c.4.80.1,The temple hymns,,51,nam-nun[princeliness]N saŋ[head]N il₂[to-raise]V na[advice]N de₅[to-collect]V E-kur[1]TN
+c.4.80.1,The temple hymns,,52,zag-e₃[buttress]N si[horn]N e₂[house(hold)]N muš₃[flat-space]N an[heaven]N
+c.4.80.1,The temple hymns,,53,eš-bar[decision]N ki[place]N di[(law)suit]N gal[to-be-big]V kud[to-cut]V id₂-lu₂-ru-gu₂[ordeal-river]N
+c.4.80.1,The temple hymns,,54,zid-du[righteous]AJ tud[to-give-birth]V šag₄[heart]N erim₂-ŋal₂[evil]AJ mud[blood]N niŋin₂[to-go-around]V
+c.4.80.1,The temple hymns,,55,ki[place]N gal[to-be-big]V šu-luh[ritual-cleansing]N sikil[to-be-pure]V nam-išib[type-of-priestcraft]N du₇[to-be-perfect]V
+c.4.80.1,The temple hymns,,56,en[lord]N Nunamnir[1]DN u₂[plant]N sug₄[to-be-full]V
+c.4.80.1,The temple hymns,,57,nun[prince]N nun[prince]N šag₄[heart]N kuš₂[to-be-tired]V Enlil[1]DN Eš-mah[1]TN tum₂[to-be-suitable]V
+c.4.80.1,The temple hymns,,58,udug[type-of-demon]N E-kur[1]TN kingal[leader]N Nuska[1]DN
+c.4.80.1,The temple hymns,,59,e₂[house(hold)]N Enlil[1]DN muš₃[flat-space]N e₂[house(hold)]N gub[to-stand]V barag[dais]N dur₂[rump]N ŋar[to-place]V
+c.4.80.1,The temple hymns,,60,12[12]NU e₂[house(hold)]N Nuska[1]DN Nibru[1]SN
+c.4.80.1,The temple hymns,,61,E-me-ur-ana[1]TN ki[place]N gal[to-be-big]V gub[to-stand]V
+c.4.80.1,The temple hymns,,62,me[essence]N zid[right]AJ ur-saŋ[hero]N iri[town]N barag[dais]N ki[place]N mu₂[to-grow]V
+c.4.80.1,The temple hymns,,63,a₂[arm]N me₃[battle]N mitum[type-of-weapon]N šul[young-man]N mar-uru₅[quiver]N guru₃[to-bear]V
+c.4.80.1,The temple hymns,,64,šeg₁₂[brick(work)]N uru₁₆[to-be-towering]V silig[to-cease]V temen[foundation]N ud[day(light)]N til₃[to-live]V
+c.4.80.1,The temple hymns,,65,en[lord]N ul[distant-time]N ŋar[to-place]V eš-bar[decision]N me[essence]N nun[prince]N
+c.4.80.1,The temple hymns,,66,sahar[earth]N kug[shining]AJ kur[(mountain)-land]N si[to-fill]V saŋ[head]N il₂[to-raise]V nun[prince]N
+c.4.80.1,The temple hymns,,67,e₂[house(hold)]N mah[to-be-majestic]V u₆[wonder]N e₃[to-go-out-or-in]V ud[day(light)]N muš₃[flat-space]N barag₂[to-spread-out]V
+c.4.80.1,The temple hymns,,68,E-šu-me-ša[1]TN mu[name]N Enlil[1]DN ni₂[fear(someness)]N huš[to-be-reddish]V ri[to-direct]V
+c.4.80.1,The temple hymns,,69,nun[prince]N gal[to-be-big]V ur-saŋ[hero]N ne₃[strength]N zag[side]N dib[to-pass]V
+c.4.80.1,The temple hymns,,70,ensi₂[(city)-ruler]N gal[to-be-big]V Enlil[1]DN nir[authority]N an[heaven]N ki[place]N zag[side]N sa₂[to-equal]V
+c.4.80.1,The temple hymns,,71,kišib-ŋal₂[seal-bearer]N si[to-fill]V a-a[father]N Enlil[1]DN me[essence]N nam-gal[greatness]N šu[hand]N du₇[to-be-perfect]V
+c.4.80.1,The temple hymns,,72,ŋal₂[to-be-(located)]V saŋ[head]N ri[to-direct]V palil[foremost]AJ a-a[father]N Enlil[1]DN
+c.4.80.1,The temple hymns,,73,saŋ-kal[foremost]AJ piriŋ[lion]N kur[(mountain)-land]N gal[to-be-big]V tud[to-give-birth]V
+c.4.80.1,The temple hymns,,74,kur[(mountain)-land]N gu₂-erim₂-ŋal₂[hostile]AJ gul[to-destroy]V en[lord]N Ninurta[1]DN
+c.4.80.1,The temple hymns,,75,E-šu-me-ša[1]TN muš₃[flat-space]N e₂[house(hold)]N gub[to-stand]V barag[dais]N dur₂[rump]N ŋar[to-place]V
+c.4.80.1,The temple hymns,,76,15[15]NU e₂[house(hold)]N Ninurta[1]DN Nibru[1]SN
+c.4.80.1,The temple hymns,,77,E-ŋa-duda[1]TN saŋ[head]N il₂[to-raise]V
+c.4.80.1,The temple hymns,,78,men[diadem]N an-edin[high-plain]N ki[place]N kug[shining]AJ ki[place]N sikil[to-be-pure]V
+c.4.80.1,The temple hymns,,79,e₂[house(hold)]N temen[foundation]N dim[(cosmic)-post]N gal[to-be-big]V nun[prince]N
+c.4.80.1,The temple hymns,,80,nin[lady]N munus[woman]N dili[single]AJ ŋa₂[house(hold)]N barag[dais]N si[to-fill]V
+c.4.80.1,The temple hymns,,81,Du-saŋ-dili[1]TN muš₃[flat-space]N nun[prince]N ul[bud]N šar₂[to-be-numerous]V
+c.4.80.1,The temple hymns,,82,nun[prince]N šag₄[heart]N dab₅[to-seize]V dirig[to-be-superior]V gal-zu[skilful]AJ
+c.4.80.1,The temple hymns,,83,dumu[child]N nun[prince]N kur[(mountain)-land]N gal[to-be-big]V gu₂[neck]N mar[to-flourish]V
+c.4.80.1,The temple hymns,,84,Šu-zi-ana[1]DN dam[spouse]N ban₃-da[junior]AJ a-a[father]N Enlil[1]DN
+c.4.80.1,The temple hymns,,85,Du-saŋ-dili[1]TN muš₃[flat-space]N e₂[house(hold)]N gub[to-stand]V barag[dais]N dur₂[rump]N ŋar[to-place]V
+c.4.80.1,The temple hymns,,86,9[9]NU e₂[house(hold)]N Šu-zi-ana[1]DN Ŋa-gi-mah[1]TN
+c.4.80.1,The temple hymns,,87,Keš[1]SN uru₁₆[to-be-towering]V ulutim₂[form]N an[heaven]N ki[place]N
+c.4.80.1,The temple hymns,,88,muš-šag₄-tur₃[horned-viper]N gal[to-be-big]V ni₂[fear(someness)]N ri[to-direct]V
+c.4.80.1,The temple hymns,,89,e₂[house(hold)]N Ninhursaŋa[1]DN ki[place]N sumur[to-be-angry]V du₃[to-erect]V
+c.4.80.1,The temple hymns,,90,Keš[1]SN Aratta[1]SN šag₄[heart]N šag₄[heart]N sig[to-be-low]V bar[outside]N il₂[to-raise]V
+c.4.80.1,The temple hymns,,91,ug[lion]N gal[to-be-big]V an-edin[high-plain]N šid[to-count]V edin[open-country]N dag[to-roam-around]V
+c.4.80.1,The temple hymns,,92,hur-saŋ[mountain-(range)]N gal[to-be-big]V mu₇-mu₇[incantation]N ri[to-direct]V
+c.4.80.1,The temple hymns,,93,šag₄[heart]N u₂-sa₁₁-an[evening]N šag₄[heart]N itid[moon(light)]N e₃[to-go-out-or-in]V Nintur[1]DN sig₇[to-be-green]V
+c.4.80.1,The temple hymns,,94,e₂[house(hold)]N Keš[1]SN šeg₁₂[brick(work)]N tud[to-give-birth]V
+c.4.80.1,The temple hymns,,95,gi-gun₄-na[temple-terrace]N suh₁₀[crown]N za-gin₃[lapis-lazuli]N bar[outside]N du₃[to-erect]V
+c.4.80.1,The temple hymns,,96,nun[prince]N nun[prince]N sig₉[to-be-silent]V nin[lady]N zid[right]AJ gal[to-be-big]V an[heaven]N
+c.4.80.1,The temple hymns,,97,dug₄[to-say]V an[heaven]N dub₂[to-tremble]V ka[mouth]N ba[to-allot]V ud[storm]N te-eš[noise]N dug₄[to-say]V
+c.4.80.1,The temple hymns,,98,Aruru[1]DN nin₉[sister]N Enlil[1]DN
+c.4.80.1,The temple hymns,,99,e₂[house(hold)]N Keš[1]SN muš₃[flat-space]N e₂[house(hold)]N gub[to-stand]V barag[dais]N dur₂[rump]N ŋar[to-place]V
+c.4.80.1,The temple hymns,,100,13[13]NU e₂[house(hold)]N Ninhursaŋa[1]DN Keš[1]SN
+c.4.80.1,The temple hymns,,101,Urim[1]SN ninda₂[breeding-bull]N gi[reed]N duru₅[to-be-wet]V gub[to-stand]V
+c.4.80.1,The temple hymns,,102,E-kiš-nu-ŋal[1]TN amar[calf]N ab₂[cow]N gal[to-be-big]V ud[day(light)]N an[heaven]N kug[shining]AJ
+c.4.80.1,The temple hymns,,103,šilam-za[type-of-animal]N ŋiš-bur₂[snare]N gud₃[nest]N nu₂[to-lie-down]V
+c.4.80.1,The temple hymns,,104,Urim[1]SN pisaŋ[basket]N gu₇[to-eat]V kur[(mountain)-land]N
+c.4.80.1,The temple hymns,,105,eš₃[shrine]N ki[place]N sikil[to-be-pure]V uraš[earth]N An[1]DN
+c.4.80.1,The temple hymns,,106,e₂[house(hold)]N Suen[1]DN igi[eye]N nun[prince]N a-ga[rear-(chamber)]N barag[dais]N
+c.4.80.1,The temple hymns,,107,ŋišbun[(cult)-meal]N a-da-ab[type-of-drum-and-composition]N unu₂[(dining)-hall]N gal[to-be-big]V kug[shining]AJ šem₃[type-of-drum]N a₂-la₂[type-of-drum]N
+c.4.80.1,The temple hymns,,108,ud[day(light)]N e₃[to-go-out-or-in]V nam-en[high-(priestly)-office]N zid[right]AJ nam[destiny]N kal[to-be-rare]V
+c.4.80.1,The temple hymns,,109,ŋi₆-par₄[cloister]N eš₃[shrine]N nun[prince]N me[essence]N kug[shining]AJ ud[day(light)]N zal[to-pass]V
+c.4.80.1,The temple hymns,,110,E-kiš-nu-ŋal[1]TN itid[moon(light)]N sah₆[to-withdraw]V kalam[the-Land]N e₃[to-go-out-or-in]V
+c.4.80.1,The temple hymns,,111,ud[day(light)]N 1/2[1/2]NU daŋal[to-be-wide]V kur[(mountain)-land]N si[to-fill]V
+c.4.80.1,The temple hymns,,112,e₂[house(hold)]N muš₃[flat-space]N muš-gal[type-of-serpent]N sug[marsh]N muš[snake]N
+c.4.80.1,The temple hymns,,113,temen[foundation]N abzu[underground-water]N 50[50]NU engur[subterranean-water]N 7[7]NU
+c.4.80.1,The temple hymns,,114,eš₃[shrine]N šag₄[heart]N diŋir[deity]N igi[eye]N ŋal₂[to-be-(located)]V
+c.4.80.1,The temple hymns,,115,nun[prince]N nun[prince]N ka-aš[decision]N bar[to-set-aside]V men[diadem]N an[heaven]N daŋal[to-be-wide]V
+c.4.80.1,The temple hymns,,116,lugal[king]N an[heaven]N Ašimbabbar[1]DN
+c.4.80.1,The temple hymns,,117,eš₃[shrine]N Urim[1]SN muš₃[flat-space]N e₂[house(hold)]N gub[to-stand]V barag[dais]N dur₂[rump]N ŋar[to-place]V
+c.4.80.1,The temple hymns,,118,17[17]NU e₂[house(hold)]N Nanna[1]DN Urim[1]SN
+c.4.80.1,The temple hymns,,119,E-mu-mah[1]TN hur-saŋ[mountain-(range)]N il₂[to-raise]V an[heaven]N
+c.4.80.1,The temple hymns,,120,uš[foundation]N kug[shining]AJ temen[foundation]N gal[to-be-big]V nam[destiny]N kal[to-be-rare]V
+c.4.80.1,The temple hymns,,121,šag₄[heart]N me[essence]N nun[prince]N si[to-fill]V ud[day(light)]N zalag[to-be-shining]V e₃[to-go-out-or-in]V
+c.4.80.1,The temple hymns,,122,eš₃[shrine]N bar[outside]N an[heaven]N sig₇[to-be-green]V igi[eye]N e₃[to-go-out-or-in]V uŋ₃[people]N šar₂[to-be-numerous]V
+c.4.80.1,The temple hymns,,123,kalam[the-Land]N zu₂[tooth]N keše₂[to-bind]V ŋal₂[to-be-(located)]V dub₃-us₂[path]N dili[single]AJ
+c.4.80.1,The temple hymns,,124,id₂[watercourse]N mah[to-be-majestic]V ka[mouth]N ŋal₂[to-open]V taka₄[to-leave-behind]V me[essence]N ur₄[to-collect]V
+c.4.80.1,The temple hymns,,125,ur₂[root]N ni₂[fear(someness)]N gal[to-be-big]V hur-saŋ[mountain-(range)]N zid[right]AJ ki[place]N daŋal[to-be-wide]V mu₂[to-grow]V
+c.4.80.1,The temple hymns,,126,ki-tuš[dwelling-place]N mah[to-be-majestic]V niŋ₂[thing]N mah[to-be-majestic]V me[essence]N šar₂[to-be-numerous]V nam-nun[princeliness]N
+c.4.80.1,The temple hymns,,127,šeg₁₁[loud-noise]N gi₄[to-return]V
+c.4.80.1,The temple hymns,,128,e₂[house(hold)]N giri₁₇-zal[joy]N muš₃[flat-space]N a₂-dam[habitation]N ul[bud]N šar₂[to-be-numerous]V
+c.4.80.1,The temple hymns,,129,e₂[house(hold)]N nun[prince]N Šulgi[1]RN gal[to-be-big]V nun[prince]N
+c.4.80.1,The temple hymns,,130,šu[hand]N du₇[to-be-perfect]V mah-di[illustrious]AJ tum₉[wind]N uru₁₆[to-be-towering]V gal[to-be-big]V
+c.4.80.1,The temple hymns,,131,me[essence]N še-er-ka-an[adornment]N dug₄[to-say]V nam[destiny]N tar[to-cut]V
+c.4.80.1,The temple hymns,,132,E-hursaŋ[1]TN Šulgi[1]RN An[1]DN
+c.4.80.1,The temple hymns,,133,muš₃[flat-space]N e₂[house(hold)]N gub[to-stand]V barag[dais]N dur₂[rump]N ŋar[to-place]V
+c.4.80.1,The temple hymns,,134,15[15]NU tah-hu-um[addition]N E-hursaŋ[1]TN Šulgi[1]RN Urim[1]SN
+c.4.80.1,The temple hymns,,135,iri[town]N abzu[underground-water]N še[barley]N sur[to-drip]V
+c.4.80.1,The temple hymns,,136,edin[open-country]N muru₉[cloud]N šag₄[heart]N me[essence]N šu[hand]N te[to-approach]V
+c.4.80.1,The temple hymns,,137,Kuara[1]SN temen[foundation]N unu₂[(dining)-hall]N zid[right]AJ
+c.4.80.1,The temple hymns,,138,en[lord]N niŋ₂-šu[goods]N gi₄[to-return]V u₆[wonder]N gub[to-stand]V
+c.4.80.1,The temple hymns,,139,abgal[sage]N 7[7]NU sig[to-be-low]V nim[upper-(land)]N šu[hand]N mu₂[to-grow]V
+c.4.80.1,The temple hymns,,140,nun[prince]N nun[prince]N kal[to-be-rare]V Asarluhi[1]DN lu₂[person]N kal[to-be-rare]V
+c.4.80.1,The temple hymns,,141,ur-saŋ[hero]N nun[prince]N gir₁₅[noble]AJ tud[to-give-birth]V nemurₓ[leopard]N kar[to-flee]V dib[to-pass]V
+c.4.80.1,The temple hymns,,142,ud[storm]N du₇[to-push]V ki-bal[rebel-land]N du₇[to-push]V
+c.4.80.1,The temple hymns,,143,en-na[as-long-as]C še[to-agree]V eme[tongue]N sig[to-be-low]V nu₂[to-lie-down]V
+c.4.80.1,The temple hymns,,144,Asar-alim-nuna[1]DN dumu[child]N abzu[underground-water]N
+c.4.80.1,The temple hymns,,145,e₂[house(hold)]N Kuara[1]SN muš₃[flat-space]N e₂[house(hold)]N gub[to-stand]V barag[dais]N dur₂[rump]N ŋar[to-place]V
+c.4.80.1,The temple hymns,,146,11[11]NU e₂[house(hold)]N Asarluhi[1]DN Kuara[1]SN
+c.4.80.1,The temple hymns,,147,E-gud-du-šar[1]TN nir₂[type-of-stone]N kug[shining]AJ lugal[king]N u₅[to-ride]V
+c.4.80.1,The temple hymns,,148,ŋiš-bur₂[architectural-feature]N mah[to-be-majestic]V il₂[to-raise]V dumu[child]N nun[prince]N
+c.4.80.1,The temple hymns,,149,u₅[fatty-substance]N li[fine]AJ dug₃[to-be-good]V kug[shining]AJ dug₃[to-be-good]V ŋal₂[to-be-(located)]V
+c.4.80.1,The temple hymns,,150,Ŋa-bura[1]TN tur₃[animal-stall]N kug[shining]AJ ab₂[cow]N munzer[licorice]N niŋin₂[to-go-around]V
+c.4.80.1,The temple hymns,,151,nun[prince]N am[wild-bull]N gal[to-be-big]V am-si[elephant]N a₂[arm]N hul₂[to-be-happy]V
+c.4.80.1,The temple hymns,,152,sumun₂[wild-cow]N si[horn]N mu₂[to-grow]V si-muš₃[brilliance]N hul₂[to-be-happy]V
+c.4.80.1,The temple hymns,,153,maš-maš[sorcerer]N eme[tongue]N ha-mun[harmony]N dungu[cloud]N an[heaven]N DU[DU]V
+c.4.80.1,The temple hymns,,154,ud[storm]N an[heaven]N gu₃[voice]N mur[to-growl]V ak[to-do]V ud[day(light)]N ki[place]N šu[hand]N ra[to-beat]V šum₂[to-give]V
+c.4.80.1,The temple hymns,,155,Ningublaga[1]DN dumu[child]N Nanna[1]DN
+c.4.80.1,The temple hymns,,156,Ki-abrig[1]SN muš₃[flat-space]N e₂[house(hold)]N gub[to-stand]V barag[dais]N dur₂[rump]N ŋar[to-place]V
+c.4.80.1,The temple hymns,,157,10[10]NU e₂[house(hold)]N Ningublaga[1]DN Ki-abrig[1]SN
+c.4.80.1,The temple hymns,,158,eš₃[shrine]N agrun[cella]N gal[to-be-big]V tur₃[animal-stall]N ri[to-direct]V
+c.4.80.1,The temple hymns,,159,iri[town]N ban₃-da[junior]AJ sud-aŋ₂[brilliance]N Suen[1]DN
+c.4.80.1,The temple hymns,,160,Kar-zida[1]TN šag₄[heart]N ki[place]N uru₁₆[to-be-towering]V temen[foundation]N kug[shining]AJ šen[to-be-pure]V
+c.4.80.1,The temple hymns,,161,eš₃[shrine]N ŋi₆-par₄[cloister]N sikil[to-be-pure]V ŋar[to-place]V
+c.4.80.1,The temple hymns,,162,ig[door]N urud[copper]N niŋ₂[thing]N kalag[to-be-strong]V ki[place]N gal[to-be-big]V ŋar[to-place]V
+c.4.80.1,The temple hymns,,163,tur₃[animal-stall]N gu₃[voice]N nun[prince]N ninda₂[breeding-bull]N si[horn]N il₂[to-raise]V
+c.4.80.1,The temple hymns,,164,nun[prince]N en[lord]N an[heaven]N ul[bud]N šar₂[to-be-numerous]V gub[to-stand]V
+c.4.80.1,The temple hymns,,165,an-bar₇[midday]N sud[to-be-distant]V gaba[chest]N bur₂[to-release]V
+c.4.80.1,The temple hymns,,166,Kar-zida[1]TN Ašimbabbar[1]DN
+c.4.80.1,The temple hymns,,167,muš₃[flat-space]N e₂[house(hold)]N gub[to-stand]V barag[dais]N dur₂[rump]N ŋar[to-place]V
+c.4.80.1,The temple hymns,,168,10[10]NU e₂[house(hold)]N Nanna[1]DN Gaeš[1]SN
+c.4.80.1,The temple hymns,,169,e₂[house(hold)]N an[heaven]N e₃[to-go-out-or-in]V dalla[to-be-bright]V e₃[to-go-out-or-in]V Kulaba[1]SN
+c.4.80.1,The temple hymns,,170,eš₃[shrine]N E-babbar[1]TN ninda₂[breeding-bull]N babbar[white]AJ
+c.4.80.1,The temple hymns,,171,gu₂[neck]N Utu[1]DN an[heaven]N te[to-approach]V
+c.4.80.1,The temple hymns,,172,si-muš₃[brilliance]N ma-sila₃[heel]N tu₁₁[to-strike-down]V kug[shining]AJ za-gin₃[lapis-lazuli]N
+c.4.80.1,The temple hymns,,173,sun₄[beard]N za-gin₃[lapis-lazuli]N duru₅[to-be-wet]V la₂[to-hang]V
+c.4.80.1,The temple hymns,,174,nun[prince]N ud[day(light)]N uru₁₆[to-be-towering]V en[lord]N gu₃[voice]N zid[right]AJ
+c.4.80.1,The temple hymns,,175,an-ur₂[horizon]N zalag[to-be-shining]V an-pa[zenith]N zalag[to-be-shining]V
+c.4.80.1,The temple hymns,,176,Utu[1]DN lugal[king]N E-babbar[1]TN
+c.4.80.1,The temple hymns,,177,e₂[house(hold)]N Larsam[1]SN muš₃[flat-space]N e₂[house(hold)]N gub[to-stand]V barag[dais]N dur₂[rump]N ŋar[to-place]V
+c.4.80.1,The temple hymns,,178,9[9]NU e₂[house(hold)]N Utu[1]DN Larsam[1]SN
+c.4.80.1,The temple hymns,,179,Enegir[1]SN a-pap[(libation)-pipe]N gal[to-be-big]V a-pap[(libation)-pipe]N ki[place]N Ereškigala[1]DN
+c.4.80.1,The temple hymns,,180,Gudua[1]SN Sumer[1]GN gu₂[neck]N si[to-fill]V nam-lu₂-ulu₃[humanity]N
+c.4.80.1,The temple hymns,,181,E-gida[1]TN ŋissu[(protective)-shade]N nun[prince]N kur[(mountain)-land]N kur[(mountain)-land]N la₂[to-hang]V
+c.4.80.1,The temple hymns,,182,nun[prince]N a[water]N en[lord]N gal[to-be-big]V šita[type-of-priest]N ki[place]N gal[to-be-big]V Ereškigala[1]DN tud[to-give-birth]V
+c.4.80.1,The temple hymns,,183,gu₃[voice]N nun[prince]N za-na-ru[type-of-instrument]N šu[hand]N tag[to-touch]V amar[calf]N ad[voice]N sag₉[to-be-good]V
+c.4.80.1,The temple hymns,,184,Ninazu[1]DN inim[word]N šudu₃[prayer]N
+c.4.80.1,The temple hymns,,185,e₂[house(hold)]N Enegir[1]SN muš₃[flat-space]N e₂[house(hold)]N gub[to-stand]V barag[dais]N dur₂[rump]N ŋar[to-place]V
+c.4.80.1,The temple hymns,,186,7[7]NU e₂[house(hold)]N Ninazu[1]DN Enegir[1]SN
+c.4.80.1,The temple hymns,,187,ki[place]N ul[distant-time]N kur[(mountain)-land]N sig[to-be-low]V galam[to-be-skilful]V ŋar[to-place]V
+c.4.80.1,The temple hymns,,188,itima[(sleeping)-chamber]N ki[place]N huš[to-be-reddish]V šag₄-tum₂[meadow]N ri[to-direct]V
+c.4.80.1,The temple hymns,,189,su[flesh]N zig₃[to-rise]V a-ra₂[way]N mah[to-be-majestic]V lu₂[person]N pad₃[to-find]V
+c.4.80.1,The temple hymns,,190,Ŋišbanda[1]SN si-ŋar[clamp]N igi-te-en[mesh]N gana₂[shackle]N ki[place]N gal[to-be-big]V ŋiri₃[foot]N ed₃[to-go-down-or-up]V
+c.4.80.1,The temple hymns,,191,bar[outside]N gi₄[to-return]V nim[upper-(land)]N es₂-ad[trap]N rib[to-be-outstanding]V
+c.4.80.1,The temple hymns,,192,šag₄[heart]N ki[place]N ud[day(light)]N e₃[to-go-out-or-in]V nam-he₂[abundance]N daŋal[to-be-wide]V šum₂[to-give]V
+c.4.80.1,The temple hymns,,193,nun[prince]N nun[prince]N šu[hand]N sikil[to-be-pure]V gid₂[to-be-long]V kug[shining]AJ an[heaven]N
+c.4.80.1,The temple hymns,,194,siki[hair]N ul[to-swell-(with-joy)]V he-nun[abundance]N bar[outside]N ŋal₂[to-be-(located)]V en[lord]N Ninŋišzida[1]DN
+c.4.80.1,The temple hymns,,195,Ninŋišzida[1]DN Ŋišbanda[1]SN
+c.4.80.1,The temple hymns,,196,muš₃[flat-space]N e₂[house(hold)]N gub[to-stand]V barag[dais]N dur₂[rump]N ŋar[to-place]V
+c.4.80.1,The temple hymns,,197,10[10]NU e₂[house(hold)]N Ninŋišzida[1]DN Ŋišbanda[1]SN
+c.4.80.1,The temple hymns,,198,e₂[house(hold)]N me[essence]N gal[to-be-big]V Kulaba[1]SN muš₃[flat-space]N eš₃[shrine]N gal[to-be-big]V mu₂[to-grow]V
+c.4.80.1,The temple hymns,,199,gibil[to-be-new]V gurun[fruit]N sig₇[to-be-green]V u₆[wonder]N dug₄[to-say]V hi-li[attractiveness]N guru₃[to-bear]V
+c.4.80.1,The temple hymns,,200,an-šag₄[interior-of-heaven]N ed₃[to-go-down-or-up]V eš₃[shrine]N gud[bull]N du₃[to-erect]V
+c.4.80.1,The temple hymns,,201,E-ana[1]TN e₂[house(hold)]N ub[corner]N 7[7]NU izi[fire]N 7[7]NU ŋi₆[night]N u₃-na[designation-of-night]N il₂[to-raise]V
+c.4.80.1,The temple hymns,,202,kurku₂[desire]N 7[7]NU igi[eye]N ŋal₂[to-be-(located)]V
+c.4.80.1,The temple hymns,,203,nun[prince]N an-ur₂[horizon]N sikil[to-be-pure]V
+c.4.80.1,The temple hymns,,204,nin[lady]N Inana[1]DN niŋ₂[thing]N bur[type-of-bowl]N
+c.4.80.1,The temple hymns,,205,munus[woman]N še-er-ka-an[adornment]N dug₄[to-say]V nitah[male]N saŋ[head]N tug₂[garment]N dul[to-cover-(together)]V
+c.4.80.1,The temple hymns,,206,suh₁₀[crown]N kurku₂[desire]N za-gin₃[lapis-lazuli]N ušumgal[type-of-serpent]N niŋin₃-ŋar[shrine-associated-with-Inana]N
+c.4.80.1,The temple hymns,,207,UN-gal[ruler]N an[heaven]N ki[place]N Inana[1]DN
+c.4.80.1,The temple hymns,,208,E-ana[1]TN muš₃[flat-space]N e₂[house(hold)]N gub[to-stand]V barag[dais]N dur₂[rump]N ŋar[to-place]V
+c.4.80.1,The temple hymns,,209,11[11]NU e₂[house(hold)]N Inana[1]DN Unug[1]SN
+c.4.80.1,The temple hymns,,210,e₂[house(hold)]N u₂[plant]N za-gin₃[lapis-lazuli]N ŋiš-nu₂[bed]N gi-rin[blossom]N barag₂[to-spread-out]V
+c.4.80.1,The temple hymns,,211,e₂-nu₂-da[bedchamber]N kug[shining]AJ Inana[1]DN
+c.4.80.1,The temple hymns,,212,ki[place]N šag₄[heart]N kuš₂[to-be-tired]V in-nin[mistress]N edin[open-country]N
+c.4.80.1,The temple hymns,,213,šeg₁₂[brick(work)]N E-muš[1]TN gi-rin[blossom]N kug[shining]AJ im[clay]N ŋar[to-place]V
+c.4.80.1,The temple hymns,,214,an-edin[high-plain]N u₈[ewe]N lu[to-be-abundant]V
+c.4.80.1,The temple hymns,,215,an-BAD₃[meaning-unknown]N e₂[house(hold)]N Arali[1]GN sipad[shepherd]N la₂[to-hang]V
+c.4.80.1,The temple hymns,,216,nun[prince]N piriŋ[lion]N dib[to-pass]V edin[open-country]N šuba[agate?]N nu-u₈-gig[high-status-woman]N
+c.4.80.1,The temple hymns,,217,gaba[chest]N kug[shining]AJ u₆[wonder]N dug₄[to-say]V en[lord]N dam[spouse]N kug[shining]AJ Inana[1]DN
+c.4.80.1,The temple hymns,,218,Dumuzid[1]DN lugal[king]N E-muš[1]TN
+c.4.80.1,The temple hymns,,219,Bad-tibira[1]SN muš₃[flat-space]N e₂[house(hold)]N gub[to-stand]V barag[dais]N dur₂[rump]N ŋar[to-place]V
+c.4.80.1,The temple hymns,,220,10[10]NU e₂[house(hold)]N Dumuzid[1]DN Bad-tibira[1]SN
+c.4.80.1,The temple hymns,,221,E-igizu-uru[1]TN šag₄[heart]N nam-he₂[abundance]N
+c.4.80.1,The temple hymns,,222,e₂[house(hold)]N niŋ₂[thing]N ŋar[to-place]V kur[(mountain)-land]N gal[to-be-big]V
+c.4.80.1,The temple hymns,,223,e₂[house(hold)]N šim[aromatic-(fragrance)]N kur[(mountain)-land]N ŋeštin[grape-(wine)]N
+c.4.80.1,The temple hymns,,224,sukkal[minister]N zid[right]AJ kingal[leader]N an[heaven]N
+c.4.80.1,The temple hymns,,225,e₂[house(hold)]N nun[prince]N palil[foremost]AJ diŋir[deity]N
+c.4.80.1,The temple hymns,,226,sukkal[minister]N zid[right]AJ E-ana[1]TN ŋidru[sceptre]N kug[shining]AJ šu[hand]N du₇[to-be-perfect]V
+c.4.80.1,The temple hymns,,227,Ninšubur[1]DN sukkal[minister]N zid[right]AJ E-ana[1]TN
+c.4.80.1,The temple hymns,,228,E-akkil[1]TN muš₃[flat-space]N e₂[house(hold)]N gub[to-stand]V barag[dais]N dur₂[rump]N ŋar[to-place]V
+c.4.80.1,The temple hymns,,229,8[8]NU e₂[house(hold)]N Ninšubur[1]DN Akkil[1]SN
+c.4.80.1,The temple hymns,,230,iri[town]N abzu[underground-water]N barag[dais]N ri[to-direct]V nam-išib[type-of-priestcraft]N ŋar[to-place]V
+c.4.80.1,The temple hymns,,231,e₂[house(hold)]N mu₇-mu₇[incantation]N an[heaven]N ki[place]N šid[to-count]V
+c.4.80.1,The temple hymns,,232,sud[to-be-distant]V
+c.4.80.1,The temple hymns,,233,gal[to-be-big]V dam[spouse]N
+c.4.80.1,The temple hymns,,234,a₂-ŋal₂[strong]AJ
 c.4.80.1,The temple hymns,,235,
-c.4.80.1,The temple hymns,,236,sux:an[heaven]N sux:kug[shining]AJ sux:ki[place]N sux:sikil[to-be-pure]V sux:a[water]N sux:gub₂[to-bathe]V
-c.4.80.1,The temple hymns,,237,sux:Ningirim[1]DN sux:nin[lady]N sux:a[water]N sux:gub₂[to-bathe]V sux:dadag[to-be-bright]V
-c.4.80.1,The temple hymns,,238,sux:e₂[house(hold)]N sux:Murum[1]SN sux:muš₃[flat-space]N sux:e₂[house(hold)]N sux:gub[to-stand]V sux:barag[dais]N sux:dur₂[rump]N sux:ŋar[to-place]V
-c.4.80.1,The temple hymns,,239,sux:9[9]NU sux:e₂[house(hold)]N sux:Ningirim[1]DN sux:Murum[1]SN
-c.4.80.1,The temple hymns,,240,sux:E-ninnu[1]TN sux:a₂[arm]N sux:zid[right]AJ sux:Lagaš[1]SN sux:gu₂-gal[foremost]AJ sux:Sumer[1]GN
-c.4.80.1,The temple hymns,,241,sux:Anzud[1]DN sux:kur[(mountain)-land]N sux:igi[eye]N sux:il₂[to-raise]V
-c.4.80.1,The temple hymns,,242,sux:Mows-down-a-myriad[1]DN sux:Ninŋirsu[1]DN sux:kur[(mountain)-land]N
-c.4.80.1,The temple hymns,,243,sux:a₂[arm]N sux:me₃[battle]N sux:ud[storm]N sux:huš[to-be-reddish]V sux:lu₂[person]N sux:su₃[to-sprinkle]V
-c.4.80.1,The temple hymns,,244,sux:Anuna[1]DN sux:diŋir[deity]N sux:gal[to-be-big]V sux:a₂[arm]N sux:me₃[battle]N sux:šum₂[to-give]V
-c.4.80.1,The temple hymns,,245,sux:šeg₁₂[brick(work)]N sux:du₆[(ruin)-mound]N sux:kug[shining]AJ sux:nam[destiny]N sux:tar[to-cut]V sux:hur-saŋ[mountain-(range)]N sux:sig₇[to-be-green]V
-c.4.80.1,The temple hymns,,246,sux:id₂[watercourse]N sux:a[water]N sux:lu[to-be-abundant]V sux:mun[salt]N sux:kug[shining]AJ sux:ha-mun[harmony]N sux:dal[to-fly]V
-c.4.80.1,The temple hymns,,247,sux:kan₄[gate]N sux:Iri-kug[1]SN sux:ŋal₂[to-be-(located)]V
-c.4.80.1,The temple hymns,,248,sux:bur[type-of-bowl]N sux:sig₇[to-be-green]V sux:An[1]DN sux:kug[shining]AJ sux:kurun[type-of-beer]N sux:de₂[to-pour]V sux:an[heaven]N sux:gub[to-stand]V
-c.4.80.1,The temple hymns,,249,sux:niŋ₂[thing]N sux:kur₉[to-enter]V sux:niŋ₂[thing]N sux:sa₂[to-equal]V sux:dug₄[to-say]V
-c.4.80.1,The temple hymns,,250,sux:niŋ₂[thing]N sux:e₃[to-go-out-or-in]V sux:niŋ₂[thing]N sux:silig[to-be-forceful]V
-c.4.80.1,The temple hymns,,251,sux:šu-gar₃[meaning-unknown]N sux:igi[eye]N sux:huš[to-be-reddish]V sux:e₂[house(hold)]N sux:me-lem₄[(awesome)-radiance]N
-c.4.80.1,The temple hymns,,252,sux:ki[place]N sux:di[(law)suit]N sux:kud[to-cut]V sux:en[lord]N sux:Ninŋirsu[1]DN
-c.4.80.1,The temple hymns,,253,sux:ni₂[fear(someness)]N sux:gal[to-be-big]V sux:su[flesh]N sux:zig₃[to-rise]V sux:du₈[to-spread]V
-c.4.80.1,The temple hymns,,254,sux:kurun[type-of-beer]N sux:gal[to-be-big]V sux:diŋir[deity]N sux:Anuna[1]DN sux:gub[to-stand]V
-c.4.80.1,The temple hymns,,255,sux:nun[prince]N sux:ulu₃[south-wind-(storm)]N sux:sumur[to-be-angry]V sux:ki-bal[rebel-land]N sux-x-emesal:uru₂[town]N sux:gul[to-destroy]V
-c.4.80.1,The temple hymns,,256,sux:lugal[king]N sux:am[wild-bull]N sux:huš[to-be-reddish]V sux:a₂[arm]N sux:pad₃[to-find]V sux:piriŋ[lion]N sux:huš[to-be-reddish]V sux:saŋ[head]N sux:dub₂[to-tremble]V
-c.4.80.1,The temple hymns,,257,sux:ur-saŋ[hero]N sux:nam-en[high-(priestly)-office]N sux:sa₂[advice]N sux:sig₁₀[to-place]V
-c.4.80.1,The temple hymns,,258,sux:nam-lugal[kingship]N sux:u₃-ma[triumph]N sux:gub[to-stand]V
-c.4.80.1,The temple hymns,,259,sux:kalag[to-be-strong]V sux:ur-saŋ[hero]N sux:gal[to-be-big]V sux:me₃[battle]N sux:en[lord]N sux:gaba[chest]N sux:gi₄[to-return]V sux:tuku[to-have]V
-c.4.80.1,The temple hymns,,260,sux:dumu[child]N sux:Enlil[1]DN sux:en[lord]N sux:Ninŋirsu[1]DN
-c.4.80.1,The temple hymns,,261,sux:E-ninnu[1]TN sux:muš₃[flat-space]N sux:e₂[house(hold)]N sux:gub[to-stand]V sux:barag[dais]N sux:dur₂[rump]N sux:ŋar[to-place]V
-c.4.80.1,The temple hymns,,262,sux:22[22]NU sux:e₂[house(hold)]N sux:Ninŋirsu[1]DN sux:Lagaš[1]SN
-c.4.80.1,The temple hymns,,263,sux:Iri-kug[1]SN sux:eš₃[shrine]N sux:numun[seed]N sux:i[to-bring-out]V sux:An[1]DN sux:kug[shining]AJ sux:mu[name]N sux:dug₃[to-be-good]V sux:sa₄[to-call]V
-c.4.80.1,The temple hymns,,264,sux:šag₄[heart]N sux:id₂-lu₂-ru-gu₂[ordeal-river]N sux:lu₂[person]N sux:zid[right]AJ sux:dadag[to-be-bright]V
-c.4.80.1,The temple hymns,,265,sux:E-ŋalga-sud[1]TN sux:erim₃[storehouse]N sux:kug[precious-metal]N sux:za-gin₃[lapis-lazuli]N sux:gi₁₆-sa[(everlasting)-treasure]N sux:ak[to-do]V
-c.4.80.1,The temple hymns,,266,sux:E-tar-sirsir[1]TN sux:eš-bar[decision]N sux:me[essence]N sux:i[to-bring-out]V sux:meš₃[hero]N sux:giri₁₇[nose]N sux:šu[hand]N sux:ŋal₂[to-be-(located)]V
-c.4.80.1,The temple hymns,,267,sux:nun[prince]N sux:nun[prince]N sux:šag₄-la₂[mercy]N sux:sug₄[to-be-full]V sux:kalam[the-Land]N sux:ama[mother]N sux:kur[(mountain)-land]N
-c.4.80.1,The temple hymns,,268,sux:nin[lady]N sux:a-zu[healer]N sux:gal[to-be-big]V sux:saŋ[head]N sux:gig₂[to-be-black]V sux:nam[destiny]N sux:iri[town]N sux:tar[to-cut]V
-c.4.80.1,The temple hymns,,269,sux:dumu-saŋ[first-born-(child)]N sux:An[1]DN sux:kug[shining]AJ sux:ki-sikil[young-woman]N sux:ama[mother]N sux:Bau[1]DN
-c.4.80.1,The temple hymns,,270,sux:e₂[house(hold)]N sux:Iri-kug[1]SN sux:muš₃[flat-space]N sux:e₂[house(hold)]N sux:gub[to-stand]V sux:barag[dais]N sux:dur₂[rump]N sux:ŋar[to-place]V
-c.4.80.1,The temple hymns,,271,sux:8[8]NU sux:e₂[house(hold)]N sux:Bau[1]DN sux:Iri-kug[1]SN
-c.4.80.1,The temple hymns,,272,sux:e₂[house(hold)]N sux:šilam[cow]N
-c.4.80.1,The temple hymns,,273,sux:iri[town]N sux:dalla[to-be-bright]V sux:e₃[to-go-out-or-in]V sux:nun[prince]N sux:gun₃[to-be-multicoloured]V
-c.4.80.1,The temple hymns,,274,sux:Sirara[1]SN sux:ki[place]N sux:gal[to-be-big]V sux:nun[prince]N
-c.4.80.1,The temple hymns,,275,sux:eš₃[shrine]N sux:šid[to-count]V
-c.4.80.1,The temple hymns,,276,sux:nin[lady]N sux:Nanše[1]DN sux:ud[storm]N sux:gal[to-be-big]V sux:a-ŋi₆[flooding]N sux:uru₁₆[to-be-towering]V
-c.4.80.1,The temple hymns,,277,sux:peš₁₀[bank]N sux:a-ab-ba[sea(water)]N sux:tud[to-give-birth]V
-c.4.80.1,The temple hymns,,278,sux:uh₂-pu₂[foam]N sux:ab[sea]N sux:zu₂[tooth]N sux:li₉[verb-part-of-multiword-verb]V
-c.4.80.1,The temple hymns,,279,sux:a[water]N sux:i-zi[wave]N sux:e-ne[game]N sux:dug₄[to-say]V
-c.4.80.1,The temple hymns,,280,sux:Nanše[1]DN sux:nin[lady]N
-c.4.80.1,The temple hymns,,281,sux:e₂[house(hold)]N sux:Sirara[1]SN sux:muš₃[flat-space]N sux:e₂[house(hold)]N sux:gub[to-stand]V sux:barag[dais]N sux:dur₂[rump]N sux:ŋar[to-place]V
-c.4.80.1,The temple hymns,,282,sux:10[10]NU sux:e₂[house(hold)]N sux:Nanše[1]DN sux:Sirara[1]SN
-c.4.80.1,The temple hymns,,283,sux:E-abšaga-la[1]TN sux:ki[place]N sux:kug[shining]AJ sux:du₃[to-erect]V
-c.4.80.1,The temple hymns,,284,sux:Gu-aba[1]SN sux:šag₄[heart]N sux:niŋ₂[thing]N sux:tud[to-give-birth]V sux:erim₃[storehouse]N sux:ŋar[to-place]V
-c.4.80.1,The temple hymns,,285,sux:eš₃[shrine]N sux:kug[shining]AJ sux:šilam[cow]N sux:niŋ₂[thing]N sux:silig[to-cease]V
-c.4.80.1,The temple hymns,,286,sux:nun[prince]N sux:Ninŋagia[1]DN sux:aŋrig[housekeeper]N sux:mah[to-be-majestic]V
-c.4.80.1,The temple hymns,,287,sux:kalag[to-be-strong]V sux:a-a[father]N sux:Enlil[1]DN
-c.4.80.1,The temple hymns,,288,sux:en[lord]N sux:Nunamnir[1]DN sux:šag₄[heart]N sux:kuš₂[to-be-tired]V
-c.4.80.1,The temple hymns,,289,sux:tud[to-give-birth]V sux:a-ŋi₆[flooding]N sux:a-ab-ba[sea(water)]N
-c.4.80.1,The temple hymns,,290,sux:a-a[father]N sux:enkud[fisheries-inspector]N sux:ab[sea]N sux:sikil[to-be-pure]V
-c.4.80.1,The temple hymns,,291,sux:e₂[house(hold)]N sux:Gu-aba[1]SN sux:kug[shining]AJ sux:Ninmarki[1]DN
-c.4.80.1,The temple hymns,,292,sux:muš₃[flat-space]N sux:e₂[house(hold)]N sux:gub[to-stand]V sux:barag[dais]N sux:dur₂[rump]N sux:ŋar[to-place]V
-c.4.80.1,The temple hymns,,293,sux:10[10]NU sux:e₂[house(hold)]N sux:Ninmarki[1]DN sux:Gu-aba[1]SN
-c.4.80.1,The temple hymns,,294,sux:e₂[house(hold)]N sux:Kinirša[1]SN sux:nin[lady]N sux:tum₂[to-be-suitable]V
-c.4.80.1,The temple hymns,,295,sux:hur-saŋ[mountain-(range)]N sux:sig₇[to-be-green]V sux:u₆-nir[ziggurat]N sux:il₂[to-raise]V
-c.4.80.1,The temple hymns,,296,sux:e₂[house(hold)]N sux:ki[place]N sux:šag₄[heart]N sux:hul₂[to-be-happy]V sux:gu₃[voice]N sux:nun[prince]N sux:dug₄[to-say]V
-c.4.80.1,The temple hymns,,297,sux:e₂[house(hold)]N sux:nun[prince]N sux:ud[storm]N sux:piriŋ[lion]N sux:u₅[to-ride]V
-c.4.80.1,The temple hymns,,298,sux:šir₃[song]N sux:kug[shining]AJ sux:šir₃[song]N sux:ha-mun[harmony]N sux:il₂[to-raise]V sux:e-ne[he;-she]PD sux:ad[voice]N sux:gal[to-be-big]V sux:dug₄[to-say]V
-c.4.80.1,The temple hymns,,299,sux:dumu[child]N sux:u₃-sumun₂[wild-cow?]N sux:zid[right]AJ sux:ama[mother]N sux:ugu[to-give-birth]V sux:gaba[chest]N sux:kug[shining]AJ sux:mi₂[(loving)-care]N sux:dug₄[to-say]V
-c.4.80.1,The temple hymns,,300,sux:eš₃[shrine]N sux:Kinirša[1]SN sux:Dumuzid-abzu[1]DN
-c.4.80.1,The temple hymns,,301,sux:muš₃[flat-space]N sux:e₂[house(hold)]N sux:gub[to-stand]V sux:barag[dais]N sux:dur₂[rump]N sux:ŋar[to-place]V
-c.4.80.1,The temple hymns,,302,sux:7[7]NU sux:e₂[house(hold)]N sux:Dumuzid-abzu[1]DN sux:Kinirša[1]SN
-c.4.80.1,The temple hymns,,303,sux:E-bur-sigsig[1]TN sux:an[heaven]N sux:gub[to-stand]V
-c.4.80.1,The temple hymns,,304,sux:unu₂[(dining)-hall]N sux:uru₁₆[to-be-towering]V sux:dug₄[to-say]V sux:sa₂[to-equal]V sux:dug₄[to-say]V
-c.4.80.1,The temple hymns,,305,sux:he-nun[abundance]N sux:ab-šag₄[centre-of-sea]N sux:unu₂-RI-ban₃-da[sacred-area]N
-c.4.80.1,The temple hymns,,306,sux:kug[shining]AJ sux:u₃-gul[prayer]N sux:ŋar[to-place]V sux:asila[rejoicing]N sux:la₂[to-hang]V
-c.4.80.1,The temple hymns,,307,sux:E-mah[1]TN sux:e₂[house(hold)]N sux:Šara[1]DN sux:lu₂[person]N sux:zid[right]AJ
-c.4.80.1,The temple hymns,,308,sux:nam-he₂[abundance]N sux:šu[hand]N sux:mu₂[to-grow]V
-c.4.80.1,The temple hymns,,309,sux:e₂[house(hold)]N sux:E-mah[1]TN sux:nun[prince]N sux:dumu[child]N sux:nun[prince]N sux:nu-u₈-gig[high-status-woman]N
-c.4.80.1,The temple hymns,,310,sux:sig₅[to-be-fine]V sux:sal[to-be-thin]V sux:muš₃[flat-space]N sux:he-nun[abundance]N sux:silim[to-be-healthy]V
-c.4.80.1,The temple hymns,,311,sux:gu₂-tar[neck-(hair)]N sux:la₂[to-hang]V sux:igi[eye]N sux:bar[to-set-aside]V sux:šilam[cow]N
-c.4.80.1,The temple hymns,,312,sux:Šara[1]DN sux:niŋ₂[thing]N sux:dug₃[to-be-good]V sux:dumu[child]N sux:ama[mother]N sux:me[essence]N sux:ba[to-allot]V
-c.4.80.1,The temple hymns,,313,sux:e₂[house(hold)]N sux:Umma[1]SN sux:muš₃[flat-space]N sux:e₂[house(hold)]N sux:gub[to-stand]V sux:barag[dais]N sux:dur₂[rump]N sux:ŋar[to-place]V
-c.4.80.1,The temple hymns,,314,sux:11[11]NU sux:e₂[house(hold)]N sux:Šara[1]DN sux:Umma[1]SN
-c.4.80.1,The temple hymns,,315,sux:E-šerzid-guru[1]TN sux:unu₂[jewellery]N sux:šuba[agate?]N sux:la₂[to-hang]V
-c.4.80.1,The temple hymns,,316,sux:ni₂[fear(someness)]N sux:gal[to-be-big]V sux:niŋin₃-ŋar[shrine-associated-with-Inana]N sux:kug[shining]AJ sux:Inana[1]DN
-c.4.80.1,The temple hymns,,317,sux:me[essence]N sux:zid[right]AJ sux:me[to-be]V sux:šu[hand]N sux:daŋal[to-be-wide]V sux:tag[to-touch]V
-c.4.80.1,The temple hymns,,318,sux:Zabalam[1]SN sux:eš₃[shrine]N sux:kur[(mountain)-land]N sux:šuba[shining]AJ sux:eš₃[shrine]N sux:ud[day(light)]N sux:zal[to-pass]V
-c.4.80.1,The temple hymns,,319,sux:kurku₂[desire]N sux:ad[voice]N sux:pad₃[to-find]V
-c.4.80.1,The temple hymns,,320,sux:unu₂[(dining)-hall]N sux:zid[right]AJ sux:nu-u₈-gig[high-status-woman]N sux:kurku₂[desire]N sux:ri[to-direct]V
-c.4.80.1,The temple hymns,,321,sux:nin[lady]N sux:Inana[1]DN sux:DAG.KISIM₅×X[DAG.KISIM₅×X]N sux:munus[woman]N sux:dili[single]AJ
-c.4.80.1,The temple hymns,,322,sux:ušumgal[type-of-serpent]N sux:lu₂[person]N sux:inim[word]N sux:kur₂[to-be-different]V sux:dug₄[to-say]V
-c.4.80.1,The temple hymns,,323,sux:niŋ₂[thing]N sux:babbar[white]AJ sux:saŋ[head]N sux:mu₂[to-grow]V sux:ki-bal[rebel-land]N sux:saŋ[head]N sux:ŋar[to-place]V
-c.4.80.1,The temple hymns,,324,sux:ŋiš-he₂[firmament]N sux:u₂-sa₁₁-an[evening]N sux:ni₂-te-a-ni[himself;-herself]PD sux:sig₇[to-be-green]V
-c.4.80.1,The temple hymns,,325,sux:dumu[child]N sux:gal[to-be-big]V sux:Suen[1]DN sux:kug[shining]AJ sux:Inana[1]DN
-c.4.80.1,The temple hymns,,326,sux:e₂[house(hold)]N sux:ki[place]N sux:Zabalam[1]SN sux:muš₃[flat-space]N sux:e₂[house(hold)]N sux:gub[to-stand]V sux:barag[dais]N sux:dur₂[rump]N sux:ŋar[to-place]V
-c.4.80.1,The temple hymns,,327,sux:12[12]NU sux:e₂[house(hold)]N sux:Inana[1]DN sux:Zabalam[1]SN
-c.4.80.1,The temple hymns,,328,sux:e₂[house(hold)]N sux:piriŋ[lion]N sux:gal[to-be-big]V sux:su-lim[(awesome)-radiance]N sux:guru₃[to-bear]V
-c.4.80.1,The temple hymns,,329,sux:eš-bar[decision]N sux:an-edin[high-plain]N sux:ud[day(light)]N sux:galam[to-be-skilful]V sux:e₃[to-go-out-or-in]V
-c.4.80.1,The temple hymns,,330,sux:e₂[house(hold)]N sux:Iškur[1]DN sux:igi[eye]N sux:he₂-ŋal₂[plenty]N sux:a-ga[rear-(chamber)]N sux:giri₁₇-zal[joy]N
-c.4.80.1,The temple hymns,,331,sux:temen[foundation]N sux:ŋal₂[to-be-(located)]V sux:ninda₂[breeding-bull]N sux:si[horn]N sux:piriŋ[lion]N
-c.4.80.1,The temple hymns,,332,sux:šibir[shepherd's-crook]N sux:kug[shining]AJ sux:ubur[breast]N sux:an[heaven]N sux:šeŋ₃[rain]N sux:še[barley]N sux:gu-nu[flax]N
-c.4.80.1,The temple hymns,,333,sux:dub-la₂[(doorpost)-platform]N sux:e₂[house(hold)]N sux:am[wild-bull]N sux:si[horn]N sux:bad[to-open]V
-c.4.80.1,The temple hymns,,334,sux:temen[foundation]N sux:e₂-ŋar₈[wall]N sux:ni₂[self]N sux:il₂[to-raise]V
-c.4.80.1,The temple hymns,,335,sux:dungu[cloud]N sux:sir₂[to-be-dense]V
-c.4.80.1,The temple hymns,,336,sux:muš-ŋiri₂[fanged-snake]N
-c.4.80.1,The temple hymns,,337,sux:itid[moon(light)]N
-c.4.80.1,The temple hymns,,338,sux:nam-gu₇[eating]N sux:Iškur[1]DN sux:a-ma-ru[flood]N sux:ur₃[to-drag]V
-c.4.80.1,The temple hymns,,339,sux:ulu₃[south-wind-(storm)]N sux:mir[north-wind]N sux:7[7]NU
-c.4.80.1,The temple hymns,,340,sux:mir[north-wind]N sux:dal[to-fly]V
-c.4.80.1,The temple hymns,,341,sux:ur₂[root]N sux:im₂[to-run]V
-c.4.80.1,The temple hymns,,342,sux:hur-saŋ[mountain-(range)]N sux:esi[diorite?]N sux:na₄[stone]N sux:na₄[stone]N sux:muš₃[flat-space]N sux:dar[to-split]V
+c.4.80.1,The temple hymns,,236,an[heaven]N kug[shining]AJ ki[place]N sikil[to-be-pure]V a[water]N gub₂[to-bathe]V
+c.4.80.1,The temple hymns,,237,Ningirim[1]DN nin[lady]N a[water]N gub₂[to-bathe]V dadag[to-be-bright]V
+c.4.80.1,The temple hymns,,238,e₂[house(hold)]N Murum[1]SN muš₃[flat-space]N e₂[house(hold)]N gub[to-stand]V barag[dais]N dur₂[rump]N ŋar[to-place]V
+c.4.80.1,The temple hymns,,239,9[9]NU e₂[house(hold)]N Ningirim[1]DN Murum[1]SN
+c.4.80.1,The temple hymns,,240,E-ninnu[1]TN a₂[arm]N zid[right]AJ Lagaš[1]SN gu₂-gal[foremost]AJ Sumer[1]GN
+c.4.80.1,The temple hymns,,241,Anzud[1]DN kur[(mountain)-land]N igi[eye]N il₂[to-raise]V
+c.4.80.1,The temple hymns,,242,Mows-down-a-myriad[1]DN Ninŋirsu[1]DN kur[(mountain)-land]N
+c.4.80.1,The temple hymns,,243,a₂[arm]N me₃[battle]N ud[storm]N huš[to-be-reddish]V lu₂[person]N su₃[to-sprinkle]V
+c.4.80.1,The temple hymns,,244,Anuna[1]DN diŋir[deity]N gal[to-be-big]V a₂[arm]N me₃[battle]N šum₂[to-give]V
+c.4.80.1,The temple hymns,,245,šeg₁₂[brick(work)]N du₆[(ruin)-mound]N kug[shining]AJ nam[destiny]N tar[to-cut]V hur-saŋ[mountain-(range)]N sig₇[to-be-green]V
+c.4.80.1,The temple hymns,,246,id₂[watercourse]N a[water]N lu[to-be-abundant]V mun[salt]N kug[shining]AJ ha-mun[harmony]N dal[to-fly]V
+c.4.80.1,The temple hymns,,247,kan₄[gate]N Iri-kug[1]SN ŋal₂[to-be-(located)]V
+c.4.80.1,The temple hymns,,248,bur[type-of-bowl]N sig₇[to-be-green]V An[1]DN kug[shining]AJ kurun[type-of-beer]N de₂[to-pour]V an[heaven]N gub[to-stand]V
+c.4.80.1,The temple hymns,,249,niŋ₂[thing]N kur₉[to-enter]V niŋ₂[thing]N sa₂[to-equal]V dug₄[to-say]V
+c.4.80.1,The temple hymns,,250,niŋ₂[thing]N e₃[to-go-out-or-in]V niŋ₂[thing]N silig[to-be-forceful]V
+c.4.80.1,The temple hymns,,251,šu-gar₃[meaning-unknown]N igi[eye]N huš[to-be-reddish]V e₂[house(hold)]N me-lem₄[(awesome)-radiance]N
+c.4.80.1,The temple hymns,,252,ki[place]N di[(law)suit]N kud[to-cut]V en[lord]N Ninŋirsu[1]DN
+c.4.80.1,The temple hymns,,253,ni₂[fear(someness)]N gal[to-be-big]V su[flesh]N zig₃[to-rise]V du₈[to-spread]V
+c.4.80.1,The temple hymns,,254,kurun[type-of-beer]N gal[to-be-big]V diŋir[deity]N Anuna[1]DN gub[to-stand]V
+c.4.80.1,The temple hymns,,255,nun[prince]N ulu₃[south-wind-(storm)]N sumur[to-be-angry]V ki-bal[rebel-land]N uru₂[town]N gul[to-destroy]V
+c.4.80.1,The temple hymns,,256,lugal[king]N am[wild-bull]N huš[to-be-reddish]V a₂[arm]N pad₃[to-find]V piriŋ[lion]N huš[to-be-reddish]V saŋ[head]N dub₂[to-tremble]V
+c.4.80.1,The temple hymns,,257,ur-saŋ[hero]N nam-en[high-(priestly)-office]N sa₂[advice]N sig₁₀[to-place]V
+c.4.80.1,The temple hymns,,258,nam-lugal[kingship]N u₃-ma[triumph]N gub[to-stand]V
+c.4.80.1,The temple hymns,,259,kalag[to-be-strong]V ur-saŋ[hero]N gal[to-be-big]V me₃[battle]N en[lord]N gaba[chest]N gi₄[to-return]V tuku[to-have]V
+c.4.80.1,The temple hymns,,260,dumu[child]N Enlil[1]DN en[lord]N Ninŋirsu[1]DN
+c.4.80.1,The temple hymns,,261,E-ninnu[1]TN muš₃[flat-space]N e₂[house(hold)]N gub[to-stand]V barag[dais]N dur₂[rump]N ŋar[to-place]V
+c.4.80.1,The temple hymns,,262,22[22]NU e₂[house(hold)]N Ninŋirsu[1]DN Lagaš[1]SN
+c.4.80.1,The temple hymns,,263,Iri-kug[1]SN eš₃[shrine]N numun[seed]N i[to-bring-out]V An[1]DN kug[shining]AJ mu[name]N dug₃[to-be-good]V sa₄[to-call]V
+c.4.80.1,The temple hymns,,264,šag₄[heart]N id₂-lu₂-ru-gu₂[ordeal-river]N lu₂[person]N zid[right]AJ dadag[to-be-bright]V
+c.4.80.1,The temple hymns,,265,E-ŋalga-sud[1]TN erim₃[storehouse]N kug[precious-metal]N za-gin₃[lapis-lazuli]N gi₁₆-sa[(everlasting)-treasure]N ak[to-do]V
+c.4.80.1,The temple hymns,,266,E-tar-sirsir[1]TN eš-bar[decision]N me[essence]N i[to-bring-out]V meš₃[hero]N giri₁₇[nose]N šu[hand]N ŋal₂[to-be-(located)]V
+c.4.80.1,The temple hymns,,267,nun[prince]N nun[prince]N šag₄-la₂[mercy]N sug₄[to-be-full]V kalam[the-Land]N ama[mother]N kur[(mountain)-land]N
+c.4.80.1,The temple hymns,,268,nin[lady]N a-zu[healer]N gal[to-be-big]V saŋ[head]N gig₂[to-be-black]V nam[destiny]N iri[town]N tar[to-cut]V
+c.4.80.1,The temple hymns,,269,dumu-saŋ[first-born-(child)]N An[1]DN kug[shining]AJ ki-sikil[young-woman]N ama[mother]N Bau[1]DN
+c.4.80.1,The temple hymns,,270,e₂[house(hold)]N Iri-kug[1]SN muš₃[flat-space]N e₂[house(hold)]N gub[to-stand]V barag[dais]N dur₂[rump]N ŋar[to-place]V
+c.4.80.1,The temple hymns,,271,8[8]NU e₂[house(hold)]N Bau[1]DN Iri-kug[1]SN
+c.4.80.1,The temple hymns,,272,e₂[house(hold)]N šilam[cow]N
+c.4.80.1,The temple hymns,,273,iri[town]N dalla[to-be-bright]V e₃[to-go-out-or-in]V nun[prince]N gun₃[to-be-multicoloured]V
+c.4.80.1,The temple hymns,,274,Sirara[1]SN ki[place]N gal[to-be-big]V nun[prince]N
+c.4.80.1,The temple hymns,,275,eš₃[shrine]N šid[to-count]V
+c.4.80.1,The temple hymns,,276,nin[lady]N Nanše[1]DN ud[storm]N gal[to-be-big]V a-ŋi₆[flooding]N uru₁₆[to-be-towering]V
+c.4.80.1,The temple hymns,,277,peš₁₀[bank]N a-ab-ba[sea(water)]N tud[to-give-birth]V
+c.4.80.1,The temple hymns,,278,uh₂-pu₂[foam]N ab[sea]N zu₂[tooth]N li₉[verb-part-of-multiword-verb]V
+c.4.80.1,The temple hymns,,279,a[water]N i-zi[wave]N e-ne[game]N dug₄[to-say]V
+c.4.80.1,The temple hymns,,280,Nanše[1]DN nin[lady]N
+c.4.80.1,The temple hymns,,281,e₂[house(hold)]N Sirara[1]SN muš₃[flat-space]N e₂[house(hold)]N gub[to-stand]V barag[dais]N dur₂[rump]N ŋar[to-place]V
+c.4.80.1,The temple hymns,,282,10[10]NU e₂[house(hold)]N Nanše[1]DN Sirara[1]SN
+c.4.80.1,The temple hymns,,283,E-abšaga-la[1]TN ki[place]N kug[shining]AJ du₃[to-erect]V
+c.4.80.1,The temple hymns,,284,Gu-aba[1]SN šag₄[heart]N niŋ₂[thing]N tud[to-give-birth]V erim₃[storehouse]N ŋar[to-place]V
+c.4.80.1,The temple hymns,,285,eš₃[shrine]N kug[shining]AJ šilam[cow]N niŋ₂[thing]N silig[to-cease]V
+c.4.80.1,The temple hymns,,286,nun[prince]N Ninŋagia[1]DN aŋrig[housekeeper]N mah[to-be-majestic]V
+c.4.80.1,The temple hymns,,287,kalag[to-be-strong]V a-a[father]N Enlil[1]DN
+c.4.80.1,The temple hymns,,288,en[lord]N Nunamnir[1]DN šag₄[heart]N kuš₂[to-be-tired]V
+c.4.80.1,The temple hymns,,289,tud[to-give-birth]V a-ŋi₆[flooding]N a-ab-ba[sea(water)]N
+c.4.80.1,The temple hymns,,290,a-a[father]N enkud[fisheries-inspector]N ab[sea]N sikil[to-be-pure]V
+c.4.80.1,The temple hymns,,291,e₂[house(hold)]N Gu-aba[1]SN kug[shining]AJ Ninmarki[1]DN
+c.4.80.1,The temple hymns,,292,muš₃[flat-space]N e₂[house(hold)]N gub[to-stand]V barag[dais]N dur₂[rump]N ŋar[to-place]V
+c.4.80.1,The temple hymns,,293,10[10]NU e₂[house(hold)]N Ninmarki[1]DN Gu-aba[1]SN
+c.4.80.1,The temple hymns,,294,e₂[house(hold)]N Kinirša[1]SN nin[lady]N tum₂[to-be-suitable]V
+c.4.80.1,The temple hymns,,295,hur-saŋ[mountain-(range)]N sig₇[to-be-green]V u₆-nir[ziggurat]N il₂[to-raise]V
+c.4.80.1,The temple hymns,,296,e₂[house(hold)]N ki[place]N šag₄[heart]N hul₂[to-be-happy]V gu₃[voice]N nun[prince]N dug₄[to-say]V
+c.4.80.1,The temple hymns,,297,e₂[house(hold)]N nun[prince]N ud[storm]N piriŋ[lion]N u₅[to-ride]V
+c.4.80.1,The temple hymns,,298,šir₃[song]N kug[shining]AJ šir₃[song]N ha-mun[harmony]N il₂[to-raise]V e-ne[he;-she]PD ad[voice]N gal[to-be-big]V dug₄[to-say]V
+c.4.80.1,The temple hymns,,299,dumu[child]N u₃-sumun₂[wild-cow?]N zid[right]AJ ama[mother]N ugu[to-give-birth]V gaba[chest]N kug[shining]AJ mi₂[(loving)-care]N dug₄[to-say]V
+c.4.80.1,The temple hymns,,300,eš₃[shrine]N Kinirša[1]SN Dumuzid-abzu[1]DN
+c.4.80.1,The temple hymns,,301,muš₃[flat-space]N e₂[house(hold)]N gub[to-stand]V barag[dais]N dur₂[rump]N ŋar[to-place]V
+c.4.80.1,The temple hymns,,302,7[7]NU e₂[house(hold)]N Dumuzid-abzu[1]DN Kinirša[1]SN
+c.4.80.1,The temple hymns,,303,E-bur-sigsig[1]TN an[heaven]N gub[to-stand]V
+c.4.80.1,The temple hymns,,304,unu₂[(dining)-hall]N uru₁₆[to-be-towering]V dug₄[to-say]V sa₂[to-equal]V dug₄[to-say]V
+c.4.80.1,The temple hymns,,305,he-nun[abundance]N ab-šag₄[centre-of-sea]N unu₂-RI-ban₃-da[sacred-area]N
+c.4.80.1,The temple hymns,,306,kug[shining]AJ u₃-gul[prayer]N ŋar[to-place]V asila[rejoicing]N la₂[to-hang]V
+c.4.80.1,The temple hymns,,307,E-mah[1]TN e₂[house(hold)]N Šara[1]DN lu₂[person]N zid[right]AJ
+c.4.80.1,The temple hymns,,308,nam-he₂[abundance]N šu[hand]N mu₂[to-grow]V
+c.4.80.1,The temple hymns,,309,e₂[house(hold)]N E-mah[1]TN nun[prince]N dumu[child]N nun[prince]N nu-u₈-gig[high-status-woman]N
+c.4.80.1,The temple hymns,,310,sig₅[to-be-fine]V sal[to-be-thin]V muš₃[flat-space]N he-nun[abundance]N silim[to-be-healthy]V
+c.4.80.1,The temple hymns,,311,gu₂-tar[neck-(hair)]N la₂[to-hang]V igi[eye]N bar[to-set-aside]V šilam[cow]N
+c.4.80.1,The temple hymns,,312,Šara[1]DN niŋ₂[thing]N dug₃[to-be-good]V dumu[child]N ama[mother]N me[essence]N ba[to-allot]V
+c.4.80.1,The temple hymns,,313,e₂[house(hold)]N Umma[1]SN muš₃[flat-space]N e₂[house(hold)]N gub[to-stand]V barag[dais]N dur₂[rump]N ŋar[to-place]V
+c.4.80.1,The temple hymns,,314,11[11]NU e₂[house(hold)]N Šara[1]DN Umma[1]SN
+c.4.80.1,The temple hymns,,315,E-šerzid-guru[1]TN unu₂[jewellery]N šuba[agate?]N la₂[to-hang]V
+c.4.80.1,The temple hymns,,316,ni₂[fear(someness)]N gal[to-be-big]V niŋin₃-ŋar[shrine-associated-with-Inana]N kug[shining]AJ Inana[1]DN
+c.4.80.1,The temple hymns,,317,me[essence]N zid[right]AJ me[to-be]V šu[hand]N daŋal[to-be-wide]V tag[to-touch]V
+c.4.80.1,The temple hymns,,318,Zabalam[1]SN eš₃[shrine]N kur[(mountain)-land]N šuba[shining]AJ eš₃[shrine]N ud[day(light)]N zal[to-pass]V
+c.4.80.1,The temple hymns,,319,kurku₂[desire]N ad[voice]N pad₃[to-find]V
+c.4.80.1,The temple hymns,,320,unu₂[(dining)-hall]N zid[right]AJ nu-u₈-gig[high-status-woman]N kurku₂[desire]N ri[to-direct]V
+c.4.80.1,The temple hymns,,321,nin[lady]N Inana[1]DN DAG.KISIM₅×X[DAG.KISIM₅×X]N munus[woman]N dili[single]AJ
+c.4.80.1,The temple hymns,,322,ušumgal[type-of-serpent]N lu₂[person]N inim[word]N kur₂[to-be-different]V dug₄[to-say]V
+c.4.80.1,The temple hymns,,323,niŋ₂[thing]N babbar[white]AJ saŋ[head]N mu₂[to-grow]V ki-bal[rebel-land]N saŋ[head]N ŋar[to-place]V
+c.4.80.1,The temple hymns,,324,ŋiš-he₂[firmament]N u₂-sa₁₁-an[evening]N ni₂-te-a-ni[himself;-herself]PD sig₇[to-be-green]V
+c.4.80.1,The temple hymns,,325,dumu[child]N gal[to-be-big]V Suen[1]DN kug[shining]AJ Inana[1]DN
+c.4.80.1,The temple hymns,,326,e₂[house(hold)]N ki[place]N Zabalam[1]SN muš₃[flat-space]N e₂[house(hold)]N gub[to-stand]V barag[dais]N dur₂[rump]N ŋar[to-place]V
+c.4.80.1,The temple hymns,,327,12[12]NU e₂[house(hold)]N Inana[1]DN Zabalam[1]SN
+c.4.80.1,The temple hymns,,328,e₂[house(hold)]N piriŋ[lion]N gal[to-be-big]V su-lim[(awesome)-radiance]N guru₃[to-bear]V
+c.4.80.1,The temple hymns,,329,eš-bar[decision]N an-edin[high-plain]N ud[day(light)]N galam[to-be-skilful]V e₃[to-go-out-or-in]V
+c.4.80.1,The temple hymns,,330,e₂[house(hold)]N Iškur[1]DN igi[eye]N he₂-ŋal₂[plenty]N a-ga[rear-(chamber)]N giri₁₇-zal[joy]N
+c.4.80.1,The temple hymns,,331,temen[foundation]N ŋal₂[to-be-(located)]V ninda₂[breeding-bull]N si[horn]N piriŋ[lion]N
+c.4.80.1,The temple hymns,,332,šibir[shepherd's-crook]N kug[shining]AJ ubur[breast]N an[heaven]N šeŋ₃[rain]N še[barley]N gu-nu[flax]N
+c.4.80.1,The temple hymns,,333,dub-la₂[(doorpost)-platform]N e₂[house(hold)]N am[wild-bull]N si[horn]N bad[to-open]V
+c.4.80.1,The temple hymns,,334,temen[foundation]N e₂-ŋar₈[wall]N ni₂[self]N il₂[to-raise]V
+c.4.80.1,The temple hymns,,335,dungu[cloud]N sir₂[to-be-dense]V
+c.4.80.1,The temple hymns,,336,muš-ŋiri₂[fanged-snake]N
+c.4.80.1,The temple hymns,,337,itid[moon(light)]N
+c.4.80.1,The temple hymns,,338,nam-gu₇[eating]N Iškur[1]DN a-ma-ru[flood]N ur₃[to-drag]V
+c.4.80.1,The temple hymns,,339,ulu₃[south-wind-(storm)]N mir[north-wind]N 7[7]NU
+c.4.80.1,The temple hymns,,340,mir[north-wind]N dal[to-fly]V
+c.4.80.1,The temple hymns,,341,ur₂[root]N im₂[to-run]V
+c.4.80.1,The temple hymns,,342,hur-saŋ[mountain-(range)]N esi[diorite?]N na₄[stone]N na₄[stone]N muš₃[flat-space]N dar[to-split]V
 c.4.80.1,The temple hymns,,345,
-c.4.80.1,The temple hymns,,346,sux:numun[seed]N sux:kalam[the-Land]N
-c.4.80.1,The temple hymns,,347,sux:nun[prince]N sux:ku₃-ŋal₂[canal-inspector]N sux:an[heaven]N sux:ki[place]N
-c.4.80.1,The temple hymns,,348,sux:zi-ŋal₂[living-creature]N sux:uŋ₃[people]N sux:lu[to-be-abundant]V
-c.4.80.1,The temple hymns,,349,sux:Iškur[1]DN
-c.4.80.1,The temple hymns,,350,sux:e₂[house(hold)]N sux:Karkara[1]SN sux:muš₃[flat-space]N sux:e₂[house(hold)]N sux:gub[to-stand]V sux:barag[dais]N sux:dur₂[rump]N sux:ŋar[to-place]V
-c.4.80.1,The temple hymns,,351,sux:23[23]NU sux:e₂[house(hold)]N sux:Iškur[1]DN sux:Karkara[1]SN
-c.4.80.1,The temple hymns,,352,sux:saŋ-kul[(locking)-bar]N sux:An[1]DN sux:ki[place]N sux:ŋar[to-place]V
+c.4.80.1,The temple hymns,,346,numun[seed]N kalam[the-Land]N
+c.4.80.1,The temple hymns,,347,nun[prince]N ku₃-ŋal₂[canal-inspector]N an[heaven]N ki[place]N
+c.4.80.1,The temple hymns,,348,zi-ŋal₂[living-creature]N uŋ₃[people]N lu[to-be-abundant]V
+c.4.80.1,The temple hymns,,349,Iškur[1]DN
+c.4.80.1,The temple hymns,,350,e₂[house(hold)]N Karkara[1]SN muš₃[flat-space]N e₂[house(hold)]N gub[to-stand]V barag[dais]N dur₂[rump]N ŋar[to-place]V
+c.4.80.1,The temple hymns,,351,23[23]NU e₂[house(hold)]N Iškur[1]DN Karkara[1]SN
+c.4.80.1,The temple hymns,,352,saŋ-kul[(locking)-bar]N An[1]DN ki[place]N ŋar[to-place]V
 c.4.80.1,The temple hymns,,353,
-c.4.80.1,The temple hymns,,354,sux:an[heaven]N sux:ki[place]N
-c.4.80.1,The temple hymns,,355,sux:Enki[1]DN sux:ki[place]N
+c.4.80.1,The temple hymns,,354,an[heaven]N ki[place]N
+c.4.80.1,The temple hymns,,355,Enki[1]DN ki[place]N
 c.4.80.1,The temple hymns,,356,
 c.4.80.1,The temple hymns,,358,
-c.4.80.1,The temple hymns,,361,sux:muš₃[flat-space]N sux:e₂[house(hold)]N sux:gub[to-stand]V sux:barag[dais]N sux:dur₂[rump]N sux:ŋar[to-place]V
-c.4.80.1,The temple hymns,,362,sux:10[10]NU sux:e₂[house(hold)]N sux:unclear[1]DN sux:unclear[1]SN
-c.4.80.1,The temple hymns,,365,sux:En-X[1]DN
-c.4.80.1,The temple hymns,,366,sux:muš₃[flat-space]N sux:An[1]DN sux:nam[destiny]N sux:a[water]N
-c.4.80.1,The temple hymns,,367,sux:E-mah[1]TN sux:e₂[house(hold)]N sux:šar₂[to-be-numerous]V sux:nin[lady]N sux:tum₂[to-be-suitable]V
-c.4.80.1,The temple hymns,,368,sux:igi[eye]N sux:ni₂[fear(someness)]N sux:gal[to-be-big]V sux:guru₃[to-bear]V sux:šag₄[heart]N sux:me-lem₄[(awesome)-radiance]N sux:sud[to-be-distant]V
-c.4.80.1,The temple hymns,,369,sux:ama[mother]N sux:Nintur[1]DN sux:Enlil[1]DN sux:Enki[1]DN sux:nam[destiny]N sux:tar[to-cut]V
-c.4.80.1,The temple hymns,,370,sux:E-suga[1]TN sux:ŋiri₃[foot]N sux:mu₂[to-grow]V sux:zi[life-(breath)]N sux:saŋ[head]N sux:gig₂[to-be-black]V
-c.4.80.1,The temple hymns,,371,sux:me[essence]N sux:mah[to-be-majestic]V sux:An[1]DN sux:an-šag₄[interior-of-heaven]N sux:šum₂[to-give]V
-c.4.80.1,The temple hymns,,372,sux:uz-ga[type-of-shrine]N sux:kug[shining]AJ sux:eš₃[shrine]N sux:ŋar[to-place]V
-c.4.80.1,The temple hymns,,373,sux:Ninhursaŋa[1]DN sux:Keš[1]SN sux:dug₃[to-be-good]V sux:ŋar[to-place]V
-c.4.80.1,The temple hymns,,374,sux:e₂[house(hold)]N sux:me[essence]N sux:gal[to-be-big]V sux:du₈[platform]N sux:sikil[to-be-pure]V sux:šu-luh[ritual-cleansing]N sux:dadag[to-be-bright]V
-c.4.80.1,The temple hymns,,375,sux:Ašgi[1]DN sux:diŋir[deity]N sux:Adab[1]SN
-c.4.80.1,The temple hymns,,376,sux:Adab[1]SN sux:e₂[house(hold)]N sux:id₂[watercourse]N sux:la₂[to-hang]V sux:re[that]PD
-c.4.80.1,The temple hymns,,377,sux:e₂[house(hold)]N sux:Adab[1]SN sux:muš₃[flat-space]N sux:e₂[house(hold)]N sux:gub[to-stand]V sux:barag[dais]N sux:dur₂[rump]N sux:ŋar[to-place]V
-c.4.80.1,The temple hymns,,378,sux:15[15]NU sux:e₂[house(hold)]N sux:Ninhursaŋa[1]DN sux:Adab[1]SN
-c.4.80.1,The temple hymns,,379,sux:Isin[1]SN sux:iri[town]N sux:An[1]DN sux:ki[place]N sux:ŋar[to-place]V sux:šag₄-sig[wasteland]N sux:du₃[to-erect]V
-c.4.80.1,The temple hymns,,380,sux:igi[eye]N sux:uru₁₆[to-be-towering]V sux:šag₄[heart]N sux:galam[to-be-skilful]V sux:kad₄[to-bind-together]V
-c.4.80.1,The temple hymns,,381,sux:me[essence]N sux:me[essence]N sux:An[1]DN sux:nam[destiny]N sux:tar[to-cut]V
-c.4.80.1,The temple hymns,,382,sux:barag-sig₉-ga[type-of-shrine]N sux:Enlil[1]DN sux:ki[place]N sux:aŋ₂[to-measure]V
-c.4.80.1,The temple hymns,,383,sux:ki[place]N sux:nam[destiny]N sux:tar[to-cut]V sux:An[1]DN sux:Enlil[1]DN
-c.4.80.1,The temple hymns,,384,sux:ki[place]N sux:ninda[bread]N sux:gu₇[to-eat]V sux:diŋir[deity]N sux:gal[to-be-big]V
-c.4.80.1,The temple hymns,,385,sux:ni₂[fear(someness)]N sux:gal[to-be-big]V sux:su[flesh]N sux:zig₃[to-rise]V sux:du₈[to-spread]V
-c.4.80.1,The temple hymns,,386,sux:kurun[type-of-beer]N sux:gal[to-be-big]V sux:diŋir[deity]N sux:Anuna[1]DN sux:gub[to-stand]V
-c.4.80.1,The temple hymns,,387,sux:nun[prince]N sux:ama[mother]N sux:nu-u₈-gig[high-status-woman]N sux:unu₂[jewellery]N sux:šuba[agate?]N sux:sud[to-be-distant]V
-c.4.80.1,The temple hymns,,388,sux:Niŋin-ŋar[1]TN sux:ki[place]N sux:kug[shining]AJ sux:ŋar[to-place]V
-c.4.80.1,The temple hymns,,389,sux:nu-u₈-gig[high-status-woman]N sux:suh₁₀[crown]N sux:keše₂[to-bind]V sux:dug₄[to-say]V
-c.4.80.1,The temple hymns,,390,sux:nu-bar[type-of-priestess]N sux:ubur[breast]N sux:7[7]NU sux:si[horn]N sux:sa₂[to-equal]V
-c.4.80.1,The temple hymns,,391,sux:kurku₂[desire]N sux:7[7]NU sux:ad[voice]N sux:pad₃[to-find]V
-c.4.80.1,The temple hymns,,392,sux:nin[lady]N sux:a-zu[healer]N sux:gal[to-be-big]V sux:kalam[the-Land]N
-c.4.80.1,The temple hymns,,393,sux:Ninisina[1]DN sux:dumu[child]N sux:An[1]DN
-c.4.80.1,The temple hymns,,394,sux:e₂[house(hold)]N sux:Isin[1]SN sux:muš₃[flat-space]N sux:e₂[house(hold)]N sux:gub[to-stand]V sux:barag[dais]N sux:dur₂[rump]N sux:ŋar[to-place]V
-c.4.80.1,The temple hymns,,395,sux:16[16]NU sux:e₂[house(hold)]N sux:Ninisina[1]DN sux:Isin[1]SN
-c.4.80.1,The temple hymns,,396,sux:Kazallu[1]SN sux:suh₁₀[crown]N sux:an-šag₄[interior-of-heaven]N
-c.4.80.1,The temple hymns,,397,sux:sud-aŋ₂[brilliance]N sux:u₆[wonder]N sux:gub[to-stand]V
-c.4.80.1,The temple hymns,,398,sux:nun[prince]N sux:a[water]N sux:ninda₂[breeding-bull]N sux:am[wild-bull]N sux:tud[to-give-birth]V
-c.4.80.1,The temple hymns,,399,sux:mah[to-be-majestic]V sux:igi[eye]N sux:gun₃[to-be-multicoloured]V sux:en[lord]N sux:zu₂[tooth]N sux:piriŋ[lion]N
-c.4.80.1,The temple hymns,,400,sux:umbin-še-ba[claw]N sux:amar[calf]N sux:šu[hand]N sux:te[to-approach]V
-c.4.80.1,The temple hymns,,401,sux:šu[hand]N sux:te[to-approach]V
-c.4.80.1,The temple hymns,,402,sux:šu[hand]N sux:te[to-approach]V
-c.4.80.1,The temple hymns,,403,sux:gi₄[to-return]V sux:ŋal₂[to-be-(located)]V sux:a₂[arm]N sux:šum₂[to-give]V
-c.4.80.1,The temple hymns,,404,sux:Kun-satu[1]TN sux:en[lord]N sux:gal[to-be-big]V sux:Numušda[1]DN
-c.4.80.1,The temple hymns,,405,sux:Kazallu[1]SN sux:muš₃[flat-space]N sux:e₂[house(hold)]N sux:gub[to-stand]V sux:barag[dais]N sux:dur₂[rump]N sux:ŋar[to-place]V
-c.4.80.1,The temple hymns,,406,sux:10[10]NU sux:e₂[house(hold)]N sux:Numušda[1]DN sux:Kazallu[1]SN
-c.4.80.1,The temple hymns,,407,sux:E-igi-kalama[1]TN sux:uš[foundation]N sux:ki[place]N sux:ŋar[to-place]V
-c.4.80.1,The temple hymns,,408,sux:hur-saŋ[mountain-(range)]N sux:mu₂[to-grow]V sux:daŋal[to-be-wide]V sux:ki[place]N sux:us₂[to-be-adjacent]V
-c.4.80.1,The temple hymns,,409,sux:kur[(mountain)-land]N sux:gu₂-erim₂-ŋal₂[hostile]AJ
-c.4.80.1,The temple hymns,,410,sux:an[heaven]N sux:ki[place]N sux:Nin-X[1]DN
+c.4.80.1,The temple hymns,,361,muš₃[flat-space]N e₂[house(hold)]N gub[to-stand]V barag[dais]N dur₂[rump]N ŋar[to-place]V
+c.4.80.1,The temple hymns,,362,10[10]NU e₂[house(hold)]N unclear[1]DN unclear[1]SN
+c.4.80.1,The temple hymns,,365,En-X[1]DN
+c.4.80.1,The temple hymns,,366,muš₃[flat-space]N An[1]DN nam[destiny]N a[water]N
+c.4.80.1,The temple hymns,,367,E-mah[1]TN e₂[house(hold)]N šar₂[to-be-numerous]V nin[lady]N tum₂[to-be-suitable]V
+c.4.80.1,The temple hymns,,368,igi[eye]N ni₂[fear(someness)]N gal[to-be-big]V guru₃[to-bear]V šag₄[heart]N me-lem₄[(awesome)-radiance]N sud[to-be-distant]V
+c.4.80.1,The temple hymns,,369,ama[mother]N Nintur[1]DN Enlil[1]DN Enki[1]DN nam[destiny]N tar[to-cut]V
+c.4.80.1,The temple hymns,,370,E-suga[1]TN ŋiri₃[foot]N mu₂[to-grow]V zi[life-(breath)]N saŋ[head]N gig₂[to-be-black]V
+c.4.80.1,The temple hymns,,371,me[essence]N mah[to-be-majestic]V An[1]DN an-šag₄[interior-of-heaven]N šum₂[to-give]V
+c.4.80.1,The temple hymns,,372,uz-ga[type-of-shrine]N kug[shining]AJ eš₃[shrine]N ŋar[to-place]V
+c.4.80.1,The temple hymns,,373,Ninhursaŋa[1]DN Keš[1]SN dug₃[to-be-good]V ŋar[to-place]V
+c.4.80.1,The temple hymns,,374,e₂[house(hold)]N me[essence]N gal[to-be-big]V du₈[platform]N sikil[to-be-pure]V šu-luh[ritual-cleansing]N dadag[to-be-bright]V
+c.4.80.1,The temple hymns,,375,Ašgi[1]DN diŋir[deity]N Adab[1]SN
+c.4.80.1,The temple hymns,,376,Adab[1]SN e₂[house(hold)]N id₂[watercourse]N la₂[to-hang]V re[that]PD
+c.4.80.1,The temple hymns,,377,e₂[house(hold)]N Adab[1]SN muš₃[flat-space]N e₂[house(hold)]N gub[to-stand]V barag[dais]N dur₂[rump]N ŋar[to-place]V
+c.4.80.1,The temple hymns,,378,15[15]NU e₂[house(hold)]N Ninhursaŋa[1]DN Adab[1]SN
+c.4.80.1,The temple hymns,,379,Isin[1]SN iri[town]N An[1]DN ki[place]N ŋar[to-place]V šag₄-sig[wasteland]N du₃[to-erect]V
+c.4.80.1,The temple hymns,,380,igi[eye]N uru₁₆[to-be-towering]V šag₄[heart]N galam[to-be-skilful]V kad₄[to-bind-together]V
+c.4.80.1,The temple hymns,,381,me[essence]N me[essence]N An[1]DN nam[destiny]N tar[to-cut]V
+c.4.80.1,The temple hymns,,382,barag-sig₉-ga[type-of-shrine]N Enlil[1]DN ki[place]N aŋ₂[to-measure]V
+c.4.80.1,The temple hymns,,383,ki[place]N nam[destiny]N tar[to-cut]V An[1]DN Enlil[1]DN
+c.4.80.1,The temple hymns,,384,ki[place]N ninda[bread]N gu₇[to-eat]V diŋir[deity]N gal[to-be-big]V
+c.4.80.1,The temple hymns,,385,ni₂[fear(someness)]N gal[to-be-big]V su[flesh]N zig₃[to-rise]V du₈[to-spread]V
+c.4.80.1,The temple hymns,,386,kurun[type-of-beer]N gal[to-be-big]V diŋir[deity]N Anuna[1]DN gub[to-stand]V
+c.4.80.1,The temple hymns,,387,nun[prince]N ama[mother]N nu-u₈-gig[high-status-woman]N unu₂[jewellery]N šuba[agate?]N sud[to-be-distant]V
+c.4.80.1,The temple hymns,,388,Niŋin-ŋar[1]TN ki[place]N kug[shining]AJ ŋar[to-place]V
+c.4.80.1,The temple hymns,,389,nu-u₈-gig[high-status-woman]N suh₁₀[crown]N keše₂[to-bind]V dug₄[to-say]V
+c.4.80.1,The temple hymns,,390,nu-bar[type-of-priestess]N ubur[breast]N 7[7]NU si[horn]N sa₂[to-equal]V
+c.4.80.1,The temple hymns,,391,kurku₂[desire]N 7[7]NU ad[voice]N pad₃[to-find]V
+c.4.80.1,The temple hymns,,392,nin[lady]N a-zu[healer]N gal[to-be-big]V kalam[the-Land]N
+c.4.80.1,The temple hymns,,393,Ninisina[1]DN dumu[child]N An[1]DN
+c.4.80.1,The temple hymns,,394,e₂[house(hold)]N Isin[1]SN muš₃[flat-space]N e₂[house(hold)]N gub[to-stand]V barag[dais]N dur₂[rump]N ŋar[to-place]V
+c.4.80.1,The temple hymns,,395,16[16]NU e₂[house(hold)]N Ninisina[1]DN Isin[1]SN
+c.4.80.1,The temple hymns,,396,Kazallu[1]SN suh₁₀[crown]N an-šag₄[interior-of-heaven]N
+c.4.80.1,The temple hymns,,397,sud-aŋ₂[brilliance]N u₆[wonder]N gub[to-stand]V
+c.4.80.1,The temple hymns,,398,nun[prince]N a[water]N ninda₂[breeding-bull]N am[wild-bull]N tud[to-give-birth]V
+c.4.80.1,The temple hymns,,399,mah[to-be-majestic]V igi[eye]N gun₃[to-be-multicoloured]V en[lord]N zu₂[tooth]N piriŋ[lion]N
+c.4.80.1,The temple hymns,,400,umbin-še-ba[claw]N amar[calf]N šu[hand]N te[to-approach]V
+c.4.80.1,The temple hymns,,401,šu[hand]N te[to-approach]V
+c.4.80.1,The temple hymns,,402,šu[hand]N te[to-approach]V
+c.4.80.1,The temple hymns,,403,gi₄[to-return]V ŋal₂[to-be-(located)]V a₂[arm]N šum₂[to-give]V
+c.4.80.1,The temple hymns,,404,Kun-satu[1]TN en[lord]N gal[to-be-big]V Numušda[1]DN
+c.4.80.1,The temple hymns,,405,Kazallu[1]SN muš₃[flat-space]N e₂[house(hold)]N gub[to-stand]V barag[dais]N dur₂[rump]N ŋar[to-place]V
+c.4.80.1,The temple hymns,,406,10[10]NU e₂[house(hold)]N Numušda[1]DN Kazallu[1]SN
+c.4.80.1,The temple hymns,,407,E-igi-kalama[1]TN uš[foundation]N ki[place]N ŋar[to-place]V
+c.4.80.1,The temple hymns,,408,hur-saŋ[mountain-(range)]N mu₂[to-grow]V daŋal[to-be-wide]V ki[place]N us₂[to-be-adjacent]V
+c.4.80.1,The temple hymns,,409,kur[(mountain)-land]N gu₂-erim₂-ŋal₂[hostile]AJ
+c.4.80.1,The temple hymns,,410,an[heaven]N ki[place]N Nin-X[1]DN
 c.4.80.1,The temple hymns,,411,
 c.4.80.1,The temple hymns,,412,
-c.4.80.1,The temple hymns,,414,sux:muš₃[flat-space]N sux:e₂[house(hold)]N sux:gub[to-stand]V sux:barag[dais]N sux:dur₂[rump]N sux:ŋar[to-place]V
-c.4.80.1,The temple hymns,,415,sux:8[8]NU sux:e₂[house(hold)]N sux:Lugal-Marda[1]DN sux:Marda[1]SN
-c.4.80.1,The temple hymns,,416,sux:Dēr[1]SN sux:eš-bar[decision]N sux:gal[to-be-big]V sux:kiŋ₂[to-seek]V sux:šar₂[to-be-perfect?]V sux:dug₄[to-say]V sux:gib[to-lie-across-(obstructively)]V
-c.4.80.1,The temple hymns,,417,sux:kan₄[gate]N sux:ni₂[fear(someness)]N sux:me-lem₄[(awesome)-radiance]N sux:ŋal₂[to-be-(located)]V
-c.4.80.1,The temple hymns,,418,sux:ŋiš-bur₂[architectural-feature]N sux:muš-šag₄-tur₃[horned-viper]N sux:muš-huš[type-of-serpent]N sux:gu₂[neck]N sux:la₂[to-hang]V
-c.4.80.1,The temple hymns,,419,sux:nun[prince]N sux:mas-su[leader]N sux:diŋir[deity]N
-c.4.80.1,The temple hymns,,420,sux:sa₂[advice]N sux:pad₃[to-find]V sux:mah[to-be-majestic]V sux:dug₄[to-say]V sux:he₂-du₇[(fitting)-ornament]N
-c.4.80.1,The temple hymns,,421,sux:dumu[child]N sux:Uraš[1]DN sux:me[essence]N sux:zid[right]AJ sux:nam-nun[princeliness]N sux:gal-zu[skilful]AJ
-c.4.80.1,The temple hymns,,422,sux:Ištaran[1]DN sux:lugal[king]N sux:an[heaven]N
-c.4.80.1,The temple hymns,,423,sux:E-dim-gal-kalama[1]TN sux:muš₃[flat-space]N sux:e₂[house(hold)]N sux:gub[to-stand]V sux:barag[dais]N sux:dur₂[rump]N sux:ŋar[to-place]V
-c.4.80.1,The temple hymns,,424,sux:8[8]NU sux:e₂[house(hold)]N sux:Ištaran[1]DN sux:Dēr[1]SN
-c.4.80.1,The temple hymns,,425,sux:E-sikil[1]TN sux:me[essence]N sux:sikil[to-be-pure]V sux:kur[(mountain)-land]N sux:dirig[to-be-superior]V
-c.4.80.1,The temple hymns,,426,sux:mu[name]N sux:sukud[to-be-high]V sux:uru₁₆[to-be-towering]V sux:ki-tuš[dwelling-place]N sux:mah[to-be-majestic]V sux:ur-saŋ[hero]N
-c.4.80.1,The temple hymns,,427,sux:e₂[house(hold)]N sux:kug[shining]AJ sux:Ninazu[1]DN sux:e₂[house(hold)]N sux:me[essence]N sux:kug[shining]AJ
-c.4.80.1,The temple hymns,,428,sux:e₂[house(hold)]N sux:me[essence]N sux:me[essence]N sux:sikil[to-be-pure]V sux:šu-luh[ritual-cleansing]N sux:šu-luh[ritual-cleansing]N sux:dadag[to-be-bright]V
-c.4.80.1,The temple hymns,,429,sux:ki-tuš[dwelling-place]N sux:ur-saŋ[hero]N sux:ni₂[self]N sux:ten[to-extinguish]V
-c.4.80.1,The temple hymns,,430,sux:du₈[platform]N sux:Ninazu[1]DN sux:u₂[plant]N sux:sug₄[to-be-full]V
-c.4.80.1,The temple hymns,,431,sux:lugal[king]N sux:en[lord]N sux:gal[to-be-big]V sux:dumu[child]N sux:Enlil[1]DN
-c.4.80.1,The temple hymns,,432,sux:ur-mah[lion]N sux:galam[to-be-skilful]V sux:e₃[to-go-out-or-in]V sux:kur[(mountain)-land]N sux:uš₁₁[(venomous)-spittle]N sux:šum₂[to-give]V
-c.4.80.1,The temple hymns,,433,sux:kur[(mountain)-land]N sux:gu₂-erim₂-ŋal₂[hostile]AJ sux:ulu₃[south-wind-(storm)]N sux:zig₃[to-rise]V
-c.4.80.1,The temple hymns,,434,sux:bad₃[wall]N sux:ki-bal[rebel-land]N sux:ušumgal[type-of-serpent]N sux:guruš₃[noun-part-of-multiword-verb]N sux:bur₂[to-release]V
-c.4.80.1,The temple hymns,,435,sux:še[to-agree]V sux:ulu₃[south-wind-(storm)]N sux:dul[to-cover-(together)]V sux:erim₂[enemy]N sux:ŋiri₃[foot]N sux:saga₁₁[to-press]V sux:dug₄[to-say]V
-c.4.80.1,The temple hymns,,436,sux:dub₃[knee]N sux:bad[to-open]V sux:hul-ŋal₂[evil]AJ sux:e₃[to-go-out-or-in]V
-c.4.80.1,The temple hymns,,437,sux:u₃-ma[triumph]N sux:gub[to-stand]V sux:ki-bal[rebel-land]N sux-x-emesal:uru₂[town]N sux:gul[to-destroy]V
-c.4.80.1,The temple hymns,,438,sux:saŋ-ki[forehead]N sux:gid₂[to-be-long]V sux:uŋ₃[people]N sux:sahar[earth]N sux:de₅[to-collect]V
-c.4.80.1,The temple hymns,,439,sux:e₂[house(hold)]N sux:nun[prince]N sux:piriŋ[lion]N sux:gal[to-be-big]V sux:erim₂[enemy]N sux:šu[hand]N sux:la₂[to-hang]V
-c.4.80.1,The temple hymns,,440,sux:lugal[king]N sux:ud[storm]N sux:huš[to-be-reddish]V sux:uru₁₆[to-be-towering]V sux:lipiš[inner-body]N sux:me₃[battle]N
-c.4.80.1,The temple hymns,,441,sux:šen[combat]N sux:a₂[arm]N sux:mah[to-be-majestic]V sux:gur₂₁[shield]N
-c.4.80.1,The temple hymns,,442,sux:sa-par₄[type-of-net]N sux:uŋ₃[people]N sux:daŋal[to-be-wide]V sux:erim₂[enemy]N sux:šu[hand]N sux:e₃[to-go-out-or-in]V
-c.4.80.1,The temple hymns,,443,sux:en[lord]N sux:gal[to-be-big]V sux:pa[branch]N sux:e₃[to-go-out-or-in]V sux:mah[to-be-majestic]V sux:zag[side]N sux:sa₂[to-equal]V
-c.4.80.1,The temple hymns,,444,sux:a[water]N sux:zid[right]AJ sux:kur[(mountain)-land]N sux:gal[to-be-big]V sux:Ninlil[1]DN sux:tud[to-give-birth]V
-c.4.80.1,The temple hymns,,445,sux:E-sikil[1]TN sux:lugal[king]N sux:ur-saŋ[hero]N sux:Ninazu[1]DN
-c.4.80.1,The temple hymns,,446,sux:Ešnunna[1]SN sux:muš₃[flat-space]N sux:e₂[house(hold)]N sux:gub[to-stand]V sux:barag[dais]N sux:dur₂[rump]N sux:ŋar[to-place]V
-c.4.80.1,The temple hymns,,447,sux:22[22]NU sux:e₂[house(hold)]N sux:Ninazu[1]DN sux:Ešnunna[1]SN
-c.4.80.1,The temple hymns,,448,sux:e₂[house(hold)]N sux:nam-he₂[abundance]N sux:du₃[to-erect]V sux:Kiš[1]SN sux:me[essence]N sux:nam-nun[princeliness]N sux:saŋ[head]N sux:il₂[to-raise]V
-c.4.80.1,The temple hymns,,449,sux:a₂-dam[habitation]N sux:ki[place]N sux:ŋar[to-place]V sux:temen[foundation]N sux:gal[to-be-big]V sux:sag₂[to-scatter]V sux:dug₄[to-say]V
-c.4.80.1,The temple hymns,,450,sux:ki-sa₂[plinth]N sux:muru₉[cloud]N sux:daŋal[to-be-wide]V sux:tag[to-touch]V sux:an-šag₄[interior-of-heaven]N sux:dirig[to-be-superior]V
-c.4.80.1,The temple hymns,,451,sux:šag₄[heart]N sux:tukul[weapon]N sux:mitum[type-of-weapon]N sux:a₂[arm]N sux:še-er-ka-an[adornment]N sux:dug₄[to-say]V
-c.4.80.1,The temple hymns,,452,sux:zid[right]AJ sux:kur[(mountain)-land]N sux:dub₂[to-tremble]V sux:gabu₂[left-(side)]N sux:erim₂[enemy]N sux:sal[to-be-thin]V
-c.4.80.1,The temple hymns,,453,sux:nun[prince]N sux:uru₁₆[to-be-towering]V sux:mah[to-be-majestic]V sux:ud[storm]N sux:gal[to-be-big]V sux:ki[place]N sux:us₂[to-be-adjacent]V sux:ni₂[fear(someness)]N sux:huš[to-be-reddish]V sux:gal[to-be-big]V sux:ri[to-direct]V
-c.4.80.1,The temple hymns,,454,sux:E-dub[1]TN sux:lugal[king]N sux:ur-saŋ[hero]N sux:Zababa[1]DN
-c.4.80.1,The temple hymns,,455,sux:e₂[house(hold)]N sux:Kiš[1]SN sux:muš₃[flat-space]N sux:e₂[house(hold)]N sux:gub[to-stand]V sux:barag[dais]N sux:dur₂[rump]N sux:ŋar[to-place]V
-c.4.80.1,The temple hymns,,456,sux:8[8]NU sux:e₂[house(hold)]N sux:Zababa[1]DN sux:Kiš[1]SN
-c.4.80.1,The temple hymns,,457,sux:E-ŋiškešda-kalama[1]TN
-c.4.80.1,The temple hymns,,458,sux:gud[bull]N sux:a₂[arm]N sux:nun[prince]N sux:gi₄[to-return]V sux:diŋir[deity]N
-c.4.80.1,The temple hymns,,459,sux:immal₂[wild-cow]N sux:ni₂[self]N sux:ten[to-extinguish]V sux:gud-am[wild-bull]N sux:a-nir[lament]N sux:ŋar[to-place]V
-c.4.80.1,The temple hymns,,460,sux:Gudua[1]SN sux:kar[quay]N sux:kar[quay]N sux:sig[to-be-low]V sux:a[water]N sux:naŋ[to-drink]V
-c.4.80.1,The temple hymns,,461,sux:šag₄[heart]N sux:galam[to-be-skilful]V sux:kad₄[to-bind-together]V sux:šita₂[type-of-weapon]N sux:šita₂[type-of-weapon]N sux:an[heaven]N sux:šu[hand]N sux:bar[to-set-aside]V
-c.4.80.1,The temple hymns,,462,sux:muš₃[flat-space]N sux:muš₃[flat-space]N sux:za-gin₃[lapis-lazuli]N sux:Mešlam[1]TN sux:la₂[to-hang]V
-c.4.80.1,The temple hymns,,463,sux:nun[prince]N sux:diŋir[deity]N sux:er₉[to-be-mighty]V sux:lugal[king]N sux:Mešlam[1]TN
-c.4.80.1,The temple hymns,,464,sux:diŋir[deity]N sux:huš[to-be-reddish]V sux:ki[place]N sux:lugal[king]N sux:Ud-šuš[1]TN
-c.4.80.1,The temple hymns,,465,sux:Nergal[1]DN sux:Mešlamta-ea[1]DN
-c.4.80.1,The temple hymns,,466,sux:muš₃[flat-space]N sux:e₂[house(hold)]N sux:gub[to-stand]V sux:barag[dais]N sux:dur₂[rump]N sux:ŋar[to-place]V
-c.4.80.1,The temple hymns,,467,sux:10[10]NU sux:e₂[house(hold)]N sux:Nergal[1]DN sux:Gudua[1]SN
-c.4.80.1,The temple hymns,,468,sux:Urum[1]SN sux:uru₁₆[to-be-towering]V sux:ki[place]N sux:di[(law)suit]N sux:kud[to-cut]V sux:Suen[1]DN
-c.4.80.1,The temple hymns,,469,sux:E-ab-lua[1]TN sux:tur₃[animal-stall]N sux:daŋal[to-be-wide]V
-c.4.80.1,The temple hymns,,470,sux:Ašimbabbar[1]DN sux:nam-sipad[shepherd's-craft]N sux:ak[to-do]V
-c.4.80.1,The temple hymns,,471,sux:e₂[house(hold)]N sux:lugal[king]N sux:ŋidru[sceptre]N sux:an[heaven]N sux:bad[to-open]V
-c.4.80.1,The temple hymns,,472,sux:ki[place]N sux:itid[moon(light)]N sux:giri₁₇-zal[joy]N
-c.4.80.1,The temple hymns,,473,sux:ud[day(light)]N
-c.4.80.1,The temple hymns,,474,sux:nun[prince]N sux:nun[prince]N sux:giri₁₇-zal[joy]N sux:kug[shining]AJ
-c.4.80.1,The temple hymns,,475,sux:an[heaven]N sux:za-gin₃[lapis-lazuli]N sux:e₃[to-go-out-or-in]V sux:giri₁₇-zal[joy]N sux:šag₄[heart]N sux:meš₃[hero]N sux:giri₁₇[nose]N sux:šu[hand]N sux:ŋal₂[to-be-(located)]V
-c.4.80.1,The temple hymns,,476,sux:kalam[the-Land]N sux:dadag[to-be-bright]V sux:Suen[1]DN
-c.4.80.1,The temple hymns,,477,sux:e₂[house(hold)]N sux:Urum[1]SN sux:muš₃[flat-space]N sux:e₂[house(hold)]N sux:gub[to-stand]V sux:barag[dais]N sux:dur₂[rump]N sux:ŋar[to-place]V
-c.4.80.1,The temple hymns,,478,sux:10[10]NU sux:e₂[house(hold)]N sux:Suen[1]DN sux:Urum[1]SN
-c.4.80.1,The temple hymns,,479,sux:Zimbir[1]SN sux:barag[dais]N sux:Utu[1]DN sux:ud[day(light)]N sux:dur₂[rump]N sux:ŋar[to-place]V
-c.4.80.1,The temple hymns,,480,sux:E-nun-ana[1]TN sux:mul-an[heavenly-star]N sux:men[diadem]N sux:Ningal[1]DN sux:tud[to-give-birth]V
-c.4.80.1,The temple hymns,,481,sux:e₂[house(hold)]N sux:Utu[1]DN sux:nun[prince]N sux:ki-šar₂[totality]N sux:an[heaven]N sux:ki[place]N sux:si[to-fill]V
-c.4.80.1,The temple hymns,,482,sux:en[lord]N sux:nu₂[to-lie-down]V sux:uŋ₃[people]N sux:nu₂[to-lie-down]V
-c.4.80.1,The temple hymns,,483,sux:zig₃[to-rise]V sux:uŋ₃[people]N sux:zig₃[to-rise]V
-c.4.80.1,The temple hymns,,484,sux:gud[bull]N sux:ur₄[to-be-convulsed]V sux:uŋ₃[people]N sux:giri₁₇[nose]N sux:du₃[to-erect]V
-c.4.80.1,The temple hymns,,485,sux:Utu[1]DN sux:maš₂-anše[animals]N sux:u₂[plant]N sux:gub[to-stand]V
-c.4.80.1,The temple hymns,,486,sux:saŋ[head]N sux:gig₂[to-be-black]V sux:a[water]N sux:tu₅[to-wash]V
-c.4.80.1,The temple hymns,,487,sux:kalam[the-Land]N sux:zag-še[shoulder]N sux:sig₉[to-put]V
-c.4.80.1,The temple hymns,,488,sux:me[essence]N sux:dug₄[to-say]V sux:eš₃[shrine]N sux:uru₂[flood]N
-c.4.80.1,The temple hymns,,489,sux:di[(law)suit]N sux:kud[to-cut]V sux:ki[place]N sux:ud[day(light)]N sux:e₃[to-go-out-or-in]V sux:ud[day(light)]N sux:uru₁₆[to-be-towering]V sux:sun₄[beard]N sux:la₂[to-hang]V
-c.4.80.1,The temple hymns,,490,sux:ŋi₆[night]N sux:u₃-na[designation-of-night]N sux:suh₁₀[crown]N sux:keše₂[to-bind]V
-c.4.80.1,The temple hymns,,491,sux:Utu[1]DN sux:lugal[king]N sux:E-babbar[1]TN
-c.4.80.1,The temple hymns,,492,sux:e₂[house(hold)]N sux:Zimbir[1]SN sux:muš₃[flat-space]N sux:e₂[house(hold)]N sux:gub[to-stand]V sux:barag[dais]N sux:dur₂[rump]N sux:ŋar[to-place]V
-c.4.80.1,The temple hymns,,493,sux:14[14]NU sux:e₂[house(hold)]N sux:Utu[1]DN sux:Zimbir[1]SN
-c.4.80.1,The temple hymns,,494,sux:E-hursaŋ[1]TN sux:u₂-šim[greenery]N sux:gurun[fruit]N sux:sig₇[to-be-green]V
-c.4.80.1,The temple hymns,,495,sux:HI.ZA[1]SN sux:šag₄[heart]N sux:nam-he₂[abundance]N
-c.4.80.1,The temple hymns,,496,sux:ki[place]N sux:nam[destiny]N sux:tar[to-cut]V sux:nam[destiny]N sux:tar[to-cut]V
-c.4.80.1,The temple hymns,,497,sux:muš₃[flat-space]N sux:men[diadem]N sux:ul[to-swell-(with-joy)]V sux:de₆[to-carry]V
-c.4.80.1,The temple hymns,,498,sux:erina₈[root]N sux:muš-saŋ-kal[type-of-snake]N sux:zu[to-know]V
-c.4.80.1,The temple hymns,,499,sux:temen[foundation]N sux:kug[shining]AJ sux:ud[day(light)]N sux:kar₂[to-blow]V
-c.4.80.1,The temple hymns,,500,sux:ama[mother]N sux:Nintur[1]DN sux:nin[lady]N sux:ulutim₂[form]N
-c.4.80.1,The temple hymns,,501,sux:šag₄[heart]N sux:ki[place]N sux:ku₁₀-ku₁₀[to-be-dark]V sux:kiŋ₂[work]N sux:ak[to-do]V
-c.4.80.1,The temple hymns,,502,sux:lugal[king]N sux:tud[to-give-birth]V sux:suh₁₀[crown]N sux:zid[right]AJ sux:keše₂[to-bind]V sux:dug₄[to-say]V
-c.4.80.1,The temple hymns,,503,sux:en[lord]N sux:tud[to-give-birth]V sux:saŋ-men[type-of-crown]N sux:ŋar[to-place]V sux:šu[hand]N sux:ŋal₂[to-be-(located)]V
-c.4.80.1,The temple hymns,,504,sux:šag₄[heart]N sux:an[heaven]N sux:ki[place]N sux:Ninhursaŋa[1]DN
-c.4.80.1,The temple hymns,,505,sux:e₂[house(hold)]N sux:HI.ZA[1]SN sux:muš₃[flat-space]N sux:e₂[house(hold)]N sux:gub[to-stand]V sux:barag[dais]N sux:dur₂[rump]N sux:ŋar[to-place]V
-c.4.80.1,The temple hymns,,506,sux:12[12]NU sux:e₂[house(hold)]N sux:Ninhursaŋa[1]DN sux:HI.ZA[1]SN
-c.4.80.1,The temple hymns,,507,sux:Ulmaš[1]SN sux:igi-nim[upper-land]N sux:KAB.LAH₄[meaning-unknown]N sux:kalam[the-Land]N
-c.4.80.1,The temple hymns,,508,sux:ug[lion]N sux:huš[to-be-reddish]V sux:am[wild-bull]N sux:du₇[to-push]V
-c.4.80.1,The temple hymns,,509,sux:gu₂-erim₂-ŋal₂[hostile]AJ sux:sa[net]N sux:barag₂[to-spread-out]V
-c.4.80.1,The temple hymns,,510,sux:niŋ₂-me-ŋar[silence]N sux:ki-bal[rebel-land]N sux:du₇-du₇[to-circle-around]V
-c.4.80.1,The temple hymns,,511,sux:en-na[as-long-as]C sux:še[to-agree]V sux:eme[tongue]N sux:sig[to-be-low]V sux:nu₂[to-lie-down]V
-c.4.80.1,The temple hymns,,512,sux:e₂[house(hold)]N sux:Inana[1]DN sux:kug[precious-metal]N sux:za-gin₃[lapis-lazuli]N sux:šutum[storehouse]N sux:kug-sig₁₇[gold]N sux:du₃[to-erect]V
-c.4.80.1,The temple hymns,,513,sux:nun[prince]N sux:a₁₂-ra₂-bu[type-of-bird]N sux:nu-u₈-gig[high-status-woman]N sux:niŋin₃-ŋar[shrine-associated-with-Inana]N
-c.4.80.1,The temple hymns,,514,sux:me₃[battle]N sux:gu₂[neck]N sux:e₃[to-go-out-or-in]V sux:hul₂[to-be-happy]V sux:sig₇[to-be-green]V sux:šita₂[type-of-weapon]N sux:7[7]NU sux:si[horn]N sux:sa₂[to-equal]V
-c.4.80.1,The temple hymns,,515,sux:a₂-kar₂[implement]N sux:a[water]N sux:me₃[battle]N sux:tu₅[to-wash]V
-c.4.80.1,The temple hymns,,516,sux:kan₄[gate]N sux:me₃[battle]N sux:ŋal₂[to-open]V sux:taka₄[to-leave-behind]V
-c.4.80.1,The temple hymns,,517,sux:gal-zu[skilful]AJ sux:an[heaven]N sux:Inana[1]DN
-c.4.80.1,The temple hymns,,518,sux:e₂[house(hold)]N sux:Ulmaš[1]SN sux:muš₃[flat-space]N sux:e₂[house(hold)]N sux:gub[to-stand]V sux:barag[dais]N sux:dur₂[rump]N sux:ŋar[to-place]V
-c.4.80.1,The temple hymns,,519,sux:12[12]NU sux:e₂[house(hold)]N sux:Inana[1]DN sux:Ulmaš[1]SN
-c.4.80.1,The temple hymns,,520,sux:e₂[house(hold)]N sux:a₂[arm]N sux:zid[right]AJ sux:lub-bi[type-of-axe]N sux:me₃[battle]N sux:kud[to-cut]V sux:ki-bal[rebel-land]N
-c.4.80.1,The temple hymns,,521,sux:a-gar₃[meadow]N sux:sig₇[to-be-green]V sux:dun[to-dig]V
+c.4.80.1,The temple hymns,,414,muš₃[flat-space]N e₂[house(hold)]N gub[to-stand]V barag[dais]N dur₂[rump]N ŋar[to-place]V
+c.4.80.1,The temple hymns,,415,8[8]NU e₂[house(hold)]N Lugal-Marda[1]DN Marda[1]SN
+c.4.80.1,The temple hymns,,416,Dēr[1]SN eš-bar[decision]N gal[to-be-big]V kiŋ₂[to-seek]V šar₂[to-be-perfect?]V dug₄[to-say]V gib[to-lie-across-(obstructively)]V
+c.4.80.1,The temple hymns,,417,kan₄[gate]N ni₂[fear(someness)]N me-lem₄[(awesome)-radiance]N ŋal₂[to-be-(located)]V
+c.4.80.1,The temple hymns,,418,ŋiš-bur₂[architectural-feature]N muš-šag₄-tur₃[horned-viper]N muš-huš[type-of-serpent]N gu₂[neck]N la₂[to-hang]V
+c.4.80.1,The temple hymns,,419,nun[prince]N mas-su[leader]N diŋir[deity]N
+c.4.80.1,The temple hymns,,420,sa₂[advice]N pad₃[to-find]V mah[to-be-majestic]V dug₄[to-say]V he₂-du₇[(fitting)-ornament]N
+c.4.80.1,The temple hymns,,421,dumu[child]N Uraš[1]DN me[essence]N zid[right]AJ nam-nun[princeliness]N gal-zu[skilful]AJ
+c.4.80.1,The temple hymns,,422,Ištaran[1]DN lugal[king]N an[heaven]N
+c.4.80.1,The temple hymns,,423,E-dim-gal-kalama[1]TN muš₃[flat-space]N e₂[house(hold)]N gub[to-stand]V barag[dais]N dur₂[rump]N ŋar[to-place]V
+c.4.80.1,The temple hymns,,424,8[8]NU e₂[house(hold)]N Ištaran[1]DN Dēr[1]SN
+c.4.80.1,The temple hymns,,425,E-sikil[1]TN me[essence]N sikil[to-be-pure]V kur[(mountain)-land]N dirig[to-be-superior]V
+c.4.80.1,The temple hymns,,426,mu[name]N sukud[to-be-high]V uru₁₆[to-be-towering]V ki-tuš[dwelling-place]N mah[to-be-majestic]V ur-saŋ[hero]N
+c.4.80.1,The temple hymns,,427,e₂[house(hold)]N kug[shining]AJ Ninazu[1]DN e₂[house(hold)]N me[essence]N kug[shining]AJ
+c.4.80.1,The temple hymns,,428,e₂[house(hold)]N me[essence]N me[essence]N sikil[to-be-pure]V šu-luh[ritual-cleansing]N šu-luh[ritual-cleansing]N dadag[to-be-bright]V
+c.4.80.1,The temple hymns,,429,ki-tuš[dwelling-place]N ur-saŋ[hero]N ni₂[self]N ten[to-extinguish]V
+c.4.80.1,The temple hymns,,430,du₈[platform]N Ninazu[1]DN u₂[plant]N sug₄[to-be-full]V
+c.4.80.1,The temple hymns,,431,lugal[king]N en[lord]N gal[to-be-big]V dumu[child]N Enlil[1]DN
+c.4.80.1,The temple hymns,,432,ur-mah[lion]N galam[to-be-skilful]V e₃[to-go-out-or-in]V kur[(mountain)-land]N uš₁₁[(venomous)-spittle]N šum₂[to-give]V
+c.4.80.1,The temple hymns,,433,kur[(mountain)-land]N gu₂-erim₂-ŋal₂[hostile]AJ ulu₃[south-wind-(storm)]N zig₃[to-rise]V
+c.4.80.1,The temple hymns,,434,bad₃[wall]N ki-bal[rebel-land]N ušumgal[type-of-serpent]N guruš₃[noun-part-of-multiword-verb]N bur₂[to-release]V
+c.4.80.1,The temple hymns,,435,še[to-agree]V ulu₃[south-wind-(storm)]N dul[to-cover-(together)]V erim₂[enemy]N ŋiri₃[foot]N saga₁₁[to-press]V dug₄[to-say]V
+c.4.80.1,The temple hymns,,436,dub₃[knee]N bad[to-open]V hul-ŋal₂[evil]AJ e₃[to-go-out-or-in]V
+c.4.80.1,The temple hymns,,437,u₃-ma[triumph]N gub[to-stand]V ki-bal[rebel-land]N uru₂[town]N gul[to-destroy]V
+c.4.80.1,The temple hymns,,438,saŋ-ki[forehead]N gid₂[to-be-long]V uŋ₃[people]N sahar[earth]N de₅[to-collect]V
+c.4.80.1,The temple hymns,,439,e₂[house(hold)]N nun[prince]N piriŋ[lion]N gal[to-be-big]V erim₂[enemy]N šu[hand]N la₂[to-hang]V
+c.4.80.1,The temple hymns,,440,lugal[king]N ud[storm]N huš[to-be-reddish]V uru₁₆[to-be-towering]V lipiš[inner-body]N me₃[battle]N
+c.4.80.1,The temple hymns,,441,šen[combat]N a₂[arm]N mah[to-be-majestic]V gur₂₁[shield]N
+c.4.80.1,The temple hymns,,442,sa-par₄[type-of-net]N uŋ₃[people]N daŋal[to-be-wide]V erim₂[enemy]N šu[hand]N e₃[to-go-out-or-in]V
+c.4.80.1,The temple hymns,,443,en[lord]N gal[to-be-big]V pa[branch]N e₃[to-go-out-or-in]V mah[to-be-majestic]V zag[side]N sa₂[to-equal]V
+c.4.80.1,The temple hymns,,444,a[water]N zid[right]AJ kur[(mountain)-land]N gal[to-be-big]V Ninlil[1]DN tud[to-give-birth]V
+c.4.80.1,The temple hymns,,445,E-sikil[1]TN lugal[king]N ur-saŋ[hero]N Ninazu[1]DN
+c.4.80.1,The temple hymns,,446,Ešnunna[1]SN muš₃[flat-space]N e₂[house(hold)]N gub[to-stand]V barag[dais]N dur₂[rump]N ŋar[to-place]V
+c.4.80.1,The temple hymns,,447,22[22]NU e₂[house(hold)]N Ninazu[1]DN Ešnunna[1]SN
+c.4.80.1,The temple hymns,,448,e₂[house(hold)]N nam-he₂[abundance]N du₃[to-erect]V Kiš[1]SN me[essence]N nam-nun[princeliness]N saŋ[head]N il₂[to-raise]V
+c.4.80.1,The temple hymns,,449,a₂-dam[habitation]N ki[place]N ŋar[to-place]V temen[foundation]N gal[to-be-big]V sag₂[to-scatter]V dug₄[to-say]V
+c.4.80.1,The temple hymns,,450,ki-sa₂[plinth]N muru₉[cloud]N daŋal[to-be-wide]V tag[to-touch]V an-šag₄[interior-of-heaven]N dirig[to-be-superior]V
+c.4.80.1,The temple hymns,,451,šag₄[heart]N tukul[weapon]N mitum[type-of-weapon]N a₂[arm]N še-er-ka-an[adornment]N dug₄[to-say]V
+c.4.80.1,The temple hymns,,452,zid[right]AJ kur[(mountain)-land]N dub₂[to-tremble]V gabu₂[left-(side)]N erim₂[enemy]N sal[to-be-thin]V
+c.4.80.1,The temple hymns,,453,nun[prince]N uru₁₆[to-be-towering]V mah[to-be-majestic]V ud[storm]N gal[to-be-big]V ki[place]N us₂[to-be-adjacent]V ni₂[fear(someness)]N huš[to-be-reddish]V gal[to-be-big]V ri[to-direct]V
+c.4.80.1,The temple hymns,,454,E-dub[1]TN lugal[king]N ur-saŋ[hero]N Zababa[1]DN
+c.4.80.1,The temple hymns,,455,e₂[house(hold)]N Kiš[1]SN muš₃[flat-space]N e₂[house(hold)]N gub[to-stand]V barag[dais]N dur₂[rump]N ŋar[to-place]V
+c.4.80.1,The temple hymns,,456,8[8]NU e₂[house(hold)]N Zababa[1]DN Kiš[1]SN
+c.4.80.1,The temple hymns,,457,E-ŋiškešda-kalama[1]TN
+c.4.80.1,The temple hymns,,458,gud[bull]N a₂[arm]N nun[prince]N gi₄[to-return]V diŋir[deity]N
+c.4.80.1,The temple hymns,,459,immal₂[wild-cow]N ni₂[self]N ten[to-extinguish]V gud-am[wild-bull]N a-nir[lament]N ŋar[to-place]V
+c.4.80.1,The temple hymns,,460,Gudua[1]SN kar[quay]N kar[quay]N sig[to-be-low]V a[water]N naŋ[to-drink]V
+c.4.80.1,The temple hymns,,461,šag₄[heart]N galam[to-be-skilful]V kad₄[to-bind-together]V šita₂[type-of-weapon]N šita₂[type-of-weapon]N an[heaven]N šu[hand]N bar[to-set-aside]V
+c.4.80.1,The temple hymns,,462,muš₃[flat-space]N muš₃[flat-space]N za-gin₃[lapis-lazuli]N Mešlam[1]TN la₂[to-hang]V
+c.4.80.1,The temple hymns,,463,nun[prince]N diŋir[deity]N er₉[to-be-mighty]V lugal[king]N Mešlam[1]TN
+c.4.80.1,The temple hymns,,464,diŋir[deity]N huš[to-be-reddish]V ki[place]N lugal[king]N Ud-šuš[1]TN
+c.4.80.1,The temple hymns,,465,Nergal[1]DN Mešlamta-ea[1]DN
+c.4.80.1,The temple hymns,,466,muš₃[flat-space]N e₂[house(hold)]N gub[to-stand]V barag[dais]N dur₂[rump]N ŋar[to-place]V
+c.4.80.1,The temple hymns,,467,10[10]NU e₂[house(hold)]N Nergal[1]DN Gudua[1]SN
+c.4.80.1,The temple hymns,,468,Urum[1]SN uru₁₆[to-be-towering]V ki[place]N di[(law)suit]N kud[to-cut]V Suen[1]DN
+c.4.80.1,The temple hymns,,469,E-ab-lua[1]TN tur₃[animal-stall]N daŋal[to-be-wide]V
+c.4.80.1,The temple hymns,,470,Ašimbabbar[1]DN nam-sipad[shepherd's-craft]N ak[to-do]V
+c.4.80.1,The temple hymns,,471,e₂[house(hold)]N lugal[king]N ŋidru[sceptre]N an[heaven]N bad[to-open]V
+c.4.80.1,The temple hymns,,472,ki[place]N itid[moon(light)]N giri₁₇-zal[joy]N
+c.4.80.1,The temple hymns,,473,ud[day(light)]N
+c.4.80.1,The temple hymns,,474,nun[prince]N nun[prince]N giri₁₇-zal[joy]N kug[shining]AJ
+c.4.80.1,The temple hymns,,475,an[heaven]N za-gin₃[lapis-lazuli]N e₃[to-go-out-or-in]V giri₁₇-zal[joy]N šag₄[heart]N meš₃[hero]N giri₁₇[nose]N šu[hand]N ŋal₂[to-be-(located)]V
+c.4.80.1,The temple hymns,,476,kalam[the-Land]N dadag[to-be-bright]V Suen[1]DN
+c.4.80.1,The temple hymns,,477,e₂[house(hold)]N Urum[1]SN muš₃[flat-space]N e₂[house(hold)]N gub[to-stand]V barag[dais]N dur₂[rump]N ŋar[to-place]V
+c.4.80.1,The temple hymns,,478,10[10]NU e₂[house(hold)]N Suen[1]DN Urum[1]SN
+c.4.80.1,The temple hymns,,479,Zimbir[1]SN barag[dais]N Utu[1]DN ud[day(light)]N dur₂[rump]N ŋar[to-place]V
+c.4.80.1,The temple hymns,,480,E-nun-ana[1]TN mul-an[heavenly-star]N men[diadem]N Ningal[1]DN tud[to-give-birth]V
+c.4.80.1,The temple hymns,,481,e₂[house(hold)]N Utu[1]DN nun[prince]N ki-šar₂[totality]N an[heaven]N ki[place]N si[to-fill]V
+c.4.80.1,The temple hymns,,482,en[lord]N nu₂[to-lie-down]V uŋ₃[people]N nu₂[to-lie-down]V
+c.4.80.1,The temple hymns,,483,zig₃[to-rise]V uŋ₃[people]N zig₃[to-rise]V
+c.4.80.1,The temple hymns,,484,gud[bull]N ur₄[to-be-convulsed]V uŋ₃[people]N giri₁₇[nose]N du₃[to-erect]V
+c.4.80.1,The temple hymns,,485,Utu[1]DN maš₂-anše[animals]N u₂[plant]N gub[to-stand]V
+c.4.80.1,The temple hymns,,486,saŋ[head]N gig₂[to-be-black]V a[water]N tu₅[to-wash]V
+c.4.80.1,The temple hymns,,487,kalam[the-Land]N zag-še[shoulder]N sig₉[to-put]V
+c.4.80.1,The temple hymns,,488,me[essence]N dug₄[to-say]V eš₃[shrine]N uru₂[flood]N
+c.4.80.1,The temple hymns,,489,di[(law)suit]N kud[to-cut]V ki[place]N ud[day(light)]N e₃[to-go-out-or-in]V ud[day(light)]N uru₁₆[to-be-towering]V sun₄[beard]N la₂[to-hang]V
+c.4.80.1,The temple hymns,,490,ŋi₆[night]N u₃-na[designation-of-night]N suh₁₀[crown]N keše₂[to-bind]V
+c.4.80.1,The temple hymns,,491,Utu[1]DN lugal[king]N E-babbar[1]TN
+c.4.80.1,The temple hymns,,492,e₂[house(hold)]N Zimbir[1]SN muš₃[flat-space]N e₂[house(hold)]N gub[to-stand]V barag[dais]N dur₂[rump]N ŋar[to-place]V
+c.4.80.1,The temple hymns,,493,14[14]NU e₂[house(hold)]N Utu[1]DN Zimbir[1]SN
+c.4.80.1,The temple hymns,,494,E-hursaŋ[1]TN u₂-šim[greenery]N gurun[fruit]N sig₇[to-be-green]V
+c.4.80.1,The temple hymns,,495,HI.ZA[1]SN šag₄[heart]N nam-he₂[abundance]N
+c.4.80.1,The temple hymns,,496,ki[place]N nam[destiny]N tar[to-cut]V nam[destiny]N tar[to-cut]V
+c.4.80.1,The temple hymns,,497,muš₃[flat-space]N men[diadem]N ul[to-swell-(with-joy)]V de₆[to-carry]V
+c.4.80.1,The temple hymns,,498,erina₈[root]N muš-saŋ-kal[type-of-snake]N zu[to-know]V
+c.4.80.1,The temple hymns,,499,temen[foundation]N kug[shining]AJ ud[day(light)]N kar₂[to-blow]V
+c.4.80.1,The temple hymns,,500,ama[mother]N Nintur[1]DN nin[lady]N ulutim₂[form]N
+c.4.80.1,The temple hymns,,501,šag₄[heart]N ki[place]N ku₁₀-ku₁₀[to-be-dark]V kiŋ₂[work]N ak[to-do]V
+c.4.80.1,The temple hymns,,502,lugal[king]N tud[to-give-birth]V suh₁₀[crown]N zid[right]AJ keše₂[to-bind]V dug₄[to-say]V
+c.4.80.1,The temple hymns,,503,en[lord]N tud[to-give-birth]V saŋ-men[type-of-crown]N ŋar[to-place]V šu[hand]N ŋal₂[to-be-(located)]V
+c.4.80.1,The temple hymns,,504,šag₄[heart]N an[heaven]N ki[place]N Ninhursaŋa[1]DN
+c.4.80.1,The temple hymns,,505,e₂[house(hold)]N HI.ZA[1]SN muš₃[flat-space]N e₂[house(hold)]N gub[to-stand]V barag[dais]N dur₂[rump]N ŋar[to-place]V
+c.4.80.1,The temple hymns,,506,12[12]NU e₂[house(hold)]N Ninhursaŋa[1]DN HI.ZA[1]SN
+c.4.80.1,The temple hymns,,507,Ulmaš[1]SN igi-nim[upper-land]N KAB.LAH₄[meaning-unknown]N kalam[the-Land]N
+c.4.80.1,The temple hymns,,508,ug[lion]N huš[to-be-reddish]V am[wild-bull]N du₇[to-push]V
+c.4.80.1,The temple hymns,,509,gu₂-erim₂-ŋal₂[hostile]AJ sa[net]N barag₂[to-spread-out]V
+c.4.80.1,The temple hymns,,510,niŋ₂-me-ŋar[silence]N ki-bal[rebel-land]N du₇-du₇[to-circle-around]V
+c.4.80.1,The temple hymns,,511,en-na[as-long-as]C še[to-agree]V eme[tongue]N sig[to-be-low]V nu₂[to-lie-down]V
+c.4.80.1,The temple hymns,,512,e₂[house(hold)]N Inana[1]DN kug[precious-metal]N za-gin₃[lapis-lazuli]N šutum[storehouse]N kug-sig₁₇[gold]N du₃[to-erect]V
+c.4.80.1,The temple hymns,,513,nun[prince]N a₁₂-ra₂-bu[type-of-bird]N nu-u₈-gig[high-status-woman]N niŋin₃-ŋar[shrine-associated-with-Inana]N
+c.4.80.1,The temple hymns,,514,me₃[battle]N gu₂[neck]N e₃[to-go-out-or-in]V hul₂[to-be-happy]V sig₇[to-be-green]V šita₂[type-of-weapon]N 7[7]NU si[horn]N sa₂[to-equal]V
+c.4.80.1,The temple hymns,,515,a₂-kar₂[implement]N a[water]N me₃[battle]N tu₅[to-wash]V
+c.4.80.1,The temple hymns,,516,kan₄[gate]N me₃[battle]N ŋal₂[to-open]V taka₄[to-leave-behind]V
+c.4.80.1,The temple hymns,,517,gal-zu[skilful]AJ an[heaven]N Inana[1]DN
+c.4.80.1,The temple hymns,,518,e₂[house(hold)]N Ulmaš[1]SN muš₃[flat-space]N e₂[house(hold)]N gub[to-stand]V barag[dais]N dur₂[rump]N ŋar[to-place]V
+c.4.80.1,The temple hymns,,519,12[12]NU e₂[house(hold)]N Inana[1]DN Ulmaš[1]SN
+c.4.80.1,The temple hymns,,520,e₂[house(hold)]N a₂[arm]N zid[right]AJ lub-bi[type-of-axe]N me₃[battle]N kud[to-cut]V ki-bal[rebel-land]N
+c.4.80.1,The temple hymns,,521,a-gar₃[meadow]N sig₇[to-be-green]V dun[to-dig]V
 c.4.80.1,The temple hymns,,522,
 c.4.80.1,The temple hymns,,523,
-c.4.80.1,The temple hymns,,524,sux:nun[prince]N sux:ur-saŋ[hero]N sux:ra[to-beat]V
-c.4.80.1,The temple hymns,,525,sux:me₃[battle]N sux:šar₂[to-be-numerous]V sux:aga₃-kar₂[conquering]N sux:e-ne[game]N sux:dug₄[to-say]V
-c.4.80.1,The temple hymns,,526,sux:Aba[1]DN sux:diŋir[deity]N sux:Agade[1]SN
-c.4.80.1,The temple hymns,,527,sux:e₂[house(hold)]N sux:Agade[1]SN sux:muš₃[flat-space]N sux:e₂[house(hold)]N sux:gub[to-stand]V sux:barag[dais]N sux:dur₂[rump]N sux:ŋar[to-place]V
-c.4.80.1,The temple hymns,,528,sux:8[8]NU sux:e₂[house(hold)]N sux:Aba[1]DN sux:Agade[1]SN
-c.4.80.1,The temple hymns,,529,sux:e₂[house(hold)]N sux:mul[to-radiate]V sux:E-zagin[1]TN sux:gun₃[to-be-multicoloured]V sux:kur[(mountain)-land]N sux:bad[to-open]V
-c.4.80.1,The temple hymns,,530,sux:ha-mun[harmony]N sux:du₆[(ruin)-mound]N sux:eš₃[shrine]N sux:ŋar[to-place]V
-c.4.80.1,The temple hymns,,531,sux:Ereš[1]SN sux:en[lord]N sux:dug₄[to-say]V sux:itid[moon(light)]N sux:saŋ[head]N sux:il₂[to-raise]V
-c.4.80.1,The temple hymns,,532,sux:du₆[(ruin)-mound]N sux:naŋa[potash]N sux:naŋa[potash]N sux:di₄-di₄[to-be-small]V
-c.4.80.1,The temple hymns,,533,sux:Nanibgal[1]DN sux:gal[to-be-big]V sux:Nisaba[1]DN
-c.4.80.1,The temple hymns,,534,sux:me[essence]N sux:an[heaven]N sux:e₃[to-go-out-or-in]V sux:me[essence]N sux:tah[to-add]V
-c.4.80.1,The temple hymns,,535,sux:zag[side]N sux:sal[to-be-thin]V sux:ŋar[to-place]V
-c.4.80.1,The temple hymns,,536,sux:munus[woman]N sux:zid[right]AJ sux:ŋeštug₂[ear]N sux:dirig[to-be-superior]V sux:tuku[to-have]V
-c.4.80.1,The temple hymns,,537,sux:IM.ŊAR[meaning-unknown]N sux:sed₄[to-be-cold]V sux:ka[mouth]N sux:du₈[to-spread]V
-c.4.80.1,The temple hymns,,538,sux:dub[tablet]N sux:za-gin₃[lapis-lazuli]N sux:ad[voice]N sux:gi₄[to-return]V
-c.4.80.1,The temple hymns,,539,sux:kur[(mountain)-land]N sux:ad[voice]N sux:ša₄[verb-part-of-multiword-verb]V sux:ŋar[to-place]V
-c.4.80.1,The temple hymns,,540,sux:munus[woman]N sux:zid[right]AJ sux:naŋa[potash]N sux:kug[shining]AJ sux:gi[reed]N sux:du₃[to-erect]V sux:tud[to-give-birth]V
-c.4.80.1,The temple hymns,,541,sux:an[heaven]N sux:kuš₃[length-measure]N sux:ra[to-beat]V sux:ki[place]N sux:eš₂[rope]N sux:ra[to-beat]V
-c.4.80.1,The temple hymns,,542,sux:Nisaba[1]DN sux:za₃-mi₂[praise]N
-c.4.80.1,The temple hymns,,543,sux:lu₂[person]N sux:dub[tablet]N sux:zu₂[tooth]N sux:keše₂[to-bind]V sux:En-hedu-ana[1]PN
-c.4.80.1,The temple hymns,,544,sux:lugal[king]N sux:niŋ₂[thing]N sux:tud[to-give-birth]V sux:na-me[any]PD sux:lu₂[person]N sux:tud[to-give-birth]V
-c.4.80.1,The temple hymns,,545,sux:14[14]NU sux:e₂[house(hold)]N sux:Nisaba[1]DN sux:Ereš[1]SN
+c.4.80.1,The temple hymns,,524,nun[prince]N ur-saŋ[hero]N ra[to-beat]V
+c.4.80.1,The temple hymns,,525,me₃[battle]N šar₂[to-be-numerous]V aga₃-kar₂[conquering]N e-ne[game]N dug₄[to-say]V
+c.4.80.1,The temple hymns,,526,Aba[1]DN diŋir[deity]N Agade[1]SN
+c.4.80.1,The temple hymns,,527,e₂[house(hold)]N Agade[1]SN muš₃[flat-space]N e₂[house(hold)]N gub[to-stand]V barag[dais]N dur₂[rump]N ŋar[to-place]V
+c.4.80.1,The temple hymns,,528,8[8]NU e₂[house(hold)]N Aba[1]DN Agade[1]SN
+c.4.80.1,The temple hymns,,529,e₂[house(hold)]N mul[to-radiate]V E-zagin[1]TN gun₃[to-be-multicoloured]V kur[(mountain)-land]N bad[to-open]V
+c.4.80.1,The temple hymns,,530,ha-mun[harmony]N du₆[(ruin)-mound]N eš₃[shrine]N ŋar[to-place]V
+c.4.80.1,The temple hymns,,531,Ereš[1]SN en[lord]N dug₄[to-say]V itid[moon(light)]N saŋ[head]N il₂[to-raise]V
+c.4.80.1,The temple hymns,,532,du₆[(ruin)-mound]N naŋa[potash]N naŋa[potash]N di₄-di₄[to-be-small]V
+c.4.80.1,The temple hymns,,533,Nanibgal[1]DN gal[to-be-big]V Nisaba[1]DN
+c.4.80.1,The temple hymns,,534,me[essence]N an[heaven]N e₃[to-go-out-or-in]V me[essence]N tah[to-add]V
+c.4.80.1,The temple hymns,,535,zag[side]N sal[to-be-thin]V ŋar[to-place]V
+c.4.80.1,The temple hymns,,536,munus[woman]N zid[right]AJ ŋeštug₂[ear]N dirig[to-be-superior]V tuku[to-have]V
+c.4.80.1,The temple hymns,,537,IM.ŊAR[meaning-unknown]N sed₄[to-be-cold]V ka[mouth]N du₈[to-spread]V
+c.4.80.1,The temple hymns,,538,dub[tablet]N za-gin₃[lapis-lazuli]N ad[voice]N gi₄[to-return]V
+c.4.80.1,The temple hymns,,539,kur[(mountain)-land]N ad[voice]N ša₄[verb-part-of-multiword-verb]V ŋar[to-place]V
+c.4.80.1,The temple hymns,,540,munus[woman]N zid[right]AJ naŋa[potash]N kug[shining]AJ gi[reed]N du₃[to-erect]V tud[to-give-birth]V
+c.4.80.1,The temple hymns,,541,an[heaven]N kuš₃[length-measure]N ra[to-beat]V ki[place]N eš₂[rope]N ra[to-beat]V
+c.4.80.1,The temple hymns,,542,Nisaba[1]DN za₃-mi₂[praise]N
+c.4.80.1,The temple hymns,,543,lu₂[person]N dub[tablet]N zu₂[tooth]N keše₂[to-bind]V En-hedu-ana[1]PN
+c.4.80.1,The temple hymns,,544,lugal[king]N niŋ₂[thing]N tud[to-give-birth]V na-me[any]PD lu₂[person]N tud[to-give-birth]V
+c.4.80.1,The temple hymns,,545,14[14]NU e₂[house(hold)]N Nisaba[1]DN Ereš[1]SN

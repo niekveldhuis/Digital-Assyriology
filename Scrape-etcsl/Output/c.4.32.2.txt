@@ -1,33 +1,33 @@
 id_text,text_name,version,l_no,text
-c.4.32.2,A hymn to Utu (Utu B),,1,sux:sig[to-be-low]V sux:e₃[to-go-out-or-in]V sux:nim[upper-(land)]N sux:igi[eye]N sux:bar[to-set-aside]V
-c.4.32.2,A hymn to Utu (Utu B),,2,sux:Utu[1]DN sux:a-zu[healer]N sux:gal[to-be-big]V sux:a-a[father]N sux:saŋ[head]N sux:gig₂[to-be-black]V
-c.4.32.2,A hymn to Utu (Utu B),,3,sux:sun₄[beard]N sux:za-gin₃[lapis-lazuli]N sux:la₂[to-hang]V sux:E-babbar[1]TN
-c.4.32.2,A hymn to Utu (Utu B),,4,sux:Utu[1]DN sux:ur-saŋ[hero]N sux:gal[to-be-big]V sux:lipiš[inner-body]N sux:unken[assembly]N
-c.4.32.2,A hymn to Utu (Utu B),,5,sux:lugal[king]N sux:gud-alim[bison]N sux:kur[(mountain)-land]N sux:dub₃[knee]N sux:bad[to-open]V
-c.4.32.2,A hymn to Utu (Utu B),,6,sux:Utu[1]DN sux:gud-alim[bison]N sux:kur[(mountain)-land]N sux:dub₃[knee]N sux:bad[to-open]V
-c.4.32.2,A hymn to Utu (Utu B),,7,sux:šilam[cow]N sux:ban₃-da[junior]AJ sux:ed₃[to-go-down-or-up]V
-c.4.32.2,A hymn to Utu (Utu B),,8,sux:u₃-ba-zu[type-of-animal]N sux:ban₃-da[junior]AJ sux:ŋiš-bur₂[snare]N sux:dab₅[to-seize]V
-c.4.32.2,A hymn to Utu (Utu B),,9,sux:Utu[1]DN sux:iri[town]N sux:E-nun-ana[1]TN sux:dumu[child]N sux:Ningal[1]DN sux:tud[to-give-birth]V
-c.4.32.2,A hymn to Utu (Utu B),,10,sux:gud[bull]N sux:erin[cedar]N sux:a[water]N sux:naŋ[to-drink]V sux:ha-šu-ur₂[type-of-cypress]N sux:peš[to-be-thick]V
-c.4.32.2,A hymn to Utu (Utu B),,11,sux:gi-rin[blossom]N sux:šag₄[heart]N sux:sud[to-be-distant]V sux:e-ne[game]N sux:dug₄[to-say]V
-c.4.32.2,A hymn to Utu (Utu B),,12,sux:sud-aŋ₂[brilliance]N sux:e₃[to-go-out-or-in]V sux:su-lim[(awesome)-radiance]N sux:gun₃[to-be-multicoloured]V
-c.4.32.2,A hymn to Utu (Utu B),,13,sux:ud[day(light)]N sux:lugal[king]N sux:e₃[to-go-out-or-in]V
-c.4.32.2,A hymn to Utu (Utu B),,14,sux:an[heaven]N sux:dub₂[to-tremble]V sux:ki[place]N sux:sag₃[to-beat]V
-c.4.32.2,A hymn to Utu (Utu B),,15,sux:bal[to-turn-over]V sux:e₂-gal[palace]N sux:e₃[to-go-out-or-in]V
-c.4.32.2,A hymn to Utu (Utu B),,16,sux:an[heaven]N
-c.4.32.2,A hymn to Utu (Utu B),,17,sux:si-ŋar[clamp]N sux:an[heaven]N sux:gi₄[to-return]V
-c.4.32.2,A hymn to Utu (Utu B),,18,sux:mul[star]N sux:ur₄[to-collect]V
-c.4.32.2,A hymn to Utu (Utu B),,19,sux:ama[mother]N sux:sila[street]N
-c.4.32.2,A hymn to Utu (Utu B),,20,sux:Utu[1]DN sux:dul₃[(protective)-shade]N sux:daŋal[to-be-wide]V
-c.4.32.2,A hymn to Utu (Utu B),,21,sux:kur[(mountain)-land]N sux:saŋ[head]N sux:il₂[to-raise]V sux:lugal[king]N sux:me[to-be]V
-c.4.32.2,A hymn to Utu (Utu B),,22,sux:Utu[1]DN sux:kur[(mountain)-land]N sux:di[(law)suit]N sux:kud[to-cut]V
-c.4.32.2,A hymn to Utu (Utu B),,23,sux:en[lord]N sux:dumu[child]N sux:Ningal[1]DN sux:kur[(mountain)-land]N sux:ka-aš[decision]N sux:bar[to-set-aside]V
-c.4.32.2,A hymn to Utu (Utu B),,24,sux:en[lord]N sux:gal-zu[skilful]AJ sux:eš-bar[decision]N sux:dumu[child]N sux:Enlil[1]DN
-c.4.32.2,A hymn to Utu (Utu B),,25,sux:Utu[1]DN sux:gal-zu[skilful]AJ sux:mah[to-be-majestic]V sux:dumu[child]N sux:Ningal[1]DN
-c.4.32.2,A hymn to Utu (Utu B),,26,sux:Utu[1]DN sux:saŋ[head]N sux:ŋal₂[to-be-(located)]V
-c.4.32.2,A hymn to Utu (Utu B),,27,sux:en[lord]N sux:dumu[child]N sux:Ningal[1]DN sux:50[50]NU sux:šu[hand]N sux:ŋal₂[to-be-(located)]V
-c.4.32.2,A hymn to Utu (Utu B),,28,sux:ud[storm]N sux:kur[(mountain)-land]N sux:gu₃[voice]N sux:dug₄[to-say]V
-c.4.32.2,A hymn to Utu (Utu B),,29,sux:kalam[the-Land]N sux:saŋ[head]N sux:il₂[to-raise]V
-c.4.32.2,A hymn to Utu (Utu B),,30,sux:hu-ri₂-in[eagle]N sux:kur[(mountain)-land]N sux:šuba[shining]AJ sux:kur[(mountain)-land]N sux:šuba[shining]AJ
-c.4.32.2,A hymn to Utu (Utu B),,31,sux:lugal[king]N sux:Utu[1]DN sux:bal[to-turn-over]V
-c.4.32.2,A hymn to Utu (Utu B),,32,sux:igi[eye]N sux:kur[(mountain)-land]N sux:la₂[to-hang]V
+c.4.32.2,A hymn to Utu (Utu B),,1,sig[to-be-low]V e₃[to-go-out-or-in]V nim[upper-(land)]N igi[eye]N bar[to-set-aside]V
+c.4.32.2,A hymn to Utu (Utu B),,2,Utu[1]DN a-zu[healer]N gal[to-be-big]V a-a[father]N saŋ[head]N gig₂[to-be-black]V
+c.4.32.2,A hymn to Utu (Utu B),,3,sun₄[beard]N za-gin₃[lapis-lazuli]N la₂[to-hang]V E-babbar[1]TN
+c.4.32.2,A hymn to Utu (Utu B),,4,Utu[1]DN ur-saŋ[hero]N gal[to-be-big]V lipiš[inner-body]N unken[assembly]N
+c.4.32.2,A hymn to Utu (Utu B),,5,lugal[king]N gud-alim[bison]N kur[(mountain)-land]N dub₃[knee]N bad[to-open]V
+c.4.32.2,A hymn to Utu (Utu B),,6,Utu[1]DN gud-alim[bison]N kur[(mountain)-land]N dub₃[knee]N bad[to-open]V
+c.4.32.2,A hymn to Utu (Utu B),,7,šilam[cow]N ban₃-da[junior]AJ ed₃[to-go-down-or-up]V
+c.4.32.2,A hymn to Utu (Utu B),,8,u₃-ba-zu[type-of-animal]N ban₃-da[junior]AJ ŋiš-bur₂[snare]N dab₅[to-seize]V
+c.4.32.2,A hymn to Utu (Utu B),,9,Utu[1]DN iri[town]N E-nun-ana[1]TN dumu[child]N Ningal[1]DN tud[to-give-birth]V
+c.4.32.2,A hymn to Utu (Utu B),,10,gud[bull]N erin[cedar]N a[water]N naŋ[to-drink]V ha-šu-ur₂[type-of-cypress]N peš[to-be-thick]V
+c.4.32.2,A hymn to Utu (Utu B),,11,gi-rin[blossom]N šag₄[heart]N sud[to-be-distant]V e-ne[game]N dug₄[to-say]V
+c.4.32.2,A hymn to Utu (Utu B),,12,sud-aŋ₂[brilliance]N e₃[to-go-out-or-in]V su-lim[(awesome)-radiance]N gun₃[to-be-multicoloured]V
+c.4.32.2,A hymn to Utu (Utu B),,13,ud[day(light)]N lugal[king]N e₃[to-go-out-or-in]V
+c.4.32.2,A hymn to Utu (Utu B),,14,an[heaven]N dub₂[to-tremble]V ki[place]N sag₃[to-beat]V
+c.4.32.2,A hymn to Utu (Utu B),,15,bal[to-turn-over]V e₂-gal[palace]N e₃[to-go-out-or-in]V
+c.4.32.2,A hymn to Utu (Utu B),,16,an[heaven]N
+c.4.32.2,A hymn to Utu (Utu B),,17,si-ŋar[clamp]N an[heaven]N gi₄[to-return]V
+c.4.32.2,A hymn to Utu (Utu B),,18,mul[star]N ur₄[to-collect]V
+c.4.32.2,A hymn to Utu (Utu B),,19,ama[mother]N sila[street]N
+c.4.32.2,A hymn to Utu (Utu B),,20,Utu[1]DN dul₃[(protective)-shade]N daŋal[to-be-wide]V
+c.4.32.2,A hymn to Utu (Utu B),,21,kur[(mountain)-land]N saŋ[head]N il₂[to-raise]V lugal[king]N me[to-be]V
+c.4.32.2,A hymn to Utu (Utu B),,22,Utu[1]DN kur[(mountain)-land]N di[(law)suit]N kud[to-cut]V
+c.4.32.2,A hymn to Utu (Utu B),,23,en[lord]N dumu[child]N Ningal[1]DN kur[(mountain)-land]N ka-aš[decision]N bar[to-set-aside]V
+c.4.32.2,A hymn to Utu (Utu B),,24,en[lord]N gal-zu[skilful]AJ eš-bar[decision]N dumu[child]N Enlil[1]DN
+c.4.32.2,A hymn to Utu (Utu B),,25,Utu[1]DN gal-zu[skilful]AJ mah[to-be-majestic]V dumu[child]N Ningal[1]DN
+c.4.32.2,A hymn to Utu (Utu B),,26,Utu[1]DN saŋ[head]N ŋal₂[to-be-(located)]V
+c.4.32.2,A hymn to Utu (Utu B),,27,en[lord]N dumu[child]N Ningal[1]DN 50[50]NU šu[hand]N ŋal₂[to-be-(located)]V
+c.4.32.2,A hymn to Utu (Utu B),,28,ud[storm]N kur[(mountain)-land]N gu₃[voice]N dug₄[to-say]V
+c.4.32.2,A hymn to Utu (Utu B),,29,kalam[the-Land]N saŋ[head]N il₂[to-raise]V
+c.4.32.2,A hymn to Utu (Utu B),,30,hu-ri₂-in[eagle]N kur[(mountain)-land]N šuba[shining]AJ kur[(mountain)-land]N šuba[shining]AJ
+c.4.32.2,A hymn to Utu (Utu B),,31,lugal[king]N Utu[1]DN bal[to-turn-over]V
+c.4.32.2,A hymn to Utu (Utu B),,32,igi[eye]N kur[(mountain)-land]N la₂[to-hang]V

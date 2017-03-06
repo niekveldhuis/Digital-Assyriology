@@ -1,46 +1,46 @@
 id_text,text_name,version,l_no,text
 c.4.19.3,A hymn to Ninŋišzida (Ninŋišzida C),,1,
-c.4.19.3,A hymn to Ninŋišzida (Ninŋišzida C),,2,sux:a-ŋi₆[flooding]N sux:id₂[watercourse]N sux:kuš₇[devastation]N sux:su[to-sink]V sux:su[to-sink]V
-c.4.19.3,A hymn to Ninŋišzida (Ninŋišzida C),,3,sux:lugal[king]N sux:DU[DU]V
-c.4.19.3,A hymn to Ninŋišzida (Ninŋišzida C),,4,sux:lugal[king]N sux:tud[to-give-birth]V sux:he₂-ŋal₂[plenty]N sux:saŋ[head]N
-c.4.19.3,A hymn to Ninŋišzida (Ninŋišzida C),,5,sux:Ninŋišzida[1]DN sux:za₃-mi₂[praise]N sux:dug₃[to-be-good]V
-c.4.19.3,A hymn to Ninŋišzida (Ninŋišzida C),,6,sux:ki-ru-gu₂[composition-division]N sux:1-kam-ma[1st]NU
-c.4.19.3,A hymn to Ninŋišzida (Ninŋišzida C),,7,sux:en[lord]N sux:Ninŋišzida[1]DN
+c.4.19.3,A hymn to Ninŋišzida (Ninŋišzida C),,2,a-ŋi₆[flooding]N id₂[watercourse]N kuš₇[devastation]N su[to-sink]V su[to-sink]V
+c.4.19.3,A hymn to Ninŋišzida (Ninŋišzida C),,3,lugal[king]N DU[DU]V
+c.4.19.3,A hymn to Ninŋišzida (Ninŋišzida C),,4,lugal[king]N tud[to-give-birth]V he₂-ŋal₂[plenty]N saŋ[head]N
+c.4.19.3,A hymn to Ninŋišzida (Ninŋišzida C),,5,Ninŋišzida[1]DN za₃-mi₂[praise]N dug₃[to-be-good]V
+c.4.19.3,A hymn to Ninŋišzida (Ninŋišzida C),,6,ki-ru-gu₂[composition-division]N 1-kam-ma[1st]NU
+c.4.19.3,A hymn to Ninŋišzida (Ninŋišzida C),,7,en[lord]N Ninŋišzida[1]DN
 c.4.19.3,A hymn to Ninŋišzida (Ninŋišzida C),,8,
-c.4.19.3,A hymn to Ninŋišzida (Ninŋišzida C),,9,sux:ur-saŋ[hero]N sux:ki[place]N sux:aŋ₂[to-measure]V sux:An[1]DN sux:kug[shining]AJ
-c.4.19.3,A hymn to Ninŋišzida (Ninŋišzida C),,10,sux:en[lord]N sux:kur[(mountain)-land]N sux:šuba[shining]AJ sux:gal[to-be-big]V sux:tud[to-give-birth]V
-c.4.19.3,A hymn to Ninŋišzida (Ninŋišzida C),,11,sux:en[lord]N sux:igi[eye]N sux:gun₃[to-be-multicoloured]V sux:hi-li[attractiveness]N sux:nam-ŋuruš[manliness]N
-c.4.19.3,A hymn to Ninŋišzida (Ninŋišzida C),,12,sux:ur-saŋ[hero]N sux:gal[to-be-big]V sux:me₃[battle]N sux:sahar[earth]N sux:a₂[arm]N sux:zid[right]AJ sux:lugal[king]N
-c.4.19.3,A hymn to Ninŋišzida (Ninŋišzida C),,13,sux:en[lord]N sux:Ninŋišzida[1]DN sux:za₃-mi₂[praise]N sux:dug₃[to-be-good]V sux:šir₃[song]N sux:dug₄[to-say]V
-c.4.19.3,A hymn to Ninŋišzida (Ninŋišzida C),,14,sux:ki-ru-gu₂[composition-division]N sux:2-kam-ma[2nd]NU
-c.4.19.3,A hymn to Ninŋišzida (Ninŋišzida C),,15,sux:ur-saŋ[hero]N sux:ki[place]N sux:kul[to-hasten]V
-c.4.19.3,A hymn to Ninŋišzida (Ninŋišzida C),,16,sux:Ninŋišzida[1]DN sux:ki[place]N sux:aŋ₂[to-measure]V sux:An[1]DN sux:kug[shining]AJ
-c.4.19.3,A hymn to Ninŋišzida (Ninŋišzida C),,17,sux:id₂[watercourse]N sux:a-eštub[carp(-filled)-water]N sux:ŋal₂[to-be-(located)]V sux:Enki[1]DN sux:hul₂[to-be-happy]V
-c.4.19.3,A hymn to Ninŋišzida (Ninŋišzida C),,18,sux:a-šag₄[field]N sux:še[barley]N sux:gu-nu[flax]N sux:ŋal₂[to-be-(located)]V sux:hul₂[to-be-happy]V
-c.4.19.3,A hymn to Ninŋišzida (Ninŋišzida C),,19,sux:an[heaven]N sux:saŋ[head]N sux:il₂[to-raise]V sux:en[lord]N sux:Ninŋišzida[1]DN
-c.4.19.3,A hymn to Ninŋišzida (Ninŋišzida C),,20,sux:de₂[to-pour]V sux:en[lord]N sux:Ninŋišzida[1]DN
-c.4.19.3,A hymn to Ninŋišzida (Ninŋišzida C),,21,sux:sud[to-be-distant]V sux:umbin[horny-outgrowth]N sux:gid₂[to-be-long]V
-c.4.19.3,A hymn to Ninŋišzida (Ninŋišzida C),,22,sux:en[lord]N sux:Ninŋišzida[1]DN sux:za₃-mi₂[praise]N sux:dug₃[to-be-good]V
-c.4.19.3,A hymn to Ninŋišzida (Ninŋišzida C),,23,sux:ki-ru-gu₂[composition-division]N sux:3-kam-ma[3rd]NU
-c.4.19.3,A hymn to Ninŋišzida (Ninŋišzida C),,24,sux:a[water]N sux:zid[right]AJ sux:ri[to-direct]V
-c.4.19.3,A hymn to Ninŋišzida (Ninŋišzida C),,25,sux:Ninŋišzida[1]DN sux:Enlil[1]DN sux:silim[to-be-healthy]V sux:dug₄[to-say]V
-c.4.19.3,A hymn to Ninŋišzida (Ninŋišzida C),,26,sux:zu[to-know]V sux:kalam[the-Land]N sux:tud[to-give-birth]V
-c.4.19.3,A hymn to Ninŋišzida (Ninŋišzida C),,27,sux:tud[to-give-birth]V
-c.4.19.3,A hymn to Ninŋišzida (Ninŋišzida C),,28,sux:hul₂[to-be-happy]V sux:bar[to-set-aside]V
-c.4.19.3,A hymn to Ninŋišzida (Ninŋišzida C),,29,sux:en[lord]N sux:Ninŋišzida[1]DN sux:za₃-mi₂[praise]N sux:dug₃[to-be-good]V sux:šir₃[song]N
-c.4.19.3,A hymn to Ninŋišzida (Ninŋišzida C),,30,sux:dug₄[to-say]V
-c.4.19.3,A hymn to Ninŋišzida (Ninŋišzida C),,31,sux:ki-ru-gu₂[composition-division]N sux:4-kam-ma[4th]NU
-c.4.19.3,A hymn to Ninŋišzida (Ninŋišzida C),,32,sux:ur-saŋ[hero]N sux:u₃-ma[triumph]N sux:sa₂[to-equal]V sux:nam-nun[princeliness]N
-c.4.19.3,A hymn to Ninŋišzida (Ninŋišzida C),,33,sux:kug[shining]AJ
-c.4.19.3,A hymn to Ninŋišzida (Ninŋišzida C),,34,sux:pad₃[to-find]V sux:lugal[king]N
-c.4.19.3,A hymn to Ninŋišzida (Ninŋišzida C),,35,sux:X[X]V
-c.4.19.3,A hymn to Ninŋišzida (Ninŋišzida C),,36,sux:igi-nim[upper-land]N
+c.4.19.3,A hymn to Ninŋišzida (Ninŋišzida C),,9,ur-saŋ[hero]N ki[place]N aŋ₂[to-measure]V An[1]DN kug[shining]AJ
+c.4.19.3,A hymn to Ninŋišzida (Ninŋišzida C),,10,en[lord]N kur[(mountain)-land]N šuba[shining]AJ gal[to-be-big]V tud[to-give-birth]V
+c.4.19.3,A hymn to Ninŋišzida (Ninŋišzida C),,11,en[lord]N igi[eye]N gun₃[to-be-multicoloured]V hi-li[attractiveness]N nam-ŋuruš[manliness]N
+c.4.19.3,A hymn to Ninŋišzida (Ninŋišzida C),,12,ur-saŋ[hero]N gal[to-be-big]V me₃[battle]N sahar[earth]N a₂[arm]N zid[right]AJ lugal[king]N
+c.4.19.3,A hymn to Ninŋišzida (Ninŋišzida C),,13,en[lord]N Ninŋišzida[1]DN za₃-mi₂[praise]N dug₃[to-be-good]V šir₃[song]N dug₄[to-say]V
+c.4.19.3,A hymn to Ninŋišzida (Ninŋišzida C),,14,ki-ru-gu₂[composition-division]N 2-kam-ma[2nd]NU
+c.4.19.3,A hymn to Ninŋišzida (Ninŋišzida C),,15,ur-saŋ[hero]N ki[place]N kul[to-hasten]V
+c.4.19.3,A hymn to Ninŋišzida (Ninŋišzida C),,16,Ninŋišzida[1]DN ki[place]N aŋ₂[to-measure]V An[1]DN kug[shining]AJ
+c.4.19.3,A hymn to Ninŋišzida (Ninŋišzida C),,17,id₂[watercourse]N a-eštub[carp(-filled)-water]N ŋal₂[to-be-(located)]V Enki[1]DN hul₂[to-be-happy]V
+c.4.19.3,A hymn to Ninŋišzida (Ninŋišzida C),,18,a-šag₄[field]N še[barley]N gu-nu[flax]N ŋal₂[to-be-(located)]V hul₂[to-be-happy]V
+c.4.19.3,A hymn to Ninŋišzida (Ninŋišzida C),,19,an[heaven]N saŋ[head]N il₂[to-raise]V en[lord]N Ninŋišzida[1]DN
+c.4.19.3,A hymn to Ninŋišzida (Ninŋišzida C),,20,de₂[to-pour]V en[lord]N Ninŋišzida[1]DN
+c.4.19.3,A hymn to Ninŋišzida (Ninŋišzida C),,21,sud[to-be-distant]V umbin[horny-outgrowth]N gid₂[to-be-long]V
+c.4.19.3,A hymn to Ninŋišzida (Ninŋišzida C),,22,en[lord]N Ninŋišzida[1]DN za₃-mi₂[praise]N dug₃[to-be-good]V
+c.4.19.3,A hymn to Ninŋišzida (Ninŋišzida C),,23,ki-ru-gu₂[composition-division]N 3-kam-ma[3rd]NU
+c.4.19.3,A hymn to Ninŋišzida (Ninŋišzida C),,24,a[water]N zid[right]AJ ri[to-direct]V
+c.4.19.3,A hymn to Ninŋišzida (Ninŋišzida C),,25,Ninŋišzida[1]DN Enlil[1]DN silim[to-be-healthy]V dug₄[to-say]V
+c.4.19.3,A hymn to Ninŋišzida (Ninŋišzida C),,26,zu[to-know]V kalam[the-Land]N tud[to-give-birth]V
+c.4.19.3,A hymn to Ninŋišzida (Ninŋišzida C),,27,tud[to-give-birth]V
+c.4.19.3,A hymn to Ninŋišzida (Ninŋišzida C),,28,hul₂[to-be-happy]V bar[to-set-aside]V
+c.4.19.3,A hymn to Ninŋišzida (Ninŋišzida C),,29,en[lord]N Ninŋišzida[1]DN za₃-mi₂[praise]N dug₃[to-be-good]V šir₃[song]N
+c.4.19.3,A hymn to Ninŋišzida (Ninŋišzida C),,30,dug₄[to-say]V
+c.4.19.3,A hymn to Ninŋišzida (Ninŋišzida C),,31,ki-ru-gu₂[composition-division]N 4-kam-ma[4th]NU
+c.4.19.3,A hymn to Ninŋišzida (Ninŋišzida C),,32,ur-saŋ[hero]N u₃-ma[triumph]N sa₂[to-equal]V nam-nun[princeliness]N
+c.4.19.3,A hymn to Ninŋišzida (Ninŋišzida C),,33,kug[shining]AJ
+c.4.19.3,A hymn to Ninŋišzida (Ninŋišzida C),,34,pad₃[to-find]V lugal[king]N
+c.4.19.3,A hymn to Ninŋišzida (Ninŋišzida C),,35,X[X]V
+c.4.19.3,A hymn to Ninŋišzida (Ninŋišzida C),,36,igi-nim[upper-land]N
 c.4.19.3,A hymn to Ninŋišzida (Ninŋišzida C),,37,
-c.4.19.3,A hymn to Ninŋišzida (Ninŋišzida C),,38,sux:en[lord]N sux:Ninŋišzida[1]DN sux:za₃-mi₂[praise]N sux:dug₃[to-be-good]V sux:šir₃[song]N
-c.4.19.3,A hymn to Ninŋišzida (Ninŋišzida C),,39,sux:dug₄[to-say]V
-c.4.19.3,A hymn to Ninŋišzida (Ninŋišzida C),,40,sux:ki-ru-gu₂[composition-division]N sux:5-kam-ma[5th]NU
+c.4.19.3,A hymn to Ninŋišzida (Ninŋišzida C),,38,en[lord]N Ninŋišzida[1]DN za₃-mi₂[praise]N dug₃[to-be-good]V šir₃[song]N
+c.4.19.3,A hymn to Ninŋišzida (Ninŋišzida C),,39,dug₄[to-say]V
+c.4.19.3,A hymn to Ninŋišzida (Ninŋišzida C),,40,ki-ru-gu₂[composition-division]N 5-kam-ma[5th]NU
 c.4.19.3,A hymn to Ninŋišzida (Ninŋišzida C),,41,
-c.4.19.3,A hymn to Ninŋišzida (Ninŋišzida C),,42,sux:e₂[house(hold)]N sux:nam-til₃[life]N
-c.4.19.3,A hymn to Ninŋišzida (Ninŋišzida C),,43,sux:Ninŋišzida[1]DN sux:e₂[house(hold)]N
-c.4.19.3,A hymn to Ninŋišzida (Ninŋišzida C),,44,sux:ki[place]N sux:gal[to-be-big]V
-c.4.19.3,A hymn to Ninŋišzida (Ninŋišzida C),,45,sux:barag[dais]N
+c.4.19.3,A hymn to Ninŋišzida (Ninŋišzida C),,42,e₂[house(hold)]N nam-til₃[life]N
+c.4.19.3,A hymn to Ninŋišzida (Ninŋišzida C),,43,Ninŋišzida[1]DN e₂[house(hold)]N
+c.4.19.3,A hymn to Ninŋišzida (Ninŋišzida C),,44,ki[place]N gal[to-be-big]V
+c.4.19.3,A hymn to Ninŋišzida (Ninŋišzida C),,45,barag[dais]N

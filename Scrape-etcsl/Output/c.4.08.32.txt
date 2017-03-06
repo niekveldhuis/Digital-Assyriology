@@ -1,24 +1,24 @@
 id_text,text_name,version,l_no,text
-c.4.08.32,A song of Inana and Dumuzid (Dumuzid-Inana F1),,1,sux:da[side]N
-c.4.08.32,A song of Inana and Dumuzid (Dumuzid-Inana F1),,2,sux-x-emesal:mu-nu₂[bed]N sux:lal₃[syrup]N sux:ta-hab₂[to-thicken?]V
-c.4.08.32,A song of Inana and Dumuzid (Dumuzid-Inana F1),,3,sux:šu[hand]N sux:šu[hand]N sux:X[X]V
-c.4.08.32,A song of Inana and Dumuzid (Dumuzid-Inana F1),,4,sux-x-emesal:me-ri[foot]N sux-x-emesal:me-ri[foot]N sux:X[X]V
-c.4.08.32,A song of Inana and Dumuzid (Dumuzid-Inana F1),,5,sux-x-emesal:šu-um-du-um[lip]N sux:ka[mouth]N
-c.4.08.32,A song of Inana and Dumuzid (Dumuzid-Inana F1),,6,sux:murub₄[middle]N sux:mah[to-be-majestic]V
-c.4.08.32,A song of Inana and Dumuzid (Dumuzid-Inana F1),,7,sux:šag₄[heart]N sux:ki[place]N sux:aŋ₂[to-measure]V sux:eš₂[rope]N
-c.4.08.32,A song of Inana and Dumuzid (Dumuzid-Inana F1),,8,sux:har[ring]N sux:šu[hand]N
-c.4.08.32,A song of Inana and Dumuzid (Dumuzid-Inana F1),,9,sux:za-gin₃[lapis-lazuli]N sux:gu₂[neck]N sux:teš₂[unity]N
-c.4.08.32,A song of Inana and Dumuzid (Dumuzid-Inana F1),,10,sux:kug[precious-metal]N sux-x-emesal:mu-ud-na[spouse]N
-c.4.08.32,A song of Inana and Dumuzid (Dumuzid-Inana F1),,11,sux:šeš[brother]N sux:kiri₆[orchard]N sux:X[X]V
-c.4.08.32,A song of Inana and Dumuzid (Dumuzid-Inana F1),,12,sux-x-emesal:mu[tree]N sux:gub[to-stand]V sux:gub[to-stand]V
-c.4.08.32,A song of Inana and Dumuzid (Dumuzid-Inana F1),,13,sux-x-emesal:mu[tree]N sux:nu₂[to-lie-down]V sux:nu₂[to-lie-down]V
-c.4.08.32,A song of Inana and Dumuzid (Dumuzid-Inana F1),,14,sux:nu₂[to-lie-down]V
-c.4.08.32,A song of Inana and Dumuzid (Dumuzid-Inana F1),,15,sux:zu₂-lum[date]N sux:ze₂-er[to-tear-out]V sux:PA[PA]V
-c.4.08.32,A song of Inana and Dumuzid (Dumuzid-Inana F1),,16,sux-x-emesal:aŋ₂[thing]N sux:hašhur[apple-(tree)]N sux:dug₄[to-say]V
-c.4.08.32,A song of Inana and Dumuzid (Dumuzid-Inana F1),,17,sux-x-emesal:ze₂-eb[to-be-good]V sux:kal[to-be-rare]V sux:saŋ[head]N
-c.4.08.32,A song of Inana and Dumuzid (Dumuzid-Inana F1),,18,sux-x-emesal:aŋ₂[thing]N sux-x-emesal:PEŠ₃[fig-(tree)]N sux:dug₄[to-say]V
-c.4.08.32,A song of Inana and Dumuzid (Dumuzid-Inana F1),,19,sux-x-emesal:ze₂-eb[to-be-good]V sux:kal[to-be-rare]V
-c.4.08.32,A song of Inana and Dumuzid (Dumuzid-Inana F1),,20,sux-x-emesal:aŋ₂[thing]N sux-x-emesal:ŋen[willow]N sux:dug₄[to-say]V
-c.4.08.32,A song of Inana and Dumuzid (Dumuzid-Inana F1),,21,sux-x-emesal:ze₂-eb[to-be-good]V sux:kal[to-be-rare]V
-c.4.08.32,A song of Inana and Dumuzid (Dumuzid-Inana F1),,22,sux-x-emesal:aŋ₂[thing]N sux:ka[mouth]N sux:saŋ[head]N sux:dug₄[to-say]V
-c.4.08.32,A song of Inana and Dumuzid (Dumuzid-Inana F1),,23,sux-x-emesal:ze₂-eb[to-be-good]V sux:kal[to-be-rare]V
+c.4.08.32,A song of Inana and Dumuzid (Dumuzid-Inana F1),,1,da[side]N
+c.4.08.32,A song of Inana and Dumuzid (Dumuzid-Inana F1),,2,mu-nu₂[bed]N lal₃[syrup]N ta-hab₂[to-thicken?]V
+c.4.08.32,A song of Inana and Dumuzid (Dumuzid-Inana F1),,3,šu[hand]N šu[hand]N X[X]V
+c.4.08.32,A song of Inana and Dumuzid (Dumuzid-Inana F1),,4,me-ri[foot]N me-ri[foot]N X[X]V
+c.4.08.32,A song of Inana and Dumuzid (Dumuzid-Inana F1),,5,šu-um-du-um[lip]N ka[mouth]N
+c.4.08.32,A song of Inana and Dumuzid (Dumuzid-Inana F1),,6,murub₄[middle]N mah[to-be-majestic]V
+c.4.08.32,A song of Inana and Dumuzid (Dumuzid-Inana F1),,7,šag₄[heart]N ki[place]N aŋ₂[to-measure]V eš₂[rope]N
+c.4.08.32,A song of Inana and Dumuzid (Dumuzid-Inana F1),,8,har[ring]N šu[hand]N
+c.4.08.32,A song of Inana and Dumuzid (Dumuzid-Inana F1),,9,za-gin₃[lapis-lazuli]N gu₂[neck]N teš₂[unity]N
+c.4.08.32,A song of Inana and Dumuzid (Dumuzid-Inana F1),,10,kug[precious-metal]N mu-ud-na[spouse]N
+c.4.08.32,A song of Inana and Dumuzid (Dumuzid-Inana F1),,11,šeš[brother]N kiri₆[orchard]N X[X]V
+c.4.08.32,A song of Inana and Dumuzid (Dumuzid-Inana F1),,12,mu[tree]N gub[to-stand]V gub[to-stand]V
+c.4.08.32,A song of Inana and Dumuzid (Dumuzid-Inana F1),,13,mu[tree]N nu₂[to-lie-down]V nu₂[to-lie-down]V
+c.4.08.32,A song of Inana and Dumuzid (Dumuzid-Inana F1),,14,nu₂[to-lie-down]V
+c.4.08.32,A song of Inana and Dumuzid (Dumuzid-Inana F1),,15,zu₂-lum[date]N ze₂-er[to-tear-out]V PA[PA]V
+c.4.08.32,A song of Inana and Dumuzid (Dumuzid-Inana F1),,16,aŋ₂[thing]N hašhur[apple-(tree)]N dug₄[to-say]V
+c.4.08.32,A song of Inana and Dumuzid (Dumuzid-Inana F1),,17,ze₂-eb[to-be-good]V kal[to-be-rare]V saŋ[head]N
+c.4.08.32,A song of Inana and Dumuzid (Dumuzid-Inana F1),,18,aŋ₂[thing]N PEŠ₃[fig-(tree)]N dug₄[to-say]V
+c.4.08.32,A song of Inana and Dumuzid (Dumuzid-Inana F1),,19,ze₂-eb[to-be-good]V kal[to-be-rare]V
+c.4.08.32,A song of Inana and Dumuzid (Dumuzid-Inana F1),,20,aŋ₂[thing]N ŋen[willow]N dug₄[to-say]V
+c.4.08.32,A song of Inana and Dumuzid (Dumuzid-Inana F1),,21,ze₂-eb[to-be-good]V kal[to-be-rare]V
+c.4.08.32,A song of Inana and Dumuzid (Dumuzid-Inana F1),,22,aŋ₂[thing]N ka[mouth]N saŋ[head]N dug₄[to-say]V
+c.4.08.32,A song of Inana and Dumuzid (Dumuzid-Inana F1),,23,ze₂-eb[to-be-good]V kal[to-be-rare]V

@@ -1,28 +1,28 @@
 id_text,text_name,version,l_no,text
-c.5.7.1,Enlil and Nam-zid-tara,,1,sux:Nam-zid-tara[1]PN sux:Enlil[1]DN sux:zal[to-pass]V
-c.5.7.1,Enlil and Nam-zid-tara,,2,sux:inim[word]N sux:dug₄[to-say]V
-c.5.7.1,Enlil and Nam-zid-tara,,3,sux:me-ta[type-of-time-and-place-adverbial]AV sux:Nam-zid-tara[1]PN
-c.5.7.1,Enlil and Nam-zid-tara,,4,sux:e₂[house(hold)]N sux:Enlil[1]DN
-c.5.7.1,Enlil and Nam-zid-tara,,5,sux:bal[term-(in-office)]N sux:gub[to-stand]V sux:silim[to-be-healthy]V
-c.5.7.1,Enlil and Nam-zid-tara,,6,sux:ki[place]N sux:gudug[type-of-priest]N sux:udu[sheep]N sux:gub[to-stand]V
-c.5.7.1,Enlil and Nam-zid-tara,,7,sux:e₂[house(hold)]N sux:ŋen[to-go]V
-c.5.7.1,Enlil and Nam-zid-tara,,8,sux:gub[to-stand]V
-c.5.7.1,Enlil and Nam-zid-tara,,9,sux:ŋiri₃[foot]N sux:ud[day(light)]N sux:tab₂[to-burn]V
-c.5.7.1,Enlil and Nam-zid-tara,,10,sux:a-ba[who]PD sux:za[you-(sg.)]PD sux:lu₂[person]N sux:en₃[noun-part-of-multiword-verb]N sux:tar[to-cut]V
-c.5.7.1,Enlil and Nam-zid-tara,,11,sux:ŋe₂₆[I]PD sux:Enlil[1]DN
-c.5.7.1,Enlil and Nam-zid-tara,,12,sux:Enlil[1]DN sux:igi[eye]N sux:gi₄[to-return]V
-c.5.7.1,Enlil and Nam-zid-tara,,13,sux:uga[raven]N sux:kur₉[to-enter]V
-c.5.7.1,Enlil and Nam-zid-tara,,14,sux:gu₃[voice]N sux:de₂[to-pour]V
-c.5.7.1,Enlil and Nam-zid-tara,,15,sux:uga[raven]N sux:me[to-be]V sux:Enlil[1]DN
-c.5.7.1,Enlil and Nam-zid-tara,,16,sux:nam[destiny]N sux:tar[to-cut]V sux:ŋe₂₆[I]PD sux:Enlil[1]DN sux:a-gin₇[type-of-manner-adverbial]AV sux:zu[to-know]V
-c.5.7.1,Enlil and Nam-zid-tara,,17,sux:ud[day(light)]N sux:En-me-šara[1]DN sux:šeš[brother]N sux:ad-da[father]N sux:LU₂×KAR₂[LU₂×KAR₂]N
-c.5.7.1,Enlil and Nam-zid-tara,,18,sux:nam-en-lil₂[status-as-principal-deity]N sux:de₆[to-carry]V sux:ud[day(light)]N sux:en[lord]N sux:nam[destiny]N sux:zu[to-know]V
-c.5.7.1,Enlil and Nam-zid-tara,,19,sux:kug[precious-metal]N sux:tuku[to-have]V sux:za[stone]N sux:tuku[to-have]V sux:gud[bull]N sux:tuku[to-have]V sux:udu[sheep]N sux:tuku[to-have]V
-c.5.7.1,Enlil and Nam-zid-tara,,20,sux:ud[day(light)]N sux:nam-lu₂-ulu₃[humanity]N sux:ku-nu[to-be-close]V
-c.5.7.1,Enlil and Nam-zid-tara,,21,sux:niŋ₂-tuku[rich]AJ sux:me-še₃[where]AV sux:de₆[to-carry]V
-c.5.7.1,Enlil and Nam-zid-tara,,22,sux:Enlil[1]DN sux:nam[destiny]N sux:tar[to-cut]V
-c.5.7.1,Enlil and Nam-zid-tara,,23,sux:a-ba[who]PD sux:mu[name]N
-c.5.7.1,Enlil and Nam-zid-tara,,24,sux:Nam-zid-tara[1]PN sux:mu[name]N
-c.5.7.1,Enlil and Nam-zid-tara,,25,sux:zu[to-know]V sux:nam[destiny]N sux:tar[to-cut]V
-c.5.7.1,Enlil and Nam-zid-tara,,26,sux:e₂[house(hold)]N sux:lugal[king]N sux:e₃[to-go-out-or-in]V
-c.5.7.1,Enlil and Nam-zid-tara,,27,sux:ibila[heir]N sux:e₂[house(hold)]N sux:si[horn]N sux:sa₂[to-equal]V sux:dib[to-pass]V
+c.5.7.1,Enlil and Nam-zid-tara,,1,Nam-zid-tara[1]PN Enlil[1]DN zal[to-pass]V
+c.5.7.1,Enlil and Nam-zid-tara,,2,inim[word]N dug₄[to-say]V
+c.5.7.1,Enlil and Nam-zid-tara,,3,me-ta[type-of-time-and-place-adverbial]AV Nam-zid-tara[1]PN
+c.5.7.1,Enlil and Nam-zid-tara,,4,e₂[house(hold)]N Enlil[1]DN
+c.5.7.1,Enlil and Nam-zid-tara,,5,bal[term-(in-office)]N gub[to-stand]V silim[to-be-healthy]V
+c.5.7.1,Enlil and Nam-zid-tara,,6,ki[place]N gudug[type-of-priest]N udu[sheep]N gub[to-stand]V
+c.5.7.1,Enlil and Nam-zid-tara,,7,e₂[house(hold)]N ŋen[to-go]V
+c.5.7.1,Enlil and Nam-zid-tara,,8,gub[to-stand]V
+c.5.7.1,Enlil and Nam-zid-tara,,9,ŋiri₃[foot]N ud[day(light)]N tab₂[to-burn]V
+c.5.7.1,Enlil and Nam-zid-tara,,10,a-ba[who]PD za[you-(sg.)]PD lu₂[person]N en₃[noun-part-of-multiword-verb]N tar[to-cut]V
+c.5.7.1,Enlil and Nam-zid-tara,,11,ŋe₂₆[I]PD Enlil[1]DN
+c.5.7.1,Enlil and Nam-zid-tara,,12,Enlil[1]DN igi[eye]N gi₄[to-return]V
+c.5.7.1,Enlil and Nam-zid-tara,,13,uga[raven]N kur₉[to-enter]V
+c.5.7.1,Enlil and Nam-zid-tara,,14,gu₃[voice]N de₂[to-pour]V
+c.5.7.1,Enlil and Nam-zid-tara,,15,uga[raven]N me[to-be]V Enlil[1]DN
+c.5.7.1,Enlil and Nam-zid-tara,,16,nam[destiny]N tar[to-cut]V ŋe₂₆[I]PD Enlil[1]DN a-gin₇[type-of-manner-adverbial]AV zu[to-know]V
+c.5.7.1,Enlil and Nam-zid-tara,,17,ud[day(light)]N En-me-šara[1]DN šeš[brother]N ad-da[father]N LU₂×KAR₂[LU₂×KAR₂]N
+c.5.7.1,Enlil and Nam-zid-tara,,18,nam-en-lil₂[status-as-principal-deity]N de₆[to-carry]V ud[day(light)]N en[lord]N nam[destiny]N zu[to-know]V
+c.5.7.1,Enlil and Nam-zid-tara,,19,kug[precious-metal]N tuku[to-have]V za[stone]N tuku[to-have]V gud[bull]N tuku[to-have]V udu[sheep]N tuku[to-have]V
+c.5.7.1,Enlil and Nam-zid-tara,,20,ud[day(light)]N nam-lu₂-ulu₃[humanity]N ku-nu[to-be-close]V
+c.5.7.1,Enlil and Nam-zid-tara,,21,niŋ₂-tuku[rich]AJ me-še₃[where]AV de₆[to-carry]V
+c.5.7.1,Enlil and Nam-zid-tara,,22,Enlil[1]DN nam[destiny]N tar[to-cut]V
+c.5.7.1,Enlil and Nam-zid-tara,,23,a-ba[who]PD mu[name]N
+c.5.7.1,Enlil and Nam-zid-tara,,24,Nam-zid-tara[1]PN mu[name]N
+c.5.7.1,Enlil and Nam-zid-tara,,25,zu[to-know]V nam[destiny]N tar[to-cut]V
+c.5.7.1,Enlil and Nam-zid-tara,,26,e₂[house(hold)]N lugal[king]N e₃[to-go-out-or-in]V
+c.5.7.1,Enlil and Nam-zid-tara,,27,ibila[heir]N e₂[house(hold)]N si[horn]N sa₂[to-equal]V dib[to-pass]V

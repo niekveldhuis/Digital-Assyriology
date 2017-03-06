@@ -1,17 +1,2 @@
 id_text,text_name,version,l_no,text
-c.4.08.13,A šir-namšub to Inana (Dumuzid-Inana M),,A1,sux:u₄-ru[meaning-unknown]X
-c.4.08.13,A šir-namšub to Inana (Dumuzid-Inana M),,A2,sux-x-emesal:aŋ₂[thing]N sux-x-emesal:Inana[1]DN sux:u₄-ru[meaning-unknown]X
-c.4.08.13,A šir-namšub to Inana (Dumuzid-Inana M),,A3,sux-x-emesal:aŋ₂[thing]N sux:me[essence]N sux:ur₄[to-collect]V sux:u₄-ru[meaning-unknown]X
-c.4.08.13,A šir-namšub to Inana (Dumuzid-Inana M),,A4,sux-x-emesal:aŋ₂[thing]N sux-x-emesal:nu-nus[woman]N sux:zid[right]AJ
-c.4.08.13,A šir-namšub to Inana (Dumuzid-Inana M),,A5,sux:ki-sikil[young-woman]N sux:zid[right]AJ
-c.4.08.13,A šir-namšub to Inana (Dumuzid-Inana M),,A6,sux:he-nun[abundance]N sux:Dumuzid[1]DN
-c.4.08.13,A šir-namšub to Inana (Dumuzid-Inana M),,A7,sux:Ušumgal-ana[1]DN
-c.4.08.13,A šir-namšub to Inana (Dumuzid-Inana M),,A8,sux-x-emesal:aŋ₂[thing]N sux-x-emesal:ga-ša-an[lady]N sux:gu[(flax)-thread]N
-c.4.08.13,A šir-namšub to Inana (Dumuzid-Inana M),,A9,sux-x-emesal:Ninegala[1]DN
-c.4.08.13,A šir-namšub to Inana (Dumuzid-Inana M),,A10,
-c.4.08.13,A šir-namšub to Inana (Dumuzid-Inana M),,B1,
-c.4.08.13,A šir-namšub to Inana (Dumuzid-Inana M),,B2,
-c.4.08.13,A šir-namšub to Inana (Dumuzid-Inana M),,B3,
-c.4.08.13,A šir-namšub to Inana (Dumuzid-Inana M),,B4,
-c.4.08.13,A šir-namšub to Inana (Dumuzid-Inana M),,B5,sux:šir₃-nam-šub[type-of-composition]N
-c.4.08.13,A šir-namšub to Inana (Dumuzid-Inana M),,B6,sux:šir₃-nam-šub[type-of-composition]N
+c.4.08.13,A šir-namšub to Inana (Dumuzid-Inana M),,A1,u₄-ru[meaning-unknown]Xc.4.08.13,A šir-namšub to Inana (Dumuzid-Inana M),,A2,aŋ₂[thing]N Inana[1]DN u₄-ru[meaning-unknown]Xc.4.08.13,A šir-namšub to Inana (Dumuzid-Inana M),,A3,aŋ₂[thing]N me[essence]N ur₄[to-collect]V u₄-ru[meaning-unknown]Xc.4.08.13,A šir-namšub to Inana (Dumuzid-Inana M),,A4,aŋ₂[thing]N nu-nus[woman]N zid[right]AJc.4.08.13,A šir-namšub to Inana (Dumuzid-Inana M),,A5,ki-sikil[young-woman]N zid[right]AJc.4.08.13,A šir-namšub to Inana (Dumuzid-Inana M),,A6,he-nun[abundance]N Dumuzid[1]DNc.4.08.13,A šir-namšub to Inana (Dumuzid-Inana M),,A7,Ušumgal-ana[1]DNc.4.08.13,A šir-namšub to Inana (Dumuzid-Inana M),,A8,aŋ₂[thing]N ga-ša-an[lady]N gu[(flax)-thread]Nc.4.08.13,A šir-namšub to Inana (Dumuzid-Inana M),,A9,Ninegala[1]DNc.4.08.13,A šir-namšub to Inana (Dumuzid-Inana M),,A10,c.4.08.13,A šir-namšub to Inana (Dumuzid-Inana M),,B1,c.4.08.13,A šir-namšub to Inana (Dumuzid-Inana M),,B2,c.4.08.13,A šir-namšub to Inana (Dumuzid-Inana M),,B3,c.4.08.13,A šir-namšub to Inana (Dumuzid-Inana M),,B4,c.4.08.13,A šir-namšub to Inana (Dumuzid-Inana M),,B5,šir₃-nam-šub[type-of-composition]Nc.4.08.13,A šir-namšub to Inana (Dumuzid-Inana M),,B6,šir₃-nam-šub[type-of-composition]N

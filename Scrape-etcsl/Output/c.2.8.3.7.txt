@@ -1,7 +1,7 @@
 id_text,text_name,version,l_no,text
-c.2.8.3.7,A prayer for Samsu-iluna (Samsu-iluna G),,1,sux:Enki[1]DN sux:Asalim[1]DN sux:u₃[and]C sux:diŋir-dumu[divine-son]N sux:Eridug[1]SN
-c.2.8.3.7,A prayer for Samsu-iluna (Samsu-iluna G),,2,sux:diŋir[deity]N sux:gal[to-be-big]V sux:šudu₃[prayer]N sux:ša₄[verb-part-of-multiword-verb]V
-c.2.8.3.7,A prayer for Samsu-iluna (Samsu-iluna G),,3,sux:gu-za[chair]N sux:kug-sig₁₇[gold]N sux:nam-lugal[kingship]N sux:saŋ[head]N sux:il₂[to-raise]V
-c.2.8.3.7,A prayer for Samsu-iluna (Samsu-iluna G),,4,sux:šag₄[heart]N sux:a₂[arm]N sux:nam-ur-saŋ[heroism]N sux:mah[to-be-majestic]V sux:tuš[to-sit]V
-c.2.8.3.7,A prayer for Samsu-iluna (Samsu-iluna G),,5,sux:lugal[king]N sux:Urim[1]SN sux:lugal[king]N sux:Larsam[1]SN
-c.2.8.3.7,A prayer for Samsu-iluna (Samsu-iluna G),,6,sux:lugal[king]N sux:Sumer[1]GN sux:Akkad[1]GN
+c.2.8.3.7,A prayer for Samsu-iluna (Samsu-iluna G),,1,Enki[1]DN Asalim[1]DN u₃[and]C diŋir-dumu[divine-son]N Eridug[1]SN
+c.2.8.3.7,A prayer for Samsu-iluna (Samsu-iluna G),,2,diŋir[deity]N gal[to-be-big]V šudu₃[prayer]N ša₄[verb-part-of-multiword-verb]V
+c.2.8.3.7,A prayer for Samsu-iluna (Samsu-iluna G),,3,gu-za[chair]N kug-sig₁₇[gold]N nam-lugal[kingship]N saŋ[head]N il₂[to-raise]V
+c.2.8.3.7,A prayer for Samsu-iluna (Samsu-iluna G),,4,šag₄[heart]N a₂[arm]N nam-ur-saŋ[heroism]N mah[to-be-majestic]V tuš[to-sit]V
+c.2.8.3.7,A prayer for Samsu-iluna (Samsu-iluna G),,5,lugal[king]N Urim[1]SN lugal[king]N Larsam[1]SN
+c.2.8.3.7,A prayer for Samsu-iluna (Samsu-iluna G),,6,lugal[king]N Sumer[1]GN Akkad[1]GN

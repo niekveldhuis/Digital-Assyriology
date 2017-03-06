@@ -1,17 +1,17 @@
 id_text,text_name,version,l_no,text
-c.3.3.22,Letter from X to the god Nanna,,1,sux:Nanna[1]DN sux:dumu-saŋ[first-born-(child)]N sux:Enlil[1]DN sux:šudu₃[prayer]N sux:ki[place]N sux:aŋ₂[to-measure]V
-c.3.3.22,Letter from X to the god Nanna,,2,sux:dug₄[to-say]V
-c.3.3.22,Letter from X to the god Nanna,,3,sux:en[lord]N sux:itid[moon(light)]N sux:daŋal[to-be-wide]V sux:bur₂[to-release]V sux:men[diadem]N sux:an[heaven]N sux:uraš[earth]N
-c.3.3.22,Letter from X to the god Nanna,,4,sux:en[lord]N sux:gal[to-be-big]V sux:lu₂[person]N sux:til₃[to-live]V sux:ki[place]N sux:aŋ₂[to-measure]V sux:a-a[father]N sux:saŋ[head]N sux:gig₂[to-be-black]V
-c.3.3.22,Letter from X to the god Nanna,,5,sux:lugal[king]N sux:šag₄-la₂[mercy]N sux:sug₄[to-be-full]V sux:si-il[to-split-apart]V sux:u₃[and]C sux:du₈[to-spread]V sux:zu[to-know]V
-c.3.3.22,Letter from X to the god Nanna,,6,sux:diŋir[deity]N sux:arhuš[compassion]N sux:sud[to-be-distant]V sux:šag₄[heart]N sux:gur[to-turn]V sux:a-ra-zu[supplication]N sux:ŋiš[tree]N sux:tuku[to-have]V
-c.3.3.22,Letter from X to the god Nanna,,7,sux:tah[to-add]V
-c.3.3.22,Letter from X to the god Nanna,,8,sux:nam-en[high-(priestly)-office]N sux:šu[hand]N sux:du₇[to-be-perfect]V sux:aga[crown]N sux:zid[right]AJ sux:guru₃[to-bear]V
-c.3.3.22,Letter from X to the god Nanna,,9,sux:muš₃-me[countenance]N sux:huš[to-be-reddish]V sux:ulutim₂[form]N sux:nir[authority]N sux:alan[statue]N sux:kug[shining]AJ sux:hi-li[attractiveness]N sux:du₈[to-spread]V
-c.3.3.22,Letter from X to the god Nanna,,10,sux:nam-mah[majesty]N sux:kur[(mountain)-land]N sux:dul[to-cover-(together)]V
-c.3.3.22,Letter from X to the god Nanna,,11,sux:me-lem₄[(awesome)-radiance]N sux:an[heaven]N sux:kug[shining]AJ sux:šu₂[to-cover]V
-c.3.3.22,Letter from X to the god Nanna,,12,sux:ni₂[fear(someness)]N sux:gal[to-be-big]V sux:su[flesh]N sux:zig₃[to-rise]V sux:du₈[to-spread]V
-c.3.3.22,Letter from X to the god Nanna,,13,sux:kalam[the-Land]N sux:zag[side]N sux:dib[to-pass]V
-c.3.3.22,Letter from X to the god Nanna,,14,sux:ud[day(light)]N sux:e₃[to-go-out-or-in]V sux:ud[day(light)]N sux:šu₂[to-cover]V sux:za[you-(sg.)]PD sux:mah[to-be-majestic]V
-c.3.3.22,Letter from X to the god Nanna,,15,sux:an-šag₄[interior-of-heaven]N sux:šum₂[to-give]V sux:an[heaven]N sux:šu[hand]N sux:ŋar[to-place]V
-c.3.3.22,Letter from X to the god Nanna,,16,sux:an[heaven]N sux:ki[place]N sux:lugal[king]N sux:za[you-(sg.)]PD sux:nam[destiny]N sux:tar[to-cut]V
+c.3.3.22,Letter from X to the god Nanna,,1,Nanna[1]DN dumu-saŋ[first-born-(child)]N Enlil[1]DN šudu₃[prayer]N ki[place]N aŋ₂[to-measure]V
+c.3.3.22,Letter from X to the god Nanna,,2,dug₄[to-say]V
+c.3.3.22,Letter from X to the god Nanna,,3,en[lord]N itid[moon(light)]N daŋal[to-be-wide]V bur₂[to-release]V men[diadem]N an[heaven]N uraš[earth]N
+c.3.3.22,Letter from X to the god Nanna,,4,en[lord]N gal[to-be-big]V lu₂[person]N til₃[to-live]V ki[place]N aŋ₂[to-measure]V a-a[father]N saŋ[head]N gig₂[to-be-black]V
+c.3.3.22,Letter from X to the god Nanna,,5,lugal[king]N šag₄-la₂[mercy]N sug₄[to-be-full]V si-il[to-split-apart]V u₃[and]C du₈[to-spread]V zu[to-know]V
+c.3.3.22,Letter from X to the god Nanna,,6,diŋir[deity]N arhuš[compassion]N sud[to-be-distant]V šag₄[heart]N gur[to-turn]V a-ra-zu[supplication]N ŋiš[tree]N tuku[to-have]V
+c.3.3.22,Letter from X to the god Nanna,,7,tah[to-add]V
+c.3.3.22,Letter from X to the god Nanna,,8,nam-en[high-(priestly)-office]N šu[hand]N du₇[to-be-perfect]V aga[crown]N zid[right]AJ guru₃[to-bear]V
+c.3.3.22,Letter from X to the god Nanna,,9,muš₃-me[countenance]N huš[to-be-reddish]V ulutim₂[form]N nir[authority]N alan[statue]N kug[shining]AJ hi-li[attractiveness]N du₈[to-spread]V
+c.3.3.22,Letter from X to the god Nanna,,10,nam-mah[majesty]N kur[(mountain)-land]N dul[to-cover-(together)]V
+c.3.3.22,Letter from X to the god Nanna,,11,me-lem₄[(awesome)-radiance]N an[heaven]N kug[shining]AJ šu₂[to-cover]V
+c.3.3.22,Letter from X to the god Nanna,,12,ni₂[fear(someness)]N gal[to-be-big]V su[flesh]N zig₃[to-rise]V du₈[to-spread]V
+c.3.3.22,Letter from X to the god Nanna,,13,kalam[the-Land]N zag[side]N dib[to-pass]V
+c.3.3.22,Letter from X to the god Nanna,,14,ud[day(light)]N e₃[to-go-out-or-in]V ud[day(light)]N šu₂[to-cover]V za[you-(sg.)]PD mah[to-be-majestic]V
+c.3.3.22,Letter from X to the god Nanna,,15,an-šag₄[interior-of-heaven]N šum₂[to-give]V an[heaven]N šu[hand]N ŋar[to-place]V
+c.3.3.22,Letter from X to the god Nanna,,16,an[heaven]N ki[place]N lugal[king]N za[you-(sg.)]PD nam[destiny]N tar[to-cut]V

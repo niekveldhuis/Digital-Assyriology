@@ -1,40 +1,40 @@
 id_text,text_name,version,l_no,text
-c.2.8.3.2,A prayer for Samsu-iluna (Samsu-iluna B),,1,sux:zi[life-(breath)]N
-c.2.8.3.2,A prayer for Samsu-iluna (Samsu-iluna B),,2,sux:zi[life-(breath)]N
-c.2.8.3.2,A prayer for Samsu-iluna (Samsu-iluna B),,3,sux:zi[life-(breath)]N
-c.2.8.3.2,A prayer for Samsu-iluna (Samsu-iluna B),,4,sux:mu[name]N
-c.2.8.3.2,A prayer for Samsu-iluna (Samsu-iluna B),,5,sux:til₃[to-live]V sux:kug[shining]AJ
-c.2.8.3.2,A prayer for Samsu-iluna (Samsu-iluna B),,6,sux:Enki[1]DN sux:an[heaven]N
-c.2.8.3.2,A prayer for Samsu-iluna (Samsu-iluna B),,7,sux:nun[prince]N sux:Samsu-iluna[1]RN
-c.2.8.3.2,A prayer for Samsu-iluna (Samsu-iluna B),,8,sux:me-lem₄[(awesome)-radiance]N sux:daŋal[to-be-wide]V sux:dul[to-cover-(together)]V
-c.2.8.3.2,A prayer for Samsu-iluna (Samsu-iluna B),,9,sux:gu-za[chair]N sux:Enki[1]DN
-c.2.8.3.2,A prayer for Samsu-iluna (Samsu-iluna B),,10,sux:ŋidru[sceptre]N sux:mu[year]N sux:ud[day(light)]N sux:sud[to-be-distant]V sux:saŋ[head]N sux:rig₇[to-bestow]V
-c.2.8.3.2,A prayer for Samsu-iluna (Samsu-iluna B),,11,sux:aga[crown]N sux:Utu[1]DN
-c.2.8.3.2,A prayer for Samsu-iluna (Samsu-iluna B),,12,sux:nam-lugal[kingship]N sux:an[heaven]N sux:ki[place]N sux:gen₆[to-be-firm]V
-c.2.8.3.2,A prayer for Samsu-iluna (Samsu-iluna B),,13,sux:ma-da[land]N sux:uŋ₃[people]N sux:lu[to-be-abundant]V sux:lugal[king]N sux:me[to-be]V
-c.2.8.3.2,A prayer for Samsu-iluna (Samsu-iluna B),,14,sux:uŋ₃[people]N sux:sipad[shepherd]N sux:zid[right]AJ sux:me[to-be]V
-c.2.8.3.2,A prayer for Samsu-iluna (Samsu-iluna B),,15,sux:uŋ₃[people]N sux:tuš[to-sit]V sux:na-gada[herdsman]N sux:me[to-be]V
-c.2.8.3.2,A prayer for Samsu-iluna (Samsu-iluna B),,16,sux:Utu[1]DN sux:di[(law)suit]N sux:gen₆[to-be-firm]V sux:dab₅[to-seize]V
-c.2.8.3.2,A prayer for Samsu-iluna (Samsu-iluna B),,17,sux:šar₂[to-be-numerous]V sux:niŋ₂-gen₆-na[constancy]N sux:mu[name]N sux:sa₄[to-call]V
-c.2.8.3.2,A prayer for Samsu-iluna (Samsu-iluna B),,18,sux:Samsu-iluna[1]RN sux:lugal[king]N sux:inim[word]N sux:sag₉[to-be-good]V sux:Utu[1]DN
-c.2.8.3.2,A prayer for Samsu-iluna (Samsu-iluna B),,19,sux:lugal[king]N sux:saŋ-kal[foremost]AJ sux:me[to-be]V
-c.2.8.3.2,A prayer for Samsu-iluna (Samsu-iluna B),,20,sux:kur[(mountain)-land]N sux:gu₂-erim₂-ŋal₂[hostile]AJ sux:ud[storm]N sux:huš[to-be-reddish]V sux:du₇[to-push]V
-c.2.8.3.2,A prayer for Samsu-iluna (Samsu-iluna B),,21,sux:lugal[king]N sux:gu₂[neck]N sux:an[heaven]N sux:zig₃[to-rise]V
-c.2.8.3.2,A prayer for Samsu-iluna (Samsu-iluna B),,22,sux:Samsu-iluna[1]RN sux:gu₂[neck]N sux:an[heaven]N sux:zig₃[to-rise]V
-c.2.8.3.2,A prayer for Samsu-iluna (Samsu-iluna B),,23,sux:Babylon[1]SN sux:iri[town]N sux:me[essence]N sux:Suen[1]DN sux:nam-gal[greatness]N sux:ud[day(light)]N sux:pa[branch]N sux:e₃[to-go-out-or-in]V
-c.2.8.3.2,A prayer for Samsu-iluna (Samsu-iluna B),,24,sux:Marduk[1]DN sux:diŋir[deity]N sux:saŋ[head]N sux:du₃[to-erect]V sux:gu₂-en[entirety]N sux:nun[prince]N sux:saŋ[head]N sux:il₂[to-raise]V
-c.2.8.3.2,A prayer for Samsu-iluna (Samsu-iluna B),,25,sux:ki[place]N sux:me₃[battle]N sux:šen[combat]N sux:ŋiš-la₂[battle]N sux:da[side]N sux:ŋa₂-la[noun-part-of-multiword-verb]N sux:dag[to-roam-around]V
-c.2.8.3.2,A prayer for Samsu-iluna (Samsu-iluna B),,26,sux:a₂-tah[helper]N sux:tukul[weapon]N sux:me[to-be]V sux:ud[day(light)]N sux:sud[to-be-distant]V sux:dirig[to-be-superior]V
-c.2.8.3.2,A prayer for Samsu-iluna (Samsu-iluna B),,27,sux:An[1]DN sux:lugal[king]N sux:diŋir[deity]N sux:zi[life-(breath)]N sux:ud[day(light)]N sux:sud[to-be-distant]V sux:ŋal₂[to-be-(located)]V
-c.2.8.3.2,A prayer for Samsu-iluna (Samsu-iluna B),,28,sux:Enlil[1]DN sux:lugal[king]N sux:kur[(mountain)-land]N sux:inim[word]N sux:gen₆[to-be-firm]V sux:inim[word]N sux:dugud[to-be-heavy]V
-c.2.8.3.2,A prayer for Samsu-iluna (Samsu-iluna B),,29,sux:Inana[1]DN sux:nin[lady]N sux:gal[to-be-big]V sux:an[heaven]N sux:inim[word]N sux:kug[shining]AJ sux:ha-za[to-hold]V
-c.2.8.3.2,A prayer for Samsu-iluna (Samsu-iluna B),,30,sux:Enki[1]DN sux:uŋ₃[people]N sux:šar₂[to-be-numerous]V sux:šu[hand]N sux:ŋal₂[to-be-(located)]V
-c.2.8.3.2,A prayer for Samsu-iluna (Samsu-iluna B),,31,sux:Asari[1]DN sux:ensi₂[(city)-ruler]N sux:gal[to-be-big]V sux:abzu[underground-water]N sux:kur[(mountain)-land]N sux:kilib₃[entirety]N sux:na[advice]N sux:de₅[to-collect]V sux:nir-ŋal₂[authoritative]AJ sux:Eridug[1]SN
-c.2.8.3.2,A prayer for Samsu-iluna (Samsu-iluna B),,32,sux:diŋir[deity]N sux:kilib₃-ŋal₂[assembly]N sux:mu[name]N sux:dug₃[to-be-good]V sux:sa₄[to-call]V sux:a₂[arm]N sux:nun[prince]N sux:gal[to-be-big]V sux:me[to-be]V
-c.2.8.3.2,A prayer for Samsu-iluna (Samsu-iluna B),,33,sux:Namma[1]DN sux:ama[mother]N sux:e₂[house(hold)]N sux:ki[place]N sux:ama[mother]N sux:kalam[the-Land]N sux:ka[mouth]N sux:a[water]N sux:ŋar[to-place]V
-c.2.8.3.2,A prayer for Samsu-iluna (Samsu-iluna B),,34,sux:Damgalnuna[1]DN sux:nin[lady]N sux:gal[to-be-big]V sux:Eridug[1]SN sux:ki-nu₂[sleeping-quarter]N sux:dug₃[to-be-good]V sux:ul[to-swell-(with-joy)]V sux:sizkur₂[to-intercede]V
-c.2.8.3.2,A prayer for Samsu-iluna (Samsu-iluna B),,35,sux:la₂[to-hang]V sux:hi[to-mix-up]V sux:dam[spouse]N sux:til[to-complete]V
-c.2.8.3.2,A prayer for Samsu-iluna (Samsu-iluna B),,36,sux:ud[day(light)]N sux:he₂-ŋal₂[plenty]N sux:ud[day(light)]N sux:šu[hand]N sux:bur₂[to-release]V sux:sag₉[to-be-good]V
-c.2.8.3.2,A prayer for Samsu-iluna (Samsu-iluna B),,37,sux:ki[place]N sux:nitalam[spouse]N sux:šudu₃[prayer]N sux:dug₄[to-say]V
-c.2.8.3.2,A prayer for Samsu-iluna (Samsu-iluna B),,38,sux:diŋir[deity]N sux:gub[to-stand]V sux:lamma[guardian-deity]N sux:abzu[underground-water]N sux:lu₂[person]N sux:inim-ŋar[(oracular)-utterance]N sux:sag₉[to-be-good]V sux:me[to-be]V sux:AB[AB]N sux:ud[day(light)]N sux:da-ri₂[eternal]AJ
-c.2.8.3.2,A prayer for Samsu-iluna (Samsu-iluna B),,39,sux:Samsu-iluna[1]RN sux:lugal[king]N
+c.2.8.3.2,A prayer for Samsu-iluna (Samsu-iluna B),,1,zi[life-(breath)]N
+c.2.8.3.2,A prayer for Samsu-iluna (Samsu-iluna B),,2,zi[life-(breath)]N
+c.2.8.3.2,A prayer for Samsu-iluna (Samsu-iluna B),,3,zi[life-(breath)]N
+c.2.8.3.2,A prayer for Samsu-iluna (Samsu-iluna B),,4,mu[name]N
+c.2.8.3.2,A prayer for Samsu-iluna (Samsu-iluna B),,5,til₃[to-live]V kug[shining]AJ
+c.2.8.3.2,A prayer for Samsu-iluna (Samsu-iluna B),,6,Enki[1]DN an[heaven]N
+c.2.8.3.2,A prayer for Samsu-iluna (Samsu-iluna B),,7,nun[prince]N Samsu-iluna[1]RN
+c.2.8.3.2,A prayer for Samsu-iluna (Samsu-iluna B),,8,me-lem₄[(awesome)-radiance]N daŋal[to-be-wide]V dul[to-cover-(together)]V
+c.2.8.3.2,A prayer for Samsu-iluna (Samsu-iluna B),,9,gu-za[chair]N Enki[1]DN
+c.2.8.3.2,A prayer for Samsu-iluna (Samsu-iluna B),,10,ŋidru[sceptre]N mu[year]N ud[day(light)]N sud[to-be-distant]V saŋ[head]N rig₇[to-bestow]V
+c.2.8.3.2,A prayer for Samsu-iluna (Samsu-iluna B),,11,aga[crown]N Utu[1]DN
+c.2.8.3.2,A prayer for Samsu-iluna (Samsu-iluna B),,12,nam-lugal[kingship]N an[heaven]N ki[place]N gen₆[to-be-firm]V
+c.2.8.3.2,A prayer for Samsu-iluna (Samsu-iluna B),,13,ma-da[land]N uŋ₃[people]N lu[to-be-abundant]V lugal[king]N me[to-be]V
+c.2.8.3.2,A prayer for Samsu-iluna (Samsu-iluna B),,14,uŋ₃[people]N sipad[shepherd]N zid[right]AJ me[to-be]V
+c.2.8.3.2,A prayer for Samsu-iluna (Samsu-iluna B),,15,uŋ₃[people]N tuš[to-sit]V na-gada[herdsman]N me[to-be]V
+c.2.8.3.2,A prayer for Samsu-iluna (Samsu-iluna B),,16,Utu[1]DN di[(law)suit]N gen₆[to-be-firm]V dab₅[to-seize]V
+c.2.8.3.2,A prayer for Samsu-iluna (Samsu-iluna B),,17,šar₂[to-be-numerous]V niŋ₂-gen₆-na[constancy]N mu[name]N sa₄[to-call]V
+c.2.8.3.2,A prayer for Samsu-iluna (Samsu-iluna B),,18,Samsu-iluna[1]RN lugal[king]N inim[word]N sag₉[to-be-good]V Utu[1]DN
+c.2.8.3.2,A prayer for Samsu-iluna (Samsu-iluna B),,19,lugal[king]N saŋ-kal[foremost]AJ me[to-be]V
+c.2.8.3.2,A prayer for Samsu-iluna (Samsu-iluna B),,20,kur[(mountain)-land]N gu₂-erim₂-ŋal₂[hostile]AJ ud[storm]N huš[to-be-reddish]V du₇[to-push]V
+c.2.8.3.2,A prayer for Samsu-iluna (Samsu-iluna B),,21,lugal[king]N gu₂[neck]N an[heaven]N zig₃[to-rise]V
+c.2.8.3.2,A prayer for Samsu-iluna (Samsu-iluna B),,22,Samsu-iluna[1]RN gu₂[neck]N an[heaven]N zig₃[to-rise]V
+c.2.8.3.2,A prayer for Samsu-iluna (Samsu-iluna B),,23,Babylon[1]SN iri[town]N me[essence]N Suen[1]DN nam-gal[greatness]N ud[day(light)]N pa[branch]N e₃[to-go-out-or-in]V
+c.2.8.3.2,A prayer for Samsu-iluna (Samsu-iluna B),,24,Marduk[1]DN diŋir[deity]N saŋ[head]N du₃[to-erect]V gu₂-en[entirety]N nun[prince]N saŋ[head]N il₂[to-raise]V
+c.2.8.3.2,A prayer for Samsu-iluna (Samsu-iluna B),,25,ki[place]N me₃[battle]N šen[combat]N ŋiš-la₂[battle]N da[side]N ŋa₂-la[noun-part-of-multiword-verb]N dag[to-roam-around]V
+c.2.8.3.2,A prayer for Samsu-iluna (Samsu-iluna B),,26,a₂-tah[helper]N tukul[weapon]N me[to-be]V ud[day(light)]N sud[to-be-distant]V dirig[to-be-superior]V
+c.2.8.3.2,A prayer for Samsu-iluna (Samsu-iluna B),,27,An[1]DN lugal[king]N diŋir[deity]N zi[life-(breath)]N ud[day(light)]N sud[to-be-distant]V ŋal₂[to-be-(located)]V
+c.2.8.3.2,A prayer for Samsu-iluna (Samsu-iluna B),,28,Enlil[1]DN lugal[king]N kur[(mountain)-land]N inim[word]N gen₆[to-be-firm]V inim[word]N dugud[to-be-heavy]V
+c.2.8.3.2,A prayer for Samsu-iluna (Samsu-iluna B),,29,Inana[1]DN nin[lady]N gal[to-be-big]V an[heaven]N inim[word]N kug[shining]AJ ha-za[to-hold]V
+c.2.8.3.2,A prayer for Samsu-iluna (Samsu-iluna B),,30,Enki[1]DN uŋ₃[people]N šar₂[to-be-numerous]V šu[hand]N ŋal₂[to-be-(located)]V
+c.2.8.3.2,A prayer for Samsu-iluna (Samsu-iluna B),,31,Asari[1]DN ensi₂[(city)-ruler]N gal[to-be-big]V abzu[underground-water]N kur[(mountain)-land]N kilib₃[entirety]N na[advice]N de₅[to-collect]V nir-ŋal₂[authoritative]AJ Eridug[1]SN
+c.2.8.3.2,A prayer for Samsu-iluna (Samsu-iluna B),,32,diŋir[deity]N kilib₃-ŋal₂[assembly]N mu[name]N dug₃[to-be-good]V sa₄[to-call]V a₂[arm]N nun[prince]N gal[to-be-big]V me[to-be]V
+c.2.8.3.2,A prayer for Samsu-iluna (Samsu-iluna B),,33,Namma[1]DN ama[mother]N e₂[house(hold)]N ki[place]N ama[mother]N kalam[the-Land]N ka[mouth]N a[water]N ŋar[to-place]V
+c.2.8.3.2,A prayer for Samsu-iluna (Samsu-iluna B),,34,Damgalnuna[1]DN nin[lady]N gal[to-be-big]V Eridug[1]SN ki-nu₂[sleeping-quarter]N dug₃[to-be-good]V ul[to-swell-(with-joy)]V sizkur₂[to-intercede]V
+c.2.8.3.2,A prayer for Samsu-iluna (Samsu-iluna B),,35,la₂[to-hang]V hi[to-mix-up]V dam[spouse]N til[to-complete]V
+c.2.8.3.2,A prayer for Samsu-iluna (Samsu-iluna B),,36,ud[day(light)]N he₂-ŋal₂[plenty]N ud[day(light)]N šu[hand]N bur₂[to-release]V sag₉[to-be-good]V
+c.2.8.3.2,A prayer for Samsu-iluna (Samsu-iluna B),,37,ki[place]N nitalam[spouse]N šudu₃[prayer]N dug₄[to-say]V
+c.2.8.3.2,A prayer for Samsu-iluna (Samsu-iluna B),,38,diŋir[deity]N gub[to-stand]V lamma[guardian-deity]N abzu[underground-water]N lu₂[person]N inim-ŋar[(oracular)-utterance]N sag₉[to-be-good]V me[to-be]V AB[AB]N ud[day(light)]N da-ri₂[eternal]AJ
+c.2.8.3.2,A prayer for Samsu-iluna (Samsu-iluna B),,39,Samsu-iluna[1]RN lugal[king]N

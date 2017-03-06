@@ -1,67 +1,67 @@
 id_text,text_name,version,l_no,text
-c.2.5.4.02,An adab to Bau for Išme-Dagan (Išme-Dagan B),,1,sux:nin[lady]N sux:ni₂[fear(someness)]N sux:guru₃[to-bear]V sux:mah[to-be-majestic]V sux:zu[to-know]V sux:an[heaven]N sux:ki[place]N sux:nam-nir[authority]N sux:šu[hand]N sux:du₇[to-be-perfect]V
-c.2.5.4.02,An adab to Bau for Išme-Dagan (Išme-Dagan B),,2,sux:ama[mother]N sux:Bau[1]DN sux:gu₂-gal[foremost]AJ sux:nin[lady]N sux:ur-saŋ[hero]N
-c.2.5.4.02,An adab to Bau for Išme-Dagan (Išme-Dagan B),,3,sux:diŋir[deity]N sux:er₉[to-be-mighty]V sux:me[essence]N sux:mah[to-be-majestic]V sux:šu[hand]N sux:du₇[to-be-perfect]V sux:saŋ[head]N sux:il₂[to-raise]V sux:umuš[(fore)thought]N sux:gal[to-be-big]V
-c.2.5.4.02,An adab to Bau for Išme-Dagan (Išme-Dagan B),,4,sux:su₄-un-su₄[meaning-unknown]V sux:munus[woman]N sux:zid[right]AJ sux:nin[lady]N sux:gal-an-zu[wise]AJ sux:šag₄[heart]N sux:umun₂[knowledge-source]N sux:ak[to-do]V
-c.2.5.4.02,An adab to Bau for Išme-Dagan (Išme-Dagan B),,5,sux:dumu[child]N sux:An[1]DN sux:mas-su[leader]N sux:inim[word]N sux:pad₃[to-find]V sux:niŋ₂-nam[anything]PD sux:šu[hand]N sux:si[to-fill]V
-c.2.5.4.02,An adab to Bau for Išme-Dagan (Išme-Dagan B),,6,sux:nin[lady]N sux:a-zu[healer]N sux:gal[to-be-big]V sux:saŋ[head]N sux:gig₂[to-be-black]V sux:lu₂[person]N sux:til₃[to-live]V sux:lu₂[person]N sux:tud[to-give-birth]V
-c.2.5.4.02,An adab to Bau for Išme-Dagan (Išme-Dagan B),,7,sux:Šu-halbi[1]DN sux:šim-mu₂[type-of-priest]N sux:uŋ₃[people]N sux:lu[to-be-abundant]V
-c.2.5.4.02,An adab to Bau for Išme-Dagan (Išme-Dagan B),,8,sux:šag₄-la₂[mercy]N sux:tuku[to-have]V sux:arhuš[compassion]N sux:sud[to-be-distant]V sux:kalam[the-Land]N sux:nin[lady]N sux:niŋ₂-gen₆-na[constancy]N
-c.2.5.4.02,An adab to Bau for Išme-Dagan (Išme-Dagan B),,9,sux:Enlil[1]DN sux:lugal[king]N sux:kur[(mountain)-land]N
-c.2.5.4.02,An adab to Bau for Išme-Dagan (Išme-Dagan B),,10,sux:Nunamnir[1]DN sux:en[lord]N sux:nam[destiny]N sux:tar[to-cut]V
-c.2.5.4.02,An adab to Bau for Išme-Dagan (Išme-Dagan B),,11,sux:eš₃[shrine]N sux:Nibru[1]SN sux:Dur-an-ki[1]TN sux:gal[to-be-big]V sux:dug₄[to-say]V
-c.2.5.4.02,An adab to Bau for Išme-Dagan (Išme-Dagan B),,12,sux:E-kur[1]TN sux:za-gin₃[lapis-lazuli]N sux:mah[to-be-majestic]V
-c.2.5.4.02,An adab to Bau for Išme-Dagan (Išme-Dagan B),,13,sux:sa-par₄[type-of-net]N sux:kalag[to-be-strong]V sux:Nunamnir[1]DN
-c.2.5.4.02,An adab to Bau for Išme-Dagan (Išme-Dagan B),,14,sux:an-gub-ba[guardian-deity]N sux:E-kur[1]TN sux:šukur₂[ration]N sux:šum₂[to-give]V sux:ŋeštin[grape-(wine)]N sux:za[you-(sg.)]PD
-c.2.5.4.02,An adab to Bau for Išme-Dagan (Išme-Dagan B),,15,sux:Enlil[1]DN sux:e₂-gi₄-a[daughter-in-law]N sux:mah[to-be-majestic]V sux:a[water]N sux:gub[to-stand]V
-c.2.5.4.02,An adab to Bau for Išme-Dagan (Išme-Dagan B),,16,sux:sun₅[to-be-humble]V sux:šita[supplication]N sux:ki[place]N sux:la₂[to-hang]V
-c.2.5.4.02,An adab to Bau for Išme-Dagan (Išme-Dagan B),,17,sux:Nunamnir[1]DN sux:nun[prince]N sux:kur[(mountain)-land]N
-c.2.5.4.02,An adab to Bau for Išme-Dagan (Išme-Dagan B),,18,sux:nam-saŋ-tun₃[land-registrar's-office]N sux:mah[to-be-majestic]V sux:an[heaven]N sux:ki[place]N sux:šu[hand]N sux:kur₉[to-enter]V
-c.2.5.4.02,An adab to Bau for Išme-Dagan (Išme-Dagan B),,19,sux:il₂[to-raise]V sux:nam-nin[ladyship]N sux:eš₃[shrine]N sux:numun[seed]N sux:i[to-bring-out]V sux:za[you-(sg.)]PD sux:šum₂[to-give]V
-c.2.5.4.02,An adab to Bau for Išme-Dagan (Išme-Dagan B),,20,sux:a-a[father]N sux:ugu[to-give-birth]V sux:An[1]DN sux:diŋir[deity]N sux:mah[to-be-majestic]V sux:tug₂[garment]N sux:tug₂-ba₁₃[type-of-garment]N sux:tug₂[garment]N sux:mur₁₀[to-dress]V
-c.2.5.4.02,An adab to Bau for Išme-Dagan (Išme-Dagan B),,21,sux:ur-saŋ[hero]N sux:Enlil[1]DN sux:Ninŋirsu[1]DN sux:nitalam[spouse]N sux:šum₂[to-give]V
-c.2.5.4.02,An adab to Bau for Išme-Dagan (Išme-Dagan B),,22,sux:E-ninnu[1]TN sux:Iri-kug[1]SN sux:eš₃[shrine]N sux:numun[seed]N sux:i[to-bring-out]V sux:saŋ[head]N sux:rig₇[to-bestow]V
-c.2.5.4.02,An adab to Bau for Išme-Dagan (Išme-Dagan B),,23,sux:Lagaš[1]SN sux:Ŋirsu[1]SN sux:dim[(cosmic)-post]N sux:gal[to-be-big]V sux:kalam[the-Land]N
-c.2.5.4.02,An adab to Bau for Išme-Dagan (Išme-Dagan B),,24,sux:E-ŋalga-sud[1]TN sux:ki-tuš[dwelling-place]N sux:ki[place]N sux:aŋ₂[to-measure]V
-c.2.5.4.02,An adab to Bau for Išme-Dagan (Išme-Dagan B),,25,sux:Tar-sirsir[1]TN sux:e₂[house(hold)]N sux:nam-nin[ladyship]N sux:barag[dais]N sux:mah[to-be-majestic]V sux:ri[to-direct]V
-c.2.5.4.02,An adab to Bau for Išme-Dagan (Išme-Dagan B),,26,sux:ki-tuš[dwelling-place]N sux:mah[to-be-majestic]V sux:diŋir[deity]N sux:ki[place]N sux:Lagaš[1]SN sux:gam[to-bow-down]V
-c.2.5.4.02,An adab to Bau for Išme-Dagan (Išme-Dagan B),,27,sux:nin[lady]N sux:zag[side]N sux:dib[to-pass]V sux:me[essence]N sux:šu[hand]N sux:te[to-approach]V
-c.2.5.4.02,An adab to Bau for Išme-Dagan (Išme-Dagan B),,28,sux:dumu[child]N sux:An[1]DN sux:nin[lady]N sux:gal[to-be-big]V sux:niŋ₂-nam[anything]PD sux:zu[to-know]V
-c.2.5.4.02,An adab to Bau for Išme-Dagan (Išme-Dagan B),,29,sux:šul[young-man]N sux:me-dim₂[articulation]N sux:sag₉[to-be-good]V sux:nun[prince]N sux:Išme-Dagan[1]RN sux:dumu[child]N sux:Enlil[1]DN
-c.2.5.4.02,An adab to Bau for Išme-Dagan (Išme-Dagan B),,30,sux:ki-sikil[young-woman]N sux:ama[mother]N sux:Bau[1]DN sux:igi[eye]N sux:zid[right]AJ sux:bar[to-set-aside]V sux:nam[destiny]N sux:dug₃[to-be-good]V sux:tar[to-cut]V sux:ud[day(light)]N sux:til₃[to-live]V sux:e₃[to-go-out-or-in]V
-c.2.5.4.02,An adab to Bau for Išme-Dagan (Išme-Dagan B),,31,sux:sa-gid₂-da[composition-division]N
-c.2.5.4.02,An adab to Bau for Išme-Dagan (Išme-Dagan B),,32,sux:ama[mother]N sux:Bau[1]DN sux:nun[prince]N sux:Išme-Dagan[1]RN sux:dumu[child]N sux:Enlil[1]DN sux:nam-til₃[life]N sux:ud[day(light)]N sux:sud[to-be-distant]V sux:šum₂[to-give]V
-c.2.5.4.02,An adab to Bau for Išme-Dagan (Išme-Dagan B),,33,sux:ŋiš-gi₄-ŋal₂[composition-division]N sux:sa-gid₂-da[composition-division]N
-c.2.5.4.02,An adab to Bau for Išme-Dagan (Išme-Dagan B),,34,sux:E-namtila[1]TN sux:e₂[house(hold)]N sux:Enlil[1]DN
-c.2.5.4.02,An adab to Bau for Išme-Dagan (Išme-Dagan B),,35,sux:sila₄[lamb]N sux:babbar[white]AJ sux:udu[sheep]N sux:inim-ŋar[(oracular)-utterance]N sux:sag₉[to-be-good]V sux:gaba[chest]N sux:tab[to-be-parallel]V
-c.2.5.4.02,An adab to Bau for Išme-Dagan (Išme-Dagan B),,36,sux:nun[prince]N sux:Išme-Dagan[1]RN sux:za[you-(sg.)]PD sux:kur₉[to-enter]V
-c.2.5.4.02,An adab to Bau for Išme-Dagan (Išme-Dagan B),,37,sux:KI.LUGAL.GUB[royal-station]N sux:nam-til₃[life]N sux:gub[to-stand]V
-c.2.5.4.02,An adab to Bau for Išme-Dagan (Išme-Dagan B),,38,sux:kur[(mountain)-land]N sux:gal[to-be-big]V sux:Enlil[1]DN sux:ki[place]N sux:ŋal₂[to-be-(located)]V
-c.2.5.4.02,An adab to Bau for Išme-Dagan (Išme-Dagan B),,39,sux:a-a[father]N sux-x-emesal:Enlil[1]DN sux-x-emesal:u₃-mu-un[lord]N sux:gal[to-be-big]V sux:kur[(mountain)-land]N
-c.2.5.4.02,An adab to Bau for Išme-Dagan (Išme-Dagan B),,40,sux:Išme-Dagan[1]RN sux-x-emesal:na-aŋ₂[destiny]N sux:tar[to-cut]V sux:mu[name]N sux:pad₃[to-find]V sux:e-ne[he;-she]PD sux:dug₄[to-say]V
-c.2.5.4.02,An adab to Bau for Išme-Dagan (Išme-Dagan B),,41,sux:Enlil[1]DN sux:lugal[king]N sux:kur[(mountain)-land]N sux:igi[eye]N sux:nam-til₃[life]N sux:saŋ-ki[forehead]N sux:zalag[to-be-shining]V sux:bar[to-set-aside]V
-c.2.5.4.02,An adab to Bau for Išme-Dagan (Išme-Dagan B),,42,sux:Išme-Dagan[1]RN sux:nam[destiny]N sux:tar[to-cut]V
-c.2.5.4.02,An adab to Bau for Išme-Dagan (Išme-Dagan B),,43,sux:gu-za[chair]N sux:me[essence]N sux:ur₄[to-collect]V sux:aga[crown]N sux:zid[right]AJ sux:ud[day(light)]N sux:sud[to-be-distant]V sux:ŋidru[sceptre]N sux:uŋ₃[people]N sux:gen₆[to-be-firm]V sux:us₂[to-be-adjacent]V sux:1[1]NU sux:de₆[to-carry]V
-c.2.5.4.02,An adab to Bau for Išme-Dagan (Išme-Dagan B),,44,sux:nun[prince]N sux:Išme-Dagan[1]RN sux:nam[destiny]N sux:tar[to-cut]V
-c.2.5.4.02,An adab to Bau for Išme-Dagan (Išme-Dagan B),,45,sux:Tigris[1]WN sux:Euphrates[1]WN sux:he₂-ŋal₂[plenty]N sux:a-eštub[carp(-filled)-water]N sux:de₆[to-carry]V sux:gun₂[weight-measure-(load)]N sux:gid₂[to-be-long]V
-c.2.5.4.02,An adab to Bau for Išme-Dagan (Išme-Dagan B),,46,sux:gu₂[neck]N sux:u₂-šim[greenery]N sux:mu₂[to-grow]V sux:asila[rejoicing]N sux:la₂[to-hang]V
-c.2.5.4.02,An adab to Bau for Išme-Dagan (Išme-Dagan B),,47,sux:pu₂-kiri₆[orchard]N sux:lal₃[syrup]N sux:ŋeštin[grape-(wine)]N sux:ki[place]N sux:us₂[to-be-adjacent]V
-c.2.5.4.02,An adab to Bau for Išme-Dagan (Išme-Dagan B),,48,sux:a-gar₃[meadow]N sux:zid[right]AJ sux:še[barley]N sux:gu-nu[flax]N sux:mu₂[to-grow]V sux:guru₇[(grain)-heap]N sux:dub[to-heap-up]V
-c.2.5.4.02,An adab to Bau for Išme-Dagan (Išme-Dagan B),,49,sux:tur₃[animal-stall]N sux:du₃[to-erect]V sux:amaš[sheepfold]N sux:daŋal[to-be-wide]V
-c.2.5.4.02,An adab to Bau for Išme-Dagan (Išme-Dagan B),,50,sux:nam-lugal[kingship]N sux:mu[name]N sux:mah[to-be-majestic]V
-c.2.5.4.02,An adab to Bau for Išme-Dagan (Išme-Dagan B),,51,sux:nam-nun[princeliness]N sux:saŋ[head]N sux:an[heaven]N sux:il₂[to-raise]V
-c.2.5.4.02,An adab to Bau for Išme-Dagan (Išme-Dagan B),,52,sux:sig[to-be-low]V sux:igi-nim[upper-land]N sux:kur-zag[mountain-border]N sux:til[to-complete]V sux:gun₂[weight-measure-(load)]N sux:il₂[to-raise]V
-c.2.5.4.02,An adab to Bau for Išme-Dagan (Išme-Dagan B),,53,sux:kisal[courtyard]N sux:mah[to-be-majestic]V sux:nun[prince]N sux:ud[day(light)]N sux:dalla[to-be-bright]V sux:e₃[to-go-out-or-in]V
-c.2.5.4.02,An adab to Bau for Išme-Dagan (Išme-Dagan B),,54,sux:nidba[(food)-offering]N sux:E-kur[1]TN sux:za-gin₃[lapis-lazuli]N sux:muš₃[face]N sux:de₆[to-carry]V
-c.2.5.4.02,An adab to Bau for Išme-Dagan (Išme-Dagan B),,55,sux:Enlil[1]DN sux:nam[destiny]N sux:tar[to-cut]V
-c.2.5.4.02,An adab to Bau for Išme-Dagan (Išme-Dagan B),,56,sux:lugal[king]N sux:E-kur[1]TN sux:a₂[arm]N sux:mah[to-be-majestic]V sux:šum₂[to-give]V
-c.2.5.4.02,An adab to Bau for Išme-Dagan (Išme-Dagan B),,57,sux:nir[authority]N sux:ŋal₂[to-be-(located)]V sux:inim[word]N sux:Enlil[1]DN sux:gaba-šu-ŋar[rival]N sux:tuku[to-have]V
-c.2.5.4.02,An adab to Bau for Išme-Dagan (Išme-Dagan B),,58,sux:ŋiri₃[foot]N sux:il₂[to-raise]V sux:gub[to-stand]V
-c.2.5.4.02,An adab to Bau for Išme-Dagan (Išme-Dagan B),,59,sux:e₂-gal[palace]N sux:mah[to-be-majestic]V sux:ki-tuš[dwelling-place]N sux:nam-lugal[kingship]N sux:kur₉[to-enter]V
-c.2.5.4.02,An adab to Bau for Išme-Dagan (Išme-Dagan B),,60,sux:barag[dais]N sux:kug[shining]AJ sux:za-gin₃[lapis-lazuli]N sux:dur₂[rump]N sux:ŋar[to-place]V sux:e₂-gal[palace]N
-c.2.5.4.02,An adab to Bau for Išme-Dagan (Išme-Dagan B),,61,sux:sa-ŋar-ra[composition-division]N
-c.2.5.4.02,An adab to Bau for Išme-Dagan (Išme-Dagan B),,62,sux:munus[woman]N sux:zid[right]AJ sux:dumu[child]N sux:An[1]DN sux:Enlil[1]DN sux:gu₃[voice]N sux:de₆[to-carry]V sux:barag[dais]N sux:kug[shining]AJ sux:za-gin₃[lapis-lazuli]N sux:dug₄[to-say]V
-c.2.5.4.02,An adab to Bau for Išme-Dagan (Išme-Dagan B),,63,sux:ki-sikil[young-woman]N sux:ama[mother]N sux:Bau[1]DN sux:dumu[child]N sux:An[1]DN sux:Enlil[1]DN sux:gu₃[voice]N sux:de₆[to-carry]V sux:barag[dais]N sux:kug[shining]AJ sux:za-gin₃[lapis-lazuli]N sux:dug₄[to-say]V
-c.2.5.4.02,An adab to Bau for Išme-Dagan (Išme-Dagan B),,64,sux:Išme-Dagan[1]RN sux:dumu[child]N sux:Enlil[1]DN sux:nam-til₃[life]N sux:ud[day(light)]N sux:sud[to-be-distant]V sux:saŋ[head]N sux:rig₇[to-bestow]V
-c.2.5.4.02,An adab to Bau for Išme-Dagan (Išme-Dagan B),,65,sux:u₁₈-ru[composition-division]N
-c.2.5.4.02,An adab to Bau for Išme-Dagan (Išme-Dagan B),,66,sux:a-da-ab[type-of-drum-and-composition]N sux:Bau[1]DN
+c.2.5.4.02,An adab to Bau for Išme-Dagan (Išme-Dagan B),,1,nin[lady]N ni₂[fear(someness)]N guru₃[to-bear]V mah[to-be-majestic]V zu[to-know]V an[heaven]N ki[place]N nam-nir[authority]N šu[hand]N du₇[to-be-perfect]V
+c.2.5.4.02,An adab to Bau for Išme-Dagan (Išme-Dagan B),,2,ama[mother]N Bau[1]DN gu₂-gal[foremost]AJ nin[lady]N ur-saŋ[hero]N
+c.2.5.4.02,An adab to Bau for Išme-Dagan (Išme-Dagan B),,3,diŋir[deity]N er₉[to-be-mighty]V me[essence]N mah[to-be-majestic]V šu[hand]N du₇[to-be-perfect]V saŋ[head]N il₂[to-raise]V umuš[(fore)thought]N gal[to-be-big]V
+c.2.5.4.02,An adab to Bau for Išme-Dagan (Išme-Dagan B),,4,su₄-un-su₄[meaning-unknown]V munus[woman]N zid[right]AJ nin[lady]N gal-an-zu[wise]AJ šag₄[heart]N umun₂[knowledge-source]N ak[to-do]V
+c.2.5.4.02,An adab to Bau for Išme-Dagan (Išme-Dagan B),,5,dumu[child]N An[1]DN mas-su[leader]N inim[word]N pad₃[to-find]V niŋ₂-nam[anything]PD šu[hand]N si[to-fill]V
+c.2.5.4.02,An adab to Bau for Išme-Dagan (Išme-Dagan B),,6,nin[lady]N a-zu[healer]N gal[to-be-big]V saŋ[head]N gig₂[to-be-black]V lu₂[person]N til₃[to-live]V lu₂[person]N tud[to-give-birth]V
+c.2.5.4.02,An adab to Bau for Išme-Dagan (Išme-Dagan B),,7,Šu-halbi[1]DN šim-mu₂[type-of-priest]N uŋ₃[people]N lu[to-be-abundant]V
+c.2.5.4.02,An adab to Bau for Išme-Dagan (Išme-Dagan B),,8,šag₄-la₂[mercy]N tuku[to-have]V arhuš[compassion]N sud[to-be-distant]V kalam[the-Land]N nin[lady]N niŋ₂-gen₆-na[constancy]N
+c.2.5.4.02,An adab to Bau for Išme-Dagan (Išme-Dagan B),,9,Enlil[1]DN lugal[king]N kur[(mountain)-land]N
+c.2.5.4.02,An adab to Bau for Išme-Dagan (Išme-Dagan B),,10,Nunamnir[1]DN en[lord]N nam[destiny]N tar[to-cut]V
+c.2.5.4.02,An adab to Bau for Išme-Dagan (Išme-Dagan B),,11,eš₃[shrine]N Nibru[1]SN Dur-an-ki[1]TN gal[to-be-big]V dug₄[to-say]V
+c.2.5.4.02,An adab to Bau for Išme-Dagan (Išme-Dagan B),,12,E-kur[1]TN za-gin₃[lapis-lazuli]N mah[to-be-majestic]V
+c.2.5.4.02,An adab to Bau for Išme-Dagan (Išme-Dagan B),,13,sa-par₄[type-of-net]N kalag[to-be-strong]V Nunamnir[1]DN
+c.2.5.4.02,An adab to Bau for Išme-Dagan (Išme-Dagan B),,14,an-gub-ba[guardian-deity]N E-kur[1]TN šukur₂[ration]N šum₂[to-give]V ŋeštin[grape-(wine)]N za[you-(sg.)]PD
+c.2.5.4.02,An adab to Bau for Išme-Dagan (Išme-Dagan B),,15,Enlil[1]DN e₂-gi₄-a[daughter-in-law]N mah[to-be-majestic]V a[water]N gub[to-stand]V
+c.2.5.4.02,An adab to Bau for Išme-Dagan (Išme-Dagan B),,16,sun₅[to-be-humble]V šita[supplication]N ki[place]N la₂[to-hang]V
+c.2.5.4.02,An adab to Bau for Išme-Dagan (Išme-Dagan B),,17,Nunamnir[1]DN nun[prince]N kur[(mountain)-land]N
+c.2.5.4.02,An adab to Bau for Išme-Dagan (Išme-Dagan B),,18,nam-saŋ-tun₃[land-registrar's-office]N mah[to-be-majestic]V an[heaven]N ki[place]N šu[hand]N kur₉[to-enter]V
+c.2.5.4.02,An adab to Bau for Išme-Dagan (Išme-Dagan B),,19,il₂[to-raise]V nam-nin[ladyship]N eš₃[shrine]N numun[seed]N i[to-bring-out]V za[you-(sg.)]PD šum₂[to-give]V
+c.2.5.4.02,An adab to Bau for Išme-Dagan (Išme-Dagan B),,20,a-a[father]N ugu[to-give-birth]V An[1]DN diŋir[deity]N mah[to-be-majestic]V tug₂[garment]N tug₂-ba₁₃[type-of-garment]N tug₂[garment]N mur₁₀[to-dress]V
+c.2.5.4.02,An adab to Bau for Išme-Dagan (Išme-Dagan B),,21,ur-saŋ[hero]N Enlil[1]DN Ninŋirsu[1]DN nitalam[spouse]N šum₂[to-give]V
+c.2.5.4.02,An adab to Bau for Išme-Dagan (Išme-Dagan B),,22,E-ninnu[1]TN Iri-kug[1]SN eš₃[shrine]N numun[seed]N i[to-bring-out]V saŋ[head]N rig₇[to-bestow]V
+c.2.5.4.02,An adab to Bau for Išme-Dagan (Išme-Dagan B),,23,Lagaš[1]SN Ŋirsu[1]SN dim[(cosmic)-post]N gal[to-be-big]V kalam[the-Land]N
+c.2.5.4.02,An adab to Bau for Išme-Dagan (Išme-Dagan B),,24,E-ŋalga-sud[1]TN ki-tuš[dwelling-place]N ki[place]N aŋ₂[to-measure]V
+c.2.5.4.02,An adab to Bau for Išme-Dagan (Išme-Dagan B),,25,Tar-sirsir[1]TN e₂[house(hold)]N nam-nin[ladyship]N barag[dais]N mah[to-be-majestic]V ri[to-direct]V
+c.2.5.4.02,An adab to Bau for Išme-Dagan (Išme-Dagan B),,26,ki-tuš[dwelling-place]N mah[to-be-majestic]V diŋir[deity]N ki[place]N Lagaš[1]SN gam[to-bow-down]V
+c.2.5.4.02,An adab to Bau for Išme-Dagan (Išme-Dagan B),,27,nin[lady]N zag[side]N dib[to-pass]V me[essence]N šu[hand]N te[to-approach]V
+c.2.5.4.02,An adab to Bau for Išme-Dagan (Išme-Dagan B),,28,dumu[child]N An[1]DN nin[lady]N gal[to-be-big]V niŋ₂-nam[anything]PD zu[to-know]V
+c.2.5.4.02,An adab to Bau for Išme-Dagan (Išme-Dagan B),,29,šul[young-man]N me-dim₂[articulation]N sag₉[to-be-good]V nun[prince]N Išme-Dagan[1]RN dumu[child]N Enlil[1]DN
+c.2.5.4.02,An adab to Bau for Išme-Dagan (Išme-Dagan B),,30,ki-sikil[young-woman]N ama[mother]N Bau[1]DN igi[eye]N zid[right]AJ bar[to-set-aside]V nam[destiny]N dug₃[to-be-good]V tar[to-cut]V ud[day(light)]N til₃[to-live]V e₃[to-go-out-or-in]V
+c.2.5.4.02,An adab to Bau for Išme-Dagan (Išme-Dagan B),,31,sa-gid₂-da[composition-division]N
+c.2.5.4.02,An adab to Bau for Išme-Dagan (Išme-Dagan B),,32,ama[mother]N Bau[1]DN nun[prince]N Išme-Dagan[1]RN dumu[child]N Enlil[1]DN nam-til₃[life]N ud[day(light)]N sud[to-be-distant]V šum₂[to-give]V
+c.2.5.4.02,An adab to Bau for Išme-Dagan (Išme-Dagan B),,33,ŋiš-gi₄-ŋal₂[composition-division]N sa-gid₂-da[composition-division]N
+c.2.5.4.02,An adab to Bau for Išme-Dagan (Išme-Dagan B),,34,E-namtila[1]TN e₂[house(hold)]N Enlil[1]DN
+c.2.5.4.02,An adab to Bau for Išme-Dagan (Išme-Dagan B),,35,sila₄[lamb]N babbar[white]AJ udu[sheep]N inim-ŋar[(oracular)-utterance]N sag₉[to-be-good]V gaba[chest]N tab[to-be-parallel]V
+c.2.5.4.02,An adab to Bau for Išme-Dagan (Išme-Dagan B),,36,nun[prince]N Išme-Dagan[1]RN za[you-(sg.)]PD kur₉[to-enter]V
+c.2.5.4.02,An adab to Bau for Išme-Dagan (Išme-Dagan B),,37,KI.LUGAL.GUB[royal-station]N nam-til₃[life]N gub[to-stand]V
+c.2.5.4.02,An adab to Bau for Išme-Dagan (Išme-Dagan B),,38,kur[(mountain)-land]N gal[to-be-big]V Enlil[1]DN ki[place]N ŋal₂[to-be-(located)]V
+c.2.5.4.02,An adab to Bau for Išme-Dagan (Išme-Dagan B),,39,a-a[father]N Enlil[1]DN u₃-mu-un[lord]N gal[to-be-big]V kur[(mountain)-land]N
+c.2.5.4.02,An adab to Bau for Išme-Dagan (Išme-Dagan B),,40,Išme-Dagan[1]RN na-aŋ₂[destiny]N tar[to-cut]V mu[name]N pad₃[to-find]V e-ne[he;-she]PD dug₄[to-say]V
+c.2.5.4.02,An adab to Bau for Išme-Dagan (Išme-Dagan B),,41,Enlil[1]DN lugal[king]N kur[(mountain)-land]N igi[eye]N nam-til₃[life]N saŋ-ki[forehead]N zalag[to-be-shining]V bar[to-set-aside]V
+c.2.5.4.02,An adab to Bau for Išme-Dagan (Išme-Dagan B),,42,Išme-Dagan[1]RN nam[destiny]N tar[to-cut]V
+c.2.5.4.02,An adab to Bau for Išme-Dagan (Išme-Dagan B),,43,gu-za[chair]N me[essence]N ur₄[to-collect]V aga[crown]N zid[right]AJ ud[day(light)]N sud[to-be-distant]V ŋidru[sceptre]N uŋ₃[people]N gen₆[to-be-firm]V us₂[to-be-adjacent]V 1[1]NU de₆[to-carry]V
+c.2.5.4.02,An adab to Bau for Išme-Dagan (Išme-Dagan B),,44,nun[prince]N Išme-Dagan[1]RN nam[destiny]N tar[to-cut]V
+c.2.5.4.02,An adab to Bau for Išme-Dagan (Išme-Dagan B),,45,Tigris[1]WN Euphrates[1]WN he₂-ŋal₂[plenty]N a-eštub[carp(-filled)-water]N de₆[to-carry]V gun₂[weight-measure-(load)]N gid₂[to-be-long]V
+c.2.5.4.02,An adab to Bau for Išme-Dagan (Išme-Dagan B),,46,gu₂[neck]N u₂-šim[greenery]N mu₂[to-grow]V asila[rejoicing]N la₂[to-hang]V
+c.2.5.4.02,An adab to Bau for Išme-Dagan (Išme-Dagan B),,47,pu₂-kiri₆[orchard]N lal₃[syrup]N ŋeštin[grape-(wine)]N ki[place]N us₂[to-be-adjacent]V
+c.2.5.4.02,An adab to Bau for Išme-Dagan (Išme-Dagan B),,48,a-gar₃[meadow]N zid[right]AJ še[barley]N gu-nu[flax]N mu₂[to-grow]V guru₇[(grain)-heap]N dub[to-heap-up]V
+c.2.5.4.02,An adab to Bau for Išme-Dagan (Išme-Dagan B),,49,tur₃[animal-stall]N du₃[to-erect]V amaš[sheepfold]N daŋal[to-be-wide]V
+c.2.5.4.02,An adab to Bau for Išme-Dagan (Išme-Dagan B),,50,nam-lugal[kingship]N mu[name]N mah[to-be-majestic]V
+c.2.5.4.02,An adab to Bau for Išme-Dagan (Išme-Dagan B),,51,nam-nun[princeliness]N saŋ[head]N an[heaven]N il₂[to-raise]V
+c.2.5.4.02,An adab to Bau for Išme-Dagan (Išme-Dagan B),,52,sig[to-be-low]V igi-nim[upper-land]N kur-zag[mountain-border]N til[to-complete]V gun₂[weight-measure-(load)]N il₂[to-raise]V
+c.2.5.4.02,An adab to Bau for Išme-Dagan (Išme-Dagan B),,53,kisal[courtyard]N mah[to-be-majestic]V nun[prince]N ud[day(light)]N dalla[to-be-bright]V e₃[to-go-out-or-in]V
+c.2.5.4.02,An adab to Bau for Išme-Dagan (Išme-Dagan B),,54,nidba[(food)-offering]N E-kur[1]TN za-gin₃[lapis-lazuli]N muš₃[face]N de₆[to-carry]V
+c.2.5.4.02,An adab to Bau for Išme-Dagan (Išme-Dagan B),,55,Enlil[1]DN nam[destiny]N tar[to-cut]V
+c.2.5.4.02,An adab to Bau for Išme-Dagan (Išme-Dagan B),,56,lugal[king]N E-kur[1]TN a₂[arm]N mah[to-be-majestic]V šum₂[to-give]V
+c.2.5.4.02,An adab to Bau for Išme-Dagan (Išme-Dagan B),,57,nir[authority]N ŋal₂[to-be-(located)]V inim[word]N Enlil[1]DN gaba-šu-ŋar[rival]N tuku[to-have]V
+c.2.5.4.02,An adab to Bau for Išme-Dagan (Išme-Dagan B),,58,ŋiri₃[foot]N il₂[to-raise]V gub[to-stand]V
+c.2.5.4.02,An adab to Bau for Išme-Dagan (Išme-Dagan B),,59,e₂-gal[palace]N mah[to-be-majestic]V ki-tuš[dwelling-place]N nam-lugal[kingship]N kur₉[to-enter]V
+c.2.5.4.02,An adab to Bau for Išme-Dagan (Išme-Dagan B),,60,barag[dais]N kug[shining]AJ za-gin₃[lapis-lazuli]N dur₂[rump]N ŋar[to-place]V e₂-gal[palace]N
+c.2.5.4.02,An adab to Bau for Išme-Dagan (Išme-Dagan B),,61,sa-ŋar-ra[composition-division]N
+c.2.5.4.02,An adab to Bau for Išme-Dagan (Išme-Dagan B),,62,munus[woman]N zid[right]AJ dumu[child]N An[1]DN Enlil[1]DN gu₃[voice]N de₆[to-carry]V barag[dais]N kug[shining]AJ za-gin₃[lapis-lazuli]N dug₄[to-say]V
+c.2.5.4.02,An adab to Bau for Išme-Dagan (Išme-Dagan B),,63,ki-sikil[young-woman]N ama[mother]N Bau[1]DN dumu[child]N An[1]DN Enlil[1]DN gu₃[voice]N de₆[to-carry]V barag[dais]N kug[shining]AJ za-gin₃[lapis-lazuli]N dug₄[to-say]V
+c.2.5.4.02,An adab to Bau for Išme-Dagan (Išme-Dagan B),,64,Išme-Dagan[1]RN dumu[child]N Enlil[1]DN nam-til₃[life]N ud[day(light)]N sud[to-be-distant]V saŋ[head]N rig₇[to-bestow]V
+c.2.5.4.02,An adab to Bau for Išme-Dagan (Išme-Dagan B),,65,u₁₈-ru[composition-division]N
+c.2.5.4.02,An adab to Bau for Išme-Dagan (Išme-Dagan B),,66,a-da-ab[type-of-drum-and-composition]N Bau[1]DN

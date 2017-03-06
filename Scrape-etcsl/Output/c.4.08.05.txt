@@ -1,12 +1,12 @@
 id_text,text_name,version,l_no,text
-c.4.08.05,The song of the lettuce: a balbale to Inana (Dumuzid-Inana E),,1,sux:lam[to-flourish]V sux:lam[to-flourish]V sux:hi-iz[lettuce]N sux:a[water]N sux:dug₄[to-say]V
-c.4.08.05,The song of the lettuce: a balbale to Inana (Dumuzid-Inana E),,2,sux:kiri₆[orchard]N sux:ŋi₆-edin[deep-shade]N sux:gu₂[neck]N sux:ŋar[to-place]V sux:sag₉[to-be-good]V sux:ama[mother]N
-c.4.08.05,The song of the lettuce: a balbale to Inana (Dumuzid-Inana E),,3,sux:še[barley]N sux:absin₃[furrow]N sux:hi-li[attractiveness]N sux:sag₉[to-be-good]V sux:hi-iz[lettuce]N sux:a[water]N sux:dug₄[to-say]V
-c.4.08.05,The song of the lettuce: a balbale to Inana (Dumuzid-Inana E),,4,sux:hašhur[apple-(tree)]N sux-x-emesal:aŋ₂[thing]N sux:saŋ[head]N sux:gurun[fruit]N sux:il₂[to-raise]V sux:hi-iz[lettuce]N sux:a[water]N sux:dug₄[to-say]V
-c.4.08.05,The song of the lettuce: a balbale to Inana (Dumuzid-Inana E),,5,sux:lu₂-lal₃[sweet-man]N sux:lu₂-lal₃[sweet-man]N sux-x-emesal:me[I]PD sux:ku₇-ku₇[to-be-sweet]V
-c.4.08.05,The song of the lettuce: a balbale to Inana (Dumuzid-Inana E),,6,sux:en[lord]N sux:lu₂-lal₃[sweet-man]N sux-x-emesal:dim₃-me-er[deity]N sux:sag₉[to-be-good]V sux:ama[mother]N
-c.4.08.05,The song of the lettuce: a balbale to Inana (Dumuzid-Inana E),,7,sux:šu[hand]N sux:lal₃[syrup]N sux-x-emesal:me-ri[foot]N sux:lal₃[syrup]N sux:ŋe₂₆[I]PD sux:ku₇-ku₇[to-be-sweet]V
-c.4.08.05,The song of the lettuce: a balbale to Inana (Dumuzid-Inana E),,8,sux:a₂-šu-ŋiri₃[limbs]N sux:lal₃[syrup]N sux:ku₇-ku₇[to-be-sweet]V sux:ŋe₂₆[I]PD sux:ku₇-ku₇[to-be-sweet]V
-c.4.08.05,The song of the lettuce: a balbale to Inana (Dumuzid-Inana E),,9,sux:en₃-dur[navel]N sux:šu-niŋin₂[total]N sux:tukum[soon?]AV sux:ku₇-ku₇[to-be-sweet]V sux:sag₉[to-be-good]V sux:ama[mother]N
-c.4.08.05,The song of the lettuce: a balbale to Inana (Dumuzid-Inana E),,10,sux:haš₂[thigh]N sux:sag₉[to-be-good]V sux:a₂[arm]N sux:buluŋ₃[to-flourish]V sux:e-ru[meaning-unknown]N sux:hi-iz[lettuce]N sux:a[water]N sux:dug₄[to-say]V
-c.4.08.05,The song of the lettuce: a balbale to Inana (Dumuzid-Inana E),,11,sux:bal-bal-e[type-of-composition]N sux:Inana[1]DN
+c.4.08.05,The song of the lettuce: a balbale to Inana (Dumuzid-Inana E),,1,lam[to-flourish]V lam[to-flourish]V hi-iz[lettuce]N a[water]N dug₄[to-say]V
+c.4.08.05,The song of the lettuce: a balbale to Inana (Dumuzid-Inana E),,2,kiri₆[orchard]N ŋi₆-edin[deep-shade]N gu₂[neck]N ŋar[to-place]V sag₉[to-be-good]V ama[mother]N
+c.4.08.05,The song of the lettuce: a balbale to Inana (Dumuzid-Inana E),,3,še[barley]N absin₃[furrow]N hi-li[attractiveness]N sag₉[to-be-good]V hi-iz[lettuce]N a[water]N dug₄[to-say]V
+c.4.08.05,The song of the lettuce: a balbale to Inana (Dumuzid-Inana E),,4,hašhur[apple-(tree)]N aŋ₂[thing]N saŋ[head]N gurun[fruit]N il₂[to-raise]V hi-iz[lettuce]N a[water]N dug₄[to-say]V
+c.4.08.05,The song of the lettuce: a balbale to Inana (Dumuzid-Inana E),,5,lu₂-lal₃[sweet-man]N lu₂-lal₃[sweet-man]N me[I]PD ku₇-ku₇[to-be-sweet]V
+c.4.08.05,The song of the lettuce: a balbale to Inana (Dumuzid-Inana E),,6,en[lord]N lu₂-lal₃[sweet-man]N dim₃-me-er[deity]N sag₉[to-be-good]V ama[mother]N
+c.4.08.05,The song of the lettuce: a balbale to Inana (Dumuzid-Inana E),,7,šu[hand]N lal₃[syrup]N me-ri[foot]N lal₃[syrup]N ŋe₂₆[I]PD ku₇-ku₇[to-be-sweet]V
+c.4.08.05,The song of the lettuce: a balbale to Inana (Dumuzid-Inana E),,8,a₂-šu-ŋiri₃[limbs]N lal₃[syrup]N ku₇-ku₇[to-be-sweet]V ŋe₂₆[I]PD ku₇-ku₇[to-be-sweet]V
+c.4.08.05,The song of the lettuce: a balbale to Inana (Dumuzid-Inana E),,9,en₃-dur[navel]N šu-niŋin₂[total]N tukum[soon?]AV ku₇-ku₇[to-be-sweet]V sag₉[to-be-good]V ama[mother]N
+c.4.08.05,The song of the lettuce: a balbale to Inana (Dumuzid-Inana E),,10,haš₂[thigh]N sag₉[to-be-good]V a₂[arm]N buluŋ₃[to-flourish]V e-ru[meaning-unknown]N hi-iz[lettuce]N a[water]N dug₄[to-say]V
+c.4.08.05,The song of the lettuce: a balbale to Inana (Dumuzid-Inana E),,11,bal-bal-e[type-of-composition]N Inana[1]DN

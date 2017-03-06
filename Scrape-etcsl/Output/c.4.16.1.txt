@@ -1,67 +1,67 @@
 id_text,text_name,version,l_no,text
-c.4.16.1,A hymn to Nisaba (Nisaba A),Old Babylonian,1,sux:nin[lady]N sux:mul-an[heavenly-star]N sux:gun₃[to-be-multicoloured]V sux:dub[tablet]N sux:za-gin₃[lapis-lazuli]N sux:šu[hand]N sux:du₈[to-spread]V
-c.4.16.1,A hymn to Nisaba (Nisaba A),Old Babylonian,2,sux:Nisaba[1]DN sux:immal₂[wild-cow]N sux:gal[to-be-big]V sux:Uraš[1]DN sux:tud[to-give-birth]V
-c.4.16.1,A hymn to Nisaba (Nisaba A),Old Babylonian,3,sux:šeg₉-bar[fallow-deer?]N sux:naŋa[potash]N sux:kug[shining]AJ sux:ga[milk]N sux:zid[right]AJ sux:gu₇[to-eat]V
-c.4.16.1,A hymn to Nisaba (Nisaba A),Old Babylonian,4,sux:gi[reed]N sux:7[7]NU sux:ka[mouth]N sux:ba[to-allot]V
-c.4.16.1,A hymn to Nisaba (Nisaba A),Old Babylonian,5,sux:me[essence]N sux:gal[to-be-big]V sux:50[50]NU sux:šu[hand]N sux:du₇[to-be-perfect]V
-c.4.16.1,A hymn to Nisaba (Nisaba A),Old Babylonian,6,sux:nin[lady]N sux:a₂-nun-ŋal₂[strong]AJ sux:E-kur[1]TN
-c.4.16.1,A hymn to Nisaba (Nisaba A),Old Babylonian,7,sux:ušumgal[type-of-serpent]N sux:ezen[festival]N sux:dalla[to-be-bright]V sux:e₃[to-go-out-or-in]V
-c.4.16.1,A hymn to Nisaba (Nisaba A),Old Babylonian,8,sux:Aruru[1]DN sux:kalam[the-Land]N sux:im[clay]N sux:dug₄[to-say]V
-c.4.16.1,A hymn to Nisaba (Nisaba A),Old Babylonian,9,sux:ki[place]N sux:si[to-fill]V sux:ud[day(light)]N sux:šag₄[heart]N sux:kuš₂[to-be-tired]V
-c.4.16.1,A hymn to Nisaba (Nisaba A),Old Babylonian,10,sux:kur[(mountain)-land]N sux:i₃-he-nun-na[type-of-oil]N sux:mi₂[(loving)-care]N sux:zid[right]AJ sux:dug₄[to-say]V
-c.4.16.1,A hymn to Nisaba (Nisaba A),Old Babylonian,11,sux:ŋeštug₂[ear]N sux:ŋar[to-place]V sux:kur[(mountain)-land]N sux:gal[to-be-big]V sux:tud[to-give-birth]V
-c.4.16.1,A hymn to Nisaba (Nisaba A),Old Babylonian,12,sux:munus[woman]N sux:zid[right]AJ sux:dub-sar[scribe]N sux:mah[to-be-majestic]V sux:An[1]DN sux:saŋ-tun₃[land-registrar]N sux:Enlil[1]DN
-c.4.16.1,A hymn to Nisaba (Nisaba A),Old Babylonian,13,sux:gal-zu[skilful]AJ sux:igi-ŋal₂[wise]AJ sux:diŋir[deity]N
-c.4.16.1,A hymn to Nisaba (Nisaba A),Old Babylonian,14,sux:absin₃[furrow]N sux:še[barley]N sux:gu[(flax)-thread]N sux:mu₂[to-grow]V
-c.4.16.1,A hymn to Nisaba (Nisaba A),Old Babylonian,15,sux:Ezina[1]DN sux:nam-en[high-(priestly)-office]N sux:u₆[wonder]N sux:dug₄[to-say]V
-c.4.16.1,A hymn to Nisaba (Nisaba A),Old Babylonian,16,sux:barag[dais]N sux:gal[to-be-big]V sux:7[7]NU sux:mi₂[(loving)-care]N sux:zid[right]AJ sux:dug₄[to-say]V
-c.4.16.1,A hymn to Nisaba (Nisaba A),Old Babylonian,17,sux:gu[(flax)-thread]N sux:zig₃[to-rise]V sux:še[barley]N sux:zig₃[to-rise]V
-c.4.16.1,A hymn to Nisaba (Nisaba A),Old Babylonian,18,sux:buru₁₄[harvest-(time)]N sux:ezen[festival]N sux:gal[to-be-big]V sux:Enlil[1]DN
-c.4.16.1,A hymn to Nisaba (Nisaba A),Old Babylonian,19,sux:nam-nun[princeliness]N sux:gal[to-be-big]V sux:su[flesh]N sux:su-ub[to-rub]V
-c.4.16.1,A hymn to Nisaba (Nisaba A),Old Babylonian,20,sux:tug₂-ba₁₃[type-of-garment]N sux:kug[shining]AJ sux:šag₄[heart]N sux:mur₁₀[to-dress]V
-c.4.16.1,A hymn to Nisaba (Nisaba A),Old Babylonian,21,sux:nidba[(food)-offering]N sux:ŋal₂[to-be-(located)]V sux:ŋar[to-place]V
-c.4.16.1,A hymn to Nisaba (Nisaba A),Old Babylonian,22,sux:nesaŋ[(first-fruit)-offering]N sux:gal[to-be-big]V sux:kurun[type-of-beer]N sux:de₂[to-pour]V
-c.4.16.1,A hymn to Nisaba (Nisaba A),Old Babylonian,23,sux:diŋir[deity]N sux:nam-nir[authority]N sux:Enlil[1]DN sux:huŋ[to-hire]V
-c.4.16.1,A hymn to Nisaba (Nisaba A),Old Babylonian,24,sux:Kusu[1]DN sux:arhuš[compassion]N sux:sud[to-be-distant]V sux:Ezina[1]DN sux:huŋ[to-hire]V
-c.4.16.1,A hymn to Nisaba (Nisaba A),Old Babylonian,25,sux:en[high-priest(ess)]N sux:gal[to-be-big]V sux:huŋ[to-hire]V sux:ezen[festival]N sux:huŋ[to-hire]V
-c.4.16.1,A hymn to Nisaba (Nisaba A),Old Babylonian,26,sux:en[high-priest(ess)]N sux:gal[to-be-big]V sux:kalam[the-Land]N sux:huŋ[to-hire]V
-c.4.16.1,A hymn to Nisaba (Nisaba A),Old Babylonian,27,sux:ki-sikil[young-woman]N sux:Nisaba[1]DN sux:šudu₃[prayer]N sux:gub[to-stand]V
-c.4.16.1,A hymn to Nisaba (Nisaba A),Old Babylonian,28,sux:nidba[(food)-offering]N sux:sikil[to-be-pure]V sux:si[horn]N sux:sa₂[to-equal]V
-c.4.16.1,A hymn to Nisaba (Nisaba A),Old Babylonian,29,sux:E-ŊEŠTUG.NISABA[1]TN sux:ŋal₂[to-open]V sux:taka₄[to-leave-behind]V
-c.4.16.1,A hymn to Nisaba (Nisaba A),Old Babylonian,30,sux:dub[tablet]N sux:za-gin₃[lapis-lazuli]N sux:dub₃[knee]N sux:ŋar[to-place]V
-c.4.16.1,A hymn to Nisaba (Nisaba A),Old Babylonian,31,sux:dub[tablet]N sux:mul-an[heavenly-star]N sux:kug[shining]AJ sux:šag₄[heart]N sux:kuš₂[to-be-tired]V
-c.4.16.1,A hymn to Nisaba (Nisaba A),Old Babylonian,32,sux:Aratta[1]SN sux:E-zagin[1]TN sux:šu[hand]N sux:ŋar[to-place]V
-c.4.16.1,A hymn to Nisaba (Nisaba A),Old Babylonian,33,sux:Ereš[1]SN sux:he-nun[abundance]N sux:du₃[to-erect]V
-c.4.16.1,A hymn to Nisaba (Nisaba A),Old Babylonian,34,sux:šeg₁₂[brick(work)]N sux:naŋa[potash]N sux:di₄-di₄[to-be-small]V sux:ki[place]N sux:ŋar[to-place]V
-c.4.16.1,A hymn to Nisaba (Nisaba A),Old Babylonian,35,sux:ŋeštug₂[ear]N sux:nam-galam[skilfulness]N sux:saŋ[head]N sux:rig₇[to-bestow]V
-c.4.16.1,A hymn to Nisaba (Nisaba A),Old Babylonian,36,sux:Abzu[1]TN sux:men[diadem]N sux:gal[to-be-big]V sux:Eridug[1]SN sux:eš₃[shrine]N sux:hal[to-divide-out]V
-c.4.16.1,A hymn to Nisaba (Nisaba A),Old Babylonian,37,sux:nun[prince]N sux:nun[prince]N sux:hal[to-divide-out]V
-c.4.16.1,A hymn to Nisaba (Nisaba A),Old Babylonian,38,sux:engar[farmer]N sux:gal[to-be-big]V sux:nam-nun[princeliness]N sux:e₂[house(hold)]N sux:ni₂[fear(someness)]N sux:guru₃[to-bear]V sux:nagar[carpenter]N sux:Eridug[1]SN
-c.4.16.1,A hymn to Nisaba (Nisaba A),Old Babylonian,39,sux:lugal[king]N sux:luh[to-clean]V sux:en[lord]N sux:muš₃[flat-space]N sux:en[high-priest(ess)]N sux:gal[to-be-big]V sux:Enki[1]DN
-c.4.16.1,A hymn to Nisaba (Nisaba A),Old Babylonian,40,sux:E-engura[1]TN sux:ki-tuš[dwelling-place]N
-c.4.16.1,A hymn to Nisaba (Nisaba A),Old Babylonian,41,sux:Abzu[1]TN sux:Eridug[1]SN sux:du₃[to-erect]V
-c.4.16.1,A hymn to Nisaba (Nisaba A),Old Babylonian,42,sux:Hal-an-kug[1]TN sux:šag₄[heart]N sux:kuš₂[to-be-tired]V
-c.4.16.1,A hymn to Nisaba (Nisaba A),Old Babylonian,43,sux:e₂[house(hold)]N sux:taškarin[box-tree]N sux:tun₃[type-of-axe]N sux:bar[to-set-aside]V
-c.4.16.1,A hymn to Nisaba (Nisaba A),Old Babylonian,44,sux:abgal[sage]N sux:siki[hair]N sux:bar[outside]N sux:du₈[to-spread]V
-c.4.16.1,A hymn to Nisaba (Nisaba A),Old Babylonian,45,sux:e₂[house(hold)]N sux:ŋeštug₂[ear]N sux:ŋal₂[to-open]V sux:taka₄[to-leave-behind]V
-c.4.16.1,A hymn to Nisaba (Nisaba A),Old Babylonian,46,sux:ig[door]N sux:ŋeštug₂[ear]N sux:sila[street]N sux:gub[to-stand]V
-c.4.16.1,A hymn to Nisaba (Nisaba A),Old Babylonian,47,sux:unu₂[(dining)-hall]N sux:gal[to-be-big]V sux:erin[cedar]N sux:til[to-complete]V
-c.4.16.1,A hymn to Nisaba (Nisaba A),Old Babylonian,48,sux:šita₂[type-of-weapon]N sux:ŋišnimbar[date-palm]N sux:šu[hand]N sux:du₈[to-spread]V
-c.4.16.1,A hymn to Nisaba (Nisaba A),Old Babylonian,49,sux:šita₂[type-of-weapon]N sux:tug₂-ba₁₃[type-of-garment]N sux:sag₃[to-beat]V
-c.4.16.1,A hymn to Nisaba (Nisaba A),Old Babylonian,50,sux:Nisaba[1]DN sux:dug₄[to-say]V sux:gal[to-be-big]V sux:7[7]NU sux:dug₄[to-say]V
-c.4.16.1,A hymn to Nisaba (Nisaba A),Old Babylonian,51,sux:Nisaba[1]DN sux:munus[woman]N sux:zid[right]AJ sux:munus[woman]N sux:sag₉[to-be-good]V sux:munus[woman]N sux:kur[(mountain)-land]N sux:tud[to-give-birth]V
-c.4.16.1,A hymn to Nisaba (Nisaba A),Old Babylonian,52,sux:Nisaba[1]DN sux:tur₃[animal-stall]N sux:i₃[fatty-substance]N sux:me[to-be]V sux:amaš[sheepfold]N sux:gara₂[cream]N sux:me[to-be]V
-c.4.16.1,A hymn to Nisaba (Nisaba A),Old Babylonian,53,sux:e₂[house(hold)]N sux:niŋ₂-gur₁₁[possessions]N sux:kišib-ŋal₂[seal-bearer]N sux:me[to-be]V
-c.4.16.1,A hymn to Nisaba (Nisaba A),Old Babylonian,54,sux:e₂-gal[palace]N sux:aŋrig[housekeeper]N sux:zid[right]AJ sux:me[to-be]V
-c.4.16.1,A hymn to Nisaba (Nisaba A),Old Babylonian,55,sux:guru₇-du₆[type-of-grain-heap]N sux:guru₇-maš[type-of-grain-heap]N sux:guru₇[(grain)-heap]N sux:gu₂[neck]N sux:gur[to-turn]V sux:me[to-be]V
-c.4.16.1,A hymn to Nisaba (Nisaba A),Old Babylonian,56,sux:nun[prince]N sux:Nisaba[1]DN sux:mi₂[(loving)-care]N sux:dug₄[to-say]V
-c.4.16.1,A hymn to Nisaba (Nisaba A),Old Babylonian,57,sux:a-a[father]N sux:Enki[1]DN sux:za₃-mi₂[praise]N sux:dug₃[to-be-good]V
-c.4.16.1,A hymn to Nisaba (Nisaba A),Ur III,1,sux:nin[lady]N sux:mul-an[heavenly-star]N sux:gun₃[to-be-multicoloured]V
-c.4.16.1,A hymn to Nisaba (Nisaba A),Ur III,2,sux:dub[tablet]N sux:za-gin₃[lapis-lazuli]N sux:šu[hand]N sux:du₈[to-spread]V
-c.4.16.1,A hymn to Nisaba (Nisaba A),Ur III,3,sux:Nisaba[1]DN sux:gal[to-be-big]V sux:immal₂[wild-cow]N sux:Uraš[1]DN sux:tud[to-give-birth]V
-c.4.16.1,A hymn to Nisaba (Nisaba A),Ur III,4,sux:naŋa[potash]N sux:kug[shining]AJ sux:ga[milk]N sux:zid[right]AJ sux:gu₇[to-eat]V
-c.4.16.1,A hymn to Nisaba (Nisaba A),Ur III,5,sux:gi[reed]N sux:7[7]NU sux:ka[mouth]N sux:ba[to-allot]V
-c.4.16.1,A hymn to Nisaba (Nisaba A),Ur III,6,sux:me[essence]N sux:gal[to-be-big]V sux:50[50]NU sux:šu[hand]N sux:du₇[to-be-perfect]V
-c.4.16.1,A hymn to Nisaba (Nisaba A),Ur III,7,sux:nin[lady]N sux:a₂-nun-ŋal₂[strong]AJ sux:E-kur[1]TN
-c.4.16.1,A hymn to Nisaba (Nisaba A),Ur III,8,sux:Aruru[1]DN sux:kalam[the-Land]N
-c.4.16.1,A hymn to Nisaba (Nisaba A),Ur III,9,sux:im[clay]N sux:dug₄[to-say]V
+c.4.16.1,A hymn to Nisaba (Nisaba A),Old Babylonian,1,nin[lady]N mul-an[heavenly-star]N gun₃[to-be-multicoloured]V dub[tablet]N za-gin₃[lapis-lazuli]N šu[hand]N du₈[to-spread]V
+c.4.16.1,A hymn to Nisaba (Nisaba A),Old Babylonian,2,Nisaba[1]DN immal₂[wild-cow]N gal[to-be-big]V Uraš[1]DN tud[to-give-birth]V
+c.4.16.1,A hymn to Nisaba (Nisaba A),Old Babylonian,3,šeg₉-bar[fallow-deer?]N naŋa[potash]N kug[shining]AJ ga[milk]N zid[right]AJ gu₇[to-eat]V
+c.4.16.1,A hymn to Nisaba (Nisaba A),Old Babylonian,4,gi[reed]N 7[7]NU ka[mouth]N ba[to-allot]V
+c.4.16.1,A hymn to Nisaba (Nisaba A),Old Babylonian,5,me[essence]N gal[to-be-big]V 50[50]NU šu[hand]N du₇[to-be-perfect]V
+c.4.16.1,A hymn to Nisaba (Nisaba A),Old Babylonian,6,nin[lady]N a₂-nun-ŋal₂[strong]AJ E-kur[1]TN
+c.4.16.1,A hymn to Nisaba (Nisaba A),Old Babylonian,7,ušumgal[type-of-serpent]N ezen[festival]N dalla[to-be-bright]V e₃[to-go-out-or-in]V
+c.4.16.1,A hymn to Nisaba (Nisaba A),Old Babylonian,8,Aruru[1]DN kalam[the-Land]N im[clay]N dug₄[to-say]V
+c.4.16.1,A hymn to Nisaba (Nisaba A),Old Babylonian,9,ki[place]N si[to-fill]V ud[day(light)]N šag₄[heart]N kuš₂[to-be-tired]V
+c.4.16.1,A hymn to Nisaba (Nisaba A),Old Babylonian,10,kur[(mountain)-land]N i₃-he-nun-na[type-of-oil]N mi₂[(loving)-care]N zid[right]AJ dug₄[to-say]V
+c.4.16.1,A hymn to Nisaba (Nisaba A),Old Babylonian,11,ŋeštug₂[ear]N ŋar[to-place]V kur[(mountain)-land]N gal[to-be-big]V tud[to-give-birth]V
+c.4.16.1,A hymn to Nisaba (Nisaba A),Old Babylonian,12,munus[woman]N zid[right]AJ dub-sar[scribe]N mah[to-be-majestic]V An[1]DN saŋ-tun₃[land-registrar]N Enlil[1]DN
+c.4.16.1,A hymn to Nisaba (Nisaba A),Old Babylonian,13,gal-zu[skilful]AJ igi-ŋal₂[wise]AJ diŋir[deity]N
+c.4.16.1,A hymn to Nisaba (Nisaba A),Old Babylonian,14,absin₃[furrow]N še[barley]N gu[(flax)-thread]N mu₂[to-grow]V
+c.4.16.1,A hymn to Nisaba (Nisaba A),Old Babylonian,15,Ezina[1]DN nam-en[high-(priestly)-office]N u₆[wonder]N dug₄[to-say]V
+c.4.16.1,A hymn to Nisaba (Nisaba A),Old Babylonian,16,barag[dais]N gal[to-be-big]V 7[7]NU mi₂[(loving)-care]N zid[right]AJ dug₄[to-say]V
+c.4.16.1,A hymn to Nisaba (Nisaba A),Old Babylonian,17,gu[(flax)-thread]N zig₃[to-rise]V še[barley]N zig₃[to-rise]V
+c.4.16.1,A hymn to Nisaba (Nisaba A),Old Babylonian,18,buru₁₄[harvest-(time)]N ezen[festival]N gal[to-be-big]V Enlil[1]DN
+c.4.16.1,A hymn to Nisaba (Nisaba A),Old Babylonian,19,nam-nun[princeliness]N gal[to-be-big]V su[flesh]N su-ub[to-rub]V
+c.4.16.1,A hymn to Nisaba (Nisaba A),Old Babylonian,20,tug₂-ba₁₃[type-of-garment]N kug[shining]AJ šag₄[heart]N mur₁₀[to-dress]V
+c.4.16.1,A hymn to Nisaba (Nisaba A),Old Babylonian,21,nidba[(food)-offering]N ŋal₂[to-be-(located)]V ŋar[to-place]V
+c.4.16.1,A hymn to Nisaba (Nisaba A),Old Babylonian,22,nesaŋ[(first-fruit)-offering]N gal[to-be-big]V kurun[type-of-beer]N de₂[to-pour]V
+c.4.16.1,A hymn to Nisaba (Nisaba A),Old Babylonian,23,diŋir[deity]N nam-nir[authority]N Enlil[1]DN huŋ[to-hire]V
+c.4.16.1,A hymn to Nisaba (Nisaba A),Old Babylonian,24,Kusu[1]DN arhuš[compassion]N sud[to-be-distant]V Ezina[1]DN huŋ[to-hire]V
+c.4.16.1,A hymn to Nisaba (Nisaba A),Old Babylonian,25,en[high-priest(ess)]N gal[to-be-big]V huŋ[to-hire]V ezen[festival]N huŋ[to-hire]V
+c.4.16.1,A hymn to Nisaba (Nisaba A),Old Babylonian,26,en[high-priest(ess)]N gal[to-be-big]V kalam[the-Land]N huŋ[to-hire]V
+c.4.16.1,A hymn to Nisaba (Nisaba A),Old Babylonian,27,ki-sikil[young-woman]N Nisaba[1]DN šudu₃[prayer]N gub[to-stand]V
+c.4.16.1,A hymn to Nisaba (Nisaba A),Old Babylonian,28,nidba[(food)-offering]N sikil[to-be-pure]V si[horn]N sa₂[to-equal]V
+c.4.16.1,A hymn to Nisaba (Nisaba A),Old Babylonian,29,E-ŊEŠTUG.NISABA[1]TN ŋal₂[to-open]V taka₄[to-leave-behind]V
+c.4.16.1,A hymn to Nisaba (Nisaba A),Old Babylonian,30,dub[tablet]N za-gin₃[lapis-lazuli]N dub₃[knee]N ŋar[to-place]V
+c.4.16.1,A hymn to Nisaba (Nisaba A),Old Babylonian,31,dub[tablet]N mul-an[heavenly-star]N kug[shining]AJ šag₄[heart]N kuš₂[to-be-tired]V
+c.4.16.1,A hymn to Nisaba (Nisaba A),Old Babylonian,32,Aratta[1]SN E-zagin[1]TN šu[hand]N ŋar[to-place]V
+c.4.16.1,A hymn to Nisaba (Nisaba A),Old Babylonian,33,Ereš[1]SN he-nun[abundance]N du₃[to-erect]V
+c.4.16.1,A hymn to Nisaba (Nisaba A),Old Babylonian,34,šeg₁₂[brick(work)]N naŋa[potash]N di₄-di₄[to-be-small]V ki[place]N ŋar[to-place]V
+c.4.16.1,A hymn to Nisaba (Nisaba A),Old Babylonian,35,ŋeštug₂[ear]N nam-galam[skilfulness]N saŋ[head]N rig₇[to-bestow]V
+c.4.16.1,A hymn to Nisaba (Nisaba A),Old Babylonian,36,Abzu[1]TN men[diadem]N gal[to-be-big]V Eridug[1]SN eš₃[shrine]N hal[to-divide-out]V
+c.4.16.1,A hymn to Nisaba (Nisaba A),Old Babylonian,37,nun[prince]N nun[prince]N hal[to-divide-out]V
+c.4.16.1,A hymn to Nisaba (Nisaba A),Old Babylonian,38,engar[farmer]N gal[to-be-big]V nam-nun[princeliness]N e₂[house(hold)]N ni₂[fear(someness)]N guru₃[to-bear]V nagar[carpenter]N Eridug[1]SN
+c.4.16.1,A hymn to Nisaba (Nisaba A),Old Babylonian,39,lugal[king]N luh[to-clean]V en[lord]N muš₃[flat-space]N en[high-priest(ess)]N gal[to-be-big]V Enki[1]DN
+c.4.16.1,A hymn to Nisaba (Nisaba A),Old Babylonian,40,E-engura[1]TN ki-tuš[dwelling-place]N
+c.4.16.1,A hymn to Nisaba (Nisaba A),Old Babylonian,41,Abzu[1]TN Eridug[1]SN du₃[to-erect]V
+c.4.16.1,A hymn to Nisaba (Nisaba A),Old Babylonian,42,Hal-an-kug[1]TN šag₄[heart]N kuš₂[to-be-tired]V
+c.4.16.1,A hymn to Nisaba (Nisaba A),Old Babylonian,43,e₂[house(hold)]N taškarin[box-tree]N tun₃[type-of-axe]N bar[to-set-aside]V
+c.4.16.1,A hymn to Nisaba (Nisaba A),Old Babylonian,44,abgal[sage]N siki[hair]N bar[outside]N du₈[to-spread]V
+c.4.16.1,A hymn to Nisaba (Nisaba A),Old Babylonian,45,e₂[house(hold)]N ŋeštug₂[ear]N ŋal₂[to-open]V taka₄[to-leave-behind]V
+c.4.16.1,A hymn to Nisaba (Nisaba A),Old Babylonian,46,ig[door]N ŋeštug₂[ear]N sila[street]N gub[to-stand]V
+c.4.16.1,A hymn to Nisaba (Nisaba A),Old Babylonian,47,unu₂[(dining)-hall]N gal[to-be-big]V erin[cedar]N til[to-complete]V
+c.4.16.1,A hymn to Nisaba (Nisaba A),Old Babylonian,48,šita₂[type-of-weapon]N ŋišnimbar[date-palm]N šu[hand]N du₈[to-spread]V
+c.4.16.1,A hymn to Nisaba (Nisaba A),Old Babylonian,49,šita₂[type-of-weapon]N tug₂-ba₁₃[type-of-garment]N sag₃[to-beat]V
+c.4.16.1,A hymn to Nisaba (Nisaba A),Old Babylonian,50,Nisaba[1]DN dug₄[to-say]V gal[to-be-big]V 7[7]NU dug₄[to-say]V
+c.4.16.1,A hymn to Nisaba (Nisaba A),Old Babylonian,51,Nisaba[1]DN munus[woman]N zid[right]AJ munus[woman]N sag₉[to-be-good]V munus[woman]N kur[(mountain)-land]N tud[to-give-birth]V
+c.4.16.1,A hymn to Nisaba (Nisaba A),Old Babylonian,52,Nisaba[1]DN tur₃[animal-stall]N i₃[fatty-substance]N me[to-be]V amaš[sheepfold]N gara₂[cream]N me[to-be]V
+c.4.16.1,A hymn to Nisaba (Nisaba A),Old Babylonian,53,e₂[house(hold)]N niŋ₂-gur₁₁[possessions]N kišib-ŋal₂[seal-bearer]N me[to-be]V
+c.4.16.1,A hymn to Nisaba (Nisaba A),Old Babylonian,54,e₂-gal[palace]N aŋrig[housekeeper]N zid[right]AJ me[to-be]V
+c.4.16.1,A hymn to Nisaba (Nisaba A),Old Babylonian,55,guru₇-du₆[type-of-grain-heap]N guru₇-maš[type-of-grain-heap]N guru₇[(grain)-heap]N gu₂[neck]N gur[to-turn]V me[to-be]V
+c.4.16.1,A hymn to Nisaba (Nisaba A),Old Babylonian,56,nun[prince]N Nisaba[1]DN mi₂[(loving)-care]N dug₄[to-say]V
+c.4.16.1,A hymn to Nisaba (Nisaba A),Old Babylonian,57,a-a[father]N Enki[1]DN za₃-mi₂[praise]N dug₃[to-be-good]V
+c.4.16.1,A hymn to Nisaba (Nisaba A),Ur III,1,nin[lady]N mul-an[heavenly-star]N gun₃[to-be-multicoloured]V
+c.4.16.1,A hymn to Nisaba (Nisaba A),Ur III,2,dub[tablet]N za-gin₃[lapis-lazuli]N šu[hand]N du₈[to-spread]V
+c.4.16.1,A hymn to Nisaba (Nisaba A),Ur III,3,Nisaba[1]DN gal[to-be-big]V immal₂[wild-cow]N Uraš[1]DN tud[to-give-birth]V
+c.4.16.1,A hymn to Nisaba (Nisaba A),Ur III,4,naŋa[potash]N kug[shining]AJ ga[milk]N zid[right]AJ gu₇[to-eat]V
+c.4.16.1,A hymn to Nisaba (Nisaba A),Ur III,5,gi[reed]N 7[7]NU ka[mouth]N ba[to-allot]V
+c.4.16.1,A hymn to Nisaba (Nisaba A),Ur III,6,me[essence]N gal[to-be-big]V 50[50]NU šu[hand]N du₇[to-be-perfect]V
+c.4.16.1,A hymn to Nisaba (Nisaba A),Ur III,7,nin[lady]N a₂-nun-ŋal₂[strong]AJ E-kur[1]TN
+c.4.16.1,A hymn to Nisaba (Nisaba A),Ur III,8,Aruru[1]DN kalam[the-Land]N
+c.4.16.1,A hymn to Nisaba (Nisaba A),Ur III,9,im[clay]N dug₄[to-say]V

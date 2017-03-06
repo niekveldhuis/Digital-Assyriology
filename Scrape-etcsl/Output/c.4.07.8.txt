@@ -1,57 +1,42 @@
 id_text,text_name,version,l_no,text
-c.4.07.8,A balbale to Inana as Nanaya (Inana H),A,1,sux:An[1]DN sux:tum₂[to-be-suitable]V
-c.4.07.8,A balbale to Inana as Nanaya (Inana H),A,2,sux:nam-nin[ladyship]N sux:dib[to-pass]V
-c.4.07.8,A balbale to Inana as Nanaya (Inana H),A,3,sux:gu-za[chair]N sux:nitah[male]N sux:e₂[house(hold)]N
-c.4.07.8,A balbale to Inana as Nanaya (Inana H),A,4,sux:gu-za[chair]N sux:munus[woman]N sux:pa-pah[type-of-shrine]N
-c.4.07.8,A balbale to Inana as Nanaya (Inana H),A,5,sux:ŋiš-MUNUS.BUR₂[dress-ornament]N sux:kug-sig₁₇[gold]N sux:tug₂[garment]N
-c.4.07.8,A balbale to Inana as Nanaya (Inana H),A,6,sux:dala₂[type-of-pointed-object]N sux:HA-izi[meaning-unknown]N sux:niŋ₂-lam₂[type-of-garment]N
-c.4.07.8,A balbale to Inana as Nanaya (Inana H),A,7,sux:aŋ₂[to-measure]V
-c.4.07.8,A balbale to Inana as Nanaya (Inana H),A,8,sux:Nanaya[1]DN sux:dug₃[to-be-good]V
-c.4.07.8,A balbale to Inana as Nanaya (Inana H),A,9,sux:gaba[chest]N
-c.4.07.8,A balbale to Inana as Nanaya (Inana H),A,10,sux:Nanaya[1]DN sux:zid₂-kukkuš[type-of-cheap-flour]N sux:ku₇-ku₇[to-be-sweet]V
-c.4.07.8,A balbale to Inana as Nanaya (Inana H),A,11,sux:en₃-dur[navel]N sux:HA-izi[meaning-unknown]N sux:sig₁₀[to-place]V
-c.4.07.8,A balbale to Inana as Nanaya (Inana H),A,12,sux:Nanaya[1]DN sux:a[water]N sux:a[water]N
-c.4.07.8,A balbale to Inana as Nanaya (Inana H),A,13,sux:ŋen[to-go]V sux:nin[lady]N sux:ŋen[to-go]V
-c.4.07.8,A balbale to Inana as Nanaya (Inana H),A,14,sux:ka[mouth]N sux:pa-pah[type-of-shrine]N sux:ŋen[to-go]V
-c.4.07.8,A balbale to Inana as Nanaya (Inana H),A,15,sux:du₃[to-erect]V
-c.4.07.8,A balbale to Inana as Nanaya (Inana H),A,15A,sux:ŋen[to-go]V sux:nin₉[sister]N sux:ki[place]N sux:aŋ₂[to-measure]V sux:šag₄[heart]N sux:hul₂[to-be-happy]V
-c.4.07.8,A balbale to Inana as Nanaya (Inana H),A,16,sux:šu[hand]N sux:munus[woman]N sux:ŋiri₃[foot]N sux:munus[woman]N
-c.4.07.8,A balbale to Inana as Nanaya (Inana H),A,17,sux:inim[word]N sux:lu₂[person]N sux:bal[to-turn-over]V sux:munus[woman]N
-c.4.07.8,A balbale to Inana as Nanaya (Inana H),A,18,sux:igi[eye]N sux:lu₂[person]N sux:bar[to-set-aside]V sux:munus[woman]N
-c.4.07.8,A balbale to Inana as Nanaya (Inana H),A,18A,sux:šu[hand]N sux:lu₂[person]N sux:munus[woman]N
-c.4.07.8,A balbale to Inana as Nanaya (Inana H),A,18B,sux:ŋiri₃[foot]N sux:munus[woman]N
-c.4.07.8,A balbale to Inana as Nanaya (Inana H),A,18C,sux:a₂-diš-kuš₃[forearm]N sux:šag₄[heart]N sux:hul₂[to-be-happy]V
-c.4.07.8,A balbale to Inana as Nanaya (Inana H),A,18D,sux:ŋiri₃[foot]N sux:ur₅[liver]N sux:sag₉[to-be-good]V
-c.4.07.8,A balbale to Inana as Nanaya (Inana H),A,19,sux:zag[side]N sux:e₂-ŋar₈[wall]N sux:gub[to-stand]V sux:šag₄[heart]N sux:sud[to-be-distant]V sux:sag₉[to-be-good]V
-c.4.07.8,A balbale to Inana as Nanaya (Inana H),A,20,sux:gam[to-bow-down]V sux:ib₂[hip]N sux:sag₉[to-be-good]V
-c.4.07.8,A balbale to Inana as Nanaya (Inana H),A,20A,sux:e₂-ŋar₈[wall]N sux:gub[to-stand]V sux:1[1]NU sux:sila₄[lamb]N
-c.4.07.8,A balbale to Inana as Nanaya (Inana H),A,20B,sux:gam[to-bow-down]V sux:1[1]NU sux:1/2[1/2]NU sux:giŋ₄[weight-measure]N
-c.4.07.8,A balbale to Inana as Nanaya (Inana H),A,21,sux:id₂[watercourse]N sux:ba-al[to-dig]V sux:id₂[watercourse]N sux:me[to-be]V
-c.4.07.8,A balbale to Inana as Nanaya (Inana H),A,22,sux:a-šag₄[field]N sux:ur₁₁-ru[to-plough]V sux:a-šag₄[field]N sux:me[to-be]V
-c.4.07.8,A balbale to Inana as Nanaya (Inana H),A,23,sux-x-emesal:mu-un-gar₃[farmer]N sux:ki[place]N sux:duru₅[to-be-wet]V sux:kiŋ₂[to-seek]V
-c.4.07.8,A balbale to Inana as Nanaya (Inana H),A,24,sux-x-emesal:ze₂-eb[to-be-good]V sux:kal[to-be-rare]V sux:ki[place]N sux:duru₅[to-be-wet]V sux:me[to-be]V
-c.4.07.8,A balbale to Inana as Nanaya (Inana H),A,25,sux:absin₃[furrow]N sux:me[to-be]V
-c.4.07.8,A balbale to Inana as Nanaya (Inana H),A,26,sux:tur[to-be-small]V sux:a₂-aš₂[requirement]N sux:me[to-be]V
-c.4.07.8,A balbale to Inana as Nanaya (Inana H),A,27,sux:a-na[what]PD sux:zur-zur[to-honour]V
-c.4.07.8,A balbale to Inana as Nanaya (Inana H),A,28,sux:a-na[what]PD sux:ki-gub[location]N sux:ŋen[to-go]V
-c.4.07.8,A balbale to Inana as Nanaya (Inana H),A,29,sux:a-na[what]PD sux:ninda[bread]N sux:ŋeštin[grape-(wine)]N sux:ŋen[to-go]V
-c.4.07.8,A balbale to Inana as Nanaya (Inana H),A,30,sux:ninda[bread]N sux:ŋeštin[grape-(wine)]N sux:ŋen[to-go]V
-c.4.07.8,A balbale to Inana as Nanaya (Inana H),A,31,sux:ŋen[to-go]V sux:nin₉[sister]N sux:ki[place]N sux:aŋ₂[to-measure]V sux:šag₄[heart]N
-c.4.07.8,A balbale to Inana as Nanaya (Inana H),A,32,sux:Nanaya[1]DN sux:ne[noun-part-of-multiword-verb]N sux:su-ub[to-rub]V
-c.4.07.8,A balbale to Inana as Nanaya (Inana H),A,33,sux:bal-bal-e[type-of-composition]N sux:Nanaya[1]DN
-c.4.07.8,A balbale to Inana as Nanaya (Inana H),B,A1,sux:en₃-dur[navel]N sux:HA-izi[meaning-unknown]N
-c.4.07.8,A balbale to Inana as Nanaya (Inana H),B,A2,sux:nin₉[sister]N sux:e₅[princely]AJ sux-x-emesal:ze₂-eb[to-be-good]V
-c.4.07.8,A balbale to Inana as Nanaya (Inana H),B,A3,sux:murgu[back]N
-c.4.07.8,A balbale to Inana as Nanaya (Inana H),B,A4,sux:nin₉[sister]N sux:e₅[princely]AJ sux:šu[hand]N
-c.4.07.8,A balbale to Inana as Nanaya (Inana H),B,A5,sux:gal₄-la[female-genitals]N sux:sar[garden-plot]N
-c.4.07.8,A balbale to Inana as Nanaya (Inana H),B,A6,sux:Nanaya[1]DN
-c.4.07.8,A balbale to Inana as Nanaya (Inana H),B,A7,sux:gu-du[buttocks]N sux:a-šag₄[field]N
-c.4.07.8,A balbale to Inana as Nanaya (Inana H),B,A8,sux:nin₉[sister]N sux:e₅[princely]AJ sux:bur₃[area-measure]N sux:gana₂[field]N
-c.4.07.8,A balbale to Inana as Nanaya (Inana H),B,A9,sux:ŋen[to-go]V sux:nin₉[sister]N
-c.4.07.8,A balbale to Inana as Nanaya (Inana H),B,B1,
-c.4.07.8,A balbale to Inana as Nanaya (Inana H),B,B2,sux:ŋen[to-go]V sux:nin₉[sister]N sux:ki[place]N sux:aŋ₂[to-measure]V
-c.4.07.8,A balbale to Inana as Nanaya (Inana H),B,B3,sux:a-na[what]PD sux:nam[destiny]N
-c.4.07.8,A balbale to Inana as Nanaya (Inana H),B,B4,sux:a-na[what]PD sux:nam[destiny]N
-c.4.07.8,A balbale to Inana as Nanaya (Inana H),B,B5,sux:a-na[what]PD sux:nam[destiny]N
-c.4.07.8,A balbale to Inana as Nanaya (Inana H),B,B6,sux:a-na[what]PD sux:nam[destiny]N
-c.4.07.8,A balbale to Inana as Nanaya (Inana H),B,B7,sux:nin₉[sister]N
+c.4.07.8,A balbale to Inana as Nanaya (Inana H),A,1,An[1]DN tum₂[to-be-suitable]V
+c.4.07.8,A balbale to Inana as Nanaya (Inana H),A,2,nam-nin[ladyship]N dib[to-pass]V
+c.4.07.8,A balbale to Inana as Nanaya (Inana H),A,3,gu-za[chair]N nitah[male]N e₂[house(hold)]N
+c.4.07.8,A balbale to Inana as Nanaya (Inana H),A,4,gu-za[chair]N munus[woman]N pa-pah[type-of-shrine]N
+c.4.07.8,A balbale to Inana as Nanaya (Inana H),A,5,ŋiš-MUNUS.BUR₂[dress-ornament]N kug-sig₁₇[gold]N tug₂[garment]N
+c.4.07.8,A balbale to Inana as Nanaya (Inana H),A,6,dala₂[type-of-pointed-object]N HA-izi[meaning-unknown]N niŋ₂-lam₂[type-of-garment]N
+c.4.07.8,A balbale to Inana as Nanaya (Inana H),A,7,aŋ₂[to-measure]V
+c.4.07.8,A balbale to Inana as Nanaya (Inana H),A,8,Nanaya[1]DN dug₃[to-be-good]V
+c.4.07.8,A balbale to Inana as Nanaya (Inana H),A,9,gaba[chest]N
+c.4.07.8,A balbale to Inana as Nanaya (Inana H),A,10,Nanaya[1]DN zid₂-kukkuš[type-of-cheap-flour]N ku₇-ku₇[to-be-sweet]V
+c.4.07.8,A balbale to Inana as Nanaya (Inana H),A,11,en₃-dur[navel]N HA-izi[meaning-unknown]N sig₁₀[to-place]V
+c.4.07.8,A balbale to Inana as Nanaya (Inana H),A,12,Nanaya[1]DN a[water]N a[water]N
+c.4.07.8,A balbale to Inana as Nanaya (Inana H),A,13,ŋen[to-go]V nin[lady]N ŋen[to-go]V
+c.4.07.8,A balbale to Inana as Nanaya (Inana H),A,14,ka[mouth]N pa-pah[type-of-shrine]N ŋen[to-go]V
+c.4.07.8,A balbale to Inana as Nanaya (Inana H),A,15,du₃[to-erect]V
+c.4.07.8,A balbale to Inana as Nanaya (Inana H),A,15A,ŋen[to-go]V nin₉[sister]N ki[place]N aŋ₂[to-measure]V šag₄[heart]N hul₂[to-be-happy]V
+c.4.07.8,A balbale to Inana as Nanaya (Inana H),A,16,šu[hand]N munus[woman]N ŋiri₃[foot]N munus[woman]N
+c.4.07.8,A balbale to Inana as Nanaya (Inana H),A,17,inim[word]N lu₂[person]N bal[to-turn-over]V munus[woman]N
+c.4.07.8,A balbale to Inana as Nanaya (Inana H),A,18,igi[eye]N lu₂[person]N bar[to-set-aside]V munus[woman]N
+c.4.07.8,A balbale to Inana as Nanaya (Inana H),A,18A,šu[hand]N lu₂[person]N munus[woman]N
+c.4.07.8,A balbale to Inana as Nanaya (Inana H),A,18B,ŋiri₃[foot]N munus[woman]N
+c.4.07.8,A balbale to Inana as Nanaya (Inana H),A,18C,a₂-diš-kuš₃[forearm]N šag₄[heart]N hul₂[to-be-happy]V
+c.4.07.8,A balbale to Inana as Nanaya (Inana H),A,18D,ŋiri₃[foot]N ur₅[liver]N sag₉[to-be-good]V
+c.4.07.8,A balbale to Inana as Nanaya (Inana H),A,19,zag[side]N e₂-ŋar₈[wall]N gub[to-stand]V šag₄[heart]N sud[to-be-distant]V sag₉[to-be-good]V
+c.4.07.8,A balbale to Inana as Nanaya (Inana H),A,20,gam[to-bow-down]V ib₂[hip]N sag₉[to-be-good]V
+c.4.07.8,A balbale to Inana as Nanaya (Inana H),A,20A,e₂-ŋar₈[wall]N gub[to-stand]V 1[1]NU sila₄[lamb]N
+c.4.07.8,A balbale to Inana as Nanaya (Inana H),A,20B,gam[to-bow-down]V 1[1]NU 1/2[1/2]NU giŋ₄[weight-measure]N
+c.4.07.8,A balbale to Inana as Nanaya (Inana H),A,21,id₂[watercourse]N ba-al[to-dig]V id₂[watercourse]N me[to-be]V
+c.4.07.8,A balbale to Inana as Nanaya (Inana H),A,22,a-šag₄[field]N ur₁₁-ru[to-plough]V a-šag₄[field]N me[to-be]V
+c.4.07.8,A balbale to Inana as Nanaya (Inana H),A,23,mu-un-gar₃[farmer]N ki[place]N duru₅[to-be-wet]V kiŋ₂[to-seek]V
+c.4.07.8,A balbale to Inana as Nanaya (Inana H),A,24,ze₂-eb[to-be-good]V kal[to-be-rare]V ki[place]N duru₅[to-be-wet]V me[to-be]V
+c.4.07.8,A balbale to Inana as Nanaya (Inana H),A,25,absin₃[furrow]N me[to-be]V
+c.4.07.8,A balbale to Inana as Nanaya (Inana H),A,26,tur[to-be-small]V a₂-aš₂[requirement]N me[to-be]V
+c.4.07.8,A balbale to Inana as Nanaya (Inana H),A,27,a-na[what]PD zur-zur[to-honour]V
+c.4.07.8,A balbale to Inana as Nanaya (Inana H),A,28,a-na[what]PD ki-gub[location]N ŋen[to-go]V
+c.4.07.8,A balbale to Inana as Nanaya (Inana H),A,29,a-na[what]PD ninda[bread]N ŋeštin[grape-(wine)]N ŋen[to-go]V
+c.4.07.8,A balbale to Inana as Nanaya (Inana H),A,30,ninda[bread]N ŋeštin[grape-(wine)]N ŋen[to-go]V
+c.4.07.8,A balbale to Inana as Nanaya (Inana H),A,31,ŋen[to-go]V nin₉[sister]N ki[place]N aŋ₂[to-measure]V šag₄[heart]N
+c.4.07.8,A balbale to Inana as Nanaya (Inana H),A,32,Nanaya[1]DN ne[noun-part-of-multiword-verb]N su-ub[to-rub]V
+c.4.07.8,A balbale to Inana as Nanaya (Inana H),A,33,bal-bal-e[type-of-composition]N Nanaya[1]DN
+c.4.07.8,A balbale to Inana as Nanaya (Inana H),B,A1,en₃-dur[navel]N HA-izi[meaning-unknown]Nc.4.07.8,A balbale to Inana as Nanaya (Inana H),B,A2,nin₉[sister]N e₅[princely]AJ ze₂-eb[to-be-good]Vc.4.07.8,A balbale to Inana as Nanaya (Inana H),B,A3,murgu[back]Nc.4.07.8,A balbale to Inana as Nanaya (Inana H),B,A4,nin₉[sister]N e₅[princely]AJ šu[hand]Nc.4.07.8,A balbale to Inana as Nanaya (Inana H),B,A5,gal₄-la[female-genitals]N sar[garden-plot]Nc.4.07.8,A balbale to Inana as Nanaya (Inana H),B,A6,Nanaya[1]DNc.4.07.8,A balbale to Inana as Nanaya (Inana H),B,A7,gu-du[buttocks]N a-šag₄[field]Nc.4.07.8,A balbale to Inana as Nanaya (Inana H),B,A8,nin₉[sister]N e₅[princely]AJ bur₃[area-measure]N gana₂[field]Nc.4.07.8,A balbale to Inana as Nanaya (Inana H),B,A9,ŋen[to-go]V nin₉[sister]Nc.4.07.8,A balbale to Inana as Nanaya (Inana H),B,B1,c.4.07.8,A balbale to Inana as Nanaya (Inana H),B,B2,ŋen[to-go]V nin₉[sister]N ki[place]N aŋ₂[to-measure]Vc.4.07.8,A balbale to Inana as Nanaya (Inana H),B,B3,a-na[what]PD nam[destiny]Nc.4.07.8,A balbale to Inana as Nanaya (Inana H),B,B4,a-na[what]PD nam[destiny]Nc.4.07.8,A balbale to Inana as Nanaya (Inana H),B,B5,a-na[what]PD nam[destiny]Nc.4.07.8,A balbale to Inana as Nanaya (Inana H),B,B6,a-na[what]PD nam[destiny]Nc.4.07.8,A balbale to Inana as Nanaya (Inana H),B,B7,nin₉[sister]N

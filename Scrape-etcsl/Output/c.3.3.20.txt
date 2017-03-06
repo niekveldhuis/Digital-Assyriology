@@ -1,11 +1,11 @@
 id_text,text_name,version,l_no,text
-c.3.3.20,Letter from Gudea to his personal deity,,1,sux:diŋir[deity]N sux:dug₄[to-say]V
-c.3.3.20,Letter from Gudea to his personal deity,,2,sux:Gudea[1]PN sux:arad[slave]N sux:dug₄[to-say]V
-c.3.3.20,Letter from Gudea to his personal deity,,3,sux:udu[sheep]N sux:sipad[shepherd]N sux:gen₆[to-be-firm]V sux:tuku[to-have]V
-c.3.3.20,Letter from Gudea to his personal deity,,4,sux:na-gada[herdsman]N sux:gen₆[to-be-firm]V sux:de₆[to-carry]V
-c.3.3.20,Letter from Gudea to his personal deity,,5,sux:dam-gara₃[merchant]N sux:saŋ[head]N sux:du₃[to-erect]V sux:zu[to-know]V sux:bal[to-turn-over]V sux:ak[to-do]V
-c.3.3.20,Letter from Gudea to his personal deity,,6,sux:anše[donkey]N sux:usan₃[whip]N sux:hul-ŋal₂[evil]AJ sux:hul-ŋal₂[evil]AJ
-c.3.3.20,Letter from Gudea to his personal deity,,7,sux:saŋ[head]N sux:tuku[to-have]V sux:inim[word]N sux:dug₄[to-say]V sux:igi[eye]N sux:tuku[to-have]V sux:igi[eye]N
-c.3.3.20,Letter from Gudea to his personal deity,,8,sux:niŋ₂[thing]N sux:ak[to-do]V sux:igi[eye]N sux:a-ra₂[times]N sux:7[7]NU sux:DU[DU]V
-c.3.3.20,Letter from Gudea to his personal deity,,9,sux:zag[side]N sux:a-ra₂[times]N sux:7[7]NU sux:pad₃[to-find]V
-c.3.3.20,Letter from Gudea to his personal deity,,10,sux:diŋir[deity]N sux:lu₂[person]N sux:kur₂[to-be-different]V sux:dug₄[to-say]V sux:me[to-be]V sux:šag₄[heart]N sux:ki[place]N sux:gi₄[to-return]V
+c.3.3.20,Letter from Gudea to his personal deity,,1,diŋir[deity]N dug₄[to-say]V
+c.3.3.20,Letter from Gudea to his personal deity,,2,Gudea[1]PN arad[slave]N dug₄[to-say]V
+c.3.3.20,Letter from Gudea to his personal deity,,3,udu[sheep]N sipad[shepherd]N gen₆[to-be-firm]V tuku[to-have]V
+c.3.3.20,Letter from Gudea to his personal deity,,4,na-gada[herdsman]N gen₆[to-be-firm]V de₆[to-carry]V
+c.3.3.20,Letter from Gudea to his personal deity,,5,dam-gara₃[merchant]N saŋ[head]N du₃[to-erect]V zu[to-know]V bal[to-turn-over]V ak[to-do]V
+c.3.3.20,Letter from Gudea to his personal deity,,6,anše[donkey]N usan₃[whip]N hul-ŋal₂[evil]AJ hul-ŋal₂[evil]AJ
+c.3.3.20,Letter from Gudea to his personal deity,,7,saŋ[head]N tuku[to-have]V inim[word]N dug₄[to-say]V igi[eye]N tuku[to-have]V igi[eye]N
+c.3.3.20,Letter from Gudea to his personal deity,,8,niŋ₂[thing]N ak[to-do]V igi[eye]N a-ra₂[times]N 7[7]NU DU[DU]V
+c.3.3.20,Letter from Gudea to his personal deity,,9,zag[side]N a-ra₂[times]N 7[7]NU pad₃[to-find]V
+c.3.3.20,Letter from Gudea to his personal deity,,10,diŋir[deity]N lu₂[person]N kur₂[to-be-different]V dug₄[to-say]V me[to-be]V šag₄[heart]N ki[place]N gi₄[to-return]V
