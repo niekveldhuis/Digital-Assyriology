@@ -1,0 +1,7 @@
+id_text,text_name,version,l_no,text
+etcsri/Q005006,Ibbi-Suen 2076add,,i 1,sux:Ibbisuen[1]RN
+etcsri/Q005006,Ibbi-Suen 2076add,,i 2,sux:lugal[king]N sux:kalag[strong]V/i
+etcsri/Q005006,Ibbi-Suen 2076add,,i 3,sux:lugal[king]N sux:Urim[1]SN
+etcsri/Q005006,Ibbi-Suen 2076add,,ii 1,sux:Šulgiršamši[1]PN
+etcsri/Q005006,Ibbi-Suen 2076add,,ii 2,sux:agaʾus[soldier]N sux:gal[big]V/i
+etcsri/Q005006,Ibbi-Suen 2076add,,ii 3,sux:dumu[child]N sux:Niŋu[1]PN

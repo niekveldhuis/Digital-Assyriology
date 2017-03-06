@@ -1,0 +1,33 @@
+id_text,text_name,l_no,text
+saao/saa13/P334354,SAA 13 187. The King Had Mercy on his Servant (ABL 0514),o 1,ana[to]PRP šarru[king]N bēlu[lord]N
+saao/saa13/P334354,SAA 13 187. The King Had Mercy on his Servant (ABL 0514),o 2,ardu[slave]N Bel-iddina[1]PN
+saao/saa13/P334354,SAA 13 187. The King Had Mercy on his Servant (ABL 0514),o 3,lū[may]MOD šulmu[completeness]N ana[to]PRP šarru[king]N bēlu[lord]N
+saao/saa13/P334354,SAA 13 187. The King Had Mercy on his Servant (ABL 0514),o 4,Nabu[1]DN u[and]CNJ Marduk[1]DN ana[to]PRP šarru[king]N bēlu[lord]N
+saao/saa13/P334354,SAA 13 187. The King Had Mercy on his Servant (ABL 0514),o 5,adanniš[very-much]AV adanniš[very-much]AV karābu[pray]V
+saao/saa13/P334354,SAA 13 187. The King Had Mercy on his Servant (ABL 0514),o 6,Aššur[1]DN Nikkal[1]DN Bel-age[Lord-of-the-Crown]DN
+saao/saa13/P334354,SAA 13 187. The King Had Mercy on his Servant (ABL 0514),o 7,rāʾimu[one-who-loves]N ša[of]DET šumu[name]N
+saao/saa13/P334354,SAA 13 187. The King Had Mercy on his Servant (ABL 0514),o 8,ša[of]DET šarru[king]N bēlu[lord]N šulmu[completeness]N ša[of]DET šarru[king]N
+saao/saa13/P334354,SAA 13 187. The King Had Mercy on his Servant (ABL 0514),o 9,bēlu[lord]N ana[to]PRP dāriš[for-ever]AV
+saao/saa13/P334354,SAA 13 187. The King Had Mercy on his Servant (ABL 0514),o 10,šâlu[ask]V ṭūbu[goodness]N libbu[interior]N
+saao/saa13/P334354,SAA 13 187. The King Had Mercy on his Servant (ABL 0514),o 11,ṭūbu[goodness]N šīru[flesh]N ana[to]PRP šarru[king]N
+saao/saa13/P334354,SAA 13 187. The King Had Mercy on his Servant (ABL 0514),o 12,bēlu[lord]N tadānu[give]V
+saao/saa13/P334354,SAA 13 187. The King Had Mercy on his Servant (ABL 0514),o 13,Sin[1]DN annû[this]DP Nikkal[1]DN
+saao/saa13/P334354,SAA 13 187. The King Had Mercy on his Servant (ABL 0514),o 14,Nušku[Nusku]DN ša[of]DET šarru[king]N bēlu[lord]N
+saao/saa13/P334354,SAA 13 187. The King Had Mercy on his Servant (ABL 0514),o 15,īnu[eye]N amāru[see]V
+saao/saa13/P334354,SAA 13 187. The King Had Mercy on his Servant (ABL 0514),o 16,u[and]CNJ palāhu[fear]V
+saao/saa13/P334354,SAA 13 187. The King Had Mercy on his Servant (ABL 0514),o 17,ana[to]PRP šarru[king]N bēlu[lord]N
+saao/saa13/P334354,SAA 13 187. The King Had Mercy on his Servant (ABL 0514),r 1',ana[to]PRP
+saao/saa13/P334354,SAA 13 187. The King Had Mercy on his Servant (ABL 0514),r 2',šarru[king]N
+saao/saa13/P334354,SAA 13 187. The King Had Mercy on his Servant (ABL 0514),r 3',libbu[interior]N
+saao/saa13/P334354,SAA 13 187. The King Had Mercy on his Servant (ABL 0514),r 5',Ištar[1]DN ša[of]DET Ninua[Nineveh]GN
+saao/saa13/P334354,SAA 13 187. The King Had Mercy on his Servant (ABL 0514),r 6',Ištar[1]DN ša[of]DET Arbail[Arbela]GN
+saao/saa13/P334354,SAA 13 187. The King Had Mercy on his Servant (ABL 0514),r 7',palû[period-of-office]N mādu[many]AJ
+saao/saa13/P334354,SAA 13 187. The King Had Mercy on his Servant (ABL 0514),r 8',ša[of]DET dumqu[goodness]N ana[to]PRP šarru[king]N
+saao/saa13/P334354,SAA 13 187. The King Had Mercy on his Servant (ABL 0514),r 9',bēlu[lord]N târu[turn]V
+saao/saa13/P334354,SAA 13 187. The King Had Mercy on his Servant (ABL 0514),r 10',šarru[king]N bēlu[lord]N rēmu[womb]N
+saao/saa13/P334354,SAA 13 187. The King Had Mercy on his Servant (ABL 0514),r 11',ana[to]PRP ardu[slave]N šakānu[put]V
+saao/saa13/P334354,SAA 13 187. The King Had Mercy on his Servant (ABL 0514),r 12',mā[saying]PRP ana[to]PRP Sin[1]DN dalālu[praise]V
+saao/saa13/P334354,SAA 13 187. The King Had Mercy on his Servant (ABL 0514),r 13',šanû[second]NU ina[in]PRP ūmu[day]N annû[this]DP dalālu[praise]V
+saao/saa13/P334354,SAA 13 187. The King Had Mercy on his Servant (ABL 0514),r 14',ina[in]PRP šiāru[morning]N gamāru[complete]V
+saao/saa13/P334354,SAA 13 187. The King Had Mercy on his Servant (ABL 0514),r 15',nīqu[sacrifice]N ša[of]DET šulmu[completeness]N ina[in]PRP pānu[front]N Sin[1]DN
+saao/saa13/P334354,SAA 13 187. The King Had Mercy on his Servant (ABL 0514),r 16',epēšu[do]V ana[to]PRP šarru[king]N bēlu[lord]N

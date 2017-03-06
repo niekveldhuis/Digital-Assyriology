@@ -1,0 +1,6 @@
+id_text,text_name,version,l_no,text
+etcsri/Q001438,Nammahabzu 2002,,1,sux:Nammahabzu[1]PN
+etcsri/Q001438,Nammahabzu 2002,,2,sux:ensik[ruler]N sux:Nibru[1]SN
+etcsri/Q001438,Nammahabzu 2002,,3,sux:Unil[1]PN
+etcsri/Q001438,Nammahabzu 2002,,4,sux:dumu[child]N sux:Nitazid[1]PN
+etcsri/Q001438,Nammahabzu 2002,,5,sux:ugulaʾek[overseer]N

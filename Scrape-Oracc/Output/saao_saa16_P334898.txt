@@ -1,0 +1,28 @@
+id_text,text_name,l_no,text
+saao/saa16/P334898,SAA 16 135. Fragment of a Military Report (ABL 1422),o 1,ana[to]PRP šarru[king]N bēlu[lord]N
+saao/saa16/P334898,SAA 16 135. Fragment of a Military Report (ABL 1422),o 2,ardu[slave]N
+saao/saa16/P334898,SAA 16 135. Fragment of a Military Report (ABL 1422),o 3,ṭupšarru[scribe]N
+saao/saa16/P334898,SAA 16 135. Fragment of a Military Report (ABL 1422),o 4,ša[that]REL ina[in]PRP libbu[interior]N
+saao/saa16/P334898,SAA 16 135. Fragment of a Military Report (ABL 1422),o 5,šulmu[completeness]N ana[to]PRP šarru[king]N bēlu[lord]N
+saao/saa16/P334898,SAA 16 135. Fragment of a Military Report (ABL 1422),o 6,Nabu[1]DN u[and]CNJ Marduk[1]DN
+saao/saa16/P334898,SAA 16 135. Fragment of a Military Report (ABL 1422),o 7,ana[to]PRP šarru[king]N bēlu[lord]N karābu[pray]V
+saao/saa16/P334898,SAA 16 135. Fragment of a Military Report (ABL 1422),o 8,Arbayu[1]PN
+saao/saa16/P334898,SAA 16 135. Fragment of a Military Report (ABL 1422),o 9,Qilti[1]PN
+saao/saa16/P334898,SAA 16 135. Fragment of a Military Report (ABL 1422),o 10,Ahu-šamši[1]PN
+saao/saa16/P334898,SAA 16 135. Fragment of a Military Report (ABL 1422),o 11,Eriba-Issar[1]PN
+saao/saa16/P334898,SAA 16 135. Fragment of a Military Report (ABL 1422),o 13,kī[like]PRP arhiš[quickly]AV
+saao/saa16/P334898,SAA 16 135. Fragment of a Military Report (ABL 1422),o 14,ša[of]DET šarru[king]N bēlu[lord]N
+saao/saa16/P334898,SAA 16 135. Fragment of a Military Report (ABL 1422),o 15,lā[not]MOD
+saao/saa16/P334898,SAA 16 135. Fragment of a Military Report (ABL 1422),r 3',Ṣil-šarri[1]PN
+saao/saa16/P334898,SAA 16 135. Fragment of a Military Report (ABL 1422),r 4',pû[mouth]N išti[with]PRP
+saao/saa16/P334898,SAA 16 135. Fragment of a Military Report (ABL 1422),r 5',šakānu[put]V
+saao/saa16/P334898,SAA 16 135. Fragment of a Military Report (ABL 1422),r 6',ša[that]REL šarru[king]N
+saao/saa16/P334898,SAA 16 135. Fragment of a Military Report (ABL 1422),r 7',halāqu[be(come)-lost]V
+saao/saa16/P334898,SAA 16 135. Fragment of a Military Report (ABL 1422),r 8',ša-qurbūti[close-follower]N
+saao/saa16/P334898,SAA 16 135. Fragment of a Military Report (ABL 1422),r 9',ištu[from]PRP pānu[front]N
+saao/saa16/P334898,SAA 16 135. Fragment of a Military Report (ABL 1422),r 10',ina[in]PRP libbu[interior]N nakru[enemy]N
+saao/saa16/P334898,SAA 16 135. Fragment of a Military Report (ABL 1422),r 11',ardu[slave]N ša[of]DET šarru[king]N
+saao/saa16/P334898,SAA 16 135. Fragment of a Military Report (ABL 1422),r 12',pānu[front]N
+saao/saa16/P334898,SAA 16 135. Fragment of a Military Report (ABL 1422),r.e. 13,šakānu[put]V
+saao/saa16/P334898,SAA 16 135. Fragment of a Military Report (ABL 1422),e. 1,ša[of]DET Arpadda[Arpad]GN
+saao/saa16/P334898,SAA 16 135. Fragment of a Military Report (ABL 1422),e. 2,išti[with]PRP nakru[enemy]N lasāmu[run]V

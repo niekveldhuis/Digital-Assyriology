@@ -1,0 +1,34 @@
+id_text,text_name,l_no,text
+<<<<<<< HEAD
+aemw/amarna/P271156,EA 219. Message lost [vassal letter],001,akk-x-mbperi:ana[to]PRP akk-x-mbperi:šarru[king]N akk-x-mbperi:bēlu[lord]N
+aemw/amarna/P271156,EA 219. Message lost [vassal letter],002,akk-x-mbperi:qabû[say]V
+aemw/amarna/P271156,EA 219. Message lost [vassal letter],003,akk-x-mbperi:umma[saying]PRP akk-x-mbperi:wardu[slave]N
+aemw/amarna/P271156,EA 219. Message lost [vassal letter],004,akk-x-mbperi:u[and]CNJ akk-x-mbperi:ana[to]PRP akk-x-mbperi:šēpu[foot]N akk-x-mbperi:bēlu[lord]N akk-x-mbperi:maqātu[fall]V
+aemw/amarna/P271156,EA 219. Message lost [vassal letter],021,akk-x-mbperi:ana[to]PRP akk-x-mbperi:kâti[you]IP
+aemw/amarna/P271156,EA 219. Message lost [vassal letter],023,akk-x-mbperi:epēšu[do]V
+aemw/amarna/P271156,EA 219. Message lost [vassal letter],024,akk-x-mbperi:lā[not]MOD akk-x-mbperi:epēšu[do]V
+aemw/amarna/P271156,EA 219. Message lost [vassal letter],025,akk-x-mbperi:kāsu[cup]N akk-x-mbperi:hurāṣu[gold]N
+aemw/amarna/P271156,EA 219. Message lost [vassal letter],026,akk-x-mbperi:ana[to]PRP akk-x-mbperi:ṭābu[good]AJ
+aemw/amarna/P271156,EA 219. Message lost [vassal letter],027,akk-x-mbperi:tarāṣu[be(come)-in-order]V akk-x-mbperi:ana[to]PRP akk-x-mbperi:pānu[front]N
+aemw/amarna/P271156,EA 219. Message lost [vassal letter],028,akk-x-mbperi:ana[to]PRP
+aemw/amarna/P271156,EA 219. Message lost [vassal letter],029,akk-x-mbperi:u[and]CNJ akk-x-mbperi:wašāru[sink-down]V
+aemw/amarna/P271156,EA 219. Message lost [vassal letter],030,akk-x-mbperi:ṣābu[people]N akk-x-mbperi:piṭṭātu[archers]N
+aemw/amarna/P271156,EA 219. Message lost [vassal letter],031,akk-x-mbperi:ana[to]PRP akk-x-mbperi:mātu[land]N
+aemw/amarna/P271156,EA 219. Message lost [vassal letter],032,akk-x-mbperi:eli[on]PRP
+=======
+aemw/amarna/P271156,EA 219. Message lost [vassal letter],001,akk-x-mbperi:šarru[king]N akk-x-mbperi:bēlu[lord]N
+aemw/amarna/P271156,EA 219. Message lost [vassal letter],002,
+aemw/amarna/P271156,EA 219. Message lost [vassal letter],003,akk-x-mbperi:wardu[slave]N
+aemw/amarna/P271156,EA 219. Message lost [vassal letter],004,akk-x-mbperi:šēpu[foot]N akk-x-mbperi:bēlu[lord]N
+aemw/amarna/P271156,EA 219. Message lost [vassal letter],021,
+aemw/amarna/P271156,EA 219. Message lost [vassal letter],023,
+aemw/amarna/P271156,EA 219. Message lost [vassal letter],024,
+aemw/amarna/P271156,EA 219. Message lost [vassal letter],025,akk-x-mbperi:kāsu[cup]N akk-x-mbperi:hurāṣu[gold]N
+aemw/amarna/P271156,EA 219. Message lost [vassal letter],026,
+aemw/amarna/P271156,EA 219. Message lost [vassal letter],027,akk-x-mbperi:pānu[front]N
+aemw/amarna/P271156,EA 219. Message lost [vassal letter],028,
+aemw/amarna/P271156,EA 219. Message lost [vassal letter],029,
+aemw/amarna/P271156,EA 219. Message lost [vassal letter],030,akk-x-mbperi:ṣābu[people]N akk-x-mbperi:piṭṭātu[archers]N
+aemw/amarna/P271156,EA 219. Message lost [vassal letter],031,akk-x-mbperi:mātu[land]N
+aemw/amarna/P271156,EA 219. Message lost [vassal letter],032,
+>>>>>>> d524642d5275e5016007339cafda4e021ecb17ba

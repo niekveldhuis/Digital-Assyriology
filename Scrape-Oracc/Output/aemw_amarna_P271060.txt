@@ -1,0 +1,48 @@
+id_text,text_name,l_no,text
+<<<<<<< HEAD
+aemw/amarna/P271060,EA 217. About Maya [vassal letter],001,akk-x-mbperi:ana[to]PRP akk-x-mbperi:šarru[king]N akk-x-mbperi:bēlu[lord]N
+aemw/amarna/P271060,EA 217. About Maya [vassal letter],002,akk-x-mbperi:qabû[say]V
+aemw/amarna/P271060,EA 217. About Maya [vassal letter],003,akk-x-mbperi:umma[saying]PRP
+aemw/amarna/P271060,EA 217. About Maya [vassal letter],004,akk-x-mbperi:wardu[slave]N akk-x-mbperi:ana[to]PRP akk-x-mbperi:šēpu[foot]N
+aemw/amarna/P271060,EA 217. About Maya [vassal letter],005,akk-x-mbperi:šarru[king]N akk-x-mbperi:bēlu[lord]N akk-x-mbperi:Šamaš[1]DN
+aemw/amarna/P271060,EA 217. About Maya [vassal letter],006,akk-x-mbperi:u[and]CNJ
+aemw/amarna/P271060,EA 217. About Maya [vassal letter],007,akk-x-mbperi:maqātu[fall]V akk-x-mbperi:šemû[hear]V
+aemw/amarna/P271060,EA 217. About Maya [vassal letter],008,akk-x-mbperi:gabbu[totality]N akk-x-mbperi:awātu[word]N
+aemw/amarna/P271060,EA 217. About Maya [vassal letter],009,akk-x-mbperi:šarru[king]N akk-x-mbperi:bēlu[lord]N akk-x-mbperi:u[and]CNJ
+aemw/amarna/P271060,EA 217. About Maya [vassal letter],010,akk-x-mbperi:anumma[now]AV akk-x-mbperi:šūšuru[in-order]AJ
+aemw/amarna/P271060,EA 217. About Maya [vassal letter],011,akk-x-mbperi:gabbu[totality]N akk-x-mbperi:adi[until]PRP akk-x-mbperi:kašādu[reach]V
+aemw/amarna/P271060,EA 217. About Maya [vassal letter],012,akk-x-mbperi:šarru[king]N akk-x-mbperi:bēlu[lord]N
+aemw/amarna/P271060,EA 217. About Maya [vassal letter],013,akk-x-mbperi:u[and]CNJ akk-x-mbperi:mīya[who?]QP
+aemw/amarna/P271060,EA 217. About Maya [vassal letter],014,akk-x-mbperi:kalbu[dog]N akk-x-mbperi:u[and]CNJ akk-x-mbperi:lā[not]MOD
+aemw/amarna/P271060,EA 217. About Maya [vassal letter],015,akk-x-mbperi:šemû[hear]V akk-x-mbperi:ana[to]PRP
+aemw/amarna/P271060,EA 217. About Maya [vassal letter],016,akk-x-mbperi:Maya[1]PN akk-x-mbperi:rābiṣu[bailiff]N
+aemw/amarna/P271060,EA 217. About Maya [vassal letter],017,akk-x-mbperi:šarru[king]N akk-x-mbperi:bēlu[lord]N
+aemw/amarna/P271060,EA 217. About Maya [vassal letter],018,akk-x-mbperi:u[and]CNJ akk-x-mbperi:wašāru[sink-down]V
+aemw/amarna/P271060,EA 217. About Maya [vassal letter],019,akk-x-mbperi:šarru[king]N akk-x-mbperi:bēlu[lord]N akk-x-mbperi:ṣābu[people]N
+aemw/amarna/P271060,EA 217. About Maya [vassal letter],020,akk-x-mbperi:ana[to]PRP akk-x-mbperi:mātu[land]N akk-x-mbperi:kīma[like]PRP akk-x-mbperi:arhiš[quickly]AV
+aemw/amarna/P271060,EA 217. About Maya [vassal letter],021,akk-x-mbperi:awīlu[man]N akk-x-mbperi:ša[that]REL akk-x-mbperi:lā[not]MOD akk-x-mbperi:šemû[hear]V
+aemw/amarna/P271060,EA 217. About Maya [vassal letter],022,akk-x-mbperi:ana[to]PRP akk-x-mbperi:Maya[1]PN akk-x-mbperi:šunu[they]IP akk-x-mbperi:mâtu[die]V
+=======
+aemw/amarna/P271060,EA 217. About Maya [vassal letter],001,akk-x-mbperi:šarru[king]N akk-x-mbperi:bēlu[lord]N
+aemw/amarna/P271060,EA 217. About Maya [vassal letter],002,
+aemw/amarna/P271060,EA 217. About Maya [vassal letter],003,
+aemw/amarna/P271060,EA 217. About Maya [vassal letter],004,akk-x-mbperi:wardu[slave]N akk-x-mbperi:šēpu[foot]N
+aemw/amarna/P271060,EA 217. About Maya [vassal letter],005,akk-x-mbperi:šarru[king]N akk-x-mbperi:bēlu[lord]N
+aemw/amarna/P271060,EA 217. About Maya [vassal letter],006,
+aemw/amarna/P271060,EA 217. About Maya [vassal letter],007,
+aemw/amarna/P271060,EA 217. About Maya [vassal letter],008,akk-x-mbperi:gabbu[totality]N akk-x-mbperi:awātu[word]N
+aemw/amarna/P271060,EA 217. About Maya [vassal letter],009,akk-x-mbperi:šarru[king]N akk-x-mbperi:bēlu[lord]N
+aemw/amarna/P271060,EA 217. About Maya [vassal letter],010,
+aemw/amarna/P271060,EA 217. About Maya [vassal letter],011,akk-x-mbperi:gabbu[totality]N
+aemw/amarna/P271060,EA 217. About Maya [vassal letter],012,akk-x-mbperi:šarru[king]N akk-x-mbperi:bēlu[lord]N
+aemw/amarna/P271060,EA 217. About Maya [vassal letter],013,
+aemw/amarna/P271060,EA 217. About Maya [vassal letter],014,akk-x-mbperi:kalbu[dog]N
+aemw/amarna/P271060,EA 217. About Maya [vassal letter],015,
+aemw/amarna/P271060,EA 217. About Maya [vassal letter],016,akk-x-mbperi:rābiṣu[bailiff]N
+aemw/amarna/P271060,EA 217. About Maya [vassal letter],017,akk-x-mbperi:šarru[king]N akk-x-mbperi:bēlu[lord]N
+aemw/amarna/P271060,EA 217. About Maya [vassal letter],018,
+aemw/amarna/P271060,EA 217. About Maya [vassal letter],019,akk-x-mbperi:šarru[king]N akk-x-mbperi:bēlu[lord]N akk-x-mbperi:ṣābu[people]N
+aemw/amarna/P271060,EA 217. About Maya [vassal letter],020,akk-x-mbperi:mātu[land]N
+aemw/amarna/P271060,EA 217. About Maya [vassal letter],021,akk-x-mbperi:awīlu[man]N
+aemw/amarna/P271060,EA 217. About Maya [vassal letter],022,
+>>>>>>> d524642d5275e5016007339cafda4e021ecb17ba

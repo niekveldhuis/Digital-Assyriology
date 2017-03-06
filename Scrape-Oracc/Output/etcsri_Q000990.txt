@@ -1,0 +1,27 @@
+id_text,text_name,version,l_no,text
+etcsri/Q000990,Amar-Suen 17,,1,sux:Nanna[1]DN
+etcsri/Q000990,Amar-Suen 17,,2,sux:Karzida[1]SN
+etcsri/Q000990,Amar-Suen 17,,3,sux:lugal[king]N
+etcsri/Q000990,Amar-Suen 17,,4,sux:Amarsuenak[1]RN
+etcsri/Q000990,Amar-Suen 17,,5,sux:Nibru[1]SN
+etcsri/Q000990,Amar-Suen 17,,6,sux:Enlil[1]DN
+etcsri/Q000990,Amar-Suen 17,,7,sux:mu[name]N sux:pad[find]V/t
+etcsri/Q000990,Amar-Suen 17,,8,sux:saŋus[constant]V/i
+etcsri/Q000990,Amar-Suen 17,,9,sux:e[house]N sux:Enlil[1]DN
+etcsri/Q000990,Amar-Suen 17,,10,sux:diŋir[deity]N sux:zid[right]V/i sux:kalam[land]N
+etcsri/Q000990,Amar-Suen 17,,11,sux:lugal[king]N sux:Urim[1]SN
+etcsri/Q000990,Amar-Suen 17,,12,sux:lugal[king]N sux:anubda[quarter]N sux:limmu[four]NU
+etcsri/Q000990,Amar-Suen 17,,13,sux:ud[sun]N sux:ul[distant]V/i
+etcsri/Q000990,Amar-Suen 17,,14,sux:Karzida[1]SN
+etcsri/Q000990,Amar-Suen 17,,15,sux:ŋipar[cloister]N sux:du[build]V/t
+etcsri/Q000990,Amar-Suen 17,,16,sux:en[priest]N sux:til[live]V/i
+etcsri/Q000990,Amar-Suen 17,,17,sux:Amarsuenak[1]RN
+etcsri/Q000990,Amar-Suen 17,,18,sux:dumu[child]N sux:ki[place]N sux:aŋ[measure]V/t sux:Nanna[1]DN
+etcsri/Q000990,Amar-Suen 17,,19,sux:Nanna[1]DN
+etcsri/Q000990,Amar-Suen 17,,20,sux:ki[place]N sux:aŋ[measure]V/t
+etcsri/Q000990,Amar-Suen 17,,21,sux:Karzida[1]SN
+etcsri/Q000990,Amar-Suen 17,,22,sux:ŋipar[cloister]N sux:du[build]V/t
+etcsri/Q000990,Amar-Suen 17,,23,sux:Enagazidanak[1]PN
+etcsri/Q000990,Amar-Suen 17,,24,sux:en[priest]N sux:ki[place]N sux:aŋ[measure]V/t
+etcsri/Q000990,Amar-Suen 17,,25,sux:kur[enter]V/i
+etcsri/Q000990,Amar-Suen 17,,26,sux:Amarsuenak[1]RN

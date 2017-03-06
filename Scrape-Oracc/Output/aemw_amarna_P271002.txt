@@ -1,0 +1,48 @@
+id_text,text_name,l_no,text
+<<<<<<< HEAD
+aemw/amarna/P271002,EA 293. Always on the watch [vassal letter],001,akk-x-mbperi:ana[to]PRP akk-x-mbperi:šarru[king]N akk-x-mbperi:bēlu[lord]N
+aemw/amarna/P271002,EA 293. Always on the watch [vassal letter],002,akk-x-mbperi:ilu[god]N akk-x-mbperi:Šamaš[1]DN akk-x-mbperi:qabû[say]V
+aemw/amarna/P271002,EA 293. Always on the watch [vassal letter],003,akk-x-mbperi:umma[saying]PRP akk-x-mbperi:Baʾlu-dani[1]PN akk-x-mbperi:wardu[slave]N
+aemw/amarna/P271002,EA 293. Always on the watch [vassal letter],004,akk-x-mbperi:eperu[earth]N akk-x-mbperi:ša[of]DET akk-x-mbperi:šēpu[foot]N
+aemw/amarna/P271002,EA 293. Always on the watch [vassal letter],005,akk-x-mbperi:ana[to]PRP akk-x-mbperi:šēpu[foot]N akk-x-mbperi:šarru[king]N akk-x-mbperi:bēlu[lord]N
+aemw/amarna/P271002,EA 293. Always on the watch [vassal letter],006,akk-x-mbperi:ilu[god]N akk-x-mbperi:Šamaš[1]DN
+aemw/amarna/P271002,EA 293. Always on the watch [vassal letter],007,akk-x-mbperi:maqātu[fall]V
+aemw/amarna/P271002,EA 293. Always on the watch [vassal letter],008,akk-x-mbperi:šemû[hear]V akk-x-mbperi:awātu[word]N
+aemw/amarna/P271002,EA 293. Always on the watch [vassal letter],009,akk-x-mbperi:ša[that]REL akk-x-mbperi:šapāru[send]V akk-x-mbperi:šarru[king]N akk-x-mbperi:bēlu[lord]N
+aemw/amarna/P271002,EA 293. Always on the watch [vassal letter],010,akk-x-mbperi:ana[to]PRP akk-x-mbperi:wardu[slave]N akk-x-mbperi:naṣāru[guard]V
+aemw/amarna/P271002,EA 293. Always on the watch [vassal letter],011,akk-x-mbperi:ašru[place]N akk-x-mbperi:šarru[king]N akk-x-mbperi:ša[that]REL akk-x-mbperi:itti[with]PRP
+aemw/amarna/P271002,EA 293. Always on the watch [vassal letter],012,akk-x-mbperi:anumma[now]AV akk-x-mbperi:naṣāru[guard]V
+aemw/amarna/P271002,EA 293. Always on the watch [vassal letter],013,akk-x-mbperi:ūmu[day]N akk-x-mbperi:u[and]CNJ akk-x-mbperi:mūšu[night]N
+aemw/amarna/P271002,EA 293. Always on the watch [vassal letter],014,akk-x-mbperi:inūma[when]SBJ
+aemw/amarna/P271002,EA 293. Always on the watch [vassal letter],015,akk-x-mbperi:nakru[strange-one]N akk-x-mbperi:šarru[king]N akk-x-mbperi:bēlu[lord]N
+aemw/amarna/P271002,EA 293. Always on the watch [vassal letter],016,akk-x-mbperi:awīlu[man]N akk-x-mbperi:hāpiru[(class-of)-vagrant]N akk-x-mbperi:u[and]CNJ akk-x-mbperi:wardu[slave]N akk-x-mbperi:kittu[steadiness]N
+aemw/amarna/P271002,EA 293. Always on the watch [vassal letter],017,akk-x-mbperi:rābiṣu[bailiff]N akk-x-mbperi:anumma[now]AV
+aemw/amarna/P271002,EA 293. Always on the watch [vassal letter],018,akk-x-mbperi:ašru[place]N
+aemw/amarna/P271002,EA 293. Always on the watch [vassal letter],019,akk-x-mbperi:kašādu[reach]V
+aemw/amarna/P271002,EA 293. Always on the watch [vassal letter],020,akk-x-mbperi:itti[with]PRP
+aemw/amarna/P271002,EA 293. Always on the watch [vassal letter],021,akk-x-mbperi:ana[to]PRP akk-x-mbperi:šarru[king]N akk-x-mbperi:bēlu[lord]N
+aemw/amarna/P271002,EA 293. Always on the watch [vassal letter],022,akk-x-mbperi:adi[until]PRP akk-x-mbperi:kašdu[achieved]AJ
+=======
+aemw/amarna/P271002,EA 293. Always on the watch [vassal letter],001,akk-x-mbperi:šarru[king]N akk-x-mbperi:bēlu[lord]N
+aemw/amarna/P271002,EA 293. Always on the watch [vassal letter],002,akk-x-mbperi:ilu[god]N
+aemw/amarna/P271002,EA 293. Always on the watch [vassal letter],003,akk-x-mbperi:wardu[slave]N
+aemw/amarna/P271002,EA 293. Always on the watch [vassal letter],004,akk-x-mbperi:eperu[earth]N akk-x-mbperi:šēpu[foot]N
+aemw/amarna/P271002,EA 293. Always on the watch [vassal letter],005,akk-x-mbperi:šēpu[foot]N akk-x-mbperi:šarru[king]N akk-x-mbperi:bēlu[lord]N
+aemw/amarna/P271002,EA 293. Always on the watch [vassal letter],006,akk-x-mbperi:ilu[god]N
+aemw/amarna/P271002,EA 293. Always on the watch [vassal letter],007,
+aemw/amarna/P271002,EA 293. Always on the watch [vassal letter],008,akk-x-mbperi:awātu[word]N
+aemw/amarna/P271002,EA 293. Always on the watch [vassal letter],009,akk-x-mbperi:šarru[king]N akk-x-mbperi:bēlu[lord]N
+aemw/amarna/P271002,EA 293. Always on the watch [vassal letter],010,akk-x-mbperi:wardu[slave]N
+aemw/amarna/P271002,EA 293. Always on the watch [vassal letter],011,akk-x-mbperi:ašru[place]N akk-x-mbperi:šarru[king]N
+aemw/amarna/P271002,EA 293. Always on the watch [vassal letter],012,
+aemw/amarna/P271002,EA 293. Always on the watch [vassal letter],013,akk-x-mbperi:ūmu[day]N akk-x-mbperi:mūšu[night]N
+aemw/amarna/P271002,EA 293. Always on the watch [vassal letter],014,
+aemw/amarna/P271002,EA 293. Always on the watch [vassal letter],015,akk-x-mbperi:nakru[strange-one]N akk-x-mbperi:šarru[king]N akk-x-mbperi:bēlu[lord]N
+aemw/amarna/P271002,EA 293. Always on the watch [vassal letter],016,akk-x-mbperi:awīlu[man]N akk-x-mbperi:hāpiru[(class-of)-vagrant]N akk-x-mbperi:wardu[slave]N akk-x-mbperi:kittu[steadiness]N
+aemw/amarna/P271002,EA 293. Always on the watch [vassal letter],017,akk-x-mbperi:rābiṣu[bailiff]N
+aemw/amarna/P271002,EA 293. Always on the watch [vassal letter],018,akk-x-mbperi:ašru[place]N
+aemw/amarna/P271002,EA 293. Always on the watch [vassal letter],019,
+aemw/amarna/P271002,EA 293. Always on the watch [vassal letter],020,
+aemw/amarna/P271002,EA 293. Always on the watch [vassal letter],021,akk-x-mbperi:šarru[king]N akk-x-mbperi:bēlu[lord]N
+aemw/amarna/P271002,EA 293. Always on the watch [vassal letter],022,
+>>>>>>> d524642d5275e5016007339cafda4e021ecb17ba

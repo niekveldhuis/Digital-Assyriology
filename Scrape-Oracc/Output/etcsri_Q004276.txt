@@ -1,0 +1,11 @@
+id_text,text_name,version,l_no,text
+etcsri/Q004276,Idattu 1,,1,sux:Idattu[1]RN
+etcsri/Q004276,Idattu 1,,2,sux:dumu[child]N sux:Ebarat[1]RN
+etcsri/Q004276,Idattu 1,,3,sux:dumu[child]N sux:Kindattu[1]RN
+etcsri/Q004276,Idattu 1,,4,sux:sipad[shepherd]N sux:Utu[1]DN
+etcsri/Q004276,Idattu 1,,5,sux:ki[place]N sux:aŋ[measure]V/t sux:Inanak[1]DN
+etcsri/Q004276,Idattu 1,,6,sux:lugal[king]N sux:Anšan[1]SN
+etcsri/Q004276,Idattu 1,,7,sux:lugal[king]N sux:Šimaški[1]EN sux:u[and]CNJ sux:Elam[1]GN
+etcsri/Q004276,Idattu 1,,8,sux:Kitenrakittapi[1]PN
+etcsri/Q004276,Idattu 1,,9,sux:sukkalmah[official]N sux:Elam[1]GN sux:u[and]CNJ sux:teppir[scribe]N
+etcsri/Q004276,Idattu 1,,10,sux:arad[slave]N

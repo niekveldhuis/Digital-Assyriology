@@ -1,0 +1,4 @@
+id_text,text_name,l_no,text
+riao/Q005942,Tiglath-pileser I 17,1,ēkallu[palace]N Tukulti-apil-Ešarra_I[Tiglath-pileser-I;-king-of-Assyria]RN šarru[king]N mātu[land]N Aššur[Assyria]GN kāšidu[conqueror]N
+riao/Q005942,Tiglath-pileser I 17,2,ištu[from]PRP Babili[Babylon]SN ša[of]DET mātu[land]N Akkad[1]GN adi[until]PRP šadû[mountain]N Labnana[1]GN
+riao/Q005942,Tiglath-pileser I 17,3,adi[until]PRP Tamtim-rabitim[Great-Sea]WN ša[of]DET Amurru[1]GN u[and]CNJ Tamtim-rabitim[Great-Sea]WN

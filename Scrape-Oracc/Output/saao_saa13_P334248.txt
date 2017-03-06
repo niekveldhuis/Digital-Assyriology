@@ -1,0 +1,34 @@
+id_text,text_name,l_no,text
+saao/saa13/P334248,SAA 13 086. Report of Arrival of Horses: Sivan 2 (ABL 0372),o 1,ana[to]PRP šarru[king]N bēlu[lord]N
+saao/saa13/P334248,SAA 13 086. Report of Arrival of Horses: Sivan 2 (ABL 0372),o 2,ardu[slave]N Nabu-šumu-iddina[1]PN
+saao/saa13/P334248,SAA 13 086. Report of Arrival of Horses: Sivan 2 (ABL 0372),o 3,lū[may]MOD šulmu[completeness]N ana[to]PRP šarru[king]N
+saao/saa13/P334248,SAA 13 086. Report of Arrival of Horses: Sivan 2 (ABL 0372),o 4,bēlu[lord]N adanniš[very-much]AV adanniš[very-much]AV
+saao/saa13/P334248,SAA 13 086. Report of Arrival of Horses: Sivan 2 (ABL 0372),o 5,Nabu[1]DN Marduk[1]DN ana[to]PRP šarru[king]N
+saao/saa13/P334248,SAA 13 086. Report of Arrival of Horses: Sivan 2 (ABL 0372),o 6,bēlu[lord]N karābu[pray]V
+saao/saa13/P334248,SAA 13 086. Report of Arrival of Horses: Sivan 2 (ABL 0372),o 7,sisû[horse]N Kusaya[Kushite]EN
+saao/saa13/P334248,SAA 13 086. Report of Arrival of Horses: Sivan 2 (ABL 0372),o 8,sisû[horse]N ṣibtu[seizure]N
+saao/saa13/P334248,SAA 13 086. Report of Arrival of Horses: Sivan 2 (ABL 0372),o 9,ša[of]DET Kusaya[Kushite]EN
+saao/saa13/P334248,SAA 13 086. Report of Arrival of Horses: Sivan 2 (ABL 0372),o 10,gimru[totality]N sisû[horse]N ša[of]DET nīru[yoke]N
+saao/saa13/P334248,SAA 13 086. Report of Arrival of Horses: Sivan 2 (ABL 0372),o 11,sisû[horse]N ša[of]DET pēthallu[riding-horse]N
+saao/saa13/P334248,SAA 13 086. Report of Arrival of Horses: Sivan 2 (ABL 0372),o 12,gimru[totality]N sisû[horse]N
+saao/saa13/P334248,SAA 13 086. Report of Arrival of Horses: Sivan 2 (ABL 0372),o 13,kūdanu[mule]N
+saao/saa13/P334248,SAA 13 086. Report of Arrival of Horses: Sivan 2 (ABL 0372),o 14,gimru[totality]N Qarne[1]GN
+saao/saa13/P334248,SAA 13 086. Report of Arrival of Horses: Sivan 2 (ABL 0372),r 1,sisû[horse]N Kusaya[Kushite]EN
+saao/saa13/P334248,SAA 13 086. Report of Arrival of Horses: Sivan 2 (ABL 0372),r 2,ṣibtu[seizure]N ša[of]DET sisû[horse]N
+saao/saa13/P334248,SAA 13 086. Report of Arrival of Horses: Sivan 2 (ABL 0372),r 3,Kusaya[Kushite]EN
+saao/saa13/P334248,SAA 13 086. Report of Arrival of Horses: Sivan 2 (ABL 0372),r 4,gimru[totality]N ša[of]DET nīru[yoke]N
+saao/saa13/P334248,SAA 13 086. Report of Arrival of Horses: Sivan 2 (ABL 0372),r 5,sisû[horse]N ša[of]DET pēthallu[riding-horse]N
+saao/saa13/P334248,SAA 13 086. Report of Arrival of Horses: Sivan 2 (ABL 0372),r 6,gimru[totality]N sisû[horse]N
+saao/saa13/P334248,SAA 13 086. Report of Arrival of Horses: Sivan 2 (ABL 0372),r 7,kūdanu[mule]N
+saao/saa13/P334248,SAA 13 086. Report of Arrival of Horses: Sivan 2 (ABL 0372),r 8,gimru[totality]N Dana[1]GN
+saao/saa13/P334248,SAA 13 086. Report of Arrival of Horses: Sivan 2 (ABL 0372),r 9,sisû[horse]N Kusaya[Kushite]EN
+saao/saa13/P334248,SAA 13 086. Report of Arrival of Horses: Sivan 2 (ABL 0372),r 10,sisû[horse]N ša[of]DET pēthallu[riding-horse]N
+saao/saa13/P334248,SAA 13 086. Report of Arrival of Horses: Sivan 2 (ABL 0372),r 11,gimru[totality]N Kullania[Calneh]GN
+saao/saa13/P334248,SAA 13 086. Report of Arrival of Horses: Sivan 2 (ABL 0372),r 12,sisû[horse]N ša[of]DET pēthallu[riding-horse]N kūdanu[mule]N
+saao/saa13/P334248,SAA 13 086. Report of Arrival of Horses: Sivan 2 (ABL 0372),r 13,gimru[totality]N Arpadda[Arpad]GN
+saao/saa13/P334248,SAA 13 086. Report of Arrival of Horses: Sivan 2 (ABL 0372),r 14,lā[not]MOD gamru[complete]AJ
+saao/saa13/P334248,SAA 13 086. Report of Arrival of Horses: Sivan 2 (ABL 0372),r 15,sisû[horse]N ša[of]DET pēthallu[riding-horse]N
+saao/saa13/P334248,SAA 13 086. Report of Arrival of Horses: Sivan 2 (ABL 0372),r 16,kūdanu[mule]N
+saao/saa13/P334248,SAA 13 086. Report of Arrival of Horses: Sivan 2 (ABL 0372),r 17,gimru[totality]N Isana[1]GN
+saao/saa13/P334248,SAA 13 086. Report of Arrival of Horses: Sivan 2 (ABL 0372),e. 1,gimru[totality]N sisû[horse]N Kusaya[Kushite]EN meʾatu[(one)-hundred]NU sisû[horse]N ša[of]DET pēthallu[riding-horse]N
+saao/saa13/P334248,SAA 13 086. Report of Arrival of Horses: Sivan 2 (ABL 0372),e. 2,gimru[totality]N meʾatu[(one)-hundred]NU sisû[horse]N kūdanu[mule]N gimru[totality]N meʾatu[(one)-hundred]NU erēbu[enter]V

@@ -1,0 +1,28 @@
+id_text,text_name,l_no,text
+saao/saa10/P334217,SAA 10 347. Observing and Interpreting an Eclipse of the Moon (ABL 0337) [miscellaneous],o 1,ana[to]PRP šarru[king]N bēlu[lord]N ardu[slave]N Mar-Issar[1]PN
+saao/saa10/P334217,SAA 10 347. Observing and Interpreting an Eclipse of the Moon (ABL 0337) [miscellaneous],o 2,lū[may]MOD šulmu[completeness]N ana[to]PRP šarru[king]N bēlu[lord]N Nabu[1]DN u[and]CNJ Marduk[1]DN
+saao/saa10/P334217,SAA 10 347. Observing and Interpreting an Eclipse of the Moon (ABL 0337) [miscellaneous],o 3,ana[to]PRP šarru[king]N bēlu[lord]N karābu[pray]V ūmu[day]N arku[long]AJ
+saao/saa10/P334217,SAA 10 347. Observing and Interpreting an Eclipse of the Moon (ABL 0337) [miscellaneous],o 4,ṭūbu[goodness]N šīru[flesh]N u[and]CNJ hūdu[happiness]N libbu[interior]N ilu[god]N rabû[big]AJ
+saao/saa10/P334217,SAA 10 347. Observing and Interpreting an Eclipse of the Moon (ABL 0337) [miscellaneous],o 5,ana[to]PRP šarru[king]N bēlu[lord]N šarāku[present]V ina[in]PRP muhhu[skull]N antalû[eclipse]N Sin[1]DN
+saao/saa10/P334217,SAA 10 347. Observing and Interpreting an Eclipse of the Moon (ABL 0337) [miscellaneous],o 6,ša[that]REL šarru[king]N bēlu[lord]N šapāru[send]V ina[in]PRP Akkad[1]GN
+saao/saa10/P334217,SAA 10 347. Observing and Interpreting an Eclipse of the Moon (ABL 0337) [miscellaneous],o 7,Barsip[Borsippa]GN u[and]CNJ Nippur[1]GN maṣṣartu[observation]N
+saao/saa10/P334217,SAA 10 347. Observing and Interpreting an Eclipse of the Moon (ABL 0337) [miscellaneous],o 8,naṣāru[guard]V kī[like]PRP ša[that]REL ina[in]PRP libbu[interior]N Akkad[1]GN
+saao/saa10/P334217,SAA 10 347. Observing and Interpreting an Eclipse of the Moon (ABL 0337) [miscellaneous],o 9,amāru[see]V ahāmiš[one-another]PRP apālu[pay]V lilissu[kettledrum]N erû[copper]N
+saao/saa10/P334217,SAA 10 347. Observing and Interpreting an Eclipse of the Moon (ABL 0337) [miscellaneous],o 10,šakānu[put]V tādirtu[darkening-of-mood]N
+saao/saa10/P334217,SAA 10 347. Observing and Interpreting an Eclipse of the Moon (ABL 0337) [miscellaneous],r 2',antalû[eclipse]N
+saao/saa10/P334217,SAA 10 347. Observing and Interpreting an Eclipse of the Moon (ABL 0337) [miscellaneous],r 3',ša[that]REL šakānu[put]V pišru[release]N
+saao/saa10/P334217,SAA 10 347. Observing and Interpreting an Eclipse of the Moon (ABL 0337) [miscellaneous],r 4',ša[that]REL ina[in]PRP ṭuppu[tablet]N šaṭru[written]AJ
+saao/saa10/P334217,SAA 10 347. Observing and Interpreting an Eclipse of the Moon (ABL 0337) [miscellaneous],r 5',nasāhu[tear-out]V išti[with]PRP egertu[inscribed-tablet]N
+saao/saa10/P334217,SAA 10 347. Observing and Interpreting an Eclipse of the Moon (ABL 0337) [miscellaneous],r 6',annû[this]DP ana[to]PRP šarru[king]N bēlu[lord]N wabālu[bring]V
+saao/saa10/P334217,SAA 10 347. Observing and Interpreting an Eclipse of the Moon (ABL 0337) [miscellaneous],r 7',u[and]CNJ kī[like]PRP ša[that]REL šarru[king]N bēlu[lord]N šapāru[send]V
+saao/saa10/P334217,SAA 10 347. Observing and Interpreting an Eclipse of the Moon (ABL 0337) [miscellaneous],r 8',maṣṣartu[observation]N ša[of]DET antalû[eclipse]N Šamaš[1]DN naṣāru[guard]V
+saao/saa10/P334217,SAA 10 347. Observing and Interpreting an Eclipse of the Moon (ABL 0337) [miscellaneous],r 9',šumma[if]MOD šakānu[put]V šumma[if]MOD lā[not]MOD šakānu[put]V
+saao/saa10/P334217,SAA 10 347. Observing and Interpreting an Eclipse of the Moon (ABL 0337) [miscellaneous],r 10',mīnu[what?]QP ša[that]REL šīti[she]IP ana[to]PRP šarru[king]N bēlu[lord]N
+saao/saa10/P334217,SAA 10 347. Observing and Interpreting an Eclipse of the Moon (ABL 0337) [miscellaneous],r 11',šapāru[send]V antalû[eclipse]N Sin[1]DN annû[this]DP
+saao/saa10/P334217,SAA 10 347. Observing and Interpreting an Eclipse of the Moon (ABL 0337) [miscellaneous],r 12',ša[that]REL šakānu[put]V mātu[land]N lapātu[touch]V
+saao/saa10/P334217,SAA 10 347. Observing and Interpreting an Eclipse of the Moon (ABL 0337) [miscellaneous],r 13',lumnu[evil]N gabbu[totality]N ina[in]PRP muhhu[skull]N Mat-Amurri[Westland]GN
+saao/saa10/P334217,SAA 10 347. Observing and Interpreting an Eclipse of the Moon (ABL 0337) [miscellaneous],r 14',kamāru[pile-up]V Mat-Amurri[Westland]GN
+saao/saa10/P334217,SAA 10 347. Observing and Interpreting an Eclipse of the Moon (ABL 0337) [miscellaneous],r 15',Mat-Hatti[Upper-Syria]GN šanîš[otherwise]AV Kaldu[Chaldea]GN
+saao/saa10/P334217,SAA 10 347. Observing and Interpreting an Eclipse of the Moon (ABL 0337) [miscellaneous],r 16',ana[to]PRP šarru[king]N bēlu[lord]N šulmu[completeness]N u[and]CNJ ana[to]PRP
+saao/saa10/P334217,SAA 10 347. Observing and Interpreting an Eclipse of the Moon (ABL 0337) [miscellaneous],r 17',maṣṣartu[observation]N lū[may]MOD lā[not]MOD šâṭu[despise]V
+saao/saa10/P334217,SAA 10 347. Observing and Interpreting an Eclipse of the Moon (ABL 0337) [miscellaneous],r 18',namburbû[apotropaic-ritual]N ana[to]PRP šarru[king]N bēlu[lord]N

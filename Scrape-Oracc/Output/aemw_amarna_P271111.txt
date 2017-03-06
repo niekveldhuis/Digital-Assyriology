@@ -1,0 +1,92 @@
+id_text,text_name,l_no,text
+<<<<<<< HEAD
+aemw/amarna/P271111,EA 095. Men from Meluḫḫa [vassal letter],001,akk-x-mbperi:ana[to]PRP akk-x-mbperi:rabû[big-one]N akk-x-mbperi:qabû[say]V
+aemw/amarna/P271111,EA 095. Men from Meluḫḫa [vassal letter],002,akk-x-mbperi:umma[saying]PRP akk-x-mbperi:Rib-Haddi[1]PN akk-x-mbperi:ana[to]PRP akk-x-mbperi:šēpu[foot]N
+aemw/amarna/P271111,EA 095. Men from Meluḫḫa [vassal letter],003,akk-x-mbperi:maqātu[fall]V akk-x-mbperi:Amana[Amon]DN akk-x-mbperi:u[and]CNJ
+aemw/amarna/P271111,EA 095. Men from Meluḫḫa [vassal letter],004,akk-x-mbperi:bēltu[lady]N akk-x-mbperi:ša[of]DET akk-x-mbperi:Gublu[Byblos]GN
+aemw/amarna/P271111,EA 095. Men from Meluḫḫa [vassal letter],005,akk-x-mbperi:nadānu[give]V akk-x-mbperi:bāštu[dignity]N akk-x-mbperi:ina[in]PRP akk-x-mbperi:pānu[front]N
+aemw/amarna/P271111,EA 095. Men from Meluḫḫa [vassal letter],006,akk-x-mbperi:šarru[king]N akk-x-mbperi:bēlu[lord]N
+aemw/amarna/P271111,EA 095. Men from Meluḫḫa [vassal letter],007,akk-x-mbperi:inūma[when]SBJ akk-x-mbperi:šapāru[send]V akk-x-mbperi:ana[to]PRP akk-x-mbperi:yâšim[to-me]IP
+aemw/amarna/P271111,EA 095. Men from Meluḫḫa [vassal letter],008,akk-x-mbperi:bēlu[lord]N
+aemw/amarna/P271111,EA 095. Men from Meluḫḫa [vassal letter],012,akk-x-mbperi:ana[to]PRP akk-x-mbperi:awīlu[man]N akk-x-mbperi:ṣābu[people]N
+aemw/amarna/P271111,EA 095. Men from Meluḫḫa [vassal letter],013,akk-x-mbperi:ana[to]PRP akk-x-mbperi:marṣu[sick]AJ
+aemw/amarna/P271111,EA 095. Men from Meluḫḫa [vassal letter],014,akk-x-mbperi:u[and]CNJ akk-x-mbperi:šapāru[send]V
+aemw/amarna/P271111,EA 095. Men from Meluḫḫa [vassal letter],015,akk-x-mbperi:u[and]CNJ akk-x-mbperi:ana[to]PRP akk-x-mbperi:yâšim[to-me]IP akk-x-mbperi:kašādu[reach]V
+aemw/amarna/P271111,EA 095. Men from Meluḫḫa [vassal letter],016,akk-x-mbperi:u[and]CNJ akk-x-mbperi:ṣābu[people]N akk-x-mbperi:piṭṭātu[archers]N
+aemw/amarna/P271111,EA 095. Men from Meluḫḫa [vassal letter],017,akk-x-mbperi:u[and]CNJ akk-x-mbperi:kašādu[reach]V akk-x-mbperi:ina[in]PRP akk-x-mbperi:ṣābu[people]N
+aemw/amarna/P271111,EA 095. Men from Meluḫḫa [vassal letter],018,akk-x-mbperi:piṭṭātu[archers]N akk-x-mbperi:u[and]CNJ akk-x-mbperi:leqû[take]V akk-x-mbperi:ālu[city]N
+aemw/amarna/P271111,EA 095. Men from Meluḫḫa [vassal letter],019,akk-x-mbperi:annikīam[here]AV akk-x-mbperi:u[and]CNJ akk-x-mbperi:edû[know]V
+aemw/amarna/P271111,EA 095. Men from Meluḫḫa [vassal letter],020,akk-x-mbperi:kī[like]PRP akk-x-mbperi:lā[not]MOD akk-x-mbperi:erēbu[enter]V
+aemw/amarna/P271111,EA 095. Men from Meluḫḫa [vassal letter],021,akk-x-mbperi:ana[to]PRP akk-x-mbperi:Amurru[1]GN akk-x-mbperi:šemû[hear]V
+aemw/amarna/P271111,EA 095. Men from Meluḫḫa [vassal letter],022,akk-x-mbperi:yâšim[to-me]IP akk-x-mbperi:u[and]CNJ
+aemw/amarna/P271111,EA 095. Men from Meluḫḫa [vassal letter],023,akk-x-mbperi:annikīam[here]AV akk-x-mbperi:u[and]CNJ akk-x-mbperi:ul[not]MOD
+aemw/amarna/P271111,EA 095. Men from Meluḫḫa [vassal letter],024,akk-x-mbperi:kī[like]PRP akk-x-mbperi:pānānu[previously]AV akk-x-mbperi:Abdi-Aširte[1]PN
+aemw/amarna/P271111,EA 095. Men from Meluḫḫa [vassal letter],025,akk-x-mbperi:erēbu[enter]V
+aemw/amarna/P271111,EA 095. Men from Meluḫḫa [vassal letter],026,akk-x-mbperi:ana[to]PRP akk-x-mbperi:mannu[who?]QP akk-x-mbperi:alāku[go]V
+aemw/amarna/P271111,EA 095. Men from Meluḫḫa [vassal letter],027,akk-x-mbperi:anāku[I]IP akk-x-mbperi:šarru[king]N akk-x-mbperi:Mittani[1]GN
+aemw/amarna/P271111,EA 095. Men from Meluḫḫa [vassal letter],028,akk-x-mbperi:Amurru[1]GN akk-x-mbperi:u[and]CNJ akk-x-mbperi:dagālu[see]V
+aemw/amarna/P271111,EA 095. Men from Meluḫḫa [vassal letter],029,akk-x-mbperi:u[and]CNJ akk-x-mbperi:qabû[say]V akk-x-mbperi:mīnu[what?]QP
+aemw/amarna/P271111,EA 095. Men from Meluḫḫa [vassal letter],030,akk-x-mbperi:mātu[land]N akk-x-mbperi:annû[this]DP akk-x-mbperi:mādu[many]AJ
+aemw/amarna/P271111,EA 095. Men from Meluḫḫa [vassal letter],031,akk-x-mbperi:mātu[land]N akk-x-mbperi:ana[to]PRP akk-x-mbperi:yâšim[to-me]IP akk-x-mbperi:wašāru[sink-down]V
+aemw/amarna/P271111,EA 095. Men from Meluḫḫa [vassal letter],032,akk-x-mbperi:šarru[king]N akk-x-mbperi:Miṣru[Egypt]GN akk-x-mbperi:rābiṣu[bailiff]N
+aemw/amarna/P271111,EA 095. Men from Meluḫḫa [vassal letter],033,akk-x-mbperi:u[and]CNJ akk-x-mbperi:leqû[take]V akk-x-mbperi:ana[to]PRP akk-x-mbperi:šâšu[to-him]IP
+aemw/amarna/P271111,EA 095. Men from Meluḫḫa [vassal letter],034,akk-x-mbperi:šanītu[something-other]N akk-x-mbperi:kašādu[reach]V akk-x-mbperi:attā[you]IP
+aemw/amarna/P271111,EA 095. Men from Meluḫḫa [vassal letter],035,akk-x-mbperi:kīma[like]PRP akk-x-mbperi:arhiš[quickly]AV akk-x-mbperi:u[and]CNJ akk-x-mbperi:leqû[take]V
+aemw/amarna/P271111,EA 095. Men from Meluḫḫa [vassal letter],036,akk-x-mbperi:gabbu[totality]N akk-x-mbperi:u[and]CNJ akk-x-mbperi:târu[turn]V
+aemw/amarna/P271111,EA 095. Men from Meluḫḫa [vassal letter],037,akk-x-mbperi:u[and]CNJ akk-x-mbperi:leqû[take]V akk-x-mbperi:ṣābu[people]N akk-x-mbperi:piṭṭātu[archers]N
+aemw/amarna/P271111,EA 095. Men from Meluḫḫa [vassal letter],038,akk-x-mbperi:warkānu[later]AV akk-x-mbperi:šanītu[something-other]N akk-x-mbperi:leqû[take]V
+aemw/amarna/P271111,EA 095. Men from Meluḫḫa [vassal letter],039,akk-x-mbperi:u[and]CNJ akk-x-mbperi:leqû[take]V akk-x-mbperi:meʾatu[(one)-hundred]N akk-x-mbperi:awīlu[man]N
+aemw/amarna/P271111,EA 095. Men from Meluḫḫa [vassal letter],040,akk-x-mbperi:Meluhha[Ethiopia]GN akk-x-mbperi:u[and]CNJ akk-x-mbperi:edû[know]V akk-x-mbperi:inūma[when]SBJ
+aemw/amarna/P271111,EA 095. Men from Meluḫḫa [vassal letter],041,akk-x-mbperi:Abdi-Aširte[1]PN akk-x-mbperi:marṣu[sick]AJ akk-x-mbperi:magal[very-(much)]AV
+aemw/amarna/P271111,EA 095. Men from Meluḫḫa [vassal letter],042,akk-x-mbperi:mīnu[what?]QP akk-x-mbperi:edû[know]V akk-x-mbperi:inūma[when]SBJ akk-x-mbperi:mâtu[die]V
+aemw/amarna/P271111,EA 095. Men from Meluḫḫa [vassal letter],043,akk-x-mbperi:inūma[when]SBJ akk-x-mbperi:dannu[strong]AJ akk-x-mbperi:u[and]CNJ akk-x-mbperi:turru[turned]AJ
+aemw/amarna/P271111,EA 095. Men from Meluḫḫa [vassal letter],044,akk-x-mbperi:Šigatu[1]GN akk-x-mbperi:u[and]CNJ akk-x-mbperi:Ampi[1]GN
+aemw/amarna/P271111,EA 095. Men from Meluḫḫa [vassal letter],045,akk-x-mbperi:u[and]CNJ akk-x-mbperi:Ammiya[1]GN
+aemw/amarna/P271111,EA 095. Men from Meluḫḫa [vassal letter],046,akk-x-mbperi:u[and]CNJ akk-x-mbperi:Baṭruna[1]GN akk-x-mbperi:warki[after]PRP
+aemw/amarna/P271111,EA 095. Men from Meluḫḫa [vassal letter],052,akk-x-mbperi:ul[not]MOD
+=======
+aemw/amarna/P271111,EA 095. Men from Meluḫḫa [vassal letter],001,
+aemw/amarna/P271111,EA 095. Men from Meluḫḫa [vassal letter],002,
+aemw/amarna/P271111,EA 095. Men from Meluḫḫa [vassal letter],003,
+aemw/amarna/P271111,EA 095. Men from Meluḫḫa [vassal letter],004,
+aemw/amarna/P271111,EA 095. Men from Meluḫḫa [vassal letter],005,
+aemw/amarna/P271111,EA 095. Men from Meluḫḫa [vassal letter],006,
+aemw/amarna/P271111,EA 095. Men from Meluḫḫa [vassal letter],007,
+aemw/amarna/P271111,EA 095. Men from Meluḫḫa [vassal letter],008,
+aemw/amarna/P271111,EA 095. Men from Meluḫḫa [vassal letter],012,
+aemw/amarna/P271111,EA 095. Men from Meluḫḫa [vassal letter],013,
+aemw/amarna/P271111,EA 095. Men from Meluḫḫa [vassal letter],014,
+aemw/amarna/P271111,EA 095. Men from Meluḫḫa [vassal letter],015,
+aemw/amarna/P271111,EA 095. Men from Meluḫḫa [vassal letter],016,
+aemw/amarna/P271111,EA 095. Men from Meluḫḫa [vassal letter],017,
+aemw/amarna/P271111,EA 095. Men from Meluḫḫa [vassal letter],018,
+aemw/amarna/P271111,EA 095. Men from Meluḫḫa [vassal letter],019,
+aemw/amarna/P271111,EA 095. Men from Meluḫḫa [vassal letter],020,
+aemw/amarna/P271111,EA 095. Men from Meluḫḫa [vassal letter],021,
+aemw/amarna/P271111,EA 095. Men from Meluḫḫa [vassal letter],022,
+aemw/amarna/P271111,EA 095. Men from Meluḫḫa [vassal letter],023,
+aemw/amarna/P271111,EA 095. Men from Meluḫḫa [vassal letter],024,
+aemw/amarna/P271111,EA 095. Men from Meluḫḫa [vassal letter],025,
+aemw/amarna/P271111,EA 095. Men from Meluḫḫa [vassal letter],026,
+aemw/amarna/P271111,EA 095. Men from Meluḫḫa [vassal letter],027,
+aemw/amarna/P271111,EA 095. Men from Meluḫḫa [vassal letter],028,
+aemw/amarna/P271111,EA 095. Men from Meluḫḫa [vassal letter],029,
+aemw/amarna/P271111,EA 095. Men from Meluḫḫa [vassal letter],030,
+aemw/amarna/P271111,EA 095. Men from Meluḫḫa [vassal letter],031,
+aemw/amarna/P271111,EA 095. Men from Meluḫḫa [vassal letter],032,
+aemw/amarna/P271111,EA 095. Men from Meluḫḫa [vassal letter],033,
+aemw/amarna/P271111,EA 095. Men from Meluḫḫa [vassal letter],034,
+aemw/amarna/P271111,EA 095. Men from Meluḫḫa [vassal letter],035,
+aemw/amarna/P271111,EA 095. Men from Meluḫḫa [vassal letter],036,
+aemw/amarna/P271111,EA 095. Men from Meluḫḫa [vassal letter],037,
+aemw/amarna/P271111,EA 095. Men from Meluḫḫa [vassal letter],038,
+aemw/amarna/P271111,EA 095. Men from Meluḫḫa [vassal letter],039,
+aemw/amarna/P271111,EA 095. Men from Meluḫḫa [vassal letter],040,
+aemw/amarna/P271111,EA 095. Men from Meluḫḫa [vassal letter],041,
+aemw/amarna/P271111,EA 095. Men from Meluḫḫa [vassal letter],042,
+aemw/amarna/P271111,EA 095. Men from Meluḫḫa [vassal letter],043,
+aemw/amarna/P271111,EA 095. Men from Meluḫḫa [vassal letter],044,
+aemw/amarna/P271111,EA 095. Men from Meluḫḫa [vassal letter],045,
+aemw/amarna/P271111,EA 095. Men from Meluḫḫa [vassal letter],046,
+aemw/amarna/P271111,EA 095. Men from Meluḫḫa [vassal letter],052,
+>>>>>>> d524642d5275e5016007339cafda4e021ecb17ba

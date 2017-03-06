@@ -1,0 +1,5 @@
+id_text,text_name,version,l_no,text
+etcsri/Q001301,Anonymous Nippur 47,,1,sux:Inanak[1]DN
+etcsri/Q001301,Anonymous Nippur 47,,2,sux:Sumu[1]PN
+etcsri/Q001301,Anonymous Nippur 47,,3,sux:dam[spouse]N
+etcsri/Q001301,Anonymous Nippur 47,,4,sux:saŋŋa[official]N sux:Enlil[1]DN

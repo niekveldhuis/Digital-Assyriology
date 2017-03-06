@@ -1,0 +1,27 @@
+id_text,text_name,version,l_no,text
+etcsri/Q001021,Ur-Nanše 02,,Upper Text; 1,sux:Urnanše[1]RN
+etcsri/Q001021,Ur-Nanše 02,,Upper Text; 2,sux:lugal[king]N sux:Lagaš[1]SN
+etcsri/Q001021,Ur-Nanše 02,,Upper Text; 3,sux:dumu[child]N sux:Gu-NI.DU[1]PN
+etcsri/Q001021,Ur-Nanše 02,,Upper Text; 4,sux:dumu[child]N sux:Gursar[1]GN
+etcsri/Q001021,Ur-Nanše 02,,Upper Text; 5,sux:e[house]N sux:Ninŋirsuk[1]DN
+etcsri/Q001021,Ur-Nanše 02,,Upper Text; 6,sux:du[build]V/t
+etcsri/Q001021,Ur-Nanše 02,,Upper Text; 7,sux:Abzubanda[1]TN
+etcsri/Q001021,Ur-Nanše 02,,Upper Text; 8,sux:du[build]V/t
+etcsri/Q001021,Ur-Nanše 02,,Upper Text; 9,sux:e[house]N sux:Nanše[1]DN
+etcsri/Q001021,Ur-Nanše 02,,Upper Text; 10,sux:du[build]V/t
+etcsri/Q001021,Ur-Nanše 02,,Lower Text; 1,sux:Urnanše[1]RN
+etcsri/Q001021,Ur-Nanše 02,,Lower Text; 2,sux:lugal[king]N
+etcsri/Q001021,Ur-Nanše 02,,Lower Text; 3,sux:Lagaš[1]SN
+etcsri/Q001021,Ur-Nanše 02,,Lower Text; 4,sux:ma[ship]N sux:Dilmun[1]GN
+etcsri/Q001021,Ur-Nanše 02,,Lower Text; 5,sux:kur[mountain]N
+etcsri/Q001021,Ur-Nanše 02,,Lower Text; 6,sux:gu[neck]N sux:ŋeš[tree]N sux:ŋal[be]V/i
+etcsri/Q001021,Ur-Nanše 02,,Upper Captions; 1,sux:Anita[1]PN
+etcsri/Q001021,Ur-Nanše 02,,Upper Captions; 2,sux:AB-da[1]PN sux:dumu[child]N
+etcsri/Q001021,Ur-Nanše 02,,Upper Captions; 3,sux:Ayakurgal[1]RN sux:dumu[child]N
+etcsri/Q001021,Ur-Nanše 02,,Upper Captions; 4,sux:Lugalezen[1]PN sux:dumu[child]N
+etcsri/Q001021,Ur-Nanše 02,,Upper Captions; 5,sux:Anikura[1]PN sux:dumu[child]N
+etcsri/Q001021,Ur-Nanše 02,,Upper Captions; 6,sux:Mukuršubata[1]PN sux:dumu[child]N
+etcsri/Q001021,Ur-Nanše 02,,Lower Captions; 1,sux:Addatur[1]PN sux:dumu[child]N
+etcsri/Q001021,Ur-Nanše 02,,Lower Captions; 2,sux:Menusura[1]PN sux:dumu[child]N
+etcsri/Q001021,Ur-Nanše 02,,Lower Captions; 3,sux:Anunpad[1]PN sux:dumu[child]N
+etcsri/Q001021,Ur-Nanše 02,,Lower Captions; 4,sux:Balu[1]PN sux:mušlah[singer]N sux:gal[big]V/i

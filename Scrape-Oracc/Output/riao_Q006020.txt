@@ -1,0 +1,23 @@
+id_text,text_name,l_no,text
+riao/Q006020,Adad-nerari II 1,o 1,Adad-narari_II[king-of-Assyria]RN Aššur[Assyria]GN
+riao/Q006020,Adad-nerari II 1,o 2,Aššur[1]DN
+riao/Q006020,Adad-nerari II 1,o 3,Aššur[1]DN Ninurta[1]DN
+riao/Q006020,Adad-nerari II 1,o 5,Aššur-dan_II[king-of-Assyria]RN Aššur[Assyria]GN
+riao/Q006020,Adad-nerari II 1,o 6,Tukulti-apil-Ešarra_II[Tiglath-pileser-II;-king-of-Assyria]RN Aššur[Assyria]GN
+riao/Q006020,Adad-nerari II 1,o 7,Aššur-reša-iši_II[king-of-Assyria]RN Aššur[Assyria]GN
+riao/Q006020,Adad-nerari II 1,o 10,Aššur[1]DN
+riao/Q006020,Adad-nerari II 1,o 11,Qumanu[1]EN Qumanu[1]EN
+riao/Q006020,Adad-nerari II 1,o 12,Iluia[foreign-ruler]RN Qumanu[1]EN
+riao/Q006020,Adad-nerari II 1,o 16,Aššur[Ashur]SN
+riao/Q006020,Adad-nerari II 1,o 17,Aššur[1]DN
+riao/Q006020,Adad-nerari II 1,r 1',Idiqlat[Tigris]WN
+riao/Q006020,Adad-nerari II 1,r 5',Aššur[Ashur]SN
+riao/Q006020,Adad-nerari II 1,r 6',Kislimu[1]MN Habhu[Habhu]GN
+riao/Q006020,Adad-nerari II 1,r 7',Bazu[1]GN Sarabaliu[1]GN Didualu[1]GN
+riao/Q006020,Adad-nerari II 1,r 8',Ruru[1]WN Mehru[1]GN
+riao/Q006020,Adad-nerari II 1,r 9',Aššur[Ashur]SN
+riao/Q006020,Adad-nerari II 1,r 10',Aššur[1]DN
+riao/Q006020,Adad-nerari II 1,r 11',Adad-narari_I[king-of-Assyria]RN Aššur[1]DN Arik-din-ili[king-of-Assyria]RN Aššur[1]DN
+riao/Q006020,Adad-nerari II 1,r 17',Aššur[1]DN
+riao/Q006020,Adad-nerari II 1,r 19',Kislimu[1]MN Šeʾi-Aššur[governor-of-Kalzi]PN Kalzi[1]GN
+riao/Q006020,Adad-nerari II 1,r 20',Gabbiya-ana-Aššur[governor-of-the-Land-of-Inner-City;-Ashur]PN Libbi-ali[Inner-City;-Ashur]SN Adad-aha-iddina[city-overseer-and-then-governor-of-the-Land-of-the-Inner-City-and-eponym]PN

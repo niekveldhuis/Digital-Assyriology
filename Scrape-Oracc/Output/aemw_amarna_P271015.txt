@@ -1,0 +1,50 @@
+id_text,text_name,l_no,text
+<<<<<<< HEAD
+aemw/amarna/P271015,EA 180. An audience with the king requested [vassal letter],001,akk-x-mbperi:amāru[see]V akk-x-mbperi:anāku[I]IP akk-x-mbperi:wardu[slave]N akk-x-mbperi:kittu[steadiness]N
+aemw/amarna/P271015,EA 180. An audience with the king requested [vassal letter],002,akk-x-mbperi:šarru[king]N akk-x-mbperi:bēlu[lord]N akk-x-mbperi:ilu[god]N akk-x-mbperi:Šamaš[1]DN
+aemw/amarna/P271015,EA 180. An audience with the king requested [vassal letter],003,akk-x-mbperi:ina[in]PRP akk-x-mbperi:ašru[place]N akk-x-mbperi:annû[this]DP akk-x-mbperi:u[and]CNJ akk-x-mbperi:amāru[see]V
+aemw/amarna/P271015,EA 180. An audience with the king requested [vassal letter],004,akk-x-mbperi:māru[son]N akk-x-mbperi:wuššuru[exempt]AJ akk-x-mbperi:ana[to]PRP
+aemw/amarna/P271015,EA 180. An audience with the king requested [vassal letter],005,akk-x-mbperi:šarru[king]N akk-x-mbperi:bēlu[lord]N akk-x-mbperi:ilu[god]N akk-x-mbperi:Šamaš[1]DN
+aemw/amarna/P271015,EA 180. An audience with the king requested [vassal letter],006,akk-x-mbperi:u[and]CNJ akk-x-mbperi:wašāru[sink-down]V akk-x-mbperi:narkabtu[chariot]N
+aemw/amarna/P271015,EA 180. An audience with the king requested [vassal letter],007,akk-x-mbperi:šarru[king]N akk-x-mbperi:bēlu[lord]N akk-x-mbperi:ilu[god]N akk-x-mbperi:Šamaš[1]DN
+aemw/amarna/P271015,EA 180. An audience with the king requested [vassal letter],008,akk-x-mbperi:itti[with]PRP akk-x-mbperi:māru[son]N akk-x-mbperi:u[and]CNJ akk-x-mbperi:naṣāru[guard]V
+aemw/amarna/P271015,EA 180. An audience with the king requested [vassal letter],009,akk-x-mbperi:ālu[city]N akk-x-mbperi:šarru[king]N akk-x-mbperi:bēlu[lord]N akk-x-mbperi:ilu[god]N akk-x-mbperi:Šamaš[1]DN
+aemw/amarna/P271015,EA 180. An audience with the king requested [vassal letter],010,akk-x-mbperi:u[and]CNJ akk-x-mbperi:wašāru[sink-down]V akk-x-mbperi:narkabtu[chariot]N
+aemw/amarna/P271015,EA 180. An audience with the king requested [vassal letter],011,akk-x-mbperi:šarru[king]N akk-x-mbperi:bēlu[lord]N akk-x-mbperi:ilu[god]N akk-x-mbperi:Šamaš[1]DN
+aemw/amarna/P271015,EA 180. An audience with the king requested [vassal letter],012,akk-x-mbperi:u[and]CNJ akk-x-mbperi:leqû[take]V akk-x-mbperi:ana[to]PRP akk-x-mbperi:muhhu[skull]N
+aemw/amarna/P271015,EA 180. An audience with the king requested [vassal letter],013,akk-x-mbperi:šarru[king]N akk-x-mbperi:bēlu[lord]N akk-x-mbperi:ilu[god]N akk-x-mbperi:Šamaš[1]DN
+aemw/amarna/P271015,EA 180. An audience with the king requested [vassal letter],014,akk-x-mbperi:u[and]CNJ akk-x-mbperi:erēbu[enter]V akk-x-mbperi:ana[to]PRP akk-x-mbperi:pānu[front]N
+aemw/amarna/P271015,EA 180. An audience with the king requested [vassal letter],015,akk-x-mbperi:šarru[king]N akk-x-mbperi:bēlu[lord]N akk-x-mbperi:ilu[god]N akk-x-mbperi:Šamaš[1]DN
+aemw/amarna/P271015,EA 180. An audience with the king requested [vassal letter],016,akk-x-mbperi:u[and]CNJ akk-x-mbperi:lū[let-it-be]MOD akk-x-mbperi:qabû[say]V akk-x-mbperi:ša[that]REL akk-x-mbperi:epšu[made]AJ
+aemw/amarna/P271015,EA 180. An audience with the king requested [vassal letter],017,akk-x-mbperi:eli[on]PRP akk-x-mbperi:mātu[land]N akk-x-mbperi:u[and]CNJ akk-x-mbperi:amāru[see]V akk-x-mbperi:anāku[I]IP
+aemw/amarna/P271015,EA 180. An audience with the king requested [vassal letter],018,akk-x-mbperi:wardu[slave]N akk-x-mbperi:kittu[steadiness]N akk-x-mbperi:šarru[king]N akk-x-mbperi:bēlu[lord]N akk-x-mbperi:ilu[god]N akk-x-mbperi:Šamaš[1]DN
+aemw/amarna/P271015,EA 180. An audience with the king requested [vassal letter],019,akk-x-mbperi:u[and]CNJ akk-x-mbperi:allû[certainly]MOD akk-x-mbperi:šīru[slandered]AJ akk-x-mbperi:ana[to]PRP akk-x-mbperi:pānu[front]N
+aemw/amarna/P271015,EA 180. An audience with the king requested [vassal letter],020,akk-x-mbperi:šarru[king]N akk-x-mbperi:bēlu[lord]N akk-x-mbperi:ilu[god]N akk-x-mbperi:Šamaš[1]DN
+aemw/amarna/P271015,EA 180. An audience with the king requested [vassal letter],021,akk-x-mbperi:u[and]CNJ akk-x-mbperi:wašāru[sink-down]V akk-x-mbperi:narkabtu[chariot]N
+aemw/amarna/P271015,EA 180. An audience with the king requested [vassal letter],022,akk-x-mbperi:u[and]CNJ akk-x-mbperi:leqû[take]V akk-x-mbperi:ana[to]PRP akk-x-mbperi:muhhu[skull]N
+aemw/amarna/P271015,EA 180. An audience with the king requested [vassal letter],023,akk-x-mbperi:šarru[king]N akk-x-mbperi:bēlu[lord]N akk-x-mbperi:ilu[god]N akk-x-mbperi:Šamaš[1]DN
+=======
+aemw/amarna/P271015,EA 180. An audience with the king requested [vassal letter],001,akk-x-mbperi:wardu[slave]N akk-x-mbperi:kittu[steadiness]N
+aemw/amarna/P271015,EA 180. An audience with the king requested [vassal letter],002,akk-x-mbperi:šarru[king]N akk-x-mbperi:bēlu[lord]N akk-x-mbperi:ilu[god]N
+aemw/amarna/P271015,EA 180. An audience with the king requested [vassal letter],003,akk-x-mbperi:ašru[place]N
+aemw/amarna/P271015,EA 180. An audience with the king requested [vassal letter],004,akk-x-mbperi:māru[son]N
+aemw/amarna/P271015,EA 180. An audience with the king requested [vassal letter],005,akk-x-mbperi:šarru[king]N akk-x-mbperi:bēlu[lord]N akk-x-mbperi:ilu[god]N
+aemw/amarna/P271015,EA 180. An audience with the king requested [vassal letter],006,akk-x-mbperi:narkabtu[chariot]N
+aemw/amarna/P271015,EA 180. An audience with the king requested [vassal letter],007,akk-x-mbperi:šarru[king]N akk-x-mbperi:bēlu[lord]N akk-x-mbperi:ilu[god]N
+aemw/amarna/P271015,EA 180. An audience with the king requested [vassal letter],008,akk-x-mbperi:māru[son]N
+aemw/amarna/P271015,EA 180. An audience with the king requested [vassal letter],009,akk-x-mbperi:ālu[city]N akk-x-mbperi:šarru[king]N akk-x-mbperi:bēlu[lord]N akk-x-mbperi:ilu[god]N
+aemw/amarna/P271015,EA 180. An audience with the king requested [vassal letter],010,akk-x-mbperi:narkabtu[chariot]N
+aemw/amarna/P271015,EA 180. An audience with the king requested [vassal letter],011,akk-x-mbperi:šarru[king]N akk-x-mbperi:bēlu[lord]N akk-x-mbperi:ilu[god]N
+aemw/amarna/P271015,EA 180. An audience with the king requested [vassal letter],012,akk-x-mbperi:muhhu[skull]N
+aemw/amarna/P271015,EA 180. An audience with the king requested [vassal letter],013,akk-x-mbperi:šarru[king]N akk-x-mbperi:bēlu[lord]N akk-x-mbperi:ilu[god]N
+aemw/amarna/P271015,EA 180. An audience with the king requested [vassal letter],014,akk-x-mbperi:pānu[front]N
+aemw/amarna/P271015,EA 180. An audience with the king requested [vassal letter],015,akk-x-mbperi:šarru[king]N akk-x-mbperi:bēlu[lord]N akk-x-mbperi:ilu[god]N
+aemw/amarna/P271015,EA 180. An audience with the king requested [vassal letter],016,
+aemw/amarna/P271015,EA 180. An audience with the king requested [vassal letter],017,akk-x-mbperi:mātu[land]N
+aemw/amarna/P271015,EA 180. An audience with the king requested [vassal letter],018,akk-x-mbperi:wardu[slave]N akk-x-mbperi:kittu[steadiness]N akk-x-mbperi:šarru[king]N akk-x-mbperi:bēlu[lord]N akk-x-mbperi:ilu[god]N
+aemw/amarna/P271015,EA 180. An audience with the king requested [vassal letter],019,akk-x-mbperi:pānu[front]N
+aemw/amarna/P271015,EA 180. An audience with the king requested [vassal letter],020,akk-x-mbperi:šarru[king]N akk-x-mbperi:bēlu[lord]N akk-x-mbperi:ilu[god]N
+aemw/amarna/P271015,EA 180. An audience with the king requested [vassal letter],021,akk-x-mbperi:narkabtu[chariot]N
+aemw/amarna/P271015,EA 180. An audience with the king requested [vassal letter],022,akk-x-mbperi:muhhu[skull]N
+aemw/amarna/P271015,EA 180. An audience with the king requested [vassal letter],023,akk-x-mbperi:šarru[king]N akk-x-mbperi:bēlu[lord]N akk-x-mbperi:ilu[god]N
+>>>>>>> d524642d5275e5016007339cafda4e021ecb17ba

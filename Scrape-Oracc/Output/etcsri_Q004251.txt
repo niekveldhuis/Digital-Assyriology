@@ -1,0 +1,4 @@
+id_text,text_name,version,l_no,text
+etcsri/Q004251,Tulili 1,,1,sux:Inanak[1]DN
+etcsri/Q004251,Tulili 1,,2,sux:Tulili[1]PN
+etcsri/Q004251,Tulili 1,,3,sux:dumu[child]N

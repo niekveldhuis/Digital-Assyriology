@@ -1,0 +1,5 @@
+id_text,text_name,version,l_no,text
+etcsri/Q001246,Me-silim 3,,1,sux:Mesilim[1]RN
+etcsri/Q001246,Me-silim 3,,2,sux:lugal[king]N sux:Kiš[1]SN
+etcsri/Q001246,Me-silim 3,,3,sux:dumu[child]N sux:ki[place]N sux:aŋ[measure]V/t
+etcsri/Q001246,Me-silim 3,,4,sux:Ninhursaŋak[1]DN

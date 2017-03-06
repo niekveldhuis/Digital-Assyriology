@@ -1,0 +1,38 @@
+id_text,text_name,l_no,text
+<<<<<<< HEAD
+aemw/amarna/P271001,EA 274. Another city lost [vassal letter],001,akk-x-mbperi:ana[to]PRP akk-x-mbperi:šarru[king]N akk-x-mbperi:bēlu[lord]N
+aemw/amarna/P271001,EA 274. Another city lost [vassal letter],002,akk-x-mbperi:ilu[god]N akk-x-mbperi:Šamaš[1]DN
+aemw/amarna/P271001,EA 274. Another city lost [vassal letter],003,akk-x-mbperi:qabû[say]V
+aemw/amarna/P271001,EA 274. Another city lost [vassal letter],004,akk-x-mbperi:umma[saying]PRP akk-x-mbperi:NIN-UR.MAH.MEŠ[1]PN
+aemw/amarna/P271001,EA 274. Another city lost [vassal letter],005,akk-x-mbperi:amtu[maid]N akk-x-mbperi:eperu[earth]N
+aemw/amarna/P271001,EA 274. Another city lost [vassal letter],006,akk-x-mbperi:ša[of]DET akk-x-mbperi:šēpu[foot]N
+aemw/amarna/P271001,EA 274. Another city lost [vassal letter],007,akk-x-mbperi:ana[to]PRP akk-x-mbperi:šēpu[foot]N akk-x-mbperi:šarru[king]N akk-x-mbperi:bēlu[lord]N
+aemw/amarna/P271001,EA 274. Another city lost [vassal letter],008,akk-x-mbperi:ilu[god]N akk-x-mbperi:Šamaš[1]DN
+aemw/amarna/P271001,EA 274. Another city lost [vassal letter],009,akk-x-mbperi:maqātu[fall]V
+aemw/amarna/P271001,EA 274. Another city lost [vassal letter],010,akk-x-mbperi:ekēmu[take-away]V akk-x-mbperi:šarru[king]N
+aemw/amarna/P271001,EA 274. Another city lost [vassal letter],011,akk-x-mbperi:bēlu[lord]N akk-x-mbperi:mātu[land]N
+aemw/amarna/P271001,EA 274. Another city lost [vassal letter],012,akk-x-mbperi:ištu[from]PRP akk-x-mbperi:qātu[hand]N
+aemw/amarna/P271001,EA 274. Another city lost [vassal letter],013,akk-x-mbperi:awīlu[man]N akk-x-mbperi:hāpiru[(class-of)-vagrant]N
+aemw/amarna/P271001,EA 274. Another city lost [vassal letter],014,akk-x-mbperi:lā[not]MOD akk-x-mbperi:halāqu[be(come)-lost]V
+aemw/amarna/P271001,EA 274. Another city lost [vassal letter],015,akk-x-mbperi:laqtu[gathered]AJ
+aemw/amarna/P271001,EA 274. Another city lost [vassal letter],016,akk-x-mbperi:Ṣapuma[1]GN
+aemw/amarna/P271001,EA 274. Another city lost [vassal letter],017,akk-x-mbperi:u[and]CNJ akk-x-mbperi:ana[to]PRP akk-x-mbperi:lamādu[learn]V
+=======
+aemw/amarna/P271001,EA 274. Another city lost [vassal letter],001,akk-x-mbperi:šarru[king]N akk-x-mbperi:bēlu[lord]N
+aemw/amarna/P271001,EA 274. Another city lost [vassal letter],002,akk-x-mbperi:ilu[god]N
+aemw/amarna/P271001,EA 274. Another city lost [vassal letter],003,
+aemw/amarna/P271001,EA 274. Another city lost [vassal letter],004,
+aemw/amarna/P271001,EA 274. Another city lost [vassal letter],005,akk-x-mbperi:amtu[maid]N akk-x-mbperi:eperu[earth]N
+aemw/amarna/P271001,EA 274. Another city lost [vassal letter],006,akk-x-mbperi:šēpu[foot]N
+aemw/amarna/P271001,EA 274. Another city lost [vassal letter],007,akk-x-mbperi:šēpu[foot]N akk-x-mbperi:šarru[king]N akk-x-mbperi:bēlu[lord]N
+aemw/amarna/P271001,EA 274. Another city lost [vassal letter],008,akk-x-mbperi:ilu[god]N
+aemw/amarna/P271001,EA 274. Another city lost [vassal letter],009,
+aemw/amarna/P271001,EA 274. Another city lost [vassal letter],010,akk-x-mbperi:šarru[king]N
+aemw/amarna/P271001,EA 274. Another city lost [vassal letter],011,akk-x-mbperi:bēlu[lord]N akk-x-mbperi:mātu[land]N
+aemw/amarna/P271001,EA 274. Another city lost [vassal letter],012,akk-x-mbperi:qātu[hand]N
+aemw/amarna/P271001,EA 274. Another city lost [vassal letter],013,akk-x-mbperi:awīlu[man]N akk-x-mbperi:hāpiru[(class-of)-vagrant]N
+aemw/amarna/P271001,EA 274. Another city lost [vassal letter],014,
+aemw/amarna/P271001,EA 274. Another city lost [vassal letter],015,
+aemw/amarna/P271001,EA 274. Another city lost [vassal letter],016,
+aemw/amarna/P271001,EA 274. Another city lost [vassal letter],017,
+>>>>>>> d524642d5275e5016007339cafda4e021ecb17ba

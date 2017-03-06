@@ -1,0 +1,11 @@
+id_text,text_name,l_no,text
+riao/Q005903,Aššur-reša-iši I 05,1,ēkallu[palace]N Aššur-reša-iši_I[king-of-Assyria]RN
+riao/Q005903,Aššur-reša-iši I 05,2,nibītu[naming]N Anu[1]DN
+riao/Q005903,Aššur-reša-iši I 05,3,kāšidu[conqueror]N lā[not]MOD māgiru[submissive-one]N
+riao/Q005903,Aššur-reša-iši I 05,4,mušaknišu[one-that-makes-someone-bow-down]N
+riao/Q005903,Aššur-reša-iši I 05,5,gimru[totality]N wašṭu[stiff-one]N
+riao/Q005903,Aššur-reša-iši I 05,6,šarru[king]N dannu[strong]AJ šarru[king]N kiššatu[totality]N šarru[king]N mātu[land]N Aššur[Assyria]GN
+riao/Q005903,Aššur-reša-iši I 05,7,māru[son]N Mutakkil-Nusku[king-of-Assyria]RN
+riao/Q005903,Aššur-reša-iši I 05,8,šarru[king]N mātu[land]N Aššur[Assyria]GN
+riao/Q005903,Aššur-reša-iši I 05,9,māru[son]N Aššur-dan_I[king-of-Assyria]RN šarru[king]N mātu[land]N Aššur[Assyria]GN
+riao/Q005903,Aššur-reša-iši I 05,10,ša[of]DET ēkallu[palace]N

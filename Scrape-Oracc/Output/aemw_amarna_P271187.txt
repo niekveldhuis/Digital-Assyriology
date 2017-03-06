@@ -1,0 +1,92 @@
+id_text,text_name,l_no,text
+<<<<<<< HEAD
+aemw/amarna/P271187,EA 165. Tunip threatened [vassal letter],001,akk-x-mbperi:ana[to]PRP akk-x-mbperi:šarru[king]N akk-x-mbperi:bēlu[lord]N akk-x-mbperi:ilu[god]N akk-x-mbperi:Šamaš[1]DN
+aemw/amarna/P271187,EA 165. Tunip threatened [vassal letter],002,akk-x-mbperi:umma[saying]PRP akk-x-mbperi:Aziru[1]PN akk-x-mbperi:wardu[slave]N
+aemw/amarna/P271187,EA 165. Tunip threatened [vassal letter],003,akk-x-mbperi:u[and]CNJ akk-x-mbperi:ana[to]PRP akk-x-mbperi:šēpu[foot]N akk-x-mbperi:bēlu[lord]N akk-x-mbperi:maqātu[fall]V
+aemw/amarna/P271187,EA 165. Tunip threatened [vassal letter],004,akk-x-mbperi:bēlu[lord]N akk-x-mbperi:ilu[god]N akk-x-mbperi:Šamaš[1]DN
+aemw/amarna/P271187,EA 165. Tunip threatened [vassal letter],005,akk-x-mbperi:mīnu[what?]QP akk-x-mbperi:appūna[moreover]AV akk-x-mbperi:buʾʾû[look-for]V
+aemw/amarna/P271187,EA 165. Tunip threatened [vassal letter],006,akk-x-mbperi:pānu[front]N akk-x-mbperi:šarru[king]N akk-x-mbperi:bēlu[lord]N akk-x-mbperi:Šamaš[1]DN
+aemw/amarna/P271187,EA 165. Tunip threatened [vassal letter],007,akk-x-mbperi:banû[good]AJ akk-x-mbperi:buʾʾû[look-for]V akk-x-mbperi:amāru[see]V
+aemw/amarna/P271187,EA 165. Tunip threatened [vassal letter],008,akk-x-mbperi:adi[until]PRP akk-x-mbperi:dārītu[perpetuity]N akk-x-mbperi:u[and]CNJ akk-x-mbperi:anāku[I]IP
+aemw/amarna/P271187,EA 165. Tunip threatened [vassal letter],009,akk-x-mbperi:u[and]CNJ akk-x-mbperi:Baʾluya[1]PN akk-x-mbperi:awīlu[man]N akk-x-mbperi:wardu[slave]N
+aemw/amarna/P271187,EA 165. Tunip threatened [vassal letter],010,akk-x-mbperi:mātu[land]N akk-x-mbperi:šarru[king]N akk-x-mbperi:bēlu[lord]N akk-x-mbperi:naṣāru[guard]V
+aemw/amarna/P271187,EA 165. Tunip threatened [vassal letter],011,akk-x-mbperi:u[and]CNJ akk-x-mbperi:pānu[front]N akk-x-mbperi:ana[to]PRP akk-x-mbperi:awīlu[man]N akk-x-mbperi:wardūtu[slavery]N
+aemw/amarna/P271187,EA 165. Tunip threatened [vassal letter],012,akk-x-mbperi:ša[of]DET akk-x-mbperi:šarru[king]N akk-x-mbperi:bēlu[lord]N akk-x-mbperi:ina[in]PRP akk-x-mbperi:šulmu[completeness]N
+aemw/amarna/P271187,EA 165. Tunip threatened [vassal letter],013,akk-x-mbperi:pānu[front]N akk-x-mbperi:šarru[king]N akk-x-mbperi:bēlu[lord]N akk-x-mbperi:banû[good]AJ akk-x-mbperi:lū[let-it-be]MOD akk-x-mbperi:amāru[see]V
+aemw/amarna/P271187,EA 165. Tunip threatened [vassal letter],014,akk-x-mbperi:bēlu[lord]N akk-x-mbperi:anumma[now]AV akk-x-mbperi:anāku[I]IP
+aemw/amarna/P271187,EA 165. Tunip threatened [vassal letter],015,akk-x-mbperi:u[and]CNJ akk-x-mbperi:Hatip[1]PN akk-x-mbperi:alāku[go]V
+aemw/amarna/P271187,EA 165. Tunip threatened [vassal letter],016,akk-x-mbperi:u[and]CNJ akk-x-mbperi:edû[know]V akk-x-mbperi:bēlu[lord]N akk-x-mbperi:inūma[when]SBJ
+aemw/amarna/P271187,EA 165. Tunip threatened [vassal letter],017,akk-x-mbperi:kašdu[achieved]AJ akk-x-mbperi:ina[in]PRP akk-x-mbperi:hamuttu[haste]N
+aemw/amarna/P271187,EA 165. Tunip threatened [vassal letter],018,akk-x-mbperi:šarru[king]N akk-x-mbperi:Hatti[1]GN akk-x-mbperi:ina[in]PRP akk-x-mbperi:Nuhašše[1]GN
+aemw/amarna/P271187,EA 165. Tunip threatened [vassal letter],019,akk-x-mbperi:wašbu[inhabited]AJ akk-x-mbperi:u[and]CNJ akk-x-mbperi:palhu[fearful]AJ akk-x-mbperi:ištu[from]PRP akk-x-mbperi:pānu[front]N
+aemw/amarna/P271187,EA 165. Tunip threatened [vassal letter],020,akk-x-mbperi:assurri[(if)-perchance]MOD akk-x-mbperi:ina[in]PRP akk-x-mbperi:Amurru[1]GN
+aemw/amarna/P271187,EA 165. Tunip threatened [vassal letter],021,akk-x-mbperi:ina[in]PRP akk-x-mbperi:mātu[land]N akk-x-mbperi:ša[of]DET akk-x-mbperi:šarru[king]N akk-x-mbperi:bēlu[lord]N akk-x-mbperi:alāku[go]V
+aemw/amarna/P271187,EA 165. Tunip threatened [vassal letter],022,akk-x-mbperi:u[and]CNJ akk-x-mbperi:muhhu[skull]N akk-x-mbperi:awātu[word]N akk-x-mbperi:annû[this]DP
+aemw/amarna/P271187,EA 165. Tunip threatened [vassal letter],023,akk-x-mbperi:izuzzu[stand]V akk-x-mbperi:paṭāru[loosen]V
+aemw/amarna/P271187,EA 165. Tunip threatened [vassal letter],024,akk-x-mbperi:u[and]CNJ akk-x-mbperi:târu[turn]V akk-x-mbperi:ina[in]PRP akk-x-mbperi:mātu[land]N
+aemw/amarna/P271187,EA 165. Tunip threatened [vassal letter],025,akk-x-mbperi:u[and]CNJ akk-x-mbperi:anumma[now]AV akk-x-mbperi:alāku[go]V
+aemw/amarna/P271187,EA 165. Tunip threatened [vassal letter],026,akk-x-mbperi:anāku[I]IP akk-x-mbperi:u[and]CNJ akk-x-mbperi:Hatip[1]PN akk-x-mbperi:anāku[I]IP
+aemw/amarna/P271187,EA 165. Tunip threatened [vassal letter],027,akk-x-mbperi:wardu[slave]N akk-x-mbperi:šarru[king]N akk-x-mbperi:banû[good]AJ akk-x-mbperi:magal[very-(much)]AV akk-x-mbperi:magal[very-(much)]AV
+aemw/amarna/P271187,EA 165. Tunip threatened [vassal letter],028,akk-x-mbperi:bēlu[lord]N akk-x-mbperi:mimma[anything]XP akk-x-mbperi:ina[in]PRP akk-x-mbperi:libbu[interior]N akk-x-mbperi:bēlu[lord]N
+aemw/amarna/P271187,EA 165. Tunip threatened [vassal letter],029,akk-x-mbperi:lā[not]MOD akk-x-mbperi:šakānu[put]V akk-x-mbperi:kašdu[achieved]AJ
+aemw/amarna/P271187,EA 165. Tunip threatened [vassal letter],030,akk-x-mbperi:pānu[front]N akk-x-mbperi:ana[to]PRP akk-x-mbperi:šarru[king]N akk-x-mbperi:Hatti[1]GN
+aemw/amarna/P271187,EA 165. Tunip threatened [vassal letter],031,akk-x-mbperi:u[and]CNJ akk-x-mbperi:anumma[now]AV akk-x-mbperi:kašdu[achieved]AJ
+aemw/amarna/P271187,EA 165. Tunip threatened [vassal letter],032,akk-x-mbperi:ana[to]PRP akk-x-mbperi:amāru[see]V akk-x-mbperi:pānu[front]N akk-x-mbperi:Šamaš[1]DN akk-x-mbperi:bēlu[lord]N
+aemw/amarna/P271187,EA 165. Tunip threatened [vassal letter],033,akk-x-mbperi:bēlu[lord]N akk-x-mbperi:anāku[I]IP akk-x-mbperi:ina[in]PRP akk-x-mbperi:Tunip[1]GN
+aemw/amarna/P271187,EA 165. Tunip threatened [vassal letter],034,akk-x-mbperi:wašbu[inhabited]AJ akk-x-mbperi:u[and]CNJ akk-x-mbperi:alāku[go]V akk-x-mbperi:šarru[king]N akk-x-mbperi:Hatti[1]GN
+aemw/amarna/P271187,EA 165. Tunip threatened [vassal letter],035,akk-x-mbperi:ina[in]PRP akk-x-mbperi:Amurru[1]GN akk-x-mbperi:mātu[land]N akk-x-mbperi:šarru[king]N akk-x-mbperi:bēlu[lord]N
+aemw/amarna/P271187,EA 165. Tunip threatened [vassal letter],036,akk-x-mbperi:kī[like]PRP akk-x-mbperi:lā[not]MOD akk-x-mbperi:wašāru[sink-down]V
+aemw/amarna/P271187,EA 165. Tunip threatened [vassal letter],037,akk-x-mbperi:šarru[king]N akk-x-mbperi:bēlu[lord]N akk-x-mbperi:ana[to]PRP akk-x-mbperi:naṣāru[guard]V akk-x-mbperi:mātu[land]N
+aemw/amarna/P271187,EA 165. Tunip threatened [vassal letter],038,akk-x-mbperi:u[and]CNJ akk-x-mbperi:inanna[now]AV akk-x-mbperi:ina[in]PRP akk-x-mbperi:Nuhašše[1]GN
+aemw/amarna/P271187,EA 165. Tunip threatened [vassal letter],039,akk-x-mbperi:wašbu[inhabited]AJ akk-x-mbperi:harrānu[way]N akk-x-mbperi:ina[in]PRP akk-x-mbperi:Tunip[1]GN
+aemw/amarna/P271187,EA 165. Tunip threatened [vassal letter],040,akk-x-mbperi:u[and]CNJ akk-x-mbperi:palhu[fearful]AJ akk-x-mbperi:ištu[from]PRP akk-x-mbperi:šahāṭu[jump-(on)]V
+aemw/amarna/P271187,EA 165. Tunip threatened [vassal letter],041,akk-x-mbperi:Tunip[1]GN akk-x-mbperi:paṭāru[loosen]V
+aemw/amarna/P271187,EA 165. Tunip threatened [vassal letter],042,akk-x-mbperi:šanītu[something-other]N akk-x-mbperi:bēlu[lord]N akk-x-mbperi:ana[to]PRP akk-x-mbperi:awīlu[man]N akk-x-mbperi:sarru[false]AJ
+aemw/amarna/P271187,EA 165. Tunip threatened [vassal letter],043,akk-x-mbperi:lā[not]MOD akk-x-mbperi:šemû[hear]V akk-x-mbperi:anāku[I]IP akk-x-mbperi:u[and]CNJ akk-x-mbperi:ahu[brother]N
+aemw/amarna/P271187,EA 165. Tunip threatened [vassal letter],044,akk-x-mbperi:u[and]CNJ akk-x-mbperi:māru[son]N akk-x-mbperi:awīlu[man]N akk-x-mbperi:wardu[slave]N akk-x-mbperi:ša[of]DET akk-x-mbperi:šarru[king]N akk-x-mbperi:bēlu[lord]N
+=======
+aemw/amarna/P271187,EA 165. Tunip threatened [vassal letter],001,akk-x-mbperi:šarru[king]N akk-x-mbperi:bēlu[lord]N akk-x-mbperi:ilu[god]N
+aemw/amarna/P271187,EA 165. Tunip threatened [vassal letter],002,akk-x-mbperi:wardu[slave]N
+aemw/amarna/P271187,EA 165. Tunip threatened [vassal letter],003,akk-x-mbperi:šēpu[foot]N akk-x-mbperi:bēlu[lord]N
+aemw/amarna/P271187,EA 165. Tunip threatened [vassal letter],004,akk-x-mbperi:bēlu[lord]N akk-x-mbperi:ilu[god]N
+aemw/amarna/P271187,EA 165. Tunip threatened [vassal letter],005,
+aemw/amarna/P271187,EA 165. Tunip threatened [vassal letter],006,akk-x-mbperi:pānu[front]N akk-x-mbperi:šarru[king]N akk-x-mbperi:bēlu[lord]N
+aemw/amarna/P271187,EA 165. Tunip threatened [vassal letter],007,
+aemw/amarna/P271187,EA 165. Tunip threatened [vassal letter],008,akk-x-mbperi:dārītu[perpetuity]N
+aemw/amarna/P271187,EA 165. Tunip threatened [vassal letter],009,akk-x-mbperi:awīlu[man]N akk-x-mbperi:wardu[slave]N
+aemw/amarna/P271187,EA 165. Tunip threatened [vassal letter],010,akk-x-mbperi:mātu[land]N akk-x-mbperi:šarru[king]N akk-x-mbperi:bēlu[lord]N
+aemw/amarna/P271187,EA 165. Tunip threatened [vassal letter],011,akk-x-mbperi:pānu[front]N akk-x-mbperi:awīlu[man]N akk-x-mbperi:wardūtu[slavery]N
+aemw/amarna/P271187,EA 165. Tunip threatened [vassal letter],012,akk-x-mbperi:šarru[king]N akk-x-mbperi:bēlu[lord]N akk-x-mbperi:šulmu[completeness]N
+aemw/amarna/P271187,EA 165. Tunip threatened [vassal letter],013,akk-x-mbperi:pānu[front]N akk-x-mbperi:šarru[king]N akk-x-mbperi:bēlu[lord]N
+aemw/amarna/P271187,EA 165. Tunip threatened [vassal letter],014,akk-x-mbperi:bēlu[lord]N
+aemw/amarna/P271187,EA 165. Tunip threatened [vassal letter],015,
+aemw/amarna/P271187,EA 165. Tunip threatened [vassal letter],016,akk-x-mbperi:bēlu[lord]N
+aemw/amarna/P271187,EA 165. Tunip threatened [vassal letter],017,akk-x-mbperi:hamuttu[haste]N
+aemw/amarna/P271187,EA 165. Tunip threatened [vassal letter],018,akk-x-mbperi:šarru[king]N
+aemw/amarna/P271187,EA 165. Tunip threatened [vassal letter],019,akk-x-mbperi:pānu[front]N
+aemw/amarna/P271187,EA 165. Tunip threatened [vassal letter],020,
+aemw/amarna/P271187,EA 165. Tunip threatened [vassal letter],021,akk-x-mbperi:mātu[land]N akk-x-mbperi:šarru[king]N akk-x-mbperi:bēlu[lord]N
+aemw/amarna/P271187,EA 165. Tunip threatened [vassal letter],022,akk-x-mbperi:muhhu[skull]N akk-x-mbperi:awātu[word]N
+aemw/amarna/P271187,EA 165. Tunip threatened [vassal letter],023,
+aemw/amarna/P271187,EA 165. Tunip threatened [vassal letter],024,akk-x-mbperi:mātu[land]N
+aemw/amarna/P271187,EA 165. Tunip threatened [vassal letter],025,
+aemw/amarna/P271187,EA 165. Tunip threatened [vassal letter],026,
+aemw/amarna/P271187,EA 165. Tunip threatened [vassal letter],027,akk-x-mbperi:wardu[slave]N akk-x-mbperi:šarru[king]N
+aemw/amarna/P271187,EA 165. Tunip threatened [vassal letter],028,akk-x-mbperi:bēlu[lord]N akk-x-mbperi:libbu[interior]N akk-x-mbperi:bēlu[lord]N
+aemw/amarna/P271187,EA 165. Tunip threatened [vassal letter],029,
+aemw/amarna/P271187,EA 165. Tunip threatened [vassal letter],030,akk-x-mbperi:pānu[front]N akk-x-mbperi:šarru[king]N
+aemw/amarna/P271187,EA 165. Tunip threatened [vassal letter],031,
+aemw/amarna/P271187,EA 165. Tunip threatened [vassal letter],032,akk-x-mbperi:pānu[front]N akk-x-mbperi:bēlu[lord]N
+aemw/amarna/P271187,EA 165. Tunip threatened [vassal letter],033,akk-x-mbperi:bēlu[lord]N
+aemw/amarna/P271187,EA 165. Tunip threatened [vassal letter],034,akk-x-mbperi:šarru[king]N
+aemw/amarna/P271187,EA 165. Tunip threatened [vassal letter],035,akk-x-mbperi:mātu[land]N akk-x-mbperi:šarru[king]N akk-x-mbperi:bēlu[lord]N
+aemw/amarna/P271187,EA 165. Tunip threatened [vassal letter],036,
+aemw/amarna/P271187,EA 165. Tunip threatened [vassal letter],037,akk-x-mbperi:šarru[king]N akk-x-mbperi:bēlu[lord]N akk-x-mbperi:mātu[land]N
+aemw/amarna/P271187,EA 165. Tunip threatened [vassal letter],038,
+aemw/amarna/P271187,EA 165. Tunip threatened [vassal letter],039,akk-x-mbperi:harrānu[way]N
+aemw/amarna/P271187,EA 165. Tunip threatened [vassal letter],040,
+aemw/amarna/P271187,EA 165. Tunip threatened [vassal letter],041,
+aemw/amarna/P271187,EA 165. Tunip threatened [vassal letter],042,akk-x-mbperi:šanītu[something-other]N akk-x-mbperi:bēlu[lord]N akk-x-mbperi:awīlu[man]N
+aemw/amarna/P271187,EA 165. Tunip threatened [vassal letter],043,akk-x-mbperi:ahu[brother]N
+aemw/amarna/P271187,EA 165. Tunip threatened [vassal letter],044,akk-x-mbperi:māru[son]N akk-x-mbperi:awīlu[man]N akk-x-mbperi:wardu[slave]N akk-x-mbperi:šarru[king]N akk-x-mbperi:bēlu[lord]N
+>>>>>>> d524642d5275e5016007339cafda4e021ecb17ba

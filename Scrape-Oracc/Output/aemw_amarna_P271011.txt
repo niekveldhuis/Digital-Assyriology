@@ -1,0 +1,40 @@
+id_text,text_name,l_no,text
+<<<<<<< HEAD
+aemw/amarna/P271011,EA 049. A request for a physician [vassal letter],001,akk-x-mbperi:ana[to]PRP akk-x-mbperi:šarru[king]N akk-x-mbperi:Šamaš[1]DN akk-x-mbperi:bēlu[lord]N
+aemw/amarna/P271011,EA 049. A request for a physician [vassal letter],002,akk-x-mbperi:umma[saying]PRP akk-x-mbperi:Niqmaddu[1]PN akk-x-mbperi:wardu[slave]N
+aemw/amarna/P271011,EA 049. A request for a physician [vassal letter],003,akk-x-mbperi:ana[to]PRP akk-x-mbperi:šēpu[foot]N akk-x-mbperi:šarru[king]N akk-x-mbperi:Šamaš[1]DN akk-x-mbperi:bēlu[lord]N akk-x-mbperi:maqātu[fall]V
+aemw/amarna/P271011,EA 049. A request for a physician [vassal letter],004,akk-x-mbperi:lū[let-it-be]MOD akk-x-mbperi:šulmu[completeness]N akk-x-mbperi:ana[to]PRP akk-x-mbperi:muhhu[skull]N akk-x-mbperi:šarru[king]N akk-x-mbperi:Šamaš[1]DN akk-x-mbperi:bēlu[lord]N
+aemw/amarna/P271011,EA 049. A request for a physician [vassal letter],005,akk-x-mbperi:bītu[house]N akk-x-mbperi:ana[to]PRP akk-x-mbperi:hīrtu[(equal-ranking)-wife]N akk-x-mbperi:ana[to]PRP akk-x-mbperi:aššatu[wife]N
+aemw/amarna/P271011,EA 049. A request for a physician [vassal letter],006,akk-x-mbperi:ana[to]PRP akk-x-mbperi:māru[son]N akk-x-mbperi:ana[to]PRP akk-x-mbperi:sisû[horse]N akk-x-mbperi:ṣābu[people]N akk-x-mbperi:piṭṭātu[archers]N
+aemw/amarna/P271011,EA 049. A request for a physician [vassal letter],007,akk-x-mbperi:ana[to]PRP akk-x-mbperi:narkabtu[chariot]N akk-x-mbperi:ša[of]DET akk-x-mbperi:šarru[king]N akk-x-mbperi:Šamaš[1]DN akk-x-mbperi:bēlu[lord]N
+aemw/amarna/P271011,EA 049. A request for a physician [vassal letter],018,akk-x-mbperi:abu[father]N akk-x-mbperi:pānānu[previously]AV
+aemw/amarna/P271011,EA 049. A request for a physician [vassal letter],019,akk-x-mbperi:u[and]CNJ akk-x-mbperi:bēlu[lord]N akk-x-mbperi:ṣuhāru[boy]N akk-x-mbperi:ṣuhāru[boy]N
+aemw/amarna/P271011,EA 049. A request for a physician [vassal letter],020,akk-x-mbperi:ēkallû[palace-official]N akk-x-mbperi:ša[of]DET akk-x-mbperi:Kašu[Cush]GN
+aemw/amarna/P271011,EA 049. A request for a physician [vassal letter],021,akk-x-mbperi:nadānu[give]V
+aemw/amarna/P271011,EA 049. A request for a physician [vassal letter],022,akk-x-mbperi:u[and]CNJ akk-x-mbperi:māru[son]N akk-x-mbperi:ēkallu[palace]N akk-x-mbperi:asû[physician]N
+aemw/amarna/P271011,EA 049. A request for a physician [vassal letter],023,akk-x-mbperi:nadānu[give]V
+aemw/amarna/P271011,EA 049. A request for a physician [vassal letter],024,akk-x-mbperi:annaka[here]AV akk-x-mbperi:asû[physician]N
+aemw/amarna/P271011,EA 049. A request for a physician [vassal letter],025,akk-x-mbperi:yānu[(there)-is-not]V akk-x-mbperi:anumma[now]AV akk-x-mbperi:Hara-mašši[1]PN
+aemw/amarna/P271011,EA 049. A request for a physician [vassal letter],026,akk-x-mbperi:šâlu[ask]V akk-x-mbperi:u[and]CNJ
+aemw/amarna/P271011,EA 049. A request for a physician [vassal letter],027,akk-x-mbperi:u[and]CNJ akk-x-mbperi:anumma[now]AV
+aemw/amarna/P271011,EA 049. A request for a physician [vassal letter],028,akk-x-mbperi:u[and]CNJ akk-x-mbperi:meʾatu[(one)-hundred]N
+=======
+aemw/amarna/P271011,EA 049. A request for a physician [vassal letter],001,
+aemw/amarna/P271011,EA 049. A request for a physician [vassal letter],002,
+aemw/amarna/P271011,EA 049. A request for a physician [vassal letter],003,
+aemw/amarna/P271011,EA 049. A request for a physician [vassal letter],004,
+aemw/amarna/P271011,EA 049. A request for a physician [vassal letter],005,
+aemw/amarna/P271011,EA 049. A request for a physician [vassal letter],006,
+aemw/amarna/P271011,EA 049. A request for a physician [vassal letter],007,
+aemw/amarna/P271011,EA 049. A request for a physician [vassal letter],018,
+aemw/amarna/P271011,EA 049. A request for a physician [vassal letter],019,
+aemw/amarna/P271011,EA 049. A request for a physician [vassal letter],020,
+aemw/amarna/P271011,EA 049. A request for a physician [vassal letter],021,
+aemw/amarna/P271011,EA 049. A request for a physician [vassal letter],022,
+aemw/amarna/P271011,EA 049. A request for a physician [vassal letter],023,
+aemw/amarna/P271011,EA 049. A request for a physician [vassal letter],024,
+aemw/amarna/P271011,EA 049. A request for a physician [vassal letter],025,
+aemw/amarna/P271011,EA 049. A request for a physician [vassal letter],026,
+aemw/amarna/P271011,EA 049. A request for a physician [vassal letter],027,
+aemw/amarna/P271011,EA 049. A request for a physician [vassal letter],028,
+>>>>>>> d524642d5275e5016007339cafda4e021ecb17ba

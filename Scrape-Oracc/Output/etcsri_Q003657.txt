@@ -1,0 +1,18 @@
+id_text,text_name,version,l_no,text
+etcsri/Q003657,Lugal-zage-si 1,,i 1,sux:Dumuzid[1]DN
+etcsri/Q003657,Lugal-zage-si 1,,i 2,sux:lugal[king]N sux:E[1]SN
+etcsri/Q003657,Lugal-zage-si 1,,i 3,sux:Lugalzagesi[1]RN
+etcsri/Q003657,Lugal-zage-si 1,,i 4,sux:ensik[ruler]N sux:Umma[1]SN
+etcsri/Q003657,Lugal-zage-si 1,,i 5,sux:lumah[priest]N sux:Nisabak[1]DN
+etcsri/Q003657,Lugal-zage-si 1,,i 6,sux:dumu[child]N sux:Bubu[1]RN
+etcsri/Q003657,Lugal-zage-si 1,,i 7,sux:ensik[ruler]N sux:Umma[1]SN
+etcsri/Q003657,Lugal-zage-si 1,,i 8,sux:lumah[priest]N sux:Nisabak[1]DN
+etcsri/Q003657,Lugal-zage-si 1,,i 9,sux:Dumuzid[1]DN
+etcsri/Q003657,Lugal-zage-si 1,,ii 1,sux:lugal[king]N sux:E[1]SN
+etcsri/Q003657,Lugal-zage-si 1,,ii 2,sux:namtil[life]N
+etcsri/Q003657,Lugal-zage-si 1,,ii 3,sux:e[house]N sux:du[build]V/t
+etcsri/Q003657,Lugal-zage-si 1,,ii 4,sux:temen[foundation]N sux:ki[place]N sux:sig[put]V/t
+etcsri/Q003657,Lugal-zage-si 1,,ii 5,sux:me[being]N sux:si[horn]N sux:sa[equal]V/t
+etcsri/Q003657,Lugal-zage-si 1,,ii 6,sux:e[house]N sux:Lisi[1]DN sux:du[build]V/t
+etcsri/Q003657,Lugal-zage-si 1,,ii 7,sux:e[house]N sux:Nisabak[1]DN sux:du[build]V/t
+etcsri/Q003657,Lugal-zage-si 1,,ii 8,sux:Eŋidruk[2]TN sux:Umma[1]SN sux:du[build]V/t

@@ -1,0 +1,34 @@
+id_text,text_name,l_no,text
+saao/saa05/P334181,SAA 05 078. Imposing the King’s Treaty (ABL 0246),o 1,ana[to]PRP šarru[king]N bēlu[lord]N
+saao/saa05/P334181,SAA 05 078. Imposing the King’s Treaty (ABL 0246),o 2,ardu[slave]N Aššur-belu-daʾʾin[1]PN
+saao/saa05/P334181,SAA 05 078. Imposing the King’s Treaty (ABL 0246),o 3,lū[may]MOD šulmu[completeness]N ana[to]PRP šarru[king]N bēlu[lord]N
+saao/saa05/P334181,SAA 05 078. Imposing the King’s Treaty (ABL 0246),o 4,ālu[city]N Ušhaya[Ušhaean]EN
+saao/saa05/P334181,SAA 05 078. Imposing the King’s Treaty (ABL 0246),o 5,ālu[city]N Qudaya[Qudaean]EN
+saao/saa05/P334181,SAA 05 078. Imposing the King’s Treaty (ABL 0246),o 6,ša[that]REL šarru[king]N bēlu[lord]N ina[in]PRP muhhu[skull]N
+saao/saa05/P334181,SAA 05 078. Imposing the King’s Treaty (ABL 0246),o 7,šapāru[send]V
+saao/saa05/P334181,SAA 05 078. Imposing the King’s Treaty (ABL 0246),o 8,ina[in]PRP muhhu[skull]N pû[mouth]N ša[of]DET šarru[king]N bēlu[lord]N
+saao/saa05/P334181,SAA 05 078. Imposing the King’s Treaty (ABL 0246),o 9,kanāšu[bow-down]V
+saao/saa05/P334181,SAA 05 078. Imposing the King’s Treaty (ABL 0246),o 10,ālu[city]N ša[that]REL ūmu[day]N
+saao/saa05/P334181,SAA 05 078. Imposing the King’s Treaty (ABL 0246),o 11,ša[of]DET Šamaš-ilaʾi[1]PN
+saao/saa05/P334181,SAA 05 078. Imposing the King’s Treaty (ABL 0246),o 12,lā[not]MOD kanšu[submissive]AJ
+saao/saa05/P334181,SAA 05 078. Imposing the King’s Treaty (ABL 0246),o 13,ūma[today]AV annûri[now]AV
+saao/saa05/P334181,SAA 05 078. Imposing the King’s Treaty (ABL 0246),o 14,ša-qurbūti[close-follower]N pahāru[gather]V
+saao/saa05/P334181,SAA 05 078. Imposing the King’s Treaty (ABL 0246),o 15,ina[in]PRP muhhu[skull]N našû[lifted]AJ
+saao/saa05/P334181,SAA 05 078. Imposing the King’s Treaty (ABL 0246),o 16,salāmu[be(come)-at-peace]V
+saao/saa05/P334181,SAA 05 078. Imposing the King’s Treaty (ABL 0246),b.e. 17,ša[that]REL ilku[state-service]N
+saao/saa05/P334181,SAA 05 078. Imposing the King’s Treaty (ABL 0246),r 1,ilku[state-service]N tadānu[give]V
+saao/saa05/P334181,SAA 05 078. Imposing the King’s Treaty (ABL 0246),r 2,ša[that]REL ṣābu[people]N šarru[king]N
+saao/saa05/P334181,SAA 05 078. Imposing the King’s Treaty (ABL 0246),r 3,ṣābu[people]N šarru[king]N tadānu[give]V
+saao/saa05/P334181,SAA 05 078. Imposing the King’s Treaty (ABL 0246),r 4,šadû[mountain]N gabbu[totality]N adû[(treaty-)oath]N
+saao/saa05/P334181,SAA 05 078. Imposing the King’s Treaty (ABL 0246),r 5,šarru[king]N naṣāru[guard]V
+saao/saa05/P334181,SAA 05 078. Imposing the King’s Treaty (ABL 0246),r 6,libbu[interior]N šarru[king]N bēlu[lord]N lū[may]MOD ṭābu[good]AJ
+saao/saa05/P334181,SAA 05 078. Imposing the King’s Treaty (ABL 0246),r 7,emūqu[strength]N šunu[they]IP
+saao/saa05/P334181,SAA 05 078. Imposing the King’s Treaty (ABL 0246),r 8,ša[that]REL ina[in]PRP pānu[front]N ramû[slacken]V
+saao/saa05/P334181,SAA 05 078. Imposing the King’s Treaty (ABL 0246),r 9,ūla[or]AV maṣṣartu[observation]N
+saao/saa05/P334181,SAA 05 078. Imposing the King’s Treaty (ABL 0246),r 10,naṣāru[guard]V
+saao/saa05/P334181,SAA 05 078. Imposing the King’s Treaty (ABL 0246),r 11,Mumaya[Mumaean]EN
+saao/saa05/P334181,SAA 05 078. Imposing the King’s Treaty (ABL 0246),r 12,bašû[exist]V lā[not]MOD kanšu[submissive]AJ
+saao/saa05/P334181,SAA 05 078. Imposing the King’s Treaty (ABL 0246),r 13,alāku[go]V ina[in]PRP muhhu[skull]N pû[mouth]N šarru[king]N
+saao/saa05/P334181,SAA 05 078. Imposing the King’s Treaty (ABL 0246),r 14,išti[with]PRP dabābu[speak]V
+saao/saa05/P334181,SAA 05 078. Imposing the King’s Treaty (ABL 0246),r 15,ūla[or]AV mīnu[what?]QP ša[that]REL šarru[king]N
+saao/saa05/P334181,SAA 05 078. Imposing the King’s Treaty (ABL 0246),r.e. 16,qabû[say]V

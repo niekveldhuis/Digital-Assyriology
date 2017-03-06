@@ -1,0 +1,19 @@
+id_text,text_name,l_no,text
+rinap/rinap3/Q003954,Sennacherib 149,o 1,Sin-ahhe-eriba[Sennacherib;-king-of-Assyria]RN šarru[king]N kiššatu[totality]N šarru[king]N mātu[land]N Aššur[Assyria]GN ina[in]PRP šadû[mountain]N dannu[strong]AJ
+rinap/rinap3/Q003954,Sennacherib 149,o 2,ša[that]REL balṭu[living-one]N ša[of]DET rēʾû[shepherd]N hāmū[chaff]N huṣābu[twig]N ina[in]PRP libbu[interior]N
+rinap/rinap3/Q003954,Sennacherib 149,o 3,laššu[(there)-is-not]V gupnu[tree(-trunk)]N dannu[strong]AJ ša[of]DET ēru[(a-tree)]N
+rinap/rinap3/Q003954,Sennacherib 149,o 4,ina[in]PRP libbu[interior]N šerû[(meaning-unknown)]AJ šāru[wind]N dannu[strong]AJ
+rinap/rinap3/Q003954,Sennacherib 149,o 5,kayyamānu[permanment]AJ ina[in]PRP birītu[space-between]N alāku[go]V
+rinap/rinap3/Q003954,Sennacherib 149,o 6,lā[not]MOD parāsu[stop]V ina[in]PRP šakānu[put]V ša[of]DET madaktu[(military)-camp]N
+rinap/rinap3/Q003954,Sennacherib 149,o 7,balṭu[living-one]N šanû[(an)other]AJ ina[in]PRP libbu[interior]N maškanu[place-of-putting]N lā[not]MOD wabālu[carry]V
+rinap/rinap3/Q003954,Sennacherib 149,o 8,anāku[I]IP adi[until]PRP ummānu[military-force]N marāṣu[be(come)-ill]V ina[in]PRP muhhu[skull]N
+rinap/rinap3/Q003954,Sennacherib 149,o 9,redû[accompany]V
+rinap/rinap3/Q003954,Sennacherib 149,o 10,Bit-Kubatti[1]SN
+rinap/rinap3/Q003954,Sennacherib 149,r 11,Marduk-apla-iddina[Merodach-baladan-II;-king-of-Babylon]RN šarru[king]N Karduniaš[Babylonia]GN
+rinap/rinap3/Q003954,Sennacherib 149,r 12,tību[attack]N tāhāzu[battle]N adāru[be(come)-afraid]V ṣubātu[textile]N bēlūtu[rule]N
+rinap/rinap3/Q003954,Sennacherib 149,r 13,šarāṭu[tear]V ištu[from]PRP Babili[Babylon]SN urruhiš[speedily]AV waṣû[go-out]V
+rinap/rinap3/Q003954,Sennacherib 149,r 14,Šuzubu[Nergal-ušezib;-usurper-king-of-Babylon]RN šarru[king]N hammāʾu[rebel]N ša[that]REL šarrūtu[kingship]N Babili[Babylon]SN ramānu[self]N
+rinap/rinap3/Q003954,Sennacherib 149,r 15,târu[turn]V hurbāšu[frost]N tāhāzu[battle]N maqātu[fall]V
+rinap/rinap3/Q003954,Sennacherib 149,r 16,rašû[acquire]V mānahtu[weariness]N ištu[from]PRP ṣēru[back]N sisû[horse]N qaqqariš[(down)-to-the-ground]AV
+rinap/rinap3/Q003954,Sennacherib 149,r 17,maqātu[fall]V
+rinap/rinap3/Q003954,Sennacherib 149,r 18,mātu[land]N Šumeru[Sumer]GN

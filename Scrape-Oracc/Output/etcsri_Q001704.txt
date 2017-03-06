@@ -1,0 +1,11 @@
+id_text,text_name,version,l_no,text
+etcsri/Q001704,Šulgi 72,,1,sux:Inanak[1]DN
+etcsri/Q001704,Šulgi 72,,2,sux:nin[lady]N sux:Eanak[1]TN
+etcsri/Q001704,Šulgi 72,,3,sux:nin[lady]N
+etcsri/Q001704,Šulgi 72,,4,sux:namtil[life]N
+etcsri/Q001704,Šulgi 72,,5,sux:Šulgir[1]RN
+etcsri/Q001704,Šulgi 72,,6,sux:nita[male]N sux:kalag[strong]V/i
+etcsri/Q001704,Šulgi 72,,7,sux:lugal[king]N sux:Urim[1]SN
+etcsri/Q001704,Šulgi 72,,8-9,sux:lugal[king]N sux:Kiengir[1]GN sux:Akkad[1]GN
+etcsri/Q001704,Šulgi 72,,10,sux:Eaniša[1]PN
+etcsri/Q001704,Šulgi 72,,11,sux:lukur[priestess]N

@@ -1,0 +1,12 @@
+id_text,text_name,l_no,text
+saao/saa15/P334507,SAA 15 070. Returning a Son (ABL 0715),o 1,ana[to]PRP šarru[king]N bēlu[lord]N
+saao/saa15/P334507,SAA 15 070. Returning a Son (ABL 0715),o 2,ardu[slave]N Marduk-šarru-uṣur[1]PN
+saao/saa15/P334507,SAA 15 070. Returning a Son (ABL 0715),o 3,lū[may]MOD šulmu[completeness]N ana[to]PRP šarru[king]N bēlu[lord]N
+saao/saa15/P334507,SAA 15 070. Returning a Son (ABL 0715),o 4,šulmu[completeness]N ana[to]PRP mātu[land]N ša[of]DET šarru[king]N bēlu[lord]N
+saao/saa15/P334507,SAA 15 070. Returning a Son (ABL 0715),o 5,Erra-dala[1]PN
+saao/saa15/P334507,SAA 15 070. Returning a Son (ABL 0715),o 6,ša[that]REL alāku[go]V
+saao/saa15/P334507,SAA 15 070. Returning a Son (ABL 0715),r 2',pānu[front]N Bel-uṣur[1]PN
+saao/saa15/P334507,SAA 15 070. Returning a Son (ABL 0715),r 3',išti[with]PRP
+saao/saa15/P334507,SAA 15 070. Returning a Son (ABL 0715),r 4',wabālu[bring]V ūma[today]AV
+saao/saa15/P334507,SAA 15 070. Returning a Son (ABL 0715),r 5',mā[saying]PRP māru[son]N wabālu[bring]V
+saao/saa15/P334507,SAA 15 070. Returning a Son (ABL 0715),r.e. 6,awīlu[man]N

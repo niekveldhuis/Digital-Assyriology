@@ -1,0 +1,40 @@
+id_text,text_name,l_no,text
+saao/saa18/P238077,SAA 18 088. Na’id-Marduk is a Hundred Thousand Troops! (ABL 0958),o 1,ana[to]PRP šarru[king]N bēlu[lord]N ardu[slave]N
+saao/saa18/P238077,SAA 18 088. Na’id-Marduk is a Hundred Thousand Troops! (ABL 0958),o 2,ša[that]REL ištu[from]PRP Tilmun[Bahrain]GN
+saao/saa18/P238077,SAA 18 088. Na’id-Marduk is a Hundred Thousand Troops! (ABL 0958),o 3,Naʾid-Marduk[1]PN
+saao/saa18/P238077,SAA 18 088. Na’id-Marduk is a Hundred Thousand Troops! (ABL 0958),o 4,u[and]CNJ ana[to]PRP hepû[break]V
+saao/saa18/P238077,SAA 18 088. Na’id-Marduk is a Hundred Thousand Troops! (ABL 0958),o 5,ul[not]MOD šapāru[send]V
+saao/saa18/P238077,SAA 18 088. Na’id-Marduk is a Hundred Thousand Troops! (ABL 0958),o 6,u[and]CNJ ṣābu[people]N
+saao/saa18/P238077,SAA 18 088. Na’id-Marduk is a Hundred Thousand Troops! (ABL 0958),o 7,kalû[hold-(back)]V
+saao/saa18/P238077,SAA 18 088. Na’id-Marduk is a Hundred Thousand Troops! (ABL 0958),o 8,ana[to]PRP Qana[1]PN
+saao/saa18/P238077,SAA 18 088. Na’id-Marduk is a Hundred Thousand Troops! (ABL 0958),o 9,umma[saying]PRP ṣābu[people]N
+saao/saa18/P238077,SAA 18 088. Na’id-Marduk is a Hundred Thousand Troops! (ABL 0958),o 10,nadānu[give]V ul[not]MOD magāru[consent]V
+saao/saa18/P238077,SAA 18 088. Na’id-Marduk is a Hundred Thousand Troops! (ABL 0958),o 11,ul[not]MOD nadānu[give]V
+saao/saa18/P238077,SAA 18 088. Na’id-Marduk is a Hundred Thousand Troops! (ABL 0958),o 12,šabāsu[be(come)-angry]V
+saao/saa18/P238077,SAA 18 088. Na’id-Marduk is a Hundred Thousand Troops! (ABL 0958),o 13,nikkassu[account(s)]N ša[of]DET bēlu[lord]N našû[lift]V
+saao/saa18/P238077,SAA 18 088. Na’id-Marduk is a Hundred Thousand Troops! (ABL 0958),o 14,ina[in]PRP qātu[hand]N nadānu[give]V
+saao/saa18/P238077,SAA 18 088. Na’id-Marduk is a Hundred Thousand Troops! (ABL 0958),o 15,šabāsu[be(come)-angry]V nahāsu[(re)cede]V
+saao/saa18/P238077,SAA 18 088. Na’id-Marduk is a Hundred Thousand Troops! (ABL 0958),r 1',kī[like]PRP
+saao/saa18/P238077,SAA 18 088. Na’id-Marduk is a Hundred Thousand Troops! (ABL 0958),r 2',ašābu[sit-(down)]V u[and]CNJ lā[not]MOD
+saao/saa18/P238077,SAA 18 088. Na’id-Marduk is a Hundred Thousand Troops! (ABL 0958),r 3',mâtu[die]V kī[like]PRP
+saao/saa18/P238077,SAA 18 088. Na’id-Marduk is a Hundred Thousand Troops! (ABL 0958),r 4',šemû[hear]V libbu[interior]N ša[of]DET šarru[king]N ana[to]PRP muhhu[skull]N
+saao/saa18/P238077,SAA 18 088. Na’id-Marduk is a Hundred Thousand Troops! (ABL 0958),r 5',bēlu[lord]N šehṭu[angry]AJ palāhu[fear]V umma[saying]PRP
+saao/saa18/P238077,SAA 18 088. Na’id-Marduk is a Hundred Thousand Troops! (ABL 0958),r 6',hīṭu[error]N ša[of]DET bēlu[lord]N ina[in]PRP pānu[front]N šarru[king]N yānu[(there)-is-not]V
+saao/saa18/P238077,SAA 18 088. Na’id-Marduk is a Hundred Thousand Troops! (ABL 0958),r 7',ina[in]PRP libbu[interior]N ša[that]REL šēru[morning]N u[and]CNJ kaṣû[be(come)-cold]V ūmu[day]N
+saao/saa18/P238077,SAA 18 088. Na’id-Marduk is a Hundred Thousand Troops! (ABL 0958),r 8',Šamaš[1]DN u[and]CNJ Bel[1]DN ana[to]PRP balāṭu[live]V napištu[throat]N ša[of]DET šarru[king]N bēlu[lord]N
+saao/saa18/P238077,SAA 18 088. Na’id-Marduk is a Hundred Thousand Troops! (ABL 0958),r 9',ṣullû[beseech]V u[and]CNJ libbu[interior]N itti[with]PRP šarru[king]N bēlu[lord]N
+saao/saa18/P238077,SAA 18 088. Na’id-Marduk is a Hundred Thousand Troops! (ABL 0958),r 10',qatû[finished]AJ ana[to]PRP muhhu[skull]N šarru[king]N bēlu[lord]N salû[despised]AJ
+saao/saa18/P238077,SAA 18 088. Na’id-Marduk is a Hundred Thousand Troops! (ABL 0958),r 11',u[and]CNJ bītu[house]N hepû[broken]AJ ina[in]PRP libbu[interior]N ša[of]DET šēpītu[foot]N
+saao/saa18/P238077,SAA 18 088. Na’id-Marduk is a Hundred Thousand Troops! (ABL 0958),r 12',šarru[king]N bēlu[lord]N ṣabtu[seized]AJ u[and]CNJ abu[father]N ša[that]REL ana[to]PRP lā[not]MOD
+saao/saa18/P238077,SAA 18 088. Na’id-Marduk is a Hundred Thousand Troops! (ABL 0958),r 13',šarru[king]N gabbu[totality]N petû[open]AJ u[and]CNJ pitqudu[cautious]AJ
+saao/saa18/P238077,SAA 18 088. Na’id-Marduk is a Hundred Thousand Troops! (ABL 0958),r 14',libbū[belonging-to]AV agâ[this]DP qabû[say]V umma[saying]PRP ina[in]PRP
+saao/saa18/P238077,SAA 18 088. Na’id-Marduk is a Hundred Thousand Troops! (ABL 0958),r 15',Mat-Akkadi[Babylonia]GN u[and]CNJ mātu[land]N gabbu[totality]N ṣibûtu[wish]N
+saao/saa18/P238077,SAA 18 088. Na’id-Marduk is a Hundred Thousand Troops! (ABL 0958),r 16',yānu[(there)-is-not]V kī[like]PRP lā[not]MOD kī[like]PRP ina[in]PRP libbu[interior]N
+saao/saa18/P238077,SAA 18 088. Na’id-Marduk is a Hundred Thousand Troops! (ABL 0958),r 17',Naʾid-Marduk[1]PN enna[now]AV šarru[king]N lā[not]MOD qabû[say]V umma[saying]PRP
+saao/saa18/P238077,SAA 18 088. Na’id-Marduk is a Hundred Thousand Troops! (ABL 0958),r 18',Naʾid-Marduk[1]PN ištēn[one]NU šū[he]IP
+saao/saa18/P238077,SAA 18 088. Na’id-Marduk is a Hundred Thousand Troops! (ABL 0958),r 19',ṣābu[people]N šū[he]IP anīnu[we]IP ṣābu[people]N la-qāt[from-the-hand]PRP šarru[king]N
+saao/saa18/P238077,SAA 18 088. Na’id-Marduk is a Hundred Thousand Troops! (ABL 0958),r 20',bēlu[lord]N lā[not]MOD elû[go-up]V u[and]CNJ bēlu[lord]N
+saao/saa18/P238077,SAA 18 088. Na’id-Marduk is a Hundred Thousand Troops! (ABL 0958),r 21',šanû[(an)other]AJ lā[not]MOD buʾʾû[look-for]V šarru[king]N bēlu[lord]N
+saao/saa18/P238077,SAA 18 088. Na’id-Marduk is a Hundred Thousand Troops! (ABL 0958),r 22',šapāru[send]V ana[to]PRP
+saao/saa18/P238077,SAA 18 088. Na’id-Marduk is a Hundred Thousand Troops! (ABL 0958),r.e. 23,bēlu[lord]N šarru[king]N bēlu[lord]N
+saao/saa18/P238077,SAA 18 088. Na’id-Marduk is a Hundred Thousand Troops! (ABL 0958),r.e. 24,Šamaš[1]DN u[and]CNJ Marduk[1]DN ana[to]PRP šarru[king]N

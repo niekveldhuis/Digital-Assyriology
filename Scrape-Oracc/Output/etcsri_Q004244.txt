@@ -1,0 +1,4 @@
+id_text,text_name,version,l_no,text
+etcsri/Q004244,E-pa-e 1,,1,sux:e[house]N sux:du[build]V/t
+etcsri/Q004244,E-pa-e 1,,2,sux:Ninegalak[1]DN
+etcsri/Q004244,E-pa-e 1,,3,sux:Epae[1]RN

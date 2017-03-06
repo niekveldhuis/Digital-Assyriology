@@ -1,0 +1,55 @@
+id_text,text_name,version,l_no,text
+etcsri/Q000613,Laws of Lipit-Eštar,,1,sux:ud[sun]N sux:An[1]DN sux:gal[big]V/i
+etcsri/Q000613,Laws of Lipit-Eštar,,2,sux:aya[father]N sux:diŋir[deity]N
+etcsri/Q000613,Laws of Lipit-Eštar,,3,sux:Enlil[1]DN
+etcsri/Q000613,Laws of Lipit-Eštar,,4,sux:lugal[king]N sux:kur[mountain]N
+etcsri/Q000613,Laws of Lipit-Eštar,,5,sux:nam[fate]N sux:tar[cut]V/t
+etcsri/Q000613,Laws of Lipit-Eštar,,6,sux:Ninisinak[1]DN
+etcsri/Q000613,Laws of Lipit-Eštar,,7,sux:dumu[child]N sux:An[1]DN
+etcsri/Q000613,Laws of Lipit-Eštar,,8,sux:nin[lady]N sux:sun[humble]V/i
+etcsri/Q000613,Laws of Lipit-Eštar,,9,sux:namnirŋal[authority]N
+etcsri/Q000613,Laws of Lipit-Eštar,,10,sux:igi[eye]N sux:hul[rejoice]V/i
+etcsri/Q000613,Laws of Lipit-Eštar,,11,sux:saŋki[forehead]N sux:zalag[shine]V/i
+etcsri/Q000613,Laws of Lipit-Eštar,,12,sux:bar[cvve]V/t
+etcsri/Q000613,Laws of Lipit-Eštar,,13,sux:Isin[1]SN
+etcsri/Q000613,Laws of Lipit-Eštar,,14,sux:induba[boundary]N
+etcsri/Q000613,Laws of Lipit-Eštar,,15,sux:An[1]DN sux:ŋar[place]V/t
+etcsri/Q000613,Laws of Lipit-Eštar,,16,sux:bala[turn]V/t sux:sag[good]V/i
+etcsri/Q000613,Laws of Lipit-Eštar,,17,sux:namlugal[kingship]N
+etcsri/Q000613,Laws of Lipit-Eštar,,18,sux:Kiengir[1]GN sux:Akkad[1]GN
+etcsri/Q000613,Laws of Lipit-Eštar,,19,sux:šum[give]V/t
+etcsri/Q000613,Laws of Lipit-Eštar,,20,sux:ud[sun]N
+etcsri/Q000613,Laws of Lipit-Eštar,,21,sux:Lipiteštar[1]RN
+etcsri/Q000613,Laws of Lipit-Eštar,,22,sux:sipad[shepherd]N sux:ŋeš[tree]N sux:tuku[acquire]V/t
+etcsri/Q000613,Laws of Lipit-Eštar,,23,sux:mu[name]N sux:pad[find]V/t
+etcsri/Q000613,Laws of Lipit-Eštar,,24,sux:Nunamnir[1]DN
+etcsri/Q000613,Laws of Lipit-Eštar,,25,sux:niŋsisa[justice]N
+etcsri/Q000613,Laws of Lipit-Eštar,,26,sux:kalam[land]N sux:ŋar[place]V/t
+etcsri/Q000613,Laws of Lipit-Eštar,,27,sux:iʾutu[complaint]N
+etcsri/Q000613,Laws of Lipit-Eštar,,28,sux:kag[mouth]N sux:halam[forsake]V/t
+etcsri/Q000613,Laws of Lipit-Eštar,,29,sux:niŋerim[evil]N sux:niŋazig[violence]N
+etcsri/Q000613,Laws of Lipit-Eštar,,30,sux:tukul[weapon]N sux:gi[turn]V/i
+etcsri/Q000613,Laws of Lipit-Eštar,,31,sux:Kiengir[1]GN sux:Akkad[1]GN
+etcsri/Q000613,Laws of Lipit-Eštar,,32,sux:su[flesh]N sux:dug[good]V/i
+etcsri/Q000613,Laws of Lipit-Eštar,,33,sux:An[1]DN
+etcsri/Q000613,Laws of Lipit-Eštar,,34,sux:Enlil[1]DN
+etcsri/Q000613,Laws of Lipit-Eštar,,35,sux:Lipiteštar[1]RN
+etcsri/Q000613,Laws of Lipit-Eštar,,36,sux:namnun[magnificence]N sux:kalam[land]N
+etcsri/Q000613,Laws of Lipit-Eštar,,37,sux:pad[find]V/t
+etcsri/Q000613,Laws of Lipit-Eštar,,38,sux:ud[sun]N
+etcsri/Q000613,Laws of Lipit-Eštar,,39,sux:Lipiteštar[1]RN
+etcsri/Q000613,Laws of Lipit-Eštar,,40,sux:sipad[shepherd]N sux:sun[humble]V/i
+etcsri/Q000613,Laws of Lipit-Eštar,,41,sux:Nibru[1]SN
+etcsri/Q000613,Laws of Lipit-Eštar,,42,sux:engar[farmer]N sux:zid[right]V/i
+etcsri/Q000613,Laws of Lipit-Eštar,,43,sux:Urim[1]SN
+etcsri/Q000613,Laws of Lipit-Eštar,,44,sux:muš[face]N sux:tum[lead]V/t
+etcsri/Q000613,Laws of Lipit-Eštar,,45,sux:Eridug[1]SN
+etcsri/Q000613,Laws of Lipit-Eštar,,46,sux:en[priest]N sux:mete[appropriate-thing]N
+etcsri/Q000613,Laws of Lipit-Eštar,,47,sux:Unug[1]SN
+etcsri/Q000613,Laws of Lipit-Eštar,,48,sux:lugal[king]N sux:Isin[1]SN
+etcsri/Q000613,Laws of Lipit-Eštar,,49,sux:lugal[king]N sux:Kiengir[1]GN sux:Akkad[1]GN
+etcsri/Q000613,Laws of Lipit-Eštar,,50,sux:šag[heart]N sux:de[bring]V/t
+etcsri/Q000613,Laws of Lipit-Eštar,,51,sux:Inanak[1]DN
+etcsri/Q000613,Laws of Lipit-Eštar,,52,sux:inim[word]N sux:Enlil[1]DN
+etcsri/Q000613,Laws of Lipit-Eštar,,53,sux:niŋsisa[justice]N
+etcsri/Q000613,Laws of Lipit-Eštar,,54,sux:Kiengir[1]GN sux:Akkad[1]GN

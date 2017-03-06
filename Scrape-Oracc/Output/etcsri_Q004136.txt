@@ -1,0 +1,9 @@
+id_text,text_name,version,l_no,text
+etcsri/Q004136,Amar-Suen 2034add,,i 1,sux:Amarsuenak[1]RN
+etcsri/Q004136,Amar-Suen 2034add,,i 2,sux:nita[male]N sux:kalag[strong]V/i
+etcsri/Q004136,Amar-Suen 2034add,,i 3,sux:lugal[king]N sux:Urim[1]SN
+etcsri/Q004136,Amar-Suen 2034add,,i 4,sux:lugal[king]N sux:anubda[quarter]N sux:limmu[four]NU
+etcsri/Q004136,Amar-Suen 2034add,,ii 1,sux:Lunanna[3]PN
+etcsri/Q004136,Amar-Suen 2034add,,ii 2,sux:dubsar[scribe]N
+etcsri/Q004136,Amar-Suen 2034add,,ii 3,sux:dumu[child]N sux:Inimšara[1]PN
+etcsri/Q004136,Amar-Suen 2034add,,ii 4,sux:saŋDUN[recorder]N sux:lugal[king]N

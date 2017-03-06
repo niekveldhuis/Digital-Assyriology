@@ -1,0 +1,14 @@
+id_text,text_name,version,l_no,text
+etcsri/Q001985,Enlil-bani 03,,1,sux:Enlilbani[1]RN
+etcsri/Q001985,Enlil-bani 03,,2,sux:sipad[shepherd]N sux:niŋnam[anything]N sux:šar[3600]NU
+etcsri/Q001985,Enlil-bani 03,,3,sux:Nibru[1]SN
+etcsri/Q001985,Enlil-bani 03,,4,sux:lugal[king]N sux:kalag[strong]V/i
+etcsri/Q001985,Enlil-bani 03,,5,sux:lugal[king]N sux:Isin[1]SN
+etcsri/Q001985,Enlil-bani 03,,6,sux:lugal[king]N sux:Kiengir[1]GN sux:Akkad[1]GN
+etcsri/Q001985,Enlil-bani 03,,7,sux:dam[spouse]N sux:šag[heart]N sux:pad[find]V/t
+etcsri/Q001985,Enlil-bani 03,,8,sux:Inanak[1]DN
+etcsri/Q001985,Enlil-bani 03,,9,sux:ki[place]N sux:aŋ[measure]V/t sux:Enlil[1]DN
+etcsri/Q001985,Enlil-bani 03,,10,sux:u[and]CNJ sux:Ninisinak[1]DN
+etcsri/Q001985,Enlil-bani 03,,11,sux:bad[wall]N sux:Isin[1]SN
+etcsri/Q001985,Enlil-bani 03,,12,sux:sumun[old]V/i
+etcsri/Q001985,Enlil-bani 03,,13,sux:gibil[new]V/i

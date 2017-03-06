@@ -1,0 +1,12 @@
+id_text,text_name,version,l_no,text
+etcsri/Q001740,Šulgi 2012,,1,sux:lammar[deity]N sux:Tarsirsir[1]SN
+etcsri/Q001740,Šulgi 2012,,2,sux:ama[mother]N sux:Bau[1]DN
+etcsri/Q001740,Šulgi 2012,,3,sux:nin[lady]N
+etcsri/Q001740,Šulgi 2012,,4,sux:namtil[life]N
+etcsri/Q001740,Šulgi 2012,,5,sux:Šulgir[1]RN
+etcsri/Q001740,Šulgi 2012,,6,sux:nita[male]N sux:kalag[strong]V/i
+etcsri/Q001740,Šulgi 2012,,7,sux:lugal[king]N sux:Urim[1]SN
+etcsri/Q001740,Šulgi 2012,,8,sux:lugal[king]N sux:Kiengir[1]GN sux:Akkad[1]GN
+etcsri/Q001740,Šulgi 2012,,9,sux:Halalamma[1]PN
+etcsri/Q001740,Šulgi 2012,,10,sux:dumu[child]N sux:Lugirizal[1]PN
+etcsri/Q001740,Šulgi 2012,,11,sux:ensik[ruler]N

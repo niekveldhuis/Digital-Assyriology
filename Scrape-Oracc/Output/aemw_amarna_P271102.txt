@@ -1,0 +1,78 @@
+id_text,text_name,l_no,text
+<<<<<<< HEAD
+aemw/amarna/P271102,EA 159. Nothing but the truth [vassal letter],001,akk-x-mbperi:ana[to]PRP akk-x-mbperi:šarru[king]N akk-x-mbperi:bēlu[lord]N akk-x-mbperi:ilu[god]N akk-x-mbperi:Šamaš[1]DN
+aemw/amarna/P271102,EA 159. Nothing but the truth [vassal letter],002,akk-x-mbperi:umma[saying]PRP akk-x-mbperi:Aziru[1]PN akk-x-mbperi:wardu[slave]N
+aemw/amarna/P271102,EA 159. Nothing but the truth [vassal letter],003,akk-x-mbperi:u[and]CNJ akk-x-mbperi:ana[to]PRP akk-x-mbperi:šēpu[foot]N akk-x-mbperi:bēlu[lord]N
+aemw/amarna/P271102,EA 159. Nothing but the truth [vassal letter],004,akk-x-mbperi:ilu[god]N akk-x-mbperi:u[and]CNJ akk-x-mbperi:Šamaš[1]DN akk-x-mbperi:maqātu[fall]V
+aemw/amarna/P271102,EA 159. Nothing but the truth [vassal letter],005,akk-x-mbperi:ištu[from]PRP akk-x-mbperi:awātu[word]N akk-x-mbperi:šarru[king]N akk-x-mbperi:bēlu[lord]N akk-x-mbperi:ilu[god]N
+aemw/amarna/P271102,EA 159. Nothing but the truth [vassal letter],006,akk-x-mbperi:u[and]CNJ akk-x-mbperi:Šamaš[1]DN akk-x-mbperi:lā[not]MOD akk-x-mbperi:paṭāru[loosen]V
+aemw/amarna/P271102,EA 159. Nothing but the truth [vassal letter],007,akk-x-mbperi:bēlu[lord]N akk-x-mbperi:attā[you]IP akk-x-mbperi:kīma[like]PRP akk-x-mbperi:Addu[1]DN
+aemw/amarna/P271102,EA 159. Nothing but the truth [vassal letter],008,akk-x-mbperi:u[and]CNJ akk-x-mbperi:attā[you]IP akk-x-mbperi:kīma[like]PRP akk-x-mbperi:Šamaš[1]DN
+aemw/amarna/P271102,EA 159. Nothing but the truth [vassal letter],009,akk-x-mbperi:u[and]CNJ akk-x-mbperi:kī[like]PRP akk-x-mbperi:kazābu[tell-lies]V
+aemw/amarna/P271102,EA 159. Nothing but the truth [vassal letter],010,akk-x-mbperi:wardu[slave]N akk-x-mbperi:ana[to]PRP akk-x-mbperi:pānu[front]N akk-x-mbperi:bēlu[lord]N akk-x-mbperi:ilu[god]N
+aemw/amarna/P271102,EA 159. Nothing but the truth [vassal letter],011,akk-x-mbperi:amāru[see]V akk-x-mbperi:anāku[I]IP akk-x-mbperi:banû[create]V
+aemw/amarna/P271102,EA 159. Nothing but the truth [vassal letter],012,akk-x-mbperi:Ṣumur[1]GN akk-x-mbperi:inanna[now]AV
+aemw/amarna/P271102,EA 159. Nothing but the truth [vassal letter],014,akk-x-mbperi:ina[in]PRP akk-x-mbperi:šulmu[completeness]N
+aemw/amarna/P271102,EA 159. Nothing but the truth [vassal letter],015,akk-x-mbperi:Ṣumur[1]GN akk-x-mbperi:kīmê[like]PRP
+aemw/amarna/P271102,EA 159. Nothing but the truth [vassal letter],016,akk-x-mbperi:bašû[be(come)-at-hand]V akk-x-mbperi:kīmê[like]PRP
+aemw/amarna/P271102,EA 159. Nothing but the truth [vassal letter],017,akk-x-mbperi:anāku[I]IP akk-x-mbperi:kalbu[dog]N akk-x-mbperi:ša[of]DET akk-x-mbperi:šarru[king]N akk-x-mbperi:bēlu[lord]N
+aemw/amarna/P271102,EA 159. Nothing but the truth [vassal letter],018,akk-x-mbperi:ina[in]PRP akk-x-mbperi:mātu[land]N akk-x-mbperi:ša[of]DET akk-x-mbperi:bēlu[lord]N akk-x-mbperi:ilu[god]N
+aemw/amarna/P271102,EA 159. Nothing but the truth [vassal letter],019,akk-x-mbperi:eli[on]PRP
+aemw/amarna/P271102,EA 159. Nothing but the truth [vassal letter],025,akk-x-mbperi:šarru[king]N
+aemw/amarna/P271102,EA 159. Nothing but the truth [vassal letter],026,akk-x-mbperi:banû[good]AJ
+aemw/amarna/P271102,EA 159. Nothing but the truth [vassal letter],027,akk-x-mbperi:šarru[king]N akk-x-mbperi:bēlu[lord]N
+aemw/amarna/P271102,EA 159. Nothing but the truth [vassal letter],028,akk-x-mbperi:awātu[word]N
+aemw/amarna/P271102,EA 159. Nothing but the truth [vassal letter],029,akk-x-mbperi:wašāru[sink-down]V
+aemw/amarna/P271102,EA 159. Nothing but the truth [vassal letter],032,akk-x-mbperi:u[and]CNJ
+aemw/amarna/P271102,EA 159. Nothing but the truth [vassal letter],033,akk-x-mbperi:šamnu[oil]N
+aemw/amarna/P271102,EA 159. Nothing but the truth [vassal letter],034,akk-x-mbperi:manû[mina]N akk-x-mbperi:asu[myrtle]N
+aemw/amarna/P271102,EA 159. Nothing but the truth [vassal letter],035,akk-x-mbperi:u[and]CNJ akk-x-mbperi:iṣu[tree]N
+aemw/amarna/P271102,EA 159. Nothing but the truth [vassal letter],036,akk-x-mbperi:mašku[skin]N akk-x-mbperi:rīmtu[wild-cow]N
+aemw/amarna/P271102,EA 159. Nothing but the truth [vassal letter],037,akk-x-mbperi:ša[that]REL akk-x-mbperi:bašû[be(come)-at-hand]V
+aemw/amarna/P271102,EA 159. Nothing but the truth [vassal letter],038,akk-x-mbperi:ana[to]PRP akk-x-mbperi:bēlu[lord]N akk-x-mbperi:wabālu[carry]V
+aemw/amarna/P271102,EA 159. Nothing but the truth [vassal letter],039,akk-x-mbperi:aššu[because-(of)]PRP akk-x-mbperi:awīlu[man]N akk-x-mbperi:hazannu[mayor]N
+aemw/amarna/P271102,EA 159. Nothing but the truth [vassal letter],040,akk-x-mbperi:gabbu[totality]N
+aemw/amarna/P271102,EA 159. Nothing but the truth [vassal letter],041,akk-x-mbperi:awīlu[man]N akk-x-mbperi:sarru[false]AJ akk-x-mbperi:bēlu[lord]N
+aemw/amarna/P271102,EA 159. Nothing but the truth [vassal letter],042,akk-x-mbperi:amāru[see]V
+aemw/amarna/P271102,EA 159. Nothing but the truth [vassal letter],043,akk-x-mbperi:bēlu[lord]N akk-x-mbperi:Ṣumur[1]GN akk-x-mbperi:inanna[now]AV
+aemw/amarna/P271102,EA 159. Nothing but the truth [vassal letter],044,akk-x-mbperi:ina[in]PRP akk-x-mbperi:hamuttu[haste]N akk-x-mbperi:banû[create]V
+aemw/amarna/P271102,EA 159. Nothing but the truth [vassal letter],045,akk-x-mbperi:inanna[now]AV akk-x-mbperi:qiāpu[(en)trust]V
+=======
+aemw/amarna/P271102,EA 159. Nothing but the truth [vassal letter],001,akk-x-mbperi:šarru[king]N akk-x-mbperi:bēlu[lord]N akk-x-mbperi:ilu[god]N
+aemw/amarna/P271102,EA 159. Nothing but the truth [vassal letter],002,akk-x-mbperi:wardu[slave]N
+aemw/amarna/P271102,EA 159. Nothing but the truth [vassal letter],003,akk-x-mbperi:šēpu[foot]N akk-x-mbperi:bēlu[lord]N
+aemw/amarna/P271102,EA 159. Nothing but the truth [vassal letter],004,akk-x-mbperi:ilu[god]N
+aemw/amarna/P271102,EA 159. Nothing but the truth [vassal letter],005,akk-x-mbperi:awātu[word]N akk-x-mbperi:šarru[king]N akk-x-mbperi:bēlu[lord]N akk-x-mbperi:ilu[god]N
+aemw/amarna/P271102,EA 159. Nothing but the truth [vassal letter],006,
+aemw/amarna/P271102,EA 159. Nothing but the truth [vassal letter],007,akk-x-mbperi:bēlu[lord]N
+aemw/amarna/P271102,EA 159. Nothing but the truth [vassal letter],008,
+aemw/amarna/P271102,EA 159. Nothing but the truth [vassal letter],009,
+aemw/amarna/P271102,EA 159. Nothing but the truth [vassal letter],010,akk-x-mbperi:wardu[slave]N akk-x-mbperi:pānu[front]N akk-x-mbperi:bēlu[lord]N akk-x-mbperi:ilu[god]N
+aemw/amarna/P271102,EA 159. Nothing but the truth [vassal letter],011,
+aemw/amarna/P271102,EA 159. Nothing but the truth [vassal letter],012,
+aemw/amarna/P271102,EA 159. Nothing but the truth [vassal letter],014,akk-x-mbperi:šulmu[completeness]N
+aemw/amarna/P271102,EA 159. Nothing but the truth [vassal letter],015,
+aemw/amarna/P271102,EA 159. Nothing but the truth [vassal letter],016,
+aemw/amarna/P271102,EA 159. Nothing but the truth [vassal letter],017,akk-x-mbperi:kalbu[dog]N akk-x-mbperi:šarru[king]N akk-x-mbperi:bēlu[lord]N
+aemw/amarna/P271102,EA 159. Nothing but the truth [vassal letter],018,akk-x-mbperi:mātu[land]N akk-x-mbperi:bēlu[lord]N akk-x-mbperi:ilu[god]N
+aemw/amarna/P271102,EA 159. Nothing but the truth [vassal letter],019,
+aemw/amarna/P271102,EA 159. Nothing but the truth [vassal letter],025,akk-x-mbperi:šarru[king]N
+aemw/amarna/P271102,EA 159. Nothing but the truth [vassal letter],026,
+aemw/amarna/P271102,EA 159. Nothing but the truth [vassal letter],027,akk-x-mbperi:šarru[king]N akk-x-mbperi:bēlu[lord]N
+aemw/amarna/P271102,EA 159. Nothing but the truth [vassal letter],028,akk-x-mbperi:awātu[word]N
+aemw/amarna/P271102,EA 159. Nothing but the truth [vassal letter],029,
+aemw/amarna/P271102,EA 159. Nothing but the truth [vassal letter],032,
+aemw/amarna/P271102,EA 159. Nothing but the truth [vassal letter],033,akk-x-mbperi:šamnu[oil]N
+aemw/amarna/P271102,EA 159. Nothing but the truth [vassal letter],034,akk-x-mbperi:manû[mina]N akk-x-mbperi:asu[myrtle]N
+aemw/amarna/P271102,EA 159. Nothing but the truth [vassal letter],035,akk-x-mbperi:iṣu[tree]N
+aemw/amarna/P271102,EA 159. Nothing but the truth [vassal letter],036,akk-x-mbperi:mašku[skin]N akk-x-mbperi:rīmtu[wild-cow]N
+aemw/amarna/P271102,EA 159. Nothing but the truth [vassal letter],037,
+aemw/amarna/P271102,EA 159. Nothing but the truth [vassal letter],038,akk-x-mbperi:bēlu[lord]N
+aemw/amarna/P271102,EA 159. Nothing but the truth [vassal letter],039,akk-x-mbperi:awīlu[man]N akk-x-mbperi:hazannu[mayor]N
+aemw/amarna/P271102,EA 159. Nothing but the truth [vassal letter],040,akk-x-mbperi:gabbu[totality]N
+aemw/amarna/P271102,EA 159. Nothing but the truth [vassal letter],041,akk-x-mbperi:awīlu[man]N akk-x-mbperi:bēlu[lord]N
+aemw/amarna/P271102,EA 159. Nothing but the truth [vassal letter],042,
+aemw/amarna/P271102,EA 159. Nothing but the truth [vassal letter],043,akk-x-mbperi:bēlu[lord]N
+aemw/amarna/P271102,EA 159. Nothing but the truth [vassal letter],044,akk-x-mbperi:hamuttu[haste]N
+aemw/amarna/P271102,EA 159. Nothing but the truth [vassal letter],045,
+>>>>>>> d524642d5275e5016007339cafda4e021ecb17ba

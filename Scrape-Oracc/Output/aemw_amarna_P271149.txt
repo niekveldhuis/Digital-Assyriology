@@ -1,0 +1,38 @@
+id_text,text_name,l_no,text
+<<<<<<< HEAD
+aemw/amarna/P271149,EA 291. Message lost [vassal letter],007,akk-x-mbperi:u[and]CNJ
+aemw/amarna/P271149,EA 291. Message lost [vassal letter],008,akk-x-mbperi:ṣābu[people]N
+aemw/amarna/P271149,EA 291. Message lost [vassal letter],009,akk-x-mbperi:ana[to]PRP
+aemw/amarna/P271149,EA 291. Message lost [vassal letter],010,akk-x-mbperi:u[and]CNJ
+aemw/amarna/P271149,EA 291. Message lost [vassal letter],011,akk-x-mbperi:u[and]CNJ akk-x-mbperi:ana[to]PRP akk-x-mbperi:ṣābu[people]N
+aemw/amarna/P271149,EA 291. Message lost [vassal letter],012,akk-x-mbperi:malāku[discuss]V akk-x-mbperi:šarru[king]N
+aemw/amarna/P271149,EA 291. Message lost [vassal letter],013,akk-x-mbperi:ana[to]PRP akk-x-mbperi:mātu[land]N
+aemw/amarna/P271149,EA 291. Message lost [vassal letter],014,akk-x-mbperi:u[and]CNJ akk-x-mbperi:wardu[slave]N
+aemw/amarna/P271149,EA 291. Message lost [vassal letter],015,akk-x-mbperi:ana[to]PRP akk-x-mbperi:ṣābu[people]N
+aemw/amarna/P271149,EA 291. Message lost [vassal letter],016,akk-x-mbperi:buʾʾû[look-for]V
+aemw/amarna/P271149,EA 291. Message lost [vassal letter],017,akk-x-mbperi:gamru[complete]AJ akk-x-mbperi:gabbu[totality]N
+aemw/amarna/P271149,EA 291. Message lost [vassal letter],018,akk-x-mbperi:awīlu[man]N akk-x-mbperi:šarru[king]N
+aemw/amarna/P271149,EA 291. Message lost [vassal letter],019,akk-x-mbperi:šumma[if]MOD
+aemw/amarna/P271149,EA 291. Message lost [vassal letter],020,akk-x-mbperi:ana[to]PRP akk-x-mbperi:bēlu[lord]N
+aemw/amarna/P271149,EA 291. Message lost [vassal letter],021,akk-x-mbperi:qabû[said]AJ
+aemw/amarna/P271149,EA 291. Message lost [vassal letter],023,akk-x-mbperi:ana[to]PRP
+aemw/amarna/P271149,EA 291. Message lost [vassal letter],024,akk-x-mbperi:lamādu[learn]V akk-x-mbperi:šarru[king]N
+=======
+aemw/amarna/P271149,EA 291. Message lost [vassal letter],007,
+aemw/amarna/P271149,EA 291. Message lost [vassal letter],008,akk-x-mbperi:ṣābu[people]N
+aemw/amarna/P271149,EA 291. Message lost [vassal letter],009,
+aemw/amarna/P271149,EA 291. Message lost [vassal letter],010,
+aemw/amarna/P271149,EA 291. Message lost [vassal letter],011,akk-x-mbperi:ṣābu[people]N
+aemw/amarna/P271149,EA 291. Message lost [vassal letter],012,akk-x-mbperi:šarru[king]N
+aemw/amarna/P271149,EA 291. Message lost [vassal letter],013,akk-x-mbperi:mātu[land]N
+aemw/amarna/P271149,EA 291. Message lost [vassal letter],014,akk-x-mbperi:wardu[slave]N
+aemw/amarna/P271149,EA 291. Message lost [vassal letter],015,akk-x-mbperi:ṣābu[people]N
+aemw/amarna/P271149,EA 291. Message lost [vassal letter],016,
+aemw/amarna/P271149,EA 291. Message lost [vassal letter],017,akk-x-mbperi:gabbu[totality]N
+aemw/amarna/P271149,EA 291. Message lost [vassal letter],018,akk-x-mbperi:awīlu[man]N akk-x-mbperi:šarru[king]N
+aemw/amarna/P271149,EA 291. Message lost [vassal letter],019,
+aemw/amarna/P271149,EA 291. Message lost [vassal letter],020,akk-x-mbperi:bēlu[lord]N
+aemw/amarna/P271149,EA 291. Message lost [vassal letter],021,
+aemw/amarna/P271149,EA 291. Message lost [vassal letter],023,
+aemw/amarna/P271149,EA 291. Message lost [vassal letter],024,akk-x-mbperi:šarru[king]N
+>>>>>>> d524642d5275e5016007339cafda4e021ecb17ba

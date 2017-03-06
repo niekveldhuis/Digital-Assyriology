@@ -1,0 +1,10 @@
+id_text,text_name,version,l_no,text
+etcsri/Q001576,Urgar 3,,i 1,sux:lammar[deity]N
+etcsri/Q001576,Urgar 3,,ii 1,sux:nin[lady]N
+etcsri/Q001576,Urgar 3,,ii 2,sux:namtil[life]N
+etcsri/Q001576,Urgar 3,,iii 1,sux:Ur-GAR[1]RN
+etcsri/Q001576,Urgar 3,,iii 2,sux:ensik[ruler]N
+etcsri/Q001576,Urgar 3,,iv 7,sux:Lagaš[1]SN
+etcsri/Q001576,Urgar 3,,v 1,sux:dubsar[scribe]N
+etcsri/Q001576,Urgar 3,,v 2,sux:dumu[child]N sux:Puta[1]PN sux:ugula[overseer]N
+etcsri/Q001576,Urgar 3,,vi 1,sux:u[and]CNJ sux:namtil[life]N

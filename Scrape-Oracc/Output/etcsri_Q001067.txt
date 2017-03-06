@@ -1,0 +1,37 @@
+id_text,text_name,version,l_no,text
+etcsri/Q001067,E-anatum 03,,i 1,sux:Ninŋirsuk[1]DN
+etcsri/Q001067,E-anatum 03,,i 2,sux:Šara[1]DN
+etcsri/Q001067,E-anatum 03,,i 3,sux:Enlil[1]DN
+etcsri/Q001067,E-anatum 03,,i 1',sux:narua[stele]N
+etcsri/Q001067,E-anatum 03,,i 2',sux:lu[person]N sux:Umma[1]SN
+etcsri/Q001067,E-anatum 03,,i 3',sux:bur[tear]V/t
+etcsri/Q001067,E-anatum 03,,i 4',sux:eden[plain]N sux:Lagaš[1]SN
+etcsri/Q001067,E-anatum 03,,i 5',sux:kur[enter]V/i
+etcsri/Q001067,E-anatum 03,,ii 2,sux:Eanatum[1]RN
+etcsri/Q001067,E-anatum 03,,ii 3,sux:a[arm]N sux:aŋ[measure]V/t
+etcsri/Q001067,E-anatum 03,,ii 4,sux:Umma[1]SN
+etcsri/Q001067,E-anatum 03,,ii 5,sux:halam[forsake]V/t
+etcsri/Q001067,E-anatum 03,,ii 6,sux:dud[mound]N sux:Mesilim[1]RN
+etcsri/Q001067,E-anatum 03,,ii 7,sux:na[stone]N sux:du[build]V/t
+etcsri/Q001067,E-anatum 03,,ii 8,sux:Eanatum[1]RN
+etcsri/Q001067,E-anatum 03,,ii 10,sux:narua[stele]N
+etcsri/Q001067,E-anatum 03,,ii 11,sux:du[build]V/t
+etcsri/Q001067,E-anatum 03,,ii 12,sux:narua[stele]N sux:du[build]V/t
+etcsri/Q001067,E-anatum 03,,ii 13,sux:Ninŋirsuk[1]DN
+etcsri/Q001067,E-anatum 03,,ii 14,sux:en[lord]N sux:abzu[water]N
+etcsri/Q001067,E-anatum 03,,ii 15,sux:ud[sun]N sux:sud[distant]V/i sux:mah[great]V/i
+etcsri/Q001067,E-anatum 03,,ii 16,sux:Eanatum[1]RN
+etcsri/Q001067,E-anatum 03,,ii 17,sux:mu[name]N sux:še[call]V/t
+etcsri/Q001067,E-anatum 03,,ii 18,sux:lu[person]N sux:Umma[1]SN
+etcsri/Q001067,E-anatum 03,,ii 19,sux:ašag[field]N sux:de[bring]V/t
+etcsri/Q001067,E-anatum 03,,iii 1,sux:id[river]N sux:bala[turn]V/t
+etcsri/Q001067,E-anatum 03,,iii 2,sux:Ninŋirsuk[1]DN
+etcsri/Q001067,E-anatum 03,,iii 3,sux:ušumgal[dragon]N sux:me[be]V/i
+etcsri/Q001067,E-anatum 03,,iii 4,sux:Enlil[1]DN
+etcsri/Q001067,E-anatum 03,,iii 5,sux:absin[furrow]N
+etcsri/Q001067,E-anatum 03,,iii 6,sux:mun[salt]N sux:zig[rise]V/i
+etcsri/Q001067,E-anatum 03,,iii 10,sux:til[live]V/i sux:šum[give]V/t
+etcsri/Q001067,E-anatum 03,,iii 11,sux:ane[he]IP
+etcsri/Q001067,E-anatum 03,,iii 12,sux:e[house]N sux:an[sky]N
+etcsri/Q001067,E-anatum 03,,iii 14,sux:til[live]V/i sux:šum[give]V/t
+etcsri/Q001067,E-anatum 03,,iii 15,sux:iri[city]N sux:ni[self]N

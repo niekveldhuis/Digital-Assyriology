@@ -1,0 +1,44 @@
+id_text,text_name,l_no,text
+<<<<<<< HEAD
+aemw/amarna/P271051,EA 207. A loyal servant [vassal letter],001,akk-x-mbperi:ana[to]PRP akk-x-mbperi:šarru[king]N akk-x-mbperi:bēlu[lord]N akk-x-mbperi:Šamaš[1]DN
+aemw/amarna/P271051,EA 207. A loyal servant [vassal letter],002,akk-x-mbperi:qabû[say]V akk-x-mbperi:umma[saying]PRP akk-x-mbperi:Ipte-x[1]PN akk-x-mbperi:wardu[slave]N
+aemw/amarna/P271051,EA 207. A loyal servant [vassal letter],003,akk-x-mbperi:ana[to]PRP akk-x-mbperi:šēpu[foot]N akk-x-mbperi:bēlu[lord]N akk-x-mbperi:maqātu[fall]V
+aemw/amarna/P271051,EA 207. A loyal servant [vassal letter],004,akk-x-mbperi:šemû[hear]V akk-x-mbperi:kalû[all]N akk-x-mbperi:awātu[word]N akk-x-mbperi:šarru[king]N
+aemw/amarna/P271051,EA 207. A loyal servant [vassal letter],005,akk-x-mbperi:ina[in]PRP akk-x-mbperi:libbu[interior]N akk-x-mbperi:ṭuppu[(clay)-tablet]N
+aemw/amarna/P271051,EA 207. A loyal servant [vassal letter],006,akk-x-mbperi:amāru[see]V akk-x-mbperi:anāku[I]IP akk-x-mbperi:wardu[slave]N akk-x-mbperi:kittu[steadiness]N
+aemw/amarna/P271051,EA 207. A loyal servant [vassal letter],007,akk-x-mbperi:ša[that]REL akk-x-mbperi:arādu[serve]V akk-x-mbperi:šarru[king]N
+aemw/amarna/P271051,EA 207. A loyal servant [vassal letter],008,akk-x-mbperi:yānu[(there)-is-not]V akk-x-mbperi:kīma[like]PRP akk-x-mbperi:yâšim[to-me]IP akk-x-mbperi:wardu[slave]N
+aemw/amarna/P271051,EA 207. A loyal servant [vassal letter],009,akk-x-mbperi:kittu[steadiness]N akk-x-mbperi:u[and]CNJ akk-x-mbperi:inūma[when]SBJ akk-x-mbperi:qabû[say]V
+aemw/amarna/P271051,EA 207. A loyal servant [vassal letter],010,akk-x-mbperi:mīnu[what?]QP akk-x-mbperi:awātu[word]N akk-x-mbperi:šarru[king]N
+aemw/amarna/P271051,EA 207. A loyal servant [vassal letter],011,akk-x-mbperi:qabû[say]V akk-x-mbperi:rābiṣu[bailiff]N akk-x-mbperi:šarru[king]N
+aemw/amarna/P271051,EA 207. A loyal servant [vassal letter],012,akk-x-mbperi:ana[to]PRP akk-x-mbperi:kâti[you]IP akk-x-mbperi:amāru[see]V akk-x-mbperi:anāku[I]IP
+aemw/amarna/P271051,EA 207. A loyal servant [vassal letter],013,akk-x-mbperi:wardu[slave]N akk-x-mbperi:ša[of]DET akk-x-mbperi:šarru[king]N akk-x-mbperi:bēlu[lord]N
+aemw/amarna/P271051,EA 207. A loyal servant [vassal letter],014,akk-x-mbperi:u[and]CNJ akk-x-mbperi:inūma[when]SBJ akk-x-mbperi:šarru[king]N akk-x-mbperi:šâlu[ask]V
+aemw/amarna/P271051,EA 207. A loyal servant [vassal letter],015,akk-x-mbperi:rābiṣu[bailiff]N akk-x-mbperi:ana[to]PRP akk-x-mbperi:wardu[slave]N
+aemw/amarna/P271051,EA 207. A loyal servant [vassal letter],016,akk-x-mbperi:kīma[like]PRP akk-x-mbperi:Šamaš[1]DN akk-x-mbperi:u[and]CNJ akk-x-mbperi:kīma[like]PRP
+aemw/amarna/P271051,EA 207. A loyal servant [vassal letter],017,akk-x-mbperi:Addu[1]DN akk-x-mbperi:allû[certainly]MOD akk-x-mbperi:Puhuru[1]PN
+aemw/amarna/P271051,EA 207. A loyal servant [vassal letter],018,akk-x-mbperi:lā[not]MOD akk-x-mbperi:naṣāru[guard]V
+aemw/amarna/P271051,EA 207. A loyal servant [vassal letter],019,akk-x-mbperi:halqu[lost]AJ akk-x-mbperi:gabbu[totality]N
+aemw/amarna/P271051,EA 207. A loyal servant [vassal letter],020,akk-x-mbperi:ālu[city]N akk-x-mbperi:šarru[king]N akk-x-mbperi:ištu[from]PRP akk-x-mbperi:qātu[hand]N
+=======
+aemw/amarna/P271051,EA 207. A loyal servant [vassal letter],001,akk-x-mbperi:šarru[king]N akk-x-mbperi:bēlu[lord]N
+aemw/amarna/P271051,EA 207. A loyal servant [vassal letter],002,akk-x-mbperi:wardu[slave]N
+aemw/amarna/P271051,EA 207. A loyal servant [vassal letter],003,akk-x-mbperi:šēpu[foot]N akk-x-mbperi:bēlu[lord]N
+aemw/amarna/P271051,EA 207. A loyal servant [vassal letter],004,akk-x-mbperi:kalû[all]N akk-x-mbperi:awātu[word]N akk-x-mbperi:šarru[king]N
+aemw/amarna/P271051,EA 207. A loyal servant [vassal letter],005,akk-x-mbperi:libbu[interior]N akk-x-mbperi:ṭuppu[(clay)-tablet]N
+aemw/amarna/P271051,EA 207. A loyal servant [vassal letter],006,akk-x-mbperi:wardu[slave]N akk-x-mbperi:kittu[steadiness]N
+aemw/amarna/P271051,EA 207. A loyal servant [vassal letter],007,akk-x-mbperi:šarru[king]N
+aemw/amarna/P271051,EA 207. A loyal servant [vassal letter],008,akk-x-mbperi:wardu[slave]N
+aemw/amarna/P271051,EA 207. A loyal servant [vassal letter],009,akk-x-mbperi:kittu[steadiness]N
+aemw/amarna/P271051,EA 207. A loyal servant [vassal letter],010,akk-x-mbperi:awātu[word]N akk-x-mbperi:šarru[king]N
+aemw/amarna/P271051,EA 207. A loyal servant [vassal letter],011,akk-x-mbperi:rābiṣu[bailiff]N akk-x-mbperi:šarru[king]N
+aemw/amarna/P271051,EA 207. A loyal servant [vassal letter],012,
+aemw/amarna/P271051,EA 207. A loyal servant [vassal letter],013,akk-x-mbperi:wardu[slave]N akk-x-mbperi:šarru[king]N akk-x-mbperi:bēlu[lord]N
+aemw/amarna/P271051,EA 207. A loyal servant [vassal letter],014,akk-x-mbperi:šarru[king]N
+aemw/amarna/P271051,EA 207. A loyal servant [vassal letter],015,akk-x-mbperi:rābiṣu[bailiff]N akk-x-mbperi:wardu[slave]N
+aemw/amarna/P271051,EA 207. A loyal servant [vassal letter],016,
+aemw/amarna/P271051,EA 207. A loyal servant [vassal letter],017,
+aemw/amarna/P271051,EA 207. A loyal servant [vassal letter],018,
+aemw/amarna/P271051,EA 207. A loyal servant [vassal letter],019,akk-x-mbperi:gabbu[totality]N
+aemw/amarna/P271051,EA 207. A loyal servant [vassal letter],020,akk-x-mbperi:ālu[city]N akk-x-mbperi:šarru[king]N akk-x-mbperi:qātu[hand]N
+>>>>>>> d524642d5275e5016007339cafda4e021ecb17ba

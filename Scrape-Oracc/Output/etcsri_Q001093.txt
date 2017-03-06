@@ -1,0 +1,56 @@
+id_text,text_name,version,l_no,text
+etcsri/Q001093,En-metena 12,,i 1,sux:Ninŋirsuk[1]DN
+etcsri/Q001093,En-metena 12,,i 2,sux:ursaŋ[hero]N sux:Enlil[1]DN
+etcsri/Q001093,En-metena 12,,i 3,sux:Enmetenak[1]RN
+etcsri/Q001093,En-metena 12,,i 4,sux:ensik[ruler]N
+etcsri/Q001093,En-metena 12,,i 5,sux:Lagaš[1]SN
+etcsri/Q001093,En-metena 12,,i 6,sux:dumu[child]N sux:Enanatum[1]RN
+etcsri/Q001093,En-metena 12,,i 7,sux:ensik[ruler]N
+etcsri/Q001093,En-metena 12,,ii 1,sux:Lagaš[1]SN
+etcsri/Q001093,En-metena 12,,ii 2,sux:dumu.KA[relation]N
+etcsri/Q001093,En-metena 12,,ii 3,sux:Urnanše[1]RN
+etcsri/Q001093,En-metena 12,,ii 4,sux:lugal[king]N
+etcsri/Q001093,En-metena 12,,ii 5,sux:Lagaš[1]SN
+etcsri/Q001093,En-metena 12,,ii 6,sux:Ninŋirsuk[1]DN
+etcsri/Q001093,En-metena 12,,ii 7,sux:eš[shrine]N sux:Dugru[1]GN
+etcsri/Q001093,En-metena 12,,iii 1,sux:du[build]V/t
+etcsri/Q001093,En-metena 12,,iii 2,sux:Ahuš[1]TN
+etcsri/Q001093,En-metena 12,,iii 3,sux:e[house]N sux:igi[eye]N sux:zid[right]V/i sux:bar[cvve]V/t
+etcsri/Q001093,En-metena 12,,iii 4,sux:du[build]V/t
+etcsri/Q001093,En-metena 12,,iii 5,sux:Lugalurubak[1]DN
+etcsri/Q001093,En-metena 12,,iii 6,sux:e[house]N sux:gal[big]V/i sux:Urub[1]SN
+etcsri/Q001093,En-metena 12,,iv 1,sux:du[build]V/t
+etcsri/Q001093,En-metena 12,,iv 2,sux:Nanše[1]DN
+etcsri/Q001093,En-metena 12,,iv 3,sux:Eʾengur[1]TN sux:Zulum[1]SN
+etcsri/Q001093,En-metena 12,,iv 4,sux:du[build]V/t
+etcsri/Q001093,En-metena 12,,iv 5,sux:Enkik[1]DN
+etcsri/Q001093,En-metena 12,,iv 6,sux:lugal[king]N sux:Eridug[1]SN
+etcsri/Q001093,En-metena 12,,iv 7,sux:Abzupasira[1]TN
+etcsri/Q001093,En-metena 12,,v 1,sux:du[build]V/t
+etcsri/Q001093,En-metena 12,,v 2,sux:Ninhursaŋak[1]DN
+etcsri/Q001093,En-metena 12,,v 3,sux:giguna[terrace]N
+etcsri/Q001093,En-metena 12,,v 4,sux:Tirkug[1]GN
+etcsri/Q001093,En-metena 12,,v 5,sux:du[build]V/t
+etcsri/Q001093,En-metena 12,,v 6,sux:Ninŋirsuk[1]DN
+etcsri/Q001093,En-metena 12,,vi 1,sux:Antasura[1]TN
+etcsri/Q001093,En-metena 12,,vi 2,sux:e[house]N sux:melim[splendor]N sux:kur[mountain]N sux:dul[cover]V/i
+etcsri/Q001093,En-metena 12,,vi 3,sux:du[build]V/t
+etcsri/Q001093,En-metena 12,,vi 4,sux:Enlil[1]DN
+etcsri/Q001093,En-metena 12,,vi 5-6,sux:Eaddak[1]TN sux:Imsaŋ[1]GN
+etcsri/Q001093,En-metena 12,,vi 7,sux:du[build]V/t
+etcsri/Q001093,En-metena 12,,vi 8,sux:e[house]N sux:Ŋatumdug[1]DN
+etcsri/Q001093,En-metena 12,,vii 1,sux:du[build]V/t
+etcsri/Q001093,En-metena 12,,vii 2,sux:Nanše[1]DN
+etcsri/Q001093,En-metena 12,,vii 3,sux:Ešagepada[2]TN
+etcsri/Q001093,En-metena 12,,vii 4,sux:du[build]V/t
+etcsri/Q001093,En-metena 12,,vii 5,sux:Nanše[1]DN sux:giguna[terrace]N sux:mah[great]V/i
+etcsri/Q001093,En-metena 12,,vii 6,sux:du[build]V/t
+etcsri/Q001093,En-metena 12,,vii 7,sux:ud[sun]N sux:Enmetenak[1]RN
+etcsri/Q001093,En-metena 12,,viii 1,sux:lugal[king]N sux:ki[place]N sux:aŋ[measure]V/t
+etcsri/Q001093,En-metena 12,,viii 2,sux:Ninŋirsuk[1]DN
+etcsri/Q001093,En-metena 12,,viii 3,sux:elungak[brewery]N
+etcsri/Q001093,En-metena 12,,viii 4,sux:du[build]V/t
+etcsri/Q001093,En-metena 12,,viii 5,sux:Enmetenak[1]RN
+etcsri/Q001093,En-metena 12,,ix 1,sux:lu[person]N sux:elungak[brewery]N
+etcsri/Q001093,En-metena 12,,ix 2,sux:Ninŋirsuk[1]DN sux:du[build]V/t
+etcsri/Q001093,En-metena 12,,ix 3,sux:diŋir[deity]N

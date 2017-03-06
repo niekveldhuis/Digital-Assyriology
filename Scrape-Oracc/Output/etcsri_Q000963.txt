@@ -1,0 +1,11 @@
+id_text,text_name,version,l_no,text
+etcsri/Q000963,Šulgi 09,,1,sux:Nanše[1]DN
+etcsri/Q000963,Šulgi 09,,2,sux:nin[lady]N sux:urun[exalted]V/i
+etcsri/Q000963,Šulgi 09,,3,sux:nin[lady]N sux:induba[boundary]N
+etcsri/Q000963,Šulgi 09,,4,sux:nin[lady]N
+etcsri/Q000963,Šulgi 09,,5,sux:Šulgir[1]RN
+etcsri/Q000963,Šulgi 09,,6,sux:nita[male]N sux:kalag[strong]V/i
+etcsri/Q000963,Šulgi 09,,7,sux:lugal[king]N sux:Urim[1]SN
+etcsri/Q000963,Šulgi 09,,8,sux:lugal[king]N sux:Kiengir[1]GN sux:Akkad[1]GN
+etcsri/Q000963,Šulgi 09,,9,sux:Ešeššešeŋarak[1]TN
+etcsri/Q000963,Šulgi 09,,10,sux:e[house]N sux:ki[place]N sux:aŋ[measure]V/t

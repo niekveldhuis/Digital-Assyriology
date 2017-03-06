@@ -1,0 +1,64 @@
+id_text,text_name,l_no,text
+<<<<<<< HEAD
+aemw/amarna/P271013,EA 220. Awaiting the commissioner [vassal letter],001,akk-x-mbperi:ana[to]PRP akk-x-mbperi:šarru[king]N akk-x-mbperi:bēlu[lord]N akk-x-mbperi:Šamaš[1]DN
+aemw/amarna/P271013,EA 220. Awaiting the commissioner [vassal letter],002,akk-x-mbperi:qabû[say]V
+aemw/amarna/P271013,EA 220. Awaiting the commissioner [vassal letter],003,akk-x-mbperi:umma[saying]PRP akk-x-mbperi:Nukurtuwa[1]PN akk-x-mbperi:awīlu[man]N akk-x-mbperi:Zunu[Zanoach]GN
+aemw/amarna/P271013,EA 220. Awaiting the commissioner [vassal letter],004,akk-x-mbperi:wardu[slave]N akk-x-mbperi:eperu[earth]N akk-x-mbperi:ša[of]DET akk-x-mbperi:šēpu[foot]N
+aemw/amarna/P271013,EA 220. Awaiting the commissioner [vassal letter],005,akk-x-mbperi:šarru[king]N akk-x-mbperi:bēlu[lord]N akk-x-mbperi:Šamaš[1]DN
+aemw/amarna/P271013,EA 220. Awaiting the commissioner [vassal letter],006,akk-x-mbperi:u[and]CNJ akk-x-mbperi:ṭīdu[clay]N akk-x-mbperi:ša[of]DET akk-x-mbperi:kabāsu[tread]V
+aemw/amarna/P271013,EA 220. Awaiting the commissioner [vassal letter],007,akk-x-mbperi:ana[to]PRP akk-x-mbperi:šēpu[foot]N akk-x-mbperi:šarru[king]N akk-x-mbperi:bēlu[lord]N
+aemw/amarna/P271013,EA 220. Awaiting the commissioner [vassal letter],008,akk-x-mbperi:Šamaš[1]DN akk-x-mbperi:u[and]CNJ
+aemw/amarna/P271013,EA 220. Awaiting the commissioner [vassal letter],009,akk-x-mbperi:maqātu[fall]V akk-x-mbperi:šemû[hear]V akk-x-mbperi:gabbu[totality]N
+aemw/amarna/P271013,EA 220. Awaiting the commissioner [vassal letter],010,akk-x-mbperi:awātu[word]N akk-x-mbperi:šarru[king]N akk-x-mbperi:bēlu[lord]N akk-x-mbperi:Šamaš[1]DN
+aemw/amarna/P271013,EA 220. Awaiting the commissioner [vassal letter],011,akk-x-mbperi:mīya[who?]QP akk-x-mbperi:anāku[I]IP akk-x-mbperi:u[and]CNJ akk-x-mbperi:lā[not]MOD
+aemw/amarna/P271013,EA 220. Awaiting the commissioner [vassal letter],012,akk-x-mbperi:šemû[hear]V akk-x-mbperi:ana[to]PRP akk-x-mbperi:rābiṣu[bailiff]N akk-x-mbperi:šarru[king]N akk-x-mbperi:bēlu[lord]N
+aemw/amarna/P271013,EA 220. Awaiting the commissioner [vassal letter],013,akk-x-mbperi:Šamaš[1]DN akk-x-mbperi:kīma[like]PRP akk-x-mbperi:qabû[say]V
+aemw/amarna/P271013,EA 220. Awaiting the commissioner [vassal letter],014,akk-x-mbperi:šarru[king]N akk-x-mbperi:bēlu[lord]N akk-x-mbperi:Šamaš[1]DN
+aemw/amarna/P271013,EA 220. Awaiting the commissioner [vassal letter],015,akk-x-mbperi:anumma[now]AV akk-x-mbperi:naṣāru[guard]V
+aemw/amarna/P271013,EA 220. Awaiting the commissioner [vassal letter],016,akk-x-mbperi:ālu[city]N akk-x-mbperi:šarru[king]N akk-x-mbperi:bēlu[lord]N akk-x-mbperi:Šamaš[1]DN
+aemw/amarna/P271013,EA 220. Awaiting the commissioner [vassal letter],017,akk-x-mbperi:adi[until]PRP akk-x-mbperi:kašādu[reach]V
+aemw/amarna/P271013,EA 220. Awaiting the commissioner [vassal letter],018,akk-x-mbperi:rābiṣu[bailiff]N akk-x-mbperi:šarru[king]N akk-x-mbperi:bēlu[lord]N
+aemw/amarna/P271013,EA 220. Awaiting the commissioner [vassal letter],019,akk-x-mbperi:Šamaš[1]DN akk-x-mbperi:u[and]CNJ akk-x-mbperi:edû[know]V akk-x-mbperi:šarru[king]N akk-x-mbperi:bēlu[lord]N
+aemw/amarna/P271013,EA 220. Awaiting the commissioner [vassal letter],020,akk-x-mbperi:Šamaš[1]DN akk-x-mbperi:ištu[from]PRP akk-x-mbperi:šamû[sky]N akk-x-mbperi:šamû[sky]N
+aemw/amarna/P271013,EA 220. Awaiting the commissioner [vassal letter],021,akk-x-mbperi:inūma[when]SBJ akk-x-mbperi:šahṭu[jumped-(on)]AJ
+aemw/amarna/P271013,EA 220. Awaiting the commissioner [vassal letter],022,akk-x-mbperi:ālu[city]N akk-x-mbperi:ša[of]DET akk-x-mbperi:šarru[king]N akk-x-mbperi:bēlu[lord]N
+aemw/amarna/P271013,EA 220. Awaiting the commissioner [vassal letter],023,akk-x-mbperi:Šamaš[1]DN akk-x-mbperi:ša[that]REL akk-x-mbperi:itti[with]PRP
+aemw/amarna/P271013,EA 220. Awaiting the commissioner [vassal letter],024,akk-x-mbperi:u[and]CNJ akk-x-mbperi:mahṣu[beaten]AJ akk-x-mbperi:abu[father]N
+aemw/amarna/P271013,EA 220. Awaiting the commissioner [vassal letter],025,akk-x-mbperi:u[and]CNJ akk-x-mbperi:anumma[now]AV akk-x-mbperi:naṣāru[guard]V
+aemw/amarna/P271013,EA 220. Awaiting the commissioner [vassal letter],026,akk-x-mbperi:ālu[city]N akk-x-mbperi:ša[of]DET akk-x-mbperi:šarru[king]N akk-x-mbperi:bēlu[lord]N
+aemw/amarna/P271013,EA 220. Awaiting the commissioner [vassal letter],027,akk-x-mbperi:Šamaš[1]DN akk-x-mbperi:ša[that]REL akk-x-mbperi:itti[with]PRP
+aemw/amarna/P271013,EA 220. Awaiting the commissioner [vassal letter],028,akk-x-mbperi:adi[until]PRP akk-x-mbperi:kašādu[reach]V
+aemw/amarna/P271013,EA 220. Awaiting the commissioner [vassal letter],029,akk-x-mbperi:rābiṣu[bailiff]N akk-x-mbperi:šarru[king]N akk-x-mbperi:bēlu[lord]N
+aemw/amarna/P271013,EA 220. Awaiting the commissioner [vassal letter],030,akk-x-mbperi:Šamaš[1]DN akk-x-mbperi:ana[to]PRP akk-x-mbperi:lamādu[learn]V
+=======
+aemw/amarna/P271013,EA 220. Awaiting the commissioner [vassal letter],001,akk-x-mbperi:šarru[king]N akk-x-mbperi:bēlu[lord]N
+aemw/amarna/P271013,EA 220. Awaiting the commissioner [vassal letter],002,
+aemw/amarna/P271013,EA 220. Awaiting the commissioner [vassal letter],003,akk-x-mbperi:awīlu[man]N
+aemw/amarna/P271013,EA 220. Awaiting the commissioner [vassal letter],004,akk-x-mbperi:wardu[slave]N akk-x-mbperi:eperu[earth]N akk-x-mbperi:šēpu[foot]N
+aemw/amarna/P271013,EA 220. Awaiting the commissioner [vassal letter],005,akk-x-mbperi:šarru[king]N akk-x-mbperi:bēlu[lord]N
+aemw/amarna/P271013,EA 220. Awaiting the commissioner [vassal letter],006,akk-x-mbperi:ṭīdu[clay]N
+aemw/amarna/P271013,EA 220. Awaiting the commissioner [vassal letter],007,akk-x-mbperi:šēpu[foot]N akk-x-mbperi:šarru[king]N akk-x-mbperi:bēlu[lord]N
+aemw/amarna/P271013,EA 220. Awaiting the commissioner [vassal letter],008,
+aemw/amarna/P271013,EA 220. Awaiting the commissioner [vassal letter],009,akk-x-mbperi:gabbu[totality]N
+aemw/amarna/P271013,EA 220. Awaiting the commissioner [vassal letter],010,akk-x-mbperi:awātu[word]N akk-x-mbperi:šarru[king]N akk-x-mbperi:bēlu[lord]N
+aemw/amarna/P271013,EA 220. Awaiting the commissioner [vassal letter],011,
+aemw/amarna/P271013,EA 220. Awaiting the commissioner [vassal letter],012,akk-x-mbperi:rābiṣu[bailiff]N akk-x-mbperi:šarru[king]N akk-x-mbperi:bēlu[lord]N
+aemw/amarna/P271013,EA 220. Awaiting the commissioner [vassal letter],013,
+aemw/amarna/P271013,EA 220. Awaiting the commissioner [vassal letter],014,akk-x-mbperi:šarru[king]N akk-x-mbperi:bēlu[lord]N
+aemw/amarna/P271013,EA 220. Awaiting the commissioner [vassal letter],015,
+aemw/amarna/P271013,EA 220. Awaiting the commissioner [vassal letter],016,akk-x-mbperi:ālu[city]N akk-x-mbperi:šarru[king]N akk-x-mbperi:bēlu[lord]N
+aemw/amarna/P271013,EA 220. Awaiting the commissioner [vassal letter],017,
+aemw/amarna/P271013,EA 220. Awaiting the commissioner [vassal letter],018,akk-x-mbperi:rābiṣu[bailiff]N akk-x-mbperi:šarru[king]N akk-x-mbperi:bēlu[lord]N
+aemw/amarna/P271013,EA 220. Awaiting the commissioner [vassal letter],019,akk-x-mbperi:šarru[king]N akk-x-mbperi:bēlu[lord]N
+aemw/amarna/P271013,EA 220. Awaiting the commissioner [vassal letter],020,akk-x-mbperi:šamû[sky]N akk-x-mbperi:šamû[sky]N
+aemw/amarna/P271013,EA 220. Awaiting the commissioner [vassal letter],021,
+aemw/amarna/P271013,EA 220. Awaiting the commissioner [vassal letter],022,akk-x-mbperi:ālu[city]N akk-x-mbperi:šarru[king]N akk-x-mbperi:bēlu[lord]N
+aemw/amarna/P271013,EA 220. Awaiting the commissioner [vassal letter],023,
+aemw/amarna/P271013,EA 220. Awaiting the commissioner [vassal letter],024,akk-x-mbperi:abu[father]N
+aemw/amarna/P271013,EA 220. Awaiting the commissioner [vassal letter],025,
+aemw/amarna/P271013,EA 220. Awaiting the commissioner [vassal letter],026,akk-x-mbperi:ālu[city]N akk-x-mbperi:šarru[king]N akk-x-mbperi:bēlu[lord]N
+aemw/amarna/P271013,EA 220. Awaiting the commissioner [vassal letter],027,
+aemw/amarna/P271013,EA 220. Awaiting the commissioner [vassal letter],028,
+aemw/amarna/P271013,EA 220. Awaiting the commissioner [vassal letter],029,akk-x-mbperi:rābiṣu[bailiff]N akk-x-mbperi:šarru[king]N akk-x-mbperi:bēlu[lord]N
+aemw/amarna/P271013,EA 220. Awaiting the commissioner [vassal letter],030,
+>>>>>>> d524642d5275e5016007339cafda4e021ecb17ba

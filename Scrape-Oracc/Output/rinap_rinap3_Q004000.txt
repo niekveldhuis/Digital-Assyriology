@@ -1,0 +1,5 @@
+id_text,text_name,l_no,text
+rinap/rinap3/Q004000,Sennacherib 195,1,ana[to]PRP Aššur[1]DN abu[father]N ilu[god]N bēlu[lord]N
+rinap/rinap3/Q004000,Sennacherib 195,2,Sin-ahhe-eriba[Sennacherib;-king-of-Assyria]RN šarru[king]N mātu[land]N Aššur[Assyria]GN
+rinap/rinap3/Q004000,Sennacherib 195,3,ēpišu[doer]N ṣalmu[effigy]N Aššur[1]DN u[and]CNJ ilu[god]N rabû[great]AJ
+rinap/rinap3/Q004000,Sennacherib 195,4,nēbehu[band]N samītu[wall-plinth]N Ešarra[1]TN

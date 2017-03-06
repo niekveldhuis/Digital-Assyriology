@@ -1,0 +1,40 @@
+id_text,text_name,l_no,text
+dcclt/P253233,CUSAS 12 3.1.09 [OB Ura],o i 1,dilim[spoon]N
+dcclt/P253233,CUSAS 12 3.1.09 [OB Ura],o i 2,dilim[spoon]N kag[mouth]N
+dcclt/P253233,CUSAS 12 3.1.09 [OB Ura],o i 3,dilim[spoon]N banšur[table]N
+dcclt/P253233,CUSAS 12 3.1.09 [OB Ura],o i 4,bariga[unit]N
+dcclt/P253233,CUSAS 12 3.1.09 [OB Ura],o i 5,baneš[container]N
+dcclt/P253233,CUSAS 12 3.1.09 [OB Ura],o i 6,banmin[vessel]N
+dcclt/P253233,CUSAS 12 3.1.09 [OB Ura],r i 3',mirišŋara[tree]N
+dcclt/P253233,CUSAS 12 3.1.09 [OB Ura],r i 4',ŋipar[tree]N
+dcclt/P253233,CUSAS 12 3.1.09 [OB Ura],r i 5',ŋipar[tree]N duru[wet]V/i
+dcclt/P253233,CUSAS 12 3.1.09 [OB Ura],r i 6',ŋipar[tree]N ah[dry]V/i
+dcclt/P253233,CUSAS 12 3.1.09 [OB Ura],r i 7',šenu[tree]N
+dcclt/P253233,CUSAS 12 3.1.09 [OB Ura],r i 8',šedug[tree]N
+dcclt/P253233,CUSAS 12 3.1.09 [OB Ura],r i 9',dada[tree]N
+dcclt/P253233,CUSAS 12 3.1.09 [OB Ura],r i 12',anta[tree]N
+dcclt/P253233,CUSAS 12 3.1.09 [OB Ura],r i 14',ildag[poplar]N
+dcclt/P253233,CUSAS 12 3.1.09 [OB Ura],r i 15',ildag[poplar]N kur[mountain]N
+dcclt/P253233,CUSAS 12 3.1.09 [OB Ura],r i 16',ildag[poplar]N bur[spread]V/t
+dcclt/P253233,CUSAS 12 3.1.09 [OB Ura],r ii 1',lamgal[nut]N
+dcclt/P253233,CUSAS 12 3.1.09 [OB Ura],r ii 2',lamtur[nut]N
+dcclt/P253233,CUSAS 12 3.1.09 [OB Ura],r ii 3',allanum[oak]N
+dcclt/P253233,CUSAS 12 3.1.09 [OB Ura],r ii 4',lam[tree]N
+dcclt/P253233,CUSAS 12 3.1.09 [OB Ura],r ii 10',šimgig[tree]N
+dcclt/P253233,CUSAS 12 3.1.09 [OB Ura],r ii 11',šennur[plum]N
+dcclt/P253233,CUSAS 12 3.1.09 [OB Ura],r ii 12',ŋeštin[vine]N
+dcclt/P253233,CUSAS 12 3.1.09 [OB Ura],r ii 13',ŋeštinkira[berry]N
+dcclt/P253233,CUSAS 12 3.1.09 [OB Ura],r ii 14',ŋeštinguruma[~vine]N
+dcclt/P253233,CUSAS 12 3.1.09 [OB Ura],r ii 15',ŋeštinkaʾa[grape]N
+dcclt/P253233,CUSAS 12 3.1.09 [OB Ura],r ii 16',peš[fig]N
+dcclt/P253233,CUSAS 12 3.1.09 [OB Ura],r ii 17',peš[fig]N kur[mountain]N
+dcclt/P253233,CUSAS 12 3.1.09 [OB Ura],r ii 18',hašhur[apple]N
+dcclt/P253233,CUSAS 12 3.1.09 [OB Ura],r iii 1',mes[tree]N
+dcclt/P253233,CUSAS 12 3.1.09 [OB Ura],r iii 2',mes[tree]N Magan[1]GN
+dcclt/P253233,CUSAS 12 3.1.09 [OB Ura],r iii 13',girinum[plant]N
+dcclt/P253233,CUSAS 12 3.1.09 [OB Ura],r iii 14',zirdum[olive]N
+dcclt/P253233,CUSAS 12 3.1.09 [OB Ura],r iii 15',šagkal[tree]N
+dcclt/P253233,CUSAS 12 3.1.09 [OB Ura],r iii 16',hašhur[apple]N kur[mountain]N
+dcclt/P253233,CUSAS 12 3.1.09 [OB Ura],r iii 17',peškal[tree]N
+dcclt/P253233,CUSAS 12 3.1.09 [OB Ura],r iii 18',ilianum[tree]N
+dcclt/P253233,CUSAS 12 3.1.09 [OB Ura],r iii 20',urnum[cedar]N

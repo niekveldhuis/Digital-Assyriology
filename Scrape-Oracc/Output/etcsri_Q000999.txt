@@ -1,0 +1,13 @@
+id_text,text_name,version,l_no,text
+etcsri/Q000999,Šu-Suen 16,,1,sux:Šara[1]DN
+etcsri/Q000999,Šu-Suen 16,,2,sux:nirŋal[authoritative]V/i sux:An[1]DN
+etcsri/Q000999,Šu-Suen 16,,3,sux:dumu[child]N sux:ki[place]N sux:aŋ[measure]V/t
+etcsri/Q000999,Šu-Suen 16,,4,sux:Inanak[1]DN
+etcsri/Q000999,Šu-Suen 16,,5,sux:adda[father]N
+etcsri/Q000999,Šu-Suen 16,,6,sux:Šusuen[1]RN
+etcsri/Q000999,Šu-Suen 16,,7,sux:lugal[king]N sux:kalag[strong]V/i
+etcsri/Q000999,Šu-Suen 16,,8,sux:lugal[king]N sux:Urim[1]SN
+etcsri/Q000999,Šu-Suen 16,,9,sux:lugal[king]N sux:anubda[quarter]N sux:limmu[four]NU
+etcsri/Q000999,Šu-Suen 16,,10,sux:Ešagepada[1]TN
+etcsri/Q000999,Šu-Suen 16,,11,sux:e[house]N sux:ki[place]N sux:aŋ[measure]V/t
+etcsri/Q000999,Šu-Suen 16,,12,sux:namtil[life]N

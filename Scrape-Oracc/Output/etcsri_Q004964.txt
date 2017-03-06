@@ -1,0 +1,7 @@
+id_text,text_name,version,l_no,text
+etcsri/Q004964,Ibbi-Suen 2030add,,i 1,sux:Ibbisuen[1]RN
+etcsri/Q004964,Ibbi-Suen 2030add,,i 2,sux:lugal[king]N sux:kalag[strong]V/i
+etcsri/Q004964,Ibbi-Suen 2030add,,i 3,sux:lugal[king]N sux:Urim[1]SN
+etcsri/Q004964,Ibbi-Suen 2030add,,i 4,sux:lugal[king]N sux:anubda[quarter]N sux:limmu[four]NU
+etcsri/Q004964,Ibbi-Suen 2030add,,ii 1,sux:Libursuen[1]PN
+etcsri/Q004964,Ibbi-Suen 2030add,,ii 2,sux:sukkalmah[official]N

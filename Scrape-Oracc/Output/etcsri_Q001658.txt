@@ -1,0 +1,8 @@
+id_text,text_name,version,l_no,text
+etcsri/Q001658,Šulgi 17,,1,sux:Damgalnunak[1]DN
+etcsri/Q001658,Šulgi 17,,2,sux:nin[lady]N
+etcsri/Q001658,Šulgi 17,,3,sux:Šulgir[1]RN
+etcsri/Q001658,Šulgi 17,,4,sux:nita[male]N sux:kalag[strong]V/i
+etcsri/Q001658,Šulgi 17,,5,sux:lugal[king]N sux:Urim[1]SN
+etcsri/Q001658,Šulgi 17,,6,sux:lugal[king]N sux:Kiengir[1]GN sux:Akkad[1]GN
+etcsri/Q001658,Šulgi 17,,7,sux:e[house]N sux:Nibru[1]SN

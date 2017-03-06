@@ -1,0 +1,11 @@
+id_text,text_name,l_no,text
+saao/saa05/P313628,SAA 05 026. No Water in the River (CT 53 213),o 2',šapāru[send]V
+saao/saa05/P313628,SAA 05 026. No Water in the River (CT 53 213),o 3',alāku[go]V
+saao/saa05/P313628,SAA 05 026. No Water in the River (CT 53 213),b.e. 9',lā[not]MOD zinnu[rain]N
+saao/saa05/P313628,SAA 05 026. No Water in the River (CT 53 213),b.e. 10',lā[not]MOD kuppû[snow]N
+saao/saa05/P313628,SAA 05 026. No Water in the River (CT 53 213),b.e. 11',zanānu[rain]V
+saao/saa05/P313628,SAA 05 026. No Water in the River (CT 53 213),r 1,mû[water]N ina[in]PRP nāru[river]N laššu[(there)-is-not]V
+saao/saa05/P313628,SAA 05 026. No Water in the River (CT 53 213),r 2,ištu[from]PRP bītu[house]N ištu[from]PRP pānu[front]N šarru[king]N
+saao/saa05/P313628,SAA 05 026. No Water in the River (CT 53 213),r 3,bēlu[lord]N alāku[go]V
+saao/saa05/P313628,SAA 05 026. No Water in the River (CT 53 213),r 4,ebēru[cross-over]V
+saao/saa05/P313628,SAA 05 026. No Water in the River (CT 53 213),r 5,nēhu[calm]AJ

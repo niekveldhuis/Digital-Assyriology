@@ -1,0 +1,23 @@
+id_text,text_name,version,l_no,text
+etcsri/Q001362,En-šakuš-Ana 1,,1,sux:Enlil[1]DN
+etcsri/Q001362,En-šakuš-Ana 1,,2,sux:lugal[king]N sux:kur[mountain]N
+etcsri/Q001362,En-šakuš-Ana 1,,3,sux:Enšakušanak[1]RN
+etcsri/Q001362,En-šakuš-Ana 1,,4,sux:en[lord]N sux:Kiengir[1]GN
+etcsri/Q001362,En-šakuš-Ana 1,,5,sux:lugal[king]N sux:kalam[land]N
+etcsri/Q001362,En-šakuš-Ana 1,,6,sux:ud[sun]N sux:diŋir[deity]N
+etcsri/Q001362,En-šakuš-Ana 1,,7,sux:dug[speak]V/t
+etcsri/Q001362,En-šakuš-Ana 1,,8,sux:Kiš[1]SN
+etcsri/Q001362,En-šakuš-Ana 1,,9,sux:hulu[bad]V/t
+etcsri/Q001362,En-šakuš-Ana 1,,10,sux:Enbieštar[1]RN
+etcsri/Q001362,En-šakuš-Ana 1,,11,sux:lugal[king]N sux:Kiš[1]SN
+etcsri/Q001362,En-šakuš-Ana 1,,12,sux:dab[seize]V/t
+etcsri/Q001362,En-šakuš-Ana 1,,13,sux:lu[person]N sux:Akšak[1]SN
+etcsri/Q001362,En-šakuš-Ana 1,,14,sux:lu[person]N sux:Kiš[1]SN
+etcsri/Q001362,En-šakuš-Ana 1,,15,sux:iri[city]N sux:hulu[bad]V/t
+etcsri/Q001362,En-šakuš-Ana 1,,1',sux:šu[hand]N
+etcsri/Q001362,En-šakuš-Ana 1,,2',sux:gi[turn]V/i
+etcsri/Q001362,En-šakuš-Ana 1,,3',sux:alan[statue]N
+etcsri/Q001362,En-šakuš-Ana 1,,4',sux:kug[metal]N sux:zagin[lapis]N
+etcsri/Q001362,En-šakuš-Ana 1,,5',sux:ŋeš[tree]N sux:niŋgur[property]N
+etcsri/Q001362,En-šakuš-Ana 1,,6',sux:Enlil[1]DN
+etcsri/Q001362,En-šakuš-Ana 1,,7',sux:Nibru[1]SN

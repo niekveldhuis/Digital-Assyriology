@@ -1,0 +1,10 @@
+id_text,text_name,version,l_no,text
+etcsri/Q000957,Ur-Namma 39,,1,sux:Enlil[1]DN
+etcsri/Q000957,Ur-Namma 39,,2,sux:lugal[king]N sux:kur[mountain]N
+etcsri/Q000957,Ur-Namma 39,,3,sux:lugal[king]N
+etcsri/Q000957,Ur-Namma 39,,4,sux:Urnammak[1]RN
+etcsri/Q000957,Ur-Namma 39,,5,sux:nita[male]N sux:kalag[strong]V/i
+etcsri/Q000957,Ur-Namma 39,,6,sux:lugal[king]N sux:Urim[1]SN
+etcsri/Q000957,Ur-Namma 39,,7,sux:lugal[king]N sux:Kiengir[1]GN sux:Akkad[1]GN
+etcsri/Q000957,Ur-Namma 39,,8,sux:id[river]N sux:Urim[1]SN
+etcsri/Q000957,Ur-Namma 39,,9,sux:id[river]N sux:nindaba[offering]N

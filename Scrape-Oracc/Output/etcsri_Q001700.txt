@@ -1,0 +1,7 @@
+id_text,text_name,version,l_no,text
+etcsri/Q001700,Šulgi 68,,1,sux:Amatsuen[1]PN
+etcsri/Q001700,Šulgi 68,,2,sux:dam[spouse]N sux:Šulgir[1]RN
+etcsri/Q001700,Šulgi 68,,3,sux:nita[male]N sux:kalag[strong]V/i
+etcsri/Q001700,Šulgi 68,,4,sux:lugal[king]N sux:Urim[1]SN
+etcsri/Q001700,Šulgi 68,,5,sux:Itrakili[1]PN
+etcsri/Q001700,Šulgi 68,,6,sux:ragaba[rider]N

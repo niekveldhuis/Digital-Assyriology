@@ -1,0 +1,170 @@
+id_text,text_name,l_no,text
+<<<<<<< HEAD
+aemw/amarna/P270913,EA 149. Neither water nor wood [vassal letter],001,akk-x-mbperi:ana[to]PRP akk-x-mbperi:šarru[king]N akk-x-mbperi:bēlu[lord]N akk-x-mbperi:Šamaš[1]DN akk-x-mbperi:ilu[god]N
+aemw/amarna/P270913,EA 149. Neither water nor wood [vassal letter],002,akk-x-mbperi:umma[saying]PRP akk-x-mbperi:Abi-milku[1]PN akk-x-mbperi:wardu[slave]N
+aemw/amarna/P270913,EA 149. Neither water nor wood [vassal letter],003,akk-x-mbperi:u[and]CNJ akk-x-mbperi:ana[to]PRP akk-x-mbperi:šēpu[foot]N akk-x-mbperi:šarru[king]N akk-x-mbperi:bēlu[lord]N akk-x-mbperi:maqātu[fall]V
+aemw/amarna/P270913,EA 149. Neither water nor wood [vassal letter],004,akk-x-mbperi:anāku[I]IP akk-x-mbperi:eperu[earth]N akk-x-mbperi:ištu[from]PRP akk-x-mbperi:šupālu[depression]N akk-x-mbperi:šēpu[foot]N
+aemw/amarna/P270913,EA 149. Neither water nor wood [vassal letter],005,akk-x-mbperi:šēnu[sandal(s)]N akk-x-mbperi:šarru[king]N akk-x-mbperi:bēlu[lord]N
+aemw/amarna/P270913,EA 149. Neither water nor wood [vassal letter],006,akk-x-mbperi:šarru[king]N akk-x-mbperi:bēlu[lord]N akk-x-mbperi:kīma[like]PRP akk-x-mbperi:Šamaš[1]DN
+aemw/amarna/P270913,EA 149. Neither water nor wood [vassal letter],007,akk-x-mbperi:kīma[like]PRP akk-x-mbperi:Addu[1]DN akk-x-mbperi:ina[in]PRP akk-x-mbperi:šamû[sky]N akk-x-mbperi:attā[you]IP
+aemw/amarna/P270913,EA 149. Neither water nor wood [vassal letter],008,akk-x-mbperi:malāku[discuss]V akk-x-mbperi:šarru[king]N akk-x-mbperi:ana[to]PRP akk-x-mbperi:wardu[slave]N
+aemw/amarna/P270913,EA 149. Neither water nor wood [vassal letter],009,akk-x-mbperi:šarru[king]N akk-x-mbperi:bēlu[lord]N akk-x-mbperi:paqādu[entrust]V
+aemw/amarna/P270913,EA 149. Neither water nor wood [vassal letter],010,akk-x-mbperi:ana[to]PRP akk-x-mbperi:naṣāru[guard]V akk-x-mbperi:Ṣurru[Tyre]GN akk-x-mbperi:amtu[maid]N akk-x-mbperi:šarru[king]N
+aemw/amarna/P270913,EA 149. Neither water nor wood [vassal letter],011,akk-x-mbperi:u[and]CNJ akk-x-mbperi:šapāru[send]V akk-x-mbperi:ṭuppu[(clay)-tablet]N akk-x-mbperi:hamutta[at-once]AV
+aemw/amarna/P270913,EA 149. Neither water nor wood [vassal letter],012,akk-x-mbperi:ana[to]PRP akk-x-mbperi:šarru[king]N akk-x-mbperi:bēlu[lord]N akk-x-mbperi:u[and]CNJ akk-x-mbperi:lā[not]MOD
+aemw/amarna/P270913,EA 149. Neither water nor wood [vassal letter],013,akk-x-mbperi:târu[turn]V akk-x-mbperi:awātu[word]N akk-x-mbperi:ana[to]PRP akk-x-mbperi:yâšim[to-me]IP
+aemw/amarna/P270913,EA 149. Neither water nor wood [vassal letter],014,akk-x-mbperi:anāku[I]IP akk-x-mbperi:rābiṣu[bailiff]N akk-x-mbperi:šarru[king]N akk-x-mbperi:bēlu[lord]N
+aemw/amarna/P270913,EA 149. Neither water nor wood [vassal letter],015,akk-x-mbperi:u[and]CNJ akk-x-mbperi:anāku[I]IP akk-x-mbperi:ša[that]REL akk-x-mbperi:wabālu[carry]V akk-x-mbperi:awātu[word]N
+aemw/amarna/P270913,EA 149. Neither water nor wood [vassal letter],016,akk-x-mbperi:ṭābu[good]AJ akk-x-mbperi:u[and]CNJ akk-x-mbperi:annāma[there]AV akk-x-mbperi:lemnu[bad]AJ
+aemw/amarna/P270913,EA 149. Neither water nor wood [vassal letter],017,akk-x-mbperi:ana[to]PRP akk-x-mbperi:šarru[king]N akk-x-mbperi:bēlu[lord]N akk-x-mbperi:wašāru[sink-down]V
+aemw/amarna/P270913,EA 149. Neither water nor wood [vassal letter],018,akk-x-mbperi:šarru[king]N akk-x-mbperi:šēpu[foot]N akk-x-mbperi:ana[to]PRP akk-x-mbperi:naṣāru[guard]V
+aemw/amarna/P270913,EA 149. Neither water nor wood [vassal letter],019,akk-x-mbperi:ālu[city]N akk-x-mbperi:u[and]CNJ akk-x-mbperi:erēbu[enter]V akk-x-mbperi:ana[to]PRP akk-x-mbperi:muhhu[skull]N
+aemw/amarna/P270913,EA 149. Neither water nor wood [vassal letter],020,akk-x-mbperi:šarru[king]N akk-x-mbperi:bēlu[lord]N akk-x-mbperi:u[and]CNJ akk-x-mbperi:amāru[see]V akk-x-mbperi:pānu[front]N
+aemw/amarna/P270913,EA 149. Neither water nor wood [vassal letter],021,akk-x-mbperi:mannu[what?]QP akk-x-mbperi:balāṭu[life]N akk-x-mbperi:šēpu[foot]N
+aemw/amarna/P270913,EA 149. Neither water nor wood [vassal letter],022,akk-x-mbperi:inūma[when]SBJ akk-x-mbperi:lā[not]MOD akk-x-mbperi:waṣû[go-out]V
+aemw/amarna/P270913,EA 149. Neither water nor wood [vassal letter],023,akk-x-mbperi:šāru[wind]N akk-x-mbperi:ištu[from]PRP akk-x-mbperi:pû[mouth]N akk-x-mbperi:šarru[king]N akk-x-mbperi:bēlu[lord]N
+aemw/amarna/P270913,EA 149. Neither water nor wood [vassal letter],024,akk-x-mbperi:u[and]CNJ akk-x-mbperi:balṭu[living]AJ akk-x-mbperi:šumma[if]MOD akk-x-mbperi:šarru[king]N akk-x-mbperi:šapāru[send]V
+aemw/amarna/P270913,EA 149. Neither water nor wood [vassal letter],025,akk-x-mbperi:ana[to]PRP akk-x-mbperi:wardu[slave]N akk-x-mbperi:u[and]CNJ akk-x-mbperi:balṭu[living]AJ
+aemw/amarna/P270913,EA 149. Neither water nor wood [vassal letter],026,akk-x-mbperi:ana[to]PRP akk-x-mbperi:dārītu[perpetuity]N akk-x-mbperi:anāku[I]IP
+aemw/amarna/P270913,EA 149. Neither water nor wood [vassal letter],027,akk-x-mbperi:ištu[from]PRP akk-x-mbperi:šaddaqda[last-year]N
+aemw/amarna/P270913,EA 149. Neither water nor wood [vassal letter],028,akk-x-mbperi:pānu[front]N akk-x-mbperi:ana[to]PRP akk-x-mbperi:erēbu[enter]V
+aemw/amarna/P270913,EA 149. Neither water nor wood [vassal letter],029,akk-x-mbperi:ana[to]PRP akk-x-mbperi:dagālu[see]V akk-x-mbperi:pānu[front]N akk-x-mbperi:šarru[king]N akk-x-mbperi:bēlu[lord]N
+aemw/amarna/P270913,EA 149. Neither water nor wood [vassal letter],030,akk-x-mbperi:Zimri-Yidda[1]PN
+aemw/amarna/P270913,EA 149. Neither water nor wood [vassal letter],031,akk-x-mbperi:šemû[hear]V akk-x-mbperi:târu[turn]V
+aemw/amarna/P270913,EA 149. Neither water nor wood [vassal letter],032,akk-x-mbperi:eleppu[ship]N akk-x-mbperi:ištu[from]PRP akk-x-mbperi:šarru[king]N akk-x-mbperi:bēlu[lord]N
+aemw/amarna/P270913,EA 149. Neither water nor wood [vassal letter],033,akk-x-mbperi:mannu[who?]QP akk-x-mbperi:erēbu[enter]V
+aemw/amarna/P270913,EA 149. Neither water nor wood [vassal letter],034,akk-x-mbperi:ana[to]PRP akk-x-mbperi:muhhu[skull]N akk-x-mbperi:šarru[king]N akk-x-mbperi:šemû[hear]V akk-x-mbperi:bēlu[lord]N
+aemw/amarna/P270913,EA 149. Neither water nor wood [vassal letter],035,akk-x-mbperi:leqû[take]V akk-x-mbperi:Ṣumur[1]GN akk-x-mbperi:Aziru[1]PN
+aemw/amarna/P270913,EA 149. Neither water nor wood [vassal letter],036,akk-x-mbperi:māru[son]N akk-x-mbperi:Abdi-Aširte[1]PN
+aemw/amarna/P270913,EA 149. Neither water nor wood [vassal letter],037,akk-x-mbperi:arnu[guilt]N akk-x-mbperi:šarru[king]N akk-x-mbperi:Haʾip[1]PN
+aemw/amarna/P270913,EA 149. Neither water nor wood [vassal letter],038,akk-x-mbperi:elû[go-up]V akk-x-mbperi:šāru[hostile-one]N akk-x-mbperi:awīlu[man]N akk-x-mbperi:nukurtu[enmity]N
+aemw/amarna/P270913,EA 149. Neither water nor wood [vassal letter],039,akk-x-mbperi:nadānu[give]V akk-x-mbperi:Ṣumur[1]GN
+aemw/amarna/P270913,EA 149. Neither water nor wood [vassal letter],040,akk-x-mbperi:ana[to]PRP akk-x-mbperi:Aziru[1]PN akk-x-mbperi:u[and]CNJ akk-x-mbperi:lā[not]MOD
+aemw/amarna/P270913,EA 149. Neither water nor wood [vassal letter],041,akk-x-mbperi:qâlu[pay-attention]V akk-x-mbperi:šarru[king]N akk-x-mbperi:ištu[from]PRP akk-x-mbperi:ālu[city]N akk-x-mbperi:u[and]CNJ
+aemw/amarna/P270913,EA 149. Neither water nor wood [vassal letter],042,akk-x-mbperi:ištu[from]PRP akk-x-mbperi:mātu[land]N akk-x-mbperi:inūma[when]SBJ akk-x-mbperi:šemû[hear]V
+aemw/amarna/P270913,EA 149. Neither water nor wood [vassal letter],043,akk-x-mbperi:šumu[name]N akk-x-mbperi:šarru[king]N akk-x-mbperi:u[and]CNJ akk-x-mbperi:šumu[name]N akk-x-mbperi:ummānu[army]N
+aemw/amarna/P270913,EA 149. Neither water nor wood [vassal letter],044,akk-x-mbperi:u[and]CNJ akk-x-mbperi:palhu[fearful]AJ akk-x-mbperi:magal[very-(much)]AV akk-x-mbperi:u[and]CNJ akk-x-mbperi:gabbu[totality]N
+aemw/amarna/P270913,EA 149. Neither water nor wood [vassal letter],045,akk-x-mbperi:mātu[land]N akk-x-mbperi:palhu[fearful]AJ akk-x-mbperi:u[and]CNJ akk-x-mbperi:ša[that]REL akk-x-mbperi:lā[not]MOD
+aemw/amarna/P270913,EA 149. Neither water nor wood [vassal letter],046,akk-x-mbperi:alāku[go]V akk-x-mbperi:ana[to]PRP akk-x-mbperi:warkû[rear]N akk-x-mbperi:šarru[king]N akk-x-mbperi:bēlu[lord]N
+aemw/amarna/P270913,EA 149. Neither water nor wood [vassal letter],047,akk-x-mbperi:šarru[king]N akk-x-mbperi:edû[know]V akk-x-mbperi:inūma[when]SBJ akk-x-mbperi:šaknu[placed]AJ
+aemw/amarna/P270913,EA 149. Neither water nor wood [vassal letter],048,akk-x-mbperi:ina[in]PRP akk-x-mbperi:rābiṣu[bailiff]N akk-x-mbperi:ina[in]PRP akk-x-mbperi:Ṣurru[Tyre]GN
+aemw/amarna/P270913,EA 149. Neither water nor wood [vassal letter],049,akk-x-mbperi:leqû[take]V akk-x-mbperi:Zimri-Yidda[1]PN akk-x-mbperi:Usu[1]GN
+aemw/amarna/P270913,EA 149. Neither water nor wood [vassal letter],050,akk-x-mbperi:ištu[from]PRP akk-x-mbperi:wardu[slave]N akk-x-mbperi:ezēbu[leave]V
+aemw/amarna/P270913,EA 149. Neither water nor wood [vassal letter],051,akk-x-mbperi:u[and]CNJ akk-x-mbperi:yānu[(there)-is-not]V akk-x-mbperi:mû[water]N akk-x-mbperi:yānu[(there)-is-not]V akk-x-mbperi:iṣu[tree]N akk-x-mbperi:ana[to]PRP akk-x-mbperi:yâšinu[to-us]IP
+aemw/amarna/P270913,EA 149. Neither water nor wood [vassal letter],052,akk-x-mbperi:u[and]CNJ akk-x-mbperi:yānu[(there)-is-not]V akk-x-mbperi:ayyakamma[somewhere]AV akk-x-mbperi:šakānu[put]V
+aemw/amarna/P270913,EA 149. Neither water nor wood [vassal letter],053,akk-x-mbperi:mītu[dead-one]N akk-x-mbperi:u[and]CNJ akk-x-mbperi:šarru[king]N akk-x-mbperi:bēlu[lord]N
+aemw/amarna/P270913,EA 149. Neither water nor wood [vassal letter],054,akk-x-mbperi:malāku[discuss]V akk-x-mbperi:ana[to]PRP akk-x-mbperi:wardu[slave]N akk-x-mbperi:šarru[king]N akk-x-mbperi:bēlu[lord]N
+aemw/amarna/P270913,EA 149. Neither water nor wood [vassal letter],055,akk-x-mbperi:ina[in]PRP akk-x-mbperi:ṭuppu[(clay)-tablet]N akk-x-mbperi:šapāru[send]V akk-x-mbperi:ana[to]PRP akk-x-mbperi:yâšim[to-me]IP
+aemw/amarna/P270913,EA 149. Neither water nor wood [vassal letter],056,akk-x-mbperi:mīnummê[all-(of)]XP akk-x-mbperi:šemû[hear]V akk-x-mbperi:u[and]CNJ akk-x-mbperi:šapāru[send]V
+aemw/amarna/P270913,EA 149. Neither water nor wood [vassal letter],057,akk-x-mbperi:ana[to]PRP akk-x-mbperi:šarru[king]N akk-x-mbperi:Zimri-Yidda[1]PN akk-x-mbperi:Ṣiduna[Sidon]GN
+aemw/amarna/P270913,EA 149. Neither water nor wood [vassal letter],058,akk-x-mbperi:u[and]CNJ akk-x-mbperi:Aziru[1]PN akk-x-mbperi:arnu[guilt]N akk-x-mbperi:šarru[king]N
+aemw/amarna/P270913,EA 149. Neither water nor wood [vassal letter],059,akk-x-mbperi:u[and]CNJ akk-x-mbperi:awīlu[man]N akk-x-mbperi:Arwada[Arvad]GN akk-x-mbperi:tamû[swear]V
+aemw/amarna/P270913,EA 149. Neither water nor wood [vassal letter],060,akk-x-mbperi:u[and]CNJ akk-x-mbperi:šanû[do-twice]V akk-x-mbperi:māmītu[oath]N akk-x-mbperi:ina[in]PRP akk-x-mbperi:biri[among]PRP
+aemw/amarna/P270913,EA 149. Neither water nor wood [vassal letter],061,akk-x-mbperi:u[and]CNJ akk-x-mbperi:pahāru[gather]V akk-x-mbperi:eleppu[ship]N
+aemw/amarna/P270913,EA 149. Neither water nor wood [vassal letter],062,akk-x-mbperi:narkabtu[chariot]N akk-x-mbperi:ṣābu[people]N akk-x-mbperi:šēpu[foot]N
+aemw/amarna/P270913,EA 149. Neither water nor wood [vassal letter],063,akk-x-mbperi:ana[to]PRP akk-x-mbperi:ṣabātu[seize]V akk-x-mbperi:Ṣurru[Tyre]GN akk-x-mbperi:amtu[maid]N akk-x-mbperi:šarru[king]N
+aemw/amarna/P270913,EA 149. Neither water nor wood [vassal letter],064,akk-x-mbperi:kašdu[achieved]AJ akk-x-mbperi:qātu[hand]N akk-x-mbperi:šarru[king]N akk-x-mbperi:dannu[strong]AJ
+aemw/amarna/P270913,EA 149. Neither water nor wood [vassal letter],065,akk-x-mbperi:u[and]CNJ akk-x-mbperi:dīku[killed]AJ akk-x-mbperi:Ṣurru[Tyre]GN
+aemw/amarna/P270913,EA 149. Neither water nor wood [vassal letter],066,akk-x-mbperi:lā[not]MOD akk-x-mbperi:leʾû[be(come)-able]V akk-x-mbperi:ana[to]PRP akk-x-mbperi:ṣabātu[seize]V
+aemw/amarna/P270913,EA 149. Neither water nor wood [vassal letter],067,akk-x-mbperi:u[and]CNJ akk-x-mbperi:Ṣumur[1]GN akk-x-mbperi:ṣabtu[captured]AJ
+aemw/amarna/P270913,EA 149. Neither water nor wood [vassal letter],068,akk-x-mbperi:ina[in]PRP akk-x-mbperi:pû[mouth]N akk-x-mbperi:Zimri-Yidda[1]PN
+aemw/amarna/P270913,EA 149. Neither water nor wood [vassal letter],069,akk-x-mbperi:ša[that]REL akk-x-mbperi:wabālu[carry]V akk-x-mbperi:awātu[word]N akk-x-mbperi:šarru[king]N
+aemw/amarna/P270913,EA 149. Neither water nor wood [vassal letter],070,akk-x-mbperi:ana[to]PRP akk-x-mbperi:Aziru[1]PN akk-x-mbperi:u[and]CNJ akk-x-mbperi:šapāru[send]V
+aemw/amarna/P270913,EA 149. Neither water nor wood [vassal letter],071,akk-x-mbperi:ṭuppu[(clay)-tablet]N akk-x-mbperi:ana[to]PRP akk-x-mbperi:šarru[king]N akk-x-mbperi:bēlu[lord]N
+aemw/amarna/P270913,EA 149. Neither water nor wood [vassal letter],072,akk-x-mbperi:u[and]CNJ akk-x-mbperi:lā[not]MOD akk-x-mbperi:târu[turn]V
+aemw/amarna/P270913,EA 149. Neither water nor wood [vassal letter],073,akk-x-mbperi:awātu[word]N akk-x-mbperi:ana[to]PRP akk-x-mbperi:wardu[slave]N
+aemw/amarna/P270913,EA 149. Neither water nor wood [vassal letter],074,akk-x-mbperi:ištu[from]PRP akk-x-mbperi:šaddaqda[last-year]N akk-x-mbperi:nukurtu[enmity]N
+aemw/amarna/P270913,EA 149. Neither water nor wood [vassal letter],075,akk-x-mbperi:ina[in]PRP akk-x-mbperi:muhhu[skull]N akk-x-mbperi:yānu[(there)-is-not]V akk-x-mbperi:mû[water]N
+aemw/amarna/P270913,EA 149. Neither water nor wood [vassal letter],076,akk-x-mbperi:yānu[(there)-is-not]V akk-x-mbperi:iṣu[tree]N akk-x-mbperi:wašāru[sink-down]V
+aemw/amarna/P270913,EA 149. Neither water nor wood [vassal letter],077,akk-x-mbperi:ṭuppu[(clay)-tablet]N akk-x-mbperi:ana[to]PRP akk-x-mbperi:wardu[slave]N
+aemw/amarna/P270913,EA 149. Neither water nor wood [vassal letter],078,akk-x-mbperi:u[and]CNJ akk-x-mbperi:erēbu[enter]V akk-x-mbperi:u[and]CNJ akk-x-mbperi:amāru[see]V akk-x-mbperi:pānu[front]N akk-x-mbperi:u[and]CNJ akk-x-mbperi:šarru[king]N akk-x-mbperi:malāku[discuss]V
+aemw/amarna/P270913,EA 149. Neither water nor wood [vassal letter],079,akk-x-mbperi:ana[to]PRP akk-x-mbperi:wardu[slave]N akk-x-mbperi:ana[to]PRP akk-x-mbperi:ālu[city]N akk-x-mbperi:u[and]CNJ akk-x-mbperi:lā[not]MOD akk-x-mbperi:ezēbu[leave]V
+aemw/amarna/P270913,EA 149. Neither water nor wood [vassal letter],080,akk-x-mbperi:ālu[city]N akk-x-mbperi:mātu[land]N akk-x-mbperi:ammīni[why?]AV akk-x-mbperi:namāšu[set-(oneself)-in-motion]V akk-x-mbperi:rābiṣu[bailiff]N akk-x-mbperi:ša[of]DET
+aemw/amarna/P270913,EA 149. Neither water nor wood [vassal letter],081,akk-x-mbperi:šarru[king]N akk-x-mbperi:bēlu[lord]N akk-x-mbperi:ištu[from]PRP akk-x-mbperi:mātu[land]N akk-x-mbperi:u[and]CNJ akk-x-mbperi:edû[know]V akk-x-mbperi:Zimri-Yidda[1]PN
+aemw/amarna/P270913,EA 149. Neither water nor wood [vassal letter],082,akk-x-mbperi:u[and]CNJ akk-x-mbperi:edû[know]V akk-x-mbperi:šāru[hostile-one]N akk-x-mbperi:idu[arm]N akk-x-mbperi:šarru[king]N akk-x-mbperi:ša[that]REL akk-x-mbperi:yānu[(there)-is-not]V akk-x-mbperi:anumma[now]AV akk-x-mbperi:wabālu[carry]V
+aemw/amarna/P270913,EA 149. Neither water nor wood [vassal letter],083,akk-x-mbperi:ṭuppu[(clay)-tablet]N akk-x-mbperi:šēpu[foot]N akk-x-mbperi:ana[to]PRP akk-x-mbperi:muhhu[skull]N akk-x-mbperi:šarru[king]N akk-x-mbperi:Šamaš[1]DN akk-x-mbperi:bēlu[lord]N
+=======
+aemw/amarna/P270913,EA 149. Neither water nor wood [vassal letter],001,akk-x-mbperi:šarru[king]N akk-x-mbperi:bēlu[lord]N akk-x-mbperi:ilu[god]N
+aemw/amarna/P270913,EA 149. Neither water nor wood [vassal letter],002,akk-x-mbperi:wardu[slave]N
+aemw/amarna/P270913,EA 149. Neither water nor wood [vassal letter],003,akk-x-mbperi:šēpu[foot]N akk-x-mbperi:šarru[king]N akk-x-mbperi:bēlu[lord]N
+aemw/amarna/P270913,EA 149. Neither water nor wood [vassal letter],004,akk-x-mbperi:eperu[earth]N akk-x-mbperi:šupālu[depression]N akk-x-mbperi:šēpu[foot]N
+aemw/amarna/P270913,EA 149. Neither water nor wood [vassal letter],005,akk-x-mbperi:šēnu[sandal(s)]N akk-x-mbperi:šarru[king]N akk-x-mbperi:bēlu[lord]N
+aemw/amarna/P270913,EA 149. Neither water nor wood [vassal letter],006,akk-x-mbperi:šarru[king]N akk-x-mbperi:bēlu[lord]N
+aemw/amarna/P270913,EA 149. Neither water nor wood [vassal letter],007,akk-x-mbperi:šamû[sky]N
+aemw/amarna/P270913,EA 149. Neither water nor wood [vassal letter],008,akk-x-mbperi:šarru[king]N akk-x-mbperi:wardu[slave]N
+aemw/amarna/P270913,EA 149. Neither water nor wood [vassal letter],009,akk-x-mbperi:šarru[king]N akk-x-mbperi:bēlu[lord]N
+aemw/amarna/P270913,EA 149. Neither water nor wood [vassal letter],010,akk-x-mbperi:amtu[maid]N akk-x-mbperi:šarru[king]N
+aemw/amarna/P270913,EA 149. Neither water nor wood [vassal letter],011,akk-x-mbperi:ṭuppu[(clay)-tablet]N
+aemw/amarna/P270913,EA 149. Neither water nor wood [vassal letter],012,akk-x-mbperi:šarru[king]N akk-x-mbperi:bēlu[lord]N
+aemw/amarna/P270913,EA 149. Neither water nor wood [vassal letter],013,akk-x-mbperi:awātu[word]N
+aemw/amarna/P270913,EA 149. Neither water nor wood [vassal letter],014,akk-x-mbperi:rābiṣu[bailiff]N akk-x-mbperi:šarru[king]N akk-x-mbperi:bēlu[lord]N
+aemw/amarna/P270913,EA 149. Neither water nor wood [vassal letter],015,akk-x-mbperi:awātu[word]N
+aemw/amarna/P270913,EA 149. Neither water nor wood [vassal letter],016,
+aemw/amarna/P270913,EA 149. Neither water nor wood [vassal letter],017,akk-x-mbperi:šarru[king]N akk-x-mbperi:bēlu[lord]N
+aemw/amarna/P270913,EA 149. Neither water nor wood [vassal letter],018,akk-x-mbperi:šarru[king]N akk-x-mbperi:šēpu[foot]N
+aemw/amarna/P270913,EA 149. Neither water nor wood [vassal letter],019,akk-x-mbperi:ālu[city]N akk-x-mbperi:muhhu[skull]N
+aemw/amarna/P270913,EA 149. Neither water nor wood [vassal letter],020,akk-x-mbperi:šarru[king]N akk-x-mbperi:bēlu[lord]N akk-x-mbperi:pānu[front]N
+aemw/amarna/P270913,EA 149. Neither water nor wood [vassal letter],021,akk-x-mbperi:balāṭu[life]N akk-x-mbperi:šēpu[foot]N
+aemw/amarna/P270913,EA 149. Neither water nor wood [vassal letter],022,
+aemw/amarna/P270913,EA 149. Neither water nor wood [vassal letter],023,akk-x-mbperi:šāru[wind]N akk-x-mbperi:pû[mouth]N akk-x-mbperi:šarru[king]N akk-x-mbperi:bēlu[lord]N
+aemw/amarna/P270913,EA 149. Neither water nor wood [vassal letter],024,akk-x-mbperi:šarru[king]N
+aemw/amarna/P270913,EA 149. Neither water nor wood [vassal letter],025,akk-x-mbperi:wardu[slave]N
+aemw/amarna/P270913,EA 149. Neither water nor wood [vassal letter],026,akk-x-mbperi:dārītu[perpetuity]N
+aemw/amarna/P270913,EA 149. Neither water nor wood [vassal letter],027,akk-x-mbperi:šaddaqda[last-year]N
+aemw/amarna/P270913,EA 149. Neither water nor wood [vassal letter],028,akk-x-mbperi:pānu[front]N
+aemw/amarna/P270913,EA 149. Neither water nor wood [vassal letter],029,akk-x-mbperi:pānu[front]N akk-x-mbperi:šarru[king]N akk-x-mbperi:bēlu[lord]N
+aemw/amarna/P270913,EA 149. Neither water nor wood [vassal letter],030,
+aemw/amarna/P270913,EA 149. Neither water nor wood [vassal letter],031,
+aemw/amarna/P270913,EA 149. Neither water nor wood [vassal letter],032,akk-x-mbperi:eleppu[ship]N akk-x-mbperi:šarru[king]N akk-x-mbperi:bēlu[lord]N
+aemw/amarna/P270913,EA 149. Neither water nor wood [vassal letter],033,
+aemw/amarna/P270913,EA 149. Neither water nor wood [vassal letter],034,akk-x-mbperi:muhhu[skull]N akk-x-mbperi:šarru[king]N akk-x-mbperi:bēlu[lord]N
+aemw/amarna/P270913,EA 149. Neither water nor wood [vassal letter],035,
+aemw/amarna/P270913,EA 149. Neither water nor wood [vassal letter],036,akk-x-mbperi:māru[son]N
+aemw/amarna/P270913,EA 149. Neither water nor wood [vassal letter],037,akk-x-mbperi:arnu[guilt]N akk-x-mbperi:šarru[king]N
+aemw/amarna/P270913,EA 149. Neither water nor wood [vassal letter],038,akk-x-mbperi:šāru[hostile-one]N akk-x-mbperi:awīlu[man]N akk-x-mbperi:nukurtu[enmity]N
+aemw/amarna/P270913,EA 149. Neither water nor wood [vassal letter],039,
+aemw/amarna/P270913,EA 149. Neither water nor wood [vassal letter],040,
+aemw/amarna/P270913,EA 149. Neither water nor wood [vassal letter],041,akk-x-mbperi:šarru[king]N akk-x-mbperi:ālu[city]N
+aemw/amarna/P270913,EA 149. Neither water nor wood [vassal letter],042,akk-x-mbperi:mātu[land]N
+aemw/amarna/P270913,EA 149. Neither water nor wood [vassal letter],043,akk-x-mbperi:šumu[name]N akk-x-mbperi:šarru[king]N akk-x-mbperi:šumu[name]N akk-x-mbperi:ummānu[army]N
+aemw/amarna/P270913,EA 149. Neither water nor wood [vassal letter],044,akk-x-mbperi:gabbu[totality]N
+aemw/amarna/P270913,EA 149. Neither water nor wood [vassal letter],045,akk-x-mbperi:mātu[land]N
+aemw/amarna/P270913,EA 149. Neither water nor wood [vassal letter],046,akk-x-mbperi:warkû[rear]N akk-x-mbperi:šarru[king]N akk-x-mbperi:bēlu[lord]N
+aemw/amarna/P270913,EA 149. Neither water nor wood [vassal letter],047,akk-x-mbperi:šarru[king]N
+aemw/amarna/P270913,EA 149. Neither water nor wood [vassal letter],048,akk-x-mbperi:rābiṣu[bailiff]N
+aemw/amarna/P270913,EA 149. Neither water nor wood [vassal letter],049,
+aemw/amarna/P270913,EA 149. Neither water nor wood [vassal letter],050,akk-x-mbperi:wardu[slave]N
+aemw/amarna/P270913,EA 149. Neither water nor wood [vassal letter],051,akk-x-mbperi:mû[water]N akk-x-mbperi:iṣu[tree]N
+aemw/amarna/P270913,EA 149. Neither water nor wood [vassal letter],052,
+aemw/amarna/P270913,EA 149. Neither water nor wood [vassal letter],053,akk-x-mbperi:mītu[dead-one]N akk-x-mbperi:šarru[king]N akk-x-mbperi:bēlu[lord]N
+aemw/amarna/P270913,EA 149. Neither water nor wood [vassal letter],054,akk-x-mbperi:wardu[slave]N akk-x-mbperi:šarru[king]N akk-x-mbperi:bēlu[lord]N
+aemw/amarna/P270913,EA 149. Neither water nor wood [vassal letter],055,akk-x-mbperi:ṭuppu[(clay)-tablet]N
+aemw/amarna/P270913,EA 149. Neither water nor wood [vassal letter],056,
+aemw/amarna/P270913,EA 149. Neither water nor wood [vassal letter],057,akk-x-mbperi:šarru[king]N
+aemw/amarna/P270913,EA 149. Neither water nor wood [vassal letter],058,akk-x-mbperi:arnu[guilt]N akk-x-mbperi:šarru[king]N
+aemw/amarna/P270913,EA 149. Neither water nor wood [vassal letter],059,akk-x-mbperi:awīlu[man]N
+aemw/amarna/P270913,EA 149. Neither water nor wood [vassal letter],060,akk-x-mbperi:māmītu[oath]N
+aemw/amarna/P270913,EA 149. Neither water nor wood [vassal letter],061,akk-x-mbperi:eleppu[ship]N
+aemw/amarna/P270913,EA 149. Neither water nor wood [vassal letter],062,akk-x-mbperi:narkabtu[chariot]N akk-x-mbperi:ṣābu[people]N akk-x-mbperi:šēpu[foot]N
+aemw/amarna/P270913,EA 149. Neither water nor wood [vassal letter],063,akk-x-mbperi:amtu[maid]N akk-x-mbperi:šarru[king]N
+aemw/amarna/P270913,EA 149. Neither water nor wood [vassal letter],064,akk-x-mbperi:qātu[hand]N akk-x-mbperi:šarru[king]N
+aemw/amarna/P270913,EA 149. Neither water nor wood [vassal letter],065,
+aemw/amarna/P270913,EA 149. Neither water nor wood [vassal letter],066,
+aemw/amarna/P270913,EA 149. Neither water nor wood [vassal letter],067,
+aemw/amarna/P270913,EA 149. Neither water nor wood [vassal letter],068,akk-x-mbperi:pû[mouth]N
+aemw/amarna/P270913,EA 149. Neither water nor wood [vassal letter],069,akk-x-mbperi:awātu[word]N akk-x-mbperi:šarru[king]N
+aemw/amarna/P270913,EA 149. Neither water nor wood [vassal letter],070,
+aemw/amarna/P270913,EA 149. Neither water nor wood [vassal letter],071,akk-x-mbperi:ṭuppu[(clay)-tablet]N akk-x-mbperi:šarru[king]N akk-x-mbperi:bēlu[lord]N
+aemw/amarna/P270913,EA 149. Neither water nor wood [vassal letter],072,
+aemw/amarna/P270913,EA 149. Neither water nor wood [vassal letter],073,akk-x-mbperi:awātu[word]N akk-x-mbperi:wardu[slave]N
+aemw/amarna/P270913,EA 149. Neither water nor wood [vassal letter],074,akk-x-mbperi:šaddaqda[last-year]N akk-x-mbperi:nukurtu[enmity]N
+aemw/amarna/P270913,EA 149. Neither water nor wood [vassal letter],075,akk-x-mbperi:muhhu[skull]N akk-x-mbperi:mû[water]N
+aemw/amarna/P270913,EA 149. Neither water nor wood [vassal letter],076,akk-x-mbperi:iṣu[tree]N
+aemw/amarna/P270913,EA 149. Neither water nor wood [vassal letter],077,akk-x-mbperi:ṭuppu[(clay)-tablet]N akk-x-mbperi:wardu[slave]N
+aemw/amarna/P270913,EA 149. Neither water nor wood [vassal letter],078,akk-x-mbperi:pānu[front]N akk-x-mbperi:šarru[king]N
+aemw/amarna/P270913,EA 149. Neither water nor wood [vassal letter],079,akk-x-mbperi:wardu[slave]N akk-x-mbperi:ālu[city]N
+aemw/amarna/P270913,EA 149. Neither water nor wood [vassal letter],080,akk-x-mbperi:ālu[city]N akk-x-mbperi:mātu[land]N akk-x-mbperi:rābiṣu[bailiff]N
+aemw/amarna/P270913,EA 149. Neither water nor wood [vassal letter],081,akk-x-mbperi:šarru[king]N akk-x-mbperi:bēlu[lord]N akk-x-mbperi:mātu[land]N
+aemw/amarna/P270913,EA 149. Neither water nor wood [vassal letter],082,akk-x-mbperi:šāru[hostile-one]N akk-x-mbperi:idu[arm]N akk-x-mbperi:šarru[king]N
+aemw/amarna/P270913,EA 149. Neither water nor wood [vassal letter],083,akk-x-mbperi:ṭuppu[(clay)-tablet]N akk-x-mbperi:šēpu[foot]N akk-x-mbperi:muhhu[skull]N akk-x-mbperi:šarru[king]N akk-x-mbperi:bēlu[lord]N
+>>>>>>> d524642d5275e5016007339cafda4e021ecb17ba

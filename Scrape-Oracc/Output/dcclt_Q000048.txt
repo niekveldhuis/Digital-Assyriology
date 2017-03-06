@@ -1,0 +1,538 @@
+id_text,text_name,l_no,text
+dcclt/Q000048,OB Nippur Kagal,1,sux:abula[gate]N
+dcclt/Q000048,OB Nippur Kagal,2,sux:abula[gate]N
+dcclt/Q000048,OB Nippur Kagal,3,sux:abula[gate]N
+dcclt/Q000048,OB Nippur Kagal,4,sux:abula[gate]N sux:muzug[person]N
+dcclt/Q000048,OB Nippur Kagal,5,sux:abula[gate]N
+dcclt/Q000048,OB Nippur Kagal,6,sux:abula[gate]N
+dcclt/Q000048,OB Nippur Kagal,7,sux:abula[gate]N
+dcclt/Q000048,OB Nippur Kagal,8,sux:abula[gate]N
+dcclt/Q000048,OB Nippur Kagal,9,sux:abula[gate]N
+dcclt/Q000048,OB Nippur Kagal,10,sux:abula[gate]N sux:a[arm]N
+dcclt/Q000048,OB Nippur Kagal,11,sux:abula[gate]N
+dcclt/Q000048,OB Nippur Kagal,12,sux:abula[gate]N sux:niŋkud[due]N
+dcclt/Q000048,OB Nippur Kagal,13,sux:abula[gate]N
+dcclt/Q000048,OB Nippur Kagal,14,sux:abula[gate]N sux:uludin[form]N
+dcclt/Q000048,OB Nippur Kagal,15,sux:abula[gate]N sux:lugal[king]N
+dcclt/Q000048,OB Nippur Kagal,16,sux:abula[gate]N sux:lugal[king]N
+dcclt/Q000048,OB Nippur Kagal,17,sux:abula[gate]N sux:igi[face]N
+dcclt/Q000048,OB Nippur Kagal,18,sux:abula[gate]N sux:igi[face]N
+dcclt/Q000048,OB Nippur Kagal,19,sux:abula[gate]N sux:dumu[child]N sux:nun[prince]N
+dcclt/Q000048,OB Nippur Kagal,20,sux:eššeb[landscape]N
+dcclt/Q000048,OB Nippur Kagal,21,sux:hudadu[crevice]N
+dcclt/Q000048,OB Nippur Kagal,22,sux:kisal[courtyard]N
+dcclt/Q000048,OB Nippur Kagal,23,sux:kisal[courtyard]N
+dcclt/Q000048,OB Nippur Kagal,24,sux:kisal[courtyard]N
+dcclt/Q000048,OB Nippur Kagal,25,sux:kan[gate]N akk-x-oldbab:bābu[gate]N
+dcclt/Q000048,OB Nippur Kagal,26,sux:kan[gate]N akk-x-oldbab:bābu[gate]N
+dcclt/Q000048,OB Nippur Kagal,27,sux:kan[gate]N akk-x-oldbab:pītu[opening]N
+dcclt/Q000048,OB Nippur Kagal,28,sux:kan[gate]N akk-x-oldbab:nērebu[entrance]N
+dcclt/Q000048,OB Nippur Kagal,29,sux:kan[gate]N
+dcclt/Q000048,OB Nippur Kagal,30,sux:kan[gate]N sux:tilla[street]N
+dcclt/Q000048,OB Nippur Kagal,31,sux:kan[gate]N sux:egal[palace]N
+dcclt/Q000048,OB Nippur Kagal,32,sux:kan[gate]N sux:a[arm]N sux:munus[woman]N
+dcclt/Q000048,OB Nippur Kagal,33,sux:kan[gate]N
+dcclt/Q000048,OB Nippur Kagal,34,sux:kan[gate]N sux:gu[neck]N
+dcclt/Q000048,OB Nippur Kagal,35,sux:kan[gate]N sux:masab[basket]N
+dcclt/Q000048,OB Nippur Kagal,36,sux:kan[gate]N
+dcclt/Q000048,OB Nippur Kagal,37,sux:kan[gate]N
+dcclt/Q000048,OB Nippur Kagal,38,sux:kan[gate]N
+dcclt/Q000048,OB Nippur Kagal,39,sux:kan[gate]N sux:še[barley]N
+dcclt/Q000048,OB Nippur Kagal,40,sux:kan[gate]N sux:ni[fear]N
+dcclt/Q000048,OB Nippur Kagal,41,sux:kan[gate]N
+dcclt/Q000048,OB Nippur Kagal,42,sux:kan[gate]N sux:asilala[joy]N
+dcclt/Q000048,OB Nippur Kagal,43,sux:kan[gate]N sux:hursaŋ[mountain]N
+dcclt/Q000048,OB Nippur Kagal,44,sux:kan[gate]N sux:hursaŋ[mountain]N
+dcclt/Q000048,OB Nippur Kagal,45,sux:kan[gate]N sux:hursaŋ[mountain]N sux:kalam[land]N
+dcclt/Q000048,OB Nippur Kagal,46,sux:abula[gate]N
+dcclt/Q000048,OB Nippur Kagal,47,sux:abula[gate]N
+dcclt/Q000048,OB Nippur Kagal,48,sux:abula[gate]N sux:eden[plain]N
+dcclt/Q000048,OB Nippur Kagal,49,sux:e[house]N
+dcclt/Q000048,OB Nippur Kagal,50,sux:e[house]N sux:šagtur[womb]N
+dcclt/Q000048,OB Nippur Kagal,51,sux:e[house]N sux:šag[heart]N sux:kituš[dwelling]N
+dcclt/Q000048,OB Nippur Kagal,52,sux:e[house]N sux:šag[heart]N
+dcclt/Q000048,OB Nippur Kagal,53,sux:e[house]N sux:saŋki[rites]N
+dcclt/Q000048,OB Nippur Kagal,54,sux:e[house]N sux:zagŋara[shrine]N
+dcclt/Q000048,OB Nippur Kagal,55,sux:e[house]N sux:zag[side]N
+dcclt/Q000048,OB Nippur Kagal,56,sux:e[house]N
+dcclt/Q000048,OB Nippur Kagal,57,sux:e[house]N sux:papah[cella]N
+dcclt/Q000048,OB Nippur Kagal,58,sux:e[house]N sux:šag[heart]N sux:papah[cella]N
+dcclt/Q000048,OB Nippur Kagal,59,sux:e[house]N sux:dus[bathroom]N
+dcclt/Q000048,OB Nippur Kagal,60,sux:e[house]N sux:ennuŋ[imprisonment]N
+dcclt/Q000048,OB Nippur Kagal,61,sux:e[house]N sux:ki[place]N sux:ennuŋ[imprisonment]N
+dcclt/Q000048,OB Nippur Kagal,62,sux:edubbaʾa[scribal-school]N
+dcclt/Q000048,OB Nippur Kagal,63,sux:e[house]N sux:kišib[seal]N
+dcclt/Q000048,OB Nippur Kagal,64,sux:e[house]N sux:muhaldim[cook]N
+dcclt/Q000048,OB Nippur Kagal,65,sux:e[house]N sux:luʾurak[profession]N
+dcclt/Q000048,OB Nippur Kagal,66,sux:e[house]N sux:lungak[brewer]N
+dcclt/Q000048,OB Nippur Kagal,67,sux:e[house]N sux:lu[person]N sux:kurun[beer]N
+dcclt/Q000048,OB Nippur Kagal,68,sux:e[house]N sux:šah[pig]N
+dcclt/Q000048,OB Nippur Kagal,69,sux:e[house]N sux:šag[heart]N sux:kiri[orchard]N
+dcclt/Q000048,OB Nippur Kagal,70,sux:e[house]N
+dcclt/Q000048,OB Nippur Kagal,71,sux:e[house]N
+dcclt/Q000048,OB Nippur Kagal,72,sux:e[house]N
+dcclt/Q000048,OB Nippur Kagal,73,sux:e[house]N sux:saŋ[head]N
+dcclt/Q000048,OB Nippur Kagal,74,sux:e[house]N sux:da[line]N sux:šag[heart]N
+dcclt/Q000048,OB Nippur Kagal,75,sux:e[house]N sux:gana[field]N
+dcclt/Q000048,OB Nippur Kagal,76,sux:e[house]N sux:šag[heart]N
+dcclt/Q000048,OB Nippur Kagal,77,sux:e[house]N
+dcclt/Q000048,OB Nippur Kagal,78,sux:eduru[village]N sux:saŋ[head]N
+dcclt/Q000048,OB Nippur Kagal,79,sux:eduru[village]N
+dcclt/Q000048,OB Nippur Kagal,80,sux:e[house]N
+dcclt/Q000048,OB Nippur Kagal,81,sux:e[house]N sux:dima[object]N
+dcclt/Q000048,OB Nippur Kagal,82,sux:ašlug[storeroom]N
+dcclt/Q000048,OB Nippur Kagal,83,sux:arah[storehouse]N
+dcclt/Q000048,OB Nippur Kagal,84,sux:e[house]N sux:uš[foundation]N
+dcclt/Q000048,OB Nippur Kagal,85,sux:e[house]N sux:šakanka[market]N
+dcclt/Q000048,OB Nippur Kagal,86,sux:e[house]N sux:sam[price]N
+dcclt/Q000048,OB Nippur Kagal,87,sux:e[house]N sux:heŋal[plenty]N
+dcclt/Q000048,OB Nippur Kagal,88,sux:e[house]N sux:heŋal[plenty]N
+dcclt/Q000048,OB Nippur Kagal,89,sux:e[house]N sux:laʾu[arrears]N
+dcclt/Q000048,OB Nippur Kagal,90,sux:e[house]N sux:gu[neck]N sux:kar[harbor]N
+dcclt/Q000048,OB Nippur Kagal,91,sux:e[house]N sux:dunnu[fortress]N
+dcclt/Q000048,OB Nippur Kagal,92,sux:e[house]N sux:ki[place]N sux:lukur[priestess]N
+dcclt/Q000048,OB Nippur Kagal,93,sux:e[house]N sux:bursaŋ[building]N
+dcclt/Q000048,OB Nippur Kagal,94,sux:e[house]N sux:burgia[offering]N
+dcclt/Q000048,OB Nippur Kagal,95,sux:e[house]N
+dcclt/Q000048,OB Nippur Kagal,96,sux:eʾuzga[building]N
+dcclt/Q000048,OB Nippur Kagal,97,sux:e[house]N sux:šag[heart]N sux:abzu[water]N
+dcclt/Q000048,OB Nippur Kagal,98,sux:e[house]N
+dcclt/Q000048,OB Nippur Kagal,99,sux:e[house]N sux:a[water]N
+dcclt/Q000048,OB Nippur Kagal,100,sux:e[house]N sux:ninda[bull]N
+dcclt/Q000048,OB Nippur Kagal,101,sux:e[house]N sux:ab[cow]N sux:ninda[bull]N
+dcclt/Q000048,OB Nippur Kagal,102,sux:e[house]N sux:uzud[goat]N
+dcclt/Q000048,OB Nippur Kagal,103,sux:e[house]N sux:amaš[sheepfold]N
+dcclt/Q000048,OB Nippur Kagal,104,sux:e[house]N sux:amar[young]N
+dcclt/Q000048,OB Nippur Kagal,105,sux:e[house]N sux:tur[stall]N
+dcclt/Q000048,OB Nippur Kagal,106,sux:e[house]N sux:tur[stall]N
+dcclt/Q000048,OB Nippur Kagal,107,sux:e[house]N sux:GAN.KU[worker]N
+dcclt/Q000048,OB Nippur Kagal,108,sux:e[house]N sux:kiŋgia[messenger]N
+dcclt/Q000048,OB Nippur Kagal,109,sux:e[house]N sux:urra[loan]N
+dcclt/Q000048,OB Nippur Kagal,110,sux:e[house]N
+dcclt/Q000048,OB Nippur Kagal,111,sux:e[house]N
+dcclt/Q000048,OB Nippur Kagal,112,sux:e[house]N
+dcclt/Q000048,OB Nippur Kagal,113,sux:e[house]N sux:kinud[bedroom]N
+dcclt/Q000048,OB Nippur Kagal,114,sux:e[house]N sux:ešdam[tavern]N
+dcclt/Q000048,OB Nippur Kagal,114a,sux:e[house]N sux:dam[spouse]N
+dcclt/Q000048,OB Nippur Kagal,115,sux:e[house]N
+dcclt/Q000048,OB Nippur Kagal,116,sux:e[house]N
+dcclt/Q000048,OB Nippur Kagal,117,sux:e[house]N
+dcclt/Q000048,OB Nippur Kagal,118,sux:e[house]N sux:ŋeškešda[dam]N
+dcclt/Q000048,OB Nippur Kagal,119,sux:e[house]N sux:balak[spindle]N
+dcclt/Q000048,OB Nippur Kagal,120,sux:e[house]N
+dcclt/Q000048,OB Nippur Kagal,121,sux:e[house]N sux:ŋal[cvne]N
+dcclt/Q000048,OB Nippur Kagal,122,sux:e[house]N sux:laʾu[arrears]N
+dcclt/Q000048,OB Nippur Kagal,123,sux:e[house]N sux:gu[entirety]N
+dcclt/Q000048,OB Nippur Kagal,124,sux:e[house]N
+dcclt/Q000048,OB Nippur Kagal,125,sux:e[house]N
+dcclt/Q000048,OB Nippur Kagal,126,sux:e[house]N
+dcclt/Q000048,OB Nippur Kagal,127,sux:edula[estate]N
+dcclt/Q000048,OB Nippur Kagal,128,sux:edula[estate]N
+dcclt/Q000048,OB Nippur Kagal,129,sux:edula[estate]N
+dcclt/Q000048,OB Nippur Kagal,130,sux:e[house]N
+dcclt/Q000048,OB Nippur Kagal,131,sux:e[house]N
+dcclt/Q000048,OB Nippur Kagal,132,sux:e[house]N
+dcclt/Q000048,OB Nippur Kagal,133,sux:e[house]N
+dcclt/Q000048,OB Nippur Kagal,134,sux:e[house]N sux:kisiga[offerings]N
+dcclt/Q000048,OB Nippur Kagal,135,sux:e[house]N
+dcclt/Q000048,OB Nippur Kagal,136,sux:e[house]N sux:šušuma[consignment]N
+dcclt/Q000048,OB Nippur Kagal,136a,sux:e[house]N sux:šu[hand]N
+dcclt/Q000048,OB Nippur Kagal,137,sux:e[house]N sux:kaš[decision]N
+dcclt/Q000048,OB Nippur Kagal,138,sux:e[house]N sux:ti[rib]N
+dcclt/Q000048,OB Nippur Kagal,139,sux:e[house]N sux:saŋimla[craftsman]N
+dcclt/Q000048,OB Nippur Kagal,140,sux:e[house]N sux:šerda[crime]N
+dcclt/Q000048,OB Nippur Kagal,141,sux:e[house]N sux:namtaga[sin]N
+dcclt/Q000048,OB Nippur Kagal,142,sux:e[house]N sux:namtaga[sin]N
+dcclt/Q000048,OB Nippur Kagal,143,sux:e[house]N
+dcclt/Q000048,OB Nippur Kagal,144,sux:e[house]N
+dcclt/Q000048,OB Nippur Kagal,145,sux:e[house]N sux:muhaldim[cook]N
+dcclt/Q000048,OB Nippur Kagal,146,sux:e[house]N sux:nir.GAM.ma[arch]N
+dcclt/Q000048,OB Nippur Kagal,147,sux:e[house]N sux:sabar[net]N
+dcclt/Q000048,OB Nippur Kagal,148,sux:e[house]N sux:esad[trap]N
+dcclt/Q000048,OB Nippur Kagal,149,sux:e[house]N sux:idlurugu[ordeal-river]N
+dcclt/Q000048,OB Nippur Kagal,150,sux:e[house]N sux:did[lawsuit]N
+dcclt/Q000048,OB Nippur Kagal,151,sux:e[house]N sux:did[lawsuit]N
+dcclt/Q000048,OB Nippur Kagal,152,sux:e[house]N sux:kaʾa[fox]N
+dcclt/Q000048,OB Nippur Kagal,153,sux:e[house]N sux:kaʾa[fox]N
+dcclt/Q000048,OB Nippur Kagal,154,sux:e[house]N sux:bazbaz[bird]N
+dcclt/Q000048,OB Nippur Kagal,155,sux:e[house]N sux:kurušda[fattener]N
+dcclt/Q000048,OB Nippur Kagal,156,sux:e[house]N sux:da[line]N
+dcclt/Q000048,OB Nippur Kagal,157,sux:e[house]N sux:unkin[assembly]N
+dcclt/Q000048,OB Nippur Kagal,158,sux:e[house]N
+dcclt/Q000048,OB Nippur Kagal,159,sux:e[house]N
+dcclt/Q000048,OB Nippur Kagal,160,sux:e[house]N sux:niŋšutakaʾa[gift]N
+dcclt/Q000048,OB Nippur Kagal,161,sux:e[house]N sux:ušbar[weaver]N
+dcclt/Q000048,OB Nippur Kagal,162,sux:e[house]N sux:uzu[flesh]N
+dcclt/Q000048,OB Nippur Kagal,163,sux:e[house]N sux:buru[harvest]N
+dcclt/Q000048,OB Nippur Kagal,164,sux:e[house]N sux:gisig[fence]N
+dcclt/Q000048,OB Nippur Kagal,165,sux:e[house]N sux:zišagŋal[encouragement]N
+dcclt/Q000048,OB Nippur Kagal,165a,sux:e[house]N
+dcclt/Q000048,OB Nippur Kagal,166,sux:e[house]N
+dcclt/Q000048,OB Nippur Kagal,167,sux:e[house]N sux:munus[woman]N
+dcclt/Q000048,OB Nippur Kagal,168,sux:e[house]N sux:nita[male]N
+dcclt/Q000048,OB Nippur Kagal,169,sux:e[house]N sux:namlugal[kingship]N
+dcclt/Q000048,OB Nippur Kagal,170,sux:e[house]N sux:namnin[ladyship]N
+dcclt/Q000048,OB Nippur Kagal,171,sux:e[house]N sux:namen[priesthood]N
+dcclt/Q000048,OB Nippur Kagal,172,sux:e[house]N sux:namdumununa[~prince]N
+dcclt/Q000048,OB Nippur Kagal,173,sux:e[house]N sux:sahar[dust]N
+dcclt/Q000048,OB Nippur Kagal,174,sux:e[house]N sux:sahar[frost]N
+dcclt/Q000048,OB Nippur Kagal,174a,sux:e[house]N
+dcclt/Q000048,OB Nippur Kagal,175,sux:e[house]N sux:abzu[water]N
+dcclt/Q000048,OB Nippur Kagal,176,sux:ama[chamber]N
+dcclt/Q000048,OB Nippur Kagal,177,sux:itima[shrine]N
+dcclt/Q000048,OB Nippur Kagal,178,sux:agrun[cella]N
+dcclt/Q000048,OB Nippur Kagal,179,sux:agrun[cella]N
+dcclt/Q000048,OB Nippur Kagal,180,sux:dud[mound]N sux:kud[fish]N
+dcclt/Q000048,OB Nippur Kagal,181,sux:e[house]N sux:me[Being]N
+dcclt/Q000048,OB Nippur Kagal,182,sux:e[house]N sux:ad[voice]N
+dcclt/Q000048,OB Nippur Kagal,184,sux:e[house]N sux:kur[mountain]N sux:igi[eye]N
+dcclt/Q000048,OB Nippur Kagal,185,sux:e[house]N sux:kiri[orchard]N
+dcclt/Q000048,OB Nippur Kagal,186,sux:e[house]N sux:iri[city]N sux:nanam[consent]N
+dcclt/Q000048,OB Nippur Kagal,187,sux:e[house]N sux:bur[bowl]N sux:šu[hand]N
+dcclt/Q000048,OB Nippur Kagal,188,sux:e[house]N sux:dud[mound]N sux:numunbur[rushes]N
+dcclt/Q000048,OB Nippur Kagal,189,sux:dud[mound]N sux:niŋ[thing]N
+dcclt/Q000048,OB Nippur Kagal,190,sux:e[house]N sux:ŋa[house]N sux:šuʾa[stool]N
+dcclt/Q000048,OB Nippur Kagal,191,sux:dud[mound]N
+dcclt/Q000048,OB Nippur Kagal,192,sux:eš[shrine]N
+dcclt/Q000048,OB Nippur Kagal,193,sux:nesaŋ[offering]N
+dcclt/Q000048,OB Nippur Kagal,194,sux:ubšuʾunkinak[~assembly]N
+dcclt/Q000048,OB Nippur Kagal,195,sux:kiʾur[foundation]N
+dcclt/Q000048,OB Nippur Kagal,195a,sux:kiʾur[foundation]N
+dcclt/Q000048,OB Nippur Kagal,196,sux:ki[place]N
+dcclt/Q000048,OB Nippur Kagal,196a,sux:ki[place]N
+dcclt/Q000048,OB Nippur Kagal,197,sux:e[house]N sux:dima[object]N
+dcclt/Q000048,OB Nippur Kagal,198,sux:e[house]N sux:melim[splendor]N
+dcclt/Q000048,OB Nippur Kagal,199,sux:e[house]N
+dcclt/Q000048,OB Nippur Kagal,200,sux:e[house]N
+dcclt/Q000048,OB Nippur Kagal,201,sux:e[house]N
+dcclt/Q000048,OB Nippur Kagal,202,sux:e[house]N sux:zagin[lapis]N
+dcclt/Q000048,OB Nippur Kagal,203,sux:enun[room]N
+dcclt/Q000048,OB Nippur Kagal,204,sux:e[house]N sux:arali[earth]N
+dcclt/Q000048,OB Nippur Kagal,205,sux:e[house]N sux:udi[admiration]N
+dcclt/Q000048,OB Nippur Kagal,206,sux:e[house]N
+dcclt/Q000048,OB Nippur Kagal,207,sux:e[house]N sux:tu[incantation]N
+dcclt/Q000048,OB Nippur Kagal,208,sux:e[house]N sux:nam[fate]N sux:me[silence]N
+dcclt/Q000048,OB Nippur Kagal,209,sux:e[house]N
+dcclt/Q000048,OB Nippur Kagal,210,sux:e[house]N
+dcclt/Q000048,OB Nippur Kagal,211,sux:e[house]N sux:ŋalga[forethought]N
+dcclt/Q000048,OB Nippur Kagal,212,sux:e[house]N sux:ab[sea]N sux:šag[heart]N
+dcclt/Q000048,OB Nippur Kagal,213,sux:e[house]N sux:bur[bowl]N
+dcclt/Q000048,OB Nippur Kagal,214,sux:e[house]N sux:eden[plain]N
+dcclt/Q000048,OB Nippur Kagal,215,sux:e[house]N
+dcclt/Q000048,OB Nippur Kagal,216,sux:e[house]N
+dcclt/Q000048,OB Nippur Kagal,217,sux:e[house]N
+dcclt/Q000048,OB Nippur Kagal,218,sux:e[house]N
+dcclt/Q000048,OB Nippur Kagal,219,sux:e[house]N sux:igi[eye]N sux:kalam[land]N
+dcclt/Q000048,OB Nippur Kagal,220,sux:e[house]N sux:kuŋ[stair]N sux:satu[mountain]N
+dcclt/Q000048,OB Nippur Kagal,221,sux:e[house]N sux:mes[hero]N
+dcclt/Q000048,OB Nippur Kagal,222,sux:e[house]N sux:utte[land]N
+dcclt/Q000048,OB Nippur Kagal,223,sux:e[house]N
+dcclt/Q000048,OB Nippur Kagal,224,sux:e[house]N sux:irigal[underworld]N
+dcclt/Q000048,OB Nippur Kagal,225,sux:e[house]N
+dcclt/Q000048,OB Nippur Kagal,225a,sux:e[house]N sux:piriŋ[lion]N
+dcclt/Q000048,OB Nippur Kagal,225b,sux:e[house]N sux:melim[splendor]N sux:an[sky]N
+dcclt/Q000048,OB Nippur Kagal,225c,sux:e[house]N sux:melim[splendor]N
+dcclt/Q000048,OB Nippur Kagal,226,sux:e[house]N
+dcclt/Q000048,OB Nippur Kagal,227,sux:e[house]N sux:dikud[judge]N sux:kalam[land]N
+dcclt/Q000048,OB Nippur Kagal,228,sux:e[house]N sux:mul[star]N
+dcclt/Q000048,OB Nippur Kagal,229,sux:e[house]N sux:ŋeštug[ear]N
+dcclt/Q000048,OB Nippur Kagal,230,sux:e[house]N sux:zagin[lapis]N
+dcclt/Q000048,OB Nippur Kagal,231,sux:e[house]N
+dcclt/Q000048,OB Nippur Kagal,232,sux:e[house]N sux:saŋ[head]N
+dcclt/Q000048,OB Nippur Kagal,233,sux:e[house]N sux:ebgal[oval]N
+dcclt/Q000048,OB Nippur Kagal,234,sux:e[house]N
+dcclt/Q000048,OB Nippur Kagal,235,
+dcclt/Q000048,OB Nippur Kagal,236,
+dcclt/Q000048,OB Nippur Kagal,237,
+dcclt/Q000048,OB Nippur Kagal,238,
+dcclt/Q000048,OB Nippur Kagal,238a,
+dcclt/Q000048,OB Nippur Kagal,239,
+dcclt/Q000048,OB Nippur Kagal,240,sux:e[house]N
+dcclt/Q000048,OB Nippur Kagal,240a,
+dcclt/Q000048,OB Nippur Kagal,240b,
+dcclt/Q000048,OB Nippur Kagal,240c,
+dcclt/Q000048,OB Nippur Kagal,241,sux:a[water]N akk-x-oldbab:mû[water]N
+dcclt/Q000048,OB Nippur Kagal,242,sux:a[water]N akk-x-oldbab:mīlu[high-water]N
+dcclt/Q000048,OB Nippur Kagal,243,sux:a[water]N akk-x-oldbab:ruṭibtu[dampness]N
+dcclt/Q000048,OB Nippur Kagal,244,sux:a[water]N akk-x-oldbab:riṭibtu[wetness]N
+dcclt/Q000048,OB Nippur Kagal,245,sux:a[water]N akk-x-oldbab:rihûtu[progeny]N
+dcclt/Q000048,OB Nippur Kagal,246,sux:azu[doctor]N
+dcclt/Q000048,OB Nippur Kagal,247,sux:azu[doctor]N
+dcclt/Q000048,OB Nippur Kagal,248,sux:azu[doctor]N sux:gud[ox]N
+dcclt/Q000048,OB Nippur Kagal,249,sux:arazu[supplication]N
+dcclt/Q000048,OB Nippur Kagal,250,sux:a[water]N
+dcclt/Q000048,OB Nippur Kagal,251,sux:a[water]N
+dcclt/Q000048,OB Nippur Kagal,252,sux:a[water]N sux:nugig[priestess]N
+dcclt/Q000048,OB Nippur Kagal,253,sux:a[water]N
+dcclt/Q000048,OB Nippur Kagal,254,sux:a[water]N
+dcclt/Q000048,OB Nippur Kagal,255,sux:a[water]N
+dcclt/Q000048,OB Nippur Kagal,256,sux:a[water]N
+dcclt/Q000048,OB Nippur Kagal,257,sux:arah[storehouse]N
+dcclt/Q000048,OB Nippur Kagal,259,sux:a[water]N
+dcclt/Q000048,OB Nippur Kagal,260,sux:a[water]N
+dcclt/Q000048,OB Nippur Kagal,261,sux:a[water]N
+dcclt/Q000048,OB Nippur Kagal,262,sux:lu[person]N sux:a[water]N
+dcclt/Q000048,OB Nippur Kagal,263,sux:lu[person]N sux:igi[face]N
+dcclt/Q000048,OB Nippur Kagal,264,sux:a[water]N
+dcclt/Q000048,OB Nippur Kagal,265,sux:a[water]N
+dcclt/Q000048,OB Nippur Kagal,266,sux:a[water]N
+dcclt/Q000048,OB Nippur Kagal,267,sux:a[water]N sux:gu[neck]N
+dcclt/Q000048,OB Nippur Kagal,268,sux:a[water]N
+dcclt/Q000048,OB Nippur Kagal,269,sux:a[water]N
+dcclt/Q000048,OB Nippur Kagal,272,
+dcclt/Q000048,OB Nippur Kagal,273,sux:a[water]N akk-x-oldbab:sahsahhātu[meaning-unknown]N
+dcclt/Q000048,OB Nippur Kagal,274,sux:a[water]N
+dcclt/Q000048,OB Nippur Kagal,275,sux:abara[sweat]N
+dcclt/Q000048,OB Nippur Kagal,277,sux:a[water]N sux:niŋhuša[pitfall]N
+dcclt/Q000048,OB Nippur Kagal,278,sux:a[water]N sux:niŋ[thing]N
+dcclt/Q000048,OB Nippur Kagal,279,sux:a[water]N sux:kag[mouth]N
+dcclt/Q000048,OB Nippur Kagal,280,sux:a[water]N sux:šu[hand]N
+dcclt/Q000048,OB Nippur Kagal,281,sux:a[water]N
+dcclt/Q000048,OB Nippur Kagal,282,sux:a[water]N sux:saŋ[head]N
+dcclt/Q000048,OB Nippur Kagal,283,sux:a[water]N
+dcclt/Q000048,OB Nippur Kagal,284,sux:a[water]N
+dcclt/Q000048,OB Nippur Kagal,285,sux:a[water]N
+dcclt/Q000048,OB Nippur Kagal,286,sux:aʾeštub[flooding]N
+dcclt/Q000048,OB Nippur Kagal,287,sux:a[water]N
+dcclt/Q000048,OB Nippur Kagal,288,sux:aʾu[water]N
+dcclt/Q000048,OB Nippur Kagal,289,sux:a[water]N sux:zag[side]N
+dcclt/Q000048,OB Nippur Kagal,290,sux:a[water]N
+dcclt/Q000048,OB Nippur Kagal,290a,sux:a[water]N sux:saŋba[oath]N
+dcclt/Q000048,OB Nippur Kagal,291,sux:aga[rear]N
+dcclt/Q000048,OB Nippur Kagal,292,sux:aŋarak[fluid]N
+dcclt/Q000048,OB Nippur Kagal,293,
+dcclt/Q000048,OB Nippur Kagal,294,sux:mugu[water-lift]N
+dcclt/Q000048,OB Nippur Kagal,295,sux:a[water]N sux:šu[hand]N
+dcclt/Q000048,OB Nippur Kagal,296,sux:a[water]N sux:šu[hand]N
+dcclt/Q000048,OB Nippur Kagal,297,sux:a[water]N
+dcclt/Q000048,OB Nippur Kagal,298,sux:a[water]N
+dcclt/Q000048,OB Nippur Kagal,299,sux:a[water]N
+dcclt/Q000048,OB Nippur Kagal,300,sux:anir[lament]N
+dcclt/Q000048,OB Nippur Kagal,301,sux:anir[lament]N
+dcclt/Q000048,OB Nippur Kagal,302,sux:anir[lament]N
+dcclt/Q000048,OB Nippur Kagal,303,sux:a[water]N sux:dug[pot]N
+dcclt/Q000048,OB Nippur Kagal,304,sux:ara[times]N
+dcclt/Q000048,OB Nippur Kagal,305,sux:ara[times]N
+dcclt/Q000048,OB Nippur Kagal,306,sux:ara[times]N
+dcclt/Q000048,OB Nippur Kagal,307,sux:arakar[factor]N
+dcclt/Q000048,OB Nippur Kagal,308,sux:arahi[~mathematics]N
+dcclt/Q000048,OB Nippur Kagal,309,sux:ara[times]N
+dcclt/Q000048,OB Nippur Kagal,310,sux:ara[times]N
+dcclt/Q000048,OB Nippur Kagal,311,sux:aragubba[~mathematics]N
+dcclt/Q000048,OB Nippur Kagal,312,sux:a[water]N
+dcclt/Q000048,OB Nippur Kagal,313,sux:a[water]N
+dcclt/Q000048,OB Nippur Kagal,314,sux:ayalum[stag]N
+dcclt/Q000048,OB Nippur Kagal,315,sux:aŋeštinak[vinegar]N
+dcclt/Q000048,OB Nippur Kagal,316,sux:a[water]N
+dcclt/Q000048,OB Nippur Kagal,318,sux:a[water]N
+dcclt/Q000048,OB Nippur Kagal,320,sux:a[water]N
+dcclt/Q000048,OB Nippur Kagal,321,sux:a[water]N
+dcclt/Q000048,OB Nippur Kagal,322,sux:aʾea[breach]N
+dcclt/Q000048,OB Nippur Kagal,323,sux:a[water]N
+dcclt/Q000048,OB Nippur Kagal,324,sux:a[water]N
+dcclt/Q000048,OB Nippur Kagal,325,sux:a[water]N
+dcclt/Q000048,OB Nippur Kagal,326,sux:a[water]N
+dcclt/Q000048,OB Nippur Kagal,327,sux:a[water]N
+dcclt/Q000048,OB Nippur Kagal,329',sux:a[water]N
+dcclt/Q000048,OB Nippur Kagal,330',sux:a[water]N sux:kag[mouth]N sux:ŋeškešda[dam]N
+dcclt/Q000048,OB Nippur Kagal,331',sux:a[water]N
+dcclt/Q000048,OB Nippur Kagal,332',sux:a[water]N
+dcclt/Q000048,OB Nippur Kagal,334,sux:a[water]N sux:id[river]N
+dcclt/Q000048,OB Nippur Kagal,335,sux:a[water]N sux:idlurugu[ordeal-river]N
+dcclt/Q000048,OB Nippur Kagal,336,sux:a[water]N sux:nun[prince]N
+dcclt/Q000048,OB Nippur Kagal,337,sux:a[water]N sux:pu[well]N
+dcclt/Q000048,OB Nippur Kagal,338,sux:a[water]N sux:pu[well]N
+dcclt/Q000048,OB Nippur Kagal,339,sux:a[water]N sux:pu[orchard]N
+dcclt/Q000048,OB Nippur Kagal,340,sux:a[water]N
+dcclt/Q000048,OB Nippur Kagal,341,sux:a[water]N sux:pusaŋ[pit]N
+dcclt/Q000048,OB Nippur Kagal,342,sux:a[water]N sux:numun[seed]N sux:saŋ[head]N
+dcclt/Q000048,OB Nippur Kagal,343,sux:a[water]N
+dcclt/Q000048,OB Nippur Kagal,344,sux:a[water]N
+dcclt/Q000048,OB Nippur Kagal,345,sux:aʾabak[sea]N
+dcclt/Q000048,OB Nippur Kagal,346,sux:aʾabak[sea]N
+dcclt/Q000048,OB Nippur Kagal,347,sux:aʾabak[sea]N
+dcclt/Q000048,OB Nippur Kagal,348,sux:aʾabak[sea]N sux:iginim[land]N
+dcclt/Q000048,OB Nippur Kagal,349,sux:aʾabak[sea]N
+dcclt/Q000048,OB Nippur Kagal,350,sux:a[water]N
+dcclt/Q000048,OB Nippur Kagal,351,sux:a[water]N
+dcclt/Q000048,OB Nippur Kagal,352,sux:a[water]N
+dcclt/Q000048,OB Nippur Kagal,353,sux:a[water]N
+dcclt/Q000048,OB Nippur Kagal,356,sux:a[water]N
+dcclt/Q000048,OB Nippur Kagal,357,sux:aruba[pitfall]N
+dcclt/Q000048,OB Nippur Kagal,358,sux:aruba[pitfall]N
+dcclt/Q000048,OB Nippur Kagal,359,sux:aga[rear]N
+dcclt/Q000048,OB Nippur Kagal,360,sux:aga[rear]N
+dcclt/Q000048,OB Nippur Kagal,361,sux:agalatila[dropsy]N
+dcclt/Q000048,OB Nippur Kagal,362,sux:agantum[disease]N
+dcclt/Q000048,OB Nippur Kagal,363,sux:aga[rear]N
+dcclt/Q000048,OB Nippur Kagal,364,sux:agaʾus[soldier]N
+dcclt/Q000048,OB Nippur Kagal,365,sux:aʾigi[weir]N
+dcclt/Q000048,OB Nippur Kagal,366,sux:er[tears]N
+dcclt/Q000048,OB Nippur Kagal,367,sux:er[tears]N
+dcclt/Q000048,OB Nippur Kagal,368,sux:er[tears]N
+dcclt/Q000048,OB Nippur Kagal,369,sux:er[tears]N
+dcclt/Q000048,OB Nippur Kagal,370,sux:er[tears]N
+dcclt/Q000048,OB Nippur Kagal,371,sux:er[tears]N sux:balaŋ[instrument]N
+dcclt/Q000048,OB Nippur Kagal,372,sux:er[tears]N sux:ub[drum]N
+dcclt/Q000048,OB Nippur Kagal,373,sux:eršemak[song]N
+dcclt/Q000048,OB Nippur Kagal,374,sux:er[tears]N sux:gidid[instrument]N
+dcclt/Q000048,OB Nippur Kagal,375,sux:er[tears]N
+dcclt/Q000048,OB Nippur Kagal,376,sux:a[water]N
+dcclt/Q000048,OB Nippur Kagal,377,sux:a[water]N
+dcclt/Q000048,OB Nippur Kagal,378,sux:atar[derision]N
+dcclt/Q000048,OB Nippur Kagal,379,sux:a[water]N
+dcclt/Q000048,OB Nippur Kagal,380,sux:a[water]N sux:še[barley]N sux:kur[mountain]N
+dcclt/Q000048,OB Nippur Kagal,381,sux:a[water]N sux:isin[stalk]N
+dcclt/Q000048,OB Nippur Kagal,382,sux:asura[water]N
+dcclt/Q000048,OB Nippur Kagal,383,sux:a[water]N
+dcclt/Q000048,OB Nippur Kagal,386,sux:a[water]N
+dcclt/Q000048,OB Nippur Kagal,387,sux:a[water]N
+dcclt/Q000048,OB Nippur Kagal,389,
+dcclt/Q000048,OB Nippur Kagal,391,sux:a[water]N sux:sar[garden]N
+dcclt/Q000048,OB Nippur Kagal,393,sux:a[water]N sux:dumu[child]N
+dcclt/Q000048,OB Nippur Kagal,394,sux:asilaŋara[afterbirth]N
+dcclt/Q000048,OB Nippur Kagal,395,sux:a[water]N
+dcclt/Q000048,OB Nippur Kagal,396,sux:a[water]N
+dcclt/Q000048,OB Nippur Kagal,397,sux:a[water]N
+dcclt/Q000048,OB Nippur Kagal,398,sux:a[water]N
+dcclt/Q000048,OB Nippur Kagal,399,sux:a[water]N
+dcclt/Q000048,OB Nippur Kagal,400,sux:a[water]N
+dcclt/Q000048,OB Nippur Kagal,401,sux:a[water]N sux:naŋa[potash]N
+dcclt/Q000048,OB Nippur Kagal,402,sux:a[water]N
+dcclt/Q000048,OB Nippur Kagal,403,sux:a[water]N sux:šu[hand]N sux:an[sky]N
+dcclt/Q000048,OB Nippur Kagal,404,sux:a[water]N sux:šu[hand]N
+dcclt/Q000048,OB Nippur Kagal,404a,sux:a[water]N
+dcclt/Q000048,OB Nippur Kagal,405,sux:a[water]N
+dcclt/Q000048,OB Nippur Kagal,406,sux:a[water]N
+dcclt/Q000048,OB Nippur Kagal,407,sux:a[water]N sux:hili[attractiveness]N
+dcclt/Q000048,OB Nippur Kagal,408,sux:a[water]N
+dcclt/Q000048,OB Nippur Kagal,409,sux:a[water]N
+dcclt/Q000048,OB Nippur Kagal,410,sux:a[water]N
+dcclt/Q000048,OB Nippur Kagal,411,sux:a[water]N
+dcclt/Q000048,OB Nippur Kagal,412,sux:a[water]N
+dcclt/Q000048,OB Nippur Kagal,413,sux:a[water]N
+dcclt/Q000048,OB Nippur Kagal,414,sux:a[water]N
+dcclt/Q000048,OB Nippur Kagal,415,sux:a[water]N sux:si[horn]N
+dcclt/Q000048,OB Nippur Kagal,416,sux:a[water]N sux:si[horn]N
+dcclt/Q000048,OB Nippur Kagal,417,sux:a[water]N sux:agaʾus[soldier]N
+dcclt/Q000048,OB Nippur Kagal,418,sux:a[water]N sux:šeg[frost]N
+dcclt/Q000048,OB Nippur Kagal,419,sux:a[water]N
+dcclt/Q000048,OB Nippur Kagal,420,sux:a[water]N
+dcclt/Q000048,OB Nippur Kagal,421,sux:a[water]N
+dcclt/Q000048,OB Nippur Kagal,422,sux:a[water]N
+dcclt/Q000048,OB Nippur Kagal,423,sux:a[water]N
+dcclt/Q000048,OB Nippur Kagal,424,sux:a[water]N
+dcclt/Q000048,OB Nippur Kagal,425,sux:a[water]N sux:dirig[excess]N
+dcclt/Q000048,OB Nippur Kagal,426,sux:a[water]N sux:dirig[excess]N
+dcclt/Q000048,OB Nippur Kagal,427,sux:a[water]N
+dcclt/Q000048,OB Nippur Kagal,428,sux:a[water]N sux:na[cvne]N
+dcclt/Q000048,OB Nippur Kagal,429,sux:a[water]N sux:tu[incantation]N
+dcclt/Q000048,OB Nippur Kagal,430,sux:a[water]N
+dcclt/Q000048,OB Nippur Kagal,431,sux:a[water]N
+dcclt/Q000048,OB Nippur Kagal,432,sux:addir[ferry]N
+dcclt/Q000048,OB Nippur Kagal,433,sux:aʾuʾa[ferryman]N
+dcclt/Q000048,OB Nippur Kagal,433a,sux:addir[hire]N
+dcclt/Q000048,OB Nippur Kagal,434,sux:addir[ford]N
+dcclt/Q000048,OB Nippur Kagal,435,sux:apap[pipe]N
+dcclt/Q000048,OB Nippur Kagal,436,sux:apap[pipe]N akk-x-oldbab:arūtu[(clay)-pipe]N
+dcclt/Q000048,OB Nippur Kagal,437,sux:apap[pipe]N sux:an[sky]N
+dcclt/Q000048,OB Nippur Kagal,438,sux:asig[vessel]N
+dcclt/Q000048,OB Nippur Kagal,439,sux:adamdun[animal]N
+dcclt/Q000048,OB Nippur Kagal,443,sux:a[water]N sux:bur[bowl]N
+dcclt/Q000048,OB Nippur Kagal,444,sux:a[water]N sux:saŋ[head]N sux:bur[bowl]N
+dcclt/Q000048,OB Nippur Kagal,445,sux:a[water]N
+dcclt/Q000048,OB Nippur Kagal,446,sux:a[water]N
+dcclt/Q000048,OB Nippur Kagal,447,sux:a[water]N
+dcclt/Q000048,OB Nippur Kagal,448,sux:ašag[field]N sux:par[canal]N
+dcclt/Q000048,OB Nippur Kagal,449,sux:a[water]N
+dcclt/Q000048,OB Nippur Kagal,450,sux:adamin[contest]N
+dcclt/Q000048,OB Nippur Kagal,451,sux:ada[contest?]N sux:en[lord]N
+dcclt/Q000048,OB Nippur Kagal,452,sux:ada[contest?]N sux:lugal[king]N
+dcclt/Q000048,OB Nippur Kagal,453,sux:a[water]N sux:zag[side]N sux:gu[neck]N
+dcclt/Q000048,OB Nippur Kagal,454,sux:a[water]N sux:zag[side]N sux:gure[that-side]N
+dcclt/Q000048,OB Nippur Kagal,455,sux:a[water]N
+dcclt/Q000048,OB Nippur Kagal,456,sux:a[water]N
+dcclt/Q000048,OB Nippur Kagal,457,sux:a[water]N sux:hurrum[cave]N
+dcclt/Q000048,OB Nippur Kagal,459,sux:azad[head]N
+dcclt/Q000048,OB Nippur Kagal,460,sux:azalulu[multitude]N
+dcclt/Q000048,OB Nippur Kagal,461,sux:azalulu[multitude]N
+dcclt/Q000048,OB Nippur Kagal,462,sux:a[water]N sux:šu[hand]N
+dcclt/Q000048,OB Nippur Kagal,463,sux:niŋ[thing]N
+dcclt/Q000048,OB Nippur Kagal,464,sux:niŋ[thing]N
+dcclt/Q000048,OB Nippur Kagal,465,sux:kaš[beer]N
+dcclt/Q000048,OB Nippur Kagal,466,sux:gu[voice]N
+dcclt/Q000048,OB Nippur Kagal,467,sux:gu[voice]N
+dcclt/Q000048,OB Nippur Kagal,468,sux:kiŋgia[messenger]N
+dcclt/Q000048,OB Nippur Kagal,469,sux:egia[bride]N
+dcclt/Q000048,OB Nippur Kagal,470,sux:egia[bride]N
+dcclt/Q000048,OB Nippur Kagal,471,sux:agin[thus]N
+dcclt/Q000048,OB Nippur Kagal,472,sux:agin[thus]N
+dcclt/Q000048,OB Nippur Kagal,473,
+dcclt/Q000048,OB Nippur Kagal,474,sux:anamea[everything]N
+dcclt/Q000048,OB Nippur Kagal,475,sux:anamea[everything]N
+dcclt/Q000048,OB Nippur Kagal,476,
+dcclt/Q000048,OB Nippur Kagal,477,
+dcclt/Q000048,OB Nippur Kagal,478,
+dcclt/Q000048,OB Nippur Kagal,479,
+dcclt/Q000048,OB Nippur Kagal,480,
+dcclt/Q000048,OB Nippur Kagal,481,
+dcclt/Q000048,OB Nippur Kagal,482,
+dcclt/Q000048,OB Nippur Kagal,483,
+dcclt/Q000048,OB Nippur Kagal,484,
+dcclt/Q000048,OB Nippur Kagal,485,sux:illu[water]N akk-x-oldbab:illu[high-water]N
+dcclt/Q000048,OB Nippur Kagal,486,sux:illu[water]N akk-x-oldbab:hīlu[exudation]N
+dcclt/Q000048,OB Nippur Kagal,487,sux:illu[water]N akk-x-oldbab:šehlu[high-water]N
+dcclt/Q000048,OB Nippur Kagal,488,sux-x-emesal:ašer[lament]N akk-x-oldbab:tānēhu[moaning]N
+dcclt/Q000048,OB Nippur Kagal,489,sux:anir[lament]N akk-x-oldbab:tānēhu[moaning]N
+dcclt/Q000048,OB Nippur Kagal,490,sux:a[water]N sux:še[barley]N
+dcclt/Q000048,OB Nippur Kagal,491,sux:adanu[fixed-date]N
+dcclt/Q000048,OB Nippur Kagal,492,sux:dima[object]N sux:marru[stormwind]N
+dcclt/Q000048,OB Nippur Kagal,493,sux:a[water]N
+dcclt/Q000048,OB Nippur Kagal,494,sux:a[water]N
+dcclt/Q000048,OB Nippur Kagal,495,sux:aŋi[wave]N
+dcclt/Q000048,OB Nippur Kagal,496,
+dcclt/Q000048,OB Nippur Kagal,498,sux:azad[shelter]N
+dcclt/Q000048,OB Nippur Kagal,499,sux:azad[shelter]N
+dcclt/Q000048,OB Nippur Kagal,500,sux:azad[shelter]N
+dcclt/Q000048,OB Nippur Kagal,501,sux:aria[steppe]N sux:kaš[beer]N
+dcclt/Q000048,OB Nippur Kagal,502,sux:aria[steppe]N sux:munu[malt]N
+dcclt/Q000048,OB Nippur Kagal,503,sux:šu[hand]N
+dcclt/Q000048,OB Nippur Kagal,504,sux:aria[steppe]N sux:niŋara[groats]N
+dcclt/Q000048,OB Nippur Kagal,505,sux:aria[steppe]N
+dcclt/Q000048,OB Nippur Kagal,506,
+dcclt/Q000048,OB Nippur Kagal,507,
+dcclt/Q000048,OB Nippur Kagal,508,
+dcclt/Q000048,OB Nippur Kagal,509,
+dcclt/Q000048,OB Nippur Kagal,510,
+dcclt/Q000048,OB Nippur Kagal,511,
+dcclt/Q000048,OB Nippur Kagal,512,sux:kitum[burial]N
+dcclt/Q000048,OB Nippur Kagal,513,sux:šu[hand]N
+dcclt/Q000048,OB Nippur Kagal,514,sux:namlugal[kingship]N
+dcclt/Q000048,OB Nippur Kagal,515,sux:piš[bank]N
+dcclt/Q000048,OB Nippur Kagal,516,sux:piš[bank]N
+dcclt/Q000048,OB Nippur Kagal,517,sux:ŋešhe[firmament]N
+dcclt/Q000048,OB Nippur Kagal,518,sux:ŋeštug[ear]N
+dcclt/Q000048,OB Nippur Kagal,519,sux:ŋeštug[ear]N
+dcclt/Q000048,OB Nippur Kagal,520,sux:ŋeštug[ear]N
+dcclt/Q000048,OB Nippur Kagal,521,sux:ŋeštug[ear]N
+dcclt/Q000048,OB Nippur Kagal,522,sux:ŋizzal[ear]N
+dcclt/Q000048,OB Nippur Kagal,523,sux:izzi[wall]N
+dcclt/Q000048,OB Nippur Kagal,524,sux:izzi[wall]N sux:dalbana[space]N
+dcclt/Q000048,OB Nippur Kagal,526,sux:ŋeštaga[sacrifice]N
+dcclt/Q000048,OB Nippur Kagal,527,sux:ŋeš[tree]N
+dcclt/Q000048,OB Nippur Kagal,533,sux:ŋešgana[tree]N
+dcclt/Q000048,OB Nippur Kagal,534,sux:ŋešhur[plan]N
+dcclt/Q000048,OB Nippur Kagal,537,sux:ŋeš[tree]N sux:gu[neck]N sux:abkiz[furrow]N
+dcclt/Q000048,OB Nippur Kagal,538,sux:ŋeš[tree]N sux:gu[neck]N
+dcclt/Q000048,OB Nippur Kagal,539,sux:ŋeš[tree]N
+dcclt/Q000048,OB Nippur Kagal,540,sux:balak[spindle]N
+dcclt/Q000048,OB Nippur Kagal,541,sux:balak[spindle]N
+dcclt/Q000048,OB Nippur Kagal,542,sux:kešda[roofing]N
+dcclt/Q000048,OB Nippur Kagal,543,sux:ŋeškanak[jamb]N
+dcclt/Q000048,OB Nippur Kagal,544,sux:ŋešlaʾa[key]N
+dcclt/Q000048,OB Nippur Kagal,545,sux:e[tube]N
+dcclt/Q000048,OB Nippur Kagal,546,sux:gag.MUŠ₃[key]N
+dcclt/Q000048,OB Nippur Kagal,547,sux:ban[unit]N
+dcclt/Q000048,OB Nippur Kagal,548,sux:ban[unit]N sux:sila[unit]N
+dcclt/Q000048,OB Nippur Kagal,549,sux:ŋeš[tree]N
+dcclt/Q000048,OB Nippur Kagal,550,sux:ŋeš[tree]N

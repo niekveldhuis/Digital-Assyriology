@@ -1,0 +1,9 @@
+id_text,text_name,version,l_no,text
+etcsri/Q001076,En-anatum I 06,,i 1,sux:Inanak[1]DN
+etcsri/Q001076,En-anatum I 06,,i 2,sux:Ebgal[1]TN
+etcsri/Q001076,En-anatum I 06,,i 3,sux:Enanatum[1]RN
+etcsri/Q001076,En-anatum I 06,,i 4,sux:ensik[ruler]N
+etcsri/Q001076,En-anatum I 06,,i 5,sux:Lagaš[1]SN
+etcsri/Q001076,En-anatum I 06,,i 6,sux:Ebgal[1]TN
+etcsri/Q001076,En-anatum I 06,,i 7,sux:du[build]V/t
+etcsri/Q001076,En-anatum I 06,,i 8,sux:kur[mountain]N

@@ -1,0 +1,8 @@
+id_text,text_name,version,l_no,text
+etcsri/Q004909,Šu-Suen 2125add,,i 1,sux:Šusuen[1]RN
+etcsri/Q004909,Šu-Suen 2125add,,i 2,sux:lugal[king]N sux:kalag[strong]V/i
+etcsri/Q004909,Šu-Suen 2125add,,i 3,sux:lugal[king]N sux:Urim[1]SN
+etcsri/Q004909,Šu-Suen 2125add,,i 4,sux:lugal[king]N sux:anubda[quarter]N sux:limmu[four]NU
+etcsri/Q004909,Šu-Suen 2125add,,ii 1,sux:Šuili[3]PN
+etcsri/Q004909,Šu-Suen 2125add,,ii 2,sux:dumu[child]N sux:I-X[1]PN
+etcsri/Q004909,Šu-Suen 2125add,,ii 3,sux:nubanda[overseer]N

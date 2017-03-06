@@ -1,0 +1,6 @@
+id_text,text_name,version,l_no,text
+etcsri/Q001584,Nammahni 10,,1',sux:Lagaš[1]SN
+etcsri/Q001584,Nammahni 10,,2',sux:Ninkagina[1]PN
+etcsri/Q001584,Nammahni 10,,3',sux:dumu[child]N sux:Kakug[1]PN
+etcsri/Q001584,Nammahni 10,,4',sux:Bau[1]DN
+etcsri/Q001584,Nammahni 10,,5',sux:u[and]CNJ sux:namtil[life]N

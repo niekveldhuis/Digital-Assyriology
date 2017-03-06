@@ -1,0 +1,18 @@
+id_text,text_name,l_no,text
+<<<<<<< HEAD
+aemw/amarna/P271018,EA 188. Message lost [vassal letter],001,akk-x-mbperi:ana[to]PRP akk-x-mbperi:šēpu[foot]N akk-x-mbperi:šarru[king]N
+aemw/amarna/P271018,EA 188. Message lost [vassal letter],002,akk-x-mbperi:bēlu[lord]N akk-x-mbperi:Šamaš[1]DN
+aemw/amarna/P271018,EA 188. Message lost [vassal letter],003,akk-x-mbperi:u[and]CNJ akk-x-mbperi:maqātu[fall]V
+aemw/amarna/P271018,EA 188. Message lost [vassal letter],004,akk-x-mbperi:amāru[see]V akk-x-mbperi:anāku[I]IP akk-x-mbperi:awīlu[man]N
+aemw/amarna/P271018,EA 188. Message lost [vassal letter],005,akk-x-mbperi:u[and]CNJ akk-x-mbperi:anāku[I]IP akk-x-mbperi:wardu[slave]N akk-x-mbperi:kittu[steadiness]N
+aemw/amarna/P271018,EA 188. Message lost [vassal letter],006,akk-x-mbperi:šarru[king]N akk-x-mbperi:bēlu[lord]N akk-x-mbperi:ilu[god]N akk-x-mbperi:Šamaš[1]DN
+aemw/amarna/P271018,EA 188. Message lost [vassal letter],007,akk-x-mbperi:u[and]CNJ
+=======
+aemw/amarna/P271018,EA 188. Message lost [vassal letter],001,akk-x-mbperi:šēpu[foot]N akk-x-mbperi:šarru[king]N
+aemw/amarna/P271018,EA 188. Message lost [vassal letter],002,akk-x-mbperi:bēlu[lord]N
+aemw/amarna/P271018,EA 188. Message lost [vassal letter],003,
+aemw/amarna/P271018,EA 188. Message lost [vassal letter],004,akk-x-mbperi:awīlu[man]N
+aemw/amarna/P271018,EA 188. Message lost [vassal letter],005,akk-x-mbperi:wardu[slave]N akk-x-mbperi:kittu[steadiness]N
+aemw/amarna/P271018,EA 188. Message lost [vassal letter],006,akk-x-mbperi:šarru[king]N akk-x-mbperi:bēlu[lord]N akk-x-mbperi:ilu[god]N
+aemw/amarna/P271018,EA 188. Message lost [vassal letter],007,
+>>>>>>> d524642d5275e5016007339cafda4e021ecb17ba

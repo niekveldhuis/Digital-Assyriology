@@ -1,0 +1,11 @@
+id_text,text_name,version,l_no,text
+etcsri/Q001087,En-anatum I 20,,i 2',sux:X[4]GN
+etcsri/Q001087,En-anatum I 20,,i 3',sux:Eanak[1]TN
+etcsri/Q001087,En-anatum I 20,,i 4',sux:kur[mountain]N sux:dirig[exceed]V/t
+etcsri/Q001087,En-anatum I 20,,ii 1,sux:ud[sun]N
+etcsri/Q001087,En-anatum I 20,,ii 2,sux:Lumatur[1]PN
+etcsri/Q001087,En-anatum I 20,,ii 3,sux:dumu[child]N sux:Enanatum[1]RN
+etcsri/Q001087,En-anatum I 20,,ii 4,sux:ensik[ruler]N
+etcsri/Q001087,En-anatum I 20,,ii 5,sux:Lagaš[1]SN
+etcsri/Q001087,En-anatum I 20,,ii 6,sux:kib[object]N sux:dim[create]V/t
+etcsri/Q001087,En-anatum I 20,,ii 7,sux:Eanak[1]TN

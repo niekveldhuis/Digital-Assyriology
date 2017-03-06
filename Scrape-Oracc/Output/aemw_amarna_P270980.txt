@@ -1,0 +1,36 @@
+id_text,text_name,l_no,text
+<<<<<<< HEAD
+aemw/amarna/P270980,EA 036. More about copper [royal letter],o 003,akk-x-mbperi:wīṣu[few]AJ
+aemw/amarna/P270980,EA 036. More about copper [royal letter],o 004,akk-x-mbperi:epēšu[do]V
+aemw/amarna/P270980,EA 036. More about copper [royal letter],o 005,akk-x-mbperi:sahāru[go-around]V akk-x-mbperi:werû[copper]N akk-x-mbperi:mala[as-much-as]PRP akk-x-mbperi:epēšu[do]V akk-x-mbperi:wabālu[carry]V akk-x-mbperi:u[and]CNJ
+aemw/amarna/P270980,EA 036. More about copper [royal letter],o 006,akk-x-mbperi:inanna[now]AV akk-x-mbperi:ana[to]PRP akk-x-mbperi:ahu[brother]N akk-x-mbperi:wabālu[carry]V akk-x-mbperi:werû[copper]N akk-x-mbperi:rēhu[remaining]AJ akk-x-mbperi:werû[copper]N akk-x-mbperi:biltu[load]N
+aemw/amarna/P270980,EA 036. More about copper [royal letter],o 007,akk-x-mbperi:u[and]CNJ akk-x-mbperi:biltu[load]N akk-x-mbperi:mimma[anything]XP akk-x-mbperi:tahbaṣu[(mng.-unkn.)]N akk-x-mbperi:biltu[load]N akk-x-mbperi:werû[copper]N
+aemw/amarna/P270980,EA 036. More about copper [royal letter],o 008,akk-x-mbperi:inanna[now]AV akk-x-mbperi:ahu[brother]N akk-x-mbperi:ša[that]REL akk-x-mbperi:wabālu[carry]V akk-x-mbperi:māru[son]N akk-x-mbperi:šipru[sending]N
+aemw/amarna/P270980,EA 036. More about copper [royal letter],o 009,akk-x-mbperi:anāku[I]IP akk-x-mbperi:ša[that]REL akk-x-mbperi:wabālu[carry]V akk-x-mbperi:wīṣu[few]AJ akk-x-mbperi:inanna[now]AV akk-x-mbperi:sahāru[go-around]V akk-x-mbperi:u[and]CNJ
+aemw/amarna/P270980,EA 036. More about copper [royal letter],o 010,akk-x-mbperi:mala[as-much-as]PRP akk-x-mbperi:libbu[interior]N akk-x-mbperi:wabālu[carry]V
+aemw/amarna/P270980,EA 036. More about copper [royal letter],o 011,akk-x-mbperi:u[and]CNJ akk-x-mbperi:ša[that]REL akk-x-mbperi:erēšu[request]V akk-x-mbperi:wabālu[carry]V akk-x-mbperi:itti[with]PRP akk-x-mbperi:libbu[interior]N
+aemw/amarna/P270980,EA 036. More about copper [royal letter],o 012,akk-x-mbperi:inanna[now]AV akk-x-mbperi:ana[to]PRP akk-x-mbperi:ahu[brother]N akk-x-mbperi:werû[copper]N akk-x-mbperi:mādu[many]AJ akk-x-mbperi:epēšu[do]V
+aemw/amarna/P270980,EA 036. More about copper [royal letter],o 013,akk-x-mbperi:eleppu[ship]N akk-x-mbperi:lū[indeed]MOD akk-x-mbperi:mādu[many]AJ akk-x-mbperi:šapāru[send]V akk-x-mbperi:werû[copper]N
+aemw/amarna/P270980,EA 036. More about copper [royal letter],o 014,akk-x-mbperi:kī[like]PRP akk-x-mbperi:mādu[many]AJ akk-x-mbperi:werû[copper]N akk-x-mbperi:epēšu[do]V akk-x-mbperi:uṭṭatu[grain]N akk-x-mbperi:ina[in]PRP
+aemw/amarna/P270980,EA 036. More about copper [royal letter],o 015,akk-x-mbperi:eleppu[ship]N akk-x-mbperi:ištu[from]PRP akk-x-mbperi:pīhātu[responsibility]N akk-x-mbperi:ša[of]DET akk-x-mbperi:Kinaʿanu[Canaan]GN
+aemw/amarna/P270980,EA 036. More about copper [royal letter],o 016,akk-x-mbperi:kīma[like]PRP akk-x-mbperi:ina[in]PRP akk-x-mbperi:ūmu[day]N akk-x-mbperi:pānû[first]AJ akk-x-mbperi:akalu[bread]N akk-x-mbperi:lū[let-it-be]MOD akk-x-mbperi:epēšu[do]V
+aemw/amarna/P270980,EA 036. More about copper [royal letter],r 018,akk-x-mbperi:inanna[now]AV akk-x-mbperi:māru[son]N akk-x-mbperi:šipru[sending]N akk-x-mbperi:šattu[year]N akk-x-mbperi:kalû[hold-(back)]V
+aemw/amarna/P270980,EA 036. More about copper [royal letter],r 019,akk-x-mbperi:ša[that]REL akk-x-mbperi:leqû[take]V akk-x-mbperi:u[and]CNJ akk-x-mbperi:awātu[word]N
+=======
+aemw/amarna/P270980,EA 036. More about copper [royal letter],o 003,
+aemw/amarna/P270980,EA 036. More about copper [royal letter],o 004,
+aemw/amarna/P270980,EA 036. More about copper [royal letter],o 005,
+aemw/amarna/P270980,EA 036. More about copper [royal letter],o 006,
+aemw/amarna/P270980,EA 036. More about copper [royal letter],o 007,
+aemw/amarna/P270980,EA 036. More about copper [royal letter],o 008,
+aemw/amarna/P270980,EA 036. More about copper [royal letter],o 009,
+aemw/amarna/P270980,EA 036. More about copper [royal letter],o 010,
+aemw/amarna/P270980,EA 036. More about copper [royal letter],o 011,
+aemw/amarna/P270980,EA 036. More about copper [royal letter],o 012,
+aemw/amarna/P270980,EA 036. More about copper [royal letter],o 013,
+aemw/amarna/P270980,EA 036. More about copper [royal letter],o 014,
+aemw/amarna/P270980,EA 036. More about copper [royal letter],o 015,
+aemw/amarna/P270980,EA 036. More about copper [royal letter],o 016,
+aemw/amarna/P270980,EA 036. More about copper [royal letter],r 018,
+aemw/amarna/P270980,EA 036. More about copper [royal letter],r 019,
+>>>>>>> d524642d5275e5016007339cafda4e021ecb17ba

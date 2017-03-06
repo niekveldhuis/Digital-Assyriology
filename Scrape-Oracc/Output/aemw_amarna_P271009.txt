@@ -1,0 +1,39 @@
+id_text,text_name,l_no,text
+aemw/amarna/P271009,EA 313. Payment to the commissioner [vassal letter],002,akk-x-mbperi:awīlu[man]N akk-x-mbperi:tamkāru[merchant]N
+<<<<<<< HEAD
+aemw/amarna/P271009,EA 313. Payment to the commissioner [vassal letter],003,akk-x-mbperi:ša[of]DET akk-x-mbperi:Miṣru[Egypt]GN
+aemw/amarna/P271009,EA 313. Payment to the commissioner [vassal letter],004,akk-x-mbperi:ša[that]REL akk-x-mbperi:mahṣu[beaten]AJ
+aemw/amarna/P271009,EA 313. Payment to the commissioner [vassal letter],005,akk-x-mbperi:ina[in]PRP akk-x-mbperi:namāšu[set-(oneself)-in-motion]V
+aemw/amarna/P271009,EA 313. Payment to the commissioner [vassal letter],006,akk-x-mbperi:hāpiru[(class-of)-vagrant]N
+aemw/amarna/P271009,EA 313. Payment to the commissioner [vassal letter],007,akk-x-mbperi:nadānu[give]V akk-x-mbperi:meʾatu[(one)-hundred]N akk-x-mbperi:kaspu[silver]N
+aemw/amarna/P271009,EA 313. Payment to the commissioner [vassal letter],008,akk-x-mbperi:eli[on]PRP akk-x-mbperi:līm[thousand]N
+aemw/amarna/P271009,EA 313. Payment to the commissioner [vassal letter],009,akk-x-mbperi:ana[to]PRP akk-x-mbperi:qātu[hand]N akk-x-mbperi:ša[of]DET
+aemw/amarna/P271009,EA 313. Payment to the commissioner [vassal letter],010,akk-x-mbperi:rābiṣu[bailiff]N akk-x-mbperi:šarru[king]N
+aemw/amarna/P271009,EA 313. Payment to the commissioner [vassal letter],011,akk-x-mbperi:ša[that]REL akk-x-mbperi:eli[on]PRP akk-x-mbperi:u[and]CNJ
+aemw/amarna/P271009,EA 313. Payment to the commissioner [vassal letter],012,akk-x-mbperi:awīlu[man]N akk-x-mbperi:ša[that]REL akk-x-mbperi:epēšu[do]V
+aemw/amarna/P271009,EA 313. Payment to the commissioner [vassal letter],013,akk-x-mbperi:ipšu[deed]N akk-x-mbperi:annû[this]DP
+aemw/amarna/P271009,EA 313. Payment to the commissioner [vassal letter],014,akk-x-mbperi:nadānu[give]V akk-x-mbperi:Šamaš[1]DN
+aemw/amarna/P271009,EA 313. Payment to the commissioner [vassal letter],015,akk-x-mbperi:ina[in]PRP akk-x-mbperi:šāru[wind]N akk-x-mbperi:ša[of]DET
+aemw/amarna/P271009,EA 313. Payment to the commissioner [vassal letter],016,akk-x-mbperi:šarru[king]N akk-x-mbperi:dannu[strong]AJ
+aemw/amarna/P271009,EA 313. Payment to the commissioner [vassal letter],017,akk-x-mbperi:u[and]CNJ akk-x-mbperi:lū[let-it-be]MOD akk-x-mbperi:wardu[slave]N
+aemw/amarna/P271009,EA 313. Payment to the commissioner [vassal letter],018,akk-x-mbperi:ša[of]DET akk-x-mbperi:šarru[king]N akk-x-mbperi:lā[not]MOD
+aemw/amarna/P271009,EA 313. Payment to the commissioner [vassal letter],019,akk-x-mbperi:mahṣu[beaten]AJ
+=======
+aemw/amarna/P271009,EA 313. Payment to the commissioner [vassal letter],003,
+aemw/amarna/P271009,EA 313. Payment to the commissioner [vassal letter],004,
+aemw/amarna/P271009,EA 313. Payment to the commissioner [vassal letter],005,
+aemw/amarna/P271009,EA 313. Payment to the commissioner [vassal letter],006,akk-x-mbperi:hāpiru[(class-of)-vagrant]N
+aemw/amarna/P271009,EA 313. Payment to the commissioner [vassal letter],007,akk-x-mbperi:meʾatu[(one)-hundred]N akk-x-mbperi:kaspu[silver]N
+aemw/amarna/P271009,EA 313. Payment to the commissioner [vassal letter],008,akk-x-mbperi:līm[thousand]N
+aemw/amarna/P271009,EA 313. Payment to the commissioner [vassal letter],009,akk-x-mbperi:qātu[hand]N
+aemw/amarna/P271009,EA 313. Payment to the commissioner [vassal letter],010,akk-x-mbperi:rābiṣu[bailiff]N akk-x-mbperi:šarru[king]N
+aemw/amarna/P271009,EA 313. Payment to the commissioner [vassal letter],011,
+aemw/amarna/P271009,EA 313. Payment to the commissioner [vassal letter],012,akk-x-mbperi:awīlu[man]N
+aemw/amarna/P271009,EA 313. Payment to the commissioner [vassal letter],013,akk-x-mbperi:ipšu[deed]N
+aemw/amarna/P271009,EA 313. Payment to the commissioner [vassal letter],014,
+aemw/amarna/P271009,EA 313. Payment to the commissioner [vassal letter],015,akk-x-mbperi:šāru[wind]N
+aemw/amarna/P271009,EA 313. Payment to the commissioner [vassal letter],016,akk-x-mbperi:šarru[king]N
+aemw/amarna/P271009,EA 313. Payment to the commissioner [vassal letter],017,akk-x-mbperi:wardu[slave]N
+aemw/amarna/P271009,EA 313. Payment to the commissioner [vassal letter],018,akk-x-mbperi:šarru[king]N
+aemw/amarna/P271009,EA 313. Payment to the commissioner [vassal letter],019,
+>>>>>>> d524642d5275e5016007339cafda4e021ecb17ba

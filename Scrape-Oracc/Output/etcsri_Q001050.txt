@@ -1,0 +1,100 @@
+id_text,text_name,version,l_no,text
+etcsri/Q001050,Ur-Nanše 06b,,i 1,sux:Urnanše[1]RN
+etcsri/Q001050,Ur-Nanše 06b,,i 2,sux:lugal[king]N
+etcsri/Q001050,Ur-Nanše 06b,,i 3,sux:Lagaš[1]SN
+etcsri/Q001050,Ur-Nanše 06b,,i 4,sux:dumu[child]N sux:Gu-NI.DU[1]PN
+etcsri/Q001050,Ur-Nanše 06b,,ii 1,sux:dumu[child]N sux:Gursar[1]GN
+etcsri/Q001050,Ur-Nanše 06b,,ii 2,sux:Bagara[1]TN
+etcsri/Q001050,Ur-Nanše 06b,,ii 3,sux:šeg[brick]N sux:ur[bake]V/t
+etcsri/Q001050,Ur-Nanše 06b,,ii 4,sux:du[build]V/t
+etcsri/Q001050,Ur-Nanše 06b,,ii 5-6,sux:Bagara-X.SAR[1]WN
+etcsri/Q001050,Ur-Nanše 06b,,ii 7,sux:dun[dig]V/t
+etcsri/Q001050,Ur-Nanše 06b,,iii 1,sux:e[house]N sux:mu[name]N
+etcsri/Q001050,Ur-Nanše 06b,,iii 2,sux:Bagara[1]TN
+etcsri/Q001050,Ur-Nanše 06b,,iii 3,sux:namsisa[righteousness]N sux:šum[give]V/t
+etcsri/Q001050,Ur-Nanše 06b,,iii 4,sux:eb[oval]N sux:mu[name]N
+etcsri/Q001050,Ur-Nanše 06b,,iii 5,sux:Bagara[1]TN
+etcsri/Q001050,Ur-Nanše 06b,,iii 6,sux:namsisa[righteousness]N sux:šum[give]V/t
+etcsri/Q001050,Ur-Nanše 06b,,iii 7,sux:Ebgal[1]TN
+etcsri/Q001050,Ur-Nanše 06b,,iii 8,sux:du[build]V/t
+etcsri/Q001050,Ur-Nanše 06b,,iii 9,sux:e[house]N sux:Nanše[1]DN
+etcsri/Q001050,Ur-Nanše 06b,,iv 1,sux:du[build]V/t
+etcsri/Q001050,Ur-Nanše 06b,,iv 2,sux:eš[shrine]N sux:Ŋirsu[1]SN
+etcsri/Q001050,Ur-Nanše 06b,,iv 3,sux:du[build]V/t
+etcsri/Q001050,Ur-Nanše 06b,,iv 4,sux:Kinir[1]TN
+etcsri/Q001050,Ur-Nanše 06b,,iv 5,sux:du[build]V/t
+etcsri/Q001050,Ur-Nanše 06b,,iv 6,sux:e[house]N sux:Ŋatumdug[1]DN
+etcsri/Q001050,Ur-Nanše 06b,,iv 7,sux:du[build]V/t
+etcsri/Q001050,Ur-Nanše 06b,,iv 8,sux:Tiraš[1]TN
+etcsri/Q001050,Ur-Nanše 06b,,iv 9,sux:du[build]V/t
+etcsri/Q001050,Ur-Nanše 06b,,iv 10,sux:Nineŋara[1]TN
+etcsri/Q001050,Ur-Nanše 06b,,iv 11,sux:du[build]V/t
+etcsri/Q001050,Ur-Nanše 06b,,v 1,sux:e[house]N sux:Ninmarkik[1]DN
+etcsri/Q001050,Ur-Nanše 06b,,v 2,sux:du[build]V/t
+etcsri/Q001050,Ur-Nanše 06b,,v 3,sux:Edam[1]TN sux:du[build]V/t
+etcsri/Q001050,Ur-Nanše 06b,,v 4,sux:Kame[1]TN
+etcsri/Q001050,Ur-Nanše 06b,,v 5,sux:du[build]V/t
+etcsri/Q001050,Ur-Nanše 06b,,v 6,sux:Abzuegak[1]TN
+etcsri/Q001050,Ur-Nanše 06b,,v 7,sux:du[build]V/t
+etcsri/Q001050,Ur-Nanše 06b,,v 8,sux:bad[wall]N sux:Lagaš[1]SN
+etcsri/Q001050,Ur-Nanše 06b,,v 9,sux:du[build]V/t
+etcsri/Q001050,Ur-Nanše 06b,,v 10,sux:Pasaman[1]WN
+etcsri/Q001050,Ur-Nanše 06b,,v 11,sux:dun[dig]V/t
+etcsri/Q001050,Ur-Nanše 06b,,vi 1,sux:Asuhur[1]WN
+etcsri/Q001050,Ur-Nanše 06b,,vi 2,sux:dun[dig]V/t
+etcsri/Q001050,Ur-Nanše 06b,,vi 3,sux:Ninmarkik[1]DN
+etcsri/Q001050,Ur-Nanše 06b,,vi 4,sux:utud[bear]V/t
+etcsri/Q001050,Ur-Nanše 06b,,vi 5,sux:Nineš-REC107[1]DN
+etcsri/Q001050,Ur-Nanše 06b,,vi 6,sux:utud[bear]V/t
+etcsri/Q001050,Ur-Nanše 06b,,vi 7,sux:Ninŋidruk[1]DN
+etcsri/Q001050,Ur-Nanše 06b,,vi 8,sux:utud[bear]V/t
+etcsri/Q001050,Ur-Nanše 06b,,vi 9,sux:Šulšaganak[1]DN
+etcsri/Q001050,Ur-Nanše 06b,,vi 10,sux:utud[bear]V/t
+etcsri/Q001050,Ur-Nanše 06b,,vi 11,sux:Kindazid[1]DN
+etcsri/Q001050,Ur-Nanše 06b,,vi 12,sux:utud[bear]V/t
+etcsri/Q001050,Ur-Nanše 06b,,vi 13,sux:Gušudu[1]DN
+etcsri/Q001050,Ur-Nanše 06b,,vii 1,sux:utud[bear]V/t
+etcsri/Q001050,Ur-Nanše 06b,,vii 2-3,sux:Lamaue[1]DN
+etcsri/Q001050,Ur-Nanše 06b,,vii 4,sux:utud[bear]V/t
+etcsri/Q001050,Ur-Nanše 06b,,vii 5,sux:Lugalurtur[1]DN
+etcsri/Q001050,Ur-Nanše 06b,,vii 6,sux:utud[bear]V/t
+etcsri/Q001050,Ur-Nanše 06b,,r i 1,sux:lu[person]N sux:Lagaš[1]SN
+etcsri/Q001050,Ur-Nanše 06b,,r i 2,sux:lu[person]N sux:Urim[1]SN
+etcsri/Q001050,Ur-Nanše 06b,,r i 3,sux:lu[person]N sux:Umma[1]SN
+etcsri/Q001050,Ur-Nanše 06b,,r i 4,sux:me[battle]N
+etcsri/Q001050,Ur-Nanše 06b,,r i 5,sux:ŋen[go]V/i
+etcsri/Q001050,Ur-Nanše 06b,,r i 6,sux:lu[person]N sux:Lagaš[1]SN
+etcsri/Q001050,Ur-Nanše 06b,,r ii 1,sux:lu[person]N sux:Urim[1]SN
+etcsri/Q001050,Ur-Nanše 06b,,r ii 2,sux:agakar[conqueror]N sux:sig[put]V/t
+etcsri/Q001050,Ur-Nanše 06b,,r ii 3,sux:dab[seize]V/t
+etcsri/Q001050,Ur-Nanše 06b,,r ii 4,sux:ensik[ruler]N sux:magur[barge]N
+etcsri/Q001050,Ur-Nanše 06b,,r ii 5,sux:dab[seize]V/t
+etcsri/Q001050,Ur-Nanše 06b,,r ii 6,sux:Amabaragesi[1]PN
+etcsri/Q001050,Ur-Nanše 06b,,r ii 7,sux:Kišibŋal[1]PN
+etcsri/Q001050,Ur-Nanše 06b,,r ii 8,sux:nubanda[overseer]N
+etcsri/Q001050,Ur-Nanše 06b,,r iii 1,sux:dab[seize]V/t
+etcsri/Q001050,Ur-Nanše 06b,,r iii 2,sux:Papursaŋ[1]PN
+etcsri/Q001050,Ur-Nanše 06b,,r iii 3,sux:dumu[child]N sux:U₂.U₂.U₂[1]PN
+etcsri/Q001050,Ur-Nanše 06b,,r iii 4,sux:dab[seize]V/t
+etcsri/Q001050,Ur-Nanše 06b,,r iii 7,sux:nubanda[overseer]N
+etcsri/Q001050,Ur-Nanše 06b,,r iii 8,sux:dab[seize]V/t
+etcsri/Q001050,Ur-Nanše 06b,,r iii 9,sux:SAHAR.DU₆.TAK₄[burial-mound]N
+etcsri/Q001050,Ur-Nanše 06b,,r iii 10,sux:dub[heap]V/t
+etcsri/Q001050,Ur-Nanše 06b,,r iii 11,sux:lu[person]N sux:Umma[1]SN
+etcsri/Q001050,Ur-Nanše 06b,,r iii 12,sux:agakar[conqueror]N sux:sig[put]V/t
+etcsri/Q001050,Ur-Nanše 06b,,r iv 1,sux:Lupada[1]PN
+etcsri/Q001050,Ur-Nanše 06b,,r iv 2,sux:Pabilgalala[1]PN
+etcsri/Q001050,Ur-Nanše 06b,,r iv 3,sux:nubanda[overseer]N
+etcsri/Q001050,Ur-Nanše 06b,,r iv 4,sux:dab[seize]V/t
+etcsri/Q001050,Ur-Nanše 06b,,r iv 5,sux:Pabilgaltuku[1]RN
+etcsri/Q001050,Ur-Nanše 06b,,r iv 6,sux:ensik[ruler]N
+etcsri/Q001050,Ur-Nanše 06b,,r iv 7,sux:Umma[1]SN
+etcsri/Q001050,Ur-Nanše 06b,,r iv 8,sux:dab[seize]V/t
+etcsri/Q001050,Ur-Nanše 06b,,r iv 9,sux:Urpusaŋ[1]PN
+etcsri/Q001050,Ur-Nanše 06b,,r iv 10,sux:nubanda[overseer]N
+etcsri/Q001050,Ur-Nanše 06b,,r iv 11,sux:dab[seize]V/t
+etcsri/Q001050,Ur-Nanše 06b,,r v 1,sux:Hursaŋšemah[1]PN
+etcsri/Q001050,Ur-Nanše 06b,,r v 2,sux:damgargal[merchant]N
+etcsri/Q001050,Ur-Nanše 06b,,r v 3,sux:dab[seize]V/t
+etcsri/Q001050,Ur-Nanše 06b,,r v 4,sux:SAHAR.DU₆.TAK₄[burial-mound]N
+etcsri/Q001050,Ur-Nanše 06b,,r v 6,sux:dub[heap]V/t

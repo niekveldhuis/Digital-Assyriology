@@ -1,0 +1,10 @@
+id_text,text_name,version,l_no,text
+etcsri/Q001998,Urdukuga 3,,1,sux:Lulal[1]DN
+etcsri/Q001998,Urdukuga 3,,2,sux:Dueden[1]GN
+etcsri/Q001998,Urdukuga 3,,3,sux:lugal[king]N
+etcsri/Q001998,Urdukuga 3,,4,sux:Urdukuga[1]RN
+etcsri/Q001998,Urdukuga 3,,5,sux:sipad[shepherd]N sux:niŋnam[anything]N sux:de[bring]V/t
+etcsri/Q001998,Urdukuga 3,,6,sux:Nibru[1]SN
+etcsri/Q001998,Urdukuga 3,,1',sux:dam[spouse]N sux:igi[eye]N sux:zid[right]V/i sux:bar[cvve]V/t
+etcsri/Q001998,Urdukuga 3,,2',sux:Inanak[1]DN
+etcsri/Q001998,Urdukuga 3,,3',sux:e[house]N sux:ki[place]N sux:aŋ[measure]V/t

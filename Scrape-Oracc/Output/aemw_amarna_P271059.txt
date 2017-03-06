@@ -1,0 +1,54 @@
+id_text,text_name,l_no,text
+<<<<<<< HEAD
+aemw/amarna/P271059,EA 249. A desperate vassal [vassal letter],001,akk-x-mbperi:ana[to]PRP akk-x-mbperi:šarru[king]N akk-x-mbperi:bēlu[lord]N
+aemw/amarna/P271059,EA 249. A desperate vassal [vassal letter],002,akk-x-mbperi:qabû[say]V akk-x-mbperi:umma[saying]PRP akk-x-mbperi:Baʾlu-meher[1]PN
+aemw/amarna/P271059,EA 249. A desperate vassal [vassal letter],003,akk-x-mbperi:wardu[slave]N akk-x-mbperi:ana[to]PRP akk-x-mbperi:šēpu[foot]N akk-x-mbperi:bēlu[lord]N
+aemw/amarna/P271059,EA 249. A desperate vassal [vassal letter],004,akk-x-mbperi:maqātu[fall]V akk-x-mbperi:ana[to]PRP akk-x-mbperi:šarru[king]N akk-x-mbperi:bēlu[lord]N
+aemw/amarna/P271059,EA 249. A desperate vassal [vassal letter],005,akk-x-mbperi:u[and]CNJ akk-x-mbperi:edû[know]V akk-x-mbperi:inūma[when]SBJ akk-x-mbperi:alāku[go]V akk-x-mbperi:awīlu[man]N akk-x-mbperi:ana[to]PRP akk-x-mbperi:Milk-ilu[1]PN
+aemw/amarna/P271059,EA 249. A desperate vassal [vassal letter],006,akk-x-mbperi:mīnu[what?]QP akk-x-mbperi:epšu[made]AJ akk-x-mbperi:ana[to]PRP akk-x-mbperi:Milk-ilu[1]PN
+aemw/amarna/P271059,EA 249. A desperate vassal [vassal letter],007,akk-x-mbperi:inūma[when]SBJ akk-x-mbperi:habātu[rob]V akk-x-mbperi:awīlu[man]N
+aemw/amarna/P271059,EA 249. A desperate vassal [vassal letter],008,akk-x-mbperi:muhhu[skull]N akk-x-mbperi:wardu[slave]N akk-x-mbperi:ana[to]PRP akk-x-mbperi:Taku[2]PN
+aemw/amarna/P271059,EA 249. A desperate vassal [vassal letter],009,akk-x-mbperi:emu[father-in-law]N akk-x-mbperi:nadnu[given]AJ
+aemw/amarna/P271059,EA 249. A desperate vassal [vassal letter],010,akk-x-mbperi:wardu[slave]N akk-x-mbperi:u[and]CNJ akk-x-mbperi:mīnu[what?]QP akk-x-mbperi:epēšu[do]V
+aemw/amarna/P271059,EA 249. A desperate vassal [vassal letter],011,akk-x-mbperi:anāku[I]IP akk-x-mbperi:inūma[when]SBJ akk-x-mbperi:ul[not]MOD akk-x-mbperi:wardu[slave]N
+aemw/amarna/P271059,EA 249. A desperate vassal [vassal letter],012,akk-x-mbperi:kittu[steadiness]N akk-x-mbperi:šarru[king]N akk-x-mbperi:anāku[I]IP akk-x-mbperi:u[and]CNJ
+aemw/amarna/P271059,EA 249. A desperate vassal [vassal letter],013,akk-x-mbperi:lā[not]MOD akk-x-mbperi:leʾû[be(come)-able]V akk-x-mbperi:awīlūtu[humanity]N
+aemw/amarna/P271059,EA 249. A desperate vassal [vassal letter],014,akk-x-mbperi:dagālu[see]V akk-x-mbperi:ina[in]PRP akk-x-mbperi:muhhu[skull]N
+aemw/amarna/P271059,EA 249. A desperate vassal [vassal letter],015,akk-x-mbperi:u[and]CNJ akk-x-mbperi:târu[turn]V akk-x-mbperi:šarru[king]N akk-x-mbperi:awātu[word]N
+aemw/amarna/P271059,EA 249. A desperate vassal [vassal letter],016,akk-x-mbperi:lā[not]MOD akk-x-mbperi:šemû[hear]V akk-x-mbperi:Milk-ilu[1]PN
+aemw/amarna/P271059,EA 249. A desperate vassal [vassal letter],017,akk-x-mbperi:u[and]CNJ akk-x-mbperi:Labʾaya[1]PN akk-x-mbperi:u[and]CNJ
+aemw/amarna/P271059,EA 249. A desperate vassal [vassal letter],018,akk-x-mbperi:anumma[now]AV akk-x-mbperi:inanna[now]AV akk-x-mbperi:epēšu[do]V
+aemw/amarna/P271059,EA 249. A desperate vassal [vassal letter],019,akk-x-mbperi:nukurtu[enmity]N akk-x-mbperi:u[and]CNJ akk-x-mbperi:šâlu[ask]V
+aemw/amarna/P271059,EA 249. A desperate vassal [vassal letter],020,akk-x-mbperi:šarru[king]N akk-x-mbperi:bēlu[lord]N akk-x-mbperi:Yanhamu[1]PN
+aemw/amarna/P271059,EA 249. A desperate vassal [vassal letter],025,akk-x-mbperi:šapāru[send]V
+aemw/amarna/P271059,EA 249. A desperate vassal [vassal letter],026,akk-x-mbperi:šarru[king]N akk-x-mbperi:ana[to]PRP akk-x-mbperi:yâšim[to-me]IP akk-x-mbperi:u[and]CNJ akk-x-mbperi:wuššuru[exempt]AJ
+aemw/amarna/P271059,EA 249. A desperate vassal [vassal letter],027,akk-x-mbperi:u[and]CNJ akk-x-mbperi:lā[not]MOD
+aemw/amarna/P271059,EA 249. A desperate vassal [vassal letter],028,akk-x-mbperi:ahāru[be(come)-behind]V akk-x-mbperi:u[and]CNJ akk-x-mbperi:lā[not]MOD
+aemw/amarna/P271059,EA 249. A desperate vassal [vassal letter],029,akk-x-mbperi:šemû[hear]V akk-x-mbperi:Milk-ilu[1]PN akk-x-mbperi:u[and]CNJ
+=======
+aemw/amarna/P271059,EA 249. A desperate vassal [vassal letter],001,akk-x-mbperi:šarru[king]N akk-x-mbperi:bēlu[lord]N
+aemw/amarna/P271059,EA 249. A desperate vassal [vassal letter],002,
+aemw/amarna/P271059,EA 249. A desperate vassal [vassal letter],003,akk-x-mbperi:wardu[slave]N akk-x-mbperi:šēpu[foot]N akk-x-mbperi:bēlu[lord]N
+aemw/amarna/P271059,EA 249. A desperate vassal [vassal letter],004,akk-x-mbperi:šarru[king]N akk-x-mbperi:bēlu[lord]N
+aemw/amarna/P271059,EA 249. A desperate vassal [vassal letter],005,akk-x-mbperi:awīlu[man]N
+aemw/amarna/P271059,EA 249. A desperate vassal [vassal letter],006,
+aemw/amarna/P271059,EA 249. A desperate vassal [vassal letter],007,akk-x-mbperi:awīlu[man]N
+aemw/amarna/P271059,EA 249. A desperate vassal [vassal letter],008,akk-x-mbperi:muhhu[skull]N akk-x-mbperi:wardu[slave]N
+aemw/amarna/P271059,EA 249. A desperate vassal [vassal letter],009,akk-x-mbperi:emu[father-in-law]N
+aemw/amarna/P271059,EA 249. A desperate vassal [vassal letter],010,akk-x-mbperi:wardu[slave]N
+aemw/amarna/P271059,EA 249. A desperate vassal [vassal letter],011,akk-x-mbperi:wardu[slave]N
+aemw/amarna/P271059,EA 249. A desperate vassal [vassal letter],012,akk-x-mbperi:kittu[steadiness]N akk-x-mbperi:šarru[king]N
+aemw/amarna/P271059,EA 249. A desperate vassal [vassal letter],013,akk-x-mbperi:awīlūtu[humanity]N
+aemw/amarna/P271059,EA 249. A desperate vassal [vassal letter],014,akk-x-mbperi:muhhu[skull]N
+aemw/amarna/P271059,EA 249. A desperate vassal [vassal letter],015,akk-x-mbperi:šarru[king]N akk-x-mbperi:awātu[word]N
+aemw/amarna/P271059,EA 249. A desperate vassal [vassal letter],016,
+aemw/amarna/P271059,EA 249. A desperate vassal [vassal letter],017,
+aemw/amarna/P271059,EA 249. A desperate vassal [vassal letter],018,
+aemw/amarna/P271059,EA 249. A desperate vassal [vassal letter],019,akk-x-mbperi:nukurtu[enmity]N
+aemw/amarna/P271059,EA 249. A desperate vassal [vassal letter],020,akk-x-mbperi:šarru[king]N akk-x-mbperi:bēlu[lord]N
+aemw/amarna/P271059,EA 249. A desperate vassal [vassal letter],025,
+aemw/amarna/P271059,EA 249. A desperate vassal [vassal letter],026,akk-x-mbperi:šarru[king]N
+aemw/amarna/P271059,EA 249. A desperate vassal [vassal letter],027,
+aemw/amarna/P271059,EA 249. A desperate vassal [vassal letter],028,
+aemw/amarna/P271059,EA 249. A desperate vassal [vassal letter],029,
+>>>>>>> d524642d5275e5016007339cafda4e021ecb17ba

@@ -1,0 +1,8 @@
+id_text,text_name,version,l_no,text
+etcsri/Q004145,Amar-Suen 2043add,,i 1,sux:Amarsuenak[1]RN
+etcsri/Q004145,Amar-Suen 2043add,,i 2,sux:nita[male]N sux:kalag[strong]V/i
+etcsri/Q004145,Amar-Suen 2043add,,i 3,sux:lugal[king]N sux:Urim[1]SN
+etcsri/Q004145,Amar-Suen 2043add,,i 4,sux:lugal[king]N sux:anubda[quarter]N sux:limmu[four]NU
+etcsri/Q004145,Amar-Suen 2043add,,ii 1,sux:Šarakam[1]PN sux:dubsar[scribe]N
+etcsri/Q004145,Amar-Suen 2043add,,ii 2,sux:dumu[child]N sux:Inimšara[1]PN
+etcsri/Q004145,Amar-Suen 2043add,,ii 3,sux:saŋDUN[recorder]N sux:lugal[king]N

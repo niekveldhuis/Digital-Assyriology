@@ -1,0 +1,55 @@
+id_text,text_name,l_no,text
+riao/Q005837,Tukulti-Ninurta I 01,i 1,Tukulti-Ninurta_I[king-of-Assyria]RN
+riao/Q005837,Tukulti-Ninurta I 01,i 2,Aššur[Assyria]GN Aššur[1]DN
+riao/Q005837,Tukulti-Ninurta I 01,i 3,Aššur[1]DN Anu[1]DN
+riao/Q005837,Tukulti-Ninurta I 01,i 4,Enlil[1]DN Aššur[1]DN
+riao/Q005837,Tukulti-Ninurta I 01,i 9,Aššur[1]DN
+riao/Q005837,Tukulti-Ninurta I 01,i 17,Šamaš[1]DN
+riao/Q005837,Tukulti-Ninurta I 01,i 19,Salmanu-ašared_I[Shalmaneser-I;-son-of-Adad-narari-I;-king-of-Assyria]RN Aššur[Assyria]GN
+riao/Q005837,Tukulti-Ninurta I 01,i 20,Adad-narari_I[king-of-Assyria]RN Aššur[Assyria]GN
+riao/Q005837,Tukulti-Ninurta I 01,i 21,Aššur[1]DN
+riao/Q005837,Tukulti-Ninurta I 01,i 34,Anunnaku[1]DN
+riao/Q005837,Tukulti-Ninurta I 01,ii 15,Uqumanu[1]GN
+riao/Q005837,Tukulti-Ninurta I 01,ii 16,Qutu[Gutians]EN
+riao/Q005837,Tukulti-Ninurta I 01,ii 27,Aššur[1]DN
+riao/Q005837,Tukulti-Ninurta I 01,ii 40,Qutu[Gutians]EN
+riao/Q005837,Tukulti-Ninurta I 01,iii 2,Abule[foreign-ruler]RN Uqumanu[1]GN
+riao/Q005837,Tukulti-Ninurta I 01,iii 3,Aššur[Ashur]SN
+riao/Q005837,Tukulti-Ninurta I 01,iii 7,Aššur[Ashur]SN
+riao/Q005837,Tukulti-Ninurta I 01,iii 8,Qutu[Gutians]EN
+riao/Q005837,Tukulti-Ninurta I 01,iii 12,Šarnida[1]GN
+riao/Q005837,Tukulti-Ninurta I 01,iii 13,Mehru[1]GN
+riao/Q005837,Tukulti-Ninurta I 01,iii 15,Qutu[Gutians]EN Aššur[1]DN
+riao/Q005837,Tukulti-Ninurta I 01,iii 17,Mehru[1]GN
+riao/Q005837,Tukulti-Ninurta I 01,iii 18,Aššur[Ashur]SN
+riao/Q005837,Tukulti-Ninurta I 01,iii 20,Mehru[1]GN
+riao/Q005837,Tukulti-Ninurta I 01,iii 30,Aššur[Ashur]SN Šubaru[1]EN
+riao/Q005837,Tukulti-Ninurta I 01,iii 31,Kašiyaru[1]GN
+riao/Q005837,Tukulti-Ninurta I 01,iii 32,Alzu[1]GN
+riao/Q005837,Tukulti-Ninurta I 01,iii 33,Salmanu-ašared_I[Shalmaneser-I;-son-of-Adad-narari-I;-king-of-Assyria]RN Kiš[Kish]SN
+riao/Q005837,Tukulti-Ninurta I 01,iii 37,Aššur[1]DN
+riao/Q005837,Tukulti-Ninurta I 01,iii 39,Kašiyaru[1]GN
+riao/Q005837,Tukulti-Ninurta I 01,iii 40,Šubaru[1]EN Alzu[1]GN
+riao/Q005837,Tukulti-Ninurta I 01,iii 43,Purulumzu[1]GN
+riao/Q005837,Tukulti-Ninurta I 01,iv 2,Eḫli-Tešub[foreign-ruler]RN Alzu[1]GN
+riao/Q005837,Tukulti-Ninurta I 01,iv 3,Amadanu[1]GN
+riao/Q005837,Tukulti-Ninurta I 01,iv 5,Aššur[Ashur]SN
+riao/Q005837,Tukulti-Ninurta I 01,iv 6,Eḫli-Tešub[foreign-ruler]RN Alzu[1]GN
+riao/Q005837,Tukulti-Ninurta I 01,iv 10,Nairi[1]GN
+riao/Q005837,Tukulti-Ninurta I 01,iv 19,Alzu[1]GN Amadanu[1]GN Nihanu[1]GN
+riao/Q005837,Tukulti-Ninurta I 01,iv 20,Alaia[1]GN Tepurzu[1]GN Purulumzu[1]GN
+riao/Q005837,Tukulti-Ninurta I 01,iv 25,Tulsina[1]GN
+riao/Q005837,Tukulti-Ninurta I 01,iv 26,Šasila[1]SN Mašḫat-šarri[1]SN
+riao/Q005837,Tukulti-Ninurta I 01,iv 27,Zab[Lower-Zab]WN
+riao/Q005837,Tukulti-Ninurta I 01,iv 28,Zuqušku[1]GN Lallar[1]GN
+riao/Q005837,Tukulti-Ninurta I 01,iv 29,Qutu[Gutians]EN
+riao/Q005837,Tukulti-Ninurta I 01,iv 30,Lullumu[1]GN Paphu[1]GN Katmuhu[1]GN
+riao/Q005837,Tukulti-Ninurta I 01,iv 31,Šubaru[1]EN
+riao/Q005837,Tukulti-Ninurta I 01,iv 32,Kašiyaru[1]GN Nairi[1]GN
+riao/Q005837,Tukulti-Ninurta I 01,iv 33,Makan[1]GN Purattu[Euphrates]WN
+riao/Q005837,Tukulti-Ninurta I 01,iv 41,Aššur[Ashur]SN
+riao/Q005837,Tukulti-Ninurta I 01,iv 42,Adad[1]DN
+riao/Q005837,Tukulti-Ninurta I 01,v 3,Aššur[1]DN Adad[1]DN
+riao/Q005837,Tukulti-Ninurta I 01,v 14,Aššur[Ashur]SN
+riao/Q005837,Tukulti-Ninurta I 01,v 32,Aššur[1]DN Adad[1]DN
+riao/Q005837,Tukulti-Ninurta I 01,vi 9,Ištar[1]DN

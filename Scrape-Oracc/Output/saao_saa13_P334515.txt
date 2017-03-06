@@ -1,0 +1,29 @@
+id_text,text_name,l_no,text
+saao/saa13/P334515,SAA 13 019. Recalcitrant Assyrian Shepherds (ABL 0726),o 1,ana[to]PRP šarru[king]N bēlu[lord]N
+saao/saa13/P334515,SAA 13 019. Recalcitrant Assyrian Shepherds (ABL 0726),o 2,ardu[slave]N Dadi[1]PN
+saao/saa13/P334515,SAA 13 019. Recalcitrant Assyrian Shepherds (ABL 0726),o 3,lū[may]MOD šulmu[completeness]N ana[to]PRP šarru[king]N bēlu[lord]N
+saao/saa13/P334515,SAA 13 019. Recalcitrant Assyrian Shepherds (ABL 0726),o 4,Nabu[1]DN Marduk[1]DN ana[to]PRP šarru[king]N
+saao/saa13/P334515,SAA 13 019. Recalcitrant Assyrian Shepherds (ABL 0726),o 5,bēlu[lord]N karābu[pray]V
+saao/saa13/P334515,SAA 13 019. Recalcitrant Assyrian Shepherds (ABL 0726),o 6,ištu[from]PRP rēšu[head]N arhu[month]N adi[until]PRP akanni[now]AV
+saao/saa13/P334515,SAA 13 019. Recalcitrant Assyrian Shepherds (ABL 0726),o 7,rēʾû[shepherd]N naptanu[meal(-time)]N ana[to]PRP
+saao/saa13/P334515,SAA 13 019. Recalcitrant Assyrian Shepherds (ABL 0726),o 8,perru[corps]N lā[not]MOD magāru[consent]V
+saao/saa13/P334515,SAA 13 019. Recalcitrant Assyrian Shepherds (ABL 0726),o 9,lā[not]MOD alāku[go]V anāku[I]IP
+saao/saa13/P334515,SAA 13 019. Recalcitrant Assyrian Shepherds (ABL 0726),o 10,immeru[sheep]N ištu[from]PRP libbu[interior]N abullu[(city)-gate]N
+saao/saa13/P334515,SAA 13 019. Recalcitrant Assyrian Shepherds (ABL 0726),o 11,leqû[take]V akālu[eat]V
+saao/saa13/P334515,SAA 13 019. Recalcitrant Assyrian Shepherds (ABL 0726),o 12,rēʾû[shepherd]N ša[that]REL ina[in]PRP bītu[house]N māru[son]N
+saao/saa13/P334515,SAA 13 019. Recalcitrant Assyrian Shepherds (ABL 0726),o 13,bārû[diviner]N izuzzu[stand]V
+saao/saa13/P334515,SAA 13 019. Recalcitrant Assyrian Shepherds (ABL 0726),b.e. 14,ana[to]PRP perru[corps]N lā[not]MOD alāku[go]V
+saao/saa13/P334515,SAA 13 019. Recalcitrant Assyrian Shepherds (ABL 0726),b.e. 15,immeru[sheep]N
+saao/saa13/P334515,SAA 13 019. Recalcitrant Assyrian Shepherds (ABL 0726),r 1,lā[not]MOD leqû[take]V ina[in]PRP libbu[interior]N
+saao/saa13/P334515,SAA 13 019. Recalcitrant Assyrian Shepherds (ABL 0726),r 2,lā[not]MOD tadānu[give]V annû[this]DP
+saao/saa13/P334515,SAA 13 019. Recalcitrant Assyrian Shepherds (ABL 0726),r 3,māru[son]N mātu[land]N Aššur[1]DN lā[not]MOD magāru[consent]V
+saao/saa13/P334515,SAA 13 019. Recalcitrant Assyrian Shepherds (ABL 0726),r 4,šarru[king]N bēlu[lord]N lā[not]MOD palāhu[fear]V
+saao/saa13/P334515,SAA 13 019. Recalcitrant Assyrian Shepherds (ABL 0726),r 5,māru[son]N mātu[land]N nakru[enemy]N kē[how?]QP
+saao/saa13/P334515,SAA 13 019. Recalcitrant Assyrian Shepherds (ABL 0726),r 6,ana[to]PRP šarru[king]N bēlu[lord]N alāku[go]V
+saao/saa13/P334515,SAA 13 019. Recalcitrant Assyrian Shepherds (ABL 0726),r 7,issurri[perhaps]AV šarru[king]N bēlu[lord]N
+saao/saa13/P334515,SAA 13 019. Recalcitrant Assyrian Shepherds (ABL 0726),r 8,qabû[say]V mā[saying]PRP ištu[from]PRP ayyaka[where?]QP
+saao/saa13/P334515,SAA 13 019. Recalcitrant Assyrian Shepherds (ABL 0726),r 9,šunu[they]IP Arbailayu[1]PN
+saao/saa13/P334515,SAA 13 019. Recalcitrant Assyrian Shepherds (ABL 0726),r 10,Šamaš-abu-uṣur[1]PN ša[of]DET Luddin-ilu[1]GN
+saao/saa13/P334515,SAA 13 019. Recalcitrant Assyrian Shepherds (ABL 0726),r 11,ša[of]DET Salamme[1]GN
+saao/saa13/P334515,SAA 13 019. Recalcitrant Assyrian Shepherds (ABL 0726),r 12,šarru[king]N bēlu[lord]N ardu[slave]N
+saao/saa13/P334515,SAA 13 019. Recalcitrant Assyrian Shepherds (ABL 0726),r 13,buʾʾû[look-for]V ūla[or]AV

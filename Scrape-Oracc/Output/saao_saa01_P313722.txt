@@ -1,0 +1,22 @@
+id_text,text_name,l_no,text
+saao/saa01/P313722,SAA 01 037. The Chariotry of the Palace Guard (CT 53 307),o 1,ana[to]PRP šarru[king]N bēlu[lord]N
+saao/saa01/P313722,SAA 01 037. The Chariotry of the Palace Guard (CT 53 307),o 2,ardu[slave]N Sin-ahhe-eriba[Sennacherib]PN
+saao/saa01/P313722,SAA 01 037. The Chariotry of the Palace Guard (CT 53 307),o 3,lū[may]MOD šulmu[completeness]N ana[to]PRP šarru[king]N bēlu[lord]N
+saao/saa01/P313722,SAA 01 037. The Chariotry of the Palace Guard (CT 53 307),o 4,šulmu[completeness]N ana[to]PRP mātu[land]N Aššur[1]DN
+saao/saa01/P313722,SAA 01 037. The Chariotry of the Palace Guard (CT 53 307),o 5,šulmu[completeness]N ana[to]PRP ēkurru[temple]N
+saao/saa01/P313722,SAA 01 037. The Chariotry of the Palace Guard (CT 53 307),o 6,šulmu[completeness]N ana[to]PRP birtu[fort]N ša[of]DET šarru[king]N gabbu[totality]N
+saao/saa01/P313722,SAA 01 037. The Chariotry of the Palace Guard (CT 53 307),o 7,libbu[interior]N ša[of]DET šarru[king]N bēlu[lord]N adanniš[very-much]AV lū[may]MOD ṭābu[good]AJ
+saao/saa01/P313722,SAA 01 037. The Chariotry of the Palace Guard (CT 53 307),o 8,sisû[horse]N ammiu[that]DP ša[that]REL šarru[king]N bēlu[lord]N
+saao/saa01/P313722,SAA 01 037. The Chariotry of the Palace Guard (CT 53 307),o 9,ina[in]PRP muhhu[skull]N ṭēmu[(fore)thought]N šakānu[put]V
+saao/saa01/P313722,SAA 01 037. The Chariotry of the Palace Guard (CT 53 307),o 10,ṣabātu[seize]V ina[in]PRP
+saao/saa01/P313722,SAA 01 037. The Chariotry of the Palace Guard (CT 53 307),o 11,libbu[interior]N lā[not]MOD
+saao/saa01/P313722,SAA 01 037. The Chariotry of the Palace Guard (CT 53 307),o 14,ša[that]REL
+saao/saa01/P313722,SAA 01 037. The Chariotry of the Palace Guard (CT 53 307),r 4,tamkāru[merchant]N
+saao/saa01/P313722,SAA 01 037. The Chariotry of the Palace Guard (CT 53 307),r 5,ana[to]PRP ša-pān-ēkalli[palace-supervisor]N
+saao/saa01/P313722,SAA 01 037. The Chariotry of the Palace Guard (CT 53 307),r 6,akī[as]PRP šarru[king]N bēlu[lord]N
+saao/saa01/P313722,SAA 01 037. The Chariotry of the Palace Guard (CT 53 307),r 7,šušānu[horse-trainer]N ša[of]DET šēpu[foot]N
+saao/saa01/P313722,SAA 01 037. The Chariotry of the Palace Guard (CT 53 307),r 8,ša[of]DET ina[in]PRP pānu[front]N šammu[plant(s)]N
+saao/saa01/P313722,SAA 01 037. The Chariotry of the Palace Guard (CT 53 307),r 9,biltu[load]N manû[unit]N siparru[bronze]N
+saao/saa01/P313722,SAA 01 037. The Chariotry of the Palace Guard (CT 53 307),r 10,ša[of]DET ištēn[one]NU urû[team]N
+saao/saa01/P313722,SAA 01 037. The Chariotry of the Palace Guard (CT 53 307),r 11,pitti[just-as]AV ša[that]REL šarru[king]N
+saao/saa01/P313722,SAA 01 037. The Chariotry of the Palace Guard (CT 53 307),r 12,erēšu[request]V mīnu[what?]QP ša[that]REL šarru[king]N bēlu[lord]N

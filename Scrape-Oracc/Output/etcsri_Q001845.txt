@@ -1,0 +1,13 @@
+id_text,text_name,version,l_no,text
+etcsri/Q001845,Šu-Suen 2016,,1',sux:namtil[life]N
+etcsri/Q001845,Šu-Suen 2016,,2',sux:Šusuen[1]RN
+etcsri/Q001845,Šu-Suen 2016,,3',sux:išib[priest]N sux:An[1]DN
+etcsri/Q001845,Šu-Suen 2016,,4',sux:gudug[priest]N sux:šu[hand]N sux:dadag[bright]V/i
+etcsri/Q001845,Šu-Suen 2016,,5',sux:Enlil[1]DN
+etcsri/Q001845,Šu-Suen 2016,,6',sux:Ninlil[1]DN
+etcsri/Q001845,Šu-Suen 2016,,7',sux:u[and]CNJ sux:diŋir[deity]N sux:gal[big]V/i
+etcsri/Q001845,Šu-Suen 2016,,8',sux:lugal[king]N sux:Enlil[1]DN
+etcsri/Q001845,Šu-Suen 2016,,9',sux:ki[place]N sux:aŋ[measure]V/t
+etcsri/Q001845,Šu-Suen 2016,,10',sux:šag[heart]N
+etcsri/Q001845,Šu-Suen 2016,,11',sux:pad[find]V/t
+etcsri/Q001845,Šu-Suen 2016,,12',sux:sipad[shepherd]N sux:kalam[land]N

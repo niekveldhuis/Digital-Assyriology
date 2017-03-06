@@ -1,0 +1,22 @@
+id_text,text_name,l_no,text
+saao/saa10/P334004,SAA 10 279. Purification Rites (ABL 0052) [from exorcists],o 1,ana[to]PRP šarru[king]N bēlu[lord]N
+saao/saa10/P334004,SAA 10 279. Purification Rites (ABL 0052) [from exorcists],o 2,ardu[slave]N Nabu-nadin-šumi[1]PN
+saao/saa10/P334004,SAA 10 279. Purification Rites (ABL 0052) [from exorcists],o 3,lū[may]MOD šulmu[completeness]N ana[to]PRP šarru[king]N bēlu[lord]N
+saao/saa10/P334004,SAA 10 279. Purification Rites (ABL 0052) [from exorcists],o 4,Nabu[1]DN Marduk[1]DN ana[to]PRP šarru[king]N
+saao/saa10/P334004,SAA 10 279. Purification Rites (ABL 0052) [from exorcists],o 5,bēlu[lord]N karābu[pray]V
+saao/saa10/P334004,SAA 10 279. Purification Rites (ABL 0052) [from exorcists],o 6,ina[in]PRP muhhu[skull]N takpertu[purification-(ceremony)]N
+saao/saa10/P334004,SAA 10 279. Purification Rites (ABL 0052) [from exorcists],o 7,ša[that]REL ṭēmu[(fore)thought]N šaknu[placed]AJ
+saao/saa10/P334004,SAA 10 279. Purification Rites (ABL 0052) [from exorcists],o 8,alāku[go]V takpertu[purification-(ceremony)]N
+saao/saa10/P334004,SAA 10 279. Purification Rites (ABL 0052) [from exorcists],o 9,dannu[strong]AJ ṣabātu[seize]V
+saao/saa10/P334004,SAA 10 279. Purification Rites (ABL 0052) [from exorcists],o 10,ištu[from]PRP Ninua[Nineveh]GN
+saao/saa10/P334004,SAA 10 279. Purification Rites (ABL 0052) [from exorcists],o 11,hūlu[way]N ša[of]DET Zikku[1]GN
+saao/saa10/P334004,SAA 10 279. Purification Rites (ABL 0052) [from exorcists],o 12,kullu[hold]V
+saao/saa10/P334004,SAA 10 279. Purification Rites (ABL 0052) [from exorcists],r 1,adi[until]PRP Sasiqani[1]GN
+saao/saa10/P334004,SAA 10 279. Purification Rites (ABL 0052) [from exorcists],r 2,alāku[go]V ṭēmu[(fore)thought]N
+saao/saa10/P334004,SAA 10 279. Purification Rites (ABL 0052) [from exorcists],r 3,ana[to]PRP dayyālu[scout]N
+saao/saa10/P334004,SAA 10 279. Purification Rites (ABL 0052) [from exorcists],r 4,ša[that]REL ištu[from]PRP Ninua[Nineveh]GN
+saao/saa10/P334004,SAA 10 279. Purification Rites (ABL 0052) [from exorcists],r 5,išti[with]PRP aṣû[go-out]V
+saao/saa10/P334004,SAA 10 279. Purification Rites (ABL 0052) [from exorcists],r 6,u[and]CNJ ana[to]PRP dayyālu[scout]N
+saao/saa10/P334004,SAA 10 279. Purification Rites (ABL 0052) [from exorcists],r 7,ša[of]DET Kalhu[1]GN šakānu[put]V
+saao/saa10/P334004,SAA 10 279. Purification Rites (ABL 0052) [from exorcists],r 8,muk[saying]PRP wabālu[bring]V
+saao/saa10/P334004,SAA 10 279. Purification Rites (ABL 0052) [from exorcists],r 9,ina[in]PRP libbu[interior]N Kasappa[1]GN

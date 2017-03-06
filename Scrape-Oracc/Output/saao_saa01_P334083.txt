@@ -1,0 +1,14 @@
+id_text,text_name,l_no,text
+saao/saa01/P334083,SAA 01 146. City Rulers Petition the King (ABL 0136),o 1,ana[to]PRP šarru[king]N bēlu[lord]N
+saao/saa01/P334083,SAA 01 146. City Rulers Petition the King (ABL 0136),o 2,ardu[slave]N Šamaš-upahhir[1]PN
+saao/saa01/P334083,SAA 01 146. City Rulers Petition the King (ABL 0136),o 3,lū[may]MOD šulmu[completeness]N ana[to]PRP šarru[king]N bēlu[lord]N
+saao/saa01/P334083,SAA 01 146. City Rulers Petition the King (ABL 0136),o 4,ardu[slave]N ša[of]DET šarru[king]N bēlu[lord]N
+saao/saa01/P334083,SAA 01 146. City Rulers Petition the King (ABL 0136),o 5,bēlu[lord]N ālu[city]N ša[of]DET qātu[hand]N
+saao/saa01/P334083,SAA 01 146. City Rulers Petition the King (ABL 0136),o 6,ša[that]REL šarru[king]N bēlu[lord]N ina[in]PRP libbu[interior]N Milqia[1]GN
+saao/saa01/P334083,SAA 01 146. City Rulers Petition the King (ABL 0136),o 7,dullu[trouble]N ana[to]PRP epēšu[do]V
+saao/saa01/P334083,SAA 01 146. City Rulers Petition the King (ABL 0136),o 8,qabû[say]V
+saao/saa01/P334083,SAA 01 146. City Rulers Petition the King (ABL 0136),o 9,ina[in]PRP pānu[front]N alāku[go]V
+saao/saa01/P334083,SAA 01 146. City Rulers Petition the King (ABL 0136),r 1',mā[saying]PRP ina[in]PRP ēkallu[palace]N šapāru[send]V
+saao/saa01/P334083,SAA 01 146. City Rulers Petition the King (ABL 0136),r 2',ša[of]DET šarru[king]N bēlu[lord]N
+saao/saa01/P334083,SAA 01 146. City Rulers Petition the King (ABL 0136),r 3',petû[open]V
+saao/saa01/P334083,SAA 01 146. City Rulers Petition the King (ABL 0136),r 4',mīnu[what?]QP ša[that]REL šarru[king]N bēlu[lord]N

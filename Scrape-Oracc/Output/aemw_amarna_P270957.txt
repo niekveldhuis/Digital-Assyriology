@@ -1,0 +1,96 @@
+id_text,text_name,l_no,text
+<<<<<<< HEAD
+aemw/amarna/P270957,EA 245. Assignment of guilt [vassal letter],001,akk-x-mbperi:šanītu[something-other]N akk-x-mbperi:dabbu[speak]AJ
+aemw/amarna/P270957,EA 245. Assignment of guilt [vassal letter],002,akk-x-mbperi:eli[on]PRP akk-x-mbperi:ahu[brother]N
+aemw/amarna/P270957,EA 245. Assignment of guilt [vassal letter],003,akk-x-mbperi:šumma[if]MOD akk-x-mbperi:epēšu[do]V
+aemw/amarna/P270957,EA 245. Assignment of guilt [vassal letter],004,akk-x-mbperi:ilu[god]N akk-x-mbperi:ša[of]DET akk-x-mbperi:šarru[king]N akk-x-mbperi:bēlu[lord]N
+aemw/amarna/P270957,EA 245. Assignment of guilt [vassal letter],005,akk-x-mbperi:u[and]CNJ akk-x-mbperi:kašādu[reach]V
+aemw/amarna/P270957,EA 245. Assignment of guilt [vassal letter],006,akk-x-mbperi:Labʾaya[1]PN akk-x-mbperi:u[and]CNJ akk-x-mbperi:balṭānumma[alive]AJ
+aemw/amarna/P270957,EA 245. Assignment of guilt [vassal letter],007,akk-x-mbperi:wabālu[carry]V akk-x-mbperi:ana[to]PRP akk-x-mbperi:šarru[king]N akk-x-mbperi:bēlu[lord]N
+aemw/amarna/P270957,EA 245. Assignment of guilt [vassal letter],008,akk-x-mbperi:u[and]CNJ akk-x-mbperi:nasāhu[tear-out]V
+aemw/amarna/P270957,EA 245. Assignment of guilt [vassal letter],009,akk-x-mbperi:sisû[horse]N akk-x-mbperi:u[and]CNJ akk-x-mbperi:izuzzu[stand]V
+aemw/amarna/P270957,EA 245. Assignment of guilt [vassal letter],010,akk-x-mbperi:warki[after]PRP
+aemw/amarna/P270957,EA 245. Assignment of guilt [vassal letter],011,akk-x-mbperi:u[and]CNJ akk-x-mbperi:rakābu[ride]V
+aemw/amarna/P270957,EA 245. Assignment of guilt [vassal letter],012,akk-x-mbperi:itti[with]PRP akk-x-mbperi:Yašdata[1]PN
+aemw/amarna/P270957,EA 245. Assignment of guilt [vassal letter],013,akk-x-mbperi:u[and]CNJ akk-x-mbperi:adi[until]PRP akk-x-mbperi:kašādu[reach]V
+aemw/amarna/P270957,EA 245. Assignment of guilt [vassal letter],014,akk-x-mbperi:u[and]CNJ akk-x-mbperi:dīku[killed]AJ
+aemw/amarna/P270957,EA 245. Assignment of guilt [vassal letter],015,akk-x-mbperi:u[and]CNJ akk-x-mbperi:allû[certainly]MOD akk-x-mbperi:Yašdata[1]PN
+aemw/amarna/P270957,EA 245. Assignment of guilt [vassal letter],016,akk-x-mbperi:wardu[slave]N akk-x-mbperi:u[and]CNJ akk-x-mbperi:šūt[he]IP
+aemw/amarna/P270957,EA 245. Assignment of guilt [vassal letter],017,akk-x-mbperi:erēbu[enter]V akk-x-mbperi:itti[with]PRP
+aemw/amarna/P270957,EA 245. Assignment of guilt [vassal letter],018,akk-x-mbperi:ina[in]PRP akk-x-mbperi:tāhāzu[battle]N akk-x-mbperi:tāhāzu[battle]N
+aemw/amarna/P270957,EA 245. Assignment of guilt [vassal letter],019,akk-x-mbperi:u[and]CNJ akk-x-mbperi:lū[let-it-be]MOD akk-x-mbperi:nadānu[give]V
+aemw/amarna/P270957,EA 245. Assignment of guilt [vassal letter],020,akk-x-mbperi:balāṭu[life]N akk-x-mbperi:šarru[king]N akk-x-mbperi:bēlu[lord]N
+aemw/amarna/P270957,EA 245. Assignment of guilt [vassal letter],021,akk-x-mbperi:u[and]CNJ akk-x-mbperi:palāsu[look-(at)]V
+aemw/amarna/P270957,EA 245. Assignment of guilt [vassal letter],022,akk-x-mbperi:ṭābu[good-thing]N akk-x-mbperi:ina[in]PRP akk-x-mbperi:pānu[front]N
+aemw/amarna/P270957,EA 245. Assignment of guilt [vassal letter],023,akk-x-mbperi:šarru[king]N akk-x-mbperi:bēlu[lord]N
+aemw/amarna/P270957,EA 245. Assignment of guilt [vassal letter],024,akk-x-mbperi:u[and]CNJ akk-x-mbperi:Surata[1]PN
+aemw/amarna/P270957,EA 245. Assignment of guilt [vassal letter],025,akk-x-mbperi:leqû[take]V akk-x-mbperi:Labʾaya[1]PN
+aemw/amarna/P270957,EA 245. Assignment of guilt [vassal letter],026,akk-x-mbperi:ištu[from]PRP akk-x-mbperi:Magidda[Megiddo]GN
+aemw/amarna/P270957,EA 245. Assignment of guilt [vassal letter],027,akk-x-mbperi:u[and]CNJ akk-x-mbperi:qabû[say]V akk-x-mbperi:ana[to]PRP akk-x-mbperi:yâšim[to-me]IP
+aemw/amarna/P270957,EA 245. Assignment of guilt [vassal letter],028,akk-x-mbperi:ina[in]PRP akk-x-mbperi:libbu[interior]N akk-x-mbperi:eleppu[ship]N
+aemw/amarna/P270957,EA 245. Assignment of guilt [vassal letter],029,akk-x-mbperi:wašāru[sink-down]V
+aemw/amarna/P270957,EA 245. Assignment of guilt [vassal letter],030,akk-x-mbperi:ana[to]PRP akk-x-mbperi:šarru[king]N akk-x-mbperi:u[and]CNJ akk-x-mbperi:leqû[take]V
+aemw/amarna/P270957,EA 245. Assignment of guilt [vassal letter],031,akk-x-mbperi:Surata[1]PN akk-x-mbperi:u[and]CNJ akk-x-mbperi:wašāru[sink-down]V
+aemw/amarna/P270957,EA 245. Assignment of guilt [vassal letter],032,akk-x-mbperi:ištu[from]PRP akk-x-mbperi:Hinnatuna[Hannathon]GN
+aemw/amarna/P270957,EA 245. Assignment of guilt [vassal letter],033,akk-x-mbperi:ana[to]PRP akk-x-mbperi:bītu[house]N akk-x-mbperi:u[and]CNJ akk-x-mbperi:Surata[1]PN
+aemw/amarna/P270957,EA 245. Assignment of guilt [vassal letter],034,akk-x-mbperi:leqû[taken]AJ akk-x-mbperi:kaspu[silver]N akk-x-mbperi:ipṭiru[ransom-(money)]N
+aemw/amarna/P270957,EA 245. Assignment of guilt [vassal letter],035,akk-x-mbperi:ina[in]PRP akk-x-mbperi:qātu[hand]N
+aemw/amarna/P270957,EA 245. Assignment of guilt [vassal letter],036,akk-x-mbperi:šanītu[something-other]N akk-x-mbperi:mīnu[what?]QP akk-x-mbperi:epšu[made]AJ
+aemw/amarna/P270957,EA 245. Assignment of guilt [vassal letter],037,akk-x-mbperi:ana[to]PRP akk-x-mbperi:šarru[king]N akk-x-mbperi:bēlu[lord]N
+aemw/amarna/P270957,EA 245. Assignment of guilt [vassal letter],038,akk-x-mbperi:inūma[when]SBJ akk-x-mbperi:qatānu[be(come)-thin]V
+aemw/amarna/P270957,EA 245. Assignment of guilt [vassal letter],039,akk-x-mbperi:u[and]CNJ akk-x-mbperi:kabātu[be(come)-heavy]V
+aemw/amarna/P270957,EA 245. Assignment of guilt [vassal letter],040,akk-x-mbperi:ahu[brother]N akk-x-mbperi:ṣehru[small]AJ
+aemw/amarna/P270957,EA 245. Assignment of guilt [vassal letter],041,akk-x-mbperi:u[and]CNJ akk-x-mbperi:Surata[1]PN
+aemw/amarna/P270957,EA 245. Assignment of guilt [vassal letter],042,akk-x-mbperi:wašāru[sink-down]V
+aemw/amarna/P270957,EA 245. Assignment of guilt [vassal letter],043,akk-x-mbperi:Labʾaya[1]PN akk-x-mbperi:u[and]CNJ akk-x-mbperi:Surata[1]PN
+aemw/amarna/P270957,EA 245. Assignment of guilt [vassal letter],044,akk-x-mbperi:wašāru[sink-down]V akk-x-mbperi:Baʾlu-meher[1]PN
+aemw/amarna/P270957,EA 245. Assignment of guilt [vassal letter],045,akk-x-mbperi:ana[to]PRP akk-x-mbperi:bītu[house]N
+aemw/amarna/P270957,EA 245. Assignment of guilt [vassal letter],046,akk-x-mbperi:u[and]CNJ akk-x-mbperi:lū[let-it-be]MOD akk-x-mbperi:edû[know]V
+=======
+aemw/amarna/P270957,EA 245. Assignment of guilt [vassal letter],001,akk-x-mbperi:šanītu[something-other]N
+aemw/amarna/P270957,EA 245. Assignment of guilt [vassal letter],002,akk-x-mbperi:ahu[brother]N
+aemw/amarna/P270957,EA 245. Assignment of guilt [vassal letter],003,
+aemw/amarna/P270957,EA 245. Assignment of guilt [vassal letter],004,akk-x-mbperi:ilu[god]N akk-x-mbperi:šarru[king]N akk-x-mbperi:bēlu[lord]N
+aemw/amarna/P270957,EA 245. Assignment of guilt [vassal letter],005,
+aemw/amarna/P270957,EA 245. Assignment of guilt [vassal letter],006,
+aemw/amarna/P270957,EA 245. Assignment of guilt [vassal letter],007,akk-x-mbperi:šarru[king]N akk-x-mbperi:bēlu[lord]N
+aemw/amarna/P270957,EA 245. Assignment of guilt [vassal letter],008,
+aemw/amarna/P270957,EA 245. Assignment of guilt [vassal letter],009,akk-x-mbperi:sisû[horse]N
+aemw/amarna/P270957,EA 245. Assignment of guilt [vassal letter],010,
+aemw/amarna/P270957,EA 245. Assignment of guilt [vassal letter],011,
+aemw/amarna/P270957,EA 245. Assignment of guilt [vassal letter],012,
+aemw/amarna/P270957,EA 245. Assignment of guilt [vassal letter],013,
+aemw/amarna/P270957,EA 245. Assignment of guilt [vassal letter],014,
+aemw/amarna/P270957,EA 245. Assignment of guilt [vassal letter],015,
+aemw/amarna/P270957,EA 245. Assignment of guilt [vassal letter],016,akk-x-mbperi:wardu[slave]N
+aemw/amarna/P270957,EA 245. Assignment of guilt [vassal letter],017,
+aemw/amarna/P270957,EA 245. Assignment of guilt [vassal letter],018,akk-x-mbperi:tāhāzu[battle]N akk-x-mbperi:tāhāzu[battle]N
+aemw/amarna/P270957,EA 245. Assignment of guilt [vassal letter],019,
+aemw/amarna/P270957,EA 245. Assignment of guilt [vassal letter],020,akk-x-mbperi:balāṭu[life]N akk-x-mbperi:šarru[king]N akk-x-mbperi:bēlu[lord]N
+aemw/amarna/P270957,EA 245. Assignment of guilt [vassal letter],021,
+aemw/amarna/P270957,EA 245. Assignment of guilt [vassal letter],022,akk-x-mbperi:ṭābu[good-thing]N akk-x-mbperi:pānu[front]N
+aemw/amarna/P270957,EA 245. Assignment of guilt [vassal letter],023,akk-x-mbperi:šarru[king]N akk-x-mbperi:bēlu[lord]N
+aemw/amarna/P270957,EA 245. Assignment of guilt [vassal letter],024,
+aemw/amarna/P270957,EA 245. Assignment of guilt [vassal letter],025,
+aemw/amarna/P270957,EA 245. Assignment of guilt [vassal letter],026,
+aemw/amarna/P270957,EA 245. Assignment of guilt [vassal letter],027,
+aemw/amarna/P270957,EA 245. Assignment of guilt [vassal letter],028,akk-x-mbperi:libbu[interior]N akk-x-mbperi:eleppu[ship]N
+aemw/amarna/P270957,EA 245. Assignment of guilt [vassal letter],029,
+aemw/amarna/P270957,EA 245. Assignment of guilt [vassal letter],030,akk-x-mbperi:šarru[king]N
+aemw/amarna/P270957,EA 245. Assignment of guilt [vassal letter],031,
+aemw/amarna/P270957,EA 245. Assignment of guilt [vassal letter],032,
+aemw/amarna/P270957,EA 245. Assignment of guilt [vassal letter],033,akk-x-mbperi:bītu[house]N
+aemw/amarna/P270957,EA 245. Assignment of guilt [vassal letter],034,akk-x-mbperi:kaspu[silver]N akk-x-mbperi:ipṭiru[ransom-(money)]N
+aemw/amarna/P270957,EA 245. Assignment of guilt [vassal letter],035,akk-x-mbperi:qātu[hand]N
+aemw/amarna/P270957,EA 245. Assignment of guilt [vassal letter],036,akk-x-mbperi:šanītu[something-other]N
+aemw/amarna/P270957,EA 245. Assignment of guilt [vassal letter],037,akk-x-mbperi:šarru[king]N akk-x-mbperi:bēlu[lord]N
+aemw/amarna/P270957,EA 245. Assignment of guilt [vassal letter],038,
+aemw/amarna/P270957,EA 245. Assignment of guilt [vassal letter],039,
+aemw/amarna/P270957,EA 245. Assignment of guilt [vassal letter],040,akk-x-mbperi:ahu[brother]N
+aemw/amarna/P270957,EA 245. Assignment of guilt [vassal letter],041,
+aemw/amarna/P270957,EA 245. Assignment of guilt [vassal letter],042,
+aemw/amarna/P270957,EA 245. Assignment of guilt [vassal letter],043,
+aemw/amarna/P270957,EA 245. Assignment of guilt [vassal letter],044,
+aemw/amarna/P270957,EA 245. Assignment of guilt [vassal letter],045,akk-x-mbperi:bītu[house]N
+aemw/amarna/P270957,EA 245. Assignment of guilt [vassal letter],046,
+>>>>>>> d524642d5275e5016007339cafda4e021ecb17ba

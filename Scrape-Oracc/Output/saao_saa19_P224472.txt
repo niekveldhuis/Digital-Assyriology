@@ -1,0 +1,33 @@
+id_text,text_name,l_no,text
+saao/saa19/P224472,SAA 19 030. Orchards of the Villages of Helbon (CTN 5 p. 158),o 1,ana[to]PRP šarru[king]N bēlu[lord]N
+saao/saa19/P224472,SAA 19 030. Orchards of the Villages of Helbon (CTN 5 p. 158),o 2,ardu[slave]N Qurdi-Aššur[1]PN
+saao/saa19/P224472,SAA 19 030. Orchards of the Villages of Helbon (CTN 5 p. 158),o 3,lū[may]MOD šulmu[completeness]N ana[to]PRP šarru[king]N bēlu[lord]N
+saao/saa19/P224472,SAA 19 030. Orchards of the Villages of Helbon (CTN 5 p. 158),o 4,ištu[from]PRP bītu[house]N šarru[king]N bēlu[lord]N annaka[here]AV paqādu[entrust]V
+saao/saa19/P224472,SAA 19 030. Orchards of the Villages of Helbon (CTN 5 p. 158),o 5,ina[in]PRP muhhu[skull]N paqādu[entrust]V
+saao/saa19/P224472,SAA 19 030. Orchards of the Villages of Helbon (CTN 5 p. 158),o 7,ina[in]PRP muhhu[skull]N ša[that]REL šapāru[send]V
+saao/saa19/P224472,SAA 19 030. Orchards of the Villages of Helbon (CTN 5 p. 158),o 8,nuk[saying]PRP Hulbuna[Helbon]GN
+saao/saa19/P224472,SAA 19 030. Orchards of the Villages of Helbon (CTN 5 p. 158),o 9,lā[not]MOD magāru[consent]V
+saao/saa19/P224472,SAA 19 030. Orchards of the Villages of Helbon (CTN 5 p. 158),o 10,alāku[go]V
+saao/saa19/P224472,SAA 19 030. Orchards of the Villages of Helbon (CTN 5 p. 158),o 16,Nabu-bani[1]PN mā[saying]PRP
+saao/saa19/P224472,SAA 19 030. Orchards of the Villages of Helbon (CTN 5 p. 158),o 17,ina[in]PRP muhhu[skull]N lā[not]MOD šaknu[placed]AJ
+saao/saa19/P224472,SAA 19 030. Orchards of the Villages of Helbon (CTN 5 p. 158),o 18,akanni[now]AV šasû[shout]V šarru[king]N
+saao/saa19/P224472,SAA 19 030. Orchards of the Villages of Helbon (CTN 5 p. 158),o 19,isītu[tower]N
+saao/saa19/P224472,SAA 19 030. Orchards of the Villages of Helbon (CTN 5 p. 158),r 1',mā[saying]PRP ālu[city]N
+saao/saa19/P224472,SAA 19 030. Orchards of the Villages of Helbon (CTN 5 p. 158),r 2',šumma[if]MOD kirû[garden]N ša[of]DET ālu[city]N ša[of]DET Hulbuna[Helbon]GN
+saao/saa19/P224472,SAA 19 030. Orchards of the Villages of Helbon (CTN 5 p. 158),r 3',ana[to]PRP memēni[somebody]XP tadānu[give]V šumma[if]MOD damqu[good]AJ
+saao/saa19/P224472,SAA 19 030. Orchards of the Villages of Helbon (CTN 5 p. 158),r 4',šumma[if]MOD ana[to]PRP harbu[deserted]AJ târu[turn]V šarru[king]N ina[in]PRP qātu[hand]N
+saao/saa19/P224472,SAA 19 030. Orchards of the Villages of Helbon (CTN 5 p. 158),r 5',buʾʾû[look-for]V ūma[today]AV šumma[if]MOD šanû[do-twice]V
+saao/saa19/P224472,SAA 19 030. Orchards of the Villages of Helbon (CTN 5 p. 158),r 6',pû[mouth]N memēni[somebody]XP išti[with]PRP petû[open]V
+saao/saa19/P224472,SAA 19 030. Orchards of the Villages of Helbon (CTN 5 p. 158),r 7',šarru[king]N bēlu[lord]N lū[may]MOD wadû[know]V
+saao/saa19/P224472,SAA 19 030. Orchards of the Villages of Helbon (CTN 5 p. 158),r 8',šarru[king]N
+saao/saa19/P224472,SAA 19 030. Orchards of the Villages of Helbon (CTN 5 p. 158),r 9',tartānu[second-in-command]N
+saao/saa19/P224472,SAA 19 030. Orchards of the Villages of Helbon (CTN 5 p. 158),r 10',šumma[if]MOD
+saao/saa19/P224472,SAA 19 030. Orchards of the Villages of Helbon (CTN 5 p. 158),r 11',pīhātu[responsibility]N
+saao/saa19/P224472,SAA 19 030. Orchards of the Villages of Helbon (CTN 5 p. 158),r 12',ana[to]PRP yâšim[to-me]IP
+saao/saa19/P224472,SAA 19 030. Orchards of the Villages of Helbon (CTN 5 p. 158),r 13',ilu[god]N ša[of]DET šarru[king]N
+saao/saa19/P224472,SAA 19 030. Orchards of the Villages of Helbon (CTN 5 p. 158),r 14',šumma[if]MOD wadû[know]V
+saao/saa19/P224472,SAA 19 030. Orchards of the Villages of Helbon (CTN 5 p. 158),r 15',šarru[king]N
+saao/saa19/P224472,SAA 19 030. Orchards of the Villages of Helbon (CTN 5 p. 158),r 16',ūma[today]AV šarru[king]N bēlu[lord]N
+saao/saa19/P224472,SAA 19 030. Orchards of the Villages of Helbon (CTN 5 p. 158),r 18',issurri[perhaps]AV šarru[king]N bēlu[lord]N qabû[say]V
+saao/saa19/P224472,SAA 19 030. Orchards of the Villages of Helbon (CTN 5 p. 158),r 19',mā[saying]PRP ša[of]DET šarru[king]N
+saao/saa19/P224472,SAA 19 030. Orchards of the Villages of Helbon (CTN 5 p. 158),r 20',kī[like]PRP šūtu[he]IP

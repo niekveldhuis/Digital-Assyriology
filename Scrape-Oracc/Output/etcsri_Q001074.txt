@@ -1,0 +1,21 @@
+id_text,text_name,version,l_no,text
+etcsri/Q001074,En-anatum I 08,,i 1,sux:Enanatum[1]RN
+etcsri/Q001074,En-anatum I 08,,i 2,sux:ensik[ruler]N
+etcsri/Q001074,En-anatum I 08,,i 3,sux:Lagaš[1]SN
+etcsri/Q001074,En-anatum I 08,,i 4,sux:šag[heart]N sux:pad[find]V/t
+etcsri/Q001074,En-anatum I 08,,i 5,sux:Nanše[1]DN
+etcsri/Q001074,En-anatum I 08,,i 6,sux:ensikgal[governor]N
+etcsri/Q001074,En-anatum I 08,,i 7,sux:Ninŋirsuk[1]DN
+etcsri/Q001074,En-anatum I 08,,i 8,sux:dumu[child]N sux:utud[bear]V/t
+etcsri/Q001074,En-anatum I 08,,i 9,sux:Lugalurubak[1]DN
+etcsri/Q001074,En-anatum I 08,,ii 1,sux:dumu[child]N sux:Ayakurgal[1]RN
+etcsri/Q001074,En-anatum I 08,,ii 2,sux:ensik[ruler]N
+etcsri/Q001074,En-anatum I 08,,ii 3,sux:Lagaš[1]SN
+etcsri/Q001074,En-anatum I 08,,ii 4,sux:šeš[brother]N sux:ki[place]N sux:aŋ[measure]V/t
+etcsri/Q001074,En-anatum I 08,,ii 5,sux:Eanatum[1]RN
+etcsri/Q001074,En-anatum I 08,,ii 6,sux:ensik[ruler]N
+etcsri/Q001074,En-anatum I 08,,ii 7,sux:Lagaš[1]SN
+etcsri/Q001074,En-anatum I 08,,ii 8,sux:ud[sun]N sux:Lugalurubak[1]DN
+etcsri/Q001074,En-anatum I 08,,ii 9,sux:Enanatum[1]RN
+etcsri/Q001074,En-anatum I 08,,ii 10,sux:namlugal[kingship]N
+etcsri/Q001074,En-anatum I 08,,ii 11,sux:Lagaš[1]SN

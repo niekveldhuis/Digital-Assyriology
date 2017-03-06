@@ -1,0 +1,35 @@
+id_text,text_name,version,l_no,text
+etcsri/Q002192,Hammu-rabi 16,,1,sux:Inanak[1]DN sux:Zabala[1]SN
+etcsri/Q002192,Hammu-rabi 16,,2,sux:nin[lady]N sux:melim[splendor]N
+etcsri/Q002192,Hammu-rabi 16,,3,sux:an[sky]N sux:ki[place]N sux:dul[cover]V/i
+etcsri/Q002192,Hammu-rabi 16,,4,sux:nin[lady]N
+etcsri/Q002192,Hammu-rabi 16,,5,sux:Hammurapi[1]RN
+etcsri/Q002192,Hammu-rabi 16,,6,sux:gu[voice]N sux:de[pour]V/t sux:An[1]DN
+etcsri/Q002192,Hammu-rabi 16,,7,sux:Enlil[1]DN sux:ŋeš[tree]N sux:tuku[acquire]V/t
+etcsri/Q002192,Hammu-rabi 16,,8,sux:šeg[agree]V/t sux:Utu[1]DN
+etcsri/Q002192,Hammu-rabi 16,,9,sux:sipad[shepherd]N sux:šag[heart]N sux:dug[good]V/i
+etcsri/Q002192,Hammu-rabi 16,,10,sux:Marduk[1]DN
+etcsri/Q002192,Hammu-rabi 16,,11,sux:nun[prince]N sux:šag[heart]N sux:ki[place]N sux:aŋ[measure]V/t
+etcsri/Q002192,Hammu-rabi 16,,12,sux:Inanak[1]DN
+etcsri/Q002192,Hammu-rabi 16,,13,sux:lugal[king]N sux:kalag[strong]V/i
+etcsri/Q002192,Hammu-rabi 16,,14,sux:lugal[king]N sux:Babylon[1]SN
+etcsri/Q002192,Hammu-rabi 16,,15,sux:lugal[king]N sux:Kiengir[1]GN sux:Akkad[1]GN
+etcsri/Q002192,Hammu-rabi 16,,16,sux:lugal[king]N sux:anubda[quarter]N sux:limmu[four]NU
+etcsri/Q002192,Hammu-rabi 16,,17,sux:lugal[king]N sux:barag[dais]N
+etcsri/Q002192,Hammu-rabi 16,,18,sux:diŋir[deity]N sux:gal[big]V/i
+etcsri/Q002192,Hammu-rabi 16,,19,sux:šu[hand]N sux:gibil[new]V/i
+etcsri/Q002192,Hammu-rabi 16,,20,sux:ak[do]V/t
+etcsri/Q002192,Hammu-rabi 16,,21,sux:ud[sun]N sux:Inanak[1]DN
+etcsri/Q002192,Hammu-rabi 16,,22,sux:ŋiškim[sign]N sux:sag[good]V/i
+etcsri/Q002192,Hammu-rabi 16,,23,sux:Kiengir[1]GN sux:Akkad[1]GN
+etcsri/Q002192,Hammu-rabi 16,,24,sux:namen[lordship]N sux:ak[do]V/t
+etcsri/Q002192,Hammu-rabi 16,,25,sux:šum[give]V/t
+etcsri/Q002192,Hammu-rabi 16,,26,sux:eškiri[rope]N
+etcsri/Q002192,Hammu-rabi 16,,27,sux:šu[hand]N
+etcsri/Q002192,Hammu-rabi 16,,28,sux:si[fill]V/t
+etcsri/Q002192,Hammu-rabi 16,,29,sux:Inanak[1]DN
+etcsri/Q002192,Hammu-rabi 16,,30,sux:ki[place]N sux:aŋ[measure]V/t
+etcsri/Q002192,Hammu-rabi 16,,31,sux:Zabala[1]SN
+etcsri/Q002192,Hammu-rabi 16,,32,sux:iri[city]N sux:namnin[ladyship]N
+etcsri/Q002192,Hammu-rabi 16,,33,sux:Ezikalama[1]TN
+etcsri/Q002192,Hammu-rabi 16,,34,sux:e[house]N sux:ki[place]N sux:aŋ[measure]V/t

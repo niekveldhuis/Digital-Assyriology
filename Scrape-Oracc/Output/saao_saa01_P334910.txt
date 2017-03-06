@@ -1,0 +1,35 @@
+id_text,text_name,l_no,text
+saao/saa01/P334910,SAA 01 159. Reclaiming Investments in Dur-Šarruken (ABL 1442),o 1,ana[to]PRP šarru[king]N bēlu[lord]N
+saao/saa01/P334910,SAA 01 159. Reclaiming Investments in Dur-Šarruken (ABL 1442),o 2,ardu[slave]N
+saao/saa01/P334910,SAA 01 159. Reclaiming Investments in Dur-Šarruken (ABL 1442),o 3,šulmu[completeness]N ana[to]PRP šarru[king]N bēlu[lord]N
+saao/saa01/P334910,SAA 01 159. Reclaiming Investments in Dur-Šarruken (ABL 1442),o 4,šarru[king]N bēlu[lord]N qabû[say]V
+saao/saa01/P334910,SAA 01 159. Reclaiming Investments in Dur-Šarruken (ABL 1442),o 5,mā[saying]PRP adi[until]PRP dullu[trouble]N ša[of]DET Dur-Šarruken[1]GN
+saao/saa01/P334910,SAA 01 159. Reclaiming Investments in Dur-Šarruken (ABL 1442),o 6,gamāru[complete]V
+saao/saa01/P334910,SAA 01 159. Reclaiming Investments in Dur-Šarruken (ABL 1442),o 7,mā[saying]PRP memēni[somebody]XP hubullu[debt]N
+saao/saa01/P334910,SAA 01 159. Reclaiming Investments in Dur-Šarruken (ABL 1442),o 8,lā[not]MOD šalāmu[be(come)-healthy]V
+saao/saa01/P334910,SAA 01 159. Reclaiming Investments in Dur-Šarruken (ABL 1442),o 9,nishu[extract(ion)]N ša[that]REL ištu[from]PRP Dur-Šarruken[1]GN
+saao/saa01/P334910,SAA 01 159. Reclaiming Investments in Dur-Šarruken (ABL 1442),o 10,raṣpu[built]AJ
+saao/saa01/P334910,SAA 01 159. Reclaiming Investments in Dur-Šarruken (ABL 1442),o 11,ana[to]PRP tamkāru[merchant]N šalāmu[be(come)-healthy]V
+saao/saa01/P334910,SAA 01 159. Reclaiming Investments in Dur-Šarruken (ABL 1442),o 12,memēni[somebody]XP ina[in]PRP muhhu[skull]N lā[not]MOD hasāsu[be(come)-conscious]V
+saao/saa01/P334910,SAA 01 159. Reclaiming Investments in Dur-Šarruken (ABL 1442),o 13,meʾatu[(one)-hundred]NU manû[unit]N ṣarpu[silver]N kunukku[seal]N
+saao/saa01/P334910,SAA 01 159. Reclaiming Investments in Dur-Šarruken (ABL 1442),o 14,ša[of]DET šattu[year]N annû[this]DP
+saao/saa01/P334910,SAA 01 159. Reclaiming Investments in Dur-Šarruken (ABL 1442),o 15,udīni[up-till-now]AV lā[not]MOD šalāmu[be(come)-healthy]V
+saao/saa01/P334910,SAA 01 159. Reclaiming Investments in Dur-Šarruken (ABL 1442),o 16,kī[like]PRP šarru[king]N bēlu[lord]N hurāṣu[gold]N abnu[stone]N
+saao/saa01/P334910,SAA 01 159. Reclaiming Investments in Dur-Šarruken (ABL 1442),o 17,ina[in]PRP muhhu[skull]N tadānu[give]V
+saao/saa01/P334910,SAA 01 159. Reclaiming Investments in Dur-Šarruken (ABL 1442),b.e. 18,ana[to]PRP šarru[king]N bēlu[lord]N qabû[say]V
+saao/saa01/P334910,SAA 01 159. Reclaiming Investments in Dur-Šarruken (ABL 1442),b.e. 19,nuk[saying]PRP abu[father]N mādu[many]AJ
+saao/saa01/P334910,SAA 01 159. Reclaiming Investments in Dur-Šarruken (ABL 1442),b.e. 20,hubullu[debt]N ša[of]DET
+saao/saa01/P334910,SAA 01 159. Reclaiming Investments in Dur-Šarruken (ABL 1442),r 1,ša[of]DET Huziru[1]PN ša[of]DET
+saao/saa01/P334910,SAA 01 159. Reclaiming Investments in Dur-Šarruken (ABL 1442),r 2,hubbulu[indebted]AJ
+saao/saa01/P334910,SAA 01 159. Reclaiming Investments in Dur-Šarruken (ABL 1442),r 3,ina[in]PRP dāt[behind]PRP abu[father]N mišlu[half]NU hubullu[debt]N
+saao/saa01/P334910,SAA 01 159. Reclaiming Investments in Dur-Šarruken (ABL 1442),r 4,šalāmu[be(come)-healthy]V
+saao/saa01/P334910,SAA 01 159. Reclaiming Investments in Dur-Šarruken (ABL 1442),r 5,ūma[today]AV māru[son]N bašû[exist]V
+saao/saa01/P334910,SAA 01 159. Reclaiming Investments in Dur-Šarruken (ABL 1442),r 6,mā[saying]PRP hubullu[debt]N ša[that]REL abu[father]N
+saao/saa01/P334910,SAA 01 159. Reclaiming Investments in Dur-Šarruken (ABL 1442),r 7,ana[to]PRP abu[father]N hubbulu[indebted]AJ
+saao/saa01/P334910,SAA 01 159. Reclaiming Investments in Dur-Šarruken (ABL 1442),r 8,šalāmu[be(come)-healthy]V
+saao/saa01/P334910,SAA 01 159. Reclaiming Investments in Dur-Šarruken (ABL 1442),r 9,kīma[like]PRP Dur-Šarruken[1]GN raṣpu[built]AJ gammuru[finished]AJ
+saao/saa01/P334910,SAA 01 159. Reclaiming Investments in Dur-Šarruken (ABL 1442),r 10,šarru[king]N bēlu[lord]N ana[to]PRP bītu[house]N
+saao/saa01/P334910,SAA 01 159. Reclaiming Investments in Dur-Šarruken (ABL 1442),r 11,hubullu[debt]N ana[to]PRP
+saao/saa01/P334910,SAA 01 159. Reclaiming Investments in Dur-Šarruken (ABL 1442),r 12,šalāmu[be(come)-healthy]V
+saao/saa01/P334910,SAA 01 159. Reclaiming Investments in Dur-Šarruken (ABL 1442),r 13,šarru[king]N bēlu[lord]N ana[to]PRP Šarru-emuranni[1]PN šâlu[ask]V
+saao/saa01/P334910,SAA 01 159. Reclaiming Investments in Dur-Šarruken (ABL 1442),r 14,mišlu[half]NU pilku[demarcated-zone]N

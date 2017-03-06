@@ -1,0 +1,92 @@
+id_text,text_name,l_no,text
+dcclt/P253866,CUSAS 12 3.1.13 [OB Ura],o i 1',balak[spindle]N
+dcclt/P253866,CUSAS 12 3.1.13 [OB Ura],o i 2',saŋdu[beam]N
+dcclt/P253866,CUSAS 12 3.1.13 [OB Ura],o i 3',tugtug[~loom]N
+dcclt/P253866,CUSAS 12 3.1.13 [OB Ura],o i 4',barbar[shuttle]N
+dcclt/P253866,CUSAS 12 3.1.13 [OB Ura],o i 5',ilila[lever]N
+dcclt/P253866,CUSAS 12 3.1.13 [OB Ura],o i 6',ŋešgina[~loom]N
+dcclt/P253866,CUSAS 12 3.1.13 [OB Ura],o i 8',nura[~loom]N
+dcclt/P253866,CUSAS 12 3.1.13 [OB Ura],o i 9',nura[a-part-of-a-loom]N
+dcclt/P253866,CUSAS 12 3.1.13 [OB Ura],o i 10',niŋmenbulug[~loom]N
+dcclt/P253866,CUSAS 12 3.1.13 [OB Ura],o i 12',targul[pole]N
+dcclt/P253866,CUSAS 12 3.1.13 [OB Ura],o i 13',šerim[~loom]N
+dcclt/P253866,CUSAS 12 3.1.13 [OB Ura],o i 14',šerim[~loom]N
+dcclt/P253866,CUSAS 12 3.1.13 [OB Ura],o i 15',šerim[~loom]N andul[shade]N
+dcclt/P253866,CUSAS 12 3.1.13 [OB Ura],o i 16',saŋ[head]N il[raise]V/t
+dcclt/P253866,CUSAS 12 3.1.13 [OB Ura],o i 17',saŋ[head]N il[raise]V/t
+dcclt/P253866,CUSAS 12 3.1.13 [OB Ura],o i 18',na[box]N
+dcclt/P253866,CUSAS 12 3.1.13 [OB Ura],o i 19',na[box]N šu[hand]N
+dcclt/P253866,CUSAS 12 3.1.13 [OB Ura],o i 20',ig[door]N
+dcclt/P253866,CUSAS 12 3.1.13 [OB Ura],o i 21',ig[door]N gal[big]V/i
+dcclt/P253866,CUSAS 12 3.1.13 [OB Ura],o i 22',ig[door]N leʾum[board]N
+dcclt/P253866,CUSAS 12 3.1.13 [OB Ura],o i 23',ig[door]N dib[board]N
+dcclt/P253866,CUSAS 12 3.1.13 [OB Ura],o i 24',ig[door]N šunir[emblem]N
+dcclt/P253866,CUSAS 12 3.1.13 [OB Ura],o i 25',ig[door]N šu[hand]N ur[drag]V/t
+dcclt/P253866,CUSAS 12 3.1.13 [OB Ura],o i 26',ig[door]N egal[palace]N
+dcclt/P253866,CUSAS 12 3.1.13 [OB Ura],o i 27',ig[door]N abula[gate]N
+dcclt/P253866,CUSAS 12 3.1.13 [OB Ura],o i 28',gag[nail]N
+dcclt/P253866,CUSAS 12 3.1.13 [OB Ura],o i 29',ir[peg]N
+dcclt/P253866,CUSAS 12 3.1.13 [OB Ura],o ii 1',šibir[staff]N
+dcclt/P253866,CUSAS 12 3.1.13 [OB Ura],o ii 2',gag[nail]N šibir[staff]N
+dcclt/P253866,CUSAS 12 3.1.13 [OB Ura],o ii 3',ŋirigub[footstool]N
+dcclt/P253866,CUSAS 12 3.1.13 [OB Ura],o ii 4',ŋirigub[footstool]N lammar[deity]N
+dcclt/P253866,CUSAS 12 3.1.13 [OB Ura],o ii 5',ŋirigub[footstool]N zu[tooth]N amsi[elephant]N
+dcclt/P253866,CUSAS 12 3.1.13 [OB Ura],o ii 6',guza[chair]N
+dcclt/P253866,CUSAS 12 3.1.13 [OB Ura],o ii 7',guza[chair]N sag[rare]V/i
+dcclt/P253866,CUSAS 12 3.1.13 [OB Ura],o ii 8',guza[chair]N gid[long]V/i
+dcclt/P253866,CUSAS 12 3.1.13 [OB Ura],o ii 9',guza[chair]N sirda[cnne]N
+dcclt/P253866,CUSAS 12 3.1.13 [OB Ura],o ii 10',guza[chair]N anše[equid]N
+dcclt/P253866,CUSAS 12 3.1.13 [OB Ura],o ii 11',guza[chair]N kaskal[way]N
+dcclt/P253866,CUSAS 12 3.1.13 [OB Ura],o ii 12',guza[chair]N
+dcclt/P253866,CUSAS 12 3.1.13 [OB Ura],o ii 13',guza[chair]N zag[side]N us[follow]V/t
+dcclt/P253866,CUSAS 12 3.1.13 [OB Ura],o ii 14',guza[chair]N barag[sanctum]N
+dcclt/P253866,CUSAS 12 3.1.13 [OB Ura],o ii 15',guza[chair]N nita[male]N
+dcclt/P253866,CUSAS 12 3.1.13 [OB Ura],o ii 16',guza[chair]N munus[woman]N
+dcclt/P253866,CUSAS 12 3.1.13 [OB Ura],o ii 17',guza[chair]N
+dcclt/P253866,CUSAS 12 3.1.13 [OB Ura],o ii 18',guza[chair]N gidim[ghost]N
+dcclt/P253866,CUSAS 12 3.1.13 [OB Ura],o ii 19',guza[chair]N malah[sailor]N
+dcclt/P253866,CUSAS 12 3.1.13 [OB Ura],o ii 20',guza[chair]N šusar[string]N du[build]V/t
+dcclt/P253866,CUSAS 12 3.1.13 [OB Ura],o ii 21',guza[chair]N
+dcclt/P253866,CUSAS 12 3.1.13 [OB Ura],o ii 22',guza[chair]N gar[knob]N
+dcclt/P253866,CUSAS 12 3.1.13 [OB Ura],o ii 23',guza[chair]N niŋšu[goods]N
+dcclt/P253866,CUSAS 12 3.1.13 [OB Ura],o ii 24',guza[chair]N ŋarza[rites]N
+dcclt/P253866,CUSAS 12 3.1.13 [OB Ura],o ii 25',guza[chair]N šah[pig]N šum[slaughter]V/t
+dcclt/P253866,CUSAS 12 3.1.13 [OB Ura],o ii 26',ŋešdi[rung]N guza[chair]N
+dcclt/P253866,CUSAS 12 3.1.13 [OB Ura],o ii 27',saŋ[head]N guza[chair]N
+dcclt/P253866,CUSAS 12 3.1.13 [OB Ura],o ii 28',bad[leg]N guza[chair]N
+dcclt/P253866,CUSAS 12 3.1.13 [OB Ura],o ii 29',guza[chair]N
+dcclt/P253866,CUSAS 12 3.1.13 [OB Ura],o iii 1',gud.si.AŠ[ram]N
+dcclt/P253866,CUSAS 12 3.1.13 [OB Ura],o iii 2',murgu[shoulder]N gud.si.AŠ[ram]N
+dcclt/P253866,CUSAS 12 3.1.13 [OB Ura],o iii 3',niŋurlimmu[creature]N
+dcclt/P253866,CUSAS 12 3.1.13 [OB Ura],o iii 4',gam[crook]N
+dcclt/P253866,CUSAS 12 3.1.13 [OB Ura],o iii 5',ŋeššu[manacles]N
+dcclt/P253866,CUSAS 12 3.1.13 [OB Ura],o iii 6',ŋešŋiri[fetters]N
+dcclt/P253866,CUSAS 12 3.1.13 [OB Ura],o iii 7',ŋešpaphalla[trap?]N
+dcclt/P253866,CUSAS 12 3.1.13 [OB Ura],o iii 9',u[sleep]N ku[place]V/t
+dcclt/P253866,CUSAS 12 3.1.13 [OB Ura],o iii 12',innušugura[chopper]N
+dcclt/P253866,CUSAS 12 3.1.13 [OB Ura],o iii 13',naŋa[mortar]N
+dcclt/P253866,CUSAS 12 3.1.13 [OB Ura],o iii 14',naŋasikaz[pestle]N
+dcclt/P253866,CUSAS 12 3.1.13 [OB Ura],o iii 15',naŋa[mortar]N ŋeši[sesame]N
+dcclt/P253866,CUSAS 12 3.1.13 [OB Ura],o iii 16',ba[tool]N
+dcclt/P253866,CUSAS 12 3.1.13 [OB Ura],o iii 17',ba[tool]N zu[stone]N
+dcclt/P253866,CUSAS 12 3.1.13 [OB Ura],o iii 18',ba[tool]N gur[unit]N
+dcclt/P253866,CUSAS 12 3.1.13 [OB Ura],o iii 19',ba[tool]N šab[cut]V/t
+dcclt/P253866,CUSAS 12 3.1.13 [OB Ura],o iii 20',ba[tool]N še[barley]N
+dcclt/P253866,CUSAS 12 3.1.13 [OB Ura],o iii 22',ŋešnaruak[~stele]N
+dcclt/P253866,CUSAS 12 3.1.13 [OB Ura],o iii 23',niŋna[incense]N mud[blood]N
+dcclt/P253866,CUSAS 12 3.1.13 [OB Ura],o iii 24',ešgiri[staff]N šudu[equipped]AJ
+dcclt/P253866,CUSAS 12 3.1.13 [OB Ura],o iii 25',raba[clamp]N
+dcclt/P253866,CUSAS 12 3.1.13 [OB Ura],o iii 26',raba[clamp]N šu[hand]N
+dcclt/P253866,CUSAS 12 3.1.13 [OB Ura],o iii 30',raba[clamp]N
+dcclt/P253866,CUSAS 12 3.1.13 [OB Ura],r i 2,illar[weapon]N
+dcclt/P253866,CUSAS 12 3.1.13 [OB Ura],r i 3,illar[weapon]N šu[hand]N lugal[king]N
+dcclt/P253866,CUSAS 12 3.1.13 [OB Ura],r i 4,illar[weapon]N šub[fall]V/t
+dcclt/P253866,CUSAS 12 3.1.13 [OB Ura],r i 5,illar[weapon]N tag[touch]V/t
+dcclt/P253866,CUSAS 12 3.1.13 [OB Ura],r i 6,illar[weapon]N eban[pair]N
+dcclt/P253866,CUSAS 12 3.1.13 [OB Ura],r i 7,pana[bow]N
+dcclt/P253866,CUSAS 12 3.1.13 [OB Ura],r i 8,epana[quiver]N
+dcclt/P253866,CUSAS 12 3.1.13 [OB Ura],r i 9,ma[ship]N
+dcclt/P253866,CUSAS 12 3.1.13 [OB Ura],r i 10,ma[ship]N
+dcclt/P253866,CUSAS 12 3.1.13 [OB Ura],r i 11,ma[ship]N
+dcclt/P253866,CUSAS 12 3.1.13 [OB Ura],r i 12,maʾu[barge]N
+dcclt/P253866,CUSAS 12 3.1.13 [OB Ura],r i 13,ma[ship]N tur[small]V/i

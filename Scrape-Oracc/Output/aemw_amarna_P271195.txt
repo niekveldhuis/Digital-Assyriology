@@ -1,0 +1,52 @@
+id_text,text_name,l_no,text
+<<<<<<< HEAD
+aemw/amarna/P271195,EA 255. No destination too far [vassal letter],001,akk-x-mbperi:ana[to]PRP akk-x-mbperi:šarru[king]N akk-x-mbperi:bēlu[lord]N
+aemw/amarna/P271195,EA 255. No destination too far [vassal letter],002,akk-x-mbperi:u[and]CNJ akk-x-mbperi:Šamaš[1]DN akk-x-mbperi:qabû[say]V
+aemw/amarna/P271195,EA 255. No destination too far [vassal letter],003,akk-x-mbperi:umma[saying]PRP akk-x-mbperi:Mut-Baʾlu[1]PN
+aemw/amarna/P271195,EA 255. No destination too far [vassal letter],004,akk-x-mbperi:wardu[slave]N akk-x-mbperi:eperu[earth]N akk-x-mbperi:ša[of]DET akk-x-mbperi:šēpu[foot]N
+aemw/amarna/P271195,EA 255. No destination too far [vassal letter],005,akk-x-mbperi:ṭīdu[clay]N akk-x-mbperi:ša[of]DET akk-x-mbperi:kabāsu[tread]V
+aemw/amarna/P271195,EA 255. No destination too far [vassal letter],006,akk-x-mbperi:ana[to]PRP akk-x-mbperi:šēpu[foot]N akk-x-mbperi:šarru[king]N akk-x-mbperi:bēlu[lord]N
+aemw/amarna/P271195,EA 255. No destination too far [vassal letter],007,akk-x-mbperi:maqātu[fall]V
+aemw/amarna/P271195,EA 255. No destination too far [vassal letter],008,akk-x-mbperi:šarru[king]N akk-x-mbperi:bēlu[lord]N akk-x-mbperi:šapru[sent]AJ akk-x-mbperi:ana[to]PRP akk-x-mbperi:muhhu[skull]N akk-x-mbperi:Haya[1]PN
+aemw/amarna/P271195,EA 255. No destination too far [vassal letter],009,akk-x-mbperi:ana[to]PRP akk-x-mbperi:qabû[say]V akk-x-mbperi:harrānu[way]N
+aemw/amarna/P271195,EA 255. No destination too far [vassal letter],010,akk-x-mbperi:Hanigalbat[Mittani]GN akk-x-mbperi:annû[look!]J
+aemw/amarna/P271195,EA 255. No destination too far [vassal letter],011,akk-x-mbperi:wašāru[sink-down]V akk-x-mbperi:u[and]CNJ akk-x-mbperi:wašāru[sink-down]V
+aemw/amarna/P271195,EA 255. No destination too far [vassal letter],012,akk-x-mbperi:mīya[who?]QP akk-x-mbperi:anāku[I]IP akk-x-mbperi:u[and]CNJ akk-x-mbperi:lā[not]MOD
+aemw/amarna/P271195,EA 255. No destination too far [vassal letter],013,akk-x-mbperi:wašāru[sink-down]V akk-x-mbperi:harrānu[way]N
+aemw/amarna/P271195,EA 255. No destination too far [vassal letter],014,akk-x-mbperi:šarru[king]N akk-x-mbperi:bēlu[lord]N akk-x-mbperi:amāru[see]V
+aemw/amarna/P271195,EA 255. No destination too far [vassal letter],015,akk-x-mbperi:Labʾaya[1]PN akk-x-mbperi:abu[father]N
+aemw/amarna/P271195,EA 255. No destination too far [vassal letter],016,akk-x-mbperi:arādu[serve]V akk-x-mbperi:šarru[king]N akk-x-mbperi:bēlu[lord]N
+aemw/amarna/P271195,EA 255. No destination too far [vassal letter],017,akk-x-mbperi:u[and]CNJ akk-x-mbperi:šūt[he]IP akk-x-mbperi:wašāru[sink-down]V
+aemw/amarna/P271195,EA 255. No destination too far [vassal letter],018,akk-x-mbperi:kalû[all]N akk-x-mbperi:harrānu[way]N
+aemw/amarna/P271195,EA 255. No destination too far [vassal letter],019,akk-x-mbperi:ša[that]REL akk-x-mbperi:wašāru[sink-down]V akk-x-mbperi:šarru[king]N
+aemw/amarna/P271195,EA 255. No destination too far [vassal letter],020,akk-x-mbperi:ana[to]PRP akk-x-mbperi:Hanigalbat[Mittani]GN akk-x-mbperi:u[and]CNJ
+aemw/amarna/P271195,EA 255. No destination too far [vassal letter],021,akk-x-mbperi:ana[to]PRP akk-x-mbperi:Karduniaš[Babylonia]GN
+aemw/amarna/P271195,EA 255. No destination too far [vassal letter],022,akk-x-mbperi:wašāru[sink-down]V akk-x-mbperi:šarru[king]N
+aemw/amarna/P271195,EA 255. No destination too far [vassal letter],023,akk-x-mbperi:bēlu[lord]N akk-x-mbperi:harrānu[way]N
+aemw/amarna/P271195,EA 255. No destination too far [vassal letter],024,akk-x-mbperi:anāku[I]IP akk-x-mbperi:wabālu[carry]V
+=======
+aemw/amarna/P271195,EA 255. No destination too far [vassal letter],001,akk-x-mbperi:šarru[king]N akk-x-mbperi:bēlu[lord]N
+aemw/amarna/P271195,EA 255. No destination too far [vassal letter],002,
+aemw/amarna/P271195,EA 255. No destination too far [vassal letter],003,
+aemw/amarna/P271195,EA 255. No destination too far [vassal letter],004,akk-x-mbperi:wardu[slave]N akk-x-mbperi:eperu[earth]N akk-x-mbperi:šēpu[foot]N
+aemw/amarna/P271195,EA 255. No destination too far [vassal letter],005,akk-x-mbperi:ṭīdu[clay]N
+aemw/amarna/P271195,EA 255. No destination too far [vassal letter],006,akk-x-mbperi:šēpu[foot]N akk-x-mbperi:šarru[king]N akk-x-mbperi:bēlu[lord]N
+aemw/amarna/P271195,EA 255. No destination too far [vassal letter],007,
+aemw/amarna/P271195,EA 255. No destination too far [vassal letter],008,akk-x-mbperi:šarru[king]N akk-x-mbperi:bēlu[lord]N akk-x-mbperi:muhhu[skull]N
+aemw/amarna/P271195,EA 255. No destination too far [vassal letter],009,akk-x-mbperi:harrānu[way]N
+aemw/amarna/P271195,EA 255. No destination too far [vassal letter],010,
+aemw/amarna/P271195,EA 255. No destination too far [vassal letter],011,
+aemw/amarna/P271195,EA 255. No destination too far [vassal letter],012,
+aemw/amarna/P271195,EA 255. No destination too far [vassal letter],013,akk-x-mbperi:harrānu[way]N
+aemw/amarna/P271195,EA 255. No destination too far [vassal letter],014,akk-x-mbperi:šarru[king]N akk-x-mbperi:bēlu[lord]N
+aemw/amarna/P271195,EA 255. No destination too far [vassal letter],015,akk-x-mbperi:abu[father]N
+aemw/amarna/P271195,EA 255. No destination too far [vassal letter],016,akk-x-mbperi:šarru[king]N akk-x-mbperi:bēlu[lord]N
+aemw/amarna/P271195,EA 255. No destination too far [vassal letter],017,
+aemw/amarna/P271195,EA 255. No destination too far [vassal letter],018,akk-x-mbperi:kalû[all]N akk-x-mbperi:harrānu[way]N
+aemw/amarna/P271195,EA 255. No destination too far [vassal letter],019,akk-x-mbperi:šarru[king]N
+aemw/amarna/P271195,EA 255. No destination too far [vassal letter],020,
+aemw/amarna/P271195,EA 255. No destination too far [vassal letter],021,
+aemw/amarna/P271195,EA 255. No destination too far [vassal letter],022,akk-x-mbperi:šarru[king]N
+aemw/amarna/P271195,EA 255. No destination too far [vassal letter],023,akk-x-mbperi:bēlu[lord]N akk-x-mbperi:harrānu[way]N
+aemw/amarna/P271195,EA 255. No destination too far [vassal letter],024,
+>>>>>>> d524642d5275e5016007339cafda4e021ecb17ba

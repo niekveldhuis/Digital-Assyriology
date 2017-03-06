@@ -1,0 +1,37 @@
+id_text,text_name,version,l_no,text
+etcsri/Q001083,En-anatum I 15,,i 1,sux:Lugalurubak[1]DN
+etcsri/Q001083,En-anatum I 15,,i 2,sux:Amaušumgalanak[1]DN
+etcsri/Q001083,En-anatum I 15,,i 3,sux:Meanesi[1]PN
+etcsri/Q001083,En-anatum I 15,,i 4,sux:dumu[child]N sux:Enanatum[1]RN
+etcsri/Q001083,En-anatum I 15,,i 5,sux:ensik[ruler]N
+etcsri/Q001083,En-anatum I 15,,i 6,sux:Lagaš[1]SN
+etcsri/Q001083,En-anatum I 15,,i 7,sux:ud[sun]N sux:Enanatum[1]RN
+etcsri/Q001083,En-anatum I 15,,i 8,sux:ensik[ruler]N
+etcsri/Q001083,En-anatum I 15,,i 9,sux:Lagaš[1]SN
+etcsri/Q001083,En-anatum I 15,,i 10,sux:šag[heart]N sux:pad[find]V/t
+etcsri/Q001083,En-anatum I 15,,i 11,sux:Nanše[1]DN
+etcsri/Q001083,En-anatum I 15,,i 12,sux:ensikgal[governor]N
+etcsri/Q001083,En-anatum I 15,,i 13,sux:Ninŋirsuk[1]DN
+etcsri/Q001083,En-anatum I 15,,i 14,sux:dumu[child]N sux:utud[bear]V/t
+etcsri/Q001083,En-anatum I 15,,i 15,sux:Lugalurubak[1]DN
+etcsri/Q001083,En-anatum I 15,,i 16,sux:dumu[child]N sux:Ayakurgal[1]RN
+etcsri/Q001083,En-anatum I 15,,i 17,sux:ensik[ruler]N
+etcsri/Q001083,En-anatum I 15,,i 18,sux:Lagaš[1]SN
+etcsri/Q001083,En-anatum I 15,,i 19,sux:šeš[brother]N sux:ki[place]N sux:aŋ[measure]V/t
+etcsri/Q001083,En-anatum I 15,,i 20,sux:Eanatum[1]RN
+etcsri/Q001083,En-anatum I 15,,i 21,sux:ensik[ruler]N
+etcsri/Q001083,En-anatum I 15,,ii 1,sux:Lagaš[1]SN
+etcsri/Q001083,En-anatum I 15,,ii 2,sux:Inanak[1]DN
+etcsri/Q001083,En-anatum I 15,,ii 3,sux:Ebgal[1]TN sux:du[build]V/t
+etcsri/Q001083,En-anatum I 15,,ii 4,sux:Eanak[1]TN sux:kur[mountain]N
+etcsri/Q001083,En-anatum I 15,,ii 5,sux:dirig[exceed]V/t
+etcsri/Q001083,En-anatum I 15,,ii 6,sux:alan[statue]N sux:utud[bear]V/t
+etcsri/Q001083,En-anatum I 15,,ii 7,sux:Lugalurubak[1]DN
+etcsri/Q001083,En-anatum I 15,,ii 8,sux:e[house]N sux:kur[enter]V/i
+etcsri/Q001083,En-anatum I 15,,ii 9,sux:namtil[life]N sux:abba[father]N
+etcsri/Q001083,En-anatum I 15,,ii 10,sux:Enanatum[1]RN
+etcsri/Q001083,En-anatum I 15,,ii 11,sux:namtil[life]N sux:ama[mother]N
+etcsri/Q001083,En-anatum I 15,,ii 12,sux:Ayašurmen[1]PN
+etcsri/Q001083,En-anatum I 15,,ii 13,sux:namtil[life]N
+etcsri/Q001083,En-anatum I 15,,ii 14,sux:Lugalurubak[1]DN
+etcsri/Q001083,En-anatum I 15,,ii 15,sux:e[house]N sux:gal[big]V/i sux:Urub[1]SN

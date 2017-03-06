@@ -1,0 +1,21 @@
+id_text,text_name,version,l_no,text
+etcsri/Q001033,Ur-Nanše 18,,i 1,sux:Urnanše[1]RN
+etcsri/Q001033,Ur-Nanše 18,,i 2,sux:lugal[king]N
+etcsri/Q001033,Ur-Nanše 18,,i 3,sux:Lagaš[1]SN
+etcsri/Q001033,Ur-Nanše 18,,i 4,sux:dumu[child]N sux:Gu-NI.DU[1]PN
+etcsri/Q001033,Ur-Nanše 18,,ii 1,sux:dumu[child]N sux:Gursar[1]GN
+etcsri/Q001033,Ur-Nanše 18,,ii 2,sux:Ebgal[1]TN
+etcsri/Q001033,Ur-Nanše 18,,ii 3,sux:du[build]V/t
+etcsri/Q001033,Ur-Nanše 18,,ii 4,sux:Kinir[1]TN
+etcsri/Q001033,Ur-Nanše 18,,ii 5,sux:du[build]V/t
+etcsri/Q001033,Ur-Nanše 18,,ii 6,sux:Nineŋara[1]TN
+etcsri/Q001033,Ur-Nanše 18,,iii 1,sux:du[build]V/t
+etcsri/Q001033,Ur-Nanše 18,,iii 2,sux:Bagara[1]TN
+etcsri/Q001033,Ur-Nanše 18,,iii 3,sux:du[build]V/t
+etcsri/Q001033,Ur-Nanše 18,,iii 4,sux:Edam[1]TN
+etcsri/Q001033,Ur-Nanše 18,,iii 5,sux:du[build]V/t
+etcsri/Q001033,Ur-Nanše 18,,iii 6,sux:Tiraš[1]TN
+etcsri/Q001033,Ur-Nanše 18,,iv 1,sux:du[build]V/t
+etcsri/Q001033,Ur-Nanše 18,,iv 2,sux:Aeden[1]TN
+etcsri/Q001033,Ur-Nanše 18,,iv 3,sux:du[build]V/t
+etcsri/Q001033,Ur-Nanše 18,,iv 4,sux:Eŋidruk[1]TN

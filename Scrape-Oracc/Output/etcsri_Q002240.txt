@@ -1,0 +1,8 @@
+id_text,text_name,version,l_no,text
+etcsri/Q002240,Sin-kašid 03,,1,sux:Sinkašid[1]RN
+etcsri/Q002240,Sin-kašid 03,,2,sux:nita[male]N sux:kalag[strong]V/i
+etcsri/Q002240,Sin-kašid 03,,3,sux:lugal[king]N sux:Unug[1]SN
+etcsri/Q002240,Sin-kašid 03,,4,sux:lugal[king]N sux:Amnanum[1]GN
+etcsri/Q002240,Sin-kašid 03,,5,sux:ua[provisioner]N sux:Eanak[1]TN
+etcsri/Q002240,Sin-kašid 03,,6,sux:egal[palace]N
+etcsri/Q002240,Sin-kašid 03,,7,sux:namlugal[kingship]N

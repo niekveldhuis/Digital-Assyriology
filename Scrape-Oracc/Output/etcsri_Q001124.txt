@@ -1,0 +1,336 @@
+id_text,text_name,version,l_no,text
+etcsri/Q001124,URU-KA-gina 01,,i 1,sux:Ninŋirsuk[1]DN
+etcsri/Q001124,URU-KA-gina 01,,i 2,sux:ursaŋ[hero]N sux:Enlil[1]DN
+etcsri/Q001124,URU-KA-gina 01,,i 3,sux:Irikaginak[1]RN
+etcsri/Q001124,URU-KA-gina 01,,i 4,sux:lugal[king]N
+etcsri/Q001124,URU-KA-gina 01,,i 5,sux:Lagaš[1]SN
+etcsri/Q001124,URU-KA-gina 01,,i 6,sux:e[house]N sux:gal[big]V/i sux:Tiraš[1]TN
+etcsri/Q001124,URU-KA-gina 01,,i 7,sux:du[build]V/t
+etcsri/Q001124,URU-KA-gina 01,,i 8,sux:Antasura[1]TN
+etcsri/Q001124,URU-KA-gina 01,,i 9,sux:du[build]V/t
+etcsri/Q001124,URU-KA-gina 01,,i 10,sux:e[house]N sux:Bau[1]DN
+etcsri/Q001124,URU-KA-gina 01,,i 11,sux:du[build]V/t
+etcsri/Q001124,URU-KA-gina 01,,ii 1,sux:Bursaŋ[1]TN
+etcsri/Q001124,URU-KA-gina 01,,ii 2,sux:e[house]N sux:sadug[offerings]N
+etcsri/Q001124,URU-KA-gina 01,,ii 3,sux:du[build]V/t
+etcsri/Q001124,URU-KA-gina 01,,ii 4,sux:ŋaʾuduʾur[~sheep]N
+etcsri/Q001124,URU-KA-gina 01,,ii 5,sux:Irikug[1]SN
+etcsri/Q001124,URU-KA-gina 01,,ii 6,sux:du[build]V/t
+etcsri/Q001124,URU-KA-gina 01,,ii 7,sux:Nanše[1]DN
+etcsri/Q001124,URU-KA-gina 01,,ii 8,sux:Idniŋindu[1]WN
+etcsri/Q001124,URU-KA-gina 01,,ii 9,sux:id[river]N sux:ki[place]N sux:aŋ[measure]V/t
+etcsri/Q001124,URU-KA-gina 01,,ii 10,sux:al[hoe]N sux:du[build]V/t
+etcsri/Q001124,URU-KA-gina 01,,ii 11,sux:kun[tail]N
+etcsri/Q001124,URU-KA-gina 01,,ii 12,sux:abšag[sea-midst]N
+etcsri/Q001124,URU-KA-gina 01,,ii 13,sux:la[stretch]V/t
+etcsri/Q001124,URU-KA-gina 01,,ii 14,sux:bad[wall]N sux:Ŋirsu[1]SN
+etcsri/Q001124,URU-KA-gina 01,,iii 1,sux:du[build]V/t
+etcsri/Q001124,URU-KA-gina 01,,iii 2,sux:ud[sun]N sux:ul[distant]V/i
+etcsri/Q001124,URU-KA-gina 01,,iii 3,sux:numun[seed]N sux:e[leave]V/i
+etcsri/Q001124,URU-KA-gina 01,,iii 4,sux:ud[sun]N
+etcsri/Q001124,URU-KA-gina 01,,iii 5,sux:lu[person]N sux:malah[sailor]N
+etcsri/Q001124,URU-KA-gina 01,,iii 6,sux:ma[ship]N sux:dab[seize]V/t
+etcsri/Q001124,URU-KA-gina 01,,iii 7,sux:anše[equid]N sux:udul[herdsman]N
+etcsri/Q001124,URU-KA-gina 01,,iii 8,sux:dab[seize]V/t
+etcsri/Q001124,URU-KA-gina 01,,iii 9,sux:udu[sheep]N sux:udul[herdsman]N
+etcsri/Q001124,URU-KA-gina 01,,iii 10,sux:dab[seize]V/t
+etcsri/Q001124,URU-KA-gina 01,,iii 11,sux:umu[storage]N
+etcsri/Q001124,URU-KA-gina 01,,iii 12,sux:enkud[tax-collector]N
+etcsri/Q001124,URU-KA-gina 01,,iii 13,sux:dab[seize]V/t
+etcsri/Q001124,URU-KA-gina 01,,iii 14,sux:gudug[priest]N
+etcsri/Q001124,URU-KA-gina 01,,iii 15,sux:šeguba[barley-rental]N
+etcsri/Q001124,URU-KA-gina 01,,iii 16,sux:Ambar[1]SN
+etcsri/Q001124,URU-KA-gina 01,,iii 17,sux:aŋ[measure]V/t
+etcsri/Q001124,URU-KA-gina 01,,iii 18,sux:sipad[shepherd]N sux:udu[sheep]N sux:siki[hair]N
+etcsri/Q001124,URU-KA-gina 01,,iii 19,sux:bar[outside]N sux:udu[sheep]N sux:had[bright]V/i
+etcsri/Q001124,URU-KA-gina 01,,iv 1,sux:kug[metal]N sux:ŋar[place]V/t
+etcsri/Q001124,URU-KA-gina 01,,iv 2,sux:luʾešgid[surveyor]N
+etcsri/Q001124,URU-KA-gina 01,,iv 3,sux:galamah[singer]N
+etcsri/Q001124,URU-KA-gina 01,,iv 4,sux:agrig[steward]N
+etcsri/Q001124,URU-KA-gina 01,,iv 5,sux:lubappir[brewer]N
+etcsri/Q001124,URU-KA-gina 01,,iv 6,sux:ugula[overseer]N
+etcsri/Q001124,URU-KA-gina 01,,iv 7,sux:bar[outside]N sux:sila[lamb]N sux:gaba[chest]N
+etcsri/Q001124,URU-KA-gina 01,,iv 8,sux:kug[metal]N sux:ŋar[place]V/t
+etcsri/Q001124,URU-KA-gina 01,,iv 9,sux:gud[ox]N sux:diŋir[deity]N
+etcsri/Q001124,URU-KA-gina 01,,iv 10,sux:ki[place]N sux:šum[garlic]N
+etcsri/Q001124,URU-KA-gina 01,,iv 11,sux:ensik[ruler]N
+etcsri/Q001124,URU-KA-gina 01,,iv 12,sux:uru[sow]V/t
+etcsri/Q001124,URU-KA-gina 01,,iv 13,sux:ašag[field]N sux:sag[good]V/i
+etcsri/Q001124,URU-KA-gina 01,,iv 14,sux:diŋir[deity]N
+etcsri/Q001124,URU-KA-gina 01,,iv 15,sux:ki[place]N sux:šum[garlic]N
+etcsri/Q001124,URU-KA-gina 01,,iv 16,sux:ki[place]N sux:ukuš[cucumber]N
+etcsri/Q001124,URU-KA-gina 01,,iv 17,sux:ensik[ruler]N
+etcsri/Q001124,URU-KA-gina 01,,iv 18,sux:ŋal[be]V/i
+etcsri/Q001124,URU-KA-gina 01,,iv 19,sux:anše[equid]N sux:sur[people]N
+etcsri/Q001124,URU-KA-gina 01,,iv 20,sux:gud[ox]N sux:du[suitable]V/i
+etcsri/Q001124,URU-KA-gina 01,,iv 21,sux:saŋŋa[official]N
+etcsri/Q001124,URU-KA-gina 01,,iv 22,sux:kešed[bind]V/t
+etcsri/Q001124,URU-KA-gina 01,,v 1,sux:še[barley]N sux:saŋŋa[official]N
+etcsri/Q001124,URU-KA-gina 01,,v 2,sux:sur[people]N sux:ensik[ruler]N
+etcsri/Q001124,URU-KA-gina 01,,v 3,sux:ba[allot]V/t
+etcsri/Q001124,URU-KA-gina 01,,v 4,sux:ŋeštugninkilimak[garment]N
+etcsri/Q001124,URU-KA-gina 01,,v 5,sux:UAŠ[garment]N
+etcsri/Q001124,URU-KA-gina 01,,v 6,sux:šutur[garment]N
+etcsri/Q001124,URU-KA-gina 01,,v 7,sux:niŋbarba[garment]N
+etcsri/Q001124,URU-KA-gina 01,,v 8,sux:gadala[fabric]N
+etcsri/Q001124,URU-KA-gina 01,,v 9,sux:gu[cord]N sux:sug[full]V/i
+etcsri/Q001124,URU-KA-gina 01,,v 10,sux:gu[cord]N sux:sa[bundle]N sux:la[hang]V/t
+etcsri/Q001124,URU-KA-gina 01,,v 11,sux:saŋšu[helmet]N sux:zabar[bronze]N
+etcsri/Q001124,URU-KA-gina 01,,v 12,sux:gag[nail]N sux:zabar[bronze]N
+etcsri/Q001124,URU-KA-gina 01,,v 13,sux:RU-ura[object]N sux:zabar[bronze]N
+etcsri/Q001124,URU-KA-gina 01,,v 14,sux:kuš[skin]N sux:zalag[shine]V/i
+etcsri/Q001124,URU-KA-gina 01,,v 15,sux:a[arm]N sux:burusig[bird]N
+etcsri/Q001124,URU-KA-gina 01,,v 16,sux:kumul[cumin]N
+etcsri/Q001124,URU-KA-gina 01,,v 17,sux:BILGIšuš[unmng]N
+etcsri/Q001124,URU-KA-gina 01,,v 18,sux:maš[goat]N sux:bardul[garment]N
+etcsri/Q001124,URU-KA-gina 01,,v 19,sux:saŋŋa[official]N
+etcsri/Q001124,URU-KA-gina 01,,v 20,sux:dupsik[basket]N
+etcsri/Q001124,URU-KA-gina 01,,v 21,sux:gur[lift]V/t
+etcsri/Q001124,URU-KA-gina 01,,v 22,sux:saŋŋa[official]N
+etcsri/Q001124,URU-KA-gina 01,,v 23,sux:kiri[orchard]N sux:ama[mother]N sux:ukur[poor]V/i
+etcsri/Q001124,URU-KA-gina 01,,vi 1,sux:ŋeš[tree]N sux:na[cvne]N sux:deg[collect]V/t
+etcsri/Q001124,URU-KA-gina 01,,vi 2,sux:KIŠlam[basket]N
+etcsri/Q001124,URU-KA-gina 01,,vi 3,sux:kešed[bind]V/t
+etcsri/Q001124,URU-KA-gina 01,,vi 4,sux:adda[corpse]N sux:kimah[grave]N sux:de[bring]V/t
+etcsri/Q001124,URU-KA-gina 01,,vi 5,sux:kaš[beer]N sux:dug[pot]N
+etcsri/Q001124,URU-KA-gina 01,,vi 6,sux:ninda[bread]N sux:ŋešdumin[fourhundred-twenty]NU
+etcsri/Q001124,URU-KA-gina 01,,vi 7,sux:hazin[barley]N
+etcsri/Q001124,URU-KA-gina 01,,vi 8,sux:tug[textile]N
+etcsri/Q001124,URU-KA-gina 01,,vi 9,sux:maš[goat]N sux:saŋ[head]N
+etcsri/Q001124,URU-KA-gina 01,,vi 10,sux:ŋešnud[bed]N
+etcsri/Q001124,URU-KA-gina 01,,vi 11,sux:uruh[priest]N
+etcsri/Q001124,URU-KA-gina 01,,vi 12,sux:de[bring]V/t
+etcsri/Q001124,URU-KA-gina 01,,vi 13,sux:še[barley]N sux:luʾumumak[profession]N
+etcsri/Q001124,URU-KA-gina 01,,vi 14,sux:de[bring]V/t
+etcsri/Q001124,URU-KA-gina 01,,vi 15,sux:gi[reed]N sux:Enkik[1]DN
+etcsri/Q001124,URU-KA-gina 01,,vi 16,sux:lu[person]N sux:de[bring]V/t
+etcsri/Q001124,URU-KA-gina 01,,vi 17,sux:kaš[beer]N sux:dug[pot]N
+etcsri/Q001124,URU-KA-gina 01,,vi 18,sux:ninda[bread]N sux:ŋešdumin[fourhundred-twenty]NU
+etcsri/Q001124,URU-KA-gina 01,,vi 19,sux:še[barley]N
+etcsri/Q001124,URU-KA-gina 01,,vi 20,sux:tug[textile]N
+etcsri/Q001124,URU-KA-gina 01,,vi 21,sux:ŋešnud[bed]N
+etcsri/Q001124,URU-KA-gina 01,,vi 22,sux:durŋar[chair]N
+etcsri/Q001124,URU-KA-gina 01,,vi 23,sux:uruh[priest]N
+etcsri/Q001124,URU-KA-gina 01,,vi 24,sux:de[bring]V/t
+etcsri/Q001124,URU-KA-gina 01,,vi 25,sux:še[barley]N
+etcsri/Q001124,URU-KA-gina 01,,vi 26,sux:luʾumumak[profession]N
+etcsri/Q001124,URU-KA-gina 01,,vi 27,sux:de[bring]V/t
+etcsri/Q001124,URU-KA-gina 01,,vi 28,sux:ŋeškiŋti[tree]N
+etcsri/Q001124,URU-KA-gina 01,,vi 29,sux:ninda[bread]N sux:šuʾila[prayer]N
+etcsri/Q001124,URU-KA-gina 01,,vii 1,sux:tuku[acquire]V/t
+etcsri/Q001124,URU-KA-gina 01,,vii 2,sux:ŋuruš[male]N sux:min[two]NU
+etcsri/Q001124,URU-KA-gina 01,,vii 3,sux:addir[hire]N sux:abula[gate]N
+etcsri/Q001124,URU-KA-gina 01,,vii 4,sux:tuku[acquire]V/t
+etcsri/Q001124,URU-KA-gina 01,,vii 5,sux:e[house]N sux:ensik[ruler]N
+etcsri/Q001124,URU-KA-gina 01,,vii 6,sux:ašag[field]N sux:ensik[ruler]N
+etcsri/Q001124,URU-KA-gina 01,,vii 7,sux:e[house]N sux:emi[household]N
+etcsri/Q001124,URU-KA-gina 01,,vii 8,sux:ašag[field]N sux:emi[household]N
+etcsri/Q001124,URU-KA-gina 01,,vii 9,sux:e[house]N sux:nam[fate]N sux:dumu[child]N
+etcsri/Q001124,URU-KA-gina 01,,vii 10,sux:ašag[field]N sux:nam[fate]N sux:dumu[child]N
+etcsri/Q001124,URU-KA-gina 01,,vii 11,sux:zag[side]N sux:us[follow]V/i
+etcsri/Q001124,URU-KA-gina 01,,vii 12,sux:kisura[border]N
+etcsri/Q001124,URU-KA-gina 01,,vii 13,sux:Ninŋirsuk[1]DN
+etcsri/Q001124,URU-KA-gina 01,,vii 14,sux:aʾabak[sea]N
+etcsri/Q001124,URU-KA-gina 01,,vii 15,sux:maškim[administrator]N sux:dug[speak]V/t
+etcsri/Q001124,URU-KA-gina 01,,vii 16,sux:ŋal[be]V/i
+etcsri/Q001124,URU-KA-gina 01,,vii 17,sux:RU-lugalak[soldier]N
+etcsri/Q001124,URU-KA-gina 01,,vii 18,sux:saŋ[head]N sux:ašag[field]N
+etcsri/Q001124,URU-KA-gina 01,,vii 19,sux:pu[well]N sux:du[build]V/t
+etcsri/Q001124,URU-KA-gina 01,,vii 20,sux:iginudu[blind]N
+etcsri/Q001124,URU-KA-gina 01,,vii 21,sux:dab[seize]V/t
+etcsri/Q001124,URU-KA-gina 01,,vii 22,sux:amuš[unmng]N
+etcsri/Q001124,URU-KA-gina 01,,vii 23,sux:ašag[field]N sux:ŋal[be]V/i
+etcsri/Q001124,URU-KA-gina 01,,vii 24,sux:iginudu[blind]N
+etcsri/Q001124,URU-KA-gina 01,,vii 25,sux:dab[seize]V/t
+etcsri/Q001124,URU-KA-gina 01,,vii 26,sux:biluda[rituals]N
+etcsri/Q001124,URU-KA-gina 01,,vii 27,sux:ud[sun]N
+etcsri/Q001124,URU-KA-gina 01,,vii 28,sux:me[be]V/i
+etcsri/Q001124,URU-KA-gina 01,,vii 29,sux:ud[sun]N sux:Ninŋirsuk[1]DN
+etcsri/Q001124,URU-KA-gina 01,,vii 30,sux:ursaŋ[hero]N sux:Enlil[1]DN
+etcsri/Q001124,URU-KA-gina 01,,viii 1,sux:Irikaginak[1]RN
+etcsri/Q001124,URU-KA-gina 01,,viii 2,sux:namlugal[kingship]N
+etcsri/Q001124,URU-KA-gina 01,,viii 3,sux:Lagaš[1]SN
+etcsri/Q001124,URU-KA-gina 01,,viii 4,sux:šum[give]V/t
+etcsri/Q001124,URU-KA-gina 01,,viii 5,sux:šag[heart]N sux:lu[person]N
+etcsri/Q001124,URU-KA-gina 01,,viii 6,sux:šu[hand]N sux:dab[seize]V/t
+etcsri/Q001124,URU-KA-gina 01,,viii 7,sux:nam[fate]N sux:tar[cut]V/t
+etcsri/Q001124,URU-KA-gina 01,,viii 8,sux:ud[sun]N
+etcsri/Q001124,URU-KA-gina 01,,viii 9,sux:ŋar[place]V/t
+etcsri/Q001124,URU-KA-gina 01,,viii 10,sux:inim[word]N sux:lugal[king]N
+etcsri/Q001124,URU-KA-gina 01,,viii 11,sux:Ninŋirsuk[1]DN
+etcsri/Q001124,URU-KA-gina 01,,viii 12,sux:dug[speak]V/t
+etcsri/Q001124,URU-KA-gina 01,,viii 13,sux:dab[seize]V/t
+etcsri/Q001124,URU-KA-gina 01,,viii 14,sux:ma[ship]N
+etcsri/Q001124,URU-KA-gina 01,,viii 15,sux:lu[person]N sux:malah[sailor]N
+etcsri/Q001124,URU-KA-gina 01,,viii 16,sux:šub[fall]V/t
+etcsri/Q001124,URU-KA-gina 01,,viii 17,sux:anše[equid]N
+etcsri/Q001124,URU-KA-gina 01,,viii 18,sux:udu[sheep]N
+etcsri/Q001124,URU-KA-gina 01,,viii 19,sux:udul[herdsman]N
+etcsri/Q001124,URU-KA-gina 01,,viii 20,sux:šub[fall]V/t
+etcsri/Q001124,URU-KA-gina 01,,viii 21,sux:umu[storage]N
+etcsri/Q001124,URU-KA-gina 01,,viii 22,sux:enkud[tax-collector]N
+etcsri/Q001124,URU-KA-gina 01,,viii 23,sux:šub[fall]V/t
+etcsri/Q001124,URU-KA-gina 01,,viii 24,sux:šeguba[barley-rental]N
+etcsri/Q001124,URU-KA-gina 01,,viii 25,sux:gudug[priest]N
+etcsri/Q001124,URU-KA-gina 01,,viii 26,sux:kaguruk[supervisor]N
+etcsri/Q001124,URU-KA-gina 01,,viii 27,sux:šub[fall]V/t
+etcsri/Q001124,URU-KA-gina 01,,viii 28,sux:bar[outside]N sux:udu[sheep]N sux:had[bright]V/i
+etcsri/Q001124,URU-KA-gina 01,,viii 29,sux:bar[outside]N sux:sila[lamb]N sux:gaba[chest]N
+etcsri/Q001124,URU-KA-gina 01,,viii 30,sux:kug[metal]N sux:ŋar[place]V/t
+etcsri/Q001124,URU-KA-gina 01,,viii 31,sux:maškim[administrator]N
+etcsri/Q001124,URU-KA-gina 01,,ix 1,sux:šub[fall]V/t
+etcsri/Q001124,URU-KA-gina 01,,ix 2,sux:dupsik[basket]N sux:saŋŋa[official]N
+etcsri/Q001124,URU-KA-gina 01,,ix 3,sux:egal[palace]N
+etcsri/Q001124,URU-KA-gina 01,,ix 4,sux:gur[lift]V/t
+etcsri/Q001124,URU-KA-gina 01,,ix 5,sux:maškim[administrator]N
+etcsri/Q001124,URU-KA-gina 01,,ix 6,sux:šub[fall]V/t
+etcsri/Q001124,URU-KA-gina 01,,ix 7,sux:e[house]N sux:ensik[ruler]N
+etcsri/Q001124,URU-KA-gina 01,,ix 8,sux:ašag[field]N sux:ensik[ruler]N
+etcsri/Q001124,URU-KA-gina 01,,ix 9,sux:Ninŋirsuk[1]DN
+etcsri/Q001124,URU-KA-gina 01,,ix 10,sux:lugal[king]N
+etcsri/Q001124,URU-KA-gina 01,,ix 11,sux:kur[enter]V/i
+etcsri/Q001124,URU-KA-gina 01,,ix 12,sux:e[house]N sux:emi[household]N
+etcsri/Q001124,URU-KA-gina 01,,ix 13,sux:ašag[field]N sux:emi[household]N
+etcsri/Q001124,URU-KA-gina 01,,ix 14,sux:Bau[1]DN
+etcsri/Q001124,URU-KA-gina 01,,ix 15,sux:nin[lady]N
+etcsri/Q001124,URU-KA-gina 01,,ix 16,sux:kur[enter]V/i
+etcsri/Q001124,URU-KA-gina 01,,ix 17,sux:e[house]N sux:nam[fate]N sux:dumu[child]N
+etcsri/Q001124,URU-KA-gina 01,,ix 18,sux:ašag[field]N sux:nam[fate]N sux:dumu[child]N
+etcsri/Q001124,URU-KA-gina 01,,ix 19,sux:Šulšaganak[1]DN
+etcsri/Q001124,URU-KA-gina 01,,ix 20,sux:lugal[king]N
+etcsri/Q001124,URU-KA-gina 01,,ix 21,sux:kur[enter]V/i
+etcsri/Q001124,URU-KA-gina 01,,ix 22,sux:kisura[border]N
+etcsri/Q001124,URU-KA-gina 01,,ix 23,sux:Ninŋirsuk[1]DN
+etcsri/Q001124,URU-KA-gina 01,,ix 24,sux:aʾabak[sea]N
+etcsri/Q001124,URU-KA-gina 01,,ix 25,sux:maškim[administrator]N sux:lu[person]N sux:dug[speak]V/t
+etcsri/Q001124,URU-KA-gina 01,,ix 26,sux:adda[corpse]N sux:kimah[grave]N sux:de[bring]V/t
+etcsri/Q001124,URU-KA-gina 01,,ix 27,sux:kaš[beer]N sux:dug[pot]N
+etcsri/Q001124,URU-KA-gina 01,,ix 28,sux:ninda[bread]N
+etcsri/Q001124,URU-KA-gina 01,,ix 29,sux:ŋešnud[bed]N
+etcsri/Q001124,URU-KA-gina 01,,ix 30,sux:maš[goat]N sux:saŋ[head]N
+etcsri/Q001124,URU-KA-gina 01,,ix 31,sux:uruh[priest]N
+etcsri/Q001124,URU-KA-gina 01,,ix 32,sux:de[bring]V/t
+etcsri/Q001124,URU-KA-gina 01,,ix 33,sux:še[barley]N sux:luʾumumak[profession]N
+etcsri/Q001124,URU-KA-gina 01,,ix 34,sux:de[bring]V/t
+etcsri/Q001124,URU-KA-gina 01,,ix 35,sux:gi[reed]N sux:Enkik[1]DN
+etcsri/Q001124,URU-KA-gina 01,,x 1,sux:lu[person]N sux:de[bring]V/t
+etcsri/Q001124,URU-KA-gina 01,,x 2,sux:kaš[beer]N sux:dug[pot]N
+etcsri/Q001124,URU-KA-gina 01,,x 3,sux:ninda[bread]N
+etcsri/Q001124,URU-KA-gina 01,,x 4,sux:še[barley]N
+etcsri/Q001124,URU-KA-gina 01,,x 5,sux:uruh[priest]N
+etcsri/Q001124,URU-KA-gina 01,,x 6,sux:de[bring]V/t
+etcsri/Q001124,URU-KA-gina 01,,x 7,sux:še[barley]N
+etcsri/Q001124,URU-KA-gina 01,,x 8,sux:luʾumumak[profession]N
+etcsri/Q001124,URU-KA-gina 01,,x 9,sux:de[bring]V/t
+etcsri/Q001124,URU-KA-gina 01,,x 10,sux:NIG.SAG.LAL.MUNUS[headdress]N
+etcsri/Q001124,URU-KA-gina 01,,x 11,sux:sila[unit]N sux:ir[scent]N sux:nun[prince]N
+etcsri/Q001124,URU-KA-gina 01,,x 12,sux:erešdiŋir[priestess]N
+etcsri/Q001124,URU-KA-gina 01,,x 13,sux:de[bring]V/t
+etcsri/Q001124,URU-KA-gina 01,,x 14,sux:ninda[bread]N sux:tuš[sit]V/i
+etcsri/Q001124,URU-KA-gina 01,,x 15,sux:ninda[bread]N sux:gub[stand]V/i
+etcsri/Q001124,URU-KA-gina 01,,x 16,sux:ninda[bread]N sux:kum[hot]V/i
+etcsri/Q001124,URU-KA-gina 01,,x 17,sux:zu[tooth]N sux:gub[stand]V/i
+etcsri/Q001124,URU-KA-gina 01,,x 18,sux:ninda[bread]N sux:kum[hot]V/i
+etcsri/Q001124,URU-KA-gina 01,,x 19,sux:ninda[bread]N sux:banšur[table]N
+etcsri/Q001124,URU-KA-gina 01,,x 20,sux:ninda[bread]N sux:lu[person]N sux:zig[rise]V/i
+etcsri/Q001124,URU-KA-gina 01,,x 21,sux:kaš[beer]N sux:mud[jar]N sux:sadug[offerings]N
+etcsri/Q001124,URU-KA-gina 01,,x 22,sux:gala[singer]N
+etcsri/Q001124,URU-KA-gina 01,,x 23,sux:Ŋirsu[1]SN
+etcsri/Q001124,URU-KA-gina 01,,x 24,sux:ninda[bread]N
+etcsri/Q001124,URU-KA-gina 01,,x 25,sux:kaš[beer]N sux:mud[jar]N sux:sadug[offerings]N
+etcsri/Q001124,URU-KA-gina 01,,x 26,sux:gala[singer]N
+etcsri/Q001124,URU-KA-gina 01,,x 27,sux:Lagaš[1]SN
+etcsri/Q001124,URU-KA-gina 01,,x 28,sux:ninda[bread]N
+etcsri/Q001124,URU-KA-gina 01,,x 29,sux:kaš[beer]N sux:mud[jar]N sux:sadug[offerings]N
+etcsri/Q001124,URU-KA-gina 01,,x 30,sux:gala[singer]N
+etcsri/Q001124,URU-KA-gina 01,,x 31,sux:ninda[bread]N
+etcsri/Q001124,URU-KA-gina 01,,x 32,sux:kaš[beer]N sux:mud[jar]N
+etcsri/Q001124,URU-KA-gina 01,,x 33,sux:nam[fate]N sux:umma[old-woman]N
+etcsri/Q001124,URU-KA-gina 01,,x 34,sux:ninda[bread]N
+etcsri/Q001124,URU-KA-gina 01,,x 35,sux:kaš[beer]N sux:mud[jar]N
+etcsri/Q001124,URU-KA-gina 01,,x 36,sux:ABBA.IGI[unmng]N
+etcsri/Q001124,URU-KA-gina 01,,x 37,sux:Niŋin[1]SN
+etcsri/Q001124,URU-KA-gina 01,,x 38,sux:iginudu[blind]N
+etcsri/Q001124,URU-KA-gina 01,,xi 1,sux:NIra[unmng]N
+etcsri/Q001124,URU-KA-gina 01,,xi 2,sux:gub[stand]V/i
+etcsri/Q001124,URU-KA-gina 01,,xi 3,sux:ninda[bread]N sux:zu[tooth]N sux:gub[stand]V/i
+etcsri/Q001124,URU-KA-gina 01,,xi 4,sux:ninda[bread]N sux:ŋibaʾa[midnight]N
+etcsri/Q001124,URU-KA-gina 01,,xi 5,sux:ninda[bread]N sux:udsa[midday]N
+etcsri/Q001124,URU-KA-gina 01,,xi 6,sux:ninda[bread]N sux:ŋiʾunak[night]N
+etcsri/Q001124,URU-KA-gina 01,,xi 7,sux:ninda[bread]N
+etcsri/Q001124,URU-KA-gina 01,,xi 8,sux:kaš[beer]N sux:mud[jar]N
+etcsri/Q001124,URU-KA-gina 01,,xi 9,sux:še[barley]N
+etcsri/Q001124,URU-KA-gina 01,,xi 10,sux:lu[person]N sux:saŋbur[priest]N sux:iri[city]N sux:ak[do]V/t
+etcsri/Q001124,URU-KA-gina 01,,xi 11,sux:addir[hire]N sux:abula[gate]N
+etcsri/Q001124,URU-KA-gina 01,,xi 12,sux:ŋuruš[male]N sux:min[two]NU
+etcsri/Q001124,URU-KA-gina 01,,xi 13,sux:inim[word]N sux:gi[turn]V/i
+etcsri/Q001124,URU-KA-gina 01,,xi 14,sux:ŋeškiŋti[tree]N
+etcsri/Q001124,URU-KA-gina 01,,xi 15,sux:ninda[bread]N sux:šuʾila[prayer]N
+etcsri/Q001124,URU-KA-gina 01,,xi 16,sux:inim[word]N sux:gi[turn]V/i
+etcsri/Q001124,URU-KA-gina 01,,xi 17,sux:saŋŋa[official]N
+etcsri/Q001124,URU-KA-gina 01,,xi 18,sux:kiri[orchard]N sux:ama[mother]N sux:ukur[poor]V/i
+etcsri/Q001124,URU-KA-gina 01,,xi 19,sux:kur[enter]V/i
+etcsri/Q001124,URU-KA-gina 01,,xi 20,sux:RU-lugalak[soldier]N
+etcsri/Q001124,URU-KA-gina 01,,xi 21,sux:anše[equid]N sux:sag[good]V/i
+etcsri/Q001124,URU-KA-gina 01,,xi 22,sux:utud[bear]V/t
+etcsri/Q001124,URU-KA-gina 01,,xi 23,sux:ugula[overseer]N
+etcsri/Q001124,URU-KA-gina 01,,xi 24,sux:sa[pay-for]V/t
+etcsri/Q001124,URU-KA-gina 01,,xi 25,sux:dug[speak]V/t
+etcsri/Q001124,URU-KA-gina 01,,xi 26,sux:ud[sun]N sux:sa[pay-for]V/t
+etcsri/Q001124,URU-KA-gina 01,,xi 27,sux:kug[metal]N sux:šag[heart]N sux:sag[good]V/i
+etcsri/Q001124,URU-KA-gina 01,,xi 28,sux:la[hang]V/t
+etcsri/Q001124,URU-KA-gina 01,,xi 29,sux:dug[speak]V/t
+etcsri/Q001124,URU-KA-gina 01,,xi 30,sux:ud[sun]N sux:sa[pay-for]V/t
+etcsri/Q001124,URU-KA-gina 01,,xi 31,sux:ugula[overseer]N sux:lipiš[innards]N
+etcsri/Q001124,URU-KA-gina 01,,xi 32,sux:tag[touch]V/t
+etcsri/Q001124,URU-KA-gina 01,,xi 33,sux:e[house]N sux:lu[person]N sux:gal[big]V/i
+etcsri/Q001124,URU-KA-gina 01,,xi 34,sux:e[house]N sux:RU-lugalak[soldier]N
+etcsri/Q001124,URU-KA-gina 01,,xi 35,sux:us[follow]V/i
+etcsri/Q001124,URU-KA-gina 01,,xi 36,sux:lu[person]N sux:gal[big]V/i
+etcsri/Q001124,URU-KA-gina 01,,xi 37,sux:sa[pay-for]V/t
+etcsri/Q001124,URU-KA-gina 01,,xi 38,sux:dug[speak]V/t
+etcsri/Q001124,URU-KA-gina 01,,xi 39,sux:ud[sun]N
+etcsri/Q001124,URU-KA-gina 01,,xii 1,sux:sa[pay-for]V/t
+etcsri/Q001124,URU-KA-gina 01,,xii 2,sux:kug[metal]N sux:šag[heart]N sux:sag[good]V/i
+etcsri/Q001124,URU-KA-gina 01,,xii 3,sux:la[hang]V/t
+etcsri/Q001124,URU-KA-gina 01,,xii 4,sux:e[house]N sux:šen[cauldron]N
+etcsri/Q001124,URU-KA-gina 01,,xii 5,sux:še[barley]N sux:si[fill]V/t
+etcsri/Q001124,URU-KA-gina 01,,xii 6,sux:dug[speak]V/t
+etcsri/Q001124,URU-KA-gina 01,,xii 7,sux:ud[sun]N sux:sa[pay-for]V/t
+etcsri/Q001124,URU-KA-gina 01,,xii 8,sux:lu[person]N sux:gal[big]V/i
+etcsri/Q001124,URU-KA-gina 01,,xii 9,sux:RU-lugalak[soldier]N
+etcsri/Q001124,URU-KA-gina 01,,xii 10,sux:lipiš[innards]N
+etcsri/Q001124,URU-KA-gina 01,,xii 11,sux:tag[touch]V/t
+etcsri/Q001124,URU-KA-gina 01,,xii 12,sux:dug[speak]V/t
+etcsri/Q001124,URU-KA-gina 01,,xii 13,sux:dumu[child]N sux:Lagaš[1]SN
+etcsri/Q001124,URU-KA-gina 01,,xii 14,sux:urra[loan]N sux:til[live]V/i
+etcsri/Q001124,URU-KA-gina 01,,xii 15,sux:gur[unit]N sux:gub[stand]V/i
+etcsri/Q001124,URU-KA-gina 01,,xii 16,sux:še[barley]N sux:sig[put]V/t
+etcsri/Q001124,URU-KA-gina 01,,xii 17,sux:niŋ[thing]N sux:zuh[steal]V/t
+etcsri/Q001124,URU-KA-gina 01,,xii 18,sux:saŋ[head]N sux:ŋeš[tree]N sux:rah[beat]V/t
+etcsri/Q001124,URU-KA-gina 01,,xii 19,sux:eʾEŠ[prison]N
+etcsri/Q001124,URU-KA-gina 01,,xii 20,sux:luh[clean]V/t
+etcsri/Q001124,URU-KA-gina 01,,xii 21,sux:amargi[reversion]N
+etcsri/Q001124,URU-KA-gina 01,,xii 22,sux:ŋar[place]V/t
+etcsri/Q001124,URU-KA-gina 01,,xii 23,sux:nusiki[orphan]N sux:numunkuš[widow]N
+etcsri/Q001124,URU-KA-gina 01,,xii 24,sux:lu[person]N sux:atuku[powerful]AJ
+etcsri/Q001124,URU-KA-gina 01,,xii 25,sux:ŋar[place]V/t
+etcsri/Q001124,URU-KA-gina 01,,xii 26,sux:Ninŋirsuk[1]DN
+etcsri/Q001124,URU-KA-gina 01,,xii 27,sux:Irikaginak[1]RN
+etcsri/Q001124,URU-KA-gina 01,,xii 28,sux:inim[word]N sux:kag[mouth]N sux:kešed[bind]V/t
+etcsri/Q001124,URU-KA-gina 01,,xii 29,sux:šag[heart]N sux:mu[year]N
+etcsri/Q001124,URU-KA-gina 01,,xii 30,sux:id[river]N sux:tur[small]V/i sux:Ŋirsu[1]SN
+etcsri/Q001124,URU-KA-gina 01,,xii 31,sux:tuku[acquire]V/t
+etcsri/Q001124,URU-KA-gina 01,,xii 32,sux:Ninŋirsuk[1]DN
+etcsri/Q001124,URU-KA-gina 01,,xii 33,sux:al[hoe]N sux:du[build]V/t
+etcsri/Q001124,URU-KA-gina 01,,xii 34,sux:mu[name]N sux:ud[sun]N
+etcsri/Q001124,URU-KA-gina 01,,xii 35,sux:ŋar[place]V/t
+etcsri/Q001124,URU-KA-gina 01,,xii 36,sux:Ninŋirsuk[1]DN sux:Nibru[1]SN sux:nirŋal[authoritative]V/i
+etcsri/Q001124,URU-KA-gina 01,,xii 37,sux:Irikaginak[1]RN
+etcsri/Q001124,URU-KA-gina 01,,xii 38,sux:mu[name]N sux:še[call]V/t
+etcsri/Q001124,URU-KA-gina 01,,xii 39,sux:Idniŋindu[1]WN
+etcsri/Q001124,URU-KA-gina 01,,xii 40,sux:la[stretch]V/t
+etcsri/Q001124,URU-KA-gina 01,,xii 41,sux:id[river]N sux:kug[pure]V/i
+etcsri/Q001124,URU-KA-gina 01,,xii 42,sux:šag[heart]N sux:dadag[bright]V/i
+etcsri/Q001124,URU-KA-gina 01,,xii 43,sux:Nanše[1]DN
+etcsri/Q001124,URU-KA-gina 01,,xii 44,sux:a[water]N sux:zal[pass]V/i

@@ -1,0 +1,605 @@
+id_text,text_name,l_no,text
+dcclt/Q000057,OB Nippur Diri,1,
+dcclt/Q000057,OB Nippur Diri,2,
+dcclt/Q000057,OB Nippur Diri,3,
+dcclt/Q000057,OB Nippur Diri,4,
+dcclt/Q000057,OB Nippur Diri,5,
+dcclt/Q000057,OB Nippur Diri,7,akk-x-oldbab:kāpidu[planner]N
+dcclt/Q000057,OB Nippur Diri,8,akk-x-oldbab:zāqiru[one-who-projects]N
+dcclt/Q000057,OB Nippur Diri,9,
+dcclt/Q000057,OB Nippur Diri,10,
+dcclt/Q000057,OB Nippur Diri,11,
+dcclt/Q000057,OB Nippur Diri,12,
+dcclt/Q000057,OB Nippur Diri,13,sux:dirig[raft]N akk-x-oldbab:amu[raft]N
+dcclt/Q000057,OB Nippur Diri,14,sux:dirig[raft]N akk-x-oldbab:hāmu[raft]N
+dcclt/Q000057,OB Nippur Diri,15,
+dcclt/Q000057,OB Nippur Diri,16,akk-x-oldbab:ṣēru[back]N
+dcclt/Q000057,OB Nippur Diri,17,
+dcclt/Q000057,OB Nippur Diri,18a,
+dcclt/Q000057,OB Nippur Diri,18b,
+dcclt/Q000057,OB Nippur Diri,18c,
+dcclt/Q000057,OB Nippur Diri,18d,
+dcclt/Q000057,OB Nippur Diri,19,
+dcclt/Q000057,OB Nippur Diri,20,
+dcclt/Q000057,OB Nippur Diri,21,sux:dirig[gorge]N akk-x-oldbab:nahallu[stream]N
+dcclt/Q000057,OB Nippur Diri,22,
+dcclt/Q000057,OB Nippur Diri,23,
+dcclt/Q000057,OB Nippur Diri,24,
+dcclt/Q000057,OB Nippur Diri,25,
+dcclt/Q000057,OB Nippur Diri,26,
+dcclt/Q000057,OB Nippur Diri,27,sux:puzur[secret]N akk-x-oldbab:puzru[concealment]N
+dcclt/Q000057,OB Nippur Diri,28,
+dcclt/Q000057,OB Nippur Diri,29,sux:puzur[secret]N akk-x-oldbab:idirtu[misery]N
+dcclt/Q000057,OB Nippur Diri,30,sux:mumun[noise]N akk-x-oldbab:rigmu[voice]N
+dcclt/Q000057,OB Nippur Diri,31,sux:mu[incantation]N akk-x-oldbab:šiptu[incantation]N
+dcclt/Q000057,OB Nippur Diri,32,sux:lumumun[priest]N akk-x-oldbab:wāšipu[exorcist]N
+dcclt/Q000057,OB Nippur Diri,33,sux:mumun[noise]N akk-x-oldbab:ramīmu[roar]N
+dcclt/Q000057,OB Nippur Diri,34,
+dcclt/Q000057,OB Nippur Diri,35,
+dcclt/Q000057,OB Nippur Diri,36,
+dcclt/Q000057,OB Nippur Diri,36a,
+dcclt/Q000057,OB Nippur Diri,36b,
+dcclt/Q000057,OB Nippur Diri,36c,
+dcclt/Q000057,OB Nippur Diri,37,
+dcclt/Q000057,OB Nippur Diri,38,
+dcclt/Q000057,OB Nippur Diri,39,
+dcclt/Q000057,OB Nippur Diri,40,
+dcclt/Q000057,OB Nippur Diri,41,
+dcclt/Q000057,OB Nippur Diri,42,
+dcclt/Q000057,OB Nippur Diri,43,sux:kukkug[dark-places]N akk-x-oldbab:ekletu[darkness]N
+dcclt/Q000057,OB Nippur Diri,43a,sux:kukkug[dark-places]N akk-x-oldbab:daʾummatu[gloom]N
+dcclt/Q000057,OB Nippur Diri,43b,sux:kukkug[dark-places]N
+dcclt/Q000057,OB Nippur Diri,43c,sux:kukkug[dark-places]N
+dcclt/Q000057,OB Nippur Diri,43d,
+dcclt/Q000057,OB Nippur Diri,44,
+dcclt/Q000057,OB Nippur Diri,45,
+dcclt/Q000057,OB Nippur Diri,46,akk-x-oldbab:mutqu[sweet-thing]N
+dcclt/Q000057,OB Nippur Diri,47,
+dcclt/Q000057,OB Nippur Diri,48,
+dcclt/Q000057,OB Nippur Diri,49,akk-x-oldbab:aššatu[wife]N
+dcclt/Q000057,OB Nippur Diri,50,
+dcclt/Q000057,OB Nippur Diri,51,
+dcclt/Q000057,OB Nippur Diri,52,
+dcclt/Q000057,OB Nippur Diri,53,
+dcclt/Q000057,OB Nippur Diri,53a,
+dcclt/Q000057,OB Nippur Diri,54,
+dcclt/Q000057,OB Nippur Diri,55,
+dcclt/Q000057,OB Nippur Diri,56,akk-x-oldbab:šittu[remainder]N
+dcclt/Q000057,OB Nippur Diri,57,
+dcclt/Q000057,OB Nippur Diri,58,akk-x-oldbab:laʾû[small-child]N
+dcclt/Q000057,OB Nippur Diri,59,akk-x-oldbab:enšu[weak-one]N
+dcclt/Q000057,OB Nippur Diri,60,akk-x-oldbab:daqqu[minute-one]N
+dcclt/Q000057,OB Nippur Diri,61,akk-x-oldbab:utnēnu[supplication]N
+dcclt/Q000057,OB Nippur Diri,63,akk-x-oldbab:ṣuhāru[boy]N
+dcclt/Q000057,OB Nippur Diri,64,akk-x-oldbab:daqqu[minute-one]N
+dcclt/Q000057,OB Nippur Diri,65,
+dcclt/Q000057,OB Nippur Diri,66,
+dcclt/Q000057,OB Nippur Diri,67,
+dcclt/Q000057,OB Nippur Diri,68,
+dcclt/Q000057,OB Nippur Diri,69,
+dcclt/Q000057,OB Nippur Diri,70,
+dcclt/Q000057,OB Nippur Diri,71,
+dcclt/Q000057,OB Nippur Diri,72,sux:niŋin[water]N
+dcclt/Q000057,OB Nippur Diri,73,sux:niŋin[water]N akk-x-oldbab:awirānu[standing-water]N
+dcclt/Q000057,OB Nippur Diri,74,sux:niŋin[water]N akk-x-oldbab:edû[flood]N
+dcclt/Q000057,OB Nippur Diri,75,
+dcclt/Q000057,OB Nippur Diri,75a,
+dcclt/Q000057,OB Nippur Diri,76,
+dcclt/Q000057,OB Nippur Diri,76a,
+dcclt/Q000057,OB Nippur Diri,77,
+dcclt/Q000057,OB Nippur Diri,78,
+dcclt/Q000057,OB Nippur Diri,79,
+dcclt/Q000057,OB Nippur Diri,80,
+dcclt/Q000057,OB Nippur Diri,81,
+dcclt/Q000057,OB Nippur Diri,82,
+dcclt/Q000057,OB Nippur Diri,83,
+dcclt/Q000057,OB Nippur Diri,84,
+dcclt/Q000057,OB Nippur Diri,85,
+dcclt/Q000057,OB Nippur Diri,86,
+dcclt/Q000057,OB Nippur Diri,87,
+dcclt/Q000057,OB Nippur Diri,88,sux:inbulbul[chaff?]N akk-x-oldbab:pû[chaff]N
+dcclt/Q000057,OB Nippur Diri,89,sux:siškur[prayer]N akk-x-oldbab:nīqu[offering]N
+dcclt/Q000057,OB Nippur Diri,90,sux:siškur[prayer]N akk-x-oldbab:karābu[prayer]N
+dcclt/Q000057,OB Nippur Diri,91,sux:siškur[prayer]N akk-x-oldbab:ikribu[prayer]N
+dcclt/Q000057,OB Nippur Diri,92,
+dcclt/Q000057,OB Nippur Diri,93,
+dcclt/Q000057,OB Nippur Diri,94,
+dcclt/Q000057,OB Nippur Diri,95,
+dcclt/Q000057,OB Nippur Diri,96,
+dcclt/Q000057,OB Nippur Diri,97,
+dcclt/Q000057,OB Nippur Diri,98,
+dcclt/Q000057,OB Nippur Diri,98a,
+dcclt/Q000057,OB Nippur Diri,99,
+dcclt/Q000057,OB Nippur Diri,100,
+dcclt/Q000057,OB Nippur Diri,101,
+dcclt/Q000057,OB Nippur Diri,102,
+dcclt/Q000057,OB Nippur Diri,103,sux:tumtume[rodent]N akk-x-oldbab:asqūdu[(a-rodent)]N
+dcclt/Q000057,OB Nippur Diri,104,
+dcclt/Q000057,OB Nippur Diri,105,
+dcclt/Q000057,OB Nippur Diri,106,
+dcclt/Q000057,OB Nippur Diri,107,
+dcclt/Q000057,OB Nippur Diri,108,
+dcclt/Q000057,OB Nippur Diri,109,
+dcclt/Q000057,OB Nippur Diri,110,akk-x-oldbab:šalṭu[authoritative-one]N
+dcclt/Q000057,OB Nippur Diri,111,
+dcclt/Q000057,OB Nippur Diri,112,
+dcclt/Q000057,OB Nippur Diri,113,akk-x-oldbab:ararru[miller]N
+dcclt/Q000057,OB Nippur Diri,114,sux:liblib[plunderer]N akk-x-oldbab:sarru[false-one]N
+dcclt/Q000057,OB Nippur Diri,115,sux:liblib[plunderer]N akk-x-oldbab:habbātu[plunderer]N
+dcclt/Q000057,OB Nippur Diri,116,sux:liblib[plunderer]N akk-x-oldbab:šarrāqu[thief]N
+dcclt/Q000057,OB Nippur Diri,117,sux:liblib[plunderer]N akk-x-oldbab:muttahallilu[roaming-around]N
+dcclt/Q000057,OB Nippur Diri,118,akk-x-oldbab:īnu[eye]N
+dcclt/Q000057,OB Nippur Diri,119,akk-x-oldbab:īnu[eye]N
+dcclt/Q000057,OB Nippur Diri,120,sux:šiši[defect]N akk-x-oldbab:šišû[(person-with-eye-disease)]N
+dcclt/Q000057,OB Nippur Diri,121,sux:šiši[defect]N akk-x-oldbab:šišû[(person-with-eye-disease)]N
+dcclt/Q000057,OB Nippur Diri,122,
+dcclt/Q000057,OB Nippur Diri,123,sux:igi[face]N akk-x-oldbab:āliku[goer]N
+dcclt/Q000057,OB Nippur Diri,124,sux:igi[face]N akk-x-oldbab:āliku[goer]N
+dcclt/Q000057,OB Nippur Diri,124a,akk-x-oldbab:igištû[the-very-first]N
+dcclt/Q000057,OB Nippur Diri,125,sux:ašarid[foremost]N
+dcclt/Q000057,OB Nippur Diri,126,sux:ašarid[foremost]N akk-x-oldbab:ahu[brother]N
+dcclt/Q000057,OB Nippur Diri,126a,
+dcclt/Q000057,OB Nippur Diri,126b,akk-x-oldbab:āliku[goer]N akk-x-oldbab:pānu[front]N
+dcclt/Q000057,OB Nippur Diri,126c,
+dcclt/Q000057,OB Nippur Diri,127,akk-x-oldbab:illatu[band]N akk-x-oldbab:ṣābu[people]N
+dcclt/Q000057,OB Nippur Diri,127a,akk-x-oldbab:piqittu[allocation]N akk-x-oldbab:ṣābu[people]N
+dcclt/Q000057,OB Nippur Diri,128,akk-x-oldbab:ahu[brother]N
+dcclt/Q000057,OB Nippur Diri,129,
+dcclt/Q000057,OB Nippur Diri,130,sux:ŋeškim[sign]N akk-x-oldbab:ittu[sign]N
+dcclt/Q000057,OB Nippur Diri,130a,sux:ŋeškim[sign]N
+dcclt/Q000057,OB Nippur Diri,131,sux:ŋeškimtil[trust]N akk-x-oldbab:tukultu[trust]N
+dcclt/Q000057,OB Nippur Diri,132,sux:ŋeškim[sign]N akk-x-oldbab:giskimmu[sign]N
+dcclt/Q000057,OB Nippur Diri,133,sux:abrig[functionary]N akk-x-oldbab:abarakku[steward]N
+dcclt/Q000057,OB Nippur Diri,134,sux:agrig[steward]N akk-x-oldbab:abarakku[steward]N
+dcclt/Q000057,OB Nippur Diri,135,sux:imhur[foam]N akk-x-oldbab:hurhummatu[foam]N akk-x-oldbab:mû[water]N
+dcclt/Q000057,OB Nippur Diri,136,sux:imhur[foam]N akk-x-oldbab:hurhummatu[foam]N akk-x-oldbab:šikaru[beer]N
+dcclt/Q000057,OB Nippur Diri,137,sux:halib[Netherworld]N
+dcclt/Q000057,OB Nippur Diri,138,sux:ganzer[earth]N akk-x-oldbab:dannina[nether-world]N
+dcclt/Q000057,OB Nippur Diri,139,sux:ganzer[earth]N
+dcclt/Q000057,OB Nippur Diri,140,sux:ganzer[earth]N akk-x-oldbab:bābu[gate]N akk-x-oldbab:erṣetu[earth]N
+dcclt/Q000057,OB Nippur Diri,141,sux:igi[face]N sux:kur[mountain]N akk-x-oldbab:pānu[front]N akk-x-oldbab:erṣetu[earth]N
+dcclt/Q000057,OB Nippur Diri,142,sux:henbur[stalk]N akk-x-oldbab:habbūru[sprout]N
+dcclt/Q000057,OB Nippur Diri,143,sux:dala[thorn]N akk-x-oldbab:ṣillû[thorn]N
+dcclt/Q000057,OB Nippur Diri,144,sux:šukur[lance]N akk-x-oldbab:šukurru[lance]N
+dcclt/Q000057,OB Nippur Diri,145,sux:šukur[lance]N akk-x-oldbab:halwû[boundary-wall]N
+dcclt/Q000057,OB Nippur Diri,146,sux:ubri[lance]N akk-x-oldbab:daʾīmu[lance]N
+dcclt/Q000057,OB Nippur Diri,147,sux:ubri[lance]N akk-x-oldbab:šukurru[lance]N
+dcclt/Q000057,OB Nippur Diri,148,sux:henzer[child]N akk-x-oldbab:ṣehru[small-one]N
+dcclt/Q000057,OB Nippur Diri,148a,sux:henzer[child]N akk-x-oldbab:laʾû[small-child]N
+dcclt/Q000057,OB Nippur Diri,148b,sux:henzer[child]N akk-x-oldbab:ṣuhāru[boy]N
+dcclt/Q000057,OB Nippur Diri,149,
+dcclt/Q000057,OB Nippur Diri,150,sux:ligima[shoot]N akk-x-oldbab:ligimû[kernel]N
+dcclt/Q000057,OB Nippur Diri,151,sux:ligima[shoot]N akk-x-oldbab:ziqpu[shoot]N
+dcclt/Q000057,OB Nippur Diri,152,sux:ligima[shoot]N akk-x-oldbab:niplu[shoot]N
+dcclt/Q000057,OB Nippur Diri,153,sux:gurum[inspection]N
+dcclt/Q000057,OB Nippur Diri,154,sux:gurum[inspection]N akk-x-oldbab:piqittu[allocation]N
+dcclt/Q000057,OB Nippur Diri,155,
+dcclt/Q000057,OB Nippur Diri,156,sux:unir[ziggurat]N akk-x-oldbab:ziqqurratu[ziggurrat]N
+dcclt/Q000057,OB Nippur Diri,157,sux:u[admiration]N
+dcclt/Q000057,OB Nippur Diri,159,sux:u[admiration]N
+dcclt/Q000057,OB Nippur Diri,160,sux:ildum[band]N akk-x-oldbab:illatu[band]N
+dcclt/Q000057,OB Nippur Diri,161,sux:uktin[physiognomy]N akk-x-oldbab:bunnannu[physiognomy]N
+dcclt/Q000057,OB Nippur Diri,162,sux:uktin[physiognomy]N akk-x-oldbab:binītu[creation]N
+dcclt/Q000057,OB Nippur Diri,163,sux:uktin[physiognomy]N akk-x-oldbab:pānu[front]N
+dcclt/Q000057,OB Nippur Diri,164,sux:zermušku[worker]N akk-x-oldbab:qurqurru[metal-worker]N
+dcclt/Q000057,OB Nippur Diri,165,sux:tibira[sculptor]N akk-x-oldbab:qurqurru[metal-worker]N
+dcclt/Q000057,OB Nippur Diri,166,sux:taškarin[boxwood]N akk-x-oldbab:taskarinnu[box-tree]N
+dcclt/Q000057,OB Nippur Diri,167,sux:taškarin[boxwood]N
+dcclt/Q000057,OB Nippur Diri,168,sux:taškarin[boxwood]N
+dcclt/Q000057,OB Nippur Diri,169,sux:taškarin[boxwood]N akk-x-oldbab:šarru[king]N
+dcclt/Q000057,OB Nippur Diri,170,sux:sugin[rot]N akk-x-oldbab:sumkīnu[rot]N
+dcclt/Q000057,OB Nippur Diri,171,sux:esi[tree]N akk-x-oldbab:ušû[ebony]N
+dcclt/Q000057,OB Nippur Diri,172,sux:ŋešgana[tree]N akk-x-oldbab:kiškanû[(a-tree)]N
+dcclt/Q000057,OB Nippur Diri,173,sux:šennur[plum]N akk-x-oldbab:šallūru[plum]N
+dcclt/Q000057,OB Nippur Diri,174,sux:mes[blackness]N akk-x-oldbab:ṣulmu[blackness]N
+dcclt/Q000057,OB Nippur Diri,175,sux:mes[tree]N akk-x-oldbab:mēsu[(a-type-of-tree)]N
+dcclt/Q000057,OB Nippur Diri,176,sux:mes[tree]N akk-x-oldbab:martû[(a-tree)]N
+dcclt/Q000057,OB Nippur Diri,177,sux:halub[tree]N akk-x-oldbab:haluppu[(a-tree)]N
+dcclt/Q000057,OB Nippur Diri,178,sux:targul[pole]N akk-x-oldbab:tarkullu[wooden-post]N
+dcclt/Q000057,OB Nippur Diri,179,sux:madal[pole]N akk-x-oldbab:erru[ring]N
+dcclt/Q000057,OB Nippur Diri,180,sux:madal[pole]N akk-x-oldbab:muttû[(a-pole)]N
+dcclt/Q000057,OB Nippur Diri,181,sux:mudla[basket]N akk-x-oldbab:maššû[(a-carrying-basket-or-board)]N
+dcclt/Q000057,OB Nippur Diri,182,sux:malalum[container]N akk-x-oldbab:maʾlalu[wooden-mortar]N
+dcclt/Q000057,OB Nippur Diri,183,sux:gazinbu[pole]N akk-x-oldbab:gašīšu[stake]N
+dcclt/Q000057,OB Nippur Diri,184,sux:gidim[device]N akk-x-oldbab:alallû[(device-for-hoisting-water)]N
+dcclt/Q000057,OB Nippur Diri,195,sux:ŋešnu[light]N
+dcclt/Q000057,OB Nippur Diri,196,sux:tir[forest]N akk-x-oldbab:qištu[forest]N
+dcclt/Q000057,OB Nippur Diri,197,sux:pana[bow]N akk-x-oldbab:qaštu[bow]N
+dcclt/Q000057,OB Nippur Diri,198,sux:illar[weapon]N akk-x-oldbab:tilpānu[bow]N
+dcclt/Q000057,OB Nippur Diri,199,sux:ellag[ball]N akk-x-oldbab:pukku[(a-wooden-ring-or-ball)]N
+dcclt/Q000057,OB Nippur Diri,200,sux:ŋizzal[ear]N akk-x-oldbab:nešmû[hearing]N
+dcclt/Q000057,OB Nippur Diri,201,sux:ŋizzal[ear]N
+dcclt/Q000057,OB Nippur Diri,202,sux:ŋizzal[ear]N akk-x-oldbab:hasīsu[ear]N
+dcclt/Q000057,OB Nippur Diri,203,sux:ŋizzal[ear]N
+dcclt/Q000057,OB Nippur Diri,204,sux:ŋeštug[ear]N akk-x-oldbab:uznu[ear]N
+dcclt/Q000057,OB Nippur Diri,205,sux:ŋeštug[ear]N akk-x-oldbab:uznu[ear]N
+dcclt/Q000057,OB Nippur Diri,206,sux:ŋizzal[ear]N akk-x-oldbab:uznu[ear]N
+dcclt/Q000057,OB Nippur Diri,207,sux:ŋizzal[ear]N akk-x-oldbab:hasīsu[ear]N
+dcclt/Q000057,OB Nippur Diri,208,sux:ŋizzal[ear]N
+dcclt/Q000057,OB Nippur Diri,209,sux:ŋizzal[ear]N
+dcclt/Q000057,OB Nippur Diri,210,sux:banšur[table]N akk-x-oldbab:paššuru[table]N
+dcclt/Q000057,OB Nippur Diri,211,sux:ŋušur[beam]N akk-x-oldbab:gušūru[tree-trunk]N
+dcclt/Q000057,OB Nippur Diri,212,
+dcclt/Q000057,OB Nippur Diri,213,sux:amru[beam]N akk-x-oldbab:amrû[beam]N
+dcclt/Q000057,OB Nippur Diri,214,sux:suhub[bolt]N akk-x-oldbab:mēdelu[bolt]N
+dcclt/Q000057,OB Nippur Diri,215,sux:suhub[bolt]N akk-x-oldbab:napraku[bolt]N
+dcclt/Q000057,OB Nippur Diri,216,sux:girah[tool]N akk-x-oldbab:suppīnu[(a-builder´s-tool)]N akk-x-oldbab:itinnu[builder]N
+dcclt/Q000057,OB Nippur Diri,217,sux:ešgiri[staff]N akk-x-oldbab:nēmettu[levy]N akk-x-oldbab:awīlu[man]N
+dcclt/Q000057,OB Nippur Diri,218,sux:ešgiri[staff]N akk-x-oldbab:nēmettu[levy]N akk-x-oldbab:ilu[god]N
+dcclt/Q000057,OB Nippur Diri,219,sux:raba[clamp]N akk-x-oldbab:rappu[hoop]N
+dcclt/Q000057,OB Nippur Diri,220,sux:uluh[sapling]N akk-x-oldbab:perʾu[bud]N
+dcclt/Q000057,OB Nippur Diri,220a,sux:uluh[sapling]N akk-x-oldbab:tarmīku[(a-tree-seedling)]N
+dcclt/Q000057,OB Nippur Diri,220b,sux:uluh[sapling]N akk-x-oldbab:haṭṭu[stick]N
+dcclt/Q000057,OB Nippur Diri,221,sux:gibil[sprout]N akk-x-oldbab:perʾu[bud]N
+dcclt/Q000057,OB Nippur Diri,222,sux:gibil[sprout]N akk-x-oldbab:ṣehru[small-one]N
+dcclt/Q000057,OB Nippur Diri,222a,sux:gibil[sprout]N akk-x-oldbab:meṣherūtu[childhood]N
+dcclt/Q000057,OB Nippur Diri,222b,sux:bilga[fruit]N akk-x-oldbab:inbu[fruit]N
+dcclt/Q000057,OB Nippur Diri,223,sux:kiri[orchard]N akk-x-oldbab:kirû[garden]N
+dcclt/Q000057,OB Nippur Diri,224,sux:isimu[sprout]N akk-x-oldbab:perʾu[bud]N
+dcclt/Q000057,OB Nippur Diri,225,sux:ildag[poplar]N akk-x-oldbab:adāru[(a-tree)]N
+dcclt/Q000057,OB Nippur Diri,226,sux:šinig[tamarisk]N akk-x-oldbab:bīnu[tamarisk]N
+dcclt/Q000057,OB Nippur Diri,227,sux:asal[poplar]N akk-x-oldbab:ṣarbatu[poplar]N
+dcclt/Q000057,OB Nippur Diri,228,sux:mitum[weapon]N akk-x-oldbab:kakku[weapon]N akk-x-oldbab:ilu[god]N
+dcclt/Q000057,OB Nippur Diri,229,sux:mitum[weapon]N akk-x-oldbab:miṭṭu[(a-divine-weapon)]N
+dcclt/Q000057,OB Nippur Diri,230,
+dcclt/Q000057,OB Nippur Diri,231,sux:kuŋ[stair]N akk-x-oldbab:simmiltu[stair(case)]N
+dcclt/Q000057,OB Nippur Diri,232,sux:ad[bush]N akk-x-oldbab:ašāgu[(a-common-spiny-plant)]N
+dcclt/Q000057,OB Nippur Diri,233,sux:tigidlu[instrument]N akk-x-oldbab:tikitlû[lute]N
+dcclt/Q000057,OB Nippur Diri,234,sux:ŋešrin[scales]N akk-x-oldbab:gišrinnu[scales]N
+dcclt/Q000057,OB Nippur Diri,246,
+dcclt/Q000057,OB Nippur Diri,247,
+dcclt/Q000057,OB Nippur Diri,248,
+dcclt/Q000057,OB Nippur Diri,249,sux:gug[tooth]N akk-x-oldbab:šinnu[tooth]N
+dcclt/Q000057,OB Nippur Diri,250,sux:gug[stick]N akk-x-oldbab:kakku[stick]N
+dcclt/Q000057,OB Nippur Diri,251,
+dcclt/Q000057,OB Nippur Diri,252,sux:šuba[stone]N akk-x-oldbab:šubû[(a-semiprecious-stone)]N
+dcclt/Q000057,OB Nippur Diri,253,
+dcclt/Q000057,OB Nippur Diri,254,sux-x-emesal:subad[shepherd]N akk-x-oldbab:rēʾû[shepherd]N
+dcclt/Q000057,OB Nippur Diri,255,sux-x-emesal:subad[shepherd]N
+dcclt/Q000057,OB Nippur Diri,256,sux:nir[stone]N akk-x-oldbab:hulālu[(a-valuable-stone)]N
+dcclt/Q000057,OB Nippur Diri,257,
+dcclt/Q000057,OB Nippur Diri,258,sux:dida[wort]N akk-x-oldbab:billatu[mixture]N
+dcclt/Q000057,OB Nippur Diri,259,akk-x-oldbab:hīqu[diluted-one]N
+dcclt/Q000057,OB Nippur Diri,260,sux:ulušin[beer]N akk-x-oldbab:ulušinnu[date-sweetened-emmer-beer]N
+dcclt/Q000057,OB Nippur Diri,261,sux:imŋaŋa[emmer]N akk-x-oldbab:dišiptuhhu[sweet-beer]N
+dcclt/Q000057,OB Nippur Diri,262,sux:ušuš[land]N akk-x-oldbab:miṭirtu[water-course]N
+dcclt/Q000057,OB Nippur Diri,263,akk-x-oldbab:iṭṭû[bitumen]N
+dcclt/Q000057,OB Nippur Diri,265,sux:šalambi[grass]N akk-x-oldbab:imikkarūru[(a-kind-of-grass)]N
+dcclt/Q000057,OB Nippur Diri,269,sux:sullim[spice]N akk-x-oldbab:šambaliltu[fenugreek]N
+dcclt/Q000057,OB Nippur Diri,270,sux:kutra[plant]N akk-x-oldbab:qudru[(a-plant)]N
+dcclt/Q000057,OB Nippur Diri,271,sux:šimbirida[plant]N akk-x-oldbab:nīnû[(a-medicinal-plant)]N
+dcclt/Q000057,OB Nippur Diri,272,sux:azugna[vegetable]N akk-x-oldbab:azupīru[saffron]N
+dcclt/Q000057,OB Nippur Diri,273,sux:gamun[cumin]N akk-x-oldbab:kamūnu[cumin]N
+dcclt/Q000057,OB Nippur Diri,274,sux:sumundar[beetroot]N akk-x-oldbab:šumuttu[(a-red-vegetable)]N
+dcclt/Q000057,OB Nippur Diri,286,akk-x-oldbab:utnēnu[supplication]N
+dcclt/Q000057,OB Nippur Diri,287,sux:er[tears]N akk-x-oldbab:dimtu[tear]N
+dcclt/Q000057,OB Nippur Diri,288,sux:er[tears]N akk-x-oldbab:bikītu[weeping]N
+dcclt/Q000057,OB Nippur Diri,289,sux:er[tears]N akk-x-oldbab:taqribtu[(a-ritual)]N
+dcclt/Q000057,OB Nippur Diri,290,sux:er[tears]N akk-x-oldbab:gerrānu[wailing]N
+dcclt/Q000057,OB Nippur Diri,291,sux:er[tears]N akk-x-oldbab:tānēhu[moaning]N
+dcclt/Q000057,OB Nippur Diri,292,sux:er[tears]N akk-x-oldbab:ṣīhtu[laughter]N
+dcclt/Q000057,OB Nippur Diri,298,sux:agar[lead]N akk-x-oldbab:abāru[lead]N
+dcclt/Q000057,OB Nippur Diri,299,sux:ugu[skull]N akk-x-oldbab:muhhu[skull]N
+dcclt/Q000057,OB Nippur Diri,300,sux:ugu[skull]N
+dcclt/Q000057,OB Nippur Diri,301,sux:ugu[skull]N akk-x-oldbab:ṣēru[back]N
+dcclt/Q000057,OB Nippur Diri,302,sux:eša[flour]N akk-x-oldbab:saskû[(a-fine-flour)]N
+dcclt/Q000057,OB Nippur Diri,303,
+dcclt/Q000057,OB Nippur Diri,304,
+dcclt/Q000057,OB Nippur Diri,305,
+dcclt/Q000057,OB Nippur Diri,306,
+dcclt/Q000057,OB Nippur Diri,307,
+dcclt/Q000057,OB Nippur Diri,308,
+dcclt/Q000057,OB Nippur Diri,309,sux:a[arm]N
+dcclt/Q000057,OB Nippur Diri,310,
+dcclt/Q000057,OB Nippur Diri,311,
+dcclt/Q000057,OB Nippur Diri,312,sux:pa[branch]N
+dcclt/Q000057,OB Nippur Diri,313,
+dcclt/Q000057,OB Nippur Diri,314,
+dcclt/Q000057,OB Nippur Diri,315,sux:ara[times]N akk-x-oldbab:ṭēmu[(fore)thought]N
+dcclt/Q000057,OB Nippur Diri,316,sux:ara[times]N akk-x-oldbab:alaktu[way]N
+dcclt/Q000057,OB Nippur Diri,317,sux:ara[times]N akk-x-oldbab:arû[calculation]N
+dcclt/Q000057,OB Nippur Diri,319,sux:emerah[jug]N akk-x-oldbab:kūtu[jug]N
+dcclt/Q000057,OB Nippur Diri,320,sux:buniŋ[trough]N akk-x-oldbab:buginnu[bucket]N
+dcclt/Q000057,OB Nippur Diri,321,sux:zabar[bronze]N akk-x-oldbab:siparru[bronze]N
+dcclt/Q000057,OB Nippur Diri,322,sux:zabar[bronze]N akk-x-oldbab:kakku[weapon]N
+dcclt/Q000057,OB Nippur Diri,323,sux:zabar[bronze]N akk-x-oldbab:qû[unit]N
+dcclt/Q000057,OB Nippur Diri,324,
+dcclt/Q000057,OB Nippur Diri,325,sux:arabu[bird]N akk-x-oldbab:usābu[(a-bird)]N
+dcclt/Q000057,OB Nippur Diri,326,
+dcclt/Q000057,OB Nippur Diri,327,
+dcclt/Q000057,OB Nippur Diri,328,
+dcclt/Q000057,OB Nippur Diri,329,
+dcclt/Q000057,OB Nippur Diri,330,sux:abbununnu[dark-day]N akk-x-oldbab:ūmu[day]N
+dcclt/Q000057,OB Nippur Diri,331,sux:abbununnu[dark-day]N akk-x-oldbab:namtallû[(solar;-lunar)-eclipse]N
+dcclt/Q000057,OB Nippur Diri,332,
+dcclt/Q000057,OB Nippur Diri,333,
+dcclt/Q000057,OB Nippur Diri,334,
+dcclt/Q000057,OB Nippur Diri,339,sux:addir[hire]N
+dcclt/Q000057,OB Nippur Diri,340,sux:addir[hire]N akk-x-oldbab:igru[hire]N
+dcclt/Q000057,OB Nippur Diri,341,sux:addir[ford]N akk-x-oldbab:nēberu[crossing]N
+dcclt/Q000057,OB Nippur Diri,342,sux:addir[hire]N akk-x-oldbab:išdihu[profit(able-business)]N
+dcclt/Q000057,OB Nippur Diri,343,akk-x-oldbab:kuṣṣu[coldness]N
+dcclt/Q000057,OB Nippur Diri,344,sux:mabi[frost]N akk-x-oldbab:mammû[frost]N
+dcclt/Q000057,OB Nippur Diri,345,sux:halba[frost]N akk-x-oldbab:šurīpu[ice]N
+dcclt/Q000057,OB Nippur Diri,346,
+dcclt/Q000057,OB Nippur Diri,347,
+dcclt/Q000057,OB Nippur Diri,349,
+dcclt/Q000057,OB Nippur Diri,350,
+dcclt/Q000057,OB Nippur Diri,351,
+dcclt/Q000057,OB Nippur Diri,352,
+dcclt/Q000057,OB Nippur Diri,353,
+dcclt/Q000057,OB Nippur Diri,358,sux:ŋarza[rites]N akk-x-oldbab:parṣu[office]N akk-x-oldbab:šarru[king]N
+dcclt/Q000057,OB Nippur Diri,359,sux:ŋarza[rites]N akk-x-oldbab:parṣu[office]N akk-x-oldbab:ilu[god]N
+dcclt/Q000057,OB Nippur Diri,360,sux:biluda[rituals]N akk-x-oldbab:pelludû[cult(ic-rites)]N
+dcclt/Q000057,OB Nippur Diri,361,sux:biluda[rituals]N akk-x-oldbab:upšaššû[(magical)-procedure(s)]N
+dcclt/Q000057,OB Nippur Diri,362,sux:šabra[administrator]N akk-x-oldbab:šabrû[(a-temple-official)]N akk-x-oldbab:alpu[bull]N
+dcclt/Q000057,OB Nippur Diri,363,sux:šabra[administrator]N akk-x-oldbab:šabrû[(a-temple-official)]N akk-x-oldbab:immeru[sheep]N
+dcclt/Q000057,OB Nippur Diri,364,sux:udul[herdsman]N akk-x-oldbab:utullu[chief-herdsman]N akk-x-oldbab:alpu[bull]N
+dcclt/Q000057,OB Nippur Diri,365,sux:udul[herdsman]N akk-x-oldbab:utullu[chief-herdsman]N akk-x-oldbab:immeru[sheep]N
+dcclt/Q000057,OB Nippur Diri,366,sux:luŋa[damage]N akk-x-oldbab:šillatu[impudence]N
+dcclt/Q000057,OB Nippur Diri,367,sux:luŋa[damage]N
+dcclt/Q000057,OB Nippur Diri,368,sux:maškim[administrator]N akk-x-oldbab:rābiṣu[lurker]N
+dcclt/Q000057,OB Nippur Diri,369,
+dcclt/Q000057,OB Nippur Diri,370,
+dcclt/Q000057,OB Nippur Diri,371,
+dcclt/Q000057,OB Nippur Diri,373,sux:hursaŋ[barber]N akk-x-oldbab:gallābu[barber]N
+dcclt/Q000057,OB Nippur Diri,374,sux:saŋ[head]N akk-x-oldbab:šeriktu[present]N
+dcclt/Q000057,OB Nippur Diri,375,sux:saŋ[head]N
+dcclt/Q000057,OB Nippur Diri,Seg.1; 1,sux:atua[lustration]N akk-x-oldbab:rimku[bath]N
+dcclt/Q000057,OB Nippur Diri,Seg.1; 2,sux:a[water]N akk-x-oldbab:risnu[soaking]N
+dcclt/Q000057,OB Nippur Diri,Seg.1; 3,sux:tu[bath?]N akk-x-oldbab:hītu[(a-bathing-place)?]N
+dcclt/Q000057,OB Nippur Diri,Seg.1; 4,sux:ŋešpu[wrestling]N akk-x-oldbab:umāšu[grappling-hook]N
+dcclt/Q000057,OB Nippur Diri,Seg.1; 5,sux:lirum[strength]N akk-x-oldbab:abāru[(a-kind-of-clamp)]N
+dcclt/Q000057,OB Nippur Diri,Seg.2; 1,sux:digbir[unmng]N akk-x-oldbab:azuru[meaning-unknown]N akk-x-oldbab:pēmtu[charcoal]N
+dcclt/Q000057,OB Nippur Diri,Seg.2; 2,sux:ki[place]N akk-x-oldbab:mātu[land]N
+dcclt/Q000057,OB Nippur Diri,Seg.2; 3,sux:šakanka[market]N akk-x-oldbab:mahīru[price]N
+dcclt/Q000057,OB Nippur Diri,Seg.2; 4,sux:kinud[bedroom]N akk-x-oldbab:mayyālu[bed]N
+dcclt/Q000057,OB Nippur Diri,Seg.2; 5,sux:eššeb[landscape]N
+dcclt/Q000057,OB Nippur Diri,Seg.2; 6,
+dcclt/Q000057,OB Nippur Diri,Seg.2; 7,sux:kituš[dwelling]N akk-x-oldbab:šubtu[seat]N
+dcclt/Q000057,OB Nippur Diri,Seg.2; 8,sux:kituš[dwelling]N akk-x-oldbab:mūšabu[dwelling]N
+dcclt/Q000057,OB Nippur Diri,Seg.2; 9,sux:kituš[dwelling]N akk-x-oldbab:tarbaṣu[animal-stall]N
+dcclt/Q000057,OB Nippur Diri,Seg.2; 10,sux:sur[ditch]N akk-x-oldbab:bērūtu[mound]N
+dcclt/Q000057,OB Nippur Diri,Seg.2; 11,sux:KI.LUGAL.DU[locus]N akk-x-oldbab:alallu[(a-stone)]N
+dcclt/Q000057,OB Nippur Diri,Seg.3; 1,sux:E₂.UŠ.BU.DA[storehouse]N akk-x-oldbab:našpaku[storage-vessel]N
+dcclt/Q000057,OB Nippur Diri,Seg.3; 2,sux:ašlug[storeroom]N akk-x-oldbab:ašlukkatu[storeroom]N
+dcclt/Q000057,OB Nippur Diri,Seg.3; 3,sux:arah[storehouse]N akk-x-oldbab:arahhu[storehouse]N
+dcclt/Q000057,OB Nippur Diri,Seg.3; 4,sux:šutum[storehouse]N akk-x-oldbab:šutummu[storehouse]N
+dcclt/Q000057,OB Nippur Diri,Seg.3; 5,sux:abgal[sage]N akk-x-oldbab:apkallu[wise-man]N
+dcclt/Q000057,OB Nippur Diri,Seg.3; 6,sux:abrig[functionary]N akk-x-oldbab:abarikku[divine-title]N
+dcclt/Q000057,OB Nippur Diri,Seg.3; 7,sux:algameš[stone]N akk-x-oldbab:algamišu[(a-kind-of-stone)]N
+dcclt/Q000057,OB Nippur Diri,Seg.3; 8,akk-x-oldbab:bītu[house]N
+dcclt/Q000057,OB Nippur Diri,Seg.3; 9,sux:agrun[cella]N
+dcclt/Q000057,OB Nippur Diri,Seg.3; 13,sux:enkum[treasurer]N
+dcclt/Q000057,OB Nippur Diri,Seg.3; 14,sux:nenkum[official]N
+dcclt/Q000057,OB Nippur Diri,Seg.4; 1,sux:kadra[gift]N akk-x-oldbab:ṭātu[bribe]N
+dcclt/Q000057,OB Nippur Diri,Seg.4; 2,sux:kadra[gift]N akk-x-oldbab:kadrû[present]N
+dcclt/Q000057,OB Nippur Diri,Seg.4; 3,sux:nindaba[offering]N akk-x-oldbab:nindabû[(food)-offering]N
+dcclt/Q000057,OB Nippur Diri,Seg.4; 4,sux:nindaba[offering]N akk-x-oldbab:taklimtu[revelation]N
+dcclt/Q000057,OB Nippur Diri,Seg.4; 5,
+dcclt/Q000057,OB Nippur Diri,Seg.4; 6,
+dcclt/Q000057,OB Nippur Diri,Seg.4; 7,
+dcclt/Q000057,OB Nippur Diri,Seg.4; 8,
+dcclt/Q000057,OB Nippur Diri,Seg.4; 9,
+dcclt/Q000057,OB Nippur Diri,Seg.4; 10,
+dcclt/Q000057,OB Nippur Diri,Seg.4; 11,
+dcclt/Q000057,OB Nippur Diri,Seg.4; 12,sux:engiz[cook]N akk-x-oldbab:nuhatimmu[cook]N
+dcclt/Q000057,OB Nippur Diri,Seg.4; 13,sux:engiz[cook]N akk-x-oldbab:sīrāšû[brewer]N
+dcclt/Q000057,OB Nippur Diri,Seg.4; 14,sux:ensi[interpreter]N akk-x-oldbab:šāʾilu[asker]N
+dcclt/Q000057,OB Nippur Diri,Seg.4; 15,akk-x-oldbab:mehû[storm]N akk-x-oldbab:šūtu[south]N
+dcclt/Q000057,OB Nippur Diri,Seg.4; 16,akk-x-oldbab:mehû[storm]N akk-x-oldbab:ištānu[north]N
+dcclt/Q000057,OB Nippur Diri,Seg.5; 1,sux:henbur[stalk]N akk-x-oldbab:niplu[shoot]N
+dcclt/Q000057,OB Nippur Diri,Seg.5; 2,sux:lillan[grain]N akk-x-oldbab:lilliannu[stalk-with-ripe-ears]N
+dcclt/Q000057,OB Nippur Diri,Seg.5; 4,akk-x-oldbab:abahšinnu[stalk]N
+dcclt/Q000057,OB Nippur Diri,Seg.6; 2,sux:hamanzer[hair]N akk-x-oldbab:mušāṭu[combed-out-hair]N
+dcclt/Q000057,OB Nippur Diri,Seg.6; 3,sux:lud[tableware]N akk-x-oldbab:luṭṭu[(a-cup-or-bowl)]N
+dcclt/Q000057,OB Nippur Diri,Seg.6; 4,sux:sikin[container]N akk-x-oldbab:šikinnu[(container-for-oils)]N
+dcclt/Q000057,OB Nippur Diri,Seg.6; 5,sux:lud[tableware]N akk-x-oldbab:nalpattu[given-value]N
+dcclt/Q000057,OB Nippur Diri,Seg.6; 6,sux:urrub[vessel]N akk-x-oldbab:hurhuppu[(a-vessel-with-knobs)?]N
+dcclt/Q000057,OB Nippur Diri,Seg.6; 7,sux:zurzub[vessel]N akk-x-oldbab:ṣurṣuppu[(a-container-with-knobs)]N
+dcclt/Q000057,OB Nippur Diri,Seg.6; 8,sux:silim[vessel]N akk-x-oldbab:hubšašû[(a-pottery-vessel)]N
+dcclt/Q000057,OB Nippur Diri,Seg.6; 9,sux:dida[wort]N akk-x-oldbab:billatu[mixture]N
+dcclt/Q000057,OB Nippur Diri,Seg.6; 10,sux:kurun[beer]N akk-x-oldbab:kurunnu[(a-kind-of-beer)]N
+dcclt/Q000057,OB Nippur Diri,Seg.6; 11,sux:lukurunak[brewer]N akk-x-oldbab:sābû[brewer]N
+dcclt/Q000057,OB Nippur Diri,Seg.6; 12,sux:kurun[beer]N akk-x-oldbab:šikaru[beer]N
+dcclt/Q000057,OB Nippur Diri,Seg.6; 13,sux:kurun[beer]N akk-x-oldbab:daʾmu[dark-one]N
+dcclt/Q000057,OB Nippur Diri,Seg.6; 14,sux:ulušin[beer]N akk-x-oldbab:ulušinnu[date-sweetened-emmer-beer]N
+dcclt/Q000057,OB Nippur Diri,Seg.6; 15,sux:ulušin[beer]N akk-x-oldbab:dišiptuhhu[sweet-beer]N
+dcclt/Q000057,OB Nippur Diri,Seg.6; 16,sux:dur[donkey]N akk-x-oldbab:agālu[donkey]N
+dcclt/Q000057,OB Nippur Diri,Seg.6; 17,sux:šakkanak[general]N akk-x-oldbab:šakkanakku[(military)-governor]N
+dcclt/Q000057,OB Nippur Diri,Seg.6; 19,sux:eme[donkey]N akk-x-oldbab:atānu[she-ass]N
+dcclt/Q000057,OB Nippur Diri,Seg.6; 20,
+dcclt/Q000057,OB Nippur Diri,Seg.6; 21,
+dcclt/Q000057,OB Nippur Diri,Seg.6; 22,
+dcclt/Q000057,OB Nippur Diri,Seg.6; 23,sux:ibila[heir]N akk-x-oldbab:aplu[heir]N
+dcclt/Q000057,OB Nippur Diri,Seg.6; 24,
+dcclt/Q000057,OB Nippur Diri,Seg.6; 25,
+dcclt/Q000057,OB Nippur Diri,Seg.6; 26,sux:banda[sagacity]N akk-x-oldbab:riddu[(good)-conduct]N
+dcclt/Q000057,OB Nippur Diri,Seg.6; 27,
+dcclt/Q000057,OB Nippur Diri,Seg.6; 28,sux:banda[sagacity]N akk-x-oldbab:tašīmtu[discernment]N
+dcclt/Q000057,OB Nippur Diri,Seg.6; 29,akk-x-oldbab:ṣehru[small-one]N
+dcclt/Q000057,OB Nippur Diri,Seg.6; 30,sux:dabin[semolina]N akk-x-oldbab:tappinnu[(a-kind-of-flour)]N
+dcclt/Q000057,OB Nippur Diri,Seg.6; 31,sux:zidmilla[flour]N akk-x-oldbab:kukkušu[(a-low-quality-flour)]N
+dcclt/Q000057,OB Nippur Diri,Seg.7; 1,sux:mud[tube]N akk-x-oldbab:uppu[tube]N
+dcclt/Q000057,OB Nippur Diri,Seg.7; 2,
+dcclt/Q000057,OB Nippur Diri,Seg.7; 3,sux:mud[blood]N akk-x-oldbab:dāmu[blood]N
+dcclt/Q000057,OB Nippur Diri,Seg.7; 4,
+dcclt/Q000057,OB Nippur Diri,Seg.7; 5,sux:mušendu[bird-catcher]N akk-x-oldbab:usandû[bird-catcher]N
+dcclt/Q000057,OB Nippur Diri,Seg.7; 6,sux:mušendu[bird-catcher]N
+dcclt/Q000057,OB Nippur Diri,Seg.7; 7,
+dcclt/Q000057,OB Nippur Diri,Seg.7; 8,
+dcclt/Q000057,OB Nippur Diri,Seg.7; 9,akk-x-oldbab:šuwû[meaning-unknown]N
+dcclt/Q000057,OB Nippur Diri,Seg.7; 10,
+dcclt/Q000057,OB Nippur Diri,Seg.7; 11,sux:ursaŋsim[sparrow]N akk-x-oldbab:ṣibāru[sparrow]N
+dcclt/Q000057,OB Nippur Diri,Seg.7; 12,sux:bizazagubalaŋdikargirzana[bird]N akk-x-oldbab:aškikītu[(a-bird)]N
+dcclt/Q000057,OB Nippur Diri,Seg.7; 13,sux:arak[bird]N akk-x-oldbab:awurriqānu[jaundice]N
+dcclt/Q000057,OB Nippur Diri,Seg.7; 14,sux:erim[enemy]N akk-x-oldbab:raggu[wicked-one]N
+dcclt/Q000057,OB Nippur Diri,Seg.7; 15,sux:erim[enemy]N akk-x-oldbab:ayyābu[enemy]N
+dcclt/Q000057,OB Nippur Diri,Seg.7; 16,sux:erim[enemy]N
+dcclt/Q000057,OB Nippur Diri,Seg.7; 17,sux:erim[enemy]N
+dcclt/Q000057,OB Nippur Diri,Seg.7; 19,sux:aŋarin[matrix]N akk-x-oldbab:agarinnu[womb]N
+dcclt/Q000057,OB Nippur Diri,Seg.7; 20,sux:amalug[priestess]N akk-x-oldbab:amalītu[(a-cultic-functionary)]N
+dcclt/Q000057,OB Nippur Diri,Seg.7; 21,sux:amaʾatud[slave]N akk-x-oldbab:dušmû[slave-born-in-the-house]N
+dcclt/Q000057,OB Nippur Diri,Seg.7; 22,sux:amaʾatud[slave]N akk-x-oldbab:wardu[slave]N
+dcclt/Q000057,OB Nippur Diri,Seg.7; 23,sux:amagan[mother]N akk-x-oldbab:ummu[mother]N akk-x-oldbab:wālittu[one-who-gives-birth]N
+dcclt/Q000057,OB Nippur Diri,Seg.7; 24,sux:amagan[mother]N akk-x-oldbab:imikānu[(female-animal-that-has-given-birth)]N
+dcclt/Q000057,OB Nippur Diri,Seg.7; 25,sux:enkud[tax-collector]N akk-x-oldbab:mākisu[tax-collector]N
+dcclt/Q000057,OB Nippur Diri,Seg.7; 26,sux:zag[side]N akk-x-oldbab:būdu[shoulder]N
+dcclt/Q000057,OB Nippur Diri,Seg.7; 27,sux:dalla[ring]N
+dcclt/Q000057,OB Nippur Diri,Seg.7; 28,sux:dalla[ring]N akk-x-oldbab:mammu[tiara]N
+dcclt/Q000057,OB Nippur Diri,Seg.7; 29,sux:mašgaʾen[status]N akk-x-oldbab:muškēnu[dependant]N
+dcclt/Q000057,OB Nippur Diri,Seg.7; 30,sux:garaš[leek]N akk-x-oldbab:karašu[leek]N
+dcclt/Q000057,OB Nippur Diri,Seg.7; 31,sux:gaʾeš[trader]N akk-x-oldbab:kaʾiššu[travelling-merchant]N
+dcclt/Q000057,OB Nippur Diri,Seg.7; 32,sux:idu[doorkeeper]N akk-x-oldbab:atû[gatekeeper]N
+dcclt/Q000057,OB Nippur Diri,Seg.7; 33,sux:lib[fat]N akk-x-oldbab:lipiu[(animal)-fat]N
+dcclt/Q000057,OB Nippur Diri,Seg.7; 34,sux:esi[diorite]N akk-x-oldbab:abnu[stone]N
+dcclt/Q000057,OB Nippur Diri,Seg.7; 35,sux:esi[diorite]N akk-x-oldbab:ušû[diorite]N
+dcclt/Q000057,OB Nippur Diri,Seg.8; 1,sux:unu[cheek]N akk-x-oldbab:lētu[cheek]N
+dcclt/Q000057,OB Nippur Diri,Seg.8; 2,sux:unu[cheek]N akk-x-oldbab:usukku[temple]N
+dcclt/Q000057,OB Nippur Diri,Seg.8; 3,sux:unu[dwelling]N akk-x-oldbab:šubtu[seat]N
+dcclt/Q000057,OB Nippur Diri,Seg.8; 4,sux:unu[cheek]N akk-x-oldbab:šikkatu[harrowed-(land)]N
+dcclt/Q000057,OB Nippur Diri,Seg.8; 5,sux:unu[meal]N akk-x-oldbab:naptanu[meal(-time)]N
+dcclt/Q000057,OB Nippur Diri,Seg.8; 6,
+dcclt/Q000057,OB Nippur Diri,Seg.8; 7,
+dcclt/Q000057,OB Nippur Diri,Seg.8; 8,
+dcclt/Q000057,OB Nippur Diri,Seg.8; 9,sux:azlag[fuller]N akk-x-oldbab:ašlāku[washerman]N
+dcclt/Q000057,OB Nippur Diri,Seg.9; 2,
+dcclt/Q000057,OB Nippur Diri,Seg.9; 3,akk-x-oldbab:tanattu[praise]N
+dcclt/Q000057,OB Nippur Diri,Seg.9; 4,
+dcclt/Q000057,OB Nippur Diri,Seg.9; 5,sux:ummud[waterskin]N akk-x-oldbab:nādu[(water-)skin]N
+dcclt/Q000057,OB Nippur Diri,Seg.9; 6,sux:buru[bird]N akk-x-oldbab:erēbu[rook]N
+dcclt/Q000057,OB Nippur Diri,Seg.9; 7,akk-x-oldbab:nakkamtu[treasure]N
+dcclt/Q000057,OB Nippur Diri,Seg.9; 8,sux:ad.KID[weaver]N akk-x-oldbab:atkuppu[reed-worker]N
+dcclt/Q000057,OB Nippur Diri,Seg.9; 9,sux:dimma[thought]N akk-x-oldbab:ṭēmu[(fore)thought]N
+dcclt/Q000057,OB Nippur Diri,Seg.9; 10,sux:duga[command]N akk-x-oldbab:qibītu[speech]N
+dcclt/Q000057,OB Nippur Diri,Seg.9; 11,sux:kurku[wish]N
+dcclt/Q000057,OB Nippur Diri,Seg.9; 12,
+dcclt/Q000057,OB Nippur Diri,Seg.9; 13,sux:banda[stanchion]N akk-x-oldbab:takšīru[repair]N
+dcclt/Q000057,OB Nippur Diri,Seg.9; 14,sux:uru[support]N akk-x-oldbab:imdu[support]N
+dcclt/Q000057,OB Nippur Diri,Seg.9; 15,sux:banda[stanchion]N akk-x-oldbab:tēru[(an-architectural-term)]N
+dcclt/Q000057,OB Nippur Diri,Seg.9; 16,sux:guhšu[altar]N akk-x-oldbab:šubtu[seat]N akk-x-oldbab:diqāru[large-bowl]N
+dcclt/Q000057,OB Nippur Diri,Seg.9; 17,sux:nemur[leopard]N akk-x-oldbab:nimru[leopard]N
+dcclt/Q000057,OB Nippur Diri,Seg.9; 18,sux:madal[pole]N akk-x-oldbab:nīru[yoke]N
+dcclt/Q000057,OB Nippur Diri,Seg.9; 19,sux:mudur[dirt]N
+dcclt/Q000057,OB Nippur Diri,Seg.9; 20,sux:madal[pole]N
+dcclt/Q000057,OB Nippur Diri,Seg.9; 21,sux:mašda[gazelle]N akk-x-oldbab:ṣabītu[gazelle]N
+dcclt/Q000057,OB Nippur Diri,Seg.9; 22,sux:mašgaʾen[status]N akk-x-oldbab:muškēnu[dependant]N
+dcclt/Q000057,OB Nippur Diri,Seg.9; 24,akk-x-oldbab:muʾerru[leader-(of-an-assembly)]N
+dcclt/Q000057,OB Nippur Diri,Seg.9; 31,akk-x-oldbab:uturtu[excess]N
+dcclt/Q000057,OB Nippur Diri,Seg.9; 32,akk-x-oldbab:takšītu[profit]N
+dcclt/Q000057,OB Nippur Diri,Seg.9; 33,
+dcclt/Q000057,OB Nippur Diri,Seg.9; 34,akk-x-oldbab:šadû[mountain]N
+dcclt/Q000057,OB Nippur Diri,Seg.9; 35,
+dcclt/Q000057,OB Nippur Diri,Seg.9; 36,akk-x-oldbab:šadû[mountain]N
+dcclt/Q000057,OB Nippur Diri,Seg.9; 37,
+dcclt/Q000057,OB Nippur Diri,Seg.9; 38,
+dcclt/Q000057,OB Nippur Diri,Seg.9; 39,sux:saŋšu[turban]N akk-x-oldbab:kubšu[headcloth]N
+dcclt/Q000057,OB Nippur Diri,Seg.9; 40,sux:ummud[waterskin]N akk-x-oldbab:nādu[(water-)skin]N
+dcclt/Q000057,OB Nippur Diri,Seg.9; 41,sux:guru[shield]N akk-x-oldbab:misarru[belt]N
+dcclt/Q000057,OB Nippur Diri,Seg.9; 42,sux:guru[shield]N akk-x-oldbab:ašītu[metal-band]N
+dcclt/Q000057,OB Nippur Diri,Seg.9; 42a,sux:kurgi[goose]N akk-x-oldbab:kurkû[goose]N
+dcclt/Q000057,OB Nippur Diri,Seg.9; 43,sux:lub[bag]N akk-x-oldbab:luppu[(a-leather-bag)]N
+dcclt/Q000057,OB Nippur Diri,Seg.9; 44,
+dcclt/Q000057,OB Nippur Diri,Seg.9; 45,
+dcclt/Q000057,OB Nippur Diri,Seg.9; 46,
+dcclt/Q000057,OB Nippur Diri,Seg.9; 47,
+dcclt/Q000057,OB Nippur Diri,Seg.9; 48,
+dcclt/Q000057,OB Nippur Diri,Seg.9; 49,
+dcclt/Q000057,OB Nippur Diri,Seg.9; 50,
+dcclt/Q000057,OB Nippur Diri,Seg.9; 51,
+dcclt/Q000057,OB Nippur Diri,Seg.9; 52,
+dcclt/Q000057,OB Nippur Diri,Seg.9; 53,sux:anna[metal]N akk-x-oldbab:annaku[tin]N
+dcclt/Q000057,OB Nippur Diri,Seg.9; 54,sux:anzah[glass]N akk-x-oldbab:anzahhu[(a-kind-of-glass)]N
+dcclt/Q000057,OB Nippur Diri,Seg.9; 55,sux:anbar[mid-day]N akk-x-oldbab:muṣlālu[siesta(-time)]N
+dcclt/Q000057,OB Nippur Diri,Seg.9; 56,sux:anbar[mid-day]N akk-x-oldbab:kararû[midday-heat]N
+dcclt/Q000057,OB Nippur Diri,Seg.9; 57,sux:diŋir[deity]N akk-x-oldbab:ilu[god]N
+dcclt/Q000057,OB Nippur Diri,Seg.9; 58,akk-x-oldbab:ilu[god]N
+dcclt/Q000057,OB Nippur Diri,Seg.9; 59,akk-x-oldbab:ilu[god]N
+dcclt/Q000057,OB Nippur Diri,Seg.9; 60,
+dcclt/Q000057,OB Nippur Diri,Seg.9; 61,
+dcclt/Q000057,OB Nippur Diri,Seg.9; 62,
+dcclt/Q000057,OB Nippur Diri,Seg.9; 63,
+dcclt/Q000057,OB Nippur Diri,Seg.9; 64,
+dcclt/Q000057,OB Nippur Diri,Seg.10; 2,
+dcclt/Q000057,OB Nippur Diri,Seg.10; 4,
+dcclt/Q000057,OB Nippur Diri,Seg.10; 5,
+dcclt/Q000057,OB Nippur Diri,Seg.10; 6,
+dcclt/Q000057,OB Nippur Diri,Seg.10; 7,
+dcclt/Q000057,OB Nippur Diri,Seg.10; 8,
+dcclt/Q000057,OB Nippur Diri,Seg.10; 9,
+dcclt/Q000057,OB Nippur Diri,Seg.10; 10,
+dcclt/Q000057,OB Nippur Diri,Seg.10; 11,
+dcclt/Q000057,OB Nippur Diri,Seg.10; 12,
+dcclt/Q000057,OB Nippur Diri,Seg.10; 13,
+dcclt/Q000057,OB Nippur Diri,Seg.10; 14,
+dcclt/Q000057,OB Nippur Diri,Seg.10; 15,
+dcclt/Q000057,OB Nippur Diri,Seg.10; 16,
+dcclt/Q000057,OB Nippur Diri,Seg.10; 17,
+dcclt/Q000057,OB Nippur Diri,Seg.10; 18,
+dcclt/Q000057,OB Nippur Diri,Seg.10; 19,akk-x-oldbab:eqlu[field]N
+dcclt/Q000057,OB Nippur Diri,Seg.10; 20,
+dcclt/Q000057,OB Nippur Diri,Seg.10; 21,akk-x-oldbab:nagbu[underground-water]N
+dcclt/Q000057,OB Nippur Diri,Seg.10; 22,
+dcclt/Q000057,OB Nippur Diri,Seg.10; 23,
+dcclt/Q000057,OB Nippur Diri,Seg.10; 24,
+dcclt/Q000057,OB Nippur Diri,Seg.10; 25,
+dcclt/Q000057,OB Nippur Diri,Seg.10; 26,
+dcclt/Q000057,OB Nippur Diri,Seg.10; 27,
+dcclt/Q000057,OB Nippur Diri,Seg.10; 28,
+dcclt/Q000057,OB Nippur Diri,Seg.10; 29,
+dcclt/Q000057,OB Nippur Diri,Seg.10; 30,
+dcclt/Q000057,OB Nippur Diri,Seg.10; 31,
+dcclt/Q000057,OB Nippur Diri,Seg.10; 32,
+dcclt/Q000057,OB Nippur Diri,Seg.10; 33,
+dcclt/Q000057,OB Nippur Diri,Seg.10; 34,
+dcclt/Q000057,OB Nippur Diri,Seg.10; 35,sux:bibra[vessel]N akk-x-oldbab:bibrû[(a-bird)]N
+dcclt/Q000057,OB Nippur Diri,Seg.10; 36,sux:udug[demon]N akk-x-oldbab:utukku[(an-evil-demon)]N
+dcclt/Q000057,OB Nippur Diri,Seg.10; 37,sux:šedu[spirit]N akk-x-oldbab:šēdu[protective-deity]N
+dcclt/Q000057,OB Nippur Diri,Seg.10; 38,sux:usan[evening]N akk-x-oldbab:līliātu[evening]N
+dcclt/Q000057,OB Nippur Diri,Seg.10; 39,
+dcclt/Q000057,OB Nippur Diri,Seg.10; 40,
+dcclt/Q000057,OB Nippur Diri,Seg.10; 41,
+dcclt/Q000057,OB Nippur Diri,Seg.10; 42,
+dcclt/Q000057,OB Nippur Diri,Seg.10; 43,
+dcclt/Q000057,OB Nippur Diri,Seg.10; 44,
+dcclt/Q000057,OB Nippur Diri,Seg.10; 45,
+dcclt/Q000057,OB Nippur Diri,Seg.10; 46,
+dcclt/Q000057,OB Nippur Diri,Seg.10; 47,
+dcclt/Q000057,OB Nippur Diri,Seg.10; 48,
+dcclt/Q000057,OB Nippur Diri,Seg.10; 49,
+dcclt/Q000057,OB Nippur Diri,Seg.10; 50,
+dcclt/Q000057,OB Nippur Diri,Seg.10; 51,
+dcclt/Q000057,OB Nippur Diri,Seg.10; 52,
+dcclt/Q000057,OB Nippur Diri,Seg.10; 53,sux:diŋir[deity]N akk-x-oldbab:ilu[god]N
+dcclt/Q000057,OB Nippur Diri,Seg.11; 1,
+dcclt/Q000057,OB Nippur Diri,Seg.11; 2,
+dcclt/Q000057,OB Nippur Diri,Seg.11; 3,
+dcclt/Q000057,OB Nippur Diri,Seg.11; 4,
+dcclt/Q000057,OB Nippur Diri,Seg.11; 5,
+dcclt/Q000057,OB Nippur Diri,Seg.11; 6,
+dcclt/Q000057,OB Nippur Diri,Seg.11; 7,
+dcclt/Q000057,OB Nippur Diri,Seg.11; 8,
+dcclt/Q000057,OB Nippur Diri,Seg.11; 9,
+dcclt/Q000057,OB Nippur Diri,Seg.11; 10,
+dcclt/Q000057,OB Nippur Diri,Seg.11; 11,
+dcclt/Q000057,OB Nippur Diri,Seg.11; 12,
+dcclt/Q000057,OB Nippur Diri,Seg.11; 13,
+dcclt/Q000057,OB Nippur Diri,Seg.11; 14,
+dcclt/Q000057,OB Nippur Diri,Seg.11; 15,
+dcclt/Q000057,OB Nippur Diri,Seg.11; 16,
+dcclt/Q000057,OB Nippur Diri,Seg.11; 17,
+dcclt/Q000057,OB Nippur Diri,Seg.11; 18,
+dcclt/Q000057,OB Nippur Diri,Seg.11; 19,akk-x-oldbab:hallulāya[centipede]N
+dcclt/Q000057,OB Nippur Diri,Seg.11; 20,akk-x-oldbab:iškarissu[(a-kind-of-rodent)]N
+dcclt/Q000057,OB Nippur Diri,Seg.11; 21,sux:tilla[street]N akk-x-oldbab:sūqu[street]N
+dcclt/Q000057,OB Nippur Diri,Seg.11; 22,sux:tilla[street]N akk-x-oldbab:rebītu[square]N
+dcclt/Q000057,OB Nippur Diri,Seg.11; 23,
+dcclt/Q000057,OB Nippur Diri,Seg.11; 24,
+dcclt/Q000057,OB Nippur Diri,Seg.11; 25,
+dcclt/Q000057,OB Nippur Diri,Seg.11; 26,akk-x-oldbab:ištaru[goddess]N akk-x-oldbab:kakkabu[star]N
+dcclt/Q000057,OB Nippur Diri,Seg.11; 27,akk-x-oldbab:ištaru[goddess]N akk-x-oldbab:kakkabu[star]N
+dcclt/Q000057,OB Nippur Diri,Seg.11; 28,
+dcclt/Q000057,OB Nippur Diri,Seg.11; 29,
+dcclt/Q000057,OB Nippur Diri,Seg.11; 30,
+dcclt/Q000057,OB Nippur Diri,Seg.11; 31,
+dcclt/Q000057,OB Nippur Diri,Seg.12; 1,sux:zu[tooth]N

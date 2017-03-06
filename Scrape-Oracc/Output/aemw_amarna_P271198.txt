@@ -1,0 +1,92 @@
+id_text,text_name,l_no,text
+<<<<<<< HEAD
+aemw/amarna/P271198,EA 189. Etakkama of Qadesh [vassal letter],001,akk-x-mbperi:ana[to]PRP akk-x-mbperi:šarru[king]N akk-x-mbperi:bēlu[lord]N
+aemw/amarna/P271198,EA 189. Etakkama of Qadesh [vassal letter],002,akk-x-mbperi:umma[saying]PRP akk-x-mbperi:Etakkama[1]PN akk-x-mbperi:wardu[slave]N
+aemw/amarna/P271198,EA 189. Etakkama of Qadesh [vassal letter],003,akk-x-mbperi:ana[to]PRP akk-x-mbperi:šēpu[foot]N akk-x-mbperi:bēlu[lord]N akk-x-mbperi:Šamaš[1]DN
+aemw/amarna/P271198,EA 189. Etakkama of Qadesh [vassal letter],004,akk-x-mbperi:ana[to]PRP akk-x-mbperi:pānu[front]N akk-x-mbperi:maqātu[fall]V
+aemw/amarna/P271198,EA 189. Etakkama of Qadesh [vassal letter],005,akk-x-mbperi:bēlu[lord]N akk-x-mbperi:anāku[I]IP akk-x-mbperi:wardu[slave]N
+aemw/amarna/P271198,EA 189. Etakkama of Qadesh [vassal letter],006,akk-x-mbperi:u[and]CNJ akk-x-mbperi:lemēnu[be(come)-bad]V akk-x-mbperi:Biryawaza[1]PN
+aemw/amarna/P271198,EA 189. Etakkama of Qadesh [vassal letter],007,akk-x-mbperi:lemnu[bad]AJ akk-x-mbperi:ana[to]PRP akk-x-mbperi:pānu[front]N akk-x-mbperi:bēlu[lord]N
+aemw/amarna/P271198,EA 189. Etakkama of Qadesh [vassal letter],008,akk-x-mbperi:u[and]CNJ akk-x-mbperi:inūma[when]SBJ akk-x-mbperi:lemēnu[be(come)-bad]V
+aemw/amarna/P271198,EA 189. Etakkama of Qadesh [vassal letter],009,akk-x-mbperi:ana[to]PRP akk-x-mbperi:pānu[front]N akk-x-mbperi:inūma[when]SBJ akk-x-mbperi:leqû[taken]AJ
+aemw/amarna/P271198,EA 189. Etakkama of Qadesh [vassal letter],010,akk-x-mbperi:gabbu[totality]N akk-x-mbperi:bītu[house]N akk-x-mbperi:abu[father]N akk-x-mbperi:ištu[from]PRP
+aemw/amarna/P271198,EA 189. Etakkama of Qadesh [vassal letter],011,akk-x-mbperi:Qidšu[Qadesh]GN akk-x-mbperi:u[and]CNJ akk-x-mbperi:ālu[city]N
+aemw/amarna/P271198,EA 189. Etakkama of Qadesh [vassal letter],012,akk-x-mbperi:wašāru[sink-down]V akk-x-mbperi:ana[to]PRP akk-x-mbperi:išātu[fire]N akk-x-mbperi:išātu[fire]N
+aemw/amarna/P271198,EA 189. Etakkama of Qadesh [vassal letter],013,akk-x-mbperi:u[and]CNJ akk-x-mbperi:allû[certainly]MOD akk-x-mbperi:awīlu[man]N akk-x-mbperi:rābiṣu[bailiff]N
+aemw/amarna/P271198,EA 189. Etakkama of Qadesh [vassal letter],014,akk-x-mbperi:šarru[king]N akk-x-mbperi:bēlu[lord]N akk-x-mbperi:u[and]CNJ akk-x-mbperi:awīlu[man]N akk-x-mbperi:rabû[big-one]N
+aemw/amarna/P271198,EA 189. Etakkama of Qadesh [vassal letter],015,akk-x-mbperi:edû[know]V akk-x-mbperi:kittu[steadiness]N
+aemw/amarna/P271198,EA 189. Etakkama of Qadesh [vassal letter],016,akk-x-mbperi:inūma[when]SBJ akk-x-mbperi:qabû[say]V akk-x-mbperi:ana[to]PRP akk-x-mbperi:rabû[big-one]N
+aemw/amarna/P271198,EA 189. Etakkama of Qadesh [vassal letter],017,akk-x-mbperi:Puhuru[1]PN akk-x-mbperi:edû[know]V
+aemw/amarna/P271198,EA 189. Etakkama of Qadesh [vassal letter],018,akk-x-mbperi:rabû[big-one]N akk-x-mbperi:Puhuru[1]PN akk-x-mbperi:inūma[when]SBJ
+aemw/amarna/P271198,EA 189. Etakkama of Qadesh [vassal letter],019,akk-x-mbperi:bītu[house]N
+aemw/amarna/P271198,EA 189. Etakkama of Qadesh [vassal letter],r 02,akk-x-mbperi:Biryawaza[1]PN akk-x-mbperi:kīnanna[so]AV
+aemw/amarna/P271198,EA 189. Etakkama of Qadesh [vassal letter],r 03,akk-x-mbperi:arādu[serve]V akk-x-mbperi:anāku[I]IP akk-x-mbperi:qadu[together-with]PRP
+aemw/amarna/P271198,EA 189. Etakkama of Qadesh [vassal letter],r 04,akk-x-mbperi:gabbu[totality]N akk-x-mbperi:ahu[brother]N akk-x-mbperi:u[and]CNJ akk-x-mbperi:ašru[place]N
+aemw/amarna/P271198,EA 189. Etakkama of Qadesh [vassal letter],r 05,akk-x-mbperi:nukurtu[enmity]N akk-x-mbperi:ana[to]PRP akk-x-mbperi:šarru[king]N akk-x-mbperi:bēlu[lord]N
+aemw/amarna/P271198,EA 189. Etakkama of Qadesh [vassal letter],r 06,akk-x-mbperi:anāku[I]IP akk-x-mbperi:alāku[go]V akk-x-mbperi:qadu[together-with]PRP
+aemw/amarna/P271198,EA 189. Etakkama of Qadesh [vassal letter],r 07,akk-x-mbperi:ṣābu[people]N akk-x-mbperi:u[and]CNJ akk-x-mbperi:qadu[together-with]PRP akk-x-mbperi:narkabtu[chariot]N
+aemw/amarna/P271198,EA 189. Etakkama of Qadesh [vassal letter],r 08,akk-x-mbperi:u[and]CNJ akk-x-mbperi:qadu[together-with]PRP akk-x-mbperi:gabbu[totality]N akk-x-mbperi:ahu[brother]N
+aemw/amarna/P271198,EA 189. Etakkama of Qadesh [vassal letter],r 09,akk-x-mbperi:u[and]CNJ akk-x-mbperi:amāru[see]V akk-x-mbperi:Biryawaza[1]PN
+aemw/amarna/P271198,EA 189. Etakkama of Qadesh [vassal letter],r 10,akk-x-mbperi:wašāru[sink-down]V akk-x-mbperi:gabbu[totality]N akk-x-mbperi:ālu[city]N akk-x-mbperi:šarru[king]N
+aemw/amarna/P271198,EA 189. Etakkama of Qadesh [vassal letter],r 11,akk-x-mbperi:bēlu[lord]N akk-x-mbperi:ana[to]PRP akk-x-mbperi:awīlu[man]N akk-x-mbperi:hāpiru[(class-of)-vagrant]N
+aemw/amarna/P271198,EA 189. Etakkama of Qadesh [vassal letter],r 12,akk-x-mbperi:ina[in]PRP akk-x-mbperi:Tahšu[1]GN akk-x-mbperi:u[and]CNJ akk-x-mbperi:ina[in]PRP akk-x-mbperi:Apu[1]GN
+aemw/amarna/P271198,EA 189. Etakkama of Qadesh [vassal letter],r 13,akk-x-mbperi:u[and]CNJ akk-x-mbperi:kašdu[achieved]AJ akk-x-mbperi:u[and]CNJ akk-x-mbperi:alāku[go]V
+aemw/amarna/P271198,EA 189. Etakkama of Qadesh [vassal letter],r 14,akk-x-mbperi:ilu[god]N akk-x-mbperi:u[and]CNJ akk-x-mbperi:Šamaš[1]DN
+aemw/amarna/P271198,EA 189. Etakkama of Qadesh [vassal letter],r 15,akk-x-mbperi:ana[to]PRP akk-x-mbperi:pānu[front]N akk-x-mbperi:u[and]CNJ akk-x-mbperi:ālu[city]N akk-x-mbperi:târu[turn]V
+aemw/amarna/P271198,EA 189. Etakkama of Qadesh [vassal letter],r 16,akk-x-mbperi:ana[to]PRP akk-x-mbperi:šarru[king]N akk-x-mbperi:bēlu[lord]N akk-x-mbperi:ištu[from]PRP
+aemw/amarna/P271198,EA 189. Etakkama of Qadesh [vassal letter],r 17,akk-x-mbperi:awīlu[man]N akk-x-mbperi:hāpiru[(class-of)-vagrant]N akk-x-mbperi:aššu[because-(of)]PRP akk-x-mbperi:arādu[serve]V
+aemw/amarna/P271198,EA 189. Etakkama of Qadesh [vassal letter],r 18,akk-x-mbperi:u[and]CNJ akk-x-mbperi:paṭāru[loosen]V akk-x-mbperi:awīlu[man]N akk-x-mbperi:hāpiru[(class-of)-vagrant]N
+aemw/amarna/P271198,EA 189. Etakkama of Qadesh [vassal letter],r 19,akk-x-mbperi:u[and]CNJ akk-x-mbperi:hadû[be(come)-joyful]V akk-x-mbperi:šarru[king]N akk-x-mbperi:bēlu[lord]N
+aemw/amarna/P271198,EA 189. Etakkama of Qadesh [vassal letter],r 20,akk-x-mbperi:ana[to]PRP akk-x-mbperi:Etakkama[1]PN akk-x-mbperi:wardu[slave]N
+aemw/amarna/P271198,EA 189. Etakkama of Qadesh [vassal letter],r 21,akk-x-mbperi:u[and]CNJ akk-x-mbperi:arādu[serve]V
+aemw/amarna/P271198,EA 189. Etakkama of Qadesh [vassal letter],r 22,akk-x-mbperi:šarru[king]N akk-x-mbperi:bēlu[lord]N akk-x-mbperi:qadu[together-with]PRP
+aemw/amarna/P271198,EA 189. Etakkama of Qadesh [vassal letter],r 23,akk-x-mbperi:gabbu[totality]N akk-x-mbperi:ahu[brother]N
+aemw/amarna/P271198,EA 189. Etakkama of Qadesh [vassal letter],r 24,akk-x-mbperi:arādu[serve]V akk-x-mbperi:šarru[king]N akk-x-mbperi:bēlu[lord]N akk-x-mbperi:u[and]CNJ akk-x-mbperi:gabbu[totality]N akk-x-mbperi:mātu[land]N
+aemw/amarna/P271198,EA 189. Etakkama of Qadesh [vassal letter],r 25,akk-x-mbperi:halāqu[be(come)-lost]V akk-x-mbperi:Biryawaza[1]PN akk-x-mbperi:pānu[front]N
+aemw/amarna/P271198,EA 189. Etakkama of Qadesh [vassal letter],r 26,akk-x-mbperi:ana[to]PRP akk-x-mbperi:habālu[act-of-violence]N akk-x-mbperi:u[and]CNJ akk-x-mbperi:anāku[I]IP akk-x-mbperi:wardu[slave]N
+=======
+aemw/amarna/P271198,EA 189. Etakkama of Qadesh [vassal letter],001,akk-x-mbperi:šarru[king]N akk-x-mbperi:bēlu[lord]N
+aemw/amarna/P271198,EA 189. Etakkama of Qadesh [vassal letter],002,akk-x-mbperi:wardu[slave]N
+aemw/amarna/P271198,EA 189. Etakkama of Qadesh [vassal letter],003,akk-x-mbperi:šēpu[foot]N akk-x-mbperi:bēlu[lord]N
+aemw/amarna/P271198,EA 189. Etakkama of Qadesh [vassal letter],004,akk-x-mbperi:pānu[front]N
+aemw/amarna/P271198,EA 189. Etakkama of Qadesh [vassal letter],005,akk-x-mbperi:bēlu[lord]N akk-x-mbperi:wardu[slave]N
+aemw/amarna/P271198,EA 189. Etakkama of Qadesh [vassal letter],006,
+aemw/amarna/P271198,EA 189. Etakkama of Qadesh [vassal letter],007,akk-x-mbperi:pānu[front]N akk-x-mbperi:bēlu[lord]N
+aemw/amarna/P271198,EA 189. Etakkama of Qadesh [vassal letter],008,
+aemw/amarna/P271198,EA 189. Etakkama of Qadesh [vassal letter],009,akk-x-mbperi:pānu[front]N
+aemw/amarna/P271198,EA 189. Etakkama of Qadesh [vassal letter],010,akk-x-mbperi:gabbu[totality]N akk-x-mbperi:bītu[house]N akk-x-mbperi:abu[father]N
+aemw/amarna/P271198,EA 189. Etakkama of Qadesh [vassal letter],011,akk-x-mbperi:ālu[city]N
+aemw/amarna/P271198,EA 189. Etakkama of Qadesh [vassal letter],012,akk-x-mbperi:išātu[fire]N akk-x-mbperi:išātu[fire]N
+aemw/amarna/P271198,EA 189. Etakkama of Qadesh [vassal letter],013,akk-x-mbperi:awīlu[man]N akk-x-mbperi:rābiṣu[bailiff]N
+aemw/amarna/P271198,EA 189. Etakkama of Qadesh [vassal letter],014,akk-x-mbperi:šarru[king]N akk-x-mbperi:bēlu[lord]N akk-x-mbperi:awīlu[man]N akk-x-mbperi:rabû[big-one]N
+aemw/amarna/P271198,EA 189. Etakkama of Qadesh [vassal letter],015,akk-x-mbperi:kittu[steadiness]N
+aemw/amarna/P271198,EA 189. Etakkama of Qadesh [vassal letter],016,akk-x-mbperi:rabû[big-one]N
+aemw/amarna/P271198,EA 189. Etakkama of Qadesh [vassal letter],017,
+aemw/amarna/P271198,EA 189. Etakkama of Qadesh [vassal letter],018,akk-x-mbperi:rabû[big-one]N
+aemw/amarna/P271198,EA 189. Etakkama of Qadesh [vassal letter],019,akk-x-mbperi:bītu[house]N
+aemw/amarna/P271198,EA 189. Etakkama of Qadesh [vassal letter],r 02,
+aemw/amarna/P271198,EA 189. Etakkama of Qadesh [vassal letter],r 03,
+aemw/amarna/P271198,EA 189. Etakkama of Qadesh [vassal letter],r 04,akk-x-mbperi:gabbu[totality]N akk-x-mbperi:ahu[brother]N akk-x-mbperi:ašru[place]N
+aemw/amarna/P271198,EA 189. Etakkama of Qadesh [vassal letter],r 05,akk-x-mbperi:nukurtu[enmity]N akk-x-mbperi:šarru[king]N akk-x-mbperi:bēlu[lord]N
+aemw/amarna/P271198,EA 189. Etakkama of Qadesh [vassal letter],r 06,
+aemw/amarna/P271198,EA 189. Etakkama of Qadesh [vassal letter],r 07,akk-x-mbperi:ṣābu[people]N akk-x-mbperi:narkabtu[chariot]N
+aemw/amarna/P271198,EA 189. Etakkama of Qadesh [vassal letter],r 08,akk-x-mbperi:gabbu[totality]N akk-x-mbperi:ahu[brother]N
+aemw/amarna/P271198,EA 189. Etakkama of Qadesh [vassal letter],r 09,
+aemw/amarna/P271198,EA 189. Etakkama of Qadesh [vassal letter],r 10,akk-x-mbperi:gabbu[totality]N akk-x-mbperi:ālu[city]N akk-x-mbperi:šarru[king]N
+aemw/amarna/P271198,EA 189. Etakkama of Qadesh [vassal letter],r 11,akk-x-mbperi:bēlu[lord]N akk-x-mbperi:awīlu[man]N akk-x-mbperi:hāpiru[(class-of)-vagrant]N
+aemw/amarna/P271198,EA 189. Etakkama of Qadesh [vassal letter],r 12,
+aemw/amarna/P271198,EA 189. Etakkama of Qadesh [vassal letter],r 13,
+aemw/amarna/P271198,EA 189. Etakkama of Qadesh [vassal letter],r 14,akk-x-mbperi:ilu[god]N
+aemw/amarna/P271198,EA 189. Etakkama of Qadesh [vassal letter],r 15,akk-x-mbperi:pānu[front]N akk-x-mbperi:ālu[city]N
+aemw/amarna/P271198,EA 189. Etakkama of Qadesh [vassal letter],r 16,akk-x-mbperi:šarru[king]N akk-x-mbperi:bēlu[lord]N
+aemw/amarna/P271198,EA 189. Etakkama of Qadesh [vassal letter],r 17,akk-x-mbperi:awīlu[man]N akk-x-mbperi:hāpiru[(class-of)-vagrant]N
+aemw/amarna/P271198,EA 189. Etakkama of Qadesh [vassal letter],r 18,akk-x-mbperi:awīlu[man]N akk-x-mbperi:hāpiru[(class-of)-vagrant]N
+aemw/amarna/P271198,EA 189. Etakkama of Qadesh [vassal letter],r 19,akk-x-mbperi:šarru[king]N akk-x-mbperi:bēlu[lord]N
+aemw/amarna/P271198,EA 189. Etakkama of Qadesh [vassal letter],r 20,akk-x-mbperi:wardu[slave]N
+aemw/amarna/P271198,EA 189. Etakkama of Qadesh [vassal letter],r 21,
+aemw/amarna/P271198,EA 189. Etakkama of Qadesh [vassal letter],r 22,akk-x-mbperi:šarru[king]N akk-x-mbperi:bēlu[lord]N
+aemw/amarna/P271198,EA 189. Etakkama of Qadesh [vassal letter],r 23,akk-x-mbperi:gabbu[totality]N akk-x-mbperi:ahu[brother]N
+aemw/amarna/P271198,EA 189. Etakkama of Qadesh [vassal letter],r 24,akk-x-mbperi:šarru[king]N akk-x-mbperi:bēlu[lord]N akk-x-mbperi:gabbu[totality]N akk-x-mbperi:mātu[land]N
+aemw/amarna/P271198,EA 189. Etakkama of Qadesh [vassal letter],r 25,akk-x-mbperi:pānu[front]N
+aemw/amarna/P271198,EA 189. Etakkama of Qadesh [vassal letter],r 26,akk-x-mbperi:habālu[act-of-violence]N akk-x-mbperi:wardu[slave]N
+>>>>>>> d524642d5275e5016007339cafda4e021ecb17ba

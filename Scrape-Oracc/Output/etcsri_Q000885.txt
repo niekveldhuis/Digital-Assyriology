@@ -1,0 +1,7 @@
+id_text,text_name,version,l_no,text
+etcsri/Q000885,Ur-Bau 12,,1,sux:Enanepada[1]PN
+etcsri/Q000885,Ur-Bau 12,,2,sux:en[priest]N sux:Nanna[1]DN
+etcsri/Q000885,Ur-Bau 12,,3,sux:zirru[priestess]N
+etcsri/Q000885,Ur-Bau 12,,4,sux:dam[spouse]N sux:Nanna[1]DN
+etcsri/Q000885,Ur-Bau 12,,5,sux:dumu[child]N sux:Urbauk[1]RN
+etcsri/Q000885,Ur-Bau 12,,6,sux:ensik[ruler]N

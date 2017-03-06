@@ -1,0 +1,7 @@
+id_text,text_name,version,l_no,text
+etcsri/Q001980,Bur-Sin 2005,,1,sux:Bursuen[1]RN
+etcsri/Q001980,Bur-Sin 2005,,2,sux:lugal[king]N sux:kalag[strong]V/i
+etcsri/Q001980,Bur-Sin 2005,,3,sux:lugal[king]N sux:Kiengir[1]GN sux:Akkad[1]GN
+etcsri/Q001980,Bur-Sin 2005,,4,sux:Luenlilak[1]PN
+etcsri/Q001980,Bur-Sin 2005,,5,sux:dubsar[scribe]N
+etcsri/Q001980,Bur-Sin 2005,,6,sux:dumu[child]N sux:Lugalezen[2]PN

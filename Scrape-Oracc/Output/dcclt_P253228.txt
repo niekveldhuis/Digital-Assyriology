@@ -1,0 +1,44 @@
+id_text,text_name,l_no,text
+dcclt/P253228,CUSAS 12 3.1.07 [OB Ura],o i 1,saŋkul[bolt]N gigir[chariot]N
+dcclt/P253228,CUSAS 12 3.1.07 [OB Ura],o i 2,al[hoe]N
+dcclt/P253228,CUSAS 12 3.1.07 [OB Ura],o i 3,zu[tooth]N al[hoe]N
+dcclt/P253228,CUSAS 12 3.1.07 [OB Ura],o i 4,saŋ[head]N al[hoe]N
+dcclt/P253228,CUSAS 12 3.1.07 [OB Ura],o i 5,al[hoe]N zu[tooth]N min[two]NU
+dcclt/P253228,CUSAS 12 3.1.07 [OB Ura],o i 6,al[hoe]N zu[tooth]N eš[three]NU
+dcclt/P253228,CUSAS 12 3.1.07 [OB Ura],o i 7,al[hoe]N zu[tooth]N diš[one]NU
+dcclt/P253228,CUSAS 12 3.1.07 [OB Ura],r i 4,ŋipar[tree]N
+dcclt/P253228,CUSAS 12 3.1.07 [OB Ura],r i 5,ŋipar[tree]N duru[wet]V/i
+dcclt/P253228,CUSAS 12 3.1.07 [OB Ura],r i 6,ŋipar[tree]N ah[dry]V/i
+dcclt/P253228,CUSAS 12 3.1.07 [OB Ura],r i 7,šenu[tree]N
+dcclt/P253228,CUSAS 12 3.1.07 [OB Ura],r i 8,šedug[tree]N
+dcclt/P253228,CUSAS 12 3.1.07 [OB Ura],r i 9,dada[tree]N
+dcclt/P253228,CUSAS 12 3.1.07 [OB Ura],r i 12,anta[tree]N
+dcclt/P253228,CUSAS 12 3.1.07 [OB Ura],r i 14,ildag[poplar]N
+dcclt/P253228,CUSAS 12 3.1.07 [OB Ura],r i 15,ildag[poplar]N kur[mountain]N
+dcclt/P253228,CUSAS 12 3.1.07 [OB Ura],r i 16,ildag[poplar]N bur[spread]V/t
+dcclt/P253228,CUSAS 12 3.1.07 [OB Ura],r i 17,ildag[poplar]N šitan[water-channel]N
+dcclt/P253228,CUSAS 12 3.1.07 [OB Ura],r i 19,mes[tree]N
+dcclt/P253228,CUSAS 12 3.1.07 [OB Ura],r i 21,maš[plant]N
+dcclt/P253228,CUSAS 12 3.1.07 [OB Ura],r ii 1',mes[tree]N
+dcclt/P253228,CUSAS 12 3.1.07 [OB Ura],r ii 7',šimgig[tree]N
+dcclt/P253228,CUSAS 12 3.1.07 [OB Ura],r ii 8',šennur[plum]N
+dcclt/P253228,CUSAS 12 3.1.07 [OB Ura],r ii 9',ŋeštin[vine]N
+dcclt/P253228,CUSAS 12 3.1.07 [OB Ura],r ii 10',ŋeštinkira[berry]N
+dcclt/P253228,CUSAS 12 3.1.07 [OB Ura],r ii 11',ŋeštinguruma[~vine]N
+dcclt/P253228,CUSAS 12 3.1.07 [OB Ura],r ii 12',ŋeštinkaʾa[grape]N
+dcclt/P253228,CUSAS 12 3.1.07 [OB Ura],r ii 13',peš[fig]N
+dcclt/P253228,CUSAS 12 3.1.07 [OB Ura],r ii 14',peš[fig]N kur[mountain]N
+dcclt/P253228,CUSAS 12 3.1.07 [OB Ura],r ii 15',hašhur[apple]N
+dcclt/P253228,CUSAS 12 3.1.07 [OB Ura],r ii 16',hašhur[apple]N kur[mountain]N
+dcclt/P253228,CUSAS 12 3.1.07 [OB Ura],r ii 17',hašhur[apple]N
+dcclt/P253228,CUSAS 12 3.1.07 [OB Ura],r iii 1',ŋešnimbar[palm]N
+dcclt/P253228,CUSAS 12 3.1.07 [OB Ura],r iii 2',ŋešnimbar[palm]N
+dcclt/P253228,CUSAS 12 3.1.07 [OB Ura],r iii 3',ŋešnimbar[palm]N
+dcclt/P253228,CUSAS 12 3.1.07 [OB Ura],r iii 4',ŋešnimbar[palm]N
+dcclt/P253228,CUSAS 12 3.1.07 [OB Ura],r iii 5',ŋešnimbar[palm]N
+dcclt/P253228,CUSAS 12 3.1.07 [OB Ura],r iii 13',šagkal[tree]N
+dcclt/P253228,CUSAS 12 3.1.07 [OB Ura],r iii 15',peškal[tree]N
+dcclt/P253228,CUSAS 12 3.1.07 [OB Ura],r iii 18',urnum[cedar]N
+dcclt/P253228,CUSAS 12 3.1.07 [OB Ura],r iii 19',ilianum[tree]N
+dcclt/P253228,CUSAS 12 3.1.07 [OB Ura],r iii 20',tiʾarum[tree]N
+dcclt/P253228,CUSAS 12 3.1.07 [OB Ura],r iii 22',eren[cedar]N

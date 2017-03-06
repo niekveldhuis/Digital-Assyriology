@@ -1,0 +1,61 @@
+id_text,text_name,l_no,text
+<<<<<<< HEAD
+aemw/amarna/P270884,EA 371. Smitten smitten! [vassal letter],010,akk-x-mbperi:ul[not]MOD
+aemw/amarna/P270884,EA 371. Smitten smitten! [vassal letter],011,akk-x-mbperi:ina[in]PRP akk-x-mbperi:qātu[hand]N akk-x-mbperi:bēlu[lord]N akk-x-mbperi:u[and]CNJ
+aemw/amarna/P270884,EA 371. Smitten smitten! [vassal letter],012,akk-x-mbperi:naṣāru[guard]V
+aemw/amarna/P270884,EA 371. Smitten smitten! [vassal letter],013,akk-x-mbperi:awīlu[man]N akk-x-mbperi:rabû[big-one]N akk-x-mbperi:adi[until]PRP akk-x-mbperi:šarru[king]N akk-x-mbperi:Šamaš[1]DN
+aemw/amarna/P270884,EA 371. Smitten smitten! [vassal letter],014,akk-x-mbperi:malāku[discuss]V akk-x-mbperi:ana[to]PRP akk-x-mbperi:wardu[slave]N
+aemw/amarna/P270884,EA 371. Smitten smitten! [vassal letter],015,akk-x-mbperi:bēlu[lord]N akk-x-mbperi:adi[until]PRP
+aemw/amarna/P270884,EA 371. Smitten smitten! [vassal letter],016,akk-x-mbperi:naṣāru[guard]V akk-x-mbperi:ašru[place]N akk-x-mbperi:u[and]CNJ
+aemw/amarna/P270884,EA 371. Smitten smitten! [vassal letter],017,akk-x-mbperi:bēlu[lord]N akk-x-mbperi:kīma[like]PRP
+aemw/amarna/P270884,EA 371. Smitten smitten! [vassal letter],018,akk-x-mbperi:yānu[(there)-is-not]V akk-x-mbperi:libbu[interior]N akk-x-mbperi:šanû[(an)other]AJ
+aemw/amarna/P270884,EA 371. Smitten smitten! [vassal letter],019,akk-x-mbperi:ṣābu[people]N akk-x-mbperi:Šehlalu[1]GN
+aemw/amarna/P270884,EA 371. Smitten smitten! [vassal letter],020,akk-x-mbperi:edû[know]V akk-x-mbperi:inūma[when]SBJ akk-x-mbperi:lā[not]MOD akk-x-mbperi:ṭābu[good]AJ
+aemw/amarna/P270884,EA 371. Smitten smitten! [vassal letter],021,akk-x-mbperi:šunu[they]IP akk-x-mbperi:u[and]CNJ akk-x-mbperi:ṣabātu[seize]V
+aemw/amarna/P270884,EA 371. Smitten smitten! [vassal letter],022,akk-x-mbperi:Ṣumur[1]GN akk-x-mbperi:qadu[together-with]PRP akk-x-mbperi:awīlu[man]N akk-x-mbperi:ša[that]REL
+aemw/amarna/P270884,EA 371. Smitten smitten! [vassal letter],023,akk-x-mbperi:alāku[go]V akk-x-mbperi:ana[to]PRP akk-x-mbperi:pānu[front]N
+aemw/amarna/P270884,EA 371. Smitten smitten! [vassal letter],024,akk-x-mbperi:naṣāru[guard]V akk-x-mbperi:awīlu[man]N akk-x-mbperi:rābiṣu[bailiff]N akk-x-mbperi:bēlu[lord]N
+aemw/amarna/P270884,EA 371. Smitten smitten! [vassal letter],025,akk-x-mbperi:šumma[if]MOD akk-x-mbperi:ul[not]MOD akk-x-mbperi:naʾarruru[go-to-assist]V
+aemw/amarna/P270884,EA 371. Smitten smitten! [vassal letter],026,akk-x-mbperi:anāku[I]IP akk-x-mbperi:qadu[together-with]PRP akk-x-mbperi:narkabtu[chariot]N
+aemw/amarna/P270884,EA 371. Smitten smitten! [vassal letter],027,akk-x-mbperi:qadu[together-with]PRP akk-x-mbperi:ṣābu[people]N akk-x-mbperi:u[and]CNJ akk-x-mbperi:šarpu[burnt]AJ
+aemw/amarna/P270884,EA 371. Smitten smitten! [vassal letter],028,akk-x-mbperi:ālu[city]N akk-x-mbperi:u[and]CNJ akk-x-mbperi:ēkallu[palace]N akk-x-mbperi:u[and]CNJ akk-x-mbperi:mahṣu[beaten]AJ
+aemw/amarna/P270884,EA 371. Smitten smitten! [vassal letter],029,akk-x-mbperi:gabbu[totality]N akk-x-mbperi:awīlu[man]N akk-x-mbperi:ša[that]REL akk-x-mbperi:ina[in]PRP akk-x-mbperi:libbu[interior]N akk-x-mbperi:bītu[house]N
+aemw/amarna/P270884,EA 371. Smitten smitten! [vassal letter],030,akk-x-mbperi:ālu[city]N akk-x-mbperi:šarru[king]N akk-x-mbperi:bēlu[lord]N akk-x-mbperi:ištu[from]PRP
+aemw/amarna/P270884,EA 371. Smitten smitten! [vassal letter],031,akk-x-mbperi:mahṣu[beaten]AJ akk-x-mbperi:mahṣu[beaten]AJ akk-x-mbperi:u[and]CNJ
+aemw/amarna/P270884,EA 371. Smitten smitten! [vassal letter],032,akk-x-mbperi:ina[in]PRP akk-x-mbperi:kaspu[silver]N
+aemw/amarna/P270884,EA 371. Smitten smitten! [vassal letter],033,akk-x-mbperi:ištu[from]PRP akk-x-mbperi:pānu[front]N akk-x-mbperi:šarru[king]N
+aemw/amarna/P270884,EA 371. Smitten smitten! [vassal letter],034,akk-x-mbperi:u[and]CNJ akk-x-mbperi:ina[in]PRP akk-x-mbperi:pû[mouth]N akk-x-mbperi:ṣabātu[seize]V
+aemw/amarna/P270884,EA 371. Smitten smitten! [vassal letter],035,akk-x-mbperi:ālu[city]N akk-x-mbperi:u[and]CNJ akk-x-mbperi:palāhu[fear]V
+aemw/amarna/P270884,EA 371. Smitten smitten! [vassal letter],036,akk-x-mbperi:ana[to]PRP akk-x-mbperi:muhhu[skull]N akk-x-mbperi:u[and]CNJ
+aemw/amarna/P270884,EA 371. Smitten smitten! [vassal letter],037,akk-x-mbperi:ina[in]PRP akk-x-mbperi:kaspu[silver]N
+=======
+aemw/amarna/P270884,EA 371. Smitten smitten! [vassal letter],010,
+aemw/amarna/P270884,EA 371. Smitten smitten! [vassal letter],011,akk-x-mbperi:qātu[hand]N akk-x-mbperi:bēlu[lord]N
+aemw/amarna/P270884,EA 371. Smitten smitten! [vassal letter],012,
+aemw/amarna/P270884,EA 371. Smitten smitten! [vassal letter],013,akk-x-mbperi:awīlu[man]N akk-x-mbperi:rabû[big-one]N akk-x-mbperi:šarru[king]N
+aemw/amarna/P270884,EA 371. Smitten smitten! [vassal letter],014,akk-x-mbperi:wardu[slave]N
+aemw/amarna/P270884,EA 371. Smitten smitten! [vassal letter],015,akk-x-mbperi:bēlu[lord]N
+aemw/amarna/P270884,EA 371. Smitten smitten! [vassal letter],016,akk-x-mbperi:ašru[place]N
+aemw/amarna/P270884,EA 371. Smitten smitten! [vassal letter],017,akk-x-mbperi:bēlu[lord]N
+aemw/amarna/P270884,EA 371. Smitten smitten! [vassal letter],018,akk-x-mbperi:libbu[interior]N
+aemw/amarna/P270884,EA 371. Smitten smitten! [vassal letter],019,akk-x-mbperi:ṣābu[people]N
+aemw/amarna/P270884,EA 371. Smitten smitten! [vassal letter],020,
+aemw/amarna/P270884,EA 371. Smitten smitten! [vassal letter],021,
+aemw/amarna/P270884,EA 371. Smitten smitten! [vassal letter],022,akk-x-mbperi:awīlu[man]N
+aemw/amarna/P270884,EA 371. Smitten smitten! [vassal letter],023,akk-x-mbperi:pānu[front]N
+aemw/amarna/P270884,EA 371. Smitten smitten! [vassal letter],024,akk-x-mbperi:awīlu[man]N akk-x-mbperi:rābiṣu[bailiff]N akk-x-mbperi:bēlu[lord]N
+aemw/amarna/P270884,EA 371. Smitten smitten! [vassal letter],025,
+aemw/amarna/P270884,EA 371. Smitten smitten! [vassal letter],026,akk-x-mbperi:narkabtu[chariot]N
+aemw/amarna/P270884,EA 371. Smitten smitten! [vassal letter],027,akk-x-mbperi:ṣābu[people]N
+aemw/amarna/P270884,EA 371. Smitten smitten! [vassal letter],028,akk-x-mbperi:ālu[city]N akk-x-mbperi:ēkallu[palace]N
+aemw/amarna/P270884,EA 371. Smitten smitten! [vassal letter],029,akk-x-mbperi:gabbu[totality]N akk-x-mbperi:awīlu[man]N akk-x-mbperi:libbu[interior]N akk-x-mbperi:bītu[house]N
+aemw/amarna/P270884,EA 371. Smitten smitten! [vassal letter],030,akk-x-mbperi:ālu[city]N akk-x-mbperi:šarru[king]N akk-x-mbperi:bēlu[lord]N
+aemw/amarna/P270884,EA 371. Smitten smitten! [vassal letter],031,
+aemw/amarna/P270884,EA 371. Smitten smitten! [vassal letter],032,akk-x-mbperi:kaspu[silver]N
+aemw/amarna/P270884,EA 371. Smitten smitten! [vassal letter],033,akk-x-mbperi:pānu[front]N akk-x-mbperi:šarru[king]N
+aemw/amarna/P270884,EA 371. Smitten smitten! [vassal letter],034,akk-x-mbperi:pû[mouth]N
+aemw/amarna/P270884,EA 371. Smitten smitten! [vassal letter],035,akk-x-mbperi:ālu[city]N
+aemw/amarna/P270884,EA 371. Smitten smitten! [vassal letter],036,akk-x-mbperi:muhhu[skull]N
+aemw/amarna/P270884,EA 371. Smitten smitten! [vassal letter],037,akk-x-mbperi:kaspu[silver]N
+>>>>>>> d524642d5275e5016007339cafda4e021ecb17ba
+aemw/amarna/P270884,EA 371. Smitten smitten! [vassal letter],038,akk-x-mbperi:awīlu[man]N akk-x-mbperi:rābiṣu[bailiff]N

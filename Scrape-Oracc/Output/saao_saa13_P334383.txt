@@ -1,0 +1,23 @@
+id_text,text_name,l_no,text
+saao/saa13/P334383,SAA 13 124. Transport Order for Lahiru and Dur-Šarrukku (ABL 0558),o 1,ana[to]PRP šarru[king]N bēlu[lord]N
+saao/saa13/P334383,SAA 13 124. Transport Order for Lahiru and Dur-Šarrukku (ABL 0558),o 2,ardu[slave]N
+saao/saa13/P334383,SAA 13 124. Transport Order for Lahiru and Dur-Šarrukku (ABL 0558),o 3,Nabu-balassu-iqbi[1]PN
+saao/saa13/P334383,SAA 13 124. Transport Order for Lahiru and Dur-Šarrukku (ABL 0558),o 4,Nadin-Aya[1]PN
+saao/saa13/P334383,SAA 13 124. Transport Order for Lahiru and Dur-Šarrukku (ABL 0558),o 5,lū[may]MOD šulmu[completeness]N ana[to]PRP šarru[king]N
+saao/saa13/P334383,SAA 13 124. Transport Order for Lahiru and Dur-Šarrukku (ABL 0558),o 6,bēlu[lord]N
+saao/saa13/P334383,SAA 13 124. Transport Order for Lahiru and Dur-Šarrukku (ABL 0558),o 7,Bel[1]DN u[and]CNJ Nabu[1]DN
+saao/saa13/P334383,SAA 13 124. Transport Order for Lahiru and Dur-Šarrukku (ABL 0558),o 8,ana[to]PRP šarru[king]N bēlu[lord]N
+saao/saa13/P334383,SAA 13 124. Transport Order for Lahiru and Dur-Šarrukku (ABL 0558),o 9,karābu[pray]V
+saao/saa13/P334383,SAA 13 124. Transport Order for Lahiru and Dur-Šarrukku (ABL 0558),o 10,šulmu[completeness]N ana[to]PRP maṣṣartu[observation]N
+saao/saa13/P334383,SAA 13 124. Transport Order for Lahiru and Dur-Šarrukku (ABL 0558),o 11,adanniš[very-much]AV
+saao/saa13/P334383,SAA 13 124. Transport Order for Lahiru and Dur-Šarrukku (ABL 0558),o 12,Aššur-naṣir[1]PN
+saao/saa13/P334383,SAA 13 124. Transport Order for Lahiru and Dur-Šarrukku (ABL 0558),r 1,ina[in]PRP muhhu[skull]N šazbussu[consignment]N
+saao/saa13/P334383,SAA 13 124. Transport Order for Lahiru and Dur-Šarrukku (ABL 0558),r 2,ša[of]DET dullu[trouble]N annû[this]DP
+saao/saa13/P334383,SAA 13 124. Transport Order for Lahiru and Dur-Šarrukku (ABL 0558),r 3,ša-qurbūti[close-follower]N ina[in]PRP muhhu[skull]N
+saao/saa13/P334383,SAA 13 124. Transport Order for Lahiru and Dur-Šarrukku (ABL 0558),r 4,pīhātu[responsibility]N Lahiru[1]GN
+saao/saa13/P334383,SAA 13 124. Transport Order for Lahiru and Dur-Šarrukku (ABL 0558),r 5,pīhātu[responsibility]N Dur-Šarrukku[1]GN
+saao/saa13/P334383,SAA 13 124. Transport Order for Lahiru and Dur-Šarrukku (ABL 0558),r 6,šapāru[send]V
+saao/saa13/P334383,SAA 13 124. Transport Order for Lahiru and Dur-Šarrukku (ABL 0558),r 7,pīhātu[responsibility]N Lahiru[1]GN
+saao/saa13/P334383,SAA 13 124. Transport Order for Lahiru and Dur-Šarrukku (ABL 0558),r 8,šemû[hear]V pīhātu[responsibility]N
+saao/saa13/P334383,SAA 13 124. Transport Order for Lahiru and Dur-Šarrukku (ABL 0558),r 9,ša[of]DET Dur-Šarrukku[1]GN
+saao/saa13/P334383,SAA 13 124. Transport Order for Lahiru and Dur-Šarrukku (ABL 0558),r 10,lā[not]MOD šemû[hear]V

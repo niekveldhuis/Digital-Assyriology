@@ -1,0 +1,11 @@
+id_text,text_name,l_no,text
+riao/Q006015,Aššur-dan II 3,1,Aššur-dan_II[king-of-Assyria]RN Aššur[Assyria]GN
+riao/Q006015,Aššur-dan II 3,2,Tukulti-apil-Ešarra_II[Tiglath-pileser-II;-king-of-Assyria]RN Aššur[Assyria]GN
+riao/Q006015,Aššur-dan II 3,3,Aššur-reša-iši_II[king-of-Assyria]RN Aššur[Assyria]GN
+riao/Q006015,Aššur-dan II 3,4,Aššur-rabi_II[king-of-Assyria]RN Kiš[Kish]SN Aššur[Assyria]GN
+riao/Q006015,Aššur-dan II 3,5,Abul-tabira[Craftsman´s-Gate]ON
+riao/Q006015,Aššur-dan II 3,6,Tukulti-apil-Ešarra_I[Tiglath-pileser-I;-king-of-Assyria]RN Aššur[1]DN
+riao/Q006015,Aššur-dan II 3,7,Aššur-reša-iši_I[king-of-Assyria]RN Aššur[1]DN Mutakkil-Nusku[king-of-Assyria]RN Aššur[1]DN
+riao/Q006015,Aššur-dan II 3,15,Abul-tabira[Craftsman´s-Gate]ON
+riao/Q006015,Aššur-dan II 3,18,Aššur[1]DN Adad[1]DN Sin[1]DN Šamaš[1]DN Ištar[1]DN
+riao/Q006015,Aššur-dan II 3,20,Tašritu[1]MN

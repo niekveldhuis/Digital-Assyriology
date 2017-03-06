@@ -1,0 +1,12 @@
+id_text,text_name,version,l_no,text
+etcsri/Q003671,En-metena 13,,i 1,sux:Ninŋirsuk[1]DN
+etcsri/Q003671,En-metena 13,,i 2,sux:ursaŋ[hero]N sux:Enlil[1]DN
+etcsri/Q003671,En-metena 13,,i 3,sux:Enmetenak[1]RN
+etcsri/Q003671,En-metena 13,,i 4,sux:ensik[ruler]N
+etcsri/Q003671,En-metena 13,,i 5,sux:Lagaš[1]SN
+etcsri/Q003671,En-metena 13,,ii 1,sux:dumu[child]N sux:Enanatum[1]RN
+etcsri/Q003671,En-metena 13,,ii 2,sux:ensik[ruler]N
+etcsri/Q003671,En-metena 13,,ii 3,sux:Lagaš[1]SN
+etcsri/Q003671,En-metena 13,,ii 4,sux:lu[person]N sux:elungak[brewery]N
+etcsri/Q003671,En-metena 13,,iii 1,sux:Ninŋirsuk[1]DN sux:du[build]V/t
+etcsri/Q003671,En-metena 13,,iii 2,sux:diŋir[deity]N

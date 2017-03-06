@@ -1,0 +1,9 @@
+id_text,text_name,version,l_no,text
+etcsri/Q001859,Ibbi-Suen 2004,,1,sux:Bau[1]DN
+etcsri/Q001859,Ibbi-Suen 2004,,2,sux:nin[lady]N
+etcsri/Q001859,Ibbi-Suen 2004,,3,sux:namtil[life]N
+etcsri/Q001859,Ibbi-Suen 2004,,4,sux:Ibbisuen[1]RN
+etcsri/Q001859,Ibbi-Suen 2004,,5,sux:Amanili[1]PN
+etcsri/Q001859,Ibbi-Suen 2004,,6,sux:dam[spouse]N sux:Aradnanna[1]PN
+etcsri/Q001859,Ibbi-Suen 2004,,7,sux:ensik[ruler]N
+etcsri/Q001859,Ibbi-Suen 2004,,8,sux:Lagaš[1]SN

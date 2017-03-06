@@ -1,0 +1,12 @@
+id_text,text_name,version,l_no,text
+etcsri/Q001951,Išme-Dagan 07,,1,sux:Išmedagan[1]RN
+etcsri/Q001951,Išme-Dagan 07,,2,sux:lugal[king]N sux:Kiengir[1]GN sux:Akkad[1]GN
+etcsri/Q001951,Išme-Dagan 07,,3,sux:ud[sun]N sux:Enlil[1]DN
+etcsri/Q001951,Išme-Dagan 07,,4,sux:Ninurta[1]DN
+etcsri/Q001951,Išme-Dagan 07,,5,sux:ursaŋ[hero]N sux:kalag[strong]V/i
+etcsri/Q001951,Išme-Dagan 07,,6,sux:maškim[administrator]N
+etcsri/Q001951,Išme-Dagan 07,,7,sux:tuku[acquire]V/t
+etcsri/Q001951,Išme-Dagan 07,,8,sux:šita[weapon]N sux:mitum[weapon]N sux:saŋ[head]N sux:ninnu[fifty]NU
+etcsri/Q001951,Išme-Dagan 07,,9,sux:dim[create]V/t
+etcsri/Q001951,Išme-Dagan 07,,10,sux:šeg[brick]N sux:ur[bake]V/t
+etcsri/Q001951,Išme-Dagan 07,,11,sux:tukul[weapon]N sux:ki[place]N sux:aŋ[measure]V/t

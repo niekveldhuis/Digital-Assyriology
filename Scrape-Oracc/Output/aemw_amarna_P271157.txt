@@ -1,0 +1,48 @@
+id_text,text_name,l_no,text
+<<<<<<< HEAD
+aemw/amarna/P271157,EA 319. An obedient dog [vassal letter],001,akk-x-mbperi:ana[to]PRP akk-x-mbperi:šarru[king]N akk-x-mbperi:bēlu[lord]N akk-x-mbperi:ilu[god]N
+aemw/amarna/P271157,EA 319. An obedient dog [vassal letter],002,akk-x-mbperi:Šamaš[1]DN akk-x-mbperi:Šamaš[1]DN akk-x-mbperi:ša[that]REL akk-x-mbperi:ištu[from]PRP
+aemw/amarna/P271157,EA 319. An obedient dog [vassal letter],003,akk-x-mbperi:šamû[sky]N akk-x-mbperi:šamû[sky]N akk-x-mbperi:umma[saying]PRP
+aemw/amarna/P271157,EA 319. An obedient dog [vassal letter],004,akk-x-mbperi:Surašar[1]PN
+aemw/amarna/P271157,EA 319. An obedient dog [vassal letter],005,akk-x-mbperi:awīlu[man]N akk-x-mbperi:ša[of]DET akk-x-mbperi:Gintu-ašna[1]GN
+aemw/amarna/P271157,EA 319. An obedient dog [vassal letter],006,akk-x-mbperi:wardu[slave]N akk-x-mbperi:eperu[earth]N akk-x-mbperi:ša[of]DET
+aemw/amarna/P271157,EA 319. An obedient dog [vassal letter],007,akk-x-mbperi:šēpu[foot]N akk-x-mbperi:kartappu[(animal)-driver]N
+aemw/amarna/P271157,EA 319. An obedient dog [vassal letter],008,akk-x-mbperi:ša[of]DET akk-x-mbperi:sisû[horse]N
+aemw/amarna/P271157,EA 319. An obedient dog [vassal letter],009,akk-x-mbperi:ana[to]PRP akk-x-mbperi:šēpu[foot]N akk-x-mbperi:šarru[king]N akk-x-mbperi:bēlu[lord]N
+aemw/amarna/P271157,EA 319. An obedient dog [vassal letter],010,akk-x-mbperi:ilu[god]N akk-x-mbperi:Šamaš[1]DN akk-x-mbperi:Šamaš[1]DN
+aemw/amarna/P271157,EA 319. An obedient dog [vassal letter],011,akk-x-mbperi:ša[that]REL akk-x-mbperi:ištu[from]PRP akk-x-mbperi:šamû[sky]N akk-x-mbperi:šamû[sky]N
+aemw/amarna/P271157,EA 319. An obedient dog [vassal letter],012,akk-x-mbperi:u[and]CNJ
+aemw/amarna/P271157,EA 319. An obedient dog [vassal letter],013,akk-x-mbperi:lū[indeed]MOD akk-x-mbperi:šukênu[prostrate-oneself]V
+aemw/amarna/P271157,EA 319. An obedient dog [vassal letter],014,akk-x-mbperi:kabattu[liver]N akk-x-mbperi:u[and]CNJ akk-x-mbperi:ṣēru[back]N
+aemw/amarna/P271157,EA 319. An obedient dog [vassal letter],015,akk-x-mbperi:anumma[now]AV akk-x-mbperi:šemû[hear]V
+aemw/amarna/P271157,EA 319. An obedient dog [vassal letter],016,akk-x-mbperi:ana[to]PRP akk-x-mbperi:awātu[word]N
+aemw/amarna/P271157,EA 319. An obedient dog [vassal letter],017,akk-x-mbperi:rābiṣu[bailiff]N akk-x-mbperi:ša[of]DET akk-x-mbperi:šarru[king]N
+aemw/amarna/P271157,EA 319. An obedient dog [vassal letter],018,akk-x-mbperi:bēlu[lord]N akk-x-mbperi:magal[very-(much)]AV akk-x-mbperi:magal[very-(much)]AV
+aemw/amarna/P271157,EA 319. An obedient dog [vassal letter],019,akk-x-mbperi:u[and]CNJ akk-x-mbperi:mannummê[who(so)ever]XP akk-x-mbperi:kalbu[dog]N
+aemw/amarna/P271157,EA 319. An obedient dog [vassal letter],020,akk-x-mbperi:ša[that]REL akk-x-mbperi:lā[not]MOD akk-x-mbperi:šemû[hear]V
+aemw/amarna/P271157,EA 319. An obedient dog [vassal letter],021,akk-x-mbperi:ana[to]PRP akk-x-mbperi:awātu[word]N akk-x-mbperi:šarru[king]N
+aemw/amarna/P271157,EA 319. An obedient dog [vassal letter],022,akk-x-mbperi:bēlu[lord]N akk-x-mbperi:Šamaš[1]DN akk-x-mbperi:ša[that]REL akk-x-mbperi:ištu[from]PRP
+=======
+aemw/amarna/P271157,EA 319. An obedient dog [vassal letter],001,akk-x-mbperi:šarru[king]N akk-x-mbperi:bēlu[lord]N akk-x-mbperi:ilu[god]N
+aemw/amarna/P271157,EA 319. An obedient dog [vassal letter],002,
+aemw/amarna/P271157,EA 319. An obedient dog [vassal letter],003,akk-x-mbperi:šamû[sky]N akk-x-mbperi:šamû[sky]N
+aemw/amarna/P271157,EA 319. An obedient dog [vassal letter],004,
+aemw/amarna/P271157,EA 319. An obedient dog [vassal letter],005,akk-x-mbperi:awīlu[man]N
+aemw/amarna/P271157,EA 319. An obedient dog [vassal letter],006,akk-x-mbperi:wardu[slave]N akk-x-mbperi:eperu[earth]N
+aemw/amarna/P271157,EA 319. An obedient dog [vassal letter],007,akk-x-mbperi:šēpu[foot]N akk-x-mbperi:kartappu[(animal)-driver]N
+aemw/amarna/P271157,EA 319. An obedient dog [vassal letter],008,akk-x-mbperi:sisû[horse]N
+aemw/amarna/P271157,EA 319. An obedient dog [vassal letter],009,akk-x-mbperi:šēpu[foot]N akk-x-mbperi:šarru[king]N akk-x-mbperi:bēlu[lord]N
+aemw/amarna/P271157,EA 319. An obedient dog [vassal letter],010,akk-x-mbperi:ilu[god]N
+aemw/amarna/P271157,EA 319. An obedient dog [vassal letter],011,akk-x-mbperi:šamû[sky]N akk-x-mbperi:šamû[sky]N
+aemw/amarna/P271157,EA 319. An obedient dog [vassal letter],012,
+aemw/amarna/P271157,EA 319. An obedient dog [vassal letter],013,
+aemw/amarna/P271157,EA 319. An obedient dog [vassal letter],014,akk-x-mbperi:kabattu[liver]N akk-x-mbperi:ṣēru[back]N
+aemw/amarna/P271157,EA 319. An obedient dog [vassal letter],015,
+aemw/amarna/P271157,EA 319. An obedient dog [vassal letter],016,akk-x-mbperi:awātu[word]N
+aemw/amarna/P271157,EA 319. An obedient dog [vassal letter],017,akk-x-mbperi:rābiṣu[bailiff]N akk-x-mbperi:šarru[king]N
+aemw/amarna/P271157,EA 319. An obedient dog [vassal letter],018,akk-x-mbperi:bēlu[lord]N
+aemw/amarna/P271157,EA 319. An obedient dog [vassal letter],019,akk-x-mbperi:kalbu[dog]N
+aemw/amarna/P271157,EA 319. An obedient dog [vassal letter],020,
+aemw/amarna/P271157,EA 319. An obedient dog [vassal letter],021,akk-x-mbperi:awātu[word]N akk-x-mbperi:šarru[king]N
+aemw/amarna/P271157,EA 319. An obedient dog [vassal letter],022,akk-x-mbperi:bēlu[lord]N
+>>>>>>> d524642d5275e5016007339cafda4e021ecb17ba

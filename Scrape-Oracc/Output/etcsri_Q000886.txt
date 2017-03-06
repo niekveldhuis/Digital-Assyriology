@@ -1,0 +1,5 @@
+id_text,text_name,version,l_no,text
+etcsri/Q000886,Ur-Bau 13,,1,sux:Enanepada[1]PN
+etcsri/Q000886,Ur-Bau 13,,2,sux:en[priest]N sux:Nanna[1]DN
+etcsri/Q000886,Ur-Bau 13,,3,sux:dumu[child]N sux:Urbauk[1]RN
+etcsri/Q000886,Ur-Bau 13,,4,sux:ensik[ruler]N

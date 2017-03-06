@@ -1,0 +1,19 @@
+id_text,text_name,l_no,text
+riao/Q005624,Erišum I 04,1,Erišum_I[vice-regent-of-Aššur]RN
+riao/Q005624,Erišum I 04,2,iššiakku[city-ruler]N
+riao/Q005624,Erišum I 04,3,Aššur[1]DN
+riao/Q005624,Erišum I 04,4,māru[son]N Ilu-šuma[vice-regent-of-Aššur]RN
+riao/Q005624,Erišum I 04,5,iššiakku[city-ruler]N
+riao/Q005624,Erišum I 04,6,Aššur[1]DN
+riao/Q005624,Erišum I 04,7,ana[to]PRP Aššur[1]DN
+riao/Q005624,Erišum I 04,8,bēlu[lord]N
+riao/Q005624,Erišum I 04,9,ana[to]PRP balāṭu[life]N
+riao/Q005624,Erišum I 04,10,u[and]CNJ balāṭu[life]N
+riao/Q005624,Erišum I 04,11,ālu[city]N
+riao/Q005624,Erišum I 04,12,sihirtu[circumference]N
+riao/Q005624,Erišum I 04,13,isāru[annexe]N
+riao/Q005624,Erišum I 04,14,ša[of]DET bītu[house]N Aššur[1]DN
+riao/Q005624,Erišum I 04,15,u[and]CNJ Mušlalu[Step-Gate]ON
+riao/Q005624,Erišum I 04,16,qaššu[holy-one]N
+riao/Q005624,Erišum I 04,17,watmanu[cella]N
+riao/Q005624,Erišum I 04,18,ša[of]DET Aššur[1]DN

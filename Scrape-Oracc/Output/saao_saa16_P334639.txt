@@ -1,0 +1,18 @@
+id_text,text_name,l_no,text
+saao/saa16/P334639,SAA 16 035. Paying Back Father’s Debts (ABL 0948),o 1,ana[to]PRP māru[son]N šarru[king]N bēlu[lord]N
+saao/saa16/P334639,SAA 16 035. Paying Back Father’s Debts (ABL 0948),o 2,ardu[slave]N Šumaya[1]PN
+saao/saa16/P334639,SAA 16 035. Paying Back Father’s Debts (ABL 0948),o 3,lū[may]MOD šulmu[completeness]N ana[to]PRP māru[son]N šarru[king]N bēlu[lord]N
+saao/saa16/P334639,SAA 16 035. Paying Back Father’s Debts (ABL 0948),o 4,Nabu[1]DN u[and]CNJ Marduk[1]DN ana[to]PRP māru[son]N šarru[king]N bēlu[lord]N
+saao/saa16/P334639,SAA 16 035. Paying Back Father’s Debts (ABL 0948),o 5,karābu[pray]V līm[thousand]NU kurummatu[ration]N ša[of]DET šarru[king]N
+saao/saa16/P334639,SAA 16 035. Paying Back Father’s Debts (ABL 0948),o 6,ina[in]PRP pānu[front]N abu[father]N ūma[today]AV anāku[I]IP
+saao/saa16/P334639,SAA 16 035. Paying Back Father’s Debts (ABL 0948),o 7,meʾatu[(one)-hundred]NU kurummatu[ration]N ištu[from]PRP libbu[interior]N tadānu[give]V
+saao/saa16/P334639,SAA 16 035. Paying Back Father’s Debts (ABL 0948),o 8,meʾatu[(one)-hundred]NU kurummatu[ration]N ina[in]PRP pānu[front]N rēhu[remaining]AJ
+saao/saa16/P334639,SAA 16 035. Paying Back Father’s Debts (ABL 0948),r 1',ana[to]PRP māru[son]N šarru[king]N
+saao/saa16/P334639,SAA 16 035. Paying Back Father’s Debts (ABL 0948),r 2',bēlu[lord]N mahāru[face]V māru[son]N šarru[king]N bēlu[lord]N
+saao/saa16/P334639,SAA 16 035. Paying Back Father’s Debts (ABL 0948),r 3',lū[may]MOD lā[not]MOD ramû[slacken]V
+saao/saa16/P334639,SAA 16 035. Paying Back Father’s Debts (ABL 0948),r 4',memēni[somebody]XP epēšu[do]V
+saao/saa16/P334639,SAA 16 035. Paying Back Father’s Debts (ABL 0948),r 5',kī[like]PRP ša[that]REL ūmu[day]N annû[this]DP
+saao/saa16/P334639,SAA 16 035. Paying Back Father’s Debts (ABL 0948),r 6',ṣīru[envoy]N ša[of]DET mātu[land]N gabbu[totality]N
+saao/saa16/P334639,SAA 16 035. Paying Back Father’s Debts (ABL 0948),r 7',ina[in]PRP pānu[front]N abu[father]N etēqu[proceed]V
+saao/saa16/P334639,SAA 16 035. Paying Back Father’s Debts (ABL 0948),r 8',kī[like]PRP annû[this]DP ina[in]PRP pānu[front]N māru[son]N šarru[king]N
+saao/saa16/P334639,SAA 16 035. Paying Back Father’s Debts (ABL 0948),r.e. 9,bēlu[lord]N līm[thousand]NU šattu[year]N

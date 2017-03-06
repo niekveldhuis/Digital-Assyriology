@@ -1,0 +1,9 @@
+id_text,text_name,version,l_no,text
+etcsri/Q001855,Ibbi-Suen 08,,1,sux:Ibbisuen[1]RN
+etcsri/Q001855,Ibbi-Suen 08,,2,sux:lugal[king]N sux:kalag[strong]V/i
+etcsri/Q001855,Ibbi-Suen 08,,3,sux:lugal[king]N sux:Urim[1]SN
+etcsri/Q001855,Ibbi-Suen 08,,4,sux:lugal[king]N sux:anubda[quarter]N sux:limmu[four]NU
+etcsri/Q001855,Ibbi-Suen 08,,5,sux:Ŋiriniisag[2]PN
+etcsri/Q001855,Ibbi-Suen 08,,6,sux:dubsar[scribe]N
+etcsri/Q001855,Ibbi-Suen 08,,7,sux:dumu[child]N sux:Babati[1]PN
+etcsri/Q001855,Ibbi-Suen 08,,8,sux:bisaŋdubak[archivist]N

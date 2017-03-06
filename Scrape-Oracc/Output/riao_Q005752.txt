@@ -1,0 +1,52 @@
+id_text,text_name,l_no,text
+riao/Q005752,Adad-narari I 15,1,Adad-narari_I[king-of-Assyria]RN šaknu[appointee]N Enlil[1]DN
+riao/Q005752,Adad-narari I 15,2,iššiakku[city-ruler]N Aššur[1]DN māru[son]N Arik-din-ili[king-of-Assyria]RN
+riao/Q005752,Adad-narari I 15,3,šaknu[appointee]N Enlil[1]DN iššiakku[city-ruler]N Aššur[1]DN
+riao/Q005752,Adad-narari I 15,4,māru[son]N Enlil-narari[vice-regent-of-Aššur]RN šaknu[appointee]N Enlil[1]DN
+riao/Q005752,Adad-narari I 15,5,iššiakku[city-ruler]N Aššur[1]DN inūma[when]SBJ bītu[house]N Ištar[1]DN
+riao/Q005752,Adad-narari I 15,6,Aššuru[Assyrian]EN bēltu[lady]N ša[that]REL ina[in]PRP pāna[formerly]AV
+riao/Q005752,Adad-narari I 15,7,Ilu-šuma[vice-regent-of-Aššur]RN iššiakku[city-ruler]N Aššur[1]DN abu[father]N
+riao/Q005752,Adad-narari I 15,8,māru[son]N Šalim-ahum[vice-regent-of-Aššur]RN iššiakku[city-ruler]N Aššur[1]DN
+riao/Q005752,Adad-narari I 15,9,epēšu[do]V šuklulu[complete]V
+riao/Q005752,Adad-narari I 15,10,bītu[house]N šū[he]IP anāhu[be(come)-tired]V
+riao/Q005752,Adad-narari I 15,11,Šarru-ukin_I[Sargon-I;-son-of-Ikunum;-vice-regent-of-Aššur]RN iššiakku[city-ruler]N Aššur[1]DN māru[son]N Ikunum[vice-regent-of-Aššur]RN
+riao/Q005752,Adad-narari I 15,12,iššiakku[city-ruler]N Aššur[1]DN edēšu[be(come)-new]V târu[turn]V
+riao/Q005752,Adad-narari I 15,13,anāhu[be(come)-tired]V Puzur-Aššur_III[son-of-Aššur-narari-I;-vice-regent-of-Aššur]RN
+riao/Q005752,Adad-narari I 15,14,iššiakku[city-ruler]N Aššur[1]DN abu[father]N māru[son]N Aššur-narari_I[son-of-Išme-Dagan-II;-vice-regent-of-Aššur]RN
+riao/Q005752,Adad-narari I 15,15,iššiakku[city-ruler]N Aššur[1]DN edēšu[be(come)-new]V bītu[house]N šū[he]IP
+riao/Q005752,Adad-narari I 15,16,bītu[house]N
+riao/Q005752,Adad-narari I 15,17,ša[of]DET tarbaṣu[pen]N u[and]CNJ huršu[storeroom]N Ištar[1]DN
+riao/Q005752,Adad-narari I 15,18,ša[of]DET ša[of]DET Altammu-ša-Ištar[Inn-of-the-Goddess-Ištar]ON
+riao/Q005752,Adad-narari I 15,19,u[and]CNJ bītu[house]N Išhara[1]DN
+riao/Q005752,Adad-narari I 15,20,ša[of]DET târu[turn]V
+riao/Q005752,Adad-narari I 15,21,anāhu[be(come)-tired]V Adad-narari_I[king-of-Assyria]RN šaknu[appointee]N Enlil[1]DN
+riao/Q005752,Adad-narari I 15,22,iššiakku[city-ruler]N Aššur[1]DN māru[son]N Arik-din-ili[king-of-Assyria]RN šaknu[appointee]N Enlil[1]DN
+riao/Q005752,Adad-narari I 15,23,iššiakku[city-ruler]N Aššur[1]DN māru[son]N Enlil-narari[vice-regent-of-Aššur]RN
+riao/Q005752,Adad-narari I 15,24,šaknu[appointee]N Enlil[1]DN iššiakku[city-ruler]N Aššur[1]DN
+riao/Q005752,Adad-narari I 15,25,bītu[house]N šâtu[him]IP enšu[weak-one]N kašāru[restore]V
+riao/Q005752,Adad-narari I 15,26,uššu[foundation]N ina[in]PRP pīlu[limestone]N
+riao/Q005752,Adad-narari I 15,27,ša[of]DET bītu[house]N šahūru[cultic-´summit-building´]N
+riao/Q005752,Adad-narari I 15,28,u[and]CNJ
+riao/Q005752,Adad-narari I 15,29,u[and]CNJ ša[of]DET bītu[house]N huršu[storeroom]N Ištar[1]DN
+riao/Q005752,Adad-narari I 15,30,anhūtu[tiredness]N nakāru[be(come)-different]V
+riao/Q005752,Adad-narari I 15,31,kânu[be(come)-permanent]V ana[to]PRP ašru[place]N
+riao/Q005752,Adad-narari I 15,32,târu[turn]V u[and]CNJ narû[stele]N šakānu[put]V
+riao/Q005752,Adad-narari I 15,33,ana[to]PRP warkītu[posterity]N ūmu[day]N rubû[ruler]N warkû[rear]AJ
+riao/Q005752,Adad-narari I 15,34,inūma[when]SBJ bītu[house]N šū[he]IP anāhu[be(come)-tired]V
+riao/Q005752,Adad-narari I 15,35,edēšu[be(come)-new]V narû[stele]N u[and]CNJ šumu[name]N šaṭru[written]AJ
+riao/Q005752,Adad-narari I 15,36,ana[to]PRP ašru[place]N watāru[be(come)-outsize]V
+riao/Q005752,Adad-narari I 15,37,Aššur[1]DN ikribu[prayer]N šemû[hear]V
+riao/Q005752,Adad-narari I 15,38,munakkiru[one-who-alters-something]N šiṭru[(piece-of)-writing]N
+riao/Q005752,Adad-narari I 15,39,u[and]CNJ šumu[name]N Aššur[1]DN bēlu[lord]N
+riao/Q005752,Adad-narari I 15,40,šarrūtu[kingship]N sakāpu[push-down]V
+riao/Q005752,Adad-narari I 15,41,šumu[name]N zēru[seed(s)]N ina[in]PRP mātu[land]N halāqu[be(come)-lost]V
+riao/Q005752,Adad-narari I 15,42,Ištar[1]DN bēltu[lady]N abiktu[defeat]N
+riao/Q005752,Adad-narari I 15,43,mātu[land]N ina[in]PRP pānu[front]N
+riao/Q005752,Adad-narari I 15,44,nakru[enemy]N ai[not]MOD izuzzu[stand]V
+riao/Q005752,Adad-narari I 15,45,Adad[1]DN ina[in]PRP berqu[lightning]N
+riao/Q005752,Adad-narari I 15,46,lemuttu[evil]N mātu[land]N
+riao/Q005752,Adad-narari I 15,47,barāqu[lighten]V
+riao/Q005752,Adad-narari I 15,48,ana[to]PRP mātu[land]N hušahhu[need]N nadû[throw-(down)]V
+riao/Q005752,Adad-narari I 15,49A,Sin[Month-of-the-God-Sin]MN līmu[eponym-(of-year)]N Ša-Adad-ninu[eponym]PN
+riao/Q005752,Adad-narari I 15,49B,Belat-ekallim[Month-of-the-God-Belat-ekallim]MN līmu[eponym-(of-year)]N Aššur-dammiq[eponym]PN
+riao/Q005752,Adad-narari I 15,49C,Qarratu[1]MN līmu[eponym-(of-year)]N Ša-Adad-ninu[eponym]PN

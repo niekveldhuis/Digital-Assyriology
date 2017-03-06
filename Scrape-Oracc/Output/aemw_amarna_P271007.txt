@@ -1,0 +1,50 @@
+id_text,text_name,l_no,text
+<<<<<<< HEAD
+aemw/amarna/P271007,EA 305. The power of the ʿApiru [vassal letter],001,akk-x-mbperi:ana[to]PRP akk-x-mbperi:šarru[king]N akk-x-mbperi:bēlu[lord]N akk-x-mbperi:Šamaš[1]DN
+aemw/amarna/P271007,EA 305. The power of the ʿApiru [vassal letter],002,akk-x-mbperi:ša[that]REL akk-x-mbperi:ištu[from]PRP akk-x-mbperi:šamû[sky]N akk-x-mbperi:šamû[sky]N
+aemw/amarna/P271007,EA 305. The power of the ʿApiru [vassal letter],003,akk-x-mbperi:ilu[god]N akk-x-mbperi:Šamaš[1]DN
+aemw/amarna/P271007,EA 305. The power of the ʿApiru [vassal letter],004,akk-x-mbperi:umma[saying]PRP akk-x-mbperi:Šubandu[1]PN
+aemw/amarna/P271007,EA 305. The power of the ʿApiru [vassal letter],005,akk-x-mbperi:wardu[slave]N akk-x-mbperi:eperu[earth]N
+aemw/amarna/P271007,EA 305. The power of the ʿApiru [vassal letter],006,akk-x-mbperi:ša[of]DET akk-x-mbperi:šēpu[foot]N
+aemw/amarna/P271007,EA 305. The power of the ʿApiru [vassal letter],007,akk-x-mbperi:sisû[horse]N
+aemw/amarna/P271007,EA 305. The power of the ʿApiru [vassal letter],008,akk-x-mbperi:ana[to]PRP akk-x-mbperi:šēpu[foot]N
+aemw/amarna/P271007,EA 305. The power of the ʿApiru [vassal letter],009,akk-x-mbperi:šarru[king]N akk-x-mbperi:bēlu[lord]N akk-x-mbperi:Šamaš[1]DN
+aemw/amarna/P271007,EA 305. The power of the ʿApiru [vassal letter],010,akk-x-mbperi:ša[that]REL akk-x-mbperi:ištu[from]PRP akk-x-mbperi:šamû[sky]N akk-x-mbperi:šamû[sky]N
+aemw/amarna/P271007,EA 305. The power of the ʿApiru [vassal letter],011,akk-x-mbperi:u[and]CNJ
+aemw/amarna/P271007,EA 305. The power of the ʿApiru [vassal letter],012,akk-x-mbperi:lū[indeed]MOD akk-x-mbperi:šukênu[prostrate-oneself]V
+aemw/amarna/P271007,EA 305. The power of the ʿApiru [vassal letter],013,akk-x-mbperi:kabattu[liver]N
+aemw/amarna/P271007,EA 305. The power of the ʿApiru [vassal letter],014,akk-x-mbperi:u[and]CNJ akk-x-mbperi:ṣēru[back]N
+aemw/amarna/P271007,EA 305. The power of the ʿApiru [vassal letter],015,akk-x-mbperi:šemû[hear]V
+aemw/amarna/P271007,EA 305. The power of the ʿApiru [vassal letter],016,akk-x-mbperi:awātu[word]N akk-x-mbperi:šarru[king]N akk-x-mbperi:bēlu[lord]N
+aemw/amarna/P271007,EA 305. The power of the ʿApiru [vassal letter],017,akk-x-mbperi:ša[that]REL akk-x-mbperi:šapāru[send]V
+aemw/amarna/P271007,EA 305. The power of the ʿApiru [vassal letter],018,akk-x-mbperi:u[and]CNJ akk-x-mbperi:anumma[now]AV akk-x-mbperi:naṣāru[guard]V
+aemw/amarna/P271007,EA 305. The power of the ʿApiru [vassal letter],019,akk-x-mbperi:ašru[place]N akk-x-mbperi:šarru[king]N akk-x-mbperi:ša[that]REL
+aemw/amarna/P271007,EA 305. The power of the ʿApiru [vassal letter],020,akk-x-mbperi:itti[with]PRP akk-x-mbperi:u[and]CNJ
+aemw/amarna/P271007,EA 305. The power of the ʿApiru [vassal letter],021,akk-x-mbperi:anumma[now]AV akk-x-mbperi:dannu[strong]AJ
+aemw/amarna/P271007,EA 305. The power of the ʿApiru [vassal letter],022,akk-x-mbperi:hāpiru[(class-of)-vagrant]N akk-x-mbperi:eli[on]PRP
+aemw/amarna/P271007,EA 305. The power of the ʿApiru [vassal letter],023,akk-x-mbperi:u[and]CNJ akk-x-mbperi:šarru[king]N akk-x-mbperi:edû[know]V
+=======
+aemw/amarna/P271007,EA 305. The power of the ʿApiru [vassal letter],001,akk-x-mbperi:šarru[king]N akk-x-mbperi:bēlu[lord]N
+aemw/amarna/P271007,EA 305. The power of the ʿApiru [vassal letter],002,akk-x-mbperi:šamû[sky]N akk-x-mbperi:šamû[sky]N
+aemw/amarna/P271007,EA 305. The power of the ʿApiru [vassal letter],003,akk-x-mbperi:ilu[god]N
+aemw/amarna/P271007,EA 305. The power of the ʿApiru [vassal letter],004,
+aemw/amarna/P271007,EA 305. The power of the ʿApiru [vassal letter],005,akk-x-mbperi:wardu[slave]N akk-x-mbperi:eperu[earth]N
+aemw/amarna/P271007,EA 305. The power of the ʿApiru [vassal letter],006,akk-x-mbperi:šēpu[foot]N
+aemw/amarna/P271007,EA 305. The power of the ʿApiru [vassal letter],007,akk-x-mbperi:sisû[horse]N
+aemw/amarna/P271007,EA 305. The power of the ʿApiru [vassal letter],008,akk-x-mbperi:šēpu[foot]N
+aemw/amarna/P271007,EA 305. The power of the ʿApiru [vassal letter],009,akk-x-mbperi:šarru[king]N akk-x-mbperi:bēlu[lord]N
+aemw/amarna/P271007,EA 305. The power of the ʿApiru [vassal letter],010,akk-x-mbperi:šamû[sky]N akk-x-mbperi:šamû[sky]N
+aemw/amarna/P271007,EA 305. The power of the ʿApiru [vassal letter],011,
+aemw/amarna/P271007,EA 305. The power of the ʿApiru [vassal letter],012,
+aemw/amarna/P271007,EA 305. The power of the ʿApiru [vassal letter],013,akk-x-mbperi:kabattu[liver]N
+aemw/amarna/P271007,EA 305. The power of the ʿApiru [vassal letter],014,akk-x-mbperi:ṣēru[back]N
+aemw/amarna/P271007,EA 305. The power of the ʿApiru [vassal letter],015,
+aemw/amarna/P271007,EA 305. The power of the ʿApiru [vassal letter],016,akk-x-mbperi:awātu[word]N akk-x-mbperi:šarru[king]N akk-x-mbperi:bēlu[lord]N
+aemw/amarna/P271007,EA 305. The power of the ʿApiru [vassal letter],017,
+aemw/amarna/P271007,EA 305. The power of the ʿApiru [vassal letter],018,
+aemw/amarna/P271007,EA 305. The power of the ʿApiru [vassal letter],019,akk-x-mbperi:ašru[place]N akk-x-mbperi:šarru[king]N
+aemw/amarna/P271007,EA 305. The power of the ʿApiru [vassal letter],020,
+aemw/amarna/P271007,EA 305. The power of the ʿApiru [vassal letter],021,
+aemw/amarna/P271007,EA 305. The power of the ʿApiru [vassal letter],022,akk-x-mbperi:hāpiru[(class-of)-vagrant]N
+aemw/amarna/P271007,EA 305. The power of the ʿApiru [vassal letter],023,akk-x-mbperi:šarru[king]N
+>>>>>>> d524642d5275e5016007339cafda4e021ecb17ba

@@ -1,0 +1,7 @@
+id_text,text_name,version,l_no,text
+etcsri/Q004976,Ibbi-Suen 2042add,,i 1,sux:Ibbisuen[1]RN
+etcsri/Q004976,Ibbi-Suen 2042add,,i 2,sux:lugal[king]N sux:kalag[strong]V/i
+etcsri/Q004976,Ibbi-Suen 2042add,,i 3,sux:lugal[king]N sux:Urim[1]SN
+etcsri/Q004976,Ibbi-Suen 2042add,,i 4,sux:lugal[king]N sux:anubda[quarter]N sux:limmu[four]NU
+etcsri/Q004976,Ibbi-Suen 2042add,,ii 1,sux:Anid[2]PN
+etcsri/Q004976,Ibbi-Suen 2042add,,ii 2,sux:arad[slave]N

@@ -1,0 +1,9 @@
+id_text,text_name,version,l_no,text
+etcsri/Q001040,Ur-Nanše 31,,i 1,sux:Urnanše[1]RN
+etcsri/Q001040,Ur-Nanše 31,,i 2,sux:lugal[king]N
+etcsri/Q001040,Ur-Nanše 31,,i 3,sux:Lagaš[1]SN
+etcsri/Q001040,Ur-Nanše 31,,i 4,sux:dumu[child]N sux:Gu-NI.DU[1]PN
+etcsri/Q001040,Ur-Nanše 31,,i 5,sux:dumu[child]N sux:Gursar[1]GN
+etcsri/Q001040,Ur-Nanše 31,,ii 1,sux:eg[levee]N sux:dag[line]N sux:Sala[1]GN
+etcsri/Q001040,Ur-Nanše 31,,ii 2,sux:Martu[1]EN
+etcsri/Q001040,Ur-Nanše 31,,ii 3,sux:du[build]V/t

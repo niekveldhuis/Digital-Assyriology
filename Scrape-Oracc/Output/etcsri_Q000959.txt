@@ -1,0 +1,12 @@
+id_text,text_name,version,l_no,text
+etcsri/Q000959,Ur-Namma 54,,1,sux:Ningal[1]DN
+etcsri/Q000959,Ur-Namma 54,,2,sux:nin[lady]N
+etcsri/Q000959,Ur-Namma 54,,3,sux:namtil[life]N
+etcsri/Q000959,Ur-Namma 54,,4,sux:Urnammak[1]RN
+etcsri/Q000959,Ur-Namma 54,,5,sux:nita[male]N sux:kalag[strong]V/i
+etcsri/Q000959,Ur-Namma 54,,6,sux:lugal[king]N sux:Urim[1]SN
+etcsri/Q000959,Ur-Namma 54,,7,sux:lugal[king]N sux:Kiengir[1]GN sux:Akkad[1]GN
+etcsri/Q000959,Ur-Namma 54,,8,sux:adda[father]N
+etcsri/Q000959,Ur-Namma 54,,9,sux:Ennirŋalanak[1]PN
+etcsri/Q000959,Ur-Namma 54,,10,sux:en[priest]N sux:Nanna[1]DN
+etcsri/Q000959,Ur-Namma 54,,11,sux:dumu[child]N sux:ki[place]N sux:aŋ[measure]V/t

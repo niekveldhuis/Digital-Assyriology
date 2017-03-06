@@ -1,0 +1,8 @@
+id_text,text_name,version,l_no,text
+etcsri/Q005016,Ibbi-Suen 2087add,,i 1,sux:Ibbisuen[1]RN
+etcsri/Q005016,Ibbi-Suen 2087add,,i 2,sux:lugal[king]N sux:kalag[strong]V/i
+etcsri/Q005016,Ibbi-Suen 2087add,,i 3,sux:lugal[king]N sux:Urim[1]SN
+etcsri/Q005016,Ibbi-Suen 2087add,,i 4,sux:lugal[king]N sux:anubda[quarter]N sux:limmu[four]NU
+etcsri/Q005016,Ibbi-Suen 2087add,,ii 1,sux:Uršulpae[7]PN
+etcsri/Q005016,Ibbi-Suen 2087add,,ii 2,sux:dubsar[scribe]N
+etcsri/Q005016,Ibbi-Suen 2087add,,ii 3,sux:dumu[child]N sux:Ursaga[4]PN

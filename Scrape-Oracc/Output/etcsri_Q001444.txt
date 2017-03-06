@@ -1,0 +1,10 @@
+id_text,text_name,version,l_no,text
+etcsri/Q001444,Hala-Adda 1,,1,sux:Dada[3]PN
+etcsri/Q001444,Hala-Adda 1,,2,sux:ensik[ruler]N
+etcsri/Q001444,Hala-Adda 1,,3,sux:Šuruppag[1]SN
+etcsri/Q001444,Hala-Adda 1,,4,sux:Halaadda[1]PN
+etcsri/Q001444,Hala-Adda 1,,5,sux:ensik[ruler]N
+etcsri/Q001444,Hala-Adda 1,,6,sux:Šuruppag[1]SN
+etcsri/Q001444,Hala-Adda 1,,7,sux:dumu[child]N
+etcsri/Q001444,Hala-Adda 1,,8,sux:adus[plank]N sux:abula[gate]N
+etcsri/Q001444,Hala-Adda 1,,9,sux:Sud[1]DN

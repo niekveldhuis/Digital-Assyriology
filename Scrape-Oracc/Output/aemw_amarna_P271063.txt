@@ -1,0 +1,40 @@
+id_text,text_name,l_no,text
+<<<<<<< HEAD
+aemw/amarna/P271063,EA 214. Message lost [vassal letter],001,akk-x-mbperi:ana[to]PRP akk-x-mbperi:šarru[king]N akk-x-mbperi:bēlu[lord]N akk-x-mbperi:ilu[god]N
+aemw/amarna/P271063,EA 214. Message lost [vassal letter],002,akk-x-mbperi:Šamaš[1]DN akk-x-mbperi:umma[saying]PRP
+aemw/amarna/P271063,EA 214. Message lost [vassal letter],003,akk-x-mbperi:wardu[slave]N
+aemw/amarna/P271063,EA 214. Message lost [vassal letter],004,akk-x-mbperi:ana[to]PRP akk-x-mbperi:šēpu[foot]N akk-x-mbperi:bēlu[lord]N akk-x-mbperi:ilu[god]N
+aemw/amarna/P271063,EA 214. Message lost [vassal letter],005,akk-x-mbperi:Šamaš[1]DN akk-x-mbperi:u[and]CNJ
+aemw/amarna/P271063,EA 214. Message lost [vassal letter],006,akk-x-mbperi:šukênu[prostrate-oneself]V akk-x-mbperi:rābiṣu[bailiff]N
+aemw/amarna/P271063,EA 214. Message lost [vassal letter],007,akk-x-mbperi:kašdu[achieved]AJ akk-x-mbperi:ana[to]PRP akk-x-mbperi:yâšim[to-me]IP
+aemw/amarna/P271063,EA 214. Message lost [vassal letter],008,akk-x-mbperi:inanna[now]AV akk-x-mbperi:ūmu[day]N akk-x-mbperi:u[and]CNJ akk-x-mbperi:mūšu[night]N
+aemw/amarna/P271063,EA 214. Message lost [vassal letter],009,akk-x-mbperi:bašû[be(come)-at-hand]V akk-x-mbperi:ālu[city]N akk-x-mbperi:ana[to]PRP akk-x-mbperi:pānu[front]N
+aemw/amarna/P271063,EA 214. Message lost [vassal letter],010,akk-x-mbperi:ṣābu[people]N akk-x-mbperi:bēlu[lord]N akk-x-mbperi:wašāru[sink-down]V
+aemw/amarna/P271063,EA 214. Message lost [vassal letter],011,akk-x-mbperi:Zitriyara[1]PN
+aemw/amarna/P271063,EA 214. Message lost [vassal letter],026,akk-x-mbperi:mimmû[all]N akk-x-mbperi:u[and]CNJ
+aemw/amarna/P271063,EA 214. Message lost [vassal letter],027,akk-x-mbperi:mimmû[all]N akk-x-mbperi:šarru[king]N akk-x-mbperi:bēlu[lord]N
+aemw/amarna/P271063,EA 214. Message lost [vassal letter],028,akk-x-mbperi:ana[to]PRP akk-x-mbperi:šuāšu[to-him]IP akk-x-mbperi:anumma[now]AV
+aemw/amarna/P271063,EA 214. Message lost [vassal letter],029,akk-x-mbperi:duppuru[move-away]V
+aemw/amarna/P271063,EA 214. Message lost [vassal letter],030,akk-x-mbperi:awīlu[man]N akk-x-mbperi:ša[that]REL akk-x-mbperi:lā[not]MOD akk-x-mbperi:šemû[hear]V
+aemw/amarna/P271063,EA 214. Message lost [vassal letter],031,akk-x-mbperi:awātu[word]N akk-x-mbperi:šarru[king]N akk-x-mbperi:bēlu[lord]N
+aemw/amarna/P271063,EA 214. Message lost [vassal letter],032,akk-x-mbperi:awīlu[man]N akk-x-mbperi:arnu[guilt]N akk-x-mbperi:ištu[from]PRP
+=======
+aemw/amarna/P271063,EA 214. Message lost [vassal letter],001,akk-x-mbperi:šarru[king]N akk-x-mbperi:bēlu[lord]N akk-x-mbperi:ilu[god]N
+aemw/amarna/P271063,EA 214. Message lost [vassal letter],002,
+aemw/amarna/P271063,EA 214. Message lost [vassal letter],003,akk-x-mbperi:wardu[slave]N
+aemw/amarna/P271063,EA 214. Message lost [vassal letter],004,akk-x-mbperi:šēpu[foot]N akk-x-mbperi:bēlu[lord]N akk-x-mbperi:ilu[god]N
+aemw/amarna/P271063,EA 214. Message lost [vassal letter],005,
+aemw/amarna/P271063,EA 214. Message lost [vassal letter],006,akk-x-mbperi:rābiṣu[bailiff]N
+aemw/amarna/P271063,EA 214. Message lost [vassal letter],007,
+aemw/amarna/P271063,EA 214. Message lost [vassal letter],008,akk-x-mbperi:ūmu[day]N akk-x-mbperi:mūšu[night]N
+aemw/amarna/P271063,EA 214. Message lost [vassal letter],009,akk-x-mbperi:ālu[city]N akk-x-mbperi:pānu[front]N
+aemw/amarna/P271063,EA 214. Message lost [vassal letter],010,akk-x-mbperi:ṣābu[people]N akk-x-mbperi:bēlu[lord]N
+aemw/amarna/P271063,EA 214. Message lost [vassal letter],011,
+aemw/amarna/P271063,EA 214. Message lost [vassal letter],026,akk-x-mbperi:mimmû[all]N
+aemw/amarna/P271063,EA 214. Message lost [vassal letter],027,akk-x-mbperi:mimmû[all]N akk-x-mbperi:šarru[king]N akk-x-mbperi:bēlu[lord]N
+aemw/amarna/P271063,EA 214. Message lost [vassal letter],028,
+aemw/amarna/P271063,EA 214. Message lost [vassal letter],029,
+aemw/amarna/P271063,EA 214. Message lost [vassal letter],030,akk-x-mbperi:awīlu[man]N
+aemw/amarna/P271063,EA 214. Message lost [vassal letter],031,akk-x-mbperi:awātu[word]N akk-x-mbperi:šarru[king]N akk-x-mbperi:bēlu[lord]N
+aemw/amarna/P271063,EA 214. Message lost [vassal letter],032,akk-x-mbperi:awīlu[man]N akk-x-mbperi:arnu[guilt]N
+>>>>>>> d524642d5275e5016007339cafda4e021ecb17ba

@@ -1,0 +1,116 @@
+id_text,text_name,l_no,text
+<<<<<<< HEAD
+aemw/amarna/P271029,EA 103. Critical days for Ṣumur [vassal letter],001,akk-x-mbperi:ana[to]PRP akk-x-mbperi:šarru[king]N akk-x-mbperi:bēlu[lord]N
+aemw/amarna/P271029,EA 103. Critical days for Ṣumur [vassal letter],002,akk-x-mbperi:Šamaš[1]DN akk-x-mbperi:umma[saying]PRP akk-x-mbperi:Rib-Haddi[1]PN
+aemw/amarna/P271029,EA 103. Critical days for Ṣumur [vassal letter],003,akk-x-mbperi:wardu[slave]N akk-x-mbperi:ana[to]PRP akk-x-mbperi:šēpu[foot]N akk-x-mbperi:bēlu[lord]N
+aemw/amarna/P271029,EA 103. Critical days for Ṣumur [vassal letter],004,akk-x-mbperi:Šamaš[1]DN
+aemw/amarna/P271029,EA 103. Critical days for Ṣumur [vassal letter],005,akk-x-mbperi:maqātu[fall]V akk-x-mbperi:šemû[hear]V akk-x-mbperi:šarru[king]N
+aemw/amarna/P271029,EA 103. Critical days for Ṣumur [vassal letter],006,akk-x-mbperi:bēlu[lord]N akk-x-mbperi:awātu[word]N akk-x-mbperi:wardu[slave]N
+aemw/amarna/P271029,EA 103. Critical days for Ṣumur [vassal letter],007,akk-x-mbperi:kittu[steadiness]N akk-x-mbperi:marṣu[sick]AJ akk-x-mbperi:magal[very-(much)]AV
+aemw/amarna/P271029,EA 103. Critical days for Ṣumur [vassal letter],008,akk-x-mbperi:ana[to]PRP akk-x-mbperi:yâšim[to-me]IP akk-x-mbperi:dannu[strong]AJ akk-x-mbperi:nukurtu[enmity]N
+aemw/amarna/P271029,EA 103. Critical days for Ṣumur [vassal letter],009,akk-x-mbperi:māru[son]N akk-x-mbperi:Abdi-Aširte[1]PN akk-x-mbperi:erēbu[enter]V
+aemw/amarna/P271029,EA 103. Critical days for Ṣumur [vassal letter],010,akk-x-mbperi:ina[in]PRP akk-x-mbperi:Amurru[1]GN akk-x-mbperi:ana[to]PRP akk-x-mbperi:šâšunu[(to/of)-them]IP
+aemw/amarna/P271029,EA 103. Critical days for Ṣumur [vassal letter],011,akk-x-mbperi:kalû[all]N akk-x-mbperi:mātu[land]N akk-x-mbperi:Ṣumur[1]GN
+aemw/amarna/P271029,EA 103. Critical days for Ṣumur [vassal letter],012,akk-x-mbperi:u[and]CNJ akk-x-mbperi:Irqata[1]GN akk-x-mbperi:riāhu[remain]V
+aemw/amarna/P271029,EA 103. Critical days for Ṣumur [vassal letter],013,akk-x-mbperi:ana[to]PRP akk-x-mbperi:rabû[big-one]N akk-x-mbperi:u[and]CNJ akk-x-mbperi:anumma[now]AV akk-x-mbperi:ina[in]PRP
+aemw/amarna/P271029,EA 103. Critical days for Ṣumur [vassal letter],014,akk-x-mbperi:Ṣumur[1]GN akk-x-mbperi:izuzzu[stand]V
+aemw/amarna/P271029,EA 103. Critical days for Ṣumur [vassal letter],015,akk-x-mbperi:inūma[when]SBJ akk-x-mbperi:marṣu[sick]AJ akk-x-mbperi:rabû[big-one]N
+aemw/amarna/P271029,EA 103. Critical days for Ṣumur [vassal letter],016,akk-x-mbperi:muhhu[skull]N akk-x-mbperi:nukurtu[enmity]N akk-x-mbperi:ezēbu[leave]V
+aemw/amarna/P271029,EA 103. Critical days for Ṣumur [vassal letter],017,akk-x-mbperi:Gublu[Byblos]GN akk-x-mbperi:u[and]CNJ akk-x-mbperi:yānu[(there)-is-not]V
+aemw/amarna/P271029,EA 103. Critical days for Ṣumur [vassal letter],018,akk-x-mbperi:Zimri-Yidda[1]PN akk-x-mbperi:u[and]CNJ
+aemw/amarna/P271029,EA 103. Critical days for Ṣumur [vassal letter],019,akk-x-mbperi:Yapaʾ-Haddi[1]PN akk-x-mbperi:itti[with]PRP
+aemw/amarna/P271029,EA 103. Critical days for Ṣumur [vassal letter],020,akk-x-mbperi:anumma[now]AV akk-x-mbperi:kīam[so]AV akk-x-mbperi:šapāru[send]V
+aemw/amarna/P271029,EA 103. Critical days for Ṣumur [vassal letter],021,akk-x-mbperi:rabû[big-one]N akk-x-mbperi:ana[to]PRP akk-x-mbperi:šâšunu[(to/of)-them]IP akk-x-mbperi:u[and]CNJ
+aemw/amarna/P271029,EA 103. Critical days for Ṣumur [vassal letter],022,akk-x-mbperi:lā[not]MOD akk-x-mbperi:šemû[hear]V akk-x-mbperi:ana[to]PRP akk-x-mbperi:šâšu[to-him]IP
+aemw/amarna/P271029,EA 103. Critical days for Ṣumur [vassal letter],023,akk-x-mbperi:u[and]CNJ akk-x-mbperi:šemû[hear]V akk-x-mbperi:šarru[king]N akk-x-mbperi:bēlu[lord]N
+aemw/amarna/P271029,EA 103. Critical days for Ṣumur [vassal letter],024,akk-x-mbperi:awātu[word]N akk-x-mbperi:wardu[slave]N akk-x-mbperi:kittu[steadiness]N
+aemw/amarna/P271029,EA 103. Critical days for Ṣumur [vassal letter],025,akk-x-mbperi:wašāru[sink-down]V akk-x-mbperi:tillatu[help]N
+aemw/amarna/P271029,EA 103. Critical days for Ṣumur [vassal letter],026,akk-x-mbperi:kīma[like]PRP akk-x-mbperi:arhiš[quickly]AV akk-x-mbperi:ana[to]PRP
+aemw/amarna/P271029,EA 103. Critical days for Ṣumur [vassal letter],027,akk-x-mbperi:Ṣumur[1]GN akk-x-mbperi:ana[to]PRP akk-x-mbperi:naṣāru[guard]V
+aemw/amarna/P271029,EA 103. Critical days for Ṣumur [vassal letter],028,akk-x-mbperi:adi[until]PRP akk-x-mbperi:kašādu[reach]V akk-x-mbperi:ṣābu[people]N
+aemw/amarna/P271029,EA 103. Critical days for Ṣumur [vassal letter],029,akk-x-mbperi:piṭṭātu[archers]N akk-x-mbperi:šarru[king]N akk-x-mbperi:Šamaš[1]DN
+aemw/amarna/P271029,EA 103. Critical days for Ṣumur [vassal letter],030,akk-x-mbperi:u[and]CNJ akk-x-mbperi:marāru[go-away]V akk-x-mbperi:šarru[king]N
+aemw/amarna/P271029,EA 103. Critical days for Ṣumur [vassal letter],031,akk-x-mbperi:Šamaš[1]DN akk-x-mbperi:awīlu[man]N akk-x-mbperi:šāru[hostile-one]N akk-x-mbperi:ištu[from]PRP
+aemw/amarna/P271029,EA 103. Critical days for Ṣumur [vassal letter],032,akk-x-mbperi:libbu[interior]N akk-x-mbperi:mātu[land]N akk-x-mbperi:šanītu[something-other]N akk-x-mbperi:šemû[hear]V
+aemw/amarna/P271029,EA 103. Critical days for Ṣumur [vassal letter],033,akk-x-mbperi:šarru[king]N akk-x-mbperi:bēlu[lord]N akk-x-mbperi:awātu[word]N akk-x-mbperi:wardu[slave]N
+aemw/amarna/P271029,EA 103. Critical days for Ṣumur [vassal letter],034,akk-x-mbperi:u[and]CNJ akk-x-mbperi:wašāru[sink-down]V akk-x-mbperi:awīlu[man]N akk-x-mbperi:maṣṣartu[observation]N
+aemw/amarna/P271029,EA 103. Critical days for Ṣumur [vassal letter],035,akk-x-mbperi:ana[to]PRP akk-x-mbperi:Ṣumur[1]GN akk-x-mbperi:u[and]CNJ
+aemw/amarna/P271029,EA 103. Critical days for Ṣumur [vassal letter],036,akk-x-mbperi:ana[to]PRP akk-x-mbperi:Irqata[1]GN akk-x-mbperi:šumma[if]MOD
+aemw/amarna/P271029,EA 103. Critical days for Ṣumur [vassal letter],037,akk-x-mbperi:abātu[run-away]V akk-x-mbperi:kalû[all]N
+aemw/amarna/P271029,EA 103. Critical days for Ṣumur [vassal letter],038,akk-x-mbperi:awīlu[man]N akk-x-mbperi:maṣṣartu[observation]N akk-x-mbperi:ištu[from]PRP
+aemw/amarna/P271029,EA 103. Critical days for Ṣumur [vassal letter],039,akk-x-mbperi:Ṣumur[1]GN akk-x-mbperi:u[and]CNJ
+aemw/amarna/P271029,EA 103. Critical days for Ṣumur [vassal letter],040,akk-x-mbperi:tarāṣu[be(come)-in-order]V akk-x-mbperi:ina[in]PRP akk-x-mbperi:pānu[front]N
+aemw/amarna/P271029,EA 103. Critical days for Ṣumur [vassal letter],041,akk-x-mbperi:bēlu[lord]N akk-x-mbperi:Šamaš[1]DN akk-x-mbperi:mātu[land]N akk-x-mbperi:u[and]CNJ
+aemw/amarna/P271029,EA 103. Critical days for Ṣumur [vassal letter],042,akk-x-mbperi:nadānu[give]V akk-x-mbperi:tāpalu[pair-(of-objects)]N
+aemw/amarna/P271029,EA 103. Critical days for Ṣumur [vassal letter],043,akk-x-mbperi:sisû[horse]N akk-x-mbperi:ana[to]PRP akk-x-mbperi:yâšim[to-me]IP
+aemw/amarna/P271029,EA 103. Critical days for Ṣumur [vassal letter],044,akk-x-mbperi:u[and]CNJ akk-x-mbperi:wašāru[sink-down]V akk-x-mbperi:tillatu[help]N
+aemw/amarna/P271029,EA 103. Critical days for Ṣumur [vassal letter],045,akk-x-mbperi:kīma[like]PRP akk-x-mbperi:arhiš[quickly]AV
+aemw/amarna/P271029,EA 103. Critical days for Ṣumur [vassal letter],046,akk-x-mbperi:ana[to]PRP akk-x-mbperi:Ṣumur[1]GN akk-x-mbperi:ana[to]PRP
+aemw/amarna/P271029,EA 103. Critical days for Ṣumur [vassal letter],047,akk-x-mbperi:naṣāru[guard]V akk-x-mbperi:kalû[all]N
+aemw/amarna/P271029,EA 103. Critical days for Ṣumur [vassal letter],048,akk-x-mbperi:awīlu[man]N akk-x-mbperi:maṣṣartu[observation]N
+aemw/amarna/P271029,EA 103. Critical days for Ṣumur [vassal letter],049,akk-x-mbperi:ša[that]REL akk-x-mbperi:riāhu[remain]V akk-x-mbperi:marṣu[sick]AJ
+aemw/amarna/P271029,EA 103. Critical days for Ṣumur [vassal letter],050,akk-x-mbperi:u[and]CNJ akk-x-mbperi:ṣehru[small]AJ akk-x-mbperi:awīlu[man]N
+aemw/amarna/P271029,EA 103. Critical days for Ṣumur [vassal letter],051,akk-x-mbperi:ina[in]PRP akk-x-mbperi:libbu[interior]N akk-x-mbperi:ālu[city]N akk-x-mbperi:šumma[if]MOD
+aemw/amarna/P271029,EA 103. Critical days for Ṣumur [vassal letter],052,akk-x-mbperi:ṣābu[people]N akk-x-mbperi:piṭṭātu[archers]N akk-x-mbperi:lā[not]MOD
+aemw/amarna/P271029,EA 103. Critical days for Ṣumur [vassal letter],053,akk-x-mbperi:wašāru[sink-down]V akk-x-mbperi:u[and]CNJ
+aemw/amarna/P271029,EA 103. Critical days for Ṣumur [vassal letter],054,akk-x-mbperi:yānu[(there)-is-not]V akk-x-mbperi:ālu[city]N akk-x-mbperi:ša[that]REL akk-x-mbperi:riāhu[remain]V
+aemw/amarna/P271029,EA 103. Critical days for Ṣumur [vassal letter],055,akk-x-mbperi:ana[to]PRP akk-x-mbperi:kâti[you]IP akk-x-mbperi:u[and]CNJ akk-x-mbperi:šumma[if]MOD akk-x-mbperi:ṣābu[people]N akk-x-mbperi:piṭṭātu[archers]N
+aemw/amarna/P271029,EA 103. Critical days for Ṣumur [vassal letter],056,akk-x-mbperi:bašû[be(come)-at-hand]V akk-x-mbperi:kalû[all]N akk-x-mbperi:mātu[land]N
+=======
+aemw/amarna/P271029,EA 103. Critical days for Ṣumur [vassal letter],001,
+aemw/amarna/P271029,EA 103. Critical days for Ṣumur [vassal letter],002,
+aemw/amarna/P271029,EA 103. Critical days for Ṣumur [vassal letter],003,
+aemw/amarna/P271029,EA 103. Critical days for Ṣumur [vassal letter],004,
+aemw/amarna/P271029,EA 103. Critical days for Ṣumur [vassal letter],005,
+aemw/amarna/P271029,EA 103. Critical days for Ṣumur [vassal letter],006,
+aemw/amarna/P271029,EA 103. Critical days for Ṣumur [vassal letter],007,
+aemw/amarna/P271029,EA 103. Critical days for Ṣumur [vassal letter],008,
+aemw/amarna/P271029,EA 103. Critical days for Ṣumur [vassal letter],009,
+aemw/amarna/P271029,EA 103. Critical days for Ṣumur [vassal letter],010,
+aemw/amarna/P271029,EA 103. Critical days for Ṣumur [vassal letter],011,
+aemw/amarna/P271029,EA 103. Critical days for Ṣumur [vassal letter],012,
+aemw/amarna/P271029,EA 103. Critical days for Ṣumur [vassal letter],013,
+aemw/amarna/P271029,EA 103. Critical days for Ṣumur [vassal letter],014,
+aemw/amarna/P271029,EA 103. Critical days for Ṣumur [vassal letter],015,
+aemw/amarna/P271029,EA 103. Critical days for Ṣumur [vassal letter],016,
+aemw/amarna/P271029,EA 103. Critical days for Ṣumur [vassal letter],017,
+aemw/amarna/P271029,EA 103. Critical days for Ṣumur [vassal letter],018,
+aemw/amarna/P271029,EA 103. Critical days for Ṣumur [vassal letter],019,
+aemw/amarna/P271029,EA 103. Critical days for Ṣumur [vassal letter],020,
+aemw/amarna/P271029,EA 103. Critical days for Ṣumur [vassal letter],021,
+aemw/amarna/P271029,EA 103. Critical days for Ṣumur [vassal letter],022,
+aemw/amarna/P271029,EA 103. Critical days for Ṣumur [vassal letter],023,
+aemw/amarna/P271029,EA 103. Critical days for Ṣumur [vassal letter],024,
+aemw/amarna/P271029,EA 103. Critical days for Ṣumur [vassal letter],025,
+aemw/amarna/P271029,EA 103. Critical days for Ṣumur [vassal letter],026,
+aemw/amarna/P271029,EA 103. Critical days for Ṣumur [vassal letter],027,
+aemw/amarna/P271029,EA 103. Critical days for Ṣumur [vassal letter],028,
+aemw/amarna/P271029,EA 103. Critical days for Ṣumur [vassal letter],029,
+aemw/amarna/P271029,EA 103. Critical days for Ṣumur [vassal letter],030,
+aemw/amarna/P271029,EA 103. Critical days for Ṣumur [vassal letter],031,
+aemw/amarna/P271029,EA 103. Critical days for Ṣumur [vassal letter],032,
+aemw/amarna/P271029,EA 103. Critical days for Ṣumur [vassal letter],033,
+aemw/amarna/P271029,EA 103. Critical days for Ṣumur [vassal letter],034,
+aemw/amarna/P271029,EA 103. Critical days for Ṣumur [vassal letter],035,
+aemw/amarna/P271029,EA 103. Critical days for Ṣumur [vassal letter],036,
+aemw/amarna/P271029,EA 103. Critical days for Ṣumur [vassal letter],037,
+aemw/amarna/P271029,EA 103. Critical days for Ṣumur [vassal letter],038,
+aemw/amarna/P271029,EA 103. Critical days for Ṣumur [vassal letter],039,
+aemw/amarna/P271029,EA 103. Critical days for Ṣumur [vassal letter],040,
+aemw/amarna/P271029,EA 103. Critical days for Ṣumur [vassal letter],041,
+aemw/amarna/P271029,EA 103. Critical days for Ṣumur [vassal letter],042,
+aemw/amarna/P271029,EA 103. Critical days for Ṣumur [vassal letter],043,
+aemw/amarna/P271029,EA 103. Critical days for Ṣumur [vassal letter],044,
+aemw/amarna/P271029,EA 103. Critical days for Ṣumur [vassal letter],045,
+aemw/amarna/P271029,EA 103. Critical days for Ṣumur [vassal letter],046,
+aemw/amarna/P271029,EA 103. Critical days for Ṣumur [vassal letter],047,
+aemw/amarna/P271029,EA 103. Critical days for Ṣumur [vassal letter],048,
+aemw/amarna/P271029,EA 103. Critical days for Ṣumur [vassal letter],049,
+aemw/amarna/P271029,EA 103. Critical days for Ṣumur [vassal letter],050,
+aemw/amarna/P271029,EA 103. Critical days for Ṣumur [vassal letter],051,
+aemw/amarna/P271029,EA 103. Critical days for Ṣumur [vassal letter],052,
+aemw/amarna/P271029,EA 103. Critical days for Ṣumur [vassal letter],053,
+aemw/amarna/P271029,EA 103. Critical days for Ṣumur [vassal letter],054,
+aemw/amarna/P271029,EA 103. Critical days for Ṣumur [vassal letter],055,
+aemw/amarna/P271029,EA 103. Critical days for Ṣumur [vassal letter],056,
+>>>>>>> d524642d5275e5016007339cafda4e021ecb17ba

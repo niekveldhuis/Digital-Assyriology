@@ -1,0 +1,8 @@
+id_text,text_name,l_no,text
+<<<<<<< HEAD
+aemw/amarna/P270871,EA 381. A letter fragment,009',akk-x-mbperi:šemû[hear]V
+aemw/amarna/P270871,EA 381. A letter fragment,0011',akk-x-mbperi:šemû[hear]V
+=======
+aemw/amarna/P270871,EA 381. A letter fragment,009',
+aemw/amarna/P270871,EA 381. A letter fragment,0011',
+>>>>>>> d524642d5275e5016007339cafda4e021ecb17ba

@@ -1,0 +1,151 @@
+id_text,text_name,version,l_no,text
+etcsri/Q001057,E-anatum 05,,i 1,sux:Ninŋirsuk[1]DN
+etcsri/Q001057,E-anatum 05,,i 2,sux:Eanatum[1]RN
+etcsri/Q001057,E-anatum 05,,i 3,sux:ensik[ruler]N
+etcsri/Q001057,E-anatum 05,,i 4,sux:Lagaš[1]SN
+etcsri/Q001057,E-anatum 05,,i 5,sux:mu[name]N sux:pad[find]V/t
+etcsri/Q001057,E-anatum 05,,i 6,sux:Enlil[1]DN
+etcsri/Q001057,E-anatum 05,,i 7,sux:a[arm]N sux:šum[give]V/t
+etcsri/Q001057,E-anatum 05,,i 8,sux:Ninŋirsuk[1]DN
+etcsri/Q001057,E-anatum 05,,i 9,sux:šag[heart]N sux:pad[find]V/t
+etcsri/Q001057,E-anatum 05,,ii 1,sux:Nanše[1]DN
+etcsri/Q001057,E-anatum 05,,ii 2,sux:ga[milk]N sux:zid[right]V/i sux:gu[eat]V/t
+etcsri/Q001057,E-anatum 05,,ii 3,sux:Ninhursaŋak[1]DN
+etcsri/Q001057,E-anatum 05,,ii 4,sux:mu[name]N sux:dug[good]V/i sux:še[call]V/t
+etcsri/Q001057,E-anatum 05,,ii 5,sux:Inanak[1]DN
+etcsri/Q001057,E-anatum 05,,ii 6,sux:ŋeštug[ear]N sux:šum[give]V/t
+etcsri/Q001057,E-anatum 05,,ii 7,sux:Enkik[1]DN
+etcsri/Q001057,E-anatum 05,,ii 8,sux:ki[place]N sux:aŋ[measure]V/t
+etcsri/Q001057,E-anatum 05,,ii 9,sux:Dumuzidabzuk[1]DN
+etcsri/Q001057,E-anatum 05,,ii 10,sux:ŋiškimti[trust]N
+etcsri/Q001057,E-anatum 05,,ii 11,sux:Hendursaŋak[1]DN
+etcsri/Q001057,E-anatum 05,,ii 12,sux:guli[friend]N sux:ki[place]N sux:aŋ[measure]V/t
+etcsri/Q001057,E-anatum 05,,ii 13,sux:Lugalurubak[1]DN
+etcsri/Q001057,E-anatum 05,,iii 1,sux:dumu[child]N sux:Ayakurgal[1]RN
+etcsri/Q001057,E-anatum 05,,iii 2,sux:ensik[ruler]N
+etcsri/Q001057,E-anatum 05,,iii 3,sux:Lagaš[1]SN
+etcsri/Q001057,E-anatum 05,,iii 4,sux:Ninŋirsuk[1]DN
+etcsri/Q001057,E-anatum 05,,iii 5,sux:Ŋirsu[1]SN
+etcsri/Q001057,E-anatum 05,,iii 6,sux:ki[place]N sux:gi[turn]V/i
+etcsri/Q001057,E-anatum 05,,iii 7,sux:bad[wall]N sux:Irikug[1]SN
+etcsri/Q001057,E-anatum 05,,iii 8,sux:du[build]V/t
+etcsri/Q001057,E-anatum 05,,iii 9,sux:Nanše[1]DN
+etcsri/Q001057,E-anatum 05,,iii 10,sux:Niŋin[1]SN
+etcsri/Q001057,E-anatum 05,,iii 11,sux:du[build]V/t
+etcsri/Q001057,E-anatum 05,,iii 12,sux:Eanatum[1]RN
+etcsri/Q001057,E-anatum 05,,iii 13,sux:Elam[1]GN sux:hursaŋ[mountain]N sux:u[admiration]N
+etcsri/Q001057,E-anatum 05,,iii 14,sux:agakar[conqueror]N sux:sig[put]V/t
+etcsri/Q001057,E-anatum 05,,iii 15,sux:SAHAR.DU₆.TAK₄[burial-mound]N
+etcsri/Q001057,E-anatum 05,,iii 16,sux:dub[heap]V/t
+etcsri/Q001057,E-anatum 05,,iii 17,sux:šunir[emblem]N sux:Arawa[1]SN
+etcsri/Q001057,E-anatum 05,,iii 18,sux:ensik[ruler]N
+etcsri/Q001057,E-anatum 05,,iii 19,sux:saŋ[head]N sux:ŋen[go]V/i
+etcsri/Q001057,E-anatum 05,,iii 20,sux:agakar[conqueror]N sux:sig[put]V/t
+etcsri/Q001057,E-anatum 05,,iii 21,sux:SAHAR.DU₆.TAK₄[burial-mound]N
+etcsri/Q001057,E-anatum 05,,iii 22,sux:dub[heap]V/t
+etcsri/Q001057,E-anatum 05,,iii 23,sux:Umma[1]SN
+etcsri/Q001057,E-anatum 05,,iii 24,sux:agakar[conqueror]N sux:sig[put]V/t
+etcsri/Q001057,E-anatum 05,,iii 25,sux:SAHAR.DU₆.TAK₄[burial-mound]N sux:niš[twenty]NU
+etcsri/Q001057,E-anatum 05,,iv 1,sux:dub[heap]V/t
+etcsri/Q001057,E-anatum 05,,iv 2,sux:Ninŋirsuk[1]DN
+etcsri/Q001057,E-anatum 05,,iv 3,sux:ašag[field]N sux:ki[place]N sux:aŋ[measure]V/t
+etcsri/Q001057,E-anatum 05,,iv 4,sux:Guedenak[1]GN
+etcsri/Q001057,E-anatum 05,,iv 5,sux:šu[hand]N sux:gi[turn]V/i
+etcsri/Q001057,E-anatum 05,,iv 6,sux:Unug[1]SN
+etcsri/Q001057,E-anatum 05,,iv 7,sux:agakar[conqueror]N sux:sig[put]V/t
+etcsri/Q001057,E-anatum 05,,iv 8,sux:Urim[1]SN
+etcsri/Q001057,E-anatum 05,,iv 9,sux:agakar[conqueror]N sux:sig[put]V/t
+etcsri/Q001057,E-anatum 05,,iv 10,sux:Kiutuk[1]SN
+etcsri/Q001057,E-anatum 05,,iv 11,sux:agakar[conqueror]N sux:sig[put]V/t
+etcsri/Q001057,E-anatum 05,,iv 12,sux:Iriaz[1]SN
+etcsri/Q001057,E-anatum 05,,iv 13,sux:hulu[bad]V/t
+etcsri/Q001057,E-anatum 05,,iv 14,sux:ensik[ruler]N
+etcsri/Q001057,E-anatum 05,,iv 15,sux:uš[die]V/i
+etcsri/Q001057,E-anatum 05,,iv 16,sux:Mišime[1]GN
+etcsri/Q001057,E-anatum 05,,iv 17,sux:hulu[bad]V/t
+etcsri/Q001057,E-anatum 05,,iv 18,sux:Arua[1]SN
+etcsri/Q001057,E-anatum 05,,iv 19,sux:halam[forsake]V/t
+etcsri/Q001057,E-anatum 05,,iv 20,sux:Eanatum[1]RN
+etcsri/Q001057,E-anatum 05,,iv 21,sux:mu[name]N sux:pad[find]V/t
+etcsri/Q001057,E-anatum 05,,iv 22,sux:Ninŋirsuk[1]DN
+etcsri/Q001057,E-anatum 05,,iv 23,sux:kur[mountain]N
+etcsri/Q001057,E-anatum 05,,iv 24,sux:saŋ[head]N sux:sag[beat]V/t
+etcsri/Q001057,E-anatum 05,,iv 25,sux:mu[year]N sux:lugal[king]N sux:Akšak[1]SN
+etcsri/Q001057,E-anatum 05,,iv 26,sux:zig[rise]V/i
+etcsri/Q001057,E-anatum 05,,iv 27,sux:Eanatum[1]RN
+etcsri/Q001057,E-anatum 05,,iv 28,sux:mu[name]N sux:pad[find]V/t
+etcsri/Q001057,E-anatum 05,,v 1,sux:Ninŋirsuk[1]DN
+etcsri/Q001057,E-anatum 05,,v 2,sux:Antasura[1]TN
+etcsri/Q001057,E-anatum 05,,v 3,sux:Ninŋirsuk[1]DN
+etcsri/Q001057,E-anatum 05,,v 4,sux:Zuzu[1]RN
+etcsri/Q001057,E-anatum 05,,v 5,sux:lugal[king]N sux:Akšak[1]SN
+etcsri/Q001057,E-anatum 05,,v 6,sux:Akšak[1]SN
+etcsri/Q001057,E-anatum 05,,v 7,sux:gaz[kill]V/t
+etcsri/Q001057,E-anatum 05,,v 8,sux:halam[forsake]V/t
+etcsri/Q001057,E-anatum 05,,v 9,sux:ud[sun]N
+etcsri/Q001057,E-anatum 05,,v 10,sux:Eanatum[1]RN
+etcsri/Q001057,E-anatum 05,,v 11,sux:Eanatum[1]RN
+etcsri/Q001057,E-anatum 05,,v 12,sux:mu[name]N sux:urum[property]N
+etcsri/Q001057,E-anatum 05,,v 13,sux:mu[name]N
+etcsri/Q001057,E-anatum 05,,v 14,sux:Luma[1]RN
+etcsri/Q001057,E-anatum 05,,v 15,sux:Ninŋirsuk[1]DN
+etcsri/Q001057,E-anatum 05,,v 16,sux:id[river]N sux:gibil[new]V/i
+etcsri/Q001057,E-anatum 05,,v 17,sux:dun[dig]V/t
+etcsri/Q001057,E-anatum 05,,v 18,sux:Lumagindug[1]WN
+etcsri/Q001057,E-anatum 05,,v 19,sux:mu[name]N sux:še[call]V/t
+etcsri/Q001057,E-anatum 05,,v 20,sux:Eanatum[1]RN
+etcsri/Q001057,E-anatum 05,,v 21,sux:lu[person]N sux:inim[word]N sux:sig[put]V/t
+etcsri/Q001057,E-anatum 05,,v 22,sux:Ninŋirsuk[1]DN
+etcsri/Q001057,E-anatum 05,,v 23,sux:Eanatum[1]RN
+etcsri/Q001057,E-anatum 05,,v 24,sux:ensik[ruler]N
+etcsri/Q001057,E-anatum 05,,v 25,sux:Lagaš[1]SN
+etcsri/Q001057,E-anatum 05,,v 26,sux:Inanak[1]DN
+etcsri/Q001057,E-anatum 05,,vi 1,sux:ki[place]N sux:aŋ[measure]V/t
+etcsri/Q001057,E-anatum 05,,vi 2,sux:namensik[office-of-ruler]N
+etcsri/Q001057,E-anatum 05,,vi 3,sux:Lagaš[1]SN
+etcsri/Q001057,E-anatum 05,,vi 4,sux:namlugal[kingship]N sux:Kiš[1]SN
+etcsri/Q001057,E-anatum 05,,vi 5,sux:šum[give]V/t
+etcsri/Q001057,E-anatum 05,,vi 6,sux:Eanatum[1]RN
+etcsri/Q001057,E-anatum 05,,vi 7,sux:Elam[1]GN sux:saŋ[head]N sux:sag[beat]V/t
+etcsri/Q001057,E-anatum 05,,vi 8,sux:Elam[1]GN sux:kur[mountain]N sux:gi[turn]V/i
+etcsri/Q001057,E-anatum 05,,vi 9,sux:Kiš[1]SN sux:saŋ[head]N sux:sag[beat]V/t
+etcsri/Q001057,E-anatum 05,,vi 10,sux:lugal[king]N sux:Akšak[1]SN
+etcsri/Q001057,E-anatum 05,,vi 11,sux:kur[mountain]N sux:gi[turn]V/i
+etcsri/Q001057,E-anatum 05,,vi 12,sux:Eanatum[1]RN
+etcsri/Q001057,E-anatum 05,,vi 13,sux:ensik[ruler]N
+etcsri/Q001057,E-anatum 05,,vi 14,sux:Lagaš[1]SN
+etcsri/Q001057,E-anatum 05,,vi 15,sux:kur[mountain]N sux:gu[neck]N sux:ŋar[place]V/t
+etcsri/Q001057,E-anatum 05,,vi 16,sux:Ninŋirsuk[1]DN
+etcsri/Q001057,E-anatum 05,,vi 17,sux:Elam[1]GN sux:Šubur[1]GN
+etcsri/Q001057,E-anatum 05,,vi 18,sux:Arawa[1]SN
+etcsri/Q001057,E-anatum 05,,vi 19,sux:Asuhur[1]WN
+etcsri/Q001057,E-anatum 05,,vi 20,sux:agakar[conqueror]N sux:sig[put]V/t
+etcsri/Q001057,E-anatum 05,,vi 21,sux:Kiš[1]SN sux:Akšak[1]SN
+etcsri/Q001057,E-anatum 05,,vi 22,sux:Mari[1]SN
+etcsri/Q001057,E-anatum 05,,vi 23,sux:Antasura[1]TN
+etcsri/Q001057,E-anatum 05,,vii 1,sux:Ninŋirsuk[1]DN
+etcsri/Q001057,E-anatum 05,,vii 2,sux:agakar[conqueror]N sux:sig[put]V/t
+etcsri/Q001057,E-anatum 05,,vii 3,sux:Ninŋirsuk[1]DN
+etcsri/Q001057,E-anatum 05,,vii 4,sux:Lumagindug[1]WN
+etcsri/Q001057,E-anatum 05,,vii 5,sux:us[follow]V/i
+etcsri/Q001057,E-anatum 05,,vii 6,sux:saŋ[head]N sux:rig[donate]V/t
+etcsri/Q001057,E-anatum 05,,vii 7,sux:Eanatum[1]RN
+etcsri/Q001057,E-anatum 05,,vii 8,sux:a[arm]N sux:šum[give]V/t
+etcsri/Q001057,E-anatum 05,,vii 9,sux:Ninŋirsuk[1]DN
+etcsri/Q001057,E-anatum 05,,vii 10,sux:ŋeškešda[dam]N
+etcsri/Q001057,E-anatum 05,,vii 11,sux:Lumagindug[1]WN
+etcsri/Q001057,E-anatum 05,,vii 12,sux:esir[bitumen]N sux:gur[unit]N sux:ul[unit]N
+etcsri/Q001057,E-anatum 05,,vii 13,sux:du[build]V/t
+etcsri/Q001057,E-anatum 05,,vii 14,sux:Eanatum[1]RN
+etcsri/Q001057,E-anatum 05,,vii 15,sux:lu[person]N sux:inim[word]N sux:sig[put]V/t
+etcsri/Q001057,E-anatum 05,,vii 16,sux:Ninŋirsuk[1]DN
+etcsri/Q001057,E-anatum 05,,vii 17,sux:diŋir[deity]N
+etcsri/Q001057,E-anatum 05,,vii 18,sux:Šul-MUŠ×PA[1]DN
+etcsri/Q001057,E-anatum 05,,vii 19,sux:e[house]N sux:gal[big]V/i sux:Tiraš[1]TN
+etcsri/Q001057,E-anatum 05,,vii 20,sux:du[build]V/t
+etcsri/Q001057,E-anatum 05,,viii 1,sux:dumu[child]N sux:Ayakurgal[1]RN
+etcsri/Q001057,E-anatum 05,,viii 2,sux:ensik[ruler]N
+etcsri/Q001057,E-anatum 05,,viii 3,sux:Lagaš[1]SN
+etcsri/Q001057,E-anatum 05,,viii 4,sux:pabilga[relation]N
+etcsri/Q001057,E-anatum 05,,viii 5,sux:Urnanše[1]RN
+etcsri/Q001057,E-anatum 05,,viii 6,sux:ensik[ruler]N

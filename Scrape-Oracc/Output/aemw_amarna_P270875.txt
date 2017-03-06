@@ -1,0 +1,70 @@
+id_text,text_name,l_no,text
+<<<<<<< HEAD
+aemw/amarna/P270875,EA 366. A rescue operation [vassal letter],001,akk-x-mbperi:ana[to]PRP akk-x-mbperi:šarru[king]N akk-x-mbperi:bēlu[lord]N akk-x-mbperi:Šamaš[1]DN
+aemw/amarna/P270875,EA 366. A rescue operation [vassal letter],002,akk-x-mbperi:ilu[god]N akk-x-mbperi:qabû[say]V
+aemw/amarna/P270875,EA 366. A rescue operation [vassal letter],003,akk-x-mbperi:umma[saying]PRP akk-x-mbperi:Šuwardata[1]PN
+aemw/amarna/P270875,EA 366. A rescue operation [vassal letter],004,akk-x-mbperi:wardu[slave]N akk-x-mbperi:wardu[slave]N akk-x-mbperi:ša[of]DET akk-x-mbperi:šarru[king]N
+aemw/amarna/P270875,EA 366. A rescue operation [vassal letter],005,akk-x-mbperi:u[and]CNJ akk-x-mbperi:eperu[earth]N akk-x-mbperi:ša[of]DET akk-x-mbperi:šēpu[foot]N
+aemw/amarna/P270875,EA 366. A rescue operation [vassal letter],006,akk-x-mbperi:qaqqaru[ground]N akk-x-mbperi:ša[of]DET akk-x-mbperi:kabāsu[tread]V
+aemw/amarna/P270875,EA 366. A rescue operation [vassal letter],007,akk-x-mbperi:ana[to]PRP akk-x-mbperi:šēpu[foot]N akk-x-mbperi:šarru[king]N akk-x-mbperi:bēlu[lord]N
+aemw/amarna/P270875,EA 366. A rescue operation [vassal letter],008,akk-x-mbperi:Šamaš[1]DN akk-x-mbperi:ištu[from]PRP akk-x-mbperi:šamû[sky]N
+aemw/amarna/P270875,EA 366. A rescue operation [vassal letter],009,akk-x-mbperi:šukênu[prostrate-oneself]V akk-x-mbperi:u[and]CNJ
+aemw/amarna/P270875,EA 366. A rescue operation [vassal letter],010,akk-x-mbperi:kabattu[liver]N akk-x-mbperi:u[and]CNJ akk-x-mbperi:šēru[back]N
+aemw/amarna/P270875,EA 366. A rescue operation [vassal letter],011,akk-x-mbperi:lamādu[learn]V akk-x-mbperi:šarru[king]N akk-x-mbperi:bēlu[lord]N
+aemw/amarna/P270875,EA 366. A rescue operation [vassal letter],012,akk-x-mbperi:inūma[when]SBJ akk-x-mbperi:hāpiru[(class-of)-vagrant]N akk-x-mbperi:ša[that]REL
+aemw/amarna/P270875,EA 366. A rescue operation [vassal letter],013,akk-x-mbperi:našû[lift]V qca:naśaʾu[lift]V
+aemw/amarna/P270875,EA 366. A rescue operation [vassal letter],014,akk-x-mbperi:ina[in]PRP akk-x-mbperi:mātu[land]N akk-x-mbperi:nadnu[given]AJ
+aemw/amarna/P270875,EA 366. A rescue operation [vassal letter],015,akk-x-mbperi:ilu[god]N akk-x-mbperi:ša[of]DET akk-x-mbperi:šarru[king]N akk-x-mbperi:bēlu[lord]N akk-x-mbperi:ana[to]PRP akk-x-mbperi:yâšim[to-me]IP
+aemw/amarna/P270875,EA 366. A rescue operation [vassal letter],016,akk-x-mbperi:u[and]CNJ akk-x-mbperi:dâku[kill]V akk-x-mbperi:u[and]CNJ
+aemw/amarna/P270875,EA 366. A rescue operation [vassal letter],017,akk-x-mbperi:lū[let-it-be]MOD akk-x-mbperi:lamādu[learn]V akk-x-mbperi:šarru[king]N
+aemw/amarna/P270875,EA 366. A rescue operation [vassal letter],018,akk-x-mbperi:bēlu[lord]N akk-x-mbperi:inūma[when]SBJ akk-x-mbperi:ezēbu[leave]V
+aemw/amarna/P270875,EA 366. A rescue operation [vassal letter],019,akk-x-mbperi:gabbu[totality]N akk-x-mbperi:ahu[brother]N akk-x-mbperi:u[and]CNJ
+aemw/amarna/P270875,EA 366. A rescue operation [vassal letter],020,akk-x-mbperi:anāku[I]IP akk-x-mbperi:u[and]CNJ akk-x-mbperi:IR₃-Heba[1]PN
+aemw/amarna/P270875,EA 366. A rescue operation [vassal letter],021,akk-x-mbperi:nukurtu[enmity]N akk-x-mbperi:ina[in]PRP akk-x-mbperi:hāpiru[(class-of)-vagrant]N
+aemw/amarna/P270875,EA 366. A rescue operation [vassal letter],022,akk-x-mbperi:u[and]CNJ akk-x-mbperi:Surata[1]PN akk-x-mbperi:awīlu[man]N akk-x-mbperi:ʿAkka[Akko]GN
+aemw/amarna/P270875,EA 366. A rescue operation [vassal letter],023,akk-x-mbperi:u[and]CNJ akk-x-mbperi:Intaruta[1]PN akk-x-mbperi:awīlu[man]N akk-x-mbperi:Akšapa[Achshaph]GN
+aemw/amarna/P270875,EA 366. A rescue operation [vassal letter],024,akk-x-mbperi:šunī[they-two]IP akk-x-mbperi:naʾarruru[go-to-assist]V qca:zaʿaqu[call]V
+aemw/amarna/P270875,EA 366. A rescue operation [vassal letter],025,akk-x-mbperi:ina[in]PRP akk-x-mbperi:narkabtu[chariot]N
+aemw/amarna/P270875,EA 366. A rescue operation [vassal letter],026,akk-x-mbperi:ana[to]PRP akk-x-mbperi:muhhu[skull]N akk-x-mbperi:u[and]CNJ akk-x-mbperi:anumma[now]AV
+aemw/amarna/P270875,EA 366. A rescue operation [vassal letter],027,akk-x-mbperi:bašû[be(come)-at-hand]V akk-x-mbperi:itti[with]PRP
+aemw/amarna/P270875,EA 366. A rescue operation [vassal letter],028,akk-x-mbperi:ina[in]PRP akk-x-mbperi:nukurtu[enmity]N akk-x-mbperi:u[and]CNJ akk-x-mbperi:tarāṣu[be(come)-in-order]V
+aemw/amarna/P270875,EA 366. A rescue operation [vassal letter],029,akk-x-mbperi:ina[in]PRP akk-x-mbperi:pānu[front]N akk-x-mbperi:šarru[king]N akk-x-mbperi:bēlu[lord]N akk-x-mbperi:u[and]CNJ
+aemw/amarna/P270875,EA 366. A rescue operation [vassal letter],030,akk-x-mbperi:lū[let-it-be]MOD akk-x-mbperi:wašāru[sink-down]V akk-x-mbperi:Yanhamu[1]PN
+aemw/amarna/P270875,EA 366. A rescue operation [vassal letter],031,akk-x-mbperi:u[and]CNJ akk-x-mbperi:lū[let-it-be]MOD akk-x-mbperi:epēšu[do]V akk-x-mbperi:gabbu[totality]N
+aemw/amarna/P270875,EA 366. A rescue operation [vassal letter],032,akk-x-mbperi:nukurtu[enmity]N akk-x-mbperi:u[and]CNJ akk-x-mbperi:lū[let-it-be]MOD akk-x-mbperi:târu[turn]V
+aemw/amarna/P270875,EA 366. A rescue operation [vassal letter],033,akk-x-mbperi:mātu[land]N akk-x-mbperi:ša[of]DET akk-x-mbperi:šarru[king]N akk-x-mbperi:bēlu[lord]N
+=======
+aemw/amarna/P270875,EA 366. A rescue operation [vassal letter],001,akk-x-mbperi:šarru[king]N akk-x-mbperi:bēlu[lord]N
+aemw/amarna/P270875,EA 366. A rescue operation [vassal letter],002,akk-x-mbperi:ilu[god]N
+aemw/amarna/P270875,EA 366. A rescue operation [vassal letter],003,
+aemw/amarna/P270875,EA 366. A rescue operation [vassal letter],004,akk-x-mbperi:wardu[slave]N akk-x-mbperi:wardu[slave]N akk-x-mbperi:šarru[king]N
+aemw/amarna/P270875,EA 366. A rescue operation [vassal letter],005,akk-x-mbperi:eperu[earth]N akk-x-mbperi:šēpu[foot]N
+aemw/amarna/P270875,EA 366. A rescue operation [vassal letter],006,akk-x-mbperi:qaqqaru[ground]N
+aemw/amarna/P270875,EA 366. A rescue operation [vassal letter],007,akk-x-mbperi:šēpu[foot]N akk-x-mbperi:šarru[king]N akk-x-mbperi:bēlu[lord]N
+aemw/amarna/P270875,EA 366. A rescue operation [vassal letter],008,akk-x-mbperi:šamû[sky]N
+aemw/amarna/P270875,EA 366. A rescue operation [vassal letter],009,
+aemw/amarna/P270875,EA 366. A rescue operation [vassal letter],010,akk-x-mbperi:kabattu[liver]N akk-x-mbperi:šēru[back]N
+aemw/amarna/P270875,EA 366. A rescue operation [vassal letter],011,akk-x-mbperi:šarru[king]N akk-x-mbperi:bēlu[lord]N
+aemw/amarna/P270875,EA 366. A rescue operation [vassal letter],012,akk-x-mbperi:hāpiru[(class-of)-vagrant]N
+aemw/amarna/P270875,EA 366. A rescue operation [vassal letter],013,
+aemw/amarna/P270875,EA 366. A rescue operation [vassal letter],014,akk-x-mbperi:mātu[land]N
+aemw/amarna/P270875,EA 366. A rescue operation [vassal letter],015,akk-x-mbperi:ilu[god]N akk-x-mbperi:šarru[king]N akk-x-mbperi:bēlu[lord]N
+aemw/amarna/P270875,EA 366. A rescue operation [vassal letter],016,
+aemw/amarna/P270875,EA 366. A rescue operation [vassal letter],017,akk-x-mbperi:šarru[king]N
+aemw/amarna/P270875,EA 366. A rescue operation [vassal letter],018,akk-x-mbperi:bēlu[lord]N
+aemw/amarna/P270875,EA 366. A rescue operation [vassal letter],019,akk-x-mbperi:gabbu[totality]N akk-x-mbperi:ahu[brother]N
+aemw/amarna/P270875,EA 366. A rescue operation [vassal letter],020,
+aemw/amarna/P270875,EA 366. A rescue operation [vassal letter],021,akk-x-mbperi:nukurtu[enmity]N akk-x-mbperi:hāpiru[(class-of)-vagrant]N
+aemw/amarna/P270875,EA 366. A rescue operation [vassal letter],022,akk-x-mbperi:awīlu[man]N
+aemw/amarna/P270875,EA 366. A rescue operation [vassal letter],023,akk-x-mbperi:awīlu[man]N
+aemw/amarna/P270875,EA 366. A rescue operation [vassal letter],024,
+aemw/amarna/P270875,EA 366. A rescue operation [vassal letter],025,akk-x-mbperi:narkabtu[chariot]N
+aemw/amarna/P270875,EA 366. A rescue operation [vassal letter],026,akk-x-mbperi:muhhu[skull]N
+aemw/amarna/P270875,EA 366. A rescue operation [vassal letter],027,
+aemw/amarna/P270875,EA 366. A rescue operation [vassal letter],028,akk-x-mbperi:nukurtu[enmity]N
+aemw/amarna/P270875,EA 366. A rescue operation [vassal letter],029,akk-x-mbperi:pānu[front]N akk-x-mbperi:šarru[king]N akk-x-mbperi:bēlu[lord]N
+aemw/amarna/P270875,EA 366. A rescue operation [vassal letter],030,
+aemw/amarna/P270875,EA 366. A rescue operation [vassal letter],031,akk-x-mbperi:gabbu[totality]N
+aemw/amarna/P270875,EA 366. A rescue operation [vassal letter],032,akk-x-mbperi:nukurtu[enmity]N
+aemw/amarna/P270875,EA 366. A rescue operation [vassal letter],033,akk-x-mbperi:mātu[land]N akk-x-mbperi:šarru[king]N akk-x-mbperi:bēlu[lord]N
+>>>>>>> d524642d5275e5016007339cafda4e021ecb17ba

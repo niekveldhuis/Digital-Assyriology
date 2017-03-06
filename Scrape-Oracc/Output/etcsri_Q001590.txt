@@ -1,0 +1,8 @@
+id_text,text_name,version,l_no,text
+etcsri/Q001590,Hala-Bau 1001,,1,sux:Šulšaganak[1]DN
+etcsri/Q001590,Hala-Bau 1001,,2,sux:dumu[child]N sux:ki[place]N sux:aŋ[measure]V/t
+etcsri/Q001590,Hala-Bau 1001,,3,sux:Ninŋirsuk[1]DN
+etcsri/Q001590,Hala-Bau 1001,,4,sux:lugal[king]N
+etcsri/Q001590,Hala-Bau 1001,,5,sux:Halabau[1]PN
+etcsri/Q001590,Hala-Bau 1001,,6,sux:dam[spouse]N sux:Lugalirida[1]PN
+etcsri/Q001590,Hala-Bau 1001,,7,sux:namtil[life]N

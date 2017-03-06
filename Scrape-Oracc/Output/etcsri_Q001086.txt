@@ -1,0 +1,18 @@
+id_text,text_name,version,l_no,text
+etcsri/Q001086,En-anatum I 18,,i 1,sux:Enanatum[1]RN
+etcsri/Q001086,En-anatum I 18,,i 2,sux:ensik[ruler]N
+etcsri/Q001086,En-anatum I 18,,i 3,sux:Lagaš[1]SN
+etcsri/Q001086,En-anatum I 18,,i 4,sux:mu[name]N sux:pad[find]V/t
+etcsri/Q001086,En-anatum I 18,,i 5,sux:Inanak[1]DN
+etcsri/Q001086,En-anatum I 18,,i 6,sux:Ebgal[1]TN
+etcsri/Q001086,En-anatum I 18,,i 7,sux:du[build]V/t
+etcsri/Q001086,En-anatum I 18,,i 8,sux:Eanak[1]TN
+etcsri/Q001086,En-anatum I 18,,i 9,sux:kur[mountain]N sux:dirig[exceed]V/t
+etcsri/Q001086,En-anatum I 18,,ii 1,sux:ud[sun]N
+etcsri/Q001086,En-anatum I 18,,ii 2,sux:arad[slave]N
+etcsri/Q001086,En-anatum I 18,,ii 3,sux:Šunialdugud[1]PN
+etcsri/Q001086,En-anatum I 18,,ii 4,sux:kindagal[barber]N
+etcsri/Q001086,En-anatum I 18,,ii 5,sux:namnubanda[supervisorship]N sux:ešag[chamber]N
+etcsri/Q001086,En-anatum I 18,,ii 6,sux:tah[add]V/t
+etcsri/Q001086,En-anatum I 18,,ii 7,sux:kib[object]N sux:dim[create]V/t
+etcsri/Q001086,En-anatum I 18,,ii 8,sux:Eanak[1]TN

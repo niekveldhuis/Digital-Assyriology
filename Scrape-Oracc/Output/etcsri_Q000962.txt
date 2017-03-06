@@ -1,0 +1,11 @@
+id_text,text_name,version,l_no,text
+etcsri/Q000962,Šulgi 06,,1,sux:Inanak[1]DN
+etcsri/Q000962,Šulgi 06,,2,sux:nin[lady]N sux:Eanak[1]TN
+etcsri/Q000962,Šulgi 06,,3,sux:nin[lady]N
+etcsri/Q000962,Šulgi 06,,4,sux:Šulgir[1]RN
+etcsri/Q000962,Šulgi 06,,5,sux:nita[male]N sux:kalag[strong]V/i
+etcsri/Q000962,Šulgi 06,,6,sux:lugal[king]N sux:Urim[1]SN
+etcsri/Q000962,Šulgi 06,,7,sux:lugal[king]N sux:Kiengir[1]GN sux:Akkad[1]GN
+etcsri/Q000962,Šulgi 06,,8,sux:Eanak[1]TN
+etcsri/Q000962,Šulgi 06,,9,sux:ki[place]N sux:gi[turn]V/i
+etcsri/Q000962,Šulgi 06,,10,sux:bad[wall]N sux:gal[big]V/i

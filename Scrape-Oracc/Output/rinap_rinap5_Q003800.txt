@@ -1,0 +1,14 @@
+id_text,text_name,l_no,text
+rinap/rinap5/Q003800,Ashurbanipal Babylonian 02,1,Aššur-bani-apli[Ashurbanipal;-king-of-Assyria]RN šarru[king]N
+rinap/rinap5/Q003800,Ashurbanipal Babylonian 02,2,šarru[king]N mātu[land]N Aššur[Assyria]GN šarru[king]N kibru[bank]N
+rinap/rinap5/Q003800,Ashurbanipal Babylonian 02,3,rubû[ruler]N lā[not]MOD šanānu[equal]V ša[that]REL ištu[from]PRP
+rinap/rinap5/Q003800,Ashurbanipal Babylonian 02,4,šaplû[lower]AJ bêlu[rule-(over)]V gimru[totality]N
+rinap/rinap5/Q003800,Ashurbanipal Babylonian 02,5,māru[son]N Aššur-ahu-iddina[Esarhaddon;-king-of-Assyria]RN šarru[king]N
+rinap/rinap5/Q003800,Ashurbanipal Babylonian 02,6,šarru[king]N mātu[land]N Šumeru[Sumer]GN u[and]CNJ Akkad[1]GN māru[son]N
+rinap/rinap5/Q003800,Ashurbanipal Babylonian 02,7,šarru[king]N kiššatu[totality]N šarru[king]N mātu[land]N Aššur[Assyria]GN anāku[I]IP
+rinap/rinap5/Q003800,Ashurbanipal Babylonian 02,8,ša[that]REL abu[father]N bānû[creator]N lā[not]MOD qatû[come-to-an-end]V
+rinap/rinap5/Q003800,Ashurbanipal Babylonian 02,9,sattukku[regular-delivery]N Esagil[1]TN
+rinap/rinap5/Q003800,Ashurbanipal Babylonian 02,10,kidinnūtu[exempt-status]N Babili[Babylon]SN
+rinap/rinap5/Q003800,Ashurbanipal Babylonian 02,11,ana[to]PRP enšu[weak-one]N
+rinap/rinap5/Q003800,Ashurbanipal Babylonian 02,1',mušarû[(royal)-inscription]N
+rinap/rinap5/Q003800,Ashurbanipal Babylonian 02,2',Ea[1]DN šarru[king]N apsû[(cosmic)-underground-water]N

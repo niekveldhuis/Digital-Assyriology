@@ -1,0 +1,9 @@
+id_text,text_name,l_no,text
+dcclt/P253874,CUSAS 12 3.1.14 [OB Ura],o 1,gigir[chariot]N
+dcclt/P253874,CUSAS 12 3.1.14 [OB Ura],o 2,mud[tube]N gigir[chariot]N
+dcclt/P253874,CUSAS 12 3.1.14 [OB Ura],o 3,zara[pivot]N gigir[chariot]N
+dcclt/P253874,CUSAS 12 3.1.14 [OB Ura],o 4,gag[nail]N zara[pivot]N gigir[chariot]N
+dcclt/P253874,CUSAS 12 3.1.14 [OB Ura],o 5,šudul[yoke]N gigir[chariot]N
+dcclt/P253874,CUSAS 12 3.1.14 [OB Ura],o 6,gag[nail]N šudul[yoke]N gigir[chariot]N
+dcclt/P253874,CUSAS 12 3.1.14 [OB Ura],o 7,umbin[wheel]N gigir[chariot]N
+dcclt/P253874,CUSAS 12 3.1.14 [OB Ura],o 8,gaba[chest]N gigir[chariot]N

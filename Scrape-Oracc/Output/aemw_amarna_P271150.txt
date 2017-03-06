@@ -1,0 +1,100 @@
+id_text,text_name,l_no,text
+<<<<<<< HEAD
+aemw/amarna/P271150,EA 056 + EA 361. A declaration of trust [vassal letter],001,akk-x-mbperi:ana[to]PRP akk-x-mbperi:šarru[king]N akk-x-mbperi:bēlu[lord]N akk-x-mbperi:qabû[say]V
+aemw/amarna/P271150,EA 056 + EA 361. A declaration of trust [vassal letter],002,akk-x-mbperi:umma[saying]PRP akk-x-mbperi:wardu[slave]N
+aemw/amarna/P271150,EA 056 + EA 361. A declaration of trust [vassal letter],003,akk-x-mbperi:ana[to]PRP akk-x-mbperi:šēpu[foot]N akk-x-mbperi:bēlu[lord]N akk-x-mbperi:maqātu[fall]V
+aemw/amarna/P271150,EA 056 + EA 361. A declaration of trust [vassal letter],004,akk-x-mbperi:amāru[see]V akk-x-mbperi:nakru[strange-one]N akk-x-mbperi:elû[go-up]V
+aemw/amarna/P271150,EA 056 + EA 361. A declaration of trust [vassal letter],005,akk-x-mbperi:u[and]CNJ akk-x-mbperi:šapāru[send]V akk-x-mbperi:ana[to]PRP akk-x-mbperi:bēlu[lord]N akk-x-mbperi:šarru[king]N akk-x-mbperi:Miṣru[Egypt]GN
+aemw/amarna/P271150,EA 056 + EA 361. A declaration of trust [vassal letter],006,akk-x-mbperi:u[and]CNJ akk-x-mbperi:bēlu[lord]N akk-x-mbperi:qabû[say]V akk-x-mbperi:ina[in]PRP akk-x-mbperi:mīnu[what?]QP
+aemw/amarna/P271150,EA 056 + EA 361. A declaration of trust [vassal letter],007,akk-x-mbperi:ana[to]PRP akk-x-mbperi:muhhu[skull]N akk-x-mbperi:lā[not]MOD akk-x-mbperi:šapāru[send]V
+aemw/amarna/P271150,EA 056 + EA 361. A declaration of trust [vassal letter],008,akk-x-mbperi:u[and]CNJ akk-x-mbperi:bēlu[lord]N akk-x-mbperi:lā[not]MOD akk-x-mbperi:waṣû[go-out]V
+aemw/amarna/P271150,EA 056 + EA 361. A declaration of trust [vassal letter],009,akk-x-mbperi:u[and]CNJ akk-x-mbperi:anāku[I]IP akk-x-mbperi:wardu[slave]N akk-x-mbperi:u[and]CNJ akk-x-mbperi:bēlu[lord]N
+aemw/amarna/P271150,EA 056 + EA 361. A declaration of trust [vassal letter],010,akk-x-mbperi:ištu[from]PRP akk-x-mbperi:qātu[hand]N akk-x-mbperi:lū[indeed]MOD akk-x-mbperi:lā[not]MOD akk-x-mbperi:wašāru[sink-down]V
+aemw/amarna/P271150,EA 056 + EA 361. A declaration of trust [vassal letter],011,akk-x-mbperi:u[and]CNJ akk-x-mbperi:anāku[I]IP akk-x-mbperi:ištu[from]PRP akk-x-mbperi:ša[of]DET akk-x-mbperi:bēlu[lord]N akk-x-mbperi:lā[not]MOD akk-x-mbperi:paṭāru[loosen]V
+aemw/amarna/P271150,EA 056 + EA 361. A declaration of trust [vassal letter],012,akk-x-mbperi:u[and]CNJ akk-x-mbperi:ana[to]PRP akk-x-mbperi:ša[of]DET akk-x-mbperi:bēlu[lord]N akk-x-mbperi:ṣābu[people]N
+aemw/amarna/P271150,EA 056 + EA 361. A declaration of trust [vassal letter],013,akk-x-mbperi:u[and]CNJ akk-x-mbperi:ana[to]PRP akk-x-mbperi:narkabtu[chariot]N akk-x-mbperi:taklu[reliable]AJ
+aemw/amarna/P271150,EA 056 + EA 361. A declaration of trust [vassal letter],014,akk-x-mbperi:amāru[see]V akk-x-mbperi:bēlu[lord]N akk-x-mbperi:hasāsu[be(come)-conscious]V
+aemw/amarna/P271150,EA 056 + EA 361. A declaration of trust [vassal letter],015,akk-x-mbperi:u[and]CNJ akk-x-mbperi:ana[to]PRP akk-x-mbperi:libbu[interior]N akk-x-mbperi:bēlu[lord]N
+aemw/amarna/P271150,EA 056 + EA 361. A declaration of trust [vassal letter],016,akk-x-mbperi:anumma[now]AV akk-x-mbperi:Taššu[1]PN
+aemw/amarna/P271150,EA 056 + EA 361. A declaration of trust [vassal letter],017,akk-x-mbperi:ana[to]PRP akk-x-mbperi:muhhu[skull]N akk-x-mbperi:elû[go-up]V
+aemw/amarna/P271150,EA 056 + EA 361. A declaration of trust [vassal letter],018,akk-x-mbperi:wâru[go-(up-to)]V
+aemw/amarna/P271150,EA 056 + EA 361. A declaration of trust [vassal letter],019,akk-x-mbperi:ša[of]DET akk-x-mbperi:šapāru[send]V
+aemw/amarna/P271150,EA 056 + EA 361. A declaration of trust [vassal letter],020,akk-x-mbperi:qātu[hand]N
+aemw/amarna/P271150,EA 056 + EA 361. A declaration of trust [vassal letter],022,akk-x-mbperi:waṣû[go-out]V
+aemw/amarna/P271150,EA 056 + EA 361. A declaration of trust [vassal letter],023,akk-x-mbperi:amāru[see]V akk-x-mbperi:Aiṭukama[1]PN akk-x-mbperi:ṣabtu[captured]AJ akk-x-mbperi:gabbu[totality]N
+aemw/amarna/P271150,EA 056 + EA 361. A declaration of trust [vassal letter],024,akk-x-mbperi:ālu[city]N akk-x-mbperi:u[and]CNJ akk-x-mbperi:nīnu[we]IP akk-x-mbperi:wardu[slave]N
+aemw/amarna/P271150,EA 056 + EA 361. A declaration of trust [vassal letter],025,akk-x-mbperi:wardu[slave]N akk-x-mbperi:ša[of]DET akk-x-mbperi:bēlu[lord]N
+aemw/amarna/P271150,EA 056 + EA 361. A declaration of trust [vassal letter],026,akk-x-mbperi:ša[of]DET akk-x-mbperi:ālu[city]N akk-x-mbperi:Ruhizu[1]GN
+aemw/amarna/P271150,EA 056 + EA 361. A declaration of trust [vassal letter],027,akk-x-mbperi:itti[with]PRP akk-x-mbperi:Aiṭukama[1]PN
+aemw/amarna/P271150,EA 056 + EA 361. A declaration of trust [vassal letter],028,akk-x-mbperi:mahāṣu[beat]V
+aemw/amarna/P271150,EA 056 + EA 361. A declaration of trust [vassal letter],029,akk-x-mbperi:u[and]CNJ akk-x-mbperi:ammīni[why?]AV akk-x-mbperi:bēlu[lord]N
+aemw/amarna/P271150,EA 056 + EA 361. A declaration of trust [vassal letter],030,akk-x-mbperi:māru[son]N akk-x-mbperi:Ṣu-X[1]GN
+aemw/amarna/P271150,EA 056 + EA 361. A declaration of trust [vassal letter],031,akk-x-mbperi:u[and]CNJ akk-x-mbperi:bēlu[lord]N akk-x-mbperi:ālu[city]N
+aemw/amarna/P271150,EA 056 + EA 361. A declaration of trust [vassal letter],032,akk-x-mbperi:lā[not]MOD akk-x-mbperi:šemû[hear]V
+aemw/amarna/P271150,EA 056 + EA 361. A declaration of trust [vassal letter],033,akk-x-mbperi:itti[with]PRP akk-x-mbperi:wardu[slave]N
+aemw/amarna/P271150,EA 056 + EA 361. A declaration of trust [vassal letter],034,akk-x-mbperi:ša[of]DET akk-x-mbperi:bēlu[lord]N akk-x-mbperi:erēbu[enter]V
+aemw/amarna/P271150,EA 056 + EA 361. A declaration of trust [vassal letter],035,akk-x-mbperi:wardu[slave]N akk-x-mbperi:kašādu[reach]V
+aemw/amarna/P271150,EA 056 + EA 361. A declaration of trust [vassal letter],036,akk-x-mbperi:u[and]CNJ akk-x-mbperi:māru[son]N akk-x-mbperi:šipru[sending]N akk-x-mbperi:ša[of]DET akk-x-mbperi:bēlu[lord]N
+aemw/amarna/P271150,EA 056 + EA 361. A declaration of trust [vassal letter],037,akk-x-mbperi:ana[to]PRP akk-x-mbperi:muhhu[skull]N akk-x-mbperi:alāku[go]V
+aemw/amarna/P271150,EA 056 + EA 361. A declaration of trust [vassal letter],038,akk-x-mbperi:u[and]CNJ akk-x-mbperi:kīam[so]AV akk-x-mbperi:qabû[say]V
+aemw/amarna/P271150,EA 056 + EA 361. A declaration of trust [vassal letter],039,akk-x-mbperi:ina[in]PRP akk-x-mbperi:mātu[land]N akk-x-mbperi:Mittani[1]GN akk-x-mbperi:alāku[go]V
+aemw/amarna/P271150,EA 056 + EA 361. A declaration of trust [vassal letter],040,akk-x-mbperi:u[and]CNJ akk-x-mbperi:šarru[king]N akk-x-mbperi:ū[or]CNJ akk-x-mbperi:nakru[strange]AJ akk-x-mbperi:ana[to]PRP
+aemw/amarna/P271150,EA 056 + EA 361. A declaration of trust [vassal letter],041,akk-x-mbperi:ša[of]DET akk-x-mbperi:šarru[king]N akk-x-mbperi:Hatti[1]GN akk-x-mbperi:ša[of]DET akk-x-mbperi:gabbu[totality]N
+aemw/amarna/P271150,EA 056 + EA 361. A declaration of trust [vassal letter],042,akk-x-mbperi:ana[to]PRP akk-x-mbperi:pānu[front]N akk-x-mbperi:šaknu[placed]AJ
+aemw/amarna/P271150,EA 056 + EA 361. A declaration of trust [vassal letter],043,akk-x-mbperi:u[and]CNJ akk-x-mbperi:bēlu[lord]N akk-x-mbperi:qabû[say]V
+aemw/amarna/P271150,EA 056 + EA 361. A declaration of trust [vassal letter],044,akk-x-mbperi:mātu[land]N akk-x-mbperi:Hurri[1]EN
+aemw/amarna/P271150,EA 056 + EA 361. A declaration of trust [vassal letter],045,akk-x-mbperi:mātu[land]N
+aemw/amarna/P271150,EA 056 + EA 361. A declaration of trust [vassal letter],046,akk-x-mbperi:mātu[land]N akk-x-mbperi:ālu[city]N akk-x-mbperi:alāku[go]V
+aemw/amarna/P271150,EA 056 + EA 361. A declaration of trust [vassal letter],047,akk-x-mbperi:ša[of]DET
+aemw/amarna/P271150,EA 056 + EA 361. A declaration of trust [vassal letter],049,akk-x-mbperi:ana[to]PRP akk-x-mbperi:bēlu[lord]N
+aemw/amarna/P271150,EA 056 + EA 361. A declaration of trust [vassal letter],050,akk-x-mbperi:ana[to]PRP akk-x-mbperi:muhhu[skull]N
+=======
+aemw/amarna/P271150,EA 056 + EA 361. A declaration of trust [vassal letter],001,
+aemw/amarna/P271150,EA 056 + EA 361. A declaration of trust [vassal letter],002,
+aemw/amarna/P271150,EA 056 + EA 361. A declaration of trust [vassal letter],003,
+aemw/amarna/P271150,EA 056 + EA 361. A declaration of trust [vassal letter],004,
+aemw/amarna/P271150,EA 056 + EA 361. A declaration of trust [vassal letter],005,
+aemw/amarna/P271150,EA 056 + EA 361. A declaration of trust [vassal letter],006,
+aemw/amarna/P271150,EA 056 + EA 361. A declaration of trust [vassal letter],007,
+aemw/amarna/P271150,EA 056 + EA 361. A declaration of trust [vassal letter],008,
+aemw/amarna/P271150,EA 056 + EA 361. A declaration of trust [vassal letter],009,
+aemw/amarna/P271150,EA 056 + EA 361. A declaration of trust [vassal letter],010,
+aemw/amarna/P271150,EA 056 + EA 361. A declaration of trust [vassal letter],011,
+aemw/amarna/P271150,EA 056 + EA 361. A declaration of trust [vassal letter],012,
+aemw/amarna/P271150,EA 056 + EA 361. A declaration of trust [vassal letter],013,
+aemw/amarna/P271150,EA 056 + EA 361. A declaration of trust [vassal letter],014,
+aemw/amarna/P271150,EA 056 + EA 361. A declaration of trust [vassal letter],015,
+aemw/amarna/P271150,EA 056 + EA 361. A declaration of trust [vassal letter],016,
+aemw/amarna/P271150,EA 056 + EA 361. A declaration of trust [vassal letter],017,
+aemw/amarna/P271150,EA 056 + EA 361. A declaration of trust [vassal letter],018,
+aemw/amarna/P271150,EA 056 + EA 361. A declaration of trust [vassal letter],019,
+aemw/amarna/P271150,EA 056 + EA 361. A declaration of trust [vassal letter],020,
+aemw/amarna/P271150,EA 056 + EA 361. A declaration of trust [vassal letter],022,
+aemw/amarna/P271150,EA 056 + EA 361. A declaration of trust [vassal letter],023,
+aemw/amarna/P271150,EA 056 + EA 361. A declaration of trust [vassal letter],024,
+aemw/amarna/P271150,EA 056 + EA 361. A declaration of trust [vassal letter],025,
+aemw/amarna/P271150,EA 056 + EA 361. A declaration of trust [vassal letter],026,
+aemw/amarna/P271150,EA 056 + EA 361. A declaration of trust [vassal letter],027,
+aemw/amarna/P271150,EA 056 + EA 361. A declaration of trust [vassal letter],028,
+aemw/amarna/P271150,EA 056 + EA 361. A declaration of trust [vassal letter],029,
+aemw/amarna/P271150,EA 056 + EA 361. A declaration of trust [vassal letter],030,
+aemw/amarna/P271150,EA 056 + EA 361. A declaration of trust [vassal letter],031,
+aemw/amarna/P271150,EA 056 + EA 361. A declaration of trust [vassal letter],032,
+aemw/amarna/P271150,EA 056 + EA 361. A declaration of trust [vassal letter],033,
+aemw/amarna/P271150,EA 056 + EA 361. A declaration of trust [vassal letter],034,
+aemw/amarna/P271150,EA 056 + EA 361. A declaration of trust [vassal letter],035,
+aemw/amarna/P271150,EA 056 + EA 361. A declaration of trust [vassal letter],036,
+aemw/amarna/P271150,EA 056 + EA 361. A declaration of trust [vassal letter],037,
+aemw/amarna/P271150,EA 056 + EA 361. A declaration of trust [vassal letter],038,
+aemw/amarna/P271150,EA 056 + EA 361. A declaration of trust [vassal letter],039,
+aemw/amarna/P271150,EA 056 + EA 361. A declaration of trust [vassal letter],040,
+aemw/amarna/P271150,EA 056 + EA 361. A declaration of trust [vassal letter],041,
+aemw/amarna/P271150,EA 056 + EA 361. A declaration of trust [vassal letter],042,
+aemw/amarna/P271150,EA 056 + EA 361. A declaration of trust [vassal letter],043,
+aemw/amarna/P271150,EA 056 + EA 361. A declaration of trust [vassal letter],044,
+aemw/amarna/P271150,EA 056 + EA 361. A declaration of trust [vassal letter],045,
+aemw/amarna/P271150,EA 056 + EA 361. A declaration of trust [vassal letter],046,
+aemw/amarna/P271150,EA 056 + EA 361. A declaration of trust [vassal letter],047,
+aemw/amarna/P271150,EA 056 + EA 361. A declaration of trust [vassal letter],049,
+aemw/amarna/P271150,EA 056 + EA 361. A declaration of trust [vassal letter],050,
+>>>>>>> d524642d5275e5016007339cafda4e021ecb17ba

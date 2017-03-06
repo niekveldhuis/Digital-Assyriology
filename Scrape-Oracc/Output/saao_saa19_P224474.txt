@@ -1,0 +1,47 @@
+id_text,text_name,l_no,text
+saao/saa19/P224474,SAA 19 156. Building Instructions (CTN 5 p. 300),o 2',nakru[enemy]N šēpu[foot]N
+saao/saa19/P224474,SAA 19 156. Building Instructions (CTN 5 p. 300),o 3',ina[in]PRP ammatu[unit]N arāku[be(come)-long]V
+saao/saa19/P224474,SAA 19 156. Building Instructions (CTN 5 p. 300),o 4',kadammu[dungeon]N
+saao/saa19/P224474,SAA 19 156. Building Instructions (CTN 5 p. 300),o 5',ša[that]REL ša-danāni[by-force]AV
+saao/saa19/P224474,SAA 19 156. Building Instructions (CTN 5 p. 300),o 6',rappu[hoop]N ša[that]REL epēšu[do]V ammar[as-much-as]REL
+saao/saa19/P224474,SAA 19 156. Building Instructions (CTN 5 p. 300),o 7',ša[of]DET mugerru[chariot]N lū[may]MOD kubburu[very-thick]AJ ša[that]REL pānātu[front]N
+saao/saa19/P224474,SAA 19 156. Building Instructions (CTN 5 p. 300),o 8',mādu[many]AJ gupnu[tree(-trunk)]N mahṣu[beaten]AJ ina[in]PRP šaplu[underside]N
+saao/saa19/P224474,SAA 19 156. Building Instructions (CTN 5 p. 300),o 9',meʾatu[(one)-hundred]NU pīlu[limestone]N ša[of]DET ša[of]DET ina[in]PRP ammatu[unit]N mūraku[length]N ša[that]REL ina[in]PRP tallaktu[walkway]N
+saao/saa19/P224474,SAA 19 156. Building Instructions (CTN 5 p. 300),o 10',matāhu[lift]V ina[in]PRP muhhu[skull]N gupnu[tree(-trunk)]N mahṣu[beaten]AJ karāru[put-(down)]V
+saao/saa19/P224474,SAA 19 156. Building Instructions (CTN 5 p. 300),o 11',basi[soon]AV šāru[wind]N lū[may]MOD qurbu[near]AJ iṣu[tree]N ša[of]DET qabaltu[middle]N ālu[city]N māda[many]AJ
+saao/saa19/P224474,SAA 19 156. Building Instructions (CTN 5 p. 300),o 12',šarāmu[trim]V qaqqaru[ground]N rapāšu[be(come)-broad]V pīlu[limestone]N karāru[put-(down)]V
+saao/saa19/P224474,SAA 19 156. Building Instructions (CTN 5 p. 300),o 13',katammu[lid]N epēšu[do]V šina[two]NU imittu[right-side]N šina[two]NU šumēlu[left-side]N ša[of]DET
+saao/saa19/P224474,SAA 19 156. Building Instructions (CTN 5 p. 300),o 14',maštaku[chamber]N ša[of]DET
+saao/saa19/P224474,SAA 19 156. Building Instructions (CTN 5 p. 300),o 15',ana[to]PRP dullu[trouble]N epēšu[do]V
+saao/saa19/P224474,SAA 19 156. Building Instructions (CTN 5 p. 300),o 16',epēšu[do]V mišlu[half]NU ina[in]PRP libbu[interior]N dūru[(city)-wall]N ša[of]DET qannu[fringe]N šakānu[put]V mišlu[half]NU
+saao/saa19/P224474,SAA 19 156. Building Instructions (CTN 5 p. 300),o 17',ina[in]PRP libbu[interior]N dūru[(city)-wall]N ša[of]DET qabaltu[middle]N ālu[city]N šakānu[put]V
+saao/saa19/P224474,SAA 19 156. Building Instructions (CTN 5 p. 300),o 18',arku[long]AJ hurratu[hole]N malû[be(come)-full]V iṣu[tree]N ša[of]DET qabaltu[middle]N ālu[city]N
+saao/saa19/P224474,SAA 19 156. Building Instructions (CTN 5 p. 300),o 19',lū[may]MOD ša[of]DET šapāru[send]V ša[of]DET tallaktu[walkway]N lū[may]MOD ša[of]DET imittu[right-side]N u[and]CNJ
+saao/saa19/P224474,SAA 19 156. Building Instructions (CTN 5 p. 300),o 20',šumēlu[left-side]N karru[put-down]AJ ana[to]PRP ina[in]PRP qabaltu[middle]N ālu[city]N
+saao/saa19/P224474,SAA 19 156. Building Instructions (CTN 5 p. 300),o 21',âdu[take-notice-of]V šakānu[put]V ša[of]DET ša[of]DET šerʾānu[vein]N
+saao/saa19/P224474,SAA 19 156. Building Instructions (CTN 5 p. 300),o 22',kī[like]PRP annû[this]DP ina[in]PRP qabaltu[middle]N ālu[city]N ina[in]PRP dūru[(city)-wall]N šaplû[lower]AJ šakānu[put]V
+saao/saa19/P224474,SAA 19 156. Building Instructions (CTN 5 p. 300),o 23',pīlu[limestone]N kī[like]PRP kubburu[very-thick]AJ ištu[from]PRP dūru[(city)-wall]N šaplû[lower]AJ
+saao/saa19/P224474,SAA 19 156. Building Instructions (CTN 5 p. 300),o 24',âdu[take-notice-of]V šakānu[put]V
+saao/saa19/P224474,SAA 19 156. Building Instructions (CTN 5 p. 300),r 2',ša[that]REL
+saao/saa19/P224474,SAA 19 156. Building Instructions (CTN 5 p. 300),r 3',mīnu[what?]QP ša[that]REL
+saao/saa19/P224474,SAA 19 156. Building Instructions (CTN 5 p. 300),r 4',Ambati[1]PN
+saao/saa19/P224474,SAA 19 156. Building Instructions (CTN 5 p. 300),r 5',ina[in]PRP muhhu[skull]N ālu[city]N alāku[go]V
+saao/saa19/P224474,SAA 19 156. Building Instructions (CTN 5 p. 300),r 6',pūtuhhu[responsibility]N ša[of]DET qabaltu[middle]N ālu[city]N našû[lift]V
+saao/saa19/P224474,SAA 19 156. Building Instructions (CTN 5 p. 300),r 7',išti[with]PRP rabû[big-one]N birtu[fort]N ina[in]PRP dūru[(city)-wall]N šaplû[lower]AJ
+saao/saa19/P224474,SAA 19 156. Building Instructions (CTN 5 p. 300),r 8',ša[that]REL ana[to]PRP Ambati[1]PN šakānu[put]V
+saao/saa19/P224474,SAA 19 156. Building Instructions (CTN 5 p. 300),r 9',ina[in]PRP kūm[instead-of]PRP ašābu[sit-(down)]V pūtuhhu[responsibility]N ša[of]DET qabaltu[middle]N ālu[city]N našû[lift]V
+saao/saa19/P224474,SAA 19 156. Building Instructions (CTN 5 p. 300),r 10',uššu[foundation(s)]N ša[of]DET isītu[tower]N ša[that]REL pūtu[forehead]N adru[threshing-floor]N kī[like]PRP ša[that]REL
+saao/saa19/P224474,SAA 19 156. Building Instructions (CTN 5 p. 300),r 11',karāru[put-(down)]V lā[not]MOD gamāru[complete]V libittu[mudbrick]N
+saao/saa19/P224474,SAA 19 156. Building Instructions (CTN 5 p. 300),r 12',raṣāpu[build]V gamāru[complete]V ina[in]PRP muhhu[skull]N tibku[layer]N
+saao/saa19/P224474,SAA 19 156. Building Instructions (CTN 5 p. 300),r 13',rakāsu[bind]V ammar[as-much-as]REL ammatu[unit]N tamlīu[filling]N ina[in]PRP muhhu[skull]N šakānu[put]V
+saao/saa19/P224474,SAA 19 156. Building Instructions (CTN 5 p. 300),r 14',rupšu[width]N mūraku[length]N ša[of]DET isītu[tower]N pānû[previous]AJ rupšu[width]N mūraku[length]N ša[of]DET
+saao/saa19/P224474,SAA 19 156. Building Instructions (CTN 5 p. 300),r 15',ina[in]PRP muhhu[skull]N redû[accompany]V madādu[measure-(out)]V
+saao/saa19/P224474,SAA 19 156. Building Instructions (CTN 5 p. 300),r 16',ina[in]PRP ammatu[unit]N mūlû[height]N ša[of]DET šalhû[outer-wall]N
+saao/saa19/P224474,SAA 19 156. Building Instructions (CTN 5 p. 300),r 17',kī[like]PRP ša[of]DET Dahinu[1]GN ina[in]PRP libbu[interior]N
+saao/saa19/P224474,SAA 19 156. Building Instructions (CTN 5 p. 300),r 18',ša[that]REL mazzaztu[position]N
+saao/saa19/P224474,SAA 19 156. Building Instructions (CTN 5 p. 300),r 19',lū[may]MOD lā[not]MOD dagālu[see]V
+saao/saa19/P224474,SAA 19 156. Building Instructions (CTN 5 p. 300),r 20',epēšu[do]V ša[that]REL
+saao/saa19/P224474,SAA 19 156. Building Instructions (CTN 5 p. 300),r 21',kī[like]PRP ša[of]DET mātu[land]N
+saao/saa19/P224474,SAA 19 156. Building Instructions (CTN 5 p. 300),r 22',ša[that]REL ina[in]PRP šalhû[outer-wall]N
+saao/saa19/P224474,SAA 19 156. Building Instructions (CTN 5 p. 300),r 23',ammatu[unit]N
+saao/saa19/P224474,SAA 19 156. Building Instructions (CTN 5 p. 300),r 24',ana[to]PRP Ambati[1]PN

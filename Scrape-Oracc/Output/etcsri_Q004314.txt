@@ -1,0 +1,8 @@
+id_text,text_name,version,l_no,text
+etcsri/Q004314,Šulgi 2096add,,i 1,sux:Šulgir[1]RN
+etcsri/Q004314,Šulgi 2096add,,i 2,sux:nita[male]N sux:kalag[strong]V/i
+etcsri/Q004314,Šulgi 2096add,,i 3,sux:lugal[king]N sux:Urim[1]SN
+etcsri/Q004314,Šulgi 2096add,,i 4,sux:lugal[king]N sux:anubda[quarter]N sux:limmu[four]NU
+etcsri/Q004314,Šulgi 2096add,,ii 1,sux:Lugal-X[2]PN
+etcsri/Q004314,Šulgi 2096add,,ii 2,sux:dubsar[scribe]N
+etcsri/Q004314,Šulgi 2096add,,ii 3,sux:dumu[child]N sux:Ur.X[9]PN

@@ -1,0 +1,60 @@
+id_text,text_name,l_no,text
+<<<<<<< HEAD
+aemw/amarna/P271154,EA 154. Orders carried out [vassal letter],001,akk-x-mbperi:ana[to]PRP akk-x-mbperi:šarru[king]N akk-x-mbperi:bēlu[lord]N
+aemw/amarna/P271154,EA 154. Orders carried out [vassal letter],002,akk-x-mbperi:umma[saying]PRP akk-x-mbperi:Abi-milku[1]PN akk-x-mbperi:wardu[slave]N
+aemw/amarna/P271154,EA 154. Orders carried out [vassal letter],003,akk-x-mbperi:u[and]CNJ akk-x-mbperi:ana[to]PRP akk-x-mbperi:šēpu[foot]N akk-x-mbperi:šarru[king]N akk-x-mbperi:bēlu[lord]N akk-x-mbperi:maqātu[fall]V
+aemw/amarna/P271154,EA 154. Orders carried out [vassal letter],004,akk-x-mbperi:anāku[I]IP akk-x-mbperi:eperu[earth]N akk-x-mbperi:ištu[from]PRP akk-x-mbperi:šēnu[sandal(s)]N
+aemw/amarna/P271154,EA 154. Orders carried out [vassal letter],005,akk-x-mbperi:šarru[king]N akk-x-mbperi:bēlu[lord]N akk-x-mbperi:šemû[hear]V
+aemw/amarna/P271154,EA 154. Orders carried out [vassal letter],006,akk-x-mbperi:ša[that]REL akk-x-mbperi:šapāru[send]V akk-x-mbperi:šarru[king]N akk-x-mbperi:ana[to]PRP
+aemw/amarna/P271154,EA 154. Orders carried out [vassal letter],007,akk-x-mbperi:wardu[slave]N qca:kûn[be(come)-prepared]V akk-x-mbperi:emūqu[strength]N
+aemw/amarna/P271154,EA 154. Orders carried out [vassal letter],008,akk-x-mbperi:muhhu[skull]N akk-x-mbperi:Yawi[1]PN akk-x-mbperi:ša[that]REL akk-x-mbperi:qabû[say]V
+aemw/amarna/P271154,EA 154. Orders carried out [vassal letter],009,akk-x-mbperi:šarru[king]N akk-x-mbperi:šūt[he]IP akk-x-mbperi:epēšu[do]V
+aemw/amarna/P271154,EA 154. Orders carried out [vassal letter],010,akk-x-mbperi:hadû[joyful]AJ akk-x-mbperi:magal[very-(much)]AV akk-x-mbperi:magal[very-(much)]AV
+aemw/amarna/P271154,EA 154. Orders carried out [vassal letter],011,akk-x-mbperi:šanītu[something-other]N akk-x-mbperi:ištu[from]PRP akk-x-mbperi:paṭāru[loosen]V
+aemw/amarna/P271154,EA 154. Orders carried out [vassal letter],012,akk-x-mbperi:ṣābu[people]N akk-x-mbperi:šarru[king]N akk-x-mbperi:bēlu[lord]N
+aemw/amarna/P271154,EA 154. Orders carried out [vassal letter],013,akk-x-mbperi:muhhu[skull]N akk-x-mbperi:lā[not]MOD akk-x-mbperi:nadānu[give]V
+aemw/amarna/P271154,EA 154. Orders carried out [vassal letter],014,akk-x-mbperi:awīlu[man]N akk-x-mbperi:Ṣiduna[Sidon]GN
+aemw/amarna/P271154,EA 154. Orders carried out [vassal letter],015,akk-x-mbperi:awīlu[man]N akk-x-mbperi:warādu[go-down]V
+aemw/amarna/P271154,EA 154. Orders carried out [vassal letter],016,akk-x-mbperi:ana[to]PRP akk-x-mbperi:erṣetu[earth]N
+aemw/amarna/P271154,EA 154. Orders carried out [vassal letter],017,akk-x-mbperi:ana[to]PRP akk-x-mbperi:leqû[take]V akk-x-mbperi:iṣu[tree]N
+aemw/amarna/P271154,EA 154. Orders carried out [vassal letter],018,akk-x-mbperi:leqû[take]V akk-x-mbperi:mû[water]N akk-x-mbperi:ana[to]PRP akk-x-mbperi:šitû[drinking]N
+aemw/amarna/P271154,EA 154. Orders carried out [vassal letter],019,akk-x-mbperi:awīlu[man]N akk-x-mbperi:dīku[killed]AJ
+aemw/amarna/P271154,EA 154. Orders carried out [vassal letter],020,akk-x-mbperi:u[and]CNJ akk-x-mbperi:awīlu[man]N akk-x-mbperi:leqû[taken]AJ
+aemw/amarna/P271154,EA 154. Orders carried out [vassal letter],021,akk-x-mbperi:šūši[sixty]N akk-x-mbperi:ṣibtu[(addition-=)-interest]N
+aemw/amarna/P271154,EA 154. Orders carried out [vassal letter],022,akk-x-mbperi:awīlu[man]N akk-x-mbperi:leqû[take]V
+aemw/amarna/P271154,EA 154. Orders carried out [vassal letter],023,akk-x-mbperi:Zimri-Yidda[1]PN
+aemw/amarna/P271154,EA 154. Orders carried out [vassal letter],024,akk-x-mbperi:awīlu[man]N akk-x-mbperi:Ṣiduna[Sidon]GN akk-x-mbperi:u[and]CNJ
+aemw/amarna/P271154,EA 154. Orders carried out [vassal letter],025,akk-x-mbperi:arnu[guilt]N akk-x-mbperi:Aziru[1]PN
+aemw/amarna/P271154,EA 154. Orders carried out [vassal letter],026,akk-x-mbperi:u[and]CNJ akk-x-mbperi:wardu[slave]N akk-x-mbperi:ša[that]REL akk-x-mbperi:šemû[hear]V akk-x-mbperi:ana[to]PRP akk-x-mbperi:bēlu[lord]N
+aemw/amarna/P271154,EA 154. Orders carried out [vassal letter],027,akk-x-mbperi:šulmu[completeness]N akk-x-mbperi:ālu[city]N akk-x-mbperi:šulmu[completeness]N akk-x-mbperi:bītu[house]N
+aemw/amarna/P271154,EA 154. Orders carried out [vassal letter],028,akk-x-mbperi:u[and]CNJ akk-x-mbperi:edû[know]V akk-x-mbperi:šarru[king]N akk-x-mbperi:ana[to]PRP
+=======
+aemw/amarna/P271154,EA 154. Orders carried out [vassal letter],001,akk-x-mbperi:šarru[king]N akk-x-mbperi:bēlu[lord]N
+aemw/amarna/P271154,EA 154. Orders carried out [vassal letter],002,akk-x-mbperi:wardu[slave]N
+aemw/amarna/P271154,EA 154. Orders carried out [vassal letter],003,akk-x-mbperi:šēpu[foot]N akk-x-mbperi:šarru[king]N akk-x-mbperi:bēlu[lord]N
+aemw/amarna/P271154,EA 154. Orders carried out [vassal letter],004,akk-x-mbperi:eperu[earth]N akk-x-mbperi:šēnu[sandal(s)]N
+aemw/amarna/P271154,EA 154. Orders carried out [vassal letter],005,akk-x-mbperi:šarru[king]N akk-x-mbperi:bēlu[lord]N
+aemw/amarna/P271154,EA 154. Orders carried out [vassal letter],006,akk-x-mbperi:šarru[king]N
+aemw/amarna/P271154,EA 154. Orders carried out [vassal letter],007,akk-x-mbperi:wardu[slave]N akk-x-mbperi:emūqu[strength]N
+aemw/amarna/P271154,EA 154. Orders carried out [vassal letter],008,akk-x-mbperi:muhhu[skull]N
+aemw/amarna/P271154,EA 154. Orders carried out [vassal letter],009,akk-x-mbperi:šarru[king]N
+aemw/amarna/P271154,EA 154. Orders carried out [vassal letter],010,
+aemw/amarna/P271154,EA 154. Orders carried out [vassal letter],011,akk-x-mbperi:šanītu[something-other]N
+aemw/amarna/P271154,EA 154. Orders carried out [vassal letter],012,akk-x-mbperi:ṣābu[people]N akk-x-mbperi:šarru[king]N akk-x-mbperi:bēlu[lord]N
+aemw/amarna/P271154,EA 154. Orders carried out [vassal letter],013,akk-x-mbperi:muhhu[skull]N
+aemw/amarna/P271154,EA 154. Orders carried out [vassal letter],014,akk-x-mbperi:awīlu[man]N
+aemw/amarna/P271154,EA 154. Orders carried out [vassal letter],015,akk-x-mbperi:awīlu[man]N
+aemw/amarna/P271154,EA 154. Orders carried out [vassal letter],016,akk-x-mbperi:erṣetu[earth]N
+aemw/amarna/P271154,EA 154. Orders carried out [vassal letter],017,akk-x-mbperi:iṣu[tree]N
+aemw/amarna/P271154,EA 154. Orders carried out [vassal letter],018,akk-x-mbperi:mû[water]N akk-x-mbperi:šitû[drinking]N
+aemw/amarna/P271154,EA 154. Orders carried out [vassal letter],019,akk-x-mbperi:awīlu[man]N
+aemw/amarna/P271154,EA 154. Orders carried out [vassal letter],020,akk-x-mbperi:awīlu[man]N
+aemw/amarna/P271154,EA 154. Orders carried out [vassal letter],021,akk-x-mbperi:šūši[sixty]N akk-x-mbperi:ṣibtu[(addition-=)-interest]N
+aemw/amarna/P271154,EA 154. Orders carried out [vassal letter],022,akk-x-mbperi:awīlu[man]N
+aemw/amarna/P271154,EA 154. Orders carried out [vassal letter],023,
+aemw/amarna/P271154,EA 154. Orders carried out [vassal letter],024,akk-x-mbperi:awīlu[man]N
+aemw/amarna/P271154,EA 154. Orders carried out [vassal letter],025,akk-x-mbperi:arnu[guilt]N
+aemw/amarna/P271154,EA 154. Orders carried out [vassal letter],026,akk-x-mbperi:wardu[slave]N akk-x-mbperi:bēlu[lord]N
+aemw/amarna/P271154,EA 154. Orders carried out [vassal letter],027,akk-x-mbperi:šulmu[completeness]N akk-x-mbperi:ālu[city]N akk-x-mbperi:šulmu[completeness]N akk-x-mbperi:bītu[house]N
+aemw/amarna/P271154,EA 154. Orders carried out [vassal letter],028,akk-x-mbperi:šarru[king]N
+>>>>>>> d524642d5275e5016007339cafda4e021ecb17ba

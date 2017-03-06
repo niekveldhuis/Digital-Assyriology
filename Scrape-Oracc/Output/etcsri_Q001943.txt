@@ -1,0 +1,12 @@
+id_text,text_name,version,l_no,text
+etcsri/Q001943,Iddin-Dagan 3,,1,sux:Ninlil[1]DN sux:nin[lady]N sux:diŋir[deity]N
+etcsri/Q001943,Iddin-Dagan 3,,2,sux:Iddindagan[1]RN sux:lugal[king]N sux:kalag[strong]V/i
+etcsri/Q001943,Iddin-Dagan 3,,3,sux:alan[statue]N sux:kešed[bind]V/t sux:dim[create]V/t
+etcsri/Q001943,Iddin-Dagan 3,,4,sux:igi[face]N sux:gub[stand]V/i
+etcsri/Q001943,Iddin-Dagan 3,,5,sux:namtil[life]N sux:a[water]N sux:ru[cvve]V/t
+etcsri/Q001943,Iddin-Dagan 3,,6,sux:lu[person]N sux:a[arm]N sux:niŋhulu[evil]N sux:dim[create]V/t sux:aŋ[measure]V/t
+etcsri/Q001943,Iddin-Dagan 3,,7,sux:niŋ[thing]N sux:dim[create]V/t
+etcsri/Q001943,Iddin-Dagan 3,,8,sux:musara[inscription]N sux:šu[hand]N sux:ur[drag]V/t sux:mu[name]N sux:sar[write]V/t
+etcsri/Q001943,Iddin-Dagan 3,,9,sux:aš[curse]N sux:bala[turn]V/t
+etcsri/Q001943,Iddin-Dagan 3,,10,sux:lukur[stranger]N sux:šu[hand]N sux:zig[rise]V/i
+etcsri/Q001943,Iddin-Dagan 3,,11,sux:lu[person]N sux:Enlil[1]DN sux:lugal[king]N sux:Ninlil[1]DN sux:nin[lady]N

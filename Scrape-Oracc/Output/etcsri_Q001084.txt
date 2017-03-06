@@ -1,0 +1,20 @@
+id_text,text_name,version,l_no,text
+etcsri/Q001084,En-anatum I 17,,i 1,sux:Enanatum[1]RN
+etcsri/Q001084,En-anatum I 17,,i 2,sux:ensik[ruler]N
+etcsri/Q001084,En-anatum I 17,,i 3,sux:Lagaš[1]SN
+etcsri/Q001084,En-anatum I 17,,i 4,sux:šag[heart]N sux:pad[find]V/t
+etcsri/Q001084,En-anatum I 17,,i 5,sux:Nanše[1]DN
+etcsri/Q001084,En-anatum I 17,,i 6,sux:dumu[child]N sux:utud[bear]V/t
+etcsri/Q001084,En-anatum I 17,,i 7,sux:Lugalurubak[1]DN
+etcsri/Q001084,En-anatum I 17,,i 8,sux:dumu[child]N sux:Ayakurgal[1]RN
+etcsri/Q001084,En-anatum I 17,,ii 1,sux:ensik[ruler]N
+etcsri/Q001084,En-anatum I 17,,ii 2,sux:Lagaš[1]SN
+etcsri/Q001084,En-anatum I 17,,ii 3,sux:ud[sun]N sux:Inanak[1]DN
+etcsri/Q001084,En-anatum I 17,,ii 4,sux:Ebgal[1]TN sux:du[build]V/t
+etcsri/Q001084,En-anatum I 17,,ii 5,sux:Eanak[1]TN sux:kur[mountain]N
+etcsri/Q001084,En-anatum I 17,,ii 6,sux:dirig[exceed]V/t
+etcsri/Q001084,En-anatum I 17,,iii 1,sux:kugsig[gold]N sux:kugbabbar[silver]N
+etcsri/Q001084,En-anatum I 17,,iii 2,sux:šu[hand]N sux:tag[touch]V/t
+etcsri/Q001084,En-anatum I 17,,iii 3,sux:kib[object]N sux:arad[slave]N
+etcsri/Q001084,En-anatum I 17,,iii 4,sux:Idlusikil[1]PN
+etcsri/Q001084,En-anatum I 17,,iii 5,sux:dubsar[scribe]N sux:ešag[chamber]N

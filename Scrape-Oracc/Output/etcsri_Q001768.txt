@@ -1,0 +1,6 @@
+id_text,text_name,version,l_no,text
+etcsri/Q001768,Šulgi 2040,,1,sux:Mešlamtaea[1]DN
+etcsri/Q001768,Šulgi 2040,,2,sux:lugal[king]N
+etcsri/Q001768,Šulgi 2040,,3-4,sux:namtil[life]N sux:Šulgir[1]RN
+etcsri/Q001768,Šulgi 2040,,5,sux:Ursuen[3]PN
+etcsri/Q001768,Šulgi 2040,,6,sux:dumu[child]N sux:Uu[1]PN

@@ -1,0 +1,496 @@
+id_text,text_name,version,l_no,text
+etcsri/Q001056,E-anatum 01,,o i 21,sux:urra[loan]N
+etcsri/Q001056,E-anatum 01,,o i 22,sux:la[hang]V/t
+etcsri/Q001056,E-anatum 01,,o i 23,sux:šeguba[barley-rental]N
+etcsri/Q001056,E-anatum 01,,o i 24,sux:de[bring]V/t
+etcsri/Q001056,E-anatum 01,,o i 25,sux:lugal[king]N
+etcsri/Q001056,E-anatum 01,,o i 26,sux:Lagaš[1]SN
+etcsri/Q001056,E-anatum 01,,o ii 24,sux:lu[person]N sux:Umma[1]SN
+etcsri/Q001056,E-anatum 01,,o ii 25,sux:šu[hand]N sux:du[push]V/t
+etcsri/Q001056,E-anatum 01,,o ii 26,sux:dug[speak]V/t
+etcsri/Q001056,E-anatum 01,,o ii 27,sux:Lagaš[1]SN
+etcsri/Q001056,E-anatum 01,,o ii 28,sux:gaba[chest]N
+etcsri/Q001056,E-anatum 01,,o ii 29,sux:šu[hand]N sux:us[follow]V/i
+etcsri/Q001056,E-anatum 01,,o ii 30,sux:Ayakurgal[1]RN
+etcsri/Q001056,E-anatum 01,,o ii 31,sux:lugal[king]N
+etcsri/Q001056,E-anatum 01,,o ii 32,sux:Lagaš[1]SN
+etcsri/Q001056,E-anatum 01,,o ii 33,sux:dumu[child]N sux:Urnanše[1]RN
+etcsri/Q001056,E-anatum 01,,o iii 19,sux:Lagaš[1]SN
+etcsri/Q001056,E-anatum 01,,o iii 20,sux:bar[outside]N sux:niŋ[thing]N sux:ni[self]N
+etcsri/Q001056,E-anatum 01,,o iii 21,sux:gaba[chest]N
+etcsri/Q001056,E-anatum 01,,o iii 22,sux:šu[hand]N sux:us[follow]V/i
+etcsri/Q001056,E-anatum 01,,o iii 23,sux:piriŋ[lion]N sux:zag[side]N
+etcsri/Q001056,E-anatum 01,,o iii 24,sux:Ŋirnun[1]SN sux:šag[heart]N
+etcsri/Q001056,E-anatum 01,,o iii 25,sux:Ninŋirsuk[1]DN
+etcsri/Q001056,E-anatum 01,,o iii 26,sux:gu[voice]N
+etcsri/Q001056,E-anatum 01,,o iii 27,sux:KA.KID[unmng]N sux:taka[cvve]V/t
+etcsri/Q001056,E-anatum 01,,o iii 28,sux:Umma[1]SN
+etcsri/Q001056,E-anatum 01,,o iii 29,sux:udurduruna[hay]N
+etcsri/Q001056,E-anatum 01,,o iii 30,sux:niŋ[thing]N sux:ni[self]N
+etcsri/Q001056,E-anatum 01,,o iii 31,sux:ašag[field]N
+etcsri/Q001056,E-anatum 01,,o iv 1,sux:Guedenak[1]GN
+etcsri/Q001056,E-anatum 01,,o iv 2,sux:Lagaš[1]SN
+etcsri/Q001056,E-anatum 01,,o iv 4,sux:Ninŋirsuk[1]DN
+etcsri/Q001056,E-anatum 01,,o iv 5,sux:ursaŋ[hero]N sux:Enlil[1]DN
+etcsri/Q001056,E-anatum 01,,o iv 9,sux:Ninŋirsuk[1]DN
+etcsri/Q001056,E-anatum 01,,o iv 10,sux:a[water]N sux:Eanatum[1]RN
+etcsri/Q001056,E-anatum 01,,o iv 11,sux:šag[heart]N
+etcsri/Q001056,E-anatum 01,,o iv 12,sux:šu[hand]N sux:dug[speak]V/t
+etcsri/Q001056,E-anatum 01,,o iv 17,sux:hul[rejoice]V/i
+etcsri/Q001056,E-anatum 01,,o iv 18,sux:Inanak[1]DN
+etcsri/Q001056,E-anatum 01,,o iv 19,sux:dag[line]N sux:dib[pass]V/i
+etcsri/Q001056,E-anatum 01,,o iv 20,sux:Eanak[1]TN
+etcsri/Q001056,E-anatum 01,,o iv 21,sux:Inanak[1]DN
+etcsri/Q001056,E-anatum 01,,o iv 22,sux:Ebgal[1]TN sux:tum[suitable]V/i
+etcsri/Q001056,E-anatum 01,,o iv 23,sux:mu[name]N sux:še[call]V/t
+etcsri/Q001056,E-anatum 01,,o iv 24,sux:Ninhursaŋak[1]DN
+etcsri/Q001056,E-anatum 01,,o iv 25,sux:dub[knee]N sux:zid[right]V/i
+etcsri/Q001056,E-anatum 01,,o iv 26,sux:tuš[sit]V/i
+etcsri/Q001056,E-anatum 01,,o iv 27,sux:Ninhursaŋak[1]DN
+etcsri/Q001056,E-anatum 01,,o iv 28,sux:ubur[breast]N sux:zid[right]V/i
+etcsri/Q001056,E-anatum 01,,o iv 29,sux:la[stretch]V/t
+etcsri/Q001056,E-anatum 01,,o v 1,sux:Eanatum[1]RN
+etcsri/Q001056,E-anatum 01,,o v 2,sux:a[water]N sux:šag[heart]N sux:šu[hand]N sux:dug[speak]V/t
+etcsri/Q001056,E-anatum 01,,o v 3,sux:Ninŋirsuk[1]DN
+etcsri/Q001056,E-anatum 01,,o v 4,sux:Ninŋirsuk[1]DN
+etcsri/Q001056,E-anatum 01,,o v 5,sux:hul[rejoice]V/i
+etcsri/Q001056,E-anatum 01,,o v 6,sux:Ninŋirsuk[1]DN
+etcsri/Q001056,E-anatum 01,,o v 7,sux:zipah[unit]N
+etcsri/Q001056,E-anatum 01,,o v 8,sux:rah[beat]V/t
+etcsri/Q001056,E-anatum 01,,o v 9,sux:kuš[unit]N sux:ya[five]NU
+etcsri/Q001056,E-anatum 01,,o v 10,sux:kuš[unit]N
+etcsri/Q001056,E-anatum 01,,o v 11,sux:rah[beat]V/t
+etcsri/Q001056,E-anatum 01,,o v 12,sux:kuš[unit]N sux:zipah[unit]N
+etcsri/Q001056,E-anatum 01,,o v 13,sux:Ninŋirsuk[1]DN
+etcsri/Q001056,E-anatum 01,,o v 14,sux:nam[fate]N sux:gal[big]V/i sux:hul[rejoice]V/i
+etcsri/Q001056,E-anatum 01,,o v 15,sux:namlugal[kingship]N
+etcsri/Q001056,E-anatum 01,,o v 16,sux:Lagaš[1]SN
+etcsri/Q001056,E-anatum 01,,o v 17,sux:šum[give]V/t
+etcsri/Q001056,E-anatum 01,,o v 20,sux:Eanatum[1]RN
+etcsri/Q001056,E-anatum 01,,o v 21,sux:atuku[powerful]AJ
+etcsri/Q001056,E-anatum 01,,o v 22,sux:kur[mountain]N sux:ane[he]IP sux:dug[speak]V/t
+etcsri/Q001056,E-anatum 01,,o v 23,sux:Eanatum[1]RN
+etcsri/Q001056,E-anatum 01,,o v 24,sux:mu[name]N sux:Inanak[1]DN
+etcsri/Q001056,E-anatum 01,,o v 25,sux:še[call]V/t
+etcsri/Q001056,E-anatum 01,,o v 26,sux:Eanak[1]TN
+etcsri/Q001056,E-anatum 01,,o v 27,sux:Inanak[1]DN
+etcsri/Q001056,E-anatum 01,,o v 28,sux:Ebgal[1]TN sux:tum[suitable]V/i
+etcsri/Q001056,E-anatum 01,,o v 29,sux:mu[name]N sux:pad[find]V/t
+etcsri/Q001056,E-anatum 01,,o v 30,sux:mu[name]N sux:ki[place]N
+etcsri/Q001056,E-anatum 01,,o vi 1,sux:atuku[powerful]AJ
+etcsri/Q001056,E-anatum 01,,o vi 2,sux:mu[name]N sux:pad[find]V/t
+etcsri/Q001056,E-anatum 01,,o vi 3,sux:Ninŋirsuk[1]DN
+etcsri/Q001056,E-anatum 01,,o vi 4,sux:Eanatum[1]RN
+etcsri/Q001056,E-anatum 01,,o vi 5,sux:kur[mountain]N sux:ane[he]IP
+etcsri/Q001056,E-anatum 01,,o vi 6,sux:niŋ[thing]N sux:ul[distant]V/i
+etcsri/Q001056,E-anatum 01,,o vi 7,sux:gu[voice]N sux:de[pour]V/t
+etcsri/Q001056,E-anatum 01,,o vi 8,sux:ensik[ruler]N
+etcsri/Q001056,E-anatum 01,,o vi 9,sux:Umma[1]SN
+etcsri/Q001056,E-anatum 01,,o vi 10,sux:mea[where?]N sux:huŋ[pacify]V/t
+etcsri/Q001056,E-anatum 01,,o vi 12,sux:Guedenak[1]GN
+etcsri/Q001056,E-anatum 01,,o vi 13,sux:ašag[field]N sux:ki[place]N sux:aŋ[measure]V/t
+etcsri/Q001056,E-anatum 01,,o vi 14,sux:Ninŋirsuk[1]DN
+etcsri/Q001056,E-anatum 01,,o vi 15,sux:gu[eat]V/t
+etcsri/Q001056,E-anatum 01,,o vi 16,sux:šub[fall]V/t
+etcsri/Q001056,E-anatum 01,,o vi 17,sux:an[sky]N sux:šar[3600]NU
+etcsri/Q001056,E-anatum 01,,o vi 23,sux:eŋir[back]N
+etcsri/Q001056,E-anatum 01,,o vi 24,sux:us[follow]V/i
+etcsri/Q001056,E-anatum 01,,o vi 25,sux:nud[lie]V/i
+etcsri/Q001056,E-anatum 01,,o vi 26,sux:nud[lie]V/i
+etcsri/Q001056,E-anatum 01,,o vi 27,sux:saŋ[head]N sux:gub[stand]V/i
+etcsri/Q001056,E-anatum 01,,o vi 28,sux:Eanatum[1]RN
+etcsri/Q001056,E-anatum 01,,o vi 29,sux:nud[lie]V/i
+etcsri/Q001056,E-anatum 01,,o vi 30,sux:lugal[king]N sux:ki[place]N sux:aŋ[measure]V/t
+etcsri/Q001056,E-anatum 01,,o vi 31,sux:Ninŋirsuk[1]DN
+etcsri/Q001056,E-anatum 01,,o vi 32,sux:saŋ[head]N sux:gub[stand]V/i
+etcsri/Q001056,E-anatum 01,,o vii 1,sux:Umma[1]SN
+etcsri/Q001056,E-anatum 01,,o vii 2,sux:Kiš[1]SN
+etcsri/Q001056,E-anatum 01,,o vii 3,sux:šu[hand]N sux:dag[demolish]V/t
+etcsri/Q001056,E-anatum 01,,o vii 4,sux:zaʾe[I]IP sux:dab[seize]V/t
+etcsri/Q001056,E-anatum 01,,o vii 5,sux:gub[stand]V/i
+etcsri/Q001056,E-anatum 01,,o vii 6,sux:a[arm]N sux:zid[right]V/i
+etcsri/Q001056,E-anatum 01,,o vii 7,sux:Utu[1]DN
+etcsri/Q001056,E-anatum 01,,o vii 8,sux:e[leave]V/i
+etcsri/Q001056,E-anatum 01,,o vii 9,sux:saŋki[forehead]N
+etcsri/Q001056,E-anatum 01,,o vii 10,sux:IZI.DU.GI.US₂[unmng]N
+etcsri/Q001056,E-anatum 01,,o vii 11,sux:kešed[bind]V/t
+etcsri/Q001056,E-anatum 01,,o vii 12,sux:Eanatum[1]RN
+etcsri/Q001056,E-anatum 01,,o vii 20,sux:ŋeš[tree]N sux:rah[beat]V/t
+etcsri/Q001056,E-anatum 01,,o vii 21,sux:adda[corpse]N
+etcsri/Q001056,E-anatum 01,,o vii 22,sux:ulhe[firmament]N sux:la[stretch]V/t
+etcsri/Q001056,E-anatum 01,,o vii 23,sux:Umma[1]SN
+etcsri/Q001056,E-anatum 01,,o viii 1,sux:šu[hand]N sux:zig[rise]V/i
+etcsri/Q001056,E-anatum 01,,o viii 2,sux:šag[heart]N sux:Umma[1]SN
+etcsri/Q001056,E-anatum 01,,o viii 3,sux:gaz[kill]V/t
+etcsri/Q001056,E-anatum 01,,o viii 4,sux:niŋin[district]N
+etcsri/Q001056,E-anatum 01,,o ix 1,sux:ŋeš[tree]N sux:teš[unity]N sux:la[hang]V/t
+etcsri/Q001056,E-anatum 01,,o ix 2,sux:Eanatum[1]RN
+etcsri/Q001056,E-anatum 01,,o ix 3,sux:lu[person]N sux:ti[arrow]N sux:rah[beat]V/t
+etcsri/Q001056,E-anatum 01,,o ix 4,sux:ti[arrow]N sux:sig[put]V/t
+etcsri/Q001056,E-anatum 01,,o ix 5,sux:haš[break]V/t
+etcsri/Q001056,E-anatum 01,,o ix 6,sux:igi[face]N
+etcsri/Q001056,E-anatum 01,,o ix 7,sux:lu[person]N
+etcsri/Q001056,E-anatum 01,,o x 1,sux:Eanatum[1]RN
+etcsri/Q001056,E-anatum 01,,o x 2,sux:Umma[1]SN
+etcsri/Q001056,E-anatum 01,,o x 3,sux:imhul[wind]N sux:im[rain]N
+etcsri/Q001056,E-anatum 01,,o x 4,sux:amaru[flood]N sux:taka[abandon]V/t
+etcsri/Q001056,E-anatum 01,,o x 12,sux:Eanatum[1]RN
+etcsri/Q001056,E-anatum 01,,o x 13,sux:lu[person]N sux:inim[word]N sux:si[horn]N sux:sa[equal]V/t
+etcsri/Q001056,E-anatum 01,,o x 14,sux:kisura[border]N
+etcsri/Q001056,E-anatum 01,,o xi 1,sux:rah[beat]V/t
+etcsri/Q001056,E-anatum 01,,o xi 2,sux:a[arm]N sux:Umma[1]SN
+etcsri/Q001056,E-anatum 01,,o xi 3,sux:taka[abandon]V/t
+etcsri/Q001056,E-anatum 01,,o xi 4,sux:ki[place]N sux:na[stone]N sux:du[build]V/t
+etcsri/Q001056,E-anatum 01,,o xi 5,sux:lu[person]N sux:Umma[1]SN
+etcsri/Q001056,E-anatum 01,,o xi 12,sux:Umma[1]SN
+etcsri/Q001056,E-anatum 01,,o xi 13,sux:agakar[conqueror]N sux:sig[put]V/t
+etcsri/Q001056,E-anatum 01,,o xi 14,sux:SAHAR.DU₆.TAK₄[burial-mound]N sux:niš[twenty]NU
+etcsri/Q001056,E-anatum 01,,o xi 15,sux:dub[heap]V/t
+etcsri/Q001056,E-anatum 01,,o xi 16,sux:Eanatum[1]RN
+etcsri/Q001056,E-anatum 01,,o xi 17,sux:er[tears]N sux:dug[good]V/i sux:pad[find]V/t
+etcsri/Q001056,E-anatum 01,,o xi 18,sux:Šul-MUŠ×PA[1]DN
+etcsri/Q001056,E-anatum 01,,o xi 19,sux:Eanatum[1]RN
+etcsri/Q001056,E-anatum 01,,o xi 21,sux:Eanatum[1]RN
+etcsri/Q001056,E-anatum 01,,o xi 22,sux:Ninŋirsuk[1]DN
+etcsri/Q001056,E-anatum 01,,o xi 23,sux:kur[mountain]N sux:halam[forsake]V/t
+etcsri/Q001056,E-anatum 01,,o xi 24,sux:Eanatum[1]RN
+etcsri/Q001056,E-anatum 01,,o xii 1,sux:Ninŋirsuk[1]DN
+etcsri/Q001056,E-anatum 01,,o xii 2,sux:ašag[field]N sux:ki[place]N sux:aŋ[measure]V/t
+etcsri/Q001056,E-anatum 01,,o xii 3,sux:Guedenak[1]GN
+etcsri/Q001056,E-anatum 01,,o xii 4,sux:šu[hand]N sux:gi[turn]V/i
+etcsri/Q001056,E-anatum 01,,o xii 11,sux:ašag[field]N sux:Dana[1]GN
+etcsri/Q001056,E-anatum 01,,o xii 12,sux:Kihara[1]GN
+etcsri/Q001056,E-anatum 01,,o xii 13,sux:Ninŋirsuk[1]DN
+etcsri/Q001056,E-anatum 01,,o xii 20,sux:Eanatum[1]RN
+etcsri/Q001056,E-anatum 01,,o xii 21,sux:Emah[4]TN
+etcsri/Q001056,E-anatum 01,,o xiii 13,sux:Ninŋirsuk[1]DN
+etcsri/Q001056,E-anatum 01,,o xiii 14,sux:Eanatum[1]RN
+etcsri/Q001056,E-anatum 01,,o xiii 16,sux:Ninŋirsuk[1]DN
+etcsri/Q001056,E-anatum 01,,o xiii 17,sux:diŋir[deity]N sux:Šul-MUŠ×PA[1]DN
+etcsri/Q001056,E-anatum 01,,o xiv 1,sux:ašag[field]N sux:Dagba[5]GN
+etcsri/Q001056,E-anatum 01,,o xv 10,sux:ašag[field]N sux:X-GAL-NIMGIR[1]GN
+etcsri/Q001056,E-anatum 01,,o xv 11,sux:ašag[field]N sux:ŊEŠ-PIRIŊ-ŊA₂[1]GN
+etcsri/Q001056,E-anatum 01,,o xv 12,sux:ašag[field]N sux:Tumal[1]GN
+etcsri/Q001056,E-anatum 01,,o xv 13,sux:ašag[field]N sux:X-lam-X[1]GN
+etcsri/Q001056,E-anatum 01,,o xv 14,sux:ašag[field]N sux:X-lam-X[2]GN
+etcsri/Q001056,E-anatum 01,,o xv 15,sux:ašag[field]N sux:X-GUR₈-X[1]GN
+etcsri/Q001056,E-anatum 01,,o xv 16,sux:ašag[field]N
+etcsri/Q001056,E-anatum 01,,o xv 17,sux:ašag[field]N sux:X-gal-X[1]GN
+etcsri/Q001056,E-anatum 01,,o xv 18,sux:ašag[field]N
+etcsri/Q001056,E-anatum 01,,o xvi 8,sux:Eanatum[1]RN
+etcsri/Q001056,E-anatum 01,,o xvi 9,sux:mu[name]N sux:pad[find]V/t
+etcsri/Q001056,E-anatum 01,,o xvi 10,sux:Ninŋirsuk[1]DN
+etcsri/Q001056,E-anatum 01,,o xvi 11,sux:šu[hand]N sux:gi[turn]V/i
+etcsri/Q001056,E-anatum 01,,o xvi 12,sux:lu[person]N sux:Umma[1]SN
+etcsri/Q001056,E-anatum 01,,o xvi 13,sux:Eanatum[1]RN
+etcsri/Q001056,E-anatum 01,,o xvi 14,sux:sašušgal[net]N
+etcsri/Q001056,E-anatum 01,,o xvi 15,sux:Enlil[1]DN
+etcsri/Q001056,E-anatum 01,,o xvi 16,sux:šum[give]V/t
+etcsri/Q001056,E-anatum 01,,o xvi 17,sux:nam[oath]N sux:kud[cut]V/t
+etcsri/Q001056,E-anatum 01,,o xvi 18,sux:lu[person]N sux:Umma[1]SN
+etcsri/Q001056,E-anatum 01,,o xvi 19,sux:Eanatum[1]RN
+etcsri/Q001056,E-anatum 01,,o xvi 20,sux:nam[oath]N sux:kud[cut]V/t
+etcsri/Q001056,E-anatum 01,,o xvi 21,sux:zi[life]N sux:Enlil[1]DN
+etcsri/Q001056,E-anatum 01,,o xvi 22,sux:lugal[king]N sux:an[sky]N sux:ki[place]N
+etcsri/Q001056,E-anatum 01,,o xvi 23,sux:ašag[field]N sux:Ninŋirsuk[1]DN
+etcsri/Q001056,E-anatum 01,,o xvi 24,sux:urra[loan]N sux:gu[eat]V/t
+etcsri/Q001056,E-anatum 01,,o xvi 25,sux:eg[levee]N sux:dug[speak]V/t
+etcsri/Q001056,E-anatum 01,,o xvi 26,sux:dari[eternal]V/i sux:dag[line]N sux:gal[big]V/i
+etcsri/Q001056,E-anatum 01,,o xvi 27,sux:kisura[border]N
+etcsri/Q001056,E-anatum 01,,o xvi 28,sux:Ninŋirsuk[1]DN
+etcsri/Q001056,E-anatum 01,,o xvi 29,sux:bala[turn]V/t
+etcsri/Q001056,E-anatum 01,,o xvi 30,sux:eg[levee]N sux:par[canal]N
+etcsri/Q001056,E-anatum 01,,o xvi 31,sux:šu[hand]N sux:bala[turn]V/t sux:ak[do]V/t
+etcsri/Q001056,E-anatum 01,,o xvi 32,sux:narua[stele]N
+etcsri/Q001056,E-anatum 01,,o xvi 33,sux:bur[tear]V/t
+etcsri/Q001056,E-anatum 01,,o xvi 34,sux:ud[sun]N sux:bala[turn]V/t
+etcsri/Q001056,E-anatum 01,,o xvi 35,sux:sašušgal[net]N
+etcsri/Q001056,E-anatum 01,,o xvi 36,sux:Enlil[1]DN
+etcsri/Q001056,E-anatum 01,,o xvi 37,sux:lugal[king]N sux:an[sky]N sux:ki[place]N
+etcsri/Q001056,E-anatum 01,,o xvi 38,sux:nam[oath]N sux:kud[cut]V/t
+etcsri/Q001056,E-anatum 01,,o xvi 39,sux:Umma[1]SN
+etcsri/Q001056,E-anatum 01,,o xvi 40,sux:an[sky]N sux:šuš[cover]V/t
+etcsri/Q001056,E-anatum 01,,o xvi 41,sux:Eanatum[1]RN
+etcsri/Q001056,E-anatum 01,,o xvi 42,sux:gal[big]V/i sux:zu[know]V/t
+etcsri/Q001056,E-anatum 01,,o xvi 43,sux:tum[dove]N sux:min[two]NU
+etcsri/Q001056,E-anatum 01,,o xvi 44,sux:igi[eye]N sux:šembizida[kohl]N sux:ŋar[place]V/t
+etcsri/Q001056,E-anatum 01,,o xvi 45,sux:eren[cedar]N sux:saŋ[head]N sux:du[spread]V/t
+etcsri/Q001056,E-anatum 01,,o xvii 5,sux:šu[hand]N sux:bad[open]V/i
+etcsri/Q001056,E-anatum 01,,o xvii 6,sux:lugal[king]N
+etcsri/Q001056,E-anatum 01,,o xvii 7,sux:Enlil[1]DN
+etcsri/Q001056,E-anatum 01,,o xvii 8,sux:aba[who?]N sux:dug[speak]V/t
+etcsri/Q001056,E-anatum 01,,o xvii 9,sux:aba[who?]N sux:šar[3600]NU
+etcsri/Q001056,E-anatum 01,,o xvii 10,sux:lu[person]N sux:Umma[1]SN
+etcsri/Q001056,E-anatum 01,,o xvii 11,sux:inim[word]N sux:gur[turn]V/t
+etcsri/Q001056,E-anatum 01,,o xvii 12,sux:ud[sun]N sux:du[build]V/t
+etcsri/Q001056,E-anatum 01,,o xvii 13,sux:inim[word]N sux:ŋal[be]V/i
+etcsri/Q001056,E-anatum 01,,o xvii 14,sux:ud[sun]N sux:inim[word]N
+etcsri/Q001056,E-anatum 01,,o xvii 15,sux:šu[hand]N sux:bala[turn]V/t
+etcsri/Q001056,E-anatum 01,,o xvii 16,sux:sašušgal[net]N
+etcsri/Q001056,E-anatum 01,,o xvii 17,sux:Enlil[1]DN
+etcsri/Q001056,E-anatum 01,,o xvii 18,sux:nam[oath]N sux:kud[cut]V/t
+etcsri/Q001056,E-anatum 01,,o xvii 19,sux:Umma[1]SN
+etcsri/Q001056,E-anatum 01,,o xvii 20,sux:an[sky]N sux:šuš[cover]V/t
+etcsri/Q001056,E-anatum 01,,o xvii 21,sux:Eanatum[1]RN
+etcsri/Q001056,E-anatum 01,,o xvii 22,sux:sašušgal[net]N
+etcsri/Q001056,E-anatum 01,,o xvii 23,sux:Ninhursaŋak[1]DN
+etcsri/Q001056,E-anatum 01,,o xvii 24,sux:lu[person]N sux:Umma[1]SN
+etcsri/Q001056,E-anatum 01,,o xvii 25,sux:šum[give]V/t
+etcsri/Q001056,E-anatum 01,,o xvii 26,sux:nam[oath]N sux:kud[cut]V/t
+etcsri/Q001056,E-anatum 01,,o xvii 27,sux:lu[person]N sux:Umma[1]SN
+etcsri/Q001056,E-anatum 01,,o xvii 28,sux:Eanatum[1]RN
+etcsri/Q001056,E-anatum 01,,o xvii 29,sux:nam[oath]N sux:kud[cut]V/t
+etcsri/Q001056,E-anatum 01,,o xvii 30,sux:zi[life]N sux:Ninhursaŋak[1]DN
+etcsri/Q001056,E-anatum 01,,o xvii 31,sux:ašag[field]N sux:Ninŋirsuk[1]DN
+etcsri/Q001056,E-anatum 01,,o xvii 32,sux:urra[loan]N sux:gu[eat]V/t
+etcsri/Q001056,E-anatum 01,,o xvii 33,sux:eg[levee]N sux:dug[speak]V/t
+etcsri/Q001056,E-anatum 01,,o xvii 34,sux:dari[eternal]V/i sux:dag[line]N sux:gal[big]V/i
+etcsri/Q001056,E-anatum 01,,o xvii 35,sux:kisura[border]N
+etcsri/Q001056,E-anatum 01,,o xvii 36,sux:Ninŋirsuk[1]DN
+etcsri/Q001056,E-anatum 01,,o xvii 37,sux:bala[turn]V/t
+etcsri/Q001056,E-anatum 01,,o xvii 38,sux:eg[levee]N sux:par[canal]N
+etcsri/Q001056,E-anatum 01,,o xvii 39,sux:šu[hand]N sux:bala[turn]V/t sux:ak[do]V/t
+etcsri/Q001056,E-anatum 01,,o xvii 40,sux:narua[stele]N
+etcsri/Q001056,E-anatum 01,,o xvii 41,sux:bur[tear]V/t
+etcsri/Q001056,E-anatum 01,,o xvii 42,sux:ud[sun]N sux:bala[turn]V/t
+etcsri/Q001056,E-anatum 01,,o xvii 43,sux:sašušgal[net]N
+etcsri/Q001056,E-anatum 01,,o xvii 44,sux:Ninhursaŋak[1]DN
+etcsri/Q001056,E-anatum 01,,o xvii 45,sux:nam[oath]N sux:kud[cut]V/t
+etcsri/Q001056,E-anatum 01,,o xvii 46,sux:Umma[1]SN
+etcsri/Q001056,E-anatum 01,,o xvii 47,sux:an[sky]N sux:šuš[cover]V/t
+etcsri/Q001056,E-anatum 01,,o xvii 48,sux:Eanatum[1]RN
+etcsri/Q001056,E-anatum 01,,o xviii 1,sux:gal[big]V/i sux:zu[know]V/t
+etcsri/Q001056,E-anatum 01,,o xviii 2,sux:tum[dove]N sux:min[two]NU
+etcsri/Q001056,E-anatum 01,,o xviii 3,sux:igi[eye]N sux:šembizida[kohl]N sux:ŋar[place]V/t
+etcsri/Q001056,E-anatum 01,,o xviii 4,sux:eren[cedar]N sux:saŋ[head]N sux:du[spread]V/t
+etcsri/Q001056,E-anatum 01,,o xviii 5,sux:Ninhursaŋak[1]DN
+etcsri/Q001056,E-anatum 01,,o xviii 6,sux:Keš[1]SN
+etcsri/Q001056,E-anatum 01,,o xviii 7,sux:šu[hand]N sux:bad[open]V/i
+etcsri/Q001056,E-anatum 01,,o xviii 8,sux:ama[mother]N
+etcsri/Q001056,E-anatum 01,,o xviii 9,sux:Ninhursaŋak[1]DN
+etcsri/Q001056,E-anatum 01,,o xviii 10,sux:aba[who?]N sux:dug[speak]V/t
+etcsri/Q001056,E-anatum 01,,o xviii 11,sux:aba[who?]N sux:šar[3600]NU
+etcsri/Q001056,E-anatum 01,,o xviii 12,sux:lu[person]N sux:Umma[1]SN
+etcsri/Q001056,E-anatum 01,,o xviii 13,sux:inim[word]N sux:gur[turn]V/t
+etcsri/Q001056,E-anatum 01,,o xviii 14,sux:ud[sun]N sux:du[build]V/t
+etcsri/Q001056,E-anatum 01,,o xviii 15,sux:inim[word]N sux:ŋal[be]V/i
+etcsri/Q001056,E-anatum 01,,o xviii 16,sux:ud[sun]N sux:inim[word]N
+etcsri/Q001056,E-anatum 01,,o xviii 17,sux:šu[hand]N sux:bala[turn]V/t
+etcsri/Q001056,E-anatum 01,,o xviii 18,sux:sašušgal[net]N
+etcsri/Q001056,E-anatum 01,,o xviii 19,sux:Ninhursaŋak[1]DN
+etcsri/Q001056,E-anatum 01,,o xviii 20,sux:nam[oath]N sux:kud[cut]V/t
+etcsri/Q001056,E-anatum 01,,o xviii 21,sux:Umma[1]SN
+etcsri/Q001056,E-anatum 01,,o xviii 22,sux:an[sky]N sux:šuš[cover]V/t
+etcsri/Q001056,E-anatum 01,,o xviii 23,sux:Eanatum[1]RN
+etcsri/Q001056,E-anatum 01,,o xviii 24,sux:sašušgal[net]N
+etcsri/Q001056,E-anatum 01,,o xviii 25,sux:Enkik[1]DN
+etcsri/Q001056,E-anatum 01,,o xviii 26,sux:lugal[king]N sux:abzu[water]N
+etcsri/Q001056,E-anatum 01,,o xviii 27,sux:lu[person]N sux:Umma[1]SN
+etcsri/Q001056,E-anatum 01,,o xviii 28,sux:šum[give]V/t
+etcsri/Q001056,E-anatum 01,,o xviii 29,sux:nam[fate]N sux:kud[cut]V/t
+etcsri/Q001056,E-anatum 01,,o xviii 30,sux:lu[person]N sux:Umma[1]SN
+etcsri/Q001056,E-anatum 01,,o xviii 31,sux:Eanatum[1]RN
+etcsri/Q001056,E-anatum 01,,o xviii 32,sux:nam[oath]N sux:kud[cut]V/t
+etcsri/Q001056,E-anatum 01,,o xviii 33,sux:zi[life]N sux:Enkik[1]DN
+etcsri/Q001056,E-anatum 01,,o xviii 34,sux:lugal[king]N sux:abzu[water]N
+etcsri/Q001056,E-anatum 01,,o xviii 35,sux:ašag[field]N sux:Ninŋirsuk[1]DN
+etcsri/Q001056,E-anatum 01,,o xviii 36,sux:urra[loan]N sux:gu[eat]V/t
+etcsri/Q001056,E-anatum 01,,o xviii 37,sux:eg[levee]N sux:dug[speak]V/t
+etcsri/Q001056,E-anatum 01,,o xviii 38,sux:dari[eternal]V/i sux:dag[line]N sux:gal[big]V/i
+etcsri/Q001056,E-anatum 01,,o xviii 39,sux:kisura[border]N
+etcsri/Q001056,E-anatum 01,,o xviii 40,sux:Ninŋirsuk[1]DN
+etcsri/Q001056,E-anatum 01,,o xviii 41,sux:bala[turn]V/t
+etcsri/Q001056,E-anatum 01,,o xviii 42,sux:eg[levee]N sux:par[canal]N
+etcsri/Q001056,E-anatum 01,,o xviii 43,sux:šu[hand]N sux:bala[turn]V/t sux:ak[do]V/t
+etcsri/Q001056,E-anatum 01,,o xviii 44,sux:narua[stele]N
+etcsri/Q001056,E-anatum 01,,o xviii 45,sux:bur[tear]V/t
+etcsri/Q001056,E-anatum 01,,o xix 1,sux:ud[sun]N sux:bala[turn]V/t
+etcsri/Q001056,E-anatum 01,,o xix 2,sux:sašušgal[net]N
+etcsri/Q001056,E-anatum 01,,o xix 3,sux:Enkik[1]DN
+etcsri/Q001056,E-anatum 01,,o xix 4,sux:lugal[king]N sux:abzu[water]N
+etcsri/Q001056,E-anatum 01,,o xix 5,sux:nam[oath]N sux:kud[cut]V/t
+etcsri/Q001056,E-anatum 01,,o xix 6,sux:Umma[1]SN
+etcsri/Q001056,E-anatum 01,,o xix 7,sux:an[sky]N sux:šuš[cover]V/t
+etcsri/Q001056,E-anatum 01,,o xix 8,sux:Eanatum[1]RN
+etcsri/Q001056,E-anatum 01,,o xix 9,sux:gal[big]V/i sux:zu[know]V/t
+etcsri/Q001056,E-anatum 01,,o xix 15,sux:Ninŋirsuk[1]DN
+etcsri/Q001056,E-anatum 01,,o xix 16,sux:šu[hand]N sux:bad[open]V/i
+etcsri/Q001056,E-anatum 01,,o xix 17,sux:suhur[carp]N sux:abzu[water]N
+etcsri/Q001056,E-anatum 01,,o xix 18,sux:Eanatum[1]RN
+etcsri/Q001056,E-anatum 01,,o xix 19,sux:inim[word]N sux:kud[cut]V/t
+etcsri/Q001056,E-anatum 01,,o xix 20,sux:lugal[king]N
+etcsri/Q001056,E-anatum 01,,o xix 21,sux:Enkik[1]DN
+etcsri/Q001056,E-anatum 01,,o xix 22,sux:aba[who?]N sux:dug[speak]V/t
+etcsri/Q001056,E-anatum 01,,o xix 23,sux:aba[who?]N sux:šar[3600]NU
+etcsri/Q001056,E-anatum 01,,o xix 24,sux:lu[person]N sux:Umma[1]SN
+etcsri/Q001056,E-anatum 01,,o xix 25,sux:inim[word]N sux:gur[turn]V/t
+etcsri/Q001056,E-anatum 01,,o xix 26,sux:ud[sun]N sux:du[build]V/t
+etcsri/Q001056,E-anatum 01,,o xix 27,sux:inim[word]N sux:ŋal[be]V/i
+etcsri/Q001056,E-anatum 01,,o xix 28,sux:ud[sun]N sux:inim[word]N
+etcsri/Q001056,E-anatum 01,,o xix 29,sux:šu[hand]N sux:bala[turn]V/t
+etcsri/Q001056,E-anatum 01,,o xix 30,sux:sašušgal[net]N
+etcsri/Q001056,E-anatum 01,,o xix 31,sux:Enkik[1]DN
+etcsri/Q001056,E-anatum 01,,o xix 32,sux:nam[oath]N sux:kud[cut]V/t
+etcsri/Q001056,E-anatum 01,,o xix 33,sux:Umma[1]SN
+etcsri/Q001056,E-anatum 01,,o xix 34,sux:an[sky]N sux:šuš[cover]V/t
+etcsri/Q001056,E-anatum 01,,o xix 35,sux:Eanatum[1]RN
+etcsri/Q001056,E-anatum 01,,o xix 36,sux:sašušgal[net]N
+etcsri/Q001056,E-anatum 01,,o xx 1,sux:Suen[1]DN
+etcsri/Q001056,E-anatum 01,,o xx 2,sux:amar[young]N sux:banda[junior]V/i
+etcsri/Q001056,E-anatum 01,,o xx 3,sux:Enlil[1]DN
+etcsri/Q001056,E-anatum 01,,o xx 4,sux:lu[person]N sux:Umma[1]SN
+etcsri/Q001056,E-anatum 01,,o xx 5,sux:šum[give]V/t
+etcsri/Q001056,E-anatum 01,,o xx 6,sux:nam[oath]N sux:kud[cut]V/t
+etcsri/Q001056,E-anatum 01,,o xx 7,sux:lu[person]N sux:Umma[1]SN
+etcsri/Q001056,E-anatum 01,,o xx 8,sux:Eanatum[1]RN
+etcsri/Q001056,E-anatum 01,,o xx 9,sux:nam[oath]N sux:kud[cut]V/t
+etcsri/Q001056,E-anatum 01,,o xx 10,sux:zi[life]N sux:Suen[1]DN
+etcsri/Q001056,E-anatum 01,,o xx 11,sux:amar[young]N sux:banda[junior]V/i
+etcsri/Q001056,E-anatum 01,,o xx 12,sux:Enlil[1]DN
+etcsri/Q001056,E-anatum 01,,o xx 13,sux:ašag[field]N sux:Ninŋirsuk[1]DN
+etcsri/Q001056,E-anatum 01,,o xx 14,sux:urra[loan]N sux:gu[eat]V/t
+etcsri/Q001056,E-anatum 01,,o xx 15,sux:eg[levee]N sux:dug[speak]V/t
+etcsri/Q001056,E-anatum 01,,o xx 16,sux:dari[eternal]V/i sux:dag[line]N sux:gal[big]V/i
+etcsri/Q001056,E-anatum 01,,o xx 17,sux:kisura[border]N
+etcsri/Q001056,E-anatum 01,,o xx 18,sux:Ninŋirsuk[1]DN
+etcsri/Q001056,E-anatum 01,,o xx 19,sux:bala[turn]V/t
+etcsri/Q001056,E-anatum 01,,o xx 20,sux:eg[levee]N sux:par[canal]N
+etcsri/Q001056,E-anatum 01,,o xxi 1,sux:šu[hand]N sux:bala[turn]V/t sux:ak[do]V/t
+etcsri/Q001056,E-anatum 01,,o xxi 2,sux:narua[stele]N
+etcsri/Q001056,E-anatum 01,,o xxi 3,sux:bur[tear]V/t
+etcsri/Q001056,E-anatum 01,,o xxi 4,sux:ud[sun]N sux:bala[turn]V/t
+etcsri/Q001056,E-anatum 01,,o xxi 5,sux:sašušgal[net]N
+etcsri/Q001056,E-anatum 01,,o xxi 6,sux:Suen[1]DN
+etcsri/Q001056,E-anatum 01,,o xxi 7,sux:amar[young]N sux:banda[junior]V/i
+etcsri/Q001056,E-anatum 01,,o xxi 8,sux:Enlil[1]DN
+etcsri/Q001056,E-anatum 01,,o xxi 9,sux:nam[oath]N sux:kud[cut]V/t
+etcsri/Q001056,E-anatum 01,,o xxi 10,sux:Umma[1]SN
+etcsri/Q001056,E-anatum 01,,o xxi 11,sux:an[sky]N sux:šuš[cover]V/t
+etcsri/Q001056,E-anatum 01,,o xxi 12,sux:Eanatum[1]RN
+etcsri/Q001056,E-anatum 01,,o xxi 13,sux:gal[big]V/i sux:zu[know]V/t
+etcsri/Q001056,E-anatum 01,,o xxi 14,sux:tum[dove]N sux:limmu[four]NU
+etcsri/Q001056,E-anatum 01,,o xxi 15,sux:igi[eye]N sux:šembizida[kohl]N sux:ŋar[place]V/t
+etcsri/Q001056,E-anatum 01,,o xxi 16,sux:eren[cedar]N sux:saŋ[head]N sux:du[spread]V/t
+etcsri/Q001056,E-anatum 01,,o xxi 17,sux:min[two]NU sux:Urim[1]SN
+etcsri/Q001056,E-anatum 01,,o xxii 5,sux:Suen[1]DN
+etcsri/Q001056,E-anatum 01,,o xxii 6,sux:šu[hand]N sux:bad[open]V/i
+etcsri/Q001056,E-anatum 01,,o xxii 7,sux:lugal[king]N
+etcsri/Q001056,E-anatum 01,,o xxii 8,sux:Suen[1]DN
+etcsri/Q001056,E-anatum 01,,o xxii 9,sux:amar[young]N sux:banda[junior]V/i
+etcsri/Q001056,E-anatum 01,,o xxii 10,sux:Enlil[1]DN
+etcsri/Q001056,E-anatum 01,,o xxii 11,sux:aba[who?]N sux:dug[speak]V/t
+etcsri/Q001056,E-anatum 01,,o xxii 12,sux:aba[who?]N sux:šar[3600]NU
+etcsri/Q001056,E-anatum 01,,o xxii 13,sux:lu[person]N sux:Umma[1]SN
+etcsri/Q001056,E-anatum 01,,o xxii 14,sux:inim[word]N sux:gur[turn]V/t
+etcsri/Q001056,E-anatum 01,,o xxii 15,sux:ud[sun]N sux:du[build]V/t
+etcsri/Q001056,E-anatum 01,,o xxiii 1,sux:inim[word]N sux:ŋal[be]V/i
+etcsri/Q001056,E-anatum 01,,o xxiii 2,sux:ud[sun]N sux:inim[word]N
+etcsri/Q001056,E-anatum 01,,o xxiii 3,sux:šu[hand]N sux:bala[turn]V/t
+etcsri/Q001056,E-anatum 01,,o xxiii 4,sux:sašušgal[net]N
+etcsri/Q001056,E-anatum 01,,o xxiii 5,sux:Suen[1]DN
+etcsri/Q001056,E-anatum 01,,o xxiii 6,sux:nam[oath]N sux:kud[cut]V/t
+etcsri/Q001056,E-anatum 01,,o xxiii 7,sux:Umma[1]SN
+etcsri/Q001056,E-anatum 01,,o xxiii 8,sux:an[sky]N sux:šuš[cover]V/t
+etcsri/Q001056,E-anatum 01,,r i 1,sux:Eanatum[1]RN
+etcsri/Q001056,E-anatum 01,,r i 2,sux:sašušgal[net]N
+etcsri/Q001056,E-anatum 01,,r i 3,sux:Utu[1]DN
+etcsri/Q001056,E-anatum 01,,r i 4,sux:lugal[king]N sux:nisig[greenery]N
+etcsri/Q001056,E-anatum 01,,r i 5,sux:lu[person]N sux:Umma[1]SN
+etcsri/Q001056,E-anatum 01,,r i 6,sux:šum[give]V/t
+etcsri/Q001056,E-anatum 01,,r i 7,sux:nam[oath]N sux:kud[cut]V/t
+etcsri/Q001056,E-anatum 01,,r i 8,sux:lu[person]N sux:Umma[1]SN
+etcsri/Q001056,E-anatum 01,,r i 9,sux:Eanatum[1]RN
+etcsri/Q001056,E-anatum 01,,r i 10,sux:nam[oath]N sux:kud[cut]V/t
+etcsri/Q001056,E-anatum 01,,r i 11,sux:zi[life]N sux:Utu[1]DN
+etcsri/Q001056,E-anatum 01,,r i 12,sux:lugal[king]N sux:nisig[greenery]N
+etcsri/Q001056,E-anatum 01,,r i 13,sux:ašag[field]N sux:Ninŋirsuk[1]DN
+etcsri/Q001056,E-anatum 01,,r i 14,sux:urra[loan]N sux:gu[eat]V/t
+etcsri/Q001056,E-anatum 01,,r i 15,sux:eg[levee]N sux:dug[speak]V/t
+etcsri/Q001056,E-anatum 01,,r i 16,sux:dari[eternal]V/i sux:dag[line]N sux:gal[big]V/i
+etcsri/Q001056,E-anatum 01,,r i 17,sux:kisura[border]N
+etcsri/Q001056,E-anatum 01,,r i 18,sux:Ninŋirsuk[1]DN
+etcsri/Q001056,E-anatum 01,,r i 19,sux:bala[turn]V/t
+etcsri/Q001056,E-anatum 01,,r i 20,sux:eg[levee]N sux:par[canal]N
+etcsri/Q001056,E-anatum 01,,r i 21,sux:šu[hand]N sux:bala[turn]V/t sux:ak[do]V/t
+etcsri/Q001056,E-anatum 01,,r i 22,sux:narua[stele]N
+etcsri/Q001056,E-anatum 01,,r i 23,sux:bur[tear]V/t
+etcsri/Q001056,E-anatum 01,,r i 24,sux:ud[sun]N sux:bala[turn]V/t
+etcsri/Q001056,E-anatum 01,,r i 25,sux:sašušgal[net]N
+etcsri/Q001056,E-anatum 01,,r i 26,sux:Utu[1]DN
+etcsri/Q001056,E-anatum 01,,r i 27,sux:lugal[king]N sux:nisig[greenery]N
+etcsri/Q001056,E-anatum 01,,r i 28,sux:nam[oath]N sux:kud[cut]V/t
+etcsri/Q001056,E-anatum 01,,r i 29,sux:Umma[1]SN
+etcsri/Q001056,E-anatum 01,,r i 30,sux:an[sky]N sux:šuš[cover]V/t
+etcsri/Q001056,E-anatum 01,,r i 31,sux:Eanatum[1]RN
+etcsri/Q001056,E-anatum 01,,r i 32,sux:gal[big]V/i sux:zu[know]V/t
+etcsri/Q001056,E-anatum 01,,r i 33,sux:tum[dove]N sux:min[two]NU
+etcsri/Q001056,E-anatum 01,,r i 34,sux:igi[eye]N sux:šembizida[kohl]N sux:ŋar[place]V/t
+etcsri/Q001056,E-anatum 01,,r i 35,sux:eren[cedar]N sux:saŋ[head]N sux:du[spread]V/t
+etcsri/Q001056,E-anatum 01,,r i 36,sux:Utu[1]DN
+etcsri/Q001056,E-anatum 01,,r i 37,sux:lugal[king]N sux:nisig[greenery]N
+etcsri/Q001056,E-anatum 01,,r v 42,sux:Eanatum[1]RN
+etcsri/Q001056,E-anatum 01,,r v 43,sux:lugal[king]N
+etcsri/Q001056,E-anatum 01,,r v 44,sux:Lagaš[1]SN
+etcsri/Q001056,E-anatum 01,,r v 45,sux:a[arm]N sux:šum[give]V/t
+etcsri/Q001056,E-anatum 01,,r v 46,sux:Enlil[1]DN
+etcsri/Q001056,E-anatum 01,,r v 47,sux:ga[milk]N sux:zid[right]V/i sux:gu[eat]V/t
+etcsri/Q001056,E-anatum 01,,r v 48,sux:Ninhursaŋak[1]DN
+etcsri/Q001056,E-anatum 01,,r v 49,sux:mu[name]N sux:dug[good]V/i sux:še[call]V/t
+etcsri/Q001056,E-anatum 01,,r v 50,sux:Inanak[1]DN
+etcsri/Q001056,E-anatum 01,,r v 51,sux:ŋeštug[ear]N sux:šum[give]V/t
+etcsri/Q001056,E-anatum 01,,r v 52,sux:Enkik[1]DN
+etcsri/Q001056,E-anatum 01,,r v 53,sux:šag[heart]N sux:pad[find]V/t
+etcsri/Q001056,E-anatum 01,,r v 54,sux:Nanše[1]DN
+etcsri/Q001056,E-anatum 01,,r v 55,sux:nin[lady]N sux:urun[exalted]V/i
+etcsri/Q001056,E-anatum 01,,r v 56,sux:kur[mountain]N sux:gu[neck]N sux:ŋar[place]V/t
+etcsri/Q001056,E-anatum 01,,r vi 1,sux:Ninŋirsuk[1]DN
+etcsri/Q001056,E-anatum 01,,r vi 2,sux:ki[place]N sux:aŋ[measure]V/t
+etcsri/Q001056,E-anatum 01,,r vi 3,sux:Dumuzidabzuk[1]DN
+etcsri/Q001056,E-anatum 01,,r vi 4,sux:mu[name]N sux:pad[find]V/t
+etcsri/Q001056,E-anatum 01,,r vi 5,sux:Hendursaŋak[1]DN
+etcsri/Q001056,E-anatum 01,,r vi 6,sux:guli[friend]N sux:ki[place]N sux:aŋ[measure]V/t
+etcsri/Q001056,E-anatum 01,,r vi 7,sux:Lugalurubak[1]DN
+etcsri/Q001056,E-anatum 01,,r vi 8,sux:dam[spouse]N sux:ki[place]N sux:aŋ[measure]V/t
+etcsri/Q001056,E-anatum 01,,r vi 9,sux:Inanak[1]DN
+etcsri/Q001056,E-anatum 01,,r vi 10,sux:Elam[1]GN sux:Šubur[1]GN
+etcsri/Q001056,E-anatum 01,,r vi 11,sux:kur[mountain]N sux:ŋeš[tree]N sux:niŋgur[property]N
+etcsri/Q001056,E-anatum 01,,r vii 2',sux:agakar[conqueror]N sux:sig[put]V/t
+etcsri/Q001056,E-anatum 01,,r vii 3',sux:Šušin[Susa]SN
+etcsri/Q001056,E-anatum 01,,r vii 4',sux:agakar[conqueror]N sux:sig[put]V/t
+etcsri/Q001056,E-anatum 01,,r vii 5',sux:šunir[emblem]N sux:Arawa[1]SN
+etcsri/Q001056,E-anatum 01,,r vii 6',sux:ensik[ruler]N
+etcsri/Q001056,E-anatum 01,,r vii 7',sux:saŋ[head]N sux:ŋen[go]V/i
+etcsri/Q001056,E-anatum 01,,r viii 1,sux:agakar[conqueror]N sux:sig[put]V/t
+etcsri/Q001056,E-anatum 01,,r viii 1',sux:Arua[1]SN
+etcsri/Q001056,E-anatum 01,,r viii 2',sux:halam[forsake]V/t
+etcsri/Q001056,E-anatum 01,,r viii 3',sux:šu[hand]N sux:e[leave]V/i
+etcsri/Q001056,E-anatum 01,,r viii 4',sux:Kiengir[1]GN
+etcsri/Q001056,E-anatum 01,,r ix 1',sux:Urim[1]SN
+etcsri/Q001056,E-anatum 01,,r ix 2',sux:agakar[conqueror]N sux:sig[put]V/t
+etcsri/Q001056,E-anatum 01,,r x 20,sux:Guedenak[1]GN
+etcsri/Q001056,E-anatum 01,,r x 21,sux:šu[hand]N sux:gi[turn]V/i
+etcsri/Q001056,E-anatum 01,,r x 22,sux:Eanatum[1]RN
+etcsri/Q001056,E-anatum 01,,r xi 20,sux:Ninŋirsuk[1]DN
+etcsri/Q001056,E-anatum 01,,r xi 21,sux:Ninŋirsuk[1]DN
+etcsri/Q001056,E-anatum 01,,r xi 22,sux:du[build]V/t
+etcsri/Q001056,E-anatum 01,,r xii 22,sux:lugal[king]N sux:Kiš[1]SN
+etcsri/Q001056,E-anatum 01,,r x 23,sux:narua[stele]N
+etcsri/Q001056,E-anatum 01,,r x 24,sux:mu[name]N
+etcsri/Q001056,E-anatum 01,,r x 25,sux:lu[person]N sux:nu[not]MOD sux:mu[name]N sux:dug[speak]V/t
+etcsri/Q001056,E-anatum 01,,r x 26,sux:Ninŋirsuk[1]DN
+etcsri/Q001056,E-anatum 01,,r x 27,sux:en[lord]N sux:men[tiara]N sux:lum[fruit]V/i
+etcsri/Q001056,E-anatum 01,,r x 28,sux:namtil[life]N
+etcsri/Q001056,E-anatum 01,,r x 29,sux:Piriŋedenak[1]WN
+etcsri/Q001056,E-anatum 01,,r x 30,sux:narua[stele]N
+etcsri/Q001056,E-anatum 01,,r x 31,sux:Guedenak[1]GN
+etcsri/Q001056,E-anatum 01,,r x 32,sux:ašag[field]N sux:ki[place]N sux:aŋ[measure]V/t
+etcsri/Q001056,E-anatum 01,,r x 33,sux:Ninŋirsuk[1]DN
+etcsri/Q001056,E-anatum 01,,r x 34,sux:Eanatum[1]RN
+etcsri/Q001056,E-anatum 01,,r x 35,sux:Ninŋirsuk[1]DN
+etcsri/Q001056,E-anatum 01,,r x 36,sux:šu[hand]N
+etcsri/Q001056,E-anatum 01,,r x 37,sux:mu[name]N sux:še[call]V/t
+etcsri/Q001056,E-anatum 01,,Cartousche A; 1,sux:Eanatum[1]RN
+etcsri/Q001056,E-anatum 01,,Cartousche A; 2,sux:kur[mountain]N sux:gu[neck]N sux:ŋar[place]V/t
+etcsri/Q001056,E-anatum 01,,Cartousche A; 3,sux:Ninŋirsuk[1]DN
+etcsri/Q001056,E-anatum 01,,Cartousche B; 1,sux:Eanatum[1]RN
+etcsri/Q001056,E-anatum 01,,Cartousche B; 2,sux:kur[mountain]N sux:gu[neck]N sux:ŋar[place]V/t

@@ -1,0 +1,18 @@
+id_text,text_name,l_no,text
+saao/saa19/P393632,SAA 19 073. Arresting a Man and Sending him to the King (CTN 5 p. 108),o 1,ana[to]PRP šarru[king]N bēlu[lord]N
+saao/saa19/P393632,SAA 19 073. Arresting a Man and Sending him to the King (CTN 5 p. 108),o 2,ardu[slave]N Aššur-leʾi[1]PN
+saao/saa19/P393632,SAA 19 073. Arresting a Man and Sending him to the King (CTN 5 p. 108),o 3,lū[may]MOD šulmu[completeness]N ana[to]PRP šarru[king]N bēlu[lord]N
+saao/saa19/P393632,SAA 19 073. Arresting a Man and Sending him to the King (CTN 5 p. 108),o 4,šulmu[completeness]N ana[to]PRP mātu[land]N
+saao/saa19/P393632,SAA 19 073. Arresting a Man and Sending him to the King (CTN 5 p. 108),o 5,ana[to]PRP nagû[region]N
+saao/saa19/P393632,SAA 19 073. Arresting a Man and Sending him to the King (CTN 5 p. 108),o 6,ana[to]PRP maṣṣartu[observation]N
+saao/saa19/P393632,SAA 19 073. Arresting a Man and Sending him to the King (CTN 5 p. 108),o 7,ša[of]DET Urarṭaya[Urarṭian]EN
+saao/saa19/P393632,SAA 19 073. Arresting a Man and Sending him to the King (CTN 5 p. 108),r 1',annû[this]DP
+saao/saa19/P393632,SAA 19 073. Arresting a Man and Sending him to the King (CTN 5 p. 108),r 2',Šininahaya[1]EN
+saao/saa19/P393632,SAA 19 073. Arresting a Man and Sending him to the King (CTN 5 p. 108),r 3',ṣabātu[seize]V ina[in]PRP muhhu[skull]N šarru[king]N
+saao/saa19/P393632,SAA 19 073. Arresting a Man and Sending him to the King (CTN 5 p. 108),r 4',bēlu[lord]N wabālu[bring]V
+saao/saa19/P393632,SAA 19 073. Arresting a Man and Sending him to the King (CTN 5 p. 108),r 5',šuh[on-the-subject-of]PRP nakru[enemy]N
+saao/saa19/P393632,SAA 19 073. Arresting a Man and Sending him to the King (CTN 5 p. 108),r 6',ša[that]REL šarru[king]N bēlu[lord]N šemû[hear]V
+saao/saa19/P393632,SAA 19 073. Arresting a Man and Sending him to the King (CTN 5 p. 108),r 7',pīhātu[responsibility]N
+saao/saa19/P393632,SAA 19 073. Arresting a Man and Sending him to the King (CTN 5 p. 108),r.e. 8,ša[of]DET Tasi[1]GN
+saao/saa19/P393632,SAA 19 073. Arresting a Man and Sending him to the King (CTN 5 p. 108),r.e. 9,šūtu[he]IP
+saao/saa19/P393632,SAA 19 073. Arresting a Man and Sending him to the King (CTN 5 p. 108),e. 1,ramānu[self]N

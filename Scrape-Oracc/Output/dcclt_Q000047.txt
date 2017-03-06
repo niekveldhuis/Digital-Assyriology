@@ -1,0 +1,968 @@
+id_text,text_name,l_no,text
+dcclt/Q000047,OB Nippur Lu,1,sux:lu[person]N
+dcclt/Q000047,OB Nippur Lu,2,sux:lugal[king]N
+dcclt/Q000047,OB Nippur Lu,3,sux:namdumu[status]N
+dcclt/Q000047,OB Nippur Lu,4,sux:sukkal[secretary]N
+dcclt/Q000047,OB Nippur Lu,5,sux:sukkalmah[official]N
+dcclt/Q000047,OB Nippur Lu,6,sux:sukkal[secretary]N sux:šag[heart]N sux:e[house]N
+dcclt/Q000047,OB Nippur Lu,6b,sux:sukkal[secretary]N sux:namdumu[status]N
+dcclt/Q000047,OB Nippur Lu,7,sux:sukkal[secretary]N sux:idu[doorkeeper]N
+dcclt/Q000047,OB Nippur Lu,8,sux:sukkal[secretary]N sux:kaš[runner]N
+dcclt/Q000047,OB Nippur Lu,9,sux:sukkal[secretary]N sux:kaš[runner]N
+dcclt/Q000047,OB Nippur Lu,10,sux:sukkal[secretary]N sux:MAR.TU[westerner]N
+dcclt/Q000047,OB Nippur Lu,11,sux:sukkal[secretary]N sux:ensik[ruler]N
+dcclt/Q000047,OB Nippur Lu,12,sux:sukkal[secretary]N sux:saŋŋa[official]N
+dcclt/Q000047,OB Nippur Lu,13,sux:zabardab[official]N
+dcclt/Q000047,OB Nippur Lu,14,sux:unkin[assembly]N
+dcclt/Q000047,OB Nippur Lu,15,sux:unkin[assembly]N
+dcclt/Q000047,OB Nippur Lu,16,sux:kiʾadmahgigi[high-official]N
+dcclt/Q000047,OB Nippur Lu,17,sux:guzala[official]N
+dcclt/Q000047,OB Nippur Lu,18,sux:rabizigatum[official]N
+dcclt/Q000047,OB Nippur Lu,19,sux:rabizigatum[official]N sux:a[arm]N
+dcclt/Q000047,OB Nippur Lu,20,sux:rabizigatum[official]N sux:a[arm]N sux:gab[left]N
+dcclt/Q000047,OB Nippur Lu,21,sux:rabianum[commander]N
+dcclt/Q000047,OB Nippur Lu,22,sux:rabianum[commander]N sux:MAR.TU[westerner]N
+dcclt/Q000047,OB Nippur Lu,23,sux:ragaba[rider]N
+dcclt/Q000047,OB Nippur Lu,24,sux:ragaba[rider]N sux:ki[place]N
+dcclt/Q000047,OB Nippur Lu,25,sux:bisaŋdubak[archivist]N
+dcclt/Q000047,OB Nippur Lu,26,sux:bisaŋdubak[archivist]N sux:gana[field]N
+dcclt/Q000047,OB Nippur Lu,27,sux:guʾenak[official]N
+dcclt/Q000047,OB Nippur Lu,28,sux:ensik[ruler]N
+dcclt/Q000047,OB Nippur Lu,29,sux:saŋŋa[official]N
+dcclt/Q000047,OB Nippur Lu,30,sux:ummia[expert]N
+dcclt/Q000047,OB Nippur Lu,31,sux:šatam[official]N
+dcclt/Q000047,OB Nippur Lu,32,sux:šatam[official]N sux:lugal[king]N
+dcclt/Q000047,OB Nippur Lu,33,sux:šatam[official]N sux:egal[palace]N
+dcclt/Q000047,OB Nippur Lu,34,sux:šatam[official]N sux:kan[gate]N sux:egal[palace]N
+dcclt/Q000047,OB Nippur Lu,35,sux:šatam[official]N sux:abula[gate]N
+dcclt/Q000047,OB Nippur Lu,36,sux:šatam[official]N sux:e[house]N sux:uzu[flesh]N
+dcclt/Q000047,OB Nippur Lu,37,sux:šatam[official]N sux:e[house]N sux:ušbar[weaver]N
+dcclt/Q000047,OB Nippur Lu,38,sux:šatam[official]N sux:e[house]N sux:kurušda[fattener]N
+dcclt/Q000047,OB Nippur Lu,39,sux:šatam[official]N sux:e[house]N sux:kurušda[fattener]N
+dcclt/Q000047,OB Nippur Lu,40,sux:šatam[official]N sux:edubbaʾa[scribal-school]N
+dcclt/Q000047,OB Nippur Lu,41,sux:šatam[official]N sux:e[house]N sux:urud[copper]N
+dcclt/Q000047,OB Nippur Lu,42,sux:šatam[official]N sux:e[house]N sux:kišib[seal]N
+dcclt/Q000047,OB Nippur Lu,43,sux:šatam[official]N sux:e[house]N sux:ereš[lady]N
+dcclt/Q000047,OB Nippur Lu,43a,sux:šatam[official]N sux:e[house]N
+dcclt/Q000047,OB Nippur Lu,44,sux:šatam[official]N sux:nakamtum[storehouse]N
+dcclt/Q000047,OB Nippur Lu,44a,sux:šatam[official]N sux:ŋeškiŋti[workshop]N
+dcclt/Q000047,OB Nippur Lu,45,sux:gabsar[engraver]N
+dcclt/Q000047,OB Nippur Lu,46,sux:musara[inscription]N
+dcclt/Q000047,OB Nippur Lu,47,sux:dubsar[scribe]N
+dcclt/Q000047,OB Nippur Lu,48,sux:dubsarzaga[official]N
+dcclt/Q000047,OB Nippur Lu,49,sux:dubsarmah[official]N
+dcclt/Q000047,OB Nippur Lu,50,sux:dubsar[scribe]N sux:lugal[king]N
+dcclt/Q000047,OB Nippur Lu,51,sux:dubsar[scribe]N sux:niŋ₂.ŠID[account]N
+dcclt/Q000047,OB Nippur Lu,52,sux:dubsar[scribe]N sux:šudum[reckoning]N
+dcclt/Q000047,OB Nippur Lu,53,sux:dubsar[scribe]N sux:im[clay]N
+dcclt/Q000047,OB Nippur Lu,54,sux:dubsar[scribe]N sux:ugnim[army]N
+dcclt/Q000047,OB Nippur Lu,55,sux:dubsar[scribe]N
+dcclt/Q000047,OB Nippur Lu,56,sux:dubsar[scribe]N sux:ŋal[cvne]N
+dcclt/Q000047,OB Nippur Lu,57,sux:dubsar[scribe]N sux:arua[offering]N
+dcclt/Q000047,OB Nippur Lu,57a,sux:dubsar[scribe]N sux:arua[offering]N
+dcclt/Q000047,OB Nippur Lu,58,sux:dubsar[scribe]N sux:gurumak[inspection]N
+dcclt/Q000047,OB Nippur Lu,59,sux:dubsar[scribe]N sux:umun[knowledge]N
+dcclt/Q000047,OB Nippur Lu,60,sux:dubsartur[scribe]N
+dcclt/Q000047,OB Nippur Lu,61,sux:dubsar[scribe]N sux:ašag[field]N
+dcclt/Q000047,OB Nippur Lu,62,sux:saŋ.DUN₃[recorder]N
+dcclt/Q000047,OB Nippur Lu,63,
+dcclt/Q000047,OB Nippur Lu,64,
+dcclt/Q000047,OB Nippur Lu,65,sux:inim[word]N
+dcclt/Q000047,OB Nippur Lu,66,sux:inim[word]N
+dcclt/Q000047,OB Nippur Lu,67,
+dcclt/Q000047,OB Nippur Lu,68,sux:massu[leader]N
+dcclt/Q000047,OB Nippur Lu,69,sux:niŋzu[knowledge]N
+dcclt/Q000047,OB Nippur Lu,70,
+dcclt/Q000047,OB Nippur Lu,71,
+dcclt/Q000047,OB Nippur Lu,72,
+dcclt/Q000047,OB Nippur Lu,73,sux:kinda[barber]N
+dcclt/Q000047,OB Nippur Lu,74,sux:kindagal[official]N
+dcclt/Q000047,OB Nippur Lu,75,sux:santanak[gardener]N
+dcclt/Q000047,OB Nippur Lu,76,sux:tiru[courtier]N
+dcclt/Q000047,OB Nippur Lu,77,sux:ragaba[rider]N
+dcclt/Q000047,OB Nippur Lu,78,sux:šag[heart]N sux:egal[palace]N
+dcclt/Q000047,OB Nippur Lu,79,sux:dumu[child]N sux:egal[palace]N
+dcclt/Q000047,OB Nippur Lu,80,sux:lugal[king]N
+dcclt/Q000047,OB Nippur Lu,81,sux:šarrabdu[administrator]N
+dcclt/Q000047,OB Nippur Lu,82,sux:ešabdu[profession]N
+dcclt/Q000047,OB Nippur Lu,83,sux:šuʾi[barber]N
+dcclt/Q000047,OB Nippur Lu,84,sux:šuʾi[barber]N sux:lugal[king]N
+dcclt/Q000047,OB Nippur Lu,85,sux:šuʾi[barber]N sux:saŋ[head]N
+dcclt/Q000047,OB Nippur Lu,86,sux:šuʾi[barber]N sux:egir[back]N
+dcclt/Q000047,OB Nippur Lu,87,sux:šuʾi[barber]N sux:gu[neck]N
+dcclt/Q000047,OB Nippur Lu,88,sux:šuʾi[barber]N sux:gina[offering]N
+dcclt/Q000047,OB Nippur Lu,89,sux:azu[doctor]N
+dcclt/Q000047,OB Nippur Lu,90,sux:azu[doctor]N
+dcclt/Q000047,OB Nippur Lu,91,sux:azu[doctor]N
+dcclt/Q000047,OB Nippur Lu,92,sux:azu[doctor]N sux:gud[ox]N
+dcclt/Q000047,OB Nippur Lu,93,sux:azu[doctor]N sux:anše[equid]N
+dcclt/Q000047,OB Nippur Lu,94,sux:ugula[overseer]N sux:šuʾi[barber]N
+dcclt/Q000047,OB Nippur Lu,95,sux:muhaldim[cook]N
+dcclt/Q000047,OB Nippur Lu,96,sux:muhaldimgal[cook]N
+dcclt/Q000047,OB Nippur Lu,97,sux:ugula[overseer]N sux:muhaldim[cook]N
+dcclt/Q000047,OB Nippur Lu,98,sux:gudgaz[butcher]N
+dcclt/Q000047,OB Nippur Lu,99,sux:ŋirila[butcher]N
+dcclt/Q000047,OB Nippur Lu,100,sux:luʾurak[profession]N
+dcclt/Q000047,OB Nippur Lu,101,sux:lungak[brewer]N
+dcclt/Q000047,OB Nippur Lu,102,sux:lukurunak[brewer]N
+dcclt/Q000047,OB Nippur Lu,103,sux:munus[woman]N sux:lukurunak[brewer]N
+dcclt/Q000047,OB Nippur Lu,104,sux:ukur[butcher]N
+dcclt/Q000047,OB Nippur Lu,105,sux:šaŋanla[trader]N
+dcclt/Q000047,OB Nippur Lu,106,sux:mandum[soldier]N
+dcclt/Q000047,OB Nippur Lu,107,sux:mandum[soldier]N sux:tur[child]N
+dcclt/Q000047,OB Nippur Lu,108,sux:mandum[soldier]N
+dcclt/Q000047,OB Nippur Lu,109,sux:agaʾus[soldier]N
+dcclt/Q000047,OB Nippur Lu,110,sux:agaʾus[soldier]N sux:lugal[king]N
+dcclt/Q000047,OB Nippur Lu,111,sux:agaʾus[soldier]N sux:namdumu[status]N
+dcclt/Q000047,OB Nippur Lu,111a,sux:agaʾus[soldier]N
+dcclt/Q000047,OB Nippur Lu,112,sux:agaʾus[soldier]N
+dcclt/Q000047,OB Nippur Lu,113,sux:agaʾus[soldier]N sux:nisku[retainer]N
+dcclt/Q000047,OB Nippur Lu,113a,sux:agaʾus[soldier]N
+dcclt/Q000047,OB Nippur Lu,114,sux:agaʾus[soldier]N sux:saŋ[head]N
+dcclt/Q000047,OB Nippur Lu,115,sux:agaʾus[soldier]N sux:egir[back]N
+dcclt/Q000047,OB Nippur Lu,116,sux:agaʾus[soldier]N
+dcclt/Q000047,OB Nippur Lu,117,sux:agaʾus[soldier]N
+dcclt/Q000047,OB Nippur Lu,118,sux:šagia[cup-bearer]N
+dcclt/Q000047,OB Nippur Lu,119,sux:šagiagal[cup-bearer]N
+dcclt/Q000047,OB Nippur Lu,120,sux:šagia[cup-bearer]N
+dcclt/Q000047,OB Nippur Lu,121,sux:šagia[cup-bearer]N sux:lugal[king]N
+dcclt/Q000047,OB Nippur Lu,122,sux:šagia[cup-bearer]N sux:egal[palace]N
+dcclt/Q000047,OB Nippur Lu,123,sux:šagia[cup-bearer]N sux:namdumu[status]N
+dcclt/Q000047,OB Nippur Lu,123a,sux:šagia[cup-bearer]N sux:namen[priesthood]N
+dcclt/Q000047,OB Nippur Lu,124,sux:šagia[cup-bearer]N sux:namereš[ladyship]N
+dcclt/Q000047,OB Nippur Lu,125,sux:šagia[cup-bearer]N sux:ummud[waterskin]N
+dcclt/Q000047,OB Nippur Lu,126,sux:šagia[cup-bearer]N sux:uŋ[people]N
+dcclt/Q000047,OB Nippur Lu,126a,sux:šagia[cup-bearer]N sux:nar[musician]N
+dcclt/Q000047,OB Nippur Lu,127,sux:šagia[cup-bearer]N sux:ugnim[army]N
+dcclt/Q000047,OB Nippur Lu,128,sux:ennuŋ[imprisonment]N
+dcclt/Q000047,OB Nippur Lu,129,sux:ennuŋ[imprisonment]N sux:e[house]N
+dcclt/Q000047,OB Nippur Lu,130,sux:idu[doorkeeper]N
+dcclt/Q000047,OB Nippur Lu,131,sux:idu[doorkeeper]N
+dcclt/Q000047,OB Nippur Lu,131a,sux:idu[doorkeeper]N sux:kisal[courtyard]N
+dcclt/Q000047,OB Nippur Lu,133,sux:idu[doorkeeper]N sux:e[house]N
+dcclt/Q000047,OB Nippur Lu,134,sux:idu[doorkeeper]N sux:ennuŋ[imprisonment]N
+dcclt/Q000047,OB Nippur Lu,135,sux:idu[doorkeeper]N sux:ki[place]N sux:lukur[priestess]N
+dcclt/Q000047,OB Nippur Lu,136,sux:idu[doorkeeper]N sux:e[house]N
+dcclt/Q000047,OB Nippur Lu,138,sux:idu[doorkeeper]N sux:egal[palace]N
+dcclt/Q000047,OB Nippur Lu,139,sux:idu[doorkeeper]N sux:abula[gate]N
+dcclt/Q000047,OB Nippur Lu,140,sux:idu[doorkeeper]N sux:kan[gate]N sux:egal[palace]N
+dcclt/Q000047,OB Nippur Lu,142,sux:idu[doorkeeper]N sux:nakamtum[storehouse]N
+dcclt/Q000047,OB Nippur Lu,142a,sux:munus[woman]N sux:idu[doorkeeper]N
+dcclt/Q000047,OB Nippur Lu,143,
+dcclt/Q000047,OB Nippur Lu,144,sux:ŋidru[scepter]N
+dcclt/Q000047,OB Nippur Lu,145,sux:ugula[overseer]N
+dcclt/Q000047,OB Nippur Lu,146,sux:ugula[overseer]N
+dcclt/Q000047,OB Nippur Lu,147,sux:ugula[overseer]N sux:e[house]N
+dcclt/Q000047,OB Nippur Lu,147a,sux:šabra[administrator]N
+dcclt/Q000047,OB Nippur Lu,148,sux:šabra[administrator]N
+dcclt/Q000047,OB Nippur Lu,149,sux:ugula[overseer]N sux:damgar[merchant]N
+dcclt/Q000047,OB Nippur Lu,150,sux:ugula[overseer]N sux:uŋ[people]N
+dcclt/Q000047,OB Nippur Lu,152,sux:ugula[overseer]N sux:e[house]N sux:uzu[flesh]N
+dcclt/Q000047,OB Nippur Lu,153,sux:ugula[overseer]N sux:e[house]N sux:ušbar[weaver]N
+dcclt/Q000047,OB Nippur Lu,154,sux:ugula[overseer]N sux:e[house]N sux:kurušda[fattener]N
+dcclt/Q000047,OB Nippur Lu,155,sux:ugula[overseer]N sux:e[house]N sux:kurušda[fattener]N
+dcclt/Q000047,OB Nippur Lu,156,sux:ugula[overseer]N sux:e[house]N sux:ereš[lady]N
+dcclt/Q000047,OB Nippur Lu,156a,sux:ugula[overseer]N sux:e[house]N sux:urud[copper]N
+dcclt/Q000047,OB Nippur Lu,156b,sux:ugula[overseer]N sux:ŋeškiŋti[workshop]N
+dcclt/Q000047,OB Nippur Lu,156c,sux:ugula[overseer]N sux:nakamtum[storehouse]N
+dcclt/Q000047,OB Nippur Lu,156d,sux:ugula[overseer]N sux:sekrum[woman]N
+dcclt/Q000047,OB Nippur Lu,156e,sux:ugula[overseer]N sux:dagsirum[repair?]N
+dcclt/Q000047,OB Nippur Lu,156f,sux:ugula[overseer]N
+dcclt/Q000047,OB Nippur Lu,156g,sux:ugula[overseer]N sux:UN.IL₂[menial]N
+dcclt/Q000047,OB Nippur Lu,157,sux:ugula[overseer]N sux:e[house]N sux:isur[presser]N
+dcclt/Q000047,OB Nippur Lu,158,sux:ugula[overseer]N sux:e[house]N sux:UN.IL₂[menial]N
+dcclt/Q000047,OB Nippur Lu,159,sux:ugula[overseer]N sux:agaʾus[soldier]N
+dcclt/Q000047,OB Nippur Lu,160,sux:ugula[overseer]N sux:agaʾus[soldier]N
+dcclt/Q000047,OB Nippur Lu,161,sux:ugula[overseer]N sux:suhurla[hairstyle]N
+dcclt/Q000047,OB Nippur Lu,162,sux:ugula[overseer]N sux:nar[musician]N
+dcclt/Q000047,OB Nippur Lu,163,sux:udul[herdsman]N
+dcclt/Q000047,OB Nippur Lu,164,sux:udul[herdsman]N
+dcclt/Q000047,OB Nippur Lu,165,sux:udul[herdsman]N
+dcclt/Q000047,OB Nippur Lu,165a,sux:maškim[administrator]N
+dcclt/Q000047,OB Nippur Lu,166,sux:ugula[overseer]N sux:lukur[priestess]N
+dcclt/Q000047,OB Nippur Lu,167,sux:ugula[overseer]N sux:daggi[quarter]N
+dcclt/Q000047,OB Nippur Lu,168,sux:zilulu[peddlar]N
+dcclt/Q000047,OB Nippur Lu,169,sux:zilulu[peddlar]N sux:šu[hand]N
+dcclt/Q000047,OB Nippur Lu,170,sux:ŋarza[rites]N
+dcclt/Q000047,OB Nippur Lu,171,sux:ŋarza[rites]N
+dcclt/Q000047,OB Nippur Lu,172,sux:biluda[rituals]N
+dcclt/Q000047,OB Nippur Lu,172a,sux:paŋ[breathe]N
+dcclt/Q000047,OB Nippur Lu,173,sux:ugula[overseer]N sux:limum[thousand]N
+dcclt/Q000047,OB Nippur Lu,174,sux:ugula[overseer]N sux:meat[100]N
+dcclt/Q000047,OB Nippur Lu,175,sux:ugula[overseer]N sux:namŋeš[group-of-60]N
+dcclt/Q000047,OB Nippur Lu,176,sux:ugula[overseer]N sux:namninnu[group-of-50]N
+dcclt/Q000047,OB Nippur Lu,177,sux:ugula[overseer]N sux:namu[group-of-10]N
+dcclt/Q000047,OB Nippur Lu,178,sux:ugula[overseer]N sux:namia[group-of-5]N
+dcclt/Q000047,OB Nippur Lu,179,
+dcclt/Q000047,OB Nippur Lu,180,
+dcclt/Q000047,OB Nippur Lu,181,
+dcclt/Q000047,OB Nippur Lu,182,
+dcclt/Q000047,OB Nippur Lu,189,sux:ugula[overseer]N sux:luhša[functionary]N
+dcclt/Q000047,OB Nippur Lu,190,sux:ugula[overseer]N sux:simug[smith]N
+dcclt/Q000047,OB Nippur Lu,193,sux:pamušenak[wing]N
+dcclt/Q000047,OB Nippur Lu,199,sux:pa[branch]N sux:mul[star]N
+dcclt/Q000047,OB Nippur Lu,200,sux:papal[bud]N
+dcclt/Q000047,OB Nippur Lu,201,sux:pa[branch]N
+dcclt/Q000047,OB Nippur Lu,202,sux:pa[branch]N
+dcclt/Q000047,OB Nippur Lu,203,sux:pa[branch]N
+dcclt/Q000047,OB Nippur Lu,205,sux:en[priest]N
+dcclt/Q000047,OB Nippur Lu,206,sux:lagar[priest]N
+dcclt/Q000047,OB Nippur Lu,207,sux:nuʾešak[priest]N
+dcclt/Q000047,OB Nippur Lu,208,sux:gudug[priest]N
+dcclt/Q000047,OB Nippur Lu,209,sux:gudugabzu[priest]N
+dcclt/Q000047,OB Nippur Lu,210,sux:gudug[priest]N sux:sum[beard]N
+dcclt/Q000047,OB Nippur Lu,211,sux:gudug[priest]N sux:zi[life]N
+dcclt/Q000047,OB Nippur Lu,212,sux:gudug[priest]N
+dcclt/Q000047,OB Nippur Lu,212a,sux:gudug[priest]N
+dcclt/Q000047,OB Nippur Lu,212b,sux:gudug[priest]N
+dcclt/Q000047,OB Nippur Lu,212c,sux:gudug[priest]N
+dcclt/Q000047,OB Nippur Lu,213,sux:išib[priest]N
+dcclt/Q000047,OB Nippur Lu,214,sux:išib[priest]N sux:kigal[platform]N
+dcclt/Q000047,OB Nippur Lu,215,sux:luhša[functionary]N
+dcclt/Q000047,OB Nippur Lu,216,sux:luhša[functionary]N sux:kisal[courtyard]N
+dcclt/Q000047,OB Nippur Lu,217,sux:susbu[priest]N
+dcclt/Q000047,OB Nippur Lu,218,sux:šita[priest]N sux:eš[shrine]N
+dcclt/Q000047,OB Nippur Lu,219,sux:lumah[priest]N
+dcclt/Q000047,OB Nippur Lu,220,sux:baršuŋal[official]N
+dcclt/Q000047,OB Nippur Lu,221,sux:ama[mother]N sux:siki[hair]N
+dcclt/Q000047,OB Nippur Lu,222,sux:siki[hair]N
+dcclt/Q000047,OB Nippur Lu,223,sux:siki[hair]N sux:dub[tablet]N
+dcclt/Q000047,OB Nippur Lu,224,sux:ereš[lady]N
+dcclt/Q000047,OB Nippur Lu,225,sux:erešdiŋir[priestess]N
+dcclt/Q000047,OB Nippur Lu,226,sux:atu[doorkeeper?]N
+dcclt/Q000047,OB Nippur Lu,227,sux:atu[doorkeeper?]N
+dcclt/Q000047,OB Nippur Lu,228,sux:lalešaga[priest]N
+dcclt/Q000047,OB Nippur Lu,229,sux:šibir[staff]N sux:šu[hand]N
+dcclt/Q000047,OB Nippur Lu,230,sux:egizid[priestess]N
+dcclt/Q000047,OB Nippur Lu,231,sux:egizid[priestess]N
+dcclt/Q000047,OB Nippur Lu,232,sux:erešdiŋir[priestess]N
+dcclt/Q000047,OB Nippur Lu,233,sux:zirru[priestess]N
+dcclt/Q000047,OB Nippur Lu,234,sux:nunuzzi[priestess]N
+dcclt/Q000047,OB Nippur Lu,235,sux:ukurrim[priest]N
+dcclt/Q000047,OB Nippur Lu,236,sux:šennu[priest]N
+dcclt/Q000047,OB Nippur Lu,237,akk-x-oldbab:pinku[knob]N sux:murub[middle]N
+dcclt/Q000047,OB Nippur Lu,238,akk-x-oldbab:qinnatu[buttocks]N sux:murub[middle]N
+dcclt/Q000047,OB Nippur Lu,239,akk-x-oldbab:hurdatu[female-pudenda]N sux:murub[middle]N
+dcclt/Q000047,OB Nippur Lu,240,akk-x-oldbab:šuhhu[buttock]N sux:murub[middle]N
+dcclt/Q000047,OB Nippur Lu,241,sux:engiz[cook]N
+dcclt/Q000047,OB Nippur Lu,242,sux:ensi[interpreter]N
+dcclt/Q000047,OB Nippur Lu,243,sux:kišibŋal[seal-bearer]N
+dcclt/Q000047,OB Nippur Lu,244,sux:kišibla[seal-bearer]N
+dcclt/Q000047,OB Nippur Lu,245,sux:enkum[treasurer]N
+dcclt/Q000047,OB Nippur Lu,246,sux:nenkum[official]N
+dcclt/Q000047,OB Nippur Lu,247,sux:abgal[sage]N
+dcclt/Q000047,OB Nippur Lu,248,sux:abrig[functionary]N
+dcclt/Q000047,OB Nippur Lu,249,sux:ara[official]N
+dcclt/Q000047,OB Nippur Lu,250,sux:munus[woman]N sux:ara[official]N
+dcclt/Q000047,OB Nippur Lu,251,sux:saŋa[priest]N
+dcclt/Q000047,OB Nippur Lu,252,sux:saŋa[priest]N
+dcclt/Q000047,OB Nippur Lu,253,sux:abigal[functionary]N
+dcclt/Q000047,OB Nippur Lu,254,sux:uruh[priest]N
+dcclt/Q000047,OB Nippur Lu,255,sux:šitaʾinana[priest]N
+dcclt/Q000047,OB Nippur Lu,256,sux:surru[priest]N
+dcclt/Q000047,OB Nippur Lu,257,sux:lukur[priestess]N
+dcclt/Q000047,OB Nippur Lu,258,sux:lukur[priestess]N
+dcclt/Q000047,OB Nippur Lu,259,sux:lukur[priestess]N
+dcclt/Q000047,OB Nippur Lu,260,sux:ama[mother]N sux:lukur[priestess]N
+dcclt/Q000047,OB Nippur Lu,261,sux:munus[woman]N
+dcclt/Q000047,OB Nippur Lu,262,sux:munus[woman]N
+dcclt/Q000047,OB Nippur Lu,263,akk-x-oldbab:nadītu[fallow-woman]N sux:lukur[priestess]N
+dcclt/Q000047,OB Nippur Lu,264,akk-x-oldbab:qadištu[(a-type-of-priestess)]N sux:lukur[priestess]N
+dcclt/Q000047,OB Nippur Lu,265,akk-x-oldbab:batultu[adolescent-girl]N sux:lukur[priestess]N
+dcclt/Q000047,OB Nippur Lu,267,sux:munus[woman]N
+dcclt/Q000047,OB Nippur Lu,268,sux:munus[woman]N sux:ŋeš[penis]N
+dcclt/Q000047,OB Nippur Lu,269,sux:ŋuruš[male]N
+dcclt/Q000047,OB Nippur Lu,270,sux:uš[cvne]N
+dcclt/Q000047,OB Nippur Lu,271,sux:uš[cvne]N
+dcclt/Q000047,OB Nippur Lu,272,
+dcclt/Q000047,OB Nippur Lu,273,sux:gar[hairstyle]N
+dcclt/Q000047,OB Nippur Lu,274,sux:uzud[goat]N sux:saŋ[head]N
+dcclt/Q000047,OB Nippur Lu,275,sux:uzud[goat]N sux:saŋ[head]N
+dcclt/Q000047,OB Nippur Lu,276,sux:saŋ[head]N
+dcclt/Q000047,OB Nippur Lu,277,sux:saŋtirin[functionary]N
+dcclt/Q000047,OB Nippur Lu,278,sux:saŋursaŋ[performer]N
+dcclt/Q000047,OB Nippur Lu,279,sux:pilipili[performer]N
+dcclt/Q000047,OB Nippur Lu,280,sux:kurŋara[performer]N
+dcclt/Q000047,OB Nippur Lu,281,
+dcclt/Q000047,OB Nippur Lu,282,sux:šuagina[offerings]N
+dcclt/Q000047,OB Nippur Lu,283,sux:saŋkešed[strap]N
+dcclt/Q000047,OB Nippur Lu,283a,sux:saŋ[head]N
+dcclt/Q000047,OB Nippur Lu,284,sux:daggan[chamber]N
+dcclt/Q000047,OB Nippur Lu,285,sux:dagan[totality]N
+dcclt/Q000047,OB Nippur Lu,286,sux:zu[tooth]N
+dcclt/Q000047,OB Nippur Lu,287,sux:inim[word]N sux:zu[tooth]N
+dcclt/Q000047,OB Nippur Lu,287a,
+dcclt/Q000047,OB Nippur Lu,288,sux:a[arm]N sux:uzud[goat]N
+dcclt/Q000047,OB Nippur Lu,289,sux:saŋ[head]N sux:uzud[goat]N
+dcclt/Q000047,OB Nippur Lu,289a,sux:saŋ[head]N sux:uzud[goat]N
+dcclt/Q000047,OB Nippur Lu,289b,sux:saŋ[head]N sux:amar[young]N
+dcclt/Q000047,OB Nippur Lu,290,sux:isiš[tears]N
+dcclt/Q000047,OB Nippur Lu,291,sux:isiš[tears]N
+dcclt/Q000047,OB Nippur Lu,292,sux:isiš[tears]N
+dcclt/Q000047,OB Nippur Lu,293,sux:ibiza[loss]N
+dcclt/Q000047,OB Nippur Lu,294,sux:kugguba[capital]N
+dcclt/Q000047,OB Nippur Lu,295,sux:kugdun[profit]N
+dcclt/Q000047,OB Nippur Lu,296,sux:kugdirig[surplus]N
+dcclt/Q000047,OB Nippur Lu,297,sux:kugatuku[profit]N
+dcclt/Q000047,OB Nippur Lu,298,sux:ibtag[remainder]N
+dcclt/Q000047,OB Nippur Lu,299,sux:na[cvne]N
+dcclt/Q000047,OB Nippur Lu,299a,sux:na[cvne]N
+dcclt/Q000047,OB Nippur Lu,300,sux:na[cvne]N
+dcclt/Q000047,OB Nippur Lu,301,sux:na[cvne]N
+dcclt/Q000047,OB Nippur Lu,302,
+dcclt/Q000047,OB Nippur Lu,303,sux:egia[bride]N
+dcclt/Q000047,OB Nippur Lu,304,sux:e[house]N
+dcclt/Q000047,OB Nippur Lu,305,sux:a[water]N
+dcclt/Q000047,OB Nippur Lu,306,sux:a[water]N
+dcclt/Q000047,OB Nippur Lu,306a,sux:egir[princess]N
+dcclt/Q000047,OB Nippur Lu,307,sux:nin[lady]N
+dcclt/Q000047,OB Nippur Lu,308,sux:nin[sister]N
+dcclt/Q000047,OB Nippur Lu,309,sux:nun[prince]N
+dcclt/Q000047,OB Nippur Lu,310,
+dcclt/Q000047,OB Nippur Lu,311,
+dcclt/Q000047,OB Nippur Lu,312,sux:mes[hero]N
+dcclt/Q000047,OB Nippur Lu,313,sux:ŋuruš[male]N
+dcclt/Q000047,OB Nippur Lu,314,sux:ŋuruš[male]N
+dcclt/Q000047,OB Nippur Lu,315,sux:ŋuruš[male]N
+dcclt/Q000047,OB Nippur Lu,316,sux:ŋuruš[male]N sux:saŋ[head]N
+dcclt/Q000047,OB Nippur Lu,316a,
+dcclt/Q000047,OB Nippur Lu,317,sux:kisal[courtyard]N
+dcclt/Q000047,OB Nippur Lu,318,sux:munus[woman]N sux:kisal[courtyard]N
+dcclt/Q000047,OB Nippur Lu,319,sux:ama[mother]N
+dcclt/Q000047,OB Nippur Lu,320,sux:ama[mother]N sux:iri[city]N
+dcclt/Q000047,OB Nippur Lu,321,sux:amalug[priestess]N
+dcclt/Q000047,OB Nippur Lu,322,sux:amalug[priestess]N
+dcclt/Q000047,OB Nippur Lu,323,sux:amalug[priestess]N
+dcclt/Q000047,OB Nippur Lu,324,sux:ama[mother]N sux:murub[middle]N
+dcclt/Q000047,OB Nippur Lu,325,sux:ama[mother]N
+dcclt/Q000047,OB Nippur Lu,325a,sux:ama[mother]N sux:nita[male]N
+dcclt/Q000047,OB Nippur Lu,325b,sux:ama[mother]N sux:munus[woman]N
+dcclt/Q000047,OB Nippur Lu,326,sux:ama[mother]N sux:ibila[heir]N
+dcclt/Q000047,OB Nippur Lu,327,sux:ama[mother]N sux:arhuš[womb]N
+dcclt/Q000047,OB Nippur Lu,328,sux:ama[mother]N sux:anir[lament]N
+dcclt/Q000047,OB Nippur Lu,329,sux:ama[mother]N sux:namtaga[sin]N
+dcclt/Q000047,OB Nippur Lu,330,sux:ama[mother]N sux:ugu[skull]N
+dcclt/Q000047,OB Nippur Lu,331,sux:amagan[mother]N
+dcclt/Q000047,OB Nippur Lu,332,sux:aŋarin[matrix]N
+dcclt/Q000047,OB Nippur Lu,333,sux:ama[mother]N
+dcclt/Q000047,OB Nippur Lu,334,sux:ama[mother]N
+dcclt/Q000047,OB Nippur Lu,334a,sux:ama[mother]N
+dcclt/Q000047,OB Nippur Lu,335,sux:ama[mother]N
+dcclt/Q000047,OB Nippur Lu,336,sux:ama[mother]N
+dcclt/Q000047,OB Nippur Lu,337,sux:ama[mother]N
+dcclt/Q000047,OB Nippur Lu,338,sux:ama[mother]N
+dcclt/Q000047,OB Nippur Lu,339,sux:ama[mother]N sux:ŋuruš[male]N
+dcclt/Q000047,OB Nippur Lu,340,sux:ama[mother]N sux:tur[child]N
+dcclt/Q000047,OB Nippur Lu,340b,sux:ama[mother]N
+dcclt/Q000047,OB Nippur Lu,341,sux:amargi[reversion]N
+dcclt/Q000047,OB Nippur Lu,342,sux:amaʾatud[slave]N
+dcclt/Q000047,OB Nippur Lu,343,sux:amaʾatud[slave]N
+dcclt/Q000047,OB Nippur Lu,344,sux:šagzu[midwife]N
+dcclt/Q000047,OB Nippur Lu,345,sux:šeš[brother]N
+dcclt/Q000047,OB Nippur Lu,346,sux:šešgal[relation]N
+dcclt/Q000047,OB Nippur Lu,347,sux:šešbanda[relation]N
+dcclt/Q000047,OB Nippur Lu,348,
+dcclt/Q000047,OB Nippur Lu,349,sux:nin[sister]N
+dcclt/Q000047,OB Nippur Lu,350,sux:nin[sister]N
+dcclt/Q000047,OB Nippur Lu,351,sux:nin[sister]N
+dcclt/Q000047,OB Nippur Lu,352,sux:dumu[child]N
+dcclt/Q000047,OB Nippur Lu,353,sux:tur[child]N
+dcclt/Q000047,OB Nippur Lu,354,sux:tur[child]N
+dcclt/Q000047,OB Nippur Lu,355,sux:tur[child]N
+dcclt/Q000047,OB Nippur Lu,356,
+dcclt/Q000047,OB Nippur Lu,357,
+dcclt/Q000047,OB Nippur Lu,358,sux:dumunita[son]N
+dcclt/Q000047,OB Nippur Lu,358a,sux:ibila[heir]N
+dcclt/Q000047,OB Nippur Lu,359,sux:dumumunus[daughter]N
+dcclt/Q000047,OB Nippur Lu,359b,sux:dumu[child]N sux:aʾe[child]N
+dcclt/Q000047,OB Nippur Lu,360,sux:hibiz[heir]N
+dcclt/Q000047,OB Nippur Lu,361,
+dcclt/Q000047,OB Nippur Lu,362,
+dcclt/Q000047,OB Nippur Lu,363,sux:dumunita[son]N sux:gaba[chest]N
+dcclt/Q000047,OB Nippur Lu,364,sux:dumumunus[daughter]N sux:gaba[chest]N
+dcclt/Q000047,OB Nippur Lu,366,sux:bunga[child]N
+dcclt/Q000047,OB Nippur Lu,367,
+dcclt/Q000047,OB Nippur Lu,368,
+dcclt/Q000047,OB Nippur Lu,369,sux:henzer[child]N
+dcclt/Q000047,OB Nippur Lu,370,sux:henzer[child]N
+dcclt/Q000047,OB Nippur Lu,370a,sux:henzer[child]N
+dcclt/Q000047,OB Nippur Lu,371,sux:nita[male]N
+dcclt/Q000047,OB Nippur Lu,372,sux:munus[woman]N
+dcclt/Q000047,OB Nippur Lu,373,sux:arad[slave]N
+dcclt/Q000047,OB Nippur Lu,374,sux:geme[worker]N
+dcclt/Q000047,OB Nippur Lu,376,sux:gu[neck]N
+dcclt/Q000047,OB Nippur Lu,377,sux:gu[neck]N
+dcclt/Q000047,OB Nippur Lu,378,
+dcclt/Q000047,OB Nippur Lu,379,sux:gala[vulva]N
+dcclt/Q000047,OB Nippur Lu,380,sux:gala[vulva]N
+dcclt/Q000047,OB Nippur Lu,381,sux:siki[hair]N sux:gala[vulva]N
+dcclt/Q000047,OB Nippur Lu,382,sux:penzer[genitals]N
+dcclt/Q000047,OB Nippur Lu,383,sux:saŋ[head]N sux:geme[worker]N sux:arad[slave]N
+dcclt/Q000047,OB Nippur Lu,384,sux:ŋirsiga[attendant]N
+dcclt/Q000047,OB Nippur Lu,385,sux:emeda[nursemaid]N
+dcclt/Q000047,OB Nippur Lu,386,sux:emeda[nursemaid]N
+dcclt/Q000047,OB Nippur Lu,387,sux:emegala[nurse]N
+dcclt/Q000047,OB Nippur Lu,388,
+dcclt/Q000047,OB Nippur Lu,389,sux:usal[meadow]N
+dcclt/Q000047,OB Nippur Lu,390,sux:usal[meadow]N
+dcclt/Q000047,OB Nippur Lu,391,sux:šu[hand]N
+dcclt/Q000047,OB Nippur Lu,391a,sux:šu[hand]N
+dcclt/Q000047,OB Nippur Lu,394,sux:edenlil[desert]N
+dcclt/Q000047,OB Nippur Lu,395,sux:amaʾerin[workers]N
+dcclt/Q000047,OB Nippur Lu,396,sux:imria[clan]N
+dcclt/Q000047,OB Nippur Lu,397,sux:zagbar[scraps]N
+dcclt/Q000047,OB Nippur Lu,398,sux:ildum[band]N
+dcclt/Q000047,OB Nippur Lu,399,sux:umma[old-woman]N
+dcclt/Q000047,OB Nippur Lu,400,sux:umma[old-woman]N
+dcclt/Q000047,OB Nippur Lu,401,sux:umma[old-woman]N
+dcclt/Q000047,OB Nippur Lu,402,sux:ama[mother]N
+dcclt/Q000047,OB Nippur Lu,403,sux:abba[father]N
+dcclt/Q000047,OB Nippur Lu,404,sux:abba[father]N
+dcclt/Q000047,OB Nippur Lu,405,sux:abba[father]N sux:iri[city]N
+dcclt/Q000047,OB Nippur Lu,406,sux:šugi[senior]N
+dcclt/Q000047,OB Nippur Lu,407,sux:aya[father]N
+dcclt/Q000047,OB Nippur Lu,408,sux:ayaya[grandfather]N
+dcclt/Q000047,OB Nippur Lu,409,sux:adda[father]N
+dcclt/Q000047,OB Nippur Lu,410,sux:adadda[grandfather]N
+dcclt/Q000047,OB Nippur Lu,411,sux:pabilga[~kinship]N
+dcclt/Q000047,OB Nippur Lu,412,sux:gibil[sprout]N
+dcclt/Q000047,OB Nippur Lu,413,sux:adgi[adviser]N
+dcclt/Q000047,OB Nippur Lu,414,sux:šag[heart]N
+dcclt/Q000047,OB Nippur Lu,415,sux:iŋar[oracle]N
+dcclt/Q000047,OB Nippur Lu,416,sux:saŋ[head]N
+dcclt/Q000047,OB Nippur Lu,417,sux:saŋ[head]N
+dcclt/Q000047,OB Nippur Lu,418,sux:inim[word]N
+dcclt/Q000047,OB Nippur Lu,419,sux:bangi[response]N
+dcclt/Q000047,OB Nippur Lu,420,sux:niŋir[herald]N
+dcclt/Q000047,OB Nippur Lu,420a,sux:kakik[registrar]N
+dcclt/Q000047,OB Nippur Lu,421,sux:niŋir[herald]N
+dcclt/Q000047,OB Nippur Lu,422,sux:niŋir[herald]N sux:iri[city]N
+dcclt/Q000047,OB Nippur Lu,423,sux:niŋir[herald]N
+dcclt/Q000047,OB Nippur Lu,424,sux:niŋir[herald]N sux:ušbar[weaver]N
+dcclt/Q000047,OB Nippur Lu,425,sux:niŋir[herald]N sux:MAR.TU[westerner]N
+dcclt/Q000047,OB Nippur Lu,426,sux:hazanum[mayor]N
+dcclt/Q000047,OB Nippur Lu,427,sux:šakkanak[general]N
+dcclt/Q000047,OB Nippur Lu,428,sux:šakkanak[general]N sux:erin[people]N
+dcclt/Q000047,OB Nippur Lu,429,sux:šakkanak[general]N sux:erin[people]N sux:sa[sinew]N
+dcclt/Q000047,OB Nippur Lu,430,sux:šakkanak[general]N sux:MAR.TU[westerner]N
+dcclt/Q000047,OB Nippur Lu,431,sux:šakkanak[general]N sux:egal[palace]N
+dcclt/Q000047,OB Nippur Lu,432,sux:šakkanak[general]N sux:kan[gate]N sux:egal[palace]N
+dcclt/Q000047,OB Nippur Lu,432a,sux:šakkanak[general]N sux:šag[heart]N sux:e[house]N
+dcclt/Q000047,OB Nippur Lu,433,sux:šakkanak[general]N sux:erin[people]N sux:egal[palace]N
+dcclt/Q000047,OB Nippur Lu,434,sux:šakkanak[general]N sux:agaʾus[soldier]N sux:saŋ[head]N
+dcclt/Q000047,OB Nippur Lu,435,sux:nubanda[overseer]N
+dcclt/Q000047,OB Nippur Lu,436,sux:nubanda[overseer]N sux:gud[ox]N
+dcclt/Q000047,OB Nippur Lu,437,sux:šagud[drover]N
+dcclt/Q000047,OB Nippur Lu,438,sux:šagud[drover]N
+dcclt/Q000047,OB Nippur Lu,439,sux:a[arm]N sux:gud[ox]N
+dcclt/Q000047,OB Nippur Lu,440,sux:gudeʾusa[drover]N
+dcclt/Q000047,OB Nippur Lu,441,sux:gudaria[drover]N
+dcclt/Q000047,OB Nippur Lu,442,sux:gudeʾanandu[animal]N
+dcclt/Q000047,OB Nippur Lu,443,sux:lu[person]N sux:numun[seed]N
+dcclt/Q000047,OB Nippur Lu,444,sux:lu[person]N sux:lag[clod]N
+dcclt/Q000047,OB Nippur Lu,445,sux:engar[farmer]N
+dcclt/Q000047,OB Nippur Lu,446,sux:engar[farmer]N
+dcclt/Q000047,OB Nippur Lu,447,sux:engar[farmer]N sux:sur[locus]N
+dcclt/Q000047,OB Nippur Lu,448,sux:engar[farmer]N sux:ŋeši[sesame]N
+dcclt/Q000047,OB Nippur Lu,449,
+dcclt/Q000047,OB Nippur Lu,450,sux:apinla[tiller]N
+dcclt/Q000047,OB Nippur Lu,451,sux:absin[furrow]N
+dcclt/Q000047,OB Nippur Lu,451a,sux:absin[furrow]N
+dcclt/Q000047,OB Nippur Lu,452,sux:absin[furrow]N
+dcclt/Q000047,OB Nippur Lu,453,sux:absin[furrow]N
+dcclt/Q000047,OB Nippur Lu,454,sux:absin[furrow]N sux:šibir[staff]N
+dcclt/Q000047,OB Nippur Lu,455,sux:absin[furrow]N sux:gud[ox]N
+dcclt/Q000047,OB Nippur Lu,456,sux:absin[furrow]N
+dcclt/Q000047,OB Nippur Lu,457,sux:abkiz[furrow]N
+dcclt/Q000047,OB Nippur Lu,458,sux:gana[field]N
+dcclt/Q000047,OB Nippur Lu,459,
+dcclt/Q000047,OB Nippur Lu,460,sux:dur[balk]N
+dcclt/Q000047,OB Nippur Lu,461,sux:dur[balk]N sux:ir[scent]N
+dcclt/Q000047,OB Nippur Lu,461a,sux:dur[balk]N sux:ir[scent]N
+dcclt/Q000047,OB Nippur Lu,462,sux:dur[balk]N
+dcclt/Q000047,OB Nippur Lu,462c,
+dcclt/Q000047,OB Nippur Lu,463,sux:sipad[shepherd]N
+dcclt/Q000047,OB Nippur Lu,464,sux:PA.LU.TA[preferential-share]N
+dcclt/Q000047,OB Nippur Lu,465,sux:sipadtur[shepherd]N
+dcclt/Q000047,OB Nippur Lu,465a,sux:sipad[shepherd]N
+dcclt/Q000047,OB Nippur Lu,466,sux:sipad[shepherd]N sux:kalam[land]N
+dcclt/Q000047,OB Nippur Lu,467,sux:sipad[shepherd]N sux:gud[ox]N sux:ab[cow]N
+dcclt/Q000047,OB Nippur Lu,468,sux:sipad[shepherd]N sux:gud[ox]N sux:ab[cow]N
+dcclt/Q000047,OB Nippur Lu,469,sux:sipad[shepherd]N sux:udu[sheep]N
+dcclt/Q000047,OB Nippur Lu,470,sux:sipad[shepherd]N sux:nim[fly]N
+dcclt/Q000047,OB Nippur Lu,471,sux:sipad[shepherd]N sux:šah[pig]N
+dcclt/Q000047,OB Nippur Lu,472,sux:sipad[shepherd]N sux:anše[equid]N
+dcclt/Q000047,OB Nippur Lu,473,sux:sipad[shepherd]N sux:uzud[goat]N
+dcclt/Q000047,OB Nippur Lu,474,sux:sipad[shepherd]N sux:uzud[goat]N
+dcclt/Q000047,OB Nippur Lu,477,sux:nagada[herdsman]N
+dcclt/Q000047,OB Nippur Lu,478,sux:munsub[shepherd]N
+dcclt/Q000047,OB Nippur Lu,479,sux:unud[cowherd]N
+dcclt/Q000047,OB Nippur Lu,480,sux:unud[cowherd]N
+dcclt/Q000047,OB Nippur Lu,481,sux:gabar[herder]N
+dcclt/Q000047,OB Nippur Lu,482,sux:tur[stall]N
+dcclt/Q000047,OB Nippur Lu,483,sux:amaš[sheepfold]N
+dcclt/Q000047,OB Nippur Lu,484,sux:ŋa[house]N sux:udu[sheep]N
+dcclt/Q000047,OB Nippur Lu,485,sux:ŋarig[pen]N
+dcclt/Q000047,OB Nippur Lu,485a,sux:ŋa[house]N sux:gabar[herder]N akk-x-oldbab:sīru[awning]N
+dcclt/Q000047,OB Nippur Lu,486,sux:šurum[litter]N akk-x-oldbab:kabūtu[(animal)-dung]N
+dcclt/Q000047,OB Nippur Lu,487,sux:šurum[litter]N sux:gud[ox]N akk-x-oldbab:kabūtu[(animal)-dung]N akk-x-oldbab:alpu[bull]N
+dcclt/Q000047,OB Nippur Lu,488,
+dcclt/Q000047,OB Nippur Lu,489,sux:aŋarŋara[droppings]N akk-x-oldbab:piqannu[droppings]N
+dcclt/Q000047,OB Nippur Lu,492,sux:agrig[steward]N akk-x-oldbab:abarakku[steward]N
+dcclt/Q000047,OB Nippur Lu,493a,sux:agrig[steward]N sux:eš[shrine]N akk-x-oldbab:abarakku[steward]N
+dcclt/Q000047,OB Nippur Lu,493b,sux:agrig[steward]N sux:lugal[king]N
+dcclt/Q000047,OB Nippur Lu,494,sux:munus[woman]N sux:agrig[steward]N
+dcclt/Q000047,OB Nippur Lu,495,sux:ŋeškim[sign]N
+dcclt/Q000047,OB Nippur Lu,496,sux:ŋeškimtil[trust]N
+dcclt/Q000047,OB Nippur Lu,497,sux:ŋeškim[sign]N
+dcclt/Q000047,OB Nippur Lu,497a,sux:ŋeškim[sign]N
+dcclt/Q000047,OB Nippur Lu,498,sux:ŋeškim[sign]N
+dcclt/Q000047,OB Nippur Lu,498a,sux:ki[place]N sux:ŋeškim[sign]N
+dcclt/Q000047,OB Nippur Lu,499,sux:ensi[interpreter]N
+dcclt/Q000047,OB Nippur Lu,500,sux:munus[woman]N sux:ensi[interpreter]N
+dcclt/Q000047,OB Nippur Lu,501,sux:muraš[interpreter]N
+dcclt/Q000047,OB Nippur Lu,502,sux:mu.DU[delivery]N
+dcclt/Q000047,OB Nippur Lu,503,sux:itima[unmng]N
+dcclt/Q000047,OB Nippur Lu,504,sux:maš[goat]N
+dcclt/Q000047,OB Nippur Lu,505,sux:mašŋik[vision]N
+dcclt/Q000047,OB Nippur Lu,506,sux:maš[goat]N
+dcclt/Q000047,OB Nippur Lu,506a,sux:mamud[dream]N
+dcclt/Q000047,OB Nippur Lu,507,sux:maššugidgid[diviner]N
+dcclt/Q000047,OB Nippur Lu,508,sux:mašdarea[payment]N
+dcclt/Q000047,OB Nippur Lu,509,sux:maš[goat]N sux:gaba[chest]N
+dcclt/Q000047,OB Nippur Lu,510,sux:mu[year]N
+dcclt/Q000047,OB Nippur Lu,511,sux:muʾua[this-year]N
+dcclt/Q000047,OB Nippur Lu,511a,sux:mubalaʾa[next-year]N
+dcclt/Q000047,OB Nippur Lu,511b,sux:mu[year]N
+dcclt/Q000047,OB Nippur Lu,512,sux:muʾimma[last-year]N
+dcclt/Q000047,OB Nippur Lu,513,sux:mu[year]N
+dcclt/Q000047,OB Nippur Lu,514,sux:mu[year]N
+dcclt/Q000047,OB Nippur Lu,515,sux:mubeš[therefore]N
+dcclt/Q000047,OB Nippur Lu,516,sux:mu[year]N
+dcclt/Q000047,OB Nippur Lu,517,sux:mu.DU[delivery]N
+dcclt/Q000047,OB Nippur Lu,518,sux:mu[name]N
+dcclt/Q000047,OB Nippur Lu,519,sux:mu[name]N
+dcclt/Q000047,OB Nippur Lu,520,sux:mu[name]N
+dcclt/Q000047,OB Nippur Lu,521,sux:mu[year]N
+dcclt/Q000047,OB Nippur Lu,522,sux:naŋah[fool]N
+dcclt/Q000047,OB Nippur Lu,523,sux:šuʾi[barber]N
+dcclt/Q000047,OB Nippur Lu,524,sux:mu[name]N sux:gu[voice]N
+dcclt/Q000047,OB Nippur Lu,525,sux:mu.DU[delivery]N
+dcclt/Q000047,OB Nippur Lu,526,sux-x-emesal:mušnud[bed]N
+dcclt/Q000047,OB Nippur Lu,527,sux-x-emesal:mušnud[bed]N
+dcclt/Q000047,OB Nippur Lu,528,sux:lu[person]N
+dcclt/Q000047,OB Nippur Lu,530,sux:lu[person]N
+dcclt/Q000047,OB Nippur Lu,531b,sux:dimme[demon]N
+dcclt/Q000047,OB Nippur Lu,531c,sux:dimme[demon]N
+dcclt/Q000047,OB Nippur Lu,531d,sux:dimmea[demon]N
+dcclt/Q000047,OB Nippur Lu,532,sux:gidim[ghost]N
+dcclt/Q000047,OB Nippur Lu,534,sux:lu[person]N
+dcclt/Q000047,OB Nippur Lu,538,sux:galla[policeman]N
+dcclt/Q000047,OB Nippur Lu,539,sux:baza[dwarf]N
+dcclt/Q000047,OB Nippur Lu,540,sux:munus[woman]N sux:baza[dwarf]N
+dcclt/Q000047,OB Nippur Lu,541,
+dcclt/Q000047,OB Nippur Lu,541a,sux:munus[woman]N
+dcclt/Q000047,OB Nippur Lu,541c,
+dcclt/Q000047,OB Nippur Lu,541d,sux:munus[woman]N
+dcclt/Q000047,OB Nippur Lu,542,sux:u[cvne]N
+dcclt/Q000047,OB Nippur Lu,543,sux:munus[woman]N sux:u[cvne]N
+dcclt/Q000047,OB Nippur Lu,544,
+dcclt/Q000047,OB Nippur Lu,546,sux:munus[woman]N
+dcclt/Q000047,OB Nippur Lu,547,sux:ŋeštug[ear]N
+dcclt/Q000047,OB Nippur Lu,548,sux:munus[woman]N sux:ŋeštug[ear]N
+dcclt/Q000047,OB Nippur Lu,549,sux:ŋeštug[ear]N
+dcclt/Q000047,OB Nippur Lu,550,sux:kušla[garment]N
+dcclt/Q000047,OB Nippur Lu,551,sux:kušla[garment]N
+dcclt/Q000047,OB Nippur Lu,552,akk-x-oldbab:nahlaptu[garment]N sux:kušla[garment]N
+dcclt/Q000047,OB Nippur Lu,553,akk-x-oldbab:ramku[(a-priest)]N sux:kušla[garment]N
+dcclt/Q000047,OB Nippur Lu,553a,akk-x-oldbab:šibirru[shepherd´s-staff]N sux:kušla[garment]N
+dcclt/Q000047,OB Nippur Lu,553b,sux:siʾilla[inspection]N
+dcclt/Q000047,OB Nippur Lu,553c,sux:siʾilla[inspection]N
+dcclt/Q000047,OB Nippur Lu,554,sux:gadala[priest]N
+dcclt/Q000047,OB Nippur Lu,555,sux:šaggadala[priest]N
+dcclt/Q000047,OB Nippur Lu,556,sux:šagtubala[priest]N
+dcclt/Q000047,OB Nippur Lu,557,sux:bur[priest]N
+dcclt/Q000047,OB Nippur Lu,558,sux:bur[priest]N
+dcclt/Q000047,OB Nippur Lu,559,sux:bur[priest]N
+dcclt/Q000047,OB Nippur Lu,559a,sux:saŋbur[priest]N
+dcclt/Q000047,OB Nippur Lu,560,sux:bursaŋ[offering]N
+dcclt/Q000047,OB Nippur Lu,561,sux:burgia[offering]N
+dcclt/Q000047,OB Nippur Lu,562a,
+dcclt/Q000047,OB Nippur Lu,564,sux:imkid[piece]N
+dcclt/Q000047,OB Nippur Lu,564a,sux:imkid[piece]N
+dcclt/Q000047,OB Nippur Lu,565,sux:im[clay]N
+dcclt/Q000047,OB Nippur Lu,566,sux:uʾil[carrier]N
+dcclt/Q000047,OB Nippur Lu,567,sux:aʾil[carrier]N
+dcclt/Q000047,OB Nippur Lu,568,sux:gana[field]N sux:il[worker]N
+dcclt/Q000047,OB Nippur Lu,569,sux:izi[fire]N
+dcclt/Q000047,OB Nippur Lu,570,sux:gabilil[porter]N
+dcclt/Q000047,OB Nippur Lu,571,
+dcclt/Q000047,OB Nippur Lu,572,sux:ŋeš[tree]N
+dcclt/Q000047,OB Nippur Lu,573,sux:UN.IL₂[menial]N
+dcclt/Q000047,OB Nippur Lu,574,sux:arar[miller]N
+dcclt/Q000047,OB Nippur Lu,575,sux:EZEN.HAR[miller]N
+dcclt/Q000047,OB Nippur Lu,576,sux:hedab[worker]N
+dcclt/Q000047,OB Nippur Lu,578,sux:ehehhe[disabled]N
+dcclt/Q000047,OB Nippur Lu,579,sux:ehehhe[disabled]N
+dcclt/Q000047,OB Nippur Lu,580,sux:ehehhe[disabled]N
+dcclt/Q000047,OB Nippur Lu,581,sux:alanzu[clown]N
+dcclt/Q000047,OB Nippur Lu,582,sux:uddatuš[jester]N
+dcclt/Q000047,OB Nippur Lu,583,sux:hubi[acrobat]N
+dcclt/Q000047,OB Nippur Lu,584,sux:aʾua[musician?]N
+dcclt/Q000047,OB Nippur Lu,585,sux:eštalu[singer]N
+dcclt/Q000047,OB Nippur Lu,586,sux:munus[woman]N sux:eštalu[singer]N
+dcclt/Q000047,OB Nippur Lu,587,
+dcclt/Q000047,OB Nippur Lu,588,sux:širkug[subscript]N
+dcclt/Q000047,OB Nippur Lu,589,sux:širhamun[subscript]N
+dcclt/Q000047,OB Nippur Lu,590,sux:širnamnar[subscript]N
+dcclt/Q000047,OB Nippur Lu,591,sux:širnamgalak[subscript]N
+dcclt/Q000047,OB Nippur Lu,592,sux:širnamšubak[subscript]N
+dcclt/Q000047,OB Nippur Lu,593,sux:širnamerimak[subscript]N
+dcclt/Q000047,OB Nippur Lu,594,sux:širgida[subscript]N
+dcclt/Q000047,OB Nippur Lu,595,sux:širsaŋ[subscript]N
+dcclt/Q000047,OB Nippur Lu,596,sux:šir₃.RI.gud[subscript]N
+dcclt/Q000047,OB Nippur Lu,597,sux:širbanda[subscript]N
+dcclt/Q000047,OB Nippur Lu,598,sux:širamagan[subscript]N
+dcclt/Q000047,OB Nippur Lu,599,sux:širmagure[subscript]N
+dcclt/Q000047,OB Nippur Lu,600,sux:endu[song]N
+dcclt/Q000047,OB Nippur Lu,601,sux:enduana[song]N
+dcclt/Q000047,OB Nippur Lu,601a,sux:endu[song]N sux:kag[mouth]N
+dcclt/Q000047,OB Nippur Lu,602,sux:enduŋarŋar[composer]N
+dcclt/Q000047,OB Nippur Lu,603,sux:endudugdug[chanter?]N
+dcclt/Q000047,OB Nippur Lu,604,sux:ad[voice]N
+dcclt/Q000047,OB Nippur Lu,605,sux:ad[voice]N
+dcclt/Q000047,OB Nippur Lu,606,sux:sagida[notation]N
+dcclt/Q000047,OB Nippur Lu,607,sux:saŋara[notation]N
+dcclt/Q000047,OB Nippur Lu,608,sux:šagbatuku[notation]N
+dcclt/Q000047,OB Nippur Lu,609,sux:barsud[notation]N
+dcclt/Q000047,OB Nippur Lu,610,sux:uru[subscript]N
+dcclt/Q000047,OB Nippur Lu,611,sux:uru[subscript]N
+dcclt/Q000047,OB Nippur Lu,612,sux:ŋešgiŋal[notation]N
+dcclt/Q000047,OB Nippur Lu,612a,sux:adab[drum]N
+dcclt/Q000047,OB Nippur Lu,615,sux:malgatum[instrument]N
+dcclt/Q000047,OB Nippur Lu,616,sux:arahi[instrument]N
+dcclt/Q000047,OB Nippur Lu,617,sux:balbale[subscript]N
+dcclt/Q000047,OB Nippur Lu,618,sux:kunŋar[subscript]N
+dcclt/Q000047,OB Nippur Lu,619,sux:zamzam[instrument]N
+dcclt/Q000047,OB Nippur Lu,620,sux:kirugu[notation]N
+dcclt/Q000047,OB Nippur Lu,621,sux:kišuš[notation]N
+dcclt/Q000047,OB Nippur Lu,621a,sux:kidu[notation]N
+dcclt/Q000047,OB Nippur Lu,622,
+dcclt/Q000047,OB Nippur Lu,623,
+dcclt/Q000047,OB Nippur Lu,624,
+dcclt/Q000047,OB Nippur Lu,625,
+dcclt/Q000047,OB Nippur Lu,626,
+dcclt/Q000047,OB Nippur Lu,627,
+dcclt/Q000047,OB Nippur Lu,629,sux:kamma[instrument]N
+dcclt/Q000047,OB Nippur Lu,631,sux:šagdubul[part-of-an-instrument]N
+dcclt/Q000047,OB Nippur Lu,632,sux:aga[rear]N
+dcclt/Q000047,OB Nippur Lu,633,
+dcclt/Q000047,OB Nippur Lu,634,sux:si[cvne]N
+dcclt/Q000047,OB Nippur Lu,635,sux:ur[liver]N
+dcclt/Q000047,OB Nippur Lu,636,sux:mur[noise]N
+dcclt/Q000047,OB Nippur Lu,637,sux:akkil[noise]N
+dcclt/Q000047,OB Nippur Lu,638,sux:zipaŋ[breath]N
+dcclt/Q000047,OB Nippur Lu,639,sux:gude[lute]N
+dcclt/Q000047,OB Nippur Lu,640,sux:dua[instrument]N
+dcclt/Q000047,OB Nippur Lu,640a,sux:šukarak[instrument]N
+dcclt/Q000047,OB Nippur Lu,640b,sux:gu[neck]N sux:sa[sinew]N
+dcclt/Q000047,OB Nippur Lu,641,sux:nar[musician]N
+dcclt/Q000047,OB Nippur Lu,642,sux:nar[musician]N
+dcclt/Q000047,OB Nippur Lu,643,sux:tigi[instrument]N
+dcclt/Q000047,OB Nippur Lu,643a,sux:e[house]N sux:tigi[instrument]N
+dcclt/Q000047,OB Nippur Lu,643b,sux:munus[woman]N sux:tigi[instrument]N
+dcclt/Q000047,OB Nippur Lu,644,sux:nar[musician]N sux:sa[sinew]N
+dcclt/Q000047,OB Nippur Lu,646,sux:nar[musician]N sux:igi[face]N sux:suhurla[hairstyle]N
+dcclt/Q000047,OB Nippur Lu,647,sux:nar[musician]N sux:igi[face]N sux:lugal[king]N
+dcclt/Q000047,OB Nippur Lu,648,sux:nar[musician]N sux:gu[voice]N
+dcclt/Q000047,OB Nippur Lu,648a,sux:nar[musician]N sux:inim[word]N
+dcclt/Q000047,OB Nippur Lu,648b,sux:nar[musician]N sux:gu[voice]N
+dcclt/Q000047,OB Nippur Lu,648c,sux:nar[musician]N sux:gu[voice]N
+dcclt/Q000047,OB Nippur Lu,648d,sux:nar[musician]N sux:zeza[croaker]N
+dcclt/Q000047,OB Nippur Lu,649,sux:nar[musician]N sux:halatuša[apprentice]N
+dcclt/Q000047,OB Nippur Lu,649a,sux:nar[musician]N sux:eš[shrine]N
+dcclt/Q000047,OB Nippur Lu,649b,sux:nar[musician]N
+dcclt/Q000047,OB Nippur Lu,650,sux:nar[musician]N
+dcclt/Q000047,OB Nippur Lu,651,sux:mušlah[charmer]N
+dcclt/Q000047,OB Nippur Lu,652,sux:mušlahgal[charmer]N
+dcclt/Q000047,OB Nippur Lu,653,sux:gala[singer]N
+dcclt/Q000047,OB Nippur Lu,654,sux:galamah[singer]N
+dcclt/Q000047,OB Nippur Lu,654a,sux:galatura[performer]N
+dcclt/Q000047,OB Nippur Lu,654b,sux:gala[singer]N sux:halatuša[apprentice]N
+dcclt/Q000047,OB Nippur Lu,655,sux:galamah[singer]N sux:lugal[king]N
+dcclt/Q000047,OB Nippur Lu,656,sux:gala[singer]N sux:lugal[king]N
+dcclt/Q000047,OB Nippur Lu,657,sux:gala[singer]N sux:lugal[king]N
+dcclt/Q000047,OB Nippur Lu,658,sux:gala[singer]N
+dcclt/Q000047,OB Nippur Lu,659,sux:ama[mother]N sux:er[tears]N
+dcclt/Q000047,OB Nippur Lu,660,sux:balaŋ[instrument]N
+dcclt/Q000047,OB Nippur Lu,661,sux:balaŋ[instrument]N
+dcclt/Q000047,OB Nippur Lu,662,sux:balaŋil[musician]N
+dcclt/Q000047,OB Nippur Lu,664,sux:ad.KID[weaver]N
+dcclt/Q000047,OB Nippur Lu,665,sux:ad.KID[weaver]N
+dcclt/Q000047,OB Nippur Lu,666,sux:lu[person]N
+dcclt/Q000047,OB Nippur Lu,667,sux:nagar[carpenter]N
+dcclt/Q000047,OB Nippur Lu,668,sux:nagar[carpenter]N
+dcclt/Q000047,OB Nippur Lu,669,sux:ugula[overseer]N sux:nagar[carpenter]N
+dcclt/Q000047,OB Nippur Lu,670,sux:zadim[stone-cutter]N
+dcclt/Q000047,OB Nippur Lu,671,sux:kugdim[smith]N
+dcclt/Q000047,OB Nippur Lu,672,sux:simug[smith]N
+dcclt/Q000047,OB Nippur Lu,673,sux:burgul[stone-cutter]N
+dcclt/Q000047,OB Nippur Lu,674,sux:tibira[sculptor]N
+dcclt/Q000047,OB Nippur Lu,675,sux:TAK₄.ALAN[craftsman]N
+dcclt/Q000047,OB Nippur Lu,676,sux:zadim[stone-cutter]N
+dcclt/Q000047,OB Nippur Lu,680,sux:alan[statue]N
+dcclt/Q000047,OB Nippur Lu,681,sux:pana[bow]N
+dcclt/Q000047,OB Nippur Lu,682,sux:ašgab[leatherworker]N
+dcclt/Q000047,OB Nippur Lu,683,sux:ašgab[leatherworker]N
+dcclt/Q000047,OB Nippur Lu,683a,sux:šim[aromatics]N
+dcclt/Q000047,OB Nippur Lu,683b,sux:šim[aromatics]N
+dcclt/Q000047,OB Nippur Lu,684,sux:malah[sailor]N
+dcclt/Q000047,OB Nippur Lu,685,sux:malah[sailor]N
+dcclt/Q000047,OB Nippur Lu,686,sux:magalgal[profession]N
+dcclt/Q000047,OB Nippur Lu,687,sux:ma₂.GIN₂[boat-builder]N
+dcclt/Q000047,OB Nippur Lu,687a,sux:ma₂.ŠU₂.DUN₃[profession]N
+dcclt/Q000047,OB Nippur Lu,687b,sux:šukud[fisherman]N
+dcclt/Q000047,OB Nippur Lu,687c,sux:šukud[fisherman]N
+dcclt/Q000047,OB Nippur Lu,687d,sux:mušendu[bird-catcher]N
+dcclt/Q000047,OB Nippur Lu,687e,sux:mušendu[bird-catcher]N
+dcclt/Q000047,OB Nippur Lu,688,sux:irara[oil-presser]N
+dcclt/Q000047,OB Nippur Lu,689,sux:šimmu[priest]N
+dcclt/Q000047,OB Nippur Lu,690,sux:šimmu[perfumer]N
+dcclt/Q000047,OB Nippur Lu,691,sux:munumud[maltster]N
+dcclt/Q000047,OB Nippur Lu,692,sux:gugal[inspector]N
+dcclt/Q000047,OB Nippur Lu,693,sux:kugla[silver-weigher]N
+dcclt/Q000047,OB Nippur Lu,694,sux:manala[weighmaster]N
+dcclt/Q000047,OB Nippur Lu,695,sux:damgar[merchant]N
+dcclt/Q000047,OB Nippur Lu,695a,sux:šaŋanla[trader]N
+dcclt/Q000047,OB Nippur Lu,696,sux:gaʾeš[trader]N
+dcclt/Q000047,OB Nippur Lu,697,sux:gabgin[guarantor]N
+dcclt/Q000047,OB Nippur Lu,698,sux:gabzuzu[expert]N
+dcclt/Q000047,OB Nippur Lu,699,
+dcclt/Q000047,OB Nippur Lu,700,sux:dabariri[liar]N
+dcclt/Q000047,OB Nippur Lu,701,sux:šidim[builder]N
+dcclt/Q000047,OB Nippur Lu,702,sux:šidimgal[builder]N
+dcclt/Q000047,OB Nippur Lu,702a,sux:mašgaʾen[status]N
+dcclt/Q000047,OB Nippur Lu,703,sux:dikud[judge]N
+dcclt/Q000047,OB Nippur Lu,704,sux:maškim[administrator]N sux:dikud[judge]N
+dcclt/Q000047,OB Nippur Lu,704a,sux:munus[woman]N sux:šu[hand]N
+dcclt/Q000047,OB Nippur Lu,704b,sux:munus[woman]N sux:baza[dwarf]N
+dcclt/Q000047,OB Nippur Lu,704c,sux:munus[woman]N sux:luguba[ecstatic]N
+dcclt/Q000047,OB Nippur Lu,704d,sux:munus[woman]N sux:luŋešgisaŋkeš[performer]N
+dcclt/Q000047,OB Nippur Lu,704e,sux:munus[woman]N sux:maštab[twin]N
+dcclt/Q000047,OB Nippur Lu,704f,sux:munus[woman]N sux:lu[person]N
+dcclt/Q000047,OB Nippur Lu,704g,sux:munus[woman]N sux:siki[hair]N sux:dub[tablet]N
+dcclt/Q000047,OB Nippur Lu,704h,sux:munus[woman]N sux:siki[hair]N
+dcclt/Q000047,OB Nippur Lu,704i,sux:munus[woman]N
+dcclt/Q000047,OB Nippur Lu,704j,sux:munus[woman]N
+dcclt/Q000047,OB Nippur Lu,704k,sux:munus[woman]N sux:siki[hair]N
+dcclt/Q000047,OB Nippur Lu,704l,sux:munus[woman]N
+dcclt/Q000047,OB Nippur Lu,704m,sux:munus[woman]N
+dcclt/Q000047,OB Nippur Lu,704n,sux:munus[woman]N
+dcclt/Q000047,OB Nippur Lu,704o,sux:munus[woman]N
+dcclt/Q000047,OB Nippur Lu,704p,sux:munus[woman]N
+dcclt/Q000047,OB Nippur Lu,704q,sux:munus[woman]N
+dcclt/Q000047,OB Nippur Lu,704r,sux:munus[woman]N
+dcclt/Q000047,OB Nippur Lu,704s,sux:munus[woman]N
+dcclt/Q000047,OB Nippur Lu,704t,sux:munus[woman]N
+dcclt/Q000047,OB Nippur Lu,704u,sux:munus[woman]N
+dcclt/Q000047,OB Nippur Lu,704v,sux:munus[woman]N sux:gu[voice]N
+dcclt/Q000047,OB Nippur Lu,704w,sux:munus[woman]N
+dcclt/Q000047,OB Nippur Lu,705,sux:munus[woman]N sux:azu[doctor]N
+dcclt/Q000047,OB Nippur Lu,705a,sux:munus[woman]N
+dcclt/Q000047,OB Nippur Lu,705b,sux:munus[woman]N sux:šugi[senior]N
+dcclt/Q000047,OB Nippur Lu,705c,sux:munus[woman]N sux:gabšam[peddlar]N
+dcclt/Q000047,OB Nippur Lu,705d,sux:munus[woman]N
+dcclt/Q000047,OB Nippur Lu,705e,sux:munus[woman]N
+dcclt/Q000047,OB Nippur Lu,705f,sux:munus[woman]N sux:uš[spittle]N
+dcclt/Q000047,OB Nippur Lu,705g,sux:munus[woman]N sux:uš[spittle]N
+dcclt/Q000047,OB Nippur Lu,705h,sux:munus[woman]N sux:lu[person]N
+dcclt/Q000047,OB Nippur Lu,705i,sux:munus[woman]N sux:lu[person]N
+dcclt/Q000047,OB Nippur Lu,705j,sux:munus[woman]N
+dcclt/Q000047,OB Nippur Lu,706,sux:munus[woman]N sux:dubsar[scribe]N
+dcclt/Q000047,OB Nippur Lu,706a,sux:munus[woman]N
+dcclt/Q000047,OB Nippur Lu,706b,sux:munus[woman]N sux:umma[old-woman]N
+dcclt/Q000047,OB Nippur Lu,706c,sux:munus[woman]N
+dcclt/Q000047,OB Nippur Lu,706d,sux:munus[woman]N
+dcclt/Q000047,OB Nippur Lu,706e,sux:munus[woman]N sux:kisalluh[sweeper]N
+dcclt/Q000047,OB Nippur Lu,706f,sux:munus[woman]N
+dcclt/Q000047,OB Nippur Lu,706g,sux:munus[woman]N
+dcclt/Q000047,OB Nippur Lu,706h,sux:munus[woman]N sux:tilla[street]N
+dcclt/Q000047,OB Nippur Lu,706i,sux:munus[woman]N
+dcclt/Q000047,OB Nippur Lu,706k,sux:munus[woman]N
+dcclt/Q000047,OB Nippur Lu,706l,sux:šag[heart]N sux:arak[bird]N
+dcclt/Q000047,OB Nippur Lu,706m,sux:siškur[prayer]N
+dcclt/Q000047,OB Nippur Lu,706n,sux:siškur[prayer]N
+dcclt/Q000047,OB Nippur Lu,706o,
+dcclt/Q000047,OB Nippur Lu,707,sux:munus[woman]N sux:šuʾi[barber]N
+dcclt/Q000047,OB Nippur Lu,708,sux:munus[woman]N sux:muhaldim[cook]N
+dcclt/Q000047,OB Nippur Lu,708a,sux:munus[woman]N sux:luʾurak[profession]N
+dcclt/Q000047,OB Nippur Lu,708b,sux:munus[woman]N sux:šu[hand]N
+dcclt/Q000047,OB Nippur Lu,708c,sux:munus[woman]N sux:lu[person]N sux:lungak[brewer]N
+dcclt/Q000047,OB Nippur Lu,708d,sux:munus[woman]N sux:suhurla[hairstyle]N
+dcclt/Q000047,OB Nippur Lu,708e,sux:munus[woman]N sux:kezer[hairstyle]N
+dcclt/Q000047,OB Nippur Lu,709,sux:munus[woman]N sux:gu[voice]N sux:mur[noise]N
+dcclt/Q000047,OB Nippur Lu,710,sux:munus[woman]N sux:šugi[senior]N
+dcclt/Q000047,OB Nippur Lu,710a,sux:lukur[priestess]N sux:kaskal[way]N
+dcclt/Q000047,OB Nippur Lu,711,sux:dambanda[wife]N
+dcclt/Q000047,OB Nippur Lu,712,sux:namlukur[concubinage]N
+dcclt/Q000047,OB Nippur Lu,713,sux:karkid[prostitute]N
+dcclt/Q000047,OB Nippur Lu,714,sux:karkid[prostitute]N
+dcclt/Q000047,OB Nippur Lu,715,sux:karkid[prostitute]N sux:suhub[boots]N
+dcclt/Q000047,OB Nippur Lu,716,sux:karkid[prostitute]N sux:gi[reed]N sux:tete[disease]N
+dcclt/Q000047,OB Nippur Lu,717,sux:karkid[prostitute]N
+dcclt/Q000047,OB Nippur Lu,719,sux:kar[harbor]N
+dcclt/Q000047,OB Nippur Lu,720,sux:kar[harbor]N
+dcclt/Q000047,OB Nippur Lu,721,sux:iri[city]N
+dcclt/Q000047,OB Nippur Lu,722,sux:eg[levee]N
+dcclt/Q000047,OB Nippur Lu,723,sux:par[canal]N
+dcclt/Q000047,OB Nippur Lu,724,sux:agar[meadow]N
+dcclt/Q000047,OB Nippur Lu,725,
+dcclt/Q000047,OB Nippur Lu,726,
+dcclt/Q000047,OB Nippur Lu,727,
+dcclt/Q000047,OB Nippur Lu,728,akk-x-oldbab:šību[old-one]N
+dcclt/Q000047,OB Nippur Lu,729,akk-x-oldbab:abu[father]N
+dcclt/Q000047,OB Nippur Lu,730,
+dcclt/Q000047,OB Nippur Lu,731,akk-x-oldbab:kāru[quay]N sux:kar[harbor]N
+dcclt/Q000047,OB Nippur Lu,732,sux:gabkar[thief]N
+dcclt/Q000047,OB Nippur Lu,733,sux:ušzu[sorcerer]N
+dcclt/Q000047,OB Nippur Lu,734,sux:munus[woman]N sux:ŋeš[penis]N
+dcclt/Q000047,OB Nippur Lu,734a,sux:ešgar[assignment]N
+dcclt/Q000047,OB Nippur Lu,734b,sux:ešdam[tavern]N
+dcclt/Q000047,OB Nippur Lu,735,sux:ušzu[sorcerer]N
+dcclt/Q000047,OB Nippur Lu,736,sux:munus[woman]N sux:ušzu[sorcerer]N
+dcclt/Q000047,OB Nippur Lu,737,sux:niŋak[magic]N
+dcclt/Q000047,OB Nippur Lu,738,sux:nunuz[egg]N
+dcclt/Q000047,OB Nippur Lu,739,sux:uš[spittle]N
+dcclt/Q000047,OB Nippur Lu,740,sux:tuduga[incantation]N
+dcclt/Q000047,OB Nippur Lu,741,sux:eh[insect]N
+dcclt/Q000047,OB Nippur Lu,742,
+dcclt/Q000047,OB Nippur Lu,742a,sux:muzug[person]N
+dcclt/Q000047,OB Nippur Lu,742b,sux:munus[woman]N sux:muzug[person]N
+dcclt/Q000047,OB Nippur Lu,744,sux:namdumu[status]N
+dcclt/Q000047,OB Nippur Lu,745,sux:inim[word]N
+dcclt/Q000047,OB Nippur Lu,746,
+dcclt/Q000047,OB Nippur Lu,747,
+dcclt/Q000047,OB Nippur Lu,748,sux:gangig[miscarriage]N
+dcclt/Q000047,OB Nippur Lu,748a,sux:ŋeš[penis]N
+dcclt/Q000047,OB Nippur Lu,748b,sux:arah[storehouse]N
+dcclt/Q000047,OB Nippur Lu,748c,sux:uhrum[stream]N
+dcclt/Q000047,OB Nippur Lu,748d,sux:a[water]N
+dcclt/Q000047,OB Nippur Lu,748e,sux:a[water]N
+dcclt/Q000047,OB Nippur Lu,749,sux:amar[young]N
+dcclt/Q000047,OB Nippur Lu,750,sux:larah[straits]N
+dcclt/Q000047,OB Nippur Lu,751,sux:dugnir[mate]N
+dcclt/Q000047,OB Nippur Lu,752,sux:a[water]N
+dcclt/Q000047,OB Nippur Lu,753,sux:dam[spouse]N
+dcclt/Q000047,OB Nippur Lu,754,sux:dam[spouse]N
+dcclt/Q000047,OB Nippur Lu,755,sux:dam[spouse]N sux:dam[spouse]N
+dcclt/Q000047,OB Nippur Lu,756,sux:dam[spouse]N sux:ŋuruš[male]N
+dcclt/Q000047,OB Nippur Lu,757,sux:ŋidlam[spouse]N
+dcclt/Q000047,OB Nippur Lu,758,sux:murum[in-law]N
+dcclt/Q000047,OB Nippur Lu,758a,sux:mussa[in-law]N
+dcclt/Q000047,OB Nippur Lu,759,sux:murum[in-law]N
+dcclt/Q000047,OB Nippur Lu,760,sux:niŋirsi[friend]N
+dcclt/Q000047,OB Nippur Lu,761,sux:ušbar[in-law]N
+dcclt/Q000047,OB Nippur Lu,762,sux:egia[bride]N
+dcclt/Q000047,OB Nippur Lu,763,sux:daggi[quarter]N
+dcclt/Q000047,OB Nippur Lu,764,sux:erib[in-law]N
+dcclt/Q000047,OB Nippur Lu,765,sux:malag[neighbor]N
+dcclt/Q000047,OB Nippur Lu,766,sux:malag[neighbor]N
+dcclt/Q000047,OB Nippur Lu,767,sux:usar[neighbor]N
+dcclt/Q000047,OB Nippur Lu,768,
+dcclt/Q000047,OB Nippur Lu,769,sux:niŋin[district]N
+dcclt/Q000047,OB Nippur Lu,770,
+dcclt/Q000047,OB Nippur Lu,771,
+dcclt/Q000047,OB Nippur Lu,772,sux:ursaŋ[hero]N
+dcclt/Q000047,OB Nippur Lu,773,
+dcclt/Q000047,OB Nippur Lu,774,
+dcclt/Q000047,OB Nippur Lu,775,
+dcclt/Q000047,OB Nippur Lu,775a,
+dcclt/Q000047,OB Nippur Lu,775b,
+dcclt/Q000047,OB Nippur Lu,775c,
+dcclt/Q000047,OB Nippur Lu,776,sux:guli[friend]N
+dcclt/Q000047,OB Nippur Lu,777,sux:gulili[colleague]N
+dcclt/Q000047,OB Nippur Lu,778,sux:dusa[friend]N
+dcclt/Q000047,OB Nippur Lu,779,sux:gimeaʾaš[colleague]N
+dcclt/Q000047,OB Nippur Lu,780,sux:madala[bundle]N
+dcclt/Q000047,OB Nippur Lu,781,sux:taba[companion]N
+dcclt/Q000047,OB Nippur Lu,782,
+dcclt/Q000047,OB Nippur Lu,783,
+dcclt/Q000047,OB Nippur Lu,784,
+dcclt/Q000047,OB Nippur Lu,785,sux:miqtum[social-class]N
+dcclt/Q000047,OB Nippur Lu,786,
+dcclt/Q000047,OB Nippur Lu,788,sux:dub[tablet]N
+dcclt/Q000047,OB Nippur Lu,789,sux:isur[presser]N
+dcclt/Q000047,OB Nippur Lu,790,sux:munus[woman]N sux:isur[presser]N
+dcclt/Q000047,OB Nippur Lu,791,sux:šeba[ration]N
+dcclt/Q000047,OB Nippur Lu,792,sux:iba[ration]N
+dcclt/Q000047,OB Nippur Lu,793,sux:sikiba[ration]N
+dcclt/Q000047,OB Nippur Lu,794,sux:niŋba[gift]N
+dcclt/Q000047,OB Nippur Lu,795,sux:niŋla[clothing]N
+dcclt/Q000047,OB Nippur Lu,795a,sux:ba[garment]N
+dcclt/Q000047,OB Nippur Lu,795b,sux:tug[textile]N
+dcclt/Q000047,OB Nippur Lu,796,sux:siʾilla[inspection]N
+dcclt/Q000047,OB Nippur Lu,797,sux:siʾilla[inspection]N
+dcclt/Q000047,OB Nippur Lu,797a,sux:siʾilla[inspection]N
+dcclt/Q000047,OB Nippur Lu,798,sux:gurum[inspection]N
+dcclt/Q000047,OB Nippur Lu,799,sux:šušuma[consignment]N
+dcclt/Q000047,OB Nippur Lu,800,sux:šuduʾa[guarantee]N
+dcclt/Q000047,OB Nippur Lu,801,sux:erin[people]N
+dcclt/Q000047,OB Nippur Lu,802,sux:erin[people]N
+dcclt/Q000047,OB Nippur Lu,803,sux:eringalgal[occupation]N
+dcclt/Q000047,OB Nippur Lu,804,sux:erin[people]N sux:sa[sinew]N
+dcclt/Q000047,OB Nippur Lu,804a,sux:sa[sinew]N
+dcclt/Q000047,OB Nippur Lu,804b,sux:sa[sinew]N
+dcclt/Q000047,OB Nippur Lu,805,sux:kuš[official]N
+dcclt/Q000047,OB Nippur Lu,806,sux:gudabsar[profession]N
+dcclt/Q000047,OB Nippur Lu,807,sux:kiridab[driver]N
+dcclt/Q000047,OB Nippur Lu,808,
+dcclt/Q000047,OB Nippur Lu,808a,
+dcclt/Q000047,OB Nippur Lu,808b,
+dcclt/Q000047,OB Nippur Lu,808c,sux:tuhulkud[disabled]N
+dcclt/Q000047,OB Nippur Lu,809,sux:kudkudra[disabled]N
+dcclt/Q000047,OB Nippur Lu,809a,sux:ibkud[disabled]N
+dcclt/Q000047,OB Nippur Lu,809b,
+dcclt/Q000047,OB Nippur Lu,809c,sux:ŋiri[foot]N
+dcclt/Q000047,OB Nippur Lu,809f,sux:ŋirikud[cripple]N
+dcclt/Q000047,OB Nippur Lu,809g,sux:ŋiri[foot]N
+dcclt/Q000047,OB Nippur Lu,809h,sux:aku[cripple]N
+dcclt/Q000047,OB Nippur Lu,809i,sux:aŋiri[limbs]N
+dcclt/Q000047,OB Nippur Lu,809j,sux:ašuŋirikud[disabled]N
+dcclt/Q000047,OB Nippur Lu,811,sux:agantum[disease]N
+dcclt/Q000047,OB Nippur Lu,811a,sux:šir[testicle]N
+dcclt/Q000047,OB Nippur Lu,812,sux:ibiza[loss]N
+dcclt/Q000047,OB Nippur Lu,813,
+dcclt/Q000047,OB Nippur Lu,813a,sux:nun[prince]N
+dcclt/Q000047,OB Nippur Lu,814,sux:šu[hand]N
+dcclt/Q000047,OB Nippur Lu,815,sux:šu[hand]N
+dcclt/Q000047,OB Nippur Lu,816,sux:numun[seed]N
+dcclt/Q000047,OB Nippur Lu,817,sux:dirig[excess]N sux:bur[garment]N
+dcclt/Q000047,OB Nippur Lu,818,sux:šubaršuŋal[possession]N
+dcclt/Q000047,OB Nippur Lu,819,sux:dagaltuma[pouch]N
+dcclt/Q000047,OB Nippur Lu,822,sux:eden[plain]N
+dcclt/Q000047,OB Nippur Lu,823,sux:eden[plain]N
+dcclt/Q000047,OB Nippur Lu,824,akk-x-oldbab:ṣēru[back]N sux:LIL₂[plain]N
+dcclt/Q000047,OB Nippur Lu,825,akk-x-oldbab:zīqīqu[wind]N sux:lil[ghost]N
+dcclt/Q000047,OB Nippur Lu,826,akk-x-oldbab:kitimtu[secret]N sux:LIL₂[knowledge]N
+dcclt/Q000047,OB Nippur Lu,827,akk-x-oldbab:šitiptu[excision?]N sux:LIL₂[unmng]N
+dcclt/Q000047,OB Nippur Lu,829,sux:ki[place]N
+dcclt/Q000047,OB Nippur Lu,830,sux:an[sky]N
+dcclt/Q000047,OB Nippur Lu,831,sux:lillilgi[demon]N
+dcclt/Q000047,OB Nippur Lu,832,sux:lillilgia[demon]N
+dcclt/Q000047,OB Nippur Lu,833,sux:LIL₂[plain]N sux:andul[shade]N
+dcclt/Q000047,OB Nippur Lu,833a,
+dcclt/Q000047,OB Nippur Lu,834,sux:ab[window]N
+dcclt/Q000047,OB Nippur Lu,835,sux:ab[window]N
+dcclt/Q000047,OB Nippur Lu,836,sux:AB.TUM[water-outlet]N
+dcclt/Q000047,OB Nippur Lu,836a,sux:AB.TUM[water-outlet]N
+dcclt/Q000047,OB Nippur Lu,837,sux:ablal[nest]N
+dcclt/Q000047,OB Nippur Lu,838,sux:ablal[nest]N
+dcclt/Q000047,OB Nippur Lu,838a,sux:ab[window]N sux:šukur[lance]N
+dcclt/Q000047,OB Nippur Lu,839,sux:ab[window]N sux:šugur[ring]N
+dcclt/Q000047,OB Nippur Lu,840,sux:ti[rib]N
+dcclt/Q000047,OB Nippur Lu,841,
+dcclt/Q000047,OB Nippur Lu,843,sux:ŋešgiŋal[notation]N
+dcclt/Q000047,OB Nippur Lu,844,sux:sisig[breeze]N
+dcclt/Q000047,OB Nippur Lu,845,sux:sisig[breeze]N
+dcclt/Q000047,OB Nippur Lu,846,sux:sisig[breeze]N
+dcclt/Q000047,OB Nippur Lu,847,sux:izi[fire]N

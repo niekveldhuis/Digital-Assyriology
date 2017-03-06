@@ -1,0 +1,8 @@
+id_text,text_name,l_no,text
+riao/Q006658,Šamši-Adad III 2,1,Šamši-Adad_III[son-of-Išme-Dagan-II;-vice-regent-of-Aššur]RN
+riao/Q006658,Šamši-Adad III 2,2,iššiakku[city-ruler]N Aššur[1]DN
+riao/Q006658,Šamši-Adad III 2,3,māru[son]N Išme-Dagan_II[vice-regent-of-god-Aššur;-successor-of-Šamši-Adad-II]RN
+riao/Q006658,Šamši-Adad III 2,4,ana[to]PRP balāṭu[life]N
+riao/Q006658,Šamši-Adad III 2,5,u[and]CNJ šalāmu[be(come)-healty]V ālu[city]N
+riao/Q006658,Šamši-Adad III 2,6,bītu[house]N
+riao/Q006658,Šamši-Adad III 2,7,ša[of]DET Alu-eššu[New-City;-district-of-Aššur]SN

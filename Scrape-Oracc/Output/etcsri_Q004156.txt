@@ -1,0 +1,6 @@
+id_text,text_name,version,l_no,text
+etcsri/Q004156,Amar-Suen 2055add,,i 1,sux:Amarsuenak[1]RN
+etcsri/Q004156,Amar-Suen 2055add,,i 2,sux:kalag[strong]V/i
+etcsri/Q004156,Amar-Suen 2055add,,i 3,sux:lugal[king]N sux:Urim[1]SN
+etcsri/Q004156,Amar-Suen 2055add,,i 4,sux:lugal[king]N sux:anubda[quarter]N sux:limmu[four]NU
+etcsri/Q004156,Amar-Suen 2055add,,ii 1,sux:Ura-X[1]PN

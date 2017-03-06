@@ -1,0 +1,8 @@
+id_text,text_name,version,l_no,text
+etcsri/Q001558,Gudea Statue T,,i 1,sux:Nisabak[1]DN
+etcsri/Q001558,Gudea Statue T,,i 2,sux:nin[lady]N sux:ŋeštug[ear]N
+etcsri/Q001558,Gudea Statue T,,i 3,sux:nin[lady]N
+etcsri/Q001558,Gudea Statue T,,ii 1',sux:magid[boatman]N
+etcsri/Q001558,Gudea Statue T,,ii 2',sux:Enlil[1]DN
+etcsri/Q001558,Gudea Statue T,,ii 3',sux:alan[statue]N sux:utud[bear]V/t
+etcsri/Q001558,Gudea Statue T,,ii 4',sux:namtil[life]N

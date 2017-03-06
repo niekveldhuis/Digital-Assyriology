@@ -1,0 +1,5 @@
+id_text,text_name,version,l_no,text
+etcsri/Q001296,Anonymous Nippur 42,,1,sux:Inanak[1]DN
+etcsri/Q001296,Anonymous Nippur 42,,2,sux:Amaazu[1]PN
+etcsri/Q001296,Anonymous Nippur 42,,3,sux:dam[spouse]N sux:Lugalurin[1]PN
+etcsri/Q001296,Anonymous Nippur 42,,4,sux:dubsar[scribe]N

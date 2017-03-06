@@ -1,0 +1,11 @@
+id_text,text_name,l_no,text
+riao/Q005632,Erišum I 12,1,Erišum_I[vice-regent-of-Aššur]RN
+riao/Q005632,Erišum I 12,2,iššiakku[city-ruler]N
+riao/Q005632,Erišum I 12,3,Aššur[1]DN
+riao/Q005632,Erišum I 12,4,māru[son]N Ilu-šuma[vice-regent-of-Aššur]RN
+riao/Q005632,Erišum I 12,5,ana[to]PRP Aššur[1]DN bēlu[lord]N
+riao/Q005632,Erišum I 12,6,bītu[house]N epēšu[do]V
+riao/Q005632,Erišum I 12,8,ša[of]DET
+riao/Q005632,Erišum I 12,9,bītu[house]N
+riao/Q005632,Erišum I 12,10,ša[of]DET Aššur[1]DN
+riao/Q005632,Erišum I 12,11,bītu[house]N

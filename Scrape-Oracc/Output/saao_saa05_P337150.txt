@@ -1,0 +1,37 @@
+id_text,text_name,l_no,text
+saao/saa05/P337150,SAA 05 100. Smugglers on the Assyrian Border (TCL 9 67),o 1,ana[to]PRP šarru[king]N bēlu[lord]N
+saao/saa05/P337150,SAA 05 100. Smugglers on the Assyrian Border (TCL 9 67),o 2,ardu[slave]N Aššur-reṣuwa[1]PN
+saao/saa05/P337150,SAA 05 100. Smugglers on the Assyrian Border (TCL 9 67),o 3,lū[may]MOD šulmu[completeness]N ana[to]PRP šarru[king]N bēlu[lord]N
+saao/saa05/P337150,SAA 05 100. Smugglers on the Assyrian Border (TCL 9 67),o 4,Bure[1]PN Eziye[1]PN
+saao/saa05/P337150,SAA 05 100. Smugglers on the Assyrian Border (TCL 9 67),o 5,Gamalu[1]PN Ehiye[1]PN
+saao/saa05/P337150,SAA 05 100. Smugglers on the Assyrian Border (TCL 9 67),o 6,gimru[totality]N ša[that]REL qātu[hand]N Ariaza[1]PN
+saao/saa05/P337150,SAA 05 100. Smugglers on the Assyrian Border (TCL 9 67),o 7,Kummaya[1]PN Biriaun[1]PN
+saao/saa05/P337150,SAA 05 100. Smugglers on the Assyrian Border (TCL 9 67),o 8,gimru[totality]N ša[that]REL qātu[hand]N Ariye[1]PN
+saao/saa05/P337150,SAA 05 100. Smugglers on the Assyrian Border (TCL 9 67),o 9,Kummaya[Kummean]EN annû[this]DP
+saao/saa05/P337150,SAA 05 100. Smugglers on the Assyrian Border (TCL 9 67),o 10,alāku[go]V ina[in]PRP libbu[interior]N Bususu[1]GN
+saao/saa05/P337150,SAA 05 100. Smugglers on the Assyrian Border (TCL 9 67),o 11,ša[that]REL bītu[house]N rabû[big-one]N šāqû[butler]N ašābu[sit-(down)]V
+saao/saa05/P337150,SAA 05 100. Smugglers on the Assyrian Border (TCL 9 67),o 12,Bususaya[Bususaean]EN ṣahittu[wish]N
+saao/saa05/P337150,SAA 05 100. Smugglers on the Assyrian Border (TCL 9 67),o 13,ša[of]DET mātu[land]N Aššur[1]DN ištu[from]PRP Kalhu[1]GN
+saao/saa05/P337150,SAA 05 100. Smugglers on the Assyrian Border (TCL 9 67),o 14,ištu[from]PRP Ninua[Nineveh]GN leqû[take]V
+saao/saa05/P337150,SAA 05 100. Smugglers on the Assyrian Border (TCL 9 67),o 15,ana[to]PRP Kummaya[Kummean]EN annû[this]DP
+saao/saa05/P337150,SAA 05 100. Smugglers on the Assyrian Border (TCL 9 67),o 16,tadānu[give]V Kummaya[Kummean]EN annû[this]DP
+saao/saa05/P337150,SAA 05 100. Smugglers on the Assyrian Border (TCL 9 67),o 17,ina[in]PRP libbu[interior]N Aira[1]GN
+saao/saa05/P337150,SAA 05 100. Smugglers on the Assyrian Border (TCL 9 67),o 18,bītu[house]N Kaqqadanu[1]PN
+saao/saa05/P337150,SAA 05 100. Smugglers on the Assyrian Border (TCL 9 67),o 19,ša[that]REL qātu[hand]N Saniye[1]PN
+saao/saa05/P337150,SAA 05 100. Smugglers on the Assyrian Border (TCL 9 67),o 20,bēlu[lord]N ālu[city]N ardu[slave]N
+saao/saa05/P337150,SAA 05 100. Smugglers on the Assyrian Border (TCL 9 67),r 1,ša[of]DET pīhātu[responsibility]N ša[of]DET Kalhu[1]GN
+saao/saa05/P337150,SAA 05 100. Smugglers on the Assyrian Border (TCL 9 67),r 2,ina[in]PRP libbu[interior]N erēbu[enter]V ištu[from]PRP libbu[interior]N
+saao/saa05/P337150,SAA 05 100. Smugglers on the Assyrian Border (TCL 9 67),r 3,ina[in]PRP libbu[interior]N Urarṭu[1]GN wabālu[bring]V
+saao/saa05/P337150,SAA 05 100. Smugglers on the Assyrian Border (TCL 9 67),r 4,ištu[from]PRP ammaka[there]AV ṣahittu[wish]N
+saao/saa05/P337150,SAA 05 100. Smugglers on the Assyrian Border (TCL 9 67),r 5,ana[to]PRP annîša[here]AV wabālu[bring]V
+saao/saa05/P337150,SAA 05 100. Smugglers on the Assyrian Border (TCL 9 67),r 6,šarru[king]N bēlu[lord]N ina[in]PRP muhhu[skull]N Saniye[1]PN
+saao/saa05/P337150,SAA 05 100. Smugglers on the Assyrian Border (TCL 9 67),r 7,bēlu[lord]N ālu[city]N šapāru[send]V Kummaya[Kummean]EN annû[this]DP
+saao/saa05/P337150,SAA 05 100. Smugglers on the Assyrian Border (TCL 9 67),r 8,ṣabātu[seize]V ina[in]PRP muhhu[skull]N šarru[king]N bēlu[lord]N
+saao/saa05/P337150,SAA 05 100. Smugglers on the Assyrian Border (TCL 9 67),r 9,wabālu[bring]V šarru[king]N bēlu[lord]N šâlu[ask]V
+saao/saa05/P337150,SAA 05 100. Smugglers on the Assyrian Border (TCL 9 67),r 10,ṣahittu[wish]N annû[this]DP ištu[from]PRP ayyaka[where?]QP
+saao/saa05/P337150,SAA 05 100. Smugglers on the Assyrian Border (TCL 9 67),r 11,našû[lift]V ana[to]PRP ayyiša[whither?]QP tadānu[give]V
+saao/saa05/P337150,SAA 05 100. Smugglers on the Assyrian Border (TCL 9 67),r 12,mannu[who?]QP ištu[from]PRP qātu[hand]N mahāru[face]V
+saao/saa05/P337150,SAA 05 100. Smugglers on the Assyrian Border (TCL 9 67),r 13,mannu[who?]QP ebēru[cross-over]V
+saao/saa05/P337150,SAA 05 100. Smugglers on the Assyrian Border (TCL 9 67),r 14,Kummaya[Kummean]EN annû[this]DP
+saao/saa05/P337150,SAA 05 100. Smugglers on the Assyrian Border (TCL 9 67),r 15,halqu[lost]AJ šunu[they]IP
+saao/saa05/P337150,SAA 05 100. Smugglers on the Assyrian Border (TCL 9 67),r 16,ištu[from]PRP Kumme[1]GN

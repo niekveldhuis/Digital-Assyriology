@@ -1,0 +1,6 @@
+id_text,text_name,version,l_no,text
+etcsri/Q005024,Ibbi-Suen 2097add,,i 1,sux:Ibbisuen[1]RN
+etcsri/Q005024,Ibbi-Suen 2097add,,i 2,sux:lugal[king]N sux:kalag[strong]V/i
+etcsri/Q005024,Ibbi-Suen 2097add,,i 3,sux:lugal[king]N sux:Urim[1]SN
+etcsri/Q005024,Ibbi-Suen 2097add,,ii 1,sux:Ursaga[5]PN sux:sukkal[secretary]N
+etcsri/Q005024,Ibbi-Suen 2097add,,ii 2,sux:arad[slave]N

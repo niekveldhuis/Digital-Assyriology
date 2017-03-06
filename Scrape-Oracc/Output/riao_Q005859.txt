@@ -1,0 +1,66 @@
+id_text,text_name,l_no,text
+riao/Q005859,Tukulti-Ninurta I 23,1,Tukulti-Ninurta_I[king-of-Assyria]RN
+riao/Q005859,Tukulti-Ninurta I 23,2,Aššur[Assyria]GN Šumeru[Sumer]GN Akkad[1]GN
+riao/Q005859,Tukulti-Ninurta I 23,3,Aššur[1]DN
+riao/Q005859,Tukulti-Ninurta I 23,4,Šamaš[1]DN
+riao/Q005859,Tukulti-Ninurta I 23,5,Enlil[1]DN
+riao/Q005859,Tukulti-Ninurta I 23,9,Anu[1]DN
+riao/Q005859,Tukulti-Ninurta I 23,12,Ea[1]DN
+riao/Q005859,Tukulti-Ninurta I 23,15,Sin[1]DN
+riao/Q005859,Tukulti-Ninurta I 23,17,Adad[1]DN
+riao/Q005859,Tukulti-Ninurta I 23,20,Ninurta[1]DN
+riao/Q005859,Tukulti-Ninurta I 23,22,Ištar[1]DN
+riao/Q005859,Tukulti-Ninurta I 23,23,Šamaš[1]DN
+riao/Q005859,Tukulti-Ninurta I 23,24,Šamaš[1]DN
+riao/Q005859,Tukulti-Ninurta I 23,25,Salmanu-ašared_I[Shalmaneser-I;-son-of-Adad-narari-I;-king-of-Assyria]RN Aššur[Assyria]GN
+riao/Q005859,Tukulti-Ninurta I 23,26,Adad-narari_I[king-of-Assyria]RN Aššur[Assyria]GN
+riao/Q005859,Tukulti-Ninurta I 23,28,Hattu[Hittite]EN
+riao/Q005859,Tukulti-Ninurta I 23,29,Purattu[Euphrates]WN
+riao/Q005859,Tukulti-Ninurta I 23,31,Paphu[1]GN Uqumanu[1]GN Šarnida[1]GN
+riao/Q005859,Tukulti-Ninurta I 23,32,Mehru[1]GN
+riao/Q005859,Tukulti-Ninurta I 23,34,Katmuhu[1]GN
+riao/Q005859,Tukulti-Ninurta I 23,35,Buššu[1]GN Alzu[1]GN Madanu[1]GN Nihanu[1]GN
+riao/Q005859,Tukulti-Ninurta I 23,36,Alaia[1]GN Tepurzu[1]GN Purulumzu[1]GN
+riao/Q005859,Tukulti-Ninurta I 23,37,Šubaru[1]EN
+riao/Q005859,Tukulti-Ninurta I 23,46,Nairi[1]GN
+riao/Q005859,Tukulti-Ninurta I 23,49,Nairi[1]GN
+riao/Q005859,Tukulti-Ninurta I 23,51,Ekur[1]TN
+riao/Q005859,Tukulti-Ninurta I 23,52,Aššur[1]DN
+riao/Q005859,Tukulti-Ninurta I 23,56,Aššur[1]DN
+riao/Q005859,Tukulti-Ninurta I 23,57,Enlil[1]DN Šamaš[1]DN
+riao/Q005859,Tukulti-Ninurta I 23,58,Ištar[1]DN
+riao/Q005859,Tukulti-Ninurta I 23,60,Kaštiliašu[foreign-ruler]RN Karduniaš[Babylonia]GN
+riao/Q005859,Tukulti-Ninurta I 23,64,Kaštiliašu[foreign-ruler]RN
+riao/Q005859,Tukulti-Ninurta I 23,65,Kaššu[Kassite]EN
+riao/Q005859,Tukulti-Ninurta I 23,66,Aššur[1]DN
+riao/Q005859,Tukulti-Ninurta I 23,67,Šumeru[Sumer]GN Akkad[1]GN
+riao/Q005859,Tukulti-Ninurta I 23,69,Mari[1]GN Hana[1]GN Rapiqu[1]GN
+riao/Q005859,Tukulti-Ninurta I 23,70,Ahlamu[1]EN Hargamuš[1]GN
+riao/Q005859,Tukulti-Ninurta I 23,71,Muqanaš[1]GN Bit-Makki[1]EN Bit-Qulla[1]EN
+riao/Q005859,Tukulti-Ninurta I 23,72,Akriaš[1]GN Sikkuri[1]GN Huzuš[1]GN
+riao/Q005859,Tukulti-Ninurta I 23,73,Turnasuma[1]GN Haššilluna[1]GN Šada[1]GN
+riao/Q005859,Tukulti-Ninurta I 23,74,Sappani[1]GN Turṣinuhlia[1]GN Duri[1]GN
+riao/Q005859,Tukulti-Ninurta I 23,75,Uzamiya[1]GN Harnaphi[1]GN Kurdišše[1]GN
+riao/Q005859,Tukulti-Ninurta I 23,76,Ulaiaš[1]GN Ulmuiaš[1]GN
+riao/Q005859,Tukulti-Ninurta I 23,77,Hussauš[1]GN Ezauš[1]GN
+riao/Q005859,Tukulti-Ninurta I 23,78,Damnauš[1]GN Arinni[1]GN
+riao/Q005859,Tukulti-Ninurta I 23,79,Birite[1]GN Arraphi[1]GN Kurbata[1]GN
+riao/Q005859,Tukulti-Ninurta I 23,80,Agališna[1]GN Šadappa[1]GN Kamzikla[1]GN
+riao/Q005859,Tukulti-Ninurta I 23,81,Kammaraš[1]GN Elure[1]GN Kammenza[1]GN
+riao/Q005859,Tukulti-Ninurta I 23,82,Albada[1]GN Sikapda[1]GN Šabila[1]GN
+riao/Q005859,Tukulti-Ninurta I 23,89,Aššur[1]DN
+riao/Q005859,Tukulti-Ninurta I 23,92,Aššur[1]DN
+riao/Q005859,Tukulti-Ninurta I 23,93,Aššur[Ashur]SN Idiqlat[Tigris]WN
+riao/Q005859,Tukulti-Ninurta I 23,97,Aššur[1]DN
+riao/Q005859,Tukulti-Ninurta I 23,99,Kar-Tukulti-Ninurta[1]SN
+riao/Q005859,Tukulti-Ninurta I 23,108,Aššur[1]DN
+riao/Q005859,Tukulti-Ninurta I 23,110,Kar-Tukulti-Ninurta[1]SN
+riao/Q005859,Tukulti-Ninurta I 23,113,Aššur[1]DN
+riao/Q005859,Tukulti-Ninurta I 23,114,Ekurmešarra[1]TN
+riao/Q005859,Tukulti-Ninurta I 23,116,Aššur[1]DN
+riao/Q005859,Tukulti-Ninurta I 23,120,Aššur[1]DN
+riao/Q005859,Tukulti-Ninurta I 23,124,Aššur[1]DN Enlil[1]DN Šamaš[1]DN
+riao/Q005859,Tukulti-Ninurta I 23,126,Aššur[1]DN
+riao/Q005859,Tukulti-Ninurta I 23,134,Aššur[1]DN
+riao/Q005859,Tukulti-Ninurta I 23,135,Aššur[1]DN
+riao/Q005859,Tukulti-Ninurta I 23,136,Enlil[1]DN Šamaš[1]DN

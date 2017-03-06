@@ -1,0 +1,48 @@
+id_text,text_name,l_no,text
+<<<<<<< HEAD
+aemw/amarna/P271093,EA 279. A wasteland [vassal letter],001,akk-x-mbperi:ana[to]PRP akk-x-mbperi:šarru[king]N akk-x-mbperi:bēlu[lord]N
+aemw/amarna/P271093,EA 279. A wasteland [vassal letter],002,akk-x-mbperi:ilu[god]N akk-x-mbperi:Šamaš[1]DN
+aemw/amarna/P271093,EA 279. A wasteland [vassal letter],003,akk-x-mbperi:qabû[say]V
+aemw/amarna/P271093,EA 279. A wasteland [vassal letter],004,akk-x-mbperi:umma[saying]PRP akk-x-mbperi:Šuwardata[1]PN
+aemw/amarna/P271093,EA 279. A wasteland [vassal letter],005,akk-x-mbperi:wardu[slave]N akk-x-mbperi:eperu[earth]N akk-x-mbperi:ša[of]DET akk-x-mbperi:šēpu[foot]N
+aemw/amarna/P271093,EA 279. A wasteland [vassal letter],006,akk-x-mbperi:ana[to]PRP akk-x-mbperi:šēpu[foot]N akk-x-mbperi:šarru[king]N akk-x-mbperi:bēlu[lord]N
+aemw/amarna/P271093,EA 279. A wasteland [vassal letter],007,akk-x-mbperi:ilu[god]N akk-x-mbperi:Šamaš[1]DN
+aemw/amarna/P271093,EA 279. A wasteland [vassal letter],008,akk-x-mbperi:maqātu[fall]V
+aemw/amarna/P271093,EA 279. A wasteland [vassal letter],009,akk-x-mbperi:edû[know]V akk-x-mbperi:šarru[king]N akk-x-mbperi:bēlu[lord]N akk-x-mbperi:inūma[when]SBJ
+aemw/amarna/P271093,EA 279. A wasteland [vassal letter],010,akk-x-mbperi:gamru[complete]AJ akk-x-mbperi:mātu[land]N akk-x-mbperi:šarru[king]N
+aemw/amarna/P271093,EA 279. A wasteland [vassal letter],011,akk-x-mbperi:bēlu[lord]N akk-x-mbperi:ina[in]PRP akk-x-mbperi:waṣû[go-out]V
+aemw/amarna/P271093,EA 279. A wasteland [vassal letter],012,akk-x-mbperi:ša[of]DET akk-x-mbperi:Qiltu[Kegila]GN
+aemw/amarna/P271093,EA 279. A wasteland [vassal letter],013,akk-x-mbperi:ana[to]PRP akk-x-mbperi:muhhu[skull]N akk-x-mbperi:awīlu[man]N akk-x-mbperi:šāru[hostile]AJ
+aemw/amarna/P271093,EA 279. A wasteland [vassal letter],014,akk-x-mbperi:u[and]CNJ akk-x-mbperi:wašāru[sink-down]V akk-x-mbperi:šarru[king]N
+aemw/amarna/P271093,EA 279. A wasteland [vassal letter],015,akk-x-mbperi:ṣābu[people]N akk-x-mbperi:piṭṭātu[archers]N akk-x-mbperi:u[and]CNJ
+aemw/amarna/P271093,EA 279. A wasteland [vassal letter],016,akk-x-mbperi:šemû[hear]V akk-x-mbperi:šarru[king]N akk-x-mbperi:ana[to]PRP
+aemw/amarna/P271093,EA 279. A wasteland [vassal letter],017,akk-x-mbperi:awīlu[man]N akk-x-mbperi:hazannu[mayor]N
+aemw/amarna/P271093,EA 279. A wasteland [vassal letter],018,akk-x-mbperi:u[and]CNJ akk-x-mbperi:lū[let-it-be]MOD akk-x-mbperi:izuzzu[stand]V
+aemw/amarna/P271093,EA 279. A wasteland [vassal letter],019,akk-x-mbperi:eli[on]PRP akk-x-mbperi:u[and]CNJ akk-x-mbperi:lū[let-it-be]MOD
+aemw/amarna/P271093,EA 279. A wasteland [vassal letter],020,akk-x-mbperi:duppuru[move-away]V
+aemw/amarna/P271093,EA 279. A wasteland [vassal letter],021,akk-x-mbperi:awīlu[man]N akk-x-mbperi:šāru[hostile]AJ
+aemw/amarna/P271093,EA 279. A wasteland [vassal letter],022,akk-x-mbperi:ištu[from]PRP akk-x-mbperi:mātu[land]N akk-x-mbperi:šarru[king]N
+=======
+aemw/amarna/P271093,EA 279. A wasteland [vassal letter],001,akk-x-mbperi:šarru[king]N akk-x-mbperi:bēlu[lord]N
+aemw/amarna/P271093,EA 279. A wasteland [vassal letter],002,akk-x-mbperi:ilu[god]N
+aemw/amarna/P271093,EA 279. A wasteland [vassal letter],003,
+aemw/amarna/P271093,EA 279. A wasteland [vassal letter],004,
+aemw/amarna/P271093,EA 279. A wasteland [vassal letter],005,akk-x-mbperi:wardu[slave]N akk-x-mbperi:eperu[earth]N akk-x-mbperi:šēpu[foot]N
+aemw/amarna/P271093,EA 279. A wasteland [vassal letter],006,akk-x-mbperi:šēpu[foot]N akk-x-mbperi:šarru[king]N akk-x-mbperi:bēlu[lord]N
+aemw/amarna/P271093,EA 279. A wasteland [vassal letter],007,akk-x-mbperi:ilu[god]N
+aemw/amarna/P271093,EA 279. A wasteland [vassal letter],008,
+aemw/amarna/P271093,EA 279. A wasteland [vassal letter],009,akk-x-mbperi:šarru[king]N akk-x-mbperi:bēlu[lord]N
+aemw/amarna/P271093,EA 279. A wasteland [vassal letter],010,akk-x-mbperi:mātu[land]N akk-x-mbperi:šarru[king]N
+aemw/amarna/P271093,EA 279. A wasteland [vassal letter],011,akk-x-mbperi:bēlu[lord]N
+aemw/amarna/P271093,EA 279. A wasteland [vassal letter],012,
+aemw/amarna/P271093,EA 279. A wasteland [vassal letter],013,akk-x-mbperi:muhhu[skull]N akk-x-mbperi:awīlu[man]N
+aemw/amarna/P271093,EA 279. A wasteland [vassal letter],014,akk-x-mbperi:šarru[king]N
+aemw/amarna/P271093,EA 279. A wasteland [vassal letter],015,akk-x-mbperi:ṣābu[people]N akk-x-mbperi:piṭṭātu[archers]N
+aemw/amarna/P271093,EA 279. A wasteland [vassal letter],016,akk-x-mbperi:šarru[king]N
+aemw/amarna/P271093,EA 279. A wasteland [vassal letter],017,akk-x-mbperi:awīlu[man]N akk-x-mbperi:hazannu[mayor]N
+aemw/amarna/P271093,EA 279. A wasteland [vassal letter],018,
+aemw/amarna/P271093,EA 279. A wasteland [vassal letter],019,
+aemw/amarna/P271093,EA 279. A wasteland [vassal letter],020,
+aemw/amarna/P271093,EA 279. A wasteland [vassal letter],021,akk-x-mbperi:awīlu[man]N
+aemw/amarna/P271093,EA 279. A wasteland [vassal letter],022,akk-x-mbperi:mātu[land]N akk-x-mbperi:šarru[king]N
+>>>>>>> d524642d5275e5016007339cafda4e021ecb17ba

@@ -1,0 +1,7 @@
+id_text,text_name,version,l_no,text
+etcsri/Q004986,Ibbi-Suen 2052add,,i 1,sux:Ibbisuen[1]RN
+etcsri/Q004986,Ibbi-Suen 2052add,,i 2,sux:lugal[king]N sux:kalag[strong]V/i
+etcsri/Q004986,Ibbi-Suen 2052add,,i 3,sux:lugal[king]N sux:Urim[1]SN
+etcsri/Q004986,Ibbi-Suen 2052add,,ii 1,sux:Manumkišulgir[1]PN
+etcsri/Q004986,Ibbi-Suen 2052add,,ii 2,sux:dubsar[scribe]N
+etcsri/Q004986,Ibbi-Suen 2052add,,ii 3,sux:dumu[child]N sux:Iddi-X[1]PN

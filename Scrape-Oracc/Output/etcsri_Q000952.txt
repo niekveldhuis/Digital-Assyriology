@@ -1,0 +1,32 @@
+id_text,text_name,version,l_no,text
+etcsri/Q000952,Ur-Namma 28,,i 1,sux:Nanna[1]DN
+etcsri/Q000952,Ur-Namma 28,,i 2,sux:dumusaŋ[first-born]N sux:Enlil[1]DN
+etcsri/Q000952,Ur-Namma 28,,i 3,sux:lugal[king]N
+etcsri/Q000952,Ur-Namma 28,,i 4,sux:Urnammak[1]RN
+etcsri/Q000952,Ur-Namma 28,,i 5,sux:nita[male]N sux:kalag[strong]V/i
+etcsri/Q000952,Ur-Namma 28,,i 6,sux:lugal[king]N sux:Urim[1]SN
+etcsri/Q000952,Ur-Namma 28,,i 7,sux:lugal[king]N sux:Kiengir[1]GN sux:Akkad[1]GN
+etcsri/Q000952,Ur-Namma 28,,i 8,sux:ud[sun]N sux:e[house]N sux:Enlil[1]DN
+etcsri/Q000952,Ur-Namma 28,,i 9,sux:du[build]V/t
+etcsri/Q000952,Ur-Namma 28,,i 10,sux:id[river]N
+etcsri/Q000952,Ur-Namma 28,,i 11,sux:Nanna[1]DN sux:gugal[inspector]N sux:mu[name]N
+etcsri/Q000952,Ur-Namma 28,,i 12,sux:id[river]N sux:kisura[border]N
+etcsri/Q000952,Ur-Namma 28,,i 13,sux:bal[dig]V/t
+etcsri/Q000952,Ur-Namma 28,,i 14,sux:kun[tail]N sux:aʾabak[sea]N sux:la[stretch]V/t
+etcsri/Q000952,Ur-Namma 28,,i 15,sux:did[lawsuit]N sux:niŋgina[truth]N
+etcsri/Q000952,Ur-Namma 28,,i 16,sux:Utu[1]DN
+etcsri/Q000952,Ur-Namma 28,,i 17,sux:bar[outside]N sux:tam[clean]V/t
+etcsri/Q000952,Ur-Namma 28,,i 18,sux:inim[word]N sux:gin[establish]V/i
+etcsri/Q000952,Ur-Namma 28,,ii 1,sux:lu[person]N
+etcsri/Q000952,Ur-Namma 28,,ii 2,sux:Nanna[1]DN
+etcsri/Q000952,Ur-Namma 28,,ii 3,sux:kur[different]V/i
+etcsri/Q000952,Ur-Namma 28,,ii 4,sux:lugal[king]N sux:me[be]V/i
+etcsri/Q000952,Ur-Namma 28,,ii 5,sux:ensik[ruler]N sux:me[be]V/i
+etcsri/Q000952,Ur-Namma 28,,ii 6,sux:lu[person]N sux:aš[curse]N sux:dug[speak]V/t
+etcsri/Q000952,Ur-Namma 28,,ii 7,sux:Nanna[1]DN
+etcsri/Q000952,Ur-Namma 28,,ii 8,sux:me[be]V/i
+etcsri/Q000952,Ur-Namma 28,,ii 9,sux:kituš[dwelling]N sux:Nanna[1]DN
+etcsri/Q000952,Ur-Namma 28,,ii 10,sux:pel[defile]V/t
+etcsri/Q000952,Ur-Namma 28,,ii 11,sux:iri[city]N sux:sumur[roof]N
+etcsri/Q000952,Ur-Namma 28,,ii 12,sux:dag[leave]V/i
+etcsri/Q000952,Ur-Namma 28,,ii 13,sux:namtil[life]N sux:niŋgig[bad-thing]N

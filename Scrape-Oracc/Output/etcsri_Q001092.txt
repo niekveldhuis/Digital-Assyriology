@@ -1,0 +1,19 @@
+id_text,text_name,version,l_no,text
+etcsri/Q001092,En-metena 03,,i 1,sux:Inanak[1]DN
+etcsri/Q001092,En-metena 03,,i 2,sux:Lugalemuš[1]DN
+etcsri/Q001092,En-metena 03,,i 3,sux:Enmetenak[1]RN
+etcsri/Q001092,En-metena 03,,i 4,sux:ensik[ruler]N
+etcsri/Q001092,En-metena 03,,i 5,sux:Lagaš[1]SN
+etcsri/Q001092,En-metena 03,,i 6,sux:Emuš[1]TN sux:e[house]N sux:ki[place]N sux:aŋ[measure]V/t
+etcsri/Q001092,En-metena 03,,i 7,sux:du[build]V/t sux:du[build]V/t
+etcsri/Q001092,En-metena 03,,i 8,sux:kib[object]N sux:dug[speak]V/t sux:dug[speak]V/t
+etcsri/Q001092,En-metena 03,,i 9,sux:Enmetenak[1]RN
+etcsri/Q001092,En-metena 03,,ii 1,sux:lu[person]N sux:Emuš[1]TN sux:du[build]V/t
+etcsri/Q001092,En-metena 03,,ii 2,sux:diŋir[deity]N
+etcsri/Q001092,En-metena 03,,ii 3,sux:Šul-MUŠ×PA[1]DN
+etcsri/Q001092,En-metena 03,,ii 4,sux:ud[sun]N sux:Enmetenak[1]RN
+etcsri/Q001092,En-metena 03,,ii 5,sux:ensik[ruler]N
+etcsri/Q001092,En-metena 03,,ii 6,sux:Lagaš[1]SN
+etcsri/Q001092,En-metena 03,,ii 7,sux:Lugalkiŋenešdudud[1]RN
+etcsri/Q001092,En-metena 03,,ii 8,sux:ensik[ruler]N
+etcsri/Q001092,En-metena 03,,ii 9,sux:Unug[1]SN

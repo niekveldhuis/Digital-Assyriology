@@ -1,0 +1,4 @@
+id_text,text_name,version,l_no,text
+etcsri/Q001089,En-anatum I 16,,2',sux:Ayašurmen[1]PN
+etcsri/Q001089,En-anatum I 16,,3',sux:dam[spouse]N sux:Enanatum[1]RN
+etcsri/Q001089,En-anatum I 16,,4',sux:ensik[ruler]N

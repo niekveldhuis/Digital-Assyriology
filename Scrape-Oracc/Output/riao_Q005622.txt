@@ -1,0 +1,50 @@
+id_text,text_name,l_no,text
+riao/Q005622,Erišum I 02,1,Erišum_I[vice-regent-of-Aššur]RN
+riao/Q005622,Erišum I 02,2,iššiakku[city-ruler]N
+riao/Q005622,Erišum I 02,3,Aššur[1]DN
+riao/Q005622,Erišum I 02,4,māru[son]N Ilu-šuma[vice-regent-of-Aššur]RN
+riao/Q005622,Erišum I 02,5,iššiakku[city-ruler]N
+riao/Q005622,Erišum I 02,6,Aššur[1]DN
+riao/Q005622,Erišum I 02,7,bītu[house]N gimirtu[totality]N
+riao/Q005622,Erišum I 02,8,isāru[annexe]N
+riao/Q005622,Erišum I 02,9,ana[to]PRP Aššur[1]DN
+riao/Q005622,Erišum I 02,10,bēlu[lord]N
+riao/Q005622,Erišum I 02,11,ana[to]PRP balāṭu[life]N
+riao/Q005622,Erišum I 02,12,u[and]CNJ balāṭu[life]N
+riao/Q005622,Erišum I 02,13,ālu[city]N
+riao/Q005622,Erišum I 02,14,epēšu[do]V
+riao/Q005622,Erišum I 02,15,inūmē[when]SBJ qātu[hand]N
+riao/Q005622,Erišum I 02,16,ana[to]PRP ipšu[deed]N
+riao/Q005622,Erišum I 02,17,nadû[throw-(down)]V
+riao/Q005622,Erišum I 02,18,ālu[city]N ana[to]PRP pû[mouth]N
+riao/Q005622,Erišum I 02,19,wašābu[sit]V
+riao/Q005622,Erišum I 02,20,andurāru[freedom]N
+riao/Q005622,Erišum I 02,21,kaspu[silver]N hurāṣu[gold]N
+riao/Q005622,Erišum I 02,22,erû[copper]N annaku[tin]N šeʾu[barley]N
+riao/Q005622,Erišum I 02,23,šīpātu[wool]N adi[until]PRP idu[arm]N
+riao/Q005622,Erišum I 02,24,tuhhu[residue]N u[and]CNJ pû[chaff]N
+riao/Q005622,Erišum I 02,25,šakānu[put]V
+riao/Q005622,Erišum I 02,26,ina[in]PRP mimma[anything]XP
+riao/Q005622,Erišum I 02,27,igāru[wall]N
+riao/Q005622,Erišum I 02,28,himētu[butter]N u[and]CNJ dišpum[honey]N
+riao/Q005622,Erišum I 02,29,šiālu[coat]V
+riao/Q005622,Erišum I 02,30,tibku[course-of-bricks]N
+riao/Q005622,Erišum I 02,31,ištēn[one]NU
+riao/Q005622,Erišum I 02,32,tabāku[heap-up]V
+riao/Q005622,Erišum I 02,33,Aššur[1]DN bēlu[lord]N
+riao/Q005622,Erišum I 02,34,izuzzu[stand]V
+riao/Q005622,Erišum I 02,35,ištu[from]PRP Abul-ṣenim[Sheep-Gate]ON
+riao/Q005622,Erišum I 02,36,Abul-ṣenim[Sheep-Gate]ON adi[until]PRP
+riao/Q005622,Erišum I 02,37,Abul-niši[People´s-Gate]ON
+riao/Q005622,Erišum I 02,38,bītu[house]N
+riao/Q005622,Erišum I 02,39,nadû[throw-(down)]V abu[father]N
+riao/Q005622,Erišum I 02,40,dūru[(city)-wall]N eṣēru[draw]V
+riao/Q005622,Erišum I 02,41,ana[to]PRP mala[as-much-as]PRP
+riao/Q005622,Erišum I 02,42,ša[of]DET abu[father]N
+riao/Q005622,Erišum I 02,43,dūru[(city)-wall]N eliš[above]AV
+riao/Q005622,Erišum I 02,44,waṣābu[add]V
+riao/Q005622,Erišum I 02,45,ša[of]DET mimma[anything]XP liptu[undertaking]N
+riao/Q005622,Erišum I 02,46,ša[of]DET ṭuppu[tablet]N
+riao/Q005622,Erišum I 02,47,lā[not]MOD hiāṭu[supervise]V
+riao/Q005622,Erišum I 02,48,nasāku[throw-(down)]V
+riao/Q005622,Erišum I 02,49,Aššur[1]DN

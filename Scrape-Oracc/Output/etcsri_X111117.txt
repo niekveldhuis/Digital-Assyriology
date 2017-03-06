@@ -1,0 +1,10 @@
+id_text,text_name,version,l_no,text
+etcsri/X111117,Ur-Nanše 1 [E3/2.2.2.1],,1,sux:Nanše[1]DN
+etcsri/X111117,Ur-Nanše 1 [E3/2.2.2.1],,2,sux:nin[lady]N sux:urun[exalted]V/i
+etcsri/X111117,Ur-Nanše 1 [E3/2.2.2.1],,3,sux:namtil[life]N
+etcsri/X111117,Ur-Nanše 1 [E3/2.2.2.1],,4,sux:Urnanše[3]PN
+etcsri/X111117,Ur-Nanše 1 [E3/2.2.2.1],,5,sux:šennu[priest]N
+etcsri/X111117,Ur-Nanše 1 [E3/2.2.2.1],,6,sux:en[priest]N sux:ki[place]N sux:aŋ[measure]V/t
+etcsri/X111117,Ur-Nanše 1 [E3/2.2.2.1],,7,sux:Nanše[1]DN
+etcsri/X111117,Ur-Nanše 1 [E3/2.2.2.1],,8,sux:Urbauk[4]PN
+etcsri/X111117,Ur-Nanše 1 [E3/2.2.2.1],,x9,sux:u[and]CNJ sux:namtil[life]N

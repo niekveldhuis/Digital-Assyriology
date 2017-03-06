@@ -1,0 +1,565 @@
+id_text,text_name,l_no,text
+dcclt/P273880,CUSAS 12 3.1.01 [OB Ura],a i 5',allanum[oak]N
+dcclt/P273880,CUSAS 12 3.1.01 [OB Ura],a i 6',halub[tree]N
+dcclt/P273880,CUSAS 12 3.1.01 [OB Ura],a i 9',šimgig[tree]N
+dcclt/P273880,CUSAS 12 3.1.01 [OB Ura],a i 12',ŋeštin[vine]N
+dcclt/P273880,CUSAS 12 3.1.01 [OB Ura],a i 13',ŋeštinkira[berry]N
+dcclt/P273880,CUSAS 12 3.1.01 [OB Ura],a i 15',ŋeštinkaʾa[grape]N
+dcclt/P273880,CUSAS 12 3.1.01 [OB Ura],a i 16',ŋeštin[vine]N nim[high]V/i
+dcclt/P273880,CUSAS 12 3.1.01 [OB Ura],a i 17',ŋeštinguruma[~vine]N
+dcclt/P273880,CUSAS 12 3.1.01 [OB Ura],a i 18',ŋeštin[vine]N
+dcclt/P273880,CUSAS 12 3.1.01 [OB Ura],a i 42',šinig[tamarisk]N
+dcclt/P273880,CUSAS 12 3.1.01 [OB Ura],a i 43',šinig[tamarisk]N dili[single]V/i
+dcclt/P273880,CUSAS 12 3.1.01 [OB Ura],a i 44',asal[poplar]N
+dcclt/P273880,CUSAS 12 3.1.01 [OB Ura],a i 45',asal[poplar]N kur[mountain]N
+dcclt/P273880,CUSAS 12 3.1.01 [OB Ura],a i 46',asal[poplar]N dug[good]V/i
+dcclt/P273880,CUSAS 12 3.1.01 [OB Ura],a ii 1',apin[plow]N
+dcclt/P273880,CUSAS 12 3.1.01 [OB Ura],a ii 2',gag[nail]N apin[plow]N
+dcclt/P273880,CUSAS 12 3.1.01 [OB Ura],a ii 3',gag[nail]N apin[plow]N
+dcclt/P273880,CUSAS 12 3.1.01 [OB Ura],a ii 4',ninda[seed-funnel]N apin[plow]N
+dcclt/P273880,CUSAS 12 3.1.01 [OB Ura],a ii 5',dubla[tower]N apin[plow]N
+dcclt/P273880,CUSAS 12 3.1.01 [OB Ura],a ii 6',leʾum[board]N apin[plow]N
+dcclt/P273880,CUSAS 12 3.1.01 [OB Ura],a ii 7',gag[nail]N leʾum[board]N apin[plow]N
+dcclt/P273880,CUSAS 12 3.1.01 [OB Ura],a ii 8',da[side-board]N apin[plow]N
+dcclt/P273880,CUSAS 12 3.1.01 [OB Ura],a ii 9',a[arm]N apin[plow]N
+dcclt/P273880,CUSAS 12 3.1.01 [OB Ura],a ii 10',dam[~plow]N apin[plow]N
+dcclt/P273880,CUSAS 12 3.1.01 [OB Ura],a ii 11',damga[~plow]N apin[plow]N
+dcclt/P273880,CUSAS 12 3.1.01 [OB Ura],a ii 12',niŋkud[~plowshare]N apin[plow]N
+dcclt/P273880,CUSAS 12 3.1.01 [OB Ura],a ii 13',gag[nail]N apin[plow]N
+dcclt/P273880,CUSAS 12 3.1.01 [OB Ura],a ii 23',apin[plow]N
+dcclt/P273880,CUSAS 12 3.1.01 [OB Ura],a ii 24',apin[plow]N
+dcclt/P273880,CUSAS 12 3.1.01 [OB Ura],a ii 25',bandudu[basket]N apin[plow]N
+dcclt/P273880,CUSAS 12 3.1.01 [OB Ura],a ii 26',anzam[vessel]N apin[plow]N
+dcclt/P273880,CUSAS 12 3.1.01 [OB Ura],a ii 27',nig[~plow]N apin[plow]N
+dcclt/P273880,CUSAS 12 3.1.01 [OB Ura],a ii 28',šeršer[chain]N apin[plow]N
+dcclt/P273880,CUSAS 12 3.1.01 [OB Ura],a ii 29',utag[maul?]N apin[plow]N
+dcclt/P273880,CUSAS 12 3.1.01 [OB Ura],a ii 30',apin[plow]N tugsaga[plow]N
+dcclt/P273880,CUSAS 12 3.1.01 [OB Ura],a ii 32',apin[plow]N ki[place]N bala[turn]V/t
+dcclt/P273880,CUSAS 12 3.1.01 [OB Ura],a ii 33',apin[plow]N zir[break]V/t
+dcclt/P273880,CUSAS 12 3.1.01 [OB Ura],a ii 34',apin[plow]N kešed[bind]V/t
+dcclt/P273880,CUSAS 12 3.1.01 [OB Ura],a ii 35',apin[plow]N šudu[equipped]AJ
+dcclt/P273880,CUSAS 12 3.1.01 [OB Ura],a ii 45',zara[pivot]N gagsila[harness]N
+dcclt/P273880,CUSAS 12 3.1.01 [OB Ura],a ii 46',umbin[wheel]N gagsila[harness]N
+dcclt/P273880,CUSAS 12 3.1.01 [OB Ura],a ii 47',margida[cart]N
+dcclt/P273880,CUSAS 12 3.1.01 [OB Ura],a ii 48',margida[cart]N šudu[equipped]AJ
+dcclt/P273880,CUSAS 12 3.1.01 [OB Ura],a ii 49',margida[cart]N
+dcclt/P273880,CUSAS 12 3.1.01 [OB Ura],a iii 1',margida[cart]N
+dcclt/P273880,CUSAS 12 3.1.01 [OB Ura],a iii 2',kigub[station]N margida[cart]N
+dcclt/P273880,CUSAS 12 3.1.01 [OB Ura],a iii 3',manhara[vessel]N margida[cart]N
+dcclt/P273880,CUSAS 12 3.1.01 [OB Ura],a iii 4',kadu[cover]N margida[cart]N
+dcclt/P273880,CUSAS 12 3.1.01 [OB Ura],a iii 5',ŋirigub[footstool]N margida[cart]N
+dcclt/P273880,CUSAS 12 3.1.01 [OB Ura],a iii 6',ti[rib]N margida[cart]N
+dcclt/P273880,CUSAS 12 3.1.01 [OB Ura],a iii 7',endur[navel?]N margida[cart]N
+dcclt/P273880,CUSAS 12 3.1.01 [OB Ura],a iii 8',margida[cart]N
+dcclt/P273880,CUSAS 12 3.1.01 [OB Ura],a iii 9',gigir[chariot]N
+dcclt/P273880,CUSAS 12 3.1.01 [OB Ura],a iii 10',e[house]N gigir[chariot]N
+dcclt/P273880,CUSAS 12 3.1.01 [OB Ura],a iii 11',e[house]N usan[whip]N gigir[chariot]N
+dcclt/P273880,CUSAS 12 3.1.01 [OB Ura],a iii 12',gaba[chest]N gigir[chariot]N
+dcclt/P273880,CUSAS 12 3.1.01 [OB Ura],a iii 13',gabaŋal[guard]N gigir[chariot]N
+dcclt/P273880,CUSAS 12 3.1.01 [OB Ura],a iii 23',gigir[chariot]N
+dcclt/P273880,CUSAS 12 3.1.01 [OB Ura],a iii 24',u[planking]N ŋal[be]V/i gigir[chariot]N
+dcclt/P273880,CUSAS 12 3.1.01 [OB Ura],a iii 25',marhuša[stone]N gigir[chariot]N
+dcclt/P273880,CUSAS 12 3.1.01 [OB Ura],a iii 26',zara[pivot]N gigir[chariot]N
+dcclt/P273880,CUSAS 12 3.1.01 [OB Ura],a iii 27',šudul[yoke]N gigir[chariot]N
+dcclt/P273880,CUSAS 12 3.1.01 [OB Ura],a iii 28',gag[nail]N šudul[yoke]N gigir[chariot]N
+dcclt/P273880,CUSAS 12 3.1.01 [OB Ura],a iii 29',kadu[cover]N gigir[chariot]N
+dcclt/P273880,CUSAS 12 3.1.01 [OB Ura],a iii 30',umbin[wheel]N gigir[chariot]N
+dcclt/P273880,CUSAS 12 3.1.01 [OB Ura],a iii 31',kag[mouth]N umbin[wheel]N gigir[chariot]N
+dcclt/P273880,CUSAS 12 3.1.01 [OB Ura],a iii 32',sudin[~chariot]N gigir[chariot]N
+dcclt/P273880,CUSAS 12 3.1.01 [OB Ura],a iii 33',GUL[~chariot]N gigir[chariot]N
+dcclt/P273880,CUSAS 12 3.1.01 [OB Ura],a iii 34',GUL[~chariot]N gigir[chariot]N
+dcclt/P273880,CUSAS 12 3.1.01 [OB Ura],a iii 35',gigir[chariot]N
+dcclt/P273880,CUSAS 12 3.1.01 [OB Ura],a iii 39',ig[door]N
+dcclt/P273880,CUSAS 12 3.1.01 [OB Ura],a iii 40',ig[door]N i[oil]N
+dcclt/P273880,CUSAS 12 3.1.01 [OB Ura],a iii 41',ig[door]N šeš[anoint]V/t
+dcclt/P273880,CUSAS 12 3.1.01 [OB Ura],a iii 43',ig[door]N
+dcclt/P273880,CUSAS 12 3.1.01 [OB Ura],a iii 44',ig[door]N dib[board]N
+dcclt/P273880,CUSAS 12 3.1.01 [OB Ura],a iii 45',ig[door]N eren[cedar]N
+dcclt/P273880,CUSAS 12 3.1.01 [OB Ura],a iii 46',ig[door]N papah[cella]N
+dcclt/P273880,CUSAS 12 3.1.01 [OB Ura],a iii 47',ig[door]N
+dcclt/P273880,CUSAS 12 3.1.01 [OB Ura],a iii 48',ig[door]N esir[bitumen]N šub[fall]V/t
+dcclt/P273880,CUSAS 12 3.1.01 [OB Ura],a iii 49',ig[door]N ul[fruit]N du[build]V/t
+dcclt/P273880,CUSAS 12 3.1.01 [OB Ura],a iv 1',nukušu[~door]N
+dcclt/P273880,CUSAS 12 3.1.01 [OB Ura],a iv 2',nukušu[~door]N ana[upper]AJ
+dcclt/P273880,CUSAS 12 3.1.01 [OB Ura],a iv 3',nukušu[~door]N kita[lower]AJ
+dcclt/P273880,CUSAS 12 3.1.01 [OB Ura],a iv 4',nukušu[~door]N kešed[bind]V/t
+dcclt/P273880,CUSAS 12 3.1.01 [OB Ura],a iv 5',saŋkul[bolt]N
+dcclt/P273880,CUSAS 12 3.1.01 [OB Ura],a iv 6',saŋkul[bolt]N nim[high]V/i
+dcclt/P273880,CUSAS 12 3.1.01 [OB Ura],a iv 7',eš[rope]N saŋkul[bolt]N
+dcclt/P273880,CUSAS 12 3.1.01 [OB Ura],a iv 9',namzaqum[key]N
+dcclt/P273880,CUSAS 12 3.1.01 [OB Ura],a iv 10',e[house]N ur[root]N
+dcclt/P273880,CUSAS 12 3.1.01 [OB Ura],a iv 11',mud[tube]N
+dcclt/P273880,CUSAS 12 3.1.01 [OB Ura],a iv 12',gag[nail]N mud[tube]N
+dcclt/P273880,CUSAS 12 3.1.01 [OB Ura],a iv 13',mud[tube]N
+dcclt/P273880,CUSAS 12 3.1.01 [OB Ura],a iv 27',guza[chair]N munus[woman]N
+dcclt/P273880,CUSAS 12 3.1.01 [OB Ura],a iv 28',guza[chair]N nita[male]N
+dcclt/P273880,CUSAS 12 3.1.01 [OB Ura],a iv 29',guza[chair]N Aratta[1]SN
+dcclt/P273880,CUSAS 12 3.1.01 [OB Ura],a iv 30',guza[chair]N Magan[1]GN
+dcclt/P273880,CUSAS 12 3.1.01 [OB Ura],a iv 31',guza[chair]N malah[sailor]N
+dcclt/P273880,CUSAS 12 3.1.01 [OB Ura],a iv 32',guza[chair]N dus[bathroom]N
+dcclt/P273880,CUSAS 12 3.1.01 [OB Ura],a iv 33',guza[chair]N barag[sanctum]N
+dcclt/P273880,CUSAS 12 3.1.01 [OB Ura],a iv 34',guza[chair]N zag[side]N us[follow]V/t
+dcclt/P273880,CUSAS 12 3.1.01 [OB Ura],a iv 35',guza[chair]N šagkal[tree]N
+dcclt/P273880,CUSAS 12 3.1.01 [OB Ura],a iv 36',guza[chair]N gurum[bend]V/t
+dcclt/P273880,CUSAS 12 3.1.01 [OB Ura],a iv 37',guza[chair]N
+dcclt/P273880,CUSAS 12 3.1.01 [OB Ura],a iv 38',guza[chair]N
+dcclt/P273880,CUSAS 12 3.1.01 [OB Ura],a iv 39',guza[chair]N
+dcclt/P273880,CUSAS 12 3.1.01 [OB Ura],a iv 42',guza[chair]N ŋeškiŋti[workshop]N
+dcclt/P273880,CUSAS 12 3.1.01 [OB Ura],a iv 43',guza[chair]N sirda[cnne]N
+dcclt/P273880,CUSAS 12 3.1.01 [OB Ura],a iv 44',guza[chair]N kešed[bind]V/t
+dcclt/P273880,CUSAS 12 3.1.01 [OB Ura],a iv 45',guza[chair]N gid[long]V/i
+dcclt/P273880,CUSAS 12 3.1.01 [OB Ura],a iv 47',guza[chair]N egal[palace]N
+dcclt/P273880,CUSAS 12 3.1.01 [OB Ura],a iv 48',guza[chair]N šusar[string]N du[build]V/t
+dcclt/P273880,CUSAS 12 3.1.01 [OB Ura],a iv 49',guza[chair]N kadu[cover]N du[build]V/t
+dcclt/P273880,CUSAS 12 3.1.01 [OB Ura],a iv 50',guza[chair]N aški[rushes]N du[build]V/t
+dcclt/P273880,CUSAS 12 3.1.01 [OB Ura],a iv 51',guza[chair]N nud[to-lie-down-(of-people)]V/i du[build]V/t
+dcclt/P273880,CUSAS 12 3.1.01 [OB Ura],b i 2',lugal[king]N
+dcclt/P273880,CUSAS 12 3.1.01 [OB Ura],b i 3',guza[chair]N gidim[ghost]N
+dcclt/P273880,CUSAS 12 3.1.01 [OB Ura],b i 5',guza[chair]N namnin[ladyship]N
+dcclt/P273880,CUSAS 12 3.1.01 [OB Ura],b i 6',guza[chair]N
+dcclt/P273880,CUSAS 12 3.1.01 [OB Ura],b i 7',guza[chair]N
+dcclt/P273880,CUSAS 12 3.1.01 [OB Ura],b i 8',guza[chair]N mes[tree]N
+dcclt/P273880,CUSAS 12 3.1.01 [OB Ura],b i 9',guza[chair]N šah[pig]N šum[slaughter]V/t
+dcclt/P273880,CUSAS 12 3.1.01 [OB Ura],b i 10',guza[chair]N namlugal[kingship]N
+dcclt/P273880,CUSAS 12 3.1.01 [OB Ura],b i 11',guza[chair]N lukur[priestess]N
+dcclt/P273880,CUSAS 12 3.1.01 [OB Ura],b i 12',guza[chair]N namdumu[status]N
+dcclt/P273880,CUSAS 12 3.1.01 [OB Ura],b i 13',guza[chair]N anše[equid]N
+dcclt/P273880,CUSAS 12 3.1.01 [OB Ura],b i 14',guza[chair]N hašhur[apple]N
+dcclt/P273880,CUSAS 12 3.1.01 [OB Ura],b i 15',saŋ[head]N guza[chair]N
+dcclt/P273880,CUSAS 12 3.1.01 [OB Ura],b i 16',izzi[wall]N guza[chair]N
+dcclt/P273880,CUSAS 12 3.1.01 [OB Ura],b i 17',ŋešdi[rung]N guza[chair]N
+dcclt/P273880,CUSAS 12 3.1.01 [OB Ura],b i 18',umbin[base]N guza[chair]N
+dcclt/P273880,CUSAS 12 3.1.01 [OB Ura],b i 19',guza[chair]N kinud[bedroom]N
+dcclt/P273880,CUSAS 12 3.1.01 [OB Ura],b i 20',ŋešnud[bed]N
+dcclt/P273880,CUSAS 12 3.1.01 [OB Ura],b i 29',ŋešnud[bed]N
+dcclt/P273880,CUSAS 12 3.1.01 [OB Ura],b i 30',ŋešnud[bed]N
+dcclt/P273880,CUSAS 12 3.1.01 [OB Ura],b i 31',us[follow]V/t ŋešnud[bed]N
+dcclt/P273880,CUSAS 12 3.1.01 [OB Ura],b i 32',ŋešnud[bed]N gu[neck]N zig[rise]V/t
+dcclt/P273880,CUSAS 12 3.1.01 [OB Ura],b i 33',ŋešnud[bed]N umbin[nail]N gud[ox]N tur[small]V/i
+dcclt/P273880,CUSAS 12 3.1.01 [OB Ura],b i 34',ŋešnud[bed]N šagkal[tree]N
+dcclt/P273880,CUSAS 12 3.1.01 [OB Ura],b i 35',ŋešnud[bed]N taškarin[boxwood]N
+dcclt/P273880,CUSAS 12 3.1.01 [OB Ura],b i 36',ŋešnud[bed]N mes[tree]N
+dcclt/P273880,CUSAS 12 3.1.01 [OB Ura],b i 37',ŋešnud[bed]N
+dcclt/P273880,CUSAS 12 3.1.01 [OB Ura],b i 38',ŋešnud[bed]N dih[weed]N
+dcclt/P273880,CUSAS 12 3.1.01 [OB Ura],b i 39',ŋešnud[bed]N siki[hair]N uzud[goat]N sig[put]V/t
+dcclt/P273880,CUSAS 12 3.1.01 [OB Ura],b i 40',ŋešnud[bed]N šatuku[mattress]N siki[hair]N garig[comb]N ak[do]V/t
+dcclt/P273880,CUSAS 12 3.1.01 [OB Ura],b i 41',ŋešnud[bed]N šusar[string]N du[build]V/t
+dcclt/P273880,CUSAS 12 3.1.01 [OB Ura],b i 42',ŋešnud[bed]N aški[rushes]N du[build]V/t
+dcclt/P273880,CUSAS 12 3.1.01 [OB Ura],b i 43',ŋešnud[bed]N kuš[hide]N du[build]V/t
+dcclt/P273880,CUSAS 12 3.1.01 [OB Ura],b i 44',namulum[wooden-object]N
+dcclt/P273880,CUSAS 12 3.1.01 [OB Ura],b i 45',barbar[shuttle]N
+dcclt/P273880,CUSAS 12 3.1.01 [OB Ura],b i 47',saŋdu[beam]N
+dcclt/P273880,CUSAS 12 3.1.01 [OB Ura],b i 48',bulug[needle]N
+dcclt/P273880,CUSAS 12 3.1.01 [OB Ura],b i 49',bulug[needle]N
+dcclt/P273880,CUSAS 12 3.1.01 [OB Ura],b i 50',bulug[needle]N
+dcclt/P273880,CUSAS 12 3.1.01 [OB Ura],b i 51',targul[pole]N
+dcclt/P273880,CUSAS 12 3.1.01 [OB Ura],b i 52',targul[pole]N
+dcclt/P273880,CUSAS 12 3.1.01 [OB Ura],b i 53',ŋeš[tree]N ur[drag]V/t
+dcclt/P273880,CUSAS 12 3.1.01 [OB Ura],b i 54',nura[~loom]N
+dcclt/P273880,CUSAS 12 3.1.01 [OB Ura],b i 55',ilila[lever]N
+dcclt/P273880,CUSAS 12 3.1.01 [OB Ura],b i 56',dupsik[basket]N
+dcclt/P273880,CUSAS 12 3.1.01 [OB Ura],b i 57',dupsik[basket]N zala[smashed]N
+dcclt/P273880,CUSAS 12 3.1.01 [OB Ura],b i 58',balak[spindle]N
+dcclt/P273880,CUSAS 12 3.1.01 [OB Ura],b i 59',e[house]N balak[spindle]N
+dcclt/P273880,CUSAS 12 3.1.01 [OB Ura],b i 60',saŋ[head]N balak[spindle]N
+dcclt/P273880,CUSAS 12 3.1.01 [OB Ura],b ii 1,balak[spindle]N
+dcclt/P273880,CUSAS 12 3.1.01 [OB Ura],b ii 2,balak[spindle]N
+dcclt/P273880,CUSAS 12 3.1.01 [OB Ura],b ii 3,mete[appropriate-thing]N balak[spindle]N
+dcclt/P273880,CUSAS 12 3.1.01 [OB Ura],b ii 4,balak[spindle]N
+dcclt/P273880,CUSAS 12 3.1.01 [OB Ura],b ii 5,gilim[foliage]N ana[upper]AJ
+dcclt/P273880,CUSAS 12 3.1.01 [OB Ura],b ii 6,gilim[foliage]N abzu[water]N
+dcclt/P273880,CUSAS 12 3.1.01 [OB Ura],b ii 7,emerah[jug]N
+dcclt/P273880,CUSAS 12 3.1.01 [OB Ura],b ii 8,emerah[jug]N tu[soup]N
+dcclt/P273880,CUSAS 12 3.1.01 [OB Ura],b ii 9,emerah[jug]N ŋeštug[ear]N
+dcclt/P273880,CUSAS 12 3.1.01 [OB Ura],b ii 10,emerah[jug]N iŋeš[oil]N
+dcclt/P273880,CUSAS 12 3.1.01 [OB Ura],b ii 11,emerah[jug]N
+dcclt/P273880,CUSAS 12 3.1.01 [OB Ura],b ii 15,dilim[spoon]N
+dcclt/P273880,CUSAS 12 3.1.01 [OB Ura],b ii 16,dilim[spoon]N lamgal[nut]N
+dcclt/P273880,CUSAS 12 3.1.01 [OB Ura],b ii 18,maltum[bowl]N
+dcclt/P273880,CUSAS 12 3.1.01 [OB Ura],b ii 19,maštakda[wooden-object]N
+dcclt/P273880,CUSAS 12 3.1.01 [OB Ura],b ii 20,garig[comb]N
+dcclt/P273880,CUSAS 12 3.1.01 [OB Ura],b ii 21,garig[comb]N siki[hair]N
+dcclt/P273880,CUSAS 12 3.1.01 [OB Ura],b ii 22,garig[comb]N munus[woman]N
+dcclt/P273880,CUSAS 12 3.1.01 [OB Ura],b ii 23,garig[comb]N nita[male]N
+dcclt/P273880,CUSAS 12 3.1.01 [OB Ura],b ii 24,garig[comb]N eban[pair]N
+dcclt/P273880,CUSAS 12 3.1.01 [OB Ura],b ii 25,garig[comb]N pa[branch]N mušen[bird]N
+dcclt/P273880,CUSAS 12 3.1.01 [OB Ura],b ii 26,garig[comb]N saŋdu[head]N
+dcclt/P273880,CUSAS 12 3.1.01 [OB Ura],b ii 32,ba[tool]N
+dcclt/P273880,CUSAS 12 3.1.01 [OB Ura],b ii 33,ba[tool]N zu[stone]N
+dcclt/P273880,CUSAS 12 3.1.01 [OB Ura],b ii 34,ba[tool]N gur[unit]N
+dcclt/P273880,CUSAS 12 3.1.01 [OB Ura],b ii 35,ba[tool]N samag[birthmark]N
+dcclt/P273880,CUSAS 12 3.1.01 [OB Ura],b ii 36,ba[tool]N šidim[builder]N
+dcclt/P273880,CUSAS 12 3.1.01 [OB Ura],b ii 38,ban[unit]N u[ten]NU sila[unit]N
+dcclt/P273880,CUSAS 12 3.1.01 [OB Ura],b ii 39,ban[unit]N ya[five]NU sila[unit]N
+dcclt/P273880,CUSAS 12 3.1.01 [OB Ura],b ii 40,bariga[unit]N
+dcclt/P273880,CUSAS 12 3.1.01 [OB Ura],b ii 41,niŋ[thing]N baneš[container]N
+dcclt/P273880,CUSAS 12 3.1.01 [OB Ura],b ii 42,niŋ[thing]N eš[three]NU sila[unit]N
+dcclt/P273880,CUSAS 12 3.1.01 [OB Ura],b ii 43,ŋeš[tree]N diš[one]NU sila[unit]N
+dcclt/P273880,CUSAS 12 3.1.01 [OB Ura],b ii 44,ŋeš[tree]N sila[unit]N
+dcclt/P273880,CUSAS 12 3.1.01 [OB Ura],b ii 45,ŋeš[tree]N šušana[fraction]N sila[unit]N
+dcclt/P273880,CUSAS 12 3.1.01 [OB Ura],b ii 46,ŋeš[tree]N u[ten]NU giŋ[unit]N
+dcclt/P273880,CUSAS 12 3.1.01 [OB Ura],b ii 47,ŋeš[tree]N ya[five]NU giŋ[unit]N
+dcclt/P273880,CUSAS 12 3.1.01 [OB Ura],b ii 48,ŋeš[tree]N diš[one]NU giŋ[unit]N
+dcclt/P273880,CUSAS 12 3.1.01 [OB Ura],b ii 49,ŋeš[tree]N giŋ[unit]N
+dcclt/P273880,CUSAS 12 3.1.01 [OB Ura],b ii 53,epig[drinking-vessel]N
+dcclt/P273880,CUSAS 12 3.1.01 [OB Ura],b ii 54,epig[drinking-vessel]N
+dcclt/P273880,CUSAS 12 3.1.01 [OB Ura],b ii 55,epig[drinking-vessel]N
+dcclt/P273880,CUSAS 12 3.1.01 [OB Ura],b ii 56,epig[drinking-vessel]N
+dcclt/P273880,CUSAS 12 3.1.01 [OB Ura],b ii 57,epig[drinking-vessel]N diš[one]NU
+dcclt/P273880,CUSAS 12 3.1.01 [OB Ura],b ii 58,e[house]N epig[vessel]N
+dcclt/P273880,CUSAS 12 3.1.01 [OB Ura],b ii 59,laharuhšu[quiver-(for-chariot)]N
+dcclt/P273880,CUSAS 12 3.1.01 [OB Ura],b ii 60,banšur[table]N
+dcclt/P273880,CUSAS 12 3.1.01 [OB Ura],b ii 61,banšur[table]N urud[copper]N
+dcclt/P273880,CUSAS 12 3.1.01 [OB Ura],b ii 62,banšur[table]N sag[good]V/i
+dcclt/P273880,CUSAS 12 3.1.01 [OB Ura],b ii 63,banšur[table]N niŋgu[food]N
+dcclt/P273880,CUSAS 12 3.1.01 [OB Ura],b ii 64,banšur[table]N tur[small]V/i
+dcclt/P273880,CUSAS 12 3.1.01 [OB Ura],b ii 65,banšur[table]N gag[nail]N la[hang]V/t
+dcclt/P273880,CUSAS 12 3.1.01 [OB Ura],b ii 66,banšurzaggula[table]N
+dcclt/P273880,CUSAS 12 3.1.01 [OB Ura],b ii 67,banšur[table]N murzanum[wooden-object]N
+dcclt/P273880,CUSAS 12 3.1.01 [OB Ura],b ii 68,banšur[table]N kamisarru[pear-tree]N umbin[base]N tiʾarum[tree]N
+dcclt/P273880,CUSAS 12 3.1.01 [OB Ura],b iii 1,banšur[table]N kamisarru[pear-tree]N umbin[base]N urzinum[tree]N
+dcclt/P273880,CUSAS 12 3.1.01 [OB Ura],b iii 2,dilim[spoon]N banšur[table]N
+dcclt/P273880,CUSAS 12 3.1.01 [OB Ura],b iii 3,umbin[base]N banšur[table]N
+dcclt/P273880,CUSAS 12 3.1.01 [OB Ura],b iii 4,sumur[roof]N banšur[table]N
+dcclt/P273880,CUSAS 12 3.1.01 [OB Ura],b iii 5,sumur[roof]N banšur[table]N
+dcclt/P273880,CUSAS 12 3.1.01 [OB Ura],b iii 6,masharum[~kitchen]N
+dcclt/P273880,CUSAS 12 3.1.01 [OB Ura],b iii 7,kaŋeškarak[table]N
+dcclt/P273880,CUSAS 12 3.1.01 [OB Ura],b iii 8,kaŋeškarak[table]N munus[woman]N
+dcclt/P273880,CUSAS 12 3.1.01 [OB Ura],b iii 9,kaŋeškarak[table]N nita[male]N
+dcclt/P273880,CUSAS 12 3.1.01 [OB Ura],b iii 10,kaŋeškarak[table]N urud[copper]N
+dcclt/P273880,CUSAS 12 3.1.01 [OB Ura],b iii 11,kaŋeškarak[table]N
+dcclt/P273880,CUSAS 12 3.1.01 [OB Ura],b iii 12,naŋa[mortar]N
+dcclt/P273880,CUSAS 12 3.1.01 [OB Ura],b iii 13,naŋa[mortar]N še[barley]N
+dcclt/P273880,CUSAS 12 3.1.01 [OB Ura],b iii 14,naŋa[mortar]N ŋeši[sesame]N
+dcclt/P273880,CUSAS 12 3.1.01 [OB Ura],b iii 15,naŋasikaz[pestle]N
+dcclt/P273880,CUSAS 12 3.1.01 [OB Ura],b iii 16,tukul[weapon]N naŋasikaz[pestle]N
+dcclt/P273880,CUSAS 12 3.1.01 [OB Ura],b iii 17,ŋešgana[pestle]N
+dcclt/P273880,CUSAS 12 3.1.01 [OB Ura],b iii 18,hedu[ornament]N
+dcclt/P273880,CUSAS 12 3.1.01 [OB Ura],b iii 19,hedu[ornament]N kan[gate]N
+dcclt/P273880,CUSAS 12 3.1.01 [OB Ura],b iii 20,isimu[sprout]N
+dcclt/P273880,CUSAS 12 3.1.01 [OB Ura],b iii 21,mar[shovel]N
+dcclt/P273880,CUSAS 12 3.1.01 [OB Ura],b iii 22,mar[shovel]N še[barley]N
+dcclt/P273880,CUSAS 12 3.1.01 [OB Ura],b iii 23,mar[shovel]N ninda[bread]N
+dcclt/P273880,CUSAS 12 3.1.01 [OB Ura],b iii 24,mar[shovel]N gir[oven]N
+dcclt/P273880,CUSAS 12 3.1.01 [OB Ura],b iii 25,mar[shovel]N
+dcclt/P273880,CUSAS 12 3.1.01 [OB Ura],b iii 31,mar[shovel]N
+dcclt/P273880,CUSAS 12 3.1.01 [OB Ura],b iii 32,dilim[spoon]N mar[shovel]N
+dcclt/P273880,CUSAS 12 3.1.01 [OB Ura],b iii 33,mar[shovel]N
+dcclt/P273880,CUSAS 12 3.1.01 [OB Ura],b iii 34,eme[tongue]N mar[shovel]N
+dcclt/P273880,CUSAS 12 3.1.01 [OB Ura],b iii 35,al[hoe]N
+dcclt/P273880,CUSAS 12 3.1.01 [OB Ura],b iii 36,al[hoe]N zu[tooth]N
+dcclt/P273880,CUSAS 12 3.1.01 [OB Ura],b iii 37,al[hoe]N zu[tooth]N min[two]NU
+dcclt/P273880,CUSAS 12 3.1.01 [OB Ura],b iii 38,al[hoe]N zu[tooth]N eš[three]NU
+dcclt/P273880,CUSAS 12 3.1.01 [OB Ura],b iii 39,al[hoe]N zu[tooth]N limmu[four]NU
+dcclt/P273880,CUSAS 12 3.1.01 [OB Ura],b iii 40,ušub[brick-mold]N
+dcclt/P273880,CUSAS 12 3.1.01 [OB Ura],b iii 41,ušub[brick-mold]N ab[window]N
+dcclt/P273880,CUSAS 12 3.1.01 [OB Ura],b iii 42,ušub[brick-mold]N šeg[brick]N
+dcclt/P273880,CUSAS 12 3.1.01 [OB Ura],b iii 43,ušub[brick-mold]N šeg[brick]N alura[baked]AJ
+dcclt/P273880,CUSAS 12 3.1.01 [OB Ura],b iii 44,alŋar[instrument]N
+dcclt/P273880,CUSAS 12 3.1.01 [OB Ura],b iii 45,alŋarsur[drumstick]N
+dcclt/P273880,CUSAS 12 3.1.01 [OB Ura],b iii 46,lubi[ax]N
+dcclt/P273880,CUSAS 12 3.1.01 [OB Ura],b iii 47,lubi[ax]N
+dcclt/P273880,CUSAS 12 3.1.01 [OB Ura],b iii 48,illar[weapon]N
+dcclt/P273880,CUSAS 12 3.1.01 [OB Ura],b iii 49,illar[weapon]N
+dcclt/P273880,CUSAS 12 3.1.01 [OB Ura],b iii 50,illar[weapon]N eban[pair]N
+dcclt/P273880,CUSAS 12 3.1.01 [OB Ura],b iii 51,illar[weapon]N pa[branch]N mušen[bird]N
+dcclt/P273880,CUSAS 12 3.1.01 [OB Ura],b iii 52,tilpanum[bow]N
+dcclt/P273880,CUSAS 12 3.1.01 [OB Ura],b iii 57,sug[empty]V/i
+dcclt/P273880,CUSAS 12 3.1.01 [OB Ura],b iii 58,sigsig[musical-instrument]N
+dcclt/P273880,CUSAS 12 3.1.01 [OB Ura],b iii 59,sigsig[musical-instrument]N eban[pair]N
+dcclt/P273880,CUSAS 12 3.1.01 [OB Ura],b iii 60,sigsig[musical-instrument]N pa[branch]N mušen[bird]N
+dcclt/P273880,CUSAS 12 3.1.01 [OB Ura],b iii 61,niŋ[thing]N bur[grass]N
+dcclt/P273880,CUSAS 12 3.1.01 [OB Ura],b iii 62,dagsi[hook]N
+dcclt/P273880,CUSAS 12 3.1.01 [OB Ura],b iii 63,dagsi[hook]N eban[pair]N
+dcclt/P273880,CUSAS 12 3.1.01 [OB Ura],b iii 64,dagsi[hook]N pa[branch]N mušen[bird]N
+dcclt/P273880,CUSAS 12 3.1.01 [OB Ura],b iv 1,dim[post]N
+dcclt/P273880,CUSAS 12 3.1.01 [OB Ura],b iv 2,dim[post]N maršum[bed]N
+dcclt/P273880,CUSAS 12 3.1.01 [OB Ura],b iv 3,zamin[lyre]N
+dcclt/P273880,CUSAS 12 3.1.01 [OB Ura],b iv 4,dub[tablet]N zamin[lyre]N
+dcclt/P273880,CUSAS 12 3.1.01 [OB Ura],b iv 5,kul[handle]N zamin[lyre]N
+dcclt/P273880,CUSAS 12 3.1.01 [OB Ura],b iv 6,ama[mother]N zamin[lyre]N
+dcclt/P273880,CUSAS 12 3.1.01 [OB Ura],b iv 7,ŋeštug[ear]N zamin[lyre]N
+dcclt/P273880,CUSAS 12 3.1.01 [OB Ura],b iv 9,ŋešgudi[instrument]N
+dcclt/P273880,CUSAS 12 3.1.01 [OB Ura],b iv 10,tigidlu[instrument]N
+dcclt/P273880,CUSAS 12 3.1.01 [OB Ura],b iv 11,tigidlu[instrument]N kaskal[way]N
+dcclt/P273880,CUSAS 12 3.1.01 [OB Ura],b iv 12,tigidlu[instrument]N
+dcclt/P273880,CUSAS 12 3.1.01 [OB Ura],b iv 14,balaŋ[instrument]N Išbi-Erra[1]PN
+dcclt/P273880,CUSAS 12 3.1.01 [OB Ura],b iv 15,balaŋ[instrument]N
+dcclt/P273880,CUSAS 12 3.1.01 [OB Ura],b iv 18,urzababitum[instrument]N
+dcclt/P273880,CUSAS 12 3.1.01 [OB Ura],b iv 20,sansanum[reed-object]N
+dcclt/P273880,CUSAS 12 3.1.01 [OB Ura],b iv 21,zanarum[lyre]N
+dcclt/P273880,CUSAS 12 3.1.01 [OB Ura],b iv 22,harmušen[snare]N
+dcclt/P273880,CUSAS 12 3.1.01 [OB Ura],b iv 23,ŋidru[scepter]N harmušen[snare]N
+dcclt/P273880,CUSAS 12 3.1.01 [OB Ura],b iv 24,gur[rim]N harmušen[snare]N
+dcclt/P273880,CUSAS 12 3.1.01 [OB Ura],b iv 31,ešgiri[staff]N
+dcclt/P273880,CUSAS 12 3.1.01 [OB Ura],b iv 32,uluh[sapling]N
+dcclt/P273880,CUSAS 12 3.1.01 [OB Ura],b iv 33,u[planking]N sikil[pure]V/i
+dcclt/P273880,CUSAS 12 3.1.01 [OB Ura],b iv 34,igiŋal[sign]N
+dcclt/P273880,CUSAS 12 3.1.01 [OB Ura],b iv 35,ligima[shoot]N
+dcclt/P273880,CUSAS 12 3.1.01 [OB Ura],b iv 36,kuŋ[stair]N
+dcclt/P273880,CUSAS 12 3.1.01 [OB Ura],b iv 37,kuŋ[stair]N bad[wall]N
+dcclt/P273880,CUSAS 12 3.1.01 [OB Ura],b iv 38,kuŋ[stair]N me[Being]N du[suitable]V/i
+dcclt/P273880,CUSAS 12 3.1.01 [OB Ura],b iv 39,u[planking]N kuŋ[stair]N
+dcclt/P273880,CUSAS 12 3.1.01 [OB Ura],b iv 40,tibala[sign]N
+dcclt/P273880,CUSAS 12 3.1.01 [OB Ura],b iv 41,gi[reed]N šudu[equipped]AJ
+dcclt/P273880,CUSAS 12 3.1.01 [OB Ura],b iv 42,niŋna[incense]N mud[blood]N
+dcclt/P273880,CUSAS 12 3.1.01 [OB Ura],b iv 43,arina[root]N
+dcclt/P273880,CUSAS 12 3.1.01 [OB Ura],b iv 44,arina[root]N
+dcclt/P273880,CUSAS 12 3.1.01 [OB Ura],b iv 45,gag[nail]N dud[mound]N bal[dig]V/t
+dcclt/P273880,CUSAS 12 3.1.01 [OB Ura],b iv 46,gag[nail]N šum[garlic]N širdili[~garlic]N
+dcclt/P273880,CUSAS 12 3.1.01 [OB Ura],b iv 47,kakaku[profession]N
+dcclt/P273880,CUSAS 12 3.1.01 [OB Ura],b iv 48,kakaku[profession]N mu[grow]V/t
+dcclt/P273880,CUSAS 12 3.1.01 [OB Ura],b iv 49,pana[bow]N
+dcclt/P273880,CUSAS 12 3.1.01 [OB Ura],b iv 50,kakpana[arrow]N
+dcclt/P273880,CUSAS 12 3.1.01 [OB Ura],b iv 51,gagsisa[arrow]N
+dcclt/P273880,CUSAS 12 3.1.01 [OB Ura],b iv 52,gag[nail]N
+dcclt/P273880,CUSAS 12 3.1.01 [OB Ura],b iv 55,zamrutum[lance]N
+dcclt/P273880,CUSAS 12 3.1.01 [OB Ura],b iv 56,katapum[object]N
+dcclt/P273880,CUSAS 12 3.1.01 [OB Ura],b iv 57,negipum[tool]N
+dcclt/P273880,CUSAS 12 3.1.01 [OB Ura],b iv 58,masatum[lance?]N
+dcclt/P273880,CUSAS 12 3.1.01 [OB Ura],b iv 59,magšarum[battleaxe]N
+dcclt/P273880,CUSAS 12 3.1.01 [OB Ura],b iv 60,sadum[container]N
+dcclt/P273880,CUSAS 12 3.1.01 [OB Ura],b iv 61,eškiri[rope]N
+dcclt/P273880,CUSAS 12 3.1.01 [OB Ura],b iv 62,gag[nail]N eškiri[rope]N
+dcclt/P273880,CUSAS 12 3.1.01 [OB Ura],b iv 63,šibir[staff]N
+dcclt/P273880,CUSAS 12 3.1.01 [OB Ura],c i 1,gag[nail]N šibir[staff]N
+dcclt/P273880,CUSAS 12 3.1.01 [OB Ura],c i 2,siŋar[bolt]N
+dcclt/P273880,CUSAS 12 3.1.01 [OB Ura],c i 3,gag[nail]N siŋar[bolt]N
+dcclt/P273880,CUSAS 12 3.1.01 [OB Ura],c i 4,usakar[moon]N
+dcclt/P273880,CUSAS 12 3.1.01 [OB Ura],c i 5,gag[nail]N usakar[moon]N
+dcclt/P273880,CUSAS 12 3.1.01 [OB Ura],c i 6,kan[gate]N
+dcclt/P273880,CUSAS 12 3.1.01 [OB Ura],c i 7,gag[nail]N kan[gate]N
+dcclt/P273880,CUSAS 12 3.1.01 [OB Ura],c i 8,tukul[weapon]N
+dcclt/P273880,CUSAS 12 3.1.01 [OB Ura],c i 9,tukul[weapon]N šu[hand]N
+dcclt/P273880,CUSAS 12 3.1.01 [OB Ura],c i 10,tukul[weapon]N ur[root]N
+dcclt/P273880,CUSAS 12 3.1.01 [OB Ura],c i 11,tukul[weapon]N mitum[weapon]N
+dcclt/P273880,CUSAS 12 3.1.01 [OB Ura],c i 12,tukul[weapon]N Damu[1]DN
+dcclt/P273880,CUSAS 12 3.1.01 [OB Ura],c i 13,tukul[weapon]N Inana[1]DN
+dcclt/P273880,CUSAS 12 3.1.01 [OB Ura],c i 14,tukul[weapon]N imin[seven]NU
+dcclt/P273880,CUSAS 12 3.1.01 [OB Ura],c i 15,tukul[weapon]N
+dcclt/P273880,CUSAS 12 3.1.01 [OB Ura],c i 16,tukul[weapon]N
+dcclt/P273880,CUSAS 12 3.1.01 [OB Ura],c i 17,niŋgul[hatchet]N
+dcclt/P273880,CUSAS 12 3.1.01 [OB Ura],c i 18,niŋgul[hatchet]N
+dcclt/P273880,CUSAS 12 3.1.01 [OB Ura],c i 19,niŋgul[hatchet]N šu[hand]N
+dcclt/P273880,CUSAS 12 3.1.01 [OB Ura],c i 20,alal[tube]N
+dcclt/P273880,CUSAS 12 3.1.01 [OB Ura],c i 21,dur[board]N
+dcclt/P273880,CUSAS 12 3.1.01 [OB Ura],c i 22,dur[board]N ab[window]N
+dcclt/P273880,CUSAS 12 3.1.01 [OB Ura],c i 23,dur[board]N bisaŋ[basket]N
+dcclt/P273880,CUSAS 12 3.1.01 [OB Ura],c i 24,dur[board]N bisaŋ[basket]N gi[reed]N
+dcclt/P273880,CUSAS 12 3.1.01 [OB Ura],c i 25,dur[board]N šeg[brick]N
+dcclt/P273880,CUSAS 12 3.1.01 [OB Ura],c i 26,dur[board]N šeg[brick]N alura[baked]AJ
+dcclt/P273880,CUSAS 12 3.1.01 [OB Ura],c i 30,dur[board]N ešŋar[part-of-a-loom]N
+dcclt/P273880,CUSAS 12 3.1.01 [OB Ura],c i 31,bar[outside]V/t ešŋar[part-of-a-loom]N
+dcclt/P273880,CUSAS 12 3.1.01 [OB Ura],c i 33,raba[clamp]N
+dcclt/P273880,CUSAS 12 3.1.01 [OB Ura],c i 34,guru[store]N
+dcclt/P273880,CUSAS 12 3.1.01 [OB Ura],c i 35,anše[equid]N
+dcclt/P273880,CUSAS 12 3.1.01 [OB Ura],c i 36,kiri[nose]N gud[ox]N
+dcclt/P273880,CUSAS 12 3.1.01 [OB Ura],c i 37,kul[handle]N
+dcclt/P273880,CUSAS 12 3.1.01 [OB Ura],c i 39,KID.da[twig]N
+dcclt/P273880,CUSAS 12 3.1.01 [OB Ura],c i 40,KID.da[twig]N
+dcclt/P273880,CUSAS 12 3.1.01 [OB Ura],c i 41,KID.da[twig]N sil[split]V/i
+dcclt/P273880,CUSAS 12 3.1.01 [OB Ura],c i 42,emarru[quiver]N
+dcclt/P273880,CUSAS 12 3.1.01 [OB Ura],c i 43,emesig[plank]N
+dcclt/P273880,CUSAS 12 3.1.01 [OB Ura],c i 44,miriza[plank]N
+dcclt/P273880,CUSAS 12 3.1.01 [OB Ura],c i 45,ŋešpu[rim]N
+dcclt/P273880,CUSAS 12 3.1.01 [OB Ura],c i 46,sahargid[roller]N
+dcclt/P273880,CUSAS 12 3.1.01 [OB Ura],c i 47,zena[weapon]N mah[great]V/i
+dcclt/P273880,CUSAS 12 3.1.01 [OB Ura],c i 48,gud.si.AŠ[ram]N
+dcclt/P273880,CUSAS 12 3.1.01 [OB Ura],c i 49,zu[tooth]N gud.si.AŠ[ram]N
+dcclt/P273880,CUSAS 12 3.1.01 [OB Ura],c i 50,ŋešpu[rim]N gud.si.AŠ[ram]N
+dcclt/P273880,CUSAS 12 3.1.01 [OB Ura],c i 52,gu[eat]V/t
+dcclt/P273880,CUSAS 12 3.1.01 [OB Ura],c i 53,gu[eat]V/t
+dcclt/P273880,CUSAS 12 3.1.01 [OB Ura],c i 56,anzagar[tower]N
+dcclt/P273880,CUSAS 12 3.1.01 [OB Ura],c i 57,gimuš[pole]N
+dcclt/P273880,CUSAS 12 3.1.01 [OB Ura],c i 58,gimuš[pole]N
+dcclt/P273880,CUSAS 12 3.1.01 [OB Ura],c i 59,zigan[rudder]N
+dcclt/P273880,CUSAS 12 3.1.01 [OB Ura],c i 60,dilim[spoon]N zigan[rudder]N
+dcclt/P273880,CUSAS 12 3.1.01 [OB Ura],c ii 1,ŋisal[rudder]N
+dcclt/P273880,CUSAS 12 3.1.01 [OB Ura],c ii 2,ŋisal[rudder]N šu[hand]N
+dcclt/P273880,CUSAS 12 3.1.01 [OB Ura],c ii 3,ŋisal[rudder]N ŋiri[foot]N
+dcclt/P273880,CUSAS 12 3.1.01 [OB Ura],c ii 4,dilim[spoon]N ŋisal[rudder]N
+dcclt/P273880,CUSAS 12 3.1.01 [OB Ura],c ii 5,ma[ship]N
+dcclt/P273880,CUSAS 12 3.1.01 [OB Ura],c ii 6,e[house]N ma[ship]N
+dcclt/P273880,CUSAS 12 3.1.01 [OB Ura],c ii 7,ad[log]N ma[ship]N
+dcclt/P273880,CUSAS 12 3.1.01 [OB Ura],c ii 8,si[horn]N ma[ship]N
+dcclt/P273880,CUSAS 12 3.1.01 [OB Ura],c ii 9,tug[textile]N ma[ship]N
+dcclt/P273880,CUSAS 12 3.1.01 [OB Ura],c ii 10,murgu[shoulder]N ma[ship]N
+dcclt/P273880,CUSAS 12 3.1.01 [OB Ura],c ii 11,egir[back]N ma[ship]N
+dcclt/P273880,CUSAS 12 3.1.01 [OB Ura],c ii 12,egar[wall]N ma[ship]N
+dcclt/P273880,CUSAS 12 3.1.01 [OB Ura],c ii 13,magur[barge]N
+dcclt/P273880,CUSAS 12 3.1.01 [OB Ura],c ii 14,ma[ship]N tur[small]V/i
+dcclt/P273880,CUSAS 12 3.1.01 [OB Ura],c ii 15,mete[appropriate-thing]N ma[ship]N
+dcclt/P273880,CUSAS 12 3.1.01 [OB Ura],c ii 16,madu[~boat]N
+dcclt/P273880,CUSAS 12 3.1.01 [OB Ura],c ii 17,ma[ship]N gal[big]V/i
+dcclt/P273880,CUSAS 12 3.1.01 [OB Ura],c ii 18,ma[ship]N Mari[1]SN
+dcclt/P273880,CUSAS 12 3.1.01 [OB Ura],c ii 19,ma[ship]N šukud[fisherman]N
+dcclt/P273880,CUSAS 12 3.1.01 [OB Ura],c ii 20,ma[ship]N laga[slag]N
+dcclt/P273880,CUSAS 12 3.1.01 [OB Ura],c ii 21,magaz[bench]N
+dcclt/P273880,CUSAS 12 3.1.01 [OB Ura],c ii 22,magaz[bench]N burud[perforate]V/t
+dcclt/P273880,CUSAS 12 3.1.01 [OB Ura],c ii 23,ma[ship]N
+dcclt/P273880,CUSAS 12 3.1.01 [OB Ura],c ii 24,ma[ship]N peš[thick]V/i
+dcclt/P273880,CUSAS 12 3.1.01 [OB Ura],c ii 26,ma[ship]N ŋeš[tree]N
+dcclt/P273880,CUSAS 12 3.1.01 [OB Ura],c ii 27,ma[ship]N ŋeš[sixty]NU gur[unit]N
+dcclt/P273880,CUSAS 12 3.1.01 [OB Ura],c ii 28,ma[ship]N ninnu[fifty]NU gur[unit]N
+dcclt/P273880,CUSAS 12 3.1.01 [OB Ura],c ii 29,ma[ship]N nimin[forty]NU gur[unit]N
+dcclt/P273880,CUSAS 12 3.1.01 [OB Ura],c ii 30,ma[ship]N ušu[thirty]NU gur[unit]N
+dcclt/P273880,CUSAS 12 3.1.01 [OB Ura],c ii 31,ma[ship]N niš[twenty]NU gur[unit]N
+dcclt/P273880,CUSAS 12 3.1.01 [OB Ura],c ii 32,ma[ship]N gur[unit]N
+dcclt/P273880,CUSAS 12 3.1.01 [OB Ura],c ii 33,ma[ship]N u[ten]NU gur[unit]N
+dcclt/P273880,CUSAS 12 3.1.01 [OB Ura],c ii 34,maʾaddir[ferryboat]N
+dcclt/P273880,CUSAS 12 3.1.01 [OB Ura],c ii 35,Madurahabzu[1]ON
+dcclt/P273880,CUSAS 12 3.1.01 [OB Ura],c ii 38,ma[ship]N
+dcclt/P273880,CUSAS 12 3.1.01 [OB Ura],c ii 39,gag[nail]N ma[ship]N
+dcclt/P273880,CUSAS 12 3.1.01 [OB Ura],c ii 40,ma[ship]N harran[route]N
+dcclt/P273880,CUSAS 12 3.1.01 [OB Ura],c ii 41,ma[ship]N innu[straw]N
+dcclt/P273880,CUSAS 12 3.1.01 [OB Ura],c ii 42,ma[ship]N id[river]N
+dcclt/P273880,CUSAS 12 3.1.01 [OB Ura],c ii 43,šita[weapon]N ma[ship]N
+dcclt/P273880,CUSAS 12 3.1.01 [OB Ura],c ii 44,u[ride]V/t ma[ship]N
+dcclt/P273880,CUSAS 12 3.1.01 [OB Ura],c ii 45,ma[ship]N
+dcclt/P273880,CUSAS 12 3.1.01 [OB Ura],c ii 46,emesig[plank]N ma[ship]N
+dcclt/P273880,CUSAS 12 3.1.01 [OB Ura],c ii 47,ŋiškim[sign]N
+dcclt/P273880,CUSAS 12 3.1.01 [OB Ura],c ii 48,ŋiškim[sign]N
+dcclt/P273880,CUSAS 12 3.1.01 [OB Ura],c ii 49,šerah[shovel]N
+dcclt/P273880,CUSAS 12 3.1.01 [OB Ura],c ii 50,ubila[charcoal]N
+dcclt/P273880,CUSAS 12 3.1.01 [OB Ura],c ii 52,kuŋ[stair]N
+dcclt/P273880,CUSAS 12 3.1.01 [OB Ura],c ii 53,aga[ax]N
+dcclt/P273880,CUSAS 12 3.1.01 [OB Ura],c ii 54,aga[ax]N
+dcclt/P273880,CUSAS 12 3.1.01 [OB Ura],c ii 55,ŋešnimbar[palm]N
+dcclt/P273880,CUSAS 12 3.1.01 [OB Ura],c ii 56,ŋešnimbar[palm]N kur[mountain]N
+dcclt/P273880,CUSAS 12 3.1.01 [OB Ura],c ii 57,ŋešnimbar[palm]N suhuš[offshoot]N
+dcclt/P273880,CUSAS 12 3.1.01 [OB Ura],c ii 58,ŋešnimbar[palm]N dar[split]V/t
+dcclt/P273880,CUSAS 12 3.1.01 [OB Ura],c ii 59,ŋešnimbar[palm]N kud[cut]V/t
+dcclt/P273880,CUSAS 12 3.1.01 [OB Ura],c ii 60,ŋešnimbar[palm]N uš[die]V/i
+dcclt/P273880,CUSAS 12 3.1.01 [OB Ura],c iii 3,lipiš[innards]N ŋešnimbar[palm]N
+dcclt/P273880,CUSAS 12 3.1.01 [OB Ura],c iii 4,ŋešnimbar[palm]N
+dcclt/P273880,CUSAS 12 3.1.01 [OB Ura],c iii 5,dala[thorn]N ŋešnimbar[palm]N
+dcclt/P273880,CUSAS 12 3.1.01 [OB Ura],c iii 6,zena[midrib]N ŋešnimbar[palm]N
+dcclt/P273880,CUSAS 12 3.1.01 [OB Ura],c iii 7,mud[stump]N ŋešnimbar[palm]N
+dcclt/P273880,CUSAS 12 3.1.01 [OB Ura],c iii 8,pa[branch]N kud[cut]V/t ŋešnimbar[palm]N
+dcclt/P273880,CUSAS 12 3.1.01 [OB Ura],c iii 9,ŋešnimbar[palm]N
+dcclt/P273880,CUSAS 12 3.1.01 [OB Ura],c iii 10,hara[shoot]N ŋešnimbar[palm]N
+dcclt/P273880,CUSAS 12 3.1.01 [OB Ura],c iii 11,suhur[tuft]N ŋešnimbar[palm]N
+dcclt/P273880,CUSAS 12 3.1.01 [OB Ura],c iii 12,tubala[harness]N ŋešnimbar[palm]N
+dcclt/P273880,CUSAS 12 3.1.01 [OB Ura],c iii 13,su[fibers]N ŋešnimbar[palm]N
+dcclt/P273880,CUSAS 12 3.1.01 [OB Ura],c iii 14,ŋešnimbar[palm]N
+dcclt/P273880,CUSAS 12 3.1.01 [OB Ura],c iii 15,ŋešnimbar[palm]N
+dcclt/P273880,CUSAS 12 3.1.01 [OB Ura],c iii 16,ŋešnimbar[palm]N
+dcclt/P273880,CUSAS 12 3.1.01 [OB Ura],c iii 17,kita[basket]N ŋešnimbar[palm]N
+dcclt/P273880,CUSAS 12 3.1.01 [OB Ura],c iii 18,kita[basket]N zulum[date]N ŋešnimbar[palm]N
+dcclt/P273880,CUSAS 12 3.1.01 [OB Ura],c iii 19,aʾan[spadix]N zulum[date]N ŋešnimbar[palm]N
+dcclt/P273880,CUSAS 12 3.1.01 [OB Ura],c iii 20,izzi[wall]N kiri[orchard]N ŋešnimbar[palm]N
+dcclt/P273880,CUSAS 12 3.1.01 [OB Ura],c iii 21,ŋešnimbar[palm]N
+dcclt/P273880,CUSAS 12 3.1.01 [OB Ura],c iii 22,ŋešnimbar[palm]N
+dcclt/P273880,CUSAS 12 3.1.01 [OB Ura],c iii 23,niŋkiluh[broom]N ŋešnimbar[palm]N
+dcclt/P273880,CUSAS 12 3.1.01 [OB Ura],c iii 24,ŋešnimbar[palm]N sug[empty]V/i
+dcclt/P273880,CUSAS 12 3.1.01 [OB Ura],c iii 25,ŋešnimbar[palm]N dud[mound]N kug[pure]V/i
+dcclt/P273880,CUSAS 12 3.1.01 [OB Ura],c iii 26,ŋešnimbar[palm]N ki[place]N saŋ[head]N
+dcclt/P273880,CUSAS 12 3.1.01 [OB Ura],c iii 27,ŋešnimbar[palm]N lipiš[innards]N bur[tear]V/t
+dcclt/P273880,CUSAS 12 3.1.01 [OB Ura],c iii 28,ŋešnimbar[palm]N šag[heart]N
+dcclt/P273880,CUSAS 12 3.1.01 [OB Ura],c iii 29,ŋešnimbar[palm]N lu₂.IM[criminal]N
+dcclt/P273880,CUSAS 12 3.1.01 [OB Ura],c iii 30,ŋešnimbar[palm]N izi[fire]N gu[eat]V/t
+dcclt/P273880,CUSAS 12 3.1.01 [OB Ura],c iii 31,ŋešnimbar[palm]N šab[cut]V/t
+dcclt/P273880,CUSAS 12 3.1.01 [OB Ura],c iii 32,ŋešnimbar[palm]N
+dcclt/P273880,CUSAS 12 3.1.01 [OB Ura],c iii 33,ŋešnimbar[palm]N
+dcclt/P273880,CUSAS 12 3.1.01 [OB Ura],c iii 34,ŋešnimbar[palm]N
+dcclt/P273880,CUSAS 12 3.1.01 [OB Ura],c iii 35,ŋešnimbar[palm]N
+dcclt/P273880,CUSAS 12 3.1.01 [OB Ura],c iii 36,ŋešnimbar[palm]N nim[high]V/i
+dcclt/P273880,CUSAS 12 3.1.01 [OB Ura],c iii 37,pešmur[~palm]N ŋešnimbar[palm]N
+dcclt/P273880,CUSAS 12 3.1.01 [OB Ura],c iii 38,pešmur[date-palm-spine]N ŋešnimbar[palm]N
+dcclt/P273880,CUSAS 12 3.1.01 [OB Ura],c iii 39,ŋešnimbar[palm]N
+dcclt/P273880,CUSAS 12 3.1.01 [OB Ura],c iii 40,ŋešnimbar[palm]N
+dcclt/P273880,CUSAS 12 3.1.01 [OB Ura],c iii 41,ŋešnimbar[palm]N
+dcclt/P273880,CUSAS 12 3.1.01 [OB Ura],c iii 42,ugu[skull]N ŋešnimbar[palm]N
+dcclt/P273880,CUSAS 12 3.1.01 [OB Ura],c iii 43,ŋešnimbar[palm]N Meluhha[1]GN
+dcclt/P273880,CUSAS 12 3.1.01 [OB Ura],c iii 44,ŋešnimbar[palm]N Meluhha[1]GN
+dcclt/P273880,CUSAS 12 3.1.01 [OB Ura],c iii 45,ŋešnimbar[palm]N
+dcclt/P273880,CUSAS 12 3.1.01 [OB Ura],c iii 46,ŋešnimbar[palm]N niŋlalarum[dessert]N
+dcclt/P273880,CUSAS 12 3.1.01 [OB Ura],c iii 47,ŋešnimbar[palm]N bal[dig]V/t
+dcclt/P273880,CUSAS 12 3.1.01 [OB Ura],c iii 48,ŋešnimbar[palm]N sag[good]V/i
+dcclt/P273880,CUSAS 12 3.1.01 [OB Ura],c iii 49,suhuš[offshoot]N ŋešnimbar[palm]N
+dcclt/P273880,CUSAS 12 3.1.01 [OB Ura],c iii 50,ŋešnimbar[palm]N gun[load]N
+dcclt/P273880,CUSAS 12 3.1.01 [OB Ura],c iii 51,ŋešnimbar[palm]N gub[stand]V/i
+dcclt/P273880,CUSAS 12 3.1.01 [OB Ura],c iii 53,ŋešnimbar[palm]N niŋnam[anything]N ak[do]V/t
+dcclt/P273880,CUSAS 12 3.1.01 [OB Ura],c iii 54,ŋušur[beam]N
+dcclt/P273880,CUSAS 12 3.1.01 [OB Ura],c iv 14,dim[post]N
+dcclt/P273880,CUSAS 12 3.1.01 [OB Ura],c iv 25,gam[crook]N
+dcclt/P273880,CUSAS 12 3.1.01 [OB Ura],c iv 26,gam[crook]N
+dcclt/P273880,CUSAS 12 3.1.01 [OB Ura],c iv 27,gam[crook]N ašgab[leatherworker]N
+dcclt/P273880,CUSAS 12 3.1.01 [OB Ura],c iv 28,gur[rim]N
+dcclt/P273880,CUSAS 12 3.1.01 [OB Ura],c iv 29,gur[rim]N ala[drum]N
+dcclt/P273880,CUSAS 12 3.1.01 [OB Ura],c iv 30,gur[rim]N bandudu[basket]N
+dcclt/P273880,CUSAS 12 3.1.01 [OB Ura],c iv 31,gur[rim]N balaŋ[instrument]N
+dcclt/P273880,CUSAS 12 3.1.01 [OB Ura],c iv 32,hilum[resin]N
+dcclt/P273880,CUSAS 12 3.1.01 [OB Ura],c iv 33,hilum[resin]N šagkal[tree]N
+dcclt/P273880,CUSAS 12 3.1.01 [OB Ura],c iv 34,suhub[tread]V/t
+dcclt/P273880,CUSAS 12 3.1.01 [OB Ura],c iv 35,tulubum[tree]N
+dcclt/P273880,CUSAS 12 3.1.01 [OB Ura],c iv 36,ŋešdubdim[tool]N
+dcclt/P273880,CUSAS 12 3.1.01 [OB Ura],c iv 40,uh[weathervane]N
+dcclt/P273880,CUSAS 12 3.1.01 [OB Ura],c iv 41,ŋeššudumak[tally]N
+dcclt/P273880,CUSAS 12 3.1.01 [OB Ura],c iv 42,mašdara[inscription]N
+dcclt/P273880,CUSAS 12 3.1.01 [OB Ura],c iv 43,leʾum[board]N
+dcclt/P273880,CUSAS 12 3.1.01 [OB Ura],c iv 44,maš[plant]N
+dcclt/P273880,CUSAS 12 3.1.01 [OB Ura],c iv 45,maš[plant]N
+dcclt/P273880,CUSAS 12 3.1.01 [OB Ura],c iv 46,maš[plant]N
+dcclt/P273880,CUSAS 12 3.1.01 [OB Ura],c iv 47,sugin[rot]N
+dcclt/P273880,CUSAS 12 3.1.01 [OB Ura],c iv 48,sugin[rot]N
+dcclt/P273880,CUSAS 12 3.1.01 [OB Ura],c iv 49,sugin[rot]N
+dcclt/P273880,CUSAS 12 3.1.01 [OB Ura],c iv 50,ellag[ball]N
+dcclt/P273880,CUSAS 12 3.1.01 [OB Ura],c iv 51,ŋešellag[tool]N
+dcclt/P273880,CUSAS 12 3.1.01 [OB Ura],c iv 52,ellag[ball]N
+dcclt/P273880,CUSAS 12 3.1.01 [OB Ura],c iv 53,esi[tree]N
+dcclt/P273880,CUSAS 12 3.1.01 [OB Ura],c iv 56,kur[wood]N
+dcclt/P273880,CUSAS 12 3.1.01 [OB Ura],c iv 57,ŋeškur[tree]N
+dcclt/P273880,CUSAS 12 3.1.01 [OB Ura],c iv 58,kur[wood]N
+dcclt/P273880,CUSAS 12 3.1.01 [OB Ura],d i 1',madal[pole]N
+dcclt/P273880,CUSAS 12 3.1.01 [OB Ura],d i 2',madal[pole]N
+dcclt/P273880,CUSAS 12 3.1.01 [OB Ura],d i 3',malalum[container]N
+dcclt/P273880,CUSAS 12 3.1.01 [OB Ura],d i 4',gazinbu[pole]N
+dcclt/P273880,CUSAS 12 3.1.01 [OB Ura],d i 5',gidim[device]N
+dcclt/P273880,CUSAS 12 3.1.01 [OB Ura],d i 6',ŋešpu[rim]N
+dcclt/P273880,CUSAS 12 3.1.01 [OB Ura],d i 7',ŋešpu[rim]N mansim[sieve]N
+dcclt/P273880,CUSAS 12 3.1.01 [OB Ura],d i 18',kun[tail]N
+dcclt/P273880,CUSAS 12 3.1.01 [OB Ura],d i 21',šutug[reed-hut]N šub[fall]V/t
+dcclt/P273880,CUSAS 12 3.1.01 [OB Ura],d i 22',gag[nail]N papah[cella]N
+dcclt/P273880,CUSAS 12 3.1.01 [OB Ura],d i 23',ŋešpaphalla[trap?]N
+dcclt/P273880,CUSAS 12 3.1.01 [OB Ura],d i 24',ŋešgu[stock]N
+dcclt/P273880,CUSAS 12 3.1.01 [OB Ura],d i 25',ŋešŋiri[fetters]N
+dcclt/P273880,CUSAS 12 3.1.01 [OB Ura],d i 26',manu[wood]N
+dcclt/P273880,CUSAS 12 3.1.01 [OB Ura],d i 34',ŋeš[tree]N dud[mound]N kug[pure]V/i
+dcclt/P273880,CUSAS 12 3.1.01 [OB Ura],d i 35',ŋeš[tree]N dar[split]V/t
+dcclt/P273880,CUSAS 12 3.1.01 [OB Ura],d i 36',ŋeš[tree]N kud[cut]V/t
+dcclt/P273880,CUSAS 12 3.1.01 [OB Ura],d i 37',gibil[firewood]N
+dcclt/P273880,CUSAS 12 3.1.01 [OB Ura],d i 39',tur[small]V/i
+dcclt/P273880,CUSAS 12 3.1.01 [OB Ura],d i 44',Enbul[1]DN
+dcclt/P273880,CUSAS 12 3.1.01 [OB Ura],d i 45',ŋeš[tree]N daŋal[wide]V/i
+dcclt/P273880,CUSAS 12 3.1.01 [OB Ura],d i 46',udug[demon]N
+dcclt/P273880,CUSAS 12 3.1.01 [OB Ura],d i 47',niŋ[thing]N šukara[tool]N
+dcclt/P273880,CUSAS 12 3.1.01 [OB Ura],d ii 3',ŋeš[tree]N dim[create]V/t
+dcclt/P273880,CUSAS 12 3.1.01 [OB Ura],d ii 4',ŋeš[tree]N dim[create]V/t
+dcclt/P273880,CUSAS 12 3.1.01 [OB Ura],d ii 5',kiri[orchard]N dug[good]V/i
+dcclt/P273880,CUSAS 12 3.1.01 [OB Ura],d ii 6',ŋeš[tree]N saŋ[head]N
+dcclt/P273880,CUSAS 12 3.1.01 [OB Ura],d ii 7',zag[side]N us[follow]V/t
+dcclt/P273880,CUSAS 12 3.1.01 [OB Ura],d ii 8',ŋeš[tree]N a[water]N la[hang]V/t
+dcclt/P273880,CUSAS 12 3.1.01 [OB Ura],d ii 9',ŋeš[tree]N
+dcclt/P273880,CUSAS 12 3.1.01 [OB Ura],d ii 10',ŋeš[tree]N sukud[height]N
+dcclt/P273880,CUSAS 12 3.1.01 [OB Ura],d ii 11',ŋeš[tree]N duru[wet]V/i
+dcclt/P273880,CUSAS 12 3.1.01 [OB Ura],d ii 13',gam[crook]N
+dcclt/P273880,CUSAS 12 3.1.01 [OB Ura],d ii 14',sipad[shepherd]N
+dcclt/P273880,CUSAS 12 3.1.01 [OB Ura],d ii 15',tab[double]V/t
+dcclt/P273880,CUSAS 12 3.1.01 [OB Ura],d ii 20',li[juniper]N
+dcclt/P273880,CUSAS 12 3.1.01 [OB Ura],d ii 21',ŋešhur[plan]N saŋtag[~worker]N
+dcclt/P273880,CUSAS 12 3.1.01 [OB Ura],d ii 22',ŋeš[tree]N sa[bundle]N kešed[bind]V/t
+dcclt/P273880,CUSAS 12 3.1.01 [OB Ura],d ii 23',ŋeš[tree]N kiŋar[area]N zag[side]N la[hang]V/t
+dcclt/P273880,CUSAS 12 3.1.01 [OB Ura],d ii 24',gu₂.NE.saŋ.ŋa₂[container]N
+dcclt/P273880,CUSAS 12 3.1.01 [OB Ura],d ii 25',zabar[bronze]N gub[stand]V/i
+dcclt/P273880,CUSAS 12 3.1.01 [OB Ura],d ii 26',šu[handle]N kin[sickle]N
+dcclt/P273880,CUSAS 12 3.1.01 [OB Ura],d ii 27',tun[container]N gidubak[stylus]N
+dcclt/P273880,CUSAS 12 3.1.01 [OB Ura],d ii 28',SAL.UŠ[sheath]N šuʾi[barber]N
+dcclt/P273880,CUSAS 12 3.1.01 [OB Ura],d ii 29',SAL.UŠ[sheath]N ŋiri[dagger]N
+dcclt/P273880,CUSAS 12 3.1.01 [OB Ura],d ii 30',adar[plant]N
+dcclt/P273880,CUSAS 12 3.1.01 [OB Ura],d ii 48',suku[pole]N ig[door]N
+dcclt/P273880,CUSAS 12 3.1.01 [OB Ura],d ii 50',ŋeš[tree]N šu[hand]N de[bring]V/t
+dcclt/P273880,CUSAS 12 3.1.01 [OB Ura],d iii 4',gag[nail]N
+dcclt/P273880,CUSAS 12 3.1.01 [OB Ura],d iii 5',dug[good]V/i
+dcclt/P273880,CUSAS 12 3.1.01 [OB Ura],d iii 6',zana[doll]N
+dcclt/P273880,CUSAS 12 3.1.01 [OB Ura],d iii 7',e[house]N zana[doll]N

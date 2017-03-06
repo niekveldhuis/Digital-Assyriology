@@ -1,0 +1,19 @@
+id_text,text_name,l_no,text
+saao/saa05/P334348,SAA 05 025. Felling Trees in Šubria (ABL 0507),o 1,ana[to]PRP šarru[king]N bēlu[lord]N
+saao/saa05/P334348,SAA 05 025. Felling Trees in Šubria (ABL 0507),o 2,ardu[slave]N Ašipa[1]PN
+saao/saa05/P334348,SAA 05 025. Felling Trees in Šubria (ABL 0507),o 3,lū[may]MOD šulmu[completeness]N ana[to]PRP šarru[king]N
+saao/saa05/P334348,SAA 05 025. Felling Trees in Šubria (ABL 0507),o 4,bēlu[lord]N adanniš[very-much]AV
+saao/saa05/P334348,SAA 05 025. Felling Trees in Šubria (ABL 0507),o 5,šulmu[completeness]N ana[to]PRP birtu[fort]N
+saao/saa05/P334348,SAA 05 025. Felling Trees in Šubria (ABL 0507),o 6,ana[to]PRP mātu[land]N ša[of]DET šarru[king]N bēlu[lord]N
+saao/saa05/P334348,SAA 05 025. Felling Trees in Šubria (ABL 0507),o 7,Šubriaya[Šubrian]EN ṭēmu[(fore)thought]N
+saao/saa05/P334348,SAA 05 025. Felling Trees in Šubria (ABL 0507),o 8,ina[in]PRP Kulimmeri[1]GN
+saao/saa05/P334348,SAA 05 025. Felling Trees in Šubria (ABL 0507),o 9,harāṣu[break-off]V ina[in]PRP ēkallu[palace]N
+saao/saa05/P334348,SAA 05 025. Felling Trees in Šubria (ABL 0507),o 10,kī[like]PRP annû[this]DP epēšu[do]V
+saao/saa05/P334348,SAA 05 025. Felling Trees in Šubria (ABL 0507),o 11,ṣabātu[seize]V
+saao/saa05/P334348,SAA 05 025. Felling Trees in Šubria (ABL 0507),o 12,šūtu[he]IP
+saao/saa05/P334348,SAA 05 025. Felling Trees in Šubria (ABL 0507),o 14,gušūru[tree-trunk]N šipšatu[(length-of)-wood]N
+saao/saa05/P334348,SAA 05 025. Felling Trees in Šubria (ABL 0507),r 2',šipšatu[(length-of)-wood]N atru[excess]N ina[in]PRP nāru[river]N
+saao/saa05/P334348,SAA 05 025. Felling Trees in Šubria (ABL 0507),r 3',karāru[put-(down)]V zabālu[carry]V tadānu[give]V
+saao/saa05/P334348,SAA 05 025. Felling Trees in Šubria (ABL 0507),r 4',ṣābu[people]N gabbu[totality]N ina[in]PRP šadû[mountain]N
+saao/saa05/P334348,SAA 05 025. Felling Trees in Šubria (ABL 0507),r 5',ina[in]PRP qablu[plantation-(of-trees)]N bīt[where]SBJ šipšatu[(length-of)-wood]N
+saao/saa05/P334348,SAA 05 025. Felling Trees in Šubria (ABL 0507),r 6',bīt[where]SBJ gušūru[tree-trunk]N bašû[exist]V

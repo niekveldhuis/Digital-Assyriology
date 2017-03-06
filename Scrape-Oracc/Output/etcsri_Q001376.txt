@@ -1,0 +1,7 @@
+id_text,text_name,version,l_no,text
+etcsri/Q001376,Lugal-KISAL-si 3,,1,sux:NE.KID[1]DN
+etcsri/Q001376,Lugal-KISAL-si 3,,2,sux:Megirimta[1]PN
+etcsri/Q001376,Lugal-KISAL-si 3,,3,sux:dumu[child]N sux:Lugalkisalesi[1]RN
+etcsri/Q001376,Lugal-KISAL-si 3,,4,sux:utud[bear]V/t
+etcsri/Q001376,Lugal-KISAL-si 3,,5,sux:dam[spouse]N
+etcsri/Q001376,Lugal-KISAL-si 3,,6,sux:Munihursaŋ[1]PN

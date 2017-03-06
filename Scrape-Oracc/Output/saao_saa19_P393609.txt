@@ -1,0 +1,29 @@
+id_text,text_name,l_no,text
+saao/saa19/P393609,SAA 19 015. Farmers of the Town of Aššur-nirka-uṣur (CTN 5 p. 196),o 1,ana[to]PRP šarru[king]N bēlu[lord]N
+saao/saa19/P393609,SAA 19 015. Farmers of the Town of Aššur-nirka-uṣur (CTN 5 p. 196),o 2,ardu[slave]N Aššur-šimanni[1]PN
+saao/saa19/P393609,SAA 19 015. Farmers of the Town of Aššur-nirka-uṣur (CTN 5 p. 196),o 3,šuh[on-the-subject-of]PRP ikkaru[farmer]N
+saao/saa19/P393609,SAA 19 015. Farmers of the Town of Aššur-nirka-uṣur (CTN 5 p. 196),o 4,ša[of]DET Aššur-nirka-uṣur[1]PN
+saao/saa19/P393609,SAA 19 015. Farmers of the Town of Aššur-nirka-uṣur (CTN 5 p. 196),o 5,ša[that]REL šarru[king]N mahāru[face]V
+saao/saa19/P393609,SAA 19 015. Farmers of the Town of Aššur-nirka-uṣur (CTN 5 p. 196),o 6,mā[saying]PRP zēru[seed(s)]N rahṣu[flooded]AJ
+saao/saa19/P393609,SAA 19 015. Farmers of the Town of Aššur-nirka-uṣur (CTN 5 p. 196),o 7,ūma[today]AV ebūru[harvest]N
+saao/saa19/P393609,SAA 19 015. Farmers of the Town of Aššur-nirka-uṣur (CTN 5 p. 196),o 8,damqu[good]AJ adanniš[very-much]AV
+saao/saa19/P393609,SAA 19 015. Farmers of the Town of Aššur-nirka-uṣur (CTN 5 p. 196),o 9,šarru[king]N wadû[know]V
+saao/saa19/P393609,SAA 19 015. Farmers of the Town of Aššur-nirka-uṣur (CTN 5 p. 196),o 10,ina[in]PRP šattu[year]N imēru[unit]N
+saao/saa19/P393609,SAA 19 015. Farmers of the Town of Aššur-nirka-uṣur (CTN 5 p. 196),o 11,zēru[seed(s)]N eršu[tilled]AJ
+saao/saa19/P393609,SAA 19 015. Farmers of the Town of Aššur-nirka-uṣur (CTN 5 p. 196),b.e. 13,bītu[house]N imēru[unit]N zēru[seed(s)]N
+saao/saa19/P393609,SAA 19 015. Farmers of the Town of Aššur-nirka-uṣur (CTN 5 p. 196),r 1,imēru[unit]N zēru[seed(s)]N
+saao/saa19/P393609,SAA 19 015. Farmers of the Town of Aššur-nirka-uṣur (CTN 5 p. 196),r 2,erēšu[sow]V
+saao/saa19/P393609,SAA 19 015. Farmers of the Town of Aššur-nirka-uṣur (CTN 5 p. 196),r 3,eqlu[field]N maʾʾuttu[subsistence-(field)]N
+saao/saa19/P393609,SAA 19 015. Farmers of the Town of Aššur-nirka-uṣur (CTN 5 p. 196),r 4,annû[this]DP akālu[eat]V
+saao/saa19/P393609,SAA 19 015. Farmers of the Town of Aššur-nirka-uṣur (CTN 5 p. 196),r 5,šarru[king]N maṣṣartu[observation]N
+saao/saa19/P393609,SAA 19 015. Farmers of the Town of Aššur-nirka-uṣur (CTN 5 p. 196),r 6,danānu[be(come)-strong]V
+saao/saa19/P393609,SAA 19 015. Farmers of the Town of Aššur-nirka-uṣur (CTN 5 p. 196),r 7,šunu[they]IP mā[saying]PRP zēru[seed(s)]N
+saao/saa19/P393609,SAA 19 015. Farmers of the Town of Aššur-nirka-uṣur (CTN 5 p. 196),r 8,ša[of]DET ramānu[self]N šū[he]IP
+saao/saa19/P393609,SAA 19 015. Farmers of the Town of Aššur-nirka-uṣur (CTN 5 p. 196),r 9,ūma[today]AV ēṣidu[reaper]N
+saao/saa19/P393609,SAA 19 015. Farmers of the Town of Aššur-nirka-uṣur (CTN 5 p. 196),r 10,ina[in]PRP muhhu[skull]N maʾʾuttu[subsistence-(field)]N
+saao/saa19/P393609,SAA 19 015. Farmers of the Town of Aššur-nirka-uṣur (CTN 5 p. 196),r 11,karāru[put-(down)]V
+saao/saa19/P393609,SAA 19 015. Farmers of the Town of Aššur-nirka-uṣur (CTN 5 p. 196),r 12,šumma[if]MOD maṭû[small]AJ
+saao/saa19/P393609,SAA 19 015. Farmers of the Town of Aššur-nirka-uṣur (CTN 5 p. 196),r 13,anāku[I]IP šalāmu[be(come)-healthy]V
+saao/saa19/P393609,SAA 19 015. Farmers of the Town of Aššur-nirka-uṣur (CTN 5 p. 196),r.e. 14,bītu[house]N meʾatu[(one)-hundred]NU zēru[seed(s)]N
+saao/saa19/P393609,SAA 19 015. Farmers of the Town of Aššur-nirka-uṣur (CTN 5 p. 196),r.e. 15,Bit-Eriya[1]GN
+saao/saa19/P393609,SAA 19 015. Farmers of the Town of Aššur-nirka-uṣur (CTN 5 p. 196),r.e. 16,bītu[house]N meʾatu[(one)-hundred]NU eqlu[field]N

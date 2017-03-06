@@ -1,0 +1,22 @@
+id_text,text_name,l_no,text
+saao/saa13/P285573,SAA 13 040. (no title) (KAV 113),o 1,ṭuppu[tablet]N Taqiša[1]PN
+saao/saa13/P285573,SAA 13 040. (no title) (KAV 113),o 2,ana[to]PRP Aššur-šarru-uṣur[1]PN
+saao/saa13/P285573,SAA 13 040. (no title) (KAV 113),o 3,lū[may]MOD šulmu[completeness]N ana[to]PRP ahu[brother]N
+saao/saa13/P285573,SAA 13 040. (no title) (KAV 113),o 4,ina[in]PRP muhhu[skull]N rāṭu[water-channel]N
+saao/saa13/P285573,SAA 13 040. (no title) (KAV 113),o 5,ša[of]DET Adad[1]DN u[and]CNJ ša[of]DET Babu[1]DN
+saao/saa13/P285573,SAA 13 040. (no title) (KAV 113),o 6,ina[in]PRP libbu[interior]N ēkallu[palace]N šapāru[send]V
+saao/saa13/P285573,SAA 13 040. (no title) (KAV 113),o 7,qabû[say]V mā[saying]PRP ūmu[day]N
+saao/saa13/P285573,SAA 13 040. (no title) (KAV 113),o 8,ša[of]DET Šabaṭu[Shebat]MN ṭābu[good]AJ parāṣu[breach]V
+saao/saa13/P285573,SAA 13 040. (no title) (KAV 113),o 9,ahu[arm]N ina[in]PRP muhhu[skull]N šakānu[put]V
+saao/saa13/P285573,SAA 13 040. (no title) (KAV 113),o 10,mā[saying]PRP arhiš[quickly]AV ṣarāmu[make-an-effort]V
+saao/saa13/P285573,SAA 13 040. (no title) (KAV 113),o 11,epēšu[do]V ūma[today]AV šapāru[send]V
+saao/saa13/P285573,SAA 13 040. (no title) (KAV 113),o 12,iṣu[tree]N ša[that]REL amāru[see]V
+saao/saa13/P285573,SAA 13 040. (no title) (KAV 113),o 13,ana[to]PRP nagāru[joiner]N hakāmu[understand]V
+saao/saa13/P285573,SAA 13 040. (no title) (KAV 113),o 14,birti[between]PRP īnu[eye]N madādu[measure-(out)]V
+saao/saa13/P285573,SAA 13 040. (no title) (KAV 113),o 15,ūmu[day]N ahu[arm]N ina[in]PRP muhhu[skull]N
+saao/saa13/P285573,SAA 13 040. (no title) (KAV 113),o 16,šakānu[put]V damāqu[be(come)-good]V
+saao/saa13/P285573,SAA 13 040. (no title) (KAV 113),o 17,epēšu[do]V
+saao/saa13/P285573,SAA 13 040. (no title) (KAV 113),r 1,u[and]CNJ ana[to]PRP rēhtu[remainder]N
+saao/saa13/P285573,SAA 13 040. (no title) (KAV 113),r 2,dullu[trouble]N lā[not]MOD šâṭu[despise]V
+saao/saa13/P285573,SAA 13 040. (no title) (KAV 113),r 3,ṣarāmu[make-an-effort]V damāqu[be(come)-good]V epēšu[do]V
+saao/saa13/P285573,SAA 13 040. (no title) (KAV 113),r 4,mīnu[what?]QP hurri[ever-(after)]AV

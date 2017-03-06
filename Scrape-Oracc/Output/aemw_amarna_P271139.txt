@@ -1,0 +1,24 @@
+id_text,text_name,l_no,text
+<<<<<<< HEAD
+aemw/amarna/P271139,EA 310. Message lost [vassal letter],003,akk-x-mbperi:anumma[now]AV
+aemw/amarna/P271139,EA 310. Message lost [vassal letter],004,akk-x-mbperi:naṣāru[guard]V akk-x-mbperi:ālu[city]N
+aemw/amarna/P271139,EA 310. Message lost [vassal letter],005,akk-x-mbperi:šarru[king]N akk-x-mbperi:bēlu[lord]N akk-x-mbperi:ša[that]REL akk-x-mbperi:itti[with]PRP
+aemw/amarna/P271139,EA 310. Message lost [vassal letter],007,akk-x-mbperi:u[and]CNJ akk-x-mbperi:wašāru[sink-down]V akk-x-mbperi:šarru[king]N
+aemw/amarna/P271139,EA 310. Message lost [vassal letter],008,akk-x-mbperi:bēlu[lord]N akk-x-mbperi:ana[to]PRP akk-x-mbperi:yâšim[to-me]IP
+aemw/amarna/P271139,EA 310. Message lost [vassal letter],010,akk-x-mbperi:u[and]CNJ akk-x-mbperi:anumma[now]AV
+aemw/amarna/P271139,EA 310. Message lost [vassal letter],011,akk-x-mbperi:awātu[word]N
+aemw/amarna/P271139,EA 310. Message lost [vassal letter],012,akk-x-mbperi:šarru[king]N akk-x-mbperi:bēlu[lord]N akk-x-mbperi:Šamaš[1]DN
+aemw/amarna/P271139,EA 310. Message lost [vassal letter],013,akk-x-mbperi:ištu[from]PRP akk-x-mbperi:šamû[sky]N akk-x-mbperi:šamû[sky]N
+aemw/amarna/P271139,EA 310. Message lost [vassal letter],015,akk-x-mbperi:alāku[go]V
+=======
+aemw/amarna/P271139,EA 310. Message lost [vassal letter],003,
+aemw/amarna/P271139,EA 310. Message lost [vassal letter],004,akk-x-mbperi:ālu[city]N
+aemw/amarna/P271139,EA 310. Message lost [vassal letter],005,akk-x-mbperi:šarru[king]N akk-x-mbperi:bēlu[lord]N
+aemw/amarna/P271139,EA 310. Message lost [vassal letter],007,akk-x-mbperi:šarru[king]N
+aemw/amarna/P271139,EA 310. Message lost [vassal letter],008,akk-x-mbperi:bēlu[lord]N
+aemw/amarna/P271139,EA 310. Message lost [vassal letter],010,
+aemw/amarna/P271139,EA 310. Message lost [vassal letter],011,akk-x-mbperi:awātu[word]N
+aemw/amarna/P271139,EA 310. Message lost [vassal letter],012,akk-x-mbperi:šarru[king]N akk-x-mbperi:bēlu[lord]N
+aemw/amarna/P271139,EA 310. Message lost [vassal letter],013,akk-x-mbperi:šamû[sky]N akk-x-mbperi:šamû[sky]N
+aemw/amarna/P271139,EA 310. Message lost [vassal letter],015,
+>>>>>>> d524642d5275e5016007339cafda4e021ecb17ba

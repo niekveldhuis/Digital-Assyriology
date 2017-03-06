@@ -1,0 +1,19 @@
+id_text,text_name,l_no,text
+saao/saa01/P334055,SAA 01 071. The Ziggurat of Anu in Assur (ABL 0106),o 1,ana[to]PRP šarru[king]N bēlu[lord]N
+saao/saa01/P334055,SAA 01 071. The Ziggurat of Anu in Assur (ABL 0106),o 2,ardu[slave]N Ṭab-šar-Aššur[1]PN
+saao/saa01/P334055,SAA 01 071. The Ziggurat of Anu in Assur (ABL 0106),o 3,lū[may]MOD šulmu[completeness]N ana[to]PRP šarru[king]N bēlu[lord]N
+saao/saa01/P334055,SAA 01 071. The Ziggurat of Anu in Assur (ABL 0106),o 4,ina[in]PRP muhhu[skull]N dullu[trouble]N ša[of]DET ziqqurratu[ziggurrat]N
+saao/saa01/P334055,SAA 01 071. The Ziggurat of Anu in Assur (ABL 0106),o 5,ša[of]DET Anu[1]DN ša[that]REL šarru[king]N bēlu[lord]N
+saao/saa01/P334055,SAA 01 071. The Ziggurat of Anu in Assur (ABL 0106),o 6,ṭēmu[(fore)thought]N šakānu[put]V
+saao/saa01/P334055,SAA 01 071. The Ziggurat of Anu in Assur (ABL 0106),o 7,mā[saying]PRP ana[to]PRP rabû[big-one]N ṭupšarru[scribe]N šâlu[ask]V
+saao/saa01/P334055,SAA 01 071. The Ziggurat of Anu in Assur (ABL 0106),o 8,annûri[now]AV šâlu[ask]V kī[like]PRP annû[this]DP
+saao/saa01/P334055,SAA 01 071. The Ziggurat of Anu in Assur (ABL 0106),o 9,qabû[say]V mā[saying]PRP atā[why?]QP anīnu[we]IP
+saao/saa01/P334055,SAA 01 071. The Ziggurat of Anu in Assur (ABL 0106),o 10,epēšu[do]V mā[saying]PRP dullu[trouble]N
+saao/saa01/P334055,SAA 01 071. The Ziggurat of Anu in Assur (ABL 0106),r 2',Kalhu[1]GN
+saao/saa01/P334055,SAA 01 071. The Ziggurat of Anu in Assur (ABL 0106),r 4',etēqu[proceed]V alāku[go]V
+saao/saa01/P334055,SAA 01 071. The Ziggurat of Anu in Assur (ABL 0106),r 5',ina[in]PRP Libbi-ali[Inner-City-(Assur)]GN dullu[trouble]N amāru[see]V
+saao/saa01/P334055,SAA 01 071. The Ziggurat of Anu in Assur (ABL 0106),r 6',u[and]CNJ ištu[from]PRP Libbi-ali[Inner-City-(Assur)]GN sahāru[go-around]V
+saao/saa01/P334055,SAA 01 071. The Ziggurat of Anu in Assur (ABL 0106),r 7',ana[to]PRP Kalhu[1]GN ina[in]PRP muhhu[skull]N
+saao/saa01/P334055,SAA 01 071. The Ziggurat of Anu in Assur (ABL 0106),r 8',rabû[big-one]N ṭupšarru[scribe]N alāku[go]V
+saao/saa01/P334055,SAA 01 071. The Ziggurat of Anu in Assur (ABL 0106),r.e. 9,mīnu[what?]QP šīti[she]IP
+saao/saa01/P334055,SAA 01 071. The Ziggurat of Anu in Assur (ABL 0106),r.e. 10,ṭēmu[(fore)thought]N ina[in]PRP ēkallu[palace]N

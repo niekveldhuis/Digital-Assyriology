@@ -1,0 +1,38 @@
+id_text,text_name,l_no,text
+saao/saa10/P334655,SAA 10 296. Prophylactic Rituals (ABL 0977+) [from exorcists],o 1,ana[to]PRP šarru[king]N bēlu[lord]N
+saao/saa10/P334655,SAA 10 296. Prophylactic Rituals (ABL 0977+) [from exorcists],o 2,ardu[slave]N Nabu-naṣir[1]PN
+saao/saa10/P334655,SAA 10 296. Prophylactic Rituals (ABL 0977+) [from exorcists],o 3,Nabu[1]DN u[and]CNJ Marduk[1]DN ana[to]PRP šarru[king]N bēlu[lord]N
+saao/saa10/P334655,SAA 10 296. Prophylactic Rituals (ABL 0977+) [from exorcists],o 4,adanniš[very-much]AV adanniš[very-much]AV karābu[pray]V
+saao/saa10/P334655,SAA 10 296. Prophylactic Rituals (ABL 0977+) [from exorcists],o 5,šulmu[completeness]N adanniš[very-much]AV adanniš[very-much]AV
+saao/saa10/P334655,SAA 10 296. Prophylactic Rituals (ABL 0977+) [from exorcists],o 6,ana[to]PRP Aššur-mukin-paleya[1]PN
+saao/saa10/P334655,SAA 10 296. Prophylactic Rituals (ABL 0977+) [from exorcists],o 7,šulmu[completeness]N adanniš[very-much]AV adanniš[very-much]AV
+saao/saa10/P334655,SAA 10 296. Prophylactic Rituals (ABL 0977+) [from exorcists],o 8,ana[to]PRP Aššur-šarrani-muballissu[1]PN
+saao/saa10/P334655,SAA 10 296. Prophylactic Rituals (ABL 0977+) [from exorcists],o 9,libbu[interior]N ša[of]DET šarru[king]N bēlu[lord]N lū[may]MOD ṭābu[good]AJ
+saao/saa10/P334655,SAA 10 296. Prophylactic Rituals (ABL 0977+) [from exorcists],o 10,ina[in]PRP muhhu[skull]N nēpešu[activity]N ša[that]REL šarru[king]N bēlu[lord]N
+saao/saa10/P334655,SAA 10 296. Prophylactic Rituals (ABL 0977+) [from exorcists],o 11,šapāru[send]V diʾu[(a-disease-affecting-the-head)]N
+saao/saa10/P334655,SAA 10 296. Prophylactic Rituals (ABL 0977+) [from exorcists],o 12,šipṭu[judgement]N mūtānu[epidemic]N ana[to]PRP bītu[house]N awīlu[man]N lā[not]MOD ṭehû[be(come)-near-to]V
+saao/saa10/P334655,SAA 10 296. Prophylactic Rituals (ABL 0977+) [from exorcists],o 13,ina[in]PRP Kislimu[Kislev]MN epēšu[do]V ina[in]PRP Ṭebetu[Tebet]MN
+saao/saa10/P334655,SAA 10 296. Prophylactic Rituals (ABL 0977+) [from exorcists],o 14,murṣu[illness]N diʾu[(a-disease-affecting-the-head)]N ana[to]PRP bītu[house]N awīlu[man]N lā[not]MOD ṭehû[be(come)-near-to]V
+saao/saa10/P334655,SAA 10 296. Prophylactic Rituals (ABL 0977+) [from exorcists],o 15,u[and]CNJ ušburrudû[ritual-to-dispel-sorcery]N
+saao/saa10/P334655,SAA 10 296. Prophylactic Rituals (ABL 0977+) [from exorcists],o 16,mādu[many]AJ epēšu[do]V
+saao/saa10/P334655,SAA 10 296. Prophylactic Rituals (ABL 0977+) [from exorcists],o 17,ina[in]PRP Šabaṭu[Shebat]MN šuʾillakku[(prayer-of)-raised-hands]N
+saao/saa10/P334655,SAA 10 296. Prophylactic Rituals (ABL 0977+) [from exorcists],o 18,namburbû[apotropaic-ritual]N lumnu[evil]N kišpu[sorcery]N
+saao/saa10/P334655,SAA 10 296. Prophylactic Rituals (ABL 0977+) [from exorcists],r 1,u[and]CNJ ša[of]DET diʾu[(a-disease-affecting-the-head)]N šipṭu[judgement]N epēšu[do]V
+saao/saa10/P334655,SAA 10 296. Prophylactic Rituals (ABL 0977+) [from exorcists],r 2,nēpešu[activity]N ša[that]REL ina[in]PRP Addaru[Adar]MN ūmu[day]N parāṣu[carry-out-ritual]V
+saao/saa10/P334655,SAA 10 296. Prophylactic Rituals (ABL 0977+) [from exorcists],r 3,ša[of]DET ṣalmu[effigy]N mārtu[daughter]N Anu[1]DN ṣalmu[effigy]N Namtar[1]DN
+saao/saa10/P334655,SAA 10 296. Prophylactic Rituals (ABL 0977+) [from exorcists],r 4,ṣalmu[effigy]N Latarak[1]DN ṣalmu[effigy]N mūtu[death]N
+saao/saa10/P334655,SAA 10 296. Prophylactic Rituals (ABL 0977+) [from exorcists],r 5,ṣalmu[effigy]N pūhu[exchange]N awīlu[man]N ša[of]DET ṭīdu[clay]N ṣalmu[effigy]N pūhu[exchange]N awīlu[man]N
+saao/saa10/P334655,SAA 10 296. Prophylactic Rituals (ABL 0977+) [from exorcists],r 6,ša[of]DET ṭīdu[clay]N palgu[ditch]N kirû[garden]N ṣalmu[effigy]N pūhu[exchange]N awīlu[man]N
+saao/saa10/P334655,SAA 10 296. Prophylactic Rituals (ABL 0977+) [from exorcists],r 7,ša[of]DET iškūru[wax]N Illat[1]DN mārat-lipî[´daughter-of-fat´]N
+saao/saa10/P334655,SAA 10 296. Prophylactic Rituals (ABL 0977+) [from exorcists],r 8,imittu[right-side]N šulpu[stalk]N ṣarpu[silver]N
+saao/saa10/P334655,SAA 10 296. Prophylactic Rituals (ABL 0977+) [from exorcists],r 9,ša[of]DET Gula[1]DN Belet-ṣeri[1]DN
+saao/saa10/P334655,SAA 10 296. Prophylactic Rituals (ABL 0977+) [from exorcists],r 10,šeʾu[barley]N ṣarpu[silver]N šeʾu[barley]N hurāṣu[gold]N šeʾu[barley]N erû[copper]N šeʾu[barley]N annaku[tin]N
+saao/saa10/P334655,SAA 10 296. Prophylactic Rituals (ABL 0977+) [from exorcists],r 11,šeʾu[barley]N ālu[city]N ana[to]PRP mārat-nāri[´daughter-of-the-river-(god)´]N
+saao/saa10/P334655,SAA 10 296. Prophylactic Rituals (ABL 0977+) [from exorcists],r 12,larû[branch]N bīnu[tamarisk]N larû[branch]N gišimmaru[date-palm]N
+saao/saa10/P334655,SAA 10 296. Prophylactic Rituals (ABL 0977+) [from exorcists],r 13,lahannu[(a-flask)]N karānu[vine]N lahannu[(a-flask)]N šikaru[beer]N
+saao/saa10/P334655,SAA 10 296. Prophylactic Rituals (ABL 0977+) [from exorcists],r 14,lahannu[(a-flask)]N šizbu[milk]N lahannu[(a-flask)]N dišpu[honey]N
+saao/saa10/P334655,SAA 10 296. Prophylactic Rituals (ABL 0977+) [from exorcists],r 15,annû[this]DP gabbu[totality]N epēšu[do]V
+saao/saa10/P334655,SAA 10 296. Prophylactic Rituals (ABL 0977+) [from exorcists],r 16,rēhtu[remainder]N nēpešu[activity]N udīni[up-till-now]AV
+saao/saa10/P334655,SAA 10 296. Prophylactic Rituals (ABL 0977+) [from exorcists],r 17,lā[not]MOD epēšu[do]V akī[as]PRP dullu[trouble]N
+saao/saa10/P334655,SAA 10 296. Prophylactic Rituals (ABL 0977+) [from exorcists],r 18,ana[to]PRP epēšu[do]V
+saao/saa10/P334655,SAA 10 296. Prophylactic Rituals (ABL 0977+) [from exorcists],r 19,šarru[king]N bēlu[lord]N

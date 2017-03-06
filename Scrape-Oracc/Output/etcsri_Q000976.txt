@@ -1,0 +1,8 @@
+id_text,text_name,version,l_no,text
+etcsri/Q000976,Šulgi 31,,1,sux:Šulgir[1]RN
+etcsri/Q000976,Šulgi 31,,2,sux:nita[male]N sux:kalag[strong]V/i
+etcsri/Q000976,Šulgi 31,,3,sux:lugal[king]N sux:Urim[1]SN
+etcsri/Q000976,Šulgi 31,,4,sux:lugal[king]N sux:Kiengir[1]GN sux:Akkad[1]GN
+etcsri/Q000976,Šulgi 31,,5,sux:Inšušinak[1]DN
+etcsri/Q000976,Šulgi 31,,6,sux:e[house]N
+etcsri/Q000976,Šulgi 31,,7,sux:du[build]V/t

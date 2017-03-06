@@ -1,0 +1,24 @@
+id_text,text_name,l_no,text
+<<<<<<< HEAD
+aemw/amarna/P271010,EA 262. Total approval [vassal letter],001,akk-x-mbperi:ana[to]PRP akk-x-mbperi:šarru[king]N akk-x-mbperi:bēlu[lord]N
+aemw/amarna/P271010,EA 262. Total approval [vassal letter],002,akk-x-mbperi:qabû[say]V
+aemw/amarna/P271010,EA 262. Total approval [vassal letter],003,akk-x-mbperi:umma[saying]PRP akk-x-mbperi:Dašru[1]PN
+aemw/amarna/P271010,EA 262. Total approval [vassal letter],004,akk-x-mbperi:wardu[slave]N akk-x-mbperi:kittu[steadiness]N akk-x-mbperi:šarru[king]N
+aemw/amarna/P271010,EA 262. Total approval [vassal letter],005,akk-x-mbperi:ana[to]PRP akk-x-mbperi:šēpu[foot]N akk-x-mbperi:šarru[king]N akk-x-mbperi:bēlu[lord]N
+aemw/amarna/P271010,EA 262. Total approval [vassal letter],006,akk-x-mbperi:u[and]CNJ akk-x-mbperi:maqātu[fall]V
+aemw/amarna/P271010,EA 262. Total approval [vassal letter],007,akk-x-mbperi:gabbu[totality]N akk-x-mbperi:mimmû[all]N
+aemw/amarna/P271010,EA 262. Total approval [vassal letter],008,akk-x-mbperi:ša[that]REL akk-x-mbperi:epēšu[do]V
+aemw/amarna/P271010,EA 262. Total approval [vassal letter],009,akk-x-mbperi:šarru[king]N akk-x-mbperi:bēlu[lord]N akk-x-mbperi:ana[to]PRP akk-x-mbperi:mātu[land]N
+aemw/amarna/P271010,EA 262. Total approval [vassal letter],010,akk-x-mbperi:gabbu[totality]N akk-x-mbperi:damqu[good]AJ
+=======
+aemw/amarna/P271010,EA 262. Total approval [vassal letter],001,akk-x-mbperi:šarru[king]N akk-x-mbperi:bēlu[lord]N
+aemw/amarna/P271010,EA 262. Total approval [vassal letter],002,
+aemw/amarna/P271010,EA 262. Total approval [vassal letter],003,
+aemw/amarna/P271010,EA 262. Total approval [vassal letter],004,akk-x-mbperi:wardu[slave]N akk-x-mbperi:kittu[steadiness]N akk-x-mbperi:šarru[king]N
+aemw/amarna/P271010,EA 262. Total approval [vassal letter],005,akk-x-mbperi:šēpu[foot]N akk-x-mbperi:šarru[king]N akk-x-mbperi:bēlu[lord]N
+aemw/amarna/P271010,EA 262. Total approval [vassal letter],006,
+aemw/amarna/P271010,EA 262. Total approval [vassal letter],007,akk-x-mbperi:gabbu[totality]N akk-x-mbperi:mimmû[all]N
+aemw/amarna/P271010,EA 262. Total approval [vassal letter],008,
+aemw/amarna/P271010,EA 262. Total approval [vassal letter],009,akk-x-mbperi:šarru[king]N akk-x-mbperi:bēlu[lord]N akk-x-mbperi:mātu[land]N
+aemw/amarna/P271010,EA 262. Total approval [vassal letter],010,akk-x-mbperi:gabbu[totality]N
+>>>>>>> d524642d5275e5016007339cafda4e021ecb17ba

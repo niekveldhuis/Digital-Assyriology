@@ -1,0 +1,33 @@
+id_text,text_name,version,l_no,text
+etcsri/Q004253,Lugal-ayamu 2001,,1,sux:ud[sun]N sux:Lugalayaŋu[1]PN
+etcsri/Q004253,Lugal-ayamu 2001,,2,sux:saŋŋa[official]N sux:Iškur[1]DN
+etcsri/Q004253,Lugal-ayamu 2001,,3,sux:namensik[office-of-ruler]N
+etcsri/Q004253,Lugal-ayamu 2001,,4,sux:Adab[1]SN sux:ak[do]V/t
+etcsri/Q004253,Lugal-ayamu 2001,,5,sux:Urimmak[1]PN sux:amaʾatud[slave]N sux:kalag[strong]V/i
+etcsri/Q004253,Lugal-ayamu 2001,,6,sux:Damgalnunak[1]DN
+etcsri/Q004253,Lugal-ayamu 2001,,7,sux:arad[slave]N sux:kalag[strong]V/i sux:Imma[1]DN
+etcsri/Q004253,Lugal-ayamu 2001,,8,sux:šabalbal[descendent]N sux:kalag[strong]V/i
+etcsri/Q004253,Lugal-ayamu 2001,,9,sux:Lugalniŋbaragdug[1]PN sux:ildum[band]N
+etcsri/Q004253,Lugal-ayamu 2001,,10,sux:ud[sun]N sux:Urimmak[1]PN sux:Damgalnunak[1]DN
+etcsri/Q004253,Lugal-ayamu 2001,,11,sux:šag[heart]N sux:pad[find]V/t
+etcsri/Q004253,Lugal-ayamu 2001,,12,sux:e[house]N sux:du[build]V/t
+etcsri/Q004253,Lugal-ayamu 2001,,13,sux:dug[speak]V/t
+etcsri/Q004253,Lugal-ayamu 2001,,14,sux:Urimmak[1]PN sux:Damgalnunak[1]DN
+etcsri/Q004253,Lugal-ayamu 2001,,15,sux:inim[word]N sux:šag[heart]N sux:dug[speak]V/t
+etcsri/Q004253,Lugal-ayamu 2001,,16,sux:ŋen[go]V/i
+etcsri/Q004253,Lugal-ayamu 2001,,17,sux:ud[sun]N sux:Urimmak[1]PN
+etcsri/Q004253,Lugal-ayamu 2001,,18,sux:uš[foundation]N sux:kuš[unit]N sux:zapah[span]N
+etcsri/Q004253,Lugal-ayamu 2001,,19,sux:ki[place]N sux:e[leave]V/i
+etcsri/Q004253,Lugal-ayamu 2001,,20,sux:nu’ešak[priest]N
+etcsri/Q004253,Lugal-ayamu 2001,,21,sux:šagia[cup-bearer]N
+etcsri/Q004253,Lugal-ayamu 2001,,22,sux:arad[slave]N sux:geme[worker]N sux:e[house]N sux:šum[give]V/t
+etcsri/Q004253,Lugal-ayamu 2001,,23,sux:Damgalnunak[1]DN
+etcsri/Q004253,Lugal-ayamu 2001,,24,sux:bar[outside]N
+etcsri/Q004253,Lugal-ayamu 2001,,25,sux:Urimmak[1]PN
+etcsri/Q004253,Lugal-ayamu 2001,,26,sux:nam[fate]N sux:dug[good]V/i sux:tar[cut]V/t
+etcsri/Q004253,Lugal-ayamu 2001,,27,sux:namtil[life]N sux:ama[mother]N
+etcsri/Q004253,Lugal-ayamu 2001,,28,sux:namtil[life]N sux:dam[spouse]N sux:dumu[child]N
+etcsri/Q004253,Lugal-ayamu 2001,,29,sux:namtil[life]N sux:šeš[brother]N
+etcsri/Q004253,Lugal-ayamu 2001,,30,sux:al[cvne]N sux:dug[speak]V/t
+etcsri/Q004253,Lugal-ayamu 2001,,31,sux:Damgalnunak[1]DN
+etcsri/Q004253,Lugal-ayamu 2001,,32,sux:Urimmak[1]PN

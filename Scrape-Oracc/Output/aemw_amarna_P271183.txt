@@ -1,0 +1,66 @@
+id_text,text_name,l_no,text
+<<<<<<< HEAD
+aemw/amarna/P271183,EA 166. Coming—but not yet [vassal letter],001,akk-x-mbperi:ana[to]PRP akk-x-mbperi:Haʾi[1]PN akk-x-mbperi:ahu[brother]N
+aemw/amarna/P271183,EA 166. Coming—but not yet [vassal letter],002,akk-x-mbperi:umma[saying]PRP akk-x-mbperi:Aziru[1]PN akk-x-mbperi:ahu[brother]N
+aemw/amarna/P271183,EA 166. Coming—but not yet [vassal letter],003,akk-x-mbperi:ana[to]PRP akk-x-mbperi:muhhu[skull]N akk-x-mbperi:lū[let-it-be]MOD akk-x-mbperi:šulmu[completeness]N
+aemw/amarna/P271183,EA 166. Coming—but not yet [vassal letter],004,akk-x-mbperi:u[and]CNJ akk-x-mbperi:ištu[from]PRP akk-x-mbperi:ṣābu[people]N akk-x-mbperi:ṣābu[people]N akk-x-mbperi:piṭṭātu[archers]N
+aemw/amarna/P271183,EA 166. Coming—but not yet [vassal letter],005,akk-x-mbperi:ša[of]DET akk-x-mbperi:šarru[king]N akk-x-mbperi:bēlu[lord]N akk-x-mbperi:magal[very-(much)]AV akk-x-mbperi:lū[let-it-be]MOD akk-x-mbperi:šulmu[completeness]N
+aemw/amarna/P271183,EA 166. Coming—but not yet [vassal letter],006,akk-x-mbperi:mīnu[what?]QP akk-x-mbperi:appūna[moreover]AV
+aemw/amarna/P271183,EA 166. Coming—but not yet [vassal letter],007,akk-x-mbperi:buʾʾû[look-for]V akk-x-mbperi:pānu[front]N akk-x-mbperi:šarru[king]N akk-x-mbperi:bēlu[lord]N
+aemw/amarna/P271183,EA 166. Coming—but not yet [vassal letter],008,akk-x-mbperi:banû[good]AJ akk-x-mbperi:buʾʾû[look-for]V
+aemw/amarna/P271183,EA 166. Coming—but not yet [vassal letter],009,akk-x-mbperi:anāku[I]IP akk-x-mbperi:u[and]CNJ akk-x-mbperi:māru[son]N
+aemw/amarna/P271183,EA 166. Coming—but not yet [vassal letter],010,akk-x-mbperi:u[and]CNJ akk-x-mbperi:ahu[brother]N akk-x-mbperi:gabbu[totality]N akk-x-mbperi:awīlu[man]N akk-x-mbperi:wardu[slave]N
+aemw/amarna/P271183,EA 166. Coming—but not yet [vassal letter],011,akk-x-mbperi:ša[of]DET akk-x-mbperi:šarru[king]N akk-x-mbperi:bēlu[lord]N akk-x-mbperi:banû[good]AJ
+aemw/amarna/P271183,EA 166. Coming—but not yet [vassal letter],012,akk-x-mbperi:anumma[now]AV akk-x-mbperi:anāku[I]IP akk-x-mbperi:u[and]CNJ akk-x-mbperi:Hatip[1]PN
+aemw/amarna/P271183,EA 166. Coming—but not yet [vassal letter],013,akk-x-mbperi:alāku[go]V akk-x-mbperi:inanna[now]AV
+aemw/amarna/P271183,EA 166. Coming—but not yet [vassal letter],014,akk-x-mbperi:ina[in]PRP akk-x-mbperi:hamuttu[haste]N akk-x-mbperi:Haʾi[1]PN
+aemw/amarna/P271183,EA 166. Coming—but not yet [vassal letter],015,akk-x-mbperi:libbu[interior]N akk-x-mbperi:lū[let-it-be]MOD akk-x-mbperi:edû[know]V
+aemw/amarna/P271183,EA 166. Coming—but not yet [vassal letter],016,akk-x-mbperi:inūma[when]SBJ akk-x-mbperi:kašdu[achieved]AJ
+aemw/amarna/P271183,EA 166. Coming—but not yet [vassal letter],017,akk-x-mbperi:ištu[from]PRP akk-x-mbperi:awātu[word]N akk-x-mbperi:bēlu[lord]N
+aemw/amarna/P271183,EA 166. Coming—but not yet [vassal letter],018,akk-x-mbperi:lā[not]MOD akk-x-mbperi:paṭāru[loosen]V
+aemw/amarna/P271183,EA 166. Coming—but not yet [vassal letter],019,akk-x-mbperi:u[and]CNJ akk-x-mbperi:ištu[from]PRP akk-x-mbperi:awātu[word]N
+aemw/amarna/P271183,EA 166. Coming—but not yet [vassal letter],020,akk-x-mbperi:anāku[I]IP akk-x-mbperi:wardu[slave]N akk-x-mbperi:ša[of]DET akk-x-mbperi:bēlu[lord]N
+aemw/amarna/P271183,EA 166. Coming—but not yet [vassal letter],021,akk-x-mbperi:šarru[king]N akk-x-mbperi:Hatti[1]GN akk-x-mbperi:ina[in]PRP akk-x-mbperi:Nuhašše[1]GN
+aemw/amarna/P271183,EA 166. Coming—but not yet [vassal letter],022,akk-x-mbperi:wašbu[inhabited]AJ akk-x-mbperi:u[and]CNJ akk-x-mbperi:palhu[fearful]AJ
+aemw/amarna/P271183,EA 166. Coming—but not yet [vassal letter],023,akk-x-mbperi:ištu[from]PRP akk-x-mbperi:pānu[front]N akk-x-mbperi:assurri[(if)-perchance]MOD
+aemw/amarna/P271183,EA 166. Coming—but not yet [vassal letter],024,akk-x-mbperi:ina[in]PRP akk-x-mbperi:Amurru[1]GN akk-x-mbperi:alāku[go]V
+aemw/amarna/P271183,EA 166. Coming—but not yet [vassal letter],025,akk-x-mbperi:u[and]CNJ akk-x-mbperi:šumma[if]MOD akk-x-mbperi:Tunip[1]GN
+aemw/amarna/P271183,EA 166. Coming—but not yet [vassal letter],026,akk-x-mbperi:šahāṭu[jump-(on)]V akk-x-mbperi:harrānu[way]N akk-x-mbperi:ina[in]PRP akk-x-mbperi:ašru[place]N akk-x-mbperi:wašbu[inhabited]AJ
+aemw/amarna/P271183,EA 166. Coming—but not yet [vassal letter],027,akk-x-mbperi:u[and]CNJ akk-x-mbperi:palhu[fearful]AJ akk-x-mbperi:ištu[from]PRP akk-x-mbperi:pānu[front]N
+aemw/amarna/P271183,EA 166. Coming—but not yet [vassal letter],028,akk-x-mbperi:u[and]CNJ akk-x-mbperi:muhhu[skull]N akk-x-mbperi:awātu[word]N akk-x-mbperi:šuāti[him]IP
+aemw/amarna/P271183,EA 166. Coming—but not yet [vassal letter],029,akk-x-mbperi:izuzzu[stand]V akk-x-mbperi:adi[until]PRP akk-x-mbperi:paṭāru[loosen]V
+aemw/amarna/P271183,EA 166. Coming—but not yet [vassal letter],030,akk-x-mbperi:u[and]CNJ akk-x-mbperi:anumma[now]AV akk-x-mbperi:alāku[go]V
+aemw/amarna/P271183,EA 166. Coming—but not yet [vassal letter],031,akk-x-mbperi:ina[in]PRP akk-x-mbperi:hamuttu[haste]N
+=======
+aemw/amarna/P271183,EA 166. Coming—but not yet [vassal letter],001,akk-x-mbperi:ahu[brother]N
+aemw/amarna/P271183,EA 166. Coming—but not yet [vassal letter],002,akk-x-mbperi:ahu[brother]N
+aemw/amarna/P271183,EA 166. Coming—but not yet [vassal letter],003,akk-x-mbperi:muhhu[skull]N akk-x-mbperi:šulmu[completeness]N
+aemw/amarna/P271183,EA 166. Coming—but not yet [vassal letter],004,akk-x-mbperi:ṣābu[people]N akk-x-mbperi:ṣābu[people]N akk-x-mbperi:piṭṭātu[archers]N
+aemw/amarna/P271183,EA 166. Coming—but not yet [vassal letter],005,akk-x-mbperi:šarru[king]N akk-x-mbperi:bēlu[lord]N akk-x-mbperi:šulmu[completeness]N
+aemw/amarna/P271183,EA 166. Coming—but not yet [vassal letter],006,
+aemw/amarna/P271183,EA 166. Coming—but not yet [vassal letter],007,akk-x-mbperi:pānu[front]N akk-x-mbperi:šarru[king]N akk-x-mbperi:bēlu[lord]N
+aemw/amarna/P271183,EA 166. Coming—but not yet [vassal letter],008,
+aemw/amarna/P271183,EA 166. Coming—but not yet [vassal letter],009,akk-x-mbperi:māru[son]N
+aemw/amarna/P271183,EA 166. Coming—but not yet [vassal letter],010,akk-x-mbperi:ahu[brother]N akk-x-mbperi:gabbu[totality]N akk-x-mbperi:awīlu[man]N akk-x-mbperi:wardu[slave]N
+aemw/amarna/P271183,EA 166. Coming—but not yet [vassal letter],011,akk-x-mbperi:šarru[king]N akk-x-mbperi:bēlu[lord]N
+aemw/amarna/P271183,EA 166. Coming—but not yet [vassal letter],012,
+aemw/amarna/P271183,EA 166. Coming—but not yet [vassal letter],013,
+aemw/amarna/P271183,EA 166. Coming—but not yet [vassal letter],014,akk-x-mbperi:hamuttu[haste]N
+aemw/amarna/P271183,EA 166. Coming—but not yet [vassal letter],015,akk-x-mbperi:libbu[interior]N
+aemw/amarna/P271183,EA 166. Coming—but not yet [vassal letter],016,
+aemw/amarna/P271183,EA 166. Coming—but not yet [vassal letter],017,akk-x-mbperi:awātu[word]N akk-x-mbperi:bēlu[lord]N
+aemw/amarna/P271183,EA 166. Coming—but not yet [vassal letter],018,
+aemw/amarna/P271183,EA 166. Coming—but not yet [vassal letter],019,akk-x-mbperi:awātu[word]N
+aemw/amarna/P271183,EA 166. Coming—but not yet [vassal letter],020,akk-x-mbperi:wardu[slave]N akk-x-mbperi:bēlu[lord]N
+aemw/amarna/P271183,EA 166. Coming—but not yet [vassal letter],021,akk-x-mbperi:šarru[king]N
+aemw/amarna/P271183,EA 166. Coming—but not yet [vassal letter],022,
+aemw/amarna/P271183,EA 166. Coming—but not yet [vassal letter],023,akk-x-mbperi:pānu[front]N
+aemw/amarna/P271183,EA 166. Coming—but not yet [vassal letter],024,
+aemw/amarna/P271183,EA 166. Coming—but not yet [vassal letter],025,
+aemw/amarna/P271183,EA 166. Coming—but not yet [vassal letter],026,akk-x-mbperi:harrānu[way]N akk-x-mbperi:ašru[place]N
+aemw/amarna/P271183,EA 166. Coming—but not yet [vassal letter],027,akk-x-mbperi:pānu[front]N
+aemw/amarna/P271183,EA 166. Coming—but not yet [vassal letter],028,akk-x-mbperi:muhhu[skull]N akk-x-mbperi:awātu[word]N
+aemw/amarna/P271183,EA 166. Coming—but not yet [vassal letter],029,
+aemw/amarna/P271183,EA 166. Coming—but not yet [vassal letter],030,
+aemw/amarna/P271183,EA 166. Coming—but not yet [vassal letter],031,akk-x-mbperi:hamuttu[haste]N
+>>>>>>> d524642d5275e5016007339cafda4e021ecb17ba

@@ -1,0 +1,37 @@
+id_text,text_name,l_no,text
+saao/saa05/P334205,SAA 05 243. Portrait of a Vassal (ABL 0317),o 1,ana[to]PRP šarru[king]N bēlu[lord]N
+saao/saa05/P334205,SAA 05 243. Portrait of a Vassal (ABL 0317),o 2,ardu[slave]N Šarru-emuranni[1]PN
+saao/saa05/P334205,SAA 05 243. Portrait of a Vassal (ABL 0317),o 3,lū[may]MOD šulmu[completeness]N ana[to]PRP šarru[king]N bēlu[lord]N
+saao/saa05/P334205,SAA 05 243. Portrait of a Vassal (ABL 0317),o 4,lā[not]MOD māru[son]N bēlu[lord]N ālu[city]N ša[of]DET
+saao/saa05/P334205,SAA 05 243. Portrait of a Vassal (ABL 0317),o 5,anāku[I]IP umšarhu[(a-class-of-person)]N
+saao/saa05/P334205,SAA 05 243. Portrait of a Vassal (ABL 0317),o 6,ardu[slave]N ša[of]DET šarru[king]N bēlu[lord]N anāku[I]IP
+saao/saa05/P334205,SAA 05 243. Portrait of a Vassal (ABL 0317),o 7,šarru[king]N bēlu[lord]N ina[in]PRP Qunbuna[1]GN
+saao/saa05/P334205,SAA 05 243. Portrait of a Vassal (ABL 0317),o 8,paqādu[entrust]V mīnu[what?]QP
+saao/saa05/P334205,SAA 05 243. Portrait of a Vassal (ABL 0317),o 9,ša[that]REL amāru[see]V ša[that]REL šemû[hear]V
+saao/saa05/P334205,SAA 05 243. Portrait of a Vassal (ABL 0317),o 10,ina[in]PRP pānu[front]N šarru[king]N bēlu[lord]N qabû[say]V
+saao/saa05/P334205,SAA 05 243. Portrait of a Vassal (ABL 0317),o 11,memēni[somebody]XP ištu[from]PRP šarru[king]N lā[not]MOD pazāru[hide-o.s.]V
+saao/saa05/P334205,SAA 05 243. Portrait of a Vassal (ABL 0317),o 12,ina[in]PRP muhhu[skull]N ardu[slave]N ša[of]DET šarru[king]N bēlu[lord]N
+saao/saa05/P334205,SAA 05 243. Portrait of a Vassal (ABL 0317),o 13,ša[that]REL ištu[from]PRP Gargamis[Carchemish]GN ina[in]PRP Arzizi[1]GN
+saao/saa05/P334205,SAA 05 243. Portrait of a Vassal (ABL 0317),o 14,alāku[go]V
+saao/saa05/P334205,SAA 05 243. Portrait of a Vassal (ABL 0317),o 15,ša[that]REL ina[in]PRP ēkallu[palace]N ina[in]PRP muhhu[skull]N
+saao/saa05/P334205,SAA 05 243. Portrait of a Vassal (ABL 0317),o 16,šapāru[send]V ūma[today]AV annûri[now]AV
+saao/saa05/P334205,SAA 05 243. Portrait of a Vassal (ABL 0317),o 17,ṣabātu[seize]V ana[to]PRP šarru[king]N bēlu[lord]N
+saao/saa05/P334205,SAA 05 243. Portrait of a Vassal (ABL 0317),b.e. 18,tadānu[give]V ina[in]PRP libbu[interior]N annû[this]DP
+saao/saa05/P334205,SAA 05 243. Portrait of a Vassal (ABL 0317),b.e. 19,ina[in]PRP ēkallu[palace]N hakāmu[understand]V
+saao/saa05/P334205,SAA 05 243. Portrait of a Vassal (ABL 0317),b.e. 20,kī[like]PRP šiāhu[(meaning-unknown)]V
+saao/saa05/P334205,SAA 05 243. Portrait of a Vassal (ABL 0317),r 1,išti[with]PRP šarru[king]N dabābu[speak]V
+saao/saa05/P334205,SAA 05 243. Portrait of a Vassal (ABL 0317),r 2,ūma[today]AV Dada[1]PN
+saao/saa05/P334205,SAA 05 243. Portrait of a Vassal (ABL 0317),r 3,Arzizaya[Arzizean]EN
+saao/saa05/P334205,SAA 05 243. Portrait of a Vassal (ABL 0317),r 4,mā[saying]PRP atā[why?]QP karṣu[slander]N
+saao/saa05/P334205,SAA 05 243. Portrait of a Vassal (ABL 0317),r 5,ina[in]PRP ēkallu[palace]N akālu[eat]V Dada[1]PN
+saao/saa05/P334205,SAA 05 243. Portrait of a Vassal (ABL 0317),r 6,lā[not]MOD bēlu[lord]N dīnu[legal-decision]N šū[he]IP
+saao/saa05/P334205,SAA 05 243. Portrait of a Vassal (ABL 0317),r 7,memēni[somebody]XP ina[in]PRP pānu[front]N laššu[(there)-is-not]V
+saao/saa05/P334205,SAA 05 243. Portrait of a Vassal (ABL 0317),r 8,ūma[today]AV ina[in]PRP ēkallu[palace]N ana[to]PRP
+saao/saa05/P334205,SAA 05 243. Portrait of a Vassal (ABL 0317),r 9,ina[in]PRP muhhu[skull]N
+saao/saa05/P334205,SAA 05 243. Portrait of a Vassal (ABL 0317),r 10,šarru[king]N bēlu[lord]N šâlu[ask]V
+saao/saa05/P334205,SAA 05 243. Portrait of a Vassal (ABL 0317),r 11,šumma[if]MOD memēni[somebody]XP ina[in]PRP pānu[front]N
+saao/saa05/P334205,SAA 05 243. Portrait of a Vassal (ABL 0317),r 12,bašû[exist]V māru[son]N šipru[sending]N
+saao/saa05/P334205,SAA 05 243. Portrait of a Vassal (ABL 0317),r 13,kayyamānu[permanent]AJ ina[in]PRP
+saao/saa05/P334205,SAA 05 243. Portrait of a Vassal (ABL 0317),r 14,ina[in]PRP kallâmāre[in-the-early-morning]AV alāku[go]V
+saao/saa05/P334205,SAA 05 243. Portrait of a Vassal (ABL 0317),r 15,alāku[go]V
+saao/saa05/P334205,SAA 05 243. Portrait of a Vassal (ABL 0317),r 16,ša[of]DET nišu[people]N mātu[land]N

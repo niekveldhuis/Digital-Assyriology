@@ -1,0 +1,14 @@
+id_text,text_name,version,l_no,text
+etcsri/Q001717,Šulgi 85,,1,sux:Šulgir[1]RN
+etcsri/Q001717,Šulgi 85,,2,sux:nita[male]N sux:kalag[strong]V/i
+etcsri/Q001717,Šulgi 85,,3,sux:lugal[king]N sux:Urim[1]SN
+etcsri/Q001717,Šulgi 85,,4,sux:lugal[king]N sux:Kiengir[1]GN sux:Akkad[1]GN
+etcsri/Q001717,Šulgi 85,,5,sux:Šuqurtum[1]PN
+etcsri/Q001717,Šulgi 85,,6,sux:lukur[priestess]N sux:ki[place]N sux:aŋ[measure]V/t
+etcsri/Q001717,Šulgi 85,,7,sux:lu[person]N sux:musara[inscription]N
+etcsri/Q001717,Šulgi 85,,8,sux:šu[hand]N sux:ur[drag]V/t
+etcsri/Q001717,Šulgi 85,,9,sux:mu[name]N sux:sar[write]V/t
+etcsri/Q001717,Šulgi 85,,10,sux:Ninsumunak[1]DN
+etcsri/Q001717,Šulgi 85,,11,sux:diŋir[deity]N
+etcsri/Q001717,Šulgi 85,,12,sux:Lugalbanda[1]DN
+etcsri/Q001717,Šulgi 85,,13,sux:lugal[king]N

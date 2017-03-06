@@ -1,0 +1,21 @@
+id_text,text_name,l_no,text
+<<<<<<< HEAD
+aemw/amarna/P271165,EA 223. Compliance with orders [vassal letter],001,akk-x-mbperi:ana[to]PRP akk-x-mbperi:šarru[king]N akk-x-mbperi:bēlu[lord]N akk-x-mbperi:Šamaš[1]DN
+aemw/amarna/P271165,EA 223. Compliance with orders [vassal letter],002,akk-x-mbperi:ištu[from]PRP akk-x-mbperi:šamû[sky]N
+aemw/amarna/P271165,EA 223. Compliance with orders [vassal letter],003,akk-x-mbperi:qabû[say]V
+aemw/amarna/P271165,EA 223. Compliance with orders [vassal letter],004,akk-x-mbperi:umma[saying]PRP akk-x-mbperi:Intaruta[1]PN akk-x-mbperi:wardu[slave]N
+aemw/amarna/P271165,EA 223. Compliance with orders [vassal letter],005,akk-x-mbperi:ana[to]PRP akk-x-mbperi:šēpu[foot]N akk-x-mbperi:šarru[king]N akk-x-mbperi:bēlu[lord]N
+aemw/amarna/P271165,EA 223. Compliance with orders [vassal letter],006,akk-x-mbperi:šukênu[prostrate-oneself]V
+aemw/amarna/P271165,EA 223. Compliance with orders [vassal letter],007,akk-x-mbperi:gabbu[totality]N akk-x-mbperi:mimmû[all]N
+aemw/amarna/P271165,EA 223. Compliance with orders [vassal letter],008,akk-x-mbperi:ša[that]REL akk-x-mbperi:qabû[say]V
+=======
+aemw/amarna/P271165,EA 223. Compliance with orders [vassal letter],001,akk-x-mbperi:šarru[king]N akk-x-mbperi:bēlu[lord]N
+aemw/amarna/P271165,EA 223. Compliance with orders [vassal letter],002,akk-x-mbperi:šamû[sky]N
+aemw/amarna/P271165,EA 223. Compliance with orders [vassal letter],003,
+aemw/amarna/P271165,EA 223. Compliance with orders [vassal letter],004,akk-x-mbperi:wardu[slave]N
+aemw/amarna/P271165,EA 223. Compliance with orders [vassal letter],005,akk-x-mbperi:šēpu[foot]N akk-x-mbperi:šarru[king]N akk-x-mbperi:bēlu[lord]N
+aemw/amarna/P271165,EA 223. Compliance with orders [vassal letter],006,
+aemw/amarna/P271165,EA 223. Compliance with orders [vassal letter],007,akk-x-mbperi:gabbu[totality]N akk-x-mbperi:mimmû[all]N
+aemw/amarna/P271165,EA 223. Compliance with orders [vassal letter],008,
+>>>>>>> d524642d5275e5016007339cafda4e021ecb17ba
+aemw/amarna/P271165,EA 223. Compliance with orders [vassal letter],009,akk-x-mbperi:šarru[king]N akk-x-mbperi:bēlu[lord]N

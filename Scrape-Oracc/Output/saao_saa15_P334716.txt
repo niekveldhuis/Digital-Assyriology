@@ -1,0 +1,23 @@
+id_text,text_name,l_no,text
+saao/saa15/P334716,SAA 15 155. Merodach-Baladan Departs from Cutha (ABL 1071),o 1,ana[to]PRP šarru[king]N bēlu[lord]N
+saao/saa15/P334716,SAA 15 155. Merodach-Baladan Departs from Cutha (ABL 1071),o 2,ardu[slave]N Il-yadaʾ[1]PN lū[may]MOD šulmu[completeness]N
+saao/saa15/P334716,SAA 15 155. Merodach-Baladan Departs from Cutha (ABL 1071),o 3,ana[to]PRP šarru[king]N bēlu[lord]N šulmu[completeness]N ana[to]PRP mātu[land]N
+saao/saa15/P334716,SAA 15 155. Merodach-Baladan Departs from Cutha (ABL 1071),o 4,u[and]CNJ birtu[fort]N ša[of]DET šarru[king]N bēlu[lord]N
+saao/saa15/P334716,SAA 15 155. Merodach-Baladan Departs from Cutha (ABL 1071),o 5,libbu[interior]N ša[of]DET šarru[king]N bēlu[lord]N lū[may]MOD ṭābu[good]AJ
+saao/saa15/P334716,SAA 15 155. Merodach-Baladan Departs from Cutha (ABL 1071),o 6,ṭēmu[(fore)thought]N ša[of]DET Marduk-apla-iddina[Merodach-Baladan]PN
+saao/saa15/P334716,SAA 15 155. Merodach-Baladan Departs from Cutha (ABL 1071),o 7,ūmu[day]N ša[of]DET
+saao/saa15/P334716,SAA 15 155. Merodach-Baladan Departs from Cutha (ABL 1071),o 8,ištu[from]PRP Kute[Cutha]GN aṣû[go-out]V ūmu[day]N
+saao/saa15/P334716,SAA 15 155. Merodach-Baladan Departs from Cutha (ABL 1071),o 9,ina[in]PRP pānu[front]N
+saao/saa15/P334716,SAA 15 155. Merodach-Baladan Departs from Cutha (ABL 1071),o 10,erēbu[enter]V ištu[from]PRP
+saao/saa15/P334716,SAA 15 155. Merodach-Baladan Departs from Cutha (ABL 1071),o 11,raʾbu[raging]AJ
+saao/saa15/P334716,SAA 15 155. Merodach-Baladan Departs from Cutha (ABL 1071),o 12,šapāru[send]V
+saao/saa15/P334716,SAA 15 155. Merodach-Baladan Departs from Cutha (ABL 1071),o 13,purīṭu[(meaning-unknown)]N
+saao/saa15/P334716,SAA 15 155. Merodach-Baladan Departs from Cutha (ABL 1071),o 14,annûri[now]AV
+saao/saa15/P334716,SAA 15 155. Merodach-Baladan Departs from Cutha (ABL 1071),o 15,ša[that]REL šarru[king]N bēlu[lord]N
+saao/saa15/P334716,SAA 15 155. Merodach-Baladan Departs from Cutha (ABL 1071),r 2',mā[saying]PRP Marduk-apla-iddina[Merodach-Baladan]PN
+saao/saa15/P334716,SAA 15 155. Merodach-Baladan Departs from Cutha (ABL 1071),r 3',ina[in]PRP Kute[Cutha]GN
+saao/saa15/P334716,SAA 15 155. Merodach-Baladan Departs from Cutha (ABL 1071),r 4',mā[saying]PRP ištu[from]PRP Kute[Cutha]GN
+saao/saa15/P334716,SAA 15 155. Merodach-Baladan Departs from Cutha (ABL 1071),r 5',ina[in]PRP muhhu[skull]N
+saao/saa15/P334716,SAA 15 155. Merodach-Baladan Departs from Cutha (ABL 1071),r 6',naṣāru[guard]V mā[saying]PRP
+saao/saa15/P334716,SAA 15 155. Merodach-Baladan Departs from Cutha (ABL 1071),r 7',ina[in]PRP Kute[Cutha]GN
+saao/saa15/P334716,SAA 15 155. Merodach-Baladan Departs from Cutha (ABL 1071),r 8',annûri[now]AV ina[in]PRP pānu[front]N šarru[king]N bēlu[lord]N

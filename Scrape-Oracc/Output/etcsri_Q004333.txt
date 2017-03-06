@@ -1,0 +1,7 @@
+id_text,text_name,version,l_no,text
+etcsri/Q004333,Šulgi 2116add,,i 1,sux:Šulgir[1]RN
+etcsri/Q004333,Šulgi 2116add,,i 2,sux:lugal[king]N sux:kalag[strong]V/i
+etcsri/Q004333,Šulgi 2116add,,i 3,sux:lugal[king]N sux:Urim[1]SN
+etcsri/Q004333,Šulgi 2116add,,i 4,sux:lugal[king]N sux:anubda[quarter]N sux:limmu[four]NU
+etcsri/Q004333,Šulgi 2116add,,ii 1,sux:Šulgirili[2]PN
+etcsri/Q004333,Šulgi 2116add,,ii 2,sux:dumu[child]N sux:Kudanum[1]PN

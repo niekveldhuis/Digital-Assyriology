@@ -1,0 +1,28 @@
+id_text,text_name,l_no,text
+saao/saa15/P334203,SAA 15 223. The King Resident in Babylonia (ABL 0315),o 1,ana[to]PRP šarru[king]N bēlu[lord]N
+saao/saa15/P334203,SAA 15 223. The King Resident in Babylonia (ABL 0315),o 2,ardu[slave]N Šarru-emuranni[1]PN
+saao/saa15/P334203,SAA 15 223. The King Resident in Babylonia (ABL 0315),o 3,lū[may]MOD šulmu[completeness]N ana[to]PRP šarru[king]N bēlu[lord]N
+saao/saa15/P334203,SAA 15 223. The King Resident in Babylonia (ABL 0315),o 4,šulmu[completeness]N ana[to]PRP birtu[fort]N
+saao/saa15/P334203,SAA 15 223. The King Resident in Babylonia (ABL 0315),o 5,ina[in]PRP muhhu[skull]N sisû[horse]N
+saao/saa15/P334203,SAA 15 223. The King Resident in Babylonia (ABL 0315),o 6,ša[that]REL šarru[king]N bēlu[lord]N šapāru[send]V
+saao/saa15/P334203,SAA 15 223. The King Resident in Babylonia (ABL 0315),o 7,mā[saying]PRP ina[in]PRP Qudanati[1]GN
+saao/saa15/P334203,SAA 15 223. The King Resident in Babylonia (ABL 0315),o 8,alāku[go]V ēdēnû[single]AJ
+saao/saa15/P334203,SAA 15 223. The King Resident in Babylonia (ABL 0315),o 9,ṣabātu[seize]V
+saao/saa15/P334203,SAA 15 223. The King Resident in Babylonia (ABL 0315),o 10,rabû[big-one]N kiṣru[knot]N išti[with]PRP
+saao/saa15/P334203,SAA 15 223. The King Resident in Babylonia (ABL 0315),o 11,šapāru[send]V mādu[many]AJ
+saao/saa15/P334203,SAA 15 223. The King Resident in Babylonia (ABL 0315),o 12,māru[son]N Babili[Babylon]GN
+saao/saa15/P334203,SAA 15 223. The King Resident in Babylonia (ABL 0315),o 13,lū[may]MOD māru[son]N Barsip[Borsippa]GN
+saao/saa15/P334203,SAA 15 223. The King Resident in Babylonia (ABL 0315),o 14,ša[that]REL ina[in]PRP libbu[interior]N etēqu[proceed]V
+saao/saa15/P334203,SAA 15 223. The King Resident in Babylonia (ABL 0315),o 15,ṣabātu[seize]V
+saao/saa15/P334203,SAA 15 223. The King Resident in Babylonia (ABL 0315),o 16,akī[as]PRP ša[that]REL šarru[king]N bēlu[lord]N
+saao/saa15/P334203,SAA 15 223. The King Resident in Babylonia (ABL 0315),o 17,qabû[say]V
+saao/saa15/P334203,SAA 15 223. The King Resident in Babylonia (ABL 0315),r 1,ina[in]PRP muhhu[skull]N mušarkisu[(military)-procurement-officer]N
+saao/saa15/P334203,SAA 15 223. The King Resident in Babylonia (ABL 0315),r 2,ša[that]REL šarru[king]N bēlu[lord]N šapāru[send]V
+saao/saa15/P334203,SAA 15 223. The King Resident in Babylonia (ABL 0315),r 3,mā[saying]PRP atā[why?]QP dullu[trouble]N
+saao/saa15/P334203,SAA 15 223. The King Resident in Babylonia (ABL 0315),r 4,ramû[slacken]V halāqu[be(come)-lost]V
+saao/saa15/P334203,SAA 15 223. The King Resident in Babylonia (ABL 0315),r 5,laššu[(there)-is-not]V lā[not]MOD halāqu[be(come)-lost]V
+saao/saa15/P334203,SAA 15 223. The King Resident in Babylonia (ABL 0315),r 6,akī[as]PRP šarru[king]N bēlu[lord]N
+saao/saa15/P334203,SAA 15 223. The King Resident in Babylonia (ABL 0315),r 7,namāšu[set-(o.s.)-in-motion]V
+saao/saa15/P334203,SAA 15 223. The King Resident in Babylonia (ABL 0315),r 8,mahāru[face]V ramû[slacken]V
+saao/saa15/P334203,SAA 15 223. The King Resident in Babylonia (ABL 0315),r 9,ūma[today]AV šarru[king]N bēlu[lord]N
+saao/saa15/P334203,SAA 15 223. The King Resident in Babylonia (ABL 0315),r 10,annaka[here]AV bēdu[spending-the-night]AJ

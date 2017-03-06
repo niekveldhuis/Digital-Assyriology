@@ -1,0 +1,5 @@
+id_text,text_name,version,l_no,text
+etcsri/Q004882,Lagaš II Unidentified 1051add,,5',sux:namtil[life]N
+etcsri/Q004882,Lagaš II Unidentified 1051add,,6',sux:u[and]CNJ sux:namtil[life]N sux:dam[spouse]N sux:dumu[child]N
+etcsri/Q004882,Lagaš II Unidentified 1051add,,7',sux:a[water]N sux:ru[cvve]V/t
+etcsri/Q004882,Lagaš II Unidentified 1051add,,8',sux:alan[statue]N

@@ -1,0 +1,33 @@
+id_text,text_name,version,l_no,text
+etcsri/Q001025,Ur-Nanše 17,,i 1,sux:Urnanše[1]RN
+etcsri/Q001025,Ur-Nanše 17,,i 2,sux:lugal[king]N
+etcsri/Q001025,Ur-Nanše 17,,i 3,sux:Lagaš[1]SN
+etcsri/Q001025,Ur-Nanše 17,,i 4,sux:dumu[child]N sux:Gu-NI.DU[1]PN
+etcsri/Q001025,Ur-Nanše 17,,i 5,sux:dumu[child]N sux:Gursar[1]GN
+etcsri/Q001025,Ur-Nanše 17,,i 6,sux:e[house]N sux:Nanše[1]DN
+etcsri/Q001025,Ur-Nanše 17,,i 7,sux:du[build]V/t
+etcsri/Q001025,Ur-Nanše 17,,ii 1,sux:Nanše[1]DN
+etcsri/Q001025,Ur-Nanše 17,,ii 2,sux:utud[bear]V/t
+etcsri/Q001025,Ur-Nanše 17,,ii 3,sux:REC107[1]WN
+etcsri/Q001025,Ur-Nanše 17,,ii 4,sux:dun[dig]V/t
+etcsri/Q001025,Ur-Nanše 17,,ii 5,sux:Nanše[1]DN
+etcsri/Q001025,Ur-Nanše 17,,ii 6,sux:REC107[1]WN
+etcsri/Q001025,Ur-Nanše 17,,ii 7,sux:a[water]N sux:REC558[unknown]V/t
+etcsri/Q001025,Ur-Nanše 17,,iii 1,sux:Ešir[1]DN
+etcsri/Q001025,Ur-Nanše 17,,iii 2,sux:utud[bear]V/t
+etcsri/Q001025,Ur-Nanše 17,,iii 3,sux:Urnimin[1]PN
+etcsri/Q001025,Ur-Nanše 17,,iii 4,sux:dam[spouse]N
+etcsri/Q001025,Ur-Nanše 17,,iii 5,sux:Nanše[1]DN
+etcsri/Q001025,Ur-Nanše 17,,iii 6,sux:maš[goat]N sux:pad[find]V/t
+etcsri/Q001025,Ur-Nanše 17,,iii 7,sux:Aeden[1]TN
+etcsri/Q001025,Ur-Nanše 17,,iii 8,sux:du[build]V/t
+etcsri/Q001025,Ur-Nanše 17,,iv 1,sux:Nineŋara[1]TN
+etcsri/Q001025,Ur-Nanše 17,,iv 2,sux:du[build]V/t
+etcsri/Q001025,Ur-Nanše 17,,iv 3,sux:Eŋidruk[1]TN
+etcsri/Q001025,Ur-Nanše 17,,iv 4,sux:du[build]V/t
+etcsri/Q001025,Ur-Nanše 17,,iv 5,sux:bad[wall]N sux:Lagaš[1]SN
+etcsri/Q001025,Ur-Nanše 17,,iv 6,sux:du[build]V/t
+etcsri/Q001025,Ur-Nanše 17,,v 1,sux:Lugalurubak[1]DN
+etcsri/Q001025,Ur-Nanše 17,,v 2,sux:utud[bear]V/t
+etcsri/Q001025,Ur-Nanše 17,,v 3,sux:ma[ship]N sux:Dilmun[1]GN
+etcsri/Q001025,Ur-Nanše 17,,v 4,sux:kur[mountain]N

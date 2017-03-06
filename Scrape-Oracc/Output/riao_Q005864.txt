@@ -1,0 +1,13 @@
+id_text,text_name,l_no,text
+riao/Q005864,Tukulti-Ninurta I 28,o 1,Tukulti-Ninurta_I[king-of-Assyria]RN šarru[king]N kiššatu[totality]N māru[son]N Salmanu-ašared_I[Shalmaneser-I;-son-of-Adad-narari-I;-king-of-Assyria]RN šarru[king]N mātu[land]N Aššur[Assyria]GN
+riao/Q005864,Tukulti-Ninurta I 28,o 2,kišittu[achievement]N Karduniaš[Babylonia]GN munakkiru[one-who-alters-something]N šiṭru[(piece-of)-writing]N šumu[name]N
+riao/Q005864,Tukulti-Ninurta I 28,o 3,Aššur[1]DN Adad[1]DN šumu[name]N mātu[land]N halāqu[be(come)-lost]V
+riao/Q005864,Tukulti-Ninurta I 28,o 4,kunukku[seal]N annû[this]DP ištu[from]PRP mātu[land]N Aššur[Assyria]GN ana[to]PRP mātu[land]N Akkad[1]GN šarku[presented]AJ tadnu[given]AJ
+riao/Q005864,Tukulti-Ninurta I 28,o 5,anāku[I]IP Sin-ahhe-eriba[Sennacherib;-king-of-Assyria]RN šarru[king]N mātu[land]N Aššur[Assyria]GN
+riao/Q005864,Tukulti-Ninurta I 28,o 6,ina[in]PRP meʾatu[(one)-hundred]NU šattu[year]N Babili[Babylon]SN kašādu[reach]V
+riao/Q005864,Tukulti-Ninurta I 28,o 7,ištu[from]PRP makkūru[property]N Babili[Babylon]SN waṣû[go-out]V
+riao/Q005864,Tukulti-Ninurta I 28,o 8,makkūru[property]N Šagarakti-Šuriaš[king-of-Babylonia]RN šarru[king]N kiššatu[totality]N
+riao/Q005864,Tukulti-Ninurta I 28,r 9,Tukulti-Ninurta_I[king-of-Assyria]RN šarru[king]N kiššatu[totality]N māru[son]N Salmanu-ašared_I[Shalmaneser-I;-son-of-Adad-narari-I;-king-of-Assyria]RN šarru[king]N mātu[land]N Aššur[Assyria]GN
+riao/Q005864,Tukulti-Ninurta I 28,r 10,kišittu[achievement]N Karduniaš[Babylonia]GN munakkiru[one-who-alters-something]N šiṭru[(piece-of)-writing]N šumu[name]N
+riao/Q005864,Tukulti-Ninurta I 28,r 11,Aššur[1]DN Adad[1]DN šumu[name]N mātu[land]N halāqu[be(come)-lost]V
+riao/Q005864,Tukulti-Ninurta I 28,r 12,makkūru[property]N Šagarakti-Šuriaš[king-of-Babylonia]RN šarru[king]N kiššatu[totality]N

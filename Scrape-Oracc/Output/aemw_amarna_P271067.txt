@@ -1,0 +1,32 @@
+id_text,text_name,l_no,text
+<<<<<<< HEAD
+aemw/amarna/P271067,EA 182. Request for a garrison [vassal letter],001,akk-x-mbperi:ana[to]PRP akk-x-mbperi:šarru[king]N akk-x-mbperi:bēlu[lord]N akk-x-mbperi:ilu[god]N akk-x-mbperi:Šamaš[1]DN
+aemw/amarna/P271067,EA 182. Request for a garrison [vassal letter],002,akk-x-mbperi:umma[saying]PRP akk-x-mbperi:Šutarna[1]PN akk-x-mbperi:wardu[slave]N akk-x-mbperi:awīlu[man]N akk-x-mbperi:Mušihunu[1]GN
+aemw/amarna/P271067,EA 182. Request for a garrison [vassal letter],003,akk-x-mbperi:ana[to]PRP akk-x-mbperi:upru[dust]N akk-x-mbperi:ša[of]DET akk-x-mbperi:šēpu[foot]N
+aemw/amarna/P271067,EA 182. Request for a garrison [vassal letter],004,akk-x-mbperi:šarru[king]N akk-x-mbperi:bēlu[lord]N akk-x-mbperi:ilu[god]N akk-x-mbperi:Šamaš[1]DN
+aemw/amarna/P271067,EA 182. Request for a garrison [vassal letter],005,akk-x-mbperi:u[and]CNJ akk-x-mbperi:maqātu[fall]V
+aemw/amarna/P271067,EA 182. Request for a garrison [vassal letter],006,akk-x-mbperi:kī[like]PRP akk-x-mbperi:edû[know]V akk-x-mbperi:šarru[king]N akk-x-mbperi:bēlu[lord]N
+aemw/amarna/P271067,EA 182. Request for a garrison [vassal letter],007,akk-x-mbperi:ana[to]PRP akk-x-mbperi:mātu[land]N
+aemw/amarna/P271067,EA 182. Request for a garrison [vassal letter],008,akk-x-mbperi:u[and]CNJ akk-x-mbperi:wašāru[sink-down]V
+aemw/amarna/P271067,EA 182. Request for a garrison [vassal letter],009,akk-x-mbperi:šarru[king]N akk-x-mbperi:bēlu[lord]N
+aemw/amarna/P271067,EA 182. Request for a garrison [vassal letter],010,akk-x-mbperi:awīlu[man]N akk-x-mbperi:maṣṣartu[observation]N
+aemw/amarna/P271067,EA 182. Request for a garrison [vassal letter],011,akk-x-mbperi:u[and]CNJ akk-x-mbperi:alāku[go]V akk-x-mbperi:ana[to]PRP
+aemw/amarna/P271067,EA 182. Request for a garrison [vassal letter],012,akk-x-mbperi:ālu[city]N akk-x-mbperi:šarru[king]N akk-x-mbperi:bēlu[lord]N
+aemw/amarna/P271067,EA 182. Request for a garrison [vassal letter],013,akk-x-mbperi:ilu[god]N akk-x-mbperi:Šamaš[1]DN
+aemw/amarna/P271067,EA 182. Request for a garrison [vassal letter],014,akk-x-mbperi:adi[until]PRP akk-x-mbperi:edû[know]V akk-x-mbperi:šarru[king]N akk-x-mbperi:bēlu[lord]N
+=======
+aemw/amarna/P271067,EA 182. Request for a garrison [vassal letter],001,akk-x-mbperi:šarru[king]N akk-x-mbperi:bēlu[lord]N akk-x-mbperi:ilu[god]N
+aemw/amarna/P271067,EA 182. Request for a garrison [vassal letter],002,akk-x-mbperi:wardu[slave]N akk-x-mbperi:awīlu[man]N
+aemw/amarna/P271067,EA 182. Request for a garrison [vassal letter],003,akk-x-mbperi:upru[dust]N akk-x-mbperi:šēpu[foot]N
+aemw/amarna/P271067,EA 182. Request for a garrison [vassal letter],004,akk-x-mbperi:šarru[king]N akk-x-mbperi:bēlu[lord]N akk-x-mbperi:ilu[god]N
+aemw/amarna/P271067,EA 182. Request for a garrison [vassal letter],005,
+aemw/amarna/P271067,EA 182. Request for a garrison [vassal letter],006,akk-x-mbperi:šarru[king]N akk-x-mbperi:bēlu[lord]N
+aemw/amarna/P271067,EA 182. Request for a garrison [vassal letter],007,akk-x-mbperi:mātu[land]N
+aemw/amarna/P271067,EA 182. Request for a garrison [vassal letter],008,
+aemw/amarna/P271067,EA 182. Request for a garrison [vassal letter],009,akk-x-mbperi:šarru[king]N akk-x-mbperi:bēlu[lord]N
+aemw/amarna/P271067,EA 182. Request for a garrison [vassal letter],010,akk-x-mbperi:awīlu[man]N akk-x-mbperi:maṣṣartu[observation]N
+aemw/amarna/P271067,EA 182. Request for a garrison [vassal letter],011,
+aemw/amarna/P271067,EA 182. Request for a garrison [vassal letter],012,akk-x-mbperi:ālu[city]N akk-x-mbperi:šarru[king]N akk-x-mbperi:bēlu[lord]N
+aemw/amarna/P271067,EA 182. Request for a garrison [vassal letter],013,akk-x-mbperi:ilu[god]N
+aemw/amarna/P271067,EA 182. Request for a garrison [vassal letter],014,akk-x-mbperi:šarru[king]N akk-x-mbperi:bēlu[lord]N
+>>>>>>> d524642d5275e5016007339cafda4e021ecb17ba

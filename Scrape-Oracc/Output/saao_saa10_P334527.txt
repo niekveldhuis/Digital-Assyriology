@@ -1,0 +1,43 @@
+id_text,text_name,l_no,text
+saao/saa10/P334527,SAA 10 328. Medications for the King (ABL 0740) [from physicians],o 1,ana[to]PRP šarru[king]N bēlu[lord]N
+saao/saa10/P334527,SAA 10 328. Medications for the King (ABL 0740) [from physicians],o 2,ardu[slave]N Ikkaru[1]PN
+saao/saa10/P334527,SAA 10 328. Medications for the King (ABL 0740) [from physicians],o 3,lū[may]MOD šulmu[completeness]N ana[to]PRP šarru[king]N bēlu[lord]N
+saao/saa10/P334527,SAA 10 328. Medications for the King (ABL 0740) [from physicians],o 4,adanniš[very-much]AV adanniš[very-much]AV Nabu[1]DN Marduk[1]DN
+saao/saa10/P334527,SAA 10 328. Medications for the King (ABL 0740) [from physicians],o 5,ana[to]PRP šarru[king]N bēlu[lord]N karābu[pray]V
+saao/saa10/P334527,SAA 10 328. Medications for the King (ABL 0740) [from physicians],o 6,Bel[1]DN Nabu[1]DN Belet-balaṭi[lady-of-life;-Damkina]DN ṭūbu[goodness]N libbu[interior]N
+saao/saa10/P334527,SAA 10 328. Medications for the King (ABL 0740) [from physicians],o 7,ṭūbu[goodness]N šīru[flesh]N ana[to]PRP šarru[king]N bēlu[lord]N
+saao/saa10/P334527,SAA 10 328. Medications for the King (ABL 0740) [from physicians],o 8,tadānu[give]V napšaštu[ointment]N qutāru[incense]N
+saao/saa10/P334527,SAA 10 328. Medications for the King (ABL 0740) [from physicians],o 9,mêlu[poultice-(hung-round-neck)]N mašqītu[watering-place]N šalāšī-[three-times]AV
+saao/saa10/P334527,SAA 10 328. Medications for the King (ABL 0740) [from physicians],o 10,ana[to]PRP šarru[king]N bēlu[lord]N wabālu[bring]V
+saao/saa10/P334527,SAA 10 328. Medications for the King (ABL 0740) [from physicians],o 11,šumma[if]MOD erēbu[enter]V ina[in]PRP pānu[front]N šarru[king]N bēlu[lord]N
+saao/saa10/P334527,SAA 10 328. Medications for the King (ABL 0740) [from physicians],o 12,šumma[if]MOD lā[not]MOD erēbu[enter]V lā[not]MOD wadû[know]V
+saao/saa10/P334527,SAA 10 328. Medications for the King (ABL 0740) [from physicians],o 13,lā[not]MOD gabarû[copy]N egertu[inscribed-tablet]N amāru[see]V
+saao/saa10/P334527,SAA 10 328. Medications for the King (ABL 0740) [from physicians],o 14,lā[not]MOD šulmu[completeness]N ša[of]DET šarru[king]N bēlu[lord]N šemû[hear]V
+saao/saa10/P334527,SAA 10 328. Medications for the King (ABL 0740) [from physicians],o 15,šarru[king]N bēlu[lord]N kī[like]PRP māru[son]N šarru[king]N šūtu[he]IP
+saao/saa10/P334527,SAA 10 328. Medications for the King (ABL 0740) [from physicians],o 16,ina[in]PRP Nabuʾa[1]PN alāku[go]V
+saao/saa10/P334527,SAA 10 328. Medications for the King (ABL 0740) [from physicians],o 17,kī[like]PRP ša[of]DET šarru[king]N humṭu[heat]N
+saao/saa10/P334527,SAA 10 328. Medications for the King (ABL 0740) [from physicians],o 18,ina[in]PRP libbu[interior]N īnu[eye]N kullu[hold]V
+saao/saa10/P334527,SAA 10 328. Medications for the King (ABL 0740) [from physicians],o 19,Kabti[1]PN
+saao/saa10/P334527,SAA 10 328. Medications for the King (ABL 0740) [from physicians],b.e. 20,dilpu[effort]N
+saao/saa10/P334527,SAA 10 328. Medications for the King (ABL 0740) [from physicians],r 1,Marduk-šallim-ahhe[1]PN
+saao/saa10/P334527,SAA 10 328. Medications for the King (ABL 0740) [from physicians],r 2,šaplu[low(er)]AJ
+saao/saa10/P334527,SAA 10 328. Medications for the King (ABL 0740) [from physicians],r 3,ina[in]PRP libbu[interior]N
+saao/saa10/P334527,SAA 10 328. Medications for the King (ABL 0740) [from physicians],r 4,ūma[today]AV
+saao/saa10/P334527,SAA 10 328. Medications for the King (ABL 0740) [from physicians],r 5,šaplu[low(er)]AJ
+saao/saa10/P334527,SAA 10 328. Medications for the King (ABL 0740) [from physicians],r 6,Aššur[1]DN ina[in]PRP libbu[interior]N lā[not]MOD ašābu[sit-(down)]V
+saao/saa10/P334527,SAA 10 328. Medications for the King (ABL 0740) [from physicians],r 7,dilpu[effort]N bašû[exist]V
+saao/saa10/P334527,SAA 10 328. Medications for the King (ABL 0740) [from physicians],r 8,ana[to]PRP qinniš[backwards]AV alāku[go]V
+saao/saa10/P334527,SAA 10 328. Medications for the King (ABL 0740) [from physicians],r 9,issurri[perhaps]AV šarru[king]N bēlu[lord]N qabû[say]V
+saao/saa10/P334527,SAA 10 328. Medications for the King (ABL 0740) [from physicians],r 10,mā[saying]PRP ūmu[day]N ṣarhu[hot]AJ ammar[as-much-as]REL ina[in]PRP pānu[front]N
+saao/saa10/P334527,SAA 10 328. Medications for the King (ABL 0740) [from physicians],r 11,šarru[king]N bēlu[lord]N mahru[received]AJ ina[in]PRP libbu[interior]N
+saao/saa10/P334527,SAA 10 328. Medications for the King (ABL 0740) [from physicians],r 12,ašābu[sit-(down)]V Šamaš-šumu-ukin[1]PN
+saao/saa10/P334527,SAA 10 328. Medications for the King (ABL 0740) [from physicians],r 13,šulmu[completeness]N adanniš[very-much]AV adanniš[very-much]AV libbu[interior]N
+saao/saa10/P334527,SAA 10 328. Medications for the King (ABL 0740) [from physicians],r 14,ša[of]DET šarru[king]N bēlu[lord]N lū[may]MOD ṭābu[good]AJ ištu[from]PRP libbu[interior]N ūmu[day]N
+saao/saa10/P334527,SAA 10 328. Medications for the King (ABL 0740) [from physicians],r 15,dāmu[blood]N ša[of]DET šatû[drink]V tadānu[give]V
+saao/saa10/P334527,SAA 10 328. Medications for the King (ABL 0740) [from physicians],r 16,ūmu[day]N šatû[drink]V ūmu[day]N
+saao/saa10/P334527,SAA 10 328. Medications for the King (ABL 0740) [from physicians],r 17,ša[of]DET ana[to]PRP bītānu[interior]N tadānu[give]V
+saao/saa10/P334527,SAA 10 328. Medications for the King (ABL 0740) [from physicians],r 18,Bel[1]DN Nabu[1]DN Belet-balaṭi[lady-of-life;-Damkina]DN
+saao/saa10/P334527,SAA 10 328. Medications for the King (ABL 0740) [from physicians],r 19,šīru[flesh]N ša[of]DET Šamaš-šumu-ukin[1]PN
+saao/saa10/P334527,SAA 10 328. Medications for the King (ABL 0740) [from physicians],r 20,ṭiābu[be(come)-good]V alāku[go]V
+saao/saa10/P334527,SAA 10 328. Medications for the King (ABL 0740) [from physicians],r.e. 21,pānu[front]N ša[of]DET šarru[king]N bēlu[lord]N amāru[see]V
+saao/saa10/P334527,SAA 10 328. Medications for the King (ABL 0740) [from physicians],r.e. 22,kīma[like]PRP šarru[king]N bēlu[lord]N lā[not]MOD qabû[say]V

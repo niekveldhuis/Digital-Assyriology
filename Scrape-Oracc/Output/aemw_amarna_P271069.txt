@@ -1,0 +1,34 @@
+id_text,text_name,l_no,text
+<<<<<<< HEAD
+aemw/amarna/P271069,EA 200. About Ahlameans [vassal letter],001,akk-x-mbperi:ana[to]PRP akk-x-mbperi:šarru[king]N akk-x-mbperi:bēlu[lord]N
+aemw/amarna/P271069,EA 200. About Ahlameans [vassal letter],002,akk-x-mbperi:ilu[god]N akk-x-mbperi:Šamaš[1]DN
+aemw/amarna/P271069,EA 200. About Ahlameans [vassal letter],003,akk-x-mbperi:qabû[say]V
+aemw/amarna/P271069,EA 200. About Ahlameans [vassal letter],004,akk-x-mbperi:umma[saying]PRP akk-x-mbperi:wardu[slave]N
+aemw/amarna/P271069,EA 200. About Ahlameans [vassal letter],005,akk-x-mbperi:u[and]CNJ akk-x-mbperi:maqātu[fall]V
+aemw/amarna/P271069,EA 200. About Ahlameans [vassal letter],006,akk-x-mbperi:ana[to]PRP akk-x-mbperi:šēpu[foot]N akk-x-mbperi:šarru[king]N akk-x-mbperi:bēlu[lord]N
+aemw/amarna/P271069,EA 200. About Ahlameans [vassal letter],007,akk-x-mbperi:amāru[see]V akk-x-mbperi:ša[that]REL akk-x-mbperi:šemû[hear]V
+aemw/amarna/P271069,EA 200. About Ahlameans [vassal letter],008,akk-x-mbperi:muhhu[skull]N akk-x-mbperi:māru[son]N akk-x-mbperi:Ahlamu[(Aramaean)]EN
+aemw/amarna/P271069,EA 200. About Ahlameans [vassal letter],009,akk-x-mbperi:šarru[king]N akk-x-mbperi:ša[of]DET akk-x-mbperi:Karduniaš[Babylonia]GN
+aemw/amarna/P271069,EA 200. About Ahlameans [vassal letter],010,akk-x-mbperi:u[and]CNJ akk-x-mbperi:Ahlamu[(Aramaean)]EN
+aemw/amarna/P271069,EA 200. About Ahlameans [vassal letter],011,akk-x-mbperi:ana[to]PRP akk-x-mbperi:akālu[eat]V
+aemw/amarna/P271069,EA 200. About Ahlameans [vassal letter],012,akk-x-mbperi:šarru[king]N akk-x-mbperi:bēlu[lord]N
+aemw/amarna/P271069,EA 200. About Ahlameans [vassal letter],013,akk-x-mbperi:kī[like]PRP
+aemw/amarna/P271069,EA 200. About Ahlameans [vassal letter],014,akk-x-mbperi:lā[not]MOD akk-x-mbperi:waṣû[go-out]V
+aemw/amarna/P271069,EA 200. About Ahlameans [vassal letter],015,akk-x-mbperi:u[and]CNJ akk-x-mbperi:lā[not]MOD akk-x-mbperi:šapru[sent]AJ
+=======
+aemw/amarna/P271069,EA 200. About Ahlameans [vassal letter],001,akk-x-mbperi:šarru[king]N akk-x-mbperi:bēlu[lord]N
+aemw/amarna/P271069,EA 200. About Ahlameans [vassal letter],002,akk-x-mbperi:ilu[god]N
+aemw/amarna/P271069,EA 200. About Ahlameans [vassal letter],003,
+aemw/amarna/P271069,EA 200. About Ahlameans [vassal letter],004,akk-x-mbperi:wardu[slave]N
+aemw/amarna/P271069,EA 200. About Ahlameans [vassal letter],005,
+aemw/amarna/P271069,EA 200. About Ahlameans [vassal letter],006,akk-x-mbperi:šēpu[foot]N akk-x-mbperi:šarru[king]N akk-x-mbperi:bēlu[lord]N
+aemw/amarna/P271069,EA 200. About Ahlameans [vassal letter],007,
+aemw/amarna/P271069,EA 200. About Ahlameans [vassal letter],008,akk-x-mbperi:muhhu[skull]N akk-x-mbperi:māru[son]N
+aemw/amarna/P271069,EA 200. About Ahlameans [vassal letter],009,akk-x-mbperi:šarru[king]N
+aemw/amarna/P271069,EA 200. About Ahlameans [vassal letter],010,
+aemw/amarna/P271069,EA 200. About Ahlameans [vassal letter],011,
+aemw/amarna/P271069,EA 200. About Ahlameans [vassal letter],012,akk-x-mbperi:šarru[king]N akk-x-mbperi:bēlu[lord]N
+aemw/amarna/P271069,EA 200. About Ahlameans [vassal letter],013,
+aemw/amarna/P271069,EA 200. About Ahlameans [vassal letter],014,
+aemw/amarna/P271069,EA 200. About Ahlameans [vassal letter],015,
+>>>>>>> d524642d5275e5016007339cafda4e021ecb17ba

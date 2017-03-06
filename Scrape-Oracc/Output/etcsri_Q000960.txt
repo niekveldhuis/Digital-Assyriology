@@ -1,0 +1,7 @@
+id_text,text_name,version,l_no,text
+etcsri/Q000960,Šulgi 03,,1,sux:Šulgir[1]RN
+etcsri/Q000960,Šulgi 03,,2,sux:nita[male]N sux:kalag[strong]V/i
+etcsri/Q000960,Šulgi 03,,3,sux:lugal[king]N sux:Urim[1]SN
+etcsri/Q000960,Šulgi 03,,4,sux:lugal[king]N sux:Kiengir[1]GN sux:Akkad[1]GN
+etcsri/Q000960,Šulgi 03,,5,sux:Ehursaŋ[1]TN
+etcsri/Q000960,Šulgi 03,,6,sux:e[house]N sux:ki[place]N sux:aŋ[measure]V/t

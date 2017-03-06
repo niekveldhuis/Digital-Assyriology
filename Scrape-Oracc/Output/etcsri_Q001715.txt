@@ -1,0 +1,7 @@
+id_text,text_name,version,l_no,text
+etcsri/Q001715,Šulgi 83,,1,sux:Šulgir[1]RN
+etcsri/Q001715,Šulgi 83,,2,sux:diŋir[deity]N sux:kalam[land]N
+etcsri/Q001715,Šulgi 83,,3,sux:lugal[king]N sux:Urim[1]SN
+etcsri/Q001715,Šulgi 83,,4,sux:lugal[king]N sux:anubda[quarter]N sux:limmu[four]NU
+etcsri/Q001715,Šulgi 83,,5,sux:Ninkala[1]PN
+etcsri/Q001715,Šulgi 83,,6,sux:dumu[child]N sux:Nibru[1]SN

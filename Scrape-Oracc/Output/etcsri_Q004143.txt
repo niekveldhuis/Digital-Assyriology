@@ -1,0 +1,6 @@
+id_text,text_name,version,l_no,text
+etcsri/Q004143,Amar-Suen 2041add,,i 1,sux:Amarsuenak[1]RN
+etcsri/Q004143,Amar-Suen 2041add,,i 2,sux:nita[male]N sux:kalag[strong]V/i
+etcsri/Q004143,Amar-Suen 2041add,,i 3,sux:lugal[king]N sux:Urim[1]SN
+etcsri/Q004143,Amar-Suen 2041add,,ii 1,sux:Naramili[1]PN
+etcsri/Q004143,Amar-Suen 2041add,,ii 2,sux:sukkal[secretary]N sux:idu[doorkeeper]N

@@ -1,0 +1,58 @@
+id_text,text_name,l_no,text
+<<<<<<< HEAD
+aemw/amarna/P271062,EA 300. A servant like his father [vassal letter],001,akk-x-mbperi:ana[to]PRP akk-x-mbperi:šarru[king]N akk-x-mbperi:bēlu[lord]N akk-x-mbperi:ilu[god]N
+aemw/amarna/P271062,EA 300. A servant like his father [vassal letter],002,akk-x-mbperi:Šamaš[1]DN akk-x-mbperi:Šamaš[1]DN akk-x-mbperi:ša[that]REL akk-x-mbperi:ištu[from]PRP
+aemw/amarna/P271062,EA 300. A servant like his father [vassal letter],003,akk-x-mbperi:šamû[sky]N akk-x-mbperi:šamû[sky]N akk-x-mbperi:qabû[say]V akk-x-mbperi:umma[saying]PRP
+aemw/amarna/P271062,EA 300. A servant like his father [vassal letter],004,akk-x-mbperi:Yapaʾu[1]PN akk-x-mbperi:awīlu[man]N akk-x-mbperi:ša[of]DET
+aemw/amarna/P271062,EA 300. A servant like his father [vassal letter],005,akk-x-mbperi:Gazru[Gezer]GN akk-x-mbperi:wardu[slave]N
+aemw/amarna/P271062,EA 300. A servant like his father [vassal letter],006,akk-x-mbperi:u[and]CNJ akk-x-mbperi:eperu[earth]N akk-x-mbperi:ša[of]DET akk-x-mbperi:šēpu[foot]N
+aemw/amarna/P271062,EA 300. A servant like his father [vassal letter],007,akk-x-mbperi:kartappu[(animal)-driver]N akk-x-mbperi:ša[of]DET akk-x-mbperi:sisû[horse]N
+aemw/amarna/P271062,EA 300. A servant like his father [vassal letter],008,akk-x-mbperi:ana[to]PRP akk-x-mbperi:šēpu[foot]N akk-x-mbperi:šarru[king]N akk-x-mbperi:bēlu[lord]N
+aemw/amarna/P271062,EA 300. A servant like his father [vassal letter],009,akk-x-mbperi:u[and]CNJ
+aemw/amarna/P271062,EA 300. A servant like his father [vassal letter],010,akk-x-mbperi:maqātu[fall]V akk-x-mbperi:edû[know]V akk-x-mbperi:šarru[king]N
+aemw/amarna/P271062,EA 300. A servant like his father [vassal letter],011,akk-x-mbperi:bēlu[lord]N akk-x-mbperi:ana[to]PRP akk-x-mbperi:wardu[slave]N
+aemw/amarna/P271062,EA 300. A servant like his father [vassal letter],012,akk-x-mbperi:balāṭu[life]N akk-x-mbperi:halqu[lost]AJ akk-x-mbperi:ištu[from]PRP
+aemw/amarna/P271062,EA 300. A servant like his father [vassal letter],013,akk-x-mbperi:mātu[land]N akk-x-mbperi:u[and]CNJ akk-x-mbperi:anumma[now]AV akk-x-mbperi:yānu[(there)-is-not]V
+aemw/amarna/P271062,EA 300. A servant like his father [vassal letter],014,akk-x-mbperi:mimma[anything]XP akk-x-mbperi:ana[to]PRP akk-x-mbperi:yâšim[to-me]IP
+aemw/amarna/P271062,EA 300. A servant like his father [vassal letter],015,akk-x-mbperi:u[and]CNJ akk-x-mbperi:lū[let-it-be]MOD akk-x-mbperi:wašāru[sink-down]V akk-x-mbperi:šarru[king]N
+aemw/amarna/P271062,EA 300. A servant like his father [vassal letter],016,akk-x-mbperi:ṣābu[people]N akk-x-mbperi:piṭṭātu[archers]N
+aemw/amarna/P271062,EA 300. A servant like his father [vassal letter],017,akk-x-mbperi:šunu[they]IP akk-x-mbperi:yâti[me]IP
+aemw/amarna/P271062,EA 300. A servant like his father [vassal letter],018,akk-x-mbperi:erēbu[enter]V
+aemw/amarna/P271062,EA 300. A servant like his father [vassal letter],019,akk-x-mbperi:ana[to]PRP akk-x-mbperi:ālu[city]N
+aemw/amarna/P271062,EA 300. A servant like his father [vassal letter],020,akk-x-mbperi:u[and]CNJ akk-x-mbperi:lū[let-it-be]MOD akk-x-mbperi:arādu[serve]V
+aemw/amarna/P271062,EA 300. A servant like his father [vassal letter],021,akk-x-mbperi:šarru[king]N akk-x-mbperi:bēlu[lord]N akk-x-mbperi:kīma[like]PRP akk-x-mbperi:ša[that]REL
+aemw/amarna/P271062,EA 300. A servant like his father [vassal letter],022,akk-x-mbperi:abu[father]N akk-x-mbperi:u[and]CNJ akk-x-mbperi:abu[father]N
+aemw/amarna/P271062,EA 300. A servant like his father [vassal letter],023,akk-x-mbperi:u[and]CNJ akk-x-mbperi:šanītu[something-other]N akk-x-mbperi:šemû[hear]V
+aemw/amarna/P271062,EA 300. A servant like his father [vassal letter],024,akk-x-mbperi:ana[to]PRP akk-x-mbperi:awātu[word]N akk-x-mbperi:šarru[king]N akk-x-mbperi:bēlu[lord]N
+aemw/amarna/P271062,EA 300. A servant like his father [vassal letter],025,akk-x-mbperi:u[and]CNJ akk-x-mbperi:šemû[hear]V akk-x-mbperi:ana[to]PRP akk-x-mbperi:awātu[word]N
+aemw/amarna/P271062,EA 300. A servant like his father [vassal letter],026,akk-x-mbperi:Maya[1]PN akk-x-mbperi:rābiṣu[bailiff]N akk-x-mbperi:šarru[king]N
+aemw/amarna/P271062,EA 300. A servant like his father [vassal letter],027,akk-x-mbperi:bēlu[lord]N akk-x-mbperi:Šamaš[1]DN akk-x-mbperi:ištu[from]PRP
+=======
+aemw/amarna/P271062,EA 300. A servant like his father [vassal letter],001,akk-x-mbperi:šarru[king]N akk-x-mbperi:bēlu[lord]N akk-x-mbperi:ilu[god]N
+aemw/amarna/P271062,EA 300. A servant like his father [vassal letter],002,
+aemw/amarna/P271062,EA 300. A servant like his father [vassal letter],003,akk-x-mbperi:šamû[sky]N akk-x-mbperi:šamû[sky]N
+aemw/amarna/P271062,EA 300. A servant like his father [vassal letter],004,akk-x-mbperi:awīlu[man]N
+aemw/amarna/P271062,EA 300. A servant like his father [vassal letter],005,akk-x-mbperi:wardu[slave]N
+aemw/amarna/P271062,EA 300. A servant like his father [vassal letter],006,akk-x-mbperi:eperu[earth]N akk-x-mbperi:šēpu[foot]N
+aemw/amarna/P271062,EA 300. A servant like his father [vassal letter],007,akk-x-mbperi:kartappu[(animal)-driver]N akk-x-mbperi:sisû[horse]N
+aemw/amarna/P271062,EA 300. A servant like his father [vassal letter],008,akk-x-mbperi:šēpu[foot]N akk-x-mbperi:šarru[king]N akk-x-mbperi:bēlu[lord]N
+aemw/amarna/P271062,EA 300. A servant like his father [vassal letter],009,
+aemw/amarna/P271062,EA 300. A servant like his father [vassal letter],010,akk-x-mbperi:šarru[king]N
+aemw/amarna/P271062,EA 300. A servant like his father [vassal letter],011,akk-x-mbperi:bēlu[lord]N akk-x-mbperi:wardu[slave]N
+aemw/amarna/P271062,EA 300. A servant like his father [vassal letter],012,akk-x-mbperi:balāṭu[life]N
+aemw/amarna/P271062,EA 300. A servant like his father [vassal letter],013,akk-x-mbperi:mātu[land]N
+aemw/amarna/P271062,EA 300. A servant like his father [vassal letter],014,
+aemw/amarna/P271062,EA 300. A servant like his father [vassal letter],015,akk-x-mbperi:šarru[king]N
+aemw/amarna/P271062,EA 300. A servant like his father [vassal letter],016,akk-x-mbperi:ṣābu[people]N akk-x-mbperi:piṭṭātu[archers]N
+aemw/amarna/P271062,EA 300. A servant like his father [vassal letter],017,
+aemw/amarna/P271062,EA 300. A servant like his father [vassal letter],018,
+aemw/amarna/P271062,EA 300. A servant like his father [vassal letter],019,akk-x-mbperi:ālu[city]N
+aemw/amarna/P271062,EA 300. A servant like his father [vassal letter],020,
+aemw/amarna/P271062,EA 300. A servant like his father [vassal letter],021,akk-x-mbperi:šarru[king]N akk-x-mbperi:bēlu[lord]N
+aemw/amarna/P271062,EA 300. A servant like his father [vassal letter],022,akk-x-mbperi:abu[father]N akk-x-mbperi:abu[father]N
+aemw/amarna/P271062,EA 300. A servant like his father [vassal letter],023,akk-x-mbperi:šanītu[something-other]N
+aemw/amarna/P271062,EA 300. A servant like his father [vassal letter],024,akk-x-mbperi:awātu[word]N akk-x-mbperi:šarru[king]N akk-x-mbperi:bēlu[lord]N
+aemw/amarna/P271062,EA 300. A servant like his father [vassal letter],025,akk-x-mbperi:awātu[word]N
+aemw/amarna/P271062,EA 300. A servant like his father [vassal letter],026,akk-x-mbperi:rābiṣu[bailiff]N akk-x-mbperi:šarru[king]N
+aemw/amarna/P271062,EA 300. A servant like his father [vassal letter],027,akk-x-mbperi:bēlu[lord]N
+>>>>>>> d524642d5275e5016007339cafda4e021ecb17ba

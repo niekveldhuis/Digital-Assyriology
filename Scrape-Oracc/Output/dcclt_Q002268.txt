@@ -1,0 +1,219 @@
+id_text,text_name,l_no,text
+dcclt/Q002268,OB Nippur Ugumu,1,sux:ugu[skull]N
+dcclt/Q002268,OB Nippur Ugumu,2,sux:ugu[skull]N
+dcclt/Q002268,OB Nippur Ugumu,3,sux:ugudili[scalp]N
+dcclt/Q002268,OB Nippur Ugumu,4,sux:saŋdu[head]N
+dcclt/Q002268,OB Nippur Ugumu,5,sux:saŋki[forehead]N
+dcclt/Q002268,OB Nippur Ugumu,6,sux:saŋki[forehead]N
+dcclt/Q002268,OB Nippur Ugumu,7,sux:saŋki[forehead]N
+dcclt/Q002268,OB Nippur Ugumu,8,sux:saŋ[head]N
+dcclt/Q002268,OB Nippur Ugumu,9,sux:saŋ[head]N
+dcclt/Q002268,OB Nippur Ugumu,10,sux:siki[hair]N
+dcclt/Q002268,OB Nippur Ugumu,11,sux:siki[hair]N
+dcclt/Q002268,OB Nippur Ugumu,12,sux:siki[hair]N
+dcclt/Q002268,OB Nippur Ugumu,13,sux:siki[hair]N
+dcclt/Q002268,OB Nippur Ugumu,14,sux:siki[hair]N
+dcclt/Q002268,OB Nippur Ugumu,15,sux:siki[hair]N
+dcclt/Q002268,OB Nippur Ugumu,16,sux:siki[hair]N
+dcclt/Q002268,OB Nippur Ugumu,17,sux:siki[hair]N
+dcclt/Q002268,OB Nippur Ugumu,18,sux:siki[hair]N
+dcclt/Q002268,OB Nippur Ugumu,19,sux:dula[depth]N sux:siki[hair]N
+dcclt/Q002268,OB Nippur Ugumu,20,sux:siki[hair]N sux:ur[root]N
+dcclt/Q002268,OB Nippur Ugumu,21,sux:siki[hair]N sux:pa[branch]N
+dcclt/Q002268,OB Nippur Ugumu,23,sux:umbin[nail]N
+dcclt/Q002268,OB Nippur Ugumu,24,sux:kun[tail]N sux:siki[hair]N
+dcclt/Q002268,OB Nippur Ugumu,25,sux:munsub[hair]N
+dcclt/Q002268,OB Nippur Ugumu,26,sux:siki[hair]N sux:hamanzer[hair]N
+dcclt/Q002268,OB Nippur Ugumu,27,sux:saŋ[head]N
+dcclt/Q002268,OB Nippur Ugumu,28,sux:aka[fleece]N
+dcclt/Q002268,OB Nippur Ugumu,29,sux:dilib[hair]N
+dcclt/Q002268,OB Nippur Ugumu,30,sux:suhur[tuft]N
+dcclt/Q002268,OB Nippur Ugumu,32,sux:suhurla[hairstyle]N
+dcclt/Q002268,OB Nippur Ugumu,33,sux:kezer[hairstyle]N
+dcclt/Q002268,OB Nippur Ugumu,34,sux:si[horn]N
+dcclt/Q002268,OB Nippur Ugumu,35,sux:si[horn]N
+dcclt/Q002268,OB Nippur Ugumu,36,sux:si[horn]N
+dcclt/Q002268,OB Nippur Ugumu,37,sux:ugudu[tuft]N
+dcclt/Q002268,OB Nippur Ugumu,38,sux:gar[hairstyle]N
+dcclt/Q002268,OB Nippur Ugumu,39,sux:suh[crown]N
+dcclt/Q002268,OB Nippur Ugumu,40,sux:suh[crown]N
+dcclt/Q002268,OB Nippur Ugumu,41,sux:suh[crown]N
+dcclt/Q002268,OB Nippur Ugumu,42,sux:suh[crown]N
+dcclt/Q002268,OB Nippur Ugumu,43,sux:suh[crown]N
+dcclt/Q002268,OB Nippur Ugumu,44,sux:suh[crown]N
+dcclt/Q002268,OB Nippur Ugumu,46,sux:saŋ[head]N
+dcclt/Q002268,OB Nippur Ugumu,47,sux:ugu[skull]N
+dcclt/Q002268,OB Nippur Ugumu,48,sux:saŋdu[head]N
+dcclt/Q002268,OB Nippur Ugumu,49,sux:laga[slag]N sux:saŋdu[head]N
+dcclt/Q002268,OB Nippur Ugumu,50,sux:saŋšu[turban]N sux:saŋdu[head]N
+dcclt/Q002268,OB Nippur Ugumu,51,sux:kinamesira[forehead]N
+dcclt/Q002268,OB Nippur Ugumu,52,sux:agaduna[beardedness]N
+dcclt/Q002268,OB Nippur Ugumu,53,sux:kiši[half]N
+dcclt/Q002268,OB Nippur Ugumu,54,sux:kiši[half]N
+dcclt/Q002268,OB Nippur Ugumu,55,sux:igi[eye]N
+dcclt/Q002268,OB Nippur Ugumu,56,sux:sigigi[eyebrow]N
+dcclt/Q002268,OB Nippur Ugumu,57,sux:siki[hair]N sux:sigigi[eyebrow]N
+dcclt/Q002268,OB Nippur Ugumu,58,sux:mad[pupil?]N sux:igi[eye]N
+dcclt/Q002268,OB Nippur Ugumu,59,sux:igi[eye]N
+dcclt/Q002268,OB Nippur Ugumu,60,sux:igi[eye]N
+dcclt/Q002268,OB Nippur Ugumu,61,sux:šag[heart]N sux:igi[eye]N
+dcclt/Q002268,OB Nippur Ugumu,62,sux:na[stone]N sux:igi[eye]N
+dcclt/Q002268,OB Nippur Ugumu,63,sux:lammar[deity]N sux:igi[eye]N
+dcclt/Q002268,OB Nippur Ugumu,64,sux:murub[middle]N sux:igi[eye]N
+dcclt/Q002268,OB Nippur Ugumu,65,sux:pa[branch]N sux:igi[eye]N
+dcclt/Q002268,OB Nippur Ugumu,66,sux:gakkul[eyeball]N sux:igi[eye]N
+dcclt/Q002268,OB Nippur Ugumu,67,sux:dima[object]N sux:igi[eye]N
+dcclt/Q002268,OB Nippur Ugumu,68,sux:er[tears]N sux:igi[eye]N
+dcclt/Q002268,OB Nippur Ugumu,69,sux:zarbad[redness]N sux:igi[eye]N
+dcclt/Q002268,OB Nippur Ugumu,70,sux:igi[eye]N
+dcclt/Q002268,OB Nippur Ugumu,71,sux:igi[eye]N
+dcclt/Q002268,OB Nippur Ugumu,72,sux:igi[eye]N
+dcclt/Q002268,OB Nippur Ugumu,73,sux:igi[eye]N
+dcclt/Q002268,OB Nippur Ugumu,74,sux:bad[wall]N sux:igi[eye]N
+dcclt/Q002268,OB Nippur Ugumu,75,sux:ŋešnu[light]N sux:igi[eye]N
+dcclt/Q002268,OB Nippur Ugumu,76,sux:ŋissu[shade]N sux:igi[eye]N
+dcclt/Q002268,OB Nippur Ugumu,77,sux:igi[eye]N
+dcclt/Q002268,OB Nippur Ugumu,78,sux:luh[dirt]N sux:igi[eye]N
+dcclt/Q002268,OB Nippur Ugumu,78a,sux:igi[eye]N
+dcclt/Q002268,OB Nippur Ugumu,79,sux:unu[cheek]N
+dcclt/Q002268,OB Nippur Ugumu,80,sux:unu[cheek]N
+dcclt/Q002268,OB Nippur Ugumu,81,sux:unu[cheek]N sux:zib[mark]N
+dcclt/Q002268,OB Nippur Ugumu,82,sux:kiri[nose]N
+dcclt/Q002268,OB Nippur Ugumu,83,sux:paŋta[breath]N sux:kiri[nose]N
+dcclt/Q002268,OB Nippur Ugumu,84,sux:paŋ[breathe]N sux:kiri[nose]N
+dcclt/Q002268,OB Nippur Ugumu,85,sux:kiri[nose]N
+dcclt/Q002268,OB Nippur Ugumu,86,sux:kiri[nose]N
+dcclt/Q002268,OB Nippur Ugumu,87,sux:tumu[wind]N sux:kiri[nose]N
+dcclt/Q002268,OB Nippur Ugumu,88,sux:saŋ[head]N sux:kiri[nose]N
+dcclt/Q002268,OB Nippur Ugumu,89,sux:siki[hair]N sux:kiri[nose]N
+dcclt/Q002268,OB Nippur Ugumu,90,sux:kiri[nose]N
+dcclt/Q002268,OB Nippur Ugumu,91,sux:šag[heart]N sux:kiri[nose]N
+dcclt/Q002268,OB Nippur Ugumu,92,sux:bad[wall]N sux:kiri[nose]N
+dcclt/Q002268,OB Nippur Ugumu,93,sux:tun[lip]N
+dcclt/Q002268,OB Nippur Ugumu,94,sux:tun[lip]N
+dcclt/Q002268,OB Nippur Ugumu,95,sux:siki[hair]N sux:tun[lip]N
+dcclt/Q002268,OB Nippur Ugumu,96,sux:mug[wool]N sux:tun[lip]N
+dcclt/Q002268,OB Nippur Ugumu,98,sux:nundum[lip]N
+dcclt/Q002268,OB Nippur Ugumu,99,sux:nundum[lip]N
+dcclt/Q002268,OB Nippur Ugumu,100,sux:nundum[lip]N
+dcclt/Q002268,OB Nippur Ugumu,101,sux:kag[mouth]N
+dcclt/Q002268,OB Nippur Ugumu,103,sux:zu[tooth]N
+dcclt/Q002268,OB Nippur Ugumu,104,sux:zu[tooth]N
+dcclt/Q002268,OB Nippur Ugumu,105,sux:zu[tooth]N
+dcclt/Q002268,OB Nippur Ugumu,106,sux:zu[tooth]N
+dcclt/Q002268,OB Nippur Ugumu,107,sux:zu[tooth]N sux:ga[milk]N
+dcclt/Q002268,OB Nippur Ugumu,108,sux:zu[tooth]N
+dcclt/Q002268,OB Nippur Ugumu,109,sux:zu[tooth]N
+dcclt/Q002268,OB Nippur Ugumu,110,sux:inim[word]N
+dcclt/Q002268,OB Nippur Ugumu,111,sux:inim[word]N
+dcclt/Q002268,OB Nippur Ugumu,112,sux:gu[voice]N
+dcclt/Q002268,OB Nippur Ugumu,112a,sux:gu[voice]N
+dcclt/Q002268,OB Nippur Ugumu,113,sux:gu[voice]N sux:mur[noise]N
+dcclt/Q002268,OB Nippur Ugumu,114,sux:gukiri[cry]N
+dcclt/Q002268,OB Nippur Ugumu,115,sux:zipaŋ[breath]N
+dcclt/Q002268,OB Nippur Ugumu,116,sux:akkil[noise]N
+dcclt/Q002268,OB Nippur Ugumu,117,sux:akkil[noise]N
+dcclt/Q002268,OB Nippur Ugumu,118,sux:usakar[moon]N
+dcclt/Q002268,OB Nippur Ugumu,122,sux:eme[tongue]N
+dcclt/Q002268,OB Nippur Ugumu,124,sux:eme[tongue]N sux:zaga[part-of-the-face]N
+dcclt/Q002268,OB Nippur Ugumu,125,sux:meze[jaw]N
+dcclt/Q002268,OB Nippur Ugumu,126,sux:meze[jaw]N
+dcclt/Q002268,OB Nippur Ugumu,127,sux:meze[jaw]N
+dcclt/Q002268,OB Nippur Ugumu,128,sux:zaga[part-of-the-face]N
+dcclt/Q002268,OB Nippur Ugumu,129,sux:zaga[part-of-the-face]N
+dcclt/Q002268,OB Nippur Ugumu,130,sux:sum[beard]N
+dcclt/Q002268,OB Nippur Ugumu,131,sux:sum[beard]N
+dcclt/Q002268,OB Nippur Ugumu,132,sux:sum[beard]N sux:sur[half]N
+dcclt/Q002268,OB Nippur Ugumu,133,sux:sum[beard]N sux:mug[wool]N
+dcclt/Q002268,OB Nippur Ugumu,134,sux:sum[beard]N
+dcclt/Q002268,OB Nippur Ugumu,135,sux:sum[beard]N
+dcclt/Q002268,OB Nippur Ugumu,136,sux:te[cheek]N
+dcclt/Q002268,OB Nippur Ugumu,137,sux:te[cheek]N
+dcclt/Q002268,OB Nippur Ugumu,138,sux:sa[sinew]N sux:te[cheek]N
+dcclt/Q002268,OB Nippur Ugumu,139,sux:ŋeštug[ear]N
+dcclt/Q002268,OB Nippur Ugumu,140,sux:ŋeštug[ear]N
+dcclt/Q002268,OB Nippur Ugumu,141,sux:zana[doll]N sux:ŋeštug[ear]N
+dcclt/Q002268,OB Nippur Ugumu,142,sux:šag[heart]N sux:ŋeštug[ear]N
+dcclt/Q002268,OB Nippur Ugumu,143,sux:ŋeštug[ear]N
+dcclt/Q002268,OB Nippur Ugumu,144,sux:egir[back]N sux:ŋeštug[ear]N
+dcclt/Q002268,OB Nippur Ugumu,145,sux:laga[vulva]N sux:ŋeštug[ear]N
+dcclt/Q002268,OB Nippur Ugumu,146,sux:gala[vulva]N sux:ŋeštug[ear]N
+dcclt/Q002268,OB Nippur Ugumu,147,sux:šem[drum]N sux:ŋeštug[ear]N
+dcclt/Q002268,OB Nippur Ugumu,148,sux:uktin[physiognomy]N
+dcclt/Q002268,OB Nippur Ugumu,149,sux:mušme[face]N
+dcclt/Q002268,OB Nippur Ugumu,150,sux:muš[face]N sux:saŋki[forehead]N
+dcclt/Q002268,OB Nippur Ugumu,151,sux:guhaš[nape]N
+dcclt/Q002268,OB Nippur Ugumu,152,sux:gu[neck]N
+dcclt/Q002268,OB Nippur Ugumu,153,sux:sa[sinew]N sux:gu[neck]N
+dcclt/Q002268,OB Nippur Ugumu,154,sux:sagal[~body]N
+dcclt/Q002268,OB Nippur Ugumu,155,sux:sa[sinew]N
+dcclt/Q002268,OB Nippur Ugumu,156,sux:sa[sinew]N
+dcclt/Q002268,OB Nippur Ugumu,157,sux:sa[sinew]N
+dcclt/Q002268,OB Nippur Ugumu,158,sux:sa[sinew]N
+dcclt/Q002268,OB Nippur Ugumu,159,sux:sa[sinew]N
+dcclt/Q002268,OB Nippur Ugumu,160,sux:siki[hair]N sux:gu[neck]N
+dcclt/Q002268,OB Nippur Ugumu,161,sux:gu[neck]N
+dcclt/Q002268,OB Nippur Ugumu,162,sux:gubar[nape]N
+dcclt/Q002268,OB Nippur Ugumu,163,sux:gu₂.MUR[throat]N
+dcclt/Q002268,OB Nippur Ugumu,164,sux:gu[neck]N
+dcclt/Q002268,OB Nippur Ugumu,165,sux:zi[life]N
+dcclt/Q002268,OB Nippur Ugumu,166,sux:zi[life]N
+dcclt/Q002268,OB Nippur Ugumu,167,sux:zišagŋal[encouragement]N
+dcclt/Q002268,OB Nippur Ugumu,168,sux:zag[side]N
+dcclt/Q002268,OB Nippur Ugumu,169,sux:zagsi[limb]N
+dcclt/Q002268,OB Nippur Ugumu,170,sux:murub[middle]N sux:zag[side]N
+dcclt/Q002268,OB Nippur Ugumu,171,sux:šu[hand]N
+dcclt/Q002268,OB Nippur Ugumu,172,sux:šusi[finger]N
+dcclt/Q002268,OB Nippur Ugumu,173,sux:šusi[finger]N
+dcclt/Q002268,OB Nippur Ugumu,174,sux:šusi[finger]N
+dcclt/Q002268,OB Nippur Ugumu,176,sux:umbin[nail]N sux:šusi[finger]N
+dcclt/Q002268,OB Nippur Ugumu,177,sux:ŋešhur[plan]N sux:šu[hand]N
+dcclt/Q002268,OB Nippur Ugumu,178,sux:šag[heart]N sux:šu[hand]N
+dcclt/Q002268,OB Nippur Ugumu,179,sux:sa[sinew]N sux:šu[hand]N
+dcclt/Q002268,OB Nippur Ugumu,181,sux:gumur[spine]N sux:šu[hand]N
+dcclt/Q002268,OB Nippur Ugumu,182,sux:ti[rib]N
+dcclt/Q002268,OB Nippur Ugumu,183,sux:ti[rib]N
+dcclt/Q002268,OB Nippur Ugumu,184,sux:gaba[chest]N
+dcclt/Q002268,OB Nippur Ugumu,185,sux:ŋeš[tree]N sux:gaba[chest]N
+dcclt/Q002268,OB Nippur Ugumu,186,sux:saŋ[head]N sux:gaba[chest]N
+dcclt/Q002268,OB Nippur Ugumu,187,sux:mur[lung]N
+dcclt/Q002268,OB Nippur Ugumu,188,sux:lipiš[innards]N
+dcclt/Q002268,OB Nippur Ugumu,189,sux:lipiš[innards]N
+dcclt/Q002268,OB Nippur Ugumu,190,sux:lipiš[innards]N
+dcclt/Q002268,OB Nippur Ugumu,205,sux:a[arm]N sux:da[line]N
+dcclt/Q002268,OB Nippur Ugumu,206,sux:da[line]N
+dcclt/Q002268,OB Nippur Ugumu,207,sux:da[line]N
+dcclt/Q002268,OB Nippur Ugumu,208,sux:da[line]N
+dcclt/Q002268,OB Nippur Ugumu,209,sux:da[line]N
+dcclt/Q002268,OB Nippur Ugumu,221',sux:murub[middle]N sux:gaba[chest]N
+dcclt/Q002268,OB Nippur Ugumu,222',sux:siki[hair]N sux:gaba[chest]N
+dcclt/Q002268,OB Nippur Ugumu,223',sux:akan[nipple]N
+dcclt/Q002268,OB Nippur Ugumu,224',sux:ubur[breast]N
+dcclt/Q002268,OB Nippur Ugumu,225',sux:ubur[breast]N sux:ga[milk]N
+dcclt/Q002268,OB Nippur Ugumu,226',sux:masila[heel]N
+dcclt/Q002268,OB Nippur Ugumu,227',sux:saŋ[head]N sux:masila[heel]N
+dcclt/Q002268,OB Nippur Ugumu,228',sux:murub[middle]N sux:masila[heel]N
+dcclt/Q002268,OB Nippur Ugumu,229',sux:siki[hair]N sux:masila[heel]N
+dcclt/Q002268,OB Nippur Ugumu,230',sux:murgu[shoulder]N
+dcclt/Q002268,OB Nippur Ugumu,231',sux:murgu[shoulder]N
+dcclt/Q002268,OB Nippur Ugumu,241',sux:ur[root]N
+dcclt/Q002268,OB Nippur Ugumu,242',sux:ur[root]N
+dcclt/Q002268,OB Nippur Ugumu,243',sux:haš[thigh]N akk-x-oldbab:emšu[lower-body]N
+dcclt/Q002268,OB Nippur Ugumu,244',sux:haš[thigh]N
+dcclt/Q002268,OB Nippur Ugumu,246',sux:saŋ[head]N
+dcclt/Q002268,OB Nippur Ugumu,260',sux:gu[neck]N sux:pah[leg]N
+dcclt/Q002268,OB Nippur Ugumu,261',sux:gu[neck]N sux:pah[leg]N
+dcclt/Q002268,OB Nippur Ugumu,262',sux:ŋiri[foot]N
+dcclt/Q002268,OB Nippur Ugumu,263',sux:igi[face]N sux:ŋiri[foot]N
+dcclt/Q002268,OB Nippur Ugumu,264',sux:murgu[shoulder]N sux:ŋiri[foot]N
+dcclt/Q002268,OB Nippur Ugumu,265',sux:šusi[finger]N sux:ŋiri[foot]N
+dcclt/Q002268,OB Nippur Ugumu,266',sux:murub[middle]N sux:ŋiri[foot]N
+dcclt/Q002268,OB Nippur Ugumu,267',sux:zukešed[troop]N sux:šusi[finger]N sux:ŋiri[foot]N
+dcclt/Q002268,OB Nippur Ugumu,268',sux:umbin[nail]N sux:šusi[finger]N sux:ŋiri[foot]N
+dcclt/Q002268,OB Nippur Ugumu,269',sux:umbin[nail]N sux:šusi[finger]N sux:ŋiri[foot]N
+dcclt/Q002268,OB Nippur Ugumu,282',sux:namŋuruš[manliness]N
+dcclt/Q002268,OB Nippur Ugumu,283',sux:namursaŋ[heroism]N
+dcclt/Q002268,OB Nippur Ugumu,284',sux:namabba[age]N
+dcclt/Q002268,OB Nippur Ugumu,285',sux:ŋissu[shade]N
+dcclt/Q002268,OB Nippur Ugumu,286',sux:ŋissu[shade]N
+dcclt/Q002268,OB Nippur Ugumu,287',sux:ŋešgen[limbs]N

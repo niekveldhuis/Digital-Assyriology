@@ -1,0 +1,5 @@
+id_text,text_name,l_no,text
+rinap/rinap5/Q003740,Ashurbanipal 041,1,anāku[I]IP Aššur-bani-apli[Ashurbanipal;-king-of-Assyria]RN šarru[king]N kiššatu[totality]N šarru[king]N mātu[land]N Aššur[Assyria]GN
+rinap/rinap5/Q003740,Ashurbanipal 041,2,ša[that]REL ina[in]PRP qibītu[speech]N Aššur[1]DN u[and]CNJ Mullissu[1]DN kašādu[reach]V ṣummirātu[desires]N libbu[interior]N
+rinap/rinap5/Q003740,Ashurbanipal 041,3,Din-šarri[1]SN ālu[city]N ša[of]DET Elamtu[Elam]GN
+rinap/rinap5/Q003740,Ashurbanipal 041,4,lawû[surround]V kašādu[reach]V narkabtu[chariot]N ṣumbu[wheel]N sisû[horse]N

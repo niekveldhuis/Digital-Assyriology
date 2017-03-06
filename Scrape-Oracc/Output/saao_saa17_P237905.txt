@@ -1,0 +1,45 @@
+id_text,text_name,l_no,text
+saao/saa17/P237905,SAA 17 139. Account of Disbursed Silver (ABL 0527),o 1,ṭuppu[tablet]N Šumu-ukin[1]PN
+saao/saa17/P237905,SAA 17 139. Account of Disbursed Silver (ABL 0527),o 2,ana[to]PRP Nergal-naṣir[1]PN
+saao/saa17/P237905,SAA 17 139. Account of Disbursed Silver (ABL 0527),o 3,ša[that]REL šapāru[send]V umma[saying]PRP Arrabatu[1]PN
+saao/saa17/P237905,SAA 17 139. Account of Disbursed Silver (ABL 0527),o 4,ana[to]PRP Qallatu[1]PN nadānu[give]V
+saao/saa17/P237905,SAA 17 139. Account of Disbursed Silver (ABL 0527),o 5,Binitu[1]PN Tuʾatu[1]PN
+saao/saa17/P237905,SAA 17 139. Account of Disbursed Silver (ABL 0527),o 6,Hulutti[1]PN u[and]CNJ Arrabatu[1]PN
+saao/saa17/P237905,SAA 17 139. Account of Disbursed Silver (ABL 0527),o 7,ina[in]PRP pānu[front]N ušuzzāyu[standing]AJ
+saao/saa17/P237905,SAA 17 139. Account of Disbursed Silver (ABL 0527),o 8,minamma[why?]QP ina[in]PRP šattu[year]N
+saao/saa17/P237905,SAA 17 139. Account of Disbursed Silver (ABL 0527),o 9,agâ[this]DP itti[with]PRP Arrabatu[1]PN
+saao/saa17/P237905,SAA 17 139. Account of Disbursed Silver (ABL 0527),o 10,hasāsu[be(come)-conscious]V ina[in]PRP mahrû[first]AJ
+saao/saa17/P237905,SAA 17 139. Account of Disbursed Silver (ABL 0527),o 11,ša[that]REL šapāru[send]V umma[saying]PRP ina[in]PRP sulummê[peace-making]N mātu[land]N
+saao/saa17/P237905,SAA 17 139. Account of Disbursed Silver (ABL 0527),o 12,kaspu[silver]N kī[like]PRP nadānu[give]V
+saao/saa17/P237905,SAA 17 139. Account of Disbursed Silver (ABL 0527),o 13,ina[in]PRP hepû[break]V mātu[land]N kaspu[silver]N mahāru[face]V
+saao/saa17/P237905,SAA 17 139. Account of Disbursed Silver (ABL 0527),o 14,ša[that]REL šapāru[send]V kittu[truth]N mandētu[(result-of)-reconnoitring]N kaspu[silver]N
+saao/saa17/P237905,SAA 17 139. Account of Disbursed Silver (ABL 0527),o 15,ša[that]REL nadānu[give]V ina[in]PRP šattu[year]N
+saao/saa17/P237905,SAA 17 139. Account of Disbursed Silver (ABL 0527),o 16,ša[that]REL Marduk-apla-iddina[Merodach-Baladan]PN šarru[king]N kaspu[silver]N ša[that]REL ahāzu[take]V
+saao/saa17/P237905,SAA 17 139. Account of Disbursed Silver (ABL 0527),b.e. 17,manû[unit]N ina[in]PRP qātu[hand]N Ina-qibi-Bel[1]GN
+saao/saa17/P237905,SAA 17 139. Account of Disbursed Silver (ABL 0527),b.e. 18,u[and]CNJ Nabu-ušallim[1]PN māru[son]N ana[to]PRP
+saao/saa17/P237905,SAA 17 139. Account of Disbursed Silver (ABL 0527),b.e. 19,Kutaya[Cuthaean]EN nadānu[give]V
+saao/saa17/P237905,SAA 17 139. Account of Disbursed Silver (ABL 0527),r 1,manû[unit]N ina[in]PRP qātu[hand]N Lu-haʾil[1]PN u[and]CNJ
+saao/saa17/P237905,SAA 17 139. Account of Disbursed Silver (ABL 0527),r 2,Bel-naṣir[1]PN ana[to]PRP Namirtu[1]PN
+saao/saa17/P237905,SAA 17 139. Account of Disbursed Silver (ABL 0527),r 3,nadānu[give]V manû[unit]N Eriš[1]PN
+saao/saa17/P237905,SAA 17 139. Account of Disbursed Silver (ABL 0527),r 4,māru[son]N Dabibi[1]PN ša[that]REL muhhu[skull]N Bel-naṣir[1]PN
+saao/saa17/P237905,SAA 17 139. Account of Disbursed Silver (ABL 0527),r 5,hiāṭu[supervise]V manû[unit]N Ašaredu[1]PN
+saao/saa17/P237905,SAA 17 139. Account of Disbursed Silver (ABL 0527),r 6,māru[son]N Ṭabiya[1]PN manû[unit]N Nabu-šarru-uṣur[1]PN
+saao/saa17/P237905,SAA 17 139. Account of Disbursed Silver (ABL 0527),r 7,māru[son]N šipru[sending]N ša[of]DET šarru[king]N manû[unit]N Eriš[1]PN
+saao/saa17/P237905,SAA 17 139. Account of Disbursed Silver (ABL 0527),r 8,māru[son]N šipru[sending]N ša[of]DET šarru[king]N Elamtu[Elam]GN šiqlu[unit]N
+saao/saa17/P237905,SAA 17 139. Account of Disbursed Silver (ABL 0527),r 9,manû[unit]N Urukaya[Urukean]EN
+saao/saa17/P237905,SAA 17 139. Account of Disbursed Silver (ABL 0527),r 10,ina[in]PRP mahru[front]N šēpu[foot]N šakānu[put]V
+saao/saa17/P237905,SAA 17 139. Account of Disbursed Silver (ABL 0527),r 11,manû[unit]N šīmu[purchase-(price)]N anāqāte[she-camels]N ša[that]REL ana[to]PRP Sagibu[1]PN
+saao/saa17/P237905,SAA 17 139. Account of Disbursed Silver (ABL 0527),r 12,nadnu[given]AJ manû[unit]N šiqlu[unit]N ina[in]PRP qātu[hand]N
+saao/saa17/P237905,SAA 17 139. Account of Disbursed Silver (ABL 0527),r 13,I-maʾin[1]PN ša-rēši[eunuch]N šiqlu[unit]N Dummuqa[1]PN
+saao/saa17/P237905,SAA 17 139. Account of Disbursed Silver (ABL 0527),r 14,māru[son]N Irʾanni[1]PN hiāṭu[supervise]V manû[unit]N kaspu[silver]N arkû[rear]AJ
+saao/saa17/P237905,SAA 17 139. Account of Disbursed Silver (ABL 0527),r 15,ša[that]REL ina[in]PRP qātu[hand]N Ṣillaya[1]PN māru[son]N Belaya[1]PN
+saao/saa17/P237905,SAA 17 139. Account of Disbursed Silver (ABL 0527),r 16,ana[to]PRP Namirtu[1]PN wabālu[bring]V
+saao/saa17/P237905,SAA 17 139. Account of Disbursed Silver (ABL 0527),r 17,kaspu[silver]N ša[that]REL ina[in]PRP šattu[year]N
+saao/saa17/P237905,SAA 17 139. Account of Disbursed Silver (ABL 0527),r 18,ša[of]DET Marduk-apla-iddina[Merodach-Baladan]PN adi[until]PRP muhhu[skull]N enna[now]AV
+saao/saa17/P237905,SAA 17 139. Account of Disbursed Silver (ABL 0527),r 19,kaspu[silver]N ša-rēši[eunuch]N
+saao/saa17/P237905,SAA 17 139. Account of Disbursed Silver (ABL 0527),r 20,ša-rēši[eunuch]N u[and]CNJ kaspu[silver]N
+saao/saa17/P237905,SAA 17 139. Account of Disbursed Silver (ABL 0527),r 21,kī[as;-like]PRP hubuttu[interest-free-loan]N
+saao/saa17/P237905,SAA 17 139. Account of Disbursed Silver (ABL 0527),r.e. 22,kī[as;-like]PRP nishu[extract(ion)]N
+saao/saa17/P237905,SAA 17 139. Account of Disbursed Silver (ABL 0527),r.e. 23,ul[not]MOD nadānu[give]V
+saao/saa17/P237905,SAA 17 139. Account of Disbursed Silver (ABL 0527),r.e. 24,dibbu[words]N annû[this]DP ul[not]MOD ša[of]DET pû[mouth]N
+saao/saa17/P237905,SAA 17 139. Account of Disbursed Silver (ABL 0527),r.e. 25,ša[of]DET pû[mouth]N Bel-naṣir[1]PN šunu[they]IP

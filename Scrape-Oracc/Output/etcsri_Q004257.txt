@@ -1,0 +1,5 @@
+id_text,text_name,version,l_no,text
+etcsri/Q004257,Lagaš II Unidentified 1030add,,1',sux:ensik[ruler]N
+etcsri/Q004257,Lagaš II Unidentified 1030add,,2',sux:Lagaš[1]SN
+etcsri/Q004257,Lagaš II Unidentified 1030add,,3',sux:namtil[life]N
+etcsri/Q004257,Lagaš II Unidentified 1030add,,4',sux:namtil[life]N sux:dam[spouse]N sux:dumu[child]N

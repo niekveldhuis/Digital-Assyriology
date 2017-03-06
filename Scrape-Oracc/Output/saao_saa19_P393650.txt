@@ -1,0 +1,24 @@
+id_text,text_name,l_no,text
+saao/saa19/P393650,SAA 19 108. Raising Barley from Babylonian Cities (CTN 5 p. 34),o 1,ana[to]PRP šarru[king]N bēlu[lord]N
+saao/saa19/P393650,SAA 19 108. Raising Barley from Babylonian Cities (CTN 5 p. 34),o 2,ardu[slave]N Ašipa[1]PN
+saao/saa19/P393650,SAA 19 108. Raising Barley from Babylonian Cities (CTN 5 p. 34),o 3,lū[may]MOD šulmu[completeness]N ana[to]PRP šarru[king]N bēlu[lord]N
+saao/saa19/P393650,SAA 19 108. Raising Barley from Babylonian Cities (CTN 5 p. 34),o 4,ina[in]PRP muhhu[skull]N kurummatu[ration]N ša[that]REL šarru[king]N
+saao/saa19/P393650,SAA 19 108. Raising Barley from Babylonian Cities (CTN 5 p. 34),o 5,bēlu[lord]N šapāru[send]V
+saao/saa19/P393650,SAA 19 108. Raising Barley from Babylonian Cities (CTN 5 p. 34),o 6,ištu[from]PRP pānu[front]N šarru[king]N bēlu[lord]N
+saao/saa19/P393650,SAA 19 108. Raising Barley from Babylonian Cities (CTN 5 p. 34),o 7,ša[that]REL namāšu[set-(o.s.)-in-motion]V
+saao/saa19/P393650,SAA 19 108. Raising Barley from Babylonian Cities (CTN 5 p. 34),o 8,ana[to]PRP Kute[Cutha]GN
+saao/saa19/P393650,SAA 19 108. Raising Barley from Babylonian Cities (CTN 5 p. 34),o 9,ana[to]PRP Sippar[1]GN
+saao/saa19/P393650,SAA 19 108. Raising Barley from Babylonian Cities (CTN 5 p. 34),o 10,erēbu[enter]V
+saao/saa19/P393650,SAA 19 108. Raising Barley from Babylonian Cities (CTN 5 p. 34),o 11,šina[two]NU ūmu[day]N ina[in]PRP Babili[Babylon]GN
+saao/saa19/P393650,SAA 19 108. Raising Barley from Babylonian Cities (CTN 5 p. 34),o 12,kamsu[squatting]AJ
+saao/saa19/P393650,SAA 19 108. Raising Barley from Babylonian Cities (CTN 5 p. 34),r 1,kurummatu[ration]N ša[of]DET Ṣil-Bel[1]PN
+saao/saa19/P393650,SAA 19 108. Raising Barley from Babylonian Cities (CTN 5 p. 34),r 2,lā[not]MOD qurbu[near]AJ
+saao/saa19/P393650,SAA 19 108. Raising Barley from Babylonian Cities (CTN 5 p. 34),r 3,lā[not]MOD qerēbu[approach]V
+saao/saa19/P393650,SAA 19 108. Raising Barley from Babylonian Cities (CTN 5 p. 34),r 4,adi[until]PRP Mušezib-ilu[1]PN
+saao/saa19/P393650,SAA 19 108. Raising Barley from Babylonian Cities (CTN 5 p. 34),r 5,ištu[from]PRP Kar-Aššur[1]GN
+saao/saa19/P393650,SAA 19 108. Raising Barley from Babylonian Cities (CTN 5 p. 34),r 6,alāku[go]V
+saao/saa19/P393650,SAA 19 108. Raising Barley from Babylonian Cities (CTN 5 p. 34),r 7,eleppu[ship]N šadādu[drag]V
+saao/saa19/P393650,SAA 19 108. Raising Barley from Babylonian Cities (CTN 5 p. 34),r 8,mardītu[stage]N šaplu[underside]N
+saao/saa19/P393650,SAA 19 108. Raising Barley from Babylonian Cities (CTN 5 p. 34),r 9,Kute[Cutha]GN alāku[go]V
+saao/saa19/P393650,SAA 19 108. Raising Barley from Babylonian Cities (CTN 5 p. 34),r 10,ūmu[day]N namāšu[set-(o.s.)-in-motion]V
+saao/saa19/P393650,SAA 19 108. Raising Barley from Babylonian Cities (CTN 5 p. 34),r 11,kurummatu[ration]N ša[of]DET Kute[Cutha]GN

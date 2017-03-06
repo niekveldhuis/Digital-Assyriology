@@ -1,0 +1,22 @@
+id_text,text_name,l_no,text
+saao/saa16/P313566,SAA 16 088. Donkey Trade at Nineveh (CT 53 151),o 1,ana[to]PRP šarru[king]N bēlu[lord]N
+saao/saa16/P313566,SAA 16 088. Donkey Trade at Nineveh (CT 53 151),o 2,ardu[slave]N Nabu-zeru-uṣur[1]PN
+saao/saa16/P313566,SAA 16 088. Donkey Trade at Nineveh (CT 53 151),o 3,ṭupšarru[scribe]N ša[of]DET ša-pān-ēkalli[palace-supervisor]N
+saao/saa16/P313566,SAA 16 088. Donkey Trade at Nineveh (CT 53 151),o 4,lū[may]MOD šulmu[completeness]N ana[to]PRP šarru[king]N bēlu[lord]N
+saao/saa16/P313566,SAA 16 088. Donkey Trade at Nineveh (CT 53 151),o 5,Nabu[1]DN u[and]CNJ Marduk[1]DN ana[to]PRP šarru[king]N bēlu[lord]N
+saao/saa16/P313566,SAA 16 088. Donkey Trade at Nineveh (CT 53 151),o 6,karābu[pray]V
+saao/saa16/P313566,SAA 16 088. Donkey Trade at Nineveh (CT 53 151),o 7,rēʾû[shepherd]N atānu[she-ass]N
+saao/saa16/P313566,SAA 16 088. Donkey Trade at Nineveh (CT 53 151),o 8,ina[in]PRP pānu[front]N ēkallu[palace]N ina[in]PRP pānu[front]N nērebu[entrance]N
+saao/saa16/P313566,SAA 16 088. Donkey Trade at Nineveh (CT 53 151),o 9,izuzzu[stand]V hallupu[armoured]AJ tadānu[give]V
+saao/saa16/P313566,SAA 16 088. Donkey Trade at Nineveh (CT 53 151),o 10,ūma[today]AV lā[not]MOD magāru[consent]V lā[not]MOD izuzzu[stand]V
+saao/saa16/P313566,SAA 16 088. Donkey Trade at Nineveh (CT 53 151),o 11,mā[saying]PRP pīhātu[responsibility]N ina[in]PRP pānu[front]N Ninua[Nineveh]GN
+saao/saa16/P313566,SAA 16 088. Donkey Trade at Nineveh (CT 53 151),o 12,qabû[say]V mā[saying]PRP ina[in]PRP libbu[interior]N ēkallu[palace]N
+saao/saa16/P313566,SAA 16 088. Donkey Trade at Nineveh (CT 53 151),o 13,amāru[see]V gulgullu[skull]N
+saao/saa16/P313566,SAA 16 088. Donkey Trade at Nineveh (CT 53 151),o 14,marāqu[rub-s.th.]V mā[saying]PRP ša-qurbūti[close-follower]N
+saao/saa16/P313566,SAA 16 088. Donkey Trade at Nineveh (CT 53 151),o 15,ina[in]PRP muhhu[skull]N alāku[go]V
+saao/saa16/P313566,SAA 16 088. Donkey Trade at Nineveh (CT 53 151),o 16,wabālu[bring]V
+saao/saa16/P313566,SAA 16 088. Donkey Trade at Nineveh (CT 53 151),o 17,mā[saying]PRP šumma[if]MOD laššu[(there)-is-not]V
+saao/saa16/P313566,SAA 16 088. Donkey Trade at Nineveh (CT 53 151),o 18,lā[not]MOD alāku[go]V imēru[donkey]N pānû[previous]AJ
+saao/saa16/P313566,SAA 16 088. Donkey Trade at Nineveh (CT 53 151),o 19,ša[that]REL ina[in]PRP pānu[front]N
+saao/saa16/P313566,SAA 16 088. Donkey Trade at Nineveh (CT 53 151),r 6',izuzzu[stand]V
+saao/saa16/P313566,SAA 16 088. Donkey Trade at Nineveh (CT 53 151),r 7',lā[not]MOD emūqu[strength]N

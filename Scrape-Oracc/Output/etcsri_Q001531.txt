@@ -1,0 +1,16 @@
+id_text,text_name,version,l_no,text
+etcsri/Q001531,Gudea 099,,i 2,sux:nin[lady]N
+etcsri/Q001531,Gudea 099,,i 3,sux:Ninalla[1]RN
+etcsri/Q001531,Gudea 099,,i 4,sux:dumu[child]N sux:Urbauk[1]RN
+etcsri/Q001531,Gudea 099,,i 5,sux:ensik[ruler]N
+etcsri/Q001531,Gudea 099,,i 6,sux:Lagaš[1]SN
+etcsri/Q001531,Gudea 099,,i 7,sux:namtil[life]N
+etcsri/Q001531,Gudea 099,,ii 1,sux:Gudea[1]RN
+etcsri/Q001531,Gudea 099,,ii 2,sux:ensik[ruler]N
+etcsri/Q001531,Gudea 099,,ii 3,sux:Lagaš[1]SN
+etcsri/Q001531,Gudea 099,,ii 4,sux:dam[spouse]N
+etcsri/Q001531,Gudea 099,,ii 5,sux:u[and]CNJ sux:namtil[life]N
+etcsri/Q001531,Gudea 099,,ii 6,sux:a[water]N sux:ru[cvve]V/t
+etcsri/Q001531,Gudea 099,,ii 7,sux:alan[statue]N
+etcsri/Q001531,Gudea 099,,ii 8,sux:nin[lady]N sux:gu[voice]N sux:de[pour]V/t
+etcsri/Q001531,Gudea 099,,ii 9,sux:ud[sun]N sux:dug[speak]V/t sux:du[build]V/t

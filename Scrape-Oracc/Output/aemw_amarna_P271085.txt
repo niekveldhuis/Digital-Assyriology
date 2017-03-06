@@ -1,0 +1,68 @@
+id_text,text_name,l_no,text
+<<<<<<< HEAD
+aemw/amarna/P271085,EA 140. Again the crimes of Aziru [vassal letter],001,akk-x-mbperi:ana[to]PRP akk-x-mbperi:šarru[king]N akk-x-mbperi:bēlu[lord]N akk-x-mbperi:Šamaš[1]DN akk-x-mbperi:umma[saying]PRP
+aemw/amarna/P271085,EA 140. Again the crimes of Aziru [vassal letter],002,akk-x-mbperi:Gublu[Byblos]GN akk-x-mbperi:amtu[maid]N akk-x-mbperi:umma[saying]PRP
+aemw/amarna/P271085,EA 140. Again the crimes of Aziru [vassal letter],003,akk-x-mbperi:ʾIlu-rapiʾ[1]PN akk-x-mbperi:wardu[slave]N akk-x-mbperi:ana[to]PRP
+aemw/amarna/P271085,EA 140. Again the crimes of Aziru [vassal letter],004,akk-x-mbperi:šēpu[foot]N akk-x-mbperi:bēlu[lord]N akk-x-mbperi:Šamaš[1]DN akk-x-mbperi:maqātu[fall]V
+aemw/amarna/P271085,EA 140. Again the crimes of Aziru [vassal letter],005,akk-x-mbperi:lā[not]MOD akk-x-mbperi:qâlu[pay-attention]V akk-x-mbperi:šarru[king]N akk-x-mbperi:bēlu[lord]N
+aemw/amarna/P271085,EA 140. Again the crimes of Aziru [vassal letter],006,akk-x-mbperi:ina[in]PRP akk-x-mbperi:Gublu[Byblos]GN akk-x-mbperi:amtu[maid]N
+aemw/amarna/P271085,EA 140. Again the crimes of Aziru [vassal letter],007,akk-x-mbperi:ālu[city]N akk-x-mbperi:šarru[king]N akk-x-mbperi:ištu[from]PRP akk-x-mbperi:dārītu[perpetuity]N
+aemw/amarna/P271085,EA 140. Again the crimes of Aziru [vassal letter],008,akk-x-mbperi:šanītu[something-other]N akk-x-mbperi:ana[to]PRP akk-x-mbperi:mīnu[what?]QP akk-x-mbperi:wašāru[sink-down]V akk-x-mbperi:šarru[king]N
+aemw/amarna/P271085,EA 140. Again the crimes of Aziru [vassal letter],009,akk-x-mbperi:ina[in]PRP akk-x-mbperi:Aziru[1]PN akk-x-mbperi:u[and]CNJ akk-x-mbperi:epēšu[do]V
+aemw/amarna/P271085,EA 140. Again the crimes of Aziru [vassal letter],010,akk-x-mbperi:kīma[like]PRP akk-x-mbperi:libbu[interior]N akk-x-mbperi:amāru[see]V akk-x-mbperi:Aziru[1]PN akk-x-mbperi:Aduna[1]PN akk-x-mbperi:šarru[king]N akk-x-mbperi:Irqata[1]GN
+aemw/amarna/P271085,EA 140. Again the crimes of Aziru [vassal letter],011,akk-x-mbperi:dīku[killed]AJ akk-x-mbperi:šarru[king]N akk-x-mbperi:Ammiya[1]GN
+aemw/amarna/P271085,EA 140. Again the crimes of Aziru [vassal letter],012,akk-x-mbperi:u[and]CNJ akk-x-mbperi:šarru[king]N akk-x-mbperi:Ardatu[1]GN
+aemw/amarna/P271085,EA 140. Again the crimes of Aziru [vassal letter],013,akk-x-mbperi:u[and]CNJ akk-x-mbperi:rabû[big-one]N akk-x-mbperi:dīku[killed]AJ akk-x-mbperi:u[and]CNJ akk-x-mbperi:leqû[taken]AJ
+aemw/amarna/P271085,EA 140. Again the crimes of Aziru [vassal letter],014,akk-x-mbperi:ālu[city]N akk-x-mbperi:ana[to]PRP akk-x-mbperi:šâšu[to-him]IP
+aemw/amarna/P271085,EA 140. Again the crimes of Aziru [vassal letter],015,akk-x-mbperi:Ṣumur[1]GN akk-x-mbperi:ana[to]PRP akk-x-mbperi:šâšu[to-him]IP
+aemw/amarna/P271085,EA 140. Again the crimes of Aziru [vassal letter],016,akk-x-mbperi:ālu[city]N akk-x-mbperi:šarru[king]N akk-x-mbperi:Gublu[Byblos]GN
+aemw/amarna/P271085,EA 140. Again the crimes of Aziru [vassal letter],017,akk-x-mbperi:išqillatu[(a-type-of)-shell]N akk-x-mbperi:šarru[king]N
+aemw/amarna/P271085,EA 140. Again the crimes of Aziru [vassal letter],018,akk-x-mbperi:šanītu[something-other]N akk-x-mbperi:amāru[see]V akk-x-mbperi:Ṣumur[1]GN
+aemw/amarna/P271085,EA 140. Again the crimes of Aziru [vassal letter],019,akk-x-mbperi:u[and]CNJ akk-x-mbperi:Ullaza[1]GN akk-x-mbperi:palšu[pierced]AJ
+aemw/amarna/P271085,EA 140. Again the crimes of Aziru [vassal letter],020,akk-x-mbperi:šanītu[something-other]N akk-x-mbperi:amāru[see]V akk-x-mbperi:arnu[guilt]N akk-x-mbperi:ša[that]REL
+aemw/amarna/P271085,EA 140. Again the crimes of Aziru [vassal letter],021,akk-x-mbperi:epēšu[do]V akk-x-mbperi:Aziru[1]PN
+aemw/amarna/P271085,EA 140. Again the crimes of Aziru [vassal letter],022,akk-x-mbperi:ina[in]PRP akk-x-mbperi:erēbu[enter]V
+aemw/amarna/P271085,EA 140. Again the crimes of Aziru [vassal letter],023,akk-x-mbperi:ana[to]PRP akk-x-mbperi:muhhu[skull]N akk-x-mbperi:arnu[guilt]N
+aemw/amarna/P271085,EA 140. Again the crimes of Aziru [vassal letter],024,akk-x-mbperi:ana[to]PRP akk-x-mbperi:muhhu[skull]N akk-x-mbperi:wašāru[sink-down]V akk-x-mbperi:awīlu[man]N
+aemw/amarna/P271085,EA 140. Again the crimes of Aziru [vassal letter],025,akk-x-mbperi:ana[to]PRP akk-x-mbperi:mahru[front]N akk-x-mbperi:Etakkama[1]PN
+aemw/amarna/P271085,EA 140. Again the crimes of Aziru [vassal letter],026,akk-x-mbperi:u[and]CNJ akk-x-mbperi:dīku[killed]AJ akk-x-mbperi:kalû[all]N
+aemw/amarna/P271085,EA 140. Again the crimes of Aziru [vassal letter],027,akk-x-mbperi:mātu[land]N akk-x-mbperi:ʾAmqu[1]GN akk-x-mbperi:mātu[land]N akk-x-mbperi:šarru[king]N
+aemw/amarna/P271085,EA 140. Again the crimes of Aziru [vassal letter],028,akk-x-mbperi:u[and]CNJ akk-x-mbperi:inanna[now]AV akk-x-mbperi:wašāru[sink-down]V
+aemw/amarna/P271085,EA 140. Again the crimes of Aziru [vassal letter],029,akk-x-mbperi:awīlu[man]N akk-x-mbperi:ina[in]PRP akk-x-mbperi:ṣabātu[seize]V akk-x-mbperi:mātu[land]N
+aemw/amarna/P271085,EA 140. Again the crimes of Aziru [vassal letter],030,akk-x-mbperi:ʾAmqu[1]GN akk-x-mbperi:u[and]CNJ akk-x-mbperi:erṣetu[earth]N akk-x-mbperi:šanītu[something-other]N akk-x-mbperi:lā[not]MOD
+aemw/amarna/P271085,EA 140. Again the crimes of Aziru [vassal letter],031,akk-x-mbperi:epēšu[do]V akk-x-mbperi:šarru[king]N akk-x-mbperi:Hatti[1]GN
+aemw/amarna/P271085,EA 140. Again the crimes of Aziru [vassal letter],032,akk-x-mbperi:u[and]CNJ akk-x-mbperi:šarru[king]N akk-x-mbperi:Nahrima[Mittani]GN
+=======
+aemw/amarna/P271085,EA 140. Again the crimes of Aziru [vassal letter],001,akk-x-mbperi:šarru[king]N akk-x-mbperi:bēlu[lord]N
+aemw/amarna/P271085,EA 140. Again the crimes of Aziru [vassal letter],002,akk-x-mbperi:amtu[maid]N
+aemw/amarna/P271085,EA 140. Again the crimes of Aziru [vassal letter],003,akk-x-mbperi:wardu[slave]N
+aemw/amarna/P271085,EA 140. Again the crimes of Aziru [vassal letter],004,akk-x-mbperi:šēpu[foot]N akk-x-mbperi:bēlu[lord]N
+aemw/amarna/P271085,EA 140. Again the crimes of Aziru [vassal letter],005,akk-x-mbperi:šarru[king]N akk-x-mbperi:bēlu[lord]N
+aemw/amarna/P271085,EA 140. Again the crimes of Aziru [vassal letter],006,akk-x-mbperi:amtu[maid]N
+aemw/amarna/P271085,EA 140. Again the crimes of Aziru [vassal letter],007,akk-x-mbperi:ālu[city]N akk-x-mbperi:šarru[king]N akk-x-mbperi:dārītu[perpetuity]N
+aemw/amarna/P271085,EA 140. Again the crimes of Aziru [vassal letter],008,akk-x-mbperi:šanītu[something-other]N akk-x-mbperi:šarru[king]N
+aemw/amarna/P271085,EA 140. Again the crimes of Aziru [vassal letter],009,
+aemw/amarna/P271085,EA 140. Again the crimes of Aziru [vassal letter],010,akk-x-mbperi:libbu[interior]N akk-x-mbperi:šarru[king]N
+aemw/amarna/P271085,EA 140. Again the crimes of Aziru [vassal letter],011,akk-x-mbperi:šarru[king]N
+aemw/amarna/P271085,EA 140. Again the crimes of Aziru [vassal letter],012,akk-x-mbperi:šarru[king]N
+aemw/amarna/P271085,EA 140. Again the crimes of Aziru [vassal letter],013,akk-x-mbperi:rabû[big-one]N
+aemw/amarna/P271085,EA 140. Again the crimes of Aziru [vassal letter],014,akk-x-mbperi:ālu[city]N
+aemw/amarna/P271085,EA 140. Again the crimes of Aziru [vassal letter],015,
+aemw/amarna/P271085,EA 140. Again the crimes of Aziru [vassal letter],016,akk-x-mbperi:ālu[city]N akk-x-mbperi:šarru[king]N
+aemw/amarna/P271085,EA 140. Again the crimes of Aziru [vassal letter],017,akk-x-mbperi:išqillatu[(a-type-of)-shell]N akk-x-mbperi:šarru[king]N
+aemw/amarna/P271085,EA 140. Again the crimes of Aziru [vassal letter],018,akk-x-mbperi:šanītu[something-other]N
+aemw/amarna/P271085,EA 140. Again the crimes of Aziru [vassal letter],019,
+aemw/amarna/P271085,EA 140. Again the crimes of Aziru [vassal letter],020,akk-x-mbperi:šanītu[something-other]N akk-x-mbperi:arnu[guilt]N
+aemw/amarna/P271085,EA 140. Again the crimes of Aziru [vassal letter],021,
+aemw/amarna/P271085,EA 140. Again the crimes of Aziru [vassal letter],022,
+aemw/amarna/P271085,EA 140. Again the crimes of Aziru [vassal letter],023,akk-x-mbperi:muhhu[skull]N akk-x-mbperi:arnu[guilt]N
+aemw/amarna/P271085,EA 140. Again the crimes of Aziru [vassal letter],024,akk-x-mbperi:muhhu[skull]N akk-x-mbperi:awīlu[man]N
+aemw/amarna/P271085,EA 140. Again the crimes of Aziru [vassal letter],025,akk-x-mbperi:mahru[front]N
+aemw/amarna/P271085,EA 140. Again the crimes of Aziru [vassal letter],026,akk-x-mbperi:kalû[all]N
+aemw/amarna/P271085,EA 140. Again the crimes of Aziru [vassal letter],027,akk-x-mbperi:mātu[land]N akk-x-mbperi:mātu[land]N akk-x-mbperi:šarru[king]N
+aemw/amarna/P271085,EA 140. Again the crimes of Aziru [vassal letter],028,
+aemw/amarna/P271085,EA 140. Again the crimes of Aziru [vassal letter],029,akk-x-mbperi:awīlu[man]N akk-x-mbperi:mātu[land]N
+aemw/amarna/P271085,EA 140. Again the crimes of Aziru [vassal letter],030,akk-x-mbperi:erṣetu[earth]N akk-x-mbperi:šanītu[something-other]N
+aemw/amarna/P271085,EA 140. Again the crimes of Aziru [vassal letter],031,akk-x-mbperi:šarru[king]N
+aemw/amarna/P271085,EA 140. Again the crimes of Aziru [vassal letter],032,akk-x-mbperi:šarru[king]N
+>>>>>>> d524642d5275e5016007339cafda4e021ecb17ba

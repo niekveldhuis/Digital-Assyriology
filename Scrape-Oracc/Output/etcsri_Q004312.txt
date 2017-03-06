@@ -1,0 +1,7 @@
+id_text,text_name,version,l_no,text
+etcsri/Q004312,Šulgi 2094add,,i 1,sux:Šulgir[1]RN
+etcsri/Q004312,Šulgi 2094add,,i 2,sux:nita[male]N sux:kalag[strong]V/i
+etcsri/Q004312,Šulgi 2094add,,i 3,sux:lugal[king]N sux:Urim[1]SN
+etcsri/Q004312,Šulgi 2094add,,ii 1,sux:lugal[king]N sux:anubda[quarter]N sux:limmu[four]NU
+etcsri/Q004312,Šulgi 2094add,,ii 2,sux:Lugalšaga[1]PN
+etcsri/Q004312,Šulgi 2094add,,ii 3,sux:dubsar[scribe]N

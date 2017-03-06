@@ -1,0 +1,11 @@
+id_text,text_name,version,l_no,text
+etcsri/Q000933,Nammahni 11,,1,sux:Igalimak[1]DN
+etcsri/Q000933,Nammahni 11,,2,sux:lugal[king]N
+etcsri/Q000933,Nammahni 11,,3,sux:namtil[life]N
+etcsri/Q000933,Nammahni 11,,4,sux:Nammahni[1]RN
+etcsri/Q000933,Nammahni 11,,5,sux:ensik[ruler]N
+etcsri/Q000933,Nammahni 11,,6,sux:Lagaš[1]SN
+etcsri/Q000933,Nammahni 11,,7,sux:Uraba[1]PN
+etcsri/Q000933,Nammahni 11,,8,sux:sukkalmah[official]N
+etcsri/Q000933,Nammahni 11,,9,sux:dumu[child]N sux:Utukam[1]PN sux:ugula[overseer]N
+etcsri/Q000933,Nammahni 11,,10,sux:u[and]CNJ sux:namtil[life]N

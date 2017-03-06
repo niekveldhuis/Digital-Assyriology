@@ -1,0 +1,36 @@
+id_text,text_name,l_no,text
+<<<<<<< HEAD
+aemw/amarna/P270945,EA 215. A warning [vassal letter],001,akk-x-mbperi:ana[to]PRP akk-x-mbperi:šarru[king]N akk-x-mbperi:bēlu[lord]N
+aemw/amarna/P270945,EA 215. A warning [vassal letter],002,akk-x-mbperi:Šamaš[1]DN akk-x-mbperi:ilu[god]N
+aemw/amarna/P270945,EA 215. A warning [vassal letter],003,akk-x-mbperi:umma[saying]PRP akk-x-mbperi:Bayawa[1]PN
+aemw/amarna/P270945,EA 215. A warning [vassal letter],004,akk-x-mbperi:wardu[slave]N akk-x-mbperi:kabattu[liver]N
+aemw/amarna/P270945,EA 215. A warning [vassal letter],005,akk-x-mbperi:u[and]CNJ akk-x-mbperi:šašallu[tendon-of-the-hoof-or-heel]N
+aemw/amarna/P270945,EA 215. A warning [vassal letter],006,akk-x-mbperi:u[and]CNJ akk-x-mbperi:sebîšu[seven-times]AV
+aemw/amarna/P270945,EA 215. A warning [vassal letter],007,akk-x-mbperi:ana[to]PRP akk-x-mbperi:šēpu[foot]N akk-x-mbperi:šarru[king]N akk-x-mbperi:bēlu[lord]N
+aemw/amarna/P270945,EA 215. A warning [vassal letter],008,akk-x-mbperi:Šamaš[1]DN akk-x-mbperi:ilu[god]N
+aemw/amarna/P270945,EA 215. A warning [vassal letter],009,akk-x-mbperi:maqātu[fall]V akk-x-mbperi:lū[let-it-be]MOD
+aemw/amarna/P270945,EA 215. A warning [vassal letter],010,akk-x-mbperi:Yanhamu[1]PN
+aemw/amarna/P270945,EA 215. A warning [vassal letter],011,akk-x-mbperi:yānu[(there)-is-not]V akk-x-mbperi:ina[in]PRP
+aemw/amarna/P270945,EA 215. A warning [vassal letter],012,akk-x-mbperi:šattu[year]N akk-x-mbperi:annû[this]DP
+aemw/amarna/P270945,EA 215. A warning [vassal letter],013,akk-x-mbperi:halqu[lost]AJ
+aemw/amarna/P270945,EA 215. A warning [vassal letter],014,akk-x-mbperi:gabbu[totality]N akk-x-mbperi:mātu[land]N
+aemw/amarna/P270945,EA 215. A warning [vassal letter],015,akk-x-mbperi:ina[in]PRP akk-x-mbperi:awīlu[man]N akk-x-mbperi:hāpiru[(class-of)-vagrant]N
+aemw/amarna/P270945,EA 215. A warning [vassal letter],016,akk-x-mbperi:u[and]CNJ akk-x-mbperi:balāṭu[live]V
+=======
+aemw/amarna/P270945,EA 215. A warning [vassal letter],001,akk-x-mbperi:šarru[king]N akk-x-mbperi:bēlu[lord]N
+aemw/amarna/P270945,EA 215. A warning [vassal letter],002,akk-x-mbperi:ilu[god]N
+aemw/amarna/P270945,EA 215. A warning [vassal letter],003,
+aemw/amarna/P270945,EA 215. A warning [vassal letter],004,akk-x-mbperi:wardu[slave]N akk-x-mbperi:kabattu[liver]N
+aemw/amarna/P270945,EA 215. A warning [vassal letter],005,akk-x-mbperi:šašallu[tendon-of-the-hoof-or-heel]N
+aemw/amarna/P270945,EA 215. A warning [vassal letter],006,
+aemw/amarna/P270945,EA 215. A warning [vassal letter],007,akk-x-mbperi:šēpu[foot]N akk-x-mbperi:šarru[king]N akk-x-mbperi:bēlu[lord]N
+aemw/amarna/P270945,EA 215. A warning [vassal letter],008,akk-x-mbperi:ilu[god]N
+aemw/amarna/P270945,EA 215. A warning [vassal letter],009,
+aemw/amarna/P270945,EA 215. A warning [vassal letter],010,
+aemw/amarna/P270945,EA 215. A warning [vassal letter],011,
+aemw/amarna/P270945,EA 215. A warning [vassal letter],012,akk-x-mbperi:šattu[year]N
+aemw/amarna/P270945,EA 215. A warning [vassal letter],013,
+aemw/amarna/P270945,EA 215. A warning [vassal letter],014,akk-x-mbperi:gabbu[totality]N akk-x-mbperi:mātu[land]N
+aemw/amarna/P270945,EA 215. A warning [vassal letter],015,akk-x-mbperi:awīlu[man]N akk-x-mbperi:hāpiru[(class-of)-vagrant]N
+aemw/amarna/P270945,EA 215. A warning [vassal letter],016,
+>>>>>>> d524642d5275e5016007339cafda4e021ecb17ba

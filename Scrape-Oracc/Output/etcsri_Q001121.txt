@@ -1,0 +1,3 @@
+id_text,text_name,version,l_no,text
+etcsri/Q001121,En-entarzi 1,,1,sux:Gemebauk[1]PN
+etcsri/Q001121,En-entarzi 1,,2,sux:dumu[child]N sux:Enentarzid[1]RN

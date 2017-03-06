@@ -1,0 +1,54 @@
+id_text,text_name,l_no,text
+saao/saa10/P333995,SAA 10 096. Affairs of the Aššur Temple (ABL 0043) [from astrologers],o 1,ana[to]PRP šarru[king]N bēlu[lord]N
+saao/saa10/P333995,SAA 10 096. Affairs of the Aššur Temple (ABL 0043) [from astrologers],o 2,ardu[slave]N Akkullanu[1]PN
+saao/saa10/P333995,SAA 10 096. Affairs of the Aššur Temple (ABL 0043) [from astrologers],o 3,lū[may]MOD šulmu[completeness]N ana[to]PRP šarru[king]N bēlu[lord]N
+saao/saa10/P333995,SAA 10 096. Affairs of the Aššur Temple (ABL 0043) [from astrologers],o 4,Nabu[1]DN u[and]CNJ Marduk[1]DN ana[to]PRP šarru[king]N bēlu[lord]N karābu[pray]V
+saao/saa10/P333995,SAA 10 096. Affairs of the Aššur Temple (ABL 0043) [from astrologers],o 5,ina[in]PRP muhhu[skull]N darrû[sacrificial-sheep]N ginû[regular-contribution-(to-temple)]N ša[of]DET Aššur[1]DN
+saao/saa10/P333995,SAA 10 096. Affairs of the Aššur Temple (ABL 0043) [from astrologers],o 6,ša[that]REL šarru[king]N bēlu[lord]N ana[to]PRP ardu[slave]N šapāru[send]V
+saao/saa10/P333995,SAA 10 096. Affairs of the Aššur Temple (ABL 0043) [from astrologers],o 7,mā[saying]PRP mannu[who?]QP ina[in]PRP rabû[big-one]N ša[that]REL lā[not]MOD magāru[consent]V
+saao/saa10/P333995,SAA 10 096. Affairs of the Aššur Temple (ABL 0043) [from astrologers],o 8,lā[not]MOD tadānu[give]V lā[not]MOD maṣû[correspond]V
+saao/saa10/P333995,SAA 10 096. Affairs of the Aššur Temple (ABL 0043) [from astrologers],o 9,lā[not]MOD esēhu[assign]V ina[in]PRP timāli[yesterday]AV
+saao/saa10/P333995,SAA 10 096. Affairs of the Aššur Temple (ABL 0043) [from astrologers],o 10,ana[to]PRP šarru[king]N bēlu[lord]N lā[not]MOD šapāru[send]V
+saao/saa10/P333995,SAA 10 096. Affairs of the Aššur Temple (ABL 0043) [from astrologers],o 11,annû[this]DP rabû[big-one]N ša[that]REL darrû[sacrificial-sheep]N
+saao/saa10/P333995,SAA 10 096. Affairs of the Aššur Temple (ABL 0043) [from astrologers],o 12,lā[not]MOD tadānu[give]V
+saao/saa10/P333995,SAA 10 096. Affairs of the Aššur Temple (ABL 0043) [from astrologers],o 13,pīhātu[responsibility]N Barhalza[1]GN
+saao/saa10/P333995,SAA 10 096. Affairs of the Aššur Temple (ABL 0043) [from astrologers],o 14,Raṣappa[1]GN Kilizi[1]GN
+saao/saa10/P333995,SAA 10 096. Affairs of the Aššur Temple (ABL 0043) [from astrologers],o 15,Isana[1]GN Tille[1]GN Kullania[Calneh]GN
+saao/saa10/P333995,SAA 10 096. Affairs of the Aššur Temple (ABL 0043) [from astrologers],o 16,Arpadda[Arpad]GN gimru[totality]N ša[that]REL darrû[sacrificial-sheep]N lā[not]MOD tadānu[give]V
+saao/saa10/P333995,SAA 10 096. Affairs of the Aššur Temple (ABL 0043) [from astrologers],o 17,Raṣappa[1]GN Barhalza[1]GN
+saao/saa10/P333995,SAA 10 096. Affairs of the Aššur Temple (ABL 0043) [from astrologers],o 18,Diqukina[1]GN rabû[big-one]N karmu[heap]N Dayyan-Adad[1]PN
+saao/saa10/P333995,SAA 10 096. Affairs of the Aššur Temple (ABL 0043) [from astrologers],o 19,Isana[1]GN Halzi-atbar[1]GN
+saao/saa10/P333995,SAA 10 096. Affairs of the Aššur Temple (ABL 0043) [from astrologers],o 20,Birtu[1]GN Arzuhina[1]GN
+saao/saa10/P333995,SAA 10 096. Affairs of the Aššur Temple (ABL 0043) [from astrologers],o 21,Arbail[Arbela]GN Guzana[1]GN
+saao/saa10/P333995,SAA 10 096. Affairs of the Aššur Temple (ABL 0043) [from astrologers],b.e. 22,Šahuppa[1]GN Tamnuna[1]GN
+saao/saa10/P333995,SAA 10 096. Affairs of the Aššur Temple (ABL 0043) [from astrologers],b.e. 23,Talmusa[1]GN gimru[totality]N annû[this]DP
+saao/saa10/P333995,SAA 10 096. Affairs of the Aššur Temple (ABL 0043) [from astrologers],b.e. 24,ša[that]REL kurummatu[ration]N kunāšu[emmer]N
+saao/saa10/P333995,SAA 10 096. Affairs of the Aššur Temple (ABL 0043) [from astrologers],b.e. 25,ginû[regular-contribution-(to-temple)]N lā[not]MOD tadānu[give]V
+saao/saa10/P333995,SAA 10 096. Affairs of the Aššur Temple (ABL 0043) [from astrologers],r 1,u[and]CNJ ina[in]PRP muhhu[skull]N šangû[priest]N bītu[house]N nuhatimmu[cook]N
+saao/saa10/P333995,SAA 10 096. Affairs of the Aššur Temple (ABL 0043) [from astrologers],r 2,šangû[priest]N kakardinnu[victualler]N rabû[big-one]N ēpû[baker]N
+saao/saa10/P333995,SAA 10 096. Affairs of the Aššur Temple (ABL 0043) [from astrologers],r 3,ša[that]REL šarru[king]N bēlu[lord]N šâlu[ask]V
+saao/saa10/P333995,SAA 10 096. Affairs of the Aššur Temple (ABL 0043) [from astrologers],r 4,ištu[from]PRP rēšu[head]N gullubu[shorn]AJ
+saao/saa10/P333995,SAA 10 096. Affairs of the Aššur Temple (ABL 0043) [from astrologers],r 5,kī[like]PRP annû[this]DP šūtu[he]IP ṭēmu[(fore)thought]N
+saao/saa10/P333995,SAA 10 096. Affairs of the Aššur Temple (ABL 0043) [from astrologers],r 6,šangû[priest]N ša[of]DET bītu[house]N nuhatimmu[cook]N ṣehru[small]AJ
+saao/saa10/P333995,SAA 10 096. Affairs of the Aššur Temple (ABL 0043) [from astrologers],r 7,Sin-ahhe-eriba[Sennacherib]PN gullubu[shear]V
+saao/saa10/P333995,SAA 10 096. Affairs of the Aššur Temple (ABL 0043) [from astrologers],r 8,Aššur-zeru-iddina[1]PN šangû[priest]N ša[of]DET Ninua[Nineveh]GN
+saao/saa10/P333995,SAA 10 096. Affairs of the Aššur Temple (ABL 0043) [from astrologers],r 9,karṣu[slander]N akālu[eat]V ina[in]PRP maršu[leather-strap]N
+saao/saa10/P333995,SAA 10 096. Affairs of the Aššur Temple (ABL 0043) [from astrologers],r 10,hesû[covered-up]AJ kubšu[headcloth]N mahru[received]AJ
+saao/saa10/P333995,SAA 10 096. Affairs of the Aššur Temple (ABL 0043) [from astrologers],r 11,lā[not]MOD hīṭu[error]N dannu[strong]AJ haṭû[do-wrong]V abu[father]N ša[of]DET
+saao/saa10/P333995,SAA 10 096. Affairs of the Aššur Temple (ABL 0043) [from astrologers],r 12,šangû[priest]N ša[of]DET bītu[house]N kakardinnu[victualler]N
+saao/saa10/P333995,SAA 10 096. Affairs of the Aššur Temple (ABL 0043) [from astrologers],r 13,paššuru[table]N ša[of]DET Aššur[1]DN karāru[put-(down)]V
+saao/saa10/P333995,SAA 10 096. Affairs of the Aššur Temple (ABL 0043) [from astrologers],r 14,ina[in]PRP muhhu[skull]N dīku[killed]AJ annû[this]DP
+saao/saa10/P333995,SAA 10 096. Affairs of the Aššur Temple (ABL 0043) [from astrologers],r 15,abu[father]N ina[in]PRP kūm[instead-of]PRP ina[in]PRP pānu[front]N paššuru[table]N
+saao/saa10/P333995,SAA 10 096. Affairs of the Aššur Temple (ABL 0043) [from astrologers],r 16,paqādu[entrust]V māru[son]N bēlu[lord]N kubšu[headcloth]N šū[he]IP
+saao/saa10/P333995,SAA 10 096. Affairs of the Aššur Temple (ABL 0043) [from astrologers],r 17,ina[in]PRP lā[not]MOD šahsasuttu[recollection]N lā[not]MOD gullubu[shorn]AJ
+saao/saa10/P333995,SAA 10 096. Affairs of the Aššur Temple (ABL 0043) [from astrologers],r 18,u[and]CNJ ina[in]PRP muhhu[skull]N rabû[big-one]N ēpû[baker]N
+saao/saa10/P333995,SAA 10 096. Affairs of the Aššur Temple (ABL 0043) [from astrologers],r 19,Sin-ahhe-eriba[Sennacherib]PN ina[in]PRP muhhu[skull]N akalu[bread]N
+saao/saa10/P333995,SAA 10 096. Affairs of the Aššur Temple (ABL 0043) [from astrologers],r 20,paqādu[entrust]V kittu[truth]N ina[in]PRP libbu[interior]N
+saao/saa10/P333995,SAA 10 096. Affairs of the Aššur Temple (ABL 0043) [from astrologers],r 21,gullubu[shorn]AJ kubšu[headcloth]N mahru[received]AJ
+saao/saa10/P333995,SAA 10 096. Affairs of the Aššur Temple (ABL 0043) [from astrologers],r 22,annûri[now]AV šattu[year]N
+saao/saa10/P333995,SAA 10 096. Affairs of the Aššur Temple (ABL 0043) [from astrologers],r.e. 23,ištu[from]PRP bītu[house]N mītu[dead]AJ
+saao/saa10/P333995,SAA 10 096. Affairs of the Aššur Temple (ABL 0043) [from astrologers],r.e. 24,ūma[today]AV māru[son]N
+saao/saa10/P333995,SAA 10 096. Affairs of the Aššur Temple (ABL 0043) [from astrologers],r.e. 25,išti[with]PRP pērtu[hair-(of-head)]N
+saao/saa10/P333995,SAA 10 096. Affairs of the Aššur Temple (ABL 0043) [from astrologers],r.e. 26,izuzzu[stand]V
+saao/saa10/P333995,SAA 10 096. Affairs of the Aššur Temple (ABL 0043) [from astrologers],e. 1,kittu[truth]N ina[in]PRP labīru[old]AJ adi[until]PRP libbu[interior]N Šarru-ken[Sargon-II]PN Sin-ahhe-eriba[Sennacherib]PN
+saao/saa10/P333995,SAA 10 096. Affairs of the Aššur Temple (ABL 0043) [from astrologers],e. 2,gullubu[shorn]AJ annû[this]DP šūtu[he]IP ṭēmu[(fore)thought]N šarru[king]N bēlu[lord]N

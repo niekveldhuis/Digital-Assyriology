@@ -1,0 +1,51 @@
+id_text,text_name,l_no,text
+riao/Q005681,Puzur-Sin 1001,1,inūmē[when]SBJ
+riao/Q005681,Puzur-Sin 1001,2,Puzur-Sin[vice-regent-of-Aššur]RN
+riao/Q005681,Puzur-Sin 1001,3,iššiakku[city-ruler]N Aššur[1]DN
+riao/Q005681,Puzur-Sin 1001,4,māru[son]N Aššur-bel-šame[father-of-Puzur-Sin]PN
+riao/Q005681,Puzur-Sin 1001,5,lemuttu[evil]N Asisum[1]RN
+riao/Q005681,Puzur-Sin 1001,6,perʾu[bud]N Šamši-Adad_I[son-of-Ila-kabkabu;-vice-regent-of-Aššur]RN
+riao/Q005681,Puzur-Sin 1001,7,ša[that]REL ša[of]DET Aššur[Ashur]SN
+riao/Q005681,Puzur-Sin 1001,8,napālu[dig-out]V
+riao/Q005681,Puzur-Sin 1001,9,redû[(meaning-uncertain)]AJ
+riao/Q005681,Puzur-Sin 1001,10,ana[to]PRP Aššur[Ashur]SN lū[may]MOD epēšu[do]V
+riao/Q005681,Puzur-Sin 1001,11,u[and]CNJ ahu[brother]N šumu[name]N
+riao/Q005681,Puzur-Sin 1001,12,šibṭu[blow]N ahû[outside(r)]AJ lā[not]MOD šīru[flesh]N
+riao/Q005681,Puzur-Sin 1001,13,ālu[city]N Aššur[1]DN
+riao/Q005681,Puzur-Sin 1001,15,Aššur[1]DN qātu[hand]N
+riao/Q005681,Puzur-Sin 1001,16,ellu[pure]AJ
+riao/Q005681,Puzur-Sin 1001,17,ina[in]PRP kittu[steadiness]N
+riao/Q005681,Puzur-Sin 1001,19,lā[not]MOD damqu[good-one]N šuāti[him]IP
+riao/Q005681,Puzur-Sin 1001,20,ina[in]PRP qibītu[speech]N Aššur[1]DN
+riao/Q005681,Puzur-Sin 1001,21,bēlu[lord]N qātu[hand]N epēšu[do]V
+riao/Q005681,Puzur-Sin 1001,22,dūru[(city)-wall]N u[and]CNJ ēkallu[palace]N
+riao/Q005681,Puzur-Sin 1001,23,Šamši-Adad_I[son-of-Ila-kabkabu;-vice-regent-of-Aššur]RN
+riao/Q005681,Puzur-Sin 1001,24,abu[father]N abu[father]N šibṭu[blow]N
+riao/Q005681,Puzur-Sin 1001,25,ahû[outside(r)]AJ lā[not]MOD šīru[flesh]N Aššur[Ashur]SN
+riao/Q005681,Puzur-Sin 1001,26,ša[of]DET ešertu[chapel]N Aššur[Ashur]SN
+riao/Q005681,Puzur-Sin 1001,27,nakāru[be(come)-different]V
+riao/Q005681,Puzur-Sin 1001,28,ēkallu[palace]N šēpu[foot]N šuāti[him]IP
+riao/Q005681,Puzur-Sin 1001,29,epēšu[do]V naqāru[demolish]V
+riao/Q005681,Puzur-Sin 1001,30,ištu[from]PRP pariktu[(a-wall-or-fence)]N
+riao/Q005681,Puzur-Sin 1001,31,ša[of]DET Bab-Ilula[Gate-of-the-deity-Ilula]ON
+riao/Q005681,Puzur-Sin 1001,32,adi[until]PRP kummu[cella]N
+riao/Q005681,Puzur-Sin 1001,33,ša[that]REL ištu[from]PRP dūru[permanence]N
+riao/Q005681,Puzur-Sin 1001,34,šarru[king]N mamman[somebody]XP
+riao/Q005681,Puzur-Sin 1001,35,lā[not]MOD epēšu[do]V dūru[(city)-wall]N
+riao/Q005681,Puzur-Sin 1001,36,epēšu[do]V inūmē[when]SBJ dūru[(city)-wall]N
+riao/Q005681,Puzur-Sin 1001,37,šūt[he]DP anāhu[be(come)-tired]V
+riao/Q005681,Puzur-Sin 1001,38,epēšu[do]V
+riao/Q005681,Puzur-Sin 1001,39,ša[of]DET šumu[name]N u[and]CNJ narû[stele]N
+riao/Q005681,Puzur-Sin 1001,40,annu[this]DP nasāku[throw-(down)]V
+riao/Q005681,Puzur-Sin 1001,41,Aššur[1]DN bēlu[lord]N ālu[city]N
+riao/Q005681,Puzur-Sin 1001,42,šumu[name]N u[and]CNJ perʾu[bud]N
+riao/Q005681,Puzur-Sin 1001,43,ina[in]PRP ālu[city]N u[and]CNJ mātu[land]N
+riao/Q005681,Puzur-Sin 1001,44,kalû[totality]N halāqu[be(come)-lost]V
+riao/Q005681,Puzur-Sin 1001,45,u[and]CNJ narû[stele]N annu[this]DP
+riao/Q005681,Puzur-Sin 1001,46,ana[to]PRP ašru[place]N
+riao/Q005681,Puzur-Sin 1001,47,târu[turn]V inūmē[when]SBJ
+riao/Q005681,Puzur-Sin 1001,48,dūru[(city)-wall]N annu[this]DP epēšu[do]V
+riao/Q005681,Puzur-Sin 1001,49,ina[in]PRP pānu[front]N
+riao/Q005681,Puzur-Sin 1001,50,epēšu[do]V
+riao/Q005681,Puzur-Sin 1001,51,ana[to]PRP qātu[hand]N
+riao/Q005681,Puzur-Sin 1001,53,mesû[wash]V

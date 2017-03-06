@@ -1,0 +1,28 @@
+id_text,text_name,l_no,text
+saao/saa10/P334532,SAA 10 359. The Cult of the Lady of Akkad (ABL 0746) [miscellaneous],o 1,ana[to]PRP šarru[king]N bēlu[lord]N ardu[slave]N Mar-Issar[1]PN lū[may]MOD šulmu[completeness]N
+saao/saa10/P334532,SAA 10 359. The Cult of the Lady of Akkad (ABL 0746) [miscellaneous],o 2,ana[to]PRP šarru[king]N bēlu[lord]N Nabu[1]DN u[and]CNJ Marduk[1]DN ana[to]PRP šarru[king]N bēlu[lord]N
+saao/saa10/P334532,SAA 10 359. The Cult of the Lady of Akkad (ABL 0746) [miscellaneous],o 3,karābu[pray]V ūmu[day]N arku[long]AJ ṭūbu[goodness]N šīru[flesh]N u[and]CNJ hūdu[happiness]N libbu[interior]N
+saao/saa10/P334532,SAA 10 359. The Cult of the Lady of Akkad (ABL 0746) [miscellaneous],o 4,ilu[god]N rabû[big]AJ ana[to]PRP šarru[king]N bēlu[lord]N šarāku[present]V kī[like]PRP Belet[1]DN
+saao/saa10/P334532,SAA 10 359. The Cult of the Lady of Akkad (ABL 0746) [miscellaneous],o 5,ša[of]DET Akkad[1]GN ana[to]PRP Elamtu[Elam]GN alāku[go]V nikkassu[account(s)]N
+saao/saa10/P334532,SAA 10 359. The Cult of the Lady of Akkad (ABL 0746) [miscellaneous],o 6,našû[lift]V eqlu[field]N nišu[people]N ša[of]DET bītu[house]N ilu[god]N šaplu[underside]N
+saao/saa10/P334532,SAA 10 359. The Cult of the Lady of Akkad (ABL 0746) [miscellaneous],o 7,erēbu[enter]V kī[like]PRP šarru[king]N bēlu[lord]N Akkad[1]GN
+saao/saa10/P334532,SAA 10 359. The Cult of the Lady of Akkad (ABL 0746) [miscellaneous],o 8,ašābu[sit-(down)]V unqu[ring]N ina[in]PRP muhhu[skull]N šanû[second]NU rabû[big-one]N bītu[house]N
+saao/saa10/P334532,SAA 10 359. The Cult of the Lady of Akkad (ABL 0746) [miscellaneous],o 9,ša[of]DET Lahiru[1]GN šarru[king]N bēlu[lord]N šapāru[send]V mā[saying]PRP ginû[regular-contribution-(to-temple)]N
+saao/saa10/P334532,SAA 10 359. The Cult of the Lady of Akkad (ABL 0746) [miscellaneous],o 10,ša[of]DET ilu[god]N tadānu[give]V ina[in]PRP Akkad[1]GN qerēbu[approach]V
+saao/saa10/P334532,SAA 10 359. The Cult of the Lady of Akkad (ABL 0746) [miscellaneous],o 11,šattu[year]N tadānu[give]V u[and]CNJ batāqu[cut-off]V
+saao/saa10/P334532,SAA 10 359. The Cult of the Lady of Akkad (ABL 0746) [miscellaneous],o 12,adakanni[until-now]AV lā[not]MOD tadānu[give]V ištu[from]PRP bītu[house]N šarru[king]N
+saao/saa10/P334532,SAA 10 359. The Cult of the Lady of Akkad (ABL 0746) [miscellaneous],o 13,bēlu[lord]N ana[to]PRP Akkad[1]GN erēbu[enter]V
+saao/saa10/P334532,SAA 10 359. The Cult of the Lady of Akkad (ABL 0746) [miscellaneous],r 1',bītu[house]N ilu[god]N
+saao/saa10/P334532,SAA 10 359. The Cult of the Lady of Akkad (ABL 0746) [miscellaneous],r 2',wabālu[bring]V battatayya[individually]AV
+saao/saa10/P334532,SAA 10 359. The Cult of the Lady of Akkad (ABL 0746) [miscellaneous],r 3',ṣabātu[seize]V šumma[if]MOD pānu[front]N
+saao/saa10/P334532,SAA 10 359. The Cult of the Lady of Akkad (ABL 0746) [miscellaneous],r 4',šarru[king]N bēlu[lord]N mahru[received]AJ ina[in]PRP Akkad[1]GN paqādu[entrust]V šumma[if]MOD ša-rēši[eunuch]N
+saao/saa10/P334532,SAA 10 359. The Cult of the Lady of Akkad (ABL 0746) [miscellaneous],r 5',simānu[(right)-occasion]N dullu[trouble]N annû[this]DP
+saao/saa10/P334532,SAA 10 359. The Cult of the Lady of Akkad (ABL 0746) [miscellaneous],r 6',u[and]CNJ nēpešu[activity]N tadānu[give]V
+saao/saa10/P334532,SAA 10 359. The Cult of the Lady of Akkad (ABL 0746) [miscellaneous],r 7',u[and]CNJ tebû[arise]V
+saao/saa10/P334532,SAA 10 359. The Cult of the Lady of Akkad (ABL 0746) [miscellaneous],r 8',ūla[or]AV kī[like]PRP
+saao/saa10/P334532,SAA 10 359. The Cult of the Lady of Akkad (ABL 0746) [miscellaneous],r 9',ša[of]DET lā[not]MOD šemû[hear]V šemû[hear]V
+saao/saa10/P334532,SAA 10 359. The Cult of the Lady of Akkad (ABL 0746) [miscellaneous],r 10',šarru[king]N bēlu[lord]N wadû[know]V kī[like]PRP kalbu[dog]N ša[of]DET šarru[king]N bēlu[lord]N
+saao/saa10/P334532,SAA 10 359. The Cult of the Lady of Akkad (ABL 0746) [miscellaneous],r 11',anāku[I]IP išti[with]PRP šarru[king]N bēlu[lord]N kīnu[permanent]AJ
+saao/saa10/P334532,SAA 10 359. The Cult of the Lady of Akkad (ABL 0746) [miscellaneous],r 12',ūma[today]AV annûri[now]AV ana[to]PRP šarru[king]N bēlu[lord]N šapāru[send]V
+saao/saa10/P334532,SAA 10 359. The Cult of the Lady of Akkad (ABL 0746) [miscellaneous],r 13',šarru[king]N bēlu[lord]N kī[like]PRP ša[that]REL ina[in]PRP pānu[front]N mahru[received]AJ
+saao/saa10/P334532,SAA 10 359. The Cult of the Lady of Akkad (ABL 0746) [miscellaneous],r 14',epēšu[do]V adi[until]PRP nikkassu[account(s)]N ša[of]DET bītu[house]N ilu[god]N

@@ -1,0 +1,17 @@
+id_text,text_name,l_no,text
+saao/saa19/P224378,SAA 19 149. Take Over the Kingship! (CTN 5 p. 12),o 1,ardu[slave]N
+saao/saa19/P224378,SAA 19 149. Take Over the Kingship! (CTN 5 p. 12),o 2,ana[to]PRP dinānu[substitution]N šarru[king]N bēlu[lord]N alāku[go]V
+saao/saa19/P224378,SAA 19 149. Take Over the Kingship! (CTN 5 p. 12),o 3,umma[saying]PRP ana[to]PRP šarru[king]N bēlu[lord]N
+saao/saa19/P224378,SAA 19 149. Take Over the Kingship! (CTN 5 p. 12),o 4,ana[to]PRP šarru[king]N bēlu[lord]N šapāru[send]V
+saao/saa19/P224378,SAA 19 149. Take Over the Kingship! (CTN 5 p. 12),o 5,umma[saying]PRP minamma[why?]QP epēšu[do]V
+saao/saa19/P224378,SAA 19 149. Take Over the Kingship! (CTN 5 p. 12),o 6,ša[that]REL ana[to]PRP šarru[king]N qabû[say]V umma[saying]PRP Bel[1]DN qabû[say]V
+saao/saa19/P224378,SAA 19 149. Take Over the Kingship! (CTN 5 p. 12),o 7,umma[saying]PRP šarrūtu[kingship]N našû[lift]V ana[to]PRP pû[mouth]N
+saao/saa19/P224378,SAA 19 149. Take Over the Kingship! (CTN 5 p. 12),o 8,mannu[who?]QP šalânū-[without]PRP šarrūtu[kingship]N našû[lift]V
+saao/saa19/P224378,SAA 19 149. Take Over the Kingship! (CTN 5 p. 12),o 9,šarrūtu[kingship]N našû[lift]V ina[in]PRP mahrû[first]AJ
+saao/saa19/P224378,SAA 19 149. Take Over the Kingship! (CTN 5 p. 12),o 10,ummiānu[scholar]N šarru[king]N qabû[say]V umma[saying]PRP
+saao/saa19/P224378,SAA 19 149. Take Over the Kingship! (CTN 5 p. 12),o 11,šarrūtu[kingship]N epēšu[do]V šarru[king]N šapāru[send]V
+saao/saa19/P224378,SAA 19 149. Take Over the Kingship! (CTN 5 p. 12),r 2',šarru[king]N šapāru[send]V
+saao/saa19/P224378,SAA 19 149. Take Over the Kingship! (CTN 5 p. 12),r 3',ša[that]REL ištu[from]PRP
+saao/saa19/P224378,SAA 19 149. Take Over the Kingship! (CTN 5 p. 12),r 5',enna[now]AV
+saao/saa19/P224378,SAA 19 149. Take Over the Kingship! (CTN 5 p. 12),r 6',sūnu[loin]N
+saao/saa19/P224378,SAA 19 149. Take Over the Kingship! (CTN 5 p. 12),r 7',ina[in]PRP ālu[city]N

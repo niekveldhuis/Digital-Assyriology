@@ -1,0 +1,36 @@
+id_text,text_name,l_no,text
+saao/saa13/P334061,SAA 13 056. Offerings for the King and his Family (ABL 0113),o 1,ana[to]PRP šarru[king]N bēlu[lord]N
+saao/saa13/P334061,SAA 13 056. Offerings for the King and his Family (ABL 0113),o 2,ardu[slave]N Urdu-Nabu[1]PN
+saao/saa13/P334061,SAA 13 056. Offerings for the King and his Family (ABL 0113),o 3,lū[may]MOD šulmu[completeness]N ana[to]PRP šarru[king]N bēlu[lord]N
+saao/saa13/P334061,SAA 13 056. Offerings for the King and his Family (ABL 0113),o 4,Aššur[1]DN Sin[1]DN Šamaš[1]DN Marduk[1]DN
+saao/saa13/P334061,SAA 13 056. Offerings for the King and his Family (ABL 0113),o 5,Zarpanitu[1]DN Nabu[1]DN Tašmetu[1]DN
+saao/saa13/P334061,SAA 13 056. Offerings for the King and his Family (ABL 0113),o 6,Ištar[1]DN ša[of]DET Ninua[Nineveh]GN Ištar[1]DN ša[of]DET Arbail[Arbela]GN
+saao/saa13/P334061,SAA 13 056. Offerings for the King and his Family (ABL 0113),o 7,ilu[god]N annû[this]DP rabû[big]AJ
+saao/saa13/P334061,SAA 13 056. Offerings for the King and his Family (ABL 0113),o 8,rāʾimu[one-who-loves]N šarrūtu[kingship]N
+saao/saa13/P334061,SAA 13 056. Offerings for the King and his Family (ABL 0113),o 9,meʾatu[(one)-hundred]NU šattu[year]N ana[to]PRP šarru[king]N bēlu[lord]N
+saao/saa13/P334061,SAA 13 056. Offerings for the King and his Family (ABL 0113),o 10,balāṭu[live]V
+saao/saa13/P334061,SAA 13 056. Offerings for the King and his Family (ABL 0113),o 11,šībūtu[old-age]N littūtu[(extreme)-old-age]N ana[to]PRP šarru[king]N bēlu[lord]N
+saao/saa13/P334061,SAA 13 056. Offerings for the King and his Family (ABL 0113),o 12,šebû[be(come)-full]V
+saao/saa13/P334061,SAA 13 056. Offerings for the King and his Family (ABL 0113),o 13,maṣṣaru[guard]N šulmu[completeness]N balāṭu[live]V
+saao/saa13/P334061,SAA 13 056. Offerings for the King and his Family (ABL 0113),o 14,išti[with]PRP šarru[king]N bēlu[lord]N paqādu[entrust]V
+saao/saa13/P334061,SAA 13 056. Offerings for the King and his Family (ABL 0113),o 15,ūmu[day]N ša[of]DET Ayaru[Iyyar]MN Nabu[1]DN
+saao/saa13/P334061,SAA 13 056. Offerings for the King and his Family (ABL 0113),o 16,Tašmetu[1]DN ina[in]PRP bītu[house]N eršu[bed]N
+saao/saa13/P334061,SAA 13 056. Offerings for the King and his Family (ABL 0113),o 17,erēbu[enter]V
+saao/saa13/P334061,SAA 13 056. Offerings for the King and his Family (ABL 0113),o 18,ina[in]PRP rēšu[head]N šarrūtu[kingship]N
+saao/saa13/P334061,SAA 13 056. Offerings for the King and his Family (ABL 0113),o 19,nīqu[offering]N ša[that]REL ana[to]PRP šarru[king]N bēlu[lord]N
+saao/saa13/P334061,SAA 13 056. Offerings for the King and his Family (ABL 0113),r 1,balāṭu[live]V
+saao/saa13/P334061,SAA 13 056. Offerings for the King and his Family (ABL 0113),r 2,ina[in]PRP pānu[front]N Nabu[1]DN Tašmetu[1]DN epēšu[do]V
+saao/saa13/P334061,SAA 13 056. Offerings for the King and his Family (ABL 0113),r 3,ūma[today]AV annûri[now]AV ana[to]PRP šarru[king]N
+saao/saa13/P334061,SAA 13 056. Offerings for the King and his Family (ABL 0113),r 4,bēlu[lord]N šapāru[send]V ina[in]PRP muhhu[skull]N awātu[word]N
+saao/saa13/P334061,SAA 13 056. Offerings for the King and his Family (ABL 0113),r 5,ša[that]REL šarru[king]N bēlu[lord]N
+saao/saa13/P334061,SAA 13 056. Offerings for the King and his Family (ABL 0113),r 6,nīqu[offering]N ša[of]DET Aššur-bani-apli[Assurbanipal]PN māru[son]N šarru[king]N rabû[big]AJ
+saao/saa13/P334061,SAA 13 056. Offerings for the King and his Family (ABL 0113),r 7,ša[of]DET Šamaš-šumu-ukin[1]PN māru[son]N šarru[king]N Babili[Babylon]GN
+saao/saa13/P334061,SAA 13 056. Offerings for the King and his Family (ABL 0113),r 8,ša[of]DET Šeruʾa-eṭerat[1]PN
+saao/saa13/P334061,SAA 13 056. Offerings for the King and his Family (ABL 0113),r 9,ša[of]DET Aššur-mukin-paleya[1]PN
+saao/saa13/P334061,SAA 13 056. Offerings for the King and his Family (ABL 0113),r 10,ša[of]DET Aššur-etel-šame-erṣeti-muballissu[1]PN
+saao/saa13/P334061,SAA 13 056. Offerings for the King and his Family (ABL 0113),r 11,ṭēmu[(fore)thought]N šakānu[put]V nīqu[offering]N
+saao/saa13/P334061,SAA 13 056. Offerings for the King and his Family (ABL 0113),r 12,wabālu[bring]V ina[in]PRP pānu[front]N Nabu[1]DN Tašmetu[1]DN
+saao/saa13/P334061,SAA 13 056. Offerings for the King and his Family (ABL 0113),r 13,ina[in]PRP bītu[house]N eršu[bed]N epēšu[do]V
+saao/saa13/P334061,SAA 13 056. Offerings for the King and his Family (ABL 0113),r 14,meʾatu[(one)-hundred]NU šattu[year]N balāṭu[live]V
+saao/saa13/P334061,SAA 13 056. Offerings for the King and his Family (ABL 0113),r 15,māru[son]N māru[son]N māru[son]N
+saao/saa13/P334061,SAA 13 056. Offerings for the King and his Family (ABL 0113),r 16,paršumu[outlive]V

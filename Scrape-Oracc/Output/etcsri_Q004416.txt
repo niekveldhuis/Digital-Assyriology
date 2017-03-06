@@ -1,0 +1,9 @@
+id_text,text_name,version,l_no,text
+etcsri/Q004416,Šu-Suen 2083add,,i 1,sux:Šusuen[1]RN
+etcsri/Q004416,Šu-Suen 2083add,,i 2,sux:lugal[king]N sux:kalag[strong]V/i
+etcsri/Q004416,Šu-Suen 2083add,,i 3,sux:lugal[king]N sux:Urim[1]SN
+etcsri/Q004416,Šu-Suen 2083add,,i 4,sux:lugal[king]N sux:anubda[quarter]N sux:limmu[four]NU
+etcsri/Q004416,Šu-Suen 2083add,,i 5,sux:Lugalamarkug[2]PN
+etcsri/Q004416,Šu-Suen 2083add,,ii 1,sux:dubsar[scribe]N
+etcsri/Q004416,Šu-Suen 2083add,,ii 2,sux:dumu[child]N sux:Lugalmagure[4]PN
+etcsri/Q004416,Šu-Suen 2083add,,ii 3,sux:išib[priest]N sux:Ninurta[1]DN

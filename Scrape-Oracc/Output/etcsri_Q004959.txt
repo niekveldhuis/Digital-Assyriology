@@ -1,0 +1,9 @@
+id_text,text_name,version,l_no,text
+etcsri/Q004959,Ibbi-Suen 2024add,,i 1,sux:Ibbisuen[1]RN
+etcsri/Q004959,Ibbi-Suen 2024add,,i 2,sux:lugal[king]N sux:kalag[strong]V/i
+etcsri/Q004959,Ibbi-Suen 2024add,,i 3,sux:lugal[king]N sux:Urim[1]SN
+etcsri/Q004959,Ibbi-Suen 2024add,,i 4,sux:lugal[king]N sux:anubda[quarter]N sux:limmu[four]NU
+etcsri/Q004959,Ibbi-Suen 2024add,,ii 1,sux:Hamatil[1]PN
+etcsri/Q004959,Ibbi-Suen 2024add,,ii 2,sux:kaš[runner]N
+etcsri/Q004959,Ibbi-Suen 2024add,,ii 3,sux:dumu[child]N sux:Ahurani[1]PN
+etcsri/Q004959,Ibbi-Suen 2024add,,ii 4,sux:nubanda[overseer]N

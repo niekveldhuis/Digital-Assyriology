@@ -1,0 +1,22 @@
+id_text,text_name,version,l_no,text
+etcsri/Q001109,En-metena 11,,i 1,sux:Ninŋirsuk[1]DN
+etcsri/Q001109,En-metena 11,,i 2,sux:ursaŋ[hero]N sux:Enlil[1]DN
+etcsri/Q001109,En-metena 11,,i 3,sux:Enmetenak[1]RN
+etcsri/Q001109,En-metena 11,,i 4,sux:ensik[ruler]N
+etcsri/Q001109,En-metena 11,,i 5,sux:Lagaš[1]SN
+etcsri/Q001109,En-metena 11,,i 6,sux:šag[heart]N sux:pad[find]V/t
+etcsri/Q001109,En-metena 11,,ii 1,sux:Nanše[1]DN
+etcsri/Q001109,En-metena 11,,ii 2,sux:ensikgal[governor]N
+etcsri/Q001109,En-metena 11,,ii 3,sux:Ninŋirsuk[1]DN
+etcsri/Q001109,En-metena 11,,ii 4,sux:dumu[child]N sux:Enanatum[1]RN
+etcsri/Q001109,En-metena 11,,ii 5,sux:ensik[ruler]N
+etcsri/Q001109,En-metena 11,,ii 6,sux:Lagaš[1]SN
+etcsri/Q001109,En-metena 11,,iii 1,sux:lu[person]N sux:eš[shrine]N sux:gi[reed]N
+etcsri/Q001109,En-metena 11,,iii 2,sux:Ninŋirsuk[1]DN
+etcsri/Q001109,En-metena 11,,iii 3,sux:du[build]V/t
+etcsri/Q001109,En-metena 11,,iii 4,sux:diŋir[deity]N
+etcsri/Q001109,En-metena 11,,iii 5,sux:Šul-MUŠ×PA[1]DN
+etcsri/Q001109,En-metena 11,,iii 6,sux:ud[sun]N sux:ul[distant]V/i
+etcsri/Q001109,En-metena 11,,iv 1,sux:namtil[life]N
+etcsri/Q001109,En-metena 11,,iv 2,sux:Ninŋirsuk[1]DN
+etcsri/Q001109,En-metena 11,,iv 3,sux:Eninnu[1]TN
