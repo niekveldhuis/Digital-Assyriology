@@ -1,46 +1,46 @@
 id_text,text_name,version,l_no,text
-c.0.1.2,Ur III catalogue at Yale (Y1),,1,diŋir[deity]N šembizida[kohl]N dar[split]V/t
-c.0.1.2,Ur III catalogue at Yale (Y1),,2,Enlil[1]DN dug[speak]V/t kur[different]V/i
-c.0.1.2,Ur III catalogue at Yale (Y1),,3,lugal[king]N an[sky]N kug[pure]V/i mete[appropriate-thing]N
-c.0.1.2,Ur III catalogue at Yale (Y1),,4,lugal[king]N Enlil[1]DN gub[stand]V/i
-c.0.1.2,Ur III catalogue at Yale (Y1),,5,en[lord]N gud[ox]N banda[junior]V/i
-c.0.1.2,Ur III catalogue at Yale (Y1),,6,šerzid[radiance]N en[lord]N gal[big]V/i
-c.0.1.2,Ur III catalogue at Yale (Y1),,7,munus[woman]N zid[right]V/i mi[cvne]N dug[speak]V/t
-c.0.1.2,Ur III catalogue at Yale (Y1),,8,en[lord]N sulim[radiance]N
-c.0.1.2,Ur III catalogue at Yale (Y1),,9,ursaŋ[hero]N en[lord]N huš[reddish]V/i gal[big]V/i
-c.0.1.2,Ur III catalogue at Yale (Y1),,10,ursaŋ[hero]N en[lord]N me[Being]N šar[3600]NU tum[suitable]V/i
-c.0.1.2,Ur III catalogue at Yale (Y1),,11,lugal[king]N anšag[~heaven]N hili[attractiveness]N gur[lift]V/t
-c.0.1.2,Ur III catalogue at Yale (Y1),,12,nin[lady]N me[Being]N hedu[ornament]N
-c.0.1.2,Ur III catalogue at Yale (Y1),,13,en[lord]N inim[word]N nun[prince]N zu[know]V/t
-c.0.1.2,Ur III catalogue at Yale (Y1),,14,Šulgir[1]RN hili[attractiveness]N sud[distant]V/i
-c.0.1.2,Ur III catalogue at Yale (Y1),,15,Šulgir[1]RN diŋir[deity]N zid[right]V/i
-c.0.1.2,Ur III catalogue at Yale (Y1),,16,en[lord]N galanzu[wise]AJ an[sky]N
-c.0.1.2,Ur III catalogue at Yale (Y1),,17,lugal[king]N hili[attractiveness]N gur[lift]V/t
-c.0.1.2,Ur III catalogue at Yale (Y1),,18,lugal[king]N inim[word]N sag[good]V/i
-c.0.1.2,Ur III catalogue at Yale (Y1),,19,ursaŋ[hero]N šag[heart]N kug[pure]V/i
-c.0.1.2,Ur III catalogue at Yale (Y1),,20,lugal[king]N amaru[flood]N
-c.0.1.2,Ur III catalogue at Yale (Y1),,21,lugal[king]N melim[splendor]N huš[reddish]V/i
-c.0.1.2,Ur III catalogue at Yale (Y1),,22,ursaŋ[hero]N ni[fear]N gal[big]V/i gur[lift]V/t
-c.0.1.2,Ur III catalogue at Yale (Y1),,23,en[lord]N an[sky]N ki[place]N
-c.0.1.2,Ur III catalogue at Yale (Y1),,24,lugal[king]N ud[storm]N gu[voice]N dug[speak]V/t
-c.0.1.2,Ur III catalogue at Yale (Y1),,25,lugal[king]N ŋeštug[ear]N daŋal[wide]V/i
-c.0.1.2,Ur III catalogue at Yale (Y1),,26,ursaŋ[hero]N šul[youth]V/i zid[right]V/i utud[bear]V/t
-c.0.1.2,Ur III catalogue at Yale (Y1),,27,nin[lady]N hili[attractiveness]N sud[distant]V/i
-c.0.1.2,Ur III catalogue at Yale (Y1),,28,agrig[steward]N zid[right]V/i unkin[assembly]N
-c.0.1.2,Ur III catalogue at Yale (Y1),,29,ušum[snake]N huš[reddish]V/i an[sky]N
-c.0.1.2,Ur III catalogue at Yale (Y1),,30,lugal[king]N šag[heart]N ursaŋ[hero]N
-c.0.1.2,Ur III catalogue at Yale (Y1),,31,nin[lady]N suh[crown]N zagin[lapis]N zana[unmng]N gunu[speckled]V/i
-c.0.1.2,Ur III catalogue at Yale (Y1),,32,en[lord]N melim[splendor]N sud[distant]V/i
-c.0.1.2,Ur III catalogue at Yale (Y1),,33,šuniŋin[total]N 32[32]NU endu[song]N lugal[king]N
-c.0.1.2,Ur III catalogue at Yale (Y1),,34,lugal[king]N en[lord]N galdi[exalted]AJ an[sky]N
-c.0.1.2,Ur III catalogue at Yale (Y1),,35,saŋmen[crown]N kug[pure]V/i
-c.0.1.2,Ur III catalogue at Yale (Y1),,36,ama[mother]N heŋal[plenty]N du[build]V/t
-c.0.1.2,Ur III catalogue at Yale (Y1),,37,gud[ox]N si[horn]N ŋar[place]V/t
-c.0.1.2,Ur III catalogue at Yale (Y1),,38,nun[prince]N e[house]N en[lord]N kur[enter]V/i
-c.0.1.2,Ur III catalogue at Yale (Y1),,39,ud[sun]N zal[pass]V/t
-c.0.1.2,Ur III catalogue at Yale (Y1),,40,ursaŋ[hero]N piriŋ[lion]N huš[reddish]V/i uru[flood]N me[Being]N gal[big]V/i
-c.0.1.2,Ur III catalogue at Yale (Y1),,41,ursaŋ[hero]N šagtur[womb]N
-c.0.1.2,Ur III catalogue at Yale (Y1),,42,dumu[child]N An[1]DN
-c.0.1.2,Ur III catalogue at Yale (Y1),,43,sahar[soil]N kag[mouth]N du[build]V/t
-c.0.1.2,Ur III catalogue at Yale (Y1),,44,šuniŋin[total]N 10[10]NU endu[song]N igi[eye]N
-c.0.1.2,Ur III catalogue at Yale (Y1),,45,pad[find]V/t niŋurum[property]N
+c.0.1.2,Ur III catalogue at Yale (Y1),,1,sux:diŋir[deity]N sux:šembizida[kohl]N sux:dar[split]V/t
+c.0.1.2,Ur III catalogue at Yale (Y1),,2,sux:Enlil[1]DN sux:dug[speak]V/t sux:kur[different]V/i
+c.0.1.2,Ur III catalogue at Yale (Y1),,3,sux:lugal[king]N sux:an[sky]N sux:kug[pure]V/i sux:mete[appropriate-thing]N
+c.0.1.2,Ur III catalogue at Yale (Y1),,4,sux:lugal[king]N sux:Enlil[1]DN sux:gub[stand]V/i
+c.0.1.2,Ur III catalogue at Yale (Y1),,5,sux:en[lord]N sux:gud[ox]N sux:banda[junior]V/i
+c.0.1.2,Ur III catalogue at Yale (Y1),,6,sux:šerzid[radiance]N sux:en[lord]N sux:gal[big]V/i
+c.0.1.2,Ur III catalogue at Yale (Y1),,7,sux:munus[woman]N sux:zid[right]V/i sux:mi[cvne]N sux:dug[speak]V/t
+c.0.1.2,Ur III catalogue at Yale (Y1),,8,sux:en[lord]N sux:sulim[radiance]N
+c.0.1.2,Ur III catalogue at Yale (Y1),,9,sux:ursaŋ[hero]N sux:en[lord]N sux:huš[reddish]V/i sux:gal[big]V/i
+c.0.1.2,Ur III catalogue at Yale (Y1),,10,sux:ursaŋ[hero]N sux:en[lord]N sux:me[Being]N sux:šar[3600]NU sux:tum[suitable]V/i
+c.0.1.2,Ur III catalogue at Yale (Y1),,11,sux:lugal[king]N sux:anšag[~heaven]N sux:hili[attractiveness]N sux:gur[lift]V/t
+c.0.1.2,Ur III catalogue at Yale (Y1),,12,sux:nin[lady]N sux:me[Being]N sux:hedu[ornament]N
+c.0.1.2,Ur III catalogue at Yale (Y1),,13,sux:en[lord]N sux:inim[word]N sux:nun[prince]N sux:zu[know]V/t
+c.0.1.2,Ur III catalogue at Yale (Y1),,14,sux:Šulgir[1]RN sux:hili[attractiveness]N sux:sud[distant]V/i
+c.0.1.2,Ur III catalogue at Yale (Y1),,15,sux:Šulgir[1]RN sux:diŋir[deity]N sux:zid[right]V/i
+c.0.1.2,Ur III catalogue at Yale (Y1),,16,sux:en[lord]N sux:galanzu[wise]AJ sux:an[sky]N
+c.0.1.2,Ur III catalogue at Yale (Y1),,17,sux:lugal[king]N sux:hili[attractiveness]N sux:gur[lift]V/t
+c.0.1.2,Ur III catalogue at Yale (Y1),,18,sux:lugal[king]N sux:inim[word]N sux:sag[good]V/i
+c.0.1.2,Ur III catalogue at Yale (Y1),,19,sux:ursaŋ[hero]N sux:šag[heart]N sux:kug[pure]V/i
+c.0.1.2,Ur III catalogue at Yale (Y1),,20,sux:lugal[king]N sux:amaru[flood]N
+c.0.1.2,Ur III catalogue at Yale (Y1),,21,sux:lugal[king]N sux:melim[splendor]N sux:huš[reddish]V/i
+c.0.1.2,Ur III catalogue at Yale (Y1),,22,sux:ursaŋ[hero]N sux:ni[fear]N sux:gal[big]V/i sux:gur[lift]V/t
+c.0.1.2,Ur III catalogue at Yale (Y1),,23,sux:en[lord]N sux:an[sky]N sux:ki[place]N
+c.0.1.2,Ur III catalogue at Yale (Y1),,24,sux:lugal[king]N sux:ud[storm]N sux:gu[voice]N sux:dug[speak]V/t
+c.0.1.2,Ur III catalogue at Yale (Y1),,25,sux:lugal[king]N sux:ŋeštug[ear]N sux:daŋal[wide]V/i
+c.0.1.2,Ur III catalogue at Yale (Y1),,26,sux:ursaŋ[hero]N sux:šul[youth]V/i sux:zid[right]V/i sux:utud[bear]V/t
+c.0.1.2,Ur III catalogue at Yale (Y1),,27,sux:nin[lady]N sux:hili[attractiveness]N sux:sud[distant]V/i
+c.0.1.2,Ur III catalogue at Yale (Y1),,28,sux:agrig[steward]N sux:zid[right]V/i sux:unkin[assembly]N
+c.0.1.2,Ur III catalogue at Yale (Y1),,29,sux:ušum[snake]N sux:huš[reddish]V/i sux:an[sky]N
+c.0.1.2,Ur III catalogue at Yale (Y1),,30,sux:lugal[king]N sux:šag[heart]N sux:ursaŋ[hero]N
+c.0.1.2,Ur III catalogue at Yale (Y1),,31,sux:nin[lady]N sux:suh[crown]N sux:zagin[lapis]N sux:zana[unmng]N sux:gunu[speckled]V/i
+c.0.1.2,Ur III catalogue at Yale (Y1),,32,sux:en[lord]N sux:melim[splendor]N sux:sud[distant]V/i
+c.0.1.2,Ur III catalogue at Yale (Y1),,33,sux:šuniŋin[total]N sux:32[32]NU sux:endu[song]N sux:lugal[king]N
+c.0.1.2,Ur III catalogue at Yale (Y1),,34,sux:lugal[king]N sux:en[lord]N sux:galdi[exalted]AJ sux:an[sky]N
+c.0.1.2,Ur III catalogue at Yale (Y1),,35,sux:saŋmen[crown]N sux:kug[pure]V/i
+c.0.1.2,Ur III catalogue at Yale (Y1),,36,sux:ama[mother]N sux:heŋal[plenty]N sux:du[build]V/t
+c.0.1.2,Ur III catalogue at Yale (Y1),,37,sux:gud[ox]N sux:si[horn]N sux:ŋar[place]V/t
+c.0.1.2,Ur III catalogue at Yale (Y1),,38,sux:nun[prince]N sux:e[house]N sux:en[lord]N sux:kur[enter]V/i
+c.0.1.2,Ur III catalogue at Yale (Y1),,39,sux:ud[sun]N sux:zal[pass]V/t
+c.0.1.2,Ur III catalogue at Yale (Y1),,40,sux:ursaŋ[hero]N sux:piriŋ[lion]N sux:huš[reddish]V/i sux:uru[flood]N sux:me[Being]N sux:gal[big]V/i
+c.0.1.2,Ur III catalogue at Yale (Y1),,41,sux:ursaŋ[hero]N sux:šagtur[womb]N
+c.0.1.2,Ur III catalogue at Yale (Y1),,42,sux:dumu[child]N sux:An[1]DN
+c.0.1.2,Ur III catalogue at Yale (Y1),,43,sux:sahar[soil]N sux:kag[mouth]N sux:du[build]V/t
+c.0.1.2,Ur III catalogue at Yale (Y1),,44,sux:šuniŋin[total]N sux:10[10]NU sux:endu[song]N sux:igi[eye]N
+c.0.1.2,Ur III catalogue at Yale (Y1),,45,sux:pad[find]V/t sux:niŋurum[property]N

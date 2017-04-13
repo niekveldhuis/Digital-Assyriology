@@ -252,7 +252,24 @@ c.6.2.3,Proverbs: from Urim,UET 6/3 80,18,sux:atuku[powerful]N sux:lugal[king]N 
 c.6.2.3,Proverbs: from Urim,UET 6/3 80,19,sux:zir[break]V/t sux:sa[equal]V/t sux:dug[speak]V/t
 c.6.2.3,Proverbs: from Urim,UET 6/3 80,20,sux:aba[who?]QP sux:kiŋ[seek]V/t
 c.6.2.3,Proverbs: from Urim,UET 6/3 80,21,
-c.6.2.3,Proverbs: from Urim,UET 6/2 339 +,A1,sux:gi[turn]V/ic.6.2.3,Proverbs: from Urim,UET 6/2 339 +,A2,c.6.2.3,Proverbs: from Urim,UET 6/2 339 +,A3,c.6.2.3,Proverbs: from Urim,UET 6/2 339 +,A4,sux:sag[good]V/ic.6.2.3,Proverbs: from Urim,UET 6/2 339 +,A5,sux:šub[fall]V/tc.6.2.3,Proverbs: from Urim,UET 6/2 339 +,A6,c.6.2.3,Proverbs: from Urim,UET 6/2 339 +,A7,sux:ŋal[be]V/i sux:tuku[acquire]V/tc.6.2.3,Proverbs: from Urim,UET 6/2 339 +,A8,sux:zu[know]V/t sux:us[follow]V/tc.6.2.3,Proverbs: from Urim,UET 6/2 339 +,A9,sux:sag[beat]V/tc.6.2.3,Proverbs: from Urim,UET 6/2 339 +,A10,sux:diŋir[deity]N sux:mea[where?]QPc.6.2.3,Proverbs: from Urim,UET 6/2 339 +,A11,c.6.2.3,Proverbs: from Urim,UET 6/2 339 +,B1,sux:du[build]V/t sux:munus[woman]Nc.6.2.3,Proverbs: from Urim,UET 6/2 339 +,B2,sux:ninda[bread]N sux:ninkilim[mongoose]N sux:gu[eat]V/t sux:ninda[bread]N sux:kur[different]V/i sux:gu[eat]V/tc.6.2.3,Proverbs: from Urim,UET 6/2 339 +,B3,sux:niŋtuku[rich]AJ sux:niŋ[thing]N sux:al[hoe]N sux:dug[speak]V/t sux:niŋgig[bad-thing]N sux:diŋir[deity]Nc.6.2.3,Proverbs: from Urim,UET 6/2 339 +,B4,sux:u[cvne]N sux:hub[cvve]V/t sux:til[live]V/i sux:ugu[skull]Nc.6.2.3,Proverbs: from Urim,UET 6/2 339 +,B5,sux:dumu[child]N sux:dubsar[scribe]N sux:ŋar[place]V/tc.6.2.3,Proverbs: from Urim,UET 6/2 339 +,B6,c.6.2.3,Proverbs: from Urim,UET 6/2 289,1,sux:eme[tongue]N sux:sig[weak]V/i sux:dug[speak]V/t sux:lulul[liar]N
+c.6.2.3,Proverbs: from Urim,UET 6/2 339 +,A1,sux:gi[turn]V/i
+c.6.2.3,Proverbs: from Urim,UET 6/2 339 +,A2,
+c.6.2.3,Proverbs: from Urim,UET 6/2 339 +,A3,
+c.6.2.3,Proverbs: from Urim,UET 6/2 339 +,A4,sux:sag[good]V/i
+c.6.2.3,Proverbs: from Urim,UET 6/2 339 +,A5,sux:šub[fall]V/t
+c.6.2.3,Proverbs: from Urim,UET 6/2 339 +,A6,
+c.6.2.3,Proverbs: from Urim,UET 6/2 339 +,A7,sux:ŋal[be]V/i sux:tuku[acquire]V/t
+c.6.2.3,Proverbs: from Urim,UET 6/2 339 +,A8,sux:zu[know]V/t sux:us[follow]V/t
+c.6.2.3,Proverbs: from Urim,UET 6/2 339 +,A9,sux:sag[beat]V/t
+c.6.2.3,Proverbs: from Urim,UET 6/2 339 +,A10,sux:diŋir[deity]N sux:mea[where?]QP
+c.6.2.3,Proverbs: from Urim,UET 6/2 339 +,A11,
+c.6.2.3,Proverbs: from Urim,UET 6/2 339 +,B1,sux:du[build]V/t sux:munus[woman]N
+c.6.2.3,Proverbs: from Urim,UET 6/2 339 +,B2,sux:ninda[bread]N sux:ninkilim[mongoose]N sux:gu[eat]V/t sux:ninda[bread]N sux:kur[different]V/i sux:gu[eat]V/t
+c.6.2.3,Proverbs: from Urim,UET 6/2 339 +,B3,sux:niŋtuku[rich]AJ sux:niŋ[thing]N sux:al[hoe]N sux:dug[speak]V/t sux:niŋgig[bad-thing]N sux:diŋir[deity]N
+c.6.2.3,Proverbs: from Urim,UET 6/2 339 +,B4,sux:u[cvne]N sux:hub[cvve]V/t sux:til[live]V/i sux:ugu[skull]N
+c.6.2.3,Proverbs: from Urim,UET 6/2 339 +,B5,sux:dumu[child]N sux:dubsar[scribe]N sux:ŋar[place]V/t
+c.6.2.3,Proverbs: from Urim,UET 6/2 339 +,B6,
+c.6.2.3,Proverbs: from Urim,UET 6/2 289,1,sux:eme[tongue]N sux:sig[weak]V/i sux:dug[speak]V/t sux:lulul[liar]N
 c.6.2.3,Proverbs: from Urim,UET 6/2 289,2,sux:Ninegalak[1]DN sux:saŋ[head]N sux:gul[destroy]V/t
 c.6.2.3,Proverbs: from Urim,UET 6/2 289,3,sux:sag[good]V/i sux:hulu[bad]V/i sux:ŋal[be]V/i
 c.6.2.3,Proverbs: from Urim,UET 6/2 289,4,sux:igi[eye]N sux:teš[vigor]N sux:tuku[acquire]V/t
