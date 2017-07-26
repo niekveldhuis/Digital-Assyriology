@@ -283,40 +283,4 @@ c.2.1.5,The cursing of Agade,Old Babylonian,278,sux:Agade[1]SN sux:a[water]N sux
 c.2.1.5,The cursing of Agade,Old Babylonian,279,sux:iri[city]N sux:tuš[sit]V/i sux:dug[speak]V/t sux:kituš[dwelling]N sux:dug[good]V/i
 c.2.1.5,The cursing of Agade,Old Babylonian,280,sux:Agade[1]SN sux:nud[lie]V/i sux:dug[speak]V/t sux:kinud[bedroom]N sux:dug[good]V/i
 c.2.1.5,The cursing of Agade,Old Babylonian,281,sux:Agade[1]SN sux:hulu[bad]V/i sux:Inanak[1]DN sux:zamin[lyre]N
-c.2.1.5,The cursing of Agade,Ur III,A1,sux:ŋeštug[ear]N sux:Enki[1]DN sux:de[bring]V/t
-c.2.1.5,The cursing of Agade,Ur III,A2,sux:melim[splendor]N sux:an[sky]N sux:us[follow]V/t
-c.2.1.5,The cursing of Agade,Ur III,A3,sux:an[sky]N sux:anšag[~heaven]N sux:ed[ascend]V/i
-c.2.1.5,The cursing of Agade,Ur III,A4,sux:tar₂.KAK[pole]N sux:kug[pure]V/i sux:du[build]V/t
-c.2.1.5,The cursing of Agade,Ur III,A5,sux:Enki[1]DN sux:abzu[water]N sux:bur[tear]V/t
-c.2.1.5,The cursing of Agade,Ur III,B1,sux:egir[back]N sux:niŋ[thing]N sux:name[any]AJ sux:sag[good]V/i
-c.2.1.5,The cursing of Agade,Ur III,B2,sux:e[house]N sux:tuku[rock]V/t sux:erim[storeroom]N sux:sag[scatter]V/t sux:dug[speak]V/t
-c.2.1.5,The cursing of Agade,Ur III,B3,sux:Naramsuen[1]RN sux:mašŋik[vision]N sux:igi[eye]N sux:du[spread]V/t
-c.2.1.5,The cursing of Agade,Ur III,C1,sux:sig[put]V/t sux:šu[hand]N sux:bala[turn]V/t
-c.2.1.5,The cursing of Agade,Ur III,C2,sux:gu[neck]N sux:ŋar[place]V/t sux:sag[scatter]V/t sux:dug[speak]V/t
-c.2.1.5,The cursing of Agade,Ur III,C3,sux:erin[people]N sux:zig[rise]V/t sux:ŋar[place]V/t
-c.2.1.5,The cursing of Agade,Ur III,C4,sux:atuku[powerful]N sux:kisal[courtyard]N sux:mah[great]V/i sux:kur[enter]V/i
-c.2.1.5,The cursing of Agade,Ur III,C5,sux:Ekur[1]TN sux:šu[hand]N sux:kešed[bind]V/t sux:ak[do]V/t
-c.2.1.5,The cursing of Agade,Ur III,C6,sux:dubtuku[runner]N sux:lirum[strength]N sux:gurum[bend]V/t
-c.2.1.5,The cursing of Agade,Ur III,C7,sux:giguna[terrace]N sux:30[30]NU sux:giŋ[unit]N sux:ak[do]V/t
-c.2.1.5,The cursing of Agade,Ur III,C8,sux:nita[male]N sux:lu₂.KID₂[robber]N sux:iri[city]N sux:ri[impose]V/t
-c.2.1.5,The cursing of Agade,Ur III,C9,sux:e[house]N sux:kuŋ[stair]N sux:gal[big]V/i sux:de[bring]V/t
-c.2.1.5,The cursing of Agade,Ur III,C10,sux:e[house]N sux:kur[mountain]N sux:eren[cedar]N sux:me[be]V/i
-c.2.1.5,The cursing of Agade,Ur III,C11,sux:hazin[ax]N sux:gal[big]V/i sux:de[pour]V/t
-c.2.1.5,The cursing of Agade,Ur III,C11A,sux:agasilig[ax]N sux:a[arm]N sux:2[2]NU sux:usar[cvne]N sux:ak[do]V/t
-c.2.1.5,The cursing of Agade,Ur III,C12,sux:agar[meadow]N sux:mah[great]V/i sux:aʾeštub[flooding]N sux:dugud[heavy]V/i
-c.2.1.5,The cursing of Agade,Ur III,C13,sux:gidim[fork]N sux:gal[big]V/i sux:kuš[channel]N sux:sig[put]V/t
-c.2.1.5,The cursing of Agade,Ur III,C14,sux:ur[root]N sux:gidim[fork]N sux:ŋar[place]V/t
-c.2.1.5,The cursing of Agade,Ur III,D1,sux:šu[hand]N sux:kalam[land]N sux:še[barley]N sux:kud[cut]V/t
-c.2.1.5,The cursing of Agade,Ur III,D2,sux:kan[gate]N sux:silim[healthy]V/i sux:dug[speak]V/t sux:šub[fall]V/t
-c.2.1.5,The cursing of Agade,Ur III,D3,sux:kur[mountain]N sux:silim[healthy]V/i sux:gul[destroy]V/t
-c.2.1.5,The cursing of Agade,Ur III,E1,
-c.2.1.5,The cursing of Agade,Ur III,E2,
-c.2.1.5,The cursing of Agade,Ur III,E3,
-c.2.1.5,The cursing of Agade,Ur III,E4,
-c.2.1.5,The cursing of Agade,Ur III,F1,sux:kiri[nose]N sux:dub[heap]V/t sux:saŋ[head]N sux:tub[strike]V/t
-c.2.1.5,The cursing of Agade,Ur III,F2,sux:kiri[nose]N sux:dub[heap]V/t sux:saŋ[head]N sux:numun[seed]N sux:ŋar[place]V/t
-c.2.1.5,The cursing of Agade,Ur III,F3,sux:mes[hero]N sux:mes[hero]N sux:an[sky]N
-c.2.1.5,The cursing of Agade,Ur III,F4,sux:urin[blood]N sux:lulul[liar]N sux:lu[person]N sux:zid[right]V/i sux:an[sky]N
-c.2.1.5,The cursing of Agade,Ur III,F5,sux:Enlil[1]DN sux:e[house]N sux:gal[big]V/i
-c.2.1.5,The cursing of Agade,Ur III,F6,sux:eš[shrine]N sux:gi[reed]N sux:tur[small]V/i sux:du[build]V/t
-c.2.1.5,The cursing of Agade,Ur III,F7,sux:sig[weak]V/i sux:iginim[land]N
+c.2.1.5,The cursing of Agade,Ur III,A1,sux:ŋeštug[ear]N sux:Enki[1]DN sux:de[bring]V/tc.2.1.5,The cursing of Agade,Ur III,A2,sux:melim[splendor]N sux:an[sky]N sux:us[follow]V/tc.2.1.5,The cursing of Agade,Ur III,A3,sux:an[sky]N sux:anšag[~heaven]N sux:ed[ascend]V/ic.2.1.5,The cursing of Agade,Ur III,A4,sux:tar₂.KAK[pole]N sux:kug[pure]V/i sux:du[build]V/tc.2.1.5,The cursing of Agade,Ur III,A5,sux:Enki[1]DN sux:abzu[water]N sux:bur[tear]V/tc.2.1.5,The cursing of Agade,Ur III,B1,sux:egir[back]N sux:niŋ[thing]N sux:name[any]AJ sux:sag[good]V/ic.2.1.5,The cursing of Agade,Ur III,B2,sux:e[house]N sux:tuku[rock]V/t sux:erim[storeroom]N sux:sag[scatter]V/t sux:dug[speak]V/tc.2.1.5,The cursing of Agade,Ur III,B3,sux:Naramsuen[1]RN sux:mašŋik[vision]N sux:igi[eye]N sux:du[spread]V/tc.2.1.5,The cursing of Agade,Ur III,C1,sux:sig[put]V/t sux:šu[hand]N sux:bala[turn]V/tc.2.1.5,The cursing of Agade,Ur III,C2,sux:gu[neck]N sux:ŋar[place]V/t sux:sag[scatter]V/t sux:dug[speak]V/tc.2.1.5,The cursing of Agade,Ur III,C3,sux:erin[people]N sux:zig[rise]V/t sux:ŋar[place]V/tc.2.1.5,The cursing of Agade,Ur III,C4,sux:atuku[powerful]N sux:kisal[courtyard]N sux:mah[great]V/i sux:kur[enter]V/ic.2.1.5,The cursing of Agade,Ur III,C5,sux:Ekur[1]TN sux:šu[hand]N sux:kešed[bind]V/t sux:ak[do]V/tc.2.1.5,The cursing of Agade,Ur III,C6,sux:dubtuku[runner]N sux:lirum[strength]N sux:gurum[bend]V/tc.2.1.5,The cursing of Agade,Ur III,C7,sux:giguna[terrace]N sux:30[30]NU sux:giŋ[unit]N sux:ak[do]V/tc.2.1.5,The cursing of Agade,Ur III,C8,sux:nita[male]N sux:lu₂.KID₂[robber]N sux:iri[city]N sux:ri[impose]V/tc.2.1.5,The cursing of Agade,Ur III,C9,sux:e[house]N sux:kuŋ[stair]N sux:gal[big]V/i sux:de[bring]V/tc.2.1.5,The cursing of Agade,Ur III,C10,sux:e[house]N sux:kur[mountain]N sux:eren[cedar]N sux:me[be]V/ic.2.1.5,The cursing of Agade,Ur III,C11,sux:hazin[ax]N sux:gal[big]V/i sux:de[pour]V/tc.2.1.5,The cursing of Agade,Ur III,C11A,sux:agasilig[ax]N sux:a[arm]N sux:2[2]NU sux:usar[cvne]N sux:ak[do]V/tc.2.1.5,The cursing of Agade,Ur III,C12,sux:agar[meadow]N sux:mah[great]V/i sux:aʾeštub[flooding]N sux:dugud[heavy]V/ic.2.1.5,The cursing of Agade,Ur III,C13,sux:gidim[fork]N sux:gal[big]V/i sux:kuš[channel]N sux:sig[put]V/tc.2.1.5,The cursing of Agade,Ur III,C14,sux:ur[root]N sux:gidim[fork]N sux:ŋar[place]V/tc.2.1.5,The cursing of Agade,Ur III,D1,sux:šu[hand]N sux:kalam[land]N sux:še[barley]N sux:kud[cut]V/tc.2.1.5,The cursing of Agade,Ur III,D2,sux:kan[gate]N sux:silim[healthy]V/i sux:dug[speak]V/t sux:šub[fall]V/tc.2.1.5,The cursing of Agade,Ur III,D3,sux:kur[mountain]N sux:silim[healthy]V/i sux:gul[destroy]V/tc.2.1.5,The cursing of Agade,Ur III,E1,c.2.1.5,The cursing of Agade,Ur III,E2,c.2.1.5,The cursing of Agade,Ur III,E3,c.2.1.5,The cursing of Agade,Ur III,E4,c.2.1.5,The cursing of Agade,Ur III,F1,sux:kiri[nose]N sux:dub[heap]V/t sux:saŋ[head]N sux:tub[strike]V/tc.2.1.5,The cursing of Agade,Ur III,F2,sux:kiri[nose]N sux:dub[heap]V/t sux:saŋ[head]N sux:numun[seed]N sux:ŋar[place]V/tc.2.1.5,The cursing of Agade,Ur III,F3,sux:mes[hero]N sux:mes[hero]N sux:an[sky]Nc.2.1.5,The cursing of Agade,Ur III,F4,sux:urin[blood]N sux:lulul[liar]N sux:lu[person]N sux:zid[right]V/i sux:an[sky]Nc.2.1.5,The cursing of Agade,Ur III,F5,sux:Enlil[1]DN sux:e[house]N sux:gal[big]V/ic.2.1.5,The cursing of Agade,Ur III,F6,sux:eš[shrine]N sux:gi[reed]N sux:tur[small]V/i sux:du[build]V/tc.2.1.5,The cursing of Agade,Ur III,F7,sux:sig[weak]V/i sux:iginim[land]N

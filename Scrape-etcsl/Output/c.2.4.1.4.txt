@@ -1,98 +1,98 @@
 id_text,text_name,version,l_no,text
-c.2.4.1.4,Ur-Namma the canal-digger (Ur-Namma D),Nibru,1,a-ba[who]PD ba-al[to-dig]V a-ba[who]PD ba-al[to-dig]V
-c.2.4.1.4,Ur-Namma the canal-digger (Ur-Namma D),Nibru,2,Asila-kug[1]WN a-ba[who]PD ba-al[to-dig]V
-c.2.4.1.4,Ur-Namma the canal-digger (Ur-Namma D),Nibru,3,Pabi-luh[1]WN a-ba[who]PD ba-al[to-dig]V
-c.2.4.1.4,Ur-Namma the canal-digger (Ur-Namma D),Nibru,4,Ur-Namma[1]RN tuku[to-have]V ba-al[to-dig]V
-c.2.4.1.4,Ur-Namma the canal-digger (Ur-Namma D),Nibru,5,tuku[to-have]V ba-al[to-dig]V
-c.2.4.1.4,Ur-Namma the canal-digger (Ur-Namma D),Nibru,6,Enlil[1]DN Ašimbabbar[1]DN
-c.2.4.1.4,Ur-Namma the canal-digger (Ur-Namma D),Nibru,7,a-ra₂[way]N ku₆[fish]N dal[to-fly]V mušen[bird]N
-c.2.4.1.4,Ur-Namma the canal-digger (Ur-Namma D),Nibru,8,a[water]N dug₃[to-be-good]V ku₆[fish]N dal[to-fly]V mušen[bird]N
-c.2.4.1.4,Ur-Namma the canal-digger (Ur-Namma D),Nibru,9,u₂-lal₃[type-of-plant]N du₃[to-erect]V suhur[type-of-carp]N gur₄[to-be-thick]V
-c.2.4.1.4,Ur-Namma the canal-digger (Ur-Namma D),Nibru,10,u₂-lal₃[type-of-plant]N du₃[to-erect]V suhur[type-of-carp]N gur₄[to-be-thick]V
-c.2.4.1.4,Ur-Namma the canal-digger (Ur-Namma D),Nibru,11,gi-zi[type-of-reed]N lal₃[syrup]N ku₆[fish]N gu₇[to-eat]V
-c.2.4.1.4,Ur-Namma the canal-digger (Ur-Namma D),Nibru,12,gi-zi[type-of-reed]N lal₃[syrup]N ku₆[fish]N gu₇[to-eat]V
-c.2.4.1.4,Ur-Namma the canal-digger (Ur-Namma D),Nibru,13,ki[place]N ŋar[to-place]V ku₆[fish]N mušen[bird]N sug₄[to-be-full]V
-c.2.4.1.4,Ur-Namma the canal-digger (Ur-Namma D),Nibru,14,ki[place]N ŋar[to-place]V ku₆[fish]N mušen[bird]N sug₄[to-be-full]V
-c.2.4.1.4,Ur-Namma the canal-digger (Ur-Namma D),Nibru,15,lugal[king]N Eridug[1]SN u₂-a[provisioner]N sug₄[to-be-full]V
-c.2.4.1.4,Ur-Namma the canal-digger (Ur-Namma D),Nibru,16,Nudimmud[1]DN lugal[king]N Eridug[1]SN u₂-a[provisioner]N sug₄[to-be-full]V
-c.2.4.1.4,Ur-Namma the canal-digger (Ur-Namma D),Nibru,17,a[water]N dug₃[to-be-good]V de₆[to-carry]V dusu[earth-carrying-basket]N la₂[to-hang]V
-c.2.4.1.4,Ur-Namma the canal-digger (Ur-Namma D),Nibru,18,a[water]N dug₃[to-be-good]V de₆[to-carry]V dusu[earth-carrying-basket]N la₂[to-hang]V
-c.2.4.1.4,Ur-Namma the canal-digger (Ur-Namma D),Unknown Provenance,1,a-ba[who]PD ba-al[to-dig]V a-ba[who]PD ba-al[to-dig]V id₂[watercourse]N a-ba[who]PD ba-al[to-dig]V
-c.2.4.1.4,Ur-Namma the canal-digger (Ur-Namma D),Unknown Provenance,2,Keše-kug[1]WN a-ba[who]PD ba-al[to-dig]V id₂[watercourse]N a-ba[who]PD ba-al[to-dig]V
-c.2.4.1.4,Ur-Namma the canal-digger (Ur-Namma D),Unknown Provenance,3,Pabi-luh[1]WN a-ba[who]PD ba-al[to-dig]V id₂[watercourse]N a-ba[who]PD ba-al[to-dig]V
-c.2.4.1.4,Ur-Namma the canal-digger (Ur-Namma D),Unknown Provenance,4,Ur-Namma[1]RN kug[shining]AJ tuku[to-have]V ba-al[to-dig]V
-c.2.4.1.4,Ur-Namma the canal-digger (Ur-Namma D),Unknown Provenance,5,šul[young-man]N zid[right]AJ niŋ₂-tuku[rich]AJ ba-al[to-dig]V
-c.2.4.1.4,Ur-Namma the canal-digger (Ur-Namma D),Unknown Provenance,6,lugal[king]N barag[dais]N Enlil[1]DN en[lord]N Ašimbabbar[1]DN
-c.2.4.1.4,Ur-Namma the canal-digger (Ur-Namma D),Unknown Provenance,7,šul[young-man]N Suen[1]DN barag[dais]N Enlil[1]DN en[lord]N Ašimbabbar[1]DN
-c.2.4.1.4,Ur-Namma the canal-digger (Ur-Namma D),Unknown Provenance,8,lugal[king]N šag₄[heart]N zid[right]AJ nam[destiny]N tar[to-cut]V nam-nir[authority]N saŋ[head]N il₂[to-raise]V
-c.2.4.1.4,Ur-Namma the canal-digger (Ur-Namma D),Unknown Provenance,9,Ur-Namma[1]RN šul[young-man]N igi[eye]N il₂[to-raise]V kur[(mountain)-land]N gal[to-be-big]V Enlil[1]DN
-c.2.4.1.4,Ur-Namma the canal-digger (Ur-Namma D),Unknown Provenance,10,Nunamnir[1]DN Sumer[1]GN Akkad[1]GN ŋe₂₆[I]PD suh[to-choose]V
-c.2.4.1.4,Ur-Namma the canal-digger (Ur-Namma D),Unknown Provenance,11,Nibru[1]SN hur-saŋ[mountain-(range)]N nam-til₃[life]N nam[destiny]N tar[to-cut]V
-c.2.4.1.4,Ur-Namma the canal-digger (Ur-Namma D),Unknown Provenance,12,saŋ-ki[forehead]N zalag[to-be-shining]V bar[to-set-aside]V nam-lugal[kingship]N šum₂[to-give]V
-c.2.4.1.4,Ur-Namma the canal-digger (Ur-Namma D),Unknown Provenance,13,Urim[1]SN E-mud-kura[1]TN
-c.2.4.1.4,Ur-Namma the canal-digger (Ur-Namma D),Unknown Provenance,14,gu-za[chair]N suhuš[foundation]N
-c.2.4.1.4,Ur-Namma the canal-digger (Ur-Namma D),Unknown Provenance,15,ŋidru[sceptre]N kug[shining]AJ uŋ₃[people]N šar₂[to-be-numerous]V si[horn]N sa₂[to-equal]V šu[hand]N
-c.2.4.1.4,Ur-Namma the canal-digger (Ur-Namma D),Unknown Provenance,16,šibir[shepherd's-crook]N ešgiri₂[staff]N uŋ₃[people]N daŋal[to-be-wide]V lu[to-be-abundant]V
-c.2.4.1.4,Ur-Namma the canal-digger (Ur-Namma D),Unknown Provenance,17,en[lord]N Ašimbabbar[1]DN zi[life-(breath)]N ud[day(light)]N sud[to-be-distant]V
-c.2.4.1.4,Ur-Namma the canal-digger (Ur-Namma D),Unknown Provenance,18,Enlil[1]DN ub[corner]N 4[4]NU
-c.2.4.1.4,Ur-Namma the canal-digger (Ur-Namma D),Unknown Provenance,19,mu[name]N da-ri₂[eternal]AJ mu[name]N ka[mouth]N du₇[to-be-perfect]V
-c.2.4.1.4,Ur-Namma the canal-digger (Ur-Namma D),Unknown Provenance,20,Enki[1]DN ŋeštug₂[ear]N daŋal[to-be-wide]V saŋ[head]N rig₇[to-bestow]V
-c.2.4.1.4,Ur-Namma the canal-digger (Ur-Namma D),Unknown Provenance,21,ŋe₂₆[I]PD iri[town]N id₂[watercourse]N he₂-ŋal₂[plenty]N ba-al[to-dig]V Keše-kug[1]WN sa₄[to-call]V
-c.2.4.1.4,Ur-Namma the canal-digger (Ur-Namma D),Unknown Provenance,22,Urim[1]SN id₂[watercourse]N he₂-ŋal₂[plenty]N ba-al[to-dig]V Keše-kug[1]WN sa₄[to-call]V
-c.2.4.1.4,Ur-Namma the canal-digger (Ur-Namma D),Unknown Provenance,23,mu[name]N da-ri₂[eternal]AJ ka[mouth]N du₇[to-be-perfect]V Pabi-luh[1]WN mušen[bird]N
-c.2.4.1.4,Ur-Namma the canal-digger (Ur-Namma D),Unknown Provenance,24,ŋe₂₆[I]PD iri[town]N a-ra₂[way]N ku₆[fish]N dirig[to-be-superior]V mušen[bird]N
-c.2.4.1.4,Ur-Namma the canal-digger (Ur-Namma D),Unknown Provenance,25,Urim[1]SN a-ra₂[way]N ku₆[fish]N dirig[to-be-superior]V mušen[bird]N
-c.2.4.1.4,Ur-Namma the canal-digger (Ur-Namma D),Unknown Provenance,26,ŋe₂₆[I]PD id₂[watercourse]N u₂-lal₃[type-of-plant]N du₃[to-erect]V suhur[type-of-carp]N gur₄[to-be-thick]V
-c.2.4.1.4,Ur-Namma the canal-digger (Ur-Namma D),Unknown Provenance,27,Urim[1]SN u₂-lal₃[type-of-plant]N du₃[to-erect]V suhur[type-of-carp]N gur₄[to-be-thick]V
-c.2.4.1.4,Ur-Namma the canal-digger (Ur-Namma D),Unknown Provenance,28,ŋe₂₆[I]PD iri[town]N gi-zi[type-of-reed]N lal₃[syrup]N ab₂[cow]N gu₇[to-eat]V
-c.2.4.1.4,Ur-Namma the canal-digger (Ur-Namma D),Unknown Provenance,29,Urim[1]SN gi-zi[type-of-reed]N lal₃[syrup]N ab₂[cow]N gu₇[to-eat]V
-c.2.4.1.4,Ur-Namma the canal-digger (Ur-Namma D),Unknown Provenance,30,ŋe₂₆[I]PD ku₆[fish]N mušen[bird]N sug₄[to-be-full]V
-c.2.4.1.4,Ur-Namma the canal-digger (Ur-Namma D),Unknown Provenance,31,Urim[1]SN
-c.2.4.1.4,Ur-Namma the canal-digger (Ur-Namma D),Unknown Provenance,32,ŋe₂₆[I]PD id₂[watercourse]N a-ra₂[way]N de₆[to-carry]V dusu[earth-carrying-basket]N la₂[to-hang]V
-c.2.4.1.4,Ur-Namma the canal-digger (Ur-Namma D),Unknown Provenance,33,Urim[1]SN id₂[watercourse]N a-ra₂[way]N de₆[to-carry]V dusu[earth-carrying-basket]N la₂[to-hang]V
-c.2.4.1.4,Ur-Namma the canal-digger (Ur-Namma D),Unknown Provenance,34,lugal[king]N lugal[king]N Eridug[1]SN u₂-a[provisioner]N sug₄[to-be-full]V
-c.2.4.1.4,Ur-Namma the canal-digger (Ur-Namma D),Unknown Provenance,35,Nudimmud[1]DN lugal[king]N Eridug[1]SN u₂-a[provisioner]N sug₄[to-be-full]V
-c.2.4.1.4,Ur-Namma the canal-digger (Ur-Namma D),Unknown Provenance,36,lugal[king]N an[heaven]N ub[corner]N 4[4]NU šag₄[heart]N Enlil[1]DN dug₃[to-be-good]V
-c.2.4.1.4,Ur-Namma the canal-digger (Ur-Namma D),Unknown Provenance,37,Ur-Namma[1]RN u₂-a[provisioner]N Nibru[1]SN saŋ[head]N us₂[to-be-adjacent]V Urim[1]SN
-c.2.4.1.4,Ur-Namma the canal-digger (Ur-Namma D),Unknown Provenance,38,itid[moon(light)]N kalam[the-Land]N Urim[1]SN
-c.2.4.1.4,Ur-Namma the canal-digger (Ur-Namma D),Unknown Provenance,39,asila[rejoicing]N ud[day(light)]N zal[to-pass]V
-c.2.4.1.4,Ur-Namma the canal-digger (Ur-Namma D),Unknown Provenance,40,Ur-Namma[1]RN lugal[king]N Urim[1]SN za₃-mi₂[praise]N dug₃[to-be-good]V
+c.2.4.1.4,Ur-Namma the canal-digger (Ur-Namma D),Nibru,1,sux:a-ba[who]PD sux:ba-al[to-dig]V sux:a-ba[who]PD sux:ba-al[to-dig]V
+c.2.4.1.4,Ur-Namma the canal-digger (Ur-Namma D),Nibru,2,sux:Asila-kug[1]WN sux:a-ba[who]PD sux:ba-al[to-dig]V
+c.2.4.1.4,Ur-Namma the canal-digger (Ur-Namma D),Nibru,3,sux:Pabi-luh[1]WN sux:a-ba[who]PD sux:ba-al[to-dig]V
+c.2.4.1.4,Ur-Namma the canal-digger (Ur-Namma D),Nibru,4,sux:Ur-Namma[1]RN sux:tuku[to-have]V sux:ba-al[to-dig]V
+c.2.4.1.4,Ur-Namma the canal-digger (Ur-Namma D),Nibru,5,sux:tuku[to-have]V sux:ba-al[to-dig]V
+c.2.4.1.4,Ur-Namma the canal-digger (Ur-Namma D),Nibru,6,sux:Enlil[1]DN sux:Ašimbabbar[1]DN
+c.2.4.1.4,Ur-Namma the canal-digger (Ur-Namma D),Nibru,7,sux:a-ra₂[way]N sux:ku₆[fish]N sux:dal[to-fly]V sux:mušen[bird]N
+c.2.4.1.4,Ur-Namma the canal-digger (Ur-Namma D),Nibru,8,sux:a[water]N sux:dug₃[to-be-good]V sux:ku₆[fish]N sux:dal[to-fly]V sux:mušen[bird]N
+c.2.4.1.4,Ur-Namma the canal-digger (Ur-Namma D),Nibru,9,sux:u₂-lal₃[type-of-plant]N sux:du₃[to-erect]V sux:suhur[type-of-carp]N sux:gur₄[to-be-thick]V
+c.2.4.1.4,Ur-Namma the canal-digger (Ur-Namma D),Nibru,10,sux:u₂-lal₃[type-of-plant]N sux:du₃[to-erect]V sux:suhur[type-of-carp]N sux:gur₄[to-be-thick]V
+c.2.4.1.4,Ur-Namma the canal-digger (Ur-Namma D),Nibru,11,sux:gi-zi[type-of-reed]N sux:lal₃[syrup]N sux:ku₆[fish]N sux:gu₇[to-eat]V
+c.2.4.1.4,Ur-Namma the canal-digger (Ur-Namma D),Nibru,12,sux:gi-zi[type-of-reed]N sux:lal₃[syrup]N sux:ku₆[fish]N sux:gu₇[to-eat]V
+c.2.4.1.4,Ur-Namma the canal-digger (Ur-Namma D),Nibru,13,sux:ki[place]N sux:ŋar[to-place]V sux:ku₆[fish]N sux:mušen[bird]N sux:sug₄[to-be-full]V
+c.2.4.1.4,Ur-Namma the canal-digger (Ur-Namma D),Nibru,14,sux:ki[place]N sux:ŋar[to-place]V sux:ku₆[fish]N sux:mušen[bird]N sux:sug₄[to-be-full]V
+c.2.4.1.4,Ur-Namma the canal-digger (Ur-Namma D),Nibru,15,sux:lugal[king]N sux:Eridug[1]SN sux:u₂-a[provisioner]N sux:sug₄[to-be-full]V
+c.2.4.1.4,Ur-Namma the canal-digger (Ur-Namma D),Nibru,16,sux:Nudimmud[1]DN sux:lugal[king]N sux:Eridug[1]SN sux:u₂-a[provisioner]N sux:sug₄[to-be-full]V
+c.2.4.1.4,Ur-Namma the canal-digger (Ur-Namma D),Nibru,17,sux:a[water]N sux:dug₃[to-be-good]V sux:de₆[to-carry]V sux:dusu[earth-carrying-basket]N sux:la₂[to-hang]V
+c.2.4.1.4,Ur-Namma the canal-digger (Ur-Namma D),Nibru,18,sux:a[water]N sux:dug₃[to-be-good]V sux:de₆[to-carry]V sux:dusu[earth-carrying-basket]N sux:la₂[to-hang]V
+c.2.4.1.4,Ur-Namma the canal-digger (Ur-Namma D),Unknown Provenance,1,sux:a-ba[who]PD sux:ba-al[to-dig]V sux:a-ba[who]PD sux:ba-al[to-dig]V sux:id₂[watercourse]N sux:a-ba[who]PD sux:ba-al[to-dig]V
+c.2.4.1.4,Ur-Namma the canal-digger (Ur-Namma D),Unknown Provenance,2,sux:Keše-kug[1]WN sux:a-ba[who]PD sux:ba-al[to-dig]V sux:id₂[watercourse]N sux:a-ba[who]PD sux:ba-al[to-dig]V
+c.2.4.1.4,Ur-Namma the canal-digger (Ur-Namma D),Unknown Provenance,3,sux:Pabi-luh[1]WN sux:a-ba[who]PD sux:ba-al[to-dig]V sux:id₂[watercourse]N sux:a-ba[who]PD sux:ba-al[to-dig]V
+c.2.4.1.4,Ur-Namma the canal-digger (Ur-Namma D),Unknown Provenance,4,sux:Ur-Namma[1]RN sux:kug[shining]AJ sux:tuku[to-have]V sux:ba-al[to-dig]V
+c.2.4.1.4,Ur-Namma the canal-digger (Ur-Namma D),Unknown Provenance,5,sux:šul[young-man]N sux:zid[right]AJ sux:niŋ₂-tuku[rich]AJ sux:ba-al[to-dig]V
+c.2.4.1.4,Ur-Namma the canal-digger (Ur-Namma D),Unknown Provenance,6,sux:lugal[king]N sux:barag[dais]N sux:Enlil[1]DN sux:en[lord]N sux:Ašimbabbar[1]DN
+c.2.4.1.4,Ur-Namma the canal-digger (Ur-Namma D),Unknown Provenance,7,sux:šul[young-man]N sux:Suen[1]DN sux:barag[dais]N sux:Enlil[1]DN sux:en[lord]N sux:Ašimbabbar[1]DN
+c.2.4.1.4,Ur-Namma the canal-digger (Ur-Namma D),Unknown Provenance,8,sux:lugal[king]N sux:šag₄[heart]N sux:zid[right]AJ sux:nam[destiny]N sux:tar[to-cut]V sux:nam-nir[authority]N sux:saŋ[head]N sux:il₂[to-raise]V
+c.2.4.1.4,Ur-Namma the canal-digger (Ur-Namma D),Unknown Provenance,9,sux:Ur-Namma[1]RN sux:šul[young-man]N sux:igi[eye]N sux:il₂[to-raise]V sux:kur[(mountain)-land]N sux:gal[to-be-big]V sux:Enlil[1]DN
+c.2.4.1.4,Ur-Namma the canal-digger (Ur-Namma D),Unknown Provenance,10,sux:Nunamnir[1]DN sux:Sumer[1]GN sux:Akkad[1]GN sux:ŋe₂₆[I]PD sux:suh[to-choose]V
+c.2.4.1.4,Ur-Namma the canal-digger (Ur-Namma D),Unknown Provenance,11,sux:Nibru[1]SN sux:hur-saŋ[mountain-(range)]N sux:nam-til₃[life]N sux:nam[destiny]N sux:tar[to-cut]V
+c.2.4.1.4,Ur-Namma the canal-digger (Ur-Namma D),Unknown Provenance,12,sux:saŋ-ki[forehead]N sux:zalag[to-be-shining]V sux:bar[to-set-aside]V sux:nam-lugal[kingship]N sux:šum₂[to-give]V
+c.2.4.1.4,Ur-Namma the canal-digger (Ur-Namma D),Unknown Provenance,13,sux:Urim[1]SN sux:E-mud-kura[1]TN
+c.2.4.1.4,Ur-Namma the canal-digger (Ur-Namma D),Unknown Provenance,14,sux:gu-za[chair]N sux:suhuš[foundation]N
+c.2.4.1.4,Ur-Namma the canal-digger (Ur-Namma D),Unknown Provenance,15,sux:ŋidru[sceptre]N sux:kug[shining]AJ sux:uŋ₃[people]N sux:šar₂[to-be-numerous]V sux:si[horn]N sux:sa₂[to-equal]V sux:šu[hand]N
+c.2.4.1.4,Ur-Namma the canal-digger (Ur-Namma D),Unknown Provenance,16,sux:šibir[shepherd's-crook]N sux:ešgiri₂[staff]N sux:uŋ₃[people]N sux:daŋal[to-be-wide]V sux:lu[to-be-abundant]V
+c.2.4.1.4,Ur-Namma the canal-digger (Ur-Namma D),Unknown Provenance,17,sux:en[lord]N sux:Ašimbabbar[1]DN sux:zi[life-(breath)]N sux:ud[day(light)]N sux:sud[to-be-distant]V
+c.2.4.1.4,Ur-Namma the canal-digger (Ur-Namma D),Unknown Provenance,18,sux:Enlil[1]DN sux:ub[corner]N sux:4[4]NU
+c.2.4.1.4,Ur-Namma the canal-digger (Ur-Namma D),Unknown Provenance,19,sux:mu[name]N sux:da-ri₂[eternal]AJ sux:mu[name]N sux:ka[mouth]N sux:du₇[to-be-perfect]V
+c.2.4.1.4,Ur-Namma the canal-digger (Ur-Namma D),Unknown Provenance,20,sux:Enki[1]DN sux:ŋeštug₂[ear]N sux:daŋal[to-be-wide]V sux:saŋ[head]N sux:rig₇[to-bestow]V
+c.2.4.1.4,Ur-Namma the canal-digger (Ur-Namma D),Unknown Provenance,21,sux:ŋe₂₆[I]PD sux:iri[town]N sux:id₂[watercourse]N sux:he₂-ŋal₂[plenty]N sux:ba-al[to-dig]V sux:Keše-kug[1]WN sux:sa₄[to-call]V
+c.2.4.1.4,Ur-Namma the canal-digger (Ur-Namma D),Unknown Provenance,22,sux:Urim[1]SN sux:id₂[watercourse]N sux:he₂-ŋal₂[plenty]N sux:ba-al[to-dig]V sux:Keše-kug[1]WN sux:sa₄[to-call]V
+c.2.4.1.4,Ur-Namma the canal-digger (Ur-Namma D),Unknown Provenance,23,sux:mu[name]N sux:da-ri₂[eternal]AJ sux:ka[mouth]N sux:du₇[to-be-perfect]V sux:Pabi-luh[1]WN sux:mušen[bird]N
+c.2.4.1.4,Ur-Namma the canal-digger (Ur-Namma D),Unknown Provenance,24,sux:ŋe₂₆[I]PD sux:iri[town]N sux:a-ra₂[way]N sux:ku₆[fish]N sux:dirig[to-be-superior]V sux:mušen[bird]N
+c.2.4.1.4,Ur-Namma the canal-digger (Ur-Namma D),Unknown Provenance,25,sux:Urim[1]SN sux:a-ra₂[way]N sux:ku₆[fish]N sux:dirig[to-be-superior]V sux:mušen[bird]N
+c.2.4.1.4,Ur-Namma the canal-digger (Ur-Namma D),Unknown Provenance,26,sux:ŋe₂₆[I]PD sux:id₂[watercourse]N sux:u₂-lal₃[type-of-plant]N sux:du₃[to-erect]V sux:suhur[type-of-carp]N sux:gur₄[to-be-thick]V
+c.2.4.1.4,Ur-Namma the canal-digger (Ur-Namma D),Unknown Provenance,27,sux:Urim[1]SN sux:u₂-lal₃[type-of-plant]N sux:du₃[to-erect]V sux:suhur[type-of-carp]N sux:gur₄[to-be-thick]V
+c.2.4.1.4,Ur-Namma the canal-digger (Ur-Namma D),Unknown Provenance,28,sux:ŋe₂₆[I]PD sux:iri[town]N sux:gi-zi[type-of-reed]N sux:lal₃[syrup]N sux:ab₂[cow]N sux:gu₇[to-eat]V
+c.2.4.1.4,Ur-Namma the canal-digger (Ur-Namma D),Unknown Provenance,29,sux:Urim[1]SN sux:gi-zi[type-of-reed]N sux:lal₃[syrup]N sux:ab₂[cow]N sux:gu₇[to-eat]V
+c.2.4.1.4,Ur-Namma the canal-digger (Ur-Namma D),Unknown Provenance,30,sux:ŋe₂₆[I]PD sux:ku₆[fish]N sux:mušen[bird]N sux:sug₄[to-be-full]V
+c.2.4.1.4,Ur-Namma the canal-digger (Ur-Namma D),Unknown Provenance,31,sux:Urim[1]SN
+c.2.4.1.4,Ur-Namma the canal-digger (Ur-Namma D),Unknown Provenance,32,sux:ŋe₂₆[I]PD sux:id₂[watercourse]N sux:a-ra₂[way]N sux:de₆[to-carry]V sux:dusu[earth-carrying-basket]N sux:la₂[to-hang]V
+c.2.4.1.4,Ur-Namma the canal-digger (Ur-Namma D),Unknown Provenance,33,sux:Urim[1]SN sux:id₂[watercourse]N sux:a-ra₂[way]N sux:de₆[to-carry]V sux:dusu[earth-carrying-basket]N sux:la₂[to-hang]V
+c.2.4.1.4,Ur-Namma the canal-digger (Ur-Namma D),Unknown Provenance,34,sux:lugal[king]N sux:lugal[king]N sux:Eridug[1]SN sux:u₂-a[provisioner]N sux:sug₄[to-be-full]V
+c.2.4.1.4,Ur-Namma the canal-digger (Ur-Namma D),Unknown Provenance,35,sux:Nudimmud[1]DN sux:lugal[king]N sux:Eridug[1]SN sux:u₂-a[provisioner]N sux:sug₄[to-be-full]V
+c.2.4.1.4,Ur-Namma the canal-digger (Ur-Namma D),Unknown Provenance,36,sux:lugal[king]N sux:an[heaven]N sux:ub[corner]N sux:4[4]NU sux:šag₄[heart]N sux:Enlil[1]DN sux:dug₃[to-be-good]V
+c.2.4.1.4,Ur-Namma the canal-digger (Ur-Namma D),Unknown Provenance,37,sux:Ur-Namma[1]RN sux:u₂-a[provisioner]N sux:Nibru[1]SN sux:saŋ[head]N sux:us₂[to-be-adjacent]V sux:Urim[1]SN
+c.2.4.1.4,Ur-Namma the canal-digger (Ur-Namma D),Unknown Provenance,38,sux:itid[moon(light)]N sux:kalam[the-Land]N sux:Urim[1]SN
+c.2.4.1.4,Ur-Namma the canal-digger (Ur-Namma D),Unknown Provenance,39,sux:asila[rejoicing]N sux:ud[day(light)]N sux:zal[to-pass]V
+c.2.4.1.4,Ur-Namma the canal-digger (Ur-Namma D),Unknown Provenance,40,sux:Ur-Namma[1]RN sux:lugal[king]N sux:Urim[1]SN sux:za₃-mi₂[praise]N sux:dug₃[to-be-good]V
 c.2.4.1.4,Ur-Namma the canal-digger (Ur-Namma D),Urim,1,
-c.2.4.1.4,Ur-Namma the canal-digger (Ur-Namma D),Urim,2,a-ba[who]PD ba-al[to-dig]V
-c.2.4.1.4,Ur-Namma the canal-digger (Ur-Namma D),Urim,3,unclear[1]WN a-ba[who]PD ba-al[to-dig]V
-c.2.4.1.4,Ur-Namma the canal-digger (Ur-Namma D),Urim,4,id₂[watercourse]N a-ba[who]PD ba-al[to-dig]V
-c.2.4.1.4,Ur-Namma the canal-digger (Ur-Namma D),Urim,5,Ŋisala-ŋara[1]WN a-ba[who]PD ba-al[to-dig]V
-c.2.4.1.4,Ur-Namma the canal-digger (Ur-Namma D),Urim,6,id₂[watercourse]N a-ba[who]PD ba-al[to-dig]V
-c.2.4.1.4,Ur-Namma the canal-digger (Ur-Namma D),Urim,7,Ur-Namma[1]RN kug[shining]AJ tuku[to-have]V ba-al[to-dig]V
-c.2.4.1.4,Ur-Namma the canal-digger (Ur-Namma D),Urim,8,id₂[watercourse]N a-ba[who]PD ba-al[to-dig]V
-c.2.4.1.4,Ur-Namma the canal-digger (Ur-Namma D),Urim,9,Šulgi[1]RN niŋ₂-tuku[rich]AJ ba-al[to-dig]V
-c.2.4.1.4,Ur-Namma the canal-digger (Ur-Namma D),Urim,10,id₂[watercourse]N a-ba[who]PD ba-al[to-dig]V
-c.2.4.1.4,Ur-Namma the canal-digger (Ur-Namma D),Urim,11,lugal[king]N šag₄[heart]N zid[right]AJ nam[destiny]N tar[to-cut]V nam-nir[authority]N saŋ[head]N il₂[to-raise]V
-c.2.4.1.4,Ur-Namma the canal-digger (Ur-Namma D),Urim,12,Ur-Namma[1]RN šul[young-man]N igi[eye]N il₂[to-raise]V kur[(mountain)-land]N gal[to-be-big]V Enlil[1]DN
-c.2.4.1.4,Ur-Namma the canal-digger (Ur-Namma D),Urim,13,Nunamnir[1]DN Sumer[1]GN Akkad[1]GN ŋe₂₆[I]PD suh[to-choose]V
-c.2.4.1.4,Ur-Namma the canal-digger (Ur-Namma D),Urim,14,Nibru[1]SN hur-saŋ[mountain-(range)]N nam-til₃[life]N nam[destiny]N tar[to-cut]V
-c.2.4.1.4,Ur-Namma the canal-digger (Ur-Namma D),Urim,15,Urim[1]SN E-mud-kura[1]TN
-c.2.4.1.4,Ur-Namma the canal-digger (Ur-Namma D),Urim,16,gu-za[chair]N suhuš[foundation]N gen₆[to-be-firm]V
-c.2.4.1.4,Ur-Namma the canal-digger (Ur-Namma D),Urim,17,aga[crown]N me-lem₄[(awesome)-radiance]N me-te[(fitting)-attribute]N nam-lugal[kingship]N saŋ[head]N ŋal₂[to-be-(located)]V
-c.2.4.1.4,Ur-Namma the canal-digger (Ur-Namma D),Urim,18,ŋidru[sceptre]N kug[shining]AJ uŋ₃[people]N šar₂[to-be-numerous]V si[horn]N sa₂[to-equal]V šu[hand]N sa₂[to-equal]V
-c.2.4.1.4,Ur-Namma the canal-digger (Ur-Namma D),Urim,19,ešgiri₂[staff]N šibir[shepherd's-crook]N eš₂-giri₁₇[nose-rope]N zi-ŋal₂[living-creature]N de₆[to-carry]V šu[hand]N
-c.2.4.1.4,Ur-Namma the canal-digger (Ur-Namma D),Urim,20,saŋ[head]N e₂[house(hold)]N u₆[wonder]N dug₄[to-say]V sa₂[to-equal]V
+c.2.4.1.4,Ur-Namma the canal-digger (Ur-Namma D),Urim,2,sux:a-ba[who]PD sux:ba-al[to-dig]V
+c.2.4.1.4,Ur-Namma the canal-digger (Ur-Namma D),Urim,3,sux:unclear[1]WN sux:a-ba[who]PD sux:ba-al[to-dig]V
+c.2.4.1.4,Ur-Namma the canal-digger (Ur-Namma D),Urim,4,sux:id₂[watercourse]N sux:a-ba[who]PD sux:ba-al[to-dig]V
+c.2.4.1.4,Ur-Namma the canal-digger (Ur-Namma D),Urim,5,sux:Ŋisala-ŋara[1]WN sux:a-ba[who]PD sux:ba-al[to-dig]V
+c.2.4.1.4,Ur-Namma the canal-digger (Ur-Namma D),Urim,6,sux:id₂[watercourse]N sux:a-ba[who]PD sux:ba-al[to-dig]V
+c.2.4.1.4,Ur-Namma the canal-digger (Ur-Namma D),Urim,7,sux:Ur-Namma[1]RN sux:kug[shining]AJ sux:tuku[to-have]V sux:ba-al[to-dig]V
+c.2.4.1.4,Ur-Namma the canal-digger (Ur-Namma D),Urim,8,sux:id₂[watercourse]N sux:a-ba[who]PD sux:ba-al[to-dig]V
+c.2.4.1.4,Ur-Namma the canal-digger (Ur-Namma D),Urim,9,sux:Šulgi[1]RN sux:niŋ₂-tuku[rich]AJ sux:ba-al[to-dig]V
+c.2.4.1.4,Ur-Namma the canal-digger (Ur-Namma D),Urim,10,sux:id₂[watercourse]N sux:a-ba[who]PD sux:ba-al[to-dig]V
+c.2.4.1.4,Ur-Namma the canal-digger (Ur-Namma D),Urim,11,sux:lugal[king]N sux:šag₄[heart]N sux:zid[right]AJ sux:nam[destiny]N sux:tar[to-cut]V sux:nam-nir[authority]N sux:saŋ[head]N sux:il₂[to-raise]V
+c.2.4.1.4,Ur-Namma the canal-digger (Ur-Namma D),Urim,12,sux:Ur-Namma[1]RN sux:šul[young-man]N sux:igi[eye]N sux:il₂[to-raise]V sux:kur[(mountain)-land]N sux:gal[to-be-big]V sux:Enlil[1]DN
+c.2.4.1.4,Ur-Namma the canal-digger (Ur-Namma D),Urim,13,sux:Nunamnir[1]DN sux:Sumer[1]GN sux:Akkad[1]GN sux:ŋe₂₆[I]PD sux:suh[to-choose]V
+c.2.4.1.4,Ur-Namma the canal-digger (Ur-Namma D),Urim,14,sux:Nibru[1]SN sux:hur-saŋ[mountain-(range)]N sux:nam-til₃[life]N sux:nam[destiny]N sux:tar[to-cut]V
+c.2.4.1.4,Ur-Namma the canal-digger (Ur-Namma D),Urim,15,sux:Urim[1]SN sux:E-mud-kura[1]TN
+c.2.4.1.4,Ur-Namma the canal-digger (Ur-Namma D),Urim,16,sux:gu-za[chair]N sux:suhuš[foundation]N sux:gen₆[to-be-firm]V
+c.2.4.1.4,Ur-Namma the canal-digger (Ur-Namma D),Urim,17,sux:aga[crown]N sux:me-lem₄[(awesome)-radiance]N sux:me-te[(fitting)-attribute]N sux:nam-lugal[kingship]N sux:saŋ[head]N sux:ŋal₂[to-be-(located)]V
+c.2.4.1.4,Ur-Namma the canal-digger (Ur-Namma D),Urim,18,sux:ŋidru[sceptre]N sux:kug[shining]AJ sux:uŋ₃[people]N sux:šar₂[to-be-numerous]V sux:si[horn]N sux:sa₂[to-equal]V sux:šu[hand]N sux:sa₂[to-equal]V
+c.2.4.1.4,Ur-Namma the canal-digger (Ur-Namma D),Urim,19,sux:ešgiri₂[staff]N sux:šibir[shepherd's-crook]N sux:eš₂-giri₁₇[nose-rope]N sux:zi-ŋal₂[living-creature]N sux:de₆[to-carry]V sux:šu[hand]N
+c.2.4.1.4,Ur-Namma the canal-digger (Ur-Namma D),Urim,20,sux:saŋ[head]N sux:e₂[house(hold)]N sux:u₆[wonder]N sux:dug₄[to-say]V sux:sa₂[to-equal]V
 c.2.4.1.4,Ur-Namma the canal-digger (Ur-Namma D),Urim,21,
 c.2.4.1.4,Ur-Namma the canal-digger (Ur-Namma D),Urim,22,
-c.2.4.1.4,Ur-Namma the canal-digger (Ur-Namma D),Urim,24,E-kiš-nu-ŋal[1]TN saŋ[head]N kun[tail]N ŋal₂[to-be-(located)]V
-c.2.4.1.4,Ur-Namma the canal-digger (Ur-Namma D),Urim,25,E-temen-ni-guru[1]TN ki-tuš[dwelling-place]N šag₄[heart]N hul₂[to-be-happy]V
-c.2.4.1.4,Ur-Namma the canal-digger (Ur-Namma D),Urim,26,ur₂[root]N gen₆[to-be-firm]V
-c.2.4.1.4,Ur-Namma the canal-digger (Ur-Namma D),Urim,27,gu₂[neck]N am[wild-bull]N šu₂[to-cover]V
-c.2.4.1.4,Ur-Namma the canal-digger (Ur-Namma D),Urim,28,kug-babbar[silver]N gub[to-stand]V mi-ir-mi[meaning-unknown]V
-c.2.4.1.4,Ur-Namma the canal-digger (Ur-Namma D),Urim,29,na-ri[canal?]N ud[day(light)]N he₂-ŋal₂[plenty]N bal[to-turn-over]V Keše-kug[1]WN sa₄[to-call]V
-c.2.4.1.4,Ur-Namma the canal-digger (Ur-Namma D),Urim,30,mu[name]N da-ri₂[eternal]AJ ka[mouth]N du₇[to-be-perfect]V Pabi-luh[1]WN sa₄[to-call]V
-c.2.4.1.4,Ur-Namma the canal-digger (Ur-Namma D),Urim,31,ŋe₂₆[I]PD iri[town]N a-ra₂[way]N ku₆[fish]N dal[to-fly]V mušen[bird]N
-c.2.4.1.4,Ur-Namma the canal-digger (Ur-Namma D),Urim,32,Keše-kug[1]WN iri[town]N ku₆[fish]N dal[to-fly]V mušen[bird]N
-c.2.4.1.4,Ur-Namma the canal-digger (Ur-Namma D),Urim,33,Pabi-luh[1]WN a-ra₂[way]N ku₆[fish]N dal[to-fly]V mušen[bird]N
-c.2.4.1.4,Ur-Namma the canal-digger (Ur-Namma D),Urim,34,he₂-ŋal₂[plenty]N ku₆[fish]N mušen[bird]N de₆[to-carry]V E-kiš-nu-ŋal[1]TN
-c.2.4.1.4,Ur-Namma the canal-digger (Ur-Namma D),Urim,35,gu₂[neck]N munzer[licorice]N lu[to-be-abundant]V u₂-lal₃[type-of-plant]N gu₇[to-eat]V
-c.2.4.1.4,Ur-Namma the canal-digger (Ur-Namma D),Urim,36,a-gar₃[meadow]N gal[to-be-big]V še[barley]N gu-nu[flax]N mu₂[to-grow]V tir[forest]N sud[to-be-distant]V
-c.2.4.1.4,Ur-Namma the canal-digger (Ur-Namma D),Urim,37,lugal[king]N an[heaven]N ub[corner]N 4[4]NU še[to-agree]V Enlil[1]DN
-c.2.4.1.4,Ur-Namma the canal-digger (Ur-Namma D),Urim,38,Ur-Namma[1]RN sipad[shepherd]N u₂-a[provisioner]N Sumer[1]GN Akkad[1]GN ki[place]N aŋ₂[to-measure]V Enlil[1]DN
-c.2.4.1.4,Ur-Namma the canal-digger (Ur-Namma D),Urim,39,niŋ₂[thing]N Urim[1]SN asila[rejoicing]N ud[day(light)]N zal[to-pass]V za[you-(sg.)]PD
-c.2.4.1.4,Ur-Namma the canal-digger (Ur-Namma D),Urim,40,Ur-Namma[1]RN lugal[king]N mu[name]N da-ri₂[eternal]AJ za₃-mi₂[praise]N dug₃[to-be-good]V
+c.2.4.1.4,Ur-Namma the canal-digger (Ur-Namma D),Urim,24,sux:E-kiš-nu-ŋal[1]TN sux:saŋ[head]N sux:kun[tail]N sux:ŋal₂[to-be-(located)]V
+c.2.4.1.4,Ur-Namma the canal-digger (Ur-Namma D),Urim,25,sux:E-temen-ni-guru[1]TN sux:ki-tuš[dwelling-place]N sux:šag₄[heart]N sux:hul₂[to-be-happy]V
+c.2.4.1.4,Ur-Namma the canal-digger (Ur-Namma D),Urim,26,sux:ur₂[root]N sux:gen₆[to-be-firm]V
+c.2.4.1.4,Ur-Namma the canal-digger (Ur-Namma D),Urim,27,sux:gu₂[neck]N sux:am[wild-bull]N sux:šu₂[to-cover]V
+c.2.4.1.4,Ur-Namma the canal-digger (Ur-Namma D),Urim,28,sux:kug-babbar[silver]N sux:gub[to-stand]V sux:mi-ir-mi[meaning-unknown]V
+c.2.4.1.4,Ur-Namma the canal-digger (Ur-Namma D),Urim,29,sux:na-ri[canal?]N sux:ud[day(light)]N sux:he₂-ŋal₂[plenty]N sux:bal[to-turn-over]V sux:Keše-kug[1]WN sux:sa₄[to-call]V
+c.2.4.1.4,Ur-Namma the canal-digger (Ur-Namma D),Urim,30,sux:mu[name]N sux:da-ri₂[eternal]AJ sux:ka[mouth]N sux:du₇[to-be-perfect]V sux:Pabi-luh[1]WN sux:sa₄[to-call]V
+c.2.4.1.4,Ur-Namma the canal-digger (Ur-Namma D),Urim,31,sux:ŋe₂₆[I]PD sux:iri[town]N sux:a-ra₂[way]N sux:ku₆[fish]N sux:dal[to-fly]V sux:mušen[bird]N
+c.2.4.1.4,Ur-Namma the canal-digger (Ur-Namma D),Urim,32,sux:Keše-kug[1]WN sux:iri[town]N sux:ku₆[fish]N sux:dal[to-fly]V sux:mušen[bird]N
+c.2.4.1.4,Ur-Namma the canal-digger (Ur-Namma D),Urim,33,sux:Pabi-luh[1]WN sux:a-ra₂[way]N sux:ku₆[fish]N sux:dal[to-fly]V sux:mušen[bird]N
+c.2.4.1.4,Ur-Namma the canal-digger (Ur-Namma D),Urim,34,sux:he₂-ŋal₂[plenty]N sux:ku₆[fish]N sux:mušen[bird]N sux:de₆[to-carry]V sux:E-kiš-nu-ŋal[1]TN
+c.2.4.1.4,Ur-Namma the canal-digger (Ur-Namma D),Urim,35,sux:gu₂[neck]N sux:munzer[licorice]N sux:lu[to-be-abundant]V sux:u₂-lal₃[type-of-plant]N sux:gu₇[to-eat]V
+c.2.4.1.4,Ur-Namma the canal-digger (Ur-Namma D),Urim,36,sux:a-gar₃[meadow]N sux:gal[to-be-big]V sux:še[barley]N sux:gu-nu[flax]N sux:mu₂[to-grow]V sux:tir[forest]N sux:sud[to-be-distant]V
+c.2.4.1.4,Ur-Namma the canal-digger (Ur-Namma D),Urim,37,sux:lugal[king]N sux:an[heaven]N sux:ub[corner]N sux:4[4]NU sux:še[to-agree]V sux:Enlil[1]DN
+c.2.4.1.4,Ur-Namma the canal-digger (Ur-Namma D),Urim,38,sux:Ur-Namma[1]RN sux:sipad[shepherd]N sux:u₂-a[provisioner]N sux:Sumer[1]GN sux:Akkad[1]GN sux:ki[place]N sux:aŋ₂[to-measure]V sux:Enlil[1]DN
+c.2.4.1.4,Ur-Namma the canal-digger (Ur-Namma D),Urim,39,sux:niŋ₂[thing]N sux:Urim[1]SN sux:asila[rejoicing]N sux:ud[day(light)]N sux:zal[to-pass]V sux:za[you-(sg.)]PD
+c.2.4.1.4,Ur-Namma the canal-digger (Ur-Namma D),Urim,40,sux:Ur-Namma[1]RN sux:lugal[king]N sux:mu[name]N sux:da-ri₂[eternal]AJ sux:za₃-mi₂[praise]N sux:dug₃[to-be-good]V

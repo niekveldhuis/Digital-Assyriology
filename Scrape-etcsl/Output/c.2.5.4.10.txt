@@ -1,27 +1,27 @@
 id_text,text_name,version,l_no,text
-c.2.5.4.10,A love song of Išme-Dagan (Išme-Dagan J),,1,ab₂[cow]N gu₃[voice]N dug₃[to-be-good]V amar[calf]N gu₃[voice]N sud[to-be-distant]V
-c.2.5.4.10,A love song of Išme-Dagan (Išme-Dagan J),,2,in-nin[mistress]N tur₃[animal-stall]N ŋen[to-go]V
-c.2.5.4.10,A love song of Išme-Dagan (Išme-Dagan J),,3,ki-sikil[young-woman]N ud[day(light)]N ŋen[to-go]V
-c.2.5.4.10,A love song of Išme-Dagan (Išme-Dagan J),,4,Inana[1]DN šakir₃[churn]N gu₃[voice]N dug₄[to-say]V
-c.2.5.4.10,A love song of Išme-Dagan (Išme-Dagan J),,5,šakir₃[churn]N nitalam[spouse]N gu₃[voice]N dug₄[to-say]V
-c.2.5.4.10,A love song of Išme-Dagan (Išme-Dagan J),,6,Inana[1]DN šakir₃[churn]N gu₃[voice]N dug₄[to-say]V
-c.2.5.4.10,A love song of Išme-Dagan (Išme-Dagan J),,7,šakir₃[churn]N Dumuzid[1]DN gu₃[voice]N dug₄[to-say]V
-c.2.5.4.10,A love song of Išme-Dagan (Išme-Dagan J),,8,Inana[1]DN šakir₃[churn]N gu₃[voice]N dug₄[to-say]V
-c.2.5.4.10,A love song of Išme-Dagan (Išme-Dagan J),,9,dun₅[to-rock]V šakir₃[churn]N KU[KU]V
-c.2.5.4.10,A love song of Išme-Dagan (Išme-Dagan J),,10,Inana[1]DN ur₅[that]PD hul₂[to-be-happy]V
-c.2.5.4.10,A love song of Išme-Dagan (Išme-Dagan J),,11,sipad[shepherd]N zid[right]AJ lu₂[person]N i-lu[(sad)-song]N dug₃[to-be-good]V
-c.2.5.4.10,A love song of Išme-Dagan (Išme-Dagan J),,12,mur[growl]N ša₄[verb-part-of-multiword-verb]V i-lu[(sad)-song]N dug₄[to-say]V
-c.2.5.4.10,A love song of Išme-Dagan (Išme-Dagan J),,13,in-nin[mistress]N niŋ₂-nam[anything]PD niŋ₂[thing]N ku₇-ku₇[to-be-sweet]V
-c.2.5.4.10,A love song of Išme-Dagan (Išme-Dagan J),,14,Inana[1]DN šag₄[heart]N hul₂[to-be-happy]V
-c.2.5.4.10,A love song of Išme-Dagan (Išme-Dagan J),,15,in-nin[mistress]N tur₃[animal-stall]N kur₉[to-enter]V
-c.2.5.4.10,A love song of Išme-Dagan (Išme-Dagan J),,16,Inana[1]DN tur₃[animal-stall]N hul₂[to-be-happy]V
-c.2.5.4.10,A love song of Išme-Dagan (Išme-Dagan J),,17,nu-u₈-gig[high-status-woman]N amaš[sheepfold]N kur₉[to-enter]V
-c.2.5.4.10,A love song of Išme-Dagan (Išme-Dagan J),,18,Inana[1]DN amaš[sheepfold]N hul₂[to-be-happy]V
-c.2.5.4.10,A love song of Išme-Dagan (Išme-Dagan J),,19,e₂-ubur-ra[milking-pen]N kur₉[to-enter]V
-c.2.5.4.10,A love song of Išme-Dagan (Išme-Dagan J),,20,siki[hair]N u₈[ewe]N zid[right]AJ barag₂[to-spread-out]V
-c.2.5.4.10,A love song of Išme-Dagan (Išme-Dagan J),,21,amaš[sheepfold]N kug[shining]AJ i₃[fatty-substance]N ki[place]N daŋal[to-be-wide]V
-c.2.5.4.10,A love song of Išme-Dagan (Išme-Dagan J),,22,tur₃[animal-stall]N i₃[fatty-substance]N gara₂[cream]N de₆[to-carry]V
-c.2.5.4.10,A love song of Išme-Dagan (Išme-Dagan J),,23,amaš[sheepfold]N giri₁₇-zal[joy]N sud[to-be-distant]V
-c.2.5.4.10,A love song of Išme-Dagan (Išme-Dagan J),,24,Išme-Dagan[1]RN ud[day(light)]N sud[to-be-distant]V
-c.2.5.4.10,A love song of Išme-Dagan (Išme-Dagan J),,25,u₈[ewe]N sila₄[lamb]N mi₂[(loving)-care]N zid[right]AJ dug₄[to-say]V
-c.2.5.4.10,A love song of Išme-Dagan (Išme-Dagan J),,26,nitalam[spouse]N u₆[wonder]N dug₃[to-be-good]V i[to-bring-out]V
+c.2.5.4.10,A love song of Išme-Dagan (Išme-Dagan J),,1,sux:ab₂[cow]N sux:gu₃[voice]N sux:dug₃[to-be-good]V sux:amar[calf]N sux:gu₃[voice]N sux:sud[to-be-distant]V
+c.2.5.4.10,A love song of Išme-Dagan (Išme-Dagan J),,2,sux:in-nin[mistress]N sux:tur₃[animal-stall]N sux:ŋen[to-go]V
+c.2.5.4.10,A love song of Išme-Dagan (Išme-Dagan J),,3,sux:ki-sikil[young-woman]N sux:ud[day(light)]N sux:ŋen[to-go]V
+c.2.5.4.10,A love song of Išme-Dagan (Išme-Dagan J),,4,sux:Inana[1]DN sux:šakir₃[churn]N sux:gu₃[voice]N sux:dug₄[to-say]V
+c.2.5.4.10,A love song of Išme-Dagan (Išme-Dagan J),,5,sux:šakir₃[churn]N sux:nitalam[spouse]N sux:gu₃[voice]N sux:dug₄[to-say]V
+c.2.5.4.10,A love song of Išme-Dagan (Išme-Dagan J),,6,sux:Inana[1]DN sux:šakir₃[churn]N sux:gu₃[voice]N sux:dug₄[to-say]V
+c.2.5.4.10,A love song of Išme-Dagan (Išme-Dagan J),,7,sux:šakir₃[churn]N sux:Dumuzid[1]DN sux:gu₃[voice]N sux:dug₄[to-say]V
+c.2.5.4.10,A love song of Išme-Dagan (Išme-Dagan J),,8,sux:Inana[1]DN sux:šakir₃[churn]N sux:gu₃[voice]N sux:dug₄[to-say]V
+c.2.5.4.10,A love song of Išme-Dagan (Išme-Dagan J),,9,sux:dun₅[to-rock]V sux:šakir₃[churn]N sux:KU[KU]V
+c.2.5.4.10,A love song of Išme-Dagan (Išme-Dagan J),,10,sux:Inana[1]DN sux:ur₅[that]PD sux:hul₂[to-be-happy]V
+c.2.5.4.10,A love song of Išme-Dagan (Išme-Dagan J),,11,sux:sipad[shepherd]N sux:zid[right]AJ sux:lu₂[person]N sux:i-lu[(sad)-song]N sux:dug₃[to-be-good]V
+c.2.5.4.10,A love song of Išme-Dagan (Išme-Dagan J),,12,sux:mur[growl]N sux:ša₄[verb-part-of-multiword-verb]V sux:i-lu[(sad)-song]N sux:dug₄[to-say]V
+c.2.5.4.10,A love song of Išme-Dagan (Išme-Dagan J),,13,sux:in-nin[mistress]N sux:niŋ₂-nam[anything]PD sux:niŋ₂[thing]N sux:ku₇-ku₇[to-be-sweet]V
+c.2.5.4.10,A love song of Išme-Dagan (Išme-Dagan J),,14,sux:Inana[1]DN sux:šag₄[heart]N sux:hul₂[to-be-happy]V
+c.2.5.4.10,A love song of Išme-Dagan (Išme-Dagan J),,15,sux:in-nin[mistress]N sux:tur₃[animal-stall]N sux:kur₉[to-enter]V
+c.2.5.4.10,A love song of Išme-Dagan (Išme-Dagan J),,16,sux:Inana[1]DN sux:tur₃[animal-stall]N sux:hul₂[to-be-happy]V
+c.2.5.4.10,A love song of Išme-Dagan (Išme-Dagan J),,17,sux:nu-u₈-gig[high-status-woman]N sux:amaš[sheepfold]N sux:kur₉[to-enter]V
+c.2.5.4.10,A love song of Išme-Dagan (Išme-Dagan J),,18,sux:Inana[1]DN sux:amaš[sheepfold]N sux:hul₂[to-be-happy]V
+c.2.5.4.10,A love song of Išme-Dagan (Išme-Dagan J),,19,sux:e₂-ubur-ra[milking-pen]N sux:kur₉[to-enter]V
+c.2.5.4.10,A love song of Išme-Dagan (Išme-Dagan J),,20,sux:siki[hair]N sux:u₈[ewe]N sux:zid[right]AJ sux:barag₂[to-spread-out]V
+c.2.5.4.10,A love song of Išme-Dagan (Išme-Dagan J),,21,sux:amaš[sheepfold]N sux:kug[shining]AJ sux:i₃[fatty-substance]N sux:ki[place]N sux:daŋal[to-be-wide]V
+c.2.5.4.10,A love song of Išme-Dagan (Išme-Dagan J),,22,sux:tur₃[animal-stall]N sux:i₃[fatty-substance]N sux:gara₂[cream]N sux:de₆[to-carry]V
+c.2.5.4.10,A love song of Išme-Dagan (Išme-Dagan J),,23,sux:amaš[sheepfold]N sux:giri₁₇-zal[joy]N sux:sud[to-be-distant]V
+c.2.5.4.10,A love song of Išme-Dagan (Išme-Dagan J),,24,sux:Išme-Dagan[1]RN sux:ud[day(light)]N sux:sud[to-be-distant]V
+c.2.5.4.10,A love song of Išme-Dagan (Išme-Dagan J),,25,sux:u₈[ewe]N sux:sila₄[lamb]N sux:mi₂[(loving)-care]N sux:zid[right]AJ sux:dug₄[to-say]V
+c.2.5.4.10,A love song of Išme-Dagan (Išme-Dagan J),,26,sux:nitalam[spouse]N sux:u₆[wonder]N sux:dug₃[to-be-good]V sux:i[to-bring-out]V

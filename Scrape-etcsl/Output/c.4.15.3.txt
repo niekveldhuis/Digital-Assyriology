@@ -1,62 +1,62 @@
 id_text,text_name,version,l_no,text
-c.4.15.3,A tigi to Nergal (Nergal C),,1,en[lord]N ni₂[fear(someness)]N guru₃[to-bear]V an[heaven]N ki[place]N kalam[the-Land]N pa[branch]N e₃[to-go-out-or-in]V
-c.4.15.3,A tigi to Nergal (Nergal C),,2,nam-lugal[kingship]N a-a[father]N tud[to-give-birth]V
-c.4.15.3,A tigi to Nergal (Nergal C),,3,saŋ[head]N gig₂[to-be-black]V ni₂[fear(someness)]N ri[to-direct]V
-c.4.15.3,A tigi to Nergal (Nergal C),,4,Anuna[1]DN diŋir[deity]N gal[to-be-big]V
-c.4.15.3,A tigi to Nergal (Nergal C),,5,ni₂[fear(someness)]N me-lem₄[(awesome)-radiance]N teš₂[unity]N šar₂[to-mix]V
-c.4.15.3,A tigi to Nergal (Nergal C),,6,Nergal[1]DN en[lord]N ni₂[fear(someness)]N guru₃[to-bear]V an[heaven]N ki[place]N kalam[the-Land]N pa[branch]N e₃[to-go-out-or-in]V
-c.4.15.3,A tigi to Nergal (Nergal C),,7,nam-lugal[kingship]N a-a[father]N tud[to-give-birth]V
-c.4.15.3,A tigi to Nergal (Nergal C),,8,saŋ[head]N gig₂[to-be-black]V ni₂[fear(someness)]N ri[to-direct]V
-c.4.15.3,A tigi to Nergal (Nergal C),,9,Anuna[1]DN diŋir[deity]N gal[to-be-big]V
-c.4.15.3,A tigi to Nergal (Nergal C),,10,ni₂[fear(someness)]N me-lem₄[(awesome)-radiance]N teš₂[unity]N šar₂[to-mix]V
-c.4.15.3,A tigi to Nergal (Nergal C),,11,ur-saŋ[hero]N ud[day(light)]N a-a[father]N tud[to-give-birth]V
-c.4.15.3,A tigi to Nergal (Nergal C),,12,hur-saŋ[mountain-(range)]N ki[place]N uŋ₃[people]N gu₂[neck]N si[to-fill]V
-c.4.15.3,A tigi to Nergal (Nergal C),,13,a-a[father]N Enlil[1]DN saŋ[head]N rig₇[to-bestow]V
-c.4.15.3,A tigi to Nergal (Nergal C),,14,nam[destiny]N tar[to-cut]V šu[hand]N gen₆[to-be-firm]V
-c.4.15.3,A tigi to Nergal (Nergal C),,15,ur-saŋ[hero]N Nergal[1]DN lugal[king]N za[you-(sg.)]PD
-c.4.15.3,A tigi to Nergal (Nergal C),,16,Nergal[1]DN ur-saŋ[hero]N ud[day(light)]N a-a[father]N tud[to-give-birth]V
-c.4.15.3,A tigi to Nergal (Nergal C),,17,hur-saŋ[mountain-(range)]N ki[place]N uŋ₃[people]N gu₂[neck]N si[to-fill]V
-c.4.15.3,A tigi to Nergal (Nergal C),,18,a-a[father]N Enlil[1]DN saŋ[head]N rig₇[to-bestow]V
-c.4.15.3,A tigi to Nergal (Nergal C),,19,nam[destiny]N tar[to-cut]V šu[hand]N gen₆[to-be-firm]V
-c.4.15.3,A tigi to Nergal (Nergal C),,20,ur-saŋ[hero]N Nergal[1]DN lugal[king]N za[you-(sg.)]PD
-c.4.15.3,A tigi to Nergal (Nergal C),,21,en[lord]N niŋ₂-me-ŋar[silence]N dumu[child]N Enlil[1]DN
-c.4.15.3,A tigi to Nergal (Nergal C),,22,nam-ur-saŋ[heroism]N uru₂[flood]N šudu₃[prayer]N dug₄[to-say]V
-c.4.15.3,A tigi to Nergal (Nergal C),,23,niŋ₂-nam[anything]PD banšur[(offering)-table]N sikil[to-be-pure]V
-c.4.15.3,A tigi to Nergal (Nergal C),,24,uŋ₃[people]N Lagaš[1]SN šu[hand]N peš[to-be-thick]V
-c.4.15.3,A tigi to Nergal (Nergal C),,25,Nergal[1]DN ki[place]N Lagaš[1]SN a₂[arm]N bad[to-open]V de₆[to-carry]V
-c.4.15.3,A tigi to Nergal (Nergal C),,26,Nergal[1]DN en[lord]N niŋ₂-me-ŋar[silence]N dumu[child]N Enlil[1]DN
-c.4.15.3,A tigi to Nergal (Nergal C),,27,nam-ur-saŋ[heroism]N uru₂[flood]N šudu₃[prayer]N dug₄[to-say]V
-c.4.15.3,A tigi to Nergal (Nergal C),,28,niŋ₂-nam[anything]PD banšur[(offering)-table]N sikil[to-be-pure]V
-c.4.15.3,A tigi to Nergal (Nergal C),,29,uŋ₃[people]N Lagaš[1]SN šu[hand]N peš[to-be-thick]V
-c.4.15.3,A tigi to Nergal (Nergal C),,30,Nergal[1]DN ki[place]N Lagaš[1]SN a₂[arm]N bad[to-open]V de₆[to-carry]V
-c.4.15.3,A tigi to Nergal (Nergal C),,31,sa-gid₂-da[composition-division]N
+c.4.15.3,A tigi to Nergal (Nergal C),,1,sux:en[lord]N sux:ni₂[fear(someness)]N sux:guru₃[to-bear]V sux:an[heaven]N sux:ki[place]N sux:kalam[the-Land]N sux:pa[branch]N sux:e₃[to-go-out-or-in]V
+c.4.15.3,A tigi to Nergal (Nergal C),,2,sux:nam-lugal[kingship]N sux:a-a[father]N sux:tud[to-give-birth]V
+c.4.15.3,A tigi to Nergal (Nergal C),,3,sux:saŋ[head]N sux:gig₂[to-be-black]V sux:ni₂[fear(someness)]N sux:ri[to-direct]V
+c.4.15.3,A tigi to Nergal (Nergal C),,4,sux:Anuna[1]DN sux:diŋir[deity]N sux:gal[to-be-big]V
+c.4.15.3,A tigi to Nergal (Nergal C),,5,sux:ni₂[fear(someness)]N sux:me-lem₄[(awesome)-radiance]N sux:teš₂[unity]N sux:šar₂[to-mix]V
+c.4.15.3,A tigi to Nergal (Nergal C),,6,sux:Nergal[1]DN sux:en[lord]N sux:ni₂[fear(someness)]N sux:guru₃[to-bear]V sux:an[heaven]N sux:ki[place]N sux:kalam[the-Land]N sux:pa[branch]N sux:e₃[to-go-out-or-in]V
+c.4.15.3,A tigi to Nergal (Nergal C),,7,sux:nam-lugal[kingship]N sux:a-a[father]N sux:tud[to-give-birth]V
+c.4.15.3,A tigi to Nergal (Nergal C),,8,sux:saŋ[head]N sux:gig₂[to-be-black]V sux:ni₂[fear(someness)]N sux:ri[to-direct]V
+c.4.15.3,A tigi to Nergal (Nergal C),,9,sux:Anuna[1]DN sux:diŋir[deity]N sux:gal[to-be-big]V
+c.4.15.3,A tigi to Nergal (Nergal C),,10,sux:ni₂[fear(someness)]N sux:me-lem₄[(awesome)-radiance]N sux:teš₂[unity]N sux:šar₂[to-mix]V
+c.4.15.3,A tigi to Nergal (Nergal C),,11,sux:ur-saŋ[hero]N sux:ud[day(light)]N sux:a-a[father]N sux:tud[to-give-birth]V
+c.4.15.3,A tigi to Nergal (Nergal C),,12,sux:hur-saŋ[mountain-(range)]N sux:ki[place]N sux:uŋ₃[people]N sux:gu₂[neck]N sux:si[to-fill]V
+c.4.15.3,A tigi to Nergal (Nergal C),,13,sux:a-a[father]N sux:Enlil[1]DN sux:saŋ[head]N sux:rig₇[to-bestow]V
+c.4.15.3,A tigi to Nergal (Nergal C),,14,sux:nam[destiny]N sux:tar[to-cut]V sux:šu[hand]N sux:gen₆[to-be-firm]V
+c.4.15.3,A tigi to Nergal (Nergal C),,15,sux:ur-saŋ[hero]N sux:Nergal[1]DN sux:lugal[king]N sux:za[you-(sg.)]PD
+c.4.15.3,A tigi to Nergal (Nergal C),,16,sux:Nergal[1]DN sux:ur-saŋ[hero]N sux:ud[day(light)]N sux:a-a[father]N sux:tud[to-give-birth]V
+c.4.15.3,A tigi to Nergal (Nergal C),,17,sux:hur-saŋ[mountain-(range)]N sux:ki[place]N sux:uŋ₃[people]N sux:gu₂[neck]N sux:si[to-fill]V
+c.4.15.3,A tigi to Nergal (Nergal C),,18,sux:a-a[father]N sux:Enlil[1]DN sux:saŋ[head]N sux:rig₇[to-bestow]V
+c.4.15.3,A tigi to Nergal (Nergal C),,19,sux:nam[destiny]N sux:tar[to-cut]V sux:šu[hand]N sux:gen₆[to-be-firm]V
+c.4.15.3,A tigi to Nergal (Nergal C),,20,sux:ur-saŋ[hero]N sux:Nergal[1]DN sux:lugal[king]N sux:za[you-(sg.)]PD
+c.4.15.3,A tigi to Nergal (Nergal C),,21,sux:en[lord]N sux:niŋ₂-me-ŋar[silence]N sux:dumu[child]N sux:Enlil[1]DN
+c.4.15.3,A tigi to Nergal (Nergal C),,22,sux:nam-ur-saŋ[heroism]N sux:uru₂[flood]N sux:šudu₃[prayer]N sux:dug₄[to-say]V
+c.4.15.3,A tigi to Nergal (Nergal C),,23,sux:niŋ₂-nam[anything]PD sux:banšur[(offering)-table]N sux:sikil[to-be-pure]V
+c.4.15.3,A tigi to Nergal (Nergal C),,24,sux:uŋ₃[people]N sux:Lagaš[1]SN sux:šu[hand]N sux:peš[to-be-thick]V
+c.4.15.3,A tigi to Nergal (Nergal C),,25,sux:Nergal[1]DN sux:ki[place]N sux:Lagaš[1]SN sux:a₂[arm]N sux:bad[to-open]V sux:de₆[to-carry]V
+c.4.15.3,A tigi to Nergal (Nergal C),,26,sux:Nergal[1]DN sux:en[lord]N sux:niŋ₂-me-ŋar[silence]N sux:dumu[child]N sux:Enlil[1]DN
+c.4.15.3,A tigi to Nergal (Nergal C),,27,sux:nam-ur-saŋ[heroism]N sux:uru₂[flood]N sux:šudu₃[prayer]N sux:dug₄[to-say]V
+c.4.15.3,A tigi to Nergal (Nergal C),,28,sux:niŋ₂-nam[anything]PD sux:banšur[(offering)-table]N sux:sikil[to-be-pure]V
+c.4.15.3,A tigi to Nergal (Nergal C),,29,sux:uŋ₃[people]N sux:Lagaš[1]SN sux:šu[hand]N sux:peš[to-be-thick]V
+c.4.15.3,A tigi to Nergal (Nergal C),,30,sux:Nergal[1]DN sux:ki[place]N sux:Lagaš[1]SN sux:a₂[arm]N sux:bad[to-open]V sux:de₆[to-carry]V
+c.4.15.3,A tigi to Nergal (Nergal C),,31,sux:sa-gid₂-da[composition-division]N
 c.4.15.3,A tigi to Nergal (Nergal C),,32,
 c.4.15.3,A tigi to Nergal (Nergal C),,35,
-c.4.15.3,A tigi to Nergal (Nergal C),,36,nam-ur-saŋ[heroism]N
-c.4.15.3,A tigi to Nergal (Nergal C),,37,Uzarpara[1]SN eš₃[shrine]N
-c.4.15.3,A tigi to Nergal (Nergal C),,38,Mešlamta-ea[1]DN
-c.4.15.3,A tigi to Nergal (Nergal C),,39,Nergal[1]DN en[lord]N Enlil[1]DN kalam[the-Land]N
-c.4.15.3,A tigi to Nergal (Nergal C),,40,Alla[1]DN gaba-ri[equal]N tuku[to-have]V
-c.4.15.3,A tigi to Nergal (Nergal C),,41,Ištaran[1]DN di[(law)suit]N si[horn]N sa₂[to-equal]V kud[to-cut]V ŋal₂[to-be-(located)]V
-c.4.15.3,A tigi to Nergal (Nergal C),,42,en[lord]N gu₂[neck]N du₃[to-erect]V Enlil[1]DN de₆[to-carry]V šu[hand]N ŋar[to-place]V gi₄[to-return]V a-a[father]N
-c.4.15.3,A tigi to Nergal (Nergal C),,43,ur-saŋ[hero]N kalag[to-be-strong]V mu[name]N
-c.4.15.3,A tigi to Nergal (Nergal C),,44,Enlil[1]DN sipad[shepherd]N saŋ[head]N gig₂[to-be-black]V sa₄[to-call]V
-c.4.15.3,A tigi to Nergal (Nergal C),,45,diŋir[deity]N nam[destiny]N tar[to-cut]V
-c.4.15.3,A tigi to Nergal (Nergal C),,46,šum₂[to-give]V
-c.4.15.3,A tigi to Nergal (Nergal C),,47,ki[place]N
-c.4.15.3,A tigi to Nergal (Nergal C),,48,an[heaven]N
-c.4.15.3,A tigi to Nergal (Nergal C),,49,za-pa-aŋ₂[noise]N diŋir[deity]N na-me[any]PD saŋ[head]N ŋar[to-place]V
-c.4.15.3,A tigi to Nergal (Nergal C),,50,šul[young-man]N zid[right]AJ nam-uš₂[death]N u₂-a[provisioner]N ki[place]N Lagaš[1]SN
-c.4.15.3,A tigi to Nergal (Nergal C),,51,Mešlamta-ea[1]DN šir₃[song]N i[to-bring-out]V
-c.4.15.3,A tigi to Nergal (Nergal C),,52,en[lord]N dug₄[to-say]V zid[right]AJ en[lord]N he₂-ŋal₂[plenty]N
-c.4.15.3,A tigi to Nergal (Nergal C),,53,ur-saŋ[hero]N mu[name]N šu-kin[obeisance]N dab₅[to-seize]V
-c.4.15.3,A tigi to Nergal (Nergal C),,54,ab[sea]N huluh[to-be-frightened]V zig₃[to-rise]V
-c.4.15.3,A tigi to Nergal (Nergal C),,55,nam-lugal[kingship]N ni₂[fear(someness)]N huš[to-be-reddish]V ri[to-direct]V
-c.4.15.3,A tigi to Nergal (Nergal C),,56,ur-saŋ[hero]N a₂[arm]N mah[to-be-majestic]V ki-bal[rebel-land]N zar[sheaf]N dub[to-heap-up]V
-c.4.15.3,A tigi to Nergal (Nergal C),,57,Nergal[1]DN mu[name]N šir₃[song]N ŋal₂[to-be-(located)]V
-c.4.15.3,A tigi to Nergal (Nergal C),,58,nin[lady]N dumu[child]N An[1]DN nin[lady]N iri[town]N ki[place]N aŋ₂[to-measure]V
-c.4.15.3,A tigi to Nergal (Nergal C),,59,Bau[1]DN kuš₂[to-be-tired]V
-c.4.15.3,A tigi to Nergal (Nergal C),,60,Iri-kug[1]SN iri[town]N nam-nin[ladyship]N
-c.4.15.3,A tigi to Nergal (Nergal C),,61,bal[term-(in-office)]N ud[day(light)]N sud[to-be-distant]V gub[to-stand]V pa[branch]N e₃[to-go-out-or-in]V
-c.4.15.3,A tigi to Nergal (Nergal C),,62,sa-ŋar-ra[composition-division]N
-c.4.15.3,A tigi to Nergal (Nergal C),,63,tigi[type-of-instrument-and-composition]N Nergal[1]DN
+c.4.15.3,A tigi to Nergal (Nergal C),,36,sux:nam-ur-saŋ[heroism]N
+c.4.15.3,A tigi to Nergal (Nergal C),,37,sux:Uzarpara[1]SN sux:eš₃[shrine]N
+c.4.15.3,A tigi to Nergal (Nergal C),,38,sux:Mešlamta-ea[1]DN
+c.4.15.3,A tigi to Nergal (Nergal C),,39,sux:Nergal[1]DN sux:en[lord]N sux:Enlil[1]DN sux:kalam[the-Land]N
+c.4.15.3,A tigi to Nergal (Nergal C),,40,sux:Alla[1]DN sux:gaba-ri[equal]N sux:tuku[to-have]V
+c.4.15.3,A tigi to Nergal (Nergal C),,41,sux:Ištaran[1]DN sux:di[(law)suit]N sux:si[horn]N sux:sa₂[to-equal]V sux:kud[to-cut]V sux:ŋal₂[to-be-(located)]V
+c.4.15.3,A tigi to Nergal (Nergal C),,42,sux:en[lord]N sux:gu₂[neck]N sux:du₃[to-erect]V sux:Enlil[1]DN sux:de₆[to-carry]V sux:šu[hand]N sux:ŋar[to-place]V sux:gi₄[to-return]V sux:a-a[father]N
+c.4.15.3,A tigi to Nergal (Nergal C),,43,sux:ur-saŋ[hero]N sux:kalag[to-be-strong]V sux:mu[name]N
+c.4.15.3,A tigi to Nergal (Nergal C),,44,sux:Enlil[1]DN sux:sipad[shepherd]N sux:saŋ[head]N sux:gig₂[to-be-black]V sux:sa₄[to-call]V
+c.4.15.3,A tigi to Nergal (Nergal C),,45,sux:diŋir[deity]N sux:nam[destiny]N sux:tar[to-cut]V
+c.4.15.3,A tigi to Nergal (Nergal C),,46,sux:šum₂[to-give]V
+c.4.15.3,A tigi to Nergal (Nergal C),,47,sux:ki[place]N
+c.4.15.3,A tigi to Nergal (Nergal C),,48,sux:an[heaven]N
+c.4.15.3,A tigi to Nergal (Nergal C),,49,sux:za-pa-aŋ₂[noise]N sux:diŋir[deity]N sux:na-me[any]PD sux:saŋ[head]N sux:ŋar[to-place]V
+c.4.15.3,A tigi to Nergal (Nergal C),,50,sux:šul[young-man]N sux:zid[right]AJ sux:nam-uš₂[death]N sux:u₂-a[provisioner]N sux:ki[place]N sux:Lagaš[1]SN
+c.4.15.3,A tigi to Nergal (Nergal C),,51,sux:Mešlamta-ea[1]DN sux:šir₃[song]N sux:i[to-bring-out]V
+c.4.15.3,A tigi to Nergal (Nergal C),,52,sux:en[lord]N sux:dug₄[to-say]V sux:zid[right]AJ sux:en[lord]N sux:he₂-ŋal₂[plenty]N
+c.4.15.3,A tigi to Nergal (Nergal C),,53,sux:ur-saŋ[hero]N sux:mu[name]N sux:šu-kin[obeisance]N sux:dab₅[to-seize]V
+c.4.15.3,A tigi to Nergal (Nergal C),,54,sux:ab[sea]N sux:huluh[to-be-frightened]V sux:zig₃[to-rise]V
+c.4.15.3,A tigi to Nergal (Nergal C),,55,sux:nam-lugal[kingship]N sux:ni₂[fear(someness)]N sux:huš[to-be-reddish]V sux:ri[to-direct]V
+c.4.15.3,A tigi to Nergal (Nergal C),,56,sux:ur-saŋ[hero]N sux:a₂[arm]N sux:mah[to-be-majestic]V sux:ki-bal[rebel-land]N sux:zar[sheaf]N sux:dub[to-heap-up]V
+c.4.15.3,A tigi to Nergal (Nergal C),,57,sux:Nergal[1]DN sux:mu[name]N sux:šir₃[song]N sux:ŋal₂[to-be-(located)]V
+c.4.15.3,A tigi to Nergal (Nergal C),,58,sux:nin[lady]N sux:dumu[child]N sux:An[1]DN sux:nin[lady]N sux:iri[town]N sux:ki[place]N sux:aŋ₂[to-measure]V
+c.4.15.3,A tigi to Nergal (Nergal C),,59,sux:Bau[1]DN sux:kuš₂[to-be-tired]V
+c.4.15.3,A tigi to Nergal (Nergal C),,60,sux:Iri-kug[1]SN sux:iri[town]N sux:nam-nin[ladyship]N
+c.4.15.3,A tigi to Nergal (Nergal C),,61,sux:bal[term-(in-office)]N sux:ud[day(light)]N sux:sud[to-be-distant]V sux:gub[to-stand]V sux:pa[branch]N sux:e₃[to-go-out-or-in]V
+c.4.15.3,A tigi to Nergal (Nergal C),,62,sux:sa-ŋar-ra[composition-division]N
+c.4.15.3,A tigi to Nergal (Nergal C),,63,sux:tigi[type-of-instrument-and-composition]N sux:Nergal[1]DN

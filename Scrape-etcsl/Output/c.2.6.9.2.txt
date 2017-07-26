@@ -1,61 +1,61 @@
 id_text,text_name,version,l_no,text
-c.2.6.9.2,A hymn to Haia for Rīm-Sîn (Rīm-Sîn B),,1,en[lord]N ŋeštug₂[ear]N mah[to-be-majestic]V šu[hand]N du₇[to-be-perfect]V sa₂[advice]N gal[to-be-big]V pad₃[to-find]V
-c.2.6.9.2,A hymn to Haia for Rīm-Sîn (Rīm-Sîn B),,2,Haia[1]DN dub[tablet]N gal[to-be-big]V ha-za[to-hold]V ŋeštug₂[ear]N peš[to-be-thick]V
-c.2.6.9.2,A hymn to Haia for Rīm-Sîn (Rīm-Sîn B),,3,šid-du₃[accountant]N Hal-an-kug[1]TN igi[eye]N zag[side]N til[to-complete]V galam[to-be-skilful]V E-ŊEŠTUG.NISABA[1]TN
-c.2.6.9.2,A hymn to Haia for Rīm-Sîn (Rīm-Sîn B),,4,pisaŋ-dub-ba[archivist]N e₂-gal[palace]N an[heaven]N ki[place]N kiŋ₂[work]N kilib₃[entirety]N šid[to-count]V
-c.2.6.9.2,A hymn to Haia for Rīm-Sîn (Rīm-Sîn B),,5,gi[reed]N kug[shining]AJ šu[hand]N ŋal₂[to-be-(located)]V im[clay]N nam-tar[destiny]N gal[to-be-big]V mul[to-radiate]V
-c.2.6.9.2,A hymn to Haia for Rīm-Sîn (Rīm-Sîn B),,6,gal-an-zu[wise]AJ inim[word]N ŋeštug₂[ear]N de₅[to-collect]V ud[day(light)]N An[1]DN kug[shining]AJ
-c.2.6.9.2,A hymn to Haia for Rīm-Sîn (Rīm-Sîn B),,7,kišib-ŋal₂[seal-bearer]N a-a[father]N Enlil[1]DN lu₂[person]N tam[to-be-clean]V e₃[to-go-out-or-in]V erim₃[storehouse]N E-kur[1]TN
-c.2.6.9.2,A hymn to Haia for Rīm-Sîn (Rīm-Sîn B),,8,he₂-du₇[(fitting)-ornament]N eš₃[shrine]N Abzu[1]TN siki[hair]N bar[outside]N la₂[to-hang]V en[lord]N Nudimmud[1]DN
-c.2.6.9.2,A hymn to Haia for Rīm-Sîn (Rīm-Sîn B),,9,Haia[1]DN šag₄-gada-la₂[type-of-priest]N E-unir[1]TN uz-ga[type-of-shrine]N kug[shining]AJ lu[to-be-abundant]V
-c.2.6.9.2,A hymn to Haia for Rīm-Sîn (Rīm-Sîn B),,10,umun₂[knowledge-source]N ak[to-do]V eš₃[shrine]N E-kiš-nu-ŋal[1]TN mu[name]N mah[to-be-majestic]V gal[to-be-big]V
-c.2.6.9.2,A hymn to Haia for Rīm-Sîn (Rīm-Sîn B),,11,šag₄[heart]N inim-ŋal₂[eloquent]AJ ki-sikil[young-woman]N Ningal[1]DN unu₂[(dining)-hall]N gal[to-be-big]V til₃[to-live]V
-c.2.6.9.2,A hymn to Haia for Rīm-Sîn (Rīm-Sîn B),,12,muš₃-me[countenance]N sag₉[to-be-good]V nitalam[spouse]N ki[place]N aŋ₂[to-measure]V Nun-bar-še-gunu[1]DN
-c.2.6.9.2,A hymn to Haia for Rīm-Sîn (Rīm-Sîn B),,13,lu₂[person]N mu[name]N mah[to-be-majestic]V mussa[male-relative-by-marriage]N kur[(mountain)-land]N gal[to-be-big]V a-a[father]N Enlil[1]DN
-c.2.6.9.2,A hymn to Haia for Rīm-Sîn (Rīm-Sîn B),,14,saŋŋa[temple-administrator]N ban₃-da[junior]AJ igi-ŋal₂-tuku[wise]AJ pad₃[to-find]V an[heaven]N ki[place]N
-c.2.6.9.2,A hymn to Haia for Rīm-Sîn (Rīm-Sîn B),,15,gun₂[weight-measure-(load)]N diŋir[deity]N šu[hand]N gid₂[to-be-long]V ma-dam[abundant-yield]N kur[(mountain)-land]N ab[sea]N sud[to-be-distant]V inim[word]N bur₂[to-release]V
-c.2.6.9.2,A hymn to Haia for Rīm-Sîn (Rīm-Sîn B),,16,gal-zu[skilful]AJ me[essence]N mah[to-be-majestic]V nam-nun[princeliness]N u₅[to-ride]V tur₃[animal-stall]N zag[side]N keše₂[to-bind]V
-c.2.6.9.2,A hymn to Haia for Rīm-Sîn (Rīm-Sîn B),,17,šag₄[heart]N daŋal[to-be-wide]V sur[to-drip]V ŋiš-hur[design]N kug[shining]AJ e₂[house(hold)]N Eridug[1]SN šu[hand]N dab₅[to-seize]V
-c.2.6.9.2,A hymn to Haia for Rīm-Sîn (Rīm-Sîn B),,18,Haia[1]DN lu₂[person]N šu-luh[ritual-cleansing]N sikil[to-be-pure]V engur[subterranean-water]N tug₂-ba₁₃[type-of-garment]N tug₂[garment]N la₂[to-hang]V
-c.2.6.9.2,A hymn to Haia for Rīm-Sîn (Rīm-Sîn B),,19,Indagara[1]DN saŋŋa[temple-administrator]N utah[heaven]N kur[(mountain)-land]N ka[mouth]N du₈[to-spread]V diŋir[deity]N
-c.2.6.9.2,A hymn to Haia for Rīm-Sîn (Rīm-Sîn B),,20,šag₄[heart]N dub[tablet]N sud[to-be-distant]V zu[to-know]V galam[to-be-skilful]V ak[to-do]V diŋir[deity]N gal[to-be-big]V
-c.2.6.9.2,A hymn to Haia for Rīm-Sîn (Rīm-Sîn B),,21,šu-nir[(divine)-standard]N gag[peg]N du₃[to-erect]V saŋ[head]N sig₉[to-put]V ki[place]N galam[to-be-skilful]V hur[to-scratch]V kalam[the-Land]N
-c.2.6.9.2,A hymn to Haia for Rīm-Sîn (Rīm-Sîn B),,22,ki[place]N šu[hand]N tag[to-touch]V unu₂[(dining)-hall]N sig₇[to-be-green]V Anšar[1]DN kur[(mountain)-land]N gal[to-be-big]V
-c.2.6.9.2,A hymn to Haia for Rīm-Sîn (Rīm-Sîn B),,23,saŋ[head]N il₂[to-raise]V mah[to-be-majestic]V eš₃[shrine]N Abzu[1]TN dug₄[to-say]V še[to-agree]V
-c.2.6.9.2,A hymn to Haia for Rīm-Sîn (Rīm-Sîn B),,24,lu₂[person]N saŋ[head]N keše₂[to-bind]V ninda[bread]N babbar[white]AJ sikil[to-be-pure]V šu[hand]N dab₅[to-seize]V e₂[house(hold)]N diŋir[deity]N
-c.2.6.9.2,A hymn to Haia for Rīm-Sîn (Rīm-Sîn B),,25,Kusu[1]DN Indagara[1]DN e-ne-ne[they]PD nu[not]NEG an[heaven]N sikil[to-be-pure]V ki[place]N dadag[to-be-bright]V
-c.2.6.9.2,A hymn to Haia for Rīm-Sîn (Rīm-Sîn B),,26,u₂[plant]N gal[to-be-big]V sud[to-be-distant]V An[1]DN Enlil[1]DN unu₂[(dining)-hall]N mah[to-be-majestic]V
-c.2.6.9.2,A hymn to Haia for Rīm-Sîn (Rīm-Sîn B),,27,lu₂[person]N muš₃[flat-space]N kug[shining]AJ igi[eye]N du₈[to-spread]V en[lord]N Nudimmud[1]DN
-c.2.6.9.2,A hymn to Haia for Rīm-Sîn (Rīm-Sîn B),,28,zabar[bronze]N kug[shining]AJ šu[hand]N ŋal₂[to-be-(located)]V šag₄[heart]N hul₂[to-be-happy]V bar[outside]N sig₁₀[to-place]V
-c.2.6.9.2,A hymn to Haia for Rīm-Sîn (Rīm-Sîn B),,29,lugal[king]N nam-mah[majesty]N šir₃[song]N i[to-bring-out]V
-c.2.6.9.2,A hymn to Haia for Rīm-Sîn (Rīm-Sîn B),,30,Haia[1]DN nam-gal[greatness]N gi₁₆-sa[(everlasting)-treasure]N pad₃[to-find]V
-c.2.6.9.2,A hymn to Haia for Rīm-Sîn (Rīm-Sîn B),,31,a-ba[who]PD za[you-(sg.)]PD diŋir[deity]N me[essence]N kug[shining]AJ tum₂[to-be-suitable]V
-c.2.6.9.2,A hymn to Haia for Rīm-Sîn (Rīm-Sîn B),,32,nitalam[spouse]N ki[place]N aŋ₂[to-measure]V ki-sikil[young-woman]N Nisaba[1]DN nin[lady]N gal[to-be-big]V nin[lady]N
-c.2.6.9.2,A hymn to Haia for Rīm-Sîn (Rīm-Sîn B),,33,tud[to-give-birth]V šag₄[heart]N Ninlil[1]DN dam[spouse]N mah[to-be-majestic]V Nunamnir[1]DN
-c.2.6.9.2,A hymn to Haia for Rīm-Sîn (Rīm-Sîn B),,34,barag[dais]N E-kur[1]TN saŋ[head]N il₂[to-raise]V an[heaven]N til₃[to-live]V
-c.2.6.9.2,A hymn to Haia for Rīm-Sîn (Rīm-Sîn B),,35,nam-nin[ladyship]N diŋir[deity]N me-er-ga[first-one]N ak[to-do]V diŋir[deity]N zag[side]N sa₂[to-equal]V tuku[to-have]V
-c.2.6.9.2,A hymn to Haia for Rīm-Sîn (Rīm-Sîn B),,36,za[you-(sg.)]PD ninda₂[breeding-bull]N gal[to-be-big]V ŋalga[reason]N zid[right]AJ pad₃[to-find]V en₃[noun-part-of-multiword-verb]N tar[to-cut]V diŋir[deity]N
-c.2.6.9.2,A hymn to Haia for Rīm-Sîn (Rīm-Sîn B),,37,Haia[1]DN me[essence]N šum₂[to-give]V kiŋ₂[work]N aŋ₂[to-measure]V ki-šu-peš[cult-place]N igi[eye]N zu[to-know]V
-c.2.6.9.2,A hymn to Haia for Rīm-Sîn (Rīm-Sîn B),,38,Enki[1]DN eš₃[shrine]N Abzu[1]TN mu₇-mu₇[incantation]N nam-til₃[life]N rig₇[to-bestow]V
-c.2.6.9.2,A hymn to Haia for Rīm-Sîn (Rīm-Sîn B),,39,en[high-priest(ess)]N ŋi₆-par₄[cloister]N huŋ[to-hire]V saŋ[head]N sig₁₀[to-place]V ŋar[to-place]V
-c.2.6.9.2,A hymn to Haia for Rīm-Sîn (Rīm-Sîn B),,40,sipad[shepherd]N kalam[the-Land]N ŋidru[sceptre]N mah[to-be-majestic]V ud[day(light)]N sud[to-be-distant]V šu[hand]N dab₅[to-seize]V
-c.2.6.9.2,A hymn to Haia for Rīm-Sîn (Rīm-Sîn B),,41,Haia[1]DN diŋir[deity]N kalam[the-Land]N a-ra-zu[supplication]N uŋ₃[people]N šar₂[to-be-numerous]V ŋiš[tree]N tuku[to-have]V
-c.2.6.9.2,A hymn to Haia for Rīm-Sîn (Rīm-Sîn B),,42,za[you-(sg.)]PD diŋir[deity]N gal[to-be-big]V uŋ₃[people]N daŋal[to-be-wide]V šu[hand]N dab₅[to-seize]V
-c.2.6.9.2,A hymn to Haia for Rīm-Sîn (Rīm-Sîn B),,43,a-a[father]N Enki[1]DN abzu[underground-water]N e₃[to-go-out-or-in]V
-c.2.6.9.2,A hymn to Haia for Rīm-Sîn (Rīm-Sîn B),,44,Haia[1]DN nam-gal[greatness]N za[you-(sg.)]PD aŋ₂[to-measure]V
-c.2.6.9.2,A hymn to Haia for Rīm-Sîn (Rīm-Sîn B),,45,uŋ₃[people]N šag₄[heart]N dug₄[to-say]V gu₂[neck]N an[heaven]N zig₃[to-rise]V
-c.2.6.9.2,A hymn to Haia for Rīm-Sîn (Rīm-Sîn B),,46,nam-lu₂-ulu₃[humanity]N ud[day(light)]N asila[rejoicing]N zal[to-pass]V
-c.2.6.9.2,A hymn to Haia for Rīm-Sîn (Rīm-Sîn B),,47,uŋ₃[people]N šar₂[to-be-numerous]V šag₄[heart]N hul₂[to-be-happy]V ud[day(light)]N ul-le₂-a[distant-time]N ak[to-do]V
-c.2.6.9.2,A hymn to Haia for Rīm-Sîn (Rīm-Sîn B),,48,e₂[house(hold)]N diŋir[deity]N gal[to-be-big]V ezen[festival]N ŋar[to-place]V giri₁₇-zal[joy]N du₈[to-spread]V
-c.2.6.9.2,A hymn to Haia for Rīm-Sîn (Rīm-Sîn B),,49,saŋ-kal[foremost]AJ saŋ-kal[foremost]AJ diŋir[deity]N ŋiš-šub-ba[lot]N gal[to-be-big]V uŋ₃[people]N til[to-complete]V
-c.2.6.9.2,A hymn to Haia for Rīm-Sîn (Rīm-Sîn B),,50,igi[eye]N sag₉[to-be-good]V nam-til₃[life]N si[to-fill]V lugal[king]N igi[eye]N zid[right]AJ bar[to-set-aside]V
-c.2.6.9.2,A hymn to Haia for Rīm-Sîn (Rīm-Sîn B),,51,nun[prince]N Rīm-Sîn[1]RN bal[term-(in-office)]N hul₂[to-be-happy]V ud[day(light)]N sud[to-be-distant]V šu[hand]N zid[right]AJ ŋar[to-place]V
-c.2.6.9.2,A hymn to Haia for Rīm-Sîn (Rīm-Sîn B),,52,im[clay]N nam-til₃[life]N du-ri₂[eternity]N kur₂[to-be-different]V mu[year]N gub[to-stand]V
-c.2.6.9.2,A hymn to Haia for Rīm-Sîn (Rīm-Sîn B),,53,sipad[shepherd]N Rīm-Sîn[1]RN nam-en[high-(priestly)-office]N An[1]DN Enlil[1]DN ki[place]N dug₄[to-say]V
-c.2.6.9.2,A hymn to Haia for Rīm-Sîn (Rīm-Sîn B),,54,lu₂[person]N šir₃[song]N za₃-mi₂[praise]N ka[mouth]N dug₃[to-be-good]V
-c.2.6.9.2,A hymn to Haia for Rīm-Sîn (Rīm-Sîn B),,55,Haia[1]DN lu₂[person]N šir₃[song]N za₃-mi₂[praise]N ka[mouth]N dug₃[to-be-good]V
-c.2.6.9.2,A hymn to Haia for Rīm-Sîn (Rīm-Sîn B),,56,en[lord]N an[heaven]N ki[place]N lugal[king]N abzu[underground-water]N za₃-mi₂[praise]N mah[to-be-majestic]V
-c.2.6.9.2,A hymn to Haia for Rīm-Sîn (Rīm-Sîn B),,57,a-a[father]N Enki[1]DN lugal[king]N abzu[underground-water]N za₃-mi₂[praise]N dug₃[to-be-good]V
-c.2.6.9.2,A hymn to Haia for Rīm-Sîn (Rīm-Sîn B),,58,u₁₈-ru[composition-division]N
-c.2.6.9.2,A hymn to Haia for Rīm-Sîn (Rīm-Sîn B),,59,Haia[1]DN diŋir[deity]N kalam[the-Land]N ga-til₃[(offering)-supplication]N ki[place]N aŋ₂[to-measure]V nun[prince]N Rīm-Sîn[1]RN a₂[arm]N bad[to-open]V tal₂[to-be-broad]V me[to-be]V
-c.2.6.9.2,A hymn to Haia for Rīm-Sîn (Rīm-Sîn B),,60,ŋiš-gi₄-ŋal₂[composition-division]N
+c.2.6.9.2,A hymn to Haia for Rīm-Sîn (Rīm-Sîn B),,1,sux:en[lord]N sux:ŋeštug₂[ear]N sux:mah[to-be-majestic]V sux:šu[hand]N sux:du₇[to-be-perfect]V sux:sa₂[advice]N sux:gal[to-be-big]V sux:pad₃[to-find]V
+c.2.6.9.2,A hymn to Haia for Rīm-Sîn (Rīm-Sîn B),,2,sux:Haia[1]DN sux:dub[tablet]N sux:gal[to-be-big]V sux:ha-za[to-hold]V sux:ŋeštug₂[ear]N sux:peš[to-be-thick]V
+c.2.6.9.2,A hymn to Haia for Rīm-Sîn (Rīm-Sîn B),,3,sux:šid-du₃[accountant]N sux:Hal-an-kug[1]TN sux:igi[eye]N sux:zag[side]N sux:til[to-complete]V sux:galam[to-be-skilful]V sux:E-ŊEŠTUG.NISABA[1]TN
+c.2.6.9.2,A hymn to Haia for Rīm-Sîn (Rīm-Sîn B),,4,sux:pisaŋ-dub-ba[archivist]N sux:e₂-gal[palace]N sux:an[heaven]N sux:ki[place]N sux:kiŋ₂[work]N sux:kilib₃[entirety]N sux:šid[to-count]V
+c.2.6.9.2,A hymn to Haia for Rīm-Sîn (Rīm-Sîn B),,5,sux:gi[reed]N sux:kug[shining]AJ sux:šu[hand]N sux:ŋal₂[to-be-(located)]V sux:im[clay]N sux:nam-tar[destiny]N sux:gal[to-be-big]V sux:mul[to-radiate]V
+c.2.6.9.2,A hymn to Haia for Rīm-Sîn (Rīm-Sîn B),,6,sux:gal-an-zu[wise]AJ sux:inim[word]N sux:ŋeštug₂[ear]N sux:de₅[to-collect]V sux:ud[day(light)]N sux:An[1]DN sux:kug[shining]AJ
+c.2.6.9.2,A hymn to Haia for Rīm-Sîn (Rīm-Sîn B),,7,sux:kišib-ŋal₂[seal-bearer]N sux:a-a[father]N sux:Enlil[1]DN sux:lu₂[person]N sux:tam[to-be-clean]V sux:e₃[to-go-out-or-in]V sux:erim₃[storehouse]N sux:E-kur[1]TN
+c.2.6.9.2,A hymn to Haia for Rīm-Sîn (Rīm-Sîn B),,8,sux:he₂-du₇[(fitting)-ornament]N sux:eš₃[shrine]N sux:Abzu[1]TN sux:siki[hair]N sux:bar[outside]N sux:la₂[to-hang]V sux:en[lord]N sux:Nudimmud[1]DN
+c.2.6.9.2,A hymn to Haia for Rīm-Sîn (Rīm-Sîn B),,9,sux:Haia[1]DN sux:šag₄-gada-la₂[type-of-priest]N sux:E-unir[1]TN sux:uz-ga[type-of-shrine]N sux:kug[shining]AJ sux:lu[to-be-abundant]V
+c.2.6.9.2,A hymn to Haia for Rīm-Sîn (Rīm-Sîn B),,10,sux:umun₂[knowledge-source]N sux:ak[to-do]V sux:eš₃[shrine]N sux:E-kiš-nu-ŋal[1]TN sux:mu[name]N sux:mah[to-be-majestic]V sux:gal[to-be-big]V
+c.2.6.9.2,A hymn to Haia for Rīm-Sîn (Rīm-Sîn B),,11,sux:šag₄[heart]N sux:inim-ŋal₂[eloquent]AJ sux:ki-sikil[young-woman]N sux:Ningal[1]DN sux:unu₂[(dining)-hall]N sux:gal[to-be-big]V sux:til₃[to-live]V
+c.2.6.9.2,A hymn to Haia for Rīm-Sîn (Rīm-Sîn B),,12,sux:muš₃-me[countenance]N sux:sag₉[to-be-good]V sux:nitalam[spouse]N sux:ki[place]N sux:aŋ₂[to-measure]V sux:Nun-bar-še-gunu[1]DN
+c.2.6.9.2,A hymn to Haia for Rīm-Sîn (Rīm-Sîn B),,13,sux:lu₂[person]N sux:mu[name]N sux:mah[to-be-majestic]V sux:mussa[male-relative-by-marriage]N sux:kur[(mountain)-land]N sux:gal[to-be-big]V sux:a-a[father]N sux:Enlil[1]DN
+c.2.6.9.2,A hymn to Haia for Rīm-Sîn (Rīm-Sîn B),,14,sux:saŋŋa[temple-administrator]N sux:ban₃-da[junior]AJ sux:igi-ŋal₂-tuku[wise]AJ sux:pad₃[to-find]V sux:an[heaven]N sux:ki[place]N
+c.2.6.9.2,A hymn to Haia for Rīm-Sîn (Rīm-Sîn B),,15,sux:gun₂[weight-measure-(load)]N sux:diŋir[deity]N sux:šu[hand]N sux:gid₂[to-be-long]V sux:ma-dam[abundant-yield]N sux:kur[(mountain)-land]N sux:ab[sea]N sux:sud[to-be-distant]V sux:inim[word]N sux:bur₂[to-release]V
+c.2.6.9.2,A hymn to Haia for Rīm-Sîn (Rīm-Sîn B),,16,sux:gal-zu[skilful]AJ sux:me[essence]N sux:mah[to-be-majestic]V sux:nam-nun[princeliness]N sux:u₅[to-ride]V sux:tur₃[animal-stall]N sux:zag[side]N sux:keše₂[to-bind]V
+c.2.6.9.2,A hymn to Haia for Rīm-Sîn (Rīm-Sîn B),,17,sux:šag₄[heart]N sux:daŋal[to-be-wide]V sux:sur[to-drip]V sux:ŋiš-hur[design]N sux:kug[shining]AJ sux:e₂[house(hold)]N sux:Eridug[1]SN sux:šu[hand]N sux:dab₅[to-seize]V
+c.2.6.9.2,A hymn to Haia for Rīm-Sîn (Rīm-Sîn B),,18,sux:Haia[1]DN sux:lu₂[person]N sux:šu-luh[ritual-cleansing]N sux:sikil[to-be-pure]V sux:engur[subterranean-water]N sux:tug₂-ba₁₃[type-of-garment]N sux:tug₂[garment]N sux:la₂[to-hang]V
+c.2.6.9.2,A hymn to Haia for Rīm-Sîn (Rīm-Sîn B),,19,sux:Indagara[1]DN sux:saŋŋa[temple-administrator]N sux:utah[heaven]N sux:kur[(mountain)-land]N sux:ka[mouth]N sux:du₈[to-spread]V sux:diŋir[deity]N
+c.2.6.9.2,A hymn to Haia for Rīm-Sîn (Rīm-Sîn B),,20,sux:šag₄[heart]N sux:dub[tablet]N sux:sud[to-be-distant]V sux:zu[to-know]V sux:galam[to-be-skilful]V sux:ak[to-do]V sux:diŋir[deity]N sux:gal[to-be-big]V
+c.2.6.9.2,A hymn to Haia for Rīm-Sîn (Rīm-Sîn B),,21,sux:šu-nir[(divine)-standard]N sux:gag[peg]N sux:du₃[to-erect]V sux:saŋ[head]N sux:sig₉[to-put]V sux:ki[place]N sux:galam[to-be-skilful]V sux:hur[to-scratch]V sux:kalam[the-Land]N
+c.2.6.9.2,A hymn to Haia for Rīm-Sîn (Rīm-Sîn B),,22,sux:ki[place]N sux:šu[hand]N sux:tag[to-touch]V sux:unu₂[(dining)-hall]N sux:sig₇[to-be-green]V sux:Anšar[1]DN sux:kur[(mountain)-land]N sux:gal[to-be-big]V
+c.2.6.9.2,A hymn to Haia for Rīm-Sîn (Rīm-Sîn B),,23,sux:saŋ[head]N sux:il₂[to-raise]V sux:mah[to-be-majestic]V sux:eš₃[shrine]N sux:Abzu[1]TN sux:dug₄[to-say]V sux:še[to-agree]V
+c.2.6.9.2,A hymn to Haia for Rīm-Sîn (Rīm-Sîn B),,24,sux:lu₂[person]N sux:saŋ[head]N sux:keše₂[to-bind]V sux:ninda[bread]N sux:babbar[white]AJ sux:sikil[to-be-pure]V sux:šu[hand]N sux:dab₅[to-seize]V sux:e₂[house(hold)]N sux:diŋir[deity]N
+c.2.6.9.2,A hymn to Haia for Rīm-Sîn (Rīm-Sîn B),,25,sux:Kusu[1]DN sux:Indagara[1]DN sux:e-ne-ne[they]PD sux:nu[not]NEG sux:an[heaven]N sux:sikil[to-be-pure]V sux:ki[place]N sux:dadag[to-be-bright]V
+c.2.6.9.2,A hymn to Haia for Rīm-Sîn (Rīm-Sîn B),,26,sux:u₂[plant]N sux:gal[to-be-big]V sux:sud[to-be-distant]V sux:An[1]DN sux:Enlil[1]DN sux:unu₂[(dining)-hall]N sux:mah[to-be-majestic]V
+c.2.6.9.2,A hymn to Haia for Rīm-Sîn (Rīm-Sîn B),,27,sux:lu₂[person]N sux:muš₃[flat-space]N sux:kug[shining]AJ sux:igi[eye]N sux:du₈[to-spread]V sux:en[lord]N sux:Nudimmud[1]DN
+c.2.6.9.2,A hymn to Haia for Rīm-Sîn (Rīm-Sîn B),,28,sux:zabar[bronze]N sux:kug[shining]AJ sux:šu[hand]N sux:ŋal₂[to-be-(located)]V sux:šag₄[heart]N sux:hul₂[to-be-happy]V sux:bar[outside]N sux:sig₁₀[to-place]V
+c.2.6.9.2,A hymn to Haia for Rīm-Sîn (Rīm-Sîn B),,29,sux:lugal[king]N sux:nam-mah[majesty]N sux:šir₃[song]N sux:i[to-bring-out]V
+c.2.6.9.2,A hymn to Haia for Rīm-Sîn (Rīm-Sîn B),,30,sux:Haia[1]DN sux:nam-gal[greatness]N sux:gi₁₆-sa[(everlasting)-treasure]N sux:pad₃[to-find]V
+c.2.6.9.2,A hymn to Haia for Rīm-Sîn (Rīm-Sîn B),,31,sux:a-ba[who]PD sux:za[you-(sg.)]PD sux:diŋir[deity]N sux:me[essence]N sux:kug[shining]AJ sux:tum₂[to-be-suitable]V
+c.2.6.9.2,A hymn to Haia for Rīm-Sîn (Rīm-Sîn B),,32,sux:nitalam[spouse]N sux:ki[place]N sux:aŋ₂[to-measure]V sux:ki-sikil[young-woman]N sux:Nisaba[1]DN sux:nin[lady]N sux:gal[to-be-big]V sux:nin[lady]N
+c.2.6.9.2,A hymn to Haia for Rīm-Sîn (Rīm-Sîn B),,33,sux:tud[to-give-birth]V sux:šag₄[heart]N sux:Ninlil[1]DN sux:dam[spouse]N sux:mah[to-be-majestic]V sux:Nunamnir[1]DN
+c.2.6.9.2,A hymn to Haia for Rīm-Sîn (Rīm-Sîn B),,34,sux:barag[dais]N sux:E-kur[1]TN sux:saŋ[head]N sux:il₂[to-raise]V sux:an[heaven]N sux:til₃[to-live]V
+c.2.6.9.2,A hymn to Haia for Rīm-Sîn (Rīm-Sîn B),,35,sux:nam-nin[ladyship]N sux:diŋir[deity]N sux:me-er-ga[first-one]N sux:ak[to-do]V sux:diŋir[deity]N sux:zag[side]N sux:sa₂[to-equal]V sux:tuku[to-have]V
+c.2.6.9.2,A hymn to Haia for Rīm-Sîn (Rīm-Sîn B),,36,sux:za[you-(sg.)]PD sux:ninda₂[breeding-bull]N sux:gal[to-be-big]V sux:ŋalga[reason]N sux:zid[right]AJ sux:pad₃[to-find]V sux:en₃[noun-part-of-multiword-verb]N sux:tar[to-cut]V sux:diŋir[deity]N
+c.2.6.9.2,A hymn to Haia for Rīm-Sîn (Rīm-Sîn B),,37,sux:Haia[1]DN sux:me[essence]N sux:šum₂[to-give]V sux:kiŋ₂[work]N sux:aŋ₂[to-measure]V sux:ki-šu-peš[cult-place]N sux:igi[eye]N sux:zu[to-know]V
+c.2.6.9.2,A hymn to Haia for Rīm-Sîn (Rīm-Sîn B),,38,sux:Enki[1]DN sux:eš₃[shrine]N sux:Abzu[1]TN sux:mu₇-mu₇[incantation]N sux:nam-til₃[life]N sux:rig₇[to-bestow]V
+c.2.6.9.2,A hymn to Haia for Rīm-Sîn (Rīm-Sîn B),,39,sux:en[high-priest(ess)]N sux:ŋi₆-par₄[cloister]N sux:huŋ[to-hire]V sux:saŋ[head]N sux:sig₁₀[to-place]V sux:ŋar[to-place]V
+c.2.6.9.2,A hymn to Haia for Rīm-Sîn (Rīm-Sîn B),,40,sux:sipad[shepherd]N sux:kalam[the-Land]N sux:ŋidru[sceptre]N sux:mah[to-be-majestic]V sux:ud[day(light)]N sux:sud[to-be-distant]V sux:šu[hand]N sux:dab₅[to-seize]V
+c.2.6.9.2,A hymn to Haia for Rīm-Sîn (Rīm-Sîn B),,41,sux:Haia[1]DN sux:diŋir[deity]N sux:kalam[the-Land]N sux:a-ra-zu[supplication]N sux:uŋ₃[people]N sux:šar₂[to-be-numerous]V sux:ŋiš[tree]N sux:tuku[to-have]V
+c.2.6.9.2,A hymn to Haia for Rīm-Sîn (Rīm-Sîn B),,42,sux:za[you-(sg.)]PD sux:diŋir[deity]N sux:gal[to-be-big]V sux:uŋ₃[people]N sux:daŋal[to-be-wide]V sux:šu[hand]N sux:dab₅[to-seize]V
+c.2.6.9.2,A hymn to Haia for Rīm-Sîn (Rīm-Sîn B),,43,sux:a-a[father]N sux:Enki[1]DN sux:abzu[underground-water]N sux:e₃[to-go-out-or-in]V
+c.2.6.9.2,A hymn to Haia for Rīm-Sîn (Rīm-Sîn B),,44,sux:Haia[1]DN sux:nam-gal[greatness]N sux:za[you-(sg.)]PD sux:aŋ₂[to-measure]V
+c.2.6.9.2,A hymn to Haia for Rīm-Sîn (Rīm-Sîn B),,45,sux:uŋ₃[people]N sux:šag₄[heart]N sux:dug₄[to-say]V sux:gu₂[neck]N sux:an[heaven]N sux:zig₃[to-rise]V
+c.2.6.9.2,A hymn to Haia for Rīm-Sîn (Rīm-Sîn B),,46,sux:nam-lu₂-ulu₃[humanity]N sux:ud[day(light)]N sux:asila[rejoicing]N sux:zal[to-pass]V
+c.2.6.9.2,A hymn to Haia for Rīm-Sîn (Rīm-Sîn B),,47,sux:uŋ₃[people]N sux:šar₂[to-be-numerous]V sux:šag₄[heart]N sux:hul₂[to-be-happy]V sux:ud[day(light)]N sux:ul-le₂-a[distant-time]N sux:ak[to-do]V
+c.2.6.9.2,A hymn to Haia for Rīm-Sîn (Rīm-Sîn B),,48,sux:e₂[house(hold)]N sux:diŋir[deity]N sux:gal[to-be-big]V sux:ezen[festival]N sux:ŋar[to-place]V sux:giri₁₇-zal[joy]N sux:du₈[to-spread]V
+c.2.6.9.2,A hymn to Haia for Rīm-Sîn (Rīm-Sîn B),,49,sux:saŋ-kal[foremost]AJ sux:saŋ-kal[foremost]AJ sux:diŋir[deity]N sux:ŋiš-šub-ba[lot]N sux:gal[to-be-big]V sux:uŋ₃[people]N sux:til[to-complete]V
+c.2.6.9.2,A hymn to Haia for Rīm-Sîn (Rīm-Sîn B),,50,sux:igi[eye]N sux:sag₉[to-be-good]V sux:nam-til₃[life]N sux:si[to-fill]V sux:lugal[king]N sux:igi[eye]N sux:zid[right]AJ sux:bar[to-set-aside]V
+c.2.6.9.2,A hymn to Haia for Rīm-Sîn (Rīm-Sîn B),,51,sux:nun[prince]N sux:Rīm-Sîn[1]RN sux:bal[term-(in-office)]N sux:hul₂[to-be-happy]V sux:ud[day(light)]N sux:sud[to-be-distant]V sux:šu[hand]N sux:zid[right]AJ sux:ŋar[to-place]V
+c.2.6.9.2,A hymn to Haia for Rīm-Sîn (Rīm-Sîn B),,52,sux:im[clay]N sux:nam-til₃[life]N sux:du-ri₂[eternity]N sux:kur₂[to-be-different]V sux:mu[year]N sux:gub[to-stand]V
+c.2.6.9.2,A hymn to Haia for Rīm-Sîn (Rīm-Sîn B),,53,sux:sipad[shepherd]N sux:Rīm-Sîn[1]RN sux:nam-en[high-(priestly)-office]N sux:An[1]DN sux:Enlil[1]DN sux:ki[place]N sux:dug₄[to-say]V
+c.2.6.9.2,A hymn to Haia for Rīm-Sîn (Rīm-Sîn B),,54,sux:lu₂[person]N sux:šir₃[song]N sux:za₃-mi₂[praise]N sux:ka[mouth]N sux:dug₃[to-be-good]V
+c.2.6.9.2,A hymn to Haia for Rīm-Sîn (Rīm-Sîn B),,55,sux:Haia[1]DN sux:lu₂[person]N sux:šir₃[song]N sux:za₃-mi₂[praise]N sux:ka[mouth]N sux:dug₃[to-be-good]V
+c.2.6.9.2,A hymn to Haia for Rīm-Sîn (Rīm-Sîn B),,56,sux:en[lord]N sux:an[heaven]N sux:ki[place]N sux:lugal[king]N sux:abzu[underground-water]N sux:za₃-mi₂[praise]N sux:mah[to-be-majestic]V
+c.2.6.9.2,A hymn to Haia for Rīm-Sîn (Rīm-Sîn B),,57,sux:a-a[father]N sux:Enki[1]DN sux:lugal[king]N sux:abzu[underground-water]N sux:za₃-mi₂[praise]N sux:dug₃[to-be-good]V
+c.2.6.9.2,A hymn to Haia for Rīm-Sîn (Rīm-Sîn B),,58,sux:u₁₈-ru[composition-division]N
+c.2.6.9.2,A hymn to Haia for Rīm-Sîn (Rīm-Sîn B),,59,sux:Haia[1]DN sux:diŋir[deity]N sux:kalam[the-Land]N sux:ga-til₃[(offering)-supplication]N sux:ki[place]N sux:aŋ₂[to-measure]V sux:nun[prince]N sux:Rīm-Sîn[1]RN sux:a₂[arm]N sux:bad[to-open]V sux:tal₂[to-be-broad]V sux:me[to-be]V
+c.2.6.9.2,A hymn to Haia for Rīm-Sîn (Rīm-Sîn B),,60,sux:ŋiš-gi₄-ŋal₂[composition-division]N

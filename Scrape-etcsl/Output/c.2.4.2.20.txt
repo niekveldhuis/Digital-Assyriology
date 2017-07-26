@@ -1,32 +1,32 @@
 id_text,text_name,version,l_no,text
-c.2.4.2.20,A tigi to Ninurta for Šulgi (Šulgi T),,1,en[lord]N nam-ur-saŋ[heroism]N šu[hand]N du₇[to-be-perfect]V ki[place]N aŋ₂[to-measure]V
-c.2.4.2.20,A tigi to Ninurta for Šulgi (Šulgi T),,2,Ninurta[1]DN meš₃[type-of-tree]N pa[branch]N mul[to-radiate]V daŋal[to-be-wide]V
-c.2.4.2.20,A tigi to Ninurta for Šulgi (Šulgi T),,3,tukul[weapon]N me₃[battle]N ak[to-do]V kušum₄[noun-part-of-multiword-verb]N tag[to-touch]V kur[(mountain)-land]N
-c.2.4.2.20,A tigi to Ninurta for Šulgi (Šulgi T),,4,ušum[type-of-snake]N igi[eye]N huš[to-be-reddish]V muš-šag₄-tur₃[horned-viper]N ki-bal[rebel-land]N uš₁₁[(venomous)-spittle]N
-c.2.4.2.20,A tigi to Ninurta for Šulgi (Šulgi T),,5,gaba[chest]N zig₃[to-rise]V piriŋ[lion]N zag[side]N e₃[to-go-out-or-in]V
-c.2.4.2.20,A tigi to Ninurta for Šulgi (Šulgi T),,6,Ninurta[1]DN nun[prince]N gal[to-be-big]V Enki[1]DN
-c.2.4.2.20,A tigi to Ninurta for Šulgi (Šulgi T),,7,lugal[king]N iri[town]N eš₃[shrine]N Nibru[1]SN tir[forest]N
-c.2.4.2.20,A tigi to Ninurta for Šulgi (Šulgi T),,8,E-šu-me-ša[1]TN ki[place]N šu[hand]N
-c.2.4.2.20,A tigi to Ninurta for Šulgi (Šulgi T),,9,en[lord]N nam-lugal[kingship]N šu[hand]N du₇[to-be-perfect]V
-c.2.4.2.20,A tigi to Ninurta for Šulgi (Šulgi T),,10,ad[voice]N gi₄[to-return]V ušumgal[type-of-serpent]N kalam[the-Land]N
-c.2.4.2.20,A tigi to Ninurta for Šulgi (Šulgi T),,11,Ninurta[1]DN bad₃[wall]N gal[to-be-big]V Nibru[1]SN
-c.2.4.2.20,A tigi to Ninurta for Šulgi (Šulgi T),,12,lugal[king]N me[essence]N sag₂[to-scatter]V dug₄[to-say]V ur-saŋ[hero]N
-c.2.4.2.20,A tigi to Ninurta for Šulgi (Šulgi T),,13,piriŋ[lion]N gaba-ŋal₂[forceful]AJ šu[hand]N bar[to-set-aside]V
-c.2.4.2.20,A tigi to Ninurta for Šulgi (Šulgi T),,14,lugal[king]N ŋeštug₂[ear]N daŋal[to-be-wide]V an[heaven]N ki[place]N u₂[plant]N
-c.2.4.2.20,A tigi to Ninurta for Šulgi (Šulgi T),,15,ŋidru[sceptre]N mah[to-be-majestic]V kalam[the-Land]N zag[side]N dib[to-pass]V ki[place]N
-c.2.4.2.20,A tigi to Ninurta for Šulgi (Šulgi T),,16,Ninurta[1]DN lu₂-erim₂[enemy]N ri[to-direct]V
-c.2.4.2.20,A tigi to Ninurta for Šulgi (Šulgi T),,17,sa-gid₂-da[composition-division]N
-c.2.4.2.20,A tigi to Ninurta for Šulgi (Šulgi T),,18,ur-saŋ[hero]N en[lord]N ni₂[self]N er₉[to-be-mighty]V gaba[chest]N zig₃[to-rise]V
-c.2.4.2.20,A tigi to Ninurta for Šulgi (Šulgi T),,19,Ninurta[1]DN ud[storm]N huš[to-be-reddish]V izi[fire]N er₉[to-be-mighty]V
-c.2.4.2.20,A tigi to Ninurta for Šulgi (Šulgi T),,20,ud[storm]N huluh[to-be-frightened]V sumur[to-be-angry]V ki-bal[rebel-land]N piriŋ[lion]N
-c.2.4.2.20,A tigi to Ninurta for Šulgi (Šulgi T),,21,ušum[type-of-snake]N ni₂[fear(someness)]N ri[to-direct]V en[lord]N gaba[chest]N gi₄[to-return]V tuku[to-have]V igi[eye]N
-c.2.4.2.20,A tigi to Ninurta for Šulgi (Šulgi T),,22,lugal[king]N ŋeštug₂[ear]N daŋal[to-be-wide]V rab₃[shackle]N diŋir[deity]N
-c.2.4.2.20,A tigi to Ninurta for Šulgi (Šulgi T),,23,a₂[arm]N mah[to-be-majestic]V šum₂[to-give]V
-c.2.4.2.20,A tigi to Ninurta for Šulgi (Šulgi T),,24,zid[right]AJ Šulgi[1]RN
+c.2.4.2.20,A tigi to Ninurta for Šulgi (Šulgi T),,1,sux:en[lord]N sux:nam-ur-saŋ[heroism]N sux:šu[hand]N sux:du₇[to-be-perfect]V sux:ki[place]N sux:aŋ₂[to-measure]V
+c.2.4.2.20,A tigi to Ninurta for Šulgi (Šulgi T),,2,sux:Ninurta[1]DN sux:meš₃[type-of-tree]N sux:pa[branch]N sux:mul[to-radiate]V sux:daŋal[to-be-wide]V
+c.2.4.2.20,A tigi to Ninurta for Šulgi (Šulgi T),,3,sux:tukul[weapon]N sux:me₃[battle]N sux:ak[to-do]V sux:kušum₄[noun-part-of-multiword-verb]N sux:tag[to-touch]V sux:kur[(mountain)-land]N
+c.2.4.2.20,A tigi to Ninurta for Šulgi (Šulgi T),,4,sux:ušum[type-of-snake]N sux:igi[eye]N sux:huš[to-be-reddish]V sux:muš-šag₄-tur₃[horned-viper]N sux:ki-bal[rebel-land]N sux:uš₁₁[(venomous)-spittle]N
+c.2.4.2.20,A tigi to Ninurta for Šulgi (Šulgi T),,5,sux:gaba[chest]N sux:zig₃[to-rise]V sux:piriŋ[lion]N sux:zag[side]N sux:e₃[to-go-out-or-in]V
+c.2.4.2.20,A tigi to Ninurta for Šulgi (Šulgi T),,6,sux:Ninurta[1]DN sux:nun[prince]N sux:gal[to-be-big]V sux:Enki[1]DN
+c.2.4.2.20,A tigi to Ninurta for Šulgi (Šulgi T),,7,sux:lugal[king]N sux:iri[town]N sux:eš₃[shrine]N sux:Nibru[1]SN sux:tir[forest]N
+c.2.4.2.20,A tigi to Ninurta for Šulgi (Šulgi T),,8,sux:E-šu-me-ša[1]TN sux:ki[place]N sux:šu[hand]N
+c.2.4.2.20,A tigi to Ninurta for Šulgi (Šulgi T),,9,sux:en[lord]N sux:nam-lugal[kingship]N sux:šu[hand]N sux:du₇[to-be-perfect]V
+c.2.4.2.20,A tigi to Ninurta for Šulgi (Šulgi T),,10,sux:ad[voice]N sux:gi₄[to-return]V sux:ušumgal[type-of-serpent]N sux:kalam[the-Land]N
+c.2.4.2.20,A tigi to Ninurta for Šulgi (Šulgi T),,11,sux:Ninurta[1]DN sux:bad₃[wall]N sux:gal[to-be-big]V sux:Nibru[1]SN
+c.2.4.2.20,A tigi to Ninurta for Šulgi (Šulgi T),,12,sux:lugal[king]N sux:me[essence]N sux:sag₂[to-scatter]V sux:dug₄[to-say]V sux:ur-saŋ[hero]N
+c.2.4.2.20,A tigi to Ninurta for Šulgi (Šulgi T),,13,sux:piriŋ[lion]N sux:gaba-ŋal₂[forceful]AJ sux:šu[hand]N sux:bar[to-set-aside]V
+c.2.4.2.20,A tigi to Ninurta for Šulgi (Šulgi T),,14,sux:lugal[king]N sux:ŋeštug₂[ear]N sux:daŋal[to-be-wide]V sux:an[heaven]N sux:ki[place]N sux:u₂[plant]N
+c.2.4.2.20,A tigi to Ninurta for Šulgi (Šulgi T),,15,sux:ŋidru[sceptre]N sux:mah[to-be-majestic]V sux:kalam[the-Land]N sux:zag[side]N sux:dib[to-pass]V sux:ki[place]N
+c.2.4.2.20,A tigi to Ninurta for Šulgi (Šulgi T),,16,sux:Ninurta[1]DN sux:lu₂-erim₂[enemy]N sux:ri[to-direct]V
+c.2.4.2.20,A tigi to Ninurta for Šulgi (Šulgi T),,17,sux:sa-gid₂-da[composition-division]N
+c.2.4.2.20,A tigi to Ninurta for Šulgi (Šulgi T),,18,sux:ur-saŋ[hero]N sux:en[lord]N sux:ni₂[self]N sux:er₉[to-be-mighty]V sux:gaba[chest]N sux:zig₃[to-rise]V
+c.2.4.2.20,A tigi to Ninurta for Šulgi (Šulgi T),,19,sux:Ninurta[1]DN sux:ud[storm]N sux:huš[to-be-reddish]V sux:izi[fire]N sux:er₉[to-be-mighty]V
+c.2.4.2.20,A tigi to Ninurta for Šulgi (Šulgi T),,20,sux:ud[storm]N sux:huluh[to-be-frightened]V sux:sumur[to-be-angry]V sux:ki-bal[rebel-land]N sux:piriŋ[lion]N
+c.2.4.2.20,A tigi to Ninurta for Šulgi (Šulgi T),,21,sux:ušum[type-of-snake]N sux:ni₂[fear(someness)]N sux:ri[to-direct]V sux:en[lord]N sux:gaba[chest]N sux:gi₄[to-return]V sux:tuku[to-have]V sux:igi[eye]N
+c.2.4.2.20,A tigi to Ninurta for Šulgi (Šulgi T),,22,sux:lugal[king]N sux:ŋeštug₂[ear]N sux:daŋal[to-be-wide]V sux:rab₃[shackle]N sux:diŋir[deity]N
+c.2.4.2.20,A tigi to Ninurta for Šulgi (Šulgi T),,23,sux:a₂[arm]N sux:mah[to-be-majestic]V sux:šum₂[to-give]V
+c.2.4.2.20,A tigi to Ninurta for Šulgi (Šulgi T),,24,sux:zid[right]AJ sux:Šulgi[1]RN
 c.2.4.2.20,A tigi to Ninurta for Šulgi (Šulgi T),,25,
-c.2.4.2.20,A tigi to Ninurta for Šulgi (Šulgi T),,26,ni₂-te-a-ni[himself;-herself]PD šag₄[heart]N pad₃[to-find]V
-c.2.4.2.20,A tigi to Ninurta for Šulgi (Šulgi T),,27,Ninurta[1]DN za₃-mi₂[praise]N
-c.2.4.2.20,A tigi to Ninurta for Šulgi (Šulgi T),,28,sa-ŋar-ra[composition-division]N
-c.2.4.2.20,A tigi to Ninurta for Šulgi (Šulgi T),,29,Šulgi[1]RN til₃[to-live]V sud[to-be-distant]V mu[year]N nam-he₂[abundance]N saŋ[head]N rig₇[to-bestow]V
-c.2.4.2.20,A tigi to Ninurta for Šulgi (Šulgi T),,30,ŋiš-gi₄-ŋal₂[composition-division]N
-c.2.4.2.20,A tigi to Ninurta for Šulgi (Šulgi T),,31,tigi[type-of-instrument-and-composition]N Ninurta[1]DN
+c.2.4.2.20,A tigi to Ninurta for Šulgi (Šulgi T),,26,sux:ni₂-te-a-ni[himself;-herself]PD sux:šag₄[heart]N sux:pad₃[to-find]V
+c.2.4.2.20,A tigi to Ninurta for Šulgi (Šulgi T),,27,sux:Ninurta[1]DN sux:za₃-mi₂[praise]N
+c.2.4.2.20,A tigi to Ninurta for Šulgi (Šulgi T),,28,sux:sa-ŋar-ra[composition-division]N
+c.2.4.2.20,A tigi to Ninurta for Šulgi (Šulgi T),,29,sux:Šulgi[1]RN sux:til₃[to-live]V sux:sud[to-be-distant]V sux:mu[year]N sux:nam-he₂[abundance]N sux:saŋ[head]N sux:rig₇[to-bestow]V
+c.2.4.2.20,A tigi to Ninurta for Šulgi (Šulgi T),,30,sux:ŋiš-gi₄-ŋal₂[composition-division]N
+c.2.4.2.20,A tigi to Ninurta for Šulgi (Šulgi T),,31,sux:tigi[type-of-instrument-and-composition]N sux:Ninurta[1]DN

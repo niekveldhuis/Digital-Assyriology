@@ -1,24 +1,24 @@
 id_text,text_name,version,l_no,text
-c.4.08.04,A balbale to Inana (Dumuzid-Inana D),,1,di[to-go]V di[to-go]V
-c.4.08.04,A balbale to Inana (Dumuzid-Inana D),,2,e₂[house(hold)]N di[to-go]V di[to-go]V
-c.4.08.04,A balbale to Inana (Dumuzid-Inana D),,3,Inana[1]DN i-bi₂[eye]N bar[to-set-aside]V
-c.4.08.04,A balbale to Inana (Dumuzid-Inana D),,4,šeš[brother]N ta[what]PD dug₄[to-say]V tah[to-add]V
-c.4.08.04,A balbale to Inana (Dumuzid-Inana D),,5,šag₄[heart]N ki-ig[place]N aŋ₂[to-measure]V hi-li[attractiveness]N aŋ₂[thing]N ku₇-ku₇[to-be-sweet]V
-c.4.08.04,A balbale to Inana (Dumuzid-Inana D),,6,kug[shining]AJ Inana[1]DN aŋ₂[thing]N ba[to-allot]V
-c.4.08.04,A balbale to Inana (Dumuzid-Inana D),,7,ki[place]N i-bi₂[eye]N mar[to-place]V
-c.4.08.04,A balbale to Inana (Dumuzid-Inana D),,8,mu-lu[person]N ki-ig[place]N aŋ₂[to-measure]V gaba[chest]N de₅[to-collect]V
-c.4.08.04,A balbale to Inana (Dumuzid-Inana D),,9,hi-li[attractiveness]N te[to-approach]V dili[single]AJ hul₂[to-be-happy]V
-c.4.08.04,A balbale to Inana (Dumuzid-Inana D),,10,šeš[brother]N e₂[house(hold)]N kur₉[to-enter]V
-c.4.08.04,A balbale to Inana (Dumuzid-Inana D),,11,mu-nu₂[bed]N lal₃[syrup]N ta-hab₂[to-thicken?]V nu₂[to-lie-down]V
-c.4.08.04,A balbale to Inana (Dumuzid-Inana D),,12,ze₂-eb[to-be-good]V kal[to-be-rare]V ša₃-ab[heart]N nu₂[to-lie-down]V
-c.4.08.04,A balbale to Inana (Dumuzid-Inana D),,13,dili[single]AJ eme[tongue]N ak[to-do]V dili[single]AJ
-c.4.08.04,A balbale to Inana (Dumuzid-Inana D),,14,šeš[brother]N i-bi₂[eye]N sag₉[to-be-good]V 50[50]NU ak[to-do]V
-c.4.08.04,A balbale to Inana (Dumuzid-Inana D),,15,lu₂[person]N sig₉[to-put]V gub[to-stand]V
-c.4.08.04,A balbale to Inana (Dumuzid-Inana D),,16,ki[place]N tuku₄[to-shake]V sig₉[to-be-silent]V ŋar[to-place]V
-c.4.08.04,A balbale to Inana (Dumuzid-Inana D),,17,šeš[brother]N ib₂[hip]N šu[hand]N gub[to-stand]V
-c.4.08.04,A balbale to Inana (Dumuzid-Inana D),,18,ze₂-eb[to-be-good]V kal[to-be-rare]V ud[day(light)]N zal[to-pass]V
-c.4.08.04,A balbale to Inana (Dumuzid-Inana D),,19,šu[hand]N ba[to-allot]V nin₉[sister]N šu[hand]N ba[to-allot]V
-c.4.08.04,A balbale to Inana (Dumuzid-Inana D),,20,ŋen[to-go]V nin₉[sister]N ki[place]N aŋ₂[to-measure]V e₂-gal[palace]N ŋen[to-go]V
-c.4.08.04,A balbale to Inana (Dumuzid-Inana D),,21,igi[eye]N ad-da[father]N dumu[child]N tur[to-be-small]V me[to-be]V
-c.4.08.04,A balbale to Inana (Dumuzid-Inana D),,22,Bau[1]DN lu₂[person]N zu[to-know]V šu[hand]N bar[to-set-aside]V
-c.4.08.04,A balbale to Inana (Dumuzid-Inana D),,23,bal-bal-e[type-of-composition]N Inana[1]DN
+c.4.08.04,A balbale to Inana (Dumuzid-Inana D),,1,sux-x-emesal:di[to-go]V sux-x-emesal:di[to-go]V
+c.4.08.04,A balbale to Inana (Dumuzid-Inana D),,2,sux:e₂[house(hold)]N sux-x-emesal:di[to-go]V sux-x-emesal:di[to-go]V
+c.4.08.04,A balbale to Inana (Dumuzid-Inana D),,3,sux-x-emesal:Inana[1]DN sux-x-emesal:i-bi₂[eye]N sux:bar[to-set-aside]V
+c.4.08.04,A balbale to Inana (Dumuzid-Inana D),,4,sux:šeš[brother]N sux-x-emesal:ta[what]PD sux:dug₄[to-say]V sux:tah[to-add]V
+c.4.08.04,A balbale to Inana (Dumuzid-Inana D),,5,sux:šag₄[heart]N sux-x-emesal:ki-ig[place]N sux:aŋ₂[to-measure]V sux:hi-li[attractiveness]N sux-x-emesal:aŋ₂[thing]N sux:ku₇-ku₇[to-be-sweet]V
+c.4.08.04,A balbale to Inana (Dumuzid-Inana D),,6,sux:kug[shining]AJ sux-x-emesal:Inana[1]DN sux-x-emesal:aŋ₂[thing]N sux:ba[to-allot]V
+c.4.08.04,A balbale to Inana (Dumuzid-Inana D),,7,sux:ki[place]N sux-x-emesal:i-bi₂[eye]N sux-x-emesal:mar[to-place]V
+c.4.08.04,A balbale to Inana (Dumuzid-Inana D),,8,sux-x-emesal:mu-lu[person]N sux-x-emesal:ki-ig[place]N sux:aŋ₂[to-measure]V sux:gaba[chest]N sux:de₅[to-collect]V
+c.4.08.04,A balbale to Inana (Dumuzid-Inana D),,9,sux:hi-li[attractiveness]N sux:te[to-approach]V sux:dili[single]AJ sux:hul₂[to-be-happy]V
+c.4.08.04,A balbale to Inana (Dumuzid-Inana D),,10,sux:šeš[brother]N sux:e₂[house(hold)]N sux:kur₉[to-enter]V
+c.4.08.04,A balbale to Inana (Dumuzid-Inana D),,11,sux-x-emesal:mu-nu₂[bed]N sux:lal₃[syrup]N sux:ta-hab₂[to-thicken?]V sux:nu₂[to-lie-down]V
+c.4.08.04,A balbale to Inana (Dumuzid-Inana D),,12,sux-x-emesal:ze₂-eb[to-be-good]V sux:kal[to-be-rare]V sux-x-emesal:ša₃-ab[heart]N sux:nu₂[to-lie-down]V
+c.4.08.04,A balbale to Inana (Dumuzid-Inana D),,13,sux:dili[single]AJ sux:eme[tongue]N sux:ak[to-do]V sux:dili[single]AJ
+c.4.08.04,A balbale to Inana (Dumuzid-Inana D),,14,sux:šeš[brother]N sux-x-emesal:i-bi₂[eye]N sux:sag₉[to-be-good]V sux:50[50]NU sux:ak[to-do]V
+c.4.08.04,A balbale to Inana (Dumuzid-Inana D),,15,sux:lu₂[person]N sux:sig₉[to-put]V sux:gub[to-stand]V
+c.4.08.04,A balbale to Inana (Dumuzid-Inana D),,16,sux:ki[place]N sux:tuku₄[to-shake]V sux:sig₉[to-be-silent]V sux:ŋar[to-place]V
+c.4.08.04,A balbale to Inana (Dumuzid-Inana D),,17,sux:šeš[brother]N sux:ib₂[hip]N sux:šu[hand]N sux:gub[to-stand]V
+c.4.08.04,A balbale to Inana (Dumuzid-Inana D),,18,sux-x-emesal:ze₂-eb[to-be-good]V sux:kal[to-be-rare]V sux:ud[day(light)]N sux:zal[to-pass]V
+c.4.08.04,A balbale to Inana (Dumuzid-Inana D),,19,sux:šu[hand]N sux:ba[to-allot]V sux:nin₉[sister]N sux:šu[hand]N sux:ba[to-allot]V
+c.4.08.04,A balbale to Inana (Dumuzid-Inana D),,20,sux:ŋen[to-go]V sux:nin₉[sister]N sux:ki[place]N sux:aŋ₂[to-measure]V sux:e₂-gal[palace]N sux:ŋen[to-go]V
+c.4.08.04,A balbale to Inana (Dumuzid-Inana D),,21,sux:igi[eye]N sux:ad-da[father]N sux:dumu[child]N sux:tur[to-be-small]V sux:me[to-be]V
+c.4.08.04,A balbale to Inana (Dumuzid-Inana D),,22,sux:Bau[1]DN sux:lu₂[person]N sux:zu[to-know]V sux:šu[hand]N sux:bar[to-set-aside]V
+c.4.08.04,A balbale to Inana (Dumuzid-Inana D),,23,sux:bal-bal-e[type-of-composition]N sux:Inana[1]DN

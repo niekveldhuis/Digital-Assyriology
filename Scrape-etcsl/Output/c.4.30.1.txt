@@ -1,18 +1,18 @@
 id_text,text_name,version,l_no,text
-c.4.30.1,A balbale to Šara (Šara A),,30,si[horn]N
-c.4.30.1,A balbale to Šara (Šara A),,31,si[brilliance]N mah[to-be-majestic]V nun[prince]N
-c.4.30.1,A balbale to Šara (Šara A),,32,Šara[1]DN šir₃[song]N me-te[(fitting)-attribute]N ŋal₂[to-be-(located)]V
-c.4.30.1,A balbale to Šara (Šara A),,33,Šara[1]DN me[essence]N kal[to-be-rare]V a-a[father]N An[1]DN tud[to-give-birth]V
-c.4.30.1,A balbale to Šara (Šara A),,34,ama[mother]N ugu[to-give-birth]V kug[shining]AJ Inana[1]DN
-c.4.30.1,A balbale to Šara (Šara A),,35,kug[shining]AJ dur₂[rump]N ŋar[to-place]V
-c.4.30.1,A balbale to Šara (Šara A),,36,nu-u₈-gig[high-status-woman]N
-c.4.30.1,A balbale to Šara (Šara A),,37,DU[DU]V
-c.4.30.1,A balbale to Šara (Šara A),,38,mu[name]N dug₃[to-be-good]V sa₄[to-call]V
-c.4.30.1,A balbale to Šara (Šara A),,39,hul₂[to-be-happy]V
-c.4.30.1,A balbale to Šara (Šara A),,40,til₃[to-live]V en[lord]N šag₄[heart]N dalla[to-be-bright]V e₃[to-go-out-or-in]V
-c.4.30.1,A balbale to Šara (Šara A),,41,an[heaven]N
-c.4.30.1,A balbale to Šara (Šara A),,42,Šara[1]DN
-c.4.30.1,A balbale to Šara (Šara A),,43,dug₃[to-be-good]V kug[shining]AJ u₃-gul[prayer]N ŋar[to-place]V
-c.4.30.1,A balbale to Šara (Šara A),,44,dumu-gir₁₅[citizen]N gal-di[important]AJ kug[shining]AJ
-c.4.30.1,A balbale to Šara (Šara A),,45,eš₃[shrine]N E-mah[1]TN ud[day(light)]N e₃[to-go-out-or-in]V
-c.4.30.1,A balbale to Šara (Šara A),,46,bal-bal-e[type-of-composition]N Šara[1]DN
+c.4.30.1,A balbale to Šara (Šara A),,30,sux:si[horn]N
+c.4.30.1,A balbale to Šara (Šara A),,31,sux:si[brilliance]N sux:mah[to-be-majestic]V sux:nun[prince]N
+c.4.30.1,A balbale to Šara (Šara A),,32,sux:Šara[1]DN sux:šir₃[song]N sux:me-te[(fitting)-attribute]N sux:ŋal₂[to-be-(located)]V
+c.4.30.1,A balbale to Šara (Šara A),,33,sux:Šara[1]DN sux:me[essence]N sux:kal[to-be-rare]V sux:a-a[father]N sux:An[1]DN sux:tud[to-give-birth]V
+c.4.30.1,A balbale to Šara (Šara A),,34,sux:ama[mother]N sux:ugu[to-give-birth]V sux:kug[shining]AJ sux:Inana[1]DN
+c.4.30.1,A balbale to Šara (Šara A),,35,sux:kug[shining]AJ sux:dur₂[rump]N sux:ŋar[to-place]V
+c.4.30.1,A balbale to Šara (Šara A),,36,sux:nu-u₈-gig[high-status-woman]N
+c.4.30.1,A balbale to Šara (Šara A),,37,sux:DU[DU]V
+c.4.30.1,A balbale to Šara (Šara A),,38,sux:mu[name]N sux:dug₃[to-be-good]V sux:sa₄[to-call]V
+c.4.30.1,A balbale to Šara (Šara A),,39,sux:hul₂[to-be-happy]V
+c.4.30.1,A balbale to Šara (Šara A),,40,sux:til₃[to-live]V sux:en[lord]N sux:šag₄[heart]N sux:dalla[to-be-bright]V sux:e₃[to-go-out-or-in]V
+c.4.30.1,A balbale to Šara (Šara A),,41,sux:an[heaven]N
+c.4.30.1,A balbale to Šara (Šara A),,42,sux:Šara[1]DN
+c.4.30.1,A balbale to Šara (Šara A),,43,sux:dug₃[to-be-good]V sux:kug[shining]AJ sux:u₃-gul[prayer]N sux:ŋar[to-place]V
+c.4.30.1,A balbale to Šara (Šara A),,44,sux:dumu-gir₁₅[citizen]N sux:gal-di[important]AJ sux:kug[shining]AJ
+c.4.30.1,A balbale to Šara (Šara A),,45,sux:eš₃[shrine]N sux:E-mah[1]TN sux:ud[day(light)]N sux:e₃[to-go-out-or-in]V
+c.4.30.1,A balbale to Šara (Šara A),,46,sux:bal-bal-e[type-of-composition]N sux:Šara[1]DN

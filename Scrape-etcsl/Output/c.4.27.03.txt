@@ -1,63 +1,63 @@
 id_text,text_name,version,l_no,text
 c.4.27.03,A hymn to Ninurta (Ninurta C),,1,
-c.4.27.03,A hymn to Ninurta (Ninurta C),,2,dumu[child]N nir-ŋal₂[authoritative]AJ Enlil[1]DN
-c.4.27.03,A hymn to Ninurta (Ninurta C),,3,ur-saŋ[hero]N pa[branch]N e₃[to-go-out-or-in]V lu₂[person]N
-c.4.27.03,A hymn to Ninurta (Ninurta C),,4,e₂[house(hold)]N Enlil[1]DN
-c.4.27.03,A hymn to Ninurta (Ninurta C),,5,na-me[any]PD X[X]V
-c.4.27.03,A hymn to Ninurta (Ninurta C),,6,E-kur[1]TN ki-bal[rebel-land]N
-c.4.27.03,A hymn to Ninurta (Ninurta C),,7,en[lord]N
-c.4.27.03,A hymn to Ninurta (Ninurta C),,8,nu-banda₃[overseer]N
-c.4.27.03,A hymn to Ninurta (Ninurta C),,9,lugal[king]N Urim[1]SN
-c.4.27.03,A hymn to Ninurta (Ninurta C),,10,lugal[king]N Adab[1]SN
-c.4.27.03,A hymn to Ninurta (Ninurta C),,11,lugal[king]N
-c.4.27.03,A hymn to Ninurta (Ninurta C),,12,E-kur[1]TN
+c.4.27.03,A hymn to Ninurta (Ninurta C),,2,sux:dumu[child]N sux:nir-ŋal₂[authoritative]AJ sux:Enlil[1]DN
+c.4.27.03,A hymn to Ninurta (Ninurta C),,3,sux:ur-saŋ[hero]N sux:pa[branch]N sux:e₃[to-go-out-or-in]V sux:lu₂[person]N
+c.4.27.03,A hymn to Ninurta (Ninurta C),,4,sux:e₂[house(hold)]N sux:Enlil[1]DN
+c.4.27.03,A hymn to Ninurta (Ninurta C),,5,sux:na-me[any]PD sux:X[X]V
+c.4.27.03,A hymn to Ninurta (Ninurta C),,6,sux:E-kur[1]TN sux:ki-bal[rebel-land]N
+c.4.27.03,A hymn to Ninurta (Ninurta C),,7,sux:en[lord]N
+c.4.27.03,A hymn to Ninurta (Ninurta C),,8,sux:nu-banda₃[overseer]N
+c.4.27.03,A hymn to Ninurta (Ninurta C),,9,sux:lugal[king]N sux:Urim[1]SN
+c.4.27.03,A hymn to Ninurta (Ninurta C),,10,sux:lugal[king]N sux:Adab[1]SN
+c.4.27.03,A hymn to Ninurta (Ninurta C),,11,sux:lugal[king]N
+c.4.27.03,A hymn to Ninurta (Ninurta C),,12,sux:E-kur[1]TN
 c.4.27.03,A hymn to Ninurta (Ninurta C),,13,
-c.4.27.03,A hymn to Ninurta (Ninurta C),,14,Ninlil[1]DN
-c.4.27.03,A hymn to Ninurta (Ninurta C),,15,Enlil[1]DN
-c.4.27.03,A hymn to Ninurta (Ninurta C),,16,an[heaven]N ki[place]N ama[mother]N tud[to-give-birth]V
-c.4.27.03,A hymn to Ninurta (Ninurta C),,17,Enlil[1]DN
-c.4.27.03,A hymn to Ninurta (Ninurta C),,18,ur-saŋ[hero]N e₃[to-go-out-or-in]V
-c.4.27.03,A hymn to Ninurta (Ninurta C),,19,šag₄[heart]N
-c.4.27.03,A hymn to Ninurta (Ninurta C),,20,Zababa[1]DN
-c.4.27.03,A hymn to Ninurta (Ninurta C),,21,ur-saŋ[hero]N
-c.4.27.03,A hymn to Ninurta (Ninurta C),,42,Ninurta[1]DN ensi₂[(city)-ruler]N gal[to-be-big]V Enlil[1]DN
-c.4.27.03,A hymn to Ninurta (Ninurta C),,43,Ninnibru[1]DN dumu[child]N ki[place]N aŋ₂[to-measure]V An[1]DN igi[eye]N sag₉[to-be-good]V
-c.4.27.03,A hymn to Ninurta (Ninurta C),,48,nitalam[spouse]N ki[place]N aŋ₂[to-measure]V Ninnibru[1]DN egir₂[princess]N mah[to-be-majestic]V sag₉[to-be-good]V
-c.4.27.03,A hymn to Ninurta (Ninurta C),,49,Ninurta[1]DN en[lord]N diŋir[deity]N E-šu-me-ša[1]TN he₂-du₇[(fitting)-ornament]N
-c.4.27.03,A hymn to Ninurta (Ninurta C),,50,a-a[father]N Enlil[1]DN mi₂[(loving)-care]N zid[right]AJ ar₂[praise]N dug₄[to-say]V
-c.4.27.03,A hymn to Ninurta (Ninurta C),,51,Ninurta[1]DN ni₂-te-a-ni[himself;-herself]PD piriŋ[lion]N piriŋ[lion]N TE[TE]V
-c.4.27.03,A hymn to Ninurta (Ninurta C),,52,ŋe₂₆[I]PD ur-saŋ[hero]N Enlil[1]DN
-c.4.27.03,A hymn to Ninurta (Ninurta C),,53,inim[word]N zu₂[tooth]N keše₂[to-bind]V Nibru[1]SN
-c.4.27.03,A hymn to Ninurta (Ninurta C),,54,mušen[bird]N šub[to-fall]V
-c.4.27.03,A hymn to Ninurta (Ninurta C),,55,a-a[father]N Enlil[1]DN lu₂[person]N šag₄[heart]N
-c.4.27.03,A hymn to Ninurta (Ninurta C),,56,ur-saŋ[hero]N ama[mother]N Ninlil[1]DN ki[place]N aŋ₂[to-measure]V ŋe₂₆[I]PD
-c.4.27.03,A hymn to Ninurta (Ninurta C),,57,kur[(mountain)-land]N tud[to-give-birth]V kur[(mountain)-land]N a₂-ŋal₂[strong]AJ
-c.4.27.03,A hymn to Ninurta (Ninurta C),,58,Ninurta[1]DN šeg₁₁[loud-noise]N zu[to-know]V kur[(mountain)-land]N tuku₄[to-shake]V
-c.4.27.03,A hymn to Ninurta (Ninurta C),,59,a-ma-ru[flood]N ulu₃[south-wind-(storm)]N nim[lightning]N ŋir₂[to-flash]V
-c.4.27.03,A hymn to Ninurta (Ninurta C),,60,Enlil[1]DN Ninurta[1]DN bar[to-set-aside]V
-c.4.27.03,A hymn to Ninurta (Ninurta C),,61,Ninurta[1]DN iri[town]N eš₃[shrine]N Nibru[1]SN bar[to-set-aside]V
-c.4.27.03,A hymn to Ninurta (Ninurta C),,62,ki[place]N aŋ₂[to-measure]V me[to-be]V ki[place]N aŋ₂[to-measure]V me[to-be]V
-c.4.27.03,A hymn to Ninurta (Ninurta C),,63,en[lord]N E-kur[1]TN ki[place]N aŋ₂[to-measure]V me[to-be]V
-c.4.27.03,A hymn to Ninurta (Ninurta C),,64,niŋ₂-nam[anything]PD šag₄[heart]N al[desire]N dug₄[to-say]V
-c.4.27.03,A hymn to Ninurta (Ninurta C),,65,niŋ₂[thing]N kal[to-be-rare]V šag₄[heart]N guru₇[to-heap-up]V
-c.4.27.03,A hymn to Ninurta (Ninurta C),,66,ur-saŋ[hero]N a₂[arm]N zid[right]AJ Enlil[1]DN šul[young-man]N gaba-ri[equal]N tuku[to-have]V
-c.4.27.03,A hymn to Ninurta (Ninurta C),,67,Ninurta[1]DN a₂[arm]N zid[right]AJ Enlil[1]DN šul[young-man]N gaba-ri[equal]N tuku[to-have]V
-c.4.27.03,A hymn to Ninurta (Ninurta C),,68,saŋ[head]N 50[50]NU nir-ŋal₂[authoritative]AJ tu₁₁[to-strike-down]V kur[(mountain)-land]N gu₂-erim₂[enemy]N šub[to-fall]V
-c.4.27.03,A hymn to Ninurta (Ninurta C),,69,piriŋ[lion]N sumur[to-be-angry]V huš[to-be-reddish]V erim₂[enemy]N ka[mouth]N ša-an-ša-ša[verb-part-of-multiword-verb]V
-c.4.27.03,A hymn to Ninurta (Ninurta C),,70,Ninurta[1]DN piriŋ[lion]N sumur[to-be-angry]V huš[to-be-reddish]V erim₂[enemy]N ka[mouth]N ša-an-ša-ša[verb-part-of-multiword-verb]V
-c.4.27.03,A hymn to Ninurta (Ninurta C),,71,ud[storm]N hul-ŋal₂[evil]AJ ŋen[to-go]V ki-bal[rebel-land]N ma-da[land]N
-c.4.27.03,A hymn to Ninurta (Ninurta C),,72,ur-saŋ[hero]N pap-šeš[foremost]N a-a[father]N
-c.4.27.03,A hymn to Ninurta (Ninurta C),,73,en[lord]N Ninurta[1]DN pap-šeš[foremost]N a-a[father]N
-c.4.27.03,A hymn to Ninurta (Ninurta C),,74,ur-saŋ[hero]N me[to-be]V ur-saŋ[hero]N me[to-be]V ur-saŋ[hero]N kur[(mountain)-land]N e₃[to-go-out-or-in]V
-c.4.27.03,A hymn to Ninurta (Ninurta C),,75,ur-saŋ[hero]N Ninurta[1]DN me[to-be]V ur-saŋ[hero]N kur[(mountain)-land]N e₃[to-go-out-or-in]V
-c.4.27.03,A hymn to Ninurta (Ninurta C),,76,ze₂[bile]N mah[to-be-majestic]V dili[single]AJ ur-saŋ[hero]N
-c.4.27.03,A hymn to Ninurta (Ninurta C),,77,e-ne[he;-she]PD diŋir[deity]N dirig[to-be-superior]V il₂[to-raise]V
-c.4.27.03,A hymn to Ninurta (Ninurta C),,78,lugal[king]N an[heaven]N mah[to-be-majestic]V ki[place]N mah[to-be-majestic]V nir-ŋal₂[authoritative]AJ ki[place]N ud[day(light)]N e₃[to-go-out-or-in]V
-c.4.27.03,A hymn to Ninurta (Ninurta C),,79,Ninurta[1]DN an[heaven]N mah[to-be-majestic]V ki[place]N mah[to-be-majestic]V nir-ŋal₂[authoritative]AJ ki[place]N ud[day(light)]N e₃[to-go-out-or-in]V
-c.4.27.03,A hymn to Ninurta (Ninurta C),,80,ur-saŋ[hero]N kalag[to-be-strong]V Ninurta[1]DN a-a[father]N Enlil[1]DN za₃-mi₂[praise]N
-c.4.27.03,A hymn to Ninurta (Ninurta C),,81,ŋeštug₂[ear]N en[lord]N nam[destiny]N tar[to-cut]V
-c.4.27.03,A hymn to Ninurta (Ninurta C),,82,a-a[father]N Enki[1]DN za₃-mi₂[praise]N
-c.4.27.03,A hymn to Ninurta (Ninurta C),,83,ki[place]N Anuna[1]DN
-c.4.27.03,A hymn to Ninurta (Ninurta C),,84,Ninurta[1]DN ensi₂[(city)-ruler]N gal[to-be-big]V Enlil[1]DN
-c.4.27.03,A hymn to Ninurta (Ninurta C),,85,Ninnibru[1]DN dumu[child]N ki[place]N aŋ₂[to-measure]V An[1]DN
-c.4.27.03,A hymn to Ninurta (Ninurta C),,86,igi[eye]N sag₉[to-be-good]V
+c.4.27.03,A hymn to Ninurta (Ninurta C),,14,sux:Ninlil[1]DN
+c.4.27.03,A hymn to Ninurta (Ninurta C),,15,sux:Enlil[1]DN
+c.4.27.03,A hymn to Ninurta (Ninurta C),,16,sux:an[heaven]N sux:ki[place]N sux:ama[mother]N sux:tud[to-give-birth]V
+c.4.27.03,A hymn to Ninurta (Ninurta C),,17,sux:Enlil[1]DN
+c.4.27.03,A hymn to Ninurta (Ninurta C),,18,sux:ur-saŋ[hero]N sux:e₃[to-go-out-or-in]V
+c.4.27.03,A hymn to Ninurta (Ninurta C),,19,sux:šag₄[heart]N
+c.4.27.03,A hymn to Ninurta (Ninurta C),,20,sux:Zababa[1]DN
+c.4.27.03,A hymn to Ninurta (Ninurta C),,21,sux:ur-saŋ[hero]N
+c.4.27.03,A hymn to Ninurta (Ninurta C),,42,sux:Ninurta[1]DN sux:ensi₂[(city)-ruler]N sux:gal[to-be-big]V sux:Enlil[1]DN
+c.4.27.03,A hymn to Ninurta (Ninurta C),,43,sux:Ninnibru[1]DN sux:dumu[child]N sux:ki[place]N sux:aŋ₂[to-measure]V sux:An[1]DN sux:igi[eye]N sux:sag₉[to-be-good]V
+c.4.27.03,A hymn to Ninurta (Ninurta C),,48,sux:nitalam[spouse]N sux:ki[place]N sux:aŋ₂[to-measure]V sux:Ninnibru[1]DN sux:egir₂[princess]N sux:mah[to-be-majestic]V sux:sag₉[to-be-good]V
+c.4.27.03,A hymn to Ninurta (Ninurta C),,49,sux:Ninurta[1]DN sux:en[lord]N sux:diŋir[deity]N sux:E-šu-me-ša[1]TN sux:he₂-du₇[(fitting)-ornament]N
+c.4.27.03,A hymn to Ninurta (Ninurta C),,50,sux:a-a[father]N sux:Enlil[1]DN sux:mi₂[(loving)-care]N sux:zid[right]AJ sux:ar₂[praise]N sux:dug₄[to-say]V
+c.4.27.03,A hymn to Ninurta (Ninurta C),,51,sux:Ninurta[1]DN sux:ni₂-te-a-ni[himself;-herself]PD sux:piriŋ[lion]N sux:piriŋ[lion]N sux:TE[TE]V
+c.4.27.03,A hymn to Ninurta (Ninurta C),,52,sux:ŋe₂₆[I]PD sux:ur-saŋ[hero]N sux:Enlil[1]DN
+c.4.27.03,A hymn to Ninurta (Ninurta C),,53,sux:inim[word]N sux:zu₂[tooth]N sux:keše₂[to-bind]V sux:Nibru[1]SN
+c.4.27.03,A hymn to Ninurta (Ninurta C),,54,sux:mušen[bird]N sux:šub[to-fall]V
+c.4.27.03,A hymn to Ninurta (Ninurta C),,55,sux:a-a[father]N sux:Enlil[1]DN sux:lu₂[person]N sux:šag₄[heart]N
+c.4.27.03,A hymn to Ninurta (Ninurta C),,56,sux:ur-saŋ[hero]N sux:ama[mother]N sux:Ninlil[1]DN sux:ki[place]N sux:aŋ₂[to-measure]V sux:ŋe₂₆[I]PD
+c.4.27.03,A hymn to Ninurta (Ninurta C),,57,sux:kur[(mountain)-land]N sux:tud[to-give-birth]V sux:kur[(mountain)-land]N sux:a₂-ŋal₂[strong]AJ
+c.4.27.03,A hymn to Ninurta (Ninurta C),,58,sux:Ninurta[1]DN sux:šeg₁₁[loud-noise]N sux:zu[to-know]V sux:kur[(mountain)-land]N sux:tuku₄[to-shake]V
+c.4.27.03,A hymn to Ninurta (Ninurta C),,59,sux:a-ma-ru[flood]N sux:ulu₃[south-wind-(storm)]N sux:nim[lightning]N sux:ŋir₂[to-flash]V
+c.4.27.03,A hymn to Ninurta (Ninurta C),,60,sux:Enlil[1]DN sux:Ninurta[1]DN sux:bar[to-set-aside]V
+c.4.27.03,A hymn to Ninurta (Ninurta C),,61,sux:Ninurta[1]DN sux:iri[town]N sux:eš₃[shrine]N sux:Nibru[1]SN sux:bar[to-set-aside]V
+c.4.27.03,A hymn to Ninurta (Ninurta C),,62,sux:ki[place]N sux:aŋ₂[to-measure]V sux:me[to-be]V sux:ki[place]N sux:aŋ₂[to-measure]V sux:me[to-be]V
+c.4.27.03,A hymn to Ninurta (Ninurta C),,63,sux:en[lord]N sux:E-kur[1]TN sux:ki[place]N sux:aŋ₂[to-measure]V sux:me[to-be]V
+c.4.27.03,A hymn to Ninurta (Ninurta C),,64,sux:niŋ₂-nam[anything]PD sux:šag₄[heart]N sux:al[desire]N sux:dug₄[to-say]V
+c.4.27.03,A hymn to Ninurta (Ninurta C),,65,sux:niŋ₂[thing]N sux:kal[to-be-rare]V sux:šag₄[heart]N sux:guru₇[to-heap-up]V
+c.4.27.03,A hymn to Ninurta (Ninurta C),,66,sux:ur-saŋ[hero]N sux:a₂[arm]N sux:zid[right]AJ sux:Enlil[1]DN sux:šul[young-man]N sux:gaba-ri[equal]N sux:tuku[to-have]V
+c.4.27.03,A hymn to Ninurta (Ninurta C),,67,sux:Ninurta[1]DN sux:a₂[arm]N sux:zid[right]AJ sux:Enlil[1]DN sux:šul[young-man]N sux:gaba-ri[equal]N sux:tuku[to-have]V
+c.4.27.03,A hymn to Ninurta (Ninurta C),,68,sux:saŋ[head]N sux:50[50]NU sux:nir-ŋal₂[authoritative]AJ sux:tu₁₁[to-strike-down]V sux:kur[(mountain)-land]N sux:gu₂-erim₂[enemy]N sux:šub[to-fall]V
+c.4.27.03,A hymn to Ninurta (Ninurta C),,69,sux:piriŋ[lion]N sux:sumur[to-be-angry]V sux:huš[to-be-reddish]V sux:erim₂[enemy]N sux:ka[mouth]N sux:ša-an-ša-ša[verb-part-of-multiword-verb]V
+c.4.27.03,A hymn to Ninurta (Ninurta C),,70,sux:Ninurta[1]DN sux:piriŋ[lion]N sux:sumur[to-be-angry]V sux:huš[to-be-reddish]V sux:erim₂[enemy]N sux:ka[mouth]N sux:ša-an-ša-ša[verb-part-of-multiword-verb]V
+c.4.27.03,A hymn to Ninurta (Ninurta C),,71,sux:ud[storm]N sux:hul-ŋal₂[evil]AJ sux:ŋen[to-go]V sux:ki-bal[rebel-land]N sux:ma-da[land]N
+c.4.27.03,A hymn to Ninurta (Ninurta C),,72,sux:ur-saŋ[hero]N sux:pap-šeš[foremost]N sux:a-a[father]N
+c.4.27.03,A hymn to Ninurta (Ninurta C),,73,sux:en[lord]N sux:Ninurta[1]DN sux:pap-šeš[foremost]N sux:a-a[father]N
+c.4.27.03,A hymn to Ninurta (Ninurta C),,74,sux:ur-saŋ[hero]N sux:me[to-be]V sux:ur-saŋ[hero]N sux:me[to-be]V sux:ur-saŋ[hero]N sux:kur[(mountain)-land]N sux:e₃[to-go-out-or-in]V
+c.4.27.03,A hymn to Ninurta (Ninurta C),,75,sux:ur-saŋ[hero]N sux:Ninurta[1]DN sux:me[to-be]V sux:ur-saŋ[hero]N sux:kur[(mountain)-land]N sux:e₃[to-go-out-or-in]V
+c.4.27.03,A hymn to Ninurta (Ninurta C),,76,sux:ze₂[bile]N sux:mah[to-be-majestic]V sux:dili[single]AJ sux:ur-saŋ[hero]N
+c.4.27.03,A hymn to Ninurta (Ninurta C),,77,sux:e-ne[he;-she]PD sux:diŋir[deity]N sux:dirig[to-be-superior]V sux:il₂[to-raise]V
+c.4.27.03,A hymn to Ninurta (Ninurta C),,78,sux:lugal[king]N sux:an[heaven]N sux:mah[to-be-majestic]V sux:ki[place]N sux:mah[to-be-majestic]V sux:nir-ŋal₂[authoritative]AJ sux:ki[place]N sux:ud[day(light)]N sux:e₃[to-go-out-or-in]V
+c.4.27.03,A hymn to Ninurta (Ninurta C),,79,sux:Ninurta[1]DN sux:an[heaven]N sux:mah[to-be-majestic]V sux:ki[place]N sux:mah[to-be-majestic]V sux:nir-ŋal₂[authoritative]AJ sux:ki[place]N sux:ud[day(light)]N sux:e₃[to-go-out-or-in]V
+c.4.27.03,A hymn to Ninurta (Ninurta C),,80,sux:ur-saŋ[hero]N sux:kalag[to-be-strong]V sux:Ninurta[1]DN sux:a-a[father]N sux:Enlil[1]DN sux:za₃-mi₂[praise]N
+c.4.27.03,A hymn to Ninurta (Ninurta C),,81,sux:ŋeštug₂[ear]N sux:en[lord]N sux:nam[destiny]N sux:tar[to-cut]V
+c.4.27.03,A hymn to Ninurta (Ninurta C),,82,sux:a-a[father]N sux:Enki[1]DN sux:za₃-mi₂[praise]N
+c.4.27.03,A hymn to Ninurta (Ninurta C),,83,sux:ki[place]N sux:Anuna[1]DN
+c.4.27.03,A hymn to Ninurta (Ninurta C),,84,sux:Ninurta[1]DN sux:ensi₂[(city)-ruler]N sux:gal[to-be-big]V sux:Enlil[1]DN
+c.4.27.03,A hymn to Ninurta (Ninurta C),,85,sux:Ninnibru[1]DN sux:dumu[child]N sux:ki[place]N sux:aŋ₂[to-measure]V sux:An[1]DN
+c.4.27.03,A hymn to Ninurta (Ninurta C),,86,sux:igi[eye]N sux:sag₉[to-be-good]V

@@ -1,59 +1,59 @@
 id_text,text_name,version,l_no,text
-c.2.3.1,An adab to Bau for Luma (Luma A),,1,dumu[child]N An[1]DN an[heaven]N gal[to-be-big]V ki[place]N gal[to-be-big]V šag₄[heart]N kug[shining]AJ pad₃[to-find]V
-c.2.3.1,An adab to Bau for Luma (Luma A),,2,nam-nin[ladyship]N kalam[the-Land]N tum₂[to-be-suitable]V
-c.2.3.1,An adab to Bau for Luma (Luma A),,3,Bau[1]DN dumu[child]N An[1]DN an[heaven]N gal[to-be-big]V ki[place]N gal[to-be-big]V
-c.2.3.1,An adab to Bau for Luma (Luma A),,4,šag₄[heart]N kug[shining]AJ pad₃[to-find]V
-c.2.3.1,An adab to Bau for Luma (Luma A),,5,nam-nin[ladyship]N kalam[the-Land]N tum₂[to-be-suitable]V
-c.2.3.1,An adab to Bau for Luma (Luma A),,6,Enlil[1]DN E-kur[1]TN za-gin₃[lapis-lazuli]N
-c.2.3.1,An adab to Bau for Luma (Luma A),,7,ki-sikil[young-woman]N ama[mother]N Bau[1]DN igi[eye]N zid[right]AJ bar[to-set-aside]V
-c.2.3.1,An adab to Bau for Luma (Luma A),,8,en[lord]N Ninŋirsu[1]DN gal[to-be-big]V du₇[to-be-perfect]V
-c.2.3.1,An adab to Bau for Luma (Luma A),,9,kur[(mountain)-land]N gal[to-be-big]V Enlil[1]DN E-kur[1]TN za-gin₃[lapis-lazuli]N
-c.2.3.1,An adab to Bau for Luma (Luma A),,10,ki-sikil[young-woman]N ama[mother]N Bau[1]DN igi[eye]N zid[right]AJ bar[to-set-aside]V
-c.2.3.1,An adab to Bau for Luma (Luma A),,11,en[lord]N Ninŋirsu[1]DN gal[to-be-big]V du₇[to-be-perfect]V
-c.2.3.1,An adab to Bau for Luma (Luma A),,12,E-tar-sirsir[1]TN An[1]DN ŋar[to-place]V
-c.2.3.1,An adab to Bau for Luma (Luma A),,13,nam[destiny]N kur[(mountain)-land]N tar[to-cut]V
-c.2.3.1,An adab to Bau for Luma (Luma A),,14,nin[lady]N ka-aš[decision]N bar[to-set-aside]V di[(law)suit]N kud[to-cut]V
-c.2.3.1,An adab to Bau for Luma (Luma A),,15,Bau[1]DN E-tar-sirsir[1]TN an[heaven]N ŋar[to-place]V
-c.2.3.1,An adab to Bau for Luma (Luma A),,16,nam[destiny]N kur[(mountain)-land]N tar[to-cut]V
-c.2.3.1,An adab to Bau for Luma (Luma A),,17,Bau[1]DN ka-aš[decision]N bar[to-set-aside]V di[(law)suit]N kud[to-cut]V
-c.2.3.1,An adab to Bau for Luma (Luma A),,18,lamma[guardian-deity]N kisal[courtyard]N Iri-kug[1]SN
-c.2.3.1,An adab to Bau for Luma (Luma A),,19,saŋ[head]N gig₂[to-be-black]V si[horn]N sa₂[to-equal]V
-c.2.3.1,An adab to Bau for Luma (Luma A),,20,Bau[1]DN lamma[guardian-deity]N kisal[courtyard]N Iri-kug[1]SN
-c.2.3.1,An adab to Bau for Luma (Luma A),,21,saŋ[head]N gig₂[to-be-black]V si[horn]N sa₂[to-equal]V
-c.2.3.1,An adab to Bau for Luma (Luma A),,22,nin[lady]N dug₄[to-say]V ki[place]N ŋar[to-place]V
-c.2.3.1,An adab to Bau for Luma (Luma A),,23,Bau[1]DN dug₄[to-say]V ki[place]N ŋar[to-place]V
-c.2.3.1,An adab to Bau for Luma (Luma A),,24,ki[place]N Lagaš[1]SN ki-tuš[dwelling-place]N kug[shining]AJ me[essence]N sikil[to-be-pure]V
-c.2.3.1,An adab to Bau for Luma (Luma A),,25,lugal[king]N hul₂[to-be-happy]V ŋal₂[to-be-(located)]V
-c.2.3.1,An adab to Bau for Luma (Luma A),,26,nin[lady]N lugal[king]N ŋal₂[to-be-(located)]V
-c.2.3.1,An adab to Bau for Luma (Luma A),,27,Bau[1]DN ki[place]N Lagaš[1]SN ki-tuš[dwelling-place]N kug[shining]AJ me[essence]N sikil[to-be-pure]V
-c.2.3.1,An adab to Bau for Luma (Luma A),,28,lugal[king]N hul₂[to-be-happy]V ŋal₂[to-be-(located)]V
-c.2.3.1,An adab to Bau for Luma (Luma A),,29,Bau[1]DN Luma[1]RN ŋal₂[to-be-(located)]V
-c.2.3.1,An adab to Bau for Luma (Luma A),,30,inim[word]N kug[shining]AJ giri₁₇[nose]N šu[hand]N ŋal₂[to-be-(located)]V
-c.2.3.1,An adab to Bau for Luma (Luma A),,31,sa-gid₂-da[composition-division]N
-c.2.3.1,An adab to Bau for Luma (Luma A),,32,nin[lady]N si[horn]N du₇[to-be-perfect]V Bau[1]DN niŋ₂[thing]N lu₂[person]N zu[to-know]V
-c.2.3.1,An adab to Bau for Luma (Luma A),,33,dumu[child]N An[1]DN An[1]DN teš₂[unity]N ŋal₂[to-be-(located)]V mah-di[illustrious]AJ
-c.2.3.1,An adab to Bau for Luma (Luma A),,34,ŋiš-gi₄-ŋal₂[composition-division]N
-c.2.3.1,An adab to Bau for Luma (Luma A),,35,nin[lady]N dug₄[to-say]V zid[right]AJ
-c.2.3.1,An adab to Bau for Luma (Luma A),,36,inim[word]N mah[to-be-majestic]V niŋ₂[thing]N silig[to-cease]V
-c.2.3.1,An adab to Bau for Luma (Luma A),,37,Bau[1]DN dug₄[to-say]V zid[right]AJ
-c.2.3.1,An adab to Bau for Luma (Luma A),,38,inim[word]N mah[to-be-majestic]V niŋ₂[thing]N silig[to-cease]V
-c.2.3.1,An adab to Bau for Luma (Luma A),,39,inim[word]N kug[shining]AJ diŋir[deity]N ŋal₂[to-be-(located)]V
-c.2.3.1,An adab to Bau for Luma (Luma A),,40,lugal[king]N ud[day(light)]N e₃[to-go-out-or-in]V
-c.2.3.1,An adab to Bau for Luma (Luma A),,41,Bau[1]DN inim[word]N kug[shining]AJ diŋir[deity]N ŋal₂[to-be-(located)]V
-c.2.3.1,An adab to Bau for Luma (Luma A),,42,lugal[king]N Luma[1]RN ud[day(light)]N e₃[to-go-out-or-in]V
-c.2.3.1,An adab to Bau for Luma (Luma A),,43,saŋ-ki[forehead]N ki[place]N hul₂[to-be-happy]V
-c.2.3.1,An adab to Bau for Luma (Luma A),,44,lugal[king]N ud[day(light)]N e₃[to-go-out-or-in]V
-c.2.3.1,An adab to Bau for Luma (Luma A),,45,Bau[1]DN saŋ-ki[forehead]N ki[place]N hul₂[to-be-happy]V
-c.2.3.1,An adab to Bau for Luma (Luma A),,46,lugal[king]N Luma[1]RN ud[day(light)]N e₃[to-go-out-or-in]V
-c.2.3.1,An adab to Bau for Luma (Luma A),,47,inim[word]N ki[place]N dug₃[to-be-good]V sa₂[to-equal]V
-c.2.3.1,An adab to Bau for Luma (Luma A),,48,lugal[king]N ud[day(light)]N e₃[to-go-out-or-in]V
-c.2.3.1,An adab to Bau for Luma (Luma A),,49,Bau[1]DN inim[word]N ki[place]N dug₃[to-be-good]V sa₂[to-equal]V
-c.2.3.1,An adab to Bau for Luma (Luma A),,50,lugal[king]N Luma[1]RN ud[day(light)]N e₃[to-go-out-or-in]V
-c.2.3.1,An adab to Bau for Luma (Luma A),,51,Luma[1]RN lugal[king]N an[heaven]N sahar[earth]N
-c.2.3.1,An adab to Bau for Luma (Luma A),,52,mu[name]N mah[to-be-majestic]V šum₂[to-give]V inim[word]N zid[right]AJ dug₄[to-say]V
-c.2.3.1,An adab to Bau for Luma (Luma A),,53,Bau[1]DN Luma[1]RN lugal[king]N an[heaven]N sahar[earth]N
-c.2.3.1,An adab to Bau for Luma (Luma A),,54,mu[name]N mah[to-be-majestic]V šum₂[to-give]V inim[word]N zid[right]AJ dug₄[to-say]V
-c.2.3.1,An adab to Bau for Luma (Luma A),,55,nin[lady]N iri[town]N ki[place]N aŋ₂[to-measure]V ni₂-te-a-ni[himself;-herself]PD pa[branch]N e₃[to-go-out-or-in]V
-c.2.3.1,An adab to Bau for Luma (Luma A),,56,Bau[1]DN nin[lady]N iri[town]N ki[place]N aŋ₂[to-measure]V ni₂-te-a-ni[himself;-herself]PD pa[branch]N e₃[to-go-out-or-in]V
-c.2.3.1,An adab to Bau for Luma (Luma A),,57,lugal[king]N ki[place]N kug[shining]AJ mi₂[(loving)-care]N zid[right]AJ dug₄[to-say]V
-c.2.3.1,An adab to Bau for Luma (Luma A),,58,a-da-ab[type-of-drum-and-composition]N Bau[1]DN
+c.2.3.1,An adab to Bau for Luma (Luma A),,1,sux:dumu[child]N sux:An[1]DN sux:an[heaven]N sux:gal[to-be-big]V sux:ki[place]N sux:gal[to-be-big]V sux:šag₄[heart]N sux:kug[shining]AJ sux:pad₃[to-find]V
+c.2.3.1,An adab to Bau for Luma (Luma A),,2,sux:nam-nin[ladyship]N sux:kalam[the-Land]N sux:tum₂[to-be-suitable]V
+c.2.3.1,An adab to Bau for Luma (Luma A),,3,sux:Bau[1]DN sux:dumu[child]N sux:An[1]DN sux:an[heaven]N sux:gal[to-be-big]V sux:ki[place]N sux:gal[to-be-big]V
+c.2.3.1,An adab to Bau for Luma (Luma A),,4,sux:šag₄[heart]N sux:kug[shining]AJ sux:pad₃[to-find]V
+c.2.3.1,An adab to Bau for Luma (Luma A),,5,sux:nam-nin[ladyship]N sux:kalam[the-Land]N sux:tum₂[to-be-suitable]V
+c.2.3.1,An adab to Bau for Luma (Luma A),,6,sux:Enlil[1]DN sux:E-kur[1]TN sux:za-gin₃[lapis-lazuli]N
+c.2.3.1,An adab to Bau for Luma (Luma A),,7,sux:ki-sikil[young-woman]N sux:ama[mother]N sux:Bau[1]DN sux:igi[eye]N sux:zid[right]AJ sux:bar[to-set-aside]V
+c.2.3.1,An adab to Bau for Luma (Luma A),,8,sux:en[lord]N sux:Ninŋirsu[1]DN sux:gal[to-be-big]V sux:du₇[to-be-perfect]V
+c.2.3.1,An adab to Bau for Luma (Luma A),,9,sux:kur[(mountain)-land]N sux:gal[to-be-big]V sux:Enlil[1]DN sux:E-kur[1]TN sux:za-gin₃[lapis-lazuli]N
+c.2.3.1,An adab to Bau for Luma (Luma A),,10,sux:ki-sikil[young-woman]N sux:ama[mother]N sux:Bau[1]DN sux:igi[eye]N sux:zid[right]AJ sux:bar[to-set-aside]V
+c.2.3.1,An adab to Bau for Luma (Luma A),,11,sux:en[lord]N sux:Ninŋirsu[1]DN sux:gal[to-be-big]V sux:du₇[to-be-perfect]V
+c.2.3.1,An adab to Bau for Luma (Luma A),,12,sux:E-tar-sirsir[1]TN sux:An[1]DN sux:ŋar[to-place]V
+c.2.3.1,An adab to Bau for Luma (Luma A),,13,sux:nam[destiny]N sux:kur[(mountain)-land]N sux:tar[to-cut]V
+c.2.3.1,An adab to Bau for Luma (Luma A),,14,sux:nin[lady]N sux:ka-aš[decision]N sux:bar[to-set-aside]V sux:di[(law)suit]N sux:kud[to-cut]V
+c.2.3.1,An adab to Bau for Luma (Luma A),,15,sux:Bau[1]DN sux:E-tar-sirsir[1]TN sux:an[heaven]N sux:ŋar[to-place]V
+c.2.3.1,An adab to Bau for Luma (Luma A),,16,sux:nam[destiny]N sux:kur[(mountain)-land]N sux:tar[to-cut]V
+c.2.3.1,An adab to Bau for Luma (Luma A),,17,sux:Bau[1]DN sux:ka-aš[decision]N sux:bar[to-set-aside]V sux:di[(law)suit]N sux:kud[to-cut]V
+c.2.3.1,An adab to Bau for Luma (Luma A),,18,sux:lamma[guardian-deity]N sux:kisal[courtyard]N sux:Iri-kug[1]SN
+c.2.3.1,An adab to Bau for Luma (Luma A),,19,sux:saŋ[head]N sux:gig₂[to-be-black]V sux:si[horn]N sux:sa₂[to-equal]V
+c.2.3.1,An adab to Bau for Luma (Luma A),,20,sux:Bau[1]DN sux:lamma[guardian-deity]N sux:kisal[courtyard]N sux:Iri-kug[1]SN
+c.2.3.1,An adab to Bau for Luma (Luma A),,21,sux:saŋ[head]N sux:gig₂[to-be-black]V sux:si[horn]N sux:sa₂[to-equal]V
+c.2.3.1,An adab to Bau for Luma (Luma A),,22,sux:nin[lady]N sux:dug₄[to-say]V sux:ki[place]N sux:ŋar[to-place]V
+c.2.3.1,An adab to Bau for Luma (Luma A),,23,sux:Bau[1]DN sux:dug₄[to-say]V sux:ki[place]N sux:ŋar[to-place]V
+c.2.3.1,An adab to Bau for Luma (Luma A),,24,sux:ki[place]N sux:Lagaš[1]SN sux:ki-tuš[dwelling-place]N sux:kug[shining]AJ sux:me[essence]N sux:sikil[to-be-pure]V
+c.2.3.1,An adab to Bau for Luma (Luma A),,25,sux:lugal[king]N sux:hul₂[to-be-happy]V sux:ŋal₂[to-be-(located)]V
+c.2.3.1,An adab to Bau for Luma (Luma A),,26,sux:nin[lady]N sux:lugal[king]N sux:ŋal₂[to-be-(located)]V
+c.2.3.1,An adab to Bau for Luma (Luma A),,27,sux:Bau[1]DN sux:ki[place]N sux:Lagaš[1]SN sux:ki-tuš[dwelling-place]N sux:kug[shining]AJ sux:me[essence]N sux:sikil[to-be-pure]V
+c.2.3.1,An adab to Bau for Luma (Luma A),,28,sux:lugal[king]N sux:hul₂[to-be-happy]V sux:ŋal₂[to-be-(located)]V
+c.2.3.1,An adab to Bau for Luma (Luma A),,29,sux:Bau[1]DN sux:Luma[1]RN sux:ŋal₂[to-be-(located)]V
+c.2.3.1,An adab to Bau for Luma (Luma A),,30,sux:inim[word]N sux:kug[shining]AJ sux:giri₁₇[nose]N sux:šu[hand]N sux:ŋal₂[to-be-(located)]V
+c.2.3.1,An adab to Bau for Luma (Luma A),,31,sux:sa-gid₂-da[composition-division]N
+c.2.3.1,An adab to Bau for Luma (Luma A),,32,sux:nin[lady]N sux:si[horn]N sux:du₇[to-be-perfect]V sux:Bau[1]DN sux:niŋ₂[thing]N sux:lu₂[person]N sux:zu[to-know]V
+c.2.3.1,An adab to Bau for Luma (Luma A),,33,sux:dumu[child]N sux:An[1]DN sux:An[1]DN sux:teš₂[unity]N sux:ŋal₂[to-be-(located)]V sux:mah-di[illustrious]AJ
+c.2.3.1,An adab to Bau for Luma (Luma A),,34,sux:ŋiš-gi₄-ŋal₂[composition-division]N
+c.2.3.1,An adab to Bau for Luma (Luma A),,35,sux:nin[lady]N sux:dug₄[to-say]V sux:zid[right]AJ
+c.2.3.1,An adab to Bau for Luma (Luma A),,36,sux:inim[word]N sux:mah[to-be-majestic]V sux:niŋ₂[thing]N sux:silig[to-cease]V
+c.2.3.1,An adab to Bau for Luma (Luma A),,37,sux:Bau[1]DN sux:dug₄[to-say]V sux:zid[right]AJ
+c.2.3.1,An adab to Bau for Luma (Luma A),,38,sux:inim[word]N sux:mah[to-be-majestic]V sux:niŋ₂[thing]N sux:silig[to-cease]V
+c.2.3.1,An adab to Bau for Luma (Luma A),,39,sux:inim[word]N sux:kug[shining]AJ sux:diŋir[deity]N sux:ŋal₂[to-be-(located)]V
+c.2.3.1,An adab to Bau for Luma (Luma A),,40,sux:lugal[king]N sux:ud[day(light)]N sux:e₃[to-go-out-or-in]V
+c.2.3.1,An adab to Bau for Luma (Luma A),,41,sux:Bau[1]DN sux:inim[word]N sux:kug[shining]AJ sux:diŋir[deity]N sux:ŋal₂[to-be-(located)]V
+c.2.3.1,An adab to Bau for Luma (Luma A),,42,sux:lugal[king]N sux:Luma[1]RN sux:ud[day(light)]N sux:e₃[to-go-out-or-in]V
+c.2.3.1,An adab to Bau for Luma (Luma A),,43,sux:saŋ-ki[forehead]N sux:ki[place]N sux:hul₂[to-be-happy]V
+c.2.3.1,An adab to Bau for Luma (Luma A),,44,sux:lugal[king]N sux:ud[day(light)]N sux:e₃[to-go-out-or-in]V
+c.2.3.1,An adab to Bau for Luma (Luma A),,45,sux:Bau[1]DN sux:saŋ-ki[forehead]N sux:ki[place]N sux:hul₂[to-be-happy]V
+c.2.3.1,An adab to Bau for Luma (Luma A),,46,sux:lugal[king]N sux:Luma[1]RN sux:ud[day(light)]N sux:e₃[to-go-out-or-in]V
+c.2.3.1,An adab to Bau for Luma (Luma A),,47,sux:inim[word]N sux:ki[place]N sux:dug₃[to-be-good]V sux:sa₂[to-equal]V
+c.2.3.1,An adab to Bau for Luma (Luma A),,48,sux:lugal[king]N sux:ud[day(light)]N sux:e₃[to-go-out-or-in]V
+c.2.3.1,An adab to Bau for Luma (Luma A),,49,sux:Bau[1]DN sux:inim[word]N sux:ki[place]N sux:dug₃[to-be-good]V sux:sa₂[to-equal]V
+c.2.3.1,An adab to Bau for Luma (Luma A),,50,sux:lugal[king]N sux:Luma[1]RN sux:ud[day(light)]N sux:e₃[to-go-out-or-in]V
+c.2.3.1,An adab to Bau for Luma (Luma A),,51,sux:Luma[1]RN sux:lugal[king]N sux:an[heaven]N sux:sahar[earth]N
+c.2.3.1,An adab to Bau for Luma (Luma A),,52,sux:mu[name]N sux:mah[to-be-majestic]V sux:šum₂[to-give]V sux:inim[word]N sux:zid[right]AJ sux:dug₄[to-say]V
+c.2.3.1,An adab to Bau for Luma (Luma A),,53,sux:Bau[1]DN sux:Luma[1]RN sux:lugal[king]N sux:an[heaven]N sux:sahar[earth]N
+c.2.3.1,An adab to Bau for Luma (Luma A),,54,sux:mu[name]N sux:mah[to-be-majestic]V sux:šum₂[to-give]V sux:inim[word]N sux:zid[right]AJ sux:dug₄[to-say]V
+c.2.3.1,An adab to Bau for Luma (Luma A),,55,sux:nin[lady]N sux:iri[town]N sux:ki[place]N sux:aŋ₂[to-measure]V sux:ni₂-te-a-ni[himself;-herself]PD sux:pa[branch]N sux:e₃[to-go-out-or-in]V
+c.2.3.1,An adab to Bau for Luma (Luma A),,56,sux:Bau[1]DN sux:nin[lady]N sux:iri[town]N sux:ki[place]N sux:aŋ₂[to-measure]V sux:ni₂-te-a-ni[himself;-herself]PD sux:pa[branch]N sux:e₃[to-go-out-or-in]V
+c.2.3.1,An adab to Bau for Luma (Luma A),,57,sux:lugal[king]N sux:ki[place]N sux:kug[shining]AJ sux:mi₂[(loving)-care]N sux:zid[right]AJ sux:dug₄[to-say]V
+c.2.3.1,An adab to Bau for Luma (Luma A),,58,sux:a-da-ab[type-of-drum-and-composition]N sux:Bau[1]DN

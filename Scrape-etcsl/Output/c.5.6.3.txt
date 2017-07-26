@@ -1,112 +1,112 @@
 id_text,text_name,version,l_no,text
-c.5.6.3,The farmer's instructions,,1,Ud-ul-uru[1]PN dumu[child]N na[advice]N de₅[to-collect]V
-c.5.6.3,The farmer's instructions,,2,a-šag₄[field]N dib[to-pass]V
-c.5.6.3,The farmer's instructions,,3,eg₂[embankment]N pa₅[canal]N du₆[(ruin)-mound]N du₈[to-spread]V igi[eye]N kar₂[to-blow]V
-c.5.6.3,The farmer's instructions,,4,a-šag₄[field]N a[water]N de₂[to-pour]V a[water]N šag₄[heart]N il₂[to-raise]V
-c.5.6.3,The farmer's instructions,,5,ud[day(light)]N a[water]N ed₃[to-go-down-or-up]V
-c.5.6.3,The farmer's instructions,,6,a-šag₄[field]N ki[place]N duru₅[to-be-wet]V en-nu-uŋ₃[guard]N ak[to-do]V ki-še-er[limit]N tuku[to-have]V
-c.5.6.3,The farmer's instructions,,7,gud[bull]N suhub₂[designation-of-ox]N ŋiri₃[foot]N zukum[to-tread-(down)]V
-c.5.6.3,The farmer's instructions,,8,u₂-saga₁₁[plant-bundle]N ze₂-er[to-tear-out]V a-šag₄[field]N ki-ŋar[area]N dug₄[to-say]V
-c.5.6.3,The farmer's instructions,,9,10[10]NU giŋ₄[type-of-axe]N sal[to-be-thin]V 2/3[2/3]NU ma-na[weight-measure]N sa₂[to-equal]V
-c.5.6.3,The farmer's instructions,,10,al-šub[type-of-hoe]N umbin[horny-outgrowth]N gud[bull]N šu₂[to-cover]V sa[net]N la₂[to-hang]V
-c.5.6.3,The farmer's instructions,,11,ki[place]N ka[mouth]N sal[to-be-thin]V u₂-tag[maul?]N tag[to-touch]V
-c.5.6.3,The farmer's instructions,,12,gu₂[neck]N a-šag₄[field]N ub[corner]N 4[4]NU al[hoe]N niŋin₂[to-go-around]V
-c.5.6.3,The farmer's instructions,,13,en-na[as-long-as]C a-šag₄[field]N šeŋ₆[to-be-hot]V teš₂[unity]N sig₁₀[to-place]V
-c.5.6.3,The farmer's instructions,,14,šu-kar₂[implement]N sa[sinew]N gi₄[to-return]V
-c.5.6.3,The farmer's instructions,,15,šudul[yoke]N a₂-šita₄[equipment]N keše₂[to-bind]V
-c.5.6.3,The farmer's instructions,,16,usan₃[whip]N gibil[to-be-new]V gag[peg]N la₂[to-hang]V
-c.5.6.3,The farmer's instructions,,17,usan₃[whip]N sumun[to-be-old]V mud[stump-(handle)]N la₂[to-hang]V
-c.5.6.3,The farmer's instructions,,18,dumu[child]N gašam[(expert)-craftsman]N dug₃[to-be-good]V ak[to-do]V
-c.5.6.3,The farmer's instructions,,19,giŋ₄[type-of-axe]N bulug[sharp-object]N šum-me[saw]N šu-kar₂[implement]N a₂[arm]N si[horn]N sa₂[to-equal]V
-c.5.6.3,The farmer's instructions,,20,saŋ-keše₂[type-of-strap]N bar-ed₃-de₃[type-of-strap]N ka-du₃[wrapping]N usan₃[whip]N saŋ[head]N ha-za[to-hold]V
-c.5.6.3,The farmer's instructions,,21,ba-an-du₈[type-of-container]N kab₂[gauge]N dug₄[to-say]V ak[to-do]V a₂[arm]N kalag[to-be-strong]V ak[to-do]V
-c.5.6.3,The farmer's instructions,,22,a₂-aš₂[requirement]N a-šag₄[field]N da[side]N ŋal₂[to-be-(located)]V kiŋ₂[work]N igi[eye]N kar₂[to-blow]V
-c.5.6.3,The farmer's instructions,,23,gud-apin[plough-ox]N gud[bull]N dirig[to-be-superior]V tuku[to-have]V
-c.5.6.3,The farmer's instructions,,24,gud[bull]N gud[bull]N dur[bond]N tu-lu[to-be-loose]V
-c.5.6.3,The farmer's instructions,,25,apin[plough]N apin[plough]N dirig[to-be-superior]V
-c.5.6.3,The farmer's instructions,,26,eš₂-gar₃[work-assignment]N apin[plough]N 1[1]NU 180[180]NU iku[area-measure]N
-c.5.6.3,The farmer's instructions,,27,za[you-(sg.)]PD 144[144]NU iku[area-measure]N ŋiš[tree]N du₃[to-erect]V
-c.5.6.3,The farmer's instructions,,28,a₂[arm]N šag₄[heart]N hul₂[to-be-happy]V dim₂[to-create]V
-c.5.6.3,The farmer's instructions,,29,18[18]NU iku[area-measure]N 3[3]NU še[barley]N gur[capacity-measure]N ŋar[to-place]V
-c.5.6.3,The farmer's instructions,,30,usu[strength]N apin[plough]N 1[1]NU a-šag₄[field]N bar-dili[type-of-plough]N ak[to-do]V
-c.5.6.3,The farmer's instructions,,31,bar-dili[type-of-plough]N apin-tug₂-saga₁₁[type-of-plough]N ak[to-do]V tug₂-gur[to-use-type-of-plough]V
-c.5.6.3,The farmer's instructions,,32,ŋiš[tree]N ur₃[to-drag]V ŋiš[tree]N gi₄[to-return]V ŋiš[tree]N peš[to-triple]V
-c.5.6.3,The farmer's instructions,,33,ki[place]N sumur[to-be-angry]V niŋ₂-gul[maul]N gag-dag₂[type-of-tool]N ak[to-do]V
-c.5.6.3,The farmer's instructions,,34,mud[stump-(handle)]N niŋ₂-gul[maul]N saŋ[head]N ha-za[to-hold]V niŋ₂[thing]N al[desire]N dug₄[to-say]V ŋen[to-go]V
-c.5.6.3,The farmer's instructions,,35,kiŋ₂[work]N ak[to-do]V u₂-gu[noun-part-of-multiword-verb]N de₂[to-pour]V
-c.5.6.3,The farmer's instructions,,36,kiŋ₂[work]N ak[to-do]V ŋa₂-la[noun-part-of-multiword-verb]N dag[to-roam-around]V
-c.5.6.3,The farmer's instructions,,37,a-šag₄[field]N kiŋ₂[work]N ak[to-do]V dug₄[to-say]V
-c.5.6.3,The farmer's instructions,,38,ud[day(light)]N mul-an[heavenly-star]N šu[hand]N du₇[to-be-perfect]V
-c.5.6.3,The farmer's instructions,,39,10[10]NU a₂[arm]N gud[bull]N a-šag₄[field]N zig₃[to-rise]V igi[eye]N gid₂[to-be-long]V
-c.5.6.3,The farmer's instructions,,40,al[hoe]N du₃-a[entirety]N ak[to-do]V
-c.5.6.3,The farmer's instructions,,41,a-šag₄[field]N ur₁₁-ru[to-plough]V
-c.5.6.3,The farmer's instructions,,42,apin[plough]N gu[(flax)-thread]N dub₂[to-tremble]V
-c.5.6.3,The farmer's instructions,,43,ka-šu₂[part-of-plough]N apin[plough]N im-du₅-mu[leather-sealing]N šub[to-fall]V
-c.5.6.3,The farmer's instructions,,44,dam[part-of-plough]N gag[peg]N sal[to-be-thin]V šub[to-fall]V
-c.5.6.3,The farmer's instructions,,45,le-um[(writing)-board]N a₂[arm]N tal₂[to-be-broad]V absin₃[furrow]N gub[to-stand]V
-c.5.6.3,The farmer's instructions,,46,1[1]NU nindan[length-measure]N us₂[to-be-adjacent]V absin₃[furrow]N 8[8]NU gub[to-stand]V
-c.5.6.3,The farmer's instructions,,47,absin₃[furrow]N tuš[to-sit]V še[barley]N gu₂[neck]N gid₂[to-be-long]V
-c.5.6.3,The farmer's instructions,,48,a-šag₄[field]N ur₁₁-ru[to-plough]V
-c.5.6.3,The farmer's instructions,,49,lu₂[person]N še-numun[grain-seed]N ŋar[to-place]V igi[eye]N ŋar[to-place]V
-c.5.6.3,The farmer's instructions,,50,2[2]NU šu-si[finger]N Ezina[1]DN šub[to-fall]V
-c.5.6.3,The farmer's instructions,,51,1[1]NU nindan[length-measure]N us₂[to-be-adjacent]V 1[1]NU giŋ₄[weight-measure]N še[barley]N ŋar[to-place]V
-c.5.6.3,The farmer's instructions,,52,tukum-bi[if]C še-numun[grain-seed]N a-tur₃[hollow-(of-furrow)]N suhur[to-insert]V
-c.5.6.3,The farmer's instructions,,53,niŋ₂-kud[(plough)-wedge]N eme-apin-na[ploughshare]N kur₂[to-be-different]V
-c.5.6.3,The farmer's instructions,,54,tukum-bi[if]C dur[bond]N tu-lu[to-be-loose]V dur[bond]N tur[to-be-small]V
-c.5.6.3,The farmer's instructions,,55,ki[place]N absin₃[furrow]N si[horn]N sa₂[to-equal]V ur₁₁-ru[to-plough]V absin₃[furrow]N šibir[shepherd's-crook]N ur₁₁-ru[to-plough]V
-c.5.6.3,The farmer's instructions,,56,ki[place]N absin₃[furrow]N šibir[shepherd's-crook]N ur₁₁-ru[to-plough]V absin₃[furrow]N si[horn]N sa₂[to-equal]V ur₁₁-ru[to-plough]V
-c.5.6.3,The farmer's instructions,,57,absin₃[furrow]N si[horn]N sa₂[to-equal]V gu₂[neck]N tu-lu[to-be-loose]V gu₂[neck]N ŋar[to-place]V
-c.5.6.3,The farmer's instructions,,58,absin₃[furrow]N lug-gu₂[to-twist]V si[horn]N sa₂[to-equal]V
-c.5.6.3,The farmer's instructions,,59,absin₃[furrow]N ab-ki-iz[cleaned-furrow]N DU[DU]V gana₂[field]N kud[to-cut]V ur₁₁-ru[to-plough]V
-c.5.6.3,The farmer's instructions,,60,lag[lump]N ri[to-direct]V
-c.5.6.3,The farmer's instructions,,61,ki-sahar[soil-deposit]N us₂[to-be-adjacent]V absin₃[furrow]N ra[to-beat]V
-c.5.6.3,The farmer's instructions,,62,ki-sahar[soil-deposit]N ka[mouth]N tab[to-be-parallel]V absin₃[furrow]N sig[to-be-low]V
-c.5.6.3,The farmer's instructions,,63,henbur[shoot]N sag₉[to-be-good]V
-c.5.6.3,The farmer's instructions,,64,ud[day(light)]N henbur[shoot]N ki[place]N dar[to-split]V
-c.5.6.3,The farmer's instructions,,65,sizkur₂[prayer]N niŋ₂-gilim[small-animal]N dug₄[to-say]V
-c.5.6.3,The farmer's instructions,,66,zu₂[tooth]N bir₅[locust]N bal[to-turn-over]V
-c.5.6.3,The farmer's instructions,,67,ud[day(light)]N še[barley]N ka[mouth]N sal[to-be-thin]V absin₃[furrow]N dirig[to-be-superior]V
-c.5.6.3,The farmer's instructions,,68,a[water]N numun[seed]N saŋ[head]N dug₄[to-say]V
-c.5.6.3,The farmer's instructions,,69,ud[day(light)]N še[barley]N kid-ma₂-šag₄-ga[type-of-mat]N gub[to-stand]V a[water]N dug₄[to-say]V
-c.5.6.3,The farmer's instructions,,70,še[barley]N lillan[ripe-seed]N a[water]N dug₄[to-say]V
-c.5.6.3,The farmer's instructions,,71,ud[day(light)]N še[barley]N luh[to-clean]V sud[to-be-distant]V a[water]N dug₄[to-say]V sa-ma-na₂[leaf-rust]N gig[to-be-ill]V
-c.5.6.3,The farmer's instructions,,72,ud[day(light)]N še[barley]N bir[to-scatter]V ak[to-do]V du₇[to-be-perfect]V a[water]N dug₄[to-say]V
-c.5.6.3,The farmer's instructions,,73,ba-an[capacity-measure-(container)]N 1[1]NU sila₃[capacity-measure-(container)]N še[barley]N kug-dun[profit]N tuku[to-have]V
-c.5.6.3,The farmer's instructions,,74,še[barley]N gur₁₀[to-harvest]V še[barley]N ur₅[that]PD gam[to-bow-down]V
-c.5.6.3,The farmer's instructions,,75,ud[day(light)]N a₂[(right)-time]N gur₁₀[to-harvest]V
-c.5.6.3,The farmer's instructions,,76,kid₇[to-cut]V 1[1]NU u₃[and]C lu₂[person]N zar[sheaf]N keše₂[to-bind]V 1[1]NU
-c.5.6.3,The farmer's instructions,,77,u₃[and]C lu₂[person]N 1[1]NU igi[eye]N zar[sheaf]N sa₂[to-equal]V
-c.5.6.3,The farmer's instructions,,78,3[3]NU gur₁₀[to-harvest]V
-c.5.6.3,The farmer's instructions,,79,lu₂[person]N še[barley]N de₅[to-collect]V še[barley]N šu[hand]N hu-uz[to-burn]V ak[to-do]V
-c.5.6.3,The farmer's instructions,,80,še-garadin₃[grain-stack]N še[barley]N si-il[to-split-apart]V
-c.5.6.3,The farmer's instructions,,81,kiŋ₂[work]N ud[day(light)]N ud[day(light)]N tur[to-be-small]V
-c.5.6.3,The farmer's instructions,,82,usu[strength]N di₄-di₄[to-be-small]V u₃[and]C lu₂[person]N še[barley]N de₅[to-collect]V
-c.5.6.3,The farmer's instructions,,83,šid[to-count]V dul[to-cover-(together)]V zar[sheaf]N nu₂[to-lie-down]V
-c.5.6.3,The farmer's instructions,,84,kiŋ₂[work]N mi₂[(loving)-care]N zid[right]AJ dug₄[to-say]V
-c.5.6.3,The farmer's instructions,,85,dabin[type-of-flour]N še[barley]N sumun[to-be-old]V tuku[to-have]V
-c.5.6.3,The farmer's instructions,,86,ka-gu₇[type-of-bread]N lu₂[person]N še[barley]N ŋiš[tree]N ra[to-beat]V
-c.5.6.3,The farmer's instructions,,87,še-zar[sheaf]N ne-ha[to-be-calm]V
-c.5.6.3,The farmer's instructions,,88,sizkur₂[prayer]N še-zar[sheaf]N ud[day(light)]N šu₂[to-cover]V dug₄[to-say]V
-c.5.6.3,The farmer's instructions,,89,ud[day(light)]N še[barley]N ed₃[to-go-down-or-up]V
-c.5.6.3,The farmer's instructions,,90,lu₂[person]N še[barley]N la₂[to-hang]V 30[30]NU giŋ₄[weight-measure]N ak[to-do]V
-c.5.6.3,The farmer's instructions,,91,kislah[uncultivated-land]N ki-ŋar[area]N dug₄[to-say]V
-c.5.6.3,The farmer's instructions,,92,har-ra-an[route]N gur[to-turn]V si[horn]N sa₂[to-equal]V
-c.5.6.3,The farmer's instructions,,93,mar-gid₂-da[cart]N si[horn]N sa₂[to-equal]V
-c.5.6.3,The farmer's instructions,,94,gud[bull]N mar-gid₂-da[cart]N mur[fodder]N gu₇[to-eat]V
-c.5.6.3,The farmer's instructions,,95,šu-kar₂[implement]N
-c.5.6.3,The farmer's instructions,,96,sur₁₂[threshing-floor]N du₈[to-spread]V ud[day(light)]N 5[5]NU ne-ha[to-be-calm]V
-c.5.6.3,The farmer's instructions,,97,sur₁₂[threshing-floor]N bad[to-open]V niŋ₂-ur₅-ra[surface?]N du₈[to-spread]V
-c.5.6.3,The farmer's instructions,,98,ud[day(light)]N še[barley]N bad[to-open]V
-c.5.6.3,The farmer's instructions,,99,zu₂[tooth]N ŋiš-ba₉-ra₂[threshing-sledge]N kuš[skin]N la₂[to-hang]V esir₂[bitumen]N sub₆[to-coat]V
-c.5.6.3,The farmer's instructions,,100,gud[bull]N tuš[to-sit]V
-c.5.6.3,The farmer's instructions,,101,lu₂[person]N še[barley]N bad[to-open]V usu[strength]N gub[to-stand]V
-c.5.6.3,The farmer's instructions,,102,ud[day(light)]N še[barley]N ki[place]N us₂[to-be-adjacent]V
-c.5.6.3,The farmer's instructions,,103,sizkur₂[prayer]N še[barley]N nir[to-winnow]V dug₄[to-say]V
-c.5.6.3,The farmer's instructions,,104,ud[day(light)]N še[barley]N la₂[to-hang]V
-c.5.6.3,The farmer's instructions,,105,lu₂[person]N še[barley]N ki[place]N gub[to-stand]V lu₂[person]N ŋeštug₂[ear]N gub[to-stand]V
-c.5.6.3,The farmer's instructions,,106,lu₂[person]N še[barley]N DU[DU]V 2[2]NU gub[to-stand]V
-c.5.6.3,The farmer's instructions,,107,ud[day(light)]N še[barley]N nir[to-winnow]V ŋidru[sceptre]N nu₂[to-lie-down]V
-c.5.6.3,The farmer's instructions,,108,sizkur₂[prayer]N a₂[(right)-time]N ud[day(light)]N ten[to-extinguish]V ŋi₆[night]N dug₄[to-say]V
-c.5.6.3,The farmer's instructions,,109,ud[day(light)]N 1/2[1/2]NU še[barley]N bur₂[to-release]V
-c.5.6.3,The farmer's instructions,,110,na[advice]N de₅[to-collect]V Ninurta[1]DN dumu[child]N Enlil[1]DN
-c.5.6.3,The farmer's instructions,,111,Ninurta[1]DN engar[farmer]N zid[right]AJ Enlil[1]DN za₃-mi₂[praise]N dug₃[to-be-good]V
+c.5.6.3,The farmer's instructions,,1,sux:Ud-ul-uru[1]PN sux:dumu[child]N sux:na[advice]N sux:de₅[to-collect]V
+c.5.6.3,The farmer's instructions,,2,sux:a-šag₄[field]N sux:dib[to-pass]V
+c.5.6.3,The farmer's instructions,,3,sux:eg₂[embankment]N sux:pa₅[canal]N sux:du₆[(ruin)-mound]N sux:du₈[to-spread]V sux:igi[eye]N sux:kar₂[to-blow]V
+c.5.6.3,The farmer's instructions,,4,sux:a-šag₄[field]N sux:a[water]N sux:de₂[to-pour]V sux:a[water]N sux:šag₄[heart]N sux:il₂[to-raise]V
+c.5.6.3,The farmer's instructions,,5,sux:ud[day(light)]N sux:a[water]N sux:ed₃[to-go-down-or-up]V
+c.5.6.3,The farmer's instructions,,6,sux:a-šag₄[field]N sux:ki[place]N sux:duru₅[to-be-wet]V sux:en-nu-uŋ₃[guard]N sux:ak[to-do]V sux:ki-še-er[limit]N sux:tuku[to-have]V
+c.5.6.3,The farmer's instructions,,7,sux:gud[bull]N sux:suhub₂[designation-of-ox]N sux:ŋiri₃[foot]N sux:zukum[to-tread-(down)]V
+c.5.6.3,The farmer's instructions,,8,sux:u₂-saga₁₁[plant-bundle]N sux:ze₂-er[to-tear-out]V sux:a-šag₄[field]N sux:ki-ŋar[area]N sux:dug₄[to-say]V
+c.5.6.3,The farmer's instructions,,9,sux:10[10]NU sux:giŋ₄[type-of-axe]N sux:sal[to-be-thin]V sux:2/3[2/3]NU sux:ma-na[weight-measure]N sux:sa₂[to-equal]V
+c.5.6.3,The farmer's instructions,,10,sux:al-šub[type-of-hoe]N sux:umbin[horny-outgrowth]N sux:gud[bull]N sux:šu₂[to-cover]V sux:sa[net]N sux:la₂[to-hang]V
+c.5.6.3,The farmer's instructions,,11,sux:ki[place]N sux:ka[mouth]N sux:sal[to-be-thin]V sux:u₂-tag[maul?]N sux:tag[to-touch]V
+c.5.6.3,The farmer's instructions,,12,sux:gu₂[neck]N sux:a-šag₄[field]N sux:ub[corner]N sux:4[4]NU sux:al[hoe]N sux:niŋin₂[to-go-around]V
+c.5.6.3,The farmer's instructions,,13,sux:en-na[as-long-as]C sux:a-šag₄[field]N sux:šeŋ₆[to-be-hot]V sux:teš₂[unity]N sux:sig₁₀[to-place]V
+c.5.6.3,The farmer's instructions,,14,sux:šu-kar₂[implement]N sux:sa[sinew]N sux:gi₄[to-return]V
+c.5.6.3,The farmer's instructions,,15,sux:šudul[yoke]N sux:a₂-šita₄[equipment]N sux:keše₂[to-bind]V
+c.5.6.3,The farmer's instructions,,16,sux:usan₃[whip]N sux:gibil[to-be-new]V sux:gag[peg]N sux:la₂[to-hang]V
+c.5.6.3,The farmer's instructions,,17,sux:usan₃[whip]N sux:sumun[to-be-old]V sux:mud[stump-(handle)]N sux:la₂[to-hang]V
+c.5.6.3,The farmer's instructions,,18,sux:dumu[child]N sux:gašam[(expert)-craftsman]N sux:dug₃[to-be-good]V sux:ak[to-do]V
+c.5.6.3,The farmer's instructions,,19,sux:giŋ₄[type-of-axe]N sux:bulug[sharp-object]N sux:šum-me[saw]N sux:šu-kar₂[implement]N sux:a₂[arm]N sux:si[horn]N sux:sa₂[to-equal]V
+c.5.6.3,The farmer's instructions,,20,sux:saŋ-keše₂[type-of-strap]N sux:bar-ed₃-de₃[type-of-strap]N sux:ka-du₃[wrapping]N sux:usan₃[whip]N sux:saŋ[head]N sux:ha-za[to-hold]V
+c.5.6.3,The farmer's instructions,,21,sux:ba-an-du₈[type-of-container]N sux:kab₂[gauge]N sux:dug₄[to-say]V sux:ak[to-do]V sux:a₂[arm]N sux:kalag[to-be-strong]V sux:ak[to-do]V
+c.5.6.3,The farmer's instructions,,22,sux:a₂-aš₂[requirement]N sux:a-šag₄[field]N sux:da[side]N sux:ŋal₂[to-be-(located)]V sux:kiŋ₂[work]N sux:igi[eye]N sux:kar₂[to-blow]V
+c.5.6.3,The farmer's instructions,,23,sux:gud-apin[plough-ox]N sux:gud[bull]N sux:dirig[to-be-superior]V sux:tuku[to-have]V
+c.5.6.3,The farmer's instructions,,24,sux:gud[bull]N sux:gud[bull]N sux:dur[bond]N sux:tu-lu[to-be-loose]V
+c.5.6.3,The farmer's instructions,,25,sux:apin[plough]N sux:apin[plough]N sux:dirig[to-be-superior]V
+c.5.6.3,The farmer's instructions,,26,sux:eš₂-gar₃[work-assignment]N sux:apin[plough]N sux:1[1]NU sux:180[180]NU sux:iku[area-measure]N
+c.5.6.3,The farmer's instructions,,27,sux:za[you-(sg.)]PD sux:144[144]NU sux:iku[area-measure]N sux:ŋiš[tree]N sux:du₃[to-erect]V
+c.5.6.3,The farmer's instructions,,28,sux:a₂[arm]N sux:šag₄[heart]N sux:hul₂[to-be-happy]V sux:dim₂[to-create]V
+c.5.6.3,The farmer's instructions,,29,sux:18[18]NU sux:iku[area-measure]N sux:3[3]NU sux:še[barley]N sux:gur[capacity-measure]N sux:ŋar[to-place]V
+c.5.6.3,The farmer's instructions,,30,sux:usu[strength]N sux:apin[plough]N sux:1[1]NU sux:a-šag₄[field]N sux:bar-dili[type-of-plough]N sux:ak[to-do]V
+c.5.6.3,The farmer's instructions,,31,sux:bar-dili[type-of-plough]N sux:apin-tug₂-saga₁₁[type-of-plough]N sux:ak[to-do]V sux:tug₂-gur[to-use-type-of-plough]V
+c.5.6.3,The farmer's instructions,,32,sux:ŋiš[tree]N sux:ur₃[to-drag]V sux:ŋiš[tree]N sux:gi₄[to-return]V sux:ŋiš[tree]N sux:peš[to-triple]V
+c.5.6.3,The farmer's instructions,,33,sux:ki[place]N sux:sumur[to-be-angry]V sux:niŋ₂-gul[maul]N sux:gag-dag₂[type-of-tool]N sux:ak[to-do]V
+c.5.6.3,The farmer's instructions,,34,sux:mud[stump-(handle)]N sux:niŋ₂-gul[maul]N sux:saŋ[head]N sux:ha-za[to-hold]V sux:niŋ₂[thing]N sux:al[desire]N sux:dug₄[to-say]V sux:ŋen[to-go]V
+c.5.6.3,The farmer's instructions,,35,sux:kiŋ₂[work]N sux:ak[to-do]V sux:u₂-gu[noun-part-of-multiword-verb]N sux:de₂[to-pour]V
+c.5.6.3,The farmer's instructions,,36,sux:kiŋ₂[work]N sux:ak[to-do]V sux:ŋa₂-la[noun-part-of-multiword-verb]N sux:dag[to-roam-around]V
+c.5.6.3,The farmer's instructions,,37,sux:a-šag₄[field]N sux:kiŋ₂[work]N sux:ak[to-do]V sux:dug₄[to-say]V
+c.5.6.3,The farmer's instructions,,38,sux:ud[day(light)]N sux:mul-an[heavenly-star]N sux:šu[hand]N sux:du₇[to-be-perfect]V
+c.5.6.3,The farmer's instructions,,39,sux:10[10]NU sux:a₂[arm]N sux:gud[bull]N sux:a-šag₄[field]N sux:zig₃[to-rise]V sux:igi[eye]N sux:gid₂[to-be-long]V
+c.5.6.3,The farmer's instructions,,40,sux:al[hoe]N sux:du₃-a[entirety]N sux:ak[to-do]V
+c.5.6.3,The farmer's instructions,,41,sux:a-šag₄[field]N sux:ur₁₁-ru[to-plough]V
+c.5.6.3,The farmer's instructions,,42,sux:apin[plough]N sux:gu[(flax)-thread]N sux:dub₂[to-tremble]V
+c.5.6.3,The farmer's instructions,,43,sux:ka-šu₂[part-of-plough]N sux:apin[plough]N sux:im-du₅-mu[leather-sealing]N sux:šub[to-fall]V
+c.5.6.3,The farmer's instructions,,44,sux:dam[part-of-plough]N sux:gag[peg]N sux:sal[to-be-thin]V sux:šub[to-fall]V
+c.5.6.3,The farmer's instructions,,45,sux:le-um[(writing)-board]N sux:a₂[arm]N sux:tal₂[to-be-broad]V sux:absin₃[furrow]N sux:gub[to-stand]V
+c.5.6.3,The farmer's instructions,,46,sux:1[1]NU sux:nindan[length-measure]N sux:us₂[to-be-adjacent]V sux:absin₃[furrow]N sux:8[8]NU sux:gub[to-stand]V
+c.5.6.3,The farmer's instructions,,47,sux:absin₃[furrow]N sux:tuš[to-sit]V sux:še[barley]N sux:gu₂[neck]N sux:gid₂[to-be-long]V
+c.5.6.3,The farmer's instructions,,48,sux:a-šag₄[field]N sux:ur₁₁-ru[to-plough]V
+c.5.6.3,The farmer's instructions,,49,sux:lu₂[person]N sux:še-numun[grain-seed]N sux:ŋar[to-place]V sux:igi[eye]N sux:ŋar[to-place]V
+c.5.6.3,The farmer's instructions,,50,sux:2[2]NU sux:šu-si[finger]N sux:Ezina[1]DN sux:šub[to-fall]V
+c.5.6.3,The farmer's instructions,,51,sux:1[1]NU sux:nindan[length-measure]N sux:us₂[to-be-adjacent]V sux:1[1]NU sux:giŋ₄[weight-measure]N sux:še[barley]N sux:ŋar[to-place]V
+c.5.6.3,The farmer's instructions,,52,sux:tukum-bi[if]C sux:še-numun[grain-seed]N sux:a-tur₃[hollow-(of-furrow)]N sux:suhur[to-insert]V
+c.5.6.3,The farmer's instructions,,53,sux:niŋ₂-kud[(plough)-wedge]N sux:eme-apin-na[ploughshare]N sux:kur₂[to-be-different]V
+c.5.6.3,The farmer's instructions,,54,sux:tukum-bi[if]C sux:dur[bond]N sux:tu-lu[to-be-loose]V sux:dur[bond]N sux:tur[to-be-small]V
+c.5.6.3,The farmer's instructions,,55,sux:ki[place]N sux:absin₃[furrow]N sux:si[horn]N sux:sa₂[to-equal]V sux:ur₁₁-ru[to-plough]V sux:absin₃[furrow]N sux:šibir[shepherd's-crook]N sux:ur₁₁-ru[to-plough]V
+c.5.6.3,The farmer's instructions,,56,sux:ki[place]N sux:absin₃[furrow]N sux:šibir[shepherd's-crook]N sux:ur₁₁-ru[to-plough]V sux:absin₃[furrow]N sux:si[horn]N sux:sa₂[to-equal]V sux:ur₁₁-ru[to-plough]V
+c.5.6.3,The farmer's instructions,,57,sux:absin₃[furrow]N sux:si[horn]N sux:sa₂[to-equal]V sux:gu₂[neck]N sux:tu-lu[to-be-loose]V sux:gu₂[neck]N sux:ŋar[to-place]V
+c.5.6.3,The farmer's instructions,,58,sux:absin₃[furrow]N sux:lug-gu₂[to-twist]V sux:si[horn]N sux:sa₂[to-equal]V
+c.5.6.3,The farmer's instructions,,59,sux:absin₃[furrow]N sux:ab-ki-iz[cleaned-furrow]N sux:DU[DU]V sux:gana₂[field]N sux:kud[to-cut]V sux:ur₁₁-ru[to-plough]V
+c.5.6.3,The farmer's instructions,,60,sux:lag[lump]N sux:ri[to-direct]V
+c.5.6.3,The farmer's instructions,,61,sux:ki-sahar[soil-deposit]N sux:us₂[to-be-adjacent]V sux:absin₃[furrow]N sux:ra[to-beat]V
+c.5.6.3,The farmer's instructions,,62,sux:ki-sahar[soil-deposit]N sux:ka[mouth]N sux:tab[to-be-parallel]V sux:absin₃[furrow]N sux:sig[to-be-low]V
+c.5.6.3,The farmer's instructions,,63,sux:henbur[shoot]N sux:sag₉[to-be-good]V
+c.5.6.3,The farmer's instructions,,64,sux:ud[day(light)]N sux:henbur[shoot]N sux:ki[place]N sux:dar[to-split]V
+c.5.6.3,The farmer's instructions,,65,sux:sizkur₂[prayer]N sux:niŋ₂-gilim[small-animal]N sux:dug₄[to-say]V
+c.5.6.3,The farmer's instructions,,66,sux:zu₂[tooth]N sux:bir₅[locust]N sux:bal[to-turn-over]V
+c.5.6.3,The farmer's instructions,,67,sux:ud[day(light)]N sux:še[barley]N sux:ka[mouth]N sux:sal[to-be-thin]V sux:absin₃[furrow]N sux:dirig[to-be-superior]V
+c.5.6.3,The farmer's instructions,,68,sux:a[water]N sux:numun[seed]N sux:saŋ[head]N sux:dug₄[to-say]V
+c.5.6.3,The farmer's instructions,,69,sux:ud[day(light)]N sux:še[barley]N sux:kid-ma₂-šag₄-ga[type-of-mat]N sux:gub[to-stand]V sux:a[water]N sux:dug₄[to-say]V
+c.5.6.3,The farmer's instructions,,70,sux:še[barley]N sux:lillan[ripe-seed]N sux:a[water]N sux:dug₄[to-say]V
+c.5.6.3,The farmer's instructions,,71,sux:ud[day(light)]N sux:še[barley]N sux:luh[to-clean]V sux:sud[to-be-distant]V sux:a[water]N sux:dug₄[to-say]V sux:sa-ma-na₂[leaf-rust]N sux:gig[to-be-ill]V
+c.5.6.3,The farmer's instructions,,72,sux:ud[day(light)]N sux:še[barley]N sux:bir[to-scatter]V sux:ak[to-do]V sux:du₇[to-be-perfect]V sux:a[water]N sux:dug₄[to-say]V
+c.5.6.3,The farmer's instructions,,73,sux:ba-an[capacity-measure-(container)]N sux:1[1]NU sux:sila₃[capacity-measure-(container)]N sux:še[barley]N sux:kug-dun[profit]N sux:tuku[to-have]V
+c.5.6.3,The farmer's instructions,,74,sux:še[barley]N sux:gur₁₀[to-harvest]V sux:še[barley]N sux:ur₅[that]PD sux:gam[to-bow-down]V
+c.5.6.3,The farmer's instructions,,75,sux:ud[day(light)]N sux:a₂[(right)-time]N sux:gur₁₀[to-harvest]V
+c.5.6.3,The farmer's instructions,,76,sux:kid₇[to-cut]V sux:1[1]NU sux:u₃[and]C sux:lu₂[person]N sux:zar[sheaf]N sux:keše₂[to-bind]V sux:1[1]NU
+c.5.6.3,The farmer's instructions,,77,sux:u₃[and]C sux:lu₂[person]N sux:1[1]NU sux:igi[eye]N sux:zar[sheaf]N sux:sa₂[to-equal]V
+c.5.6.3,The farmer's instructions,,78,sux:3[3]NU sux:gur₁₀[to-harvest]V
+c.5.6.3,The farmer's instructions,,79,sux:lu₂[person]N sux:še[barley]N sux:de₅[to-collect]V sux:še[barley]N sux:šu[hand]N sux:hu-uz[to-burn]V sux:ak[to-do]V
+c.5.6.3,The farmer's instructions,,80,sux:še-garadin₃[grain-stack]N sux:še[barley]N sux:si-il[to-split-apart]V
+c.5.6.3,The farmer's instructions,,81,sux:kiŋ₂[work]N sux:ud[day(light)]N sux:ud[day(light)]N sux:tur[to-be-small]V
+c.5.6.3,The farmer's instructions,,82,sux:usu[strength]N sux:di₄-di₄[to-be-small]V sux:u₃[and]C sux:lu₂[person]N sux:še[barley]N sux:de₅[to-collect]V
+c.5.6.3,The farmer's instructions,,83,sux:šid[to-count]V sux:dul[to-cover-(together)]V sux:zar[sheaf]N sux:nu₂[to-lie-down]V
+c.5.6.3,The farmer's instructions,,84,sux:kiŋ₂[work]N sux:mi₂[(loving)-care]N sux:zid[right]AJ sux:dug₄[to-say]V
+c.5.6.3,The farmer's instructions,,85,sux:dabin[type-of-flour]N sux:še[barley]N sux:sumun[to-be-old]V sux:tuku[to-have]V
+c.5.6.3,The farmer's instructions,,86,sux:ka-gu₇[type-of-bread]N sux:lu₂[person]N sux:še[barley]N sux:ŋiš[tree]N sux:ra[to-beat]V
+c.5.6.3,The farmer's instructions,,87,sux:še-zar[sheaf]N sux:ne-ha[to-be-calm]V
+c.5.6.3,The farmer's instructions,,88,sux:sizkur₂[prayer]N sux:še-zar[sheaf]N sux:ud[day(light)]N sux:šu₂[to-cover]V sux:dug₄[to-say]V
+c.5.6.3,The farmer's instructions,,89,sux:ud[day(light)]N sux:še[barley]N sux:ed₃[to-go-down-or-up]V
+c.5.6.3,The farmer's instructions,,90,sux:lu₂[person]N sux:še[barley]N sux:la₂[to-hang]V sux:30[30]NU sux:giŋ₄[weight-measure]N sux:ak[to-do]V
+c.5.6.3,The farmer's instructions,,91,sux:kislah[uncultivated-land]N sux:ki-ŋar[area]N sux:dug₄[to-say]V
+c.5.6.3,The farmer's instructions,,92,sux:har-ra-an[route]N sux:gur[to-turn]V sux:si[horn]N sux:sa₂[to-equal]V
+c.5.6.3,The farmer's instructions,,93,sux:mar-gid₂-da[cart]N sux:si[horn]N sux:sa₂[to-equal]V
+c.5.6.3,The farmer's instructions,,94,sux:gud[bull]N sux:mar-gid₂-da[cart]N sux:mur[fodder]N sux:gu₇[to-eat]V
+c.5.6.3,The farmer's instructions,,95,sux:šu-kar₂[implement]N
+c.5.6.3,The farmer's instructions,,96,sux:sur₁₂[threshing-floor]N sux:du₈[to-spread]V sux:ud[day(light)]N sux:5[5]NU sux:ne-ha[to-be-calm]V
+c.5.6.3,The farmer's instructions,,97,sux:sur₁₂[threshing-floor]N sux:bad[to-open]V sux:niŋ₂-ur₅-ra[surface?]N sux:du₈[to-spread]V
+c.5.6.3,The farmer's instructions,,98,sux:ud[day(light)]N sux:še[barley]N sux:bad[to-open]V
+c.5.6.3,The farmer's instructions,,99,sux:zu₂[tooth]N sux:ŋiš-ba₉-ra₂[threshing-sledge]N sux:kuš[skin]N sux:la₂[to-hang]V sux:esir₂[bitumen]N sux:sub₆[to-coat]V
+c.5.6.3,The farmer's instructions,,100,sux:gud[bull]N sux:tuš[to-sit]V
+c.5.6.3,The farmer's instructions,,101,sux:lu₂[person]N sux:še[barley]N sux:bad[to-open]V sux:usu[strength]N sux:gub[to-stand]V
+c.5.6.3,The farmer's instructions,,102,sux:ud[day(light)]N sux:še[barley]N sux:ki[place]N sux:us₂[to-be-adjacent]V
+c.5.6.3,The farmer's instructions,,103,sux:sizkur₂[prayer]N sux:še[barley]N sux:nir[to-winnow]V sux:dug₄[to-say]V
+c.5.6.3,The farmer's instructions,,104,sux:ud[day(light)]N sux:še[barley]N sux:la₂[to-hang]V
+c.5.6.3,The farmer's instructions,,105,sux:lu₂[person]N sux:še[barley]N sux:ki[place]N sux:gub[to-stand]V sux:lu₂[person]N sux:ŋeštug₂[ear]N sux:gub[to-stand]V
+c.5.6.3,The farmer's instructions,,106,sux:lu₂[person]N sux:še[barley]N sux:DU[DU]V sux:2[2]NU sux:gub[to-stand]V
+c.5.6.3,The farmer's instructions,,107,sux:ud[day(light)]N sux:še[barley]N sux:nir[to-winnow]V sux:ŋidru[sceptre]N sux:nu₂[to-lie-down]V
+c.5.6.3,The farmer's instructions,,108,sux:sizkur₂[prayer]N sux:a₂[(right)-time]N sux:ud[day(light)]N sux:ten[to-extinguish]V sux:ŋi₆[night]N sux:dug₄[to-say]V
+c.5.6.3,The farmer's instructions,,109,sux:ud[day(light)]N sux:1/2[1/2]NU sux:še[barley]N sux:bur₂[to-release]V
+c.5.6.3,The farmer's instructions,,110,sux:na[advice]N sux:de₅[to-collect]V sux:Ninurta[1]DN sux:dumu[child]N sux:Enlil[1]DN
+c.5.6.3,The farmer's instructions,,111,sux:Ninurta[1]DN sux:engar[farmer]N sux:zid[right]AJ sux:Enlil[1]DN sux:za₃-mi₂[praise]N sux:dug₃[to-be-good]V

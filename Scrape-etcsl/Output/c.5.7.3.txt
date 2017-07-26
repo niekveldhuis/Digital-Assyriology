@@ -1,17 +1,17 @@
 id_text,text_name,version,l_no,text
-c.5.7.3,An axe for Nergal,,1,Nibruta-lu[1]PN
-c.5.7.3,An axe for Nergal,,2,dumu[child]N Lugal-šuba[1]PN dam-gara₃[merchant]N
-c.5.7.3,An axe for Nergal,,3,Nergal[1]DN
-c.5.7.3,An axe for Nergal,,4,ha-zi-in[type-of-axe]N nagga[tin]N dim₂[to-create]V
-c.5.7.3,An axe for Nergal,,5,ŋiš[tree]N ar-ga-nu-um[type-of-conifer]N hur-saŋ[mountain-(range)]N
-c.5.7.3,An axe for Nergal,,6,e-le-el[type-of-stone]N dirig[to-be-superior]V
-c.5.7.3,An axe for Nergal,,7,na₄[stone]N an-ta-sur-ra[type-of-stone]N
-c.5.7.3,An axe for Nergal,,8,gaba-ri[equal]N tuku[to-have]V
-c.5.7.3,An axe for Nergal,,9,sag₃[to-beat]V a₂[arm]N kuš₂[to-be-tired]V
-c.5.7.3,An axe for Nergal,,10,TAR[TAR]V
-c.5.7.3,An axe for Nergal,,11,silim[to-be-healthy]V
-c.5.7.3,An axe for Nergal,,12,u₂-gu[noun-part-of-multiword-verb]N de₂[to-pour]V
-c.5.7.3,An axe for Nergal,,13,ki[place]N gi₄[to-return]V
-c.5.7.3,An axe for Nergal,,14,ud[day(light)]N til₃[to-live]V igi[eye]N du₈[to-spread]V
-c.5.7.3,An axe for Nergal,,15,ud[day(light)]N uš₂[to-die]V kur[(mountain)-land]N
-c.5.7.3,An axe for Nergal,,16,a[water]N si-ig[to-be-clear]V naŋ[to-drink]V
+c.5.7.3,An axe for Nergal,,1,sux:Nibruta-lu[1]PN
+c.5.7.3,An axe for Nergal,,2,sux:dumu[child]N sux:Lugal-šuba[1]PN sux:dam-gara₃[merchant]N
+c.5.7.3,An axe for Nergal,,3,sux:Nergal[1]DN
+c.5.7.3,An axe for Nergal,,4,sux:ha-zi-in[type-of-axe]N sux:nagga[tin]N sux:dim₂[to-create]V
+c.5.7.3,An axe for Nergal,,5,sux:ŋiš[tree]N sux:ar-ga-nu-um[type-of-conifer]N sux:hur-saŋ[mountain-(range)]N
+c.5.7.3,An axe for Nergal,,6,sux:e-le-el[type-of-stone]N sux:dirig[to-be-superior]V
+c.5.7.3,An axe for Nergal,,7,sux:na₄[stone]N sux:an-ta-sur-ra[type-of-stone]N
+c.5.7.3,An axe for Nergal,,8,sux:gaba-ri[equal]N sux:tuku[to-have]V
+c.5.7.3,An axe for Nergal,,9,sux:sag₃[to-beat]V sux:a₂[arm]N sux:kuš₂[to-be-tired]V
+c.5.7.3,An axe for Nergal,,10,sux:TAR[TAR]V
+c.5.7.3,An axe for Nergal,,11,sux:silim[to-be-healthy]V
+c.5.7.3,An axe for Nergal,,12,sux:u₂-gu[noun-part-of-multiword-verb]N sux:de₂[to-pour]V
+c.5.7.3,An axe for Nergal,,13,sux:ki[place]N sux:gi₄[to-return]V
+c.5.7.3,An axe for Nergal,,14,sux:ud[day(light)]N sux:til₃[to-live]V sux:igi[eye]N sux:du₈[to-spread]V
+c.5.7.3,An axe for Nergal,,15,sux:ud[day(light)]N sux:uš₂[to-die]V sux:kur[(mountain)-land]N
+c.5.7.3,An axe for Nergal,,16,sux:a[water]N sux:si-ig[to-be-clear]V sux:naŋ[to-drink]V

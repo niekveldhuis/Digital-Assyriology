@@ -1,61 +1,61 @@
 id_text,text_name,version,l_no,text
-c.5.6.5,The three ox-drivers from Adab,,1,gu₅-li[friend]N 3[3]NU dumu[child]N Adab[1]SN
-c.5.6.5,The three ox-drivers from Adab,,2,di[(law)suit]N tuku[to-have]V di[(law)suit]N kiŋ₂[to-seek]V
-c.5.6.5,The three ox-drivers from Adab,,3,inim[word]N šar₂[to-be-numerous]V lugal[king]N an[heaven]N gi₄[to-return]V
-c.5.6.5,The three ox-drivers from Adab,,4,lugal[king]N gud[bull]N ri[to-direct]V ak[to-do]V
-c.5.6.5,The three ox-drivers from Adab,,5,gud[bull]N lu₂[person]N 1[1]NU ab₂[cow]N lu₂[person]N 1[1]NU mar[waggon]N lu₂[person]N 1[1]NU
-c.5.6.5,The three ox-drivers from Adab,,6,enmen₂[thirst]N tuku[to-have]V a[water]N ŋal₂[to-be-(located)]V
-c.5.6.5,The three ox-drivers from Adab,,7,lu₂[person]N gud[bull]N a[water]N si[to-fill]V a[water]N naŋ[to-drink]V
-c.5.6.5,The three ox-drivers from Adab,,8,gud[bull]N ur-mah[lion]N gu₇[to-eat]V gud[bull]N e₃[to-go-out-or-in]V
-c.5.6.5,The three ox-drivers from Adab,,9,lu₂[person]N ab₂[cow]N a[water]N si[to-fill]V a[water]N naŋ[to-drink]V
-c.5.6.5,The three ox-drivers from Adab,,10,ab₂[cow]N edin[open-country]N ŋen[to-go]V ab₂[cow]N e₃[to-go-out-or-in]V
-c.5.6.5,The three ox-drivers from Adab,,11,lu₂[person]N mar[waggon]N a[water]N si[to-fill]V a[water]N naŋ[to-drink]V
-c.5.6.5,The three ox-drivers from Adab,,12,mar[waggon]N gun₂[weight-measure-(load)]N kud[to-cut]V mar[waggon]N e₃[to-go-out-or-in]V
-c.5.6.5,The three ox-drivers from Adab,,13,ga-na[directive-expression]I ŋen[to-go]V ga-na[directive-expression]I gi₄[to-return]V
-c.5.6.5,The three ox-drivers from Adab,,14,gud[bull]N eš₂[rope]N la₂[to-hang]V la₂[to-hang]V ab₂[cow]N a-sila₃-ŋar-ra[afterbirth]N sur[to-drip]V amar[calf]N mar[waggon]N zu₂[tooth]N gub[to-stand]V
-c.5.6.5,The three ox-drivers from Adab,,15,amar[calf]N a-ba[who]PD amar[calf]N a-ba[who]PD de₆[to-carry]V
-c.5.6.5,The three ox-drivers from Adab,,16,lugal[king]N inim[word]N gi₄[to-return]V se₂-ek-rum[cloistered-woman]N kur₉[to-enter]V
-c.5.6.5,The three ox-drivers from Adab,,17,lugal[king]N se₂-ek-rum[cloistered-woman]N ad[voice]N gi₄[to-return]V
-c.5.6.5,The three ox-drivers from Adab,,18,ŋuruš[young-man]N 3[3]NU an[heaven]N gi₄[to-return]V
-c.5.6.5,The three ox-drivers from Adab,,19,lugal[king]N gud[bull]N ri[to-direct]V ak[to-do]V
-c.5.6.5,The three ox-drivers from Adab,,20,gud[bull]N lu₂[person]N 1[1]NU ab₂[cow]N lu₂[person]N 1[1]NU mar[waggon]N lu₂[person]N 1[1]NU
-c.5.6.5,The three ox-drivers from Adab,,21,enmen₂[thirst]N tuku[to-have]V a[water]N ŋal₂[to-be-(located)]V
-c.5.6.5,The three ox-drivers from Adab,,22,lu₂[person]N gud[bull]N a[water]N šub[to-fall]V a[water]N naŋ[to-drink]V
-c.5.6.5,The three ox-drivers from Adab,,23,gud[bull]N ur-mah[lion]N gu₇[to-eat]V gud[bull]N e₃[to-go-out-or-in]V
-c.5.6.5,The three ox-drivers from Adab,,24,lu₂[person]N ab₂[cow]N a[water]N šub[to-fall]V a[water]N naŋ[to-drink]V
-c.5.6.5,The three ox-drivers from Adab,,25,ab₂[cow]N edin[open-country]N ŋen[to-go]V ab₂[cow]N e₃[to-go-out-or-in]V
-c.5.6.5,The three ox-drivers from Adab,,26,lu₂[person]N mar[waggon]N a[water]N šub[to-fall]V a[water]N naŋ[to-drink]V
-c.5.6.5,The three ox-drivers from Adab,,27,mar[waggon]N gun₂[weight-measure-(load)]N kud[to-cut]V mar[waggon]N e₃[to-go-out-or-in]V
-c.5.6.5,The three ox-drivers from Adab,,28,ga-na[directive-expression]I ŋen[to-go]V ga-na[directive-expression]I gi₄[to-return]V
-c.5.6.5,The three ox-drivers from Adab,,29,gud[bull]N eš₂[rope]N la₂[to-hang]V la₂[to-hang]V ab₂[cow]N a-sila₃-ŋar-ra[afterbirth]N sur[to-drip]V amar[calf]N mar[waggon]N zu₂[tooth]N gub[to-stand]V
-c.5.6.5,The three ox-drivers from Adab,,30,amar[calf]N a-ba[who]PD amar[calf]N a-ba[who]PD de₆[to-carry]V
-c.5.6.5,The three ox-drivers from Adab,,65,ga-nam[moreover]AV lu₂[person]N gud[bull]N a-šag₄[field]N
-c.5.6.5,The three ox-drivers from Adab,,66,gud[bull]N ur-mah[lion]N gu₇[to-eat]V
-c.5.6.5,The three ox-drivers from Adab,,67,a-šag₄[field]N
-c.5.6.5,The three ox-drivers from Adab,,69,ur-saŋ[hero]N
-c.5.6.5,The three ox-drivers from Adab,,70,lu₂[person]N hur-saŋ[mountain-(range)]N
-c.5.6.5,The three ox-drivers from Adab,,71,gud[bull]N ur[dog]N
-c.5.6.5,The three ox-drivers from Adab,,72,a₂-tuku[powerful]AJ a-šag₄[field]N zag[side]N lu₂[person]N
-c.5.6.5,The three ox-drivers from Adab,,73,ga-nam[moreover]AV lu₂[person]N ab₂[cow]N dam[spouse]N
-c.5.6.5,The three ox-drivers from Adab,,74,ab₂[cow]N edin[open-country]N ŋen[to-go]V
-c.5.6.5,The three ox-drivers from Adab,,75,dam[spouse]N tilla₂[town-square]N ak[to-do]V
-c.5.6.5,The three ox-drivers from Adab,,76,ab₂[cow]N a-sila₃-ŋar-ra[afterbirth]N sur[to-drip]V
-c.5.6.5,The three ox-drivers from Adab,,77,ur-saŋ[hero]N ŋen[to-go]V
-c.5.6.5,The three ox-drivers from Adab,,78,dam[spouse]N ni₂-te-a-ni[himself;-herself]PD ri[to-direct]V
-c.5.6.5,The three ox-drivers from Adab,,79,gud[bull]N kurum₆[food-ration]N ur₂[root]N gur[to-turn]V šag₄-ŋar[hunger]N
-c.5.6.5,The three ox-drivers from Adab,,80,dam[spouse]N e₂[house(hold)]N tuš[to-sit]V šag₄[heart]N guru₇[to-heap-up]V
-c.5.6.5,The three ox-drivers from Adab,,81,ga-nam[moreover]AV lu₂[person]N mar[waggon]N me[essence]N ugu[skull]N šub[to-fall]V
-c.5.6.5,The three ox-drivers from Adab,,82,mar[waggon]N gun₂[weight-measure-(load)]N kud[to-cut]V mar[waggon]N
-c.5.6.5,The three ox-drivers from Adab,,83,me[essence]N e₂[house(hold)]N de₆[to-carry]V e₂[house(hold)]N šub[to-fall]V
-c.5.6.5,The three ox-drivers from Adab,,84,amar[calf]N mar[waggon]N zu₂[tooth]N de₆[to-carry]V e₂[house(hold)]N tur[to-be-small]V
-c.5.6.5,The three ox-drivers from Adab,,85,ur-saŋ[hero]N a₂[arm]N bad[to-open]V te[to-approach]V
-c.5.6.5,The three ox-drivers from Adab,,86,lugal[king]N inim[word]N zu[to-know]V ki-šub-ba[waste-ground]N me[essence]N šub[to-fall]V
-c.5.6.5,The three ox-drivers from Adab,,87,gud[bull]N e₂[house(hold)]N ur[dog]N ŋiš[tree]N ad[voice]N ŋeštug₂[ear]N hal[to-divide-out]V zig₃[to-rise]V
-c.5.6.5,The three ox-drivers from Adab,,88,gun₂[weight-measure-(load)]N bur₂[to-release]V ensi₂[(city)-ruler]N gal[to-be-big]V dib[to-pass]V gi₄[to-return]V
-c.5.6.5,The three ox-drivers from Adab,,89,lugal[king]N se₂-ek-rum[cloistered-woman]N e₃[to-go-out-or-in]V
-c.5.6.5,The three ox-drivers from Adab,,90,lu₂[person]N 1[1]NU šag₄[heart]N šag₄[heart]N si[to-fill]V
-c.5.6.5,The three ox-drivers from Adab,,91,lu₂[person]N dam[spouse]N hul[to-be-bad]V gig[to-be-ill]V dam[spouse]N ŋen[to-go]V
-c.5.6.5,The three ox-drivers from Adab,,92,lu₂[person]N me[essence]N me[essence]N šub[to-fall]V
-c.5.6.5,The three ox-drivers from Adab,,93,inim[word]N galam[to-be-skilful]V dumu[child]N Adab[1]SN
-c.5.6.5,The three ox-drivers from Adab,,94,inim[word]N galam[to-be-skilful]V di[(law)suit]N dab₅[to-seize]V
-c.5.6.5,The three ox-drivers from Adab,,95,Pa-niŋin-ŋara[1]DN pap-šeš[foremost]N um-mi-a[scholar]N diŋir[deity]N Adab[1]SN dub-sar[scribe]N
+c.5.6.5,The three ox-drivers from Adab,,1,sux:gu₅-li[friend]N sux:3[3]NU sux:dumu[child]N sux:Adab[1]SN
+c.5.6.5,The three ox-drivers from Adab,,2,sux:di[(law)suit]N sux:tuku[to-have]V sux:di[(law)suit]N sux:kiŋ₂[to-seek]V
+c.5.6.5,The three ox-drivers from Adab,,3,sux:inim[word]N sux:šar₂[to-be-numerous]V sux:lugal[king]N sux:an[heaven]N sux:gi₄[to-return]V
+c.5.6.5,The three ox-drivers from Adab,,4,sux:lugal[king]N sux:gud[bull]N sux:ri[to-direct]V sux:ak[to-do]V
+c.5.6.5,The three ox-drivers from Adab,,5,sux:gud[bull]N sux:lu₂[person]N sux:1[1]NU sux:ab₂[cow]N sux:lu₂[person]N sux:1[1]NU sux:mar[waggon]N sux:lu₂[person]N sux:1[1]NU
+c.5.6.5,The three ox-drivers from Adab,,6,sux:enmen₂[thirst]N sux:tuku[to-have]V sux:a[water]N sux:ŋal₂[to-be-(located)]V
+c.5.6.5,The three ox-drivers from Adab,,7,sux:lu₂[person]N sux:gud[bull]N sux:a[water]N sux:si[to-fill]V sux:a[water]N sux:naŋ[to-drink]V
+c.5.6.5,The three ox-drivers from Adab,,8,sux:gud[bull]N sux:ur-mah[lion]N sux:gu₇[to-eat]V sux:gud[bull]N sux:e₃[to-go-out-or-in]V
+c.5.6.5,The three ox-drivers from Adab,,9,sux:lu₂[person]N sux:ab₂[cow]N sux:a[water]N sux:si[to-fill]V sux:a[water]N sux:naŋ[to-drink]V
+c.5.6.5,The three ox-drivers from Adab,,10,sux:ab₂[cow]N sux:edin[open-country]N sux:ŋen[to-go]V sux:ab₂[cow]N sux:e₃[to-go-out-or-in]V
+c.5.6.5,The three ox-drivers from Adab,,11,sux:lu₂[person]N sux:mar[waggon]N sux:a[water]N sux:si[to-fill]V sux:a[water]N sux:naŋ[to-drink]V
+c.5.6.5,The three ox-drivers from Adab,,12,sux:mar[waggon]N sux:gun₂[weight-measure-(load)]N sux:kud[to-cut]V sux:mar[waggon]N sux:e₃[to-go-out-or-in]V
+c.5.6.5,The three ox-drivers from Adab,,13,sux:ga-na[directive-expression]I sux:ŋen[to-go]V sux:ga-na[directive-expression]I sux:gi₄[to-return]V
+c.5.6.5,The three ox-drivers from Adab,,14,sux:gud[bull]N sux:eš₂[rope]N sux:la₂[to-hang]V sux:la₂[to-hang]V sux:ab₂[cow]N sux:a-sila₃-ŋar-ra[afterbirth]N sux:sur[to-drip]V sux:amar[calf]N sux:mar[waggon]N sux:zu₂[tooth]N sux:gub[to-stand]V
+c.5.6.5,The three ox-drivers from Adab,,15,sux:amar[calf]N sux:a-ba[who]PD sux:amar[calf]N sux:a-ba[who]PD sux:de₆[to-carry]V
+c.5.6.5,The three ox-drivers from Adab,,16,sux:lugal[king]N sux:inim[word]N sux:gi₄[to-return]V sux:se₂-ek-rum[cloistered-woman]N sux:kur₉[to-enter]V
+c.5.6.5,The three ox-drivers from Adab,,17,sux:lugal[king]N sux:se₂-ek-rum[cloistered-woman]N sux:ad[voice]N sux:gi₄[to-return]V
+c.5.6.5,The three ox-drivers from Adab,,18,sux:ŋuruš[young-man]N sux:3[3]NU sux:an[heaven]N sux:gi₄[to-return]V
+c.5.6.5,The three ox-drivers from Adab,,19,sux:lugal[king]N sux:gud[bull]N sux:ri[to-direct]V sux:ak[to-do]V
+c.5.6.5,The three ox-drivers from Adab,,20,sux:gud[bull]N sux:lu₂[person]N sux:1[1]NU sux:ab₂[cow]N sux:lu₂[person]N sux:1[1]NU sux:mar[waggon]N sux:lu₂[person]N sux:1[1]NU
+c.5.6.5,The three ox-drivers from Adab,,21,sux:enmen₂[thirst]N sux:tuku[to-have]V sux:a[water]N sux:ŋal₂[to-be-(located)]V
+c.5.6.5,The three ox-drivers from Adab,,22,sux:lu₂[person]N sux:gud[bull]N sux:a[water]N sux:šub[to-fall]V sux:a[water]N sux:naŋ[to-drink]V
+c.5.6.5,The three ox-drivers from Adab,,23,sux:gud[bull]N sux:ur-mah[lion]N sux:gu₇[to-eat]V sux:gud[bull]N sux:e₃[to-go-out-or-in]V
+c.5.6.5,The three ox-drivers from Adab,,24,sux:lu₂[person]N sux:ab₂[cow]N sux:a[water]N sux:šub[to-fall]V sux:a[water]N sux:naŋ[to-drink]V
+c.5.6.5,The three ox-drivers from Adab,,25,sux:ab₂[cow]N sux:edin[open-country]N sux:ŋen[to-go]V sux:ab₂[cow]N sux:e₃[to-go-out-or-in]V
+c.5.6.5,The three ox-drivers from Adab,,26,sux:lu₂[person]N sux:mar[waggon]N sux:a[water]N sux:šub[to-fall]V sux:a[water]N sux:naŋ[to-drink]V
+c.5.6.5,The three ox-drivers from Adab,,27,sux:mar[waggon]N sux:gun₂[weight-measure-(load)]N sux:kud[to-cut]V sux:mar[waggon]N sux:e₃[to-go-out-or-in]V
+c.5.6.5,The three ox-drivers from Adab,,28,sux:ga-na[directive-expression]I sux:ŋen[to-go]V sux:ga-na[directive-expression]I sux:gi₄[to-return]V
+c.5.6.5,The three ox-drivers from Adab,,29,sux:gud[bull]N sux:eš₂[rope]N sux:la₂[to-hang]V sux:la₂[to-hang]V sux:ab₂[cow]N sux:a-sila₃-ŋar-ra[afterbirth]N sux:sur[to-drip]V sux:amar[calf]N sux:mar[waggon]N sux:zu₂[tooth]N sux:gub[to-stand]V
+c.5.6.5,The three ox-drivers from Adab,,30,sux:amar[calf]N sux:a-ba[who]PD sux:amar[calf]N sux:a-ba[who]PD sux:de₆[to-carry]V
+c.5.6.5,The three ox-drivers from Adab,,65,sux:ga-nam[moreover]AV sux:lu₂[person]N sux:gud[bull]N sux:a-šag₄[field]N
+c.5.6.5,The three ox-drivers from Adab,,66,sux:gud[bull]N sux:ur-mah[lion]N sux:gu₇[to-eat]V
+c.5.6.5,The three ox-drivers from Adab,,67,sux:a-šag₄[field]N
+c.5.6.5,The three ox-drivers from Adab,,69,sux:ur-saŋ[hero]N
+c.5.6.5,The three ox-drivers from Adab,,70,sux:lu₂[person]N sux:hur-saŋ[mountain-(range)]N
+c.5.6.5,The three ox-drivers from Adab,,71,sux:gud[bull]N sux:ur[dog]N
+c.5.6.5,The three ox-drivers from Adab,,72,sux:a₂-tuku[powerful]AJ sux:a-šag₄[field]N sux:zag[side]N sux:lu₂[person]N
+c.5.6.5,The three ox-drivers from Adab,,73,sux:ga-nam[moreover]AV sux:lu₂[person]N sux:ab₂[cow]N sux:dam[spouse]N
+c.5.6.5,The three ox-drivers from Adab,,74,sux:ab₂[cow]N sux:edin[open-country]N sux:ŋen[to-go]V
+c.5.6.5,The three ox-drivers from Adab,,75,sux:dam[spouse]N sux:tilla₂[town-square]N sux:ak[to-do]V
+c.5.6.5,The three ox-drivers from Adab,,76,sux:ab₂[cow]N sux:a-sila₃-ŋar-ra[afterbirth]N sux:sur[to-drip]V
+c.5.6.5,The three ox-drivers from Adab,,77,sux:ur-saŋ[hero]N sux:ŋen[to-go]V
+c.5.6.5,The three ox-drivers from Adab,,78,sux:dam[spouse]N sux:ni₂-te-a-ni[himself;-herself]PD sux:ri[to-direct]V
+c.5.6.5,The three ox-drivers from Adab,,79,sux:gud[bull]N sux:kurum₆[food-ration]N sux:ur₂[root]N sux:gur[to-turn]V sux:šag₄-ŋar[hunger]N
+c.5.6.5,The three ox-drivers from Adab,,80,sux:dam[spouse]N sux:e₂[house(hold)]N sux:tuš[to-sit]V sux:šag₄[heart]N sux:guru₇[to-heap-up]V
+c.5.6.5,The three ox-drivers from Adab,,81,sux:ga-nam[moreover]AV sux:lu₂[person]N sux:mar[waggon]N sux:me[essence]N sux:ugu[skull]N sux:šub[to-fall]V
+c.5.6.5,The three ox-drivers from Adab,,82,sux:mar[waggon]N sux:gun₂[weight-measure-(load)]N sux:kud[to-cut]V sux:mar[waggon]N
+c.5.6.5,The three ox-drivers from Adab,,83,sux:me[essence]N sux:e₂[house(hold)]N sux:de₆[to-carry]V sux:e₂[house(hold)]N sux:šub[to-fall]V
+c.5.6.5,The three ox-drivers from Adab,,84,sux:amar[calf]N sux:mar[waggon]N sux:zu₂[tooth]N sux:de₆[to-carry]V sux:e₂[house(hold)]N sux:tur[to-be-small]V
+c.5.6.5,The three ox-drivers from Adab,,85,sux:ur-saŋ[hero]N sux:a₂[arm]N sux:bad[to-open]V sux:te[to-approach]V
+c.5.6.5,The three ox-drivers from Adab,,86,sux:lugal[king]N sux:inim[word]N sux:zu[to-know]V sux:ki-šub-ba[waste-ground]N sux:me[essence]N sux:šub[to-fall]V
+c.5.6.5,The three ox-drivers from Adab,,87,sux:gud[bull]N sux:e₂[house(hold)]N sux:ur[dog]N sux:ŋiš[tree]N sux:ad[voice]N sux:ŋeštug₂[ear]N sux:hal[to-divide-out]V sux:zig₃[to-rise]V
+c.5.6.5,The three ox-drivers from Adab,,88,sux:gun₂[weight-measure-(load)]N sux:bur₂[to-release]V sux:ensi₂[(city)-ruler]N sux:gal[to-be-big]V sux:dib[to-pass]V sux:gi₄[to-return]V
+c.5.6.5,The three ox-drivers from Adab,,89,sux:lugal[king]N sux:se₂-ek-rum[cloistered-woman]N sux:e₃[to-go-out-or-in]V
+c.5.6.5,The three ox-drivers from Adab,,90,sux:lu₂[person]N sux:1[1]NU sux:šag₄[heart]N sux:šag₄[heart]N sux:si[to-fill]V
+c.5.6.5,The three ox-drivers from Adab,,91,sux:lu₂[person]N sux:dam[spouse]N sux:hul[to-be-bad]V sux:gig[to-be-ill]V sux:dam[spouse]N sux:ŋen[to-go]V
+c.5.6.5,The three ox-drivers from Adab,,92,sux:lu₂[person]N sux:me[essence]N sux:me[essence]N sux:šub[to-fall]V
+c.5.6.5,The three ox-drivers from Adab,,93,sux:inim[word]N sux:galam[to-be-skilful]V sux:dumu[child]N sux:Adab[1]SN
+c.5.6.5,The three ox-drivers from Adab,,94,sux:inim[word]N sux:galam[to-be-skilful]V sux:di[(law)suit]N sux:dab₅[to-seize]V
+c.5.6.5,The three ox-drivers from Adab,,95,sux:Pa-niŋin-ŋara[1]DN sux:pap-šeš[foremost]N sux:um-mi-a[scholar]N sux:diŋir[deity]N sux:Adab[1]SN sux:dub-sar[scribe]N

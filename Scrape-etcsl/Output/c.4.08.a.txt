@@ -1,37 +1,37 @@
 id_text,text_name,version,l_no,text
-c.4.08.a,A balbale to Inana,,1,ab₂[cow]N gu₃[voice]N dug₃[to-be-good]V amar[calf]N gu₃[voice]N sud[to-be-distant]V
-c.4.08.a,A balbale to Inana,,2,in-nin[mistress]N tur₃[animal-stall]N niŋin₂[to-go-around]V
-c.4.08.a,A balbale to Inana,,3,ki-sikil[young-woman]N dun₅[to-rock]V
-c.4.08.a,A balbale to Inana,,4,Inana[1]DN šakir₃[churn]N gu₃[voice]N dug₄[to-say]V
-c.4.08.a,A balbale to Inana,,5,šakir₃[churn]N nitalam[spouse]N gu₃[voice]N dug₄[to-say]V
-c.4.08.a,A balbale to Inana,,6,šakir₃[churn]N Dumuzid[1]DN gu₃[voice]N dug₄[to-say]V
-c.4.08.a,A balbale to Inana,,7,Inana[1]DN šakir₃[churn]N gu₃[voice]N dug₄[to-say]V
-c.4.08.a,A balbale to Inana,,8,šakir₃[churn]N Dumuzid[1]DN gu₃[voice]N dug₄[to-say]V
-c.4.08.a,A balbale to Inana,,9,dun₅[to-rock]V šakir₃[churn]N du₁₂[to-perform-(music)]V
-c.4.08.a,A balbale to Inana,,10,Inana[1]DN ur₅[that]PD hul₂[to-be-happy]V
-c.4.08.a,A balbale to Inana,,11,šakir₃[churn]N kug[shining]AJ gu₃[voice]N dug₄[to-say]V
-c.4.08.a,A balbale to Inana,,12,Ninegala[1]DN ur₅[that]PD hul₂[to-be-happy]V
-c.4.08.a,A balbale to Inana,,13,sipad[shepherd]N zid[right]AJ lu₂[person]N i-lu[(sad)-song]N dug₃[to-be-good]V
-c.4.08.a,A balbale to Inana,,14,mur[growl]N ša₄[verb-part-of-multiword-verb]V i-lu[(sad)-song]N dug₄[to-say]V
-c.4.08.a,A balbale to Inana,,15,in-nin[mistress]N i-lu[(sad)-song]N niŋ₂[thing]N ku₇-ku₇[to-be-sweet]V
-c.4.08.a,A balbale to Inana,,16,Inana[1]DN šag₄[heart]N hul₂[to-be-happy]V
-c.4.08.a,A balbale to Inana,,17,in-nin[mistress]N tur₃[animal-stall]N kur₉[to-enter]V
-c.4.08.a,A balbale to Inana,,18,Inana[1]DN tur₃[animal-stall]N hul₂[to-be-happy]V
-c.4.08.a,A balbale to Inana,,19,nu-u₈-gig[high-status-woman]N amaš[sheepfold]N kur₉[to-enter]V
-c.4.08.a,A balbale to Inana,,20,Inana[1]DN amaš[sheepfold]N hul₂[to-be-happy]V
-c.4.08.a,A balbale to Inana,,21,e₂-ubur-ra[milking-pen]N kur₉[to-enter]V
-c.4.08.a,A balbale to Inana,,22,siki[hair]N u₈[ewe]N zid[right]AJ barag₂[to-spread-out]V
-c.4.08.a,A balbale to Inana,,23,nitalam[spouse]N Ama-ušumgal-ana[1]DN
-c.4.08.a,A balbale to Inana,,24,gaba[chest]N kug[shining]AJ dug₄[to-say]V
-c.4.08.a,A balbale to Inana,,25,amaš[sheepfold]N kug[shining]AJ i₃[fatty-substance]N ki[place]N sud[to-be-distant]V
-c.4.08.a,A balbale to Inana,,26,u₅[fatty-substance]N sud[to-be-distant]V ga[milk]N sud[to-be-distant]V
-c.4.08.a,A balbale to Inana,,27,Inana[1]DN ur₅[that]PD hul₂[to-be-happy]V
-c.4.08.a,A balbale to Inana,,28,amaš[sheepfold]N kug[shining]AJ i₃[fatty-substance]N ki[place]N sud[to-be-distant]V
-c.4.08.a,A balbale to Inana,,29,Ninegala[1]DN ur₅[that]PD hul₂[to-be-happy]V
-c.4.08.a,A balbale to Inana,,30,lugal[king]N šag₄[heart]N pad₃[to-find]V
-c.4.08.a,A balbale to Inana,,31,Dumuzid[1]DN dumu[child]N Enlil[1]DN
-c.4.08.a,A balbale to Inana,,32,tur₃[animal-stall]N i₃[fatty-substance]N ga[milk]N dug₄[to-say]V
-c.4.08.a,A balbale to Inana,,33,amaš[sheepfold]N giri₁₇-zal[joy]N dug₄[to-say]V
-c.4.08.a,A balbale to Inana,,34,sipad[shepherd]N zid[right]AJ ud[day(light)]N sud[to-be-distant]V
-c.4.08.a,A balbale to Inana,,35,sipad[shepherd]N zid[right]AJ Dumuzid[1]DN ud[day(light)]N nam-he₂[abundance]N
-c.4.08.a,A balbale to Inana,,36,bal-bal-e[type-of-composition]N Inana[1]DN
+c.4.08.a,A balbale to Inana,,1,sux:ab₂[cow]N sux:gu₃[voice]N sux:dug₃[to-be-good]V sux:amar[calf]N sux:gu₃[voice]N sux:sud[to-be-distant]V
+c.4.08.a,A balbale to Inana,,2,sux:in-nin[mistress]N sux:tur₃[animal-stall]N sux:niŋin₂[to-go-around]V
+c.4.08.a,A balbale to Inana,,3,sux:ki-sikil[young-woman]N sux:dun₅[to-rock]V
+c.4.08.a,A balbale to Inana,,4,sux:Inana[1]DN sux:šakir₃[churn]N sux:gu₃[voice]N sux:dug₄[to-say]V
+c.4.08.a,A balbale to Inana,,5,sux:šakir₃[churn]N sux:nitalam[spouse]N sux:gu₃[voice]N sux:dug₄[to-say]V
+c.4.08.a,A balbale to Inana,,6,sux:šakir₃[churn]N sux:Dumuzid[1]DN sux:gu₃[voice]N sux:dug₄[to-say]V
+c.4.08.a,A balbale to Inana,,7,sux:Inana[1]DN sux:šakir₃[churn]N sux:gu₃[voice]N sux:dug₄[to-say]V
+c.4.08.a,A balbale to Inana,,8,sux:šakir₃[churn]N sux:Dumuzid[1]DN sux:gu₃[voice]N sux:dug₄[to-say]V
+c.4.08.a,A balbale to Inana,,9,sux:dun₅[to-rock]V sux:šakir₃[churn]N sux:du₁₂[to-perform-(music)]V
+c.4.08.a,A balbale to Inana,,10,sux:Inana[1]DN sux:ur₅[that]PD sux:hul₂[to-be-happy]V
+c.4.08.a,A balbale to Inana,,11,sux:šakir₃[churn]N sux:kug[shining]AJ sux:gu₃[voice]N sux:dug₄[to-say]V
+c.4.08.a,A balbale to Inana,,12,sux:Ninegala[1]DN sux:ur₅[that]PD sux:hul₂[to-be-happy]V
+c.4.08.a,A balbale to Inana,,13,sux:sipad[shepherd]N sux:zid[right]AJ sux:lu₂[person]N sux:i-lu[(sad)-song]N sux:dug₃[to-be-good]V
+c.4.08.a,A balbale to Inana,,14,sux:mur[growl]N sux:ša₄[verb-part-of-multiword-verb]V sux:i-lu[(sad)-song]N sux:dug₄[to-say]V
+c.4.08.a,A balbale to Inana,,15,sux:in-nin[mistress]N sux:i-lu[(sad)-song]N sux:niŋ₂[thing]N sux:ku₇-ku₇[to-be-sweet]V
+c.4.08.a,A balbale to Inana,,16,sux:Inana[1]DN sux:šag₄[heart]N sux:hul₂[to-be-happy]V
+c.4.08.a,A balbale to Inana,,17,sux:in-nin[mistress]N sux:tur₃[animal-stall]N sux:kur₉[to-enter]V
+c.4.08.a,A balbale to Inana,,18,sux:Inana[1]DN sux:tur₃[animal-stall]N sux:hul₂[to-be-happy]V
+c.4.08.a,A balbale to Inana,,19,sux:nu-u₈-gig[high-status-woman]N sux:amaš[sheepfold]N sux:kur₉[to-enter]V
+c.4.08.a,A balbale to Inana,,20,sux:Inana[1]DN sux:amaš[sheepfold]N sux:hul₂[to-be-happy]V
+c.4.08.a,A balbale to Inana,,21,sux:e₂-ubur-ra[milking-pen]N sux:kur₉[to-enter]V
+c.4.08.a,A balbale to Inana,,22,sux:siki[hair]N sux:u₈[ewe]N sux:zid[right]AJ sux:barag₂[to-spread-out]V
+c.4.08.a,A balbale to Inana,,23,sux:nitalam[spouse]N sux:Ama-ušumgal-ana[1]DN
+c.4.08.a,A balbale to Inana,,24,sux:gaba[chest]N sux:kug[shining]AJ sux:dug₄[to-say]V
+c.4.08.a,A balbale to Inana,,25,sux:amaš[sheepfold]N sux:kug[shining]AJ sux:i₃[fatty-substance]N sux:ki[place]N sux:sud[to-be-distant]V
+c.4.08.a,A balbale to Inana,,26,sux-x-emesal:u₅[fatty-substance]N sux:sud[to-be-distant]V sux:ga[milk]N sux:sud[to-be-distant]V
+c.4.08.a,A balbale to Inana,,27,sux:Inana[1]DN sux:ur₅[that]PD sux:hul₂[to-be-happy]V
+c.4.08.a,A balbale to Inana,,28,sux:amaš[sheepfold]N sux:kug[shining]AJ sux:i₃[fatty-substance]N sux:ki[place]N sux:sud[to-be-distant]V
+c.4.08.a,A balbale to Inana,,29,sux:Ninegala[1]DN sux:ur₅[that]PD sux:hul₂[to-be-happy]V
+c.4.08.a,A balbale to Inana,,30,sux:lugal[king]N sux:šag₄[heart]N sux:pad₃[to-find]V
+c.4.08.a,A balbale to Inana,,31,sux:Dumuzid[1]DN sux:dumu[child]N sux:Enlil[1]DN
+c.4.08.a,A balbale to Inana,,32,sux:tur₃[animal-stall]N sux:i₃[fatty-substance]N sux:ga[milk]N sux:dug₄[to-say]V
+c.4.08.a,A balbale to Inana,,33,sux:amaš[sheepfold]N sux:giri₁₇-zal[joy]N sux:dug₄[to-say]V
+c.4.08.a,A balbale to Inana,,34,sux:sipad[shepherd]N sux:zid[right]AJ sux:ud[day(light)]N sux:sud[to-be-distant]V
+c.4.08.a,A balbale to Inana,,35,sux:sipad[shepherd]N sux:zid[right]AJ sux:Dumuzid[1]DN sux:ud[day(light)]N sux:nam-he₂[abundance]N
+c.4.08.a,A balbale to Inana,,36,sux:bal-bal-e[type-of-composition]N sux:Inana[1]DN

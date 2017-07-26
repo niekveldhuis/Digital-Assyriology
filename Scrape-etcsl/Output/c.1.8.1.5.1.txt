@@ -1,139 +1,139 @@
 id_text,text_name,version,l_no,text
-c.1.8.1.5.1,Gilgameš and Huwawa (Version B),,1,i₃-a[type-of-exclamation]I lum[to-thrive]V u₃-luh[sceptre]N sud[to-be-distant]V
-c.1.8.1.5.1,Gilgameš and Huwawa (Version B),,2,dumu-gir₁₅[citizen]N giri₁₇-zal[joy]N diŋir[deity]N
-c.1.8.1.5.1,Gilgameš and Huwawa (Version B),,3,gud[bull]N lipiš-tuku[furious]AJ me₃[battle]N gub[to-stand]V
-c.1.8.1.5.1,Gilgameš and Huwawa (Version B),,4,en[lord]N Gilgameš[1]DN Unug[1]SN mi₂[(loving)-care]N dug₄[to-say]V
-c.1.8.1.5.1,Gilgameš and Huwawa (Version B),,5,Unug[1]SN lu₂[person]N uš₂[to-die]V ur₅[liver]N sag₃[to-beat]V
-c.1.8.1.5.1,Gilgameš and Huwawa (Version B),,6,lu₂[person]N u₂-gu[noun-part-of-multiword-verb]N de₂[to-pour]V šag₄[heart]N hul[to-be-bad]V ŋar[to-place]V
-c.1.8.1.5.1,Gilgameš and Huwawa (Version B),,7,bad₃[wall]N su[flesh]N la₂[to-hang]V
-c.1.8.1.5.1,Gilgameš and Huwawa (Version B),,8,lu₂[person]N a-a[father]N dirig[to-be-superior]V igi[eye]N sig₁₀[to-place]V
-c.1.8.1.5.1,Gilgameš and Huwawa (Version B),,9,ur₅[liver]N uš₂[to-die]V šag₄[heart]N sag₃[to-beat]V
-c.1.8.1.5.1,Gilgameš and Huwawa (Version B),,10,zag[side]N nam-til₃[life]N saŋ[head]N gi₄[to-return]V
-c.1.8.1.5.1,Gilgameš and Huwawa (Version B),,11,irigal[underworld]N kur[(mountain)-land]N nam-gu₂-ka[submission]N lu₂[person]N taka₄[to-leave-behind]V
-c.1.8.1.5.1,Gilgameš and Huwawa (Version B),,12,sud[to-be-distant]V kur[(mountain)-land]N gib[to-lie-across-(obstructively)]V
-c.1.8.1.5.1,Gilgameš and Huwawa (Version B),,13,daŋal[to-be-wide]V kur[(mountain)-land]N šu₂[to-cover]V
-c.1.8.1.5.1,Gilgameš and Huwawa (Version B),,14,zag[side]N ŋuruš[young-man]N til[to-complete]V saŋ[head]N til[to-complete]V ed₃[to-go-down-or-up]V
-c.1.8.1.5.1,Gilgameš and Huwawa (Version B),,15,zi[life-(breath)]N ama[mother]N ugu[to-give-birth]V Ninsumun[1]DN a-a[father]N kug[shining]AJ Lugalbanda[1]DN
-c.1.8.1.5.1,Gilgameš and Huwawa (Version B),,16,diŋir[deity]N Enki[1]DN en[lord]N Nudimmud[1]DN
-c.1.8.1.5.1,Gilgameš and Huwawa (Version B),,17,me[essence]N
+c.1.8.1.5.1,Gilgameš and Huwawa (Version B),,1,sux:i₃-a[type-of-exclamation]I sux:lum[to-thrive]V sux:u₃-luh[sceptre]N sux:sud[to-be-distant]V
+c.1.8.1.5.1,Gilgameš and Huwawa (Version B),,2,sux:dumu-gir₁₅[citizen]N sux:giri₁₇-zal[joy]N sux:diŋir[deity]N
+c.1.8.1.5.1,Gilgameš and Huwawa (Version B),,3,sux:gud[bull]N sux:lipiš-tuku[furious]AJ sux:me₃[battle]N sux:gub[to-stand]V
+c.1.8.1.5.1,Gilgameš and Huwawa (Version B),,4,sux:en[lord]N sux:Gilgameš[1]DN sux:Unug[1]SN sux:mi₂[(loving)-care]N sux:dug₄[to-say]V
+c.1.8.1.5.1,Gilgameš and Huwawa (Version B),,5,sux:Unug[1]SN sux:lu₂[person]N sux:uš₂[to-die]V sux:ur₅[liver]N sux:sag₃[to-beat]V
+c.1.8.1.5.1,Gilgameš and Huwawa (Version B),,6,sux:lu₂[person]N sux:u₂-gu[noun-part-of-multiword-verb]N sux:de₂[to-pour]V sux:šag₄[heart]N sux:hul[to-be-bad]V sux:ŋar[to-place]V
+c.1.8.1.5.1,Gilgameš and Huwawa (Version B),,7,sux:bad₃[wall]N sux:su[flesh]N sux:la₂[to-hang]V
+c.1.8.1.5.1,Gilgameš and Huwawa (Version B),,8,sux:lu₂[person]N sux:a-a[father]N sux:dirig[to-be-superior]V sux:igi[eye]N sux:sig₁₀[to-place]V
+c.1.8.1.5.1,Gilgameš and Huwawa (Version B),,9,sux:ur₅[liver]N sux:uš₂[to-die]V sux:šag₄[heart]N sux:sag₃[to-beat]V
+c.1.8.1.5.1,Gilgameš and Huwawa (Version B),,10,sux:zag[side]N sux:nam-til₃[life]N sux:saŋ[head]N sux:gi₄[to-return]V
+c.1.8.1.5.1,Gilgameš and Huwawa (Version B),,11,sux:irigal[underworld]N sux:kur[(mountain)-land]N sux:nam-gu₂-ka[submission]N sux:lu₂[person]N sux:taka₄[to-leave-behind]V
+c.1.8.1.5.1,Gilgameš and Huwawa (Version B),,12,sux:sud[to-be-distant]V sux:kur[(mountain)-land]N sux:gib[to-lie-across-(obstructively)]V
+c.1.8.1.5.1,Gilgameš and Huwawa (Version B),,13,sux:daŋal[to-be-wide]V sux:kur[(mountain)-land]N sux:šu₂[to-cover]V
+c.1.8.1.5.1,Gilgameš and Huwawa (Version B),,14,sux:zag[side]N sux:ŋuruš[young-man]N sux:til[to-complete]V sux:saŋ[head]N sux:til[to-complete]V sux:ed₃[to-go-down-or-up]V
+c.1.8.1.5.1,Gilgameš and Huwawa (Version B),,15,sux:zi[life-(breath)]N sux:ama[mother]N sux:ugu[to-give-birth]V sux:Ninsumun[1]DN sux:a-a[father]N sux:kug[shining]AJ sux:Lugalbanda[1]DN
+c.1.8.1.5.1,Gilgameš and Huwawa (Version B),,16,sux:diŋir[deity]N sux:Enki[1]DN sux:en[lord]N sux:Nudimmud[1]DN
+c.1.8.1.5.1,Gilgameš and Huwawa (Version B),,17,sux:me[essence]N
 c.1.8.1.5.1,Gilgameš and Huwawa (Version B),,18,
-c.1.8.1.5.1,Gilgameš and Huwawa (Version B),,19,šub[to-fall]V
-c.1.8.1.5.1,Gilgameš and Huwawa (Version B),,20,du₃[to-erect]V til[to-complete]V
-c.1.8.1.5.1,Gilgameš and Huwawa (Version B),,21,šub[to-fall]V kur₉[to-enter]V
-c.1.8.1.5.1,Gilgameš and Huwawa (Version B),,22,arad[slave]N Enkidu[1]PN gu₃[voice]N de₂[to-pour]V
-c.1.8.1.5.1,Gilgameš and Huwawa (Version B),,23,tukum-bi[if]C kur[(mountain)-land]N kur₉[to-enter]V
-c.1.8.1.5.1,Gilgameš and Huwawa (Version B),,24,Utu[1]DN zu[to-know]V
-c.1.8.1.5.1,Gilgameš and Huwawa (Version B),,25,Mountain-of-cedar-felling[1]GN kur₉[to-enter]V
-c.1.8.1.5.1,Gilgameš and Huwawa (Version B),,26,Utu[1]DN zu[to-know]V
-c.1.8.1.5.1,Gilgameš and Huwawa (Version B),,27,kur[(mountain)-land]N dim₂-ma[reasoning]N Utu[1]DN
-c.1.8.1.5.1,Gilgameš and Huwawa (Version B),,28,Mountain-of-cedar-felling[1]GN dim₂-ma[reasoning]N šul[young-man]N Utu[1]DN
-c.1.8.1.5.1,Gilgameš and Huwawa (Version B),,29,Utu[1]DN an[heaven]N suh₁₀[crown]N za-gin₃[lapis-lazuli]N keše₂[to-bind]V
-c.1.8.1.5.1,Gilgameš and Huwawa (Version B),,30,saŋ[head]N il₂[to-raise]V ŋen[to-go]V
-c.1.8.1.5.1,Gilgameš and Huwawa (Version B),,31,Gilgameš[1]DN en[lord]N Kulaba[1]SN šu[hand]N ŋidru[sceptre]N kug[shining]AJ giri₁₇[nose]N tab[to-be-parallel]V
-c.1.8.1.5.1,Gilgameš and Huwawa (Version B),,32,Utu[1]DN kur[(mountain)-land]N kur₉[to-enter]V me[to-be]V a₂-tah[helper]N
-c.1.8.1.5.1,Gilgameš and Huwawa (Version B),,33,Mountain-of-cedar-felling[1]GN kur₉[to-enter]V me[to-be]V a₂-tah[helper]N
-c.1.8.1.5.1,Gilgameš and Huwawa (Version B),,38,1[1]NU
-c.1.8.1.5.1,Gilgameš and Huwawa (Version B),,39,2-kam-ma[2nd]NU
-c.1.8.1.5.1,Gilgameš and Huwawa (Version B),,40,3-kam-ma[3rd]NU
-c.1.8.1.5.1,Gilgameš and Huwawa (Version B),,41,4-kam-ma[4th]NU
-c.1.8.1.5.1,Gilgameš and Huwawa (Version B),,42,5-kam-ma[5th]NU tab[to-be-parallel]V
-c.1.8.1.5.1,Gilgameš and Huwawa (Version B),,43,6-kam-ma[6th]NU a-ŋi₆[flooding]N du₇[to-push]V kur[(mountain)-land]N gaba[chest]N ra[to-beat]V
-c.1.8.1.5.1,Gilgameš and Huwawa (Version B),,44,7-kam-ma[7th]NU nim[lightning]N ŋir₂[to-flash]V a₂[arm]N lu₂[person]N gur[to-turn]V
-c.1.8.1.5.1,Gilgameš and Huwawa (Version B),,45,e-ne-ne[they]PD an[heaven]N mul[to-radiate]V ki[place]N har-ra-an[route]N zu[to-know]V
-c.1.8.1.5.1,Gilgameš and Huwawa (Version B),,46,an[heaven]N mul[to-radiate]V il₂[to-raise]V
-c.1.8.1.5.1,Gilgameš and Huwawa (Version B),,47,ki[place]N kaskal[(high)way]N Aratta[1]SN zu[to-know]V
-c.1.8.1.5.1,Gilgameš and Huwawa (Version B),,48,dam-gara₃[merchant]N ŋiri₃-bal[flood-storm]N zu[to-know]V
-c.1.8.1.5.1,Gilgameš and Huwawa (Version B),,49,tum₁₂[pigeon]N ab-lal₃[nook]N kur[(mountain)-land]N zu[to-know]V
-c.1.8.1.5.1,Gilgameš and Huwawa (Version B),,50,ma₂-ur₃[portage-place]N hur-saŋ[mountain-(range)]N de₆[to-carry]V
-c.1.8.1.5.1,Gilgameš and Huwawa (Version B),,51,Gilgameš[1]DN iri[town]N zig₃[to-rise]V ŋar[to-place]V
-c.1.8.1.5.1,Gilgameš and Huwawa (Version B),,52,Kulaba[1]SN si[horn]N gu₃[voice]N ra[to-beat]V
-c.1.8.1.5.1,Gilgameš and Huwawa (Version B),,53,iri[town]N dam[spouse]N tuku[to-have]V dam[spouse]N zu[to-know]V dumu[child]N tuku[to-have]V dumu[child]N
-c.1.8.1.5.1,Gilgameš and Huwawa (Version B),,54,ur-saŋ[hero]N zu[to-know]V ur-saŋ[hero]N zu[to-know]V
-c.1.8.1.5.1,Gilgameš and Huwawa (Version B),,55,dam[spouse]N tuku[to-have]V dumu[child]N tuku[to-have]V
-c.1.8.1.5.1,Gilgameš and Huwawa (Version B),,56,lu₂[person]N ur₅[that]PD lu₂[person]N Gilgameš[1]DN a₂[arm]N ak[to-do]V
-c.1.8.1.5.1,Gilgameš and Huwawa (Version B),,57,lugal[king]N iri[town]N e₃[to-go-out-or-in]V
-c.1.8.1.5.1,Gilgameš and Huwawa (Version B),,58,Gilgameš[1]DN Kulaba[1]SN e₃[to-go-out-or-in]V
-c.1.8.1.5.1,Gilgameš and Huwawa (Version B),,59,Mountain-of-cedar-felling[1]GN ŋiri₃[foot]N dab₅[to-seize]V
-c.1.8.1.5.1,Gilgameš and Huwawa (Version B),,60,hur-saŋ[mountain-(range)]N 1[1]NU bal[to-turn-over]V erin[cedar]N šag₄[heart]N pad₃[to-find]V
-c.1.8.1.5.1,Gilgameš and Huwawa (Version B),,61,hur-saŋ[mountain-(range)]N 2-kam-ma[2nd]NU bal[to-turn-over]V erin[cedar]N šag₄[heart]N pad₃[to-find]V
-c.1.8.1.5.1,Gilgameš and Huwawa (Version B),,62,hur-saŋ[mountain-(range)]N 3-kam-ma[3rd]NU bal[to-turn-over]V erin[cedar]N šag₄[heart]N pad₃[to-find]V
-c.1.8.1.5.1,Gilgameš and Huwawa (Version B),,63,hur-saŋ[mountain-(range)]N 4-kam-ma[4th]NU bal[to-turn-over]V erin[cedar]N šag₄[heart]N pad₃[to-find]V
-c.1.8.1.5.1,Gilgameš and Huwawa (Version B),,64,hur-saŋ[mountain-(range)]N 5-kam-ma[5th]NU bal[to-turn-over]V erin[cedar]N šag₄[heart]N pad₃[to-find]V
-c.1.8.1.5.1,Gilgameš and Huwawa (Version B),,65,hur-saŋ[mountain-(range)]N 6-kam-ma[6th]NU bal[to-turn-over]V erin[cedar]N šag₄[heart]N pad₃[to-find]V
-c.1.8.1.5.1,Gilgameš and Huwawa (Version B),,66,hur-saŋ[mountain-(range)]N 7-kam-ma[7th]NU bal[to-turn-over]V erin[cedar]N šag₄[heart]N pad₃[to-find]V
-c.1.8.1.5.1,Gilgameš and Huwawa (Version B),,67,Gilgameš[1]DN erin[cedar]N sag₃[to-beat]V
-c.1.8.1.5.1,Gilgameš and Huwawa (Version B),,68,arad[slave]N Enkidu[1]PN pa[branch]N ak[to-do]V
-c.1.8.1.5.1,Gilgameš and Huwawa (Version B),,69,dumu[child]N iri[town]N ŋen[to-go]V
-c.1.8.1.5.1,Gilgameš and Huwawa (Version B),,70,gu-ru-um[pile]N gub[to-stand]V
-c.1.8.1.5.1,Gilgameš and Huwawa (Version B),,71,ud[day(light)]N ur-saŋ[hero]N ur-saŋ[hero]N te[to-approach]V
-c.1.8.1.5.1,Gilgameš and Huwawa (Version B),,72,me-lem₄[(awesome)-radiance]N šukur[lance]N te[to-pierce]V
-c.1.8.1.5.1,Gilgameš and Huwawa (Version B),,73,nu₂[to-lie-down]V silim[to-be-healthy]V nu₂[to-lie-down]V
-c.1.8.1.5.1,Gilgameš and Huwawa (Version B),,74,u₃[sleep]N ku[to-lay-down]V
-c.1.8.1.5.1,Gilgameš and Huwawa (Version B),,78,gu₃[voice]N
-c.1.8.1.5.1,Gilgameš and Huwawa (Version B),,79,nu₂[to-lie-down]V nu₂[to-lie-down]V
-c.1.8.1.5.1,Gilgameš and Huwawa (Version B),,80,en[lord]N Gilgameš[1]DN en₃-še₃[how-long]AV nu₂[to-lie-down]V
-c.1.8.1.5.1,Gilgameš and Huwawa (Version B),,81,kur[(mountain)-land]N suh₃[to-blur]V ŋissu[(protective)-shade]N la₂[to-hang]V
+c.1.8.1.5.1,Gilgameš and Huwawa (Version B),,19,sux:šub[to-fall]V
+c.1.8.1.5.1,Gilgameš and Huwawa (Version B),,20,sux:du₃[to-erect]V sux:til[to-complete]V
+c.1.8.1.5.1,Gilgameš and Huwawa (Version B),,21,sux:šub[to-fall]V sux:kur₉[to-enter]V
+c.1.8.1.5.1,Gilgameš and Huwawa (Version B),,22,sux:arad[slave]N sux:Enkidu[1]PN sux:gu₃[voice]N sux:de₂[to-pour]V
+c.1.8.1.5.1,Gilgameš and Huwawa (Version B),,23,sux:tukum-bi[if]C sux:kur[(mountain)-land]N sux:kur₉[to-enter]V
+c.1.8.1.5.1,Gilgameš and Huwawa (Version B),,24,sux:Utu[1]DN sux:zu[to-know]V
+c.1.8.1.5.1,Gilgameš and Huwawa (Version B),,25,sux:Mountain-of-cedar-felling[1]GN sux:kur₉[to-enter]V
+c.1.8.1.5.1,Gilgameš and Huwawa (Version B),,26,sux:Utu[1]DN sux:zu[to-know]V
+c.1.8.1.5.1,Gilgameš and Huwawa (Version B),,27,sux:kur[(mountain)-land]N sux:dim₂-ma[reasoning]N sux:Utu[1]DN
+c.1.8.1.5.1,Gilgameš and Huwawa (Version B),,28,sux:Mountain-of-cedar-felling[1]GN sux:dim₂-ma[reasoning]N sux:šul[young-man]N sux:Utu[1]DN
+c.1.8.1.5.1,Gilgameš and Huwawa (Version B),,29,sux:Utu[1]DN sux:an[heaven]N sux:suh₁₀[crown]N sux:za-gin₃[lapis-lazuli]N sux:keše₂[to-bind]V
+c.1.8.1.5.1,Gilgameš and Huwawa (Version B),,30,sux:saŋ[head]N sux:il₂[to-raise]V sux:ŋen[to-go]V
+c.1.8.1.5.1,Gilgameš and Huwawa (Version B),,31,sux:Gilgameš[1]DN sux:en[lord]N sux:Kulaba[1]SN sux:šu[hand]N sux:ŋidru[sceptre]N sux:kug[shining]AJ sux:giri₁₇[nose]N sux:tab[to-be-parallel]V
+c.1.8.1.5.1,Gilgameš and Huwawa (Version B),,32,sux:Utu[1]DN sux:kur[(mountain)-land]N sux:kur₉[to-enter]V sux:me[to-be]V sux:a₂-tah[helper]N
+c.1.8.1.5.1,Gilgameš and Huwawa (Version B),,33,sux:Mountain-of-cedar-felling[1]GN sux:kur₉[to-enter]V sux:me[to-be]V sux:a₂-tah[helper]N
+c.1.8.1.5.1,Gilgameš and Huwawa (Version B),,38,sux:1[1]NU
+c.1.8.1.5.1,Gilgameš and Huwawa (Version B),,39,sux:2-kam-ma[2nd]NU
+c.1.8.1.5.1,Gilgameš and Huwawa (Version B),,40,sux:3-kam-ma[3rd]NU
+c.1.8.1.5.1,Gilgameš and Huwawa (Version B),,41,sux:4-kam-ma[4th]NU
+c.1.8.1.5.1,Gilgameš and Huwawa (Version B),,42,sux:5-kam-ma[5th]NU sux:tab[to-be-parallel]V
+c.1.8.1.5.1,Gilgameš and Huwawa (Version B),,43,sux:6-kam-ma[6th]NU sux:a-ŋi₆[flooding]N sux:du₇[to-push]V sux:kur[(mountain)-land]N sux:gaba[chest]N sux:ra[to-beat]V
+c.1.8.1.5.1,Gilgameš and Huwawa (Version B),,44,sux:7-kam-ma[7th]NU sux:nim[lightning]N sux:ŋir₂[to-flash]V sux:a₂[arm]N sux:lu₂[person]N sux:gur[to-turn]V
+c.1.8.1.5.1,Gilgameš and Huwawa (Version B),,45,sux:e-ne-ne[they]PD sux:an[heaven]N sux:mul[to-radiate]V sux:ki[place]N sux:har-ra-an[route]N sux:zu[to-know]V
+c.1.8.1.5.1,Gilgameš and Huwawa (Version B),,46,sux:an[heaven]N sux:mul[to-radiate]V sux:il₂[to-raise]V
+c.1.8.1.5.1,Gilgameš and Huwawa (Version B),,47,sux:ki[place]N sux:kaskal[(high)way]N sux:Aratta[1]SN sux:zu[to-know]V
+c.1.8.1.5.1,Gilgameš and Huwawa (Version B),,48,sux:dam-gara₃[merchant]N sux:ŋiri₃-bal[flood-storm]N sux:zu[to-know]V
+c.1.8.1.5.1,Gilgameš and Huwawa (Version B),,49,sux:tum₁₂[pigeon]N sux:ab-lal₃[nook]N sux:kur[(mountain)-land]N sux:zu[to-know]V
+c.1.8.1.5.1,Gilgameš and Huwawa (Version B),,50,sux:ma₂-ur₃[portage-place]N sux:hur-saŋ[mountain-(range)]N sux:de₆[to-carry]V
+c.1.8.1.5.1,Gilgameš and Huwawa (Version B),,51,sux:Gilgameš[1]DN sux:iri[town]N sux:zig₃[to-rise]V sux:ŋar[to-place]V
+c.1.8.1.5.1,Gilgameš and Huwawa (Version B),,52,sux:Kulaba[1]SN sux:si[horn]N sux:gu₃[voice]N sux:ra[to-beat]V
+c.1.8.1.5.1,Gilgameš and Huwawa (Version B),,53,sux:iri[town]N sux:dam[spouse]N sux:tuku[to-have]V sux:dam[spouse]N sux:zu[to-know]V sux:dumu[child]N sux:tuku[to-have]V sux:dumu[child]N
+c.1.8.1.5.1,Gilgameš and Huwawa (Version B),,54,sux:ur-saŋ[hero]N sux:zu[to-know]V sux:ur-saŋ[hero]N sux:zu[to-know]V
+c.1.8.1.5.1,Gilgameš and Huwawa (Version B),,55,sux:dam[spouse]N sux:tuku[to-have]V sux:dumu[child]N sux:tuku[to-have]V
+c.1.8.1.5.1,Gilgameš and Huwawa (Version B),,56,sux:lu₂[person]N sux:ur₅[that]PD sux:lu₂[person]N sux:Gilgameš[1]DN sux:a₂[arm]N sux:ak[to-do]V
+c.1.8.1.5.1,Gilgameš and Huwawa (Version B),,57,sux:lugal[king]N sux:iri[town]N sux:e₃[to-go-out-or-in]V
+c.1.8.1.5.1,Gilgameš and Huwawa (Version B),,58,sux:Gilgameš[1]DN sux:Kulaba[1]SN sux:e₃[to-go-out-or-in]V
+c.1.8.1.5.1,Gilgameš and Huwawa (Version B),,59,sux:Mountain-of-cedar-felling[1]GN sux:ŋiri₃[foot]N sux:dab₅[to-seize]V
+c.1.8.1.5.1,Gilgameš and Huwawa (Version B),,60,sux:hur-saŋ[mountain-(range)]N sux:1[1]NU sux:bal[to-turn-over]V sux:erin[cedar]N sux:šag₄[heart]N sux:pad₃[to-find]V
+c.1.8.1.5.1,Gilgameš and Huwawa (Version B),,61,sux:hur-saŋ[mountain-(range)]N sux:2-kam-ma[2nd]NU sux:bal[to-turn-over]V sux:erin[cedar]N sux:šag₄[heart]N sux:pad₃[to-find]V
+c.1.8.1.5.1,Gilgameš and Huwawa (Version B),,62,sux:hur-saŋ[mountain-(range)]N sux:3-kam-ma[3rd]NU sux:bal[to-turn-over]V sux:erin[cedar]N sux:šag₄[heart]N sux:pad₃[to-find]V
+c.1.8.1.5.1,Gilgameš and Huwawa (Version B),,63,sux:hur-saŋ[mountain-(range)]N sux:4-kam-ma[4th]NU sux:bal[to-turn-over]V sux:erin[cedar]N sux:šag₄[heart]N sux:pad₃[to-find]V
+c.1.8.1.5.1,Gilgameš and Huwawa (Version B),,64,sux:hur-saŋ[mountain-(range)]N sux:5-kam-ma[5th]NU sux:bal[to-turn-over]V sux:erin[cedar]N sux:šag₄[heart]N sux:pad₃[to-find]V
+c.1.8.1.5.1,Gilgameš and Huwawa (Version B),,65,sux:hur-saŋ[mountain-(range)]N sux:6-kam-ma[6th]NU sux:bal[to-turn-over]V sux:erin[cedar]N sux:šag₄[heart]N sux:pad₃[to-find]V
+c.1.8.1.5.1,Gilgameš and Huwawa (Version B),,66,sux:hur-saŋ[mountain-(range)]N sux:7-kam-ma[7th]NU sux:bal[to-turn-over]V sux:erin[cedar]N sux:šag₄[heart]N sux:pad₃[to-find]V
+c.1.8.1.5.1,Gilgameš and Huwawa (Version B),,67,sux:Gilgameš[1]DN sux:erin[cedar]N sux:sag₃[to-beat]V
+c.1.8.1.5.1,Gilgameš and Huwawa (Version B),,68,sux:arad[slave]N sux:Enkidu[1]PN sux:pa[branch]N sux:ak[to-do]V
+c.1.8.1.5.1,Gilgameš and Huwawa (Version B),,69,sux:dumu[child]N sux:iri[town]N sux:ŋen[to-go]V
+c.1.8.1.5.1,Gilgameš and Huwawa (Version B),,70,sux:gu-ru-um[pile]N sux:gub[to-stand]V
+c.1.8.1.5.1,Gilgameš and Huwawa (Version B),,71,sux:ud[day(light)]N sux:ur-saŋ[hero]N sux:ur-saŋ[hero]N sux:te[to-approach]V
+c.1.8.1.5.1,Gilgameš and Huwawa (Version B),,72,sux:me-lem₄[(awesome)-radiance]N sux:šukur[lance]N sux:te[to-pierce]V
+c.1.8.1.5.1,Gilgameš and Huwawa (Version B),,73,sux:nu₂[to-lie-down]V sux:silim[to-be-healthy]V sux:nu₂[to-lie-down]V
+c.1.8.1.5.1,Gilgameš and Huwawa (Version B),,74,sux:u₃[sleep]N sux:ku[to-lay-down]V
+c.1.8.1.5.1,Gilgameš and Huwawa (Version B),,78,sux:gu₃[voice]N
+c.1.8.1.5.1,Gilgameš and Huwawa (Version B),,79,sux:nu₂[to-lie-down]V sux:nu₂[to-lie-down]V
+c.1.8.1.5.1,Gilgameš and Huwawa (Version B),,80,sux:en[lord]N sux:Gilgameš[1]DN sux:en₃-še₃[how-long]AV sux:nu₂[to-lie-down]V
+c.1.8.1.5.1,Gilgameš and Huwawa (Version B),,81,sux:kur[(mountain)-land]N sux:suh₃[to-blur]V sux:ŋissu[(protective)-shade]N sux:la₂[to-hang]V
 c.1.8.1.5.1,Gilgameš and Huwawa (Version B),,82,
-c.1.8.1.5.1,Gilgameš and Huwawa (Version B),,83,Gilgameš[1]DN zig₃[to-rise]V ma-mu₂[dream]N
-c.1.8.1.5.1,Gilgameš and Huwawa (Version B),,84,bu-luh[to-shudder]V u₃-sa₂[sleep]N
-c.1.8.1.5.1,Gilgameš and Huwawa (Version B),,85,igi[eye]N šu[hand]N gur[to-turn]V niŋ₂-me-ŋar[silence]N sug₄[to-be-full]V
-c.1.8.1.5.1,Gilgameš and Huwawa (Version B),,86,zi[life-(breath)]N ama[mother]N ugu[to-give-birth]V Ninsumun[1]DN a-a[father]N ugu[to-give-birth]V kug[shining]AJ Lugalbanda[1]DN
-c.1.8.1.5.1,Gilgameš and Huwawa (Version B),,87,diŋir[deity]N Enki[1]DN en[lord]N Nudimmud[1]DN
-c.1.8.1.5.1,Gilgameš and Huwawa (Version B),,90,ŋe₂₆[I]PD šag₄[heart]N dab₅[to-seize]V
-c.1.8.1.5.1,Gilgameš and Huwawa (Version B),,91,ur-saŋ[hero]N igi[eye]N igi[eye]N piriŋ[lion]N
-c.1.8.1.5.1,Gilgameš and Huwawa (Version B),,92,ŊIŠ.GABA[breastbone]N a-ŋi₆[flooding]N du₇[to-push]V
-c.1.8.1.5.1,Gilgameš and Huwawa (Version B),,93,saŋ-ki[forehead]N ŋiš-gi[reedbed]N gu₇[to-eat]V lu₂[person]N te[to-approach]V
-c.1.8.1.5.1,Gilgameš and Huwawa (Version B),,94,eme[tongue]N ur-mah[lion]N lu₂[person]N gu₇[to-eat]V uš₂[gore]N šarag[to-dry-out]V
-c.1.8.1.5.1,Gilgameš and Huwawa (Version B),,95,ur-saŋ[hero]N usu[strength]N ŋal₂[to-be-(located)]V ne-en[this]PD ŋal₂[to-be-(located)]V
-c.1.8.1.5.1,Gilgameš and Huwawa (Version B),,96,arad[slave]N Enkidu[1]PN gu₃[voice]N de₂[to-pour]V
+c.1.8.1.5.1,Gilgameš and Huwawa (Version B),,83,sux:Gilgameš[1]DN sux:zig₃[to-rise]V sux:ma-mu₂[dream]N
+c.1.8.1.5.1,Gilgameš and Huwawa (Version B),,84,sux:bu-luh[to-shudder]V sux:u₃-sa₂[sleep]N
+c.1.8.1.5.1,Gilgameš and Huwawa (Version B),,85,sux:igi[eye]N sux:šu[hand]N sux:gur[to-turn]V sux:niŋ₂-me-ŋar[silence]N sux:sug₄[to-be-full]V
+c.1.8.1.5.1,Gilgameš and Huwawa (Version B),,86,sux:zi[life-(breath)]N sux:ama[mother]N sux:ugu[to-give-birth]V sux:Ninsumun[1]DN sux:a-a[father]N sux:ugu[to-give-birth]V sux:kug[shining]AJ sux:Lugalbanda[1]DN
+c.1.8.1.5.1,Gilgameš and Huwawa (Version B),,87,sux:diŋir[deity]N sux:Enki[1]DN sux:en[lord]N sux:Nudimmud[1]DN
+c.1.8.1.5.1,Gilgameš and Huwawa (Version B),,90,sux:ŋe₂₆[I]PD sux:šag₄[heart]N sux:dab₅[to-seize]V
+c.1.8.1.5.1,Gilgameš and Huwawa (Version B),,91,sux:ur-saŋ[hero]N sux:igi[eye]N sux:igi[eye]N sux:piriŋ[lion]N
+c.1.8.1.5.1,Gilgameš and Huwawa (Version B),,92,sux:ŊIŠ.GABA[breastbone]N sux:a-ŋi₆[flooding]N sux:du₇[to-push]V
+c.1.8.1.5.1,Gilgameš and Huwawa (Version B),,93,sux:saŋ-ki[forehead]N sux:ŋiš-gi[reedbed]N sux:gu₇[to-eat]V sux:lu₂[person]N sux:te[to-approach]V
+c.1.8.1.5.1,Gilgameš and Huwawa (Version B),,94,sux:eme[tongue]N sux:ur-mah[lion]N sux:lu₂[person]N sux:gu₇[to-eat]V sux:uš₂[gore]N sux:šarag[to-dry-out]V
+c.1.8.1.5.1,Gilgameš and Huwawa (Version B),,95,sux:ur-saŋ[hero]N sux:usu[strength]N sux:ŋal₂[to-be-(located)]V sux:ne-en[this]PD sux:ŋal₂[to-be-(located)]V
+c.1.8.1.5.1,Gilgameš and Huwawa (Version B),,96,sux:arad[slave]N sux:Enkidu[1]PN sux:gu₃[voice]N sux:de₂[to-pour]V
 c.1.8.1.5.1,Gilgameš and Huwawa (Version B),,97,
 c.1.8.1.5.1,Gilgameš and Huwawa (Version B),,98,
-c.1.8.1.5.1,Gilgameš and Huwawa (Version B),,99,zi[life-(breath)]N ama[mother]N ugu[to-give-birth]V Ninsumun[1]DN a-a[father]N kug[shining]AJ Lugalbanda[1]DN
-c.1.8.1.5.1,Gilgameš and Huwawa (Version B),,100,diŋir[deity]N Enki[1]DN en[lord]N Nudimmud[1]DN e₃[to-go-out-or-in]V
-c.1.8.1.5.1,Gilgameš and Huwawa (Version B),,101,ur-saŋ[hero]N kur[(mountain)-land]N tuš[to-sit]V zu[to-know]V
-c.1.8.1.5.1,Gilgameš and Huwawa (Version B),,102,ŋiri₃[foot]N tur[to-be-small]V e-sir₂[sandal]N tur[to-be-small]V dim₂[to-create]V
-c.1.8.1.5.1,Gilgameš and Huwawa (Version B),,103,ŋiri₃[foot]N gal[to-be-big]V e-sir₂[sandal]N gal[to-be-big]V dim₂[to-create]V
-c.1.8.1.5.1,Gilgameš and Huwawa (Version B),,108,kur₉[to-enter]V
-c.1.8.1.5.1,Gilgameš and Huwawa (Version B),,109,zi[life-(breath)]N ama[mother]N ugu[to-give-birth]V Ninsumun[1]DN a-a[father]N ugu[to-give-birth]V kug[shining]AJ Lugalbanda[1]DN
-c.1.8.1.5.1,Gilgameš and Huwawa (Version B),,110,diŋir[deity]N Enki[1]DN en[lord]N Nudimmud[1]DN e₃[to-go-out-or-in]V
-c.1.8.1.5.1,Gilgameš and Huwawa (Version B),,111,ur-saŋ[hero]N kur[(mountain)-land]N tuš[to-sit]V zu[to-know]V
-c.1.8.1.5.1,Gilgameš and Huwawa (Version B),,112,ŋiri₃[foot]N tur[to-be-small]V e-sir₂[sandal]N tur[to-be-small]V dim₂[to-create]V
-c.1.8.1.5.1,Gilgameš and Huwawa (Version B),,113,ŋiri₃[foot]N gal[to-be-big]V e-sir₂[sandal]N gal[to-be-big]V dim₂[to-create]V
-c.1.8.1.5.1,Gilgameš and Huwawa (Version B),,114,kur[(mountain)-land]N kur₉[to-enter]V
+c.1.8.1.5.1,Gilgameš and Huwawa (Version B),,99,sux:zi[life-(breath)]N sux:ama[mother]N sux:ugu[to-give-birth]V sux:Ninsumun[1]DN sux:a-a[father]N sux:kug[shining]AJ sux:Lugalbanda[1]DN
+c.1.8.1.5.1,Gilgameš and Huwawa (Version B),,100,sux:diŋir[deity]N sux:Enki[1]DN sux:en[lord]N sux:Nudimmud[1]DN sux:e₃[to-go-out-or-in]V
+c.1.8.1.5.1,Gilgameš and Huwawa (Version B),,101,sux:ur-saŋ[hero]N sux:kur[(mountain)-land]N sux:tuš[to-sit]V sux:zu[to-know]V
+c.1.8.1.5.1,Gilgameš and Huwawa (Version B),,102,sux:ŋiri₃[foot]N sux:tur[to-be-small]V sux:e-sir₂[sandal]N sux:tur[to-be-small]V sux:dim₂[to-create]V
+c.1.8.1.5.1,Gilgameš and Huwawa (Version B),,103,sux:ŋiri₃[foot]N sux:gal[to-be-big]V sux:e-sir₂[sandal]N sux:gal[to-be-big]V sux:dim₂[to-create]V
+c.1.8.1.5.1,Gilgameš and Huwawa (Version B),,108,sux:kur₉[to-enter]V
+c.1.8.1.5.1,Gilgameš and Huwawa (Version B),,109,sux:zi[life-(breath)]N sux:ama[mother]N sux:ugu[to-give-birth]V sux:Ninsumun[1]DN sux:a-a[father]N sux:ugu[to-give-birth]V sux:kug[shining]AJ sux:Lugalbanda[1]DN
+c.1.8.1.5.1,Gilgameš and Huwawa (Version B),,110,sux:diŋir[deity]N sux:Enki[1]DN sux:en[lord]N sux:Nudimmud[1]DN sux:e₃[to-go-out-or-in]V
+c.1.8.1.5.1,Gilgameš and Huwawa (Version B),,111,sux:ur-saŋ[hero]N sux:kur[(mountain)-land]N sux:tuš[to-sit]V sux:zu[to-know]V
+c.1.8.1.5.1,Gilgameš and Huwawa (Version B),,112,sux:ŋiri₃[foot]N sux:tur[to-be-small]V sux:e-sir₂[sandal]N sux:tur[to-be-small]V sux:dim₂[to-create]V
+c.1.8.1.5.1,Gilgameš and Huwawa (Version B),,113,sux:ŋiri₃[foot]N sux:gal[to-be-big]V sux:e-sir₂[sandal]N sux:gal[to-be-big]V sux:dim₂[to-create]V
+c.1.8.1.5.1,Gilgameš and Huwawa (Version B),,114,sux:kur[(mountain)-land]N sux:kur₉[to-enter]V
 c.1.8.1.5.1,Gilgameš and Huwawa (Version B),,115,
-c.1.8.1.5.1,Gilgameš and Huwawa (Version B),,129,gu-ru-um[pile]N hur-saŋ[mountain-(range)]N
-c.1.8.1.5.1,Gilgameš and Huwawa (Version B),,130,me-lem₄[(awesome)-radiance]N 7-kam-ma[7th]NU til[to-complete]V
-c.1.8.1.5.1,Gilgameš and Huwawa (Version B),,131,da[side]N te[to-approach]V ŋeštug₂[ear]N tibir[fist]N ra[to-beat]V
-c.1.8.1.5.1,Gilgameš and Huwawa (Version B),,132,saŋ-ki[forehead]N guru₅[to-cut-down]V zu₂[tooth]N zalag[to-be-shining]V
-c.1.8.1.5.1,Gilgameš and Huwawa (Version B),,133,am[wild-bull]N dab₅[to-seize]V saman[tethering-rope]N šub[to-fall]V
-c.1.8.1.5.1,Gilgameš and Huwawa (Version B),,134,ur-saŋ[hero]N dab₅[to-seize]V aškud₂[type-of-physical-extremity]N la₂[to-hang]V
-c.1.8.1.5.1,Gilgameš and Huwawa (Version B),,135,ur-saŋ[hero]N er₂[tear]N pad₃[to-find]V šeₓ[weeping]N ŋar[to-place]V
-c.1.8.1.5.1,Gilgameš and Huwawa (Version B),,136,Huwawa[1]DN er₂[tear]N pad₃[to-find]V šeₓ[weeping]N ŋar[to-place]V
-c.1.8.1.5.1,Gilgameš and Huwawa (Version B),,137,ur-saŋ[hero]N lul[to-be-false]V sig₁₀[to-place]V šu[hand]N si[horn]N sa₂[to-equal]V nam-erim₂[oath]N kud[to-cut]V
-c.1.8.1.5.1,Gilgameš and Huwawa (Version B),,138,zi[life-(breath)]N ama[mother]N ugu[to-give-birth]V Ninsumun[1]DN a-a[father]N kug[shining]AJ Lugalbanda[1]DN
-c.1.8.1.5.1,Gilgameš and Huwawa (Version B),,139,diŋir[deity]N Enki[1]DN en[lord]N Nudimmud[1]DN e₃[to-go-out-or-in]V
-c.1.8.1.5.1,Gilgameš and Huwawa (Version B),,140,am[wild-bull]N dab₅[to-seize]V saman[tethering-rope]N šub[to-fall]V
-c.1.8.1.5.1,Gilgameš and Huwawa (Version B),,141,ur-saŋ[hero]N dab₅[to-seize]V aškud₂[type-of-physical-extremity]N la₂[to-hang]V
-c.1.8.1.5.1,Gilgameš and Huwawa (Version B),,142,Gilgameš[1]DN dumu-gir₁₅[citizen]N šag₄[heart]N arhuš[compassion]N
-c.1.8.1.5.1,Gilgameš and Huwawa (Version B),,143,arad[slave]N Enkidu[1]PN gu₃[voice]N de₂[to-pour]V
-c.1.8.1.5.1,Gilgameš and Huwawa (Version B),,144,ŋen[to-go]V ur-saŋ[hero]N šu[hand]N bar[to-set-aside]V
-c.1.8.1.5.1,Gilgameš and Huwawa (Version B),,145,lu₂[person]N zu[to-know]V me[to-be]V dur₂[rump]N kaskal[(high)way]N igi[eye]N du₈[to-spread]V lu₂[person]N zu[to-know]V me[to-be]V
-c.1.8.1.5.1,Gilgameš and Huwawa (Version B),,146,me[to-be]V kilib₃[entirety]N il₂[to-raise]V
+c.1.8.1.5.1,Gilgameš and Huwawa (Version B),,129,sux:gu-ru-um[pile]N sux:hur-saŋ[mountain-(range)]N
+c.1.8.1.5.1,Gilgameš and Huwawa (Version B),,130,sux:me-lem₄[(awesome)-radiance]N sux:7-kam-ma[7th]NU sux:til[to-complete]V
+c.1.8.1.5.1,Gilgameš and Huwawa (Version B),,131,sux:da[side]N sux:te[to-approach]V sux:ŋeštug₂[ear]N sux:tibir[fist]N sux:ra[to-beat]V
+c.1.8.1.5.1,Gilgameš and Huwawa (Version B),,132,sux:saŋ-ki[forehead]N sux:guru₅[to-cut-down]V sux:zu₂[tooth]N sux:zalag[to-be-shining]V
+c.1.8.1.5.1,Gilgameš and Huwawa (Version B),,133,sux:am[wild-bull]N sux:dab₅[to-seize]V sux:saman[tethering-rope]N sux:šub[to-fall]V
+c.1.8.1.5.1,Gilgameš and Huwawa (Version B),,134,sux:ur-saŋ[hero]N sux:dab₅[to-seize]V sux:aškud₂[type-of-physical-extremity]N sux:la₂[to-hang]V
+c.1.8.1.5.1,Gilgameš and Huwawa (Version B),,135,sux:ur-saŋ[hero]N sux:er₂[tear]N sux:pad₃[to-find]V sux:šeₓ[weeping]N sux:ŋar[to-place]V
+c.1.8.1.5.1,Gilgameš and Huwawa (Version B),,136,sux:Huwawa[1]DN sux:er₂[tear]N sux:pad₃[to-find]V sux:šeₓ[weeping]N sux:ŋar[to-place]V
+c.1.8.1.5.1,Gilgameš and Huwawa (Version B),,137,sux:ur-saŋ[hero]N sux:lul[to-be-false]V sux:sig₁₀[to-place]V sux:šu[hand]N sux:si[horn]N sux:sa₂[to-equal]V sux:nam-erim₂[oath]N sux:kud[to-cut]V
+c.1.8.1.5.1,Gilgameš and Huwawa (Version B),,138,sux:zi[life-(breath)]N sux:ama[mother]N sux:ugu[to-give-birth]V sux:Ninsumun[1]DN sux:a-a[father]N sux:kug[shining]AJ sux:Lugalbanda[1]DN
+c.1.8.1.5.1,Gilgameš and Huwawa (Version B),,139,sux:diŋir[deity]N sux:Enki[1]DN sux:en[lord]N sux:Nudimmud[1]DN sux:e₃[to-go-out-or-in]V
+c.1.8.1.5.1,Gilgameš and Huwawa (Version B),,140,sux:am[wild-bull]N sux:dab₅[to-seize]V sux:saman[tethering-rope]N sux:šub[to-fall]V
+c.1.8.1.5.1,Gilgameš and Huwawa (Version B),,141,sux:ur-saŋ[hero]N sux:dab₅[to-seize]V sux:aškud₂[type-of-physical-extremity]N sux:la₂[to-hang]V
+c.1.8.1.5.1,Gilgameš and Huwawa (Version B),,142,sux:Gilgameš[1]DN sux:dumu-gir₁₅[citizen]N sux:šag₄[heart]N sux:arhuš[compassion]N
+c.1.8.1.5.1,Gilgameš and Huwawa (Version B),,143,sux:arad[slave]N sux:Enkidu[1]PN sux:gu₃[voice]N sux:de₂[to-pour]V
+c.1.8.1.5.1,Gilgameš and Huwawa (Version B),,144,sux:ŋen[to-go]V sux:ur-saŋ[hero]N sux:šu[hand]N sux:bar[to-set-aside]V
+c.1.8.1.5.1,Gilgameš and Huwawa (Version B),,145,sux:lu₂[person]N sux:zu[to-know]V sux:me[to-be]V sux:dur₂[rump]N sux:kaskal[(high)way]N sux:igi[eye]N sux:du₈[to-spread]V sux:lu₂[person]N sux:zu[to-know]V sux:me[to-be]V
+c.1.8.1.5.1,Gilgameš and Huwawa (Version B),,146,sux:me[to-be]V sux:kilib₃[entirety]N sux:il₂[to-raise]V
 c.1.8.1.5.1,Gilgameš and Huwawa (Version B),,147,
-c.1.8.1.5.1,Gilgameš and Huwawa (Version B),,148,arad[slave]N Enkidu[1]PN gi₄[to-return]V
-c.1.8.1.5.1,Gilgameš and Huwawa (Version B),,149,dim₂-ma[reasoning]N tuku[to-have]V
-c.1.8.1.5.1,Gilgameš and Huwawa (Version B),,150,tuku[to-have]V
-c.1.8.1.5.1,Gilgameš and Huwawa (Version B),,151,tuku[to-have]V
-c.1.8.1.5.1,Gilgameš and Huwawa (Version B),,152,ur-saŋ[hero]N dab₅[to-seize]V šu[hand]N bar[to-set-aside]V
-c.1.8.1.5.1,Gilgameš and Huwawa (Version B),,153,en[high-priest(ess)]N dab₅[to-seize]V ŋi₆-par₄[cloister]N gur[to-turn]V
-c.1.8.1.5.1,Gilgameš and Huwawa (Version B),,154,gudug[type-of-priest]N dab₅[to-seize]V hi-li[attractiveness]N gur[to-turn]V
-c.1.8.1.5.1,Gilgameš and Huwawa (Version B),,155,ud[day(light)]N ul-le₂-a[distant-time]N a-ba[who]PD igi[eye]N du₈[to-spread]V
-c.1.8.1.5.1,Gilgameš and Huwawa (Version B),,156,kaskal[(high)way]N kur[(mountain)-land]N
-c.1.8.1.5.1,Gilgameš and Huwawa (Version B),,157,ŋiri₃[foot]N kur[(mountain)-land]N suh₃[to-blur]V
-c.1.8.1.5.1,Gilgameš and Huwawa (Version B),,158,iri[town]N ama[mother]N tud[to-give-birth]V
-c.1.8.1.5.1,Gilgameš and Huwawa (Version B),,163,Huwawa[1]DN gi₄[to-return]V
-c.1.8.1.5.1,Gilgameš and Huwawa (Version B),,164,ama[mother]N tud[to-give-birth]V hur-ru-um[cave]N kur[(mountain)-land]N
-c.1.8.1.5.1,Gilgameš and Huwawa (Version B),,165,a-a[father]N tud[to-give-birth]V hur-ru-um[cave]N hur-saŋ[mountain-(range)]N
-c.1.8.1.5.1,Gilgameš and Huwawa (Version B),,166,Utu[1]DN dili[single]AJ kur[(mountain)-land]N tuš[to-sit]V
-c.1.8.1.5.1,Gilgameš and Huwawa (Version B),,167,Gilgameš[1]DN Huwawa[1]DN gu₃[voice]N de₂[to-pour]V
-c.1.8.1.5.1,Gilgameš and Huwawa (Version B),,168,ŋen[to-go]V
+c.1.8.1.5.1,Gilgameš and Huwawa (Version B),,148,sux:arad[slave]N sux:Enkidu[1]PN sux:gi₄[to-return]V
+c.1.8.1.5.1,Gilgameš and Huwawa (Version B),,149,sux:dim₂-ma[reasoning]N sux:tuku[to-have]V
+c.1.8.1.5.1,Gilgameš and Huwawa (Version B),,150,sux:tuku[to-have]V
+c.1.8.1.5.1,Gilgameš and Huwawa (Version B),,151,sux:tuku[to-have]V
+c.1.8.1.5.1,Gilgameš and Huwawa (Version B),,152,sux:ur-saŋ[hero]N sux:dab₅[to-seize]V sux:šu[hand]N sux:bar[to-set-aside]V
+c.1.8.1.5.1,Gilgameš and Huwawa (Version B),,153,sux:en[high-priest(ess)]N sux:dab₅[to-seize]V sux:ŋi₆-par₄[cloister]N sux:gur[to-turn]V
+c.1.8.1.5.1,Gilgameš and Huwawa (Version B),,154,sux:gudug[type-of-priest]N sux:dab₅[to-seize]V sux:hi-li[attractiveness]N sux:gur[to-turn]V
+c.1.8.1.5.1,Gilgameš and Huwawa (Version B),,155,sux:ud[day(light)]N sux:ul-le₂-a[distant-time]N sux:a-ba[who]PD sux:igi[eye]N sux:du₈[to-spread]V
+c.1.8.1.5.1,Gilgameš and Huwawa (Version B),,156,sux:kaskal[(high)way]N sux:kur[(mountain)-land]N
+c.1.8.1.5.1,Gilgameš and Huwawa (Version B),,157,sux:ŋiri₃[foot]N sux:kur[(mountain)-land]N sux:suh₃[to-blur]V
+c.1.8.1.5.1,Gilgameš and Huwawa (Version B),,158,sux:iri[town]N sux:ama[mother]N sux:tud[to-give-birth]V
+c.1.8.1.5.1,Gilgameš and Huwawa (Version B),,163,sux:Huwawa[1]DN sux:gi₄[to-return]V
+c.1.8.1.5.1,Gilgameš and Huwawa (Version B),,164,sux:ama[mother]N sux:tud[to-give-birth]V sux:hur-ru-um[cave]N sux:kur[(mountain)-land]N
+c.1.8.1.5.1,Gilgameš and Huwawa (Version B),,165,sux:a-a[father]N sux:tud[to-give-birth]V sux:hur-ru-um[cave]N sux:hur-saŋ[mountain-(range)]N
+c.1.8.1.5.1,Gilgameš and Huwawa (Version B),,166,sux:Utu[1]DN sux:dili[single]AJ sux:kur[(mountain)-land]N sux:tuš[to-sit]V
+c.1.8.1.5.1,Gilgameš and Huwawa (Version B),,167,sux:Gilgameš[1]DN sux:Huwawa[1]DN sux:gu₃[voice]N sux:de₂[to-pour]V
+c.1.8.1.5.1,Gilgameš and Huwawa (Version B),,168,sux:ŋen[to-go]V

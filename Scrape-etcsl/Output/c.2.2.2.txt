@@ -1,443 +1,443 @@
 id_text,text_name,version,l_no,text
-c.2.2.2,The lament for Urim,,1,tur₃[animal-stall]N muš₃[face]N ga[to-carry]V amaš[sheepfold]N lil₂[ghost]N
-c.2.2.2,The lament for Urim,,2,am[wild-bull]N tur₃[animal-stall]N muš₃[face]N ga[to-carry]V amaš[sheepfold]N lil₂[ghost]N
-c.2.2.2,The lament for Urim,,3,u₃-mu-un[lord]N kur[(mountain)-land]N muš₃[face]N ga[to-carry]V amaš[sheepfold]N lil₂[ghost]N
-c.2.2.2,The lament for Urim,,4,Enlil[1]DN eš₃[shrine]N Nibru[1]SN muš₃[face]N ga[to-carry]V amaš[sheepfold]N lil₂[ghost]N
-c.2.2.2,The lament for Urim,,5,dam[spouse]N Ninlil[1]DN muš₃[face]N ga[to-carry]V amaš[sheepfold]N lil₂[ghost]N
-c.2.2.2,The lament for Urim,,6,Ninlil[1]DN e₂[house(hold)]N Ki-ur[1]TN muš₃[face]N ga[to-carry]V amaš[sheepfold]N lil₂[ghost]N
-c.2.2.2,The lament for Urim,,7,nin[lady]N Keš[1]SN muš₃[face]N ga[to-carry]V amaš[sheepfold]N lil₂[ghost]N
-c.2.2.2,The lament for Urim,,8,Ninmah[1]DN e₂[house(hold)]N Keš[1]SN muš₃[face]N ga[to-carry]V amaš[sheepfold]N lil₂[ghost]N
-c.2.2.2,The lament for Urim,,9,mu-lu[person]N Isin[1]SN muš₃[face]N ga[to-carry]V amaš[sheepfold]N lil₂[ghost]N
-c.2.2.2,The lament for Urim,,10,Ninisina[1]DN eš₃[shrine]N Egal-mah[1]TN muš₃[face]N ga[to-carry]V amaš[sheepfold]N lil₂[ghost]N
-c.2.2.2,The lament for Urim,,11,nin[lady]N ki[place]N Unug[1]SN muš₃[face]N ga[to-carry]V amaš[sheepfold]N lil₂[ghost]N
-c.2.2.2,The lament for Urim,,12,Inana[1]DN e₂[house(hold)]N ki[place]N Unug[1]SN muš₃[face]N ga[to-carry]V amaš[sheepfold]N lil₂[ghost]N
-c.2.2.2,The lament for Urim,,13,Nanna[1]DN Urim[1]SN muš₃[face]N ga[to-carry]V amaš[sheepfold]N lil₂[ghost]N
-c.2.2.2,The lament for Urim,,14,Suen[1]DN E-kiš-nu-ŋal[1]TN muš₃[face]N ga[to-carry]V amaš[sheepfold]N lil₂[ghost]N
-c.2.2.2,The lament for Urim,,15,dam[spouse]N Ningal[1]DN muš₃[face]N ga[to-carry]V amaš[sheepfold]N lil₂[ghost]N
-c.2.2.2,The lament for Urim,,16,Ningal[1]DN Agrun-kug[1]TN muš₃[face]N ga[to-carry]V amaš[sheepfold]N lil₂[ghost]N
-c.2.2.2,The lament for Urim,,17,am[wild-bull]N Eridug[1]SN muš₃[face]N ga[to-carry]V amaš[sheepfold]N lil₂[ghost]N
-c.2.2.2,The lament for Urim,,18,Enki[1]DN e₂[house(hold)]N Eridug[1]SN muš₃[face]N ga[to-carry]V amaš[sheepfold]N lil₂[ghost]N
-c.2.2.2,The lament for Urim,,18A,Nin-X[1]DN e₂[house(hold)]N Larag[1]SN muš₃[face]N ga[to-carry]V amaš[sheepfold]N lil₂[ghost]N
-c.2.2.2,The lament for Urim,,19,Šara[1]DN E-mah[1]TN muš₃[face]N ga[to-carry]V amaš[sheepfold]N lil₂[ghost]N
-c.2.2.2,The lament for Urim,,20,Ud-sahara[1]DN e₂[house(hold)]N Umma[1]SN muš₃[face]N ga[to-carry]V amaš[sheepfold]N lil₂[ghost]N
-c.2.2.2,The lament for Urim,,21,Bau[1]DN Iri-kug[1]SN muš₃[face]N ga[to-carry]V amaš[sheepfold]N lil₂[ghost]N
-c.2.2.2,The lament for Urim,,22,a[water]N dug₄[to-say]V e₂-mi₂[woman's-estate]N muš₃[face]N ga[to-carry]V amaš[sheepfold]N lil₂[ghost]N
-c.2.2.2,The lament for Urim,,23,dumu[child]N Ab-Bau[1]DN muš₃[face]N ga[to-carry]V amaš[sheepfold]N lil₂[ghost]N
-c.2.2.2,The lament for Urim,,24,Ab-Bau[1]DN Ma-gu-ena[1]TN muš₃[face]N ga[to-carry]V amaš[sheepfold]N lil₂[ghost]N
-c.2.2.2,The lament for Urim,,25,lamma[guardian-deity]N e₂[house(hold)]N kug[shining]AJ muš₃[face]N ga[to-carry]V amaš[sheepfold]N lil₂[ghost]N
-c.2.2.2,The lament for Urim,,26,lamma[guardian-deity]N E-tar-sirsir[1]TN muš₃[face]N ga[to-carry]V amaš[sheepfold]N lil₂[ghost]N
-c.2.2.2,The lament for Urim,,27,um-ma[experienced-woman]N Lagaš[1]SN muš₃[face]N ga[to-carry]V amaš[sheepfold]N lil₂[ghost]N
-c.2.2.2,The lament for Urim,,28,Ŋatumdug[1]DN e₂[house(hold)]N Lagaš[1]SN muš₃[face]N ga[to-carry]V amaš[sheepfold]N lil₂[ghost]N
-c.2.2.2,The lament for Urim,,29,mu-lu[person]N Niŋin[1]SN muš₃[face]N ga[to-carry]V amaš[sheepfold]N lil₂[ghost]N
-c.2.2.2,The lament for Urim,,30,ga-ša-an[lady]N gal[to-be-big]V e₂[house(hold)]N Sirara[1]SN muš₃[face]N ga[to-carry]V amaš[sheepfold]N lil₂[ghost]N
-c.2.2.2,The lament for Urim,,31,mu-lu[person]N Kinirša[1]SN muš₃[face]N ga[to-carry]V amaš[sheepfold]N lil₂[ghost]N
-c.2.2.2,The lament for Urim,,32,Dumuzid-abzu[1]DN e₂[house(hold)]N Kinirša[1]SN muš₃[face]N ga[to-carry]V amaš[sheepfold]N lil₂[ghost]N
-c.2.2.2,The lament for Urim,,33,mu-lu[person]N Gu-aba[1]SN muš₃[face]N ga[to-carry]V amaš[sheepfold]N lil₂[ghost]N
-c.2.2.2,The lament for Urim,,34,Ninmarki[1]DN eš₃[shrine]N Gu-aba[1]SN muš₃[face]N ga[to-carry]V amaš[sheepfold]N lil₂[ghost]N
-c.2.2.2,The lament for Urim,,35,ki-ru-gu₂[composition-division]N 1-kam-ma[1st]NU
-c.2.2.2,The lament for Urim,,36,amaš[sheepfold]N lil₂[ghost]N ŋar[to-place]V i-si-iš[tears-(of-joy)]N kuš₂[to-be-tired]V
-c.2.2.2,The lament for Urim,,37,ab₂[cow]N gu₃[voice]N tur₃[animal-stall]N ŋal₂[to-be-(located)]V tur₃[animal-stall]N nun[prince]N ul[to-swell-(with-joy)]V
-c.2.2.2,The lament for Urim,,38,ŋiš-gi₄-ŋal₂[composition-division]N
-c.2.2.2,The lament for Urim,,39,uru₂[town]N a-še-er[lament]N gig[to-be-ill]V a-še-er[lament]N ŋar[to-place]V
-c.2.2.2,The lament for Urim,,40,a-še-er[lament]N gig[to-be-ill]V uru₂[town]N a-še-er[lament]N ŋar[to-place]V
-c.2.2.2,The lament for Urim,,41,uru₂[town]N zid[right]AJ gul[to-destroy]V a-še-er[lament]N gig[to-be-ill]V
-c.2.2.2,The lament for Urim,,42,Urim[1]SN zid[right]AJ gul[to-destroy]V a-še-er[lament]N gig[to-be-ill]V a-še-er[lament]N ŋar[to-place]V
-c.2.2.2,The lament for Urim,,43,a-še-er[lament]N gig[to-be-ill]V uru₂[town]N a-še-er[lament]N ŋar[to-place]V
-c.2.2.2,The lament for Urim,,44,Urim[1]SN gul[to-destroy]V a-še-er[lament]N gig[to-be-ill]V
-c.2.2.2,The lament for Urim,,45,a-še-er[lament]N gig[to-be-ill]V ga-ša-an[lady]N mu-lu[person]N er₂[tear]N en₃-še₃[how-long]AV kuš₂[to-be-tired]V
-c.2.2.2,The lament for Urim,,46,a-še-er[lament]N gig[to-be-ill]V Nanna[1]DN mu-lu[person]N er₂[tear]N en₃-še₃[how-long]AV kuš₂[to-be-tired]V
-c.2.2.2,The lament for Urim,,47,še-eb[brick(work)]N Urim[1]SN a-še-er[lament]N gig[to-be-ill]V a-še-er[lament]N ŋar[to-place]V
-c.2.2.2,The lament for Urim,,48,E-kiš-nu-ŋal[1]TN a-še-er[lament]N gig[to-be-ill]V a-še-er[lament]N ŋar[to-place]V
-c.2.2.2,The lament for Urim,,49,eš₃[shrine]N Agrun-kug[1]TN a-še-er[lament]N gig[to-be-ill]V a-še-er[lament]N ŋar[to-place]V
-c.2.2.2,The lament for Urim,,50,Ki-ur[1]TN ki[place]N gal[to-be-big]V a-še-er[lament]N gig[to-be-ill]V a-še-er[lament]N ŋar[to-place]V
-c.2.2.2,The lament for Urim,,51,eš₃[shrine]N Nibru[1]SN uru₂[town]N a-še-er[lament]N gig[to-be-ill]V a-še-er[lament]N ŋar[to-place]V
-c.2.2.2,The lament for Urim,,52,še-eb[brick(work)]N E-kur[1]TN a-še-er[lament]N gig[to-be-ill]V a-še-er[lament]N ŋar[to-place]V
-c.2.2.2,The lament for Urim,,53,Ŋa-ŋiš-šua[1]TN a-še-er[lament]N gig[to-be-ill]V a-še-er[lament]N ŋar[to-place]V
-c.2.2.2,The lament for Urim,,54,Ubšu-unkena[1]TN a-še-er[lament]N gig[to-be-ill]V a-še-er[lament]N ŋar[to-place]V
-c.2.2.2,The lament for Urim,,55,še-eb[brick(work)]N Iri-kug[1]SN a-še-er[lament]N gig[to-be-ill]V a-še-er[lament]N ŋar[to-place]V
-c.2.2.2,The lament for Urim,,56,E-tar-sirsir[1]TN a-še-er[lament]N gig[to-be-ill]V a-še-er[lament]N ŋar[to-place]V
-c.2.2.2,The lament for Urim,,57,Ma-gu-ena[1]TN a-še-er[lament]N gig[to-be-ill]V a-še-er[lament]N ŋar[to-place]V
-c.2.2.2,The lament for Urim,,58,še-eb[brick(work)]N Isin[1]SN a-še-er[lament]N gig[to-be-ill]V a-še-er[lament]N ŋar[to-place]V
-c.2.2.2,The lament for Urim,,59,eš₃[shrine]N Egal-mah[1]TN a-še-er[lament]N gig[to-be-ill]V a-še-er[lament]N ŋar[to-place]V
-c.2.2.2,The lament for Urim,,60,še-eb[brick(work)]N ki[place]N Unug[1]SN a-še-er[lament]N gig[to-be-ill]V a-še-er[lament]N ŋar[to-place]V
-c.2.2.2,The lament for Urim,,61,še-eb[brick(work)]N Eridug[1]SN a-še-er[lament]N gig[to-be-ill]V a-še-er[lament]N ŋar[to-place]V
-c.2.2.2,The lament for Urim,,62,a-še-er[lament]N gig[to-be-ill]V ga-ša-an[lady]N mu-lu[person]N er₂[tear]N en₃-še₃[how-long]AV kuš₂[to-be-tired]V
-c.2.2.2,The lament for Urim,,63,a-še-er[lament]N gig[to-be-ill]V Nanna[1]DN mu-lu[person]N er₂[tear]N en₃-še₃[how-long]AV kuš₂[to-be-tired]V
-c.2.2.2,The lament for Urim,,64,uru₂[town]N mu[name]N ŋal₂[to-be-(located)]V za[you-(sg.)]PD gul[to-destroy]V
-c.2.2.2,The lament for Urim,,65,uru₂[town]N bad₃[wall]N il₂[to-raise]V kalam[the-Land]N til[to-complete]V
-c.2.2.2,The lament for Urim,,66,uru₂[town]N u₈[ewe]N zid[right]AJ sila₄[lamb]N tar[to-cut]V
-c.2.2.2,The lament for Urim,,67,Urim[1]SN ud₅[(nanny)-goat]N zid[right]AJ maš₂[(kid)-goat]N til[to-complete]V
-c.2.2.2,The lament for Urim,,68,uru₂[town]N ŋarza[rite]N kur₂[to-be-different]V
-c.2.2.2,The lament for Urim,,69,me[essence]N me[essence]N kur₂[to-be-different]V šu[hand]N bal[to-turn-over]V ak[to-do]V
-c.2.2.2,The lament for Urim,,70,a-še-er[lament]N gig[to-be-ill]V ga-ša-an[lady]N mu-lu[person]N er₂[tear]N en₃-še₃[how-long]AV kuš₂[to-be-tired]V
-c.2.2.2,The lament for Urim,,71,a-še-er[lament]N gig[to-be-ill]V Nanna[1]DN mu-lu[person]N er₂[tear]N en₃-še₃[how-long]AV kuš₂[to-be-tired]V
-c.2.2.2,The lament for Urim,,72,ki-ru-gu₂[composition-division]N 2-kam-ma[2nd]NU
-c.2.2.2,The lament for Urim,,73,uru₂[town]N zid[right]AJ gul[to-destroy]V a-še-er[lament]N gig[to-be-ill]V
-c.2.2.2,The lament for Urim,,74,Urim[1]SN gul[to-destroy]V a-še-er[lament]N gig[to-be-ill]V
-c.2.2.2,The lament for Urim,,75,ŋiš-gi₄-ŋal₂[composition-division]N
-c.2.2.2,The lament for Urim,,76,nin[lady]N lu₂[person]N e₂[house(hold)]N hul[to-be-bad]V uru₂[town]N er₂[tear]N ŋar[to-place]V
-c.2.2.2,The lament for Urim,,77,Nanna[1]DN lu₂[person]N kalam[the-Land]N til[to-complete]V
-c.2.2.2,The lament for Urim,,78,Urim[1]SN a-nir[lament]N bar[outside]N tab[to-be-parallel]V
-c.2.2.2,The lament for Urim,,79,munus[woman]N zid[right]AJ nin[lady]N uru₂[town]N kuš₂[to-be-tired]V
-c.2.2.2,The lament for Urim,,80,Ningal[1]DN kalam[the-Land]N u₃[sleep]N ku[to-lay-down]V
-c.2.2.2,The lament for Urim,,81,e-ne[he;-she]PD nam[destiny]N uru₂[town]N te[to-approach]V er₂[tear]N gig[to-be-ill]V šeš₂[to-weep]V
-c.2.2.2,The lament for Urim,,82,nin[lady]N nam[destiny]N e₂[house(hold)]N te[to-approach]V er₂[tear]N gig[to-be-ill]V šeš₂[to-weep]V
-c.2.2.2,The lament for Urim,,83,nam[destiny]N uru₂[town]N hul[to-be-bad]V te[to-approach]V er₂[tear]N gig[to-be-ill]V šeš₂[to-weep]V
-c.2.2.2,The lament for Urim,,84,nam[destiny]N e₂[house(hold)]N hul[to-be-bad]V te[to-approach]V a-nir[lament]N gig[to-be-ill]V ŋar[to-place]V
-c.2.2.2,The lament for Urim,,85,munus[woman]N ad[voice]N balaŋ[type-of-instrument-and-composition]N er₂[tear]N ki[place]N al-ŋar[type-of-instrument]N
-c.2.2.2,The lament for Urim,,86,i-lu[(sad)-song]N ma[house(hold)]N sig₉[to-be-silent]V tur[to-be-small]V ni₂-te-a-ni[himself;-herself]PD dug₄[to-say]V
-c.2.2.2,The lament for Urim,,87,ud[storm]N ma-al[to-be-(located)]V i-si-iš[tears-(of-joy)]N la₂[to-hang]V
-c.2.2.2,The lament for Urim,,88,ud[storm]N na-aŋ₂[destiny]N sumur[to-be-angry]V
-c.2.2.2,The lament for Urim,,89,lu₂[person]N nu-nus[woman]N ud[storm]N ma-al[to-be-(located)]V
-c.2.2.2,The lament for Urim,,90,ud[storm]N ma-al[to-be-(located)]V i-si-iš[tears-(of-joy)]N la₂[to-hang]V
-c.2.2.2,The lament for Urim,,91,ud[day(light)]N ud[storm]N gig[to-be-ill]V ma-al[to-be-(located)]V
-c.2.2.2,The lament for Urim,,92,me[I]PD ud[day(light)]N zarah[grief]N ak[to-do]V
-c.2.2.2,The lament for Urim,,93,ud[day(light)]N a₂[arm]N e₃[to-go-out-or-in]V
-c.2.2.2,The lament for Urim,,94,ud[storm]N tur[to-be-small]V bal[term-(in-office)]N ud[day(light)]N sag₉[to-be-good]V bal[term-(in-office)]N ud[day(light)]N sag₉[to-be-good]V i-bi₂[eye]N du₈[to-spread]V
-c.2.2.2,The lament for Urim,,95,ŋi₆[night]N a-še-er[lament]N gig[to-be-ill]V ma-al[to-be-(located)]V
-c.2.2.2,The lament for Urim,,96,me[I]PD ŋi₆[night]N zarah[grief]N ak[to-do]V
-c.2.2.2,The lament for Urim,,97,ŋi₆[night]N a₂[arm]N e₃[to-go-out-or-in]V
-c.2.2.2,The lament for Urim,,98,ud[storm]N uru₂[flood]N gul[to-destroy]V ni₂[fear(someness)]N la₂[to-hang]V
-c.2.2.2,The lament for Urim,,99,na-aŋ₂[destiny]N ki-nu₂[sleeping-quarter]N ŋi₆[night]N u₃-na[designation-of-night]N ki-nu₂[sleeping-quarter]N ŋi₆[night]N u₃-na[designation-of-night]N lib[(deathly)-silence]N mar[to-place]V
-c.2.2.2,The lament for Urim,,100,ud[day(light)]N tur[to-be-small]V ki-nu₂[sleeping-quarter]N mu-uš-la₂-a-bi[silence]N ki-nu₂[sleeping-quarter]N ŋiš-la₂-bi[silence]N DU[DU]V
-c.2.2.2,The lament for Urim,,100A,ka-na-aŋ₂[the-Land]N ni₂[self]N šub[to-fall]V me[I]PD ak[to-do]V
-c.2.2.2,The lament for Urim,,101,ka-na-aŋ₂[the-Land]N aŋ₂-gig[abomination]N ŋal₂[to-be-(located)]V
-c.2.2.2,The lament for Urim,,102,ab₂[cow]N amar[calf]N ki[place]N šu[hand]N ak[to-do]V
-c.2.2.2,The lament for Urim,,103,ka-na-aŋ₂[the-Land]N ni₂[self]N šu[hand]N gi₄[to-return]V
-c.2.2.2,The lament for Urim,,104,uru₂[town]N du-lum[toil]N gig[to-be-ill]V ŋal₂[to-be-(located)]V
-c.2.2.2,The lament for Urim,,105,mušen[bird]N an[heaven]N a₂[arm]N dub₂[to-tremble]V ak[to-do]V
-c.2.2.2,The lament for Urim,,106,me[I]PD uru₂[town]N dal[to-fly]V
-c.2.2.2,The lament for Urim,,107,uru₂[town]N ki-ŋal₂-la[site]N gul[to-destroy]V
-c.2.2.2,The lament for Urim,,108,Urim[1]SN ki-nu₂[sleeping-quarter]N til[to-complete]V
-c.2.2.2,The lament for Urim,,109,šu[hand]N ud[storm]N an[heaven]N ŋal₂[to-be-(located)]V
-c.2.2.2,The lament for Urim,,110,gu₃[voice]N dub₂[to-tremble]V edin[open-country]N ud[storm]N gi₄[to-return]V me[I]PD dug₄[to-say]V
-c.2.2.2,The lament for Urim,,111,ud[storm]N gaba[chest]N zig₃[to-rise]V
-c.2.2.2,The lament for Urim,,112,nu-nus[woman]N Agrun-kug[1]TN e₂[house(hold)]N na-aŋ₂-ga-ša-an[ladyship]N
-c.2.2.2,The lament for Urim,,113,bal[term-(in-office)]N ud[day(light)]N sud[to-be-distant]V ŋar[to-place]V
-c.2.2.2,The lament for Urim,,114,er₂[tear]N a-še-er[lament]N ki[place]N us₂[to-be-adjacent]V
-c.2.2.2,The lament for Urim,,115,e₂[house(hold)]N ki[place]N ur₅[liver]N sag₉[to-be-good]V saŋ[head]N gig₂[to-be-black]V me[to-be]V
-c.2.2.2,The lament for Urim,,116,ezen[festival]N ib₂[to-be-furious]V su-mu-ug[distress]N tab[to-be-parallel]V
-c.2.2.2,The lament for Urim,,117,ud[storm]N tur[to-be-small]V e₂[house(hold)]N ki[place]N sag₉[to-be-good]V
-c.2.2.2,The lament for Urim,,118,e₂[house(hold)]N zid[right]AJ hul[to-be-bad]V i-bi₂[eye]N du₈[to-spread]V
-c.2.2.2,The lament for Urim,,119,ur₅[liver]N uš₂[to-die]V a-še-er[lament]N aŋ₂-gig[abomination]N
-c.2.2.2,The lament for Urim,,120,a-še-er[lament]N aŋ₂-gig[abomination]N de₆[to-carry]V
-c.2.2.2,The lament for Urim,,121,e₂[house(hold)]N lu₂[person]N zid[right]AJ ŋar[to-place]V
-c.2.2.2,The lament for Urim,,122,gi-sig[type-of-fence]N kiri₆[orchard]N bar[outside]N dub₂[to-tremble]V
-c.2.2.2,The lament for Urim,,123,E-kiš-nu-ŋal[1]TN e₂[house(hold)]N nam-lugal[kingship]N
-c.2.2.2,The lament for Urim,,124,e₂[house(hold)]N zid[right]AJ e₂[house(hold)]N er₂[tear]N ŋar[to-place]V
-c.2.2.2,The lament for Urim,,125,lul[to-be-false]V du₃[to-erect]V zid[right]AJ gul[to-destroy]V
-c.2.2.2,The lament for Urim,,126,ha-la[share]N ba[to-allot]V ŋar[to-place]V
-c.2.2.2,The lament for Urim,,127,za-lam-ŋar[tent]N e₂[house(hold)]N ki-buru₁₄[harvest-area]N bur₁₂[to-tear-out]V
-c.2.2.2,The lament for Urim,,128,e₂[house(hold)]N ki-buru₁₄[harvest-area]N bur₁₂[to-tear-out]V tum₉[wind]N šeŋ₃[rain]N ŋar[to-place]V
-c.2.2.2,The lament for Urim,,129,Urim[1]SN e₂-mi₂[woman's-estate]N niŋ₂[thing]N dirig[to-be-superior]V
-c.2.2.2,The lament for Urim,,130,e₂[house(hold)]N uru₂[town]N sig₉[to-put]V bur₁₂[to-tear-out]V
-c.2.2.2,The lament for Urim,,131,amaš[sheepfold]N sipad[shepherd]N bur₁₂[to-tear-out]V
-c.2.2.2,The lament for Urim,,132,niŋ₂-gur₁₁[possessions]N uru₂[town]N ŋal₂[to-be-(located)]V sug[marsh]N gu₇[to-eat]V
-c.2.2.2,The lament for Urim,,133,ki-ru-gu₂[composition-division]N 3-kam-ma[3rd]NU
-c.2.2.2,The lament for Urim,,134,Urim[1]SN er₂[tear]N ŋar[to-place]V
-c.2.2.2,The lament for Urim,,135,ŋiš-gi₄-ŋal₂[composition-division]N
-c.2.2.2,The lament for Urim,,136,ud[day(light)]N ud[storm]N ne-en[this]PD sag₃[to-beat]V
-c.2.2.2,The lament for Urim,,137,nin[lady]N uru₂[town]N gul[to-destroy]V
-c.2.2.2,The lament for Urim,,138,ud[day(light)]N ud[storm]N ne-en[this]PD dim₂[to-create]V
-c.2.2.2,The lament for Urim,,139,uru₂[town]N gul[to-destroy]V dug₄[to-say]V
-c.2.2.2,The lament for Urim,,140,Urim[1]SN gul[to-destroy]V dug₄[to-say]V
-c.2.2.2,The lament for Urim,,141,uŋ₃[people]N uš₂[to-die]V a₂[arm]N aŋ₂[to-measure]V
-c.2.2.2,The lament for Urim,,142,ud[day(light)]N me[I]PD uru₂[town]N ŋa₂-la[noun-part-of-multiword-verb]N dag[to-roam-around]V
-c.2.2.2,The lament for Urim,,143,ka-na-aŋ₂[the-Land]N ni₂[self]N šub[to-fall]V me[I]PD ak[to-do]V
-c.2.2.2,The lament for Urim,,144,An[1]DN a[water]N i-bi₂[eye]N me[I]PD de₂[to-pour]V
-c.2.2.2,The lament for Urim,,145,Enlil[1]DN ni₂-ŋu₁₀[myself]PD šag₄-ne-ša₄[intercession]N ak[to-do]V
-c.2.2.2,The lament for Urim,,146,uru₂[town]N gul[to-destroy]V dug₄[to-say]V
-c.2.2.2,The lament for Urim,,147,Urim[1]SN gul[to-destroy]V dug₄[to-say]V
-c.2.2.2,The lament for Urim,,148,uŋ₃[people]N til[to-complete]V dug₄[to-say]V
-c.2.2.2,The lament for Urim,,149,An[1]DN e-ne-eŋ₃[word]N gur[to-turn]V
-c.2.2.2,The lament for Urim,,150,Enlil[1]DN sag₉[to-be-good]V he₂-am₃[(so)-be-it]N šag₄[heart]N sed₄[to-be-cold]V
-c.2.2.2,The lament for Urim,,151,2-kam-ma[2nd]NU pu-uh₂-ru-um[assembly]N ki[place]N saŋ-ki[forehead]N ŋal₂[to-be-(located)]V
-c.2.2.2,The lament for Urim,,152,Anuna[1]DN e-ne-eŋ₃[word]N zu₂[tooth]N keše₂[to-bind]V tuš[to-sit]V
-c.2.2.2,The lament for Urim,,153,ur₂[root]N sud[to-be-distant]V a₂[arm]N la₂[to-hang]V
-c.2.2.2,The lament for Urim,,154,An[1]DN a[water]N i-bi₂[eye]N me[I]PD dug₄[to-say]V
-c.2.2.2,The lament for Urim,,155,Enlil[1]DN ni₂-ŋu₁₀[myself]PD šag₄-ne-ša₄[intercession]N ak[to-do]V
-c.2.2.2,The lament for Urim,,156,uru₂[town]N gul[to-destroy]V dug₄[to-say]V
-c.2.2.2,The lament for Urim,,157,Urim[1]SN gul[to-destroy]V dug₄[to-say]V
-c.2.2.2,The lament for Urim,,158,uŋ₃[people]N til[to-complete]V dug₄[to-say]V
-c.2.2.2,The lament for Urim,,159,an[heaven]N e-ne-eŋ₃[word]N gur[to-turn]V
-c.2.2.2,The lament for Urim,,160,Enlil[1]DN sag₉[to-be-good]V he₂-am₃[(so)-be-it]N šag₄[heart]N sed₄[to-be-cold]V
-c.2.2.2,The lament for Urim,,161,uru₂[town]N gul[to-destroy]V a₂[arm]N aŋ₂[to-measure]V
-c.2.2.2,The lament for Urim,,162,Urim[1]SN gul[to-destroy]V a₂[arm]N aŋ₂[to-measure]V
-c.2.2.2,The lament for Urim,,163,uŋ₃[people]N uš₂[to-die]V na-aŋ₂[destiny]N tar[to-cut]V
-c.2.2.2,The lament for Urim,,164,me[I]PD niŋ₂-dug₄-ga[speech]N šum₂[to-give]V
-c.2.2.2,The lament for Urim,,165,me[I]PD uru₂[town]N la₂[to-hang]V
-c.2.2.2,The lament for Urim,,166,Urim[1]SN me[I]PD la₂[to-hang]V
-c.2.2.2,The lament for Urim,,167,An[1]DN dug₄[to-say]V hur[ever]AV kur₂[to-be-different]V
-c.2.2.2,The lament for Urim,,168,Enlil[1]DN ka[mouth]N e₃[to-go-out-or-in]V šu[hand]N bal[to-turn-over]V
-c.2.2.2,The lament for Urim,,169,ki-ru-gu₂[composition-division]N 4-kam-ma[4th]NU
-c.2.2.2,The lament for Urim,,170,uru₂[town]N gul[to-destroy]V me[essence]N kur₂[to-be-different]V
-c.2.2.2,The lament for Urim,,171,ŋiš-gi₄-ŋal₂[composition-division]N
-c.2.2.2,The lament for Urim,,172,Enlil[1]DN ud[storm]N gu₃[voice]N de₂[to-pour]V uŋ₃[people]N še[groan]N ša₄[verb-part-of-multiword-verb]V
-c.2.2.2,The lament for Urim,,173,ud[storm]N he₂-ŋal₂[plenty]N kalam[the-Land]N kar[to-flee]V uŋ₃[people]N še[groan]N ša₄[verb-part-of-multiword-verb]V
-c.2.2.2,The lament for Urim,,174,ud[day(light)]N dug₃[to-be-good]V Sumer[1]GN kar[to-flee]V uŋ₃[people]N še[groan]N ša₄[verb-part-of-multiword-verb]V
-c.2.2.2,The lament for Urim,,175,ud[storm]N hul-ŋal₂[evil]AJ a₂[arm]N aŋ₂[to-measure]V uŋ₃[people]N še[groan]N ša₄[verb-part-of-multiword-verb]V
-c.2.2.2,The lament for Urim,,176,Kin-gal-uda[1]PN ud[storm]N gub[to-stand]V šu[hand]N šum₂[to-give]V
-c.2.2.2,The lament for Urim,,177,ud[storm]N kalam[the-Land]N til[to-complete]V gu₃[voice]N de₂[to-pour]V uŋ₃[people]N še[groan]N ša₄[verb-part-of-multiword-verb]V
-c.2.2.2,The lament for Urim,,178,im-hul[destructive-storm]N gu₃[voice]N de₂[to-pour]V uŋ₃[people]N še[groan]N ša₄[verb-part-of-multiword-verb]V
-c.2.2.2,The lament for Urim,,179,Enlil[1]DN Gibil[1]DN a₂-tah[helper]N kur₉[to-enter]V
-c.2.2.2,The lament for Urim,,180,ud[storm]N gal[to-be-big]V an[heaven]N gu₃[voice]N de₂[to-pour]V uŋ₃[people]N še[groan]N ša₄[verb-part-of-multiword-verb]V
-c.2.2.2,The lament for Urim,,181,ud[storm]N gal[to-be-big]V an[heaven]N gu₃[voice]N dug₄[to-say]V uŋ₃[people]N še[groan]N ša₄[verb-part-of-multiword-verb]V
-c.2.2.2,The lament for Urim,,182,ud[storm]N kalam[the-Land]N til[to-complete]V ki[place]N mur[growl]N ša₄[verb-part-of-multiword-verb]V uŋ₃[people]N še[groan]N ša₄[verb-part-of-multiword-verb]V
-c.2.2.2,The lament for Urim,,183,im-hul[destructive-storm]N a[water]N mah[to-be-majestic]V e₃[to-go-out-or-in]V gu₂[neck]N ŋar[to-place]V
-c.2.2.2,The lament for Urim,,184,tukul[weapon]N uru₂[town]N saŋ[head]N gaz[to-strike-(dead)]V ak[to-do]V teš₂[unity]N gu₇[to-eat]V
-c.2.2.2,The lament for Urim,,185,an[heaven]N ur₂[root]N kana₆[gloom]N niŋin₂[to-go-around]V uŋ₃[people]N še[groan]N ša₄[verb-part-of-multiword-verb]V
-c.2.2.2,The lament for Urim,,186,ud[storm]N igi[eye]N izi[fire]N bar₇[to-burn]V uŋ₃[people]N še[groan]N ša₄[verb-part-of-multiword-verb]V
-c.2.2.2,The lament for Urim,,187,ud[storm]N mir[to-rage]V izi-ŋi₆-edin-na[atmospheric-phenomenon]N bar[outside]N tab₂[to-burn]V
-c.2.2.2,The lament for Urim,,188,an-bar₇[midday]N bar-šeŋ₃[mist]N il₂[to-raise]V izi[fire]N bar₇[to-burn]V
-c.2.2.2,The lament for Urim,,189,an-bar₇-gana₂[midday]N ud[day(light)]N zalag[to-be-shining]V e₃[to-go-out-or-in]V ud[storm]N dug₃[to-be-good]V tab[to-be-parallel]V
-c.2.2.2,The lament for Urim,,190,kalam[the-Land]N ud[day(light)]N zalag[to-be-shining]V e₃[to-go-out-or-in]V mul[star]N an-usan[evening]N zal[to-pass]V
-c.2.2.2,The lament for Urim,,191,ŋi₆[night]N giri₁₇-zal[joy]N a₂[(right)-time]N sed₄[to-be-cold]V ŋar[to-place]V ulu₃[south-wind-(storm)]N tab[to-be-parallel]V
-c.2.2.2,The lament for Urim,,192,šika[(pot)sherd]N bar₇[to-burn]V sahar[earth]N tab₂[to-burn]V uŋ₃[people]N še[groan]N ša₄[verb-part-of-multiword-verb]V
-c.2.2.2,The lament for Urim,,193,saŋ[head]N gig₂[to-be-black]V tum₉[wind]N dal[to-fly]V uŋ₃[people]N še[groan]N ša₄[verb-part-of-multiword-verb]V
-c.2.2.2,The lament for Urim,,194,Sumer[1]GN ŋiš-bur₂[snare]N bal[to-turn-over]V uŋ₃[people]N še[groan]N ša₄[verb-part-of-multiword-verb]V
-c.2.2.2,The lament for Urim,,195,kalam[the-Land]N saŋ[head]N e₂-ŋar₈[wall]N du₃[to-erect]V ak[to-do]V teš₂[unity]N gu₇[to-eat]V
-c.2.2.2,The lament for Urim,,196,ud[storm]N gig[to-be-ill]V er₂[tear]N nam[destiny]N tar[to-cut]V uŋ₃[people]N še[groan]N ša₄[verb-part-of-multiword-verb]V
-c.2.2.2,The lament for Urim,,197,ud[storm]N šu[hand]N ur₄[to-collect]V kalam[the-Land]N ur₃[to-drag]V
-c.2.2.2,The lament for Urim,,198,ud[storm]N a-ma-ru[flood]N uru₂[town]N gul[to-destroy]V
-c.2.2.2,The lament for Urim,,199,ud[storm]N kalam[the-Land]N til[to-complete]V uru₂[town]N me[essence]N ŋar[to-place]V
-c.2.2.2,The lament for Urim,,200,ud[storm]N niŋ₂[thing]N u₂-gu[noun-part-of-multiword-verb]N de₂[to-pour]V hul-ŋal₂[evil]AJ DU[DU]V
-c.2.2.2,The lament for Urim,,201,ud[storm]N izi[fire]N bar₇[to-burn]V uŋ₃[people]N šu[hand]N ŋar[to-place]V
-c.2.2.2,The lament for Urim,,202,ud[storm]N hul[to-be-bad]V gig[to-be-ill]V dug₄[to-say]V Enlil[1]DN ud[storm]N kalam[the-Land]N be₄[to-diminish]V
-c.2.2.2,The lament for Urim,,203,Urim[1]SN tug₂[garment]N dul[to-cover-(together)]V gada[linen-(fibre)]N bur₂[to-release]V
-c.2.2.2,The lament for Urim,,204,ki-ru-gu₂[composition-division]N 5-kam-ma[5th]NU
-c.2.2.2,The lament for Urim,,205,ud[storm]N ug[lion]N du₇[to-push]V uŋ₃[people]N še[groan]N ša₄[verb-part-of-multiword-verb]V
-c.2.2.2,The lament for Urim,,206,ŋiš-gi₄-ŋal₂[composition-division]N
-c.2.2.2,The lament for Urim,,207,ud[day(light)]N ud[storm]N uru₂[town]N ŋar[to-place]V uru₂[town]N du₆[(ruin)-mound]N
-c.2.2.2,The lament for Urim,,208,a-a[father]N Nanna[1]DN uru₂[town]N du₆[(ruin)-mound]N ŋar[to-place]V uŋ₃[people]N še[groan]N ša₄[verb-part-of-multiword-verb]V
-c.2.2.2,The lament for Urim,,209,ud[day(light)]N ud[storm]N kalam[the-Land]N kar[to-flee]V uŋ₃[people]N še[groan]N ša₄[verb-part-of-multiword-verb]V
-c.2.2.2,The lament for Urim,,209A,ud[storm]N dug₃[to-be-good]V Sumer[1]GN kar[to-flee]V uŋ₃[people]N še[groan]N ša₄[verb-part-of-multiword-verb]V
-c.2.2.2,The lament for Urim,,210,uŋ₃[people]N šika[(pot)sherd]N kud[to-cut]V me[to-be]V bar[outside]N si[to-fill]V
-c.2.2.2,The lament for Urim,,211,bad₃[wall]N gu₂-ŋiri₃[breach]N ŋar[to-place]V uŋ₃[people]N še[groan]N ša₄[verb-part-of-multiword-verb]V
-c.2.2.2,The lament for Urim,,212,abula[(city)-gate]N mah[to-be-majestic]V ŋiri₃[foot]N ŋal₂[to-be-(located)]V ad₆[corpse]N ŋar[to-place]V
-c.2.2.2,The lament for Urim,,213,sila[street]N daŋal[to-be-wide]V ezen[festival]N du₃[to-erect]V saŋ[head]N bal[to-turn-over]V ŋar[to-place]V
-c.2.2.2,The lament for Urim,,214,e-sir₂[street]N ŋiri₃[foot]N ŋal₂[to-be-(located)]V ad₆[corpse]N ŋar[to-place]V
-c.2.2.2,The lament for Urim,,215,ešemen[skip-rope-(game)]N kalam[the-Land]N ŋal₂[to-be-(located)]V uŋ₃[people]N zar[sheaf]N du₈[to-spread]V
-c.2.2.2,The lament for Urim,,216,u₃-mun[blood]N kalam[the-Land]N urud[copper]N nagga[tin]N sur₃[ditch]N de₆[to-carry]V
-c.2.2.2,The lament for Urim,,217,ad₆[corpse]N i₃-udu[(sheep)-fat]N ud[day(light)]N ŋal₂[to-be-(located)]V ni₂-bi[itself;-themselves]PD zal[to-pass]V
-c.2.2.2,The lament for Urim,,218,lu₂[person]N ha-zi-in[type-of-axe]N til[to-complete]V saŋ[head]N tug₂[garment]N dul[to-cover-(together)]V
-c.2.2.2,The lament for Urim,,219,maš-da₃[gazelle]N ŋiš-bur₂[snare]N dab₅[to-seize]V ka[mouth]N sahar[earth]N us₂[to-be-adjacent]V
-c.2.2.2,The lament for Urim,,220,lu₂[person]N ŋiš-gid₂-da[type-of-spear?]N ra[to-beat]V niŋ₂-la₂[binding]N la₂[to-hang]V
-c.2.2.2,The lament for Urim,,221,i-gi₄-in-zu[as-it-were]AV ki[place]N ha-ri-iš-ta[woman-in-childbirth]N ama[mother]N uš₂[gore]N nu₂[to-lie-down]V
-c.2.2.2,The lament for Urim,,222,lu₂[person]N mitum[type-of-weapon]N til[to-complete]V tug₂[garment]N gibil[to-be-new]V la₂[to-hang]V
-c.2.2.2,The lament for Urim,,223,lu₂[person]N kurun[type-of-beer]N naŋ[to-drink]V dug₄[to-say]V gu₃[voice]N zag[side]N ŋal₂[to-be-(located)]V
-c.2.2.2,The lament for Urim,,224,tukul[weapon]N gub[to-stand]V tukul[weapon]N gaz[to-strike-(dead)]V uŋ₃[people]N še[groan]N ša₄[verb-part-of-multiword-verb]V
-c.2.2.2,The lament for Urim,,225,lu₂-kar-ra[fugitive]N ud[storm]N du-bu-ul[to-stir?]V uŋ₃[people]N še[groan]N ša₄[verb-part-of-multiword-verb]V
-c.2.2.2,The lament for Urim,,226,Urim[1]SN sig[to-be-low]V kalag[to-be-strong]V šag₄-ŋar[hunger]N til[to-complete]V
-c.2.2.2,The lament for Urim,,227,um-ma[experienced-woman]N ab-ba[father]N e₂[house(hold)]N e₃[to-go-out-or-in]V izi[fire]N sig₁₀[to-place]V
-c.2.2.2,The lament for Urim,,228,di₄-di₄[to-be-small]V ur₂[root]N ama[mother]N nu₂[to-lie-down]V ku₆[fish]N a[water]N de₆[to-carry]V
-c.2.2.2,The lament for Urim,,229,emeda[nursemaid]N lirum[clutching]N kalag[to-be-strong]V lirum[clutching]N du₈[to-spread]V
-c.2.2.2,The lament for Urim,,230,dim₂-ma[reasoning]N kalam[the-Land]N u₂-gu[noun-part-of-multiword-verb]N de₂[to-pour]V uŋ₃[people]N še[groan]N ša₄[verb-part-of-multiword-verb]V
-c.2.2.2,The lament for Urim,,231,ŋalga[reason]N kalam[the-Land]N sug[marsh]N gu₇[to-eat]V uŋ₃[people]N še[groan]N ša₄[verb-part-of-multiword-verb]V
-c.2.2.2,The lament for Urim,,232,ama[mother]N dumu[child]N igi[eye]N e₃[to-go-out-or-in]V uŋ₃[people]N še[groan]N ša₄[verb-part-of-multiword-verb]V
-c.2.2.2,The lament for Urim,,233,ad-da[father]N dumu[child]N kur₂[to-be-different]V uŋ₃[people]N še[groan]N ša₄[verb-part-of-multiword-verb]V
-c.2.2.2,The lament for Urim,,234,uru₂[town]N dam[spouse]N šub[to-fall]V dumu[child]N šub[to-fall]V niŋ₂-gur₁₁[possessions]N bir[to-scatter]V
-c.2.2.2,The lament for Urim,,235,saŋ[head]N gig₂[to-be-black]V ki-saŋ-ŋal₂-la[stronghold]N ŋen[to-go]V
-c.2.2.2,The lament for Urim,,236,nin[lady]N mušen[bird]N ni₂[fear(someness)]N te[to-approach]V uru₂[town]N e₃[to-go-out-or-in]V
-c.2.2.2,The lament for Urim,,237,Ningal[1]DN mušen[bird]N ni₂[fear(someness)]N te[to-approach]V uru₂[town]N e₃[to-go-out-or-in]V
-c.2.2.2,The lament for Urim,,238,niŋ₂-gur₁₁[possessions]N kalam[the-Land]N ŋar[to-place]V šu[hand]N pe-el[to-defile]V dug₄[to-say]V
-c.2.2.2,The lament for Urim,,239,e₂-mi₂[woman's-estate]N kalam[the-Land]N šar₂[to-be-numerous]V izi[fire]N bar₇[to-burn]V
-c.2.2.2,The lament for Urim,,240,a-niŋin₂[water-reservoir]N Gibil[1]DN lu₂[person]N sikil[to-be-pure]V kiŋ₂[work]N tuku[to-have]V
-c.2.2.2,The lament for Urim,,241,hur-saŋ[mountain-(range)]N sukud[to-be-high]V šu[hand]N te[to-approach]V E-kiš-nu-ŋal[1]TN
-c.2.2.2,The lament for Urim,,242,e₂[house(hold)]N zid[right]AJ ha-zi-in[type-of-axe]N gal[to-be-big]V teš₂[unity]N gu₇[to-eat]V
-c.2.2.2,The lament for Urim,,243,Šimaški[1]GN Elam[1]GN lu₂[person]N ha-lam[to-be-lost]V 30[30]NU giŋ₄[weight-measure]N ak[to-do]V
-c.2.2.2,The lament for Urim,,244,e₂[house(hold)]N zid[right]AJ al[hoe]N bal[to-turn-over]V
-c.2.2.2,The lament for Urim,,245,uru₂[town]N du₆[(ruin)-mound]N ŋar[to-place]V
-c.2.2.2,The lament for Urim,,246,nin[lady]N a[soothing-expression]I uru₂[town]N dug₄[to-say]V a[soothing-expression]I e₂[house(hold)]N dug₄[to-say]V
-c.2.2.2,The lament for Urim,,247,Ningal[1]DN a[soothing-expression]I uru₂[town]N dug₄[to-say]V a[soothing-expression]I e₂[house(hold)]N dug₄[to-say]V
-c.2.2.2,The lament for Urim,,248,lu₂[person]N nu-nus[woman]N u₈[soothing-expression]I uru₂[town]N gul[to-destroy]V u₈[soothing-expression]I e₂[house(hold)]N gul[to-destroy]V
-c.2.2.2,The lament for Urim,,249,Nanna[1]DN eš₃[shrine]N Urim[1]SN gul[to-destroy]V mu-lu[person]N uš₂[to-die]V
-c.2.2.2,The lament for Urim,,250,ki-ru-gu₂[composition-division]N 6-kam-ma[6th]NU
-c.2.2.2,The lament for Urim,,251,tur₃[animal-stall]N amaš[sheepfold]N nu-nus[woman]N inim[word]N gig[to-be-ill]V dug₄[to-say]V
-c.2.2.2,The lament for Urim,,252,uru₂[town]N ud[storm]N gul[to-destroy]V
-c.2.2.2,The lament for Urim,,253,ŋiš-gi₄-ŋal₂[composition-division]N
-c.2.2.2,The lament for Urim,,254,ama[mother]N Ningal[1]DN uru₂[town]N lu₂-erim₂[enemy]N bar[outside]N gub[to-stand]V
-c.2.2.2,The lament for Urim,,255,lu₂[person]N nu-nus[woman]N er₂[tear]N e₂[house(hold)]N hul[to-be-bad]V gig[to-be-ill]V dug₄[to-say]V
-c.2.2.2,The lament for Urim,,256,egir₂[princess]N eš₃[shrine]N Urim[1]SN hul[to-be-bad]V gig[to-be-ill]V dug₄[to-say]V
-c.2.2.2,The lament for Urim,,257,An[1]DN uru₂[town]N na-aŋ₂[destiny]N kud[to-cut]V uru₂[town]N gul[to-destroy]V
-c.2.2.2,The lament for Urim,,258,Enlil[1]DN e₂[house(hold)]N šu[hand]N bal[to-turn-over]V al[hoe]N ra[to-beat]V
-c.2.2.2,The lament for Urim,,259,sig[to-be-low]V di[to-go]V izi[fire]N šub[to-fall]V a[soothing-expression]I uru₂[town]N gul[to-destroy]V
-c.2.2.2,The lament for Urim,,260,Enlil[1]DN i-bi₂[eye]N nim[upper-(land)]N di[to-go]V u₃-bu-bu-ul[flame]N šub[to-fall]V
-c.2.2.2,The lament for Urim,,261,uru₂[town]N bar[outside]N uru₂[town]N bar[outside]N gul[to-destroy]V a[soothing-expression]I uru₂[town]N dug₄[to-say]V
-c.2.2.2,The lament for Urim,,262,uru₂[town]N šag₄[heart]N uru₂[town]N ša₃-ab[heart]N gul[to-destroy]V a[soothing-expression]I uru₂[town]N dug₄[to-say]V
-c.2.2.2,The lament for Urim,,263,e₂[house(hold)]N uru₂[town]N bar[outside]N gul[to-destroy]V a[soothing-expression]I e₂[house(hold)]N dug₄[to-say]V
-c.2.2.2,The lament for Urim,,264,e₂[house(hold)]N uru₂[town]N ša₃-ab[heart]N gul[to-destroy]V a[soothing-expression]I e₂[house(hold)]N dug₄[to-say]V
-c.2.2.2,The lament for Urim,,265,uru₂[town]N u₈[ewe]N zid[right]AJ lu[to-be-abundant]V sipad[shepherd]N zid[right]AJ ŋen[to-go]V
-c.2.2.2,The lament for Urim,,266,Urim[1]SN u₈[ewe]N zid[right]AJ lu[to-be-abundant]V kabar[junior-shepherd]N ŋen[to-go]V
-c.2.2.2,The lament for Urim,,267,gud[bull]N tur₃[animal-stall]N šub[to-fall]V mu-lu[person]N ŋen[to-go]V
-c.2.2.2,The lament for Urim,,268,e-ze₂[sheep]N amaš[sheepfold]N šub[to-fall]V na-gada[herdsman]N ŋen[to-go]V
-c.2.2.2,The lament for Urim,,269,id₂[watercourse]N uru₂[town]N sahar[earth]N niŋin₂[to-go-around]V e₂[house(hold)]N ka₅-a[fox]N du₃[to-erect]V
-c.2.2.2,The lament for Urim,,270,šag₄[heart]N a[water]N zal[to-pass]V de₆[to-carry]V mu-un-kud[fisheries-inspector]N ŋen[to-go]V
-c.2.2.2,The lament for Urim,,271,gana₂[field]N uru₂[town]N še[barley]N ma-al[to-be-(located)]V mu-un-gar₃[farmer]N ŋen[to-go]V
-c.2.2.2,The lament for Urim,,272,gana₂[field]N gana₂[field]N al[hoe]N ri[to-direct]V mul-gana₂[type-of-plant]N bil₂[to-be-hot]V mu₂[to-grow]V
-c.2.2.2,The lament for Urim,,273,pu₂-kiri₆[orchard]N lal₃[syrup]N gurun[fruit]N dirig[to-be-superior]V kiši₁₆[acacia]N kur[(mountain)-land]N mu₂[to-grow]V
-c.2.2.2,The lament for Urim,,274,edin[open-country]N giri₁₇-zal[joy]N du₃[to-erect]V gir₄[oven]N hur[to-scratch]V
-c.2.2.2,The lament for Urim,,275,mu-un-gur₁₁[possessions]N buru₄-dugud[flock-of-crows]N zig₃[to-rise]V dal[to-fly]V zig₃[to-rise]V mu-un-gur₁₁[possessions]N dug₄[to-say]V
-c.2.2.2,The lament for Urim,,276,mu-un-gur₁₁[possessions]N sig[to-be-low]V di[to-go]V sig[to-be-low]V ir[to-carry]V mu-un-gur₁₁[possessions]N dug₄[to-say]V
-c.2.2.2,The lament for Urim,,277,mu-un-gur₁₁[possessions]N i-bi₂[eye]N nim[upper-(land)]N di[to-go]V i-bi₂[eye]N nim[upper-(land)]N ir[to-carry]V mu-un-gur₁₁[possessions]N dug₄[to-say]V
-c.2.2.2,The lament for Urim,,278,kug[precious-metal]N za[stone]N za-gin₃[lapis-lazuli]N bir[to-scatter]V mu-un-gur₁₁[possessions]N dug₄[to-say]V
-c.2.2.2,The lament for Urim,,279,gi₁₆-sa[(everlasting)-treasure]N sug[marsh]N gu₇[to-eat]V mu-un-gur₁₁[possessions]N dug₄[to-say]V
-c.2.2.2,The lament for Urim,,280,kug[precious-metal]N lu₂[person]N kug[precious-metal]N zu[to-know]V šu[hand]N si[to-fill]V
-c.2.2.2,The lament for Urim,,281,za[stone]N lu₂[person]N za[stone]N zu[to-know]V gu₂[neck]N si[to-fill]V
-c.2.2.2,The lament for Urim,,282,buru₅[sparrow?]N mušen[bird]N dal[to-fly]V a[soothing-expression]I uru₂[town]N dug₄[to-say]V
-c.2.2.2,The lament for Urim,,283,gi₄-in[female-slave]N du₅-mu[child]N ma₂[boat]N de₆[to-carry]V a[soothing-expression]I uru₂[town]N dug₄[to-say]V
-c.2.2.2,The lament for Urim,,284,me-li-e-a[expression-of-sorrow]I gi₄-in[female-slave]N uru₂[town]N kur₂[to-be-different]V šu-še-er[(divine)-standard]N kur₂[to-be-different]V dab₅[to-seize]V
-c.2.2.2,The lament for Urim,,285,šul[young-man]N edin[open-country]N ki[place]N zu[to-know]V tug₂-mu-dur₇-ra[dirty-textile]N ak[to-do]V
-c.2.2.2,The lament for Urim,,286,me-li-e-a[expression-of-sorrow]I uru₂[town]N me[to-be]V me[I]PD ga-ša-an[lady]N ŋen[to-be]V
-c.2.2.2,The lament for Urim,,287,Nanna[1]DN Urim[1]SN me[to-be]V me[I]PD lu₂[person]N ŋen[to-be]V
-c.2.2.2,The lament for Urim,,288,ar₂-mur[ruin-(mound)]N e₂[house(hold)]N du₃[to-erect]V uru₂[town]N gul[to-destroy]V
-c.2.2.2,The lament for Urim,,289,nu-nus[woman]N zid[right]AJ uru₂[town]N uru₂[town]N kur₂[to-be-different]V du₃[to-erect]V
-c.2.2.2,The lament for Urim,,290,ar₂-mur[ruin-(mound)]N uru₂[town]N du₃[to-erect]V e₂[house(hold)]N gul[to-destroy]V
-c.2.2.2,The lament for Urim,,291,Ningal[1]DN uru₂[town]N e₂[house(hold)]N kur₂[to-be-different]V du₃[to-erect]V
-c.2.2.2,The lament for Urim,,292,me-li-e-a[expression-of-sorrow]I uru₂[town]N gul[to-destroy]V u₃[and]C e₂[house(hold)]N gul[to-destroy]V
-c.2.2.2,The lament for Urim,,293,Nanna[1]DN eš₃[shrine]N Urim[1]SN gul[to-destroy]V mu-lu[person]N uš₂[to-die]V
-c.2.2.2,The lament for Urim,,294,me-li-e-a[expression-of-sorrow]I me-a[where]AV tuš[to-sit]V me-a[where]AV gub[to-stand]V
-c.2.2.2,The lament for Urim,,295,me-li-e-a[expression-of-sorrow]I uru₂[town]N e₂[house(hold)]N kur₂[to-be-different]V du₃[to-erect]V
-c.2.2.2,The lament for Urim,,296,nu-nus[woman]N zid[right]AJ e₂[house(hold)]N uru₂[town]N kur₂[to-be-different]V ŋar[to-place]V
-c.2.2.2,The lament for Urim,,297,ki[place]N edin[open-country]N bad[to-open]V a[soothing-expression]I mu-lu[person]N dug₄[to-say]V
-c.2.2.2,The lament for Urim,,298,uru₂[town]N Urim[1]SN bad[to-open]V a[soothing-expression]I uru₂[town]N dug₄[to-say]V
-c.2.2.2,The lament for Urim,,299,lu₂[person]N siki[hair]N numun₂-bur[rush]N šu[hand]N dub₂[to-tremble]V
-c.2.2.2,The lament for Urim,,300,gaba[chest]N ub₃[type-of-drum]N kug[shining]AJ sag₃[to-beat]V a[soothing-expression]I uru₂[town]N dug₄[to-say]V
-c.2.2.2,The lament for Urim,,301,igi[eye]N er₂[tear]N zig₃[to-rise]V er₂[tear]N gig[to-be-ill]V šeš₂[to-weep]V
-c.2.2.2,The lament for Urim,,302,me-li-e-a[expression-of-sorrow]I uru₂[town]N me[to-be]V me[I]PD ga-ša-an[lady]N ŋen[to-be]V
-c.2.2.2,The lament for Urim,,303,Nanna[1]DN eš₃[shrine]N Urim[1]SN me[to-be]V me[I]PD mu-lu[person]N ŋen[to-be]V
-c.2.2.2,The lament for Urim,,304,me-li-e-a[expression-of-sorrow]I tur₃[animal-stall]N bur₁₂[to-tear-out]V ab₂[cow]N sag₂[to-scatter]V dug₄[to-say]V
-c.2.2.2,The lament for Urim,,305,Ningal[1]DN na-gada[herdsman]N pe-el[to-defile]V tukul[weapon]N ganam₄[ewe]N šub[to-fall]V
-c.2.2.2,The lament for Urim,,306,me-li-e-a[expression-of-sorrow]I uru₂[town]N e₃[to-go-out-or-in]V ni₂[self]N dub₂[to-tremble]V
-c.2.2.2,The lament for Urim,,307,Ningal[1]DN e₂[house(hold)]N e₃[to-go-out-or-in]V ki-tuš[dwelling-place]N pad₃[to-find]V
-c.2.2.2,The lament for Urim,,308,i-gi₄-in-zu[as-it-were]AV gir₅[foreigner]N uru₂[town]N kur₂[to-be-different]V saŋ[head]N il₂[to-raise]V tuš[to-sit]V
-c.2.2.2,The lament for Urim,,309,e₂[house(hold)]N ur₅[financial-obligation]N aŋ₂-gig[abomination]N saŋ[head]N tuš[to-sit]V us₂[to-be-adjacent]V
-c.2.2.2,The lament for Urim,,310,e₂[house(hold)]N ur₅[financial-obligation]N mu-lu[person]N tuš[to-sit]V tuš[to-sit]V gu₃[voice]N e-ne-eŋ₃[word]N dirig[to-be-superior]V
-c.2.2.2,The lament for Urim,,311,ki[place]N nam[destiny]N uru₂[town]N te[to-approach]V er₂[tear]N gig[to-be-ill]V šeš₂[to-weep]V
-c.2.2.2,The lament for Urim,,312,nin[lady]N nam[destiny]N e₂[house(hold)]N te[to-approach]V er₂[tear]N gig[to-be-ill]V šeš₂[to-weep]V
-c.2.2.2,The lament for Urim,,313,nam[destiny]N e₂[house(hold)]N hul[to-be-bad]V te[to-approach]V er₂[tear]N gig[to-be-ill]V šeš₂[to-weep]V
-c.2.2.2,The lament for Urim,,314,nam[destiny]N uru₂[town]N hul[to-be-bad]V te[to-approach]V er₂[tear]N gig[to-be-ill]V šeš₂[to-weep]V
-c.2.2.2,The lament for Urim,,315,me-li-e-a[expression-of-sorrow]I na-aŋ₂[destiny]N uru₂[town]N dug₄[to-say]V na-aŋ₂[destiny]N uru₂[town]N gig[to-be-ill]V
-c.2.2.2,The lament for Urim,,316,nin[lady]N e₂[house(hold)]N gul[to-destroy]V dug₄[to-say]V na-aŋ₂[destiny]N e₂[house(hold)]N gig[to-be-ill]V
-c.2.2.2,The lament for Urim,,317,še-eb[brick(work)]N Urim[1]SN a[water]N dug₄[to-say]V a[water]N gi₄[to-return]V
-c.2.2.2,The lament for Urim,,318,e₂[house(hold)]N zid[right]AJ uru₂[town]N du₆[(ruin)-mound]N mar[to-place]V
-c.2.2.2,The lament for Urim,,319,bur₂[to-release]V e₂[house(hold)]N zid[right]AJ gul[to-destroy]V nu₂[to-lie-down]V
-c.2.2.2,The lament for Urim,,320,gud[bull]N šub[to-fall]V ŋar[to-place]V zig₃[to-rise]V
-c.2.2.2,The lament for Urim,,321,me-li-e-a[expression-of-sorrow]I du₃[to-erect]V lul[to-be-false]V gul[to-destroy]V gig[to-be-ill]V
-c.2.2.2,The lament for Urim,,322,nu-nus[woman]N eš₃[shrine]N Urim[1]SN nidba[(food)-offering]N kur₂[to-be-different]V
-c.2.2.2,The lament for Urim,,323,Agrun-kug[1]TN e₂[house(hold)]N gibil[to-be-new]V la[plenty]N gi₄[to-return]V
-c.2.2.2,The lament for Urim,,324,uru₂[town]N du₃[to-erect]V mar[to-place]V ta-aš[why]AV hul[to-be-bad]V
-c.2.2.2,The lament for Urim,,325,gul[to-destroy]V hul[to-be-bad]V ta-aš[why]AV hul[to-be-bad]V
-c.2.2.2,The lament for Urim,,326,a-da-al[now]AV ud[storm]N hul[to-be-bad]V gig[to-be-ill]V dug₄[to-say]V a₂[arm]N e₃[to-go-out-or-in]V
-c.2.2.2,The lament for Urim,,327,Urim[1]SN e₂[house(hold)]N Suen[1]DN gul[to-destroy]V gig[to-be-ill]V
-c.2.2.2,The lament for Urim,,328,ki-ru-gu₂[composition-division]N 7-kam-ma[7th]NU
-c.2.2.2,The lament for Urim,,329,a[soothing-expression]I uru₂[town]N a[soothing-expression]I e₂[house(hold)]N
-c.2.2.2,The lament for Urim,,330,ŋiš-gi₄-ŋal₂[composition-division]N
-c.2.2.2,The lament for Urim,,331,nin[lady]N šag₄[heart]N a-gin₇[type-of-manner-adverbial]AV du₃[to-erect]V za[you-(sg.)]PD a-gin₇[type-of-manner-adverbial]AV til₃[to-live]V
-c.2.2.2,The lament for Urim,,332,Ningal[1]DN šag₄[heart]N a-gin₇[type-of-manner-adverbial]AV du₃[to-erect]V za[you-(sg.)]PD a-gin₇[type-of-manner-adverbial]AV til₃[to-live]V
-c.2.2.2,The lament for Urim,,333,munus[woman]N zid[right]AJ lu₂[person]N uru₂[town]N gul[to-destroy]V i₃-ne-eš₂-gin₇[how]AV mu₂[to-grow]V
-c.2.2.2,The lament for Urim,,334,Ningal[1]DN lu₂[person]N kalam[the-Land]N til[to-complete]V šag₄[heart]N a-gin₇[type-of-manner-adverbial]AV du₃[to-erect]V
-c.2.2.2,The lament for Urim,,335,ud[storm]N uru₂[town]N gul[to-destroy]V i₃-ne-eš₂-gin₇[how]AV mu₂[to-grow]V
-c.2.2.2,The lament for Urim,,336,ud[day(light)]N e₂[house(hold)]N gul[to-destroy]V šag₄[heart]N a-gin₇[type-of-manner-adverbial]AV du₃[to-erect]V
-c.2.2.2,The lament for Urim,,337,uru₂[town]N uru₂[town]N kur₂[to-be-different]V ŋar[to-place]V i₃-ne-eš₂-gin₇[how]AV mu₂[to-grow]V
-c.2.2.2,The lament for Urim,,338,e₂[house(hold)]N er₂[tear]N ŋar[to-place]V šag₄[heart]N a-gin₇[type-of-manner-adverbial]AV du₃[to-erect]V
-c.2.2.2,The lament for Urim,,339,uru₂[town]N du₆[(ruin)-mound]N ŋar[to-place]V mušen[bird]N ŋen[to-be]V
-c.2.2.2,The lament for Urim,,340,e₂[house(hold)]N zid[right]AJ al[hoe]N ŋar[to-place]V tuš[to-sit]V tuš[to-sit]V
-c.2.2.2,The lament for Urim,,341,uŋ₃[people]N ki-lul-la[place-of-iniquity]N ŋen[to-go]V nin[lady]N kur₉[to-enter]V
-c.2.2.2,The lament for Urim,,342,er₂[tear]N er₂[tear]N kur₂[to-be-different]V ŋar[to-place]V ka-na-aŋ₂[the-Land]N šeš₂[to-weep]V
-c.2.2.2,The lament for Urim,,343,er₂-šag₄-ne-ša₄[type-of-composition]N tuku[to-have]V kur[(mountain)-land]N tuš[to-sit]V
-c.2.2.2,The lament for Urim,,344,kalam[the-Land]N niŋ₂[thing]N dirig[to-be-superior]V gu₃[voice]N šu[hand]N dab₅[to-seize]V
-c.2.2.2,The lament for Urim,,345,uru₂[town]N du₆[(ruin)-mound]N ŋar[to-place]V i₃-ne-eš₂-gin₇[how]AV mu₂[to-grow]V
-c.2.2.2,The lament for Urim,,346,e₂[house(hold)]N šag₄-sug₄[emptiness]N du₃[to-erect]V šag₄[heart]N a-gin₇[type-of-manner-adverbial]AV du₃[to-erect]V
-c.2.2.2,The lament for Urim,,347,Urim[1]SN eš₃[shrine]N lil₂[ghost]N ŋar[to-place]V i₃-ne-eš₂-gin₇[how]AV mu₂[to-grow]V
-c.2.2.2,The lament for Urim,,348,gudug[type-of-priest]N hi-li[attractiveness]N ŋen[to-go]V šag₄[heart]N a-gin₇[type-of-manner-adverbial]AV du₃[to-erect]V
-c.2.2.2,The lament for Urim,,349,en[high-priest(ess)]N ŋi₆-par₄[cloister]N til[to-complete]V i₃-ne-eš₂-gin₇[how]AV mu₂[to-grow]V
-c.2.2.2,The lament for Urim,,350,uz-ga[type-of-shrine]N lu₂[person]N šu-luh[ritual-cleansing]N ki[place]N aŋ₂[to-measure]V šu-luh[ritual-cleansing]N ŋar[to-place]V
-c.2.2.2,The lament for Urim,,351,a-a[father]N Nanna[1]DN išib[type-of-priest]N šita[supplication]N kug[shining]AJ šu[hand]N du₇[to-be-perfect]V
-c.2.2.2,The lament for Urim,,352,lu₂-mah[type-of-priest]N gi-gun₄-na[temple-terrace]N kug[shining]AJ šag₄[heart]N gada[linen-(fibre)]N la₂[to-hang]V
-c.2.2.2,The lament for Urim,,353,en[lord]N zid[right]AJ šag₄[heart]N hi-li[attractiveness]N pad₃[to-find]V E-kiš-nu-ŋal[1]TN
-c.2.2.2,The lament for Urim,,354,eš₃[shrine]N ŋi₆-par₄[cloister]N hul₂[to-be-happy]V dib[to-pass]V
-c.2.2.2,The lament for Urim,,355,a-u₃-a[type-of-priest]N e₂[house(hold)]N ezen[festival]N ezen[festival]N dug₃[to-be-good]V
-c.2.2.2,The lament for Urim,,356,šem₃[type-of-drum]N a₂-la₂[type-of-drum]N niŋ₂[thing]N šag₄[heart]N hul₂[to-be-happy]V tigi[type-of-instrument-and-composition]N du₁₂[to-perform-(music)]V
-c.2.2.2,The lament for Urim,,357,uŋ₃[people]N saŋ[head]N gig₂[to-be-black]V ezen[festival]N a[water]N tu₅[to-wash]V
-c.2.2.2,The lament for Urim,,358,gu[(flax)-thread]N mu-dur₇[dirt]N nam[destiny]N tar[to-cut]V ulutim₂[form]N kur₂[to-be-different]V
-c.2.2.2,The lament for Urim,,359,en₃-du[song]N er₂[tear]N kur₉[to-enter]V en₃-tukum-še₃[how-long]AV mu₂[to-grow]V
-c.2.2.2,The lament for Urim,,360,tigi[type-of-instrument-and-composition]N a-nir[lament]N kur₉[to-enter]V en₃-tukum-še₃[how-long]AV mu₂[to-grow]V
-c.2.2.2,The lament for Urim,,361,gud[bull]N tur₃[animal-stall]N de₆[to-carry]V i₃[fatty-substance]N ak[to-do]V
-c.2.2.2,The lament for Urim,,362,udu[sheep]N amaš[sheepfold]N tuš[to-sit]V ga[milk]N dulu[to-be-plentiful]V
-c.2.2.2,The lament for Urim,,363,i₃[fatty-substance]N guru₃[to-bear]V tur₃[animal-stall]N de₆[to-carry]V en₃-tukum-še₃[how-long]AV mu₂[to-grow]V
-c.2.2.2,The lament for Urim,,364,ga[milk]N guru₃[to-bear]V amaš[sheepfold]N de₆[to-carry]V en₃-tukum-še₃[how-long]AV mu₂[to-grow]V
-c.2.2.2,The lament for Urim,,365,šu-peš[fisherman]N ku₆[fish]N guru₃[to-bear]V hul-ŋal₂[evil]AJ dab₅[to-seize]V en₃-tukum-še₃[how-long]AV mu₂[to-grow]V
-c.2.2.2,The lament for Urim,,366,mušen-du₃[fowler]N mušen[bird]N guru₃[to-bear]V ŋir₂[to-flash]V DU[DU]V
-c.2.2.2,The lament for Urim,,367,id₂[watercourse]N ma₂-gur₈[processional-boat]N du₇[to-be-perfect]V šag₄[heart]N teme[type-of-plant]N mu₂[to-grow]V
-c.2.2.2,The lament for Urim,,368,har-ra-an[route]N gigir[chariot]N ŋar[to-place]V kiši₁₆[acacia]N kur[(mountain)-land]N mu₂[to-grow]V
-c.2.2.2,The lament for Urim,,369,nin[lady]N uru₂[town]N ama[mother]N er₂[tear]N šeš₂[to-weep]V
-c.2.2.2,The lament for Urim,,370,Urim[1]SN dumu[child]N sila[street]N ha-lam[to-be-lost]V ki[place]N kiŋ₂[to-seek]V
-c.2.2.2,The lament for Urim,,371,e₂[house(hold)]N lu₂[person]N niŋ₂[thing]N u₂-gu[noun-part-of-multiword-verb]N de₂[to-pour]V šu[hand]N ša-an-ša-ša[verb-part-of-multiword-verb]V
-c.2.2.2,The lament for Urim,,372,šeg₁₂[brick(work)]N e₂[house(hold)]N zid[right]AJ lu₂-ulu₃[person]N me-a[where]AV dug₄[to-say]V
-c.2.2.2,The lament for Urim,,373,nin[lady]N e₂[house(hold)]N e₃[to-go-out-or-in]V me[to-be]V uru₂[town]N e₃[to-go-out-or-in]V
-c.2.2.2,The lament for Urim,,374,en₃-še₃[how-long]AV uru₂[town]N lu₂-erim₂[enemy]N bar[outside]N gub[to-stand]V
-c.2.2.2,The lament for Urim,,375,ama[mother]N Ningal[1]DN uru₂[town]N lu₂-erim₂[enemy]N gaba[chest]N sa₂[to-equal]V
-c.2.2.2,The lament for Urim,,376,nin[lady]N uru₂[town]N ki[place]N aŋ₂[to-measure]V me[to-be]V amaš[sheepfold]N tag[to-touch]V
-c.2.2.2,The lament for Urim,,377,kalam[the-Land]N kuš₂[to-be-tired]V me[to-be]V za[you-(sg.)]PD izi[fire]N tag[to-touch]V
-c.2.2.2,The lament for Urim,,378,ama[mother]N Ningal[1]DN gud[bull]N tur₃[animal-stall]N udu[sheep]N amaš[sheepfold]N
-c.2.2.2,The lament for Urim,,379,gud[bull]N tur₃[animal-stall]N ud-bi-ta[former-days]N udu[sheep]N amaš[sheepfold]N
-c.2.2.2,The lament for Urim,,380,dumu[child]N ban₃-da[junior]AJ e₂-mi₂[woman's-estate]N nin[lady]N e₂[house(hold)]N
-c.2.2.2,The lament for Urim,,381,An[1]DN lugal[king]N diŋir[deity]N muš₃-am₃[(expression-of)-compassion]N dug₄[to-say]V
-c.2.2.2,The lament for Urim,,382,Enlil[1]DN lugal[king]N kur[(mountain)-land]N nam[destiny]N tar[to-cut]V
-c.2.2.2,The lament for Urim,,383,uru₂[town]N ki[place]N gi₄[to-return]V nam-nin[ladyship]N ak[to-do]V
-c.2.2.2,The lament for Urim,,384,Nibru[1]SN ki[place]N gi₄[to-return]V nam-nin[ladyship]N ak[to-do]V
-c.2.2.2,The lament for Urim,,385,Urim[1]SN ki[place]N gi₄[to-return]V nam-nin[ladyship]N ak[to-do]V
-c.2.2.2,The lament for Urim,,386,Isin[1]SN ki[place]N gi₄[to-return]V nam-nin[ladyship]N ak[to-do]V
-c.2.2.2,The lament for Urim,,387,ki-ru-gu₂[composition-division]N 8-kam-ma[8th]NU
-c.2.2.2,The lament for Urim,,388,me[essence]N kur₂[to-be-different]V
-c.2.2.2,The lament for Urim,,389,ŋiš-gi₄-ŋal₂[composition-division]N
-c.2.2.2,The lament for Urim,,390,e[vocative-expression]I ud[storm]N ud[storm]N kalam[the-Land]N teš₂[unity]N ra[to-beat]V
-c.2.2.2,The lament for Urim,,391,ud[storm]N gal[to-be-big]V an[heaven]N ud[storm]N gu₃[voice]N dub₂[to-tremble]V
-c.2.2.2,The lament for Urim,,392,ud[storm]N gig[to-be-ill]V kalam[the-Land]N zal[to-pass]V re[that]PD
-c.2.2.2,The lament for Urim,,393,ud[storm]N uru₂[town]N gul[to-destroy]V ud[storm]N e₂[house(hold)]N gul[to-destroy]V
-c.2.2.2,The lament for Urim,,394,ud[storm]N tur₃[animal-stall]N gul[to-destroy]V ud[storm]N amaš[sheepfold]N tab[to-be-parallel]V
-c.2.2.2,The lament for Urim,,395,ŋarza[rite]N kug[shining]AJ šu[hand]N la₂[to-hang]V re[that]PD
-c.2.2.2,The lament for Urim,,396,ŋalga[reason]N niŋ₂[thing]N Aratta[1]SN šu[hand]N pe-el[to-defile]V dug₄[to-say]V re[that]PD
-c.2.2.2,The lament for Urim,,397,ud[storm]N kalam[the-Land]N niŋ₂[thing]N dug₃[to-be-good]V kud[to-cut]V re[that]PD
-c.2.2.2,The lament for Urim,,398,ud[storm]N saŋ[head]N gig₂[to-be-black]V a₂[arm]N la₂[to-hang]V re[that]PD
-c.2.2.2,The lament for Urim,,399,ki-ru-gu₂[composition-division]N 9-kam-ma[9th]NU
-c.2.2.2,The lament for Urim,,400,ud[storm]N re[that]PD ud[storm]N igi[eye]N teš₂[pride]N ŋal₂[to-be-(located)]V re[that]PD
-c.2.2.2,The lament for Urim,,401,ŋiš-gi₄-ŋal₂[composition-division]N
-c.2.2.2,The lament for Urim,,402,ud[storm]N ama[mother]N zu[to-know]V re[that]PD ud[storm]N a-a[father]N zu[to-know]V re[that]PD
-c.2.2.2,The lament for Urim,,403,ud[storm]N dam[spouse]N zu[to-know]V re[that]PD ud[storm]N dumu[child]N zu[to-know]V re[that]PD
-c.2.2.2,The lament for Urim,,404,ud[storm]N nin₉[sister]N zu[to-know]V re[that]PD ud[storm]N šeš[brother]N zu[to-know]V re[that]PD
-c.2.2.2,The lament for Urim,,405,ud[storm]N ušur[neighbour]N zu[to-know]V re[that]PD ud[storm]N ma-la[girlfriend]N zu[to-know]V re[that]PD
-c.2.2.2,The lament for Urim,,406,ud[storm]N dam[spouse]N šub[to-fall]V ud[storm]N dumu[child]N šub[to-fall]V re[that]PD
-c.2.2.2,The lament for Urim,,407,ud[storm]N ud[day(light)]N kalam[the-Land]N u₂-gu[noun-part-of-multiword-verb]N de₂[to-pour]V re[that]PD
-c.2.2.2,The lament for Urim,,408,ud[storm]N hul[to-be-bad]V gig[to-be-ill]V dug₄[to-say]V Enlil[1]DN zal[to-pass]V re[that]PD
-c.2.2.2,The lament for Urim,,409,a-a[father]N Nanna[1]DN ud[storm]N uru₂[town]N ki[place]N ŋar[to-place]V
-c.2.2.2,The lament for Urim,,410,uŋ₃[people]N saŋ[head]N gig₂[to-be-black]V igi[eye]N du₈[to-spread]V
-c.2.2.2,The lament for Urim,,411,ud[storm]N im[rain(storm)]N an[heaven]N šeŋ₃[to-rain]V ki-tuš[dwelling-place]N gur[to-turn]V
-c.2.2.2,The lament for Urim,,412,niŋ₂-zi-ŋal₂[living-creature]N an[heaven]N ki[place]N saŋ[head]N gig₂[to-be-black]V dub₂[to-tremble]V re[that]PD
-c.2.2.2,The lament for Urim,,413,ud[storm]N du₃-a[entirety]N gul[to-destroy]V
-c.2.2.2,The lament for Urim,,414,abula[(city)-gate]N ŋi₆[night]N u₃-na[designation-of-night]N ig[door]N keše₂[to-bind]V
-c.2.2.2,The lament for Urim,,415,ud[storm]N šudum[reckoning]N ŋar[to-place]V
-c.2.2.2,The lament for Urim,,416,niŋ₂-kas₇[account]N e₂[house(hold)]N Enlil[1]DN gag[peg]N sig₉[to-put]V
-c.2.2.2,The lament for Urim,,417,ki-ru-gu₂[composition-division]N 10-kam-ma[10th]NU
-c.2.2.2,The lament for Urim,,418,ud[day(light)]N ul[distant-time]N ud[day(light)]N kur₂[to-be-different]V ud[day(light)]N eŋer[back]N
-c.2.2.2,The lament for Urim,,419,ŋiš-gi₄-ŋal₂[composition-division]N
-c.2.2.2,The lament for Urim,,420,ud[day(light)]N ul[distant-time]N kalam[the-Land]N ki[place]N ŋar[to-place]V
-c.2.2.2,The lament for Urim,,421,Nanna[1]DN lu₂[person]N sun₅[to-be-humble]V ŋiri₃[foot]N dab₅[to-seize]V
-c.2.2.2,The lament for Urim,,422,er₂[tear]N e₂[house(hold)]N sig₉[to-be-silent]V de₆[to-carry]V igi[eye]N du₁₂[to-perform-(music)]V
-c.2.2.2,The lament for Urim,,423,saŋ[head]N gig₂[to-be-black]V šub[to-fall]V giri₁₇[nose]N šu[hand]N tag[to-touch]V
-c.2.2.2,The lament for Urim,,424,uru₂[town]N du₆[(ruin)-mound]N ŋar[to-place]V i-si-iš[tears-(of-joy)]N ŋar[to-place]V
-c.2.2.2,The lament for Urim,,425,Nanna[1]DN uru₂[town]N ki[place]N gi₄[to-return]V pa[branch]N e₃[to-go-out-or-in]V ak[to-do]V
-c.2.2.2,The lament for Urim,,426,mul-an[heavenly-star]N kug[shining]AJ ha-lam[to-be-lost]V igi[eye]N dib[to-pass]V
-c.2.2.2,The lament for Urim,,427,diŋir[deity]N lu₂-ulu₃[person]N kadra[greeting-gift]N de₆[to-carry]V
-c.2.2.2,The lament for Urim,,428,lu₂[person]N sizkur₂[prayer]N a-ra-zu[supplication]N dug₄[to-say]V
-c.2.2.2,The lament for Urim,,429,Nanna[1]DN arhuš[compassion]N kalam[the-Land]N
-c.2.2.2,The lament for Urim,,430,en[lord]N Ašimbabbar[1]DN šag₄[heart]N dug₄[to-say]V re[that]PD
-c.2.2.2,The lament for Urim,,431,Nanna[1]DN lu₂-ulu₃[person]N nam-tag[sin]N du₈[to-spread]V
-c.2.2.2,The lament for Urim,,432,lu₂[person]N a-ra-zu[supplication]N dug₄[to-say]V šag₄[heart]N huŋ[to-hire]V
-c.2.2.2,The lament for Urim,,432A,diŋir[deity]N lu₂[person]N kadra[greeting-gift]N de₆[to-carry]V
-c.2.2.2,The lament for Urim,,433,lu₂[person]N sizkur₂[prayer]N gub[to-stand]V igi[eye]N zid[right]AJ bar[to-set-aside]V
-c.2.2.2,The lament for Urim,,434,Nanna[1]DN igi[eye]N du₈[to-spread]V bar[to-set-aside]V šag₄[heart]N šu[hand]N niŋin₂[to-go-around]V sug₄[to-be-full]V
-c.2.2.2,The lament for Urim,,435,lu₂-ulu₃[person]N ud[storm]N hul[to-be-bad]V du₃[to-erect]V kug[to-be-shining]V
-c.2.2.2,The lament for Urim,,436,šag₄[heart]N kalam[the-Land]N ŋal₂[to-be-(located)]V kug[to-be-shining]V
-c.2.2.2,The lament for Urim,,437,Nanna[1]DN uru₂[town]N ki[place]N gi₄[to-return]V me-teš₂[praise]N i[to-bring-out]V
-c.2.2.2,The lament for Urim,,438,ki-ru-gu₂[composition-division]N 11-kam-ma[11th]NU
+c.2.2.2,The lament for Urim,,1,sux:tur₃[animal-stall]N sux:muš₃[face]N sux-x-emesal:ga[to-carry]V sux:amaš[sheepfold]N sux:lil₂[ghost]N
+c.2.2.2,The lament for Urim,,2,sux:am[wild-bull]N sux:tur₃[animal-stall]N sux:muš₃[face]N sux-x-emesal:ga[to-carry]V sux:amaš[sheepfold]N sux:lil₂[ghost]N
+c.2.2.2,The lament for Urim,,3,sux-x-emesal:u₃-mu-un[lord]N sux:kur[(mountain)-land]N sux:muš₃[face]N sux-x-emesal:ga[to-carry]V sux:amaš[sheepfold]N sux:lil₂[ghost]N
+c.2.2.2,The lament for Urim,,4,sux-x-emesal:Enlil[1]DN sux:eš₃[shrine]N sux:Nibru[1]SN sux:muš₃[face]N sux-x-emesal:ga[to-carry]V sux:amaš[sheepfold]N sux:lil₂[ghost]N
+c.2.2.2,The lament for Urim,,5,sux:dam[spouse]N sux:Ninlil[1]DN sux:muš₃[face]N sux-x-emesal:ga[to-carry]V sux:amaš[sheepfold]N sux:lil₂[ghost]N
+c.2.2.2,The lament for Urim,,6,sux:Ninlil[1]DN sux:e₂[house(hold)]N sux:Ki-ur[1]TN sux:muš₃[face]N sux-x-emesal:ga[to-carry]V sux:amaš[sheepfold]N sux:lil₂[ghost]N
+c.2.2.2,The lament for Urim,,7,sux:nin[lady]N sux:Keš[1]SN sux:muš₃[face]N sux-x-emesal:ga[to-carry]V sux:amaš[sheepfold]N sux:lil₂[ghost]N
+c.2.2.2,The lament for Urim,,8,sux-x-emesal:Ninmah[1]DN sux:e₂[house(hold)]N sux:Keš[1]SN sux:muš₃[face]N sux-x-emesal:ga[to-carry]V sux:amaš[sheepfold]N sux:lil₂[ghost]N
+c.2.2.2,The lament for Urim,,9,sux-x-emesal:mu-lu[person]N sux:Isin[1]SN sux:muš₃[face]N sux-x-emesal:ga[to-carry]V sux:amaš[sheepfold]N sux:lil₂[ghost]N
+c.2.2.2,The lament for Urim,,10,sux-x-emesal:Ninisina[1]DN sux:eš₃[shrine]N sux:Egal-mah[1]TN sux:muš₃[face]N sux-x-emesal:ga[to-carry]V sux:amaš[sheepfold]N sux:lil₂[ghost]N
+c.2.2.2,The lament for Urim,,11,sux:nin[lady]N sux:ki[place]N sux:Unug[1]SN sux:muš₃[face]N sux-x-emesal:ga[to-carry]V sux:amaš[sheepfold]N sux:lil₂[ghost]N
+c.2.2.2,The lament for Urim,,12,sux-x-emesal:Inana[1]DN sux:e₂[house(hold)]N sux:ki[place]N sux:Unug[1]SN sux:muš₃[face]N sux-x-emesal:ga[to-carry]V sux:amaš[sheepfold]N sux:lil₂[ghost]N
+c.2.2.2,The lament for Urim,,13,sux:Nanna[1]DN sux:Urim[1]SN sux:muš₃[face]N sux-x-emesal:ga[to-carry]V sux:amaš[sheepfold]N sux:lil₂[ghost]N
+c.2.2.2,The lament for Urim,,14,sux:Suen[1]DN sux:E-kiš-nu-ŋal[1]TN sux:muš₃[face]N sux-x-emesal:ga[to-carry]V sux:amaš[sheepfold]N sux:lil₂[ghost]N
+c.2.2.2,The lament for Urim,,15,sux:dam[spouse]N sux-x-emesal:Ningal[1]DN sux:muš₃[face]N sux-x-emesal:ga[to-carry]V sux:amaš[sheepfold]N sux:lil₂[ghost]N
+c.2.2.2,The lament for Urim,,16,sux-x-emesal:Ningal[1]DN sux:Agrun-kug[1]TN sux:muš₃[face]N sux-x-emesal:ga[to-carry]V sux:amaš[sheepfold]N sux:lil₂[ghost]N
+c.2.2.2,The lament for Urim,,17,sux:am[wild-bull]N sux-x-emesal:Eridug[1]SN sux:muš₃[face]N sux-x-emesal:ga[to-carry]V sux:amaš[sheepfold]N sux:lil₂[ghost]N
+c.2.2.2,The lament for Urim,,18,sux-x-emesal:Enki[1]DN sux:e₂[house(hold)]N sux-x-emesal:Eridug[1]SN sux:muš₃[face]N sux-x-emesal:ga[to-carry]V sux:amaš[sheepfold]N sux:lil₂[ghost]N
+c.2.2.2,The lament for Urim,,18A,sux:Nin-X[1]DN sux:e₂[house(hold)]N sux:Larag[1]SN sux:muš₃[face]N sux-x-emesal:ga[to-carry]V sux:amaš[sheepfold]N sux:lil₂[ghost]N
+c.2.2.2,The lament for Urim,,19,sux:Šara[1]DN sux:E-mah[1]TN sux:muš₃[face]N sux-x-emesal:ga[to-carry]V sux:amaš[sheepfold]N sux:lil₂[ghost]N
+c.2.2.2,The lament for Urim,,20,sux:Ud-sahara[1]DN sux:e₂[house(hold)]N sux:Umma[1]SN sux:muš₃[face]N sux-x-emesal:ga[to-carry]V sux:amaš[sheepfold]N sux:lil₂[ghost]N
+c.2.2.2,The lament for Urim,,21,sux:Bau[1]DN sux-x-emesal:Iri-kug[1]SN sux:muš₃[face]N sux-x-emesal:ga[to-carry]V sux:amaš[sheepfold]N sux:lil₂[ghost]N
+c.2.2.2,The lament for Urim,,22,sux:a[water]N sux:dug₄[to-say]V sux:e₂-mi₂[woman's-estate]N sux:muš₃[face]N sux-x-emesal:ga[to-carry]V sux:amaš[sheepfold]N sux:lil₂[ghost]N
+c.2.2.2,The lament for Urim,,23,sux:dumu[child]N sux:Ab-Bau[1]DN sux:muš₃[face]N sux-x-emesal:ga[to-carry]V sux:amaš[sheepfold]N sux:lil₂[ghost]N
+c.2.2.2,The lament for Urim,,24,sux:Ab-Bau[1]DN sux:Ma-gu-ena[1]TN sux:muš₃[face]N sux-x-emesal:ga[to-carry]V sux:amaš[sheepfold]N sux:lil₂[ghost]N
+c.2.2.2,The lament for Urim,,25,sux:lamma[guardian-deity]N sux:e₂[house(hold)]N sux:kug[shining]AJ sux:muš₃[face]N sux-x-emesal:ga[to-carry]V sux:amaš[sheepfold]N sux:lil₂[ghost]N
+c.2.2.2,The lament for Urim,,26,sux:lamma[guardian-deity]N sux:E-tar-sirsir[1]TN sux:muš₃[face]N sux-x-emesal:ga[to-carry]V sux:amaš[sheepfold]N sux:lil₂[ghost]N
+c.2.2.2,The lament for Urim,,27,sux:um-ma[experienced-woman]N sux:Lagaš[1]SN sux:muš₃[face]N sux-x-emesal:ga[to-carry]V sux:amaš[sheepfold]N sux:lil₂[ghost]N
+c.2.2.2,The lament for Urim,,28,sux-x-emesal:Ŋatumdug[1]DN sux:e₂[house(hold)]N sux:Lagaš[1]SN sux:muš₃[face]N sux-x-emesal:ga[to-carry]V sux:amaš[sheepfold]N sux:lil₂[ghost]N
+c.2.2.2,The lament for Urim,,29,sux-x-emesal:mu-lu[person]N sux:Niŋin[1]SN sux:muš₃[face]N sux-x-emesal:ga[to-carry]V sux:amaš[sheepfold]N sux:lil₂[ghost]N
+c.2.2.2,The lament for Urim,,30,sux-x-emesal:ga-ša-an[lady]N sux:gal[to-be-big]V sux:e₂[house(hold)]N sux:Sirara[1]SN sux:muš₃[face]N sux-x-emesal:ga[to-carry]V sux:amaš[sheepfold]N sux:lil₂[ghost]N
+c.2.2.2,The lament for Urim,,31,sux-x-emesal:mu-lu[person]N sux:Kinirša[1]SN sux:muš₃[face]N sux-x-emesal:ga[to-carry]V sux:amaš[sheepfold]N sux:lil₂[ghost]N
+c.2.2.2,The lament for Urim,,32,sux:Dumuzid-abzu[1]DN sux:e₂[house(hold)]N sux:Kinirša[1]SN sux:muš₃[face]N sux-x-emesal:ga[to-carry]V sux:amaš[sheepfold]N sux:lil₂[ghost]N
+c.2.2.2,The lament for Urim,,33,sux-x-emesal:mu-lu[person]N sux:Gu-aba[1]SN sux:muš₃[face]N sux-x-emesal:ga[to-carry]V sux:amaš[sheepfold]N sux:lil₂[ghost]N
+c.2.2.2,The lament for Urim,,34,sux-x-emesal:Ninmarki[1]DN sux:eš₃[shrine]N sux:Gu-aba[1]SN sux:muš₃[face]N sux-x-emesal:ga[to-carry]V sux:amaš[sheepfold]N sux:lil₂[ghost]N
+c.2.2.2,The lament for Urim,,35,sux:ki-ru-gu₂[composition-division]N sux:1-kam-ma[1st]NU
+c.2.2.2,The lament for Urim,,36,sux:amaš[sheepfold]N sux:lil₂[ghost]N sux:ŋar[to-place]V sux:i-si-iš[tears-(of-joy)]N sux:kuš₂[to-be-tired]V
+c.2.2.2,The lament for Urim,,37,sux:ab₂[cow]N sux:gu₃[voice]N sux:tur₃[animal-stall]N sux:ŋal₂[to-be-(located)]V sux:tur₃[animal-stall]N sux:nun[prince]N sux:ul[to-swell-(with-joy)]V
+c.2.2.2,The lament for Urim,,38,sux:ŋiš-gi₄-ŋal₂[composition-division]N
+c.2.2.2,The lament for Urim,,39,sux-x-emesal:uru₂[town]N sux-x-emesal:a-še-er[lament]N sux:gig[to-be-ill]V sux-x-emesal:a-še-er[lament]N sux:ŋar[to-place]V
+c.2.2.2,The lament for Urim,,40,sux-x-emesal:a-še-er[lament]N sux:gig[to-be-ill]V sux-x-emesal:uru₂[town]N sux-x-emesal:a-še-er[lament]N sux:ŋar[to-place]V
+c.2.2.2,The lament for Urim,,41,sux-x-emesal:uru₂[town]N sux:zid[right]AJ sux:gul[to-destroy]V sux-x-emesal:a-še-er[lament]N sux:gig[to-be-ill]V
+c.2.2.2,The lament for Urim,,42,sux:Urim[1]SN sux:zid[right]AJ sux:gul[to-destroy]V sux-x-emesal:a-še-er[lament]N sux:gig[to-be-ill]V sux-x-emesal:a-še-er[lament]N sux:ŋar[to-place]V
+c.2.2.2,The lament for Urim,,43,sux-x-emesal:a-še-er[lament]N sux:gig[to-be-ill]V sux-x-emesal:uru₂[town]N sux-x-emesal:a-še-er[lament]N sux:ŋar[to-place]V
+c.2.2.2,The lament for Urim,,44,sux:Urim[1]SN sux:gul[to-destroy]V sux-x-emesal:a-še-er[lament]N sux:gig[to-be-ill]V
+c.2.2.2,The lament for Urim,,45,sux-x-emesal:a-še-er[lament]N sux:gig[to-be-ill]V sux-x-emesal:ga-ša-an[lady]N sux-x-emesal:mu-lu[person]N sux:er₂[tear]N sux:en₃-še₃[how-long]AV sux:kuš₂[to-be-tired]V
+c.2.2.2,The lament for Urim,,46,sux-x-emesal:a-še-er[lament]N sux:gig[to-be-ill]V sux:Nanna[1]DN sux-x-emesal:mu-lu[person]N sux:er₂[tear]N sux:en₃-še₃[how-long]AV sux:kuš₂[to-be-tired]V
+c.2.2.2,The lament for Urim,,47,sux-x-emesal:še-eb[brick(work)]N sux:Urim[1]SN sux-x-emesal:a-še-er[lament]N sux:gig[to-be-ill]V sux-x-emesal:a-še-er[lament]N sux:ŋar[to-place]V
+c.2.2.2,The lament for Urim,,48,sux:E-kiš-nu-ŋal[1]TN sux-x-emesal:a-še-er[lament]N sux:gig[to-be-ill]V sux-x-emesal:a-še-er[lament]N sux:ŋar[to-place]V
+c.2.2.2,The lament for Urim,,49,sux:eš₃[shrine]N sux:Agrun-kug[1]TN sux-x-emesal:a-še-er[lament]N sux:gig[to-be-ill]V sux-x-emesal:a-še-er[lament]N sux:ŋar[to-place]V
+c.2.2.2,The lament for Urim,,50,sux:Ki-ur[1]TN sux:ki[place]N sux:gal[to-be-big]V sux-x-emesal:a-še-er[lament]N sux:gig[to-be-ill]V sux-x-emesal:a-še-er[lament]N sux:ŋar[to-place]V
+c.2.2.2,The lament for Urim,,51,sux:eš₃[shrine]N sux:Nibru[1]SN sux-x-emesal:uru₂[town]N sux-x-emesal:a-še-er[lament]N sux:gig[to-be-ill]V sux-x-emesal:a-še-er[lament]N sux:ŋar[to-place]V
+c.2.2.2,The lament for Urim,,52,sux-x-emesal:še-eb[brick(work)]N sux:E-kur[1]TN sux-x-emesal:a-še-er[lament]N sux:gig[to-be-ill]V sux-x-emesal:a-še-er[lament]N sux:ŋar[to-place]V
+c.2.2.2,The lament for Urim,,53,sux:Ŋa-ŋiš-šua[1]TN sux-x-emesal:a-še-er[lament]N sux:gig[to-be-ill]V sux-x-emesal:a-še-er[lament]N sux:ŋar[to-place]V
+c.2.2.2,The lament for Urim,,54,sux:Ubšu-unkena[1]TN sux-x-emesal:a-še-er[lament]N sux:gig[to-be-ill]V sux-x-emesal:a-še-er[lament]N sux:ŋar[to-place]V
+c.2.2.2,The lament for Urim,,55,sux-x-emesal:še-eb[brick(work)]N sux-x-emesal:Iri-kug[1]SN sux-x-emesal:a-še-er[lament]N sux:gig[to-be-ill]V sux-x-emesal:a-še-er[lament]N sux:ŋar[to-place]V
+c.2.2.2,The lament for Urim,,56,sux:E-tar-sirsir[1]TN sux-x-emesal:a-še-er[lament]N sux:gig[to-be-ill]V sux-x-emesal:a-še-er[lament]N sux:ŋar[to-place]V
+c.2.2.2,The lament for Urim,,57,sux:Ma-gu-ena[1]TN sux-x-emesal:a-še-er[lament]N sux:gig[to-be-ill]V sux-x-emesal:a-še-er[lament]N sux:ŋar[to-place]V
+c.2.2.2,The lament for Urim,,58,sux-x-emesal:še-eb[brick(work)]N sux:Isin[1]SN sux-x-emesal:a-še-er[lament]N sux:gig[to-be-ill]V sux-x-emesal:a-še-er[lament]N sux:ŋar[to-place]V
+c.2.2.2,The lament for Urim,,59,sux:eš₃[shrine]N sux:Egal-mah[1]TN sux-x-emesal:a-še-er[lament]N sux:gig[to-be-ill]V sux-x-emesal:a-še-er[lament]N sux:ŋar[to-place]V
+c.2.2.2,The lament for Urim,,60,sux-x-emesal:še-eb[brick(work)]N sux:ki[place]N sux:Unug[1]SN sux-x-emesal:a-še-er[lament]N sux:gig[to-be-ill]V sux-x-emesal:a-še-er[lament]N sux:ŋar[to-place]V
+c.2.2.2,The lament for Urim,,61,sux-x-emesal:še-eb[brick(work)]N sux-x-emesal:Eridug[1]SN sux-x-emesal:a-še-er[lament]N sux:gig[to-be-ill]V sux-x-emesal:a-še-er[lament]N sux:ŋar[to-place]V
+c.2.2.2,The lament for Urim,,62,sux-x-emesal:a-še-er[lament]N sux:gig[to-be-ill]V sux-x-emesal:ga-ša-an[lady]N sux-x-emesal:mu-lu[person]N sux:er₂[tear]N sux:en₃-še₃[how-long]AV sux:kuš₂[to-be-tired]V
+c.2.2.2,The lament for Urim,,63,sux-x-emesal:a-še-er[lament]N sux:gig[to-be-ill]V sux:Nanna[1]DN sux-x-emesal:mu-lu[person]N sux:er₂[tear]N sux:en₃-še₃[how-long]AV sux:kuš₂[to-be-tired]V
+c.2.2.2,The lament for Urim,,64,sux-x-emesal:uru₂[town]N sux:mu[name]N sux:ŋal₂[to-be-(located)]V sux:za[you-(sg.)]PD sux:gul[to-destroy]V
+c.2.2.2,The lament for Urim,,65,sux-x-emesal:uru₂[town]N sux:bad₃[wall]N sux:il₂[to-raise]V sux:kalam[the-Land]N sux:til[to-complete]V
+c.2.2.2,The lament for Urim,,66,sux-x-emesal:uru₂[town]N sux:u₈[ewe]N sux:zid[right]AJ sux:sila₄[lamb]N sux:tar[to-cut]V
+c.2.2.2,The lament for Urim,,67,sux:Urim[1]SN sux:ud₅[(nanny)-goat]N sux:zid[right]AJ sux:maš₂[(kid)-goat]N sux:til[to-complete]V
+c.2.2.2,The lament for Urim,,68,sux-x-emesal:uru₂[town]N sux:ŋarza[rite]N sux:kur₂[to-be-different]V
+c.2.2.2,The lament for Urim,,69,sux:me[essence]N sux:me[essence]N sux:kur₂[to-be-different]V sux:šu[hand]N sux:bal[to-turn-over]V sux:ak[to-do]V
+c.2.2.2,The lament for Urim,,70,sux-x-emesal:a-še-er[lament]N sux:gig[to-be-ill]V sux-x-emesal:ga-ša-an[lady]N sux-x-emesal:mu-lu[person]N sux:er₂[tear]N sux:en₃-še₃[how-long]AV sux:kuš₂[to-be-tired]V
+c.2.2.2,The lament for Urim,,71,sux-x-emesal:a-še-er[lament]N sux:gig[to-be-ill]V sux:Nanna[1]DN sux-x-emesal:mu-lu[person]N sux:er₂[tear]N sux:en₃-še₃[how-long]AV sux:kuš₂[to-be-tired]V
+c.2.2.2,The lament for Urim,,72,sux:ki-ru-gu₂[composition-division]N sux:2-kam-ma[2nd]NU
+c.2.2.2,The lament for Urim,,73,sux-x-emesal:uru₂[town]N sux:zid[right]AJ sux:gul[to-destroy]V sux-x-emesal:a-še-er[lament]N sux:gig[to-be-ill]V
+c.2.2.2,The lament for Urim,,74,sux:Urim[1]SN sux:gul[to-destroy]V sux-x-emesal:a-še-er[lament]N sux:gig[to-be-ill]V
+c.2.2.2,The lament for Urim,,75,sux:ŋiš-gi₄-ŋal₂[composition-division]N
+c.2.2.2,The lament for Urim,,76,sux:nin[lady]N sux:lu₂[person]N sux:e₂[house(hold)]N sux:hul[to-be-bad]V sux-x-emesal:uru₂[town]N sux:er₂[tear]N sux:ŋar[to-place]V
+c.2.2.2,The lament for Urim,,77,sux:Nanna[1]DN sux:lu₂[person]N sux:kalam[the-Land]N sux:til[to-complete]V
+c.2.2.2,The lament for Urim,,78,sux:Urim[1]SN sux:a-nir[lament]N sux:bar[outside]N sux:tab[to-be-parallel]V
+c.2.2.2,The lament for Urim,,79,sux:munus[woman]N sux:zid[right]AJ sux:nin[lady]N sux-x-emesal:uru₂[town]N sux:kuš₂[to-be-tired]V
+c.2.2.2,The lament for Urim,,80,sux:Ningal[1]DN sux:kalam[the-Land]N sux:u₃[sleep]N sux:ku[to-lay-down]V
+c.2.2.2,The lament for Urim,,81,sux:e-ne[he;-she]PD sux:nam[destiny]N sux-x-emesal:uru₂[town]N sux:te[to-approach]V sux:er₂[tear]N sux:gig[to-be-ill]V sux:šeš₂[to-weep]V
+c.2.2.2,The lament for Urim,,82,sux:nin[lady]N sux:nam[destiny]N sux:e₂[house(hold)]N sux:te[to-approach]V sux:er₂[tear]N sux:gig[to-be-ill]V sux:šeš₂[to-weep]V
+c.2.2.2,The lament for Urim,,83,sux:nam[destiny]N sux-x-emesal:uru₂[town]N sux:hul[to-be-bad]V sux:te[to-approach]V sux:er₂[tear]N sux:gig[to-be-ill]V sux:šeš₂[to-weep]V
+c.2.2.2,The lament for Urim,,84,sux:nam[destiny]N sux:e₂[house(hold)]N sux:hul[to-be-bad]V sux:te[to-approach]V sux:a-nir[lament]N sux:gig[to-be-ill]V sux:ŋar[to-place]V
+c.2.2.2,The lament for Urim,,85,sux:munus[woman]N sux:ad[voice]N sux:balaŋ[type-of-instrument-and-composition]N sux:er₂[tear]N sux:ki[place]N sux:al-ŋar[type-of-instrument]N
+c.2.2.2,The lament for Urim,,86,sux:i-lu[(sad)-song]N sux-x-emesal:ma[house(hold)]N sux:sig₉[to-be-silent]V sux:tur[to-be-small]V sux:ni₂-te-a-ni[himself;-herself]PD sux:dug₄[to-say]V
+c.2.2.2,The lament for Urim,,87,sux:ud[storm]N sux-x-emesal:ma-al[to-be-(located)]V sux:i-si-iš[tears-(of-joy)]N sux:la₂[to-hang]V
+c.2.2.2,The lament for Urim,,88,sux:ud[storm]N sux-x-emesal:na-aŋ₂[destiny]N sux:sumur[to-be-angry]V
+c.2.2.2,The lament for Urim,,89,sux:lu₂[person]N sux-x-emesal:nu-nus[woman]N sux:ud[storm]N sux-x-emesal:ma-al[to-be-(located)]V
+c.2.2.2,The lament for Urim,,90,sux:ud[storm]N sux-x-emesal:ma-al[to-be-(located)]V sux:i-si-iš[tears-(of-joy)]N sux:la₂[to-hang]V
+c.2.2.2,The lament for Urim,,91,sux:ud[day(light)]N sux:ud[storm]N sux:gig[to-be-ill]V sux-x-emesal:ma-al[to-be-(located)]V
+c.2.2.2,The lament for Urim,,92,sux-x-emesal:me[I]PD sux:ud[day(light)]N sux:zarah[grief]N sux:ak[to-do]V
+c.2.2.2,The lament for Urim,,93,sux:ud[day(light)]N sux:a₂[arm]N sux:e₃[to-go-out-or-in]V
+c.2.2.2,The lament for Urim,,94,sux:ud[storm]N sux:tur[to-be-small]V sux:bal[term-(in-office)]N sux:ud[day(light)]N sux:sag₉[to-be-good]V sux:bal[term-(in-office)]N sux:ud[day(light)]N sux:sag₉[to-be-good]V sux-x-emesal:i-bi₂[eye]N sux:du₈[to-spread]V
+c.2.2.2,The lament for Urim,,95,sux:ŋi₆[night]N sux-x-emesal:a-še-er[lament]N sux:gig[to-be-ill]V sux-x-emesal:ma-al[to-be-(located)]V
+c.2.2.2,The lament for Urim,,96,sux-x-emesal:me[I]PD sux:ŋi₆[night]N sux:zarah[grief]N sux:ak[to-do]V
+c.2.2.2,The lament for Urim,,97,sux:ŋi₆[night]N sux:a₂[arm]N sux:e₃[to-go-out-or-in]V
+c.2.2.2,The lament for Urim,,98,sux:ud[storm]N sux:uru₂[flood]N sux:gul[to-destroy]V sux:ni₂[fear(someness)]N sux:la₂[to-hang]V
+c.2.2.2,The lament for Urim,,99,sux-x-emesal:na-aŋ₂[destiny]N sux:ki-nu₂[sleeping-quarter]N sux:ŋi₆[night]N sux:u₃-na[designation-of-night]N sux:ki-nu₂[sleeping-quarter]N sux:ŋi₆[night]N sux:u₃-na[designation-of-night]N sux:lib[(deathly)-silence]N sux-x-emesal:mar[to-place]V
+c.2.2.2,The lament for Urim,,100,sux:ud[day(light)]N sux:tur[to-be-small]V sux:ki-nu₂[sleeping-quarter]N sux-x-emesal:mu-uš-la₂-a-bi[silence]N sux:ki-nu₂[sleeping-quarter]N sux:ŋiš-la₂-bi[silence]N sux:DU[DU]V
+c.2.2.2,The lament for Urim,,100A,sux-x-emesal:ka-na-aŋ₂[the-Land]N sux:ni₂[self]N sux:šub[to-fall]V sux-x-emesal:me[I]PD sux:ak[to-do]V
+c.2.2.2,The lament for Urim,,101,sux-x-emesal:ka-na-aŋ₂[the-Land]N sux-x-emesal:aŋ₂-gig[abomination]N sux:ŋal₂[to-be-(located)]V
+c.2.2.2,The lament for Urim,,102,sux:ab₂[cow]N sux:amar[calf]N sux:ki[place]N sux:šu[hand]N sux:ak[to-do]V
+c.2.2.2,The lament for Urim,,103,sux-x-emesal:ka-na-aŋ₂[the-Land]N sux:ni₂[self]N sux:šu[hand]N sux:gi₄[to-return]V
+c.2.2.2,The lament for Urim,,104,sux-x-emesal:uru₂[town]N sux:du-lum[toil]N sux:gig[to-be-ill]V sux:ŋal₂[to-be-(located)]V
+c.2.2.2,The lament for Urim,,105,sux:mušen[bird]N sux:an[heaven]N sux:a₂[arm]N sux:dub₂[to-tremble]V sux:ak[to-do]V
+c.2.2.2,The lament for Urim,,106,sux-x-emesal:me[I]PD sux-x-emesal:uru₂[town]N sux:dal[to-fly]V
+c.2.2.2,The lament for Urim,,107,sux-x-emesal:uru₂[town]N sux:ki-ŋal₂-la[site]N sux:gul[to-destroy]V
+c.2.2.2,The lament for Urim,,108,sux:Urim[1]SN sux:ki-nu₂[sleeping-quarter]N sux:til[to-complete]V
+c.2.2.2,The lament for Urim,,109,sux:šu[hand]N sux:ud[storm]N sux:an[heaven]N sux:ŋal₂[to-be-(located)]V
+c.2.2.2,The lament for Urim,,110,sux:gu₃[voice]N sux:dub₂[to-tremble]V sux:edin[open-country]N sux:ud[storm]N sux:gi₄[to-return]V sux-x-emesal:me[I]PD sux:dug₄[to-say]V
+c.2.2.2,The lament for Urim,,111,sux:ud[storm]N sux:gaba[chest]N sux:zig₃[to-rise]V
+c.2.2.2,The lament for Urim,,112,sux-x-emesal:nu-nus[woman]N sux:Agrun-kug[1]TN sux:e₂[house(hold)]N sux-x-emesal:na-aŋ₂-ga-ša-an[ladyship]N
+c.2.2.2,The lament for Urim,,113,sux:bal[term-(in-office)]N sux:ud[day(light)]N sux:sud[to-be-distant]V sux:ŋar[to-place]V
+c.2.2.2,The lament for Urim,,114,sux:er₂[tear]N sux-x-emesal:a-še-er[lament]N sux:ki[place]N sux:us₂[to-be-adjacent]V
+c.2.2.2,The lament for Urim,,115,sux:e₂[house(hold)]N sux:ki[place]N sux:ur₅[liver]N sux:sag₉[to-be-good]V sux:saŋ[head]N sux:gig₂[to-be-black]V sux:me[to-be]V
+c.2.2.2,The lament for Urim,,116,sux:ezen[festival]N sux:ib₂[to-be-furious]V sux:su-mu-ug[distress]N sux:tab[to-be-parallel]V
+c.2.2.2,The lament for Urim,,117,sux:ud[storm]N sux:tur[to-be-small]V sux:e₂[house(hold)]N sux:ki[place]N sux:sag₉[to-be-good]V
+c.2.2.2,The lament for Urim,,118,sux:e₂[house(hold)]N sux:zid[right]AJ sux:hul[to-be-bad]V sux-x-emesal:i-bi₂[eye]N sux:du₈[to-spread]V
+c.2.2.2,The lament for Urim,,119,sux:ur₅[liver]N sux:uš₂[to-die]V sux-x-emesal:a-še-er[lament]N sux-x-emesal:aŋ₂-gig[abomination]N
+c.2.2.2,The lament for Urim,,120,sux-x-emesal:a-še-er[lament]N sux-x-emesal:aŋ₂-gig[abomination]N sux:de₆[to-carry]V
+c.2.2.2,The lament for Urim,,121,sux:e₂[house(hold)]N sux:lu₂[person]N sux:zid[right]AJ sux:ŋar[to-place]V
+c.2.2.2,The lament for Urim,,122,sux:gi-sig[type-of-fence]N sux:kiri₆[orchard]N sux:bar[outside]N sux:dub₂[to-tremble]V
+c.2.2.2,The lament for Urim,,123,sux:E-kiš-nu-ŋal[1]TN sux:e₂[house(hold)]N sux:nam-lugal[kingship]N
+c.2.2.2,The lament for Urim,,124,sux:e₂[house(hold)]N sux:zid[right]AJ sux:e₂[house(hold)]N sux:er₂[tear]N sux:ŋar[to-place]V
+c.2.2.2,The lament for Urim,,125,sux:lul[to-be-false]V sux:du₃[to-erect]V sux:zid[right]AJ sux:gul[to-destroy]V
+c.2.2.2,The lament for Urim,,126,sux:ha-la[share]N sux:ba[to-allot]V sux:ŋar[to-place]V
+c.2.2.2,The lament for Urim,,127,sux:za-lam-ŋar[tent]N sux:e₂[house(hold)]N sux:ki-buru₁₄[harvest-area]N sux:bur₁₂[to-tear-out]V
+c.2.2.2,The lament for Urim,,128,sux:e₂[house(hold)]N sux:ki-buru₁₄[harvest-area]N sux:bur₁₂[to-tear-out]V sux:tum₉[wind]N sux:šeŋ₃[rain]N sux:ŋar[to-place]V
+c.2.2.2,The lament for Urim,,129,sux:Urim[1]SN sux:e₂-mi₂[woman's-estate]N sux:niŋ₂[thing]N sux:dirig[to-be-superior]V
+c.2.2.2,The lament for Urim,,130,sux:e₂[house(hold)]N sux-x-emesal:uru₂[town]N sux:sig₉[to-put]V sux:bur₁₂[to-tear-out]V
+c.2.2.2,The lament for Urim,,131,sux:amaš[sheepfold]N sux:sipad[shepherd]N sux:bur₁₂[to-tear-out]V
+c.2.2.2,The lament for Urim,,132,sux:niŋ₂-gur₁₁[possessions]N sux-x-emesal:uru₂[town]N sux:ŋal₂[to-be-(located)]V sux:sug[marsh]N sux:gu₇[to-eat]V
+c.2.2.2,The lament for Urim,,133,sux:ki-ru-gu₂[composition-division]N sux:3-kam-ma[3rd]NU
+c.2.2.2,The lament for Urim,,134,sux:Urim[1]SN sux:er₂[tear]N sux:ŋar[to-place]V
+c.2.2.2,The lament for Urim,,135,sux:ŋiš-gi₄-ŋal₂[composition-division]N
+c.2.2.2,The lament for Urim,,136,sux:ud[day(light)]N sux:ud[storm]N sux:ne-en[this]PD sux:sag₃[to-beat]V
+c.2.2.2,The lament for Urim,,137,sux:nin[lady]N sux-x-emesal:uru₂[town]N sux:gul[to-destroy]V
+c.2.2.2,The lament for Urim,,138,sux:ud[day(light)]N sux:ud[storm]N sux:ne-en[this]PD sux:dim₂[to-create]V
+c.2.2.2,The lament for Urim,,139,sux-x-emesal:uru₂[town]N sux:gul[to-destroy]V sux:dug₄[to-say]V
+c.2.2.2,The lament for Urim,,140,sux:Urim[1]SN sux:gul[to-destroy]V sux:dug₄[to-say]V
+c.2.2.2,The lament for Urim,,141,sux:uŋ₃[people]N sux:uš₂[to-die]V sux:a₂[arm]N sux:aŋ₂[to-measure]V
+c.2.2.2,The lament for Urim,,142,sux:ud[day(light)]N sux-x-emesal:me[I]PD sux-x-emesal:uru₂[town]N sux:ŋa₂-la[noun-part-of-multiword-verb]N sux:dag[to-roam-around]V
+c.2.2.2,The lament for Urim,,143,sux-x-emesal:ka-na-aŋ₂[the-Land]N sux:ni₂[self]N sux:šub[to-fall]V sux-x-emesal:me[I]PD sux:ak[to-do]V
+c.2.2.2,The lament for Urim,,144,sux:An[1]DN sux:a[water]N sux-x-emesal:i-bi₂[eye]N sux-x-emesal:me[I]PD sux:de₂[to-pour]V
+c.2.2.2,The lament for Urim,,145,sux-x-emesal:Enlil[1]DN sux:ni₂-ŋu₁₀[myself]PD sux:šag₄-ne-ša₄[intercession]N sux:ak[to-do]V
+c.2.2.2,The lament for Urim,,146,sux-x-emesal:uru₂[town]N sux:gul[to-destroy]V sux:dug₄[to-say]V
+c.2.2.2,The lament for Urim,,147,sux:Urim[1]SN sux:gul[to-destroy]V sux:dug₄[to-say]V
+c.2.2.2,The lament for Urim,,148,sux:uŋ₃[people]N sux:til[to-complete]V sux:dug₄[to-say]V
+c.2.2.2,The lament for Urim,,149,sux:An[1]DN sux-x-emesal:e-ne-eŋ₃[word]N sux:gur[to-turn]V
+c.2.2.2,The lament for Urim,,150,sux-x-emesal:Enlil[1]DN sux:sag₉[to-be-good]V sux:he₂-am₃[(so)-be-it]N sux:šag₄[heart]N sux:sed₄[to-be-cold]V
+c.2.2.2,The lament for Urim,,151,sux:2-kam-ma[2nd]NU sux:pu-uh₂-ru-um[assembly]N sux:ki[place]N sux:saŋ-ki[forehead]N sux:ŋal₂[to-be-(located)]V
+c.2.2.2,The lament for Urim,,152,sux:Anuna[1]DN sux-x-emesal:e-ne-eŋ₃[word]N sux:zu₂[tooth]N sux:keše₂[to-bind]V sux:tuš[to-sit]V
+c.2.2.2,The lament for Urim,,153,sux:ur₂[root]N sux:sud[to-be-distant]V sux:a₂[arm]N sux:la₂[to-hang]V
+c.2.2.2,The lament for Urim,,154,sux:An[1]DN sux:a[water]N sux-x-emesal:i-bi₂[eye]N sux-x-emesal:me[I]PD sux:dug₄[to-say]V
+c.2.2.2,The lament for Urim,,155,sux-x-emesal:Enlil[1]DN sux:ni₂-ŋu₁₀[myself]PD sux:šag₄-ne-ša₄[intercession]N sux:ak[to-do]V
+c.2.2.2,The lament for Urim,,156,sux-x-emesal:uru₂[town]N sux:gul[to-destroy]V sux:dug₄[to-say]V
+c.2.2.2,The lament for Urim,,157,sux:Urim[1]SN sux:gul[to-destroy]V sux:dug₄[to-say]V
+c.2.2.2,The lament for Urim,,158,sux:uŋ₃[people]N sux:til[to-complete]V sux:dug₄[to-say]V
+c.2.2.2,The lament for Urim,,159,sux:an[heaven]N sux-x-emesal:e-ne-eŋ₃[word]N sux:gur[to-turn]V
+c.2.2.2,The lament for Urim,,160,sux-x-emesal:Enlil[1]DN sux:sag₉[to-be-good]V sux:he₂-am₃[(so)-be-it]N sux:šag₄[heart]N sux:sed₄[to-be-cold]V
+c.2.2.2,The lament for Urim,,161,sux-x-emesal:uru₂[town]N sux:gul[to-destroy]V sux:a₂[arm]N sux:aŋ₂[to-measure]V
+c.2.2.2,The lament for Urim,,162,sux:Urim[1]SN sux:gul[to-destroy]V sux:a₂[arm]N sux:aŋ₂[to-measure]V
+c.2.2.2,The lament for Urim,,163,sux:uŋ₃[people]N sux:uš₂[to-die]V sux-x-emesal:na-aŋ₂[destiny]N sux:tar[to-cut]V
+c.2.2.2,The lament for Urim,,164,sux-x-emesal:me[I]PD sux:niŋ₂-dug₄-ga[speech]N sux:šum₂[to-give]V
+c.2.2.2,The lament for Urim,,165,sux-x-emesal:me[I]PD sux-x-emesal:uru₂[town]N sux:la₂[to-hang]V
+c.2.2.2,The lament for Urim,,166,sux:Urim[1]SN sux-x-emesal:me[I]PD sux:la₂[to-hang]V
+c.2.2.2,The lament for Urim,,167,sux:An[1]DN sux:dug₄[to-say]V sux:hur[ever]AV sux:kur₂[to-be-different]V
+c.2.2.2,The lament for Urim,,168,sux-x-emesal:Enlil[1]DN sux:ka[mouth]N sux:e₃[to-go-out-or-in]V sux:šu[hand]N sux:bal[to-turn-over]V
+c.2.2.2,The lament for Urim,,169,sux:ki-ru-gu₂[composition-division]N sux:4-kam-ma[4th]NU
+c.2.2.2,The lament for Urim,,170,sux-x-emesal:uru₂[town]N sux:gul[to-destroy]V sux:me[essence]N sux:kur₂[to-be-different]V
+c.2.2.2,The lament for Urim,,171,sux:ŋiš-gi₄-ŋal₂[composition-division]N
+c.2.2.2,The lament for Urim,,172,sux:Enlil[1]DN sux:ud[storm]N sux:gu₃[voice]N sux:de₂[to-pour]V sux:uŋ₃[people]N sux:še[groan]N sux:ša₄[verb-part-of-multiword-verb]V
+c.2.2.2,The lament for Urim,,173,sux:ud[storm]N sux:he₂-ŋal₂[plenty]N sux:kalam[the-Land]N sux:kar[to-flee]V sux:uŋ₃[people]N sux:še[groan]N sux:ša₄[verb-part-of-multiword-verb]V
+c.2.2.2,The lament for Urim,,174,sux:ud[day(light)]N sux:dug₃[to-be-good]V sux:Sumer[1]GN sux:kar[to-flee]V sux:uŋ₃[people]N sux:še[groan]N sux:ša₄[verb-part-of-multiword-verb]V
+c.2.2.2,The lament for Urim,,175,sux:ud[storm]N sux:hul-ŋal₂[evil]AJ sux:a₂[arm]N sux:aŋ₂[to-measure]V sux:uŋ₃[people]N sux:še[groan]N sux:ša₄[verb-part-of-multiword-verb]V
+c.2.2.2,The lament for Urim,,176,sux:Kin-gal-uda[1]PN sux:ud[storm]N sux:gub[to-stand]V sux:šu[hand]N sux:šum₂[to-give]V
+c.2.2.2,The lament for Urim,,177,sux:ud[storm]N sux:kalam[the-Land]N sux:til[to-complete]V sux:gu₃[voice]N sux:de₂[to-pour]V sux:uŋ₃[people]N sux:še[groan]N sux:ša₄[verb-part-of-multiword-verb]V
+c.2.2.2,The lament for Urim,,178,sux:im-hul[destructive-storm]N sux:gu₃[voice]N sux:de₂[to-pour]V sux:uŋ₃[people]N sux:še[groan]N sux:ša₄[verb-part-of-multiword-verb]V
+c.2.2.2,The lament for Urim,,179,sux:Enlil[1]DN sux:Gibil[1]DN sux:a₂-tah[helper]N sux:kur₉[to-enter]V
+c.2.2.2,The lament for Urim,,180,sux:ud[storm]N sux:gal[to-be-big]V sux:an[heaven]N sux:gu₃[voice]N sux:de₂[to-pour]V sux:uŋ₃[people]N sux:še[groan]N sux:ša₄[verb-part-of-multiword-verb]V
+c.2.2.2,The lament for Urim,,181,sux:ud[storm]N sux:gal[to-be-big]V sux:an[heaven]N sux:gu₃[voice]N sux:dug₄[to-say]V sux:uŋ₃[people]N sux:še[groan]N sux:ša₄[verb-part-of-multiword-verb]V
+c.2.2.2,The lament for Urim,,182,sux:ud[storm]N sux:kalam[the-Land]N sux:til[to-complete]V sux:ki[place]N sux:mur[growl]N sux:ša₄[verb-part-of-multiword-verb]V sux:uŋ₃[people]N sux:še[groan]N sux:ša₄[verb-part-of-multiword-verb]V
+c.2.2.2,The lament for Urim,,183,sux:im-hul[destructive-storm]N sux:a[water]N sux:mah[to-be-majestic]V sux:e₃[to-go-out-or-in]V sux:gu₂[neck]N sux:ŋar[to-place]V
+c.2.2.2,The lament for Urim,,184,sux:tukul[weapon]N sux-x-emesal:uru₂[town]N sux:saŋ[head]N sux:gaz[to-strike-(dead)]V sux:ak[to-do]V sux:teš₂[unity]N sux:gu₇[to-eat]V
+c.2.2.2,The lament for Urim,,185,sux:an[heaven]N sux:ur₂[root]N sux:kana₆[gloom]N sux:niŋin₂[to-go-around]V sux:uŋ₃[people]N sux:še[groan]N sux:ša₄[verb-part-of-multiword-verb]V
+c.2.2.2,The lament for Urim,,186,sux:ud[storm]N sux:igi[eye]N sux:izi[fire]N sux:bar₇[to-burn]V sux:uŋ₃[people]N sux:še[groan]N sux:ša₄[verb-part-of-multiword-verb]V
+c.2.2.2,The lament for Urim,,187,sux:ud[storm]N sux:mir[to-rage]V sux:izi-ŋi₆-edin-na[atmospheric-phenomenon]N sux:bar[outside]N sux:tab₂[to-burn]V
+c.2.2.2,The lament for Urim,,188,sux:an-bar₇[midday]N sux:bar-šeŋ₃[mist]N sux:il₂[to-raise]V sux:izi[fire]N sux:bar₇[to-burn]V
+c.2.2.2,The lament for Urim,,189,sux:an-bar₇-gana₂[midday]N sux:ud[day(light)]N sux:zalag[to-be-shining]V sux:e₃[to-go-out-or-in]V sux:ud[storm]N sux:dug₃[to-be-good]V sux:tab[to-be-parallel]V
+c.2.2.2,The lament for Urim,,190,sux:kalam[the-Land]N sux:ud[day(light)]N sux:zalag[to-be-shining]V sux:e₃[to-go-out-or-in]V sux:mul[star]N sux:an-usan[evening]N sux:zal[to-pass]V
+c.2.2.2,The lament for Urim,,191,sux:ŋi₆[night]N sux:giri₁₇-zal[joy]N sux:a₂[(right)-time]N sux:sed₄[to-be-cold]V sux:ŋar[to-place]V sux:ulu₃[south-wind-(storm)]N sux:tab[to-be-parallel]V
+c.2.2.2,The lament for Urim,,192,sux:šika[(pot)sherd]N sux:bar₇[to-burn]V sux:sahar[earth]N sux:tab₂[to-burn]V sux:uŋ₃[people]N sux:še[groan]N sux:ša₄[verb-part-of-multiword-verb]V
+c.2.2.2,The lament for Urim,,193,sux:saŋ[head]N sux:gig₂[to-be-black]V sux:tum₉[wind]N sux:dal[to-fly]V sux:uŋ₃[people]N sux:še[groan]N sux:ša₄[verb-part-of-multiword-verb]V
+c.2.2.2,The lament for Urim,,194,sux:Sumer[1]GN sux:ŋiš-bur₂[snare]N sux:bal[to-turn-over]V sux:uŋ₃[people]N sux:še[groan]N sux:ša₄[verb-part-of-multiword-verb]V
+c.2.2.2,The lament for Urim,,195,sux:kalam[the-Land]N sux:saŋ[head]N sux:e₂-ŋar₈[wall]N sux:du₃[to-erect]V sux:ak[to-do]V sux:teš₂[unity]N sux:gu₇[to-eat]V
+c.2.2.2,The lament for Urim,,196,sux:ud[storm]N sux:gig[to-be-ill]V sux:er₂[tear]N sux:nam[destiny]N sux:tar[to-cut]V sux:uŋ₃[people]N sux:še[groan]N sux:ša₄[verb-part-of-multiword-verb]V
+c.2.2.2,The lament for Urim,,197,sux:ud[storm]N sux:šu[hand]N sux:ur₄[to-collect]V sux:kalam[the-Land]N sux:ur₃[to-drag]V
+c.2.2.2,The lament for Urim,,198,sux:ud[storm]N sux:a-ma-ru[flood]N sux-x-emesal:uru₂[town]N sux:gul[to-destroy]V
+c.2.2.2,The lament for Urim,,199,sux:ud[storm]N sux:kalam[the-Land]N sux:til[to-complete]V sux-x-emesal:uru₂[town]N sux:me[essence]N sux:ŋar[to-place]V
+c.2.2.2,The lament for Urim,,200,sux:ud[storm]N sux:niŋ₂[thing]N sux:u₂-gu[noun-part-of-multiword-verb]N sux:de₂[to-pour]V sux:hul-ŋal₂[evil]AJ sux:DU[DU]V
+c.2.2.2,The lament for Urim,,201,sux:ud[storm]N sux:izi[fire]N sux:bar₇[to-burn]V sux:uŋ₃[people]N sux:šu[hand]N sux:ŋar[to-place]V
+c.2.2.2,The lament for Urim,,202,sux:ud[storm]N sux:hul[to-be-bad]V sux:gig[to-be-ill]V sux:dug₄[to-say]V sux:Enlil[1]DN sux:ud[storm]N sux:kalam[the-Land]N sux:be₄[to-diminish]V
+c.2.2.2,The lament for Urim,,203,sux:Urim[1]SN sux:tug₂[garment]N sux:dul[to-cover-(together)]V sux:gada[linen-(fibre)]N sux:bur₂[to-release]V
+c.2.2.2,The lament for Urim,,204,sux:ki-ru-gu₂[composition-division]N sux:5-kam-ma[5th]NU
+c.2.2.2,The lament for Urim,,205,sux:ud[storm]N sux:ug[lion]N sux:du₇[to-push]V sux:uŋ₃[people]N sux:še[groan]N sux:ša₄[verb-part-of-multiword-verb]V
+c.2.2.2,The lament for Urim,,206,sux:ŋiš-gi₄-ŋal₂[composition-division]N
+c.2.2.2,The lament for Urim,,207,sux:ud[day(light)]N sux:ud[storm]N sux-x-emesal:uru₂[town]N sux:ŋar[to-place]V sux-x-emesal:uru₂[town]N sux:du₆[(ruin)-mound]N
+c.2.2.2,The lament for Urim,,208,sux:a-a[father]N sux:Nanna[1]DN sux-x-emesal:uru₂[town]N sux:du₆[(ruin)-mound]N sux:ŋar[to-place]V sux:uŋ₃[people]N sux:še[groan]N sux:ša₄[verb-part-of-multiword-verb]V
+c.2.2.2,The lament for Urim,,209,sux:ud[day(light)]N sux:ud[storm]N sux:kalam[the-Land]N sux:kar[to-flee]V sux:uŋ₃[people]N sux:še[groan]N sux:ša₄[verb-part-of-multiword-verb]V
+c.2.2.2,The lament for Urim,,209A,sux:ud[storm]N sux:dug₃[to-be-good]V sux:Sumer[1]GN sux:kar[to-flee]V sux:uŋ₃[people]N sux:še[groan]N sux:ša₄[verb-part-of-multiword-verb]V
+c.2.2.2,The lament for Urim,,210,sux:uŋ₃[people]N sux:šika[(pot)sherd]N sux:kud[to-cut]V sux:me[to-be]V sux:bar[outside]N sux:si[to-fill]V
+c.2.2.2,The lament for Urim,,211,sux:bad₃[wall]N sux:gu₂-ŋiri₃[breach]N sux:ŋar[to-place]V sux:uŋ₃[people]N sux:še[groan]N sux:ša₄[verb-part-of-multiword-verb]V
+c.2.2.2,The lament for Urim,,212,sux:abula[(city)-gate]N sux:mah[to-be-majestic]V sux:ŋiri₃[foot]N sux:ŋal₂[to-be-(located)]V sux:ad₆[corpse]N sux:ŋar[to-place]V
+c.2.2.2,The lament for Urim,,213,sux:sila[street]N sux:daŋal[to-be-wide]V sux:ezen[festival]N sux:du₃[to-erect]V sux:saŋ[head]N sux:bal[to-turn-over]V sux:ŋar[to-place]V
+c.2.2.2,The lament for Urim,,214,sux:e-sir₂[street]N sux:ŋiri₃[foot]N sux:ŋal₂[to-be-(located)]V sux:ad₆[corpse]N sux:ŋar[to-place]V
+c.2.2.2,The lament for Urim,,215,sux:ešemen[skip-rope-(game)]N sux:kalam[the-Land]N sux:ŋal₂[to-be-(located)]V sux:uŋ₃[people]N sux:zar[sheaf]N sux:du₈[to-spread]V
+c.2.2.2,The lament for Urim,,216,sux:u₃-mun[blood]N sux:kalam[the-Land]N sux:urud[copper]N sux:nagga[tin]N sux:sur₃[ditch]N sux:de₆[to-carry]V
+c.2.2.2,The lament for Urim,,217,sux:ad₆[corpse]N sux:i₃-udu[(sheep)-fat]N sux:ud[day(light)]N sux:ŋal₂[to-be-(located)]V sux:ni₂-bi[itself;-themselves]PD sux:zal[to-pass]V
+c.2.2.2,The lament for Urim,,218,sux:lu₂[person]N sux:ha-zi-in[type-of-axe]N sux:til[to-complete]V sux:saŋ[head]N sux:tug₂[garment]N sux:dul[to-cover-(together)]V
+c.2.2.2,The lament for Urim,,219,sux:maš-da₃[gazelle]N sux:ŋiš-bur₂[snare]N sux:dab₅[to-seize]V sux:ka[mouth]N sux:sahar[earth]N sux:us₂[to-be-adjacent]V
+c.2.2.2,The lament for Urim,,220,sux:lu₂[person]N sux:ŋiš-gid₂-da[type-of-spear?]N sux:ra[to-beat]V sux:niŋ₂-la₂[binding]N sux:la₂[to-hang]V
+c.2.2.2,The lament for Urim,,221,sux:i-gi₄-in-zu[as-it-were]AV sux:ki[place]N sux:ha-ri-iš-ta[woman-in-childbirth]N sux:ama[mother]N sux:uš₂[gore]N sux:nu₂[to-lie-down]V
+c.2.2.2,The lament for Urim,,222,sux:lu₂[person]N sux:mitum[type-of-weapon]N sux:til[to-complete]V sux:tug₂[garment]N sux:gibil[to-be-new]V sux:la₂[to-hang]V
+c.2.2.2,The lament for Urim,,223,sux:lu₂[person]N sux:kurun[type-of-beer]N sux:naŋ[to-drink]V sux:dug₄[to-say]V sux:gu₃[voice]N sux:zag[side]N sux:ŋal₂[to-be-(located)]V
+c.2.2.2,The lament for Urim,,224,sux:tukul[weapon]N sux:gub[to-stand]V sux:tukul[weapon]N sux:gaz[to-strike-(dead)]V sux:uŋ₃[people]N sux:še[groan]N sux:ša₄[verb-part-of-multiword-verb]V
+c.2.2.2,The lament for Urim,,225,sux:lu₂-kar-ra[fugitive]N sux:ud[storm]N sux:du-bu-ul[to-stir?]V sux:uŋ₃[people]N sux:še[groan]N sux:ša₄[verb-part-of-multiword-verb]V
+c.2.2.2,The lament for Urim,,226,sux:Urim[1]SN sux:sig[to-be-low]V sux:kalag[to-be-strong]V sux:šag₄-ŋar[hunger]N sux:til[to-complete]V
+c.2.2.2,The lament for Urim,,227,sux:um-ma[experienced-woman]N sux:ab-ba[father]N sux:e₂[house(hold)]N sux:e₃[to-go-out-or-in]V sux:izi[fire]N sux:sig₁₀[to-place]V
+c.2.2.2,The lament for Urim,,228,sux:di₄-di₄[to-be-small]V sux:ur₂[root]N sux:ama[mother]N sux:nu₂[to-lie-down]V sux:ku₆[fish]N sux:a[water]N sux:de₆[to-carry]V
+c.2.2.2,The lament for Urim,,229,sux:emeda[nursemaid]N sux:lirum[clutching]N sux:kalag[to-be-strong]V sux:lirum[clutching]N sux:du₈[to-spread]V
+c.2.2.2,The lament for Urim,,230,sux:dim₂-ma[reasoning]N sux:kalam[the-Land]N sux:u₂-gu[noun-part-of-multiword-verb]N sux:de₂[to-pour]V sux:uŋ₃[people]N sux:še[groan]N sux:ša₄[verb-part-of-multiword-verb]V
+c.2.2.2,The lament for Urim,,231,sux:ŋalga[reason]N sux:kalam[the-Land]N sux:sug[marsh]N sux:gu₇[to-eat]V sux:uŋ₃[people]N sux:še[groan]N sux:ša₄[verb-part-of-multiword-verb]V
+c.2.2.2,The lament for Urim,,232,sux:ama[mother]N sux:dumu[child]N sux:igi[eye]N sux:e₃[to-go-out-or-in]V sux:uŋ₃[people]N sux:še[groan]N sux:ša₄[verb-part-of-multiword-verb]V
+c.2.2.2,The lament for Urim,,233,sux:ad-da[father]N sux:dumu[child]N sux:kur₂[to-be-different]V sux:uŋ₃[people]N sux:še[groan]N sux:ša₄[verb-part-of-multiword-verb]V
+c.2.2.2,The lament for Urim,,234,sux-x-emesal:uru₂[town]N sux:dam[spouse]N sux:šub[to-fall]V sux:dumu[child]N sux:šub[to-fall]V sux:niŋ₂-gur₁₁[possessions]N sux:bir[to-scatter]V
+c.2.2.2,The lament for Urim,,235,sux:saŋ[head]N sux:gig₂[to-be-black]V sux:ki-saŋ-ŋal₂-la[stronghold]N sux:ŋen[to-go]V
+c.2.2.2,The lament for Urim,,236,sux:nin[lady]N sux:mušen[bird]N sux:ni₂[fear(someness)]N sux:te[to-approach]V sux-x-emesal:uru₂[town]N sux:e₃[to-go-out-or-in]V
+c.2.2.2,The lament for Urim,,237,sux:Ningal[1]DN sux:mušen[bird]N sux:ni₂[fear(someness)]N sux:te[to-approach]V sux-x-emesal:uru₂[town]N sux:e₃[to-go-out-or-in]V
+c.2.2.2,The lament for Urim,,238,sux:niŋ₂-gur₁₁[possessions]N sux:kalam[the-Land]N sux:ŋar[to-place]V sux:šu[hand]N sux:pe-el[to-defile]V sux:dug₄[to-say]V
+c.2.2.2,The lament for Urim,,239,sux:e₂-mi₂[woman's-estate]N sux:kalam[the-Land]N sux:šar₂[to-be-numerous]V sux:izi[fire]N sux:bar₇[to-burn]V
+c.2.2.2,The lament for Urim,,240,sux:a-niŋin₂[water-reservoir]N sux:Gibil[1]DN sux:lu₂[person]N sux:sikil[to-be-pure]V sux:kiŋ₂[work]N sux:tuku[to-have]V
+c.2.2.2,The lament for Urim,,241,sux:hur-saŋ[mountain-(range)]N sux:sukud[to-be-high]V sux:šu[hand]N sux:te[to-approach]V sux:E-kiš-nu-ŋal[1]TN
+c.2.2.2,The lament for Urim,,242,sux:e₂[house(hold)]N sux:zid[right]AJ sux:ha-zi-in[type-of-axe]N sux:gal[to-be-big]V sux:teš₂[unity]N sux:gu₇[to-eat]V
+c.2.2.2,The lament for Urim,,243,sux:Šimaški[1]GN sux:Elam[1]GN sux:lu₂[person]N sux:ha-lam[to-be-lost]V sux:30[30]NU sux:giŋ₄[weight-measure]N sux:ak[to-do]V
+c.2.2.2,The lament for Urim,,244,sux:e₂[house(hold)]N sux:zid[right]AJ sux:al[hoe]N sux:bal[to-turn-over]V
+c.2.2.2,The lament for Urim,,245,sux-x-emesal:uru₂[town]N sux:du₆[(ruin)-mound]N sux:ŋar[to-place]V
+c.2.2.2,The lament for Urim,,246,sux:nin[lady]N sux:a[soothing-expression]I sux-x-emesal:uru₂[town]N sux:dug₄[to-say]V sux:a[soothing-expression]I sux:e₂[house(hold)]N sux:dug₄[to-say]V
+c.2.2.2,The lament for Urim,,247,sux:Ningal[1]DN sux:a[soothing-expression]I sux-x-emesal:uru₂[town]N sux:dug₄[to-say]V sux:a[soothing-expression]I sux:e₂[house(hold)]N sux:dug₄[to-say]V
+c.2.2.2,The lament for Urim,,248,sux:lu₂[person]N sux-x-emesal:nu-nus[woman]N sux:u₈[soothing-expression]I sux-x-emesal:uru₂[town]N sux:gul[to-destroy]V sux:u₈[soothing-expression]I sux:e₂[house(hold)]N sux:gul[to-destroy]V
+c.2.2.2,The lament for Urim,,249,sux:Nanna[1]DN sux:eš₃[shrine]N sux:Urim[1]SN sux:gul[to-destroy]V sux-x-emesal:mu-lu[person]N sux:uš₂[to-die]V
+c.2.2.2,The lament for Urim,,250,sux:ki-ru-gu₂[composition-division]N sux:6-kam-ma[6th]NU
+c.2.2.2,The lament for Urim,,251,sux:tur₃[animal-stall]N sux:amaš[sheepfold]N sux-x-emesal:nu-nus[woman]N sux:inim[word]N sux:gig[to-be-ill]V sux:dug₄[to-say]V
+c.2.2.2,The lament for Urim,,252,sux-x-emesal:uru₂[town]N sux:ud[storm]N sux:gul[to-destroy]V
+c.2.2.2,The lament for Urim,,253,sux:ŋiš-gi₄-ŋal₂[composition-division]N
+c.2.2.2,The lament for Urim,,254,sux:ama[mother]N sux:Ningal[1]DN sux-x-emesal:uru₂[town]N sux:lu₂-erim₂[enemy]N sux:bar[outside]N sux:gub[to-stand]V
+c.2.2.2,The lament for Urim,,255,sux:lu₂[person]N sux-x-emesal:nu-nus[woman]N sux:er₂[tear]N sux:e₂[house(hold)]N sux:hul[to-be-bad]V sux:gig[to-be-ill]V sux:dug₄[to-say]V
+c.2.2.2,The lament for Urim,,256,sux:egir₂[princess]N sux:eš₃[shrine]N sux:Urim[1]SN sux:hul[to-be-bad]V sux:gig[to-be-ill]V sux:dug₄[to-say]V
+c.2.2.2,The lament for Urim,,257,sux:An[1]DN sux-x-emesal:uru₂[town]N sux-x-emesal:na-aŋ₂[destiny]N sux:kud[to-cut]V sux-x-emesal:uru₂[town]N sux:gul[to-destroy]V
+c.2.2.2,The lament for Urim,,258,sux-x-emesal:Enlil[1]DN sux:e₂[house(hold)]N sux:šu[hand]N sux:bal[to-turn-over]V sux:al[hoe]N sux:ra[to-beat]V
+c.2.2.2,The lament for Urim,,259,sux:sig[to-be-low]V sux-x-emesal:di[to-go]V sux:izi[fire]N sux:šub[to-fall]V sux:a[soothing-expression]I sux-x-emesal:uru₂[town]N sux:gul[to-destroy]V
+c.2.2.2,The lament for Urim,,260,sux-x-emesal:Enlil[1]DN sux-x-emesal:i-bi₂[eye]N sux:nim[upper-(land)]N sux-x-emesal:di[to-go]V sux:u₃-bu-bu-ul[flame]N sux:šub[to-fall]V
+c.2.2.2,The lament for Urim,,261,sux-x-emesal:uru₂[town]N sux:bar[outside]N sux-x-emesal:uru₂[town]N sux:bar[outside]N sux:gul[to-destroy]V sux:a[soothing-expression]I sux-x-emesal:uru₂[town]N sux:dug₄[to-say]V
+c.2.2.2,The lament for Urim,,262,sux-x-emesal:uru₂[town]N sux:šag₄[heart]N sux-x-emesal:uru₂[town]N sux-x-emesal:ša₃-ab[heart]N sux:gul[to-destroy]V sux:a[soothing-expression]I sux-x-emesal:uru₂[town]N sux:dug₄[to-say]V
+c.2.2.2,The lament for Urim,,263,sux:e₂[house(hold)]N sux-x-emesal:uru₂[town]N sux:bar[outside]N sux:gul[to-destroy]V sux:a[soothing-expression]I sux:e₂[house(hold)]N sux:dug₄[to-say]V
+c.2.2.2,The lament for Urim,,264,sux:e₂[house(hold)]N sux-x-emesal:uru₂[town]N sux-x-emesal:ša₃-ab[heart]N sux:gul[to-destroy]V sux:a[soothing-expression]I sux:e₂[house(hold)]N sux:dug₄[to-say]V
+c.2.2.2,The lament for Urim,,265,sux-x-emesal:uru₂[town]N sux:u₈[ewe]N sux:zid[right]AJ sux:lu[to-be-abundant]V sux:sipad[shepherd]N sux:zid[right]AJ sux:ŋen[to-go]V
+c.2.2.2,The lament for Urim,,266,sux:Urim[1]SN sux:u₈[ewe]N sux:zid[right]AJ sux:lu[to-be-abundant]V sux:kabar[junior-shepherd]N sux:ŋen[to-go]V
+c.2.2.2,The lament for Urim,,267,sux:gud[bull]N sux:tur₃[animal-stall]N sux:šub[to-fall]V sux-x-emesal:mu-lu[person]N sux:ŋen[to-go]V
+c.2.2.2,The lament for Urim,,268,sux-x-emesal:e-ze₂[sheep]N sux:amaš[sheepfold]N sux:šub[to-fall]V sux:na-gada[herdsman]N sux:ŋen[to-go]V
+c.2.2.2,The lament for Urim,,269,sux:id₂[watercourse]N sux-x-emesal:uru₂[town]N sux:sahar[earth]N sux:niŋin₂[to-go-around]V sux:e₂[house(hold)]N sux:ka₅-a[fox]N sux:du₃[to-erect]V
+c.2.2.2,The lament for Urim,,270,sux:šag₄[heart]N sux:a[water]N sux:zal[to-pass]V sux:de₆[to-carry]V sux-x-emesal:mu-un-kud[fisheries-inspector]N sux:ŋen[to-go]V
+c.2.2.2,The lament for Urim,,271,sux:gana₂[field]N sux-x-emesal:uru₂[town]N sux:še[barley]N sux-x-emesal:ma-al[to-be-(located)]V sux-x-emesal:mu-un-gar₃[farmer]N sux:ŋen[to-go]V
+c.2.2.2,The lament for Urim,,272,sux:gana₂[field]N sux:gana₂[field]N sux:al[hoe]N sux:ri[to-direct]V sux:mul-gana₂[type-of-plant]N sux:bil₂[to-be-hot]V sux:mu₂[to-grow]V
+c.2.2.2,The lament for Urim,,273,sux:pu₂-kiri₆[orchard]N sux:lal₃[syrup]N sux:gurun[fruit]N sux:dirig[to-be-superior]V sux:kiši₁₆[acacia]N sux:kur[(mountain)-land]N sux:mu₂[to-grow]V
+c.2.2.2,The lament for Urim,,274,sux:edin[open-country]N sux:giri₁₇-zal[joy]N sux:du₃[to-erect]V sux:gir₄[oven]N sux:hur[to-scratch]V
+c.2.2.2,The lament for Urim,,275,sux-x-emesal:mu-un-gur₁₁[possessions]N sux:buru₄-dugud[flock-of-crows]N sux:zig₃[to-rise]V sux:dal[to-fly]V sux:zig₃[to-rise]V sux-x-emesal:mu-un-gur₁₁[possessions]N sux:dug₄[to-say]V
+c.2.2.2,The lament for Urim,,276,sux-x-emesal:mu-un-gur₁₁[possessions]N sux:sig[to-be-low]V sux-x-emesal:di[to-go]V sux:sig[to-be-low]V sux-x-emesal:ir[to-carry]V sux-x-emesal:mu-un-gur₁₁[possessions]N sux:dug₄[to-say]V
+c.2.2.2,The lament for Urim,,277,sux-x-emesal:mu-un-gur₁₁[possessions]N sux-x-emesal:i-bi₂[eye]N sux:nim[upper-(land)]N sux-x-emesal:di[to-go]V sux-x-emesal:i-bi₂[eye]N sux:nim[upper-(land)]N sux-x-emesal:ir[to-carry]V sux-x-emesal:mu-un-gur₁₁[possessions]N sux:dug₄[to-say]V
+c.2.2.2,The lament for Urim,,278,sux:kug[precious-metal]N sux:za[stone]N sux:za-gin₃[lapis-lazuli]N sux:bir[to-scatter]V sux-x-emesal:mu-un-gur₁₁[possessions]N sux:dug₄[to-say]V
+c.2.2.2,The lament for Urim,,279,sux:gi₁₆-sa[(everlasting)-treasure]N sux:sug[marsh]N sux:gu₇[to-eat]V sux-x-emesal:mu-un-gur₁₁[possessions]N sux:dug₄[to-say]V
+c.2.2.2,The lament for Urim,,280,sux:kug[precious-metal]N sux:lu₂[person]N sux:kug[precious-metal]N sux:zu[to-know]V sux:šu[hand]N sux:si[to-fill]V
+c.2.2.2,The lament for Urim,,281,sux:za[stone]N sux:lu₂[person]N sux:za[stone]N sux:zu[to-know]V sux:gu₂[neck]N sux:si[to-fill]V
+c.2.2.2,The lament for Urim,,282,sux:buru₅[sparrow?]N sux:mušen[bird]N sux:dal[to-fly]V sux:a[soothing-expression]I sux-x-emesal:uru₂[town]N sux:dug₄[to-say]V
+c.2.2.2,The lament for Urim,,283,sux-x-emesal:gi₄-in[female-slave]N sux-x-emesal:du₅-mu[child]N sux:ma₂[boat]N sux:de₆[to-carry]V sux:a[soothing-expression]I sux-x-emesal:uru₂[town]N sux:dug₄[to-say]V
+c.2.2.2,The lament for Urim,,284,sux:me-li-e-a[expression-of-sorrow]I sux-x-emesal:gi₄-in[female-slave]N sux-x-emesal:uru₂[town]N sux:kur₂[to-be-different]V sux-x-emesal:šu-še-er[(divine)-standard]N sux:kur₂[to-be-different]V sux:dab₅[to-seize]V
+c.2.2.2,The lament for Urim,,285,sux:šul[young-man]N sux:edin[open-country]N sux:ki[place]N sux:zu[to-know]V sux:tug₂-mu-dur₇-ra[dirty-textile]N sux:ak[to-do]V
+c.2.2.2,The lament for Urim,,286,sux:me-li-e-a[expression-of-sorrow]I sux-x-emesal:uru₂[town]N sux:me[to-be]V sux-x-emesal:me[I]PD sux-x-emesal:ga-ša-an[lady]N sux-x-emesal:ŋen[to-be]V
+c.2.2.2,The lament for Urim,,287,sux:Nanna[1]DN sux:Urim[1]SN sux:me[to-be]V sux-x-emesal:me[I]PD sux:lu₂[person]N sux-x-emesal:ŋen[to-be]V
+c.2.2.2,The lament for Urim,,288,sux:ar₂-mur[ruin-(mound)]N sux:e₂[house(hold)]N sux:du₃[to-erect]V sux-x-emesal:uru₂[town]N sux:gul[to-destroy]V
+c.2.2.2,The lament for Urim,,289,sux-x-emesal:nu-nus[woman]N sux:zid[right]AJ sux-x-emesal:uru₂[town]N sux-x-emesal:uru₂[town]N sux:kur₂[to-be-different]V sux:du₃[to-erect]V
+c.2.2.2,The lament for Urim,,290,sux:ar₂-mur[ruin-(mound)]N sux-x-emesal:uru₂[town]N sux:du₃[to-erect]V sux:e₂[house(hold)]N sux:gul[to-destroy]V
+c.2.2.2,The lament for Urim,,291,sux-x-emesal:Ningal[1]DN sux-x-emesal:uru₂[town]N sux:e₂[house(hold)]N sux:kur₂[to-be-different]V sux:du₃[to-erect]V
+c.2.2.2,The lament for Urim,,292,sux:me-li-e-a[expression-of-sorrow]I sux-x-emesal:uru₂[town]N sux:gul[to-destroy]V sux:u₃[and]C sux:e₂[house(hold)]N sux:gul[to-destroy]V
+c.2.2.2,The lament for Urim,,293,sux:Nanna[1]DN sux:eš₃[shrine]N sux:Urim[1]SN sux:gul[to-destroy]V sux-x-emesal:mu-lu[person]N sux:uš₂[to-die]V
+c.2.2.2,The lament for Urim,,294,sux:me-li-e-a[expression-of-sorrow]I sux:me-a[where]AV sux:tuš[to-sit]V sux:me-a[where]AV sux:gub[to-stand]V
+c.2.2.2,The lament for Urim,,295,sux:me-li-e-a[expression-of-sorrow]I sux-x-emesal:uru₂[town]N sux:e₂[house(hold)]N sux:kur₂[to-be-different]V sux:du₃[to-erect]V
+c.2.2.2,The lament for Urim,,296,sux-x-emesal:nu-nus[woman]N sux:zid[right]AJ sux:e₂[house(hold)]N sux-x-emesal:uru₂[town]N sux:kur₂[to-be-different]V sux:ŋar[to-place]V
+c.2.2.2,The lament for Urim,,297,sux:ki[place]N sux:edin[open-country]N sux:bad[to-open]V sux:a[soothing-expression]I sux-x-emesal:mu-lu[person]N sux:dug₄[to-say]V
+c.2.2.2,The lament for Urim,,298,sux-x-emesal:uru₂[town]N sux:Urim[1]SN sux:bad[to-open]V sux:a[soothing-expression]I sux-x-emesal:uru₂[town]N sux:dug₄[to-say]V
+c.2.2.2,The lament for Urim,,299,sux:lu₂[person]N sux:siki[hair]N sux:numun₂-bur[rush]N sux:šu[hand]N sux:dub₂[to-tremble]V
+c.2.2.2,The lament for Urim,,300,sux:gaba[chest]N sux:ub₃[type-of-drum]N sux:kug[shining]AJ sux:sag₃[to-beat]V sux:a[soothing-expression]I sux-x-emesal:uru₂[town]N sux:dug₄[to-say]V
+c.2.2.2,The lament for Urim,,301,sux:igi[eye]N sux:er₂[tear]N sux:zig₃[to-rise]V sux:er₂[tear]N sux:gig[to-be-ill]V sux:šeš₂[to-weep]V
+c.2.2.2,The lament for Urim,,302,sux:me-li-e-a[expression-of-sorrow]I sux-x-emesal:uru₂[town]N sux:me[to-be]V sux-x-emesal:me[I]PD sux-x-emesal:ga-ša-an[lady]N sux-x-emesal:ŋen[to-be]V
+c.2.2.2,The lament for Urim,,303,sux:Nanna[1]DN sux:eš₃[shrine]N sux:Urim[1]SN sux:me[to-be]V sux-x-emesal:me[I]PD sux-x-emesal:mu-lu[person]N sux-x-emesal:ŋen[to-be]V
+c.2.2.2,The lament for Urim,,304,sux:me-li-e-a[expression-of-sorrow]I sux:tur₃[animal-stall]N sux:bur₁₂[to-tear-out]V sux:ab₂[cow]N sux:sag₂[to-scatter]V sux:dug₄[to-say]V
+c.2.2.2,The lament for Urim,,305,sux-x-emesal:Ningal[1]DN sux:na-gada[herdsman]N sux:pe-el[to-defile]V sux:tukul[weapon]N sux:ganam₄[ewe]N sux:šub[to-fall]V
+c.2.2.2,The lament for Urim,,306,sux:me-li-e-a[expression-of-sorrow]I sux-x-emesal:uru₂[town]N sux:e₃[to-go-out-or-in]V sux:ni₂[self]N sux:dub₂[to-tremble]V
+c.2.2.2,The lament for Urim,,307,sux-x-emesal:Ningal[1]DN sux:e₂[house(hold)]N sux:e₃[to-go-out-or-in]V sux:ki-tuš[dwelling-place]N sux:pad₃[to-find]V
+c.2.2.2,The lament for Urim,,308,sux:i-gi₄-in-zu[as-it-were]AV sux:gir₅[foreigner]N sux-x-emesal:uru₂[town]N sux:kur₂[to-be-different]V sux:saŋ[head]N sux:il₂[to-raise]V sux:tuš[to-sit]V
+c.2.2.2,The lament for Urim,,309,sux:e₂[house(hold)]N sux:ur₅[financial-obligation]N sux-x-emesal:aŋ₂-gig[abomination]N sux:saŋ[head]N sux:tuš[to-sit]V sux:us₂[to-be-adjacent]V
+c.2.2.2,The lament for Urim,,310,sux:e₂[house(hold)]N sux:ur₅[financial-obligation]N sux-x-emesal:mu-lu[person]N sux:tuš[to-sit]V sux:tuš[to-sit]V sux:gu₃[voice]N sux-x-emesal:e-ne-eŋ₃[word]N sux:dirig[to-be-superior]V
+c.2.2.2,The lament for Urim,,311,sux:ki[place]N sux:nam[destiny]N sux-x-emesal:uru₂[town]N sux:te[to-approach]V sux:er₂[tear]N sux:gig[to-be-ill]V sux:šeš₂[to-weep]V
+c.2.2.2,The lament for Urim,,312,sux:nin[lady]N sux:nam[destiny]N sux:e₂[house(hold)]N sux:te[to-approach]V sux:er₂[tear]N sux:gig[to-be-ill]V sux:šeš₂[to-weep]V
+c.2.2.2,The lament for Urim,,313,sux:nam[destiny]N sux:e₂[house(hold)]N sux:hul[to-be-bad]V sux:te[to-approach]V sux:er₂[tear]N sux:gig[to-be-ill]V sux:šeš₂[to-weep]V
+c.2.2.2,The lament for Urim,,314,sux:nam[destiny]N sux-x-emesal:uru₂[town]N sux:hul[to-be-bad]V sux:te[to-approach]V sux:er₂[tear]N sux:gig[to-be-ill]V sux:šeš₂[to-weep]V
+c.2.2.2,The lament for Urim,,315,sux:me-li-e-a[expression-of-sorrow]I sux-x-emesal:na-aŋ₂[destiny]N sux-x-emesal:uru₂[town]N sux:dug₄[to-say]V sux-x-emesal:na-aŋ₂[destiny]N sux-x-emesal:uru₂[town]N sux:gig[to-be-ill]V
+c.2.2.2,The lament for Urim,,316,sux:nin[lady]N sux:e₂[house(hold)]N sux:gul[to-destroy]V sux:dug₄[to-say]V sux-x-emesal:na-aŋ₂[destiny]N sux:e₂[house(hold)]N sux:gig[to-be-ill]V
+c.2.2.2,The lament for Urim,,317,sux-x-emesal:še-eb[brick(work)]N sux:Urim[1]SN sux:a[water]N sux:dug₄[to-say]V sux:a[water]N sux:gi₄[to-return]V
+c.2.2.2,The lament for Urim,,318,sux:e₂[house(hold)]N sux:zid[right]AJ sux-x-emesal:uru₂[town]N sux:du₆[(ruin)-mound]N sux-x-emesal:mar[to-place]V
+c.2.2.2,The lament for Urim,,319,sux:bur₂[to-release]V sux:e₂[house(hold)]N sux:zid[right]AJ sux:gul[to-destroy]V sux:nu₂[to-lie-down]V
+c.2.2.2,The lament for Urim,,320,sux:gud[bull]N sux:šub[to-fall]V sux:ŋar[to-place]V sux:zig₃[to-rise]V
+c.2.2.2,The lament for Urim,,321,sux:me-li-e-a[expression-of-sorrow]I sux:du₃[to-erect]V sux:lul[to-be-false]V sux:gul[to-destroy]V sux:gig[to-be-ill]V
+c.2.2.2,The lament for Urim,,322,sux-x-emesal:nu-nus[woman]N sux:eš₃[shrine]N sux:Urim[1]SN sux:nidba[(food)-offering]N sux:kur₂[to-be-different]V
+c.2.2.2,The lament for Urim,,323,sux:Agrun-kug[1]TN sux:e₂[house(hold)]N sux:gibil[to-be-new]V sux:la[plenty]N sux:gi₄[to-return]V
+c.2.2.2,The lament for Urim,,324,sux-x-emesal:uru₂[town]N sux:du₃[to-erect]V sux-x-emesal:mar[to-place]V sux-x-emesal:ta-aš[why]AV sux:hul[to-be-bad]V
+c.2.2.2,The lament for Urim,,325,sux:gul[to-destroy]V sux:hul[to-be-bad]V sux-x-emesal:ta-aš[why]AV sux:hul[to-be-bad]V
+c.2.2.2,The lament for Urim,,326,sux:a-da-al[now]AV sux:ud[storm]N sux:hul[to-be-bad]V sux:gig[to-be-ill]V sux:dug₄[to-say]V sux:a₂[arm]N sux:e₃[to-go-out-or-in]V
+c.2.2.2,The lament for Urim,,327,sux:Urim[1]SN sux:e₂[house(hold)]N sux:Suen[1]DN sux:gul[to-destroy]V sux:gig[to-be-ill]V
+c.2.2.2,The lament for Urim,,328,sux:ki-ru-gu₂[composition-division]N sux:7-kam-ma[7th]NU
+c.2.2.2,The lament for Urim,,329,sux:a[soothing-expression]I sux-x-emesal:uru₂[town]N sux:a[soothing-expression]I sux:e₂[house(hold)]N
+c.2.2.2,The lament for Urim,,330,sux:ŋiš-gi₄-ŋal₂[composition-division]N
+c.2.2.2,The lament for Urim,,331,sux:nin[lady]N sux:šag₄[heart]N sux:a-gin₇[type-of-manner-adverbial]AV sux:du₃[to-erect]V sux:za[you-(sg.)]PD sux:a-gin₇[type-of-manner-adverbial]AV sux:til₃[to-live]V
+c.2.2.2,The lament for Urim,,332,sux:Ningal[1]DN sux:šag₄[heart]N sux:a-gin₇[type-of-manner-adverbial]AV sux:du₃[to-erect]V sux:za[you-(sg.)]PD sux:a-gin₇[type-of-manner-adverbial]AV sux:til₃[to-live]V
+c.2.2.2,The lament for Urim,,333,sux:munus[woman]N sux:zid[right]AJ sux:lu₂[person]N sux-x-emesal:uru₂[town]N sux:gul[to-destroy]V sux:i₃-ne-eš₂-gin₇[how]AV sux:mu₂[to-grow]V
+c.2.2.2,The lament for Urim,,334,sux:Ningal[1]DN sux:lu₂[person]N sux:kalam[the-Land]N sux:til[to-complete]V sux:šag₄[heart]N sux:a-gin₇[type-of-manner-adverbial]AV sux:du₃[to-erect]V
+c.2.2.2,The lament for Urim,,335,sux:ud[storm]N sux-x-emesal:uru₂[town]N sux:gul[to-destroy]V sux:i₃-ne-eš₂-gin₇[how]AV sux:mu₂[to-grow]V
+c.2.2.2,The lament for Urim,,336,sux:ud[day(light)]N sux:e₂[house(hold)]N sux:gul[to-destroy]V sux:šag₄[heart]N sux:a-gin₇[type-of-manner-adverbial]AV sux:du₃[to-erect]V
+c.2.2.2,The lament for Urim,,337,sux-x-emesal:uru₂[town]N sux-x-emesal:uru₂[town]N sux:kur₂[to-be-different]V sux:ŋar[to-place]V sux:i₃-ne-eš₂-gin₇[how]AV sux:mu₂[to-grow]V
+c.2.2.2,The lament for Urim,,338,sux:e₂[house(hold)]N sux:er₂[tear]N sux:ŋar[to-place]V sux:šag₄[heart]N sux:a-gin₇[type-of-manner-adverbial]AV sux:du₃[to-erect]V
+c.2.2.2,The lament for Urim,,339,sux-x-emesal:uru₂[town]N sux:du₆[(ruin)-mound]N sux:ŋar[to-place]V sux:mušen[bird]N sux-x-emesal:ŋen[to-be]V
+c.2.2.2,The lament for Urim,,340,sux:e₂[house(hold)]N sux:zid[right]AJ sux:al[hoe]N sux:ŋar[to-place]V sux:tuš[to-sit]V sux:tuš[to-sit]V
+c.2.2.2,The lament for Urim,,341,sux:uŋ₃[people]N sux:ki-lul-la[place-of-iniquity]N sux:ŋen[to-go]V sux:nin[lady]N sux:kur₉[to-enter]V
+c.2.2.2,The lament for Urim,,342,sux:er₂[tear]N sux:er₂[tear]N sux:kur₂[to-be-different]V sux:ŋar[to-place]V sux-x-emesal:ka-na-aŋ₂[the-Land]N sux:šeš₂[to-weep]V
+c.2.2.2,The lament for Urim,,343,sux:er₂-šag₄-ne-ša₄[type-of-composition]N sux:tuku[to-have]V sux:kur[(mountain)-land]N sux:tuš[to-sit]V
+c.2.2.2,The lament for Urim,,344,sux:kalam[the-Land]N sux:niŋ₂[thing]N sux:dirig[to-be-superior]V sux:gu₃[voice]N sux:šu[hand]N sux:dab₅[to-seize]V
+c.2.2.2,The lament for Urim,,345,sux-x-emesal:uru₂[town]N sux:du₆[(ruin)-mound]N sux:ŋar[to-place]V sux:i₃-ne-eš₂-gin₇[how]AV sux:mu₂[to-grow]V
+c.2.2.2,The lament for Urim,,346,sux:e₂[house(hold)]N sux:šag₄-sug₄[emptiness]N sux:du₃[to-erect]V sux:šag₄[heart]N sux:a-gin₇[type-of-manner-adverbial]AV sux:du₃[to-erect]V
+c.2.2.2,The lament for Urim,,347,sux:Urim[1]SN sux:eš₃[shrine]N sux:lil₂[ghost]N sux:ŋar[to-place]V sux:i₃-ne-eš₂-gin₇[how]AV sux:mu₂[to-grow]V
+c.2.2.2,The lament for Urim,,348,sux:gudug[type-of-priest]N sux:hi-li[attractiveness]N sux:ŋen[to-go]V sux:šag₄[heart]N sux:a-gin₇[type-of-manner-adverbial]AV sux:du₃[to-erect]V
+c.2.2.2,The lament for Urim,,349,sux:en[high-priest(ess)]N sux:ŋi₆-par₄[cloister]N sux:til[to-complete]V sux:i₃-ne-eš₂-gin₇[how]AV sux:mu₂[to-grow]V
+c.2.2.2,The lament for Urim,,350,sux:uz-ga[type-of-shrine]N sux:lu₂[person]N sux:šu-luh[ritual-cleansing]N sux:ki[place]N sux:aŋ₂[to-measure]V sux:šu-luh[ritual-cleansing]N sux:ŋar[to-place]V
+c.2.2.2,The lament for Urim,,351,sux:a-a[father]N sux:Nanna[1]DN sux:išib[type-of-priest]N sux:šita[supplication]N sux:kug[shining]AJ sux:šu[hand]N sux:du₇[to-be-perfect]V
+c.2.2.2,The lament for Urim,,352,sux:lu₂-mah[type-of-priest]N sux:gi-gun₄-na[temple-terrace]N sux:kug[shining]AJ sux:šag₄[heart]N sux:gada[linen-(fibre)]N sux:la₂[to-hang]V
+c.2.2.2,The lament for Urim,,353,sux:en[lord]N sux:zid[right]AJ sux:šag₄[heart]N sux:hi-li[attractiveness]N sux:pad₃[to-find]V sux:E-kiš-nu-ŋal[1]TN
+c.2.2.2,The lament for Urim,,354,sux:eš₃[shrine]N sux:ŋi₆-par₄[cloister]N sux:hul₂[to-be-happy]V sux:dib[to-pass]V
+c.2.2.2,The lament for Urim,,355,sux:a-u₃-a[type-of-priest]N sux:e₂[house(hold)]N sux:ezen[festival]N sux:ezen[festival]N sux:dug₃[to-be-good]V
+c.2.2.2,The lament for Urim,,356,sux:šem₃[type-of-drum]N sux:a₂-la₂[type-of-drum]N sux:niŋ₂[thing]N sux:šag₄[heart]N sux:hul₂[to-be-happy]V sux:tigi[type-of-instrument-and-composition]N sux:du₁₂[to-perform-(music)]V
+c.2.2.2,The lament for Urim,,357,sux:uŋ₃[people]N sux:saŋ[head]N sux:gig₂[to-be-black]V sux:ezen[festival]N sux:a[water]N sux:tu₅[to-wash]V
+c.2.2.2,The lament for Urim,,358,sux:gu[(flax)-thread]N sux:mu-dur₇[dirt]N sux:nam[destiny]N sux:tar[to-cut]V sux:ulutim₂[form]N sux:kur₂[to-be-different]V
+c.2.2.2,The lament for Urim,,359,sux:en₃-du[song]N sux:er₂[tear]N sux:kur₉[to-enter]V sux:en₃-tukum-še₃[how-long]AV sux:mu₂[to-grow]V
+c.2.2.2,The lament for Urim,,360,sux:tigi[type-of-instrument-and-composition]N sux:a-nir[lament]N sux:kur₉[to-enter]V sux:en₃-tukum-še₃[how-long]AV sux:mu₂[to-grow]V
+c.2.2.2,The lament for Urim,,361,sux:gud[bull]N sux:tur₃[animal-stall]N sux:de₆[to-carry]V sux:i₃[fatty-substance]N sux:ak[to-do]V
+c.2.2.2,The lament for Urim,,362,sux:udu[sheep]N sux:amaš[sheepfold]N sux:tuš[to-sit]V sux:ga[milk]N sux:dulu[to-be-plentiful]V
+c.2.2.2,The lament for Urim,,363,sux:i₃[fatty-substance]N sux:guru₃[to-bear]V sux:tur₃[animal-stall]N sux:de₆[to-carry]V sux:en₃-tukum-še₃[how-long]AV sux:mu₂[to-grow]V
+c.2.2.2,The lament for Urim,,364,sux:ga[milk]N sux:guru₃[to-bear]V sux:amaš[sheepfold]N sux:de₆[to-carry]V sux:en₃-tukum-še₃[how-long]AV sux:mu₂[to-grow]V
+c.2.2.2,The lament for Urim,,365,sux:šu-peš[fisherman]N sux:ku₆[fish]N sux:guru₃[to-bear]V sux:hul-ŋal₂[evil]AJ sux:dab₅[to-seize]V sux:en₃-tukum-še₃[how-long]AV sux:mu₂[to-grow]V
+c.2.2.2,The lament for Urim,,366,sux:mušen-du₃[fowler]N sux:mušen[bird]N sux:guru₃[to-bear]V sux:ŋir₂[to-flash]V sux:DU[DU]V
+c.2.2.2,The lament for Urim,,367,sux:id₂[watercourse]N sux:ma₂-gur₈[processional-boat]N sux:du₇[to-be-perfect]V sux:šag₄[heart]N sux:teme[type-of-plant]N sux:mu₂[to-grow]V
+c.2.2.2,The lament for Urim,,368,sux:har-ra-an[route]N sux:gigir[chariot]N sux:ŋar[to-place]V sux:kiši₁₆[acacia]N sux:kur[(mountain)-land]N sux:mu₂[to-grow]V
+c.2.2.2,The lament for Urim,,369,sux:nin[lady]N sux-x-emesal:uru₂[town]N sux:ama[mother]N sux:er₂[tear]N sux:šeš₂[to-weep]V
+c.2.2.2,The lament for Urim,,370,sux:Urim[1]SN sux:dumu[child]N sux:sila[street]N sux:ha-lam[to-be-lost]V sux:ki[place]N sux:kiŋ₂[to-seek]V
+c.2.2.2,The lament for Urim,,371,sux:e₂[house(hold)]N sux:lu₂[person]N sux:niŋ₂[thing]N sux:u₂-gu[noun-part-of-multiword-verb]N sux:de₂[to-pour]V sux:šu[hand]N sux:ša-an-ša-ša[verb-part-of-multiword-verb]V
+c.2.2.2,The lament for Urim,,372,sux:šeg₁₂[brick(work)]N sux:e₂[house(hold)]N sux:zid[right]AJ sux:lu₂-ulu₃[person]N sux:me-a[where]AV sux:dug₄[to-say]V
+c.2.2.2,The lament for Urim,,373,sux:nin[lady]N sux:e₂[house(hold)]N sux:e₃[to-go-out-or-in]V sux:me[to-be]V sux-x-emesal:uru₂[town]N sux:e₃[to-go-out-or-in]V
+c.2.2.2,The lament for Urim,,374,sux:en₃-še₃[how-long]AV sux-x-emesal:uru₂[town]N sux:lu₂-erim₂[enemy]N sux:bar[outside]N sux:gub[to-stand]V
+c.2.2.2,The lament for Urim,,375,sux:ama[mother]N sux:Ningal[1]DN sux-x-emesal:uru₂[town]N sux:lu₂-erim₂[enemy]N sux:gaba[chest]N sux:sa₂[to-equal]V
+c.2.2.2,The lament for Urim,,376,sux:nin[lady]N sux-x-emesal:uru₂[town]N sux:ki[place]N sux:aŋ₂[to-measure]V sux:me[to-be]V sux:amaš[sheepfold]N sux:tag[to-touch]V
+c.2.2.2,The lament for Urim,,377,sux:kalam[the-Land]N sux:kuš₂[to-be-tired]V sux:me[to-be]V sux:za[you-(sg.)]PD sux:izi[fire]N sux:tag[to-touch]V
+c.2.2.2,The lament for Urim,,378,sux:ama[mother]N sux:Ningal[1]DN sux:gud[bull]N sux:tur₃[animal-stall]N sux:udu[sheep]N sux:amaš[sheepfold]N
+c.2.2.2,The lament for Urim,,379,sux:gud[bull]N sux:tur₃[animal-stall]N sux:ud-bi-ta[former-days]N sux:udu[sheep]N sux:amaš[sheepfold]N
+c.2.2.2,The lament for Urim,,380,sux:dumu[child]N sux:ban₃-da[junior]AJ sux:e₂-mi₂[woman's-estate]N sux:nin[lady]N sux:e₂[house(hold)]N
+c.2.2.2,The lament for Urim,,381,sux:An[1]DN sux:lugal[king]N sux:diŋir[deity]N sux:muš₃-am₃[(expression-of)-compassion]N sux:dug₄[to-say]V
+c.2.2.2,The lament for Urim,,382,sux:Enlil[1]DN sux:lugal[king]N sux:kur[(mountain)-land]N sux:nam[destiny]N sux:tar[to-cut]V
+c.2.2.2,The lament for Urim,,383,sux-x-emesal:uru₂[town]N sux:ki[place]N sux:gi₄[to-return]V sux:nam-nin[ladyship]N sux:ak[to-do]V
+c.2.2.2,The lament for Urim,,384,sux:Nibru[1]SN sux:ki[place]N sux:gi₄[to-return]V sux:nam-nin[ladyship]N sux:ak[to-do]V
+c.2.2.2,The lament for Urim,,385,sux:Urim[1]SN sux:ki[place]N sux:gi₄[to-return]V sux:nam-nin[ladyship]N sux:ak[to-do]V
+c.2.2.2,The lament for Urim,,386,sux:Isin[1]SN sux:ki[place]N sux:gi₄[to-return]V sux:nam-nin[ladyship]N sux:ak[to-do]V
+c.2.2.2,The lament for Urim,,387,sux:ki-ru-gu₂[composition-division]N sux:8-kam-ma[8th]NU
+c.2.2.2,The lament for Urim,,388,sux:me[essence]N sux:kur₂[to-be-different]V
+c.2.2.2,The lament for Urim,,389,sux:ŋiš-gi₄-ŋal₂[composition-division]N
+c.2.2.2,The lament for Urim,,390,sux:e[vocative-expression]I sux:ud[storm]N sux:ud[storm]N sux:kalam[the-Land]N sux:teš₂[unity]N sux:ra[to-beat]V
+c.2.2.2,The lament for Urim,,391,sux:ud[storm]N sux:gal[to-be-big]V sux:an[heaven]N sux:ud[storm]N sux:gu₃[voice]N sux:dub₂[to-tremble]V
+c.2.2.2,The lament for Urim,,392,sux:ud[storm]N sux:gig[to-be-ill]V sux:kalam[the-Land]N sux:zal[to-pass]V sux:re[that]PD
+c.2.2.2,The lament for Urim,,393,sux:ud[storm]N sux-x-emesal:uru₂[town]N sux:gul[to-destroy]V sux:ud[storm]N sux:e₂[house(hold)]N sux:gul[to-destroy]V
+c.2.2.2,The lament for Urim,,394,sux:ud[storm]N sux:tur₃[animal-stall]N sux:gul[to-destroy]V sux:ud[storm]N sux:amaš[sheepfold]N sux:tab[to-be-parallel]V
+c.2.2.2,The lament for Urim,,395,sux:ŋarza[rite]N sux:kug[shining]AJ sux:šu[hand]N sux:la₂[to-hang]V sux:re[that]PD
+c.2.2.2,The lament for Urim,,396,sux:ŋalga[reason]N sux:niŋ₂[thing]N sux:Aratta[1]SN sux:šu[hand]N sux:pe-el[to-defile]V sux:dug₄[to-say]V sux:re[that]PD
+c.2.2.2,The lament for Urim,,397,sux:ud[storm]N sux:kalam[the-Land]N sux:niŋ₂[thing]N sux:dug₃[to-be-good]V sux:kud[to-cut]V sux:re[that]PD
+c.2.2.2,The lament for Urim,,398,sux:ud[storm]N sux:saŋ[head]N sux:gig₂[to-be-black]V sux:a₂[arm]N sux:la₂[to-hang]V sux:re[that]PD
+c.2.2.2,The lament for Urim,,399,sux:ki-ru-gu₂[composition-division]N sux:9-kam-ma[9th]NU
+c.2.2.2,The lament for Urim,,400,sux:ud[storm]N sux:re[that]PD sux:ud[storm]N sux:igi[eye]N sux:teš₂[pride]N sux:ŋal₂[to-be-(located)]V sux:re[that]PD
+c.2.2.2,The lament for Urim,,401,sux:ŋiš-gi₄-ŋal₂[composition-division]N
+c.2.2.2,The lament for Urim,,402,sux:ud[storm]N sux:ama[mother]N sux:zu[to-know]V sux:re[that]PD sux:ud[storm]N sux:a-a[father]N sux:zu[to-know]V sux:re[that]PD
+c.2.2.2,The lament for Urim,,403,sux:ud[storm]N sux:dam[spouse]N sux:zu[to-know]V sux:re[that]PD sux:ud[storm]N sux:dumu[child]N sux:zu[to-know]V sux:re[that]PD
+c.2.2.2,The lament for Urim,,404,sux:ud[storm]N sux:nin₉[sister]N sux:zu[to-know]V sux:re[that]PD sux:ud[storm]N sux:šeš[brother]N sux:zu[to-know]V sux:re[that]PD
+c.2.2.2,The lament for Urim,,405,sux:ud[storm]N sux:ušur[neighbour]N sux:zu[to-know]V sux:re[that]PD sux:ud[storm]N sux:ma-la[girlfriend]N sux:zu[to-know]V sux:re[that]PD
+c.2.2.2,The lament for Urim,,406,sux:ud[storm]N sux:dam[spouse]N sux:šub[to-fall]V sux:ud[storm]N sux:dumu[child]N sux:šub[to-fall]V sux:re[that]PD
+c.2.2.2,The lament for Urim,,407,sux:ud[storm]N sux:ud[day(light)]N sux:kalam[the-Land]N sux:u₂-gu[noun-part-of-multiword-verb]N sux:de₂[to-pour]V sux:re[that]PD
+c.2.2.2,The lament for Urim,,408,sux:ud[storm]N sux:hul[to-be-bad]V sux:gig[to-be-ill]V sux:dug₄[to-say]V sux:Enlil[1]DN sux:zal[to-pass]V sux:re[that]PD
+c.2.2.2,The lament for Urim,,409,sux:a-a[father]N sux:Nanna[1]DN sux:ud[storm]N sux-x-emesal:uru₂[town]N sux:ki[place]N sux:ŋar[to-place]V
+c.2.2.2,The lament for Urim,,410,sux:uŋ₃[people]N sux:saŋ[head]N sux:gig₂[to-be-black]V sux:igi[eye]N sux:du₈[to-spread]V
+c.2.2.2,The lament for Urim,,411,sux:ud[storm]N sux:im[rain(storm)]N sux:an[heaven]N sux:šeŋ₃[to-rain]V sux:ki-tuš[dwelling-place]N sux:gur[to-turn]V
+c.2.2.2,The lament for Urim,,412,sux:niŋ₂-zi-ŋal₂[living-creature]N sux:an[heaven]N sux:ki[place]N sux:saŋ[head]N sux:gig₂[to-be-black]V sux:dub₂[to-tremble]V sux:re[that]PD
+c.2.2.2,The lament for Urim,,413,sux:ud[storm]N sux:du₃-a[entirety]N sux:gul[to-destroy]V
+c.2.2.2,The lament for Urim,,414,sux:abula[(city)-gate]N sux:ŋi₆[night]N sux:u₃-na[designation-of-night]N sux:ig[door]N sux:keše₂[to-bind]V
+c.2.2.2,The lament for Urim,,415,sux:ud[storm]N sux:šudum[reckoning]N sux:ŋar[to-place]V
+c.2.2.2,The lament for Urim,,416,sux:niŋ₂-kas₇[account]N sux:e₂[house(hold)]N sux:Enlil[1]DN sux:gag[peg]N sux:sig₉[to-put]V
+c.2.2.2,The lament for Urim,,417,sux:ki-ru-gu₂[composition-division]N sux:10-kam-ma[10th]NU
+c.2.2.2,The lament for Urim,,418,sux:ud[day(light)]N sux:ul[distant-time]N sux:ud[day(light)]N sux:kur₂[to-be-different]V sux:ud[day(light)]N sux:eŋer[back]N
+c.2.2.2,The lament for Urim,,419,sux:ŋiš-gi₄-ŋal₂[composition-division]N
+c.2.2.2,The lament for Urim,,420,sux:ud[day(light)]N sux:ul[distant-time]N sux:kalam[the-Land]N sux:ki[place]N sux:ŋar[to-place]V
+c.2.2.2,The lament for Urim,,421,sux:Nanna[1]DN sux:lu₂[person]N sux:sun₅[to-be-humble]V sux:ŋiri₃[foot]N sux:dab₅[to-seize]V
+c.2.2.2,The lament for Urim,,422,sux:er₂[tear]N sux:e₂[house(hold)]N sux:sig₉[to-be-silent]V sux:de₆[to-carry]V sux:igi[eye]N sux:du₁₂[to-perform-(music)]V
+c.2.2.2,The lament for Urim,,423,sux:saŋ[head]N sux:gig₂[to-be-black]V sux:šub[to-fall]V sux:giri₁₇[nose]N sux:šu[hand]N sux:tag[to-touch]V
+c.2.2.2,The lament for Urim,,424,sux-x-emesal:uru₂[town]N sux:du₆[(ruin)-mound]N sux:ŋar[to-place]V sux:i-si-iš[tears-(of-joy)]N sux:ŋar[to-place]V
+c.2.2.2,The lament for Urim,,425,sux:Nanna[1]DN sux-x-emesal:uru₂[town]N sux:ki[place]N sux:gi₄[to-return]V sux:pa[branch]N sux:e₃[to-go-out-or-in]V sux:ak[to-do]V
+c.2.2.2,The lament for Urim,,426,sux:mul-an[heavenly-star]N sux:kug[shining]AJ sux:ha-lam[to-be-lost]V sux:igi[eye]N sux:dib[to-pass]V
+c.2.2.2,The lament for Urim,,427,sux:diŋir[deity]N sux:lu₂-ulu₃[person]N sux:kadra[greeting-gift]N sux:de₆[to-carry]V
+c.2.2.2,The lament for Urim,,428,sux:lu₂[person]N sux:sizkur₂[prayer]N sux:a-ra-zu[supplication]N sux:dug₄[to-say]V
+c.2.2.2,The lament for Urim,,429,sux:Nanna[1]DN sux:arhuš[compassion]N sux:kalam[the-Land]N
+c.2.2.2,The lament for Urim,,430,sux:en[lord]N sux:Ašimbabbar[1]DN sux:šag₄[heart]N sux:dug₄[to-say]V sux:re[that]PD
+c.2.2.2,The lament for Urim,,431,sux:Nanna[1]DN sux:lu₂-ulu₃[person]N sux:nam-tag[sin]N sux:du₈[to-spread]V
+c.2.2.2,The lament for Urim,,432,sux:lu₂[person]N sux:a-ra-zu[supplication]N sux:dug₄[to-say]V sux:šag₄[heart]N sux:huŋ[to-hire]V
+c.2.2.2,The lament for Urim,,432A,sux:diŋir[deity]N sux:lu₂[person]N sux:kadra[greeting-gift]N sux:de₆[to-carry]V
+c.2.2.2,The lament for Urim,,433,sux:lu₂[person]N sux:sizkur₂[prayer]N sux:gub[to-stand]V sux:igi[eye]N sux:zid[right]AJ sux:bar[to-set-aside]V
+c.2.2.2,The lament for Urim,,434,sux:Nanna[1]DN sux:igi[eye]N sux:du₈[to-spread]V sux:bar[to-set-aside]V sux:šag₄[heart]N sux:šu[hand]N sux:niŋin₂[to-go-around]V sux:sug₄[to-be-full]V
+c.2.2.2,The lament for Urim,,435,sux:lu₂-ulu₃[person]N sux:ud[storm]N sux:hul[to-be-bad]V sux:du₃[to-erect]V sux:kug[to-be-shining]V
+c.2.2.2,The lament for Urim,,436,sux:šag₄[heart]N sux:kalam[the-Land]N sux:ŋal₂[to-be-(located)]V sux:kug[to-be-shining]V
+c.2.2.2,The lament for Urim,,437,sux:Nanna[1]DN sux-x-emesal:uru₂[town]N sux:ki[place]N sux:gi₄[to-return]V sux:me-teš₂[praise]N sux:i[to-bring-out]V
+c.2.2.2,The lament for Urim,,438,sux:ki-ru-gu₂[composition-division]N sux:11-kam-ma[11th]NU

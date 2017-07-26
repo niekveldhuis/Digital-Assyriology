@@ -1,17 +1,17 @@
 id_text,text_name,version,l_no,text
-c.5.2.5,The poem of early rulers,,6,du₃[to-erect]V
-c.5.2.5,The poem of early rulers,,7,lu₂[person]N šu[hand]N bal[to-turn-over]V ak[to-do]V
-c.5.2.5,The poem of early rulers,,8,lugal[king]N mu[year]N 36000[36000]NU ak[to-do]V
-c.5.2.5,The poem of early rulers,,9,lugal[king]N lu₂[person]N an[heaven]N e₃[to-go-out-or-in]V
-c.5.2.5,The poem of early rulers,,10,Zi-ud-sura[1]RN nam-til₃[life]N kiŋ₂[to-seek]V
-c.5.2.5,The poem of early rulers,,11,za[to-bow-down]V dab₅[to-seize]V
-c.5.2.5,The poem of early rulers,,12,kalam[the-Land]N dar[to-split]V
-c.5.2.5,The poem of early rulers,,13,lugal[king]N dub-saŋ[front-(person)]N ud[day(light)]N ul-le₂-a[distant-time]N
-c.5.2.5,The poem of early rulers,,14,peš[to-be-thick]V tud[to-give-birth]V
-c.5.2.5,The poem of early rulers,,15,šu[hand]N sa₂[to-equal]V dug₄[to-say]V
-c.5.2.5,The poem of early rulers,,16,na-me[any]PD zu[to-know]V
-c.5.2.5,The poem of early rulers,,17,igi[eye]N niŋin₂[to-go-around]V
-c.5.2.5,The poem of early rulers,,18,zalag[to-be-shining]V ugu[skull]N nam-uš₂[death]N a-ba[who]PD dirig[to-be-superior]V
-c.5.2.5,The poem of early rulers,,19,il₂[to-raise]V ud[day(light)]N šag₄[heart]N hul₂[to-be-happy]V niŋ₂-me-ŋar[silence]N mu[year]N 36000[36000]NU ak[to-do]V
-c.5.2.5,The poem of early rulers,,20,diŋir[deity]N šum₂[to-give]V nam-til₃[life]N kiŋ₂[to-seek]V
-c.5.2.5,The poem of early rulers,,21,ha-la[share]N lu₂-ulu₃[person]N til₃[to-live]V e₂[house(hold)]N ŋuruš[young-man]N
+c.5.2.5,The poem of early rulers,,6,sux:du₃[to-erect]V
+c.5.2.5,The poem of early rulers,,7,sux:lu₂[person]N sux:šu[hand]N sux:bal[to-turn-over]V sux:ak[to-do]V
+c.5.2.5,The poem of early rulers,,8,sux:lugal[king]N sux:mu[year]N sux:36000[36000]NU sux:ak[to-do]V
+c.5.2.5,The poem of early rulers,,9,sux:lugal[king]N sux:lu₂[person]N sux:an[heaven]N sux:e₃[to-go-out-or-in]V
+c.5.2.5,The poem of early rulers,,10,sux:Zi-ud-sura[1]RN sux:nam-til₃[life]N sux:kiŋ₂[to-seek]V
+c.5.2.5,The poem of early rulers,,11,sux:za[to-bow-down]V sux:dab₅[to-seize]V
+c.5.2.5,The poem of early rulers,,12,sux:kalam[the-Land]N sux:dar[to-split]V
+c.5.2.5,The poem of early rulers,,13,sux:lugal[king]N sux:dub-saŋ[front-(person)]N sux:ud[day(light)]N sux:ul-le₂-a[distant-time]N
+c.5.2.5,The poem of early rulers,,14,sux:peš[to-be-thick]V sux:tud[to-give-birth]V
+c.5.2.5,The poem of early rulers,,15,sux:šu[hand]N sux:sa₂[to-equal]V sux:dug₄[to-say]V
+c.5.2.5,The poem of early rulers,,16,sux:na-me[any]PD sux:zu[to-know]V
+c.5.2.5,The poem of early rulers,,17,sux:igi[eye]N sux:niŋin₂[to-go-around]V
+c.5.2.5,The poem of early rulers,,18,sux:zalag[to-be-shining]V sux:ugu[skull]N sux:nam-uš₂[death]N sux:a-ba[who]PD sux:dirig[to-be-superior]V
+c.5.2.5,The poem of early rulers,,19,sux:il₂[to-raise]V sux:ud[day(light)]N sux:šag₄[heart]N sux:hul₂[to-be-happy]V sux:niŋ₂-me-ŋar[silence]N sux:mu[year]N sux:36000[36000]NU sux:ak[to-do]V
+c.5.2.5,The poem of early rulers,,20,sux:diŋir[deity]N sux:šum₂[to-give]V sux:nam-til₃[life]N sux:kiŋ₂[to-seek]V
+c.5.2.5,The poem of early rulers,,21,sux:ha-la[share]N sux:lu₂-ulu₃[person]N sux:til₃[to-live]V sux:e₂[house(hold)]N sux:ŋuruš[young-man]N

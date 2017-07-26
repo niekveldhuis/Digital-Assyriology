@@ -1,138 +1,138 @@
 id_text,text_name,version,l_no,text
-c.1.4.4,Inana and Bilulu: an ulila to Inana,,1,edin[open-country]N Dumuzid[1]DN i-lu[(sad)-song]N za[you-(sg.)]PD i-lu[(sad)-song]N za[you-(sg.)]PD i-lu[(sad)-song]N balaŋ[type-of-instrument-and-composition]N sa₂[to-equal]V
-c.1.4.4,Inana and Bilulu: an ulila to Inana,,2,e₂[house(hold)]N Arali[1]GN sa₂[to-equal]V
-c.1.4.4,Inana and Bilulu: an ulila to Inana,,3,Bad-tibira[1]SN sa₂[to-equal]V
-c.1.4.4,Inana and Bilulu: an ulila to Inana,,4,Du-šuba[1]GN sa₂[to-equal]V
-c.1.4.4,Inana and Bilulu: an ulila to Inana,,5,ki[place]N nam-sipad[shepherd's-craft]N sa₂[to-equal]V amaš[sheepfold]N Dumuzid[1]DN
-c.1.4.4,Inana and Bilulu: an ulila to Inana,,6,sipad[shepherd]N lu₂[person]N
-c.1.4.4,Inana and Bilulu: an ulila to Inana,,8,Dumuzid[1]DN
+c.1.4.4,Inana and Bilulu: an ulila to Inana,,1,sux:edin[open-country]N sux:Dumuzid[1]DN sux:i-lu[(sad)-song]N sux:za[you-(sg.)]PD sux:i-lu[(sad)-song]N sux:za[you-(sg.)]PD sux:i-lu[(sad)-song]N sux:balaŋ[type-of-instrument-and-composition]N sux:sa₂[to-equal]V
+c.1.4.4,Inana and Bilulu: an ulila to Inana,,2,sux:e₂[house(hold)]N sux:Arali[1]GN sux:sa₂[to-equal]V
+c.1.4.4,Inana and Bilulu: an ulila to Inana,,3,sux:Bad-tibira[1]SN sux:sa₂[to-equal]V
+c.1.4.4,Inana and Bilulu: an ulila to Inana,,4,sux:Du-šuba[1]GN sux:sa₂[to-equal]V
+c.1.4.4,Inana and Bilulu: an ulila to Inana,,5,sux:ki[place]N sux:nam-sipad[shepherd's-craft]N sux:sa₂[to-equal]V sux:amaš[sheepfold]N sux:Dumuzid[1]DN
+c.1.4.4,Inana and Bilulu: an ulila to Inana,,6,sux:sipad[shepherd]N sux:lu₂[person]N
+c.1.4.4,Inana and Bilulu: an ulila to Inana,,8,sux:Dumuzid[1]DN
 c.1.4.4,Inana and Bilulu: an ulila to Inana,,12,
 c.1.4.4,Inana and Bilulu: an ulila to Inana,,13,
-c.1.4.4,Inana and Bilulu: an ulila to Inana,,14,giri₁₇-zal[joy]N
-c.1.4.4,Inana and Bilulu: an ulila to Inana,,15,ŋar[to-place]V
+c.1.4.4,Inana and Bilulu: an ulila to Inana,,14,sux:giri₁₇-zal[joy]N
+c.1.4.4,Inana and Bilulu: an ulila to Inana,,15,sux:ŋar[to-place]V
 c.1.4.4,Inana and Bilulu: an ulila to Inana,,16,
 c.1.4.4,Inana and Bilulu: an ulila to Inana,,17,
-c.1.4.4,Inana and Bilulu: an ulila to Inana,,23,ba[to-allot]V i-si-iš[tears-(of-joy)]N
+c.1.4.4,Inana and Bilulu: an ulila to Inana,,23,sux:ba[to-allot]V sux:i-si-iš[tears-(of-joy)]N
 c.1.4.4,Inana and Bilulu: an ulila to Inana,,24,
-c.1.4.4,Inana and Bilulu: an ulila to Inana,,25,giri₁₇-zal[joy]N
-c.1.4.4,Inana and Bilulu: an ulila to Inana,,26,ad[voice]N gi₄[to-return]V
-c.1.4.4,Inana and Bilulu: an ulila to Inana,,27,Dumuzid[1]DN ka[mouth]N kug[shining]AJ igi[eye]N sag₉[to-be-good]V i-si-iš[tears-(of-joy)]N kuš₂[to-be-tired]V
-c.1.4.4,Inana and Bilulu: an ulila to Inana,,28,ka[mouth]N kug[shining]AJ igi[eye]N sag₉[to-be-good]V i-si-iš[tears-(of-joy)]N kuš₂[to-be-tired]V
-c.1.4.4,Inana and Bilulu: an ulila to Inana,,29,ŋuruš[young-man]N nitalam[spouse]N u₃-mu-un[lord]N zu₂-lum[date]N
-c.1.4.4,Inana and Bilulu: an ulila to Inana,,30,Dumuzid[1]DN kuš₂[to-be-tired]V i-si-iš[tears-(of-joy)]N kuš₂[to-be-tired]V
-c.1.4.4,Inana and Bilulu: an ulila to Inana,,31,kug[shining]AJ Inana[1]DN
-c.1.4.4,Inana and Bilulu: an ulila to Inana,,32,nam[destiny]N
-c.1.4.4,Inana and Bilulu: an ulila to Inana,,33,in-nin[mistress]N lu₂[person]N ŋar[to-place]V ŋar[to-place]V
-c.1.4.4,Inana and Bilulu: an ulila to Inana,,34,ki-sikil[young-woman]N Inana[1]DN lu₂[person]N ŋar[to-place]V
-c.1.4.4,Inana and Bilulu: an ulila to Inana,,35,e₂-mi₂[woman's-estate]N ama[mother]N ugu[to-give-birth]V DU[DU]V
-c.1.4.4,Inana and Bilulu: an ulila to Inana,,36,e[vocative-expression]I a-ra-zu[supplication]N sun₅[to-be-humble]V gub[to-stand]V
-c.1.4.4,Inana and Bilulu: an ulila to Inana,,37,a[soothing-expression]I ama[mother]N dib[to-pass]V amaš[sheepfold]N ŋen[to-go]V
-c.1.4.4,Inana and Bilulu: an ulila to Inana,,38,ama[mother]N Ningal[1]DN dib[to-pass]V amaš[sheepfold]N ŋen[to-go]V
-c.1.4.4,Inana and Bilulu: an ulila to Inana,,39,a-a[father]N bu₇[to-shine]V sun₇[to-be-haughty]V dib[to-pass]V
-c.1.4.4,Inana and Bilulu: an ulila to Inana,,40,Suen[1]DN bu₇[to-shine]V sun₇[to-be-haughty]V dib[to-pass]V
-c.1.4.4,Inana and Bilulu: an ulila to Inana,,41,dumu[child]N ama[mother]N ugu[to-give-birth]V kiŋ₂-gi₄-a[messenger]N e₂-mi₂[woman's-estate]N e₃[to-go-out-or-in]V
-c.1.4.4,Inana and Bilulu: an ulila to Inana,,42,ama[mother]N Ningal[1]DN kiŋ₂-gi₄-a[messenger]N e₂-mi₂[woman's-estate]N e₃[to-go-out-or-in]V
-c.1.4.4,Inana and Bilulu: an ulila to Inana,,43,nin[lady]N gal[to-be-big]V zu[to-know]V gal[to-be-big]V tum₂[to-be-suitable]V
-c.1.4.4,Inana and Bilulu: an ulila to Inana,,44,kug[shining]AJ Inana[1]DN gal[to-be-big]V zu[to-know]V gal[to-be-big]V tum₂[to-be-suitable]V
-c.1.4.4,Inana and Bilulu: an ulila to Inana,,45,kaš[beer]N ud[day(light)]N re[that]PD ud[day(light)]N sud[to-be-distant]V tuš[to-sit]V
-c.1.4.4,Inana and Bilulu: an ulila to Inana,,65,amaš[sheepfold]N
-c.1.4.4,Inana and Bilulu: an ulila to Inana,,67,e₂[house(hold)]N um-ma[experienced-woman]N Bilulu[1]DN
-c.1.4.4,Inana and Bilulu: an ulila to Inana,,68,ki[place]N sipad[shepherd]N saŋ[head]N ra[to-beat]V
-c.1.4.4,Inana and Bilulu: an ulila to Inana,,69,Dumuzid[1]DN saŋ[head]N ra[to-beat]V
-c.1.4.4,Inana and Bilulu: an ulila to Inana,,70,Ama-ušumgal-ana[1]DN saŋ[head]N ra[to-beat]V
-c.1.4.4,Inana and Bilulu: an ulila to Inana,,71,udu[sheep]N lugal[king]N Dumuzid[1]DN edin[open-country]N
-c.1.4.4,Inana and Bilulu: an ulila to Inana,,72,Inana[1]DN sipad[shepherd]N me[to-be]V
-c.1.4.4,Inana and Bilulu: an ulila to Inana,,73,udu[sheep]N lugal[king]N zag[side]N gi₄[to-return]V
-c.1.4.4,Inana and Bilulu: an ulila to Inana,,74,nin[lady]N nitalam[spouse]N šir₃[song]N tud[to-give-birth]V šir₃[song]N dim₂[to-create]V
-c.1.4.4,Inana and Bilulu: an ulila to Inana,,75,kug[shining]AJ Inana[1]DN Dumuzid[1]DN šir₃[song]N tud[to-give-birth]V šir₃[song]N dim₂[to-create]V
-c.1.4.4,Inana and Bilulu: an ulila to Inana,,76,mu-lu[person]N nu₂[to-lie-down]V su₈-ba[shepherd]N mu-lu[person]N nu₂[to-lie-down]V en-nu-uŋ₃[guard]N gub[to-stand]V
-c.1.4.4,Inana and Bilulu: an ulila to Inana,,77,Dumuzid[1]DN mu-lu[person]N nu₂[to-lie-down]V en-nu-uŋ₃[guard]N gub[to-stand]V
-c.1.4.4,Inana and Bilulu: an ulila to Inana,,78,Ama-ušumgal-ana[1]DN mu-lu[person]N nu₂[to-lie-down]V en-nu-uŋ₃[guard]N gub[to-stand]V
-c.1.4.4,Inana and Bilulu: an ulila to Inana,,79,Utu[1]DN gub[to-stand]V en-nu-uŋ₃[guard]N gub[to-stand]V
-c.1.4.4,Inana and Bilulu: an ulila to Inana,,80,ŋi₆[night]N nu₂[to-lie-down]V en-nu-uŋ₃[guard]N gub[to-stand]V
-c.1.4.4,Inana and Bilulu: an ulila to Inana,,81,ud[day(light)]N um-ma[experienced-woman]N Bilulu[1]DN
-c.1.4.4,Inana and Bilulu: an ulila to Inana,,82,bur-šu-um[old-woman]N nin[lady]N ni₂-te-a-ni[himself;-herself]PD
-c.1.4.4,Inana and Bilulu: an ulila to Inana,,83,dumu[child]N Ŋirŋire[1]PN lu₂[person]N dili[single]AJ
-c.1.4.4,Inana and Bilulu: an ulila to Inana,,84,ul₄[to-hasten]V tum₂[to-be-suitable]V lu₂[person]N zu[to-know]V
-c.1.4.4,Inana and Bilulu: an ulila to Inana,,85,gud[bull]N dab₅[to-seize]V tur₃[animal-stall]N amaš[sheepfold]N si[to-fill]V
-c.1.4.4,Inana and Bilulu: an ulila to Inana,,86,guru₇-du₆[type-of-grain-heap]N gu₂[neck]N gur[to-turn]V
-c.1.4.4,Inana and Bilulu: an ulila to Inana,,87,ul₄[to-hasten]V šita₂[type-of-weapon]N tag[to-touch]V sag₂[to-scatter]V dug₄[to-say]V
-c.1.4.4,Inana and Bilulu: an ulila to Inana,,88,dumu[child]N me[to-be]V gu₅-li[friend]N me[to-be]V Širru[1]PN edin-lil₂[haunted-desert]N
-c.1.4.4,Inana and Bilulu: an ulila to Inana,,89,igi[eye]N tuš[to-sit]V inim[word]N dug₄[to-say]V
-c.1.4.4,Inana and Bilulu: an ulila to Inana,,90,ud[day(light)]N nin[lady]N šag₄[heart]N a-na[what]PD de₆[to-carry]V
-c.1.4.4,Inana and Bilulu: an ulila to Inana,,91,kug[shining]AJ Inana[1]DN šag₄[heart]N a-na[what]PD de₆[to-carry]V
-c.1.4.4,Inana and Bilulu: an ulila to Inana,,92,um-ma[experienced-woman]N Bilulu[1]DN uš₂[to-die]V šag₄[heart]N de₆[to-carry]V
-c.1.4.4,Inana and Bilulu: an ulila to Inana,,93,nitalam[spouse]N ki[place]N aŋ₂[to-measure]V Dumuzid-ama-ušumgal-ana[1]DN
-c.1.4.4,Inana and Bilulu: an ulila to Inana,,94,ki-nu₂[sleeping-quarter]N dug₃[to-be-good]V šag₄[heart]N de₆[to-carry]V
-c.1.4.4,Inana and Bilulu: an ulila to Inana,,95,nin[lady]N Bilulu[1]DN edin-lil₂[haunted-desert]N
-c.1.4.4,Inana and Bilulu: an ulila to Inana,,96,dumu[child]N Ŋirŋire[1]PN lil₂[ghost]N
-c.1.4.4,Inana and Bilulu: an ulila to Inana,,97,dumu[child]N me[to-be]V gu₅-li[friend]N me[to-be]V Širru[1]PN edin-lil₂[haunted-desert]N
-c.1.4.4,Inana and Bilulu: an ulila to Inana,,98,kug[shining]AJ Inana[1]DN eš₂-dam[tavern]N kur₉[to-enter]V
-c.1.4.4,Inana and Bilulu: an ulila to Inana,,99,ki-tuš[dwelling-place]N gub[to-stand]V nam[destiny]N tar[to-cut]V
-c.1.4.4,Inana and Bilulu: an ulila to Inana,,100,ŋen[to-go]V uš₂[to-die]V me[to-be]V mu[name]N ha-lam[to-be-lost]V
-c.1.4.4,Inana and Bilulu: an ulila to Inana,,101,ummud[waterskin]N a[water]N sed₄[to-be-cold]V niŋ₂[thing]N edin[open-country]N me[to-be]V
-c.1.4.4,Inana and Bilulu: an ulila to Inana,,102,dumu[child]N Ŋirŋire[1]PN e-ne[he;-she]PD
-c.1.4.4,Inana and Bilulu: an ulila to Inana,,103,udug[type-of-demon]N edin[open-country]N lamma[guardian-deity]N edin[open-country]N dug₄[to-say]V
-c.1.4.4,Inana and Bilulu: an ulila to Inana,,104,dumu[child]N me[to-be]V gu₅-li[friend]N me[to-be]V Širru[1]PN edin-lil₂[haunted-desert]N
-c.1.4.4,Inana and Bilulu: an ulila to Inana,,105,edin[open-country]N ŋen[to-go]V zid₂[flour]N ŠID[ŠID]V
-c.1.4.4,Inana and Bilulu: an ulila to Inana,,106,ŋuruš[young-man]N edin[open-country]N ŋen[to-go]V a[water]N bal[to-turn-over]V zid₂[flour]N dub[to-heap-up]V
-c.1.4.4,Inana and Bilulu: an ulila to Inana,,107,udug[type-of-demon]N edin[open-country]N lamma[guardian-deity]N edin[open-country]N
-c.1.4.4,Inana and Bilulu: an ulila to Inana,,108,sed₄[to-be-cold]V dug₄[to-say]V dub[to-heap-up]V dug₄[to-say]V
-c.1.4.4,Inana and Bilulu: an ulila to Inana,,109,ki[place]N sah₆[to-withdraw]V edin[open-country]N ŋal₂[to-be-(located)]V
-c.1.4.4,Inana and Bilulu: an ulila to Inana,,110,um-ma[experienced-woman]N Bilulu[1]DN šag₄[heart]N hul₂[to-be-happy]V
-c.1.4.4,Inana and Bilulu: an ulila to Inana,,111,i₃-ne-eš₂[now]AV Utu[1]DN ud[day(light)]N ne-en[this]PD ur₅[that]PD me[to-be]V
-c.1.4.4,Inana and Bilulu: an ulila to Inana,,112,ummud[waterskin]N a[water]N sed₄[to-be-cold]V niŋ₂[thing]N edin[open-country]N dug₄[to-say]V
-c.1.4.4,Inana and Bilulu: an ulila to Inana,,113,dumu[child]N Ŋirŋire[1]PN e-ne[he;-she]PD
-c.1.4.4,Inana and Bilulu: an ulila to Inana,,114,udug[type-of-demon]N edin[open-country]N lamma[guardian-deity]N edin[open-country]N dug₄[to-say]V
-c.1.4.4,Inana and Bilulu: an ulila to Inana,,115,dumu[child]N me[to-be]V gu₅-li[friend]N me[to-be]V Širru[1]PN edin-lil₂[haunted-desert]N
-c.1.4.4,Inana and Bilulu: an ulila to Inana,,116,edin[open-country]N ŋen[to-go]V zid₂[flour]N ŠID[ŠID]V
-c.1.4.4,Inana and Bilulu: an ulila to Inana,,117,ŋuruš[young-man]N edin[open-country]N ŋen[to-go]V a[water]N bal[to-turn-over]V zid₂[flour]N dub[to-heap-up]V
-c.1.4.4,Inana and Bilulu: an ulila to Inana,,118,udug[type-of-demon]N edin[open-country]N lamma[guardian-deity]N edin[open-country]N
-c.1.4.4,Inana and Bilulu: an ulila to Inana,,119,sed₄[to-be-cold]V dug₄[to-say]V dub[to-heap-up]V dug₄[to-say]V
-c.1.4.4,Inana and Bilulu: an ulila to Inana,,120,ki[place]N sah₆[to-withdraw]V edin[open-country]N ŋal₂[to-be-(located)]V
-c.1.4.4,Inana and Bilulu: an ulila to Inana,,121,um-ma[experienced-woman]N Bilulu[1]DN šag₄[heart]N hul₂[to-be-happy]V
-c.1.4.4,Inana and Bilulu: an ulila to Inana,,122,Inana[1]DN ŋuruš[young-man]N ki[place]N šu[hand]N
-c.1.4.4,Inana and Bilulu: an ulila to Inana,,123,Dumuzid[1]DN ki[place]N šu[hand]N
-c.1.4.4,Inana and Bilulu: an ulila to Inana,,124,šu[hand]N du₃[to-erect]V
-c.1.4.4,Inana and Bilulu: an ulila to Inana,,136,il₂[to-raise]V
-c.1.4.4,Inana and Bilulu: an ulila to Inana,,137,buru₅-habrud[partridge?]N nam[destiny]N il₂[to-raise]V
-c.1.4.4,Inana and Bilulu: an ulila to Inana,,138,ki-ulutim₂[place-of-creation]N Dumuzid[1]DN buru₅-habrud[partridge?]N
-c.1.4.4,Inana and Bilulu: an ulila to Inana,,139,tum₁₂[pigeon]N ab-lal₃[nook]N ni₂-bi[itself;-themselves]PD ad[voice]N gi₄[to-return]V
-c.1.4.4,Inana and Bilulu: an ulila to Inana,,140,buru₅-habrud[partridge?]N a₂-bur₂[nook]N ad[voice]N gi₄[to-return]V
-c.1.4.4,Inana and Bilulu: an ulila to Inana,,141,lugal[king]N ama[mother]N Durtur[1]DN hul₂[to-be-happy]V
-c.1.4.4,Inana and Bilulu: an ulila to Inana,,142,Dumuzid[1]DN ama[mother]N Durtur[1]DN hul₂[to-be-happy]V
-c.1.4.4,Inana and Bilulu: an ulila to Inana,,143,in-nin[mistress]N tud[to-give-birth]V Kuara[1]SN
-c.1.4.4,Inana and Bilulu: an ulila to Inana,,144,ki-sikil[young-woman]N amar[calf]N sig₇[to-be-green]V men[diadem]N
-c.1.4.4,Inana and Bilulu: an ulila to Inana,,145,u₆[wonder]N dug₄[to-say]V niŋ₂-me-ŋar[jubilation]N saŋ[head]N gig₂[to-be-black]V
-c.1.4.4,Inana and Bilulu: an ulila to Inana,,146,e-ne[game]N dug₄[to-say]V i-lu[(sad)-song]N akkil[cry]N dug₄[to-say]V
-c.1.4.4,Inana and Bilulu: an ulila to Inana,,147,nam-šita[entreaty]N dug₄[to-say]V lugal[king]N
-c.1.4.4,Inana and Bilulu: an ulila to Inana,,148,Ŋeštin-ana[1]DN nin[lady]N
+c.1.4.4,Inana and Bilulu: an ulila to Inana,,25,sux:giri₁₇-zal[joy]N
+c.1.4.4,Inana and Bilulu: an ulila to Inana,,26,sux:ad[voice]N sux:gi₄[to-return]V
+c.1.4.4,Inana and Bilulu: an ulila to Inana,,27,sux:Dumuzid[1]DN sux:ka[mouth]N sux:kug[shining]AJ sux:igi[eye]N sux:sag₉[to-be-good]V sux:i-si-iš[tears-(of-joy)]N sux:kuš₂[to-be-tired]V
+c.1.4.4,Inana and Bilulu: an ulila to Inana,,28,sux:ka[mouth]N sux:kug[shining]AJ sux:igi[eye]N sux:sag₉[to-be-good]V sux:i-si-iš[tears-(of-joy)]N sux:kuš₂[to-be-tired]V
+c.1.4.4,Inana and Bilulu: an ulila to Inana,,29,sux:ŋuruš[young-man]N sux:nitalam[spouse]N sux-x-emesal:u₃-mu-un[lord]N sux:zu₂-lum[date]N
+c.1.4.4,Inana and Bilulu: an ulila to Inana,,30,sux:Dumuzid[1]DN sux:kuš₂[to-be-tired]V sux:i-si-iš[tears-(of-joy)]N sux:kuš₂[to-be-tired]V
+c.1.4.4,Inana and Bilulu: an ulila to Inana,,31,sux:kug[shining]AJ sux:Inana[1]DN
+c.1.4.4,Inana and Bilulu: an ulila to Inana,,32,sux:nam[destiny]N
+c.1.4.4,Inana and Bilulu: an ulila to Inana,,33,sux:in-nin[mistress]N sux:lu₂[person]N sux:ŋar[to-place]V sux:ŋar[to-place]V
+c.1.4.4,Inana and Bilulu: an ulila to Inana,,34,sux:ki-sikil[young-woman]N sux:Inana[1]DN sux:lu₂[person]N sux:ŋar[to-place]V
+c.1.4.4,Inana and Bilulu: an ulila to Inana,,35,sux:e₂-mi₂[woman's-estate]N sux:ama[mother]N sux:ugu[to-give-birth]V sux:DU[DU]V
+c.1.4.4,Inana and Bilulu: an ulila to Inana,,36,sux:e[vocative-expression]I sux:a-ra-zu[supplication]N sux:sun₅[to-be-humble]V sux:gub[to-stand]V
+c.1.4.4,Inana and Bilulu: an ulila to Inana,,37,sux:a[soothing-expression]I sux:ama[mother]N sux:dib[to-pass]V sux:amaš[sheepfold]N sux:ŋen[to-go]V
+c.1.4.4,Inana and Bilulu: an ulila to Inana,,38,sux:ama[mother]N sux-x-emesal:Ningal[1]DN sux:dib[to-pass]V sux:amaš[sheepfold]N sux:ŋen[to-go]V
+c.1.4.4,Inana and Bilulu: an ulila to Inana,,39,sux:a-a[father]N sux:bu₇[to-shine]V sux:sun₇[to-be-haughty]V sux:dib[to-pass]V
+c.1.4.4,Inana and Bilulu: an ulila to Inana,,40,sux:Suen[1]DN sux:bu₇[to-shine]V sux:sun₇[to-be-haughty]V sux:dib[to-pass]V
+c.1.4.4,Inana and Bilulu: an ulila to Inana,,41,sux:dumu[child]N sux:ama[mother]N sux:ugu[to-give-birth]V sux:kiŋ₂-gi₄-a[messenger]N sux:e₂-mi₂[woman's-estate]N sux:e₃[to-go-out-or-in]V
+c.1.4.4,Inana and Bilulu: an ulila to Inana,,42,sux:ama[mother]N sux-x-emesal:Ningal[1]DN sux:kiŋ₂-gi₄-a[messenger]N sux:e₂-mi₂[woman's-estate]N sux:e₃[to-go-out-or-in]V
+c.1.4.4,Inana and Bilulu: an ulila to Inana,,43,sux:nin[lady]N sux:gal[to-be-big]V sux:zu[to-know]V sux:gal[to-be-big]V sux:tum₂[to-be-suitable]V
+c.1.4.4,Inana and Bilulu: an ulila to Inana,,44,sux:kug[shining]AJ sux:Inana[1]DN sux:gal[to-be-big]V sux:zu[to-know]V sux:gal[to-be-big]V sux:tum₂[to-be-suitable]V
+c.1.4.4,Inana and Bilulu: an ulila to Inana,,45,sux:kaš[beer]N sux:ud[day(light)]N sux:re[that]PD sux:ud[day(light)]N sux:sud[to-be-distant]V sux:tuš[to-sit]V
+c.1.4.4,Inana and Bilulu: an ulila to Inana,,65,sux:amaš[sheepfold]N
+c.1.4.4,Inana and Bilulu: an ulila to Inana,,67,sux:e₂[house(hold)]N sux:um-ma[experienced-woman]N sux:Bilulu[1]DN
+c.1.4.4,Inana and Bilulu: an ulila to Inana,,68,sux:ki[place]N sux:sipad[shepherd]N sux:saŋ[head]N sux:ra[to-beat]V
+c.1.4.4,Inana and Bilulu: an ulila to Inana,,69,sux:Dumuzid[1]DN sux:saŋ[head]N sux:ra[to-beat]V
+c.1.4.4,Inana and Bilulu: an ulila to Inana,,70,sux:Ama-ušumgal-ana[1]DN sux:saŋ[head]N sux:ra[to-beat]V
+c.1.4.4,Inana and Bilulu: an ulila to Inana,,71,sux:udu[sheep]N sux:lugal[king]N sux:Dumuzid[1]DN sux:edin[open-country]N
+c.1.4.4,Inana and Bilulu: an ulila to Inana,,72,sux:Inana[1]DN sux:sipad[shepherd]N sux:me[to-be]V
+c.1.4.4,Inana and Bilulu: an ulila to Inana,,73,sux:udu[sheep]N sux:lugal[king]N sux:zag[side]N sux:gi₄[to-return]V
+c.1.4.4,Inana and Bilulu: an ulila to Inana,,74,sux:nin[lady]N sux:nitalam[spouse]N sux:šir₃[song]N sux:tud[to-give-birth]V sux:šir₃[song]N sux:dim₂[to-create]V
+c.1.4.4,Inana and Bilulu: an ulila to Inana,,75,sux:kug[shining]AJ sux:Inana[1]DN sux:Dumuzid[1]DN sux:šir₃[song]N sux:tud[to-give-birth]V sux:šir₃[song]N sux:dim₂[to-create]V
+c.1.4.4,Inana and Bilulu: an ulila to Inana,,76,sux-x-emesal:mu-lu[person]N sux:nu₂[to-lie-down]V sux-x-emesal:su₈-ba[shepherd]N sux-x-emesal:mu-lu[person]N sux:nu₂[to-lie-down]V sux:en-nu-uŋ₃[guard]N sux:gub[to-stand]V
+c.1.4.4,Inana and Bilulu: an ulila to Inana,,77,sux:Dumuzid[1]DN sux-x-emesal:mu-lu[person]N sux:nu₂[to-lie-down]V sux:en-nu-uŋ₃[guard]N sux:gub[to-stand]V
+c.1.4.4,Inana and Bilulu: an ulila to Inana,,78,sux:Ama-ušumgal-ana[1]DN sux-x-emesal:mu-lu[person]N sux:nu₂[to-lie-down]V sux:en-nu-uŋ₃[guard]N sux:gub[to-stand]V
+c.1.4.4,Inana and Bilulu: an ulila to Inana,,79,sux:Utu[1]DN sux:gub[to-stand]V sux:en-nu-uŋ₃[guard]N sux:gub[to-stand]V
+c.1.4.4,Inana and Bilulu: an ulila to Inana,,80,sux:ŋi₆[night]N sux:nu₂[to-lie-down]V sux:en-nu-uŋ₃[guard]N sux:gub[to-stand]V
+c.1.4.4,Inana and Bilulu: an ulila to Inana,,81,sux:ud[day(light)]N sux:um-ma[experienced-woman]N sux:Bilulu[1]DN
+c.1.4.4,Inana and Bilulu: an ulila to Inana,,82,sux:bur-šu-um[old-woman]N sux:nin[lady]N sux:ni₂-te-a-ni[himself;-herself]PD
+c.1.4.4,Inana and Bilulu: an ulila to Inana,,83,sux:dumu[child]N sux:Ŋirŋire[1]PN sux:lu₂[person]N sux:dili[single]AJ
+c.1.4.4,Inana and Bilulu: an ulila to Inana,,84,sux:ul₄[to-hasten]V sux:tum₂[to-be-suitable]V sux:lu₂[person]N sux:zu[to-know]V
+c.1.4.4,Inana and Bilulu: an ulila to Inana,,85,sux:gud[bull]N sux:dab₅[to-seize]V sux:tur₃[animal-stall]N sux:amaš[sheepfold]N sux:si[to-fill]V
+c.1.4.4,Inana and Bilulu: an ulila to Inana,,86,sux:guru₇-du₆[type-of-grain-heap]N sux:gu₂[neck]N sux:gur[to-turn]V
+c.1.4.4,Inana and Bilulu: an ulila to Inana,,87,sux:ul₄[to-hasten]V sux:šita₂[type-of-weapon]N sux:tag[to-touch]V sux:sag₂[to-scatter]V sux:dug₄[to-say]V
+c.1.4.4,Inana and Bilulu: an ulila to Inana,,88,sux:dumu[child]N sux:me[to-be]V sux:gu₅-li[friend]N sux:me[to-be]V sux:Širru[1]PN sux:edin-lil₂[haunted-desert]N
+c.1.4.4,Inana and Bilulu: an ulila to Inana,,89,sux:igi[eye]N sux:tuš[to-sit]V sux:inim[word]N sux:dug₄[to-say]V
+c.1.4.4,Inana and Bilulu: an ulila to Inana,,90,sux:ud[day(light)]N sux:nin[lady]N sux:šag₄[heart]N sux:a-na[what]PD sux:de₆[to-carry]V
+c.1.4.4,Inana and Bilulu: an ulila to Inana,,91,sux:kug[shining]AJ sux:Inana[1]DN sux:šag₄[heart]N sux:a-na[what]PD sux:de₆[to-carry]V
+c.1.4.4,Inana and Bilulu: an ulila to Inana,,92,sux:um-ma[experienced-woman]N sux:Bilulu[1]DN sux:uš₂[to-die]V sux:šag₄[heart]N sux:de₆[to-carry]V
+c.1.4.4,Inana and Bilulu: an ulila to Inana,,93,sux:nitalam[spouse]N sux:ki[place]N sux:aŋ₂[to-measure]V sux:Dumuzid-ama-ušumgal-ana[1]DN
+c.1.4.4,Inana and Bilulu: an ulila to Inana,,94,sux:ki-nu₂[sleeping-quarter]N sux:dug₃[to-be-good]V sux:šag₄[heart]N sux:de₆[to-carry]V
+c.1.4.4,Inana and Bilulu: an ulila to Inana,,95,sux:nin[lady]N sux:Bilulu[1]DN sux:edin-lil₂[haunted-desert]N
+c.1.4.4,Inana and Bilulu: an ulila to Inana,,96,sux:dumu[child]N sux:Ŋirŋire[1]PN sux:lil₂[ghost]N
+c.1.4.4,Inana and Bilulu: an ulila to Inana,,97,sux:dumu[child]N sux:me[to-be]V sux:gu₅-li[friend]N sux:me[to-be]V sux:Širru[1]PN sux:edin-lil₂[haunted-desert]N
+c.1.4.4,Inana and Bilulu: an ulila to Inana,,98,sux:kug[shining]AJ sux:Inana[1]DN sux:eš₂-dam[tavern]N sux:kur₉[to-enter]V
+c.1.4.4,Inana and Bilulu: an ulila to Inana,,99,sux:ki-tuš[dwelling-place]N sux:gub[to-stand]V sux:nam[destiny]N sux:tar[to-cut]V
+c.1.4.4,Inana and Bilulu: an ulila to Inana,,100,sux:ŋen[to-go]V sux:uš₂[to-die]V sux:me[to-be]V sux:mu[name]N sux:ha-lam[to-be-lost]V
+c.1.4.4,Inana and Bilulu: an ulila to Inana,,101,sux:ummud[waterskin]N sux:a[water]N sux:sed₄[to-be-cold]V sux:niŋ₂[thing]N sux:edin[open-country]N sux:me[to-be]V
+c.1.4.4,Inana and Bilulu: an ulila to Inana,,102,sux:dumu[child]N sux:Ŋirŋire[1]PN sux:e-ne[he;-she]PD
+c.1.4.4,Inana and Bilulu: an ulila to Inana,,103,sux:udug[type-of-demon]N sux:edin[open-country]N sux:lamma[guardian-deity]N sux:edin[open-country]N sux:dug₄[to-say]V
+c.1.4.4,Inana and Bilulu: an ulila to Inana,,104,sux:dumu[child]N sux:me[to-be]V sux:gu₅-li[friend]N sux:me[to-be]V sux:Širru[1]PN sux:edin-lil₂[haunted-desert]N
+c.1.4.4,Inana and Bilulu: an ulila to Inana,,105,sux:edin[open-country]N sux:ŋen[to-go]V sux:zid₂[flour]N sux:ŠID[ŠID]V
+c.1.4.4,Inana and Bilulu: an ulila to Inana,,106,sux:ŋuruš[young-man]N sux:edin[open-country]N sux:ŋen[to-go]V sux:a[water]N sux:bal[to-turn-over]V sux:zid₂[flour]N sux:dub[to-heap-up]V
+c.1.4.4,Inana and Bilulu: an ulila to Inana,,107,sux:udug[type-of-demon]N sux:edin[open-country]N sux:lamma[guardian-deity]N sux:edin[open-country]N
+c.1.4.4,Inana and Bilulu: an ulila to Inana,,108,sux:sed₄[to-be-cold]V sux:dug₄[to-say]V sux:dub[to-heap-up]V sux:dug₄[to-say]V
+c.1.4.4,Inana and Bilulu: an ulila to Inana,,109,sux:ki[place]N sux:sah₆[to-withdraw]V sux:edin[open-country]N sux:ŋal₂[to-be-(located)]V
+c.1.4.4,Inana and Bilulu: an ulila to Inana,,110,sux:um-ma[experienced-woman]N sux:Bilulu[1]DN sux:šag₄[heart]N sux:hul₂[to-be-happy]V
+c.1.4.4,Inana and Bilulu: an ulila to Inana,,111,sux:i₃-ne-eš₂[now]AV sux:Utu[1]DN sux:ud[day(light)]N sux:ne-en[this]PD sux:ur₅[that]PD sux:me[to-be]V
+c.1.4.4,Inana and Bilulu: an ulila to Inana,,112,sux:ummud[waterskin]N sux:a[water]N sux:sed₄[to-be-cold]V sux:niŋ₂[thing]N sux:edin[open-country]N sux:dug₄[to-say]V
+c.1.4.4,Inana and Bilulu: an ulila to Inana,,113,sux:dumu[child]N sux:Ŋirŋire[1]PN sux:e-ne[he;-she]PD
+c.1.4.4,Inana and Bilulu: an ulila to Inana,,114,sux:udug[type-of-demon]N sux:edin[open-country]N sux:lamma[guardian-deity]N sux:edin[open-country]N sux:dug₄[to-say]V
+c.1.4.4,Inana and Bilulu: an ulila to Inana,,115,sux:dumu[child]N sux:me[to-be]V sux:gu₅-li[friend]N sux:me[to-be]V sux:Širru[1]PN sux:edin-lil₂[haunted-desert]N
+c.1.4.4,Inana and Bilulu: an ulila to Inana,,116,sux:edin[open-country]N sux:ŋen[to-go]V sux:zid₂[flour]N sux:ŠID[ŠID]V
+c.1.4.4,Inana and Bilulu: an ulila to Inana,,117,sux:ŋuruš[young-man]N sux:edin[open-country]N sux:ŋen[to-go]V sux:a[water]N sux:bal[to-turn-over]V sux:zid₂[flour]N sux:dub[to-heap-up]V
+c.1.4.4,Inana and Bilulu: an ulila to Inana,,118,sux:udug[type-of-demon]N sux:edin[open-country]N sux:lamma[guardian-deity]N sux:edin[open-country]N
+c.1.4.4,Inana and Bilulu: an ulila to Inana,,119,sux:sed₄[to-be-cold]V sux:dug₄[to-say]V sux:dub[to-heap-up]V sux:dug₄[to-say]V
+c.1.4.4,Inana and Bilulu: an ulila to Inana,,120,sux:ki[place]N sux:sah₆[to-withdraw]V sux:edin[open-country]N sux:ŋal₂[to-be-(located)]V
+c.1.4.4,Inana and Bilulu: an ulila to Inana,,121,sux:um-ma[experienced-woman]N sux:Bilulu[1]DN sux:šag₄[heart]N sux:hul₂[to-be-happy]V
+c.1.4.4,Inana and Bilulu: an ulila to Inana,,122,sux:Inana[1]DN sux:ŋuruš[young-man]N sux:ki[place]N sux:šu[hand]N
+c.1.4.4,Inana and Bilulu: an ulila to Inana,,123,sux:Dumuzid[1]DN sux:ki[place]N sux:šu[hand]N
+c.1.4.4,Inana and Bilulu: an ulila to Inana,,124,sux:šu[hand]N sux:du₃[to-erect]V
+c.1.4.4,Inana and Bilulu: an ulila to Inana,,136,sux:il₂[to-raise]V
+c.1.4.4,Inana and Bilulu: an ulila to Inana,,137,sux:buru₅-habrud[partridge?]N sux:nam[destiny]N sux:il₂[to-raise]V
+c.1.4.4,Inana and Bilulu: an ulila to Inana,,138,sux:ki-ulutim₂[place-of-creation]N sux:Dumuzid[1]DN sux:buru₅-habrud[partridge?]N
+c.1.4.4,Inana and Bilulu: an ulila to Inana,,139,sux:tum₁₂[pigeon]N sux:ab-lal₃[nook]N sux:ni₂-bi[itself;-themselves]PD sux:ad[voice]N sux:gi₄[to-return]V
+c.1.4.4,Inana and Bilulu: an ulila to Inana,,140,sux:buru₅-habrud[partridge?]N sux:a₂-bur₂[nook]N sux:ad[voice]N sux:gi₄[to-return]V
+c.1.4.4,Inana and Bilulu: an ulila to Inana,,141,sux:lugal[king]N sux:ama[mother]N sux:Durtur[1]DN sux:hul₂[to-be-happy]V
+c.1.4.4,Inana and Bilulu: an ulila to Inana,,142,sux:Dumuzid[1]DN sux:ama[mother]N sux:Durtur[1]DN sux:hul₂[to-be-happy]V
+c.1.4.4,Inana and Bilulu: an ulila to Inana,,143,sux:in-nin[mistress]N sux:tud[to-give-birth]V sux:Kuara[1]SN
+c.1.4.4,Inana and Bilulu: an ulila to Inana,,144,sux:ki-sikil[young-woman]N sux:amar[calf]N sux:sig₇[to-be-green]V sux:men[diadem]N
+c.1.4.4,Inana and Bilulu: an ulila to Inana,,145,sux:u₆[wonder]N sux:dug₄[to-say]V sux:niŋ₂-me-ŋar[jubilation]N sux:saŋ[head]N sux:gig₂[to-be-black]V
+c.1.4.4,Inana and Bilulu: an ulila to Inana,,146,sux:e-ne[game]N sux:dug₄[to-say]V sux:i-lu[(sad)-song]N sux:akkil[cry]N sux:dug₄[to-say]V
+c.1.4.4,Inana and Bilulu: an ulila to Inana,,147,sux:nam-šita[entreaty]N sux:dug₄[to-say]V sux:lugal[king]N
+c.1.4.4,Inana and Bilulu: an ulila to Inana,,148,sux:Ŋeštin-ana[1]DN sux:nin[lady]N
 c.1.4.4,Inana and Bilulu: an ulila to Inana,,149,
-c.1.4.4,Inana and Bilulu: an ulila to Inana,,150,ki-sikil[young-woman]N u₆[wonder]N dug₄[to-say]V
-c.1.4.4,Inana and Bilulu: an ulila to Inana,,151,Ŋeštin-ana[1]DN
-c.1.4.4,Inana and Bilulu: an ulila to Inana,,152,nu-u₈-gig[high-status-woman]N šu[hand]N šu[hand]N TUR[TUR]V
-c.1.4.4,Inana and Bilulu: an ulila to Inana,,153,teš₂[unity]N ŋar[to-place]V
-c.1.4.4,Inana and Bilulu: an ulila to Inana,,154,ka[mouth]N gi₄[to-return]V
-c.1.4.4,Inana and Bilulu: an ulila to Inana,,155,i-lu[(sad)-song]N za[you-(sg.)]PD i-lu[(sad)-song]N za[you-(sg.)]PD i-lu[(sad)-song]N dug₄[to-say]V
-c.1.4.4,Inana and Bilulu: an ulila to Inana,,156,šeš[brother]N ŋe₂₆[I]PD i-lu[(sad)-song]N za[you-(sg.)]PD i-lu[(sad)-song]N dug₄[to-say]V
-c.1.4.4,Inana and Bilulu: an ulila to Inana,,157,i-lu[(sad)-song]N za[you-(sg.)]PD i-lu[(sad)-song]N dug₄[to-say]V
-c.1.4.4,Inana and Bilulu: an ulila to Inana,,158,e₂[house(hold)]N Arali[1]GN i-lu[(sad)-song]N za[you-(sg.)]PD i-lu[(sad)-song]N dug₄[to-say]V
-c.1.4.4,Inana and Bilulu: an ulila to Inana,,159,Du-šuba[1]GN i-lu[(sad)-song]N za[you-(sg.)]PD i-lu[(sad)-song]N dug₄[to-say]V
-c.1.4.4,Inana and Bilulu: an ulila to Inana,,160,Bad-tibira[1]SN i-lu[(sad)-song]N za[you-(sg.)]PD i-lu[(sad)-song]N dug₄[to-say]V
-c.1.4.4,Inana and Bilulu: an ulila to Inana,,161,ki[place]N nam-sipad[shepherd's-craft]N i-lu[(sad)-song]N za[you-(sg.)]PD i-lu[(sad)-song]N dug₄[to-say]V
-c.1.4.4,Inana and Bilulu: an ulila to Inana,,162,in-nin[mistress]N mu-ud-na[spouse]N ne-en[this]PD sa₂[to-equal]V
-c.1.4.4,Inana and Bilulu: an ulila to Inana,,163,kug[shining]AJ Inana[1]DN su₈-ba[shepherd]N Dumuzid[1]DN ne-en[this]PD sa₂[to-equal]V
-c.1.4.4,Inana and Bilulu: an ulila to Inana,,164,ki-nu₂[sleeping-quarter]N ze₂-eb[to-be-good]V in-nin[mistress]N
-c.1.4.4,Inana and Bilulu: an ulila to Inana,,165,šu[hand]N ŋar[to-place]V gi₄[to-return]V Inana[1]DN šu[hand]N si[to-fill]V
-c.1.4.4,Inana and Bilulu: an ulila to Inana,,166,i-lu[(sad)-song]N za[you-(sg.)]PD i-lu[(sad)-song]N za[you-(sg.)]PD i-lu[(sad)-song]N dug₄[to-say]V
-c.1.4.4,Inana and Bilulu: an ulila to Inana,,167,i-lu[(sad)-song]N za[you-(sg.)]PD i-lu[(sad)-song]N za[you-(sg.)]PD i-lu[(sad)-song]N dug₄[to-say]V
-c.1.4.4,Inana and Bilulu: an ulila to Inana,,168,ki-ulutim₂[place-of-creation]N i-lu[(sad)-song]N za[you-(sg.)]PD i-lu[(sad)-song]N dug₄[to-say]V
-c.1.4.4,Inana and Bilulu: an ulila to Inana,,169,edin[open-country]N Dumuzid[1]DN i-lu[(sad)-song]N za[you-(sg.)]PD i-lu[(sad)-song]N dug₄[to-say]V
-c.1.4.4,Inana and Bilulu: an ulila to Inana,,170,e₂[house(hold)]N Arali[1]GN i-lu[(sad)-song]N za[you-(sg.)]PD i-lu[(sad)-song]N dug₄[to-say]V
-c.1.4.4,Inana and Bilulu: an ulila to Inana,,171,Du-šuba[1]GN i-lu[(sad)-song]N za[you-(sg.)]PD i-lu[(sad)-song]N dug₄[to-say]V
-c.1.4.4,Inana and Bilulu: an ulila to Inana,,172,Bad-tibira[1]SN i-lu[(sad)-song]N za[you-(sg.)]PD i-lu[(sad)-song]N dug₄[to-say]V
-c.1.4.4,Inana and Bilulu: an ulila to Inana,,173,ki[place]N nam-sipad[shepherd's-craft]N i-lu[(sad)-song]N za[you-(sg.)]PD i-lu[(sad)-song]N dug₄[to-say]V
-c.1.4.4,Inana and Bilulu: an ulila to Inana,,174,Dumuzid[1]DN ne-en[this]PD sa₂[to-equal]V šu[hand]N ŋar[to-place]V gi₄[to-return]V
-c.1.4.4,Inana and Bilulu: an ulila to Inana,,175,Bilulu[1]DN uš₂[to-die]V
-c.1.4.4,Inana and Bilulu: an ulila to Inana,,176,Inana[1]DN sa₂[to-equal]V
-c.1.4.4,Inana and Bilulu: an ulila to Inana,,177,u₃-lil₂-la₂[type-of-composition]N Inana[1]DN
+c.1.4.4,Inana and Bilulu: an ulila to Inana,,150,sux:ki-sikil[young-woman]N sux:u₆[wonder]N sux:dug₄[to-say]V
+c.1.4.4,Inana and Bilulu: an ulila to Inana,,151,sux:Ŋeštin-ana[1]DN
+c.1.4.4,Inana and Bilulu: an ulila to Inana,,152,sux:nu-u₈-gig[high-status-woman]N sux:šu[hand]N sux:šu[hand]N sux:TUR[TUR]V
+c.1.4.4,Inana and Bilulu: an ulila to Inana,,153,sux:teš₂[unity]N sux:ŋar[to-place]V
+c.1.4.4,Inana and Bilulu: an ulila to Inana,,154,sux:ka[mouth]N sux:gi₄[to-return]V
+c.1.4.4,Inana and Bilulu: an ulila to Inana,,155,sux:i-lu[(sad)-song]N sux:za[you-(sg.)]PD sux:i-lu[(sad)-song]N sux:za[you-(sg.)]PD sux:i-lu[(sad)-song]N sux:dug₄[to-say]V
+c.1.4.4,Inana and Bilulu: an ulila to Inana,,156,sux:šeš[brother]N sux:ŋe₂₆[I]PD sux:i-lu[(sad)-song]N sux:za[you-(sg.)]PD sux:i-lu[(sad)-song]N sux:dug₄[to-say]V
+c.1.4.4,Inana and Bilulu: an ulila to Inana,,157,sux:i-lu[(sad)-song]N sux:za[you-(sg.)]PD sux:i-lu[(sad)-song]N sux:dug₄[to-say]V
+c.1.4.4,Inana and Bilulu: an ulila to Inana,,158,sux:e₂[house(hold)]N sux:Arali[1]GN sux:i-lu[(sad)-song]N sux:za[you-(sg.)]PD sux:i-lu[(sad)-song]N sux:dug₄[to-say]V
+c.1.4.4,Inana and Bilulu: an ulila to Inana,,159,sux:Du-šuba[1]GN sux:i-lu[(sad)-song]N sux:za[you-(sg.)]PD sux:i-lu[(sad)-song]N sux:dug₄[to-say]V
+c.1.4.4,Inana and Bilulu: an ulila to Inana,,160,sux:Bad-tibira[1]SN sux:i-lu[(sad)-song]N sux:za[you-(sg.)]PD sux:i-lu[(sad)-song]N sux:dug₄[to-say]V
+c.1.4.4,Inana and Bilulu: an ulila to Inana,,161,sux:ki[place]N sux:nam-sipad[shepherd's-craft]N sux:i-lu[(sad)-song]N sux:za[you-(sg.)]PD sux:i-lu[(sad)-song]N sux:dug₄[to-say]V
+c.1.4.4,Inana and Bilulu: an ulila to Inana,,162,sux:in-nin[mistress]N sux-x-emesal:mu-ud-na[spouse]N sux:ne-en[this]PD sux:sa₂[to-equal]V
+c.1.4.4,Inana and Bilulu: an ulila to Inana,,163,sux:kug[shining]AJ sux-x-emesal:Inana[1]DN sux-x-emesal:su₈-ba[shepherd]N sux:Dumuzid[1]DN sux:ne-en[this]PD sux:sa₂[to-equal]V
+c.1.4.4,Inana and Bilulu: an ulila to Inana,,164,sux:ki-nu₂[sleeping-quarter]N sux-x-emesal:ze₂-eb[to-be-good]V sux:in-nin[mistress]N
+c.1.4.4,Inana and Bilulu: an ulila to Inana,,165,sux:šu[hand]N sux:ŋar[to-place]V sux:gi₄[to-return]V sux-x-emesal:Inana[1]DN sux:šu[hand]N sux:si[to-fill]V
+c.1.4.4,Inana and Bilulu: an ulila to Inana,,166,sux:i-lu[(sad)-song]N sux:za[you-(sg.)]PD sux:i-lu[(sad)-song]N sux:za[you-(sg.)]PD sux:i-lu[(sad)-song]N sux:dug₄[to-say]V
+c.1.4.4,Inana and Bilulu: an ulila to Inana,,167,sux:i-lu[(sad)-song]N sux:za[you-(sg.)]PD sux:i-lu[(sad)-song]N sux:za[you-(sg.)]PD sux:i-lu[(sad)-song]N sux:dug₄[to-say]V
+c.1.4.4,Inana and Bilulu: an ulila to Inana,,168,sux:ki-ulutim₂[place-of-creation]N sux:i-lu[(sad)-song]N sux:za[you-(sg.)]PD sux:i-lu[(sad)-song]N sux:dug₄[to-say]V
+c.1.4.4,Inana and Bilulu: an ulila to Inana,,169,sux:edin[open-country]N sux:Dumuzid[1]DN sux:i-lu[(sad)-song]N sux:za[you-(sg.)]PD sux:i-lu[(sad)-song]N sux:dug₄[to-say]V
+c.1.4.4,Inana and Bilulu: an ulila to Inana,,170,sux:e₂[house(hold)]N sux:Arali[1]GN sux:i-lu[(sad)-song]N sux:za[you-(sg.)]PD sux:i-lu[(sad)-song]N sux:dug₄[to-say]V
+c.1.4.4,Inana and Bilulu: an ulila to Inana,,171,sux:Du-šuba[1]GN sux:i-lu[(sad)-song]N sux:za[you-(sg.)]PD sux:i-lu[(sad)-song]N sux:dug₄[to-say]V
+c.1.4.4,Inana and Bilulu: an ulila to Inana,,172,sux:Bad-tibira[1]SN sux:i-lu[(sad)-song]N sux:za[you-(sg.)]PD sux:i-lu[(sad)-song]N sux:dug₄[to-say]V
+c.1.4.4,Inana and Bilulu: an ulila to Inana,,173,sux:ki[place]N sux:nam-sipad[shepherd's-craft]N sux:i-lu[(sad)-song]N sux:za[you-(sg.)]PD sux:i-lu[(sad)-song]N sux:dug₄[to-say]V
+c.1.4.4,Inana and Bilulu: an ulila to Inana,,174,sux:Dumuzid[1]DN sux:ne-en[this]PD sux:sa₂[to-equal]V sux:šu[hand]N sux:ŋar[to-place]V sux:gi₄[to-return]V
+c.1.4.4,Inana and Bilulu: an ulila to Inana,,175,sux:Bilulu[1]DN sux:uš₂[to-die]V
+c.1.4.4,Inana and Bilulu: an ulila to Inana,,176,sux:Inana[1]DN sux:sa₂[to-equal]V
+c.1.4.4,Inana and Bilulu: an ulila to Inana,,177,sux:u₃-lil₂-la₂[type-of-composition]N sux:Inana[1]DN

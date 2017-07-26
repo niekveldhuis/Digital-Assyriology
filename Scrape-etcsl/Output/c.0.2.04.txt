@@ -1,57 +1,57 @@
 id_text,text_name,version,l_no,text
-c.0.2.04,OB catalogue from Urim (U2),,1,nin[lady]N mul-an[heavenly-star]N
-c.0.2.04,OB catalogue from Urim (U2),,2,bur-šu-um[old-woman]N gal[to-be-big]V
-c.0.2.04,OB catalogue from Urim (U2),,3,zi-ŋal₂[living-creature]N
-c.0.2.04,OB catalogue from Urim (U2),,4,lugal[king]N šag₄[heart]N ur-saŋ[hero]N
-c.0.2.04,OB catalogue from Urim (U2),,5,lugal[king]N mi₂[(loving)-care]N dug₄[to-say]V
-c.0.2.04,OB catalogue from Urim (U2),,6,me-ta[type-of-time-and-place-adverbial]AV di[to-go]V
-c.0.2.04,OB catalogue from Urim (U2),,7,me-ta[type-of-time-and-place-adverbial]AV ŋen[to-go]V
-c.0.2.04,OB catalogue from Urim (U2),,8,nin[lady]N me[essence]N šar₂[to-be-numerous]V
-c.0.2.04,OB catalogue from Urim (U2),,9,en[lord]N kur[(mountain)-land]N lu₂[person]N til₃[to-live]V
-c.0.2.04,OB catalogue from Urim (U2),,10,i₃-a[type-of-exclamation]I lum[to-thrive]V
-c.0.2.04,OB catalogue from Urim (U2),,11,šul[young-man]N me₃[battle]N
-c.0.2.04,OB catalogue from Urim (U2),,12,lu₂-kiŋ₂-gi₄-a[messenger]N
-c.0.2.04,OB catalogue from Urim (U2),,13,in-nin[mistress]N me[essence]N huš[to-be-reddish]V
-c.0.2.04,OB catalogue from Urim (U2),,14,e₂[house(hold)]N ud[storm]N huš[to-be-reddish]V an[heaven]N ki[place]N
-c.0.2.04,OB catalogue from Urim (U2),,15,hur-saŋ[mountain-(range)]N an[heaven]N ki[place]N
-c.0.2.04,OB catalogue from Urim (U2),,16,Enlil[1]DN sud[to-be-distant]V
-c.0.2.04,OB catalogue from Urim (U2),,17,saŋ-ki[forehead]N gid₂[to-be-long]V
-c.0.2.04,OB catalogue from Urim (U2),,18,al[hoe]N al[hoe]N
-c.0.2.04,OB catalogue from Urim (U2),,19,ud[day(light)]N ul[distant-time]N re[that]PD
-c.0.2.04,OB catalogue from Urim (U2),,20,ki-ur₃[foundation]N gal[to-be-big]V
-c.0.2.04,OB catalogue from Urim (U2),,21,E-unir[1]TN
-c.0.2.04,OB catalogue from Urim (U2),,22,An[1]DN nam-nir[authority]N
-c.0.2.04,OB catalogue from Urim (U2),,23,nam₂[lord]N nun[prince]N
-c.0.2.04,OB catalogue from Urim (U2),,24,nam₂[lord]N nun[prince]N saŋ[head]N il₂[to-raise]V
-c.0.2.04,OB catalogue from Urim (U2),,25,nam-lugal[kingship]N
-c.0.2.04,OB catalogue from Urim (U2),,26,šag₄[heart]N
-c.0.2.04,OB catalogue from Urim (U2),,27,an[heaven]N gal[to-be-big]V ki[place]N gal[to-be-big]V
-c.0.2.04,OB catalogue from Urim (U2),,28,ud[day(light)]N re[that]PD nam[destiny]N tar[to-cut]V
-c.0.2.04,OB catalogue from Urim (U2),,29,ud[day(light)]N re[that]PD ud[day(light)]N sud[to-be-distant]V re[that]PD
-c.0.2.04,OB catalogue from Urim (U2),,30,ud[day(light)]N re[that]PD niŋ₂-ul[distant-time]N
+c.0.2.04,OB catalogue from Urim (U2),,1,sux:nin[lady]N sux:mul-an[heavenly-star]N
+c.0.2.04,OB catalogue from Urim (U2),,2,sux:bur-šu-um[old-woman]N sux:gal[to-be-big]V
+c.0.2.04,OB catalogue from Urim (U2),,3,sux:zi-ŋal₂[living-creature]N
+c.0.2.04,OB catalogue from Urim (U2),,4,sux:lugal[king]N sux:šag₄[heart]N sux:ur-saŋ[hero]N
+c.0.2.04,OB catalogue from Urim (U2),,5,sux:lugal[king]N sux:mi₂[(loving)-care]N sux:dug₄[to-say]V
+c.0.2.04,OB catalogue from Urim (U2),,6,sux:me-ta[type-of-time-and-place-adverbial]AV sux-x-emesal:di[to-go]V
+c.0.2.04,OB catalogue from Urim (U2),,7,sux:me-ta[type-of-time-and-place-adverbial]AV sux:ŋen[to-go]V
+c.0.2.04,OB catalogue from Urim (U2),,8,sux:nin[lady]N sux:me[essence]N sux:šar₂[to-be-numerous]V
+c.0.2.04,OB catalogue from Urim (U2),,9,sux:en[lord]N sux:kur[(mountain)-land]N sux:lu₂[person]N sux:til₃[to-live]V
+c.0.2.04,OB catalogue from Urim (U2),,10,sux:i₃-a[type-of-exclamation]I sux:lum[to-thrive]V
+c.0.2.04,OB catalogue from Urim (U2),,11,sux:šul[young-man]N sux:me₃[battle]N
+c.0.2.04,OB catalogue from Urim (U2),,12,sux:lu₂-kiŋ₂-gi₄-a[messenger]N
+c.0.2.04,OB catalogue from Urim (U2),,13,sux:in-nin[mistress]N sux:me[essence]N sux:huš[to-be-reddish]V
+c.0.2.04,OB catalogue from Urim (U2),,14,sux:e₂[house(hold)]N sux:ud[storm]N sux:huš[to-be-reddish]V sux:an[heaven]N sux:ki[place]N
+c.0.2.04,OB catalogue from Urim (U2),,15,sux:hur-saŋ[mountain-(range)]N sux:an[heaven]N sux:ki[place]N
+c.0.2.04,OB catalogue from Urim (U2),,16,sux:Enlil[1]DN sux:sud[to-be-distant]V
+c.0.2.04,OB catalogue from Urim (U2),,17,sux:saŋ-ki[forehead]N sux:gid₂[to-be-long]V
+c.0.2.04,OB catalogue from Urim (U2),,18,sux:al[hoe]N sux:al[hoe]N
+c.0.2.04,OB catalogue from Urim (U2),,19,sux:ud[day(light)]N sux:ul[distant-time]N sux:re[that]PD
+c.0.2.04,OB catalogue from Urim (U2),,20,sux:ki-ur₃[foundation]N sux:gal[to-be-big]V
+c.0.2.04,OB catalogue from Urim (U2),,21,sux:E-unir[1]TN
+c.0.2.04,OB catalogue from Urim (U2),,22,sux:An[1]DN sux:nam-nir[authority]N
+c.0.2.04,OB catalogue from Urim (U2),,23,sux:nam₂[lord]N sux:nun[prince]N
+c.0.2.04,OB catalogue from Urim (U2),,24,sux:nam₂[lord]N sux:nun[prince]N sux:saŋ[head]N sux:il₂[to-raise]V
+c.0.2.04,OB catalogue from Urim (U2),,25,sux:nam-lugal[kingship]N
+c.0.2.04,OB catalogue from Urim (U2),,26,sux:šag₄[heart]N
+c.0.2.04,OB catalogue from Urim (U2),,27,sux:an[heaven]N sux:gal[to-be-big]V sux:ki[place]N sux:gal[to-be-big]V
+c.0.2.04,OB catalogue from Urim (U2),,28,sux:ud[day(light)]N sux:re[that]PD sux:nam[destiny]N sux:tar[to-cut]V
+c.0.2.04,OB catalogue from Urim (U2),,29,sux:ud[day(light)]N sux:re[that]PD sux:ud[day(light)]N sux:sud[to-be-distant]V sux:re[that]PD
+c.0.2.04,OB catalogue from Urim (U2),,30,sux:ud[day(light)]N sux:re[that]PD sux:niŋ₂-ul[distant-time]N
 c.0.2.04,OB catalogue from Urim (U2),,31,
-c.0.2.04,OB catalogue from Urim (U2),,32,di₄-di₄[to-be-small]V ud[day(light)]N
-c.0.2.04,OB catalogue from Urim (U2),,33,3[3]NU dumu[child]N e₂-dub-ba-a[scribal-school]N
+c.0.2.04,OB catalogue from Urim (U2),,32,sux:di₄-di₄[to-be-small]V sux:ud[day(light)]N
+c.0.2.04,OB catalogue from Urim (U2),,33,sux:3[3]NU sux:dumu[child]N sux:e₂-dub-ba-a[scribal-school]N
 c.0.2.04,OB catalogue from Urim (U2),,34,
-c.0.2.04,OB catalogue from Urim (U2),,35,Ud-ul-uru[1]PN
-c.0.2.04,OB catalogue from Urim (U2),,36,in-nin[mistress]N me[essence]N gal[to-be-big]V
-c.0.2.04,OB catalogue from Urim (U2),,37,ud[day(light)]N ul[distant-time]N an[heaven]N ki[place]N
-c.0.2.04,OB catalogue from Urim (U2),,38,mah[to-be-majestic]V ki[place]N
-c.0.2.04,OB catalogue from Urim (U2),,39,Lugalbanda[1]DN
-c.0.2.04,OB catalogue from Urim (U2),,40,iri[town]N gud[bull]N huš[to-be-reddish]V
-c.0.2.04,OB catalogue from Urim (U2),,41,lugal[king]N ud[storm]N me-lem₄[(awesome)-radiance]N nir-ŋal₂[authoritative]AJ
-c.0.2.04,OB catalogue from Urim (U2),,42,An[1]DN dim₂[to-create]V
-c.0.2.04,OB catalogue from Urim (U2),,43,11[11]NU lugal[king]N
-c.0.2.04,OB catalogue from Urim (U2),,44,tur₃[animal-stall]N
-c.0.2.04,OB catalogue from Urim (U2),,45,ud[day(light)]N šu[hand]N bal[to-turn-over]V ak[to-do]V
-c.0.2.04,OB catalogue from Urim (U2),,46,ud[storm]N huš[to-be-reddish]V Sumer[1]GN
-c.0.2.04,OB catalogue from Urim (U2),,47,ur-saŋ[hero]N
-c.0.2.04,OB catalogue from Urim (U2),,48,ud[day(light)]N
-c.0.2.04,OB catalogue from Urim (U2),,49,ud[day(light)]N An[1]DN
+c.0.2.04,OB catalogue from Urim (U2),,35,sux:Ud-ul-uru[1]PN
+c.0.2.04,OB catalogue from Urim (U2),,36,sux:in-nin[mistress]N sux:me[essence]N sux:gal[to-be-big]V
+c.0.2.04,OB catalogue from Urim (U2),,37,sux:ud[day(light)]N sux:ul[distant-time]N sux:an[heaven]N sux:ki[place]N
+c.0.2.04,OB catalogue from Urim (U2),,38,sux:mah[to-be-majestic]V sux:ki[place]N
+c.0.2.04,OB catalogue from Urim (U2),,39,sux:Lugalbanda[1]DN
+c.0.2.04,OB catalogue from Urim (U2),,40,sux:iri[town]N sux:gud[bull]N sux:huš[to-be-reddish]V
+c.0.2.04,OB catalogue from Urim (U2),,41,sux:lugal[king]N sux:ud[storm]N sux:me-lem₄[(awesome)-radiance]N sux:nir-ŋal₂[authoritative]AJ
+c.0.2.04,OB catalogue from Urim (U2),,42,sux:An[1]DN sux:dim₂[to-create]V
+c.0.2.04,OB catalogue from Urim (U2),,43,sux:11[11]NU sux:lugal[king]N
+c.0.2.04,OB catalogue from Urim (U2),,44,sux:tur₃[animal-stall]N
+c.0.2.04,OB catalogue from Urim (U2),,45,sux:ud[day(light)]N sux:šu[hand]N sux:bal[to-turn-over]V sux:ak[to-do]V
+c.0.2.04,OB catalogue from Urim (U2),,46,sux:ud[storm]N sux:huš[to-be-reddish]V sux:Sumer[1]GN
+c.0.2.04,OB catalogue from Urim (U2),,47,sux:ur-saŋ[hero]N
+c.0.2.04,OB catalogue from Urim (U2),,48,sux:ud[day(light)]N
+c.0.2.04,OB catalogue from Urim (U2),,49,sux:ud[day(light)]N sux:An[1]DN
 c.0.2.04,OB catalogue from Urim (U2),,50,
-c.0.2.04,OB catalogue from Urim (U2),,51,Enlil[1]DN dirig[to-be-superior]V
-c.0.2.04,OB catalogue from Urim (U2),,52,ku₆[fish]N e₂[house(hold)]N du₃[to-erect]V
-c.0.2.04,OB catalogue from Urim (U2),,53,ur-saŋ[hero]N kur[(mountain)-land]N
-c.0.2.04,OB catalogue from Urim (U2),,54,iri[town]N er₂[tear]N a-nir[lament]N
-c.0.2.04,OB catalogue from Urim (U2),,55,lu₂[person]N i-lu[(sad)-song]N dug₄[to-say]V
-c.0.2.04,OB catalogue from Urim (U2),,56,šu-niŋin₂[total]N 67[67]NU
+c.0.2.04,OB catalogue from Urim (U2),,51,sux:Enlil[1]DN sux:dirig[to-be-superior]V
+c.0.2.04,OB catalogue from Urim (U2),,52,sux:ku₆[fish]N sux:e₂[house(hold)]N sux:du₃[to-erect]V
+c.0.2.04,OB catalogue from Urim (U2),,53,sux:ur-saŋ[hero]N sux:kur[(mountain)-land]N
+c.0.2.04,OB catalogue from Urim (U2),,54,sux:iri[town]N sux:er₂[tear]N sux:a-nir[lament]N
+c.0.2.04,OB catalogue from Urim (U2),,55,sux:lu₂[person]N sux:i-lu[(sad)-song]N sux:dug₄[to-say]V
+c.0.2.04,OB catalogue from Urim (U2),,56,sux:šu-niŋin₂[total]N sux:67[67]NU

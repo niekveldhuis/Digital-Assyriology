@@ -1,14 +1,14 @@
 id_text,text_name,version,l_no,text
-c.2.8.2.2,A prayer to Enki for Hammu-rābi (Hammu-rābi B),,1,Lugal-Šubur[1]DN men[diadem]N edin[open-country]N nam-lugal[kingship]N saŋ[head]N ŋal₂[to-be-(located)]V
-c.2.8.2.2,A prayer to Enki for Hammu-rābi (Hammu-rābi B),,2,Enki[1]DN en[lord]N nam-til₃[life]N nam-til₃[life]N
-c.2.8.2.2,A prayer to Enki for Hammu-rābi (Hammu-rābi B),,3,E-unir[1]TN e₂[house(hold)]N ŋiš-hur[design]N an[heaven]N ki[place]N me[essence]N šar₂[to-be-numerous]V u₅[to-ride]V
-c.2.8.2.2,A prayer to Enki for Hammu-rābi (Hammu-rābi B),,4,suh₁₀[crown]N nam-en[high-(priestly)-office]N ni₂[fear(someness)]N me-lem₄[(awesome)-radiance]N dul[to-cover-(together)]V
-c.2.8.2.2,A prayer to Enki for Hammu-rābi (Hammu-rābi B),,5,me[essence]N nam-lugal[kingship]N pa[branch]N e₃[to-go-out-or-in]V ak[to-do]V
-c.2.8.2.2,A prayer to Enki for Hammu-rābi (Hammu-rābi B),,6,ŋiš-hur[design]N nam-en[high-(priestly)-office]N gi₁₆-sa[(everlasting)-treasure]N la₂[to-hang]V
-c.2.8.2.2,A prayer to Enki for Hammu-rābi (Hammu-rābi B),,7,mu₇-mu₇[incantation]N nam-til₃[life]N mi₂[(loving)-care]N zid[right]AJ dug₄[to-say]V nam[destiny]N su₃-ud-ŋal₂[long-lasting]AJ tah[to-add]V
-c.2.8.2.2,A prayer to Enki for Hammu-rābi (Hammu-rābi B),,8,mu[name]N pad₃[to-find]V mu[name]N pad₃[to-find]V su[flesh]N Enki[1]DN dug₃[to-be-good]V
-c.2.8.2.2,A prayer to Enki for Hammu-rābi (Hammu-rābi B),,9,ŋeštug₂[ear]N ŋizzal[hearing]N šu[hand]N zid[right]AJ ŋar[to-place]V
-c.2.8.2.2,A prayer to Enki for Hammu-rābi (Hammu-rābi B),,10,niŋ₂[thing]N du-ri₂[eternity]N kur₂[to-be-different]V mu[name]N nam-lugal[kingship]N
-c.2.8.2.2,A prayer to Enki for Hammu-rābi (Hammu-rābi B),,11,a-a[father]N Enki[1]DN mu[year]N nam-til₃[life]N sud[to-be-distant]V
-c.2.8.2.2,A prayer to Enki for Hammu-rābi (Hammu-rābi B),,12,kur[(mountain)-land]N kilib₃[entirety]N nam-en[high-(priestly)-office]N rig₇[to-bestow]V
-c.2.8.2.2,A prayer to Enki for Hammu-rābi (Hammu-rābi B),,13,Hammu-rābi[1]RN lugal[king]N
+c.2.8.2.2,A prayer to Enki for Hammu-rābi (Hammu-rābi B),,1,sux:Lugal-Šubur[1]DN sux:men[diadem]N sux:edin[open-country]N sux:nam-lugal[kingship]N sux:saŋ[head]N sux:ŋal₂[to-be-(located)]V
+c.2.8.2.2,A prayer to Enki for Hammu-rābi (Hammu-rābi B),,2,sux:Enki[1]DN sux:en[lord]N sux:nam-til₃[life]N sux:nam-til₃[life]N
+c.2.8.2.2,A prayer to Enki for Hammu-rābi (Hammu-rābi B),,3,sux:E-unir[1]TN sux:e₂[house(hold)]N sux:ŋiš-hur[design]N sux:an[heaven]N sux:ki[place]N sux:me[essence]N sux:šar₂[to-be-numerous]V sux:u₅[to-ride]V
+c.2.8.2.2,A prayer to Enki for Hammu-rābi (Hammu-rābi B),,4,sux:suh₁₀[crown]N sux:nam-en[high-(priestly)-office]N sux:ni₂[fear(someness)]N sux:me-lem₄[(awesome)-radiance]N sux:dul[to-cover-(together)]V
+c.2.8.2.2,A prayer to Enki for Hammu-rābi (Hammu-rābi B),,5,sux:me[essence]N sux:nam-lugal[kingship]N sux:pa[branch]N sux:e₃[to-go-out-or-in]V sux:ak[to-do]V
+c.2.8.2.2,A prayer to Enki for Hammu-rābi (Hammu-rābi B),,6,sux:ŋiš-hur[design]N sux:nam-en[high-(priestly)-office]N sux:gi₁₆-sa[(everlasting)-treasure]N sux:la₂[to-hang]V
+c.2.8.2.2,A prayer to Enki for Hammu-rābi (Hammu-rābi B),,7,sux:mu₇-mu₇[incantation]N sux:nam-til₃[life]N sux:mi₂[(loving)-care]N sux:zid[right]AJ sux:dug₄[to-say]V sux:nam[destiny]N sux:su₃-ud-ŋal₂[long-lasting]AJ sux:tah[to-add]V
+c.2.8.2.2,A prayer to Enki for Hammu-rābi (Hammu-rābi B),,8,sux:mu[name]N sux:pad₃[to-find]V sux:mu[name]N sux:pad₃[to-find]V sux:su[flesh]N sux:Enki[1]DN sux:dug₃[to-be-good]V
+c.2.8.2.2,A prayer to Enki for Hammu-rābi (Hammu-rābi B),,9,sux:ŋeštug₂[ear]N sux:ŋizzal[hearing]N sux:šu[hand]N sux:zid[right]AJ sux:ŋar[to-place]V
+c.2.8.2.2,A prayer to Enki for Hammu-rābi (Hammu-rābi B),,10,sux:niŋ₂[thing]N sux:du-ri₂[eternity]N sux:kur₂[to-be-different]V sux:mu[name]N sux:nam-lugal[kingship]N
+c.2.8.2.2,A prayer to Enki for Hammu-rābi (Hammu-rābi B),,11,sux:a-a[father]N sux:Enki[1]DN sux:mu[year]N sux:nam-til₃[life]N sux:sud[to-be-distant]V
+c.2.8.2.2,A prayer to Enki for Hammu-rābi (Hammu-rābi B),,12,sux:kur[(mountain)-land]N sux:kilib₃[entirety]N sux:nam-en[high-(priestly)-office]N sux:rig₇[to-bestow]V
+c.2.8.2.2,A prayer to Enki for Hammu-rābi (Hammu-rābi B),,13,sux:Hammu-rābi[1]RN sux:lugal[king]N

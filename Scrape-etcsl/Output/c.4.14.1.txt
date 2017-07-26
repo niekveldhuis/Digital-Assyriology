@@ -1,257 +1,257 @@
 id_text,text_name,version,l_no,text
-c.4.14.1,A hymn to Nanše (Nanše A),,1,iri[town]N me[to-be]V iri[town]N me[to-be]V me[essence]N pad₃[to-find]V
-c.4.14.1,A hymn to Nanše (Nanše A),,2,Niŋin[1]SN iri[town]N me[to-be]V me[essence]N pad₃[to-find]V
-c.4.14.1,A hymn to Nanše (Nanše A),,3,iri[town]N kug[shining]AJ iri[town]N me[to-be]V me[essence]N pad₃[to-find]V
-c.4.14.1,A hymn to Nanše (Nanše A),,4,kur[(mountain)-land]N a[water]N il₂[to-raise]V iri[town]N me[to-be]V me[essence]N pad₃[to-find]V
-c.4.14.1,A hymn to Nanše (Nanše A),,5,e₂[house(hold)]N zid[right]AJ ud[day(light)]N e₃[to-go-out-or-in]V nam[destiny]N tar[to-cut]V
-c.4.14.1,A hymn to Nanše (Nanše A),,6,iri[town]N niŋ₂-du₇[propriety]N pa[branch]N e₃[to-go-out-or-in]V
-c.4.14.1,A hymn to Nanše (Nanše A),,7,ŋarza[rite]N ama[mother]N Nanše[1]DN si[horn]N sa₂[to-equal]V
-c.4.14.1,A hymn to Nanše (Nanše A),,8,nin[lady]N dumu[child]N Eridug[1]SN tud[to-give-birth]V
-c.4.14.1,A hymn to Nanše (Nanše A),,9,Nanše[1]DN nin[lady]N me[essence]N kal[to-be-rare]V ki[place]N gi₄[to-return]V
-c.4.14.1,A hymn to Nanše (Nanše A),,10,agarin₄[matrix]N me[to-be]V ama[mother]N sa-hi-in[yeast]N me[to-be]V
-c.4.14.1,A hymn to Nanše (Nanše A),,11,Nanše[1]DN ama[mother]N niŋ₂[thing]N gal[to-be-big]V me[to-be]V
-c.4.14.1,A hymn to Nanše (Nanše A),,12,e₂-mi₂[woman's-estate]N kalam[the-Land]N dugud[to-be-heavy]V ŋal₂[to-be-(located)]V
-c.4.14.1,A hymn to Nanše (Nanše A),,13,erim₃[storehouse]N šim[aromatic-(fragrance)]N lal₃[syrup]N šu[hand]N ta-hab₂[to-thicken?]V dug₄[to-say]V
-c.4.14.1,A hymn to Nanše (Nanše A),,14,dug[pot]N a[water]N silig[to-cease]V gub[to-stand]V
-c.4.14.1,A hymn to Nanše (Nanše A),,15,pisaŋ[basket]N niŋ₂[thing]N erim₃[storehouse]N kalam[the-Land]N
-c.4.14.1,A hymn to Nanše (Nanše A),,16,Nanše[1]DN sahar-ŋar[silt]N id₂[watercourse]N ki[place]N us₂[to-be-adjacent]V
-c.4.14.1,A hymn to Nanše (Nanše A),,17,nin[lady]N dub-dim₄-dub-dim₄[meaning-unknown]N
-c.4.14.1,A hymn to Nanše (Nanše A),,18,ŋalga[reason]N niŋ₂[thing]N Aratta[1]SN
-c.4.14.1,A hymn to Nanše (Nanše A),,19,Nanše[1]DN nin[lady]N pa₄-ugur₂[meadow-channel]N pa₅[canal]N an[heaven]N ŋal₂[to-be-(located)]V
-c.4.14.1,A hymn to Nanše (Nanše A),,20,nu-siki[orphan]N zu[to-know]V nu-mu-un-su[widow]N zu[to-know]V
-c.4.14.1,A hymn to Nanše (Nanše A),,21,lu₂[person]N lu₂[person]N a₂[arm]N ŋal₂[to-be-(located)]V zu[to-know]V nu-siki[orphan]N ama[mother]N
-c.4.14.1,A hymn to Nanše (Nanše A),,22,Nanše[1]DN nu-mu-un-su[widow]N saŋ[head]N en₃[noun-part-of-multiword-verb]N tar[to-cut]V
-c.4.14.1,A hymn to Nanše (Nanše A),,23,e₂[house(hold)]N ur₅[financial-obligation]N sa₂[advice]N pad₃[to-find]V
-c.4.14.1,A hymn to Nanše (Nanše A),,24,nin[lady]N lu₂-kar-ra[fugitive]N ur₂[root]N de₆[to-carry]V
-c.4.14.1,A hymn to Nanše (Nanše A),,25,sig[to-be-low]V ki[place]N kiŋ₂[to-seek]V
-c.4.14.1,A hymn to Nanše (Nanše A),,26,gi-gur[capacity-measure-(container)]N šu[hand]N DU[DU]V buluŋ₃[to-flourish]V
-c.4.14.1,A hymn to Nanše (Nanše A),,27,šaŋan[flask]N šu[hand]N DU[DU]V kug-dun[profit]N tuku[to-have]V
-c.4.14.1,A hymn to Nanše (Nanše A),,28,geme₂[female-slave]N si[horn]N sa₂[to-equal]V ŋiri₃[foot]N dab₅[to-seize]V
-c.4.14.1,A hymn to Nanše (Nanše A),,29,Nanše[1]DN šul[young-man]N a₂[arm]N zid[right]AJ tuku[to-have]V saŋ₅[to-choose]V
-c.4.14.1,A hymn to Nanše (Nanše A),,30,nu-mu-un-su[widow]N lu₂[person]N dam[spouse]N tuku[to-have]V
-c.4.14.1,A hymn to Nanše (Nanše A),,31,Nanše[1]DN ŋiš-ur₃[(roof)beam]N e₂[house(hold)]N zid[right]AJ guru₃[to-bear]V
-c.4.14.1,A hymn to Nanše (Nanše A),,32,nin[lady]N niŋ₂-du₇[propriety]N pa[branch]N e₃[to-go-out-or-in]V
-c.4.14.1,A hymn to Nanše (Nanše A),,33,Nanše[1]DN Lagaš[1]SN he₂-ŋal₂[plenty]N šu[hand]N peš[to-be-thick]V
-c.4.14.1,A hymn to Nanše (Nanše A),,34,šennu[type-of-priest]N šag₄[heart]N kug[shining]AJ pad₃[to-find]V
-c.4.14.1,A hymn to Nanše (Nanše A),,35,Ur-Nanše[1]RN en[lord]N ki[place]N aŋ₂[to-measure]V Lagaš[1]SN barag[dais]N si[to-fill]V
-c.4.14.1,A hymn to Nanše (Nanše A),,36,sipad[shepherd]N ŋidru[sceptre]N mah[to-be-majestic]V šum₂[to-give]V
-c.4.14.1,A hymn to Nanše (Nanše A),,37,Gudea[1]RN me[essence]N kal[to-be-rare]V šu[hand]N du₇[to-be-perfect]V
-c.4.14.1,A hymn to Nanše (Nanše A),,38,sipad[shepherd]N šag₄[heart]N kug[shining]AJ pad₃[to-find]V
-c.4.14.1,A hymn to Nanše (Nanše A),,39,Gudea[1]RN ensi₂[(city)-ruler]N Lagaš[1]SN
-c.4.14.1,A hymn to Nanše (Nanše A),,40,ab₂[cow]N he-nun[abundance]N tigi[type-of-instrument-and-composition]N gub[to-stand]V
-c.4.14.1,A hymn to Nanše (Nanše A),,41,balaŋ[type-of-instrument-and-composition]N kug[shining]AJ da[side]N gub[to-stand]V
-c.4.14.1,A hymn to Nanše (Nanše A),,42,šir₃[song]N kug[shining]AJ šir₃[song]N ha-mun[harmony]N du₁₂[to-perform-(music)]V
-c.4.14.1,A hymn to Nanše (Nanše A),,43,kiŋ₂-tur[type-of-instrument]N e₂[house(hold)]N i[to-bring-out]V
-c.4.14.1,A hymn to Nanše (Nanše A),,44,a₂[arm]N tarah[wild-goat]N nar[musician]N gal[to-be-big]V šu[hand]N tag[to-touch]V
-c.4.14.1,A hymn to Nanše (Nanše A),,45,e₂[house(hold)]N abzu[underground-water]N me[essence]N ba[to-allot]V
-c.4.14.1,A hymn to Nanše (Nanše A),,46,e₂[house(hold)]N Sirara[1]SN šir₃[song]N kug[shining]AJ me[essence]N nun[prince]N du₁₂[to-perform-(music)]V
-c.4.14.1,A hymn to Nanše (Nanše A),,47,ensi[dream-interpreter]N nesaŋ[(first-fruit)-offering]N ŋen[to-go]V
-c.4.14.1,A hymn to Nanše (Nanše A),,48,eš₂-da[(sacred)-goblet]N kug[precious-metal]N mul[to-radiate]V šu[hand]N du₈[to-spread]V
-c.4.14.1,A hymn to Nanše (Nanše A),,49,engiz[temple-cook]N
-c.4.14.1,A hymn to Nanše (Nanše A),,50,ninda[bread]N kum₂[to-be-hot]V ninda[bread]N ten[to-extinguish]V si[horn]N sa₂[to-equal]V
-c.4.14.1,A hymn to Nanše (Nanše A),,51,gir₄[oven]N DU[DU]V
-c.4.14.1,A hymn to Nanše (Nanše A),,52,mar[spade]N mah[to-be-majestic]V gu₃[voice]N nun[prince]N dug₄[to-say]V
-c.4.14.1,A hymn to Nanše (Nanše A),,53,niŋ₂-šum-ma[meat]N utul₂[tureen]N gal[to-be-big]V de₆[to-carry]V
-c.4.14.1,A hymn to Nanše (Nanše A),,54,a[water]N sed₄[to-be-cold]V Id-Sirara[1]WN de₆[to-carry]V
-c.4.14.1,A hymn to Nanše (Nanše A),,55,niŋ₂[thing]N asila[rejoicing]N Lagaš[1]SN de₆[to-carry]V
-c.4.14.1,A hymn to Nanše (Nanše A),,56,kurun[type-of-beer]N a₂-dam[habitation]N de₆[to-carry]V
-c.4.14.1,A hymn to Nanše (Nanše A),,57,gir₄[oven]N gal[to-be-big]V unu₂[(dining)-hall]N gal[to-be-big]V sa₂[to-equal]V
-c.4.14.1,A hymn to Nanše (Nanše A),,58,Nanše[1]DN eš₃[shrine]N nidba[(food)-offering]N šeg₁₁[loud-noise]N gi₄[to-return]V
-c.4.14.1,A hymn to Nanše (Nanše A),,59,nin[lady]N bur-šu-um[old-woman]N Enlil[1]DN
-c.4.14.1,A hymn to Nanše (Nanše A),,60,Nanše[1]DN nin[lady]N he₂-ŋal₂[plenty]N kalam[the-Land]N til₃[to-live]V
-c.4.14.1,A hymn to Nanše (Nanše A),,61,TUM.GAG.MUNUS[meaning-unknown]N dumu[child]N Enki[1]DN
-c.4.14.1,A hymn to Nanše (Nanše A),,62,munus[woman]N zid[right]AJ e₂[house(hold)]N zid[right]AJ lu₂[person]N ŋar[to-place]V
-c.4.14.1,A hymn to Nanše (Nanše A),,63,munus[woman]N zid[right]AJ e₂[house(hold)]N zid[right]AJ lu₂[person]N ŋar[to-place]V
-c.4.14.1,A hymn to Nanše (Nanše A),,64,bur-saŋ[type-of-shrine]N sa₂-dug₄[regular-offering]N niŋ₂[thing]N ud[day(light)]N e₂[house(hold)]N si[horn]N sa₂[to-equal]V
-c.4.14.1,A hymn to Nanše (Nanše A),,65,lu[to-be-abundant]V še[barley]N sig₉[to-put]V
-c.4.14.1,A hymn to Nanše (Nanše A),,66,dug[pot]N sud[to-be-distant]V a[water]N de₂[to-pour]V
-c.4.14.1,A hymn to Nanše (Nanše A),,67,lu₂[person]N sa₂-dug₄[regular-offering]N gub[to-stand]V šu[hand]N dirig[to-be-superior]V gid₂[to-be-long]V
-c.4.14.1,A hymn to Nanše (Nanše A),,68,u₂[plant]N ba[to-allot]V a[water]N ba[to-allot]V
-c.4.14.1,A hymn to Nanše (Nanše A),,69,sa₂-dug₄[regular-offering]N taka₄[to-leave-behind]V e₂[house(hold)]N muš₃[face]N de₆[to-carry]V
-c.4.14.1,A hymn to Nanše (Nanše A),,70,ku₆[fish]N zag[side]N saŋ[head]N zig₃[to-rise]V
-c.4.14.1,A hymn to Nanše (Nanše A),,71,en₃-bar[marsh-reed]N iku[area-measure]N 1[1]NU saŋ[head]N gid₂[to-be-long]V
-c.4.14.1,A hymn to Nanše (Nanše A),,72,ešₓ[almond-(tree)]N u₂[plant]N sig₇[to-be-green]V kiri₆[orchard]N šag₄[heart]N šu[hand]N te[to-approach]V
-c.4.14.1,A hymn to Nanše (Nanše A),,73,dib[to-pass]V ka[mouth]N tag[to-touch]V
-c.4.14.1,A hymn to Nanše (Nanše A),,74,ninda[bread]N eš₃[shrine]N dag-gi₄[city-quarter]N nidba[(food)-offering]N il₂[to-raise]V
-c.4.14.1,A hymn to Nanše (Nanše A),,75,kaš[beer]N saŋ[head]N šum₂[to-give]V lu₂[person]N DU[DU]V a[water]N sed₄[to-be-cold]V šu[hand]N DU[DU]V
-c.4.14.1,A hymn to Nanše (Nanše A),,76,nesaŋ[(first-fruit)-offering]N ŋar[to-place]V si[horn]N sa₂[to-equal]V muš₃[face]N de₆[to-carry]V
-c.4.14.1,A hymn to Nanše (Nanše A),,77,i₃[fatty-substance]N guru₃[to-bear]V me[to-be]V e₂[house(hold)]N i₃[fatty-substance]N dib[to-pass]V
-c.4.14.1,A hymn to Nanše (Nanše A),,78,ga[milk]N guru₃[to-bear]V me[to-be]V e₂[house(hold)]N ga[milk]N dib[to-pass]V
-c.4.14.1,A hymn to Nanše (Nanše A),,79,ku₆[fish]N kaš₄[to-run]V lu₂[person]N a₂[arm]N ud[day(light)]N me[to-be]V
-c.4.14.1,A hymn to Nanše (Nanše A),,80,u₂[plant]N il₂[to-raise]V edin[open-country]N niŋ₂-tum₂[delivery]N
-c.4.14.1,A hymn to Nanše (Nanše A),,81,e₂[house(hold)]N nin[lady]N dib[to-pass]V
-c.4.14.1,A hymn to Nanše (Nanše A),,82,ub[corner]N gub[to-stand]V da[side]N gub[to-stand]V
-c.4.14.1,A hymn to Nanše (Nanše A),,83,eme[tongue]N ŋal₂[to-be-(located)]V inim[word]N gen₆[to-be-firm]V inim[word]N kur₂[to-be-different]V dug₄[to-say]V
-c.4.14.1,A hymn to Nanše (Nanše A),,84,e₂[house(hold)]N Nanše[1]DN bar[outside]N kur₉[to-enter]V šag₄[heart]N e₃[to-go-out-or-in]V
-c.4.14.1,A hymn to Nanše (Nanše A),,85,saŋ[head]N en₃[noun-part-of-multiword-verb]N tar[to-cut]V e₂[house(hold)]N Nanše[1]DN dumu[child]N Utu[1]DN tud[to-give-birth]V
-c.4.14.1,A hymn to Nanše (Nanše A),,86,inim[word]N en[lord]N Hendursaŋa[1]DN us₂[to-be-adjacent]V ra[to-beat]V
-c.4.14.1,A hymn to Nanše (Nanše A),,87,lugal[king]N zid[right]AJ dug₄[to-say]V zu[to-know]V erim₂[enemy]N dug₄[to-say]V zu[to-know]V
-c.4.14.1,A hymn to Nanše (Nanše A),,88,Hendursaŋa[1]DN zid[right]AJ dug₄[to-say]V zu[to-know]V erim₂[enemy]N dug₄[to-say]V zu[to-know]V
-c.4.14.1,A hymn to Nanše (Nanše A),,89,dug₄[to-say]V erim₂[enemy]N gib[to-lie-across-(obstructively)]V ŋiš[tree]N du₃[to-erect]V
-c.4.14.1,A hymn to Nanše (Nanše A),,90,Nin-X[1]DN dumu[child]N ur-saŋ[hero]N šul[young-man]N Suen[1]DN
-c.4.14.1,A hymn to Nanše (Nanše A),,91,Nanše[1]DN inim-ŋar[(oracular)-utterance]N hul[to-be-bad]V du₃[to-erect]V
-c.4.14.1,A hymn to Nanše (Nanše A),,92,nin[lady]N dug₄[to-say]V zid[right]AJ me[essence]N kar₂[to-blow]V
-c.4.14.1,A hymn to Nanše (Nanše A),,93,Nanše[1]DN kur[(mountain)-land]N me-teš₂[praise]N i[to-bring-out]V
-c.4.14.1,A hymn to Nanše (Nanše A),,94,zag-mu[new-year]N ud[day(light)]N ŋarza[rite]N
-c.4.14.1,A hymn to Nanše (Nanše A),,95,nin[lady]N bar[outside]N kug[shining]AJ a[water]N de₂[to-pour]V
-c.4.14.1,A hymn to Nanše (Nanše A),,96,ud[day(light)]N bur[type-of-bowl]N šukur₂[ration]N igi[eye]N kar₂[to-blow]V
-c.4.14.1,A hymn to Nanše (Nanše A),,97,Nanše[1]DN saŋ[head]N kurum₇[inspection]N igi[eye]N kar₂[to-blow]V
-c.4.14.1,A hymn to Nanše (Nanše A),,98,dub-sar[scribe]N mah[to-be-majestic]V Nisaba[1]DN
-c.4.14.1,A hymn to Nanše (Nanše A),,99,dub[tablet]N kal[to-be-rare]V dub₃[knee]N ŋar[to-place]V
-c.4.14.1,A hymn to Nanše (Nanše A),,100,gi-dub-ba[stylus]N kug-sig₁₇[gold]N šu[hand]N te[to-approach]V
-c.4.14.1,A hymn to Nanše (Nanše A),,101,Nanše[1]DN saŋ[head]N gu[(flax)-thread]N dili[single]AJ si[horn]N sa₂[to-equal]V
-c.4.14.1,A hymn to Nanše (Nanše A),,102,kuš[skin]N la₂[to-hang]V kuš[skin]N kur₉[to-enter]V
-c.4.14.1,A hymn to Nanše (Nanše A),,103,gada[linen-(fibre)]N la₂[to-hang]V gada[linen-(fibre)]N dib[to-pass]V
-c.4.14.1,A hymn to Nanše (Nanše A),,104,kuš[skin]N la₂[to-hang]V kuš[skin]N kur₉[to-enter]V
-c.4.14.1,A hymn to Nanše (Nanše A),,105,gada[linen-(fibre)]N la₂[to-hang]V gada[linen-(fibre)]N dib[to-pass]V
-c.4.14.1,A hymn to Nanše (Nanše A),,106,lu₂[person]N dub[tablet]N gub[to-stand]V zag[side]N huŋ[to-hire]V
-c.4.14.1,A hymn to Nanše (Nanše A),,107,igi[eye]N du₈[to-spread]V lu₂-inim-ma[witness]N
-c.4.14.1,A hymn to Nanše (Nanše A),,108,lu₂-inim-ma[witness]N e₂[house(hold)]N sah₆[to-withdraw]V gu₃[voice]N de₂[to-pour]V
-c.4.14.1,A hymn to Nanše (Nanše A),,109,saŋ[head]N balaŋ[type-of-instrument-and-composition]N ki-gub[location]N muš₃[face]N de₆[to-carry]V
-c.4.14.1,A hymn to Nanše (Nanše A),,110,lugal[king]N saŋ[head]N zid[right]AJ en₃[noun-part-of-multiword-verb]N tar[to-cut]V Haia[1]DN lu₂[person]N dub[tablet]N
-c.4.14.1,A hymn to Nanše (Nanše A),,111,saŋ[head]N zid[right]AJ nin[lady]N dug₄[to-say]V im[clay]N gub[to-stand]V
-c.4.14.1,A hymn to Nanše (Nanše A),,112,geme₂[female-slave]N nin[lady]N dug₄[to-say]V im[clay]N kid₇[to-cut]V
-c.4.14.1,A hymn to Nanše (Nanše A),,113,dug[pot]N a[water]N de₂[to-pour]V ŋiri₃[foot]N si[horn]N sa₂[to-equal]V
-c.4.14.1,A hymn to Nanše (Nanše A),,114,buniŋ[type-of-container]N niŋ₂-silaŋ[dough]N luh[to-clean]V
-c.4.14.1,A hymn to Nanše (Nanše A),,115,e₂[house(hold)]N ŋi₆[night]N u₃-na[designation-of-night]N izi[fire]N dib[to-pass]V
-c.4.14.1,A hymn to Nanše (Nanše A),,116,e₂[house(hold)]N an-bar₇[midday]N mu₇-mu₇[incantation]N ŋar[to-place]V
-c.4.14.1,A hymn to Nanše (Nanše A),,117,šita-eš₃-a[type-of-priest]N bal[term-(in-office)]N gub[to-stand]V
-c.4.14.1,A hymn to Nanše (Nanše A),,118,ki-gub[location]N muš₃[face]N de₆[to-carry]V
-c.4.14.1,A hymn to Nanše (Nanše A),,119,susbu[type-of-priest]N lu₂[person]N šukur₂[ration]N bal[term-(in-office)]N re[that]PD inim[word]N ŋar[to-place]V ŋar[to-place]V
-c.4.14.1,A hymn to Nanše (Nanše A),,120,u₃[and]C saŋŋa[temple-administrator]N e₂[house(hold)]N til₃[to-live]V re[that]PD
-c.4.14.1,A hymn to Nanše (Nanše A),,121,šir₃[song]N kug[shining]AJ inim[word]N šag₄[heart]N ŋal₂[to-be-(located)]V pa[branch]N e₃[to-go-out-or-in]V
-c.4.14.1,A hymn to Nanše (Nanše A),,122,zu[to-know]V zu[to-know]V ba[to-allot]V
-c.4.14.1,A hymn to Nanše (Nanše A),,123,ŋarza[rite]N ama[mother]N Nanše[1]DN pa[branch]N e₃[to-go-out-or-in]V ak[to-do]V
-c.4.14.1,A hymn to Nanše (Nanše A),,124,inim[word]N dirig[to-be-superior]V ŋar[to-place]V
-c.4.14.1,A hymn to Nanše (Nanše A),,125,ŋarza[rite]N tah[to-add]V
-c.4.14.1,A hymn to Nanše (Nanše A),,126,me[essence]N me[essence]N na-me[any]PD lu₂[person]N dub[to-heap-up]V
-c.4.14.1,A hymn to Nanše (Nanše A),,127,ur₅[that]PD niŋ₂-nam[anything]PD dub[to-heap-up]V
-c.4.14.1,A hymn to Nanše (Nanše A),,128,e₂[house(hold)]N Nanše[1]DN dub[tablet]N kur₉[to-enter]V
-c.4.14.1,A hymn to Nanše (Nanše A),,129,kar[quay]N lu₂[person]N dib[to-pass]V
-c.4.14.1,A hymn to Nanše (Nanše A),,130,e₂[house(hold)]N Nanše[1]DN id₂-lu₂-ru-gu₂[ordeal-river]N lu₂[person]N dadag[to-be-bright]V
-c.4.14.1,A hymn to Nanše (Nanše A),,131,eš-bar[decision]N kiŋ₂[to-seek]V šir₃[song]N kug[shining]AJ abzu[underground-water]N e₃[to-go-out-or-in]V
-c.4.14.1,A hymn to Nanše (Nanše A),,132,ŠIR₃.MUŠ₃[meaning-unknown]N šir₃[song]N zu[to-know]V
-c.4.14.1,A hymn to Nanše (Nanše A),,133,enkum[type-of-temple-official]N ninkum[type-of-priest]N šu-luh[ritual-cleansing]N pad₃[to-find]V
-c.4.14.1,A hymn to Nanše (Nanše A),,134,inim[word]N tur[to-be-small]V dug₄[to-say]V dirig[to-be-superior]V ŋar[to-place]V
-c.4.14.1,A hymn to Nanše (Nanše A),,135,inim[word]N tah[to-add]V
-c.4.14.1,A hymn to Nanše (Nanše A),,136,ka[mouth]N du₃[to-erect]V niŋ₂-a₂-zig₃[violent-action]N dug₄[to-say]V gu₂[neck]N zig₃[to-rise]V
-c.4.14.1,A hymn to Nanše (Nanše A),,137,šu[hand]N dirig[to-be-superior]V DU[DU]V šu[hand]N mah[to-be-majestic]V gid₂[to-be-long]V
-c.4.14.1,A hymn to Nanše (Nanše A),,138,šu[hand]N sa₂[to-equal]V niŋ₂-a₂-zig₃[violent-action]N dim₂[to-create]V
-c.4.14.1,A hymn to Nanše (Nanše A),,139,uš[foundation]N ŋar[to-place]V šu[hand]N bal[to-turn-over]V in[zone]N dub[to-heap-up]V kur₂[to-be-different]V
-c.4.14.1,A hymn to Nanše (Nanše A),,140,ki[place]N nam-erim₂[oath]N saŋ[head]N gid₂[to-be-long]V
-c.4.14.1,A hymn to Nanše (Nanše A),,141,saŋ[head]N niŋ₂-sag₃[meaning-unknown]N niŋ₂-kud[revenue]N ak[to-do]V niŋ₂-šab[meaning-unknown]N ba[to-allot]V
-c.4.14.1,A hymn to Nanše (Nanše A),,142,na₄[stone]N tur[to-be-small]V na₄[stone]N gal[to-be-big]V šu[hand]N zig₃[to-rise]V
-c.4.14.1,A hymn to Nanše (Nanše A),,143,ba-an[capacity-measure-(container)]N tur[to-be-small]V ba-an[capacity-measure-(container)]N gal[to-be-big]V šu[hand]N zig₃[to-rise]V
-c.4.14.1,A hymn to Nanše (Nanše A),,144,niŋ₂[thing]N tuku[to-have]V niŋ₂[thing]N al[desire]N dug₄[to-say]V
-c.4.14.1,A hymn to Nanše (Nanše A),,145,gu₇[to-eat]V gu₇[to-eat]V dug₄[to-say]V
-c.4.14.1,A hymn to Nanše (Nanše A),,146,naŋ[to-drink]V naŋ[to-drink]V dug₄[to-say]V
-c.4.14.1,A hymn to Nanše (Nanše A),,147,utul₂[tureen]N gub[to-stand]V kaš[beer]N sur[to-drip]V
-c.4.14.1,A hymn to Nanše (Nanše A),,148,geme₂[female-slave]N diŋir[deity]N šu[hand]N la₂[to-hang]V re[that]PD e₂[house(hold)]N gi₄[to-return]V
-c.4.14.1,A hymn to Nanše (Nanše A),,149,nir[authority]N ŋal₂[to-be-(located)]V e₂[house(hold)]N til₃[to-live]V re[that]PD igi-tum₃[coveting]N la₂[to-hang]V ak[to-do]V
-c.4.14.1,A hymn to Nanše (Nanše A),,150,keše₂[to-bind]V gu₇[to-eat]V dug₄[to-say]V
-c.4.14.1,A hymn to Nanše (Nanše A),,151,keše₂[to-bind]V naŋ[to-drink]V dug₄[to-say]V
-c.4.14.1,A hymn to Nanše (Nanše A),,152,Nanše[1]DN ninda[bread]N i₃[fatty-substance]N nunuz[egg]N dalla[to-be-bright]V
-c.4.14.1,A hymn to Nanše (Nanše A),,153,ki[place]N a₂[arm]N zig₃[to-rise]V lu₂[person]N gu₇[to-eat]V
-c.4.14.1,A hymn to Nanše (Nanše A),,154,lu₂[person]N a₂[arm]N zig₃[to-rise]V gu₇[to-eat]V inim[word]N de₆[to-carry]V
-c.4.14.1,A hymn to Nanše (Nanše A),,155,igi[eye]N zu₂[tooth]N guz[to-be-crushed]V ŋiri₃[foot]N ki[place]N te[to-approach]V
-c.4.14.1,A hymn to Nanše (Nanše A),,156,sig₁₀[to-place]V sa₂[to-equal]V
-c.4.14.1,A hymn to Nanše (Nanše A),,157,a₂-ŋal₂[strong]AJ lu₂[person]N
-c.4.14.1,A hymn to Nanše (Nanše A),,158,a₂-tuku[powerful]AJ e-sir₂[street]N gi[reed]N du₃[to-erect]V
-c.4.14.1,A hymn to Nanše (Nanše A),,159,lu₂[person]N dam[spouse]N tuku[to-have]V nu-mu-un-su[widow]N dam[spouse]N
-c.4.14.1,A hymn to Nanše (Nanše A),,160,ud[day(light)]N ib₂[to-be-furious]V zu₂[tooth]N li₉[verb-part-of-multiword-verb]V
-c.4.14.1,A hymn to Nanše (Nanše A),,161,ud[day(light)]N su-mu-ug[distress]N a-tar[mockery]N ak[to-do]V
-c.4.14.1,A hymn to Nanše (Nanše A),,162,nin[lady]N zig₃[to-rise]V
-c.4.14.1,A hymn to Nanše (Nanše A),,163,nin[lady]N saŋ[head]N en₃[noun-part-of-multiword-verb]N tar[to-cut]V kur[(mountain)-land]N
-c.4.14.1,A hymn to Nanše (Nanše A),,164,in-nin[mistress]N ama[mother]N Nanše[1]DN šag₄[heart]N igi[eye]N ŋal₂[to-be-(located)]V
-c.4.14.1,A hymn to Nanše (Nanše A),,165,nu-siki[orphan]N ka[mouth]N saŋ[head]N ak[to-do]V nu-mu-un-su[widow]N aŋ₂[to-measure]V
-c.4.14.1,A hymn to Nanše (Nanše A),,166,ki-gul-la[destitute-person]N a₂-tuku[powerful]AJ ŋar[to-place]V
-c.4.14.1,A hymn to Nanše (Nanše A),,167,a₂-tuku[powerful]AJ a₂[arm]N tuku[to-have]V ŋar[to-place]V
-c.4.14.1,A hymn to Nanše (Nanše A),,168,ama[mother]N dumu[child]N gu₃[voice]N a₂[arm]N zig₃[to-rise]V de₂[to-pour]V
-c.4.14.1,A hymn to Nanše (Nanše A),,169,dumu[child]N ama[mother]N ka[mouth]N du₃[to-erect]V dug₄[to-say]V
-c.4.14.1,A hymn to Nanše (Nanše A),,170,šeš-ban₃-da[younger-brother]N šeš-gal[elder-brother]N inim[word]N gaba[chest]N dug₄[to-say]V a-a[father]N inim[word]N gi₄[to-return]V
-c.4.14.1,A hymn to Nanše (Nanše A),,171,nin[lady]N gid₂[to-be-long]V lu₂[person]N šu[hand]N nu₂[to-lie-down]V
-c.4.14.1,A hymn to Nanše (Nanše A),,172,Nanše[1]DN gid₂[to-be-long]V lu₂[person]N šu[hand]N ŋal₂[to-be-(located)]V
-c.4.14.1,A hymn to Nanše (Nanše A),,173,šag₄[heart]N kalam[the-Land]N gi[reed]N hal[to-divide-out]V Nanše[1]DN igi[eye]N ŋal₂[to-be-(located)]V
-c.4.14.1,A hymn to Nanše (Nanše A),,174,zag[side]N lu₂[person]N ŋal₂[to-be-(located)]V
-c.4.14.1,A hymn to Nanše (Nanše A),,175,niŋir[herald]N en[lord]N Hendursaŋa[1]DN zu₂[tooth]N keše₂[to-bind]V ak[to-do]V
-c.4.14.1,A hymn to Nanše (Nanše A),,176,lamma[guardian-deity]N Dumu-tur-šu-gi[1]DN ŋiš-la₂-bi[silence]N DU[DU]V
-c.4.14.1,A hymn to Nanše (Nanše A),,177,udug[type-of-demon]N ka[mouth]N gi[reed]N gub[to-stand]V ka[mouth]N gi[reed]N en-nu-uŋ₃[guard]N ak[to-do]V
-c.4.14.1,A hymn to Nanše (Nanše A),,178,e₂[house(hold)]N Sirara[1]SN a[water]N su₃[to-sprinkle]V
-c.4.14.1,A hymn to Nanše (Nanše A),,179,e₂[house(hold)]N an-bar₇[midday]N e₂[house(hold)]N sa[net]N la₂[to-hang]V
-c.4.14.1,A hymn to Nanše (Nanše A),,180,Nanše[1]DN inim[word]N sa₂[to-equal]V
-c.4.14.1,A hymn to Nanše (Nanše A),,181,u₃-luh[sceptre]N sud[to-be-distant]V abzu[underground-water]N šag₄[heart]N nir-ŋal₂[authoritative]AJ
-c.4.14.1,A hymn to Nanše (Nanše A),,182,gi-gun₄-na[temple-terrace]N e₂[house(hold)]N Nanše[1]DN en[lord]N gaba[chest]N gi₄[to-return]V tuku[to-have]V
-c.4.14.1,A hymn to Nanše (Nanše A),,183,a₂[arm]N aŋ₂[to-measure]V e₂[house(hold)]N Nanše[1]DN
-c.4.14.1,A hymn to Nanše (Nanše A),,184,lugal[king]N en[lord]N Hendursaŋa[1]DN e₃[to-go-out-or-in]V
-c.4.14.1,A hymn to Nanše (Nanše A),,185,i-bi₂[smoke]N dugud[to-be-heavy]V ki[place]N us₂[to-be-adjacent]V
-c.4.14.1,A hymn to Nanše (Nanše A),,186,inim[word]N dungu[cloud]N sir₂[to-be-dense]V an[heaven]N la₂[to-hang]V
-c.4.14.1,A hymn to Nanše (Nanše A),,187,bulug[sharp-object]N nam-dam[matrimony]N teš₂[unity]N dab₅[to-seize]V
-c.4.14.1,A hymn to Nanše (Nanše A),,188,lugal[king]N en[lord]N Hendursaŋa[1]DN teš₂[unity]N si-il[to-split-apart]V
-c.4.14.1,A hymn to Nanše (Nanše A),,189,zid-du[righteous]AJ zid-du[righteous]AJ gub[to-stand]V
-c.4.14.1,A hymn to Nanše (Nanše A),,190,erim₂-du[wicked]AJ ki-erim₂[enemy-territory]N šum₂[to-give]V
-c.4.14.1,A hymn to Nanše (Nanše A),,191,di[(law)suit]N nu-siki[orphan]N kud[to-cut]V
-c.4.14.1,A hymn to Nanše (Nanše A),,192,di[(law)suit]N nu-mu-un-su[widow]N us₂[to-be-adjacent]V
-c.4.14.1,A hymn to Nanše (Nanše A),,193,di[(law)suit]N ama[mother]N dumu[child]N si[horn]N sa₂[to-equal]V
-c.4.14.1,A hymn to Nanše (Nanše A),,194,tukum-bi[if]C ama[mother]N dumu[child]N
-c.4.14.1,A hymn to Nanše (Nanše A),,195,tuku[to-have]V gu₇[to-eat]V tuku[to-have]V naŋ[to-drink]V
-c.4.14.1,A hymn to Nanše (Nanše A),,196,in-bul-bul[chaff]N ka[mouth]N bur₁₂[to-tear-out]V
-c.4.14.1,A hymn to Nanše (Nanše A),,197,zag[side]N lu₂[person]N sa₂-dug₄[regular-offering]N tuš[to-sit]V
-c.4.14.1,A hymn to Nanše (Nanše A),,198,u₂[plant]N il₂[to-raise]V edin[open-country]N niŋ₂-tum₂[delivery]N ama[mother]N dib[to-pass]V
-c.4.14.1,A hymn to Nanše (Nanše A),,199,ama[mother]N iri[town]N gal[to-be-big]V tud[to-give-birth]V
-c.4.14.1,A hymn to Nanše (Nanše A),,200,igi[eye]N šarag[to-dry-out]V gu₂[neck]N šub[to-fall]V inim[word]N dug₄[to-say]V
-c.4.14.1,A hymn to Nanše (Nanše A),,201,tukum-bi[if]C ama[mother]N dumu[child]N
-c.4.14.1,A hymn to Nanše (Nanše A),,202,ki[place]N a₂[arm]N zig₃[to-rise]V gu₃[voice]N de₂[to-pour]V
-c.4.14.1,A hymn to Nanše (Nanše A),,203,ama[mother]N šu[hand]N sig₉[to-put]V
-c.4.14.1,A hymn to Nanše (Nanše A),,204,ubur[breast]N ga[milk]N ŋal₂[to-be-(located)]V a[water]N naŋ[to-drink]V
-c.4.14.1,A hymn to Nanše (Nanše A),,205,ama[mother]N inim[word]N kiŋ₂[to-seek]V inim[word]N kiŋ₂[to-seek]V
-c.4.14.1,A hymn to Nanše (Nanše A),,206,nin[lady]N bulug[sharp-object]N ki[place]N e₃[to-go-out-or-in]V
-c.4.14.1,A hymn to Nanše (Nanše A),,207,lugal[king]N niŋ₂-si-sa₂[justice]N ki[place]N aŋ₂[to-measure]V Hendursaŋa[1]DN
-c.4.14.1,A hymn to Nanše (Nanše A),,208,inim[word]N si[horn]N sa₂[to-equal]V di[(law)suit]N igi[eye]N
-c.4.14.1,A hymn to Nanše (Nanše A),,209,nam-tag[sin]N ugu[skull]N ama[mother]N dumu[child]N ŋar[to-place]V
-c.4.14.1,A hymn to Nanše (Nanše A),,210,a₂[arm]N nam-tag[sin]N dugud[to-be-heavy]V il₂[to-raise]V
-c.4.14.1,A hymn to Nanše (Nanše A),,211,lu₂-ulu₃[person]N diŋir[deity]N a-ra-zu[supplication]N tuku[to-have]V
-c.4.14.1,A hymn to Nanše (Nanše A),,212,tukum-bi[if]C ama[mother]N dumu[child]N
-c.4.14.1,A hymn to Nanše (Nanše A),,213,tuku[to-have]V gu₇[to-eat]V tuku[to-have]V naŋ[to-drink]V
-c.4.14.1,A hymn to Nanše (Nanše A),,214,in-bul-bul[chaff]N ka[mouth]N bur₁₂[to-tear-out]V
-c.4.14.1,A hymn to Nanše (Nanše A),,215,zag[side]N lu₂[person]N sa₂-dug₄[regular-offering]N tuš[to-sit]V
-c.4.14.1,A hymn to Nanše (Nanše A),,216,u₂[plant]N il₂[to-raise]V edin[open-country]N niŋ₂-tum₂[delivery]N ama[mother]N dib[to-pass]V
-c.4.14.1,A hymn to Nanše (Nanše A),,217,ama[mother]N iri[town]N gal[to-be-big]V tud[to-give-birth]V
-c.4.14.1,A hymn to Nanše (Nanše A),,218,igi[eye]N šarag[to-dry-out]V gu₂[neck]N šub[to-fall]V inim[word]N dug₄[to-say]V
-c.4.14.1,A hymn to Nanše (Nanše A),,219,lugal[king]N niŋ₂-a₂-zig₃[violent-action]N hul[to-be-bad]V gig[to-be-ill]V Hendursaŋa[1]DN
-c.4.14.1,A hymn to Nanše (Nanše A),,220,lu₂-ulu₃[person]N a[water]N ki-lul-la[place-of-iniquity]N dug₄[to-say]V
-c.4.14.1,A hymn to Nanše (Nanše A),,221,dumu[child]N še[barley]N sahar[earth]N sis[to-be-bitter]V zag[side]N tag[to-touch]V
-c.4.14.1,A hymn to Nanše (Nanše A),,222,inim[word]N ama[mother]N ugu[to-give-birth]V ba[to-allot]V lu₂[person]N šum₂[to-give]V
-c.4.14.1,A hymn to Nanše (Nanše A),,223,in[zone]N dub[to-heap-up]V inim[word]N gen₆[to-be-firm]V
-c.4.14.1,A hymn to Nanše (Nanše A),,224,gal-zu[skilful]AJ inim[word]N si[horn]N sa₂[to-equal]V
-c.4.14.1,A hymn to Nanše (Nanše A),,225,nin[lady]N um-ma[experienced-woman]N Lagaš[1]SN ki[place]N ŋar[to-place]V
-c.4.14.1,A hymn to Nanše (Nanše A),,226,Ŋatumdug[1]DN
-c.4.14.1,A hymn to Nanše (Nanše A),,227,Nanše[1]DN inim[word]N si[horn]N sa₂[to-equal]V
-c.4.14.1,A hymn to Nanše (Nanše A),,228,nin[lady]N mah[to-be-majestic]V inim[word]N
-c.4.14.1,A hymn to Nanše (Nanše A),,229,nin[lady]N Enlil[1]DN nam[destiny]N tar[to-cut]V
-c.4.14.1,A hymn to Nanše (Nanše A),,230,barag[dais]N Sirara[1]SN
-c.4.14.1,A hymn to Nanše (Nanše A),,231,me[essence]N šen[to-be-pure]V igi[eye]N ŋal₂[to-be-(located)]V
-c.4.14.1,A hymn to Nanše (Nanše A),,232,e₂[house(hold)]N abzu[underground-water]N me[essence]N ba[to-allot]V
-c.4.14.1,A hymn to Nanše (Nanše A),,233,Sirara[1]SN diŋir[deity]N Lagaš[1]SN gu₂[neck]N si[to-fill]V
-c.4.14.1,A hymn to Nanše (Nanše A),,234,na₄[stone]N gen₆[to-be-firm]V kug[precious-metal]N la₂[to-hang]V gi-gur[capacity-measure-(container)]N gen₆[to-be-firm]V gub[to-stand]V
-c.4.14.1,A hymn to Nanše (Nanše A),,235,ba-an[capacity-measure-(container)]N inim[word]N gen₆[to-be-firm]V kur[(mountain)-land]N šu[hand]N ŋar[to-place]V
-c.4.14.1,A hymn to Nanše (Nanše A),,236,sipad[shepherd]N mas-su[leader]N kalam[the-Land]N ŋal₂[to-be-(located)]V kur[(mountain)-land]N
-c.4.14.1,A hymn to Nanše (Nanše A),,237,Ištaran[1]DN di[(law)suit]N si[horn]N sa₂[to-equal]V kalam[the-Land]N til₃[to-live]V
-c.4.14.1,A hymn to Nanše (Nanše A),,238,Ninŋišzida[1]DN dab₅[to-seize]V
-c.4.14.1,A hymn to Nanše (Nanše A),,239,si[horn]N sa₂[to-equal]V
-c.4.14.1,A hymn to Nanše (Nanše A),,240,ba[to-allot]V
-c.4.14.1,A hymn to Nanše (Nanše A),,241,na₄[stone]N gen₆[to-be-firm]V kug[precious-metal]N la₂[to-hang]V gi-gur[capacity-measure-(container)]N gen₆[to-be-firm]V gub[to-stand]V
-c.4.14.1,A hymn to Nanše (Nanše A),,242,ba-an[capacity-measure-(container)]N inim[word]N gen₆[to-be-firm]V kur[(mountain)-land]N šu[hand]N ŋar[to-place]V
-c.4.14.1,A hymn to Nanše (Nanše A),,243,mah[to-be-majestic]V mar-za[rite]N gal[to-be-big]V
-c.4.14.1,A hymn to Nanše (Nanše A),,244,šu[hand]N ŋiš[tree]N
-c.4.14.1,A hymn to Nanše (Nanše A),,245,erim₃[storehouse]N ŋar[to-place]V
-c.4.14.1,A hymn to Nanše (Nanše A),,246,dug[pot]N a[water]N silig[to-cease]V
-c.4.14.1,A hymn to Nanše (Nanše A),,247,pisaŋ[basket]N muš₃[face]N de₆[to-carry]V
-c.4.14.1,A hymn to Nanše (Nanše A),,248,nin[lady]N erim₃[storehouse]N
-c.4.14.1,A hymn to Nanše (Nanše A),,249,mah[to-be-majestic]V ŋar[to-place]V kug-dun[profit]N tuku[to-have]V
-c.4.14.1,A hymn to Nanše (Nanše A),,250,niŋir[herald]N en[lord]N Hendursaŋa[1]DN a₂[arm]N aŋ₂[to-measure]V
-c.4.14.1,A hymn to Nanše (Nanše A),,251,nin[lady]N me[essence]N me[essence]N mah[to-be-majestic]V me[essence]N dirig[to-be-superior]V
-c.4.14.1,A hymn to Nanše (Nanše A),,252,Nanše[1]DN me[essence]N me[essence]N na-me[any]PD sa₂[to-equal]V
-c.4.14.1,A hymn to Nanše (Nanše A),,253,An[1]DN lugal[king]N igi[eye]N hul₂[to-be-happy]V bar[to-set-aside]V
-c.4.14.1,A hymn to Nanše (Nanše A),,254,Enlil[1]DN barag[dais]N nam[destiny]N tar[to-cut]V tuš[to-sit]V
-c.4.14.1,A hymn to Nanše (Nanše A),,255,a-a[father]N Enki[1]DN nam[destiny]N tar[to-cut]V
-c.4.14.1,A hymn to Nanše (Nanše A),,256,Nanše[1]DN dumu[child]N Eridug[1]SN tud[to-give-birth]V za₃-mi₂[praise]N dug₃[to-be-good]V
+c.4.14.1,A hymn to Nanše (Nanše A),,1,sux:iri[town]N sux:me[to-be]V sux:iri[town]N sux:me[to-be]V sux:me[essence]N sux:pad₃[to-find]V
+c.4.14.1,A hymn to Nanše (Nanše A),,2,sux:Niŋin[1]SN sux:iri[town]N sux:me[to-be]V sux:me[essence]N sux:pad₃[to-find]V
+c.4.14.1,A hymn to Nanše (Nanše A),,3,sux:iri[town]N sux:kug[shining]AJ sux:iri[town]N sux:me[to-be]V sux:me[essence]N sux:pad₃[to-find]V
+c.4.14.1,A hymn to Nanše (Nanše A),,4,sux:kur[(mountain)-land]N sux:a[water]N sux:il₂[to-raise]V sux:iri[town]N sux:me[to-be]V sux:me[essence]N sux:pad₃[to-find]V
+c.4.14.1,A hymn to Nanše (Nanše A),,5,sux:e₂[house(hold)]N sux:zid[right]AJ sux:ud[day(light)]N sux:e₃[to-go-out-or-in]V sux:nam[destiny]N sux:tar[to-cut]V
+c.4.14.1,A hymn to Nanše (Nanše A),,6,sux:iri[town]N sux:niŋ₂-du₇[propriety]N sux:pa[branch]N sux:e₃[to-go-out-or-in]V
+c.4.14.1,A hymn to Nanše (Nanše A),,7,sux:ŋarza[rite]N sux:ama[mother]N sux:Nanše[1]DN sux:si[horn]N sux:sa₂[to-equal]V
+c.4.14.1,A hymn to Nanše (Nanše A),,8,sux:nin[lady]N sux:dumu[child]N sux:Eridug[1]SN sux:tud[to-give-birth]V
+c.4.14.1,A hymn to Nanše (Nanše A),,9,sux:Nanše[1]DN sux:nin[lady]N sux:me[essence]N sux:kal[to-be-rare]V sux:ki[place]N sux:gi₄[to-return]V
+c.4.14.1,A hymn to Nanše (Nanše A),,10,sux:agarin₄[matrix]N sux:me[to-be]V sux:ama[mother]N sux:sa-hi-in[yeast]N sux:me[to-be]V
+c.4.14.1,A hymn to Nanše (Nanše A),,11,sux:Nanše[1]DN sux:ama[mother]N sux:niŋ₂[thing]N sux:gal[to-be-big]V sux:me[to-be]V
+c.4.14.1,A hymn to Nanše (Nanše A),,12,sux:e₂-mi₂[woman's-estate]N sux:kalam[the-Land]N sux:dugud[to-be-heavy]V sux:ŋal₂[to-be-(located)]V
+c.4.14.1,A hymn to Nanše (Nanše A),,13,sux:erim₃[storehouse]N sux:šim[aromatic-(fragrance)]N sux:lal₃[syrup]N sux:šu[hand]N sux:ta-hab₂[to-thicken?]V sux:dug₄[to-say]V
+c.4.14.1,A hymn to Nanše (Nanše A),,14,sux:dug[pot]N sux:a[water]N sux:silig[to-cease]V sux:gub[to-stand]V
+c.4.14.1,A hymn to Nanše (Nanše A),,15,sux:pisaŋ[basket]N sux:niŋ₂[thing]N sux:erim₃[storehouse]N sux:kalam[the-Land]N
+c.4.14.1,A hymn to Nanše (Nanše A),,16,sux:Nanše[1]DN sux:sahar-ŋar[silt]N sux:id₂[watercourse]N sux:ki[place]N sux:us₂[to-be-adjacent]V
+c.4.14.1,A hymn to Nanše (Nanše A),,17,sux:nin[lady]N sux:dub-dim₄-dub-dim₄[meaning-unknown]N
+c.4.14.1,A hymn to Nanše (Nanše A),,18,sux:ŋalga[reason]N sux:niŋ₂[thing]N sux:Aratta[1]SN
+c.4.14.1,A hymn to Nanše (Nanše A),,19,sux:Nanše[1]DN sux:nin[lady]N sux:pa₄-ugur₂[meadow-channel]N sux:pa₅[canal]N sux:an[heaven]N sux:ŋal₂[to-be-(located)]V
+c.4.14.1,A hymn to Nanše (Nanše A),,20,sux:nu-siki[orphan]N sux:zu[to-know]V sux:nu-mu-un-su[widow]N sux:zu[to-know]V
+c.4.14.1,A hymn to Nanše (Nanše A),,21,sux:lu₂[person]N sux:lu₂[person]N sux:a₂[arm]N sux:ŋal₂[to-be-(located)]V sux:zu[to-know]V sux:nu-siki[orphan]N sux:ama[mother]N
+c.4.14.1,A hymn to Nanše (Nanše A),,22,sux:Nanše[1]DN sux:nu-mu-un-su[widow]N sux:saŋ[head]N sux:en₃[noun-part-of-multiword-verb]N sux:tar[to-cut]V
+c.4.14.1,A hymn to Nanše (Nanše A),,23,sux:e₂[house(hold)]N sux:ur₅[financial-obligation]N sux:sa₂[advice]N sux:pad₃[to-find]V
+c.4.14.1,A hymn to Nanše (Nanše A),,24,sux:nin[lady]N sux:lu₂-kar-ra[fugitive]N sux:ur₂[root]N sux:de₆[to-carry]V
+c.4.14.1,A hymn to Nanše (Nanše A),,25,sux:sig[to-be-low]V sux:ki[place]N sux:kiŋ₂[to-seek]V
+c.4.14.1,A hymn to Nanše (Nanše A),,26,sux:gi-gur[capacity-measure-(container)]N sux:šu[hand]N sux:DU[DU]V sux:buluŋ₃[to-flourish]V
+c.4.14.1,A hymn to Nanše (Nanše A),,27,sux:šaŋan[flask]N sux:šu[hand]N sux:DU[DU]V sux:kug-dun[profit]N sux:tuku[to-have]V
+c.4.14.1,A hymn to Nanše (Nanše A),,28,sux:geme₂[female-slave]N sux:si[horn]N sux:sa₂[to-equal]V sux:ŋiri₃[foot]N sux:dab₅[to-seize]V
+c.4.14.1,A hymn to Nanše (Nanše A),,29,sux:Nanše[1]DN sux:šul[young-man]N sux:a₂[arm]N sux:zid[right]AJ sux:tuku[to-have]V sux:saŋ₅[to-choose]V
+c.4.14.1,A hymn to Nanše (Nanše A),,30,sux:nu-mu-un-su[widow]N sux:lu₂[person]N sux:dam[spouse]N sux:tuku[to-have]V
+c.4.14.1,A hymn to Nanše (Nanše A),,31,sux:Nanše[1]DN sux:ŋiš-ur₃[(roof)beam]N sux:e₂[house(hold)]N sux:zid[right]AJ sux:guru₃[to-bear]V
+c.4.14.1,A hymn to Nanše (Nanše A),,32,sux:nin[lady]N sux:niŋ₂-du₇[propriety]N sux:pa[branch]N sux:e₃[to-go-out-or-in]V
+c.4.14.1,A hymn to Nanše (Nanše A),,33,sux:Nanše[1]DN sux:Lagaš[1]SN sux:he₂-ŋal₂[plenty]N sux:šu[hand]N sux:peš[to-be-thick]V
+c.4.14.1,A hymn to Nanše (Nanše A),,34,sux:šennu[type-of-priest]N sux:šag₄[heart]N sux:kug[shining]AJ sux:pad₃[to-find]V
+c.4.14.1,A hymn to Nanše (Nanše A),,35,sux:Ur-Nanše[1]RN sux:en[lord]N sux:ki[place]N sux:aŋ₂[to-measure]V sux:Lagaš[1]SN sux:barag[dais]N sux:si[to-fill]V
+c.4.14.1,A hymn to Nanše (Nanše A),,36,sux:sipad[shepherd]N sux:ŋidru[sceptre]N sux:mah[to-be-majestic]V sux:šum₂[to-give]V
+c.4.14.1,A hymn to Nanše (Nanše A),,37,sux:Gudea[1]RN sux:me[essence]N sux:kal[to-be-rare]V sux:šu[hand]N sux:du₇[to-be-perfect]V
+c.4.14.1,A hymn to Nanše (Nanše A),,38,sux:sipad[shepherd]N sux:šag₄[heart]N sux:kug[shining]AJ sux:pad₃[to-find]V
+c.4.14.1,A hymn to Nanše (Nanše A),,39,sux:Gudea[1]RN sux:ensi₂[(city)-ruler]N sux:Lagaš[1]SN
+c.4.14.1,A hymn to Nanše (Nanše A),,40,sux:ab₂[cow]N sux:he-nun[abundance]N sux:tigi[type-of-instrument-and-composition]N sux:gub[to-stand]V
+c.4.14.1,A hymn to Nanše (Nanše A),,41,sux:balaŋ[type-of-instrument-and-composition]N sux:kug[shining]AJ sux:da[side]N sux:gub[to-stand]V
+c.4.14.1,A hymn to Nanše (Nanše A),,42,sux:šir₃[song]N sux:kug[shining]AJ sux:šir₃[song]N sux:ha-mun[harmony]N sux:du₁₂[to-perform-(music)]V
+c.4.14.1,A hymn to Nanše (Nanše A),,43,sux:kiŋ₂-tur[type-of-instrument]N sux:e₂[house(hold)]N sux:i[to-bring-out]V
+c.4.14.1,A hymn to Nanše (Nanše A),,44,sux:a₂[arm]N sux:tarah[wild-goat]N sux:nar[musician]N sux:gal[to-be-big]V sux:šu[hand]N sux:tag[to-touch]V
+c.4.14.1,A hymn to Nanše (Nanše A),,45,sux:e₂[house(hold)]N sux:abzu[underground-water]N sux:me[essence]N sux:ba[to-allot]V
+c.4.14.1,A hymn to Nanše (Nanše A),,46,sux:e₂[house(hold)]N sux:Sirara[1]SN sux:šir₃[song]N sux:kug[shining]AJ sux:me[essence]N sux:nun[prince]N sux:du₁₂[to-perform-(music)]V
+c.4.14.1,A hymn to Nanše (Nanše A),,47,sux:ensi[dream-interpreter]N sux:nesaŋ[(first-fruit)-offering]N sux:ŋen[to-go]V
+c.4.14.1,A hymn to Nanše (Nanše A),,48,sux:eš₂-da[(sacred)-goblet]N sux:kug[precious-metal]N sux:mul[to-radiate]V sux:šu[hand]N sux:du₈[to-spread]V
+c.4.14.1,A hymn to Nanše (Nanše A),,49,sux:engiz[temple-cook]N
+c.4.14.1,A hymn to Nanše (Nanše A),,50,sux:ninda[bread]N sux:kum₂[to-be-hot]V sux:ninda[bread]N sux:ten[to-extinguish]V sux:si[horn]N sux:sa₂[to-equal]V
+c.4.14.1,A hymn to Nanše (Nanše A),,51,sux:gir₄[oven]N sux:DU[DU]V
+c.4.14.1,A hymn to Nanše (Nanše A),,52,sux:mar[spade]N sux:mah[to-be-majestic]V sux:gu₃[voice]N sux:nun[prince]N sux:dug₄[to-say]V
+c.4.14.1,A hymn to Nanše (Nanše A),,53,sux:niŋ₂-šum-ma[meat]N sux:utul₂[tureen]N sux:gal[to-be-big]V sux:de₆[to-carry]V
+c.4.14.1,A hymn to Nanše (Nanše A),,54,sux:a[water]N sux:sed₄[to-be-cold]V sux:Id-Sirara[1]WN sux:de₆[to-carry]V
+c.4.14.1,A hymn to Nanše (Nanše A),,55,sux:niŋ₂[thing]N sux:asila[rejoicing]N sux:Lagaš[1]SN sux:de₆[to-carry]V
+c.4.14.1,A hymn to Nanše (Nanše A),,56,sux:kurun[type-of-beer]N sux:a₂-dam[habitation]N sux:de₆[to-carry]V
+c.4.14.1,A hymn to Nanše (Nanše A),,57,sux:gir₄[oven]N sux:gal[to-be-big]V sux:unu₂[(dining)-hall]N sux:gal[to-be-big]V sux:sa₂[to-equal]V
+c.4.14.1,A hymn to Nanše (Nanše A),,58,sux:Nanše[1]DN sux:eš₃[shrine]N sux:nidba[(food)-offering]N sux:šeg₁₁[loud-noise]N sux:gi₄[to-return]V
+c.4.14.1,A hymn to Nanše (Nanše A),,59,sux:nin[lady]N sux:bur-šu-um[old-woman]N sux:Enlil[1]DN
+c.4.14.1,A hymn to Nanše (Nanše A),,60,sux:Nanše[1]DN sux:nin[lady]N sux:he₂-ŋal₂[plenty]N sux:kalam[the-Land]N sux:til₃[to-live]V
+c.4.14.1,A hymn to Nanše (Nanše A),,61,sux:TUM.GAG.MUNUS[meaning-unknown]N sux:dumu[child]N sux:Enki[1]DN
+c.4.14.1,A hymn to Nanše (Nanše A),,62,sux:munus[woman]N sux:zid[right]AJ sux:e₂[house(hold)]N sux:zid[right]AJ sux:lu₂[person]N sux:ŋar[to-place]V
+c.4.14.1,A hymn to Nanše (Nanše A),,63,sux:munus[woman]N sux:zid[right]AJ sux:e₂[house(hold)]N sux:zid[right]AJ sux:lu₂[person]N sux:ŋar[to-place]V
+c.4.14.1,A hymn to Nanše (Nanše A),,64,sux:bur-saŋ[type-of-shrine]N sux:sa₂-dug₄[regular-offering]N sux:niŋ₂[thing]N sux:ud[day(light)]N sux:e₂[house(hold)]N sux:si[horn]N sux:sa₂[to-equal]V
+c.4.14.1,A hymn to Nanše (Nanše A),,65,sux:lu[to-be-abundant]V sux:še[barley]N sux:sig₉[to-put]V
+c.4.14.1,A hymn to Nanše (Nanše A),,66,sux:dug[pot]N sux:sud[to-be-distant]V sux:a[water]N sux:de₂[to-pour]V
+c.4.14.1,A hymn to Nanše (Nanše A),,67,sux:lu₂[person]N sux:sa₂-dug₄[regular-offering]N sux:gub[to-stand]V sux:šu[hand]N sux:dirig[to-be-superior]V sux:gid₂[to-be-long]V
+c.4.14.1,A hymn to Nanše (Nanše A),,68,sux:u₂[plant]N sux:ba[to-allot]V sux:a[water]N sux:ba[to-allot]V
+c.4.14.1,A hymn to Nanše (Nanše A),,69,sux:sa₂-dug₄[regular-offering]N sux:taka₄[to-leave-behind]V sux:e₂[house(hold)]N sux:muš₃[face]N sux:de₆[to-carry]V
+c.4.14.1,A hymn to Nanše (Nanše A),,70,sux:ku₆[fish]N sux:zag[side]N sux:saŋ[head]N sux:zig₃[to-rise]V
+c.4.14.1,A hymn to Nanše (Nanše A),,71,sux:en₃-bar[marsh-reed]N sux:iku[area-measure]N sux:1[1]NU sux:saŋ[head]N sux:gid₂[to-be-long]V
+c.4.14.1,A hymn to Nanše (Nanše A),,72,sux:ešₓ[almond-(tree)]N sux:u₂[plant]N sux:sig₇[to-be-green]V sux:kiri₆[orchard]N sux:šag₄[heart]N sux:šu[hand]N sux:te[to-approach]V
+c.4.14.1,A hymn to Nanše (Nanše A),,73,sux:dib[to-pass]V sux:ka[mouth]N sux:tag[to-touch]V
+c.4.14.1,A hymn to Nanše (Nanše A),,74,sux:ninda[bread]N sux:eš₃[shrine]N sux:dag-gi₄[city-quarter]N sux:nidba[(food)-offering]N sux:il₂[to-raise]V
+c.4.14.1,A hymn to Nanše (Nanše A),,75,sux:kaš[beer]N sux:saŋ[head]N sux:šum₂[to-give]V sux:lu₂[person]N sux:DU[DU]V sux:a[water]N sux:sed₄[to-be-cold]V sux:šu[hand]N sux:DU[DU]V
+c.4.14.1,A hymn to Nanše (Nanše A),,76,sux:nesaŋ[(first-fruit)-offering]N sux:ŋar[to-place]V sux:si[horn]N sux:sa₂[to-equal]V sux:muš₃[face]N sux:de₆[to-carry]V
+c.4.14.1,A hymn to Nanše (Nanše A),,77,sux:i₃[fatty-substance]N sux:guru₃[to-bear]V sux:me[to-be]V sux:e₂[house(hold)]N sux:i₃[fatty-substance]N sux:dib[to-pass]V
+c.4.14.1,A hymn to Nanše (Nanše A),,78,sux:ga[milk]N sux:guru₃[to-bear]V sux:me[to-be]V sux:e₂[house(hold)]N sux:ga[milk]N sux:dib[to-pass]V
+c.4.14.1,A hymn to Nanše (Nanše A),,79,sux:ku₆[fish]N sux:kaš₄[to-run]V sux:lu₂[person]N sux:a₂[arm]N sux:ud[day(light)]N sux:me[to-be]V
+c.4.14.1,A hymn to Nanše (Nanše A),,80,sux:u₂[plant]N sux:il₂[to-raise]V sux:edin[open-country]N sux:niŋ₂-tum₂[delivery]N
+c.4.14.1,A hymn to Nanše (Nanše A),,81,sux:e₂[house(hold)]N sux:nin[lady]N sux:dib[to-pass]V
+c.4.14.1,A hymn to Nanše (Nanše A),,82,sux:ub[corner]N sux:gub[to-stand]V sux:da[side]N sux:gub[to-stand]V
+c.4.14.1,A hymn to Nanše (Nanše A),,83,sux:eme[tongue]N sux:ŋal₂[to-be-(located)]V sux:inim[word]N sux:gen₆[to-be-firm]V sux:inim[word]N sux:kur₂[to-be-different]V sux:dug₄[to-say]V
+c.4.14.1,A hymn to Nanše (Nanše A),,84,sux:e₂[house(hold)]N sux:Nanše[1]DN sux:bar[outside]N sux:kur₉[to-enter]V sux:šag₄[heart]N sux:e₃[to-go-out-or-in]V
+c.4.14.1,A hymn to Nanše (Nanše A),,85,sux:saŋ[head]N sux:en₃[noun-part-of-multiword-verb]N sux:tar[to-cut]V sux:e₂[house(hold)]N sux:Nanše[1]DN sux:dumu[child]N sux:Utu[1]DN sux:tud[to-give-birth]V
+c.4.14.1,A hymn to Nanše (Nanše A),,86,sux:inim[word]N sux:en[lord]N sux:Hendursaŋa[1]DN sux:us₂[to-be-adjacent]V sux:ra[to-beat]V
+c.4.14.1,A hymn to Nanše (Nanše A),,87,sux:lugal[king]N sux:zid[right]AJ sux:dug₄[to-say]V sux:zu[to-know]V sux:erim₂[enemy]N sux:dug₄[to-say]V sux:zu[to-know]V
+c.4.14.1,A hymn to Nanše (Nanše A),,88,sux:Hendursaŋa[1]DN sux:zid[right]AJ sux:dug₄[to-say]V sux:zu[to-know]V sux:erim₂[enemy]N sux:dug₄[to-say]V sux:zu[to-know]V
+c.4.14.1,A hymn to Nanše (Nanše A),,89,sux:dug₄[to-say]V sux:erim₂[enemy]N sux:gib[to-lie-across-(obstructively)]V sux:ŋiš[tree]N sux:du₃[to-erect]V
+c.4.14.1,A hymn to Nanše (Nanše A),,90,sux:Nin-X[1]DN sux:dumu[child]N sux:ur-saŋ[hero]N sux:šul[young-man]N sux:Suen[1]DN
+c.4.14.1,A hymn to Nanše (Nanše A),,91,sux:Nanše[1]DN sux:inim-ŋar[(oracular)-utterance]N sux:hul[to-be-bad]V sux:du₃[to-erect]V
+c.4.14.1,A hymn to Nanše (Nanše A),,92,sux:nin[lady]N sux:dug₄[to-say]V sux:zid[right]AJ sux:me[essence]N sux:kar₂[to-blow]V
+c.4.14.1,A hymn to Nanše (Nanše A),,93,sux:Nanše[1]DN sux:kur[(mountain)-land]N sux:me-teš₂[praise]N sux:i[to-bring-out]V
+c.4.14.1,A hymn to Nanše (Nanše A),,94,sux:zag-mu[new-year]N sux:ud[day(light)]N sux:ŋarza[rite]N
+c.4.14.1,A hymn to Nanše (Nanše A),,95,sux:nin[lady]N sux:bar[outside]N sux:kug[shining]AJ sux:a[water]N sux:de₂[to-pour]V
+c.4.14.1,A hymn to Nanše (Nanše A),,96,sux:ud[day(light)]N sux:bur[type-of-bowl]N sux:šukur₂[ration]N sux:igi[eye]N sux:kar₂[to-blow]V
+c.4.14.1,A hymn to Nanše (Nanše A),,97,sux:Nanše[1]DN sux:saŋ[head]N sux:kurum₇[inspection]N sux:igi[eye]N sux:kar₂[to-blow]V
+c.4.14.1,A hymn to Nanše (Nanše A),,98,sux:dub-sar[scribe]N sux:mah[to-be-majestic]V sux:Nisaba[1]DN
+c.4.14.1,A hymn to Nanše (Nanše A),,99,sux:dub[tablet]N sux:kal[to-be-rare]V sux:dub₃[knee]N sux:ŋar[to-place]V
+c.4.14.1,A hymn to Nanše (Nanše A),,100,sux:gi-dub-ba[stylus]N sux:kug-sig₁₇[gold]N sux:šu[hand]N sux:te[to-approach]V
+c.4.14.1,A hymn to Nanše (Nanše A),,101,sux:Nanše[1]DN sux:saŋ[head]N sux:gu[(flax)-thread]N sux:dili[single]AJ sux:si[horn]N sux:sa₂[to-equal]V
+c.4.14.1,A hymn to Nanše (Nanše A),,102,sux:kuš[skin]N sux:la₂[to-hang]V sux:kuš[skin]N sux:kur₉[to-enter]V
+c.4.14.1,A hymn to Nanše (Nanše A),,103,sux:gada[linen-(fibre)]N sux:la₂[to-hang]V sux:gada[linen-(fibre)]N sux:dib[to-pass]V
+c.4.14.1,A hymn to Nanše (Nanše A),,104,sux:kuš[skin]N sux:la₂[to-hang]V sux:kuš[skin]N sux:kur₉[to-enter]V
+c.4.14.1,A hymn to Nanše (Nanše A),,105,sux:gada[linen-(fibre)]N sux:la₂[to-hang]V sux:gada[linen-(fibre)]N sux:dib[to-pass]V
+c.4.14.1,A hymn to Nanše (Nanše A),,106,sux:lu₂[person]N sux:dub[tablet]N sux:gub[to-stand]V sux:zag[side]N sux:huŋ[to-hire]V
+c.4.14.1,A hymn to Nanše (Nanše A),,107,sux:igi[eye]N sux:du₈[to-spread]V sux:lu₂-inim-ma[witness]N
+c.4.14.1,A hymn to Nanše (Nanše A),,108,sux:lu₂-inim-ma[witness]N sux:e₂[house(hold)]N sux:sah₆[to-withdraw]V sux:gu₃[voice]N sux:de₂[to-pour]V
+c.4.14.1,A hymn to Nanše (Nanše A),,109,sux:saŋ[head]N sux:balaŋ[type-of-instrument-and-composition]N sux:ki-gub[location]N sux:muš₃[face]N sux:de₆[to-carry]V
+c.4.14.1,A hymn to Nanše (Nanše A),,110,sux:lugal[king]N sux:saŋ[head]N sux:zid[right]AJ sux:en₃[noun-part-of-multiword-verb]N sux:tar[to-cut]V sux:Haia[1]DN sux:lu₂[person]N sux:dub[tablet]N
+c.4.14.1,A hymn to Nanše (Nanše A),,111,sux:saŋ[head]N sux:zid[right]AJ sux:nin[lady]N sux:dug₄[to-say]V sux:im[clay]N sux:gub[to-stand]V
+c.4.14.1,A hymn to Nanše (Nanše A),,112,sux:geme₂[female-slave]N sux:nin[lady]N sux:dug₄[to-say]V sux:im[clay]N sux:kid₇[to-cut]V
+c.4.14.1,A hymn to Nanše (Nanše A),,113,sux:dug[pot]N sux:a[water]N sux:de₂[to-pour]V sux:ŋiri₃[foot]N sux:si[horn]N sux:sa₂[to-equal]V
+c.4.14.1,A hymn to Nanše (Nanše A),,114,sux:buniŋ[type-of-container]N sux:niŋ₂-silaŋ[dough]N sux:luh[to-clean]V
+c.4.14.1,A hymn to Nanše (Nanše A),,115,sux:e₂[house(hold)]N sux:ŋi₆[night]N sux:u₃-na[designation-of-night]N sux:izi[fire]N sux:dib[to-pass]V
+c.4.14.1,A hymn to Nanše (Nanše A),,116,sux:e₂[house(hold)]N sux:an-bar₇[midday]N sux:mu₇-mu₇[incantation]N sux:ŋar[to-place]V
+c.4.14.1,A hymn to Nanše (Nanše A),,117,sux:šita-eš₃-a[type-of-priest]N sux:bal[term-(in-office)]N sux:gub[to-stand]V
+c.4.14.1,A hymn to Nanše (Nanše A),,118,sux:ki-gub[location]N sux:muš₃[face]N sux:de₆[to-carry]V
+c.4.14.1,A hymn to Nanše (Nanše A),,119,sux:susbu[type-of-priest]N sux:lu₂[person]N sux:šukur₂[ration]N sux:bal[term-(in-office)]N sux:re[that]PD sux:inim[word]N sux:ŋar[to-place]V sux:ŋar[to-place]V
+c.4.14.1,A hymn to Nanše (Nanše A),,120,sux:u₃[and]C sux:saŋŋa[temple-administrator]N sux:e₂[house(hold)]N sux:til₃[to-live]V sux:re[that]PD
+c.4.14.1,A hymn to Nanše (Nanše A),,121,sux:šir₃[song]N sux:kug[shining]AJ sux:inim[word]N sux:šag₄[heart]N sux:ŋal₂[to-be-(located)]V sux:pa[branch]N sux:e₃[to-go-out-or-in]V
+c.4.14.1,A hymn to Nanše (Nanše A),,122,sux:zu[to-know]V sux:zu[to-know]V sux:ba[to-allot]V
+c.4.14.1,A hymn to Nanše (Nanše A),,123,sux:ŋarza[rite]N sux:ama[mother]N sux:Nanše[1]DN sux:pa[branch]N sux:e₃[to-go-out-or-in]V sux:ak[to-do]V
+c.4.14.1,A hymn to Nanše (Nanše A),,124,sux:inim[word]N sux:dirig[to-be-superior]V sux:ŋar[to-place]V
+c.4.14.1,A hymn to Nanše (Nanše A),,125,sux:ŋarza[rite]N sux:tah[to-add]V
+c.4.14.1,A hymn to Nanše (Nanše A),,126,sux:me[essence]N sux:me[essence]N sux:na-me[any]PD sux:lu₂[person]N sux:dub[to-heap-up]V
+c.4.14.1,A hymn to Nanše (Nanše A),,127,sux:ur₅[that]PD sux:niŋ₂-nam[anything]PD sux:dub[to-heap-up]V
+c.4.14.1,A hymn to Nanše (Nanše A),,128,sux:e₂[house(hold)]N sux:Nanše[1]DN sux:dub[tablet]N sux:kur₉[to-enter]V
+c.4.14.1,A hymn to Nanše (Nanše A),,129,sux:kar[quay]N sux:lu₂[person]N sux:dib[to-pass]V
+c.4.14.1,A hymn to Nanše (Nanše A),,130,sux:e₂[house(hold)]N sux:Nanše[1]DN sux:id₂-lu₂-ru-gu₂[ordeal-river]N sux:lu₂[person]N sux:dadag[to-be-bright]V
+c.4.14.1,A hymn to Nanše (Nanše A),,131,sux:eš-bar[decision]N sux:kiŋ₂[to-seek]V sux:šir₃[song]N sux:kug[shining]AJ sux:abzu[underground-water]N sux:e₃[to-go-out-or-in]V
+c.4.14.1,A hymn to Nanše (Nanše A),,132,sux:ŠIR₃.MUŠ₃[meaning-unknown]N sux:šir₃[song]N sux:zu[to-know]V
+c.4.14.1,A hymn to Nanše (Nanše A),,133,sux:enkum[type-of-temple-official]N sux:ninkum[type-of-priest]N sux:šu-luh[ritual-cleansing]N sux:pad₃[to-find]V
+c.4.14.1,A hymn to Nanše (Nanše A),,134,sux:inim[word]N sux:tur[to-be-small]V sux:dug₄[to-say]V sux:dirig[to-be-superior]V sux:ŋar[to-place]V
+c.4.14.1,A hymn to Nanše (Nanše A),,135,sux:inim[word]N sux:tah[to-add]V
+c.4.14.1,A hymn to Nanše (Nanše A),,136,sux:ka[mouth]N sux:du₃[to-erect]V sux:niŋ₂-a₂-zig₃[violent-action]N sux:dug₄[to-say]V sux:gu₂[neck]N sux:zig₃[to-rise]V
+c.4.14.1,A hymn to Nanše (Nanše A),,137,sux:šu[hand]N sux:dirig[to-be-superior]V sux:DU[DU]V sux:šu[hand]N sux:mah[to-be-majestic]V sux:gid₂[to-be-long]V
+c.4.14.1,A hymn to Nanše (Nanše A),,138,sux:šu[hand]N sux:sa₂[to-equal]V sux:niŋ₂-a₂-zig₃[violent-action]N sux:dim₂[to-create]V
+c.4.14.1,A hymn to Nanše (Nanše A),,139,sux:uš[foundation]N sux:ŋar[to-place]V sux:šu[hand]N sux:bal[to-turn-over]V sux:in[zone]N sux:dub[to-heap-up]V sux:kur₂[to-be-different]V
+c.4.14.1,A hymn to Nanše (Nanše A),,140,sux:ki[place]N sux:nam-erim₂[oath]N sux:saŋ[head]N sux:gid₂[to-be-long]V
+c.4.14.1,A hymn to Nanše (Nanše A),,141,sux:saŋ[head]N sux:niŋ₂-sag₃[meaning-unknown]N sux:niŋ₂-kud[revenue]N sux:ak[to-do]V sux:niŋ₂-šab[meaning-unknown]N sux:ba[to-allot]V
+c.4.14.1,A hymn to Nanše (Nanše A),,142,sux:na₄[stone]N sux:tur[to-be-small]V sux:na₄[stone]N sux:gal[to-be-big]V sux:šu[hand]N sux:zig₃[to-rise]V
+c.4.14.1,A hymn to Nanše (Nanše A),,143,sux:ba-an[capacity-measure-(container)]N sux:tur[to-be-small]V sux:ba-an[capacity-measure-(container)]N sux:gal[to-be-big]V sux:šu[hand]N sux:zig₃[to-rise]V
+c.4.14.1,A hymn to Nanše (Nanše A),,144,sux:niŋ₂[thing]N sux:tuku[to-have]V sux:niŋ₂[thing]N sux:al[desire]N sux:dug₄[to-say]V
+c.4.14.1,A hymn to Nanše (Nanše A),,145,sux:gu₇[to-eat]V sux:gu₇[to-eat]V sux:dug₄[to-say]V
+c.4.14.1,A hymn to Nanše (Nanše A),,146,sux:naŋ[to-drink]V sux:naŋ[to-drink]V sux:dug₄[to-say]V
+c.4.14.1,A hymn to Nanše (Nanše A),,147,sux:utul₂[tureen]N sux:gub[to-stand]V sux:kaš[beer]N sux:sur[to-drip]V
+c.4.14.1,A hymn to Nanše (Nanše A),,148,sux:geme₂[female-slave]N sux:diŋir[deity]N sux:šu[hand]N sux:la₂[to-hang]V sux:re[that]PD sux:e₂[house(hold)]N sux:gi₄[to-return]V
+c.4.14.1,A hymn to Nanše (Nanše A),,149,sux:nir[authority]N sux:ŋal₂[to-be-(located)]V sux:e₂[house(hold)]N sux:til₃[to-live]V sux:re[that]PD sux:igi-tum₃[coveting]N sux:la₂[to-hang]V sux:ak[to-do]V
+c.4.14.1,A hymn to Nanše (Nanše A),,150,sux:keše₂[to-bind]V sux:gu₇[to-eat]V sux:dug₄[to-say]V
+c.4.14.1,A hymn to Nanše (Nanše A),,151,sux:keše₂[to-bind]V sux:naŋ[to-drink]V sux:dug₄[to-say]V
+c.4.14.1,A hymn to Nanše (Nanše A),,152,sux:Nanše[1]DN sux:ninda[bread]N sux:i₃[fatty-substance]N sux:nunuz[egg]N sux:dalla[to-be-bright]V
+c.4.14.1,A hymn to Nanše (Nanše A),,153,sux:ki[place]N sux:a₂[arm]N sux:zig₃[to-rise]V sux:lu₂[person]N sux:gu₇[to-eat]V
+c.4.14.1,A hymn to Nanše (Nanše A),,154,sux:lu₂[person]N sux:a₂[arm]N sux:zig₃[to-rise]V sux:gu₇[to-eat]V sux:inim[word]N sux:de₆[to-carry]V
+c.4.14.1,A hymn to Nanše (Nanše A),,155,sux:igi[eye]N sux:zu₂[tooth]N sux:guz[to-be-crushed]V sux:ŋiri₃[foot]N sux:ki[place]N sux:te[to-approach]V
+c.4.14.1,A hymn to Nanše (Nanše A),,156,sux:sig₁₀[to-place]V sux:sa₂[to-equal]V
+c.4.14.1,A hymn to Nanše (Nanše A),,157,sux:a₂-ŋal₂[strong]AJ sux:lu₂[person]N
+c.4.14.1,A hymn to Nanše (Nanše A),,158,sux:a₂-tuku[powerful]AJ sux:e-sir₂[street]N sux:gi[reed]N sux:du₃[to-erect]V
+c.4.14.1,A hymn to Nanše (Nanše A),,159,sux:lu₂[person]N sux:dam[spouse]N sux:tuku[to-have]V sux:nu-mu-un-su[widow]N sux:dam[spouse]N
+c.4.14.1,A hymn to Nanše (Nanše A),,160,sux:ud[day(light)]N sux:ib₂[to-be-furious]V sux:zu₂[tooth]N sux:li₉[verb-part-of-multiword-verb]V
+c.4.14.1,A hymn to Nanše (Nanše A),,161,sux:ud[day(light)]N sux:su-mu-ug[distress]N sux:a-tar[mockery]N sux:ak[to-do]V
+c.4.14.1,A hymn to Nanše (Nanše A),,162,sux:nin[lady]N sux:zig₃[to-rise]V
+c.4.14.1,A hymn to Nanše (Nanše A),,163,sux:nin[lady]N sux:saŋ[head]N sux:en₃[noun-part-of-multiword-verb]N sux:tar[to-cut]V sux:kur[(mountain)-land]N
+c.4.14.1,A hymn to Nanše (Nanše A),,164,sux:in-nin[mistress]N sux:ama[mother]N sux:Nanše[1]DN sux:šag₄[heart]N sux:igi[eye]N sux:ŋal₂[to-be-(located)]V
+c.4.14.1,A hymn to Nanše (Nanše A),,165,sux:nu-siki[orphan]N sux:ka[mouth]N sux:saŋ[head]N sux:ak[to-do]V sux:nu-mu-un-su[widow]N sux:aŋ₂[to-measure]V
+c.4.14.1,A hymn to Nanše (Nanše A),,166,sux:ki-gul-la[destitute-person]N sux:a₂-tuku[powerful]AJ sux:ŋar[to-place]V
+c.4.14.1,A hymn to Nanše (Nanše A),,167,sux:a₂-tuku[powerful]AJ sux:a₂[arm]N sux:tuku[to-have]V sux:ŋar[to-place]V
+c.4.14.1,A hymn to Nanše (Nanše A),,168,sux:ama[mother]N sux:dumu[child]N sux:gu₃[voice]N sux:a₂[arm]N sux:zig₃[to-rise]V sux:de₂[to-pour]V
+c.4.14.1,A hymn to Nanše (Nanše A),,169,sux:dumu[child]N sux:ama[mother]N sux:ka[mouth]N sux:du₃[to-erect]V sux:dug₄[to-say]V
+c.4.14.1,A hymn to Nanše (Nanše A),,170,sux:šeš-ban₃-da[younger-brother]N sux:šeš-gal[elder-brother]N sux:inim[word]N sux:gaba[chest]N sux:dug₄[to-say]V sux:a-a[father]N sux:inim[word]N sux:gi₄[to-return]V
+c.4.14.1,A hymn to Nanše (Nanše A),,171,sux:nin[lady]N sux:gid₂[to-be-long]V sux:lu₂[person]N sux:šu[hand]N sux:nu₂[to-lie-down]V
+c.4.14.1,A hymn to Nanše (Nanše A),,172,sux:Nanše[1]DN sux:gid₂[to-be-long]V sux:lu₂[person]N sux:šu[hand]N sux:ŋal₂[to-be-(located)]V
+c.4.14.1,A hymn to Nanše (Nanše A),,173,sux:šag₄[heart]N sux:kalam[the-Land]N sux:gi[reed]N sux:hal[to-divide-out]V sux:Nanše[1]DN sux:igi[eye]N sux:ŋal₂[to-be-(located)]V
+c.4.14.1,A hymn to Nanše (Nanše A),,174,sux:zag[side]N sux:lu₂[person]N sux:ŋal₂[to-be-(located)]V
+c.4.14.1,A hymn to Nanše (Nanše A),,175,sux:niŋir[herald]N sux:en[lord]N sux:Hendursaŋa[1]DN sux:zu₂[tooth]N sux:keše₂[to-bind]V sux:ak[to-do]V
+c.4.14.1,A hymn to Nanše (Nanše A),,176,sux:lamma[guardian-deity]N sux:Dumu-tur-šu-gi[1]DN sux:ŋiš-la₂-bi[silence]N sux:DU[DU]V
+c.4.14.1,A hymn to Nanše (Nanše A),,177,sux:udug[type-of-demon]N sux:ka[mouth]N sux:gi[reed]N sux:gub[to-stand]V sux:ka[mouth]N sux:gi[reed]N sux:en-nu-uŋ₃[guard]N sux:ak[to-do]V
+c.4.14.1,A hymn to Nanše (Nanše A),,178,sux:e₂[house(hold)]N sux:Sirara[1]SN sux:a[water]N sux:su₃[to-sprinkle]V
+c.4.14.1,A hymn to Nanše (Nanše A),,179,sux:e₂[house(hold)]N sux:an-bar₇[midday]N sux:e₂[house(hold)]N sux:sa[net]N sux:la₂[to-hang]V
+c.4.14.1,A hymn to Nanše (Nanše A),,180,sux:Nanše[1]DN sux:inim[word]N sux:sa₂[to-equal]V
+c.4.14.1,A hymn to Nanše (Nanše A),,181,sux:u₃-luh[sceptre]N sux:sud[to-be-distant]V sux:abzu[underground-water]N sux:šag₄[heart]N sux:nir-ŋal₂[authoritative]AJ
+c.4.14.1,A hymn to Nanše (Nanše A),,182,sux:gi-gun₄-na[temple-terrace]N sux:e₂[house(hold)]N sux:Nanše[1]DN sux:en[lord]N sux:gaba[chest]N sux:gi₄[to-return]V sux:tuku[to-have]V
+c.4.14.1,A hymn to Nanše (Nanše A),,183,sux:a₂[arm]N sux:aŋ₂[to-measure]V sux:e₂[house(hold)]N sux:Nanše[1]DN
+c.4.14.1,A hymn to Nanše (Nanše A),,184,sux:lugal[king]N sux:en[lord]N sux:Hendursaŋa[1]DN sux:e₃[to-go-out-or-in]V
+c.4.14.1,A hymn to Nanše (Nanše A),,185,sux:i-bi₂[smoke]N sux:dugud[to-be-heavy]V sux:ki[place]N sux:us₂[to-be-adjacent]V
+c.4.14.1,A hymn to Nanše (Nanše A),,186,sux:inim[word]N sux:dungu[cloud]N sux:sir₂[to-be-dense]V sux:an[heaven]N sux:la₂[to-hang]V
+c.4.14.1,A hymn to Nanše (Nanše A),,187,sux:bulug[sharp-object]N sux:nam-dam[matrimony]N sux:teš₂[unity]N sux:dab₅[to-seize]V
+c.4.14.1,A hymn to Nanše (Nanše A),,188,sux:lugal[king]N sux:en[lord]N sux:Hendursaŋa[1]DN sux:teš₂[unity]N sux:si-il[to-split-apart]V
+c.4.14.1,A hymn to Nanše (Nanše A),,189,sux:zid-du[righteous]AJ sux:zid-du[righteous]AJ sux:gub[to-stand]V
+c.4.14.1,A hymn to Nanše (Nanše A),,190,sux:erim₂-du[wicked]AJ sux:ki-erim₂[enemy-territory]N sux:šum₂[to-give]V
+c.4.14.1,A hymn to Nanše (Nanše A),,191,sux:di[(law)suit]N sux:nu-siki[orphan]N sux:kud[to-cut]V
+c.4.14.1,A hymn to Nanše (Nanše A),,192,sux:di[(law)suit]N sux:nu-mu-un-su[widow]N sux:us₂[to-be-adjacent]V
+c.4.14.1,A hymn to Nanše (Nanše A),,193,sux:di[(law)suit]N sux:ama[mother]N sux:dumu[child]N sux:si[horn]N sux:sa₂[to-equal]V
+c.4.14.1,A hymn to Nanše (Nanše A),,194,sux:tukum-bi[if]C sux:ama[mother]N sux:dumu[child]N
+c.4.14.1,A hymn to Nanše (Nanše A),,195,sux:tuku[to-have]V sux:gu₇[to-eat]V sux:tuku[to-have]V sux:naŋ[to-drink]V
+c.4.14.1,A hymn to Nanše (Nanše A),,196,sux:in-bul-bul[chaff]N sux:ka[mouth]N sux:bur₁₂[to-tear-out]V
+c.4.14.1,A hymn to Nanše (Nanše A),,197,sux:zag[side]N sux:lu₂[person]N sux:sa₂-dug₄[regular-offering]N sux:tuš[to-sit]V
+c.4.14.1,A hymn to Nanše (Nanše A),,198,sux:u₂[plant]N sux:il₂[to-raise]V sux:edin[open-country]N sux:niŋ₂-tum₂[delivery]N sux:ama[mother]N sux:dib[to-pass]V
+c.4.14.1,A hymn to Nanše (Nanše A),,199,sux:ama[mother]N sux:iri[town]N sux:gal[to-be-big]V sux:tud[to-give-birth]V
+c.4.14.1,A hymn to Nanše (Nanše A),,200,sux:igi[eye]N sux:šarag[to-dry-out]V sux:gu₂[neck]N sux:šub[to-fall]V sux:inim[word]N sux:dug₄[to-say]V
+c.4.14.1,A hymn to Nanše (Nanše A),,201,sux:tukum-bi[if]C sux:ama[mother]N sux:dumu[child]N
+c.4.14.1,A hymn to Nanše (Nanše A),,202,sux:ki[place]N sux:a₂[arm]N sux:zig₃[to-rise]V sux:gu₃[voice]N sux:de₂[to-pour]V
+c.4.14.1,A hymn to Nanše (Nanše A),,203,sux:ama[mother]N sux:šu[hand]N sux:sig₉[to-put]V
+c.4.14.1,A hymn to Nanše (Nanše A),,204,sux:ubur[breast]N sux:ga[milk]N sux:ŋal₂[to-be-(located)]V sux:a[water]N sux:naŋ[to-drink]V
+c.4.14.1,A hymn to Nanše (Nanše A),,205,sux:ama[mother]N sux:inim[word]N sux:kiŋ₂[to-seek]V sux:inim[word]N sux:kiŋ₂[to-seek]V
+c.4.14.1,A hymn to Nanše (Nanše A),,206,sux:nin[lady]N sux:bulug[sharp-object]N sux:ki[place]N sux:e₃[to-go-out-or-in]V
+c.4.14.1,A hymn to Nanše (Nanše A),,207,sux:lugal[king]N sux:niŋ₂-si-sa₂[justice]N sux:ki[place]N sux:aŋ₂[to-measure]V sux:Hendursaŋa[1]DN
+c.4.14.1,A hymn to Nanše (Nanše A),,208,sux:inim[word]N sux:si[horn]N sux:sa₂[to-equal]V sux:di[(law)suit]N sux:igi[eye]N
+c.4.14.1,A hymn to Nanše (Nanše A),,209,sux:nam-tag[sin]N sux:ugu[skull]N sux:ama[mother]N sux:dumu[child]N sux:ŋar[to-place]V
+c.4.14.1,A hymn to Nanše (Nanše A),,210,sux:a₂[arm]N sux:nam-tag[sin]N sux:dugud[to-be-heavy]V sux:il₂[to-raise]V
+c.4.14.1,A hymn to Nanše (Nanše A),,211,sux:lu₂-ulu₃[person]N sux:diŋir[deity]N sux:a-ra-zu[supplication]N sux:tuku[to-have]V
+c.4.14.1,A hymn to Nanše (Nanše A),,212,sux:tukum-bi[if]C sux:ama[mother]N sux:dumu[child]N
+c.4.14.1,A hymn to Nanše (Nanše A),,213,sux:tuku[to-have]V sux:gu₇[to-eat]V sux:tuku[to-have]V sux:naŋ[to-drink]V
+c.4.14.1,A hymn to Nanše (Nanše A),,214,sux:in-bul-bul[chaff]N sux:ka[mouth]N sux:bur₁₂[to-tear-out]V
+c.4.14.1,A hymn to Nanše (Nanše A),,215,sux:zag[side]N sux:lu₂[person]N sux:sa₂-dug₄[regular-offering]N sux:tuš[to-sit]V
+c.4.14.1,A hymn to Nanše (Nanše A),,216,sux:u₂[plant]N sux:il₂[to-raise]V sux:edin[open-country]N sux:niŋ₂-tum₂[delivery]N sux:ama[mother]N sux:dib[to-pass]V
+c.4.14.1,A hymn to Nanše (Nanše A),,217,sux:ama[mother]N sux:iri[town]N sux:gal[to-be-big]V sux:tud[to-give-birth]V
+c.4.14.1,A hymn to Nanše (Nanše A),,218,sux:igi[eye]N sux:šarag[to-dry-out]V sux:gu₂[neck]N sux:šub[to-fall]V sux:inim[word]N sux:dug₄[to-say]V
+c.4.14.1,A hymn to Nanše (Nanše A),,219,sux:lugal[king]N sux:niŋ₂-a₂-zig₃[violent-action]N sux:hul[to-be-bad]V sux:gig[to-be-ill]V sux:Hendursaŋa[1]DN
+c.4.14.1,A hymn to Nanše (Nanše A),,220,sux:lu₂-ulu₃[person]N sux:a[water]N sux:ki-lul-la[place-of-iniquity]N sux:dug₄[to-say]V
+c.4.14.1,A hymn to Nanše (Nanše A),,221,sux:dumu[child]N sux:še[barley]N sux:sahar[earth]N sux:sis[to-be-bitter]V sux:zag[side]N sux:tag[to-touch]V
+c.4.14.1,A hymn to Nanše (Nanše A),,222,sux:inim[word]N sux:ama[mother]N sux:ugu[to-give-birth]V sux:ba[to-allot]V sux:lu₂[person]N sux:šum₂[to-give]V
+c.4.14.1,A hymn to Nanše (Nanše A),,223,sux:in[zone]N sux:dub[to-heap-up]V sux:inim[word]N sux:gen₆[to-be-firm]V
+c.4.14.1,A hymn to Nanše (Nanše A),,224,sux:gal-zu[skilful]AJ sux:inim[word]N sux:si[horn]N sux:sa₂[to-equal]V
+c.4.14.1,A hymn to Nanše (Nanše A),,225,sux:nin[lady]N sux:um-ma[experienced-woman]N sux:Lagaš[1]SN sux:ki[place]N sux:ŋar[to-place]V
+c.4.14.1,A hymn to Nanše (Nanše A),,226,sux:Ŋatumdug[1]DN
+c.4.14.1,A hymn to Nanše (Nanše A),,227,sux:Nanše[1]DN sux:inim[word]N sux:si[horn]N sux:sa₂[to-equal]V
+c.4.14.1,A hymn to Nanše (Nanše A),,228,sux:nin[lady]N sux:mah[to-be-majestic]V sux:inim[word]N
+c.4.14.1,A hymn to Nanše (Nanše A),,229,sux:nin[lady]N sux:Enlil[1]DN sux:nam[destiny]N sux:tar[to-cut]V
+c.4.14.1,A hymn to Nanše (Nanše A),,230,sux:barag[dais]N sux:Sirara[1]SN
+c.4.14.1,A hymn to Nanše (Nanše A),,231,sux:me[essence]N sux:šen[to-be-pure]V sux:igi[eye]N sux:ŋal₂[to-be-(located)]V
+c.4.14.1,A hymn to Nanše (Nanše A),,232,sux:e₂[house(hold)]N sux:abzu[underground-water]N sux:me[essence]N sux:ba[to-allot]V
+c.4.14.1,A hymn to Nanše (Nanše A),,233,sux:Sirara[1]SN sux:diŋir[deity]N sux:Lagaš[1]SN sux:gu₂[neck]N sux:si[to-fill]V
+c.4.14.1,A hymn to Nanše (Nanše A),,234,sux:na₄[stone]N sux:gen₆[to-be-firm]V sux:kug[precious-metal]N sux:la₂[to-hang]V sux:gi-gur[capacity-measure-(container)]N sux:gen₆[to-be-firm]V sux:gub[to-stand]V
+c.4.14.1,A hymn to Nanše (Nanše A),,235,sux:ba-an[capacity-measure-(container)]N sux:inim[word]N sux:gen₆[to-be-firm]V sux:kur[(mountain)-land]N sux:šu[hand]N sux:ŋar[to-place]V
+c.4.14.1,A hymn to Nanše (Nanše A),,236,sux:sipad[shepherd]N sux:mas-su[leader]N sux:kalam[the-Land]N sux:ŋal₂[to-be-(located)]V sux:kur[(mountain)-land]N
+c.4.14.1,A hymn to Nanše (Nanše A),,237,sux:Ištaran[1]DN sux:di[(law)suit]N sux:si[horn]N sux:sa₂[to-equal]V sux:kalam[the-Land]N sux:til₃[to-live]V
+c.4.14.1,A hymn to Nanše (Nanše A),,238,sux:Ninŋišzida[1]DN sux:dab₅[to-seize]V
+c.4.14.1,A hymn to Nanše (Nanše A),,239,sux:si[horn]N sux:sa₂[to-equal]V
+c.4.14.1,A hymn to Nanše (Nanše A),,240,sux:ba[to-allot]V
+c.4.14.1,A hymn to Nanše (Nanše A),,241,sux:na₄[stone]N sux:gen₆[to-be-firm]V sux:kug[precious-metal]N sux:la₂[to-hang]V sux:gi-gur[capacity-measure-(container)]N sux:gen₆[to-be-firm]V sux:gub[to-stand]V
+c.4.14.1,A hymn to Nanše (Nanše A),,242,sux:ba-an[capacity-measure-(container)]N sux:inim[word]N sux:gen₆[to-be-firm]V sux:kur[(mountain)-land]N sux:šu[hand]N sux:ŋar[to-place]V
+c.4.14.1,A hymn to Nanše (Nanše A),,243,sux:mah[to-be-majestic]V sux-x-emesal:mar-za[rite]N sux:gal[to-be-big]V
+c.4.14.1,A hymn to Nanše (Nanše A),,244,sux:šu[hand]N sux:ŋiš[tree]N
+c.4.14.1,A hymn to Nanše (Nanše A),,245,sux:erim₃[storehouse]N sux:ŋar[to-place]V
+c.4.14.1,A hymn to Nanše (Nanše A),,246,sux:dug[pot]N sux:a[water]N sux:silig[to-cease]V
+c.4.14.1,A hymn to Nanše (Nanše A),,247,sux:pisaŋ[basket]N sux:muš₃[face]N sux:de₆[to-carry]V
+c.4.14.1,A hymn to Nanše (Nanše A),,248,sux:nin[lady]N sux:erim₃[storehouse]N
+c.4.14.1,A hymn to Nanše (Nanše A),,249,sux:mah[to-be-majestic]V sux:ŋar[to-place]V sux:kug-dun[profit]N sux:tuku[to-have]V
+c.4.14.1,A hymn to Nanše (Nanše A),,250,sux:niŋir[herald]N sux:en[lord]N sux:Hendursaŋa[1]DN sux:a₂[arm]N sux:aŋ₂[to-measure]V
+c.4.14.1,A hymn to Nanše (Nanše A),,251,sux:nin[lady]N sux:me[essence]N sux:me[essence]N sux:mah[to-be-majestic]V sux:me[essence]N sux:dirig[to-be-superior]V
+c.4.14.1,A hymn to Nanše (Nanše A),,252,sux:Nanše[1]DN sux:me[essence]N sux:me[essence]N sux:na-me[any]PD sux:sa₂[to-equal]V
+c.4.14.1,A hymn to Nanše (Nanše A),,253,sux:An[1]DN sux:lugal[king]N sux:igi[eye]N sux:hul₂[to-be-happy]V sux:bar[to-set-aside]V
+c.4.14.1,A hymn to Nanše (Nanše A),,254,sux:Enlil[1]DN sux:barag[dais]N sux:nam[destiny]N sux:tar[to-cut]V sux:tuš[to-sit]V
+c.4.14.1,A hymn to Nanše (Nanše A),,255,sux:a-a[father]N sux:Enki[1]DN sux:nam[destiny]N sux:tar[to-cut]V
+c.4.14.1,A hymn to Nanše (Nanše A),,256,sux:Nanše[1]DN sux:dumu[child]N sux:Eridug[1]SN sux:tud[to-give-birth]V sux:za₃-mi₂[praise]N sux:dug₃[to-be-good]V

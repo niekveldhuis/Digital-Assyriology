@@ -1,14 +1,14 @@
 id_text,text_name,version,l_no,text
-c.3.3.12,Letter from Inim-Inana to Lugal-ibila,,1,Lugal-ibila[1]PN dug₄[to-say]V
-c.3.3.12,Letter from Inim-Inana to Lugal-ibila,,2,Inim-Inana[1]PN dug₄[to-say]V
-c.3.3.12,Letter from Inim-Inana to Lugal-ibila,,3,eme-gir₁₅[Sumerian-language]N gu₂[neck]N šub[to-fall]V
-c.3.3.12,Letter from Inim-Inana to Lugal-ibila,,4,2-kam-ma[2nd]NU eme[tongue]N si[horn]N sa₂[to-equal]V lu₂[person]N gi₄[to-return]V
-c.3.3.12,Letter from Inim-Inana to Lugal-ibila,,4A,ŋal₂[to-be-(located)]V
-c.3.3.12,Letter from Inim-Inana to Lugal-ibila,,5,lu₂-tur[child]N igi[eye]N tuš[to-sit]V
-c.3.3.12,Letter from Inim-Inana to Lugal-ibila,,6,e₂-dub-ba-a[scribal-school]N e₃[to-go-out-or-in]V
-c.3.3.12,Letter from Inim-Inana to Lugal-ibila,,7,na-an-ga-ma[be-that-as-it-may]AV lu₂[person]N na-me[any]PD lul[to-be-false]V sig₁₀[to-place]V
-c.3.3.12,Letter from Inim-Inana to Lugal-ibila,,8,ugu[skull]N ad-da[father]N ŋen[to-go]V dug₄[to-say]V
-c.3.3.12,Letter from Inim-Inana to Lugal-ibila,,9,en-na[as-long-as]C ŋiškim[sign]N ŋe₂₆[I]PD u₃[and]C za[you-(sg.)]PD inim[word]N bal[to-turn-over]V
-c.3.3.12,Letter from Inim-Inana to Lugal-ibila,,10,lu₂[person]N gi₄[to-return]V
-c.3.3.12,Letter from Inim-Inana to Lugal-ibila,,11,lu₂-tur[child]N šu[hand]N bar[to-set-aside]V
-c.3.3.12,Letter from Inim-Inana to Lugal-ibila,,12,tuku[to-have]V a-ma-ru[flood]N
+c.3.3.12,Letter from Inim-Inana to Lugal-ibila,,1,sux:Lugal-ibila[1]PN sux:dug₄[to-say]V
+c.3.3.12,Letter from Inim-Inana to Lugal-ibila,,2,sux:Inim-Inana[1]PN sux:dug₄[to-say]V
+c.3.3.12,Letter from Inim-Inana to Lugal-ibila,,3,sux:eme-gir₁₅[Sumerian-language]N sux:gu₂[neck]N sux:šub[to-fall]V
+c.3.3.12,Letter from Inim-Inana to Lugal-ibila,,4,sux:2-kam-ma[2nd]NU sux:eme[tongue]N sux:si[horn]N sux:sa₂[to-equal]V sux:lu₂[person]N sux:gi₄[to-return]V
+c.3.3.12,Letter from Inim-Inana to Lugal-ibila,,4A,sux:ŋal₂[to-be-(located)]V
+c.3.3.12,Letter from Inim-Inana to Lugal-ibila,,5,sux:lu₂-tur[child]N sux:igi[eye]N sux:tuš[to-sit]V
+c.3.3.12,Letter from Inim-Inana to Lugal-ibila,,6,sux:e₂-dub-ba-a[scribal-school]N sux:e₃[to-go-out-or-in]V
+c.3.3.12,Letter from Inim-Inana to Lugal-ibila,,7,sux:na-an-ga-ma[be-that-as-it-may]AV sux:lu₂[person]N sux:na-me[any]PD sux:lul[to-be-false]V sux:sig₁₀[to-place]V
+c.3.3.12,Letter from Inim-Inana to Lugal-ibila,,8,sux:ugu[skull]N sux:ad-da[father]N sux:ŋen[to-go]V sux:dug₄[to-say]V
+c.3.3.12,Letter from Inim-Inana to Lugal-ibila,,9,sux:en-na[as-long-as]C sux:ŋiškim[sign]N sux:ŋe₂₆[I]PD sux:u₃[and]C sux:za[you-(sg.)]PD sux:inim[word]N sux:bal[to-turn-over]V
+c.3.3.12,Letter from Inim-Inana to Lugal-ibila,,10,sux:lu₂[person]N sux:gi₄[to-return]V
+c.3.3.12,Letter from Inim-Inana to Lugal-ibila,,11,sux:lu₂-tur[child]N sux:šu[hand]N sux:bar[to-set-aside]V
+c.3.3.12,Letter from Inim-Inana to Lugal-ibila,,12,sux:tuku[to-have]V sux:a-ma-ru[flood]N

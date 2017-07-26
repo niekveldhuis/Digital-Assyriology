@@ -1,33 +1,33 @@
 id_text,text_name,version,l_no,text
-c.1.7.6,How grain came to Sumer,,1,uŋ₃[people]N udu[sheep]N u₂[plant]N ka[mouth]N gu₇[to-eat]V
-c.1.7.6,How grain came to Sumer,,2,ud[day(light)]N re[that]PD Ezina[1]DN še[barley]N gu[(flax)-thread]N zu[to-know]V
-c.1.7.6,How grain came to Sumer,,3,An[1]DN an-šag₄[interior-of-heaven]N ed₃[to-go-down-or-up]V
-c.1.7.6,How grain came to Sumer,,4,Enlil[1]DN a₂[arm]N tarah[wild-goat]N hur-saŋ[mountain-(range)]N galam[to-be-skilful]V ed₃[to-go-down-or-up]V igi[eye]N il₂[to-raise]V
-c.1.7.6,How grain came to Sumer,,5,igi[eye]N sig[to-be-low]V il₂[to-raise]V a-ab-ba[sea(water)]N sug₄[to-be-full]V
-c.1.7.6,How grain came to Sumer,,6,igi-nim[upper-land]N il₂[to-raise]V kur[(mountain)-land]N šim[aromatic-(fragrance)]N erin[cedar]N
-c.1.7.6,How grain came to Sumer,,7,Enlil[1]DN še[barley]N dub[to-heap-up]V kur[(mountain)-land]N šum₂[to-give]V
-c.1.7.6,How grain came to Sumer,,8,he₂-ŋal₂[plenty]N kalam[the-Land]N kur[(mountain)-land]N in-nu-ha[type-of-barley]N šum₂[to-give]V
-c.1.7.6,How grain came to Sumer,,9,hur-saŋ[mountain-(range)]N ŋal₂[to-open]V taka₄[to-leave-behind]V igi[eye]N tab[to-be-parallel]V
-c.1.7.6,How grain came to Sumer,,10,saŋ-kul[(locking)-bar]N an[heaven]N ki[place]N
-c.1.7.6,How grain came to Sumer,,11,suhub₄[door-bolt]N
+c.1.7.6,How grain came to Sumer,,1,sux:uŋ₃[people]N sux:udu[sheep]N sux:u₂[plant]N sux:ka[mouth]N sux:gu₇[to-eat]V
+c.1.7.6,How grain came to Sumer,,2,sux:ud[day(light)]N sux:re[that]PD sux:Ezina[1]DN sux:še[barley]N sux:gu[(flax)-thread]N sux:zu[to-know]V
+c.1.7.6,How grain came to Sumer,,3,sux:An[1]DN sux:an-šag₄[interior-of-heaven]N sux:ed₃[to-go-down-or-up]V
+c.1.7.6,How grain came to Sumer,,4,sux:Enlil[1]DN sux:a₂[arm]N sux:tarah[wild-goat]N sux:hur-saŋ[mountain-(range)]N sux:galam[to-be-skilful]V sux:ed₃[to-go-down-or-up]V sux:igi[eye]N sux:il₂[to-raise]V
+c.1.7.6,How grain came to Sumer,,5,sux:igi[eye]N sux:sig[to-be-low]V sux:il₂[to-raise]V sux:a-ab-ba[sea(water)]N sux:sug₄[to-be-full]V
+c.1.7.6,How grain came to Sumer,,6,sux:igi-nim[upper-land]N sux:il₂[to-raise]V sux:kur[(mountain)-land]N sux:šim[aromatic-(fragrance)]N sux:erin[cedar]N
+c.1.7.6,How grain came to Sumer,,7,sux:Enlil[1]DN sux:še[barley]N sux:dub[to-heap-up]V sux:kur[(mountain)-land]N sux:šum₂[to-give]V
+c.1.7.6,How grain came to Sumer,,8,sux:he₂-ŋal₂[plenty]N sux:kalam[the-Land]N sux:kur[(mountain)-land]N sux:in-nu-ha[type-of-barley]N sux:šum₂[to-give]V
+c.1.7.6,How grain came to Sumer,,9,sux:hur-saŋ[mountain-(range)]N sux:ŋal₂[to-open]V sux:taka₄[to-leave-behind]V sux:igi[eye]N sux:tab[to-be-parallel]V
+c.1.7.6,How grain came to Sumer,,10,sux:saŋ-kul[(locking)-bar]N sux:an[heaven]N sux:ki[place]N
+c.1.7.6,How grain came to Sumer,,11,sux:suhub₄[door-bolt]N
 c.1.7.6,How grain came to Sumer,,12,
-c.1.7.6,How grain came to Sumer,,13,ud[day(light)]N Ninazu[1]DN
-c.1.7.6,How grain came to Sumer,,14,šeš[brother]N Ninmada[1]DN gu₃[voice]N de₂[to-pour]V
-c.1.7.6,How grain came to Sumer,,15,kur[(mountain)-land]N ŋen[to-go]V
-c.1.7.6,How grain came to Sumer,,16,kur[(mountain)-land]N še[barley]N gu[(flax)-thread]N mu₂[to-grow]V
-c.1.7.6,How grain came to Sumer,,17,id₂[watercourse]N hal-hal[to-roll]V a[water]N ki[place]N
-c.1.7.6,How grain came to Sumer,,18,še[barley]N kur[(mountain)-land]N ed₃[to-go-down-or-up]V
-c.1.7.6,How grain came to Sumer,,19,in-nu-ha[type-of-barley]N Sumer[1]GN
-c.1.7.6,How grain came to Sumer,,20,Sumer[1]GN še[barley]N zu[to-know]V še[barley]N
-c.1.7.6,How grain came to Sumer,,21,Ninmada[1]DN šudu₃[prayer]N An[1]DN gi₄[to-return]V
-c.1.7.6,How grain came to Sumer,,22,niŋ₂[thing]N a-a[father]N dug₄[to-say]V
-c.1.7.6,How grain came to Sumer,,23,niŋ₂[thing]N Enlil[1]DN dug₄[to-say]V
-c.1.7.6,How grain came to Sumer,,24,a-na-gin₇[how]AV kur[(mountain)-land]N ŋen[to-go]V
-c.1.7.6,How grain came to Sumer,,25,še[barley]N kur[(mountain)-land]N a-na-gin₇[how]AV ed₃[to-go-down-or-up]V
-c.1.7.6,How grain came to Sumer,,26,in-nu-ha[type-of-barley]N Sumer[1]GN a-na-gin₇[how]AV kur₉[to-enter]V
-c.1.7.6,How grain came to Sumer,,27,Sumer[1]GN še[barley]N zu[to-know]V a-na-gin₇[how]AV zu[to-know]V
-c.1.7.6,How grain came to Sumer,,28,ŋen[to-go]V Utu[1]DN an[heaven]N ŋen[to-go]V
-c.1.7.6,How grain came to Sumer,,29,lu₂[person]N nu₂[to-lie-down]V lu₂[person]N nu₂[to-lie-down]V u₃-sa₂[sleep]N ku[to-lay-down]V
-c.1.7.6,How grain came to Sumer,,30,ur-saŋ[hero]N dumu[child]N Ningal[1]DN lu₂[person]N nu₂[to-lie-down]V u₃-sa₂[sleep]N ku[to-lay-down]V
-c.1.7.6,How grain came to Sumer,,31,Utu[1]DN ig[door]N 70[70]NU šu[hand]N zig₃[to-rise]V
-c.1.7.6,How grain came to Sumer,,32,Utu[1]DN banšur[(offering)-table]N
+c.1.7.6,How grain came to Sumer,,13,sux:ud[day(light)]N sux:Ninazu[1]DN
+c.1.7.6,How grain came to Sumer,,14,sux:šeš[brother]N sux:Ninmada[1]DN sux:gu₃[voice]N sux:de₂[to-pour]V
+c.1.7.6,How grain came to Sumer,,15,sux:kur[(mountain)-land]N sux:ŋen[to-go]V
+c.1.7.6,How grain came to Sumer,,16,sux:kur[(mountain)-land]N sux:še[barley]N sux:gu[(flax)-thread]N sux:mu₂[to-grow]V
+c.1.7.6,How grain came to Sumer,,17,sux:id₂[watercourse]N sux:hal-hal[to-roll]V sux:a[water]N sux:ki[place]N
+c.1.7.6,How grain came to Sumer,,18,sux:še[barley]N sux:kur[(mountain)-land]N sux:ed₃[to-go-down-or-up]V
+c.1.7.6,How grain came to Sumer,,19,sux:in-nu-ha[type-of-barley]N sux:Sumer[1]GN
+c.1.7.6,How grain came to Sumer,,20,sux:Sumer[1]GN sux:še[barley]N sux:zu[to-know]V sux:še[barley]N
+c.1.7.6,How grain came to Sumer,,21,sux:Ninmada[1]DN sux:šudu₃[prayer]N sux:An[1]DN sux:gi₄[to-return]V
+c.1.7.6,How grain came to Sumer,,22,sux:niŋ₂[thing]N sux:a-a[father]N sux:dug₄[to-say]V
+c.1.7.6,How grain came to Sumer,,23,sux:niŋ₂[thing]N sux:Enlil[1]DN sux:dug₄[to-say]V
+c.1.7.6,How grain came to Sumer,,24,sux:a-na-gin₇[how]AV sux:kur[(mountain)-land]N sux:ŋen[to-go]V
+c.1.7.6,How grain came to Sumer,,25,sux:še[barley]N sux:kur[(mountain)-land]N sux:a-na-gin₇[how]AV sux:ed₃[to-go-down-or-up]V
+c.1.7.6,How grain came to Sumer,,26,sux:in-nu-ha[type-of-barley]N sux:Sumer[1]GN sux:a-na-gin₇[how]AV sux:kur₉[to-enter]V
+c.1.7.6,How grain came to Sumer,,27,sux:Sumer[1]GN sux:še[barley]N sux:zu[to-know]V sux:a-na-gin₇[how]AV sux:zu[to-know]V
+c.1.7.6,How grain came to Sumer,,28,sux:ŋen[to-go]V sux:Utu[1]DN sux:an[heaven]N sux:ŋen[to-go]V
+c.1.7.6,How grain came to Sumer,,29,sux:lu₂[person]N sux:nu₂[to-lie-down]V sux:lu₂[person]N sux:nu₂[to-lie-down]V sux:u₃-sa₂[sleep]N sux:ku[to-lay-down]V
+c.1.7.6,How grain came to Sumer,,30,sux:ur-saŋ[hero]N sux:dumu[child]N sux:Ningal[1]DN sux:lu₂[person]N sux:nu₂[to-lie-down]V sux:u₃-sa₂[sleep]N sux:ku[to-lay-down]V
+c.1.7.6,How grain came to Sumer,,31,sux:Utu[1]DN sux:ig[door]N sux:70[70]NU sux:šu[hand]N sux:zig₃[to-rise]V
+c.1.7.6,How grain came to Sumer,,32,sux:Utu[1]DN sux:banšur[(offering)-table]N

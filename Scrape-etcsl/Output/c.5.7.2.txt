@@ -1,19 +1,19 @@
 id_text,text_name,version,l_no,text
-c.5.7.2,A dog for Nintinuga,,1,Lugal-nesaŋe[1]PN dumu[child]N Zuzu[1]PN um-mi-a[scholar]N Nibru[1]SN
-c.5.7.2,A dog for Nintinuga,,2,Tuni-lu-sag[1]ON ur[dog]N kiŋ₂-gi₄-a[messenger]N Nintinuga[1]DN dim₂[to-create]V
-c.5.7.2,A dog for Nintinuga,,3,nam[destiny]N ur[dog]N nin[lady]N kun[tail]N gun₃[to-be-multicoloured]V zu₂[tooth]N ra[to-beat]V
-c.5.7.2,A dog for Nintinuga,,4,nin[lady]N an[heaven]N ki[place]N šukur₂[ration]N šum₂[to-give]V aŋrig[housekeeper]N Enlil[1]DN
-c.5.7.2,A dog for Nintinuga,,5,akan[teat]N dug₃[to-be-good]V kur[(mountain)-land]N šag₄[heart]N si[to-fill]V nam-he₂[abundance]N
-c.5.7.2,A dog for Nintinuga,,6,Asag[1]DN simₓ-ma[sore]N šag₄[heart]N bar[outside]N ak[to-do]V ŋiri₃-paₓ-ra₂[bone]N igi[eye]N bar[to-set-aside]V
-c.5.7.2,A dog for Nintinuga,,7,sa[sinew]N nam-til₃[life]N sa[sinew]N nam-uš₂[death]N igi[eye]N saŋ₅[to-choose]V niŋ₂-keše₂[band]N sag₉[to-be-good]V
-c.5.7.2,A dog for Nintinuga,,8,niŋ₂[thing]N ra[to-beat]V dug₄-ga[type-of-affliction]N zi[life-(breath)]N ir[verb-part-of-multiword-verb]V ki[place]N gig[to-be-ill]V zu[to-know]V
-c.5.7.2,A dog for Nintinuga,,9,a-zu[healer]N sag₉[to-be-good]V šim-mu₂[type-of-priest]N tur₅[to-be-ill]V šag₄[heart]N lu₂-ulu₃[person]N igi[eye]N du₈[to-spread]V
-c.5.7.2,A dog for Nintinuga,,10,nin[lady]N dim₂[to-create]V
-c.5.7.2,A dog for Nintinuga,,11,Tuni-lu-sag[1]ON mu[name]N sa₄[to-call]V
-c.5.7.2,A dog for Nintinuga,,12,sag₉[to-be-good]V mu[name]N sa₄[to-call]V
-c.5.7.2,A dog for Nintinuga,,13,zi-pa-aŋ₂[throat]N Asag[1]DN zi[life-(breath)]N
-c.5.7.2,A dog for Nintinuga,,14,zu[to-know]V pad₃[to-find]V
-c.5.7.2,A dog for Nintinuga,,15,nam-gur₄[magnitude]N ki[place]N kiŋ₂[to-seek]V
-c.5.7.2,A dog for Nintinuga,,16,Tuni-lu-sag[1]ON mu[name]N sa₄[to-call]V
-c.5.7.2,A dog for Nintinuga,,17,ud[day(light)]N til₃[to-live]V igi[eye]N du₈[to-spread]V
-c.5.7.2,A dog for Nintinuga,,18,ud[day(light)]N uš₂[to-die]V kur[(mountain)-land]N a[water]N si-ig[to-be-clear]V naŋ[to-drink]V
+c.5.7.2,A dog for Nintinuga,,1,sux:Lugal-nesaŋe[1]PN sux:dumu[child]N sux:Zuzu[1]PN sux:um-mi-a[scholar]N sux:Nibru[1]SN
+c.5.7.2,A dog for Nintinuga,,2,sux:Tuni-lu-sag[1]ON sux:ur[dog]N sux:kiŋ₂-gi₄-a[messenger]N sux:Nintinuga[1]DN sux:dim₂[to-create]V
+c.5.7.2,A dog for Nintinuga,,3,sux:nam[destiny]N sux:ur[dog]N sux:nin[lady]N sux:kun[tail]N sux:gun₃[to-be-multicoloured]V sux:zu₂[tooth]N sux:ra[to-beat]V
+c.5.7.2,A dog for Nintinuga,,4,sux:nin[lady]N sux:an[heaven]N sux:ki[place]N sux:šukur₂[ration]N sux:šum₂[to-give]V sux:aŋrig[housekeeper]N sux:Enlil[1]DN
+c.5.7.2,A dog for Nintinuga,,5,sux:akan[teat]N sux:dug₃[to-be-good]V sux:kur[(mountain)-land]N sux:šag₄[heart]N sux:si[to-fill]V sux:nam-he₂[abundance]N
+c.5.7.2,A dog for Nintinuga,,6,sux:Asag[1]DN sux:simₓ-ma[sore]N sux:šag₄[heart]N sux:bar[outside]N sux:ak[to-do]V sux:ŋiri₃-paₓ-ra₂[bone]N sux:igi[eye]N sux:bar[to-set-aside]V
+c.5.7.2,A dog for Nintinuga,,7,sux:sa[sinew]N sux:nam-til₃[life]N sux:sa[sinew]N sux:nam-uš₂[death]N sux:igi[eye]N sux:saŋ₅[to-choose]V sux:niŋ₂-keše₂[band]N sux:sag₉[to-be-good]V
+c.5.7.2,A dog for Nintinuga,,8,sux:niŋ₂[thing]N sux:ra[to-beat]V sux:dug₄-ga[type-of-affliction]N sux:zi[life-(breath)]N sux:ir[verb-part-of-multiword-verb]V sux:ki[place]N sux:gig[to-be-ill]V sux:zu[to-know]V
+c.5.7.2,A dog for Nintinuga,,9,sux:a-zu[healer]N sux:sag₉[to-be-good]V sux:šim-mu₂[type-of-priest]N sux:tur₅[to-be-ill]V sux:šag₄[heart]N sux:lu₂-ulu₃[person]N sux:igi[eye]N sux:du₈[to-spread]V
+c.5.7.2,A dog for Nintinuga,,10,sux:nin[lady]N sux:dim₂[to-create]V
+c.5.7.2,A dog for Nintinuga,,11,sux:Tuni-lu-sag[1]ON sux:mu[name]N sux:sa₄[to-call]V
+c.5.7.2,A dog for Nintinuga,,12,sux:sag₉[to-be-good]V sux:mu[name]N sux:sa₄[to-call]V
+c.5.7.2,A dog for Nintinuga,,13,sux:zi-pa-aŋ₂[throat]N sux:Asag[1]DN sux:zi[life-(breath)]N
+c.5.7.2,A dog for Nintinuga,,14,sux:zu[to-know]V sux:pad₃[to-find]V
+c.5.7.2,A dog for Nintinuga,,15,sux:nam-gur₄[magnitude]N sux:ki[place]N sux:kiŋ₂[to-seek]V
+c.5.7.2,A dog for Nintinuga,,16,sux:Tuni-lu-sag[1]ON sux:mu[name]N sux:sa₄[to-call]V
+c.5.7.2,A dog for Nintinuga,,17,sux:ud[day(light)]N sux:til₃[to-live]V sux:igi[eye]N sux:du₈[to-spread]V
+c.5.7.2,A dog for Nintinuga,,18,sux:ud[day(light)]N sux:uš₂[to-die]V sux:kur[(mountain)-land]N sux:a[water]N sux:si-ig[to-be-clear]V sux:naŋ[to-drink]V

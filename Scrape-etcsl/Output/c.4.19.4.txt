@@ -1,8 +1,8 @@
 id_text,text_name,version,l_no,text
-c.4.19.4,A balbale (?) to Ninŋišzida (Ninŋišzida D),,1,il₂[to-raise]V nir-ŋal₂[authoritative]AJ An[1]DN kug[shining]AJ barag[dais]N mah[to-be-majestic]V il₂[to-raise]V
-c.4.19.4,A balbale (?) to Ninŋišzida (Ninŋišzida D),,2,ŋal₂[to-be-(located)]V en[lord]N Ninŋišzida[1]DN en[lord]N
-c.4.19.4,A balbale (?) to Ninŋišzida (Ninŋišzida D),,3,Anuna[1]DN diŋir[deity]N ki[place]N
-c.4.19.4,A balbale (?) to Ninŋišzida (Ninŋišzida D),,4,Ninŋišzida[1]DN Anuna[1]DN diŋir[deity]N ki[place]N
-c.4.19.4,A balbale (?) to Ninŋišzida (Ninŋišzida D),,5,dumu[child]N nun[prince]N An[1]DN a₂[arm]N šum₂[to-give]V
-c.4.19.4,A balbale (?) to Ninŋišzida (Ninŋišzida D),,6,Ninŋišzida[1]DN a₂[arm]N An[1]DN šum₂[to-give]V
-c.4.19.4,A balbale (?) to Ninŋišzida (Ninŋišzida D),,7,Anuna[1]DN
+c.4.19.4,A balbale (?) to Ninŋišzida (Ninŋišzida D),,1,sux:il₂[to-raise]V sux:nir-ŋal₂[authoritative]AJ sux:An[1]DN sux:kug[shining]AJ sux:barag[dais]N sux:mah[to-be-majestic]V sux:il₂[to-raise]V
+c.4.19.4,A balbale (?) to Ninŋišzida (Ninŋišzida D),,2,sux:ŋal₂[to-be-(located)]V sux:en[lord]N sux:Ninŋišzida[1]DN sux:en[lord]N
+c.4.19.4,A balbale (?) to Ninŋišzida (Ninŋišzida D),,3,sux:Anuna[1]DN sux:diŋir[deity]N sux:ki[place]N
+c.4.19.4,A balbale (?) to Ninŋišzida (Ninŋišzida D),,4,sux:Ninŋišzida[1]DN sux:Anuna[1]DN sux:diŋir[deity]N sux:ki[place]N
+c.4.19.4,A balbale (?) to Ninŋišzida (Ninŋišzida D),,5,sux:dumu[child]N sux:nun[prince]N sux:An[1]DN sux:a₂[arm]N sux:šum₂[to-give]V
+c.4.19.4,A balbale (?) to Ninŋišzida (Ninŋišzida D),,6,sux:Ninŋišzida[1]DN sux:a₂[arm]N sux:An[1]DN sux:šum₂[to-give]V
+c.4.19.4,A balbale (?) to Ninŋišzida (Ninŋišzida D),,7,sux:Anuna[1]DN

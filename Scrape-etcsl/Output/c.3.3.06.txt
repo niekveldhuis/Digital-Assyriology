@@ -1,14 +1,14 @@
 id_text,text_name,version,l_no,text
-c.3.3.06,Letter from Aba-tah-lugalŋa to his brothers,,1,šeš[brother]N dug₄[to-say]V
-c.3.3.06,Letter from Aba-tah-lugalŋa to his brothers,,2,Aba-tah-lugalŋa[1]PN dug₄[to-say]V
-c.3.3.06,Letter from Aba-tah-lugalŋa to his brothers,,3,sud[to-be-distant]V kaskal[(high)way]N ŋen[to-go]V
-c.3.3.06,Letter from Aba-tah-lugalŋa to his brothers,,4,u₃[and]C lugal[king]N gen₆[to-be-firm]V lugal[king]N ŋiri₃[foot]N us₂[to-be-adjacent]V
-c.3.3.06,Letter from Aba-tah-lugalŋa to his brothers,,5,kaskal[(high)way]N kaskal[(high)way]N tah[to-add]V
-c.3.3.06,Letter from Aba-tah-lugalŋa to his brothers,,6,ama[mother]N en₃[noun-part-of-multiword-verb]N tar[to-cut]V
-c.3.3.06,Letter from Aba-tah-lugalŋa to his brothers,,7,dag-gi₄[city-quarter]N ud[day(light)]N šu₂[to-cover]V lul[to-be-false]V
-c.3.3.06,Letter from Aba-tah-lugalŋa to his brothers,,8,1[1]NU sila₃[capacity-measure-(container)]N mun[salt]N 1[1]NU sila₃[capacity-measure-(container)]N gazi[mustard?]N
-c.3.3.06,Letter from Aba-tah-lugalŋa to his brothers,,8A,šu[hand]N X[X]V
-c.3.3.06,Letter from Aba-tah-lugalŋa to his brothers,,9,1[1]NU šag₄-ga-du₃[type-of-garment]N
-c.3.3.06,Letter from Aba-tah-lugalŋa to his brothers,,10,lu₂[person]N ŋen[to-go]V X[X]V
-c.3.3.06,Letter from Aba-tah-lugalŋa to his brothers,,11,kaskal[(high)way]N sud[to-be-distant]V
-c.3.3.06,Letter from Aba-tah-lugalŋa to his brothers,,12,a-ma-ru[flood]N
+c.3.3.06,Letter from Aba-tah-lugalŋa to his brothers,,1,sux:šeš[brother]N sux:dug₄[to-say]V
+c.3.3.06,Letter from Aba-tah-lugalŋa to his brothers,,2,sux:Aba-tah-lugalŋa[1]PN sux:dug₄[to-say]V
+c.3.3.06,Letter from Aba-tah-lugalŋa to his brothers,,3,sux:sud[to-be-distant]V sux:kaskal[(high)way]N sux:ŋen[to-go]V
+c.3.3.06,Letter from Aba-tah-lugalŋa to his brothers,,4,sux:u₃[and]C sux:lugal[king]N sux:gen₆[to-be-firm]V sux:lugal[king]N sux:ŋiri₃[foot]N sux:us₂[to-be-adjacent]V
+c.3.3.06,Letter from Aba-tah-lugalŋa to his brothers,,5,sux:kaskal[(high)way]N sux:kaskal[(high)way]N sux:tah[to-add]V
+c.3.3.06,Letter from Aba-tah-lugalŋa to his brothers,,6,sux:ama[mother]N sux:en₃[noun-part-of-multiword-verb]N sux:tar[to-cut]V
+c.3.3.06,Letter from Aba-tah-lugalŋa to his brothers,,7,sux:dag-gi₄[city-quarter]N sux:ud[day(light)]N sux:šu₂[to-cover]V sux:lul[to-be-false]V
+c.3.3.06,Letter from Aba-tah-lugalŋa to his brothers,,8,sux:1[1]NU sux:sila₃[capacity-measure-(container)]N sux:mun[salt]N sux:1[1]NU sux:sila₃[capacity-measure-(container)]N sux:gazi[mustard?]N
+c.3.3.06,Letter from Aba-tah-lugalŋa to his brothers,,8A,sux:šu[hand]N sux:X[X]V
+c.3.3.06,Letter from Aba-tah-lugalŋa to his brothers,,9,sux:1[1]NU sux:šag₄-ga-du₃[type-of-garment]N
+c.3.3.06,Letter from Aba-tah-lugalŋa to his brothers,,10,sux:lu₂[person]N sux:ŋen[to-go]V sux:X[X]V
+c.3.3.06,Letter from Aba-tah-lugalŋa to his brothers,,11,sux:kaskal[(high)way]N sux:sud[to-be-distant]V
+c.3.3.06,Letter from Aba-tah-lugalŋa to his brothers,,12,sux:a-ma-ru[flood]N

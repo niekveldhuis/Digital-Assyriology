@@ -1,12 +1,12 @@
 id_text,text_name,version,l_no,text
-c.3.3.07,Letter from Ugubi to his mother,,1,lu₂[person]N di[to-go]V lu₂[person]N di[to-go]V ama[mother]N
-c.3.3.07,Letter from Ugubi to his mother,,2,dug₄[to-say]V
-c.3.3.07,Letter from Ugubi to his mother,,3,Ugubi[1]ON dug₄[to-say]V
-c.3.3.07,Letter from Ugubi to his mother,,4,Urim[1]SN iri[town]N giri₁₇-zal[joy]N Nanna[1]DN
-c.3.3.07,Letter from Ugubi to his mother,,5,Eridug[1]SN iri[town]N he₂-ŋal₂[plenty]N Enki[1]DN
-c.3.3.07,Letter from Ugubi to his mother,,6,ŋe₂₆[I]PD eŋer[back]N ig[door]N e₂[house(hold)]N nar-gal[chief-musician]N tuš[to-sit]V
-c.3.3.07,Letter from Ugubi to his mother,,7,igi-tum₃[coveting]N la₂[to-hang]V gu₇[to-eat]V
-c.3.3.07,Letter from Ugubi to his mother,,8,uš₂[to-die]V
-c.3.3.07,Letter from Ugubi to his mother,,9,ninda[bread]N gibil[to-be-new]V kaš[beer]N gibil[to-be-new]V
-c.3.3.07,Letter from Ugubi to his mother,,10,lu₂[person]N ŋen[to-go]V kaskal[(high)way]N šu[hand]N taka₄[to-leave-behind]V
-c.3.3.07,Letter from Ugubi to his mother,,11,a-ma-ru[flood]N
+c.3.3.07,Letter from Ugubi to his mother,,1,sux:lu₂[person]N sux-x-emesal:di[to-go]V sux:lu₂[person]N sux-x-emesal:di[to-go]V sux:ama[mother]N
+c.3.3.07,Letter from Ugubi to his mother,,2,sux:dug₄[to-say]V
+c.3.3.07,Letter from Ugubi to his mother,,3,sux:Ugubi[1]ON sux:dug₄[to-say]V
+c.3.3.07,Letter from Ugubi to his mother,,4,sux:Urim[1]SN sux:iri[town]N sux:giri₁₇-zal[joy]N sux:Nanna[1]DN
+c.3.3.07,Letter from Ugubi to his mother,,5,sux:Eridug[1]SN sux:iri[town]N sux:he₂-ŋal₂[plenty]N sux:Enki[1]DN
+c.3.3.07,Letter from Ugubi to his mother,,6,sux:ŋe₂₆[I]PD sux:eŋer[back]N sux:ig[door]N sux:e₂[house(hold)]N sux:nar-gal[chief-musician]N sux:tuš[to-sit]V
+c.3.3.07,Letter from Ugubi to his mother,,7,sux:igi-tum₃[coveting]N sux:la₂[to-hang]V sux:gu₇[to-eat]V
+c.3.3.07,Letter from Ugubi to his mother,,8,sux:uš₂[to-die]V
+c.3.3.07,Letter from Ugubi to his mother,,9,sux:ninda[bread]N sux:gibil[to-be-new]V sux:kaš[beer]N sux:gibil[to-be-new]V
+c.3.3.07,Letter from Ugubi to his mother,,10,sux:lu₂[person]N sux:ŋen[to-go]V sux:kaskal[(high)way]N sux:šu[hand]N sux:taka₄[to-leave-behind]V
+c.3.3.07,Letter from Ugubi to his mother,,11,sux:a-ma-ru[flood]N

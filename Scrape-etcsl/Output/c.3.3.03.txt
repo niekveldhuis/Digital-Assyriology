@@ -1,37 +1,37 @@
 id_text,text_name,version,l_no,text
-c.3.3.03,Letter from Lugal-nesaŋe to a king radiant as the sun,A,1,lugal[king]N Utu[1]DN šag₄[heart]N kalam[the-Land]N zalag[to-be-shining]V
-c.3.3.03,Letter from Lugal-nesaŋe to a king radiant as the sun,A,2,dug₄[to-say]V
-c.3.3.03,Letter from Lugal-nesaŋe to a king radiant as the sun,A,3,i-utu[(cry-of)-complaint]N absin₃[furrow]N zig₃[to-rise]V
-c.3.3.03,Letter from Lugal-nesaŋe to a king radiant as the sun,A,4,Tidnum[1]EN šu[hand]N saŋ[head]N ŋar[to-place]V šibir[shepherd's-crook]N dab₅[to-seize]V
-c.3.3.03,Letter from Lugal-nesaŋe to a king radiant as the sun,A,5,lugal[king]N idim[to-be-heavy]V šid[to-count]V
-c.3.3.03,Letter from Lugal-nesaŋe to a king radiant as the sun,A,6,tah[to-add]V
-c.3.3.03,Letter from Lugal-nesaŋe to a king radiant as the sun,A,7,Lugal-nesaŋe[1]PN Lugal-šu[1]PN dumu[child]N Nibru[1]SN arad[slave]N dug₄[to-say]V
-c.3.3.03,Letter from Lugal-nesaŋe to a king radiant as the sun,A,8,šul-a-lum[punishment]N zu[to-know]V saŋ-ki[forehead]N gid₂[to-be-long]V
-c.3.3.03,Letter from Lugal-nesaŋe to a king radiant as the sun,A,9,til₄[clamour]N ak[to-do]V pad₃[to-find]V
-c.3.3.03,Letter from Lugal-nesaŋe to a king radiant as the sun,A,10,iri[town]N kur₂[to-be-different]V tum₁₂[pigeon]N še[groan]N ša₄[verb-part-of-multiword-verb]V
-c.3.3.03,Letter from Lugal-nesaŋe to a king radiant as the sun,A,11,šag₄-ne-ša₄[intercession]N tuku[to-have]V
-c.3.3.03,Letter from Lugal-nesaŋe to a king radiant as the sun,A,12,ur[dog]N ki[place]N gam[to-bow-down]V zu[to-know]V šu[hand]N dag[to-roam-around]V si[to-fill]V
-c.3.3.03,Letter from Lugal-nesaŋe to a king radiant as the sun,A,13,mušen[bird]N šu[hand]N sur₂-du₃[falcon]N dal[to-fly]V ur₅[liver]N ak[to-do]V
-c.3.3.03,Letter from Lugal-nesaŋe to a king radiant as the sun,A,14,kiri₆[orchard]N a[water]N šu[hand]N dug₄[to-say]V asila[rejoicing]N hab₂[to-stink]V uš₂[to-die]V
-c.3.3.03,Letter from Lugal-nesaŋe to a king radiant as the sun,A,15,igi[eye]N la₂[to-hang]V e₂[house(hold)]N lugal[king]N sig₉[to-put]V inim-ŋar[(oracular)-utterance]N gig[to-be-ill]V la₂[to-hang]V
-c.3.3.03,Letter from Lugal-nesaŋe to a king radiant as the sun,A,16,zarah[grief]N
-c.3.3.03,Letter from Lugal-nesaŋe to a king radiant as the sun,A,17,u₅-a[soothing-expression]I u₅-a[soothing-expression]I X[X]V
-c.3.3.03,Letter from Lugal-nesaŋe to a king radiant as the sun,A,18,gud[bull]N mur[fodder]N eme[tongue]N šu[hand]N ša-an-ša-ša[verb-part-of-multiword-verb]V
-c.3.3.03,Letter from Lugal-nesaŋe to a king radiant as the sun,A,19,peš[to-be-thick]V amar[calf]N gud₃[nest]N zi[life-(breath)]N gi₄[to-return]V ka[mouth]N u₂[plant]N gu₇[to-eat]V X[X]V
-c.3.3.03,Letter from Lugal-nesaŋe to a king radiant as the sun,A,20,edin[open-country]N tum₉[wind]N dal[to-fly]V dal[to-fly]V bad[to-open]V e₂[house(hold)]N ar₃-ar₃[to-grind]V X[X]V
-c.3.3.03,Letter from Lugal-nesaŋe to a king radiant as the sun,A,21,uš₂[to-die]V ki[place]N de₆[to-carry]V še[barley]N ar₃-ar₃[to-grind]V
-c.3.3.03,Letter from Lugal-nesaŋe to a king radiant as the sun,A,22,šeš[brother]N lu₂[person]N kur₂[to-be-different]V me[to-be]V igi[eye]N tur[to-be-small]V X[X]V
+c.3.3.03,Letter from Lugal-nesaŋe to a king radiant as the sun,A,1,sux:lugal[king]N sux:Utu[1]DN sux:šag₄[heart]N sux:kalam[the-Land]N sux:zalag[to-be-shining]V
+c.3.3.03,Letter from Lugal-nesaŋe to a king radiant as the sun,A,2,sux:dug₄[to-say]V
+c.3.3.03,Letter from Lugal-nesaŋe to a king radiant as the sun,A,3,sux:i-utu[(cry-of)-complaint]N sux:absin₃[furrow]N sux:zig₃[to-rise]V
+c.3.3.03,Letter from Lugal-nesaŋe to a king radiant as the sun,A,4,sux:Tidnum[1]EN sux:šu[hand]N sux:saŋ[head]N sux:ŋar[to-place]V sux:šibir[shepherd's-crook]N sux:dab₅[to-seize]V
+c.3.3.03,Letter from Lugal-nesaŋe to a king radiant as the sun,A,5,sux:lugal[king]N sux:idim[to-be-heavy]V sux:šid[to-count]V
+c.3.3.03,Letter from Lugal-nesaŋe to a king radiant as the sun,A,6,sux:tah[to-add]V
+c.3.3.03,Letter from Lugal-nesaŋe to a king radiant as the sun,A,7,sux:Lugal-nesaŋe[1]PN sux:Lugal-šu[1]PN sux:dumu[child]N sux:Nibru[1]SN sux:arad[slave]N sux:dug₄[to-say]V
+c.3.3.03,Letter from Lugal-nesaŋe to a king radiant as the sun,A,8,sux:šul-a-lum[punishment]N sux:zu[to-know]V sux:saŋ-ki[forehead]N sux:gid₂[to-be-long]V
+c.3.3.03,Letter from Lugal-nesaŋe to a king radiant as the sun,A,9,sux:til₄[clamour]N sux:ak[to-do]V sux:pad₃[to-find]V
+c.3.3.03,Letter from Lugal-nesaŋe to a king radiant as the sun,A,10,sux:iri[town]N sux:kur₂[to-be-different]V sux:tum₁₂[pigeon]N sux:še[groan]N sux:ša₄[verb-part-of-multiword-verb]V
+c.3.3.03,Letter from Lugal-nesaŋe to a king radiant as the sun,A,11,sux:šag₄-ne-ša₄[intercession]N sux:tuku[to-have]V
+c.3.3.03,Letter from Lugal-nesaŋe to a king radiant as the sun,A,12,sux:ur[dog]N sux:ki[place]N sux:gam[to-bow-down]V sux:zu[to-know]V sux:šu[hand]N sux:dag[to-roam-around]V sux:si[to-fill]V
+c.3.3.03,Letter from Lugal-nesaŋe to a king radiant as the sun,A,13,sux:mušen[bird]N sux:šu[hand]N sux:sur₂-du₃[falcon]N sux:dal[to-fly]V sux:ur₅[liver]N sux:ak[to-do]V
+c.3.3.03,Letter from Lugal-nesaŋe to a king radiant as the sun,A,14,sux:kiri₆[orchard]N sux:a[water]N sux:šu[hand]N sux:dug₄[to-say]V sux:asila[rejoicing]N sux:hab₂[to-stink]V sux:uš₂[to-die]V
+c.3.3.03,Letter from Lugal-nesaŋe to a king radiant as the sun,A,15,sux:igi[eye]N sux:la₂[to-hang]V sux:e₂[house(hold)]N sux:lugal[king]N sux:sig₉[to-put]V sux:inim-ŋar[(oracular)-utterance]N sux:gig[to-be-ill]V sux:la₂[to-hang]V
+c.3.3.03,Letter from Lugal-nesaŋe to a king radiant as the sun,A,16,sux:zarah[grief]N
+c.3.3.03,Letter from Lugal-nesaŋe to a king radiant as the sun,A,17,sux:u₅-a[soothing-expression]I sux:u₅-a[soothing-expression]I sux:X[X]V
+c.3.3.03,Letter from Lugal-nesaŋe to a king radiant as the sun,A,18,sux:gud[bull]N sux:mur[fodder]N sux:eme[tongue]N sux:šu[hand]N sux:ša-an-ša-ša[verb-part-of-multiword-verb]V
+c.3.3.03,Letter from Lugal-nesaŋe to a king radiant as the sun,A,19,sux:peš[to-be-thick]V sux:amar[calf]N sux:gud₃[nest]N sux:zi[life-(breath)]N sux:gi₄[to-return]V sux:ka[mouth]N sux:u₂[plant]N sux:gu₇[to-eat]V sux:X[X]V
+c.3.3.03,Letter from Lugal-nesaŋe to a king radiant as the sun,A,20,sux:edin[open-country]N sux:tum₉[wind]N sux:dal[to-fly]V sux:dal[to-fly]V sux:bad[to-open]V sux:e₂[house(hold)]N sux:ar₃-ar₃[to-grind]V sux:X[X]V
+c.3.3.03,Letter from Lugal-nesaŋe to a king radiant as the sun,A,21,sux:uš₂[to-die]V sux:ki[place]N sux:de₆[to-carry]V sux:še[barley]N sux:ar₃-ar₃[to-grind]V
+c.3.3.03,Letter from Lugal-nesaŋe to a king radiant as the sun,A,22,sux:šeš[brother]N sux:lu₂[person]N sux:kur₂[to-be-different]V sux:me[to-be]V sux:igi[eye]N sux:tur[to-be-small]V sux:X[X]V
 c.3.3.03,Letter from Lugal-nesaŋe to a king radiant as the sun,A,29,
 c.3.3.03,Letter from Lugal-nesaŋe to a king radiant as the sun,A,30,
-c.3.3.03,Letter from Lugal-nesaŋe to a king radiant as the sun,A,31,sag₉[to-be-good]V
-c.3.3.03,Letter from Lugal-nesaŋe to a king radiant as the sun,A,32,lugal[king]N
-c.3.3.03,Letter from Lugal-nesaŋe to a king radiant as the sun,A,33,Utu[1]DN
-c.3.3.03,Letter from Lugal-nesaŋe to a king radiant as the sun,Kiš,1,mušen[bird]N šu[hand]N sur₂-du₃[falcon]N
-c.3.3.03,Letter from Lugal-nesaŋe to a king radiant as the sun,Kiš,2,kiri₆[orchard]N a[water]N dug₄[to-say]V
-c.3.3.03,Letter from Lugal-nesaŋe to a king radiant as the sun,Kiš,3,igi[eye]N la₂[to-hang]V e₂[house(hold)]N lugal[king]N sig₉[to-put]V
-c.3.3.03,Letter from Lugal-nesaŋe to a king radiant as the sun,Kiš,4,zarah[grief]N sipad[shepherd]N šag₄[heart]N a[water]N X[X]V
-c.3.3.03,Letter from Lugal-nesaŋe to a king radiant as the sun,Kiš,5,u₅-a[soothing-expression]I X[X]V
-c.3.3.03,Letter from Lugal-nesaŋe to a king radiant as the sun,Kiš,6,gud[bull]N mur[fodder]N eme[tongue]N šid[to-count]V tuku[to-have]V šu[hand]N ša-an-ša-ša[verb-part-of-multiword-verb]V
-c.3.3.03,Letter from Lugal-nesaŋe to a king radiant as the sun,Kiš,7,peš[to-be-thick]V amar[calf]N gud₃[nest]N zi[life-(breath)]N ir[verb-part-of-multiword-verb]V X[X]V
-c.3.3.03,Letter from Lugal-nesaŋe to a king radiant as the sun,Kiš,8,edin[open-country]N tum₉[wind]N dal[to-fly]V bad[to-open]V e₂[house(hold)]N ar₃-ar₃[to-grind]V X[X]V
-c.3.3.03,Letter from Lugal-nesaŋe to a king radiant as the sun,Kiš,9,uš₂[to-die]V ki[place]N de₆[to-carry]V zu[to-know]V še[barley]N ar₃-ar₃[to-grind]V
+c.3.3.03,Letter from Lugal-nesaŋe to a king radiant as the sun,A,31,sux:sag₉[to-be-good]V
+c.3.3.03,Letter from Lugal-nesaŋe to a king radiant as the sun,A,32,sux:lugal[king]N
+c.3.3.03,Letter from Lugal-nesaŋe to a king radiant as the sun,A,33,sux:Utu[1]DN
+c.3.3.03,Letter from Lugal-nesaŋe to a king radiant as the sun,Kiš,1,sux:mušen[bird]N sux:šu[hand]N sux:sur₂-du₃[falcon]N
+c.3.3.03,Letter from Lugal-nesaŋe to a king radiant as the sun,Kiš,2,sux:kiri₆[orchard]N sux:a[water]N sux:dug₄[to-say]V
+c.3.3.03,Letter from Lugal-nesaŋe to a king radiant as the sun,Kiš,3,sux:igi[eye]N sux:la₂[to-hang]V sux:e₂[house(hold)]N sux:lugal[king]N sux:sig₉[to-put]V
+c.3.3.03,Letter from Lugal-nesaŋe to a king radiant as the sun,Kiš,4,sux:zarah[grief]N sux:sipad[shepherd]N sux:šag₄[heart]N sux:a[water]N sux:X[X]V
+c.3.3.03,Letter from Lugal-nesaŋe to a king radiant as the sun,Kiš,5,sux:u₅-a[soothing-expression]I sux:X[X]V
+c.3.3.03,Letter from Lugal-nesaŋe to a king radiant as the sun,Kiš,6,sux:gud[bull]N sux:mur[fodder]N sux:eme[tongue]N sux:šid[to-count]V sux:tuku[to-have]V sux:šu[hand]N sux:ša-an-ša-ša[verb-part-of-multiword-verb]V
+c.3.3.03,Letter from Lugal-nesaŋe to a king radiant as the sun,Kiš,7,sux:peš[to-be-thick]V sux:amar[calf]N sux:gud₃[nest]N sux:zi[life-(breath)]N sux:ir[verb-part-of-multiword-verb]V sux:X[X]V
+c.3.3.03,Letter from Lugal-nesaŋe to a king radiant as the sun,Kiš,8,sux:edin[open-country]N sux:tum₉[wind]N sux:dal[to-fly]V sux:bad[to-open]V sux:e₂[house(hold)]N sux:ar₃-ar₃[to-grind]V sux:X[X]V
+c.3.3.03,Letter from Lugal-nesaŋe to a king radiant as the sun,Kiš,9,sux:uš₂[to-die]V sux:ki[place]N sux:de₆[to-carry]V sux:zu[to-know]V sux:še[barley]N sux:ar₃-ar₃[to-grind]V

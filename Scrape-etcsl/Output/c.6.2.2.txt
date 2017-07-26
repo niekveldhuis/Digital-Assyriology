@@ -1,54 +1,54 @@
 id_text,text_name,version,l_no,text
-c.6.2.2,Proverbs: from Susa,MDP 27 206,1,ir₇-saŋ[wood-pigeon?]N gu₃[voice]N de₂[to-pour]V kiri₆[orchard]N me-te[(fitting)-attribute]N
-c.6.2.2,Proverbs: from Susa,MDP 27 206,2,bi₂-za-za[frog]N gu₃[voice]N de₂[to-pour]V a-ambar[marsh-water]N me-te[(fitting)-attribute]N
-c.6.2.2,Proverbs: from Susa,MDP 27 206,3,dar[francolin?]N gu₃[voice]N de₂[to-pour]V a-šag₄[field]N me-te[(fitting)-attribute]N
-c.6.2.2,Proverbs: from Susa,MDP 27 89,1,ka[mouth]N ŋal₂[to-be-(located)]V šu[hand]N ŋal₂[to-be-(located)]V
-c.6.2.2,Proverbs: from Susa,MDP 27 102,1,ur-gir₁₅[domestic-dog]N dab₅[to-seize]V pu₂[(water)-hole]N zalag[to-be-shining]V
-c.6.2.2,Proverbs: from Susa,MDP 27 82,1,ur-gir₁₅[domestic-dog]N ŋiš-šu[shackle]N dab₅[to-seize]V ga-ba-al[fight]N du₃[to-erect]V
-c.6.2.2,Proverbs: from Susa,MDP 27 216,1,nir-ŋal₂[authoritative]AJ kug-zu[wise]AJ ukur₃[to-be-poor]V šu[hand]N dim₄[to-check]V
-c.6.2.2,Proverbs: from Susa,MDP 27 216,2,šu[hand]N ŋar[to-place]V ŋal₂[to-be-(located)]V Aratta[1]SN
-c.6.2.2,Proverbs: from Susa,MDP 27 214,1,tug₂[garment]N du₈[to-spread]V zu[to-know]V
-c.6.2.2,Proverbs: from Susa,MDP 27 214,2,še[barley]N zu[to-know]V tug₂[garment]N
+c.6.2.2,Proverbs: from Susa,MDP 27 206,1,sux:ir₇-saŋ[wood-pigeon?]N sux:gu₃[voice]N sux:de₂[to-pour]V sux:kiri₆[orchard]N sux:me-te[(fitting)-attribute]N
+c.6.2.2,Proverbs: from Susa,MDP 27 206,2,sux:bi₂-za-za[frog]N sux:gu₃[voice]N sux:de₂[to-pour]V sux:a-ambar[marsh-water]N sux:me-te[(fitting)-attribute]N
+c.6.2.2,Proverbs: from Susa,MDP 27 206,3,sux:dar[francolin?]N sux:gu₃[voice]N sux:de₂[to-pour]V sux:a-šag₄[field]N sux:me-te[(fitting)-attribute]N
+c.6.2.2,Proverbs: from Susa,MDP 27 89,1,sux:ka[mouth]N sux:ŋal₂[to-be-(located)]V sux:šu[hand]N sux:ŋal₂[to-be-(located)]V
+c.6.2.2,Proverbs: from Susa,MDP 27 102,1,sux:ur-gir₁₅[domestic-dog]N sux:dab₅[to-seize]V sux:pu₂[(water)-hole]N sux:zalag[to-be-shining]V
+c.6.2.2,Proverbs: from Susa,MDP 27 82,1,sux:ur-gir₁₅[domestic-dog]N sux:ŋiš-šu[shackle]N sux:dab₅[to-seize]V sux:ga-ba-al[fight]N sux:du₃[to-erect]V
+c.6.2.2,Proverbs: from Susa,MDP 27 216,1,sux:nir-ŋal₂[authoritative]AJ sux:kug-zu[wise]AJ sux:ukur₃[to-be-poor]V sux:šu[hand]N sux:dim₄[to-check]V
+c.6.2.2,Proverbs: from Susa,MDP 27 216,2,sux:šu[hand]N sux:ŋar[to-place]V sux:ŋal₂[to-be-(located)]V sux:Aratta[1]SN
+c.6.2.2,Proverbs: from Susa,MDP 27 214,1,sux:tug₂[garment]N sux:du₈[to-spread]V sux:zu[to-know]V
+c.6.2.2,Proverbs: from Susa,MDP 27 214,2,sux:še[barley]N sux:zu[to-know]V sux:tug₂[garment]N
 c.6.2.2,Proverbs: from Susa,MDP 27 214,3,
-c.6.2.2,Proverbs: from Susa,MDP 27 214,4,par₃[meaning-unknown]V
-c.6.2.2,Proverbs: from Susa,MDP 27 214,5,ŋar[to-place]V šu[hand]N X[X]V
-c.6.2.2,Proverbs: from Susa,MDP 27 96,1,MI[MI]V
-c.6.2.2,Proverbs: from Susa,MDP 27 96,2,dub-sar[scribe]N sar[to-write]V
-c.6.2.2,Proverbs: from Susa,MDP 27 96,3,lugal[king]N eš₃[shrine]N gal[to-be-big]V kur₉[to-enter]V
-c.6.2.2,Proverbs: from Susa,MDP 27 96,4,šaŋan-la₂[trader]N šag₄[heart]N MI[MI]V
-c.6.2.2,Proverbs: from Susa,MDP 27 99,1,e₂[house(hold)]N niŋ₂-si[sustenance]N niŋ₂-gur₁₁[possessions]N kar[to-flee]V
-c.6.2.2,Proverbs: from Susa,MDP 27 99,2,še[barley]N saŋ[head]N šag₄[heart]N
-c.6.2.2,Proverbs: from Susa,MDP 27 99,3,niŋ₂-erim₂[fraudulent-action]N saŋ-DU[smitten-person]N
-c.6.2.2,Proverbs: from Susa,MDP 27 112,1,uŋ₃[people]N kur[(mountain)-land]N kingal[leader]N me[to-be]V
-c.6.2.2,Proverbs: from Susa,MDP 27 112,2,diŋir[deity]N ŋiš[tree]N tuku[to-have]V šu[hand]N
-c.6.2.2,Proverbs: from Susa,MDP 27 112,3,sig₅[to-be-fine]V ab-ba[father]N u₂[plant]N
-c.6.2.2,Proverbs: from Susa,MDP 27 212,1,iri[town]N diŋir[deity]N ugnim[troops]N
-c.6.2.2,Proverbs: from Susa,MDP 27 212,2,ma-da[land]N ki[place]N Hamazi[1]SN
-c.6.2.2,Proverbs: from Susa,MDP 27 212,3,a-a[father]N Magan[1]GN Ninisina[1]DN TU-TU[meaning-unknown]N
-c.6.2.2,Proverbs: from Susa,MDP 18 48,1,za[you-(sg.)]PD nam-diŋir[divinity]N a-ba[who]PD sa₂[to-equal]V
-c.6.2.2,Proverbs: from Susa,MDP 18 48,2,a-ba[who]PD sag₉[to-be-good]V
-c.6.2.2,Proverbs: from Susa,MDP 27 101,1,dam[spouse]N tuku[to-have]V dam[spouse]N dam[spouse]N igi[eye]N kar₂[to-blow]V
-c.6.2.2,Proverbs: from Susa,MDP 27 101,2,ŋe₂₆[I]PD me-te[(fitting)-attribute]N kar₂[to-blow]V
-c.6.2.2,Proverbs: from Susa,MDP 27 111,1,diŋir[deity]N ŋiš[tree]N tuku[to-have]V šu[hand]N
-c.6.2.2,Proverbs: from Susa,MDP 27 111,2,a-ga[rear-(chamber)]N ze₂-er[to-tear-out]V
-c.6.2.2,Proverbs: from Susa,MDP 27 113,1,iri[town]N ki[place]N sag₉[to-be-good]V
-c.6.2.2,Proverbs: from Susa,MDP 27 113,2,mu[name]N
-c.6.2.2,Proverbs: from Susa,MDP 27 114,1,sipad[shepherd]N Utu[1]DN ga₁₄-ra-du-um[warrior]N
-c.6.2.2,Proverbs: from Susa,MDP 27 114,2,ŋidru[sceptre]N he₂-ŋal₂[plenty]N
-c.6.2.2,Proverbs: from Susa,MDP 27 215,1,kaš[beer]N zu[to-know]V si[horn]N sa₂[to-equal]V
-c.6.2.2,Proverbs: from Susa,MDP 27 215,2,kaš[beer]N sam₂[to-barter]V dug₃[to-be-good]V
-c.6.2.2,Proverbs: from Susa,MDP 27 217,1,e₂[house(hold)]N tuku[to-have]V e₂[house(hold)]N
-c.6.2.2,Proverbs: from Susa,MDP 27 217,2,e₂[house(hold)]N tuku[to-have]V ama[mother]N tuku[to-have]V ama[mother]N
-c.6.2.2,Proverbs: from Susa,MDP 27 258,1,isimu₂[(off)shoot]N ŋal₂[to-be-(located)]V
-c.6.2.2,Proverbs: from Susa,MDP 27 258,2,šu[hand]N ŋar[to-place]V saŋ[head]N gi₄[to-return]V
-c.6.2.2,Proverbs: from Susa,MDP 27 90,1,šu[hand]N šu[hand]N ŋidru[sceptre]N tu₆[incantation]N ka₅-a[fox]N ŋar[to-place]V
-c.6.2.2,Proverbs: from Susa,MDP 27 91 and MDP 27 92,1,a[water]N pad₃[to-find]V dub[to-heap-up]V naŋ[to-drink]V
-c.6.2.2,Proverbs: from Susa,MDP 27 100,1,e[vocative-expression]I dam[spouse]N amaš[sheepfold]N ak[to-do]V
-c.6.2.2,Proverbs: from Susa,MDP 27 103,1,iri[town]N la₂[to-hang]V šub[to-fall]V lu₂[person]N šub[to-fall]V tuku[to-have]V
-c.6.2.2,Proverbs: from Susa,MDP 27 105,1,KU[KU]V me[essence]N niŋ₂[thing]N dul[to-cover-(together)]V a-ba[who]PD zu[to-know]V
-c.6.2.2,Proverbs: from Susa,MDP 27 106,1,ŋen[to-go]V lu[to-be-abundant]V
-c.6.2.2,Proverbs: from Susa,MDP 27 107,1,ki[place]N aŋ₂[to-measure]V mi₂[(loving)-care]N dug₄[to-say]V zi-šag₄-ŋal₂[life-giving]AJ
-c.6.2.2,Proverbs: from Susa,MDP 27 109,1,di[(law)suit]N inim[word]N dug₄[to-say]V ŋeštug₂[ear]N ŋizzal[hearing]N ak[to-do]V
-c.6.2.2,Proverbs: from Susa,MDP 27 110,1,igi[eye]N igi[eye]N me[to-be]V dug₃[to-be-good]V ŋen[to-go]V
-c.6.2.2,Proverbs: from Susa,MDP 27 211,1,ama[mother]N kud[to-cut]V a₂[arm]N la₂[to-hang]V
-c.6.2.2,Proverbs: from Susa,MDP 27 213,1,kingal[leader]N zid[right]AJ ki[place]N aŋ₂[to-measure]V nam-en[high-(priestly)-office]N ba[to-allot]V
+c.6.2.2,Proverbs: from Susa,MDP 27 214,4,sux:par₃[meaning-unknown]V
+c.6.2.2,Proverbs: from Susa,MDP 27 214,5,sux:ŋar[to-place]V sux:šu[hand]N sux:X[X]V
+c.6.2.2,Proverbs: from Susa,MDP 27 96,1,sux:MI[MI]V
+c.6.2.2,Proverbs: from Susa,MDP 27 96,2,sux:dub-sar[scribe]N sux:sar[to-write]V
+c.6.2.2,Proverbs: from Susa,MDP 27 96,3,sux:lugal[king]N sux:eš₃[shrine]N sux:gal[to-be-big]V sux:kur₉[to-enter]V
+c.6.2.2,Proverbs: from Susa,MDP 27 96,4,sux:šaŋan-la₂[trader]N sux:šag₄[heart]N sux:MI[MI]V
+c.6.2.2,Proverbs: from Susa,MDP 27 99,1,sux:e₂[house(hold)]N sux:niŋ₂-si[sustenance]N sux:niŋ₂-gur₁₁[possessions]N sux:kar[to-flee]V
+c.6.2.2,Proverbs: from Susa,MDP 27 99,2,sux:še[barley]N sux:saŋ[head]N sux:šag₄[heart]N
+c.6.2.2,Proverbs: from Susa,MDP 27 99,3,sux:niŋ₂-erim₂[fraudulent-action]N sux:saŋ-DU[smitten-person]N
+c.6.2.2,Proverbs: from Susa,MDP 27 112,1,sux:uŋ₃[people]N sux:kur[(mountain)-land]N sux:kingal[leader]N sux:me[to-be]V
+c.6.2.2,Proverbs: from Susa,MDP 27 112,2,sux:diŋir[deity]N sux:ŋiš[tree]N sux:tuku[to-have]V sux:šu[hand]N
+c.6.2.2,Proverbs: from Susa,MDP 27 112,3,sux:sig₅[to-be-fine]V sux:ab-ba[father]N sux:u₂[plant]N
+c.6.2.2,Proverbs: from Susa,MDP 27 212,1,sux:iri[town]N sux:diŋir[deity]N sux:ugnim[troops]N
+c.6.2.2,Proverbs: from Susa,MDP 27 212,2,sux:ma-da[land]N sux:ki[place]N sux:Hamazi[1]SN
+c.6.2.2,Proverbs: from Susa,MDP 27 212,3,sux:a-a[father]N sux:Magan[1]GN sux:Ninisina[1]DN sux:TU-TU[meaning-unknown]N
+c.6.2.2,Proverbs: from Susa,MDP 18 48,1,sux:za[you-(sg.)]PD sux:nam-diŋir[divinity]N sux:a-ba[who]PD sux:sa₂[to-equal]V
+c.6.2.2,Proverbs: from Susa,MDP 18 48,2,sux:a-ba[who]PD sux:sag₉[to-be-good]V
+c.6.2.2,Proverbs: from Susa,MDP 27 101,1,sux:dam[spouse]N sux:tuku[to-have]V sux:dam[spouse]N sux:dam[spouse]N sux:igi[eye]N sux:kar₂[to-blow]V
+c.6.2.2,Proverbs: from Susa,MDP 27 101,2,sux:ŋe₂₆[I]PD sux:me-te[(fitting)-attribute]N sux:kar₂[to-blow]V
+c.6.2.2,Proverbs: from Susa,MDP 27 111,1,sux:diŋir[deity]N sux:ŋiš[tree]N sux:tuku[to-have]V sux:šu[hand]N
+c.6.2.2,Proverbs: from Susa,MDP 27 111,2,sux:a-ga[rear-(chamber)]N sux:ze₂-er[to-tear-out]V
+c.6.2.2,Proverbs: from Susa,MDP 27 113,1,sux:iri[town]N sux:ki[place]N sux:sag₉[to-be-good]V
+c.6.2.2,Proverbs: from Susa,MDP 27 113,2,sux:mu[name]N
+c.6.2.2,Proverbs: from Susa,MDP 27 114,1,sux:sipad[shepherd]N sux:Utu[1]DN sux:ga₁₄-ra-du-um[warrior]N
+c.6.2.2,Proverbs: from Susa,MDP 27 114,2,sux:ŋidru[sceptre]N sux:he₂-ŋal₂[plenty]N
+c.6.2.2,Proverbs: from Susa,MDP 27 215,1,sux:kaš[beer]N sux:zu[to-know]V sux:si[horn]N sux:sa₂[to-equal]V
+c.6.2.2,Proverbs: from Susa,MDP 27 215,2,sux:kaš[beer]N sux:sam₂[to-barter]V sux:dug₃[to-be-good]V
+c.6.2.2,Proverbs: from Susa,MDP 27 217,1,sux:e₂[house(hold)]N sux:tuku[to-have]V sux:e₂[house(hold)]N
+c.6.2.2,Proverbs: from Susa,MDP 27 217,2,sux:e₂[house(hold)]N sux:tuku[to-have]V sux:ama[mother]N sux:tuku[to-have]V sux:ama[mother]N
+c.6.2.2,Proverbs: from Susa,MDP 27 258,1,sux:isimu₂[(off)shoot]N sux:ŋal₂[to-be-(located)]V
+c.6.2.2,Proverbs: from Susa,MDP 27 258,2,sux:šu[hand]N sux:ŋar[to-place]V sux:saŋ[head]N sux:gi₄[to-return]V
+c.6.2.2,Proverbs: from Susa,MDP 27 90,1,sux:šu[hand]N sux:šu[hand]N sux:ŋidru[sceptre]N sux:tu₆[incantation]N sux:ka₅-a[fox]N sux:ŋar[to-place]V
+c.6.2.2,Proverbs: from Susa,MDP 27 91 and MDP 27 92,1,sux:a[water]N sux:pad₃[to-find]V sux:dub[to-heap-up]V sux:naŋ[to-drink]V
+c.6.2.2,Proverbs: from Susa,MDP 27 100,1,sux:e[vocative-expression]I sux:dam[spouse]N sux:amaš[sheepfold]N sux:ak[to-do]V
+c.6.2.2,Proverbs: from Susa,MDP 27 103,1,sux:iri[town]N sux:la₂[to-hang]V sux:šub[to-fall]V sux:lu₂[person]N sux:šub[to-fall]V sux:tuku[to-have]V
+c.6.2.2,Proverbs: from Susa,MDP 27 105,1,sux:KU[KU]V sux:me[essence]N sux:niŋ₂[thing]N sux:dul[to-cover-(together)]V sux:a-ba[who]PD sux:zu[to-know]V
+c.6.2.2,Proverbs: from Susa,MDP 27 106,1,sux:ŋen[to-go]V sux:lu[to-be-abundant]V
+c.6.2.2,Proverbs: from Susa,MDP 27 107,1,sux:ki[place]N sux:aŋ₂[to-measure]V sux:mi₂[(loving)-care]N sux:dug₄[to-say]V sux:zi-šag₄-ŋal₂[life-giving]AJ
+c.6.2.2,Proverbs: from Susa,MDP 27 109,1,sux:di[(law)suit]N sux:inim[word]N sux:dug₄[to-say]V sux:ŋeštug₂[ear]N sux:ŋizzal[hearing]N sux:ak[to-do]V
+c.6.2.2,Proverbs: from Susa,MDP 27 110,1,sux:igi[eye]N sux:igi[eye]N sux:me[to-be]V sux:dug₃[to-be-good]V sux:ŋen[to-go]V
+c.6.2.2,Proverbs: from Susa,MDP 27 211,1,sux:ama[mother]N sux:kud[to-cut]V sux:a₂[arm]N sux:la₂[to-hang]V
+c.6.2.2,Proverbs: from Susa,MDP 27 213,1,sux:kingal[leader]N sux:zid[right]AJ sux:ki[place]N sux:aŋ₂[to-measure]V sux:nam-en[high-(priestly)-office]N sux:ba[to-allot]V
