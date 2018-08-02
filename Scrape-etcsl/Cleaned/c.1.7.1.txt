@@ -1,4 +1,4 @@
-id_text,text_name,version,l_no,text
+etcsl_no,text_name,version,l_no,text
 c.1.7.1,The marriage of Martu,,1,sux:Inab[1]SN sux:me[be]V/i sux:Kiritaba[1]SN sux:me[be]V/i
 c.1.7.1,The marriage of Martu,,2,sux:men[tiara]N sux:kug[pure]V/i sux:me[be]V/i sux:aga[tiara]N sux:kug[pure]V/i sux:me[be]V/i
 c.1.7.1,The marriage of Martu,,3,sux:šim[aromatics]N sux:kug[pure]V/i sux:me[be]V/i sux:eren[cedar]N sux:kug[pure]V/i sux:me[be]V/i
@@ -58,8 +58,8 @@ c.1.7.1,The marriage of Martu,,56,sux:e[house]N sux:kaš[beer]N sux:Inab[1]SN su
 c.1.7.1,The marriage of Martu,,57,sux:Numušda[1]DN sux:ezem[festival]N
 c.1.7.1,The marriage of Martu,,58,sux:dumu[child]N sux:ki[place]N sux:aŋ[measure]V/t sux:Adŋarkidug[1]DN sux:ezem[festival]N
 c.1.7.1,The marriage of Martu,,59,sux:dam[spouse]N sux:Namrat[1]DN sux:munus[woman]N sux:sag[good]V/i sux:ezem[festival]N
-c.1.7.1,The marriage of Martu,,60,sux:iri[city]N sux:šem[drum]N sux:zabar[bronze]N sux:zigzag[sound]N sux:za[cvve]V/t
-c.1.7.1,The marriage of Martu,,61,sux:ala[drum]N sux:7[7]NU sux:šeg[voice]N sux:gi[turn]V/i
+c.1.7.1,The marriage of Martu,,60,sux:iri[city]N sux:šem[drum]N sux:zabar[bronze]N sux:zi-ig-za-ag[rumbling-noise]N sux:za[cvve]V/t
+c.1.7.1,The marriage of Martu,,61,sux:ala[drum]N sux:7[7]NU sux:šeg-gi[make-noise]V/t sux:gi[turn]V/i
 c.1.7.1,The marriage of Martu,,62,sux:nita[male]N sux:en[lord]N sux:ibla[belt]N
 c.1.7.1,The marriage of Martu,,63,sux:eŋešpu[wrestling-house]N sux:kur[enter]V/i
 c.1.7.1,The marriage of Martu,,64,sux:e[house]N sux:Inab[1]SN sux:sa[equal]V/t
@@ -120,7 +120,7 @@ c.1.7.1,The marriage of Martu,,125,sux:KIN.GIŠ[vessel]N sux:kugbabbar[silver]N 
 c.1.7.1,The marriage of Martu,,126,sux:ud[sun]N sux:hi[mix]V/t sux:did[lawsuit]N sux:til[complete]V/i
 c.1.7.1,The marriage of Martu,,127,sux:aše[now]N sux:šu[hand]N sux:halam[forsake]V/i sux:uludin[form]N sux:ugubi[monkey]N
 c.1.7.1,The marriage of Martu,,128,sux:anzil[abomination]N sux:gu[eat]V/t sux:Nanna[1]DN sux:ni[fear]N sux:tuku[acquire]V/t
-c.1.7.1,The marriage of Martu,,129,sux:šu[hand]N sux:dag[demolish]V/t
+c.1.7.1,The marriage of Martu,,129,sux:šu[hand]N sux:šu-dag[roam-around]V/t
 c.1.7.1,The marriage of Martu,,130,sux:niŋgig[bad-thing]N sux:e[house]N sux:diŋir[deity]N
 c.1.7.1,The marriage of Martu,,131,sux:ŋalga[forethought]N sux:lu[mix]V/t sux:šu[hand]N sux:suh[confuse]V/t sux:dug[speak]V/t
 c.1.7.1,The marriage of Martu,,132,sux:lu[person]N sux:lub[bag]N sux:mur[dress]V/t

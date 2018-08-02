@@ -1,4 +1,4 @@
-id_text,text_name,version,l_no,text
+etcsl_no,text_name,version,l_no,text
 c.4.22.1,A šir-gida to Ninisina (Ninisina A),,1,sux:barag[sanctum]N sux:mah[great]V/i sux:dur[buttocks]N sux:ŋar[place]V/t
 c.4.22.1,A šir-gida to Ninisina (Ninisina A),,2,sux:ni[fear]N sux:gur[lift]V/t sux:u[admiration]N sux:dug[speak]V/t sux:gub[stand]V/i
 c.4.22.1,A šir-gida to Ninisina (Ninisina A),,3,sux:Ninisinak[1]DN sux:hul[rejoice]V/i sux:sissig[green]V/i
@@ -9,8 +9,8 @@ c.4.22.1,A šir-gida to Ninisina (Ninisina A),,7,sux:Ninisinak[1]DN sux:namgalam
 c.4.22.1,A šir-gida to Ninisina (Ninisina A),,8,sux:me[Being]N sux:mah[great]V/i sux:šu[hand]N sux:ŋar[place]V/t
 c.4.22.1,A šir-gida to Ninisina (Ninisina A),,9,sux:tug[textile]N sux:gal[big]V/i sux:ugunu[decoration]N sux:ak[do]V/t sux:inim[word]N sux:sag[good]V/i
 c.4.22.1,A šir-gida to Ninisina (Ninisina A),,10,sux:bulug.KIN.gur₄[lancet]N sux:igi[eye]N sux:sig[put]V/t
-c.4.22.1,A šir-gida to Ninisina (Ninisina A),,11,sux:Ninisinak[1]DN sux:ŋirizal[scalpel]N sux:usar[cvne]N sux:ak[do]V/t
-c.4.22.1,A šir-gida to Ninisina (Ninisina A),,12,sux:me[Being]N sux:namazu[craft]N sux:šu[hand]N sux:du[push]V/t
+c.4.22.1,A šir-gida to Ninisina (Ninisina A),,11,sux:Ninisinak[1]DN sux:ŋirizal[scalpel]N sux:usar-ak[sharpen]V/t sux:ak[do]V/t
+c.4.22.1,A šir-gida to Ninisina (Ninisina A),,12,sux:me[Being]N sux:namazu[craft]N sux:šu[hand]N sux:šu-du[complete]V/t
 c.4.22.1,A šir-gida to Ninisina (Ninisina A),,13,sux:dumu[child]N sux:lugal[king]N sux:Ŋirsi[1]SN
 c.4.22.1,A šir-gida to Ninisina (Ninisina A),,14,sux:Damu[1]DN sux:lu[person]N sux:sag[good]V/i sux:šu[hand]N sux:šum[give]V/t
 c.4.22.1,A šir-gida to Ninisina (Ninisina A),,15,sux:dumu[child]N sux:niŋ[thing]N sux:namazu[craft]N sux:ŋizzal[ear]N sux:ak[do]V/t
@@ -32,9 +32,9 @@ c.4.22.1,A šir-gida to Ninisina (Ninisina A),,30,sux:kug[pure]V/i sux:Ninisinak
 c.4.22.1,A šir-gida to Ninisina (Ninisina A),,31,sux:Enki[1]DN sux:abzu[water]N sux:nun[prince]N sux:saŋ[head]N sux:rig[donate]V/t
 c.4.22.1,A šir-gida to Ninisina (Ninisina A),,32,sux:šaggig[illness]N sux:lipišgig[illness]N sux:lulu[man]N sux:kar[flee]V/t
 c.4.22.1,A šir-gida to Ninisina (Ninisina A),,33,sux:lulu[man]N sux:muš[snake]N sux:ki[place]N sux:bil[burn]V/t sux:bala[turn]V/t
-c.4.22.1,A šir-gida to Ninisina (Ninisina A),,34,sux:muš[snake]N sux:kiʾuš[waste]N sux:ene[cvne]N sux:dag[demolish]V/t sux:sil[split]V/i
+c.4.22.1,A šir-gida to Ninisina (Ninisina A),,34,sux:muš[snake]N sux:kiʾuš[waste]N sux:ene[cvne]N sux:šu-dag[roam-around]V/t sux:sil[split]V/i
 c.4.22.1,A šir-gida to Ninisina (Ninisina A),,35,sux:šag[heart]N sux:lipiš[innards]N sux:gibil[new]V/i sux:dug[speak]V/t
-c.4.22.1,A šir-gida to Ninisina (Ninisina A),,36,sux:nin[lady]N sux:namišib[priesthood]N sux:šu[hand]N sux:gal[big]V/i sux:du[push]V/t
+c.4.22.1,A šir-gida to Ninisina (Ninisina A),,36,sux:nin[lady]N sux:namišib[priesthood]N sux:šu[hand]N sux:gal[big]V/i sux:šu-du[complete]V/t
 c.4.22.1,A šir-gida to Ninisina (Ninisina A),,37,sux:Ninisinak[1]DN sux:tu[incantation]N sux:dug[speak]V/t sux:sag[good]V/i
 c.4.22.1,A šir-gida to Ninisina (Ninisina A),,38,sux:inun[ghee]N sux:namšub[incantation]N sux:šum[give]V/t
 c.4.22.1,A šir-gida to Ninisina (Ninisina A),,39,sux:bur[bowl]N sux:gal[big]V/i sux:de[pour]V/t
@@ -111,7 +111,7 @@ c.4.22.1,A šir-gida to Ninisina (Ninisina A),,109,sux:aya[father]N sux:Enlil[1]
 c.4.22.1,A šir-gida to Ninisina (Ninisina A),,110,sux:munus[woman]N sux:šul[youth]V/i sux:ursaŋ[hero]N sux:kalag[strong]V/i sux:ŋaʾe[I]IP sux:ŋen[go]V/i
 c.4.22.1,A šir-gida to Ninisina (Ninisina A),,111,sux:sipad[shepherd]N sux:kibala[rebel-land]N sux:ŋeštug[ear]N sux:dab[seize]V/t
 c.4.22.1,A šir-gida to Ninisina (Ninisina A),,112,sux:kag[mouth]N sux:tar[cut]V/t sux:kag[mouth]N sux:sig[silent]N
-c.4.22.1,A šir-gida to Ninisina (Ninisina A),,113,sux:ane[he]IP sux:ŋeštug[ear]N sux:ulu[cvve]V/t
+c.4.22.1,A šir-gida to Ninisina (Ninisina A),,113,sux:ane[he]IP sux:ŋeštug[ear]N sux:ŋeštug-ulu[forget]V/t
 c.4.22.1,A šir-gida to Ninisina (Ninisina A),,114,sux:iri[city]N sux:hulu[bad]V/i sux:lu[person]N sux:zu[know]V/t
 c.4.22.1,A šir-gida to Ninisina (Ninisina A),,115,sux:sipad[shepherd]N sux:ugu[food]N sux:lu[person]N sux:pad[find]V/t
 c.4.22.1,A šir-gida to Ninisina (Ninisina A),,116,sux:a[water]N sux:dab[seize]V/t sux:buru[harvest]N sux:su[sink]V/t

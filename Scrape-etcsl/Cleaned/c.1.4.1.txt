@@ -1,4 +1,4 @@
-id_text,text_name,version,l_no,text
+etcsl_no,text_name,version,l_no,text
 c.1.4.1,Inana's descent to the nether world,,1,sux:an[sky]N sux:gal[big]V/i sux:ki[place]N sux:gal[big]V/i sux:ŋeštug[ear]N sux:gub[stand]V/i
 c.1.4.1,Inana's descent to the nether world,,2,sux:diŋir[deity]N sux:an[sky]N sux:gal[big]V/i sux:ki[place]N sux:gal[big]V/i sux:ŋeštug[ear]N sux:gub[stand]V/i
 c.1.4.1,Inana's descent to the nether world,,3,sux:Inanak[1]DN sux:an[sky]N sux:gal[big]V/i sux:ki[place]N sux:gal[big]V/i sux:ŋeštug[ear]N sux:gub[stand]V/i
@@ -141,37 +141,37 @@ c.1.4.1,Inana's descent to the nether world,,129A,sux:ginindan[rod]N sux:ešgana
 c.1.4.1,Inana's descent to the nether world,,129B,sux:abula[gate]N sux:1-kam-ma[1st]NU sux:kur[enter]V/i
 c.1.4.1,Inana's descent to the nether world,,130,sux:šugura[turban]N sux:men[tiara]N sux:eden[back]N sux:saŋ[head]N sux:lu[person]N sux:zir[break]V/t
 c.1.4.1,Inana's descent to the nether world,,131,sux-x-emesal:ta[what?]QP sux:nen[this]DP
-c.1.4.1,Inana's descent to the nether world,,132,sux:sig[silent]N sux:Inanak[1]DN sux:me[Being]N sux:kur[mountain]N sux:šu[hand]N sux:du[push]V/t
+c.1.4.1,Inana's descent to the nether world,,132,sux:sig[silent]N sux:Inanak[1]DN sux:me[Being]N sux:kur[mountain]N sux:šu[hand]N sux:šu-du[complete]V/t
 c.1.4.1,Inana's descent to the nether world,,133,sux:Inanak[1]DN sux:ŋarza[rites]N sux:kur[mountain]N sux:kag[mouth]N sux:ba[allot]V/t
 c.1.4.1,Inana's descent to the nether world,,134,sux:abula[gate]N sux:2-kam-ma[2nd]NU sux:kur[enter]V/i
 c.1.4.1,Inana's descent to the nether world,,135,sux:zagin[lapis]N sux:didila[smaller]V/i sux:gu[neck]N sux:lu[person]N sux:zir[break]V/t
 c.1.4.1,Inana's descent to the nether world,,136,sux-x-emesal:ta[what?]QP sux:nen[this]DP
-c.1.4.1,Inana's descent to the nether world,,137,sux:sig[silent]N sux:Inanak[1]DN sux:me[Being]N sux:kur[mountain]N sux:šu[hand]N sux:du[push]V/t
+c.1.4.1,Inana's descent to the nether world,,137,sux:sig[silent]N sux:Inanak[1]DN sux:me[Being]N sux:kur[mountain]N sux:šu[hand]N sux:šu-du[complete]V/t
 c.1.4.1,Inana's descent to the nether world,,138,sux:Inanak[1]DN sux:ŋarza[rites]N sux:kur[mountain]N sux:kag[mouth]N sux:ba[allot]V/t
 c.1.4.1,Inana's descent to the nether world,,139,sux:abula[gate]N sux:3-kam-ma[3rd]NU sux:kur[enter]V/i
 c.1.4.1,Inana's descent to the nether world,,140,sux:nunuz[egg]N sux:tab[double]V/t sux:gaba[chest]N sux:lu[person]N sux:zir[break]V/t
 c.1.4.1,Inana's descent to the nether world,,141,sux-x-emesal:ta[what?]QP sux:nen[this]DP
-c.1.4.1,Inana's descent to the nether world,,142,sux:sig[silent]N sux:Inanak[1]DN sux:me[Being]N sux:kur[mountain]N sux:šu[hand]N sux:du[push]V/t
+c.1.4.1,Inana's descent to the nether world,,142,sux:sig[silent]N sux:Inanak[1]DN sux:me[Being]N sux:kur[mountain]N sux:šu[hand]N sux:šu-du[complete]V/t
 c.1.4.1,Inana's descent to the nether world,,143,sux:Inanak[1]DN sux:ŋarza[rites]N sux:kur[mountain]N sux:kag[mouth]N sux:ba[allot]V/t
 c.1.4.1,Inana's descent to the nether world,,144,sux:abula[gate]N sux:4-kam-ma[4th]NU sux:kur[enter]V/i
 c.1.4.1,Inana's descent to the nether world,,145,sux:tuditum[toggle-pin]N sux:lu[person]N sux:ŋen[go]V/i sux:ŋen[go]V/i sux:gaba[chest]N sux:lu[person]N sux:zir[break]V/t
 c.1.4.1,Inana's descent to the nether world,,146,sux-x-emesal:ta[what?]QP sux:nen[this]DP
-c.1.4.1,Inana's descent to the nether world,,147,sux:sig[silent]N sux:Inanak[1]DN sux:me[Being]N sux:kur[mountain]N sux:šu[hand]N sux:du[push]V/t
+c.1.4.1,Inana's descent to the nether world,,147,sux:sig[silent]N sux:Inanak[1]DN sux:me[Being]N sux:kur[mountain]N sux:šu[hand]N sux:šu-du[complete]V/t
 c.1.4.1,Inana's descent to the nether world,,148,sux:Inanak[1]DN sux:ŋarza[rites]N sux:kur[mountain]N sux:kag[mouth]N sux:ba[allot]V/t
 c.1.4.1,Inana's descent to the nether world,,149,sux:abula[gate]N sux:5-kam-ma[5th]NU sux:kur[enter]V/i
 c.1.4.1,Inana's descent to the nether world,,150,sux:har[ring]N sux:kugsig[gold]N sux:šu[hand]N sux:lu[person]N sux:zir[break]V/t
 c.1.4.1,Inana's descent to the nether world,,151,sux-x-emesal:ta[what?]QP sux:nen[this]DP
-c.1.4.1,Inana's descent to the nether world,,152,sux:sig[silent]N sux:Inanak[1]DN sux:me[Being]N sux:kur[mountain]N sux:šu[hand]N sux:du[push]V/t
+c.1.4.1,Inana's descent to the nether world,,152,sux:sig[silent]N sux:Inanak[1]DN sux:me[Being]N sux:kur[mountain]N sux:šu[hand]N sux:šu-du[complete]V/t
 c.1.4.1,Inana's descent to the nether world,,153,sux:Inanak[1]DN sux:ŋarza[rites]N sux:kur[mountain]N sux:kag[mouth]N sux:ba[allot]V/t
 c.1.4.1,Inana's descent to the nether world,,154,sux:abula[gate]N sux:6-kam-ma[6th]NU sux:kur[enter]V/i
 c.1.4.1,Inana's descent to the nether world,,155,sux:ginindan[rod]N sux:ešgana[line]N sux:zagin[lapis]N sux:šu[hand]N sux:lu[person]N sux:zir[break]V/t
 c.1.4.1,Inana's descent to the nether world,,156,sux-x-emesal:ta[what?]QP sux:nen[this]DP
-c.1.4.1,Inana's descent to the nether world,,157,sux:sig[silent]N sux:Inanak[1]DN sux:me[Being]N sux:kur[mountain]N sux:šu[hand]N sux:du[push]V/t
+c.1.4.1,Inana's descent to the nether world,,157,sux:sig[silent]N sux:Inanak[1]DN sux:me[Being]N sux:kur[mountain]N sux:šu[hand]N sux:šu-du[complete]V/t
 c.1.4.1,Inana's descent to the nether world,,158,sux:Inanak[1]DN sux:ŋarza[rites]N sux:kur[mountain]N sux:kag[mouth]N sux:ba[allot]V/t
 c.1.4.1,Inana's descent to the nether world,,159,sux:abula[gate]N sux:7-kam-ma[7th]NU sux:kur[enter]V/i
 c.1.4.1,Inana's descent to the nether world,,160,sux:pala[garment]N sux:tug[textile]N sux:namnin[ladyship]N sux:bar[outside]V/t sux:lu[person]N sux:zir[break]V/t
 c.1.4.1,Inana's descent to the nether world,,161,sux-x-emesal:ta[what?]QP sux:nen[this]DP
-c.1.4.1,Inana's descent to the nether world,,162,sux:sig[silent]N sux:Inanak[1]DN sux:me[Being]N sux:kur[mountain]N sux:šu[hand]N sux:du[push]V/t
+c.1.4.1,Inana's descent to the nether world,,162,sux:sig[silent]N sux:Inanak[1]DN sux:me[Being]N sux:kur[mountain]N sux:šu[hand]N sux:šu-du[complete]V/t
 c.1.4.1,Inana's descent to the nether world,,163,sux:Inanak[1]DN sux:ŋarza[rites]N sux:kur[mountain]N sux:kag[mouth]N sux:ba[allot]V/t
 c.1.4.1,Inana's descent to the nether world,,164,sux:gurum[bend]V/t sux:tug[textile]N sux:sil[split]V/i sux:lu[person]N sux:de[bring]V/t
 c.1.4.1,Inana's descent to the nether world,,165,sux:nin[sister]N sux:guza[chair]N sux:zig[rise]V/t
@@ -202,10 +202,10 @@ c.1.4.1,Inana's descent to the nether world,,187,sux:zagin[lapis]N sux:sag[good]
 c.1.4.1,Inana's descent to the nether world,,188,sux:taškarin[boxwood]N sux:ŋeš[tree]N sux:nagar[carpenter]N sux:dar[split]V/t
 c.1.4.1,Inana's descent to the nether world,,189,sux:kisikil[woman]N sux-x-emesal:Inanak[1]DN sux:kur[mountain]N sux:gurum[bend]V/t
 c.1.4.1,Inana's descent to the nether world,,190,sux:aya[father]N sux:Enlil[1]DN sux:lipiš[innards]N sux:bala[turn]V/t sux:Ninšubur[1]DN sux:gi[turn]V/i
-c.1.4.1,Inana's descent to the nether world,,191,sux:dumu[child]N sux:an[sky]N sux:gal[big]V/i sux:al[hoe]N sux:dug[speak]V/t sux:ki[place]N sux:gal[big]V/i sux:al[hoe]N sux:dug[speak]V/t
-c.1.4.1,Inana's descent to the nether world,,192,sux:Inanak[1]DN sux:an[sky]N sux:gal[big]V/i sux:al[hoe]N sux:dug[speak]V/t sux:ki[place]N sux:gal[big]V/i sux:al[hoe]N sux:dug[speak]V/t
-c.1.4.1,Inana's descent to the nether world,,193,sux:me[Being]N sux:kur[mountain]N sux:me[Being]N sux:al[hoe]N sux:dug[speak]V/t sux:sa[equal]V/t sux:dug[speak]V/t sux:kur[mountain]N sux:us[follow]V/t
-c.1.4.1,Inana's descent to the nether world,,194,sux:aba[who?]QP sux:ki[place]N sux:sa[equal]V/t sux:dug[speak]V/t sux:ed[ascend]V/i sux:al[hoe]N sux:dug[speak]V/t
+c.1.4.1,Inana's descent to the nether world,,191,sux:dumu[child]N sux:an[sky]N sux:gal[big]V/i sux:al-dug[desire]V/t sux:dug[speak]V/t sux:ki[place]N sux:gal[big]V/i sux:al-dug[desire]V/t sux:dug[speak]V/t
+c.1.4.1,Inana's descent to the nether world,,192,sux:Inanak[1]DN sux:an[sky]N sux:gal[big]V/i sux:al-dug[desire]V/t sux:dug[speak]V/t sux:ki[place]N sux:gal[big]V/i sux:al-dug[desire]V/t sux:dug[speak]V/t
+c.1.4.1,Inana's descent to the nether world,,193,sux:me[Being]N sux:kur[mountain]N sux:me[Being]N sux:al-dug[desire]V/t sux:dug[speak]V/t sux:sa[equal]V/t sux:dug[speak]V/t sux:kur[mountain]N sux:us[follow]V/t
+c.1.4.1,Inana's descent to the nether world,,194,sux:aba[who?]QP sux:ki[place]N sux:sa[equal]V/t sux:dug[speak]V/t sux:ed[ascend]V/i sux:al-dug[desire]V/t sux:dug[speak]V/t
 c.1.4.1,Inana's descent to the nether world,,195,sux:aya[father]N sux:Enlil[1]DN sux:inim[word]N sux:gub[stand]V/i sux:Urim[1]SN sux:ŋen[go]V/i
 c.1.4.1,Inana's descent to the nether world,,196,sux:Urim[1]SN sux:Emudkurak[1]TN
 c.1.4.1,Inana's descent to the nether world,,197,sux:Ekišnuŋal[1]TN sux:e[house]N sux:Nanna[1]DN sux:kur[enter]V/i
@@ -216,10 +216,10 @@ c.1.4.1,Inana's descent to the nether world,,201,sux:zagin[lapis]N sux:sag[good]
 c.1.4.1,Inana's descent to the nether world,,202,sux:taškarin[boxwood]N sux:ŋeš[tree]N sux:nagar[carpenter]N sux:dar[split]V/t
 c.1.4.1,Inana's descent to the nether world,,203,sux:kisikil[woman]N sux-x-emesal:Inanak[1]DN sux:kur[mountain]N sux:gurum[bend]V/t
 c.1.4.1,Inana's descent to the nether world,,204,sux:aya[father]N sux:Nanna[1]DN sux:lipiš[innards]N sux:bala[turn]V/t sux:Ninšubur[1]DN sux:gi[turn]V/i
-c.1.4.1,Inana's descent to the nether world,,205,sux:dumu[child]N sux:an[sky]N sux:gal[big]V/i sux:al[hoe]N sux:dug[speak]V/t sux:ki[place]N sux:gal[big]V/i sux:al[hoe]N sux:dug[speak]V/t
-c.1.4.1,Inana's descent to the nether world,,206,sux:Inanak[1]DN sux:an[sky]N sux:gal[big]V/i sux:al[hoe]N sux:dug[speak]V/t sux:ki[place]N sux:gal[big]V/i sux:al[hoe]N sux:dug[speak]V/t
-c.1.4.1,Inana's descent to the nether world,,207,sux:me[Being]N sux:kur[mountain]N sux:me[Being]N sux:al[hoe]N sux:dug[speak]V/t sux:sa[equal]V/t sux:dug[speak]V/t sux:kur[mountain]N sux:us[follow]V/t
-c.1.4.1,Inana's descent to the nether world,,208,sux:aba[who?]QP sux:ki[place]N sux:sa[equal]V/t sux:dug[speak]V/t sux:ed[ascend]V/i sux:al[hoe]N sux:dug[speak]V/t
+c.1.4.1,Inana's descent to the nether world,,205,sux:dumu[child]N sux:an[sky]N sux:gal[big]V/i sux:al-dug[desire]V/t sux:dug[speak]V/t sux:ki[place]N sux:gal[big]V/i sux:al-dug[desire]V/t sux:dug[speak]V/t
+c.1.4.1,Inana's descent to the nether world,,206,sux:Inanak[1]DN sux:an[sky]N sux:gal[big]V/i sux:al-dug[desire]V/t sux:dug[speak]V/t sux:ki[place]N sux:gal[big]V/i sux:al-dug[desire]V/t sux:dug[speak]V/t
+c.1.4.1,Inana's descent to the nether world,,207,sux:me[Being]N sux:kur[mountain]N sux:me[Being]N sux:al-dug[desire]V/t sux:dug[speak]V/t sux:sa[equal]V/t sux:dug[speak]V/t sux:kur[mountain]N sux:us[follow]V/t
+c.1.4.1,Inana's descent to the nether world,,208,sux:aba[who?]QP sux:ki[place]N sux:sa[equal]V/t sux:dug[speak]V/t sux:ed[ascend]V/i sux:al-dug[desire]V/t sux:dug[speak]V/t
 c.1.4.1,Inana's descent to the nether world,,209,sux:aya[father]N sux:Nanna[1]DN sux:inim[word]N sux:gub[stand]V/i sux-x-emesal:Eridug[1]SN sux:ŋen[go]V/i
 c.1.4.1,Inana's descent to the nether world,,210,sux-x-emesal:Eridug[1]SN sux:e[house]N sux:Enki[1]DN sux:kur[enter]V/i
 c.1.4.1,Inana's descent to the nether world,,211,sux:igi[eye]N sux:Enki[1]DN sux:er[tears]N sux:šeš[weep]V/t
@@ -427,8 +427,8 @@ c.1.4.1,Inana's descent to the nether world,,404,sux:er[tears]N sux:šeš[weep]V
 c.1.4.1,Inana's descent to the nether world,,405,sux:nin[sister]N sux:ŋen[go]V/i sux:šu[hand]N sux:si[fill]V/t
 c.1.4.1,Inana's descent to the nether world,,406,sux:ineš[now]MA sux:meliʾeʾa[exclamation]J
 c.1.4.1,Inana's descent to the nether world,,407,sux:zaʾe[you]IP sux:mu[year]N sux:1/2[1/2]NU sux:nin[sister]N sux:mu[year]N sux:1/2[1/2]NU
-c.1.4.1,Inana's descent to the nether world,,408,sux:ud[sun]N sux:zaʾe[you]IP sux:al[hoe]N sux:dug[speak]V/t sux:ud[sun]N sux:tuš[sit]V/i
-c.1.4.1,Inana's descent to the nether world,,409,sux:ud[sun]N sux:nin[sister]N sux:al[hoe]N sux:dug[speak]V/t sux:ud[sun]N sux:bur[spread]V/t
+c.1.4.1,Inana's descent to the nether world,,408,sux:ud[sun]N sux:zaʾe[you]IP sux:al-dug[desire]V/t sux:dug[speak]V/t sux:ud[sun]N sux:tuš[sit]V/i
+c.1.4.1,Inana's descent to the nether world,,409,sux:ud[sun]N sux:nin[sister]N sux:al-dug[desire]V/t sux:dug[speak]V/t sux:ud[sun]N sux:bur[spread]V/t
 c.1.4.1,Inana's descent to the nether world,,410,sux:kug[pure]V/i sux:Inanak[1]DN sux:Dumuzid[1]DN sux:saŋ[head]N sux:šum[give]V/t
 c.1.4.1,Inana's descent to the nether world,,411,sux:kug[pure]V/i sux:Ereškigalak[1]DN
 c.1.4.1,Inana's descent to the nether world,,412,sux:zamin[lyre]N sux:dug[good]V/i

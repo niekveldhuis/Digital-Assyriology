@@ -1,4 +1,4 @@
-id_text,text_name,version,l_no,text
+etcsl_no,text_name,version,l_no,text
 c.2.4.1.3,A praise poem of Ur-Namma (Ur-Namma C),,1,sux:iri[city]N sux:me[Being]N sux:dug[good]V/i sux:barag[sanctum]N sux:mah[great]V/i sux:namlugal[kingship]N
 c.2.4.1.3,A praise poem of Ur-Namma (Ur-Namma C),,2,sux:eš[shrine]N sux:Urim[1]SN sux:gugal[foremost]AJ sux:Kiengir[1]GN sux:ki[place]N sux:kug[pure]V/i sux:du[build]V/t
 c.2.4.1.3,A praise poem of Ur-Namma (Ur-Namma C),,3,sux:iri[city]N sux:bad[wall]N sux:gal[big]V/i sux:ki[place]N sux:ŋar[place]V/t sux:abzu[water]N sux:mu[grow]V/t
@@ -7,7 +7,7 @@ c.2.4.1.3,A praise poem of Ur-Namma (Ur-Namma C),,5,sux:eš[shrine]N sux:Urim[1]
 c.2.4.1.3,A praise poem of Ur-Namma (Ur-Namma C),,6,sux:egal[palace]N sux:mah[great]V/i sux:Ekišnuŋal[1]TN sux:šag[heart]N sux:nam[fate]N sux:tar[cut]V/t
 c.2.4.1.3,A praise poem of Ur-Namma (Ur-Namma C),,7,sux:dubla[tower]N sux:melim[splendor]N sux:du[spread]V/t sux:kur[mountain]N sux:dirig[float]V/i
 c.2.4.1.3,A praise poem of Ur-Namma (Ur-Namma C),,8,sux:giguna[terrace]N sux:dungu[cloud]N sux:babbar[white]V/i sux:anšag[~heaven]N sux:u[admiration]N sux:dug[speak]V/t
-c.2.4.1.3,A praise poem of Ur-Namma (Ur-Namma C),,9,sux:RU[~architecture]N sux:nim[fly]N sux:ŋir[flash]V/i sux:eš[shrine]N sux:šag[heart]N sux:kun[shine]V/i
+c.2.4.1.3,A praise poem of Ur-Namma (Ur-Namma C),,9,sux:RU[~architecture]N sux:nim-ŋir[flash]V/t sux:ŋir[flash]V/i sux:eš[shrine]N sux:šag[heart]N sux:kun[shine]V/i
 c.2.4.1.3,A praise poem of Ur-Namma (Ur-Namma C),,10,sux:1[1]NU sux:gud[ox]N sux:šudul[yoke]N sux:ur[root]N sux:gur[thick]V/i sux:kug[pure]V/i sux:darag[unmng]V
 c.2.4.1.3,A praise poem of Ur-Namma (Ur-Namma C),,11,sux:banšur[table]N sux:sikil[pure]V/i sux:ki[place]N sux:aŋ[measure]V/t sux:Suen[1]DN
 c.2.4.1.3,A praise poem of Ur-Namma (Ur-Namma C),,12,sux:Ekišnuŋal[1]TN sux:banšur[table]N sux:sikil[pure]V/i sux:ki[place]N sux:aŋ[measure]V/t sux:Suen[1]DN

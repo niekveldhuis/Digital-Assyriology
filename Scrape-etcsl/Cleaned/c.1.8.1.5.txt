@@ -1,4 +1,4 @@
-id_text,text_name,version,l_no,text
+etcsl_no,text_name,version,l_no,text
 c.1.8.1.5,Gilgameš and Huwawa (Version A),,1,sux:en[lord]N sux:kur[mountain]N sux:lu[person]N sux:til[live]V/i sux:ŋeštug[ear]N sux:gub[stand]V/i
 c.1.8.1.5,Gilgameš and Huwawa (Version A),,2,sux:en[lord]N sux:Gilgameš[1]DN sux:kur[mountain]N sux:lu[person]N sux:til[live]V/i sux:ŋeštug[ear]N sux:gub[stand]V/i
 c.1.8.1.5,Gilgameš and Huwawa (Version A),,3,sux:arad[slave]N sux:Enkidu[1]PN sux:gu[voice]N sux:de[pour]V/t
@@ -23,7 +23,7 @@ c.1.8.1.5,Gilgameš and Huwawa (Version A),,20,sux:ŋuruš[male]N sux:dumuŋir[c
 c.1.8.1.5,Gilgameš and Huwawa (Version A),,21,sux:Utu[1]DN sux:inim[word]N sux:dug[speak]V/t sux:inim[word]N sux:ŋeštug[ear]N
 c.1.8.1.5,Gilgameš and Huwawa (Version A),,22,sux:silim[healthy]V/i sux:dug[speak]V/t sux:ŋizzal[ear]N sux:ak[do]V/t
 c.1.8.1.5,Gilgameš and Huwawa (Version A),,23,sux:iri[city]N sux:lu[person]N sux:uš[die]V/i sux:šag[heart]N sux:sag[beat]V/t
-c.1.8.1.5,Gilgameš and Huwawa (Version A),,24,sux:lu[person]N sux:ugu[cvne]N sux:de[pour]V/t sux:šag[heart]N sux:gig[sick]V/i
+c.1.8.1.5,Gilgameš and Huwawa (Version A),,24,sux:lu[person]N sux:ugu-de[disappear]V/t sux:de[pour]V/t sux:šag[heart]N sux:gig[sick]V/i
 c.1.8.1.5,Gilgameš and Huwawa (Version A),,25,sux:bad[wall]N sux:gu[neck]N sux:la[hang]V/t
 c.1.8.1.5,Gilgameš and Huwawa (Version A),,26,sux:adda[corpse]N sux:a[water]N sux:dirig[float]V/i sux:igi[eye]N sux:sig[put]V/t
 c.1.8.1.5,Gilgameš and Huwawa (Version A),,27,sux:u[and]CNJ sux:ŋaʾe[I]IP sux:ur[he]IP sux:ak[do]V/t sux:ur[he]IP sux:me[be]V/i
@@ -42,7 +42,7 @@ c.1.8.1.5,Gilgameš and Huwawa (Version A),,39,sux:3-kam-ma[3rd]NU sux:muš[snak
 c.1.8.1.5,Gilgameš and Huwawa (Version A),,40,sux:4-kam-ma[4th]NU sux:izi[fire]N sux:šeŋ[cook]V/t sux:kur[enter]V/i
 c.1.8.1.5,Gilgameš and Huwawa (Version A),,41,sux:5-kam-ma[5th]NU sux:mušsaŋkal[snake]N sux:šag[heart]N sux:gi[turn]V/i
 c.1.8.1.5,Gilgameš and Huwawa (Version A),,42,sux:6-kam-ma[6th]NU sux:raba[clamp]N sux:kibala[rebel-land]N sux:hursaŋ[mountain]N sux:aŋi[wave]N sux:du[push]V/t sux:kur[mountain]N sux:gaba[chest]N sux:rah[beat]V/t
-c.1.8.1.5,Gilgameš and Huwawa (Version A),,43,sux:7-kam-ma[7th]NU sux:nim[fly]N sux:ŋir[flash]V/i sux:a[arm]N sux:lu[person]N sux:gur[turn]V/i
+c.1.8.1.5,Gilgameš and Huwawa (Version A),,43,sux:7-kam-ma[7th]NU sux:nim-ŋir[flash]V/t sux:ŋir[flash]V/i sux:a[arm]N sux:lu[person]N sux:gur[turn]V/i
 c.1.8.1.5,Gilgameš and Huwawa (Version A),,43A,
 c.1.8.1.5,Gilgameš and Huwawa (Version A),,43B,
 c.1.8.1.5,Gilgameš and Huwawa (Version A),,43C,sux:7[7]NU sux:dili[single]V/i

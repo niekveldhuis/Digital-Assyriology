@@ -1,4 +1,4 @@
-id_text,text_name,version,l_no,text
+etcsl_no,text_name,version,l_no,text
 c.5.7.1,Enlil and Nam-zid-tara,,1,sux:Namzidtara[1]PN sux:Enlil[1]DN sux:zal[pass]V/t
 c.5.7.1,Enlil and Nam-zid-tara,,2,sux:inim[word]N sux:dug[speak]V/t
 c.5.7.1,Enlil and Nam-zid-tara,,3,sux:meta[whence?]QP sux:Namzidtara[1]PN

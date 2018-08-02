@@ -1,4 +1,4 @@
-id_text,text_name,version,l_no,text
+etcsl_no,text_name,version,l_no,text
 c.0.2.06,OB catalogue from Nibru (N3),,1,sux:ursaŋ[hero]N sux:alim[bison]N sux:mah[great]V/i
 c.0.2.06,OB catalogue from Nibru (N3),,2,sux:mea[where?]QP sux:lu[abundant]V/i
 c.0.2.06,OB catalogue from Nibru (N3),,3,sux:meʾam[dear]J
@@ -24,8 +24,8 @@ c.0.2.06,OB catalogue from Nibru (N3),,22,
 c.0.2.06,OB catalogue from Nibru (N3),,23,
 c.0.2.06,OB catalogue from Nibru (N3),,24,sux:namtil[life]N sux:ragaba[rider]N
 c.0.2.06,OB catalogue from Nibru (N3),,25,sux:ušim[greenery]N sux:saŋ[head]N sux:il[raise]V/t
-c.0.2.06,OB catalogue from Nibru (N3),,26,sux:nin[lady]N sux:hili[attractiveness]N sux:šu[hand]N sux:du[push]V/t
-c.0.2.06,OB catalogue from Nibru (N3),,27,sux:ŋidru[scepter]N sux:šu[hand]N sux:du[push]V/t
+c.0.2.06,OB catalogue from Nibru (N3),,26,sux:nin[lady]N sux:hili[attractiveness]N sux:šu[hand]N sux:šu-du[complete]V/t
+c.0.2.06,OB catalogue from Nibru (N3),,27,sux:ŋidru[scepter]N sux:šu[hand]N sux:šu-du[complete]V/t
 c.0.2.06,OB catalogue from Nibru (N3),,28,sux:il[raise]V/t sux:il[raise]V/t
 c.0.2.06,OB catalogue from Nibru (N3),,29,sux:Inab[1]SN sux:me[be]V/i
 c.0.2.06,OB catalogue from Nibru (N3),,30,sux:ŋeš[tree]N sux:šub[fall]V/t

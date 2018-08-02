@@ -1,4 +1,4 @@
-id_text,text_name,version,l_no,text
+etcsl_no,text_name,version,l_no,text
 c.5.5.3,An elegy on the death of Nawirtum,,1,sux:ud[sun]N sux:hulu[bad]V/i sux:dab[seize]V/t sux:kisikil[woman]N
 c.5.5.3,An elegy on the death of Nawirtum,,2,sux:munus[woman]N sux:sag[good]V/i sux:kisikil[woman]N sux:hedu[ornament]N sux:igi[eye]N sux:hulu[bad]V/i
 c.5.5.3,An elegy on the death of Nawirtum,,3,sux:mušen[bird]N sux:amar[young]N sux:gud[nest]N sux:dirig[float]V/i sux:sa[net]N
@@ -11,7 +11,7 @@ c.5.5.3,An elegy on the death of Nawirtum,,9,sux:kinud[bedroom]N sux:gurud[throw
 c.5.5.3,An elegy on the death of Nawirtum,,10,sux:Nibru[1]SN sux:muru[rainstorm]N sux:ŋar[place]V/t sux:iri[city]N
 c.5.5.3,An elegy on the death of Nawirtum,,11,sux:uŋ[people]N sux:daŋal[wide]V/i sux:ua[oh]J sux:šub[fall]V/t sux:nam[fate]N
 c.5.5.3,An elegy on the death of Nawirtum,,12,sux:akkil[noise]N sux:gukiri[cry]N sux:šen[battle]N sux:KU[KU]V
-c.5.5.3,An elegy on the death of Nawirtum,,13,sux:tuku[acquire]V/t sux:lum[fruit]V/i sux:ugu[skull]N sux:dab[seize]V/t sux:šu[hand]N sux:du[push]V/t
+c.5.5.3,An elegy on the death of Nawirtum,,13,sux:tuku[acquire]V/t sux:lum[fruit]V/i sux:ugu[skull]N sux:dab[seize]V/t sux:šu[hand]N sux:šu-du[complete]V/t
 c.5.5.3,An elegy on the death of Nawirtum,,14,sux:arhuš[womb]N sux:zi[life]N sux:til[complete]V/i sux:zag[side]N sux:šub[fall]V/t
 c.5.5.3,An elegy on the death of Nawirtum,,15,sux:alan[statue]N sux:kugsig[gold]N sux:niŋ[thing]N sux:ŋar[place]V/t sux:lipiš[innards]N sux:zig[rise]V/t
 c.5.5.3,An elegy on the death of Nawirtum,,16,sux:lu[person]N sux:igi[eye]N sux:bar[outside]V/t sux:šeš[weep]V/t sux:ŋar[place]V/t
@@ -20,7 +20,7 @@ c.5.5.3,An elegy on the death of Nawirtum,,18,sux:šir[song]N sux:saŋ[head]N su
 c.5.5.3,An elegy on the death of Nawirtum,,19,sux:ilu[song]N sux:šaneša[supplication]N sux:kišar[earth]N sux:kur[different]V/i
 c.5.5.3,An elegy on the death of Nawirtum,,20,sux:sag[good]V/i sux:gi[turn]V/i sux:re[that]DP sux:šir[song]N sux:dug[speak]V/t
 c.5.5.3,An elegy on the death of Nawirtum,,21,sux:banda[junior]V/i sux:saŋ[head]N sux:šu[hand]N sux:ak[do]V/t sux:re[that]DP
-c.5.5.3,An elegy on the death of Nawirtum,,22,sux:na[stone]N sux:gu[neck]N sux:kud[cut]V/t sux:sa[advice]N sux:pad[find]V/t sux:ugu[cvne]N sux:de[pour]V/t
+c.5.5.3,An elegy on the death of Nawirtum,,22,sux:na[stone]N sux:gu[neck]N sux:kud[cut]V/t sux:sa[advice]N sux:pad[find]V/t sux:ugu-de[disappear]V/t sux:de[pour]V/t
 c.5.5.3,An elegy on the death of Nawirtum,,23,sux:ur[root]N sux:dam[spouse]N sux:ud[sun]N sux:sud[distant]V/i sux:isiš[tears]N sux:til[complete]V/i sux:re[that]DP
 c.5.5.3,An elegy on the death of Nawirtum,,24,sux-x-emesal:aŋ[thing]N sux:Ninurtak[1]DN sux:lala[plenty]N sux:gi[turn]V/i sux:re[that]DP
 c.5.5.3,An elegy on the death of Nawirtum,,25,sux:erešdiŋir[priestess]N sux:ki[place]N sux:aŋ[measure]V/t sux:ŋipar[cloister]N sux:kur[enter]V/i sux:re[that]DP

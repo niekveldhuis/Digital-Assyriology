@@ -1,4 +1,4 @@
-id_text,text_name,version,l_no,text
+etcsl_no,text_name,version,l_no,text
 c.6.2.3,Proverbs: from Urim,UET 6/2 291,1,sux:niŋgina[truth]N sux:aba[who?]QP sux:sa[equal]V/t
 c.6.2.3,Proverbs: from Urim,UET 6/2 291,2,sux:namtil[life]N sux:utud[bear]V/t
 c.6.2.3,Proverbs: from Urim,UET 6/2 291,3,sux:niŋerim[evil]N sux:a[arm]N sux:kušu[tired]V/i sux:Utu[1]DN sux:šeba[negligent]V/i
@@ -13,7 +13,7 @@ c.6.2.3,Proverbs: from Urim,UET 6/2 239,1,sux:ninda[bread]N sux:heŋal[plenty]N 
 c.6.2.3,Proverbs: from Urim,UET 6/2 239,2,sux:ninda[bread]N sux:ŋal[be]V/i sux:lukur[stranger]N sux:gu[eat]V/t
 c.6.2.3,Proverbs: from Urim,UET 6/2 320,1,sux:ninda[bread]N sux:heŋal[plenty]N sux:ninkilim[mongoose]N sux:gu[eat]V/t
 c.6.2.3,Proverbs: from Urim,UET 6/2 320,2,sux:ninda[bread]N sux:heŋal[plenty]N sux:lukur[stranger]N sux:gu[eat]V/t
-c.6.2.3,Proverbs: from Urim,UET 6/2 261 and UET 6/2 262,1,sux:niŋtuku[rich]AJ sux:niŋ[thing]N sux:al[hoe]N sux:dug[speak]V/t sux:niŋgig[bad-thing]N sux:diŋir[deity]N
+c.6.2.3,Proverbs: from Urim,UET 6/2 261 and UET 6/2 262,1,sux:niŋtuku[rich]AJ sux:niŋ[thing]N sux:al-dug[desire]V/t sux:dug[speak]V/t sux:niŋgig[bad-thing]N sux:diŋir[deity]N
 c.6.2.3,Proverbs: from Urim,UET 6/2 221,1,sux:iri[city]N sux:urgir[dog]N sux:me[be]V/i sux:kaʾa[fox]N sux:nubanda[overseer]N
 c.6.2.3,Proverbs: from Urim,UET 6/2 302,1,sux:ma[ship]N sux:niŋgina[truth]N sux:ni[self]RP sux:dirig[float]V/i
 c.6.2.3,Proverbs: from Urim,UET 6/2 302,2,sux:Utu[1]DN sux:kar[harbor]N sux:gin[firm]V/i sux:kiŋ[seek]V/t
@@ -41,7 +41,7 @@ c.6.2.3,Proverbs: from Urim,UET 6/2 356,5,sux:dirga[bond]N sux:ki[place]N sux:gu
 c.6.2.3,Proverbs: from Urim,UET 6/2 356,6,sux:ŋarza[rites]N sux:ŋiri[foot]N sux:kur[different]V/i
 c.6.2.3,Proverbs: from Urim,UET 6/2 356,7,sux:me[Being]N sux:halam[forsake]V/i
 c.6.2.3,Proverbs: from Urim,UET 6/2 356,8,sux:dirga[bond]N sux:ki[place]N sux:gul[destroy]V/t
-c.6.2.3,Proverbs: from Urim,UET 6/2 292,1,sux:namtar[fate]N sux:dug[speak]V/t sux:sulum[contempt]N sux:mar[smear]V/t
+c.6.2.3,Proverbs: from Urim,UET 6/2 292,1,sux:namtar[fate]N sux:dug[speak]V/t sux:sulum-mar[slander]V/t sux:mar[smear]V/t
 c.6.2.3,Proverbs: from Urim,UET 6/2 292,2,sux:ara[times]N sux:dug[speak]V/t sux:kag[mouth]N sux:lu[person]N sux:ses[bitter]V/i
 c.6.2.3,Proverbs: from Urim,UET 6/2 292,3,sux:er[tears]N sux:sa[equal]V/t sux:šag[heart]N sux:hulu[bad]V/i
 c.6.2.3,Proverbs: from Urim,UET 6/2 292,4,sux:numun[grass]N sux:e[house]N sux:dug[speak]V/t
@@ -117,7 +117,7 @@ c.6.2.3,Proverbs: from Urim,UET 6/2 287,1,sux:sisi[horse]N sux:lu[person]N sux:u
 c.6.2.3,Proverbs: from Urim,UET 6/2 287,2,sux:tukumbi[if]CNJ sux:gun[load]N sux:dari[eternal]V/i
 c.6.2.3,Proverbs: from Urim,UET 6/2 287,3,sux:nen[this]DP sux:sig[weak]V/i
 c.6.2.3,Proverbs: from Urim,UET 6/2 283,1,sux:anše[equid]N sux:barag[sack]N sux:la[hang]V/t sux:šub[fall]V/t
-c.6.2.3,Proverbs: from Urim,UET 6/2 283,2,sux:dulum[toil]N sux:udbita[former]AJ sux:ŋeštug[ear]N sux:ulu[cvve]V/t
+c.6.2.3,Proverbs: from Urim,UET 6/2 283,2,sux:dulum[toil]N sux:udbita[former]AJ sux:ŋeštug[ear]N sux:ŋeštug-ulu[forget]V/t
 c.6.2.3,Proverbs: from Urim,UET 6/2 315,1,sux:anše[equid]N sux:id[river]N sux:dirig[float]V/i
 c.6.2.3,Proverbs: from Urim,UET 6/2 315,2,sux:urgir[dog]N sux:barim[land]N sux:igi[eye]N sux:du[spread]V/t
 c.6.2.3,Proverbs: from Urim,UET 6/2 315,3,sux:aya[father]N sux:ugu[bear]V/t sux:meše[where-to?]QP sux:ŋen[go]V/i
@@ -206,7 +206,7 @@ c.6.2.3,Proverbs: from Urim,UET 6/2 217,2,sux:šub[fall]V/t sux:id[river]N sux:i
 c.6.2.3,Proverbs: from Urim,UET 6/3 462,1,sux:usu[strength]N sux:igiŋaltuku[wise]AJ sux:sa[equal]V/t
 c.6.2.3,Proverbs: from Urim,UET 6/3 464,1,sux:kugzu[wise]AJ sux:2[2]NU
 c.6.2.3,Proverbs: from Urim,UET 6/3 464,2,sux:galanzu[wise]AJ sux:ara[times]N
-c.6.2.3,Proverbs: from Urim,UET 6/3 464,3,sux:ishab[rogue]N sux:kibid[buttocks]N sux:šu[hand]N sux:šanšaša[cvve]V/t
+c.6.2.3,Proverbs: from Urim,UET 6/3 464,3,sux:ishab[rogue]N sux:kibid[buttocks]N sux:šu[hand]N sux:šu-šanšaša[search]V/t
 c.6.2.3,Proverbs: from Urim,UET 6/2 282 and UET 6/2 332,1,sux:šeŋbar[animal]N sux:asal[poplar]N
 c.6.2.3,Proverbs: from Urim,UET 6/2 282 and UET 6/2 332,2,sux:ed[ascend]V/i
 c.6.2.3,Proverbs: from Urim,UET 6/2 282 and UET 6/2 332,3,sux:ed[ascend]V/i
@@ -237,7 +237,7 @@ c.6.2.3,Proverbs: from Urim,UET 6/3 80,3,sux:egia[bride]N sux:namušbar[in-law-s
 c.6.2.3,Proverbs: from Urim,UET 6/3 80,4,sux:irsaŋ[pigeon]N sux:gu[voice]N sux:de[pour]V/t sux:kiri[orchard]N sux:mete[appropriate-thing]N
 c.6.2.3,Proverbs: from Urim,UET 6/3 80,5,sux:bizaza[frog]N sux:gu[voice]N sux:de[pour]V/t sux:aʾambar[water]N sux:mete[appropriate-thing]N
 c.6.2.3,Proverbs: from Urim,UET 6/3 80,6,sux:dar[bird]N sux:gu[voice]N sux:de[pour]V/t sux:ašag[field]N
-c.6.2.3,Proverbs: from Urim,UET 6/3 80,7,sux:sulum[contempt]N sux:mar[smear]V/t sux:sulum[contempt]N sux:mar[smear]V/t sux:kešed[bind]V/t
+c.6.2.3,Proverbs: from Urim,UET 6/3 80,7,sux:sulum-mar[slander]V/t sux:mar[smear]V/t sux:sulum-mar[slander]V/t sux:mar[smear]V/t sux:kešed[bind]V/t
 c.6.2.3,Proverbs: from Urim,UET 6/3 80,8,sux:diŋir[deity]N sux:3[3]NU sux:dug[speak]V/t sux:me[be]V/i
 c.6.2.3,Proverbs: from Urim,UET 6/3 80,9,sux:lulu[man]N sux:nam[fate]N sux:garan[bunch]N sux:me[be]V/i
 c.6.2.3,Proverbs: from Urim,UET 6/3 80,10,
@@ -252,7 +252,24 @@ c.6.2.3,Proverbs: from Urim,UET 6/3 80,18,sux:atuku[powerful]N sux:lugal[king]N 
 c.6.2.3,Proverbs: from Urim,UET 6/3 80,19,sux:zir[break]V/t sux:sa[equal]V/t sux:dug[speak]V/t
 c.6.2.3,Proverbs: from Urim,UET 6/3 80,20,sux:aba[who?]QP sux:kiŋ[seek]V/t
 c.6.2.3,Proverbs: from Urim,UET 6/3 80,21,
-c.6.2.3,Proverbs: from Urim,UET 6/2 339 +,A1,sux:gi[turn]V/ic.6.2.3,Proverbs: from Urim,UET 6/2 339 +,A2,c.6.2.3,Proverbs: from Urim,UET 6/2 339 +,A3,c.6.2.3,Proverbs: from Urim,UET 6/2 339 +,A4,sux:sag[good]V/ic.6.2.3,Proverbs: from Urim,UET 6/2 339 +,A5,sux:šub[fall]V/tc.6.2.3,Proverbs: from Urim,UET 6/2 339 +,A6,c.6.2.3,Proverbs: from Urim,UET 6/2 339 +,A7,sux:ŋal[be]V/i sux:tuku[acquire]V/tc.6.2.3,Proverbs: from Urim,UET 6/2 339 +,A8,sux:zu[know]V/t sux:us[follow]V/tc.6.2.3,Proverbs: from Urim,UET 6/2 339 +,A9,sux:sag[beat]V/tc.6.2.3,Proverbs: from Urim,UET 6/2 339 +,A10,sux:diŋir[deity]N sux:mea[where?]QPc.6.2.3,Proverbs: from Urim,UET 6/2 339 +,A11,c.6.2.3,Proverbs: from Urim,UET 6/2 339 +,B1,sux:du[build]V/t sux:munus[woman]Nc.6.2.3,Proverbs: from Urim,UET 6/2 339 +,B2,sux:ninda[bread]N sux:ninkilim[mongoose]N sux:gu[eat]V/t sux:ninda[bread]N sux:kur[different]V/i sux:gu[eat]V/tc.6.2.3,Proverbs: from Urim,UET 6/2 339 +,B3,sux:niŋtuku[rich]AJ sux:niŋ[thing]N sux:al[hoe]N sux:dug[speak]V/t sux:niŋgig[bad-thing]N sux:diŋir[deity]Nc.6.2.3,Proverbs: from Urim,UET 6/2 339 +,B4,sux:u[cvne]N sux:hub[cvve]V/t sux:til[live]V/i sux:ugu[skull]Nc.6.2.3,Proverbs: from Urim,UET 6/2 339 +,B5,sux:dumu[child]N sux:dubsar[scribe]N sux:ŋar[place]V/tc.6.2.3,Proverbs: from Urim,UET 6/2 339 +,B6,c.6.2.3,Proverbs: from Urim,UET 6/2 289,1,sux:eme[tongue]N sux:sig[weak]V/i sux:dug[speak]V/t sux:lulul[liar]N
+c.6.2.3,Proverbs: from Urim,UET 6/2 339 +,A1,sux:gi[turn]V/i
+c.6.2.3,Proverbs: from Urim,UET 6/2 339 +,A2,
+c.6.2.3,Proverbs: from Urim,UET 6/2 339 +,A3,
+c.6.2.3,Proverbs: from Urim,UET 6/2 339 +,A4,sux:sag[good]V/i
+c.6.2.3,Proverbs: from Urim,UET 6/2 339 +,A5,sux:šub[fall]V/t
+c.6.2.3,Proverbs: from Urim,UET 6/2 339 +,A6,
+c.6.2.3,Proverbs: from Urim,UET 6/2 339 +,A7,sux:ŋal[be]V/i sux:tuku[acquire]V/t
+c.6.2.3,Proverbs: from Urim,UET 6/2 339 +,A8,sux:zu[know]V/t sux:us[follow]V/t
+c.6.2.3,Proverbs: from Urim,UET 6/2 339 +,A9,sux:sag[beat]V/t
+c.6.2.3,Proverbs: from Urim,UET 6/2 339 +,A10,sux:diŋir[deity]N sux:mea[where?]QP
+c.6.2.3,Proverbs: from Urim,UET 6/2 339 +,A11,
+c.6.2.3,Proverbs: from Urim,UET 6/2 339 +,B1,sux:du[build]V/t sux:munus[woman]N
+c.6.2.3,Proverbs: from Urim,UET 6/2 339 +,B2,sux:ninda[bread]N sux:ninkilim[mongoose]N sux:gu[eat]V/t sux:ninda[bread]N sux:kur[different]V/i sux:gu[eat]V/t
+c.6.2.3,Proverbs: from Urim,UET 6/2 339 +,B3,sux:niŋtuku[rich]AJ sux:niŋ[thing]N sux:al-dug[desire]V/t sux:dug[speak]V/t sux:niŋgig[bad-thing]N sux:diŋir[deity]N
+c.6.2.3,Proverbs: from Urim,UET 6/2 339 +,B4,sux:u[cvne]N sux:hub[cvve]V/t sux:til[live]V/i sux:ugu[skull]N
+c.6.2.3,Proverbs: from Urim,UET 6/2 339 +,B5,sux:dumu[child]N sux:dubsar[scribe]N sux:ŋar[place]V/t
+c.6.2.3,Proverbs: from Urim,UET 6/2 339 +,B6,
+c.6.2.3,Proverbs: from Urim,UET 6/2 289,1,sux:eme[tongue]N sux:sig[weak]V/i sux:dug[speak]V/t sux:lulul[liar]N
 c.6.2.3,Proverbs: from Urim,UET 6/2 289,2,sux:Ninegalak[1]DN sux:saŋ[head]N sux:gul[destroy]V/t
 c.6.2.3,Proverbs: from Urim,UET 6/2 289,3,sux:sag[good]V/i sux:hulu[bad]V/i sux:ŋal[be]V/i
 c.6.2.3,Proverbs: from Urim,UET 6/2 289,4,sux:igi[eye]N sux:teš[vigor]N sux:tuku[acquire]V/t
@@ -314,7 +331,7 @@ c.6.2.3,Proverbs: from Urim,UET 6/2 371,6,sux:naŋah[fool]N sux:aʾaš[supplies]
 c.6.2.3,Proverbs: from Urim,UET 6/2 371,7,sux:šešgal[relation]N sux:šešbanda[relation]N sux:dugud[heavy]V/i
 c.6.2.3,Proverbs: from Urim,UET 6/2 371,8,sux:namlulu[humanity]N sux:ak[do]V/t
 c.6.2.3,Proverbs: from Urim,UET 6/2 310,1,sux:ŋeštug[ear]N sux:kugzu[wise]AJ sux:ŋizzal[ear]N sux:kag[mouth]N sux:namlulu[humanity]N
-c.6.2.3,Proverbs: from Urim,UET 6/2 310,2,sux:šu[hand]N sux:du[push]V/t
+c.6.2.3,Proverbs: from Urim,UET 6/2 310,2,sux:šu[hand]N sux:šu-du[complete]V/t
 c.6.2.3,Proverbs: from Urim,UET 6/2 310,3,sux:ki[place]N sux:inim[word]N sux:namguli[friendship]N
 c.6.2.3,Proverbs: from Urim,UET 6/2 310,4,sux:nuʾerimla[bird]N sux:ŋeš[tree]N
 c.6.2.3,Proverbs: from Urim,UET 6/2 310,5,sux:kimanzer[locus]N
@@ -464,14 +481,14 @@ c.6.2.3,Proverbs: from Urim,UET 6/2 276,1,sux:inim[word]N sux:dud[combat]N sux:n
 c.6.2.3,Proverbs: from Urim,UET 6/2 276,2,sux:ki[place]N sux:inim[word]N sux:namguli[friendship]N sux:zu[know]V/t
 c.6.2.3,Proverbs: from Urim,UET 6/2 278,1,sux:ŋen[go]V/i sux:kaš[runner]N
 c.6.2.3,Proverbs: from Urim,UET 6/2 278,2,sux:de[bring]V/t sux:de[bring]V/t sux:mu[name]N sux:dug[speak]V/t
-c.6.2.3,Proverbs: from Urim,UET 6/2 279,1,sux:amaʾatud[slave]N sux:sulum[contempt]N sux:mar[smear]V/t sux:er[tears]N sux:pad[find]V/t
+c.6.2.3,Proverbs: from Urim,UET 6/2 279,1,sux:amaʾatud[slave]N sux:sulum-mar[slander]V/t sux:mar[smear]V/t sux:er[tears]N sux:pad[find]V/t
 c.6.2.3,Proverbs: from Urim,UET 6/2 279,2,sux:inbulbul[chaff?]N sux:šu[hand]N sux:ŋal[be]V/i sux:zu[tooth]N sux:zalag[shine]V/i
 c.6.2.3,Proverbs: from Urim,UET 6/2 280,1,sux:lu[person]N sux:Inanak[1]DN
 c.6.2.3,Proverbs: from Urim,UET 6/2 280,2,sux:e[house]N sux:du[build]V/t sux:saŋ[head]N sux:saŋ[head]N
 c.6.2.3,Proverbs: from Urim,UET 6/2 285,1,sux:peš[mouse]N sux:tur[small]V/i sux:lu[person]N sux:šu[hand]N sux:dab[seize]V/t
 c.6.2.3,Proverbs: from Urim,UET 6/2 285,2,sux:erim[enemy]N sux:kar[flee]V/t
 c.6.2.3,Proverbs: from Urim,UET 6/2 286,1,sux:in[abuse]N sux:dub[tremble]V/t sux:in[abuse]N sux:dug[speak]V/t
-c.6.2.3,Proverbs: from Urim,UET 6/2 286,2,sux:sulum[contempt]N sux:mar[smear]V/t sux:sulum[contempt]N sux:mar[smear]V/t
+c.6.2.3,Proverbs: from Urim,UET 6/2 286,2,sux:sulum-mar[slander]V/t sux:mar[smear]V/t sux:sulum-mar[slander]V/t sux:mar[smear]V/t
 c.6.2.3,Proverbs: from Urim,UET 6/2 288,1,sux:enna[until]CNJ sux:kugzu[wise]AJ sux:kug[pure]V/i sux:ak[do]V/t
 c.6.2.3,Proverbs: from Urim,UET 6/2 288,2,sux:naŋah[fool]N sux:aʾaš[supplies]N sux:sa[equal]V/t sux:dug[speak]V/t
 c.6.2.3,Proverbs: from Urim,UET 6/2 297,1,sux:galam[skilful]V/i sux:us[follow]V/t sux:galam[skilful]V/i sux:zu[know]V/t

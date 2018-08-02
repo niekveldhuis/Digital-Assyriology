@@ -1,4 +1,4 @@
-id_text,text_name,version,l_no,text
+etcsl_no,text_name,version,l_no,text
 c.4.27.06,A balbale to Ninurta (Ninurta F),,1,sux:a[water]N sux:zid[right]V/i sux:numun[seed]N sux:zid[right]V/i
 c.4.27.06,A balbale to Ninurta (Ninurta F),,2,sux:lugal[king]N sux:Enlil[1]DN sux:mu[name]N sux:pad[find]V/t
 c.4.27.06,A balbale to Ninurta (Ninurta F),,3,sux:a[water]N sux:zid[right]V/i sux:numun[seed]N sux:zid[right]V/i

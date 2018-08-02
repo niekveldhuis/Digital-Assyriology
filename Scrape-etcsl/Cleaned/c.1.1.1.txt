@@ -1,4 +1,4 @@
-id_text,text_name,version,l_no,text
+etcsl_no,text_name,version,l_no,text
 c.1.1.1,Enki and Ninhursaŋa,,1,sux:iri[city]N sux:kug[pure]V/i sux:ane[he]IP sux:ba[allot]V/t sux:kur[mountain]N sux:Dilmun[1]GN sux:kug[pure]V/i
 c.1.1.1,Enki and Ninhursaŋa,,2,sux:Kiengir[1]GN sux:kug[pure]V/i sux:ane[he]IP sux:ba[allot]V/t sux:kur[mountain]N sux:Dilmun[1]GN sux:kug[pure]V/i
 c.1.1.1,Enki and Ninhursaŋa,,3,sux:kur[mountain]N sux:Dilmun[1]GN sux:kug[pure]V/i sux:kur[mountain]N sux:Dilmun[1]GN sux:sikil[pure]V/i
@@ -47,7 +47,7 @@ c.1.1.1,Enki and Ninhursaŋa,,48,sux:iri[city]N sux:egun[storeroom]N sux:kar[har
 c.1.1.1,Enki and Ninhursaŋa,,49,sux:Dilmun[1]GN sux:egun[storeroom]N sux:kar[harbor]N sux:kalam[land]N sux:me[be]V/i
 c.1.1.1,Enki and Ninhursaŋa,,49A,sux:kur[mountain]N sux:Tukriš[1]GN sux:kugsig[gold]N sux:Harali[1]GN
 c.1.1.1,Enki and Ninhursaŋa,,49B,sux:zagin[lapis]N sux:bala[turn]V/t
-c.1.1.1,Enki and Ninhursaŋa,,49C,sux:kur[mountain]N sux:Meluha[1]GN sux:gug[carnelian]N sux:niŋ[thing]N sux:al[hoe]N sux:dug[speak]V/t sux:kal[rare]V/i
+c.1.1.1,Enki and Ninhursaŋa,,49C,sux:kur[mountain]N sux:Meluha[1]GN sux:gug[carnelian]N sux:niŋ[thing]N sux:al-dug[desire]V/t sux:dug[speak]V/t sux:kal[rare]V/i
 c.1.1.1,Enki and Ninhursaŋa,,49D,sux:mes[tree]N sux:Magan[1]GN sux:ŋešaʾabak[tree]N sux:sag[rare]V/i
 c.1.1.1,Enki and Ninhursaŋa,,49E,sux:ma[ship]N sux:gal[big]V/i sux:sa[equal]V/t
 c.1.1.1,Enki and Ninhursaŋa,,49F,sux:kur[mountain]N sux:Marhaši[1]GN sux:na[stone]N sux:kal[rare]V/i sux:dušia[stone]N

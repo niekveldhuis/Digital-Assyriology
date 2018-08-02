@@ -1,4 +1,4 @@
-id_text,text_name,version,l_no,text
+etcsl_no,text_name,version,l_no,text
 c.3.3.09,Letter from Lugal-nesaŋe to Enlil-massu,,1,sux:Enlilmassu[1]PN sux:dimma[thought]N sux:ad[voice]N sux:gi[turn]V/i sux:sag[good]V/i sux:kag[mouth]N sux:lal[syrup]N sux:inim[word]N sux:gunu[speckled]V/i sux:dug[speak]V/t
 c.3.3.09,Letter from Lugal-nesaŋe to Enlil-massu,,2,sux:dumu[child]N sux:diŋir[deity]N sux:gub[stand]V/i sux:aya[father]N sux:ama[mother]N sux:ni[fear]N sux:teŋ[approach]V/i
 c.3.3.09,Letter from Lugal-nesaŋe to Enlil-massu,,3,sux:tah[add]V/t
@@ -13,7 +13,7 @@ c.3.3.09,Letter from Lugal-nesaŋe to Enlil-massu,,11,sux:šag[heart]N sux:šub[
 c.3.3.09,Letter from Lugal-nesaŋe to Enlil-massu,,12,sux:nam[fate]N sux:gu[eat]V/t sux:isiš[tears]N sux:sig[put]V/t
 c.3.3.09,Letter from Lugal-nesaŋe to Enlil-massu,,13,sux:mah[great]V/i sux:sur[press]V/t
 c.3.3.09,Letter from Lugal-nesaŋe to Enlil-massu,,14,sux:bar[outside]V/t sux:saŋ[choose]V/t sux:til[complete]V/i
-c.3.3.09,Letter from Lugal-nesaŋe to Enlil-massu,,15,sux:lib[daze]N sux:bar[outside]V/t sux:ak[do]V/t sux:šu[hand]N sux:dag[demolish]V/t
+c.3.3.09,Letter from Lugal-nesaŋe to Enlil-massu,,15,sux:lib[daze]N sux:bar[outside]V/t sux:ak[do]V/t sux:šu[hand]N sux:šu-dag[roam-around]V/t
 c.3.3.09,Letter from Lugal-nesaŋe to Enlil-massu,,16,sux:ŋeštug[ear]N sux:šag[heart]N sux:lul[false]V/i sux:ŋar[place]V/t
 c.3.3.09,Letter from Lugal-nesaŋe to Enlil-massu,,17,sux:ni[fear]N sux:teŋ[approach]V/i sux:šag[heart]N sux:uš[blood]N sux:lugud[pus]N sux:si[fill]V/t
 c.3.3.09,Letter from Lugal-nesaŋe to Enlil-massu,,18,sux:en[cvne]N sux:tar[cut]V/t sux:zi[life]N sux:ir[cvve]V/t

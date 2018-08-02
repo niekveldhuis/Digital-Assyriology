@@ -1,4 +1,4 @@
-id_text,text_name,version,l_no,text
+etcsl_no,text_name,version,l_no,text
 c.2.2.3,The lament for Sumer and Urim,,1,sux:ud[sun]N sux:šu[hand]N sux:bala[turn]V/t sux:ak[do]V/t sux:ŋešhur[plan]N sux:halam[forsake]V/i
 c.2.2.3,The lament for Sumer and Urim,,2,sux:ud[storm]N sux:marru[stormwind]N sux:teš[unity]N sux:gu[eat]V/t
 c.2.2.3,The lament for Sumer and Urim,,3,sux:me[Being]N sux:Kiengir[1]GN sux:šu[hand]N sux:bala[turn]V/t sux:ak[do]V/t
@@ -237,7 +237,7 @@ c.2.2.3,The lament for Sumer and Urim,,234,sux:Eridug[1]SN sux:sar[run]V/i
 c.2.2.3,The lament for Sumer and Urim,,235,sux:ud[sun]N sux:gub[stand]V/i sux:ŋissu[shade]N
 c.2.2.3,The lament for Sumer and Urim,,236,sux:ŋi[night]N sux:gub[stand]V/i sux:ud[storm]N sux:tuku[acquire]V/t
 c.2.2.3,The lament for Sumer and Urim,,237,sux:ud[sun]N sux:gub[stand]V/i sux:saŋ[head]N sux:sag[beat]V/t sux:ana[what?]QP sux:šu[hand]N sux:teŋ[approach]V/i
-c.2.2.3,The lament for Sumer and Urim,,238,sux:ŋi[night]N sux:gub[stand]V/i sux:u[sleep]N sux:ku[place]V/t sux:ana[what?]QP sux:ugu[cvne]N sux:de[pour]V/t
+c.2.2.3,The lament for Sumer and Urim,,238,sux:ŋi[night]N sux:gub[stand]V/i sux:u[sleep]N sux:ku[place]V/t sux:ana[what?]QP sux:ugu-de[disappear]V/t sux:de[pour]V/t
 c.2.2.3,The lament for Sumer and Urim,,239,sux:Enki[1]DN sux-x-emesal:uru[city]N sux:nam[fate]N sux:kud[cut]V/t sux:kiʾerim[enemy-territory]N sux:šum[give]V/t
 c.2.2.3,The lament for Sumer and Urim,,240,sux:menden[we]IP sux:Eridug[1]SN sux:ŋal[be]V/i sux:anaš[why?]QP sux:la[hang]V/t
 c.2.2.3,The lament for Sumer and Urim,,241,sux:ŋešnimbar[palm]N sux:šu[hand]N sux:dug[speak]V/t sux:anaš[why?]QP sux:gul[destroy]V/t
@@ -301,7 +301,7 @@ c.2.2.3,The lament for Sumer and Urim,,303,sux:LUGAL.BI.GUB[station?]N sux:dubla
 c.2.2.3,The lament for Sumer and Urim,,304,sux:lugal[king]N sux:niŋ[thing]N sux:sag[good]V/i sux:gu[eat]V/t sux:šukur[ration]N sux:dab[seize]V/t
 c.2.2.3,The lament for Sumer and Urim,,305,sux:ud[sun]N sux:šuš[cover]V/t sux:igi[eye]N sux:la[hang]V/t sux:šakatab[fasting]N sux:zu[know]V/t
 c.2.2.3,The lament for Sumer and Urim,,306,sux:elungak[brewery]N sux:kaš[beer]N sux:ŋal[be]V/i sux:munu[malt]N sux:ŋal[be]V/i
-c.2.2.3,The lament for Sumer and Urim,,307,sux:egal[palace]N sux:niŋgu[food]N sux:ŋal[be]V/i sux:tuš[sit]V/i sux:du[push]V/t
+c.2.2.3,The lament for Sumer and Urim,,307,sux:egal[palace]N sux:niŋgu[food]N sux:ŋal[be]V/i sux:tuš[sit]V/i sux:šu-du[complete]V/t
 c.2.2.3,The lament for Sumer and Urim,,308,sux:ŋanun[storehouse]N sux:mah[great]V/i sux:še[barley]N sux:si[fill]V/t sux:zi[life]N sux:de[bring]V/t
 c.2.2.3,The lament for Sumer and Urim,,309,sux:gurudud[heap]N sux:gurumaš[heap]N sux:Nanna[1]DN sux:Ezina[1]DN sux:ŋal[be]V/i
 c.2.2.3,The lament for Sumer and Urim,,310,sux:kiŋsig[meal]N sux:unu[dwelling]N sux:gal[big]V/i sux:diŋir[deity]N sux:šu[hand]N sux:la[hang]V/t
@@ -317,7 +317,7 @@ c.2.2.3,The lament for Sumer and Urim,,319,sux:a[water]N sux:masaŋ[prow]N sux:g
 c.2.2.3,The lament for Sumer and Urim,,320,sux:unu₂.RI.banda₃[locus]N sux:Nanna[1]DN sux:sahar[soil]N sux:dub[heap]V/t
 c.2.2.3,The lament for Sumer and Urim,,321,sux:numun[grass]N sux:mu[grow]V/t sux:numun[grass]N sux:mu[grow]V/t sux:gi[reed]N sux:er[tears]N sux:mu[grow]V/t
 c.2.2.3,The lament for Sumer and Urim,,322,sux:ma[ship]N sux:magur[barge]N sux:Karzagina[1]TN sux:muš[face]N sux:de[bring]V/t
-c.2.2.3,The lament for Sumer and Urim,,323,sux:id[river]N sux:magur[barge]N sux:du[push]V/t sux:a[arm]N sux:sud[distant]V/i
+c.2.2.3,The lament for Sumer and Urim,,323,sux:id[river]N sux:magur[barge]N sux:šu-du[complete]V/t sux:a[arm]N sux:sud[distant]V/i
 c.2.2.3,The lament for Sumer and Urim,,324,sux:ezem[festival]N sux:ki[place]N sux:ŋarza[rites]N sux:ŋešhur[plan]N sux:kur[different]V/i
 c.2.2.3,The lament for Sumer and Urim,,325,sux:ma[ship]N sux:nesaŋ[offering]N sux:aya[father]N sux:ugu[bear]V/t sux:nesaŋ[offering]N sux:de[bring]V/t
 c.2.2.3,The lament for Sumer and Urim,,326,sux:ninda[bread]N sux:nindaba[offering]N sux:Enlil[1]DN sux:Nibru[1]SN sux:kur[enter]V/i
@@ -378,16 +378,16 @@ c.2.2.3,The lament for Sumer and Urim,,378,sux:Urim[1]SN sux:ni[self]RP sux:ki[p
 c.2.2.3,The lament for Sumer and Urim,,379,sux:Urim[1]SN sux:ŋeš[tree]N sux:tur[ill]N sux:gi[reed]N sux:tur[ill]N
 c.2.2.3,The lament for Sumer and Urim,,380,sux:bad[wall]N sux:enna[until]CNJ sux:niŋin[encircle]V/t sux:anir[lament]N sux:sa[equal]V/t
 c.2.2.3,The lament for Sumer and Urim,,381,sux:ud[sun]N sux:šuš[cover]V/t sux:tukul[weapon]N sux:igi[eye]N sux:saŋ[head]N sux:sag[beat]V/t
-c.2.2.3,The lament for Sumer and Urim,,382,sux:Urim[1]SN sux:hazin[ax]N sux:gal[big]V/i sux:igi[eye]N sux:usar[cvne]N sux:ak[do]V/t
+c.2.2.3,The lament for Sumer and Urim,,382,sux:Urim[1]SN sux:hazin[ax]N sux:gal[big]V/i sux:igi[eye]N sux:usar-ak[sharpen]V/t sux:ak[do]V/t
 c.2.2.3,The lament for Sumer and Urim,,383,sux:ŋešgida[length]N sux:a[arm]N sux:me[battle]N sux:si[horn]N sux:sa[equal]V/t
 c.2.2.3,The lament for Sumer and Urim,,384,sux:pana[bow]N sux:gal[big]V/i sux:illar[weapon]N sux:guru[shield]N sux:teš[unity]N sux:gu[eat]V/t
 c.2.2.3,The lament for Sumer and Urim,,385,sux:ti[arrow]N sux:zu[tooth]N sux:muru[rainstorm]N sux:šeŋ[rain]V/i sux:bar[outside]V/t sux:si[fill]V/t
-c.2.2.3,The lament for Sumer and Urim,,386,sux:na[stone]N sux:gal[big]V/i sux:ni[self]RP sux:pudpad[sound]N sux:za[cvve]V/t
+c.2.2.3,The lament for Sumer and Urim,,386,sux:na[stone]N sux:gal[big]V/i sux:ni[self]RP sux:pu-ud-pa-ad[rumbling-noise]N sux:za[cvve]V/t
 c.2.2.3,The lament for Sumer and Urim,,386A,sux:ud[sun]N sux:šuš[cover]V/t sux:iri[city]N sux:imhul[wind]N sux:gi[turn]V/i
 c.2.2.3,The lament for Sumer and Urim,,387,sux:Urim[1]SN sux:ne[strength]N sux:nirŋal[authoritative]AJ sux:gabgaz[murderer]N sux:gub[stand]V/i
 c.2.2.3,The lament for Sumer and Urim,,388,sux:uŋ[people]N sux:luʾerim[evildoer]N sux:a[arm]N sux:ŋar[place]V/t sux:tukul[weapon]N sux:gub[stand]V/i
 c.2.2.3,The lament for Sumer and Urim,,389,sux:iri[city]N sux:tukul[weapon]N sux:saŋ[head]N sux:šum[give]V/t sux:šaŋar[starvation]N sux:us[follow]V/t
-c.2.2.3,The lament for Sumer and Urim,,390,sux:šaŋar[starvation]N sux:iri[city]N sux:a[water]N sux:si[fill]V/t sux:ŋala[cvne]N sux:dag[demolish]V/t
+c.2.2.3,The lament for Sumer and Urim,,390,sux:šaŋar[starvation]N sux:iri[city]N sux:a[water]N sux:si[fill]V/t sux:ŋala-dag[cease]V/t sux:šu-dag[roam-around]V/t
 c.2.2.3,The lament for Sumer and Urim,,391,sux:šaŋar[starvation]N sux:igi[eye]N sux:gurum[bend]V/t sux:sa[sinew]N sux:lug[twist]V/t
 c.2.2.3,The lament for Sumer and Urim,,392,sux:uŋ[people]N sux:aniŋin[reservoir]N sux:si[fill]V/t sux:zi[life]N sux:ak[do]V/t
 c.2.2.3,The lament for Sumer and Urim,,393,sux:lugal[king]N sux:egal[palace]N sux:ni[self]RP sux:zi[life]N sux:gig[sick]V/i sux:paŋ[breathe]N
@@ -409,15 +409,15 @@ c.2.2.3,The lament for Sumer and Urim,,407A,sux:kud[fish]N sux:aniŋin[reservoir
 c.2.2.3,The lament for Sumer and Urim,,407B,sux:Ekišnuŋal[1]TN sux:Nanna[1]DN sux:luʾerim[evildoer]N sux:dab[seize]V/t
 c.2.2.3,The lament for Sumer and Urim,,407C,sux:sig[weak]V/i sux:anŋar[unmng]N sux:dugud[heavy]V/i sux:ŋal[be]V/i sux:re[that]DP sux:zir[break]V/t
 c.2.2.3,The lament for Sumer and Urim,,408,sux:alan[statue]N sux:uzga[treasure]N sux:si[fill]V/t sux:guru[grind]V/t sux:dug[speak]V/t
-c.2.2.3,The lament for Sumer and Urim,,409,sux:Ninigarak[1]DN sux:agrig[steward]N sux:mah[great]V/i sux:erim[storeroom]N sux:šu[hand]N sux:dag[demolish]V/t
+c.2.2.3,The lament for Sumer and Urim,,409,sux:Ninigarak[1]DN sux:agrig[steward]N sux:mah[great]V/i sux:erim[storeroom]N sux:šu[hand]N sux:šu-dag[roam-around]V/t
 c.2.2.3,The lament for Sumer and Urim,,410,sux:guza[chair]N sux:igi[eye]N sux:šuš[cover]V/t sux:sahar[soil]N sux:tuš[sit]V/i
 c.2.2.3,The lament for Sumer and Urim,,411,sux:ab[cow]N sux:mah[great]V/i sux:simuš[brilliance]N sux:dab[seize]V/t sux:si[horn]N sux:kud[cut]V/t
-c.2.2.3,The lament for Sumer and Urim,,412,sux:gud[ox]N sux:du[push]V/t sux:udu[sheep]N sux:u[grass]N sux:gu[eat]V/t sux:tukul[weapon]N sux:sag[beat]V/t
+c.2.2.3,The lament for Sumer and Urim,,412,sux:gud[ox]N sux:šu-du[complete]V/t sux:udu[sheep]N sux:u[grass]N sux:gu[eat]V/t sux:tukul[weapon]N sux:sag[beat]V/t
 c.2.2.3,The lament for Sumer and Urim,,412A,sux:ŋešnimbar[palm]N sux:guru[grind]V/t sux:dug[speak]V/t sux:teš[unity]N sux:kad[tie]V/t
 c.2.2.3,The lament for Sumer and Urim,,413,sux:ŋešnimbar[palm]N sux:urud[copper]N sux:niŋ[thing]N sux:kalag[strong]V/i sux:a[arm]N sux:namursaŋ[heroism]N
 c.2.2.3,The lament for Sumer and Urim,,414,sux:numun[grass]N sux:bur[tear]V/t sux:numun[grass]N sux:zir[break]V/t sux:ur[root]N sux:ti[rib]N sux:bala[turn]V/t
 c.2.2.3,The lament for Sumer and Urim,,415,sux:saŋ[head]N sux:sahar[soil]N sux:ki[place]N sux:us[follow]V/t sux:lu[person]N sux:zig[rise]V/t sux:tuku[acquire]V/t
-c.2.2.3,The lament for Sumer and Urim,,416,sux:zena[midrib]N sux:gu[neck]N sux:guru[grind]V/t sux:saŋ[head]N sux:šu[hand]N sux:huz[cvve]V/t
+c.2.2.3,The lament for Sumer and Urim,,416,sux:zena[midrib]N sux:gu[neck]N sux:guru[grind]V/t sux:saŋ[head]N sux:šu[hand]N sux:šu-huz[burn]V/t
 c.2.2.3,The lament for Sumer and Urim,,417,sux:aʾan[spadix]N sux:zulum[date]N sux:pu[well]N sux:du[push]V/t sux:BU[BU]V
 c.2.2.3,The lament for Sumer and Urim,,418,sux:gizi[reed]N sux:kug[pure]V/i sux:mu[grow]V/t sux:šu[hand]N sux:la[hang]V/t
 c.2.2.3,The lament for Sumer and Urim,,419,sux:gun[load]N sux:gal[big]V/i sux:ŋar[place]V/t sux:kur[mountain]N sux:il[raise]V/t
@@ -447,7 +447,7 @@ c.2.2.3,The lament for Sumer and Urim,,441,sux:anuda[bedroom]N sux:kug[pure]V/i 
 c.2.2.3,The lament for Sumer and Urim,,442,sux:dubšen[chest]N sux:kug[pure]V/i sux:lu[person]N sux:igi[eye]N sux:bar[outside]V/t sux:erim[enemy]N sux:igi[eye]N sux:bar[outside]V/t
 c.2.2.3,The lament for Sumer and Urim,,443,sux:ŋešnud[bed]N sux:girim[flower]N sux:gub[stand]V/i sux:u[grass]N sux:zagin[lapis]N sux:barag[spread]V/t
 c.2.2.3,The lament for Sumer and Urim,,444,sux:alan[statue]N sux:uzga[treasure]N sux:si[fill]V/t sux:guru[grind]V/t sux:dug[speak]V/t
-c.2.2.3,The lament for Sumer and Urim,,445,sux:engiz[cook]N sux:ensi[interpreter]N sux:kišibŋal[seal-bearer]N sux:ešda[vessel]N sux:šu[hand]N sux:du[push]V/t
+c.2.2.3,The lament for Sumer and Urim,,445,sux:engiz[cook]N sux:ensi[interpreter]N sux:kišibŋal[seal-bearer]N sux:ešda[vessel]N sux:šu[hand]N sux:šu-du[complete]V/t
 c.2.2.3,The lament for Sumer and Urim,,446,sux:gu[neck]N sux:ki[place]N sux:ŋal[be]V/i sux:gub[stand]V/i sux:kur[different]V/i sux:de[bring]V/t
 c.2.2.3,The lament for Sumer and Urim,,447,sux:uzga[treasure]N sux:kug[pure]V/i sux:šuluh[cleansing]N sux:dadag[bright]V/i sux:šaggadala[priest]N
 c.2.2.3,The lament for Sumer and Urim,,448,sux:ŋešhur[plan]N sux:me[Being]N sux:kug[pure]V/i sux:halam[forsake]V/i sux:iri[city]N sux:kur[different]V/i sux:ŋen[go]V/i

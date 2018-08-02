@@ -1,10 +1,10 @@
-id_text,text_name,version,l_no,text
+etcsl_no,text_name,version,l_no,text
 c.4.05.1,Enlil in the E-kur (Enlil A),,1,sux:Enlil[1]DN sux:sud[distant]V/i sux:dug[speak]V/t sux:mah[great]V/i sux:inim[word]N sux:kug[pure]V/i
 c.4.05.1,Enlil in the E-kur (Enlil A),,2,sux:niŋ[thing]N sux:kur[different]V/i sux:kag[mouth]N sux:e[leave]V/i sux:nam[fate]N sux:ul[distant]V/i sux:tar[cut]V/t
 c.4.05.1,Enlil in the E-kur (Enlil A),,3,sux:igi[eye]N sux:il[raise]V/t sux:kur[mountain]N sux:dug[speak]V/t
 c.4.05.1,Enlil in the E-kur (Enlil A),,4,sux:ŋešnu[light]N sux:il[raise]V/t sux:kuršag[~mountain]N sux:igi[eye]N sux:ŋal[be]V/i
 c.4.05.1,Enlil in the E-kur (Enlil A),,5,sux:aya[father]N sux:Enlil[1]DN sux:barag[sanctum]N sux:kug[pure]V/i sux:barag[sanctum]N sux:mah[great]V/i sux:daŋal[wide]V/i sux:tuš[sit]V/i
-c.4.05.1,Enlil in the E-kur (Enlil A),,6,sux:Nunamnir[1]DN sux:namen[priesthood]N sux:namnun[magnificence]N sux:šu[hand]N sux:gal[big]V/i sux:du[push]V/t
+c.4.05.1,Enlil in the E-kur (Enlil A),,6,sux:Nunamnir[1]DN sux:namen[priesthood]N sux:namnun[magnificence]N sux:šu[hand]N sux:gal[big]V/i sux:šu-du[complete]V/t
 c.4.05.1,Enlil in the E-kur (Enlil A),,7,sux:diŋir[deity]N sux:ki[place]N sux:ni[self]RP sux:gurum[bend]V/t
 c.4.05.1,Enlil in the E-kur (Enlil A),,8,sux:diŋir[deity]N sux:Anunak[1]DN sux:kur[enter]V/i
 c.4.05.1,Enlil in the E-kur (Enlil A),,9,sux:a[arm]N sux:aŋ[measure]V/t sux:zid[right]V/i sux:gub[stand]V/i
@@ -44,7 +44,7 @@ c.4.05.1,Enlil in the E-kur (Enlil A),,42,sux:šuluh[cleansing]N sux:sikil[pure]
 c.4.05.1,Enlil in the E-kur (Enlil A),,43,sux:me[Being]N sux:me[Being]N sux:abzu[water]N sux:lu[person]N sux:igi[eye]N sux:bar[outside]V/t
 c.4.05.1,Enlil in the E-kur (Enlil A),,44,sux:šag[heart]N sux:ab[sea]N sux:sud[distant]V/i sux:anzag[horizon]N sux:zu[know]V/t
 c.4.05.1,Enlil in the E-kur (Enlil A),,45,sux:urin[standard]N sux:du[build]V/t sux:urin[pure]V/i sux:mul[star]N
-c.4.05.1,Enlil in the E-kur (Enlil A),,46,sux:dirga[bond]N sux:me[Being]N sux:ul[distant]V/i sux:šu[hand]N sux:du[push]V/t
+c.4.05.1,Enlil in the E-kur (Enlil A),,46,sux:dirga[bond]N sux:me[Being]N sux:ul[distant]V/i sux:šu[hand]N sux:šu-du[complete]V/t
 c.4.05.1,Enlil in the E-kur (Enlil A),,47,sux:inim[word]N sux:šud[prayer]N
 c.4.05.1,Enlil in the E-kur (Enlil A),,48,sux:mu[incantation]N sux:inim[word]N sux:siškur[prayer]N
 c.4.05.1,Enlil in the E-kur (Enlil A),,49,sux:inim[word]N sux:iŋar[oracle]N sux:sag[good]V/i sux:bar[outside]V/t sux:šu[hand]N sux:ŋeš[tree]N sux:šub[fall]V/t
@@ -57,7 +57,7 @@ c.4.05.1,Enlil in the E-kur (Enlil A),,55,sux:šu[hand]N sux:gid[long]V/i sux:ig
 c.4.05.1,Enlil in the E-kur (Enlil A),,56,sux:e[house]N sux:en[lord]N sux:e[house]N sux:mu[grow]V/t
 c.4.05.1,Enlil in the E-kur (Enlil A),,57,sux:lagar[priest]N sux:šu[hand]N sux:silim[healthy]V/i sux:hedu[ornament]N
 c.4.05.1,Enlil in the E-kur (Enlil A),,58,sux:abzu[water]N sux:gudug[priest]N sux:šuluh[cleansing]N sux:tum[suitable]V/i
-c.4.05.1,Enlil in the E-kur (Enlil A),,59,sux:nuʾešak[priest]N sux:šita[prayer]N sux:kug[pure]V/i sux:du[push]V/t
+c.4.05.1,Enlil in the E-kur (Enlil A),,59,sux:nuʾešak[priest]N sux:šita[prayer]N sux:kug[pure]V/i sux:šu-du[complete]V/t
 c.4.05.1,Enlil in the E-kur (Enlil A),,60,sux:engar[farmer]N sux:mah[great]V/i sux:sipad[shepherd]N sux:zid[right]V/i sux:kalam[land]N
 c.4.05.1,Enlil in the E-kur (Enlil A),,61,sux:ud[sun]N sux:dug[good]V/i sux:zid[right]V/i sux:utud[bear]V/t
 c.4.05.1,Enlil in the E-kur (Enlil A),,62,sux:engar[farmer]N sux:gana[field]N sux:daŋal[wide]V/i sux:hedu[ornament]N
@@ -158,7 +158,7 @@ c.4.05.1,Enlil in the E-kur (Enlil A),,156,sux:Ninlil[1]DN sux:ŋidlam[spouse]N 
 c.4.05.1,Enlil in the E-kur (Enlil A),,157,sux:ba[garment]N sux:kug[pure]V/i sux:uludin[form]N sux:nir[trust]N sux:alan[statue]N sux:medim[limbs]N sux:sig[put]V/t
 c.4.05.1,Enlil in the E-kur (Enlil A),,158,sux:munus[woman]N sux:zid[right]V/i sux:igi[eye]N sux:il[raise]V/t sux:tuku[acquire]V/t
 c.4.05.1,Enlil in the E-kur (Enlil A),,159,sux:ul[swell]V/i sux:gur[lift]V/t sux:Ekur[1]TN sux:nin[lady]N sux:meteŋal[seemly]AJ sux:zu[know]V/t
-c.4.05.1,Enlil in the E-kur (Enlil A),,160,sux:ad[voice]N sux:gi[turn]V/i sux:inim[word]N sux:du[push]V/t
+c.4.05.1,Enlil in the E-kur (Enlil A),,160,sux:ad[voice]N sux:gi[turn]V/i sux:inim[word]N sux:šu-du[complete]V/t
 c.4.05.1,Enlil in the E-kur (Enlil A),,161,sux:inim[word]N sux:su[flesh]N sux:dug[good]V/i sux:i[oil]N sux:li[rich]V/i sux:šag[heart]N
 c.4.05.1,Enlil in the E-kur (Enlil A),,162,sux:barag[sanctum]N sux:kug[pure]V/i sux:barag[sanctum]N sux:sikil[pure]V/i sux:til[live]V/i
 c.4.05.1,Enlil in the E-kur (Enlil A),,163,sux:ad[voice]N sux:gi[turn]V/i sux:šag[heart]N sux:kušu[tired]V/i

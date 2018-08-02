@@ -1,4 +1,4 @@
-id_text,text_name,version,l_no,text
+etcsl_no,text_name,version,l_no,text
 c.4.31.1,A hymn to Šul-pa-e (Šul-pa-e A),A,1,sux:ursaŋ[hero]N sux-x-emesal:urubad[~city]N sux:itud[moon]N sux:e[leave]V/i
 c.4.31.1,A hymn to Šul-pa-e (Šul-pa-e A),A,2,sux:ursaŋ[hero]N sux:Šulpae[1]DN sux:iribad[~city]N sux:itud[moon]N sux:e[leave]V/i
 c.4.31.1,A hymn to Šul-pa-e (Šul-pa-e A),A,3,sux:alim[bison]N sux:mu[name]N sux:tuku[acquire]V/t sux:Šulpae[1]DN sux-x-emesal:urubad[~city]N sux:itud[moon]N sux:e[leave]V/i
@@ -28,7 +28,7 @@ c.4.31.1,A hymn to Šul-pa-e (Šul-pa-e A),A,26,sux:kur[mountain]N sux:gana[fiel
 c.4.31.1,A hymn to Šul-pa-e (Šul-pa-e A),A,27,sux:an[sky]N sux:šu[hand]N sux:bar[outside]V/t sux:gabašuŋar[rival]N sux:tuku[acquire]V/t
 c.4.31.1,A hymn to Šul-pa-e (Šul-pa-e A),A,28,sux:ud[sun]N sux:kur[mountain]N sux:e[leave]V/i
 c.4.31.1,A hymn to Šul-pa-e (Šul-pa-e A),A,29,sux:ud[sun]N sux:dug[speak]V/t sux:du[push]V/t
-c.4.31.1,A hymn to Šul-pa-e (Šul-pa-e A),A,30,sux:nim[fly]N sux:ŋir[flash]V/i
+c.4.31.1,A hymn to Šul-pa-e (Šul-pa-e A),A,30,sux:nim-ŋir[flash]V/t sux:ŋir[flash]V/i
 c.4.31.1,A hymn to Šul-pa-e (Šul-pa-e A),A,31,sux:MI.E₂.A[bird]N sux:zi[life]N sux:ir[cvve]V/t sux:lu[person]N sux:šub[fall]V/t
 c.4.31.1,A hymn to Šul-pa-e (Šul-pa-e A),A,32,sux:Namtar[1]DN sux:šu[hand]N sux:tuku[acquire]V/t sux:ŋiri[foot]N sux:tuku[acquire]V/t sux:lu[person]N sux:ŋi[night]N sux:tum[suitable]V/i
 c.4.31.1,A hymn to Šul-pa-e (Šul-pa-e A),A,33,sux:Namtar[1]DN sux:ŋi[night]N sux:ŋen[go]V/i sux:dim[create]V/t

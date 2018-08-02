@@ -1,4 +1,4 @@
-id_text,text_name,version,l_no,text
+etcsl_no,text_name,version,l_no,text
 c.4.29.2,A šir-gida to Nuska (Nuska B),,1,sux:utud[bear]V/t sux:Ekur[1]TN sux:Enlil[1]DN sux:dug[speak]V/t
 c.4.29.2,A šir-gida to Nuska (Nuska B),,2,sux:Nuska[1]DN sux:utud[bear]V/t sux:Ekur[1]TN sux:Enlil[1]DN sux:dug[speak]V/t
 c.4.29.2,A šir-gida to Nuska (Nuska B),,3,sux:en[lord]N sux:Nudimmud[1]DN sux:abzu[water]N sux:lugal[king]N sux:namhe[abundance]N sux:mi[cvne]N sux:dug[speak]V/t
@@ -38,8 +38,8 @@ c.4.29.2,A šir-gida to Nuska (Nuska B),,66,sux:me[Being]N sux:zid[right]V/i sux
 c.4.29.2,A šir-gida to Nuska (Nuska B),,67,sux:me[Being]N sux:mah[great]V/i sux:ua[provisioner]N sux:zid[right]V/i
 c.4.29.2,A šir-gida to Nuska (Nuska B),,68,sux:me[Being]N sux:ul[distant]V/i sux:pa[branch]N sux:e[leave]V/i sux:ak[do]V/t
 c.4.29.2,A šir-gida to Nuska (Nuska B),,69,sux:me[Being]N sux:ba[garment]N sux:šaggadala[priest]N
-c.4.29.2,A šir-gida to Nuska (Nuska B),,70,sux:me[Being]N sux:nun[prince]N sux:gu[neck]N sux:mer[cvve]V/t
-c.4.29.2,A šir-gida to Nuska (Nuska B),,71,sux:me[Being]N sux:niŋ[thing]N sux:lu[abundant]V/i sux:šu[hand]N sux:du[push]V/t
+c.4.29.2,A šir-gida to Nuska (Nuska B),,70,sux:me[Being]N sux:nun[prince]N sux:gu[neck]N sux:gu-mer[thrive]V/t
+c.4.29.2,A šir-gida to Nuska (Nuska B),,71,sux:me[Being]N sux:niŋ[thing]N sux:lu[abundant]V/i sux:šu[hand]N sux:šu-du[complete]V/t
 c.4.29.2,A šir-gida to Nuska (Nuska B),,72,sux:Anunak[1]DN sux:diŋir[deity]N sux:gal[big]V/i
 c.4.29.2,A šir-gida to Nuska (Nuska B),,73,sux:zamin[lyre]N sux:7[7]NU sux:zid[right]V/i sux:dug[speak]V/t
 c.4.29.2,A šir-gida to Nuska (Nuska B),,74,sux:sukkal[secretary]N sux:šuluh[cleansing]N sux:anunŋal[strong]AJ

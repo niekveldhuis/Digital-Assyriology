@@ -1,4 +1,4 @@
-id_text,text_name,version,l_no,text
+etcsl_no,text_name,version,l_no,text
 c.2.8.5.b,A hymn to Marduk for a king,,1,sux:Marduk[1]DN sux:til[live]V/i
 c.2.8.5.b,A hymn to Marduk for a king,,2,sux:si[fill]V/t
 c.2.8.5.b,A hymn to Marduk for a king,,3,sux:namtil[life]N sux:Marduk[1]DN sux:dug[speak]V/t

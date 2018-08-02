@@ -1,4 +1,4 @@
-id_text,text_name,version,l_no,text
+etcsl_no,text_name,version,l_no,text
 c.2.5.3.1,A šir-namursaŋa to Ninsiana for Iddin-Dagan (Iddin-Dagan A),,1,sux:an[sky]N sux:e[leave]V/i sux:an[sky]N sux:e[leave]V/i sux:silim[healthy]V/i sux:dug[speak]V/t
 c.2.5.3.1,A šir-namursaŋa to Ninsiana for Iddin-Dagan (Iddin-Dagan A),,2,sux:nugig[priestess]N sux:an[sky]N sux:e[leave]V/i sux:silim[healthy]V/i sux:dug[speak]V/t
 c.2.5.3.1,A šir-namursaŋa to Ninsiana for Iddin-Dagan (Iddin-Dagan A),,3,sux:nin[lady]N sux:gal[big]V/i sux:an[sky]N sux:Inanak[1]DN sux:silim[healthy]V/i sux:dug[speak]V/t
@@ -25,7 +25,7 @@ c.2.5.3.1,A šir-namursaŋa to Ninsiana for Iddin-Dagan (Iddin-Dagan A),,23,sux:
 c.2.5.3.1,A šir-namursaŋa to Ninsiana for Iddin-Dagan (Iddin-Dagan A),,24,sux:namen[priesthood]N sux:namlugal[kingship]N sux:šu[hand]N sux:ŋar[place]V/t
 c.2.5.3.1,A šir-namursaŋa to Ninsiana for Iddin-Dagan (Iddin-Dagan A),,25,sux:An[1]DN sux:barag[sanctum]N sux:gal[big]V/i sux:dur[buttocks]N sux:ŋar[place]V/t
 c.2.5.3.1,A šir-namursaŋa to Ninsiana for Iddin-Dagan (Iddin-Dagan A),,26,sux:Enlil[1]DN sux:kalam[land]N sux:nam[fate]N sux:tar[cut]V/t
-c.2.5.3.1,A šir-namursaŋa to Ninsiana for Iddin-Dagan (Iddin-Dagan A),,27,sux:itud[moon]N sux:usakar[moon]N sux:me[Being]N sux:šu[hand]N sux:du[push]V/t
+c.2.5.3.1,A šir-namursaŋa to Ninsiana for Iddin-Dagan (Iddin-Dagan A),,27,sux:itud[moon]N sux:usakar[moon]N sux:me[Being]N sux:šu[hand]N sux:šu-du[complete]V/t
 c.2.5.3.1,A šir-namursaŋa to Ninsiana for Iddin-Dagan (Iddin-Dagan A),,28,sux:diŋir[deity]N sux:kalam[land]N sux:gu[neck]N sux:si[fill]V/t
 c.2.5.3.1,A šir-namursaŋa to Ninsiana for Iddin-Dagan (Iddin-Dagan A),,29,sux:Anunak[1]DN sux:gal[big]V/i sux:gurum[bend]V/t
 c.2.5.3.1,A šir-namursaŋa to Ninsiana for Iddin-Dagan (Iddin-Dagan A),,30,sux:siškur[prayer]N sux:arazu[supplication]N sux:gub[stand]V/i
@@ -133,7 +133,7 @@ c.2.5.3.1,A šir-namursaŋa to Ninsiana for Iddin-Dagan (Iddin-Dagan A),,125,sux
 c.2.5.3.1,A šir-namursaŋa to Ninsiana for Iddin-Dagan (Iddin-Dagan A),,126,sux:nin[lady]N sux:an[sky]N sux:lu[abundant]V/i sux:anzag[horizon]N sux:mah[great]V/i
 c.2.5.3.1,A šir-namursaŋa to Ninsiana for Iddin-Dagan (Iddin-Dagan A),,127,sux:kirugu[notation]N sux:8-kam-ma[8th]NU
 c.2.5.3.1,A šir-namursaŋa to Ninsiana for Iddin-Dagan (Iddin-Dagan A),,128,sux:nin[lady]N sux:sag[good]V/i sux:hili[attractiveness]N sux:An[1]DN sux:ursaŋ[hero]N sux:an[sky]N sux:e[leave]V/i
-c.2.5.3.1,A šir-namursaŋa to Ninsiana for Iddin-Dagan (Iddin-Dagan A),,129,sux:zagsi[unmng]N sux:an[sky]N sux:du[push]V/t sux:gur[lift]V/t
+c.2.5.3.1,A šir-namursaŋa to Ninsiana for Iddin-Dagan (Iddin-Dagan A),,129,sux:zagsi[unmng]N sux:an[sky]N sux:šu-du[complete]V/t sux:gur[lift]V/t
 c.2.5.3.1,A šir-namursaŋa to Ninsiana for Iddin-Dagan (Iddin-Dagan A),,130,sux:An[1]DN sux:ki[place]N sux:mah[great]V/i sux:šag[heart]N sux:kušu[tired]V/i
 c.2.5.3.1,A šir-namursaŋa to Ninsiana for Iddin-Dagan (Iddin-Dagan A),,131,sux:šul[youth]V/i sux:ursaŋ[hero]N sux:dili[single]V/i sux:pad[find]V/t
 c.2.5.3.1,A šir-namursaŋa to Ninsiana for Iddin-Dagan (Iddin-Dagan A),,132,sux:ŋešgiŋal[notation]N
@@ -163,7 +163,7 @@ c.2.5.3.1,A šir-namursaŋa to Ninsiana for Iddin-Dagan (Iddin-Dagan A),,152,sux
 c.2.5.3.1,A šir-namursaŋa to Ninsiana for Iddin-Dagan (Iddin-Dagan A),,153,sux:kurun[beer]N sux:babbar[white]V/i sux:de[pour]V/t
 c.2.5.3.1,A šir-namursaŋa to Ninsiana for Iddin-Dagan (Iddin-Dagan A),,154,sux:kurun[beer]N sux:giggi[black]V/i sux:ulušin[beer]N
 c.2.5.3.1,A šir-namursaŋa to Ninsiana for Iddin-Dagan (Iddin-Dagan A),,155,sux:nin[lady]N sux:ulušin[beer]N
-c.2.5.3.1,A šir-namursaŋa to Ninsiana for Iddin-Dagan (Iddin-Dagan A),,156,sux:šaggub[container]N sux:lamdre[vat]N sux:dubuldabal[sound]N sux:za[cvve]V/t
+c.2.5.3.1,A šir-namursaŋa to Ninsiana for Iddin-Dagan (Iddin-Dagan A),,156,sux:šaggub[container]N sux:lamdre[vat]N sux:du-bu-ul-da-ba-al[liquid-noise]N sux:za[cvve]V/t
 c.2.5.3.1,A šir-namursaŋa to Ninsiana for Iddin-Dagan (Iddin-Dagan A),,157,sux:šutubur[mixture]N sux:lal[syrup]N sux:inun[ghee]N sux:šar[mix]V/t
 c.2.5.3.1,A šir-namursaŋa to Ninsiana for Iddin-Dagan (Iddin-Dagan A),,157A,sux:kubulum[foodstuff]N sux:inun[ghee]N sux:šar[mix]V/t
 c.2.5.3.1,A šir-namursaŋa to Ninsiana for Iddin-Dagan (Iddin-Dagan A),,158,sux:gug[cake]N sux:lal[syrup]N sux:zulum[date]N sux:ninda[bread]N sux:ak[do]V/t
@@ -183,7 +183,7 @@ c.2.5.3.1,A šir-namursaŋa to Ninsiana for Iddin-Dagan (Iddin-Dagan A),,171,sux
 c.2.5.3.1,A šir-namursaŋa to Ninsiana for Iddin-Dagan (Iddin-Dagan A),,172,sux:lugal[king]N sux:diŋir[deity]N sux:šag[heart]N sux:til[live]V/i
 c.2.5.3.1,A šir-namursaŋa to Ninsiana for Iddin-Dagan (Iddin-Dagan A),,173,sux:nam[fate]N sux:kur[mountain]N sux:tar[cut]V/t
 c.2.5.3.1,A šir-namursaŋa to Ninsiana for Iddin-Dagan (Iddin-Dagan A),,174,sux:ud[sun]N sux:saŋ[head]N sux:zid[right]V/i sux:igi[eye]N sux:kar[blow]V/t
-c.2.5.3.1,A šir-namursaŋa to Ninsiana for Iddin-Dagan (Iddin-Dagan A),,175,sux:ud[sun]N sux:nud[lie]V/i sux:me[Being]N sux:šu[hand]N sux:du[push]V/t
+c.2.5.3.1,A šir-namursaŋa to Ninsiana for Iddin-Dagan (Iddin-Dagan A),,175,sux:ud[sun]N sux:nud[lie]V/i sux:me[Being]N sux:šu[hand]N sux:šu-du[complete]V/t
 c.2.5.3.1,A šir-namursaŋa to Ninsiana for Iddin-Dagan (Iddin-Dagan A),,176,sux:zagmuk[new-year]N sux:ud[sun]N sux:ŋarza[rites]N
 c.2.5.3.1,A šir-namursaŋa to Ninsiana for Iddin-Dagan (Iddin-Dagan A),,177,sux:nin[lady]N sux:kinud[bedroom]N sux:ŋar[place]V/t
 c.2.5.3.1,A šir-namursaŋa to Ninsiana for Iddin-Dagan (Iddin-Dagan A),,178,sux:numunbur[rushes]N sux:šim[aromatics]N sux:eren[cedar]N sux:sikil[pure]V/i

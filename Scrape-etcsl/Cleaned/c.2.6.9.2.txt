@@ -1,5 +1,5 @@
-id_text,text_name,version,l_no,text
-c.2.6.9.2,A hymn to Haia for Rīm-Sîn (Rīm-Sîn B),,1,sux:en[lord]N sux:ŋeštug[ear]N sux:mah[great]V/i sux:šu[hand]N sux:du[push]V/t sux:sa[advice]N sux:gal[big]V/i sux:pad[find]V/t
+etcsl_no,text_name,version,l_no,text
+c.2.6.9.2,A hymn to Haia for Rīm-Sîn (Rīm-Sîn B),,1,sux:en[lord]N sux:ŋeštug[ear]N sux:mah[great]V/i sux:šu[hand]N sux:šu-du[complete]V/t sux:sa[advice]N sux:gal[big]V/i sux:pad[find]V/t
 c.2.6.9.2,A hymn to Haia for Rīm-Sîn (Rīm-Sîn B),,2,sux:Haia[1]DN sux:dub[tablet]N sux:gal[big]V/i sux:haza[hold]V/t sux:ŋeštug[ear]N sux:peš[thick]V/i
 c.2.6.9.2,A hymn to Haia for Rīm-Sîn (Rīm-Sîn B),,3,sux:šitadu[accountant]N sux:Halankug[1]TN sux:igi[eye]N sux:zag[side]N sux:til[complete]V/i sux:galam[skilful]V/i sux:E.ŊEŠTUG.NISABA[1]TN
 c.2.6.9.2,A hymn to Haia for Rīm-Sîn (Rīm-Sîn B),,4,sux:bisaŋdubak[archivist]N sux:egal[palace]N sux:an[sky]N sux:ki[place]N sux:kiŋ[work]N sux:kilib[total]N sux:šid[count]V/t

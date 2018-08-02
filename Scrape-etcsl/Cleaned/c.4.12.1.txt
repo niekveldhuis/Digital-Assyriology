@@ -1,4 +1,4 @@
-id_text,text_name,version,l_no,text
+etcsl_no,text_name,version,l_no,text
 c.4.12.1,A šir-gida to Martu (Martu A),,1,sux:ursaŋ[hero]N sux:šul[youth]V/i sux:mah[great]V/i sux:kur[mountain]N sux:idim[spring]N sux:zag[side]N sux:til[complete]V/i
 c.4.12.1,A šir-gida to Martu (Martu A),,2,sux:Martu[1]DN sux:šul[youth]V/i sux:mah[great]V/i sux:kur[mountain]N sux:idim[spring]N sux:zag[side]N sux:til[complete]V/i
 c.4.12.1,A šir-gida to Martu (Martu A),,3,sux:usu[strength]N sux:piriŋ[lion]N sux:huš[reddish]V/i sux:hursaŋ[mountain]N sux:ki[place]N sux:sikil[pure]V/i sux:barag[sanctum]N sux:kug[pure]V/i sux:si[fill]V/t
@@ -10,13 +10,13 @@ c.4.12.1,A šir-gida to Martu (Martu A),,8,sux:Anunak[1]DN sux:diŋir[deity]N su
 c.4.12.1,A šir-gida to Martu (Martu A),,9,sux:namursaŋ[heroism]N sux:a[arm]N sux:mah[great]V/i sux:gu[voice]N sux:zid[right]V/i sux:de[pour]V/t
 c.4.12.1,A šir-gida to Martu (Martu A),,10,sux:namnirŋal[authority]N sux:me[battle]N sux:gaba[chest]N sux:ŋen[go]V/i sux:dadara[tied]V/i sux:dug[speak]V/t
 c.4.12.1,A šir-gida to Martu (Martu A),,11,sux:tukul[weapon]N sux:mitum[weapon]N sux:pana[bow]N sux:gal[big]V/i sux:ti[arrow]N sux:marru[stormwind]N sux:šu[hand]N sux:mah[great]V/i
-c.4.12.1,A šir-gida to Martu (Martu A),,12,sux:namdiŋir[divinity]N sux:šu[hand]N sux:gal[big]V/i sux:du[push]V/t sux:zag[side]N sux:sa[equal]V/t
+c.4.12.1,A šir-gida to Martu (Martu A),,12,sux:namdiŋir[divinity]N sux:šu[hand]N sux:gal[big]V/i sux:šu-du[complete]V/t sux:zag[side]N sux:sa[equal]V/t
 c.4.12.1,A šir-gida to Martu (Martu A),,13,sux:gaba[chest]N sux:zig[rise]V/t sux:šagtum[land]N
 c.4.12.1,A šir-gida to Martu (Martu A),,14,sux:mah[great]V/i sux:gal[big]V/i sux:a[arm]N sux:piriŋ[lion]N sux:ŋal[be]V/i
 c.4.12.1,A šir-gida to Martu (Martu A),,15,sux:piriŋ[lion]N sux:banda[junior]V/i sux:ni[fear]N sux:ri[impose]V/t
 c.4.12.1,A šir-gida to Martu (Martu A),,16,sux:am[bull]N sux:a[arm]N sux:gur[thick]V/i
 c.4.12.1,A šir-gida to Martu (Martu A),,17,sux:tumu[wind]N sux:7[7]NU sux:zag[side]N sux:kešed[bind]V/t sux:izi[fire]N
-c.4.12.1,A šir-gida to Martu (Martu A),,18,sux:me[battle]N sux:šen[battle]N sux:agakar[conquest]N sux:sig[put]V/t sux:nim[fly]N
+c.4.12.1,A šir-gida to Martu (Martu A),,18,sux:me[battle]N sux:šen[battle]N sux:agakar[conquest]N sux:sig[put]V/t sux:nim-ŋir[flash]V/t
 c.4.12.1,A šir-gida to Martu (Martu A),,19,sux:ni[fear]N sux:mah[great]V/i sux:huluŋal[evil]AJ sux:dab[seize]V/t sux:ulu[wind]N
 c.4.12.1,A šir-gida to Martu (Martu A),,20,sux:iri[city]N sux:nam[fate]N sux:kud[cut]V/t sux:a[arm]N sux:ki[place]N sux:gi[turn]V/i
 c.4.12.1,A šir-gida to Martu (Martu A),,21,sux:lugal[king]N sux:kur[mountain]N sux:šeg[agree]V/t sux:gul[destroy]V/t
@@ -54,7 +54,7 @@ c.4.12.1,A šir-gida to Martu (Martu A),,52,sux:kindu[earth]N sux:si[horn]N sux:
 c.4.12.1,A šir-gida to Martu (Martu A),,53,sux:igi[eye]N sux:du[spread]V/t sux:diŋir[deity]N
 c.4.12.1,A šir-gida to Martu (Martu A),,54,sux:namlulu[humanity]N sux:dug[speak]V/t
 c.4.12.1,A šir-gida to Martu (Martu A),,55,sux:namlugal[kingship]N sux:šag[heart]N sux:sag[good]V/i sux:pad[find]V/t
-c.4.12.1,A šir-gida to Martu (Martu A),,56,sux:lammar[deity]N sux:niŋgina[truth]N sux:ud[sun]N sux:šuš[cover]V/t sux:zid[right]V/i sux:gub[stand]V/i sux:ŋala[cvne]N sux:dag[demolish]V/t
+c.4.12.1,A šir-gida to Martu (Martu A),,56,sux:lammar[deity]N sux:niŋgina[truth]N sux:ud[sun]N sux:šuš[cover]V/t sux:zid[right]V/i sux:gub[stand]V/i sux:ŋala-dag[cease]V/t sux:šu-dag[roam-around]V/t
 c.4.12.1,A šir-gida to Martu (Martu A),,57,sux:mi[cvne]N sux:zid[right]V/i sux:dug[speak]V/t sux:diŋir[deity]N sux:lu[person]N sux:hursaŋ[mountain]N sux:ar[praise]N sux:dib[pass]V/t
 c.4.12.1,A šir-gida to Martu (Martu A),,58,sux:nar[musician]N sux:šir[song]N sux:kug[pure]V/i sux:dug[speak]V/t sux:mu[name]N sux:pa[branch]N sux:e[leave]V/i
 c.4.12.1,A šir-gida to Martu (Martu A),,59,sux:Martu[1]DN sux:dumu[child]N sux:An[1]DN sux:zamin[lyre]N sux:dug[good]V/i

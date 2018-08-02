@@ -1,4 +1,4 @@
-id_text,text_name,version,l_no,text
+etcsl_no,text_name,version,l_no,text
 c.5.2.4,A man and his god,,1,sux:lulu[man]N sux:nammah[greatness]N sux:diŋir[deity]N sux:zid[right]V/i sux:dug[speak]V/t
 c.5.2.4,A man and his god,,2,sux:ŋuruš[male]N sux:inim[word]N sux:diŋir[deity]N sux:kug[pure]V/i sux:e[leave]V/i
 c.5.2.4,A man and his god,,3,sux:kalam[land]N sux:zid[right]V/i sux:uŋ[people]N sux:tuš[sit]V/i sux:gu[cord]N sux:sil[split]V/i
@@ -15,7 +15,7 @@ c.5.2.4,A man and his god,,13,sux:gig[sick]V/i sux:umuš[planning]N sux:suh[conf
 c.5.2.4,A man and his god,,14,sux:aga[rear]N sux:šu[hand]N sux:hulu[bad]V/i sux:dug[speak]V/t
 c.5.2.4,A man and his god,,15,sux:šul[youth]V/i sux:igi[eye]N sux:diŋir[deity]N
 c.5.2.4,A man and his god,,16,sux:ŋuruš[male]N sux:a[arm]N sux:hulu[bad]V/i sux:ŋar[place]V/t sux:er[tears]N sux:gig[sick]V/i sux:šeš[weep]V/t
-c.5.2.4,A man and his god,,17,sux:ni[fear]N sux:tuku[acquire]V/t sux:šukin[prostration]N sux:si[horn]N sux:sa[equal]V/t
+c.5.2.4,A man and his god,,17,sux:ni[fear]N sux:tuku[acquire]V/t sux:šukin-dab[prostrate]V/t sux:si[horn]N sux:sa[equal]V/t
 c.5.2.4,A man and his god,,18,sux:dulum[toil]N sux:dug[speak]V/t
 c.5.2.4,A man and his god,,19,sux:šag[heart]N sux:kušu[tired]V/i sux:si[fill]V/t
 c.5.2.4,A man and his god,,20,sux:er[tears]N sux:ŋar[place]V/t
@@ -28,7 +28,7 @@ c.5.2.4,A man and his god,,26,sux:ur[liver]N sux:uš[die]V/i
 c.5.2.4,A man and his god,,27,sux:ŋar[place]V/t
 c.5.2.4,A man and his god,,28,sux:ŋuruš[male]N sux:zu[know]V/t sux:niŋzu[knowledge]N sux:si[horn]N sux:sa[equal]V/t
 c.5.2.4,A man and his god,,29,sux:zid[right]V/i sux:dug[speak]V/t sux:lul[false]V/i sux:kur[enter]V/i
-c.5.2.4,A man and his god,,30,sux:lulul[liar]N sux:ulu[wind]N sux:dul[cover]V/t sux:šukin[prostration]N sux:dab[seize]V/t
+c.5.2.4,A man and his god,,30,sux:lulul[liar]N sux:ulu[wind]N sux:dul[cover]V/t sux:šukin-dab[prostrate]V/t sux:dab[seize]V/t
 c.5.2.4,A man and his god,,31,sux:a[arm]N sux:zu[know]V/t sux:pel[defile]V/t
 c.5.2.4,A man and his god,,32,sux:dulum[toil]N sux:ki[place]N sux:gibil[new]V/i sux:saŋ[head]N sux:rig[donate]V/t
 c.5.2.4,A man and his god,,33,sux:e[house]N sux:kur[enter]V/i sux:ur[liver]N sux:uš[die]V/i
@@ -75,7 +75,7 @@ c.5.2.4,A man and his god,,73,sux:Namtar[1]DN sux:šu[hand]N sux:igi[eye]N sux:k
 c.5.2.4,A man and his god,,74,sux:su[flesh]N sux:Asag[1]DN sux:niŋ[thing]N sux:hulu[bad]V/i sux:ŋal[be]V/i sux:a[water]N sux:tu[cvve]V/t
 c.5.2.4,A man and his god,,75,sux:ara[times]N sux:niŋgig[bad-thing]N sux:šu[hand]N sux:hulu[bad]V/i sux:dug[speak]V/t
 c.5.2.4,A man and his god,,76,sux:mamud[dream]N sux:sag[good]V/i sux:igi[eye]N sux:du[spread]V/t
-c.5.2.4,A man and his god,,77,sux:ud[sun]N sux:šuš[cover]V/t sux:mašŋik[vision]N sux:niŋnuŋara[malice]N sux:ŋala[cvne]N sux:dag[demolish]V/t
+c.5.2.4,A man and his god,,77,sux:ud[sun]N sux:šuš[cover]V/t sux:mašŋik[vision]N sux:niŋnuŋara[malice]N sux:ŋala-dag[cease]V/t sux:šu-dag[roam-around]V/t
 c.5.2.4,A man and his god,,78,sux:šag[heart]N sux:sag[beat]V/t sux:dam[spouse]N sux:dug[speak]V/t sux:gu[neck]N sux:la[hang]V/t sux:a[water]N
 c.5.2.4,A man and his god,,79,sux:zarah[wailing]N sux:dumu[child]N sux:tur[small]V/i sux:dug[speak]V/t sux:ur[root]N sux:tal[broad]V/i
 c.5.2.4,A man and his god,,80,sux:anir[lament]N sux:ulu[wind]N sux:ak[do]V/t sux:sig[put]V/t sux:šu[hand]N

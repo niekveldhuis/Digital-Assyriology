@@ -1,4 +1,4 @@
-id_text,text_name,version,l_no,text
+etcsl_no,text_name,version,l_no,text
 c.5.6.3,The farmer's instructions,,1,sux:Uduluru[1]PN sux:dumu[child]N sux:nadeg[advice]N sux:deg[collect]V/t
 c.5.6.3,The farmer's instructions,,2,sux:ašag[field]N sux:dib[pass]V/t
 c.5.6.3,The farmer's instructions,,3,sux:eg[levee]N sux:par[canal]N sux:dud[mound]N sux:du[spread]V/t sux:igi[eye]N sux:kar[blow]V/t
@@ -32,11 +32,11 @@ c.5.6.3,The farmer's instructions,,30,sux:usu[strength]N sux:apin[plow]N sux:1[1
 c.5.6.3,The farmer's instructions,,31,sux:bardili[plow]N sux:apintugsigak[plow]N sux:ak[do]V/t sux:tuggur[plow]N
 c.5.6.3,The farmer's instructions,,32,sux:ŋeš[tree]N sux:ur[drag]V/t sux:ŋeš[tree]N sux:gi[turn]V/i sux:ŋeš[tree]N sux:peš[three]NU
 c.5.6.3,The farmer's instructions,,33,sux:ki[place]N sux:sumur[angry]V/i sux:niŋgul[hatchet]N sux:gagdag[tool]N sux:ak[do]V/t
-c.5.6.3,The farmer's instructions,,34,sux:mud[stump]N sux:niŋgul[hatchet]N sux:saŋ[head]N sux:haza[hold]V/t sux:niŋ[thing]N sux:al[hoe]N sux:dug[speak]V/t sux:ŋen[go]V/i
-c.5.6.3,The farmer's instructions,,35,sux:kiŋ[work]N sux:ak[do]V/t sux:ugu[cvne]N sux:de[pour]V/t
-c.5.6.3,The farmer's instructions,,36,sux:kiŋ[work]N sux:ak[do]V/t sux:ŋala[cvne]N sux:dag[demolish]V/t
+c.5.6.3,The farmer's instructions,,34,sux:mud[stump]N sux:niŋgul[hatchet]N sux:saŋ[head]N sux:haza[hold]V/t sux:niŋ[thing]N sux:al-dug[desire]V/t sux:dug[speak]V/t sux:ŋen[go]V/i
+c.5.6.3,The farmer's instructions,,35,sux:kiŋ[work]N sux:ak[do]V/t sux:ugu-de[disappear]V/t sux:de[pour]V/t
+c.5.6.3,The farmer's instructions,,36,sux:kiŋ[work]N sux:ak[do]V/t sux:ŋala-dag[cease]V/t sux:šu-dag[roam-around]V/t
 c.5.6.3,The farmer's instructions,,37,sux:ašag[field]N sux:kiŋ[work]N sux:ak[do]V/t sux:dug[speak]V/t
-c.5.6.3,The farmer's instructions,,38,sux:ud[sun]N sux:mulan[star]N sux:šu[hand]N sux:du[push]V/t
+c.5.6.3,The farmer's instructions,,38,sux:ud[sun]N sux:mulan[star]N sux:šu[hand]N sux:šu-du[complete]V/t
 c.5.6.3,The farmer's instructions,,39,sux:10[10]NU sux:a[arm]N sux:gud[ox]N sux:ašag[field]N sux:zig[rise]V/t sux:igi[eye]N sux:gid[long]V/i
 c.5.6.3,The farmer's instructions,,40,sux:al[hoe]N sux:du[all]V/i sux:ak[do]V/t
 c.5.6.3,The farmer's instructions,,41,sux:ašag[field]N sux:uru[sow]V/t
@@ -70,14 +70,14 @@ c.5.6.3,The farmer's instructions,,68,sux:a[water]N sux:numun[seed]N sux:saŋ[he
 c.5.6.3,The farmer's instructions,,69,sux:ud[sun]N sux:še[barley]N sux:kidmašagak[mat]N sux:gub[stand]V/i sux:a[water]N sux:dug[speak]V/t
 c.5.6.3,The farmer's instructions,,70,sux:še[barley]N sux:lillan[grain]N sux:a[water]N sux:dug[speak]V/t
 c.5.6.3,The farmer's instructions,,71,sux:ud[sun]N sux:še[barley]N sux:luh[clean]V/t sux:sud[distant]V/i sux:a[water]N sux:dug[speak]V/t sux:samana[mold]N sux:gig[sick]V/i
-c.5.6.3,The farmer's instructions,,72,sux:ud[sun]N sux:še[barley]N sux:bir[scatter]V/t sux:ak[do]V/t sux:du[push]V/t sux:a[water]N sux:dug[speak]V/t
+c.5.6.3,The farmer's instructions,,72,sux:ud[sun]N sux:še[barley]N sux:bir[scatter]V/t sux:ak[do]V/t sux:šu-du[complete]V/t sux:a[water]N sux:dug[speak]V/t
 c.5.6.3,The farmer's instructions,,73,sux:ban[unit]N sux:1[1]NU sux:sila[unit]N sux:še[barley]N sux:kugdun[profit]N sux:tuku[acquire]V/t
 c.5.6.3,The farmer's instructions,,74,sux:še[barley]N sux:gur[reap]V/t sux:še[barley]N sux:ur[he]IP sux:gurum[bend]V/t
 c.5.6.3,The farmer's instructions,,75,sux:ud[sun]N sux:a[arm]N sux:gur[reap]V/t
 c.5.6.3,The farmer's instructions,,76,sux:kid[cut]V/t sux:1[1]NU sux:u[and]CNJ sux:lu[person]N sux:zar[sheaf]N sux:kešed[bind]V/t sux:1[1]NU
 c.5.6.3,The farmer's instructions,,77,sux:u[and]CNJ sux:lu[person]N sux:1[1]NU sux:igi[eye]N sux:zar[sheaf]N sux:sa[equal]V/t
 c.5.6.3,The farmer's instructions,,78,sux:3[3]NU sux:gur[reap]V/t
-c.5.6.3,The farmer's instructions,,79,sux:lu[person]N sux:še[barley]N sux:deg[collect]V/t sux:še[barley]N sux:šu[hand]N sux:huz[cvve]V/t sux:ak[do]V/t
+c.5.6.3,The farmer's instructions,,79,sux:lu[person]N sux:še[barley]N sux:deg[collect]V/t sux:še[barley]N sux:šu[hand]N sux:šu-huz[burn]V/t sux:ak[do]V/t
 c.5.6.3,The farmer's instructions,,80,sux:šegaradin[grain-stack]N sux:še[barley]N sux:sil[split]V/i
 c.5.6.3,The farmer's instructions,,81,sux:kiŋ[work]N sux:ud[sun]N sux:ud[sun]N sux:tur[small]V/i
 c.5.6.3,The farmer's instructions,,82,sux:usu[strength]N sux:didila[smaller]V/i sux:u[and]CNJ sux:lu[person]N sux:še[barley]N sux:deg[collect]V/t

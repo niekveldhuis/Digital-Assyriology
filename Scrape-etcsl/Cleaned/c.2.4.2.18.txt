@@ -1,4 +1,4 @@
-id_text,text_name,version,l_no,text
+etcsl_no,text_name,version,l_no,text
 c.2.4.2.18,Šulgi and Ninlil's barge: a tigi (?) to Ninlil  (Šulgi R),,1,sux:magur[barge]N sux:Enki[1]DN sux:kar[harbor]N sux:ŋal[be]V/i sux:nam[fate]N sux:tar[cut]V/t
 c.2.4.2.18,Šulgi and Ninlil's barge: a tigi (?) to Ninlil  (Šulgi R),,2,sux:aya[father]N sux:Enlil[1]DN sux:igi[eye]N sux:zid[right]V/i sux:bar[outside]V/t
 c.2.4.2.18,Šulgi and Ninlil's barge: a tigi (?) to Ninlil  (Šulgi R),,3,sux:nin[lady]N sux:Ninlil[1]DN sux:utud[bear]V/t sux:dug[speak]V/t
@@ -7,7 +7,7 @@ c.2.4.2.18,Šulgi and Ninlil's barge: a tigi (?) to Ninlil  (Šulgi R),,5,sux:ŋ
 c.2.4.2.18,Šulgi and Ninlil's barge: a tigi (?) to Ninlil  (Šulgi R),,6,sux:sipad[shepherd]N sux:ud[sun]N sux:ŋi[night]N sux:u[sleep]N sux:ku[place]V/t
 c.2.4.2.18,Šulgi and Ninlil's barge: a tigi (?) to Ninlil  (Šulgi R),,7,sux:igiŋaltuku[wise]AJ sux:ŋešhur[plan]N sux:kiŋ[work]N sux:kugzu[wise]AJ sux:niŋnam[anything]N
 c.2.4.2.18,Šulgi and Ninlil's barge: a tigi (?) to Ninlil  (Šulgi R),,8,sux:tir[forest]N sux:gal[big]V/i sux:eren[cedar]N sux:gal[big]V/i sux:kud[cut]V/t
-c.2.4.2.18,Šulgi and Ninlil's barge: a tigi (?) to Ninlil  (Šulgi R),,9,sux:me[Being]N sux:šu[hand]N sux:du[push]V/t sux:u[admiration]N sux:gub[stand]V/i
+c.2.4.2.18,Šulgi and Ninlil's barge: a tigi (?) to Ninlil  (Šulgi R),,9,sux:me[Being]N sux:šu[hand]N sux:šu-du[complete]V/t sux:u[admiration]N sux:gub[stand]V/i
 c.2.4.2.18,Šulgi and Ninlil's barge: a tigi (?) to Ninlil  (Šulgi R),,10,sux:tug[textile]N sux:sig[put]V/t sux:gu[cord]N sux:tag[touch]V/t sux:ki[place]N
 c.2.4.2.18,Šulgi and Ninlil's barge: a tigi (?) to Ninlil  (Šulgi R),,11,sux:kidmahhal[mat]N sux:ud[sun]N sux:adam[habitation]N sux:kug[pure]V/i sux:daŋal[wide]V/i sux:si[fill]V/t
 c.2.4.2.18,Šulgi and Ninlil's barge: a tigi (?) to Ninlil  (Šulgi R),,12,sux:ŋeššudim[timber]N sux:muššagtur[snake]N sux:sim[smell]V/t sux:ak[do]V/t sux:šu[hand]N sux:nud[lie]V/i
@@ -61,7 +61,7 @@ c.2.4.2.18,Šulgi and Ninlil's barge: a tigi (?) to Ninlil  (Šulgi R),,59,sux:g
 c.2.4.2.18,Šulgi and Ninlil's barge: a tigi (?) to Ninlil  (Šulgi R),,60,sux:gud[ox]N sux:du[push]V/t sux:saŋ[head]N sux:il[raise]V/t sux:gu[neck]N sux-x-emesal:mar[place]V/t
 c.2.4.2.18,Šulgi and Ninlil's barge: a tigi (?) to Ninlil  (Šulgi R),,61,sux:izi[wave]N sux:zig[rise]V/t sux:gaba[chest]N sux:rah[beat]V/t sux:a[water]N sux:šu[hand]N sux:niŋin[encircle]V/t sux:HA.HA.HA[mix-up?]V/t
 c.2.4.2.18,Šulgi and Ninlil's barge: a tigi (?) to Ninlil  (Šulgi R),,62,sux:a[water]N sux:šag[heart]N sux:ŋen[go]V/i sux:engur[waters]N sux:kud[fish]N sux:huluh[frightened]V/i
-c.2.4.2.18,Šulgi and Ninlil's barge: a tigi (?) to Ninlil  (Šulgi R),,63,sux:a[water]N sux:bar[outside]V/t sux:ŋen[go]V/i sux:heŋal[plenty]N sux:mulmal[sound]N sux:za[cvve]V/t
+c.2.4.2.18,Šulgi and Ninlil's barge: a tigi (?) to Ninlil  (Šulgi R),,63,sux:a[water]N sux:bar[outside]V/t sux:ŋen[go]V/i sux:heŋal[plenty]N sux:mul-ma-al[type-of-noise]N sux:za[cvve]V/t
 c.2.4.2.18,Šulgi and Ninlil's barge: a tigi (?) to Ninlil  (Šulgi R),,64,sux:dirig[raft]N sux:kug[pure]V/i sux:nam[fate]N sux:us[follow]V/t sux:nin[lady]N sux:Tummal[2]SN sux:arazu[supplication]N
 c.2.4.2.18,Šulgi and Ninlil's barge: a tigi (?) to Ninlil  (Šulgi R),,65,sux:ama[mother]N sux:aya[father]N sux:Enlil[1]DN sux:An[1]DN sux:lugal[king]N sux:diŋir[deity]N sux:nam[fate]N sux:tar[cut]V/t sux:kiri[nose]N sux:šu[hand]N sux:ŋal[be]V/i
 c.2.4.2.18,Šulgi and Ninlil's barge: a tigi (?) to Ninlil  (Šulgi R),,66,sux:Ninlil[1]DN sux:ki[place]N sux:ŋešbun[meal]N sux:zag[side]N sux:si[fill]V/t
@@ -70,7 +70,7 @@ c.2.4.2.18,Šulgi and Ninlil's barge: a tigi (?) to Ninlil  (Šulgi R),,68,sux:u
 c.2.4.2.18,Šulgi and Ninlil's barge: a tigi (?) to Ninlil  (Šulgi R),,69,sux:lugal[king]N sux:magur[barge]N sux:kug[pure]V/i sux:du[spread]V/t sux:nam[fate]N sux:tar[cut]V/t
 c.2.4.2.18,Šulgi and Ninlil's barge: a tigi (?) to Ninlil  (Šulgi R),,70,sux:nam[fate]N sux:tar[cut]V/t sux:ul[distant]V/i sux:niŋ[thing]N sux:saŋ[head]N sux:ŋen[go]V/i
 c.2.4.2.18,Šulgi and Ninlil's barge: a tigi (?) to Ninlil  (Šulgi R),,71,sux:gaba[chest]N sux:kalam[land]N sux:ud[sun]N sux:ŋar[place]V/t sux:Utu[1]DN sux:dalla[bright]V/i sux:e[leave]V/i
-c.2.4.2.18,Šulgi and Ninlil's barge: a tigi (?) to Ninlil  (Šulgi R),,72,sux:magur[barge]N sux:gaba[chest]N sux:ri[impose]V/t sux:nam[fate]N sux:gunu[speckled]V/i sux:gu[voice]N sux:mur[noise]N sux:ša[cvve]V/t
+c.2.4.2.18,Šulgi and Ninlil's barge: a tigi (?) to Ninlil  (Šulgi R),,72,sux:magur[barge]N sux:gaba[chest]N sux:ri[impose]V/t sux:nam[fate]N sux:gunu[speckled]V/i sux:gu[voice]N sux:murmara-ša[roar]V/t sux:ša[cvve]V/t
 c.2.4.2.18,Šulgi and Ninlil's barge: a tigi (?) to Ninlil  (Šulgi R),,73,sux:Ninmutum[1]WN sux:id[river]N sux:mu[year]N sux:heŋal[plenty]N sux:a[water]N sux:šu[hand]N sux:teŋ[approach]V/i
 c.2.4.2.18,Šulgi and Ninlil's barge: a tigi (?) to Ninlil  (Šulgi R),,74,sux:eštub[carp]N sux:mutuna[stomach?]N sux:gunu[speckled]V/i sux:Enlil[1]DN sux:hul[rejoice]V/i
 c.2.4.2.18,Šulgi and Ninlil's barge: a tigi (?) to Ninlil  (Šulgi R),,75,sux:mušu[fish]N sux:gu[voice]N sux:ŋar[place]V/t sux:enedi[game]N sux:dug[speak]V/t sux:Ninlil[1]DN sux:hul[rejoice]V/i

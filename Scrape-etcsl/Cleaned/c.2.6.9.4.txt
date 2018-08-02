@@ -1,4 +1,4 @@
-id_text,text_name,version,l_no,text
+etcsl_no,text_name,version,l_no,text
 c.2.6.9.4,A prayer to Nanna for Rīm-Sîn (Rīm-Sîn D),,1,sux:Rimsin[1]RN sux:lugal[king]N sux:namheŋal[abundance]N
 c.2.6.9.4,A prayer to Nanna for Rīm-Sîn (Rīm-Sîn D),,2,sux:palil[foremost]AJ sux:mah[great]V/i sux:barag[sanctum]N
 c.2.6.9.4,A prayer to Nanna for Rīm-Sîn (Rīm-Sîn D),,3,sux:Niŋzid[1]DN sux:Niŋsisa[1]DN sux:atah[helper]N sux:me[be]V/i
@@ -19,7 +19,7 @@ c.2.6.9.4,A prayer to Nanna for Rīm-Sîn (Rīm-Sîn D),,17,sux:ig[door]N sux:ŋ
 c.2.6.9.4,A prayer to Nanna for Rīm-Sîn (Rīm-Sîn D),,18,sux:diŋir[deity]N sux:silim[healthy]V/i sux:ennuŋ[imprisonment]N sux:abula[gate]N sux:mah[great]V/i
 c.2.6.9.4,A prayer to Nanna for Rīm-Sîn (Rīm-Sîn D),,19,sux:igi[eye]N sux:hul[rejoice]V/i
 c.2.6.9.4,A prayer to Nanna for Rīm-Sîn (Rīm-Sîn D),,20,sux:mušme[face]N sux:zalag[shine]V/i
-c.2.6.9.4,A prayer to Nanna for Rīm-Sîn (Rīm-Sîn D),,21,sux:sum[beard]N sux:šeša[moan]V/i
+c.2.6.9.4,A prayer to Nanna for Rīm-Sîn (Rīm-Sîn D),,21,sux:sum[beard]N sux:še-ša[moan]V/i
 c.2.6.9.4,A prayer to Nanna for Rīm-Sîn (Rīm-Sîn D),,22,sux:abula[gate]N sux:Urim[1]SN sux:abula[gate]N sux:kirizal[joy]N
 c.2.6.9.4,A prayer to Nanna for Rīm-Sîn (Rīm-Sîn D),,23,sux:kur[enter]V/i
 c.2.6.9.4,A prayer to Nanna for Rīm-Sîn (Rīm-Sîn D),,24,sux:šeg[brick]N sux:Urim[1]SN

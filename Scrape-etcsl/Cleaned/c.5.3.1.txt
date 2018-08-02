@@ -1,4 +1,4 @@
-id_text,text_name,version,l_no,text
+etcsl_no,text_name,version,l_no,text
 c.5.3.1,The debate between Hoe and Plough,,1,sux:e[interjection]J sux:al[hoe]N sux:al[hoe]N sux:al[hoe]N sux:sa[sinew]N sux:la[hang]V/t
 c.5.3.1,The debate between Hoe and Plough,,2,sux:al[hoe]N sux:asal[poplar]N sux:zu[tooth]N sux:manu[wood]N
 c.5.3.1,The debate between Hoe and Plough,,3,sux:al[hoe]N sux:šinig[tamarisk]N sux:zu[tooth]N sux:ŋešaʾabak[tree]N
@@ -26,7 +26,7 @@ c.5.3.1,The debate between Hoe and Plough,,24,sux:ezem[festival]N sux:itud[moon]
 c.5.3.1,The debate between Hoe and Plough,,25,sux:lugal[king]N sux:gud[ox]N sux:gaz[kill]V/t sux:udu[sheep]N sux:šar[slaughter]V/t
 c.5.3.1,The debate between Hoe and Plough,,26,sux:kaš[beer]N sux:bur[bowl]N sux:de[pour]V/t
 c.5.3.1,The debate between Hoe and Plough,,27,sux:lugal[king]N sux:a[water]N sux:ur[pluck]V/t sux:de[bring]V/t
-c.5.3.1,The debate between Hoe and Plough,,28,sux:ub[drum]N sux:ala[drum]N sux:šeg[voice]N sux:gi[turn]V/i
+c.5.3.1,The debate between Hoe and Plough,,28,sux:ub[drum]N sux:ala[drum]N sux:šeg-gi[make-noise]V/t sux:gi[turn]V/i
 c.5.3.1,The debate between Hoe and Plough,,28A,
 c.5.3.1,The debate between Hoe and Plough,,29,sux:lugal[king]N sux:a[arm]N sux:šu[hand]N sux:du[spread]V/t
 c.5.3.1,The debate between Hoe and Plough,,30,sux:gud[ox]N sux:šudul[yoke]N sux:si[horn]N sux:sa[equal]V/t
@@ -118,7 +118,7 @@ c.5.3.1,The debate between Hoe and Plough,,112,sux:ŋešdal[crossbar]N sux:kur[m
 c.5.3.1,The debate between Hoe and Plough,,113,sux:ibi[smoke]N sux:e[house]N sux:sissig[green]V/i
 c.5.3.1,The debate between Hoe and Plough,,114,sux:ninda[seed-funnel]N sux:mea[where?]QP sux:gurud[throw]V/t
 c.5.3.1,The debate between Hoe and Plough,,115,sux:lu[person]N sux:gurud[throw]V/t sux:guru[grind]V/t sux:dug[speak]V/t
-c.5.3.1,The debate between Hoe and Plough,,116,sux:šukara[tool]N sux:sugzag[~marsh]N sux:gu[eat]V/t
+c.5.3.1,The debate between Hoe and Plough,,116,sux:šukara[tool]N sux:sugzag-gu[destroy]V/t sux:gu[eat]V/t
 c.5.3.1,The debate between Hoe and Plough,,117,sux:ŋaʾe[I]IP sux:al[hoe]N sux:iri[city]N sux:til[live]V/i
 c.5.3.1,The debate between Hoe and Plough,,118,sux:lu[person]N sux:me[be]V/i sux:dugud[heavy]V/i
 c.5.3.1,The debate between Hoe and Plough,,119,sux:arad[slave]N sux:lugal[king]N sux:us[follow]V/t
@@ -174,7 +174,7 @@ c.5.3.1,The debate between Hoe and Plough,,168,sux:e[house]N sux:du[build]V/t su
 c.5.3.1,The debate between Hoe and Plough,,169,sux:Enlil[1]DN sux:mada[land]N sux:saŋki[forehead]N sux:gid[long]V/i
 c.5.3.1,The debate between Hoe and Plough,,170,sux:buru[harvest]N sux:Enlil[1]DN sux:su[sink]V/t
 c.5.3.1,The debate between Hoe and Plough,,171,sux:mah[great]V/i sux:Enlil[1]DN sux:ak[do]V/t
-c.5.3.1,The debate between Hoe and Plough,,172,sux:Enlil[1]DN sux:šu[hand]N sux:dag[demolish]V/t
+c.5.3.1,The debate between Hoe and Plough,,172,sux:Enlil[1]DN sux:šu[hand]N sux:šu-dag[roam-around]V/t
 c.5.3.1,The debate between Hoe and Plough,,173,sux:al[hoe]N sux:zu[tooth]N sux:dili[single]V/i sux:barim[land]N sux:šum[give]V/t
 c.5.3.1,The debate between Hoe and Plough,,174,sux:menden[we]IP sux:enten[winter]N sux:buru[harvest]N sux:la[hang]V/t
 c.5.3.1,The debate between Hoe and Plough,,175,sux:šu[hand]N sux:emeš[summer]N sux:enten[winter]N sux:kar[flee]V/t

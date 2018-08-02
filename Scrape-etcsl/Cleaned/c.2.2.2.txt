@@ -1,4 +1,4 @@
-id_text,text_name,version,l_no,text
+etcsl_no,text_name,version,l_no,text
 c.2.2.2,The lament for Urim,,1,sux:tur[stall]N sux:muš[face]N sux-x-emesal:ga[bring]V/t sux:amaš[sheepfold]N sux:lil[ghost]N
 c.2.2.2,The lament for Urim,,2,sux:am[bull]N sux:tur[stall]N sux:muš[face]N sux-x-emesal:ga[bring]V/t sux:amaš[sheepfold]N sux:lil[ghost]N
 c.2.2.2,The lament for Urim,,3,sux-x-emesal:umun[lord]N sux:kur[mountain]N sux:muš[face]N sux-x-emesal:ga[bring]V/t sux:amaš[sheepfold]N sux:lil[ghost]N
@@ -142,7 +142,7 @@ c.2.2.2,The lament for Urim,,138,sux:ud[sun]N sux:ud[storm]N sux:nen[this]DP sux
 c.2.2.2,The lament for Urim,,139,sux-x-emesal:uru[city]N sux:gul[destroy]V/t sux:dug[speak]V/t
 c.2.2.2,The lament for Urim,,140,sux:Urim[1]SN sux:gul[destroy]V/t sux:dug[speak]V/t
 c.2.2.2,The lament for Urim,,141,sux:uŋ[people]N sux:uš[die]V/i sux:a[arm]N sux:aŋ[measure]V/t
-c.2.2.2,The lament for Urim,,142,sux:ud[sun]N sux-x-emesal:me[I]IP sux-x-emesal:uru[city]N sux:ŋala[cvne]N sux:dag[demolish]V/t
+c.2.2.2,The lament for Urim,,142,sux:ud[sun]N sux-x-emesal:me[I]IP sux-x-emesal:uru[city]N sux:ŋala-dag[cease]V/t sux:šu-dag[roam-around]V/t
 c.2.2.2,The lament for Urim,,143,sux-x-emesal:kanaŋ[land]N sux:ni[self]RP sux:šub[fall]V/t sux-x-emesal:me[I]IP sux:ak[do]V/t
 c.2.2.2,The lament for Urim,,144,sux:An[1]DN sux:a[water]N sux-x-emesal:ibi[eye]N sux-x-emesal:me[I]IP sux:de[pour]V/t
 c.2.2.2,The lament for Urim,,145,sux-x-emesal:Enlil[1]DN sux:ni[self]RP sux:šaneša[supplication]N sux:ak[do]V/t
@@ -200,7 +200,7 @@ c.2.2.2,The lament for Urim,,196,sux:ud[storm]N sux:gig[sick]V/i sux:er[tears]N 
 c.2.2.2,The lament for Urim,,197,sux:ud[storm]N sux:šu[hand]N sux:ur[pluck]V/t sux:kalam[land]N sux:ur[drag]V/t
 c.2.2.2,The lament for Urim,,198,sux:ud[storm]N sux:amaru[flood]N sux-x-emesal:uru[city]N sux:gul[destroy]V/t
 c.2.2.2,The lament for Urim,,199,sux:ud[storm]N sux:kalam[land]N sux:til[complete]V/i sux-x-emesal:uru[city]N sux:me[Being]N sux:ŋar[place]V/t
-c.2.2.2,The lament for Urim,,200,sux:ud[storm]N sux:niŋ[thing]N sux:ugu[cvne]N sux:de[pour]V/t sux:huluŋal[evil]AJ sux:DU[DU]V
+c.2.2.2,The lament for Urim,,200,sux:ud[storm]N sux:niŋ[thing]N sux:ugu-de[disappear]V/t sux:de[pour]V/t sux:huluŋal[evil]AJ sux:DU[DU]V
 c.2.2.2,The lament for Urim,,201,sux:ud[storm]N sux:izi[fire]N sux:bar[burn]V/t sux:uŋ[people]N sux:šu[hand]N sux:ŋar[place]V/t
 c.2.2.2,The lament for Urim,,202,sux:ud[storm]N sux:hulu[bad]V/i sux:gig[sick]V/i sux:dug[speak]V/t sux:Enlil[1]DN sux:ud[storm]N sux:kalam[land]N sux:be[diminish]V/t
 c.2.2.2,The lament for Urim,,203,sux:Urim[1]SN sux:tug[textile]N sux:dul[cover]V/t sux:gada[flax]N sux:bur[spread]V/t
@@ -231,7 +231,7 @@ c.2.2.2,The lament for Urim,,226,sux:Urim[1]SN sux:sig[weak]V/i sux:kalag[strong
 c.2.2.2,The lament for Urim,,227,sux:umma[old-woman]N sux:abba[father]N sux:e[house]N sux:e[leave]V/i sux:izi[fire]N sux:sig[put]V/t
 c.2.2.2,The lament for Urim,,228,sux:didila[smaller]V/i sux:ur[root]N sux:ama[mother]N sux:nud[lie]V/i sux:kud[fish]N sux:a[water]N sux:de[bring]V/t
 c.2.2.2,The lament for Urim,,229,sux:emeda[nursemaid]N sux:lirum[strength]N sux:kalag[strong]V/i sux:lirum[strength]N sux:du[spread]V/t
-c.2.2.2,The lament for Urim,,230,sux:dimma[thought]N sux:kalam[land]N sux:ugu[cvne]N sux:de[pour]V/t sux:uŋ[people]N sux:šeg[voice]N sux:ša[cvve]V/t
+c.2.2.2,The lament for Urim,,230,sux:dimma[thought]N sux:kalam[land]N sux:ugu-de[disappear]V/t sux:de[pour]V/t sux:uŋ[people]N sux:šeg[voice]N sux:ša[cvve]V/t
 c.2.2.2,The lament for Urim,,231,sux:ŋalga[forethought]N sux:kalam[land]N sux:sug[marsh]N sux:gu[eat]V/t sux:uŋ[people]N sux:šeg[voice]N sux:ša[cvve]V/t
 c.2.2.2,The lament for Urim,,232,sux:ama[mother]N sux:dumu[child]N sux:igi[eye]N sux:e[leave]V/i sux:uŋ[people]N sux:šeg[voice]N sux:ša[cvve]V/t
 c.2.2.2,The lament for Urim,,233,sux:adda[father]N sux:dumu[child]N sux:kur[different]V/i sux:uŋ[people]N sux:šeg[voice]N sux:ša[cvve]V/t
@@ -352,7 +352,7 @@ c.2.2.2,The lament for Urim,,347,sux:Urim[1]SN sux:eš[shrine]N sux:lil[ghost]N 
 c.2.2.2,The lament for Urim,,348,sux:gudug[priest]N sux:hili[attractiveness]N sux:ŋen[go]V/i sux:šag[heart]N sux:agin[thus]N sux:du[build]V/t
 c.2.2.2,The lament for Urim,,349,sux:en[priest]N sux:ŋipar[cloister]N sux:til[complete]V/i sux:inešgin[how]QP sux:mu[grow]V/t
 c.2.2.2,The lament for Urim,,350,sux:uzga[treasure]N sux:lu[person]N sux:šuluh[cleansing]N sux:ki[place]N sux:aŋ[measure]V/t sux:šuluh[cleansing]N sux:ŋar[place]V/t
-c.2.2.2,The lament for Urim,,351,sux:aya[father]N sux:Nanna[1]DN sux:išib[priest]N sux:šita[prayer]N sux:kug[pure]V/i sux:šu[hand]N sux:du[push]V/t
+c.2.2.2,The lament for Urim,,351,sux:aya[father]N sux:Nanna[1]DN sux:išib[priest]N sux:šita[prayer]N sux:kug[pure]V/i sux:šu[hand]N sux:šu-du[complete]V/t
 c.2.2.2,The lament for Urim,,352,sux:lumah[priest]N sux:giguna[terrace]N sux:kug[pure]V/i sux:šag[heart]N sux:gada[flax]N sux:la[hang]V/t
 c.2.2.2,The lament for Urim,,353,sux:en[lord]N sux:zid[right]V/i sux:šag[heart]N sux:hili[attractiveness]N sux:pad[find]V/t sux:Ekišnuŋal[1]TN
 c.2.2.2,The lament for Urim,,354,sux:eš[shrine]N sux:ŋipar[cloister]N sux:hul[rejoice]V/i sux:dib[pass]V/t
@@ -368,11 +368,11 @@ c.2.2.2,The lament for Urim,,363,sux:i[oil]N sux:gur[lift]V/t sux:tur[stall]N su
 c.2.2.2,The lament for Urim,,364,sux:ga[milk]N sux:gur[lift]V/t sux:amaš[sheepfold]N sux:de[bring]V/t sux:entukumše[as-long-as]MA sux:mu[grow]V/t
 c.2.2.2,The lament for Urim,,365,sux:šukud[fisherman]N sux:kud[fish]N sux:gur[lift]V/t sux:huluŋal[evil]AJ sux:dab[seize]V/t sux:entukumše[as-long-as]MA sux:mu[grow]V/t
 c.2.2.2,The lament for Urim,,366,sux:mušendu[bird-catcher]N sux:mušen[bird]N sux:gur[lift]V/t sux:ŋir[flash]V/i sux:DU[DU]V
-c.2.2.2,The lament for Urim,,367,sux:id[river]N sux:magur[barge]N sux:du[push]V/t sux:šag[heart]N sux:teme[plant]N sux:mu[grow]V/t
+c.2.2.2,The lament for Urim,,367,sux:id[river]N sux:magur[barge]N sux:šu-du[complete]V/t sux:šag[heart]N sux:teme[plant]N sux:mu[grow]V/t
 c.2.2.2,The lament for Urim,,368,sux:harran[route]N sux:gigir[chariot]N sux:ŋar[place]V/t sux:kišig[acacia]N sux:kur[mountain]N sux:mu[grow]V/t
 c.2.2.2,The lament for Urim,,369,sux:nin[lady]N sux-x-emesal:uru[city]N sux:ama[mother]N sux:er[tears]N sux:šeš[weep]V/t
 c.2.2.2,The lament for Urim,,370,sux:Urim[1]SN sux:dumu[child]N sux:sila[street]N sux:halam[forsake]V/i sux:ki[place]N sux:kiŋ[seek]V/t
-c.2.2.2,The lament for Urim,,371,sux:e[house]N sux:lu[person]N sux:niŋ[thing]N sux:ugu[cvne]N sux:de[pour]V/t sux:šu[hand]N sux:šanšaša[cvve]V/t
+c.2.2.2,The lament for Urim,,371,sux:e[house]N sux:lu[person]N sux:niŋ[thing]N sux:ugu-de[disappear]V/t sux:de[pour]V/t sux:šu[hand]N sux:šu-šanšaša[search]V/t
 c.2.2.2,The lament for Urim,,372,sux:šeg[brick]N sux:e[house]N sux:zid[right]V/i sux:lulu[man]N sux:mea[where?]QP sux:dug[speak]V/t
 c.2.2.2,The lament for Urim,,373,sux:nin[lady]N sux:e[house]N sux:e[leave]V/i sux:me[be]V/i sux-x-emesal:uru[city]N sux:e[leave]V/i
 c.2.2.2,The lament for Urim,,374,sux:enše[how-long]QP sux-x-emesal:uru[city]N sux:luʾerim[evildoer]N sux:bar[outside]V/t sux:gub[stand]V/i
@@ -408,7 +408,7 @@ c.2.2.2,The lament for Urim,,403,sux:ud[storm]N sux:dam[spouse]N sux:zu[know]V/t
 c.2.2.2,The lament for Urim,,404,sux:ud[storm]N sux:nin[sister]N sux:zu[know]V/t sux:re[that]DP sux:ud[storm]N sux:šeš[brother]N sux:zu[know]V/t sux:re[that]DP
 c.2.2.2,The lament for Urim,,405,sux:ud[storm]N sux:usar[neighbor]N sux:zu[know]V/t sux:re[that]DP sux:ud[storm]N sux:malag[neighbor]N sux:zu[know]V/t sux:re[that]DP
 c.2.2.2,The lament for Urim,,406,sux:ud[storm]N sux:dam[spouse]N sux:šub[fall]V/t sux:ud[storm]N sux:dumu[child]N sux:šub[fall]V/t sux:re[that]DP
-c.2.2.2,The lament for Urim,,407,sux:ud[storm]N sux:ud[sun]N sux:kalam[land]N sux:ugu[cvne]N sux:de[pour]V/t sux:re[that]DP
+c.2.2.2,The lament for Urim,,407,sux:ud[storm]N sux:ud[sun]N sux:kalam[land]N sux:ugu-de[disappear]V/t sux:de[pour]V/t sux:re[that]DP
 c.2.2.2,The lament for Urim,,408,sux:ud[storm]N sux:hulu[bad]V/i sux:gig[sick]V/i sux:dug[speak]V/t sux:Enlil[1]DN sux:zal[pass]V/t sux:re[that]DP
 c.2.2.2,The lament for Urim,,409,sux:aya[father]N sux:Nanna[1]DN sux:ud[storm]N sux-x-emesal:uru[city]N sux:ki[place]N sux:ŋar[place]V/t
 c.2.2.2,The lament for Urim,,410,sux:uŋ[people]N sux:saŋ[head]N sux:giggi[black]V/i sux:igi[eye]N sux:du[spread]V/t

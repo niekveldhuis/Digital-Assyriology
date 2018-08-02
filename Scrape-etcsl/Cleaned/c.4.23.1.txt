@@ -1,12 +1,12 @@
-id_text,text_name,version,l_no,text
+etcsl_no,text_name,version,l_no,text
 c.4.23.1,A hymn to Ninkasi (Ninkasi A),,1,sux:a[water]N sux:zal[pass]V/t sux:utud[bear]V/t
 c.4.23.1,A hymn to Ninkasi (Ninkasi A),,2,sux:Ninhursaŋak[1]DN sux:mi[cvne]N sux:zid[right]V/i sux:dug[speak]V/t
 c.4.23.1,A hymn to Ninkasi (Ninkasi A),,3,sux:Ninkasik[1]DN sux:a[water]N sux:zal[pass]V/t sux:utud[bear]V/t
 c.4.23.1,A hymn to Ninkasi (Ninkasi A),,4,sux:Ninhursaŋak[1]DN sux:mi[cvne]N sux:zid[right]V/i sux:dug[speak]V/t
 c.4.23.1,A hymn to Ninkasi (Ninkasi A),,5,sux:iri[city]N sux:lal₃.HI×AŠ₂[wax]N sux:ki[place]N sux:us[follow]V/t
-c.4.23.1,A hymn to Ninkasi (Ninkasi A),,6,sux:bad[wall]N sux:gal[big]V/i sux:šu[hand]N sux:du[push]V/t
+c.4.23.1,A hymn to Ninkasi (Ninkasi A),,6,sux:bad[wall]N sux:gal[big]V/i sux:šu[hand]N sux:šu-du[complete]V/t
 c.4.23.1,A hymn to Ninkasi (Ninkasi A),,7,sux:Ninkasik[1]DN sux:iri[city]N sux:lal₃.HI×AŠ₂[wax]N sux:ki[place]N sux:us[follow]V/t
-c.4.23.1,A hymn to Ninkasi (Ninkasi A),,8,sux:bad[wall]N sux:gal[big]V/i sux:šu[hand]N sux:du[push]V/t
+c.4.23.1,A hymn to Ninkasi (Ninkasi A),,8,sux:bad[wall]N sux:gal[big]V/i sux:šu[hand]N sux:šu-du[complete]V/t
 c.4.23.1,A hymn to Ninkasi (Ninkasi A),,9,sux:aya[father]N sux:Enki[1]DN sux:en[lord]N sux:Nudimmud[1]DN
 c.4.23.1,A hymn to Ninkasi (Ninkasi A),,10,sux:ama[mother]N sux:Ninti[1]DN sux:nin[lady]N sux:abzu[water]N
 c.4.23.1,A hymn to Ninkasi (Ninkasi A),,11,sux:Ninkasik[1]DN sux:aya[father]N sux:Enki[1]DN sux:en[lord]N sux:Nudimmud[1]DN
@@ -40,9 +40,9 @@ c.4.23.1,A hymn to Ninkasi (Ninkasi A),,38,sux:dida[wort]N sux:dug[pot]N
 c.4.23.1,A hymn to Ninkasi (Ninkasi A),,39,sux:Ninkasik[1]DN
 c.4.23.1,A hymn to Ninkasi (Ninkasi A),,40,sux:dida[wort]N sux:dug[pot]N
 c.4.23.1,A hymn to Ninkasi (Ninkasi A),,41,sux:niŋdurburu[vat]N sux:gu[voice]N sux:nun[prince]N sux:dug[speak]V/t
-c.4.23.1,A hymn to Ninkasi (Ninkasi A),,42,sux:lahtan[vat]N sux:mah[great]V/i sux:sisa[straighten]V/t
+c.4.23.1,A hymn to Ninkasi (Ninkasi A),,42,sux:lahtan[vat]N sux:mah[great]V/i sux:si-sa[straighten]V/t
 c.4.23.1,A hymn to Ninkasi (Ninkasi A),,43,sux:Ninkasik[1]DN sux:niŋdurburu[vat]N sux:gu[voice]N sux:nun[prince]N sux:dug[speak]V/t
-c.4.23.1,A hymn to Ninkasi (Ninkasi A),,44,sux:lahtan[vat]N sux:mah[great]V/i sux:sisa[straighten]V/t
+c.4.23.1,A hymn to Ninkasi (Ninkasi A),,44,sux:lahtan[vat]N sux:mah[great]V/i sux:si-sa[straighten]V/t
 c.4.23.1,A hymn to Ninkasi (Ninkasi A),,45,sux:kaš[beer]N sux:sim[sieve]V/t sux:lahtan[vat]N sux:de[pour]V/t
 c.4.23.1,A hymn to Ninkasi (Ninkasi A),,46,sux:Idigna[1]WN sux:Buranun[1]WN sux:saŋ[head]N sux:sig[put]V/t
 c.4.23.1,A hymn to Ninkasi (Ninkasi A),,47,sux:Ninkasik[1]DN sux:kaš[beer]N sux:sim[sieve]V/t sux:lahtan[vat]N sux:de[pour]V/t

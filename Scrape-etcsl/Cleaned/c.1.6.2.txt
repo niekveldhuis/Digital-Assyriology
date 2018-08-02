@@ -1,4 +1,4 @@
-id_text,text_name,version,l_no,text
+etcsl_no,text_name,version,l_no,text
 c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,0,sux:An[1]DN sux:lugal[king]N sux:diŋir[deity]N sux:nirŋal[authoritative]AJ
 c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,1,sux:lugal[king]N sux:ud[storm]N sux:melim[splendor]N sux:nirŋal[authoritative]AJ
 c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,2,sux:Ninurtak[1]DN sux:saŋkal[foremost]AJ sux:usu[strength]N sux:mah[great]V/i sux:tuku[acquire]V/t sux:kur[mountain]N sux:aga[rear]N sux:de[bring]V/t
@@ -8,7 +8,7 @@ c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,5,sux:en[lord]N sux:šu[h
 c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,6,sux:gu[neck]N sux:šeg[agree]V/t sux:še[barley]N sux:gur[reap]V/t sux:sub[rub]V/t
 c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,7,sux:Ninurtak[1]DN sux:lugal[king]N sux:dumu[child]N sux:aya[father]N sux:kalag[strong]V/i sux:hul[rejoice]V/i
 c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,8,sux:ursaŋ[hero]N sux:ni[fear]N sux:ulu[wind]N sux:kur[mountain]N sux:dul[cover]V/t
-c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,9,sux:Ninurtak[1]DN sux:aga[tiara]N sux:zid[right]V/i sux:tirana[rainbow]N sux:igi[eye]N sux:nim[fly]N sux:ŋir[flash]V/i sux:du[push]V/t
+c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,9,sux:Ninurtak[1]DN sux:aga[tiara]N sux:zid[right]V/i sux:tirana[rainbow]N sux:igi[eye]N sux:nim-ŋir[flash]V/t sux:ŋir[flash]V/i sux:šu-du[complete]V/t
 c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,10,sux:sum[beard]N sux:nun[prince]N sux:a[water]N sux:zagin[lapis]N sux:ri[impose]V/t sux:ušum[snake]N sux:ni[self]RP sux:gur[turn]V/i
 c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,11,sux:zag[side]N sux:piriŋ[lion]N sux:muš[snake]N sux:eme[tongue]N sux:e[leave]V/i sux:kurku[thunder]N sux:kag[mouth]N sux:sil[split]V/i
 c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,12,sux:Ninurtak[1]DN sux:lugal[king]N sux:Enlil[1]DN sux:ni[self]RP sux:dirig[float]V/i
@@ -88,12 +88,12 @@ c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,85,sux:dud[mound]N sux:du
 c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,86,sux:udub[coal]N sux:šeŋ[rain]V/i sux:izi[fire]N sux:sud[distant]V/i sux:izi[fire]N sux:lu[person]N sux:zal[pass]V/t
 c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,87,sux:ŋeš[tree]N sux:mah[great]V/i sux:ur[root]N sux:bala[turn]V/t sux:tir[forest]N sux:guru[grind]V/t sux:e[leave]V/i
 c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,88,sux:ki[place]N sux:šag[heart]N sux:šu[hand]N sux:ri[impose]V/t sux:aya[cry]N sux:gig[sick]V/i sux:e[leave]V/i
-c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,89,sux:Idigna[1]WN sux:suh[confuse]V/t sux:ur[convulsed]V/i sux:lu[mix]V/t sux:šu[hand]N sux:tubul[cvve]V/t
+c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,89,sux:Idigna[1]WN sux:suh[confuse]V/t sux:ur[convulsed]V/i sux:lu[mix]V/t sux:šu[hand]N sux:šu-tubul[mix]V/t
 c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,90,sux:Makarnuntaea[1]ON sux:me[battle]N sux:ŋiri[foot]N sux:ul[hasten]V/i
 c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,91,sux:uŋ[people]N sux:ki[place]N sux:ŋen[go]V/i sux:zu[know]V/t sux:egar[wall]N sux:du[build]V/t sux:ak[do]V/t
 c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,92,sux:mušen[bird]N sux:dal[fly]V/t sux:saŋ[head]N sux:de[bring]V/t sux:a[arm]N sux:ki[place]N sux:teŋ[approach]V/i
 c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,93,sux:kud[fish]N sux:engur[waters]N sux:ud[storm]N sux:rah[beat]V/t sux:kag[mouth]N sux:ba[allot]V/t
-c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,94,sux:eden[back]N sux:mašanše[animals]N sux:ukuk[burn]V/t sux:dug[speak]V/t sux:bir[locust]N sux:šu[hand]N sux:huz[cvve]V/t
+c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,94,sux:eden[back]N sux:mašanše[animals]N sux:ukuk[burn]V/t sux:dug[speak]V/t sux:bir[locust]N sux:šu[hand]N sux:šu-huz[burn]V/t
 c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,95,sux:aŋi[wave]N sux:zig[rise]V/t sux:gul[destroy]V/t sux:kur[mountain]N sux:gul[destroy]V/t
 c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,96,sux:ursaŋ[hero]N sux:Ninurtak[1]DN sux:kibala[rebel-land]N sux:im.ma.DU[advance?]N sux:tuku[acquire]V/t
 c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,97,sux:lu[person]N sux:im[run]V/i sux:kur[mountain]N sux:rah[beat]V/t sux:iri[city]N sux:budug[mold]V/t sux:za[cvve]V/t
@@ -174,7 +174,7 @@ c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,171,sux:uridim[dog]N sux:
 c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,172,sux:a[water]N sux:dag[side]N sux:sur[press]V/t
 c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,173,sux:Asag[1]DN sux:Ninurtak[1]DN sux:dumu[child]N sux:Enlil[1]DN sux:egar[wall]N sux:gul[destroy]V/t
 c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,174,sux:ud[storm]N sux:namtaga[sin]N sux:gu[voice]N sux:huš[reddish]V/i sux:rah[beat]V/t
-c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,175,sux:mušsaŋkal[snake]N sux:kalam[land]N sux:šeg[voice]N sux:gi[turn]V/i
+c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,175,sux:mušsaŋkal[snake]N sux:kalam[land]N sux:šeg-gi[make-noise]V/t sux:gi[turn]V/i
 c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,176,sux:kur[mountain]N sux:a[water]N sux:ah[dry]V/i sux:šinig[tamarisk]N sux:ur[drag]V/t
 c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,177,sux:ki[place]N sux:su[flesh]N sux:dar[split]V/t sux:sim[carbuncle]N sux:ŋar[place]V/t
 c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,178,sux:gi[thicket]N sux:izi[fire]N sux:šum[give]V/t sux:an[sky]N sux:uš[blood]N sux:tu[cvve]V/t
@@ -268,7 +268,7 @@ c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,277,sux:amaš[sheepfold]N
 c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,278,sux:ud[storm]N sux:teš[vigor]N sux:ri[impose]V/t sux:uŋ[people]N sux:til[complete]V/i sux:ašudu[resources]N sux:tuku[acquire]V/t
 c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,279,sux:luʾerim[evildoer]N sux:zi[life]N sux:šag[heart]N sux:ŋal[be]V/i
 c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,280,sux:ursaŋ[hero]N sux:gal[big]V/i sux:en[lord]N sux:gaba[chest]N sux:zig[rise]V/t sux:sig[silent]N sux:dug[speak]V/t
-c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,281,sux:en[lord]N sux:kur[mountain]N sux:dumdam[sound]N sux:za[cvve]V/t sux:šeg[voice]N sux:gi[turn]V/i sux:gul[destroy]V/t
+c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,281,sux:en[lord]N sux:kur[mountain]N sux:dum-dam[rumbling-noise]N sux:za[cvve]V/t sux:šeg-gi[make-noise]V/t sux:gi[turn]V/i sux:gul[destroy]V/t
 c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,282,sux:ursaŋ[hero]N sux:gu[voice]N sux:kibala[rebel-land]N sux:de[pour]V/t sux:IGI.U[unmng]N sux:ŋar[place]V/t
 c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,283,sux:niŋ[thing]N sux:hulu[bad]V/i sux:ZI[ZI]V sux:gi[turn]V/i
 c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,284,sux:guʾerim[hostile]N sux:saŋ[head]N sux:ŋeš[tree]N sux:rah[beat]V/t sux:kur[mountain]N sux:isiš[tears]N sux:ŋar[place]V/t
@@ -300,7 +300,7 @@ c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,309,sux:Šarur[1]DN sux:a
 c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,310,sux:en[lord]N sux:mes[tree]N sux:mah[great]V/i sux:gana[field]N sux:a[water]N sux:dug[speak]V/t sux:ursaŋ[hero]N sux:aba[who?]QP sux:zaʾe[you]IP
 c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,311,sux:lugal[king]N sux:zag[side]N sux:til[complete]V/i sux:gub[stand]V/i sux:utud[bear]V/t
 c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,312,sux:Ninurtak[1]DN sux:udata[hereafter]MA sux:kur[mountain]N sux:lu[person]N sux:zig[rise]V/t
-c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,313,sux:lugal[king]N sux:šeg[voice]N sux:dili[single]V/i sux:gi[turn]V/i
+c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,313,sux:lugal[king]N sux:šeg-gi[make-noise]V/t sux:dili[single]V/i sux:gi[turn]V/i
 c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,314,sux:ŋešgana[tree]N sux:agin[thus]N sux:mi[cvne]N sux:tag[touch]V/t
 c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,315,sux:mir[wind]N sux:kibala[rebel-land]N sux:dug[speak]V/t
 c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,316,sux:en[lord]N sux:Ninurtak[1]DN
@@ -357,11 +357,11 @@ c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,371,sux:ilu[song]N sux:ku
 c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,372,sux-x-emesal:umun[lord]N sux:a[arm]N sux:mah[great]V/i sux:kur[mountain]N sux:il[raise]V/t
 c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,373,sux:ursaŋ[hero]N sux:gal[big]V/i sux:an[sky]N sux:ib[angry]V/i sux:a[arm]N sux:lu[person]N sux:teŋ[approach]V/i
 c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,374,sux:ud[storm]N sux:sumur[angry]V/i sux:ki[place]N sux:ŋen[go]V/i sux:uš[poison]N sux:gaba[chest]N sux:ŋar[place]V/t
-c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,375,sux:en[lord]N sux-x-emesal:ši[life]N sux-x-emesal:Enlil[1]DN sux:men[tiara]N sux:saŋ[head]N sux:du[push]V/t
+c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,375,sux:en[lord]N sux-x-emesal:ši[life]N sux-x-emesal:Enlil[1]DN sux:men[tiara]N sux:saŋ[head]N sux:šu-du[complete]V/t
 c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,376,sux:zu[know]V/t
 c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,377,sux-x-emesal:šerŋal[authoritative]AJ sux:saŋ[head]N sux-x-emesal:zeŋ[give]V/t sux:dam[spouse]N sux:gub[stand]V/i
 c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,378,sux-x-emesal:mudna[spouse]N sux:utud[bear]V/t sux:us[follow]V/t sux:hur[ever]N sux:ŋar[place]V/t
-c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,379,sux-x-emesal:dumu[child]N sux-x-emesal:Enlil[1]DN sux:šu[hand]N sux:dag[demolish]V/t sux-x-emesal:ibi[eye]N sux:il[raise]V/t
+c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,379,sux-x-emesal:dumu[child]N sux-x-emesal:Enlil[1]DN sux:šu[hand]N sux:šu-dag[roam-around]V/t sux-x-emesal:ibi[eye]N sux:il[raise]V/t
 c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,380,sux:šul[youth]V/i sux:zid[right]V/i sux:munus[woman]N sux:zid[right]V/i sux:dug[speak]V/t
 c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,381,sux:Ešumeša[1]TN sux:ki[place]N sux-x-emesal:ibi[eye]N sux:il[raise]V/t sux:ŋen[go]V/i
 c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,382,sux:gu[cord]N sux:kud[cut]V/t sux-x-emesal:umun[lord]N sux:ir[mighty]AJ
@@ -456,7 +456,7 @@ c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,470,sux:Ninurtak[1]DN sux
 c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,471,sux:kur[mountain]N sux:iginim[land]N sux:zig[rise]V/t
 c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,472,sux:kur[mountain]N sux:Magan[1]GN sux:ŋar[place]V/t
 c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,473,sux:zaʾe[you]IP sux:Urud[1]DN sux:niŋ[thing]N sux:kalag[strong]V/i sux:kuš[skin]N sux:HI[HI]V
-c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,474,sux:en[lord]N sux:a[arm]N sux:namursaŋ[heroism]N sux:šu[hand]N sux:gal[big]V/i sux:du[push]V/t
+c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,474,sux:en[lord]N sux:a[arm]N sux:namursaŋ[heroism]N sux:šu[hand]N sux:gal[big]V/i sux:šu-du[complete]V/t
 c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,475,sux:lugal[king]N sux:ud[sun]N sux:sud[distant]V/i sux:mu[name]N sux:ŋar[place]V/t
 c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,476,sux:alan[statue]N sux:ud[sun]N sux:ul[distant]V/i sux:dim[create]V/t
 c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,477,sux:Eninnu[1]TN sux:e[house]N sux:kirizal[joy]N sux:si[fill]V/t
@@ -476,7 +476,7 @@ c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,490,sux:kibala[rebel-land
 c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,491,sux:silim[healthy]V/i sux:be[diminish]V/t
 c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,492,sux:gur[thick]V/i sux:tur[small]V/i sux:gig[sick]V/i
 c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,493,sux:me[Being]N sux:bar[outside]V/t sux:si[horn]N sux:sa[equal]V/t
-c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,494,sux:tukul[weapon]N sux:sag[beat]V/t sux:ursaŋ[hero]N sux:uš[die]V/i sux:šu[hand]N sux:gal[big]V/i sux:du[push]V/t
+c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,494,sux:tukul[weapon]N sux:sag[beat]V/t sux:ursaŋ[hero]N sux:uš[die]V/i sux:šu[hand]N sux:gal[big]V/i sux:šu-du[complete]V/t
 c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,495,sux:kisal[courtyard]N sux:mah[great]V/i sux:kigal[platform]N sux:ri[impose]V/t
 c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,496,sux:kalam[land]N sux:u[admiration]N sux:dug[good]V/i sux:dug[speak]V/t sux:kur[mountain]N sux:e[leave]V/i
 c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,497,sux:ursaŋ[hero]N sux:kagina[stone]N sux:gub[stand]V/i
@@ -497,11 +497,11 @@ c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,511,sux:ud[sun]N sux:kagi
 c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,512,sux:ursaŋ[hero]N sux:ŋešnugal[alabaster]N sux:gub[stand]V/i
 c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,513,sux:Ninurtak[1]DN sux:dumu[child]N sux:Enlil[1]DN sux:nam[fate]N sux:tar[cut]V/t
 c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,514,sux:ŋešnu[alabaster]N sux:su[flesh]N sux:ud[sun]N sux:kar[blow]V/t
-c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,515,sux:kug[metal]N sux:luh[clean]V/t sux:šul[youth]V/i sux:egal[palace]N sux:du[push]V/t
+c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,515,sux:kug[metal]N sux:luh[clean]V/t sux:šul[youth]V/i sux:egal[palace]N sux:šu-du[complete]V/t
 c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,516,sux:šu[hand]N sux:dili[single]V/i sux:zig[rise]V/t
 c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,517,sux:saŋ[head]N sux:kur[mountain]N sux:ki[place]N sux:sub[rub]V/t
 c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,518,sux:tukul[weapon]N sux:sag[beat]V/t sux:a[arm]N sux:gur[turn]V/i
-c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,519,sux:ursaŋ[hero]N sux:šeg[voice]N sux:gi[turn]V/i sux:gub[stand]V/i
+c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,519,sux:ursaŋ[hero]N sux:šeg-gi[make-noise]V/t sux:gi[turn]V/i sux:gub[stand]V/i
 c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,520,sux:niŋ[thing]N sux:sag[good]V/i sux:mu[name]N sux:pad[find]V/t
 c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,521,sux:erim[storeroom]N sux:kalam[land]N sux:šu[hand]N sux:si[fill]V/t sux:kišibŋal[seal-bearer]N sux:me[be]V/i
 c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,521A,sux:Anunak[1]DN
@@ -540,7 +540,7 @@ c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,553,sux:a[water]N sux:dug
 c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,554,sux:lugal[king]N sux:imanak[stone]N sux:gub[stand]V/i
 c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,555,sux:alliga[stone]N sux:gu[voice]N sux:de[pour]V/t
 c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,556,sux:Ninurtak[1]DN sux:dumu[child]N sux:Enlil[1]DN sux:nam[fate]N sux:tar[cut]V/t
-c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,557,sux:imanak[stone]N sux:kur[mountain]N sux:šeg[voice]N sux:gi[turn]V/i
+c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,557,sux:imanak[stone]N sux:kur[mountain]N sux:šeg-gi[make-noise]V/t sux:gi[turn]V/i
 c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,558,sux:gu[voice]N sux:huš[reddish]V/i sux:me[battle]N sux:gu[voice]N sux:huš[reddish]V/i sux:rah[beat]V/t
 c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,559,sux:izi[fire]N sux:la[hang]V/t
 c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,560,sux:ud[storm]N sux:dub[heap]V/t
@@ -559,7 +559,7 @@ c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,572,sux:kibala[rebel-land
 c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,573,sux:kur[mountain]N sux:Saba[1]GN sux:gub[stand]V/i
 c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,574,sux:mašda[stone]N sux:udu[sheep]N sux:sur[press]V/t
 c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,575,sux:dubban[stone]N sux:niŋ[thing]N sux:zir[break]V/t sux:sag[beat]V/t
-c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,576,sux:urutu[stone]N sux:mitum[weapon]N sux:usar[cvne]N sux:ak[do]V/t
+c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,576,sux:urutu[stone]N sux:mitum[weapon]N sux:usar-ak[sharpen]V/t sux:ak[do]V/t
 c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,577,sux:zabar[bronze]N sux:hutpu[arrowhead]N sux:diŋir[deity]N
 c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,578,sux:ŋiri[dagger]N sux:huš[reddish]V/i sux:sa[sting]V/t sux:giŋ[ax]N sux:sag[beat]V/t
 c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,579,sux:lugal[king]N sux:šagara[stone]N sux:gub[stand]V/i
@@ -570,7 +570,7 @@ c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,583,sux:me[battle]N sux:l
 c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,584,sux:ad.KID[weaver]N sux:gi[reed]N sux:gud[jump]V/t sux:kinud[bedroom]N sux:šub[fall]V/t
 c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,585,sux:ama[mother]N sux:ugu[bear]V/t sux:tur[small]V/i sux:zig[rise]V/t sux:dug[speak]V/t
 c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,586,sux:aʾaš[supplies]N sux:lu[person]N sux:til[live]V/i
-c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,587,sux:ugu[cvne]N sux:de[pour]V/t sux:uŋ[people]N sux:dug[speak]V/t
+c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,587,sux:ugu-de[disappear]V/t sux:de[pour]V/t sux:uŋ[people]N sux:dug[speak]V/t
 c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,588,sux:me[Being]N sux:dari[eternal]V/i sux:du[build]V/t sux:ki[place]N sux:ni[self]RP sux:dub[tremble]V/t sux:Ninhursaŋak[1]DN
 c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,589,sux:kag[mouth]N sux:tar[cut]V/t sux:barag[sanctum]N sux:gurud[throw]V/t
 c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,590,sux:dida[wort]N sux:nam[fate]N sux:udu[sheep]N sux:lu[person]N sux:sil[split]V/i
@@ -581,14 +581,14 @@ c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,594,sux:marhuša[stone]N 
 c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,595,sux:šerda[crime]N sux:iri[city]N sux:šub[fall]V/t sux:ak[do]V/t
 c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,596,sux:bur[bowl]N sux:šaŋan[flask]N sux:me[be]V/i sux:a[water]N sux:sim[sieve]V/t
 c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,597,sux:marhuša[stone]N sux:ugunu[decoration]N sux:tag[touch]V/t sux:en[lord]N sux:sag[good]V/i
-c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,598,sux:kirid[clasp]N sux:kug[pure]V/i sux:šu[hand]N sux:gal[big]V/i sux:du[push]V/t
+c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,598,sux:kirid[clasp]N sux:kug[pure]V/i sux:šu[hand]N sux:gal[big]V/i sux:šu-du[complete]V/t
 c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,599,sux:marhuša[stone]N sux:e[house]N sux:diŋir[deity]N sux:mete[appropriate-thing]N sux:ŋal[be]V/i
 c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,600,sux:ursaŋ[hero]N sux:haštum[stone]N sux:gub[stand]V/i
 c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,601,sux:en[lord]N sux:ib[angry]V/i sux:kalam[land]N sux:inim[word]N sux:dug[speak]V/t
 c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,602,sux:Ninurtak[1]DN sux:dumu[child]N sux:Enlil[1]DN sux:nam[fate]N sux:tar[cut]V/t
-c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,603,sux:haštum[stone]N sux:kur[mountain]N sux:šeg[voice]N sux:gi[turn]V/i
+c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,603,sux:haštum[stone]N sux:kur[mountain]N sux:šeg-gi[make-noise]V/t sux:gi[turn]V/i
 c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,604,sux:gu[voice]N sux:huš[reddish]V/i sux:me[battle]N sux:gu[voice]N sux:huš[reddish]V/i sux:rah[beat]V/t
-c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,605,sux:šeg[voice]N sux:gi[turn]V/i sux:lil[ghost]N sux:kur[mountain]N sux:gin[firm]V/i
+c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,605,sux:šeg-gi[make-noise]V/t sux:gi[turn]V/i sux:lil[ghost]N sux:kur[mountain]N sux:gin[firm]V/i
 c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,606,sux:ŋuruš[male]N sux:haštum[stone]N sux:ki[place]N sux:tag[touch]V/t sux:mu[name]N sux:še[call]V/t
 c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,607,sux:ineš[now]MA sux:nam[fate]N sux:tar[cut]V/t sux:Ninurtak[1]DN
 c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,608,sux:ud[sun]N sux:haštum[stone]N sux:dug[speak]V/t sux:ur[he]IP sux:me[be]V/i
@@ -650,8 +650,8 @@ c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,663,sux:mu[name]N sux:si[
 c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,664,sux:e[house]N sux:niŋdu[appropriate-thing]N sux:pa[branch]N sux:e[leave]V/i
 c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,665,sux:eš[shrine]N sux:sahar[soil]N sux:il[raise]V/t
 c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,666,sux:ezem[festival]N sux:niŋ[thing]N sux:gal[big]V/i
-c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,667,sux:ŋarza[rites]N sux:kug[pure]V/i sux:šu[hand]N sux:du[push]V/t
-c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,668,sux:mu[name]N sux:namtil[life]N sux:dug[speak]V/t sux:du[push]V/t sux:kalam[land]N sux:e[leave]V/i
+c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,667,sux:ŋarza[rites]N sux:kug[pure]V/i sux:šu[hand]N sux:šu-du[complete]V/t
+c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,668,sux:mu[name]N sux:namtil[life]N sux:dug[speak]V/t sux:šu-du[complete]V/t sux:kalam[land]N sux:e[leave]V/i
 c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,669,sux:en[lord]N sux:šag[heart]N sux:An[1]DN sux:huŋ[hire]V/t
 c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,670,sux:ne[strength]N sux:Enlil[1]DN sux:Ninurtak[1]DN
 c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,671,sux:kisikil[woman]N sux:ama[mother]N sux:Bau[1]DN sux:ud[sun]N sux:e[leave]V/i
@@ -684,7 +684,7 @@ c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,697,sux:lugal[king]N sux:
 c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,698,sux:ursaŋ[hero]N sux:Asag[1]DN sux:uš[die]V/i
 c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,699,sux:en[lord]N sux:gurum[pile]N sux:ak[do]V/t
 c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,700,sux:na[stone]N sux:sa[equal]V/t sux:dug[speak]V/t
-c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,701,sux:ušum[snake]N sux:šeg[voice]N sux:gi[turn]V/i sux:UD[UD]V
+c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,701,sux:ušum[snake]N sux:šeg-gi[make-noise]V/t sux:gi[turn]V/i sux:UD[UD]V
 c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,702,sux:ursaŋ[hero]N sux:a[water]N sux:saŋ[head]N sux:an[sky]N sux:ŋiri[foot]N sux:ŋar[place]V/t
 c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,703,sux:gana[field]N sux:zid[right]V/i sux:šu[hand]N sux:gi[turn]V/i
 c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,704,sux:apin[plow]N sux:heŋal[plenty]N sux:pa[branch]N sux:e[leave]V/i

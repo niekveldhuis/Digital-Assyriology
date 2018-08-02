@@ -1,4 +1,4 @@
-id_text,text_name,version,l_no,text
+etcsl_no,text_name,version,l_no,text
 c.4.08.20,A kunŋar to Inana (Dumuzid-Inana T),,1,sux:sed[cold]V/i sux:sed[cold]V/i
 c.4.08.20,A kunŋar to Inana (Dumuzid-Inana T),,2,sux:kug[pure]V/i sux:Inanak[1]DN sux:u[grass]N sux:bur[tear]V/t sux:bur[tear]V/t
 c.4.08.20,A kunŋar to Inana (Dumuzid-Inana T),,3,sux:lu[person]N sux:zulum[date]N sux:deg[collect]V/t sux-x-emesal:mušnimmar[palm]N
@@ -22,7 +22,7 @@ c.4.08.20,A kunŋar to Inana (Dumuzid-Inana T),,20,sux:tumšugur[ring?]N sux:sag
 c.4.08.20,A kunŋar to Inana (Dumuzid-Inana T),,21,sux:pu[well]N sux:lal[syrup]N sux:a[water]N sux:dug[good]V/i sux:pad[find]V/t sux:ib[hips]N sux:ŋar[place]V/t
 c.4.08.20,A kunŋar to Inana (Dumuzid-Inana T),,22,sux:ŋešnugal[alabaster]N sux:zalag[shine]V/i sux:pad[find]V/t sux:haš[thigh]N sux:ŋar[place]V/t
 c.4.08.20,A kunŋar to Inana (Dumuzid-Inana T),,23,sux:kim[willow]N sux:siki[hair]N sux:giggi[black]V/i sux:pad[find]V/t sux:gala[vulva]N sux:ŋar[place]V/t
-c.4.08.20,A kunŋar to Inana (Dumuzid-Inana T),,24,sux:suhub[boots]N sux:du[push]V/t sux:pad[find]V/t sux-x-emesal:merisi[toe]N sux:ŋar[place]V/t
+c.4.08.20,A kunŋar to Inana (Dumuzid-Inana T),,24,sux:suhub[boots]N sux:šu-du[complete]V/t sux:pad[find]V/t sux-x-emesal:merisi[toe]N sux:ŋar[place]V/t
 c.4.08.20,A kunŋar to Inana (Dumuzid-Inana T),,25,sux:sagida[notation]N
 c.4.08.20,A kunŋar to Inana (Dumuzid-Inana T),,26,sux:lu[person]N sux:dud[mound]N sux:zagin[lapis]N sux:deg[collect]V/t sux:en[lord]N sux:gaba[chest]N sux:ri[impose]V/t
 c.4.08.20,A kunŋar to Inana (Dumuzid-Inana T),,27,sux:Inanak[1]DN sux:dud[mound]N sux:zagin[lapis]N sux:deg[collect]V/t sux:Dumuzid[1]DN sux:gaba[chest]N sux:ri[impose]V/t

@@ -1,4 +1,4 @@
-id_text,text_name,version,l_no,text
+etcsl_no,text_name,version,l_no,text
 c.4.08.30,A song of Inana and Dumuzid (Dumuzid-Inana D1),,1,sux:Etemenniguru[1]TN
 c.4.08.30,A song of Inana and Dumuzid (Dumuzid-Inana D1),,2,sux:e[house]N sux-x-emesal:Eridug[1]SN sux:šu[hand]N sux:si[horn]N sux:sa[equal]V/t
 c.4.08.30,A song of Inana and Dumuzid (Dumuzid-Inana D1),,3,sux:e[house]N sux:Suen[1]DN sux:dadag[bright]V/i
@@ -16,11 +16,11 @@ c.4.08.30,A song of Inana and Dumuzid (Dumuzid-Inana D1),,14,sux:ud[sun]N sux:ki
 c.4.08.30,A song of Inana and Dumuzid (Dumuzid-Inana D1),,15,sux:ud[sun]N sux-x-emesal:umun[lord]N sux:mi[cvne]N sux:zig[rise]V/t
 c.4.08.30,A song of Inana and Dumuzid (Dumuzid-Inana D1),,16,sux-x-emesal:umun[lord]N sux:namtil[life]N sux-x-emesal:zeŋ[give]V/t
 c.4.08.30,A song of Inana and Dumuzid (Dumuzid-Inana D1),,17,sux-x-emesal:umun[lord]N sux:ešgiri[staff]N sux:šibir[staff]N sux:šum[give]V/t
-c.4.08.30,A song of Inana and Dumuzid (Dumuzid-Inana D1),,18,sux:al[hoe]N sux:dug[speak]V/t sux:al[hoe]N sux:dug[speak]V/t sux:kinud[bedroom]N sux:al[hoe]N sux:dug[speak]V/t
-c.4.08.30,A song of Inana and Dumuzid (Dumuzid-Inana D1),,19,sux:kinud[bedroom]N sux:šag[heart]N sux:hul[rejoice]V/i sux:al[hoe]N sux:dug[speak]V/t sux:kinud[bedroom]N sux:al[hoe]N sux:dug[speak]V/t
-c.4.08.30,A song of Inana and Dumuzid (Dumuzid-Inana D1),,20,sux:kinud[bedroom]N sux:ur[root]N sux-x-emesal:zeb[good]V/i sux:al[hoe]N sux:dug[speak]V/t sux:kinud[bedroom]N sux:al[hoe]N sux:dug[speak]V/t
-c.4.08.30,A song of Inana and Dumuzid (Dumuzid-Inana D1),,21,sux:kinud[bedroom]N sux:namlugal[kingship]N sux:al[hoe]N sux:dug[speak]V/t sux:kinud[bedroom]N sux:al[hoe]N sux:dug[speak]V/t
-c.4.08.30,A song of Inana and Dumuzid (Dumuzid-Inana D1),,22,sux:kinud[bedroom]N sux:namnin[ladyship]N sux:al[hoe]N sux:dug[speak]V/t sux:kinud[bedroom]N sux:al[hoe]N sux:dug[speak]V/t
+c.4.08.30,A song of Inana and Dumuzid (Dumuzid-Inana D1),,18,sux:al-dug[desire]V/t sux:dug[speak]V/t sux:al-dug[desire]V/t sux:dug[speak]V/t sux:kinud[bedroom]N sux:al-dug[desire]V/t sux:dug[speak]V/t
+c.4.08.30,A song of Inana and Dumuzid (Dumuzid-Inana D1),,19,sux:kinud[bedroom]N sux:šag[heart]N sux:hul[rejoice]V/i sux:al-dug[desire]V/t sux:dug[speak]V/t sux:kinud[bedroom]N sux:al-dug[desire]V/t sux:dug[speak]V/t
+c.4.08.30,A song of Inana and Dumuzid (Dumuzid-Inana D1),,20,sux:kinud[bedroom]N sux:ur[root]N sux-x-emesal:zeb[good]V/i sux:al-dug[desire]V/t sux:dug[speak]V/t sux:kinud[bedroom]N sux:al-dug[desire]V/t sux:dug[speak]V/t
+c.4.08.30,A song of Inana and Dumuzid (Dumuzid-Inana D1),,21,sux:kinud[bedroom]N sux:namlugal[kingship]N sux:al-dug[desire]V/t sux:dug[speak]V/t sux:kinud[bedroom]N sux:al-dug[desire]V/t sux:dug[speak]V/t
+c.4.08.30,A song of Inana and Dumuzid (Dumuzid-Inana D1),,22,sux:kinud[bedroom]N sux:namnin[ladyship]N sux:al-dug[desire]V/t sux:dug[speak]V/t sux:kinud[bedroom]N sux:al-dug[desire]V/t sux:dug[speak]V/t
 c.4.08.30,A song of Inana and Dumuzid (Dumuzid-Inana D1),,23,sux-x-emesal:zeb[good]V/i sux-x-emesal:zeb[good]V/i sux:kinud[bedroom]N sux-x-emesal:zeb[good]V/i
 c.4.08.30,A song of Inana and Dumuzid (Dumuzid-Inana D1),,24,sux:kinud[bedroom]N sux:šag[heart]N sux:hul[rejoice]V/i sux-x-emesal:zeb[good]V/i sux:kinud[bedroom]N sux-x-emesal:zeb[good]V/i
 c.4.08.30,A song of Inana and Dumuzid (Dumuzid-Inana D1),,25,sux:kinud[bedroom]N sux:ur[root]N sux-x-emesal:zeb[good]V/i sux-x-emesal:zeb[good]V/i sux:kinud[bedroom]N sux-x-emesal:zeb[good]V/i

@@ -1,4 +1,4 @@
-id_text,text_name,version,l_no,text
+etcsl_no,text_name,version,l_no,text
 c.2.8.3.2,A prayer for Samsu-iluna (Samsu-iluna B),,1,sux:zi[life]N
 c.2.8.3.2,A prayer for Samsu-iluna (Samsu-iluna B),,2,sux:zi[life]N
 c.2.8.3.2,A prayer for Samsu-iluna (Samsu-iluna B),,3,sux:zi[life]N
@@ -23,7 +23,7 @@ c.2.8.3.2,A prayer for Samsu-iluna (Samsu-iluna B),,21,sux:lugal[king]N sux:gu[n
 c.2.8.3.2,A prayer for Samsu-iluna (Samsu-iluna B),,22,sux:Samsuiluna[1]RN sux:gu[neck]N sux:an[sky]N sux:zig[rise]V/t
 c.2.8.3.2,A prayer for Samsu-iluna (Samsu-iluna B),,23,sux:Babylon[1]SN sux:iri[city]N sux:me[Being]N sux:Suen[1]DN sux:namgal[greatness]N sux:ud[sun]N sux:pa[branch]N sux:e[leave]V/i
 c.2.8.3.2,A prayer for Samsu-iluna (Samsu-iluna B),,24,sux:Marduk[1]DN sux:diŋir[deity]N sux:saŋ[head]N sux:du[build]V/t sux:guʾen[entirety]N sux:nun[prince]N sux:saŋ[head]N sux:il[raise]V/t
-c.2.8.3.2,A prayer for Samsu-iluna (Samsu-iluna B),,25,sux:ki[place]N sux:me[battle]N sux:šen[battle]N sux:ŋešla[battle]N sux:dag[side]N sux:ŋala[cvne]N sux:dag[demolish]V/t
+c.2.8.3.2,A prayer for Samsu-iluna (Samsu-iluna B),,25,sux:ki[place]N sux:me[battle]N sux:šen[battle]N sux:ŋešla[battle]N sux:dag[side]N sux:ŋala-dag[cease]V/t sux:šu-dag[roam-around]V/t
 c.2.8.3.2,A prayer for Samsu-iluna (Samsu-iluna B),,26,sux:atah[helper]N sux:tukul[weapon]N sux:me[be]V/i sux:ud[sun]N sux:sud[distant]V/i sux:dirig[float]V/i
 c.2.8.3.2,A prayer for Samsu-iluna (Samsu-iluna B),,27,sux:An[1]DN sux:lugal[king]N sux:diŋir[deity]N sux:zi[life]N sux:ud[sun]N sux:sud[distant]V/i sux:ŋal[be]V/i
 c.2.8.3.2,A prayer for Samsu-iluna (Samsu-iluna B),,28,sux:Enlil[1]DN sux:lugal[king]N sux:kur[mountain]N sux:inim[word]N sux:gin[firm]V/i sux:inim[word]N sux:dugud[heavy]V/i

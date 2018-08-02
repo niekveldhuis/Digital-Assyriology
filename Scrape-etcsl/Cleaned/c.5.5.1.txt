@@ -1,4 +1,4 @@
-id_text,text_name,version,l_no,text
+etcsl_no,text_name,version,l_no,text
 c.5.5.1,The message of Lu-diŋira to his mother,,1,sux:kaš[runner]N sux:lugal[king]N sux:harran[route]N sux:ŋen[go]V/i
 c.5.5.1,The message of Lu-diŋira to his mother,,2,sux:Nibru[1]SN sux:gi[turn]V/i sux:inim[word]N sux:dug[speak]V/t
 c.5.5.1,The message of Lu-diŋira to his mother,,3,sux:kaskal[way]N sux:sud[distant]V/i sux:ŋen[go]V/i
@@ -50,7 +50,7 @@ c.5.5.1,The message of Lu-diŋira to his mother,,47,sux:ŋeškim[sign]N sux:ama[
 c.5.5.1,The message of Lu-diŋira to his mother,,48,sux:ama[mother]N sux:ŋešnimbar[palm]N sux:irsim[fragrance]N sux:dug[good]V/i
 c.5.5.1,The message of Lu-diŋira to his mother,,49,sux:gigir[chariot]N sux:li[juniper]N sux:maršum[bed]N sux:taškarin[boxwood]N
 c.5.5.1,The message of Lu-diŋira to his mother,,50,sux:tug[textile]N sux:sag[good]V/i sux:i[oil]N sux:gal[big]V/i sux:ak[do]V/t
-c.5.5.1,The message of Lu-diŋira to his mother,,51,sux:garan[bunch]N sux:ŋen[go]V/i sux:gu[neck]N sux:mer[cvve]V/t
+c.5.5.1,The message of Lu-diŋira to his mother,,51,sux:garan[bunch]N sux:ŋen[go]V/i sux:gu[neck]N sux:gu-mer[thrive]V/t
 c.5.5.1,The message of Lu-diŋira to his mother,,52,sux:ama[mother]N sux:šaŋan[flask]N sux:nunuz[egg]N sux:ganu[bird]N sux:i[oil]N sux:saŋ[head]N sux:šag[heart]N sux:dirig[float]V/i
 c.5.5.1,The message of Lu-diŋira to his mother,,52A,sux:munus[woman]N sux:sag[good]V/i sux:lammar[deity]N sux:tuku[acquire]V/t
 c.5.5.1,The message of Lu-diŋira to his mother,,52B,sux:munus[woman]N sux:Aruru[1]DN sux:arhuš[womb]N sux:šum[give]V/t sux:utud[bear]V/t

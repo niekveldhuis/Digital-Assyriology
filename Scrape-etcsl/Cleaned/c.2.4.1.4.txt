@@ -1,4 +1,4 @@
-id_text,text_name,version,l_no,text
+etcsl_no,text_name,version,l_no,text
 c.2.4.1.4,Ur-Namma the canal-digger (Ur-Namma D),Nibru,1,sux:aba[who?]QP sux:bal[dig]V/t sux:aba[who?]QP sux:bal[dig]V/t
 c.2.4.1.4,Ur-Namma the canal-digger (Ur-Namma D),Nibru,2,sux:Asilakug[1]WN sux:aba[who?]QP sux:bal[dig]V/t
 c.2.4.1.4,Ur-Namma the canal-digger (Ur-Namma D),Nibru,3,sux:Pabiluh[1]WN sux:aba[who?]QP sux:bal[dig]V/t
@@ -35,11 +35,11 @@ c.2.4.1.4,Ur-Namma the canal-digger (Ur-Namma D),Unknown Provenance,15,sux:ŋidr
 c.2.4.1.4,Ur-Namma the canal-digger (Ur-Namma D),Unknown Provenance,16,sux:šibir[staff]N sux:ešgiri[staff]N sux:uŋ[people]N sux:daŋal[wide]V/i sux:lu[abundant]V/i
 c.2.4.1.4,Ur-Namma the canal-digger (Ur-Namma D),Unknown Provenance,17,sux:en[lord]N sux:Dilimbabbar[1]DN sux:zi[life]N sux:ud[sun]N sux:sud[distant]V/i
 c.2.4.1.4,Ur-Namma the canal-digger (Ur-Namma D),Unknown Provenance,18,sux:Enlil[1]DN sux:ub[corner]N sux:4[4]NU
-c.2.4.1.4,Ur-Namma the canal-digger (Ur-Namma D),Unknown Provenance,19,sux:mu[name]N sux:dari[eternal]V/i sux:mu[name]N sux:kag[mouth]N sux:du[push]V/t
+c.2.4.1.4,Ur-Namma the canal-digger (Ur-Namma D),Unknown Provenance,19,sux:mu[name]N sux:dari[eternal]V/i sux:mu[name]N sux:kag[mouth]N sux:šu-du[complete]V/t
 c.2.4.1.4,Ur-Namma the canal-digger (Ur-Namma D),Unknown Provenance,20,sux:Enki[1]DN sux:ŋeštug[ear]N sux:daŋal[wide]V/i sux:saŋ[head]N sux:rig[donate]V/t
 c.2.4.1.4,Ur-Namma the canal-digger (Ur-Namma D),Unknown Provenance,21,sux:ŋaʾe[I]IP sux:iri[city]N sux:id[river]N sux:heŋal[plenty]N sux:bal[dig]V/t sux:Kešekug[1]WN sux:še[call]V/t
 c.2.4.1.4,Ur-Namma the canal-digger (Ur-Namma D),Unknown Provenance,22,sux:Urim[1]SN sux:id[river]N sux:heŋal[plenty]N sux:bal[dig]V/t sux:Kešekug[1]WN sux:še[call]V/t
-c.2.4.1.4,Ur-Namma the canal-digger (Ur-Namma D),Unknown Provenance,23,sux:mu[name]N sux:dari[eternal]V/i sux:kag[mouth]N sux:du[push]V/t sux:Pabiluh[1]WN sux:mušen[bird]N
+c.2.4.1.4,Ur-Namma the canal-digger (Ur-Namma D),Unknown Provenance,23,sux:mu[name]N sux:dari[eternal]V/i sux:kag[mouth]N sux:šu-du[complete]V/t sux:Pabiluh[1]WN sux:mušen[bird]N
 c.2.4.1.4,Ur-Namma the canal-digger (Ur-Namma D),Unknown Provenance,24,sux:ŋaʾe[I]IP sux:iri[city]N sux:ara[times]N sux:kud[fish]N sux:dirig[float]V/i sux:mušen[bird]N
 c.2.4.1.4,Ur-Namma the canal-digger (Ur-Namma D),Unknown Provenance,25,sux:Urim[1]SN sux:ara[times]N sux:kud[fish]N sux:dirig[float]V/i sux:mušen[bird]N
 c.2.4.1.4,Ur-Namma the canal-digger (Ur-Namma D),Unknown Provenance,26,sux:ŋaʾe[I]IP sux:id[river]N sux:ulal[plant]N sux:du[build]V/t sux:suhur[carp]N sux:gur[thick]V/i
@@ -85,7 +85,7 @@ c.2.4.1.4,Ur-Namma the canal-digger (Ur-Namma D),Urim,26,sux:ur[root]N sux:gin[f
 c.2.4.1.4,Ur-Namma the canal-digger (Ur-Namma D),Urim,27,sux:gu[neck]N sux:am[bull]N sux:šuš[cover]V/t
 c.2.4.1.4,Ur-Namma the canal-digger (Ur-Namma D),Urim,28,sux:kugbabbar[silver]N sux:gub[stand]V/i sux:mirmi[unmng]V
 c.2.4.1.4,Ur-Namma the canal-digger (Ur-Namma D),Urim,29,sux:nari[canal]N sux:ud[sun]N sux:heŋal[plenty]N sux:bala[turn]V/t sux:Kešekug[1]WN sux:še[call]V/t
-c.2.4.1.4,Ur-Namma the canal-digger (Ur-Namma D),Urim,30,sux:mu[name]N sux:dari[eternal]V/i sux:kag[mouth]N sux:du[push]V/t sux:Pabiluh[1]WN sux:še[call]V/t
+c.2.4.1.4,Ur-Namma the canal-digger (Ur-Namma D),Urim,30,sux:mu[name]N sux:dari[eternal]V/i sux:kag[mouth]N sux:šu-du[complete]V/t sux:Pabiluh[1]WN sux:še[call]V/t
 c.2.4.1.4,Ur-Namma the canal-digger (Ur-Namma D),Urim,31,sux:ŋaʾe[I]IP sux:iri[city]N sux:ara[times]N sux:kud[fish]N sux:dal[fly]V/t sux:mušen[bird]N
 c.2.4.1.4,Ur-Namma the canal-digger (Ur-Namma D),Urim,32,sux:Kešekug[1]WN sux:iri[city]N sux:kud[fish]N sux:dal[fly]V/t sux:mušen[bird]N
 c.2.4.1.4,Ur-Namma the canal-digger (Ur-Namma D),Urim,33,sux:Pabiluh[1]WN sux:ara[times]N sux:kud[fish]N sux:dal[fly]V/t sux:mušen[bird]N

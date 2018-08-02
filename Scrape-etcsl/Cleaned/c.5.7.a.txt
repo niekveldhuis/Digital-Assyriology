@@ -1,5 +1,5 @@
-id_text,text_name,version,l_no,text
-c.5.7.a,Public announcement of the loss of a seal,,1,sux:kišib[seal]N sux:mu[name]N sux:sar[write]V/t sux:UrDUN[1]PN sux:damgar[merchant]N sux:ugu[cvne]N sux:de[pour]V/t
+etcsl_no,text_name,version,l_no,text
+c.5.7.a,Public announcement of the loss of a seal,,1,sux:kišib[seal]N sux:mu[name]N sux:sar[write]V/t sux:UrDUN[1]PN sux:damgar[merchant]N sux:ugu-de[disappear]V/t sux:de[pour]V/t
 c.5.7.a,Public announcement of the loss of a seal,,2,sux:inim[word]N sux:puhrum[assembly]N
 c.5.7.a,Public announcement of the loss of a seal,,3,sux:niŋir[herald]N sux:sila[street]N sux:si[horn]N sux:gu[voice]N sux:rah[beat]V/t
 c.5.7.a,Public announcement of the loss of a seal,,4,sux:lu[person]N sux:name[any]AJ sux:niŋ[thing]N sux:name[any]AJ sux:ugu[skull]N sux:tuku[acquire]V/t

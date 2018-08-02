@@ -1,4 +1,4 @@
-id_text,text_name,version,l_no,text
+etcsl_no,text_name,version,l_no,text
 c.4.07.4,A hymn to Inana as Ninegala (Inana D),,1,sux:ud[sun]N sux:gal[big]V/i sux:piriŋ[lion]N sux:an[sky]N sux:inim[word]N sux:me[be]V/i sux:dug[speak]V/t
 c.4.07.4,A hymn to Inana as Ninegala (Inana D),,2,sux:Inanak[1]DN sux:ud[sun]N sux:gal[big]V/i sux:piriŋ[lion]N sux:an[sky]N sux:inim[word]N sux:me[be]V/i sux:dug[speak]V/t
 c.4.07.4,A hymn to Inana as Ninegala (Inana D),,3,sux:Ninegalak[1]DN sux:an[sky]N sux:ud[sun]N sux:zal[pass]V/t sux:izi[fire]N sux:sud[distant]V/i sux:il[raise]V/t
@@ -43,7 +43,7 @@ c.4.07.4,A hymn to Inana as Ninegala (Inana D),,41,sux:dubtuku[runner]N sux:aša
 c.4.07.4,A hymn to Inana as Ninegala (Inana D),,42,sux:ki[place]N sux:peš[thick]V/i sux:saŋki[forehead]N sux:šuš[cover]V/t
 c.4.07.4,A hymn to Inana as Ninegala (Inana D),,43,sux:urmah[lion]N sux:ursaŋ[hero]N
 c.4.07.4,A hymn to Inana as Ninegala (Inana D),,44,sux:kur[mountain]N sux:saŋki[forehead]N sux:gid[long]V/i
-c.4.07.4,A hymn to Inana as Ninegala (Inana D),,45,sux:Inanak[1]DN sux:an[sky]N sux:nim[fly]N sux:ŋir[flash]V/i sux:ki[place]N sux:kušum[cvne]N sux:tag[touch]V/t
+c.4.07.4,A hymn to Inana as Ninegala (Inana D),,45,sux:Inanak[1]DN sux:an[sky]N sux:nim-ŋir[flash]V/t sux:ŋir[flash]V/i sux:ki[place]N sux:kušum[cvne]N sux:tag[touch]V/t
 c.4.07.4,A hymn to Inana as Ninegala (Inana D),,46,sux:šertab[fence]N sux:eš[shrine]N sux:Ibgal[1]TN
 c.4.07.4,A hymn to Inana as Ninegala (Inana D),,47,sux:ŋarza[rites]N sux:me[Being]N sux:An[1]DN sux:si[horn]N sux:sa[equal]V/t
 c.4.07.4,A hymn to Inana as Ninegala (Inana D),,48,sux:ŋarza[rites]N sux:me[Being]N sux:Enki[1]DN sux:ŋešhur[plan]N sux:hur[scratch]V/t
@@ -119,7 +119,7 @@ c.4.07.4,A hymn to Inana as Ninegala (Inana D),,117,sux:Ninegalak[1]DN sux:kiʾu
 c.4.07.4,A hymn to Inana as Ninegala (Inana D),,118,sux:usan[evening]N sux:mul[star]N sux:teš[unity]N sux:gur[turn]V/i
 c.4.07.4,A hymn to Inana as Ninegala (Inana D),,119,sux:Utu[1]DN sux:agrun[cella]N sux:kur[enter]V/i
 c.4.07.4,A hymn to Inana as Ninegala (Inana D),,120,sux:Inanak[1]DN sux:izi[fire]N sux:an[sky]N sux:ni[fear]N sux:gur[lift]V/t
-c.4.07.4,A hymn to Inana as Ninegala (Inana D),,121,sux:Ninegalak[1]DN sux:ki[place]N sux:surdu[falcon]N sux:šeg[voice]N sux:zu[know]V/t
+c.4.07.4,A hymn to Inana as Ninegala (Inana D),,121,sux:Ninegalak[1]DN sux:ki[place]N sux:surdu[falcon]N sux:šeg-gi[make-noise]V/t sux:zu[know]V/t
 c.4.07.4,A hymn to Inana as Ninegala (Inana D),,122,sux:kiʾenedi[locus]N sux:hub[foot]N sux:gub[stand]V/i sux:zir[break]V/t
 c.4.07.4,A hymn to Inana as Ninegala (Inana D),,123,sux:hašgal[thigh]N sux:bala[turn]V/t
 c.4.07.4,A hymn to Inana as Ninegala (Inana D),,124,sux:itud[moon]N sux:mul[star]N sux:DU[DU]V

@@ -1,4 +1,4 @@
-id_text,text_name,version,l_no,text
+etcsl_no,text_name,version,l_no,text
 c.2.5.6.4,An adab to Inana for Ur-Ninurta (Ur-Ninurta D),,1,sux:innin[lady]N sux:zag[side]N sux:dib[pass]V/t sux:Anunak[1]DN sux:me[Being]N sux:kilib[total]N sux:ur[pluck]V/t
 c.2.5.6.4,An adab to Inana for Ur-Ninurta (Ur-Ninurta D),,2,sux:igi[eye]N sux:nirŋal[authoritative]AJ sux:an[sky]N sux:ki[place]N sux:kur[mountain]N sux:igi[eye]N sux:ŋal[be]V/i
 c.2.5.6.4,An adab to Inana for Ur-Ninurta (Ur-Ninurta D),,3,sux:Inanak[1]DN sux:piriŋ[lion]N sux:an[sky]N sux:mul[star]N sux:me[Being]N sux:galam[skilful]V/i
@@ -36,8 +36,8 @@ c.2.5.6.4,An adab to Inana for Ur-Ninurta (Ur-Ninurta D),,34,sux:Urninurta[1]RN 
 c.2.5.6.4,An adab to Inana for Ur-Ninurta (Ur-Ninurta D),,35,sux:saŋara[notation]N
 c.2.5.6.4,An adab to Inana for Ur-Ninurta (Ur-Ninurta D),,36,sux:Inanak[1]DN sux:ur[root]N sux:kug[pure]V/i sux:niŋ[thing]N sux:dug[good]V/i sux:Urninurta[1]RN sux:namtil[life]N sux:ud[sun]N sux:sud[distant]V/i
 c.2.5.6.4,An adab to Inana for Ur-Ninurta (Ur-Ninurta D),,37,sux:ŋešgiŋal[notation]N
-c.2.5.6.4,An adab to Inana for Ur-Ninurta (Ur-Ninurta D),,38,sux:nin[lady]N sux:me[Being]N sux:gal[big]V/i sux:namnirŋal[authority]N sux:šu[hand]N sux:du[push]V/t
-c.2.5.6.4,An adab to Inana for Ur-Ninurta (Ur-Ninurta D),,39,sux:Inanak[1]DN sux:nin[lady]N sux:me[Being]N sux:gal[big]V/i sux:namnirŋal[authority]N sux:šu[hand]N sux:du[push]V/t
+c.2.5.6.4,An adab to Inana for Ur-Ninurta (Ur-Ninurta D),,38,sux:nin[lady]N sux:me[Being]N sux:gal[big]V/i sux:namnirŋal[authority]N sux:šu[hand]N sux:šu-du[complete]V/t
+c.2.5.6.4,An adab to Inana for Ur-Ninurta (Ur-Ninurta D),,39,sux:Inanak[1]DN sux:nin[lady]N sux:me[Being]N sux:gal[big]V/i sux:namnirŋal[authority]N sux:šu[hand]N sux:šu-du[complete]V/t
 c.2.5.6.4,An adab to Inana for Ur-Ninurta (Ur-Ninurta D),,40,sux:Urninurta[1]RN sux:heŋal[plenty]N sux:zi[life]N sux:sudŋal[long-lasting]N sux:saŋ[head]N sux:rig[donate]V/t
 c.2.5.6.4,An adab to Inana for Ur-Ninurta (Ur-Ninurta D),,41,sux:uru[subscript]N
 c.2.5.6.4,An adab to Inana for Ur-Ninurta (Ur-Ninurta D),,42,sux:adab[drum]N sux:Inanak[1]DN

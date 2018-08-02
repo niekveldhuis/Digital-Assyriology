@@ -1,4 +1,4 @@
-id_text,text_name,version,l_no,text
+etcsl_no,text_name,version,l_no,text
 c.1.4.1.1,Dumuzid and Ŋeštin-ana,,1,sux:galla[policeman]N sux:tur[small]V/i sux:kag[mouth]N sux:bad[open]V/t sux:galla[policeman]N sux:gal[big]V/i sux:gu[voice]N sux:de[pour]V/t
 c.1.4.1.1,Dumuzid and Ŋeštin-ana,,2,sux:ŋen[go]V/i sux:ur[root]N sux:kug[pure]V/i sux:Inanak[1]DN sux:ŋen[go]V/i
 c.1.4.1.1,Dumuzid and Ŋeštin-ana,,3,sux:galla[policeman]N sux:Unug[1]SN sux:kur[enter]V/i sux:kug[pure]V/i sux:Inanak[1]DN sux:dab[seize]V/t
@@ -7,7 +7,7 @@ c.1.4.1.1,Dumuzid and Ŋeštin-ana,,5,sux:ki[place]N sux:šag[heart]N sux:de[bri
 c.1.4.1.1,Dumuzid and Ŋeštin-ana,,6,sux:ki[place]N sux:Ereškigalak[1]DN sux:ŋen[go]V/i sux:kur[mountain]N sux:ed[ascend]V/i
 c.1.4.1.1,Dumuzid and Ŋeštin-ana,,7,sux:ba[garment]N sux:kug[pure]V/i sux:pala[garment]N sux:tug[textile]N sux:namnin[ladyship]N sux:mur[dress]V/t sux:kur[mountain]N sux:ed[ascend]V/i
 c.1.4.1.1,Dumuzid and Ŋeštin-ana,,8,sux:men[tiara]N sux:kug[pure]V/i sux:mete[appropriate-thing]N sux:kag[mouth]N sux:silim[healthy]V/i sux:saŋ[head]N sux:ŋar[place]V/t sux:kur[mountain]N sux:ed[ascend]V/i
-c.1.4.1.1,Dumuzid and Ŋeštin-ana,,9,sux:hili[attractiveness]N sux:igi[eye]N sux:du[push]V/t sux:kur[mountain]N sux:ed[ascend]V/i
+c.1.4.1.1,Dumuzid and Ŋeštin-ana,,9,sux:hili[attractiveness]N sux:igi[eye]N sux:šu-du[complete]V/t sux:kur[mountain]N sux:ed[ascend]V/i
 c.1.4.1.1,Dumuzid and Ŋeštin-ana,,10,sux:ŋiri[foot]N sux:du[spread]V/t sux:kur[mountain]N sux:ed[ascend]V/i
 c.1.4.1.1,Dumuzid and Ŋeštin-ana,,11,sux:ud[sun]N sux:zaʾe[you]IP sux:ed[ascend]V/i sux:BU[BU]V
 c.1.4.1.1,Dumuzid and Ŋeštin-ana,,12,sux:kug[pure]V/i sux:Inanak[1]DN sux:bur[spread]V/t
@@ -15,7 +15,7 @@ c.1.4.1.1,Dumuzid and Ŋeštin-ana,,13,sux:Inanak[1]DN sux:ni[self]RP sux:Dumuzi
 c.1.4.1.1,Dumuzid and Ŋeštin-ana,,14,sux:ŋuruš[male]N sux:raba[clamp]N sux:mah[great]V/i sux:ŋiri[foot]N sux:ŋar[place]V/t
 c.1.4.1.1,Dumuzid and Ŋeštin-ana,,15,sux:ŋuruš[male]N sux:esad[trap]N sux:šu[hand]N sux:šub[fall]V/t sux:ŋešgu[stock]N sux:gu[neck]N sux:ŋar[place]V/t
 c.1.4.1.1,Dumuzid and Ŋeštin-ana,,16,sux:henzer[pin?]N sux:kibir[implement]N sux:šukur[lance]N sux:mah[great]V/i sux:igi[eye]N sux:il[raise]V/t
-c.1.4.1.1,Dumuzid and Ŋeštin-ana,,17,sux:hazin[ax]N sux:gal[big]V/i sux:usar[cvne]N sux:ak[do]V/t
+c.1.4.1.1,Dumuzid and Ŋeštin-ana,,17,sux:hazin[ax]N sux:gal[big]V/i sux:usar-ak[sharpen]V/t sux:ak[do]V/t
 c.1.4.1.1,Dumuzid and Ŋeštin-ana,,18,sux:ŋuruš[male]N sux:gub[stand]V/i sux:tuš[sit]V/i
 c.1.4.1.1,Dumuzid and Ŋeštin-ana,,19,sux:tuggun[garment]N sux:šub[fall]V/t sux:gub[stand]V/i
 c.1.4.1.1,Dumuzid and Ŋeštin-ana,,20,sux:ŋuruš[male]N sux:a[arm]N sux:la[hang]V/t sux:tug[textile]N sux:hulu[bad]V/i sux:ak[do]V/t
@@ -69,6 +69,6 @@ c.1.4.1.1,Dumuzid and Ŋeštin-ana,,67,sux:Dumuzid[1]DN sux:amaš[sheepfold]N su
 c.1.4.1.1,Dumuzid and Ŋeštin-ana,,68,sux:niŋin[encircle]V/t sux:dab[seize]V/t
 c.1.4.1.1,Dumuzid and Ŋeštin-ana,,69,sux:kiŋ[seek]V/t sux:igi[eye]N sux:du[spread]V/t
 c.1.4.1.1,Dumuzid and Ŋeštin-ana,,70,sux:ŋuruš[male]N sux:e[house]N sux:me[be]V/i sux:hazin[ax]N sux:šu[hand]N sux:ŋal[be]V/i sux:teŋ[approach]V/i
-c.1.4.1.1,Dumuzid and Ŋeštin-ana,,71,sux:ŋiriʾurak[knife]N sux:usar[cvne]N sux:kisiga[fence]N sux:dub[tremble]V/t
+c.1.4.1.1,Dumuzid and Ŋeštin-ana,,71,sux:ŋiriʾurak[knife]N sux:usar-ak[sharpen]V/t sux:kisiga[fence]N sux:dub[tremble]V/t
 c.1.4.1.1,Dumuzid and Ŋeštin-ana,,72,sux:nin[sister]N sux-x-emesal:naŋ[fate]N sux:šeš[brother]N sux:iri[city]N sux:mušen[bird]N sux:niŋin[encircle]V/t
 c.1.4.1.1,Dumuzid and Ŋeštin-ana,,73,sux:šeš[brother]N sux-x-emesal:aŋgig[bad-thing]N sux:gal[big]V/i sux:šu[hand]N sux:de[bring]V/t sux:ŋen[go]V/i sux:me[Being]N sux:teŋ[approach]V/i

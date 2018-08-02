@@ -1,4 +1,4 @@
-id_text,text_name,version,l_no,text
+etcsl_no,text_name,version,l_no,text
 c.5.3.3,The debate between Winter and Summer,,1,sux:An[1]DN sux:namnirŋal[authority]N sux:saŋ[head]N sux:il[raise]V/t sux:ud[sun]N sux:dug[good]V/i sux:e[leave]V/i
 c.5.3.3,The debate between Winter and Summer,,2,sux:ŋešhur[plan]N sux:sig[put]V/t sux:uŋ[people]N sux:daŋal[wide]V/i sux:tag[touch]V/t
 c.5.3.3,The debate between Winter and Summer,,3,sux:Enlil[1]DN sux:ki[place]N sux:gud[ox]N sux:gal[big]V/i sux:ŋiri[foot]N sux:gub[stand]V/i
@@ -187,7 +187,7 @@ c.5.3.3,The debate between Winter and Summer,,208,sux:lugize[reed-cutter]N sux:b
 c.5.3.3,The debate between Winter and Summer,,209,sux:šidim[builder]N sux:UN.IL₂[menial]N sux:e[house]N sux:gub[stand]V/i sux:a[arm]N sux:muš[face]N sux:de[bring]V/t
 c.5.3.3,The debate between Winter and Summer,,210,sux:bahargal[potter]N sux:im[clay]N sux:bal[dig]V/t sux:izi[fire]N sux:il[raise]V/t sux:ŋeš[tree]N sux:il[raise]V/t sux:dug[pot]N
 c.5.3.3,The debate between Winter and Summer,,211,sux:ušbar[weaver]N sux:aktum[garment]N sux:aŋar[~garment]N sux:bardul[garment]N sux:tuku[beat]V/t
-c.5.3.3,The debate between Winter and Summer,,212,sux:lungak[brewer]N sux:bappir[~beer]N sux:šukin[prostration]N sux:kiburu[locus]N sux:du[spread]V/t
+c.5.3.3,The debate between Winter and Summer,,212,sux:lungak[brewer]N sux:bappir[~beer]N sux:šukin-dab[prostrate]V/t sux:kiburu[locus]N sux:du[spread]V/t
 c.5.3.3,The debate between Winter and Summer,,213,sux:muhaldim[cook]N sux:ninda[bread]N sux:ŋešbun[meal]N sux:gal[big]V/i sux:emeš[summer]N sux:e[leave]V/i
 c.5.3.3,The debate between Winter and Summer,,214,sux:šidim[builder]N sux:gal[big]V/i sux:ur[roof]N sux:aŋar[~roof]N sux:ri[impose]V/t
 c.5.3.3,The debate between Winter and Summer,,215,sux:lu[person]N sux:suhub[boots]N sux:esir[shoe]N sux:libir[old]V/i sux:sed[cold]V/i sux:DU[DU]V
@@ -207,14 +207,14 @@ c.5.3.3,The debate between Winter and Summer,,228,sux:kalam[land]N sux:saŋ[head
 c.5.3.3,The debate between Winter and Summer,,229,sux:lugal[king]N sux:mu[name]N sux:pad[find]V/t sux:Nanna[1]DN sux:dumu[child]N sux:Enlil[1]DN
 c.5.3.3,The debate between Winter and Summer,,230,sux:Ibbisuen[1]RN sux:šutur[garment]N sux:hursaŋ[mountain]N sux:mur[dress]V/t
 c.5.3.3,The debate between Winter and Summer,,231,sux:bardul[garment]N sux:niŋlam[garment]N sux:mi[cvne]N sux:dug[speak]V/t
-c.5.3.3,The debate between Winter and Summer,,232,sux:ezem[festival]N sux:diŋir[deity]N sux:šu[hand]N sux:du[push]V/t
+c.5.3.3,The debate between Winter and Summer,,232,sux:ezem[festival]N sux:diŋir[deity]N sux:šu[hand]N sux:šu-du[complete]V/t
 c.5.3.3,The debate between Winter and Summer,,233,sux:Anunak[1]DN sux:bar[outside]V/t sux:kug[pure]V/i sux:tug[textile]N sux:ŋal[be]V/i
 c.5.3.3,The debate between Winter and Summer,,234,sux:Enamtilak[1]TN sux:kituš[dwelling]N sux:kug[pure]V/i sux:namlugal[kingship]N sux:An[1]DN sux:ŋar[place]V/t
 c.5.3.3,The debate between Winter and Summer,,235,sux:ki[place]N sux:ur[liver]N sux:sag[good]V/i sux:ŋešbun[meal]N sux:niŋ[thing]N sux:dug[good]V/i sux:si[horn]N sux:sa[equal]V/t
 c.5.3.3,The debate between Winter and Summer,,236,sux:šem[drum]N sux:ala[drum]N sux:si.EZEN[fret]N sux:ŋešgudi[instrument]N sux:ni[self]RP sux:du[play]V/t
 c.5.3.3,The debate between Winter and Summer,,237,sux:tigi[instrument]N sux:zamzam[instrument]N sux:niŋ[thing]N sux:šag[heart]N sux:hul[rejoice]V/i sux:ud[sun]N sux:zal[pass]V/t
 c.5.3.3,The debate between Winter and Summer,,238,sux:ŋaʾe[I]IP sux:ŋeštin[vine]N sux:lu[abundant]V/i sux:gu[eat]V/t sux:naŋ[drink]V/t sux:gal[big]V/i
-c.5.3.3,The debate between Winter and Summer,,239,sux:tug[textile]N sux:i[oil]N sux:dug[good]V/i sux:du[push]V/t
+c.5.3.3,The debate between Winter and Summer,,239,sux:tug[textile]N sux:i[oil]N sux:dug[good]V/i sux:šu-du[complete]V/t
 c.5.3.3,The debate between Winter and Summer,,240,sux:niŋtug[container]N sux:šutur[garment]N sux:aktum[garment]N sux:a[arm]N sux:e[leave]V/i
 c.5.3.3,The debate between Winter and Summer,,241,sux:kum[hot]V/i sux:dugud[heavy]V/i sux:emeš[summer]N sux:saŋ[head]N sux:Kiengir[1]GN sux:zi[life]N sux:de[bring]V/t
 c.5.3.3,The debate between Winter and Summer,,242,sux:uŋ[people]N sux:saŋ[head]N sux:giggi[black]V/i sux:ur[root]N sux:kinud[bedroom]N sux:ŋar[place]V/t
@@ -255,7 +255,7 @@ c.5.3.3,The debate between Winter and Summer,,276,sux:geme[worker]N sux:lu[perso
 c.5.3.3,The debate between Winter and Summer,,277,sux:ašag[field]N sux:enten[winter]N sux:kiŋ[work]N sux:ak[do]V/t
 c.5.3.3,The debate between Winter and Summer,,278,sux:absin[furrow]N sux:šag[heart]N sux:gid[long]V/i
 c.5.3.3,The debate between Winter and Summer,,279,sux:še[barley]N sux:kišar[earth]N sux:šub[fall]V/t sux:burudugud[flock]N sux:de[bring]V/t
-c.5.3.3,The debate between Winter and Summer,,280,sux:nisig[greenery]N sux:guru[grind]V/t sux:lu[person]N sux:dul[lower]V/t sux:nisig[greenery]N sux:ganba[price]N sux:du[push]V/t
+c.5.3.3,The debate between Winter and Summer,,280,sux:nisig[greenery]N sux:guru[grind]V/t sux:lu[person]N sux:dul[lower]V/t sux:nisig[greenery]N sux:ganba[price]N sux:šu-du[complete]V/t
 c.5.3.3,The debate between Winter and Summer,,281,sux:gi[reed]N sux:sumun[old]V/i sux:il[raise]V/t sux:dupsik[basket]N sux:dubsadara[lame]N sux:lu[person]N sux:manzila[foot]N
 c.5.3.3,The debate between Winter and Summer,,282,sux:a[arm]N sux:dirig[float]V/i sux:kag[mouth]N sux:du[spread]V/t sux:dug[speak]V/t sux:ŋešhur[plan]N sux:me[Being]N sux:zu[know]V/t
 c.5.3.3,The debate between Winter and Summer,,283,sux:2-kam-ma[2nd]NU sux:emeš[summer]N sux:enten[winter]N sux:in[abuse]N sux:dub[tremble]V/t

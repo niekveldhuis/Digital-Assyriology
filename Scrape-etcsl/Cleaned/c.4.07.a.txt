@@ -1,4 +1,4 @@
-id_text,text_name,version,l_no,text
+etcsl_no,text_name,version,l_no,text
 c.4.07.a,A hymn to Inana,,1,sux:innin[lady]N
 c.4.07.a,A hymn to Inana,,2,sux:šul[youth]V/i sux:mes[hero]N sux:gi[turn]V/i sux:Inanak[1]DN sux:nin[lady]N
 c.4.07.a,A hymn to Inana,,3,sux:eš[shrine]N sux:Nibru[1]SN sux:Edukug[1]TN sux:dug[speak]V/t sux:An[1]DN
@@ -26,7 +26,7 @@ c.4.07.a,A hymn to Inana,,24,sux:girin[carnelian]N sux:duru[wet]V/i sux:hursaŋ[
 c.4.07.a,A hymn to Inana,,25,sux:zagin[lapis]N sux:duru[wet]V/i sux:kur[mountain]N sux:šuba[multicoloured]V/i sux:dirig[raft]N sux:igi[eye]N sux:saŋ[choose]V/t sux:la[hang]V/t
 c.4.07.a,A hymn to Inana,,26,sux:kugsig[gold]N sux:Harali[1]GN sux:izi[fire]N sux:tab[burn]V/t
 c.4.07.a,A hymn to Inana,,27,sux:hašhur[apple]N sux:gal[big]V/i sux:ŋal[be]V/i
-c.4.07.a,A hymn to Inana,,28,sux:al[hoe]N sux:dug[speak]V/t
+c.4.07.a,A hymn to Inana,,28,sux:al-dug[desire]V/t sux:dug[speak]V/t
 c.4.07.a,A hymn to Inana,,29,sux:zulum[date]N sux:aʾansur[spadix]N sux:hili[attractiveness]N sux:gur[lift]V/t
 c.4.07.a,A hymn to Inana,,30,sux:dag[dwelling]N sux:til[live]V/i
 c.4.07.a,A hymn to Inana,,31,sux:dag[dwelling]N sux:An[1]DN sux:til[live]V/i

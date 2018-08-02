@@ -1,4 +1,4 @@
-id_text,text_name,version,l_no,text
+etcsl_no,text_name,version,l_no,text
 c.4.14.1,A hymn to Nanše (Nanše A),,1,sux:iri[city]N sux:me[be]V/i sux:iri[city]N sux:me[be]V/i sux:me[Being]N sux:pad[find]V/t
 c.4.14.1,A hymn to Nanše (Nanše A),,2,sux:Niŋin[1]SN sux:iri[city]N sux:me[be]V/i sux:me[Being]N sux:pad[find]V/t
 c.4.14.1,A hymn to Nanše (Nanše A),,3,sux:iri[city]N sux:kug[pure]V/i sux:iri[city]N sux:me[be]V/i sux:me[Being]N sux:pad[find]V/t
@@ -35,7 +35,7 @@ c.4.14.1,A hymn to Nanše (Nanše A),,33,sux:Nanše[1]DN sux:Lagaš[1]SN sux:he�
 c.4.14.1,A hymn to Nanše (Nanše A),,34,sux:šennu[priest]N sux:šag[heart]N sux:kug[pure]V/i sux:pad[find]V/t
 c.4.14.1,A hymn to Nanše (Nanše A),,35,sux:Urnanše[1]RN sux:en[lord]N sux:ki[place]N sux:aŋ[measure]V/t sux:Lagaš[1]SN sux:barag[sanctum]N sux:si[fill]V/t
 c.4.14.1,A hymn to Nanše (Nanše A),,36,sux:sipad[shepherd]N sux:ŋidru[scepter]N sux:mah[great]V/i sux:šum[give]V/t
-c.4.14.1,A hymn to Nanše (Nanše A),,37,sux:Gudea[1]RN sux:me[Being]N sux:kal[rare]V/i sux:šu[hand]N sux:du[push]V/t
+c.4.14.1,A hymn to Nanše (Nanše A),,37,sux:Gudea[1]RN sux:me[Being]N sux:kal[rare]V/i sux:šu[hand]N sux:šu-du[complete]V/t
 c.4.14.1,A hymn to Nanše (Nanše A),,38,sux:sipad[shepherd]N sux:šag[heart]N sux:kug[pure]V/i sux:pad[find]V/t
 c.4.14.1,A hymn to Nanše (Nanše A),,39,sux:Gudea[1]RN sux:ensik[ruler]N sux:Lagaš[1]SN
 c.4.14.1,A hymn to Nanše (Nanše A),,40,sux:ab[cow]N sux:henun[plenty]N sux:tigi[instrument]N sux:gub[stand]V/i
@@ -56,7 +56,7 @@ c.4.14.1,A hymn to Nanše (Nanše A),,54,sux:a[water]N sux:sed[cold]V/i sux:Idsi
 c.4.14.1,A hymn to Nanše (Nanše A),,55,sux:niŋ[thing]N sux:asilala[joy]N sux:Lagaš[1]SN sux:de[bring]V/t
 c.4.14.1,A hymn to Nanše (Nanše A),,56,sux:kurun[beer]N sux:adam[habitation]N sux:de[bring]V/t
 c.4.14.1,A hymn to Nanše (Nanše A),,57,sux:gir[oven]N sux:gal[big]V/i sux:unu[dwelling]N sux:gal[big]V/i sux:sa[equal]V/t
-c.4.14.1,A hymn to Nanše (Nanše A),,58,sux:Nanše[1]DN sux:eš[shrine]N sux:nindaba[offering]N sux:šeg[voice]N sux:gi[turn]V/i
+c.4.14.1,A hymn to Nanše (Nanše A),,58,sux:Nanše[1]DN sux:eš[shrine]N sux:nindaba[offering]N sux:šeg-gi[make-noise]V/t sux:gi[turn]V/i
 c.4.14.1,A hymn to Nanše (Nanše A),,59,sux:nin[lady]N sux:buršuma[dowager]N sux:Enlil[1]DN
 c.4.14.1,A hymn to Nanše (Nanše A),,60,sux:Nanše[1]DN sux:nin[lady]N sux:heŋal[plenty]N sux:kalam[land]N sux:til[live]V/i
 c.4.14.1,A hymn to Nanše (Nanše A),,61,sux:TUM.KAK.SAL[unmng]N sux:dumu[child]N sux:Enki[1]DN
@@ -142,7 +142,7 @@ c.4.14.1,A hymn to Nanše (Nanše A),,140,sux:ki[place]N sux:namerim[oath]N sux:
 c.4.14.1,A hymn to Nanše (Nanše A),,141,sux:saŋ[head]N sux:niŋsag[unmng]N sux:niŋkud[due]N sux:ak[do]V/t sux:niŋšab[unmng]N sux:ba[allot]V/t
 c.4.14.1,A hymn to Nanše (Nanše A),,142,sux:na[stone]N sux:tur[small]V/i sux:na[stone]N sux:gal[big]V/i sux:šu[hand]N sux:zig[rise]V/t
 c.4.14.1,A hymn to Nanše (Nanše A),,143,sux:ban[unit]N sux:tur[small]V/i sux:ban[unit]N sux:gal[big]V/i sux:šu[hand]N sux:zig[rise]V/t
-c.4.14.1,A hymn to Nanše (Nanše A),,144,sux:niŋ[thing]N sux:tuku[acquire]V/t sux:niŋ[thing]N sux:al[hoe]N sux:dug[speak]V/t
+c.4.14.1,A hymn to Nanše (Nanše A),,144,sux:niŋ[thing]N sux:tuku[acquire]V/t sux:niŋ[thing]N sux:al-dug[desire]V/t sux:dug[speak]V/t
 c.4.14.1,A hymn to Nanše (Nanše A),,145,sux:gu[eat]V/t sux:gu[eat]V/t sux:dug[speak]V/t
 c.4.14.1,A hymn to Nanše (Nanše A),,146,sux:naŋ[drink]V/t sux:naŋ[drink]V/t sux:dug[speak]V/t
 c.4.14.1,A hymn to Nanše (Nanše A),,147,sux:utul[tureen]N sux:gub[stand]V/i sux:kaš[beer]N sux:sur[press]V/t
