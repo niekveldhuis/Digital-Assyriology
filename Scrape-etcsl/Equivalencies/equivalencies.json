@@ -21212,6 +21212,11 @@
 	    "pos": "DN",
 	    "gw": "1"
 	},
+	"urud[1]DN" :{
+	    "cf": "Urud",
+	    "pos": "DN",
+	    "gw": "1"
+	}, 
         "Ur-Ninazu[1]PN": {
             "cf": "Urninazu",
             "pos": "PN",
